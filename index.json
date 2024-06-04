@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-04, 06:29:18",
+      "https://lobste.rs/s/ndyhzr/building_open_private_ai_with_mozilla"
+    ],
+    [
+      "Building open, private AI with the Mozilla Builders Accelerator",
+      "https://blog.mozilla.org/en/mozilla/mozilla-builders-accelerator/"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 06:05:00",
       "https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan"
     ],
@@ -217,16 +227,6 @@
     [
       "Message authentication codes for safer distributed transactions",
       "https://mazzo.li/posts/mac-distributed-tx.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 07:28:03",
-      "https://lobste.rs/s/yubugw/simd_detection_nested_quotes"
-    ],
-    [
-      "SIMD detection of nested quotes",
-      "https://blog.sesse.net/blog/tech/2024-06-02-11-10_simd_detection_of_nested_quotes.html"
     ]
   ],
   [
