@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-04, 18:43:23](https://lobste.rs/s/qdz3oz/understanding_orphan_sections) - [Understanding orphan sections](https://maskray.me/blog/2024-06-02-understanding-orphan-sections)
+* [2024-06-04, 19:04:16](https://lobste.rs/s/tz41nv/mozilla_builders_challenge_2024) - [Mozilla Builders Challenge 2024](https://future.mozilla.org/builders/)
+* [2024-06-04, 18:58:39](https://lobste.rs/s/zjx95x/herbie_optimize_floating_point) - [Herbie: optimize floating-point expressions](https://herbie.uwplse.org/demo/)
 * [2024-06-04, 17:56:12](https://lobste.rs/s/og8whq/why_do_electronic_components_have_such) - [Why Do Electronic Components Have Such Odd Values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 17:26:58](https://lobste.rs/s/ahs1ih/running_linux_on_ancient_netbook) - [Running Linux on an ancient Netbook](https://jahed.dev/2023/11/21/running-linux-on-an-ancient-netbook/)
 * [2024-06-04, 15:56:42](https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
@@ -18,7 +19,6 @@
 * [2024-06-04, 01:36:47](https://lobste.rs/s/uhdxcb/freebsd_14_1_release_announcement) - [FreeBSD 14.1-RELEASE Announcement](https://www.freebsd.org/releases/14.1R/announce/)
 * [2024-06-04, 00:40:35](https://lobste.rs/s/vbp8wa/please_support_skip_main_content_on_your) - [Please support “skip to main content” on your docs site](https://technicalwriting.dev/a11y/skip.html)
 * [2024-06-03, 22:07:06](https://lobste.rs/s/nykxf6/libadwaita_splitting_gtk_design) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
-* [2024-06-03, 21:02:44](https://lobste.rs/s/kgctwv/python_s_many_command_line_utilities) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 * [2024-06-03, 18:27:09](https://lobste.rs/s/5eek62/my_portable_ergonomic_setup) - [My portable ergonomic setup](https://ntietz.com/blog/my-portable-ergonomic-setup/)
 * [2024-06-03, 15:25:13](https://lobste.rs/s/nybhsl/this_is_why_you_should_never_use_parser) - [This is why you should never use parser combinators and PEG](https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg)
 * [2024-06-03, 15:21:21](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when) - [What’s your preferred tech stack when building side projects?](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when)
