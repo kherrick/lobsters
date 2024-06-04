@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 09:16:46](https://lobste.rs/s/6sf46r/state_sourcehut_our_plans_for_future) - [The state of SourceHut and our plans for the future](https://sourcehut.org/blog/2024-06-04-status-and-plans/)
+* [2024-06-04, 09:15:11](https://lobste.rs/s/uzd0yz/automemcpy_framework_for_automatic) - [automemcpy: a framework for automatic generation of fundamental memory operations](https://dl.acm.org/doi/10.1145/3459898.3463904)
 * [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 06:29:18](https://lobste.rs/s/ndyhzr/building_open_private_ai_with_mozilla) - [Building open, private AI with the Mozilla Builders Accelerator](https://blog.mozilla.org/en/mozilla/mozilla-builders-accelerator/)
 * [2024-06-04, 06:05:00](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan) - [Corporate Agile 'systems' who is a fan?](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan)

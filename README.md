@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-04, 09:16:46](https://lobste.rs/s/6sf46r/state_sourcehut_our_plans_for_future) - [The state of SourceHut and our plans for the future](https://sourcehut.org/blog/2024-06-04-status-and-plans/)
+* [2024-06-04, 09:15:11](https://lobste.rs/s/uzd0yz/automemcpy_framework_for_automatic) - [automemcpy: a framework for automatic generation of fundamental memory operations](https://dl.acm.org/doi/10.1145/3459898.3463904)
 * [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 06:29:18](https://lobste.rs/s/ndyhzr/building_open_private_ai_with_mozilla) - [Building open, private AI with the Mozilla Builders Accelerator](https://blog.mozilla.org/en/mozilla/mozilla-builders-accelerator/)
 * [2024-06-04, 06:05:00](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan) - [Corporate Agile 'systems' who is a fan?](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan)
@@ -10,7 +12,6 @@
 * [2024-06-03, 22:07:06](https://lobste.rs/s/nykxf6/libadwaita_splitting_gtk_design) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 * [2024-06-03, 21:02:44](https://lobste.rs/s/kgctwv/python_s_many_command_line_utilities) - [Python's many command-line utilities](https://www.pythonmorsels.com/cli-tools/)
 * [2024-06-03, 18:27:09](https://lobste.rs/s/5eek62/my_portable_ergonomic_setup) - [My portable ergonomic setup](https://ntietz.com/blog/my-portable-ergonomic-setup/)
-* [2024-06-03, 16:49:18](https://lobste.rs/s/g6zyeb/cirkoban_sokoban_meets_cellular) - [Cirkoban: Sokoban meets cellular automata written in Scheme](https://spritely.institute/news/cirkoban-sokoban-meets-cellular-automata-written-in-scheme.html)
 * [2024-06-03, 15:25:13](https://lobste.rs/s/nybhsl/this_is_why_you_should_never_use_parser) - [This is why you should never use parser combinators and PEG](https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg)
 * [2024-06-03, 15:21:37](https://lobste.rs/s/ubxoua/why_are_vulnerabilities_out_control_2024) - [Why are vulnerabilities out of control in 2024?](https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/)
 * [2024-06-03, 15:21:21](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when) - [What’s your preferred tech stack when building side projects?](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when)
@@ -20,7 +21,6 @@
 * [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 * [2024-06-03, 13:40:19](https://lobste.rs/s/rqaxqi/don_t_name_packages_common_nouns) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-03, 12:36:48](https://lobste.rs/s/ynuzui/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
-* [2024-06-03, 10:52:10](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 * [2024-06-03, 08:30:30](https://lobste.rs/s/uud3hp/message_authentication_codes_for_safer) - [Message authentication codes for safer distributed transactions](https://mazzo.li/posts/mac-distributed-tx.html)
 * [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
