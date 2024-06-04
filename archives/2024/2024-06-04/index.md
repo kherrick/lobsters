@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 12:46:28](https://lobste.rs/s/7c9kku/solving_zelda_with_antithesis_sdk) - [Solving Zelda with the Antithesis SDK](https://antithesis.com/blog/zelda/)
+* [2024-06-04, 12:42:14](https://lobste.rs/s/jsxewl/really_divisionless_random_numbers) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 * [2024-06-04, 12:30:14](https://lobste.rs/s/nwrjej/encryption_at_rest_whose_threat_model_is) - [Encryption At Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
 * [2024-06-04, 12:10:57](https://lobste.rs/s/vbdzzl/proposal_terraform_plan_light) - [Proposal: terraform plan -light](https://www.bejarano.io/terraform-plan-light/)
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)

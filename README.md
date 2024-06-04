@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-04, 12:30:14](https://lobste.rs/s/nwrjej/encryption_at_rest_whose_threat_model_is) - [Encryption At Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
+* [2024-06-04, 12:46:28](https://lobste.rs/s/7c9kku/solving_zelda_with_antithesis_sdk) - [Solving Zelda with the Antithesis SDK](https://antithesis.com/blog/zelda/)
+* [2024-06-04, 12:42:14](https://lobste.rs/s/jsxewl/really_divisionless_random_numbers) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 * [2024-06-04, 12:10:57](https://lobste.rs/s/vbdzzl/proposal_terraform_plan_light) - [Proposal: terraform plan -light](https://www.bejarano.io/terraform-plan-light/)
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
-* [2024-06-04, 11:38:40](https://lobste.rs/s/bikmux/bcrypt_at_25_retrospective_on_password) - [Bcrypt at 25: A Retrospective on Password Security](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
 * [2024-06-04, 09:16:46](https://lobste.rs/s/6sf46r/state_sourcehut_our_plans_for_future) - [The state of SourceHut and our plans for the future](https://sourcehut.org/blog/2024-06-04-status-and-plans/)
 * [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 06:29:18](https://lobste.rs/s/ndyhzr/building_open_private_ai_with_mozilla) - [Building open, private AI with the Mozilla Builders Accelerator](https://blog.mozilla.org/en/mozilla/mozilla-builders-accelerator/)
