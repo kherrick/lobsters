@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 12:30:14](https://lobste.rs/s/nwrjej/encryption_at_rest_whose_threat_model_is) - [Encryption At Rest: Whose Threat Model Is It Anyway?](https://scottarc.blog/2024/06/02/encryption-at-rest-whose-threat-model-is-it-anyway/)
+* [2024-06-04, 12:10:57](https://lobste.rs/s/vbdzzl/proposal_terraform_plan_light) - [Proposal: terraform plan -light](https://www.bejarano.io/terraform-plan-light/)
+* [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 11:38:40](https://lobste.rs/s/bikmux/bcrypt_at_25_retrospective_on_password) - [Bcrypt at 25: A Retrospective on Password Security](https://www.usenix.org/publications/loginonline/bcrypt-25-retrospective-password-security)
 * [2024-06-04, 09:16:46](https://lobste.rs/s/6sf46r/state_sourcehut_our_plans_for_future) - [The state of SourceHut and our plans for the future](https://sourcehut.org/blog/2024-06-04-status-and-plans/)
 * [2024-06-04, 09:15:11](https://lobste.rs/s/uzd0yz/automemcpy_framework_for_automatic) - [automemcpy: a framework for automatic generation of fundamental memory operations](https://dl.acm.org/doi/10.1145/3459898.3463904)
