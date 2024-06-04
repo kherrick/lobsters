@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-04, 17:10:13](https://lobste.rs/s/xocitx/bddbddb_using_datalog_with_binary) - [bddbddb: Using Datalog with Binary Decision Diagrams for Program Analysis](https://people.csail.mit.edu/mcarbin/papers/aplas05.pdf)
+* [2024-06-04, 17:02:17](https://lobste.rs/s/pt5xbz/sound_precise_fast_abstract) - [Sound, Precise, and Fast Abstract Interpretation with Tristate Numbers](https://arxiv.org/abs/2105.05398)
 * [2024-06-04, 16:50:47](https://lobste.rs/s/tssty3/import_dhcp6leased_8) - [Import dhcp6leased(8)](https://marc.info/?l=openbsd-cvs&m=171733108907232&w=2)
 * [2024-06-04, 15:56:42](https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
 * [2024-06-04, 15:53:20](https://lobste.rs/s/t438ba/pypy_known_bits_jit_optimization) - [the PyPy \"known bits\" JIT optimization](https://mastodon.social/@cfbolz/112557672421317765)
@@ -22,9 +24,7 @@
 * [2024-06-03, 15:21:21](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when) - [What’s your preferred tech stack when building side projects?](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when)
 * [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
 * [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
-* [2024-06-03, 13:40:19](https://lobste.rs/s/rqaxqi/don_t_name_packages_common_nouns) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
-* [2024-06-03, 07:22:49](https://lobste.rs/s/1tdstv/hacking_millions_modems_investigating) - [Hacking Millions of Modems (and Investigating Who Hacked My Modem)](https://samcurry.net/hacking-millions-of-modems)
 
 ## [Archives](archives/index.md)
 
