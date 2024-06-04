@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-04, 05:16:43](https://lobste.rs/s/nxshzc/using_dhall_manage_github_actions) - [Using Dhall To Manage GitHub Actions Workflows](https://exploring-better-ways.bellroy.com/using-dhall-to-manage-github-actions-workflows.html)
 * [2024-06-04, 02:49:43](https://lobste.rs/s/fbgsoc/announcing_brioche) - [Announcing Brioche](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-04, 01:36:47](https://lobste.rs/s/uhdxcb/freebsd_14_1_release_announcement) - [FreeBSD 14.1-RELEASE Announcement](https://www.freebsd.org/releases/14.1R/announce/)
 * [2024-06-04, 00:40:35](https://lobste.rs/s/vbp8wa/please_support_skip_main_content_on_your) - [Please support “skip to main content” on your docs site](https://technicalwriting.dev/a11y/skip.html)
@@ -10,7 +11,6 @@
 * [2024-06-03, 15:25:13](https://lobste.rs/s/nybhsl/this_is_why_you_should_never_use_parser) - [This is why you should never use parser combinators and PEG](https://safinaskar.writeas.com/this-is-why-you-should-never-use-parser-combinators-and-peg)
 * [2024-06-03, 15:21:37](https://lobste.rs/s/ubxoua/why_are_vulnerabilities_out_control_2024) - [Why are vulnerabilities out of control in 2024?](https://opensourcesecurity.io/2024/06/03/why-are-vulnerabilities-out-of-control-in-2024/)
 * [2024-06-03, 15:21:21](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when) - [What’s your preferred tech stack when building side projects?](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when)
-* [2024-06-03, 15:04:49](https://lobste.rs/s/dqtj50/experimenting_with_local_alt_text) - [Experimenting with local alt text generation in Firefox Nightly](https://hacks.mozilla.org/2024/05/experimenting-with-local-alt-text-generation-in-firefox-nightly/)
 * [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
 * [2024-06-03, 14:34:25](https://lobste.rs/s/m3nk6r/fmt_modern_c_string_formatting_library) - [{fmt}: a modern C++ string formatting library](https://fmt.dev/)
 * [2024-06-03, 14:02:39](https://lobste.rs/s/buc3da/overview_starlark_language) - [An overview of the Starlark language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
