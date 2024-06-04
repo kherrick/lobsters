@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-04, 06:05:00](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan) - [Corporate Agile 'systems' who is a fan?](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan)
 * [2024-06-04, 05:41:23](https://lobste.rs/s/vwwtwf/ruminating_about_mutable_value) - [Ruminating about mutable value semantics](https://www.scattered-thoughts.net/writing/ruminating-about-mutable-value-semantics)
 * [2024-06-04, 05:16:43](https://lobste.rs/s/nxshzc/using_dhall_manage_github_actions) - [Using Dhall To Manage GitHub Actions Workflows](https://exploring-better-ways.bellroy.com/using-dhall-to-manage-github-actions-workflows.html)
 * [2024-06-04, 02:49:43](https://lobste.rs/s/fbgsoc/announcing_brioche) - [Announcing Brioche](https://brioche.dev/blog/announcing-brioche/)
@@ -17,7 +18,6 @@
 * [2024-06-03, 14:02:39](https://lobste.rs/s/buc3da/overview_starlark_language) - [An overview of the Starlark language](https://laurent.le-brun.eu/blog/an-overview-of-starlark)
 * [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 * [2024-06-03, 13:40:19](https://lobste.rs/s/rqaxqi/don_t_name_packages_common_nouns) - [Don't name packages common nouns](https://brandur.org/fragments/go-no-common-nouns)
-* [2024-06-03, 12:55:04](https://lobste.rs/s/ziyu9p/flicker_free_elite_on_bbc_micro_like_bbc) - [Flicker-free Elite on the BBC Micro (like the BBC Master)](https://stardot.org.uk/forums/viewtopic.php?t=22170)
 * [2024-06-03, 12:36:48](https://lobste.rs/s/ynuzui/lisp_icing_cake) - [Lisp: Icing or Cake?](https://dthompson.us/posts/lisp-icing-or-cake.html)
 * [2024-06-03, 10:52:10](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwybwo/what_are_you_doing_this_week)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
