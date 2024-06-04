@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-06-04, 15:38:01",
-      "https://lobste.rs/s/4hjitg/road_less_scheduled"
+      "2024-06-04, 15:56:42",
+      "https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions"
     ],
     [
-      "The Road Less Scheduled",
-      "https://arxiv.org/abs/2405.15682"
+      "A DSL for Implementing Math Functions",
+      "https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/"
+    ]
+  ],
+  [
+    [
+      "2024-06-04, 15:53:20",
+      "https://lobste.rs/s/t438ba/pypy_known_bits_jit_optimization"
+    ],
+    [
+      "the PyPy \"known bits\" JIT optimization",
+      "https://mastodon.social/@cfbolz/112557672421317765"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Stop Scraping my Git Forge",
       "https://gabrielsimmer.com/blog/stop-scraping-git-forge"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 14:02:39",
-      "https://lobste.rs/s/buc3da/overview_starlark_language"
-    ],
-    [
-      "An overview of the Starlark language",
-      "https://laurent.le-brun.eu/blog/an-overview-of-starlark"
     ]
   ],
   [
