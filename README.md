@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-04, 13:51:25](https://lobste.rs/s/yc0v3m/how_i_made_3d_level_2d_game) - [How I made a 3D Level in a 2D Game](https://youtu.be/Qvlb-Yo6Rqo)
+* [2024-06-04, 15:38:01](https://lobste.rs/s/4hjitg/road_less_scheduled) - [The Road Less Scheduled](https://arxiv.org/abs/2405.15682)
 * [2024-06-04, 12:46:28](https://lobste.rs/s/7c9kku/solving_zelda_with_antithesis_sdk) - [Solving Zelda with the Antithesis SDK](https://antithesis.com/blog/zelda/)
 * [2024-06-04, 12:42:14](https://lobste.rs/s/jsxewl/really_divisionless_random_numbers) - [really divisionless random numbers](https://dotat.at/@/2022-04-20-really-divisionless.html)
 * [2024-06-04, 12:10:57](https://lobste.rs/s/vbdzzl/proposal_terraform_plan_light) - [Proposal: terraform plan -light](https://www.bejarano.io/terraform-plan-light/)
