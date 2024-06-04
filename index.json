@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-04, 02:49:43",
+      "https://lobste.rs/s/fbgsoc/announcing_brioche"
+    ],
+    [
+      "Announcing Brioche",
+      "https://brioche.dev/blog/announcing-brioche/"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 01:36:47",
       "https://lobste.rs/s/uhdxcb/freebsd_14_1_release_announcement"
     ],
@@ -237,16 +247,6 @@
     [
       "84—24",
       "https://84-24.org/"
-    ]
-  ],
-  [
-    [
-      "2024-06-02, 21:18:36",
-      "https://lobste.rs/s/nzvoww/rust_is_not_about_memory_safety"
-    ],
-    [
-      "rust is not about memory safety",
-      "https://o-santi.github.io/blog/rust-is-not-about-memory-safety/"
     ]
   ]
 ]
