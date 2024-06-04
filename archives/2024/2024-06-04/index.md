@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-04](index.md)
 
+* [2024-06-04, 21:08:34](https://lobste.rs/s/msrxnx/don_t_fix_it_just_because_it_s_technical) - [Don’t fix it just because it’s technical debt](https://blog.danslimmon.com/2023/05/08/dont-fix-it-just-because-its-technical-debt/)
 * [2024-06-04, 20:36:39](https://lobste.rs/s/2gcdjh/javascript_meta_frameworks_informal) - [JavaScript meta-frameworks, an informal survey](https://lobste.rs/s/2gcdjh/javascript_meta_frameworks_informal)
 * [2024-06-04, 19:04:16](https://lobste.rs/s/tz41nv/mozilla_builders_challenge_2024) - [Mozilla Builders Challenge 2024](https://future.mozilla.org/builders/)
 * [2024-06-04, 18:58:39](https://lobste.rs/s/zjx95x/herbie_optimize_floating_point) - [Herbie: optimize floating-point expressions](https://herbie.uwplse.org/demo/)
