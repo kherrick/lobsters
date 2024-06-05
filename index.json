@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-05, 18:18:54",
+      "https://lobste.rs/s/zmasif/simple_efficient_robust_hash_tables_for"
+    ],
+    [
+      "Simple, Efficient, and Robust Hash Tables for Join Processing",
+      "https://cedardb.com/blog/simple_efficient_hash_tables/"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 18:05:27",
       "https://lobste.rs/s/o4rhrf/blistering_fast_mandelbrot_rendering"
     ],
@@ -237,16 +247,6 @@
     [
       "You'll regret using natural keys",
       "https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 01:36:47",
-      "https://lobste.rs/s/uhdxcb/freebsd_14_1_release_announcement"
-    ],
-    [
-      "FreeBSD 14.1-RELEASE Announcement",
-      "https://www.freebsd.org/releases/14.1R/announce/"
     ]
   ]
 ]
