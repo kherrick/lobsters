@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-05, 17:50:04](https://lobste.rs/s/6qy8mm/raspberry_pi_ai_kit) - [Raspberry Pi AI Kit](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
+* [2024-06-05, 17:45:55](https://lobste.rs/s/am8kpm/alice_wonderland_simple_tasks_showing) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 17:29:29](https://lobste.rs/s/k6b0i2/building_zed_text_editor) - [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
 * [2024-06-05, 15:10:22](https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month) - [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 14:21:36](https://lobste.rs/s/hnogxk/268_higher_failure_rates_for_agile) - [268% Higher Failure Rates for Agile Software Projects, Study Finds](https://www.engprax.com/post/268-higher-failure-rates-for-agile-software-projects-study-finds)
@@ -23,8 +25,6 @@
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 01:36:47](https://lobste.rs/s/uhdxcb/freebsd_14_1_release_announcement) - [FreeBSD 14.1-RELEASE Announcement](https://www.freebsd.org/releases/14.1R/announce/)
-* [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
-* [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 
 ## [Archives](archives/index.md)
 
