@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-05, 07:56:18](https://lobste.rs/s/x4b6io/kiosk_mode_bypass_for_ariane_allegro) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in terminal](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:46:41](https://lobste.rs/s/scvsik/time_say_goodbye_google_fonts_cache) - [Time to Say Goodbye to Google Fonts: Cache Performance (2020)](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
 * [2024-06-05, 06:40:45](https://lobste.rs/s/5h1jrs/on_dependency_usage_rust) - [On Dependency Usage in Rust](https://landaire.net/on-dependency-usage-in-rust/)
 * [2024-06-05, 06:37:29](https://lobste.rs/s/ok2w7x/pumpkin_eclipse) - [The Pumpkin Eclipse](https://blog.lumen.com/the-pumpkin-eclipse/)
@@ -18,7 +19,6 @@
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 06:05:00](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan) - [Corporate Agile 'systems' who is a fan?](https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan)
-* [2024-06-04, 05:16:43](https://lobste.rs/s/nxshzc/using_dhall_manage_github_actions) - [Using Dhall To Manage GitHub Actions Workflows](https://exploring-better-ways.bellroy.com/using-dhall-to-manage-github-actions-workflows.html)
 * [2024-06-04, 02:49:43](https://lobste.rs/s/fbgsoc/announcing_brioche) - [Announcing Brioche](https://brioche.dev/blog/announcing-brioche/)
 * [2024-06-04, 01:36:47](https://lobste.rs/s/uhdxcb/freebsd_14_1_release_announcement) - [FreeBSD 14.1-RELEASE Announcement](https://www.freebsd.org/releases/14.1R/announce/)
 * [2024-06-04, 00:40:35](https://lobste.rs/s/vbp8wa/please_support_skip_main_content_on_your) - [Please support “skip to main content” on your docs site](https://technicalwriting.dev/a11y/skip.html)
