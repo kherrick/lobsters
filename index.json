@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-05, 11:47:56",
+      "https://lobste.rs/s/qzjmap/attacking_nist_sp_800_108"
+    ],
+    [
+      "Attacking NIST SP 800-108",
+      "https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 09:28:19",
       "https://lobste.rs/s/ivy6lg/chopping_utf_8"
     ],
@@ -187,16 +197,6 @@
     [
       "You'll regret using natural keys",
       "https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 02:49:43",
-      "https://lobste.rs/s/fbgsoc/announcing_brioche"
-    ],
-    [
-      "Announcing Brioche",
-      "https://brioche.dev/blog/announcing-brioche/"
     ]
   ],
   [
