@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 18:35:45](https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024) - [The state of Vulkan apps in 2024](https://www.carette.xyz/posts/state_of_vulkan_2024/)
+* [2024-06-05, 18:30:18](https://lobste.rs/s/uuxfiw/feature_flags_bazel_builds) - [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
 * [2024-06-05, 18:18:54](https://lobste.rs/s/zmasif/simple_efficient_robust_hash_tables_for) - [Simple, Efficient, and Robust Hash Tables for Join Processing](https://cedardb.com/blog/simple_efficient_hash_tables/)
 * [2024-06-05, 18:05:27](https://lobste.rs/s/o4rhrf/blistering_fast_mandelbrot_rendering) - [Blistering fast Mandelbrot rendering in Rust (2021)](https://www.gcardone.net/2021-03-04-blistering-fast-mandelbrot-in-rust/)
 * [2024-06-05, 17:50:04](https://lobste.rs/s/6qy8mm/raspberry_pi_ai_kit) - [Raspberry Pi AI Kit](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
