@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-05, 01:01:37",
+      "https://lobste.rs/s/k4jfmw/how_optimize_llms_for_accuracy"
+    ],
+    [
+      "How to optimize LLMs for accuracy",
+      "https://platform.openai.com/docs/guides/optimizing-llm-accuracy"
+    ]
+  ],
+  [
+    [
       "2024-06-04, 23:14:51",
       "https://lobste.rs/s/mjilkv/not_just_scale"
     ],
@@ -37,6 +47,16 @@
     [
       "Herbie: optimize floating-point expressions",
       "https://herbie.uwplse.org/demo/"
+    ]
+  ],
+  [
+    [
+      "2024-06-04, 18:43:23",
+      "https://lobste.rs/s/qdz3oz/understanding_orphan_sections"
+    ],
+    [
+      "Understanding orphan sections",
+      "https://maskray.me/blog/2024-06-02-understanding-orphan-sections"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-06-04, 06:29:18",
-      "https://lobste.rs/s/ndyhzr/building_open_private_ai_with_mozilla"
-    ],
-    [
-      "Building open, private AI with the Mozilla Builders Accelerator",
-      "https://blog.mozilla.org/en/mozilla/mozilla-builders-accelerator/"
-    ]
-  ],
-  [
-    [
       "2024-06-04, 06:05:00",
       "https://lobste.rs/s/rwwyst/corporate_agile_systems_who_is_fan"
     ],
@@ -227,16 +237,6 @@
     [
       "Stop Scraping my Git Forge",
       "https://gabrielsimmer.com/blog/stop-scraping-git-forge"
-    ]
-  ],
-  [
-    [
-      "2024-06-03, 13:40:54",
-      "https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0"
-    ],
-    [
-      "Announcing DuckDB 1.0.0",
-      "https://duckdb.org/2024/06/03/announcing-duckdb-100.html"
     ]
   ],
   [
