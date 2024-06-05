@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 09:28:19](https://lobste.rs/s/ivy6lg/chopping_utf_8) - [Chopping UTF-8](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
 * [2024-06-05, 08:23:31](https://lobste.rs/s/tiz5f3/pqshield_plugs_timing_leaks_kyber_ml_kem) - [PQShield plugs timing leaks in Kyber / ML-KEM to improve PQC implementation maturity](https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/)
 * [2024-06-05, 07:56:18](https://lobste.rs/s/x4b6io/kiosk_mode_bypass_for_ariane_allegro) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in terminal](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:46:41](https://lobste.rs/s/scvsik/time_say_goodbye_google_fonts_cache) - [Time to Say Goodbye to Google Fonts: Cache Performance (2020)](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
