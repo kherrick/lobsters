@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 13:29:37](https://lobste.rs/s/5y55lq/enter_paradis_new_chapter_rust_s) - [Enter paradis — A new chapter in Rust's parallelism story](https://andreaslongva.com/blog/enter-paradis/)
 * [2024-06-05, 13:05:39](https://lobste.rs/s/ffe481/why_is_redirect_logic_always_so_complex) - [Why is redirect logic always so complex?](https://thedailydeveloper.substack.com/p/why-is-redirect-logic-always-so-complex)
 * [2024-06-05, 11:55:22](https://lobste.rs/s/uv6dfn/capital_offense_how_handle) - [Capital Offense: How to Handle Abbreviations in CamelCase (2012)](https://www.approxion.com/capital-offenses-how-to-handle-abbreviations-in-camelcase/)
 * [2024-06-05, 11:47:56](https://lobste.rs/s/qzjmap/attacking_nist_sp_800_108) - [Attacking NIST SP 800-108](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
