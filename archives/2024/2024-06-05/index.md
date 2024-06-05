@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 15:10:22](https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month) - [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 14:21:36](https://lobste.rs/s/hnogxk/268_higher_failure_rates_for_agile) - [268% Higher Failure Rates for Agile Software Projects, Study Finds](https://www.engprax.com/post/268-higher-failure-rates-for-agile-software-projects-study-finds)
 * [2024-06-05, 13:29:37](https://lobste.rs/s/5y55lq/enter_paradis_new_chapter_rust_s) - [Enter paradis — A new chapter in Rust's parallelism story](https://andreaslongva.com/blog/enter-paradis/)
 * [2024-06-05, 13:05:39](https://lobste.rs/s/ffe481/why_is_redirect_logic_always_so_complex) - [Why is redirect logic always so complex?](https://thedailydeveloper.substack.com/p/why-is-redirect-logic-always-so-complex)
