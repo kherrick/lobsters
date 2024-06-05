@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 18:18:54](https://lobste.rs/s/zmasif/simple_efficient_robust_hash_tables_for) - [Simple, Efficient, and Robust Hash Tables for Join Processing](https://cedardb.com/blog/simple_efficient_hash_tables/)
 * [2024-06-05, 18:05:27](https://lobste.rs/s/o4rhrf/blistering_fast_mandelbrot_rendering) - [Blistering fast Mandelbrot rendering in Rust (2021)](https://www.gcardone.net/2021-03-04-blistering-fast-mandelbrot-in-rust/)
 * [2024-06-05, 17:50:04](https://lobste.rs/s/6qy8mm/raspberry_pi_ai_kit) - [Raspberry Pi AI Kit](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
 * [2024-06-05, 17:45:55](https://lobste.rs/s/am8kpm/alice_wonderland_simple_tasks_showing) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
