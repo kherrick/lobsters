@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-05, 18:05:27](https://lobste.rs/s/o4rhrf/blistering_fast_mandelbrot_rendering) - [Blistering fast Mandelbrot rendering in Rust (2021)](https://www.gcardone.net/2021-03-04-blistering-fast-mandelbrot-in-rust/)
 * [2024-06-05, 17:50:04](https://lobste.rs/s/6qy8mm/raspberry_pi_ai_kit) - [Raspberry Pi AI Kit](https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/)
 * [2024-06-05, 17:45:55](https://lobste.rs/s/am8kpm/alice_wonderland_simple_tasks_showing) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 17:29:29](https://lobste.rs/s/k6b0i2/building_zed_text_editor) - [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
@@ -15,7 +16,6 @@
 * [2024-06-05, 06:40:45](https://lobste.rs/s/5h1jrs/on_dependency_usage_rust) - [On Dependency Usage in Rust](https://landaire.net/on-dependency-usage-in-rust/)
 * [2024-06-04, 23:14:51](https://lobste.rs/s/mjilkv/not_just_scale) - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 * [2024-06-04, 21:08:34](https://lobste.rs/s/msrxnx/don_t_fix_it_just_because_it_s_technical) - [Don’t fix it just because it’s technical debt](https://blog.danslimmon.com/2023/05/08/dont-fix-it-just-because-its-technical-debt/)
-* [2024-06-04, 20:36:39](https://lobste.rs/s/2gcdjh/javascript_meta_frameworks_informal) - [JavaScript meta-frameworks, an informal survey](https://lobste.rs/s/2gcdjh/javascript_meta_frameworks_informal)
 * [2024-06-04, 18:58:39](https://lobste.rs/s/zjx95x/herbie_optimize_floating_point) - [Herbie: optimize floating-point expressions](https://herbie.uwplse.org/demo/)
 * [2024-06-04, 17:56:12](https://lobste.rs/s/og8whq/why_do_electronic_components_have_such) - [Why Do Electronic Components Have Such Odd Values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 17:26:58](https://lobste.rs/s/ahs1ih/running_linux_on_ancient_netbook) - [Running Linux on an ancient Netbook](https://jahed.dev/2023/11/21/running-linux-on-an-ancient-netbook/)
