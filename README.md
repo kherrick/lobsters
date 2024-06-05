@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-05, 13:05:39](https://lobste.rs/s/ffe481/why_is_redirect_logic_always_so_complex) - [Why is redirect logic always so complex?](https://thedailydeveloper.substack.com/p/why-is-redirect-logic-always-so-complex)
 * [2024-06-05, 11:55:22](https://lobste.rs/s/uv6dfn/capital_offense_how_handle) - [Capital Offense: How to Handle Abbreviations in CamelCase (2012)](https://www.approxion.com/capital-offenses-how-to-handle-abbreviations-in-camelcase/)
 * [2024-06-05, 11:47:56](https://lobste.rs/s/qzjmap/attacking_nist_sp_800_108) - [Attacking NIST SP 800-108](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 * [2024-06-05, 09:28:19](https://lobste.rs/s/ivy6lg/chopping_utf_8) - [Chopping UTF-8](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
@@ -21,7 +22,6 @@
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 * [2024-06-04, 01:36:47](https://lobste.rs/s/uhdxcb/freebsd_14_1_release_announcement) - [FreeBSD 14.1-RELEASE Announcement](https://www.freebsd.org/releases/14.1R/announce/)
-* [2024-06-04, 00:40:35](https://lobste.rs/s/vbp8wa/please_support_skip_main_content_on_your) - [Please support “skip to main content” on your docs site](https://technicalwriting.dev/a11y/skip.html)
 * [2024-06-03, 15:21:21](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when) - [What’s your preferred tech stack when building side projects?](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when)
 * [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
