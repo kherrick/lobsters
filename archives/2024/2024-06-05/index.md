@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 22:06:12](https://lobste.rs/s/xglxdl/dhcpv6_pd_first_steps) - [DHCPv6-PD - First steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 19:55:14](https://lobste.rs/s/vdmoza/using_stm_for_modular_concurrency) - [Using STM for Modular Concurrency: An Industrial Experience Report on Software Transactional Memory (2020)](https://www.youtube.com/watch?v=qlAKyivFxGQ)
 * [2024-06-05, 18:35:45](https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024) - [The state of Vulkan apps in 2024](https://www.carette.xyz/posts/state_of_vulkan_2024/)
 * [2024-06-05, 18:30:18](https://lobste.rs/s/uuxfiw/feature_flags_bazel_builds) - [Feature flags in Bazel builds](https://pigweed.dev/docs/blog/02-bazel-feature-flags.html)
