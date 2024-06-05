@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-05, 23:06:43](https://lobste.rs/s/buh7qy/is_e2ee_more_important_than_diversified) - [Is e2ee more important than diversified transports?](https://archive.is/S8Gx8#80%)
 * [2024-06-05, 22:06:12](https://lobste.rs/s/xglxdl/dhcpv6_pd_first_steps) - [DHCPv6-PD - First steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 19:55:14](https://lobste.rs/s/vdmoza/using_stm_for_modular_concurrency) - [Using STM for Modular Concurrency: An Industrial Experience Report on Software Transactional Memory (2020)](https://www.youtube.com/watch?v=qlAKyivFxGQ)
 * [2024-06-05, 18:35:45](https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024) - [The state of Vulkan apps in 2024](https://www.carette.xyz/posts/state_of_vulkan_2024/)
@@ -15,7 +16,6 @@
 * [2024-06-05, 11:55:22](https://lobste.rs/s/uv6dfn/capital_offense_how_handle) - [Capital Offense: How to Handle Abbreviations in CamelCase (2012)](https://www.approxion.com/capital-offenses-how-to-handle-abbreviations-in-camelcase/)
 * [2024-06-05, 11:47:56](https://lobste.rs/s/qzjmap/attacking_nist_sp_800_108) - [Attacking NIST SP 800-108](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 * [2024-06-05, 09:28:19](https://lobste.rs/s/ivy6lg/chopping_utf_8) - [Chopping UTF-8](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
-* [2024-06-05, 08:23:31](https://lobste.rs/s/tiz5f3/pqshield_plugs_timing_leaks_kyber_ml_kem) - [PQShield plugs timing leaks in Kyber / ML-KEM to improve PQC implementation maturity](https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/)
 * [2024-06-05, 07:56:18](https://lobste.rs/s/x4b6io/kiosk_mode_bypass_for_ariane_allegro) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in terminal](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:46:41](https://lobste.rs/s/scvsik/time_say_goodbye_google_fonts_cache) - [Time to Say Goodbye to Google Fonts: Cache Performance (2020)](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
 * [2024-06-05, 06:40:45](https://lobste.rs/s/5h1jrs/on_dependency_usage_rust) - [On Dependency Usage in Rust](https://landaire.net/on-dependency-usage-in-rust/)

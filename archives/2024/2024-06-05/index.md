@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-05](index.md)
 
+* [2024-06-05, 23:06:43](https://lobste.rs/s/buh7qy/is_e2ee_more_important_than_diversified) - [Is e2ee more important than diversified transports?](https://archive.is/S8Gx8#80%)
 * [2024-06-05, 22:06:12](https://lobste.rs/s/xglxdl/dhcpv6_pd_first_steps) - [DHCPv6-PD - First steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 19:55:14](https://lobste.rs/s/vdmoza/using_stm_for_modular_concurrency) - [Using STM for Modular Concurrency: An Industrial Experience Report on Software Transactional Memory (2020)](https://www.youtube.com/watch?v=qlAKyivFxGQ)
 * [2024-06-05, 18:35:45](https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024) - [The state of Vulkan apps in 2024](https://www.carette.xyz/posts/state_of_vulkan_2024/)
