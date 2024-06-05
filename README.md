@@ -14,6 +14,7 @@
 * [2024-06-05, 11:55:22](https://lobste.rs/s/uv6dfn/capital_offense_how_handle) - [Capital Offense: How to Handle Abbreviations in CamelCase (2012)](https://www.approxion.com/capital-offenses-how-to-handle-abbreviations-in-camelcase/)
 * [2024-06-05, 11:47:56](https://lobste.rs/s/qzjmap/attacking_nist_sp_800_108) - [Attacking NIST SP 800-108](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 * [2024-06-05, 09:28:19](https://lobste.rs/s/ivy6lg/chopping_utf_8) - [Chopping UTF-8](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
+* [2024-06-05, 08:23:31](https://lobste.rs/s/tiz5f3/pqshield_plugs_timing_leaks_kyber_ml_kem) - [PQShield plugs timing leaks in Kyber / ML-KEM to improve PQC implementation maturity](https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/)
 * [2024-06-05, 07:56:18](https://lobste.rs/s/x4b6io/kiosk_mode_bypass_for_ariane_allegro) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in terminal](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:46:41](https://lobste.rs/s/scvsik/time_say_goodbye_google_fonts_cache) - [Time to Say Goodbye to Google Fonts: Cache Performance (2020)](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
 * [2024-06-05, 06:40:45](https://lobste.rs/s/5h1jrs/on_dependency_usage_rust) - [On Dependency Usage in Rust](https://landaire.net/on-dependency-usage-in-rust/)
@@ -22,7 +23,6 @@
 * [2024-06-04, 18:58:39](https://lobste.rs/s/zjx95x/herbie_optimize_floating_point) - [Herbie: optimize floating-point expressions](https://herbie.uwplse.org/demo/)
 * [2024-06-04, 17:56:12](https://lobste.rs/s/og8whq/why_do_electronic_components_have_such) - [Why Do Electronic Components Have Such Odd Values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 17:26:58](https://lobste.rs/s/ahs1ih/running_linux_on_ancient_netbook) - [Running Linux on an ancient Netbook](https://jahed.dev/2023/11/21/running-linux-on-an-ancient-netbook/)
-* [2024-06-04, 12:46:28](https://lobste.rs/s/7c9kku/solving_zelda_with_antithesis_sdk) - [Solving Zelda with the Antithesis SDK](https://antithesis.com/blog/zelda/)
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
 * [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 
