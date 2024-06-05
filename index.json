@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-05, 19:55:14",
+      "https://lobste.rs/s/vdmoza/using_stm_for_modular_concurrency"
+    ],
+    [
+      "Using STM for Modular Concurrency: An Industrial Experience Report on Software Transactional Memory (2020)",
+      "https://www.youtube.com/watch?v=qlAKyivFxGQ"
+    ]
+  ],
+  [
+    [
       "2024-06-05, 18:35:45",
       "https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024"
     ],
@@ -37,6 +47,16 @@
     [
       "Blistering fast Mandelbrot rendering in Rust (2021)",
       "https://www.gcardone.net/2021-03-04-blistering-fast-mandelbrot-in-rust/"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 17:50:04",
+      "https://lobste.rs/s/6qy8mm/raspberry_pi_ai_kit"
+    ],
+    [
+      "Raspberry Pi AI Kit",
+      "https://www.raspberrypi.com/news/raspberry-pi-ai-kit-available-now-at-70/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Chopping UTF-8",
       "https://domm.plix.at/perl/2024_06_chopping_utf8.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 08:23:31",
-      "https://lobste.rs/s/tiz5f3/pqshield_plugs_timing_leaks_kyber_ml_kem"
-    ],
-    [
-      "PQShield plugs timing leaks in Kyber / ML-KEM to improve PQC implementation maturity",
-      "https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Solving Zelda with the Antithesis SDK",
       "https://antithesis.com/blog/zelda/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 12:10:57",
-      "https://lobste.rs/s/vbdzzl/proposal_terraform_plan_light"
-    ],
-    [
-      "Proposal: terraform plan -light",
-      "https://www.bejarano.io/terraform-plan-light/"
     ]
   ],
   [
