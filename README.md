@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-05, 08:23:31](https://lobste.rs/s/tiz5f3/pqshield_plugs_timing_leaks_kyber_ml_kem) - [PQShield plugs timing leaks in Kyber / ML-KEM to improve PQC implementation maturity](https://pqshield.com/pqshield-plugs-timing-leaks-in-kyber-ml-kem-to-improve-pqc-implementation-maturity/)
 * [2024-06-05, 07:56:18](https://lobste.rs/s/x4b6io/kiosk_mode_bypass_for_ariane_allegro) - [Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in terminal](https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/)
 * [2024-06-05, 07:46:41](https://lobste.rs/s/scvsik/time_say_goodbye_google_fonts_cache) - [Time to Say Goodbye to Google Fonts: Cache Performance (2020)](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
 * [2024-06-05, 06:40:45](https://lobste.rs/s/5h1jrs/on_dependency_usage_rust) - [On Dependency Usage in Rust](https://landaire.net/on-dependency-usage-in-rust/)
@@ -8,7 +9,6 @@
 * [2024-06-04, 21:08:34](https://lobste.rs/s/msrxnx/don_t_fix_it_just_because_it_s_technical) - [Don’t fix it just because it’s technical debt](https://blog.danslimmon.com/2023/05/08/dont-fix-it-just-because-its-technical-debt/)
 * [2024-06-04, 20:36:39](https://lobste.rs/s/2gcdjh/javascript_meta_frameworks_informal) - [JavaScript meta-frameworks, an informal survey](https://lobste.rs/s/2gcdjh/javascript_meta_frameworks_informal)
 * [2024-06-04, 18:58:39](https://lobste.rs/s/zjx95x/herbie_optimize_floating_point) - [Herbie: optimize floating-point expressions](https://herbie.uwplse.org/demo/)
-* [2024-06-04, 18:43:23](https://lobste.rs/s/qdz3oz/understanding_orphan_sections) - [Understanding orphan sections](https://maskray.me/blog/2024-06-02-understanding-orphan-sections)
 * [2024-06-04, 17:56:12](https://lobste.rs/s/og8whq/why_do_electronic_components_have_such) - [Why Do Electronic Components Have Such Odd Values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 17:26:58](https://lobste.rs/s/ahs1ih/running_linux_on_ancient_netbook) - [Running Linux on an ancient Netbook](https://jahed.dev/2023/11/21/running-linux-on-an-ancient-netbook/)
 * [2024-06-04, 15:56:42](https://lobste.rs/s/dzeynf/dsl_for_implementing_math_functions) - [A DSL for Implementing Math Functions](https://blog.sigplan.org/2024/06/03/a-dsl-for-implementing-math-functions/)
