@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-05, 17:29:29](https://lobste.rs/s/k6b0i2/building_zed_text_editor) - [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
 * [2024-06-05, 15:10:22](https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month) - [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 14:21:36](https://lobste.rs/s/hnogxk/268_higher_failure_rates_for_agile) - [268% Higher Failure Rates for Agile Software Projects, Study Finds](https://www.engprax.com/post/268-higher-failure-rates-for-agile-software-projects-study-finds)
 * [2024-06-05, 13:29:37](https://lobste.rs/s/5y55lq/enter_paradis_new_chapter_rust_s) - [Enter paradis — A new chapter in Rust's parallelism story](https://andreaslongva.com/blog/enter-paradis/)
@@ -17,7 +18,6 @@
 * [2024-06-04, 17:56:12](https://lobste.rs/s/og8whq/why_do_electronic_components_have_such) - [Why Do Electronic Components Have Such Odd Values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 17:26:58](https://lobste.rs/s/ahs1ih/running_linux_on_ancient_netbook) - [Running Linux on an ancient Netbook](https://jahed.dev/2023/11/21/running-linux-on-an-ancient-netbook/)
 * [2024-06-04, 15:53:20](https://lobste.rs/s/t438ba/pypy_known_bits_jit_optimization) - [the PyPy \"known bits\" JIT optimization](https://mastodon.social/@cfbolz/112557672421317765)
-* [2024-06-04, 13:51:25](https://lobste.rs/s/yc0v3m/how_i_made_3d_level_2d_game) - [How I made a 3D Level in a 2D Game](https://youtu.be/Qvlb-Yo6Rqo)
 * [2024-06-04, 12:46:28](https://lobste.rs/s/7c9kku/solving_zelda_with_antithesis_sdk) - [Solving Zelda with the Antithesis SDK](https://antithesis.com/blog/zelda/)
 * [2024-06-04, 12:10:57](https://lobste.rs/s/vbdzzl/proposal_terraform_plan_light) - [Proposal: terraform plan -light](https://www.bejarano.io/terraform-plan-light/)
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
