@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-05, 01:01:37](https://lobste.rs/s/k4jfmw/how_optimize_llms_for_accuracy) - [How to optimize LLMs for accuracy](https://platform.openai.com/docs/guides/optimizing-llm-accuracy)
 * [2024-06-04, 23:14:51](https://lobste.rs/s/mjilkv/not_just_scale) - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 * [2024-06-04, 21:08:34](https://lobste.rs/s/msrxnx/don_t_fix_it_just_because_it_s_technical) - [Don’t fix it just because it’s technical debt](https://blog.danslimmon.com/2023/05/08/dont-fix-it-just-because-its-technical-debt/)
 * [2024-06-04, 20:36:39](https://lobste.rs/s/2gcdjh/javascript_meta_frameworks_informal) - [JavaScript meta-frameworks, an informal survey](https://lobste.rs/s/2gcdjh/javascript_meta_frameworks_informal)
@@ -24,6 +23,7 @@
 * [2024-06-03, 22:07:06](https://lobste.rs/s/nykxf6/libadwaita_splitting_gtk_design) - [Libadwaita: Splitting GTK and Design Language](https://tesk.page/2024/06/03/libadwaita-splitting-gtk-and-design-language/)
 * [2024-06-03, 15:21:21](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when) - [What’s your preferred tech stack when building side projects?](https://lobste.rs/s/lfpd7t/what_s_your_preferred_tech_stack_when)
 * [2024-06-03, 14:40:58](https://lobste.rs/s/rvrl33/stop_scraping_my_git_forge) - [Stop Scraping my Git Forge](https://gabrielsimmer.com/blog/stop-scraping-git-forge)
+* [2024-06-03, 13:40:54](https://lobste.rs/s/hwifwa/announcing_duckdb_1_0_0) - [Announcing DuckDB 1.0.0](https://duckdb.org/2024/06/03/announcing-duckdb-100.html)
 * [2024-06-03, 09:38:52](https://lobste.rs/s/2f29df/i_m_forking_ladybird_stepping_down_as) - [I'm forking Ladybird and stepping down as SerenityOS BDFL](https://awesomekling.substack.com/p/forking-ladybird-and-stepping-down-serenityos)
 
 ## [Archives](archives/index.md)
