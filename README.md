@@ -19,11 +19,11 @@
 * [2024-06-06, 04:30:16](https://lobste.rs/s/pmx5ci/what_kind_bug_would_make_machine_learning) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-06, 04:24:38](https://lobste.rs/s/1czwzi/memory_mike_karels) - [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
 * [2024-06-06, 02:07:19](https://lobste.rs/s/7gefg8/ollama_cli_gets_interactive_upgrade_for) - [Ollama CLI Gets an Interactive Upgrade for LLM models management](https://x-cmd.com/mod/ollama)
+* [2024-06-05, 22:06:12](https://lobste.rs/s/xglxdl/dhcpv6_pd_first_steps) - [DHCPv6-PD - First steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 18:35:45](https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024) - [The state of Vulkan apps in 2024](https://www.carette.xyz/posts/state_of_vulkan_2024/)
 * [2024-06-05, 17:45:55](https://lobste.rs/s/am8kpm/alice_wonderland_simple_tasks_showing) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 17:29:29](https://lobste.rs/s/k6b0i2/building_zed_text_editor) - [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
 * [2024-06-05, 15:10:22](https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month) - [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
-* [2024-06-05, 11:55:22](https://lobste.rs/s/uv6dfn/capital_offense_how_handle) - [Capital Offense: How to Handle Abbreviations in CamelCase (2012)](https://www.approxion.com/capital-offenses-how-to-handle-abbreviations-in-camelcase/)
 * [2024-06-05, 06:40:45](https://lobste.rs/s/5h1jrs/on_dependency_usage_rust) - [On Dependency Usage in Rust](https://landaire.net/on-dependency-usage-in-rust/)
 
 ## [Archives](archives/index.md)
