@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-06, 08:21:43",
+      "https://lobste.rs/s/vr9kry/end_end_types_full_stack_web_apps_with"
+    ],
+    [
+      "End-to-end types: full-stack Web apps with Gleam by Hayleigh Thompson | Code BEAM Europe 2023",
+      "https://www.youtube.com/watch?v=eVtkYQva0Ic"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 04:30:16",
       "https://lobste.rs/s/pmx5ci/what_kind_bug_would_make_machine_learning"
     ],
@@ -237,16 +247,6 @@
     [
       "Don’t fix it just because it’s technical debt",
       "https://blog.danslimmon.com/2023/05/08/dont-fix-it-just-because-its-technical-debt/"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 12:01:35",
-      "https://lobste.rs/s/sbibrh/regular_recursive_restricted"
-    ],
-    [
-      "Regular, Recursive, Restricted",
-      "https://matklad.github.io/2024/06/04/regular-recursive-restricted.html"
     ]
   ]
 ]
