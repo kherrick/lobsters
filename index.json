@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-06-06, 13:03:11",
-      "https://lobste.rs/s/oycftp/building_serverless_secured_dead_drop"
-    ],
-    [
-      "Building a serverless secured dead drop",
-      "https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 12:56:34",
       "https://lobste.rs/s/ktytad/jep_455_primitive_types_patterns"
     ],
@@ -217,6 +207,16 @@
     [
       "Attacking NIST SP 800-108",
       "https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/"
+    ]
+  ],
+  [
+    [
+      "2024-06-05, 07:56:18",
+      "https://lobste.rs/s/x4b6io/kiosk_mode_bypass_for_ariane_allegro"
+    ],
+    [
+      "Kiosk mode bypass for an Ariane Allegro Scenario Player based hotel check-in terminal",
+      "https://www.pentagrid.ch/en/blog/ariane-allegro-hotel-check-in-terminal-kios-escape/"
     ]
   ],
   [
