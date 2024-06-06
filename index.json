@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-06, 14:27:36",
+      "https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag"
+    ],
+    [
+      "Accidental prompt injection against RAG applications",
+      "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 14:21:19",
       "https://lobste.rs/s/f2glj3/situational_awareness_decade_ahead"
     ],
@@ -237,16 +247,6 @@
     [
       "Not Just Scale",
       "https://brooker.co.za/blog/2024/06/04/scale.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-04, 21:08:34",
-      "https://lobste.rs/s/msrxnx/don_t_fix_it_just_because_it_s_technical"
-    ],
-    [
-      "Don’t fix it just because it’s technical debt",
-      "https://blog.danslimmon.com/2023/05/08/dont-fix-it-just-because-its-technical-debt/"
     ]
   ]
 ]
