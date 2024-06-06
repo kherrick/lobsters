@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 15:12:40](https://lobste.rs/s/eh1zu9/effect_best_way_build_robust_apps) - [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
+* [2024-06-06, 15:11:23](https://lobste.rs/s/t6koel/goldilocks_three_developers) - [Goldilocks and the Three Developers](https://www.codingwithjesse.com/blog/goldilocks-and-the-three-developers/)
 * [2024-06-06, 14:58:02](https://lobste.rs/s/ozkrcg/flaky_tests_overhaul_at_uber) - [Flaky Tests Overhaul at Uber](https://www.uber.com/blog/flaky-tests-overhaul/)
 * [2024-06-06, 14:27:36](https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 * [2024-06-06, 14:21:19](https://lobste.rs/s/f2glj3/situational_awareness_decade_ahead) - [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/)
