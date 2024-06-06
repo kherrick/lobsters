@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-06, 04:24:38](https://lobste.rs/s/1czwzi/memory_mike_karels) - [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
 * [2024-06-06, 02:07:19](https://lobste.rs/s/7gefg8/ollama_cli_gets_interactive_upgrade_for) - [Ollama CLI Gets an Interactive Upgrade for LLM models management](https://x-cmd.com/mod/ollama)
 * [2024-06-06, 01:31:14](https://lobste.rs/s/ea5q0a/how_we_improved_performance_userspace) - [How We Improved the Performance of a Userspace TCP Stack in Go by 5X](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
 * [2024-06-05, 22:06:12](https://lobste.rs/s/xglxdl/dhcpv6_pd_first_steps) - [DHCPv6-PD - First steps](https://sha256.net/dhcpv6-pd-first-steps.html)
@@ -24,7 +25,6 @@
 * [2024-06-04, 21:08:34](https://lobste.rs/s/msrxnx/don_t_fix_it_just_because_it_s_technical) - [Don’t fix it just because it’s technical debt](https://blog.danslimmon.com/2023/05/08/dont-fix-it-just-because-its-technical-debt/)
 * [2024-06-04, 17:56:12](https://lobste.rs/s/og8whq/why_do_electronic_components_have_such) - [Why Do Electronic Components Have Such Odd Values?](https://digilent.com/blog/why-do-electronic-components-have-such-odd-values/)
 * [2024-06-04, 12:01:35](https://lobste.rs/s/sbibrh/regular_recursive_restricted) - [Regular, Recursive, Restricted](https://matklad.github.io/2024/06/04/regular-recursive-restricted.html)
-* [2024-06-04, 07:44:49](https://lobste.rs/s/noazao/you_ll_regret_using_natural_keys) - [You'll regret using natural keys](https://blog.ploeh.dk/2024/06/03/youll-regret-using-natural-keys/)
 
 ## [Archives](archives/index.md)
 
