@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-06, 13:03:11",
+      "https://lobste.rs/s/oycftp/building_serverless_secured_dead_drop"
+    ],
+    [
+      "Building a serverless secured dead drop",
+      "https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 12:56:34",
+      "https://lobste.rs/s/ktytad/jep_455_primitive_types_patterns"
+    ],
+    [
+      "JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)",
+      "https://openjdk.org/jeps/455"
+    ]
+  ],
+  [
+    [
+      "2024-06-06, 12:54:40",
+      "https://lobste.rs/s/aeli5e/cryptographic_protocol_verification"
+    ],
+    [
+      "Cryptographic protocol verification with hax",
+      "https://cryspen.com/post/hax-pv/"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 10:02:22",
       "https://lobste.rs/s/2ca7dn/tpm_gpio_fail_how_bad_oem_firmware_ruins"
     ],
@@ -25,7 +55,7 @@
       "https://lobste.rs/s/vr9kry/end_end_types_full_stack_web_apps_with"
     ],
     [
-      "End-to-end types: full-stack Web apps with Gleam by Hayleigh Thompson | Code BEAM Europe 2023",
+      "End-to-end types: full-stack Web apps with Gleam",
       "https://www.youtube.com/watch?v=eVtkYQva0Ic"
     ]
   ],
@@ -81,16 +111,6 @@
   ],
   [
     [
-      "2024-06-05, 19:55:14",
-      "https://lobste.rs/s/vdmoza/using_stm_for_modular_concurrency"
-    ],
-    [
-      "Using STM for Modular Concurrency: An Industrial Experience Report on Software Transactional Memory (2020)",
-      "https://www.youtube.com/watch?v=qlAKyivFxGQ"
-    ]
-  ],
-  [
-    [
       "2024-06-05, 18:35:45",
       "https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024"
     ],
@@ -107,16 +127,6 @@
     [
       "Feature flags in Bazel builds",
       "https://pigweed.dev/docs/blog/02-bazel-feature-flags.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 18:18:54",
-      "https://lobste.rs/s/zmasif/simple_efficient_robust_hash_tables_for"
-    ],
-    [
-      "Simple, Efficient, and Robust Hash Tables for Join Processing",
-      "https://cedardb.com/blog/simple_efficient_hash_tables/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "268% Higher Failure Rates for Agile Software Projects, Study Finds",
       "https://www.engprax.com/post/268-higher-failure-rates-for-agile-software-projects-study-finds"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 13:29:37",
-      "https://lobste.rs/s/5y55lq/enter_paradis_new_chapter_rust_s"
-    ],
-    [
-      "Enter paradis — A new chapter in Rust's parallelism story",
-      "https://andreaslongva.com/blog/enter-paradis/"
     ]
   ],
   [
