@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 13:03:11](https://lobste.rs/s/oycftp/building_serverless_secured_dead_drop) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
+* [2024-06-06, 12:56:34](https://lobste.rs/s/ktytad/jep_455_primitive_types_patterns) - [JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)](https://openjdk.org/jeps/455)
+* [2024-06-06, 12:54:40](https://lobste.rs/s/aeli5e/cryptographic_protocol_verification) - [Cryptographic protocol verification with hax](https://cryspen.com/post/hax-pv/)
 * [2024-06-06, 10:02:22](https://lobste.rs/s/2ca7dn/tpm_gpio_fail_how_bad_oem_firmware_ruins) - [TPM GPIO fail: How bad OEM firmware ruins TPM security](https://mkukri.xyz/2024/06/01/tpm-gpio-fail.html)
 * [2024-06-06, 09:20:15](https://lobste.rs/s/skak3k/omakub_opinionated_ubuntu_setup) - [omakub: Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 * [2024-06-06, 08:21:43](https://lobste.rs/s/vr9kry/end_end_types_full_stack_web_apps_with) - [End-to-end types: full-stack Web apps with Gleam by Hayleigh Thompson | Code BEAM Europe 2023](https://www.youtube.com/watch?v=eVtkYQva0Ic)
