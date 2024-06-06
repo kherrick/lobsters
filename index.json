@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-06, 13:12:41",
+      "https://lobste.rs/s/ugtqdp/lelwel_resilient_ll_1_parser_generator"
+    ],
+    [
+      "lelwel: Resilient LL(1) parser generator for Rust",
+      "https://github.com/0x2a-42/lelwel"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 13:03:11",
       "https://lobste.rs/s/oycftp/building_serverless_secured_dead_drop"
     ],
@@ -117,16 +127,6 @@
     [
       "The state of Vulkan apps in 2024",
       "https://www.carette.xyz/posts/state_of_vulkan_2024/"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 18:30:18",
-      "https://lobste.rs/s/uuxfiw/feature_flags_bazel_builds"
-    ],
-    [
-      "Feature flags in Bazel builds",
-      "https://pigweed.dev/docs/blog/02-bazel-feature-flags.html"
     ]
   ],
   [
