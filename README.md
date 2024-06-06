@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 * [2024-06-06, 16:53:18](https://lobste.rs/s/msoqi0/javascript_ui_library_with_reactive) - [JavaScript UI library with reactive atomic updates](https://github.com/bloomca/veles)
 * [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 * [2024-06-06, 15:12:40](https://lobste.rs/s/eh1zu9/effect_best_way_build_robust_apps) - [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
@@ -15,7 +16,6 @@
 * [2024-06-06, 04:30:16](https://lobste.rs/s/pmx5ci/what_kind_bug_would_make_machine_learning) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-06, 04:24:38](https://lobste.rs/s/1czwzi/memory_mike_karels) - [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
 * [2024-06-06, 02:07:19](https://lobste.rs/s/7gefg8/ollama_cli_gets_interactive_upgrade_for) - [Ollama CLI Gets an Interactive Upgrade for LLM models management](https://x-cmd.com/mod/ollama)
-* [2024-06-06, 01:31:14](https://lobste.rs/s/ea5q0a/how_we_improved_performance_userspace) - [How We Improved the Performance of a Userspace TCP Stack in Go by 5X](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
 * [2024-06-05, 22:06:12](https://lobste.rs/s/xglxdl/dhcpv6_pd_first_steps) - [DHCPv6-PD - First steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 18:35:45](https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024) - [The state of Vulkan apps in 2024](https://www.carette.xyz/posts/state_of_vulkan_2024/)
 * [2024-06-05, 17:45:55](https://lobste.rs/s/am8kpm/alice_wonderland_simple_tasks_showing) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
