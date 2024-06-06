@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 16:53:18](https://lobste.rs/s/msoqi0/javascript_ui_library_with_reactive) - [JavaScript UI library with reactive atomic updates](https://github.com/bloomca/veles)
 * [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 * [2024-06-06, 15:12:40](https://lobste.rs/s/eh1zu9/effect_best_way_build_robust_apps) - [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
 * [2024-06-06, 15:11:23](https://lobste.rs/s/t6koel/goldilocks_three_developers) - [Goldilocks and the Three Developers](https://www.codingwithjesse.com/blog/goldilocks-and-the-three-developers/)
