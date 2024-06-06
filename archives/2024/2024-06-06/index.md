@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 09:20:15](https://lobste.rs/s/skak3k/omakub_opinionated_ubuntu_setup) - [omakub: Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 * [2024-06-06, 08:21:43](https://lobste.rs/s/vr9kry/end_end_types_full_stack_web_apps_with) - [End-to-end types: full-stack Web apps with Gleam by Hayleigh Thompson | Code BEAM Europe 2023](https://www.youtube.com/watch?v=eVtkYQva0Ic)
 * [2024-06-06, 04:30:16](https://lobste.rs/s/pmx5ci/what_kind_bug_would_make_machine_learning) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-06, 04:24:38](https://lobste.rs/s/1czwzi/memory_mike_karels) - [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)

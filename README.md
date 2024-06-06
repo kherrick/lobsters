@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-06, 09:20:15](https://lobste.rs/s/skak3k/omakub_opinionated_ubuntu_setup) - [omakub: Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 * [2024-06-06, 08:21:43](https://lobste.rs/s/vr9kry/end_end_types_full_stack_web_apps_with) - [End-to-end types: full-stack Web apps with Gleam by Hayleigh Thompson | Code BEAM Europe 2023](https://www.youtube.com/watch?v=eVtkYQva0Ic)
 * [2024-06-06, 04:30:16](https://lobste.rs/s/pmx5ci/what_kind_bug_would_make_machine_learning) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-06, 04:24:38](https://lobste.rs/s/1czwzi/memory_mike_karels) - [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
@@ -16,7 +17,6 @@
 * [2024-06-05, 17:29:29](https://lobste.rs/s/k6b0i2/building_zed_text_editor) - [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
 * [2024-06-05, 15:10:22](https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month) - [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 * [2024-06-05, 14:21:36](https://lobste.rs/s/hnogxk/268_higher_failure_rates_for_agile) - [268% Higher Failure Rates for Agile Software Projects, Study Finds](https://www.engprax.com/post/268-higher-failure-rates-for-agile-software-projects-study-finds)
-* [2024-06-05, 13:29:37](https://lobste.rs/s/5y55lq/enter_paradis_new_chapter_rust_s) - [Enter paradis — A new chapter in Rust's parallelism story](https://andreaslongva.com/blog/enter-paradis/)
 * [2024-06-05, 11:55:22](https://lobste.rs/s/uv6dfn/capital_offense_how_handle) - [Capital Offense: How to Handle Abbreviations in CamelCase (2012)](https://www.approxion.com/capital-offenses-how-to-handle-abbreviations-in-camelcase/)
 * [2024-06-05, 11:47:56](https://lobste.rs/s/qzjmap/attacking_nist_sp_800_108) - [Attacking NIST SP 800-108](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 * [2024-06-05, 09:28:19](https://lobste.rs/s/ivy6lg/chopping_utf_8) - [Chopping UTF-8](https://domm.plix.at/perl/2024_06_chopping_utf8.html)
