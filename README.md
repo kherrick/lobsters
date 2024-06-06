@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 * [2024-06-06, 15:12:40](https://lobste.rs/s/eh1zu9/effect_best_way_build_robust_apps) - [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
 * [2024-06-06, 15:11:23](https://lobste.rs/s/t6koel/goldilocks_three_developers) - [Goldilocks and the Three Developers](https://www.codingwithjesse.com/blog/goldilocks-and-the-three-developers/)
 * [2024-06-06, 14:58:02](https://lobste.rs/s/ozkrcg/flaky_tests_overhaul_at_uber) - [Flaky Tests Overhaul at Uber](https://www.uber.com/blog/flaky-tests-overhaul/)
@@ -24,7 +25,6 @@
 * [2024-06-05, 11:47:56](https://lobste.rs/s/qzjmap/attacking_nist_sp_800_108) - [Attacking NIST SP 800-108](https://scottarc.blog/2024/06/04/attacking-nist-sp-800-108/)
 * [2024-06-05, 07:46:41](https://lobste.rs/s/scvsik/time_say_goodbye_google_fonts_cache) - [Time to Say Goodbye to Google Fonts: Cache Performance (2020)](https://wicki.io/posts/2020-11-goodbye-google-fonts/)
 * [2024-06-05, 06:40:45](https://lobste.rs/s/5h1jrs/on_dependency_usage_rust) - [On Dependency Usage in Rust](https://landaire.net/on-dependency-usage-in-rust/)
-* [2024-06-04, 23:14:51](https://lobste.rs/s/mjilkv/not_just_scale) - [Not Just Scale](https://brooker.co.za/blog/2024/06/04/scale.html)
 
 ## [Archives](archives/index.md)
 
