@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-06, 14:21:19](https://lobste.rs/s/f2glj3/situational_awareness_decade_ahead) - [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/)
 * [2024-06-06, 13:12:41](https://lobste.rs/s/ugtqdp/lelwel_resilient_ll_1_parser_generator) - [lelwel: Resilient LL(1) parser generator for Rust](https://github.com/0x2a-42/lelwel)
 * [2024-06-06, 13:03:11](https://lobste.rs/s/oycftp/building_serverless_secured_dead_drop) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 * [2024-06-06, 12:56:34](https://lobste.rs/s/ktytad/jep_455_primitive_types_patterns) - [JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)](https://openjdk.org/jeps/455)
@@ -13,7 +14,6 @@
 * [2024-06-06, 01:31:14](https://lobste.rs/s/ea5q0a/how_we_improved_performance_userspace) - [How We Improved the Performance of a Userspace TCP Stack in Go by 5X](https://coder.com/blog/delivering-5x-faster-throughput-in-coder-2-12-0)
 * [2024-06-05, 22:06:12](https://lobste.rs/s/xglxdl/dhcpv6_pd_first_steps) - [DHCPv6-PD - First steps](https://sha256.net/dhcpv6-pd-first-steps.html)
 * [2024-06-05, 18:35:45](https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024) - [The state of Vulkan apps in 2024](https://www.carette.xyz/posts/state_of_vulkan_2024/)
-* [2024-06-05, 18:05:27](https://lobste.rs/s/o4rhrf/blistering_fast_mandelbrot_rendering) - [Blistering fast Mandelbrot rendering in Rust (2021)](https://www.gcardone.net/2021-03-04-blistering-fast-mandelbrot-in-rust/)
 * [2024-06-05, 17:45:55](https://lobste.rs/s/am8kpm/alice_wonderland_simple_tasks_showing) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 17:29:29](https://lobste.rs/s/k6b0i2/building_zed_text_editor) - [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
 * [2024-06-05, 15:10:22](https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month) - [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
