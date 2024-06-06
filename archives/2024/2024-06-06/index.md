@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 14:58:02](https://lobste.rs/s/ozkrcg/flaky_tests_overhaul_at_uber) - [Flaky Tests Overhaul at Uber](https://www.uber.com/blog/flaky-tests-overhaul/)
 * [2024-06-06, 14:27:36](https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 * [2024-06-06, 14:21:19](https://lobste.rs/s/f2glj3/situational_awareness_decade_ahead) - [Situational Awareness: The Decade Ahead](https://situational-awareness.ai/)
 * [2024-06-06, 13:12:41](https://lobste.rs/s/ugtqdp/lelwel_resilient_ll_1_parser_generator) - [lelwel: Resilient LL(1) parser generator for Rust](https://github.com/0x2a-42/lelwel)
