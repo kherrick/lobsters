@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-06](index.md)
 
+* [2024-06-06, 13:12:41](https://lobste.rs/s/ugtqdp/lelwel_resilient_ll_1_parser_generator) - [lelwel: Resilient LL(1) parser generator for Rust](https://github.com/0x2a-42/lelwel)
 * [2024-06-06, 13:03:11](https://lobste.rs/s/oycftp/building_serverless_secured_dead_drop) - [Building a serverless secured dead drop](https://ayende.com/blog/201153-B/building-a-serverless-secured-dead-drop)
 * [2024-06-06, 12:56:34](https://lobste.rs/s/ktytad/jep_455_primitive_types_patterns) - [JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)](https://openjdk.org/jeps/455)
 * [2024-06-06, 12:54:40](https://lobste.rs/s/aeli5e/cryptographic_protocol_verification) - [Cryptographic protocol verification with hax](https://cryspen.com/post/hax-pv/)
