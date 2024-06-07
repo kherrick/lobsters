@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)
 * [2024-06-07, 19:11:06](https://lobste.rs/s/nayqrn/go_error_propagation_api_contracts) - [Go Error Propagation and API Contracts](https://matttproud.com/blog/posts/go-errors-and-api-contracts.html)
 * [2024-06-07, 19:02:11](https://lobste.rs/s/gpqm1s/ssh_key_management_challenges) - [SSH Key Management Challenges and Requirements](https://helda.helsinki.fi/server/api/core/bitstreams/471f0ffe-2626-4d12-8725-2147232d849f/content)
 * [2024-06-07, 18:48:40](https://lobste.rs/s/ajo3xo/badness_0_apostrophe_s_version) - [Badness 0 (Apostrophe‛s version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
@@ -24,7 +25,6 @@
 * [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 * [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution display](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 * [2024-06-06, 14:27:36](https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
-* [2024-06-06, 09:20:15](https://lobste.rs/s/skak3k/omakub_opinionated_ubuntu_setup) - [omakub: Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 
 ## [Archives](archives/index.md)
 
