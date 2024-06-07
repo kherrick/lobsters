@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-07, 01:17:33",
+      "https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators"
+    ],
+    [
+      "Leveraging Zig's Allocators",
+      "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 01:09:48",
+      "https://lobste.rs/s/vxqzss/idisposable_what_your_mother_never_told"
+    ],
+    [
+      "IDisposable: What Your Mother Never Told You About Resource Deallocation (2014)",
+      "https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 23:01:13",
       "https://lobste.rs/s/eradwc/how_mojo_gets_35_000x_speedup_over_python"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-06-06, 02:07:19",
-      "https://lobste.rs/s/7gefg8/ollama_cli_gets_interactive_upgrade_for"
-    ],
-    [
-      "Ollama CLI Gets an Interactive Upgrade for LLM models management",
-      "https://x-cmd.com/mod/ollama"
-    ]
-  ],
-  [
-    [
       "2024-06-05, 18:35:45",
       "https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024"
     ],
@@ -237,16 +247,6 @@
     [
       "Vulkan1.3 on the M1 in 1 month",
       "https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 06:40:45",
-      "https://lobste.rs/s/5h1jrs/on_dependency_usage_rust"
-    ],
-    [
-      "On Dependency Usage in Rust",
-      "https://landaire.net/on-dependency-usage-in-rust/"
     ]
   ]
 ]
