@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 13:32:21](https://lobste.rs/s/n5zdog/moving_cheriot_rtos_tickless_model) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
 * [2024-06-07, 11:13:42](https://lobste.rs/s/krqhsm/windows_component_based_servicing_cbs) - [Windows Component-Based Servicing (CBS): An In-Depth Overview](https://pivotman319-owo.github.io/papers/windows%20cbs%20image%20assembly%20process%20-%20Final.pdf)
 * [2024-06-07, 10:01:03](https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend)
 * [2024-06-07, 06:49:30](https://lobste.rs/s/9ppscs/can_ini_files_be_unicode_yes_they_can_it_has) - [Can INI files be Unicode? Yes, they can, but it has to be your idea](https://devblogs.microsoft.com/oldnewthing/20240606-00/?p=109861)
