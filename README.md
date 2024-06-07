@@ -13,7 +13,7 @@
 * [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 * [2024-06-06, 16:53:18](https://lobste.rs/s/msoqi0/javascript_ui_library_with_reactive) - [JavaScript UI library with reactive atomic updates](https://github.com/bloomca/veles)
 * [2024-06-06, 16:52:19](https://lobste.rs/s/iig2qs/swift_at_10) - [Swift at 10](https://mjtsai.com/blog/2024/06/04/swift-at-10/)
-* [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
+* [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution display](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 * [2024-06-06, 15:12:40](https://lobste.rs/s/eh1zu9/effect_best_way_build_robust_apps) - [Effect – The best way to build robust apps in TypeScript](https://effect.website/)
 * [2024-06-06, 14:58:02](https://lobste.rs/s/ozkrcg/flaky_tests_overhaul_at_uber) - [Flaky Tests Overhaul at Uber](https://www.uber.com/blog/flaky-tests-overhaul/)
 * [2024-06-06, 14:27:36](https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
