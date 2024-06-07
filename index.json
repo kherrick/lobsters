@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-07, 06:49:30",
+      "https://lobste.rs/s/9ppscs/can_ini_files_be_unicode_yes_they_can_it_has"
+    ],
+    [
+      "Can INI files be Unicode? Yes, they can, but it has to be your idea",
+      "https://devblogs.microsoft.com/oldnewthing/20240606-00/?p=109861"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 06:04:29",
       "https://lobste.rs/s/0ijn5q/announcing_typescript_5_5_rc"
     ],
@@ -177,16 +187,6 @@
     [
       "JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)",
       "https://openjdk.org/jeps/455"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 12:54:40",
-      "https://lobste.rs/s/aeli5e/cryptographic_protocol_verification"
-    ],
-    [
-      "Cryptographic protocol verification with hax",
-      "https://cryspen.com/post/hax-pv/"
     ]
   ],
   [
