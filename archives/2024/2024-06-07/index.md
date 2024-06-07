@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 * [2024-06-07, 20:30:49](https://lobste.rs/s/jzv1tj/baets_by_der_beware_bogus_headphones) - [Baets by Der - Beware Bogus Headphones](https://redballoonsecurity.com/baets/)
 * [2024-06-07, 20:23:54](https://lobste.rs/s/xwnund/sony_unveils_advanced_microsurgery) - [Sony unveils advanced microsurgery assistance robot](https://www.aiacceleratorinstitute.com/sony-unveils-advanced-microsurgery-assistance-robot/)
 * [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)

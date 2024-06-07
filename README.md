@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 * [2024-06-07, 20:30:49](https://lobste.rs/s/jzv1tj/baets_by_der_beware_bogus_headphones) - [Baets by Der - Beware Bogus Headphones](https://redballoonsecurity.com/baets/)
 * [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)
 * [2024-06-07, 19:02:11](https://lobste.rs/s/gpqm1s/ssh_key_management_challenges) - [SSH Key Management Challenges and Requirements](https://helda.helsinki.fi/server/api/core/bitstreams/471f0ffe-2626-4d12-8725-2147232d849f/content)
@@ -24,7 +25,6 @@
 * [2024-06-06, 20:06:18](https://lobste.rs/s/rerptf/let_rand_main_as_usize) - [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 * [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution display](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
-* [2024-06-06, 14:27:36](https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 
 ## [Archives](archives/index.md)
 
