@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-07, 14:09:13",
+      "https://lobste.rs/s/w8o8zy/cracking_scheduling_code_hay_day"
+    ],
+    [
+      "Cracking the Scheduling Code in Hay Day",
+      "https://thinhcorner.com/blog/hayday-game-schedule"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 13:38:22",
       "https://lobste.rs/s/xcfte9/windows_component_based_servicing_cbs"
     ],
@@ -67,16 +77,6 @@
     [
       "The size-change principle for program termination (2001)",
       "https://dl.acm.org/doi/abs/10.1145/360204.360210"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 02:05:13",
-      "https://lobste.rs/s/5wrebg/benchexec_benchexec_framework_for"
-    ],
-    [
-      "benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement",
-      "https://github.com/sosy-lab/benchexec"
     ]
   ],
   [
