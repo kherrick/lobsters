@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-06-06, 14:58:02",
+      "https://lobste.rs/s/ozkrcg/flaky_tests_overhaul_at_uber"
+    ],
+    [
+      "Flaky Tests Overhaul at Uber",
+      "https://www.uber.com/blog/flaky-tests-overhaul/"
+    ]
+  ],
+  [
+    [
       "2024-06-06, 14:27:36",
       "https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag"
     ],
@@ -177,16 +187,6 @@
     [
       "lelwel: Resilient LL(1) parser generator for Rust",
       "https://github.com/0x2a-42/lelwel"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 12:56:34",
-      "https://lobste.rs/s/ktytad/jep_455_primitive_types_patterns"
-    ],
-    [
-      "JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)",
-      "https://openjdk.org/jeps/455"
     ]
   ],
   [
