@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 02:12:59](https://lobste.rs/s/kqerau/size_change_principle_for_program) - [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
 * [2024-06-07, 02:05:13](https://lobste.rs/s/5wrebg/benchexec_benchexec_framework_for) - [benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement](https://github.com/sosy-lab/benchexec)
 * [2024-06-07, 01:58:09](https://lobste.rs/s/tzjx97/cpu_energy_meter_tool_for_measuring) - [cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-07, 01:36:15](https://lobste.rs/s/jgx7hj/speeding_up_rustc_by_being_lazy) - [Speeding up rustc by being lazy](https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html)
