@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 20:30:49](https://lobste.rs/s/jzv1tj/baets_by_der_beware_bogus_headphones) - [Baets by Der - Beware Bogus Headphones](https://redballoonsecurity.com/baets/)
 * [2024-06-07, 20:23:54](https://lobste.rs/s/xwnund/sony_unveils_advanced_microsurgery) - [Sony unveils advanced microsurgery assistance robot](https://www.aiacceleratorinstitute.com/sony-unveils-advanced-microsurgery-assistance-robot/)
 * [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)
-* [2024-06-07, 19:11:06](https://lobste.rs/s/nayqrn/go_error_propagation_api_contracts) - [Go Error Propagation and API Contracts](https://matttproud.com/blog/posts/go-errors-and-api-contracts.html)
 * [2024-06-07, 19:02:11](https://lobste.rs/s/gpqm1s/ssh_key_management_challenges) - [SSH Key Management Challenges and Requirements](https://helda.helsinki.fi/server/api/core/bitstreams/471f0ffe-2626-4d12-8725-2147232d849f/content)
 * [2024-06-07, 18:48:40](https://lobste.rs/s/ajo3xo/badness_0_apostrophe_s_version) - [Badness 0 (Apostrophe‛s version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 * [2024-06-07, 18:06:40](https://lobste.rs/s/g4uq9b/needlessly_public) - [Needlessly Public](https://euroquis.nl//kde/2024/06/06/public.html)
