@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
+* [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 16:36:17](https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes) - [Zig 0.13.0 Release Notes](https://ziglang.org/download/0.13.0/release-notes.html)
 * [2024-06-07, 16:23:05](https://lobste.rs/s/moavey/towards_federated_key_transparency) - [Towards Federated Key Transparency](https://soatok.blog/2024/06/06/towards-federated-key-transparency/)
 * [2024-06-07, 15:46:00](https://lobste.rs/s/pfq4ob/chebyshev_approximation_how_it_can_help) - [Chebyshev Approximation and How It Can Help You Save Money, Win Friends, and Influence People (2012)](https://embeddedrelated.com/showarticle/152.php)

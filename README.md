@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
+* [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 16:36:17](https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes) - [Zig 0.13.0 Release Notes](https://ziglang.org/download/0.13.0/release-notes.html)
 * [2024-06-07, 16:23:05](https://lobste.rs/s/moavey/towards_federated_key_transparency) - [Towards Federated Key Transparency](https://soatok.blog/2024/06/06/towards-federated-key-transparency/)
 * [2024-06-07, 15:46:00](https://lobste.rs/s/pfq4ob/chebyshev_approximation_how_it_can_help) - [Chebyshev Approximation and How It Can Help You Save Money, Win Friends, and Influence People (2012)](https://embeddedrelated.com/showarticle/152.php)
@@ -10,8 +12,6 @@
 * [2024-06-07, 10:01:03](https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend)
 * [2024-06-07, 06:49:30](https://lobste.rs/s/9ppscs/can_ini_files_be_unicode_yes_they_can_it_has) - [Can INI files be Unicode? Yes, they can, but it has to be your idea](https://devblogs.microsoft.com/oldnewthing/20240606-00/?p=109861)
 * [2024-06-07, 06:04:29](https://lobste.rs/s/0ijn5q/announcing_typescript_5_5_rc) - [Announcing TypeScript 5.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/)
-* [2024-06-07, 02:12:59](https://lobste.rs/s/kqerau/size_change_principle_for_program) - [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
-* [2024-06-07, 01:58:09](https://lobste.rs/s/tzjx97/cpu_energy_meter_tool_for_measuring) - [cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-07, 01:36:15](https://lobste.rs/s/jgx7hj/speeding_up_rustc_by_being_lazy) - [Speeding up rustc by being lazy](https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html)
 * [2024-06-07, 01:17:33](https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-07, 01:09:48](https://lobste.rs/s/vxqzss/idisposable_what_your_mother_never_told) - [IDisposable: What Your Mother Never Told You About Resource Deallocation (2014)](https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About)
