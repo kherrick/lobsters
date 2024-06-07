@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 14:47:06](https://lobste.rs/s/gq6rej/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 * [2024-06-07, 14:09:13](https://lobste.rs/s/w8o8zy/cracking_scheduling_code_hay_day) - [Cracking the Scheduling Code in Hay Day](https://thinhcorner.com/blog/hayday-game-schedule)
 * [2024-06-07, 13:38:22](https://lobste.rs/s/xcfte9/windows_component_based_servicing_cbs) - [Windows Component-Based Servicing (CBS): An In-Depth Overview](https://pivotman319-owo.github.io/papers/windows%20cbs%20image%20assembly%20process%20-%20Final%20R2.pdf)
 * [2024-06-07, 13:32:21](https://lobste.rs/s/n5zdog/moving_cheriot_rtos_tickless_model) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
