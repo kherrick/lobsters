@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 01:17:33](https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
+* [2024-06-07, 01:09:48](https://lobste.rs/s/vxqzss/idisposable_what_your_mother_never_told) - [IDisposable: What Your Mother Never Told You About Resource Deallocation (2014)](https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About)
 * [2024-06-06, 23:01:13](https://lobste.rs/s/eradwc/how_mojo_gets_35_000x_speedup_over_python) - [How Mojo gets a 35,000x speedup over Python – Part 1 (2023)](https://www.modular.com/blog/how-mojo-gets-a-35-000x-speedup-over-python-part-1)
 * [2024-06-06, 20:20:14](https://lobste.rs/s/ltbw08/moving_beyond_type_systems) - [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
 * [2024-06-06, 20:06:18](https://lobste.rs/s/rerptf/let_rand_main_as_usize) - [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
@@ -19,12 +21,10 @@
 * [2024-06-06, 08:21:43](https://lobste.rs/s/vr9kry/end_end_types_full_stack_web_apps_with) - [End-to-end types: full-stack Web apps with Gleam](https://www.youtube.com/watch?v=eVtkYQva0Ic)
 * [2024-06-06, 04:30:16](https://lobste.rs/s/pmx5ci/what_kind_bug_would_make_machine_learning) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-06, 04:24:38](https://lobste.rs/s/1czwzi/memory_mike_karels) - [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
-* [2024-06-06, 02:07:19](https://lobste.rs/s/7gefg8/ollama_cli_gets_interactive_upgrade_for) - [Ollama CLI Gets an Interactive Upgrade for LLM models management](https://x-cmd.com/mod/ollama)
 * [2024-06-05, 18:35:45](https://lobste.rs/s/uuyxzo/state_vulkan_apps_2024) - [The state of Vulkan apps in 2024](https://www.carette.xyz/posts/state_of_vulkan_2024/)
 * [2024-06-05, 17:45:55](https://lobste.rs/s/am8kpm/alice_wonderland_simple_tasks_showing) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 17:29:29](https://lobste.rs/s/k6b0i2/building_zed_text_editor) - [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
 * [2024-06-05, 15:10:22](https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month) - [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
-* [2024-06-05, 06:40:45](https://lobste.rs/s/5h1jrs/on_dependency_usage_rust) - [On Dependency Usage in Rust](https://landaire.net/on-dependency-usage-in-rust/)
 
 ## [Archives](archives/index.md)
 
