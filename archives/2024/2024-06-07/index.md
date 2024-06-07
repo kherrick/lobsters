@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 03:20:31](https://lobste.rs/s/nzsz81/how_gen_ai_based_software_is_advancing) - [How Gen AI-Based Software Is Advancing Marketing and Sales](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
 * [2024-06-07, 02:12:59](https://lobste.rs/s/kqerau/size_change_principle_for_program) - [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
 * [2024-06-07, 02:05:13](https://lobste.rs/s/5wrebg/benchexec_benchexec_framework_for) - [benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement](https://github.com/sosy-lab/benchexec)
 * [2024-06-07, 01:58:09](https://lobste.rs/s/tzjx97/cpu_energy_meter_tool_for_measuring) - [cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
