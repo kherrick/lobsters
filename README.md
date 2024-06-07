@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 06:49:30](https://lobste.rs/s/9ppscs/can_ini_files_be_unicode_yes_they_can_it_has) - [Can INI files be Unicode? Yes, they can, but it has to be your idea](https://devblogs.microsoft.com/oldnewthing/20240606-00/?p=109861)
 * [2024-06-07, 06:04:29](https://lobste.rs/s/0ijn5q/announcing_typescript_5_5_rc) - [Announcing TypeScript 5.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/)
 * [2024-06-07, 02:12:59](https://lobste.rs/s/kqerau/size_change_principle_for_program) - [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
 * [2024-06-07, 02:05:13](https://lobste.rs/s/5wrebg/benchexec_benchexec_framework_for) - [benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement](https://github.com/sosy-lab/benchexec)
@@ -18,7 +19,6 @@
 * [2024-06-06, 14:27:36](https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 * [2024-06-06, 13:12:41](https://lobste.rs/s/ugtqdp/lelwel_resilient_ll_1_parser_generator) - [lelwel: Resilient LL(1) parser generator for Rust](https://github.com/0x2a-42/lelwel)
 * [2024-06-06, 12:56:34](https://lobste.rs/s/ktytad/jep_455_primitive_types_patterns) - [JEP 455: Primitive Types in Patterns, instanceof, and switch (Preview)](https://openjdk.org/jeps/455)
-* [2024-06-06, 12:54:40](https://lobste.rs/s/aeli5e/cryptographic_protocol_verification) - [Cryptographic protocol verification with hax](https://cryspen.com/post/hax-pv/)
 * [2024-06-06, 09:20:15](https://lobste.rs/s/skak3k/omakub_opinionated_ubuntu_setup) - [omakub: Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 * [2024-06-06, 08:21:43](https://lobste.rs/s/vr9kry/end_end_types_full_stack_web_apps_with) - [End-to-end types: full-stack Web apps with Gleam](https://www.youtube.com/watch?v=eVtkYQva0Ic)
 * [2024-06-06, 04:30:16](https://lobste.rs/s/pmx5ci/what_kind_bug_would_make_machine_learning) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)

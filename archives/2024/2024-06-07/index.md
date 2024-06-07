@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 06:49:30](https://lobste.rs/s/9ppscs/can_ini_files_be_unicode_yes_they_can_it_has) - [Can INI files be Unicode? Yes, they can, but it has to be your idea](https://devblogs.microsoft.com/oldnewthing/20240606-00/?p=109861)
 * [2024-06-07, 06:04:29](https://lobste.rs/s/0ijn5q/announcing_typescript_5_5_rc) - [Announcing TypeScript 5.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/)
 * [2024-06-07, 03:20:31](https://lobste.rs/s/nzsz81/how_gen_ai_based_software_is_advancing) - [How Gen AI-Based Software Is Advancing Marketing and Sales](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
 * [2024-06-07, 02:12:59](https://lobste.rs/s/kqerau/size_change_principle_for_program) - [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
