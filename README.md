@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 18:06:40](https://lobste.rs/s/g4uq9b/needlessly_public) - [Needlessly Public](https://euroquis.nl//kde/2024/06/06/public.html)
 * [2024-06-07, 17:49:35](https://lobste.rs/s/v2kicn/writing_truly_memory_safe_jit_compilers) - [Writing Truly Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 * [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
@@ -19,7 +20,6 @@
 * [2024-06-06, 20:06:18](https://lobste.rs/s/rerptf/let_rand_main_as_usize) - [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 * [2024-06-06, 16:53:18](https://lobste.rs/s/msoqi0/javascript_ui_library_with_reactive) - [JavaScript UI library with reactive atomic updates](https://github.com/bloomca/veles)
-* [2024-06-06, 16:52:19](https://lobste.rs/s/iig2qs/swift_at_10) - [Swift at 10](https://mjtsai.com/blog/2024/06/04/swift-at-10/)
 * [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution display](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 * [2024-06-06, 14:27:36](https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
 * [2024-06-06, 13:12:41](https://lobste.rs/s/ugtqdp/lelwel_resilient_ll_1_parser_generator) - [lelwel: Resilient LL(1) parser generator for Rust](https://github.com/0x2a-42/lelwel)
