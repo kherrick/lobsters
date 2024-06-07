@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 17:49:35](https://lobste.rs/s/v2kicn/writing_truly_memory_safe_jit_compilers) - [Writing Truly Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 * [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 16:36:17](https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes) - [Zig 0.13.0 Release Notes](https://ziglang.org/download/0.13.0/release-notes.html)
@@ -14,7 +15,6 @@
 * [2024-06-07, 06:04:29](https://lobste.rs/s/0ijn5q/announcing_typescript_5_5_rc) - [Announcing TypeScript 5.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/)
 * [2024-06-07, 01:36:15](https://lobste.rs/s/jgx7hj/speeding_up_rustc_by_being_lazy) - [Speeding up rustc by being lazy](https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html)
 * [2024-06-07, 01:17:33](https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
-* [2024-06-07, 01:09:48](https://lobste.rs/s/vxqzss/idisposable_what_your_mother_never_told) - [IDisposable: What Your Mother Never Told You About Resource Deallocation (2014)](https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About)
 * [2024-06-06, 20:20:14](https://lobste.rs/s/ltbw08/moving_beyond_type_systems) - [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
 * [2024-06-06, 20:06:18](https://lobste.rs/s/rerptf/let_rand_main_as_usize) - [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
