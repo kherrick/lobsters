@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-07, 13:32:21",
+      "https://lobste.rs/s/n5zdog/moving_cheriot_rtos_tickless_model"
+    ],
+    [
+      "Moving CHERIoT RTOS to a tickless model",
+      "https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 11:13:42",
       "https://lobste.rs/s/krqhsm/windows_component_based_servicing_cbs"
     ],
@@ -157,16 +167,6 @@
     [
       "Effect – The best way to build robust apps in TypeScript",
       "https://effect.website/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 14:58:02",
-      "https://lobste.rs/s/ozkrcg/flaky_tests_overhaul_at_uber"
-    ],
-    [
-      "Flaky Tests Overhaul at Uber",
-      "https://www.uber.com/blog/flaky-tests-overhaul/"
     ]
   ],
   [
