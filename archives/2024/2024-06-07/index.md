@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-07](index.md)
 
+* [2024-06-07, 18:48:40](https://lobste.rs/s/ajo3xo/badness_0_apostrophe_s_version) - [Badness 0 (Apostrophe‛s version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 * [2024-06-07, 18:06:40](https://lobste.rs/s/g4uq9b/needlessly_public) - [Needlessly Public](https://euroquis.nl//kde/2024/06/06/public.html)
 * [2024-06-07, 17:49:35](https://lobste.rs/s/v2kicn/writing_truly_memory_safe_jit_compilers) - [Writing Truly Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 * [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 18:48:40](https://lobste.rs/s/ajo3xo/badness_0_apostrophe_s_version) - [Badness 0 (Apostrophe‛s version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 * [2024-06-07, 18:06:40](https://lobste.rs/s/g4uq9b/needlessly_public) - [Needlessly Public](https://euroquis.nl//kde/2024/06/06/public.html)
 * [2024-06-07, 17:49:35](https://lobste.rs/s/v2kicn/writing_truly_memory_safe_jit_compilers) - [Writing Truly Memory Safe JIT Compilers](https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd)
 * [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
@@ -22,7 +23,6 @@
 * [2024-06-06, 16:53:18](https://lobste.rs/s/msoqi0/javascript_ui_library_with_reactive) - [JavaScript UI library with reactive atomic updates](https://github.com/bloomca/veles)
 * [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution display](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 * [2024-06-06, 14:27:36](https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag) - [Accidental prompt injection against RAG applications](https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/)
-* [2024-06-06, 13:12:41](https://lobste.rs/s/ugtqdp/lelwel_resilient_ll_1_parser_generator) - [lelwel: Resilient LL(1) parser generator for Rust](https://github.com/0x2a-42/lelwel)
 * [2024-06-06, 09:20:15](https://lobste.rs/s/skak3k/omakub_opinionated_ubuntu_setup) - [omakub: Opinionated Ubuntu Setup](https://github.com/basecamp/omakub)
 * [2024-06-06, 04:24:38](https://lobste.rs/s/1czwzi/memory_mike_karels) - [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
 
