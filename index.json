@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-07, 18:48:40",
+      "https://lobste.rs/s/ajo3xo/badness_0_apostrophe_s_version"
+    ],
+    [
+      "Badness 0 (Apostrophe‛s version)",
+      "https://www.youtube.com/watch?v=Y65FRxE7uMc"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 18:06:40",
       "https://lobste.rs/s/g4uq9b/needlessly_public"
     ],
@@ -217,16 +227,6 @@
     [
       "Accidental prompt injection against RAG applications",
       "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 13:12:41",
-      "https://lobste.rs/s/ugtqdp/lelwel_resilient_ll_1_parser_generator"
-    ],
-    [
-      "lelwel: Resilient LL(1) parser generator for Rust",
-      "https://github.com/0x2a-42/lelwel"
     ]
   ],
   [
