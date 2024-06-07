@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-07, 19:15:13",
+      "https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog"
+    ],
+    [
+      "The unbearable lightness of a simple photoblog",
+      "https://dostoynikov.bearblog.dev/simple-photoblog/"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 19:11:06",
       "https://lobste.rs/s/nayqrn/go_error_propagation_api_contracts"
     ],
@@ -237,16 +247,6 @@
     [
       "Accidental prompt injection against RAG applications",
       "https://simonwillison.net/2024/Jun/6/accidental-prompt-injection/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 09:20:15",
-      "https://lobste.rs/s/skak3k/omakub_opinionated_ubuntu_setup"
-    ],
-    [
-      "omakub: Opinionated Ubuntu Setup",
-      "https://github.com/basecamp/omakub"
     ]
   ]
 ]
