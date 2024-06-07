@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-07, 17:49:35",
+      "https://lobste.rs/s/v2kicn/writing_truly_memory_safe_jit_compilers"
+    ],
+    [
+      "Writing Truly Memory Safe JIT Compilers",
+      "https://medium.com/graalvm/writing-truly-memory-safe-jit-compilers-f79ad44558dd"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 17:14:24",
       "https://lobste.rs/s/kfpp9q/async_ruby_on_rails"
     ],
@@ -137,16 +147,6 @@
     [
       "Leveraging Zig's Allocators",
       "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 01:09:48",
-      "https://lobste.rs/s/vxqzss/idisposable_what_your_mother_never_told"
-    ],
-    [
-      "IDisposable: What Your Mother Never Told You About Resource Deallocation (2014)",
-      "https://www.codeproject.com/Articles/29534/IDisposable-What-Your-Mother-Never-Told-You-About"
     ]
   ],
   [
