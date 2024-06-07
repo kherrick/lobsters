@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-07, 03:20:31](https://lobste.rs/s/nzsz81/how_gen_ai_based_software_is_advancing) - [How Gen AI-Based Software Is Advancing Marketing and Sales](https://a16z.com/ai-marketer-how-gen-ai-based-software-is-advancing-marketing-and-sales/)
 * [2024-06-07, 02:12:59](https://lobste.rs/s/kqerau/size_change_principle_for_program) - [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
 * [2024-06-07, 02:05:13](https://lobste.rs/s/5wrebg/benchexec_benchexec_framework_for) - [benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement](https://github.com/sosy-lab/benchexec)
 * [2024-06-07, 01:58:09](https://lobste.rs/s/tzjx97/cpu_energy_meter_tool_for_measuring) - [cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
@@ -23,6 +22,7 @@
 * [2024-06-06, 08:21:43](https://lobste.rs/s/vr9kry/end_end_types_full_stack_web_apps_with) - [End-to-end types: full-stack Web apps with Gleam](https://www.youtube.com/watch?v=eVtkYQva0Ic)
 * [2024-06-06, 04:30:16](https://lobste.rs/s/pmx5ci/what_kind_bug_would_make_machine_learning) - [What kind of bug would make machine learning suddenly 40% worse at NetHack?](https://arstechnica.com/gaming/2024/06/what-kind-of-bug-would-make-machine-learning-suddenly-40-worse-at-nethack/)
 * [2024-06-06, 04:24:38](https://lobste.rs/s/1czwzi/memory_mike_karels) - [In Memory of Mike Karels](https://freebsdfoundation.org/mike_karels/)
+* [2024-06-05, 17:45:55](https://lobste.rs/s/am8kpm/alice_wonderland_simple_tasks_showing) - [Alice in Wonderland: Simple Tasks Showing Complete Reasoning Breakdown in State-Of-the-Art Large Language Models](https://arxiv.org/abs/2406.02061)
 * [2024-06-05, 17:29:29](https://lobste.rs/s/k6b0i2/building_zed_text_editor) - [Building the Zed Text Editor](https://youtu.be/fV4aPy1bmY0)
 * [2024-06-05, 15:10:22](https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month) - [Vulkan1.3 on the M1 in 1 month](https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html)
 
