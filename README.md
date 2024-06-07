@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-07, 14:09:13](https://lobste.rs/s/w8o8zy/cracking_scheduling_code_hay_day) - [Cracking the Scheduling Code in Hay Day](https://thinhcorner.com/blog/hayday-game-schedule)
 * [2024-06-07, 13:38:22](https://lobste.rs/s/xcfte9/windows_component_based_servicing_cbs) - [Windows Component-Based Servicing (CBS): An In-Depth Overview](https://pivotman319-owo.github.io/papers/windows%20cbs%20image%20assembly%20process%20-%20Final%20R2.pdf)
 * [2024-06-07, 13:32:21](https://lobste.rs/s/n5zdog/moving_cheriot_rtos_tickless_model) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
 * [2024-06-07, 11:13:42](https://lobste.rs/s/krqhsm/windows_component_based_servicing_cbs) - [Windows Component-Based Servicing (CBS): An In-Depth Overview](https://pivotman319-owo.github.io/papers/windows%20cbs%20image%20assembly%20process%20-%20Final.pdf)
@@ -7,7 +8,6 @@
 * [2024-06-07, 06:49:30](https://lobste.rs/s/9ppscs/can_ini_files_be_unicode_yes_they_can_it_has) - [Can INI files be Unicode? Yes, they can, but it has to be your idea](https://devblogs.microsoft.com/oldnewthing/20240606-00/?p=109861)
 * [2024-06-07, 06:04:29](https://lobste.rs/s/0ijn5q/announcing_typescript_5_5_rc) - [Announcing TypeScript 5.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/)
 * [2024-06-07, 02:12:59](https://lobste.rs/s/kqerau/size_change_principle_for_program) - [The size-change principle for program termination (2001)](https://dl.acm.org/doi/abs/10.1145/360204.360210)
-* [2024-06-07, 02:05:13](https://lobste.rs/s/5wrebg/benchexec_benchexec_framework_for) - [benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement](https://github.com/sosy-lab/benchexec)
 * [2024-06-07, 01:58:09](https://lobste.rs/s/tzjx97/cpu_energy_meter_tool_for_measuring) - [cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs](https://github.com/sosy-lab/cpu-energy-meter)
 * [2024-06-07, 01:36:15](https://lobste.rs/s/jgx7hj/speeding_up_rustc_by_being_lazy) - [Speeding up rustc by being lazy](https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html)
 * [2024-06-07, 01:17:33](https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
