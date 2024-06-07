@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-07, 17:14:24",
+      "https://lobste.rs/s/kfpp9q/async_ruby_on_rails"
+    ],
+    [
+      "Async Ruby on Rails",
+      "https://thoughtbot.com/blog/async-ruby-on-rails"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 17:12:49",
+      "https://lobste.rs/s/oay7an/openssh_introduces_options_penalize"
+    ],
+    [
+      "OpenSSH introduces options to penalize undesirable behavior",
+      "https://undeadly.org/cgi?action=article;sid=20240607042157"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 16:36:17",
       "https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes"
     ],
@@ -97,26 +117,6 @@
     [
       "Announcing TypeScript 5.5 RC",
       "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 02:12:59",
-      "https://lobste.rs/s/kqerau/size_change_principle_for_program"
-    ],
-    [
-      "The size-change principle for program termination (2001)",
-      "https://dl.acm.org/doi/abs/10.1145/360204.360210"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 01:58:09",
-      "https://lobste.rs/s/tzjx97/cpu_energy_meter_tool_for_measuring"
-    ],
-    [
-      "cpu-energy-meter: A tool for measuring energy consumption of Intel CPUs",
-      "https://github.com/sosy-lab/cpu-energy-meter"
     ]
   ],
   [
