@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-07, 16:36:17",
+      "https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes"
+    ],
+    [
+      "Zig 0.13.0 Release Notes",
+      "https://ziglang.org/download/0.13.0/release-notes.html"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 16:23:05",
       "https://lobste.rs/s/moavey/towards_federated_key_transparency"
     ],
@@ -237,16 +247,6 @@
     [
       "In Memory of Mike Karels",
       "https://freebsdfoundation.org/mike_karels/"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 15:10:22",
-      "https://lobste.rs/s/xukp18/vulkan1_3_on_m1_1_month"
-    ],
-    [
-      "Vulkan1.3 on the M1 in 1 month",
-      "https://rosenzweig.io/blog/vk13-on-the-m1-in-1-month.html"
     ]
   ]
 ]
