@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-07, 13:38:22",
+      "https://lobste.rs/s/xcfte9/windows_component_based_servicing_cbs"
+    ],
+    [
+      "Windows Component-Based Servicing (CBS): An In-Depth Overview",
+      "https://pivotman319-owo.github.io/papers/windows%20cbs%20image%20assembly%20process%20-%20Final%20R2.pdf"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 13:32:21",
       "https://lobste.rs/s/n5zdog/moving_cheriot_rtos_tickless_model"
     ],
@@ -57,6 +67,16 @@
     [
       "The size-change principle for program termination (2001)",
       "https://dl.acm.org/doi/abs/10.1145/360204.360210"
+    ]
+  ],
+  [
+    [
+      "2024-06-07, 02:05:13",
+      "https://lobste.rs/s/5wrebg/benchexec_benchexec_framework_for"
+    ],
+    [
+      "benchexec: BenchExec: A Framework for Reliable Benchmarking and Resource Measurement",
+      "https://github.com/sosy-lab/benchexec"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-06, 15:12:40",
-      "https://lobste.rs/s/eh1zu9/effect_best_way_build_robust_apps"
-    ],
-    [
-      "Effect – The best way to build robust apps in TypeScript",
-      "https://effect.website/"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 14:27:36",
       "https://lobste.rs/s/7ub63j/accidental_prompt_injection_against_rag"
     ],
@@ -227,16 +237,6 @@
     [
       "In Memory of Mike Karels",
       "https://freebsdfoundation.org/mike_karels/"
-    ]
-  ],
-  [
-    [
-      "2024-06-05, 17:29:29",
-      "https://lobste.rs/s/k6b0i2/building_zed_text_editor"
-    ],
-    [
-      "Building the Zed Text Editor",
-      "https://youtu.be/fV4aPy1bmY0"
     ]
   ],
   [
