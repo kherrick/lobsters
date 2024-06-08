@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-08, 21:28:27](https://lobste.rs/s/fer03l/migration_script_for_moving_mirroring) - [A migration script for moving or mirroring repositories to a Forgejo instance](https://github.com/RGBCube/GitHub2Forgejo)
 * [2024-06-08, 20:39:49](https://lobste.rs/s/lqf39p/autodafe_1_0_released_for_freeing) - [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
-* [2024-06-08, 17:32:08](https://lobste.rs/s/ttw645/golang_clone_super_productivity) - [Golang Clone of Super-Productivity](https://github.com/johannesjo/super-productivity/discussions/3210)
 * [2024-06-08, 17:28:08](https://lobste.rs/s/1rftur/diff_modulo_base) - [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
 * [2024-06-08, 15:48:50](https://lobste.rs/s/ysagox/how_save_princess_8_programming) - [How to Save the Princess in 8 Programming Languages [Comic]](https://toggl.com/blog/save-princess-8-programming-languages)
 * [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
