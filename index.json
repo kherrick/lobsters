@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-08, 17:32:08",
+      "https://lobste.rs/s/ttw645/golang_clone_super_productivity"
+    ],
+    [
+      "Golang Clone of Super-Productivity",
+      "https://github.com/johannesjo/super-productivity/discussions/3210"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 17:28:08",
+      "https://lobste.rs/s/1rftur/diff_modulo_base"
+    ],
+    [
+      "Diff modulo base",
+      "https://git.sr.ht/~nhaehnle/diff-modulo-base"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 15:48:50",
       "https://lobste.rs/s/ysagox/how_save_princess_8_programming"
     ],
@@ -217,26 +237,6 @@
     [
       "Moving CHERIoT RTOS to a tickless model",
       "https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 10:01:03",
-      "https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 01:17:33",
-      "https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators"
-    ],
-    [
-      "Leveraging Zig's Allocators",
-      "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
     ]
   ],
   [
