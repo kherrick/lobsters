@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
+* [2024-06-08, 14:01:36](https://lobste.rs/s/ldkwqp/proposed_fix_implementation_relaxed) - [A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)
 * [2024-06-08, 09:54:53](https://lobste.rs/s/jxmsoe/down_rabbit_hole_with_apple_s_ancient_font) - [Down the Rabbit Hole with Apple's Ancient Font Editor 2.0](https://www.marksimonson.com/notebook/view/down-the-rabbit-hole-with-apples-ancient-font-editor-2-0)
 * [2024-06-08, 08:35:25](https://lobste.rs/s/wlvb3m/pessimists_archive_archive_technology) - [Pessimists Archive - archive of technology pessimism](https://pessimistsarchive.org/)
 * [2024-06-08, 07:08:56](https://lobste.rs/s/eyqd3j/why_even_little_plaintext_matters) - [Why even a little plaintext matters](https://emilymstark.com/2024/06/07/why-even-a-little-plaintext-matters.html)
