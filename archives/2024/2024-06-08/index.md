@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 09:54:53](https://lobste.rs/s/jxmsoe/down_rabbit_hole_with_apple_s_ancient_font) - [Down the Rabbit Hole with Apple's Ancient Font Editor 2.0](https://www.marksimonson.com/notebook/view/down-the-rabbit-hole-with-apples-ancient-font-editor-2-0)
 * [2024-06-08, 08:35:25](https://lobste.rs/s/wlvb3m/pessimists_archive_archive_technology) - [Pessimists Archive - archive of technology pessimism](https://pessimistsarchive.org/)
 * [2024-06-08, 07:08:56](https://lobste.rs/s/eyqd3j/why_even_little_plaintext_matters) - [Why even a little plaintext matters](https://emilymstark.com/2024/06/07/why-even-a-little-plaintext-matters.html)
 * [2024-06-08, 06:31:51](https://lobste.rs/s/i2z52c/scan_html_faster_with_simd_instructions) - [Scan HTML faster with SIMD instructions: Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
