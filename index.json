@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-08, 06:31:51",
+      "https://lobste.rs/s/i2z52c/scan_html_faster_with_simd_instructions"
+    ],
+    [
+      "Scan HTML faster with SIMD instructions: Chrome edition",
+      "https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 06:16:44",
       "https://lobste.rs/s/yjavmi/compilers_are_too_smart"
     ],
@@ -207,16 +217,6 @@
     [
       "Leveraging Zig's Allocators",
       "https://www.openmymind.net/Leveraging-Zigs-Allocators/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 20:20:14",
-      "https://lobste.rs/s/ltbw08/moving_beyond_type_systems"
-    ],
-    [
-      "Moving Beyond Type Systems",
-      "https://vhyrro.github.io/posts/effect-systems/"
     ]
   ],
   [
