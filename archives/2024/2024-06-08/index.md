@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 23:51:06](https://lobste.rs/s/qxezif/effects_capabilities_boxes_from_scope) - [Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back (2022)](https://dl.acm.org/doi/pdf/10.1145/3527320)
 * [2024-06-08, 23:16:50](https://lobste.rs/s/emjetm/detecting_ps2_emulator_when_1_x_does_not) - [Detecting a PS2 emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 21:28:27](https://lobste.rs/s/fer03l/migration_script_for_moving_mirroring) - [A migration script for moving or mirroring repositories to a Forgejo instance](https://github.com/RGBCube/GitHub2Forgejo)
 * [2024-06-08, 20:39:49](https://lobste.rs/s/lqf39p/autodafe_1_0_released_for_freeing) - [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
