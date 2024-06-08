@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-08, 23:16:50](https://lobste.rs/s/emjetm/detecting_ps2_emulator_when_1_x_does_not) - [Detecting a PS2 emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 21:28:27](https://lobste.rs/s/fer03l/migration_script_for_moving_mirroring) - [A migration script for moving or mirroring repositories to a Forgejo instance](https://github.com/RGBCube/GitHub2Forgejo)
 * [2024-06-08, 20:39:49](https://lobste.rs/s/lqf39p/autodafe_1_0_released_for_freeing) - [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
 * [2024-06-08, 17:28:08](https://lobste.rs/s/1rftur/diff_modulo_base) - [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
@@ -24,7 +25,6 @@
 * [2024-06-07, 16:23:05](https://lobste.rs/s/moavey/towards_federated_key_transparency) - [Towards Federated Key Transparency](https://soatok.blog/2024/06/06/towards-federated-key-transparency/)
 * [2024-06-07, 14:47:06](https://lobste.rs/s/gq6rej/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 * [2024-06-07, 13:32:21](https://lobste.rs/s/n5zdog/moving_cheriot_rtos_tickless_model) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
-* [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 
 ## [Archives](archives/index.md)
 
