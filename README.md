@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-06-08, 09:54:53](https://lobste.rs/s/jxmsoe/down_rabbit_hole_with_apple_s_ancient_font) - [Down the Rabbit Hole with Apple's Ancient Font Editor 2.0](https://www.marksimonson.com/notebook/view/down-the-rabbit-hole-with-apples-ancient-font-editor-2-0)
-* [2024-06-08, 08:35:25](https://lobste.rs/s/wlvb3m/pessimists_archive_archive_technology) - [Pessimists Archive - archive of technology pessimism](https://pessimistsarchive.org/)
 * [2024-06-08, 07:08:56](https://lobste.rs/s/eyqd3j/why_even_little_plaintext_matters) - [Why even a little plaintext matters](https://emilymstark.com/2024/06/07/why-even-a-little-plaintext-matters.html)
 * [2024-06-08, 06:31:51](https://lobste.rs/s/i2z52c/scan_html_faster_with_simd_instructions) - [Scan HTML faster with SIMD instructions: Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
 * [2024-06-08, 06:16:44](https://lobste.rs/s/yjavmi/compilers_are_too_smart) - [Compilers are (too) smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
@@ -25,6 +24,7 @@
 * [2024-06-07, 01:17:33](https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-06, 20:06:18](https://lobste.rs/s/rerptf/let_rand_main_as_usize) - [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
+* [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution display](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
 
 ## [Archives](archives/index.md)
 
