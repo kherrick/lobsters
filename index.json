@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-08, 23:16:50",
+      "https://lobste.rs/s/emjetm/detecting_ps2_emulator_when_1_x_does_not"
+    ],
+    [
+      "Detecting a PS2 emulator: When 1*X does not equal X",
+      "https://fobes.dev/ps2/detecting-emu-vu-floats"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 21:28:27",
       "https://lobste.rs/s/fer03l/migration_script_for_moving_mirroring"
     ],
@@ -237,16 +247,6 @@
     [
       "Moving CHERIoT RTOS to a tickless model",
       "https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 19:30:42",
-      "https://lobste.rs/s/klr9k2/evading_wifi_router_ban"
-    ],
-    [
-      "evading the wifi router ban",
-      "https://devnonsense.com/posts/evading-the-wifi-router-ban/"
     ]
   ]
 ]
