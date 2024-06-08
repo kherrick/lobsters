@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-08, 00:09:15",
+      "https://lobste.rs/s/q84ufv/microvm_infrastructure_using_low"
+    ],
+    [
+      "microVM infrastructure using low-latency memory decompression",
+      "https://codesandbox.io/blog/how-we-scale-our-microvm-infrastructure-using-low-latency-memory-decompression"
+    ]
+  ],
+  [
+    [
       "2024-06-07, 21:41:46",
       "https://lobste.rs/s/sa0meo/what_is_pid_0"
     ],
@@ -137,16 +147,6 @@
     [
       "C++ programmer′s guide to undefined behavior: part 1 of 11",
       "https://pvs-studio.com/en/blog/posts/cpp/1129/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 14:09:13",
-      "https://lobste.rs/s/w8o8zy/cracking_scheduling_code_hay_day"
-    ],
-    [
-      "Cracking the Scheduling Code in Hay Day",
-      "https://thinhcorner.com/blog/hayday-game-schedule"
     ]
   ],
   [
