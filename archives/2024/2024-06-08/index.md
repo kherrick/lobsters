@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 17:32:08](https://lobste.rs/s/ttw645/golang_clone_super_productivity) - [Golang Clone of Super-Productivity](https://github.com/johannesjo/super-productivity/discussions/3210)
+* [2024-06-08, 17:28:08](https://lobste.rs/s/1rftur/diff_modulo_base) - [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
 * [2024-06-08, 15:48:50](https://lobste.rs/s/ysagox/how_save_princess_8_programming) - [How to Save the Princess in 8 Programming Languages [Comic]](https://toggl.com/blog/save-princess-8-programming-languages)
 * [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 * [2024-06-08, 14:01:36](https://lobste.rs/s/ldkwqp/proposed_fix_implementation_relaxed) - [A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)

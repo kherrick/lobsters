@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-08, 17:32:08](https://lobste.rs/s/ttw645/golang_clone_super_productivity) - [Golang Clone of Super-Productivity](https://github.com/johannesjo/super-productivity/discussions/3210)
+* [2024-06-08, 17:28:08](https://lobste.rs/s/1rftur/diff_modulo_base) - [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
 * [2024-06-08, 15:48:50](https://lobste.rs/s/ysagox/how_save_princess_8_programming) - [How to Save the Princess in 8 Programming Languages [Comic]](https://toggl.com/blog/save-princess-8-programming-languages)
 * [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 * [2024-06-08, 14:01:36](https://lobste.rs/s/ldkwqp/proposed_fix_implementation_relaxed) - [A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)
@@ -22,8 +24,6 @@
 * [2024-06-07, 16:23:05](https://lobste.rs/s/moavey/towards_federated_key_transparency) - [Towards Federated Key Transparency](https://soatok.blog/2024/06/06/towards-federated-key-transparency/)
 * [2024-06-07, 14:47:06](https://lobste.rs/s/gq6rej/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 * [2024-06-07, 13:32:21](https://lobste.rs/s/n5zdog/moving_cheriot_rtos_tickless_model) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
-* [2024-06-07, 10:01:03](https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend)
-* [2024-06-07, 01:17:33](https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 
 ## [Archives](archives/index.md)
