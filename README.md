@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-08, 01:26:05](https://lobste.rs/s/79geca/cloud_performance_on_toy_computer_from) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust.html)
 * [2024-06-08, 00:09:15](https://lobste.rs/s/q84ufv/microvm_infrastructure_using_low) - [microVM infrastructure using low-latency memory decompression](https://codesandbox.io/blog/how-we-scale-our-microvm-infrastructure-using-low-latency-memory-decompression)
 * [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 * [2024-06-07, 20:30:49](https://lobste.rs/s/jzv1tj/baets_by_der_beware_bogus_headphones) - [Baets by Der - Beware Bogus Headphones](https://redballoonsecurity.com/baets/)
@@ -19,7 +20,6 @@
 * [2024-06-07, 10:01:03](https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/urxiof/what_are_you_doing_this_weekend)
 * [2024-06-07, 06:49:30](https://lobste.rs/s/9ppscs/can_ini_files_be_unicode_yes_they_can_it_has) - [Can INI files be Unicode? Yes, they can, but it has to be your idea](https://devblogs.microsoft.com/oldnewthing/20240606-00/?p=109861)
 * [2024-06-07, 06:04:29](https://lobste.rs/s/0ijn5q/announcing_typescript_5_5_rc) - [Announcing TypeScript 5.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/)
-* [2024-06-07, 01:36:15](https://lobste.rs/s/jgx7hj/speeding_up_rustc_by_being_lazy) - [Speeding up rustc by being lazy](https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html)
 * [2024-06-07, 01:17:33](https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
 * [2024-06-06, 20:20:14](https://lobste.rs/s/ltbw08/moving_beyond_type_systems) - [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
 * [2024-06-06, 20:06:18](https://lobste.rs/s/rerptf/let_rand_main_as_usize) - [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
