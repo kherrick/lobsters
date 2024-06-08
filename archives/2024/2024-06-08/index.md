@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-08](index.md)
 
+* [2024-06-08, 15:48:50](https://lobste.rs/s/ysagox/how_save_princess_8_programming) - [How to Save the Princess in 8 Programming Languages [Comic]](https://toggl.com/blog/save-princess-8-programming-languages)
 * [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 * [2024-06-08, 14:01:36](https://lobste.rs/s/ldkwqp/proposed_fix_implementation_relaxed) - [A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)
 * [2024-06-08, 09:54:53](https://lobste.rs/s/jxmsoe/down_rabbit_hole_with_apple_s_ancient_font) - [Down the Rabbit Hole with Apple's Ancient Font Editor 2.0](https://www.marksimonson.com/notebook/view/down-the-rabbit-hole-with-apples-ancient-font-editor-2-0)

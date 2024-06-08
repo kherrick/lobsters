@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-08, 15:48:50](https://lobste.rs/s/ysagox/how_save_princess_8_programming) - [How to Save the Princess in 8 Programming Languages [Comic]](https://toggl.com/blog/save-princess-8-programming-languages)
 * [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 * [2024-06-08, 14:01:36](https://lobste.rs/s/ldkwqp/proposed_fix_implementation_relaxed) - [A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM](https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/)
 * [2024-06-08, 09:54:53](https://lobste.rs/s/jxmsoe/down_rabbit_hole_with_apple_s_ancient_font) - [Down the Rabbit Hole with Apple's Ancient Font Editor 2.0](https://www.marksimonson.com/notebook/view/down-the-rabbit-hole-with-apples-ancient-font-editor-2-0)
@@ -15,7 +16,6 @@
 * [2024-06-07, 19:11:06](https://lobste.rs/s/nayqrn/go_error_propagation_api_contracts) - [Go Error Propagation and API Contracts](https://matttproud.com/blog/posts/go-errors-and-api-contracts.html)
 * [2024-06-07, 19:02:11](https://lobste.rs/s/gpqm1s/ssh_key_management_challenges) - [SSH Key Management Challenges and Requirements](https://helda.helsinki.fi/server/api/core/bitstreams/471f0ffe-2626-4d12-8725-2147232d849f/content)
 * [2024-06-07, 18:48:40](https://lobste.rs/s/ajo3xo/badness_0_apostrophe_s_version) - [Badness 0 (Apostrophe‛s version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
-* [2024-06-07, 18:06:40](https://lobste.rs/s/g4uq9b/needlessly_public) - [Needlessly Public](https://euroquis.nl//kde/2024/06/06/public.html)
 * [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 16:36:17](https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes) - [Zig 0.13.0 Release Notes](https://ziglang.org/download/0.13.0/release-notes.html)
