@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-08, 14:04:23",
+      "https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers"
+    ],
+    [
+      "Stupid Slow: The Perceived Speed of Computers",
+      "https://www.datagubbe.se/stupidslow/"
+    ]
+  ],
+  [
+    [
+      "2024-06-08, 14:01:36",
+      "https://lobste.rs/s/ldkwqp/proposed_fix_implementation_relaxed"
+    ],
+    [
+      "A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM",
+      "https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 09:54:53",
       "https://lobste.rs/s/jxmsoe/down_rabbit_hole_with_apple_s_ancient_font"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-06-06, 20:06:18",
-      "https://lobste.rs/s/rerptf/let_rand_main_as_usize"
-    ],
-    [
-      "let rand = main as usize",
-      "https://codeandbitters.com/main-as-usize/"
-    ]
-  ],
-  [
-    [
       "2024-06-06, 19:30:42",
       "https://lobste.rs/s/klr9k2/evading_wifi_router_ban"
     ],
     [
       "evading the wifi router ban",
       "https://devnonsense.com/posts/evading-the-wifi-router-ban/"
-    ]
-  ],
-  [
-    [
-      "2024-06-06, 16:10:31",
-      "https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating"
-    ],
-    [
-      "Framework Laptop 13 Deep Dive - Creating a custom high-resolution display",
-      "https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution"
     ]
   ]
 ]
