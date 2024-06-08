@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-08, 06:31:51](https://lobste.rs/s/i2z52c/scan_html_faster_with_simd_instructions) - [Scan HTML faster with SIMD instructions: Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
 * [2024-06-08, 06:16:44](https://lobste.rs/s/yjavmi/compilers_are_too_smart) - [Compilers are (too) smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
 * [2024-06-08, 06:13:19](https://lobste.rs/s/yywlp8/spotify_car_thing_hacking_community) - [Spotify Car Thing hacking community could keep the gadget useful after Spotify ends support](https://liliputing.com/spotify-car-thing-hacking-community-could-keep-the-gadget-useful-after-spotify-ends-support/)
 * [2024-06-08, 03:30:36](https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels) - [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
@@ -21,7 +22,6 @@
 * [2024-06-07, 06:49:30](https://lobste.rs/s/9ppscs/can_ini_files_be_unicode_yes_they_can_it_has) - [Can INI files be Unicode? Yes, they can, but it has to be your idea](https://devblogs.microsoft.com/oldnewthing/20240606-00/?p=109861)
 * [2024-06-07, 06:04:29](https://lobste.rs/s/0ijn5q/announcing_typescript_5_5_rc) - [Announcing TypeScript 5.5 RC](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/)
 * [2024-06-07, 01:17:33](https://lobste.rs/s/rmnuin/leveraging_zig_s_allocators) - [Leveraging Zig's Allocators](https://www.openmymind.net/Leveraging-Zigs-Allocators/)
-* [2024-06-06, 20:20:14](https://lobste.rs/s/ltbw08/moving_beyond_type_systems) - [Moving Beyond Type Systems](https://vhyrro.github.io/posts/effect-systems/)
 * [2024-06-06, 20:06:18](https://lobste.rs/s/rerptf/let_rand_main_as_usize) - [let rand = main as usize](https://codeandbitters.com/main-as-usize/)
 * [2024-06-06, 19:30:42](https://lobste.rs/s/klr9k2/evading_wifi_router_ban) - [evading the wifi router ban](https://devnonsense.com/posts/evading-the-wifi-router-ban/)
 * [2024-06-06, 16:10:31](https://lobste.rs/s/gt4gc2/framework_laptop_13_deep_dive_creating) - [Framework Laptop 13 Deep Dive - Creating a custom high-resolution display](https://frame.work/blog/framework-laptop-13-deep-dive-creating-a-custom-high-resolution)
