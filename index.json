@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-08, 01:26:05",
+      "https://lobste.rs/s/79geca/cloud_performance_on_toy_computer_from"
+    ],
+    [
+      "Cloud Performance on a \"Toy\" Computer: From Python to Rust",
+      "https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust.html"
+    ]
+  ],
+  [
+    [
       "2024-06-08, 00:09:15",
       "https://lobste.rs/s/q84ufv/microvm_infrastructure_using_low"
     ],
@@ -187,16 +197,6 @@
     [
       "Announcing TypeScript 5.5 RC",
       "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5-rc/"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 01:36:15",
-      "https://lobste.rs/s/jgx7hj/speeding_up_rustc_by_being_lazy"
-    ],
-    [
-      "Speeding up rustc by being lazy",
-      "https://davidlattimore.github.io/posts/2024/06/05/speeding-up-rustc-by-being-lazy.html"
     ]
   ],
   [
