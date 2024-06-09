@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-09, 21:52:59](https://lobste.rs/s/83gtcr/isolate_sandbox_for_securely_executing) - [isolate: Sandbox for securely executing untrusted programs](https://github.com/ioi/isolate)
 * [2024-06-09, 18:46:39](https://lobste.rs/s/5b5feh/overengineering_this_blog_s_preview_site) - [Overengineering this blog's preview site with Kubernetes](https://xeiaso.net/blog/2024/overengineering-preview-site/)
 * [2024-06-09, 17:06:35](https://lobste.rs/s/dxak5t/darpa_spent_1_billion_trying_build_real) - [DARPA Spent $1 Billion Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
 * [2024-06-09, 16:35:52](https://lobste.rs/s/gjalce/skew_programming_language) - [The Skew Programming Language](https://andrewkchan.dev/posts/skew.html)
@@ -24,7 +25,6 @@
 * [2024-06-08, 07:08:56](https://lobste.rs/s/eyqd3j/why_even_little_plaintext_matters) - [Why even a little plaintext matters](https://emilymstark.com/2024/06/07/why-even-a-little-plaintext-matters.html)
 * [2024-06-08, 06:16:44](https://lobste.rs/s/yjavmi/compilers_are_too_smart) - [Compilers are (too) smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
 * [2024-06-08, 03:30:36](https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels) - [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
-* [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 
 ## [Archives](archives/index.md)
 
