@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 23:17:38](https://lobste.rs/s/fpim86/cardstock_python_wysiwyg_gui_builder) - [CardStock: A Python WYSIWYG GUI Builder](https://github.com/benjie-git/CardStock)
 * [2024-06-09, 21:52:59](https://lobste.rs/s/83gtcr/isolate_sandbox_for_securely_executing) - [isolate: Sandbox for securely executing untrusted programs](https://github.com/ioi/isolate)
 * [2024-06-09, 18:46:39](https://lobste.rs/s/5b5feh/overengineering_this_blog_s_preview_site) - [Overengineering this blog's preview site with Kubernetes](https://xeiaso.net/blog/2024/overengineering-preview-site/)
 * [2024-06-09, 17:06:35](https://lobste.rs/s/dxak5t/darpa_spent_1_billion_trying_build_real) - [DARPA Spent $1 Billion Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
