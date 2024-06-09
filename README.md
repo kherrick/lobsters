@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-09, 03:41:51](https://lobste.rs/s/kafd9y/united_free_open_membership_software_for) - [United: free and open membership software for collective organizations](https://codeberg.org/reesericci/united)
 * [2024-06-09, 02:13:36](https://lobste.rs/s/vch08l/fixing_knockoff_altera_usb_blaster_never) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-08, 23:51:06](https://lobste.rs/s/qxezif/effects_capabilities_boxes_from_scope) - [Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back (2022)](https://dl.acm.org/doi/pdf/10.1145/3527320)
 * [2024-06-08, 23:16:50](https://lobste.rs/s/emjetm/detecting_ps2_emulator_when_1_x_does_not) - [Detecting a PS2 emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
@@ -23,7 +24,6 @@
 * [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 16:36:17](https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes) - [Zig 0.13.0 Release Notes](https://ziglang.org/download/0.13.0/release-notes.html)
-* [2024-06-07, 14:47:06](https://lobste.rs/s/gq6rej/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 1 of 11](https://pvs-studio.com/en/blog/posts/cpp/1129/)
 * [2024-06-07, 13:32:21](https://lobste.rs/s/n5zdog/moving_cheriot_rtos_tickless_model) - [Moving CHERIoT RTOS to a tickless model](https://cheriot.org/scheduler/2024/06/07/tickless-scheduler.html)
 
 ## [Archives](archives/index.md)
