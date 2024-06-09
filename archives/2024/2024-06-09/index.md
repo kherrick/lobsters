@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 18:46:39](https://lobste.rs/s/5b5feh/overengineering_this_blog_s_preview_site) - [Overengineering this blog's preview site with Kubernetes](https://xeiaso.net/blog/2024/overengineering-preview-site/)
 * [2024-06-09, 17:06:35](https://lobste.rs/s/dxak5t/darpa_spent_1_billion_trying_build_real) - [DARPA Spent $1 Billion Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
 * [2024-06-09, 16:35:52](https://lobste.rs/s/gjalce/skew_programming_language) - [The Skew Programming Language](https://andrewkchan.dev/posts/skew.html)
 * [2024-06-09, 16:30:50](https://lobste.rs/s/car7uv/draft_taxonomy_simd_usage) - [A (Draft) Taxonomy of SIMD Usage](https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/)

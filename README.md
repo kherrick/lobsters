@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-09, 18:46:39](https://lobste.rs/s/5b5feh/overengineering_this_blog_s_preview_site) - [Overengineering this blog's preview site with Kubernetes](https://xeiaso.net/blog/2024/overengineering-preview-site/)
 * [2024-06-09, 17:06:35](https://lobste.rs/s/dxak5t/darpa_spent_1_billion_trying_build_real) - [DARPA Spent $1 Billion Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
 * [2024-06-09, 16:35:52](https://lobste.rs/s/gjalce/skew_programming_language) - [The Skew Programming Language](https://andrewkchan.dev/posts/skew.html)
 * [2024-06-09, 16:30:50](https://lobste.rs/s/car7uv/draft_taxonomy_simd_usage) - [A (Draft) Taxonomy of SIMD Usage](https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/)
@@ -24,7 +25,6 @@
 * [2024-06-08, 06:16:44](https://lobste.rs/s/yjavmi/compilers_are_too_smart) - [Compilers are (too) smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
 * [2024-06-08, 03:30:36](https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels) - [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
 * [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
-* [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)
 
 ## [Archives](archives/index.md)
 
