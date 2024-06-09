@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-09, 16:35:52",
+      "https://lobste.rs/s/gjalce/skew_programming_language"
+    ],
+    [
+      "The Skew Programming Language",
+      "https://andrewkchan.dev/posts/skew.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-09, 16:30:50",
+      "https://lobste.rs/s/car7uv/draft_taxonomy_simd_usage"
+    ],
+    [
+      "A (Draft) Taxonomy of SIMD Usage",
+      "https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 16:01:32",
       "https://lobste.rs/s/5dzi5g/create_robust_web_apps_with_gleam_lustre"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-06-08, 06:13:19",
-      "https://lobste.rs/s/yywlp8/spotify_car_thing_hacking_community"
-    ],
-    [
-      "Spotify Car Thing hacking community could keep the gadget useful after Spotify ends support",
-      "https://liliputing.com/spotify-car-thing-hacking-community-could-keep-the-gadget-useful-after-spotify-ends-support/"
-    ]
-  ],
-  [
-    [
       "2024-06-08, 03:30:36",
       "https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels"
     ],
@@ -237,16 +247,6 @@
     [
       "OpenSSH introduces options to penalize undesirable behavior",
       "https://undeadly.org/cgi?action=article;sid=20240607042157"
-    ]
-  ],
-  [
-    [
-      "2024-06-07, 16:36:17",
-      "https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes"
-    ],
-    [
-      "Zig 0.13.0 Release Notes",
-      "https://ziglang.org/download/0.13.0/release-notes.html"
     ]
   ]
 ]
