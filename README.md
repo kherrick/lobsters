@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-09, 05:05:46](https://lobste.rs/s/0drwnk/dmv_org) - [dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
 * [2024-06-09, 03:41:51](https://lobste.rs/s/kafd9y/united_free_open_membership_software_for) - [United: free and open membership software for collective organizations](https://codeberg.org/reesericci/united)
 * [2024-06-09, 02:13:36](https://lobste.rs/s/vch08l/fixing_knockoff_altera_usb_blaster_never) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-08, 23:51:06](https://lobste.rs/s/qxezif/effects_capabilities_boxes_from_scope) - [Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back (2022)](https://dl.acm.org/doi/pdf/10.1145/3527320)
@@ -20,7 +21,6 @@
 * [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 * [2024-06-07, 20:30:49](https://lobste.rs/s/jzv1tj/baets_by_der_beware_bogus_headphones) - [Baets by Der - Beware Bogus Headphones](https://redballoonsecurity.com/baets/)
 * [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)
-* [2024-06-07, 18:48:40](https://lobste.rs/s/ajo3xo/badness_0_apostrophe_s_version) - [Badness 0 (Apostrophe‛s version)](https://www.youtube.com/watch?v=Y65FRxE7uMc)
 * [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 16:36:17](https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes) - [Zig 0.13.0 Release Notes](https://ziglang.org/download/0.13.0/release-notes.html)
