@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 16:35:52](https://lobste.rs/s/gjalce/skew_programming_language) - [The Skew Programming Language](https://andrewkchan.dev/posts/skew.html)
+* [2024-06-09, 16:30:50](https://lobste.rs/s/car7uv/draft_taxonomy_simd_usage) - [A (Draft) Taxonomy of SIMD Usage](https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/)
 * [2024-06-09, 16:01:32](https://lobste.rs/s/5dzi5g/create_robust_web_apps_with_gleam_lustre) - [Create Robust Web Apps with Gleam and Lustre](https://www.youtube.com/watch?v=3kr4Ydx6GGU)
 * [2024-06-09, 14:32:06](https://lobste.rs/s/ndu2xo/so_you_want_build_browser_engine) - [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 13:32:12](https://lobste.rs/s/ocjmok/sigmod_programming_contest_archive) - [SIGMOD Programming Contest Archive](https://transactional.blog/sigmod-contest/)
