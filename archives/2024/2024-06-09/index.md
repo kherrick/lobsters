@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 09:54:39](https://lobste.rs/s/agxcf6/optimizing_ui_s_cpu_bound_frame_rate_call) - [Optimizing the UI’s CPU bound frame rate in Call of Duty](https://www.youtube.com/watch?v=iDhBz_PovwU)
 * [2024-06-09, 07:19:47](https://lobste.rs/s/wdujng/http_3_needs_us_other_people_make_firewall) - [HTTP/3 needs us (and other people) to make firewall changes (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
 * [2024-06-09, 06:22:13](https://lobste.rs/s/hilmze/xscreensaver_google_store_privacy) - [XScreenSaver: Google Store Privacy Policy](https://www.jwz.org/xscreensaver/google.html)
 * [2024-06-09, 05:05:46](https://lobste.rs/s/0drwnk/dmv_org) - [dmv.org](https://computer.rip/2024-06-08-dmv.org.html)

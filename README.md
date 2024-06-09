@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-09, 09:54:39](https://lobste.rs/s/agxcf6/optimizing_ui_s_cpu_bound_frame_rate_call) - [Optimizing the UI’s CPU bound frame rate in Call of Duty](https://www.youtube.com/watch?v=iDhBz_PovwU)
 * [2024-06-09, 07:19:47](https://lobste.rs/s/wdujng/http_3_needs_us_other_people_make_firewall) - [HTTP/3 needs us (and other people) to make firewall changes (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
 * [2024-06-09, 06:22:13](https://lobste.rs/s/hilmze/xscreensaver_google_store_privacy) - [XScreenSaver: Google Store Privacy Policy](https://www.jwz.org/xscreensaver/google.html)
 * [2024-06-09, 05:05:46](https://lobste.rs/s/0drwnk/dmv_org) - [dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
@@ -20,7 +21,6 @@
 * [2024-06-08, 03:30:36](https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels) - [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
 * [2024-06-08, 01:26:05](https://lobste.rs/s/79geca/cloud_performance_on_toy_computer_from) - [Cloud Performance on a \"Toy\" Computer: From Python to Rust](https://progscrape.com/blog/2024-06-06/cloud-performance-on-a-toy-computer-from-python-to-rust.html)
 * [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
-* [2024-06-07, 20:30:49](https://lobste.rs/s/jzv1tj/baets_by_der_beware_bogus_headphones) - [Baets by Der - Beware Bogus Headphones](https://redballoonsecurity.com/baets/)
 * [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)
 * [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
