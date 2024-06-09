@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 16:01:32](https://lobste.rs/s/5dzi5g/create_robust_web_apps_with_gleam_lustre) - [Create Robust Web Apps with Gleam and Lustre](https://www.youtube.com/watch?v=3kr4Ydx6GGU)
 * [2024-06-09, 14:32:06](https://lobste.rs/s/ndu2xo/so_you_want_build_browser_engine) - [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 13:32:12](https://lobste.rs/s/ocjmok/sigmod_programming_contest_archive) - [SIGMOD Programming Contest Archive](https://transactional.blog/sigmod-contest/)
 * [2024-06-09, 10:42:53](https://lobste.rs/s/dztprf/clang_repl) - [Clang-Repl](https://clang.llvm.org/docs/ClangRepl.html)
