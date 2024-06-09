@@ -19,10 +19,10 @@
 * [2024-06-08, 07:08:56](https://lobste.rs/s/eyqd3j/why_even_little_plaintext_matters) - [Why even a little plaintext matters](https://emilymstark.com/2024/06/07/why-even-a-little-plaintext-matters.html)
 * [2024-06-08, 06:31:51](https://lobste.rs/s/i2z52c/scan_html_faster_with_simd_instructions) - [Scan HTML faster with SIMD instructions: Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
 * [2024-06-08, 06:16:44](https://lobste.rs/s/yjavmi/compilers_are_too_smart) - [Compilers are (too) smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
+* [2024-06-08, 06:13:19](https://lobste.rs/s/yywlp8/spotify_car_thing_hacking_community) - [Spotify Car Thing hacking community could keep the gadget useful after Spotify ends support](https://liliputing.com/spotify-car-thing-hacking-community-could-keep-the-gadget-useful-after-spotify-ends-support/)
 * [2024-06-08, 03:30:36](https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels) - [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
 * [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 * [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)
-* [2024-06-07, 17:14:24](https://lobste.rs/s/kfpp9q/async_ruby_on_rails) - [Async Ruby on Rails](https://thoughtbot.com/blog/async-ruby-on-rails)
 * [2024-06-07, 17:12:49](https://lobste.rs/s/oay7an/openssh_introduces_options_penalize) - [OpenSSH introduces options to penalize undesirable behavior](https://undeadly.org/cgi?action=article;sid=20240607042157)
 * [2024-06-07, 16:36:17](https://lobste.rs/s/m2su4k/zig_0_13_0_release_notes) - [Zig 0.13.0 Release Notes](https://ziglang.org/download/0.13.0/release-notes.html)
 
