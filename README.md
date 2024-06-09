@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-09, 14:32:06](https://lobste.rs/s/ndu2xo/so_you_want_build_browser_engine) - [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 13:32:12](https://lobste.rs/s/ocjmok/sigmod_programming_contest_archive) - [SIGMOD Programming Contest Archive](https://transactional.blog/sigmod-contest/)
 * [2024-06-09, 10:42:53](https://lobste.rs/s/dztprf/clang_repl) - [Clang-Repl](https://clang.llvm.org/docs/ClangRepl.html)
 * [2024-06-09, 09:54:39](https://lobste.rs/s/agxcf6/optimizing_ui_s_cpu_bound_frame_rate_call) - [Optimizing the UI’s CPU bound frame rate in Call of Duty](https://www.youtube.com/watch?v=iDhBz_PovwU)
@@ -18,7 +19,6 @@
 * [2024-06-08, 07:08:56](https://lobste.rs/s/eyqd3j/why_even_little_plaintext_matters) - [Why even a little plaintext matters](https://emilymstark.com/2024/06/07/why-even-a-little-plaintext-matters.html)
 * [2024-06-08, 06:31:51](https://lobste.rs/s/i2z52c/scan_html_faster_with_simd_instructions) - [Scan HTML faster with SIMD instructions: Chrome edition](https://lemire.me/blog/2024/06/08/scan-html-faster-with-simd-instructions-chrome-edition/)
 * [2024-06-08, 06:16:44](https://lobste.rs/s/yjavmi/compilers_are_too_smart) - [Compilers are (too) smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
-* [2024-06-08, 06:13:19](https://lobste.rs/s/yywlp8/spotify_car_thing_hacking_community) - [Spotify Car Thing hacking community could keep the gadget useful after Spotify ends support](https://liliputing.com/spotify-car-thing-hacking-community-could-keep-the-gadget-useful-after-spotify-ends-support/)
 * [2024-06-08, 03:30:36](https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels) - [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
 * [2024-06-07, 21:41:46](https://lobste.rs/s/sa0meo/what_is_pid_0) - [What is PID 0?](https://blog.dave.tf/post/linux-pid0/)
 * [2024-06-07, 19:15:13](https://lobste.rs/s/yzo8wh/unbearable_lightness_simple_photoblog) - [The unbearable lightness of a simple photoblog](https://dostoynikov.bearblog.dev/simple-photoblog/)

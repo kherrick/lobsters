@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-09](index.md)
 
+* [2024-06-09, 14:32:06](https://lobste.rs/s/ndu2xo/so_you_want_build_browser_engine) - [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 13:32:12](https://lobste.rs/s/ocjmok/sigmod_programming_contest_archive) - [SIGMOD Programming Contest Archive](https://transactional.blog/sigmod-contest/)
 * [2024-06-09, 10:42:53](https://lobste.rs/s/dztprf/clang_repl) - [Clang-Repl](https://clang.llvm.org/docs/ClangRepl.html)
 * [2024-06-09, 09:54:39](https://lobste.rs/s/agxcf6/optimizing_ui_s_cpu_bound_frame_rate_call) - [Optimizing the UI’s CPU bound frame rate in Call of Duty](https://www.youtube.com/watch?v=iDhBz_PovwU)
