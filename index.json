@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-10, 00:50:22",
+      "https://lobste.rs/s/ve5rij/google_mesop_build_web_apps_python"
+    ],
+    [
+      "Google Mesop: Build web apps in Python",
+      "https://github.com/google/mesop"
+    ]
+  ],
+  [
+    [
       "2024-06-09, 23:17:38",
       "https://lobste.rs/s/fpim86/cardstock_python_wysiwyg_gui_builder"
     ],
@@ -207,16 +217,6 @@
     [
       "Stupid Slow: The Perceived Speed of Computers",
       "https://www.datagubbe.se/stupidslow/"
-    ]
-  ],
-  [
-    [
-      "2024-06-08, 14:01:36",
-      "https://lobste.rs/s/ldkwqp/proposed_fix_implementation_relaxed"
-    ],
-    [
-      "A proposed fix to the Implementation of Relaxed Atomics in GCC and LLVM",
-      "https://lukegeeson.com/blog/2023-10-17-A-Proposal-For-Relaxed-Atomics/"
     ]
   ],
   [
