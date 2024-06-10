@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-10, 14:11:52](https://lobste.rs/s/o7w1t4/ascii_nyc_traffic_cameras) - [ASCII NYC Traffic Cameras](https://www.val.town/v/maxm/asciiNycCameras)
 * [2024-06-10, 13:45:54](https://lobste.rs/s/gvqiw6/wwdc_2024) - [WWDC 2024](https://www.apple.com/apple-events/)
 * [2024-06-10, 12:47:52](https://lobste.rs/s/n7fg6l/cost_analysis_replication_vs_s3_express) - [A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data Systems —](https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems)
 * [2024-06-10, 11:29:41](https://lobste.rs/s/grexba/http_3_curl_mid_2024) - [HTTP/3 in curl mid 2024](https://daniel.haxx.se/blog/2024/06/10/http-3-in-curl-mid-2024/)
@@ -17,7 +18,6 @@
 * [2024-06-09, 17:06:35](https://lobste.rs/s/dxak5t/darpa_spent_1_billion_trying_build_real) - [DARPA Spent $1 Billion Trying to Build a Real-Life Skynet in the 1980s (2013)](https://paleofuture.com/blog/2013/4/30/darpa-spent-1-billion-trying-to-build-a-real-life-skynet-in-the-1980s)
 * [2024-06-09, 16:35:52](https://lobste.rs/s/gjalce/skew_programming_language) - [The Skew Programming Language](https://andrewkchan.dev/posts/skew.html)
 * [2024-06-09, 16:30:50](https://lobste.rs/s/car7uv/draft_taxonomy_simd_usage) - [A (Draft) Taxonomy of SIMD Usage](https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/)
-* [2024-06-09, 16:01:32](https://lobste.rs/s/5dzi5g/create_robust_web_apps_with_gleam_lustre) - [Create Robust Web Apps with Gleam and Lustre](https://www.youtube.com/watch?v=3kr4Ydx6GGU)
 * [2024-06-09, 14:32:06](https://lobste.rs/s/ndu2xo/so_you_want_build_browser_engine) - [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 * [2024-06-09, 13:32:12](https://lobste.rs/s/ocjmok/sigmod_programming_contest_archive) - [SIGMOD Programming Contest Archive](https://transactional.blog/sigmod-contest/)
 * [2024-06-09, 10:42:53](https://lobste.rs/s/dztprf/clang_repl) - [Clang-Repl](https://clang.llvm.org/docs/ClangRepl.html)
