@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-10, 08:42:37](https://lobste.rs/s/cpljch/proxmox_vs_freebsd_which_virtualization) - [Proxmox vs FreeBSD: Which Virtualization Host Performs Better?](https://it-notes.dragas.net/2024/06/10/proxmox-vs-freebsd-which-virtualization-host-performs-better/)
 * [2024-06-10, 07:45:42](https://lobste.rs/s/kb6juc/piku_tiniest_paas_you_ve_ever_seen) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 * [2024-06-10, 07:19:37](https://lobste.rs/s/hlrzmx/ultrasonic_investigations_shopping) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html?m=1)
 * [2024-06-10, 04:19:30](https://lobste.rs/s/b0f9pg/putting_go_s_context_package_into_context) - [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
@@ -23,7 +24,6 @@
 * [2024-06-09, 02:13:36](https://lobste.rs/s/vch08l/fixing_knockoff_altera_usb_blaster_never) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-08, 23:16:50](https://lobste.rs/s/emjetm/detecting_ps2_emulator_when_1_x_does_not) - [Detecting a PS2 emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 20:39:49](https://lobste.rs/s/lqf39p/autodafe_1_0_released_for_freeing) - [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
-* [2024-06-08, 17:28:08](https://lobste.rs/s/1rftur/diff_modulo_base) - [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
 * [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 
 ## [Archives](archives/index.md)
