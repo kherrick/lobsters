@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-10, 17:09:26",
+      "https://lobste.rs/s/hro5qm/pico9918_replacement_tms9918a_tms9929a"
+    ],
+    [
+      "pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico",
+      "https://github.com/visrealm/pico9918"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 16:59:21",
+      "https://lobste.rs/s/tcdntx/perldelta_what_is_new_for_perl_v5_40_0"
+    ],
+    [
+      "perldelta - what is new for perl v5.40.0",
+      "https://perldoc.perl.org/perldelta"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 16:08:37",
       "https://lobste.rs/s/ej33i8/reverse_engineering_menuetos_64_primary"
     ],
@@ -227,26 +247,6 @@
     [
       "So You Want To Build A Browser Engine",
       "https://robert.ocallahan.org/2024/06/browser-engine.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 07:19:47",
-      "https://lobste.rs/s/wdujng/http_3_needs_us_other_people_make_firewall"
-    ],
-    [
-      "HTTP/3 needs us (and other people) to make firewall changes (2021)",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 06:22:13",
-      "https://lobste.rs/s/hilmze/xscreensaver_google_store_privacy"
-    ],
-    [
-      "XScreenSaver: Google Store Privacy Policy",
-      "https://www.jwz.org/xscreensaver/google.html"
     ]
   ]
 ]
