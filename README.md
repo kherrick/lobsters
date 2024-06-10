@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-10, 07:19:37](https://lobste.rs/s/hlrzmx/ultrasonic_investigations_shopping) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html?m=1)
 * [2024-06-10, 04:19:30](https://lobste.rs/s/b0f9pg/putting_go_s_context_package_into_context) - [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
 * [2024-06-10, 03:09:55](https://lobste.rs/s/uvlqms/escape_from_ivory_tower_haskell_journey) - [Escape from the ivory tower: the Haskell journey (2017)](https://www.youtube.com/watch?v=re96UgMk6GQ)
 * [2024-06-10, 02:32:00](https://lobste.rs/s/it8unq/algorithm_for_invalidation_cached) - [Algorithm for Invalidation of Cached Results of Queries to a Single Table (2013)](https://arxiv.org/pdf/2310.15360)
@@ -19,7 +20,6 @@
 * [2024-06-09, 05:05:46](https://lobste.rs/s/0drwnk/dmv_org) - [dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
 * [2024-06-09, 03:41:51](https://lobste.rs/s/kafd9y/united_free_open_membership_software_for) - [United: free and open membership software for collective organizations](https://codeberg.org/reesericci/united)
 * [2024-06-09, 02:13:36](https://lobste.rs/s/vch08l/fixing_knockoff_altera_usb_blaster_never) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
-* [2024-06-08, 23:51:06](https://lobste.rs/s/qxezif/effects_capabilities_boxes_from_scope) - [Effects, capabilities, and boxes: from scope-based reasoning to type-based reasoning and back (2022)](https://dl.acm.org/doi/pdf/10.1145/3527320)
 * [2024-06-08, 23:16:50](https://lobste.rs/s/emjetm/detecting_ps2_emulator_when_1_x_does_not) - [Detecting a PS2 emulator: When 1*X does not equal X](https://fobes.dev/ps2/detecting-emu-vu-floats)
 * [2024-06-08, 20:39:49](https://lobste.rs/s/lqf39p/autodafe_1_0_released_for_freeing) - [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
 * [2024-06-08, 17:28:08](https://lobste.rs/s/1rftur/diff_modulo_base) - [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
