@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-10, 18:40:06",
+      "https://lobste.rs/s/hderm9/pagination_for_database_objects"
+    ],
+    [
+      "Pagination for database objects",
+      "https://www.n16f.net/blog/pagination-for-database-objects/"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 17:47:56",
       "https://lobste.rs/s/vkhuzq/nvidia_patch_this_patch_removes"
     ],
@@ -177,16 +187,6 @@
     [
       "Putting Go's Context package into context",
       "https://blog.meain.io/2024/golang-context/"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 02:32:00",
-      "https://lobste.rs/s/it8unq/algorithm_for_invalidation_cached"
-    ],
-    [
-      "Algorithm for Invalidation of Cached Results of Queries to a Single Table (2013)",
-      "https://arxiv.org/pdf/2310.15360"
     ]
   ],
   [
