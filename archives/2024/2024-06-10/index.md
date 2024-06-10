@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 14:32:39](https://lobste.rs/s/fxkhfk/failing_at_combinatorics_with_haskell) - [Failing at Combinatorics with Haskell](https://two-wrongs.com/failing-at-combinatorics-with-haskell.html)
+* [2024-06-10, 14:31:54](https://lobste.rs/s/f6aqru/autodafe_tools_for_freeing_your_project) - [autodafe: tools for freeing your project from the clammy grip of autotools](https://gitlab.com/esr/autodafe)
 * [2024-06-10, 14:11:52](https://lobste.rs/s/o7w1t4/ascii_nyc_traffic_cameras) - [ASCII NYC Traffic Cameras](https://www.val.town/v/maxm/asciiNycCameras)
 * [2024-06-10, 13:45:54](https://lobste.rs/s/gvqiw6/wwdc_2024) - [WWDC 2024](https://www.apple.com/apple-events/)
 * [2024-06-10, 12:47:52](https://lobste.rs/s/n7fg6l/cost_analysis_replication_vs_s3_express) - [A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data Systems —](https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems)
