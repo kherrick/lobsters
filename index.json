@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-10, 12:47:52",
+      "https://lobste.rs/s/n7fg6l/cost_analysis_replication_vs_s3_express"
+    ],
+    [
+      "A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data Systems —",
+      "https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 11:29:41",
       "https://lobste.rs/s/grexba/http_3_curl_mid_2024"
     ],
@@ -227,16 +237,6 @@
     [
       "Fixing a knockoff Altera USB Blaster that never worked",
       "https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/"
-    ]
-  ],
-  [
-    [
-      "2024-06-08, 23:16:50",
-      "https://lobste.rs/s/emjetm/detecting_ps2_emulator_when_1_x_does_not"
-    ],
-    [
-      "Detecting a PS2 emulator: When 1*X does not equal X",
-      "https://fobes.dev/ps2/detecting-emu-vu-floats"
     ]
   ],
   [
