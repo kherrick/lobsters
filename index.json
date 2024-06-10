@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-10, 17:47:56",
+      "https://lobste.rs/s/vkhuzq/nvidia_patch_this_patch_removes"
+    ],
+    [
+      "nvidia-patch: This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs",
+      "https://github.com/keylase/nvidia-patch"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 17:28:38",
       "https://lobste.rs/s/qg9h30/computers_can_t_do_math"
     ],
@@ -207,16 +217,6 @@
     [
       "isolate: Sandbox for securely executing untrusted programs",
       "https://github.com/ioi/isolate"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 18:46:39",
-      "https://lobste.rs/s/5b5feh/overengineering_this_blog_s_preview_site"
-    ],
-    [
-      "Overengineering this blog's preview site with Kubernetes",
-      "https://xeiaso.net/blog/2024/overengineering-preview-site/"
     ]
   ],
   [
