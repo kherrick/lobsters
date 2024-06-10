@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 23:07:23](https://lobste.rs/s/oqyesn/beyond_wall_working_with_aperiodic) - [Beyond the wall: working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 * [2024-06-10, 22:01:57](https://lobste.rs/s/7lccsa/private_cloud_compute_new_frontier_for_ai) - [Private Cloud Compute: A new frontier for AI privacy in the cloud](https://security.apple.com/blog/private-cloud-compute/)
 * [2024-06-10, 21:31:45](https://lobste.rs/s/piyuio/how_i_spent_2_years_building_my_own_game) - [How I spent 2 years building my own game engine](https://legendofworlds.com/blog/4)
 * [2024-06-10, 20:43:48](https://lobste.rs/s/yzmlx1/effect_handlers_koka) - [Effect Handlers in Koka](https://www.youtube.com/watch?v=A8dpmhXdjyw)

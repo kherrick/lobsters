@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-10, 23:07:23](https://lobste.rs/s/oqyesn/beyond_wall_working_with_aperiodic) - [Beyond the wall: working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 * [2024-06-10, 21:31:45](https://lobste.rs/s/piyuio/how_i_spent_2_years_building_my_own_game) - [How I spent 2 years building my own game engine](https://legendofworlds.com/blog/4)
 * [2024-06-10, 20:43:48](https://lobste.rs/s/yzmlx1/effect_handlers_koka) - [Effect Handlers in Koka](https://www.youtube.com/watch?v=A8dpmhXdjyw)
 * [2024-06-10, 18:40:06](https://lobste.rs/s/hderm9/pagination_for_database_objects) - [Pagination for database objects](https://www.n16f.net/blog/pagination-for-database-objects/)
@@ -14,7 +15,6 @@
 * [2024-06-10, 14:32:39](https://lobste.rs/s/fxkhfk/failing_at_combinatorics_with_haskell) - [Failing at Combinatorics with Haskell](https://two-wrongs.com/failing-at-combinatorics-with-haskell.html)
 * [2024-06-10, 14:11:52](https://lobste.rs/s/o7w1t4/ascii_nyc_traffic_cameras) - [ASCII NYC Traffic Cameras](https://www.val.town/v/maxm/asciiNycCameras)
 * [2024-06-10, 13:45:54](https://lobste.rs/s/gvqiw6/wwdc_2024) - [WWDC 2024](https://www.apple.com/apple-events/)
-* [2024-06-10, 12:47:52](https://lobste.rs/s/n7fg6l/cost_analysis_replication_vs_s3_express) - [A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data Systems](https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems)
 * [2024-06-10, 11:29:41](https://lobste.rs/s/grexba/http_3_curl_mid_2024) - [HTTP/3 in curl mid 2024](https://daniel.haxx.se/blog/2024/06/10/http-3-in-curl-mid-2024/)
 * [2024-06-10, 09:42:27](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week)
 * [2024-06-10, 08:42:37](https://lobste.rs/s/cpljch/proxmox_vs_freebsd_which_virtualization) - [Proxmox vs FreeBSD: Which Virtualization Host Performs Better?](https://it-notes.dragas.net/2024/06/10/proxmox-vs-freebsd-which-virtualization-host-performs-better/)
