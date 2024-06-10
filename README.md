@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-10, 13:45:54](https://lobste.rs/s/gvqiw6/wwdc_2024) - [WWDC 2024](https://www.apple.com/apple-events/)
 * [2024-06-10, 12:47:52](https://lobste.rs/s/n7fg6l/cost_analysis_replication_vs_s3_express) - [A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data Systems —](https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems)
 * [2024-06-10, 11:29:41](https://lobste.rs/s/grexba/http_3_curl_mid_2024) - [HTTP/3 in curl mid 2024](https://daniel.haxx.se/blog/2024/06/10/http-3-in-curl-mid-2024/)
 * [2024-06-10, 09:42:27](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week)
@@ -23,7 +24,6 @@
 * [2024-06-09, 07:19:47](https://lobste.rs/s/wdujng/http_3_needs_us_other_people_make_firewall) - [HTTP/3 needs us (and other people) to make firewall changes (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
 * [2024-06-09, 06:22:13](https://lobste.rs/s/hilmze/xscreensaver_google_store_privacy) - [XScreenSaver: Google Store Privacy Policy](https://www.jwz.org/xscreensaver/google.html)
 * [2024-06-09, 05:05:46](https://lobste.rs/s/0drwnk/dmv_org) - [dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
-* [2024-06-09, 02:13:36](https://lobste.rs/s/vch08l/fixing_knockoff_altera_usb_blaster_never) - [Fixing a knockoff Altera USB Blaster that never worked](https://www.downtowndougbrown.com/2024/06/fixing-a-knockoff-altera-usb-blaster-that-never-worked/)
 * [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
 
 ## [Archives](archives/index.md)
