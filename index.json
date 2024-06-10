@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-10, 22:01:57",
-      "https://lobste.rs/s/7lccsa/private_cloud_compute_new_frontier_for_ai"
-    ],
-    [
-      "Private Cloud Compute: A new frontier for AI privacy in the cloud",
-      "https://security.apple.com/blog/private-cloud-compute/"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 21:31:45",
       "https://lobste.rs/s/piyuio/how_i_spent_2_years_building_my_own_game"
     ],
@@ -147,6 +137,16 @@
     [
       "WWDC 2024",
       "https://www.apple.com/apple-events/"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 12:47:52",
+      "https://lobste.rs/s/n7fg6l/cost_analysis_replication_vs_s3_express"
+    ],
+    [
+      "A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data Systems",
+      "https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems"
     ]
   ],
   [
