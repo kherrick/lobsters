@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 17:09:26](https://lobste.rs/s/hro5qm/pico9918_replacement_tms9918a_tms9929a) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
+* [2024-06-10, 16:59:21](https://lobste.rs/s/tcdntx/perldelta_what_is_new_for_perl_v5_40_0) - [perldelta - what is new for perl v5.40.0](https://perldoc.perl.org/perldelta)
 * [2024-06-10, 16:08:37](https://lobste.rs/s/ej33i8/reverse_engineering_menuetos_64_primary) - [Reverse Engineering MenuetOS 64 - Primary Boot Loader](https://starkeblog.com/bios/menuetos/2022/09/22/reverse-engineering-menuetos.html)
 * [2024-06-10, 15:44:44](https://lobste.rs/s/62pgub/nanogpt_pipeline_packed_spreadsheet) - [A nanoGPT pipeline packed in a spreadsheet](https://github.com/dabochen/spreadsheet-is-all-you-need)
 * [2024-06-10, 15:40:58](https://lobste.rs/s/gmq8ea/understanding_dns_kubernetes) - [Understanding DNS in Kubernetes](https://povilasv.me/understanding-dns-in-kubernetes/)
