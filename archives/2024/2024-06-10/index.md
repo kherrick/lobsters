@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 15:09:44](https://lobste.rs/s/59nsig/netbsd_10_on_pinebook_pro_laptop) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
 * [2024-06-10, 14:32:39](https://lobste.rs/s/fxkhfk/failing_at_combinatorics_with_haskell) - [Failing at Combinatorics with Haskell](https://two-wrongs.com/failing-at-combinatorics-with-haskell.html)
 * [2024-06-10, 14:31:54](https://lobste.rs/s/f6aqru/autodafe_tools_for_freeing_your_project) - [autodafe: tools for freeing your project from the clammy grip of autotools](https://gitlab.com/esr/autodafe)
 * [2024-06-10, 14:11:52](https://lobste.rs/s/o7w1t4/ascii_nyc_traffic_cameras) - [ASCII NYC Traffic Cameras](https://www.val.town/v/maxm/asciiNycCameras)
