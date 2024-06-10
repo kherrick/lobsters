@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-10, 03:09:55](https://lobste.rs/s/uvlqms/escape_from_ivory_tower_haskell_journey) - [Escape from the ivory tower: the Haskell journey (2017)](https://www.youtube.com/watch?v=re96UgMk6GQ)
 * [2024-06-10, 02:32:00](https://lobste.rs/s/it8unq/algorithm_for_invalidation_cached) - [Algorithm for Invalidation of Cached Results of Queries to a Single Table (2013)](https://arxiv.org/pdf/2310.15360)
 * [2024-06-10, 00:50:22](https://lobste.rs/s/ve5rij/google_mesop_build_web_apps_python) - [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
 * [2024-06-09, 23:17:38](https://lobste.rs/s/fpim86/cardstock_python_wysiwyg_gui_builder) - [CardStock: A Python WYSIWYG GUI Builder](https://github.com/benjie-git/CardStock)
@@ -23,7 +24,6 @@
 * [2024-06-08, 20:39:49](https://lobste.rs/s/lqf39p/autodafe_1_0_released_for_freeing) - [Autodafe 1.0 Released For Freeing Projects Of Autotools](https://www.phoronix.com/news/Autodafe-1.0-Released)
 * [2024-06-08, 17:28:08](https://lobste.rs/s/1rftur/diff_modulo_base) - [Diff modulo base](https://git.sr.ht/~nhaehnle/diff-modulo-base)
 * [2024-06-08, 14:04:23](https://lobste.rs/s/one3oq/stupid_slow_perceived_speed_computers) - [Stupid Slow: The Perceived Speed of Computers](https://www.datagubbe.se/stupidslow/)
-* [2024-06-08, 06:16:44](https://lobste.rs/s/yjavmi/compilers_are_too_smart) - [Compilers are (too) smart](http://msinilo.pl/blog2/post/compilers-are-too-smart/)
 * [2024-06-08, 03:30:36](https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels) - [LLMs are not even good wordcels](https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams)
 
 ## [Archives](archives/index.md)
