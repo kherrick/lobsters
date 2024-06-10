@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-10, 07:45:42",
+      "https://lobste.rs/s/kb6juc/piku_tiniest_paas_you_ve_ever_seen"
+    ],
+    [
+      "piku: The tiniest PaaS you've ever seen",
+      "https://github.com/piku/piku"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 07:19:37",
       "https://lobste.rs/s/hlrzmx/ultrasonic_investigations_shopping"
     ],
@@ -237,16 +247,6 @@
     [
       "Stupid Slow: The Perceived Speed of Computers",
       "https://www.datagubbe.se/stupidslow/"
-    ]
-  ],
-  [
-    [
-      "2024-06-08, 03:30:36",
-      "https://lobste.rs/s/sdbtnj/llms_are_not_even_good_wordcels"
-    ],
-    [
-      "LLMs are not even good wordcels",
-      "https://demian.ferrei.ro/blog/chatgpt-sucks-at-pangrams"
     ]
   ]
 ]
