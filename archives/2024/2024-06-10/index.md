@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 16:08:37](https://lobste.rs/s/ej33i8/reverse_engineering_menuetos_64_primary) - [Reverse Engineering MenuetOS 64 - Primary Boot Loader](https://starkeblog.com/bios/menuetos/2022/09/22/reverse-engineering-menuetos.html)
 * [2024-06-10, 15:44:44](https://lobste.rs/s/62pgub/nanogpt_pipeline_packed_spreadsheet) - [A nanoGPT pipeline packed in a spreadsheet](https://github.com/dabochen/spreadsheet-is-all-you-need)
 * [2024-06-10, 15:40:58](https://lobste.rs/s/gmq8ea/understanding_dns_kubernetes) - [Understanding DNS in Kubernetes](https://povilasv.me/understanding-dns-in-kubernetes/)
 * [2024-06-10, 15:09:44](https://lobste.rs/s/59nsig/netbsd_10_on_pinebook_pro_laptop) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
