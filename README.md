@@ -2,7 +2,7 @@
 
 * [2024-06-10, 14:11:52](https://lobste.rs/s/o7w1t4/ascii_nyc_traffic_cameras) - [ASCII NYC Traffic Cameras](https://www.val.town/v/maxm/asciiNycCameras)
 * [2024-06-10, 13:45:54](https://lobste.rs/s/gvqiw6/wwdc_2024) - [WWDC 2024](https://www.apple.com/apple-events/)
-* [2024-06-10, 12:47:52](https://lobste.rs/s/n7fg6l/cost_analysis_replication_vs_s3_express) - [A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data Systems —](https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems)
+* [2024-06-10, 12:47:52](https://lobste.rs/s/n7fg6l/cost_analysis_replication_vs_s3_express) - [A Cost Analysis of Replication vs S3 Express One Zone in Transactional Data Systems](https://jack-vanlightly.com/blog/2024/6/10/a-cost-analysis-of-replication-vs-s3-express-one-zone-in-transactional-data-systems)
 * [2024-06-10, 11:29:41](https://lobste.rs/s/grexba/http_3_curl_mid_2024) - [HTTP/3 in curl mid 2024](https://daniel.haxx.se/blog/2024/06/10/http-3-in-curl-mid-2024/)
 * [2024-06-10, 09:42:27](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week)
 * [2024-06-10, 08:42:37](https://lobste.rs/s/cpljch/proxmox_vs_freebsd_which_virtualization) - [Proxmox vs FreeBSD: Which Virtualization Host Performs Better?](https://it-notes.dragas.net/2024/06/10/proxmox-vs-freebsd-which-virtualization-host-performs-better/)
