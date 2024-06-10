@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-10, 22:01:57",
+      "https://lobste.rs/s/7lccsa/private_cloud_compute_new_frontier_for_ai"
+    ],
+    [
+      "Private Cloud Compute: A new frontier for AI privacy in the cloud",
+      "https://security.apple.com/blog/private-cloud-compute/"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 21:31:45",
       "https://lobste.rs/s/piyuio/how_i_spent_2_years_building_my_own_game"
     ],
@@ -227,16 +237,6 @@
     [
       "isolate: Sandbox for securely executing untrusted programs",
       "https://github.com/ioi/isolate"
-    ]
-  ],
-  [
-    [
-      "2024-06-09, 16:30:50",
-      "https://lobste.rs/s/car7uv/draft_taxonomy_simd_usage"
-    ],
-    [
-      "A (Draft) Taxonomy of SIMD Usage",
-      "https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/"
     ]
   ],
   [
