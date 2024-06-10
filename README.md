@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-10, 18:40:06](https://lobste.rs/s/hderm9/pagination_for_database_objects) - [Pagination for database objects](https://www.n16f.net/blog/pagination-for-database-objects/)
 * [2024-06-10, 17:47:56](https://lobste.rs/s/vkhuzq/nvidia_patch_this_patch_removes) - [nvidia-patch: This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs](https://github.com/keylase/nvidia-patch)
 * [2024-06-10, 17:28:38](https://lobste.rs/s/qg9h30/computers_can_t_do_math) - [Computers Can’t Do Math](https://www.plough.com/en/topics/life/technology/computers-cant-do-math)
 * [2024-06-10, 17:09:26](https://lobste.rs/s/hro5qm/pico9918_replacement_tms9918a_tms9929a) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
@@ -18,7 +19,6 @@
 * [2024-06-10, 07:45:42](https://lobste.rs/s/kb6juc/piku_tiniest_paas_you_ve_ever_seen) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 * [2024-06-10, 07:19:37](https://lobste.rs/s/hlrzmx/ultrasonic_investigations_shopping) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html?m=1)
 * [2024-06-10, 04:19:30](https://lobste.rs/s/b0f9pg/putting_go_s_context_package_into_context) - [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
-* [2024-06-10, 02:32:00](https://lobste.rs/s/it8unq/algorithm_for_invalidation_cached) - [Algorithm for Invalidation of Cached Results of Queries to a Single Table (2013)](https://arxiv.org/pdf/2310.15360)
 * [2024-06-10, 00:50:22](https://lobste.rs/s/ve5rij/google_mesop_build_web_apps_python) - [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
 * [2024-06-09, 23:17:38](https://lobste.rs/s/fpim86/cardstock_python_wysiwyg_gui_builder) - [CardStock: A Python WYSIWYG GUI Builder](https://github.com/benjie-git/CardStock)
 * [2024-06-09, 21:52:59](https://lobste.rs/s/83gtcr/isolate_sandbox_for_securely_executing) - [isolate: Sandbox for securely executing untrusted programs](https://github.com/ioi/isolate)
