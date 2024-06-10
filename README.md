@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-10, 02:32:00](https://lobste.rs/s/it8unq/algorithm_for_invalidation_cached) - [Algorithm for Invalidation of Cached Results of Queries to a Single Table](https://arxiv.org/pdf/2310.15360)
+* [2024-06-10, 02:32:00](https://lobste.rs/s/it8unq/algorithm_for_invalidation_cached) - [Algorithm for Invalidation of Cached Results of Queries to a Single Table (2013)](https://arxiv.org/pdf/2310.15360)
 * [2024-06-10, 00:50:22](https://lobste.rs/s/ve5rij/google_mesop_build_web_apps_python) - [Google Mesop: Build web apps in Python](https://github.com/google/mesop)
 * [2024-06-09, 23:17:38](https://lobste.rs/s/fpim86/cardstock_python_wysiwyg_gui_builder) - [CardStock: A Python WYSIWYG GUI Builder](https://github.com/benjie-git/CardStock)
 * [2024-06-09, 21:52:59](https://lobste.rs/s/83gtcr/isolate_sandbox_for_securely_executing) - [isolate: Sandbox for securely executing untrusted programs](https://github.com/ioi/isolate)
