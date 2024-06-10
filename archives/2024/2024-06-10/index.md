@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-10](index.md)
 
+* [2024-06-10, 09:42:27](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week)
 * [2024-06-10, 08:42:37](https://lobste.rs/s/cpljch/proxmox_vs_freebsd_which_virtualization) - [Proxmox vs FreeBSD: Which Virtualization Host Performs Better?](https://it-notes.dragas.net/2024/06/10/proxmox-vs-freebsd-which-virtualization-host-performs-better/)
 * [2024-06-10, 07:45:42](https://lobste.rs/s/kb6juc/piku_tiniest_paas_you_ve_ever_seen) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 * [2024-06-10, 07:19:37](https://lobste.rs/s/hlrzmx/ultrasonic_investigations_shopping) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html?m=1)
