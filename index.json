@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-10, 20:43:48",
+      "https://lobste.rs/s/yzmlx1/effect_handlers_koka"
+    ],
+    [
+      "Effect Handlers in Koka",
+      "https://www.youtube.com/watch?v=A8dpmhXdjyw"
+    ]
+  ],
+  [
+    [
       "2024-06-10, 20:34:39",
       "https://lobste.rs/s/yhtygw/news_from_wwdc24_webkit_safari_18_beta"
     ],
@@ -57,16 +67,6 @@
     [
       "perldelta - what is new for perl v5.40.0",
       "https://perldoc.perl.org/perldelta"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 16:08:37",
-      "https://lobste.rs/s/ej33i8/reverse_engineering_menuetos_64_primary"
-    ],
-    [
-      "Reverse Engineering MenuetOS 64 - Primary Boot Loader",
-      "https://starkeblog.com/bios/menuetos/2022/09/22/reverse-engineering-menuetos.html"
     ]
   ],
   [
