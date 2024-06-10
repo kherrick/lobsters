@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-10, 15:44:44](https://lobste.rs/s/62pgub/nanogpt_pipeline_packed_spreadsheet) - [A nanoGPT pipeline packed in a spreadsheet](https://github.com/dabochen/spreadsheet-is-all-you-need)
+* [2024-06-10, 15:40:58](https://lobste.rs/s/gmq8ea/understanding_dns_kubernetes) - [Understanding DNS in Kubernetes](https://povilasv.me/understanding-dns-in-kubernetes/)
 * [2024-06-10, 15:09:44](https://lobste.rs/s/59nsig/netbsd_10_on_pinebook_pro_laptop) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
 * [2024-06-10, 14:32:39](https://lobste.rs/s/fxkhfk/failing_at_combinatorics_with_haskell) - [Failing at Combinatorics with Haskell](https://two-wrongs.com/failing-at-combinatorics-with-haskell.html)
 * [2024-06-10, 14:11:52](https://lobste.rs/s/o7w1t4/ascii_nyc_traffic_cameras) - [ASCII NYC Traffic Cameras](https://www.val.town/v/maxm/asciiNycCameras)
@@ -21,10 +23,8 @@
 * [2024-06-09, 16:35:52](https://lobste.rs/s/gjalce/skew_programming_language) - [The Skew Programming Language](https://andrewkchan.dev/posts/skew.html)
 * [2024-06-09, 16:30:50](https://lobste.rs/s/car7uv/draft_taxonomy_simd_usage) - [A (Draft) Taxonomy of SIMD Usage](https://branchfree.org/2024/06/09/a-draft-taxonomy-of-simd-usage/)
 * [2024-06-09, 14:32:06](https://lobste.rs/s/ndu2xo/so_you_want_build_browser_engine) - [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
-* [2024-06-09, 10:42:53](https://lobste.rs/s/dztprf/clang_repl) - [Clang-Repl](https://clang.llvm.org/docs/ClangRepl.html)
 * [2024-06-09, 07:19:47](https://lobste.rs/s/wdujng/http_3_needs_us_other_people_make_firewall) - [HTTP/3 needs us (and other people) to make firewall changes (2021)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/HTTP3AndOurFirewalls)
 * [2024-06-09, 06:22:13](https://lobste.rs/s/hilmze/xscreensaver_google_store_privacy) - [XScreenSaver: Google Store Privacy Policy](https://www.jwz.org/xscreensaver/google.html)
-* [2024-06-09, 05:05:46](https://lobste.rs/s/0drwnk/dmv_org) - [dmv.org](https://computer.rip/2024-06-08-dmv.org.html)
 
 ## [Archives](archives/index.md)
 
