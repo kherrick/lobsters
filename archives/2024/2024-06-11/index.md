@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 13:50:49](https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github) - [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
 * [2024-06-11, 11:52:26](https://lobste.rs/s/xntbv1/observability_101_beginner_s_journey) - [Observability 101: A Beginner's Journey Free of Print Statements](https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements)
 * [2024-06-11, 11:50:52](https://lobste.rs/s/vjtz3n/code_integrity_unleashed_crucial_role) - [Code Integrity Unleashed: The Crucial Role of Git Signed Commits](https://medium.com/gitconnected/the-crucial-role-of-git-signed-commits-4b14e784f50c)
 * [2024-06-11, 11:26:40](https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
