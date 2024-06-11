@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 11:52:26](https://lobste.rs/s/xntbv1/observability_101_beginner_s_journey) - [Observability 101: A Beginner's Journey Free of Print Statements](https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements)
+* [2024-06-11, 11:50:52](https://lobste.rs/s/vjtz3n/code_integrity_unleashed_crucial_role) - [Code Integrity Unleashed: The Crucial Role of Git Signed Commits](https://medium.com/gitconnected/the-crucial-role-of-git-signed-commits-4b14e784f50c)
 * [2024-06-11, 11:26:40](https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-11, 09:45:20](https://lobste.rs/s/urihyy/tiny_awards) - [Tiny Awards](https://tinyawards.net/)
 * [2024-06-11, 08:01:16](https://lobste.rs/s/5i3ggi/dynamics_corporate_governance_beyond) - [Dynamics of Corporate Governance Beyond Ownership in AI](https://www.common-wealth.org/publications/dynamics-of-corporate-governance-beyond-ownership-in-ai)
