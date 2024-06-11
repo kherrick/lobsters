@@ -2,6 +2,7 @@
 
 * [2024-06-11, 11:26:40](https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-11, 09:45:20](https://lobste.rs/s/urihyy/tiny_awards) - [Tiny Awards](https://tinyawards.net/)
+* [2024-06-11, 08:01:16](https://lobste.rs/s/5i3ggi/dynamics_corporate_governance_beyond) - [Dynamics of Corporate Governance Beyond Ownership in AI](https://www.common-wealth.org/publications/dynamics-of-corporate-governance-beyond-ownership-in-ai)
 * [2024-06-11, 05:46:52](https://lobste.rs/s/k2rfbc/understanding_http_server_by) - [Understanding HTTP Server by implementing in Python](https://muhammadraza.me/2024/building-http-server/)
 * [2024-06-11, 04:50:52](https://lobste.rs/s/0sdvvw/999_crates_rust_on_wall) - [999 crates of Rust on the wall](https://lawngno.me/blog/2024/06/10/divine-provenance.html)
 * [2024-06-11, 00:36:23](https://lobste.rs/s/g5txc3/invention_fuzz_testing) - [The invention of fuzz testing](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
@@ -13,7 +14,6 @@
 * [2024-06-10, 17:28:38](https://lobste.rs/s/qg9h30/computers_can_t_do_math) - [Computers Can’t Do Math](https://www.plough.com/en/topics/life/technology/computers-cant-do-math)
 * [2024-06-10, 17:09:26](https://lobste.rs/s/hro5qm/pico9918_replacement_tms9918a_tms9929a) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
 * [2024-06-10, 16:59:21](https://lobste.rs/s/tcdntx/perldelta_what_is_new_for_perl_v5_40_0) - [perldelta - what is new for perl v5.40.0](https://perldoc.perl.org/5.40.0/perldelta)
-* [2024-06-10, 15:44:44](https://lobste.rs/s/62pgub/nanogpt_pipeline_packed_spreadsheet) - [A nanoGPT pipeline packed in a spreadsheet](https://github.com/dabochen/spreadsheet-is-all-you-need)
 * [2024-06-10, 15:40:58](https://lobste.rs/s/gmq8ea/understanding_dns_kubernetes) - [Understanding DNS in Kubernetes](https://povilasv.me/understanding-dns-in-kubernetes/)
 * [2024-06-10, 15:09:44](https://lobste.rs/s/59nsig/netbsd_10_on_pinebook_pro_laptop) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
 * [2024-06-10, 14:32:39](https://lobste.rs/s/fxkhfk/failing_at_combinatorics_with_haskell) - [Failing at Combinatorics with Haskell](https://two-wrongs.com/failing-at-combinatorics-with-haskell.html)
