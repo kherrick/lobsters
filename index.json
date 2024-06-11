@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-11, 11:52:26",
+      "https://lobste.rs/s/xntbv1/observability_101_beginner_s_journey"
+    ],
+    [
+      "Observability 101: A Beginner's Journey Free of Print Statements",
+      "https://cloudnativeengineer.substack.com/p/observability-101-free-of-print-statements"
+    ]
+  ],
+  [
+    [
+      "2024-06-11, 11:50:52",
+      "https://lobste.rs/s/vjtz3n/code_integrity_unleashed_crucial_role"
+    ],
+    [
+      "Code Integrity Unleashed: The Crucial Role of Git Signed Commits",
+      "https://medium.com/gitconnected/the-crucial-role-of-git-signed-commits-4b14e784f50c"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 11:26:40",
       "https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus"
     ],
@@ -121,32 +141,12 @@
   ],
   [
     [
-      "2024-06-10, 17:09:26",
-      "https://lobste.rs/s/hro5qm/pico9918_replacement_tms9918a_tms9929a"
-    ],
-    [
-      "pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico",
-      "https://github.com/visrealm/pico9918"
-    ]
-  ],
-  [
-    [
       "2024-06-10, 16:59:21",
       "https://lobste.rs/s/tcdntx/perldelta_what_is_new_for_perl_v5_40_0"
     ],
     [
       "perldelta - what is new for perl v5.40.0",
       "https://perldoc.perl.org/5.40.0/perldelta"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 15:40:58",
-      "https://lobste.rs/s/gmq8ea/understanding_dns_kubernetes"
-    ],
-    [
-      "Understanding DNS in Kubernetes",
-      "https://povilasv.me/understanding-dns-in-kubernetes/"
     ]
   ],
   [
