@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-11, 14:19:59](https://lobste.rs/s/e1egpg/open_letter_everyone_i_will_ever_work_with) - [An open letter to everyone that I will ever work with as a remote tech worker](https://bhupesh.me/open-letter-remote-tech-worker/)
 * [2024-06-11, 13:50:49](https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github) - [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
 * [2024-06-11, 11:26:40](https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-11, 09:45:20](https://lobste.rs/s/urihyy/tiny_awards) - [Tiny Awards](https://tinyawards.net/)
@@ -14,6 +13,7 @@
 * [2024-06-10, 20:43:48](https://lobste.rs/s/yzmlx1/effect_handlers_koka) - [Effect Handlers in Koka](https://www.youtube.com/watch?v=A8dpmhXdjyw)
 * [2024-06-10, 17:47:56](https://lobste.rs/s/vkhuzq/nvidia_patch_this_patch_removes) - [nvidia-patch: This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs](https://github.com/keylase/nvidia-patch)
 * [2024-06-10, 17:28:38](https://lobste.rs/s/qg9h30/computers_can_t_do_math) - [Computers Can’t Do Math](https://www.plough.com/en/topics/life/technology/computers-cant-do-math)
+* [2024-06-10, 17:09:26](https://lobste.rs/s/hro5qm/pico9918_replacement_tms9918a_tms9929a) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
 * [2024-06-10, 16:59:21](https://lobste.rs/s/tcdntx/perldelta_what_is_new_for_perl_v5_40_0) - [perldelta - what is new for perl v5.40.0](https://perldoc.perl.org/5.40.0/perldelta)
 * [2024-06-10, 15:09:44](https://lobste.rs/s/59nsig/netbsd_10_on_pinebook_pro_laptop) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
 * [2024-06-10, 14:32:39](https://lobste.rs/s/fxkhfk/failing_at_combinatorics_with_haskell) - [Failing at Combinatorics with Haskell](https://two-wrongs.com/failing-at-combinatorics-with-haskell.html)
