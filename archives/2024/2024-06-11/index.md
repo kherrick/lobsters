@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 16:29:14](https://lobste.rs/s/41urxt/hackers_target_ai_users_with_malicious) - [Hackers Target AI Users With Malicious Stable Diffusion Tool on Github to Protest 'Art Theft'](https://www.404media.co/hackers-target-ai-users-with-malicious-stable-diffusion-tool-on-github/)
 * [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 * [2024-06-11, 15:04:18](https://lobste.rs/s/bjjlu2/question_on_domain_names_indieweb) - [A Question on Domain Names in the IndieWeb](https://jacky.wtf/essays/2024/question-domain-names/)
 * [2024-06-11, 14:19:59](https://lobste.rs/s/e1egpg/open_letter_everyone_i_will_ever_work_with) - [An open letter to everyone that I will ever work with as a remote tech worker](https://bhupesh.me/open-letter-remote-tech-worker/)
