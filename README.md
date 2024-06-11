@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-11, 18:19:36](https://lobste.rs/s/ybfknp/null_bitmap_builds_database_2_enter) - [NULL BITMAP Builds a Database #2: Enter the Memtable](https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-2-enter-the-memtable/)
 * [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story) - [A Forth Story](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-11, 16:29:14](https://lobste.rs/s/41urxt/hackers_target_ai_users_with_malicious) - [Hackers Target AI Users With Malicious Stable Diffusion Tool on Github to Protest 'Art Theft'](https://www.404media.co/hackers-target-ai-users-with-malicious-stable-diffusion-tool-on-github/)
 * [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
@@ -8,7 +9,6 @@
 * [2024-06-11, 11:26:40](https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-11, 09:45:20](https://lobste.rs/s/urihyy/tiny_awards) - [Tiny Awards](https://tinyawards.net/)
 * [2024-06-11, 08:01:16](https://lobste.rs/s/5i3ggi/dynamics_corporate_governance_beyond) - [Dynamics of Corporate Governance Beyond Ownership in AI](https://www.common-wealth.org/publications/dynamics-of-corporate-governance-beyond-ownership-in-ai)
-* [2024-06-11, 05:46:52](https://lobste.rs/s/k2rfbc/understanding_http_server_by) - [Understanding HTTP Server by implementing in Python](https://muhammadraza.me/2024/building-http-server/)
 * [2024-06-11, 04:50:52](https://lobste.rs/s/0sdvvw/999_crates_rust_on_wall) - [999 crates of Rust on the wall](https://lawngno.me/blog/2024/06/10/divine-provenance.html)
 * [2024-06-11, 00:36:23](https://lobste.rs/s/g5txc3/invention_fuzz_testing) - [The invention of fuzz testing](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-06-11, 00:15:57](https://lobste.rs/s/ax4j9b/go_evolves_wrong_direction) - [Go evolves in the wrong direction](https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620)
