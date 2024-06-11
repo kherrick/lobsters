@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-11, 18:41:22",
+      "https://lobste.rs/s/ye6vt8/how_we_made_postgresql_as_fast_as_pinecone"
+    ],
+    [
+      "How We Made PostgreSQL as Fast as Pinecone for Vector Data",
+      "https://www.timescale.com/blog/how-we-made-postgresql-as-fast-as-pinecone-for-vector-data/"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 18:19:36",
       "https://lobste.rs/s/ybfknp/null_bitmap_builds_database_2_enter"
     ],
@@ -177,16 +187,6 @@
     [
       "Failing at Combinatorics with Haskell",
       "https://two-wrongs.com/failing-at-combinatorics-with-haskell.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 14:11:52",
-      "https://lobste.rs/s/o7w1t4/ascii_nyc_traffic_cameras"
-    ],
-    [
-      "ASCII NYC Traffic Cameras",
-      "https://www.val.town/v/maxm/asciiNycCameras"
     ]
   ],
   [
