@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-11, 07:20:04](https://lobste.rs/s/xcnfle/now_is_time_migrate_freebsd_bhyve) - [Now is the Time to Migrate to FreeBSD Bhyve Hypervisor](https://thenewstack.io/now-is-the-time-to-migrate-to-freebsds-bhyve-hypervisor/)
 * [2024-06-11, 05:46:52](https://lobste.rs/s/k2rfbc/understanding_http_server_by) - [Understanding HTTP Server by implementing in Python](https://muhammadraza.me/2024/building-http-server/)
 * [2024-06-11, 04:50:52](https://lobste.rs/s/0sdvvw/999_crates_rust_on_wall) - [999 crates of Rust on the wall](https://lawngno.me/blog/2024/06/10/divine-provenance.html)
 * [2024-06-11, 00:36:23](https://lobste.rs/s/g5txc3/invention_fuzz_testing) - [The invention of fuzz testing](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
@@ -7,7 +8,6 @@
 * [2024-06-10, 23:07:23](https://lobste.rs/s/oqyesn/beyond_wall_working_with_aperiodic) - [Beyond the wall: working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 * [2024-06-10, 21:31:45](https://lobste.rs/s/piyuio/how_i_spent_2_years_building_my_own_game) - [How I spent 2 years building my own game engine](https://legendofworlds.com/blog/4)
 * [2024-06-10, 20:43:48](https://lobste.rs/s/yzmlx1/effect_handlers_koka) - [Effect Handlers in Koka](https://www.youtube.com/watch?v=A8dpmhXdjyw)
-* [2024-06-10, 18:40:06](https://lobste.rs/s/hderm9/pagination_for_database_objects) - [Pagination for database objects](https://www.n16f.net/blog/pagination-for-database-objects/)
 * [2024-06-10, 17:47:56](https://lobste.rs/s/vkhuzq/nvidia_patch_this_patch_removes) - [nvidia-patch: This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs](https://github.com/keylase/nvidia-patch)
 * [2024-06-10, 17:28:38](https://lobste.rs/s/qg9h30/computers_can_t_do_math) - [Computers Can’t Do Math](https://www.plough.com/en/topics/life/technology/computers-cant-do-math)
 * [2024-06-10, 17:09:26](https://lobste.rs/s/hro5qm/pico9918_replacement_tms9918a_tms9929a) - [pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico](https://github.com/visrealm/pico9918)
