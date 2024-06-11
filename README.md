@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-11, 18:41:22](https://lobste.rs/s/ye6vt8/how_we_made_postgresql_as_fast_as_pinecone) - [How We Made PostgreSQL as Fast as Pinecone for Vector Data](https://www.timescale.com/blog/how-we-made-postgresql-as-fast-as-pinecone-for-vector-data/)
 * [2024-06-11, 18:19:36](https://lobste.rs/s/ybfknp/null_bitmap_builds_database_2_enter) - [NULL BITMAP Builds a Database #2: Enter the Memtable](https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-2-enter-the-memtable/)
 * [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story) - [A Forth Story](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-11, 16:29:14](https://lobste.rs/s/41urxt/hackers_target_ai_users_with_malicious) - [Hackers Target AI Users With Malicious Stable Diffusion Tool on Github to Protest 'Art Theft'](https://www.404media.co/hackers-target-ai-users-with-malicious-stable-diffusion-tool-on-github/)
@@ -18,7 +19,6 @@
 * [2024-06-10, 16:59:21](https://lobste.rs/s/tcdntx/perldelta_what_is_new_for_perl_v5_40_0) - [perldelta - what is new for perl v5.40.0](https://perldoc.perl.org/5.40.0/perldelta)
 * [2024-06-10, 15:09:44](https://lobste.rs/s/59nsig/netbsd_10_on_pinebook_pro_laptop) - [NetBSD 10 on a Pinebook Pro laptop](https://www.idatum.net/netbsd-10-on-a-pinebook-pro-laptop.html)
 * [2024-06-10, 14:32:39](https://lobste.rs/s/fxkhfk/failing_at_combinatorics_with_haskell) - [Failing at Combinatorics with Haskell](https://two-wrongs.com/failing-at-combinatorics-with-haskell.html)
-* [2024-06-10, 14:11:52](https://lobste.rs/s/o7w1t4/ascii_nyc_traffic_cameras) - [ASCII NYC Traffic Cameras](https://www.val.town/v/maxm/asciiNycCameras)
 * [2024-06-10, 13:45:54](https://lobste.rs/s/gvqiw6/wwdc_2024) - [WWDC 2024](https://www.apple.com/apple-events/)
 * [2024-06-10, 11:29:41](https://lobste.rs/s/grexba/http_3_curl_mid_2024) - [HTTP/3 in curl mid 2024](https://daniel.haxx.se/blog/2024/06/10/http-3-in-curl-mid-2024/)
 * [2024-06-10, 09:42:27](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week)
