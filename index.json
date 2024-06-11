@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-11, 13:50:49",
+      "https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github"
+    ],
+    [
+      "Why curl closes PRs on GitHub",
+      "https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 11:26:40",
       "https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus"
     ],
@@ -137,16 +147,6 @@
     [
       "perldelta - what is new for perl v5.40.0",
       "https://perldoc.perl.org/5.40.0/perldelta"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 15:40:58",
-      "https://lobste.rs/s/gmq8ea/understanding_dns_kubernetes"
-    ],
-    [
-      "Understanding DNS in Kubernetes",
-      "https://povilasv.me/understanding-dns-in-kubernetes/"
     ]
   ],
   [
