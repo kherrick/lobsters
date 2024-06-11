@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts_rye_language) - [First class Contexts - Rye Language](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-11, 18:41:22](https://lobste.rs/s/ye6vt8/how_we_made_postgresql_as_fast_as_pinecone) - [How We Made PostgreSQL as Fast as Pinecone for Vector Data](https://www.timescale.com/blog/how-we-made-postgresql-as-fast-as-pinecone-for-vector-data/)
 * [2024-06-11, 18:19:36](https://lobste.rs/s/ybfknp/null_bitmap_builds_database_2_enter) - [NULL BITMAP Builds a Database #2: Enter the Memtable](https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-2-enter-the-memtable/)
 * [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story) - [A Forth Story](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
@@ -9,7 +10,6 @@
 * [2024-06-11, 13:50:49](https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github) - [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
 * [2024-06-11, 11:26:40](https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
 * [2024-06-11, 09:45:20](https://lobste.rs/s/urihyy/tiny_awards) - [Tiny Awards](https://tinyawards.net/)
-* [2024-06-11, 08:01:16](https://lobste.rs/s/5i3ggi/dynamics_corporate_governance_beyond) - [Dynamics of Corporate Governance Beyond Ownership in AI](https://www.common-wealth.org/publications/dynamics-of-corporate-governance-beyond-ownership-in-ai)
 * [2024-06-11, 04:50:52](https://lobste.rs/s/0sdvvw/999_crates_rust_on_wall) - [999 crates of Rust on the wall](https://lawngno.me/blog/2024/06/10/divine-provenance.html)
 * [2024-06-11, 00:36:23](https://lobste.rs/s/g5txc3/invention_fuzz_testing) - [The invention of fuzz testing](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-06-11, 00:15:57](https://lobste.rs/s/ax4j9b/go_evolves_wrong_direction) - [Go evolves in the wrong direction](https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620)
