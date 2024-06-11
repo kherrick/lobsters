@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story) - [A Forth Story](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-11, 16:29:14](https://lobste.rs/s/41urxt/hackers_target_ai_users_with_malicious) - [Hackers Target AI Users With Malicious Stable Diffusion Tool on Github to Protest 'Art Theft'](https://www.404media.co/hackers-target-ai-users-with-malicious-stable-diffusion-tool-on-github/)
 * [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 * [2024-06-11, 15:04:18](https://lobste.rs/s/bjjlu2/question_on_domain_names_indieweb) - [A Question on Domain Names in the IndieWeb](https://jacky.wtf/essays/2024/question-domain-names/)
@@ -23,7 +24,6 @@
 * [2024-06-10, 09:42:27](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pvvjcv/what_are_you_doing_this_week)
 * [2024-06-10, 08:42:37](https://lobste.rs/s/cpljch/proxmox_vs_freebsd_which_virtualization) - [Proxmox vs FreeBSD: Which Virtualization Host Performs Better?](https://it-notes.dragas.net/2024/06/10/proxmox-vs-freebsd-which-virtualization-host-performs-better/)
 * [2024-06-10, 07:45:42](https://lobste.rs/s/kb6juc/piku_tiniest_paas_you_ve_ever_seen) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
-* [2024-06-10, 07:19:37](https://lobste.rs/s/hlrzmx/ultrasonic_investigations_shopping) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html?m=1)
 * [2024-06-10, 04:19:30](https://lobste.rs/s/b0f9pg/putting_go_s_context_package_into_context) - [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
 
 ## [Archives](archives/index.md)
