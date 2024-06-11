@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-11, 05:46:52](https://lobste.rs/s/k2rfbc/understanding_http_server_by) - [Understanding HTTP Server by implementing in Python](https://muhammadraza.me/2024/building-http-server/)
 * [2024-06-11, 04:50:52](https://lobste.rs/s/0sdvvw/999_crates_rust_on_wall) - [999 crates of Rust on the wall](https://lawngno.me/blog/2024/06/10/divine-provenance.html)
 * [2024-06-11, 00:36:23](https://lobste.rs/s/g5txc3/invention_fuzz_testing) - [The invention of fuzz testing](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-06-11, 00:15:57](https://lobste.rs/s/ax4j9b/go_evolves_wrong_direction) - [Go evolves in the wrong direction](https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620)
@@ -23,7 +24,6 @@
 * [2024-06-10, 07:45:42](https://lobste.rs/s/kb6juc/piku_tiniest_paas_you_ve_ever_seen) - [piku: The tiniest PaaS you've ever seen](https://github.com/piku/piku)
 * [2024-06-10, 07:19:37](https://lobste.rs/s/hlrzmx/ultrasonic_investigations_shopping) - [Ultrasonic investigations in shopping centres](https://www.windytan.com/2024/06/ultrasonic-investigations-in-shopping.html?m=1)
 * [2024-06-10, 04:19:30](https://lobste.rs/s/b0f9pg/putting_go_s_context_package_into_context) - [Putting Go's Context package into context](https://blog.meain.io/2024/golang-context/)
-* [2024-06-09, 23:17:38](https://lobste.rs/s/fpim86/cardstock_python_wysiwyg_gui_builder) - [CardStock: A Python WYSIWYG GUI Builder](https://github.com/benjie-git/CardStock)
 * [2024-06-09, 14:32:06](https://lobste.rs/s/ndu2xo/so_you_want_build_browser_engine) - [So You Want To Build A Browser Engine](https://robert.ocallahan.org/2024/06/browser-engine.html)
 
 ## [Archives](archives/index.md)
