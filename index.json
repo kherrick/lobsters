@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-11, 15:10:21",
+      "https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content"
+    ],
+    [
+      "Firefox will upgrade more Mixed Content in Version 127",
+      "https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/"
+    ]
+  ],
+  [
+    [
       "2024-06-11, 15:04:18",
       "https://lobste.rs/s/bjjlu2/question_on_domain_names_indieweb"
     ],
@@ -87,16 +97,6 @@
     [
       "Go evolves in the wrong direction",
       "https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 23:07:23",
-      "https://lobste.rs/s/oqyesn/beyond_wall_working_with_aperiodic"
-    ],
-    [
-      "Beyond the wall: working with aperiodic tilings using finite-state transducers",
-      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/"
     ]
   ],
   [
