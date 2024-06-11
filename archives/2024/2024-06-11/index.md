@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 * [2024-06-11, 15:04:18](https://lobste.rs/s/bjjlu2/question_on_domain_names_indieweb) - [A Question on Domain Names in the IndieWeb](https://jacky.wtf/essays/2024/question-domain-names/)
 * [2024-06-11, 14:19:59](https://lobste.rs/s/e1egpg/open_letter_everyone_i_will_ever_work_with) - [An open letter to everyone that I will ever work with as a remote tech worker](https://bhupesh.me/open-letter-remote-tech-worker/)
 * [2024-06-11, 13:50:49](https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github) - [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)

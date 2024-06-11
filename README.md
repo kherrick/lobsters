@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 * [2024-06-11, 15:04:18](https://lobste.rs/s/bjjlu2/question_on_domain_names_indieweb) - [A Question on Domain Names in the IndieWeb](https://jacky.wtf/essays/2024/question-domain-names/)
 * [2024-06-11, 13:50:49](https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github) - [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
 * [2024-06-11, 11:26:40](https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus) - [Forsp: A Forth+Lisp Hybrid Lambda Calculus Language](https://xorvoid.com/forsp.html)
@@ -9,7 +10,6 @@
 * [2024-06-11, 04:50:52](https://lobste.rs/s/0sdvvw/999_crates_rust_on_wall) - [999 crates of Rust on the wall](https://lawngno.me/blog/2024/06/10/divine-provenance.html)
 * [2024-06-11, 00:36:23](https://lobste.rs/s/g5txc3/invention_fuzz_testing) - [The invention of fuzz testing](https://pages.cs.wisc.edu/~bart/fuzz/Foreword1.html)
 * [2024-06-11, 00:15:57](https://lobste.rs/s/ax4j9b/go_evolves_wrong_direction) - [Go evolves in the wrong direction](https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620)
-* [2024-06-10, 23:07:23](https://lobste.rs/s/oqyesn/beyond_wall_working_with_aperiodic) - [Beyond the wall: working with aperiodic tilings using finite-state transducers](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-transducers/)
 * [2024-06-10, 21:31:45](https://lobste.rs/s/piyuio/how_i_spent_2_years_building_my_own_game) - [How I spent 2 years building my own game engine](https://legendofworlds.com/blog/4)
 * [2024-06-10, 20:43:48](https://lobste.rs/s/yzmlx1/effect_handlers_koka) - [Effect Handlers in Koka](https://www.youtube.com/watch?v=A8dpmhXdjyw)
 * [2024-06-10, 17:47:56](https://lobste.rs/s/vkhuzq/nvidia_patch_this_patch_removes) - [nvidia-patch: This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs](https://github.com/keylase/nvidia-patch)
