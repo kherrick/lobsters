@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-11, 14:19:59",
-      "https://lobste.rs/s/e1egpg/open_letter_everyone_i_will_ever_work_with"
-    ],
-    [
-      "An open letter to everyone that I will ever work with as a remote tech worker",
-      "https://bhupesh.me/open-letter-remote-tech-worker/"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 13:50:49",
       "https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github"
     ],
@@ -137,6 +127,16 @@
     [
       "Computers Can’t Do Math",
       "https://www.plough.com/en/topics/life/technology/computers-cant-do-math"
+    ]
+  ],
+  [
+    [
+      "2024-06-10, 17:09:26",
+      "https://lobste.rs/s/hro5qm/pico9918_replacement_tms9918a_tms9929a"
+    ],
+    [
+      "pico9918: A replacement TMS9918A/TMS9929A VDP using a Raspberry Pi Pico",
+      "https://github.com/visrealm/pico9918"
     ]
   ],
   [
