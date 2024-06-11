@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 09:45:20](https://lobste.rs/s/urihyy/tiny_awards) - [Tiny Awards](https://tinyawards.net/)
 * [2024-06-11, 08:01:16](https://lobste.rs/s/5i3ggi/dynamics_corporate_governance_beyond) - [Dynamics of Corporate Governance Beyond Ownership in AI](https://www.common-wealth.org/publications/dynamics-of-corporate-governance-beyond-ownership-in-ai)
 * [2024-06-11, 07:20:04](https://lobste.rs/s/xcnfle/now_is_time_migrate_freebsd_bhyve) - [Now is the Time to Migrate to FreeBSD Bhyve Hypervisor](https://thenewstack.io/now-is-the-time-to-migrate-to-freebsds-bhyve-hypervisor/)
 * [2024-06-11, 05:46:52](https://lobste.rs/s/k2rfbc/understanding_http_server_by) - [Understanding HTTP Server by implementing in Python](https://muhammadraza.me/2024/building-http-server/)
