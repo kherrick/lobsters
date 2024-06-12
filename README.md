@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-12, 14:03:07](https://lobste.rs/s/qcxwkc/training_minimap_detector_for_league) - [Training a minimap detector for League of Legends without overthinking it](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)
 * [2024-06-12, 13:23:44](https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 * [2024-06-12, 13:11:48](https://lobste.rs/s/nuzoxz/how_save_old_printer_from_e_waste_pile_with) - [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)
 * [2024-06-12, 12:58:56](https://lobste.rs/s/a5jtwq/long_term_maintenance_pcre2) - [Long-term maintenance of PCRE2](https://github.com/PCRE2Project/pcre2/issues/426)
@@ -16,7 +17,6 @@
 * [2024-06-12, 00:36:53](https://lobste.rs/s/9kmufw/torchtune_native_pytorch_library_for_llm) - [torchtune: A Native-PyTorch Library for LLM Fine-tuning](https://github.com/pytorch/torchtune)
 * [2024-06-11, 23:24:08](https://lobste.rs/s/lhwbvu/your_node_is_leaking_memory_settimeout) - [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
 * [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts) - [First class Contexts](https://ryelang.org/meet_rye/specifics/context/)
-* [2024-06-11, 18:41:22](https://lobste.rs/s/ye6vt8/how_we_made_postgresql_as_fast_as_pinecone) - [How We Made PostgreSQL as Fast as Pinecone for Vector Data](https://www.timescale.com/blog/how-we-made-postgresql-as-fast-as-pinecone-for-vector-data/)
 * [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story_1995) - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 * [2024-06-11, 15:04:18](https://lobste.rs/s/bjjlu2/question_on_domain_names_indieweb) - [A Question on Domain Names in the IndieWeb](https://jacky.wtf/essays/2024/question-domain-names/)
