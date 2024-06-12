@@ -4,9 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-11](index.md)
 
+* [2024-06-11, 23:24:08](https://lobste.rs/s/lhwbvu/your_node_is_leaking_memory_settimeout) - [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
 * [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts_rye_language) - [First class Contexts - Rye Language](https://ryelang.org/meet_rye/specifics/context/)
+* [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts) - [First class Contexts](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-11, 18:41:22](https://lobste.rs/s/ye6vt8/how_we_made_postgresql_as_fast_as_pinecone) - [How We Made PostgreSQL as Fast as Pinecone for Vector Data](https://www.timescale.com/blog/how-we-made-postgresql-as-fast-as-pinecone-for-vector-data/)
 * [2024-06-11, 18:19:36](https://lobste.rs/s/ybfknp/null_bitmap_builds_database_2_enter) - [NULL BITMAP Builds a Database #2: Enter the Memtable](https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-2-enter-the-memtable/)
+* [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story_1995) - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story) - [A Forth Story](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-11, 16:29:14](https://lobste.rs/s/41urxt/hackers_target_ai_users_with_malicious) - [Hackers Target AI Users With Malicious Stable Diffusion Tool on Github to Protest 'Art Theft'](https://www.404media.co/hackers-target-ai-users-with-malicious-stable-diffusion-tool-on-github/)
 * [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
