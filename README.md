@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-12, 12:58:56](https://lobste.rs/s/a5jtwq/long_term_maintenance_pcre2) - [Long-term maintenance of PCRE2](https://github.com/PCRE2Project/pcre2/issues/426)
 * [2024-06-12, 12:34:00](https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types) - [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 12:28:11](https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-12, 12:18:14](https://lobste.rs/s/iwiimf/jupyter_has_stand_alone_desktop_version) - [Jupyter has a stand alone desktop version](https://github.com/jupyterlab/jupyterlab-desktop)
@@ -11,7 +12,6 @@
 * [2024-06-12, 07:10:53](https://lobste.rs/s/m1ekyb/how_we_improved_push_processing_on_github) - [How we improved push processing on GitHub](https://github.blog/2024-06-11-how-we-improved-push-processing-on-github/)
 * [2024-06-12, 05:16:27](https://lobste.rs/s/xmzigj/swift_tour_explore_swift_s_features) - [A Swift Tour: Explore Swift’s features and design](https://www.youtube.com/watch?v=boiLzazJ9j4)
 * [2024-06-12, 04:50:26](https://lobste.rs/s/c2ywdg/geometry_categorical_hierarchical) - [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
-* [2024-06-12, 01:56:47](https://lobste.rs/s/zrkrg3/decompress_anything_with_x_uz) - [Decompress Anything with \"x uz\"](https://x-cmd.com/mod/zuz)
 * [2024-06-12, 00:36:53](https://lobste.rs/s/9kmufw/torchtune_native_pytorch_library_for_llm) - [torchtune: A Native-PyTorch Library for LLM Fine-tuning](https://github.com/pytorch/torchtune)
 * [2024-06-11, 23:24:08](https://lobste.rs/s/lhwbvu/your_node_is_leaking_memory_settimeout) - [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
 * [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts) - [First class Contexts](https://ryelang.org/meet_rye/specifics/context/)
