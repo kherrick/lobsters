@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-12, 14:52:28](https://lobste.rs/s/cowtwb/how_much_math_can_you_do_10_lines_python) - [How much math can you do in 10 lines of Python](https://wordsandbuttons.online/how_much_math_can_you_do_in_10_lines_of_python.html)
 * [2024-06-12, 14:03:07](https://lobste.rs/s/qcxwkc/training_minimap_detector_for_league) - [Training a minimap detector for League of Legends without overthinking it](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)
 * [2024-06-12, 13:23:44](https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 * [2024-06-12, 13:11:48](https://lobste.rs/s/nuzoxz/how_save_old_printer_from_e_waste_pile_with) - [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)
@@ -14,7 +15,6 @@
 * [2024-06-12, 07:40:02](https://lobste.rs/s/7ofcia/getting_started_with_swift_static_linux) - [Getting Started with the Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
 * [2024-06-12, 07:10:53](https://lobste.rs/s/m1ekyb/how_we_improved_push_processing_on_github) - [How we improved push processing on GitHub](https://github.blog/2024-06-11-how-we-improved-push-processing-on-github/)
 * [2024-06-12, 04:50:26](https://lobste.rs/s/c2ywdg/geometry_categorical_hierarchical) - [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
-* [2024-06-12, 00:36:53](https://lobste.rs/s/9kmufw/torchtune_native_pytorch_library_for_llm) - [torchtune: A Native-PyTorch Library for LLM Fine-tuning](https://github.com/pytorch/torchtune)
 * [2024-06-11, 23:24:08](https://lobste.rs/s/lhwbvu/your_node_is_leaking_memory_settimeout) - [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
 * [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts) - [First class Contexts](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story_1995) - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
