@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-12, 13:23:44",
+      "https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into"
+    ],
+    [
+      "iTerm2 v3.5.1 moves AI features into external plugin",
+      "https://iterm2.com/ai-plugin.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 13:11:48",
+      "https://lobste.rs/s/nuzoxz/how_save_old_printer_from_e_waste_pile_with"
+    ],
+    [
+      "How to save an old printer from the e-waste pile with a Raspberry Pi",
+      "https://ounapuu.ee/posts/2024/06/12/save-old-printer/"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 12:58:56",
       "https://lobste.rs/s/a5jtwq/long_term_maintenance_pcre2"
     ],
@@ -101,22 +121,22 @@
   ],
   [
     [
-      "2024-06-12, 05:16:27",
-      "https://lobste.rs/s/xmzigj/swift_tour_explore_swift_s_features"
-    ],
-    [
-      "A Swift Tour: Explore Swift’s features and design",
-      "https://www.youtube.com/watch?v=boiLzazJ9j4"
-    ]
-  ],
-  [
-    [
       "2024-06-12, 04:50:26",
       "https://lobste.rs/s/c2ywdg/geometry_categorical_hierarchical"
     ],
     [
       "The Geometry of Categorical and Hierarchical Concepts in Large Language Models",
       "https://arxiv.org/abs/2406.01506"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 01:56:47",
+      "https://lobste.rs/s/zrkrg3/decompress_anything_with_x_uz"
+    ],
+    [
+      "Decompress Anything with \"x uz\"",
+      "https://x-cmd.com/mod/zuz"
     ]
   ],
   [
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-06-11, 18:41:22",
-      "https://lobste.rs/s/ye6vt8/how_we_made_postgresql_as_fast_as_pinecone"
-    ],
-    [
-      "How We Made PostgreSQL as Fast as Pinecone for Vector Data",
-      "https://www.timescale.com/blog/how-we-made-postgresql-as-fast-as-pinecone-for-vector-data/"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 17:59:24",
       "https://lobste.rs/s/ximoaw/forth_story_1995"
     ],
     [
       "A Forth Story (1995)",
       "https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 16:29:14",
-      "https://lobste.rs/s/41urxt/hackers_target_ai_users_with_malicious"
-    ],
-    [
-      "Hackers Target AI Users With Malicious Stable Diffusion Tool on Github to Protest 'Art Theft'",
-      "https://www.404media.co/hackers-target-ai-users-with-malicious-stable-diffusion-tool-on-github/"
     ]
   ],
   [
