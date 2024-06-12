@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 12:34:00](https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types) - [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
+* [2024-06-12, 12:28:11](https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-12, 12:18:14](https://lobste.rs/s/iwiimf/jupyter_has_stand_alone_desktop_version) - [Jupyter has a stand alone desktop version](https://github.com/jupyterlab/jupyterlab-desktop)
 * [2024-06-12, 11:31:46](https://lobste.rs/s/sjbubz/scaling_neural_machine_translation_200) - [Scaling neural machine translation to 200 languages](https://www.nature.com/articles/s41586-024-07335-x)
 * [2024-06-12, 09:55:41](https://lobste.rs/s/3x0e8t/cpython_garbage_collection_internal) - [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)

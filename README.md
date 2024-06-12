@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-12, 12:34:00](https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types) - [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
+* [2024-06-12, 12:28:11](https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-12, 12:18:14](https://lobste.rs/s/iwiimf/jupyter_has_stand_alone_desktop_version) - [Jupyter has a stand alone desktop version](https://github.com/jupyterlab/jupyterlab-desktop)
 * [2024-06-12, 11:31:46](https://lobste.rs/s/sjbubz/scaling_neural_machine_translation_200) - [Scaling neural machine translation to 200 languages](https://www.nature.com/articles/s41586-024-07335-x)
 * [2024-06-12, 09:55:41](https://lobste.rs/s/3x0e8t/cpython_garbage_collection_internal) - [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
@@ -14,7 +16,6 @@
 * [2024-06-11, 23:24:08](https://lobste.rs/s/lhwbvu/your_node_is_leaking_memory_settimeout) - [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
 * [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts) - [First class Contexts](https://ryelang.org/meet_rye/specifics/context/)
 * [2024-06-11, 18:41:22](https://lobste.rs/s/ye6vt8/how_we_made_postgresql_as_fast_as_pinecone) - [How We Made PostgreSQL as Fast as Pinecone for Vector Data](https://www.timescale.com/blog/how-we-made-postgresql-as-fast-as-pinecone-for-vector-data/)
-* [2024-06-11, 18:19:36](https://lobste.rs/s/ybfknp/null_bitmap_builds_database_2_enter) - [NULL BITMAP Builds a Database #2: Enter the Memtable](https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-2-enter-the-memtable/)
 * [2024-06-11, 17:59:24](https://lobste.rs/s/ximoaw/forth_story_1995) - [A Forth Story (1995)](https://groups.google.com/g/comp.lang.forth/c/ThWiGXwKqv4)
 * [2024-06-11, 16:29:14](https://lobste.rs/s/41urxt/hackers_target_ai_users_with_malicious) - [Hackers Target AI Users With Malicious Stable Diffusion Tool on Github to Protest 'Art Theft'](https://www.404media.co/hackers-target-ai-users-with-malicious-stable-diffusion-tool-on-github/)
 * [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
@@ -24,7 +25,6 @@
 * [2024-06-11, 09:45:20](https://lobste.rs/s/urihyy/tiny_awards) - [Tiny Awards](https://tinyawards.net/)
 * [2024-06-11, 04:50:52](https://lobste.rs/s/0sdvvw/999_crates_rust_on_wall) - [999 crates of Rust on the wall](https://lawngno.me/blog/2024/06/10/divine-provenance.html)
 * [2024-06-11, 00:15:57](https://lobste.rs/s/ax4j9b/go_evolves_wrong_direction) - [Go evolves in the wrong direction](https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620)
-* [2024-06-10, 13:45:54](https://lobste.rs/s/gvqiw6/wwdc_2024) - [WWDC 2024](https://www.apple.com/apple-events/)
 
 ## [Archives](archives/index.md)
 
