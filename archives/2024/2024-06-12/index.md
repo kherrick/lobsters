@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 13:23:44](https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
+* [2024-06-12, 13:11:48](https://lobste.rs/s/nuzoxz/how_save_old_printer_from_e_waste_pile_with) - [How to save an old printer from the e-waste pile with a Raspberry Pi](https://ounapuu.ee/posts/2024/06/12/save-old-printer/)
 * [2024-06-12, 12:58:56](https://lobste.rs/s/a5jtwq/long_term_maintenance_pcre2) - [Long-term maintenance of PCRE2](https://github.com/PCRE2Project/pcre2/issues/426)
 * [2024-06-12, 12:34:00](https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types) - [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 12:28:11](https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
