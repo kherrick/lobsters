@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 17:17:14](https://lobste.rs/s/fe2ej9/fuzz_map) - [Fuzz Map](https://www.fuzzmap.io/)
+* [2024-06-12, 17:08:27](https://lobste.rs/s/nlshq4/nsnotifyd_2_1_released) - [nsnotifyd-2.1 released](https://dotat.at/@/2024-06-12-nsnotifyd-2-1-released.html)
 * [2024-06-12, 16:54:02](https://lobste.rs/s/cfl6wn/unnecessary_upload_evasion_with_lftp) - [Unnecessary upload evasion with lftp mirrors](https://peateasea.de/unnecessary-upload-evasion-with-lftp-mirrors/)
 * [2024-06-12, 16:49:57](https://lobste.rs/s/otlsz1/serious_engine_networking_dive_analysis) - [Serious Engine Networking - Dive-in Analysis](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 15:01:57](https://lobste.rs/s/vot81k/python_wheel_filenames_have_no_canonical) - [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
