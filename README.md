@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-12, 09:55:41](https://lobste.rs/s/3x0e8t/cpython_garbage_collection_internal) - [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 * [2024-06-12, 09:06:15](https://lobste.rs/s/8dqbty/my_experience_crafting_interpreter_with) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2024-06-12, 08:42:09](https://lobste.rs/s/uac4ml/announcing_systemd_v256) - [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)
 * [2024-06-12, 07:40:02](https://lobste.rs/s/7ofcia/getting_started_with_swift_static_linux) - [Getting Started with the Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
@@ -23,7 +24,6 @@
 * [2024-06-11, 04:50:52](https://lobste.rs/s/0sdvvw/999_crates_rust_on_wall) - [999 crates of Rust on the wall](https://lawngno.me/blog/2024/06/10/divine-provenance.html)
 * [2024-06-11, 00:15:57](https://lobste.rs/s/ax4j9b/go_evolves_wrong_direction) - [Go evolves in the wrong direction](https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620)
 * [2024-06-10, 17:47:56](https://lobste.rs/s/vkhuzq/nvidia_patch_this_patch_removes) - [nvidia-patch: This patch removes restriction on maximum number of simultaneous NVENC video encoding sessions imposed by Nvidia to consumer-grade GPUs](https://github.com/keylase/nvidia-patch)
-* [2024-06-10, 16:59:21](https://lobste.rs/s/tcdntx/perldelta_what_is_new_for_perl_v5_40_0) - [perldelta - what is new for perl v5.40.0](https://perldoc.perl.org/5.40.0/perldelta)
 * [2024-06-10, 13:45:54](https://lobste.rs/s/gvqiw6/wwdc_2024) - [WWDC 2024](https://www.apple.com/apple-events/)
 
 ## [Archives](archives/index.md)
