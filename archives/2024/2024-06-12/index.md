@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 21:50:14](https://lobste.rs/s/vs5z84/gilbert_johnson_keerthi_algorithm) - [the Gilbert–Johnson–Keerthi algorithm explained as simply as possibly](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 21:25:37](https://lobste.rs/s/g2l9vc/duperemove) - [Duperemove](https://markfasheh.github.io/duperemove/)
 * [2024-06-12, 21:04:31](https://lobste.rs/s/axhqgq/can_llms_perform_verified_lifting_code) - [Can LLMs Perform Verified Lifting of Code?](https://digitalassets.lib.berkeley.edu/techreports/ucb/incoming/EECS-2024-11.pdf)
 * [2024-06-12, 20:29:54](https://lobste.rs/s/dzq0zl/pg_lakehouse_duckdb_alternative) - [pg_lakehouse: A DuckDB Alternative in Postgres](https://blog.paradedb.com/pages/introducing_lakehouse)
