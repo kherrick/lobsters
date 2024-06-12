@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-12, 20:29:54",
+      "https://lobste.rs/s/dzq0zl/pg_lakehouse_duckdb_alternative"
+    ],
+    [
+      "pg_lakehouse: A DuckDB Alternative in Postgres",
+      "https://blog.paradedb.com/pages/introducing_lakehouse"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 20:10:55",
       "https://lobste.rs/s/tvwxrz/wc2_investigates_optimizing_wc_unix_word"
     ],
@@ -237,16 +247,6 @@
     [
       "Why curl closes PRs on GitHub",
       "https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 11:26:40",
-      "https://lobste.rs/s/l8o4j8/forsp_forth_lisp_hybrid_lambda_calculus"
-    ],
-    [
-      "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
-      "https://xorvoid.com/forsp.html"
     ]
   ]
 ]
