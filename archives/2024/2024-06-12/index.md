@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 19:08:35](https://lobste.rs/s/w4cqvm/ruby_3_3_3_released) - [Ruby 3.3.3 Released](https://www.ruby-lang.org/en/news/2024/06/12/ruby-3-3-3-released/)
 * [2024-06-12, 17:17:14](https://lobste.rs/s/fe2ej9/fuzz_map) - [Fuzz Map](https://www.fuzzmap.io/)
 * [2024-06-12, 17:08:27](https://lobste.rs/s/nlshq4/nsnotifyd_2_1_released) - [nsnotifyd-2.1 released](https://dotat.at/@/2024-06-12-nsnotifyd-2-1-released.html)
 * [2024-06-12, 16:54:02](https://lobste.rs/s/cfl6wn/unnecessary_upload_evasion_with_lftp) - [Unnecessary upload evasion with lftp mirrors](https://peateasea.de/unnecessary-upload-evasion-with-lftp-mirrors/)
