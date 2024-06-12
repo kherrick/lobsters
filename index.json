@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-12, 19:38:28",
+      "https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please"
+    ],
+    [
+      "Don’t Refactor Like Uncle Bob. Please",
+      "https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 19:08:35",
       "https://lobste.rs/s/w4cqvm/ruby_3_3_3_released"
     ],
@@ -237,16 +247,6 @@
     [
       "Forsp: A Forth+Lisp Hybrid Lambda Calculus Language",
       "https://xorvoid.com/forsp.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 00:15:57",
-      "https://lobste.rs/s/ax4j9b/go_evolves_wrong_direction"
-    ],
-    [
-      "Go evolves in the wrong direction",
-      "https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620"
     ]
   ]
 ]
