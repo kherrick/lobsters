@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-12, 08:42:09",
+      "https://lobste.rs/s/uac4ml/announcing_systemd_v256"
+    ],
+    [
+      "Announcing systemd v256",
+      "https://0pointer.net/blog/announcing-systemd-v256.html"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 07:40:02",
       "https://lobste.rs/s/7ofcia/getting_started_with_swift_static_linux"
     ],
@@ -237,16 +247,6 @@
     [
       "WWDC 2024",
       "https://www.apple.com/apple-events/"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 11:29:41",
-      "https://lobste.rs/s/grexba/http_3_curl_mid_2024"
-    ],
-    [
-      "HTTP/3 in curl mid 2024",
-      "https://daniel.haxx.se/blog/2024/06/10/http-3-in-curl-mid-2024/"
     ]
   ]
 ]
