@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 11:31:46](https://lobste.rs/s/sjbubz/scaling_neural_machine_translation_200) - [Scaling neural machine translation to 200 languages](https://www.nature.com/articles/s41586-024-07335-x)
 * [2024-06-12, 09:55:41](https://lobste.rs/s/3x0e8t/cpython_garbage_collection_internal) - [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 * [2024-06-12, 09:06:15](https://lobste.rs/s/8dqbty/my_experience_crafting_interpreter_with) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2024-06-12, 08:42:09](https://lobste.rs/s/uac4ml/announcing_systemd_v256) - [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)

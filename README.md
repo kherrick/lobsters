@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-12, 11:31:46](https://lobste.rs/s/sjbubz/scaling_neural_machine_translation_200) - [Scaling neural machine translation to 200 languages](https://www.nature.com/articles/s41586-024-07335-x)
 * [2024-06-12, 09:55:41](https://lobste.rs/s/3x0e8t/cpython_garbage_collection_internal) - [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 * [2024-06-12, 09:06:15](https://lobste.rs/s/8dqbty/my_experience_crafting_interpreter_with) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2024-06-12, 08:42:09](https://lobste.rs/s/uac4ml/announcing_systemd_v256) - [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)
@@ -8,7 +9,6 @@
 * [2024-06-12, 05:16:27](https://lobste.rs/s/xmzigj/swift_tour_explore_swift_s_features) - [A Swift Tour: Explore Swift’s features and design](https://www.youtube.com/watch?v=boiLzazJ9j4)
 * [2024-06-12, 04:50:26](https://lobste.rs/s/c2ywdg/geometry_categorical_hierarchical) - [The Geometry of Categorical and Hierarchical Concepts in Large Language Models](https://arxiv.org/abs/2406.01506)
 * [2024-06-12, 01:56:47](https://lobste.rs/s/zrkrg3/decompress_anything_with_x_uz) - [Decompress Anything with \"x uz\"](https://x-cmd.com/mod/zuz)
-* [2024-06-12, 01:11:24](https://lobste.rs/s/eksdqm/balancing_old_tricks_with_new_feats_ai) - [Balancing Old Tricks with New Feats: AI-Powered Conversion From Enzyme to React Testing Library at Slack](https://slack.engineering/balancing-old-tricks-with-new-feats-ai-powered-conversion-from-enzyme-to-react-testing-library-at-slack/)
 * [2024-06-12, 00:36:53](https://lobste.rs/s/9kmufw/torchtune_native_pytorch_library_for_llm) - [torchtune: A Native-PyTorch Library for LLM Fine-tuning](https://github.com/pytorch/torchtune)
 * [2024-06-11, 23:24:08](https://lobste.rs/s/lhwbvu/your_node_is_leaking_memory_settimeout) - [Your Node is Leaking Memory? setTimeout Could be the Reason](https://lucumr.pocoo.org/2024/6/5/node-timeout/)
 * [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts) - [First class Contexts](https://ryelang.org/meet_rye/specifics/context/)
