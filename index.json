@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-12, 20:10:55",
+      "https://lobste.rs/s/tvwxrz/wc2_investigates_optimizing_wc_unix_word"
+    ],
+    [
+      "wc2: Investigates optimizing 'wc', the Unix word count program",
+      "https://github.com/robertdavidgraham/wc2"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 19:38:28",
       "https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please"
     ],
@@ -187,16 +197,6 @@
     [
       "Getting Started with the Swift Static Linux SDK",
       "https://www.swift.org/documentation/articles/static-linux-getting-started.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 07:10:53",
-      "https://lobste.rs/s/m1ekyb/how_we_improved_push_processing_on_github"
-    ],
-    [
-      "How we improved push processing on GitHub",
-      "https://github.blog/2024-06-11-how-we-improved-push-processing-on-github/"
     ]
   ],
   [
