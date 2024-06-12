@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-12, 12:34:00",
+      "https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types"
+    ],
+    [
+      "Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support",
+      "https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 12:28:11",
+      "https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative"
+    ],
+    [
+      "Cognate: Readable and concise concatenative programming",
+      "https://cognate-lang.github.io/learn.html"
+    ]
+  ],
+  [
+    [
       "2024-06-12, 12:18:14",
       "https://lobste.rs/s/iwiimf/jupyter_has_stand_alone_desktop_version"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-06-11, 18:19:36",
-      "https://lobste.rs/s/ybfknp/null_bitmap_builds_database_2_enter"
-    ],
-    [
-      "NULL BITMAP Builds a Database #2: Enter the Memtable",
-      "https://buttondown.email/jaffray/archive/null-bitmap-builds-a-database-2-enter-the-memtable/"
-    ]
-  ],
-  [
-    [
       "2024-06-11, 17:59:24",
       "https://lobste.rs/s/ximoaw/forth_story_1995"
     ],
@@ -237,16 +247,6 @@
     [
       "Go evolves in the wrong direction",
       "https://valyala.medium.com/go-evolves-in-the-wrong-direction-7dfda8a1a620"
-    ]
-  ],
-  [
-    [
-      "2024-06-10, 13:45:54",
-      "https://lobste.rs/s/gvqiw6/wwdc_2024"
-    ],
-    [
-      "WWDC 2024",
-      "https://www.apple.com/apple-events/"
     ]
   ]
 ]
