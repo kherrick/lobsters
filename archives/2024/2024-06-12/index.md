@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 16:49:57](https://lobste.rs/s/otlsz1/serious_engine_networking_dive_analysis) - [Serious Engine Networking - Dive-in Analysis](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 15:01:57](https://lobste.rs/s/vot81k/python_wheel_filenames_have_no_canonical) - [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
 * [2024-06-12, 14:52:28](https://lobste.rs/s/cowtwb/how_much_math_can_you_do_10_lines_python) - [How much math can you do in 10 lines of Python](https://wordsandbuttons.online/how_much_math_can_you_do_in_10_lines_of_python.html)
 * [2024-06-12, 14:03:07](https://lobste.rs/s/qcxwkc/training_minimap_detector_for_league) - [Training a minimap detector for League of Legends without overthinking it](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-12, 16:49:57](https://lobste.rs/s/otlsz1/serious_engine_networking_dive_analysis) - [Serious Engine Networking - Dive-in Analysis](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 15:01:57](https://lobste.rs/s/vot81k/python_wheel_filenames_have_no_canonical) - [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
 * [2024-06-12, 14:52:28](https://lobste.rs/s/cowtwb/how_much_math_can_you_do_10_lines_python) - [How much math can you do in 10 lines of Python](https://wordsandbuttons.online/how_much_math_can_you_do_in_10_lines_of_python.html)
 * [2024-06-12, 14:03:07](https://lobste.rs/s/qcxwkc/training_minimap_detector_for_league) - [Training a minimap detector for League of Legends without overthinking it](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)
@@ -9,7 +10,6 @@
 * [2024-06-12, 12:34:00](https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types) - [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 12:28:11](https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-12, 12:18:14](https://lobste.rs/s/iwiimf/jupyter_has_stand_alone_desktop_version) - [Jupyter has a stand alone desktop version](https://github.com/jupyterlab/jupyterlab-desktop)
-* [2024-06-12, 11:31:46](https://lobste.rs/s/sjbubz/scaling_neural_machine_translation_200) - [Scaling neural machine translation to 200 languages](https://www.nature.com/articles/s41586-024-07335-x)
 * [2024-06-12, 09:55:41](https://lobste.rs/s/3x0e8t/cpython_garbage_collection_internal) - [CPython Garbage Collection: The Internal Mechanics and Algorithms](https://blog.codingconfessions.com/p/cpython-garbage-collection-internals)
 * [2024-06-12, 09:06:15](https://lobste.rs/s/8dqbty/my_experience_crafting_interpreter_with) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2024-06-12, 08:42:09](https://lobste.rs/s/uac4ml/announcing_systemd_v256) - [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)
