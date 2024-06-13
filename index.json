@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-13, 20:25:30",
+      "https://lobste.rs/s/suqrrp/whose_cidr_is_it_anyway"
+    ],
+    [
+      "Whose CIDR is it anyway?",
+      "https://www.netmeister.org/blog/cidr-allocations.html"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 19:39:40",
       "https://lobste.rs/s/jtrlcy/libnix_fixpath"
     ],
@@ -27,6 +37,16 @@
     [
       "Why Swift's type checker is slow",
       "https://danielchasehooper.com/posts/why-swift-is-slow/"
+    ]
+  ],
+  [
+    [
+      "2024-06-13, 18:09:18",
+      "https://lobste.rs/s/xw6lb9/programming_is_should_be_fun"
+    ],
+    [
+      "Programming is (should be) fun",
+      "https://www.youtube.com/watch?v=2MYzvQ1v8Ww"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "How to fix 'command not found: $'",
       "https://mac.install.guide/terminal/command-not-found-$"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 06:35:43",
-      "https://lobste.rs/s/gegjhg/celebrating_freebsd_day_journey_through"
-    ],
-    [
-      "Celebrating FreeBSD Day: A Journey Through 31 Years of Open Source Excellence",
-      "https://hamradio.my/2024/06/celebrating-freebsd-day-a-journey-through-31-years-of-open-source-excellence/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support",
       "https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 12:28:11",
-      "https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative"
-    ],
-    [
-      "Cognate: Readable and concise concatenative programming",
-      "https://cognate-lang.github.io/learn.html"
     ]
   ],
   [
