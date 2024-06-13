@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 15:31:33](https://lobste.rs/s/xnsp3d/nix_as_webassembly_build_tool) - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/)
+* [2024-06-13, 15:25:11](https://lobste.rs/s/q18f4k/development_environments_with_devenv_sh) - [Development Environments with devenv.sh](https://www.youtube.com/watch?v=unW1zk8terk&t=7s)
 * [2024-06-13, 15:19:27](https://lobste.rs/s/dj0ajk/announcing_rust_1_79_0) - [Announcing Rust 1.79.0](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
 * [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
 * [2024-06-13, 14:48:57](https://lobste.rs/s/zc9vjg/virtual_keyboard_for_android) - [Virtual keyboard for Android](https://software-lab.de/StenoBoard/README)
@@ -11,9 +13,7 @@
 * [2024-06-13, 05:41:11](https://lobste.rs/s/8ukxl7/can_you_run_tight_loop_still_be_well) - [Can you run in a tight loop and still be well-behaved?](https://rachelbythebay.com/w/2024/06/12/timing/)
 * [2024-06-13, 05:13:08](https://lobste.rs/s/jkzp4v/chaos_medium_watercolour_plotting) - [Chaos in the medium: watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-13, 02:21:04](https://lobste.rs/s/nvf5e6/how_single_chatgpt_mistake_cost_us_10_000) - [How a single ChatGPT mistake cost us $10,000+](https://archive.is/2yxws)
-* [2024-06-12, 23:10:26](https://lobste.rs/s/74nvyz/how_things_get_done_on_go_team) - [How things get done on the Go Team](https://changelog.com/gotime/318)
 * [2024-06-12, 23:06:23](https://lobste.rs/s/9lchst/optimal_sqlite_settings_for_django) - [Optimal SQLite settings for Django](https://gcollazo.com/optimal-sqlite-settings-for-django/)
-* [2024-06-12, 21:50:14](https://lobste.rs/s/vs5z84/gilbert_johnson_keerthi_algorithm) - [the Gilbert–Johnson–Keerthi algorithm explained as simply as possibly](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 21:25:37](https://lobste.rs/s/g2l9vc/duperemove) - [Duperemove](https://markfasheh.github.io/duperemove/)
 * [2024-06-12, 20:10:55](https://lobste.rs/s/tvwxrz/wc2_investigates_optimizing_wc_unix_word) - [wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 * [2024-06-12, 19:38:28](https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please) - [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
