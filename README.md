@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 20:37:41](https://lobste.rs/s/zjeasu/making_bignum_library_for_fun) - [Making a bignum library for fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-13, 20:25:30](https://lobste.rs/s/suqrrp/whose_cidr_is_it_anyway) - [Whose CIDR is it anyway?](https://www.netmeister.org/blog/cidr-allocations.html)
 * [2024-06-13, 19:39:40](https://lobste.rs/s/jtrlcy/libnix_fixpath) - [libnix fixPath](https://lastlog.de/blog/libnix_fixPath.html)
-* [2024-06-13, 18:45:07](https://lobste.rs/s/qbyv1o/justified_smt_1_minikanren_inside_z3) - [Justified SMT 1: The Minikanren inside Z3](https://www.philipzucker.com/minikanren_inside_z3/)
 * [2024-06-13, 18:38:53](https://lobste.rs/s/p30juy/why_swift_s_type_checker_is_slow) - [Why Swift's type checker is slow](https://danielchasehooper.com/posts/why-swift-is-slow/)
 * [2024-06-13, 18:09:18](https://lobste.rs/s/xw6lb9/programming_is_should_be_fun) - [Programming is (should be) fun](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-13, 16:14:09](https://lobste.rs/s/bjpv1c/font_pjw) - [Font PJW](https://about.cubictype.com/pjw/portfolio.html)

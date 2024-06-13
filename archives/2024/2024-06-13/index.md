@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 20:37:41](https://lobste.rs/s/zjeasu/making_bignum_library_for_fun) - [Making a bignum library for fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-13, 20:25:30](https://lobste.rs/s/suqrrp/whose_cidr_is_it_anyway) - [Whose CIDR is it anyway?](https://www.netmeister.org/blog/cidr-allocations.html)
 * [2024-06-13, 19:39:40](https://lobste.rs/s/jtrlcy/libnix_fixpath) - [libnix fixPath](https://lastlog.de/blog/libnix_fixPath.html)
 * [2024-06-13, 18:45:07](https://lobste.rs/s/qbyv1o/justified_smt_1_minikanren_inside_z3) - [Justified SMT 1: The Minikanren inside Z3](https://www.philipzucker.com/minikanren_inside_z3/)
