@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 20:25:30](https://lobste.rs/s/suqrrp/whose_cidr_is_it_anyway) - [Whose CIDR is it anyway?](https://www.netmeister.org/blog/cidr-allocations.html)
 * [2024-06-13, 19:39:40](https://lobste.rs/s/jtrlcy/libnix_fixpath) - [libnix fixPath](https://lastlog.de/blog/libnix_fixPath.html)
 * [2024-06-13, 18:45:07](https://lobste.rs/s/qbyv1o/justified_smt_1_minikanren_inside_z3) - [Justified SMT 1: The Minikanren inside Z3](https://www.philipzucker.com/minikanren_inside_z3/)
 * [2024-06-13, 18:38:53](https://lobste.rs/s/p30juy/why_swift_s_type_checker_is_slow) - [Why Swift's type checker is slow](https://danielchasehooper.com/posts/why-swift-is-slow/)
+* [2024-06-13, 18:09:18](https://lobste.rs/s/xw6lb9/programming_is_should_be_fun) - [Programming is (should be) fun](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-13, 16:14:09](https://lobste.rs/s/bjpv1c/font_pjw) - [Font PJW](https://about.cubictype.com/pjw/portfolio.html)
 * [2024-06-13, 15:31:33](https://lobste.rs/s/xnsp3d/nix_as_webassembly_build_tool) - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/)
 * [2024-06-13, 15:25:11](https://lobste.rs/s/q18f4k/development_environments_with_devenv_sh) - [Development Environments with devenv.sh](https://www.youtube.com/watch?v=unW1zk8terk&t=7s)
@@ -11,7 +13,6 @@
 * [2024-06-13, 14:48:57](https://lobste.rs/s/zc9vjg/virtual_keyboard_for_android) - [Virtual keyboard for Android](https://software-lab.de/StenoBoard/README)
 * [2024-06-13, 14:20:30](https://lobste.rs/s/ej0vgc/c3_reaches_0_6_milestone) - [C3 reaches the 0.6 milestone](https://c3.handmade.network/blog/p/8918-c3_reaches_the_0.6_milestone%2521)
 * [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
-* [2024-06-13, 06:35:43](https://lobste.rs/s/gegjhg/celebrating_freebsd_day_journey_through) - [Celebrating FreeBSD Day: A Journey Through 31 Years of Open Source Excellence](https://hamradio.my/2024/06/celebrating-freebsd-day-a-journey-through-31-years-of-open-source-excellence/)
 * [2024-06-13, 06:35:25](https://lobste.rs/s/vfme6q/switching_gnu_linux_mentally) - [Switching to GNU/Linux: Mentally](https://nathanupchurch.com/blog/switching-to-gnu-linux-mentally/)
 * [2024-06-13, 05:51:25](https://lobste.rs/s/yopzc9/how_we_hacked_multi_billion_dollar) - [How We Hacked Multi-Billion Dollar Companies in 30 Minutes Using a Fake VSCode Extension](https://medium.com/@amitassaraf/the-story-of-extensiontotal-how-we-hacked-the-vscode-marketplace-5c6e66a0e9d7)
 * [2024-06-13, 05:41:11](https://lobste.rs/s/8ukxl7/can_you_run_tight_loop_still_be_well) - [Can you run in a tight loop and still be well-behaved?](https://rachelbythebay.com/w/2024/06/12/timing/)
@@ -23,7 +24,6 @@
 * [2024-06-12, 19:08:35](https://lobste.rs/s/w4cqvm/ruby_3_3_3_released) - [Ruby 3.3.3 Released](https://www.ruby-lang.org/en/news/2024/06/12/ruby-3-3-3-released/)
 * [2024-06-12, 13:23:44](https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 * [2024-06-12, 12:34:00](https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types) - [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
-* [2024-06-12, 12:28:11](https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-12, 09:06:15](https://lobste.rs/s/8dqbty/my_experience_crafting_interpreter_with) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 
 ## [Archives](archives/index.md)
