@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 22:27:21](https://lobste.rs/s/v5kmqu/driving_forward_android_drivers) - [Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
 * [2024-06-13, 21:34:33](https://lobste.rs/s/5zxs2j/finetuning_code_completions_model_for) - [Finetuning a code completions model for Rust](https://www.reddit.com/r/programming/comments/1dfabm3/finetuning_a_code_completions_model_for_rust/)
 * [2024-06-13, 20:37:41](https://lobste.rs/s/zjeasu/making_bignum_library_for_fun) - [Making a bignum library for fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-13, 20:25:30](https://lobste.rs/s/suqrrp/whose_cidr_is_it_anyway) - [Whose CIDR is it anyway?](https://www.netmeister.org/blog/cidr-allocations.html)
@@ -20,7 +21,6 @@
 * [2024-06-13, 05:13:08](https://lobste.rs/s/jkzp4v/chaos_medium_watercolour_plotting) - [Chaos in the medium: watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-13, 02:21:04](https://lobste.rs/s/nvf5e6/how_single_chatgpt_mistake_cost_us_10_000) - [How a single ChatGPT mistake cost us $10,000+](https://archive.is/2yxws)
 * [2024-06-12, 23:06:23](https://lobste.rs/s/9lchst/optimal_sqlite_settings_for_django) - [Optimal SQLite settings for Django](https://gcollazo.com/optimal-sqlite-settings-for-django/)
-* [2024-06-12, 20:10:55](https://lobste.rs/s/tvwxrz/wc2_investigates_optimizing_wc_unix_word) - [wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 * [2024-06-12, 19:38:28](https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please) - [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
 * [2024-06-12, 13:23:44](https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 * [2024-06-12, 12:34:00](https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types) - [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)

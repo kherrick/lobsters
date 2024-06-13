@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 22:27:21](https://lobste.rs/s/v5kmqu/driving_forward_android_drivers) - [Driving forward in Android drivers](https://googleprojectzero.blogspot.com/2024/06/driving-forward-in-android-drivers.html)
 * [2024-06-13, 21:34:33](https://lobste.rs/s/5zxs2j/finetuning_code_completions_model_for) - [Finetuning a code completions model for Rust](https://www.reddit.com/r/programming/comments/1dfabm3/finetuning_a_code_completions_model_for_rust/)
 * [2024-06-13, 20:37:41](https://lobste.rs/s/zjeasu/making_bignum_library_for_fun) - [Making a bignum library for fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-13, 20:25:30](https://lobste.rs/s/suqrrp/whose_cidr_is_it_anyway) - [Whose CIDR is it anyway?](https://www.netmeister.org/blog/cidr-allocations.html)
