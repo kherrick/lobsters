@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 16:14:09](https://lobste.rs/s/bjpv1c/font_pjw) - [Font PJW](https://about.cubictype.com/pjw/portfolio.html)
 * [2024-06-13, 15:56:14](https://lobste.rs/s/joaku0/on_emotional_side_public_software) - [On the Emotional Side of Public Software Funding](https://www.rafa.ee/articles/on-the-emotional-side-of-public-software-funding/)
 * [2024-06-13, 15:31:33](https://lobste.rs/s/xnsp3d/nix_as_webassembly_build_tool) - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/)
 * [2024-06-13, 15:25:11](https://lobste.rs/s/q18f4k/development_environments_with_devenv_sh) - [Development Environments with devenv.sh](https://www.youtube.com/watch?v=unW1zk8terk&t=7s)
@@ -24,7 +25,6 @@
 * [2024-06-12, 12:34:00](https://lobste.rs/s/fv2l35/elixir_v1_17_released_set_theoretic_types) - [Elixir v1.17 released: set-theoretic types in patterns, calendar durations, and Erlang/OTP 27 support](https://elixir-lang.org/blog/2024/06/12/elixir-v1-17-0-released/)
 * [2024-06-12, 12:28:11](https://lobste.rs/s/dwbvhr/cognate_readable_concise_concatenative) - [Cognate: Readable and concise concatenative programming](https://cognate-lang.github.io/learn.html)
 * [2024-06-12, 09:06:15](https://lobste.rs/s/8dqbty/my_experience_crafting_interpreter_with) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
-* [2024-06-12, 08:42:09](https://lobste.rs/s/uac4ml/announcing_systemd_v256) - [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)
 
 ## [Archives](archives/index.md)
 
