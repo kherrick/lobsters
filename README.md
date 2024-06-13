@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 21:34:33](https://lobste.rs/s/5zxs2j/finetuning_code_completions_model_for) - [Finetuning a code completions model for Rust](https://www.reddit.com/r/programming/comments/1dfabm3/finetuning_a_code_completions_model_for_rust/)
 * [2024-06-13, 20:37:41](https://lobste.rs/s/zjeasu/making_bignum_library_for_fun) - [Making a bignum library for fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-13, 20:25:30](https://lobste.rs/s/suqrrp/whose_cidr_is_it_anyway) - [Whose CIDR is it anyway?](https://www.netmeister.org/blog/cidr-allocations.html)
 * [2024-06-13, 19:39:40](https://lobste.rs/s/jtrlcy/libnix_fixpath) - [libnix fixPath](https://lastlog.de/blog/libnix_fixPath.html)
@@ -13,7 +14,6 @@
 * [2024-06-13, 14:48:57](https://lobste.rs/s/zc9vjg/virtual_keyboard_for_android) - [Virtual keyboard for Android](https://software-lab.de/StenoBoard/README)
 * [2024-06-13, 14:20:30](https://lobste.rs/s/ej0vgc/c3_reaches_0_6_milestone) - [C3 reaches the 0.6 milestone](https://c3.handmade.network/blog/p/8918-c3_reaches_the_0.6_milestone%2521)
 * [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
-* [2024-06-13, 06:35:43](https://lobste.rs/s/gegjhg/celebrating_freebsd_day_journey_through) - [Celebrating FreeBSD Day: A Journey Through 31 Years of Open Source Excellence](https://hamradio.my/2024/06/celebrating-freebsd-day-a-journey-through-31-years-of-open-source-excellence/)
 * [2024-06-13, 06:35:25](https://lobste.rs/s/vfme6q/switching_gnu_linux_mentally) - [Switching to GNU/Linux: Mentally](https://nathanupchurch.com/blog/switching-to-gnu-linux-mentally/)
 * [2024-06-13, 05:51:25](https://lobste.rs/s/yopzc9/how_we_hacked_multi_billion_dollar) - [How We Hacked Multi-Billion Dollar Companies in 30 Minutes Using a Fake VSCode Extension](https://medium.com/@amitassaraf/the-story-of-extensiontotal-how-we-hacked-the-vscode-marketplace-5c6e66a0e9d7)
 * [2024-06-13, 05:41:11](https://lobste.rs/s/8ukxl7/can_you_run_tight_loop_still_be_well) - [Can you run in a tight loop and still be well-behaved?](https://rachelbythebay.com/w/2024/06/12/timing/)
