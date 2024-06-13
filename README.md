@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 05:41:11](https://lobste.rs/s/8ukxl7/can_you_run_tight_loop_still_be_well) - [Can you run in a tight loop and still be well-behaved?](https://rachelbythebay.com/w/2024/06/12/timing/)
 * [2024-06-13, 05:13:08](https://lobste.rs/s/jkzp4v/chaos_medium_watercolour_plotting) - [Chaos in the medium: watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-13, 02:21:04](https://lobste.rs/s/nvf5e6/how_single_chatgpt_mistake_cost_us_10_000) - [How a single ChatGPT mistake cost us $10,000+](https://archive.is/2yxws)
 * [2024-06-12, 23:10:26](https://lobste.rs/s/74nvyz/how_things_get_done_on_go_team) - [How things get done on the Go Team](https://changelog.com/gotime/318)
@@ -8,7 +9,6 @@
 * [2024-06-12, 20:10:55](https://lobste.rs/s/tvwxrz/wc2_investigates_optimizing_wc_unix_word) - [wc2: Investigates optimizing 'wc', the Unix word count program](https://github.com/robertdavidgraham/wc2)
 * [2024-06-12, 19:38:28](https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please) - [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
 * [2024-06-12, 19:08:35](https://lobste.rs/s/w4cqvm/ruby_3_3_3_released) - [Ruby 3.3.3 Released](https://www.ruby-lang.org/en/news/2024/06/12/ruby-3-3-3-released/)
-* [2024-06-12, 17:08:27](https://lobste.rs/s/nlshq4/nsnotifyd_2_1_released) - [nsnotifyd-2.1 released](https://dotat.at/@/2024-06-12-nsnotifyd-2-1-released.html)
 * [2024-06-12, 16:54:02](https://lobste.rs/s/cfl6wn/unnecessary_upload_evasion_with_lftp) - [Unnecessary upload evasion with lftp mirrors](https://peateasea.de/unnecessary-upload-evasion-with-lftp-mirrors/)
 * [2024-06-12, 16:49:57](https://lobste.rs/s/otlsz1/serious_engine_networking_dive_analysis) - [Serious Engine Networking - Dive-in Analysis](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 15:01:57](https://lobste.rs/s/vot81k/python_wheel_filenames_have_no_canonical) - [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
