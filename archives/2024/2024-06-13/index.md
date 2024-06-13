@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 11:48:56](https://lobste.rs/s/3mfqsi/you_might_need_portable_monitor) - [You might need a portable monitor](https://blog.alexellis.io/you-might-need-a-portable-monitor/)
 * [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
 * [2024-06-13, 06:35:43](https://lobste.rs/s/gegjhg/celebrating_freebsd_day_journey_through) - [Celebrating FreeBSD Day: A Journey Through 31 Years of Open Source Excellence](https://hamradio.my/2024/06/celebrating-freebsd-day-a-journey-through-31-years-of-open-source-excellence/)
 * [2024-06-13, 06:35:25](https://lobste.rs/s/vfme6q/switching_gnu_linux_mentally) - [Switching to GNU/Linux: Mentally](https://nathanupchurch.com/blog/switching-to-gnu-linux-mentally/)
