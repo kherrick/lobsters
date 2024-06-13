@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-13, 09:23:48",
+      "https://lobste.rs/s/cmslfp/how_fix_command_not_found"
+    ],
+    [
+      "How to fix 'command not found: $'",
+      "https://mac.install.guide/terminal/command-not-found-$"
+    ]
+  ],
+  [
+    [
       "2024-06-13, 06:35:43",
       "https://lobste.rs/s/gegjhg/celebrating_freebsd_day_journey_through"
     ],
@@ -237,16 +247,6 @@
     [
       "Getting Started with the Swift Static Linux SDK",
       "https://www.swift.org/documentation/articles/static-linux-getting-started.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-11, 13:50:49",
-      "https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github"
-    ],
-    [
-      "Why curl closes PRs on GitHub",
-      "https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/"
     ]
   ]
 ]
