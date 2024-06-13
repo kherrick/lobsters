@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
 * [2024-06-13, 06:35:43](https://lobste.rs/s/gegjhg/celebrating_freebsd_day_journey_through) - [Celebrating FreeBSD Day: A Journey Through 31 Years of Open Source Excellence](https://hamradio.my/2024/06/celebrating-freebsd-day-a-journey-through-31-years-of-open-source-excellence/)
 * [2024-06-13, 06:35:25](https://lobste.rs/s/vfme6q/switching_gnu_linux_mentally) - [Switching to GNU/Linux: Mentally](https://nathanupchurch.com/blog/switching-to-gnu-linux-mentally/)
 * [2024-06-13, 05:51:25](https://lobste.rs/s/yopzc9/1_6_how_we_hacked_multi_billion_dollar) - [1/6 | How We Hacked Multi-Billion Dollar Companies in 30 Minutes Using a Fake VSCode Extension](https://medium.com/@amitassaraf/the-story-of-extensiontotal-how-we-hacked-the-vscode-marketplace-5c6e66a0e9d7)
@@ -24,7 +25,6 @@
 * [2024-06-12, 09:06:15](https://lobste.rs/s/8dqbty/my_experience_crafting_interpreter_with) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2024-06-12, 08:42:09](https://lobste.rs/s/uac4ml/announcing_systemd_v256) - [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)
 * [2024-06-12, 07:40:02](https://lobste.rs/s/7ofcia/getting_started_with_swift_static_linux) - [Getting Started with the Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
-* [2024-06-11, 13:50:49](https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github) - [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
 
 ## [Archives](archives/index.md)
 
