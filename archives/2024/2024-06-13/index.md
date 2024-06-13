@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
 * [2024-06-13, 14:48:57](https://lobste.rs/s/zc9vjg/virtual_keyboard_for_android) - [Virtual keyboard for Android](https://software-lab.de/StenoBoard/README)
 * [2024-06-13, 14:20:30](https://lobste.rs/s/ej0vgc/c3_reaches_0_6_milestone) - [C3 reaches the 0.6 milestone](https://c3.handmade.network/blog/p/8918-c3_reaches_the_0.6_milestone%2521)
 * [2024-06-13, 11:48:56](https://lobste.rs/s/3mfqsi/you_might_need_portable_monitor) - [You might need a portable monitor](https://blog.alexellis.io/you-might-need-a-portable-monitor/)
