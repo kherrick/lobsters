@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 05:51:25](https://lobste.rs/s/yopzc9/1_6_how_we_hacked_multi_billion_dollar) - [1/6 | How We Hacked Multi-Billion Dollar Companies in 30 Minutes Using a Fake VSCode Extension](https://medium.com/@amitassaraf/the-story-of-extensiontotal-how-we-hacked-the-vscode-marketplace-5c6e66a0e9d7)
 * [2024-06-13, 05:41:11](https://lobste.rs/s/8ukxl7/can_you_run_tight_loop_still_be_well) - [Can you run in a tight loop and still be well-behaved?](https://rachelbythebay.com/w/2024/06/12/timing/)
 * [2024-06-13, 05:13:08](https://lobste.rs/s/jkzp4v/chaos_medium_watercolour_plotting) - [Chaos in the medium: watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-13, 02:21:04](https://lobste.rs/s/nvf5e6/how_single_chatgpt_mistake_cost_us_10_000) - [How a single ChatGPT mistake cost us $10,000+](https://archive.is/2yxws)
@@ -10,7 +11,6 @@
 * [2024-06-12, 19:38:28](https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please) - [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
 * [2024-06-12, 19:08:35](https://lobste.rs/s/w4cqvm/ruby_3_3_3_released) - [Ruby 3.3.3 Released](https://www.ruby-lang.org/en/news/2024/06/12/ruby-3-3-3-released/)
 * [2024-06-12, 16:54:02](https://lobste.rs/s/cfl6wn/unnecessary_upload_evasion_with_lftp) - [Unnecessary upload evasion with lftp mirrors](https://peateasea.de/unnecessary-upload-evasion-with-lftp-mirrors/)
-* [2024-06-12, 16:49:57](https://lobste.rs/s/otlsz1/serious_engine_networking_dive_analysis) - [Serious Engine Networking - Dive-in Analysis](https://staniks.github.io/articles/serious-engine-networking-analysis)
 * [2024-06-12, 15:01:57](https://lobste.rs/s/vot81k/python_wheel_filenames_have_no_canonical) - [Python wheel filenames have no canonical form](https://blog.yossarian.net/2024/06/12/Python-wheel-filenames-have-no-canonical-form)
 * [2024-06-12, 14:52:28](https://lobste.rs/s/cowtwb/how_much_math_can_you_do_10_lines_python) - [How much math can you do in 10 lines of Python](https://wordsandbuttons.online/how_much_math_can_you_do_in_10_lines_of_python.html)
 * [2024-06-12, 14:03:07](https://lobste.rs/s/qcxwkc/training_minimap_detector_for_league) - [Training a minimap detector for League of Legends without overthinking it](https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/)
