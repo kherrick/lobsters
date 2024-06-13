@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-06-12, 14:03:07",
-      "https://lobste.rs/s/qcxwkc/training_minimap_detector_for_league"
-    ],
-    [
-      "Training a minimap detector for League of Legends without overthinking it",
-      "https://maknee.github.io/blog/2021/League-ML-Minimap-Detection2/"
-    ]
-  ],
-  [
-    [
       "2024-06-12, 13:23:44",
       "https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into"
     ],
@@ -197,6 +187,16 @@
     [
       "Cognate: Readable and concise concatenative programming",
       "https://cognate-lang.github.io/learn.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-12, 12:18:14",
+      "https://lobste.rs/s/iwiimf/jupyter_has_stand_alone_desktop_version"
+    ],
+    [
+      "Jupyter has a stand alone desktop version",
+      "https://github.com/jupyterlab/jupyterlab-desktop"
     ]
   ],
   [
