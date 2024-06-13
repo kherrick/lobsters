@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 18:09:18](https://lobste.rs/s/xw6lb9/programming_is_should_be_fun) - [Programming is (should be) fun](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-13, 17:46:25](https://lobste.rs/s/blufkd/why_is_building_pipelines_different_from) - [Why is Building Pipelines Different from Software Development?](https://piotrzan.medium.com/why-is-building-pipelines-different-from-software-development-13ebd479edc4)
 * [2024-06-13, 16:14:09](https://lobste.rs/s/bjpv1c/font_pjw) - [Font PJW](https://about.cubictype.com/pjw/portfolio.html)
 * [2024-06-13, 15:31:33](https://lobste.rs/s/xnsp3d/nix_as_webassembly_build_tool) - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/)
@@ -8,7 +9,6 @@
 * [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
 * [2024-06-13, 14:48:57](https://lobste.rs/s/zc9vjg/virtual_keyboard_for_android) - [Virtual keyboard for Android](https://software-lab.de/StenoBoard/README)
 * [2024-06-13, 14:20:30](https://lobste.rs/s/ej0vgc/c3_reaches_0_6_milestone) - [C3 reaches the 0.6 milestone](https://c3.handmade.network/blog/p/8918-c3_reaches_the_0.6_milestone%2521)
-* [2024-06-13, 11:48:56](https://lobste.rs/s/3mfqsi/you_might_need_portable_monitor) - [You might need a portable monitor](https://blog.alexellis.io/you-might-need-a-portable-monitor/)
 * [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
 * [2024-06-13, 06:35:43](https://lobste.rs/s/gegjhg/celebrating_freebsd_day_journey_through) - [Celebrating FreeBSD Day: A Journey Through 31 Years of Open Source Excellence](https://hamradio.my/2024/06/celebrating-freebsd-day-a-journey-through-31-years-of-open-source-excellence/)
 * [2024-06-13, 06:35:25](https://lobste.rs/s/vfme6q/switching_gnu_linux_mentally) - [Switching to GNU/Linux: Mentally](https://nathanupchurch.com/blog/switching-to-gnu-linux-mentally/)

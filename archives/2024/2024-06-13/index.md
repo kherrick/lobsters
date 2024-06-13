@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-13](index.md)
 
+* [2024-06-13, 18:09:18](https://lobste.rs/s/xw6lb9/programming_is_should_be_fun) - [Programming is (should be) fun](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
 * [2024-06-13, 17:46:25](https://lobste.rs/s/blufkd/why_is_building_pipelines_different_from) - [Why is Building Pipelines Different from Software Development?](https://piotrzan.medium.com/why-is-building-pipelines-different-from-software-development-13ebd479edc4)
 * [2024-06-13, 16:14:09](https://lobste.rs/s/bjpv1c/font_pjw) - [Font PJW](https://about.cubictype.com/pjw/portfolio.html)
 * [2024-06-13, 15:56:14](https://lobste.rs/s/joaku0/on_emotional_side_public_software) - [On the Emotional Side of Public Software Funding](https://www.rafa.ee/articles/on-the-emotional-side-of-public-software-funding/)
