@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-13, 02:21:04](https://lobste.rs/s/nvf5e6/how_single_chatgpt_mistake_cost_us_10_000) - [How a single ChatGPT mistake cost us $10,000+](https://archive.is/2yxws)
+* [2024-06-12, 23:10:26](https://lobste.rs/s/74nvyz/how_things_get_done_on_go_team) - [How things get done on the Go Team](https://changelog.com/gotime/318)
 * [2024-06-12, 23:06:23](https://lobste.rs/s/9lchst/optimal_sqlite_settings_for_django) - [Optimal SQLite settings for Django](https://gcollazo.com/optimal-sqlite-settings-for-django/)
 * [2024-06-12, 21:50:14](https://lobste.rs/s/vs5z84/gilbert_johnson_keerthi_algorithm) - [the Gilbert–Johnson–Keerthi algorithm explained as simply as possibly](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 21:25:37](https://lobste.rs/s/g2l9vc/duperemove) - [Duperemove](https://markfasheh.github.io/duperemove/)
@@ -22,8 +24,6 @@
 * [2024-06-12, 09:06:15](https://lobste.rs/s/8dqbty/my_experience_crafting_interpreter_with) - [My experience crafting an interpreter with Rust](https://ceronman.com/2021/07/22/my-experience-crafting-an-interpreter-with-rust/)
 * [2024-06-12, 08:42:09](https://lobste.rs/s/uac4ml/announcing_systemd_v256) - [Announcing systemd v256](https://0pointer.net/blog/announcing-systemd-v256.html)
 * [2024-06-12, 07:40:02](https://lobste.rs/s/7ofcia/getting_started_with_swift_static_linux) - [Getting Started with the Swift Static Linux SDK](https://www.swift.org/documentation/articles/static-linux-getting-started.html)
-* [2024-06-11, 19:51:52](https://lobste.rs/s/mwbsed/first_class_contexts) - [First class Contexts](https://ryelang.org/meet_rye/specifics/context/)
-* [2024-06-11, 15:10:21](https://lobste.rs/s/owohli/firefox_will_upgrade_more_mixed_content) - [Firefox will upgrade more Mixed Content in Version 127](https://blog.mozilla.org/security/2024/06/05/firefox-will-upgrade-more-mixed-content-in-version-127/)
 * [2024-06-11, 13:50:49](https://lobste.rs/s/bwfxxv/why_curl_closes_prs_on_github) - [Why curl closes PRs on GitHub](https://daniel.haxx.se/blog/2024/06/11/why-curl-closes-prs-on-github/)
 
 ## [Archives](archives/index.md)

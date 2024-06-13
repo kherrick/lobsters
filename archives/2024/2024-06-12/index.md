@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-12](index.md)
 
+* [2024-06-12, 23:10:26](https://lobste.rs/s/74nvyz/how_things_get_done_on_go_team) - [How things get done on the Go Team](https://changelog.com/gotime/318)
 * [2024-06-12, 23:06:23](https://lobste.rs/s/9lchst/optimal_sqlite_settings_for_django) - [Optimal SQLite settings for Django](https://gcollazo.com/optimal-sqlite-settings-for-django/)
 * [2024-06-12, 21:50:14](https://lobste.rs/s/vs5z84/gilbert_johnson_keerthi_algorithm) - [the Gilbert–Johnson–Keerthi algorithm explained as simply as possibly](https://computerwebsite.net/writing/gjk)
 * [2024-06-12, 21:25:37](https://lobste.rs/s/g2l9vc/duperemove) - [Duperemove](https://markfasheh.github.io/duperemove/)
