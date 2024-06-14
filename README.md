@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-14, 04:51:10](https://lobste.rs/s/blkfub/effing_mad_algebraic_effects_for_rust) - [effing-mad: Algebraic effects for Rust](https://github.com/rosefromthedead/effing-mad)
 * [2024-06-14, 04:43:05](https://lobste.rs/s/zmpjbi/using_1965_dutch_rotary_phone_via_voip_t65) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
 * [2024-06-14, 04:36:48](https://lobste.rs/s/1hny46/lynn_conway_has_died) - [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
 * [2024-06-14, 01:10:27](https://lobste.rs/s/fyjhg6/mlow_meta_s_low_bitrate_audio_codec) - [MLow: Meta’s low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
@@ -9,7 +10,6 @@
 * [2024-06-13, 19:39:40](https://lobste.rs/s/jtrlcy/libnix_fixpath) - [libnix fixPath](https://lastlog.de/blog/libnix_fixPath.html)
 * [2024-06-13, 18:38:53](https://lobste.rs/s/p30juy/why_swift_s_type_checker_is_slow) - [Why Swift's type checker is slow](https://danielchasehooper.com/posts/why-swift-is-slow/)
 * [2024-06-13, 18:09:18](https://lobste.rs/s/xw6lb9/programming_is_should_be_fun) - [Programming is (should be) fun](https://www.youtube.com/watch?v=2MYzvQ1v8Ww)
-* [2024-06-13, 16:14:09](https://lobste.rs/s/bjpv1c/font_pjw) - [Font PJW](https://about.cubictype.com/pjw/portfolio.html)
 * [2024-06-13, 15:31:33](https://lobste.rs/s/xnsp3d/nix_as_webassembly_build_tool) - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/)
 * [2024-06-13, 15:25:11](https://lobste.rs/s/q18f4k/development_environments_with_devenv_sh) - [Development Environments with devenv.sh](https://www.youtube.com/watch?v=unW1zk8terk&t=7s)
 * [2024-06-13, 15:19:27](https://lobste.rs/s/dj0ajk/announcing_rust_1_79_0) - [Announcing Rust 1.79.0](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
