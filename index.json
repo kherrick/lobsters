@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-14, 05:22:04",
+      "https://lobste.rs/s/ybyn7s/how_we_benchmark_all_kafka_api_compatible"
+    ],
+    [
+      "How We Benchmark All Kafka API Compatible Streaming System Together",
+      "https://github.com/AutoMQ/kafka-provider-comparison"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 04:51:10",
       "https://lobste.rs/s/blkfub/effing_mad_algebraic_effects_for_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "Don’t Refactor Like Uncle Bob. Please",
       "https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/"
-    ]
-  ],
-  [
-    [
-      "2024-06-12, 13:23:44",
-      "https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into"
-    ],
-    [
-      "iTerm2 v3.5.1 moves AI features into external plugin",
-      "https://iterm2.com/ai-plugin.html"
     ]
   ]
 ]
