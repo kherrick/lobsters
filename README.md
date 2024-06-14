@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-14, 13:59:46](https://lobste.rs/s/fdftpl/finding_55_year_old_bug_first_lunar_lander) - [Finding a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 13:48:26](https://lobste.rs/s/smmr5f/semantic_search_with_django_postgresql) - [Semantic search with Django, PostgreSQL, & pgvector](https://www.youtube.com/watch?v=4hl8LpDKRMw)
 * [2024-06-14, 13:45:50](https://lobste.rs/s/x0a5id/problem_with_opentelemetry) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 * [2024-06-14, 13:36:07](https://lobste.rs/s/ucnbqt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucnbqt/what_are_you_doing_this_weekend)
@@ -21,7 +22,6 @@
 * [2024-06-13, 15:19:27](https://lobste.rs/s/dj0ajk/announcing_rust_1_79_0) - [Announcing Rust 1.79.0](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
 * [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
 * [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
-* [2024-06-13, 06:35:25](https://lobste.rs/s/vfme6q/switching_gnu_linux_mentally) - [Switching to GNU/Linux: Mentally](https://nathanupchurch.com/blog/switching-to-gnu-linux-mentally/)
 * [2024-06-13, 05:51:25](https://lobste.rs/s/yopzc9/how_we_hacked_multi_billion_dollar) - [How We Hacked Multi-Billion Dollar Companies in 30 Minutes Using a Fake VSCode Extension](https://medium.com/@amitassaraf/the-story-of-extensiontotal-how-we-hacked-the-vscode-marketplace-5c6e66a0e9d7)
 * [2024-06-13, 05:13:08](https://lobste.rs/s/jkzp4v/chaos_medium_watercolour_plotting) - [Chaos in the medium: watercolour plotting](https://www.amygoodchild.com/blog/watercolour-plots)
 * [2024-06-12, 19:38:28](https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please) - [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
