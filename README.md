@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-14, 11:00:00](https://lobste.rs/s/cayv8q/design_decisions_evolution_method) - [The design decisions and evolution of a method definition - Ruby case study](https://zverok.space/blog/2024-06-14-method-evolution.html)
 * [2024-06-14, 07:43:25](https://lobste.rs/s/houvg6/whistleblower_says_microsoft_dismissed) - [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 * [2024-06-14, 06:58:31](https://lobste.rs/s/d3wwhm/enhancing_code_completion_for_rust_cody) - [Enhancing code completion for Rust in Cody](https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody)
 * [2024-06-14, 06:38:35](https://lobste.rs/s/nd8a40/standardizing_bpf_isa) - [Standardizing the BPF ISA](https://lwn.net/Articles/975830/)
@@ -16,7 +17,6 @@
 * [2024-06-13, 15:25:11](https://lobste.rs/s/q18f4k/development_environments_with_devenv_sh) - [Development Environments with devenv.sh](https://www.youtube.com/watch?v=unW1zk8terk&t=7s)
 * [2024-06-13, 15:19:27](https://lobste.rs/s/dj0ajk/announcing_rust_1_79_0) - [Announcing Rust 1.79.0](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
 * [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
-* [2024-06-13, 14:48:57](https://lobste.rs/s/zc9vjg/virtual_keyboard_for_android) - [Virtual keyboard for Android](https://software-lab.de/StenoBoard/README)
 * [2024-06-13, 14:20:30](https://lobste.rs/s/ej0vgc/c3_reaches_0_6_milestone) - [C3 reaches the 0.6 milestone](https://c3.handmade.network/blog/p/8918-c3_reaches_the_0.6_milestone%2521)
 * [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
 * [2024-06-13, 06:35:25](https://lobste.rs/s/vfme6q/switching_gnu_linux_mentally) - [Switching to GNU/Linux: Mentally](https://nathanupchurch.com/blog/switching-to-gnu-linux-mentally/)
