@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 13:45:50](https://lobste.rs/s/x0a5id/problem_with_opentelemetry) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 * [2024-06-14, 13:36:07](https://lobste.rs/s/ucnbqt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucnbqt/what_are_you_doing_this_weekend)
 * [2024-06-14, 13:23:31](https://lobste.rs/s/jgtmfm/never_sometimes_always) - [Never, Sometimes, Always](https://lukeplant.me.uk/blog/posts/never-sometimes-always/)
 * [2024-06-14, 11:36:53](https://lobste.rs/s/mftxf3/posix_1_2024_is_published) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
