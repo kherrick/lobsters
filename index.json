@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-14, 13:48:26",
+      "https://lobste.rs/s/smmr5f/semantic_search_with_django_postgresql"
+    ],
+    [
+      "Semantic search with Django, PostgreSQL, & pgvector",
+      "https://www.youtube.com/watch?v=4hl8LpDKRMw"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 13:45:50",
       "https://lobste.rs/s/x0a5id/problem_with_opentelemetry"
     ],
@@ -127,16 +137,6 @@
     [
       "Making a bignum library for fun",
       "https://austinhenley.com/blog/bignum1.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-13, 19:39:40",
-      "https://lobste.rs/s/jtrlcy/libnix_fixpath"
-    ],
-    [
-      "libnix fixPath",
-      "https://lastlog.de/blog/libnix_fixPath.html"
     ]
   ],
   [
