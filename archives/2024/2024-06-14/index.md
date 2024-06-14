@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
 * [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
 * [2024-06-14, 13:59:46](https://lobste.rs/s/fdftpl/finding_55_year_old_bug_first_lunar_lander) - [Finding a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 13:48:26](https://lobste.rs/s/smmr5f/semantic_search_with_django_postgresql) - [Semantic search with Django, PostgreSQL, & pgvector](https://www.youtube.com/watch?v=4hl8LpDKRMw)
