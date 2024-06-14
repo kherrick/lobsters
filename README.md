@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-14, 05:22:04](https://lobste.rs/s/ybyn7s/how_we_benchmark_all_kafka_api_compatible) - [How We Benchmark All Kafka API Compatible Streaming System Together](https://github.com/AutoMQ/kafka-provider-comparison)
 * [2024-06-14, 04:51:10](https://lobste.rs/s/blkfub/effing_mad_algebraic_effects_for_rust) - [effing-mad: Algebraic effects for Rust](https://github.com/rosefromthedead/effing-mad)
 * [2024-06-14, 04:43:05](https://lobste.rs/s/zmpjbi/using_1965_dutch_rotary_phone_via_voip_t65) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
 * [2024-06-14, 04:36:48](https://lobste.rs/s/1hny46/lynn_conway_has_died) - [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
@@ -24,7 +25,6 @@
 * [2024-06-13, 02:21:04](https://lobste.rs/s/nvf5e6/how_single_chatgpt_mistake_cost_us_10_000) - [How a single ChatGPT mistake cost us $10,000+](https://archive.is/2yxws)
 * [2024-06-12, 23:06:23](https://lobste.rs/s/9lchst/optimal_sqlite_settings_for_django) - [Optimal SQLite settings for Django](https://gcollazo.com/optimal-sqlite-settings-for-django/)
 * [2024-06-12, 19:38:28](https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please) - [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
-* [2024-06-12, 13:23:44](https://lobste.rs/s/wshj8c/iterm2_v3_5_1_moves_ai_features_into) - [iTerm2 v3.5.1 moves AI features into external plugin](https://iterm2.com/ai-plugin.html)
 
 ## [Archives](archives/index.md)
 
