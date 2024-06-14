@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
 * [2024-06-14, 17:53:49](https://lobste.rs/s/xg4drz/tragedy_systemd_2019) - [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
 * [2024-06-14, 17:44:23](https://lobste.rs/s/hywi1s/nextflow_emacs_workflow) - [Nextflow Emacs workflow](https://edmundmiller.dev/posts/emacs-nextflow/)
 * [2024-06-14, 17:05:22](https://lobste.rs/s/ksey7d/hooking_up_our_custom_os_standard_library) - [Hooking up our Custom OS to a Standard Library](https://blog.stephenmarz.com/2020/10/25/hooking-up-our-custom-os-to-a-standard-library/)
