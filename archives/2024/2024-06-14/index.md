@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 06:04:59](https://lobste.rs/s/1mfkr9/architecture_all_access_live_at_lunar) - [Architecture All Access: Live at Lunar Lake ITT: Next Gen P-core Lion Cove](https://www.youtube.com/watch?v=FcBRRiQuzNU)
 * [2024-06-14, 05:22:04](https://lobste.rs/s/ybyn7s/how_we_benchmark_all_kafka_api_compatible) - [How We Benchmark All Kafka API Compatible Streaming System Together](https://github.com/AutoMQ/kafka-provider-comparison)
 * [2024-06-14, 04:51:10](https://lobste.rs/s/blkfub/effing_mad_algebraic_effects_for_rust) - [effing-mad: Algebraic effects for Rust](https://github.com/rosefromthedead/effing-mad)
 * [2024-06-14, 04:43:05](https://lobste.rs/s/zmpjbi/using_1965_dutch_rotary_phone_via_voip_t65) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
