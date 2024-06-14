@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-14, 17:05:22",
+      "https://lobste.rs/s/ksey7d/hooking_up_our_custom_os_standard_library"
+    ],
+    [
+      "Hooking up our Custom OS to a Standard Library",
+      "https://blog.stephenmarz.com/2020/10/25/hooking-up-our-custom-os-to-a-standard-library/"
+    ]
+  ],
+  [
+    [
       "2024-06-14, 16:29:44",
       "https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work"
     ],
@@ -97,16 +107,6 @@
     [
       "Enhancing code completion for Rust in Cody",
       "https://sourcegraph.com/blog/enhancing-code-completion-for-rust-in-cody"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 06:38:35",
-      "https://lobste.rs/s/nd8a40/standardizing_bpf_isa"
-    ],
-    [
-      "Standardizing the BPF ISA",
-      "https://lwn.net/Articles/975830/"
     ]
   ],
   [
