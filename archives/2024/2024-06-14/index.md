@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-14](index.md)
 
+* [2024-06-14, 13:23:31](https://lobste.rs/s/jgtmfm/never_sometimes_always) - [Never, Sometimes, Always](https://lukeplant.me.uk/blog/posts/never-sometimes-always/)
 * [2024-06-14, 11:36:53](https://lobste.rs/s/mftxf3/posix_1_2024_is_published) - [POSIX.1-2024 is published](https://ieeexplore.ieee.org/document/10555529)
 * [2024-06-14, 11:00:00](https://lobste.rs/s/cayv8q/design_decisions_evolution_method) - [The design decisions and evolution of a method definition - Ruby case study](https://zverok.space/blog/2024-06-14-method-evolution.html)
 * [2024-06-14, 07:43:25](https://lobste.rs/s/houvg6/whistleblower_says_microsoft_dismissed) - [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
