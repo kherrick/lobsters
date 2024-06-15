@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-06-15, 13:46:20](https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-06-15, 13:40:15](https://lobste.rs/s/ltzril/address_sanitizer_internals) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 * [2024-06-15, 13:09:26](https://lobste.rs/s/s0grtf/entity_component_system_ecs_definition) - [Entity Component System (ECS) - Definition and Simple Implementation](https://www.youtube.com/watch?v=s6TMa33niJo)
@@ -23,7 +24,6 @@
 * [2024-06-14, 13:23:31](https://lobste.rs/s/jgtmfm/never_sometimes_always) - [Never, Sometimes, Always](https://lukeplant.me.uk/blog/posts/never-sometimes-always/)
 * [2024-06-14, 11:00:00](https://lobste.rs/s/cayv8q/design_decisions_evolution_method) - [The design decisions and evolution of a method definition - Ruby case study](https://zverok.space/blog/2024-06-14-method-evolution.html)
 * [2024-06-14, 07:43:25](https://lobste.rs/s/houvg6/whistleblower_says_microsoft_dismissed) - [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
-* [2024-06-14, 04:43:05](https://lobste.rs/s/zmpjbi/using_1965_dutch_rotary_phone_via_voip_t65) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
 * [2024-06-14, 04:36:48](https://lobste.rs/s/1hny46/lynn_conway_has_died) - [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
 
 ## [Archives](archives/index.md)
