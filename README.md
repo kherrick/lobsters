@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 07:14:09](https://lobste.rs/s/63d7u3/one_line_fuzzy_find_for_git_worktree) - [One Line Fuzzy Find for Git Worktree](https://www.olafalders.com/2024/06/14/one-line-fuzzy-find-for-git-worktree/)
 * [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 * [2024-06-15, 06:48:50](https://lobste.rs/s/qko0aw/when_write_simulator) - [When To Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
@@ -9,7 +10,6 @@
 * [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
 * [2024-06-14, 17:53:49](https://lobste.rs/s/xg4drz/tragedy_systemd_2019) - [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
 * [2024-06-14, 17:44:23](https://lobste.rs/s/hywi1s/nextflow_emacs_workflow) - [Nextflow Emacs workflow](https://edmundmiller.dev/posts/emacs-nextflow/)
-* [2024-06-14, 17:05:22](https://lobste.rs/s/ksey7d/hooking_up_our_custom_os_standard_library) - [Hooking up our Custom OS to a Standard Library](https://blog.stephenmarz.com/2020/10/25/hooking-up-our-custom-os-to-a-standard-library/)
 * [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
 * [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
 * [2024-06-14, 13:59:46](https://lobste.rs/s/fdftpl/finding_55_year_old_bug_first_lunar_lander) - [Finding a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
