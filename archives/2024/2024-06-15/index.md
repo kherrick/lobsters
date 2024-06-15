@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 18:59:32](https://lobste.rs/s/hilbnd/docker_considered_harmful_2021) - [Docker Considered Harmful (2021)](https://catern.com/docker.html)
 * [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft_applied_cartography) - [Zero draft · Applied Cartography](https://jmduke.com/posts/microblog/zero-draft/)
 * [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft) - [Zero draft](https://jmduke.com/posts/microblog/zero-draft/)
 * [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)

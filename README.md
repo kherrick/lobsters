@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 18:59:32](https://lobste.rs/s/hilbnd/docker_considered_harmful_2021) - [Docker Considered Harmful (2021)](https://catern.com/docker.html)
 * [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft) - [Zero draft](https://jmduke.com/posts/microblog/zero-draft/)
 * [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 * [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
@@ -15,7 +16,6 @@
 * [2024-06-15, 01:27:48](https://lobste.rs/s/n7rya1/reverse_engineering_restaurant_pager) - [Reverse Engineering a Restaurant Pager system](https://k3xec.com/td158/)
 * [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
 * [2024-06-14, 17:53:49](https://lobste.rs/s/xg4drz/tragedy_systemd_2019) - [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
-* [2024-06-14, 17:44:23](https://lobste.rs/s/hywi1s/nextflow_emacs_workflow) - [Nextflow Emacs workflow](https://edmundmiller.dev/posts/emacs-nextflow/)
 * [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
 * [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
 * [2024-06-14, 13:48:26](https://lobste.rs/s/smmr5f/semantic_search_with_django_postgresql) - [Semantic search with Django, PostgreSQL, & pgvector](https://www.youtube.com/watch?v=4hl8LpDKRMw)
