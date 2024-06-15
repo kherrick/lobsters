@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
 * [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft_applied_cartography) - [Zero draft · Applied Cartography](https://jmduke.com/posts/microblog/zero-draft/)
+* [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft) - [Zero draft](https://jmduke.com/posts/microblog/zero-draft/)
 * [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 * [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-06-15, 13:46:20](https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
