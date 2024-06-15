@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 01:36:00](https://lobste.rs/s/wtpn00/developer_spotlight_dedalium_turn) - [Developer Spotlight: Dedalium — turn the entire web into an RPG game](https://blog.mozilla.org/addons/2024/06/13/developer-spotlight-dedalium-turn-the-entire-web-into-an-rpg-game/)
+* [2024-06-15, 01:27:48](https://lobste.rs/s/n7rya1/reverse_engineering_restaurant_pager) - [Reverse Engineering a Restaurant Pager system](https://k3xec.com/td158/)
 * [2024-06-15, 00:59:12](https://lobste.rs/s/jgjcfs/challenge_writing_on_demand_transcoder) - [The challenge of writing an on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
 * [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
 * [2024-06-14, 17:53:49](https://lobste.rs/s/xg4drz/tragedy_systemd_2019) - [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
@@ -22,8 +24,6 @@
 * [2024-06-13, 15:31:33](https://lobste.rs/s/xnsp3d/nix_as_webassembly_build_tool) - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/)
 * [2024-06-13, 15:19:27](https://lobste.rs/s/dj0ajk/announcing_rust_1_79_0) - [Announcing Rust 1.79.0](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
 * [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
-* [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
-* [2024-06-13, 05:51:25](https://lobste.rs/s/yopzc9/how_we_hacked_multi_billion_dollar) - [How We Hacked Multi-Billion Dollar Companies in 30 Minutes Using a Fake VSCode Extension](https://medium.com/@amitassaraf/the-story-of-extensiontotal-how-we-hacked-the-vscode-marketplace-5c6e66a0e9d7)
 * [2024-06-12, 19:38:28](https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please) - [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
 
 ## [Archives](archives/index.md)
