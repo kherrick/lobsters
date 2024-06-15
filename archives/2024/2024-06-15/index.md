@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 13:46:20](https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-06-15, 13:40:15](https://lobste.rs/s/ltzril/address_sanitizer_internals) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
 * [2024-06-15, 13:09:26](https://lobste.rs/s/s0grtf/entity_component_system_ecs_definition) - [Entity Component System (ECS) - Definition and Simple Implementation](https://www.youtube.com/watch?v=s6TMa33niJo)
 * [2024-06-15, 10:37:33](https://lobste.rs/s/vukafk/complex_analysis_visual_interactive) - [Complex Analysis - A Visual and Interactive Introduction](https://complex-analysis.com/)
