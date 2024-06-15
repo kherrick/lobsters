@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 00:59:12](https://lobste.rs/s/jgjcfs/challenge_writing_on_demand_transcoder) - [The challenge of writing an on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
 * [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
 * [2024-06-14, 17:53:49](https://lobste.rs/s/xg4drz/tragedy_systemd_2019) - [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
 * [2024-06-14, 17:44:23](https://lobste.rs/s/hywi1s/nextflow_emacs_workflow) - [Nextflow Emacs workflow](https://edmundmiller.dev/posts/emacs-nextflow/)
@@ -19,7 +20,6 @@
 * [2024-06-13, 20:37:41](https://lobste.rs/s/zjeasu/making_bignum_library_for_fun) - [Making a bignum library for fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-13, 18:38:53](https://lobste.rs/s/p30juy/why_swift_s_type_checker_is_slow) - [Why Swift's type checker is slow](https://danielchasehooper.com/posts/why-swift-is-slow/)
 * [2024-06-13, 15:31:33](https://lobste.rs/s/xnsp3d/nix_as_webassembly_build_tool) - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/)
-* [2024-06-13, 15:25:11](https://lobste.rs/s/q18f4k/development_environments_with_devenv_sh) - [Development Environments with devenv.sh](https://www.youtube.com/watch?v=unW1zk8terk&t=7s)
 * [2024-06-13, 15:19:27](https://lobste.rs/s/dj0ajk/announcing_rust_1_79_0) - [Announcing Rust 1.79.0](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
 * [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
 * [2024-06-13, 09:23:48](https://lobste.rs/s/cmslfp/how_fix_command_not_found) - [How to fix 'command not found: $'](https://mac.install.guide/terminal/command-not-found-$)
