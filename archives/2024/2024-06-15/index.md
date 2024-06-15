@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 23:23:59](https://lobste.rs/s/jh37sm/impulse_tracker_original_source_code_for) - [impulse-tracker: Original source code for Impulse Tracker, a music tracker for DOS](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 22:34:41](https://lobste.rs/s/qtfs74/simple_proofs_with_z3py) - [Simple proofs with Z3Py](https://www.philipzucker.com/more-stupid-z3py-tricks-simple-proofs/)
 * [2024-06-15, 21:43:54](https://lobste.rs/s/tgkpbb/fifty_years_diff) - [Fifty Years Of Diff](https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/)
 * [2024-06-15, 21:05:23](https://lobste.rs/s/p4bj9u/why_you_shouldn_t_parse_output_ls_1) - [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
