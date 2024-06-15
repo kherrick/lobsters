@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 21:43:54](https://lobste.rs/s/tgkpbb/fifty_years_diff) - [Fifty Years Of Diff](https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/)
 * [2024-06-15, 21:05:23](https://lobste.rs/s/p4bj9u/why_you_shouldn_t_parse_output_ls_1) - [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 * [2024-06-15, 20:42:14](https://lobste.rs/s/l3jg6w/bulk_unsubscribe_unsubscribe_from) - [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
 * [2024-06-15, 18:59:32](https://lobste.rs/s/hilbnd/docker_considered_harmful_2021) - [Docker Considered Harmful (2021)](https://catern.com/docker.html)
