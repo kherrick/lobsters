@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 13:09:26](https://lobste.rs/s/s0grtf/entity_component_system_ecs_definition) - [Entity Component System (ECS) - Definition and Simple Implementation](https://www.youtube.com/watch?v=s6TMa33niJo)
 * [2024-06-15, 10:37:33](https://lobste.rs/s/vukafk/complex_analysis_visual_interactive) - [Complex Analysis - A Visual and Interactive Introduction](https://complex-analysis.com/)
 * [2024-06-15, 08:41:14](https://lobste.rs/s/1phzpg/block_ai_training_on_web_site) - [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
 * [2024-06-15, 08:30:08](https://lobste.rs/s/40k6jg/django_sqlite_production_config) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
