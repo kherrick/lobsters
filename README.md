@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 * [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-06-15, 13:46:20](https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-06-15, 13:40:15](https://lobste.rs/s/ltzril/address_sanitizer_internals) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
@@ -17,7 +18,6 @@
 * [2024-06-14, 17:44:23](https://lobste.rs/s/hywi1s/nextflow_emacs_workflow) - [Nextflow Emacs workflow](https://edmundmiller.dev/posts/emacs-nextflow/)
 * [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
 * [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
-* [2024-06-14, 13:59:46](https://lobste.rs/s/fdftpl/finding_55_year_old_bug_first_lunar_lander) - [Finding a 55 year old bug in the first Lunar Lander game](https://martincmartin.com/2024/06/14/how-i-found-a-55-year-old-bug-in-the-first-lunar-lander-game/)
 * [2024-06-14, 13:48:26](https://lobste.rs/s/smmr5f/semantic_search_with_django_postgresql) - [Semantic search with Django, PostgreSQL, & pgvector](https://www.youtube.com/watch?v=4hl8LpDKRMw)
 * [2024-06-14, 13:45:50](https://lobste.rs/s/x0a5id/problem_with_opentelemetry) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 * [2024-06-14, 13:36:07](https://lobste.rs/s/ucnbqt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucnbqt/what_are_you_doing_this_weekend)
