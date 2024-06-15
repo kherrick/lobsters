@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 08:30:08](https://lobste.rs/s/40k6jg/django_sqlite_production_config) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
 * [2024-06-15, 07:14:09](https://lobste.rs/s/63d7u3/one_line_fuzzy_find_for_git_worktree) - [One Line Fuzzy Find for Git Worktree](https://www.olafalders.com/2024/06/14/one-line-fuzzy-find-for-git-worktree/)
 * [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
@@ -21,7 +22,6 @@
 * [2024-06-14, 07:43:25](https://lobste.rs/s/houvg6/whistleblower_says_microsoft_dismissed) - [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 * [2024-06-14, 04:43:05](https://lobste.rs/s/zmpjbi/using_1965_dutch_rotary_phone_via_voip_t65) - [Using a 1965 Dutch Rotary Phone via VoIP (T65) in 2024](https://raymii.org/s/blog/Using_a_1965_Dutch_Rotaty_Phone_T65_via_VoIP_in_2024.html)
 * [2024-06-14, 04:36:48](https://lobste.rs/s/1hny46/lynn_conway_has_died) - [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
-* [2024-06-14, 01:10:27](https://lobste.rs/s/fyjhg6/mlow_meta_s_low_bitrate_audio_codec) - [MLow: Meta’s low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 20:37:41](https://lobste.rs/s/zjeasu/making_bignum_library_for_fun) - [Making a bignum library for fun](https://austinhenley.com/blog/bignum1.html)
 * [2024-06-13, 15:19:27](https://lobste.rs/s/dj0ajk/announcing_rust_1_79_0) - [Announcing Rust 1.79.0](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
 * [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
