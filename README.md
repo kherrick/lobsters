@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft_applied_cartography) - [Zero draft · Applied Cartography](https://jmduke.com/posts/microblog/zero-draft/)
 * [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 * [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-06-15, 13:46:20](https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
@@ -8,7 +9,6 @@
 * [2024-06-15, 10:37:33](https://lobste.rs/s/vukafk/complex_analysis_visual_interactive) - [Complex Analysis - A Visual and Interactive Introduction](https://complex-analysis.com/)
 * [2024-06-15, 08:41:14](https://lobste.rs/s/1phzpg/block_ai_training_on_web_site) - [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
 * [2024-06-15, 08:30:08](https://lobste.rs/s/40k6jg/django_sqlite_production_config) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
-* [2024-06-15, 07:14:09](https://lobste.rs/s/63d7u3/one_line_fuzzy_find_for_git_worktree) - [One Line Fuzzy Find for Git Worktree](https://www.olafalders.com/2024/06/14/one-line-fuzzy-find-for-git-worktree/)
 * [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 * [2024-06-15, 06:48:50](https://lobste.rs/s/qko0aw/when_write_simulator) - [When To Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
