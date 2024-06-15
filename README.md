@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 20:42:14](https://lobste.rs/s/l3jg6w/bulk_unsubscribe_unsubscribe_from) - [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
 * [2024-06-15, 18:59:32](https://lobste.rs/s/hilbnd/docker_considered_harmful_2021) - [Docker Considered Harmful (2021)](https://catern.com/docker.html)
 * [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft) - [Zero draft](https://jmduke.com/posts/microblog/zero-draft/)
 * [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
@@ -22,7 +23,6 @@
 * [2024-06-14, 13:45:50](https://lobste.rs/s/x0a5id/problem_with_opentelemetry) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 * [2024-06-14, 13:36:07](https://lobste.rs/s/ucnbqt/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ucnbqt/what_are_you_doing_this_weekend)
 * [2024-06-14, 13:23:31](https://lobste.rs/s/jgtmfm/never_sometimes_always) - [Never, Sometimes, Always](https://lukeplant.me.uk/blog/posts/never-sometimes-always/)
-* [2024-06-14, 11:00:00](https://lobste.rs/s/cayv8q/design_decisions_evolution_method) - [The design decisions and evolution of a method definition - Ruby case study](https://zverok.space/blog/2024-06-14-method-evolution.html)
 * [2024-06-14, 07:43:25](https://lobste.rs/s/houvg6/whistleblower_says_microsoft_dismissed) - [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 * [2024-06-14, 04:36:48](https://lobste.rs/s/1hny46/lynn_conway_has_died) - [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 20:42:14](https://lobste.rs/s/l3jg6w/bulk_unsubscribe_unsubscribe_from) - [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
 * [2024-06-15, 18:59:32](https://lobste.rs/s/hilbnd/docker_considered_harmful_2021) - [Docker Considered Harmful (2021)](https://catern.com/docker.html)
 * [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft_applied_cartography) - [Zero draft · Applied Cartography](https://jmduke.com/posts/microblog/zero-draft/)
 * [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft) - [Zero draft](https://jmduke.com/posts/microblog/zero-draft/)
