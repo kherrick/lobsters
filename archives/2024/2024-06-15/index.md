@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-15](index.md)
 
+* [2024-06-15, 08:41:14](https://lobste.rs/s/1phzpg/block_ai_training_on_web_site) - [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
 * [2024-06-15, 08:30:08](https://lobste.rs/s/40k6jg/django_sqlite_production_config) - [Django SQLite Production Config](https://blog.pecar.me/sqlite-django-config)
 * [2024-06-15, 07:14:09](https://lobste.rs/s/63d7u3/one_line_fuzzy_find_for_git_worktree) - [One Line Fuzzy Find for Git Worktree](https://www.olafalders.com/2024/06/14/one-line-fuzzy-find-for-git-worktree/)
 * [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
