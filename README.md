@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
+* [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
+* [2024-06-15, 06:48:50](https://lobste.rs/s/qko0aw/when_write_simulator) - [When To Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
 * [2024-06-15, 01:36:00](https://lobste.rs/s/wtpn00/developer_spotlight_dedalium_turn) - [Developer Spotlight: Dedalium — turn the entire web into an RPG game](https://blog.mozilla.org/addons/2024/06/13/developer-spotlight-dedalium-turn-the-entire-web-into-an-rpg-game/)
 * [2024-06-15, 01:27:48](https://lobste.rs/s/n7rya1/reverse_engineering_restaurant_pager) - [Reverse Engineering a Restaurant Pager system](https://k3xec.com/td158/)
 * [2024-06-15, 00:59:12](https://lobste.rs/s/jgjcfs/challenge_writing_on_demand_transcoder) - [The challenge of writing an on-demand transcoder](https://zoriya.dev/blogs/transcoder/)
@@ -20,11 +23,8 @@
 * [2024-06-14, 04:36:48](https://lobste.rs/s/1hny46/lynn_conway_has_died) - [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
 * [2024-06-14, 01:10:27](https://lobste.rs/s/fyjhg6/mlow_meta_s_low_bitrate_audio_codec) - [MLow: Meta’s low bitrate audio codec](https://engineering.fb.com/2024/06/13/web/mlow-metas-low-bitrate-audio-codec/)
 * [2024-06-13, 20:37:41](https://lobste.rs/s/zjeasu/making_bignum_library_for_fun) - [Making a bignum library for fun](https://austinhenley.com/blog/bignum1.html)
-* [2024-06-13, 18:38:53](https://lobste.rs/s/p30juy/why_swift_s_type_checker_is_slow) - [Why Swift's type checker is slow](https://danielchasehooper.com/posts/why-swift-is-slow/)
-* [2024-06-13, 15:31:33](https://lobste.rs/s/xnsp3d/nix_as_webassembly_build_tool) - [Nix as a WebAssembly build tool](https://determinate.systems/posts/nix-wasm/)
 * [2024-06-13, 15:19:27](https://lobste.rs/s/dj0ajk/announcing_rust_1_79_0) - [Announcing Rust 1.79.0](https://blog.rust-lang.org/2024/06/13/Rust-1.79.0.html)
 * [2024-06-13, 15:03:04](https://lobste.rs/s/4jtph2/why_not_just_embed_neovim_zed) - [Why not just embed Neovim in Zed?](https://zed.dev/blog/zed-decoded-vim)
-* [2024-06-12, 19:38:28](https://lobste.rs/s/qpzubc/don_t_refactor_like_uncle_bob_please) - [Don’t Refactor Like Uncle Bob. Please](https://theaxolot.wordpress.com/2024/05/08/dont-refactor-like-uncle-bob-please/)
 
 ## [Archives](archives/index.md)
 
