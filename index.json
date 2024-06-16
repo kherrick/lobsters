@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2024-06-15, 18:59:32",
-      "https://lobste.rs/s/hilbnd/docker_considered_harmful_2021"
-    ],
-    [
-      "Docker Considered Harmful (2021)",
-      "https://catern.com/docker.html"
-    ]
-  ],
-  [
-    [
       "2024-06-15, 15:05:24",
       "https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment"
     ],
@@ -207,6 +197,16 @@
     [
       "systemd, 10 years later (2020)",
       "https://blog.darknedgy.net/technology/2020/05/02/0/"
+    ]
+  ],
+  [
+    [
+      "2024-06-15, 13:46:20",
+      "https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for"
+    ],
+    [
+      "Spending too much time optimizing for loops",
+      "https://octavelarose.github.io/2024/05/29/to-do-inlining.html"
     ]
   ],
   [
