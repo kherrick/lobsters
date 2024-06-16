@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 07:24:05](https://lobste.rs/s/pudeaf/excerpts_from_coders_at_work_joe) - [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:29:33](https://lobste.rs/s/heuf05/reconstructing_public_keys_from) - [Reconstructing public keys from signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
 * [2024-06-16, 06:17:25](https://lobste.rs/s/lzpyuh/how_i_got_new_domain_name) - [How I got a new domain name](https://frederikbraun.de/new-domain.html)
 * [2024-06-16, 06:04:55](https://lobste.rs/s/vx6zw8/usearch_single_file_similarity_search) - [USearch: Single-File Similarity Search Engine](https://github.com/unum-cloud/usearch)
@@ -20,7 +21,6 @@
 * [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 * [2024-06-15, 06:48:50](https://lobste.rs/s/qko0aw/when_write_simulator) - [When To Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
 * [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
-* [2024-06-14, 17:53:49](https://lobste.rs/s/xg4drz/tragedy_systemd_2019) - [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
 * [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
 * [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
 * [2024-06-14, 13:45:50](https://lobste.rs/s/x0a5id/problem_with_opentelemetry) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
