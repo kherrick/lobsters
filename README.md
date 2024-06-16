@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 12:00:46](https://lobste.rs/s/swtqyu/networking_switch_murex_robotics) - [Networking Switch – MUREX Robotics Documentation (Tiny Opensource Switch)](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 09:23:58](https://lobste.rs/s/yp84nn/nvidia_releases_open_synthetic_data) - [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-16, 07:24:05](https://lobste.rs/s/pudeaf/excerpts_from_coders_at_work_joe) - [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
@@ -17,7 +18,6 @@
 * [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-06-15, 13:46:20](https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-06-15, 13:40:15](https://lobste.rs/s/ltzril/address_sanitizer_internals) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
-* [2024-06-15, 10:37:33](https://lobste.rs/s/vukafk/complex_analysis_visual_interactive) - [Complex Analysis - A Visual and Interactive Introduction](https://complex-analysis.com/)
 * [2024-06-15, 08:41:14](https://lobste.rs/s/1phzpg/block_ai_training_on_web_site) - [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
 * [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
