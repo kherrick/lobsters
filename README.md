@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 09:23:58](https://lobste.rs/s/yp84nn/nvidia_releases_open_synthetic_data) - [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-16, 07:24:05](https://lobste.rs/s/pudeaf/excerpts_from_coders_at_work_joe) - [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:29:33](https://lobste.rs/s/heuf05/reconstructing_public_keys_from) - [Reconstructing public keys from signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
@@ -20,7 +21,6 @@
 * [2024-06-15, 08:41:14](https://lobste.rs/s/1phzpg/block_ai_training_on_web_site) - [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
 * [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
-* [2024-06-15, 06:48:50](https://lobste.rs/s/qko0aw/when_write_simulator) - [When To Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
 * [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
 * [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
 * [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 09:23:58](https://lobste.rs/s/yp84nn/nvidia_releases_open_synthetic_data) - [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-16, 07:24:05](https://lobste.rs/s/pudeaf/excerpts_from_coders_at_work_joe) - [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:29:33](https://lobste.rs/s/heuf05/reconstructing_public_keys_from) - [Reconstructing public keys from signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
