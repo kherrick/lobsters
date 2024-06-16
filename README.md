@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 06:29:33](https://lobste.rs/s/heuf05/reconstructing_public_keys_from) - [Reconstructing public keys from signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
+* [2024-06-16, 06:17:25](https://lobste.rs/s/lzpyuh/how_i_got_new_domain_name) - [How I got a new domain name](https://frederikbraun.de/new-domain.html)
 * [2024-06-16, 06:04:55](https://lobste.rs/s/vx6zw8/usearch_single_file_similarity_search) - [USearch: Single-File Similarity Search Engine](https://github.com/unum-cloud/usearch)
 * [2024-06-15, 23:23:59](https://lobste.rs/s/jh37sm/impulse_tracker_original_source_code_for) - [impulse-tracker: Original source code for Impulse Tracker, a music tracker for DOS](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 22:34:41](https://lobste.rs/s/qtfs74/simple_proofs_with_z3py) - [Simple proofs with Z3Py](https://www.philipzucker.com/more-stupid-z3py-tricks-simple-proofs/)
@@ -17,14 +19,12 @@
 * [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
 * [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 * [2024-06-15, 06:48:50](https://lobste.rs/s/qko0aw/when_write_simulator) - [When To Write a Simulator](https://sirupsen.com/napkin/problem-16-simulation)
-* [2024-06-15, 01:27:48](https://lobste.rs/s/n7rya1/reverse_engineering_restaurant_pager) - [Reverse Engineering a Restaurant Pager system](https://k3xec.com/td158/)
 * [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
 * [2024-06-14, 17:53:49](https://lobste.rs/s/xg4drz/tragedy_systemd_2019) - [The Tragedy of systemd (2019)](https://www.youtube.com/watch?v=o_AIw9bGogo)
 * [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
 * [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
 * [2024-06-14, 13:45:50](https://lobste.rs/s/x0a5id/problem_with_opentelemetry) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
 * [2024-06-14, 07:43:25](https://lobste.rs/s/houvg6/whistleblower_says_microsoft_dismissed) - [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
-* [2024-06-14, 04:36:48](https://lobste.rs/s/1hny46/lynn_conway_has_died) - [Lynn Conway has died](https://news.engin.umich.edu/2024/06/the-legacy-of-lynn-conway-chip-design-pioneer-and-transgender-rights-advocate/)
 
 ## [Archives](archives/index.md)
 
