@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-16, 23:38:33",
+      "https://lobste.rs/s/mhpxgi/constant_integer_type_declarations"
+    ],
+    [
+      "Constant Integer Type Declarations Initialized With Constant Expressions Should Be Constants",
+      "https://thephd.dev/constant-integers-are-actually-constant-wow-finally-someones-writing-the-goddamn-paper-%F0%9F%99%84"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 22:44:44",
       "https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google"
     ],
@@ -127,16 +137,6 @@
     [
       "Packaging Swift apps for Alpine Linux",
       "https://mko.re/blog/swift-alpine-packaging/"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 14:33:39",
-      "https://lobste.rs/s/zeeruw/finding_out_where_syscalls_are_called"
-    ],
-    [
-      "Finding out where Syscalls are Called From: Stack Traces with Strace",
-      "https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/"
     ]
   ],
   [
