@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-16, 20:54:46",
+      "https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks"
+    ],
+    [
+      "Scoped Tagging of Bookmarks",
+      "https://joshleeb.com/posts/scoped-tagging.html"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 20:43:56",
       "https://lobste.rs/s/uzuifi/cleaner_parallel_curves_with_euler"
     ],
@@ -237,16 +247,6 @@
     [
       "Joining Strings in Python: A \"Huh\" Moment",
       "https://berglyd.net/blog/2024/06/joining-strings-in-python/"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 14:03:05",
-      "https://lobste.rs/s/osghxg/systemd_10_years_later_2020"
-    ],
-    [
-      "systemd, 10 years later (2020)",
-      "https://blog.darknedgy.net/technology/2020/05/02/0/"
     ]
   ]
 ]
