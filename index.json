@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-16, 09:23:58",
+      "https://lobste.rs/s/yp84nn/nvidia_releases_open_synthetic_data"
+    ],
+    [
+      "NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models",
+      "https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 07:24:05",
       "https://lobste.rs/s/pudeaf/excerpts_from_coders_at_work_joe"
     ],
@@ -237,16 +247,6 @@
     [
       "The Problem with OpenTelemetry",
       "https://cra.mr/the-problem-with-otel/"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 07:43:25",
-      "https://lobste.rs/s/houvg6/whistleblower_says_microsoft_dismissed"
-    ],
-    [
-      "Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government",
-      "https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers"
     ]
   ]
 ]
