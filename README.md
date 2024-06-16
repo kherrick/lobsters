@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 14:33:39](https://lobste.rs/s/zeeruw/finding_out_where_syscalls_are_called) - [Finding out where Syscalls are Called From: Stack Traces with Strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-16, 13:43:46](https://lobste.rs/s/3fdsrn/listening_your_friends_jams_with_last_fm) - [listening to your friends' jams with last.fm](https://rjbs.cloud/blog/2024/06/lastfm-friendo/)
 * [2024-06-16, 12:00:46](https://lobste.rs/s/swtqyu/networking_switch_murex_robotics) - [Networking Switch – MUREX Robotics Documentation (Tiny Opensource Switch)](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
@@ -14,7 +15,6 @@
 * [2024-06-15, 21:05:23](https://lobste.rs/s/p4bj9u/why_you_shouldn_t_parse_output_ls_1) - [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 * [2024-06-15, 20:42:14](https://lobste.rs/s/l3jg6w/bulk_unsubscribe_unsubscribe_from) - [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
 * [2024-06-15, 18:59:32](https://lobste.rs/s/hilbnd/docker_considered_harmful_2021) - [Docker Considered Harmful (2021)](https://catern.com/docker.html)
-* [2024-06-15, 15:58:01](https://lobste.rs/s/muuj8g/zero_draft) - [Zero draft](https://jmduke.com/posts/microblog/zero-draft/)
 * [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 * [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-06-15, 13:46:20](https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 14:33:39](https://lobste.rs/s/zeeruw/finding_out_where_syscalls_are_called) - [Finding out where Syscalls are Called From: Stack Traces with Strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-16, 13:43:46](https://lobste.rs/s/3fdsrn/listening_your_friends_jams_with_last_fm) - [listening to your friends' jams with last.fm](https://rjbs.cloud/blog/2024/06/lastfm-friendo/)
 * [2024-06-16, 12:00:46](https://lobste.rs/s/swtqyu/networking_switch_murex_robotics) - [Networking Switch – MUREX Robotics Documentation (Tiny Opensource Switch)](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
