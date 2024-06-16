@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 06:04:55](https://lobste.rs/s/vx6zw8/usearch_single_file_similarity_search) - [USearch: Single-File Similarity Search Engine](https://github.com/unum-cloud/usearch)
 * [2024-06-15, 23:23:59](https://lobste.rs/s/jh37sm/impulse_tracker_original_source_code_for) - [impulse-tracker: Original source code for Impulse Tracker, a music tracker for DOS](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 22:34:41](https://lobste.rs/s/qtfs74/simple_proofs_with_z3py) - [Simple proofs with Z3Py](https://www.philipzucker.com/more-stupid-z3py-tricks-simple-proofs/)
 * [2024-06-15, 21:43:54](https://lobste.rs/s/tgkpbb/fifty_years_diff) - [Fifty Years Of Diff](https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/)
@@ -11,7 +12,6 @@
 * [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 * [2024-06-15, 13:46:20](https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for) - [Spending too much time optimizing for loops](https://octavelarose.github.io/2024/05/29/to-do-inlining.html)
 * [2024-06-15, 13:40:15](https://lobste.rs/s/ltzril/address_sanitizer_internals) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
-* [2024-06-15, 13:09:26](https://lobste.rs/s/s0grtf/entity_component_system_ecs_definition) - [Entity Component System (ECS) - Definition and Simple Implementation](https://www.youtube.com/watch?v=s6TMa33niJo)
 * [2024-06-15, 10:37:33](https://lobste.rs/s/vukafk/complex_analysis_visual_interactive) - [Complex Analysis - A Visual and Interactive Introduction](https://complex-analysis.com/)
 * [2024-06-15, 08:41:14](https://lobste.rs/s/1phzpg/block_ai_training_on_web_site) - [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
 * [2024-06-15, 06:50:34](https://lobste.rs/s/vfi8mg/printing_music_with_css_grid) - [Printing music with CSS grid](https://cruncher.ch/blog/printing-music-with-css-grid/)
