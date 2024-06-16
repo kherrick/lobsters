@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 23:38:33](https://lobste.rs/s/mhpxgi/constant_integer_type_declarations) - [Constant Integer Type Declarations Initialized With Constant Expressions Should Be Constants](https://thephd.dev/constant-integers-are-actually-constant-wow-finally-someones-writing-the-goddamn-paper-%F0%9F%99%84)
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-16, 22:41:26](https://lobste.rs/s/ijnysu/producer_tool_for_translating_smalltalk) - [Producer: A tool for translating Smalltalk-80 to Objective-C (1987)](https://dl.acm.org/doi/pdf/10.1145/38807.38846)
 * [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
@@ -13,7 +14,6 @@
 * [2024-06-16, 17:11:50](https://lobste.rs/s/2iqlcb/numpy_2_0_0_release) - [NumPy 2.0.0 Release](https://github.com/numpy/numpy/releases/tag/v2.0.0)
 * [2024-06-16, 16:22:03](https://lobste.rs/s/a5pj7w/make_your_qemu_9p_server_10_times_faster) - [Make your QEMU 9p server 10 times faster with this one weird trick](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
 * [2024-06-16, 15:57:59](https://lobste.rs/s/q1fjiu/packaging_swift_apps_for_alpine_linux) - [Packaging Swift apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
-* [2024-06-16, 14:33:39](https://lobste.rs/s/zeeruw/finding_out_where_syscalls_are_called) - [Finding out where Syscalls are Called From: Stack Traces with Strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-16, 13:43:46](https://lobste.rs/s/3fdsrn/listening_your_friends_jams_with_last_fm) - [listening to your friends' jams with last.fm](https://rjbs.cloud/blog/2024/06/lastfm-friendo/)
 * [2024-06-16, 12:00:46](https://lobste.rs/s/swtqyu/networking_switch_murex_robotics) - [Networking Switch – MUREX Robotics Documentation (Tiny Opensource Switch)](https://docs.murexrobotics.com/elec/boards/networking/switch)
 * [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
