@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 15:57:59](https://lobste.rs/s/q1fjiu/packaging_swift_apps_for_alpine_linux) - [Packaging Swift apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
 * [2024-06-16, 14:33:39](https://lobste.rs/s/zeeruw/finding_out_where_syscalls_are_called) - [Finding out where Syscalls are Called From: Stack Traces with Strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
 * [2024-06-16, 13:43:46](https://lobste.rs/s/3fdsrn/listening_your_friends_jams_with_last_fm) - [listening to your friends' jams with last.fm](https://rjbs.cloud/blog/2024/06/lastfm-friendo/)
 * [2024-06-16, 12:00:46](https://lobste.rs/s/swtqyu/networking_switch_murex_robotics) - [Networking Switch – MUREX Robotics Documentation (Tiny Opensource Switch)](https://docs.murexrobotics.com/elec/boards/networking/switch)
@@ -24,7 +25,6 @@
 * [2024-06-15, 06:49:49](https://lobste.rs/s/iefspl/notes_on_implementing_dark_mode) - [Notes on implementing dark mode](https://brandur.org/fragments/dark-mode-notes)
 * [2024-06-14, 18:21:17](https://lobste.rs/s/qeqgiq/why_yaak_is_not_open_source) - [Why Yaak is not open source](https://yaak.app/blog/why-not-open-source)
 * [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
-* [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
 
 ## [Archives](archives/index.md)
 
