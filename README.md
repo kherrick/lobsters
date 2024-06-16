@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 20:43:56](https://lobste.rs/s/uzuifi/cleaner_parallel_curves_with_euler) - [Cleaner parallel curves with Euler spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
+* [2024-06-16, 20:43:25](https://lobste.rs/s/8hhmja/binary_fuse_filters_fast_smaller_than_xor) - [Binary Fuse Filters: Fast and Smaller Than Xor Filters](https://arxiv.org/abs/2201.01174)
 * [2024-06-16, 19:00:11](https://lobste.rs/s/qp7idv/easy_way_find_other_developers_at_tech) - [Easy way to find other developers at Tech Conferences and on Mastodon](https://fedidevs.com/)
 * [2024-06-16, 18:28:58](https://lobste.rs/s/etd6us/pair_programming_ubuntu_way) - [Pair Programming: The Ubuntu Way](https://ubuntu.com//blog/pair-programming)
 * [2024-06-16, 17:44:03](https://lobste.rs/s/qvz53x/alga_cli_for_remote_controlling_lg_webos) - [alga: CLI for remote controlling LG webOS TVs](https://github.com/Tenzer/alga)
@@ -23,8 +25,6 @@
 * [2024-06-15, 20:42:14](https://lobste.rs/s/l3jg6w/bulk_unsubscribe_unsubscribe_from) - [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
 * [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
 * [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
-* [2024-06-15, 13:40:15](https://lobste.rs/s/ltzril/address_sanitizer_internals) - [Address Sanitizer Internals](https://blog.gistre.epita.fr/posts/benjamin.peter-2022-10-28-address_sanitizer_internals/)
-* [2024-06-15, 08:41:14](https://lobste.rs/s/1phzpg/block_ai_training_on_web_site) - [Block AI training on a web site](https://blog.zgp.org/block-ai-training-on-a-web-site/)
 
 ## [Archives](archives/index.md)
 
