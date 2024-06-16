@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 09:23:58](https://lobste.rs/s/yp84nn/nvidia_releases_open_synthetic_data) - [NVIDIA Releases Open Synthetic Data Generation Pipeline for Training Large Language Models](https://blogs.nvidia.com/blog/nemotron-4-synthetic-data-generation-llm-training/)
 * [2024-06-16, 07:24:05](https://lobste.rs/s/pudeaf/excerpts_from_coders_at_work_joe) - [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:29:33](https://lobste.rs/s/heuf05/reconstructing_public_keys_from) - [Reconstructing public keys from signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
 * [2024-06-16, 06:17:25](https://lobste.rs/s/lzpyuh/how_i_got_new_domain_name) - [How I got a new domain name](https://frederikbraun.de/new-domain.html)
@@ -24,7 +25,6 @@
 * [2024-06-14, 16:29:44](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work) - [What Git Forge Would You Choose for Work?](https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work)
 * [2024-06-14, 15:42:48](https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust) - [Why I am not yet ready to switch to Zig from Rust](https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060)
 * [2024-06-14, 13:45:50](https://lobste.rs/s/x0a5id/problem_with_opentelemetry) - [The Problem with OpenTelemetry](https://cra.mr/the-problem-with-otel/)
-* [2024-06-14, 07:43:25](https://lobste.rs/s/houvg6/whistleblower_says_microsoft_dismissed) - [Whistleblower Says Microsoft Dismissed Warnings About a Security Flaw That Russians Later Used to Hack U.S. Government](https://www.propublica.org/article/microsoft-solarwinds-golden-saml-data-breach-russian-hackers)
 
 ## [Archives](archives/index.md)
 
