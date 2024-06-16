@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 20:54:46](https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks) - [Scoped Tagging of Bookmarks](https://joshleeb.com/posts/scoped-tagging.html)
 * [2024-06-16, 20:43:56](https://lobste.rs/s/uzuifi/cleaner_parallel_curves_with_euler) - [Cleaner parallel curves with Euler spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
 * [2024-06-16, 20:43:25](https://lobste.rs/s/8hhmja/binary_fuse_filters_fast_smaller_than_xor) - [Binary Fuse Filters: Fast and Smaller Than Xor Filters](https://arxiv.org/abs/2201.01174)
 * [2024-06-16, 19:00:11](https://lobste.rs/s/qp7idv/easy_way_find_other_developers_at_tech) - [Easy way to find other developers at Tech Conferences and on Mastodon](https://fedidevs.com/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 20:54:46](https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks) - [Scoped Tagging of Bookmarks](https://joshleeb.com/posts/scoped-tagging.html)
 * [2024-06-16, 20:43:56](https://lobste.rs/s/uzuifi/cleaner_parallel_curves_with_euler) - [Cleaner parallel curves with Euler spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
 * [2024-06-16, 20:43:25](https://lobste.rs/s/8hhmja/binary_fuse_filters_fast_smaller_than_xor) - [Binary Fuse Filters: Fast and Smaller Than Xor Filters](https://arxiv.org/abs/2201.01174)
 * [2024-06-16, 19:00:11](https://lobste.rs/s/qp7idv/easy_way_find_other_developers_at_tech) - [Easy way to find other developers at Tech Conferences and on Mastodon](https://fedidevs.com/)
@@ -24,7 +25,6 @@
 * [2024-06-15, 21:05:23](https://lobste.rs/s/p4bj9u/why_you_shouldn_t_parse_output_ls_1) - [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 * [2024-06-15, 20:42:14](https://lobste.rs/s/l3jg6w/bulk_unsubscribe_unsubscribe_from) - [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
 * [2024-06-15, 15:05:24](https://lobste.rs/s/exwu7t/joining_strings_python_huh_moment) - [Joining Strings in Python: A \"Huh\" Moment](https://berglyd.net/blog/2024/06/joining-strings-in-python/)
-* [2024-06-15, 14:03:05](https://lobste.rs/s/osghxg/systemd_10_years_later_2020) - [systemd, 10 years later (2020)](https://blog.darknedgy.net/technology/2020/05/02/0/)
 
 ## [Archives](archives/index.md)
 
