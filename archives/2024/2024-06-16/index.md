@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
+* [2024-06-16, 22:41:26](https://lobste.rs/s/ijnysu/producer_tool_for_translating_smalltalk) - [Producer: A tool for translating Smalltalk-80 to Objective-C (1987)](https://dl.acm.org/doi/pdf/10.1145/38807.38846)
 * [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 20:54:46](https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks) - [Scoped Tagging of Bookmarks](https://joshleeb.com/posts/scoped-tagging.html)
 * [2024-06-16, 20:43:56](https://lobste.rs/s/uzuifi/cleaner_parallel_curves_with_euler) - [Cleaner parallel curves with Euler spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
