@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 20:54:46](https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks) - [Scoped Tagging of Bookmarks](https://joshleeb.com/posts/scoped-tagging.html)
 * [2024-06-16, 20:43:56](https://lobste.rs/s/uzuifi/cleaner_parallel_curves_with_euler) - [Cleaner parallel curves with Euler spirals](https://raphlinus.github.io/curves/2021/02/19/parallel-curves.html)
 * [2024-06-16, 20:43:25](https://lobste.rs/s/8hhmja/binary_fuse_filters_fast_smaller_than_xor) - [Binary Fuse Filters: Fast and Smaller Than Xor Filters](https://arxiv.org/abs/2201.01174)
@@ -9,7 +10,6 @@
 * [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 17:11:50](https://lobste.rs/s/2iqlcb/numpy_2_0_0_release) - [NumPy 2.0.0 Release](https://github.com/numpy/numpy/releases/tag/v2.0.0)
 * [2024-06-16, 16:43:12](https://lobste.rs/s/obujkf/announcing_deck_gl_v9_webgpu_ready_with) - [Announcing Deck.gl v9: WebGPU ready & with TypeScript support](https://carto.com/blog/announcing-deck-gl-v9-webgpu-ready-with-typescript-support)
-* [2024-06-16, 16:24:33](https://lobste.rs/s/xm6fbj/mull_practical_mutation_testing_fault) - [mull: Practical mutation testing and fault injection for C and C++](https://github.com/mull-project/mull)
 * [2024-06-16, 16:22:03](https://lobste.rs/s/a5pj7w/make_your_qemu_9p_server_10_times_faster) - [Make your QEMU 9p server 10 times faster with this one weird trick](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
 * [2024-06-16, 15:57:59](https://lobste.rs/s/q1fjiu/packaging_swift_apps_for_alpine_linux) - [Packaging Swift apps for Alpine Linux](https://mko.re/blog/swift-alpine-packaging/)
 * [2024-06-16, 14:33:39](https://lobste.rs/s/zeeruw/finding_out_where_syscalls_are_called) - [Finding out where Syscalls are Called From: Stack Traces with Strace](https://abstractexpr.com/2024/06/08/finding-out-where-syscalls-are-called-from-stack-traces-with-strace/)
