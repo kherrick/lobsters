@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-16](index.md)
 
+* [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 17:11:50](https://lobste.rs/s/2iqlcb/numpy_2_0_0_release) - [NumPy 2.0.0 Release](https://github.com/numpy/numpy/releases/tag/v2.0.0)
 * [2024-06-16, 16:43:12](https://lobste.rs/s/obujkf/announcing_deck_gl_v9_webgpu_ready_with) - [Announcing Deck.gl v9: WebGPU ready & with TypeScript support](https://carto.com/blog/announcing-deck-gl-v9-webgpu-ready-with-typescript-support)
 * [2024-06-16, 16:24:33](https://lobste.rs/s/xm6fbj/mull_practical_mutation_testing_fault) - [mull: Practical mutation testing and fault injection for C and C++](https://github.com/mull-project/mull)

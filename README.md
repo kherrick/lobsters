@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 17:11:50](https://lobste.rs/s/2iqlcb/numpy_2_0_0_release) - [NumPy 2.0.0 Release](https://github.com/numpy/numpy/releases/tag/v2.0.0)
 * [2024-06-16, 16:43:12](https://lobste.rs/s/obujkf/announcing_deck_gl_v9_webgpu_ready_with) - [Announcing Deck.gl v9: WebGPU ready & with TypeScript support](https://carto.com/blog/announcing-deck-gl-v9-webgpu-ready-with-typescript-support)
 * [2024-06-16, 16:24:33](https://lobste.rs/s/xm6fbj/mull_practical_mutation_testing_fault) - [mull: Practical mutation testing and fault injection for C and C++](https://github.com/mull-project/mull)
@@ -13,7 +14,6 @@
 * [2024-06-16, 07:24:05](https://lobste.rs/s/pudeaf/excerpts_from_coders_at_work_joe) - [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:29:33](https://lobste.rs/s/heuf05/reconstructing_public_keys_from) - [Reconstructing public keys from signatures](https://keymaterial.net/2024/06/15/reconstructing-public-keys-from-signatures/)
 * [2024-06-16, 06:17:25](https://lobste.rs/s/lzpyuh/how_i_got_new_domain_name) - [How I got a new domain name](https://frederikbraun.de/new-domain.html)
-* [2024-06-16, 06:04:55](https://lobste.rs/s/vx6zw8/usearch_single_file_similarity_search) - [USearch: Single-File Similarity Search Engine](https://github.com/unum-cloud/usearch)
 * [2024-06-15, 23:23:59](https://lobste.rs/s/jh37sm/impulse_tracker_original_source_code_for) - [impulse-tracker: Original source code for Impulse Tracker, a music tracker for DOS](https://github.com/jthlim/impulse-tracker)
 * [2024-06-15, 22:34:41](https://lobste.rs/s/qtfs74/simple_proofs_with_z3py) - [Simple proofs with Z3Py](https://www.philipzucker.com/more-stupid-z3py-tricks-simple-proofs/)
 * [2024-06-15, 21:43:54](https://lobste.rs/s/tgkpbb/fifty_years_diff) - [Fifty Years Of Diff](https://exple.tive.org/blarg/2024/06/14/fifty-years-of-diff-and-merge/)
