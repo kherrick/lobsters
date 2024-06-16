@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-16, 15:57:59",
+      "https://lobste.rs/s/q1fjiu/packaging_swift_apps_for_alpine_linux"
+    ],
+    [
+      "Packaging Swift apps for Alpine Linux",
+      "https://mko.re/blog/swift-alpine-packaging/"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 14:33:39",
       "https://lobste.rs/s/zeeruw/finding_out_where_syscalls_are_called"
     ],
@@ -237,16 +247,6 @@
     [
       "What Git Forge Would You Choose for Work?",
       "https://lobste.rs/s/yaxxtx/what_git_forge_would_you_choose_for_work"
-    ]
-  ],
-  [
-    [
-      "2024-06-14, 15:42:48",
-      "https://lobste.rs/s/0mnhdx/why_i_am_not_yet_ready_switch_zig_from_rust"
-    ],
-    [
-      "Why I am not yet ready to switch to Zig from Rust",
-      "https://medium.com/@penberg/why-i-am-not-yet-ready-to-switch-to-zig-from-rust-3660e02f0060"
     ]
   ]
 ]
