@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-16, 16:43:12",
+      "https://lobste.rs/s/obujkf/announcing_deck_gl_v9_webgpu_ready_with"
+    ],
+    [
+      "Announcing Deck.gl v9: WebGPU ready & with TypeScript support",
+      "https://carto.com/blog/announcing-deck-gl-v9-webgpu-ready-with-typescript-support"
+    ]
+  ],
+  [
+    [
       "2024-06-16, 16:24:33",
       "https://lobste.rs/s/xm6fbj/mull_practical_mutation_testing_fault"
     ],
@@ -197,16 +207,6 @@
     [
       "systemd, 10 years later (2020)",
       "https://blog.darknedgy.net/technology/2020/05/02/0/"
-    ]
-  ],
-  [
-    [
-      "2024-06-15, 13:46:20",
-      "https://lobste.rs/s/zucma3/spending_too_much_time_optimizing_for"
-    ],
-    [
-      "Spending too much time optimizing for loops",
-      "https://octavelarose.github.io/2024/05/29/to-do-inlining.html"
     ]
   ],
   [
