@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-17, 23:41:30",
+      "https://lobste.rs/s/iawnnh/understanding_python_closure_oddity"
+    ],
+    [
+      "Understanding a Python Closure Oddity",
+      "https://utcc.utoronto.ca/~cks/space/blog/python/UnderstandingClosureOddity"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 23:14:31",
       "https://lobste.rs/s/dtrt8b/boxing_up_common_parts_app"
     ],
@@ -177,16 +187,6 @@
     [
       "UUIDv7 in 20 languages",
       "https://antonz.org/uuidv7/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 01:30:55",
-      "https://lobste.rs/s/ibdrwq/let_s_try_bsd_part_1_7_introduction_freebsd"
-    ],
-    [
-      "Let’s Try BSD, Part 1 of 7: Introduction (FreeBSD, OpenBSD, NetBSD, DragonFlyBSD)",
-      "https://lowendbox.com/blog/lets-try-bsd-part-1-of-7-introduction-freebsd-openbsd-netbsd-dragonflybsd/"
     ]
   ],
   [
