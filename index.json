@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-06-17, 18:31:12",
+      "https://lobste.rs/s/dv07j3/optimized_inner_loop_runtime_compiler"
+    ],
+    [
+      "Optimized Inner Loop Runtime Compiler",
+      "https://github.com/GStreamer/orc/"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 17:25:56",
       "https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn"
     ],
@@ -227,16 +237,6 @@
     [
       "NumPy 2.0.0 Release",
       "https://github.com/numpy/numpy/releases/tag/v2.0.0"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 16:22:03",
-      "https://lobste.rs/s/a5pj7w/make_your_qemu_9p_server_10_times_faster"
-    ],
-    [
-      "Make your QEMU 9p server 10 times faster with this one weird trick",
-      "https://linus.schreibt.jetzt/posts/qemu-9p-performance.html"
     ]
   ],
   [
