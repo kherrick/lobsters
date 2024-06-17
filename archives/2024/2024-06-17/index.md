@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 13:14:12](https://lobste.rs/s/qavjiw/how_we_implemented_scylladb_s_tablets) - [How We Implemented ScyllaDB’s “Tablets” Data Distribution](https://www.scylladb.com/2024/06/17/how-tablets/)
+* [2024-06-17, 13:07:55](https://lobste.rs/s/fuhrcz/optimizing_python_development) - [Optimizing Python Development: Virtualenv Kernels with Nix and Jupyter](https://acalustra.com/optimizing-python-development-virtualenv-kernels-with-nix-and-jupyter.html)
+* [2024-06-17, 12:58:34](https://lobste.rs/s/fhg5wu/github_copilot_chat_from_prompt) - [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/)
 * [2024-06-17, 12:14:04](https://lobste.rs/s/2cuegb/dlink_routers_lan_side_arbitrary_rile) - [DLink Routers LAN-Side arbitrary rile reading and elevated unauthenticated access attack vectors](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
 * [2024-06-17, 11:58:09](https://lobste.rs/s/n4g4k2/quest_for_gargon_argon2_fips) - [The Quest for the Gargon (Argon2 + FIPS)](https://scottarc.blog/2024/06/17/the-quest-for-the-gargon/)
 * [2024-06-17, 11:35:34](https://lobste.rs/s/qik5ki/on_removing_files_2016) - [on removing files (2016)](https://dom.as/2016/05/02/on-removing-files/)
