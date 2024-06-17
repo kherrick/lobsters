@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-17, 15:22:49",
+      "https://lobste.rs/s/raujqa/crossing_impossible_ffi_boundary_my"
+    ],
+    [
+      "Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness",
+      "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 15:06:24",
       "https://lobste.rs/s/dnzyxh/what_s_hidden_behind_just_implementation"
     ],
@@ -157,16 +167,6 @@
     [
       "MicroMac, a 128k Macintosh emulated on an RP2040",
       "https://axio.ms/projects/2024/06/16/MicroMac.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 20:54:46",
-      "https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks"
-    ],
-    [
-      "Scoped Tagging of Bookmarks",
-      "https://joshleeb.com/posts/scoped-tagging.html"
     ]
   ],
   [
