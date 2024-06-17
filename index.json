@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-06-17, 14:31:42",
-      "https://lobste.rs/s/fxn4ky/tiktag_breaking_arm_s_memory_tagging"
-    ],
-    [
-      "TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution",
-      "https://arxiv.org/pdf/2406.08719"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 14:04:13",
       "https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators"
     ],
@@ -167,6 +157,16 @@
     [
       "MicroMac, a 128k Macintosh emulated on an RP2040",
       "https://axio.ms/projects/2024/06/16/MicroMac.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-16, 20:54:46",
+      "https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks"
+    ],
+    [
+      "Scoped Tagging of Bookmarks",
+      "https://joshleeb.com/posts/scoped-tagging.html"
     ]
   ],
   [
