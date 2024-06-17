@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 11:35:34](https://lobste.rs/s/qik5ki/on_removing_files_2016) - [on removing files (2016)](https://dom.as/2016/05/02/on-removing-files/)
 * [2024-06-17, 11:13:13](https://lobste.rs/s/comhpi/analyzing_binary_size_bloat_tock) - [Analyzing Binary Size Bloat in Tock](https://tweedegolf.nl/en/blog/126/tock-binary-size)
 * [2024-06-17, 11:12:53](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week)
 * [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)

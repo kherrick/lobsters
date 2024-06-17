@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-17, 11:35:34](https://lobste.rs/s/qik5ki/on_removing_files_2016) - [on removing files (2016)](https://dom.as/2016/05/02/on-removing-files/)
 * [2024-06-17, 11:13:13](https://lobste.rs/s/comhpi/analyzing_binary_size_bloat_tock) - [Analyzing Binary Size Bloat in Tock](https://tweedegolf.nl/en/blog/126/tock-binary-size)
 * [2024-06-17, 11:12:53](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week)
 * [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)
@@ -7,7 +8,6 @@
 * [2024-06-17, 01:47:24](https://lobste.rs/s/2oynzw/fastlanes_compression_layout_decoding) - [The FastLanes Compression Layout:Decoding >100 Billion Integers per Second with Scalar Code](https://ir.cwi.nl/pub/32992/32992.pdf)
 * [2024-06-17, 01:30:55](https://lobste.rs/s/ibdrwq/let_s_try_bsd_part_1_7_introduction_freebsd) - [Let’s Try BSD, Part 1 of 7: Introduction (FreeBSD, OpenBSD, NetBSD, DragonFlyBSD)](https://lowendbox.com/blog/lets-try-bsd-part-1-of-7-introduction-freebsd-openbsd-netbsd-dragonflybsd/)
 * [2024-06-17, 00:57:12](https://lobste.rs/s/usnqdc/ddos_attacks_can_threaten_independent) - [DDoS attacks can threaten the independent Internet](https://www.macchaffee.com/blog/2024/ddos-attacks/)
-* [2024-06-16, 23:38:33](https://lobste.rs/s/mhpxgi/constant_integer_type_declarations) - [Constant Integer Type Declarations Initialized With Constant Expressions Should Be Constants](https://thephd.dev/constant-integers-are-actually-constant-wow-finally-someones-writing-the-goddamn-paper-%F0%9F%99%84)
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-16, 22:41:26](https://lobste.rs/s/ijnysu/producer_tool_for_translating_smalltalk) - [Producer: A tool for translating Smalltalk-80 to Objective-C (1987)](https://dl.acm.org/doi/pdf/10.1145/38807.38846)
 * [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
