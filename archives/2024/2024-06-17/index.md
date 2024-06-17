@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 11:13:13](https://lobste.rs/s/comhpi/analyzing_binary_size_bloat_tock) - [Analyzing Binary Size Bloat in Tock](https://tweedegolf.nl/en/blog/126/tock-binary-size)
+* [2024-06-17, 11:12:53](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week)
+* [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)
 * [2024-06-17, 09:58:19](https://lobste.rs/s/7lihcs/uuidv7_20_languages) - [UUIDv7 in 20 languages](https://antonz.org/uuidv7/)
 * [2024-06-17, 07:42:02](https://lobste.rs/s/x9rtgu/mark_shuttleworth_chats_ubuntu_snaps) - [Mark Shuttleworth Chats Ubuntu, Snaps, and Open Source on Nerding Out With Viktor](https://blog.viktorpetersson.com/podcast/S01E13.html)
 * [2024-06-17, 03:04:40](https://lobste.rs/s/pelmpt/meshanything) - [MeshAnything](https://buaacyw.github.io/mesh-anything/)

@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-17, 11:13:13](https://lobste.rs/s/comhpi/analyzing_binary_size_bloat_tock) - [Analyzing Binary Size Bloat in Tock](https://tweedegolf.nl/en/blog/126/tock-binary-size)
+* [2024-06-17, 11:12:53](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week)
+* [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)
 * [2024-06-17, 09:58:19](https://lobste.rs/s/7lihcs/uuidv7_20_languages) - [UUIDv7 in 20 languages](https://antonz.org/uuidv7/)
-* [2024-06-17, 03:04:40](https://lobste.rs/s/pelmpt/meshanything) - [MeshAnything](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-17, 01:47:24](https://lobste.rs/s/2oynzw/fastlanes_compression_layout_decoding) - [The FastLanes Compression Layout:Decoding >100 Billion Integers per Second with Scalar Code](https://ir.cwi.nl/pub/32992/32992.pdf)
 * [2024-06-17, 01:30:55](https://lobste.rs/s/ibdrwq/let_s_try_bsd_part_1_7_introduction_freebsd) - [Let’s Try BSD, Part 1 of 7: Introduction (FreeBSD, OpenBSD, NetBSD, DragonFlyBSD)](https://lowendbox.com/blog/lets-try-bsd-part-1-of-7-introduction-freebsd-openbsd-netbsd-dragonflybsd/)
 * [2024-06-17, 00:57:12](https://lobste.rs/s/usnqdc/ddos_attacks_can_threaten_independent) - [DDoS attacks can threaten the independent Internet](https://www.macchaffee.com/blog/2024/ddos-attacks/)
@@ -22,8 +24,6 @@
 * [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 07:24:05](https://lobste.rs/s/pudeaf/excerpts_from_coders_at_work_joe) - [Excerpts from Coders At Work: Joe Armstrong Interview](http://ivory.idyll.org/blog/coders-at-work-joe-armstrong.html)
 * [2024-06-16, 06:17:25](https://lobste.rs/s/lzpyuh/how_i_got_new_domain_name) - [How I got a new domain name](https://frederikbraun.de/new-domain.html)
-* [2024-06-15, 23:23:59](https://lobste.rs/s/jh37sm/impulse_tracker_original_source_code_for) - [impulse-tracker: Original source code for Impulse Tracker, a music tracker for DOS](https://github.com/jthlim/impulse-tracker)
-* [2024-06-15, 21:05:23](https://lobste.rs/s/p4bj9u/why_you_shouldn_t_parse_output_ls_1) - [Why you shouldn't parse the output of ls(1)](https://mywiki.wooledge.org/ParsingLs)
 * [2024-06-15, 20:42:14](https://lobste.rs/s/l3jg6w/bulk_unsubscribe_unsubscribe_from) - [Bulk Unsubscribe: Unsubscribe from marketing/promotional emails in one click](https://github.com/danthegoodman1/BulkUnsubscribe)
 
 ## [Archives](archives/index.md)
