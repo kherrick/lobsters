@@ -8,6 +8,7 @@
 * [2024-06-17, 13:07:55](https://lobste.rs/s/fuhrcz/optimizing_python_development) - [Optimizing Python Development: Virtualenv Kernels with Nix and Jupyter](https://acalustra.com/optimizing-python-development-virtualenv-kernels-with-nix-and-jupyter.html)
 * [2024-06-17, 12:58:34](https://lobste.rs/s/fhg5wu/github_copilot_chat_from_prompt) - [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/)
 * [2024-06-17, 12:14:04](https://lobste.rs/s/2cuegb/dlink_routers_lan_side_arbitrary_rile) - [DLink Routers LAN-Side arbitrary rile reading and elevated unauthenticated access attack vectors](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
+* [2024-06-17, 12:14:04](https://lobste.rs/s/2cuegb/d_link_routers_lan_side_arbitrary_rile) - [D-Link Routers LAN-Side arbitrary rile reading and elevated unauthenticated access attack vectors](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
 * [2024-06-17, 11:58:09](https://lobste.rs/s/n4g4k2/quest_for_gargon_argon2_fips) - [The Quest for the Gargon (Argon2 + FIPS)](https://scottarc.blog/2024/06/17/the-quest-for-the-gargon/)
 * [2024-06-17, 11:35:34](https://lobste.rs/s/qik5ki/on_removing_files_2016) - [on removing files (2016)](https://dom.as/2016/05/02/on-removing-files/)
 * [2024-06-17, 11:13:13](https://lobste.rs/s/comhpi/analyzing_binary_size_bloat_tock) - [Analyzing Binary Size Bloat in Tock](https://tweedegolf.nl/en/blog/126/tock-binary-size)
