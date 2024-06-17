@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 22:07:37](https://lobste.rs/s/qhmxlc/importance_stupidity_scientific) - [The importance of stupidity in scientific research (2008)](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
+* [2024-06-17, 22:06:53](https://lobste.rs/s/sbkacd/note_on_essential_complexity) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
 * [2024-06-17, 21:13:03](https://lobste.rs/s/88pbzw/sustainable_interactive_wireless) - [Sustainable Interactive Wireless Stickers](https://hdl.handle.net/1853/75071)
 * [2024-06-17, 21:07:13](https://lobste.rs/s/ez2jnr/stop_using_fandom) - [Stop Using Fandom](https://j3s.sh/thought/stop-using-fandom.html)
 * [2024-06-17, 20:54:38](https://lobste.rs/s/ogxtsa/gnome_maintainers_here_s_how_keep_your) - [GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
