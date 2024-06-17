@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-17, 13:14:12",
+      "https://lobste.rs/s/qavjiw/how_we_implemented_scylladb_s_tablets"
+    ],
+    [
+      "How We Implemented ScyllaDB’s “Tablets” Data Distribution",
+      "https://www.scylladb.com/2024/06/17/how-tablets/"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 13:07:55",
+      "https://lobste.rs/s/fuhrcz/optimizing_python_development"
+    ],
+    [
+      "Optimizing Python Development: Virtualenv Kernels with Nix and Jupyter",
+      "https://acalustra.com/optimizing-python-development-virtualenv-kernels-with-nix-and-jupyter.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-17, 12:58:34",
+      "https://lobste.rs/s/fhg5wu/github_copilot_chat_from_prompt"
+    ],
+    [
+      "GitHub Copilot Chat: From Prompt Injection to Data Exfiltration",
+      "https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 12:14:04",
       "https://lobste.rs/s/2cuegb/dlink_routers_lan_side_arbitrary_rile"
     ],
@@ -77,16 +107,6 @@
     [
       "Mark Shuttleworth Chats Ubuntu, Snaps, and Open Source on Nerding Out With Viktor",
       "https://blog.viktorpetersson.com/podcast/S01E13.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 01:47:24",
-      "https://lobste.rs/s/2oynzw/fastlanes_compression_layout_decoding"
-    ],
-    [
-      "The FastLanes Compression Layout:Decoding >100 Billion Integers per Second with Scalar Code",
-      "https://ir.cwi.nl/pub/32992/32992.pdf"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-06-16, 15:57:59",
-      "https://lobste.rs/s/q1fjiu/packaging_swift_apps_for_alpine_linux"
-    ],
-    [
-      "Packaging Swift apps for Alpine Linux",
-      "https://mko.re/blog/swift-alpine-packaging/"
-    ]
-  ],
-  [
-    [
       "2024-06-16, 13:43:46",
       "https://lobste.rs/s/3fdsrn/listening_your_friends_jams_with_last_fm"
     ],
     [
       "listening to your friends' jams with last.fm",
       "https://rjbs.cloud/blog/2024/06/lastfm-friendo/"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 12:00:46",
-      "https://lobste.rs/s/swtqyu/networking_switch_murex_robotics"
-    ],
-    [
-      "Networking Switch – MUREX Robotics Documentation (Tiny Opensource Switch)",
-      "https://docs.murexrobotics.com/elec/boards/networking/switch"
     ]
   ],
   [
