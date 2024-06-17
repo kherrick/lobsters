@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 15:06:24](https://lobste.rs/s/dnzyxh/what_s_hidden_behind_just_implementation) - [What's hidden behind \"just implementation details\"](https://ntietz.com/blog/whats-behind-just-implementation/)
+* [2024-06-17, 14:54:05](https://lobste.rs/s/gyg72w/composing_tla_specifications_with_state) - [Composing TLA+ Specifications with State Machines](https://www.hillelwayne.com/post/composing-tla/)
 * [2024-06-17, 14:31:42](https://lobste.rs/s/fxn4ky/tiktag_breaking_arm_s_memory_tagging) - [TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution](https://arxiv.org/pdf/2406.08719)
 * [2024-06-17, 14:04:13](https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators) - [Why People are Angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 13:14:12](https://lobste.rs/s/qavjiw/how_we_implemented_scylladb_s_tablets) - [How We Implemented ScyllaDB’s “Tablets” Data Distribution](https://www.scylladb.com/2024/06/17/how-tablets/)
