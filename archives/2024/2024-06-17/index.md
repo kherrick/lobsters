@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 07:42:02](https://lobste.rs/s/x9rtgu/mark_shuttleworth_chats_ubuntu_snaps) - [Mark Shuttleworth Chats Ubuntu, Snaps, and Open Source on Nerding Out With Viktor](https://blog.viktorpetersson.com/podcast/S01E13.html)
 * [2024-06-17, 03:04:40](https://lobste.rs/s/pelmpt/meshanything) - [MeshAnything](https://buaacyw.github.io/mesh-anything/)
 * [2024-06-17, 01:47:24](https://lobste.rs/s/2oynzw/fastlanes_compression_layout_decoding) - [The FastLanes Compression Layout:Decoding >100 Billion Integers per Second with Scalar Code](https://ir.cwi.nl/pub/32992/32992.pdf)
 * [2024-06-17, 01:30:55](https://lobste.rs/s/ibdrwq/let_s_try_bsd_part_1_7_introduction_freebsd) - [Let’s Try BSD, Part 1 of 7: Introduction (FreeBSD, OpenBSD, NetBSD, DragonFlyBSD)](https://lowendbox.com/blog/lets-try-bsd-part-1-of-7-introduction-freebsd-openbsd-netbsd-dragonflybsd/)
