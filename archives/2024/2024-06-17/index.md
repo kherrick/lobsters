@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 14:04:13](https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators) - [Why People are Angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 13:14:12](https://lobste.rs/s/qavjiw/how_we_implemented_scylladb_s_tablets) - [How We Implemented ScyllaDB’s “Tablets” Data Distribution](https://www.scylladb.com/2024/06/17/how-tablets/)
 * [2024-06-17, 13:07:55](https://lobste.rs/s/fuhrcz/optimizing_python_development) - [Optimizing Python Development: Virtualenv Kernels with Nix and Jupyter](https://acalustra.com/optimizing-python-development-virtualenv-kernels-with-nix-and-jupyter.html)
 * [2024-06-17, 12:58:34](https://lobste.rs/s/fhg5wu/github_copilot_chat_from_prompt) - [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/)

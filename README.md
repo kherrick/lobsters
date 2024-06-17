@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-17, 14:04:13](https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators) - [Why People are Angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 13:14:12](https://lobste.rs/s/qavjiw/how_we_implemented_scylladb_s_tablets) - [How We Implemented ScyllaDB’s “Tablets” Data Distribution](https://www.scylladb.com/2024/06/17/how-tablets/)
 * [2024-06-17, 13:07:55](https://lobste.rs/s/fuhrcz/optimizing_python_development) - [Optimizing Python Development: Virtualenv Kernels with Nix and Jupyter](https://acalustra.com/optimizing-python-development-virtualenv-kernels-with-nix-and-jupyter.html)
 * [2024-06-17, 12:58:34](https://lobste.rs/s/fhg5wu/github_copilot_chat_from_prompt) - [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/)
@@ -11,7 +12,6 @@
 * [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)
 * [2024-06-17, 09:58:19](https://lobste.rs/s/7lihcs/uuidv7_20_languages) - [UUIDv7 in 20 languages](https://antonz.org/uuidv7/)
 * [2024-06-17, 07:42:02](https://lobste.rs/s/x9rtgu/mark_shuttleworth_chats_ubuntu_snaps) - [Mark Shuttleworth Chats Ubuntu, Snaps, and Open Source on Nerding Out With Viktor](https://blog.viktorpetersson.com/podcast/S01E13.html)
-* [2024-06-17, 01:47:24](https://lobste.rs/s/2oynzw/fastlanes_compression_layout_decoding) - [The FastLanes Compression Layout:Decoding >100 Billion Integers per Second with Scalar Code](https://ir.cwi.nl/pub/32992/32992.pdf)
 * [2024-06-17, 01:30:55](https://lobste.rs/s/ibdrwq/let_s_try_bsd_part_1_7_introduction_freebsd) - [Let’s Try BSD, Part 1 of 7: Introduction (FreeBSD, OpenBSD, NetBSD, DragonFlyBSD)](https://lowendbox.com/blog/lets-try-bsd-part-1-of-7-introduction-freebsd-openbsd-netbsd-dragonflybsd/)
 * [2024-06-17, 00:57:12](https://lobste.rs/s/usnqdc/ddos_attacks_can_threaten_independent) - [DDoS attacks can threaten the independent Internet](https://www.macchaffee.com/blog/2024/ddos-attacks/)
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
