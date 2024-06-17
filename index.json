@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-17, 09:58:19",
+      "https://lobste.rs/s/7lihcs/uuidv7_20_languages"
+    ],
+    [
+      "UUIDv7 in 20 languages",
+      "https://antonz.org/uuidv7/"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 03:04:40",
       "https://lobste.rs/s/pelmpt/meshanything"
     ],
@@ -37,16 +47,6 @@
     [
       "DDoS attacks can threaten the independent Internet",
       "https://www.macchaffee.com/blog/2024/ddos-attacks/"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 23:38:33",
-      "https://lobste.rs/s/mhpxgi/constant_integer_type_declarations"
-    ],
-    [
-      "Constant Integer Type Declarations Initialized With Constant Expressions Should Be Constants",
-      "https://thephd.dev/constant-integers-are-actually-constant-wow-finally-someones-writing-the-goddamn-paper-%F0%9F%99%84"
     ]
   ],
   [
