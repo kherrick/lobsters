@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 23:41:30](https://lobste.rs/s/iawnnh/understanding_python_closure_oddity) - [Understanding a Python Closure Oddity](https://utcc.utoronto.ca/~cks/space/blog/python/UnderstandingClosureOddity)
 * [2024-06-17, 23:14:31](https://lobste.rs/s/dtrt8b/boxing_up_common_parts_app) - [Boxing Up Common Parts of an App](https://jacky.wtf/essays/2024/boxing-things-up/)
 * [2024-06-17, 22:07:37](https://lobste.rs/s/qhmxlc/importance_stupidity_scientific) - [The importance of stupidity in scientific research (2008)](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 * [2024-06-17, 22:06:53](https://lobste.rs/s/sbkacd/note_on_essential_complexity) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)

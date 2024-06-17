@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-17, 23:41:30](https://lobste.rs/s/iawnnh/understanding_python_closure_oddity) - [Understanding a Python Closure Oddity](https://utcc.utoronto.ca/~cks/space/blog/python/UnderstandingClosureOddity)
 * [2024-06-17, 23:14:31](https://lobste.rs/s/dtrt8b/boxing_up_common_parts_app) - [Boxing Up Common Parts of an App](https://jacky.wtf/essays/2024/boxing-things-up/)
 * [2024-06-17, 22:07:37](https://lobste.rs/s/qhmxlc/importance_stupidity_scientific) - [The importance of stupidity in scientific research (2008)](https://journals.biologists.com/jcs/article/121/11/1771/30038/The-importance-of-stupidity-in-scientific-research)
 * [2024-06-17, 22:06:53](https://lobste.rs/s/sbkacd/note_on_essential_complexity) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
@@ -18,7 +19,6 @@
 * [2024-06-17, 11:12:53](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week)
 * [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)
 * [2024-06-17, 09:58:19](https://lobste.rs/s/7lihcs/uuidv7_20_languages) - [UUIDv7 in 20 languages](https://antonz.org/uuidv7/)
-* [2024-06-17, 01:30:55](https://lobste.rs/s/ibdrwq/let_s_try_bsd_part_1_7_introduction_freebsd) - [Let’s Try BSD, Part 1 of 7: Introduction (FreeBSD, OpenBSD, NetBSD, DragonFlyBSD)](https://lowendbox.com/blog/lets-try-bsd-part-1-of-7-introduction-freebsd-openbsd-netbsd-dragonflybsd/)
 * [2024-06-17, 00:57:12](https://lobste.rs/s/usnqdc/ddos_attacks_can_threaten_independent) - [DDoS attacks can threaten the independent Internet](https://www.macchaffee.com/blog/2024/ddos-attacks/)
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
