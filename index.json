@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-06-17, 07:42:02",
-      "https://lobste.rs/s/x9rtgu/mark_shuttleworth_chats_ubuntu_snaps"
-    ],
-    [
-      "Mark Shuttleworth Chats Ubuntu, Snaps, and Open Source on Nerding Out With Viktor",
-      "https://blog.viktorpetersson.com/podcast/S01E13.html"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 03:04:40",
       "https://lobste.rs/s/pelmpt/meshanything"
     ],
@@ -47,6 +37,16 @@
     [
       "DDoS attacks can threaten the independent Internet",
       "https://www.macchaffee.com/blog/2024/ddos-attacks/"
+    ]
+  ],
+  [
+    [
+      "2024-06-16, 23:38:33",
+      "https://lobste.rs/s/mhpxgi/constant_integer_type_declarations"
+    ],
+    [
+      "Constant Integer Type Declarations Initialized With Constant Expressions Should Be Constants",
+      "https://thephd.dev/constant-integers-are-actually-constant-wow-finally-someones-writing-the-goddamn-paper-%F0%9F%99%84"
     ]
   ],
   [
