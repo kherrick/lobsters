@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 21:13:03](https://lobste.rs/s/88pbzw/sustainable_interactive_wireless) - [Sustainable Interactive Wireless Stickers](https://hdl.handle.net/1853/75071)
+* [2024-06-17, 21:07:13](https://lobste.rs/s/ez2jnr/stop_using_fandom) - [Stop Using Fandom](https://j3s.sh/thought/stop-using-fandom.html)
 * [2024-06-17, 20:54:38](https://lobste.rs/s/ogxtsa/gnome_maintainers_here_s_how_keep_your) - [GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
 * [2024-06-17, 20:54:26](https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released) - [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
 * [2024-06-17, 18:31:12](https://lobste.rs/s/dv07j3/optimized_inner_loop_runtime_compiler) - [Optimized Inner Loop Runtime Compiler](https://github.com/GStreamer/orc/)

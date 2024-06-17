@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-17, 21:13:03](https://lobste.rs/s/88pbzw/sustainable_interactive_wireless) - [Sustainable Interactive Wireless Stickers](https://hdl.handle.net/1853/75071)
+* [2024-06-17, 21:07:13](https://lobste.rs/s/ez2jnr/stop_using_fandom) - [Stop Using Fandom](https://j3s.sh/thought/stop-using-fandom.html)
 * [2024-06-17, 20:54:38](https://lobste.rs/s/ogxtsa/gnome_maintainers_here_s_how_keep_your) - [GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
 * [2024-06-17, 20:54:26](https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released) - [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
 * [2024-06-17, 17:25:56](https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn) - [Making a const version of Rust's array::from_fn - How hard can it be?](https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html)
@@ -11,7 +13,6 @@
 * [2024-06-17, 14:04:13](https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators) - [Why People are Angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
 * [2024-06-17, 13:14:12](https://lobste.rs/s/qavjiw/how_we_implemented_scylladb_s_tablets) - [How We Implemented ScyllaDB’s “Tablets” Data Distribution](https://www.scylladb.com/2024/06/17/how-tablets/)
 * [2024-06-17, 12:58:34](https://lobste.rs/s/fhg5wu/github_copilot_chat_from_prompt) - [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/)
-* [2024-06-17, 12:14:04](https://lobste.rs/s/2cuegb/d_link_routers_lan_side_arbitrary_rile) - [D-Link Routers LAN-Side arbitrary rile reading and elevated unauthenticated access attack vectors](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
 * [2024-06-17, 11:58:09](https://lobste.rs/s/n4g4k2/quest_for_gargon_argon2_fips) - [The Quest for the Gargon (Argon2 + FIPS)](https://scottarc.blog/2024/06/17/the-quest-for-the-gargon/)
 * [2024-06-17, 11:12:53](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week)
 * [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)
@@ -20,7 +21,6 @@
 * [2024-06-17, 00:57:12](https://lobste.rs/s/usnqdc/ddos_attacks_can_threaten_independent) - [DDoS attacks can threaten the independent Internet](https://www.macchaffee.com/blog/2024/ddos-attacks/)
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
-* [2024-06-16, 20:54:46](https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks) - [Scoped Tagging of Bookmarks](https://joshleeb.com/posts/scoped-tagging.html)
 * [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 17:11:50](https://lobste.rs/s/2iqlcb/numpy_2_0_0_release) - [NumPy 2.0.0 Release](https://github.com/numpy/numpy/releases/tag/v2.0.0)
 * [2024-06-16, 16:22:03](https://lobste.rs/s/a5pj7w/make_your_qemu_9p_server_10_times_faster) - [Make your QEMU 9p server 10 times faster with this one weird trick](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
