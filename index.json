@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-17, 16:35:15",
-      "https://lobste.rs/s/yb4xnh/deep_dive_on_mysql_s_replication_protocol"
+      "2024-06-17, 17:25:56",
+      "https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn"
     ],
     [
-      "Deep Dive on MySQL's Replication Protocol",
-      "https://www.dolthub.com/blog/2024-06-17-mysql-replication/"
+      "Making a const version of Rust's array::from_fn - How hard can it be?",
+      "https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html"
     ]
   ],
   [
