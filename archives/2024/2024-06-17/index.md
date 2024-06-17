@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 15:45:07](https://lobste.rs/s/vp32q8/comparing_approaches_for_using_llms_for) - [Comparing approaches for using LLMs for Structured Data Extraction from PDFs](https://unstract.com/blog/comparing-approaches-for-using-llms-for-structured-data-extraction-from-pdfs/)
 * [2024-06-17, 15:22:49](https://lobste.rs/s/raujqa/crossing_impossible_ffi_boundary_my) - [Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 * [2024-06-17, 15:06:24](https://lobste.rs/s/dnzyxh/what_s_hidden_behind_just_implementation) - [What's hidden behind \"just implementation details\"](https://ntietz.com/blog/whats-behind-just-implementation/)
 * [2024-06-17, 14:54:05](https://lobste.rs/s/gyg72w/composing_tla_specifications_with_state) - [Composing TLA+ Specifications with State Machines](https://www.hillelwayne.com/post/composing-tla/)

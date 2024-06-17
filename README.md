@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-17, 15:45:07](https://lobste.rs/s/vp32q8/comparing_approaches_for_using_llms_for) - [Comparing approaches for using LLMs for Structured Data Extraction from PDFs](https://unstract.com/blog/comparing-approaches-for-using-llms-for-structured-data-extraction-from-pdfs/)
 * [2024-06-17, 15:22:49](https://lobste.rs/s/raujqa/crossing_impossible_ffi_boundary_my) - [Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 * [2024-06-17, 15:06:24](https://lobste.rs/s/dnzyxh/what_s_hidden_behind_just_implementation) - [What's hidden behind \"just implementation details\"](https://ntietz.com/blog/whats-behind-just-implementation/)
 * [2024-06-17, 14:54:05](https://lobste.rs/s/gyg72w/composing_tla_specifications_with_state) - [Composing TLA+ Specifications with State Machines](https://www.hillelwayne.com/post/composing-tla/)
@@ -22,7 +23,6 @@
 * [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 17:11:50](https://lobste.rs/s/2iqlcb/numpy_2_0_0_release) - [NumPy 2.0.0 Release](https://github.com/numpy/numpy/releases/tag/v2.0.0)
 * [2024-06-16, 16:22:03](https://lobste.rs/s/a5pj7w/make_your_qemu_9p_server_10_times_faster) - [Make your QEMU 9p server 10 times faster with this one weird trick](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
-* [2024-06-16, 13:43:46](https://lobste.rs/s/3fdsrn/listening_your_friends_jams_with_last_fm) - [listening to your friends' jams with last.fm](https://rjbs.cloud/blog/2024/06/lastfm-friendo/)
 * [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 * [2024-06-16, 06:17:25](https://lobste.rs/s/lzpyuh/how_i_got_new_domain_name) - [How I got a new domain name](https://frederikbraun.de/new-domain.html)
 
