@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 17:25:56](https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn) - [Making a const version of Rust's array::from_fn - How hard can it be?](https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html)
 * [2024-06-17, 16:35:15](https://lobste.rs/s/yb4xnh/deep_dive_on_mysql_s_replication_protocol) - [Deep Dive on MySQL's Replication Protocol](https://www.dolthub.com/blog/2024-06-17-mysql-replication/)
 * [2024-06-17, 16:05:03](https://lobste.rs/s/wixznd/short_ipv6_guide_for_home_ipv4_admins) - [A Short IPv6 Guide for Home IPv4 Admins](https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785)
 * [2024-06-17, 15:45:07](https://lobste.rs/s/vp32q8/comparing_approaches_for_using_llms_for) - [Comparing approaches for using LLMs for Structured Data Extraction from PDFs](https://unstract.com/blog/comparing-approaches-for-using-llms-for-structured-data-extraction-from-pdfs/)

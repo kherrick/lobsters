@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-17, 16:35:15](https://lobste.rs/s/yb4xnh/deep_dive_on_mysql_s_replication_protocol) - [Deep Dive on MySQL's Replication Protocol](https://www.dolthub.com/blog/2024-06-17-mysql-replication/)
+* [2024-06-17, 17:25:56](https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn) - [Making a const version of Rust's array::from_fn - How hard can it be?](https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html)
 * [2024-06-17, 16:05:03](https://lobste.rs/s/wixznd/short_ipv6_guide_for_home_ipv4_admins) - [A Short IPv6 Guide for Home IPv4 Admins](https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785)
 * [2024-06-17, 15:22:49](https://lobste.rs/s/raujqa/crossing_impossible_ffi_boundary_my) - [Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 * [2024-06-17, 15:06:24](https://lobste.rs/s/dnzyxh/what_s_hidden_behind_just_implementation) - [What's hidden behind \"just implementation details\"](https://ntietz.com/blog/whats-behind-just-implementation/)
