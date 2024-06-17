@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 20:54:38](https://lobste.rs/s/ogxtsa/gnome_maintainers_here_s_how_keep_your) - [GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
+* [2024-06-17, 20:54:26](https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released) - [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
 * [2024-06-17, 18:31:12](https://lobste.rs/s/dv07j3/optimized_inner_loop_runtime_compiler) - [Optimized Inner Loop Runtime Compiler](https://github.com/GStreamer/orc/)
 * [2024-06-17, 17:25:56](https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn) - [Making a const version of Rust's array::from_fn - How hard can it be?](https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html)
 * [2024-06-17, 16:35:15](https://lobste.rs/s/yb4xnh/deep_dive_on_mysql_s_replication_protocol) - [Deep Dive on MySQL's Replication Protocol](https://www.dolthub.com/blog/2024-06-17-mysql-replication/)
