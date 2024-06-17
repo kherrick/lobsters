@@ -2,6 +2,7 @@
 
 * [2024-06-17, 18:31:12](https://lobste.rs/s/dv07j3/optimized_inner_loop_runtime_compiler) - [Optimized Inner Loop Runtime Compiler](https://github.com/GStreamer/orc/)
 * [2024-06-17, 17:25:56](https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn) - [Making a const version of Rust's array::from_fn - How hard can it be?](https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html)
+* [2024-06-17, 16:35:15](https://lobste.rs/s/yb4xnh/deep_dive_on_mysql_s_replication_protocol) - [Deep Dive on MySQL's Replication Protocol](https://www.dolthub.com/blog/2024-06-17-mysql-replication/)
 * [2024-06-17, 16:05:03](https://lobste.rs/s/wixznd/short_ipv6_guide_for_home_ipv4_admins) - [A Short IPv6 Guide for Home IPv4 Admins](https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785)
 * [2024-06-17, 15:22:49](https://lobste.rs/s/raujqa/crossing_impossible_ffi_boundary_my) - [Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 * [2024-06-17, 15:06:24](https://lobste.rs/s/dnzyxh/what_s_hidden_behind_just_implementation) - [What's hidden behind \"just implementation details\"](https://ntietz.com/blog/whats-behind-just-implementation/)
@@ -19,7 +20,6 @@
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 20:54:46](https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks) - [Scoped Tagging of Bookmarks](https://joshleeb.com/posts/scoped-tagging.html)
-* [2024-06-16, 17:44:03](https://lobste.rs/s/qvz53x/alga_cli_for_remote_controlling_lg_webos) - [alga: CLI for remote controlling LG webOS TVs](https://github.com/Tenzer/alga)
 * [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 * [2024-06-16, 17:11:50](https://lobste.rs/s/2iqlcb/numpy_2_0_0_release) - [NumPy 2.0.0 Release](https://github.com/numpy/numpy/releases/tag/v2.0.0)
 * [2024-06-16, 16:22:03](https://lobste.rs/s/a5pj7w/make_your_qemu_9p_server_10_times_faster) - [Make your QEMU 9p server 10 times faster with this one weird trick](https://linus.schreibt.jetzt/posts/qemu-9p-performance.html)
