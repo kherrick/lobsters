@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-17, 14:31:42",
+      "https://lobste.rs/s/fxn4ky/tiktag_breaking_arm_s_memory_tagging"
+    ],
+    [
+      "TikTag: Breaking ARM's Memory Tagging Extension with Speculative Execution",
+      "https://arxiv.org/pdf/2406.08719"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 14:04:13",
       "https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators"
     ],
@@ -67,16 +77,6 @@
     [
       "on removing files (2016)",
       "https://dom.as/2016/05/02/on-removing-files/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 11:13:13",
-      "https://lobste.rs/s/comhpi/analyzing_binary_size_bloat_tock"
-    ],
-    [
-      "Analyzing Binary Size Bloat in Tock",
-      "https://tweedegolf.nl/en/blog/126/tock-binary-size"
     ]
   ],
   [
