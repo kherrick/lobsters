@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-17, 16:05:03](https://lobste.rs/s/wixznd/short_ipv6_guide_for_home_ipv4_admins) - [A Short IPv6 Guide for Home IPv4 Admins](https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785)
 * [2024-06-17, 15:45:07](https://lobste.rs/s/vp32q8/comparing_approaches_for_using_llms_for) - [Comparing approaches for using LLMs for Structured Data Extraction from PDFs](https://unstract.com/blog/comparing-approaches-for-using-llms-for-structured-data-extraction-from-pdfs/)
 * [2024-06-17, 15:22:49](https://lobste.rs/s/raujqa/crossing_impossible_ffi_boundary_my) - [Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
 * [2024-06-17, 15:06:24](https://lobste.rs/s/dnzyxh/what_s_hidden_behind_just_implementation) - [What's hidden behind \"just implementation details\"](https://ntietz.com/blog/whats-behind-just-implementation/)
@@ -17,7 +18,6 @@
 * [2024-06-17, 00:57:12](https://lobste.rs/s/usnqdc/ddos_attacks_can_threaten_independent) - [DDoS attacks can threaten the independent Internet](https://www.macchaffee.com/blog/2024/ddos-attacks/)
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
-* [2024-06-16, 20:54:46](https://lobste.rs/s/tdkjrs/scoped_tagging_bookmarks) - [Scoped Tagging of Bookmarks](https://joshleeb.com/posts/scoped-tagging.html)
 * [2024-06-16, 20:43:25](https://lobste.rs/s/8hhmja/binary_fuse_filters_fast_smaller_than_xor) - [Binary Fuse Filters: Fast and Smaller Than Xor Filters](https://arxiv.org/abs/2201.01174)
 * [2024-06-16, 17:44:03](https://lobste.rs/s/qvz53x/alga_cli_for_remote_controlling_lg_webos) - [alga: CLI for remote controlling LG webOS TVs](https://github.com/Tenzer/alga)
 * [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
