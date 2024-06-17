@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-17](index.md)
 
+* [2024-06-17, 12:14:04](https://lobste.rs/s/2cuegb/dlink_routers_lan_side_arbitrary_rile) - [DLink Routers LAN-Side arbitrary rile reading and elevated unauthenticated access attack vectors](https://supportannouncement.us.dlink.com/security/publication.aspx?name=SAP10398)
+* [2024-06-17, 11:58:09](https://lobste.rs/s/n4g4k2/quest_for_gargon_argon2_fips) - [The Quest for the Gargon (Argon2 + FIPS)](https://scottarc.blog/2024/06/17/the-quest-for-the-gargon/)
 * [2024-06-17, 11:35:34](https://lobste.rs/s/qik5ki/on_removing_files_2016) - [on removing files (2016)](https://dom.as/2016/05/02/on-removing-files/)
 * [2024-06-17, 11:13:13](https://lobste.rs/s/comhpi/analyzing_binary_size_bloat_tock) - [Analyzing Binary Size Bloat in Tock](https://tweedegolf.nl/en/blog/126/tock-binary-size)
 * [2024-06-17, 11:12:53](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week)
