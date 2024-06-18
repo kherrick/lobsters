@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-18, 18:53:35",
+      "https://lobste.rs/s/fibh4j/pitfalls_comparing_bigdecimals_java"
+    ],
+    [
+      "The Pitfalls of Comparing BigDecimals in Java",
+      "https://igorstechnoclub.com/java-bigdecimal/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 18:43:45",
       "https://lobste.rs/s/l3w3ok/replace_fxhasher_with_faster_better"
     ],
@@ -197,16 +207,6 @@
     [
       "htmx 2.0.0 has been released",
       "https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 17:25:56",
-      "https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn"
-    ],
-    [
-      "Making a const version of Rust's array::from_fn - How hard can it be?",
-      "https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html"
     ]
   ],
   [
