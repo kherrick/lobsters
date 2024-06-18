@@ -2,6 +2,7 @@
 
 * [2024-06-18, 16:34:13](https://lobste.rs/s/xwbp1a/make_python_devex) - [Make Python DevEx](https://tech.target.com/blog/make-python-devex)
 * [2024-06-18, 16:02:01](https://lobste.rs/s/xwd2ke/nlnet_45_projects_receiving_new_ngi_zero) - [NLnet; 45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html)
+* [2024-06-18, 15:50:52](https://lobste.rs/s/eq815o/5_reasons_why_box_plots_are_better_default) - [5 Reasons Why Box Plots are the Better Default Choice for Visualizing Performance](https://stefan-marr.de/2024/06/5-reasons-for-box-plots-as-default/)
 * [2024-06-18, 14:48:10](https://lobste.rs/s/vomhop/introducing_new_risc_v_mainboard_from) - [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 14:24:28](https://lobste.rs/s/hnh0oj/go_package_for_calculating_sunrise) - [Go package for calculating the sunrise and sunset times for a given location](https://github.com/nathan-osman/go-sunrise)
 * [2024-06-18, 14:17:31](https://lobste.rs/s/sz0zfu/how_i_would_redesign_copilot_workspace) - [How I would redesign Copilot Workspace](https://austinhenley.com/blog/copilotworkspace.html)
@@ -16,7 +17,6 @@
 * [2024-06-18, 08:52:05](https://lobste.rs/s/9njcqf/fuzzing_ebpf_implementation_rust) - [Fuzzing an eBPF implementation in Rust](https://secret.club/2022/05/11/fuzzing-solana.html)
 * [2024-06-18, 04:10:44](https://lobste.rs/s/gagni0/codd_we_trust_not) - [In Codd we Trust (or not)](https://buttondown.email/jaffray/archive/in-codd-we-trust-or-not/)
 * [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
-* [2024-06-18, 01:40:03](https://lobste.rs/s/kbihsp/turning_tables_on_ai) - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
 * [2024-06-18, 00:41:56](https://lobste.rs/s/2igpbf/numpy_2_0_evolutionary_milestone) - [NumPy 2.0: an evolutionary milestone](https://blog.scientific-python.org/numpy/numpy2/)
 * [2024-06-17, 22:06:53](https://lobste.rs/s/sbkacd/note_on_essential_complexity) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
 * [2024-06-17, 20:54:26](https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released) - [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
