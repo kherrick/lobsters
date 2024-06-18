@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-18, 11:03:07",
+      "https://lobste.rs/s/nyqqyi/aurora_static_site_generator"
+    ],
+    [
+      "aurora: A static site generator implemented in Python",
+      "https://github.com/capjamesg/aurora"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 10:59:00",
+      "https://lobste.rs/s/lia3u8/nuxt_auth_utils_release_v0_1"
+    ],
+    [
+      "nuxt-auth-utils release v0.1",
+      "https://github.com/Atinux/nuxt-auth-utils"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 10:56:05",
+      "https://lobste.rs/s/ia19xj/enabling_technologies"
+    ],
+    [
+      "Enabling Technologies",
+      "https://pulse.internetsociety.org/technologies"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 09:51:32",
       "https://lobste.rs/s/bhmxyw/github_copilot_workspace_review"
     ],
@@ -37,26 +67,6 @@
     [
       "Fuzzing an eBPF implementation in Rust",
       "https://secret.club/2022/05/11/fuzzing-solana.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 07:25:09",
-      "https://lobste.rs/s/martui/how_branch_prediction_works_cpus"
-    ],
-    [
-      "How Branch Prediction Works in CPUs",
-      "https://www.youtube.com/watch?v=nczJ58WvtYo"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 07:17:38",
-      "https://lobste.rs/s/5bpnvq/every_way_get_structured_output_from_llms"
-    ],
-    [
-      "Every Way To Get Structured Output From LLMs",
-      "https://www.boundaryml.com/blog/structured-output-from-llms"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The Quest for the Gargon (Argon2 + FIPS)",
       "https://scottarc.blog/2024/06/17/the-quest-for-the-gargon/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 11:12:53",
-      "https://lobste.rs/s/6ysegm/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/6ysegm/what_are_you_doing_this_week"
     ]
   ],
   [
