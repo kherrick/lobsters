@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-18, 13:43:03",
+      "https://lobste.rs/s/qvhcjf/s2malloc_statistically_secure"
+    ],
+    [
+      "S2malloc: Statistically Secure Allocator for Use-After-Free Protection And More",
+      "https://arxiv.org/pdf/2402.01894"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 13:23:25",
       "https://lobste.rs/s/n37nfl/basic_python_project_setup"
     ],
@@ -67,16 +77,6 @@
     [
       "Troubles In Solving Uno",
       "https://two-wrongs.com/troubles-in-solving-uno.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 08:52:05",
-      "https://lobste.rs/s/9njcqf/fuzzing_ebpf_implementation_rust"
-    ],
-    [
-      "Fuzzing an eBPF implementation in Rust",
-      "https://secret.club/2022/05/11/fuzzing-solana.html"
     ]
   ],
   [
