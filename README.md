@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-18, 12:11:46](https://lobste.rs/s/5b87th/linux_kernel_development_automatic) - [Linux Kernel Development - Automatic Cleanup 2/2](https://javiercarrascocruz.github.io/kernel-auto-cleanup-1)
 * [2024-06-18, 11:03:07](https://lobste.rs/s/nyqqyi/aurora_static_site_generator) - [aurora: A static site generator implemented in Python](https://github.com/capjamesg/aurora)
 * [2024-06-18, 10:59:00](https://lobste.rs/s/lia3u8/nuxt_auth_utils_release_v0_1) - [nuxt-auth-utils release v0.1](https://github.com/Atinux/nuxt-auth-utils)
 * [2024-06-18, 10:56:05](https://lobste.rs/s/ia19xj/enabling_technologies) - [Enabling Technologies](https://pulse.internetsociety.org/technologies)
@@ -7,7 +8,6 @@
 * [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-06-18, 09:06:15](https://lobste.rs/s/jx5j4g/troubles_solving_uno) - [Troubles In Solving Uno](https://two-wrongs.com/troubles-in-solving-uno.html)
 * [2024-06-18, 08:52:05](https://lobste.rs/s/9njcqf/fuzzing_ebpf_implementation_rust) - [Fuzzing an eBPF implementation in Rust](https://secret.club/2022/05/11/fuzzing-solana.html)
-* [2024-06-18, 06:44:51](https://lobste.rs/s/k3ofpn/automap_how_do_numpy_style_broadcasting) - [AUTOMAP: How to do NumPy-style broadcasting in Futhark (but better)](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-18, 04:10:44](https://lobste.rs/s/gagni0/codd_we_trust_not) - [In Codd we Trust (or not)](https://buttondown.email/jaffray/archive/in-codd-we-trust-or-not/)
 * [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-18, 01:40:03](https://lobste.rs/s/kbihsp/turning_tables_on_ai) - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
