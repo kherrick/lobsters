@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-18, 13:23:25",
+      "https://lobste.rs/s/n37nfl/basic_python_project_setup"
+    ],
+    [
+      "Basic Python project setup",
+      "https://peateasea.de/basic-python-project-setup/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 13:06:02",
       "https://lobste.rs/s/kn0xmw/themes_from_real_world_crypto_2024"
     ],
@@ -27,16 +37,6 @@
     [
       "aurora: A static site generator implemented in Python",
       "https://github.com/capjamesg/aurora"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 10:59:00",
-      "https://lobste.rs/s/lia3u8/nuxt_auth_utils_release_v0_1"
-    ],
-    [
-      "nuxt-auth-utils release v0.1",
-      "https://github.com/Atinux/nuxt-auth-utils"
     ]
   ],
   [
