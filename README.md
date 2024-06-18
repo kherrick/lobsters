@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-18, 06:44:51](https://lobste.rs/s/k3ofpn/automap_how_do_numpy_style_broadcasting) - [AUTOMAP: How to do NumPy-style broadcasting in Futhark (but better)](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-18, 04:10:44](https://lobste.rs/s/gagni0/codd_we_trust_not) - [In Codd we Trust (or not)](https://buttondown.email/jaffray/archive/in-codd-we-trust-or-not/)
 * [2024-06-18, 03:50:59](https://lobste.rs/s/rv5lfj/matrix_pit_abuse_with_government_ties) - [Matrix - A Pit of Abuse with Government Ties](https://www.youtube.com/watch?v=W8KEuAEYjQ4)
 * [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
@@ -17,7 +18,6 @@
 * [2024-06-17, 15:06:24](https://lobste.rs/s/dnzyxh/what_s_hidden_behind_just_implementation) - [What's hidden behind \"just implementation details\"](https://ntietz.com/blog/whats-behind-just-implementation/)
 * [2024-06-17, 14:54:05](https://lobste.rs/s/gyg72w/composing_tla_specifications_with_state) - [Composing TLA+ Specifications with State Machines](https://www.hillelwayne.com/post/composing-tla/)
 * [2024-06-17, 14:04:13](https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators) - [Why People are Angry over Go 1.23 Iterators](https://www.gingerbill.org/article/2024/06/17/go-iterator-design/)
-* [2024-06-17, 12:58:34](https://lobste.rs/s/fhg5wu/github_copilot_chat_from_prompt) - [GitHub Copilot Chat: From Prompt Injection to Data Exfiltration](https://embracethered.com/blog/posts/2024/github-copilot-chat-prompt-injection-data-exfiltration/)
 * [2024-06-17, 11:58:09](https://lobste.rs/s/n4g4k2/quest_for_gargon_argon2_fips) - [The Quest for the Gargon (Argon2 + FIPS)](https://scottarc.blog/2024/06/17/the-quest-for-the-gargon/)
 * [2024-06-17, 11:12:53](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/6ysegm/what_are_you_doing_this_week)
 * [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)
