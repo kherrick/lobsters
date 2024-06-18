@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-06-18, 09:06:15](https://lobste.rs/s/jx5j4g/troubles_solving_uno) - [Troubles In Solving Uno](https://two-wrongs.com/troubles-in-solving-uno.html)
 * [2024-06-18, 08:52:05](https://lobste.rs/s/9njcqf/fuzzing_ebpf_implementation_rust) - [Fuzzing an eBPF implementation in Rust](https://secret.club/2022/05/11/fuzzing-solana.html)
 * [2024-06-18, 07:25:09](https://lobste.rs/s/martui/how_branch_prediction_works_cpus) - [How Branch Prediction Works in CPUs](https://www.youtube.com/watch?v=nczJ58WvtYo)

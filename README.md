@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-06-18, 09:06:15](https://lobste.rs/s/jx5j4g/troubles_solving_uno) - [Troubles In Solving Uno](https://two-wrongs.com/troubles-in-solving-uno.html)
 * [2024-06-18, 08:52:05](https://lobste.rs/s/9njcqf/fuzzing_ebpf_implementation_rust) - [Fuzzing an eBPF implementation in Rust](https://secret.club/2022/05/11/fuzzing-solana.html)
 * [2024-06-18, 07:25:09](https://lobste.rs/s/martui/how_branch_prediction_works_cpus) - [How Branch Prediction Works in CPUs](https://www.youtube.com/watch?v=nczJ58WvtYo)
@@ -24,7 +25,6 @@
 * [2024-06-17, 11:07:28](https://lobste.rs/s/5f7lpr/sqlc_2024_check) - [Sqlc: 2024 check in](https://brandur.org/fragments/sqlc-2024)
 * [2024-06-17, 09:58:19](https://lobste.rs/s/7lihcs/uuidv7_20_languages) - [UUIDv7 in 20 languages](https://antonz.org/uuidv7/)
 * [2024-06-17, 00:57:12](https://lobste.rs/s/usnqdc/ddos_attacks_can_threaten_independent) - [DDoS attacks can threaten the independent Internet](https://www.macchaffee.com/blog/2024/ddos-attacks/)
-* [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 
 ## [Archives](archives/index.md)
 
