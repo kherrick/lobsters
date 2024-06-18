@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-18, 00:41:56",
+      "https://lobste.rs/s/2igpbf/numpy_2_0_evolutionary_milestone"
+    ],
+    [
+      "NumPy 2.0: an evolutionary milestone",
+      "https://blog.scientific-python.org/numpy/numpy2/"
+    ]
+  ],
+  [
+    [
       "2024-06-17, 23:41:30",
       "https://lobste.rs/s/iawnnh/understanding_python_closure_oddity"
     ],
@@ -227,16 +237,6 @@
     [
       "The Raspberry Pi 5 is no match for a tini-mini-micro PC",
       "https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-16, 17:11:50",
-      "https://lobste.rs/s/2iqlcb/numpy_2_0_0_release"
-    ],
-    [
-      "NumPy 2.0.0 Release",
-      "https://github.com/numpy/numpy/releases/tag/v2.0.0"
     ]
   ],
   [
