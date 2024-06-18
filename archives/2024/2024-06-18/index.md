@@ -4,12 +4,14 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 21:05:47](https://lobste.rs/s/upthe8/when_will_hdd_finally_go_extinct) - [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
 * [2024-06-18, 18:53:35](https://lobste.rs/s/fibh4j/pitfalls_comparing_bigdecimals_java) - [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
 * [2024-06-18, 18:43:45](https://lobste.rs/s/l3w3ok/replace_fxhasher_with_faster_better) - [Replace FxHasher with faster and better finalized hash](https://github.com/rust-lang/rustc-hash/pull/37)
 * [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-18, 16:34:13](https://lobste.rs/s/xwbp1a/make_python_devex) - [Make Python DevEx](https://tech.target.com/blog/make-python-devex)
 * [2024-06-18, 16:02:01](https://lobste.rs/s/xwd2ke/nlnet_45_projects_receiving_new_ngi_zero) - [NLnet; 45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html)
 * [2024-06-18, 15:50:52](https://lobste.rs/s/eq815o/5_reasons_why_box_plots_are_better_default) - [5 Reasons Why Box Plots are the Better Default Choice for Visualizing Performance](https://stefan-marr.de/2024/06/5-reasons-for-box-plots-as-default/)
+* [2024-06-18, 15:27:45](https://lobste.rs/s/yltdys/why_your_ssd_probably_sucks_what_your) - [Why Your SSD (Probably) Sucks and What Your Database Can Do About It](https://cedardb.com/blog/ssd_latency/)
 * [2024-06-18, 14:48:10](https://lobste.rs/s/vomhop/introducing_new_risc_v_mainboard_from) - [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 14:24:28](https://lobste.rs/s/hnh0oj/go_package_for_calculating_sunrise) - [Go package for calculating the sunrise and sunset times for a given location](https://github.com/nathan-osman/go-sunrise)
 * [2024-06-18, 14:17:31](https://lobste.rs/s/sz0zfu/how_i_would_redesign_copilot_workspace) - [How I would redesign Copilot Workspace](https://austinhenley.com/blog/copilotworkspace.html)
