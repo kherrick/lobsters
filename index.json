@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-18, 21:05:47",
+      "https://lobste.rs/s/upthe8/when_will_hdd_finally_go_extinct"
+    ],
+    [
+      "When will the HDD finally go extinct?",
+      "https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 18:53:35",
       "https://lobste.rs/s/fibh4j/pitfalls_comparing_bigdecimals_java"
     ],
@@ -57,6 +67,16 @@
     [
       "5 Reasons Why Box Plots are the Better Default Choice for Visualizing Performance",
       "https://stefan-marr.de/2024/06/5-reasons-for-box-plots-as-default/"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 15:27:45",
+      "https://lobste.rs/s/yltdys/why_your_ssd_probably_sucks_what_your"
+    ],
+    [
+      "Why Your SSD (Probably) Sucks and What Your Database Can Do About It",
+      "https://cedardb.com/blog/ssd_latency/"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-06-17, 16:05:03",
-      "https://lobste.rs/s/wixznd/short_ipv6_guide_for_home_ipv4_admins"
-    ],
-    [
-      "A Short IPv6 Guide for Home IPv4 Admins",
-      "https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 14:04:13",
       "https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators"
     ],
@@ -237,16 +247,6 @@
     [
       "Sqlc: 2024 check in",
       "https://brandur.org/fragments/sqlc-2024"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 09:58:19",
-      "https://lobste.rs/s/7lihcs/uuidv7_20_languages"
-    ],
-    [
-      "UUIDv7 in 20 languages",
-      "https://antonz.org/uuidv7/"
     ]
   ]
 ]
