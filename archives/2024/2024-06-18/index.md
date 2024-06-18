@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 11:03:07](https://lobste.rs/s/nyqqyi/aurora_static_site_generator) - [aurora: A static site generator implemented in Python](https://github.com/capjamesg/aurora)
+* [2024-06-18, 10:59:00](https://lobste.rs/s/lia3u8/nuxt_auth_utils_release_v0_1) - [nuxt-auth-utils release v0.1](https://github.com/Atinux/nuxt-auth-utils)
+* [2024-06-18, 10:56:05](https://lobste.rs/s/ia19xj/enabling_technologies) - [Enabling Technologies](https://pulse.internetsociety.org/technologies)
 * [2024-06-18, 09:51:32](https://lobste.rs/s/bhmxyw/github_copilot_workspace_review) - [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
 * [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-06-18, 09:06:15](https://lobste.rs/s/jx5j4g/troubles_solving_uno) - [Troubles In Solving Uno](https://two-wrongs.com/troubles-in-solving-uno.html)
