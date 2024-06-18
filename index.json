@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-06-18, 14:24:28",
+      "https://lobste.rs/s/hnh0oj/go_package_for_calculating_sunrise"
+    ],
+    [
+      "Go package for calculating the sunrise and sunset times for a given location",
+      "https://github.com/nathan-osman/go-sunrise"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 14:17:31",
       "https://lobste.rs/s/sz0zfu/how_i_would_redesign_copilot_workspace"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2024-06-18, 11:03:07",
-      "https://lobste.rs/s/nyqqyi/aurora_static_site_generator"
-    ],
-    [
-      "aurora: A static site generator implemented in Python",
-      "https://github.com/capjamesg/aurora"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 09:51:32",
       "https://lobste.rs/s/bhmxyw/github_copilot_workspace_review"
     ],
@@ -87,6 +87,16 @@
     [
       "Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser",
       "https://www.phoronix.com/news/ReiserFS-README-Linux-6.10"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 09:06:15",
+      "https://lobste.rs/s/jx5j4g/troubles_solving_uno"
+    ],
+    [
+      "Troubles In Solving Uno",
+      "https://two-wrongs.com/troubles-in-solving-uno.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "A Short IPv6 Guide for Home IPv4 Admins",
       "https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 15:22:49",
-      "https://lobste.rs/s/raujqa/crossing_impossible_ffi_boundary_my"
-    ],
-    [
-      "Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness",
-      "https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2"
     ]
   ],
   [
