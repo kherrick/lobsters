@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 13:06:02](https://lobste.rs/s/kn0xmw/themes_from_real_world_crypto_2024) - [Themes from Real World Crypto 2024](https://blog.trailofbits.com/2024/06/18/themes-from-real-world-crypto-2024/)
 * [2024-06-18, 12:11:46](https://lobste.rs/s/5b87th/linux_kernel_development_automatic) - [Linux Kernel Development - Automatic Cleanup 2/2](https://javiercarrascocruz.github.io/kernel-auto-cleanup-1)
 * [2024-06-18, 11:03:07](https://lobste.rs/s/nyqqyi/aurora_static_site_generator) - [aurora: A static site generator implemented in Python](https://github.com/capjamesg/aurora)
 * [2024-06-18, 10:59:00](https://lobste.rs/s/lia3u8/nuxt_auth_utils_release_v0_1) - [nuxt-auth-utils release v0.1](https://github.com/Atinux/nuxt-auth-utils)
