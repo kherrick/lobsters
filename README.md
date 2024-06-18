@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-18, 01:40:03](https://lobste.rs/s/kbihsp/turning_tables_on_ai) - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
 * [2024-06-18, 00:41:56](https://lobste.rs/s/2igpbf/numpy_2_0_evolutionary_milestone) - [NumPy 2.0: an evolutionary milestone](https://blog.scientific-python.org/numpy/numpy2/)
 * [2024-06-17, 23:41:30](https://lobste.rs/s/iawnnh/understanding_python_closure_oddity) - [Understanding a Python Closure Oddity](https://utcc.utoronto.ca/~cks/space/blog/python/UnderstandingClosureOddity)
@@ -8,7 +9,6 @@
 * [2024-06-17, 22:06:53](https://lobste.rs/s/sbkacd/note_on_essential_complexity) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
 * [2024-06-17, 20:54:38](https://lobste.rs/s/ogxtsa/gnome_maintainers_here_s_how_keep_your) - [GNOME maintainers: here’s how to keep your issue tracker in good shape](https://blogs.gnome.org/aday/2024/05/17/gnome-maintainers-heres-how-to-keep-your-issue-tracker-in-good-shape/)
 * [2024-06-17, 20:54:26](https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released) - [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
-* [2024-06-17, 18:31:12](https://lobste.rs/s/dv07j3/optimized_inner_loop_runtime_compiler) - [Optimized Inner Loop Runtime Compiler](https://github.com/GStreamer/orc/)
 * [2024-06-17, 17:25:56](https://lobste.rs/s/whgjnx/making_const_version_rust_s_array_from_fn) - [Making a const version of Rust's array::from_fn - How hard can it be?](https://gendignoux.com/blog/2024/06/17/const-array-from-fn.html)
 * [2024-06-17, 16:05:03](https://lobste.rs/s/wixznd/short_ipv6_guide_for_home_ipv4_admins) - [A Short IPv6 Guide for Home IPv4 Admins](https://gist.github.com/timothyham/dd003dbad5614b425a8325ec820fd785)
 * [2024-06-17, 15:22:49](https://lobste.rs/s/raujqa/crossing_impossible_ffi_boundary_my) - [Crossing the Impossible FFI Boundary, and My Gradual Descent Into Madness](https://verdagon.dev/blog/exploring-seamless-rust-interop-part-2)
