@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-18, 04:10:44](https://lobste.rs/s/gagni0/codd_we_trust_not) - [In Codd we Trust (or not)](https://buttondown.email/jaffray/archive/in-codd-we-trust-or-not/)
 * [2024-06-18, 03:50:59](https://lobste.rs/s/rv5lfj/matrix_pit_abuse_with_government_ties) - [Matrix - A Pit of Abuse with Government Ties](https://www.youtube.com/watch?v=W8KEuAEYjQ4)
 * [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-18, 01:40:03](https://lobste.rs/s/kbihsp/turning_tables_on_ai) - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
@@ -24,7 +25,6 @@
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
 * [2024-06-16, 21:09:30](https://lobste.rs/s/iq8t7r/micromac_128k_macintosh_emulated_on) - [MicroMac, a 128k Macintosh emulated on an RP2040](https://axio.ms/projects/2024/06/16/MicroMac.html)
 * [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
-* [2024-06-16, 10:17:14](https://lobste.rs/s/d6lpfu/simple_sabotage_for_software) - [Simple sabotage for software](https://erikbern.com/2023/12/13/simple-sabotage-for-software.html)
 
 ## [Archives](archives/index.md)
 
