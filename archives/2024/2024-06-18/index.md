@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 07:25:09](https://lobste.rs/s/martui/how_branch_prediction_works_cpus) - [How Branch Prediction Works in CPUs](https://www.youtube.com/watch?v=nczJ58WvtYo)
 * [2024-06-18, 07:17:38](https://lobste.rs/s/5bpnvq/every_way_get_structured_output_from_llms) - [Every Way To Get Structured Output From LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
 * [2024-06-18, 06:44:51](https://lobste.rs/s/k3ofpn/automap_how_do_numpy_style_broadcasting) - [AUTOMAP: How to do NumPy-style broadcasting in Futhark (but better)](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-18, 04:10:44](https://lobste.rs/s/gagni0/codd_we_trust_not) - [In Codd we Trust (or not)](https://buttondown.email/jaffray/archive/in-codd-we-trust-or-not/)
