@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 23:02:39](https://lobste.rs/s/figfyr/wear_it_then_recycle_designers_create) - [Wear it, then Recycle: Designers Create Dissolvable Textiles from Gelatin](https://www.environmentenergyleader.com/2024/06/wear-it-then-recycle-designers-create-dissolvable-textiles-from-gelatin/)
 * [2024-06-18, 22:22:21](https://lobste.rs/s/ab71kb/ipc_rust_ping_pong_comparison) - [IPC in Rust - a Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 21:05:47](https://lobste.rs/s/upthe8/when_will_hdd_finally_go_extinct) - [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
 * [2024-06-18, 19:58:17](https://lobste.rs/s/hp2eae/versioning_freecad_files_with_git) - [Versioning FreeCAD files with git](https://blog.lambda.cx/posts/freecad-and-git/)
