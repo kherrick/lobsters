@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-18, 16:34:13",
+      "https://lobste.rs/s/xwbp1a/make_python_devex"
+    ],
+    [
+      "Make Python DevEx",
+      "https://tech.target.com/blog/make-python-devex"
+    ]
+  ],
+  [
+    [
       "2024-06-18, 14:48:10",
       "https://lobste.rs/s/vomhop/introducing_new_risc_v_mainboard_from"
     ],
@@ -67,6 +77,16 @@
     [
       "Linux Kernel Development - Automatic Cleanup 2/2",
       "https://javiercarrascocruz.github.io/kernel-auto-cleanup-1"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 11:03:07",
+      "https://lobste.rs/s/nyqqyi/aurora_static_site_generator"
+    ],
+    [
+      "aurora: A static site generator implemented in Python",
+      "https://github.com/capjamesg/aurora"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-06-17, 14:54:05",
-      "https://lobste.rs/s/gyg72w/composing_tla_specifications_with_state"
-    ],
-    [
-      "Composing TLA+ Specifications with State Machines",
-      "https://www.hillelwayne.com/post/composing-tla/"
-    ]
-  ],
-  [
-    [
       "2024-06-17, 14:04:13",
       "https://lobste.rs/s/o51y4t/why_people_are_angry_over_go_1_23_iterators"
     ],
     [
       "Why People are Angry over Go 1.23 Iterators",
       "https://www.gingerbill.org/article/2024/06/17/go-iterator-design/"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 11:58:09",
-      "https://lobste.rs/s/n4g4k2/quest_for_gargon_argon2_fips"
-    ],
-    [
-      "The Quest for the Gargon (Argon2 + FIPS)",
-      "https://scottarc.blog/2024/06/17/the-quest-for-the-gargon/"
     ]
   ],
   [
