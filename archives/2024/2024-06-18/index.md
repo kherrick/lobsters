@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 22:22:21](https://lobste.rs/s/ab71kb/ipc_rust_ping_pong_comparison) - [IPC in Rust - a Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 21:05:47](https://lobste.rs/s/upthe8/when_will_hdd_finally_go_extinct) - [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
 * [2024-06-18, 19:58:17](https://lobste.rs/s/hp2eae/versioning_freecad_files_with_git) - [Versioning FreeCAD files with git](https://blog.lambda.cx/posts/freecad-and-git/)
 * [2024-06-18, 18:53:35](https://lobste.rs/s/fibh4j/pitfalls_comparing_bigdecimals_java) - [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
