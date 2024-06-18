@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-18, 16:34:13](https://lobste.rs/s/xwbp1a/make_python_devex) - [Make Python DevEx](https://tech.target.com/blog/make-python-devex)
 * [2024-06-18, 16:02:01](https://lobste.rs/s/xwd2ke/nlnet_45_projects_receiving_new_ngi_zero) - [NLnet; 45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html)
 * [2024-06-18, 15:50:52](https://lobste.rs/s/eq815o/5_reasons_why_box_plots_are_better_default) - [5 Reasons Why Box Plots are the Better Default Choice for Visualizing Performance](https://stefan-marr.de/2024/06/5-reasons-for-box-plots-as-default/)
@@ -15,7 +16,6 @@
 * [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-06-18, 09:06:15](https://lobste.rs/s/jx5j4g/troubles_solving_uno) - [Troubles In Solving Uno](https://two-wrongs.com/troubles-in-solving-uno.html)
 * [2024-06-18, 08:52:05](https://lobste.rs/s/9njcqf/fuzzing_ebpf_implementation_rust) - [Fuzzing an eBPF implementation in Rust](https://secret.club/2022/05/11/fuzzing-solana.html)
-* [2024-06-18, 04:10:44](https://lobste.rs/s/gagni0/codd_we_trust_not) - [In Codd we Trust (or not)](https://buttondown.email/jaffray/archive/in-codd-we-trust-or-not/)
 * [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-18, 00:41:56](https://lobste.rs/s/2igpbf/numpy_2_0_evolutionary_milestone) - [NumPy 2.0: an evolutionary milestone](https://blog.scientific-python.org/numpy/numpy2/)
 * [2024-06-17, 22:06:53](https://lobste.rs/s/sbkacd/note_on_essential_complexity) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
