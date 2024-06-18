@@ -4,7 +4,6 @@
 * [2024-06-18, 07:17:38](https://lobste.rs/s/5bpnvq/every_way_get_structured_output_from_llms) - [Every Way To Get Structured Output From LLMs](https://www.boundaryml.com/blog/structured-output-from-llms)
 * [2024-06-18, 06:44:51](https://lobste.rs/s/k3ofpn/automap_how_do_numpy_style_broadcasting) - [AUTOMAP: How to do NumPy-style broadcasting in Futhark (but better)](https://futhark-lang.org/blog/2024-06-17-automap.html)
 * [2024-06-18, 04:10:44](https://lobste.rs/s/gagni0/codd_we_trust_not) - [In Codd we Trust (or not)](https://buttondown.email/jaffray/archive/in-codd-we-trust-or-not/)
-* [2024-06-18, 03:50:59](https://lobste.rs/s/rv5lfj/matrix_pit_abuse_with_government_ties) - [Matrix - A Pit of Abuse with Government Ties](https://www.youtube.com/watch?v=W8KEuAEYjQ4)
 * [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-18, 01:40:03](https://lobste.rs/s/kbihsp/turning_tables_on_ai) - [Turning the Tables on AI](https://ia.net/topics/turning-the-tables-on-ai)
 * [2024-06-18, 00:41:56](https://lobste.rs/s/2igpbf/numpy_2_0_evolutionary_milestone) - [NumPy 2.0: an evolutionary milestone](https://blog.scientific-python.org/numpy/numpy2/)
@@ -25,6 +24,7 @@
 * [2024-06-17, 09:58:19](https://lobste.rs/s/7lihcs/uuidv7_20_languages) - [UUIDv7 in 20 languages](https://antonz.org/uuidv7/)
 * [2024-06-17, 00:57:12](https://lobste.rs/s/usnqdc/ddos_attacks_can_threaten_independent) - [DDoS attacks can threaten the independent Internet](https://www.macchaffee.com/blog/2024/ddos-attacks/)
 * [2024-06-16, 22:44:44](https://lobste.rs/s/avo62z/story_reformatting_100k_files_at_google) - [The Story of Reformatting 100k Files at Google in 2012](https://laurent.le-brun.eu/blog/the-story-of-reformatting-100k-files-at-google-in-2011)
+* [2024-06-16, 17:32:12](https://lobste.rs/s/bqy6ck/raspberry_pi_5_is_no_match_for_tini_mini) - [The Raspberry Pi 5 is no match for a tini-mini-micro PC](https://louwrentius.com/the-raspberry-pi-5-is-no-match-for-a-tini-mini-micro-pc.html)
 
 ## [Archives](archives/index.md)
 
