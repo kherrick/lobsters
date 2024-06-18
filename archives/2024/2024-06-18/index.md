@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 14:17:31](https://lobste.rs/s/sz0zfu/how_i_would_redesign_copilot_workspace) - [How I would redesign Copilot Workspace](https://austinhenley.com/blog/copilotworkspace.html)
 * [2024-06-18, 13:43:03](https://lobste.rs/s/qvhcjf/s2malloc_statistically_secure) - [S2malloc: Statistically Secure Allocator for Use-After-Free Protection And More](https://arxiv.org/pdf/2402.01894)
 * [2024-06-18, 13:23:25](https://lobste.rs/s/n37nfl/basic_python_project_setup) - [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
 * [2024-06-18, 13:06:02](https://lobste.rs/s/kn0xmw/themes_from_real_world_crypto_2024) - [Themes from Real World Crypto 2024](https://blog.trailofbits.com/2024/06/18/themes-from-real-world-crypto-2024/)
