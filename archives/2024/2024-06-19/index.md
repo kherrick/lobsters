@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 19:00:25](https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s) - [How free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/be23210c163a2107/)
 * [2024-06-19, 17:16:12](https://lobste.rs/s/m9xv5y/f_functional_false) - [F: Functional False](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 16:07:21](https://lobste.rs/s/n8ywvg/latitude_longitude_my_new_daily_driver) - [Latitude and Longitude, or My New Daily Driver](https://daudix.codeberg.page/blog/not-that-latitude/)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)

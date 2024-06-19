@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 19:00:25](https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s) - [How free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/be23210c163a2107/)
 * [2024-06-19, 17:16:12](https://lobste.rs/s/m9xv5y/f_functional_false) - [F: Functional False](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 16:07:21](https://lobste.rs/s/n8ywvg/latitude_longitude_my_new_daily_driver) - [Latitude and Longitude, or My New Daily Driver](https://daudix.codeberg.page/blog/not-that-latitude/)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
@@ -20,7 +21,6 @@
 * [2024-06-18, 16:34:13](https://lobste.rs/s/xwbp1a/make_python_devex) - [Make Python DevEx](https://tech.target.com/blog/make-python-devex)
 * [2024-06-18, 16:02:01](https://lobste.rs/s/xwd2ke/nlnet_45_projects_receiving_new_ngi_zero) - [NLnet; 45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html)
 * [2024-06-18, 14:48:10](https://lobste.rs/s/vomhop/introducing_new_risc_v_mainboard_from) - [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
-* [2024-06-18, 14:24:28](https://lobste.rs/s/hnh0oj/go_package_for_calculating_sunrise) - [Go package for calculating the sunrise and sunset times for a given location](https://github.com/nathan-osman/go-sunrise)
 * [2024-06-18, 13:23:25](https://lobste.rs/s/n37nfl/basic_python_project_setup) - [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
 * [2024-06-18, 09:51:32](https://lobste.rs/s/bhmxyw/github_copilot_workspace_review) - [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
 * [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
