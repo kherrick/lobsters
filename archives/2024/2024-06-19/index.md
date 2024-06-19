@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 05:55:46](https://lobste.rs/s/6id8s3/attacking_android_binder_analysis) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 * [2024-06-19, 02:16:31](https://lobste.rs/s/1y9hjq/regular_json) - [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
 * [2024-06-19, 01:23:59](https://lobste.rs/s/oh5afn/past_present_future_local_first) - [The past, present, and future of local-first](https://youtu.be/NMq0vncHJvU)

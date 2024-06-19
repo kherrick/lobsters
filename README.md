@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 05:55:46](https://lobste.rs/s/6id8s3/attacking_android_binder_analysis) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 * [2024-06-19, 02:16:31](https://lobste.rs/s/1y9hjq/regular_json) - [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
 * [2024-06-19, 01:23:59](https://lobste.rs/s/oh5afn/past_present_future_local_first) - [The past, present, and future of local-first](https://youtu.be/NMq0vncHJvU)
@@ -23,7 +24,6 @@
 * [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
 * [2024-06-18, 00:41:56](https://lobste.rs/s/2igpbf/numpy_2_0_evolutionary_milestone) - [NumPy 2.0: an evolutionary milestone](https://blog.scientific-python.org/numpy/numpy2/)
-* [2024-06-17, 22:06:53](https://lobste.rs/s/sbkacd/note_on_essential_complexity) - [A Note on Essential Complexity](https://olano.dev/blog/a-note-on-essential-complexity)
 * [2024-06-17, 20:54:26](https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released) - [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
 
 ## [Archives](archives/index.md)
