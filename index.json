@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-19, 19:00:25",
+      "https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s"
+    ],
+    [
+      "How free software hijacked Philip Hazel's life",
+      "https://lwn.net/SubscriberLink/978463/be23210c163a2107/"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 17:16:12",
       "https://lobste.rs/s/m9xv5y/f_functional_false"
     ],
@@ -197,16 +207,6 @@
     [
       "Introducing a new RISC-V Mainboard from DeepComputing",
       "https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 14:24:28",
-      "https://lobste.rs/s/hnh0oj/go_package_for_calculating_sunrise"
-    ],
-    [
-      "Go package for calculating the sunrise and sunset times for a given location",
-      "https://github.com/nathan-osman/go-sunrise"
     ]
   ],
   [
