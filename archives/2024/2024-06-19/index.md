@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 21:55:57](https://lobste.rs/s/wujiaw/orb_write_webassembly_with_elixir) - [Orb: Write WebAssembly with Elixir](https://useorb.dev/)
 * [2024-06-19, 21:31:18](https://lobste.rs/s/bafqer/firefox_127_0_1) - [Firefox 127.0.1](https://www.mozilla.org/en-US/firefox/127.0.1/releasenotes/)
 * [2024-06-19, 20:21:59](https://lobste.rs/s/5wxypo/binary_ninja_restructuring_binary_ninja) - [Binary Ninja - Restructuring the Binary Ninja Decompiler](https://binary.ninja/2024/06/19/restructuring-the-decompiler.html)
 * [2024-06-19, 20:14:36](https://lobste.rs/s/zuntqh/announcing_phoenix_playground) - [Announcing Phoenix Playground](https://dashbit.co/blog/announcing-phoenix-playground)

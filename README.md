@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 21:55:57](https://lobste.rs/s/wujiaw/orb_write_webassembly_with_elixir) - [Orb: Write WebAssembly with Elixir](https://useorb.dev/)
 * [2024-06-19, 21:31:18](https://lobste.rs/s/bafqer/firefox_127_0_1) - [Firefox 127.0.1](https://www.mozilla.org/en-US/firefox/127.0.1/releasenotes/)
 * [2024-06-19, 20:21:59](https://lobste.rs/s/5wxypo/binary_ninja_restructuring_binary_ninja) - [Binary Ninja - Restructuring the Binary Ninja Decompiler](https://binary.ninja/2024/06/19/restructuring-the-decompiler.html)
 * [2024-06-19, 20:14:36](https://lobste.rs/s/zuntqh/announcing_phoenix_playground) - [Announcing Phoenix Playground](https://dashbit.co/blog/announcing-phoenix-playground)
@@ -20,7 +21,6 @@
 * [2024-06-18, 23:35:37](https://lobste.rs/s/akbosx/update_on_newton_wayland_native) - [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
 * [2024-06-18, 18:43:45](https://lobste.rs/s/l3w3ok/replace_fxhasher_with_faster_better) - [Replace FxHasher with faster and better finalized hash](https://github.com/rust-lang/rustc-hash/pull/37)
 * [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
-* [2024-06-18, 16:34:13](https://lobste.rs/s/xwbp1a/make_python_devex) - [Make Python DevEx](https://tech.target.com/blog/make-python-devex)
 * [2024-06-18, 16:02:01](https://lobste.rs/s/xwd2ke/nlnet_45_projects_receiving_new_ngi_zero) - [NLnet; 45 Projects Receiving New NGI Zero Grants](https://nlnet.nl/news/2024/20240618-Call-announcement.html)
 * [2024-06-18, 14:48:10](https://lobste.rs/s/vomhop/introducing_new_risc_v_mainboard_from) - [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 13:23:25](https://lobste.rs/s/n37nfl/basic_python_project_setup) - [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
