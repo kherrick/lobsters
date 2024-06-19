@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 16:07:21](https://lobste.rs/s/n8ywvg/latitude_longitude_my_new_daily_driver) - [Latitude and Longitude, or My New Daily Driver](https://daudix.codeberg.page/blog/not-that-latitude/)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
 * [2024-06-19, 14:07:36](https://lobste.rs/s/5jaone/how_use_new_counted_by_attribute_c_linux) - [How to use the new counted_by attribute in C (and Linux)](https://embeddedor.com/blog/2024/06/18/how-to-use-the-new-counted_by-attribute-in-c-and-linux/)
 * [2024-06-19, 13:54:42](https://lobste.rs/s/6bwo4o/why_how_run_your_own_freebsd_package_cache) - [Why and how to run your own FreeBSD package cache](https://blog.rlwinm.de/why-and-how-to-run-your-own-freebsd-package-cache-3wbg)
@@ -21,7 +22,6 @@
 * [2024-06-18, 14:48:10](https://lobste.rs/s/vomhop/introducing_new_risc_v_mainboard_from) - [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 14:24:28](https://lobste.rs/s/hnh0oj/go_package_for_calculating_sunrise) - [Go package for calculating the sunrise and sunset times for a given location](https://github.com/nathan-osman/go-sunrise)
 * [2024-06-18, 13:23:25](https://lobste.rs/s/n37nfl/basic_python_project_setup) - [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
-* [2024-06-18, 11:03:07](https://lobste.rs/s/nyqqyi/aurora_static_site_generator) - [aurora: A static site generator implemented in Python](https://github.com/capjamesg/aurora)
 * [2024-06-18, 09:51:32](https://lobste.rs/s/bhmxyw/github_copilot_workspace_review) - [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
 * [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-06-17, 20:54:26](https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released) - [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
