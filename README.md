@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 19:29:18](https://lobste.rs/s/cxkh9h/free_open_source_software_other_market) - [Free and Open Source Software - and Other Market Failures](https://queue.acm.org/detail.cfm?id=3649298)
 * [2024-06-19, 19:00:25](https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s) - [How free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/be23210c163a2107/)
 * [2024-06-19, 17:16:12](https://lobste.rs/s/m9xv5y/f_functional_false) - [F: Functional False](http://www.nsl.com/k/f/f.htm)
-* [2024-06-19, 16:07:21](https://lobste.rs/s/n8ywvg/latitude_longitude_my_new_daily_driver) - [Latitude and Longitude, or My New Daily Driver](https://daudix.codeberg.page/blog/not-that-latitude/)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
 * [2024-06-19, 14:07:36](https://lobste.rs/s/5jaone/how_use_new_counted_by_attribute_c_linux) - [How to use the new counted_by attribute in C (and Linux)](https://embeddedor.com/blog/2024/06/18/how-to-use-the-new-counted_by-attribute-in-c-and-linux/)
 * [2024-06-19, 13:54:42](https://lobste.rs/s/6bwo4o/why_how_run_your_own_freebsd_package_cache) - [Why and how to run your own FreeBSD package cache](https://blog.rlwinm.de/why-and-how-to-run-your-own-freebsd-package-cache-3wbg)
