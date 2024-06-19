@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-19, 06:01:05",
+      "https://lobste.rs/s/do6guz/on_kernel_s_safety_spectre_era_kaslr_is"
+    ],
+    [
+      "On Kernel’s Safety in the Spectre Era (And KASLR is Formally Dead)",
+      "https://arxiv.org/pdf/2406.07278"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 05:57:34",
+      "https://lobste.rs/s/jzbtdh/active_exploitation_observed_for_linux"
+    ],
+    [
+      "Active Exploitation Observed for Linux Kernel Privilege Escalation Vulnerability (CVE-2024-1086)",
+      "https://www.crowdstrike.com/blog/active-exploitation-linux-kernel-privilege-escalation-vulnerability/"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 05:55:46",
       "https://lobste.rs/s/6id8s3/attacking_android_binder_analysis"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-18, 13:43:03",
-      "https://lobste.rs/s/qvhcjf/s2malloc_statistically_secure"
-    ],
-    [
-      "S2malloc: Statistically Secure Allocator for Use-After-Free Protection And More",
-      "https://arxiv.org/pdf/2402.01894"
-    ]
-  ],
-  [
-    [
       "2024-06-18, 13:23:25",
       "https://lobste.rs/s/n37nfl/basic_python_project_setup"
     ],
@@ -227,16 +237,6 @@
     [
       "SSH as a sudo replacement",
       "https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 00:41:56",
-      "https://lobste.rs/s/2igpbf/numpy_2_0_evolutionary_milestone"
-    ],
-    [
-      "NumPy 2.0: an evolutionary milestone",
-      "https://blog.scientific-python.org/numpy/numpy2/"
     ]
   ],
   [
