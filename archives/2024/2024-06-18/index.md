@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-18](index.md)
 
+* [2024-06-18, 23:35:37](https://lobste.rs/s/akbosx/update_on_newton_wayland_native) - [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
 * [2024-06-18, 23:02:39](https://lobste.rs/s/figfyr/wear_it_then_recycle_designers_create) - [Wear it, then Recycle: Designers Create Dissolvable Textiles from Gelatin](https://www.environmentenergyleader.com/2024/06/wear-it-then-recycle-designers-create-dissolvable-textiles-from-gelatin/)
 * [2024-06-18, 22:22:21](https://lobste.rs/s/ab71kb/ipc_rust_ping_pong_comparison) - [IPC in Rust - a Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 21:05:47](https://lobste.rs/s/upthe8/when_will_hdd_finally_go_extinct) - [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
