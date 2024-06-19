@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 20:04:58](https://lobste.rs/s/r40dyi/embedding_resources_into_binary_with_c) - [Embedding resources into binary with C](https://mitjafelicijan.com/embedding-resources-into-binary-with-c.html)
+* [2024-06-19, 20:04:39](https://lobste.rs/s/zsvgaa/security_2000s) - [Security in the 2000s](https://www.macchaffee.com/blog/2024/2000s-security/)
 * [2024-06-19, 19:29:18](https://lobste.rs/s/cxkh9h/free_open_source_software_other_market) - [Free and Open Source Software - and Other Market Failures](https://queue.acm.org/detail.cfm?id=3649298)
 * [2024-06-19, 19:00:25](https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s) - [How free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/be23210c163a2107/)
 * [2024-06-19, 17:16:12](https://lobste.rs/s/m9xv5y/f_functional_false) - [F: Functional False](http://www.nsl.com/k/f/f.htm)
