@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 09:05:01](https://lobste.rs/s/bposut/build2_0_17_0_released) - [build2 0.17.0 released](https://build2.org/release/0.17.0.xhtml)
 * [2024-06-19, 06:01:05](https://lobste.rs/s/do6guz/on_kernel_s_safety_spectre_era_kaslr_is) - [On Kernel’s Safety in the Spectre Era (And KASLR is Formally Dead)](https://arxiv.org/pdf/2406.07278)
 * [2024-06-19, 05:57:34](https://lobste.rs/s/jzbtdh/active_exploitation_observed_for_linux) - [Active Exploitation Observed for Linux Kernel Privilege Escalation Vulnerability (CVE-2024-1086)](https://www.crowdstrike.com/blog/active-exploitation-linux-kernel-privilege-escalation-vulnerability/)
 * [2024-06-19, 05:55:46](https://lobste.rs/s/6id8s3/attacking_android_binder_analysis) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
