@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 23:51:43](https://lobste.rs/s/cdaxkm/major_version_numbers_may_not_be_sacred) - [Major version numbers may not be sacred, but backwards compatibility is](https://blog.cessen.com/post/2022_07_09_major_version_numbers_may_not_be_sacred)
+* [2024-06-19, 23:47:37](https://lobste.rs/s/fflorq/go_s_range_over_functions_iterators) - [Go's 'range over functions' iterators and avoiding iteration errors](https://utcc.utoronto.ca/~cks/space/blog/programming/GoIteratorsAndAvoidingMistakes)
 * [2024-06-19, 21:55:57](https://lobste.rs/s/wujiaw/orb_write_webassembly_with_elixir) - [Orb: Write WebAssembly with Elixir](https://useorb.dev/)
 * [2024-06-19, 21:31:18](https://lobste.rs/s/bafqer/firefox_127_0_1) - [Firefox 127.0.1](https://www.mozilla.org/en-US/firefox/127.0.1/releasenotes/)
 * [2024-06-19, 20:21:59](https://lobste.rs/s/5wxypo/binary_ninja_restructuring_binary_ninja) - [Binary Ninja - Restructuring the Binary Ninja Decompiler](https://binary.ninja/2024/06/19/restructuring-the-decompiler.html)
@@ -15,10 +17,8 @@
 * [2024-06-19, 13:39:05](https://lobste.rs/s/11xbhy/apple_is_landing_patches_freebsd) - [Apple is landing patches in FreeBSD](https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00)
 * [2024-06-19, 09:05:01](https://lobste.rs/s/bposut/build2_0_17_0_released) - [build2 0.17.0 released](https://build2.org/release/0.17.0.xhtml)
 * [2024-06-19, 06:01:05](https://lobste.rs/s/do6guz/on_kernel_s_safety_spectre_era_kaslr_is) - [On Kernel’s Safety in the Spectre Era (And KASLR is Formally Dead)](https://arxiv.org/pdf/2406.07278)
-* [2024-06-19, 05:57:34](https://lobste.rs/s/jzbtdh/active_exploitation_observed_for_linux) - [Active Exploitation Observed for Linux Kernel Privilege Escalation Vulnerability (CVE-2024-1086)](https://www.crowdstrike.com/blog/active-exploitation-linux-kernel-privilege-escalation-vulnerability/)
 * [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 * [2024-06-19, 02:16:31](https://lobste.rs/s/1y9hjq/regular_json) - [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
-* [2024-06-19, 01:23:59](https://lobste.rs/s/oh5afn/past_present_future_local_first) - [The past, present, and future of local-first](https://youtu.be/NMq0vncHJvU)
 * [2024-06-18, 23:35:37](https://lobste.rs/s/akbosx/update_on_newton_wayland_native) - [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
 * [2024-06-18, 18:43:45](https://lobste.rs/s/l3w3ok/replace_fxhasher_with_faster_better) - [Replace FxHasher with faster and better finalized hash](https://github.com/rust-lang/rustc-hash/pull/37)
 * [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 23:51:43](https://lobste.rs/s/cdaxkm/major_version_numbers_may_not_be_sacred) - [Major version numbers may not be sacred, but backwards compatibility is](https://blog.cessen.com/post/2022_07_09_major_version_numbers_may_not_be_sacred)
+* [2024-06-19, 23:47:37](https://lobste.rs/s/fflorq/go_s_range_over_functions_iterators) - [Go's 'range over functions' iterators and avoiding iteration errors](https://utcc.utoronto.ca/~cks/space/blog/programming/GoIteratorsAndAvoidingMistakes)
 * [2024-06-19, 21:55:57](https://lobste.rs/s/wujiaw/orb_write_webassembly_with_elixir) - [Orb: Write WebAssembly with Elixir](https://useorb.dev/)
 * [2024-06-19, 21:31:18](https://lobste.rs/s/bafqer/firefox_127_0_1) - [Firefox 127.0.1](https://www.mozilla.org/en-US/firefox/127.0.1/releasenotes/)
 * [2024-06-19, 20:21:59](https://lobste.rs/s/5wxypo/binary_ninja_restructuring_binary_ninja) - [Binary Ninja - Restructuring the Binary Ninja Decompiler](https://binary.ninja/2024/06/19/restructuring-the-decompiler.html)
