@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 06:01:05](https://lobste.rs/s/do6guz/on_kernel_s_safety_spectre_era_kaslr_is) - [On Kernel’s Safety in the Spectre Era (And KASLR is Formally Dead)](https://arxiv.org/pdf/2406.07278)
+* [2024-06-19, 05:57:34](https://lobste.rs/s/jzbtdh/active_exploitation_observed_for_linux) - [Active Exploitation Observed for Linux Kernel Privilege Escalation Vulnerability (CVE-2024-1086)](https://www.crowdstrike.com/blog/active-exploitation-linux-kernel-privilege-escalation-vulnerability/)
 * [2024-06-19, 05:55:46](https://lobste.rs/s/6id8s3/attacking_android_binder_analysis) - [Attacking Android Binder: Analysis and Exploitation of CVE-2023-20938](https://androidoffsec.withgoogle.com/posts/attacking-android-binder-analysis-and-exploitation-of-cve-2023-20938/)
 * [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 * [2024-06-19, 02:16:31](https://lobste.rs/s/1y9hjq/regular_json) - [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
@@ -16,14 +18,12 @@
 * [2024-06-18, 15:50:52](https://lobste.rs/s/eq815o/5_reasons_why_box_plots_are_better_default) - [5 Reasons Why Box Plots are the Better Default Choice for Visualizing Performance](https://stefan-marr.de/2024/06/5-reasons-for-box-plots-as-default/)
 * [2024-06-18, 14:48:10](https://lobste.rs/s/vomhop/introducing_new_risc_v_mainboard_from) - [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 14:24:28](https://lobste.rs/s/hnh0oj/go_package_for_calculating_sunrise) - [Go package for calculating the sunrise and sunset times for a given location](https://github.com/nathan-osman/go-sunrise)
-* [2024-06-18, 13:43:03](https://lobste.rs/s/qvhcjf/s2malloc_statistically_secure) - [S2malloc: Statistically Secure Allocator for Use-After-Free Protection And More](https://arxiv.org/pdf/2402.01894)
 * [2024-06-18, 13:23:25](https://lobste.rs/s/n37nfl/basic_python_project_setup) - [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
 * [2024-06-18, 13:06:02](https://lobste.rs/s/kn0xmw/themes_from_real_world_crypto_2024) - [Themes from Real World Crypto 2024](https://blog.trailofbits.com/2024/06/18/themes-from-real-world-crypto-2024/)
 * [2024-06-18, 11:03:07](https://lobste.rs/s/nyqqyi/aurora_static_site_generator) - [aurora: A static site generator implemented in Python](https://github.com/capjamesg/aurora)
 * [2024-06-18, 09:51:32](https://lobste.rs/s/bhmxyw/github_copilot_workspace_review) - [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
 * [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
 * [2024-06-18, 02:59:09](https://lobste.rs/s/ozj5nz/ssh_as_sudo_replacement) - [SSH as a sudo replacement](https://whynothugo.nl/journal/2024/06/13/ssh-as-a-sudo-replacement/)
-* [2024-06-18, 00:41:56](https://lobste.rs/s/2igpbf/numpy_2_0_evolutionary_milestone) - [NumPy 2.0: an evolutionary milestone](https://blog.scientific-python.org/numpy/numpy2/)
 * [2024-06-17, 20:54:26](https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released) - [htmx 2.0.0 has been released](https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/)
 
 ## [Archives](archives/index.md)
