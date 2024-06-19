@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 20:21:59](https://lobste.rs/s/5wxypo/binary_ninja_restructuring_binary_ninja) - [Binary Ninja - Restructuring the Binary Ninja Decompiler](https://binary.ninja/2024/06/19/restructuring-the-decompiler.html)
+* [2024-06-19, 20:14:36](https://lobste.rs/s/zuntqh/announcing_phoenix_playground) - [Announcing Phoenix Playground](https://dashbit.co/blog/announcing-phoenix-playground)
 * [2024-06-19, 20:04:58](https://lobste.rs/s/r40dyi/embedding_resources_into_binary_with_c) - [Embedding resources into binary with C](https://mitjafelicijan.com/embedding-resources-into-binary-with-c.html)
 * [2024-06-19, 20:04:39](https://lobste.rs/s/zsvgaa/security_2000s) - [Security in the 2000s](https://www.macchaffee.com/blog/2024/2000s-security/)
 * [2024-06-19, 19:29:18](https://lobste.rs/s/cxkh9h/free_open_source_software_other_market) - [Free and Open Source Software - and Other Market Failures](https://queue.acm.org/detail.cfm?id=3649298)
@@ -15,9 +17,7 @@
 * [2024-06-19, 05:57:34](https://lobste.rs/s/jzbtdh/active_exploitation_observed_for_linux) - [Active Exploitation Observed for Linux Kernel Privilege Escalation Vulnerability (CVE-2024-1086)](https://www.crowdstrike.com/blog/active-exploitation-linux-kernel-privilege-escalation-vulnerability/)
 * [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 * [2024-06-19, 02:16:31](https://lobste.rs/s/1y9hjq/regular_json) - [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
-* [2024-06-19, 01:23:59](https://lobste.rs/s/oh5afn/past_present_future_local_first) - [The past, present, and future of local-first](https://youtu.be/NMq0vncHJvU)
 * [2024-06-18, 23:35:37](https://lobste.rs/s/akbosx/update_on_newton_wayland_native) - [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
-* [2024-06-18, 21:05:47](https://lobste.rs/s/upthe8/when_will_hdd_finally_go_extinct) - [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
 * [2024-06-18, 18:43:45](https://lobste.rs/s/l3w3ok/replace_fxhasher_with_faster_better) - [Replace FxHasher with faster and better finalized hash](https://github.com/rust-lang/rustc-hash/pull/37)
 * [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-18, 16:34:13](https://lobste.rs/s/xwbp1a/make_python_devex) - [Make Python DevEx](https://tech.target.com/blog/make-python-devex)

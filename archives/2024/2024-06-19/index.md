@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 20:21:59](https://lobste.rs/s/5wxypo/binary_ninja_restructuring_binary_ninja) - [Binary Ninja - Restructuring the Binary Ninja Decompiler](https://binary.ninja/2024/06/19/restructuring-the-decompiler.html)
+* [2024-06-19, 20:14:36](https://lobste.rs/s/zuntqh/announcing_phoenix_playground) - [Announcing Phoenix Playground](https://dashbit.co/blog/announcing-phoenix-playground)
 * [2024-06-19, 20:04:58](https://lobste.rs/s/r40dyi/embedding_resources_into_binary_with_c) - [Embedding resources into binary with C](https://mitjafelicijan.com/embedding-resources-into-binary-with-c.html)
 * [2024-06-19, 20:04:39](https://lobste.rs/s/zsvgaa/security_2000s) - [Security in the 2000s](https://www.macchaffee.com/blog/2024/2000s-security/)
 * [2024-06-19, 19:29:18](https://lobste.rs/s/cxkh9h/free_open_source_software_other_market) - [Free and Open Source Software - and Other Market Failures](https://queue.acm.org/detail.cfm?id=3649298)
