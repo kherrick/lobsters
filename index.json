@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-19, 20:04:58",
+      "https://lobste.rs/s/r40dyi/embedding_resources_into_binary_with_c"
+    ],
+    [
+      "Embedding resources into binary with C",
+      "https://mitjafelicijan.com/embedding-resources-into-binary-with-c.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 20:04:39",
+      "https://lobste.rs/s/zsvgaa/security_2000s"
+    ],
+    [
+      "Security in the 2000s",
+      "https://www.macchaffee.com/blog/2024/2000s-security/"
+    ]
+  ],
+  [
+    [
       "2024-06-19, 19:29:18",
       "https://lobste.rs/s/cxkh9h/free_open_source_software_other_market"
     ],
@@ -227,26 +247,6 @@
     [
       "GitHub Copilot Workspace Review",
       "https://matduggan.com/reviewing-github-copilot-workspaces/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 09:24:02",
-      "https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs"
-    ],
-    [
-      "Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser",
-      "https://www.phoronix.com/news/ReiserFS-README-Linux-6.10"
-    ]
-  ],
-  [
-    [
-      "2024-06-17, 20:54:26",
-      "https://lobste.rs/s/cieh0y/htmx_2_0_0_has_been_released"
-    ],
-    [
-      "htmx 2.0.0 has been released",
-      "https://htmx.org/posts/2024-06-17-htmx-2-0-0-is-released/"
     ]
   ]
 ]
