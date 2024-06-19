@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 14:07:36](https://lobste.rs/s/5jaone/how_use_new_counted_by_attribute_c_linux) - [How to use the new counted_by attribute in C (and Linux)](https://embeddedor.com/blog/2024/06/18/how-to-use-the-new-counted_by-attribute-in-c-and-linux/)
+* [2024-06-19, 13:54:42](https://lobste.rs/s/6bwo4o/why_how_run_your_own_freebsd_package_cache) - [Why and how to run your own FreeBSD package cache](https://blog.rlwinm.de/why-and-how-to-run-your-own-freebsd-package-cache-3wbg)
 * [2024-06-19, 13:39:47](https://lobste.rs/s/nmlsnw/mythical_non_roboticist) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-06-19, 13:39:05](https://lobste.rs/s/11xbhy/apple_is_landing_patches_freebsd) - [Apple is landing patches in FreeBSD](https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00)
 * [2024-06-19, 09:05:01](https://lobste.rs/s/bposut/build2_0_17_0_released) - [build2 0.17.0 released](https://build2.org/release/0.17.0.xhtml)
@@ -9,9 +11,7 @@
 * [2024-06-19, 02:16:31](https://lobste.rs/s/1y9hjq/regular_json) - [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
 * [2024-06-19, 01:23:59](https://lobste.rs/s/oh5afn/past_present_future_local_first) - [The past, present, and future of local-first](https://youtu.be/NMq0vncHJvU)
 * [2024-06-18, 23:35:37](https://lobste.rs/s/akbosx/update_on_newton_wayland_native) - [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
-* [2024-06-18, 22:22:21](https://lobste.rs/s/ab71kb/ipc_rust_ping_pong_comparison) - [IPC in Rust - a Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 21:05:47](https://lobste.rs/s/upthe8/when_will_hdd_finally_go_extinct) - [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
-* [2024-06-18, 18:53:35](https://lobste.rs/s/fibh4j/pitfalls_comparing_bigdecimals_java) - [The Pitfalls of Comparing BigDecimals in Java](https://igorstechnoclub.com/java-bigdecimal/)
 * [2024-06-18, 18:43:45](https://lobste.rs/s/l3w3ok/replace_fxhasher_with_faster_better) - [Replace FxHasher with faster and better finalized hash](https://github.com/rust-lang/rustc-hash/pull/37)
 * [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-18, 16:34:13](https://lobste.rs/s/xwbp1a/make_python_devex) - [Make Python DevEx](https://tech.target.com/blog/make-python-devex)

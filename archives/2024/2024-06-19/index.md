@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-19](index.md)
 
+* [2024-06-19, 14:07:36](https://lobste.rs/s/5jaone/how_use_new_counted_by_attribute_c_linux) - [How to use the new counted_by attribute in C (and Linux)](https://embeddedor.com/blog/2024/06/18/how-to-use-the-new-counted_by-attribute-in-c-and-linux/)
+* [2024-06-19, 13:54:42](https://lobste.rs/s/6bwo4o/why_how_run_your_own_freebsd_package_cache) - [Why and how to run your own FreeBSD package cache](https://blog.rlwinm.de/why-and-how-to-run-your-own-freebsd-package-cache-3wbg)
 * [2024-06-19, 13:39:47](https://lobste.rs/s/nmlsnw/mythical_non_roboticist) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-06-19, 13:39:05](https://lobste.rs/s/11xbhy/apple_is_landing_patches_freebsd) - [Apple is landing patches in FreeBSD](https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00)
 * [2024-06-19, 09:05:01](https://lobste.rs/s/bposut/build2_0_17_0_released) - [build2 0.17.0 released](https://build2.org/release/0.17.0.xhtml)
