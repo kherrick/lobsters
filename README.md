@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-19, 01:23:59](https://lobste.rs/s/oh5afn/past_present_future_local_first) - [The past, present, and future of local-first](https://youtu.be/NMq0vncHJvU)
 * [2024-06-18, 23:35:37](https://lobste.rs/s/akbosx/update_on_newton_wayland_native) - [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
 * [2024-06-18, 22:22:21](https://lobste.rs/s/ab71kb/ipc_rust_ping_pong_comparison) - [IPC in Rust - a Ping Pong Comparison](https://3tilley.github.io/posts/simple-ipc-ping-pong/)
 * [2024-06-18, 21:05:47](https://lobste.rs/s/upthe8/when_will_hdd_finally_go_extinct) - [When will the HDD finally go extinct?](https://www.techzine.eu/blogs/data-management/114808/when-will-the-hdd-finally-go-extinct/)
@@ -15,7 +16,6 @@
 * [2024-06-18, 13:43:03](https://lobste.rs/s/qvhcjf/s2malloc_statistically_secure) - [S2malloc: Statistically Secure Allocator for Use-After-Free Protection And More](https://arxiv.org/pdf/2402.01894)
 * [2024-06-18, 13:23:25](https://lobste.rs/s/n37nfl/basic_python_project_setup) - [Basic Python project setup](https://peateasea.de/basic-python-project-setup/)
 * [2024-06-18, 13:06:02](https://lobste.rs/s/kn0xmw/themes_from_real_world_crypto_2024) - [Themes from Real World Crypto 2024](https://blog.trailofbits.com/2024/06/18/themes-from-real-world-crypto-2024/)
-* [2024-06-18, 12:11:46](https://lobste.rs/s/5b87th/linux_kernel_development_automatic) - [Linux Kernel Development - Automatic Cleanup 2/2](https://javiercarrascocruz.github.io/kernel-auto-cleanup-1)
 * [2024-06-18, 11:03:07](https://lobste.rs/s/nyqqyi/aurora_static_site_generator) - [aurora: A static site generator implemented in Python](https://github.com/capjamesg/aurora)
 * [2024-06-18, 09:51:32](https://lobste.rs/s/bhmxyw/github_copilot_workspace_review) - [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
 * [2024-06-18, 09:24:02](https://lobste.rs/s/dvslfi/linux_6_10_honors_one_last_reiserfs) - [Linux 6.10 Honors One Last ReiserFS Request Made By Hans Reiser](https://www.phoronix.com/news/ReiserFS-README-Linux-6.10)
