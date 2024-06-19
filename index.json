@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-06-18, 23:02:39",
-      "https://lobste.rs/s/figfyr/wear_it_then_recycle_designers_create"
+      "2024-06-18, 23:35:37",
+      "https://lobste.rs/s/akbosx/update_on_newton_wayland_native"
     ],
     [
-      "Wear it, then Recycle: Designers Create Dissolvable Textiles from Gelatin",
-      "https://www.environmentenergyleader.com/2024/06/wear-it-then-recycle-designers-create-dissolvable-textiles-from-gelatin/"
+      "Update on Newton, the Wayland-native accessibility project",
+      "https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Versioning FreeCAD files with git",
       "https://blog.lambda.cx/posts/freecad-and-git/"
+    ]
+  ],
+  [
+    [
+      "2024-06-18, 18:53:35",
+      "https://lobste.rs/s/fibh4j/pitfalls_comparing_bigdecimals_java"
+    ],
+    [
+      "The Pitfalls of Comparing BigDecimals in Java",
+      "https://igorstechnoclub.com/java-bigdecimal/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Go package for calculating the sunrise and sunset times for a given location",
       "https://github.com/nathan-osman/go-sunrise"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 14:17:31",
-      "https://lobste.rs/s/sz0zfu/how_i_would_redesign_copilot_workspace"
-    ],
-    [
-      "How I would redesign Copilot Workspace",
-      "https://austinhenley.com/blog/copilotworkspace.html"
     ]
   ],
   [
