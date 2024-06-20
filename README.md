@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-20, 06:38:22](https://lobste.rs/s/jez6ul/when_is_parallelism_fearless_zero_cost) - [When Is Parallelism Fearless and Zero-Cost with Rust?](https://dl.acm.org/doi/10.1145/3626183.3659966)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 * [2024-06-20, 06:03:53](https://lobste.rs/s/4obmz9/suse_liberty_linux_lite_announcement) - [SUSE Liberty Linux Lite announcement](https://www.suse.com/news/New-suse-liberty-linux-lite/)
 * [2024-06-20, 05:55:44](https://lobste.rs/s/fe3rld/off_path_tcp_hijacking_nat_enabled_wi_fi) - [Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
@@ -21,7 +22,6 @@
 * [2024-06-19, 06:01:05](https://lobste.rs/s/do6guz/on_kernel_s_safety_spectre_era_kaslr_is) - [On Kernel’s Safety in the Spectre Era (And KASLR is Formally Dead)](https://arxiv.org/pdf/2406.07278)
 * [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 * [2024-06-19, 02:16:31](https://lobste.rs/s/1y9hjq/regular_json) - [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
-* [2024-06-18, 23:35:37](https://lobste.rs/s/akbosx/update_on_newton_wayland_native) - [Update on Newton, the Wayland-native accessibility project](https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/)
 * [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 * [2024-06-18, 14:48:10](https://lobste.rs/s/vomhop/introducing_new_risc_v_mainboard_from) - [Introducing a new RISC-V Mainboard from DeepComputing](https://frame.work/blog/introducing-a-new-risc-v-mainboard-from-deepcomputing)
 * [2024-06-18, 09:51:32](https://lobste.rs/s/bhmxyw/github_copilot_workspace_review) - [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
