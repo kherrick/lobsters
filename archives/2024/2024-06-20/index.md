@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 13:08:14](https://lobste.rs/s/lwjoi7/stalls_from_trim_after_deleting_lot_data) - [Stalls from TRIM after deleting a lot of data](https://smalldatum.blogspot.com/2024/06/stalls-from-trim-after-deleting-lot-of.html)
 * [2024-06-20, 12:36:09](https://lobste.rs/s/tjiwrd/revival_pre_scheme_systems_programming) - [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-20, 11:29:14](https://lobste.rs/s/7yqxn9/effective_ml_through_merlin_s_destruct) - [Effective ML Through Merlin's Destruct Command](https://tarides.com/blog/2024-05-29-effective-ml-through-merlin-s-destruct-command/)
 * [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
