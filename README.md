@@ -12,6 +12,7 @@
 * [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
 * [2024-06-20, 09:11:23](https://lobste.rs/s/0vqjdh/make_your_self_search_for_maxwell_s) - [Make Your Self: In Search for Maxwell's equations of OOP](https://marianoguerra.org/posts/make-your-self/)
 * [2024-06-20, 06:59:37](https://lobste.rs/s/z77tmz/mrtg_multi_router_traffic_grapher_1998) - [MRTG The Multi Router Traffic Grapher (1998)](https://www.usenix.org/legacy/event/lisa98/full_papers/oetiker/oetiker.pdf)
+* [2024-06-20, 06:38:22](https://lobste.rs/s/jez6ul/when_is_parallelism_fearless_zero_cost) - [When Is Parallelism Fearless and Zero-Cost with Rust?](https://dl.acm.org/doi/10.1145/3626183.3659966)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 * [2024-06-20, 06:03:53](https://lobste.rs/s/4obmz9/suse_liberty_linux_lite_announcement) - [SUSE Liberty Linux Lite announcement](https://www.suse.com/news/New-suse-liberty-linux-lite/)
 * [2024-06-20, 00:27:06](https://lobste.rs/s/5g9vp2/tcc_does_support_attribute_section) - [TCC does support attribute(section(…)), actually](https://bernsteinbear.com/blog/tcc-attribute/)
@@ -24,7 +25,6 @@
 * [2024-06-19, 13:39:47](https://lobste.rs/s/nmlsnw/mythical_non_roboticist) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-06-19, 13:39:05](https://lobste.rs/s/11xbhy/apple_is_landing_patches_freebsd) - [Apple is landing patches in FreeBSD](https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00)
 * [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
-* [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
 
 ## [Archives](archives/index.md)
 
