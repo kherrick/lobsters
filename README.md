@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-20, 23:31:07](https://lobste.rs/s/s2zxwx/how_cache_memory_works) - [How Cache Memory Works](https://pikuma.com/blog/understanding-computer-cache)
 * [2024-06-20, 22:36:32](https://lobste.rs/s/ouqgnq/what_happens_when_you_put_database) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 * [2024-06-20, 20:07:18](https://lobste.rs/s/er2qzr/minizinc_playground) - [MiniZinc Playground](https://play.minizinc.dev/)
 * [2024-06-20, 19:11:42](https://lobste.rs/s/dca3tn/cve_2024_27815_buffer_overflow_xnu_kernel) - [CVE-2024-27815: A Buffer Overflow in the XNU Kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 18:42:00](https://lobste.rs/s/lwyvuu/memory_sealing_for_gnu_c_library) - [Memory sealing for the GNU C Library](https://lwn.net/Articles/978010/)
-* [2024-06-20, 18:20:48](https://lobste.rs/s/ldirw7/chameleon_mixed_modal_early_fusion) - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818)
 * [2024-06-20, 18:15:16](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines) - [Stop your (business rules) engines](https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/)
 * [2024-06-20, 15:56:39](https://lobste.rs/s/z1bedd/exploration_cuis_smalltalk_with_juan) - [An Exploration of Cuis Smalltalk  (with Juan Vuletich)](https://youtu.be/sokb6zZC-ZE)
 * [2024-06-20, 15:14:23](https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx) - [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
