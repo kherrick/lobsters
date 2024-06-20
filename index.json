@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-20, 23:48:32",
+      "https://lobste.rs/s/0u5b9u/flambda2_ep_2_loopifying_tail_recursive"
+    ],
+    [
+      "Flambda2 Ep. 2: Loopifying Tail-Recursive Functions",
+      "https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 23:47:44",
+      "https://lobste.rs/s/y43nr9/cps_representation_foundational_design"
+    ],
+    [
+      "CPS Representation and Foundational Design Decisions in Flambda2",
+      "https://ocamlpro.com/blog/2024_01_31_the_flambda2_snippets_1/"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 23:31:07",
       "https://lobste.rs/s/s2zxwx/how_cache_memory_works"
     ],
@@ -187,26 +207,6 @@
     [
       "SUSE Liberty Linux Lite announcement",
       "https://www.suse.com/news/New-suse-liberty-linux-lite/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 00:27:06",
-      "https://lobste.rs/s/5g9vp2/tcc_does_support_attribute_section"
-    ],
-    [
-      "TCC does support attribute(section(…)), actually",
-      "https://bernsteinbear.com/blog/tcc-attribute/"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 23:51:43",
-      "https://lobste.rs/s/cdaxkm/major_version_numbers_may_not_be_sacred"
-    ],
-    [
-      "Major version numbers may not be sacred, but backwards compatibility is",
-      "https://blog.cessen.com/post/2022_07_09_major_version_numbers_may_not_be_sacred"
     ]
   ],
   [
