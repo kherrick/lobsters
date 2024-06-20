@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-20, 19:11:42](https://lobste.rs/s/dca3tn/cve_2024_27815_buffer_overflow_xnu_kernel) - [CVE-2024-27815: A Buffer Overflow in the XNU Kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 18:42:00](https://lobste.rs/s/lwyvuu/memory_sealing_for_gnu_c_library) - [Memory sealing for the GNU C Library](https://lwn.net/Articles/978010/)
 * [2024-06-20, 18:20:48](https://lobste.rs/s/ldirw7/chameleon_mixed_modal_early_fusion) - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818)
 * [2024-06-20, 18:15:16](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines) - [Stop your (business rules) engines](https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/)
@@ -24,7 +25,6 @@
 * [2024-06-19, 19:00:25](https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s) - [How free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/be23210c163a2107/)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
 * [2024-06-19, 13:39:05](https://lobste.rs/s/11xbhy/apple_is_landing_patches_freebsd) - [Apple is landing patches in FreeBSD](https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00)
-* [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 
 ## [Archives](archives/index.md)
 
