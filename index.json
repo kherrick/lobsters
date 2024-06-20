@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-06-20, 14:36:27",
+      "https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems"
+    ],
+    [
+      "Thoughts on Desktop Operating Systems in 2024",
+      "https://tbolt.space/2024/6/20/desktop-operating-systems-2024"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 14:36:19",
       "https://lobste.rs/s/clhvj1/securing_our_software_supply_chain"
     ],
@@ -127,16 +137,6 @@
     [
       "MRTG The Multi Router Traffic Grapher (1998)",
       "https://www.usenix.org/legacy/event/lisa98/full_papers/oetiker/oetiker.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 06:38:22",
-      "https://lobste.rs/s/jez6ul/when_is_parallelism_fearless_zero_cost"
-    ],
-    [
-      "When Is Parallelism Fearless and Zero-Cost with Rust?",
-      "https://dl.acm.org/doi/10.1145/3626183.3659966"
     ]
   ],
   [
