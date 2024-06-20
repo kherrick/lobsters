@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 20:07:18](https://lobste.rs/s/er2qzr/minizinc_playground) - [MiniZinc Playground](https://play.minizinc.dev/)
 * [2024-06-20, 19:11:42](https://lobste.rs/s/dca3tn/cve_2024_27815_buffer_overflow_xnu_kernel) - [CVE-2024-27815: A Buffer Overflow in the XNU Kernel](https://jprx.io/cve-2024-27815/)
 * [2024-06-20, 18:42:00](https://lobste.rs/s/lwyvuu/memory_sealing_for_gnu_c_library) - [Memory sealing for the GNU C Library](https://lwn.net/Articles/978010/)
 * [2024-06-20, 18:20:48](https://lobste.rs/s/ldirw7/chameleon_mixed_modal_early_fusion) - [Chameleon: Mixed-Modal Early-Fusion Foundation Models](https://arxiv.org/pdf/2405.09818)
