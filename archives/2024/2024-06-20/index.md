@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 14:41:36](https://lobste.rs/s/02gfzj/running_rails_system_tests_with) - [Running Rails System Tests with Playwright instead of Selenium](https://justin.searls.co/posts/running-rails-system-tests-with-playwright-instead-of-selenium/)
 * [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-20, 14:36:19](https://lobste.rs/s/clhvj1/securing_our_software_supply_chain) - [Securing our software supply-chain better with reproducible builds for enclaves](https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for)
 * [2024-06-20, 14:32:19](https://lobste.rs/s/f3ddk7/from_infocom_80_days_oral_history_text) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
