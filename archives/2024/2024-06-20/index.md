@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 18:07:38](https://lobste.rs/s/b4ob2v/md5_collision_with_crc32_preimage) - [MD5 Collision with CRC32 Preimage](https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae)
 * [2024-06-20, 15:57:04](https://lobste.rs/s/ccmeb7/functional_programming_hiring_problem) - [The Functional Programming Hiring Problem](https://blog.janissary.xyz/posts/hiring-functional-programming)
 * [2024-06-20, 15:56:39](https://lobste.rs/s/z1bedd/exploration_cuis_smalltalk_with_juan) - [An Exploration of Cuis Smalltalk  (with Juan Vuletich)](https://youtu.be/sokb6zZC-ZE)
 * [2024-06-20, 15:14:23](https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx) - [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
