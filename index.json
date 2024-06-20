@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-20, 15:56:39",
+      "https://lobste.rs/s/z1bedd/exploration_cuis_smalltalk_with_juan"
+    ],
+    [
+      "An Exploration of Cuis Smalltalk  (with Juan Vuletich)",
+      "https://youtu.be/sokb6zZC-ZE"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 15:14:23",
       "https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx"
     ],
@@ -217,16 +227,6 @@
     [
       "Apple is landing patches in FreeBSD",
       "https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 09:05:01",
-      "https://lobste.rs/s/bposut/build2_0_17_0_released"
-    ],
-    [
-      "build2 0.17.0 released",
-      "https://build2.org/release/0.17.0.xhtml"
     ]
   ],
   [
