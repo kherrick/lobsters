@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-20, 22:36:32",
+      "https://lobste.rs/s/ouqgnq/what_happens_when_you_put_database"
+    ],
+    [
+      "What Happens When You Put a Database in the Browser?",
+      "https://motherduck.com/blog/olap-database-in-browser/"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 20:07:18",
       "https://lobste.rs/s/er2qzr/minizinc_playground"
     ],
@@ -47,16 +57,6 @@
     [
       "Stop your (business rules) engines",
       "https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 18:07:38",
-      "https://lobste.rs/s/b4ob2v/md5_collision_with_crc32_preimage"
-    ],
-    [
-      "MD5 Collision with CRC32 Preimage",
-      "https://gist.github.com/DavidBuchanan314/a15e93eeaaad977a0fec3a6232c0b8ae"
     ]
   ],
   [
