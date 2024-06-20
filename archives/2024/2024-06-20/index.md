@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 15:56:39](https://lobste.rs/s/z1bedd/exploration_cuis_smalltalk_with_juan) - [An Exploration of Cuis Smalltalk  (with Juan Vuletich)](https://youtu.be/sokb6zZC-ZE)
 * [2024-06-20, 15:14:23](https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx) - [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
 * [2024-06-20, 14:41:36](https://lobste.rs/s/02gfzj/running_rails_system_tests_with) - [Running Rails System Tests with Playwright instead of Selenium](https://justin.searls.co/posts/running-rails-system-tests-with-playwright-instead-of-selenium/)
 * [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
