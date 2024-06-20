@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-20, 15:14:23](https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx) - [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
 * [2024-06-20, 14:41:36](https://lobste.rs/s/02gfzj/running_rails_system_tests_with) - [Running Rails System Tests with Playwright instead of Selenium](https://justin.searls.co/posts/running-rails-system-tests-with-playwright-instead-of-selenium/)
 * [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-20, 14:36:19](https://lobste.rs/s/clhvj1/securing_our_software_supply_chain) - [Securing our software supply-chain better with reproducible builds for enclaves](https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for)
@@ -19,7 +20,6 @@
 * [2024-06-19, 20:14:36](https://lobste.rs/s/zuntqh/announcing_phoenix_playground) - [Announcing Phoenix Playground](https://dashbit.co/blog/announcing-phoenix-playground)
 * [2024-06-19, 19:00:25](https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s) - [How free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/be23210c163a2107/)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
-* [2024-06-19, 14:07:36](https://lobste.rs/s/5jaone/how_use_new_counted_by_attribute_c_linux) - [How to use the new counted_by attribute in C (and Linux)](https://embeddedor.com/blog/2024/06/18/how-to-use-the-new-counted_by-attribute-in-c-and-linux/)
 * [2024-06-19, 13:39:47](https://lobste.rs/s/nmlsnw/mythical_non_roboticist) - [The Mythical Non-Roboticist](https://generalrobots.substack.com/p/the-mythical-non-roboticist)
 * [2024-06-19, 13:39:05](https://lobste.rs/s/11xbhy/apple_is_landing_patches_freebsd) - [Apple is landing patches in FreeBSD](https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00)
 * [2024-06-19, 09:05:01](https://lobste.rs/s/bposut/build2_0_17_0_released) - [build2 0.17.0 released](https://build2.org/release/0.17.0.xhtml)
