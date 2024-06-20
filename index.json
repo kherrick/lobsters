@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-20, 14:36:27",
+      "https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems"
+    ],
+    [
+      "Thoughts on Desktop Operating Systems in 2024",
+      "https://tbolt.space/2024/6/20/desktop-operating-systems-2024"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 14:36:19",
+      "https://lobste.rs/s/clhvj1/securing_our_software_supply_chain"
+    ],
+    [
+      "Securing our software supply-chain better with reproducible builds for enclaves",
+      "https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for"
+    ]
+  ],
+  [
+    [
+      "2024-06-20, 14:32:19",
+      "https://lobste.rs/s/f3ddk7/from_infocom_80_days_oral_history_text"
+    ],
+    [
+      "From Infocom to 80 Days: An oral history of text games and interactive fiction",
+      "https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 13:08:14",
       "https://lobste.rs/s/lwjoi7/stalls_from_trim_after_deleting_lot_data"
     ],
@@ -57,16 +87,6 @@
     [
       "MRTG The Multi Router Traffic Grapher (1998)",
       "https://www.usenix.org/legacy/event/lisa98/full_papers/oetiker/oetiker.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 06:38:22",
-      "https://lobste.rs/s/jez6ul/when_is_parallelism_fearless_zero_cost"
-    ],
-    [
-      "When Is Parallelism Fearless and Zero-Cost with Rust?",
-      "https://dl.acm.org/doi/10.1145/3626183.3659966"
     ]
   ],
   [
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2024-06-19, 20:04:58",
-      "https://lobste.rs/s/r40dyi/embedding_resources_into_binary_with_c"
-    ],
-    [
-      "Embedding resources into binary with C",
-      "https://mitjafelicijan.com/embedding-resources-into-binary-with-c.html"
-    ]
-  ],
-  [
-    [
       "2024-06-19, 19:00:25",
       "https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s"
     ],
     [
       "How free software hijacked Philip Hazel's life",
       "https://lwn.net/SubscriberLink/978463/be23210c163a2107/"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 17:16:12",
-      "https://lobste.rs/s/m9xv5y/f_functional_false"
-    ],
-    [
-      "F: Functional False",
-      "http://www.nsl.com/k/f/f.htm"
     ]
   ],
   [
