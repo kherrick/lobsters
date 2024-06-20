@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
 * [2024-06-20, 09:15:23](https://lobste.rs/s/dy0gj6/how_free_software_hijacked_philip_hazel_s) - [How free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/608c876c1153fd31/)
 * [2024-06-20, 09:11:23](https://lobste.rs/s/0vqjdh/make_your_self_search_for_maxwell_s) - [Make Your Self: In Search for Maxwell's equations of OOP](https://marianoguerra.org/posts/make-your-self/)
 * [2024-06-20, 06:59:37](https://lobste.rs/s/z77tmz/mrtg_multi_router_traffic_grapher_1998) - [MRTG The Multi Router Traffic Grapher (1998)](https://www.usenix.org/legacy/event/lisa98/full_papers/oetiker/oetiker.pdf)
