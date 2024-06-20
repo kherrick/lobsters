@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 06:59:37](https://lobste.rs/s/z77tmz/mrtg_multi_router_traffic_grapher_1998) - [MRTG The Multi Router Traffic Grapher (1998)](https://www.usenix.org/legacy/event/lisa98/full_papers/oetiker/oetiker.pdf)
 * [2024-06-20, 06:38:22](https://lobste.rs/s/jez6ul/when_is_parallelism_fearless_zero_cost) - [When Is Parallelism Fearless and Zero-Cost with Rust?](https://dl.acm.org/doi/10.1145/3626183.3659966)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 * [2024-06-20, 06:03:53](https://lobste.rs/s/4obmz9/suse_liberty_linux_lite_announcement) - [SUSE Liberty Linux Lite announcement](https://www.suse.com/news/New-suse-liberty-linux-lite/)
