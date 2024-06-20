@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-20, 18:42:00",
+      "https://lobste.rs/s/lwyvuu/memory_sealing_for_gnu_c_library"
+    ],
+    [
+      "Memory sealing for the GNU C Library",
+      "https://lwn.net/Articles/978010/"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 18:20:48",
       "https://lobste.rs/s/ldirw7/chameleon_mixed_modal_early_fusion"
     ],
@@ -217,16 +227,6 @@
     [
       "Why does SQLite (in production) have such a bad rep?",
       "https://avi.im/blag/2024/sqlite-bad-rep/"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 13:39:47",
-      "https://lobste.rs/s/nmlsnw/mythical_non_roboticist"
-    ],
-    [
-      "The Mythical Non-Roboticist",
-      "https://generalrobots.substack.com/p/the-mythical-non-roboticist"
     ]
   ],
   [
