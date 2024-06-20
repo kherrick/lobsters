@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-20, 06:38:22",
+      "https://lobste.rs/s/jez6ul/when_is_parallelism_fearless_zero_cost"
+    ],
+    [
+      "When Is Parallelism Fearless and Zero-Cost with Rust?",
+      "https://dl.acm.org/doi/10.1145/3626183.3659966"
+    ]
+  ],
+  [
+    [
       "2024-06-20, 06:28:26",
       "https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh"
     ],
@@ -207,16 +217,6 @@
     [
       "Regular JSON",
       "https://neilmadden.blog/2023/05/31/regular-json/"
-    ]
-  ],
-  [
-    [
-      "2024-06-18, 23:35:37",
-      "https://lobste.rs/s/akbosx/update_on_newton_wayland_native"
-    ],
-    [
-      "Update on Newton, the Wayland-native accessibility project",
-      "https://blogs.gnome.org/a11y/2024/06/18/update-on-newton-the-wayland-native-accessibility-project/"
     ]
   ],
   [
