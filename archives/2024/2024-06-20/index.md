@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-20](index.md)
 
+* [2024-06-20, 23:48:32](https://lobste.rs/s/0u5b9u/flambda2_ep_2_loopifying_tail_recursive) - [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
+* [2024-06-20, 23:47:44](https://lobste.rs/s/y43nr9/cps_representation_foundational_design) - [CPS Representation and Foundational Design Decisions in Flambda2](https://ocamlpro.com/blog/2024_01_31_the_flambda2_snippets_1/)
 * [2024-06-20, 23:31:07](https://lobste.rs/s/s2zxwx/how_cache_memory_works) - [How Cache Memory Works](https://pikuma.com/blog/understanding-computer-cache)
 * [2024-06-20, 22:36:32](https://lobste.rs/s/ouqgnq/what_happens_when_you_put_database) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 * [2024-06-20, 20:07:18](https://lobste.rs/s/er2qzr/minizinc_playground) - [MiniZinc Playground](https://play.minizinc.dev/)
