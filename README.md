@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 * [2024-06-20, 06:03:53](https://lobste.rs/s/4obmz9/suse_liberty_linux_lite_announcement) - [SUSE Liberty Linux Lite announcement](https://www.suse.com/news/New-suse-liberty-linux-lite/)
 * [2024-06-20, 05:55:44](https://lobste.rs/s/fe3rld/off_path_tcp_hijacking_nat_enabled_wi_fi) - [Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
 * [2024-06-20, 00:27:06](https://lobste.rs/s/5g9vp2/tcc_does_support_attribute_section) - [TCC does support attribute(section(…)), actually](https://bernsteinbear.com/blog/tcc-attribute/)
 * [2024-06-20, 00:13:44](https://lobste.rs/s/vxczo8/agilent_2000a_3000a_oscilloscope_nand) - [Agilent 2000a / 3000a oscilloscope NAND recovery](https://salvagedcircuitry.com/2000a-nand-recovery.html)
 * [2024-06-19, 23:51:43](https://lobste.rs/s/cdaxkm/major_version_numbers_may_not_be_sacred) - [Major version numbers may not be sacred, but backwards compatibility is](https://blog.cessen.com/post/2022_07_09_major_version_numbers_may_not_be_sacred)
 * [2024-06-19, 23:47:37](https://lobste.rs/s/fflorq/go_s_range_over_functions_iterators) - [Go's 'range over functions' iterators and avoiding iteration errors](https://utcc.utoronto.ca/~cks/space/blog/programming/GoIteratorsAndAvoidingMistakes)
-* [2024-06-19, 21:55:57](https://lobste.rs/s/wujiaw/orb_write_webassembly_with_elixir) - [Orb: Write WebAssembly with Elixir](https://useorb.dev/)
 * [2024-06-19, 21:31:18](https://lobste.rs/s/bafqer/firefox_127_0_1) - [Firefox 127.0.1](https://www.mozilla.org/en-US/firefox/127.0.1/releasenotes/)
 * [2024-06-19, 20:21:59](https://lobste.rs/s/5wxypo/binary_ninja_restructuring_binary_ninja) - [Binary Ninja - Restructuring the Binary Ninja Decompiler](https://binary.ninja/2024/06/19/restructuring-the-decompiler.html)
 * [2024-06-19, 20:14:36](https://lobste.rs/s/zuntqh/announcing_phoenix_playground) - [Announcing Phoenix Playground](https://dashbit.co/blog/announcing-phoenix-playground)
