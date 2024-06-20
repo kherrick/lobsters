@@ -6,7 +6,6 @@
 * [2024-06-20, 06:38:22](https://lobste.rs/s/jez6ul/when_is_parallelism_fearless_zero_cost) - [When Is Parallelism Fearless and Zero-Cost with Rust?](https://dl.acm.org/doi/10.1145/3626183.3659966)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 * [2024-06-20, 06:03:53](https://lobste.rs/s/4obmz9/suse_liberty_linux_lite_announcement) - [SUSE Liberty Linux Lite announcement](https://www.suse.com/news/New-suse-liberty-linux-lite/)
-* [2024-06-20, 05:55:44](https://lobste.rs/s/fe3rld/off_path_tcp_hijacking_nat_enabled_wi_fi) - [Off-path TCP hijacking in NAT-enabled Wi-Fi networks](https://blog.apnic.net/2024/06/18/off-path-tcp-hijacking-in-nat-enabled-wi-fi-networks/)
 * [2024-06-20, 00:27:06](https://lobste.rs/s/5g9vp2/tcc_does_support_attribute_section) - [TCC does support attribute(section(…)), actually](https://bernsteinbear.com/blog/tcc-attribute/)
 * [2024-06-19, 23:51:43](https://lobste.rs/s/cdaxkm/major_version_numbers_may_not_be_sacred) - [Major version numbers may not be sacred, but backwards compatibility is](https://blog.cessen.com/post/2022_07_09_major_version_numbers_may_not_be_sacred)
 * [2024-06-19, 23:47:37](https://lobste.rs/s/fflorq/go_s_range_over_functions_iterators) - [Go's 'range over functions' iterators and avoiding iteration errors](https://utcc.utoronto.ca/~cks/space/blog/programming/GoIteratorsAndAvoidingMistakes)
@@ -14,6 +13,8 @@
 * [2024-06-19, 20:21:59](https://lobste.rs/s/5wxypo/binary_ninja_restructuring_binary_ninja) - [Binary Ninja - Restructuring the Binary Ninja Decompiler](https://binary.ninja/2024/06/19/restructuring-the-decompiler.html)
 * [2024-06-19, 20:14:36](https://lobste.rs/s/zuntqh/announcing_phoenix_playground) - [Announcing Phoenix Playground](https://dashbit.co/blog/announcing-phoenix-playground)
 * [2024-06-19, 20:04:58](https://lobste.rs/s/r40dyi/embedding_resources_into_binary_with_c) - [Embedding resources into binary with C](https://mitjafelicijan.com/embedding-resources-into-binary-with-c.html)
+* [2024-06-19, 20:04:39](https://lobste.rs/s/zsvgaa/security_2000s) - [Security in the 2000s](https://www.macchaffee.com/blog/2024/2000s-security/)
+* [2024-06-19, 19:29:18](https://lobste.rs/s/cxkh9h/free_open_source_software_other_market) - [Free and Open Source Software - and Other Market Failures](https://queue.acm.org/detail.cfm?id=3649298)
 * [2024-06-19, 19:00:25](https://lobste.rs/s/tdypvx/how_free_software_hijacked_philip_hazel_s) - [How free software hijacked Philip Hazel's life](https://lwn.net/SubscriberLink/978463/be23210c163a2107/)
 * [2024-06-19, 17:16:12](https://lobste.rs/s/m9xv5y/f_functional_false) - [F: Functional False](http://www.nsl.com/k/f/f.htm)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
@@ -24,7 +25,6 @@
 * [2024-06-19, 02:51:40](https://lobste.rs/s/rbjlmv/demystifying_rust_s_operator) - [Demystifying Rust's ? Operator](https://blog.sulami.xyz/posts/demystifying-rusts-questionmark-operator/)
 * [2024-06-19, 02:16:31](https://lobste.rs/s/1y9hjq/regular_json) - [Regular JSON](https://neilmadden.blog/2023/05/31/regular-json/)
 * [2024-06-18, 18:31:14](https://lobste.rs/s/io4aui/i_ve_stopped_using_box_plots_should_you) - [I’ve Stopped Using Box Plots. Should You?](https://nightingaledvs.com/ive-stopped-using-box-plots-should-you/)
-* [2024-06-18, 09:51:32](https://lobste.rs/s/bhmxyw/github_copilot_workspace_review) - [GitHub Copilot Workspace Review](https://matduggan.com/reviewing-github-copilot-workspaces/)
 
 ## [Archives](archives/index.md)
 
