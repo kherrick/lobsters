@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 14:44:46](https://lobste.rs/s/ljheax/public_cdns_are_useless_dangerous) - [Public CDNs Are Useless and Dangerous](https://httptoolkit.com/blog/public-cdn-risks/)
 * [2024-06-21, 14:40:49](https://lobste.rs/s/pierpf/django_5_by_example_preface) - [Django 5 by Example preface](https://www.paulox.net/2024/06/21/django-5-by-example-preface/)
 * [2024-06-21, 13:56:28](https://lobste.rs/s/vxuh6s/walk_v1_8_0) - [walk v1.8.0](https://github.com/antonmedv/walk/releases/tag/v1.8.0)
 * [2024-06-21, 13:49:28](https://lobste.rs/s/nmlbhb/announcing_river_ui) - [Announcing River UI](https://riverqueue.com/blog/announcing-river-ui)
