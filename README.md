@@ -11,7 +11,6 @@
 * [2024-06-21, 11:35:35](https://lobste.rs/s/3yblc2/claiming_auto_otherwise) - [Claiming, auto and otherwise](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
 * [2024-06-21, 10:11:15](https://lobste.rs/s/wfe6gf/project_naptime_evaluating_offensive) - [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
 * [2024-06-21, 09:59:19](https://lobste.rs/s/dfy9kq/nickel_modules) - [Nickel modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
-* [2024-06-21, 06:08:42](https://lobste.rs/s/hjstvw/state_javascript_2023_results) - [State of JavaScript 2023 Results](https://2023.stateofjs.com/en-US)
 * [2024-06-21, 05:38:12](https://lobste.rs/s/syegk7/carbon_copy_newsletter_no_3) - [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
 * [2024-06-21, 05:15:29](https://lobste.rs/s/xbxxiv/on_paradox_learning_reason_from_data_2022) - [On the Paradox of Learning to Reason from Data (2022)](https://arxiv.org/pdf/2205.11502)
 * [2024-06-21, 04:12:20](https://lobste.rs/s/mxb8wb/debian_12_is_better_than_windows_10) - [Debian 12 is Better Than Windows 10](https://www.logikalsolutions.com/wordpress/information-technology/windows-10/)
@@ -25,6 +24,7 @@
 * [2024-06-20, 12:36:09](https://lobste.rs/s/tjiwrd/revival_pre_scheme_systems_programming) - [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
+* [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
 
 ## [Archives](archives/index.md)
 
