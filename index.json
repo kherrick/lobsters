@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-21, 19:08:57",
+      "https://lobste.rs/s/e6owro/we_need_talk_about_testing"
+    ],
+    [
+      "We need to talk about testing",
+      "https://dannorth.net/we-need-to-talk-about-testing/"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 17:42:04",
       "https://lobste.rs/s/gohjow/tscircuit_react_for_circuits"
     ],
@@ -237,16 +247,6 @@
     [
       "Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh",
       "https://www.oilshell.org/blog/2024/06/release-0.22.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-19, 14:39:23",
-      "https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad"
-    ],
-    [
-      "Why does SQLite (in production) have such a bad rep?",
-      "https://avi.im/blag/2024/sqlite-bad-rep/"
     ]
   ]
 ]
