@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-06-21, 13:56:28",
-      "https://lobste.rs/s/vxuh6s/walk_v1_8_0"
-    ],
-    [
-      "walk v1.8.0",
-      "https://github.com/antonmedv/walk/releases/tag/v1.8.0"
-    ]
-  ],
-  [
-    [
       "2024-06-21, 13:49:28",
       "https://lobste.rs/s/nmlbhb/announcing_river_ui"
     ],
@@ -247,6 +237,16 @@
     [
       "Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh",
       "https://www.oilshell.org/blog/2024/06/release-0.22.0.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-19, 14:39:23",
+      "https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad"
+    ],
+    [
+      "Why does SQLite (in production) have such a bad rep?",
+      "https://avi.im/blag/2024/sqlite-bad-rep/"
     ]
   ]
 ]
