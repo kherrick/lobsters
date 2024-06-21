@@ -3,7 +3,6 @@
 * [2024-06-21, 17:42:04](https://lobste.rs/s/gohjow/tscircuit_react_for_circuits) - [tscircuit: React for Circuits](https://github.com/tscircuit/tscircuit)
 * [2024-06-21, 14:44:46](https://lobste.rs/s/ljheax/public_cdns_are_useless_dangerous) - [Public CDNs Are Useless and Dangerous](https://httptoolkit.com/blog/public-cdn-risks/)
 * [2024-06-21, 14:40:49](https://lobste.rs/s/pierpf/django_5_by_example_preface) - [Django 5 by Example preface](https://www.paulox.net/2024/06/21/django-5-by-example-preface/)
-* [2024-06-21, 13:56:28](https://lobste.rs/s/vxuh6s/walk_v1_8_0) - [walk v1.8.0](https://github.com/antonmedv/walk/releases/tag/v1.8.0)
 * [2024-06-21, 13:49:28](https://lobste.rs/s/nmlbhb/announcing_river_ui) - [Announcing River UI](https://riverqueue.com/blog/announcing-river-ui)
 * [2024-06-21, 13:38:22](https://lobste.rs/s/qeztvy/3d_printing_my_teeth) - [3D Printing My Teeth](https://shkspr.mobi/blog/2024/06/3d-printing-my-teeth/)
 * [2024-06-21, 13:06:11](https://lobste.rs/s/l10rnt/on_testing_go_code_using_standard_library) - [On testing Go code using the standard library](https://henvic.dev/posts/testing-go/)
@@ -25,6 +24,7 @@
 * [2024-06-20, 12:36:09](https://lobste.rs/s/tjiwrd/revival_pre_scheme_systems_programming) - [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
+* [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
 
 ## [Archives](archives/index.md)
 
