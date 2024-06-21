@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 11:35:35](https://lobste.rs/s/dpml3a/stalin_brutally_optimizing_scheme) - [stalin: brutally optimizing Scheme compiler](https://github.com/barak/stalin)
+* [2024-06-21, 11:35:35](https://lobste.rs/s/3yblc2/claiming_auto_otherwise_by_nico_matsakis) - [Claiming, auto and otherwise by Nico Matsakis](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
 * [2024-06-21, 10:11:15](https://lobste.rs/s/wfe6gf/project_naptime_evaluating_offensive) - [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
 * [2024-06-21, 09:59:19](https://lobste.rs/s/dfy9kq/nickel_modules) - [Nickel modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 * [2024-06-21, 09:11:42](https://lobste.rs/s/pb2dzi/state_javascript_2023) - [State of JavaScript 2023](https://2023.stateofjs.com)

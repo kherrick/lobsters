@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-21, 11:35:35](https://lobste.rs/s/dpml3a/stalin_brutally_optimizing_scheme) - [stalin: brutally optimizing Scheme compiler](https://github.com/barak/stalin)
+* [2024-06-21, 11:35:35](https://lobste.rs/s/3yblc2/claiming_auto_otherwise_by_nico_matsakis) - [Claiming, auto and otherwise by Nico Matsakis](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
 * [2024-06-21, 10:11:15](https://lobste.rs/s/wfe6gf/project_naptime_evaluating_offensive) - [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
 * [2024-06-21, 09:59:19](https://lobste.rs/s/dfy9kq/nickel_modules) - [Nickel modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
-* [2024-06-21, 09:11:42](https://lobste.rs/s/pb2dzi/state_javascript_2023) - [State of JavaScript 2023](https://2023.stateofjs.com)
 * [2024-06-21, 06:08:42](https://lobste.rs/s/hjstvw/state_javascript_2023_results) - [State of JavaScript 2023 Results](https://2023.stateofjs.com/en-US)
 * [2024-06-21, 05:38:12](https://lobste.rs/s/syegk7/carbon_copy_newsletter_no_3) - [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
 * [2024-06-21, 05:27:38](https://lobste.rs/s/xqt3jc/upgrading_my_chumby_8_kernel_part_11_sd_cf) - [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
@@ -18,7 +19,6 @@
 * [2024-06-20, 14:41:36](https://lobste.rs/s/02gfzj/running_rails_system_tests_with) - [Running Rails System Tests with Playwright instead of Selenium](https://justin.searls.co/posts/running-rails-system-tests-with-playwright-instead-of-selenium/)
 * [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-20, 14:36:19](https://lobste.rs/s/clhvj1/securing_our_software_supply_chain) - [Securing our software supply-chain better with reproducible builds for enclaves](https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for)
-* [2024-06-20, 14:32:19](https://lobste.rs/s/f3ddk7/from_infocom_80_days_oral_history_text) - [From Infocom to 80 Days: An oral history of text games and interactive fiction](https://arstechnica.com/gaming/2024/06/from-infocom-to-80-days-an-oral-history-of-text-games-and-interactive-fiction/)
 * [2024-06-20, 12:36:09](https://lobste.rs/s/tjiwrd/revival_pre_scheme_systems_programming) - [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-20, 11:29:14](https://lobste.rs/s/7yqxn9/effective_ml_through_merlin_s_destruct) - [Effective ML Through Merlin's Destruct Command](https://tarides.com/blog/2024-05-29-effective-ml-through-merlin-s-destruct-command/)
 * [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
