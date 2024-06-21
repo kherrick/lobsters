@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 06:08:42](https://lobste.rs/s/hjstvw/state_javascript_2023_results) - [State of JavaScript 2023 Results](https://2023.stateofjs.com/en-US)
 * [2024-06-21, 05:38:12](https://lobste.rs/s/syegk7/carbon_copy_newsletter_no_3) - [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
 * [2024-06-21, 05:27:38](https://lobste.rs/s/xqt3jc/upgrading_my_chumby_8_kernel_part_11_sd_cf) - [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
 * [2024-06-21, 05:15:29](https://lobste.rs/s/xbxxiv/on_paradox_learning_reason_from_data_2022) - [On the Paradox of Learning to Reason from Data (2022)](https://arxiv.org/pdf/2205.11502)
