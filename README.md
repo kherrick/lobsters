@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-06-21, 21:13:43](https://lobste.rs/s/oiimpz/svg_good_bad_theugly) - [SVG: The Good, the Bad and theUgly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
-* [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val.Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
 * [2024-06-21, 19:08:57](https://lobste.rs/s/e6owro/we_need_talk_about_testing_2021) - [We need to talk about testing (2021)](https://dannorth.net/we-need-to-talk-about-testing/)
 * [2024-06-21, 17:42:04](https://lobste.rs/s/gohjow/tscircuit_react_for_circuits) - [tscircuit: React for Circuits](https://github.com/tscircuit/tscircuit)
 * [2024-06-21, 14:44:46](https://lobste.rs/s/ljheax/public_cdns_are_useless_dangerous_2021) - [Public CDNs Are Useless and Dangerous (2021)](https://httptoolkit.com/blog/public-cdn-risks/)
@@ -17,6 +16,7 @@
 * [2024-06-21, 05:15:29](https://lobste.rs/s/xbxxiv/on_paradox_learning_reason_from_data_2022) - [On the Paradox of Learning to Reason from Data (2022)](https://arxiv.org/pdf/2205.11502)
 * [2024-06-21, 04:12:20](https://lobste.rs/s/mxb8wb/debian_12_is_better_than_windows_10) - [Debian 12 is Better Than Windows 10](https://www.logikalsolutions.com/wordpress/information-technology/windows-10/)
 * [2024-06-20, 22:36:32](https://lobste.rs/s/ouqgnq/what_happens_when_you_put_database) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
+* [2024-06-20, 18:42:00](https://lobste.rs/s/lwyvuu/memory_sealing_for_gnu_c_library) - [Memory sealing for the GNU C Library](https://lwn.net/Articles/978010/)
 * [2024-06-20, 18:15:16](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines) - [Stop your (business rules) engines](https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/)
 * [2024-06-20, 15:56:39](https://lobste.rs/s/z1bedd/exploration_cuis_smalltalk_with_juan) - [An Exploration of Cuis Smalltalk  (with Juan Vuletich)](https://youtu.be/sokb6zZC-ZE)
 * [2024-06-20, 15:14:23](https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx) - [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
