@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-21, 21:54:04",
+      "https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils"
+    ],
+    [
+      "Swapping GNU coreutils for uutils coreutils on Gentoo Linux",
+      "https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 21:53:04",
+      "https://lobste.rs/s/xun4uv/cosmodoc_cosmo_s_cosmic_adventure"
+    ],
+    [
+      "Cosmodoc - Cosmo’s Cosmic Adventure reverse engineering",
+      "https://cosmodoc.org/"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 21:13:43",
       "https://lobste.rs/s/oiimpz/svg_good_bad_theugly"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-20, 18:42:00",
-      "https://lobste.rs/s/lwyvuu/memory_sealing_for_gnu_c_library"
-    ],
-    [
-      "Memory sealing for the GNU C Library",
-      "https://lwn.net/Articles/978010/"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 18:15:16",
       "https://lobste.rs/s/isc1qn/stop_your_business_rules_engines"
     ],
@@ -207,16 +217,6 @@
     [
       "Thoughts on Desktop Operating Systems in 2024",
       "https://tbolt.space/2024/6/20/desktop-operating-systems-2024"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 14:36:19",
-      "https://lobste.rs/s/clhvj1/securing_our_software_supply_chain"
-    ],
-    [
-      "Securing our software supply-chain better with reproducible builds for enclaves",
-      "https://monzo.com/blog/securing-our-software-supply-chain-better-with-reproducible-builds-for"
     ]
   ],
   [
