@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-21, 21:13:43",
+      "https://lobste.rs/s/oiimpz/svg_good_bad_theugly"
+    ],
+    [
+      "SVG: The Good, the Bad and theUgly",
+      "https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 21:02:47",
       "https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude"
     ],
@@ -157,16 +167,6 @@
     [
       "What Happens When You Put a Database in the Browser?",
       "https://motherduck.com/blog/olap-database-in-browser/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 18:42:00",
-      "https://lobste.rs/s/lwyvuu/memory_sealing_for_gnu_c_library"
-    ],
-    [
-      "Memory sealing for the GNU C Library",
-      "https://lwn.net/Articles/978010/"
     ]
   ],
   [
