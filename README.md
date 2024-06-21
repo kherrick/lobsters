@@ -3,6 +3,7 @@
 * [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 * [2024-06-21, 21:53:04](https://lobste.rs/s/xun4uv/cosmodoc_cosmo_s_cosmic_adventure) - [Cosmodoc - Cosmo’s Cosmic Adventure reverse engineering](https://cosmodoc.org/)
 * [2024-06-21, 21:13:43](https://lobste.rs/s/oiimpz/svg_good_bad_ugly) - [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
+* [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val.Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
 * [2024-06-21, 19:08:57](https://lobste.rs/s/e6owro/we_need_talk_about_testing_2021) - [We need to talk about testing (2021)](https://dannorth.net/we-need-to-talk-about-testing/)
 * [2024-06-21, 17:42:04](https://lobste.rs/s/gohjow/tscircuit_react_for_circuits) - [tscircuit: React for Circuits](https://github.com/tscircuit/tscircuit)
 * [2024-06-21, 14:44:46](https://lobste.rs/s/ljheax/public_cdns_are_useless_dangerous_2021) - [Public CDNs Are Useless and Dangerous (2021)](https://httptoolkit.com/blog/public-cdn-risks/)
@@ -23,7 +24,6 @@
 * [2024-06-20, 15:14:23](https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx) - [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
 * [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-20, 12:36:09](https://lobste.rs/s/tjiwrd/revival_pre_scheme_systems_programming) - [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
-* [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 
 ## [Archives](archives/index.md)
