@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-21, 09:59:19](https://lobste.rs/s/dfy9kq/nickel_modules) - [Nickel modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 * [2024-06-21, 09:11:42](https://lobste.rs/s/pb2dzi/state_javascript_2023) - [State of JavaScript 2023](https://2023.stateofjs.com)
 * [2024-06-21, 06:08:42](https://lobste.rs/s/hjstvw/state_javascript_2023_results) - [State of JavaScript 2023 Results](https://2023.stateofjs.com/en-US)
 * [2024-06-21, 05:38:12](https://lobste.rs/s/syegk7/carbon_copy_newsletter_no_3) - [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
@@ -24,7 +25,6 @@
 * [2024-06-20, 09:11:23](https://lobste.rs/s/0vqjdh/make_your_self_search_for_maxwell_s) - [Make Your Self: In Search for Maxwell's equations of OOP](https://marianoguerra.org/posts/make-your-self/)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
-* [2024-06-19, 13:39:05](https://lobste.rs/s/11xbhy/apple_is_landing_patches_freebsd) - [Apple is landing patches in FreeBSD](https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00)
 
 ## [Archives](archives/index.md)
 

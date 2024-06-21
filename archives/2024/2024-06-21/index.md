@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 09:59:19](https://lobste.rs/s/dfy9kq/nickel_modules) - [Nickel modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 * [2024-06-21, 09:11:42](https://lobste.rs/s/pb2dzi/state_javascript_2023) - [State of JavaScript 2023](https://2023.stateofjs.com)
 * [2024-06-21, 06:08:42](https://lobste.rs/s/hjstvw/state_javascript_2023_results) - [State of JavaScript 2023 Results](https://2023.stateofjs.com/en-US)
 * [2024-06-21, 05:38:12](https://lobste.rs/s/syegk7/carbon_copy_newsletter_no_3) - [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
