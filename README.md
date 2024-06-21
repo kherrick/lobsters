@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-21, 09:11:42](https://lobste.rs/s/pb2dzi/state_javascript_2023) - [State of JavaScript 2023](https://2023.stateofjs.com)
 * [2024-06-21, 06:08:42](https://lobste.rs/s/hjstvw/state_javascript_2023_results) - [State of JavaScript 2023 Results](https://2023.stateofjs.com/en-US)
 * [2024-06-21, 05:38:12](https://lobste.rs/s/syegk7/carbon_copy_newsletter_no_3) - [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
 * [2024-06-21, 05:27:38](https://lobste.rs/s/xqt3jc/upgrading_my_chumby_8_kernel_part_11_sd_cf) - [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
@@ -22,7 +23,6 @@
 * [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
 * [2024-06-20, 09:11:23](https://lobste.rs/s/0vqjdh/make_your_self_search_for_maxwell_s) - [Make Your Self: In Search for Maxwell's equations of OOP](https://marianoguerra.org/posts/make-your-self/)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
-* [2024-06-19, 21:31:18](https://lobste.rs/s/bafqer/firefox_127_0_1) - [Firefox 127.0.1](https://www.mozilla.org/en-US/firefox/127.0.1/releasenotes/)
 * [2024-06-19, 14:39:23](https://lobste.rs/s/fxkk7v/why_does_sqlite_production_have_such_bad) - [Why does SQLite (in production) have such a bad rep?](https://avi.im/blag/2024/sqlite-bad-rep/)
 * [2024-06-19, 13:39:05](https://lobste.rs/s/11xbhy/apple_is_landing_patches_freebsd) - [Apple is landing patches in FreeBSD](https://cgit.freebsd.org/src/commit/?id=7dd39ef4e0d56b213445754a189d204b70a77a00)
 

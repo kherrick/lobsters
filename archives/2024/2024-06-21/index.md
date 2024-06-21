@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 09:11:42](https://lobste.rs/s/pb2dzi/state_javascript_2023) - [State of JavaScript 2023](https://2023.stateofjs.com)
 * [2024-06-21, 06:08:42](https://lobste.rs/s/hjstvw/state_javascript_2023_results) - [State of JavaScript 2023 Results](https://2023.stateofjs.com/en-US)
 * [2024-06-21, 05:38:12](https://lobste.rs/s/syegk7/carbon_copy_newsletter_no_3) - [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
 * [2024-06-21, 05:27:38](https://lobste.rs/s/xqt3jc/upgrading_my_chumby_8_kernel_part_11_sd_cf) - [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
