@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 13:56:28](https://lobste.rs/s/vxuh6s/walk_v1_8_0) - [walk v1.8.0](https://github.com/antonmedv/walk/releases/tag/v1.8.0)
+* [2024-06-21, 13:49:28](https://lobste.rs/s/nmlbhb/announcing_river_ui) - [Announcing River UI](https://riverqueue.com/blog/announcing-river-ui)
 * [2024-06-21, 13:38:22](https://lobste.rs/s/qeztvy/3d_printing_my_teeth) - [3D Printing My Teeth](https://shkspr.mobi/blog/2024/06/3d-printing-my-teeth/)
 * [2024-06-21, 13:23:31](https://lobste.rs/s/pjfpac/software_with_politic_opinion_is) - [Software with politic opinion is a security threat](https://vitonsky.net/blog/2024/06/20/politics-in-software/)
 * [2024-06-21, 13:06:11](https://lobste.rs/s/l10rnt/on_testing_go_code_using_standard_library) - [On testing Go code using the standard library](https://henvic.dev/posts/testing-go/)
