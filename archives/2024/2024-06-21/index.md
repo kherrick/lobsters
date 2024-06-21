@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-21](index.md)
+
+* [2024-06-21, 02:12:23](https://lobste.rs/s/xqch06/generalized_autoref_based) - [Generalized Autoref-Based Specialization (2019)](https://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)

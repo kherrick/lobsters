@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-21, 02:12:23](https://lobste.rs/s/xqch06/generalized_autoref_based) - [Generalized Autoref-Based Specialization (2019)](https://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
 * [2024-06-20, 23:48:32](https://lobste.rs/s/0u5b9u/flambda2_ep_2_loopifying_tail_recursive) - [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
 * [2024-06-20, 23:47:44](https://lobste.rs/s/y43nr9/cps_representation_foundational_design) - [CPS Representation and Foundational Design Decisions in Flambda2](https://ocamlpro.com/blog/2024_01_31_the_flambda2_snippets_1/)
 * [2024-06-20, 23:31:07](https://lobste.rs/s/s2zxwx/how_cache_memory_works) - [How Cache Memory Works](https://pikuma.com/blog/understanding-computer-cache)
@@ -18,7 +19,6 @@
 * [2024-06-20, 11:29:14](https://lobste.rs/s/7yqxn9/effective_ml_through_merlin_s_destruct) - [Effective ML Through Merlin's Destruct Command](https://tarides.com/blog/2024-05-29-effective-ml-through-merlin-s-destruct-command/)
 * [2024-06-20, 10:21:52](https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen) - [Driplang: triggering when events happen (or don't)](https://blog.vbang.dk/2024/06/19/eventdripper/)
 * [2024-06-20, 09:11:23](https://lobste.rs/s/0vqjdh/make_your_self_search_for_maxwell_s) - [Make Your Self: In Search for Maxwell's equations of OOP](https://marianoguerra.org/posts/make-your-self/)
-* [2024-06-20, 06:59:37](https://lobste.rs/s/z77tmz/mrtg_multi_router_traffic_grapher_1998) - [MRTG The Multi Router Traffic Grapher (1998)](https://www.usenix.org/legacy/event/lisa98/full_papers/oetiker/oetiker.pdf)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 * [2024-06-20, 06:03:53](https://lobste.rs/s/4obmz9/suse_liberty_linux_lite_announcement) - [SUSE Liberty Linux Lite announcement](https://www.suse.com/news/New-suse-liberty-linux-lite/)
 * [2024-06-19, 21:31:18](https://lobste.rs/s/bafqer/firefox_127_0_1) - [Firefox 127.0.1](https://www.mozilla.org/en-US/firefox/127.0.1/releasenotes/)
