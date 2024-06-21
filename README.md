@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-21, 05:27:38](https://lobste.rs/s/xqt3jc/upgrading_my_chumby_8_kernel_part_11_sd_cf) - [Upgrading my Chumby 8 kernel part 11: SD/CF card reader](https://www.downtowndougbrown.com/2024/06/upgrading-my-chumby-8-kernel-part-11-sd-cf-card-reader/)
 * [2024-06-21, 05:15:29](https://lobste.rs/s/xbxxiv/on_paradox_learning_reason_from_data_2022) - [On the Paradox of Learning to Reason from Data (2022)](https://arxiv.org/pdf/2205.11502)
 * [2024-06-21, 04:12:20](https://lobste.rs/s/mxb8wb/debian_12_is_better_than_windows_10) - [Debian 12 is Better Than Windows 10](https://www.logikalsolutions.com/wordpress/information-technology/windows-10/)
 * [2024-06-21, 02:12:23](https://lobste.rs/s/xqch06/generalized_autoref_based) - [Generalized Autoref-Based Specialization (2019)](https://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html)
-* [2024-06-20, 23:48:32](https://lobste.rs/s/0u5b9u/flambda2_ep_2_loopifying_tail_recursive) - [Flambda2 Ep. 2: Loopifying Tail-Recursive Functions](https://ocamlpro.com/blog/2024_05_07_the_flambda2_snippets_2/)
 * [2024-06-20, 22:36:32](https://lobste.rs/s/ouqgnq/what_happens_when_you_put_database) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 * [2024-06-20, 20:07:18](https://lobste.rs/s/er2qzr/minizinc_playground) - [MiniZinc Playground](https://play.minizinc.dev/)
 * [2024-06-20, 19:11:42](https://lobste.rs/s/dca3tn/cve_2024_27815_buffer_overflow_xnu_kernel) - [CVE-2024-27815: A Buffer Overflow in the XNU Kernel](https://jprx.io/cve-2024-27815/)
