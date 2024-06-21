@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-21, 13:56:28",
+      "https://lobste.rs/s/vxuh6s/walk_v1_8_0"
+    ],
+    [
+      "walk v1.8.0",
+      "https://github.com/antonmedv/walk/releases/tag/v1.8.0"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 13:49:28",
+      "https://lobste.rs/s/nmlbhb/announcing_river_ui"
+    ],
+    [
+      "Announcing River UI",
+      "https://riverqueue.com/blog/announcing-river-ui"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 13:38:22",
       "https://lobste.rs/s/qeztvy/3d_printing_my_teeth"
     ],
@@ -57,16 +77,6 @@
     [
       "Nickel modules",
       "https://www.tweag.io/blog/2024-06-20-nickel-modules/"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 06:08:42",
-      "https://lobste.rs/s/hjstvw/state_javascript_2023_results"
-    ],
-    [
-      "State of JavaScript 2023 Results",
-      "https://2023.stateofjs.com/en-US"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Rewrites outside location blocks in Nginx are bad",
       "https://kgrz.io/rewrites-outside-location-in-nginx-bad.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 14:41:36",
-      "https://lobste.rs/s/02gfzj/running_rails_system_tests_with"
-    ],
-    [
-      "Running Rails System Tests with Playwright instead of Selenium",
-      "https://justin.searls.co/posts/running-rails-system-tests-with-playwright-instead-of-selenium/"
     ]
   ],
   [
