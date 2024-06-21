@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-21, 13:23:31](https://lobste.rs/s/pjfpac/software_with_politic_opinion_is) - [Software with politic opinion is a security threat](https://vitonsky.net/blog/2024/06/20/politics-in-software/)
+* [2024-06-21, 13:38:22](https://lobste.rs/s/qeztvy/3d_printing_my_teeth) - [3D Printing My Teeth](https://shkspr.mobi/blog/2024/06/3d-printing-my-teeth/)
 * [2024-06-21, 13:06:11](https://lobste.rs/s/l10rnt/on_testing_go_code_using_standard_library) - [On testing Go code using the standard library](https://henvic.dev/posts/testing-go/)
 * [2024-06-21, 11:35:35](https://lobste.rs/s/dpml3a/stalin_brutally_optimizing_scheme) - [stalin: brutally optimizing Scheme compiler](https://github.com/barak/stalin)
 * [2024-06-21, 11:35:35](https://lobste.rs/s/3yblc2/claiming_auto_otherwise) - [Claiming, auto and otherwise](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
