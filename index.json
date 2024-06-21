@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-06-21, 21:02:47",
+      "https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude"
+    ],
+    [
+      "Building search-based RAG using Claude, Datasette and Val.Town",
+      "https://simonwillison.net/2024/Jun/21/search-based-rag/"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 19:08:57",
       "https://lobste.rs/s/e6owro/we_need_talk_about_testing_2021"
     ],
@@ -227,16 +237,6 @@
     [
       "The revival of Pre-Scheme, a systems programming lisp",
       "https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 10:21:52",
-      "https://lobste.rs/s/hn5yfi/driplang_triggering_when_events_happen"
-    ],
-    [
-      "Driplang: triggering when events happen (or don't)",
-      "https://blog.vbang.dk/2024/06/19/eventdripper/"
     ]
   ],
   [
