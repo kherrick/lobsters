@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-21](index.md)
 
+* [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val.Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
 * [2024-06-21, 19:08:57](https://lobste.rs/s/e6owro/we_need_talk_about_testing_2021) - [We need to talk about testing (2021)](https://dannorth.net/we-need-to-talk-about-testing/)
 * [2024-06-21, 19:08:57](https://lobste.rs/s/e6owro/we_need_talk_about_testing) - [We need to talk about testing](https://dannorth.net/we-need-to-talk-about-testing/)
 * [2024-06-21, 17:42:04](https://lobste.rs/s/gohjow/tscircuit_react_for_circuits) - [tscircuit: React for Circuits](https://github.com/tscircuit/tscircuit)
