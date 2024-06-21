@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-21, 13:23:31",
+      "https://lobste.rs/s/pjfpac/software_with_politic_opinion_is"
+    ],
+    [
+      "Software with politic opinion is a security threat",
+      "https://vitonsky.net/blog/2024/06/20/politics-in-software/"
+    ]
+  ],
+  [
+    [
+      "2024-06-21, 13:06:11",
+      "https://lobste.rs/s/l10rnt/on_testing_go_code_using_standard_library"
+    ],
+    [
+      "On testing Go code using the standard library",
+      "https://henvic.dev/posts/testing-go/"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 11:35:35",
       "https://lobste.rs/s/dpml3a/stalin_brutally_optimizing_scheme"
     ],
@@ -12,10 +32,10 @@
   [
     [
       "2024-06-21, 11:35:35",
-      "https://lobste.rs/s/3yblc2/claiming_auto_otherwise_by_nico_matsakis"
+      "https://lobste.rs/s/3yblc2/claiming_auto_otherwise"
     ],
     [
-      "Claiming, auto and otherwise by Nico Matsakis",
+      "Claiming, auto and otherwise",
       "https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/"
     ]
   ],
@@ -91,32 +111,12 @@
   ],
   [
     [
-      "2024-06-21, 02:12:23",
-      "https://lobste.rs/s/xqch06/generalized_autoref_based"
-    ],
-    [
-      "Generalized Autoref-Based Specialization (2019)",
-      "https://lukaskalbertodt.github.io/2019/12/05/generalized-autoref-based-specialization.html"
-    ]
-  ],
-  [
-    [
       "2024-06-20, 22:36:32",
       "https://lobste.rs/s/ouqgnq/what_happens_when_you_put_database"
     ],
     [
       "What Happens When You Put a Database in the Browser?",
       "https://motherduck.com/blog/olap-database-in-browser/"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 19:11:42",
-      "https://lobste.rs/s/dca3tn/cve_2024_27815_buffer_overflow_xnu_kernel"
-    ],
-    [
-      "CVE-2024-27815: A Buffer Overflow in the XNU Kernel",
-      "https://jprx.io/cve-2024-27815/"
     ]
   ],
   [
