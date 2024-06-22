@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 11:07:35](https://lobste.rs/s/s2hhkj/different_gets_ignored) - [Different Gets Ignored](https://www.lukew.com/ff/entry.asp?2066)
 * [2024-06-22, 10:05:46](https://lobste.rs/s/v9p94u/your_own_constant_folder_c_c) - [Your Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 * [2024-06-22, 08:57:43](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend)
 * [2024-06-22, 07:39:20](https://lobste.rs/s/kprfcu/ecma_17_graphical_representation) - [ECMA-17: Graphical representation of control characters (1968)](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
