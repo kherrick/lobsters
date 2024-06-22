@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-22, 11:35:08",
+      "https://lobste.rs/s/vtvqjn/tachyonfx_library_for_creating_shader"
+    ],
+    [
+      "Tachyonfx: A library for creating shader-like effects in terminal UIs",
+      "https://github.com/junkdog/tachyonfx"
+    ]
+  ],
+  [
+    [
       "2024-06-22, 11:07:35",
       "https://lobste.rs/s/s2hhkj/different_gets_ignored"
     ],
@@ -237,16 +247,6 @@
     [
       "The revival of Pre-Scheme, a systems programming lisp",
       "https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 06:28:26",
-      "https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh"
-    ],
-    [
-      "Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh",
-      "https://www.oilshell.org/blog/2024/06/release-0.22.0.html"
     ]
   ]
 ]
