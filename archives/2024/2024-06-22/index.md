@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 11:35:08](https://lobste.rs/s/vtvqjn/tachyonfx_library_for_creating_shader) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 * [2024-06-22, 11:07:35](https://lobste.rs/s/s2hhkj/different_gets_ignored) - [Different Gets Ignored](https://www.lukew.com/ff/entry.asp?2066)
 * [2024-06-22, 10:05:46](https://lobste.rs/s/v9p94u/your_own_constant_folder_c_c) - [Your Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 * [2024-06-22, 08:57:43](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend)

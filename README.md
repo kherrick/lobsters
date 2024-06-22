@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-22, 11:35:08](https://lobste.rs/s/vtvqjn/tachyonfx_library_for_creating_shader) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 * [2024-06-22, 11:07:35](https://lobste.rs/s/s2hhkj/different_gets_ignored) - [Different Gets Ignored](https://www.lukew.com/ff/entry.asp?2066)
 * [2024-06-22, 10:05:46](https://lobste.rs/s/v9p94u/your_own_constant_folder_c_c) - [Your Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 * [2024-06-22, 08:57:43](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend)
@@ -24,7 +25,6 @@
 * [2024-06-20, 18:15:16](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines) - [Stop your (business rules) engines](https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/)
 * [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-20, 12:36:09](https://lobste.rs/s/tjiwrd/revival_pre_scheme_systems_programming) - [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
-* [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
 
 ## [Archives](archives/index.md)
 
