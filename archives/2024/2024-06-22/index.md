@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 17:00:12](https://lobste.rs/s/m9xwml/coders_ai_training_remote_work_contract) - [Coders - AI Training (Remote Work, Contract)](https://boards.greenhouse.io/outlier/jobs/4362256005)
 * [2024-06-22, 15:53:12](https://lobste.rs/s/t9nqpy/sigsaly_cryptography_turntables_muzak) - [SIGSALY: Cryptography, Turntables, and Muzak](https://thequietus.com/culture/books/sigsaly-cryptography-turntables-muzak-radio-phonics-laboratory-justin-patrick-moore-extract/)
 * [2024-06-22, 14:56:05](https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for) - [LibreChat: enhanced ChatGPT clone for self-hosting](https://github.com/danny-avila/LibreChat)
 * [2024-06-22, 12:41:03](https://lobste.rs/s/wegvbm/reladiff_high_performance_diffing_large) - [reladiff: High-performance diffing of large datasets across databases](https://github.com/erezsh/reladiff)
