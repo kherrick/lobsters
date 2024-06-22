@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-22, 08:57:43](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend)
 * [2024-06-22, 07:39:20](https://lobste.rs/s/kprfcu/ecma_17_graphical_representation) - [ECMA-17: Graphical representation of control characters (1968)](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
 * [2024-06-22, 05:17:12](https://lobste.rs/s/hmxzzz/hardware_fpga_dps_8_m_mainframe_fnp) - [Hardware FPGA DPS-8/M mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
@@ -21,7 +22,6 @@
 * [2024-06-21, 04:12:20](https://lobste.rs/s/mxb8wb/debian_12_is_better_than_windows_10) - [Debian 12 is Better Than Windows 10](https://www.logikalsolutions.com/wordpress/information-technology/windows-10/)
 * [2024-06-20, 22:36:32](https://lobste.rs/s/ouqgnq/what_happens_when_you_put_database) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 * [2024-06-20, 18:15:16](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines) - [Stop your (business rules) engines](https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/)
-* [2024-06-20, 15:56:39](https://lobste.rs/s/z1bedd/exploration_cuis_smalltalk_with_juan) - [An Exploration of Cuis Smalltalk  (with Juan Vuletich)](https://youtu.be/sokb6zZC-ZE)
 * [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-20, 12:36:09](https://lobste.rs/s/tjiwrd/revival_pre_scheme_systems_programming) - [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
