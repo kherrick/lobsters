@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 14:56:05](https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for) - [LibreChat: enhanced ChatGPT clone for self-hosting](https://github.com/danny-avila/LibreChat)
 * [2024-06-22, 12:41:03](https://lobste.rs/s/wegvbm/reladiff_high_performance_diffing_large) - [reladiff: High-performance diffing of large datasets across databases](https://github.com/erezsh/reladiff)
 * [2024-06-22, 12:15:21](https://lobste.rs/s/rgn6tz/why_is_ps3_emulation_so_fast_rpcs3) - [Why is PS3 emulation so fast: RPCS3 optimizations explained](https://www.youtube.com/watch?v=19ae5Mq2lJE)
 * [2024-06-22, 12:08:37](https://lobste.rs/s/0g9ttu/end_line_story_2004) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-22, 14:56:05](https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for) - [LibreChat: enhanced ChatGPT clone for self-hosting](https://github.com/danny-avila/LibreChat)
 * [2024-06-22, 12:41:03](https://lobste.rs/s/wegvbm/reladiff_high_performance_diffing_large) - [reladiff: High-performance diffing of large datasets across databases](https://github.com/erezsh/reladiff)
 * [2024-06-22, 12:15:21](https://lobste.rs/s/rgn6tz/why_is_ps3_emulation_so_fast_rpcs3) - [Why is PS3 emulation so fast: RPCS3 optimizations explained](https://www.youtube.com/watch?v=19ae5Mq2lJE)
 * [2024-06-22, 12:08:37](https://lobste.rs/s/0g9ttu/end_line_story_2004) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
@@ -9,7 +10,6 @@
 * [2024-06-22, 10:05:46](https://lobste.rs/s/v9p94u/your_own_constant_folder_c_c) - [Your Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 * [2024-06-22, 08:57:43](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend)
 * [2024-06-22, 07:39:20](https://lobste.rs/s/kprfcu/ecma_17_graphical_representation) - [ECMA-17: Graphical representation of control characters (1968)](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
-* [2024-06-22, 05:17:12](https://lobste.rs/s/hmxzzz/hardware_fpga_dps_8_m_mainframe_fnp) - [Hardware FPGA DPS-8/M mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 * [2024-06-21, 21:13:43](https://lobste.rs/s/oiimpz/svg_good_bad_ugly_2021) - [SVG: The Good, the Bad and the Ugly (2021)](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
