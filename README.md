@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-06-22, 20:10:21](https://lobste.rs/s/vgvylp/building_constellation_images_with) - [Building a constellation of images with Earthly](https://xeiaso.net/blog/2024/earthly-docker/)
-* [2024-06-22, 20:05:53](https://lobste.rs/s/j9jtyq/simple_text_editor_for_x) - [Simple text Editor for X](https://chronicles.mad-scientist.club/sex/)
 * [2024-06-22, 15:53:12](https://lobste.rs/s/t9nqpy/sigsaly_cryptography_turntables_muzak) - [SIGSALY: Cryptography, Turntables, and Muzak](https://thequietus.com/culture/books/sigsaly-cryptography-turntables-muzak-radio-phonics-laboratory-justin-patrick-moore-extract/)
 * [2024-06-22, 14:56:05](https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for) - [LibreChat: enhanced ChatGPT clone for self-hosting](https://github.com/danny-avila/LibreChat)
 * [2024-06-22, 12:41:03](https://lobste.rs/s/wegvbm/reladiff_high_performance_diffing_large) - [reladiff: High-performance diffing of large datasets across databases](https://github.com/erezsh/reladiff)
@@ -17,6 +16,7 @@
 * [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 * [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
 * [2024-06-21, 19:08:57](https://lobste.rs/s/e6owro/we_need_talk_about_testing_2021) - [We need to talk about testing (2021)](https://dannorth.net/we-need-to-talk-about-testing/)
+* [2024-06-21, 17:42:04](https://lobste.rs/s/gohjow/tscircuit_react_for_circuits) - [tscircuit: React for Circuits](https://github.com/tscircuit/tscircuit)
 * [2024-06-21, 14:44:46](https://lobste.rs/s/ljheax/public_cdns_are_useless_dangerous_2021) - [Public CDNs Are Useless and Dangerous (2021)](https://httptoolkit.com/blog/public-cdn-risks/)
 * [2024-06-21, 14:40:49](https://lobste.rs/s/pierpf/django_5_by_example_preface) - [Django 5 by Example preface](https://www.paulox.net/2024/06/21/django-5-by-example-preface/)
 * [2024-06-21, 13:49:28](https://lobste.rs/s/nmlbhb/announcing_river_ui) - [Announcing River UI](https://riverqueue.com/blog/announcing-river-ui)
