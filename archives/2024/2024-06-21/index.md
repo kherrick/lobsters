@@ -6,6 +6,7 @@
 
 * [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 * [2024-06-21, 21:53:04](https://lobste.rs/s/xun4uv/cosmodoc_cosmo_s_cosmic_adventure) - [Cosmodoc - Cosmo’s Cosmic Adventure reverse engineering](https://cosmodoc.org/)
+* [2024-06-21, 21:13:43](https://lobste.rs/s/oiimpz/svg_good_bad_ugly_2021) - [SVG: The Good, the Bad and the Ugly (2021)](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 21:13:43](https://lobste.rs/s/oiimpz/svg_good_bad_ugly) - [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 21:13:43](https://lobste.rs/s/oiimpz/svg_good_bad_theugly) - [SVG: The Good, the Bad and theUgly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val.Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)

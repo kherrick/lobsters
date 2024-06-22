@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-22, 05:17:12](https://lobste.rs/s/hmxzzz/hardware_fpga_dps_8_m_mainframe_fnp) - [Hardware FPGA DPS-8/M mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 * [2024-06-21, 21:53:04](https://lobste.rs/s/xun4uv/cosmodoc_cosmo_s_cosmic_adventure) - [Cosmodoc - Cosmo’s Cosmic Adventure reverse engineering](https://cosmodoc.org/)
-* [2024-06-21, 21:13:43](https://lobste.rs/s/oiimpz/svg_good_bad_ugly) - [SVG: The Good, the Bad and the Ugly](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
+* [2024-06-21, 21:13:43](https://lobste.rs/s/oiimpz/svg_good_bad_ugly_2021) - [SVG: The Good, the Bad and the Ugly (2021)](https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html)
 * [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
 * [2024-06-21, 19:08:57](https://lobste.rs/s/e6owro/we_need_talk_about_testing_2021) - [We need to talk about testing (2021)](https://dannorth.net/we-need-to-talk-about-testing/)
 * [2024-06-21, 17:42:04](https://lobste.rs/s/gohjow/tscircuit_react_for_circuits) - [tscircuit: React for Circuits](https://github.com/tscircuit/tscircuit)
@@ -21,7 +22,6 @@
 * [2024-06-20, 22:36:32](https://lobste.rs/s/ouqgnq/what_happens_when_you_put_database) - [What Happens When You Put a Database in the Browser?](https://motherduck.com/blog/olap-database-in-browser/)
 * [2024-06-20, 18:15:16](https://lobste.rs/s/isc1qn/stop_your_business_rules_engines) - [Stop your (business rules) engines](https://www.adhocteam.us/2017/10/10/stop-your-business-rules-engines/)
 * [2024-06-20, 15:56:39](https://lobste.rs/s/z1bedd/exploration_cuis_smalltalk_with_juan) - [An Exploration of Cuis Smalltalk  (with Juan Vuletich)](https://youtu.be/sokb6zZC-ZE)
-* [2024-06-20, 15:14:23](https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx) - [Rewrites outside location blocks in Nginx are bad](https://kgrz.io/rewrites-outside-location-in-nginx-bad.html)
 * [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 * [2024-06-20, 12:36:09](https://lobste.rs/s/tjiwrd/revival_pre_scheme_systems_programming) - [The revival of Pre-Scheme, a systems programming lisp](https://prescheme.org/posts/announcing-the-pre-scheme-restoration.html)
 * [2024-06-20, 06:28:26](https://lobste.rs/s/vft7dn/oils_0_22_0_docs_pretty_printing_nix_zsh) - [Oils 0.22.0 - Docs, Pretty Printing, Nix, and Zsh](https://www.oilshell.org/blog/2024/06/release-0.22.0.html)
