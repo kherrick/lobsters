@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-22, 07:39:20](https://lobste.rs/s/kprfcu/ecma_17_graphical_representation) - [ECMA-17: Graphical representation of control characters (1968)](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
 * [2024-06-22, 05:17:12](https://lobste.rs/s/hmxzzz/hardware_fpga_dps_8_m_mainframe_fnp) - [Hardware FPGA DPS-8/M mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 * [2024-06-21, 21:53:04](https://lobste.rs/s/xun4uv/cosmodoc_cosmo_s_cosmic_adventure) - [Cosmodoc - Cosmo’s Cosmic Adventure reverse engineering](https://cosmodoc.org/)
@@ -14,7 +15,6 @@
 * [2024-06-21, 13:06:11](https://lobste.rs/s/l10rnt/on_testing_go_code_using_standard_library) - [On testing Go code using the standard library](https://henvic.dev/posts/testing-go/)
 * [2024-06-21, 11:35:35](https://lobste.rs/s/dpml3a/stalin_brutally_optimizing_scheme) - [stalin: brutally optimizing Scheme compiler](https://github.com/barak/stalin)
 * [2024-06-21, 11:35:35](https://lobste.rs/s/3yblc2/claiming_auto_otherwise) - [Claiming, auto and otherwise](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
-* [2024-06-21, 10:11:15](https://lobste.rs/s/wfe6gf/project_naptime_evaluating_offensive) - [Project Naptime: Evaluating Offensive Security Capabilities of Large Language Models](https://googleprojectzero.blogspot.com/2024/06/project-naptime.html)
 * [2024-06-21, 09:59:19](https://lobste.rs/s/dfy9kq/nickel_modules) - [Nickel modules](https://www.tweag.io/blog/2024-06-20-nickel-modules/)
 * [2024-06-21, 05:38:12](https://lobste.rs/s/syegk7/carbon_copy_newsletter_no_3) - [Carbon Copy Newsletter No.3](https://github.com/carbon-language/carbon-lang/discussions/4068)
 * [2024-06-21, 05:15:29](https://lobste.rs/s/xbxxiv/on_paradox_learning_reason_from_data_2022) - [On the Paradox of Learning to Reason from Data (2022)](https://arxiv.org/pdf/2205.11502)
