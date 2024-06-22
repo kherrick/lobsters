@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-22, 05:17:12",
+      "https://lobste.rs/s/hmxzzz/hardware_fpga_dps_8_m_mainframe_fnp"
+    ],
+    [
+      "Hardware FPGA DPS-8/M mainframe and FNP Project",
+      "https://dps8m.gitlab.io/blog/posts/20240622_FPGA/"
+    ]
+  ],
+  [
+    [
       "2024-06-21, 21:54:04",
       "https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils"
     ],
@@ -22,10 +32,10 @@
   [
     [
       "2024-06-21, 21:13:43",
-      "https://lobste.rs/s/oiimpz/svg_good_bad_ugly"
+      "https://lobste.rs/s/oiimpz/svg_good_bad_ugly_2021"
     ],
     [
-      "SVG: The Good, the Bad and the Ugly",
+      "SVG: The Good, the Bad and the Ugly (2021)",
       "https://www.eisfunke.com/posts/2021/svg-the-good-the-bad-and-the-ugly.html"
     ]
   ],
@@ -207,16 +217,6 @@
     [
       "An Exploration of Cuis Smalltalk  (with Juan Vuletich)",
       "https://youtu.be/sokb6zZC-ZE"
-    ]
-  ],
-  [
-    [
-      "2024-06-20, 15:14:23",
-      "https://lobste.rs/s/rrenho/rewrites_outside_location_blocks_nginx"
-    ],
-    [
-      "Rewrites outside location blocks in Nginx are bad",
-      "https://kgrz.io/rewrites-outside-location-in-nginx-bad.html"
     ]
   ],
   [
