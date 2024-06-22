@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-22](index.md)
 
+* [2024-06-22, 22:21:35](https://lobste.rs/s/ab6ixa/freebsd_bhyve_companion_tools) - [FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/)
 * [2024-06-22, 20:10:21](https://lobste.rs/s/vgvylp/building_constellation_images_with) - [Building a constellation of images with Earthly](https://xeiaso.net/blog/2024/earthly-docker/)
 * [2024-06-22, 20:05:53](https://lobste.rs/s/j9jtyq/simple_text_editor_for_x) - [Simple text Editor for X](https://chronicles.mad-scientist.club/sex/)
 * [2024-06-22, 17:00:12](https://lobste.rs/s/m9xwml/coders_ai_training_remote_work_contract) - [Coders - AI Training (Remote Work, Contract)](https://boards.greenhouse.io/outlier/jobs/4362256005)
