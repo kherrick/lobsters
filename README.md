@@ -18,13 +18,13 @@
 * [2024-06-23, 01:51:47](https://lobste.rs/s/zfdwiu/ruby_great_language_for_shell_scripts) - [Ruby: a great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-22, 22:21:35](https://lobste.rs/s/ab6ixa/freebsd_bhyve_companion_tools) - [FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/)
 * [2024-06-22, 20:10:21](https://lobste.rs/s/vgvylp/building_constellation_images_with) - [Building a constellation of images with Earthly](https://xeiaso.net/blog/2024/earthly-docker/)
+* [2024-06-22, 14:56:05](https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for) - [LibreChat: enhanced ChatGPT clone for self-hosting](https://github.com/danny-avila/LibreChat)
 * [2024-06-22, 12:41:03](https://lobste.rs/s/wegvbm/reladiff_high_performance_diffing_large) - [reladiff: High-performance diffing of large datasets across databases](https://github.com/erezsh/reladiff)
 * [2024-06-22, 12:15:21](https://lobste.rs/s/rgn6tz/why_is_ps3_emulation_so_fast_rpcs3) - [Why is PS3 emulation so fast: RPCS3 optimizations explained](https://www.youtube.com/watch?v=19ae5Mq2lJE)
 * [2024-06-22, 12:04:41](https://lobste.rs/s/kswxq2/ownership) - [Ownership](https://without.boats/blog/ownership/)
 * [2024-06-22, 11:35:08](https://lobste.rs/s/vtvqjn/tachyonfx_library_for_creating_shader) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 * [2024-06-22, 11:07:35](https://lobste.rs/s/s2hhkj/different_gets_ignored) - [Different Gets Ignored](https://www.lukew.com/ff/entry.asp?2066)
 * [2024-06-22, 07:39:20](https://lobste.rs/s/kprfcu/ecma_17_graphical_representation) - [ECMA-17: Graphical representation of control characters (1968)](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
-* [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 
 ## [Archives](archives/index.md)
 
