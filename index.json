@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-06-23, 14:59:31",
+      "https://lobste.rs/s/5uf5wd/device_afd_deal_with_devil_makes_async"
+    ],
+    [
+      "\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows",
+      "https://notgull.net/device-afd/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 14:59:30",
+      "https://lobste.rs/s/jr6d0z/llama_ttf"
+    ],
+    [
+      "llama.ttf",
+      "https://fuglede.github.io/llama.ttf/"
+    ]
+  ],
+  [
+    [
+      "2024-06-23, 14:59:18",
+      "https://lobste.rs/s/lvyd5z/freebsd_native_ish_home_lab_network"
+    ],
+    [
+      "The FreeBSD-native-ish home lab and network",
+      "https://antranigv.am/posts/2024/06/freebsd-server-network-homelab/"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 14:25:33",
       "https://lobste.rs/s/amb3ye/20_years_blogging"
     ],
@@ -81,32 +111,12 @@
   ],
   [
     [
-      "2024-06-23, 05:53:25",
-      "https://lobste.rs/s/juwxg8/public_interest_internet"
-    ],
-    [
-      "The Public Interest Internet",
-      "https://berjon.com/public-interest-internet/"
-    ]
-  ],
-  [
-    [
       "2024-06-23, 01:51:47",
       "https://lobste.rs/s/zfdwiu/ruby_great_language_for_shell_scripts"
     ],
     [
       "Ruby: a great language for shell scripts",
       "https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 00:16:03",
-      "https://lobste.rs/s/zr1abj/biggest_crt_ever_made_sony_s_pvm_4300"
-    ],
-    [
-      "The biggest CRT ever made: Sony's PVM-4300",
-      "https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Building a constellation of images with Earthly",
       "https://xeiaso.net/blog/2024/earthly-docker/"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 15:53:12",
-      "https://lobste.rs/s/t9nqpy/sigsaly_cryptography_turntables_muzak"
-    ],
-    [
-      "SIGSALY: Cryptography, Turntables, and Muzak",
-      "https://thequietus.com/culture/books/sigsaly-cryptography-turntables-muzak-radio-phonics-laboratory-justin-patrick-moore-extract/"
     ]
   ],
   [
