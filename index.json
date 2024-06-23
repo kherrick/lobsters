@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-06-22, 14:56:05",
+      "https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for"
+    ],
+    [
+      "LibreChat: enhanced ChatGPT clone for self-hosting",
+      "https://github.com/danny-avila/LibreChat"
+    ]
+  ],
+  [
+    [
       "2024-06-22, 12:41:03",
       "https://lobste.rs/s/wegvbm/reladiff_high_performance_diffing_large"
     ],
@@ -237,16 +247,6 @@
     [
       "ECMA-17: Graphical representation of control characters (1968)",
       "https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-06-21, 21:54:04",
-      "https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils"
-    ],
-    [
-      "Swapping GNU coreutils for uutils coreutils on Gentoo Linux",
-      "https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/"
     ]
   ]
 ]
