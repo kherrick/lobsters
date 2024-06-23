@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-23, 00:16:03](https://lobste.rs/s/zr1abj/biggest_crt_ever_made_sony_s_pvm_4300) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2024-06-22, 22:21:35](https://lobste.rs/s/ab6ixa/freebsd_bhyve_companion_tools) - [FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/)
 * [2024-06-22, 20:10:21](https://lobste.rs/s/vgvylp/building_constellation_images_with) - [Building a constellation of images with Earthly](https://xeiaso.net/blog/2024/earthly-docker/)
 * [2024-06-22, 15:53:12](https://lobste.rs/s/t9nqpy/sigsaly_cryptography_turntables_muzak) - [SIGSALY: Cryptography, Turntables, and Muzak](https://thequietus.com/culture/books/sigsaly-cryptography-turntables-muzak-radio-phonics-laboratory-justin-patrick-moore-extract/)
@@ -24,7 +25,6 @@
 * [2024-06-21, 13:06:11](https://lobste.rs/s/l10rnt/on_testing_go_code_using_standard_library) - [On testing Go code using the standard library](https://henvic.dev/posts/testing-go/)
 * [2024-06-21, 11:35:35](https://lobste.rs/s/dpml3a/stalin_brutally_optimizing_scheme) - [stalin: brutally optimizing Scheme compiler](https://github.com/barak/stalin)
 * [2024-06-21, 11:35:35](https://lobste.rs/s/3yblc2/claiming_auto_otherwise) - [Claiming, auto and otherwise](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
-* [2024-06-20, 14:36:27](https://lobste.rs/s/ex2uk5/thoughts_on_desktop_operating_systems) - [Thoughts on Desktop Operating Systems in 2024](https://tbolt.space/2024/6/20/desktop-operating-systems-2024)
 
 ## [Archives](archives/index.md)
 
