@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-23, 15:37:11](https://lobste.rs/s/bbuiuh/arbitrary_shell_command_evaluation_org) - [Arbitrary shell command evaluation in Org mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
 * [2024-06-23, 15:34:24](https://lobste.rs/s/fayg2o/schotter) - [Schotter](https://zellyn.com/2024/06/schotter-1/)
 * [2024-06-23, 15:16:09](https://lobste.rs/s/2cfdao/beancount_announcement_v3_git_branches) - [Beancount Announcement: v3 and git branches](https://groups.google.com/g/beancount/c/iTdRuvZnE4E)
 * [2024-06-23, 14:59:31](https://lobste.rs/s/5uf5wd/device_afd_deal_with_devil_makes_async) - [\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.net/device-afd/)
@@ -11,7 +12,6 @@
 * [2024-06-23, 13:23:53](https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust) - [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
 * [2024-06-23, 13:17:44](https://lobste.rs/s/k0gcxw/psion_symbian) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 12:04:15](https://lobste.rs/s/vcupzx/never_use_datagrams) - [Never* use Datagrams](https://quic.video/blog/never-use-datagrams/)
-* [2024-06-23, 08:30:11](https://lobste.rs/s/jlfnqr/list_ieee_milestones) - [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
 * [2024-06-23, 06:03:07](https://lobste.rs/s/zcvd0c/sql_studio_sql_database_explorer_sqlite) - [sql-studio: SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]](https://github.com/frectonz/sql-studio/)
 * [2024-06-23, 01:51:47](https://lobste.rs/s/zfdwiu/ruby_great_language_for_shell_scripts) - [Ruby: a great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-22, 22:21:35](https://lobste.rs/s/ab6ixa/freebsd_bhyve_companion_tools) - [FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/)
