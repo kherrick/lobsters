@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-23, 01:51:47](https://lobste.rs/s/zfdwiu/ruby_great_language_for_shell_scripts) - [Ruby: a great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-23, 00:16:03](https://lobste.rs/s/zr1abj/biggest_crt_ever_made_sony_s_pvm_4300) - [The biggest CRT ever made: Sony's PVM-4300](https://dfarq.homeip.net/the-biggest-crt-ever-made-sonys-pvm-4300/)
 * [2024-06-22, 22:21:35](https://lobste.rs/s/ab6ixa/freebsd_bhyve_companion_tools) - [FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/)
 * [2024-06-22, 20:10:21](https://lobste.rs/s/vgvylp/building_constellation_images_with) - [Building a constellation of images with Earthly](https://xeiaso.net/blog/2024/earthly-docker/)
@@ -14,7 +15,6 @@
 * [2024-06-22, 10:05:46](https://lobste.rs/s/v9p94u/your_own_constant_folder_c_c) - [Your Own Constant Folder in C/C++](https://www.neilhenning.dev/posts/yourownconstantfolder/)
 * [2024-06-22, 08:57:43](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/b6iyxd/what_are_you_doing_this_weekend)
 * [2024-06-22, 07:39:20](https://lobste.rs/s/kprfcu/ecma_17_graphical_representation) - [ECMA-17: Graphical representation of control characters (1968)](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
-* [2024-06-22, 05:17:12](https://lobste.rs/s/hmxzzz/hardware_fpga_dps_8_m_mainframe_fnp) - [Hardware FPGA DPS-8/M mainframe and FNP Project](https://dps8m.gitlab.io/blog/posts/20240622_FPGA/)
 * [2024-06-21, 21:54:04](https://lobste.rs/s/rsmvzj/swapping_gnu_coreutils_for_uutils) - [Swapping GNU coreutils for uutils coreutils on Gentoo Linux](https://www.joshmcguigan.com/blog/gentoo-uutils-coreutils/)
 * [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
 * [2024-06-21, 19:08:57](https://lobste.rs/s/e6owro/we_need_talk_about_testing_2021) - [We need to talk about testing (2021)](https://dannorth.net/we-need-to-talk-about-testing/)
