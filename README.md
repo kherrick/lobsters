@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-23, 12:04:15](https://lobste.rs/s/vcupzx/never_use_datagrams) - [Never* use Datagrams](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 08:30:11](https://lobste.rs/s/jlfnqr/list_ieee_milestones) - [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
 * [2024-06-23, 06:03:07](https://lobste.rs/s/zcvd0c/sql_studio_sql_database_explorer_sqlite) - [sql-studio: SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]](https://github.com/frectonz/sql-studio/)
 * [2024-06-23, 05:53:25](https://lobste.rs/s/juwxg8/public_interest_internet) - [The Public Interest Internet](https://berjon.com/public-interest-internet/)
@@ -22,7 +23,6 @@
 * [2024-06-21, 21:02:47](https://lobste.rs/s/iyq4pf/building_search_based_rag_using_claude) - [Building search-based RAG using Claude, Datasette and Val Town](https://simonwillison.net/2024/Jun/21/search-based-rag/)
 * [2024-06-21, 14:44:46](https://lobste.rs/s/ljheax/public_cdns_are_useless_dangerous_2021) - [Public CDNs Are Useless and Dangerous (2021)](https://httptoolkit.com/blog/public-cdn-risks/)
 * [2024-06-21, 14:40:49](https://lobste.rs/s/pierpf/django_5_by_example_preface) - [Django 5 by Example preface](https://www.paulox.net/2024/06/21/django-5-by-example-preface/)
-* [2024-06-21, 13:06:11](https://lobste.rs/s/l10rnt/on_testing_go_code_using_standard_library) - [On testing Go code using the standard library](https://henvic.dev/posts/testing-go/)
 * [2024-06-21, 11:35:35](https://lobste.rs/s/dpml3a/stalin_brutally_optimizing_scheme) - [stalin: brutally optimizing Scheme compiler](https://github.com/barak/stalin)
 * [2024-06-21, 11:35:35](https://lobste.rs/s/3yblc2/claiming_auto_otherwise) - [Claiming, auto and otherwise](https://smallcultfollowing.com/babysteps/blog/2024/06/21/claim-auto-and-otherwise/)
 
