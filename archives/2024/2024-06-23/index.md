@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 17:35:38](https://lobste.rs/s/1v64cm/freebsd_samba_share_with_freeipa_idm_auth) - [FreeBSD Samba Share with FreeIPA/IDM Auth](https://vermaden.wordpress.com/2024/06/23/freebsd-samba-share-freeipa-idm-auth/)
 * [2024-06-23, 17:19:43](https://lobste.rs/s/v9htzy/inside_tiny_chip_powers_montreal_subway) - [Inside the tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 16:24:46](https://lobste.rs/s/l1nadk/discussion_discussions_on_ai_bias) - [A discussion of discussions on AI bias](https://danluu.com/ai-bias/)
 * [2024-06-23, 15:42:27](https://lobste.rs/s/sm1krj/shpool_think_tmux_then_aim_lower) - [shpool: Think tmux, then aim... lower](https://github.com/shell-pool/shpool)
