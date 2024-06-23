@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 19:07:47](https://lobste.rs/s/srrfqt/secrets_chatgpt_linux_system) - [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
+* [2024-06-23, 19:02:03](https://lobste.rs/s/blxfwn/scalable_matmul_free_language_modeling) - [Scalable MatMul-free Language Modeling](https://arxiv.org/pdf/2406.02528)
 * [2024-06-23, 18:50:36](https://lobste.rs/s/kzl4qt/subdividing_deforming_arbitrary_3d) - [Subdividing + Deforming Arbitrary 3D Meshes](https://cprimozic.net/blog/subdividing-meshes-for-displacement/)
 * [2024-06-23, 17:48:45](https://lobste.rs/s/vfcdoc/how_design_isa) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)
 * [2024-06-23, 17:35:38](https://lobste.rs/s/1v64cm/freebsd_samba_share_with_freeipa_idm_auth) - [FreeBSD Samba Share with FreeIPA/IDM Auth](https://vermaden.wordpress.com/2024/06/23/freebsd-samba-share-freeipa-idm-auth/)
