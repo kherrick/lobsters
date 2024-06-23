@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-23, 18:50:36](https://lobste.rs/s/kzl4qt/subdividing_deforming_arbitrary_3d) - [Subdividing + Deforming Arbitrary 3D Meshes](https://cprimozic.net/blog/subdividing-meshes-for-displacement/)
 * [2024-06-23, 17:48:45](https://lobste.rs/s/vfcdoc/how_design_isa) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)
 * [2024-06-23, 17:35:38](https://lobste.rs/s/1v64cm/freebsd_samba_share_with_freeipa_idm_auth) - [FreeBSD Samba Share with FreeIPA/IDM Auth](https://vermaden.wordpress.com/2024/06/23/freebsd-samba-share-freeipa-idm-auth/)
 * [2024-06-23, 17:19:43](https://lobste.rs/s/v9htzy/inside_tiny_chip_powers_montreal_subway) - [Inside the tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
@@ -24,7 +25,6 @@
 * [2024-06-22, 12:15:21](https://lobste.rs/s/rgn6tz/why_is_ps3_emulation_so_fast_rpcs3) - [Why is PS3 emulation so fast: RPCS3 optimizations explained](https://www.youtube.com/watch?v=19ae5Mq2lJE)
 * [2024-06-22, 12:04:41](https://lobste.rs/s/kswxq2/ownership) - [Ownership](https://without.boats/blog/ownership/)
 * [2024-06-22, 11:07:35](https://lobste.rs/s/s2hhkj/different_gets_ignored) - [Different Gets Ignored](https://www.lukew.com/ff/entry.asp?2066)
-* [2024-06-22, 07:39:20](https://lobste.rs/s/kprfcu/ecma_17_graphical_representation) - [ECMA-17: Graphical representation of control characters (1968)](https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf)
 
 ## [Archives](archives/index.md)
 
