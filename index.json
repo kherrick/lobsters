@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-23, 18:50:36",
+      "https://lobste.rs/s/kzl4qt/subdividing_deforming_arbitrary_3d"
+    ],
+    [
+      "Subdividing + Deforming Arbitrary 3D Meshes",
+      "https://cprimozic.net/blog/subdividing-meshes-for-displacement/"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 17:48:45",
       "https://lobste.rs/s/vfcdoc/how_design_isa"
     ],
@@ -237,16 +247,6 @@
     [
       "Different Gets Ignored",
       "https://www.lukew.com/ff/entry.asp?2066"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 07:39:20",
-      "https://lobste.rs/s/kprfcu/ecma_17_graphical_representation"
-    ],
-    [
-      "ECMA-17: Graphical representation of control characters (1968)",
-      "https://ecma-international.org/wp-content/uploads/ECMA-17_1st_edition_november_1968.pdf"
     ]
   ]
 ]
