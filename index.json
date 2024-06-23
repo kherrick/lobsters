@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-23, 17:19:43",
+      "https://lobste.rs/s/v9htzy/inside_tiny_chip_powers_montreal_subway"
+    ],
+    [
+      "Inside the tiny chip that powers Montreal subway tickets",
+      "http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html"
+    ]
+  ],
+  [
+    [
       "2024-06-23, 16:24:46",
       "https://lobste.rs/s/l1nadk/discussion_discussions_on_ai_bias"
     ],
@@ -177,16 +187,6 @@
     [
       "Building a constellation of images with Earthly",
       "https://xeiaso.net/blog/2024/earthly-docker/"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 14:56:05",
-      "https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for"
-    ],
-    [
-      "LibreChat: enhanced ChatGPT clone for self-hosting",
-      "https://github.com/danny-avila/LibreChat"
     ]
   ],
   [
