@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 15:42:27](https://lobste.rs/s/sm1krj/shpool_think_tmux_then_aim_lower) - [shpool: Think tmux, then aim... lower](https://github.com/shell-pool/shpool)
 * [2024-06-23, 15:37:11](https://lobste.rs/s/bbuiuh/arbitrary_shell_command_evaluation_org) - [Arbitrary shell command evaluation in Org mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
 * [2024-06-23, 15:34:24](https://lobste.rs/s/fayg2o/schotter) - [Schotter](https://zellyn.com/2024/06/schotter-1/)
 * [2024-06-23, 15:16:09](https://lobste.rs/s/2cfdao/beancount_announcement_v3_git_branches) - [Beancount Announcement: v3 and git branches](https://groups.google.com/g/beancount/c/iTdRuvZnE4E)
