@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-23, 17:19:43](https://lobste.rs/s/v9htzy/inside_tiny_chip_powers_montreal_subway) - [Inside the tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 16:24:46](https://lobste.rs/s/l1nadk/discussion_discussions_on_ai_bias) - [A discussion of discussions on AI bias](https://danluu.com/ai-bias/)
 * [2024-06-23, 15:42:27](https://lobste.rs/s/sm1krj/shpool_think_tmux_then_aim_lower) - [shpool: Think tmux, then aim... lower](https://github.com/shell-pool/shpool)
 * [2024-06-23, 15:37:11](https://lobste.rs/s/bbuiuh/arbitrary_shell_command_evaluation_org) - [Arbitrary shell command evaluation in Org mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
@@ -18,7 +19,6 @@
 * [2024-06-23, 01:51:47](https://lobste.rs/s/zfdwiu/ruby_great_language_for_shell_scripts) - [Ruby: a great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-22, 22:21:35](https://lobste.rs/s/ab6ixa/freebsd_bhyve_companion_tools) - [FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/)
 * [2024-06-22, 20:10:21](https://lobste.rs/s/vgvylp/building_constellation_images_with) - [Building a constellation of images with Earthly](https://xeiaso.net/blog/2024/earthly-docker/)
-* [2024-06-22, 14:56:05](https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for) - [LibreChat: enhanced ChatGPT clone for self-hosting](https://github.com/danny-avila/LibreChat)
 * [2024-06-22, 12:41:03](https://lobste.rs/s/wegvbm/reladiff_high_performance_diffing_large) - [reladiff: High-performance diffing of large datasets across databases](https://github.com/erezsh/reladiff)
 * [2024-06-22, 12:15:21](https://lobste.rs/s/rgn6tz/why_is_ps3_emulation_so_fast_rpcs3) - [Why is PS3 emulation so fast: RPCS3 optimizations explained](https://www.youtube.com/watch?v=19ae5Mq2lJE)
 * [2024-06-22, 12:04:41](https://lobste.rs/s/kswxq2/ownership) - [Ownership](https://without.boats/blog/ownership/)

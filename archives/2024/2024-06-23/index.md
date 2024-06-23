@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 17:19:43](https://lobste.rs/s/v9htzy/inside_tiny_chip_powers_montreal_subway) - [Inside the tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 16:24:46](https://lobste.rs/s/l1nadk/discussion_discussions_on_ai_bias) - [A discussion of discussions on AI bias](https://danluu.com/ai-bias/)
 * [2024-06-23, 15:42:27](https://lobste.rs/s/sm1krj/shpool_think_tmux_then_aim_lower) - [shpool: Think tmux, then aim... lower](https://github.com/shell-pool/shpool)
 * [2024-06-23, 15:37:11](https://lobste.rs/s/bbuiuh/arbitrary_shell_command_evaluation_org) - [Arbitrary shell command evaluation in Org mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)
