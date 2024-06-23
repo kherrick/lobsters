@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 15:16:09](https://lobste.rs/s/2cfdao/beancount_announcement_v3_git_branches) - [Beancount Announcement: v3 and git branches](https://groups.google.com/g/beancount/c/iTdRuvZnE4E)
 * [2024-06-23, 14:59:31](https://lobste.rs/s/5uf5wd/device_afd_deal_with_devil_makes_async) - [\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.net/device-afd/)
 * [2024-06-23, 14:59:30](https://lobste.rs/s/jr6d0z/llama_ttf) - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 14:59:18](https://lobste.rs/s/lvyd5z/freebsd_native_ish_home_lab_network) - [The FreeBSD-native-ish home lab and network](https://antranigv.am/posts/2024/06/freebsd-server-network-homelab/)

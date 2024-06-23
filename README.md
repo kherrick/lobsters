@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-23, 15:16:09](https://lobste.rs/s/2cfdao/beancount_announcement_v3_git_branches) - [Beancount Announcement: v3 and git branches](https://groups.google.com/g/beancount/c/iTdRuvZnE4E)
 * [2024-06-23, 14:59:31](https://lobste.rs/s/5uf5wd/device_afd_deal_with_devil_makes_async) - [\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.net/device-afd/)
 * [2024-06-23, 14:59:30](https://lobste.rs/s/jr6d0z/llama_ttf) - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 14:59:18](https://lobste.rs/s/lvyd5z/freebsd_native_ish_home_lab_network) - [The FreeBSD-native-ish home lab and network](https://antranigv.am/posts/2024/06/freebsd-server-network-homelab/)
@@ -17,7 +18,6 @@
 * [2024-06-22, 14:56:05](https://lobste.rs/s/ki5igm/librechat_enhanced_chatgpt_clone_for) - [LibreChat: enhanced ChatGPT clone for self-hosting](https://github.com/danny-avila/LibreChat)
 * [2024-06-22, 12:41:03](https://lobste.rs/s/wegvbm/reladiff_high_performance_diffing_large) - [reladiff: High-performance diffing of large datasets across databases](https://github.com/erezsh/reladiff)
 * [2024-06-22, 12:15:21](https://lobste.rs/s/rgn6tz/why_is_ps3_emulation_so_fast_rpcs3) - [Why is PS3 emulation so fast: RPCS3 optimizations explained](https://www.youtube.com/watch?v=19ae5Mq2lJE)
-* [2024-06-22, 12:08:37](https://lobste.rs/s/0g9ttu/end_line_story_2004) - [The End-of-Line Story (2004)](https://www.rfc-editor.org/old/EOLstory.txt)
 * [2024-06-22, 12:04:41](https://lobste.rs/s/kswxq2/ownership) - [Ownership](https://without.boats/blog/ownership/)
 * [2024-06-22, 11:35:08](https://lobste.rs/s/vtvqjn/tachyonfx_library_for_creating_shader) - [Tachyonfx: A library for creating shader-like effects in terminal UIs](https://github.com/junkdog/tachyonfx)
 * [2024-06-22, 11:07:35](https://lobste.rs/s/s2hhkj/different_gets_ignored) - [Different Gets Ignored](https://www.lukew.com/ff/entry.asp?2066)
