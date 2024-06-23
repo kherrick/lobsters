@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 14:59:31](https://lobste.rs/s/5uf5wd/device_afd_deal_with_devil_makes_async) - [\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.net/device-afd/)
+* [2024-06-23, 14:59:30](https://lobste.rs/s/jr6d0z/llama_ttf) - [llama.ttf](https://fuglede.github.io/llama.ttf/)
+* [2024-06-23, 14:59:18](https://lobste.rs/s/lvyd5z/freebsd_native_ish_home_lab_network) - [The FreeBSD-native-ish home lab and network](https://antranigv.am/posts/2024/06/freebsd-server-network-homelab/)
 * [2024-06-23, 14:25:33](https://lobste.rs/s/amb3ye/20_years_blogging) - [20 years of blogging](https://blogsystem5.substack.com/p/20-years-of-blogging)
 * [2024-06-23, 14:14:41](https://lobste.rs/s/igxsfq/picolisp_railroad_simulation) - [Picolisp a Railroad Simulation](https://picolisp-explored.com/a-railroad-simulation-with-des)
 * [2024-06-23, 13:42:30](https://lobste.rs/s/pyov23/schotter_georg_nees_part_2_investigation) - [Schotter - Georg Nees - Part 2 - Investigation](https://zellyn.com/2024/06/schotter-2/)
