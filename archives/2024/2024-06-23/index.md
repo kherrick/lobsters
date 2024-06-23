@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 13:42:30](https://lobste.rs/s/pyov23/schotter_georg_nees_part_2_investigation) - [Schotter - Georg Nees - Part 2 - Investigation](https://zellyn.com/2024/06/schotter-2/)
 * [2024-06-23, 13:23:53](https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust) - [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
 * [2024-06-23, 13:17:44](https://lobste.rs/s/k0gcxw/psion_symbian) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 12:04:15](https://lobste.rs/s/vcupzx/never_use_datagrams) - [Never* use Datagrams](https://quic.video/blog/never-use-datagrams/)
