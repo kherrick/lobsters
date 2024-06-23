@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-23](index.md)
 
+* [2024-06-23, 13:23:53](https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust) - [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
+* [2024-06-23, 13:17:44](https://lobste.rs/s/k0gcxw/psion_symbian) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 12:04:15](https://lobste.rs/s/vcupzx/never_use_datagrams) - [Never* use Datagrams](https://quic.video/blog/never-use-datagrams/)
 * [2024-06-23, 08:30:11](https://lobste.rs/s/jlfnqr/list_ieee_milestones) - [List of IEEE Milestones](https://ethw.org/Milestones:List_of_IEEE_Milestones)
 * [2024-06-23, 06:03:07](https://lobste.rs/s/zcvd0c/sql_studio_sql_database_explorer_sqlite) - [sql-studio: SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]](https://github.com/frectonz/sql-studio/)
