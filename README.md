@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-24, 18:06:57](https://lobste.rs/s/ewwqwr/sched_ext_scheduler_architecture) - [sched_ext: scheduler architecture and interfaces (Part 2)](https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/)
 * [2024-06-24, 16:41:17](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend) - [Tag proposal: week and weekend](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend)
 * [2024-06-24, 14:49:35](https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync) - [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-24, 14:47:15](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for) - [How’s your experience so far using LLMs for coding](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for)
@@ -13,7 +14,6 @@
 * [2024-06-24, 11:01:01](https://lobste.rs/s/09opve/cosmopolitan_v3_5_0) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 09:28:58](https://lobste.rs/s/h5nira/macros_optimizations_it_s_just_phase) - [Macros and optimizations: it's just a phase](https://marianoguerra.org/posts/macros-and-optimizations-its-just-a-phase/)
-* [2024-06-24, 07:53:18](https://lobste.rs/s/j2ha8f/fixed_point_math_is_better_than_floating) - [Fixed-point math is better than floating point (sometimes)](https://www.youtube.com/watch?v=i1phJl-0v54&t=4s)
 * [2024-06-23, 19:07:47](https://lobste.rs/s/srrfqt/secrets_chatgpt_linux_system) - [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
 * [2024-06-23, 17:48:45](https://lobste.rs/s/vfcdoc/how_design_isa) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)
 * [2024-06-23, 17:19:43](https://lobste.rs/s/v9htzy/inside_tiny_chip_powers_montreal_subway) - [Inside the tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
