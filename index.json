@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-24, 10:22:49",
+      "https://lobste.rs/s/jahu16/mime_rss_existential_torment"
+    ],
+    [
+      "MIME, RSS, and existential torment",
+      "https://xeiaso.net/blog/2024/fixing-rss-mailcap/"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 09:28:58",
       "https://lobste.rs/s/h5nira/macros_optimizations_it_s_just_phase"
     ],
@@ -237,16 +247,6 @@
     [
       "Ruby: a great language for shell scripts",
       "https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 12:04:41",
-      "https://lobste.rs/s/kswxq2/ownership"
-    ],
-    [
-      "Ownership",
-      "https://without.boats/blog/ownership/"
     ]
   ]
 ]
