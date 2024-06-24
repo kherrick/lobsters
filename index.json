@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-24, 09:28:58",
+      "https://lobste.rs/s/h5nira/macros_optimizations_it_s_just_phase"
+    ],
+    [
+      "Macros and optimizations: it's just a phase",
+      "https://marianoguerra.org/posts/macros-and-optimizations-its-just-a-phase/"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 07:53:18",
       "https://lobste.rs/s/j2ha8f/fixed_point_math_is_better_than_floating"
     ],
@@ -227,16 +237,6 @@
     [
       "Ruby: a great language for shell scripts",
       "https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/"
-    ]
-  ],
-  [
-    [
-      "2024-06-22, 12:15:21",
-      "https://lobste.rs/s/rgn6tz/why_is_ps3_emulation_so_fast_rpcs3"
-    ],
-    [
-      "Why is PS3 emulation so fast: RPCS3 optimizations explained",
-      "https://www.youtube.com/watch?v=19ae5Mq2lJE"
     ]
   ],
   [
