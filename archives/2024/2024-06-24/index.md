@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 12:35:50](https://lobste.rs/s/auy5hm/life_fastlanes_decoding_100_billion) - [Life in the FastLanes: Decoding >100 billion integers per second with scalar Rust](http://blog.spiraldb.com/life-in-the-fastlanes/)
+* [2024-06-24, 12:18:23](https://lobste.rs/s/bxihli/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxihli/what_are_you_doing_this_week)
 * [2024-06-24, 11:33:00](https://lobste.rs/s/4g7xju/investigating_event_queue_hang_code) - [Investigating an Event Queue Hang: The Code Works Correctly](https://gist.github.com/FeepingCreature/a8099d2bcf850a9c388ed045fa3b5c0e)
 * [2024-06-24, 11:29:12](https://lobste.rs/s/hp0llm/proxmox_hypervisor_on_nixos) - [The Proxmox Hypervisor, on NixOS](https://github.com/SaumonNet/proxmox-nixos)
 * [2024-06-24, 11:28:57](https://lobste.rs/s/l28aop/ratatui_v0_27_0_tui_library_for_rust) - [Ratatui v0.27.0 (a TUI library for Rust)](https://ratatui.rs/highlights/v027/)
