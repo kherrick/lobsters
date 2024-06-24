@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-24, 22:04:49",
+      "https://lobste.rs/s/oyw4ne/pivoting_from_react_native_dom_apis_real"
+    ],
+    [
+      "Pivoting From React to Native DOM APIs: A Real World Example",
+      "https://thenewstack.io/pivoting-from-react-to-native-dom-apis-a-real-world-example/"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 20:32:40",
       "https://lobste.rs/s/4rffe2/more_memory_safety_for_let_s_encrypt"
     ],
@@ -177,16 +187,6 @@
     [
       "Secrets of the ChatGPT Linux system",
       "https://incoherency.co.uk/blog/stories/chatgpt-linux.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 17:48:45",
-      "https://lobste.rs/s/vfcdoc/how_design_isa"
-    ],
-    [
-      "How to Design an ISA",
-      "https://cacm.acm.org/practice/how-to-design-an-isa/"
     ]
   ],
   [
