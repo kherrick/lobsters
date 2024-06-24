@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 11:33:00](https://lobste.rs/s/4g7xju/investigating_event_queue_hang_code) - [Investigating an Event Queue Hang: The Code Works Correctly](https://gist.github.com/FeepingCreature/a8099d2bcf850a9c388ed045fa3b5c0e)
+* [2024-06-24, 11:29:12](https://lobste.rs/s/hp0llm/proxmox_hypervisor_on_nixos) - [The Proxmox Hypervisor, on NixOS](https://github.com/SaumonNet/proxmox-nixos)
+* [2024-06-24, 11:28:57](https://lobste.rs/s/l28aop/ratatui_v0_27_0_tui_library_for_rust) - [Ratatui v0.27.0 (a TUI library for Rust)](https://ratatui.rs/highlights/v027/)
 * [2024-06-24, 11:01:01](https://lobste.rs/s/09opve/cosmopolitan_v3_5_0) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 09:28:58](https://lobste.rs/s/h5nira/macros_optimizations_it_s_just_phase) - [Macros and optimizations: it's just a phase](https://marianoguerra.org/posts/macros-and-optimizations-its-just-a-phase/)
