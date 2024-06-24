@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-06-24](index.md)
+
+* [2024-06-24, 00:52:39](https://lobste.rs/s/blwhky/qq_jq_multi_configuration_format_tool) - [qq: jq multi-configuration format tool with interactive REPL](https://github.com/JFryy/qq/)
