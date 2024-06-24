@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-24, 22:25:48](https://lobste.rs/s/h3n6u2/new_terminator_release_v2_1_4) - [New Terminator Release: v2.1.4](https://folkwolf.net/new-terminator-release-v214/)
 * [2024-06-24, 22:04:49](https://lobste.rs/s/oyw4ne/pivoting_from_react_native_dom_apis_real) - [Pivoting From React to Native DOM APIs: A Real World Example](https://thenewstack.io/pivoting-from-react-to-native-dom-apis-a-real-world-example/)
 * [2024-06-24, 20:32:40](https://lobste.rs/s/4rffe2/more_memory_safety_for_let_s_encrypt) - [More Memory Safety for Let’s Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 * [2024-06-24, 18:47:59](https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust) - [New sort implementations merged in the Rust standard library - up to 2x faster](https://github.com/rust-lang/rust/pull/124032)
 * [2024-06-24, 18:26:30](https://lobste.rs/s/kbg55l/abusing_title_reporting_tmux) - [Abusing title reporting and tmux integration in iTerm2 for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/rce/2024/06/16/iterm2-rce-window-title-tmux-integration.html)
-* [2024-06-24, 18:06:57](https://lobste.rs/s/ewwqwr/sched_ext_scheduler_architecture) - [sched_ext: scheduler architecture and interfaces (Part 2)](https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/)
 * [2024-06-24, 16:41:17](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend) - [Tag proposal: week and weekend](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend)
 * [2024-06-24, 14:49:35](https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync) - [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-24, 14:47:15](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for) - [How’s your experience so far using LLMs for coding](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for)
