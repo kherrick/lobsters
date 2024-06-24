@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-24, 13:41:45](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
 * [2024-06-24, 13:37:18](https://lobste.rs/s/nozetp/what_is_mixed_content) - [What is mixed content?](https://frederikbraun.de/mixed-content.html)
 * [2024-06-24, 12:35:50](https://lobste.rs/s/auy5hm/life_fastlanes_decoding_100_billion) - [Life in the FastLanes: Decoding >100 billion integers per second with scalar Rust](http://blog.spiraldb.com/life-in-the-fastlanes/)
 * [2024-06-24, 12:18:23](https://lobste.rs/s/bxihli/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxihli/what_are_you_doing_this_week)
@@ -13,7 +14,6 @@
 * [2024-06-23, 19:07:47](https://lobste.rs/s/srrfqt/secrets_chatgpt_linux_system) - [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
 * [2024-06-23, 18:50:36](https://lobste.rs/s/kzl4qt/subdividing_deforming_arbitrary_3d) - [Subdividing + Deforming Arbitrary 3D Meshes](https://cprimozic.net/blog/subdividing-meshes-for-displacement/)
 * [2024-06-23, 17:48:45](https://lobste.rs/s/vfcdoc/how_design_isa) - [How to Design an ISA](https://cacm.acm.org/practice/how-to-design-an-isa/)
-* [2024-06-23, 17:35:38](https://lobste.rs/s/1v64cm/freebsd_samba_share_with_freeipa_idm_auth) - [FreeBSD Samba Share with FreeIPA/IDM Auth](https://vermaden.wordpress.com/2024/06/23/freebsd-samba-share-freeipa-idm-auth/)
 * [2024-06-23, 17:19:43](https://lobste.rs/s/v9htzy/inside_tiny_chip_powers_montreal_subway) - [Inside the tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 15:42:27](https://lobste.rs/s/sm1krj/shpool_think_tmux_then_aim_lower) - [shpool: Think tmux, then aim... lower](https://github.com/shell-pool/shpool)
 * [2024-06-23, 15:37:11](https://lobste.rs/s/bbuiuh/arbitrary_shell_command_evaluation_org) - [Arbitrary shell command evaluation in Org mode (GNU Emacs)](https://seclists.org/oss-sec/2024/q2/296)

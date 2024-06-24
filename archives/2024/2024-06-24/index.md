@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 13:41:45](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
 * [2024-06-24, 13:37:18](https://lobste.rs/s/nozetp/what_is_mixed_content) - [What is mixed content?](https://frederikbraun.de/mixed-content.html)
 * [2024-06-24, 12:35:50](https://lobste.rs/s/auy5hm/life_fastlanes_decoding_100_billion) - [Life in the FastLanes: Decoding >100 billion integers per second with scalar Rust](http://blog.spiraldb.com/life-in-the-fastlanes/)
 * [2024-06-24, 12:18:23](https://lobste.rs/s/bxihli/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxihli/what_are_you_doing_this_week)
