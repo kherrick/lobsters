@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-24, 12:35:50",
+      "https://lobste.rs/s/auy5hm/life_fastlanes_decoding_100_billion"
+    ],
+    [
+      "Life in the FastLanes: Decoding >100 billion integers per second with scalar Rust",
+      "http://blog.spiraldb.com/life-in-the-fastlanes/"
+    ]
+  ],
+  [
+    [
+      "2024-06-24, 12:18:23",
+      "https://lobste.rs/s/bxihli/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/bxihli/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 11:33:00",
       "https://lobste.rs/s/4g7xju/investigating_event_queue_hang_code"
     ],
@@ -17,16 +37,6 @@
     [
       "The Proxmox Hypervisor, on NixOS",
       "https://github.com/SaumonNet/proxmox-nixos"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 11:28:57",
-      "https://lobste.rs/s/l28aop/ratatui_v0_27_0_tui_library_for_rust"
-    ],
-    [
-      "Ratatui v0.27.0 (a TUI library for Rust)",
-      "https://ratatui.rs/highlights/v027/"
     ]
   ],
   [
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2024-06-24, 00:52:39",
-      "https://lobste.rs/s/blwhky/qq_jq_multi_configuration_format_tool"
+      "2024-06-24, 06:00:13",
+      "https://lobste.rs/s/bmvyoc/kde5_kde6_tiling_other_rants"
     ],
     [
-      "qq: jq multi-configuration format tool with interactive REPL",
-      "https://github.com/JFryy/qq/"
+      "KDE5, KDE6, tiling and other rants",
+      "https://ludditus.com/2024/06/23/kde5-kde6-tiling-and-other-rants/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Schotter",
       "https://zellyn.com/2024/06/schotter-1/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 15:16:09",
-      "https://lobste.rs/s/2cfdao/beancount_announcement_v3_git_branches"
-    ],
-    [
-      "Beancount Announcement: v3 and git branches",
-      "https://groups.google.com/g/beancount/c/iTdRuvZnE4E"
     ]
   ],
   [
