@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 18:26:30](https://lobste.rs/s/kbg55l/abusing_title_reporting_tmux) - [Abusing title reporting and tmux integration in iTerm2 for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/rce/2024/06/16/iterm2-rce-window-title-tmux-integration.html)
 * [2024-06-24, 18:06:57](https://lobste.rs/s/ewwqwr/sched_ext_scheduler_architecture) - [sched_ext: scheduler architecture and interfaces (Part 2)](https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/)
 * [2024-06-24, 16:41:17](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend) - [Tag proposal: week and weekend](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend)
 * [2024-06-24, 14:49:35](https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync) - [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-24, 18:26:30](https://lobste.rs/s/kbg55l/abusing_title_reporting_tmux) - [Abusing title reporting and tmux integration in iTerm2 for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/rce/2024/06/16/iterm2-rce-window-title-tmux-integration.html)
 * [2024-06-24, 18:06:57](https://lobste.rs/s/ewwqwr/sched_ext_scheduler_architecture) - [sched_ext: scheduler architecture and interfaces (Part 2)](https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/)
 * [2024-06-24, 16:41:17](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend) - [Tag proposal: week and weekend](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend)
 * [2024-06-24, 14:49:35](https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync) - [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
@@ -23,7 +24,6 @@
 * [2024-06-23, 14:59:30](https://lobste.rs/s/jr6d0z/llama_ttf) - [llama.ttf](https://fuglede.github.io/llama.ttf/)
 * [2024-06-23, 14:25:33](https://lobste.rs/s/amb3ye/20_years_blogging) - [20 years of blogging](https://blogsystem5.substack.com/p/20-years-of-blogging)
 * [2024-06-23, 13:23:53](https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust) - [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
-* [2024-06-23, 13:17:44](https://lobste.rs/s/k0gcxw/psion_symbian) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 01:51:47](https://lobste.rs/s/zfdwiu/ruby_great_language_for_shell_scripts) - [Ruby: a great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 
 ## [Archives](archives/index.md)
