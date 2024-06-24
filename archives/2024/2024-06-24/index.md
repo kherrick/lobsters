@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 20:32:40](https://lobste.rs/s/4rffe2/more_memory_safety_for_let_s_encrypt) - [More Memory Safety for Let’s Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 * [2024-06-24, 18:47:59](https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust) - [New sort implementations merged in the Rust standard library - up to 2x faster](https://github.com/rust-lang/rust/pull/124032)
 * [2024-06-24, 18:26:30](https://lobste.rs/s/kbg55l/abusing_title_reporting_tmux) - [Abusing title reporting and tmux integration in iTerm2 for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/rce/2024/06/16/iterm2-rce-window-title-tmux-integration.html)
 * [2024-06-24, 18:06:57](https://lobste.rs/s/ewwqwr/sched_ext_scheduler_architecture) - [sched_ext: scheduler architecture and interfaces (Part 2)](https://blogs.igalia.com/changwoo/sched-ext-scheduler-architecture-and-interfaces-part-2/)
