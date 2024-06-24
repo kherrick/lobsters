@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-24, 13:37:18](https://lobste.rs/s/nozetp/what_is_mixed_content) - [What is mixed content?](https://frederikbraun.de/mixed-content.html)
 * [2024-06-24, 12:35:50](https://lobste.rs/s/auy5hm/life_fastlanes_decoding_100_billion) - [Life in the FastLanes: Decoding >100 billion integers per second with scalar Rust](http://blog.spiraldb.com/life-in-the-fastlanes/)
 * [2024-06-24, 12:18:23](https://lobste.rs/s/bxihli/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxihli/what_are_you_doing_this_week)
 * [2024-06-24, 11:33:00](https://lobste.rs/s/4g7xju/investigating_event_queue_hang_code) - [Investigating an Event Queue Hang: The Code Works Correctly](https://gist.github.com/FeepingCreature/a8099d2bcf850a9c388ed045fa3b5c0e)
@@ -19,7 +20,6 @@
 * [2024-06-23, 15:34:24](https://lobste.rs/s/fayg2o/schotter) - [Schotter](https://zellyn.com/2024/06/schotter-1/)
 * [2024-06-23, 14:59:31](https://lobste.rs/s/5uf5wd/device_afd_deal_with_devil_makes_async) - [\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.net/device-afd/)
 * [2024-06-23, 14:59:30](https://lobste.rs/s/jr6d0z/llama_ttf) - [llama.ttf](https://fuglede.github.io/llama.ttf/)
-* [2024-06-23, 14:59:18](https://lobste.rs/s/lvyd5z/freebsd_native_ish_home_lab_network) - [The FreeBSD-native-ish home lab and network](https://antranigv.am/posts/2024/06/freebsd-server-network-homelab/)
 * [2024-06-23, 14:25:33](https://lobste.rs/s/amb3ye/20_years_blogging) - [20 years of blogging](https://blogsystem5.substack.com/p/20-years-of-blogging)
 * [2024-06-23, 13:23:53](https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust) - [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
 * [2024-06-23, 13:17:44](https://lobste.rs/s/k0gcxw/psion_symbian) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
