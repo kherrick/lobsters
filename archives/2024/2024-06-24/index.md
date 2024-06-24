@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 06:00:13](https://lobste.rs/s/bmvyoc/kde5_kde6_tiling_other_rants) - [KDE5, KDE6, tiling and other rants](https://ludditus.com/2024/06/23/kde5-kde6-tiling-and-other-rants/)
 * [2024-06-24, 00:52:39](https://lobste.rs/s/blwhky/qq_jq_multi_configuration_format_tool) - [qq: jq multi-configuration format tool with interactive REPL](https://github.com/JFryy/qq/)
