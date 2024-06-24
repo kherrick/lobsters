@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 11:01:01](https://lobste.rs/s/09opve/cosmopolitan_v3_5_0) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 09:28:58](https://lobste.rs/s/h5nira/macros_optimizations_it_s_just_phase) - [Macros and optimizations: it's just a phase](https://marianoguerra.org/posts/macros-and-optimizations-its-just-a-phase/)
 * [2024-06-24, 07:53:18](https://lobste.rs/s/j2ha8f/fixed_point_math_is_better_than_floating) - [Fixed-point math is better than floating point (sometimes)](https://www.youtube.com/watch?v=i1phJl-0v54&t=4s)
