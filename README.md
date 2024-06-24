@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-24, 07:53:18](https://lobste.rs/s/j2ha8f/fixed_point_math_is_better_than_floating) - [Fixed-point math is better than floating point (sometimes)](https://www.youtube.com/watch?v=i1phJl-0v54&t=4s)
 * [2024-06-24, 06:00:13](https://lobste.rs/s/bmvyoc/kde5_kde6_tiling_other_rants) - [KDE5, KDE6, tiling and other rants](https://ludditus.com/2024/06/23/kde5-kde6-tiling-and-other-rants/)
 * [2024-06-24, 00:52:39](https://lobste.rs/s/blwhky/qq_jq_multi_configuration_format_tool) - [qq: jq multi-configuration format tool with interactive REPL](https://github.com/JFryy/qq/)
 * [2024-06-23, 19:07:47](https://lobste.rs/s/srrfqt/secrets_chatgpt_linux_system) - [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
@@ -21,7 +22,6 @@
 * [2024-06-23, 13:23:53](https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust) - [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
 * [2024-06-23, 13:17:44](https://lobste.rs/s/k0gcxw/psion_symbian) - [Of Psion and Symbian](https://www.abortretry.fail/p/of-psion-and-symbian)
 * [2024-06-23, 12:04:15](https://lobste.rs/s/vcupzx/never_use_datagrams) - [Never* use Datagrams](https://quic.video/blog/never-use-datagrams/)
-* [2024-06-23, 06:03:07](https://lobste.rs/s/zcvd0c/sql_studio_sql_database_explorer_sqlite) - [sql-studio: SQL Database Explorer [SQLite, libSQL, PostgreSQL, MySQL/MariaDB, DuckDB]](https://github.com/frectonz/sql-studio/)
 * [2024-06-23, 01:51:47](https://lobste.rs/s/zfdwiu/ruby_great_language_for_shell_scripts) - [Ruby: a great language for shell scripts](https://lucasoshiro.github.io/posts-en/2024-06-17-ruby-shellscript/)
 * [2024-06-22, 12:15:21](https://lobste.rs/s/rgn6tz/why_is_ps3_emulation_so_fast_rpcs3) - [Why is PS3 emulation so fast: RPCS3 optimizations explained](https://www.youtube.com/watch?v=19ae5Mq2lJE)
 * [2024-06-22, 12:04:41](https://lobste.rs/s/kswxq2/ownership) - [Ownership](https://without.boats/blog/ownership/)
