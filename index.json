@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-24, 18:26:30",
+      "https://lobste.rs/s/kbg55l/abusing_title_reporting_tmux"
+    ],
+    [
+      "Abusing title reporting and tmux integration in iTerm2 for code execution",
+      "https://vin01.github.io/piptagole/escape-sequences/iterm2/rce/2024/06/16/iterm2-rce-window-title-tmux-integration.html"
+    ]
+  ],
+  [
+    [
       "2024-06-24, 18:06:57",
       "https://lobste.rs/s/ewwqwr/sched_ext_scheduler_architecture"
     ],
@@ -227,16 +237,6 @@
     [
       "Dioxus Labs + “High-level Rust”",
       "https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 13:17:44",
-      "https://lobste.rs/s/k0gcxw/psion_symbian"
-    ],
-    [
-      "Of Psion and Symbian",
-      "https://www.abortretry.fail/p/of-psion-and-symbian"
     ]
   ],
   [
