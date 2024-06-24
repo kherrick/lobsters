@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-24](index.md)
 
+* [2024-06-24, 14:49:35](https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync) - [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
+* [2024-06-24, 14:47:15](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for) - [How’s your experience so far using LLMs for coding](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for)
 * [2024-06-24, 14:38:12](https://lobste.rs/s/9twcpx/why_passkey_implementation_is_100x) - [Why Passkey Implementation is 100x Harder Than You Think – Misconceptions, Pitfalls and Unknown Unknowns](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)
 * [2024-06-24, 13:41:45](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
 * [2024-06-24, 13:37:18](https://lobste.rs/s/nozetp/what_is_mixed_content) - [What is mixed content?](https://frederikbraun.de/mixed-content.html)
