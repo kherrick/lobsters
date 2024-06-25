@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 19:41:15",
+      "https://lobste.rs/s/op3lck/infinite_bikeshed_try_out_any_google_font"
+    ],
+    [
+      "Infinite Bikeshed: Try out any Google Font on pigweed.dev",
+      "https://storage.googleapis.com/pigweed-docs-try/8744134591150993793/index.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 19:26:56",
       "https://lobste.rs/s/ctncfq/seattle_s_living_computers_museum_logs"
     ],
@@ -141,6 +151,16 @@
   ],
   [
     [
+      "2024-06-25, 04:03:29",
+      "https://lobste.rs/s/792rue/announcing_ronin_2_1_0_open_beta"
+    ],
+    [
+      "Announcing the Ronin 2.1.0 Open Beta",
+      "https://ronin-rb.dev/blog/2024/06/24/announcing-the-ronin-2-1-0-open-beta.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 02:36:04",
       "https://lobste.rs/s/h0t07p/no_sleep_until_we_build_ideal_pub_sub"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-06-24, 20:32:40",
-      "https://lobste.rs/s/4rffe2/more_memory_safety_for_let_s_encrypt"
-    ],
-    [
-      "More Memory Safety for Let’s Encrypt: Deploying ntpd-rs",
-      "https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 18:47:59",
       "https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust"
     ],
@@ -207,16 +217,6 @@
     [
       "Local, first, forever - CRDT filesync",
       "https://tonsky.me/blog/crdt-filesync/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 14:47:15",
-      "https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for"
-    ],
-    [
-      "How’s your experience so far using LLMs for coding",
-      "https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for"
     ]
   ],
   [
