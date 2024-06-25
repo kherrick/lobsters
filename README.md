@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-25, 19:41:15](https://lobste.rs/s/op3lck/infinite_bikeshed_try_out_any_google_font) - [Infinite Bikeshed: Try out any Google Font on pigweed.dev](https://storage.googleapis.com/pigweed-docs-try/8744134591150993793/index.html)
+* [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
+* [2024-06-25, 19:41:15](https://lobste.rs/s/op3lck/infinite_bikeshed_try_out_any_google_font) - [Infinite Bikeshed: Try out any Google Font on Pigweed's docs site](https://storage.googleapis.com/pigweed-docs-try/8744134591150993793/index.html)
 * [2024-06-25, 19:26:56](https://lobste.rs/s/ctncfq/seattle_s_living_computers_museum_logs) - [Seattle’s Living Computers Museum logs off for good as Paul Allen estate will auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-25, 19:26:38](https://lobste.rs/s/e8afad/working_towards_more_stable_template) - [Working towards a more stable Template Haskell](https://informal.codes/posts/stabilising-th/)
 * [2024-06-25, 18:44:38](https://lobste.rs/s/dkkaur/cyber_scarecrow) - [Cyber Scarecrow](https://www.cyberscarecrow.com/about)
@@ -11,7 +12,6 @@
 * [2024-06-25, 13:55:33](https://lobste.rs/s/vwqszg/let_s_get_into_action_server_action) - [Let’s get into the Action, Server Action](https://medium.com/p/8c5b7442539b)
 * [2024-06-25, 12:55:44](https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010) - [Modules as Objects in Newspeak (2010)](http://bracha.org/newspeak-modules.pdf)
 * [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
-* [2024-06-25, 11:42:22](https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known) - [How gcc and clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 * [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
 * [2024-06-25, 04:43:41](https://lobste.rs/s/lhhlr3/from_0_10_8_10_microsoft_puts_repair_front) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
