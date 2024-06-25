@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 * [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
 * [2024-06-25, 04:43:41](https://lobste.rs/s/lhhlr3/from_0_10_8_10_microsoft_puts_repair_front) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 * [2024-06-25, 04:03:29](https://lobste.rs/s/792rue/announcing_ronin_2_1_0_open_beta) - [Announcing the Ronin 2.1.0 Open Beta](https://ronin-rb.dev/blog/2024/06/24/announcing-the-ronin-2-1-0-open-beta.html)
@@ -24,7 +25,6 @@
 * [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 09:28:58](https://lobste.rs/s/h5nira/macros_optimizations_it_s_just_phase) - [Macros and optimizations: it's just a phase](https://marianoguerra.org/posts/macros-and-optimizations-its-just-a-phase/)
 * [2024-06-23, 19:07:47](https://lobste.rs/s/srrfqt/secrets_chatgpt_linux_system) - [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
-* [2024-06-23, 13:23:53](https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust) - [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
 
 ## [Archives](archives/index.md)
 
