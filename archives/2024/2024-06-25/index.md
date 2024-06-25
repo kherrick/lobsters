@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 19:26:56](https://lobste.rs/s/ctncfq/seattle_s_living_computers_museum_logs) - [Seattle’s Living Computers Museum logs off for good as Paul Allen estate will auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
+* [2024-06-25, 19:26:38](https://lobste.rs/s/e8afad/working_towards_more_stable_template) - [Working towards a more stable Template Haskell](https://informal.codes/posts/stabilising-th/)
 * [2024-06-25, 18:44:38](https://lobste.rs/s/dkkaur/cyber_scarecrow) - [Cyber Scarecrow](https://www.cyberscarecrow.com/about)
 * [2024-06-25, 16:57:01](https://lobste.rs/s/guycjd/apple_penlite_ipad_before_ipad) - [Apple PenLite: The iPad Before the iPad](https://youtu.be/yc-QRgpUIqU)
 * [2024-06-25, 16:04:02](https://lobste.rs/s/xiin7y/symbolics_color_system_manual_1986) - [Symbolics Color System manual (1986)](https://archive.org/details/symbolics-color-system)
