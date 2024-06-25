@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 15:40:05](https://lobste.rs/s/yvklbv/github_copilot_70_lines_javascript) - [GitHub Copilot in 70 lines of JavaScript](https://github.com/coder/picopilot)
+* [2024-06-25, 15:37:39](https://lobste.rs/s/yzvr0f/workstation_vms_with_lxd_multipass) - [Workstation VMs with LXD & Multipass](https://jnsgr.uk/2024/06/desktop-vms-lxd-multipass/)
 * [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-25, 13:55:33](https://lobste.rs/s/vwqszg/let_s_get_into_action_server_action) - [Let’s get into the Action, Server Action](https://medium.com/p/8c5b7442539b)
 * [2024-06-25, 12:55:44](https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010) - [Modules as Objects in Newspeak (2010)](http://bracha.org/newspeak-modules.pdf)
