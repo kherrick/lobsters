@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 14:29:57",
+      "https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring"
+    ],
+    [
+      "My spiciest take on tech hiring",
+      "https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 13:55:33",
       "https://lobste.rs/s/vwqszg/let_s_get_into_action_server_action"
     ],
@@ -137,16 +147,6 @@
     [
       "New sort implementations merged in the Rust standard library - up to 2x faster",
       "https://github.com/rust-lang/rust/pull/124032"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 16:41:17",
-      "https://lobste.rs/s/zoopbv/tag_proposal_week_weekend"
-    ],
-    [
-      "Tag proposal: week and weekend",
-      "https://lobste.rs/s/zoopbv/tag_proposal_week_weekend"
     ]
   ],
   [
