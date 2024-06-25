@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
 * [2024-06-25, 11:42:22](https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known) - [How gcc and clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 11:35:36](https://lobste.rs/s/wxonac/adding_shields_io_badges_your_github) - [Adding Shields.io badges to your GitHub profile](https://peateasea.de/adding-shields-io-badges-to-github-profile/)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
