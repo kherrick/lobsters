@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-06-25, 11:35:36",
-      "https://lobste.rs/s/wxonac/adding_shields_io_badges_your_github"
-    ],
-    [
-      "Adding Shields.io badges to your GitHub profile",
-      "https://peateasea.de/adding-shields-io-badges-to-github-profile/"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 11:16:12",
       "https://lobste.rs/s/kpqbib/rng_day"
     ],
@@ -67,6 +57,16 @@
     [
       "Announcing the Ronin 2.1.0 Open Beta",
       "https://ronin-rb.dev/blog/2024/06/24/announcing-the-ronin-2-1-0-open-beta.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 03:46:33",
+      "https://lobste.rs/s/fqgzvv/indirector_high_precision_branch_target"
+    ],
+    [
+      "Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor",
+      "https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf"
     ]
   ],
   [
