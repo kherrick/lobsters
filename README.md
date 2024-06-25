@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-25, 03:46:33](https://lobste.rs/s/fqgzvv/indirector_high_precision_branch_target) - [Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor](https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf)
 * [2024-06-25, 02:36:04](https://lobste.rs/s/h0t07p/no_sleep_until_we_build_ideal_pub_sub) - [No sleep until we build the ideal pub/sub library in Go](https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/)
 * [2024-06-25, 01:24:40](https://lobste.rs/s/mezux2/automating_telemetry_capture_python) - [Automating Telemetry Capture in Python using Bytecode](https://jaywhy13.hashnode.dev/automated-telemetry-capture-via-python-bytecode-modification)
 * [2024-06-25, 01:19:36](https://lobste.rs/s/tukocy/network_protocols_sans_i_o_2016) - [Network protocols, sans I/O (2016)](https://sans-io.readthedocs.io/)
@@ -21,7 +22,6 @@
 * [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 * [2024-06-24, 09:28:58](https://lobste.rs/s/h5nira/macros_optimizations_it_s_just_phase) - [Macros and optimizations: it's just a phase](https://marianoguerra.org/posts/macros-and-optimizations-its-just-a-phase/)
 * [2024-06-23, 19:07:47](https://lobste.rs/s/srrfqt/secrets_chatgpt_linux_system) - [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
-* [2024-06-23, 17:19:43](https://lobste.rs/s/v9htzy/inside_tiny_chip_powers_montreal_subway) - [Inside the tiny chip that powers Montreal subway tickets](http://www.righto.com/2024/06/montreal-mifare-ultralight-nfc.html)
 * [2024-06-23, 15:42:27](https://lobste.rs/s/sm1krj/shpool_think_tmux_then_aim_lower) - [shpool: Think tmux, then aim... lower](https://github.com/shell-pool/shpool)
 * [2024-06-23, 14:59:31](https://lobste.rs/s/5uf5wd/device_afd_deal_with_devil_makes_async) - [\\Device\\Afd, or, the Deal with the Devil that makes async Rust work on Windows](https://notgull.net/device-afd/)
 * [2024-06-23, 13:23:53](https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust) - [Dioxus Labs + “High-level Rust”](https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e)
