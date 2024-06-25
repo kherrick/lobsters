@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-06-25, 11:42:22",
+      "https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known"
+    ],
+    [
+      "How gcc and clang handle statically known undefined behaviour",
+      "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 11:16:12",
       "https://lobste.rs/s/kpqbib/rng_day"
     ],
@@ -157,16 +167,6 @@
     [
       "From 0/10 to 8/10: Microsoft Puts Repair Front and Center",
       "https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 02:36:04",
-      "https://lobste.rs/s/h0t07p/no_sleep_until_we_build_ideal_pub_sub"
-    ],
-    [
-      "No sleep until we build the ideal pub/sub library in Go",
-      "https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/"
     ]
   ],
   [
