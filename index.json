@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-06-25, 11:42:22",
+      "https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known"
+    ],
+    [
+      "How gcc and clang handle statically known undefined behaviour",
+      "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 11:16:12",
       "https://lobste.rs/s/kpqbib/rng_day"
     ],
@@ -207,16 +217,6 @@
     [
       "Local, first, forever - CRDT filesync",
       "https://tonsky.me/blog/crdt-filesync/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 14:47:15",
-      "https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for"
-    ],
-    [
-      "How’s your experience so far using LLMs for coding",
-      "https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for"
     ]
   ],
   [
