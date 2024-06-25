@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-25, 13:55:33](https://lobste.rs/s/vwqszg/let_s_get_into_action_server_action) - [Let’s get into the Action, Server Action](https://medium.com/p/8c5b7442539b)
 * [2024-06-25, 12:55:44](https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010) - [Modules as Objects in Newspeak (2010)](http://bracha.org/newspeak-modules.pdf)
 * [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
@@ -15,6 +14,7 @@
 * [2024-06-24, 22:25:48](https://lobste.rs/s/h3n6u2/new_terminator_release_v2_1_4) - [New Terminator Release: v2.1.4](https://folkwolf.net/new-terminator-release-v214/)
 * [2024-06-24, 20:32:40](https://lobste.rs/s/4rffe2/more_memory_safety_for_let_s_encrypt) - [More Memory Safety for Let’s Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 * [2024-06-24, 18:47:59](https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust) - [New sort implementations merged in the Rust standard library - up to 2x faster](https://github.com/rust-lang/rust/pull/124032)
+* [2024-06-24, 16:41:17](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend) - [Tag proposal: week and weekend](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend)
 * [2024-06-24, 14:49:35](https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync) - [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-24, 14:47:15](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for) - [How’s your experience so far using LLMs for coding](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for)
 * [2024-06-24, 14:38:12](https://lobste.rs/s/9twcpx/why_passkey_implementation_is_100x) - [Why Passkey Implementation is 100x Harder Than You Think – Misconceptions, Pitfalls and Unknown Unknowns](https://www.corbado.com/blog/passkey-implementation-pitfalls-misconceptions-unknowns)
