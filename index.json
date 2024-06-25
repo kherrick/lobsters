@@ -1,11 +1,21 @@
 [
   [
     [
+      "2024-06-25, 20:27:26",
+      "https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever"
+    ],
+    [
+      "rabbit data breach: all r1 responses ever given can be downloaded",
+      "https://rabbitu.de/articles/security-disclosure-1"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 19:41:15",
       "https://lobste.rs/s/op3lck/infinite_bikeshed_try_out_any_google_font"
     ],
     [
-      "Infinite Bikeshed: Try out any Google Font on pigweed.dev",
+      "Infinite Bikeshed: Try out any Google Font on Pigweed's docs site",
       "https://storage.googleapis.com/pigweed-docs-try/8744134591150993793/index.html"
     ]
   ],
@@ -107,16 +117,6 @@
     [
       "Why Test?",
       "https://jonathan-frere.com/posts/why-test/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 11:42:22",
-      "https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known"
-    ],
-    [
-      "How gcc and clang handle statically known undefined behaviour",
-      "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
     ]
   ],
   [
