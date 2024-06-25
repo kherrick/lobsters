@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-25, 18:44:38](https://lobste.rs/s/dkkaur/cyber_scarecrow) - [Cyber Scarecrow](https://www.cyberscarecrow.com/about)
 * [2024-06-25, 16:57:01](https://lobste.rs/s/guycjd/apple_penlite_ipad_before_ipad) - [Apple PenLite: The iPad Before the iPad](https://youtu.be/yc-QRgpUIqU)
 * [2024-06-25, 16:04:02](https://lobste.rs/s/xiin7y/symbolics_color_system_manual_1986) - [Symbolics Color System manual (1986)](https://archive.org/details/symbolics-color-system)
 * [2024-06-25, 15:40:05](https://lobste.rs/s/yvklbv/github_copilot_70_lines_javascript) - [GitHub Copilot in 70 lines of JavaScript](https://github.com/coder/picopilot)
@@ -22,7 +23,6 @@
 * [2024-06-24, 14:47:15](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for) - [How’s your experience so far using LLMs for coding](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for)
 * [2024-06-24, 13:41:45](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
 * [2024-06-24, 12:35:50](https://lobste.rs/s/auy5hm/life_fastlanes_decoding_100_billion) - [Life in the FastLanes: Decoding >100 billion integers per second with scalar Rust](http://blog.spiraldb.com/life-in-the-fastlanes/)
-* [2024-06-24, 12:18:23](https://lobste.rs/s/bxihli/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bxihli/what_are_you_doing_this_week)
 * [2024-06-24, 11:29:12](https://lobste.rs/s/hp0llm/proxmox_hypervisor_on_nixos) - [The Proxmox Hypervisor, on NixOS](https://github.com/SaumonNet/proxmox-nixos)
 * [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 

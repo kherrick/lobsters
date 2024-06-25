@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 18:44:38](https://lobste.rs/s/dkkaur/cyber_scarecrow) - [Cyber Scarecrow](https://www.cyberscarecrow.com/about)
 * [2024-06-25, 16:57:01](https://lobste.rs/s/guycjd/apple_penlite_ipad_before_ipad) - [Apple PenLite: The iPad Before the iPad](https://youtu.be/yc-QRgpUIqU)
 * [2024-06-25, 16:04:02](https://lobste.rs/s/xiin7y/symbolics_color_system_manual_1986) - [Symbolics Color System manual (1986)](https://archive.org/details/symbolics-color-system)
 * [2024-06-25, 15:40:05](https://lobste.rs/s/yvklbv/github_copilot_70_lines_javascript) - [GitHub Copilot in 70 lines of JavaScript](https://github.com/coder/picopilot)
