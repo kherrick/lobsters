@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 11:42:22",
+      "https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known"
+    ],
+    [
+      "How gcc and clang handle statically known undefined behaviour",
+      "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 11:35:36",
       "https://lobste.rs/s/wxonac/adding_shields_io_badges_your_github"
     ],
@@ -237,16 +247,6 @@
     [
       "MIME, RSS, and existential torment",
       "https://xeiaso.net/blog/2024/fixing-rss-mailcap/"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 19:07:47",
-      "https://lobste.rs/s/srrfqt/secrets_chatgpt_linux_system"
-    ],
-    [
-      "Secrets of the ChatGPT Linux system",
-      "https://incoherency.co.uk/blog/stories/chatgpt-linux.html"
     ]
   ]
 ]
