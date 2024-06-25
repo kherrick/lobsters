@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-25, 02:36:04](https://lobste.rs/s/h0t07p/no_sleep_until_we_build_ideal_pub_sub) - [No sleep until we build the ideal pub/sub library in Go](https://rauljordan.com/no-sleep-until-we-build-the-perfect-library-in-go/)
 * [2024-06-25, 01:24:40](https://lobste.rs/s/mezux2/automating_telemetry_capture_python) - [Automating Telemetry Capture in Python using Bytecode](https://jaywhy13.hashnode.dev/automated-telemetry-capture-via-python-bytecode-modification)
 * [2024-06-25, 01:19:36](https://lobste.rs/s/tukocy/network_protocols_sans_i_o_2016) - [Network protocols, sans I/O (2016)](https://sans-io.readthedocs.io/)
 * [2024-06-25, 01:07:36](https://lobste.rs/s/h9qst5/chat_control_new_panopticon) - [Chat Control and the New Panopticon](https://mhatta.substack.com/p/chat-control-and-the-new-panopticon)
 * [2024-06-24, 22:25:48](https://lobste.rs/s/h3n6u2/new_terminator_release_v2_1_4) - [New Terminator Release: v2.1.4](https://folkwolf.net/new-terminator-release-v214/)
 * [2024-06-24, 20:32:40](https://lobste.rs/s/4rffe2/more_memory_safety_for_let_s_encrypt) - [More Memory Safety for Let’s Encrypt: Deploying ntpd-rs](https://letsencrypt.org/2024/06/24/ntpd-rs-deployment.html)
 * [2024-06-24, 18:47:59](https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust) - [New sort implementations merged in the Rust standard library - up to 2x faster](https://github.com/rust-lang/rust/pull/124032)
-* [2024-06-24, 18:26:30](https://lobste.rs/s/kbg55l/abusing_title_reporting_tmux) - [Abusing title reporting and tmux integration in iTerm2 for code execution](https://vin01.github.io/piptagole/escape-sequences/iterm2/rce/2024/06/16/iterm2-rce-window-title-tmux-integration.html)
 * [2024-06-24, 16:41:17](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend) - [Tag proposal: week and weekend](https://lobste.rs/s/zoopbv/tag_proposal_week_weekend)
 * [2024-06-24, 14:49:35](https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync) - [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-24, 14:47:15](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for) - [How’s your experience so far using LLMs for coding](https://lobste.rs/s/7a3qhh/how_s_your_experience_so_far_using_llms_for)
