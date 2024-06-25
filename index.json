@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 21:53:32",
+      "https://lobste.rs/s/dmbtly/all_set_looking_under_hood_python_s_set"
+    ],
+    [
+      "All Set! Looking Under the Hood of Python's Set Data Structure",
+      "https://blog.codingconfessions.com/p/cpython-set-implementation"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 21:02:45",
       "https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite"
     ],
@@ -117,16 +127,6 @@
     [
       "Why Test?",
       "https://jonathan-frere.com/posts/why-test/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 11:42:22",
-      "https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known"
-    ],
-    [
-      "How gcc and clang handle statically known undefined behaviour",
-      "https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html"
     ]
   ],
   [
