@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-25, 11:42:22](https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known) - [How gcc and clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 11:35:36](https://lobste.rs/s/wxonac/adding_shields_io_badges_your_github) - [Adding Shields.io badges to your GitHub profile](https://peateasea.de/adding-shields-io-badges-to-github-profile/)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 * [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
@@ -24,7 +25,6 @@
 * [2024-06-24, 11:29:12](https://lobste.rs/s/hp0llm/proxmox_hypervisor_on_nixos) - [The Proxmox Hypervisor, on NixOS](https://github.com/SaumonNet/proxmox-nixos)
 * [2024-06-24, 11:01:01](https://lobste.rs/s/09opve/cosmopolitan_v3_5_0) - [Cosmopolitan v3.5.0](https://github.com/jart/cosmopolitan/releases/tag/3.5.0)
 * [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
-* [2024-06-23, 19:07:47](https://lobste.rs/s/srrfqt/secrets_chatgpt_linux_system) - [Secrets of the ChatGPT Linux system](https://incoherency.co.uk/blog/stories/chatgpt-linux.html)
 
 ## [Archives](archives/index.md)
 
