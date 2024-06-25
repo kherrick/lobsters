@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 13:55:33](https://lobste.rs/s/vwqszg/let_s_get_into_action_server_action) - [Let’s get into the Action, Server Action](https://medium.com/p/8c5b7442539b)
 * [2024-06-25, 12:55:44](https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010) - [Modules as Objects in Newspeak (2010)](http://bracha.org/newspeak-modules.pdf)
 * [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
 * [2024-06-25, 11:42:22](https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known) - [How gcc and clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
