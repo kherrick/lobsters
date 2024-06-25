@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 11:35:36](https://lobste.rs/s/wxonac/adding_shields_io_badges_your_github) - [Adding Shields.io badges to your GitHub profile](https://peateasea.de/adding-shields-io-badges-to-github-profile/)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 * [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
 * [2024-06-25, 07:41:59](https://lobste.rs/s/2bizns/google_stop_burning_counterterrorism) - [Google: Stop Burning Counterterrorism Operations](https://poppopret.org/2024/06/24/google-stop-burning-counterterrorism-operations/)
