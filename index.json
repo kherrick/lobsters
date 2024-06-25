@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 11:16:12",
+      "https://lobste.rs/s/kpqbib/rng_day"
+    ],
+    [
+      "RNG Day",
+      "https://rngday.com/en/"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 08:06:15",
       "https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh"
     ],
@@ -237,16 +247,6 @@
     [
       "Secrets of the ChatGPT Linux system",
       "https://incoherency.co.uk/blog/stories/chatgpt-linux.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-23, 13:23:53",
-      "https://lobste.rs/s/dsqumn/dioxus_labs_high_level_rust"
-    ],
-    [
-      "Dioxus Labs + “High-level Rust”",
-      "https://dioxus.notion.site/Dioxus-Labs-High-level-Rust-5fe1f1c9c8334815ad488410d948f05e"
     ]
   ]
 ]
