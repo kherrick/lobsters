@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-25, 12:55:44",
+      "https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010"
+    ],
+    [
+      "Modules as Objects in Newspeak (2010)",
+      "http://bracha.org/newspeak-modules.pdf"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 12:14:58",
       "https://lobste.rs/s/prowkp/why_test"
     ],
@@ -57,16 +67,6 @@
     [
       "Announcing the Ronin 2.1.0 Open Beta",
       "https://ronin-rb.dev/blog/2024/06/24/announcing-the-ronin-2-1-0-open-beta.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 03:46:33",
-      "https://lobste.rs/s/fqgzvv/indirector_high_precision_branch_target"
-    ],
-    [
-      "Indirector: High-Precision Branch Target Injection Attacks Exploiting the Indirect Branch Predictor",
-      "https://indirector.cpusec.org/index_files/Indirector_USENIX_Security_2024.pdf"
     ]
   ],
   [
