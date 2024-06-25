@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
 * [2024-06-25, 07:41:59](https://lobste.rs/s/2bizns/google_stop_burning_counterterrorism) - [Google: Stop Burning Counterterrorism Operations](https://poppopret.org/2024/06/24/google-stop-burning-counterterrorism-operations/)
 * [2024-06-25, 04:43:41](https://lobste.rs/s/lhhlr3/from_0_10_8_10_microsoft_puts_repair_front) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center | iFixit News](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 * [2024-06-25, 04:03:29](https://lobste.rs/s/792rue/announcing_ronin_2_1_0_open_beta) - [Announcing the Ronin 2.1.0 Open Beta](https://ronin-rb.dev/blog/2024/06/24/announcing-the-ronin-2-1-0-open-beta.html)
