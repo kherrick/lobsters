@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-25](index.md)
 
+* [2024-06-25, 21:53:32](https://lobste.rs/s/dmbtly/all_set_looking_under_hood_python_s_set) - [All Set! Looking Under the Hood of Python's Set Data Structure](https://blog.codingconfessions.com/p/cpython-set-implementation)
 * [2024-06-25, 21:02:45](https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite) - [Simpler web development with HTMX, SQLite and Typescript](https://www.plainweb.dev/)
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
 * [2024-06-25, 19:41:15](https://lobste.rs/s/op3lck/infinite_bikeshed_try_out_any_google_font) - [Infinite Bikeshed: Try out any Google Font on pigweed.dev](https://storage.googleapis.com/pigweed-docs-try/8744134591150993793/index.html)
