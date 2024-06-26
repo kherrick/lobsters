@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-26, 20:58:20",
+      "https://lobste.rs/s/ufirks/diff2html"
+    ],
+    [
+      "diff2html",
+      "https://diff2html.xyz/"
+    ]
+  ],
+  [
+    [
       "2024-06-26, 19:38:33",
       "https://lobste.rs/s/cxnnhu/member_ordering_binary_sizes"
     ],
@@ -57,16 +67,6 @@
     [
       "Comments on Scripting, CGI, and FastCGI",
       "https://www.oilshell.org/blog/2024/06/cgi.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 17:02:51",
-      "https://lobste.rs/s/gtmyxr/snailload_exploiting_remote_network"
-    ],
-    [
-      "SnailLoad: Exploiting Remote Network Latency Measurements without JavaScript",
-      "https://www.snailload.com/"
     ]
   ],
   [
