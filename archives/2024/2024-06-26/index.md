@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 18:55:34](https://lobste.rs/s/qmvcz1/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/)
 * [2024-06-26, 17:53:03](https://lobste.rs/s/7ulqrt/new_package_for_making_charts_emacs_eplot) - [A New Package for Making Charts in Emacs: eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
 * [2024-06-26, 17:02:51](https://lobste.rs/s/gtmyxr/snailload_exploiting_remote_network) - [SnailLoad: Exploiting Remote Network Latency Measurements without JavaScript](https://www.snailload.com/)

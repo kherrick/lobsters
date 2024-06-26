@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 18:55:34](https://lobste.rs/s/qmvcz1/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/)
 * [2024-06-26, 17:53:03](https://lobste.rs/s/7ulqrt/new_package_for_making_charts_emacs_eplot) - [A New Package for Making Charts in Emacs: eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
 * [2024-06-26, 17:02:51](https://lobste.rs/s/gtmyxr/snailload_exploiting_remote_network) - [SnailLoad: Exploiting Remote Network Latency Measurements without JavaScript](https://www.snailload.com/)
@@ -24,7 +25,6 @@
 * [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
-* [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
 
 ## [Archives](archives/index.md)
 
