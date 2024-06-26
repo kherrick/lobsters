@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 00:08:00](https://lobste.rs/s/tzcv88/why_i_attack) - [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)
+* [2024-06-26, 00:01:22](https://lobste.rs/s/utzrvf/programming_unison) - [Programming in Unison](https://lwn.net/SubscriberLink/978955/7316237b86da0179/)
 * [2024-06-25, 21:53:32](https://lobste.rs/s/dmbtly/all_set_looking_under_hood_python_s_set) - [All Set! Looking Under the Hood of Python's Set Data Structure](https://blog.codingconfessions.com/p/cpython-set-implementation)
 * [2024-06-25, 21:02:45](https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite) - [Simpler web development with HTMX, SQLite and Typescript](https://www.plainweb.dev/)
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
@@ -21,9 +23,7 @@
 * [2024-06-25, 01:07:36](https://lobste.rs/s/h9qst5/chat_control_new_panopticon) - [Chat Control and the New Panopticon](https://mhatta.substack.com/p/chat-control-and-the-new-panopticon)
 * [2024-06-24, 22:25:48](https://lobste.rs/s/h3n6u2/new_terminator_release_v2_1_4) - [New Terminator Release: v2.1.4](https://folkwolf.net/new-terminator-release-v214/)
 * [2024-06-24, 18:47:59](https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust) - [New sort implementations merged in the Rust standard library - up to 2x faster](https://github.com/rust-lang/rust/pull/124032)
-* [2024-06-24, 14:49:35](https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync) - [Local, first, forever - CRDT filesync](https://tonsky.me/blog/crdt-filesync/)
 * [2024-06-24, 13:41:45](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
-* [2024-06-24, 11:29:12](https://lobste.rs/s/hp0llm/proxmox_hypervisor_on_nixos) - [The Proxmox Hypervisor, on NixOS](https://github.com/SaumonNet/proxmox-nixos)
 * [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 
 ## [Archives](archives/index.md)
