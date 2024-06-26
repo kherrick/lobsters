@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-26, 14:29:01",
+      "https://lobste.rs/s/ps7abu/sentries_for_control_flow_integrity"
+    ],
+    [
+      "Sentries for control-flow integrity",
+      "https://cheriot.org/isa/ibex/2024/06/26/sentries-cfi.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 14:23:57",
+      "https://lobste.rs/s/kvqpan/what_is_self_hosted_what_is_stack"
+    ],
+    [
+      "What is Self Hosted? What is a Stack?",
+      "https://lucumr.pocoo.org/2024/6/26/what-is-self-hosted/"
+    ]
+  ],
+  [
+    [
       "2024-06-26, 14:13:53",
       "https://lobste.rs/s/4h9khj/types_team_update_roadmap"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2024-06-26, 01:46:30",
+      "https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k"
+    ],
+    [
+      "Polyfill supply chain attack hits 100K+ sites",
+      "https://sansec.io/research/polyfill-supply-chain-attack"
+    ]
+  ],
+  [
+    [
       "2024-06-26, 00:08:00",
       "https://lobste.rs/s/tzcv88/why_i_attack"
     ],
@@ -67,16 +97,6 @@
     [
       "Programming in Unison",
       "https://lwn.net/SubscriberLink/978955/7316237b86da0179/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 21:53:32",
-      "https://lobste.rs/s/dmbtly/all_set_looking_under_hood_python_s_set"
-    ],
-    [
-      "All Set! Looking Under the Hood of Python's Set Data Structure",
-      "https://blog.codingconfessions.com/p/cpython-set-implementation"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-06-25, 16:04:02",
-      "https://lobste.rs/s/xiin7y/symbolics_color_system_manual_1986"
-    ],
-    [
-      "Symbolics Color System manual (1986)",
-      "https://archive.org/details/symbolics-color-system"
-    ]
-  ],
-  [
-    [
       "2024-06-25, 15:37:39",
       "https://lobste.rs/s/yzvr0f/workstation_vms_with_lxd_multipass"
     ],
@@ -177,16 +187,6 @@
     [
       "My spiciest take on tech hiring",
       "https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 12:55:44",
-      "https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010"
-    ],
-    [
-      "Modules as Objects in Newspeak (2010)",
-      "http://bracha.org/newspeak-modules.pdf"
     ]
   ],
   [
