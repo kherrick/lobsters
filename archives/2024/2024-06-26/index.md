@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 20:58:20](https://lobste.rs/s/ufirks/diff2html) - [diff2html](https://diff2html.xyz/)
 * [2024-06-26, 19:38:33](https://lobste.rs/s/cxnnhu/member_ordering_binary_sizes) - [Member ordering and binary sizes](https://www.sandordargo.com/blog/2024/06/26/member-ordering-and-binary-size)
 * [2024-06-26, 19:38:12](https://lobste.rs/s/bolnpp/how_stl_uses_explicit) - [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 19:37:52](https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware) - [Fixing KWin’s performance on old hardware](https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html)

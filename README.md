@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 20:58:20](https://lobste.rs/s/ufirks/diff2html) - [diff2html](https://diff2html.xyz/)
 * [2024-06-26, 19:38:33](https://lobste.rs/s/cxnnhu/member_ordering_binary_sizes) - [Member ordering and binary sizes](https://www.sandordargo.com/blog/2024/06/26/member-ordering-and-binary-size)
 * [2024-06-26, 19:38:12](https://lobste.rs/s/bolnpp/how_stl_uses_explicit) - [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 19:37:52](https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware) - [Fixing KWin’s performance on old hardware](https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html)
 * [2024-06-26, 18:55:34](https://lobste.rs/s/qmvcz1/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/)
 * [2024-06-26, 17:53:03](https://lobste.rs/s/7ulqrt/new_package_for_making_charts_emacs_eplot) - [A New Package for Making Charts in Emacs: eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
-* [2024-06-26, 17:02:51](https://lobste.rs/s/gtmyxr/snailload_exploiting_remote_network) - [SnailLoad: Exploiting Remote Network Latency Measurements without JavaScript](https://www.snailload.com/)
 * [2024-06-26, 17:00:56](https://lobste.rs/s/vuvhca/more_thoughts_on_claiming) - [More thoughts on claiming](https://smallcultfollowing.com/babysteps/blog/2024/06/26/claim-followup-1/)
 * [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
 * [2024-06-26, 14:29:01](https://lobste.rs/s/ps7abu/sentries_for_control_flow_integrity) - [Sentries for control-flow integrity](https://cheriot.org/isa/ibex/2024/06/26/sentries-cfi.html)
