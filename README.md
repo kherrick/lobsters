@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
 * [2024-06-26, 17:02:51](https://lobste.rs/s/gtmyxr/snailload_exploiting_remote_network) - [SnailLoad: Exploiting Remote Network Latency Measurements without JavaScript](https://www.snailload.com/)
 * [2024-06-26, 17:00:56](https://lobste.rs/s/vuvhca/more_thoughts_on_claiming) - [More thoughts on claiming](https://smallcultfollowing.com/babysteps/blog/2024/06/26/claim-followup-1/)
 * [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
@@ -24,7 +25,6 @@
 * [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 * [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
-* [2024-06-25, 04:43:41](https://lobste.rs/s/lhhlr3/from_0_10_8_10_microsoft_puts_repair_front) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 
 ## [Archives](archives/index.md)
 
