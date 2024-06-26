@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-26, 01:46:30",
+      "https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k"
+    ],
+    [
+      "Polyfill supply chain attack hits 100K+ sites",
+      "https://sansec.io/research/polyfill-supply-chain-attack"
+    ]
+  ],
+  [
+    [
       "2024-06-26, 00:08:00",
       "https://lobste.rs/s/tzcv88/why_i_attack"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-06-25, 14:29:57",
+      "https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring"
+    ],
+    [
+      "My spiciest take on tech hiring",
+      "https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 12:55:44",
       "https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-06-24, 22:25:48",
-      "https://lobste.rs/s/h3n6u2/new_terminator_release_v2_1_4"
-    ],
-    [
-      "New Terminator Release: v2.1.4",
-      "https://folkwolf.net/new-terminator-release-v214/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 18:47:59",
       "https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "Microfeatures I Love in Blogs and Personal Websites",
       "https://danilafe.com/blog/blog_microfeatures/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 10:22:49",
-      "https://lobste.rs/s/jahu16/mime_rss_existential_torment"
-    ],
-    [
-      "MIME, RSS, and existential torment",
-      "https://xeiaso.net/blog/2024/fixing-rss-mailcap/"
     ]
   ]
 ]
