@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-06-26, 01:46:30",
+      "https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k"
+    ],
+    [
+      "Polyfill supply chain attack hits 100K+ sites",
+      "https://sansec.io/research/polyfill-supply-chain-attack"
+    ]
+  ],
+  [
+    [
       "2024-06-26, 00:08:00",
       "https://lobste.rs/s/tzcv88/why_i_attack"
     ],
@@ -227,16 +237,6 @@
     [
       "From 0/10 to 8/10: Microsoft Puts Repair Front and Center",
       "https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 18:47:59",
-      "https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust"
-    ],
-    [
-      "New sort implementations merged in the Rust standard library - up to 2x faster",
-      "https://github.com/rust-lang/rust/pull/124032"
     ]
   ],
   [
