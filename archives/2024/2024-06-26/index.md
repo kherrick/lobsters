@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 17:02:51](https://lobste.rs/s/gtmyxr/snailload_exploiting_remote_network) - [SnailLoad: Exploiting Remote Network Latency Measurements without JavaScript](https://www.snailload.com/)
+* [2024-06-26, 17:00:56](https://lobste.rs/s/vuvhca/more_thoughts_on_claiming) - [More thoughts on claiming](https://smallcultfollowing.com/babysteps/blog/2024/06/26/claim-followup-1/)
 * [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
 * [2024-06-26, 15:36:48](https://lobste.rs/s/wdjoof/100k_websites_targeted_supply_chain) - [100k+ websites targeted in a supply chain attack via polyfill.io](https://cside.dev/blog/more-than-100k-websites-targeted-in-web-supply-chain-attack)
 * [2024-06-26, 14:29:01](https://lobste.rs/s/ps7abu/sentries_for_control_flow_integrity) - [Sentries for control-flow integrity](https://cheriot.org/isa/ibex/2024/06/26/sentries-cfi.html)
