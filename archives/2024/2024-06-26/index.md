@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
 * [2024-06-26, 15:36:48](https://lobste.rs/s/wdjoof/100k_websites_targeted_supply_chain) - [100k+ websites targeted in a supply chain attack via polyfill.io](https://cside.dev/blog/more-than-100k-websites-targeted-in-web-supply-chain-attack)
 * [2024-06-26, 14:29:01](https://lobste.rs/s/ps7abu/sentries_for_control_flow_integrity) - [Sentries for control-flow integrity](https://cheriot.org/isa/ibex/2024/06/26/sentries-cfi.html)
 * [2024-06-26, 14:23:57](https://lobste.rs/s/kvqpan/what_is_self_hosted_what_is_stack) - [What is Self Hosted? What is a Stack?](https://lucumr.pocoo.org/2024/6/26/what-is-self-hosted/)

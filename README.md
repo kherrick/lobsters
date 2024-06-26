@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
 * [2024-06-26, 15:36:48](https://lobste.rs/s/wdjoof/100k_websites_targeted_supply_chain) - [100k+ websites targeted in a supply chain attack via polyfill.io](https://cside.dev/blog/more-than-100k-websites-targeted-in-web-supply-chain-attack)
 * [2024-06-26, 14:29:01](https://lobste.rs/s/ps7abu/sentries_for_control_flow_integrity) - [Sentries for control-flow integrity](https://cheriot.org/isa/ibex/2024/06/26/sentries-cfi.html)
 * [2024-06-26, 14:23:57](https://lobste.rs/s/kvqpan/what_is_self_hosted_what_is_stack) - [What is Self Hosted? What is a Stack?](https://lucumr.pocoo.org/2024/6/26/what-is-self-hosted/)
@@ -17,7 +18,6 @@
 * [2024-06-25, 19:41:15](https://lobste.rs/s/op3lck/infinite_bikeshed_try_out_any_google_font) - [Infinite Bikeshed: Try out any Google Font on Pigweed's docs site](https://storage.googleapis.com/pigweed-docs-try/8744134591150993793/index.html)
 * [2024-06-25, 19:26:56](https://lobste.rs/s/ctncfq/seattle_s_living_computers_museum_logs) - [Seattle’s Living Computers Museum logs off for good as Paul Allen estate will auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-25, 18:44:38](https://lobste.rs/s/dkkaur/cyber_scarecrow) - [Cyber Scarecrow](https://www.cyberscarecrow.com/about)
-* [2024-06-25, 16:57:01](https://lobste.rs/s/guycjd/apple_penlite_ipad_before_ipad) - [Apple PenLite: The iPad Before the iPad](https://youtu.be/yc-QRgpUIqU)
 * [2024-06-25, 15:37:39](https://lobste.rs/s/yzvr0f/workstation_vms_with_lxd_multipass) - [Workstation VMs with LXD & Multipass](https://jnsgr.uk/2024/06/desktop-vms-lxd-multipass/)
 * [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
