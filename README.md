@@ -13,6 +13,7 @@
 * [2024-06-26, 01:46:30](https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-26, 00:08:00](https://lobste.rs/s/tzcv88/why_i_attack) - [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)
 * [2024-06-26, 00:01:22](https://lobste.rs/s/utzrvf/programming_unison) - [Programming in Unison](https://lwn.net/SubscriberLink/978955/7316237b86da0179/)
+* [2024-06-25, 21:53:32](https://lobste.rs/s/dmbtly/all_set_looking_under_hood_python_s_set) - [All Set! Looking Under the Hood of Python's Set Data Structure](https://blog.codingconfessions.com/p/cpython-set-implementation)
 * [2024-06-25, 21:02:45](https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite) - [Simpler web development with HTMX, SQLite and Typescript](https://www.plainweb.dev/)
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
 * [2024-06-25, 19:41:15](https://lobste.rs/s/op3lck/infinite_bikeshed_try_out_any_google_font) - [Infinite Bikeshed: Try out any Google Font on Pigweed's docs site](https://storage.googleapis.com/pigweed-docs-try/8744134591150993793/index.html)
@@ -24,7 +25,6 @@
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 * [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
 * [2024-06-25, 04:43:41](https://lobste.rs/s/lhhlr3/from_0_10_8_10_microsoft_puts_repair_front) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
-* [2024-06-24, 13:41:45](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
 
 ## [Archives](archives/index.md)
 
