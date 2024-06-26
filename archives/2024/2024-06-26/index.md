@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 02:57:31](https://lobste.rs/s/x2mghk/profiling_with_ctrl_c) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
 * [2024-06-26, 01:46:30](https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-26, 00:08:00](https://lobste.rs/s/tzcv88/why_i_attack) - [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)
 * [2024-06-26, 00:01:22](https://lobste.rs/s/utzrvf/programming_unison) - [Programming in Unison](https://lwn.net/SubscriberLink/978955/7316237b86da0179/)
