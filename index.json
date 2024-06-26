@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-06-26, 01:46:30",
-      "https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k"
-    ],
-    [
-      "Polyfill supply chain attack hits 100K+ sites",
-      "https://sansec.io/research/polyfill-supply-chain-attack"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 00:08:00",
       "https://lobste.rs/s/tzcv88/why_i_attack"
     ],
@@ -97,6 +87,16 @@
     [
       "Programming in Unison",
       "https://lwn.net/SubscriberLink/978955/7316237b86da0179/"
+    ]
+  ],
+  [
+    [
+      "2024-06-25, 21:53:32",
+      "https://lobste.rs/s/dmbtly/all_set_looking_under_hood_python_s_set"
+    ],
+    [
+      "All Set! Looking Under the Hood of Python's Set Data Structure",
+      "https://blog.codingconfessions.com/p/cpython-set-implementation"
     ]
   ],
   [
