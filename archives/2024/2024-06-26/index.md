@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 14:13:53](https://lobste.rs/s/4h9khj/types_team_update_roadmap) - [Types Team Update and Roadmap](https://blog.rust-lang.org/2024/06/26/types-team-update.html)
 * [2024-06-26, 13:53:54](https://lobste.rs/s/7st01x/neko_history_software_pet_2022) - [Neko: History of a software pet (2022)](https://eliotakira.com/neko/)
 * [2024-06-26, 13:14:41](https://lobste.rs/s/pdxgyb/running_dbt_github_using_nix) - [Running DBT in Github using Nix](https://github.com/CedricLeong/dbt-action-nix)
 * [2024-06-26, 12:36:12](https://lobste.rs/s/rywzfo/can_you_make_it_bigger_journey_building) - [Can You Make It Bigger? - A Journey In Building Arcade Cabinets](https://www.leighhack.org/blog/2024/arcade_cabinet/)

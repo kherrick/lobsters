@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 14:13:53](https://lobste.rs/s/4h9khj/types_team_update_roadmap) - [Types Team Update and Roadmap](https://blog.rust-lang.org/2024/06/26/types-team-update.html)
 * [2024-06-26, 13:53:54](https://lobste.rs/s/7st01x/neko_history_software_pet_2022) - [Neko: History of a software pet (2022)](https://eliotakira.com/neko/)
 * [2024-06-26, 13:14:41](https://lobste.rs/s/pdxgyb/running_dbt_github_using_nix) - [Running DBT in Github using Nix](https://github.com/CedricLeong/dbt-action-nix)
 * [2024-06-26, 12:36:12](https://lobste.rs/s/rywzfo/can_you_make_it_bigger_journey_building) - [Can You Make It Bigger? - A Journey In Building Arcade Cabinets](https://www.leighhack.org/blog/2024/arcade_cabinet/)
@@ -15,7 +16,6 @@
 * [2024-06-25, 18:44:38](https://lobste.rs/s/dkkaur/cyber_scarecrow) - [Cyber Scarecrow](https://www.cyberscarecrow.com/about)
 * [2024-06-25, 16:57:01](https://lobste.rs/s/guycjd/apple_penlite_ipad_before_ipad) - [Apple PenLite: The iPad Before the iPad](https://youtu.be/yc-QRgpUIqU)
 * [2024-06-25, 16:04:02](https://lobste.rs/s/xiin7y/symbolics_color_system_manual_1986) - [Symbolics Color System manual (1986)](https://archive.org/details/symbolics-color-system)
-* [2024-06-25, 15:40:05](https://lobste.rs/s/yvklbv/github_copilot_70_lines_javascript) - [GitHub Copilot in 70 lines of JavaScript](https://github.com/coder/picopilot)
 * [2024-06-25, 15:37:39](https://lobste.rs/s/yzvr0f/workstation_vms_with_lxd_multipass) - [Workstation VMs with LXD & Multipass](https://jnsgr.uk/2024/06/desktop-vms-lxd-multipass/)
 * [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-25, 12:55:44](https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010) - [Modules as Objects in Newspeak (2010)](http://bracha.org/newspeak-modules.pdf)
