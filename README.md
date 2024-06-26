@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 13:53:54](https://lobste.rs/s/7st01x/neko_history_software_pet_2022) - [Neko: History of a software pet (2022)](https://eliotakira.com/neko/)
 * [2024-06-26, 13:14:41](https://lobste.rs/s/pdxgyb/running_dbt_github_using_nix) - [Running DBT in Github using Nix](https://github.com/CedricLeong/dbt-action-nix)
 * [2024-06-26, 12:36:12](https://lobste.rs/s/rywzfo/can_you_make_it_bigger_journey_building) - [Can You Make It Bigger? - A Journey In Building Arcade Cabinets](https://www.leighhack.org/blog/2024/arcade_cabinet/)
 * [2024-06-26, 02:57:31](https://lobste.rs/s/x2mghk/profiling_with_ctrl_c) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
@@ -19,7 +20,6 @@
 * [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-25, 12:55:44](https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010) - [Modules as Objects in Newspeak (2010)](http://bracha.org/newspeak-modules.pdf)
 * [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
-* [2024-06-25, 11:42:22](https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known) - [How gcc and clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 * [2024-06-25, 08:06:15](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh) - [Why Does FreeBSD Default to Csh/Tcsh? Exploring Its Advantages](https://lobste.rs/s/iuzuge/why_does_freebsd_default_csh_tcsh)
 * [2024-06-25, 04:43:41](https://lobste.rs/s/lhhlr3/from_0_10_8_10_microsoft_puts_repair_front) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
