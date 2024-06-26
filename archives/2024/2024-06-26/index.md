@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-06-26](index.md)
 
+* [2024-06-26, 19:38:33](https://lobste.rs/s/cxnnhu/member_ordering_binary_sizes) - [Member ordering and binary sizes](https://www.sandordargo.com/blog/2024/06/26/member-ordering-and-binary-size)
+* [2024-06-26, 19:38:12](https://lobste.rs/s/bolnpp/how_stl_uses_explicit) - [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
+* [2024-06-26, 19:37:52](https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware) - [Fixing KWin’s performance on old hardware](https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html)
 * [2024-06-26, 18:55:34](https://lobste.rs/s/qmvcz1/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/)
 * [2024-06-26, 17:53:03](https://lobste.rs/s/7ulqrt/new_package_for_making_charts_emacs_eplot) - [A New Package for Making Charts in Emacs: eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)

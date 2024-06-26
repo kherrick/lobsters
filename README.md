@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 19:38:33](https://lobste.rs/s/cxnnhu/member_ordering_binary_sizes) - [Member ordering and binary sizes](https://www.sandordargo.com/blog/2024/06/26/member-ordering-and-binary-size)
+* [2024-06-26, 19:38:12](https://lobste.rs/s/bolnpp/how_stl_uses_explicit) - [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
+* [2024-06-26, 19:37:52](https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware) - [Fixing KWin’s performance on old hardware](https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html)
 * [2024-06-26, 18:55:34](https://lobste.rs/s/qmvcz1/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/)
 * [2024-06-26, 17:53:03](https://lobste.rs/s/7ulqrt/new_package_for_making_charts_emacs_eplot) - [A New Package for Making Charts in Emacs: eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
@@ -18,12 +21,9 @@
 * [2024-06-26, 00:01:22](https://lobste.rs/s/utzrvf/programming_unison) - [Programming in Unison](https://lwn.net/SubscriberLink/978955/7316237b86da0179/)
 * [2024-06-25, 21:02:45](https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite) - [Simpler web development with HTMX, SQLite and Typescript](https://www.plainweb.dev/)
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
-* [2024-06-25, 19:41:15](https://lobste.rs/s/op3lck/infinite_bikeshed_try_out_any_google_font) - [Infinite Bikeshed: Try out any Google Font on Pigweed's docs site](https://storage.googleapis.com/pigweed-docs-try/8744134591150993793/index.html)
 * [2024-06-25, 19:26:56](https://lobste.rs/s/ctncfq/seattle_s_living_computers_museum_logs) - [Seattle’s Living Computers Museum logs off for good as Paul Allen estate will auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
-* [2024-06-25, 18:44:38](https://lobste.rs/s/dkkaur/cyber_scarecrow) - [Cyber Scarecrow](https://www.cyberscarecrow.com/about)
 * [2024-06-25, 15:37:39](https://lobste.rs/s/yzvr0f/workstation_vms_with_lxd_multipass) - [Workstation VMs with LXD & Multipass](https://jnsgr.uk/2024/06/desktop-vms-lxd-multipass/)
 * [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
-* [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 
 ## [Archives](archives/index.md)
