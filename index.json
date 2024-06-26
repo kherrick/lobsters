@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-26, 00:08:00",
+      "https://lobste.rs/s/tzcv88/why_i_attack"
+    ],
+    [
+      "Why I Attack",
+      "https://nicholas.carlini.com/writing/2024/why-i-attack.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-26, 00:01:22",
+      "https://lobste.rs/s/utzrvf/programming_unison"
+    ],
+    [
+      "Programming in Unison",
+      "https://lwn.net/SubscriberLink/978955/7316237b86da0179/"
+    ]
+  ],
+  [
+    [
       "2024-06-25, 21:53:32",
       "https://lobste.rs/s/dmbtly/all_set_looking_under_hood_python_s_set"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-06-24, 14:49:35",
-      "https://lobste.rs/s/w9toij/local_first_forever_crdt_filesync"
-    ],
-    [
-      "Local, first, forever - CRDT filesync",
-      "https://tonsky.me/blog/crdt-filesync/"
-    ]
-  ],
-  [
-    [
       "2024-06-24, 13:41:45",
       "https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal"
     ],
     [
       "Microfeatures I Love in Blogs and Personal Websites",
       "https://danilafe.com/blog/blog_microfeatures/"
-    ]
-  ],
-  [
-    [
-      "2024-06-24, 11:29:12",
-      "https://lobste.rs/s/hp0llm/proxmox_hypervisor_on_nixos"
-    ],
-    [
-      "The Proxmox Hypervisor, on NixOS",
-      "https://github.com/SaumonNet/proxmox-nixos"
     ]
   ],
   [
