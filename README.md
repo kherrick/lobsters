@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 21:29:34](https://lobste.rs/s/hub6qd/plan_execute_pattern) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-26, 20:58:20](https://lobste.rs/s/ufirks/diff2html) - [diff2html](https://diff2html.xyz/)
 * [2024-06-26, 19:38:33](https://lobste.rs/s/cxnnhu/member_ordering_binary_sizes) - [Member ordering and binary sizes](https://www.sandordargo.com/blog/2024/06/26/member-ordering-and-binary-size)
 * [2024-06-26, 19:38:12](https://lobste.rs/s/bolnpp/how_stl_uses_explicit) - [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
@@ -22,7 +23,6 @@
 * [2024-06-25, 21:02:45](https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite) - [Simpler web development with HTMX, SQLite and Typescript](https://www.plainweb.dev/)
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
 * [2024-06-25, 19:26:56](https://lobste.rs/s/ctncfq/seattle_s_living_computers_museum_logs) - [Seattle’s Living Computers Museum logs off for good as Paul Allen estate will auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
-* [2024-06-25, 15:37:39](https://lobste.rs/s/yzvr0f/workstation_vms_with_lxd_multipass) - [Workstation VMs with LXD & Multipass](https://jnsgr.uk/2024/06/desktop-vms-lxd-multipass/)
 * [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 
