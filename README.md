@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-26, 01:46:30](https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-26, 00:08:00](https://lobste.rs/s/tzcv88/why_i_attack) - [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)
 * [2024-06-26, 00:01:22](https://lobste.rs/s/utzrvf/programming_unison) - [Programming in Unison](https://lwn.net/SubscriberLink/978955/7316237b86da0179/)
 * [2024-06-25, 21:53:32](https://lobste.rs/s/dmbtly/all_set_looking_under_hood_python_s_set) - [All Set! Looking Under the Hood of Python's Set Data Structure](https://blog.codingconfessions.com/p/cpython-set-implementation)
@@ -13,6 +14,7 @@
 * [2024-06-25, 16:04:02](https://lobste.rs/s/xiin7y/symbolics_color_system_manual_1986) - [Symbolics Color System manual (1986)](https://archive.org/details/symbolics-color-system)
 * [2024-06-25, 15:40:05](https://lobste.rs/s/yvklbv/github_copilot_70_lines_javascript) - [GitHub Copilot in 70 lines of JavaScript](https://github.com/coder/picopilot)
 * [2024-06-25, 15:37:39](https://lobste.rs/s/yzvr0f/workstation_vms_with_lxd_multipass) - [Workstation VMs with LXD & Multipass](https://jnsgr.uk/2024/06/desktop-vms-lxd-multipass/)
+* [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
 * [2024-06-25, 12:55:44](https://lobste.rs/s/krhtbm/modules_as_objects_newspeak_2010) - [Modules as Objects in Newspeak (2010)](http://bracha.org/newspeak-modules.pdf)
 * [2024-06-25, 12:14:58](https://lobste.rs/s/prowkp/why_test) - [Why Test?](https://jonathan-frere.com/posts/why-test/)
 * [2024-06-25, 11:42:22](https://lobste.rs/s/ktuvjt/how_gcc_clang_handle_statically_known) - [How gcc and clang handle statically known undefined behaviour](https://diekmann.uk/blog/2024-06-25-statically-known-undefined-behaviour.html)
@@ -21,10 +23,8 @@
 * [2024-06-25, 04:43:41](https://lobste.rs/s/lhhlr3/from_0_10_8_10_microsoft_puts_repair_front) - [From 0/10 to 8/10: Microsoft Puts Repair Front and Center](https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center)
 * [2024-06-25, 01:19:36](https://lobste.rs/s/tukocy/network_protocols_sans_i_o_2016) - [Network protocols, sans I/O (2016)](https://sans-io.readthedocs.io/)
 * [2024-06-25, 01:07:36](https://lobste.rs/s/h9qst5/chat_control_new_panopticon) - [Chat Control and the New Panopticon](https://mhatta.substack.com/p/chat-control-and-the-new-panopticon)
-* [2024-06-24, 22:25:48](https://lobste.rs/s/h3n6u2/new_terminator_release_v2_1_4) - [New Terminator Release: v2.1.4](https://folkwolf.net/new-terminator-release-v214/)
 * [2024-06-24, 18:47:59](https://lobste.rs/s/csl2jn/new_sort_implementations_merged_rust) - [New sort implementations merged in the Rust standard library - up to 2x faster](https://github.com/rust-lang/rust/pull/124032)
 * [2024-06-24, 13:41:45](https://lobste.rs/s/ju9yby/microfeatures_i_love_blogs_personal) - [Microfeatures I Love in Blogs and Personal Websites](https://danilafe.com/blog/blog_microfeatures/)
-* [2024-06-24, 10:22:49](https://lobste.rs/s/jahu16/mime_rss_existential_torment) - [MIME, RSS, and existential torment](https://xeiaso.net/blog/2024/fixing-rss-mailcap/)
 
 ## [Archives](archives/index.md)
 
