@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-26, 13:14:41",
+      "https://lobste.rs/s/pdxgyb/running_dbt_github_using_nix"
+    ],
+    [
+      "Running DBT in Github using Nix",
+      "https://github.com/CedricLeong/dbt-action-nix"
+    ]
+  ],
+  [
+    [
       "2024-06-26, 12:36:12",
       "https://lobste.rs/s/rywzfo/can_you_make_it_bigger_journey_building"
     ],
@@ -217,16 +227,6 @@
     [
       "From 0/10 to 8/10: Microsoft Puts Repair Front and Center",
       "https://www.ifixit.com/News/96998/from-0-10-to-8-10-microsoft-puts-repair-front-and-center"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 01:19:36",
-      "https://lobste.rs/s/tukocy/network_protocols_sans_i_o_2016"
-    ],
-    [
-      "Network protocols, sans I/O (2016)",
-      "https://sans-io.readthedocs.io/"
     ]
   ],
   [
