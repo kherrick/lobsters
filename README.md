@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 17:58:28](https://lobste.rs/s/gwav82/better_know_ruby_thing_on_use_private) - [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)
 * [2024-06-27, 17:19:57](https://lobste.rs/s/ze3vam/open_sourcing_kinopio) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 17:18:50](https://lobste.rs/s/ezxfwk/smarter_way_rust) - [The Smarter Way to Rust](https://www.kdab.com/the-smarter-way-to-rust/)
 * [2024-06-27, 17:12:07](https://lobste.rs/s/3wpfb2/fighting_faults_distributed_systems) - [Fighting Faults in Distributed Systems](https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf)
@@ -15,7 +16,6 @@
 * [2024-06-27, 11:44:47](https://lobste.rs/s/ra3sgq/how_file_systems_can_change_sequoia_with) - [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
-* [2024-06-27, 08:49:33](https://lobste.rs/s/sj4xcc/memhive_experimental_python) - [MemHive: experimental Python subinterpreters orchestrator](https://github.com/edgedb/memhive)
 * [2024-06-26, 21:29:34](https://lobste.rs/s/hub6qd/plan_execute_pattern) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-26, 19:37:52](https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware) - [Fixing KWin’s performance on old hardware](https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html)
 * [2024-06-26, 17:53:03](https://lobste.rs/s/7ulqrt/new_package_for_making_charts_emacs_eplot) - [A New Package for Making Charts in Emacs: eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 17:58:28](https://lobste.rs/s/gwav82/better_know_ruby_thing_on_use_private) - [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)
 * [2024-06-27, 17:21:04](https://lobste.rs/s/ouhfzt/snapshots_for_ipc_fuzzing) - [Snapshots for IPC Fuzzing](https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/)
 * [2024-06-27, 17:19:57](https://lobste.rs/s/ze3vam/open_sourcing_kinopio) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 17:18:50](https://lobste.rs/s/ezxfwk/smarter_way_rust) - [The Smarter Way to Rust](https://www.kdab.com/the-smarter-way-to-rust/)
