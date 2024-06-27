@@ -7,6 +7,7 @@
 * [2024-06-27, 15:43:03](https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3) - [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
 * [2024-06-27, 15:41:37](https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused) - [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
 * [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix_by_eelco) - [Adding parallel evaluation to Nix, by Eelco Dolstra](https://determinate.systems/posts/parallel-nix-eval)
+* [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix) - [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
 * [2024-06-27, 14:58:58](https://lobste.rs/s/ishj9g/ipc_fuzzing_firefox_with_vm_snapshots) - [IPC Fuzzing Firefox with VM Snapshots](https://blog.mozilla.org/attack-and-defense/2024/06/24/ipc-fuzzing-with-snapshots/)
 * [2024-06-27, 12:19:16](https://lobste.rs/s/a42qsz/modern_cryptography_on_nes) - [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
 * [2024-06-27, 11:44:47](https://lobste.rs/s/ra3sgq/how_file_systems_can_change_sequoia_with) - [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
