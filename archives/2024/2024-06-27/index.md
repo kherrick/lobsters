@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix_by_eelco) - [Adding parallel evaluation to Nix, by Eelco Dolstra](https://determinate.systems/posts/parallel-nix-eval)
 * [2024-06-27, 14:58:58](https://lobste.rs/s/ishj9g/ipc_fuzzing_firefox_with_vm_snapshots) - [IPC Fuzzing Firefox with VM Snapshots](https://blog.mozilla.org/attack-and-defense/2024/06/24/ipc-fuzzing-with-snapshots/)
 * [2024-06-27, 12:19:16](https://lobste.rs/s/a42qsz/modern_cryptography_on_nes) - [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
 * [2024-06-27, 11:44:47](https://lobste.rs/s/ra3sgq/how_file_systems_can_change_sequoia_with) - [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)

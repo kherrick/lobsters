@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix_by_eelco) - [Adding parallel evaluation to Nix, by Eelco Dolstra](https://determinate.systems/posts/parallel-nix-eval)
 * [2024-06-27, 14:58:58](https://lobste.rs/s/ishj9g/ipc_fuzzing_firefox_with_vm_snapshots) - [IPC Fuzzing Firefox with VM Snapshots](https://blog.mozilla.org/attack-and-defense/2024/06/24/ipc-fuzzing-with-snapshots/)
 * [2024-06-27, 12:19:16](https://lobste.rs/s/a42qsz/modern_cryptography_on_nes) - [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
 * [2024-06-27, 11:44:47](https://lobste.rs/s/ra3sgq/how_file_systems_can_change_sequoia_with) - [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
@@ -20,7 +21,6 @@
 * [2024-06-26, 13:53:54](https://lobste.rs/s/7st01x/neko_history_software_pet_2022) - [Neko: History of a software pet (2022)](https://eliotakira.com/neko/)
 * [2024-06-26, 12:36:12](https://lobste.rs/s/rywzfo/can_you_make_it_bigger_journey_building) - [Can You Make It Bigger? - A Journey In Building Arcade Cabinets](https://www.leighhack.org/blog/2024/arcade_cabinet/)
 * [2024-06-26, 02:57:31](https://lobste.rs/s/x2mghk/profiling_with_ctrl_c) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
-* [2024-06-26, 01:46:30](https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-26, 00:08:00](https://lobste.rs/s/tzcv88/why_i_attack) - [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)
 * [2024-06-25, 21:02:45](https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite) - [Simpler web development with HTMX, SQLite and Typescript](https://www.plainweb.dev/)
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
