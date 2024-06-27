@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-27, 17:18:50",
+      "https://lobste.rs/s/ezxfwk/smarter_way_rust"
+    ],
+    [
+      "The Smarter Way to Rust",
+      "https://www.kdab.com/the-smarter-way-to-rust/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 17:12:07",
+      "https://lobste.rs/s/3wpfb2/fighting_faults_distributed_systems"
+    ],
+    [
+      "Fighting Faults in Distributed Systems",
+      "https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 16:54:32",
       "https://lobste.rs/s/zm8b2d/differential_analysis_summary"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-06-26, 20:58:20",
-      "https://lobste.rs/s/ufirks/diff2html"
-    ],
-    [
-      "diff2html",
-      "https://diff2html.xyz/"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 19:37:52",
       "https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware"
     ],
@@ -237,16 +247,6 @@
     [
       "Can You Make It Bigger? - A Journey In Building Arcade Cabinets",
       "https://www.leighhack.org/blog/2024/arcade_cabinet/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 20:27:26",
-      "https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever"
-    ],
-    [
-      "rabbit data breach: all r1 responses ever given can be downloaded",
-      "https://rabbitu.de/articles/security-disclosure-1"
     ]
   ]
 ]
