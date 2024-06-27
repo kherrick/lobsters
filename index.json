@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-27, 18:44:51",
+      "https://lobste.rs/s/vn45u6/k23_experimental_wasm_microkernel"
+    ],
+    [
+      "k23: Experimental WASM Microkernel Operating System",
+      "https://github.com/JonasKruckenberg/k23"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 18:44:34",
+      "https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer"
+    ],
+    [
+      "CVE-2024-5535: `SSL_select_next_proto` buffer overread",
+      "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 17:58:28",
       "https://lobste.rs/s/gwav82/better_know_ruby_thing_on_use_private"
     ],
@@ -67,16 +87,6 @@
     [
       "From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source",
       "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 16:32:27",
-      "https://lobste.rs/s/wy36w2/text_coordinate_systems"
-    ],
-    [
-      "Text Coordinate Systems",
-      "https://zed.dev/blog/zed-decoded-text-coordinate-systems"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Neko: History of a software pet (2022)",
       "https://eliotakira.com/neko/"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 12:36:12",
-      "https://lobste.rs/s/rywzfo/can_you_make_it_bigger_journey_building"
-    ],
-    [
-      "Can You Make It Bigger? - A Journey In Building Arcade Cabinets",
-      "https://www.leighhack.org/blog/2024/arcade_cabinet/"
     ]
   ]
 ]
