@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 16:48:51](https://lobste.rs/s/pw1ei3/long_term_curl_versions) - [long term curl versions](https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/)
+* [2024-06-27, 16:46:09](https://lobste.rs/s/vicc3w/from_zerover_semver_comprehensive_list) - [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
 * [2024-06-27, 16:32:27](https://lobste.rs/s/wy36w2/text_coordinate_systems) - [Text Coordinate Systems](https://zed.dev/blog/zed-decoded-text-coordinate-systems)
 * [2024-06-27, 15:43:03](https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3) - [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
 * [2024-06-27, 15:41:37](https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused) - [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
@@ -20,10 +22,8 @@
 * [2024-06-26, 17:00:56](https://lobste.rs/s/vuvhca/more_thoughts_on_claiming) - [More thoughts on claiming](https://smallcultfollowing.com/babysteps/blog/2024/06/26/claim-followup-1/)
 * [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
 * [2024-06-26, 14:23:57](https://lobste.rs/s/kvqpan/what_is_self_hosted_what_is_stack) - [What is Self Hosted? What is a Stack?](https://lucumr.pocoo.org/2024/6/26/what-is-self-hosted/)
-* [2024-06-26, 14:13:53](https://lobste.rs/s/4h9khj/types_team_update_roadmap) - [Types Team Update and Roadmap](https://blog.rust-lang.org/2024/06/26/types-team-update.html)
 * [2024-06-26, 13:53:54](https://lobste.rs/s/7st01x/neko_history_software_pet_2022) - [Neko: History of a software pet (2022)](https://eliotakira.com/neko/)
 * [2024-06-26, 12:36:12](https://lobste.rs/s/rywzfo/can_you_make_it_bigger_journey_building) - [Can You Make It Bigger? - A Journey In Building Arcade Cabinets](https://www.leighhack.org/blog/2024/arcade_cabinet/)
-* [2024-06-25, 21:02:45](https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite) - [Simpler web development with HTMX, SQLite and Typescript](https://www.plainweb.dev/)
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
 
 ## [Archives](archives/index.md)
