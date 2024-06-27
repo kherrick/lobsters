@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 18:59:57](https://lobste.rs/s/jxybyd/relational_algebra_primer) - [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
 * [2024-06-27, 18:54:15](https://lobste.rs/s/3siv6d/make_prediction) - [Make a Prediction](https://www.jakeworth.com/posts/make-a-prediction/)
 * [2024-06-27, 18:44:51](https://lobste.rs/s/vn45u6/k23_experimental_wasm_microkernel) - [k23: Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 * [2024-06-27, 18:44:34](https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer) - [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
@@ -7,7 +8,6 @@
 * [2024-06-27, 17:19:57](https://lobste.rs/s/ze3vam/open_sourcing_kinopio) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 17:18:50](https://lobste.rs/s/ezxfwk/smarter_way_rust) - [The Smarter Way to Rust](https://www.kdab.com/the-smarter-way-to-rust/)
 * [2024-06-27, 17:12:07](https://lobste.rs/s/3wpfb2/fighting_faults_distributed_systems) - [Fighting Faults in Distributed Systems](https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf)
-* [2024-06-27, 16:54:32](https://lobste.rs/s/zm8b2d/differential_analysis_summary) - [Differential Analysis: A Summary](https://blog.brownplt.org/2024/06/27/differential-analysis.html)
 * [2024-06-27, 16:46:09](https://lobste.rs/s/vicc3w/from_zerover_semver_comprehensive_list) - [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
 * [2024-06-27, 15:43:03](https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3) - [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
 * [2024-06-27, 15:41:37](https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused) - [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)

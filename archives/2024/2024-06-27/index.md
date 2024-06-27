@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 18:59:57](https://lobste.rs/s/jxybyd/relational_algebra_primer) - [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
 * [2024-06-27, 18:54:15](https://lobste.rs/s/3siv6d/make_prediction) - [Make a Prediction](https://www.jakeworth.com/posts/make-a-prediction/)
 * [2024-06-27, 18:44:51](https://lobste.rs/s/vn45u6/k23_experimental_wasm_microkernel) - [k23: Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 * [2024-06-27, 18:44:34](https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer) - [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
