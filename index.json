@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-27, 11:44:47",
+      "https://lobste.rs/s/ra3sgq/how_file_systems_can_change_sequoia_with"
+    ],
+    [
+      "How file systems can change in Sequoia with FSKit",
+      "https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 10:16:50",
       "https://lobste.rs/s/2daqlj/xaes_256_gcm"
     ],
@@ -127,16 +137,6 @@
     [
       "You probably wrote half a monad by accident",
       "https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 14:29:01",
-      "https://lobste.rs/s/ps7abu/sentries_for_control_flow_integrity"
-    ],
-    [
-      "Sentries for control-flow integrity",
-      "https://cheriot.org/isa/ibex/2024/06/26/sentries-cfi.html"
     ]
   ],
   [
