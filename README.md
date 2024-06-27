@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 * [2024-06-27, 08:49:33](https://lobste.rs/s/sj4xcc/memhive_experimental_python) - [MemHive: experimental Python subinterpreters orchestrator](https://github.com/edgedb/memhive)
 * [2024-06-27, 07:56:03](https://lobste.rs/s/iijeao/why_we_trust_webpki_root_certificate) - [Why We Trust WebPKI Root Certificate Authorities](https://unmitigatedrisk.com/?p=847)
 * [2024-06-26, 21:29:34](https://lobste.rs/s/hub6qd/plan_execute_pattern) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
@@ -24,7 +25,6 @@
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
 * [2024-06-25, 19:26:56](https://lobste.rs/s/ctncfq/seattle_s_living_computers_museum_logs) - [Seattle’s Living Computers Museum logs off for good as Paul Allen estate will auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
 * [2024-06-25, 14:29:57](https://lobste.rs/s/airnde/my_spiciest_take_on_tech_hiring) - [My spiciest take on tech hiring](https://www.haskellforall.com/2024/06/my-spiciest-take-on-tech-hiring.html)
-* [2024-06-25, 11:16:12](https://lobste.rs/s/kpqbib/rng_day) - [RNG Day](https://rngday.com/en/)
 
 ## [Archives](archives/index.md)
 
