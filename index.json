@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-27, 16:54:32",
+      "https://lobste.rs/s/zm8b2d/differential_analysis_summary"
+    ],
+    [
+      "Differential Analysis: A Summary",
+      "https://blog.brownplt.org/2024/06/27/differential-analysis.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 16:48:51",
       "https://lobste.rs/s/pw1ei3/long_term_curl_versions"
     ],
@@ -117,16 +127,6 @@
     [
       "MemHive: experimental Python subinterpreters orchestrator",
       "https://github.com/edgedb/memhive"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 07:56:03",
-      "https://lobste.rs/s/iijeao/why_we_trust_webpki_root_certificate"
-    ],
-    [
-      "Why We Trust WebPKI Root Certificate Authorities",
-      "https://unmitigatedrisk.com/?p=847"
     ]
   ],
   [
