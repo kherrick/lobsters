@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 22:18:35](https://lobste.rs/s/crtrxr/sustaining_digital_certificate) - [Sustaining Digital Certificate Security - Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-27, 20:55:09](https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation) - [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 * [2024-06-27, 19:58:27](https://lobste.rs/s/dij9gs/my_first_kubernetes_k3s_cluster_on_3) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
 * [2024-06-27, 18:59:57](https://lobste.rs/s/jxybyd/relational_algebra_primer) - [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)

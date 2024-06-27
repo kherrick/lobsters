@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 22:18:35](https://lobste.rs/s/crtrxr/sustaining_digital_certificate) - [Sustaining Digital Certificate Security - Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-27, 20:55:09](https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation) - [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 * [2024-06-27, 19:58:27](https://lobste.rs/s/dij9gs/my_first_kubernetes_k3s_cluster_on_3) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
 * [2024-06-27, 18:59:57](https://lobste.rs/s/jxybyd/relational_algebra_primer) - [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
@@ -21,7 +22,6 @@
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 * [2024-06-26, 21:29:34](https://lobste.rs/s/hub6qd/plan_execute_pattern) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
-* [2024-06-26, 19:37:52](https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware) - [Fixing KWin’s performance on old hardware](https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html)
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
 * [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
 * [2024-06-26, 14:23:57](https://lobste.rs/s/kvqpan/what_is_self_hosted_what_is_stack) - [What is Self Hosted? What is a Stack?](https://lucumr.pocoo.org/2024/6/26/what-is-self-hosted/)
