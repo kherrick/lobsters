@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-27, 17:21:04](https://lobste.rs/s/ouhfzt/snapshots_for_ipc_fuzzing) - [Snapshots for IPC Fuzzing](https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/)
 * [2024-06-27, 17:19:57](https://lobste.rs/s/ze3vam/open_sourcing_kinopio) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 17:18:50](https://lobste.rs/s/ezxfwk/smarter_way_rust) - [The Smarter Way to Rust](https://www.kdab.com/the-smarter-way-to-rust/)
 * [2024-06-27, 17:12:07](https://lobste.rs/s/3wpfb2/fighting_faults_distributed_systems) - [Fighting Faults in Distributed Systems](https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf)
@@ -9,6 +8,7 @@
 * [2024-06-27, 16:46:09](https://lobste.rs/s/vicc3w/from_zerover_semver_comprehensive_list) - [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
 * [2024-06-27, 16:32:27](https://lobste.rs/s/wy36w2/text_coordinate_systems) - [Text Coordinate Systems](https://zed.dev/blog/zed-decoded-text-coordinate-systems)
 * [2024-06-27, 15:43:03](https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3) - [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
+* [2024-06-27, 15:41:37](https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused) - [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
 * [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix) - [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
 * [2024-06-27, 14:58:58](https://lobste.rs/s/ishj9g/ipc_fuzzing_firefox_with_vm_snapshots) - [IPC Fuzzing Firefox with VM Snapshots](https://blog.mozilla.org/attack-and-defense/2024/06/24/ipc-fuzzing-with-snapshots/)
 * [2024-06-27, 12:19:16](https://lobste.rs/s/a42qsz/modern_cryptography_on_nes) - [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
