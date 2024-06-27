@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 19:58:27](https://lobste.rs/s/dij9gs/my_first_kubernetes_k3s_cluster_on_3) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
 * [2024-06-27, 18:59:57](https://lobste.rs/s/jxybyd/relational_algebra_primer) - [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
 * [2024-06-27, 18:54:15](https://lobste.rs/s/3siv6d/make_prediction) - [Make a Prediction](https://www.jakeworth.com/posts/make-a-prediction/)
 * [2024-06-27, 18:44:51](https://lobste.rs/s/vn45u6/k23_experimental_wasm_microkernel) - [k23: Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
