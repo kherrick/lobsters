@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-27, 16:48:51",
+      "https://lobste.rs/s/pw1ei3/long_term_curl_versions"
+    ],
+    [
+      "long term curl versions",
+      "https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 16:46:09",
+      "https://lobste.rs/s/vicc3w/from_zerover_semver_comprehensive_list"
+    ],
+    [
+      "From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source",
+      "https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 16:32:27",
       "https://lobste.rs/s/wy36w2/text_coordinate_systems"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-06-26, 14:13:53",
-      "https://lobste.rs/s/4h9khj/types_team_update_roadmap"
-    ],
-    [
-      "Types Team Update and Roadmap",
-      "https://blog.rust-lang.org/2024/06/26/types-team-update.html"
-    ]
-  ],
-  [
-    [
       "2024-06-26, 13:53:54",
       "https://lobste.rs/s/7st01x/neko_history_software_pet_2022"
     ],
@@ -227,16 +237,6 @@
     [
       "Can You Make It Bigger? - A Journey In Building Arcade Cabinets",
       "https://www.leighhack.org/blog/2024/arcade_cabinet/"
-    ]
-  ],
-  [
-    [
-      "2024-06-25, 21:02:45",
-      "https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite"
-    ],
-    [
-      "Simpler web development with HTMX, SQLite and Typescript",
-      "https://www.plainweb.dev/"
     ]
   ],
   [
