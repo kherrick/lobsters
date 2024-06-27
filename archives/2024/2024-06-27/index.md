@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 17:21:04](https://lobste.rs/s/ouhfzt/snapshots_for_ipc_fuzzing) - [Snapshots for IPC Fuzzing](https://hacks.mozilla.org/2024/06/snapshots-for-ipc-fuzzing/)
+* [2024-06-27, 17:19:57](https://lobste.rs/s/ze3vam/open_sourcing_kinopio) - [Open Sourcing Kinopio](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 17:18:50](https://lobste.rs/s/ezxfwk/smarter_way_rust) - [The Smarter Way to Rust](https://www.kdab.com/the-smarter-way-to-rust/)
 * [2024-06-27, 17:12:07](https://lobste.rs/s/3wpfb2/fighting_faults_distributed_systems) - [Fighting Faults in Distributed Systems](https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf)
 * [2024-06-27, 16:54:32](https://lobste.rs/s/zm8b2d/differential_analysis_summary) - [Differential Analysis: A Summary](https://blog.brownplt.org/2024/06/27/differential-analysis.html)
