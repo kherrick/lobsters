@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 11:44:47](https://lobste.rs/s/ra3sgq/how_file_systems_can_change_sequoia_with) - [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 * [2024-06-27, 08:49:33](https://lobste.rs/s/sj4xcc/memhive_experimental_python) - [MemHive: experimental Python subinterpreters orchestrator](https://github.com/edgedb/memhive)
@@ -13,7 +14,6 @@
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
 * [2024-06-26, 17:00:56](https://lobste.rs/s/vuvhca/more_thoughts_on_claiming) - [More thoughts on claiming](https://smallcultfollowing.com/babysteps/blog/2024/06/26/claim-followup-1/)
 * [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
-* [2024-06-26, 14:29:01](https://lobste.rs/s/ps7abu/sentries_for_control_flow_integrity) - [Sentries for control-flow integrity](https://cheriot.org/isa/ibex/2024/06/26/sentries-cfi.html)
 * [2024-06-26, 14:23:57](https://lobste.rs/s/kvqpan/what_is_self_hosted_what_is_stack) - [What is Self Hosted? What is a Stack?](https://lucumr.pocoo.org/2024/6/26/what-is-self-hosted/)
 * [2024-06-26, 14:13:53](https://lobste.rs/s/4h9khj/types_team_update_roadmap) - [Types Team Update and Roadmap](https://blog.rust-lang.org/2024/06/26/types-team-update.html)
 * [2024-06-26, 13:53:54](https://lobste.rs/s/7st01x/neko_history_software_pet_2022) - [Neko: History of a software pet (2022)](https://eliotakira.com/neko/)
