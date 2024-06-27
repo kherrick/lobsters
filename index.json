@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-27, 22:18:35",
+      "https://lobste.rs/s/crtrxr/sustaining_digital_certificate"
+    ],
+    [
+      "Sustaining Digital Certificate Security - Entrust Certificate Distrust",
+      "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 20:55:09",
       "https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation"
     ],
@@ -207,16 +217,6 @@
     [
       "The plan-execute pattern",
       "https://mmapped.blog/posts/29-plan-execute"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 19:37:52",
-      "https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware"
-    ],
-    [
-      "Fixing KWin’s performance on old hardware",
-      "https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html"
     ]
   ],
   [
