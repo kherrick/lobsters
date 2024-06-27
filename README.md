@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 14:58:58](https://lobste.rs/s/ishj9g/ipc_fuzzing_firefox_with_vm_snapshots) - [IPC Fuzzing Firefox with VM Snapshots](https://blog.mozilla.org/attack-and-defense/2024/06/24/ipc-fuzzing-with-snapshots/)
 * [2024-06-27, 12:19:16](https://lobste.rs/s/a42qsz/modern_cryptography_on_nes) - [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
 * [2024-06-27, 11:44:47](https://lobste.rs/s/ra3sgq/how_file_systems_can_change_sequoia_with) - [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
@@ -8,7 +9,6 @@
 * [2024-06-27, 07:56:03](https://lobste.rs/s/iijeao/why_we_trust_webpki_root_certificate) - [Why We Trust WebPKI Root Certificate Authorities](https://unmitigatedrisk.com/?p=847)
 * [2024-06-26, 21:29:34](https://lobste.rs/s/hub6qd/plan_execute_pattern) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-26, 20:58:20](https://lobste.rs/s/ufirks/diff2html) - [diff2html](https://diff2html.xyz/)
-* [2024-06-26, 19:38:12](https://lobste.rs/s/bolnpp/how_stl_uses_explicit) - [How the STL uses explicit](https://quuxplusone.github.io/blog/2024/06/25/most-stl-ctors-arent-explicit-but-yours-still-should-be/)
 * [2024-06-26, 19:37:52](https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware) - [Fixing KWin’s performance on old hardware](https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html)
 * [2024-06-26, 18:55:34](https://lobste.rs/s/qmvcz1/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/)
 * [2024-06-26, 17:53:03](https://lobste.rs/s/7ulqrt/new_package_for_making_charts_emacs_eplot) - [A New Package for Making Charts in Emacs: eplot](https://lars.ingebrigtsen.no/2024/06/26/a-new-package-for-making-charts-in-emacs-eplot/)
