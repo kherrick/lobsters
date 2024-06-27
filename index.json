@@ -22,10 +22,10 @@
   [
     [
       "2024-06-27, 15:19:16",
-      "https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix_by_eelco"
+      "https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix"
     ],
     [
-      "Adding parallel evaluation to Nix, by Eelco Dolstra",
+      "Adding parallel evaluation to Nix",
       "https://determinate.systems/posts/parallel-nix-eval"
     ]
   ],
