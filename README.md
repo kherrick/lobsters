@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 16:54:32](https://lobste.rs/s/zm8b2d/differential_analysis_summary) - [Differential Analysis: A Summary](https://blog.brownplt.org/2024/06/27/differential-analysis.html)
 * [2024-06-27, 16:48:51](https://lobste.rs/s/pw1ei3/long_term_curl_versions) - [long term curl versions](https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/)
 * [2024-06-27, 16:46:09](https://lobste.rs/s/vicc3w/from_zerover_semver_comprehensive_list) - [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
 * [2024-06-27, 16:32:27](https://lobste.rs/s/wy36w2/text_coordinate_systems) - [Text Coordinate Systems](https://zed.dev/blog/zed-decoded-text-coordinate-systems)
@@ -12,7 +13,6 @@
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 * [2024-06-27, 08:49:33](https://lobste.rs/s/sj4xcc/memhive_experimental_python) - [MemHive: experimental Python subinterpreters orchestrator](https://github.com/edgedb/memhive)
-* [2024-06-27, 07:56:03](https://lobste.rs/s/iijeao/why_we_trust_webpki_root_certificate) - [Why We Trust WebPKI Root Certificate Authorities](https://unmitigatedrisk.com/?p=847)
 * [2024-06-26, 21:29:34](https://lobste.rs/s/hub6qd/plan_execute_pattern) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-26, 20:58:20](https://lobste.rs/s/ufirks/diff2html) - [diff2html](https://diff2html.xyz/)
 * [2024-06-26, 19:37:52](https://lobste.rs/s/vjhje4/fixing_kwin_s_performance_on_old_hardware) - [Fixing KWin’s performance on old hardware](https://zamundaaa.github.io/wayland/2024/06/25/fixing-kwin-perf-on-old-hardware.html)

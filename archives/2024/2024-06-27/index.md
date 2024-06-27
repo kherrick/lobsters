@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 16:54:32](https://lobste.rs/s/zm8b2d/differential_analysis_summary) - [Differential Analysis: A Summary](https://blog.brownplt.org/2024/06/27/differential-analysis.html)
 * [2024-06-27, 16:48:51](https://lobste.rs/s/pw1ei3/long_term_curl_versions) - [long term curl versions](https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/)
 * [2024-06-27, 16:46:09](https://lobste.rs/s/vicc3w/from_zerover_semver_comprehensive_list) - [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
 * [2024-06-27, 16:32:27](https://lobste.rs/s/wy36w2/text_coordinate_systems) - [Text Coordinate Systems](https://zed.dev/blog/zed-decoded-text-coordinate-systems)
