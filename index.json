@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-27, 15:43:03",
+      "https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3"
+    ],
+    [
+      "Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem",
+      "https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 15:41:37",
+      "https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused"
+    ],
+    [
+      "Linguist Translate, a privacy focused offline translation in your browser",
+      "https://linguister.io/"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 15:19:16",
       "https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix_by_eelco"
     ],
@@ -197,26 +217,6 @@
     [
       "Can You Make It Bigger? - A Journey In Building Arcade Cabinets",
       "https://www.leighhack.org/blog/2024/arcade_cabinet/"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 02:57:31",
-      "https://lobste.rs/s/x2mghk/profiling_with_ctrl_c"
-    ],
-    [
-      "Profiling with Ctrl-C",
-      "https://yosefk.com/blog/profiling-with-ctrl-c.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 00:08:00",
-      "https://lobste.rs/s/tzcv88/why_i_attack"
-    ],
-    [
-      "Why I Attack",
-      "https://nicholas.carlini.com/writing/2024/why-i-attack.html"
     ]
   ],
   [
