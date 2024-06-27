@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 07:56:03](https://lobste.rs/s/iijeao/why_we_trust_webpki_root_certificate) - [Why We Trust WebPKI Root Certificate Authorities](https://unmitigatedrisk.com/?p=847)
 * [2024-06-27, 05:39:30](https://lobste.rs/s/dn7lri/jars_ai_interactive_ai_shows) - [JARS.AI - Interactive AI Shows](https://www.jars.ai/)
 * [2024-06-26, 21:29:34](https://lobste.rs/s/hub6qd/plan_execute_pattern) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-26, 20:58:20](https://lobste.rs/s/ufirks/diff2html) - [diff2html](https://diff2html.xyz/)
@@ -19,7 +20,6 @@
 * [2024-06-26, 02:57:31](https://lobste.rs/s/x2mghk/profiling_with_ctrl_c) - [Profiling with Ctrl-C](https://yosefk.com/blog/profiling-with-ctrl-c.html)
 * [2024-06-26, 01:46:30](https://lobste.rs/s/xzmarv/polyfill_supply_chain_attack_hits_100k) - [Polyfill supply chain attack hits 100K+ sites](https://sansec.io/research/polyfill-supply-chain-attack)
 * [2024-06-26, 00:08:00](https://lobste.rs/s/tzcv88/why_i_attack) - [Why I Attack](https://nicholas.carlini.com/writing/2024/why-i-attack.html)
-* [2024-06-26, 00:01:22](https://lobste.rs/s/utzrvf/programming_unison) - [Programming in Unison](https://lwn.net/SubscriberLink/978955/7316237b86da0179/)
 * [2024-06-25, 21:02:45](https://lobste.rs/s/pues8i/simpler_web_development_with_htmx_sqlite) - [Simpler web development with HTMX, SQLite and Typescript](https://www.plainweb.dev/)
 * [2024-06-25, 20:27:26](https://lobste.rs/s/qiah2d/rabbit_data_breach_all_r1_responses_ever) - [rabbit data breach: all r1 responses ever given can be downloaded](https://rabbitu.de/articles/security-disclosure-1)
 * [2024-06-25, 19:26:56](https://lobste.rs/s/ctncfq/seattle_s_living_computers_museum_logs) - [Seattle’s Living Computers Museum logs off for good as Paul Allen estate will auction vintage items](https://www.geekwire.com/2024/seattles-living-computers-museum-logs-off-for-good-as-paul-allen-estate-will-auction-vintage-items/)
