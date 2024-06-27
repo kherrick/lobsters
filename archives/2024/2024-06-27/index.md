@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-27](index.md)
 
+* [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 * [2024-06-27, 08:49:33](https://lobste.rs/s/sj4xcc/memhive_experimental_python) - [MemHive: experimental Python subinterpreters orchestrator](https://github.com/edgedb/memhive)
 * [2024-06-27, 07:56:03](https://lobste.rs/s/iijeao/why_we_trust_webpki_root_certificate) - [Why We Trust WebPKI Root Certificate Authorities](https://unmitigatedrisk.com/?p=847)
