@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-27, 08:49:33](https://lobste.rs/s/sj4xcc/memhive_experimental_python) - [MemHive: experimental Python subinterpreters orchestrator](https://github.com/edgedb/memhive)
 * [2024-06-27, 07:56:03](https://lobste.rs/s/iijeao/why_we_trust_webpki_root_certificate) - [Why We Trust WebPKI Root Certificate Authorities](https://unmitigatedrisk.com/?p=847)
-* [2024-06-27, 05:39:30](https://lobste.rs/s/dn7lri/jars_ai_interactive_ai_shows) - [JARS.AI - Interactive AI Shows](https://www.jars.ai/)
 * [2024-06-26, 21:29:34](https://lobste.rs/s/hub6qd/plan_execute_pattern) - [The plan-execute pattern](https://mmapped.blog/posts/29-plan-execute)
 * [2024-06-26, 20:58:20](https://lobste.rs/s/ufirks/diff2html) - [diff2html](https://diff2html.xyz/)
 * [2024-06-26, 19:38:33](https://lobste.rs/s/cxnnhu/member_ordering_binary_sizes) - [Member ordering and binary sizes](https://www.sandordargo.com/blog/2024/06/26/member-ordering-and-binary-size)
