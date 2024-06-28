@@ -2,6 +2,7 @@
 
 * [2024-06-28, 19:09:28](https://lobste.rs/s/chbgts/building_js_engine_for_fun_by_linus_groh) - [Building a JS Engine -- For Fun! by Linus Groh - Video recording - GitNation](https://portal.gitnation.org/contents/building-a-js-engine-for-fun)
 * [2024-06-28, 18:28:54](https://lobste.rs/s/avzdca/making_regex_from_scratch_go) - [making regex from scratch in GO](https://lewismetcalf.com/series/making-regex-from-scratch-in-go/)
+* [2024-06-28, 14:40:09](https://lobste.rs/s/y4mqsj/grpc_bad_parts) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
 * [2024-06-28, 13:11:59](https://lobste.rs/s/yrswy0/what_actual_purpose_do_accent_characters) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
 * [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
 * [2024-06-28, 12:37:20](https://lobste.rs/s/qp5wth/how_evolve_product) - [How to evolve a product](https://www.granola.so/blog/how-to-evolve-a-product)
@@ -24,7 +25,6 @@
 * [2024-06-27, 12:19:16](https://lobste.rs/s/a42qsz/modern_cryptography_on_nes) - [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
-* [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
 
 ## [Archives](archives/index.md)
 
