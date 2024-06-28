@@ -141,16 +141,6 @@
   ],
   [
     [
-      "2024-06-27, 18:44:51",
-      "https://lobste.rs/s/vn45u6/k23_experimental_wasm_microkernel"
-    ],
-    [
-      "k23: Experimental WASM Microkernel Operating System",
-      "https://github.com/JonasKruckenberg/k23"
-    ]
-  ],
-  [
-    [
       "2024-06-27, 18:44:34",
       "https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer"
     ],
@@ -217,6 +207,16 @@
     [
       "Adding parallel evaluation to Nix",
       "https://determinate.systems/posts/parallel-nix-eval"
+    ]
+  ],
+  [
+    [
+      "2024-06-27, 12:19:16",
+      "https://lobste.rs/s/a42qsz/modern_cryptography_on_nes"
+    ],
+    [
+      "Modern cryptography on the NES",
+      "https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes"
     ]
   ],
   [
