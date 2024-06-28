@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2024-06-27, 22:18:35",
+      "https://lobste.rs/s/crtrxr/sustaining_digital_certificate"
+    ],
+    [
+      "Sustaining Digital Certificate Security - Entrust Certificate Distrust",
+      "https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 20:55:09",
       "https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation"
     ],
@@ -207,16 +217,6 @@
     [
       "Better Know A Ruby Thing: On The Use of Private Methods",
       "https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 15:43:03",
-      "https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3"
-    ],
-    [
-      "Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem",
-      "https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html"
     ]
   ],
   [
