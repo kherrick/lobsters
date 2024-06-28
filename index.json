@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-06-28, 14:40:09",
+      "https://lobste.rs/s/y4mqsj/grpc_bad_parts"
+    ],
+    [
+      "gRPC: The Bad Parts",
+      "https://kmcd.dev/posts/grpc-the-bad-parts/"
+    ]
+  ],
+  [
+    [
       "2024-06-28, 13:11:59",
       "https://lobste.rs/s/yrswy0/what_actual_purpose_do_accent_characters"
     ],
@@ -237,16 +247,6 @@
     [
       "Python still surprises",
       "https://kivikakk.ee/2024/06/27/python-still-surprises/"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 17:44:19",
-      "https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi"
-    ],
-    [
-      "Comments on Scripting, CGI, and FastCGI",
-      "https://www.oilshell.org/blog/2024/06/cgi.html"
     ]
   ]
 ]
