@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
+* [2024-06-28, 12:05:51](https://lobste.rs/s/tiw3mz/mix_testing_revealing_new_class_compiler) - [Mix-testing: revealing a new class of compiler bugs](https://johnwickerson.wordpress.com/2024/06/28/mix-testing-revealing-a-new-class-of-compiler-bugs/)
 * [2024-06-28, 10:39:30](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend)
 * [2024-06-28, 03:26:32](https://lobste.rs/s/mauzqd/how_much_memory_does_call_malloc) - [How much memory does a call to ‘malloc’  allocates?](https://lemire.me/blog/2024/06/27/how-much-memory-does-a-call-to-malloc-allocates/)
 * [2024-06-28, 03:24:47](https://lobste.rs/s/2a4ncz/hacking_amazon_s_eero_6_part_2) - [Hacking Amazon's eero 6 (part 2)](https://markuta.com/eero-6-hacking-part-2/)

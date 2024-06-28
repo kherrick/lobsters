@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
+* [2024-06-28, 12:05:51](https://lobste.rs/s/tiw3mz/mix_testing_revealing_new_class_compiler) - [Mix-testing: revealing a new class of compiler bugs](https://johnwickerson.wordpress.com/2024/06/28/mix-testing-revealing-a-new-class-of-compiler-bugs/)
 * [2024-06-28, 10:39:30](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend)
 * [2024-06-28, 03:26:32](https://lobste.rs/s/mauzqd/how_much_memory_does_call_malloc) - [How much memory does a call to ‘malloc’  allocates?](https://lemire.me/blog/2024/06/27/how-much-memory-does-a-call-to-malloc-allocates/)
 * [2024-06-28, 03:24:47](https://lobste.rs/s/2a4ncz/hacking_amazon_s_eero_6_part_2) - [Hacking Amazon's eero 6 (part 2)](https://markuta.com/eero-6-hacking-part-2/)
@@ -20,11 +22,9 @@
 * [2024-06-27, 15:41:37](https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused) - [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
 * [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix) - [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
 * [2024-06-27, 12:19:16](https://lobste.rs/s/a42qsz/modern_cryptography_on_nes) - [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
-* [2024-06-27, 11:44:47](https://lobste.rs/s/ra3sgq/how_file_systems_can_change_sequoia_with) - [How file systems can change in Sequoia with FSKit](https://eclecticlight.co/2024/06/26/how-file-systems-can-change-in-sequoia-with-fskit/)
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
-* [2024-06-26, 16:32:44](https://lobste.rs/s/xmpj1p/you_probably_wrote_half_monad_by_accident) - [You probably wrote half a monad by accident](https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/)
 
 ## [Archives](archives/index.md)
 
