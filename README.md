@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-28, 02:05:51](https://lobste.rs/s/918brv/conway_s_game_life_checkboxes_for_some) - [Conway's game of life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 * [2024-06-27, 22:18:35](https://lobste.rs/s/crtrxr/sustaining_digital_certificate) - [Sustaining Digital Certificate Security - Entrust Certificate Distrust](https://security.googleblog.com/2024/06/sustaining-digital-certificate-security.html)
 * [2024-06-27, 20:55:09](https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation) - [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 * [2024-06-27, 19:58:27](https://lobste.rs/s/dij9gs/my_first_kubernetes_k3s_cluster_on_3) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
@@ -8,7 +9,6 @@
 * [2024-06-27, 18:44:51](https://lobste.rs/s/vn45u6/k23_experimental_wasm_microkernel) - [k23: Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 * [2024-06-27, 18:44:34](https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer) - [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 * [2024-06-27, 17:58:28](https://lobste.rs/s/gwav82/better_know_ruby_thing_on_use_private) - [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)
-* [2024-06-27, 17:19:57](https://lobste.rs/s/ze3vam/making_kinopio_source_code_public) - [Making the Kinopio Source Code Public](https://pketh.org/open-sourcing-kinopio.html)
 * [2024-06-27, 17:18:50](https://lobste.rs/s/ezxfwk/smarter_way_rust) - [The Smarter Way to Rust](https://www.kdab.com/the-smarter-way-to-rust/)
 * [2024-06-27, 17:12:07](https://lobste.rs/s/3wpfb2/fighting_faults_distributed_systems) - [Fighting Faults in Distributed Systems](https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf)
 * [2024-06-27, 16:54:32](https://lobste.rs/s/zm8b2d/differential_analysis_summary) - [Differential Analysis: A Summary](https://blog.brownplt.org/2024/06/27/differential-analysis.html)
