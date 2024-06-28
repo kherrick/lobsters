@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-28, 19:09:28](https://lobste.rs/s/chbgts/building_js_engine_for_fun_by_linus_groh) - [Building a JS Engine -- For Fun! by Linus Groh - Video recording - GitNation](https://portal.gitnation.org/contents/building-a-js-engine-for-fun)
 * [2024-06-28, 18:28:54](https://lobste.rs/s/avzdca/making_regex_from_scratch_go) - [making regex from scratch in GO](https://lewismetcalf.com/series/making-regex-from-scratch-in-go/)
 * [2024-06-28, 13:11:59](https://lobste.rs/s/yrswy0/what_actual_purpose_do_accent_characters) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
 * [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
@@ -17,7 +18,6 @@
 * [2024-06-27, 18:44:34](https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer) - [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 * [2024-06-27, 17:58:28](https://lobste.rs/s/gwav82/better_know_ruby_thing_on_use_private) - [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)
 * [2024-06-27, 16:48:51](https://lobste.rs/s/pw1ei3/long_term_curl_versions) - [long term curl versions](https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/)
-* [2024-06-27, 16:46:09](https://lobste.rs/s/vicc3w/from_zerover_semver_comprehensive_list) - [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
 * [2024-06-27, 15:43:03](https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3) - [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
 * [2024-06-27, 15:41:37](https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused) - [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
 * [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix) - [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
