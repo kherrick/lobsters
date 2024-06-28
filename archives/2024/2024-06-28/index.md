@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 20:31:10](https://lobste.rs/s/m3z6xg/code_movie_automatically_turn_code) - [code.movie Automatically turn code snippets into step-by-step animations for the web](https://code.movie/)
 * [2024-06-28, 19:59:06](https://lobste.rs/s/st0oqz/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/)
 * [2024-06-28, 19:53:57](https://lobste.rs/s/14d2ib/hacking_amazon_s_eero_6_part_1) - [Hacking Amazon's eero 6 (part 1)](https://markuta.com/eero-6-hacking-part-1/)
 * [2024-06-28, 19:09:28](https://lobste.rs/s/chbgts/building_js_engine_for_fun_by_linus_groh) - [Building a JS Engine -- For Fun! by Linus Groh - Video recording - GitNation](https://portal.gitnation.org/contents/building-a-js-engine-for-fun)
