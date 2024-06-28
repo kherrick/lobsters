@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-28, 12:37:20](https://lobste.rs/s/qp5wth/how_evolve_product) - [How to evolve a product](https://www.granola.so/blog/how-to-evolve-a-product)
+* [2024-06-28, 13:11:59](https://lobste.rs/s/yrswy0/what_actual_purpose_do_accent_characters) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
+* [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
 * [2024-06-28, 12:32:52](https://lobste.rs/s/lrm8qi/modern_good_practices_for_python) - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
 * [2024-06-28, 12:05:51](https://lobste.rs/s/tiw3mz/mix_testing_revealing_new_class_compiler) - [Mix-testing: revealing a new class of compiler bugs](https://johnwickerson.wordpress.com/2024/06/28/mix-testing-revealing-a-new-class-of-compiler-bugs/)
@@ -12,7 +13,6 @@
 * [2024-06-27, 20:55:09](https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation) - [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
 * [2024-06-27, 19:58:27](https://lobste.rs/s/dij9gs/my_first_kubernetes_k3s_cluster_on_3) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
 * [2024-06-27, 18:59:57](https://lobste.rs/s/jxybyd/relational_algebra_primer) - [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
-* [2024-06-27, 18:54:15](https://lobste.rs/s/3siv6d/make_prediction) - [Make a Prediction](https://www.jakeworth.com/posts/make-a-prediction/)
 * [2024-06-27, 18:44:51](https://lobste.rs/s/vn45u6/k23_experimental_wasm_microkernel) - [k23: Experimental WASM Microkernel Operating System](https://github.com/JonasKruckenberg/k23)
 * [2024-06-27, 18:44:34](https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer) - [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 * [2024-06-27, 17:58:28](https://lobste.rs/s/gwav82/better_know_ruby_thing_on_use_private) - [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)

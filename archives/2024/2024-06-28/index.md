@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 13:11:59](https://lobste.rs/s/yrswy0/what_actual_purpose_do_accent_characters) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
+* [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
 * [2024-06-28, 12:37:20](https://lobste.rs/s/qp5wth/how_evolve_product) - [How to evolve a product](https://www.granola.so/blog/how-to-evolve-a-product)
 * [2024-06-28, 12:32:52](https://lobste.rs/s/lrm8qi/modern_good_practices_for_python) - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
