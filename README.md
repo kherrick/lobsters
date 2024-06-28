@@ -21,7 +21,7 @@
 * [2024-06-27, 18:59:57](https://lobste.rs/s/jxybyd/relational_algebra_primer) - [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
 * [2024-06-27, 18:44:34](https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer) - [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 * [2024-06-27, 17:58:28](https://lobste.rs/s/gwav82/better_know_ruby_thing_on_use_private) - [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)
-* [2024-06-27, 15:41:37](https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused) - [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
+* [2024-06-27, 15:43:03](https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3) - [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
 * [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix) - [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
