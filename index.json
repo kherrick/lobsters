@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-06-27, 17:19:57",
+      "https://lobste.rs/s/ze3vam/making_kinopio_source_code_public"
+    ],
+    [
+      "Making the Kinopio Source Code Public",
+      "https://pketh.org/open-sourcing-kinopio.html"
+    ]
+  ],
+  [
+    [
       "2024-06-27, 17:18:50",
       "https://lobste.rs/s/ezxfwk/smarter_way_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "You probably wrote half a monad by accident",
       "https://gieseanw.wordpress.com/2024/06/25/you-probably-wrote-half-a-monad-by-accident/"
-    ]
-  ],
-  [
-    [
-      "2024-06-26, 14:23:57",
-      "https://lobste.rs/s/kvqpan/what_is_self_hosted_what_is_stack"
-    ],
-    [
-      "What is Self Hosted? What is a Stack?",
-      "https://lucumr.pocoo.org/2024/6/26/what-is-self-hosted/"
     ]
   ]
 ]
