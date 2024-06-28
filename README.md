@@ -2,6 +2,7 @@
 
 * [2024-06-28, 13:11:59](https://lobste.rs/s/yrswy0/what_actual_purpose_do_accent_characters) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
 * [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
+* [2024-06-28, 12:37:20](https://lobste.rs/s/qp5wth/how_evolve_product) - [How to evolve a product](https://www.granola.so/blog/how-to-evolve-a-product)
 * [2024-06-28, 12:32:52](https://lobste.rs/s/lrm8qi/modern_good_practices_for_python) - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
 * [2024-06-28, 12:05:51](https://lobste.rs/s/tiw3mz/mix_testing_revealing_new_class_compiler) - [Mix-testing: revealing a new class of compiler bugs](https://johnwickerson.wordpress.com/2024/06/28/mix-testing-revealing-a-new-class-of-compiler-bugs/)
@@ -21,7 +22,6 @@
 * [2024-06-27, 15:43:03](https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3) - [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
 * [2024-06-27, 15:41:37](https://lobste.rs/s/7pjoit/linguist_translate_privacy_focused) - [Linguist Translate, a privacy focused offline translation in your browser](https://linguister.io/)
 * [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix) - [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
-* [2024-06-27, 12:19:16](https://lobste.rs/s/a42qsz/modern_cryptography_on_nes) - [Modern cryptography on the NES](https://sgadrat.itch.io/super-tilt-bro/devlog/729390/modern-cryptography-on-the-nes)
 * [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 * [2024-06-26, 17:44:19](https://lobste.rs/s/saqp6t/comments_on_scripting_cgi_fastcgi) - [Comments on Scripting, CGI, and FastCGI](https://www.oilshell.org/blog/2024/06/cgi.html)
