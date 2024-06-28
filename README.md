@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-28, 10:39:30](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend)
 * [2024-06-28, 03:26:32](https://lobste.rs/s/mauzqd/how_much_memory_does_call_malloc) - [How much memory does a call to ‘malloc’  allocates?](https://lemire.me/blog/2024/06/27/how-much-memory-does-a-call-to-malloc-allocates/)
 * [2024-06-28, 03:24:47](https://lobste.rs/s/2a4ncz/hacking_amazon_s_eero_6_part_2) - [Hacking Amazon's eero 6 (part 2)](https://markuta.com/eero-6-hacking-part-2/)
 * [2024-06-28, 02:23:46](https://lobste.rs/s/rdswin/scala_3_is_yaml_scala) - [scala-3-is-yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
@@ -13,7 +14,6 @@
 * [2024-06-27, 18:44:34](https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer) - [CVE-2024-5535: `SSL_select_next_proto` buffer overread](https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html)
 * [2024-06-27, 17:58:28](https://lobste.rs/s/gwav82/better_know_ruby_thing_on_use_private) - [Better Know A Ruby Thing: On The Use of Private Methods](https://noelrappin.com/blog/2024/06/better-know-access-control-part-2/)
 * [2024-06-27, 17:12:07](https://lobste.rs/s/3wpfb2/fighting_faults_distributed_systems) - [Fighting Faults in Distributed Systems](https://decomposition.al/CSE138-2024-01/zines/zine-ali.pdf)
-* [2024-06-27, 16:54:32](https://lobste.rs/s/zm8b2d/differential_analysis_summary) - [Differential Analysis: A Summary](https://blog.brownplt.org/2024/06/27/differential-analysis.html)
 * [2024-06-27, 16:48:51](https://lobste.rs/s/pw1ei3/long_term_curl_versions) - [long term curl versions](https://daniel.haxx.se/blog/2024/06/27/long-term-curl-versions/)
 * [2024-06-27, 16:46:09](https://lobste.rs/s/vicc3w/from_zerover_semver_comprehensive_list) - [From ZeroVer to SemVer: A Comprehensive List of Versioning Schemes in Open Source](https://nesbitt.io/2024/06/24/from-zerover-to-semver-a-comprehensive-list-of-versioning-schemes-in-open-source.html)
 * [2024-06-27, 15:43:03](https://lobste.rs/s/kxwws1/netboot_pxe_armbian_on_orange_pi_zero_3) - [Netboot (PXE) Armbian on an Orange Pi Zero 3 from SPI with NFS root filesystem](https://raymii.org/s/tutorials/Netboot_PXE_Armbian_on_an_Orange_Pi_Zero_3_from_SPI_with_NFS_root_filesystem.html)
