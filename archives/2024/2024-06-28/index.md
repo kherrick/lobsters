@@ -4,10 +4,12 @@
 
 ### [Archives](../../index.md) for [2024-06-28](index.md)
 
+* [2024-06-28, 20:41:36](https://lobste.rs/s/pqhwph/keeping_things_sync_derive_vs_test) - [Keeping things in sync: derive vs test](https://lukeplant.me.uk/blog/posts/keeping-things-in-sync-derive-vs-test/)
 * [2024-06-28, 20:31:10](https://lobste.rs/s/m3z6xg/code_movie_automatically_turn_code) - [code.movie Automatically turn code snippets into step-by-step animations for the web](https://code.movie/)
 * [2024-06-28, 19:59:06](https://lobste.rs/s/st0oqz/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/)
 * [2024-06-28, 19:53:57](https://lobste.rs/s/14d2ib/hacking_amazon_s_eero_6_part_1) - [Hacking Amazon's eero 6 (part 1)](https://markuta.com/eero-6-hacking-part-1/)
 * [2024-06-28, 19:09:28](https://lobste.rs/s/chbgts/building_js_engine_for_fun_by_linus_groh) - [Building a JS Engine -- For Fun! by Linus Groh - Video recording - GitNation](https://portal.gitnation.org/contents/building-a-js-engine-for-fun)
+* [2024-06-28, 19:09:28](https://lobste.rs/s/chbgts/building_js_engine_for_fun) - [Building a JS Engine For Fun](https://portal.gitnation.org/contents/building-a-js-engine-for-fun)
 * [2024-06-28, 18:28:54](https://lobste.rs/s/avzdca/making_regex_from_scratch_go) - [making regex from scratch in GO](https://lewismetcalf.com/series/making-regex-from-scratch-in-go/)
 * [2024-06-28, 14:40:09](https://lobste.rs/s/y4mqsj/grpc_bad_parts) - [gRPC: The Bad Parts](https://kmcd.dev/posts/grpc-the-bad-parts/)
 * [2024-06-28, 13:11:59](https://lobste.rs/s/yrswy0/what_actual_purpose_do_accent_characters) - [What actual purpose do accent characters in ISO-8859-1 and Windows 1252 serve?](https://retrocomputing.stackexchange.com/questions/30261/what-actual-purpose-do-accent-characters-in-iso-8859-1-and-windows-1252-serve)
