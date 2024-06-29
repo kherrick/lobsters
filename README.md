@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-29, 12:21:07](https://lobste.rs/s/lxysd2/semantics_scheduling_for_machine) - [Semantics and Scheduling for Machine Knitting Compilers](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 * [2024-06-29, 11:23:11](https://lobste.rs/s/dqkmiu/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/task.html)
 * [2024-06-29, 11:10:13](https://lobste.rs/s/vix8ez/eulogy_for_devops) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 * [2024-06-29, 11:10:10](https://lobste.rs/s/zk4zpg/bookmark_lists_scoped_tagging) - [Bookmark Lists and Scoped Tagging](https://joshleeb.com/posts/status-update-2024-jun.html)
@@ -23,7 +24,6 @@
 * [2024-06-28, 02:23:46](https://lobste.rs/s/rdswin/scala_3_is_yaml_scala) - [scala-3-is-yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
 * [2024-06-28, 02:05:51](https://lobste.rs/s/918brv/conway_s_game_life_checkboxes_for_some) - [Conway's game of life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 * [2024-06-27, 20:55:09](https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation) - [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
-* [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix) - [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 
 ## [Archives](archives/index.md)
