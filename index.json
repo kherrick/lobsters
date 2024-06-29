@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-29, 23:26:46",
+      "https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them"
+    ],
+    [
+      "Eight versions of UUID and when to use them",
+      "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 21:02:32",
       "https://lobste.rs/s/pk7aml/cve_2021_4440_linux_cna_case_study"
     ],
@@ -167,16 +177,6 @@
     [
       "Hacking Amazon's eero 6 (part 1)",
       "https://markuta.com/eero-6-hacking-part-1/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 19:09:28",
-      "https://lobste.rs/s/chbgts/building_js_engine_for_fun"
-    ],
-    [
-      "Building a JS Engine For Fun",
-      "https://portal.gitnation.org/contents/building-a-js-engine-for-fun"
     ]
   ],
   [
