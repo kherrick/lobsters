@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-29, 11:23:11",
+      "https://lobste.rs/s/dqkmiu/icfp_contest_2024"
+    ],
+    [
+      "ICFP contest 2024",
+      "https://icfpcontest2024.github.io/task.html"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 11:10:13",
       "https://lobste.rs/s/vix8ez/eulogy_for_devops"
     ],
@@ -217,16 +227,6 @@
     [
       "Why Google Sheets ported its calculation worker from JavaScript to WasmGC",
       "https://web.dev/case-studies/google-sheets-wasmgc"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 18:59:57",
-      "https://lobste.rs/s/jxybyd/relational_algebra_primer"
-    ],
-    [
-      "Relational algebra primer",
-      "https://www.relational-algebra.dev/ra-primer/introduction/"
     ]
   ],
   [
