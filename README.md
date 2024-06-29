@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-29, 11:10:13](https://lobste.rs/s/vix8ez/eulogy_for_devops) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
+* [2024-06-29, 11:10:10](https://lobste.rs/s/zk4zpg/bookmark_lists_scoped_tagging) - [Bookmark Lists and Scoped Tagging](https://joshleeb.com/posts/status-update-2024-jun.html)
 * [2024-06-29, 07:28:48](https://lobste.rs/s/xeyjdo/why_you_shouldn_t_use_ai_write_your_tests) - [Why you shouldn't use AI to write your tests](https://swizec.com/blog/why-you-shouldnt-use-ai-to-write-your-tests/)
 * [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)
@@ -20,10 +22,8 @@
 * [2024-06-28, 02:23:46](https://lobste.rs/s/rdswin/scala_3_is_yaml_scala) - [scala-3-is-yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
 * [2024-06-28, 02:05:51](https://lobste.rs/s/918brv/conway_s_game_life_checkboxes_for_some) - [Conway's game of life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 * [2024-06-27, 20:55:09](https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation) - [Why Google Sheets ported its calculation worker from JavaScript to WasmGC](https://web.dev/case-studies/google-sheets-wasmgc)
-* [2024-06-27, 19:58:27](https://lobste.rs/s/dij9gs/my_first_kubernetes_k3s_cluster_on_3) - [My First Kubernetes: k3s 'cluster' on 3 Orange Pi Zero 3's, including the dashboard, hello-node and failover](https://raymii.org/s/tutorials/My_First_Kubernetes_k3s_cluster_on_3_Orange_Pi_Zero_3s_including_k8s_dashboard_hello-node_and_failover.html)
 * [2024-06-27, 18:59:57](https://lobste.rs/s/jxybyd/relational_algebra_primer) - [Relational algebra primer](https://www.relational-algebra.dev/ra-primer/introduction/)
 * [2024-06-27, 15:19:16](https://lobste.rs/s/yh1qls/adding_parallel_evaluation_nix) - [Adding parallel evaluation to Nix](https://determinate.systems/posts/parallel-nix-eval)
-* [2024-06-27, 10:16:50](https://lobste.rs/s/2daqlj/xaes_256_gcm) - [XAES-256-GCM](https://words.filippo.io/dispatches/xaes-256-gcm/)
 * [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 
 ## [Archives](archives/index.md)
