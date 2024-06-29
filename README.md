@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-29, 07:28:48](https://lobste.rs/s/xeyjdo/why_you_shouldn_t_use_ai_write_your_tests) - [Why you shouldn't use AI to write your tests | Swizec Teller](https://swizec.com/blog/why-you-shouldnt-use-ai-to-write-your-tests/)
+* [2024-06-29, 07:28:48](https://lobste.rs/s/xeyjdo/why_you_shouldn_t_use_ai_write_your_tests) - [Why you shouldn't use AI to write your tests](https://swizec.com/blog/why-you-shouldnt-use-ai-to-write-your-tests/)
 * [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)
 * [2024-06-28, 20:41:36](https://lobste.rs/s/pqhwph/keeping_things_sync_derive_vs_test) - [Keeping things in sync: derive vs test](https://lukeplant.me.uk/blog/posts/keeping-things-in-sync-derive-vs-test/)
