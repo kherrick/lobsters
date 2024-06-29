@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-29, 12:56:17",
+      "https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio"
+    ],
+    [
+      "Bytecode Breakdown: Unraveling Factorio's Lua security flaws",
+      "https://memorycorruption.net/posts/rce-lua-factorio/"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 12:21:07",
       "https://lobste.rs/s/lxysd2/semantics_scheduling_for_machine"
     ],
@@ -177,16 +187,6 @@
     [
       "fdrd - a statically hosted feed reader",
       "https://fdrd.mouse.community/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 12:05:51",
-      "https://lobste.rs/s/tiw3mz/mix_testing_revealing_new_class_compiler"
-    ],
-    [
-      "Mix-testing: revealing a new class of compiler bugs",
-      "https://johnwickerson.wordpress.com/2024/06/28/mix-testing-revealing-a-new-class-of-compiler-bugs/"
     ]
   ],
   [
