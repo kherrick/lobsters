@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-29, 20:31:43](https://lobste.rs/s/6pnfko/understanding_frequency_modulation) - [Understanding Frequency Modulation](https://youtube.com/playlist?list=PLUKhEHilRBxQydqw_kiAdAhegPZMgjVCX)
 * [2024-06-29, 18:02:59](https://lobste.rs/s/lub470/jank_gets_multimethods) - [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
 * [2024-06-29, 15:47:39](https://lobste.rs/s/grespr/xml_tokenizer_s_4x_faster_than_stdlib_s_xml) - [XML Tokenizer that's 4x faster than stdlib's XML](https://github.com/muktihari/xmltokenizer)
 * [2024-06-29, 15:44:29](https://lobste.rs/s/qyssdc/software_galaxies) - [Software Galaxies](https://anvaka.github.io/pm/#/?_k=jhqxq8)
@@ -24,7 +25,6 @@
 * [2024-06-28, 10:39:30](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend)
 * [2024-06-28, 02:23:46](https://lobste.rs/s/rdswin/scala_3_is_yaml_scala) - [scala-3-is-yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
 * [2024-06-28, 02:05:51](https://lobste.rs/s/918brv/conway_s_game_life_checkboxes_for_some) - [Conway's game of life, in checkboxes for some reason](https://huth.me/checkbox-life/)
-* [2024-06-27, 09:59:51](https://lobste.rs/s/wnff6n/python_still_surprises) - [Python still surprises](https://kivikakk.ee/2024/06/27/python-still-surprises/)
 
 ## [Archives](archives/index.md)
 
