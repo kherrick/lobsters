@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-29, 15:47:39",
+      "https://lobste.rs/s/grespr/xml_tokenizer_s_4x_faster_than_stdlib_s_xml"
+    ],
+    [
+      "XML Tokenizer that's 4x faster than stdlib's XML",
+      "https://github.com/muktihari/xmltokenizer"
+    ]
+  ],
+  [
+    [
+      "2024-06-29, 15:44:29",
+      "https://lobste.rs/s/qyssdc/software_galaxies"
+    ],
+    [
+      "Software Galaxies",
+      "https://anvaka.github.io/pm/#/?_k=jhqxq8"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 12:56:17",
       "https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-06-28, 12:37:20",
-      "https://lobste.rs/s/qp5wth/how_evolve_product"
-    ],
-    [
-      "How to evolve a product",
-      "https://www.granola.so/blog/how-to-evolve-a-product"
-    ]
-  ],
-  [
-    [
       "2024-06-28, 12:32:52",
       "https://lobste.rs/s/lrm8qi/modern_good_practices_for_python"
     ],
@@ -227,16 +237,6 @@
     [
       "Conway's game of life, in checkboxes for some reason",
       "https://huth.me/checkbox-life/"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 20:55:09",
-      "https://lobste.rs/s/tsmuis/why_google_sheets_ported_its_calculation"
-    ],
-    [
-      "Why Google Sheets ported its calculation worker from JavaScript to WasmGC",
-      "https://web.dev/case-studies/google-sheets-wasmgc"
     ]
   ],
   [
