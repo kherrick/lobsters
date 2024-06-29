@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 15:47:39](https://lobste.rs/s/grespr/xml_tokenizer_s_4x_faster_than_stdlib_s_xml) - [XML Tokenizer that's 4x faster than stdlib's XML](https://github.com/muktihari/xmltokenizer)
+* [2024-06-29, 15:44:29](https://lobste.rs/s/qyssdc/software_galaxies) - [Software Galaxies](https://anvaka.github.io/pm/#/?_k=jhqxq8)
 * [2024-06-29, 12:56:17](https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio) - [Bytecode Breakdown: Unraveling Factorio's Lua security flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 12:21:07](https://lobste.rs/s/lxysd2/semantics_scheduling_for_machine) - [Semantics and Scheduling for Machine Knitting Compilers](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 * [2024-06-29, 11:23:11](https://lobste.rs/s/dqkmiu/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/task.html)
