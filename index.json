@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-29, 06:58:00",
+      "https://lobste.rs/s/zkmldj/chatgpt_is_bullshit"
+    ],
+    [
+      "ChatGPT is bullshit",
+      "https://link.springer.com/article/10.1007/s10676-024-09775-5"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 06:17:13",
       "https://lobste.rs/s/ybs1wm/getstocked_ai_agent_help_you_pay_back_debt"
     ],
@@ -207,16 +217,6 @@
     [
       "Relational algebra primer",
       "https://www.relational-algebra.dev/ra-primer/introduction/"
-    ]
-  ],
-  [
-    [
-      "2024-06-27, 18:44:34",
-      "https://lobste.rs/s/ahkqgx/cve_2024_5535_ssl_select_next_proto_buffer"
-    ],
-    [
-      "CVE-2024-5535: `SSL_select_next_proto` buffer overread",
-      "https://jbp.io/2024/06/27/cve-2024-5535-openssl-memory-safety.html"
     ]
   ],
   [
