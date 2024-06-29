@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-29](index.md)
 
+* [2024-06-29, 18:02:59](https://lobste.rs/s/lub470/jank_gets_multimethods) - [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
 * [2024-06-29, 15:47:39](https://lobste.rs/s/grespr/xml_tokenizer_s_4x_faster_than_stdlib_s_xml) - [XML Tokenizer that's 4x faster than stdlib's XML](https://github.com/muktihari/xmltokenizer)
 * [2024-06-29, 15:44:29](https://lobste.rs/s/qyssdc/software_galaxies) - [Software Galaxies](https://anvaka.github.io/pm/#/?_k=jhqxq8)
 * [2024-06-29, 12:56:17](https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio) - [Bytecode Breakdown: Unraveling Factorio's Lua security flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
