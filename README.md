@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-29, 12:56:17](https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio) - [Bytecode Breakdown: Unraveling Factorio's Lua security flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 12:21:07](https://lobste.rs/s/lxysd2/semantics_scheduling_for_machine) - [Semantics and Scheduling for Machine Knitting Compilers](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 * [2024-06-29, 11:23:11](https://lobste.rs/s/dqkmiu/icfp_contest_2024) - [ICFP contest 2024](https://icfpcontest2024.github.io/task.html)
 * [2024-06-29, 11:10:13](https://lobste.rs/s/vix8ez/eulogy_for_devops) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
@@ -18,7 +19,6 @@
 * [2024-06-28, 12:37:20](https://lobste.rs/s/qp5wth/how_evolve_product) - [How to evolve a product](https://www.granola.so/blog/how-to-evolve-a-product)
 * [2024-06-28, 12:32:52](https://lobste.rs/s/lrm8qi/modern_good_practices_for_python) - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
-* [2024-06-28, 12:05:51](https://lobste.rs/s/tiw3mz/mix_testing_revealing_new_class_compiler) - [Mix-testing: revealing a new class of compiler bugs](https://johnwickerson.wordpress.com/2024/06/28/mix-testing-revealing-a-new-class-of-compiler-bugs/)
 * [2024-06-28, 10:39:30](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend)
 * [2024-06-28, 03:26:32](https://lobste.rs/s/mauzqd/how_much_memory_does_call_malloc) - [How much memory does a call to ‘malloc’  allocates?](https://lemire.me/blog/2024/06/27/how-much-memory-does-a-call-to-malloc-allocates/)
 * [2024-06-28, 02:23:46](https://lobste.rs/s/rdswin/scala_3_is_yaml_scala) - [scala-3-is-yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
