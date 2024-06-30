@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 22:07:47](https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven) - [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
 * [2024-06-30, 21:41:19](https://lobste.rs/s/6ldhkb/experienced_neo_vimmer_s_workflow) - [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/)
 * [2024-06-30, 21:10:37](https://lobste.rs/s/vgshmz/if_feynman_was_teaching_today_simplified) - [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion (Part 1)](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 21:02:55](https://lobste.rs/s/u0rnv3/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
