@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-30, 16:10:24",
+      "https://lobste.rs/s/bdr8am/emacsconf_2024_call_for_participation"
+    ],
+    [
+      "EmacsConf 2024 Call for Participation",
+      "https://emacsconf.org/2024/cfp/"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 14:43:01",
       "https://lobste.rs/s/vm05hy/below_mi_ibm_i_for_hackers"
     ],
@@ -227,16 +237,6 @@
     [
       "POSIX 2024 Changes",
       "https://sortix.org/blog/posix-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 19:59:06",
-      "https://lobste.rs/s/st0oqz/timeseries_indexing_at_scale"
-    ],
-    [
-      "Timeseries Indexing at Scale",
-      "https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/"
     ]
   ],
   [
