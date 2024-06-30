@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-30, 22:34:20](https://lobste.rs/s/rgg7zh/playing_1080p_h_264_video_on_my_old_256_mb) - [Playing 1080p H.264 video on my old 256 MB Raspberry Pi](https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/)
 * [2024-06-30, 22:07:47](https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven) - [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
 * [2024-06-30, 21:41:19](https://lobste.rs/s/6ldhkb/experienced_neo_vimmer_s_workflow) - [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/)
 * [2024-06-30, 21:10:37](https://lobste.rs/s/vgshmz/if_feynman_was_teaching_today_simplified) - [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion (Part 1)](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
@@ -22,7 +23,6 @@
 * [2024-06-29, 21:02:32](https://lobste.rs/s/pk7aml/cve_2021_4440_linux_cna_case_study) - [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 * [2024-06-29, 18:02:59](https://lobste.rs/s/lub470/jank_gets_multimethods) - [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
 * [2024-06-29, 12:56:17](https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio) - [Bytecode Breakdown: Unraveling Factorio's Lua security flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
-* [2024-06-29, 11:10:13](https://lobste.rs/s/vix8ez/eulogy_for_devops) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 * [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)
 
