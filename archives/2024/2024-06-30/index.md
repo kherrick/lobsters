@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 09:16:39](https://lobste.rs/s/hkhynh/state_email_by_michael_lucas) - [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
 * [2024-06-30, 04:15:28](https://lobste.rs/s/f8ctoo/getting_up_running_with_multi_arch) - [Getting up and running with multi-arch Kubernetes clusters (2021)](https://cablespaghetti.dev/2021/02/20/managing-multi-arch-kubernetes-clusters/)
 * [2024-06-30, 02:06:26](https://lobste.rs/s/kpawn8/quick_introduction_directx_workgraphs) - [A quick introduction to DirectX workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 * [2024-06-30, 01:30:02](https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles) - [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)

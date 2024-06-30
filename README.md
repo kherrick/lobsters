@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-30, 09:16:39](https://lobste.rs/s/hkhynh/state_email_by_michael_lucas) - [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
 * [2024-06-30, 04:15:28](https://lobste.rs/s/f8ctoo/getting_up_running_with_multi_arch) - [Getting up and running with multi-arch Kubernetes clusters (2021)](https://cablespaghetti.dev/2021/02/20/managing-multi-arch-kubernetes-clusters/)
 * [2024-06-30, 02:06:26](https://lobste.rs/s/kpawn8/quick_introduction_directx_workgraphs) - [A quick introduction to DirectX workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 * [2024-06-30, 01:30:02](https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles) - [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)
@@ -20,7 +21,6 @@
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)
 * [2024-06-28, 20:31:10](https://lobste.rs/s/m3z6xg/code_movie_automatically_turn_code) - [code.movie Automatically turn code snippets into step-by-step animations for the web](https://code.movie/)
 * [2024-06-28, 19:59:06](https://lobste.rs/s/st0oqz/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/)
-* [2024-06-28, 19:53:57](https://lobste.rs/s/14d2ib/hacking_amazon_s_eero_6_part_1) - [Hacking Amazon's eero 6 (part 1)](https://markuta.com/eero-6-hacking-part-1/)
 * [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
 * [2024-06-28, 12:32:52](https://lobste.rs/s/lrm8qi/modern_good_practices_for_python) - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
