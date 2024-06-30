@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-06-30, 13:22:57](https://lobste.rs/s/cvxriz/early_review_watchy_3_0_it_s_worse_then_bad) - [Early review of the Watchy 3.0 - It's worse then bad. It's unacceptable](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md)
 * [2024-06-30, 12:18:24](https://lobste.rs/s/eg4fov/more_ms_os_2_2_0) - [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
 * [2024-06-30, 12:11:44](https://lobste.rs/s/nr1van/weekend_projects_getting_silly_with_c) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 09:16:39](https://lobste.rs/s/hkhynh/state_email_by_michael_lucas) - [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
@@ -22,6 +21,7 @@
 * [2024-06-29, 07:28:48](https://lobste.rs/s/xeyjdo/why_you_shouldn_t_use_ai_write_your_tests) - [Why you shouldn't use AI to write your tests](https://swizec.com/blog/why-you-shouldnt-use-ai-to-write-your-tests/)
 * [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)
+* [2024-06-28, 20:31:10](https://lobste.rs/s/m3z6xg/code_movie_automatically_turn_code) - [code.movie Automatically turn code snippets into step-by-step animations for the web](https://code.movie/)
 * [2024-06-28, 19:59:06](https://lobste.rs/s/st0oqz/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/)
 * [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
 * [2024-06-28, 12:32:52](https://lobste.rs/s/lrm8qi/modern_good_practices_for_python) - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
