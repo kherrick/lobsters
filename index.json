@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-06-30, 21:10:37",
+      "https://lobste.rs/s/vgshmz/if_feynman_was_teaching_today_simplified"
+    ],
+    [
+      "If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion (Part 1)",
+      "https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle"
+    ]
+  ],
+  [
+    [
+      "2024-06-30, 21:02:55",
+      "https://lobste.rs/s/u0rnv3/largest_number_representable_64_bits"
+    ],
+    [
+      "The largest number representable in 64 bits",
+      "https://tromp.github.io/blog/2023/11/24/largest-number"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 17:58:24",
       "https://lobste.rs/s/dng1rf/imhex_display_decode_analyze_binary_data"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-06-30, 02:06:26",
-      "https://lobste.rs/s/kpawn8/quick_introduction_directx_workgraphs"
-    ],
-    [
-      "A quick introduction to DirectX workgraphs",
-      "https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/"
-    ]
-  ],
-  [
-    [
       "2024-06-30, 01:30:02",
       "https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles"
     ],
@@ -207,16 +217,6 @@
     [
       "Bytecode Breakdown: Unraveling Factorio's Lua security flaws",
       "https://memorycorruption.net/posts/rce-lua-factorio/"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 12:21:07",
-      "https://lobste.rs/s/lxysd2/semantics_scheduling_for_machine"
-    ],
-    [
-      "Semantics and Scheduling for Machine Knitting Compilers",
-      "https://textiles-lab.github.io/publications/2023-knitout-semantics/"
     ]
   ],
   [
