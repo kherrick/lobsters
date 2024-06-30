@@ -21,10 +21,10 @@
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)
 * [2024-06-28, 20:31:10](https://lobste.rs/s/m3z6xg/code_movie_automatically_turn_code) - [code.movie Automatically turn code snippets into step-by-step animations for the web](https://code.movie/)
 * [2024-06-28, 19:59:06](https://lobste.rs/s/st0oqz/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/)
+* [2024-06-28, 19:53:57](https://lobste.rs/s/14d2ib/hacking_amazon_s_eero_6_part_1) - [Hacking Amazon's eero 6 (part 1)](https://markuta.com/eero-6-hacking-part-1/)
 * [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
 * [2024-06-28, 12:32:52](https://lobste.rs/s/lrm8qi/modern_good_practices_for_python) - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
-* [2024-06-28, 02:05:51](https://lobste.rs/s/918brv/conway_s_game_life_checkboxes_for_some) - [Conway's game of life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 
 ## [Archives](archives/index.md)
 
