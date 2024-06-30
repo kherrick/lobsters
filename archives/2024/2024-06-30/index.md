@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 22:41:38](https://lobste.rs/s/tlwjgu/plaintext_is_not_great_format_for_system) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
 * [2024-06-30, 22:34:20](https://lobste.rs/s/rgg7zh/playing_1080p_h_264_video_on_my_old_256_mb) - [Playing 1080p H.264 video on my old 256 MB Raspberry Pi](https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/)
 * [2024-06-30, 22:07:47](https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven) - [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
 * [2024-06-30, 21:41:19](https://lobste.rs/s/6ldhkb/experienced_neo_vimmer_s_workflow) - [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/)
