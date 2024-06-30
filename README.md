@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-30, 16:10:24](https://lobste.rs/s/bdr8am/emacsconf_2024_call_for_participation) - [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
 * [2024-06-30, 14:43:01](https://lobste.rs/s/vm05hy/below_mi_ibm_i_for_hackers) - [Below MI - IBM i for Hackers](https://silentsignal.github.io/BelowMI/)
 * [2024-06-30, 14:34:03](https://lobste.rs/s/66ryon/unexpected_journey_into_microsoft) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 14:33:38](https://lobste.rs/s/wuwa1k/life_lil) - [The Life of Lil](https://beyondloom.com/blog/life.html)
@@ -23,7 +24,6 @@
 * [2024-06-29, 07:28:48](https://lobste.rs/s/xeyjdo/why_you_shouldn_t_use_ai_write_your_tests) - [Why you shouldn't use AI to write your tests](https://swizec.com/blog/why-you-shouldnt-use-ai-to-write-your-tests/)
 * [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)
-* [2024-06-28, 19:59:06](https://lobste.rs/s/st0oqz/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/)
 * [2024-06-28, 12:58:24](https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring) - [Serving a billion web requests with boring code](https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html)
 
 ## [Archives](archives/index.md)
