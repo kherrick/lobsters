@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-30, 21:10:37](https://lobste.rs/s/vgshmz/if_feynman_was_teaching_today_simplified) - [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion (Part 1)](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
+* [2024-06-30, 21:02:55](https://lobste.rs/s/u0rnv3/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2024-06-30, 17:58:24](https://lobste.rs/s/dng1rf/imhex_display_decode_analyze_binary_data) - [ImHex: display, decode and analyze binary data to reverse engineer their format, extract informations or patch values](https://imhex.werwolv.net/)
 * [2024-06-30, 17:42:25](https://lobste.rs/s/bbntql/understanding_react_compiler) - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 * [2024-06-30, 17:32:56](https://lobste.rs/s/hbmqv8/ed_1_semantics) - [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
@@ -13,7 +15,6 @@
 * [2024-06-30, 12:18:24](https://lobste.rs/s/eg4fov/more_ms_os_2_2_0) - [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
 * [2024-06-30, 12:11:44](https://lobste.rs/s/nr1van/weekend_projects_getting_silly_with_c) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 09:16:39](https://lobste.rs/s/hkhynh/state_email_by_michael_lucas) - [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
-* [2024-06-30, 02:06:26](https://lobste.rs/s/kpawn8/quick_introduction_directx_workgraphs) - [A quick introduction to DirectX workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 * [2024-06-30, 01:30:02](https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles) - [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)
 * [2024-06-29, 23:26:46](https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them) - [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
 * [2024-06-29, 21:02:32](https://lobste.rs/s/pk7aml/cve_2021_4440_linux_cna_case_study) - [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
@@ -21,7 +22,6 @@
 * [2024-06-29, 18:02:59](https://lobste.rs/s/lub470/jank_gets_multimethods) - [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
 * [2024-06-29, 15:47:39](https://lobste.rs/s/grespr/xml_tokenizer_s_4x_faster_than_stdlib_s_xml) - [XML Tokenizer that's 4x faster than stdlib's XML](https://github.com/muktihari/xmltokenizer)
 * [2024-06-29, 12:56:17](https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio) - [Bytecode Breakdown: Unraveling Factorio's Lua security flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
-* [2024-06-29, 12:21:07](https://lobste.rs/s/lxysd2/semantics_scheduling_for_machine) - [Semantics and Scheduling for Machine Knitting Compilers](https://textiles-lab.github.io/publications/2023-knitout-semantics/)
 * [2024-06-29, 11:10:13](https://lobste.rs/s/vix8ez/eulogy_for_devops) - [A Eulogy for DevOps](https://matduggan.com/a-eulogy-for-devops/)
 * [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)

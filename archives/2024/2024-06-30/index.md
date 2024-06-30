@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 21:10:37](https://lobste.rs/s/vgshmz/if_feynman_was_teaching_today_simplified) - [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion (Part 1)](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
+* [2024-06-30, 21:02:55](https://lobste.rs/s/u0rnv3/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2024-06-30, 17:58:24](https://lobste.rs/s/dng1rf/imhex_display_decode_analyze_binary_data) - [ImHex: display, decode and analyze binary data to reverse engineer their format, extract informations or patch values](https://imhex.werwolv.net/)
 * [2024-06-30, 17:42:25](https://lobste.rs/s/bbntql/understanding_react_compiler) - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 * [2024-06-30, 17:32:56](https://lobste.rs/s/hbmqv8/ed_1_semantics) - [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
