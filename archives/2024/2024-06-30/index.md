@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 14:43:01](https://lobste.rs/s/vm05hy/below_mi_ibm_i_for_hackers) - [Below MI - IBM i for Hackers](https://silentsignal.github.io/BelowMI/)
 * [2024-06-30, 14:34:03](https://lobste.rs/s/66ryon/unexpected_journey_into_microsoft) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 14:33:38](https://lobste.rs/s/wuwa1k/life_lil) - [The Life of Lil](https://beyondloom.com/blog/life.html)
 * [2024-06-30, 13:22:57](https://lobste.rs/s/cvxriz/early_review_watchy_3_0_it_s_worse_then_bad) - [Early review of the Watchy 3.0 - It's worse then bad. It's unacceptable](https://github.com/Szybet/WatchySourcingHub/blob/main/Watchy%203.0%20review.md)
