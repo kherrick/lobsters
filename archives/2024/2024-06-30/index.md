@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-06-30](index.md)
 
+* [2024-06-30, 17:06:15](https://lobste.rs/s/nlhgyp/inside_1_dollar_radar_motion_sensor) - [Inside a 1 dollar radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-30, 16:37:57](https://lobste.rs/s/lb9urk/how_get_root_access_your_sleep_number_bed) - [How to Get Root Access to Your Sleep Number Bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 16:10:24](https://lobste.rs/s/bdr8am/emacsconf_2024_call_for_participation) - [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
 * [2024-06-30, 14:43:01](https://lobste.rs/s/vm05hy/below_mi_ibm_i_for_hackers) - [Below MI - IBM i for Hackers](https://silentsignal.github.io/BelowMI/)

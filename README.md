@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-30, 17:06:15](https://lobste.rs/s/nlhgyp/inside_1_dollar_radar_motion_sensor) - [Inside a 1 dollar radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-30, 16:37:57](https://lobste.rs/s/lb9urk/how_get_root_access_your_sleep_number_bed) - [How to Get Root Access to Your Sleep Number Bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 16:10:24](https://lobste.rs/s/bdr8am/emacsconf_2024_call_for_participation) - [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
 * [2024-06-30, 14:43:01](https://lobste.rs/s/vm05hy/below_mi_ibm_i_for_hackers) - [Below MI - IBM i for Hackers](https://silentsignal.github.io/BelowMI/)
@@ -10,7 +11,6 @@
 * [2024-06-30, 09:16:39](https://lobste.rs/s/hkhynh/state_email_by_michael_lucas) - [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
 * [2024-06-30, 02:06:26](https://lobste.rs/s/kpawn8/quick_introduction_directx_workgraphs) - [A quick introduction to DirectX workgraphs](https://interplayoflight.wordpress.com/2024/06/29/a-quick-introduction-to-workgraphs/)
 * [2024-06-30, 01:30:02](https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles) - [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)
-* [2024-06-30, 00:57:32](https://lobste.rs/s/wvmn7u/structured_approach_custom_properties) - [A Structured Approach to Custom Properties](https://keithjgrant.com/posts/2024/06/a-structured-approach-to-custom-properties/)
 * [2024-06-29, 23:26:46](https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them) - [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
 * [2024-06-29, 21:02:32](https://lobste.rs/s/pk7aml/cve_2021_4440_linux_cna_case_study) - [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 * [2024-06-29, 20:31:43](https://lobste.rs/s/6pnfko/understanding_frequency_modulation) - [Understanding Frequency Modulation](https://youtube.com/playlist?list=PLUKhEHilRBxQydqw_kiAdAhegPZMgjVCX)
