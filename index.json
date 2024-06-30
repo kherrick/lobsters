@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-06-30, 17:16:02",
+      "https://lobste.rs/s/wtzcw0/proxy_proxy_proxyer_getting_around"
+    ],
+    [
+      "proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them",
+      "https://github.com/virchau13/proxy-proxy-proxyer/"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 17:06:15",
       "https://lobste.rs/s/nlhgyp/inside_1_dollar_radar_motion_sensor"
     ],
@@ -237,16 +247,6 @@
     [
       "POSIX 2024 Changes",
       "https://sortix.org/blog/posix-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-06-28, 12:58:24",
-      "https://lobste.rs/s/icigm4/serving_billion_web_requests_with_boring"
-    ],
-    [
-      "Serving a billion web requests with boring code",
-      "https://notes.billmill.org/blog/2024/06/Serving_a_billion_web_requests_with_boring_code.html"
     ]
   ]
 ]
