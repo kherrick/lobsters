@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-06-30, 01:30:02](https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles) - [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)
+* [2024-06-30, 00:57:32](https://lobste.rs/s/wvmn7u/structured_approach_custom_properties) - [A Structured Approach to Custom Properties](https://keithjgrant.com/posts/2024/06/a-structured-approach-to-custom-properties/)
 * [2024-06-29, 23:26:46](https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them) - [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
 * [2024-06-29, 21:02:32](https://lobste.rs/s/pk7aml/cve_2021_4440_linux_cna_case_study) - [CVE-2021-4440: A Linux CNA Case Study](https://grsecurity.net/cve-2021-4440_linux_cna_case_study)
 * [2024-06-29, 20:31:43](https://lobste.rs/s/6pnfko/understanding_frequency_modulation) - [Understanding Frequency Modulation](https://youtube.com/playlist?list=PLUKhEHilRBxQydqw_kiAdAhegPZMgjVCX)
@@ -14,7 +16,6 @@
 * [2024-06-29, 07:28:48](https://lobste.rs/s/xeyjdo/why_you_shouldn_t_use_ai_write_your_tests) - [Why you shouldn't use AI to write your tests](https://swizec.com/blog/why-you-shouldnt-use-ai-to-write-your-tests/)
 * [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 * [2024-06-29, 01:53:44](https://lobste.rs/s/1wohaz/posix_2024_changes) - [POSIX 2024 Changes](https://sortix.org/blog/posix-2024/)
-* [2024-06-28, 20:41:36](https://lobste.rs/s/pqhwph/keeping_things_sync_derive_vs_test) - [Keeping things in sync: derive vs test](https://lukeplant.me.uk/blog/posts/keeping-things-in-sync-derive-vs-test/)
 * [2024-06-28, 20:31:10](https://lobste.rs/s/m3z6xg/code_movie_automatically_turn_code) - [code.movie Automatically turn code snippets into step-by-step animations for the web](https://code.movie/)
 * [2024-06-28, 19:59:06](https://lobste.rs/s/st0oqz/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://www.datadoghq.com/blog/engineering/timeseries-indexing-at-scale/)
 * [2024-06-28, 19:53:57](https://lobste.rs/s/14d2ib/hacking_amazon_s_eero_6_part_1) - [Hacking Amazon's eero 6 (part 1)](https://markuta.com/eero-6-hacking-part-1/)
@@ -23,7 +24,6 @@
 * [2024-06-28, 12:32:52](https://lobste.rs/s/lrm8qi/modern_good_practices_for_python) - [Modern Good Practices for Python Development](https://www.stuartellis.name/articles/python-modern-practices/)
 * [2024-06-28, 12:20:06](https://lobste.rs/s/3ukfhc/fdrd_statically_hosted_feed_reader) - [fdrd - a statically hosted feed reader](https://fdrd.mouse.community/)
 * [2024-06-28, 10:39:30](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cekcfw/what_are_you_doing_this_weekend)
-* [2024-06-28, 02:23:46](https://lobste.rs/s/rdswin/scala_3_is_yaml_scala) - [scala-3-is-yaml.scala](https://gist.github.com/igstan/92fc3b12156f7f9e2df617a647deb701)
 * [2024-06-28, 02:05:51](https://lobste.rs/s/918brv/conway_s_game_life_checkboxes_for_some) - [Conway's game of life, in checkboxes for some reason](https://huth.me/checkbox-life/)
 
 ## [Archives](archives/index.md)
