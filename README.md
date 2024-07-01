@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 13:15:13](https://lobste.rs/s/4mnch6/pwr_paced_web_reader) - [pwr - paced web reader](https://muxup.com/pwr)
 * [2024-07-01, 12:51:50](https://lobste.rs/s/nq1gxz/i_spent_18_months_rebuilding_my) - [I spent 18 months rebuilding my algorithmic trading platform in Rust. I’m filled with regret](https://medium.com/@austin-starks/i-spent-18-months-rebuilding-my-algorithmic-trading-in-rust-im-filled-with-regret-d300dcc147e0)
 * [2024-07-01, 12:01:33](https://lobste.rs/s/zypndg/vignettes_on_language_evolution) - [Vignettes on language evolution: discovering an old syntax feature history](https://zverok.space/blog/2024-07-01-optional-args.html)
 * [2024-07-01, 11:43:39](https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
@@ -13,7 +14,6 @@
 * [2024-07-01, 06:15:09](https://lobste.rs/s/kfunkr/grafana_security_update_grafana_loki) - [Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets](https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/)
 * [2024-07-01, 05:22:59](https://lobste.rs/s/xaobva/better_merge_workflow_with_jujutsu) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 03:25:02](https://lobste.rs/s/myfkbt/four_lines_code_it_was_four_lines_code) - [Four lines of code … it was four lines of code](https://boston.conman.org/2024/06/30.1)
-* [2024-07-01, 01:48:43](https://lobste.rs/s/a1ejf7/smoothmq_drop_replacement_for_sqs) - [SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency](https://github.com/poundifdef/SmoothMQ)
 * [2024-06-30, 22:41:38](https://lobste.rs/s/tlwjgu/plaintext_is_not_great_format_for_system) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
 * [2024-06-30, 22:34:20](https://lobste.rs/s/rgg7zh/playing_1080p_h_264_video_on_my_old_256_mb) - [Playing 1080p H.264 video on my old 256 MB Raspberry Pi](https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/)
 * [2024-06-30, 22:07:47](https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven) - [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
