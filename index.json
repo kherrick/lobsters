@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-01, 01:48:43",
+      "https://lobste.rs/s/a1ejf7/smoothmq_drop_replacement_for_sqs"
+    ],
+    [
+      "SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency",
+      "https://github.com/poundifdef/SmoothMQ"
+    ]
+  ],
+  [
+    [
       "2024-06-30, 22:41:38",
       "https://lobste.rs/s/tlwjgu/plaintext_is_not_great_format_for_system"
     ],
@@ -207,16 +217,6 @@
     [
       "Eight versions of UUID and when to use them",
       "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 21:02:32",
-      "https://lobste.rs/s/pk7aml/cve_2021_4440_linux_cna_case_study"
-    ],
-    [
-      "CVE-2021-4440: A Linux CNA Case Study",
-      "https://grsecurity.net/cve-2021-4440_linux_cna_case_study"
     ]
   ],
   [
