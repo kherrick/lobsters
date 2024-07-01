@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-01, 10:10:04",
+      "https://lobste.rs/s/qek1g6/one_year_postgresql_instead_oracle"
+    ],
+    [
+      "One Year PostgreSQL instead of Oracle (German with Google Translate)",
+      "https://techstories-dbsystel-de.translate.goog//blog/2024/2024-02-07-Ein-Jahr-PostgreSQL-statt-Oracle-Das-Leben-danach.html?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 08:42:31",
       "https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc"
     ],
@@ -237,16 +247,6 @@
     [
       "Weekend projects: getting silly with C",
       "https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 23:26:46",
-      "https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them"
-    ],
-    [
-      "Eight versions of UUID and when to use them",
-      "https://ntietz.com/blog/til-uses-for-the-different-uuid-versions"
     ]
   ]
 ]
