@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 22:45:57](https://lobste.rs/s/8mzfmj/improving_your_zig_language_server) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
 * [2024-07-01, 22:17:41](https://lobste.rs/s/kcijdq/speech_text_text_speech_speaker) - [Speech-to-text, Text-to-speech, and Speaker recognition on device](https://github.com/k2-fsa/sherpa-onnx)
 * [2024-07-01, 20:33:02](https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together) - [CRCs and Reed-Solomon coding: better together](https://mazzo.li/posts/rs-crc.html)
 * [2024-07-01, 19:28:16](https://lobste.rs/s/tn7oj0/psycopg_3_2_released) - [Psycopg 3.2 released](https://www.psycopg.org/articles/2024/06/30/psycopg-32-released/)
