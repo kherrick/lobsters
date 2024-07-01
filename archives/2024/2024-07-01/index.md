@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 08:04:46](https://lobste.rs/s/223plw/cubernetes) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 07:03:41](https://lobste.rs/s/26gyh5/elaboration_postgresql_sort_cost_model) - [Elaboration of the PostgreSQL sort cost model](https://danolivo.substack.com/p/elaboration-of-the-postgresql-sort)

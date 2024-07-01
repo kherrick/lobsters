@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 08:04:46](https://lobste.rs/s/223plw/cubernetes) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 07:03:41](https://lobste.rs/s/26gyh5/elaboration_postgresql_sort_cost_model) - [Elaboration of the PostgreSQL sort cost model](https://danolivo.substack.com/p/elaboration-of-the-postgresql-sort)
@@ -24,7 +25,6 @@
 * [2024-06-30, 12:18:24](https://lobste.rs/s/eg4fov/more_ms_os_2_2_0) - [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
 * [2024-06-30, 12:11:44](https://lobste.rs/s/nr1van/weekend_projects_getting_silly_with_c) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-29, 23:26:46](https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them) - [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
-* [2024-06-29, 18:02:59](https://lobste.rs/s/lub470/jank_gets_multimethods) - [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
 
 ## [Archives](archives/index.md)
 
