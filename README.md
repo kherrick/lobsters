@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 08:04:46](https://lobste.rs/s/223plw/cubernetes) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 07:03:41](https://lobste.rs/s/26gyh5/elaboration_postgresql_sort_cost_model) - [Elaboration of the PostgreSQL sort cost model](https://danolivo.substack.com/p/elaboration-of-the-postgresql-sort)
 * [2024-07-01, 06:30:49](https://lobste.rs/s/s8woz2/integrated_assembler_improvements_llvm) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
@@ -24,7 +25,6 @@
 * [2024-06-30, 12:11:44](https://lobste.rs/s/nr1van/weekend_projects_getting_silly_with_c) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-29, 23:26:46](https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them) - [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
 * [2024-06-29, 18:02:59](https://lobste.rs/s/lub470/jank_gets_multimethods) - [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
-* [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 
 ## [Archives](archives/index.md)
 

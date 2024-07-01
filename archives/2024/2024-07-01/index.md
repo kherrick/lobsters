@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 08:04:46](https://lobste.rs/s/223plw/cubernetes) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 07:03:41](https://lobste.rs/s/26gyh5/elaboration_postgresql_sort_cost_model) - [Elaboration of the PostgreSQL sort cost model](https://danolivo.substack.com/p/elaboration-of-the-postgresql-sort)
 * [2024-07-01, 06:30:49](https://lobste.rs/s/s8woz2/integrated_assembler_improvements_llvm) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
