@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 12:51:50](https://lobste.rs/s/nq1gxz/i_spent_18_months_rebuilding_my) - [I spent 18 months rebuilding my algorithmic trading platform in Rust. I’m filled with regret](https://medium.com/@austin-starks/i-spent-18-months-rebuilding-my-algorithmic-trading-in-rust-im-filled-with-regret-d300dcc147e0)
 * [2024-07-01, 12:01:33](https://lobste.rs/s/zypndg/vignettes_on_language_evolution) - [Vignettes on language evolution: discovering an old syntax feature history](https://zverok.space/blog/2024-07-01-optional-args.html)
 * [2024-07-01, 11:43:39](https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 11:39:03](https://lobste.rs/s/1ovwbp/testing_websocket_could_hang_open_for) - [Testing a WebSocket that could hang open for hours](https://ntietz.com/blog/websocket-hang-hours/)
