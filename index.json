@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-01, 16:45:22",
+      "https://lobste.rs/s/deads6/who_s_hiring_q3y2024"
+    ],
+    [
+      "Who's Hiring? Q3Y2024",
+      "https://lobste.rs/s/deads6/who_s_hiring_q3y2024"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 15:48:54",
       "https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive"
     ],
@@ -197,16 +207,6 @@
     [
       "f-tests as a replacement for table-driven tests in Go",
       "https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 17:58:24",
-      "https://lobste.rs/s/dng1rf/imhex_display_decode_analyze_binary_data"
-    ],
-    [
-      "ImHex: display, decode and analyze binary data to reverse engineer their format, extract informations or patch values",
-      "https://imhex.werwolv.net/"
     ]
   ],
   [
