@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 10:10:04](https://lobste.rs/s/qek1g6/one_year_postgresql_instead_oracle) - [One Year PostgreSQL instead of Oracle (German with Google Translate)](https://techstories-dbsystel-de.translate.goog//blog/2024/2024-02-07-Ein-Jahr-PostgreSQL-statt-Oracle-Das-Leben-danach.html?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp)
 * [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 08:04:46](https://lobste.rs/s/223plw/cubernetes) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
@@ -24,7 +25,6 @@
 * [2024-06-30, 14:33:38](https://lobste.rs/s/wuwa1k/life_lil) - [The Life of Lil](https://beyondloom.com/blog/life.html)
 * [2024-06-30, 12:18:24](https://lobste.rs/s/eg4fov/more_ms_os_2_2_0) - [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
 * [2024-06-30, 12:11:44](https://lobste.rs/s/nr1van/weekend_projects_getting_silly_with_c) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
-* [2024-06-29, 23:26:46](https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them) - [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
 
 ## [Archives](archives/index.md)
 
