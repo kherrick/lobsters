@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-07-01, 12:51:50",
+      "https://lobste.rs/s/nq1gxz/i_spent_18_months_rebuilding_my"
+    ],
+    [
+      "I spent 18 months rebuilding my algorithmic trading platform in Rust. I’m filled with regret",
+      "https://medium.com/@austin-starks/i-spent-18-months-rebuilding-my-algorithmic-trading-in-rust-im-filled-with-regret-d300dcc147e0"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 12:01:33",
       "https://lobste.rs/s/zypndg/vignettes_on_language_evolution"
     ],
@@ -167,16 +177,6 @@
     [
       "Code Reviews Do Find Bugs",
       "https://two-wrongs.com/code-reviews-do-find-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 06:15:09",
-      "https://lobste.rs/s/kfunkr/grafana_security_update_grafana_loki"
-    ],
-    [
-      "Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets",
-      "https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/"
     ]
   ],
   [
