@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 05:22:59](https://lobste.rs/s/xaobva/better_merge_workflow_with_jujutsu) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 03:25:02](https://lobste.rs/s/myfkbt/four_lines_code_it_was_four_lines_code) - [Four lines of code … it was four lines of code](https://boston.conman.org/2024/06/30.1)
 * [2024-07-01, 01:48:43](https://lobste.rs/s/a1ejf7/smoothmq_drop_replacement_for_sqs) - [SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency](https://github.com/poundifdef/SmoothMQ)
 * [2024-06-30, 22:41:38](https://lobste.rs/s/tlwjgu/plaintext_is_not_great_format_for_system) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
 * [2024-06-30, 22:34:20](https://lobste.rs/s/rgg7zh/playing_1080p_h_264_video_on_my_old_256_mb) - [Playing 1080p H.264 video on my old 256 MB Raspberry Pi](https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/)
 * [2024-06-30, 22:07:47](https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven) - [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
 * [2024-06-30, 21:41:19](https://lobste.rs/s/6ldhkb/experienced_neo_vimmer_s_workflow) - [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/)
-* [2024-06-30, 21:10:37](https://lobste.rs/s/vgshmz/if_feynman_was_teaching_today_simplified) - [If Feynman Was Teaching Today… A Simplified Python Simulation of Diffusion (Part 1)](https://www.thepythoncodingstack.com/p/python-diffusion-simulation-demo-turtle)
 * [2024-06-30, 21:02:55](https://lobste.rs/s/u0rnv3/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2024-06-30, 17:58:24](https://lobste.rs/s/dng1rf/imhex_display_decode_analyze_binary_data) - [ImHex: display, decode and analyze binary data to reverse engineer their format, extract informations or patch values](https://imhex.werwolv.net/)
 * [2024-06-30, 17:42:25](https://lobste.rs/s/bbntql/understanding_react_compiler) - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
