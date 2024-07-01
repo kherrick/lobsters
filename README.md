@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 17:04:17](https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line) - [Doggo – DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:45:22](https://lobste.rs/s/deads6/who_s_hiring_q3y2024) - [Who's Hiring? Q3Y2024](https://lobste.rs/s/deads6/who_s_hiring_q3y2024)
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
@@ -14,7 +15,6 @@
 * [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 08:04:46](https://lobste.rs/s/223plw/cubernetes) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
-* [2024-07-01, 06:30:49](https://lobste.rs/s/s8woz2/integrated_assembler_improvements_llvm) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 06:15:09](https://lobste.rs/s/kfunkr/grafana_security_update_grafana_loki) - [Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets](https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/)
 * [2024-07-01, 05:22:59](https://lobste.rs/s/xaobva/better_merge_workflow_with_jujutsu) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 03:25:02](https://lobste.rs/s/myfkbt/four_lines_code_it_was_four_lines_code) - [Four lines of code … it was four lines of code](https://boston.conman.org/2024/06/30.1)
