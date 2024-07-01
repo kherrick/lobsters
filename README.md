@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 06:30:49](https://lobste.rs/s/s8woz2/integrated_assembler_improvements_llvm) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 06:15:09](https://lobste.rs/s/kfunkr/grafana_security_update_grafana_loki) - [Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets](https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/)
 * [2024-07-01, 05:22:59](https://lobste.rs/s/xaobva/better_merge_workflow_with_jujutsu) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 03:25:02](https://lobste.rs/s/myfkbt/four_lines_code_it_was_four_lines_code) - [Four lines of code … it was four lines of code](https://boston.conman.org/2024/06/30.1)
@@ -10,7 +11,6 @@
 * [2024-06-30, 21:41:19](https://lobste.rs/s/6ldhkb/experienced_neo_vimmer_s_workflow) - [An Experienced (Neo)Vimmer's Workflow](https://seniormars.com/posts/neovim-workflow/)
 * [2024-06-30, 21:02:55](https://lobste.rs/s/u0rnv3/largest_number_representable_64_bits) - [The largest number representable in 64 bits](https://tromp.github.io/blog/2023/11/24/largest-number)
 * [2024-06-30, 17:58:24](https://lobste.rs/s/dng1rf/imhex_display_decode_analyze_binary_data) - [ImHex: display, decode and analyze binary data to reverse engineer their format, extract informations or patch values](https://imhex.werwolv.net/)
-* [2024-06-30, 17:42:25](https://lobste.rs/s/bbntql/understanding_react_compiler) - [Understanding React Compiler](https://tonyalicea.dev/blog/understanding-react-compiler/)
 * [2024-06-30, 17:32:56](https://lobste.rs/s/hbmqv8/ed_1_semantics) - [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
 * [2024-06-30, 17:16:02](https://lobste.rs/s/wtzcw0/proxy_proxy_proxyer_getting_around) - [proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them](https://github.com/virchau13/proxy-proxy-proxyer/)
 * [2024-06-30, 17:06:15](https://lobste.rs/s/nlhgyp/inside_1_dollar_radar_motion_sensor) - [Inside a 1 dollar radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
