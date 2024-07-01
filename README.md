@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 03:25:02](https://lobste.rs/s/myfkbt/four_lines_code_it_was_four_lines_code) - [Four lines of code … it was four lines of code](https://boston.conman.org/2024/06/30.1)
 * [2024-07-01, 01:48:43](https://lobste.rs/s/a1ejf7/smoothmq_drop_replacement_for_sqs) - [SmoothMQ: A drop-in replacement for SQS designed for great developer experience and efficiency](https://github.com/poundifdef/SmoothMQ)
 * [2024-06-30, 22:41:38](https://lobste.rs/s/tlwjgu/plaintext_is_not_great_format_for_system) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
 * [2024-06-30, 22:34:20](https://lobste.rs/s/rgg7zh/playing_1080p_h_264_video_on_my_old_256_mb) - [Playing 1080p H.264 video on my old 256 MB Raspberry Pi](https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/)
@@ -20,7 +21,6 @@
 * [2024-06-30, 12:18:24](https://lobste.rs/s/eg4fov/more_ms_os_2_2_0) - [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
 * [2024-06-30, 12:11:44](https://lobste.rs/s/nr1van/weekend_projects_getting_silly_with_c) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 09:16:39](https://lobste.rs/s/hkhynh/state_email_by_michael_lucas) - [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
-* [2024-06-30, 01:30:02](https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles) - [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)
 * [2024-06-29, 23:26:46](https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them) - [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
 * [2024-06-29, 18:02:59](https://lobste.rs/s/lub470/jank_gets_multimethods) - [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
 * [2024-06-29, 12:56:17](https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio) - [Bytecode Breakdown: Unraveling Factorio's Lua security flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
