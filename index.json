@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-01, 07:03:41",
+      "https://lobste.rs/s/26gyh5/elaboration_postgresql_sort_cost_model"
+    ],
+    [
+      "Elaboration of the PostgreSQL sort cost model",
+      "https://danolivo.substack.com/p/elaboration-of-the-postgresql-sort"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 06:30:49",
       "https://lobste.rs/s/s8woz2/integrated_assembler_improvements_llvm"
     ],
@@ -167,16 +177,6 @@
     [
       "Below MI - IBM i for Hackers",
       "https://silentsignal.github.io/BelowMI/"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 14:34:03",
-      "https://lobste.rs/s/66ryon/unexpected_journey_into_microsoft"
-    ],
-    [
-      "An unexpected journey into Microsoft Defender's signature World",
-      "https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world"
     ]
   ],
   [
