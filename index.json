@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-01, 11:43:39",
+      "https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part"
+    ],
+    [
+      "A write-ahead log is not a universal part of durability",
+      "https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-01, 11:39:03",
+      "https://lobste.rs/s/1ovwbp/testing_websocket_could_hang_open_for"
+    ],
+    [
+      "Testing a WebSocket that could hang open for hours",
+      "https://ntietz.com/blog/websocket-hang-hours/"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 11:08:18",
       "https://lobste.rs/s/toz4p0/polars_announcing_polars_1_0"
     ],
@@ -47,16 +67,6 @@
     [
       "Code Reviews Do Find Bugs",
       "https://two-wrongs.com/code-reviews-do-find-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 07:03:41",
-      "https://lobste.rs/s/26gyh5/elaboration_postgresql_sort_cost_model"
-    ],
-    [
-      "Elaboration of the PostgreSQL sort cost model",
-      "https://danolivo.substack.com/p/elaboration-of-the-postgresql-sort"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "EmacsConf 2024 Call for Participation",
       "https://emacsconf.org/2024/cfp/"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 14:43:01",
-      "https://lobste.rs/s/vm05hy/below_mi_ibm_i_for_hackers"
-    ],
-    [
-      "Below MI - IBM i for Hackers",
-      "https://silentsignal.github.io/BelowMI/"
     ]
   ],
   [
