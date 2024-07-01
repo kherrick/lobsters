@@ -21,9 +21,9 @@
 * [2024-06-30, 12:18:24](https://lobste.rs/s/eg4fov/more_ms_os_2_2_0) - [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
 * [2024-06-30, 12:11:44](https://lobste.rs/s/nr1van/weekend_projects_getting_silly_with_c) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
 * [2024-06-30, 09:16:39](https://lobste.rs/s/hkhynh/state_email_by_michael_lucas) - [The State of Email By:  Michael Lucas](https://m.youtube.com/watch?v=HT3N8YWaGsg)
+* [2024-06-30, 01:30:02](https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles) - [Two tiny 65816 DTV consoles](https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html)
 * [2024-06-29, 23:26:46](https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them) - [Eight versions of UUID and when to use them](https://ntietz.com/blog/til-uses-for-the-different-uuid-versions)
 * [2024-06-29, 18:02:59](https://lobste.rs/s/lub470/jank_gets_multimethods) - [jank gets multimethods](https://jank-lang.org/blog/2024-06-29-multimethods/)
-* [2024-06-29, 12:56:17](https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio) - [Bytecode Breakdown: Unraveling Factorio's Lua security flaws](https://memorycorruption.net/posts/rce-lua-factorio/)
 * [2024-06-29, 06:58:00](https://lobste.rs/s/zkmldj/chatgpt_is_bullshit) - [ChatGPT is bullshit](https://link.springer.com/article/10.1007/s10676-024-09775-5)
 
 ## [Archives](archives/index.md)
