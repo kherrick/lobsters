@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 07:03:41](https://lobste.rs/s/26gyh5/elaboration_postgresql_sort_cost_model) - [Elaboration of the PostgreSQL sort cost model](https://danolivo.substack.com/p/elaboration-of-the-postgresql-sort)
 * [2024-07-01, 06:30:49](https://lobste.rs/s/s8woz2/integrated_assembler_improvements_llvm) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 06:15:09](https://lobste.rs/s/kfunkr/grafana_security_update_grafana_loki) - [Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets](https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/)
 * [2024-07-01, 05:22:59](https://lobste.rs/s/xaobva/better_merge_workflow_with_jujutsu) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)

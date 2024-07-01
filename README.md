@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 07:03:41](https://lobste.rs/s/26gyh5/elaboration_postgresql_sort_cost_model) - [Elaboration of the PostgreSQL sort cost model](https://danolivo.substack.com/p/elaboration-of-the-postgresql-sort)
 * [2024-07-01, 06:30:49](https://lobste.rs/s/s8woz2/integrated_assembler_improvements_llvm) - [Integrated assembler improvements in LLVM 19](https://maskray.me/blog/2024-06-30-integrated-assembler-improvements-in-llvm-19)
 * [2024-07-01, 06:15:09](https://lobste.rs/s/kfunkr/grafana_security_update_grafana_loki) - [Grafana security update: Grafana Loki and unintended data write attempts to Amazon S3 buckets](https://grafana.com/blog/2024/06/27/grafana-security-update-grafana-loki-and-unintended-data-write-attempts-to-amazon-s3-buckets/)
 * [2024-07-01, 05:22:59](https://lobste.rs/s/xaobva/better_merge_workflow_with_jujutsu) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
@@ -17,7 +18,6 @@
 * [2024-06-30, 16:37:57](https://lobste.rs/s/lb9urk/how_get_root_access_your_sleep_number_bed) - [How to Get Root Access to Your Sleep Number Bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 16:10:24](https://lobste.rs/s/bdr8am/emacsconf_2024_call_for_participation) - [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
 * [2024-06-30, 14:43:01](https://lobste.rs/s/vm05hy/below_mi_ibm_i_for_hackers) - [Below MI - IBM i for Hackers](https://silentsignal.github.io/BelowMI/)
-* [2024-06-30, 14:34:03](https://lobste.rs/s/66ryon/unexpected_journey_into_microsoft) - [An unexpected journey into Microsoft Defender's signature World](https://retooling.io/blog/an-unexpected-journey-into-microsoft-defenders-signature-world)
 * [2024-06-30, 14:33:38](https://lobste.rs/s/wuwa1k/life_lil) - [The Life of Lil](https://beyondloom.com/blog/life.html)
 * [2024-06-30, 12:18:24](https://lobste.rs/s/eg4fov/more_ms_os_2_2_0) - [More MS OS/2 2.0](http://www.os2museum.com/wp/more-ms-os-2-2-0/)
 * [2024-06-30, 12:11:44](https://lobste.rs/s/nr1van/weekend_projects_getting_silly_with_c) - [Weekend projects: getting silly with C](https://lcamtuf.substack.com/p/weekend-projects-getting-silly-with)
