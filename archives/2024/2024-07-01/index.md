@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
 * [2024-07-01, 14:09:07](https://lobste.rs/s/mamdn3/quantum_is_unimportant_post_quantum) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:32:23](https://lobste.rs/s/emt2qz/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/emt2qz/what_are_you_doing_this_week)
 * [2024-07-01, 13:15:13](https://lobste.rs/s/4mnch6/pwr_paced_web_reader) - [pwr - paced web reader](https://muxup.com/pwr)

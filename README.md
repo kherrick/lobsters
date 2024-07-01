@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
 * [2024-07-01, 14:09:07](https://lobste.rs/s/mamdn3/quantum_is_unimportant_post_quantum) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:15:13](https://lobste.rs/s/4mnch6/pwr_paced_web_reader) - [pwr - paced web reader](https://muxup.com/pwr)
 * [2024-07-01, 12:51:50](https://lobste.rs/s/nq1gxz/i_spent_18_months_rebuilding_my) - [I spent 18 months rebuilding my algorithmic trading platform in Rust. I’m filled with regret](https://medium.com/@austin-starks/i-spent-18-months-rebuilding-my-algorithmic-trading-in-rust-im-filled-with-regret-d300dcc147e0)
 * [2024-07-01, 12:01:33](https://lobste.rs/s/zypndg/vignettes_on_language_evolution) - [Vignettes on language evolution: discovering an old syntax feature history](https://zverok.space/blog/2024-07-01-optional-args.html)
 * [2024-07-01, 11:43:39](https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
-* [2024-07-01, 11:39:03](https://lobste.rs/s/1ovwbp/testing_websocket_could_hang_open_for) - [Testing a WebSocket that could hang open for hours](https://ntietz.com/blog/websocket-hang-hours/)
 * [2024-07-01, 11:08:18](https://lobste.rs/s/toz4p0/polars_announcing_polars_1_0) - [Polars — Announcing Polars 1.0](https://pola.rs/posts/announcing-polars-1/)
 * [2024-07-01, 10:10:04](https://lobste.rs/s/qek1g6/one_year_postgresql_instead_oracle) - [One Year PostgreSQL instead of Oracle (German with Google Translate)](https://techstories-dbsystel-de.translate.goog//blog/2024/2024-02-07-Ein-Jahr-PostgreSQL-statt-Oracle-Das-Leben-danach.html?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp)
 * [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
