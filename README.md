@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
 * [2024-07-01, 14:09:07](https://lobste.rs/s/mamdn3/quantum_is_unimportant_post_quantum) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
@@ -22,7 +23,6 @@
 * [2024-06-30, 17:58:24](https://lobste.rs/s/dng1rf/imhex_display_decode_analyze_binary_data) - [ImHex: display, decode and analyze binary data to reverse engineer their format, extract informations or patch values](https://imhex.werwolv.net/)
 * [2024-06-30, 17:32:56](https://lobste.rs/s/hbmqv8/ed_1_semantics) - [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
 * [2024-06-30, 17:16:02](https://lobste.rs/s/wtzcw0/proxy_proxy_proxyer_getting_around) - [proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them](https://github.com/virchau13/proxy-proxy-proxyer/)
-* [2024-06-30, 17:06:15](https://lobste.rs/s/nlhgyp/inside_1_dollar_radar_motion_sensor) - [Inside a 1 dollar radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
 * [2024-06-30, 16:10:24](https://lobste.rs/s/bdr8am/emacsconf_2024_call_for_participation) - [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
 * [2024-06-30, 14:33:38](https://lobste.rs/s/wuwa1k/life_lil) - [The Life of Lil](https://beyondloom.com/blog/life.html)
 
