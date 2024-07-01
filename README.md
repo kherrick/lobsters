@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 14:09:07](https://lobste.rs/s/mamdn3/quantum_is_unimportant_post_quantum) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:15:13](https://lobste.rs/s/4mnch6/pwr_paced_web_reader) - [pwr - paced web reader](https://muxup.com/pwr)
 * [2024-07-01, 12:51:50](https://lobste.rs/s/nq1gxz/i_spent_18_months_rebuilding_my) - [I spent 18 months rebuilding my algorithmic trading platform in Rust. I’m filled with regret](https://medium.com/@austin-starks/i-spent-18-months-rebuilding-my-algorithmic-trading-in-rust-im-filled-with-regret-d300dcc147e0)
 * [2024-07-01, 12:01:33](https://lobste.rs/s/zypndg/vignettes_on_language_evolution) - [Vignettes on language evolution: discovering an old syntax feature history](https://zverok.space/blog/2024-07-01-optional-args.html)
@@ -22,7 +23,6 @@
 * [2024-06-30, 17:32:56](https://lobste.rs/s/hbmqv8/ed_1_semantics) - [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
 * [2024-06-30, 17:16:02](https://lobste.rs/s/wtzcw0/proxy_proxy_proxyer_getting_around) - [proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them](https://github.com/virchau13/proxy-proxy-proxyer/)
 * [2024-06-30, 17:06:15](https://lobste.rs/s/nlhgyp/inside_1_dollar_radar_motion_sensor) - [Inside a 1 dollar radar motion sensor](https://10maurycy10.github.io/projects/motion_sensor_hacking/)
-* [2024-06-30, 16:37:57](https://lobste.rs/s/lb9urk/how_get_root_access_your_sleep_number_bed) - [How to Get Root Access to Your Sleep Number Bed](https://dillan.org/articles/how-to-get-root-access-to-your-sleep-number-bed)
 * [2024-06-30, 16:10:24](https://lobste.rs/s/bdr8am/emacsconf_2024_call_for_participation) - [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
 * [2024-06-30, 14:33:38](https://lobste.rs/s/wuwa1k/life_lil) - [The Life of Lil](https://beyondloom.com/blog/life.html)
 
