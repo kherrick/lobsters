@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-01, 22:17:41",
+      "https://lobste.rs/s/kcijdq/speech_text_text_speech_speaker"
+    ],
+    [
+      "Speech-to-text, Text-to-speech, and Speaker recognition on device",
+      "https://github.com/k2-fsa/sherpa-onnx"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 20:33:02",
       "https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together"
     ],
@@ -27,16 +37,6 @@
     [
       "Ergonomic Self-Referential Types for Rust",
       "https://blog.yoshuawuyts.com/self-referential-types/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 17:17:31",
-      "https://lobste.rs/s/nc6dv7/efficiency_thoroughness_trade_off"
-    ],
-    [
-      "The Efficiency-Thoroughness Trade-Off Principle",
-      "https://erikhollnagel.com/ideas/etto-principle/"
     ]
   ],
   [
