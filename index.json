@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-06-30, 01:30:02",
+      "https://lobste.rs/s/olgi1e/two_tiny_65816_dtv_consoles"
+    ],
+    [
+      "Two tiny 65816 DTV consoles",
+      "https://oldvcr.blogspot.com/2024/06/two-tiny-65816-dtv-consoles.html"
+    ]
+  ],
+  [
+    [
       "2024-06-29, 23:26:46",
       "https://lobste.rs/s/bddvsk/eight_versions_uuid_when_use_them"
     ],
@@ -227,16 +237,6 @@
     [
       "jank gets multimethods",
       "https://jank-lang.org/blog/2024-06-29-multimethods/"
-    ]
-  ],
-  [
-    [
-      "2024-06-29, 12:56:17",
-      "https://lobste.rs/s/rbfva4/bytecode_breakdown_unraveling_factorio"
-    ],
-    [
-      "Bytecode Breakdown: Unraveling Factorio's Lua security flaws",
-      "https://memorycorruption.net/posts/rce-lua-factorio/"
     ]
   ],
   [
