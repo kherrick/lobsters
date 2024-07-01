@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-01, 12:01:33",
+      "https://lobste.rs/s/zypndg/vignettes_on_language_evolution"
+    ],
+    [
+      "Vignettes on language evolution: discovering an old syntax feature history",
+      "https://zverok.space/blog/2024-07-01-optional-args.html"
+    ]
+  ],
+  [
+    [
       "2024-07-01, 11:43:39",
       "https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part"
     ],
@@ -147,16 +157,6 @@
     [
       "f-tests as a replacement for table-driven tests in Go",
       "https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 21:41:19",
-      "https://lobste.rs/s/6ldhkb/experienced_neo_vimmer_s_workflow"
-    ],
-    [
-      "An Experienced (Neo)Vimmer's Workflow",
-      "https://seniormars.com/posts/neovim-workflow/"
     ]
   ],
   [
