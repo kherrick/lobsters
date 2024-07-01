@@ -6,6 +6,7 @@
 
 * [2024-07-01, 20:33:02](https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together) - [CRCs and Reed-Solomon coding: better together](https://mazzo.li/posts/rs-crc.html)
 * [2024-07-01, 19:28:16](https://lobste.rs/s/tn7oj0/psycopg_3_2_released) - [Psycopg 3.2 released](https://www.psycopg.org/articles/2024/06/30/psycopg-32-released/)
+* [2024-07-01, 19:25:25](https://lobste.rs/s/n2cpfi/ergonomic_self_referential_types_for) - [Ergonomic Self-Referential Types for Rust](https://blog.yoshuawuyts.com/self-referential-types/)
 * [2024-07-01, 17:17:31](https://lobste.rs/s/nc6dv7/efficiency_thoroughness_trade_off) - [The Efficiency-Thoroughness Trade-Off Principle](https://erikhollnagel.com/ideas/etto-principle/)
 * [2024-07-01, 17:04:17](https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line) - [Doggo – DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:45:22](https://lobste.rs/s/deads6/who_s_hiring_q3y2024) - [Who's Hiring? Q3Y2024](https://lobste.rs/s/deads6/who_s_hiring_q3y2024)

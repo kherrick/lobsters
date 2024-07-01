@@ -2,6 +2,7 @@
 
 * [2024-07-01, 20:33:02](https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together) - [CRCs and Reed-Solomon coding: better together](https://mazzo.li/posts/rs-crc.html)
 * [2024-07-01, 19:28:16](https://lobste.rs/s/tn7oj0/psycopg_3_2_released) - [Psycopg 3.2 released](https://www.psycopg.org/articles/2024/06/30/psycopg-32-released/)
+* [2024-07-01, 19:25:25](https://lobste.rs/s/n2cpfi/ergonomic_self_referential_types_for) - [Ergonomic Self-Referential Types for Rust](https://blog.yoshuawuyts.com/self-referential-types/)
 * [2024-07-01, 17:17:31](https://lobste.rs/s/nc6dv7/efficiency_thoroughness_trade_off) - [The Efficiency-Thoroughness Trade-Off Principle](https://erikhollnagel.com/ideas/etto-principle/)
 * [2024-07-01, 17:04:17](https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line) - [Doggo – DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:45:22](https://lobste.rs/s/deads6/who_s_hiring_q3y2024) - [Who's Hiring? Q3Y2024](https://lobste.rs/s/deads6/who_s_hiring_q3y2024)
@@ -21,7 +22,6 @@
 * [2024-07-01, 05:22:59](https://lobste.rs/s/xaobva/better_merge_workflow_with_jujutsu) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-07-01, 03:25:02](https://lobste.rs/s/myfkbt/four_lines_code_it_was_four_lines_code) - [Four lines of code … it was four lines of code](https://boston.conman.org/2024/06/30.1)
 * [2024-06-30, 22:41:38](https://lobste.rs/s/tlwjgu/plaintext_is_not_great_format_for_system) - [Plaintext is not a great format for (system) logs](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/PlaintextNotGreatLogFormat)
-* [2024-06-30, 22:34:20](https://lobste.rs/s/rgg7zh/playing_1080p_h_264_video_on_my_old_256_mb) - [Playing 1080p H.264 video on my old 256 MB Raspberry Pi](https://www.downtowndougbrown.com/2024/06/playing-1080p-h-264-video-on-my-old-256-mb-raspberry-pi/)
 * [2024-06-30, 22:07:47](https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven) - [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
 * [2024-06-30, 17:32:56](https://lobste.rs/s/hbmqv8/ed_1_semantics) - [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
 * [2024-06-30, 17:16:02](https://lobste.rs/s/wtzcw0/proxy_proxy_proxyer_getting_around) - [proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them](https://github.com/virchau13/proxy-proxy-proxyer/)
