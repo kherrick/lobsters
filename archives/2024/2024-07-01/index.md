@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-07-01](index.md)
 
+* [2024-07-01, 17:17:31](https://lobste.rs/s/nc6dv7/efficiency_thoroughness_trade_off) - [The Efficiency-Thoroughness Trade-Off Principle](https://erikhollnagel.com/ideas/etto-principle/)
 * [2024-07-01, 17:04:17](https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line) - [Doggo – DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:45:22](https://lobste.rs/s/deads6/who_s_hiring_q3y2024) - [Who's Hiring? Q3Y2024](https://lobste.rs/s/deads6/who_s_hiring_q3y2024)
+* [2024-07-01, 16:32:26](https://lobste.rs/s/qsvbpj/design_for_rigorous_configuration) - [Design For Rigorous Configuration](https://www.frogtoss.com/labs/design-for-rigorous-configuration.html)
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)

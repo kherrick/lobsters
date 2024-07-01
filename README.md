@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-01, 17:17:31](https://lobste.rs/s/nc6dv7/efficiency_thoroughness_trade_off) - [The Efficiency-Thoroughness Trade-Off Principle](https://erikhollnagel.com/ideas/etto-principle/)
 * [2024-07-01, 17:04:17](https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line) - [Doggo – DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:45:22](https://lobste.rs/s/deads6/who_s_hiring_q3y2024) - [Who's Hiring? Q3Y2024](https://lobste.rs/s/deads6/who_s_hiring_q3y2024)
+* [2024-07-01, 16:32:26](https://lobste.rs/s/qsvbpj/design_for_rigorous_configuration) - [Design For Rigorous Configuration](https://www.frogtoss.com/labs/design-for-rigorous-configuration.html)
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
@@ -11,7 +13,6 @@
 * [2024-07-01, 12:01:33](https://lobste.rs/s/zypndg/vignettes_on_language_evolution) - [Vignettes on language evolution: discovering an old syntax feature history](https://zverok.space/blog/2024-07-01-optional-args.html)
 * [2024-07-01, 11:43:39](https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 11:08:18](https://lobste.rs/s/toz4p0/polars_announcing_polars_1_0) - [Polars — Announcing Polars 1.0](https://pola.rs/posts/announcing-polars-1/)
-* [2024-07-01, 10:10:04](https://lobste.rs/s/qek1g6/one_year_postgresql_instead_oracle) - [One Year PostgreSQL instead of Oracle (German with Google Translate)](https://techstories-dbsystel-de.translate.goog//blog/2024/2024-02-07-Ein-Jahr-PostgreSQL-statt-Oracle-Das-Leben-danach.html?_x_tr_sl=auto&_x_tr_tl=de&_x_tr_hl=de&_x_tr_pto=wapp)
 * [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 08:04:46](https://lobste.rs/s/223plw/cubernetes) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
@@ -23,7 +24,6 @@
 * [2024-06-30, 22:07:47](https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven) - [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
 * [2024-06-30, 17:32:56](https://lobste.rs/s/hbmqv8/ed_1_semantics) - [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
 * [2024-06-30, 17:16:02](https://lobste.rs/s/wtzcw0/proxy_proxy_proxyer_getting_around) - [proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them](https://github.com/virchau13/proxy-proxy-proxyer/)
-* [2024-06-30, 16:10:24](https://lobste.rs/s/bdr8am/emacsconf_2024_call_for_participation) - [EmacsConf 2024 Call for Participation](https://emacsconf.org/2024/cfp/)
 * [2024-06-30, 14:33:38](https://lobste.rs/s/wuwa1k/life_lil) - [The Life of Lil](https://beyondloom.com/blog/life.html)
 
 ## [Archives](archives/index.md)
