@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 14:58:34](https://lobste.rs/s/a3t2eb/losing_imitation_game) - [Losing the imitation game](https://jenniferplusplus.com/losing-the-imitation-game/)
 * [2024-07-02, 14:22:45](https://lobste.rs/s/gcq7vt/python_packaging_scenarios_by_creators) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
 * [2024-07-02, 14:09:58](https://lobste.rs/s/ckv9as/how_create_your_own_ai_chat_moderation) - [How to create your own AI Chat Moderation model](https://medium.com/vestiaire-connected/how-to-create-your-own-ai-chat-moderation-model-c2bab9029c65)
 * [2024-07-02, 12:11:45](https://lobste.rs/s/blskg4/llm_compiler_first_impressions) - [LLM Compiler - First Impressions](https://computeheavy.com/blog/llm-compiler-impressions/)
@@ -18,7 +19,6 @@
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
 * [2024-07-01, 13:15:13](https://lobste.rs/s/4mnch6/pwr_paced_web_reader) - [pwr - paced web reader](https://muxup.com/pwr)
-* [2024-07-01, 12:01:33](https://lobste.rs/s/zypndg/vignettes_on_language_evolution) - [Vignettes on language evolution: discovering an old syntax feature history](https://zverok.space/blog/2024-07-01-optional-args.html)
 * [2024-07-01, 11:43:39](https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 11:08:18](https://lobste.rs/s/toz4p0/polars_announcing_polars_1_0) - [Polars — Announcing Polars 1.0](https://pola.rs/posts/announcing-polars-1/)
 * [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)

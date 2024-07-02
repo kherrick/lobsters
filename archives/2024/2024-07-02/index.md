@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 14:58:34](https://lobste.rs/s/a3t2eb/losing_imitation_game) - [Losing the imitation game](https://jenniferplusplus.com/losing-the-imitation-game/)
 * [2024-07-02, 14:22:45](https://lobste.rs/s/gcq7vt/python_packaging_scenarios_by_creators) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
 * [2024-07-02, 14:09:58](https://lobste.rs/s/ckv9as/how_create_your_own_ai_chat_moderation) - [How to create your own AI Chat Moderation model](https://medium.com/vestiaire-connected/how-to-create-your-own-ai-chat-moderation-model-c2bab9029c65)
 * [2024-07-02, 12:11:45](https://lobste.rs/s/blskg4/llm_compiler_first_impressions) - [LLM Compiler - First Impressions](https://computeheavy.com/blog/llm-compiler-impressions/)
