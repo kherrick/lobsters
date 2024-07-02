@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 20:03:15](https://lobste.rs/s/vvebdb/recommended_resources_for_learning_qt) - [Recommended resources for learning Qt with C++?](https://lobste.rs/s/vvebdb/recommended_resources_for_learning_qt)
 * [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 19:16:27](https://lobste.rs/s/ilk4sl/operations_review_meeting) - [Operations Review Meeting](https://blog.koehntopp.info/2024/04/18/operations-review-meeting.html)
 * [2024-07-02, 19:08:58](https://lobste.rs/s/kzdnxf/installing_ansible_on_risc_v_computer) - [Installing Ansible on a RISC-V computer](https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer)
