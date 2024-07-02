@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 * [2024-07-02, 21:18:38](https://lobste.rs/s/bumxtz/vulnerabilities_cocoapods_open_door) - [Vulnerabilities in CocoaPods Open the Door to Supply Chain Attacks Against Thousands of iOS and MacOS Applications | E.V.A](https://www.evasec.io/blog/eva-discovered-supply-chain-vulnerabities-in-cocoapods)
 * [2024-07-02, 20:03:15](https://lobste.rs/s/vvebdb/recommended_resources_for_learning_qt) - [Recommended resources for learning Qt with C++?](https://lobste.rs/s/vvebdb/recommended_resources_for_learning_qt)
 * [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 * [2024-07-02, 21:18:38](https://lobste.rs/s/bumxtz/vulnerabilities_cocoapods_open_door) - [Vulnerabilities in CocoaPods Open the Door to Supply Chain Attacks Against Thousands of iOS and MacOS Applications | E.V.A](https://www.evasec.io/blog/eva-discovered-supply-chain-vulnerabities-in-cocoapods)
 * [2024-07-02, 20:03:15](https://lobste.rs/s/vvebdb/recommended_resources_for_learning_qt) - [Recommended resources for learning Qt with C++?](https://lobste.rs/s/vvebdb/recommended_resources_for_learning_qt)
 * [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
@@ -16,7 +17,6 @@
 * [2024-07-02, 10:57:40](https://lobste.rs/s/u6b8gq/do_we_fear_serializable_isolation_level) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
 * [2024-07-02, 09:54:47](https://lobste.rs/s/go5eeb/trying_kolmogorov_arnold_networks) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 * [2024-07-01, 22:45:57](https://lobste.rs/s/8mzfmj/improving_your_zig_language_server) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
-* [2024-07-01, 17:04:17](https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line) - [Doggo – DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:45:22](https://lobste.rs/s/deads6/who_s_hiring_q3y2024) - [Who's Hiring? Q3Y2024](https://lobste.rs/s/deads6/who_s_hiring_q3y2024)
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
