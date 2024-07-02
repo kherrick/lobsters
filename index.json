@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-02, 14:22:45",
+      "https://lobste.rs/s/gcq7vt/python_packaging_scenarios_by_creators"
+    ],
+    [
+      "Python packaging scenarios by the creators of ruff",
+      "https://github.com/astral-sh/packse"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 14:09:58",
+      "https://lobste.rs/s/ckv9as/how_create_your_own_ai_chat_moderation"
+    ],
+    [
+      "How to create your own AI Chat Moderation model",
+      "https://medium.com/vestiaire-connected/how-to-create-your-own-ai-chat-moderation-model-c2bab9029c65"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 12:11:45",
       "https://lobste.rs/s/blskg4/llm_compiler_first_impressions"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-07-01, 22:17:41",
-      "https://lobste.rs/s/kcijdq/speech_text_text_speech_speaker"
-    ],
-    [
-      "Speech-to-text, Text-to-speech, and Speaker recognition on device",
-      "https://github.com/k2-fsa/sherpa-onnx"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 20:33:02",
       "https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together"
     ],
@@ -157,16 +167,6 @@
     [
       "Announcing the Ladybird Browser Initiative",
       "https://ladybird.org/announcement.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 14:09:07",
-      "https://lobste.rs/s/mamdn3/quantum_is_unimportant_post_quantum"
-    ],
-    [
-      "Quantum is unimportant to post-quantum",
-      "https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/"
     ]
   ],
   [
