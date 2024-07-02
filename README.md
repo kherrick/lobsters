@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 19:16:27](https://lobste.rs/s/ilk4sl/operations_review_meeting) - [Operations Review Meeting](https://blog.koehntopp.info/2024/04/18/operations-review-meeting.html)
 * [2024-07-02, 19:08:58](https://lobste.rs/s/kzdnxf/installing_ansible_on_risc_v_computer) - [Installing Ansible on a RISC-V computer](https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer)
 * [2024-07-02, 18:54:44](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service) - [Is there a name for the window of time when a service is in production but has no consumers?](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service)
 * [2024-07-02, 18:48:34](https://lobste.rs/s/obmbg7/beyond_control_exploring_novel_file) - [Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems](https://arxiv.org/pdf/2401.17618)
 * [2024-07-02, 18:12:09](https://lobste.rs/s/gnyf1n/introducing_mdn_http_observatory) - [Introducing the MDN HTTP Observatory](https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/)
 * [2024-07-02, 17:24:35](https://lobste.rs/s/g7ejcv/what_goes_around_comes_around_around) - [What Goes Around Comes Around... And Around](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
-* [2024-07-02, 16:21:40](https://lobste.rs/s/kzrbqc/resolving_rust_symbols) - [Resolving Rust Symbols](https://blog.shrirambalaji.com/posts/resolving-rust-symbols/)
 * [2024-07-02, 16:18:54](https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 * [2024-07-02, 14:58:34](https://lobste.rs/s/a3t2eb/losing_imitation_game) - [Losing the imitation game](https://jenniferplusplus.com/losing-the-imitation-game/)
