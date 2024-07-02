@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-02, 07:39:53",
+      "https://lobste.rs/s/ia2if7/using_simd_for_parallel_processing_rust"
+    ],
+    [
+      "Using SIMD for Parallel Processing in Rust",
+      "https://nrempel.com/using-simd-for-parallel-processing-in-rust/"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 03:39:19",
       "https://lobste.rs/s/ffn8au/cooperative_interruption_thread_c_20"
     ],
@@ -127,16 +137,6 @@
     [
       "Quantum is unimportant to post-quantum",
       "https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 13:32:23",
-      "https://lobste.rs/s/emt2qz/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/emt2qz/what_are_you_doing_this_week"
     ]
   ],
   [
