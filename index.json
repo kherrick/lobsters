@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-02, 19:08:58",
+      "https://lobste.rs/s/kzdnxf/installing_ansible_on_risc_v_computer"
+    ],
+    [
+      "Installing Ansible on a RISC-V computer",
+      "https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 18:54:44",
       "https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service"
     ],
@@ -147,16 +157,6 @@
     [
       "Improving Your Zig Language Server Experience",
       "https://kristoff.it/blog/improving-your-zls-experience/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 20:33:02",
-      "https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together"
-    ],
-    [
-      "CRCs and Reed-Solomon coding: better together",
-      "https://mazzo.li/posts/rs-crc.html"
     ]
   ],
   [
