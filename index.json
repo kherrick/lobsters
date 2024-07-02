@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-02, 19:16:27",
+      "https://lobste.rs/s/ilk4sl/operations_review_meeting"
+    ],
+    [
+      "Operations Review Meeting",
+      "https://blog.koehntopp.info/2024/04/18/operations-review-meeting.html"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 19:08:58",
       "https://lobste.rs/s/kzdnxf/installing_ansible_on_risc_v_computer"
     ],
@@ -47,16 +57,6 @@
     [
       "What Goes Around Comes Around... And Around",
       "https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 16:21:40",
-      "https://lobste.rs/s/kzrbqc/resolving_rust_symbols"
-    ],
-    [
-      "Resolving Rust Symbols",
-      "https://blog.shrirambalaji.com/posts/resolving-rust-symbols/"
     ]
   ],
   [
