@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 19:16:27](https://lobste.rs/s/ilk4sl/operations_review_meeting) - [Operations Review Meeting](https://blog.koehntopp.info/2024/04/18/operations-review-meeting.html)
 * [2024-07-02, 19:08:58](https://lobste.rs/s/kzdnxf/installing_ansible_on_risc_v_computer) - [Installing Ansible on a RISC-V computer](https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer)
 * [2024-07-02, 18:54:44](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service) - [Is there a name for the window of time when a service is in production but has no consumers?](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service)
@@ -11,7 +12,6 @@
 * [2024-07-02, 14:58:34](https://lobste.rs/s/a3t2eb/losing_imitation_game) - [Losing the imitation game](https://jenniferplusplus.com/losing-the-imitation-game/)
 * [2024-07-02, 14:22:45](https://lobste.rs/s/gcq7vt/python_packaging_scenarios_by_creators) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
 * [2024-07-02, 12:11:45](https://lobste.rs/s/blskg4/llm_compiler_first_impressions) - [LLM Compiler - First Impressions](https://computeheavy.com/blog/llm-compiler-impressions/)
-* [2024-07-02, 10:59:27](https://lobste.rs/s/2c0d5o/when_crc_tcp_checksum_disagree) - [When the CRC and the TCP checksum disagree](http://conferences.sigcomm.org/sigcomm/2000/conf/paper/sigcomm2000-9-1.pdf)
 * [2024-07-02, 10:57:40](https://lobste.rs/s/u6b8gq/do_we_fear_serializable_isolation_level) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
 * [2024-07-02, 09:54:47](https://lobste.rs/s/go5eeb/trying_kolmogorov_arnold_networks) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 * [2024-07-02, 03:27:11](https://lobste.rs/s/dps1uv/ironbeetle_with_matklad) - [IronBeetle with matklad](https://www.youtube.com/playlist?list=PL9eL-xg48OM3pnVqFSRyBFleHtBBw-nmZ)
