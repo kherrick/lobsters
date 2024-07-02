@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 18:54:44](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service) - [Is there a name for the window of time when a service is in production but has no consumers?](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service)
 * [2024-07-02, 18:48:34](https://lobste.rs/s/obmbg7/beyond_control_exploring_novel_file) - [Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems](https://arxiv.org/pdf/2401.17618)
 * [2024-07-02, 18:12:09](https://lobste.rs/s/gnyf1n/introducing_mdn_http_observatory) - [Introducing the MDN HTTP Observatory](https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/)
 * [2024-07-02, 17:24:35](https://lobste.rs/s/g7ejcv/what_goes_around_comes_around_around) - [What Goes Around Comes Around... And Around](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
@@ -20,7 +21,6 @@
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
-* [2024-07-01, 13:15:13](https://lobste.rs/s/4mnch6/pwr_paced_web_reader) - [pwr - paced web reader](https://muxup.com/pwr)
 * [2024-07-01, 11:43:39](https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 11:08:18](https://lobste.rs/s/toz4p0/polars_announcing_polars_1_0) - [Polars — Announcing Polars 1.0](https://pola.rs/posts/announcing-polars-1/)
 * [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
