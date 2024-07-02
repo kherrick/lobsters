@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 10:59:27](https://lobste.rs/s/2c0d5o/when_crc_tcp_checksum_disagree) - [When the CRC and the TCP checksum disagree](http://conferences.sigcomm.org/sigcomm/2000/conf/paper/sigcomm2000-9-1.pdf)
 * [2024-07-02, 10:57:40](https://lobste.rs/s/u6b8gq/do_we_fear_serializable_isolation_level) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
 * [2024-07-02, 10:57:35](https://lobste.rs/s/href4t/hardenedbsd_june_2024_status_report) - [HardenedBSD June 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-07-01/hardenedbsd-june-2024-status-report)
 * [2024-07-02, 09:54:47](https://lobste.rs/s/go5eeb/trying_kolmogorov_arnold_networks) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
@@ -8,7 +9,6 @@
 * [2024-07-01, 22:45:57](https://lobste.rs/s/8mzfmj/improving_your_zig_language_server) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
 * [2024-07-01, 22:17:41](https://lobste.rs/s/kcijdq/speech_text_text_speech_speaker) - [Speech-to-text, Text-to-speech, and Speaker recognition on device](https://github.com/k2-fsa/sherpa-onnx)
 * [2024-07-01, 20:33:02](https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together) - [CRCs and Reed-Solomon coding: better together](https://mazzo.li/posts/rs-crc.html)
-* [2024-07-01, 19:28:16](https://lobste.rs/s/tn7oj0/psycopg_3_2_released) - [Psycopg 3.2 released](https://www.psycopg.org/articles/2024/06/30/psycopg-32-released/)
 * [2024-07-01, 19:25:25](https://lobste.rs/s/n2cpfi/ergonomic_self_referential_types_for) - [Ergonomic Self-Referential Types for Rust](https://blog.yoshuawuyts.com/self-referential-types/)
 * [2024-07-01, 17:04:17](https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line) - [Doggo – DNS client for the command line](https://doggo.mrkaran.dev/docs/)
 * [2024-07-01, 16:45:22](https://lobste.rs/s/deads6/who_s_hiring_q3y2024) - [Who's Hiring? Q3Y2024](https://lobste.rs/s/deads6/who_s_hiring_q3y2024)
