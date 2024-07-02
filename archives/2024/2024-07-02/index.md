@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 18:12:09](https://lobste.rs/s/gnyf1n/introducing_mdn_http_observatory) - [Introducing the MDN HTTP Observatory](https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/)
 * [2024-07-02, 17:24:35](https://lobste.rs/s/g7ejcv/what_goes_around_comes_around_around) - [What Goes Around Comes Around... And Around](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-02, 16:21:40](https://lobste.rs/s/kzrbqc/resolving_rust_symbols) - [Resolving Rust Symbols](https://blog.shrirambalaji.com/posts/resolving-rust-symbols/)
 * [2024-07-02, 16:18:54](https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
