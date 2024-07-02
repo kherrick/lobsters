@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 04:56:12](https://lobste.rs/s/ajya5t/pycon_us_2024) - [PyCon US 2024](https://youtube.com/playlist?list=PL2Uw4_HvXqvYhjub9bw4uDAmNtprgAvlJ)
 * [2024-07-02, 03:39:19](https://lobste.rs/s/ffn8au/cooperative_interruption_thread_c_20) - [Cooperative Interruption of a Thread in C++20](https://www.modernescpp.com/index.php/cooperative-interruption-of-a-thread-in-c20/)
 * [2024-07-02, 03:27:11](https://lobste.rs/s/dps1uv/ironbeetle_with_matklad) - [IronBeetle with matklad](https://www.youtube.com/playlist?list=PL9eL-xg48OM3pnVqFSRyBFleHtBBw-nmZ)
 * [2024-07-01, 22:45:57](https://lobste.rs/s/8mzfmj/improving_your_zig_language_server) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
@@ -12,7 +13,6 @@
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
-* [2024-07-01, 14:09:07](https://lobste.rs/s/mamdn3/quantum_is_unimportant_post_quantum) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:32:23](https://lobste.rs/s/emt2qz/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/emt2qz/what_are_you_doing_this_week)
 * [2024-07-01, 13:15:13](https://lobste.rs/s/4mnch6/pwr_paced_web_reader) - [pwr - paced web reader](https://muxup.com/pwr)
 * [2024-07-01, 12:01:33](https://lobste.rs/s/zypndg/vignettes_on_language_evolution) - [Vignettes on language evolution: discovering an old syntax feature history](https://zverok.space/blog/2024-07-01-optional-args.html)
