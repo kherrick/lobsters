@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 10:57:40](https://lobste.rs/s/u6b8gq/do_we_fear_serializable_isolation_level) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
+* [2024-07-02, 10:57:35](https://lobste.rs/s/href4t/hardenedbsd_june_2024_status_report) - [HardenedBSD June 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-07-01/hardenedbsd-june-2024-status-report)
 * [2024-07-02, 09:54:47](https://lobste.rs/s/go5eeb/trying_kolmogorov_arnold_networks) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 * [2024-07-02, 03:39:19](https://lobste.rs/s/ffn8au/cooperative_interruption_thread_c_20) - [Cooperative Interruption of a Thread in C++20](https://www.modernescpp.com/index.php/cooperative-interruption-of-a-thread-in-c20/)
 * [2024-07-02, 03:27:11](https://lobste.rs/s/dps1uv/ironbeetle_with_matklad) - [IronBeetle with matklad](https://www.youtube.com/playlist?list=PL9eL-xg48OM3pnVqFSRyBFleHtBBw-nmZ)
@@ -19,11 +21,9 @@
 * [2024-07-01, 11:43:39](https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)
 * [2024-07-01, 11:08:18](https://lobste.rs/s/toz4p0/polars_announcing_polars_1_0) - [Polars — Announcing Polars 1.0](https://pola.rs/posts/announcing-polars-1/)
 * [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
-* [2024-07-01, 08:04:46](https://lobste.rs/s/223plw/cubernetes) - [Cubernetes](https://justingarrison.com/blog/2022-07-06-cubernetes/)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 * [2024-07-01, 05:22:59](https://lobste.rs/s/xaobva/better_merge_workflow_with_jujutsu) - [A Better Merge Workflow with Jujutsu](https://ofcr.se/jujutsu-merge-workflow)
 * [2024-06-30, 22:07:47](https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven) - [f-tests as a replacement for table-driven tests in Go](https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e)
-* [2024-06-30, 17:32:56](https://lobste.rs/s/hbmqv8/ed_1_semantics) - [ed(1) semantics](http://blog.syncpup.com/posts/ed-semantics.html)
 * [2024-06-30, 17:16:02](https://lobste.rs/s/wtzcw0/proxy_proxy_proxyer_getting_around) - [proxy-proxy-proxyer: Getting around restrictive proxies by going directly through them](https://github.com/virchau13/proxy-proxy-proxyer/)
 
 ## [Archives](archives/index.md)
