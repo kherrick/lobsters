@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 14:22:45](https://lobste.rs/s/gcq7vt/python_packaging_scenarios_by_creators) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
+* [2024-07-02, 14:09:58](https://lobste.rs/s/ckv9as/how_create_your_own_ai_chat_moderation) - [How to create your own AI Chat Moderation model](https://medium.com/vestiaire-connected/how-to-create-your-own-ai-chat-moderation-model-c2bab9029c65)
 * [2024-07-02, 12:11:45](https://lobste.rs/s/blskg4/llm_compiler_first_impressions) - [LLM Compiler - First Impressions](https://computeheavy.com/blog/llm-compiler-impressions/)
 * [2024-07-02, 10:59:27](https://lobste.rs/s/2c0d5o/when_crc_tcp_checksum_disagree) - [When the CRC and the TCP checksum disagree](http://conferences.sigcomm.org/sigcomm/2000/conf/paper/sigcomm2000-9-1.pdf)
 * [2024-07-02, 10:57:40](https://lobste.rs/s/u6b8gq/do_we_fear_serializable_isolation_level) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
@@ -8,7 +10,6 @@
 * [2024-07-02, 03:39:19](https://lobste.rs/s/ffn8au/cooperative_interruption_thread_c_20) - [Cooperative Interruption of a Thread in C++20](https://www.modernescpp.com/index.php/cooperative-interruption-of-a-thread-in-c20/)
 * [2024-07-02, 03:27:11](https://lobste.rs/s/dps1uv/ironbeetle_with_matklad) - [IronBeetle with matklad](https://www.youtube.com/playlist?list=PL9eL-xg48OM3pnVqFSRyBFleHtBBw-nmZ)
 * [2024-07-01, 22:45:57](https://lobste.rs/s/8mzfmj/improving_your_zig_language_server) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
-* [2024-07-01, 22:17:41](https://lobste.rs/s/kcijdq/speech_text_text_speech_speaker) - [Speech-to-text, Text-to-speech, and Speaker recognition on device](https://github.com/k2-fsa/sherpa-onnx)
 * [2024-07-01, 20:33:02](https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together) - [CRCs and Reed-Solomon coding: better together](https://mazzo.li/posts/rs-crc.html)
 * [2024-07-01, 19:25:25](https://lobste.rs/s/n2cpfi/ergonomic_self_referential_types_for) - [Ergonomic Self-Referential Types for Rust](https://blog.yoshuawuyts.com/self-referential-types/)
 * [2024-07-01, 17:04:17](https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line) - [Doggo – DNS client for the command line](https://doggo.mrkaran.dev/docs/)
@@ -16,7 +17,6 @@
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
-* [2024-07-01, 14:09:07](https://lobste.rs/s/mamdn3/quantum_is_unimportant_post_quantum) - [Quantum is unimportant to post-quantum](https://blog.trailofbits.com/2024/07/01/quantum-is-unimportant-to-post-quantum/)
 * [2024-07-01, 13:15:13](https://lobste.rs/s/4mnch6/pwr_paced_web_reader) - [pwr - paced web reader](https://muxup.com/pwr)
 * [2024-07-01, 12:01:33](https://lobste.rs/s/zypndg/vignettes_on_language_evolution) - [Vignettes on language evolution: discovering an old syntax feature history](https://zverok.space/blog/2024-07-01-optional-args.html)
 * [2024-07-01, 11:43:39](https://lobste.rs/s/pffmt7/write_ahead_log_is_not_universal_part) - [A write-ahead log is not a universal part of durability](https://notes.eatonphil.com/2024-07-01-a-write-ahead-log-is-not-a-universal-part-of-durability.html)

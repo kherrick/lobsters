@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 14:22:45](https://lobste.rs/s/gcq7vt/python_packaging_scenarios_by_creators) - [Python packaging scenarios by the creators of ruff](https://github.com/astral-sh/packse)
+* [2024-07-02, 14:09:58](https://lobste.rs/s/ckv9as/how_create_your_own_ai_chat_moderation) - [How to create your own AI Chat Moderation model](https://medium.com/vestiaire-connected/how-to-create-your-own-ai-chat-moderation-model-c2bab9029c65)
 * [2024-07-02, 12:11:45](https://lobste.rs/s/blskg4/llm_compiler_first_impressions) - [LLM Compiler - First Impressions](https://computeheavy.com/blog/llm-compiler-impressions/)
 * [2024-07-02, 10:59:27](https://lobste.rs/s/2c0d5o/when_crc_tcp_checksum_disagree) - [When the CRC and the TCP checksum disagree](http://conferences.sigcomm.org/sigcomm/2000/conf/paper/sigcomm2000-9-1.pdf)
 * [2024-07-02, 10:57:40](https://lobste.rs/s/u6b8gq/do_we_fear_serializable_isolation_level) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
