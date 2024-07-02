@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 17:24:35](https://lobste.rs/s/g7ejcv/what_goes_around_comes_around_around) - [What Goes Around Comes Around... And Around](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-02, 16:21:40](https://lobste.rs/s/kzrbqc/resolving_rust_symbols) - [Resolving Rust Symbols](https://blog.shrirambalaji.com/posts/resolving-rust-symbols/)
 * [2024-07-02, 16:18:54](https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
@@ -11,7 +12,6 @@
 * [2024-07-02, 10:57:40](https://lobste.rs/s/u6b8gq/do_we_fear_serializable_isolation_level) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
 * [2024-07-02, 10:57:35](https://lobste.rs/s/href4t/hardenedbsd_june_2024_status_report) - [HardenedBSD June 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-07-01/hardenedbsd-june-2024-status-report)
 * [2024-07-02, 09:54:47](https://lobste.rs/s/go5eeb/trying_kolmogorov_arnold_networks) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
-* [2024-07-02, 03:39:19](https://lobste.rs/s/ffn8au/cooperative_interruption_thread_c_20) - [Cooperative Interruption of a Thread in C++20](https://www.modernescpp.com/index.php/cooperative-interruption-of-a-thread-in-c20/)
 * [2024-07-02, 03:27:11](https://lobste.rs/s/dps1uv/ironbeetle_with_matklad) - [IronBeetle with matklad](https://www.youtube.com/playlist?list=PL9eL-xg48OM3pnVqFSRyBFleHtBBw-nmZ)
 * [2024-07-01, 22:45:57](https://lobste.rs/s/8mzfmj/improving_your_zig_language_server) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
 * [2024-07-01, 20:33:02](https://lobste.rs/s/hi4hlp/crcs_reed_solomon_coding_better_together) - [CRCs and Reed-Solomon coding: better together](https://mazzo.li/posts/rs-crc.html)
