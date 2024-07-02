@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-02, 16:21:40",
+      "https://lobste.rs/s/kzrbqc/resolving_rust_symbols"
+    ],
+    [
+      "Resolving Rust Symbols",
+      "https://blog.shrirambalaji.com/posts/resolving-rust-symbols/"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 16:18:54",
+      "https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner"
+    ],
+    [
+      "Solving a math problem with planner programming",
+      "https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/"
+    ]
+  ],
+  [
+    [
       "2024-07-02, 15:28:47",
       "https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-07-01, 19:25:25",
-      "https://lobste.rs/s/n2cpfi/ergonomic_self_referential_types_for"
-    ],
-    [
-      "Ergonomic Self-Referential Types for Rust",
-      "https://blog.yoshuawuyts.com/self-referential-types/"
-    ]
-  ],
-  [
-    [
       "2024-07-01, 17:04:17",
       "https://lobste.rs/s/ubtz98/doggo_dns_client_for_command_line"
     ],
@@ -237,16 +247,6 @@
     [
       "Code Reviews Do Find Bugs",
       "https://two-wrongs.com/code-reviews-do-find-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2024-06-30, 22:07:47",
-      "https://lobste.rs/s/tfq8kq/f_tests_as_replacement_for_table_driven"
-    ],
-    [
-      "f-tests as a replacement for table-driven tests in Go",
-      "https://medium.com/@valyala/f-tests-as-a-replacement-for-table-driven-tests-in-go-8814a8b19e9e"
     ]
   ]
 ]
