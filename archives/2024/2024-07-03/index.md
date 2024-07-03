@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 11:38:18](https://lobste.rs/s/kgjvpb/golang_bubble_tea_gui_drive_terraform_at) - [Golang bubble tea gui: Drive terraform at terminal velocity](https://github.com/leg100/pug)
+* [2024-07-03, 11:33:34](https://lobste.rs/s/hersa2/about_time_my_thinkpad_t430_ran_with) - [About the time my ThinkPad T430 ran with an external GPU](https://ounapuu.ee/posts/2024/07/03/thinkpad-t430-egpu/)
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-03, 08:52:19](https://lobste.rs/s/ruwqar/i_received_ai_email) - [I received an AI email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 08:47:34](https://lobste.rs/s/wegdpg/how_much_is_browser_worth) - [How Much Is a Browser Worth?](https://www.wezm.net/v2/posts/2024/how-much-is-a-browser-worth/)
