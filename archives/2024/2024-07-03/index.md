@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-03, 08:52:19](https://lobste.rs/s/ruwqar/i_received_ai_email) - [I received an AI email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 08:47:34](https://lobste.rs/s/wegdpg/how_much_is_browser_worth) - [How Much Is a Browser Worth?](https://www.wezm.net/v2/posts/2024/how-much-is-a-browser-worth/)
 * [2024-07-03, 06:00:32](https://lobste.rs/s/paob4u/origin_species_nec_pc_8001) - [The Origin of the Species: The NEC PC-8001](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
