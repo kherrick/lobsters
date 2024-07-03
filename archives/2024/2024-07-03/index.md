@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 15:48:59](https://lobste.rs/s/7i7i4n/building_cloud_development_kit_cdk) - [Building a Cloud Development Kit (CDK)](https://dev.to/samyfodil/building-a-cloud-development-kit-cdk-3lgd)
 * [2024-07-03, 14:41:27](https://lobste.rs/s/gbk0zz/invulnerable_software_2008) - [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
 * [2024-07-03, 14:39:41](https://lobste.rs/s/ew8ra5/sidekiq_7_3_0_job_iteration) - [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
 * [2024-07-03, 14:21:03](https://lobste.rs/s/yza3ob/x_window_system_at_40) - [X Window System At 40](https://blog.dshr.org/2024/07/x-window-system-at-40.html)
