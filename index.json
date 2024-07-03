@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-03, 15:48:59",
-      "https://lobste.rs/s/7i7i4n/building_cloud_development_kit_cdk"
-    ],
-    [
-      "Building a Cloud Development Kit (CDK)",
-      "https://dev.to/samyfodil/building-a-cloud-development-kit-cdk-3lgd"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 15:00:10",
       "https://lobste.rs/s/zhzywe/how_webrtc_speaker_selection_works"
     ],
@@ -217,6 +207,16 @@
     [
       "Pwning a Brother labelmaker, for fun and interop",
       "http://sdomi.pl/weblog/20-pwning-a-labelmaker/"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 18:54:44",
+      "https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service"
+    ],
+    [
+      "Is there a name for the window of time when a service is in production but has no consumers?",
+      "https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service"
     ]
   ],
   [
