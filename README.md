@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-03, 20:25:19](https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024) - [Running a multi-gig Home Network in 2024](https://atodorov.me/2024/07/03/running-a-multi-gig-home-network-in-2024/)
 * [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 * [2024-07-03, 15:00:10](https://lobste.rs/s/zhzywe/how_webrtc_speaker_selection_works) - [How WebRTC speaker selection works](https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/)
@@ -15,6 +14,7 @@
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
 * [2024-07-03, 13:15:09](https://lobste.rs/s/bdch84/simplifying_key_value_service_using) - [Simplifying a key-value service using CHERIoT](https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html)
 * [2024-07-03, 13:09:23](https://lobste.rs/s/n4inn0/quality_productivity_are_not) - [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
+* [2024-07-03, 12:51:20](https://lobste.rs/s/cbuhlj/systems_distributed_24) - [Systems Distributed '24](https://guergabo.substack.com/p/systems-distributed-24)
 * [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
 * [2024-07-03, 11:38:18](https://lobste.rs/s/kgjvpb/golang_bubble_tea_gui_drive_terraform_at) - [Golang bubble tea gui: Drive terraform at terminal velocity](https://github.com/leg100/pug)
 * [2024-07-03, 11:33:34](https://lobste.rs/s/hersa2/about_time_my_thinkpad_t430_ran_with) - [About the time my ThinkPad T430 ran with an external GPU](https://ounapuu.ee/posts/2024/07/03/thinkpad-t430-egpu/)
