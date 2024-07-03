@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 06:00:32](https://lobste.rs/s/paob4u/origin_species_nec_pc_8001) - [The Origin of the Species: The NEC PC-8001](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
+* [2024-07-03, 05:57:05](https://lobste.rs/s/qhsz2b/trip_report_summer_iso_c_standards) - [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
 * [2024-07-03, 05:40:42](https://lobste.rs/s/sw0jny/acm_computer_architecture_panel) - [ACM Computer Architecture Panel Discussion [2013]](https://www.youtube.com/watch?v=xLX8dHrbQHM&t=474s)
 * [2024-07-03, 02:45:31](https://lobste.rs/s/rmblgy/formatting_snakemake_using_snakefmt) - [Formatting Snakemake using snakefmt in Emacs using Apheleia](https://edmundmiller.dev/posts/emacs-snakefmt/)
 * [2024-07-03, 01:13:29](https://lobste.rs/s/a4vvsp/exploit_ruined_ranked_for_day_league) - [The Exploit that Ruined Ranked for a day (League of Legends)](https://www.youtube.com/watch?v=69ym78eliWU)
@@ -8,7 +10,6 @@
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 * [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 19:16:27](https://lobste.rs/s/ilk4sl/operations_review_meeting) - [Operations Review Meeting](https://blog.koehntopp.info/2024/04/18/operations-review-meeting.html)
-* [2024-07-02, 19:08:58](https://lobste.rs/s/kzdnxf/installing_ansible_on_risc_v_computer) - [Installing Ansible on a RISC-V computer](https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer)
 * [2024-07-02, 18:54:44](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service) - [Is there a name for the window of time when a service is in production but has no consumers?](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service)
 * [2024-07-02, 18:12:09](https://lobste.rs/s/gnyf1n/introducing_mdn_http_observatory) - [Introducing the MDN HTTP Observatory](https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/)
 * [2024-07-02, 17:24:35](https://lobste.rs/s/g7ejcv/what_goes_around_comes_around_around) - [What Goes Around Comes Around... And Around](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
@@ -24,7 +25,6 @@
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
-* [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 
 ## [Archives](archives/index.md)
 
