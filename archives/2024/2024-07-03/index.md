@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 14:06:19](https://lobste.rs/s/w6sie0/announcing_typescript_5_5) - [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
+* [2024-07-03, 14:04:51](https://lobste.rs/s/jaqg7n/ecma_international_approves_ecmascript) - [Ecma International approves ECMAScript 2024: What’s new?](https://2ality.com/2024/06/ecmascript-2024.html)
+* [2024-07-03, 13:56:30](https://lobste.rs/s/wh3sou/rustlings_rewrite) - [Rustlings Rewrite](https://mo8it.com/blog/rustlings-rewrite/)
 * [2024-07-03, 13:44:31](https://lobste.rs/s/snkt9p/dolphin_releases_announcement) - [Dolphin Releases Announcement](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 * [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store) - [On the origins of DS_store](https://www.arno.org/on-the-origins-of-ds-store)
