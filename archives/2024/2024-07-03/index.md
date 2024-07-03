@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
+* [2024-07-03, 12:12:20](https://lobste.rs/s/kvuqkw/pynes_python_programming_for_nintendo_8) - [pyNES: Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
 * [2024-07-03, 11:38:18](https://lobste.rs/s/kgjvpb/golang_bubble_tea_gui_drive_terraform_at) - [Golang bubble tea gui: Drive terraform at terminal velocity](https://github.com/leg100/pug)
 * [2024-07-03, 11:33:34](https://lobste.rs/s/hersa2/about_time_my_thinkpad_t430_ran_with) - [About the time my ThinkPad T430 ran with an external GPU](https://ounapuu.ee/posts/2024/07/03/thinkpad-t430-egpu/)
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
