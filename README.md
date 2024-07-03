@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 05:40:42](https://lobste.rs/s/sw0jny/acm_computer_architecture_panel) - [ACM Computer Architecture Panel Discussion [2013]](https://www.youtube.com/watch?v=xLX8dHrbQHM&t=474s)
 * [2024-07-03, 02:45:31](https://lobste.rs/s/rmblgy/formatting_snakemake_using_snakefmt) - [Formatting Snakemake using snakefmt in Emacs using Apheleia](https://edmundmiller.dev/posts/emacs-snakefmt/)
 * [2024-07-03, 01:13:29](https://lobste.rs/s/a4vvsp/exploit_ruined_ranked_for_day_league) - [The Exploit that Ruined Ranked for a day (League of Legends)](https://www.youtube.com/watch?v=69ym78eliWU)
 * [2024-07-02, 23:57:33](https://lobste.rs/s/fusami/neo_geo_architecture_practical_analysis) - [Neo Geo Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-07-02, 22:25:56](https://lobste.rs/s/krmoer/putting_duckdb_postgres_query_iceberg) - [Putting DuckDB in Postgres to Query Iceberg](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
-* [2024-07-02, 21:18:38](https://lobste.rs/s/bumxtz/vulnerabilities_cocoapods_open_door) - [Vulnerabilities in CocoaPods Open the Door to Supply Chain Attacks Against Thousands of iOS and MacOS Applications](https://www.evasec.io/blog/eva-discovered-supply-chain-vulnerabities-in-cocoapods)
 * [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 19:16:27](https://lobste.rs/s/ilk4sl/operations_review_meeting) - [Operations Review Meeting](https://blog.koehntopp.info/2024/04/18/operations-review-meeting.html)
 * [2024-07-02, 19:08:58](https://lobste.rs/s/kzdnxf/installing_ansible_on_risc_v_computer) - [Installing Ansible on a RISC-V computer](https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer)
