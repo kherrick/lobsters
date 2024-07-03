@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 14:41:27](https://lobste.rs/s/gbk0zz/invulnerable_software_2008) - [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
 * [2024-07-03, 14:39:41](https://lobste.rs/s/ew8ra5/sidekiq_7_3_0_job_iteration) - [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
 * [2024-07-03, 14:21:03](https://lobste.rs/s/yza3ob/x_window_system_at_40) - [X Window System At 40](https://blog.dshr.org/2024/07/x-window-system-at-40.html)
 * [2024-07-03, 14:06:19](https://lobste.rs/s/w6sie0/announcing_typescript_5_5) - [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
 * [2024-07-03, 14:04:51](https://lobste.rs/s/jaqg7n/ecma_international_approves_ecmascript) - [Ecma International approves ECMAScript 2024: What’s new?](https://2ality.com/2024/06/ecmascript-2024.html)
 * [2024-07-03, 13:56:30](https://lobste.rs/s/wh3sou/rustlings_rewrite) - [Rustlings Rewrite](https://mo8it.com/blog/rustlings-rewrite/)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
-* [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store) - [On the origins of DS_store](https://www.arno.org/on-the-origins-of-ds-store)
+* [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store_2006) - [On the origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
 * [2024-07-03, 13:15:09](https://lobste.rs/s/bdch84/simplifying_key_value_service_using) - [Simplifying a key-value service using CHERIoT](https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html)
 * [2024-07-03, 13:09:23](https://lobste.rs/s/n4inn0/quality_productivity_are_not) - [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
@@ -24,7 +25,6 @@
 * [2024-07-02, 18:12:09](https://lobste.rs/s/gnyf1n/introducing_mdn_http_observatory) - [Introducing the MDN HTTP Observatory](https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/)
 * [2024-07-02, 16:18:54](https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
-* [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
 
 ## [Archives](archives/index.md)
 
