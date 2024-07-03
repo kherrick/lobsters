@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-03, 18:54:06](https://lobste.rs/s/i5qckm/std_try_cast_const_delete) - [std::try_cast and (const&&)=delete](https://quuxplusone.github.io/blog/2024/07/03/dont-delete-const-refref/)
+* [2024-07-03, 19:53:36](https://lobste.rs/s/3olybp/announcing_wcurl_curl_wrapper_download) - [Announcing wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 * [2024-07-03, 15:00:10](https://lobste.rs/s/zhzywe/how_webrtc_speaker_selection_works) - [How WebRTC speaker selection works](https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/)
 * [2024-07-03, 14:41:27](https://lobste.rs/s/gbk0zz/invulnerable_software_2008) - [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
