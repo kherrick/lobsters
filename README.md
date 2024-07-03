@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 13:44:31](https://lobste.rs/s/snkt9p/dolphin_releases_announcement) - [Dolphin Releases Announcement](https://dolphin-emu.org/blog/2024/07/02/dolphin-releases-announcement/)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 * [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store) - [On the origins of DS_store](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
@@ -23,7 +24,6 @@
 * [2024-07-02, 18:12:09](https://lobste.rs/s/gnyf1n/introducing_mdn_http_observatory) - [Introducing the MDN HTTP Observatory](https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/)
 * [2024-07-02, 16:18:54](https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
-* [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
 
 ## [Archives](archives/index.md)
