@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 14:21:03](https://lobste.rs/s/yza3ob/x_window_system_at_40) - [X Window System At 40](https://blog.dshr.org/2024/07/x-window-system-at-40.html)
 * [2024-07-03, 14:06:19](https://lobste.rs/s/w6sie0/announcing_typescript_5_5) - [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
 * [2024-07-03, 14:04:51](https://lobste.rs/s/jaqg7n/ecma_international_approves_ecmascript) - [Ecma International approves ECMAScript 2024: What’s new?](https://2ality.com/2024/06/ecmascript-2024.html)
 * [2024-07-03, 13:56:30](https://lobste.rs/s/wh3sou/rustlings_rewrite) - [Rustlings Rewrite](https://mo8it.com/blog/rustlings-rewrite/)
