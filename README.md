@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 18:54:06](https://lobste.rs/s/i5qckm/std_try_cast_const_delete) - [std::try_cast and (const&&)=delete](https://quuxplusone.github.io/blog/2024/07/03/dont-delete-const-refref/)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 * [2024-07-03, 15:00:10](https://lobste.rs/s/zhzywe/how_webrtc_speaker_selection_works) - [How WebRTC speaker selection works](https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/)
 * [2024-07-03, 14:41:27](https://lobste.rs/s/gbk0zz/invulnerable_software_2008) - [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
@@ -19,7 +20,6 @@
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-03, 08:52:19](https://lobste.rs/s/ruwqar/i_received_ai_email) - [I received an AI email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 05:57:05](https://lobste.rs/s/qhsz2b/trip_report_summer_iso_c_standards) - [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
-* [2024-07-02, 23:57:33](https://lobste.rs/s/fusami/neo_geo_architecture_practical_analysis) - [Neo Geo Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 * [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 18:12:09](https://lobste.rs/s/gnyf1n/introducing_mdn_http_observatory) - [Introducing the MDN HTTP Observatory](https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/)
