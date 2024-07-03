@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 14:39:41](https://lobste.rs/s/ew8ra5/sidekiq_7_3_0_job_iteration) - [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
 * [2024-07-03, 14:21:03](https://lobste.rs/s/yza3ob/x_window_system_at_40) - [X Window System At 40](https://blog.dshr.org/2024/07/x-window-system-at-40.html)
 * [2024-07-03, 14:06:19](https://lobste.rs/s/w6sie0/announcing_typescript_5_5) - [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
 * [2024-07-03, 14:04:51](https://lobste.rs/s/jaqg7n/ecma_international_approves_ecmascript) - [Ecma International approves ECMAScript 2024: What’s new?](https://2ality.com/2024/06/ecmascript-2024.html)
@@ -16,7 +17,6 @@
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-03, 08:52:19](https://lobste.rs/s/ruwqar/i_received_ai_email) - [I received an AI email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 05:57:05](https://lobste.rs/s/qhsz2b/trip_report_summer_iso_c_standards) - [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
-* [2024-07-03, 01:13:29](https://lobste.rs/s/a4vvsp/exploit_ruined_ranked_for_day_league) - [The Exploit that Ruined Ranked for a day (League of Legends)](https://www.youtube.com/watch?v=69ym78eliWU)
 * [2024-07-02, 23:57:33](https://lobste.rs/s/fusami/neo_geo_architecture_practical_analysis) - [Neo Geo Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 * [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
