@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 12:51:20](https://lobste.rs/s/cbuhlj/systems_distributed_24) - [Systems Distributed '24](https://guergabo.substack.com/p/systems-distributed-24)
 * [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
 * [2024-07-03, 12:12:20](https://lobste.rs/s/kvuqkw/pynes_python_programming_for_nintendo_8) - [pyNES: Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
 * [2024-07-03, 11:38:18](https://lobste.rs/s/kgjvpb/golang_bubble_tea_gui_drive_terraform_at) - [Golang bubble tea gui: Drive terraform at terminal velocity](https://github.com/leg100/pug)
@@ -20,7 +21,6 @@
 * [2024-07-02, 17:24:35](https://lobste.rs/s/g7ejcv/what_goes_around_comes_around_around) - [What Goes Around Comes Around... And Around](https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf)
 * [2024-07-02, 16:18:54](https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
-* [2024-07-02, 12:11:45](https://lobste.rs/s/blskg4/llm_compiler_first_impressions) - [LLM Compiler - First Impressions](https://computeheavy.com/blog/llm-compiler-impressions/)
 * [2024-07-01, 22:45:57](https://lobste.rs/s/8mzfmj/improving_your_zig_language_server) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
