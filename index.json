@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-03, 05:40:42",
+      "https://lobste.rs/s/sw0jny/acm_computer_architecture_panel"
+    ],
+    [
+      "ACM Computer Architecture Panel Discussion [2013]",
+      "https://www.youtube.com/watch?v=xLX8dHrbQHM&t=474s"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 02:45:31",
       "https://lobste.rs/s/rmblgy/formatting_snakemake_using_snakefmt"
     ],
@@ -47,16 +57,6 @@
     [
       "We have proved \"BB(5) = 47,176,870\"",
       "https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 21:18:38",
-      "https://lobste.rs/s/bumxtz/vulnerabilities_cocoapods_open_door"
-    ],
-    [
-      "Vulnerabilities in CocoaPods Open the Door to Supply Chain Attacks Against Thousands of iOS and MacOS Applications",
-      "https://www.evasec.io/blog/eva-discovered-supply-chain-vulnerabities-in-cocoapods"
     ]
   ],
   [
