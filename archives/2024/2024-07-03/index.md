@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 13:09:23](https://lobste.rs/s/n4inn0/quality_productivity_are_not) - [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
+* [2024-07-03, 13:07:52](https://lobste.rs/s/zlwolf/moving_from_express_fastify) - [Moving from Express to Fastify](https://blog.val.town/blog/fastify/)
+* [2024-07-03, 13:03:47](https://lobste.rs/s/hfrquf/understanding_apache_paimon_s) - [Understanding Apache Paimon's Consistency Model Part 1](https://jack-vanlightly.com/analyses/2024/7/3/understanding-apache-paimon-consistency-model-part-1)
 * [2024-07-03, 12:51:20](https://lobste.rs/s/cbuhlj/systems_distributed_24) - [Systems Distributed '24](https://guergabo.substack.com/p/systems-distributed-24)
 * [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
 * [2024-07-03, 12:12:20](https://lobste.rs/s/kvuqkw/pynes_python_programming_for_nintendo_8) - [pyNES: Python programming for Nintendo 8 bits](https://github.com/gutomaia/pyNES)
