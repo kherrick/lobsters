@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-03, 14:06:19",
+      "https://lobste.rs/s/w6sie0/announcing_typescript_5_5"
+    ],
+    [
+      "Announcing TypeScript 5.5",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 14:04:51",
+      "https://lobste.rs/s/jaqg7n/ecma_international_approves_ecmascript"
+    ],
+    [
+      "Ecma International approves ECMAScript 2024: What’s new?",
+      "https://2ality.com/2024/06/ecmascript-2024.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 13:56:30",
+      "https://lobste.rs/s/wh3sou/rustlings_rewrite"
+    ],
+    [
+      "Rustlings Rewrite",
+      "https://mo8it.com/blog/rustlings-rewrite/"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 13:44:31",
       "https://lobste.rs/s/snkt9p/dolphin_releases_announcement"
     ],
@@ -61,26 +91,6 @@
   ],
   [
     [
-      "2024-07-03, 13:07:52",
-      "https://lobste.rs/s/zlwolf/moving_from_express_fastify"
-    ],
-    [
-      "Moving from Express to Fastify",
-      "https://blog.val.town/blog/fastify/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 13:03:47",
-      "https://lobste.rs/s/hfrquf/understanding_apache_paimon_s"
-    ],
-    [
-      "Understanding Apache Paimon's Consistency Model Part 1",
-      "https://jack-vanlightly.com/analyses/2024/7/3/understanding-apache-paimon-consistency-model-part-1"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 12:51:20",
       "https://lobste.rs/s/cbuhlj/systems_distributed_24"
     ],
@@ -137,16 +147,6 @@
     [
       "I received an AI email",
       "https://timharek.no/blog/i-received-an-ai-email"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 06:00:32",
-      "https://lobste.rs/s/paob4u/origin_species_nec_pc_8001"
-    ],
-    [
-      "The Origin of the Species: The NEC PC-8001",
-      "https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html"
     ]
   ],
   [
