@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-03, 13:35:13",
+      "https://lobste.rs/s/slfdci/one_dozen_lobsters"
+    ],
+    [
+      "One Dozen Lobsters",
+      "https://lobste.rs/s/slfdci/one_dozen_lobsters"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 13:21:32",
       "https://lobste.rs/s/q7rxib/on_origins_ds_store"
     ],
@@ -81,12 +91,12 @@
   ],
   [
     [
-      "2024-07-03, 12:12:20",
-      "https://lobste.rs/s/kvuqkw/pynes_python_programming_for_nintendo_8"
+      "2024-07-03, 11:38:18",
+      "https://lobste.rs/s/kgjvpb/golang_bubble_tea_gui_drive_terraform_at"
     ],
     [
-      "pyNES: Python programming for Nintendo 8 bits",
-      "https://github.com/gutomaia/pyNES"
+      "Golang bubble tea gui: Drive terraform at terminal velocity",
+      "https://github.com/leg100/pug"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)",
       "https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 02:45:31",
-      "https://lobste.rs/s/rmblgy/formatting_snakemake_using_snakefmt"
-    ],
-    [
-      "Formatting Snakemake using snakefmt in Emacs using Apheleia",
-      "https://edmundmiller.dev/posts/emacs-snakefmt/"
     ]
   ],
   [
