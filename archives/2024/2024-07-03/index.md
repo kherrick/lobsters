@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-03, 19:53:36](https://lobste.rs/s/3olybp/announcing_wcurl_curl_wrapper_download) - [Announcing wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)
 * [2024-07-03, 18:54:06](https://lobste.rs/s/i5qckm/std_try_cast_const_delete) - [std::try_cast and (const&&)=delete](https://quuxplusone.github.io/blog/2024/07/03/dont-delete-const-refref/)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
