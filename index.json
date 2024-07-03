@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-03, 19:53:36",
-      "https://lobste.rs/s/3olybp/announcing_wcurl_curl_wrapper_download"
+      "2024-07-03, 20:07:40",
+      "https://lobste.rs/s/rejw0l/ready_player_mode"
     ],
     [
-      "Announcing wcurl: a curl wrapper to download files",
-      "https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/"
+      "Ready Player Mode",
+      "https://lmno.lol/alvaro/ready-player-mode"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Sidekiq 7.3.0: Job Iteration",
       "https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 14:21:03",
+      "https://lobste.rs/s/yza3ob/x_window_system_at_40"
+    ],
+    [
+      "X Window System At 40",
+      "https://blog.dshr.org/2024/07/x-window-system-at-40.html"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Quality and productivity are not necessarily mutually exclusive",
       "https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 12:51:20",
-      "https://lobste.rs/s/cbuhlj/systems_distributed_24"
-    ],
-    [
-      "Systems Distributed '24",
-      "https://guergabo.substack.com/p/systems-distributed-24"
     ]
   ],
   [
