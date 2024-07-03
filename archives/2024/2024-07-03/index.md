@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 * [2024-07-03, 15:48:59](https://lobste.rs/s/7i7i4n/building_cloud_development_kit_cdk) - [Building a Cloud Development Kit (CDK)](https://dev.to/samyfodil/building-a-cloud-development-kit-cdk-3lgd)
 * [2024-07-03, 15:00:10](https://lobste.rs/s/zhzywe/how_webrtc_speaker_selection_works) - [How WebRTC speaker selection works](https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/)
 * [2024-07-03, 14:41:27](https://lobste.rs/s/gbk0zz/invulnerable_software_2008) - [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
