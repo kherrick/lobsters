@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-07-02, 22:35:39",
-      "https://lobste.rs/s/jyamjp/anyobject"
-    ],
-    [
-      "AnyObject",
-      "https://belkadan.com/blog/2024/07/AnyObject/"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 22:25:56",
       "https://lobste.rs/s/krmoer/putting_duckdb_postgres_query_iceberg"
     ],
@@ -97,6 +87,16 @@
     [
       "Is there a name for the window of time when a service is in production but has no consumers?",
       "https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service"
+    ]
+  ],
+  [
+    [
+      "2024-07-02, 18:48:34",
+      "https://lobste.rs/s/obmbg7/beyond_control_exploring_novel_file"
+    ],
+    [
+      "Beyond Control: Exploring Novel File System Objects for Data-Only Attacks on Linux Systems",
+      "https://arxiv.org/pdf/2401.17618"
     ]
   ],
   [
