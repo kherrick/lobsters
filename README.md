@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-02, 23:57:33](https://lobste.rs/s/fusami/neo_geo_architecture_practical_analysis) - [Neo Geo Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-07-02, 22:35:39](https://lobste.rs/s/jyamjp/anyobject) - [AnyObject](https://belkadan.com/blog/2024/07/AnyObject/)
 * [2024-07-02, 22:25:56](https://lobste.rs/s/krmoer/putting_duckdb_postgres_query_iceberg) - [Putting DuckDB in Postgres to Query Iceberg](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
@@ -22,7 +23,6 @@
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)
-* [2024-07-01, 11:08:18](https://lobste.rs/s/toz4p0/polars_announcing_polars_1_0) - [Polars — Announcing Polars 1.0](https://pola.rs/posts/announcing-polars-1/)
 * [2024-07-01, 08:42:31](https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc) - [regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)](https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt)
 * [2024-07-01, 07:31:49](https://lobste.rs/s/avuwpz/code_reviews_do_find_bugs) - [Code Reviews Do Find Bugs](https://two-wrongs.com/code-reviews-do-find-bugs.html)
 

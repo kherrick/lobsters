@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-02](index.md)
 
+* [2024-07-02, 23:57:33](https://lobste.rs/s/fusami/neo_geo_architecture_practical_analysis) - [Neo Geo Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-07-02, 22:35:39](https://lobste.rs/s/jyamjp/anyobject) - [AnyObject](https://belkadan.com/blog/2024/07/AnyObject/)
 * [2024-07-02, 22:25:56](https://lobste.rs/s/krmoer/putting_duckdb_postgres_query_iceberg) - [Putting DuckDB in Postgres to Query Iceberg](https://blog.paradedb.com/pages/iceberg_lakehouse)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
