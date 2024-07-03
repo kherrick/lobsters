@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 08:47:34](https://lobste.rs/s/wegdpg/how_much_is_browser_worth) - [How Much Is a Browser Worth?](https://www.wezm.net/v2/posts/2024/how-much-is-a-browser-worth/)
 * [2024-07-03, 06:00:32](https://lobste.rs/s/paob4u/origin_species_nec_pc_8001) - [The Origin of the Species: The NEC PC-8001](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
 * [2024-07-03, 05:57:05](https://lobste.rs/s/qhsz2b/trip_report_summer_iso_c_standards) - [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
 * [2024-07-03, 05:40:42](https://lobste.rs/s/sw0jny/acm_computer_architecture_panel) - [ACM Computer Architecture Panel Discussion [2013]](https://www.youtube.com/watch?v=xLX8dHrbQHM&t=474s)
@@ -21,7 +22,6 @@
 * [2024-07-02, 10:57:40](https://lobste.rs/s/u6b8gq/do_we_fear_serializable_isolation_level) - [Do we fear the serializable isolation level more than we fear subtle bugs?](https://blog.ydb.tech/do-we-fear-the-serializable-isolation-level-more-than-we-fear-subtle-bugs-5a025401b609)
 * [2024-07-02, 09:54:47](https://lobste.rs/s/go5eeb/trying_kolmogorov_arnold_networks) - [Trying Kolmogorov-Arnold Networks in Practice](https://cprimozic.net/blog/trying-out-kans/)
 * [2024-07-01, 22:45:57](https://lobste.rs/s/8mzfmj/improving_your_zig_language_server) - [Improving Your Zig Language Server Experience](https://kristoff.it/blog/improving-your-zls-experience/)
-* [2024-07-01, 16:45:22](https://lobste.rs/s/deads6/who_s_hiring_q3y2024) - [Who's Hiring? Q3Y2024](https://lobste.rs/s/deads6/who_s_hiring_q3y2024)
 * [2024-07-01, 15:48:54](https://lobste.rs/s/tkxnbl/booting_linux_off_google_drive) - [Booting Linux off of Google Drive](https://ersei.net/en/blog/fuse-root)
 * [2024-07-01, 15:29:26](https://lobste.rs/s/ljjdgf/my_programming_beliefs_as_july_2024) - [My programming beliefs as of July 2024](https://evanhahn.com/programming-beliefs-as-of-july-2024/)
 * [2024-07-01, 14:22:43](https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative) - [Announcing the Ladybird Browser Initiative](https://ladybird.org/announcement.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 08:47:34](https://lobste.rs/s/wegdpg/how_much_is_browser_worth) - [How Much Is a Browser Worth?](https://www.wezm.net/v2/posts/2024/how-much-is-a-browser-worth/)
 * [2024-07-03, 06:00:32](https://lobste.rs/s/paob4u/origin_species_nec_pc_8001) - [The Origin of the Species: The NEC PC-8001](https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html)
 * [2024-07-03, 05:57:05](https://lobste.rs/s/qhsz2b/trip_report_summer_iso_c_standards) - [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
 * [2024-07-03, 05:40:42](https://lobste.rs/s/sw0jny/acm_computer_architecture_panel) - [ACM Computer Architecture Panel Discussion [2013]](https://www.youtube.com/watch?v=xLX8dHrbQHM&t=474s)
