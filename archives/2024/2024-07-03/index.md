@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 * [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store) - [On the origins of DS_store](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
 * [2024-07-03, 13:15:09](https://lobste.rs/s/bdch84/simplifying_key_value_service_using) - [Simplifying a key-value service using CHERIoT](https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html)
