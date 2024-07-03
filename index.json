@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-03, 14:41:27",
+      "https://lobste.rs/s/gbk0zz/invulnerable_software_2008"
+    ],
+    [
+      "Invulnerable Software (2008)",
+      "https://cr.yp.to/talks/2008.04.23/slides.pdf"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 14:39:41",
       "https://lobste.rs/s/ew8ra5/sidekiq_7_3_0_job_iteration"
     ],
@@ -62,10 +72,10 @@
   [
     [
       "2024-07-03, 13:21:32",
-      "https://lobste.rs/s/q7rxib/on_origins_ds_store"
+      "https://lobste.rs/s/q7rxib/on_origins_ds_store_2006"
     ],
     [
-      "On the origins of DS_store",
+      "On the origins of DS_store (2006)",
       "https://www.arno.org/on-the-origins-of-ds-store"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "Ryzen 7 Mini-PC makes a power-efficient VM host",
       "https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 14:22:43",
-      "https://lobste.rs/s/zc8dd3/announcing_ladybird_browser_initiative"
-    ],
-    [
-      "Announcing the Ladybird Browser Initiative",
-      "https://ladybird.org/announcement.html"
     ]
   ]
 ]
