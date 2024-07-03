@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-03](index.md)
 
+* [2024-07-03, 21:18:14](https://lobste.rs/s/omlcnb/jsmn_json_parser_tokenizer_without) - [jsmn: a JSON parser/tokenizer without dependencies (not even libc)](https://github.com/zserge/jsmn)
 * [2024-07-03, 20:25:19](https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024) - [Running a multi-gig Home Network in 2024](https://atodorov.me/2024/07/03/running-a-multi-gig-home-network-in-2024/)
 * [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-03, 19:53:36](https://lobste.rs/s/3olybp/announcing_wcurl_curl_wrapper_download) - [Announcing wcurl: a curl wrapper to download files](https://samueloph.dev/blog/announcing-wcurl-a-curl-wrapper-to-download-files/)

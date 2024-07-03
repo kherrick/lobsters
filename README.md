@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-03, 21:18:14](https://lobste.rs/s/omlcnb/jsmn_json_parser_tokenizer_without) - [jsmn: a JSON parser/tokenizer without dependencies (not even libc)](https://github.com/zserge/jsmn)
 * [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 * [2024-07-03, 15:00:10](https://lobste.rs/s/zhzywe/how_webrtc_speaker_selection_works) - [How WebRTC speaker selection works](https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/)
 * [2024-07-03, 14:41:27](https://lobste.rs/s/gbk0zz/invulnerable_software_2008) - [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
 * [2024-07-03, 14:39:41](https://lobste.rs/s/ew8ra5/sidekiq_7_3_0_job_iteration) - [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
-* [2024-07-03, 14:21:03](https://lobste.rs/s/yza3ob/x_window_system_at_40) - [X Window System At 40](https://blog.dshr.org/2024/07/x-window-system-at-40.html)
 * [2024-07-03, 14:06:19](https://lobste.rs/s/w6sie0/announcing_typescript_5_5) - [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
 * [2024-07-03, 14:04:51](https://lobste.rs/s/jaqg7n/ecma_international_approves_ecmascript) - [Ecma International approves ECMAScript 2024: What’s new?](https://2ality.com/2024/06/ecmascript-2024.html)
 * [2024-07-03, 13:56:30](https://lobste.rs/s/wh3sou/rustlings_rewrite) - [Rustlings Rewrite](https://mo8it.com/blog/rustlings-rewrite/)
