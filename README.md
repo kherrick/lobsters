@@ -23,7 +23,7 @@
 * [2024-07-03, 08:52:19](https://lobste.rs/s/ruwqar/i_received_ai_email) - [I received an AI email](https://timharek.no/blog/i-received-an-ai-email)
 * [2024-07-03, 05:57:05](https://lobste.rs/s/qhsz2b/trip_report_summer_iso_c_standards) - [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
-* [2024-07-02, 16:18:54](https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
+* [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
 * [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 
 ## [Archives](archives/index.md)
