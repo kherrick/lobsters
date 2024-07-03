@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-03, 13:21:32",
+      "https://lobste.rs/s/q7rxib/on_origins_ds_store"
+    ],
+    [
+      "On the origins of DS_store",
+      "https://www.arno.org/on-the-origins-of-ds-store"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 13:20:58",
+      "https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control"
+    ],
+    [
+      "Reasons to use your shell's job control",
+      "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 13:15:09",
+      "https://lobste.rs/s/bdch84/simplifying_key_value_service_using"
+    ],
+    [
+      "Simplifying a key-value service using CHERIoT",
+      "https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 13:09:23",
       "https://lobste.rs/s/n4inn0/quality_productivity_are_not"
     ],
@@ -57,16 +87,6 @@
     [
       "pyNES: Python programming for Nintendo 8 bits",
       "https://github.com/gutomaia/pyNES"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 11:38:18",
-      "https://lobste.rs/s/kgjvpb/golang_bubble_tea_gui_drive_terraform_at"
-    ],
-    [
-      "Golang bubble tea gui: Drive terraform at terminal velocity",
-      "https://github.com/leg100/pug"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-07-02, 19:16:27",
-      "https://lobste.rs/s/ilk4sl/operations_review_meeting"
-    ],
-    [
-      "Operations Review Meeting",
-      "https://blog.koehntopp.info/2024/04/18/operations-review-meeting.html"
-    ]
-  ],
-  [
-    [
       "2024-07-02, 18:54:44",
       "https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service"
     ],
@@ -197,16 +207,6 @@
     [
       "Introducing the MDN HTTP Observatory",
       "https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 17:24:35",
-      "https://lobste.rs/s/g7ejcv/what_goes_around_comes_around_around"
-    ],
-    [
-      "What Goes Around Comes Around... And Around",
-      "https://db.cs.cmu.edu/papers/2024/whatgoesaround-sigmodrec2024.pdf"
     ]
   ],
   [
