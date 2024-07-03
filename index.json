@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-03, 06:00:32",
+      "https://lobste.rs/s/paob4u/origin_species_nec_pc_8001"
+    ],
+    [
+      "The Origin of the Species: The NEC PC-8001",
+      "https://www.leadedsolder.com/2024/07/02/pc8001-pickup-disk-drive-interface.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 05:57:05",
+      "https://lobste.rs/s/qhsz2b/trip_report_summer_iso_c_standards"
+    ],
+    [
+      "Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)",
+      "https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 05:40:42",
       "https://lobste.rs/s/sw0jny/acm_computer_architecture_panel"
     ],
@@ -77,16 +97,6 @@
     [
       "Operations Review Meeting",
       "https://blog.koehntopp.info/2024/04/18/operations-review-meeting.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 19:08:58",
-      "https://lobste.rs/s/kzdnxf/installing_ansible_on_risc_v_computer"
-    ],
-    [
-      "Installing Ansible on a RISC-V computer",
-      "https://www.jeffgeerling.com/blog/2024/installing-ansible-on-risc-v-computer"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Announcing the Ladybird Browser Initiative",
       "https://ladybird.org/announcement.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-01, 08:42:31",
-      "https://lobste.rs/s/sruxxj/regresshion_rce_openssh_s_server_on_glibc"
-    ],
-    [
-      "regreSSHion: RCE in OpenSSH's server, on glibc-based Linux systems (CVE-2024-6387)",
-      "https://www.qualys.com/2024/07/01/cve-2024-6387/regresshion.txt"
     ]
   ]
 ]
