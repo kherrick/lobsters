@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-03, 15:48:59](https://lobste.rs/s/7i7i4n/building_cloud_development_kit_cdk) - [Building a Cloud Development Kit (CDK)](https://dev.to/samyfodil/building-a-cloud-development-kit-cdk-3lgd)
 * [2024-07-03, 15:00:10](https://lobste.rs/s/zhzywe/how_webrtc_speaker_selection_works) - [How WebRTC speaker selection works](https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/)
 * [2024-07-03, 14:41:27](https://lobste.rs/s/gbk0zz/invulnerable_software_2008) - [Invulnerable Software (2008)](https://cr.yp.to/talks/2008.04.23/slides.pdf)
 * [2024-07-03, 14:39:41](https://lobste.rs/s/ew8ra5/sidekiq_7_3_0_job_iteration) - [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
@@ -22,6 +21,7 @@
 * [2024-07-02, 23:57:33](https://lobste.rs/s/fusami/neo_geo_architecture_practical_analysis) - [Neo Geo Architecture | A Practical Analysis](https://www.copetti.org/writings/consoles/neogeo/)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 * [2024-07-02, 19:40:12](https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun) - [Pwning a Brother labelmaker, for fun and interop](http://sdomi.pl/weblog/20-pwning-a-labelmaker/)
+* [2024-07-02, 18:54:44](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service) - [Is there a name for the window of time when a service is in production but has no consumers?](https://lobste.rs/s/ijyoks/is_there_name_for_window_time_when_service)
 * [2024-07-02, 18:12:09](https://lobste.rs/s/gnyf1n/introducing_mdn_http_observatory) - [Introducing the MDN HTTP Observatory](https://developer.mozilla.org/en-US/blog/mdn-http-observatory-launch/)
 * [2024-07-02, 16:18:54](https://lobste.rs/s/jv0b2v/solving_math_problem_with_planner) - [Solving a math problem with planner programming](https://buttondown.email/hillelwayne/archive/solving-a-math-problem-with-planner-programming/)
 * [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
