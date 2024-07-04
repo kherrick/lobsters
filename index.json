@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 19:51:38",
+      "https://lobste.rs/s/eng24x/debian_s_curl_now_supports_http3"
+    ],
+    [
+      "Debian's curl now supports HTTP3",
+      "https://samueloph.dev/blog/debian-curl-now-supports-http3/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 19:42:00",
       "https://lobste.rs/s/5jhxg2/jruby_blog_independence_day"
     ],
@@ -57,16 +67,6 @@
     [
       "Locally patching dependencies in Go",
       "https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 13:28:18",
-      "https://lobste.rs/s/mkfknq/mediawiki_on_kubernetes"
-    ],
-    [
-      "MediaWiki On Kubernetes",
-      "https://wikitech.wikimedia.org/wiki/MediaWiki_On_Kubernetes"
     ]
   ],
   [
