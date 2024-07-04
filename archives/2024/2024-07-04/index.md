@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 19:42:00](https://lobste.rs/s/5jhxg2/jruby_blog_independence_day) - [The JRuby Blog : Independence Day](https://blog.jruby.org/2024/07/independence-day)
 * [2024-07-04, 19:01:14](https://lobste.rs/s/bcgcgs/go_web_framework_self_promotion) - [Go Web Framework - self-promotion](https://andrewarrow.dev/)
 * [2024-07-04, 16:33:52](https://lobste.rs/s/ozsyss/why_build_new_language) - [Why build a new language?](https://blog.spade-lang.org/why-write-a-new-language/)
 * [2024-07-04, 16:14:59](https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil) - [evil-helix: Bringing the Helix editor to the evil side](https://github.com/usagi-flow/evil-helix)
