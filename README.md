@@ -5,6 +5,7 @@
 * [2024-07-04, 11:07:20](https://lobste.rs/s/x5kjqo/doodling_with_mac_s_command_icon) - [Doodling with the Mac’s command icon](https://alexwlchan.net/2024/command-icon)
 * [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-04, 09:10:52](https://lobste.rs/s/hhqtz5/cut_90_costs_by_migrating_from_kubernetes) - [Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise](https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/)
+* [2024-07-04, 08:33:10](https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for) - [ttkbootstrap: modern theme and widgets for Python tkinter](https://github.com/israel-dryer/ttkbootstrap)
 * [2024-07-04, 07:29:10](https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-04, 06:27:48](https://lobste.rs/s/vwediz/path_dependence_relational_design) - [Path dependence in relational design](https://minimalmodeling.substack.com/p/path-dependence-in-relational-design)
 * [2024-07-04, 00:57:58](https://lobste.rs/s/mk05nz/against_innovation_tokens) - [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
@@ -24,7 +25,6 @@
 * [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
-* [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 
 ## [Archives](archives/index.md)
 
