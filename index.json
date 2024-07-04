@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-04, 00:57:58",
+      "https://lobste.rs/s/mk05nz/against_innovation_tokens"
+    ],
+    [
+      "Against Innovation Tokens",
+      "https://blog.glyph.im/2024/07/against-innovation-tokens.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 00:44:35",
+      "https://lobste.rs/s/gqoxar/what_s_my_location_history"
+    ],
+    [
+      "What’s in my Location History?",
+      "https://zdimension.fr/whats-in-my-location-history/"
+    ]
+  ],
+  [
+    [
       "2024-07-03, 23:56:23",
       "https://lobste.rs/s/etdf3c/network_manager_rust_s_zbus"
     ],
@@ -11,12 +31,12 @@
   ],
   [
     [
-      "2024-07-03, 20:25:19",
-      "https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024"
+      "2024-07-03, 22:32:06",
+      "https://lobste.rs/s/eyeuhd/type_level_arithmetic_typescript_part_1"
     ],
     [
-      "Running a multi-gig Home Network in 2024",
-      "https://atodorov.me/2024/07/03/running-a-multi-gig-home-network-in-2024/"
+      "Type-level Arithmetic in TypeScript: Part 1 - Type Safe Time Intervals",
+      "https://brieuckaisin.hashnode.dev/type-level-arithmetic-in-typescript-part-1-type-safe-time-intervals"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-07-03, 11:38:18",
-      "https://lobste.rs/s/kgjvpb/golang_bubble_tea_gui_drive_terraform_at"
-    ],
-    [
-      "Golang bubble tea gui: Drive terraform at terminal velocity",
-      "https://github.com/leg100/pug"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 11:33:34",
       "https://lobste.rs/s/hersa2/about_time_my_thinkpad_t430_ran_with"
     ],
@@ -227,16 +237,6 @@
     [
       "We have proved \"BB(5) = 47,176,870\"",
       "https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 19:40:12",
-      "https://lobste.rs/s/shcurg/pwning_brother_labelmaker_for_fun"
-    ],
-    [
-      "Pwning a Brother labelmaker, for fun and interop",
-      "http://sdomi.pl/weblog/20-pwning-a-labelmaker/"
     ]
   ],
   [
