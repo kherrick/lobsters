@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 11:24:28](https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 * [2024-07-04, 11:07:20](https://lobste.rs/s/x5kjqo/doodling_with_mac_s_command_icon) - [Doodling with the Mac’s command icon](https://alexwlchan.net/2024/command-icon)
 * [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-04, 09:10:52](https://lobste.rs/s/hhqtz5/cut_90_costs_by_migrating_from_kubernetes) - [Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise](https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/)
