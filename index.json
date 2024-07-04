@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 07:29:10",
+      "https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time"
+    ],
+    [
+      "A Git story: Not so fun this time",
+      "https://blog.brachiosoft.com/en/posts/git/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 06:27:48",
       "https://lobste.rs/s/vwediz/path_dependence_relational_design"
     ],
@@ -47,16 +57,6 @@
     [
       "Network Manager and Rust's zbus",
       "https://rbs.io/2024/07/network-manager-and-rusts-zbus/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 21:18:14",
-      "https://lobste.rs/s/omlcnb/jsmn_json_parser_tokenizer_without"
-    ],
-    [
-      "jsmn: a JSON parser/tokenizer without dependencies (not even libc)",
-      "https://github.com/zserge/jsmn"
     ]
   ],
   [
