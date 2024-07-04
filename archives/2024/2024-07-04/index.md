@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 23:43:12](https://lobste.rs/s/quzrco/upgrading_my_chumby_8_kernel_part_12_uart) - [Upgrading my Chumby 8 kernel part 12: UART woes](https://www.downtowndougbrown.com/2024/07/upgrading-my-chumby-8-kernel-part-12-uart-woes/)
 * [2024-07-04, 22:41:49](https://lobste.rs/s/o2vwzm/snapdragon_x_elite_s_adreno_igpu) - [The Snapdragon X Elite’s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 23:43:12](https://lobste.rs/s/quzrco/upgrading_my_chumby_8_kernel_part_12_uart) - [Upgrading my Chumby 8 kernel part 12: UART woes](https://www.downtowndougbrown.com/2024/07/upgrading-my-chumby-8-kernel-part-12-uart-woes/)
 * [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
 * [2024-07-04, 21:13:53](https://lobste.rs/s/xi4dqg/enhancing_new_york_times_web_performance) - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
@@ -17,7 +18,6 @@
 * [2024-07-04, 11:07:20](https://lobste.rs/s/x5kjqo/doodling_with_mac_s_command_icon) - [Doodling with the Mac’s command icon](https://alexwlchan.net/2024/command-icon)
 * [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-04, 09:10:52](https://lobste.rs/s/hhqtz5/cut_90_costs_by_migrating_from_kubernetes) - [Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise](https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/)
-* [2024-07-04, 08:33:10](https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for) - [ttkbootstrap: modern theme and widgets for Python tkinter](https://github.com/israel-dryer/ttkbootstrap)
 * [2024-07-04, 07:29:10](https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-04, 00:57:58](https://lobste.rs/s/mk05nz/against_innovation_tokens) - [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
