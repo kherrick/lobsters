@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
 * [2024-07-04, 21:13:53](https://lobste.rs/s/xi4dqg/enhancing_new_york_times_web_performance) - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 * [2024-07-04, 20:14:17](https://lobste.rs/s/kntijf/lensy_moore) - [Lensy Moore](https://blog.cofree.coffee/2024-07-02-lensy-moore/)
@@ -11,6 +12,7 @@
 * [2024-07-04, 19:51:38](https://lobste.rs/s/eng24x/debian_s_curl_now_supports_http3) - [Debian's curl now supports HTTP3](https://samueloph.dev/blog/debian-curl-now-supports-http3/)
 * [2024-07-04, 19:42:00](https://lobste.rs/s/5jhxg2/jruby_blog_independence_day) - [The JRuby Blog : Independence Day](https://blog.jruby.org/2024/07/independence-day)
 * [2024-07-04, 19:01:14](https://lobste.rs/s/bcgcgs/go_web_framework_self_promotion) - [Go Web Framework - self-promotion](https://andrewarrow.dev/)
+* [2024-07-04, 19:01:14](https://lobste.rs/s/bcgcgs/feedback_golang_webapp_framework) - [Feedback - A Golang Webapp Framework](https://andrewarrow.dev/)
 * [2024-07-04, 16:33:52](https://lobste.rs/s/ozsyss/why_build_new_language) - [Why build a new language?](https://blog.spade-lang.org/why-write-a-new-language/)
 * [2024-07-04, 16:14:59](https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil) - [evil-helix: Bringing the Helix editor to the evil side](https://github.com/usagi-flow/evil-helix)
 * [2024-07-04, 16:03:27](https://lobste.rs/s/y7aql5/introduction_auto_vectorization_with) - [An introduction to auto-vectorization with LLVM](https://artagnon.com/computing/compilers/intro-vec)
