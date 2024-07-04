@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
 * [2024-07-04, 21:13:53](https://lobste.rs/s/xi4dqg/enhancing_new_york_times_web_performance) - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 * [2024-07-04, 20:14:17](https://lobste.rs/s/kntijf/lensy_moore) - [Lensy Moore](https://blog.cofree.coffee/2024-07-02-lensy-moore/)
 * [2024-07-04, 20:14:11](https://lobste.rs/s/gjs62o/lucent_7_r_e_5ess_telephone_switch_rescue) - [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
@@ -9,7 +10,6 @@
 * [2024-07-04, 16:14:59](https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil) - [evil-helix: Bringing the Helix editor to the evil side](https://github.com/usagi-flow/evil-helix)
 * [2024-07-04, 16:03:27](https://lobste.rs/s/y7aql5/introduction_auto_vectorization_with) - [An introduction to auto-vectorization with LLVM](https://artagnon.com/computing/compilers/intro-vec)
 * [2024-07-04, 14:13:49](https://lobste.rs/s/6cktqx/beating_numpy_s_matrix_multiplication) - [Beating NumPy’s matrix multiplication in 150 lines of C code](https://salykova.github.io/matmul-cpu)
-* [2024-07-04, 14:11:19](https://lobste.rs/s/toom09/locally_patching_dependencies_go) - [Locally patching dependencies in Go](https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/)
 * [2024-07-04, 13:26:06](https://lobste.rs/s/vq8s7q/structexplorer_go_struct_inspection_web) - [structexplorer: Go struct inspection web service](https://github.com/emicklei/structexplorer)
 * [2024-07-04, 12:10:42](https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3) - [Connecting Python and Rust with PyO3](https://youtu.be/UmL_CA-v3O8)
 * [2024-07-04, 11:24:28](https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
