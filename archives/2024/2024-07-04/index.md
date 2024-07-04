@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 16:33:52](https://lobste.rs/s/ozsyss/why_build_new_language) - [Why build a new language?](https://blog.spade-lang.org/why-write-a-new-language/)
 * [2024-07-04, 16:14:59](https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil) - [evil-helix: Bringing the Helix editor to the evil side](https://github.com/usagi-flow/evil-helix)
 * [2024-07-04, 16:03:27](https://lobste.rs/s/y7aql5/introduction_auto_vectorization_with) - [An introduction to auto-vectorization with LLVM](https://artagnon.com/computing/compilers/intro-vec)
 * [2024-07-04, 14:13:49](https://lobste.rs/s/6cktqx/beating_numpy_s_matrix_multiplication) - [Beating NumPy’s matrix multiplication in 150 lines of C code](https://salykova.github.io/matmul-cpu)
