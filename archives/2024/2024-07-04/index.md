@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 14:11:19](https://lobste.rs/s/toom09/locally_patching_dependencies_go) - [Locally patching dependencies in Go](https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/)
 * [2024-07-04, 13:28:18](https://lobste.rs/s/mkfknq/mediawiki_on_kubernetes) - [MediaWiki On Kubernetes](https://wikitech.wikimedia.org/wiki/MediaWiki_On_Kubernetes)
 * [2024-07-04, 13:26:06](https://lobste.rs/s/vq8s7q/structexplorer_go_struct_inspection_web) - [structexplorer: Go struct inspection web service](https://github.com/emicklei/structexplorer)
 * [2024-07-04, 13:20:49](https://lobste.rs/s/ulji25/i_sent_500_million_http_requests_2_5) - [I sent 500 million HTTP requests to 2.5 million hosts](https://www.moczadlo.com/2024/how-i-sent-500-million-http-requests-in-under-24h)

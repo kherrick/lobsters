@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 14:11:19](https://lobste.rs/s/toom09/locally_patching_dependencies_go) - [Locally patching dependencies in Go](https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/)
 * [2024-07-04, 13:28:18](https://lobste.rs/s/mkfknq/mediawiki_on_kubernetes) - [MediaWiki On Kubernetes](https://wikitech.wikimedia.org/wiki/MediaWiki_On_Kubernetes)
 * [2024-07-04, 13:26:06](https://lobste.rs/s/vq8s7q/structexplorer_go_struct_inspection_web) - [structexplorer: Go struct inspection web service](https://github.com/emicklei/structexplorer)
 * [2024-07-04, 13:20:49](https://lobste.rs/s/ulji25/i_sent_500_million_http_requests_2_5) - [I sent 500 million HTTP requests to 2.5 million hosts](https://www.moczadlo.com/2024/how-i-sent-500-million-http-requests-in-under-24h)
@@ -12,7 +13,6 @@
 * [2024-07-04, 07:29:10](https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-04, 06:27:48](https://lobste.rs/s/vwediz/path_dependence_relational_design) - [Path dependence in relational design](https://minimalmodeling.substack.com/p/path-dependence-in-relational-design)
 * [2024-07-04, 00:57:58](https://lobste.rs/s/mk05nz/against_innovation_tokens) - [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
-* [2024-07-03, 23:56:23](https://lobste.rs/s/etdf3c/network_manager_rust_s_zbus) - [Network Manager and Rust's zbus](https://rbs.io/2024/07/network-manager-and-rusts-zbus/)
 * [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 * [2024-07-03, 14:39:41](https://lobste.rs/s/ew8ra5/sidekiq_7_3_0_job_iteration) - [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
