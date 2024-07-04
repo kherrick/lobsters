@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-04, 16:14:59",
+      "https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil"
+    ],
+    [
+      "evil-helix: Bringing the Helix editor to the evil side",
+      "https://github.com/usagi-flow/evil-helix"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 16:03:27",
+      "https://lobste.rs/s/y7aql5/introduction_auto_vectorization_with"
+    ],
+    [
+      "An introduction to auto-vectorization with LLVM",
+      "https://artagnon.com/computing/compilers/intro-vec"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 14:13:49",
       "https://lobste.rs/s/6cktqx/beating_numpy_s_matrix_multiplication"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-07-03, 13:56:30",
-      "https://lobste.rs/s/wh3sou/rustlings_rewrite"
-    ],
-    [
-      "Rustlings Rewrite",
-      "https://mo8it.com/blog/rustlings-rewrite/"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 13:35:13",
       "https://lobste.rs/s/slfdci/one_dozen_lobsters"
     ],
@@ -237,16 +247,6 @@
     [
       "The sad state of property-based testing libraries",
       "https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 21:57:13",
-      "https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870"
-    ],
-    [
-      "We have proved \"BB(5) = 47,176,870\"",
-      "https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237"
     ]
   ]
 ]
