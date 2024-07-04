@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 11:38:47",
+      "https://lobste.rs/s/qwhpxh/xsum_exactly_rounded_summation_floating"
+    ],
+    [
+      "xsum: Exactly-rounded summation of floating point values",
+      "https://gitlab.com/radfordneal/xsum"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 11:24:28",
       "https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell"
     ],
@@ -37,16 +47,6 @@
     [
       "Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise",
       "https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 08:33:10",
-      "https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for"
-    ],
-    [
-      "ttkbootstrap: modern theme and widgets for Python tkinter",
-      "https://github.com/israel-dryer/ttkbootstrap"
     ]
   ],
   [
