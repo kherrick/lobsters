@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-04, 13:28:18",
+      "https://lobste.rs/s/mkfknq/mediawiki_on_kubernetes"
+    ],
+    [
+      "MediaWiki On Kubernetes",
+      "https://wikitech.wikimedia.org/wiki/MediaWiki_On_Kubernetes"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 13:26:06",
+      "https://lobste.rs/s/vq8s7q/structexplorer_go_struct_inspection_web"
+    ],
+    [
+      "structexplorer: Go struct inspection web service",
+      "https://github.com/emicklei/structexplorer"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 13:20:49",
       "https://lobste.rs/s/ulji25/i_sent_500_million_http_requests_2_5"
     ],
@@ -17,16 +37,6 @@
     [
       "Connecting Python and Rust with PyO3",
       "https://youtu.be/UmL_CA-v3O8"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 11:38:47",
-      "https://lobste.rs/s/qwhpxh/xsum_exactly_rounded_summation_floating"
-    ],
-    [
-      "xsum: Exactly-rounded summation of floating point values",
-      "https://gitlab.com/radfordneal/xsum"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Network Manager and Rust's zbus",
       "https://rbs.io/2024/07/network-manager-and-rusts-zbus/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 20:25:19",
-      "https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024"
-    ],
-    [
-      "Running a multi-gig Home Network in 2024",
-      "https://atodorov.me/2024/07/03/running-a-multi-gig-home-network-in-2024/"
     ]
   ],
   [
