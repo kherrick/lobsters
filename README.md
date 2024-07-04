@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-03, 22:32:06](https://lobste.rs/s/eyeuhd/type_level_arithmetic_typescript_part_1) - [Type-level Arithmetic in TypeScript: Part 1 - Type Safe Time Intervals](https://brieuckaisin.hashnode.dev/type-level-arithmetic-in-typescript-part-1-type-safe-time-intervals)
+* [2024-07-03, 23:56:23](https://lobste.rs/s/etdf3c/network_manager_rust_s_zbus) - [Network Manager and Rust's zbus](https://rbs.io/2024/07/network-manager-and-rusts-zbus/)
 * [2024-07-03, 20:25:19](https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024) - [Running a multi-gig Home Network in 2024](https://atodorov.me/2024/07/03/running-a-multi-gig-home-network-in-2024/)
 * [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
