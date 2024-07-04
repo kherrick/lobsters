@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 08:33:10](https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for) - [ttkbootstrap: modern theme and widgets for Python tkinter](https://github.com/israel-dryer/ttkbootstrap)
+* [2024-07-04, 08:30:35](https://lobste.rs/s/zhmxeu/cheapest_nas) - [The cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 * [2024-07-04, 07:29:10](https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-04, 06:27:48](https://lobste.rs/s/vwediz/path_dependence_relational_design) - [Path dependence in relational design](https://minimalmodeling.substack.com/p/path-dependence-in-relational-design)
 * [2024-07-04, 04:49:48](https://lobste.rs/s/qnjkyc/exorcising_us_primer) - [Exorcising us of the Primer](https://andymatuschak.org/primer/)

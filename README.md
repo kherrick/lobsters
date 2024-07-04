@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 08:33:10](https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for) - [ttkbootstrap: modern theme and widgets for Python tkinter](https://github.com/israel-dryer/ttkbootstrap)
+* [2024-07-04, 08:30:35](https://lobste.rs/s/zhmxeu/cheapest_nas) - [The cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
 * [2024-07-04, 07:29:10](https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-04, 06:27:48](https://lobste.rs/s/vwediz/path_dependence_relational_design) - [Path dependence in relational design](https://minimalmodeling.substack.com/p/path-dependence-in-relational-design)
-* [2024-07-04, 04:49:48](https://lobste.rs/s/qnjkyc/exorcising_us_primer) - [Exorcising us of the Primer](https://andymatuschak.org/primer/)
 * [2024-07-04, 00:57:58](https://lobste.rs/s/mk05nz/against_innovation_tokens) - [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
 * [2024-07-04, 00:44:35](https://lobste.rs/s/gqoxar/what_s_my_location_history) - [What’s in my Location History?](https://zdimension.fr/whats-in-my-location-history/)
 * [2024-07-03, 23:56:23](https://lobste.rs/s/etdf3c/network_manager_rust_s_zbus) - [Network Manager and Rust's zbus](https://rbs.io/2024/07/network-manager-and-rusts-zbus/)
@@ -17,7 +18,6 @@
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 * [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store_2006) - [On the origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
-* [2024-07-03, 13:15:09](https://lobste.rs/s/bdch84/simplifying_key_value_service_using) - [Simplifying a key-value service using CHERIoT](https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html)
 * [2024-07-03, 13:09:23](https://lobste.rs/s/n4inn0/quality_productivity_are_not) - [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
 * [2024-07-03, 12:51:20](https://lobste.rs/s/cbuhlj/systems_distributed_24) - [Systems Distributed '24](https://guergabo.substack.com/p/systems-distributed-24)
 * [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
