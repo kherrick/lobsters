@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 16:14:59](https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil) - [evil-helix: Bringing the Helix editor to the evil side](https://github.com/usagi-flow/evil-helix)
+* [2024-07-04, 16:03:27](https://lobste.rs/s/y7aql5/introduction_auto_vectorization_with) - [An introduction to auto-vectorization with LLVM](https://artagnon.com/computing/compilers/intro-vec)
 * [2024-07-04, 14:13:49](https://lobste.rs/s/6cktqx/beating_numpy_s_matrix_multiplication) - [Beating NumPy’s matrix multiplication in 150 lines of C code](https://salykova.github.io/matmul-cpu)
 * [2024-07-04, 14:11:19](https://lobste.rs/s/toom09/locally_patching_dependencies_go) - [Locally patching dependencies in Go](https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/)
 * [2024-07-04, 13:28:18](https://lobste.rs/s/mkfknq/mediawiki_on_kubernetes) - [MediaWiki On Kubernetes](https://wikitech.wikimedia.org/wiki/MediaWiki_On_Kubernetes)
@@ -17,14 +19,12 @@
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
 * [2024-07-03, 14:39:41](https://lobste.rs/s/ew8ra5/sidekiq_7_3_0_job_iteration) - [Sidekiq 7.3.0: Job Iteration](https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/)
 * [2024-07-03, 14:06:19](https://lobste.rs/s/w6sie0/announcing_typescript_5_5) - [Announcing TypeScript 5.5](https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/)
-* [2024-07-03, 13:56:30](https://lobste.rs/s/wh3sou/rustlings_rewrite) - [Rustlings Rewrite](https://mo8it.com/blog/rustlings-rewrite/)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 * [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store_2006) - [On the origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
 * [2024-07-03, 13:09:23](https://lobste.rs/s/n4inn0/quality_productivity_are_not) - [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
 * [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
-* [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 16:14:59](https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil) - [evil-helix: Bringing the Helix editor to the evil side](https://github.com/usagi-flow/evil-helix)
+* [2024-07-04, 16:03:27](https://lobste.rs/s/y7aql5/introduction_auto_vectorization_with) - [An introduction to auto-vectorization with LLVM](https://artagnon.com/computing/compilers/intro-vec)
 * [2024-07-04, 14:13:49](https://lobste.rs/s/6cktqx/beating_numpy_s_matrix_multiplication) - [Beating NumPy’s matrix multiplication in 150 lines of C code](https://salykova.github.io/matmul-cpu)
 * [2024-07-04, 14:11:19](https://lobste.rs/s/toom09/locally_patching_dependencies_go) - [Locally patching dependencies in Go](https://eli.thegreenplace.net/2024/locally-patching-dependencies-in-go/)
 * [2024-07-04, 13:28:18](https://lobste.rs/s/mkfknq/mediawiki_on_kubernetes) - [MediaWiki On Kubernetes](https://wikitech.wikimedia.org/wiki/MediaWiki_On_Kubernetes)
