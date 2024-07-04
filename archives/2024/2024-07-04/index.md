@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 19:51:38](https://lobste.rs/s/eng24x/debian_s_curl_now_supports_http3) - [Debian's curl now supports HTTP3](https://samueloph.dev/blog/debian-curl-now-supports-http3/)
 * [2024-07-04, 19:42:00](https://lobste.rs/s/5jhxg2/jruby_blog_independence_day) - [The JRuby Blog : Independence Day](https://blog.jruby.org/2024/07/independence-day)
 * [2024-07-04, 19:01:14](https://lobste.rs/s/bcgcgs/go_web_framework_self_promotion) - [Go Web Framework - self-promotion](https://andrewarrow.dev/)
 * [2024-07-04, 16:33:52](https://lobste.rs/s/ozsyss/why_build_new_language) - [Why build a new language?](https://blog.spade-lang.org/why-write-a-new-language/)
