@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 16:33:52",
+      "https://lobste.rs/s/ozsyss/why_build_new_language"
+    ],
+    [
+      "Why build a new language?",
+      "https://blog.spade-lang.org/why-write-a-new-language/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 16:14:59",
       "https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil"
     ],
@@ -177,16 +187,6 @@
     [
       "Sidekiq 7.3.0: Job Iteration",
       "https://www.mikeperham.com/2024/07/03/iteration-and-sidekiq-7.3.0/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 14:06:19",
-      "https://lobste.rs/s/w6sie0/announcing_typescript_5_5"
-    ],
-    [
-      "Announcing TypeScript 5.5",
-      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-5/"
     ]
   ],
   [
