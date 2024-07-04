@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 07:29:10](https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-04, 06:27:48](https://lobste.rs/s/vwediz/path_dependence_relational_design) - [Path dependence in relational design](https://minimalmodeling.substack.com/p/path-dependence-in-relational-design)
 * [2024-07-04, 04:49:48](https://lobste.rs/s/qnjkyc/exorcising_us_primer) - [Exorcising us of the Primer](https://andymatuschak.org/primer/)
 * [2024-07-04, 00:57:58](https://lobste.rs/s/mk05nz/against_innovation_tokens) - [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
 * [2024-07-04, 00:44:35](https://lobste.rs/s/gqoxar/what_s_my_location_history) - [What’s in my Location History?](https://zdimension.fr/whats-in-my-location-history/)
 * [2024-07-03, 23:56:23](https://lobste.rs/s/etdf3c/network_manager_rust_s_zbus) - [Network Manager and Rust's zbus](https://rbs.io/2024/07/network-manager-and-rusts-zbus/)
-* [2024-07-03, 21:18:14](https://lobste.rs/s/omlcnb/jsmn_json_parser_tokenizer_without) - [jsmn: a JSON parser/tokenizer without dependencies (not even libc)](https://github.com/zserge/jsmn)
 * [2024-07-03, 20:25:19](https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024) - [Running a multi-gig Home Network in 2024](https://atodorov.me/2024/07/03/running-a-multi-gig-home-network-in-2024/)
 * [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
