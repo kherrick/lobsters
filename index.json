@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-07-04, 13:20:49",
+      "https://lobste.rs/s/ulji25/i_sent_500_million_http_requests_2_5"
+    ],
+    [
+      "I sent 500 million HTTP requests to 2.5 million hosts",
+      "https://www.moczadlo.com/2024/how-i-sent-500-million-http-requests-in-under-24h"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 12:10:42",
       "https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3"
     ],
@@ -127,16 +137,6 @@
     [
       "A Git story: Not so fun this time",
       "https://blog.brachiosoft.com/en/posts/git/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 06:27:48",
-      "https://lobste.rs/s/vwediz/path_dependence_relational_design"
-    ],
-    [
-      "Path dependence in relational design",
-      "https://minimalmodeling.substack.com/p/path-dependence-in-relational-design"
     ]
   ],
   [
