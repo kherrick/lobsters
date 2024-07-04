@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 12:10:42](https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3) - [Connecting Python and Rust with PyO3](https://youtu.be/UmL_CA-v3O8)
 * [2024-07-04, 11:38:47](https://lobste.rs/s/qwhpxh/xsum_exactly_rounded_summation_floating) - [xsum: Exactly-rounded summation of floating point values](https://gitlab.com/radfordneal/xsum)
 * [2024-07-04, 11:24:28](https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 * [2024-07-04, 11:07:20](https://lobste.rs/s/x5kjqo/doodling_with_mac_s_command_icon) - [Doodling with the Mac’s command icon](https://alexwlchan.net/2024/command-icon)
@@ -9,7 +10,6 @@
 * [2024-07-04, 07:29:10](https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
 * [2024-07-04, 06:27:48](https://lobste.rs/s/vwediz/path_dependence_relational_design) - [Path dependence in relational design](https://minimalmodeling.substack.com/p/path-dependence-in-relational-design)
 * [2024-07-04, 00:57:58](https://lobste.rs/s/mk05nz/against_innovation_tokens) - [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
-* [2024-07-04, 00:44:35](https://lobste.rs/s/gqoxar/what_s_my_location_history) - [What’s in my Location History?](https://zdimension.fr/whats-in-my-location-history/)
 * [2024-07-03, 23:56:23](https://lobste.rs/s/etdf3c/network_manager_rust_s_zbus) - [Network Manager and Rust's zbus](https://rbs.io/2024/07/network-manager-and-rusts-zbus/)
 * [2024-07-03, 20:25:19](https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024) - [Running a multi-gig Home Network in 2024](https://atodorov.me/2024/07/03/running-a-multi-gig-home-network-in-2024/)
 * [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
