@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 21:13:53](https://lobste.rs/s/xi4dqg/enhancing_new_york_times_web_performance) - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 * [2024-07-04, 20:14:17](https://lobste.rs/s/kntijf/lensy_moore) - [Lensy Moore](https://blog.cofree.coffee/2024-07-02-lensy-moore/)
 * [2024-07-04, 20:14:11](https://lobste.rs/s/gjs62o/lucent_7_r_e_5ess_telephone_switch_rescue) - [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 * [2024-07-04, 19:51:38](https://lobste.rs/s/eng24x/debian_s_curl_now_supports_http3) - [Debian's curl now supports HTTP3](https://samueloph.dev/blog/debian-curl-now-supports-http3/)
