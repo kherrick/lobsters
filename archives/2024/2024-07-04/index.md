@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-04](index.md)
 
+* [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-04, 09:10:52](https://lobste.rs/s/hhqtz5/cut_90_costs_by_migrating_from_kubernetes) - [Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise](https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/)
 * [2024-07-04, 08:33:10](https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for) - [ttkbootstrap: modern theme and widgets for Python tkinter](https://github.com/israel-dryer/ttkbootstrap)
 * [2024-07-04, 08:30:35](https://lobste.rs/s/zhmxeu/cheapest_nas) - [The cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)

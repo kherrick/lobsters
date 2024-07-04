@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-04, 09:10:52](https://lobste.rs/s/hhqtz5/cut_90_costs_by_migrating_from_kubernetes) - [Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise](https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/)
 * [2024-07-04, 08:33:10](https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for) - [ttkbootstrap: modern theme and widgets for Python tkinter](https://github.com/israel-dryer/ttkbootstrap)
 * [2024-07-04, 08:30:35](https://lobste.rs/s/zhmxeu/cheapest_nas) - [The cheapest NAS](https://sigwait.org/~alex/blog/2024/07/01/the-cheapest-nas.html)
@@ -17,7 +18,6 @@
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 * [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store_2006) - [On the origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
-* [2024-07-03, 13:15:09](https://lobste.rs/s/bdch84/simplifying_key_value_service_using) - [Simplifying a key-value service using CHERIoT](https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html)
 * [2024-07-03, 13:09:23](https://lobste.rs/s/n4inn0/quality_productivity_are_not) - [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
 * [2024-07-03, 12:51:20](https://lobste.rs/s/cbuhlj/systems_distributed_24) - [Systems Distributed '24](https://guergabo.substack.com/p/systems-distributed-24)
 * [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
