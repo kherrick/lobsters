@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 19:42:00",
+      "https://lobste.rs/s/5jhxg2/jruby_blog_independence_day"
+    ],
+    [
+      "The JRuby Blog : Independence Day",
+      "https://blog.jruby.org/2024/07/independence-day"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 19:01:14",
       "https://lobste.rs/s/bcgcgs/go_web_framework_self_promotion"
     ],
@@ -67,16 +77,6 @@
     [
       "structexplorer: Go struct inspection web service",
       "https://github.com/emicklei/structexplorer"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 13:20:49",
-      "https://lobste.rs/s/ulji25/i_sent_500_million_http_requests_2_5"
-    ],
-    [
-      "I sent 500 million HTTP requests to 2.5 million hosts",
-      "https://www.moczadlo.com/2024/how-i-sent-500-million-http-requests-in-under-24h"
     ]
   ],
   [
