@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-07-04, 08:33:10",
+      "https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for"
+    ],
+    [
+      "ttkbootstrap: modern theme and widgets for Python tkinter",
+      "https://github.com/israel-dryer/ttkbootstrap"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 07:29:10",
       "https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time"
     ],
@@ -237,16 +247,6 @@
     [
       "We have proved \"BB(5) = 47,176,870\"",
       "https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237"
-    ]
-  ],
-  [
-    [
-      "2024-07-02, 15:28:47",
-      "https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm"
-    ],
-    [
-      "Ryzen 7 Mini-PC makes a power-efficient VM host",
-      "https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/"
     ]
   ]
 ]
