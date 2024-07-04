@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 22:35:16",
+      "https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize"
+    ],
+    [
+      "I Have No Constructor, and I Must Initialize",
+      "https://consteval.ca/2024/07/03/initialization/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 21:49:04",
       "https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq"
     ],
@@ -62,10 +72,10 @@
   [
     [
       "2024-07-04, 19:01:14",
-      "https://lobste.rs/s/bcgcgs/go_web_framework_self_promotion"
+      "https://lobste.rs/s/bcgcgs/feedback_golang_webapp_framework"
     ],
     [
-      "Go Web Framework - self-promotion",
+      "Feedback - A Golang Webapp Framework",
       "https://andrewarrow.dev/"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Against Innovation Tokens",
       "https://blog.glyph.im/2024/07/against-innovation-tokens.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 20:07:40",
-      "https://lobste.rs/s/rejw0l/ready_player_mode"
-    ],
-    [
-      "Ready Player Mode",
-      "https://lmno.lol/alvaro/ready-player-mode"
     ]
   ],
   [
