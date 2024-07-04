@@ -4,7 +4,6 @@
 * [2024-07-04, 00:57:58](https://lobste.rs/s/mk05nz/against_innovation_tokens) - [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
 * [2024-07-04, 00:44:35](https://lobste.rs/s/gqoxar/what_s_my_location_history) - [What’s in my Location History?](https://zdimension.fr/whats-in-my-location-history/)
 * [2024-07-03, 23:56:23](https://lobste.rs/s/etdf3c/network_manager_rust_s_zbus) - [Network Manager and Rust's zbus](https://rbs.io/2024/07/network-manager-and-rusts-zbus/)
-* [2024-07-03, 22:32:06](https://lobste.rs/s/eyeuhd/type_level_arithmetic_typescript_part_1) - [Type-level Arithmetic in TypeScript: Part 1 - Type Safe Time Intervals](https://brieuckaisin.hashnode.dev/type-level-arithmetic-in-typescript-part-1-type-safe-time-intervals)
 * [2024-07-03, 20:25:19](https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024) - [Running a multi-gig Home Network in 2024](https://atodorov.me/2024/07/03/running-a-multi-gig-home-network-in-2024/)
 * [2024-07-03, 20:07:40](https://lobste.rs/s/rejw0l/ready_player_mode) - [Ready Player Mode](https://lmno.lol/alvaro/ready-player-mode)
 * [2024-07-03, 16:36:17](https://lobste.rs/s/8l6arf/making_linux_managed_network_switch) - [Making a Linux-managed network switch](https://blog.brixit.nl/making-a-linux-managed-network-switch/)
@@ -23,6 +22,7 @@
 * [2024-07-03, 11:33:34](https://lobste.rs/s/hersa2/about_time_my_thinkpad_t430_ran_with) - [About the time my ThinkPad T430 ran with an external GPU](https://ounapuu.ee/posts/2024/07/03/thinkpad-t430-egpu/)
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-03, 08:52:19](https://lobste.rs/s/ruwqar/i_received_ai_email) - [I received an AI email](https://timharek.no/blog/i-received-an-ai-email)
+* [2024-07-03, 05:57:05](https://lobste.rs/s/qhsz2b/trip_report_summer_iso_c_standards) - [Trip report: Summer ISO C++ standards meeting (St Louis, MO, USA)](https://herbsutter.com/2024/07/02/trip-report-summer-iso-c-standards-meeting-st-louis-mo-usa/)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
 * [2024-07-02, 15:28:47](https://lobste.rs/s/2l5azq/ryzen_7_mini_pc_makes_power_efficient_vm) - [Ryzen 7 Mini-PC makes a power-efficient VM host](https://michael.stapelberg.ch/posts/2024-07-02-ryzen-7-mini-pc-low-power-proxmox-hypervisor/)
 
