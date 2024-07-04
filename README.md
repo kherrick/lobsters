@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-04, 13:20:49](https://lobste.rs/s/ulji25/i_sent_500_million_http_requests_2_5) - [I sent 500 million HTTP requests to 2.5 million hosts](https://www.moczadlo.com/2024/how-i-sent-500-million-http-requests-in-under-24h)
 * [2024-07-04, 12:10:42](https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3) - [Connecting Python and Rust with PyO3](https://youtu.be/UmL_CA-v3O8)
 * [2024-07-04, 11:38:47](https://lobste.rs/s/qwhpxh/xsum_exactly_rounded_summation_floating) - [xsum: Exactly-rounded summation of floating point values](https://gitlab.com/radfordneal/xsum)
 * [2024-07-04, 11:24:28](https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
@@ -21,7 +22,6 @@
 * [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store_2006) - [On the origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
 * [2024-07-03, 13:09:23](https://lobste.rs/s/n4inn0/quality_productivity_are_not) - [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
-* [2024-07-03, 12:51:20](https://lobste.rs/s/cbuhlj/systems_distributed_24) - [Systems Distributed '24](https://guergabo.substack.com/p/systems-distributed-24)
 * [2024-07-03, 12:28:36](https://lobste.rs/s/uyuumq/qr_cube_projections_this_cube_give_6_qr) - [QR Cube -- projections of this cube give 6 QR codes with different messages](https://www.youtube.com/watch?v=OXfD0tRtAzo)
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 * [2024-07-02, 21:57:13](https://lobste.rs/s/jnrxuv/we_have_proved_bb_5_47_176_870) - [We have proved \"BB(5) = 47,176,870\"](https://discuss.bbchallenge.org/t/july-2nd-2024-we-have-proved-bb-5-47-176-870/237)
