@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
+* [2024-07-04, 22:41:49](https://lobste.rs/s/o2vwzm/snapdragon_x_elite_s_adreno_igpu) - [The Snapdragon X Elite’s Adreno iGPU](https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
 * [2024-07-04, 21:13:53](https://lobste.rs/s/xi4dqg/enhancing_new_york_times_web_performance) - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 * [2024-07-04, 20:14:17](https://lobste.rs/s/kntijf/lensy_moore) - [Lensy Moore](https://blog.cofree.coffee/2024-07-02-lensy-moore/)
