@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-04, 09:10:52",
+      "https://lobste.rs/s/hhqtz5/cut_90_costs_by_migrating_from_kubernetes"
+    ],
+    [
+      "Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise",
+      "https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/"
+    ]
+  ],
+  [
+    [
       "2024-07-04, 08:33:10",
       "https://lobste.rs/s/onjgks/ttkbootstrap_modern_theme_widgets_for"
     ],
@@ -71,16 +81,6 @@
   ],
   [
     [
-      "2024-07-03, 21:18:14",
-      "https://lobste.rs/s/omlcnb/jsmn_json_parser_tokenizer_without"
-    ],
-    [
-      "jsmn: a JSON parser/tokenizer without dependencies (not even libc)",
-      "https://github.com/zserge/jsmn"
-    ]
-  ],
-  [
-    [
       "2024-07-03, 20:25:19",
       "https://lobste.rs/s/e9tnch/running_multi_gig_home_network_2024"
     ],
@@ -107,16 +107,6 @@
     [
       "Making a Linux-managed network switch",
       "https://blog.brixit.nl/making-a-linux-managed-network-switch/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 15:00:10",
-      "https://lobste.rs/s/zhzywe/how_webrtc_speaker_selection_works"
-    ],
-    [
-      "How WebRTC speaker selection works",
-      "https://blog.mozilla.org/webrtc/how-webrtc-speaker-selection-works/"
     ]
   ],
   [
@@ -177,6 +167,16 @@
     [
       "Reasons to use your shell's job control",
       "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/"
+    ]
+  ],
+  [
+    [
+      "2024-07-03, 13:15:09",
+      "https://lobste.rs/s/bdch84/simplifying_key_value_service_using"
+    ],
+    [
+      "Simplifying a key-value service using CHERIoT",
+      "https://cheriot.org/development/rtos/2024/07/03/simplifying-services.html"
     ]
   ],
   [
