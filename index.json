@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-05, 18:38:15",
+      "https://lobste.rs/s/szslrx/how_convert_python_applications"
+    ],
+    [
+      "How to convert Python Applications to installable applications?",
+      "https://lobste.rs/s/szslrx/how_convert_python_applications"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 18:38:11",
+      "https://lobste.rs/s/qpf3vs/common_expression_language_interpreter"
+    ],
+    [
+      "Common Expression Language interpreter written in Rust",
+      "https://github.com/clarkmcc/cel-rust"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 17:17:12",
       "https://lobste.rs/s/xc8lta/post_open_what_comes_after_open_source"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-04, 11:24:28",
-      "https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell"
-    ],
-    [
-      "Jeffrey Snover and the Making of PowerShell",
-      "https://corecursive.com/building-powershell-with-jeffrey-snover/"
-    ]
-  ],
-  [
-    [
       "2024-07-04, 10:11:49",
       "https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system"
     ],
@@ -227,16 +237,6 @@
     [
       "From Cloud Chaos to FreeBSD Efficiency",
       "https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 00:57:58",
-      "https://lobste.rs/s/mk05nz/against_innovation_tokens"
-    ],
-    [
-      "Against Innovation Tokens",
-      "https://blog.glyph.im/2024/07/against-innovation-tokens.html"
     ]
   ],
   [
