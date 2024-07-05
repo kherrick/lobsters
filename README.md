@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-05, 04:24:00](https://lobste.rs/s/iq6rch/there_s_plenty_room_at_top_what_will_drive) - [There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://www.science.org/doi/10.1126/science.aam9744)
 * [2024-07-05, 04:08:16](https://lobste.rs/s/oukekp/coding_machines_fiction) - [Coding Machines (fiction)](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-05, 02:21:02](https://lobste.rs/s/zysgyv/bevy_0_14_released) - [Bevy 0.14 Released](https://bevyengine.org/news/bevy-0-14/)
@@ -7,7 +8,6 @@
 * [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
 * [2024-07-04, 21:13:53](https://lobste.rs/s/xi4dqg/enhancing_new_york_times_web_performance) - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
-* [2024-07-04, 20:14:17](https://lobste.rs/s/kntijf/lensy_moore) - [Lensy Moore](https://blog.cofree.coffee/2024-07-02-lensy-moore/)
 * [2024-07-04, 20:14:11](https://lobste.rs/s/gjs62o/lucent_7_r_e_5ess_telephone_switch_rescue) - [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 * [2024-07-04, 19:51:38](https://lobste.rs/s/eng24x/debian_s_curl_now_supports_http3) - [Debian's curl now supports HTTP3](https://samueloph.dev/blog/debian-curl-now-supports-http3/)
 * [2024-07-04, 19:42:00](https://lobste.rs/s/5jhxg2/jruby_blog_independence_day) - [The JRuby Blog : Independence Day](https://blog.jruby.org/2024/07/independence-day)
