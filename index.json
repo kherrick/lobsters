@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-05, 04:46:07",
+      "https://lobste.rs/s/h4kirs/technical_skills"
+    ],
+    [
+      "\"Technical\" skills",
+      "https://sashalaundy.com/writing/technical-skills/"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 04:24:00",
       "https://lobste.rs/s/iq6rch/there_s_plenty_room_at_top_what_will_drive"
     ],
@@ -237,16 +247,6 @@
     [
       "Reasons to use your shell's job control",
       "https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 10:02:17",
-      "https://lobste.rs/s/uutqvn/sad_state_property_based_testing"
-    ],
-    [
-      "The sad state of property-based testing libraries",
-      "https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html"
     ]
   ]
 ]
