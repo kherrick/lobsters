@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-05, 13:41:59](https://lobste.rs/s/gtcmag/finding_near_duplicates_with_jaccard) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-05, 13:39:04](https://lobste.rs/s/czkrf4/ai_s_600b_question) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 * [2024-07-05, 13:37:02](https://lobste.rs/s/foi6sk/software_crisis) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
 * [2024-07-05, 09:13:44](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend)
@@ -17,7 +18,6 @@
 * [2024-07-04, 19:01:14](https://lobste.rs/s/bcgcgs/feedback_golang_webapp_framework) - [Feedback - A Golang Webapp Framework](https://andrewarrow.dev/)
 * [2024-07-04, 16:14:59](https://lobste.rs/s/2m6hut/evil_helix_bringing_helix_editor_evil) - [evil-helix: Bringing the Helix editor to the evil side](https://github.com/usagi-flow/evil-helix)
 * [2024-07-04, 14:13:49](https://lobste.rs/s/6cktqx/beating_numpy_s_matrix_multiplication) - [Beating NumPy’s matrix multiplication in 150 lines of C code](https://salykova.github.io/matmul-cpu)
-* [2024-07-04, 13:26:06](https://lobste.rs/s/vq8s7q/structexplorer_go_struct_inspection_web) - [structexplorer: Go struct inspection web service](https://github.com/emicklei/structexplorer)
 * [2024-07-04, 12:10:42](https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3) - [Connecting Python and Rust with PyO3](https://youtu.be/UmL_CA-v3O8)
 * [2024-07-04, 11:24:28](https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 * [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
