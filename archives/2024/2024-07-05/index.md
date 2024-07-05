@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 20:58:05](https://lobste.rs/s/nuutbe/preserving_floppy_disk_with_logic) - [Preserving a floppy disk with a logic analyzer and a serial cable (2022)](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
 * [2024-07-05, 19:37:07](https://lobste.rs/s/qrzmu8/vr_optics_why_ipd_means_too_many_things) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 * [2024-07-05, 18:38:15](https://lobste.rs/s/szslrx/how_convert_python_applications) - [How to convert Python Applications to installable applications?](https://lobste.rs/s/szslrx/how_convert_python_applications)
 * [2024-07-05, 18:38:11](https://lobste.rs/s/qpf3vs/common_expression_language_interpreter) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
