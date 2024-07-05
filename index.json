@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-05, 13:41:59",
+      "https://lobste.rs/s/gtcmag/finding_near_duplicates_with_jaccard"
+    ],
+    [
+      "Finding near-duplicates with Jaccard similarity and MinHash",
+      "https://blog.nelhage.com/post/fuzzy-dedup/"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 13:39:04",
       "https://lobste.rs/s/czkrf4/ai_s_600b_question"
     ],
@@ -167,16 +177,6 @@
     [
       "Beating NumPy’s matrix multiplication in 150 lines of C code",
       "https://salykova.github.io/matmul-cpu"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 13:26:06",
-      "https://lobste.rs/s/vq8s7q/structexplorer_go_struct_inspection_web"
-    ],
-    [
-      "structexplorer: Go struct inspection web service",
-      "https://github.com/emicklei/structexplorer"
     ]
   ],
   [
