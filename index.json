@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-07-05, 13:39:04",
-      "https://lobste.rs/s/czkrf4/ai_s_600b_question"
-    ],
-    [
-      "AI's $600B Question",
-      "https://www.sequoiacap.com/article/ais-600b-question/"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 13:37:02",
       "https://lobste.rs/s/foi6sk/software_crisis"
     ],
@@ -217,6 +207,16 @@
     [
       "Feedback - A Golang Webapp Framework",
       "https://andrewarrow.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 12:10:42",
+      "https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3"
+    ],
+    [
+      "Connecting Python and Rust with PyO3",
+      "https://youtu.be/UmL_CA-v3O8"
     ]
   ],
   [
