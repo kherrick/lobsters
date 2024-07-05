@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 04:46:07](https://lobste.rs/s/h4kirs/technical_skills) - [\"Technical\" skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 04:24:00](https://lobste.rs/s/iq6rch/there_s_plenty_room_at_top_what_will_drive) - [There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://www.science.org/doi/10.1126/science.aam9744)
 * [2024-07-05, 04:08:16](https://lobste.rs/s/oukekp/coding_machines_fiction) - [Coding Machines (fiction)](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
