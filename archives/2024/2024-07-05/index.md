@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 16:48:04](https://lobste.rs/s/oa4tkx/larena_yet_another_simple_header_only) - [larena: Yet another simple header only arena allocator for C](https://github.com/linkdd/larena)
 * [2024-07-05, 16:30:25](https://lobste.rs/s/udbk3r/how_hls_works) - [How HLS Works](https://jazco.dev/2024/07/05/hls/)
 * [2024-07-05, 14:51:23](https://lobste.rs/s/egzatf/imhex_hex_editor_for_reverse_engineers) - [ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [2024-07-05, 13:41:59](https://lobste.rs/s/gtcmag/finding_near_duplicates_with_jaccard) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
