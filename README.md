@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-05, 00:09:55](https://lobste.rs/s/komti1/history_alt_number_sequences_why_alt_9731) - [The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-04, 23:43:12](https://lobste.rs/s/quzrco/upgrading_my_chumby_8_kernel_part_12_uart) - [Upgrading my Chumby 8 kernel part 12: UART woes](https://www.downtowndougbrown.com/2024/07/upgrading-my-chumby-8-kernel-part-12-uart-woes/)
 * [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
@@ -23,7 +24,6 @@
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 * [2024-07-03, 13:21:32](https://lobste.rs/s/q7rxib/on_origins_ds_store_2006) - [On the origins of DS_store (2006)](https://www.arno.org/on-the-origins-of-ds-store)
 * [2024-07-03, 13:20:58](https://lobste.rs/s/2juc8n/reasons_use_your_shell_s_job_control) - [Reasons to use your shell's job control](https://jvns.ca/blog/2024/07/03/reasons-to-use-job-control/)
-* [2024-07-03, 13:09:23](https://lobste.rs/s/n4inn0/quality_productivity_are_not) - [Quality and productivity are not necessarily mutually exclusive](https://www.haskellforall.com/2024/07/quality-and-productivity-are-not.html)
 * [2024-07-03, 10:02:17](https://lobste.rs/s/uutqvn/sad_state_property_based_testing) - [The sad state of property-based testing libraries](https://stevana.github.io/the_sad_state_of_property-based_testing_libraries.html)
 
 ## [Archives](archives/index.md)
