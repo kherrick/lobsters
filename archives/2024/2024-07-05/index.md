@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 18:38:15](https://lobste.rs/s/szslrx/how_convert_python_applications) - [How to convert Python Applications to installable applications?](https://lobste.rs/s/szslrx/how_convert_python_applications)
+* [2024-07-05, 18:38:11](https://lobste.rs/s/qpf3vs/common_expression_language_interpreter) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-05, 17:17:12](https://lobste.rs/s/xc8lta/post_open_what_comes_after_open_source) - [Post-Open: What Comes After Open Source](https://postopen.org/)
 * [2024-07-05, 16:48:04](https://lobste.rs/s/oa4tkx/larena_yet_another_simple_header_only) - [larena: Yet another simple header only arena allocator for C](https://github.com/linkdd/larena)
 * [2024-07-05, 16:30:25](https://lobste.rs/s/udbk3r/how_hls_works) - [How HLS Works](https://jazco.dev/2024/07/05/hls/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-05, 18:38:15](https://lobste.rs/s/szslrx/how_convert_python_applications) - [How to convert Python Applications to installable applications?](https://lobste.rs/s/szslrx/how_convert_python_applications)
+* [2024-07-05, 18:38:11](https://lobste.rs/s/qpf3vs/common_expression_language_interpreter) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-05, 17:17:12](https://lobste.rs/s/xc8lta/post_open_what_comes_after_open_source) - [Post-Open: What Comes After Open Source](https://postopen.org/)
 * [2024-07-05, 16:48:04](https://lobste.rs/s/oa4tkx/larena_yet_another_simple_header_only) - [larena: Yet another simple header only arena allocator for C](https://github.com/linkdd/larena)
 * [2024-07-05, 16:30:25](https://lobste.rs/s/udbk3r/how_hls_works) - [How HLS Works](https://jazco.dev/2024/07/05/hls/)
@@ -20,10 +22,8 @@
 * [2024-07-04, 19:42:00](https://lobste.rs/s/5jhxg2/jruby_blog_independence_day) - [The JRuby Blog : Independence Day](https://blog.jruby.org/2024/07/independence-day)
 * [2024-07-04, 19:01:14](https://lobste.rs/s/bcgcgs/feedback_golang_webapp_framework) - [Feedback - A Golang Webapp Framework](https://andrewarrow.dev/)
 * [2024-07-04, 12:10:42](https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3) - [Connecting Python and Rust with PyO3](https://youtu.be/UmL_CA-v3O8)
-* [2024-07-04, 11:24:28](https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
 * [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-04, 09:10:52](https://lobste.rs/s/hhqtz5/from_cloud_chaos_freebsd_efficiency) - [From Cloud Chaos to FreeBSD Efficiency](https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/)
-* [2024-07-04, 00:57:58](https://lobste.rs/s/mk05nz/against_innovation_tokens) - [Against Innovation Tokens](https://blog.glyph.im/2024/07/against-innovation-tokens.html)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 
 ## [Archives](archives/index.md)
