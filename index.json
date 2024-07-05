@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-05, 13:39:04",
+      "https://lobste.rs/s/czkrf4/ai_s_600b_question"
+    ],
+    [
+      "AI's $600B Question",
+      "https://www.sequoiacap.com/article/ais-600b-question/"
+    ]
+  ],
+  [
+    [
+      "2024-07-05, 13:37:02",
+      "https://lobste.rs/s/foi6sk/software_crisis"
+    ],
+    [
+      "The Software Crisis",
+      "https://wryl.tech/log/2024/the-software-crisis.html"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 09:13:44",
       "https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend"
     ],
@@ -57,16 +77,6 @@
     [
       "The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman",
       "https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 22:41:49",
-      "https://lobste.rs/s/o2vwzm/snapdragon_x_elite_s_adreno_igpu"
-    ],
-    [
-      "The Snapdragon X Elite’s Adreno iGPU",
-      "https://chipsandcheese.com/2024/07/04/the-snapdragon-x-elites-adreno-igpu/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "evil-helix: Bringing the Helix editor to the evil side",
       "https://github.com/usagi-flow/evil-helix"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 16:03:27",
-      "https://lobste.rs/s/y7aql5/introduction_auto_vectorization_with"
-    ],
-    [
-      "An introduction to auto-vectorization with LLVM",
-      "https://artagnon.com/computing/compilers/intro-vec"
     ]
   ],
   [
