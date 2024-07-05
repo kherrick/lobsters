@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 13:39:04](https://lobste.rs/s/czkrf4/ai_s_600b_question) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
+* [2024-07-05, 13:37:02](https://lobste.rs/s/foi6sk/software_crisis) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
 * [2024-07-05, 09:13:44](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend)
 * [2024-07-05, 04:46:07](https://lobste.rs/s/h4kirs/technical_skills) - [\"Technical\" skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 04:24:00](https://lobste.rs/s/iq6rch/there_s_plenty_room_at_top_what_will_drive) - [There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://www.science.org/doi/10.1126/science.aam9744)
