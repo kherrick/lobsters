@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 04:08:16](https://lobste.rs/s/oukekp/coding_machines_fiction) - [Coding Machines (fiction)](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-05, 02:21:02](https://lobste.rs/s/zysgyv/bevy_0_14_released) - [Bevy 0.14 Released](https://bevyengine.org/news/bevy-0-14/)
 * [2024-07-05, 00:09:55](https://lobste.rs/s/komti1/history_alt_number_sequences_why_alt_9731) - [The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)

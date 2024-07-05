@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-05, 04:08:16](https://lobste.rs/s/oukekp/coding_machines_fiction) - [Coding Machines (fiction)](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-05, 02:21:02](https://lobste.rs/s/zysgyv/bevy_0_14_released) - [Bevy 0.14 Released](https://bevyengine.org/news/bevy-0-14/)
 * [2024-07-05, 00:09:55](https://lobste.rs/s/komti1/history_alt_number_sequences_why_alt_9731) - [The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
@@ -17,7 +18,6 @@
 * [2024-07-04, 13:26:06](https://lobste.rs/s/vq8s7q/structexplorer_go_struct_inspection_web) - [structexplorer: Go struct inspection web service](https://github.com/emicklei/structexplorer)
 * [2024-07-04, 12:10:42](https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3) - [Connecting Python and Rust with PyO3](https://youtu.be/UmL_CA-v3O8)
 * [2024-07-04, 11:24:28](https://lobste.rs/s/h20zc0/jeffrey_snover_making_powershell) - [Jeffrey Snover and the Making of PowerShell](https://corecursive.com/building-powershell-with-jeffrey-snover/)
-* [2024-07-04, 11:07:20](https://lobste.rs/s/x5kjqo/doodling_with_mac_s_command_icon) - [Doodling with the Mac’s command icon](https://alexwlchan.net/2024/command-icon)
 * [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-04, 09:10:52](https://lobste.rs/s/hhqtz5/cut_90_costs_by_migrating_from_kubernetes) - [Cut 90% Costs by Migrating from Kubernetes in Cloud to FreeBSD on Premise](https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/)
 * [2024-07-04, 07:29:10](https://lobste.rs/s/nhhsly/git_story_not_so_fun_this_time) - [A Git story: Not so fun this time](https://blog.brachiosoft.com/en/posts/git/)
