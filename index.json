@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-07-05, 18:38:15",
-      "https://lobste.rs/s/szslrx/how_convert_python_applications"
-    ],
-    [
-      "How to convert Python Applications to installable applications?",
-      "https://lobste.rs/s/szslrx/how_convert_python_applications"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 18:38:11",
       "https://lobste.rs/s/qpf3vs/common_expression_language_interpreter"
     ],
@@ -217,6 +207,16 @@
     [
       "Feedback - A Golang Webapp Framework",
       "https://andrewarrow.dev/"
+    ]
+  ],
+  [
+    [
+      "2024-07-04, 12:10:42",
+      "https://lobste.rs/s/lhkxn6/connecting_python_rust_with_pyo3"
+    ],
+    [
+      "Connecting Python and Rust with PyO3",
+      "https://youtu.be/UmL_CA-v3O8"
     ]
   ],
   [
