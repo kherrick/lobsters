@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-05, 09:13:44](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend)
 * [2024-07-05, 04:46:07](https://lobste.rs/s/h4kirs/technical_skills) - [\"Technical\" skills](https://sashalaundy.com/writing/technical-skills/)
-* [2024-07-05, 04:24:00](https://lobste.rs/s/iq6rch/there_s_plenty_room_at_top_what_will_drive) - [There’s plenty of room at the Top: What will drive computer performance after Moore’s law?](https://www.science.org/doi/10.1126/science.aam9744)
 * [2024-07-05, 04:08:16](https://lobste.rs/s/oukekp/coding_machines_fiction) - [Coding Machines (fiction)](https://corecursive.com/coding-machines-with-don-and-krystal/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-05, 02:21:02](https://lobste.rs/s/zysgyv/bevy_0_14_released) - [Bevy 0.14 Released](https://bevyengine.org/news/bevy-0-14/)
