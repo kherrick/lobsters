@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-05](index.md)
 
+* [2024-07-05, 14:51:23](https://lobste.rs/s/egzatf/imhex_hex_editor_for_reverse_engineers) - [ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [2024-07-05, 13:41:59](https://lobste.rs/s/gtcmag/finding_near_duplicates_with_jaccard) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-05, 13:39:04](https://lobste.rs/s/czkrf4/ai_s_600b_question) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 * [2024-07-05, 13:37:02](https://lobste.rs/s/foi6sk/software_crisis) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)

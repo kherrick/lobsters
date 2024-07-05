@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-05, 14:51:23](https://lobste.rs/s/egzatf/imhex_hex_editor_for_reverse_engineers) - [ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [2024-07-05, 13:41:59](https://lobste.rs/s/gtcmag/finding_near_duplicates_with_jaccard) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-05, 13:39:04](https://lobste.rs/s/czkrf4/ai_s_600b_question) - [AI's $600B Question](https://www.sequoiacap.com/article/ais-600b-question/)
 * [2024-07-05, 13:37:02](https://lobste.rs/s/foi6sk/software_crisis) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
@@ -11,7 +12,6 @@
 * [2024-07-05, 00:09:55](https://lobste.rs/s/komti1/history_alt_number_sequences_why_alt_9731) - [The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
-* [2024-07-04, 21:13:53](https://lobste.rs/s/xi4dqg/enhancing_new_york_times_web_performance) - [Enhancing The New York Times Web Performance with React 18](https://open.nytimes.com/enhancing-the-new-york-times-web-performance-with-react-18-d6f91a7c5af8)
 * [2024-07-04, 20:14:11](https://lobste.rs/s/gjs62o/lucent_7_r_e_5ess_telephone_switch_rescue) - [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 * [2024-07-04, 19:51:38](https://lobste.rs/s/eng24x/debian_s_curl_now_supports_http3) - [Debian's curl now supports HTTP3](https://samueloph.dev/blog/debian-curl-now-supports-http3/)
 * [2024-07-04, 19:42:00](https://lobste.rs/s/5jhxg2/jruby_blog_independence_day) - [The JRuby Blog : Independence Day](https://blog.jruby.org/2024/07/independence-day)
