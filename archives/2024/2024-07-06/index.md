@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 18:04:05](https://lobste.rs/s/3gaocx/from_transistor_web_browser_rough) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
 * [2024-07-06, 17:50:36](https://lobste.rs/s/gj9az1/generative_art_websim) - [Generative art in websim](https://sites.google.com/view/generativeartinwebsim/)
 * [2024-07-06, 15:57:51](https://lobste.rs/s/oaxzzk/synchronization_is_bad_for_scale) - [Synchronization is bad for scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-06, 15:16:17](https://lobste.rs/s/uboac6/files_as_metadata_format) - [Files As Metadata Format](https://prma.dev/posts/files-as-metadata-format)

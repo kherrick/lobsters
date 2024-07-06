@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-06, 18:04:05](https://lobste.rs/s/3gaocx/from_transistor_web_browser_rough) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
 * [2024-07-06, 17:50:36](https://lobste.rs/s/gj9az1/generative_art_websim) - [Generative art in websim](https://sites.google.com/view/generativeartinwebsim/)
 * [2024-07-06, 15:57:51](https://lobste.rs/s/oaxzzk/synchronization_is_bad_for_scale) - [Synchronization is bad for scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-06, 15:16:17](https://lobste.rs/s/uboac6/files_as_metadata_format) - [Files As Metadata Format](https://prma.dev/posts/files-as-metadata-format)
@@ -22,7 +23,6 @@
 * [2024-07-05, 04:46:07](https://lobste.rs/s/h4kirs/technical_skills) - [\"Technical\" skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-05, 00:09:55](https://lobste.rs/s/komti1/history_alt_number_sequences_why_alt_9731) - [The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
-* [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 
