@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-06, 17:50:36",
+      "https://lobste.rs/s/gj9az1/generative_art_websim"
+    ],
+    [
+      "Generative art in websim",
+      "https://sites.google.com/view/generativeartinwebsim/"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 15:57:51",
       "https://lobste.rs/s/oaxzzk/synchronization_is_bad_for_scale"
     ],
@@ -37,16 +47,6 @@
     [
       "Resetting timers in Go",
       "https://antonz.org/timer-reset/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 11:06:06",
-      "https://lobste.rs/s/c2z61k/path_traversal_youtube_dl_leading_rce_cve"
-    ],
-    [
-      "Path traversal in youtube-dl leading to RCE - CVE-2024-38519",
-      "https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/"
     ]
   ],
   [
