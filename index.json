@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-06, 18:04:05",
+      "https://lobste.rs/s/3gaocx/from_transistor_web_browser_rough"
+    ],
+    [
+      "From the Transistor to the Web Browser, a rough outline for a 12 week course",
+      "https://github.com/geohot/fromthetransistor"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 17:50:36",
       "https://lobste.rs/s/gj9az1/generative_art_websim"
     ],
@@ -217,16 +227,6 @@
     [
       "The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman",
       "https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 22:35:16",
-      "https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize"
-    ],
-    [
-      "I Have No Constructor, and I Must Initialize",
-      "https://consteval.ca/2024/07/03/initialization/"
     ]
   ],
   [
