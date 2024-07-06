@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-06, 12:40:49",
+      "https://lobste.rs/s/tz7kci/resetting_timers_go"
+    ],
+    [
+      "Resetting timers in Go",
+      "https://antonz.org/timer-reset/"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 11:43:32",
       "https://lobste.rs/s/tr9iqh/aya_minimalist_version_control_system"
     ],
@@ -227,16 +237,6 @@
     [
       "jqjq: jq implementation of jq",
       "https://github.com/wader/jqjq"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 10:11:49",
-      "https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system"
-    ],
-    [
-      "Why Apple didn't use X for the window system (2003)",
-      "https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612"
     ]
   ],
   [
