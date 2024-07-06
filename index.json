@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-06, 15:57:51",
+      "https://lobste.rs/s/oaxzzk/synchronization_is_bad_for_scale"
+    ],
+    [
+      "Synchronization is bad for scale",
+      "https://wippler.dev/posts/synchronization-is-bad-for-scale"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 15:16:17",
       "https://lobste.rs/s/uboac6/files_as_metadata_format"
     ],
@@ -197,16 +207,6 @@
     [
       "Synchronous Core, Asynchronous Shell",
       "https://blog.sulami.xyz/posts/sync-core-async-shell/"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 02:21:02",
-      "https://lobste.rs/s/zysgyv/bevy_0_14_released"
-    ],
-    [
-      "Bevy 0.14 Released",
-      "https://bevyengine.org/news/bevy-0-14/"
     ]
   ],
   [
