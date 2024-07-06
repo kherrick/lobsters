@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-06, 15:57:51](https://lobste.rs/s/oaxzzk/synchronization_is_bad_for_scale) - [Synchronization is bad for scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-06, 15:16:17](https://lobste.rs/s/uboac6/files_as_metadata_format) - [Files As Metadata Format](https://prma.dev/posts/files-as-metadata-format)
 * [2024-07-06, 14:56:32](https://lobste.rs/s/hkrbxk/creating_simple_pastebin_service_python) - [Creating a Simple Pastebin Service in Python and Flask](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
 * [2024-07-06, 12:40:49](https://lobste.rs/s/tz7kci/resetting_timers_go) - [Resetting timers in Go](https://antonz.org/timer-reset/)
@@ -20,7 +21,6 @@
 * [2024-07-05, 09:13:44](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend)
 * [2024-07-05, 04:46:07](https://lobste.rs/s/h4kirs/technical_skills) - [\"Technical\" skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
-* [2024-07-05, 02:21:02](https://lobste.rs/s/zysgyv/bevy_0_14_released) - [Bevy 0.14 Released](https://bevyengine.org/news/bevy-0-14/)
 * [2024-07-05, 00:09:55](https://lobste.rs/s/komti1/history_alt_number_sequences_why_alt_9731) - [The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)

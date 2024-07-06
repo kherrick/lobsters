@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 15:57:51](https://lobste.rs/s/oaxzzk/synchronization_is_bad_for_scale) - [Synchronization is bad for scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-06, 15:16:17](https://lobste.rs/s/uboac6/files_as_metadata_format) - [Files As Metadata Format](https://prma.dev/posts/files-as-metadata-format)
 * [2024-07-06, 14:56:32](https://lobste.rs/s/hkrbxk/creating_simple_pastebin_service_python) - [Creating a Simple Pastebin Service in Python and Flask | Muhammad](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
 * [2024-07-06, 12:40:49](https://lobste.rs/s/tz7kci/resetting_timers_go) - [Resetting timers in Go](https://antonz.org/timer-reset/)
