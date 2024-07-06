@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-06, 11:43:32](https://lobste.rs/s/tr9iqh/aya_minimalist_version_control_system) - [aya: A minimalist version control system with fewer than 6 commands](https://github.com/Mohamedjcali/aya)
 * [2024-07-06, 11:06:06](https://lobste.rs/s/c2z61k/path_traversal_youtube_dl_leading_rce_cve) - [Path traversal in youtube-dl leading to RCE - CVE-2024-38519](https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/)
 * [2024-07-06, 05:47:04](https://lobste.rs/s/ugdatz/practical_nix_flake_anatomy_guided_tour) - [Practical Nix flake anatomy: a guided tour of flake.nix](https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/)
 * [2024-07-06, 02:53:26](https://lobste.rs/s/b0poki/sans_io_secret_effective_rust_for_network) - [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
@@ -21,7 +22,6 @@
 * [2024-07-05, 00:09:55](https://lobste.rs/s/komti1/history_alt_number_sequences_why_alt_9731) - [The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman](https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951)
 * [2024-07-04, 22:35:16](https://lobste.rs/s/0xkanu/i_have_no_constructor_i_must_initialize) - [I Have No Constructor, and I Must Initialize](https://consteval.ca/2024/07/03/initialization/)
 * [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
-* [2024-07-04, 20:14:11](https://lobste.rs/s/gjs62o/lucent_7_r_e_5ess_telephone_switch_rescue) - [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 * [2024-07-04, 19:42:00](https://lobste.rs/s/5jhxg2/jruby_blog_independence_day) - [The JRuby Blog : Independence Day](https://blog.jruby.org/2024/07/independence-day)
 * [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
