@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-07-06](index.md)
 
+* [2024-07-06, 02:18:47](https://lobste.rs/s/4gzl4v/properly_testing_concurrent_data) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 00:30:47](https://lobste.rs/s/qg0qh8/nostr_atproto) - [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
