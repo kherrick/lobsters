@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-07-06, 11:06:06",
+      "https://lobste.rs/s/c2z61k/path_traversal_youtube_dl_leading_rce_cve"
+    ],
+    [
+      "Path traversal in youtube-dl leading to RCE - CVE-2024-38519",
+      "https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 05:47:04",
       "https://lobste.rs/s/ugdatz/practical_nix_flake_anatomy_guided_tour"
     ],
@@ -217,16 +227,6 @@
     [
       "Synchronous Core, Asynchronous Shell",
       "https://blog.sulami.xyz/posts/sync-core-async-shell/"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 00:09:55",
-      "https://lobste.rs/s/komti1/history_alt_number_sequences_why_alt_9731"
-    ],
-    [
-      "The history of Alt+number sequences, and why Alt+9731 sometimes gives you a heart and sometimes a snowman",
-      "https://devblogs.microsoft.com/oldnewthing/20240702-00/?p=109951"
     ]
   ],
   [
