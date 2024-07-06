@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-06, 02:53:26](https://lobste.rs/s/b0poki/sans_io_secret_effective_rust_for_network) - [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-06, 02:18:47](https://lobste.rs/s/4gzl4v/properly_testing_concurrent_data) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 00:30:47](https://lobste.rs/s/qg0qh8/nostr_atproto) - [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2024-07-05, 20:58:05](https://lobste.rs/s/nuutbe/preserving_floppy_disk_with_logic) - [Preserving a floppy disk with a logic analyzer and a serial cable (2022)](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
@@ -21,7 +22,6 @@
 * [2024-07-04, 20:14:11](https://lobste.rs/s/gjs62o/lucent_7_r_e_5ess_telephone_switch_rescue) - [Lucent 7 R/E 5ESS Telephone Switch Rescue](http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/)
 * [2024-07-04, 19:51:38](https://lobste.rs/s/eng24x/debian_s_curl_now_supports_http3) - [Debian's curl now supports HTTP3](https://samueloph.dev/blog/debian-curl-now-supports-http3/)
 * [2024-07-04, 19:42:00](https://lobste.rs/s/5jhxg2/jruby_blog_independence_day) - [The JRuby Blog : Independence Day](https://blog.jruby.org/2024/07/independence-day)
-* [2024-07-04, 19:01:14](https://lobste.rs/s/bcgcgs/feedback_golang_webapp_framework) - [Feedback - A Golang Webapp Framework](https://andrewarrow.dev/)
 * [2024-07-04, 10:11:49](https://lobste.rs/s/ezjgws/why_apple_didn_t_use_x_for_window_system) - [Why Apple didn't use X for the window system (2003)](https://developers.slashdot.org/comments.pl?sid=75257&cid=6734612)
 * [2024-07-04, 09:10:52](https://lobste.rs/s/hhqtz5/from_cloud_chaos_freebsd_efficiency) - [From Cloud Chaos to FreeBSD Efficiency](https://it-notes.dragas.net/2024/07/04/from-cloud-chaos-to-freebsd-efficiency/)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
