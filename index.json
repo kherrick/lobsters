@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-06, 11:06:06",
+      "https://lobste.rs/s/c2z61k/path_traversal_youtube_dl_leading_rce_cve"
+    ],
+    [
+      "Path traversal in youtube-dl leading to RCE - CVE-2024-38519",
+      "https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 05:47:04",
       "https://lobste.rs/s/ugdatz/practical_nix_flake_anatomy_guided_tour"
     ],
@@ -207,16 +217,6 @@
     [
       "Lucent 7 R/E 5ESS Telephone Switch Rescue",
       "http://kev009.com/wp/2024/07/Lucent-5ESS-Rescue/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 19:51:38",
-      "https://lobste.rs/s/eng24x/debian_s_curl_now_supports_http3"
-    ],
-    [
-      "Debian's curl now supports HTTP3",
-      "https://samueloph.dev/blog/debian-curl-now-supports-http3/"
     ]
   ],
   [
