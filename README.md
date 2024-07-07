@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-07, 21:37:39](https://lobste.rs/s/fmhlcg/i_m_funding_ladybird_because_i_can_t_fund) - [I'm Funding Ladybird Because I Can't Fund Firefox](http://jackkelly.name/blog/archives/2024/07/06/im_funding_ladybird_because_i_cant_fund_firefox/)
 * [2024-07-07, 21:30:57](https://lobste.rs/s/2pcsge/block_coding_for_godot_lowering_bar_entry) - [Block Coding for Godot: Lowering the Bar of Entry for a Powerful Tool](https://www.endlessos.org/post/block-coding-for-godot-lowering-the-bar-of-entry-for-a-powerful-tool)
 * [2024-07-07, 20:14:10](https://lobste.rs/s/kuepqy/emotional_disconnect_with_ai_made_works) - [The emotional disconnect with AI made works](https://dostoynikov.com/the-emotional-disconnect-with-ai-made-works/)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
@@ -10,7 +11,6 @@
 * [2024-07-07, 06:02:47](https://lobste.rs/s/qlg4wx/jacobian_vs_hessian_vs_gradient) - [The Jacobian vs. the Hessian vs. the Gradient](https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/)
 * [2024-07-06, 21:36:49](https://lobste.rs/s/bzzw4v/dirty_writes) - [Dirty writes](https://surfingcomplexity.blog/2024/07/05/dirty-writes/)
 * [2024-07-06, 18:04:05](https://lobste.rs/s/3gaocx/from_transistor_web_browser_rough) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
-* [2024-07-06, 17:50:36](https://lobste.rs/s/gj9az1/generative_art_websim) - [Generative art in websim](https://sites.google.com/view/generativeartinwebsim/)
 * [2024-07-06, 15:57:51](https://lobste.rs/s/oaxzzk/synchronization_is_bad_for_scale) - [Synchronization is bad for scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-06, 15:16:17](https://lobste.rs/s/uboac6/files_as_metadata_format) - [Files As Metadata Format](https://prma.dev/posts/files-as-metadata-format)
 * [2024-07-06, 14:56:32](https://lobste.rs/s/hkrbxk/creating_simple_pastebin_service_python) - [Creating a Simple Pastebin Service in Python and Flask](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
