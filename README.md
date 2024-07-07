@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-07, 06:35:20](https://lobste.rs/s/kvkigt/managers_have_no_human_rights) - [Managers have no human rights](https://yosefk.com/blog/managers-have-no-human-rights.html)
 * [2024-07-07, 06:02:47](https://lobste.rs/s/qlg4wx/jacobian_vs_hessian_vs_gradient) - [The Jacobian vs. the Hessian vs. the Gradient](https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/)
 * [2024-07-07, 03:49:10](https://lobste.rs/s/romz52/how_optimizely_almost_got_me_fired) - [How Optimizely (Almost) Got Me Fired](https://analythical.com/blog/optimizely-got-me-fired)
 * [2024-07-06, 21:36:49](https://lobste.rs/s/bzzw4v/dirty_writes) - [Dirty writes](https://surfingcomplexity.blog/2024/07/05/dirty-writes/)
@@ -23,7 +24,6 @@
 * [2024-07-05, 13:37:02](https://lobste.rs/s/foi6sk/software_crisis) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
 * [2024-07-05, 04:46:07](https://lobste.rs/s/h4kirs/technical_skills) - [\"Technical\" skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
-* [2024-07-04, 21:49:04](https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq) - [jqjq: jq implementation of jq](https://github.com/wader/jqjq)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 
 ## [Archives](archives/index.md)
