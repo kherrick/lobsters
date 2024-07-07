@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
 * [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge_xythobuz_de) - [Smart Meter Bridge - xythobuz.de](https://www.xythobuz.de/lora_sml.html)
+* [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge) - [Smart Meter Bridge](https://www.xythobuz.de/lora_sml.html)
 * [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012) - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 * [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft) - [Tough times on the road to Starcraft](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 * [2024-07-07, 06:35:20](https://lobste.rs/s/kvkigt/managers_have_no_human_rights) - [Managers have no human rights](https://yosefk.com/blog/managers-have-no-human-rights.html)

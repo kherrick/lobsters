@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge_xythobuz_de) - [Smart Meter Bridge - xythobuz.de](https://www.xythobuz.de/lora_sml.html)
+* [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge) - [Smart Meter Bridge](https://www.xythobuz.de/lora_sml.html)
 * [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012) - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 * [2024-07-07, 06:02:47](https://lobste.rs/s/qlg4wx/jacobian_vs_hessian_vs_gradient) - [The Jacobian vs. the Hessian vs. the Gradient](https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/)
 * [2024-07-06, 21:36:49](https://lobste.rs/s/bzzw4v/dirty_writes) - [Dirty writes](https://surfingcomplexity.blog/2024/07/05/dirty-writes/)
@@ -15,7 +15,6 @@
 * [2024-07-06, 02:53:26](https://lobste.rs/s/b0poki/sans_io_secret_effective_rust_for_network) - [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-06, 02:18:47](https://lobste.rs/s/4gzl4v/properly_testing_concurrent_data) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 00:30:47](https://lobste.rs/s/qg0qh8/nostr_atproto) - [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
-* [2024-07-05, 20:58:05](https://lobste.rs/s/nuutbe/preserving_floppy_disk_with_logic) - [Preserving a floppy disk with a logic analyzer and a serial cable (2022)](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
 * [2024-07-05, 19:37:07](https://lobste.rs/s/qrzmu8/vr_optics_why_ipd_means_too_many_things) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 * [2024-07-05, 18:38:11](https://lobste.rs/s/qpf3vs/common_expression_language_interpreter) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-05, 17:17:12](https://lobste.rs/s/xc8lta/post_open_what_comes_after_open_source) - [Post-Open: What Comes After Open Source](https://postopen.org/)
@@ -23,6 +22,7 @@
 * [2024-07-05, 16:30:25](https://lobste.rs/s/udbk3r/how_hls_works) - [How HLS Works](https://jazco.dev/2024/07/05/hls/)
 * [2024-07-05, 14:51:23](https://lobste.rs/s/egzatf/imhex_hex_editor_for_reverse_engineers) - [ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
 * [2024-07-05, 13:37:02](https://lobste.rs/s/foi6sk/software_crisis) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
+* [2024-07-05, 04:46:07](https://lobste.rs/s/h4kirs/technical_skills) - [\"Technical\" skills](https://sashalaundy.com/writing/technical-skills/)
 * [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 * [2024-07-03, 13:35:13](https://lobste.rs/s/slfdci/one_dozen_lobsters) - [One Dozen Lobsters](https://lobste.rs/s/slfdci/one_dozen_lobsters)
 
