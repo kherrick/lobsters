@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-07-05, 20:58:05",
+      "https://lobste.rs/s/nuutbe/preserving_floppy_disk_with_logic"
+    ],
+    [
+      "Preserving a floppy disk with a logic analyzer and a serial cable (2022)",
+      "https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/"
+    ]
+  ],
+  [
+    [
       "2024-07-05, 19:37:07",
       "https://lobste.rs/s/qrzmu8/vr_optics_why_ipd_means_too_many_things"
     ],
@@ -227,16 +237,6 @@
     [
       "Synchronous Core, Asynchronous Shell",
       "https://blog.sulami.xyz/posts/sync-core-async-shell/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 21:49:04",
-      "https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq"
-    ],
-    [
-      "jqjq: jq implementation of jq",
-      "https://github.com/wader/jqjq"
     ]
   ],
   [
