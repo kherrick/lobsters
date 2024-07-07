@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-07, 03:49:10",
+      "https://lobste.rs/s/romz52/how_optimizely_almost_got_me_fired"
+    ],
+    [
+      "How Optimizely (Almost) Got Me Fired",
+      "https://analythical.com/blog/optimizely-got-me-fired"
+    ]
+  ],
+  [
+    [
       "2024-07-06, 21:36:49",
       "https://lobste.rs/s/bzzw4v/dirty_writes"
     ],
@@ -177,16 +187,6 @@
     [
       "ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM",
       "https://github.com/WerWolv/ImHex"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 13:41:59",
-      "https://lobste.rs/s/gtcmag/finding_near_duplicates_with_jaccard"
-    ],
-    [
-      "Finding near-duplicates with Jaccard similarity and MinHash",
-      "https://blog.nelhage.com/post/fuzzy-dedup/"
     ]
   ],
   [
