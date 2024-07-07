@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
 * [2024-07-07, 18:47:22](https://lobste.rs/s/iyhyo9/bunch_programming_advice_i_d_give_myself) - [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-07-07, 18:18:09](https://lobste.rs/s/ehd89x/standard_cells_looking_at_individual) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge) - [Smart Meter Bridge](https://www.xythobuz.de/lora_sml.html)
@@ -17,7 +18,6 @@
 * [2024-07-06, 02:53:26](https://lobste.rs/s/b0poki/sans_io_secret_effective_rust_for_network) - [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-06, 02:18:47](https://lobste.rs/s/4gzl4v/properly_testing_concurrent_data) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 00:30:47](https://lobste.rs/s/qg0qh8/nostr_atproto) - [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
-* [2024-07-05, 19:37:07](https://lobste.rs/s/qrzmu8/vr_optics_why_ipd_means_too_many_things) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 * [2024-07-05, 18:38:11](https://lobste.rs/s/qpf3vs/common_expression_language_interpreter) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-05, 17:17:12](https://lobste.rs/s/xc8lta/post_open_what_comes_after_open_source) - [Post-Open: What Comes After Open Source](https://postopen.org/)
 * [2024-07-05, 16:30:25](https://lobste.rs/s/udbk3r/how_hls_works) - [How HLS Works](https://jazco.dev/2024/07/05/hls/)

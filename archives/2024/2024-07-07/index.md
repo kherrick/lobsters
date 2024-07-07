@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
 * [2024-07-07, 18:47:22](https://lobste.rs/s/iyhyo9/bunch_programming_advice_i_d_give_myself) - [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-07-07, 18:18:09](https://lobste.rs/s/ehd89x/standard_cells_looking_at_individual) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge_xythobuz_de) - [Smart Meter Bridge - xythobuz.de](https://www.xythobuz.de/lora_sml.html)
