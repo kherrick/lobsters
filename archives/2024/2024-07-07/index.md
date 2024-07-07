@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-07](index.md)
+
+* [2024-07-07, 03:49:10](https://lobste.rs/s/romz52/how_optimizely_almost_got_me_fired) - [How Optimizely (Almost) Got Me Fired](https://analythical.com/blog/optimizely-got-me-fired)

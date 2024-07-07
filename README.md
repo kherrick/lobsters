@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-07, 03:49:10](https://lobste.rs/s/romz52/how_optimizely_almost_got_me_fired) - [How Optimizely (Almost) Got Me Fired](https://analythical.com/blog/optimizely-got-me-fired)
 * [2024-07-06, 21:36:49](https://lobste.rs/s/bzzw4v/dirty_writes) - [Dirty writes](https://surfingcomplexity.blog/2024/07/05/dirty-writes/)
 * [2024-07-06, 18:04:05](https://lobste.rs/s/3gaocx/from_transistor_web_browser_rough) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
 * [2024-07-06, 17:50:36](https://lobste.rs/s/gj9az1/generative_art_websim) - [Generative art in websim](https://sites.google.com/view/generativeartinwebsim/)
@@ -18,7 +19,6 @@
 * [2024-07-05, 16:48:04](https://lobste.rs/s/oa4tkx/larena_yet_another_simple_header_only) - [larena: Yet another simple header only arena allocator for C](https://github.com/linkdd/larena)
 * [2024-07-05, 16:30:25](https://lobste.rs/s/udbk3r/how_hls_works) - [How HLS Works](https://jazco.dev/2024/07/05/hls/)
 * [2024-07-05, 14:51:23](https://lobste.rs/s/egzatf/imhex_hex_editor_for_reverse_engineers) - [ImHex: A Hex Editor for Reverse Engineers, Programmers and people who value their retinas when working at 3 AM](https://github.com/WerWolv/ImHex)
-* [2024-07-05, 13:41:59](https://lobste.rs/s/gtcmag/finding_near_duplicates_with_jaccard) - [Finding near-duplicates with Jaccard similarity and MinHash](https://blog.nelhage.com/post/fuzzy-dedup/)
 * [2024-07-05, 13:37:02](https://lobste.rs/s/foi6sk/software_crisis) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
 * [2024-07-05, 09:13:44](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iad9qi/what_are_you_doing_this_weekend)
 * [2024-07-05, 04:46:07](https://lobste.rs/s/h4kirs/technical_skills) - [\"Technical\" skills](https://sashalaundy.com/writing/technical-skills/)
