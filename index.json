@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-07, 18:47:22",
+      "https://lobste.rs/s/iyhyo9/bunch_programming_advice_i_d_give_myself"
+    ],
+    [
+      "A Bunch of Programming Advice I’d Give To Myself 15 Years Ago",
+      "https://mbuffett.com/posts/programming-advice-younger-self/"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 18:18:09",
       "https://lobste.rs/s/ehd89x/standard_cells_looking_at_individual"
     ],
@@ -187,16 +197,6 @@
     [
       "Post-Open: What Comes After Open Source",
       "https://postopen.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 16:48:04",
-      "https://lobste.rs/s/oa4tkx/larena_yet_another_simple_header_only"
-    ],
-    [
-      "larena: Yet another simple header only arena allocator for C",
-      "https://github.com/linkdd/larena"
     ]
   ],
   [
