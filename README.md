@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft) - [Tough times on the road to Starcraft](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 * [2024-07-07, 06:02:47](https://lobste.rs/s/qlg4wx/jacobian_vs_hessian_vs_gradient) - [The Jacobian vs. the Hessian vs. the Gradient](https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/)
 * [2024-07-06, 21:36:49](https://lobste.rs/s/bzzw4v/dirty_writes) - [Dirty writes](https://surfingcomplexity.blog/2024/07/05/dirty-writes/)
 * [2024-07-06, 18:04:05](https://lobste.rs/s/3gaocx/from_transistor_web_browser_rough) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
@@ -13,7 +14,6 @@
 * [2024-07-06, 02:53:26](https://lobste.rs/s/b0poki/sans_io_secret_effective_rust_for_network) - [sans-IO: The secret to effective Rust for network services](https://www.firezone.dev/blog/sans-io)
 * [2024-07-06, 02:18:47](https://lobste.rs/s/4gzl4v/properly_testing_concurrent_data) - [Properly Testing Concurrent Data Structures](https://matklad.github.io/2024/07/05/properly-testing-concurrent-data-structures.html)
 * [2024-07-06, 00:30:47](https://lobste.rs/s/qg0qh8/nostr_atproto) - [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
-* [2024-07-05, 20:58:05](https://lobste.rs/s/nuutbe/preserving_floppy_disk_with_logic) - [Preserving a floppy disk with a logic analyzer and a serial cable (2022)](https://www.chzsoft.de/site/hardware/preserving-a-floppy-disk-with-a-logic-analyzer/)
 * [2024-07-05, 19:37:07](https://lobste.rs/s/qrzmu8/vr_optics_why_ipd_means_too_many_things) - [VR optics and why IPD means too many things (2019)](https://tomforsyth1000.github.io/blog.wiki.html#%5B%5BVR%20optics%20and%20why%20IPD%20means%20too%20many%20things%5D%5D)
 * [2024-07-05, 18:38:11](https://lobste.rs/s/qpf3vs/common_expression_language_interpreter) - [Common Expression Language interpreter written in Rust](https://github.com/clarkmcc/cel-rust)
 * [2024-07-05, 17:17:12](https://lobste.rs/s/xc8lta/post_open_what_comes_after_open_source) - [Post-Open: What Comes After Open Source](https://postopen.org/)
