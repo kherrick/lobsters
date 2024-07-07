@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-07, 06:35:20",
+      "https://lobste.rs/s/kvkigt/managers_have_no_human_rights"
+    ],
+    [
+      "Managers have no human rights",
+      "https://yosefk.com/blog/managers-have-no-human-rights.html"
+    ]
+  ],
+  [
+    [
       "2024-07-07, 06:02:47",
       "https://lobste.rs/s/qlg4wx/jacobian_vs_hessian_vs_gradient"
     ],
@@ -227,16 +237,6 @@
     [
       "Synchronous Core, Asynchronous Shell",
       "https://blog.sulami.xyz/posts/sync-core-async-shell/"
-    ]
-  ],
-  [
-    [
-      "2024-07-04, 21:49:04",
-      "https://lobste.rs/s/eeqpis/jqjq_jq_implementation_jq"
-    ],
-    [
-      "jqjq: jq implementation of jq",
-      "https://github.com/wader/jqjq"
     ]
   ],
   [
