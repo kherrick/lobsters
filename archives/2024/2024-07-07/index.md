@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-07](index.md)
 
+* [2024-07-07, 21:30:57](https://lobste.rs/s/2pcsge/block_coding_for_godot_lowering_bar_entry) - [Block Coding for Godot: Lowering the Bar of Entry for a Powerful Tool](https://www.endlessos.org/post/block-coding-for-godot-lowering-the-bar-of-entry-for-a-powerful-tool)
 * [2024-07-07, 20:14:10](https://lobste.rs/s/kuepqy/emotional_disconnect_with_ai_made_works) - [The emotional disconnect with AI made works](https://dostoynikov.com/the-emotional-disconnect-with-ai-made-works/)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
 * [2024-07-07, 18:47:22](https://lobste.rs/s/iyhyo9/bunch_programming_advice_i_d_give_myself) - [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
