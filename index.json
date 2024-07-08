@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-08, 14:15:07",
+      "https://lobste.rs/s/byfdx3/learn_x_y_minutes_where_x_haskell"
+    ],
+    [
+      "Learn X in Y Minutes, Where X=Haskell",
+      "https://learnxinyminutes.com/docs/haskell/"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 11:53:43",
       "https://lobste.rs/s/iaj4rc/go_size_analyzer_tool_for_analyzing_size"
     ],
@@ -237,16 +247,6 @@
     [
       "Path traversal in youtube-dl leading to RCE - CVE-2024-38519",
       "https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/"
-    ]
-  ],
-  [
-    [
-      "2024-07-05, 16:30:25",
-      "https://lobste.rs/s/udbk3r/how_hls_works"
-    ],
-    [
-      "How HLS Works",
-      "https://jazco.dev/2024/07/05/hls/"
     ]
   ]
 ]
