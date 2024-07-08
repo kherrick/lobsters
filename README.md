@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-08, 16:04:22](https://lobste.rs/s/aovzes/universal_code_execution_by_chaining) - [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
 * [2024-07-08, 15:10:14](https://lobste.rs/s/hevrok/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:34:31](https://lobste.rs/s/63gsiz/new_way_develop_on_linux_sysext_utils) - [A new way to develop on Linux (sysext-utils)](https://www.codethink.co.uk/articles/2024/A-new-way-to-develop-on-Linux/)
@@ -24,7 +25,6 @@
 * [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge) - [Smart Meter Bridge](https://www.xythobuz.de/lora_sml.html)
 * [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012) - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 * [2024-07-07, 06:02:47](https://lobste.rs/s/qlg4wx/jacobian_vs_hessian_vs_gradient) - [The Jacobian vs. the Hessian vs. the Gradient](https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/)
-* [2024-07-06, 12:40:49](https://lobste.rs/s/tz7kci/resetting_timers_go) - [Resetting timers in Go](https://antonz.org/timer-reset/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 16:04:22](https://lobste.rs/s/aovzes/universal_code_execution_by_chaining) - [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
 * [2024-07-08, 15:10:14](https://lobste.rs/s/hevrok/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:34:31](https://lobste.rs/s/63gsiz/new_way_develop_on_linux_sysext_utils) - [A new way to develop on Linux (sysext-utils)](https://www.codethink.co.uk/articles/2024/A-new-way-to-develop-on-Linux/)
