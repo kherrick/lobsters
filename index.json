@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-08, 15:44:41",
+      "https://lobste.rs/s/mmje1n/using_use_gleam"
+    ],
+    [
+      "Using use in Gleam",
+      "https://erikarow.land/notes/using-use-gleam"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 15:10:14",
       "https://lobste.rs/s/hevrok/geomys_blueprint_for_sustainable_open"
     ],
@@ -227,16 +237,6 @@
     [
       "The Jacobian vs. the Hessian vs. the Gradient",
       "https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 15:16:17",
-      "https://lobste.rs/s/uboac6/files_as_metadata_format"
-    ],
-    [
-      "Files As Metadata Format",
-      "https://prma.dev/posts/files-as-metadata-format"
     ]
   ],
   [
