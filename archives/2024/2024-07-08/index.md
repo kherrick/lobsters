@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 10:29:49](https://lobste.rs/s/etkewv/micro_agent_make_ai_write_code_until_it) - [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
 * [2024-07-08, 10:27:26](https://lobste.rs/s/qkw700/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qkw700/what_are_you_doing_this_week)
 * [2024-07-08, 10:27:26](https://lobste.rs/s/j6bu7l/extremely_opinionated_annotated_list_my) - [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite-1)
 * [2024-07-08, 10:25:22](https://lobste.rs/s/ofgmks/security_cameras_penetration_tester_s) - [Security Cameras - A Penetration Tester's Journey](https://tobiabocchi.me/posts/ip-cam-pentester-journey)
