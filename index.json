@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-08, 10:29:49",
+      "https://lobste.rs/s/etkewv/micro_agent_make_ai_write_code_until_it"
+    ],
+    [
+      "Micro-agent: make an AI write code until it passes an unit test",
+      "https://github.com/BuilderIO/micro-agent"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 10:27:26",
       "https://lobste.rs/s/qkw700/what_are_you_doing_this_week"
     ],
@@ -227,16 +237,6 @@
     [
       "Practical Nix flake anatomy: a guided tour of flake.nix",
       "https://vtimofeenko.com/posts/practical-nix-flake-anatomy-a-guided-tour-of-flake.nix/"
-    ]
-  ],
-  [
-    [
-      "2024-07-06, 02:53:26",
-      "https://lobste.rs/s/b0poki/sans_io_secret_effective_rust_for_network"
-    ],
-    [
-      "sans-IO: The secret to effective Rust for network services",
-      "https://www.firezone.dev/blog/sans-io"
     ]
   ],
   [
