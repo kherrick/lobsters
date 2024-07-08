@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-08, 03:29:52](https://lobste.rs/s/pxzdua/linker_compatibility_user_agent_problem) - [Linker compatibility and the \"User-Agent\" problem](https://maskray.me/blog/2024-07-07-linker-compatibility-and-the-user-agent-problem)
 * [2024-07-08, 02:53:14](https://lobste.rs/s/nj86kb/refined_input_degraded_output) - [Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior](https://dl.acm.org/doi/pdf/10.1145/3656404)
 * [2024-07-08, 02:49:59](https://lobste.rs/s/qxgw92/notes_on_scaling_social_media_data) - [Notes on Scaling Social Media Data Collection](https://www.dair-institute.org/blog/social-media-data-notes/)
 * [2024-07-08, 02:46:16](https://lobste.rs/s/elopvi/python_with_braces) - [Python with braces](https://github.com/mathialo/bython)
@@ -24,7 +25,6 @@
 * [2024-07-06, 00:30:47](https://lobste.rs/s/qg0qh8/nostr_atproto) - [Nostr and ATProto](https://shreyanjain.net/2024/07/05/nostr-and-atproto.html)
 * [2024-07-05, 16:30:25](https://lobste.rs/s/udbk3r/how_hls_works) - [How HLS Works](https://jazco.dev/2024/07/05/hls/)
 * [2024-07-05, 13:37:02](https://lobste.rs/s/foi6sk/software_crisis) - [The Software Crisis](https://wryl.tech/log/2024/the-software-crisis.html)
-* [2024-07-05, 03:14:04](https://lobste.rs/s/vbivyq/synchronous_core_asynchronous_shell) - [Synchronous Core, Asynchronous Shell](https://blog.sulami.xyz/posts/sync-core-async-shell/)
 
 ## [Archives](archives/index.md)
 
