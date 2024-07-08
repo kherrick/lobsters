@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 10:29:49](https://lobste.rs/s/etkewv/micro_agent_make_ai_write_code_until_it) - [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
 * [2024-07-08, 10:27:26](https://lobste.rs/s/qkw700/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qkw700/what_are_you_doing_this_week)
 * [2024-07-08, 10:27:26](https://lobste.rs/s/j6bu7l/extremely_opinionated_annotated_list_my) - [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite-1)
@@ -17,7 +18,6 @@
 * [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge) - [Smart Meter Bridge](https://www.xythobuz.de/lora_sml.html)
 * [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012) - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 * [2024-07-07, 06:02:47](https://lobste.rs/s/qlg4wx/jacobian_vs_hessian_vs_gradient) - [The Jacobian vs. the Hessian vs. the Gradient](https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/)
-* [2024-07-06, 18:04:05](https://lobste.rs/s/3gaocx/from_transistor_web_browser_rough) - [From the Transistor to the Web Browser, a rough outline for a 12 week course](https://github.com/geohot/fromthetransistor)
 * [2024-07-06, 15:57:51](https://lobste.rs/s/oaxzzk/synchronization_is_bad_for_scale) - [Synchronization is bad for scale](https://wippler.dev/posts/synchronization-is-bad-for-scale)
 * [2024-07-06, 15:16:17](https://lobste.rs/s/uboac6/files_as_metadata_format) - [Files As Metadata Format](https://prma.dev/posts/files-as-metadata-format)
 * [2024-07-06, 14:56:32](https://lobste.rs/s/hkrbxk/creating_simple_pastebin_service_python) - [Creating a Simple Pastebin Service in Python and Flask](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
