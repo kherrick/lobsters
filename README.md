@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-08, 14:15:07](https://lobste.rs/s/byfdx3/learn_x_y_minutes_where_x_haskell) - [Learn X in Y Minutes, Where X=Haskell](https://learnxinyminutes.com/docs/haskell/)
 * [2024-07-08, 11:53:43](https://lobste.rs/s/iaj4rc/go_size_analyzer_tool_for_analyzing_size) - [go-size-analyzer: A tool for analyzing the size of compiled Go binaries](https://github.com/Zxilly/go-size-analyzer)
 * [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 10:29:49](https://lobste.rs/s/etkewv/micro_agent_make_ai_write_code_until_it) - [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
@@ -24,7 +25,6 @@
 * [2024-07-06, 14:56:32](https://lobste.rs/s/hkrbxk/creating_simple_pastebin_service_python) - [Creating a Simple Pastebin Service in Python and Flask](https://muhammadraza.me/2024/Simple-Pastebin-In-Python/)
 * [2024-07-06, 12:40:49](https://lobste.rs/s/tz7kci/resetting_timers_go) - [Resetting timers in Go](https://antonz.org/timer-reset/)
 * [2024-07-06, 11:06:06](https://lobste.rs/s/c2z61k/path_traversal_youtube_dl_leading_rce_cve) - [Path traversal in youtube-dl leading to RCE - CVE-2024-38519](https://securitylab.github.com/advisories/GHSL-2024-089_youtube-dl/)
-* [2024-07-05, 16:30:25](https://lobste.rs/s/udbk3r/how_hls_works) - [How HLS Works](https://jazco.dev/2024/07/05/hls/)
 
 ## [Archives](archives/index.md)
 

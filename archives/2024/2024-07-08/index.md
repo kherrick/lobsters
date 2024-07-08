@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 14:15:07](https://lobste.rs/s/byfdx3/learn_x_y_minutes_where_x_haskell) - [Learn X in Y Minutes, Where X=Haskell](https://learnxinyminutes.com/docs/haskell/)
 * [2024-07-08, 11:53:43](https://lobste.rs/s/iaj4rc/go_size_analyzer_tool_for_analyzing_size) - [go-size-analyzer: A tool for analyzing the size of compiled Go binaries](https://github.com/Zxilly/go-size-analyzer)
 * [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 10:29:49](https://lobste.rs/s/etkewv/micro_agent_make_ai_write_code_until_it) - [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
