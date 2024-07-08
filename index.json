@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-08, 17:50:33",
+      "https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated"
+    ],
+    [
+      "Entering text in the terminal is complicated",
+      "https://jvns.ca/blog/2024/07/08/readline/"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 16:44:38",
       "https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system"
     ],
@@ -217,16 +227,6 @@
     [
       "A Bunch of Programming Advice I’d Give To Myself 15 Years Ago",
       "https://mbuffett.com/posts/programming-advice-younger-self/"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 18:18:09",
-      "https://lobste.rs/s/ehd89x/standard_cells_looking_at_individual"
-    ],
-    [
-      "Standard cells: Looking at individual gates in the Pentium processor",
-      "http://www.righto.com/2024/07/pentium-standard-cells.html"
     ]
   ],
   [
