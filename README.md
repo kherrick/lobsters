@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 16:44:38](https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system) - [pw_rpc: Efficient, low-code-size RPC system for embedded devices](https://pigweed.dev/pw_rpc/)
 * [2024-07-08, 16:04:22](https://lobste.rs/s/aovzes/universal_code_execution_by_chaining) - [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
@@ -22,7 +23,6 @@
 * [2024-07-07, 21:30:57](https://lobste.rs/s/2pcsge/block_coding_for_godot_lowering_bar_entry) - [Block Coding for Godot: Lowering the Bar of Entry for a Powerful Tool](https://www.endlessos.org/post/block-coding-for-godot-lowering-the-bar-of-entry-for-a-powerful-tool)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
 * [2024-07-07, 18:47:22](https://lobste.rs/s/iyhyo9/bunch_programming_advice_i_d_give_myself) - [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
-* [2024-07-07, 18:18:09](https://lobste.rs/s/ehd89x/standard_cells_looking_at_individual) - [Standard cells: Looking at individual gates in the Pentium processor](http://www.righto.com/2024/07/pentium-standard-cells.html)
 * [2024-07-07, 15:56:22](https://lobste.rs/s/fe1vg2/smart_meter_bridge) - [Smart Meter Bridge](https://www.xythobuz.de/lora_sml.html)
 * [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012) - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 
