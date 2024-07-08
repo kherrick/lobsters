@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 10:27:26](https://lobste.rs/s/qkw700/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qkw700/what_are_you_doing_this_week)
+* [2024-07-08, 10:27:26](https://lobste.rs/s/j6bu7l/extremely_opinionated_annotated_list_my) - [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite-1)
+* [2024-07-08, 10:25:22](https://lobste.rs/s/ofgmks/security_cameras_penetration_tester_s) - [Security Cameras - A Penetration Tester's Journey](https://tobiabocchi.me/posts/ip-cam-pentester-journey)
 * [2024-07-08, 03:41:00](https://lobste.rs/s/toim2g/mini_monitor_for_pi) - [A mini monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
 * [2024-07-08, 03:29:52](https://lobste.rs/s/pxzdua/linker_compatibility_user_agent_problem) - [Linker compatibility and the \"User-Agent\" problem](https://maskray.me/blog/2024-07-07-linker-compatibility-and-the-user-agent-problem)
 * [2024-07-08, 02:53:14](https://lobste.rs/s/nj86kb/refined_input_degraded_output) - [Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior](https://dl.acm.org/doi/pdf/10.1145/3656404)
