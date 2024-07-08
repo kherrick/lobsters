@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 18:04:36](https://lobste.rs/s/qhixaq/modeling_b_trees_tla) - [Modeling B-trees in TLA+](https://surfingcomplexity.blog/2024/07/04/modeling-b-trees-in-tla/)
 * [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 16:44:38](https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system) - [pw_rpc: Efficient, low-code-size RPC system for embedded devices](https://pigweed.dev/pw_rpc/)
 * [2024-07-08, 16:04:22](https://lobste.rs/s/aovzes/universal_code_execution_by_chaining) - [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
