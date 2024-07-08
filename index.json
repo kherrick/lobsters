@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-08, 16:44:38",
+      "https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system"
+    ],
+    [
+      "pw_rpc: Efficient, low-code-size RPC system for embedded devices",
+      "https://pigweed.dev/pw_rpc/"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 16:04:22",
       "https://lobste.rs/s/aovzes/universal_code_execution_by_chaining"
     ],
@@ -237,16 +247,6 @@
     [
       "Tough times on the road to Starcraft (2012)",
       "https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 06:02:47",
-      "https://lobste.rs/s/qlg4wx/jacobian_vs_hessian_vs_gradient"
-    ],
-    [
-      "The Jacobian vs. the Hessian vs. the Gradient",
-      "https://carmencincotti.com/2022-08-15/the-jacobian-vs-the-hessian-vs-the-gradient/"
     ]
   ]
 ]
