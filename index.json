@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-08, 02:53:14",
+      "https://lobste.rs/s/nj86kb/refined_input_degraded_output"
+    ],
+    [
+      "Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior",
+      "https://dl.acm.org/doi/pdf/10.1145/3656404"
+    ]
+  ],
+  [
+    [
+      "2024-07-08, 02:49:59",
+      "https://lobste.rs/s/qxgw92/notes_on_scaling_social_media_data"
+    ],
+    [
+      "Notes on Scaling Social Media Data Collection",
+      "https://www.dair-institute.org/blog/social-media-data-notes/"
+    ]
+  ],
+  [
+    [
       "2024-07-08, 02:46:16",
       "https://lobste.rs/s/elopvi/python_with_braces"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-07-05, 18:38:11",
-      "https://lobste.rs/s/qpf3vs/common_expression_language_interpreter"
-    ],
-    [
-      "Common Expression Language interpreter written in Rust",
-      "https://github.com/clarkmcc/cel-rust"
-    ]
-  ],
-  [
-    [
       "2024-07-05, 16:30:25",
       "https://lobste.rs/s/udbk3r/how_hls_works"
     ],
@@ -237,16 +247,6 @@
     [
       "Synchronous Core, Asynchronous Shell",
       "https://blog.sulami.xyz/posts/sync-core-async-shell/"
-    ]
-  ],
-  [
-    [
-      "2024-07-03, 13:35:13",
-      "https://lobste.rs/s/slfdci/one_dozen_lobsters"
-    ],
-    [
-      "One Dozen Lobsters",
-      "https://lobste.rs/s/slfdci/one_dozen_lobsters"
     ]
   ]
 ]
