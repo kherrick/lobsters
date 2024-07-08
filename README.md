@@ -4,7 +4,7 @@
 * [2024-07-08, 14:33:40](https://lobste.rs/s/1duhwb/dsls_are_not_for_muggles) - [DSLs Are Not For Muggles](https://yonkeltron.com/posts/dsls-are-not-for-muggles/)
 * [2024-07-08, 14:15:07](https://lobste.rs/s/byfdx3/learn_x_y_minutes_where_x_haskell) - [Learn X in Y Minutes, Where X=Haskell](https://learnxinyminutes.com/docs/haskell/)
 * [2024-07-08, 11:53:43](https://lobste.rs/s/iaj4rc/go_size_analyzer_tool_for_analyzing_size) - [go-size-analyzer: A tool for analyzing the size of compiled Go binaries](https://github.com/Zxilly/go-size-analyzer)
-* [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
+* [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe (2019)](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 10:29:49](https://lobste.rs/s/etkewv/micro_agent_make_ai_write_code_until_it) - [Micro-agent: make an AI write code until it passes an unit test](https://github.com/BuilderIO/micro-agent)
 * [2024-07-08, 10:27:26](https://lobste.rs/s/qkw700/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qkw700/what_are_you_doing_this_week)
 * [2024-07-08, 10:27:26](https://lobste.rs/s/j6bu7l/extremely_opinionated_annotated_list_my) - [An Extremely Opinionated Annotated List of My Favourite Mechanistic Interpretability Papers v2](https://www.alignmentforum.org/posts/NfFST5Mio7BCAQHPA/an-extremely-opinionated-annotated-list-of-my-favourite-1)
