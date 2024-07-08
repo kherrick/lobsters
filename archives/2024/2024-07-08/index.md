@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 15:10:14](https://lobste.rs/s/hevrok/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:34:31](https://lobste.rs/s/63gsiz/new_way_develop_on_linux_sysext_utils) - [A new way to develop on Linux (sysext-utils)](https://www.codethink.co.uk/articles/2024/A-new-way-to-develop-on-Linux/)
 * [2024-07-08, 14:33:40](https://lobste.rs/s/1duhwb/dsls_are_not_for_muggles) - [DSLs Are Not For Muggles](https://yonkeltron.com/posts/dsls-are-not-for-muggles/)
 * [2024-07-08, 14:15:07](https://lobste.rs/s/byfdx3/learn_x_y_minutes_where_x_haskell) - [Learn X in Y Minutes, Where X=Haskell](https://learnxinyminutes.com/docs/haskell/)
