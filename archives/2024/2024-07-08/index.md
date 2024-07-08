@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 20:16:07](https://lobste.rs/s/iynwld/version_tolerant_serialization_c) - [Version tolerant serialization in C++](https://developernote.com/2024/07/version-tolerant-serialization-in-c/)
+* [2024-07-08, 20:14:43](https://lobste.rs/s/pbc9wi/calamares_abi_checking) - [Calamares ABI Checking](https://euroquis.nl//calamares/2024/07/08/abi.html)
+* [2024-07-08, 19:58:34](https://lobste.rs/s/xai3fy/no_more_boot_loader_please_use_kernel) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 18:04:36](https://lobste.rs/s/qhixaq/modeling_b_trees_tla) - [Modeling B-trees in TLA+](https://surfingcomplexity.blog/2024/07/04/modeling-b-trees-in-tla/)
 * [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 16:44:38](https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system) - [pw_rpc: Efficient, low-code-size RPC system for embedded devices](https://pigweed.dev/pw_rpc/)
