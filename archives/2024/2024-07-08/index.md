@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 16:44:38](https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system) - [pw_rpc: Efficient, low-code-size RPC system for embedded devices](https://pigweed.dev/pw_rpc/)
 * [2024-07-08, 16:04:22](https://lobste.rs/s/aovzes/universal_code_execution_by_chaining) - [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
 * [2024-07-08, 15:10:14](https://lobste.rs/s/hevrok/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm](https://words.filippo.io/dispatches/geomys/)
