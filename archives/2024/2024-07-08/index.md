@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-08](index.md)
 
+* [2024-07-08, 21:19:27](https://lobste.rs/s/b8amn6/making_python_less_random) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
+* [2024-07-08, 21:19:06](https://lobste.rs/s/ksbcmq/twelve_factor_app_2011) - [The Twelve-Factor App (2011)](https://12factor.net/)
 * [2024-07-08, 20:16:07](https://lobste.rs/s/iynwld/version_tolerant_serialization_c) - [Version tolerant serialization in C++](https://developernote.com/2024/07/version-tolerant-serialization-in-c/)
 * [2024-07-08, 20:14:43](https://lobste.rs/s/pbc9wi/calamares_abi_checking) - [Calamares ABI Checking](https://euroquis.nl//calamares/2024/07/08/abi.html)
 * [2024-07-08, 19:58:34](https://lobste.rs/s/xai3fy/no_more_boot_loader_please_use_kernel) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
