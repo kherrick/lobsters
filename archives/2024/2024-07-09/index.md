@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 18:38:02](https://lobste.rs/s/kagkcd/scoped_propagators) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
+* [2024-07-09, 18:34:05](https://lobste.rs/s/m1ruqt/proxy_objects_python) - [Proxy Objects in Python](https://fathom.video/share/1vWnYrHCj2QZfznXzSGS8Xf5wdXd6EFX)
 * [2024-07-09, 17:14:59](https://lobste.rs/s/yw1mdc/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/)
 * [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
