@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-09, 05:06:49",
+      "https://lobste.rs/s/zrehtp/state_text_rendering_2024"
+    ],
+    [
+      "State of Text Rendering 2024",
+      "https://behdad.org/text2024/"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 03:44:19",
       "https://lobste.rs/s/87qumh/reverse_engineering_ticketmaster_s"
     ],
@@ -27,16 +37,6 @@
     [
       "The Twelve-Factor App (2011)",
       "https://12factor.net/"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 20:16:07",
-      "https://lobste.rs/s/iynwld/version_tolerant_serialization_c"
-    ],
-    [
-      "Version tolerant serialization in C++",
-      "https://developernote.com/2024/07/version-tolerant-serialization-in-c/"
     ]
   ],
   [
