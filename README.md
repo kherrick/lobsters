@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-09, 11:20:29](https://lobste.rs/s/u3vn40/one_file_linux_20mb_alpine_meta_distro) - [One File Linux: a 20MB Alpine meta-distro that fits entirely into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
 * [2024-07-09, 08:05:51](https://lobste.rs/s/rniegf/kate_orgmode) - [Kate and OrgMode](https://akselmo.dev/posts/kate-and-orgmode/)
 * [2024-07-09, 05:06:49](https://lobste.rs/s/zrehtp/state_text_rendering_2024) - [State of Text Rendering 2024](https://behdad.org/text2024/)
 * [2024-07-09, 03:44:19](https://lobste.rs/s/87qumh/reverse_engineering_ticketmaster_s) - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
@@ -23,7 +24,6 @@
 * [2024-07-08, 02:46:16](https://lobste.rs/s/elopvi/python_with_braces) - [Python with braces](https://github.com/mathialo/bython)
 * [2024-07-08, 01:35:46](https://lobste.rs/s/ny9fvv/stop_perfecting_your_config) - [Stop perfecting your config](https://arkadiuszchmura.com/posts/stop-perfecting-your-config/)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
-* [2024-07-07, 18:47:22](https://lobste.rs/s/iyhyo9/bunch_programming_advice_i_d_give_myself) - [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012) - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 
 ## [Archives](archives/index.md)
