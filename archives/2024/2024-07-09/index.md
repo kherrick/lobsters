@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
+* [2024-07-09, 19:00:49](https://lobste.rs/s/jsse8q/bufstream_kafka_at_10x_lower_cost) - [Bufstream: Kafka at 10x lower cost](https://buf.build/blog/bufstream-kafka-lower-cost)
 * [2024-07-09, 18:38:02](https://lobste.rs/s/kagkcd/scoped_propagators) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 18:34:05](https://lobste.rs/s/m1ruqt/proxy_objects_python) - [Proxy Objects in Python](https://fathom.video/share/1vWnYrHCj2QZfznXzSGS8Xf5wdXd6EFX)
 * [2024-07-09, 17:14:59](https://lobste.rs/s/yw1mdc/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/)

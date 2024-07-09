@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
+* [2024-07-09, 19:00:49](https://lobste.rs/s/jsse8q/bufstream_kafka_at_10x_lower_cost) - [Bufstream: Kafka at 10x lower cost](https://buf.build/blog/bufstream-kafka-lower-cost)
 * [2024-07-09, 18:38:02](https://lobste.rs/s/kagkcd/scoped_propagators) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 18:34:05](https://lobste.rs/s/m1ruqt/proxy_objects_python) - [Proxy Objects in Python](https://fathom.video/share/1vWnYrHCj2QZfznXzSGS8Xf5wdXd6EFX)
 * [2024-07-09, 17:14:59](https://lobste.rs/s/yw1mdc/timeseries_indexing_at_scale) - [Timeseries Indexing at Scale](https://artem.krylysov.com/blog/2024/06/28/timeseries-indexing-at-scale/)
@@ -20,10 +22,8 @@
 * [2024-07-09, 03:44:19](https://lobste.rs/s/87qumh/reverse_engineering_ticketmaster_s) - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
 * [2024-07-08, 21:19:27](https://lobste.rs/s/b8amn6/making_python_less_random) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-08, 21:19:06](https://lobste.rs/s/ksbcmq/twelve_factor_app_2011) - [The Twelve-Factor App (2011)](https://12factor.net/)
-* [2024-07-08, 19:58:34](https://lobste.rs/s/xai3fy/no_more_boot_loader_please_use_kernel) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
-* [2024-07-08, 14:33:40](https://lobste.rs/s/1duhwb/dsls_are_not_for_muggles) - [DSLs Are Not For Muggles](https://yonkeltron.com/posts/dsls-are-not-for-muggles/)
 * [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe (2019)](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 
 ## [Archives](archives/index.md)
