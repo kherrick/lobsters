@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-09, 03:44:19](https://lobste.rs/s/87qumh/reverse_engineering_ticketmaster_s) - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
 * [2024-07-08, 21:19:27](https://lobste.rs/s/b8amn6/making_python_less_random) - [Making Python Less Random](https://healeycodes.com/making-python-less-random)
 * [2024-07-08, 21:19:06](https://lobste.rs/s/ksbcmq/twelve_factor_app_2011) - [The Twelve-Factor App (2011)](https://12factor.net/)
 * [2024-07-08, 20:16:07](https://lobste.rs/s/iynwld/version_tolerant_serialization_c) - [Version tolerant serialization in C++](https://developernote.com/2024/07/version-tolerant-serialization-in-c/)
-* [2024-07-08, 20:14:43](https://lobste.rs/s/pbc9wi/calamares_abi_checking) - [Calamares ABI Checking](https://euroquis.nl//calamares/2024/07/08/abi.html)
 * [2024-07-08, 19:58:34](https://lobste.rs/s/xai3fy/no_more_boot_loader_please_use_kernel) - [No more boot loader: Please use the kernel instead](https://pretalx.com/devconf-cz-2024/talk/W3AVCT/)
 * [2024-07-08, 18:04:36](https://lobste.rs/s/qhixaq/modeling_b_trees_tla) - [Modeling B-trees in TLA+](https://surfingcomplexity.blog/2024/07/04/modeling-b-trees-in-tla/)
 * [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
