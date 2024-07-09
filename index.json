@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-09, 18:38:02",
+      "https://lobste.rs/s/kagkcd/scoped_propagators"
+    ],
+    [
+      "Scoped Propagators",
+      "https://www.orionreed.com/posts/scoped-propagators"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 18:34:05",
+      "https://lobste.rs/s/m1ruqt/proxy_objects_python"
+    ],
+    [
+      "Proxy Objects in Python",
+      "https://fathom.video/share/1vWnYrHCj2QZfznXzSGS8Xf5wdXd6EFX"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 17:14:59",
       "https://lobste.rs/s/yw1mdc/timeseries_indexing_at_scale"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-07-08, 16:44:38",
-      "https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system"
-    ],
-    [
-      "pw_rpc: Efficient, low-code-size RPC system for embedded devices",
-      "https://pigweed.dev/pw_rpc/"
-    ]
-  ],
-  [
-    [
       "2024-07-08, 15:44:41",
       "https://lobste.rs/s/mmje1n/using_use_gleam"
     ],
     [
       "Using use in Gleam",
       "https://erikarow.land/notes/using-use-gleam"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 15:10:14",
-      "https://lobste.rs/s/hevrok/geomys_blueprint_for_sustainable_open"
-    ],
-    [
-      "Geomys, a blueprint for a sustainable open source maintenance firm",
-      "https://words.filippo.io/dispatches/geomys/"
     ]
   ],
   [
