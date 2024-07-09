@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-09, 12:09:20](https://lobste.rs/s/pgcguw/binary_search_tree_with_simd) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree)
 * [2024-07-09, 11:20:29](https://lobste.rs/s/u3vn40/one_file_linux_20mb_alpine_meta_distro) - [One File Linux: a 20MB Alpine meta-distro that fits entirely into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
 * [2024-07-09, 08:05:51](https://lobste.rs/s/rniegf/kate_orgmode) - [Kate and OrgMode](https://akselmo.dev/posts/kate-and-orgmode/)
 * [2024-07-09, 05:06:49](https://lobste.rs/s/zrehtp/state_text_rendering_2024) - [State of Text Rendering 2024](https://behdad.org/text2024/)
@@ -20,7 +21,6 @@
 * [2024-07-08, 10:27:26](https://lobste.rs/s/qkw700/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qkw700/what_are_you_doing_this_week)
 * [2024-07-08, 03:41:00](https://lobste.rs/s/toim2g/mini_monitor_for_pi) - [A mini monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
 * [2024-07-08, 03:29:52](https://lobste.rs/s/pxzdua/linker_compatibility_user_agent_problem) - [Linker compatibility and the \"User-Agent\" problem](https://maskray.me/blog/2024-07-07-linker-compatibility-and-the-user-agent-problem)
-* [2024-07-08, 02:53:14](https://lobste.rs/s/nj86kb/refined_input_degraded_output) - [Refined Input, Degraded Output: The Counterintuitive World of Compiler Behavior](https://dl.acm.org/doi/pdf/10.1145/3656404)
 * [2024-07-08, 02:46:16](https://lobste.rs/s/elopvi/python_with_braces) - [Python with braces](https://github.com/mathialo/bython)
 * [2024-07-08, 01:35:46](https://lobste.rs/s/ny9fvv/stop_perfecting_your_config) - [Stop perfecting your config](https://arkadiuszchmura.com/posts/stop-perfecting-your-config/)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
