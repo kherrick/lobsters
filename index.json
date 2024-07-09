@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-09, 19:20:19",
+      "https://lobste.rs/s/afofab/high_available_k3s_kubernetes_cluster"
+    ],
+    [
+      "High Available k3s kubernetes cluster with keepalived, galera and longhorn",
+      "https://raymii.org/s/tutorials/High_Available_k3s_kubernetes_cluster_with_keepalived_galera_and_longhorn.html"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 19:10:59",
       "https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun"
     ],
@@ -27,16 +37,6 @@
     [
       "Scoped Propagators",
       "https://www.orionreed.com/posts/scoped-propagators"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 18:34:05",
-      "https://lobste.rs/s/m1ruqt/proxy_objects_python"
-    ],
-    [
-      "Proxy Objects in Python",
-      "https://fathom.video/share/1vWnYrHCj2QZfznXzSGS8Xf5wdXd6EFX"
     ]
   ],
   [
