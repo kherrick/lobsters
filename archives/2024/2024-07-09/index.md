@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 19:20:19](https://lobste.rs/s/afofab/high_available_k3s_kubernetes_cluster) - [High Available k3s kubernetes cluster with keepalived, galera and longhorn](https://raymii.org/s/tutorials/High_Available_k3s_kubernetes_cluster_with_keepalived_galera_and_longhorn.html)
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 19:00:49](https://lobste.rs/s/jsse8q/bufstream_kafka_at_10x_lower_cost) - [Bufstream: Kafka at 10x lower cost](https://buf.build/blog/bufstream-kafka-lower-cost)
 * [2024-07-09, 18:38:02](https://lobste.rs/s/kagkcd/scoped_propagators) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
