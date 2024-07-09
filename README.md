@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-09, 13:43:42](https://lobste.rs/s/ong3n1/grpc_over_http_3) - [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
+* [2024-07-09, 13:38:38](https://lobste.rs/s/8ufrdw/auto_imports_tolerant_expressions_gleam) - [Auto-imports and tolerant expressions – Gleam v1.3.0](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
 * [2024-07-09, 13:30:42](https://lobste.rs/s/hghrdh/dynamic_translation_smalltalk) - [dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 * [2024-07-09, 13:29:21](https://lobste.rs/s/ebitpk/sljit_platform_independent_low_level_jit) - [sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-09, 12:09:20](https://lobste.rs/s/pgcguw/binary_search_tree_with_simd) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree)
@@ -15,14 +17,12 @@
 * [2024-07-08, 16:44:38](https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system) - [pw_rpc: Efficient, low-code-size RPC system for embedded devices](https://pigweed.dev/pw_rpc/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
 * [2024-07-08, 15:10:14](https://lobste.rs/s/hevrok/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm](https://words.filippo.io/dispatches/geomys/)
-* [2024-07-08, 14:34:31](https://lobste.rs/s/63gsiz/new_way_develop_on_linux_sysext_utils) - [A new way to develop on Linux (sysext-utils)](https://www.codethink.co.uk/articles/2024/A-new-way-to-develop-on-Linux/)
 * [2024-07-08, 14:33:40](https://lobste.rs/s/1duhwb/dsls_are_not_for_muggles) - [DSLs Are Not For Muggles](https://yonkeltron.com/posts/dsls-are-not-for-muggles/)
 * [2024-07-08, 14:15:07](https://lobste.rs/s/byfdx3/learn_x_y_minutes_where_x_haskell) - [Learn X in Y Minutes, Where X=Haskell](https://learnxinyminutes.com/docs/haskell/)
 * [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe (2019)](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 10:27:26](https://lobste.rs/s/qkw700/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qkw700/what_are_you_doing_this_week)
 * [2024-07-08, 03:41:00](https://lobste.rs/s/toim2g/mini_monitor_for_pi) - [A mini monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
 * [2024-07-08, 03:29:52](https://lobste.rs/s/pxzdua/linker_compatibility_user_agent_problem) - [Linker compatibility and the \"User-Agent\" problem](https://maskray.me/blog/2024-07-07-linker-compatibility-and-the-user-agent-problem)
-* [2024-07-08, 02:46:16](https://lobste.rs/s/elopvi/python_with_braces) - [Python with braces](https://github.com/mathialo/bython)
 * [2024-07-08, 01:35:46](https://lobste.rs/s/ny9fvv/stop_perfecting_your_config) - [Stop perfecting your config](https://arkadiuszchmura.com/posts/stop-perfecting-your-config/)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
 
