@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-09, 15:13:13](https://lobste.rs/s/fmx2cj/turbopuffer_fast_search_on_object) - [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 14:24:30](https://lobste.rs/s/m9hio2/pyskywifi_completely_free_unbelievably) - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 14:14:45](https://lobste.rs/s/smu3z2/provably_correct_secure_leakage_free) - [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)
 * [2024-07-09, 13:43:42](https://lobste.rs/s/ong3n1/grpc_over_http_3) - [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
@@ -23,7 +24,6 @@
 * [2024-07-08, 14:15:07](https://lobste.rs/s/byfdx3/learn_x_y_minutes_where_x_haskell) - [Learn X in Y Minutes, Where X=Haskell](https://learnxinyminutes.com/docs/haskell/)
 * [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe (2019)](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 03:41:00](https://lobste.rs/s/toim2g/mini_monitor_for_pi) - [A mini monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
-* [2024-07-08, 01:35:46](https://lobste.rs/s/ny9fvv/stop_perfecting_your_config) - [Stop perfecting your config](https://arkadiuszchmura.com/posts/stop-perfecting-your-config/)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
 
 ## [Archives](archives/index.md)
