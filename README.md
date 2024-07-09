@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-09, 21:09:03](https://lobste.rs/s/ocxrss/proxy_objects_python) - [Proxy Objects in Python](https://crowdalert.com/proxy-objects/)
 * [2024-07-09, 19:20:19](https://lobste.rs/s/afofab/high_available_k3s_kubernetes_cluster) - [High Available k3s kubernetes cluster with keepalived, galera and longhorn](https://raymii.org/s/tutorials/High_Available_k3s_kubernetes_cluster_with_keepalived_galera_and_longhorn.html)
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 19:00:49](https://lobste.rs/s/jsse8q/bufstream_kafka_at_10x_lower_cost) - [Bufstream: Kafka at 10x lower cost](https://buf.build/blog/bufstream-kafka-lower-cost)
@@ -23,7 +24,6 @@
 * [2024-07-08, 21:19:06](https://lobste.rs/s/ksbcmq/twelve_factor_app_2011) - [The Twelve-Factor App (2011)](https://12factor.net/)
 * [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
-* [2024-07-08, 14:33:40](https://lobste.rs/s/1duhwb/dsls_are_not_for_muggles) - [DSLs Are Not For Muggles](https://yonkeltron.com/posts/dsls-are-not-for-muggles/)
 * [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe (2019)](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 
 ## [Archives](archives/index.md)
