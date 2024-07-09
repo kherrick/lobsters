@@ -15,7 +15,6 @@
 * [2024-07-08, 14:34:31](https://lobste.rs/s/63gsiz/new_way_develop_on_linux_sysext_utils) - [A new way to develop on Linux (sysext-utils)](https://www.codethink.co.uk/articles/2024/A-new-way-to-develop-on-Linux/)
 * [2024-07-08, 14:33:40](https://lobste.rs/s/1duhwb/dsls_are_not_for_muggles) - [DSLs Are Not For Muggles](https://yonkeltron.com/posts/dsls-are-not-for-muggles/)
 * [2024-07-08, 14:15:07](https://lobste.rs/s/byfdx3/learn_x_y_minutes_where_x_haskell) - [Learn X in Y Minutes, Where X=Haskell](https://learnxinyminutes.com/docs/haskell/)
-* [2024-07-08, 11:53:43](https://lobste.rs/s/iaj4rc/go_size_analyzer_tool_for_analyzing_size) - [go-size-analyzer: A tool for analyzing the size of compiled Go binaries](https://github.com/Zxilly/go-size-analyzer)
 * [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe (2019)](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 * [2024-07-08, 10:27:26](https://lobste.rs/s/qkw700/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/qkw700/what_are_you_doing_this_week)
 * [2024-07-08, 03:41:00](https://lobste.rs/s/toim2g/mini_monitor_for_pi) - [A mini monitor for a Pi](https://noamzeise.com/2024/07/05/mini-monitor.html)
@@ -24,6 +23,7 @@
 * [2024-07-08, 02:46:16](https://lobste.rs/s/elopvi/python_with_braces) - [Python with braces](https://github.com/mathialo/bython)
 * [2024-07-08, 01:35:46](https://lobste.rs/s/ny9fvv/stop_perfecting_your_config) - [Stop perfecting your config](https://arkadiuszchmura.com/posts/stop-perfecting-your-config/)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
+* [2024-07-07, 18:47:22](https://lobste.rs/s/iyhyo9/bunch_programming_advice_i_d_give_myself) - [A Bunch of Programming Advice I’d Give To Myself 15 Years Ago](https://mbuffett.com/posts/programming-advice-younger-self/)
 * [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012) - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 
 ## [Archives](archives/index.md)
