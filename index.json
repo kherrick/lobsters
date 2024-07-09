@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-09, 16:14:37",
+      "https://lobste.rs/s/quejup/blast_radius_md5_chosen_prefix_attack"
+    ],
+    [
+      "BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol",
+      "https://www.blastradius.fail/"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 15:13:13",
       "https://lobste.rs/s/fmx2cj/turbopuffer_fast_search_on_object"
     ],
@@ -85,7 +95,7 @@
       "https://lobste.rs/s/u3vn40/one_file_linux_20mb_alpine_meta_distro"
     ],
     [
-      "One File Linux: a 20MB Alpine meta-distro that fits entirely into the ESP",
+      "One File Linux: a ~20MB Alpine meta-distro that fits entirely into the ESP",
       "https://hub.zhovner.com/geek/one-file-linux/"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "No more boot loader: Please use the kernel instead",
       "https://pretalx.com/devconf-cz-2024/talk/W3AVCT/"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 18:04:36",
-      "https://lobste.rs/s/qhixaq/modeling_b_trees_tla"
-    ],
-    [
-      "Modeling B-trees in TLA+",
-      "https://surfingcomplexity.blog/2024/07/04/modeling-b-trees-in-tla/"
     ]
   ],
   [
