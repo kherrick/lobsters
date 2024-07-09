@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
 * [2024-07-09, 16:14:37](https://lobste.rs/s/quejup/blast_radius_md5_chosen_prefix_attack) - [BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol](https://www.blastradius.fail/)
 * [2024-07-09, 15:13:13](https://lobste.rs/s/fmx2cj/turbopuffer_fast_search_on_object) - [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
