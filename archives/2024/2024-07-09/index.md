@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-09](index.md)
 
+* [2024-07-09, 16:14:37](https://lobste.rs/s/quejup/blast_radius_md5_chosen_prefix_attack) - [BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol](https://www.blastradius.fail/)
 * [2024-07-09, 15:13:13](https://lobste.rs/s/fmx2cj/turbopuffer_fast_search_on_object) - [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 14:24:30](https://lobste.rs/s/m9hio2/pyskywifi_completely_free_unbelievably) - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 14:14:45](https://lobste.rs/s/smu3z2/provably_correct_secure_leakage_free) - [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)
