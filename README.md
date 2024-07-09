@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-09, 13:30:42](https://lobste.rs/s/hghrdh/dynamic_translation_smalltalk) - [dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
+* [2024-07-09, 13:29:21](https://lobste.rs/s/ebitpk/sljit_platform_independent_low_level_jit) - [sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-09, 12:09:20](https://lobste.rs/s/pgcguw/binary_search_tree_with_simd) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree)
 * [2024-07-09, 11:20:29](https://lobste.rs/s/u3vn40/one_file_linux_20mb_alpine_meta_distro) - [One File Linux: a 20MB Alpine meta-distro that fits entirely into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
 * [2024-07-09, 08:05:51](https://lobste.rs/s/rniegf/kate_orgmode) - [Kate and OrgMode](https://akselmo.dev/posts/kate-and-orgmode/)
@@ -11,7 +13,6 @@
 * [2024-07-08, 18:04:36](https://lobste.rs/s/qhixaq/modeling_b_trees_tla) - [Modeling B-trees in TLA+](https://surfingcomplexity.blog/2024/07/04/modeling-b-trees-in-tla/)
 * [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 16:44:38](https://lobste.rs/s/leckeh/pw_rpc_efficient_low_code_size_rpc_system) - [pw_rpc: Efficient, low-code-size RPC system for embedded devices](https://pigweed.dev/pw_rpc/)
-* [2024-07-08, 16:04:22](https://lobste.rs/s/aovzes/universal_code_execution_by_chaining) - [Universal Code Execution by Chaining Messages in Browser Extensions](https://spaceraccoon.dev/universal-code-execution-browser-extensions/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
 * [2024-07-08, 15:10:14](https://lobste.rs/s/hevrok/geomys_blueprint_for_sustainable_open) - [Geomys, a blueprint for a sustainable open source maintenance firm](https://words.filippo.io/dispatches/geomys/)
 * [2024-07-08, 14:34:31](https://lobste.rs/s/63gsiz/new_way_develop_on_linux_sysext_utils) - [A new way to develop on Linux (sysext-utils)](https://www.codethink.co.uk/articles/2024/A-new-way-to-develop-on-Linux/)
@@ -24,7 +25,6 @@
 * [2024-07-08, 02:46:16](https://lobste.rs/s/elopvi/python_with_braces) - [Python with braces](https://github.com/mathialo/bython)
 * [2024-07-08, 01:35:46](https://lobste.rs/s/ny9fvv/stop_perfecting_your_config) - [Stop perfecting your config](https://arkadiuszchmura.com/posts/stop-perfecting-your-config/)
 * [2024-07-07, 20:02:10](https://lobste.rs/s/sfc0jc/notes_for_new_hires) - [Notes for new hires](https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires)
-* [2024-07-07, 13:30:37](https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012) - [Tough times on the road to Starcraft (2012)](https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft)
 
 ## [Archives](archives/index.md)
 
