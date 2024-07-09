@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-09, 13:30:42",
+      "https://lobste.rs/s/hghrdh/dynamic_translation_smalltalk"
+    ],
+    [
+      "dynamic translation of Smalltalk to WebAssembly",
+      "https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 13:29:21",
+      "https://lobste.rs/s/ebitpk/sljit_platform_independent_low_level_jit"
+    ],
+    [
+      "sljit: Platform independent low-level JIT compiler",
+      "https://github.com/zherczeg/sljit"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 12:09:20",
       "https://lobste.rs/s/pgcguw/binary_search_tree_with_simd"
     ],
@@ -107,16 +127,6 @@
     [
       "pw_rpc: Efficient, low-code-size RPC system for embedded devices",
       "https://pigweed.dev/pw_rpc/"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 16:04:22",
-      "https://lobste.rs/s/aovzes/universal_code_execution_by_chaining"
-    ],
-    [
-      "Universal Code Execution by Chaining Messages in Browser Extensions",
-      "https://spaceraccoon.dev/universal-code-execution-browser-extensions/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Notes for new hires",
       "https://dev.clintonblackburn.com/2024/07/07/notes-for-new-hires"
-    ]
-  ],
-  [
-    [
-      "2024-07-07, 13:30:37",
-      "https://lobste.rs/s/dqgqo4/tough_times_on_road_starcraft_2012"
-    ],
-    [
-      "Tough times on the road to Starcraft (2012)",
-      "https://www.codeofhonor.com/blog/tough-times-on-the-road-to-starcraft"
     ]
   ]
 ]
