@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 13:12:50](https://lobste.rs/s/ihyaxz/copying_collectors_with_block) - [copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 11:32:42](https://lobste.rs/s/oue8xd/simple_event_broker_tries_tiger_style) - [Simple event broker tries Tiger Style](https://blog.vbang.dk/2024/07/10/seb-tiger-style/)
 * [2024-07-10, 11:00:57](https://lobste.rs/s/rvtt3j/finding_memory_leaks_ruby_ecosystem) - [Finding Memory Leaks in the Ruby Ecosystem](https://railsatscale.com/2024-07-09-finding-memory-leaks-in-the-ruby-ecosystem/)
 * [2024-07-10, 07:19:45](https://lobste.rs/s/iwv4op/computer_adavances_last_decade) - [Computer Adavances in the Last Decade](https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/)
@@ -14,7 +15,6 @@
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
-* [2024-07-09, 16:14:37](https://lobste.rs/s/quejup/blast_radius_md5_chosen_prefix_attack) - [BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol](https://www.blastradius.fail/)
 * [2024-07-09, 14:24:30](https://lobste.rs/s/m9hio2/pyskywifi_completely_free_unbelievably) - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 14:14:45](https://lobste.rs/s/smu3z2/provably_correct_secure_leakage_free) - [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)
 * [2024-07-09, 13:43:42](https://lobste.rs/s/ong3n1/grpc_over_http_3) - [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
