@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-10, 04:51:28",
+      "https://lobste.rs/s/3st7a0/look_back_at_stripware"
+    ],
+    [
+      "A Look Back At Stripware",
+      "https://ironicsans.beehiiv.com/p/look-back-stripware"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 04:50:42",
+      "https://lobste.rs/s/b2hokt/transparent_apis_2020"
+    ],
+    [
+      "Transparent APIs (2020)",
+      "https://kodare.net/2020/09/14/transparent_apis.html"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 03:25:52",
       "https://lobste.rs/s/yupbji/how_i_manage_my_kde_developer_email"
     ],
@@ -67,16 +87,6 @@
     [
       "Bufstream: Kafka at 10x lower cost",
       "https://buf.build/blog/bufstream-kafka-lower-cost"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 18:38:02",
-      "https://lobste.rs/s/kagkcd/scoped_propagators"
-    ],
-    [
-      "Scoped Propagators",
-      "https://www.orionreed.com/posts/scoped-propagators"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Using use in Gleam",
       "https://erikarow.land/notes/using-use-gleam"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 11:05:57",
-      "https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you"
-    ],
-    [
-      "Dark mode is not as good for your eyes as you believe (2019)",
-      "https://www.wired.com/story/dark-mode-chrome-android-ios-science/"
     ]
   ]
 ]
