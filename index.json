@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-07-09, 21:09:03",
-      "https://lobste.rs/s/ocxrss/proxy_objects_python"
-    ],
-    [
-      "Proxy Objects in Python",
-      "https://crowdalert.com/proxy-objects/"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 19:20:19",
       "https://lobste.rs/s/afofab/high_available_k3s_kubernetes_cluster"
     ],
@@ -77,6 +67,16 @@
     [
       "Bufstream: Kafka at 10x lower cost",
       "https://buf.build/blog/bufstream-kafka-lower-cost"
+    ]
+  ],
+  [
+    [
+      "2024-07-09, 18:38:02",
+      "https://lobste.rs/s/kagkcd/scoped_propagators"
+    ],
+    [
+      "Scoped Propagators",
+      "https://www.orionreed.com/posts/scoped-propagators"
     ]
   ],
   [
