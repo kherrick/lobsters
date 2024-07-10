@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 15:58:23](https://lobste.rs/s/59qzhm/brush_new_tcl_like_language_2012) - [Brush: A New Tcl-like Language (2012)](https://tclcommunityassociation.org/wub/proceedings/Proceedings-2012/AndrewGoth/brush-v2.pdf)
 * [2024-07-10, 15:34:28](https://lobste.rs/s/yzggkr/towards_idempotent_rebuilds) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 * [2024-07-10, 14:33:30](https://lobste.rs/s/kwpz43/supply_chain_attacks_backdoored) - [Supply chain attacks and backdoored dependencies](https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies)
 * [2024-07-10, 14:24:33](https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa) - [Grace Hopper's Lost Lecture found in an NSA Vault](https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/)
