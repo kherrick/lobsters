@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 14:24:33](https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa) - [Grace Hopper's Lost Lecture found in an NSA Vault](https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/)
 * [2024-07-10, 13:12:50](https://lobste.rs/s/ihyaxz/copying_collectors_with_block) - [copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 11:32:42](https://lobste.rs/s/oue8xd/simple_event_broker_tries_tiger_style) - [Simple event broker tries Tiger Style](https://blog.vbang.dk/2024/07/10/seb-tiger-style/)
 * [2024-07-10, 11:00:57](https://lobste.rs/s/rvtt3j/finding_memory_leaks_ruby_ecosystem) - [Finding Memory Leaks in the Ruby Ecosystem](https://railsatscale.com/2024-07-09-finding-memory-leaks-in-the-ruby-ecosystem/)
@@ -19,7 +20,6 @@
 * [2024-07-09, 14:14:45](https://lobste.rs/s/smu3z2/provably_correct_secure_leakage_free) - [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)
 * [2024-07-09, 13:43:42](https://lobste.rs/s/ong3n1/grpc_over_http_3) - [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
 * [2024-07-09, 13:38:38](https://lobste.rs/s/8ufrdw/auto_imports_tolerant_expressions_gleam) - [Auto-imports and tolerant expressions – Gleam v1.3.0](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
-* [2024-07-09, 13:30:42](https://lobste.rs/s/hghrdh/dynamic_translation_smalltalk) - [dynamic translation of Smalltalk to WebAssembly](https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/)
 * [2024-07-09, 13:29:21](https://lobste.rs/s/ebitpk/sljit_platform_independent_low_level_jit) - [sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-09, 12:09:20](https://lobste.rs/s/pgcguw/binary_search_tree_with_simd) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree)
 * [2024-07-09, 11:20:29](https://lobste.rs/s/u3vn40/one_file_linux_20mb_alpine_meta_distro) - [One File Linux: a ~20MB Alpine meta-distro that fits entirely into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
