@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 19:25:07](https://lobste.rs/s/qkqe46/reverse_engineering_verification_qr) - [Reverse Engineering the Verification QR Code on my Diploma](https://obrhubr.org/reverse-engineering-diploma)
 * [2024-07-10, 18:31:01](https://lobste.rs/s/yd9wyg/creating_dsls_using_f_s_computation) - [Creating DSLs using F#'s Computation Expressions](https://sleepyfran.github.io/blog/posts/fsharp/ce-in-fsharp/)
 * [2024-07-10, 17:33:16](https://lobste.rs/s/yt9llp/bounds_checking_flexible_array_members) - [Bounds Checking Flexible Array Members](https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
@@ -15,7 +16,6 @@
 * [2024-07-10, 04:50:42](https://lobste.rs/s/b2hokt/transparent_apis_2020) - [Transparent APIs (2020)](https://kodare.net/2020/09/14/transparent_apis.html)
 * [2024-07-10, 03:25:52](https://lobste.rs/s/yupbji/how_i_manage_my_kde_developer_email) - [How I manage my KDE developer email](https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/)
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
-* [2024-07-10, 00:50:10](https://lobste.rs/s/xcv8jg/consfigurator_1_4_1_released_including) - [Consfigurator 1.4.1 released, including new support for FreeBSD](https://www.chiark.greenend.org.uk/pipermail/sgo-software-announce/2024/000089.html)
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 19:25:07](https://lobste.rs/s/qkqe46/reverse_engineering_verification_qr) - [Reverse Engineering the Verification QR Code on my Diploma](https://obrhubr.org/reverse-engineering-diploma)
 * [2024-07-10, 18:31:01](https://lobste.rs/s/yd9wyg/creating_dsls_using_f_s_computation) - [Creating DSLs using F#'s Computation Expressions](https://sleepyfran.github.io/blog/posts/fsharp/ce-in-fsharp/)
 * [2024-07-10, 17:33:16](https://lobste.rs/s/yt9llp/bounds_checking_flexible_array_members) - [Bounds Checking Flexible Array Members](https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
