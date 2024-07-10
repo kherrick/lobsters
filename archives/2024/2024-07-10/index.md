@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 14:33:30](https://lobste.rs/s/kwpz43/supply_chain_attacks_backdoored) - [Supply chain attacks and backdoored dependencies](https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies)
 * [2024-07-10, 14:24:33](https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa) - [Grace Hopper's Lost Lecture found in an NSA Vault](https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/)
 * [2024-07-10, 13:12:50](https://lobste.rs/s/ihyaxz/copying_collectors_with_block) - [copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
 * [2024-07-10, 11:32:42](https://lobste.rs/s/oue8xd/simple_event_broker_tries_tiger_style) - [Simple event broker tries Tiger Style](https://blog.vbang.dk/2024/07/10/seb-tiger-style/)
