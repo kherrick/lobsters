@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-07-09, 19:00:49",
+      "https://lobste.rs/s/jsse8q/bufstream_kafka_at_10x_lower_cost"
+    ],
+    [
+      "Bufstream: Kafka at 10x lower cost",
+      "https://buf.build/blog/bufstream-kafka-lower-cost"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 17:00:43",
       "https://lobste.rs/s/uvnjqj/learn_flakes_fun_way"
     ],
@@ -227,16 +237,6 @@
     [
       "Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)",
       "https://conduition.io/coding/ticketmaster/"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 17:50:33",
-      "https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated"
-    ],
-    [
-      "Entering text in the terminal is complicated",
-      "https://jvns.ca/blog/2024/07/08/readline/"
     ]
   ],
   [
