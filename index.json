@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-10, 14:24:33",
+      "https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa"
+    ],
+    [
+      "Grace Hopper's Lost Lecture found in an NSA Vault",
+      "https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 13:12:50",
       "https://lobste.rs/s/ihyaxz/copying_collectors_with_block"
     ],
@@ -187,16 +197,6 @@
     [
       "Auto-imports and tolerant expressions – Gleam v1.3.0",
       "https://gleam.run/news/auto-imports-and-tolerant-expressions/"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 13:30:42",
-      "https://lobste.rs/s/hghrdh/dynamic_translation_smalltalk"
-    ],
-    [
-      "dynamic translation of Smalltalk to WebAssembly",
-      "https://thiscontext.com/2023/07/26/dynamic-translation-of-smalltalk-to-webassembly/"
     ]
   ],
   [
