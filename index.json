@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-10, 15:34:28",
+      "https://lobste.rs/s/yzggkr/towards_idempotent_rebuilds"
+    ],
+    [
+      "Towards Idempotent Rebuilds?",
+      "https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 14:33:30",
       "https://lobste.rs/s/kwpz43/supply_chain_attacks_backdoored"
     ],
@@ -227,16 +237,6 @@
     [
       "One File Linux: a ~20MB Alpine meta-distro that fits entirely into the ESP",
       "https://hub.zhovner.com/geek/one-file-linux/"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 05:06:49",
-      "https://lobste.rs/s/zrehtp/state_text_rendering_2024"
-    ],
-    [
-      "State of Text Rendering 2024",
-      "https://behdad.org/text2024/"
     ]
   ],
   [
