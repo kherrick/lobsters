@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-10, 07:19:45",
+      "https://lobste.rs/s/iwv4op/computer_adavances_last_decade"
+    ],
+    [
+      "Computer Adavances in the Last Decade",
+      "https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 07:18:58",
+      "https://lobste.rs/s/4dswam/qualcomm_s_oryon_core"
+    ],
+    [
+      "Qualcomm’s Oryon Core",
+      "https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 04:51:28",
       "https://lobste.rs/s/3st7a0/look_back_at_stripware"
     ],
@@ -77,16 +97,6 @@
     [
       "Bufstream: Kafka at 10x lower cost",
       "https://buf.build/blog/bufstream-kafka-lower-cost"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 18:38:02",
-      "https://lobste.rs/s/kagkcd/scoped_propagators"
-    ],
-    [
-      "Scoped Propagators",
-      "https://www.orionreed.com/posts/scoped-propagators"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)",
       "https://conduition.io/coding/ticketmaster/"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 21:19:06",
-      "https://lobste.rs/s/ksbcmq/twelve_factor_app_2011"
-    ],
-    [
-      "The Twelve-Factor App (2011)",
-      "https://12factor.net/"
     ]
   ],
   [
