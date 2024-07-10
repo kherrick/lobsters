@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-07-10, 03:25:52",
+      "https://lobste.rs/s/yupbji/how_i_manage_my_kde_developer_email"
+    ],
+    [
+      "How I manage my KDE developer email",
+      "https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 03:23:55",
       "https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug"
     ],
@@ -87,16 +97,6 @@
     [
       "Optimizing a bignum library for fun",
       "https://austinhenley.com/blog/bignum2.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 19:00:49",
-      "https://lobste.rs/s/jsse8q/bufstream_kafka_at_10x_lower_cost"
-    ],
-    [
-      "Bufstream: Kafka at 10x lower cost",
-      "https://buf.build/blog/bufstream-kafka-lower-cost"
     ]
   ],
   [
