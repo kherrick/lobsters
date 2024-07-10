@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 22:34:02](https://lobste.rs/s/f6whw2/zdi_24_821_remote_uaf_kernel_s_net_tipc) - [ZDI-24-821: A Remote UAF in The Kernel's net/tipc](https://sam4k.com/zdi-24-821-a-remote-use-after-free-in-the-kernels-net-tipc/)
 * [2024-07-10, 22:21:36](https://lobste.rs/s/6whqcn/q_numbers) - [Q Numbers](https://www.tbray.org/ongoing/When/202x/2024/07/09/Q-Numbers)
 * [2024-07-10, 19:39:23](https://lobste.rs/s/q7svc4/creating_evolving_elixir_with_jose_valim) - [Creating and Evolving Elixir (with José Valim)](https://youtu.be/IGmwiyines0)
 * [2024-07-10, 19:25:07](https://lobste.rs/s/qkqe46/reverse_engineering_verification_qr) - [Reverse Engineering the Verification QR Code on my Diploma](https://obrhubr.org/reverse-engineering-diploma)
@@ -18,7 +19,6 @@
 * [2024-07-10, 04:50:42](https://lobste.rs/s/b2hokt/transparent_apis_2020) - [Transparent APIs (2020)](https://kodare.net/2020/09/14/transparent_apis.html)
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
-* [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
 * [2024-07-09, 14:24:30](https://lobste.rs/s/m9hio2/pyskywifi_completely_free_unbelievably) - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 14:14:45](https://lobste.rs/s/smu3z2/provably_correct_secure_leakage_free) - [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)

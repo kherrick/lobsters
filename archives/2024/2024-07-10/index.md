@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 22:34:02](https://lobste.rs/s/f6whw2/zdi_24_821_remote_uaf_kernel_s_net_tipc) - [ZDI-24-821: A Remote UAF in The Kernel's net/tipc](https://sam4k.com/zdi-24-821-a-remote-use-after-free-in-the-kernels-net-tipc/)
 * [2024-07-10, 22:21:36](https://lobste.rs/s/6whqcn/q_numbers) - [Q Numbers](https://www.tbray.org/ongoing/When/202x/2024/07/09/Q-Numbers)
 * [2024-07-10, 19:39:23](https://lobste.rs/s/q7svc4/creating_evolving_elixir_with_jose_valim) - [Creating and Evolving Elixir (with José Valim)](https://youtu.be/IGmwiyines0)
 * [2024-07-10, 19:25:07](https://lobste.rs/s/qkqe46/reverse_engineering_verification_qr) - [Reverse Engineering the Verification QR Code on my Diploma](https://obrhubr.org/reverse-engineering-diploma)
