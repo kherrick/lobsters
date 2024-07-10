@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 15:34:28](https://lobste.rs/s/yzggkr/towards_idempotent_rebuilds) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
 * [2024-07-10, 14:33:30](https://lobste.rs/s/kwpz43/supply_chain_attacks_backdoored) - [Supply chain attacks and backdoored dependencies](https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies)
 * [2024-07-10, 14:24:33](https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa) - [Grace Hopper's Lost Lecture found in an NSA Vault](https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/)
 * [2024-07-10, 13:12:50](https://lobste.rs/s/ihyaxz/copying_collectors_with_block) - [copying collectors with block-structured heaps are unreliable](https://wingolog.org/archives/2024/07/10/copying-collectors-with-block-structured-heaps-are-unreliable)
@@ -23,7 +24,6 @@
 * [2024-07-09, 13:29:21](https://lobste.rs/s/ebitpk/sljit_platform_independent_low_level_jit) - [sljit: Platform independent low-level JIT compiler](https://github.com/zherczeg/sljit)
 * [2024-07-09, 12:09:20](https://lobste.rs/s/pgcguw/binary_search_tree_with_simd) - [Binary Search Tree with SIMD](https://clement-jean.github.io/simd_binary_search_tree)
 * [2024-07-09, 11:20:29](https://lobste.rs/s/u3vn40/one_file_linux_20mb_alpine_meta_distro) - [One File Linux: a ~20MB Alpine meta-distro that fits entirely into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
-* [2024-07-09, 05:06:49](https://lobste.rs/s/zrehtp/state_text_rendering_2024) - [State of Text Rendering 2024](https://behdad.org/text2024/)
 * [2024-07-09, 03:44:19](https://lobste.rs/s/87qumh/reverse_engineering_ticketmaster_s) - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
 
 ## [Archives](archives/index.md)
