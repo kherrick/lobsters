@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 11:00:57](https://lobste.rs/s/rvtt3j/finding_memory_leaks_ruby_ecosystem) - [Finding Memory Leaks in the Ruby Ecosystem](https://railsatscale.com/2024-07-09-finding-memory-leaks-in-the-ruby-ecosystem/)
 * [2024-07-10, 07:19:45](https://lobste.rs/s/iwv4op/computer_adavances_last_decade) - [Computer Adavances in the Last Decade](https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/)
 * [2024-07-10, 07:18:58](https://lobste.rs/s/4dswam/qualcomm_s_oryon_core) - [Qualcomm’s Oryon Core](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 * [2024-07-10, 04:51:28](https://lobste.rs/s/3st7a0/look_back_at_stripware) - [A Look Back At Stripware](https://ironicsans.beehiiv.com/p/look-back-stripware)
@@ -24,7 +25,6 @@
 * [2024-07-09, 11:20:29](https://lobste.rs/s/u3vn40/one_file_linux_20mb_alpine_meta_distro) - [One File Linux: a ~20MB Alpine meta-distro that fits entirely into the ESP](https://hub.zhovner.com/geek/one-file-linux/)
 * [2024-07-09, 05:06:49](https://lobste.rs/s/zrehtp/state_text_rendering_2024) - [State of Text Rendering 2024](https://behdad.org/text2024/)
 * [2024-07-09, 03:44:19](https://lobste.rs/s/87qumh/reverse_engineering_ticketmaster_s) - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
-* [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
 
 ## [Archives](archives/index.md)
 

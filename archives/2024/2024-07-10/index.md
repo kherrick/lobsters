@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 11:00:57](https://lobste.rs/s/rvtt3j/finding_memory_leaks_ruby_ecosystem) - [Finding Memory Leaks in the Ruby Ecosystem](https://railsatscale.com/2024-07-09-finding-memory-leaks-in-the-ruby-ecosystem/)
 * [2024-07-10, 07:19:45](https://lobste.rs/s/iwv4op/computer_adavances_last_decade) - [Computer Adavances in the Last Decade](https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/)
 * [2024-07-10, 07:18:58](https://lobste.rs/s/4dswam/qualcomm_s_oryon_core) - [Qualcomm’s Oryon Core](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 * [2024-07-10, 04:51:28](https://lobste.rs/s/3st7a0/look_back_at_stripware) - [A Look Back At Stripware](https://ironicsans.beehiiv.com/p/look-back-stripware)
