@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 07:19:45](https://lobste.rs/s/iwv4op/computer_adavances_last_decade) - [Computer Adavances in the Last Decade](https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/)
+* [2024-07-10, 07:18:58](https://lobste.rs/s/4dswam/qualcomm_s_oryon_core) - [Qualcomm’s Oryon Core](https://chipsandcheese.com/2024/07/09/qualcomms-oryon-core-a-long-time-in-the-making/)
 * [2024-07-10, 04:51:28](https://lobste.rs/s/3st7a0/look_back_at_stripware) - [A Look Back At Stripware](https://ironicsans.beehiiv.com/p/look-back-stripware)
 * [2024-07-10, 04:50:42](https://lobste.rs/s/b2hokt/transparent_apis_2020) - [Transparent APIs (2020)](https://kodare.net/2020/09/14/transparent_apis.html)
 * [2024-07-10, 03:25:52](https://lobste.rs/s/yupbji/how_i_manage_my_kde_developer_email) - [How I manage my KDE developer email](https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/)
