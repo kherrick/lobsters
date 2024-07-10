@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-10, 00:50:10",
+      "https://lobste.rs/s/xcv8jg/consfigurator_1_4_1_released_including"
+    ],
+    [
+      "Consfigurator 1.4.1 released, including new support for FreeBSD",
+      "https://www.chiark.greenend.org.uk/pipermail/sgo-software-announce/2024/000089.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-10, 00:05:44",
+      "https://lobste.rs/s/wzhy1z/look_into_xenix_microsoft_s_long"
+    ],
+    [
+      "A look into Xenix, Microsoft's long forgotten Unix Operating System",
+      "https://www.youtube.com/watch?v=JlhDi2gGmhE"
+    ]
+  ],
+  [
+    [
       "2024-07-09, 21:09:03",
       "https://lobste.rs/s/ocxrss/proxy_objects_python"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2024-07-09, 18:38:02",
-      "https://lobste.rs/s/kagkcd/scoped_propagators"
-    ],
-    [
-      "Scoped Propagators",
-      "https://www.orionreed.com/posts/scoped-propagators"
-    ]
-  ],
-  [
-    [
       "2024-07-09, 17:00:43",
       "https://lobste.rs/s/uvnjqj/learn_flakes_fun_way"
     ],
@@ -77,16 +87,6 @@
     [
       "BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol",
       "https://www.blastradius.fail/"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 15:13:13",
-      "https://lobste.rs/s/fmx2cj/turbopuffer_fast_search_on_object"
-    ],
-    [
-      "turbopuffer: fast search on object storage",
-      "https://turbopuffer.com/blog/turbopuffer"
     ]
   ],
   [
