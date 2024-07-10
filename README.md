@@ -11,6 +11,7 @@
 * [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
 * [2024-07-09, 16:14:37](https://lobste.rs/s/quejup/blast_radius_md5_chosen_prefix_attack) - [BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol](https://www.blastradius.fail/)
+* [2024-07-09, 15:13:13](https://lobste.rs/s/fmx2cj/turbopuffer_fast_search_on_object) - [turbopuffer: fast search on object storage](https://turbopuffer.com/blog/turbopuffer)
 * [2024-07-09, 14:24:30](https://lobste.rs/s/m9hio2/pyskywifi_completely_free_unbelievably) - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 14:14:45](https://lobste.rs/s/smu3z2/provably_correct_secure_leakage_free) - [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)
 * [2024-07-09, 13:43:42](https://lobste.rs/s/ong3n1/grpc_over_http_3) - [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
@@ -24,7 +25,6 @@
 * [2024-07-08, 21:19:06](https://lobste.rs/s/ksbcmq/twelve_factor_app_2011) - [The Twelve-Factor App (2011)](https://12factor.net/)
 * [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
-* [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe (2019)](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 
 ## [Archives](archives/index.md)
 
