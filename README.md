@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 22:21:36](https://lobste.rs/s/6whqcn/q_numbers) - [Q Numbers](https://www.tbray.org/ongoing/When/202x/2024/07/09/Q-Numbers)
 * [2024-07-10, 19:39:23](https://lobste.rs/s/q7svc4/creating_evolving_elixir_with_jose_valim) - [Creating and Evolving Elixir (with José Valim)](https://youtu.be/IGmwiyines0)
 * [2024-07-10, 19:25:07](https://lobste.rs/s/qkqe46/reverse_engineering_verification_qr) - [Reverse Engineering the Verification QR Code on my Diploma](https://obrhubr.org/reverse-engineering-diploma)
 * [2024-07-10, 18:31:01](https://lobste.rs/s/yd9wyg/creating_dsls_using_f_s_computation) - [Creating DSLs using F#'s Computation Expressions](https://sleepyfran.github.io/blog/posts/fsharp/ce-in-fsharp/)
@@ -15,7 +16,6 @@
 * [2024-07-10, 07:19:45](https://lobste.rs/s/iwv4op/computer_adavances_last_decade) - [Computer Adavances in the Last Decade](https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/)
 * [2024-07-10, 04:51:28](https://lobste.rs/s/3st7a0/look_back_at_stripware) - [A Look Back At Stripware](https://ironicsans.beehiiv.com/p/look-back-stripware)
 * [2024-07-10, 04:50:42](https://lobste.rs/s/b2hokt/transparent_apis_2020) - [Transparent APIs (2020)](https://kodare.net/2020/09/14/transparent_apis.html)
-* [2024-07-10, 03:25:52](https://lobste.rs/s/yupbji/how_i_manage_my_kde_developer_email) - [How I manage my KDE developer email](https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/)
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
