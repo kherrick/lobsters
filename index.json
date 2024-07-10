@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-10, 11:00:57",
+      "https://lobste.rs/s/rvtt3j/finding_memory_leaks_ruby_ecosystem"
+    ],
+    [
+      "Finding Memory Leaks in the Ruby Ecosystem",
+      "https://railsatscale.com/2024-07-09-finding-memory-leaks-in-the-ruby-ecosystem/"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 07:19:45",
       "https://lobste.rs/s/iwv4op/computer_adavances_last_decade"
     ],
@@ -237,16 +247,6 @@
     [
       "Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)",
       "https://conduition.io/coding/ticketmaster/"
-    ]
-  ],
-  [
-    [
-      "2024-07-08, 15:44:41",
-      "https://lobste.rs/s/mmje1n/using_use_gleam"
-    ],
-    [
-      "Using use in Gleam",
-      "https://erikarow.land/notes/using-use-gleam"
     ]
   ]
 ]
