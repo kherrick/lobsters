@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-10, 18:31:01",
+      "https://lobste.rs/s/yd9wyg/creating_dsls_using_f_s_computation"
+    ],
+    [
+      "Creating DSLs using F#'s Computation Expressions",
+      "https://sleepyfran.github.io/blog/posts/fsharp/ce-in-fsharp/"
+    ]
+  ],
+  [
+    [
       "2024-07-10, 17:33:16",
       "https://lobste.rs/s/yt9llp/bounds_checking_flexible_array_members"
     ],
@@ -227,16 +237,6 @@
     [
       "sljit: Platform independent low-level JIT compiler",
       "https://github.com/zherczeg/sljit"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 11:20:29",
-      "https://lobste.rs/s/u3vn40/one_file_linux_20mb_alpine_meta_distro"
-    ],
-    [
-      "One File Linux: a ~20MB Alpine meta-distro that fits entirely into the ESP",
-      "https://hub.zhovner.com/geek/one-file-linux/"
     ]
   ],
   [
