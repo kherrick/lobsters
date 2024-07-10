@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 04:51:28](https://lobste.rs/s/3st7a0/look_back_at_stripware) - [A Look Back At Stripware](https://ironicsans.beehiiv.com/p/look-back-stripware)
+* [2024-07-10, 04:50:42](https://lobste.rs/s/b2hokt/transparent_apis_2020) - [Transparent APIs (2020)](https://kodare.net/2020/09/14/transparent_apis.html)
 * [2024-07-10, 03:25:52](https://lobste.rs/s/yupbji/how_i_manage_my_kde_developer_email) - [How I manage my KDE developer email](https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/)
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
 * [2024-07-10, 00:50:10](https://lobste.rs/s/xcv8jg/consfigurator_1_4_1_released_including) - [Consfigurator 1.4.1 released, including new support for FreeBSD](https://www.chiark.greenend.org.uk/pipermail/sgo-software-announce/2024/000089.html)
@@ -7,7 +9,6 @@
 * [2024-07-09, 19:20:19](https://lobste.rs/s/afofab/high_available_k3s_kubernetes_cluster) - [High Available k3s kubernetes cluster with keepalived, galera and longhorn](https://raymii.org/s/tutorials/High_Available_k3s_kubernetes_cluster_with_keepalived_galera_and_longhorn.html)
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 19:00:49](https://lobste.rs/s/jsse8q/bufstream_kafka_at_10x_lower_cost) - [Bufstream: Kafka at 10x lower cost](https://buf.build/blog/bufstream-kafka-lower-cost)
-* [2024-07-09, 18:38:02](https://lobste.rs/s/kagkcd/scoped_propagators) - [Scoped Propagators](https://www.orionreed.com/posts/scoped-propagators)
 * [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
 * [2024-07-09, 16:14:37](https://lobste.rs/s/quejup/blast_radius_md5_chosen_prefix_attack) - [BLAST RADIUS: MD5 chosen-prefix attack against network authentication protocol](https://www.blastradius.fail/)
@@ -24,7 +25,6 @@
 * [2024-07-08, 21:19:06](https://lobste.rs/s/ksbcmq/twelve_factor_app_2011) - [The Twelve-Factor App (2011)](https://12factor.net/)
 * [2024-07-08, 17:50:33](https://lobste.rs/s/vsg4ad/entering_text_terminal_is_complicated) - [Entering text in the terminal is complicated](https://jvns.ca/blog/2024/07/08/readline/)
 * [2024-07-08, 15:44:41](https://lobste.rs/s/mmje1n/using_use_gleam) - [Using use in Gleam](https://erikarow.land/notes/using-use-gleam)
-* [2024-07-08, 11:05:57](https://lobste.rs/s/y8uxms/dark_mode_is_not_as_good_for_your_eyes_as_you) - [Dark mode is not as good for your eyes as you believe (2019)](https://www.wired.com/story/dark-mode-chrome-android-ios-science/)
 
 ## [Archives](archives/index.md)
 
