@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-10, 17:33:16](https://lobste.rs/s/yt9llp/bounds_checking_flexible_array_members) - [Bounds Checking Flexible Array Members](https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
 * [2024-07-10, 15:58:23](https://lobste.rs/s/59qzhm/brush_new_tcl_like_language_2012) - [Brush: A New Tcl-like Language (2012)](https://tclcommunityassociation.org/wub/proceedings/Proceedings-2012/AndrewGoth/brush-v2.pdf)
 * [2024-07-10, 15:34:28](https://lobste.rs/s/yzggkr/towards_idempotent_rebuilds) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
@@ -14,7 +15,6 @@
 * [2024-07-10, 03:25:52](https://lobste.rs/s/yupbji/how_i_manage_my_kde_developer_email) - [How I manage my KDE developer email](https://pointieststick.com/2024/07/09/how-i-manage-my-kde-email/)
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
 * [2024-07-10, 00:50:10](https://lobste.rs/s/xcv8jg/consfigurator_1_4_1_released_including) - [Consfigurator 1.4.1 released, including new support for FreeBSD](https://www.chiark.greenend.org.uk/pipermail/sgo-software-announce/2024/000089.html)
-* [2024-07-09, 19:20:19](https://lobste.rs/s/afofab/high_available_k3s_kubernetes_cluster) - [High Available k3s kubernetes cluster with keepalived, galera and longhorn](https://raymii.org/s/tutorials/High_Available_k3s_kubernetes_cluster_with_keepalived_galera_and_longhorn.html)
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 17:00:43](https://lobste.rs/s/uvnjqj/learn_flakes_fun_way) - [Learn Flakes the Fun Way](https://lyte.dev/blog/learn-flakes-the-fun-way/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)

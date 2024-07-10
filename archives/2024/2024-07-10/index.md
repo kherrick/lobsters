@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-10](index.md)
 
+* [2024-07-10, 17:33:16](https://lobste.rs/s/yt9llp/bounds_checking_flexible_array_members) - [Bounds Checking Flexible Array Members](https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
 * [2024-07-10, 15:58:23](https://lobste.rs/s/59qzhm/brush_new_tcl_like_language_2012) - [Brush: A New Tcl-like Language (2012)](https://tclcommunityassociation.org/wub/proceedings/Proceedings-2012/AndrewGoth/brush-v2.pdf)
 * [2024-07-10, 15:34:28](https://lobste.rs/s/yzggkr/towards_idempotent_rebuilds) - [Towards Idempotent Rebuilds?](https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/)
