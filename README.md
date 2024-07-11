@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-11, 17:53:11](https://lobste.rs/s/wcsgqz/free_open_source_software_other_market) - [Free and Open Source Software–and Other Market Failures](https://cacm.acm.org/practice/free-and-open-source-software-and-other-market-failures/)
 * [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
 * [2024-07-11, 16:38:19](https://lobste.rs/s/yzi2q2/using_nix_as_yocto_alternative) - [Using Nix as a Yocto Alternative](https://www.kdab.com/using-nix-as-a-yocto-alternative/)
@@ -20,7 +21,6 @@
 * [2024-07-11, 05:55:22](https://lobste.rs/s/dzsfil/release_lazarus_3_4_pascal) - [release of Lazarus 3.4 (Pascal)](https://forum.lazarus.freepascal.org/index.php?topic=67439.0)
 * [2024-07-11, 05:43:44](https://lobste.rs/s/zjn9ih/idu_sandbox_for_growing_simulated_plants) - [Idu: sandbox for growing simulated plants where every single leaf competes for resources](https://idu.cyberplant.ee/)
 * [2024-07-11, 03:51:04](https://lobste.rs/s/ivgtpd/atkinson_hyperlegible_font) - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
-* [2024-07-11, 02:31:46](https://lobste.rs/s/njlb1z/how_javascript_ruined_web) - [How JavaScript Ruined the Web](https://www.youtube.com/watch?v=gU-8U7Z-E64)
 * [2024-07-11, 01:20:53](https://lobste.rs/s/1hrh4a/announcing_lix_2_90_vanilla_ice_cream) - [Announcing Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
 * [2024-07-10, 19:39:23](https://lobste.rs/s/q7svc4/creating_evolving_elixir_with_jose_valim) - [Creating and Evolving Elixir (with José Valim)](https://youtu.be/IGmwiyines0)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
