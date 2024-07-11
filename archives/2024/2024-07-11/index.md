@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 14:47:07](https://lobste.rs/s/mlbyhq/functional_reactive_user_interfaces) - [Functional reactive user interfaces with propagators](https://dthompson.us/posts/functional-reactive-user-interfaces-with-propagators.html)
 * [2024-07-11, 13:51:35](https://lobste.rs/s/tk2btc/how_fast_is_javascript_simulating_20_000) - [How fast is javascript simulating 20,000,000 particles?](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-11, 13:47:44](https://lobste.rs/s/tkiukm/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 11:35:49](https://lobste.rs/s/jdgj4i/natural_number_game) - [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4/)
