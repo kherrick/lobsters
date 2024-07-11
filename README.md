@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-11, 20:59:05](https://lobste.rs/s/legxpd/ubuntu_security_updates_are_confusing) - [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
 * [2024-07-11, 20:15:18](https://lobste.rs/s/gskgix/codemirror_extensible_code_editor) - [CodeMirror: extensible code editor component for the web](https://codemirror.net)
 * [2024-07-11, 20:00:53](https://lobste.rs/s/ukrcmv/leaf_node_monitoring_2024_02_released) - [Leaf Node Monitoring 2024.02 released, with minimize to tray and Certificate Expiry checks](https://www.leafnode.nl/news/leaf-node-monitoring-2024-02-released-with-minimize-to-tray-and-ssl-certificate-expiry-checks/)
-* [2024-07-11, 17:53:11](https://lobste.rs/s/wcsgqz/free_open_source_software_other_market) - [Free and Open Source Software–and Other Market Failures](https://cacm.acm.org/practice/free-and-open-source-software-and-other-market-failures/)
 * [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
 * [2024-07-11, 16:38:19](https://lobste.rs/s/yzi2q2/using_nix_as_yocto_alternative) - [Using Nix as a Yocto Alternative](https://www.kdab.com/using-nix-as-a-yocto-alternative/)
