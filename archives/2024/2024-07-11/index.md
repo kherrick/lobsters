@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 22:04:08](https://lobste.rs/s/eg2erk/bypassing_discord_s_masked_links_filter) - [Bypassing Discord's masked links filter](https://gist.github.com/Nickguitar/7c6bdfa8255b2ec7e0d6d4015550ce4c)
 * [2024-07-11, 20:59:05](https://lobste.rs/s/legxpd/ubuntu_security_updates_are_confusing) - [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
 * [2024-07-11, 20:15:18](https://lobste.rs/s/gskgix/codemirror_extensible_code_editor) - [CodeMirror: extensible code editor component for the web](https://codemirror.net)
 * [2024-07-11, 20:00:53](https://lobste.rs/s/ukrcmv/leaf_node_monitoring_2024_02_released) - [Leaf Node Monitoring 2024.02 released, with minimize to tray and Certificate Expiry checks](https://www.leafnode.nl/news/leaf-node-monitoring-2024-02-released-with-minimize-to-tray-and-ssl-certificate-expiry-checks/)
