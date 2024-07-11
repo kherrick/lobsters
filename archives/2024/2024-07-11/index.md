@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
 * [2024-07-11, 16:38:19](https://lobste.rs/s/yzi2q2/using_nix_as_yocto_alternative) - [Using Nix as a Yocto Alternative](https://www.kdab.com/using-nix-as-a-yocto-alternative/)
 * [2024-07-11, 16:15:36](https://lobste.rs/s/arffew/you_can_deeplink_specific_pdf_page) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
