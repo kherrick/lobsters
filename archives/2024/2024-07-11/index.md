@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 06:07:57](https://lobste.rs/s/dnnjtw/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise | USENIX](https://www.usenix.org/conference/atc24/presentation/li-hongyu)
+* [2024-07-11, 05:55:22](https://lobste.rs/s/dzsfil/release_lazarus_3_4_pascal) - [release of Lazarus 3.4 (Pascal)](https://forum.lazarus.freepascal.org/index.php?topic=67439.0)
 * [2024-07-11, 05:43:44](https://lobste.rs/s/zjn9ih/idu_sandbox_for_growing_simulated_plants) - [Idu: sandbox for growing simulated plants where every single leaf competes for resources](https://idu.cyberplant.ee/)
 * [2024-07-11, 03:51:04](https://lobste.rs/s/ivgtpd/atkinson_hyperlegible_font) - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 * [2024-07-11, 02:31:46](https://lobste.rs/s/njlb1z/how_javascript_ruined_web) - [How JavaScript Ruined the Web](https://www.youtube.com/watch?v=gU-8U7Z-E64)
