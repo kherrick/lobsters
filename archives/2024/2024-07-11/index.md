@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 13:51:35](https://lobste.rs/s/tk2btc/how_fast_is_javascript_simulating_20_000) - [How fast is javascript simulating 20,000,000 particles?](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
+* [2024-07-11, 13:47:44](https://lobste.rs/s/tkiukm/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 11:35:49](https://lobste.rs/s/jdgj4i/natural_number_game) - [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4/)
 * [2024-07-11, 10:46:56](https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly) - [Nix on MacOS - The Good, the Bad and the Ugly](https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly)
 * [2024-07-11, 07:27:27](https://lobste.rs/s/kguh6x/mimicmotion_high_quality_human_motion) - [MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance](https://github.com/Tencent/MimicMotion)
