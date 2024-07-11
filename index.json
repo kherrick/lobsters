@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 11:35:49",
+      "https://lobste.rs/s/jdgj4i/natural_number_game"
+    ],
+    [
+      "Natural Number Game",
+      "https://adam.math.hhu.de/#/g/leanprover-community/nng4/"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 10:46:56",
       "https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly"
     ],
@@ -197,16 +207,6 @@
     [
       "Simple event broker tries Tiger Style",
       "https://blog.vbang.dk/2024/07/10/seb-tiger-style/"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 11:00:57",
-      "https://lobste.rs/s/rvtt3j/finding_memory_leaks_ruby_ecosystem"
-    ],
-    [
-      "Finding Memory Leaks in the Ruby Ecosystem",
-      "https://railsatscale.com/2024-07-09-finding-memory-leaks-in-the-ruby-ecosystem/"
     ]
   ],
   [
