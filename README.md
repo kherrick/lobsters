@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-11, 02:31:46](https://lobste.rs/s/njlb1z/how_javascript_ruined_web) - [How JavaScript Ruined the Web](https://www.youtube.com/watch?v=gU-8U7Z-E64)
 * [2024-07-11, 01:20:53](https://lobste.rs/s/1hrh4a/announcing_lix_2_90_vanilla_ice_cream) - [Announcing Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
 * [2024-07-10, 22:34:02](https://lobste.rs/s/f6whw2/zdi_24_821_remote_uaf_kernel_s_net_tipc) - [ZDI-24-821: A Remote UAF in The Kernel's net/tipc](https://sam4k.com/zdi-24-821-a-remote-use-after-free-in-the-kernels-net-tipc/)
 * [2024-07-10, 22:21:36](https://lobste.rs/s/6whqcn/q_numbers) - [Q Numbers](https://www.tbray.org/ongoing/When/202x/2024/07/09/Q-Numbers)
@@ -24,7 +25,6 @@
 * [2024-07-09, 14:14:45](https://lobste.rs/s/smu3z2/provably_correct_secure_leakage_free) - [Provably Correct, Secure, and Leakage-Free Systems](https://anish.io/thesis-defense/)
 * [2024-07-09, 13:43:42](https://lobste.rs/s/ong3n1/grpc_over_http_3) - [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
 * [2024-07-09, 13:38:38](https://lobste.rs/s/8ufrdw/auto_imports_tolerant_expressions_gleam) - [Auto-imports and tolerant expressions – Gleam v1.3.0](https://gleam.run/news/auto-imports-and-tolerant-expressions/)
-* [2024-07-09, 03:44:19](https://lobste.rs/s/87qumh/reverse_engineering_ticketmaster_s) - [Reverse Engineering TicketMaster's Rotating Barcodes (SafeTix)](https://conduition.io/coding/ticketmaster/)
 
 ## [Archives](archives/index.md)
 
