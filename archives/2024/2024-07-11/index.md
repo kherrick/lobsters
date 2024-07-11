@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 15:36:42](https://lobste.rs/s/yhtbaz/toit_programming_language) - [Toit programming language](https://toitlang.org/)
+* [2024-07-11, 15:34:51](https://lobste.rs/s/xghu9w/some_tricks_from_scrapscript_compiler) - [Some tricks from the Scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
 * [2024-07-11, 15:23:16](https://lobste.rs/s/rirmpo/vlms_are_blind) - [VLMs are Blind](https://vlmsareblind.github.io/)
 * [2024-07-11, 14:47:07](https://lobste.rs/s/mlbyhq/functional_reactive_user_interfaces) - [Functional reactive user interfaces with propagators](https://dthompson.us/posts/functional-reactive-user-interfaces-with-propagators.html)
 * [2024-07-11, 13:51:35](https://lobste.rs/s/tk2btc/how_fast_is_javascript_simulating_20_000) - [How fast is javascript simulating 20,000,000 particles?](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
