@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 20:00:53](https://lobste.rs/s/ukrcmv/leaf_node_monitoring_2024_02_released) - [Leaf Node Monitoring 2024.02 released, with minimize to tray and Certificate Expiry checks](https://www.leafnode.nl/news/leaf-node-monitoring-2024-02-released-with-minimize-to-tray-and-ssl-certificate-expiry-checks/)
 * [2024-07-11, 17:53:11](https://lobste.rs/s/wcsgqz/free_open_source_software_other_market) - [Free and Open Source Software–and Other Market Failures](https://cacm.acm.org/practice/free-and-open-source-software-and-other-market-failures/)
 * [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
