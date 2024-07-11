@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-11, 05:43:44](https://lobste.rs/s/zjn9ih/idu_sandbox_for_growing_simulated_plants) - [Idu: sandbox for growing simulated plants where every single leaf competes for resources](https://idu.cyberplant.ee/)
 * [2024-07-11, 03:51:04](https://lobste.rs/s/ivgtpd/atkinson_hyperlegible_font) - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 * [2024-07-11, 02:31:46](https://lobste.rs/s/njlb1z/how_javascript_ruined_web) - [How JavaScript Ruined the Web](https://www.youtube.com/watch?v=gU-8U7Z-E64)
 * [2024-07-11, 01:20:53](https://lobste.rs/s/1hrh4a/announcing_lix_2_90_vanilla_ice_cream) - [Announcing Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
@@ -18,7 +19,6 @@
 * [2024-07-10, 11:32:42](https://lobste.rs/s/oue8xd/simple_event_broker_tries_tiger_style) - [Simple event broker tries Tiger Style](https://blog.vbang.dk/2024/07/10/seb-tiger-style/)
 * [2024-07-10, 11:00:57](https://lobste.rs/s/rvtt3j/finding_memory_leaks_ruby_ecosystem) - [Finding Memory Leaks in the Ruby Ecosystem](https://railsatscale.com/2024-07-09-finding-memory-leaks-in-the-ruby-ecosystem/)
 * [2024-07-10, 07:19:45](https://lobste.rs/s/iwv4op/computer_adavances_last_decade) - [Computer Adavances in the Last Decade](https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/)
-* [2024-07-10, 04:51:28](https://lobste.rs/s/3st7a0/look_back_at_stripware) - [A Look Back At Stripware](https://ironicsans.beehiiv.com/p/look-back-stripware)
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
 * [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
