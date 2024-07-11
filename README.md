@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-11, 15:23:16](https://lobste.rs/s/rirmpo/vlms_are_blind) - [VLMs are Blind](https://vlmsareblind.github.io/)
 * [2024-07-11, 14:47:07](https://lobste.rs/s/mlbyhq/functional_reactive_user_interfaces) - [Functional reactive user interfaces with propagators](https://dthompson.us/posts/functional-reactive-user-interfaces-with-propagators.html)
 * [2024-07-11, 13:51:35](https://lobste.rs/s/tk2btc/how_fast_is_javascript_simulating_20_000) - [How fast is javascript simulating 20,000,000 particles?](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-11, 13:47:44](https://lobste.rs/s/tkiukm/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
@@ -22,7 +23,6 @@
 * [2024-07-10, 14:33:30](https://lobste.rs/s/kwpz43/supply_chain_attacks_backdoored) - [Supply chain attacks and backdoored dependencies](https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies)
 * [2024-07-10, 14:24:33](https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa) - [Grace Hopper's Lost Lecture found in an NSA Vault](https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/)
 * [2024-07-10, 11:32:42](https://lobste.rs/s/oue8xd/simple_event_broker_tries_tiger_style) - [Simple event broker tries Tiger Style](https://blog.vbang.dk/2024/07/10/seb-tiger-style/)
-* [2024-07-10, 07:19:45](https://lobste.rs/s/iwv4op/computer_adavances_last_decade) - [Computer Adavances in the Last Decade](https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/)
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
 
