@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-11, 15:47:23](https://lobste.rs/s/w92xhy/memory_analytics_for_kafka_using_duckdb) - [In-Memory Analytics for Kafka Using DuckDB](https://yokota.blog/2024/07/11/in-memory-analytics-for-kafka-using-duckdb/)
 * [2024-07-11, 15:36:42](https://lobste.rs/s/yhtbaz/toit_programming_language) - [Toit programming language](https://toitlang.org/)
 * [2024-07-11, 15:34:51](https://lobste.rs/s/xghu9w/some_tricks_from_scrapscript_compiler) - [Some tricks from the Scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
 * [2024-07-11, 15:23:16](https://lobste.rs/s/rirmpo/vlms_are_blind) - [VLMs are Blind](https://vlmsareblind.github.io/)
@@ -19,7 +20,6 @@
 * [2024-07-10, 19:39:23](https://lobste.rs/s/q7svc4/creating_evolving_elixir_with_jose_valim) - [Creating and Evolving Elixir (with José Valim)](https://youtu.be/IGmwiyines0)
 * [2024-07-10, 19:25:07](https://lobste.rs/s/qkqe46/reverse_engineering_verification_qr) - [Reverse Engineering the Verification QR Code on my Diploma](https://obrhubr.org/reverse-engineering-diploma)
 * [2024-07-10, 18:31:01](https://lobste.rs/s/yd9wyg/creating_dsls_using_f_s_computation) - [Creating DSLs using F#'s Computation Expressions](https://sleepyfran.github.io/blog/posts/fsharp/ce-in-fsharp/)
-* [2024-07-10, 17:33:16](https://lobste.rs/s/yt9llp/bounds_checking_flexible_array_members) - [Bounds Checking Flexible Array Members](https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
 * [2024-07-10, 14:33:30](https://lobste.rs/s/kwpz43/supply_chain_attacks_backdoored) - [Supply chain attacks and backdoored dependencies](https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies)
 * [2024-07-10, 14:24:33](https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa) - [Grace Hopper's Lost Lecture found in an NSA Vault](https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/)

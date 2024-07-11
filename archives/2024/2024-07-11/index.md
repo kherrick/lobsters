@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 15:47:23](https://lobste.rs/s/w92xhy/memory_analytics_for_kafka_using_duckdb) - [In-Memory Analytics for Kafka Using DuckDB](https://yokota.blog/2024/07/11/in-memory-analytics-for-kafka-using-duckdb/)
 * [2024-07-11, 15:36:42](https://lobste.rs/s/yhtbaz/toit_programming_language) - [Toit programming language](https://toitlang.org/)
 * [2024-07-11, 15:34:51](https://lobste.rs/s/xghu9w/some_tricks_from_scrapscript_compiler) - [Some tricks from the Scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
 * [2024-07-11, 15:23:16](https://lobste.rs/s/rirmpo/vlms_are_blind) - [VLMs are Blind](https://vlmsareblind.github.io/)
