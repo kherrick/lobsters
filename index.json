@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 10:46:56",
+      "https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly"
+    ],
+    [
+      "Nix on MacOS - The Good, the Bad and the Ugly",
+      "https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 07:27:27",
       "https://lobste.rs/s/kguh6x/mimicmotion_high_quality_human_motion"
     ],
@@ -237,16 +247,6 @@
     [
       "PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights",
       "https://robertheaton.com/pyskywifi/"
-    ]
-  ],
-  [
-    [
-      "2024-07-09, 13:43:42",
-      "https://lobste.rs/s/ong3n1/grpc_over_http_3"
-    ],
-    [
-      "gRPC Over HTTP/3",
-      "https://kmcd.dev/posts/grpc-over-http3/"
     ]
   ]
 ]
