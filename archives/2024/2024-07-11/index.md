@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-11](index.md)
 
+* [2024-07-11, 10:46:56](https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly) - [Nix on MacOS - The Good, the Bad and the Ugly](https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly)
 * [2024-07-11, 07:27:27](https://lobste.rs/s/kguh6x/mimicmotion_high_quality_human_motion) - [MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance](https://github.com/Tencent/MimicMotion)
 * [2024-07-11, 06:15:06](https://lobste.rs/s/ung7vq/megaera_graphql_typescript_code) - [Megaera – GraphQL to TypeScript code generation tool](https://github.com/webpod/graphql-megaera)
 * [2024-07-11, 06:07:57](https://lobste.rs/s/dnnjtw/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise | USENIX](https://www.usenix.org/conference/atc24/presentation/li-hongyu)

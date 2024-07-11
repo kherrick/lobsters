@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-11, 10:46:56](https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly) - [Nix on MacOS - The Good, the Bad and the Ugly](https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly)
 * [2024-07-11, 07:27:27](https://lobste.rs/s/kguh6x/mimicmotion_high_quality_human_motion) - [MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance](https://github.com/Tencent/MimicMotion)
 * [2024-07-11, 06:15:06](https://lobste.rs/s/ung7vq/megaera_graphql_typescript_code) - [Megaera – GraphQL to TypeScript code generation tool](https://github.com/webpod/graphql-megaera)
 * [2024-07-11, 06:07:57](https://lobste.rs/s/dnnjtw/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/conference/atc24/presentation/li-hongyu)
@@ -24,7 +25,6 @@
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
 * [2024-07-09, 14:24:30](https://lobste.rs/s/m9hio2/pyskywifi_completely_free_unbelievably) - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
-* [2024-07-09, 13:43:42](https://lobste.rs/s/ong3n1/grpc_over_http_3) - [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
 
 ## [Archives](archives/index.md)
 
