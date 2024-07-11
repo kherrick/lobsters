@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 17:41:09",
+      "https://lobste.rs/s/qviw9h/economics_postgres_free_tier"
+    ],
+    [
+      "The economics of a Postgres free tier",
+      "https://xata.io/blog/postgres-free-tier"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 17:25:45",
       "https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges"
     ],
@@ -237,16 +247,6 @@
     [
       "Grace Hopper's Lost Lecture found in an NSA Vault",
       "https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 11:32:42",
-      "https://lobste.rs/s/oue8xd/simple_event_broker_tries_tiger_style"
-    ],
-    [
-      "Simple event broker tries Tiger Style",
-      "https://blog.vbang.dk/2024/07/10/seb-tiger-style/"
     ]
   ]
 ]
