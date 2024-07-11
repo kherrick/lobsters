@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 07:27:27",
+      "https://lobste.rs/s/kguh6x/mimicmotion_high_quality_human_motion"
+    ],
+    [
+      "MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance",
+      "https://github.com/Tencent/MimicMotion"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 06:15:06",
       "https://lobste.rs/s/ung7vq/megaera_graphql_typescript_code"
     ],
@@ -137,16 +147,6 @@
     [
       "Brush: A New Tcl-like Language (2012)",
       "https://tclcommunityassociation.org/wub/proceedings/Proceedings-2012/AndrewGoth/brush-v2.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 15:34:28",
-      "https://lobste.rs/s/yzggkr/towards_idempotent_rebuilds"
-    ],
-    [
-      "Towards Idempotent Rebuilds?",
-      "https://blog.josefsson.org/2024/07/10/towards-idempotent-rebuilds/"
     ]
   ],
   [
