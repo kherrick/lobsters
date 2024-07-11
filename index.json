@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 22:04:08",
+      "https://lobste.rs/s/eg2erk/bypassing_discord_s_masked_links_filter"
+    ],
+    [
+      "Bypassing Discord's masked links filter",
+      "https://gist.github.com/Nickguitar/7c6bdfa8255b2ec7e0d6d4015550ce4c"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 20:59:05",
       "https://lobste.rs/s/legxpd/ubuntu_security_updates_are_confusing"
     ],
@@ -157,16 +167,6 @@
     [
       "Nix on MacOS - The Good, the Bad and the Ugly",
       "https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 06:15:06",
-      "https://lobste.rs/s/ung7vq/megaera_graphql_typescript_code"
-    ],
-    [
-      "Megaera – GraphQL to TypeScript code generation tool",
-      "https://github.com/webpod/graphql-megaera"
     ]
   ],
   [
