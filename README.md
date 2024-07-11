@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-11, 06:15:06](https://lobste.rs/s/ung7vq/megaera_graphql_typescript_code) - [Megaera – GraphQL to TypeScript code generation tool](https://github.com/webpod/graphql-megaera)
 * [2024-07-11, 06:07:57](https://lobste.rs/s/dnnjtw/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise | USENIX](https://www.usenix.org/conference/atc24/presentation/li-hongyu)
 * [2024-07-11, 05:55:22](https://lobste.rs/s/dzsfil/release_lazarus_3_4_pascal) - [release of Lazarus 3.4 (Pascal)](https://forum.lazarus.freepascal.org/index.php?topic=67439.0)
 * [2024-07-11, 05:43:44](https://lobste.rs/s/zjn9ih/idu_sandbox_for_growing_simulated_plants) - [Idu: sandbox for growing simulated plants where every single leaf competes for resources](https://idu.cyberplant.ee/)
@@ -21,7 +22,6 @@
 * [2024-07-10, 11:00:57](https://lobste.rs/s/rvtt3j/finding_memory_leaks_ruby_ecosystem) - [Finding Memory Leaks in the Ruby Ecosystem](https://railsatscale.com/2024-07-09-finding-memory-leaks-in-the-ruby-ecosystem/)
 * [2024-07-10, 07:19:45](https://lobste.rs/s/iwv4op/computer_adavances_last_decade) - [Computer Adavances in the Last Decade](https://etbe.coker.com.au/2024/07/10/computer-adavances-last-decade/)
 * [2024-07-10, 03:23:55](https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug) - [I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu](https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/)
-* [2024-07-09, 19:10:59](https://lobste.rs/s/nn64vo/optimizing_bignum_library_for_fun) - [Optimizing a bignum library for fun](https://austinhenley.com/blog/bignum2.html)
 * [2024-07-09, 16:36:51](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever) - [What is the most suspicious e-mail you've ever recieved that was legitimate?](https://lobste.rs/s/1jqadu/what_is_most_suspicious_e_mail_you_ve_ever)
 * [2024-07-09, 14:24:30](https://lobste.rs/s/m9hio2/pyskywifi_completely_free_unbelievably) - [PySkyWiFi: completely free, unbelievably stupid wi-fi on long-haul flights](https://robertheaton.com/pyskywifi/)
 * [2024-07-09, 13:43:42](https://lobste.rs/s/ong3n1/grpc_over_http_3) - [gRPC Over HTTP/3](https://kmcd.dev/posts/grpc-over-http3/)
