@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 20:15:18",
+      "https://lobste.rs/s/gskgix/codemirror_extensible_code_editor"
+    ],
+    [
+      "CodeMirror: extensible code editor component for the web",
+      "https://codemirror.net"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 20:00:53",
       "https://lobste.rs/s/ukrcmv/leaf_node_monitoring_2024_02_released"
     ],
@@ -147,16 +157,6 @@
     [
       "Nix on MacOS - The Good, the Bad and the Ugly",
       "https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 07:27:27",
-      "https://lobste.rs/s/kguh6x/mimicmotion_high_quality_human_motion"
-    ],
-    [
-      "MimicMotion: High-Quality Human Motion Video Generation with Confidence-aware Pose Guidance",
-      "https://github.com/Tencent/MimicMotion"
     ]
   ],
   [
