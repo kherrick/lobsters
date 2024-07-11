@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 16:38:19",
+      "https://lobste.rs/s/yzi2q2/using_nix_as_yocto_alternative"
+    ],
+    [
+      "Using Nix as a Yocto Alternative",
+      "https://www.kdab.com/using-nix-as-a-yocto-alternative/"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 16:15:36",
       "https://lobste.rs/s/arffew/you_can_deeplink_specific_pdf_page"
     ],
@@ -237,16 +247,6 @@
     [
       "Simple event broker tries Tiger Style",
       "https://blog.vbang.dk/2024/07/10/seb-tiger-style/"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 03:23:55",
-      "https://lobste.rs/s/b5abbk/i_fixed_6_year_old_deb_installation_bug"
-    ],
-    [
-      "I fixed a 6-year-old .deb installation bug in Ubuntu MATE and Xubuntu",
-      "https://www.downtowndougbrown.com/2024/07/i-fixed-a-6-year-old-deb-installation-bug-in-ubuntu-mate-and-xubuntu/"
     ]
   ]
 ]
