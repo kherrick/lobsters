@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-11, 16:15:36",
+      "https://lobste.rs/s/arffew/you_can_deeplink_specific_pdf_page"
+    ],
+    [
+      "You can deeplink to a specific PDF page",
+      "https://technicalwriting.dev/www/pdf.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-11, 16:03:50",
+      "https://lobste.rs/s/x0j0iv/just_use_postgres_for_everything"
+    ],
+    [
+      "Just Use Postgres for Everything",
+      "https://www.amazingcto.com/postgres-for-everything/"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 15:47:23",
       "https://lobste.rs/s/w92xhy/memory_analytics_for_kafka_using_duckdb"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-07-10, 19:25:07",
-      "https://lobste.rs/s/qkqe46/reverse_engineering_verification_qr"
-    ],
-    [
-      "Reverse Engineering the Verification QR Code on my Diploma",
-      "https://obrhubr.org/reverse-engineering-diploma"
-    ]
-  ],
-  [
-    [
       "2024-07-10, 18:31:01",
       "https://lobste.rs/s/yd9wyg/creating_dsls_using_f_s_computation"
     ],
@@ -207,16 +217,6 @@
     [
       "Zed on Linux is here",
       "https://zed.dev/linux"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 14:33:30",
-      "https://lobste.rs/s/kwpz43/supply_chain_attacks_backdoored"
-    ],
-    [
-      "Supply chain attacks and backdoored dependencies",
-      "https://kerkour.com/supply-chain-attacks-and-backdoored-dependencies"
     ]
   ],
   [
