@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-11, 15:47:23",
+      "https://lobste.rs/s/w92xhy/memory_analytics_for_kafka_using_duckdb"
+    ],
+    [
+      "In-Memory Analytics for Kafka Using DuckDB",
+      "https://yokota.blog/2024/07/11/in-memory-analytics-for-kafka-using-duckdb/"
+    ]
+  ],
+  [
+    [
       "2024-07-11, 15:36:42",
       "https://lobste.rs/s/yhtbaz/toit_programming_language"
     ],
@@ -187,16 +197,6 @@
     [
       "Creating DSLs using F#'s Computation Expressions",
       "https://sleepyfran.github.io/blog/posts/fsharp/ce-in-fsharp/"
-    ]
-  ],
-  [
-    [
-      "2024-07-10, 17:33:16",
-      "https://lobste.rs/s/yt9llp/bounds_checking_flexible_array_members"
-    ],
-    [
-      "Bounds Checking Flexible Array Members",
-      "https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html"
     ]
   ],
   [
