@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 14:50:26](https://lobste.rs/s/z5karh/extracting_wisdom_from_conference) - [“Extracting wisdom” from conference videos](https://blog.ovalerio.net/archives/2900)
+* [2024-07-12, 14:46:16](https://lobste.rs/s/xkfl2i/at_mountains_madness) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 14:21:13](https://lobste.rs/s/uxco1y/zine_on_llm_evals) - [Zine on LLM Evals](https://forestfriends.tech)
 * [2024-07-12, 12:37:09](https://lobste.rs/s/t2dsns/race_bottom_database_transactions) - [A Race to the Bottom - Database Transactions Undermining Your AppSec](https://blog.doyensec.com/2024/07/11/database-race-conditions.html)
@@ -18,8 +20,6 @@
 * [2024-07-11, 16:15:36](https://lobste.rs/s/arffew/you_can_deeplink_specific_pdf_page) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
 * [2024-07-11, 16:03:50](https://lobste.rs/s/x0j0iv/just_use_postgres_for_everything) - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
 * [2024-07-11, 15:36:42](https://lobste.rs/s/yhtbaz/toit_programming_language) - [Toit programming language](https://toitlang.org/)
-* [2024-07-11, 15:34:51](https://lobste.rs/s/xghu9w/some_tricks_from_scrapscript_compiler) - [Some tricks from the Scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
-* [2024-07-11, 14:47:07](https://lobste.rs/s/mlbyhq/functional_reactive_user_interfaces) - [Functional reactive user interfaces with propagators](https://dthompson.us/posts/functional-reactive-user-interfaces-with-propagators.html)
 * [2024-07-11, 13:47:44](https://lobste.rs/s/tkiukm/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 10:46:56](https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly) - [Nix on MacOS - The Good, the Bad and the Ugly](https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly)
 * [2024-07-11, 03:51:04](https://lobste.rs/s/ivgtpd/atkinson_hyperlegible_font) - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)

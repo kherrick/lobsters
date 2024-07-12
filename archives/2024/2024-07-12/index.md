@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 14:50:26](https://lobste.rs/s/z5karh/extracting_wisdom_from_conference) - [“Extracting wisdom” from conference videos](https://blog.ovalerio.net/archives/2900)
+* [2024-07-12, 14:46:16](https://lobste.rs/s/xkfl2i/at_mountains_madness) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 14:21:13](https://lobste.rs/s/uxco1y/zine_on_llm_evals) - [Zine on LLM Evals](https://forestfriends.tech)
 * [2024-07-12, 12:37:09](https://lobste.rs/s/t2dsns/race_bottom_database_transactions) - [A Race to the Bottom - Database Transactions Undermining Your AppSec](https://blog.doyensec.com/2024/07/11/database-race-conditions.html)
