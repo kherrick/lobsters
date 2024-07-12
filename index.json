@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-12, 06:01:32",
+      "https://lobste.rs/s/ub7zvk/foundationdb_as_identity_graph_database"
+    ],
+    [
+      "FoundationDB as an identity graph database (video)",
+      "https://foundationdb.dev/2024/foundationdb-as-an-identity-graph-database/index.html"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 04:26:11",
       "https://lobste.rs/s/xwliyp/using_s3_as_container_registry"
     ],
@@ -37,16 +47,6 @@
     [
       "CodeMirror: extensible code editor component for the web",
       "https://codemirror.net"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 20:00:53",
-      "https://lobste.rs/s/ukrcmv/leaf_node_monitoring_2024_02_released"
-    ],
-    [
-      "Leaf Node Monitoring 2024.02 released, with minimize to tray and Certificate Expiry checks",
-      "https://www.leafnode.nl/news/leaf-node-monitoring-2024-02-released-with-minimize-to-tray-and-ssl-certificate-expiry-checks/"
     ]
   ],
   [
