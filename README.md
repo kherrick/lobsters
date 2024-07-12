@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-07-11, 23:43:29](https://lobste.rs/s/3xdqfs/surprises_with_rust_s_as_python_division) - [Surprises with Rust's `as` (and Python division)](https://annahope.me/blog/rust-as/)
+* [2024-07-11, 22:04:08](https://lobste.rs/s/eg2erk/bypassing_discord_s_masked_links_filter) - [Bypassing Discord's masked links filter](https://gist.github.com/Nickguitar/7c6bdfa8255b2ec7e0d6d4015550ce4c)
 * [2024-07-11, 20:59:05](https://lobste.rs/s/legxpd/ubuntu_security_updates_are_confusing) - [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
 * [2024-07-11, 20:15:18](https://lobste.rs/s/gskgix/codemirror_extensible_code_editor) - [CodeMirror: extensible code editor component for the web](https://codemirror.net)
 * [2024-07-11, 20:00:53](https://lobste.rs/s/ukrcmv/leaf_node_monitoring_2024_02_released) - [Leaf Node Monitoring 2024.02 released, with minimize to tray and Certificate Expiry checks](https://www.leafnode.nl/news/leaf-node-monitoring-2024-02-released-with-minimize-to-tray-and-ssl-certificate-expiry-checks/)
@@ -19,7 +20,6 @@
 * [2024-07-11, 10:46:56](https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly) - [Nix on MacOS - The Good, the Bad and the Ugly](https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly)
 * [2024-07-11, 06:07:57](https://lobste.rs/s/dnnjtw/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/conference/atc24/presentation/li-hongyu)
 * [2024-07-11, 05:55:22](https://lobste.rs/s/dzsfil/release_lazarus_3_4_pascal) - [release of Lazarus 3.4 (Pascal)](https://forum.lazarus.freepascal.org/index.php?topic=67439.0)
-* [2024-07-11, 05:43:44](https://lobste.rs/s/zjn9ih/idu_sandbox_for_growing_simulated_plants) - [Idu: sandbox for growing simulated plants where every single leaf competes for resources](https://idu.cyberplant.ee/)
 * [2024-07-11, 03:51:04](https://lobste.rs/s/ivgtpd/atkinson_hyperlegible_font) - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 * [2024-07-11, 01:20:53](https://lobste.rs/s/1hrh4a/announcing_lix_2_90_vanilla_ice_cream) - [Announcing Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
 * [2024-07-10, 19:39:23](https://lobste.rs/s/q7svc4/creating_evolving_elixir_with_jose_valim) - [Creating and Evolving Elixir (with José Valim)](https://youtu.be/IGmwiyines0)
