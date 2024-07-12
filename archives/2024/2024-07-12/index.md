@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 20:21:30](https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula) - [Welcome to Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 19:56:23](https://lobste.rs/s/dulzgk/free_threaded_cpython_is_ready) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
 * [2024-07-12, 19:46:51](https://lobste.rs/s/thp8dm/beating_compiler) - [Beating the compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 17:48:19](https://lobste.rs/s/lmlzzt/announcing_incus_6_3_lxd) - [Announcing Incus 6.3 (LXD)](https://stgraber.org/2024/07/12/announcing-incus-6-3/)
