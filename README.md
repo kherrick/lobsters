@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 17:35:50](https://lobste.rs/s/4f1bmt/guis_are_antisocial) - [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
 * [2024-07-12, 17:23:55](https://lobste.rs/s/dtluum/linus_torvalds_says_risc_v_will_make_same) - [Linus Torvalds says RISC-V will make the same mistakes as Arm and x86](https://www.tomshardware.com/tech-industry/linus-torvalds-says-risc-v-will-make-the-same-mistakes-as-arm-and-x86)
 * [2024-07-12, 16:11:14](https://lobste.rs/s/xoygts/further_simplifying_self_referential) - [Further Simplifying Self-Referential Types for Rust](https://blog.yoshuawuyts.com/self-referential-types-2/)
-* [2024-07-12, 16:05:13](https://lobste.rs/s/p1uirr/celp_contextually_aware_ai_driven_unit) - [Celp - Contextually Aware AI-Driven Unit Test Generation for Typescript Node.js projects](https://www.celp.ai/)
 * [2024-07-12, 14:50:26](https://lobste.rs/s/z5karh/extracting_wisdom_from_conference) - [“Extracting wisdom” from conference videos](https://blog.ovalerio.net/archives/2900)
 * [2024-07-12, 14:46:16](https://lobste.rs/s/xkfl2i/at_mountains_madness) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)

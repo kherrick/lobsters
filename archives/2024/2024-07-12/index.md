@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 17:35:50](https://lobste.rs/s/4f1bmt/guis_are_antisocial) - [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
 * [2024-07-12, 17:23:55](https://lobste.rs/s/dtluum/linus_torvalds_says_risc_v_will_make_same) - [Linus Torvalds says RISC-V will make the same mistakes as Arm and x86](https://www.tomshardware.com/tech-industry/linus-torvalds-says-risc-v-will-make-the-same-mistakes-as-arm-and-x86)
 * [2024-07-12, 16:11:14](https://lobste.rs/s/xoygts/further_simplifying_self_referential) - [Further Simplifying Self-Referential Types for Rust](https://blog.yoshuawuyts.com/self-referential-types-2/)
 * [2024-07-12, 16:05:13](https://lobste.rs/s/p1uirr/celp_contextually_aware_ai_driven_unit) - [Celp - Contextually Aware AI-Driven Unit Test Generation for Typescript Node.js projects](https://www.celp.ai/)
