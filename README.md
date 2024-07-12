@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 06:47:29](https://lobste.rs/s/o4z9pa/all_systems_go_schedule) - [All Systems Go Schedule](https://cfp.all-systems-go.io/all-systems-go-2024/schedule/)
 * [2024-07-12, 06:01:32](https://lobste.rs/s/ub7zvk/foundationdb_as_identity_graph_database) - [FoundationDB as an identity graph database (video)](https://foundationdb.dev/2024/foundationdb-as-an-identity-graph-database/index.html)
 * [2024-07-12, 04:26:11](https://lobste.rs/s/xwliyp/using_s3_as_container_registry) - [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-11, 22:04:08](https://lobste.rs/s/eg2erk/bypassing_discord_s_masked_links_filter) - [Bypassing Discord's masked links filter](https://gist.github.com/Nickguitar/7c6bdfa8255b2ec7e0d6d4015550ce4c)
@@ -22,7 +23,6 @@
 * [2024-07-11, 05:55:22](https://lobste.rs/s/dzsfil/release_lazarus_3_4_pascal) - [release of Lazarus 3.4 (Pascal)](https://forum.lazarus.freepascal.org/index.php?topic=67439.0)
 * [2024-07-11, 03:51:04](https://lobste.rs/s/ivgtpd/atkinson_hyperlegible_font) - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 * [2024-07-11, 01:20:53](https://lobste.rs/s/1hrh4a/announcing_lix_2_90_vanilla_ice_cream) - [Announcing Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
-* [2024-07-10, 19:39:23](https://lobste.rs/s/q7svc4/creating_evolving_elixir_with_jose_valim) - [Creating and Evolving Elixir (with José Valim)](https://youtu.be/IGmwiyines0)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
 * [2024-07-10, 14:24:33](https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa) - [Grace Hopper's Lost Lecture found in an NSA Vault](https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/)
 
