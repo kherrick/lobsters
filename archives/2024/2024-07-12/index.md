@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
+* [2024-07-12, 14:21:13](https://lobste.rs/s/uxco1y/zine_on_llm_evals) - [Zine on LLM Evals](https://forestfriends.tech)
 * [2024-07-12, 12:37:09](https://lobste.rs/s/t2dsns/race_bottom_database_transactions) - [A Race to the Bottom - Database Transactions Undermining Your AppSec](https://blog.doyensec.com/2024/07/11/database-race-conditions.html)
 * [2024-07-12, 10:53:31](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
