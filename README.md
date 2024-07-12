@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 10:53:31](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
 * [2024-07-12, 08:44:16](https://lobste.rs/s/2panvu/forth_methodology_charles_moore) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
 * [2024-07-12, 08:12:02](https://lobste.rs/s/1zrhoi/anatomy_compofylla) - [Anatomy of a Compofylla](https://beyondbrown.mooo.com/post/anatomy/)
@@ -21,7 +22,6 @@
 * [2024-07-11, 13:47:44](https://lobste.rs/s/tkiukm/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
 * [2024-07-11, 11:35:49](https://lobste.rs/s/jdgj4i/natural_number_game) - [Natural Number Game](https://adam.math.hhu.de/#/g/leanprover-community/nng4/)
 * [2024-07-11, 10:46:56](https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly) - [Nix on MacOS - The Good, the Bad and the Ugly](https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly)
-* [2024-07-11, 06:07:57](https://lobste.rs/s/dnnjtw/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/conference/atc24/presentation/li-hongyu)
 * [2024-07-11, 03:51:04](https://lobste.rs/s/ivgtpd/atkinson_hyperlegible_font) - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 * [2024-07-11, 01:20:53](https://lobste.rs/s/1hrh4a/announcing_lix_2_90_vanilla_ice_cream) - [Announcing Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
