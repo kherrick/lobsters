@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 20:41:06](https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at) - [LLM vendors are incredibly bad at responding to security issues](https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/)
+* [2024-07-12, 20:37:54](https://lobste.rs/s/m9bz8a/speeding_up_temporal_aggregation) - [Speeding up Temporal Aggregation in DataFusion by 60-60000x using µWheel](https://maxmeldrum.com/docs/posts/2024-05-14-uwheel-datafusion.html)
 * [2024-07-12, 20:30:41](https://lobste.rs/s/n65nb9/5_shortcomings_helm_glasskube) - [5 shortcomings of Helm | Glasskube](https://glasskube.dev/blog/5-helm-shortcomings/)
 * [2024-07-12, 20:21:30](https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula) - [Welcome to Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 19:56:23](https://lobste.rs/s/dulzgk/free_threaded_cpython_is_ready) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
-* [2024-07-12, 19:46:51](https://lobste.rs/s/thp8dm/beating_compiler) - [Beating the compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 17:48:19](https://lobste.rs/s/lmlzzt/announcing_incus_6_3_lxd) - [Announcing Incus 6.3 (LXD)](https://stgraber.org/2024/07/12/announcing-incus-6-3/)
 * [2024-07-12, 17:35:50](https://lobste.rs/s/4f1bmt/guis_are_antisocial) - [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
 * [2024-07-12, 17:13:00](https://lobste.rs/s/l7u1j4/discord_vs_irc_rough_notes) - [Discord vs IRC Rough Notes](https://push.cx/discord-vs-irc-notes)
@@ -24,7 +25,6 @@
 * [2024-07-11, 16:03:50](https://lobste.rs/s/x0j0iv/just_use_postgres_for_everything) - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
 * [2024-07-11, 15:36:42](https://lobste.rs/s/yhtbaz/toit_programming_language) - [Toit programming language](https://toitlang.org/)
 * [2024-07-11, 13:47:44](https://lobste.rs/s/tkiukm/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
-* [2024-07-11, 10:46:56](https://lobste.rs/s/eojt4t/nix_on_macos_good_bad_ugly) - [Nix on MacOS - The Good, the Bad and the Ugly](https://drakerossman.com/blog/nix-on-macos-the-good-the-bad-and-the-ugly)
 
 ## [Archives](archives/index.md)
 
