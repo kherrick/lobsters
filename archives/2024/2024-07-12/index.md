@@ -7,6 +7,7 @@
 * [2024-07-12, 20:41:06](https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at) - [LLM vendors are incredibly bad at responding to security issues](https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/)
 * [2024-07-12, 20:37:54](https://lobste.rs/s/m9bz8a/speeding_up_temporal_aggregation) - [Speeding up Temporal Aggregation in DataFusion by 60-60000x using µWheel](https://maxmeldrum.com/docs/posts/2024-05-14-uwheel-datafusion.html)
 * [2024-07-12, 20:30:41](https://lobste.rs/s/n65nb9/5_shortcomings_helm_glasskube) - [5 shortcomings of Helm | Glasskube](https://glasskube.dev/blog/5-helm-shortcomings/)
+* [2024-07-12, 20:30:41](https://lobste.rs/s/n65nb9/5_shortcomings_helm) - [5 shortcomings of Helm](https://glasskube.dev/blog/5-helm-shortcomings/)
 * [2024-07-12, 20:21:30](https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula) - [Welcome to Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 19:56:23](https://lobste.rs/s/dulzgk/free_threaded_cpython_is_ready) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
 * [2024-07-12, 19:46:51](https://lobste.rs/s/thp8dm/beating_compiler) - [Beating the compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
