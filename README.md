@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 * [2024-07-12, 22:07:30](https://lobste.rs/s/tnu4c2/where_is_sandbox_your_code_base) - [Where is the sandbox in your code base?](https://interjectedfuture.com/where-is-the-sandbox-in-your-code-base/)
 * [2024-07-12, 20:41:06](https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at) - [LLM vendors are incredibly bad at responding to security issues](https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/)
-* [2024-07-12, 20:37:54](https://lobste.rs/s/m9bz8a/speeding_up_temporal_aggregation) - [Speeding up Temporal Aggregation in DataFusion by 60-60000x using µWheel](https://maxmeldrum.com/docs/posts/2024-05-14-uwheel-datafusion.html)
 * [2024-07-12, 20:30:41](https://lobste.rs/s/n65nb9/5_shortcomings_helm) - [5 shortcomings of Helm](https://glasskube.dev/blog/5-helm-shortcomings/)
 * [2024-07-12, 20:21:30](https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula) - [Welcome to Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 19:56:23](https://lobste.rs/s/dulzgk/free_threaded_cpython_is_ready) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-12](index.md)
 
+* [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 * [2024-07-12, 22:07:30](https://lobste.rs/s/tnu4c2/where_is_sandbox_your_code_base) - [Where is the sandbox in your code base?](https://interjectedfuture.com/where-is-the-sandbox-in-your-code-base/)
 * [2024-07-12, 20:41:06](https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at) - [LLM vendors are incredibly bad at responding to security issues](https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/)
 * [2024-07-12, 20:37:54](https://lobste.rs/s/m9bz8a/speeding_up_temporal_aggregation) - [Speeding up Temporal Aggregation in DataFusion by 60-60000x using µWheel](https://maxmeldrum.com/docs/posts/2024-05-14-uwheel-datafusion.html)
