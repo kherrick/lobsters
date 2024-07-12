@@ -22,10 +22,10 @@
   [
     [
       "2024-07-12, 20:30:41",
-      "https://lobste.rs/s/n65nb9/5_shortcomings_helm_glasskube"
+      "https://lobste.rs/s/n65nb9/5_shortcomings_helm"
     ],
     [
-      "5 shortcomings of Helm | Glasskube",
+      "5 shortcomings of Helm",
       "https://glasskube.dev/blog/5-helm-shortcomings/"
     ]
   ],
@@ -47,6 +47,16 @@
     [
       "Free-threaded CPython is ready to experiment with",
       "https://labs.quansight.org/blog/free-threaded-python-rollout"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 19:46:51",
+      "https://lobste.rs/s/thp8dm/beating_compiler"
+    ],
+    [
+      "Beating the compiler",
+      "https://www.mattkeeter.com/blog/2024-07-12-interpreter/"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "maciNTosh: PowerPC Windows NT ported to Power Macintosh systems",
       "https://github.com/Wack0/maciNTosh"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 14:21:13",
-      "https://lobste.rs/s/uxco1y/zine_on_llm_evals"
-    ],
-    [
-      "Zine on LLM Evals",
-      "https://forestfriends.tech"
     ]
   ],
   [
