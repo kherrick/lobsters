@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-11, 23:43:29](https://lobste.rs/s/3xdqfs/surprises_with_rust_s_as_python_division) - [Surprises with Rust's `as` (and Python division)](https://annahope.me/blog/rust-as/)
+* [2024-07-12, 04:26:11](https://lobste.rs/s/xwliyp/using_s3_as_container_registry) - [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-11, 22:04:08](https://lobste.rs/s/eg2erk/bypassing_discord_s_masked_links_filter) - [Bypassing Discord's masked links filter](https://gist.github.com/Nickguitar/7c6bdfa8255b2ec7e0d6d4015550ce4c)
 * [2024-07-11, 20:59:05](https://lobste.rs/s/legxpd/ubuntu_security_updates_are_confusing) - [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
 * [2024-07-11, 20:15:18](https://lobste.rs/s/gskgix/codemirror_extensible_code_editor) - [CodeMirror: extensible code editor component for the web](https://codemirror.net)

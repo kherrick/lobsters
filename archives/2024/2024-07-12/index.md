@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-12](index.md)
+
+* [2024-07-12, 04:26:11](https://lobste.rs/s/xwliyp/using_s3_as_container_registry) - [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
