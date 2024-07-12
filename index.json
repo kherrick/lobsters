@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-12, 14:25:15",
+      "https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported"
+    ],
+    [
+      "maciNTosh: PowerPC Windows NT ported to Power Macintosh systems",
+      "https://github.com/Wack0/maciNTosh"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 14:21:13",
+      "https://lobste.rs/s/uxco1y/zine_on_llm_evals"
+    ],
+    [
+      "Zine on LLM Evals",
+      "https://forestfriends.tech"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 12:37:09",
       "https://lobste.rs/s/t2dsns/race_bottom_database_transactions"
     ],
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2024-07-11, 13:51:35",
-      "https://lobste.rs/s/tk2btc/how_fast_is_javascript_simulating_20_000"
-    ],
-    [
-      "How fast is javascript simulating 20,000,000 particles?",
-      "https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles"
-    ]
-  ],
-  [
-    [
       "2024-07-11, 13:47:44",
       "https://lobste.rs/s/tkiukm/iconography_x_window_system_boot_stipple"
     ],
     [
       "Iconography of the X Window System: The Boot Stipple",
       "https://matttproud.com/blog/posts/x-window-system-boot-stipple.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-11, 11:35:49",
-      "https://lobste.rs/s/jdgj4i/natural_number_game"
-    ],
-    [
-      "Natural Number Game",
-      "https://adam.math.hhu.de/#/g/leanprover-community/nng4/"
     ]
   ],
   [
