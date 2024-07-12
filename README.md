@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 19:46:51](https://lobste.rs/s/thp8dm/beating_compiler) - [Beating the compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 17:48:19](https://lobste.rs/s/lmlzzt/announcing_incus_6_3_lxd) - [Announcing Incus 6.3 (LXD)](https://stgraber.org/2024/07/12/announcing-incus-6-3/)
 * [2024-07-12, 17:35:50](https://lobste.rs/s/4f1bmt/guis_are_antisocial) - [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
 * [2024-07-12, 17:13:00](https://lobste.rs/s/l7u1j4/discord_vs_irc_rough_notes) - [Discord vs IRC Rough Notes](https://push.cx/discord-vs-irc-notes)
@@ -10,7 +11,6 @@
 * [2024-07-12, 10:53:31](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
 * [2024-07-12, 08:44:16](https://lobste.rs/s/2panvu/forth_methodology_charles_moore) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
-* [2024-07-12, 08:12:02](https://lobste.rs/s/1zrhoi/anatomy_compofylla) - [Anatomy of a Compofylla](https://beyondbrown.mooo.com/post/anatomy/)
 * [2024-07-12, 07:37:24](https://lobste.rs/s/01qjom/postmarketos_linux_for_phones_more) - [PostmarketOS: Linux for phones and more](https://lwn.net/Articles/979522/)
 * [2024-07-12, 06:47:29](https://lobste.rs/s/o4z9pa/all_systems_go_schedule) - [All Systems Go Schedule](https://cfp.all-systems-go.io/all-systems-go-2024/schedule/)
 * [2024-07-12, 04:26:11](https://lobste.rs/s/xwliyp/using_s3_as_container_registry) - [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
