@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 07:37:24](https://lobste.rs/s/01qjom/postmarketos_linux_for_phones_more_lwn) - [PostmarketOS: Linux for phones and more [LWN.net]](https://lwn.net/Articles/979522/)
 * [2024-07-12, 06:47:29](https://lobste.rs/s/o4z9pa/all_systems_go_schedule) - [All Systems Go Schedule](https://cfp.all-systems-go.io/all-systems-go-2024/schedule/)
 * [2024-07-12, 06:01:32](https://lobste.rs/s/ub7zvk/foundationdb_as_identity_graph_database) - [FoundationDB as an identity graph database (video)](https://foundationdb.dev/2024/foundationdb-as-an-identity-graph-database/index.html)
 * [2024-07-12, 04:26:11](https://lobste.rs/s/xwliyp/using_s3_as_container_registry) - [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
@@ -24,7 +25,6 @@
 * [2024-07-11, 03:51:04](https://lobste.rs/s/ivgtpd/atkinson_hyperlegible_font) - [Atkinson Hyperlegible Font](https://brailleinstitute.org/freefont)
 * [2024-07-11, 01:20:53](https://lobste.rs/s/1hrh4a/announcing_lix_2_90_vanilla_ice_cream) - [Announcing Lix 2.90 \"Vanilla Ice Cream\"](https://lix.systems/blog/2024-07-10-lix-2.90-release/)
 * [2024-07-10, 17:23:23](https://lobste.rs/s/5fzgma/zed_on_linux_is_here) - [Zed on Linux is here](https://zed.dev/linux)
-* [2024-07-10, 14:24:33](https://lobste.rs/s/nfhccm/grace_hopper_s_lost_lecture_found_nsa) - [Grace Hopper's Lost Lecture found in an NSA Vault](https://www.muckrock.com/news/archives/2024/jul/10/grace-hopper-lost-lecture-found-nsa/)
 
 ## [Archives](archives/index.md)
 
