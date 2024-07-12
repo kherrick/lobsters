@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 16:05:13](https://lobste.rs/s/p1uirr/celp_contextually_aware_ai_driven_unit) - [Celp - Contextually Aware AI-Driven Unit Test Generation for Typescript Node.js projects](https://www.celp.ai/)
 * [2024-07-12, 14:50:26](https://lobste.rs/s/z5karh/extracting_wisdom_from_conference) - [“Extracting wisdom” from conference videos](https://blog.ovalerio.net/archives/2900)
 * [2024-07-12, 14:46:16](https://lobste.rs/s/xkfl2i/at_mountains_madness) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 14:21:13](https://lobste.rs/s/uxco1y/zine_on_llm_evals) - [Zine on LLM Evals](https://forestfriends.tech)
-* [2024-07-12, 12:37:09](https://lobste.rs/s/t2dsns/race_bottom_database_transactions) - [A Race to the Bottom - Database Transactions Undermining Your AppSec](https://blog.doyensec.com/2024/07/11/database-race-conditions.html)
 * [2024-07-12, 10:53:31](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
 * [2024-07-12, 08:44:16](https://lobste.rs/s/2panvu/forth_methodology_charles_moore) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
