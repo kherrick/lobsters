@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 17:23:55](https://lobste.rs/s/dtluum/linus_torvalds_says_risc_v_will_make_same) - [Linus Torvalds says RISC-V will make the same mistakes as Arm and x86](https://www.tomshardware.com/tech-industry/linus-torvalds-says-risc-v-will-make-the-same-mistakes-as-arm-and-x86)
 * [2024-07-12, 16:11:14](https://lobste.rs/s/xoygts/further_simplifying_self_referential) - [Further Simplifying Self-Referential Types for Rust](https://blog.yoshuawuyts.com/self-referential-types-2/)
 * [2024-07-12, 16:05:13](https://lobste.rs/s/p1uirr/celp_contextually_aware_ai_driven_unit) - [Celp - Contextually Aware AI-Driven Unit Test Generation for Typescript Node.js projects](https://www.celp.ai/)
 * [2024-07-12, 14:50:26](https://lobste.rs/s/z5karh/extracting_wisdom_from_conference) - [“Extracting wisdom” from conference videos](https://blog.ovalerio.net/archives/2900)
@@ -14,7 +15,6 @@
 * [2024-07-12, 06:47:29](https://lobste.rs/s/o4z9pa/all_systems_go_schedule) - [All Systems Go Schedule](https://cfp.all-systems-go.io/all-systems-go-2024/schedule/)
 * [2024-07-12, 04:26:11](https://lobste.rs/s/xwliyp/using_s3_as_container_registry) - [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-11, 20:59:05](https://lobste.rs/s/legxpd/ubuntu_security_updates_are_confusing) - [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
-* [2024-07-11, 20:15:18](https://lobste.rs/s/gskgix/codemirror_extensible_code_editor) - [CodeMirror: extensible code editor component for the web](https://codemirror.net)
 * [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
 * [2024-07-11, 16:38:19](https://lobste.rs/s/yzi2q2/using_nix_as_yocto_alternative) - [Using Nix as a Yocto Alternative](https://www.kdab.com/using-nix-as-a-yocto-alternative/)
