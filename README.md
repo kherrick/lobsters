@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 22:07:30](https://lobste.rs/s/tnu4c2/where_is_sandbox_your_code_base) - [Where is the sandbox in your code base?](https://interjectedfuture.com/where-is-the-sandbox-in-your-code-base/)
 * [2024-07-12, 20:41:06](https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at) - [LLM vendors are incredibly bad at responding to security issues](https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/)
 * [2024-07-12, 20:37:54](https://lobste.rs/s/m9bz8a/speeding_up_temporal_aggregation) - [Speeding up Temporal Aggregation in DataFusion by 60-60000x using µWheel](https://maxmeldrum.com/docs/posts/2024-05-14-uwheel-datafusion.html)
 * [2024-07-12, 20:30:41](https://lobste.rs/s/n65nb9/5_shortcomings_helm) - [5 shortcomings of Helm](https://glasskube.dev/blog/5-helm-shortcomings/)
@@ -16,7 +17,6 @@
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
 * [2024-07-12, 08:44:16](https://lobste.rs/s/2panvu/forth_methodology_charles_moore) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
 * [2024-07-12, 07:37:24](https://lobste.rs/s/01qjom/postmarketos_linux_for_phones_more) - [PostmarketOS: Linux for phones and more](https://lwn.net/Articles/979522/)
-* [2024-07-12, 06:47:29](https://lobste.rs/s/o4z9pa/all_systems_go_schedule) - [All Systems Go Schedule](https://cfp.all-systems-go.io/all-systems-go-2024/schedule/)
 * [2024-07-12, 04:26:11](https://lobste.rs/s/xwliyp/using_s3_as_container_registry) - [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-11, 20:59:05](https://lobste.rs/s/legxpd/ubuntu_security_updates_are_confusing) - [Ubuntu Security Updates Are a Confusing Mess](https://gld.mcphail.uk/posts/ubuntu-security-updates-are-a-confusing-mess/)
 * [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
