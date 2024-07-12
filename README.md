@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-12, 12:37:09](https://lobste.rs/s/t2dsns/race_bottom_database_transactions) - [A Race to the Bottom - Database Transactions Undermining Your AppSec](https://blog.doyensec.com/2024/07/11/database-race-conditions.html)
 * [2024-07-12, 10:53:31](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
 * [2024-07-12, 08:44:16](https://lobste.rs/s/2panvu/forth_methodology_charles_moore) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
@@ -16,7 +17,6 @@
 * [2024-07-11, 16:03:50](https://lobste.rs/s/x0j0iv/just_use_postgres_for_everything) - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
 * [2024-07-11, 15:36:42](https://lobste.rs/s/yhtbaz/toit_programming_language) - [Toit programming language](https://toitlang.org/)
 * [2024-07-11, 15:34:51](https://lobste.rs/s/xghu9w/some_tricks_from_scrapscript_compiler) - [Some tricks from the Scrapscript compiler](https://bernsteinbear.com/blog/scrapscript-tricks/)
-* [2024-07-11, 15:23:16](https://lobste.rs/s/rirmpo/vlms_are_blind) - [VLMs are Blind](https://vlmsareblind.github.io/)
 * [2024-07-11, 14:47:07](https://lobste.rs/s/mlbyhq/functional_reactive_user_interfaces) - [Functional reactive user interfaces with propagators](https://dthompson.us/posts/functional-reactive-user-interfaces-with-propagators.html)
 * [2024-07-11, 13:51:35](https://lobste.rs/s/tk2btc/how_fast_is_javascript_simulating_20_000) - [How fast is javascript simulating 20,000,000 particles?](https://dgerrells.com/blog/how-fast-is-javascript-simulating-20-000-000-particles)
 * [2024-07-11, 13:47:44](https://lobste.rs/s/tkiukm/iconography_x_window_system_boot_stipple) - [Iconography of the X Window System: The Boot Stipple](https://matttproud.com/blog/posts/x-window-system-boot-stipple.html)
