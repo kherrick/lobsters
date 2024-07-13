@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-13, 08:10:01",
+      "https://lobste.rs/s/paxqgi/wasm_component_as_audio_plugin"
+    ],
+    [
+      "wasm component as audio plugin",
+      "https://github.com/wasm-audio/wasm-audio-examples"
+    ]
+  ],
+  [
+    [
       "2024-07-13, 04:58:23",
       "https://lobste.rs/s/rfsuum/wireless_amiga_tank_mouse"
     ],
@@ -57,16 +67,6 @@
     [
       "LLM vendors are incredibly bad at responding to security issues",
       "https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 20:30:41",
-      "https://lobste.rs/s/n65nb9/5_shortcomings_helm"
-    ],
-    [
-      "5 shortcomings of Helm",
-      "https://glasskube.dev/blog/5-helm-shortcomings/"
     ]
   ],
   [
