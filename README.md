@@ -19,7 +19,7 @@
 * [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 10:53:31](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2z6mwv/what_are_you_doing_this_weekend)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
-* [2024-07-12, 07:37:24](https://lobste.rs/s/01qjom/postmarketos_linux_for_phones_more) - [PostmarketOS: Linux for phones and more](https://lwn.net/Articles/979522/)
+* [2024-07-12, 08:44:16](https://lobste.rs/s/2panvu/forth_methodology_charles_moore) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
 * [2024-07-12, 04:26:11](https://lobste.rs/s/xwliyp/using_s3_as_container_registry) - [Using S3 as a container registry](https://ochagavia.nl/blog/using-s3-as-a-container-registry/)
 * [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
