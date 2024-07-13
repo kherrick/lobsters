@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-13, 14:49:16](https://lobste.rs/s/y0mdza/epicepoch_dialed_hybrid_timestamp) - [EpicEpoch: A dialed-in hybrid timestamp service for scale](https://github.com/danthegoodman1/EpicEpoch)
+* [2024-07-13, 14:49:12](https://lobste.rs/s/k3hyu1/using_css_nesting) - [Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
 * [2024-07-13, 13:32:26](https://lobste.rs/s/yutrgz/new_old_stock_os_2_version_2) - [New Old Stock OS/2 version 2](https://www.abortretry.fail/p/new-old-stock-os2-version-2)
 * [2024-07-13, 13:29:07](https://lobste.rs/s/koank1/privacy_preserving_attribution) - [Privacy-Preserving Attribution](https://support.mozilla.org/en-US/kb/privacy-preserving-attribution)
 * [2024-07-13, 11:55:05](https://lobste.rs/s/quujkr/three_important_steps_before_jumping) - [Three important steps before jumping to the code (2022)](https://stebunov.com/three-steps/)
@@ -18,13 +20,11 @@
 * [2024-07-12, 19:46:51](https://lobste.rs/s/thp8dm/beating_compiler) - [Beating the compiler](https://www.mattkeeter.com/blog/2024-07-12-interpreter/)
 * [2024-07-12, 17:48:19](https://lobste.rs/s/lmlzzt/announcing_incus_6_3_lxd) - [Announcing Incus 6.3 (LXD)](https://stgraber.org/2024/07/12/announcing-incus-6-3/)
 * [2024-07-12, 17:35:50](https://lobste.rs/s/4f1bmt/guis_are_antisocial) - [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
-* [2024-07-12, 17:13:00](https://lobste.rs/s/l7u1j4/discord_vs_irc_rough_notes) - [Discord vs IRC Rough Notes](https://push.cx/discord-vs-irc-notes)
 * [2024-07-12, 14:46:16](https://lobste.rs/s/xkfl2i/at_mountains_madness) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
 * [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
-* [2024-07-11, 16:15:36](https://lobste.rs/s/arffew/you_can_deeplink_specific_pdf_page) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
 
 ## [Archives](archives/index.md)
 
