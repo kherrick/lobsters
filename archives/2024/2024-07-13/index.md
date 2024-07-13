@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-13](index.md)
 
+* [2024-07-13, 21:18:42](https://lobste.rs/s/dlzqpb/setting_up_retro_multi_node_bbs_on_os_2_warp) - [Setting up a retro multi-node BBS on OS/2 Warp](https://youtu.be/qrG2MUNneHc?t=1)
 * [2024-07-13, 20:27:43](https://lobste.rs/s/qu0oeo/i_m_not_fan_strlcpy_3) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 18:11:00](https://lobste.rs/s/4t920f/graphical_effects_duke_nukem_1_2_part_1) - [Graphical effects in Duke Nukem 1 & 2, part 1](https://lethalguitar.wordpress.com/2024/07/13/graphical-effects-in-duke-nukem-1-2-part-1/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-13, 21:18:42](https://lobste.rs/s/dlzqpb/setting_up_retro_multi_node_bbs_on_os_2_warp) - [Setting up a retro multi-node BBS on OS/2 Warp](https://youtu.be/qrG2MUNneHc?t=1)
 * [2024-07-13, 20:27:43](https://lobste.rs/s/qu0oeo/i_m_not_fan_strlcpy_3) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 18:11:00](https://lobste.rs/s/4t920f/graphical_effects_duke_nukem_1_2_part_1) - [Graphical effects in Duke Nukem 1 & 2, part 1](https://lethalguitar.wordpress.com/2024/07/13/graphical-effects-in-duke-nukem-1-2-part-1/)
@@ -17,7 +18,6 @@
 * [2024-07-13, 00:27:00](https://lobste.rs/s/kil8oo/miniscript_programming_language) - [MiniScript programming language](https://miniscript.org)
 * [2024-07-12, 23:54:11](https://lobste.rs/s/txu0e5/finding_simple_rewrite_rules_for_pypy_jit) - [Finding Simple Rewrite Rules for the PyPy JIT with Z3](https://www.pypy.org/posts/2024/07/finding-simple-rewrite-rules-jit-z3.html)
 * [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
-* [2024-07-12, 20:41:06](https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at) - [LLM vendors are incredibly bad at responding to security issues](https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/)
 * [2024-07-12, 20:30:41](https://lobste.rs/s/n65nb9/5_shortcomings_helm) - [5 shortcomings of Helm](https://glasskube.dev/blog/5-helm-shortcomings/)
 * [2024-07-12, 20:21:30](https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula) - [Welcome to Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 19:56:23](https://lobste.rs/s/dulzgk/free_threaded_cpython_is_ready) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
