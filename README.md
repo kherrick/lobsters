@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 18:11:00](https://lobste.rs/s/4t920f/graphical_effects_duke_nukem_1_2_part_1) - [Graphical effects in Duke Nukem 1 & 2, part 1](https://lethalguitar.wordpress.com/2024/07/13/graphical-effects-in-duke-nukem-1-2-part-1/)
 * [2024-07-13, 16:59:01](https://lobste.rs/s/1cu0vt/why_were_early_personal_computer) - [Why were early (personal) computer connectors so bulky?](https://retrocomputing.stackexchange.com/questions/30306/why-were-early-personal-computer-connectors-so-bulky)
 * [2024-07-13, 15:36:22](https://lobste.rs/s/ur9jc7/shake_build_system) - [Shake Build System](https://shakebuild.com/manual)
@@ -23,7 +24,6 @@
 * [2024-07-12, 14:46:16](https://lobste.rs/s/xkfl2i/at_mountains_madness) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
-* [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
 
 ## [Archives](archives/index.md)
