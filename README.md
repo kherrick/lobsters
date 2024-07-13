@@ -2,6 +2,7 @@
 
 * [2024-07-13, 04:58:23](https://lobste.rs/s/rfsuum/wireless_amiga_tank_mouse) - [Wireless Amiga Tank Mouse](https://lyonsden.net/wireless-tank-mouse/)
 * [2024-07-13, 00:27:00](https://lobste.rs/s/kil8oo/miniscript_programming_language) - [MiniScript programming language](https://miniscript.org)
+* [2024-07-12, 23:54:11](https://lobste.rs/s/txu0e5/finding_simple_rewrite_rules_for_pypy_jit) - [Finding Simple Rewrite Rules for the PyPy JIT with Z3](https://www.pypy.org/posts/2024/07/finding-simple-rewrite-rules-jit-z3.html)
 * [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 * [2024-07-12, 22:07:30](https://lobste.rs/s/tnu4c2/where_is_sandbox_your_code_base) - [Where is the sandbox in your code base?](https://interjectedfuture.com/where-is-the-sandbox-in-your-code-base/)
 * [2024-07-12, 20:41:06](https://lobste.rs/s/sbpnqq/llm_vendors_are_incredibly_bad_at) - [LLM vendors are incredibly bad at responding to security issues](https://pivot-to-ai.com/2024/07/12/llm-vendors-are-incredibly-bad-at-responding-to-security-issues/)
@@ -24,7 +25,6 @@
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
 * [2024-07-11, 16:15:36](https://lobste.rs/s/arffew/you_can_deeplink_specific_pdf_page) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
 * [2024-07-11, 16:03:50](https://lobste.rs/s/x0j0iv/just_use_postgres_for_everything) - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
-* [2024-07-11, 15:36:42](https://lobste.rs/s/yhtbaz/toit_programming_language) - [Toit programming language](https://toitlang.org/)
 
 ## [Archives](archives/index.md)
 
