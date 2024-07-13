@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-13, 13:32:26](https://lobste.rs/s/yutrgz/new_old_stock_os_2_version_2) - [New Old Stock OS/2 version 2](https://www.abortretry.fail/p/new-old-stock-os2-version-2)
+* [2024-07-13, 13:29:07](https://lobste.rs/s/koank1/privacy_preserving_attribution) - [Privacy-Preserving Attribution](https://support.mozilla.org/en-US/kb/privacy-preserving-attribution)
 * [2024-07-13, 11:55:05](https://lobste.rs/s/quujkr/three_important_steps_before_jumping) - [Three important steps before jumping to the code (2022)](https://stebunov.com/three-steps/)
 * [2024-07-13, 11:52:17](https://lobste.rs/s/mi46vi/from_lab_trading_floor_designing_for) - [From the Lab to the Trading Floor: Designing for Expert Users](https://signalsandthreads.com/from-the-lab-to-the-trading-floor/)
 * [2024-07-13, 10:20:40](https://lobste.rs/s/2jpg9r/exploring_challenges_creating) - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
@@ -20,11 +22,9 @@
 * [2024-07-12, 14:46:16](https://lobste.rs/s/xkfl2i/at_mountains_madness) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
 * [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
-* [2024-07-12, 08:44:16](https://lobste.rs/s/2panvu/forth_methodology_charles_moore) - [The Forth Methodology of Charles Moore](https://www.ultratechnology.com/method.htm)
 * [2024-07-11, 17:41:09](https://lobste.rs/s/qviw9h/economics_postgres_free_tier) - [The economics of a Postgres free tier](https://xata.io/blog/postgres-free-tier)
 * [2024-07-11, 17:25:45](https://lobste.rs/s/xxsa36/chrome_chromium_gives_extra_privileges) - [Chrome/Chromium gives extra privileges to *.google.com domains](https://simonwillison.net/2024/Jul/9/hangout_servicesthunkjs/)
 * [2024-07-11, 16:15:36](https://lobste.rs/s/arffew/you_can_deeplink_specific_pdf_page) - [You can deeplink to a specific PDF page](https://technicalwriting.dev/www/pdf.html)
-* [2024-07-11, 16:03:50](https://lobste.rs/s/x0j0iv/just_use_postgres_for_everything) - [Just Use Postgres for Everything](https://www.amazingcto.com/postgres-for-everything/)
 
 ## [Archives](archives/index.md)
 
