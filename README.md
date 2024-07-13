@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-07-13, 22:03:35](https://lobste.rs/s/ryekvk/summing_ascii_encoded_integers_on) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](https://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
+* [2024-07-13, 21:42:15](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag) - [Should we have a \"low content\" or \"low effort\" flag?](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag)
 * [2024-07-13, 21:18:42](https://lobste.rs/s/dlzqpb/setting_up_retro_multi_node_bbs_on_os_2_warp) - [Setting up a retro multi-node BBS on OS/2 Warp](https://youtu.be/qrG2MUNneHc?t=1)
 * [2024-07-13, 20:27:43](https://lobste.rs/s/qu0oeo/i_m_not_fan_strlcpy_3) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
@@ -23,7 +24,6 @@
 * [2024-07-12, 19:56:23](https://lobste.rs/s/dulzgk/free_threaded_cpython_is_ready) - [Free-threaded CPython is ready to experiment with](https://labs.quansight.org/blog/free-threaded-python-rollout)
 * [2024-07-12, 17:35:50](https://lobste.rs/s/4f1bmt/guis_are_antisocial) - [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
 * [2024-07-12, 14:46:16](https://lobste.rs/s/xkfl2i/at_mountains_madness) - [At the Mountains of Madness](https://antithesis.com/blog/madness/)
-* [2024-07-12, 14:25:15](https://lobste.rs/s/o6i0fy/macintosh_powerpc_windows_nt_ported) - [maciNTosh: PowerPC Windows NT ported to Power Macintosh systems](https://github.com/Wack0/maciNTosh)
 * [2024-07-12, 09:01:52](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian) - [Any blogs like \"The Morning Paper\" by Adrian Coyler?](https://lobste.rs/s/6thvqj/any_blogs_like_morning_paper_by_adrian)
 
 ## [Archives](archives/index.md)
