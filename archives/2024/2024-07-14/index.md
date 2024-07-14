@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 20:42:22](https://lobste.rs/s/0nquay/it_s_all_up_for_grabs_compound_with_glue) - [It's all up for grabs, compound with glue](https://lmno.lol/alvaro/its-all-up-for-grabs-and-it-compounds)
 * [2024-07-14, 20:24:50](https://lobste.rs/s/9huy81/tbsp_tree_based_source_processing) - [tbsp - tree-based source-processing language](https://git.peppe.rs/languages/tbsp/about/)
 * [2024-07-14, 20:12:51](https://lobste.rs/s/kq1geq/understanding_3d_graphics) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
 * [2024-07-14, 17:09:48](https://lobste.rs/s/2lpkhd/fitting_elephant_with_four_non_zero) - [Fitting an Elephant with Four non-Zero Parameters](https://arxiv.org/html/2407.07909v1)
