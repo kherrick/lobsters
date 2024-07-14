@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-07-14, 00:54:06",
-      "https://lobste.rs/s/kydfhp/give_people_something_link_so_they_can"
-    ],
-    [
-      "Give people something to link to so they can talk about your features and ideas",
-      "https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/"
-    ]
-  ],
-  [
-    [
       "2024-07-13, 22:03:35",
       "https://lobste.rs/s/ryekvk/summing_ascii_encoded_integers_on"
     ],
@@ -207,6 +197,16 @@
     [
       "wasm component as audio plugin",
       "https://github.com/wasm-audio/wasm-audio-examples"
+    ]
+  ],
+  [
+    [
+      "2024-07-12, 23:54:11",
+      "https://lobste.rs/s/txu0e5/finding_simple_rewrite_rules_for_pypy_jit"
+    ],
+    [
+      "Finding Simple Rewrite Rules for the PyPy JIT with Z3",
+      "https://www.pypy.org/posts/2024/07/finding-simple-rewrite-rules-jit-z3.html"
     ]
   ],
   [
