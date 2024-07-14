@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 21:00:37](https://lobste.rs/s/6ptwhm/rust_for_filesystems) - [Rust for filesystems](https://lwn.net/Articles/978738/)
 * [2024-07-14, 20:55:20](https://lobste.rs/s/hltqvm/anatomy_compofylla) - [Anatomy of a Compofylla](http://beyondbrown.d-bug.me/post/anatomy/)
 * [2024-07-14, 20:42:22](https://lobste.rs/s/0nquay/it_s_all_up_for_grabs_compound_with_glue) - [It's all up for grabs, compound with glue](https://lmno.lol/alvaro/its-all-up-for-grabs-and-it-compounds)
 * [2024-07-14, 20:24:50](https://lobste.rs/s/9huy81/tbsp_tree_based_source_processing) - [tbsp - tree-based source-processing language](https://git.peppe.rs/languages/tbsp/about/)
