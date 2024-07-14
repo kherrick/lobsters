@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
 * [2024-07-14, 00:54:06](https://lobste.rs/s/kydfhp/give_people_something_link_so_they_can) - [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
 * [2024-07-13, 22:03:35](https://lobste.rs/s/ryekvk/summing_ascii_encoded_integers_on) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](https://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
 * [2024-07-13, 21:42:15](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag) - [Should we have a \"low content\" or \"low effort\" flag?](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag)
@@ -18,7 +19,6 @@
 * [2024-07-13, 10:20:40](https://lobste.rs/s/2jpg9r/exploring_challenges_creating) - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 * [2024-07-13, 10:02:14](https://lobste.rs/s/muz4xy/at_t_unlawful_access_customer_data) - [AT&T: Unlawful Access of Customer Data](https://www.att.com/support/article/my-account/000102979/)
 * [2024-07-13, 08:10:01](https://lobste.rs/s/paxqgi/wasm_component_as_audio_plugin) - [wasm component as audio plugin](https://github.com/wasm-audio/wasm-audio-examples)
-* [2024-07-13, 00:27:00](https://lobste.rs/s/kil8oo/miniscript_programming_language) - [MiniScript programming language](https://miniscript.org)
 * [2024-07-12, 23:54:11](https://lobste.rs/s/txu0e5/finding_simple_rewrite_rules_for_pypy_jit) - [Finding Simple Rewrite Rules for the PyPy JIT with Z3](https://www.pypy.org/posts/2024/07/finding-simple-rewrite-rules-jit-z3.html)
 * [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 * [2024-07-12, 20:21:30](https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula) - [Welcome to Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
