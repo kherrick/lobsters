@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-14, 23:02:34",
+      "https://lobste.rs/s/n0dytb/missing_parts_cargo"
+    ],
+    [
+      "The missing parts in Cargo",
+      "https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 22:50:49",
       "https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim"
     ],
@@ -227,16 +237,6 @@
     [
       "Shake Build System",
       "https://shakebuild.com/manual"
-    ]
-  ],
-  [
-    [
-      "2024-07-13, 14:49:16",
-      "https://lobste.rs/s/y0mdza/epicepoch_dialed_hybrid_timestamp"
-    ],
-    [
-      "EpicEpoch: A dialed-in hybrid timestamp service for scale",
-      "https://github.com/danthegoodman1/EpicEpoch"
     ]
   ],
   [
