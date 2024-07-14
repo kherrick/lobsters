@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-14, 23:02:34](https://lobste.rs/s/n0dytb/missing_parts_cargo) - [The missing parts in Cargo](https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/)
 * [2024-07-14, 22:50:49](https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim) - [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 21:40:17](https://lobste.rs/s/gwl4ps/how_happylock_works_deadlock_free_mutex) - [How HappyLock Works (a deadlock-free mutex library)](https://www.botahamec.dev/blog/how-happylock-works.html)
 * [2024-07-14, 21:37:31](https://lobste.rs/s/3eeiar/introduction_numeric_computing_with) - [Introduction to numeric computing with Rust](https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/)
@@ -23,7 +24,6 @@
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 * [2024-07-13, 16:59:01](https://lobste.rs/s/1cu0vt/why_were_early_personal_computer) - [Why were early (personal) computer connectors so bulky?](https://retrocomputing.stackexchange.com/questions/30306/why-were-early-personal-computer-connectors-so-bulky)
 * [2024-07-13, 15:36:22](https://lobste.rs/s/ur9jc7/shake_build_system) - [Shake Build System](https://shakebuild.com/manual)
-* [2024-07-13, 14:49:16](https://lobste.rs/s/y0mdza/epicepoch_dialed_hybrid_timestamp) - [EpicEpoch: A dialed-in hybrid timestamp service for scale](https://github.com/danthegoodman1/EpicEpoch)
 * [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 
 ## [Archives](archives/index.md)
