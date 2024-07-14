@@ -211,6 +211,16 @@
   ],
   [
     [
+      "2024-07-12, 23:54:11",
+      "https://lobste.rs/s/txu0e5/finding_simple_rewrite_rules_for_pypy_jit"
+    ],
+    [
+      "Finding Simple Rewrite Rules for the PyPy JIT with Z3",
+      "https://www.pypy.org/posts/2024/07/finding-simple-rewrite-rules-jit-z3.html"
+    ]
+  ],
+  [
+    [
       "2024-07-12, 22:27:14",
       "https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy"
     ],
@@ -227,16 +237,6 @@
     [
       "Welcome to Thunderbird 128 \"Nebula\"",
       "https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 19:56:23",
-      "https://lobste.rs/s/dulzgk/free_threaded_cpython_is_ready"
-    ],
-    [
-      "Free-threaded CPython is ready to experiment with",
-      "https://labs.quansight.org/blog/free-threaded-python-rollout"
     ]
   ],
   [
