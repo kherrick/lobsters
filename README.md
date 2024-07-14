@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-14, 20:24:50](https://lobste.rs/s/9huy81/tbsp_tree_based_source_processing) - [tbsp - tree-based source-processing language](https://git.peppe.rs/languages/tbsp/about/)
 * [2024-07-14, 20:12:51](https://lobste.rs/s/kq1geq/understanding_3d_graphics) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
 * [2024-07-14, 17:09:48](https://lobste.rs/s/2lpkhd/fitting_elephant_with_four_non_zero) - [Fitting an Elephant with Four non-Zero Parameters](https://arxiv.org/html/2407.07909v1)
 * [2024-07-14, 15:10:04](https://lobste.rs/s/1en2kx/compact_fenwick_trees_for_dynamic) - [Compact Fenwick trees for dynamic ranking and selection](https://arxiv.org/pdf/1904.12370)
@@ -21,7 +22,6 @@
 * [2024-07-13, 14:49:16](https://lobste.rs/s/y0mdza/epicepoch_dialed_hybrid_timestamp) - [EpicEpoch: A dialed-in hybrid timestamp service for scale](https://github.com/danthegoodman1/EpicEpoch)
 * [2024-07-13, 14:49:12](https://lobste.rs/s/k3hyu1/using_css_nesting) - [Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
 * [2024-07-13, 11:55:05](https://lobste.rs/s/quujkr/three_important_steps_before_jumping) - [Three important steps before jumping to the code (2022)](https://stebunov.com/three-steps/)
-* [2024-07-13, 11:52:17](https://lobste.rs/s/mi46vi/from_lab_trading_floor_designing_for) - [From the Lab to the Trading Floor: Designing for Expert Users](https://signalsandthreads.com/from-the-lab-to-the-trading-floor/)
 * [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 * [2024-07-12, 20:21:30](https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula) - [Welcome to Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 17:35:50](https://lobste.rs/s/4f1bmt/guis_are_antisocial) - [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
