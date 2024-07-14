@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-14, 17:09:48](https://lobste.rs/s/2lpkhd/fitting_elephant_with_four_non_zero) - [Fitting an Elephant with Four non-Zero Parameters](https://arxiv.org/html/2407.07909v1)
 * [2024-07-14, 15:10:04](https://lobste.rs/s/1en2kx/compact_fenwick_trees_for_dynamic) - [Compact Fenwick trees for dynamic ranking and selection](https://arxiv.org/pdf/1904.12370)
 * [2024-07-14, 11:54:52](https://lobste.rs/s/etf2ct/setting_up_x86_cpu_64_bit_mode) - [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
@@ -18,7 +19,6 @@
 * [2024-07-13, 15:36:22](https://lobste.rs/s/ur9jc7/shake_build_system) - [Shake Build System](https://shakebuild.com/manual)
 * [2024-07-13, 14:49:16](https://lobste.rs/s/y0mdza/epicepoch_dialed_hybrid_timestamp) - [EpicEpoch: A dialed-in hybrid timestamp service for scale](https://github.com/danthegoodman1/EpicEpoch)
 * [2024-07-13, 14:49:12](https://lobste.rs/s/k3hyu1/using_css_nesting) - [Using CSS nesting](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_nesting/Using_CSS_nesting)
-* [2024-07-13, 13:32:26](https://lobste.rs/s/yutrgz/new_old_stock_os_2_version_2) - [New Old Stock OS/2 version 2](https://www.abortretry.fail/p/new-old-stock-os2-version-2)
 * [2024-07-13, 11:55:05](https://lobste.rs/s/quujkr/three_important_steps_before_jumping) - [Three important steps before jumping to the code (2022)](https://stebunov.com/three-steps/)
 * [2024-07-13, 11:52:17](https://lobste.rs/s/mi46vi/from_lab_trading_floor_designing_for) - [From the Lab to the Trading Floor: Designing for Expert Users](https://signalsandthreads.com/from-the-lab-to-the-trading-floor/)
 * [2024-07-13, 08:10:01](https://lobste.rs/s/paxqgi/wasm_component_as_audio_plugin) - [wasm component as audio plugin](https://github.com/wasm-audio/wasm-audio-examples)

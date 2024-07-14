@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 17:09:48](https://lobste.rs/s/2lpkhd/fitting_elephant_with_four_non_zero) - [Fitting an Elephant with Four non-Zero Parameters](https://arxiv.org/html/2407.07909v1)
 * [2024-07-14, 15:10:04](https://lobste.rs/s/1en2kx/compact_fenwick_trees_for_dynamic) - [Compact Fenwick trees for dynamic ranking and selection](https://arxiv.org/pdf/1904.12370)
 * [2024-07-14, 11:54:52](https://lobste.rs/s/etf2ct/setting_up_x86_cpu_64_bit_mode) - [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
