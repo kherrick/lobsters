@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-14, 20:12:51](https://lobste.rs/s/kq1geq/understanding_3d_graphics) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
 * [2024-07-14, 17:09:48](https://lobste.rs/s/2lpkhd/fitting_elephant_with_four_non_zero) - [Fitting an Elephant with Four non-Zero Parameters](https://arxiv.org/html/2407.07909v1)
 * [2024-07-14, 15:10:04](https://lobste.rs/s/1en2kx/compact_fenwick_trees_for_dynamic) - [Compact Fenwick trees for dynamic ranking and selection](https://arxiv.org/pdf/1904.12370)
 * [2024-07-14, 11:54:52](https://lobste.rs/s/etf2ct/setting_up_x86_cpu_64_bit_mode) - [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
@@ -9,7 +10,6 @@
 * [2024-07-14, 05:58:31](https://lobste.rs/s/arfhd3/use_formal_methods_by_silicon) - [Use of Formal Methods by a Silicon Manufacturer (1988)](http://people.cs.bris.ac.uk/~dave/formalmethods.pdf)
 * [2024-07-14, 04:27:28](https://lobste.rs/s/1tj9e5/flecs_v4_0_is_out) - [Flecs v4.0 is out](https://ajmmertens.medium.com/flecs-v4-0-is-out-58e99e331888)
 * [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
-* [2024-07-14, 00:54:06](https://lobste.rs/s/kydfhp/give_people_something_link_so_they_can) - [Give people something to link to so they can talk about your features and ideas](https://simonwillison.net/2024/Jul/13/give-people-something-to-link-to/)
 * [2024-07-13, 22:03:35](https://lobste.rs/s/ryekvk/summing_ascii_encoded_integers_on) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](https://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
 * [2024-07-13, 21:42:15](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag) - [Should we have a \"low content\" or \"low effort\" flag?](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag)
 * [2024-07-13, 21:18:42](https://lobste.rs/s/dlzqpb/setting_up_retro_multi_node_bbs_on_os_2_warp) - [Setting up a retro multi-node BBS on OS/2 Warp](https://youtu.be/qrG2MUNneHc?t=1)
