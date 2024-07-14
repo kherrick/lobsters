@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-14, 05:58:31](https://lobste.rs/s/arfhd3/use_formal_methods_by_silicon) - [Use of Formal Methods by a Silicon Manufacturer (1988)](http://people.cs.bris.ac.uk/~dave/formalmethods.pdf)
 * [2024-07-14, 04:27:28](https://lobste.rs/s/1tj9e5/flecs_v4_0_is_out) - [Flecs v4.0 is out](https://ajmmertens.medium.com/flecs-v4-0-is-out-58e99e331888)
 * [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
 * [2024-07-13, 22:03:35](https://lobste.rs/s/ryekvk/summing_ascii_encoded_integers_on) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](https://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
@@ -16,7 +17,6 @@
 * [2024-07-13, 13:29:07](https://lobste.rs/s/koank1/privacy_preserving_attribution) - [Privacy-Preserving Attribution](https://support.mozilla.org/en-US/kb/privacy-preserving-attribution)
 * [2024-07-13, 11:55:05](https://lobste.rs/s/quujkr/three_important_steps_before_jumping) - [Three important steps before jumping to the code (2022)](https://stebunov.com/three-steps/)
 * [2024-07-13, 11:52:17](https://lobste.rs/s/mi46vi/from_lab_trading_floor_designing_for) - [From the Lab to the Trading Floor: Designing for Expert Users](https://signalsandthreads.com/from-the-lab-to-the-trading-floor/)
-* [2024-07-13, 10:20:40](https://lobste.rs/s/2jpg9r/exploring_challenges_creating) - [Exploring the challenges in creating an accessible sortable list (drag-and-drop)](https://github.blog/2024-07-09-exploring-the-challenges-in-creating-an-accessible-sortable-list-drag-and-drop/)
 * [2024-07-13, 10:02:14](https://lobste.rs/s/muz4xy/at_t_unlawful_access_customer_data) - [AT&T: Unlawful Access of Customer Data](https://www.att.com/support/article/my-account/000102979/)
 * [2024-07-13, 08:10:01](https://lobste.rs/s/paxqgi/wasm_component_as_audio_plugin) - [wasm component as audio plugin](https://github.com/wasm-audio/wasm-audio-examples)
 * [2024-07-12, 23:54:11](https://lobste.rs/s/txu0e5/finding_simple_rewrite_rules_for_pypy_jit) - [Finding Simple Rewrite Rules for the PyPy JIT with Z3](https://www.pypy.org/posts/2024/07/finding-simple-rewrite-rules-jit-z3.html)
