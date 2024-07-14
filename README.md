@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-14, 22:50:49](https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim) - [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 21:40:17](https://lobste.rs/s/gwl4ps/how_happylock_works_deadlock_free_mutex) - [How HappyLock Works (a deadlock-free mutex library)](https://www.botahamec.dev/blog/how-happylock-works.html)
 * [2024-07-14, 21:37:31](https://lobste.rs/s/3eeiar/introduction_numeric_computing_with) - [Introduction to numeric computing with Rust](https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/)
 * [2024-07-14, 21:00:37](https://lobste.rs/s/6ptwhm/rust_for_filesystems) - [Rust for filesystems](https://lwn.net/Articles/978738/)
@@ -20,7 +21,6 @@
 * [2024-07-13, 21:42:15](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag) - [Should we have a \"low content\" or \"low effort\" flag?](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag)
 * [2024-07-13, 20:27:43](https://lobste.rs/s/qu0oeo/i_m_not_fan_strlcpy_3) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
-* [2024-07-13, 18:11:00](https://lobste.rs/s/4t920f/graphical_effects_duke_nukem_1_2_part_1) - [Graphical effects in Duke Nukem 1 & 2, part 1](https://lethalguitar.wordpress.com/2024/07/13/graphical-effects-in-duke-nukem-1-2-part-1/)
 * [2024-07-13, 16:59:01](https://lobste.rs/s/1cu0vt/why_were_early_personal_computer) - [Why were early (personal) computer connectors so bulky?](https://retrocomputing.stackexchange.com/questions/30306/why-were-early-personal-computer-connectors-so-bulky)
 * [2024-07-13, 15:36:22](https://lobste.rs/s/ur9jc7/shake_build_system) - [Shake Build System](https://shakebuild.com/manual)
 * [2024-07-13, 14:49:16](https://lobste.rs/s/y0mdza/epicepoch_dialed_hybrid_timestamp) - [EpicEpoch: A dialed-in hybrid timestamp service for scale](https://github.com/danthegoodman1/EpicEpoch)

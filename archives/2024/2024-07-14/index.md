@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 22:50:49](https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim) - [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 21:40:17](https://lobste.rs/s/gwl4ps/how_happylock_works_deadlock_free_mutex) - [How HappyLock Works (a deadlock-free mutex library)](https://www.botahamec.dev/blog/how-happylock-works.html)
 * [2024-07-14, 21:37:31](https://lobste.rs/s/3eeiar/introduction_numeric_computing_with) - [Introduction to numeric computing with Rust](https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/)
 * [2024-07-14, 21:00:37](https://lobste.rs/s/6ptwhm/rust_for_filesystems) - [Rust for filesystems](https://lwn.net/Articles/978738/)
