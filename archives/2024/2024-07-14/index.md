@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-14](index.md)
 
+* [2024-07-14, 11:54:52](https://lobste.rs/s/etf2ct/setting_up_x86_cpu_64_bit_mode) - [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
 * [2024-07-14, 09:06:16](https://lobste.rs/s/i3ewvd/contemporary_carphone) - [The Contemporary Carphone](https://computer.rip/2024-07-13-the-contemporary-carphone.html)
 * [2024-07-14, 06:28:47](https://lobste.rs/s/uhw1wd/c_design_patterns_for_low_latency) - [C++ Design Patterns For Low-Latency Applications](https://hackaday.com/2024/07/13/c-design-patterns-for-low-latency-applications/)
