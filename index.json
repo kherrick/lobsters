@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-14, 11:14:32",
+      "https://lobste.rs/s/uwv8l8/new_git_collaboration_service"
+    ],
+    [
+      "A new git collaboration service",
+      "https://pr.pico.sh/"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 09:06:16",
       "https://lobste.rs/s/i3ewvd/contemporary_carphone"
     ],
@@ -197,16 +207,6 @@
     [
       "wasm component as audio plugin",
       "https://github.com/wasm-audio/wasm-audio-examples"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 23:54:11",
-      "https://lobste.rs/s/txu0e5/finding_simple_rewrite_rules_for_pypy_jit"
-    ],
-    [
-      "Finding Simple Rewrite Rules for the PyPy JIT with Z3",
-      "https://www.pypy.org/posts/2024/07/finding-simple-rewrite-rules-jit-z3.html"
     ]
   ],
   [
