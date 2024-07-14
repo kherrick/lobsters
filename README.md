@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-14, 15:10:04](https://lobste.rs/s/1en2kx/compact_fenwick_trees_for_dynamic) - [Compact Fenwick trees for dynamic ranking and selection](https://arxiv.org/pdf/1904.12370)
 * [2024-07-14, 11:54:52](https://lobste.rs/s/etf2ct/setting_up_x86_cpu_64_bit_mode) - [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
 * [2024-07-14, 09:06:16](https://lobste.rs/s/i3ewvd/contemporary_carphone) - [The Contemporary Carphone](https://computer.rip/2024-07-13-the-contemporary-carphone.html)
@@ -21,7 +22,6 @@
 * [2024-07-13, 11:55:05](https://lobste.rs/s/quujkr/three_important_steps_before_jumping) - [Three important steps before jumping to the code (2022)](https://stebunov.com/three-steps/)
 * [2024-07-13, 11:52:17](https://lobste.rs/s/mi46vi/from_lab_trading_floor_designing_for) - [From the Lab to the Trading Floor: Designing for Expert Users](https://signalsandthreads.com/from-the-lab-to-the-trading-floor/)
 * [2024-07-13, 08:10:01](https://lobste.rs/s/paxqgi/wasm_component_as_audio_plugin) - [wasm component as audio plugin](https://github.com/wasm-audio/wasm-audio-examples)
-* [2024-07-12, 23:54:11](https://lobste.rs/s/txu0e5/finding_simple_rewrite_rules_for_pypy_jit) - [Finding Simple Rewrite Rules for the PyPy JIT with Z3](https://www.pypy.org/posts/2024/07/finding-simple-rewrite-rules-jit-z3.html)
 * [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 * [2024-07-12, 20:21:30](https://lobste.rs/s/70koaf/welcome_thunderbird_128_nebula) - [Welcome to Thunderbird 128 \"Nebula\"](https://blog.thunderbird.net/2024/07/welcome-to-thunderbird-128-nebula/)
 * [2024-07-12, 17:35:50](https://lobste.rs/s/4f1bmt/guis_are_antisocial) - [GUIs are Antisocial](https://mtlynch.io/notes/guis-are-antisocial/)
