@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
+* [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
 * [2024-07-15, 19:03:41](https://lobste.rs/s/gt225w/i_built_my_structural_editor_into_code) - [I built my structural editor into a code notebook](https://vimeo.com/984437518?share=copy)
 * [2024-07-15, 17:57:56](https://lobste.rs/s/97ba9t/create_unified_kernel_image_from_scratch) - [Create Unified Kernel Image from scratch](https://blog.izissise.net/posts/uki/)
 * [2024-07-15, 16:38:43](https://lobste.rs/s/pmrdwj/system_design_sketches) - [System Design Sketches](https://okso.app/showcase/system-design)
