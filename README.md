@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 17:57:56](https://lobste.rs/s/97ba9t/create_unified_kernel_image_from_scratch) - [Create Unified Kernel Image from scratch](https://blog.izissise.net/posts/uki/)
 * [2024-07-15, 17:46:48](https://lobste.rs/s/eyjnkm/video_interview_with_mike_clark_chief) - [A Video Interview with Mike Clark, Chief Architect of Zen at AMD](https://chipsandcheese.com/2024/07/15/a-video-interview-with-mike-clark-chief-architect-of-zen-at-amd/)
 * [2024-07-15, 17:40:21](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week)
-* [2024-07-15, 17:19:17](https://lobste.rs/s/se62ii/design_tokens) - [Design tokens](https://m3.material.io/foundations/design-tokens/overview)
 * [2024-07-15, 16:38:43](https://lobste.rs/s/pmrdwj/system_design_sketches) - [System Design Sketches](https://okso.app/showcase/system-design)
 * [2024-07-15, 16:04:29](https://lobste.rs/s/dntbze/toolbox_languages) - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
 * [2024-07-15, 15:06:38](https://lobste.rs/s/0ssprz/how_insecure_is_avast_secure_browser) - [How insecure is Avast Secure Browser?](https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/)
