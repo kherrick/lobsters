@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 04:03:22](https://lobste.rs/s/bv5orf/22_common_filesystem_tasks_c_20) - [22 Common Filesystem Tasks in C++20](https://www.cppstories.com/2024/common-filesystem-cpp20/)
+* [2024-07-15, 04:00:01](https://lobste.rs/s/iqr0l9/we_need_visual_programming_no_not_like) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 * [2024-07-15, 03:30:00](https://lobste.rs/s/oi0f75/icedb_v3_third_time_s_charm) - [IceDB v3 - Third Time’s the Charm](https://blog.danthegoodman.com/icedb-v3--third-times-the-charm)
 * [2024-07-15, 01:41:43](https://lobste.rs/s/fkqhyg/sodap_simple_online_directory_access) - [SODAP: Simple Online Directory Access Protocol](https://purl.org/sodap)
 * [2024-07-14, 23:02:34](https://lobste.rs/s/n0dytb/missing_parts_cargo) - [The missing parts in Cargo](https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/)
@@ -18,11 +20,9 @@
 * [2024-07-14, 09:06:16](https://lobste.rs/s/i3ewvd/contemporary_carphone) - [The Contemporary Carphone](https://computer.rip/2024-07-13-the-contemporary-carphone.html)
 * [2024-07-14, 06:28:47](https://lobste.rs/s/uhw1wd/c_design_patterns_for_low_latency) - [C++ Design Patterns For Low-Latency Applications](https://hackaday.com/2024/07/13/c-design-patterns-for-low-latency-applications/)
 * [2024-07-14, 05:58:31](https://lobste.rs/s/arfhd3/use_formal_methods_by_silicon) - [Use of Formal Methods by a Silicon Manufacturer (1988)](http://people.cs.bris.ac.uk/~dave/formalmethods.pdf)
-* [2024-07-14, 04:27:28](https://lobste.rs/s/1tj9e5/flecs_v4_0_is_out) - [Flecs v4.0 is out](https://ajmmertens.medium.com/flecs-v4-0-is-out-58e99e331888)
 * [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
 * [2024-07-13, 20:27:43](https://lobste.rs/s/qu0oeo/i_m_not_fan_strlcpy_3) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
-* [2024-07-13, 16:59:01](https://lobste.rs/s/1cu0vt/why_were_early_personal_computer) - [Why were early (personal) computer connectors so bulky?](https://retrocomputing.stackexchange.com/questions/30306/why-were-early-personal-computer-connectors-so-bulky)
 * [2024-07-13, 15:36:22](https://lobste.rs/s/ur9jc7/shake_build_system) - [Shake Build System](https://shakebuild.com/manual)
 * [2024-07-12, 22:27:14](https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy) - [\"GitHub\" Is Starting to Feel Like Legacy Software](http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software)
 
