@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-15, 01:41:43",
+      "https://lobste.rs/s/fkqhyg/sodap_simple_online_directory_access"
+    ],
+    [
+      "SODAP: Simple Online Directory Access Protocol",
+      "https://purl.org/sodap"
+    ]
+  ],
+  [
+    [
       "2024-07-14, 23:02:34",
       "https://lobste.rs/s/n0dytb/missing_parts_cargo"
     ],
@@ -177,16 +187,6 @@
     [
       "Pretty pictures, bootable floppy disks, and the first Canon Cat demo?",
       "https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-13, 22:03:35",
-      "https://lobste.rs/s/ryekvk/summing_ascii_encoded_integers_on"
-    ],
-    [
-      "Summing ASCII encoded integers on Haswell at almost the speed of memcpy",
-      "https://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html"
     ]
   ],
   [
