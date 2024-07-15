@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 23:15:24](https://lobste.rs/s/cwrzcy/scale_gpgpu_programming_language) - [SCALE GPGPU Programming Language](https://scale-lang.com/)
 * [2024-07-15, 22:26:41](https://lobste.rs/s/lawktk/securedrop_workstation_1_0_0_released) - [SecureDrop Workstation 1.0.0 Released](https://securedrop.org/news/securedrop-workstation-1_0_0-released/)
 * [2024-07-15, 21:21:29](https://lobste.rs/s/p0hx8s/developer_s_review_snapdragon_x_laptop) - [A Developer's Review of a Snapdragon X Laptop (Lenovo Yoga Slim 7x)](https://www.wezm.net/v2/posts/2024/yoga-7x-snapdragon-developer-review/)
 * [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
