@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-15, 12:00:09",
+      "https://lobste.rs/s/qrguxv/kubernetes_instance_calculator"
+    ],
+    [
+      "Kubernetes instance calculator",
+      "https://learnk8s.io/kubernetes-instance-calculator"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 11:27:48",
       "https://lobste.rs/s/aobjbq/resource_management_generators_python"
     ],
@@ -137,16 +147,6 @@
     [
       "Rust for filesystems",
       "https://lwn.net/Articles/978738/"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 20:55:20",
-      "https://lobste.rs/s/hltqvm/anatomy_compofylla"
-    ],
-    [
-      "Anatomy of a Compofylla",
-      "http://beyondbrown.d-bug.me/post/anatomy/"
     ]
   ],
   [
