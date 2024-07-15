@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-07-15, 21:21:29](https://lobste.rs/s/p0hx8s/developer_s_review_snapdragon_x_laptop) - [A Developer's Review of a Snapdragon X Laptop (Lenovo Yoga Slim 7x)](https://www.wezm.net/v2/posts/2024/yoga-7x-snapdragon-developer-review/)
+* [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
 * [2024-07-15, 19:03:41](https://lobste.rs/s/gt225w/i_built_my_structural_editor_into_code) - [I built my structural editor into a code notebook](https://vimeo.com/984437518?share=copy)
 * [2024-07-15, 17:57:56](https://lobste.rs/s/97ba9t/create_unified_kernel_image_from_scratch) - [Create Unified Kernel Image from scratch](https://blog.izissise.net/posts/uki/)
@@ -8,7 +9,6 @@
 * [2024-07-15, 16:04:29](https://lobste.rs/s/dntbze/toolbox_languages) - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
 * [2024-07-15, 15:06:38](https://lobste.rs/s/0ssprz/how_insecure_is_avast_secure_browser) - [How insecure is Avast Secure Browser?](https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/)
 * [2024-07-15, 14:31:39](https://lobste.rs/s/8ecczm/building_scaling_notion_s_data_lake) - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
-* [2024-07-15, 13:47:46](https://lobste.rs/s/byqbs1/interop_2024_dashboard) - [Interop 2024 Dashboard](https://wpt.fyi/interop-2024)
 * [2024-07-15, 12:00:09](https://lobste.rs/s/qrguxv/kubernetes_instance_calculator) - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 * [2024-07-15, 11:27:48](https://lobste.rs/s/aobjbq/resource_management_generators_python) - [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
 * [2024-07-15, 09:02:34](https://lobste.rs/s/1lwmtn/beyond_bufferbloat_end_end_congestion) - [Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes](https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/)
