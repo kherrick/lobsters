@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-15, 17:19:17",
+      "https://lobste.rs/s/se62ii/design_tokens"
+    ],
+    [
+      "Design tokens",
+      "https://m3.material.io/foundations/design-tokens/overview"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 16:38:43",
       "https://lobste.rs/s/pmrdwj/system_design_sketches"
     ],
@@ -27,16 +37,6 @@
     [
       "Toolbox languages",
       "https://www.hillelwayne.com/post/toolbox-languages/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 15:45:25",
-      "https://lobste.rs/s/ugmik1/cooperative_interruption_thread_c_20"
-    ],
-    [
-      "Cooperative Interruption of a Thread in C++20: Callbacks",
-      "https://www.modernescpp.com/index.php/cooperative-interruption-of-a-thread-in-c20-callbacks/"
     ]
   ],
   [
