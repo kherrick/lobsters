@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-07-15, 18:31:03",
-      "https://lobste.rs/s/jljbam/quartz_deterministic_time_testing"
+      "2024-07-15, 19:10:22",
+      "https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools"
     ],
     [
-      "Quartz: A Deterministic Time Testing Library for Go",
-      "https://coder.com/blog/introducing-quartz"
+      "Announcing the Open Collaboration Tools",
+      "https://www.typefox.io/blog/open-collaboration-tools-announcement/"
+    ]
+  ],
+  [
+    [
+      "2024-07-15, 19:03:41",
+      "https://lobste.rs/s/gt225w/i_built_my_structural_editor_into_code"
+    ],
+    [
+      "I built my structural editor into a code notebook",
+      "https://vimeo.com/984437518?share=copy"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "IceDB v3 - Third Time’s the Charm",
       "https://blog.danthegoodman.com/icedb-v3--third-times-the-charm"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 01:41:43",
-      "https://lobste.rs/s/fkqhyg/sodap_simple_online_directory_access"
-    ],
-    [
-      "SODAP: Simple Online Directory Access Protocol",
-      "https://purl.org/sodap"
     ]
   ],
   [
