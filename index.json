@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-15, 21:21:29",
+      "https://lobste.rs/s/p0hx8s/developer_s_review_snapdragon_x_laptop"
+    ],
+    [
+      "A Developer's Review of a Snapdragon X Laptop (Lenovo Yoga Slim 7x)",
+      "https://www.wezm.net/v2/posts/2024/yoga-7x-snapdragon-developer-review/"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 19:07:48",
       "https://lobste.rs/s/sovpef/pull_requests_via_git_push"
     ],
@@ -107,16 +117,6 @@
     [
       "Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes",
       "https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 08:19:15",
-      "https://lobste.rs/s/rdljzt/bridging_networks_across_vps_with"
-    ],
-    [
-      "Bridging Networks Across VPS with Wireguard and VXLAN on FreeBSD",
-      "https://it-notes.dragas.net/2024/07/15/bridging-networks-across-vps-wireguard-vxlan-freebsd/"
     ]
   ],
   [
