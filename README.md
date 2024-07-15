@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 01:41:43](https://lobste.rs/s/fkqhyg/sodap_simple_online_directory_access) - [SODAP: Simple Online Directory Access Protocol](https://purl.org/sodap)
 * [2024-07-14, 23:02:34](https://lobste.rs/s/n0dytb/missing_parts_cargo) - [The missing parts in Cargo](https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/)
 * [2024-07-14, 22:50:49](https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim) - [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 21:40:17](https://lobste.rs/s/gwl4ps/how_happylock_works_deadlock_free_mutex) - [How HappyLock Works (a deadlock-free mutex library)](https://www.botahamec.dev/blog/how-happylock-works.html)
@@ -18,7 +19,6 @@
 * [2024-07-14, 05:58:31](https://lobste.rs/s/arfhd3/use_formal_methods_by_silicon) - [Use of Formal Methods by a Silicon Manufacturer (1988)](http://people.cs.bris.ac.uk/~dave/formalmethods.pdf)
 * [2024-07-14, 04:27:28](https://lobste.rs/s/1tj9e5/flecs_v4_0_is_out) - [Flecs v4.0 is out](https://ajmmertens.medium.com/flecs-v4-0-is-out-58e99e331888)
 * [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
-* [2024-07-13, 22:03:35](https://lobste.rs/s/ryekvk/summing_ascii_encoded_integers_on) - [Summing ASCII encoded integers on Haswell at almost the speed of memcpy](https://blog.mattstuchlik.com/2024/07/12/summing-integers-fast.html)
 * [2024-07-13, 21:42:15](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag) - [Should we have a \"low content\" or \"low effort\" flag?](https://lobste.rs/s/lyvlhn/should_we_have_low_content_low_effort_flag)
 * [2024-07-13, 20:27:43](https://lobste.rs/s/qu0oeo/i_m_not_fan_strlcpy_3) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
