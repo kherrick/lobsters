@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 07:08:11](https://lobste.rs/s/pylprm/game_trees_hub_collectively_funded_git) - [Game of Trees Hub - Collectively funded Git repository hosting service](https://opencollective.com/gothub)
 * [2024-07-15, 05:15:48](https://lobste.rs/s/fkle2g/clojure_macros_continue_surprise_me) - [Clojure macros continue to surprise me](https://tonsky.me/blog/clojure-macros/)
 * [2024-07-15, 04:03:22](https://lobste.rs/s/bv5orf/22_common_filesystem_tasks_c_20) - [22 Common Filesystem Tasks in C++20](https://www.cppstories.com/2024/common-filesystem-cpp20/)
 * [2024-07-15, 04:00:01](https://lobste.rs/s/iqr0l9/we_need_visual_programming_no_not_like) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
@@ -20,7 +21,6 @@
 * [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
 * [2024-07-14, 09:06:16](https://lobste.rs/s/i3ewvd/contemporary_carphone) - [The Contemporary Carphone](https://computer.rip/2024-07-13-the-contemporary-carphone.html)
 * [2024-07-14, 06:28:47](https://lobste.rs/s/uhw1wd/c_design_patterns_for_low_latency) - [C++ Design Patterns For Low-Latency Applications](https://hackaday.com/2024/07/13/c-design-patterns-for-low-latency-applications/)
-* [2024-07-14, 05:58:31](https://lobste.rs/s/arfhd3/use_formal_methods_by_silicon) - [Use of Formal Methods by a Silicon Manufacturer (1988)](http://people.cs.bris.ac.uk/~dave/formalmethods.pdf)
 * [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
 * [2024-07-13, 20:27:43](https://lobste.rs/s/qu0oeo/i_m_not_fan_strlcpy_3) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
