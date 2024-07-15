@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-15, 05:15:48",
+      "https://lobste.rs/s/fkle2g/clojure_macros_continue_surprise_me"
+    ],
+    [
+      "Clojure macros continue to surprise me",
+      "https://tonsky.me/blog/clojure-macros/"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 04:03:22",
       "https://lobste.rs/s/bv5orf/22_common_filesystem_tasks_c_20"
     ],
@@ -237,16 +247,6 @@
     [
       "Shake Build System",
       "https://shakebuild.com/manual"
-    ]
-  ],
-  [
-    [
-      "2024-07-12, 22:27:14",
-      "https://lobste.rs/s/euj8no/github_is_starting_feel_like_legacy"
-    ],
-    [
-      "\"GitHub\" Is Starting to Feel Like Legacy Software",
-      "http://mistys-internet.website/blog/blog/2024/07/12/github-is-starting-to-feel-like-legacy-software"
     ]
   ]
 ]
