@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 22:26:41](https://lobste.rs/s/lawktk/securedrop_workstation_1_0_0_released) - [SecureDrop Workstation 1.0.0 Released](https://securedrop.org/news/securedrop-workstation-1_0_0-released/)
 * [2024-07-15, 21:21:29](https://lobste.rs/s/p0hx8s/developer_s_review_snapdragon_x_laptop) - [A Developer's Review of a Snapdragon X Laptop (Lenovo Yoga Slim 7x)](https://www.wezm.net/v2/posts/2024/yoga-7x-snapdragon-developer-review/)
 * [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
@@ -17,7 +18,6 @@
 * [2024-07-15, 04:03:22](https://lobste.rs/s/bv5orf/22_common_filesystem_tasks_c_20) - [22 Common Filesystem Tasks in C++20](https://www.cppstories.com/2024/common-filesystem-cpp20/)
 * [2024-07-15, 04:00:01](https://lobste.rs/s/iqr0l9/we_need_visual_programming_no_not_like) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 * [2024-07-15, 03:30:00](https://lobste.rs/s/oi0f75/icedb_v3_third_time_s_charm) - [IceDB v3 - Third Time’s the Charm](https://blog.danthegoodman.com/icedb-v3--third-times-the-charm)
-* [2024-07-15, 01:41:43](https://lobste.rs/s/fkqhyg/sodap_simple_online_directory_access) - [SODAP: Simple Online Directory Access Protocol](https://purl.org/sodap)
 * [2024-07-14, 23:02:34](https://lobste.rs/s/n0dytb/missing_parts_cargo) - [The missing parts in Cargo](https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/)
 * [2024-07-14, 22:50:49](https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim) - [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 21:00:37](https://lobste.rs/s/6ptwhm/rust_for_filesystems) - [Rust for filesystems](https://lwn.net/Articles/978738/)
