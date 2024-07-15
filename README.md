@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 17:40:21](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week)
 * [2024-07-15, 17:19:17](https://lobste.rs/s/se62ii/design_tokens) - [Design tokens](https://m3.material.io/foundations/design-tokens/overview)
 * [2024-07-15, 16:38:43](https://lobste.rs/s/pmrdwj/system_design_sketches) - [System Design Sketches](https://okso.app/showcase/system-design)
 * [2024-07-15, 16:31:54](https://lobste.rs/s/ijoa56/tlsd_generate_message_sequence_diagrams) - [tlsd: Generate (message) sequence diagrams from TLA+ state traces](https://github.com/eras/tlsd)
@@ -16,7 +17,6 @@
 * [2024-07-15, 04:03:22](https://lobste.rs/s/bv5orf/22_common_filesystem_tasks_c_20) - [22 Common Filesystem Tasks in C++20](https://www.cppstories.com/2024/common-filesystem-cpp20/)
 * [2024-07-15, 04:00:01](https://lobste.rs/s/iqr0l9/we_need_visual_programming_no_not_like) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 * [2024-07-15, 03:30:00](https://lobste.rs/s/oi0f75/icedb_v3_third_time_s_charm) - [IceDB v3 - Third Time’s the Charm](https://blog.danthegoodman.com/icedb-v3--third-times-the-charm)
-* [2024-07-15, 01:41:43](https://lobste.rs/s/fkqhyg/sodap_simple_online_directory_access) - [SODAP: Simple Online Directory Access Protocol](https://purl.org/sodap)
 * [2024-07-14, 23:02:34](https://lobste.rs/s/n0dytb/missing_parts_cargo) - [The missing parts in Cargo](https://weihanglo.tw/posts/2024/the-missing-parts-in-cargo/)
 * [2024-07-14, 22:50:49](https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim) - [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 21:37:31](https://lobste.rs/s/3eeiar/introduction_numeric_computing_with) - [Introduction to numeric computing with Rust](https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/)
