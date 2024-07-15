@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 15:06:38](https://lobste.rs/s/0ssprz/how_insecure_is_avast_secure_browser) - [How insecure is Avast Secure Browser?](https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/)
 * [2024-07-15, 14:35:07](https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should) - [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
 * [2024-07-15, 14:31:39](https://lobste.rs/s/8ecczm/building_scaling_notion_s_data_lake) - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 * [2024-07-15, 13:47:46](https://lobste.rs/s/byqbs1/interop_2024_dashboard) - [Interop 2024 Dashboard](https://wpt.fyi/interop-2024)
@@ -23,7 +24,6 @@
 * [2024-07-14, 20:12:51](https://lobste.rs/s/kq1geq/understanding_3d_graphics) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
 * [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
 * [2024-07-14, 09:06:16](https://lobste.rs/s/i3ewvd/contemporary_carphone) - [The Contemporary Carphone](https://computer.rip/2024-07-13-the-contemporary-carphone.html)
-* [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 
 ## [Archives](archives/index.md)

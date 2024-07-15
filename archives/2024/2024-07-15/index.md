@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 15:06:38](https://lobste.rs/s/0ssprz/how_insecure_is_avast_secure_browser) - [How insecure is Avast Secure Browser?](https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/)
 * [2024-07-15, 14:35:07](https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should) - [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
 * [2024-07-15, 14:31:39](https://lobste.rs/s/8ecczm/building_scaling_notion_s_data_lake) - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 * [2024-07-15, 13:47:46](https://lobste.rs/s/byqbs1/interop_2024_dashboard) - [Interop 2024 Dashboard](https://wpt.fyi/interop-2024)
