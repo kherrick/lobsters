@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 16:38:43](https://lobste.rs/s/pmrdwj/system_design_sketches) - [System Design Sketches](https://okso.app/showcase/system-design)
 * [2024-07-15, 16:31:54](https://lobste.rs/s/ijoa56/tlsd_generate_message_sequence_diagrams) - [tlsd: Generate (message) sequence diagrams from TLA+ state traces](https://github.com/eras/tlsd)
 * [2024-07-15, 16:04:29](https://lobste.rs/s/dntbze/toolbox_languages) - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
 * [2024-07-15, 15:45:25](https://lobste.rs/s/ugmik1/cooperative_interruption_thread_c_20) - [Cooperative Interruption of a Thread in C++20: Callbacks](https://www.modernescpp.com/index.php/cooperative-interruption-of-a-thread-in-c20-callbacks/)

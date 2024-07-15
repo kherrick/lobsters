@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 16:38:43](https://lobste.rs/s/pmrdwj/system_design_sketches) - [System Design Sketches](https://okso.app/showcase/system-design)
 * [2024-07-15, 16:31:54](https://lobste.rs/s/ijoa56/tlsd_generate_message_sequence_diagrams) - [tlsd: Generate (message) sequence diagrams from TLA+ state traces](https://github.com/eras/tlsd)
 * [2024-07-15, 16:04:29](https://lobste.rs/s/dntbze/toolbox_languages) - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
 * [2024-07-15, 15:45:25](https://lobste.rs/s/ugmik1/cooperative_interruption_thread_c_20) - [Cooperative Interruption of a Thread in C++20: Callbacks](https://www.modernescpp.com/index.php/cooperative-interruption-of-a-thread-in-c20-callbacks/)
@@ -9,7 +10,6 @@
 * [2024-07-15, 12:00:09](https://lobste.rs/s/qrguxv/kubernetes_instance_calculator) - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 * [2024-07-15, 11:27:48](https://lobste.rs/s/aobjbq/resource_management_generators_python) - [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
 * [2024-07-15, 09:02:34](https://lobste.rs/s/1lwmtn/beyond_bufferbloat_end_end_congestion) - [Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes](https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/)
-* [2024-07-15, 09:01:06](https://lobste.rs/s/bfvijj/calculating_position_from_raw_gps_data) - [Calculating Position from Raw GPS Data](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
 * [2024-07-15, 08:19:15](https://lobste.rs/s/rdljzt/bridging_networks_across_vps_with) - [Bridging Networks Across VPS with Wireguard and VXLAN on FreeBSD](https://it-notes.dragas.net/2024/07/15/bridging-networks-across-vps-wireguard-vxlan-freebsd/)
 * [2024-07-15, 08:00:48](https://lobste.rs/s/opcoox/mazeppa_modern_supercompiler_for_call_by) - [mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
 * [2024-07-15, 05:15:48](https://lobste.rs/s/fkle2g/clojure_macros_continue_surprise_me) - [Clojure macros continue to surprise me](https://tonsky.me/blog/clojure-macros/)
