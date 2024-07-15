@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-15](index.md)
 
+* [2024-07-15, 14:31:39](https://lobste.rs/s/8ecczm/building_scaling_notion_s_data_lake) - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 * [2024-07-15, 13:47:46](https://lobste.rs/s/byqbs1/interop_2024_dashboard) - [Interop 2024 Dashboard](https://wpt.fyi/interop-2024)
 * [2024-07-15, 12:00:09](https://lobste.rs/s/qrguxv/kubernetes_instance_calculator) - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 * [2024-07-15, 11:27:48](https://lobste.rs/s/aobjbq/resource_management_generators_python) - [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
