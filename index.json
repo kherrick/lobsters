@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-15, 14:31:39",
+      "https://lobste.rs/s/8ecczm/building_scaling_notion_s_data_lake"
+    ],
+    [
+      "Building and scaling Notion’s data lake",
+      "https://www.notion.so/blog/building-and-scaling-notions-data-lake"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 13:47:46",
       "https://lobste.rs/s/byqbs1/interop_2024_dashboard"
     ],
@@ -187,16 +197,6 @@
     [
       "Understanding 3D Graphics",
       "https://azeemba.com/posts/understanding-3d-graphics.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-14, 15:10:04",
-      "https://lobste.rs/s/1en2kx/compact_fenwick_trees_for_dynamic"
-    ],
-    [
-      "Compact Fenwick trees for dynamic ranking and selection",
-      "https://arxiv.org/pdf/1904.12370"
     ]
   ],
   [
