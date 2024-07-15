@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 12:00:09](https://lobste.rs/s/qrguxv/kubernetes_instance_calculator) - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 * [2024-07-15, 11:27:48](https://lobste.rs/s/aobjbq/resource_management_generators_python) - [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
 * [2024-07-15, 09:02:34](https://lobste.rs/s/1lwmtn/beyond_bufferbloat_end_end_congestion) - [Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes](https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/)
 * [2024-07-15, 09:01:06](https://lobste.rs/s/bfvijj/calculating_position_from_raw_gps_data) - [Calculating Position from Raw GPS Data](https://www.telesens.co/2017/07/17/calculating-position-from-raw-gps-data/)
@@ -14,7 +15,6 @@
 * [2024-07-14, 22:50:49](https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim) - [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 21:37:31](https://lobste.rs/s/3eeiar/introduction_numeric_computing_with) - [Introduction to numeric computing with Rust](https://grayscott-with-rust-grasland-5e6591fc7054976525da4f6c87122ea76c.pages.in2p3.fr/)
 * [2024-07-14, 21:00:37](https://lobste.rs/s/6ptwhm/rust_for_filesystems) - [Rust for filesystems](https://lwn.net/Articles/978738/)
-* [2024-07-14, 20:55:20](https://lobste.rs/s/hltqvm/anatomy_compofylla) - [Anatomy of a Compofylla](http://beyondbrown.d-bug.me/post/anatomy/)
 * [2024-07-14, 20:42:22](https://lobste.rs/s/0nquay/it_s_all_up_for_grabs_compound_with_glue) - [It's all up for grabs, compound with glue](https://lmno.lol/alvaro/its-all-up-for-grabs-and-it-compounds)
 * [2024-07-14, 20:24:50](https://lobste.rs/s/9huy81/tbsp_tree_based_source_processing) - [tbsp - tree-based source-processing language](https://git.peppe.rs/languages/tbsp/about/)
 * [2024-07-14, 20:12:51](https://lobste.rs/s/kq1geq/understanding_3d_graphics) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
