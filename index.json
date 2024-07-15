@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-15, 16:31:54",
+      "https://lobste.rs/s/ijoa56/tlsd_generate_message_sequence_diagrams"
+    ],
+    [
+      "tlsd: Generate (message) sequence diagrams from TLA+ state traces",
+      "https://github.com/eras/tlsd"
+    ]
+  ],
+  [
+    [
       "2024-07-15, 16:04:29",
       "https://lobste.rs/s/dntbze/toolbox_languages"
     ],
@@ -27,16 +37,6 @@
     [
       "How insecure is Avast Secure Browser?",
       "https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 14:35:07",
-      "https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should"
-    ],
-    [
-      "Why Cloud-Native Buildpacks Should Excite Companies",
-      "https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/"
     ]
   ],
   [
