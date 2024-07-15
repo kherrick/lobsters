@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 13:47:46](https://lobste.rs/s/byqbs1/interop_2024_dashboard) - [Interop 2024 Dashboard](https://wpt.fyi/interop-2024)
 * [2024-07-15, 12:00:09](https://lobste.rs/s/qrguxv/kubernetes_instance_calculator) - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
 * [2024-07-15, 11:27:48](https://lobste.rs/s/aobjbq/resource_management_generators_python) - [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
 * [2024-07-15, 09:02:34](https://lobste.rs/s/1lwmtn/beyond_bufferbloat_end_end_congestion) - [Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes](https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/)
@@ -23,7 +24,6 @@
 * [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
 * [2024-07-14, 09:06:16](https://lobste.rs/s/i3ewvd/contemporary_carphone) - [The Contemporary Carphone](https://computer.rip/2024-07-13-the-contemporary-carphone.html)
 * [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
-* [2024-07-13, 20:27:43](https://lobste.rs/s/qu0oeo/i_m_not_fan_strlcpy_3) - [I'm not a fan of strlcpy(3)](https://nrk.neocities.org/articles/not-a-fan-of-strlcpy)
 * [2024-07-13, 19:02:11](https://lobste.rs/s/pbozzv/resurrecting_dead_dune_rts_game) - [Resurrecting a dead Dune RTS game](https://wheybags.com/blog/emperor.html)
 
 ## [Archives](archives/index.md)
