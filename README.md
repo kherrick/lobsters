@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-15, 14:35:07](https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should) - [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
 * [2024-07-15, 14:31:39](https://lobste.rs/s/8ecczm/building_scaling_notion_s_data_lake) - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 * [2024-07-15, 13:47:46](https://lobste.rs/s/byqbs1/interop_2024_dashboard) - [Interop 2024 Dashboard](https://wpt.fyi/interop-2024)
 * [2024-07-15, 12:00:09](https://lobste.rs/s/qrguxv/kubernetes_instance_calculator) - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
@@ -20,7 +21,6 @@
 * [2024-07-14, 20:42:22](https://lobste.rs/s/0nquay/it_s_all_up_for_grabs_compound_with_glue) - [It's all up for grabs, compound with glue](https://lmno.lol/alvaro/its-all-up-for-grabs-and-it-compounds)
 * [2024-07-14, 20:24:50](https://lobste.rs/s/9huy81/tbsp_tree_based_source_processing) - [tbsp - tree-based source-processing language](https://git.peppe.rs/languages/tbsp/about/)
 * [2024-07-14, 20:12:51](https://lobste.rs/s/kq1geq/understanding_3d_graphics) - [Understanding 3D Graphics](https://azeemba.com/posts/understanding-3d-graphics.html)
-* [2024-07-14, 11:54:52](https://lobste.rs/s/etf2ct/setting_up_x86_cpu_64_bit_mode) - [Setting up an x86 CPU in 64-bit mode](https://thasso.xyz/2024/07/13/setting-up-an-x86-cpu.html)
 * [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
 * [2024-07-14, 09:06:16](https://lobste.rs/s/i3ewvd/contemporary_carphone) - [The Contemporary Carphone](https://computer.rip/2024-07-13-the-contemporary-carphone.html)
 * [2024-07-14, 02:08:29](https://lobste.rs/s/sqhgjd/pretty_pictures_bootable_floppy_disks) - [Pretty pictures, bootable floppy disks, and the first Canon Cat demo?](https://oldvcr.blogspot.com/2024/07/pretty-pictures-bootable-floppy-disks.html)
