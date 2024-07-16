@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
 * [2024-07-16, 18:34:32](https://lobste.rs/s/dv9js0/galaksija_racunari_u_vasoj_kuci_40th) - [Galaksija and Računari u vašoj kući: 40th Anniversary Celebration](https://blog.vladovince.com/galaksija-and-racunari-u-vasoj-kuci-40th-anniversary-celebration/)
 * [2024-07-16, 18:22:30](https://lobste.rs/s/tpk0dv/announcing_godotcaml_for_godot_4_2) - [Announcing Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
 * [2024-07-16, 17:40:54](https://lobste.rs/s/sjoqyy/dungeons_dragons_taught_me_how_write_alt) - [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
