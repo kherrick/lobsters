@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-16, 01:51:07](https://lobste.rs/s/k5wrq8/jailbreaking_rabbitos_hard_way) - [Jailbreaking RabbitOS (The Hard Way)](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 * [2024-07-16, 01:18:15](https://lobste.rs/s/hqa40h/lessons_learned_35_years_making_software) - [Lessons learned in 35 years of making software](https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/)
-* [2024-07-15, 23:15:24](https://lobste.rs/s/cwrzcy/scale_gpgpu_programming_language) - [SCALE GPGPU Programming Language](https://scale-lang.com/)
 * [2024-07-15, 21:21:29](https://lobste.rs/s/p0hx8s/developer_s_review_snapdragon_x_laptop) - [A Developer's Review of a Snapdragon X Laptop (Lenovo Yoga Slim 7x)](https://www.wezm.net/v2/posts/2024/yoga-7x-snapdragon-developer-review/)
 * [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
