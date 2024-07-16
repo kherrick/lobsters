@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-16, 11:54:48](https://lobste.rs/s/1mciwq/how_create_liquid_raymarching_scene) - [How to Create a Liquid Raymarching Scene Using Three.js Shading Language](https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/)
 * [2024-07-16, 01:51:07](https://lobste.rs/s/k5wrq8/jailbreaking_rabbitos_hard_way) - [Jailbreaking RabbitOS (The Hard Way)](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 * [2024-07-16, 01:18:15](https://lobste.rs/s/hqa40h/lessons_learned_35_years_making_software) - [Lessons learned in 35 years of making software](https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/)
 * [2024-07-15, 23:15:24](https://lobste.rs/s/cwrzcy/scale_gpgpu_programming_language) - [SCALE GPGPU Programming Language](https://scale-lang.com/)
@@ -7,7 +8,6 @@
 * [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
 * [2024-07-15, 19:03:41](https://lobste.rs/s/gt225w/i_built_my_structural_editor_into_code) - [I built my structural editor into a code notebook](https://vimeo.com/984437518?share=copy)
-* [2024-07-15, 18:40:19](https://lobste.rs/s/u9j5zf/ps_httpd_web_server_written_postscript) - [PS-HTTPD: a web server written in PostScript](https://www.pugo.org/projects/pshttpd/)
 * [2024-07-15, 17:57:56](https://lobste.rs/s/97ba9t/create_unified_kernel_image_from_scratch) - [Create Unified Kernel Image from scratch](https://blog.izissise.net/posts/uki/)
 * [2024-07-15, 17:40:21](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week)
 * [2024-07-15, 16:38:43](https://lobste.rs/s/pmrdwj/system_design_sketches) - [System Design Sketches](https://okso.app/showcase/system-design)
