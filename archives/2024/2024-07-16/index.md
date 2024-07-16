@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 17:01:51](https://lobste.rs/s/yf2rwh/introducing_multi_version_schema) - [Introducing multi-version schema migrations for Postgres](https://xata.io/blog/multi-version-schema-migrations)
 * [2024-07-16, 16:08:28](https://lobste.rs/s/wcxzym/deconstructing_role_playing_video_game) - [Deconstructing the Role-Playing Video Game](https://olano.dev/blog/deconstructing-the-role-playing-videogame/)
 * [2024-07-16, 16:03:27](https://lobste.rs/s/1nj3wf/how_we_share_secrets_at_fully_remote) - [How we share secrets at a fully-remote startup](https://www.getgrist.com/blog/how-we-share-secrets-at-a-fully-remote-startup/)
 * [2024-07-16, 15:53:47](https://lobste.rs/s/qp3eid/ethicswishing) - [Ethicswishing](https://berjon.com/ethicswishing/)
