@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-16, 22:24:52](https://lobste.rs/s/nfyu7p/hacking_mac_os_x_kernel_for_unsupported) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005)](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)
 * [2024-07-16, 20:07:02](https://lobste.rs/s/wg1dbn/self_signed_root_ca_kubernetes_with_k3s) - [Self-signed Root CA in Kubernetes with k3s, cert-manager and traefik](https://raymii.org/s/tutorials/Self_signed_Root_CA_in_Kubernetes_with_k3s_cert-manager_and_traefik.html)
 * [2024-07-16, 19:53:48](https://lobste.rs/s/dhb8ic/introducing_pcsx2_2_0) - [Introducing PCSX2 2.0](https://pcsx2.net/blog/2024/pcsx2-2-release/)
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
@@ -20,7 +21,6 @@
 * [2024-07-16, 01:51:07](https://lobste.rs/s/k5wrq8/jailbreaking_rabbitos_hard_way) - [Jailbreaking RabbitOS (The Hard Way)](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 * [2024-07-16, 01:18:15](https://lobste.rs/s/hqa40h/lessons_learned_35_years_making_software) - [Lessons learned in 35 years of making software](https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/)
 * [2024-07-15, 21:21:29](https://lobste.rs/s/p0hx8s/developer_s_review_snapdragon_x_laptop) - [A Developer's Review of a Snapdragon X Laptop (Lenovo Yoga Slim 7x)](https://www.wezm.net/v2/posts/2024/yoga-7x-snapdragon-developer-review/)
-* [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
 * [2024-07-15, 16:04:29](https://lobste.rs/s/dntbze/toolbox_languages) - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
 * [2024-07-15, 14:35:07](https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should) - [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
