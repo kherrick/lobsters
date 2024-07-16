@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 22:47:04](https://lobste.rs/s/yr85ti/story_points_are_pointless_measure) - [Story Points are Pointless, Measure Queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-16, 22:24:52](https://lobste.rs/s/nfyu7p/hacking_mac_os_x_kernel_for_unsupported) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005)](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)
 * [2024-07-16, 20:07:02](https://lobste.rs/s/wg1dbn/self_signed_root_ca_kubernetes_with_k3s) - [Self-signed Root CA in Kubernetes with k3s, cert-manager and traefik](https://raymii.org/s/tutorials/Self_signed_Root_CA_in_Kubernetes_with_k3s_cert-manager_and_traefik.html)
 * [2024-07-16, 19:53:48](https://lobste.rs/s/dhb8ic/introducing_pcsx2_2_0) - [Introducing PCSX2 2.0](https://pcsx2.net/blog/2024/pcsx2-2-release/)
