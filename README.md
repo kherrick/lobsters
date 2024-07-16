@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
 * [2024-07-16, 18:34:32](https://lobste.rs/s/dv9js0/galaksija_racunari_u_vasoj_kuci_40th) - [Galaksija and Računari u vašoj kući: 40th Anniversary Celebration](https://blog.vladovince.com/galaksija-and-racunari-u-vasoj-kuci-40th-anniversary-celebration/)
 * [2024-07-16, 18:22:30](https://lobste.rs/s/tpk0dv/announcing_godotcaml_for_godot_4_2) - [Announcing Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
@@ -20,7 +21,6 @@
 * [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
 * [2024-07-15, 19:03:41](https://lobste.rs/s/gt225w/i_built_my_structural_editor_into_code) - [I built my structural editor into a code notebook](https://vimeo.com/984437518?share=copy)
 * [2024-07-15, 17:40:21](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week)
-* [2024-07-15, 16:38:43](https://lobste.rs/s/pmrdwj/system_design_sketches) - [System Design Sketches](https://okso.app/showcase/system-design)
 * [2024-07-15, 16:04:29](https://lobste.rs/s/dntbze/toolbox_languages) - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
 * [2024-07-15, 14:35:07](https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should) - [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
 * [2024-07-15, 04:00:01](https://lobste.rs/s/iqr0l9/we_need_visual_programming_no_not_like) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
