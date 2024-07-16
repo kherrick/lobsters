@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-16, 20:07:02",
+      "https://lobste.rs/s/wg1dbn/self_signed_root_ca_kubernetes_with_k3s"
+    ],
+    [
+      "Self-signed Root CA in Kubernetes with k3s, cert-manager and traefik",
+      "https://raymii.org/s/tutorials/Self_signed_Root_CA_in_Kubernetes_with_k3s_cert-manager_and_traefik.html"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 19:53:48",
       "https://lobste.rs/s/dhb8ic/introducing_pcsx2_2_0"
     ],
@@ -207,16 +217,6 @@
     [
       "Pull requests via git push",
       "https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 19:03:41",
-      "https://lobste.rs/s/gt225w/i_built_my_structural_editor_into_code"
-    ],
-    [
-      "I built my structural editor into a code notebook",
-      "https://vimeo.com/984437518?share=copy"
     ]
   ],
   [
