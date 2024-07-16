@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-16, 15:05:39](https://lobste.rs/s/wg6mgh/timezone_naive_datetimes_are_one_most) - [Timezone-naive datetimes are one of the most dangerous objects in Python](https://nerderati.com/a-python-epoch-timestamp-timezone-trap/)
 * [2024-07-16, 14:26:41](https://lobste.rs/s/8yzker/why_does_chromaticity_diagram_look_like) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 * [2024-07-16, 13:01:59](https://lobste.rs/s/zi4mfv/hare_0_24_2_released) - [Hare 0.24.2 released](https://harelang.org/blog/2024-07-13-hare-0.24.2-release/)
 * [2024-07-16, 12:32:34](https://lobste.rs/s/agu5cf/some_more_thoughts_on_finite_state) - [Some more thoughts on finite-state transducers for aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-followup/)
@@ -24,7 +25,6 @@
 * [2024-07-15, 04:00:01](https://lobste.rs/s/iqr0l9/we_need_visual_programming_no_not_like) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
 * [2024-07-14, 22:50:49](https://lobste.rs/s/roh4xv/fusion_os_hobby_kernel_implemented_nim) - [Fusion OS - a hobby kernel implemented in Nim](https://github.com/khaledh/fusion)
 * [2024-07-14, 20:24:50](https://lobste.rs/s/9huy81/tbsp_tree_based_source_processing) - [tbsp - tree-based source-processing language](https://git.peppe.rs/languages/tbsp/about/)
-* [2024-07-14, 11:14:32](https://lobste.rs/s/uwv8l8/new_git_collaboration_service) - [A new git collaboration service](https://pr.pico.sh/)
 
 ## [Archives](archives/index.md)
 
