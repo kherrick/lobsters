@@ -10,6 +10,7 @@
 * [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
 * [2024-07-15, 19:03:41](https://lobste.rs/s/gt225w/i_built_my_structural_editor_into_code) - [I built my structural editor into a code notebook](https://vimeo.com/984437518?share=copy)
+* [2024-07-15, 18:40:19](https://lobste.rs/s/u9j5zf/ps_httpd_web_server_written_postscript) - [PS-HTTPD: a web server written in PostScript](https://www.pugo.org/projects/pshttpd/)
 * [2024-07-15, 18:31:03](https://lobste.rs/s/jljbam/quartz_deterministic_time_testing) - [Quartz: A Deterministic Time Testing Library for Go](https://coder.com/blog/introducing-quartz)
 * [2024-07-15, 17:57:56](https://lobste.rs/s/97ba9t/create_unified_kernel_image_from_scratch) - [Create Unified Kernel Image from scratch](https://blog.izissise.net/posts/uki/)
 * [2024-07-15, 17:46:48](https://lobste.rs/s/eyjnkm/video_interview_with_mike_clark_chief) - [A Video Interview with Mike Clark, Chief Architect of Zen at AMD](https://chipsandcheese.com/2024/07/15/a-video-interview-with-mike-clark-chief-architect-of-zen-at-amd/)
