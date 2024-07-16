@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-16, 14:26:41](https://lobste.rs/s/8yzker/why_does_chromaticity_diagram_look_like) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 * [2024-07-16, 13:01:59](https://lobste.rs/s/zi4mfv/hare_0_24_2_released) - [Hare 0.24.2 released](https://harelang.org/blog/2024-07-13-hare-0.24.2-release/)
 * [2024-07-16, 12:32:34](https://lobste.rs/s/agu5cf/some_more_thoughts_on_finite_state) - [Some more thoughts on finite-state transducers for aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-followup/)
 * [2024-07-16, 11:54:48](https://lobste.rs/s/1mciwq/how_create_liquid_raymarching_scene) - [How to Create a Liquid Raymarching Scene Using Three.js Shading Language](https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/)
@@ -17,7 +18,6 @@
 * [2024-07-15, 14:35:07](https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should) - [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
 * [2024-07-15, 14:31:39](https://lobste.rs/s/8ecczm/building_scaling_notion_s_data_lake) - [Building and scaling Notion’s data lake](https://www.notion.so/blog/building-and-scaling-notions-data-lake)
 * [2024-07-15, 12:00:09](https://lobste.rs/s/qrguxv/kubernetes_instance_calculator) - [Kubernetes instance calculator](https://learnk8s.io/kubernetes-instance-calculator)
-* [2024-07-15, 11:27:48](https://lobste.rs/s/aobjbq/resource_management_generators_python) - [Resource management and generators in Python](https://samgeo.codes/python-generator-cleanup/)
 * [2024-07-15, 09:02:34](https://lobste.rs/s/1lwmtn/beyond_bufferbloat_end_end_congestion) - [Beyond bufferbloat: End-to-end congestion control cannot avoid latency spikes](https://blog.apnic.net/2022/01/26/beyond-bufferbloat-end-to-end-congestion-control-cannot-avoid-latency-spikes/)
 * [2024-07-15, 08:00:48](https://lobste.rs/s/opcoox/mazeppa_modern_supercompiler_for_call_by) - [mazeppa: A modern supercompiler for call-by-value functional languages](https://github.com/mazeppa-dev/mazeppa)
 * [2024-07-15, 05:15:48](https://lobste.rs/s/fkle2g/clojure_macros_continue_surprise_me) - [Clojure macros continue to surprise me](https://tonsky.me/blog/clojure-macros/)

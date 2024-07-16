@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 14:26:41](https://lobste.rs/s/8yzker/why_does_chromaticity_diagram_look_like) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 * [2024-07-16, 13:01:59](https://lobste.rs/s/zi4mfv/hare_0_24_2_released) - [Hare 0.24.2 released](https://harelang.org/blog/2024-07-13-hare-0.24.2-release/)
 * [2024-07-16, 12:32:34](https://lobste.rs/s/agu5cf/some_more_thoughts_on_finite_state) - [Some more thoughts on finite-state transducers for aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-followup/)
 * [2024-07-16, 11:54:48](https://lobste.rs/s/1mciwq/how_create_liquid_raymarching_scene) - [How to Create a Liquid Raymarching Scene Using Three.js Shading Language](https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/)
