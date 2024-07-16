@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-16, 19:53:48](https://lobste.rs/s/dhb8ic/introducing_pcsx2_2_0) - [Introducing PCSX2 2.0](https://pcsx2.net/blog/2024/pcsx2-2-release/)
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 * [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
@@ -21,7 +22,6 @@
 * [2024-07-15, 19:10:22](https://lobste.rs/s/xwkb19/announcing_open_collaboration_tools) - [Announcing the Open Collaboration Tools](https://www.typefox.io/blog/open-collaboration-tools-announcement/)
 * [2024-07-15, 19:07:48](https://lobste.rs/s/sovpef/pull_requests_via_git_push) - [Pull requests via git push](https://blog.sesse.net/blog/tech/2024-07-15-13-04_pull_requests_via_git_push.html)
 * [2024-07-15, 19:03:41](https://lobste.rs/s/gt225w/i_built_my_structural_editor_into_code) - [I built my structural editor into a code notebook](https://vimeo.com/984437518?share=copy)
-* [2024-07-15, 17:40:21](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week)
 * [2024-07-15, 16:04:29](https://lobste.rs/s/dntbze/toolbox_languages) - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
 * [2024-07-15, 14:35:07](https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should) - [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
 * [2024-07-15, 04:00:01](https://lobste.rs/s/iqr0l9/we_need_visual_programming_no_not_like) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)

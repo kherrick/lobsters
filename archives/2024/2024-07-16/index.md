@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 19:53:48](https://lobste.rs/s/dhb8ic/introducing_pcsx2_2_0) - [Introducing PCSX2 2.0](https://pcsx2.net/blog/2024/pcsx2-2-release/)
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 * [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
