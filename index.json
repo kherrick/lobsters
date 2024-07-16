@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-16, 17:01:51",
+      "https://lobste.rs/s/yf2rwh/introducing_multi_version_schema"
+    ],
+    [
+      "Introducing multi-version schema migrations for Postgres",
+      "https://xata.io/blog/multi-version-schema-migrations"
+    ]
+  ],
+  [
+    [
       "2024-07-16, 16:08:28",
       "https://lobste.rs/s/wcxzym/deconstructing_role_playing_video_game"
     ],
@@ -197,16 +207,6 @@
     [
       "Building and scaling Notion’s data lake",
       "https://www.notion.so/blog/building-and-scaling-notions-data-lake"
-    ]
-  ],
-  [
-    [
-      "2024-07-15, 08:00:48",
-      "https://lobste.rs/s/opcoox/mazeppa_modern_supercompiler_for_call_by"
-    ],
-    [
-      "mazeppa: A modern supercompiler for call-by-value functional languages",
-      "https://github.com/mazeppa-dev/mazeppa"
     ]
   ],
   [
