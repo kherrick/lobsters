@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 18:22:30](https://lobste.rs/s/tpk0dv/announcing_godotcaml_for_godot_4_2) - [Announcing Godotcaml for Godot 4.2](https://fizzixnerd.com/blog/2024-06-24-announcing-godotcaml/)
 * [2024-07-16, 17:40:54](https://lobste.rs/s/sjoqyy/dungeons_dragons_taught_me_how_write_alt) - [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-16, 17:26:51](https://lobste.rs/s/vhfpb0/inside_ibm_motorola_mainframe) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
 * [2024-07-16, 17:01:51](https://lobste.rs/s/yf2rwh/introducing_multi_version_schema) - [Introducing multi-version schema migrations for Postgres](https://xata.io/blog/multi-version-schema-migrations)
