@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-16](index.md)
 
+* [2024-07-16, 20:07:02](https://lobste.rs/s/wg1dbn/self_signed_root_ca_kubernetes_with_k3s) - [Self-signed Root CA in Kubernetes with k3s, cert-manager and traefik](https://raymii.org/s/tutorials/Self_signed_Root_CA_in_Kubernetes_with_k3s_cert-manager_and_traefik.html)
 * [2024-07-16, 19:53:48](https://lobste.rs/s/dhb8ic/introducing_pcsx2_2_0) - [Introducing PCSX2 2.0](https://pcsx2.net/blog/2024/pcsx2-2-release/)
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
