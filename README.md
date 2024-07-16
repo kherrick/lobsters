@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-16, 17:40:54](https://lobste.rs/s/sjoqyy/dungeons_dragons_taught_me_how_write_alt) - [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-16, 17:26:51](https://lobste.rs/s/vhfpb0/inside_ibm_motorola_mainframe) - [Inside an IBM/Motorola mainframe controller chip from 1981](http://www.righto.com/2024/07/ibm-3274-keystone-chip.html)
 * [2024-07-16, 17:01:51](https://lobste.rs/s/yf2rwh/introducing_multi_version_schema) - [Introducing multi-version schema migrations for Postgres](https://xata.io/blog/multi-version-schema-migrations)
 * [2024-07-16, 16:08:28](https://lobste.rs/s/wcxzym/deconstructing_role_playing_video_game) - [Deconstructing the Role-Playing Video Game](https://olano.dev/blog/deconstructing-the-role-playing-videogame/)
@@ -19,7 +20,6 @@
 * [2024-07-15, 17:40:21](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kwltsv/what_are_you_doing_this_week)
 * [2024-07-15, 16:38:43](https://lobste.rs/s/pmrdwj/system_design_sketches) - [System Design Sketches](https://okso.app/showcase/system-design)
 * [2024-07-15, 16:04:29](https://lobste.rs/s/dntbze/toolbox_languages) - [Toolbox languages](https://www.hillelwayne.com/post/toolbox-languages/)
-* [2024-07-15, 15:06:38](https://lobste.rs/s/0ssprz/how_insecure_is_avast_secure_browser) - [How insecure is Avast Secure Browser?](https://palant.info/2024/07/15/how-insecure-is-avast-secure-browser/)
 * [2024-07-15, 14:35:07](https://lobste.rs/s/zavktf/why_cloud_native_buildpacks_should) - [Why Cloud-Native Buildpacks Should Excite Companies](https://yonkeltron.com/posts/why-cloud-native-buildpacks-should-excite-companies/)
 * [2024-07-15, 05:15:48](https://lobste.rs/s/fkle2g/clojure_macros_continue_surprise_me) - [Clojure macros continue to surprise me](https://tonsky.me/blog/clojure-macros/)
 * [2024-07-15, 04:00:01](https://lobste.rs/s/iqr0l9/we_need_visual_programming_no_not_like) - [We need visual programming. No, not like that](https://blog.sbensu.com/posts/demand-for-visual-programming/)
