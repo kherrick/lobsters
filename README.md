@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-17, 02:09:27](https://lobste.rs/s/y6z6l3/another_option_for_terminal_theme) - [Another option for the terminal theme , supporting ash/dash/bash/zsh](https://x-cmd.com/theme/)
+* [2024-07-17, 03:16:08](https://lobste.rs/s/qculiv/go_range_iterators_demystified) - [Go range iterators demystified](https://dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
 * [2024-07-16, 22:47:04](https://lobste.rs/s/yr85ti/story_points_are_pointless_measure) - [Story Points are Pointless, Measure Queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-16, 22:24:52](https://lobste.rs/s/nfyu7p/hacking_mac_os_x_kernel_for_unsupported) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005)](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)
 * [2024-07-16, 20:07:02](https://lobste.rs/s/wg1dbn/self_signed_root_ca_kubernetes_with_k3s) - [Self-signed Root CA in Kubernetes with k3s, cert-manager and traefik](https://raymii.org/s/tutorials/Self_signed_Root_CA_in_Kubernetes_with_k3s_cert-manager_and_traefik.html)
