@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-17, 22:01:27",
+      "https://lobste.rs/s/jf73cx/sapwned_sap_ai_vulnerabilities_expose"
+    ],
+    [
+      "SAPwned: SAP AI vulnerabilities expose customers’ cloud environments and private AI artifacts",
+      "https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 21:20:12",
       "https://lobste.rs/s/utmsph/age_plugins"
     ],
@@ -57,16 +67,6 @@
     [
       "The Pitfalls of In-App Browsers",
       "https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 16:08:50",
-      "https://lobste.rs/s/gyxxbw/chacha20_on_coroutines"
-    ],
-    [
-      "Chacha20 on coroutines",
-      "https://git.envs.net/mpech/chacha20-coroutines"
     ]
   ],
   [
