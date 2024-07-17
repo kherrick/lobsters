@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-17, 15:55:07](https://lobste.rs/s/htnvea/c_must_become_safer) - [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
 * [2024-07-17, 15:44:59](https://lobste.rs/s/pywkto/what_are_ways_compilers_recognize) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
 * [2024-07-17, 15:24:41](https://lobste.rs/s/58igeq/zig_as_multi_os_build_system_interview) - [Zig as a Multi-OS Build System (Interview with Loris Cro)](https://youtu.be/i9nFvSpcCzo)
 * [2024-07-17, 15:21:44](https://lobste.rs/s/rioofo/law_large_numbers_why_it_is_bad_idea_go) - [The Law of Large Numbers or Why It Is a Bad Idea to Go to the Casino](https://easylang.online/apps/tut_mcarlo.html?2407)
@@ -18,7 +19,6 @@
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 * [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
-* [2024-07-16, 18:34:32](https://lobste.rs/s/dv9js0/galaksija_racunari_u_vasoj_kuci_40th) - [Galaksija and Računari u vašoj kući: 40th Anniversary Celebration](https://blog.vladovince.com/galaksija-and-racunari-u-vasoj-kuci-40th-anniversary-celebration/)
 * [2024-07-16, 17:40:54](https://lobste.rs/s/sjoqyy/dungeons_dragons_taught_me_how_write_alt) - [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-16, 17:01:51](https://lobste.rs/s/yf2rwh/introducing_multi_version_schema) - [Introducing multi-version schema migrations for Postgres](https://xata.io/blog/multi-version-schema-migrations)
 * [2024-07-16, 15:05:39](https://lobste.rs/s/wg6mgh/timezone_naive_datetimes_are_one_most) - [Timezone-naive datetimes are one of the most dangerous objects in Python](https://nerderati.com/a-python-epoch-timestamp-timezone-trap/)
