@@ -8,7 +8,7 @@
 * [2024-07-17, 15:10:59](https://lobste.rs/s/pdzkvz/building_new_hypermedia_systems) - [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-17, 15:03:03](https://lobste.rs/s/qxydlp/commit_messages_are_optional) - [commit messages are optional](https://schpet.com/note/git-commit-messages-are-optional)
 * [2024-07-17, 14:53:18](https://lobste.rs/s/lebknp/oscar_open_source_contributor_agent) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
-* [2024-07-17, 14:16:34](https://lobste.rs/s/pyrixz/linux_patch_disable_snapdragon_x_elite) - [Linux Patch To Disable The Snapdragon X Elite \"X1E80100\" GPU By Default - Phoronix](https://www.phoronix.com/news/Linux-Disabling-X-Elite-GPU)
+* [2024-07-17, 14:16:34](https://lobste.rs/s/pyrixz/linux_patch_disable_snapdragon_x_elite) - [Linux Patch To Disable The Snapdragon X Elite \"X1E80100\" GPU By Default](https://www.phoronix.com/news/Linux-Disabling-X-Elite-GPU)
 * [2024-07-17, 14:09:08](https://lobste.rs/s/kqmcbp/why_i_like_netbsd_why_portability_matters) - [Why I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-07-17, 12:29:15](https://lobste.rs/s/jouh8m/why_german_strings_are_everywhere) - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
 * [2024-07-17, 07:19:08](https://lobste.rs/s/9lppza/mapping_high_level_constructs_llvm_ir) - [Mapping High Level Constructs to LLVM IR](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io)
