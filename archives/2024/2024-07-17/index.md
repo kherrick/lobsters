@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 23:12:21](https://lobste.rs/s/tdxsxa/ubuntu_ubuntu_ubuntu_ubuntu_ubuntu) - [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
 * [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
 * [2024-07-17, 22:01:27](https://lobste.rs/s/jf73cx/sapwned_sap_ai_vulnerabilities_expose) - [SAPwned: SAP AI vulnerabilities expose customers’ cloud environments and private AI artifacts](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
 * [2024-07-17, 21:20:12](https://lobste.rs/s/utmsph/age_plugins) - [age Plugins](https://words.filippo.io/dispatches/age-plugins/)

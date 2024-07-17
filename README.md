@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-17, 23:12:21](https://lobste.rs/s/tdxsxa/ubuntu_ubuntu_ubuntu_ubuntu_ubuntu) - [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
 * [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
 * [2024-07-17, 21:20:12](https://lobste.rs/s/utmsph/age_plugins) - [age Plugins](https://words.filippo.io/dispatches/age-plugins/)
 * [2024-07-17, 20:53:57](https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
@@ -17,7 +18,6 @@
 * [2024-07-17, 14:16:34](https://lobste.rs/s/pyrixz/linux_patch_disable_snapdragon_x_elite) - [Linux Patch To Disable The Snapdragon X Elite \"X1E80100\" GPU By Default](https://www.phoronix.com/news/Linux-Disabling-X-Elite-GPU)
 * [2024-07-17, 14:09:08](https://lobste.rs/s/kqmcbp/why_i_like_netbsd_why_portability_matters) - [Why I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-07-17, 12:29:15](https://lobste.rs/s/jouh8m/why_german_strings_are_everywhere) - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
-* [2024-07-17, 05:06:46](https://lobste.rs/s/fkewct/encoding_differentials_why_charset) - [Encoding Differentials: Why Charset Matters](https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/)
 * [2024-07-16, 22:47:04](https://lobste.rs/s/yr85ti/story_points_are_pointless_measure) - [Story Points are Pointless, Measure Queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
