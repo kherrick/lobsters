@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-17, 20:53:57",
+      "https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open"
+    ],
+    [
+      "NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules",
+      "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 20:04:53",
       "https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your"
     ],
@@ -177,16 +187,6 @@
     [
       "Story Points are Pointless, Measure Queues",
       "https://www.brightball.com/articles/story-points-are-pointless-measure-queues"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 20:07:02",
-      "https://lobste.rs/s/wg1dbn/self_signed_root_ca_kubernetes_with_k3s"
-    ],
-    [
-      "Self-signed Root CA in Kubernetes with k3s, cert-manager and traefik",
-      "https://raymii.org/s/tutorials/Self_signed_Root_CA_in_Kubernetes_with_k3s_cert-manager_and_traefik.html"
     ]
   ],
   [
