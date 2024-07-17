@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 14:53:18](https://lobste.rs/s/lebknp/oscar_open_source_contributor_agent) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 * [2024-07-17, 14:16:34](https://lobste.rs/s/pyrixz/linux_patch_disable_snapdragon_x_elite) - [Linux Patch To Disable The Snapdragon X Elite \"X1E80100\" GPU By Default - Phoronix](https://www.phoronix.com/news/Linux-Disabling-X-Elite-GPU)
 * [2024-07-17, 14:09:08](https://lobste.rs/s/kqmcbp/why_i_like_netbsd_why_portability_matters) - [Why I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-07-17, 12:29:15](https://lobste.rs/s/jouh8m/why_german_strings_are_everywhere) - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
