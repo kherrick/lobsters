@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-17, 21:20:12",
+      "https://lobste.rs/s/utmsph/age_plugins"
+    ],
+    [
+      "age Plugins",
+      "https://words.filippo.io/dispatches/age-plugins/"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 21:10:57",
+      "https://lobste.rs/s/tx6ion/zed_on_linux"
+    ],
+    [
+      "Zed on Linux",
+      "https://zed.dev/blog/zed-on-linux"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 20:53:57",
       "https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open"
     ],
@@ -47,16 +67,6 @@
     [
       "The Pitfalls of In-App Browsers",
       "https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 16:08:50",
-      "https://lobste.rs/s/gyxxbw/chacha20_on_coroutines"
-    ],
-    [
-      "Chacha20 on coroutines",
-      "https://git.envs.net/mpech/chacha20-coroutines"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Why German Strings are Everywhere",
       "https://cedardb.com/blog/german_strings/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 07:19:08",
-      "https://lobste.rs/s/9lppza/mapping_high_level_constructs_llvm_ir"
-    ],
-    [
-      "Mapping High Level Constructs to LLVM IR",
-      "https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io"
     ]
   ],
   [
