@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-17, 15:44:59](https://lobste.rs/s/pywkto/what_are_ways_compilers_recognize) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
 * [2024-07-17, 15:24:41](https://lobste.rs/s/58igeq/zig_as_multi_os_build_system_interview) - [Zig as a Multi-OS Build System (Interview with Loris Cro)](https://youtu.be/i9nFvSpcCzo)
 * [2024-07-17, 15:21:44](https://lobste.rs/s/rioofo/law_large_numbers_why_it_is_bad_idea_go) - [The Law of Large Numbers or Why It Is a Bad Idea to Go to the Casino](https://easylang.online/apps/tut_mcarlo.html?2407)
 * [2024-07-17, 15:10:59](https://lobste.rs/s/pdzkvz/building_new_hypermedia_systems) - [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
@@ -8,7 +9,6 @@
 * [2024-07-17, 14:16:34](https://lobste.rs/s/pyrixz/linux_patch_disable_snapdragon_x_elite) - [Linux Patch To Disable The Snapdragon X Elite \"X1E80100\" GPU By Default - Phoronix](https://www.phoronix.com/news/Linux-Disabling-X-Elite-GPU)
 * [2024-07-17, 14:09:08](https://lobste.rs/s/kqmcbp/why_i_like_netbsd_why_portability_matters) - [Why I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-07-17, 12:29:15](https://lobste.rs/s/jouh8m/why_german_strings_are_everywhere) - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
-* [2024-07-17, 12:08:45](https://lobste.rs/s/7loi8r/landlock_news_4) - [Landlock news #4](https://lore.kernel.org/landlock/20240716.yui4Iezai8ae@digikod.net/T/#u)
 * [2024-07-17, 07:19:08](https://lobste.rs/s/9lppza/mapping_high_level_constructs_llvm_ir) - [Mapping High Level Constructs to LLVM IR](https://mapping-high-level-constructs-to-llvm-ir.readthedocs.io)
 * [2024-07-17, 05:06:46](https://lobste.rs/s/fkewct/encoding_differentials_why_charset) - [Encoding Differentials: Why Charset Matters](https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/)
 * [2024-07-16, 22:47:04](https://lobste.rs/s/yr85ti/story_points_are_pointless_measure) - [Story Points are Pointless, Measure Queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
