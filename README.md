@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-17, 20:04:53](https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
 * [2024-07-17, 19:10:05](https://lobste.rs/s/3l9eiw/89_things_i_know_about_git_commits) - [89 things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-17, 18:09:13](https://lobste.rs/s/wi452s/can_i_tools) - [Can I …? tools](https://status.pointless.one/@pointlessone/112802420328494789)
-* [2024-07-17, 17:50:19](https://lobste.rs/s/al8quc/virtualising_darwin_on_l4_2007) - [Virtualising Darwin on L4 (2007)](https://trustworthy.systems/publications/theses_public/07/Root%3Abe.pdf)
 * [2024-07-17, 16:51:46](https://lobste.rs/s/voskxv/pitfalls_app_browsers) - [The Pitfalls of In-App Browsers](https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/)
 * [2024-07-17, 16:08:50](https://lobste.rs/s/gyxxbw/chacha20_on_coroutines) - [Chacha20 on coroutines](https://git.envs.net/mpech/chacha20-coroutines)
 * [2024-07-17, 15:55:07](https://lobste.rs/s/htnvea/c_must_become_safer) - [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
