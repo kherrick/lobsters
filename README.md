@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-17, 19:10:05](https://lobste.rs/s/3l9eiw/89_things_i_know_about_git_commits) - [89 things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-17, 18:09:13](https://lobste.rs/s/wi452s/can_i_tools) - [Can I …? tools](https://status.pointless.one/@pointlessone/112802420328494789)
 * [2024-07-17, 17:50:19](https://lobste.rs/s/al8quc/virtualising_darwin_on_l4_2007) - [Virtualising Darwin on L4 (2007)](https://trustworthy.systems/publications/theses_public/07/Root%3Abe.pdf)
 * [2024-07-17, 16:51:46](https://lobste.rs/s/voskxv/pitfalls_app_browsers) - [The Pitfalls of In-App Browsers](https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/)
@@ -18,7 +19,6 @@
 * [2024-07-17, 05:06:46](https://lobste.rs/s/fkewct/encoding_differentials_why_charset) - [Encoding Differentials: Why Charset Matters](https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/)
 * [2024-07-16, 22:47:04](https://lobste.rs/s/yr85ti/story_points_are_pointless_measure) - [Story Points are Pointless, Measure Queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-16, 20:07:02](https://lobste.rs/s/wg1dbn/self_signed_root_ca_kubernetes_with_k3s) - [Self-signed Root CA in Kubernetes with k3s, cert-manager and traefik](https://raymii.org/s/tutorials/Self_signed_Root_CA_in_Kubernetes_with_k3s_cert-manager_and_traefik.html)
-* [2024-07-16, 19:53:48](https://lobste.rs/s/dhb8ic/introducing_pcsx2_2_0) - [Introducing PCSX2 2.0](https://pcsx2.net/blog/2024/pcsx2-2-release/)
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 * [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
