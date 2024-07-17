@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-17, 17:50:19](https://lobste.rs/s/al8quc/virtualising_darwin_on_l4_2007) - [Virtualising Darwin on L4 (2007)](https://trustworthy.systems/publications/theses_public/07/Root%3Abe.pdf)
 * [2024-07-17, 16:51:46](https://lobste.rs/s/voskxv/pitfalls_app_browsers) - [The Pitfalls of In-App Browsers](https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/)
 * [2024-07-17, 16:08:50](https://lobste.rs/s/gyxxbw/chacha20_on_coroutines) - [Chacha20 on coroutines](https://git.envs.net/mpech/chacha20-coroutines)
 * [2024-07-17, 15:55:07](https://lobste.rs/s/htnvea/c_must_become_safer) - [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
@@ -20,7 +21,6 @@
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 * [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
-* [2024-07-16, 17:40:54](https://lobste.rs/s/sjoqyy/dungeons_dragons_taught_me_how_write_alt) - [Dungeons & Dragons taught me how to write alt text](https://ericwbailey.website/published/dungeons-and-dragons-taught-me-how-to-write-alt-text/)
 * [2024-07-16, 15:05:39](https://lobste.rs/s/wg6mgh/timezone_naive_datetimes_are_one_most) - [Timezone-naive datetimes are one of the most dangerous objects in Python](https://nerderati.com/a-python-epoch-timestamp-timezone-trap/)
 * [2024-07-16, 14:26:41](https://lobste.rs/s/8yzker/why_does_chromaticity_diagram_look_like) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 * [2024-07-16, 13:01:59](https://lobste.rs/s/zi4mfv/hare_0_24_2_released) - [Hare 0.24.2 released](https://harelang.org/blog/2024-07-13-hare-0.24.2-release/)
