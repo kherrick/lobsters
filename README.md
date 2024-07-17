@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-07-17, 21:20:12](https://lobste.rs/s/utmsph/age_plugins) - [age Plugins](https://words.filippo.io/dispatches/age-plugins/)
-* [2024-07-17, 21:10:57](https://lobste.rs/s/tx6ion/zed_on_linux) - [Zed on Linux](https://zed.dev/blog/zed-on-linux)
 * [2024-07-17, 20:53:57](https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 20:04:53](https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
 * [2024-07-17, 19:10:05](https://lobste.rs/s/3l9eiw/89_things_i_know_about_git_commits) - [89 things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
 * [2024-07-17, 18:09:13](https://lobste.rs/s/wi452s/can_i_tools) - [Can I …? tools](https://status.pointless.one/@pointlessone/112802420328494789)
 * [2024-07-17, 16:51:46](https://lobste.rs/s/voskxv/pitfalls_app_browsers) - [The Pitfalls of In-App Browsers](https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/)
+* [2024-07-17, 16:08:50](https://lobste.rs/s/gyxxbw/chacha20_on_coroutines) - [Chacha20 on coroutines](https://git.envs.net/mpech/chacha20-coroutines)
 * [2024-07-17, 15:55:07](https://lobste.rs/s/htnvea/c_must_become_safer) - [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
 * [2024-07-17, 15:44:59](https://lobste.rs/s/pywkto/what_are_ways_compilers_recognize) - [What are the ways compilers recognize complex patterns?](https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns)
 * [2024-07-17, 15:24:41](https://lobste.rs/s/58igeq/zig_as_multi_os_build_system_interview) - [Zig as a Multi-OS Build System (Interview with Loris Cro)](https://youtu.be/i9nFvSpcCzo)
