@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-17](index.md)
 
+* [2024-07-17, 22:01:27](https://lobste.rs/s/jf73cx/sapwned_sap_ai_vulnerabilities_expose) - [SAPwned: SAP AI vulnerabilities expose customers’ cloud environments and private AI artifacts](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
 * [2024-07-17, 21:20:12](https://lobste.rs/s/utmsph/age_plugins) - [age Plugins](https://words.filippo.io/dispatches/age-plugins/)
 * [2024-07-17, 21:10:57](https://lobste.rs/s/tx6ion/zed_on_linux) - [Zed on Linux](https://zed.dev/blog/zed-on-linux)
 * [2024-07-17, 20:53:57](https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
