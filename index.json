@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-17, 15:44:59",
+      "https://lobste.rs/s/pywkto/what_are_ways_compilers_recognize"
+    ],
+    [
+      "What are the ways compilers recognize complex patterns?",
+      "https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 15:24:41",
       "https://lobste.rs/s/58igeq/zig_as_multi_os_build_system_interview"
     ],
@@ -77,16 +87,6 @@
     [
       "Why German Strings are Everywhere",
       "https://cedardb.com/blog/german_strings/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 12:08:45",
-      "https://lobste.rs/s/7loi8r/landlock_news_4"
-    ],
-    [
-      "Landlock news #4",
-      "https://lore.kernel.org/landlock/20240716.yui4Iezai8ae@digikod.net/T/#u"
     ]
   ],
   [
