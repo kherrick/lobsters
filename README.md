@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-17, 05:06:46](https://lobste.rs/s/fkewct/encoding_differentials_why_charset) - [Encoding Differentials: Why Charset Matters](https://www.sonarsource.com/blog/encoding-differentials-why-charset-matters/)
 * [2024-07-17, 03:16:08](https://lobste.rs/s/qculiv/go_range_iterators_demystified) - [Go range iterators demystified](https://dolthub.com/blog/2024-07-12-golang-range-iters-demystified/)
 * [2024-07-16, 22:47:04](https://lobste.rs/s/yr85ti/story_points_are_pointless_measure) - [Story Points are Pointless, Measure Queues](https://www.brightball.com/articles/story-points-are-pointless-measure-queues)
 * [2024-07-16, 22:24:52](https://lobste.rs/s/nfyu7p/hacking_mac_os_x_kernel_for_unsupported) - [Hacking the Mac OS X Kernel for Unsupported Machines (2005)](https://papers.put.as/papers/macosx/2005/Hacking-Mac-OS-X-Kernel-for-unsupported-machines.pdf)
@@ -19,7 +20,6 @@
 * [2024-07-16, 14:26:41](https://lobste.rs/s/8yzker/why_does_chromaticity_diagram_look_like) - [Why does the chromaticity diagram look like that?](https://jlongster.com/why-chromaticity-shape)
 * [2024-07-16, 13:01:59](https://lobste.rs/s/zi4mfv/hare_0_24_2_released) - [Hare 0.24.2 released](https://harelang.org/blog/2024-07-13-hare-0.24.2-release/)
 * [2024-07-16, 12:32:34](https://lobste.rs/s/agu5cf/some_more_thoughts_on_finite_state) - [Some more thoughts on finite-state transducers for aperiodic tilings](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/aperiodic-followup/)
-* [2024-07-16, 11:54:48](https://lobste.rs/s/1mciwq/how_create_liquid_raymarching_scene) - [How to Create a Liquid Raymarching Scene Using Three.js Shading Language](https://tympanus.net/codrops/2024/07/15/how-to-create-a-liquid-raymarching-scene-using-three-js-shading-language/)
 * [2024-07-16, 01:51:07](https://lobste.rs/s/k5wrq8/jailbreaking_rabbitos_hard_way) - [Jailbreaking RabbitOS (The Hard Way)](https://www.da.vidbuchanan.co.uk/blog/r1-jailbreak.html)
 * [2024-07-16, 01:18:15](https://lobste.rs/s/hqa40h/lessons_learned_35_years_making_software) - [Lessons learned in 35 years of making software](https://dev.jimgrey.net/2024/07/03/lessons-learned-in-35-years-of-making-software/)
 * [2024-07-15, 21:21:29](https://lobste.rs/s/p0hx8s/developer_s_review_snapdragon_x_laptop) - [A Developer's Review of a Snapdragon X Laptop (Lenovo Yoga Slim 7x)](https://www.wezm.net/v2/posts/2024/yoga-7x-snapdragon-developer-review/)
