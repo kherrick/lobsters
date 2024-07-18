@@ -10,6 +10,7 @@
 * [2024-07-18, 10:02:25](https://lobste.rs/s/zvzbmg/helix_24_07) - [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
 * [2024-07-18, 09:57:41](https://lobste.rs/s/p5f9sb/parsing_raw_data_with_existential_types) - [Parsing raw data with existential types](https://andreasimonecosta.dev/posts/parsing-raw-data-with-existential-types/)
 * [2024-07-18, 09:43:34](https://lobste.rs/s/ttmoto/sqlite_transactions) - [SQLite Transactions](https://reorchestrate.com/posts/sqlite-transactions/)
+* [2024-07-18, 08:11:42](https://lobste.rs/s/25q1wa/proposal_for_destructive_move_through) - [A proposal for destructive move through function arguments in C++ and C](https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md)
 * [2024-07-17, 23:57:11](https://lobste.rs/s/x9z3xq/rye_language) - [Rye language](https://ryelang.org/)
 * [2024-07-17, 23:12:21](https://lobste.rs/s/tdxsxa/ubuntu_ubuntu_ubuntu_ubuntu_ubuntu) - [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
 * [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
@@ -23,7 +24,6 @@
 * [2024-07-17, 15:21:44](https://lobste.rs/s/rioofo/law_large_numbers_why_it_is_bad_idea_go) - [The Law of Large Numbers or Why It Is a Bad Idea to Go to the Casino](https://easylang.online/apps/tut_mcarlo.html?2407)
 * [2024-07-17, 15:10:59](https://lobste.rs/s/pdzkvz/building_new_hypermedia_systems) - [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-17, 15:03:03](https://lobste.rs/s/qxydlp/commit_messages_are_optional) - [commit messages are optional](https://schpet.com/note/git-commit-messages-are-optional)
-* [2024-07-17, 14:09:08](https://lobste.rs/s/kqmcbp/why_i_like_netbsd_why_portability_matters) - [Why I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 
 ## [Archives](archives/index.md)
