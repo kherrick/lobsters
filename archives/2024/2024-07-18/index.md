@@ -6,6 +6,7 @@
 
 * [2024-07-18, 20:09:57](https://lobste.rs/s/wwbt6b/gpt_4o_mini) - [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [2024-07-18, 19:42:04](https://lobste.rs/s/6gwqnu/immich_introduces_paid_license_model) - [Immich introduces a paid license model](https://github.com/immich-app/immich/discussions/11186)
+* [2024-07-18, 19:37:59](https://lobste.rs/s/iz67lb/apache_removes_feather_from_their) - [Apache removes the feather from their branding](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 19:27:20](https://lobste.rs/s/4kd2ww/type_system_for_rcl_part_2_type_system) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 * [2024-07-18, 17:28:28](https://lobste.rs/s/sbmv8t/objects_our_life_1983) - [The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
