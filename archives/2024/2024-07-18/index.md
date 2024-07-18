@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 19:42:04](https://lobste.rs/s/6gwqnu/immich_introduces_paid_license_model) - [Immich introduces a paid license model](https://github.com/immich-app/immich/discussions/11186)
 * [2024-07-18, 19:27:20](https://lobste.rs/s/4kd2ww/type_system_for_rcl_part_2_type_system) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 * [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
 * [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)

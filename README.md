@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-18, 19:42:04](https://lobste.rs/s/6gwqnu/immich_introduces_paid_license_model) - [Immich introduces a paid license model](https://github.com/immich-app/immich/discussions/11186)
 * [2024-07-18, 19:27:20](https://lobste.rs/s/4kd2ww/type_system_for_rcl_part_2_type_system) - [A type system for RCL, part 2: The type system](https://ruudvanasseldonk.com/2024/a-type-system-for-rcl-part-2-the-type-system)
 * [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
 * [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
@@ -9,7 +10,6 @@
 * [2024-07-18, 10:26:29](https://lobste.rs/s/tjqgjr/first_impressions_go_1_23_s_range_over_func) - [First impressions of Go 1.23's range-over-func feature](https://boldlygo.tech/posts/2024-07-18-range-over-func/)
 * [2024-07-18, 10:08:15](https://lobste.rs/s/qu7sjm/elm_camp_2024) - [Elm Camp 2024](https://jfmengels.net/elm-camp-2024/)
 * [2024-07-18, 10:02:25](https://lobste.rs/s/zvzbmg/helix_24_07) - [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
-* [2024-07-18, 09:57:41](https://lobste.rs/s/p5f9sb/parsing_raw_data_with_existential_types) - [Parsing raw data with existential types](https://andreasimonecosta.dev/posts/parsing-raw-data-with-existential-types/)
 * [2024-07-18, 09:43:34](https://lobste.rs/s/ttmoto/sqlite_transactions) - [SQLite Transactions](https://reorchestrate.com/posts/sqlite-transactions/)
 * [2024-07-18, 08:11:42](https://lobste.rs/s/25q1wa/proposal_for_destructive_move_through) - [A proposal for destructive move through function arguments in C++ and C](https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md)
 * [2024-07-17, 23:57:11](https://lobste.rs/s/x9z3xq/rye_language) - [Rye language](https://ryelang.org/)
