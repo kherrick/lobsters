@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-18, 11:10:31](https://lobste.rs/s/mmokay/pixi_reproducible_scientific_software) - [Pixi - reproducible, scientific software workflows](https://prefix.dev/blog/pixi_for_scientists)
 * [2024-07-18, 10:26:29](https://lobste.rs/s/tjqgjr/first_impressions_go_1_23_s_range_over_func) - [First impressions of Go 1.23's range-over-func feature](https://boldlygo.tech/posts/2024-07-18-range-over-func/)
 * [2024-07-18, 10:08:15](https://lobste.rs/s/qu7sjm/elm_camp_2024) - [Elm Camp 2024](https://jfmengels.net/elm-camp-2024/)
 * [2024-07-18, 10:02:25](https://lobste.rs/s/zvzbmg/helix_24_07) - [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
@@ -21,7 +22,6 @@
 * [2024-07-17, 15:21:44](https://lobste.rs/s/rioofo/law_large_numbers_why_it_is_bad_idea_go) - [The Law of Large Numbers or Why It Is a Bad Idea to Go to the Casino](https://easylang.online/apps/tut_mcarlo.html?2407)
 * [2024-07-17, 15:10:59](https://lobste.rs/s/pdzkvz/building_new_hypermedia_systems) - [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-17, 15:03:03](https://lobste.rs/s/qxydlp/commit_messages_are_optional) - [commit messages are optional](https://schpet.com/note/git-commit-messages-are-optional)
-* [2024-07-17, 14:53:18](https://lobste.rs/s/lebknp/oscar_open_source_contributor_agent) - [Oscar, an open-source contributor agent architecture](https://go.googlesource.com/oscar/+/refs/heads/master/README.md)
 * [2024-07-17, 14:09:08](https://lobste.rs/s/kqmcbp/why_i_like_netbsd_why_portability_matters) - [Why I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
 * [2024-07-17, 12:29:15](https://lobste.rs/s/jouh8m/why_german_strings_are_everywhere) - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)

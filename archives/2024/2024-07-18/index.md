@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 11:10:31](https://lobste.rs/s/mmokay/pixi_reproducible_scientific_software) - [Pixi - reproducible, scientific software workflows](https://prefix.dev/blog/pixi_for_scientists)
 * [2024-07-18, 10:26:29](https://lobste.rs/s/tjqgjr/first_impressions_go_1_23_s_range_over_func) - [First impressions of Go 1.23's range-over-func feature](https://boldlygo.tech/posts/2024-07-18-range-over-func/)
 * [2024-07-18, 10:08:15](https://lobste.rs/s/qu7sjm/elm_camp_2024) - [Elm Camp 2024](https://jfmengels.net/elm-camp-2024/)
 * [2024-07-18, 10:02:25](https://lobste.rs/s/zvzbmg/helix_24_07) - [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
