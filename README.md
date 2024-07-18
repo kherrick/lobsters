@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-18, 08:11:42](https://lobste.rs/s/25q1wa/proposal_for_destructive_move_through) - [A proposal for destructive move through function arguments in C++ and C](https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md)
 * [2024-07-18, 06:10:49](https://lobste.rs/s/iqojxd/what_do_if_you_don_t_want_default) - [What to do if you don’t want a default constructor?](https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value)
 * [2024-07-17, 23:57:11](https://lobste.rs/s/x9z3xq/rye_language) - [Rye language](https://ryelang.org/)
 * [2024-07-17, 23:12:21](https://lobste.rs/s/tdxsxa/ubuntu_ubuntu_ubuntu_ubuntu_ubuntu) - [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
@@ -24,7 +25,6 @@
 * [2024-07-16, 19:26:37](https://lobste.rs/s/3by2tz/keep_perfecting_your_config) - [Keep perfecting your config](https://buttondown.email/hillelwayne/archive/keep-perfecting-your-config/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 * [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
-* [2024-07-16, 15:05:39](https://lobste.rs/s/wg6mgh/timezone_naive_datetimes_are_one_most) - [Timezone-naive datetimes are one of the most dangerous objects in Python](https://nerderati.com/a-python-epoch-timestamp-timezone-trap/)
 
 ## [Archives](archives/index.md)
 
