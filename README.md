@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-18, 21:20:38](https://lobste.rs/s/gc0xfa/elements_data_science) - [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
 * [2024-07-18, 20:09:57](https://lobste.rs/s/wwbt6b/gpt_4o_mini) - [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
-* [2024-07-18, 19:37:59](https://lobste.rs/s/iz67lb/apache_removes_feather_from_their) - [Apache removes the feather from their branding](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:28:28](https://lobste.rs/s/sbmv8t/objects_our_life_1983) - [The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
 * [2024-07-18, 17:18:27](https://lobste.rs/s/b7e4t8/secure_boot_on_gentoo_with_shim_grub) - [Secure Boot on Gentoo with shim & GRUB](https://www.setphaserstostun.org/posts/secure-boot-on-gentoo-with-shim-grub/)
