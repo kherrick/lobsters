@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
 * [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
 * [2024-07-18, 15:41:26](https://lobste.rs/s/2bbpss/utilizing_value_semantics_swift_2019) - [Utilizing value semantics in Swift (2019)](https://www.swiftbysundell.com/articles/utilizing-value-semantics-in-swift/)
 * [2024-07-18, 15:41:23](https://lobste.rs/s/qtmz4t/hash_based_bisect_debugging_compilers) - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
@@ -12,7 +13,6 @@
 * [2024-07-17, 23:57:11](https://lobste.rs/s/x9z3xq/rye_language) - [Rye language](https://ryelang.org/)
 * [2024-07-17, 23:12:21](https://lobste.rs/s/tdxsxa/ubuntu_ubuntu_ubuntu_ubuntu_ubuntu) - [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
 * [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
-* [2024-07-17, 21:20:12](https://lobste.rs/s/utmsph/age_plugins) - [age Plugins](https://words.filippo.io/dispatches/age-plugins/)
 * [2024-07-17, 20:53:57](https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 20:04:53](https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
 * [2024-07-17, 19:10:05](https://lobste.rs/s/3l9eiw/89_things_i_know_about_git_commits) - [89 things I know about Git commits](https://www.jvt.me/posts/2024/07/12/things-know-commits/)
