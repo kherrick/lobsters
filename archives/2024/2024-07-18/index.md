@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 10:08:15](https://lobste.rs/s/qu7sjm/elm_camp_2024) - [Elm Camp 2024](https://jfmengels.net/elm-camp-2024/)
+* [2024-07-18, 10:02:25](https://lobste.rs/s/zvzbmg/helix_24_07) - [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
+* [2024-07-18, 09:57:41](https://lobste.rs/s/p5f9sb/parsing_raw_data_with_existential_types) - [Parsing raw data with existential types](https://andreasimonecosta.dev/posts/parsing-raw-data-with-existential-types/)
 * [2024-07-18, 09:43:34](https://lobste.rs/s/ttmoto/sqlite_transactions) - [SQLite Transactions](https://reorchestrate.com/posts/sqlite-transactions/)
 * [2024-07-18, 08:56:10](https://lobste.rs/s/icm64o/comparing_performance_opencl_cuda_hip) - [Comparing the performance of OpenCL, CUDA, and HIP](https://futhark-lang.org/blog/2024-07-17-opencl-cuda-hip.html)
 * [2024-07-18, 08:11:42](https://lobste.rs/s/25q1wa/proposal_for_destructive_move_through) - [A proposal for destructive move through function arguments in C++ and C](https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md)
