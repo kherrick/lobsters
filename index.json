@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-07-18, 10:08:15",
+      "https://lobste.rs/s/qu7sjm/elm_camp_2024"
+    ],
+    [
+      "Elm Camp 2024",
+      "https://jfmengels.net/elm-camp-2024/"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 10:02:25",
       "https://lobste.rs/s/zvzbmg/helix_24_07"
     ],
@@ -67,16 +77,6 @@
     [
       "SQLite Transactions",
       "https://reorchestrate.com/posts/sqlite-transactions/"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 08:11:42",
-      "https://lobste.rs/s/25q1wa/proposal_for_destructive_move_through"
-    ],
-    [
-      "A proposal for destructive move through function arguments in C++ and C",
-      "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
     ]
   ],
   [
