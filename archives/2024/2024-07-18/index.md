@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
 * [2024-07-18, 15:41:26](https://lobste.rs/s/2bbpss/utilizing_value_semantics_swift_2019) - [Utilizing value semantics in Swift (2019)](https://www.swiftbysundell.com/articles/utilizing-value-semantics-in-swift/)
 * [2024-07-18, 15:41:23](https://lobste.rs/s/qtmz4t/hash_based_bisect_debugging_compilers) - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 14:37:14](https://lobste.rs/s/p0esic/air_horner) - [The Air Horner](https://airhorner.com/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
 * [2024-07-18, 15:41:26](https://lobste.rs/s/2bbpss/utilizing_value_semantics_swift_2019) - [Utilizing value semantics in Swift (2019)](https://www.swiftbysundell.com/articles/utilizing-value-semantics-in-swift/)
 * [2024-07-18, 15:41:23](https://lobste.rs/s/qtmz4t/hash_based_bisect_debugging_compilers) - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 11:10:31](https://lobste.rs/s/mmokay/pixi_reproducible_scientific_software) - [Pixi - reproducible, scientific software workflows](https://prefix.dev/blog/pixi_for_scientists)
@@ -23,7 +24,6 @@
 * [2024-07-17, 15:10:59](https://lobste.rs/s/pdzkvz/building_new_hypermedia_systems) - [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-17, 15:03:03](https://lobste.rs/s/qxydlp/commit_messages_are_optional) - [commit messages are optional](https://schpet.com/note/git-commit-messages-are-optional)
 * [2024-07-17, 14:09:08](https://lobste.rs/s/kqmcbp/why_i_like_netbsd_why_portability_matters) - [Why I Like NetBSD, or Why Portability Matters](https://mccd.space/posts/netbsd-review/)
-* [2024-07-17, 12:29:15](https://lobste.rs/s/jouh8m/why_german_strings_are_everywhere) - [Why German Strings are Everywhere](https://cedardb.com/blog/german_strings/)
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 
 ## [Archives](archives/index.md)
