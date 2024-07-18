@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-18, 14:37:14",
+      "https://lobste.rs/s/p0esic/air_horner"
+    ],
+    [
+      "The Air Horner",
+      "https://airhorner.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 12:34:41",
       "https://lobste.rs/s/stkaeo/slint_1_7_released_with_new_widgets_multi"
     ],
@@ -57,16 +67,6 @@
     [
       "SQLite Transactions",
       "https://reorchestrate.com/posts/sqlite-transactions/"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 08:56:10",
-      "https://lobste.rs/s/icm64o/comparing_performance_opencl_cuda_hip"
-    ],
-    [
-      "Comparing the performance of OpenCL, CUDA, and HIP",
-      "https://futhark-lang.org/blog/2024-07-17-opencl-cuda-hip.html"
     ]
   ],
   [
