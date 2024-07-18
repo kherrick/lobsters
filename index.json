@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-18, 11:10:31",
+      "https://lobste.rs/s/mmokay/pixi_reproducible_scientific_software"
+    ],
+    [
+      "Pixi - reproducible, scientific software workflows",
+      "https://prefix.dev/blog/pixi_for_scientists"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 10:26:29",
       "https://lobste.rs/s/tjqgjr/first_impressions_go_1_23_s_range_over_func"
     ],
@@ -207,16 +217,6 @@
     [
       "commit messages are optional",
       "https://schpet.com/note/git-commit-messages-are-optional"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 14:53:18",
-      "https://lobste.rs/s/lebknp/oscar_open_source_contributor_agent"
-    ],
-    [
-      "Oscar, an open-source contributor agent architecture",
-      "https://go.googlesource.com/oscar/+/refs/heads/master/README.md"
     ]
   ],
   [
