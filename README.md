@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-07-18, 21:53:45](https://lobste.rs/s/yb4fto/how_many_languages_does_wikimedia_search) - [How Many Languages Does Wikimedia Search Support?](https://techblog.wikimedia.org/2024/07/18/how-many-languages-does-wikimedia-search-support/)
+* [2024-07-18, 21:20:38](https://lobste.rs/s/gc0xfa/elements_data_science) - [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
 * [2024-07-18, 21:04:14](https://lobste.rs/s/dzpfy8/european_union_must_keep_funding_free) - [The European Union must keep funding free software - HedgeDoc](https://pad.public.cat/lettre-NCP-NGI)
 * [2024-07-18, 20:09:57](https://lobste.rs/s/wwbt6b/gpt_4o_mini) - [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
-* [2024-07-18, 17:28:28](https://lobste.rs/s/sbmv8t/objects_our_life_1983) - [The Objects of Our Life (1983)](https://stevejobsarchive.com/exhibits/objects-of-our-life)
 * [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
 * [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
 * [2024-07-18, 15:41:23](https://lobste.rs/s/qtmz4t/hash_based_bisect_debugging_compilers) - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
