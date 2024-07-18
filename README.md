@@ -4,6 +4,7 @@
 * [2024-07-17, 23:57:11](https://lobste.rs/s/x9z3xq/rye_language) - [Rye language](https://ryelang.org/)
 * [2024-07-17, 23:12:21](https://lobste.rs/s/tdxsxa/ubuntu_ubuntu_ubuntu_ubuntu_ubuntu) - [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
 * [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
+* [2024-07-17, 22:01:27](https://lobste.rs/s/jf73cx/sapwned_sap_ai_vulnerabilities_expose) - [SAPwned: SAP AI vulnerabilities expose customers’ cloud environments and private AI artifacts](https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security)
 * [2024-07-17, 21:20:12](https://lobste.rs/s/utmsph/age_plugins) - [age Plugins](https://words.filippo.io/dispatches/age-plugins/)
 * [2024-07-17, 20:53:57](https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 20:04:53](https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
@@ -24,7 +25,6 @@
 * [2024-07-16, 19:14:27](https://lobste.rs/s/qcsc40/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee) - [eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee (2018)](https://github.com/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee/eeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeeee)
 * [2024-07-16, 18:51:33](https://lobste.rs/s/ijoqer/how_i_build_simple_mac_apps_using_go) - [How I build simple Mac apps using Go](https://dev.to/progrium/how-i-build-simple-mac-apps-using-go-104j)
 * [2024-07-16, 15:05:39](https://lobste.rs/s/wg6mgh/timezone_naive_datetimes_are_one_most) - [Timezone-naive datetimes are one of the most dangerous objects in Python](https://nerderati.com/a-python-epoch-timestamp-timezone-trap/)
-* [2024-07-16, 13:01:59](https://lobste.rs/s/zi4mfv/hare_0_24_2_released) - [Hare 0.24.2 released](https://harelang.org/blog/2024-07-13-hare-0.24.2-release/)
 
 ## [Archives](archives/index.md)
 
