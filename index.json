@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-18, 06:10:49",
+      "https://lobste.rs/s/iqojxd/what_do_if_you_don_t_want_default"
+    ],
+    [
+      "What to do if you don’t want a default constructor?",
+      "https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 23:57:11",
       "https://lobste.rs/s/x9z3xq/rye_language"
     ],
@@ -227,16 +237,6 @@
     [
       "Timezone-naive datetimes are one of the most dangerous objects in Python",
       "https://nerderati.com/a-python-epoch-timestamp-timezone-trap/"
-    ]
-  ],
-  [
-    [
-      "2024-07-16, 14:26:41",
-      "https://lobste.rs/s/8yzker/why_does_chromaticity_diagram_look_like"
-    ],
-    [
-      "Why does the chromaticity diagram look like that?",
-      "https://jlongster.com/why-chromaticity-shape"
     ]
   ],
   [
