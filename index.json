@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-18, 15:41:26",
+      "https://lobste.rs/s/2bbpss/utilizing_value_semantics_swift_2019"
+    ],
+    [
+      "Utilizing value semantics in Swift (2019)",
+      "https://www.swiftbysundell.com/articles/utilizing-value-semantics-in-swift/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 15:41:23",
+      "https://lobste.rs/s/qtmz4t/hash_based_bisect_debugging_compilers"
+    ],
+    [
+      "Hash-Based Bisect Debugging in Compilers and Runtimes",
+      "https://research.swtch.com/bisect"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 12:34:41",
       "https://lobste.rs/s/stkaeo/slint_1_7_released_with_new_widgets_multi"
     ],
@@ -31,16 +51,6 @@
   ],
   [
     [
-      "2024-07-18, 10:08:15",
-      "https://lobste.rs/s/qu7sjm/elm_camp_2024"
-    ],
-    [
-      "Elm Camp 2024",
-      "https://jfmengels.net/elm-camp-2024/"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 10:02:25",
       "https://lobste.rs/s/zvzbmg/helix_24_07"
     ],
@@ -67,16 +77,6 @@
     [
       "SQLite Transactions",
       "https://reorchestrate.com/posts/sqlite-transactions/"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 08:11:42",
-      "https://lobste.rs/s/25q1wa/proposal_for_destructive_move_through"
-    ],
-    [
-      "A proposal for destructive move through function arguments in C++ and C",
-      "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
     ]
   ],
   [
