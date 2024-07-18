@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-18, 19:42:04",
+      "https://lobste.rs/s/6gwqnu/immich_introduces_paid_license_model"
+    ],
+    [
+      "Immich introduces a paid license model",
+      "https://github.com/immich-app/immich/discussions/11186"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 19:27:20",
       "https://lobste.rs/s/4kd2ww/type_system_for_rcl_part_2_type_system"
     ],
@@ -87,16 +97,6 @@
     [
       "Helix 24.07",
       "https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 09:57:41",
-      "https://lobste.rs/s/p5f9sb/parsing_raw_data_with_existential_types"
-    ],
-    [
-      "Parsing raw data with existential types",
-      "https://andreasimonecosta.dev/posts/parsing-raw-data-with-existential-types/"
     ]
   ],
   [
