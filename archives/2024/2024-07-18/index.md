@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-18](index.md)
 
+* [2024-07-18, 15:41:26](https://lobste.rs/s/2bbpss/utilizing_value_semantics_swift_2019) - [Utilizing value semantics in Swift (2019)](https://www.swiftbysundell.com/articles/utilizing-value-semantics-in-swift/)
+* [2024-07-18, 15:41:23](https://lobste.rs/s/qtmz4t/hash_based_bisect_debugging_compilers) - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 14:37:14](https://lobste.rs/s/p0esic/air_horner) - [The Air Horner](https://airhorner.com/)
 * [2024-07-18, 12:34:41](https://lobste.rs/s/stkaeo/slint_1_7_released_with_new_widgets_multi) - [Slint 1.7 Released with New Widgets, Multi-Window Support, and Live-Preview Redesign](https://slint.dev/blog/slint-1.7-released)
 * [2024-07-18, 11:10:31](https://lobste.rs/s/mmokay/pixi_reproducible_scientific_software) - [Pixi - reproducible, scientific software workflows](https://prefix.dev/blog/pixi_for_scientists)
