@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-07-18, 14:37:14",
-      "https://lobste.rs/s/p0esic/air_horner"
-    ],
-    [
-      "The Air Horner",
-      "https://airhorner.com/"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 12:34:41",
       "https://lobste.rs/s/stkaeo/slint_1_7_released_with_new_widgets_multi"
     ],
@@ -77,6 +67,16 @@
     [
       "SQLite Transactions",
       "https://reorchestrate.com/posts/sqlite-transactions/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 08:11:42",
+      "https://lobste.rs/s/25q1wa/proposal_for_destructive_move_through"
+    ],
+    [
+      "A proposal for destructive move through function arguments in C++ and C",
+      "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
     ]
   ],
   [
