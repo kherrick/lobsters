@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-18, 10:08:15",
+      "https://lobste.rs/s/qu7sjm/elm_camp_2024"
+    ],
+    [
+      "Elm Camp 2024",
+      "https://jfmengels.net/elm-camp-2024/"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 10:02:25",
+      "https://lobste.rs/s/zvzbmg/helix_24_07"
+    ],
+    [
+      "Helix 24.07",
+      "https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14"
+    ]
+  ],
+  [
+    [
+      "2024-07-18, 09:57:41",
+      "https://lobste.rs/s/p5f9sb/parsing_raw_data_with_existential_types"
+    ],
+    [
+      "Parsing raw data with existential types",
+      "https://andreasimonecosta.dev/posts/parsing-raw-data-with-existential-types/"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 09:43:34",
       "https://lobste.rs/s/ttmoto/sqlite_transactions"
     ],
@@ -31,16 +61,6 @@
   ],
   [
     [
-      "2024-07-18, 06:10:49",
-      "https://lobste.rs/s/iqojxd/what_do_if_you_don_t_want_default"
-    ],
-    [
-      "What to do if you don’t want a default constructor?",
-      "https://www.sandordargo.com/blog/2024/07/17/what-should-be-a-default-value"
-    ]
-  ],
-  [
-    [
       "2024-07-17, 23:57:11",
       "https://lobste.rs/s/x9z3xq/rye_language"
     ],
@@ -67,16 +87,6 @@
     [
       "Gotchas with SQLite in Production",
       "https://blog.pecar.me/sqlite-prod"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 22:01:27",
-      "https://lobste.rs/s/jf73cx/sapwned_sap_ai_vulnerabilities_expose"
-    ],
-    [
-      "SAPwned: SAP AI vulnerabilities expose customers’ cloud environments and private AI artifacts",
-      "https://www.wiz.io/blog/sapwned-sap-ai-vulnerabilities-ai-security"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "C++ Must Become Safer",
       "https://www.alilleybrinker.com/blog/cpp-must-become-safer/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 15:44:59",
-      "https://lobste.rs/s/pywkto/what_are_ways_compilers_recognize"
-    ],
-    [
-      "What are the ways compilers recognize complex patterns?",
-      "https://langdev.stackexchange.com/questions/3942/what-are-the-ways-compilers-recognize-complex-patterns"
     ]
   ],
   [
