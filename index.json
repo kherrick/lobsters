@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-18, 17:20:43",
+      "https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with"
+    ],
+    [
+      "Postgres major version upgrades with minimal downtime",
+      "https://xata.io/blog/postgres-major-version-upgrades"
+    ]
+  ],
+  [
+    [
       "2024-07-18, 17:13:36",
       "https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make"
     ],
@@ -117,16 +127,6 @@
     [
       "Gotchas with SQLite in Production",
       "https://blog.pecar.me/sqlite-prod"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 21:20:12",
-      "https://lobste.rs/s/utmsph/age_plugins"
-    ],
-    [
-      "age Plugins",
-      "https://words.filippo.io/dispatches/age-plugins/"
     ]
   ],
   [
