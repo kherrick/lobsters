@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-07-18, 08:11:42",
+      "https://lobste.rs/s/25q1wa/proposal_for_destructive_move_through"
+    ],
+    [
+      "A proposal for destructive move through function arguments in C++ and C",
+      "https://github.com/anordal/rustlike/blob/master/proposals/destructive%20move.md"
+    ]
+  ],
+  [
+    [
       "2024-07-17, 23:57:11",
       "https://lobste.rs/s/x9z3xq/rye_language"
     ],
@@ -227,16 +237,6 @@
     [
       "commit messages are optional",
       "https://schpet.com/note/git-commit-messages-are-optional"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 14:09:08",
-      "https://lobste.rs/s/kqmcbp/why_i_like_netbsd_why_portability_matters"
-    ],
-    [
-      "Why I Like NetBSD, or Why Portability Matters",
-      "https://mccd.space/posts/netbsd-review/"
     ]
   ],
   [
