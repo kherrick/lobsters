@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-19, 19:06:44",
+      "https://lobste.rs/s/oxvpm4/fully_randomized_pointers"
+    ],
+    [
+      "Fully Randomized Pointers",
+      "https://arxiv.org/pdf/2405.12513"
+    ]
+  ],
+  [
+    [
+      "2024-07-19, 19:04:25",
+      "https://lobste.rs/s/ryigd3/randomize_running_function_when_it_is"
+    ],
+    [
+      "Randomize the Running Function When It Is Disclosed",
+      "https://www.cs.nthu.edu.tw/~ychung/journal/IEEE-TC-2024.pdf"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 17:41:40",
       "https://lobste.rs/s/hq5qw2/delphi_htmx"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-07-18, 21:20:38",
-      "https://lobste.rs/s/gc0xfa/elements_data_science"
-    ],
-    [
-      "Elements of Data Science",
-      "https://allendowney.github.io/ElementsOfDataScience/README.html"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 21:04:14",
       "https://lobste.rs/s/dzpfy8/european_union_must_keep_funding_free"
     ],
@@ -237,16 +247,6 @@
     [
       "ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu",
       "http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 22:32:09",
-      "https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production"
-    ],
-    [
-      "Gotchas with SQLite in Production",
-      "https://blog.pecar.me/sqlite-prod"
     ]
   ]
 ]
