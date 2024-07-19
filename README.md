@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-19, 19:34:53](https://lobste.rs/s/egwtgx/bounds_checking_flexible_array_members) - [Bounds Checking Flexible Array Members](https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html?m=1)
 * [2024-07-19, 19:06:44](https://lobste.rs/s/oxvpm4/fully_randomized_pointers) - [Fully Randomized Pointers](https://arxiv.org/pdf/2405.12513)
 * [2024-07-19, 19:04:25](https://lobste.rs/s/ryigd3/randomize_running_function_when_it_is) - [Randomize the Running Function When It Is Disclosed](https://www.cs.nthu.edu.tw/~ychung/journal/IEEE-TC-2024.pdf)
 * [2024-07-19, 17:41:40](https://lobste.rs/s/hq5qw2/delphi_htmx) - [Delphi and HTMX](https://blog.marcocantu.com/blog/2024-july-delphi-htmx.html)
@@ -20,7 +21,6 @@
 * [2024-07-18, 20:09:57](https://lobste.rs/s/wwbt6b/gpt_4o_mini) - [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
 * [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
-* [2024-07-18, 15:41:23](https://lobste.rs/s/qtmz4t/hash_based_bisect_debugging_compilers) - [Hash-Based Bisect Debugging in Compilers and Runtimes](https://research.swtch.com/bisect)
 * [2024-07-18, 11:10:31](https://lobste.rs/s/mmokay/pixi_reproducible_scientific_software) - [Pixi - reproducible, scientific software workflows](https://prefix.dev/blog/pixi_for_scientists)
 * [2024-07-18, 10:26:29](https://lobste.rs/s/tjqgjr/first_impressions_go_1_23_s_range_over_func) - [First impressions of Go 1.23's range-over-func feature](https://boldlygo.tech/posts/2024-07-18-range-over-func/)
 * [2024-07-18, 10:02:25](https://lobste.rs/s/zvzbmg/helix_24_07) - [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
