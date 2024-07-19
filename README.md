@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-19, 12:27:22](https://lobste.rs/s/35ufmq/avr_programmer_for_c64) - [An AVR Programmer for the C64](http://www.linusakesson.net/software/avrprg64/index.php)
 * [2024-07-19, 11:52:39](https://lobste.rs/s/8lcxig/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/8lcxig/what_are_you_doing_this_weekend)
 * [2024-07-19, 11:22:53](https://lobste.rs/s/u9ugid/vyxos_my_laptop_server_nix_configuration) - [vyxos: My laptop and server Nix configuration](https://github.com/kivikakk/vyxos)
 * [2024-07-19, 08:50:02](https://lobste.rs/s/nsl1fc/new_features_c_26) - [New features in C++26](https://lwn.net/Articles/979870/)
@@ -23,7 +24,6 @@
 * [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
 * [2024-07-17, 20:04:53](https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
 * [2024-07-17, 15:55:07](https://lobste.rs/s/htnvea/c_must_become_safer) - [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
-* [2024-07-17, 15:10:59](https://lobste.rs/s/pdzkvz/building_new_hypermedia_systems) - [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
 * [2024-07-17, 15:03:03](https://lobste.rs/s/qxydlp/commit_messages_are_optional) - [commit messages are optional](https://schpet.com/note/git-commit-messages-are-optional)
 
 ## [Archives](archives/index.md)
