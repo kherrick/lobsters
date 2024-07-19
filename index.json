@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-19, 08:17:16",
+      "https://lobste.rs/s/aqgj1z/row_pattern_recognition_feature_for"
+    ],
+    [
+      "Row pattern recognition feature for PostgreSQL",
+      "https://pgsqlpgpool.blogspot.com/2024/07/row-pattern-recognition-feature-for.html"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 07:41:22",
       "https://lobste.rs/s/xohrwz/where_should_visual_programming_go"
     ],
@@ -157,16 +167,6 @@
     [
       "Helix 24.07",
       "https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 09:43:34",
-      "https://lobste.rs/s/ttmoto/sqlite_transactions"
-    ],
-    [
-      "SQLite Transactions",
-      "https://reorchestrate.com/posts/sqlite-transactions/"
     ]
   ],
   [
