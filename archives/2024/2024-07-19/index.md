@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 15:13:40](https://lobste.rs/s/t21ihj/radxa_x4_low_cost_credit_card_sized_intel) - [Radxa X4 low-cost, credit card-sized Intel N100 SBC goes for $60 and up](https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/)
 * [2024-07-19, 14:07:29](https://lobste.rs/s/vp7jca/pin) - [Pin](https://without.boats/blog/pin/)
 * [2024-07-19, 12:27:22](https://lobste.rs/s/35ufmq/avr_programmer_for_c64) - [An AVR Programmer for the C64](http://www.linusakesson.net/software/avrprg64/index.php)
 * [2024-07-19, 11:52:39](https://lobste.rs/s/8lcxig/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/8lcxig/what_are_you_doing_this_weekend)
