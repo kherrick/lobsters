@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-19, 07:41:22](https://lobste.rs/s/xohrwz/where_should_visual_programming_go) - [Where Should Visual Programming Go?](https://tonsky.me/blog/diagrams/)
 * [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 * [2024-07-19, 02:49:07](https://lobste.rs/s/uifcgq/nscopyobject_griefer_keeps_on_griefing) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-19, 02:46:43](https://lobste.rs/s/ubqd8s/tests_you_love_read_write_change) - [Tests you love to read, write and change](https://jaywhy13.hashnode.dev/tests-you-love-to-read-write-and-change)
@@ -20,7 +21,6 @@
 * [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
 * [2024-07-17, 20:53:57](https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 20:04:53](https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
-* [2024-07-17, 16:51:46](https://lobste.rs/s/voskxv/pitfalls_app_browsers) - [The Pitfalls of In-App Browsers](https://frontendmasters.com/blog/the-pitfalls-of-in-app-browsers/)
 * [2024-07-17, 15:55:07](https://lobste.rs/s/htnvea/c_must_become_safer) - [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
 * [2024-07-17, 15:21:44](https://lobste.rs/s/rioofo/law_large_numbers_why_it_is_bad_idea_go) - [The Law of Large Numbers or Why It Is a Bad Idea to Go to the Casino](https://easylang.online/apps/tut_mcarlo.html?2407)
 * [2024-07-17, 15:10:59](https://lobste.rs/s/pdzkvz/building_new_hypermedia_systems) - [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
