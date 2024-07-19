@@ -8,7 +8,7 @@
 * [2024-07-19, 01:44:08](https://lobste.rs/s/le33cp/google_url_shortener_goo_gl_links_will_no) - [Google URL Shortener (goo.gl) links will no longer be available](https://developers.googleblog.com/en/google-url-shortener-links-will-no-longer-be-available/)
 * [2024-07-19, 01:43:20](https://lobste.rs/s/nrjpwb/writing_mp4_muxer_for_fun_profit) - [Writing an MP4 Muxer for Fun and Profit](https://obsproject.com/blog/obs-studio-hybrid-mp4)
 * [2024-07-18, 21:20:38](https://lobste.rs/s/gc0xfa/elements_data_science) - [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
-* [2024-07-18, 21:04:14](https://lobste.rs/s/dzpfy8/european_union_must_keep_funding_free) - [The European Union must keep funding free software - HedgeDoc](https://pad.public.cat/lettre-NCP-NGI)
+* [2024-07-18, 21:04:14](https://lobste.rs/s/dzpfy8/european_union_must_keep_funding_free) - [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
 * [2024-07-18, 20:09:57](https://lobste.rs/s/wwbt6b/gpt_4o_mini) - [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [2024-07-18, 19:37:59](https://lobste.rs/s/iz67lb/apache_removes_feather_from_their) - [Apache removes the feather from their branding](https://news.apache.org/foundation/entry/evolving-the-asf-brand)
 * [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
