@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 14:07:29](https://lobste.rs/s/vp7jca/pin) - [Pin](https://without.boats/blog/pin/)
 * [2024-07-19, 12:27:22](https://lobste.rs/s/35ufmq/avr_programmer_for_c64) - [An AVR Programmer for the C64](http://www.linusakesson.net/software/avrprg64/index.php)
 * [2024-07-19, 11:52:39](https://lobste.rs/s/8lcxig/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/8lcxig/what_are_you_doing_this_weekend)
 * [2024-07-19, 11:22:53](https://lobste.rs/s/u9ugid/vyxos_my_laptop_server_nix_configuration) - [vyxos: My laptop and server Nix configuration](https://github.com/kivikakk/vyxos)
