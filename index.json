@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-19, 19:34:53",
+      "https://lobste.rs/s/egwtgx/bounds_checking_flexible_array_members"
+    ],
+    [
+      "Bounds Checking Flexible Array Members",
+      "https://opensource.googleblog.com/2024/07/bounds-checking-flexible-array-members.html?m=1"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 19:06:44",
       "https://lobste.rs/s/oxvpm4/fully_randomized_pointers"
     ],
@@ -197,16 +207,6 @@
     [
       "Semaphores in Golang and GNU make",
       "https://dotat.at/@/2024-07-18-semaphores.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 15:41:23",
-      "https://lobste.rs/s/qtmz4t/hash_based_bisect_debugging_compilers"
-    ],
-    [
-      "Hash-Based Bisect Debugging in Compilers and Runtimes",
-      "https://research.swtch.com/bisect"
     ]
   ],
   [
