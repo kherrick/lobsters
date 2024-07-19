@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 08:17:16](https://lobste.rs/s/aqgj1z/row_pattern_recognition_feature_for) - [Row pattern recognition feature for PostgreSQL](https://pgsqlpgpool.blogspot.com/2024/07/row-pattern-recognition-feature-for.html)
 * [2024-07-19, 07:41:22](https://lobste.rs/s/xohrwz/where_should_visual_programming_go) - [Where Should Visual Programming Go?](https://tonsky.me/blog/diagrams/)
 * [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 * [2024-07-19, 02:49:07](https://lobste.rs/s/uifcgq/nscopyobject_griefer_keeps_on_griefing) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
