@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-19, 11:22:53](https://lobste.rs/s/u9ugid/vyxos_my_laptop_server_nix_configuration) - [vyxos: My laptop and server Nix configuration](https://github.com/kivikakk/vyxos)
 * [2024-07-19, 08:50:02](https://lobste.rs/s/nsl1fc/new_features_c_26) - [New features in C++26](https://lwn.net/Articles/979870/)
 * [2024-07-19, 08:17:16](https://lobste.rs/s/aqgj1z/row_pattern_recognition_feature_for) - [Row pattern recognition feature for PostgreSQL](https://pgsqlpgpool.blogspot.com/2024/07/row-pattern-recognition-feature-for.html)
 * [2024-07-19, 07:41:22](https://lobste.rs/s/xohrwz/where_should_visual_programming_go) - [Where Should Visual Programming Go?](https://tonsky.me/blog/diagrams/)
@@ -20,7 +21,6 @@
 * [2024-07-18, 10:02:25](https://lobste.rs/s/zvzbmg/helix_24_07) - [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
 * [2024-07-17, 23:12:21](https://lobste.rs/s/tdxsxa/ubuntu_ubuntu_ubuntu_ubuntu_ubuntu) - [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
 * [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
-* [2024-07-17, 20:53:57](https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open) - [NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules](https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/)
 * [2024-07-17, 20:04:53](https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your) - [Google Now Defaults to Not Indexing Your Content](https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/)
 * [2024-07-17, 15:55:07](https://lobste.rs/s/htnvea/c_must_become_safer) - [C++ Must Become Safer](https://www.alilleybrinker.com/blog/cpp-must-become-safer/)
 * [2024-07-17, 15:10:59](https://lobste.rs/s/pdzkvz/building_new_hypermedia_systems) - [Building the new Hypermedia Systems](https://dz4k.com/2024/new-hypermedia-systems/)
