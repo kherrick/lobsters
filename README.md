@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-19, 22:36:38](https://lobste.rs/s/rvnhee/fair_core_license) - [Fair Core License](https://fcl.dev/)
 * [2024-07-19, 22:14:47](https://lobste.rs/s/qwhnao/afternoon_with_kaios) - [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
 * [2024-07-19, 19:54:55](https://lobste.rs/s/hhloii/psychological_affordances_can_provide) - [Psychological Affordances Can Provide a Missing Explanatory Layer for Why Interventions to Improve Developer Experience Take Hold or Fail](https://osf.io/preprints/psyarxiv/qz43x)
 * [2024-07-19, 19:48:59](https://lobste.rs/s/5ucyrm/playing_guitar_tablatures_rust) - [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
@@ -18,7 +19,6 @@
 * [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 * [2024-07-19, 02:49:07](https://lobste.rs/s/uifcgq/nscopyobject_griefer_keeps_on_griefing) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-19, 02:46:43](https://lobste.rs/s/ubqd8s/tests_you_love_read_write_change) - [Tests you love to read, write and change](https://jaywhy13.hashnode.dev/tests-you-love-to-read-write-and-change)
-* [2024-07-18, 21:04:14](https://lobste.rs/s/dzpfy8/european_union_must_keep_funding_free) - [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
 * [2024-07-18, 20:09:57](https://lobste.rs/s/wwbt6b/gpt_4o_mini) - [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
 * [2024-07-18, 11:10:31](https://lobste.rs/s/mmokay/pixi_reproducible_scientific_software) - [Pixi - reproducible, scientific software workflows](https://prefix.dev/blog/pixi_for_scientists)
