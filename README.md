@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-19, 19:06:44](https://lobste.rs/s/oxvpm4/fully_randomized_pointers) - [Fully Randomized Pointers](https://arxiv.org/pdf/2405.12513)
+* [2024-07-19, 19:04:25](https://lobste.rs/s/ryigd3/randomize_running_function_when_it_is) - [Randomize the Running Function When It Is Disclosed](https://www.cs.nthu.edu.tw/~ychung/journal/IEEE-TC-2024.pdf)
 * [2024-07-19, 17:41:40](https://lobste.rs/s/hq5qw2/delphi_htmx) - [Delphi and HTMX](https://blog.marcocantu.com/blog/2024-july-delphi-htmx.html)
 * [2024-07-19, 15:49:08](https://lobste.rs/s/opzwif/pycon_us_2024) - [PyCon US 2024](https://youtube.com/playlist?list=PL2Uw4_HvXqvYhjub9bw4uDAmNtprgAvlJ)
 * [2024-07-19, 15:34:12](https://lobste.rs/s/tr8ozm/why_is_spawning_new_process_node_so_slow) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
@@ -14,7 +16,6 @@
 * [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 * [2024-07-19, 02:49:07](https://lobste.rs/s/uifcgq/nscopyobject_griefer_keeps_on_griefing) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-19, 02:46:43](https://lobste.rs/s/ubqd8s/tests_you_love_read_write_change) - [Tests you love to read, write and change](https://jaywhy13.hashnode.dev/tests-you-love-to-read-write-and-change)
-* [2024-07-18, 21:20:38](https://lobste.rs/s/gc0xfa/elements_data_science) - [Elements of Data Science](https://allendowney.github.io/ElementsOfDataScience/README.html)
 * [2024-07-18, 21:04:14](https://lobste.rs/s/dzpfy8/european_union_must_keep_funding_free) - [The European Union must keep funding free software](https://pad.public.cat/lettre-NCP-NGI)
 * [2024-07-18, 20:09:57](https://lobste.rs/s/wwbt6b/gpt_4o_mini) - [GPT-4o mini](https://openai.com/index/gpt-4o-mini-advancing-cost-efficient-intelligence/)
 * [2024-07-18, 17:20:43](https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with) - [Postgres major version upgrades with minimal downtime](https://xata.io/blog/postgres-major-version-upgrades)
@@ -24,7 +25,6 @@
 * [2024-07-18, 10:26:29](https://lobste.rs/s/tjqgjr/first_impressions_go_1_23_s_range_over_func) - [First impressions of Go 1.23's range-over-func feature](https://boldlygo.tech/posts/2024-07-18-range-over-func/)
 * [2024-07-18, 10:02:25](https://lobste.rs/s/zvzbmg/helix_24_07) - [Helix 24.07](https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14)
 * [2024-07-17, 23:12:21](https://lobste.rs/s/tdxsxa/ubuntu_ubuntu_ubuntu_ubuntu_ubuntu) - [ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu](http://ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.ubuntu.archive.ubuntu.com/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/ubuntu/)
-* [2024-07-17, 22:32:09](https://lobste.rs/s/rvsgqy/gotchas_with_sqlite_production) - [Gotchas with SQLite in Production](https://blog.pecar.me/sqlite-prod)
 
 ## [Archives](archives/index.md)
 

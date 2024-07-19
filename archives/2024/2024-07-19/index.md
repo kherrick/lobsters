@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 19:06:44](https://lobste.rs/s/oxvpm4/fully_randomized_pointers) - [Fully Randomized Pointers](https://arxiv.org/pdf/2405.12513)
+* [2024-07-19, 19:04:25](https://lobste.rs/s/ryigd3/randomize_running_function_when_it_is) - [Randomize the Running Function When It Is Disclosed](https://www.cs.nthu.edu.tw/~ychung/journal/IEEE-TC-2024.pdf)
 * [2024-07-19, 17:41:40](https://lobste.rs/s/hq5qw2/delphi_htmx) - [Delphi and HTMX](https://blog.marcocantu.com/blog/2024-july-delphi-htmx.html)
 * [2024-07-19, 15:49:08](https://lobste.rs/s/opzwif/pycon_us_2024) - [PyCon US 2024](https://youtube.com/playlist?list=PL2Uw4_HvXqvYhjub9bw4uDAmNtprgAvlJ)
 * [2024-07-19, 15:34:12](https://lobste.rs/s/tr8ozm/why_is_spawning_new_process_node_so_slow) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
