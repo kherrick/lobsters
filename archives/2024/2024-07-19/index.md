@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-19](index.md)
 
+* [2024-07-19, 22:14:47](https://lobste.rs/s/qwhnao/afternoon_with_kaios) - [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
 * [2024-07-19, 20:21:32](https://lobste.rs/s/j0mhqc/why_story_points_don_t_work) - [Why Story Points Don't Work](https://two-wrongs.com/why-story-points-dont-work)
 * [2024-07-19, 19:54:55](https://lobste.rs/s/hhloii/psychological_affordances_can_provide) - [Psychological Affordances Can Provide a Missing Explanatory Layer for Why Interventions to Improve Developer Experience Take Hold or Fail](https://osf.io/preprints/psyarxiv/qz43x)
 * [2024-07-19, 19:48:59](https://lobste.rs/s/5ucyrm/playing_guitar_tablatures_rust) - [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
