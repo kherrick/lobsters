@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-19, 15:34:12",
+      "https://lobste.rs/s/tr8ozm/why_is_spawning_new_process_node_so_slow"
+    ],
+    [
+      "Why is spawning a new process in Node so slow?",
+      "https://blog.val.town/blog/node-spawn-performance/"
+    ]
+  ],
+  [
+    [
       "2024-07-19, 15:19:13",
       "https://lobste.rs/s/r9jxyg/train_host_free_chatbot_clone_yourself"
     ],
@@ -237,16 +247,6 @@
     [
       "Gotchas with SQLite in Production",
       "https://blog.pecar.me/sqlite-prod"
-    ]
-  ],
-  [
-    [
-      "2024-07-17, 20:04:53",
-      "https://lobste.rs/s/lyqe4o/google_now_defaults_not_indexing_your"
-    ],
-    [
-      "Google Now Defaults to Not Indexing Your Content",
-      "https://www.vincentschmalbach.com/google-now-defaults-to-not-indexing-your-content/"
     ]
   ]
 ]
