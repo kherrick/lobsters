@@ -121,16 +121,6 @@
   ],
   [
     [
-      "2024-07-18, 19:37:59",
-      "https://lobste.rs/s/iz67lb/apache_removes_feather_from_their"
-    ],
-    [
-      "Apache removes the feather from their branding",
-      "https://news.apache.org/foundation/entry/evolving-the-asf-brand"
-    ]
-  ],
-  [
-    [
       "2024-07-18, 17:20:43",
       "https://lobste.rs/s/rwszlk/postgres_major_version_upgrades_with"
     ],
@@ -207,6 +197,16 @@
     [
       "Gotchas with SQLite in Production",
       "https://blog.pecar.me/sqlite-prod"
+    ]
+  ],
+  [
+    [
+      "2024-07-17, 20:53:57",
+      "https://lobste.rs/s/eyqixq/nvidia_transitions_fully_towards_open"
+    ],
+    [
+      "NVIDIA Transitions Fully Towards Open-Source GPU Kernel Modules",
+      "https://developer.nvidia.com/blog/nvidia-transitions-fully-towards-open-source-gpu-kernel-modules/"
     ]
   ],
   [
