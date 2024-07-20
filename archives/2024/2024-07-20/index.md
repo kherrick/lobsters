@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 15:00:27](https://lobste.rs/s/p2l9js/is_opensuse_at_crossroads) - [Is openSUSE at crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
 * [2024-07-20, 13:38:42](https://lobste.rs/s/gow5jc/go_1_23_interactive_release_notes) - [Go 1.23: Interactive release notes](https://antonz.org/go-1-23/)
 * [2024-07-20, 12:18:22](https://lobste.rs/s/st2j2o/sentinel_free_schemas_thought) - [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
 * [2024-07-20, 11:47:53](https://lobste.rs/s/js1vxe/where_is_programmer_inspo) - [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)

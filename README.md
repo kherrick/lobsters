@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-20, 15:00:27](https://lobste.rs/s/p2l9js/is_opensuse_at_crossroads) - [Is openSUSE at crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
 * [2024-07-20, 13:38:42](https://lobste.rs/s/gow5jc/go_1_23_interactive_release_notes) - [Go 1.23: Interactive release notes](https://antonz.org/go-1-23/)
 * [2024-07-20, 12:18:22](https://lobste.rs/s/st2j2o/sentinel_free_schemas_thought) - [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
 * [2024-07-20, 11:47:53](https://lobste.rs/s/js1vxe/where_is_programmer_inspo) - [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
@@ -24,7 +25,6 @@
 * [2024-07-19, 08:17:16](https://lobste.rs/s/aqgj1z/row_pattern_recognition_feature_for) - [Row pattern recognition feature for PostgreSQL](https://pgsqlpgpool.blogspot.com/2024/07/row-pattern-recognition-feature-for.html)
 * [2024-07-19, 07:41:22](https://lobste.rs/s/xohrwz/where_should_visual_programming_go) - [Where Should Visual Programming Go?](https://tonsky.me/blog/diagrams/)
 * [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
-* [2024-07-19, 02:46:43](https://lobste.rs/s/ubqd8s/tests_you_love_read_write_change) - [Tests you love to read, write and change](https://jaywhy13.hashnode.dev/tests-you-love-to-read-write-and-change)
 
 ## [Archives](archives/index.md)
 
