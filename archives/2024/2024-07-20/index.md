@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 18:06:09](https://lobste.rs/s/victkr/crowdstrike_broke_debian_rocky_linux) - [CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed](https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/)
 * [2024-07-20, 16:58:19](https://lobste.rs/s/2nsxaa/programmers_deserve_consequences) - [Programmers Deserve Consequences](https://mccue.dev/pages/7-20-24-programmers-deserve-consequences)
 * [2024-07-20, 15:00:27](https://lobste.rs/s/p2l9js/is_opensuse_at_crossroads) - [Is openSUSE at crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
 * [2024-07-20, 13:38:42](https://lobste.rs/s/gow5jc/go_1_23_interactive_release_notes) - [Go 1.23: Interactive release notes](https://antonz.org/go-1-23/)
