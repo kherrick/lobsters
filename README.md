@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-20, 09:12:56](https://lobste.rs/s/qzhn8k/endbasic_0_11_functions_lcds_bytecode) - [EndBASIC 0.11: Functions, LCDs, and bytecode](https://www.endbasic.dev/2024/07/endbasic-0.11.html)
 * [2024-07-20, 08:28:49](https://lobste.rs/s/c3tyjz/open_source_industrial_control_turning_2) - [Open Source Industrial Control: Turning 2,800 Tons of Metal with Python and Flask](https://www.youtube.com/watch?v=IxriyZJm9Lg)
 * [2024-07-20, 08:11:38](https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons) - [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
 * [2024-07-20, 03:02:50](https://lobste.rs/s/raq7ce/mv3_chrome_extension_with_iframe_which) - [MV3 Chrome extension with iframe, which embeds any site](https://safinaskar.writeas.com/mv3-chrome-extension-with-iframe-which-embeds-any-site)
@@ -23,7 +24,6 @@
 * [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 * [2024-07-19, 02:49:07](https://lobste.rs/s/uifcgq/nscopyobject_griefer_keeps_on_griefing) - [NSCopyObject, the griefer that keeps on griefing](https://wadetregaskis.com/nscopyobject-the-griefer-that-keeps-on-griefing/)
 * [2024-07-19, 02:46:43](https://lobste.rs/s/ubqd8s/tests_you_love_read_write_change) - [Tests you love to read, write and change](https://jaywhy13.hashnode.dev/tests-you-love-to-read-write-and-change)
-* [2024-07-18, 17:13:36](https://lobste.rs/s/qsaevf/semaphores_golang_gnu_make) - [Semaphores in Golang and GNU make](https://dotat.at/@/2024-07-18-semaphores.html)
 * [2024-07-18, 10:26:29](https://lobste.rs/s/tjqgjr/first_impressions_go_1_23_s_range_over_func) - [First impressions of Go 1.23's range-over-func feature](https://boldlygo.tech/posts/2024-07-18-range-over-func/)
 
 ## [Archives](archives/index.md)
