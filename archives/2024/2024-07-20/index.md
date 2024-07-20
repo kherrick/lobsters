@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 18:14:37](https://lobste.rs/s/0a4lxw/european_ngi_fund_must_be_renewed) - [The European NGI fund must be renewed](https://sourcehut.org/blog/2024-07-18-ngi-must-be-renewed/)
 * [2024-07-20, 18:06:09](https://lobste.rs/s/victkr/crowdstrike_broke_debian_rocky_linux) - [CrowdStrike broke Debian and Rocky Linux months ago, but no one noticed](https://www.neowin.net/news/crowdstrike-broke-debian-and-rocky-linux-months-ago-but-no-one-noticed/)
 * [2024-07-20, 16:58:19](https://lobste.rs/s/2nsxaa/programmers_deserve_consequences) - [Programmers Deserve Consequences](https://mccue.dev/pages/7-20-24-programmers-deserve-consequences)
 * [2024-07-20, 15:00:27](https://lobste.rs/s/p2l9js/is_opensuse_at_crossroads) - [Is openSUSE at crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
