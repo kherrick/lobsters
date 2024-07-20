@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-20, 11:47:53](https://lobste.rs/s/js1vxe/where_is_programmer_inspo) - [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
 * [2024-07-20, 09:12:56](https://lobste.rs/s/qzhn8k/endbasic_0_11_functions_lcds_bytecode) - [EndBASIC 0.11: Functions, LCDs, and bytecode](https://www.endbasic.dev/2024/07/endbasic-0.11.html)
 * [2024-07-20, 08:28:49](https://lobste.rs/s/c3tyjz/open_source_industrial_control_turning_2) - [Open Source Industrial Control: Turning 2,800 Tons of Metal with Python and Flask](https://www.youtube.com/watch?v=IxriyZJm9Lg)
 * [2024-07-20, 08:11:38](https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons) - [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
@@ -10,7 +11,6 @@
 * [2024-07-19, 19:54:55](https://lobste.rs/s/hhloii/psychological_affordances_can_provide) - [Psychological Affordances Can Provide a Missing Explanatory Layer for Why Interventions to Improve Developer Experience Take Hold or Fail](https://osf.io/preprints/psyarxiv/qz43x)
 * [2024-07-19, 19:48:59](https://lobste.rs/s/5ucyrm/playing_guitar_tablatures_rust) - [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
 * [2024-07-19, 19:06:44](https://lobste.rs/s/oxvpm4/fully_randomized_pointers) - [Fully Randomized Pointers](https://arxiv.org/pdf/2405.12513)
-* [2024-07-19, 19:04:25](https://lobste.rs/s/ryigd3/randomize_running_function_when_it_is) - [Randomize the Running Function When It Is Disclosed](https://www.cs.nthu.edu.tw/~ychung/journal/IEEE-TC-2024.pdf)
 * [2024-07-19, 17:41:40](https://lobste.rs/s/hq5qw2/delphi_htmx) - [Delphi and HTMX](https://blog.marcocantu.com/blog/2024-july-delphi-htmx.html)
 * [2024-07-19, 15:34:12](https://lobste.rs/s/tr8ozm/why_is_spawning_new_process_node_so_slow) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
 * [2024-07-19, 15:13:40](https://lobste.rs/s/t21ihj/radxa_x4_low_cost_credit_card_sized_intel) - [Radxa X4 low-cost, credit card-sized Intel N100 SBC goes for $60 and up](https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/)

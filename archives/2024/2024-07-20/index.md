@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-20](index.md)
 
+* [2024-07-20, 11:47:53](https://lobste.rs/s/js1vxe/where_is_programmer_inspo) - [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
 * [2024-07-20, 09:12:56](https://lobste.rs/s/qzhn8k/endbasic_0_11_functions_lcds_bytecode) - [EndBASIC 0.11: Functions, LCDs, and bytecode](https://www.endbasic.dev/2024/07/endbasic-0.11.html)
 * [2024-07-20, 08:28:49](https://lobste.rs/s/c3tyjz/open_source_industrial_control_turning_2) - [Open Source Industrial Control: Turning 2,800 Tons of Metal with Python and Flask](https://www.youtube.com/watch?v=IxriyZJm9Lg)
 * [2024-07-20, 08:11:38](https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons) - [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
