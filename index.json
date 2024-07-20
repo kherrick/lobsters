@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-20, 08:28:49",
+      "https://lobste.rs/s/c3tyjz/open_source_industrial_control_turning_2"
+    ],
+    [
+      "Open Source Industrial Control: Turning 2,800 Tons of Metal with Python and Flask",
+      "https://www.youtube.com/watch?v=IxriyZJm9Lg"
+    ]
+  ],
+  [
+    [
       "2024-07-20, 08:11:38",
       "https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons"
     ],
@@ -237,16 +247,6 @@
     [
       "First impressions of Go 1.23's range-over-func feature",
       "https://boldlygo.tech/posts/2024-07-18-range-over-func/"
-    ]
-  ],
-  [
-    [
-      "2024-07-18, 10:02:25",
-      "https://lobste.rs/s/zvzbmg/helix_24_07"
-    ],
-    [
-      "Helix 24.07",
-      "https://github.com/helix-editor/helix/blob/master/CHANGELOG.md#2407-2024-07-14"
     ]
   ]
 ]
