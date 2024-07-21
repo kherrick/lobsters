@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-21, 15:09:10](https://lobste.rs/s/thz7su/give_me_green_light_part_2_dirty_little) - [Give Me the Green Light Part 2: Dirty Little Secrets](https://www.redthreatsec.com/blog/give-me-the-green-light-part2-dirty-little-secrets)
 * [2024-07-21, 14:48:25](https://lobste.rs/s/6jhqjo/how_not_use_box_shadows) - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 13:57:34](https://lobste.rs/s/gseiin/ui_for_sums_must_remember_products_eighty) - [UI for sums must remember products (eighty-twenty news)](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
 * [2024-07-21, 06:00:33](https://lobste.rs/s/unuya5/zig_aio_io_uring_like_asynchronous_api) - [zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig](https://github.com/Cloudef/zig-aio)
@@ -18,7 +19,6 @@
 * [2024-07-20, 03:02:50](https://lobste.rs/s/raq7ce/mv3_chrome_extension_with_iframe_which) - [MV3 Chrome extension with iframe, which embeds any site](https://safinaskar.writeas.com/mv3-chrome-extension-with-iframe-which-embeds-any-site)
 * [2024-07-19, 22:36:38](https://lobste.rs/s/rvnhee/fair_core_license) - [Fair Core License](https://fcl.dev/)
 * [2024-07-19, 22:14:47](https://lobste.rs/s/qwhnao/afternoon_with_kaios) - [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
-* [2024-07-19, 19:06:44](https://lobste.rs/s/oxvpm4/fully_randomized_pointers) - [Fully Randomized Pointers](https://arxiv.org/pdf/2405.12513)
 * [2024-07-19, 17:41:40](https://lobste.rs/s/hq5qw2/delphi_htmx) - [Delphi and HTMX](https://blog.marcocantu.com/blog/2024-july-delphi-htmx.html)
 * [2024-07-19, 15:34:12](https://lobste.rs/s/tr8ozm/why_is_spawning_new_process_node_so_slow) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
 * [2024-07-19, 15:13:40](https://lobste.rs/s/t21ihj/radxa_x4_low_cost_credit_card_sized_intel) - [Radxa X4 low-cost, credit card-sized Intel N100 SBC goes for $60 and up](https://www.cnx-software.com/2024/07/19/radxa-x4-low-cost-credit-card-sized-intel-n100-sbc-raspberry-pi-5-alternative/)
