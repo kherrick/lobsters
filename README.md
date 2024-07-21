@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-21, 22:08:07](https://lobste.rs/s/5jjtem/maintain_golden_test_your_package_s_api) - [Maintain a golden test of your package's API with `diff-package-api` and `print-api`](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997)
 * [2024-07-21, 21:22:08](https://lobste.rs/s/bonojc/brief_history_dell_unix) - [A brief history of Dell UNIX](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 19:35:21](https://lobste.rs/s/e5kbev/baby_s_second_wasm_compiler) - [Baby's second wasm compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler)
 * [2024-07-21, 19:05:39](https://lobste.rs/s/j7fazh/extracting_elf_executables_from_binary) - [Extracting ELF executables from binary blobs](https://blog.nietaanraken.nl/posts/elf-file-size/)
@@ -23,7 +24,6 @@
 * [2024-07-19, 22:14:47](https://lobste.rs/s/qwhnao/afternoon_with_kaios) - [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
 * [2024-07-19, 15:34:12](https://lobste.rs/s/tr8ozm/why_is_spawning_new_process_node_so_slow) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
 * [2024-07-19, 14:07:29](https://lobste.rs/s/vp7jca/pin) - [Pin](https://without.boats/blog/pin/)
-* [2024-07-19, 11:22:53](https://lobste.rs/s/u9ugid/vyxos_my_laptop_server_nix_configuration) - [vyxos: My laptop and server Nix configuration](https://github.com/kivikakk/vyxos)
 * [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 
 ## [Archives](archives/index.md)
