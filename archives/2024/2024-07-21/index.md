@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 19:35:21](https://lobste.rs/s/e5kbev/baby_s_second_wasm_compiler) - [Baby's second wasm compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler)
 * [2024-07-21, 19:05:39](https://lobste.rs/s/j7fazh/extracting_elf_executables_from_binary) - [Extracting ELF executables from binary blobs](https://blog.nietaanraken.nl/posts/elf-file-size/)
 * [2024-07-21, 15:09:10](https://lobste.rs/s/thz7su/give_me_green_light_part_2_dirty_little) - [Give Me the Green Light Part 2: Dirty Little Secrets](https://www.redthreatsec.com/blog/give-me-the-green-light-part2-dirty-little-secrets)
 * [2024-07-21, 14:48:25](https://lobste.rs/s/6jhqjo/how_not_use_box_shadows) - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
