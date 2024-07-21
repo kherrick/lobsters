@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-21, 19:05:39](https://lobste.rs/s/j7fazh/extracting_elf_executables_from_binary) - [Extracting ELF executables from binary blobs](https://blog.nietaanraken.nl/posts/elf-file-size/)
 * [2024-07-21, 15:09:10](https://lobste.rs/s/thz7su/give_me_green_light_part_2_dirty_little) - [Give Me the Green Light Part 2: Dirty Little Secrets](https://www.redthreatsec.com/blog/give-me-the-green-light-part2-dirty-little-secrets)
 * [2024-07-21, 14:48:25](https://lobste.rs/s/6jhqjo/how_not_use_box_shadows) - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 13:57:34](https://lobste.rs/s/gseiin/ui_for_sums_must_remember_products) - [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
@@ -16,7 +17,6 @@
 * [2024-07-20, 09:12:56](https://lobste.rs/s/qzhn8k/endbasic_0_11_functions_lcds_bytecode) - [EndBASIC 0.11: Functions, LCDs, and bytecode](https://www.endbasic.dev/2024/07/endbasic-0.11.html)
 * [2024-07-20, 08:28:49](https://lobste.rs/s/c3tyjz/open_source_industrial_control_turning_2) - [Open Source Industrial Control: Turning 2,800 Tons of Metal with Python and Flask](https://www.youtube.com/watch?v=IxriyZJm9Lg)
 * [2024-07-20, 08:11:38](https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons) - [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
-* [2024-07-20, 03:02:50](https://lobste.rs/s/raq7ce/mv3_chrome_extension_with_iframe_which) - [MV3 Chrome extension with iframe, which embeds any site](https://safinaskar.writeas.com/mv3-chrome-extension-with-iframe-which-embeds-any-site)
 * [2024-07-19, 22:36:38](https://lobste.rs/s/rvnhee/fair_core_license) - [Fair Core License](https://fcl.dev/)
 * [2024-07-19, 22:14:47](https://lobste.rs/s/qwhnao/afternoon_with_kaios) - [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
 * [2024-07-19, 17:41:40](https://lobste.rs/s/hq5qw2/delphi_htmx) - [Delphi and HTMX](https://blog.marcocantu.com/blog/2024-july-delphi-htmx.html)
