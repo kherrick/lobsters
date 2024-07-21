@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-21, 06:00:33](https://lobste.rs/s/unuya5/zig_aio_io_uring_like_asynchronous_api) - [zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig](https://github.com/Cloudef/zig-aio)
 * [2024-07-21, 05:44:43](https://lobste.rs/s/zc72rg/scan_html_even_faster_with_simd) - [Scan HTML even faster with SIMD instructions (C++ and C#)](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
 * [2024-07-21, 02:52:56](https://lobste.rs/s/itcq2l/tricks_arc_swap_2019) - [Tricks In Arc Swap (2019)](https://vorner.github.io/2019/04/06/tricks-in-arc-swap.html)
 * [2024-07-21, 02:01:35](https://lobste.rs/s/2plemo/operator_precedence_parsing_c89) - [operator_precedence_parsing: C89 expressions parsed with the shunting yard algorithm in Python](https://github.com/bourguet/operator_precedence_parsing)
 * [2024-07-20, 21:49:36](https://lobste.rs/s/vubidl/calling_go_functions_from_c) - [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
 * [2024-07-20, 21:33:34](https://lobste.rs/s/ci9fib/what_tex_gets_right) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 * [2024-07-20, 19:08:31](https://lobste.rs/s/ng76fo/devilish_fun_with_modeless_modal_editing) - [Devilish fun with a modeless modal editing mode](https://www.rousette.org.uk/archives/devilish-fun-with-a-modeless-modal-editor/)
-* [2024-07-20, 15:00:27](https://lobste.rs/s/p2l9js/is_opensuse_at_crossroads) - [Is openSUSE at crossroads?](https://ludditus.com/2024/07/18/is-opensuse-at-crossroads/)
 * [2024-07-20, 13:38:42](https://lobste.rs/s/gow5jc/go_1_23_interactive_release_notes) - [Go 1.23: Interactive release notes](https://antonz.org/go-1-23/)
 * [2024-07-20, 12:18:22](https://lobste.rs/s/st2j2o/sentinel_free_schemas_thought) - [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
 * [2024-07-20, 11:47:53](https://lobste.rs/s/js1vxe/where_is_programmer_inspo) - [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
