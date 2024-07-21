@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-21, 02:01:35](https://lobste.rs/s/2plemo/operator_precedence_parsing_c89) - [operator_precedence_parsing: C89 expressions parsed with the shunting yard algorithm in Python](https://github.com/bourguet/operator_precedence_parsing)
 * [2024-07-20, 21:49:36](https://lobste.rs/s/vubidl/calling_go_functions_from_c) - [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
 * [2024-07-20, 21:33:34](https://lobste.rs/s/ci9fib/what_tex_gets_right) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 * [2024-07-20, 19:08:31](https://lobste.rs/s/ng76fo/devilish_fun_with_modeless_modal_editing) - [Devilish fun with a modeless modal editing mode](https://www.rousette.org.uk/archives/devilish-fun-with-a-modeless-modal-editor/)
@@ -11,7 +12,6 @@
 * [2024-07-20, 08:28:49](https://lobste.rs/s/c3tyjz/open_source_industrial_control_turning_2) - [Open Source Industrial Control: Turning 2,800 Tons of Metal with Python and Flask](https://www.youtube.com/watch?v=IxriyZJm9Lg)
 * [2024-07-20, 08:11:38](https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons) - [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
 * [2024-07-20, 03:02:50](https://lobste.rs/s/raq7ce/mv3_chrome_extension_with_iframe_which) - [MV3 Chrome extension with iframe, which embeds any site](https://safinaskar.writeas.com/mv3-chrome-extension-with-iframe-which-embeds-any-site)
-* [2024-07-20, 02:59:37](https://lobste.rs/s/5bdcqr/my_time_with_jfeac) - [My Time With the JFEAC](https://ieeexplore.ieee.org/document/10589315)
 * [2024-07-19, 22:36:38](https://lobste.rs/s/rvnhee/fair_core_license) - [Fair Core License](https://fcl.dev/)
 * [2024-07-19, 22:14:47](https://lobste.rs/s/qwhnao/afternoon_with_kaios) - [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
 * [2024-07-19, 19:48:59](https://lobste.rs/s/5ucyrm/playing_guitar_tablatures_rust) - [Playing guitar tablatures in Rust](https://agourlay.github.io/ruxguitar-tablature-player/)
