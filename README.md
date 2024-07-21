@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-21, 05:44:43](https://lobste.rs/s/zc72rg/scan_html_even_faster_with_simd) - [Scan HTML even faster with SIMD instructions (C++ and C#)](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
 * [2024-07-21, 02:52:56](https://lobste.rs/s/itcq2l/tricks_arc_swap_2019) - [Tricks In Arc Swap (2019)](https://vorner.github.io/2019/04/06/tricks-in-arc-swap.html)
 * [2024-07-21, 02:01:35](https://lobste.rs/s/2plemo/operator_precedence_parsing_c89) - [operator_precedence_parsing: C89 expressions parsed with the shunting yard algorithm in Python](https://github.com/bourguet/operator_precedence_parsing)
 * [2024-07-20, 21:49:36](https://lobste.rs/s/vubidl/calling_go_functions_from_c) - [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
@@ -22,7 +23,6 @@
 * [2024-07-19, 14:07:29](https://lobste.rs/s/vp7jca/pin) - [Pin](https://without.boats/blog/pin/)
 * [2024-07-19, 11:52:39](https://lobste.rs/s/8lcxig/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/8lcxig/what_are_you_doing_this_weekend)
 * [2024-07-19, 11:22:53](https://lobste.rs/s/u9ugid/vyxos_my_laptop_server_nix_configuration) - [vyxos: My laptop and server Nix configuration](https://github.com/kivikakk/vyxos)
-* [2024-07-19, 08:50:02](https://lobste.rs/s/nsl1fc/new_features_c_26) - [New features in C++26](https://lwn.net/Articles/979870/)
 * [2024-07-19, 07:41:22](https://lobste.rs/s/xohrwz/where_should_visual_programming_go) - [Where Should Visual Programming Go?](https://tonsky.me/blog/diagrams/)
 * [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 
