@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-21](index.md)
 
+* [2024-07-21, 22:52:34](https://lobste.rs/s/ysn6kc/nested_dynamic_modules_nestjs) - [Nested Dynamic Modules in NestJS](https://dev.clintonblackburn.com/2024/07/21/nested-dynamic-modules-in-nestjs)
 * [2024-07-21, 22:08:07](https://lobste.rs/s/5jjtem/maintain_golden_test_your_package_s_api) - [Maintain a golden test of your package's API with `diff-package-api` and `print-api`](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997)
 * [2024-07-21, 21:22:08](https://lobste.rs/s/bonojc/brief_history_dell_unix) - [A brief history of Dell UNIX](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 19:35:21](https://lobste.rs/s/e5kbev/baby_s_second_wasm_compiler) - [Baby's second wasm compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler)

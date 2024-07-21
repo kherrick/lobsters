@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-21, 22:52:34](https://lobste.rs/s/ysn6kc/nested_dynamic_modules_nestjs) - [Nested Dynamic Modules in NestJS](https://dev.clintonblackburn.com/2024/07/21/nested-dynamic-modules-in-nestjs)
 * [2024-07-21, 22:08:07](https://lobste.rs/s/5jjtem/maintain_golden_test_your_package_s_api) - [Maintain a golden test of your package's API with `diff-package-api` and `print-api`](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997)
 * [2024-07-21, 21:22:08](https://lobste.rs/s/bonojc/brief_history_dell_unix) - [A brief history of Dell UNIX](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 19:35:21](https://lobste.rs/s/e5kbev/baby_s_second_wasm_compiler) - [Baby's second wasm compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler)
@@ -20,7 +21,6 @@
 * [2024-07-20, 09:12:56](https://lobste.rs/s/qzhn8k/endbasic_0_11_functions_lcds_bytecode) - [EndBASIC 0.11: Functions, LCDs, and bytecode](https://www.endbasic.dev/2024/07/endbasic-0.11.html)
 * [2024-07-20, 08:28:49](https://lobste.rs/s/c3tyjz/open_source_industrial_control_turning_2) - [Open Source Industrial Control: Turning 2,800 Tons of Metal with Python and Flask](https://www.youtube.com/watch?v=IxriyZJm9Lg)
 * [2024-07-20, 08:11:38](https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons) - [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
-* [2024-07-19, 22:36:38](https://lobste.rs/s/rvnhee/fair_core_license) - [Fair Core License](https://fcl.dev/)
 * [2024-07-19, 22:14:47](https://lobste.rs/s/qwhnao/afternoon_with_kaios) - [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
 * [2024-07-19, 15:34:12](https://lobste.rs/s/tr8ozm/why_is_spawning_new_process_node_so_slow) - [Why is spawning a new process in Node so slow?](https://blog.val.town/blog/node-spawn-performance/)
 * [2024-07-19, 14:07:29](https://lobste.rs/s/vp7jca/pin) - [Pin](https://without.boats/blog/pin/)
