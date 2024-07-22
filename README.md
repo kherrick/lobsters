@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-22, 09:13:01](https://lobste.rs/s/gc91lz/crowdstroke) - [Crowdstroke](https://blog.koehntopp.info/2024/07/22/crowdstroke.html)
 * [2024-07-22, 09:05:27](https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types) - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 * [2024-07-22, 07:05:52](https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper) - [Rust Question on embedding FSM in wrapper struct(s)](https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper)
 * [2024-07-22, 04:59:03](https://lobste.rs/s/g4nt4n/jiff_date_time_library_for_rust) - [jiff: A date-time library for Rust that encourages you to jump into the pit of success](https://github.com/BurntSushi/jiff)
@@ -15,7 +16,6 @@
 * [2024-07-21, 13:57:34](https://lobste.rs/s/gseiin/ui_for_sums_must_remember_products) - [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
 * [2024-07-21, 06:00:33](https://lobste.rs/s/unuya5/zig_aio_io_uring_like_asynchronous_api) - [zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig](https://github.com/Cloudef/zig-aio)
 * [2024-07-21, 05:44:43](https://lobste.rs/s/zc72rg/scan_html_even_faster_with_simd) - [Scan HTML even faster with SIMD instructions (C++ and C#)](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
-* [2024-07-21, 02:52:56](https://lobste.rs/s/itcq2l/tricks_arc_swap_2019) - [Tricks In Arc Swap (2019)](https://vorner.github.io/2019/04/06/tricks-in-arc-swap.html)
 * [2024-07-21, 02:01:35](https://lobste.rs/s/2plemo/operator_precedence_parsing_c89) - [operator_precedence_parsing: C89 expressions parsed with the shunting yard algorithm in Python](https://github.com/bourguet/operator_precedence_parsing)
 * [2024-07-20, 21:49:36](https://lobste.rs/s/vubidl/calling_go_functions_from_c) - [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
 * [2024-07-20, 21:33:34](https://lobste.rs/s/ci9fib/what_tex_gets_right) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)

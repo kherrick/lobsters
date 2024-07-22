@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 09:13:01](https://lobste.rs/s/gc91lz/crowdstroke) - [Crowdstroke](https://blog.koehntopp.info/2024/07/22/crowdstroke.html)
 * [2024-07-22, 09:05:27](https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types) - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 * [2024-07-22, 07:05:52](https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper) - [Rust Question on embedding FSM in wrapper struct(s)](https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper)
 * [2024-07-22, 04:59:03](https://lobste.rs/s/g4nt4n/jiff_date_time_library_for_rust) - [jiff: A date-time library for Rust that encourages you to jump into the pit of success](https://github.com/BurntSushi/jiff)
