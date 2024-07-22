@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-22, 22:02:59](https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1) - [Build your own SQLite in Rust - Part1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-07-22, 19:06:39](https://lobste.rs/s/amanh7/glisp_graphical_lisp) - [(glisp) - graphical LISP](https://glisp.app/commit:e7fbaae/)
 * [2024-07-22, 17:52:57](https://lobste.rs/s/d8alwc/reverse_engineering_usb_device_with_rust) - [Reverse engineering a USB device with Rust (2020)](https://gill.net.in/posts/reverse-engineering-a-usb-device-with-rust/)
 * [2024-07-22, 16:47:59](https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work) - [How conditional breakpoints work](https://werat.dev/blog/how-conditional-breakpoints-work/)
@@ -24,7 +25,6 @@
 * [2024-07-21, 14:48:25](https://lobste.rs/s/6jhqjo/how_not_use_box_shadows) - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 13:57:34](https://lobste.rs/s/gseiin/ui_for_sums_must_remember_products) - [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
 * [2024-07-21, 06:00:33](https://lobste.rs/s/unuya5/zig_aio_io_uring_like_asynchronous_api) - [zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig](https://github.com/Cloudef/zig-aio)
-* [2024-07-20, 21:33:34](https://lobste.rs/s/ci9fib/what_tex_gets_right) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 
 ## [Archives](archives/index.md)
 
