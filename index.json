@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 22:02:59",
+      "https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1"
+    ],
+    [
+      "Build your own SQLite in Rust - Part1",
+      "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 19:06:39",
       "https://lobste.rs/s/amanh7/glisp_graphical_lisp"
     ],
@@ -237,16 +247,6 @@
     [
       "zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig",
       "https://github.com/Cloudef/zig-aio"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 21:33:34",
-      "https://lobste.rs/s/ci9fib/what_tex_gets_right"
-    ],
-    [
-      "What TeX Gets Right",
-      "https://newton.cx/~peter/2024/what-tex-gets-right/"
     ]
   ]
 ]
