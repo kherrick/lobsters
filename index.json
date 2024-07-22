@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 15:14:23",
+      "https://lobste.rs/s/g02fw7/3_ways_get_remote_code_execution_kafka_ui"
+    ],
+    [
+      "3 ways to get Remote Code Execution in Kafka UI",
+      "https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 14:53:16",
       "https://lobste.rs/s/mzksfr/historical_case_for_fair_source"
     ],
@@ -237,16 +247,6 @@
     [
       "Sentinel-free schemas: a thought experiment",
       "https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 11:47:53",
-      "https://lobste.rs/s/js1vxe/where_is_programmer_inspo"
-    ],
-    [
-      "Where is the programmer inspo?",
-      "https://avdi.codes/where-is-the-programmer-inspo/"
     ]
   ]
 ]
