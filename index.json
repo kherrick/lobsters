@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 19:06:39",
+      "https://lobste.rs/s/amanh7/glisp_graphical_lisp"
+    ],
+    [
+      "(glisp) - graphical LISP",
+      "https://glisp.app/commit:e7fbaae/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 17:52:57",
       "https://lobste.rs/s/d8alwc/reverse_engineering_usb_device_with_rust"
     ],
@@ -187,16 +197,6 @@
     [
       "Baby's second wasm compiler",
       "https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 19:05:39",
-      "https://lobste.rs/s/j7fazh/extracting_elf_executables_from_binary"
-    ],
-    [
-      "Extracting ELF executables from binary blobs",
-      "https://blog.nietaanraken.nl/posts/elf-file-size/"
     ]
   ],
   [
