@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 07:05:52](https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper) - [Rust Question on embedding FSM in wrapper struct(s)](https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper)
 * [2024-07-22, 04:59:03](https://lobste.rs/s/g4nt4n/jiff_date_time_library_for_rust) - [jiff: A date-time library for Rust that encourages you to jump into the pit of success](https://github.com/BurntSushi/jiff)
 * [2024-07-22, 03:31:06](https://lobste.rs/s/d6cc6x/build_your_own_interpreter_by) - [Build your own Interpreter by CodeCrafters](https://app.codecrafters.io/courses/interpreter/overview)
 * [2024-07-22, 01:46:41](https://lobste.rs/s/ibwlo0/mapping_symbols_rethinking_for) - [Mapping symbols: rethinking for efficiency](https://maskray.me/blog/2024-07-21-mapping-symbols-rethinking-for-efficiency)
