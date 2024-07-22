@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 15:32:04](https://lobste.rs/s/jwb9g8/technical_details_falcon_update_for) - [Technical Details: Falcon Update for Windows Hosts | CrowdStrike](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/)
 * [2024-07-22, 15:14:23](https://lobste.rs/s/g02fw7/3_ways_get_remote_code_execution_kafka_ui) - [3 ways to get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 14:53:16](https://lobste.rs/s/mzksfr/historical_case_for_fair_source) - [The Historical Case for Fair Source](https://openpath.chadwhitacre.com/2024/the-historical-case-for-fair-source/)
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
