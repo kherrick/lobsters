@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 09:55:00",
+      "https://lobste.rs/s/i6mhqj/parsing_protobuf_definitions_with_tree"
+    ],
+    [
+      "Parsing Protobuf Definitions with Tree-sitter",
+      "https://relistan.com/parsing-protobuf-files-with-treesitter"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 09:13:01",
       "https://lobste.rs/s/gc91lz/crowdstroke"
     ],
@@ -237,16 +247,6 @@
     [
       "On Open Source and the Sustainability of the Commons",
       "https://ploum.net/2024-07-01-opensource_sustainability.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-19, 14:07:29",
-      "https://lobste.rs/s/vp7jca/pin"
-    ],
-    [
-      "Pin",
-      "https://without.boats/blog/pin/"
     ]
   ]
 ]
