@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-07-22](index.md)
+
+* [2024-07-22, 01:46:41](https://lobste.rs/s/ibwlo0/mapping_symbols_rethinking_for) - [Mapping symbols: rethinking for efficiency](https://maskray.me/blog/2024-07-21-mapping-symbols-rethinking-for-efficiency)
+* [2024-07-22, 01:29:25](https://lobste.rs/s/kr9od0/did_you_know_about_instruments) - [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
