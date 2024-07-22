@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-07-22, 15:32:04",
-      "https://lobste.rs/s/jwb9g8/technical_details_falcon_update_for"
-    ],
-    [
-      "Technical Details: Falcon Update for Windows Hosts | CrowdStrike",
-      "https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 15:14:23",
       "https://lobste.rs/s/g02fw7/3_ways_get_remote_code_execution_kafka_ui"
     ],
@@ -227,6 +217,16 @@
     [
       "zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig",
       "https://github.com/Cloudef/zig-aio"
+    ]
+  ],
+  [
+    [
+      "2024-07-21, 05:44:43",
+      "https://lobste.rs/s/zc72rg/scan_html_even_faster_with_simd"
+    ],
+    [
+      "Scan HTML even faster with SIMD instructions (C++ and C#)",
+      "https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/"
     ]
   ],
   [
