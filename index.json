@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 16:14:11",
+      "https://lobste.rs/s/vffdwj/doors_solaris_lightweight_rpc_using_file"
+    ],
+    [
+      "\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)",
+      "http://www.kohala.com/start/papers.others/doors.html"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 15:32:04",
       "https://lobste.rs/s/jwb9g8/technical_details_falcon_update_for"
     ],
@@ -217,16 +227,6 @@
     [
       "zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig",
       "https://github.com/Cloudef/zig-aio"
-    ]
-  ],
-  [
-    [
-      "2024-07-21, 05:44:43",
-      "https://lobste.rs/s/zc72rg/scan_html_even_faster_with_simd"
-    ],
-    [
-      "Scan HTML even faster with SIMD instructions (C++ and C#)",
-      "https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/"
     ]
   ],
   [
