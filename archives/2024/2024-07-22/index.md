@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 16:47:59](https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work) - [How conditional breakpoints work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 * [2024-07-22, 16:14:11](https://lobste.rs/s/vffdwj/doors_solaris_lightweight_rpc_using_file) - [\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-22, 15:32:04](https://lobste.rs/s/jwb9g8/technical_details_falcon_update_for) - [Technical Details: Falcon Update for Windows Hosts | CrowdStrike](https://www.crowdstrike.com/blog/falcon-update-for-windows-hosts-technical-details/)
 * [2024-07-22, 15:14:23](https://lobste.rs/s/g02fw7/3_ways_get_remote_code_execution_kafka_ui) - [3 ways to get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
