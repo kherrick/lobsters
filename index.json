@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-22, 17:52:57",
+      "https://lobste.rs/s/d8alwc/reverse_engineering_usb_device_with_rust"
+    ],
+    [
+      "Reverse engineering a USB device with Rust (2020)",
+      "https://gill.net.in/posts/reverse-engineering-a-usb-device-with-rust/"
+    ]
+  ],
+  [
+    [
       "2024-07-22, 16:47:59",
       "https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work"
     ],
@@ -237,16 +247,6 @@
     [
       "What TeX Gets Right",
       "https://newton.cx/~peter/2024/what-tex-gets-right/"
-    ]
-  ],
-  [
-    [
-      "2024-07-20, 12:18:22",
-      "https://lobste.rs/s/st2j2o/sentinel_free_schemas_thought"
-    ],
-    [
-      "Sentinel-free schemas: a thought experiment",
-      "https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment"
     ]
   ]
 ]
