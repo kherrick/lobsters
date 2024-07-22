@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-22, 15:14:23](https://lobste.rs/s/g02fw7/3_ways_get_remote_code_execution_kafka_ui) - [3 ways to get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 14:53:16](https://lobste.rs/s/mzksfr/historical_case_for_fair_source) - [The Historical Case for Fair Source](https://openpath.chadwhitacre.com/2024/the-historical-case-for-fair-source/)
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
 * [2024-07-22, 13:24:39](https://lobste.rs/s/bzrkiv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bzrkiv/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2024-07-20, 21:49:36](https://lobste.rs/s/vubidl/calling_go_functions_from_c) - [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
 * [2024-07-20, 21:33:34](https://lobste.rs/s/ci9fib/what_tex_gets_right) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 * [2024-07-20, 12:18:22](https://lobste.rs/s/st2j2o/sentinel_free_schemas_thought) - [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
-* [2024-07-20, 11:47:53](https://lobste.rs/s/js1vxe/where_is_programmer_inspo) - [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
 
 ## [Archives](archives/index.md)
 

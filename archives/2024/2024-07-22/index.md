@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 15:14:23](https://lobste.rs/s/g02fw7/3_ways_get_remote_code_execution_kafka_ui) - [3 ways to get Remote Code Execution in Kafka UI](https://github.blog/2024-07-22-3-ways-to-get-remote-code-execution-in-kafka-ui/)
 * [2024-07-22, 14:53:16](https://lobste.rs/s/mzksfr/historical_case_for_fair_source) - [The Historical Case for Fair Source](https://openpath.chadwhitacre.com/2024/the-historical-case-for-fair-source/)
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
 * [2024-07-22, 13:57:13](https://lobste.rs/s/lnktsy/why_do_config_changes_keep_coming_up_major) - [Why do config changes keep coming up in major incidents? (2021)](https://surfingcomplexity.blog/2021/05/29/why-do-config-changes-keep-coming-up-in-major-incidents/)
