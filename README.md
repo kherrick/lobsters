@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-22, 11:38:42](https://lobste.rs/s/pplfdt/social_computing_before_internet) - [Social Computing, before the Internet](https://netsettlement.blogspot.com/2024/07/social-computing-before-internet.html)
 * [2024-07-22, 09:55:00](https://lobste.rs/s/i6mhqj/parsing_protobuf_definitions_with_tree) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-07-22, 09:13:01](https://lobste.rs/s/gc91lz/crowdstroke) - [Crowdstroke](https://blog.koehntopp.info/2024/07/22/crowdstroke.html)
 * [2024-07-22, 09:05:27](https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types) - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
@@ -17,7 +18,6 @@
 * [2024-07-21, 13:57:34](https://lobste.rs/s/gseiin/ui_for_sums_must_remember_products) - [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
 * [2024-07-21, 06:00:33](https://lobste.rs/s/unuya5/zig_aio_io_uring_like_asynchronous_api) - [zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig](https://github.com/Cloudef/zig-aio)
 * [2024-07-21, 05:44:43](https://lobste.rs/s/zc72rg/scan_html_even_faster_with_simd) - [Scan HTML even faster with SIMD instructions (C++ and C#)](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
-* [2024-07-21, 02:01:35](https://lobste.rs/s/2plemo/operator_precedence_parsing_c89) - [operator_precedence_parsing: C89 expressions parsed with the shunting yard algorithm in Python](https://github.com/bourguet/operator_precedence_parsing)
 * [2024-07-20, 21:49:36](https://lobste.rs/s/vubidl/calling_go_functions_from_c) - [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
 * [2024-07-20, 21:33:34](https://lobste.rs/s/ci9fib/what_tex_gets_right) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
 * [2024-07-20, 19:08:31](https://lobste.rs/s/ng76fo/devilish_fun_with_modeless_modal_editing) - [Devilish fun with a modeless modal editing mode](https://www.rousette.org.uk/archives/devilish-fun-with-a-modeless-modal-editor/)

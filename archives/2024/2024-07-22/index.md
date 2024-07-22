@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-22](index.md)
 
+* [2024-07-22, 11:38:42](https://lobste.rs/s/pplfdt/social_computing_before_internet) - [Social Computing, before the Internet](https://netsettlement.blogspot.com/2024/07/social-computing-before-internet.html)
 * [2024-07-22, 09:55:00](https://lobste.rs/s/i6mhqj/parsing_protobuf_definitions_with_tree) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-07-22, 09:13:01](https://lobste.rs/s/gc91lz/crowdstroke) - [Crowdstroke](https://blog.koehntopp.info/2024/07/22/crowdstroke.html)
 * [2024-07-22, 09:05:27](https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types) - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
