@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-22, 23:41:00](https://lobste.rs/s/9lkulm/ronin_2_1_0_has_finally_been_released_new) - [Ronin 2.1.0 has finally been released! New database tables, new payloads, new recon engine, new Web UI, and more](https://ronin-rb.dev/blog/2024/07/22/ronin-2-1-0-finally-released.html)
+* [2024-07-22, 23:34:56](https://lobste.rs/s/eehf7s/mastering_emacs) - [Mastering Emacs](https://www.masteringemacs.org/)
 * [2024-07-22, 22:02:59](https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1) - [Build your own SQLite in Rust - Part1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-07-22, 19:06:39](https://lobste.rs/s/amanh7/glisp_graphical_lisp) - [(glisp) - graphical LISP](https://glisp.app/commit:e7fbaae/)
 * [2024-07-22, 17:52:57](https://lobste.rs/s/d8alwc/reverse_engineering_usb_device_with_rust) - [Reverse engineering a USB device with Rust (2020)](https://gill.net.in/posts/reverse-engineering-a-usb-device-with-rust/)
@@ -21,10 +23,8 @@
 * [2024-07-21, 22:08:07](https://lobste.rs/s/5jjtem/maintain_golden_test_your_package_s_api) - [Maintain a golden test of your package's API with `diff-package-api` and `print-api`](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997)
 * [2024-07-21, 21:22:08](https://lobste.rs/s/bonojc/brief_history_dell_unix) - [A brief history of Dell UNIX](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 19:35:21](https://lobste.rs/s/e5kbev/baby_s_second_wasm_compiler) - [Baby's second wasm compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler)
-* [2024-07-21, 15:09:10](https://lobste.rs/s/thz7su/give_me_green_light_part_2_dirty_little) - [Give Me the Green Light Part 2: Dirty Little Secrets](https://www.redthreatsec.com/blog/give-me-the-green-light-part2-dirty-little-secrets)
 * [2024-07-21, 14:48:25](https://lobste.rs/s/6jhqjo/how_not_use_box_shadows) - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 13:57:34](https://lobste.rs/s/gseiin/ui_for_sums_must_remember_products) - [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
-* [2024-07-21, 06:00:33](https://lobste.rs/s/unuya5/zig_aio_io_uring_like_asynchronous_api) - [zig-aio: io_uring like asynchronous API and coroutine powered IO tasks for zig](https://github.com/Cloudef/zig-aio)
 
 ## [Archives](archives/index.md)
 
