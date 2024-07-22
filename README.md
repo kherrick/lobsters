@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-22, 13:57:13](https://lobste.rs/s/lnktsy/why_do_config_changes_keep_coming_up_major) - [Why do config changes keep coming up in major incidents? (2021)](https://surfingcomplexity.blog/2021/05/29/why-do-config-changes-keep-coming-up-in-major-incidents/)
 * [2024-07-22, 13:24:39](https://lobste.rs/s/bzrkiv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bzrkiv/what_are_you_doing_this_week)
 * [2024-07-22, 13:22:44](https://lobste.rs/s/uqqtiy/nix_camp_2024_is_on) - [Nix Camp 2024 is On](https://nix.camp/)
 * [2024-07-22, 11:38:42](https://lobste.rs/s/pplfdt/social_computing_before_internet) - [Social Computing, before the Internet](https://netsettlement.blogspot.com/2024/07/social-computing-before-internet.html)
@@ -22,7 +23,6 @@
 * [2024-07-21, 05:44:43](https://lobste.rs/s/zc72rg/scan_html_even_faster_with_simd) - [Scan HTML even faster with SIMD instructions (C++ and C#)](https://lemire.me/blog/2024/07/20/scan-html-even-faster-with-simd-instructions-c-and-c/)
 * [2024-07-20, 21:49:36](https://lobste.rs/s/vubidl/calling_go_functions_from_c) - [Calling Go Functions from c++](https://xnacly.me/posts/2024/go-cpp-interop/)
 * [2024-07-20, 21:33:34](https://lobste.rs/s/ci9fib/what_tex_gets_right) - [What TeX Gets Right](https://newton.cx/~peter/2024/what-tex-gets-right/)
-* [2024-07-20, 19:08:31](https://lobste.rs/s/ng76fo/devilish_fun_with_modeless_modal_editing) - [Devilish fun with a modeless modal editing mode](https://www.rousette.org.uk/archives/devilish-fun-with-a-modeless-modal-editor/)
 * [2024-07-20, 12:18:22](https://lobste.rs/s/st2j2o/sentinel_free_schemas_thought) - [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
 * [2024-07-20, 11:47:53](https://lobste.rs/s/js1vxe/where_is_programmer_inspo) - [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
 
