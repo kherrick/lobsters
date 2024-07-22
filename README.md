@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-22, 03:31:06](https://lobste.rs/s/d6cc6x/build_your_own_interpreter_by) - [Build your own Interpreter by CodeCrafters](https://app.codecrafters.io/courses/interpreter/overview)
 * [2024-07-22, 01:46:41](https://lobste.rs/s/ibwlo0/mapping_symbols_rethinking_for) - [Mapping symbols: rethinking for efficiency](https://maskray.me/blog/2024-07-21-mapping-symbols-rethinking-for-efficiency)
 * [2024-07-22, 01:29:25](https://lobste.rs/s/kr9od0/did_you_know_about_instruments) - [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
 * [2024-07-21, 22:52:34](https://lobste.rs/s/ysn6kc/nested_dynamic_modules_nestjs) - [Nested Dynamic Modules in NestJS](https://dev.clintonblackburn.com/2024/07/21/nested-dynamic-modules-in-nestjs)
@@ -24,7 +25,6 @@
 * [2024-07-20, 08:11:38](https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons) - [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
 * [2024-07-19, 22:14:47](https://lobste.rs/s/qwhnao/afternoon_with_kaios) - [An afternoon with KaiOS](https://washbear.neocities.org/kaios.html)
 * [2024-07-19, 14:07:29](https://lobste.rs/s/vp7jca/pin) - [Pin](https://without.boats/blog/pin/)
-* [2024-07-19, 07:24:28](https://lobste.rs/s/sqlmcl/planes_grounded_as_mass_worldwide_it) - [Planes grounded as mass worldwide IT outage hits airlines, media and banks](https://www.bbc.com/news/live/cnk4jdwp49et)
 
 ## [Archives](archives/index.md)
 
