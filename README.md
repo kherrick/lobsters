@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-22, 09:55:00](https://lobste.rs/s/i6mhqj/parsing_protobuf_definitions_with_tree) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-07-22, 09:13:01](https://lobste.rs/s/gc91lz/crowdstroke) - [Crowdstroke](https://blog.koehntopp.info/2024/07/22/crowdstroke.html)
 * [2024-07-22, 09:05:27](https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types) - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 * [2024-07-22, 07:05:52](https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper) - [Rust Question on embedding FSM in wrapper struct(s)](https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper)
@@ -24,7 +25,6 @@
 * [2024-07-20, 12:18:22](https://lobste.rs/s/st2j2o/sentinel_free_schemas_thought) - [Sentinel-free schemas: a thought experiment](https://minimalmodeling.substack.com/p/sentinel-free-schemas-a-thought-experiment)
 * [2024-07-20, 11:47:53](https://lobste.rs/s/js1vxe/where_is_programmer_inspo) - [Where is the programmer inspo?](https://avdi.codes/where-is-the-programmer-inspo/)
 * [2024-07-20, 08:11:38](https://lobste.rs/s/jqucbu/on_open_source_sustainability_commons) - [On Open Source and the Sustainability of the Commons](https://ploum.net/2024-07-01-opensource_sustainability.html)
-* [2024-07-19, 14:07:29](https://lobste.rs/s/vp7jca/pin) - [Pin](https://without.boats/blog/pin/)
 
 ## [Archives](archives/index.md)
 
