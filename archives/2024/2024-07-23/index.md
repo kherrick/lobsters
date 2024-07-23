@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 12:16:20](https://lobste.rs/s/tsfebc/cubecl_write_gpu_code_rust_targetting) - [cubecl: write GPU code in Rust, targetting multiple platforms](https://github.com/tracel-ai/cubecl)
+* [2024-07-23, 12:15:39](https://lobste.rs/s/bicliq/median_filtering_naive_algorithm) - [Median filtering: naive algorithm, histogram-based, binary tree, and more](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 12:11:12](https://lobste.rs/s/rnqlef/named_arguments_rust_if_you_want_them) - [Named Arguments In Rust, If You Want Them](https://rtpg.co/2024/07/22/rust-named-arguments/)
 * [2024-07-23, 11:23:40](https://lobste.rs/s/javf1g/jump_flood_algorithm_driven_motion_blur) - [Jump Flood Algorithm Driven Motion Blur](https://www.youtube.com/watch?v=m_KvYlYF3sA)
 * [2024-07-23, 10:51:34](https://lobste.rs/s/sgmbs1/rediscovering_transaction_processing) - [Rediscovering Transaction Processing From History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
