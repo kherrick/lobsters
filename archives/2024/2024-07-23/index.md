@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 11:23:40](https://lobste.rs/s/javf1g/jump_flood_algorithm_driven_motion_blur) - [Jump Flood Algorithm Driven Motion Blur](https://www.youtube.com/watch?v=m_KvYlYF3sA)
 * [2024-07-23, 10:51:34](https://lobste.rs/s/sgmbs1/rediscovering_transaction_processing) - [Rediscovering Transaction Processing From History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 09:48:45](https://lobste.rs/s/otpjn7/interface_design_age_qualiatech_do_you) - [Interface design in the age of qualiatech: Do you want to be a button?](https://smoothbrains.net/posts/2024-07-19-qualiatech.html)
 * [2024-07-23, 09:08:17](https://lobste.rs/s/36x9fn/building_usis_with_mkosi) - [Building USIs with mkosi](https://overhead.neocities.org/blog/build-usi-mkosi/)
