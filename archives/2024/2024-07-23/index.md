@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 12:51:39](https://lobste.rs/s/mwci8k/go_features_by_version) - [Go features by version](https://antonz.org/which-go/)
 * [2024-07-23, 12:16:20](https://lobste.rs/s/tsfebc/cubecl_write_gpu_code_rust_targetting) - [cubecl: write GPU code in Rust, targetting multiple platforms](https://github.com/tracel-ai/cubecl)
 * [2024-07-23, 12:15:39](https://lobste.rs/s/bicliq/median_filtering_naive_algorithm) - [Median filtering: naive algorithm, histogram-based, binary tree, and more](https://www.crisluengo.net/archives/1138/)
 * [2024-07-23, 12:11:12](https://lobste.rs/s/rnqlef/named_arguments_rust_if_you_want_them) - [Named Arguments In Rust, If You Want Them](https://rtpg.co/2024/07/22/rust-named-arguments/)
