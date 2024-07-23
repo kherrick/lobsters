@@ -32,11 +32,11 @@
   [
     [
       "2024-07-23, 17:17:37",
-      "https://lobste.rs/s/mkhvi7/postgres_looks_eventually_consistent"
+      "https://lobste.rs/s/mkhvi7/postgres_sequences_can_commit_out_order"
     ],
     [
-      "Postgres looks eventually consistent (from the client)",
-      "https://blog.sequinstream.com/postgres-looks-eventually-consistent-from-the-client/"
+      "Postgres sequences can commit out-of-order",
+      "https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order"
     ]
   ],
   [
