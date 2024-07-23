@@ -1,1 +1,252 @@
-[]
+[
+  [
+    [
+      "2024-07-23, 19:23:24",
+      "https://lobste.rs/s/pedtr9/pinned_places"
+    ],
+    [
+      "Pinned places",
+      "https://without.boats/blog/pinned-places/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 19:01:50",
+      "https://lobste.rs/s/pwjlen/is_performance_reduced_when_executing"
+    ],
+    [
+      "Is performance reduced when executing loops whose uop count is not a multiple of processor width?",
+      "https://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 17:31:03",
+      "https://lobste.rs/s/fdhrmx/doukutsu_rs_faithful_open_source_remake"
+    ],
+    [
+      "doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust",
+      "https://github.com/doukutsu-rs/doukutsu-rs"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 17:17:37",
+      "https://lobste.rs/s/mkhvi7/postgres_sequences_can_commit_out_order"
+    ],
+    [
+      "Postgres sequences can commit out-of-order",
+      "https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 16:19:44",
+      "https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic"
+    ],
+    [
+      "Give me the green light: hacking traffic control systems",
+      "https://www.redthreatsec.com/blog/greenlightspart1"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 14:40:18",
+      "https://lobste.rs/s/oqwo3u/history_replication_postgresql_2015"
+    ],
+    [
+      "The history of replication in PostgreSQL (2015)",
+      "https://peter.eisentraut.org/blog/2015/03/03/the-history-of-replication-in-postgresql"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 14:36:28",
+      "https://lobste.rs/s/offurk/how_we_securely_generate_sensitive"
+    ],
+    [
+      "How we securely generate sensitive secrets",
+      "https://monzo.com/blog/how-we-securely-generate-sensitive-secrets"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 14:20:06",
+      "https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be"
+    ],
+    [
+      "Software engineers are not (and should not be) technicians",
+      "https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 12:51:39",
+      "https://lobste.rs/s/mwci8k/go_features_by_version"
+    ],
+    [
+      "Go features by version",
+      "https://antonz.org/which-go/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 12:11:12",
+      "https://lobste.rs/s/rnqlef/named_arguments_rust_if_you_want_them"
+    ],
+    [
+      "Named Arguments In Rust, If You Want Them",
+      "https://rtpg.co/2024/07/22/rust-named-arguments/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 10:51:34",
+      "https://lobste.rs/s/sgmbs1/rediscovering_transaction_processing"
+    ],
+    [
+      "Rediscovering Transaction Processing From History and First Principles",
+      "https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 09:48:45",
+      "https://lobste.rs/s/otpjn7/interface_design_age_qualiatech_do_you"
+    ],
+    [
+      "Interface design in the age of qualiatech: Do you want to be a button?",
+      "https://smoothbrains.net/posts/2024-07-19-qualiatech.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 09:02:22",
+      "https://lobste.rs/s/wws2ef/openbsd_workstation_for_people"
+    ],
+    [
+      "OpenBSD Workstation for the People",
+      "https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 07:41:02",
+      "https://lobste.rs/s/tjudzv/elegance_ascii_table"
+    ],
+    [
+      "The Elegance of the ASCII Table",
+      "https://danq.me/2024/07/21/ascii/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 07:35:35",
+      "https://lobste.rs/s/5kcniv/could_we_have_observability_tag"
+    ],
+    [
+      "Could we have an 'Observability' tag?",
+      "https://lobste.rs/s/5kcniv/could_we_have_observability_tag"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 07:32:31",
+      "https://lobste.rs/s/h9ef1r/types_as_interfaces"
+    ],
+    [
+      "Types as Interfaces",
+      "https://two-wrongs.com/types-as-interfaces"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 07:31:08",
+      "https://lobste.rs/s/nzt6xh/mermaid_gantt_diagrams_are_great_for"
+    ],
+    [
+      "Mermaid Gantt diagrams are great for displaying distributed traces in Markdown",
+      "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 05:59:29",
+      "https://lobste.rs/s/5ktgbs/what_s_point_std_monostate_you_can_t_do"
+    ],
+    [
+      "What's the point of std::monostate? You can't do anything with it",
+      "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 02:36:32",
+      "https://lobste.rs/s/5j8qxc/from_linux_netbsd_with_ssh_only"
+    ],
+    [
+      "From Linux to NetBSD, with SSH only",
+      "https://cloudbsd.xyz/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 22:02:59",
+      "https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1"
+    ],
+    [
+      "Build your own SQLite in Rust - Part1",
+      "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 16:47:59",
+      "https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work"
+    ],
+    [
+      "How conditional breakpoints work",
+      "https://werat.dev/blog/how-conditional-breakpoints-work/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 16:14:11",
+      "https://lobste.rs/s/vffdwj/doors_solaris_lightweight_rpc_using_file"
+    ],
+    [
+      "\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)",
+      "http://www.kohala.com/start/papers.others/doors.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 14:25:44",
+      "https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches"
+    ],
+    [
+      "git-spice - manage stacked Git branches",
+      "https://abhinav.github.io/git-spice/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 13:22:44",
+      "https://lobste.rs/s/uqqtiy/nix_camp_2024_is_on"
+    ],
+    [
+      "Nix Camp 2024 is On",
+      "https://nix.camp/"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 09:05:27",
+      "https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types"
+    ],
+    [
+      "The algebra (and calculus!) of algebraic data types",
+      "https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types"
+    ]
+  ]
+]
