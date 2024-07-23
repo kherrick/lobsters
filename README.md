@@ -7,6 +7,7 @@
 * [2024-07-23, 11:23:40](https://lobste.rs/s/javf1g/jump_flood_algorithm_driven_motion_blur) - [Jump Flood Algorithm Driven Motion Blur](https://www.youtube.com/watch?v=m_KvYlYF3sA)
 * [2024-07-23, 10:51:34](https://lobste.rs/s/sgmbs1/rediscovering_transaction_processing) - [Rediscovering Transaction Processing From History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 09:48:45](https://lobste.rs/s/otpjn7/interface_design_age_qualiatech_do_you) - [Interface design in the age of qualiatech: Do you want to be a button?](https://smoothbrains.net/posts/2024-07-19-qualiatech.html)
+* [2024-07-23, 09:08:17](https://lobste.rs/s/36x9fn/building_usis_with_mkosi) - [Building USIs with mkosi](https://overhead.neocities.org/blog/build-usi-mkosi/)
 * [2024-07-23, 09:02:22](https://lobste.rs/s/wws2ef/openbsd_workstation_for_people) - [OpenBSD Workstation for the People](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
 * [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-23, 07:35:35](https://lobste.rs/s/5kcniv/could_we_have_observability_tag) - [Could we have an 'Observability' tag?](https://lobste.rs/s/5kcniv/could_we_have_observability_tag)
@@ -24,7 +25,6 @@
 * [2024-07-22, 09:55:00](https://lobste.rs/s/i6mhqj/parsing_protobuf_definitions_with_tree) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-07-22, 09:05:27](https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types) - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 * [2024-07-22, 04:59:03](https://lobste.rs/s/g4nt4n/jiff_date_time_library_for_rust) - [jiff: A date-time library for Rust that encourages you to jump into the pit of success](https://github.com/BurntSushi/jiff)
-* [2024-07-21, 13:57:34](https://lobste.rs/s/gseiin/ui_for_sums_must_remember_products) - [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
 
 ## [Archives](archives/index.md)
 
