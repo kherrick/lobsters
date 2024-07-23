@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 14:36:28](https://lobste.rs/s/offurk/how_we_securely_generate_sensitive) - [How we securely generate sensitive secrets](https://monzo.com/blog/how-we-securely-generate-sensitive-secrets)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-23, 14:13:06](https://lobste.rs/s/jiuh8g/google_is_keeping_cookies_chrome_after) - [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/tech/google-is-keeping-cookies-in-chrome-after-all-89debea8?st=k0p4fdnfcckycil)
 * [2024-07-23, 12:51:39](https://lobste.rs/s/mwci8k/go_features_by_version) - [Go features by version](https://antonz.org/which-go/)
