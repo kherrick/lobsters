@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-23, 16:26:10",
+      "https://lobste.rs/s/txturv/tips_for_socless_oncall"
+    ],
+    [
+      "Tips for SOCLess Oncall",
+      "https://crowdalert.com/tips-for-socless-oncall/"
+    ]
+  ],
+  [
+    [
+      "2024-07-23, 16:19:44",
+      "https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic"
+    ],
+    [
+      "Give me the green light: hacking traffic control systems",
+      "https://www.redthreatsec.com/blog/greenlightspart1"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 14:40:18",
       "https://lobste.rs/s/oqwo3u/history_replication_postgresql_2015"
     ],
@@ -47,16 +67,6 @@
     [
       "Go features by version",
       "https://antonz.org/which-go/"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 12:16:20",
-      "https://lobste.rs/s/tsfebc/cubecl_write_gpu_code_rust_targetting"
-    ],
-    [
-      "cubecl: write GPU code in Rust, targetting multiple platforms",
-      "https://github.com/tracel-ai/cubecl"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Nix Camp 2024 is On",
       "https://nix.camp/"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 09:55:00",
-      "https://lobste.rs/s/i6mhqj/parsing_protobuf_definitions_with_tree"
-    ],
-    [
-      "Parsing Protobuf Definitions with Tree-sitter",
-      "https://relistan.com/parsing-protobuf-files-with-treesitter"
     ]
   ],
   [
