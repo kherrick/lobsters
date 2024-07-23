@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-22, 23:34:56",
-      "https://lobste.rs/s/eehf7s/mastering_emacs"
-    ],
-    [
-      "Mastering Emacs",
-      "https://www.masteringemacs.org/"
-    ]
-  ],
-  [
-    [
       "2024-07-22, 22:02:59",
       "https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1"
     ],
@@ -187,6 +177,16 @@
     [
       "jiff: A date-time library for Rust that encourages you to jump into the pit of success",
       "https://github.com/BurntSushi/jiff"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 01:46:41",
+      "https://lobste.rs/s/ibwlo0/mapping_symbols_rethinking_for"
+    ],
+    [
+      "Mapping symbols: rethinking for efficiency",
+      "https://maskray.me/blog/2024-07-21-mapping-symbols-rethinking-for-efficiency"
     ]
   ],
   [
