@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-23, 14:13:06](https://lobste.rs/s/jiuh8g/google_is_keeping_cookies_chrome_after) - [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/tech/google-is-keeping-cookies-in-chrome-after-all-89debea8?st=k0p4fdnfcckycil)
+* [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-23, 12:51:39](https://lobste.rs/s/mwci8k/go_features_by_version) - [Go features by version](https://antonz.org/which-go/)
 * [2024-07-23, 12:16:20](https://lobste.rs/s/tsfebc/cubecl_write_gpu_code_rust_targetting) - [cubecl: write GPU code in Rust, targetting multiple platforms](https://github.com/tracel-ai/cubecl)
 * [2024-07-23, 12:15:39](https://lobste.rs/s/bicliq/median_filtering_naive_algorithm) - [Median filtering: naive algorithm, histogram-based, binary tree, and more](https://www.crisluengo.net/archives/1138/)
