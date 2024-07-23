@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-07-23, 16:26:10",
-      "https://lobste.rs/s/txturv/tips_for_socless_oncall"
+      "2024-07-23, 17:17:37",
+      "https://lobste.rs/s/mkhvi7/postgres_looks_eventually_consistent"
     ],
     [
-      "Tips for SOCLess Oncall",
-      "https://crowdalert.com/tips-for-socless-oncall/"
+      "Postgres looks eventually consistent (from the client)",
+      "https://blog.sequinstream.com/postgres-looks-eventually-consistent-from-the-client/"
     ]
   ],
   [
