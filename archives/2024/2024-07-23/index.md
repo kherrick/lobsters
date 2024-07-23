@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 19:23:24](https://lobste.rs/s/pedtr9/pinned_places) - [Pinned places](https://without.boats/blog/pinned-places/)
 * [2024-07-23, 19:01:50](https://lobste.rs/s/pwjlen/is_performance_reduced_when_executing) - [Is performance reduced when executing loops whose uop count is not a multiple of processor width?](https://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of)
 * [2024-07-23, 17:31:03](https://lobste.rs/s/fdhrmx/doukutsu_rs_faithful_open_source_remake) - [doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust](https://github.com/doukutsu-rs/doukutsu-rs)
 * [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_looks_eventually_consistent) - [Postgres looks eventually consistent (from the client)](https://blog.sequinstream.com/postgres-looks-eventually-consistent-from-the-client/)
