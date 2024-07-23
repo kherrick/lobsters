@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-23, 09:02:22",
+      "https://lobste.rs/s/wws2ef/openbsd_workstation_for_people"
+    ],
+    [
+      "OpenBSD Workstation for the People",
+      "https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 07:41:02",
       "https://lobste.rs/s/tjudzv/elegance_ascii_table"
     ],
@@ -197,16 +207,6 @@
     [
       "The algebra (and calculus!) of algebraic data types",
       "https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 07:05:52",
-      "https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper"
-    ],
-    [
-      "Rust Question on embedding FSM in wrapper struct(s)",
-      "https://lobste.rs/s/prwwwm/rust_question_on_embedding_fsm_wrapper"
     ]
   ],
   [
