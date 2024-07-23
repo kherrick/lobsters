@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_looks_eventually_consistent) - [Postgres looks eventually consistent (from the client)](https://blog.sequinstream.com/postgres-looks-eventually-consistent-from-the-client/)
 * [2024-07-23, 16:26:10](https://lobste.rs/s/txturv/tips_for_socless_oncall) - [Tips for SOCLess Oncall](https://crowdalert.com/tips-for-socless-oncall/)
 * [2024-07-23, 16:19:44](https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic) - [Give me the green light: hacking traffic control systems](https://www.redthreatsec.com/blog/greenlightspart1)
 * [2024-07-23, 14:40:18](https://lobste.rs/s/oqwo3u/history_replication_postgresql_2015) - [The history of replication in PostgreSQL (2015)](https://peter.eisentraut.org/blog/2015/03/03/the-history-of-replication-in-postgresql)
