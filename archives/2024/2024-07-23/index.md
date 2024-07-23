@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-23, 07:35:35](https://lobste.rs/s/5kcniv/could_we_have_observability_tag) - [Could we have an 'Observability' tag?](https://lobste.rs/s/5kcniv/could_we_have_observability_tag)
 * [2024-07-23, 07:32:31](https://lobste.rs/s/h9ef1r/types_as_interfaces) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 07:31:08](https://lobste.rs/s/nzt6xh/mermaid_gantt_diagrams_are_great_for) - [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)

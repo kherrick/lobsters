@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-23, 07:35:35](https://lobste.rs/s/5kcniv/could_we_have_observability_tag) - [Could we have an 'Observability' tag?](https://lobste.rs/s/5kcniv/could_we_have_observability_tag)
 * [2024-07-23, 07:32:31](https://lobste.rs/s/h9ef1r/types_as_interfaces) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 07:31:08](https://lobste.rs/s/nzt6xh/mermaid_gantt_diagrams_are_great_for) - [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
@@ -13,7 +14,6 @@
 * [2024-07-22, 17:52:57](https://lobste.rs/s/d8alwc/reverse_engineering_usb_device_with_rust) - [Reverse engineering a USB device with Rust (2020)](https://gill.net.in/posts/reverse-engineering-a-usb-device-with-rust/)
 * [2024-07-22, 16:47:59](https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work) - [How conditional breakpoints work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 * [2024-07-22, 16:14:11](https://lobste.rs/s/vffdwj/doors_solaris_lightweight_rpc_using_file) - [\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
-* [2024-07-22, 14:53:16](https://lobste.rs/s/mzksfr/historical_case_for_fair_source) - [The Historical Case for Fair Source](https://openpath.chadwhitacre.com/2024/the-historical-case-for-fair-source/)
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
 * [2024-07-22, 13:24:39](https://lobste.rs/s/bzrkiv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bzrkiv/what_are_you_doing_this_week)
 * [2024-07-22, 13:22:44](https://lobste.rs/s/uqqtiy/nix_camp_2024_is_on) - [Nix Camp 2024 is On](https://nix.camp/)
