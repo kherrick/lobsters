@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-07-23, 14:13:06",
-      "https://lobste.rs/s/jiuh8g/google_is_keeping_cookies_chrome_after"
-    ],
-    [
-      "Google Is Keeping Cookies in Chrome After All",
-      "https://www.wsj.com/tech/google-is-keeping-cookies-in-chrome-after-all-89debea8?st=k0p4fdnfcckycil"
-    ]
-  ],
-  [
-    [
       "2024-07-23, 12:51:39",
       "https://lobste.rs/s/mwci8k/go_features_by_version"
     ],
@@ -187,6 +177,16 @@
     [
       "Build your own SQLite in Rust - Part1",
       "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
+    ]
+  ],
+  [
+    [
+      "2024-07-22, 19:06:39",
+      "https://lobste.rs/s/amanh7/glisp_graphical_lisp"
+    ],
+    [
+      "(glisp) - graphical LISP",
+      "https://glisp.app/commit:e7fbaae/"
     ]
   ],
   [
