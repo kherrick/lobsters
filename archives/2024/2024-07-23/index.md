@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 17:31:03](https://lobste.rs/s/fdhrmx/doukutsu_rs_faithful_open_source_remake) - [doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust](https://github.com/doukutsu-rs/doukutsu-rs)
 * [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_looks_eventually_consistent) - [Postgres looks eventually consistent (from the client)](https://blog.sequinstream.com/postgres-looks-eventually-consistent-from-the-client/)
 * [2024-07-23, 16:26:10](https://lobste.rs/s/txturv/tips_for_socless_oncall) - [Tips for SOCLess Oncall](https://crowdalert.com/tips-for-socless-oncall/)
 * [2024-07-23, 16:19:44](https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic) - [Give me the green light: hacking traffic control systems](https://www.redthreatsec.com/blog/greenlightspart1)

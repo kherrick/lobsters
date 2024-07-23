@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-23, 17:31:03](https://lobste.rs/s/fdhrmx/doukutsu_rs_faithful_open_source_remake) - [doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust](https://github.com/doukutsu-rs/doukutsu-rs)
 * [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_looks_eventually_consistent) - [Postgres looks eventually consistent (from the client)](https://blog.sequinstream.com/postgres-looks-eventually-consistent-from-the-client/)
 * [2024-07-23, 16:19:44](https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic) - [Give me the green light: hacking traffic control systems](https://www.redthreatsec.com/blog/greenlightspart1)
 * [2024-07-23, 14:40:18](https://lobste.rs/s/oqwo3u/history_replication_postgresql_2015) - [The history of replication in PostgreSQL (2015)](https://peter.eisentraut.org/blog/2015/03/03/the-history-of-replication-in-postgresql)
@@ -18,7 +19,6 @@
 * [2024-07-23, 05:59:29](https://lobste.rs/s/5ktgbs/what_s_point_std_monostate_you_can_t_do) - [What's the point of std::monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-23, 02:36:32](https://lobste.rs/s/5j8qxc/from_linux_netbsd_with_ssh_only) - [From Linux to NetBSD, with SSH only](https://cloudbsd.xyz/)
 * [2024-07-22, 22:02:59](https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1) - [Build your own SQLite in Rust - Part1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
-* [2024-07-22, 19:06:39](https://lobste.rs/s/amanh7/glisp_graphical_lisp) - [(glisp) - graphical LISP](https://glisp.app/commit:e7fbaae/)
 * [2024-07-22, 16:47:59](https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work) - [How conditional breakpoints work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 * [2024-07-22, 16:14:11](https://lobste.rs/s/vffdwj/doors_solaris_lightweight_rpc_using_file) - [\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
