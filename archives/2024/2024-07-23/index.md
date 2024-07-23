@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 16:26:10](https://lobste.rs/s/txturv/tips_for_socless_oncall) - [Tips for SOCLess Oncall](https://crowdalert.com/tips-for-socless-oncall/)
+* [2024-07-23, 16:19:44](https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic) - [Give me the green light: hacking traffic control systems](https://www.redthreatsec.com/blog/greenlightspart1)
 * [2024-07-23, 14:40:18](https://lobste.rs/s/oqwo3u/history_replication_postgresql_2015) - [The history of replication in PostgreSQL (2015)](https://peter.eisentraut.org/blog/2015/03/03/the-history-of-replication-in-postgresql)
 * [2024-07-23, 14:36:28](https://lobste.rs/s/offurk/how_we_securely_generate_sensitive) - [How we securely generate sensitive secrets](https://monzo.com/blog/how-we-securely-generate-sensitive-secrets)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
