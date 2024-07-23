@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 09:08:17](https://lobste.rs/s/36x9fn/building_usis_with_mkosi) - [Building USIs with mkosi](https://overhead.neocities.org/blog/build-usi-mkosi/)
 * [2024-07-23, 09:02:22](https://lobste.rs/s/wws2ef/openbsd_workstation_for_people) - [OpenBSD Workstation for the People](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
 * [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-23, 07:35:35](https://lobste.rs/s/5kcniv/could_we_have_observability_tag) - [Could we have an 'Observability' tag?](https://lobste.rs/s/5kcniv/could_we_have_observability_tag)

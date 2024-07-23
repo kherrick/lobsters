@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-23, 09:08:17](https://lobste.rs/s/36x9fn/building_usis_with_mkosi) - [Building USIs with mkosi](https://overhead.neocities.org/blog/build-usi-mkosi/)
 * [2024-07-23, 09:02:22](https://lobste.rs/s/wws2ef/openbsd_workstation_for_people) - [OpenBSD Workstation for the People](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
 * [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-23, 07:35:35](https://lobste.rs/s/5kcniv/could_we_have_observability_tag) - [Could we have an 'Observability' tag?](https://lobste.rs/s/5kcniv/could_we_have_observability_tag)
@@ -8,7 +9,6 @@
 * [2024-07-23, 05:59:29](https://lobste.rs/s/5ktgbs/what_s_point_std_monostate_you_can_t_do) - [What's the point of std::monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-23, 03:53:50](https://lobste.rs/s/x6nsi8/state_docker_on_popular_risc_v_platforms) - [The state of Docker on popular RISC-V platforms](https://www.jeffgeerling.com/blog/2024/state-docker-on-popular-risc-v-platforms)
 * [2024-07-23, 02:36:32](https://lobste.rs/s/5j8qxc/from_linux_netbsd_with_ssh_only) - [From Linux to NetBSD, with SSH only](https://cloudbsd.xyz/)
-* [2024-07-23, 02:34:53](https://lobste.rs/s/mtnfwp/opencv_wild_kingdom) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
 * [2024-07-22, 23:41:00](https://lobste.rs/s/9lkulm/ronin_2_1_0_has_finally_been_released_new) - [Ronin 2.1.0 has finally been released! New database tables, new payloads, new recon engine, new Web UI, and more](https://ronin-rb.dev/blog/2024/07/22/ronin-2-1-0-finally-released.html)
 * [2024-07-22, 22:02:59](https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1) - [Build your own SQLite in Rust - Part1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-07-22, 19:06:39](https://lobste.rs/s/amanh7/glisp_graphical_lisp) - [(glisp) - graphical LISP](https://glisp.app/commit:e7fbaae/)
