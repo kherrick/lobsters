@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-23, 14:40:18](https://lobste.rs/s/oqwo3u/history_replication_postgresql_2015) - [The history of replication in PostgreSQL (2015)](https://peter.eisentraut.org/blog/2015/03/03/the-history-of-replication-in-postgresql)
 * [2024-07-23, 14:36:28](https://lobste.rs/s/offurk/how_we_securely_generate_sensitive) - [How we securely generate sensitive secrets](https://monzo.com/blog/how-we-securely-generate-sensitive-secrets)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-23, 14:13:06](https://lobste.rs/s/jiuh8g/google_is_keeping_cookies_chrome_after) - [Google Is Keeping Cookies in Chrome After All](https://www.wsj.com/tech/google-is-keeping-cookies-in-chrome-after-all-89debea8?st=k0p4fdnfcckycil)
@@ -15,7 +16,6 @@
 * [2024-07-23, 07:31:08](https://lobste.rs/s/nzt6xh/mermaid_gantt_diagrams_are_great_for) - [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 * [2024-07-23, 05:59:29](https://lobste.rs/s/5ktgbs/what_s_point_std_monostate_you_can_t_do) - [What's the point of std::monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-23, 02:36:32](https://lobste.rs/s/5j8qxc/from_linux_netbsd_with_ssh_only) - [From Linux to NetBSD, with SSH only](https://cloudbsd.xyz/)
-* [2024-07-22, 23:41:00](https://lobste.rs/s/9lkulm/ronin_2_1_0_has_finally_been_released_new) - [Ronin 2.1.0 has finally been released! New database tables, new payloads, new recon engine, new Web UI, and more](https://ronin-rb.dev/blog/2024/07/22/ronin-2-1-0-finally-released.html)
 * [2024-07-22, 22:02:59](https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1) - [Build your own SQLite in Rust - Part1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-07-22, 19:06:39](https://lobste.rs/s/amanh7/glisp_graphical_lisp) - [(glisp) - graphical LISP](https://glisp.app/commit:e7fbaae/)
 * [2024-07-22, 16:47:59](https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work) - [How conditional breakpoints work](https://werat.dev/blog/how-conditional-breakpoints-work/)
