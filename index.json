@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-23, 10:51:34",
+      "https://lobste.rs/s/sgmbs1/rediscovering_transaction_processing"
+    ],
+    [
+      "Rediscovering Transaction Processing From History and First Principles",
+      "https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles"
+    ]
+  ],
+  [
+    [
       "2024-07-23, 09:48:45",
       "https://lobste.rs/s/otpjn7/interface_design_age_qualiatech_do_you"
     ],
@@ -127,16 +137,6 @@
     [
       "(glisp) - graphical LISP",
       "https://glisp.app/commit:e7fbaae/"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 17:52:57",
-      "https://lobste.rs/s/d8alwc/reverse_engineering_usb_device_with_rust"
-    ],
-    [
-      "Reverse engineering a USB device with Rust (2020)",
-      "https://gill.net.in/posts/reverse-engineering-a-usb-device-with-rust/"
     ]
   ],
   [
