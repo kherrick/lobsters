@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-23, 09:48:45](https://lobste.rs/s/otpjn7/interface_design_age_qualiatech_do_you) - [Interface design in the age of qualiatech: Do you want to be a button?](https://smoothbrains.net/posts/2024-07-19-qualiatech.html)
 * [2024-07-23, 09:08:17](https://lobste.rs/s/36x9fn/building_usis_with_mkosi) - [Building USIs with mkosi](https://overhead.neocities.org/blog/build-usi-mkosi/)
 * [2024-07-23, 09:02:22](https://lobste.rs/s/wws2ef/openbsd_workstation_for_people) - [OpenBSD Workstation for the People](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
 * [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
@@ -18,7 +19,6 @@
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
 * [2024-07-22, 13:24:39](https://lobste.rs/s/bzrkiv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/bzrkiv/what_are_you_doing_this_week)
 * [2024-07-22, 13:22:44](https://lobste.rs/s/uqqtiy/nix_camp_2024_is_on) - [Nix Camp 2024 is On](https://nix.camp/)
-* [2024-07-22, 11:38:42](https://lobste.rs/s/pplfdt/social_computing_before_internet) - [Social Computing, before the Internet](https://netsettlement.blogspot.com/2024/07/social-computing-before-internet.html)
 * [2024-07-22, 09:55:00](https://lobste.rs/s/i6mhqj/parsing_protobuf_definitions_with_tree) - [Parsing Protobuf Definitions with Tree-sitter](https://relistan.com/parsing-protobuf-files-with-treesitter)
 * [2024-07-22, 09:05:27](https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types) - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 * [2024-07-22, 04:59:03](https://lobste.rs/s/g4nt4n/jiff_date_time_library_for_rust) - [jiff: A date-time library for Rust that encourages you to jump into the pit of success](https://github.com/BurntSushi/jiff)

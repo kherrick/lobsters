@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-23](index.md)
 
+* [2024-07-23, 09:48:45](https://lobste.rs/s/otpjn7/interface_design_age_qualiatech_do_you) - [Interface design in the age of qualiatech: Do you want to be a button?](https://smoothbrains.net/posts/2024-07-19-qualiatech.html)
 * [2024-07-23, 09:08:17](https://lobste.rs/s/36x9fn/building_usis_with_mkosi) - [Building USIs with mkosi](https://overhead.neocities.org/blog/build-usi-mkosi/)
 * [2024-07-23, 09:02:22](https://lobste.rs/s/wws2ef/openbsd_workstation_for_people) - [OpenBSD Workstation for the People](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
 * [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
