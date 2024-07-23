@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-23, 23:27:32](https://lobste.rs/s/qqyfjh/enhancing_your_elixir_codebase_with) - [Enhancing Your Elixir Codebase with Gleam](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
 * [2024-07-23, 19:23:24](https://lobste.rs/s/pedtr9/pinned_places) - [Pinned places](https://without.boats/blog/pinned-places/)
 * [2024-07-23, 19:01:50](https://lobste.rs/s/pwjlen/is_performance_reduced_when_executing) - [Is performance reduced when executing loops whose uop count is not a multiple of processor width?](https://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of)
 * [2024-07-23, 17:31:03](https://lobste.rs/s/fdhrmx/doukutsu_rs_faithful_open_source_remake) - [doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust](https://github.com/doukutsu-rs/doukutsu-rs)
@@ -24,7 +25,6 @@
 * [2024-07-22, 16:14:11](https://lobste.rs/s/vffdwj/doors_solaris_lightweight_rpc_using_file) - [\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
 * [2024-07-22, 13:22:44](https://lobste.rs/s/uqqtiy/nix_camp_2024_is_on) - [Nix Camp 2024 is On](https://nix.camp/)
-* [2024-07-22, 09:05:27](https://lobste.rs/s/mfbveg/algebra_calculus_algebraic_data_types) - [The algebra (and calculus!) of algebraic data types](https://codewords.recurse.com/issues/three/algebra-and-calculus-of-algebraic-data-types)
 
 ## [Archives](archives/index.md)
 
