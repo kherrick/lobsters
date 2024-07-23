@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-23, 05:59:29](https://lobste.rs/s/5ktgbs/what_s_point_std_monostate_you_can_t_do) - [What's the point of std::monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-23, 03:53:50](https://lobste.rs/s/x6nsi8/state_docker_on_popular_risc_v_platforms) - [The state of Docker on popular RISC-V platforms](https://www.jeffgeerling.com/blog/2024/state-docker-on-popular-risc-v-platforms)
 * [2024-07-23, 02:36:32](https://lobste.rs/s/5j8qxc/from_linux_netbsd_with_ssh_only) - [From Linux to NetBSD, with SSH only](https://cloudbsd.xyz/)
 * [2024-07-23, 02:34:53](https://lobste.rs/s/mtnfwp/opencv_wild_kingdom) - [OpenCV and the Wild Kingdom](https://scottsexton.co/post/opencv_wild_kingdom/)
@@ -21,7 +22,6 @@
 * [2024-07-22, 04:59:03](https://lobste.rs/s/g4nt4n/jiff_date_time_library_for_rust) - [jiff: A date-time library for Rust that encourages you to jump into the pit of success](https://github.com/BurntSushi/jiff)
 * [2024-07-22, 01:29:25](https://lobste.rs/s/kr9od0/did_you_know_about_instruments) - [Did you know about Instruments?](https://registerspill.thorstenball.com/p/did-you-know-about-instruments)
 * [2024-07-21, 22:08:07](https://lobste.rs/s/5jjtem/maintain_golden_test_your_package_s_api) - [Maintain a golden test of your package's API with `diff-package-api` and `print-api`](https://discourse.haskell.org/t/maintain-a-golden-test-of-your-packages-api-with-diff-package-api-and-print-api/9997)
-* [2024-07-21, 21:22:08](https://lobste.rs/s/bonojc/brief_history_dell_unix) - [A brief history of Dell UNIX](https://notes.technologists.com/notes/2008/01/10/a-brief-history-of-dell-unix/)
 * [2024-07-21, 19:35:21](https://lobste.rs/s/e5kbev/baby_s_second_wasm_compiler) - [Baby's second wasm compiler](https://www.scattered-thoughts.net/writing/babys-second-wasm-compiler)
 * [2024-07-21, 14:48:25](https://lobste.rs/s/6jhqjo/how_not_use_box_shadows) - [How not to use box shadows](https://dgerrells.com/blog/how-not-to-use-box-shadows)
 * [2024-07-21, 13:57:34](https://lobste.rs/s/gseiin/ui_for_sums_must_remember_products) - [UI for sums must remember products](https://eighty-twenty.org/2024/07/21/ui-for-sums-remembers-products)
