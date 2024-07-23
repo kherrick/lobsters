@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-23, 10:51:34](https://lobste.rs/s/sgmbs1/rediscovering_transaction_processing) - [Rediscovering Transaction Processing From History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 09:48:45](https://lobste.rs/s/otpjn7/interface_design_age_qualiatech_do_you) - [Interface design in the age of qualiatech: Do you want to be a button?](https://smoothbrains.net/posts/2024-07-19-qualiatech.html)
 * [2024-07-23, 09:08:17](https://lobste.rs/s/36x9fn/building_usis_with_mkosi) - [Building USIs with mkosi](https://overhead.neocities.org/blog/build-usi-mkosi/)
 * [2024-07-23, 09:02:22](https://lobste.rs/s/wws2ef/openbsd_workstation_for_people) - [OpenBSD Workstation for the People](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
@@ -13,7 +14,6 @@
 * [2024-07-22, 23:41:00](https://lobste.rs/s/9lkulm/ronin_2_1_0_has_finally_been_released_new) - [Ronin 2.1.0 has finally been released! New database tables, new payloads, new recon engine, new Web UI, and more](https://ronin-rb.dev/blog/2024/07/22/ronin-2-1-0-finally-released.html)
 * [2024-07-22, 22:02:59](https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1) - [Build your own SQLite in Rust - Part1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-07-22, 19:06:39](https://lobste.rs/s/amanh7/glisp_graphical_lisp) - [(glisp) - graphical LISP](https://glisp.app/commit:e7fbaae/)
-* [2024-07-22, 17:52:57](https://lobste.rs/s/d8alwc/reverse_engineering_usb_device_with_rust) - [Reverse engineering a USB device with Rust (2020)](https://gill.net.in/posts/reverse-engineering-a-usb-device-with-rust/)
 * [2024-07-22, 16:47:59](https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work) - [How conditional breakpoints work](https://werat.dev/blog/how-conditional-breakpoints-work/)
 * [2024-07-22, 16:14:11](https://lobste.rs/s/vffdwj/doors_solaris_lightweight_rpc_using_file) - [\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
