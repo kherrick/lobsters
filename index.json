@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-24, 09:36:15",
+      "https://lobste.rs/s/k4uuth/intent_end_ocsp_service"
+    ],
+    [
+      "Intent to End OCSP Service",
+      "https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 06:44:57",
       "https://lobste.rs/s/ecmnpo/how_north_korean_fake_it_worker_tried"
     ],
@@ -107,16 +117,6 @@
     [
       "Give me the green light: hacking traffic control systems",
       "https://www.redthreatsec.com/blog/greenlightspart1"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 14:40:18",
-      "https://lobste.rs/s/oqwo3u/history_replication_postgresql_2015"
-    ],
-    [
-      "The history of replication in PostgreSQL (2015)",
-      "https://peter.eisentraut.org/blog/2015/03/03/the-history-of-replication-in-postgresql"
     ]
   ],
   [
