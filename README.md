@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-24, 21:00:52](https://lobste.rs/s/xyhjnb/generating_sudokus_for_fun_no_profit) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-24, 17:57:25](https://lobste.rs/s/u67weo/uniform_name_service_for_spring_s_unix) - [A Uniform Name Service for Spring's UNIX Environment (1994)](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/uniform-name-service-springs-unix-environment)
 * [2024-07-24, 17:44:28](https://lobste.rs/s/iyoddd/joy_excitement_surprise_computing_con) - [The joy, excitement, and surprise of computing - !!Con 2024](https://bangbangcon.com/index.html)
 * [2024-07-24, 17:34:35](https://lobste.rs/s/dd8k4v/understanding_performance) - [Understanding the Performance Implications of Storage-Disaggregated Databases](https://muratbuffalo.blogspot.com/2024/07/understanding-performance-implications.html)
@@ -19,7 +20,6 @@
 * [2024-07-24, 00:09:30](https://lobste.rs/s/e0tner/taking_my_diabetes_treatment_into_my_own) - [Taking my diabetes treatment into my own hands](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
 * [2024-07-23, 23:27:32](https://lobste.rs/s/qqyfjh/enhancing_your_elixir_codebase_with) - [Enhancing Your Elixir Codebase with Gleam](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
 * [2024-07-23, 19:23:24](https://lobste.rs/s/pedtr9/pinned_places) - [Pinned places](https://without.boats/blog/pinned-places/)
-* [2024-07-23, 17:31:03](https://lobste.rs/s/fdhrmx/doukutsu_rs_faithful_open_source_remake) - [doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust](https://github.com/doukutsu-rs/doukutsu-rs)
 * [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_sequences_can_commit_out_order) - [Postgres sequences can commit out-of-order](https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-23, 12:51:39](https://lobste.rs/s/mwci8k/go_features_by_version) - [Go features by version](https://antonz.org/which-go/)
