@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-24, 00:09:30](https://lobste.rs/s/e0tner/taking_my_diabetes_treatment_into_my_own) - [Taking my diabetes treatment into my own hands](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
 * [2024-07-23, 23:27:32](https://lobste.rs/s/qqyfjh/enhancing_your_elixir_codebase_with) - [Enhancing Your Elixir Codebase with Gleam](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
 * [2024-07-23, 19:23:24](https://lobste.rs/s/pedtr9/pinned_places) - [Pinned places](https://without.boats/blog/pinned-places/)
 * [2024-07-23, 19:01:50](https://lobste.rs/s/pwjlen/is_performance_reduced_when_executing) - [Is performance reduced when executing loops whose uop count is not a multiple of processor width?](https://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of)
@@ -22,7 +23,6 @@
 * [2024-07-23, 02:36:32](https://lobste.rs/s/5j8qxc/from_linux_netbsd_with_ssh_only) - [From Linux to NetBSD, with SSH only](https://cloudbsd.xyz/)
 * [2024-07-22, 22:02:59](https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1) - [Build your own SQLite in Rust - Part1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 * [2024-07-22, 16:47:59](https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work) - [How conditional breakpoints work](https://werat.dev/blog/how-conditional-breakpoints-work/)
-* [2024-07-22, 16:14:11](https://lobste.rs/s/vffdwj/doors_solaris_lightweight_rpc_using_file) - [\"Doors\" in Solaris: Lightweight RPC using File Descriptors (1996)](http://www.kohala.com/start/papers.others/doors.html)
 * [2024-07-22, 14:25:44](https://lobste.rs/s/40a2yb/git_spice_manage_stacked_git_branches) - [git-spice - manage stacked Git branches](https://abhinav.github.io/git-spice/)
 * [2024-07-22, 13:22:44](https://lobste.rs/s/uqqtiy/nix_camp_2024_is_on) - [Nix Camp 2024 is On](https://nix.camp/)
 
