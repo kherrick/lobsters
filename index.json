@@ -1,11 +1,31 @@
 [
   [
     [
-      "2024-07-24, 14:30:43",
-      "https://lobste.rs/s/tozlya/development_chez_scheme"
+      "2024-07-24, 14:55:06",
+      "https://lobste.rs/s/tck1cf/scheme_workshop_keynote_designing"
     ],
     [
-      "The Development of Chez Scheme",
+      "Scheme Workshop Keynote: Designing and implementing Chez Scheme, Andy Keep",
+      "https://www.youtube.com/watch?v=BcC3KScZ-yA"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 14:51:34",
+      "https://lobste.rs/s/gr6oam/how_debug_chez_scheme_programs_2002"
+    ],
+    [
+      "How to Debug Chez Scheme Programs (2002)",
+      "https://www.scheme.com/debug/debug.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 14:30:43",
+      "https://lobste.rs/s/tozlya/development_chez_scheme_2006"
+    ],
+    [
+      "The Development of Chez Scheme (2006)",
       "https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf"
     ]
   ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-07-23, 14:36:28",
-      "https://lobste.rs/s/offurk/how_we_securely_generate_sensitive"
-    ],
-    [
-      "How we securely generate sensitive secrets",
-      "https://monzo.com/blog/how-we-securely-generate-sensitive-secrets"
-    ]
-  ],
-  [
-    [
       "2024-07-23, 14:20:06",
       "https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be"
     ],
@@ -237,16 +247,6 @@
     [
       "Mermaid Gantt diagrams are great for displaying distributed traces in Markdown",
       "https://brycemecum.com/2023/03/31/til-mermaid-tracing/"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 22:02:59",
-      "https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1"
-    ],
-    [
-      "Build your own SQLite in Rust - Part1",
-      "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
     ]
   ]
 ]
