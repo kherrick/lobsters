@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-24, 14:30:43](https://lobste.rs/s/tozlya/development_chez_scheme) - [The Development of Chez Scheme](https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf)
 * [2024-07-24, 12:18:58](https://lobste.rs/s/xkcrvn/abstract_interpretation_toy_optimizer) - [Abstract interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
 * [2024-07-24, 11:17:05](https://lobste.rs/s/wk2yi3/no_observability_without_theory_talk) - [No Observability Without Theory: The Talk](https://blog.danslimmon.com/2024/07/03/no-observability-without-theory-the-talk/)
 * [2024-07-24, 09:36:15](https://lobste.rs/s/k4uuth/intent_end_ocsp_service) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
@@ -23,7 +24,6 @@
 * [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-23, 07:32:31](https://lobste.rs/s/h9ef1r/types_as_interfaces) - [Types as Interfaces](https://two-wrongs.com/types-as-interfaces)
 * [2024-07-23, 07:31:08](https://lobste.rs/s/nzt6xh/mermaid_gantt_diagrams_are_great_for) - [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
-* [2024-07-23, 05:59:29](https://lobste.rs/s/5ktgbs/what_s_point_std_monostate_you_can_t_do) - [What's the point of std::monostate? You can't do anything with it](https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959)
 * [2024-07-22, 22:02:59](https://lobste.rs/s/n2qczh/build_your_own_sqlite_rust_part1) - [Build your own SQLite in Rust - Part1](https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables)
 
 ## [Archives](archives/index.md)
