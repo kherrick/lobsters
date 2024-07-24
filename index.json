@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-24, 06:22:02",
+      "https://lobste.rs/s/5xntyj/trusted_timestamping"
+    ],
+    [
+      "Trusted timestamping",
+      "https://en.wikipedia.org/wiki/Trusted_timestamping"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 03:35:37",
       "https://lobste.rs/s/jsmgpb/pnut_c_posix_shell_compiler_you_can_trust"
     ],
@@ -217,16 +227,6 @@
     [
       "What's the point of std::monostate? You can't do anything with it",
       "https://devblogs.microsoft.com/oldnewthing/20240708-00/?p=109959"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 02:36:32",
-      "https://lobste.rs/s/5j8qxc/from_linux_netbsd_with_ssh_only"
-    ],
-    [
-      "From Linux to NetBSD, with SSH only",
-      "https://cloudbsd.xyz/"
     ]
   ],
   [
