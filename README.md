@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-24, 15:44:47](https://lobste.rs/s/vwlmlg/leveraging_types_for_better_apis) - [Leveraging types for better APIs](https://github.com/green7ea/blog/blob/master/interface-typing/README.md)
 * [2024-07-24, 14:55:06](https://lobste.rs/s/tck1cf/scheme_workshop_keynote_designing) - [Scheme Workshop Keynote: Designing and implementing Chez Scheme, Andy Keep](https://www.youtube.com/watch?v=BcC3KScZ-yA)
 * [2024-07-24, 14:51:34](https://lobste.rs/s/gr6oam/how_debug_chez_scheme_programs_2002) - [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
 * [2024-07-24, 14:30:43](https://lobste.rs/s/tozlya/development_chez_scheme_2006) - [The Development of Chez Scheme (2006)](https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf)
@@ -16,7 +17,6 @@
 * [2024-07-23, 19:01:50](https://lobste.rs/s/pwjlen/is_performance_reduced_when_executing) - [Is performance reduced when executing loops whose uop count is not a multiple of processor width?](https://stackoverflow.com/questions/39311872/is-performance-reduced-when-executing-loops-whose-uop-count-is-not-a-multiple-of)
 * [2024-07-23, 17:31:03](https://lobste.rs/s/fdhrmx/doukutsu_rs_faithful_open_source_remake) - [doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust](https://github.com/doukutsu-rs/doukutsu-rs)
 * [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_sequences_can_commit_out_order) - [Postgres sequences can commit out-of-order](https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order)
-* [2024-07-23, 16:19:44](https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic) - [Give me the green light: hacking traffic control systems](https://www.redthreatsec.com/blog/greenlightspart1)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-23, 12:51:39](https://lobste.rs/s/mwci8k/go_features_by_version) - [Go features by version](https://antonz.org/which-go/)
 * [2024-07-23, 12:11:12](https://lobste.rs/s/rnqlef/named_arguments_rust_if_you_want_them) - [Named Arguments In Rust, If You Want Them](https://rtpg.co/2024/07/22/rust-named-arguments/)

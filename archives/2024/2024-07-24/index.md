@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 15:44:47](https://lobste.rs/s/vwlmlg/leveraging_types_for_better_apis) - [Leveraging types for better APIs](https://github.com/green7ea/blog/blob/master/interface-typing/README.md)
 * [2024-07-24, 14:55:06](https://lobste.rs/s/tck1cf/scheme_workshop_keynote_designing) - [Scheme Workshop Keynote: Designing and implementing Chez Scheme, Andy Keep](https://www.youtube.com/watch?v=BcC3KScZ-yA)
 * [2024-07-24, 14:51:34](https://lobste.rs/s/gr6oam/how_debug_chez_scheme_programs_2002) - [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
 * [2024-07-24, 14:30:43](https://lobste.rs/s/tozlya/development_chez_scheme_2006) - [The Development of Chez Scheme (2006)](https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf)
