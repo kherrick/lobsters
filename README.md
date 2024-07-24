@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-24, 17:21:16](https://lobste.rs/s/dmyevn/tricky_floating_point_calculation) - [A Tricky Floating-Point Calculation](https://akr.am/blog/posts/a-tricky-floating-point-calculation)
 * [2024-07-24, 17:13:16](https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables) - [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
 * [2024-07-24, 15:54:38](https://lobste.rs/s/ouhxs6/what_s_so_hard_about_constexpr_allocation) - [What’s so hard about constexpr allocation?](https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/)
 * [2024-07-24, 15:44:47](https://lobste.rs/s/vwlmlg/leveraging_types_for_better_apis) - [Leveraging types for better APIs](https://github.com/green7ea/blog/blob/master/interface-typing/README.md)
@@ -23,7 +24,6 @@
 * [2024-07-23, 12:11:12](https://lobste.rs/s/rnqlef/named_arguments_rust_if_you_want_them) - [Named Arguments In Rust, If You Want Them](https://rtpg.co/2024/07/22/rust-named-arguments/)
 * [2024-07-23, 10:51:34](https://lobste.rs/s/sgmbs1/rediscovering_transaction_processing) - [Rediscovering Transaction Processing From History and First Principles](https://tigerbeetle.com/blog/2024-07-23-rediscovering-transaction-processing-from-history-and-first-principles)
 * [2024-07-23, 09:02:22](https://lobste.rs/s/wws2ef/openbsd_workstation_for_people) - [OpenBSD Workstation for the People](https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/)
-* [2024-07-23, 07:41:02](https://lobste.rs/s/tjudzv/elegance_ascii_table) - [The Elegance of the ASCII Table](https://danq.me/2024/07/21/ascii/)
 * [2024-07-23, 07:31:08](https://lobste.rs/s/nzt6xh/mermaid_gantt_diagrams_are_great_for) - [Mermaid Gantt diagrams are great for displaying distributed traces in Markdown](https://brycemecum.com/2023/03/31/til-mermaid-tracing/)
 
 ## [Archives](archives/index.md)
