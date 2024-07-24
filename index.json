@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-24, 17:21:16",
+      "https://lobste.rs/s/dmyevn/tricky_floating_point_calculation"
+    ],
+    [
+      "A Tricky Floating-Point Calculation",
+      "https://akr.am/blog/posts/a-tricky-floating-point-calculation"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 17:13:16",
       "https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables"
     ],
@@ -227,16 +237,6 @@
     [
       "OpenBSD Workstation for the People",
       "https://www.tumfatig.net/2024/openbsd-workstation-for-the-people/"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 07:41:02",
-      "https://lobste.rs/s/tjudzv/elegance_ascii_table"
-    ],
-    [
-      "The Elegance of the ASCII Table",
-      "https://danq.me/2024/07/21/ascii/"
     ]
   ],
   [
