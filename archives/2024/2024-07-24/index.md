@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 17:34:35](https://lobste.rs/s/dd8k4v/understanding_performance) - [Understanding the Performance Implications of Storage-Disaggregated Databases](https://muratbuffalo.blogspot.com/2024/07/understanding-performance-implications.html)
+* [2024-07-24, 17:28:43](https://lobste.rs/s/aekb1g/ai_models_collapse_when_trained_on) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 * [2024-07-24, 17:21:16](https://lobste.rs/s/dmyevn/tricky_floating_point_calculation) - [A Tricky Floating-Point Calculation](https://akr.am/blog/posts/a-tricky-floating-point-calculation)
 * [2024-07-24, 17:13:16](https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables) - [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
 * [2024-07-24, 15:54:38](https://lobste.rs/s/ouhxs6/what_s_so_hard_about_constexpr_allocation) - [What’s so hard about constexpr allocation?](https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/)
