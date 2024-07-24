@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-24, 21:19:56](https://lobste.rs/s/ty9kjw/anyone_can_access_deleted_private) - [Anyone can Access Deleted and Private Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
+* [2024-07-24, 21:19:56](https://lobste.rs/s/ty9kjw/anyone_can_access_public_repository_data) - [Anyone can Access Public Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 21:00:52](https://lobste.rs/s/xyhjnb/generating_sudokus_for_fun_no_profit) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-24, 17:57:25](https://lobste.rs/s/u67weo/uniform_name_service_for_spring_s_unix) - [A Uniform Name Service for Spring's UNIX Environment (1994)](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/uniform-name-service-springs-unix-environment)
 * [2024-07-24, 17:44:28](https://lobste.rs/s/iyoddd/joy_excitement_surprise_computing_con) - [The joy, excitement, and surprise of computing - !!Con 2024](https://bangbangcon.com/index.html)
