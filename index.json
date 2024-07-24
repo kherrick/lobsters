@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-24, 03:35:37",
+      "https://lobste.rs/s/jsmgpb/pnut_c_posix_shell_compiler_you_can_trust"
+    ],
+    [
+      "Pnut: A C to POSIX Shell Compiler you can Trust",
+      "https://pnut.sh"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 02:02:39",
       "https://lobste.rs/s/qxsihu/optimizing_distutils_r1_eclass_via_wheel"
     ],
@@ -227,16 +237,6 @@
     [
       "Build your own SQLite in Rust - Part1",
       "https://blog.sylver.dev/build-your-own-sqlite-part-1-listing-tables"
-    ]
-  ],
-  [
-    [
-      "2024-07-22, 16:47:59",
-      "https://lobste.rs/s/woj8tt/how_conditional_breakpoints_work"
-    ],
-    [
-      "How conditional breakpoints work",
-      "https://werat.dev/blog/how-conditional-breakpoints-work/"
     ]
   ],
   [
