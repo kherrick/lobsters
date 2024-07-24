@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-24, 17:13:16",
+      "https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables"
+    ],
+    [
+      "An Extensive Benchmark of C and C++ Hash Tables",
+      "https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 15:54:38",
       "https://lobste.rs/s/ouhxs6/what_s_so_hard_about_constexpr_allocation"
     ],
@@ -67,16 +77,6 @@
     [
       "Abstract interpretation in the Toy Optimizer",
       "https://bernsteinbear.com/blog/toy-abstract-interpretation/"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 11:17:05",
-      "https://lobste.rs/s/wk2yi3/no_observability_without_theory_talk"
-    ],
-    [
-      "No Observability Without Theory: The Talk",
-      "https://blog.danslimmon.com/2024/07/03/no-observability-without-theory-the-talk/"
     ]
   ],
   [
