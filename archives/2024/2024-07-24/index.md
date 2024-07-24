@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 09:36:15](https://lobste.rs/s/k4uuth/intent_end_ocsp_service) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 * [2024-07-24, 06:44:57](https://lobste.rs/s/ecmnpo/how_north_korean_fake_it_worker_tried) - [How a North Korean Fake IT Worker Tried to Infiltrate Us](https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us)
 * [2024-07-24, 06:22:02](https://lobste.rs/s/5xntyj/trusted_timestamping) - [Trusted timestamping](https://en.wikipedia.org/wiki/Trusted_timestamping)
 * [2024-07-24, 03:35:37](https://lobste.rs/s/jsmgpb/pnut_c_posix_shell_compiler_you_can_trust) - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)

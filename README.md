@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-24, 09:36:15](https://lobste.rs/s/k4uuth/intent_end_ocsp_service) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 * [2024-07-24, 06:44:57](https://lobste.rs/s/ecmnpo/how_north_korean_fake_it_worker_tried) - [How a North Korean Fake IT Worker Tried to Infiltrate Us](https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us)
 * [2024-07-24, 06:22:02](https://lobste.rs/s/5xntyj/trusted_timestamping) - [Trusted timestamping](https://en.wikipedia.org/wiki/Trusted_timestamping)
 * [2024-07-24, 03:35:37](https://lobste.rs/s/jsmgpb/pnut_c_posix_shell_compiler_you_can_trust) - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
@@ -11,7 +12,6 @@
 * [2024-07-23, 17:31:03](https://lobste.rs/s/fdhrmx/doukutsu_rs_faithful_open_source_remake) - [doukutsu-rs: A faithful and open-source remake of Cave Story's engine written in Rust](https://github.com/doukutsu-rs/doukutsu-rs)
 * [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_sequences_can_commit_out_order) - [Postgres sequences can commit out-of-order](https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order)
 * [2024-07-23, 16:19:44](https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic) - [Give me the green light: hacking traffic control systems](https://www.redthreatsec.com/blog/greenlightspart1)
-* [2024-07-23, 14:40:18](https://lobste.rs/s/oqwo3u/history_replication_postgresql_2015) - [The history of replication in PostgreSQL (2015)](https://peter.eisentraut.org/blog/2015/03/03/the-history-of-replication-in-postgresql)
 * [2024-07-23, 14:36:28](https://lobste.rs/s/offurk/how_we_securely_generate_sensitive) - [How we securely generate sensitive secrets](https://monzo.com/blog/how-we-securely-generate-sensitive-secrets)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-23, 12:51:39](https://lobste.rs/s/mwci8k/go_features_by_version) - [Go features by version](https://antonz.org/which-go/)
