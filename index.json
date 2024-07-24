@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-24, 15:44:47",
+      "https://lobste.rs/s/vwlmlg/leveraging_types_for_better_apis"
+    ],
+    [
+      "Leveraging types for better APIs",
+      "https://github.com/green7ea/blog/blob/master/interface-typing/README.md"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 14:55:06",
       "https://lobste.rs/s/tck1cf/scheme_workshop_keynote_designing"
     ],
@@ -157,16 +167,6 @@
     [
       "Postgres sequences can commit out-of-order",
       "https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 16:19:44",
-      "https://lobste.rs/s/g4sanz/give_me_green_light_hacking_traffic"
-    ],
-    [
-      "Give me the green light: hacking traffic control systems",
-      "https://www.redthreatsec.com/blog/greenlightspart1"
     ]
   ],
   [
