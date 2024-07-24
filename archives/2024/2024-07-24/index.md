@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-24](index.md)
 
+* [2024-07-24, 14:55:06](https://lobste.rs/s/tck1cf/scheme_workshop_keynote_designing) - [Scheme Workshop Keynote: Designing and implementing Chez Scheme, Andy Keep](https://www.youtube.com/watch?v=BcC3KScZ-yA)
+* [2024-07-24, 14:51:34](https://lobste.rs/s/gr6oam/how_debug_chez_scheme_programs_2002) - [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
+* [2024-07-24, 14:30:43](https://lobste.rs/s/tozlya/development_chez_scheme_2006) - [The Development of Chez Scheme (2006)](https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf)
 * [2024-07-24, 14:30:43](https://lobste.rs/s/tozlya/development_chez_scheme) - [The Development of Chez Scheme](https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf)
 * [2024-07-24, 14:18:40](https://lobste.rs/s/w2tmvy/it_may_soon_be_legal_jailbreak_ai_expose) - [It May Soon Be Legal to Jailbreak AI to Expose How it Works](https://www.404media.co/it-may-soon-be-legal-to-jailbreak-ai-to-expose-how-it-works/)
 * [2024-07-24, 12:18:58](https://lobste.rs/s/xkcrvn/abstract_interpretation_toy_optimizer) - [Abstract interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
