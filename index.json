@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-25, 07:42:54",
+      "https://lobste.rs/s/3gc37e/rocksdb_not_good_choice_for_high"
+    ],
+    [
+      "RocksDB: Not A Good Choice for a High-Performance Streaming Platform",
+      "https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 07:02:48",
       "https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for"
     ],
@@ -217,16 +227,6 @@
     [
       "Pinned places",
       "https://without.boats/blog/pinned-places/"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 17:17:37",
-      "https://lobste.rs/s/mkhvi7/postgres_sequences_can_commit_out_order"
-    ],
-    [
-      "Postgres sequences can commit out-of-order",
-      "https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order"
     ]
   ],
   [
