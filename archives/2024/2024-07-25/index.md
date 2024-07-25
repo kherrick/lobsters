@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 14:53:07](https://lobste.rs/s/bo0yqm/cap_theorem_is_irrelevant_for_cloud) - [The CAP Theorem is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 13:00:07](https://lobste.rs/s/pmepgp/qt_creator_14_released) - [Qt Creator 14 released](https://www.qt.io/blog/qt-creator-14-released)
 * [2024-07-25, 12:35:21](https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0) - [Announcing Rust 1.80.0](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
 * [2024-07-25, 11:38:52](https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator) - [wruby: a single file, minimal site generator written in Ruby](https://wruby.btxx.org/)
