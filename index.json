@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-25, 11:38:52",
+      "https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator"
+    ],
+    [
+      "wruby: a single file, minimal site generator written in Ruby",
+      "https://wruby.btxx.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 11:37:41",
+      "https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python"
+    ],
+    [
+      "PEP 751 – A file format to list Python dependencies for installation reproducibility",
+      "https://peps.python.org/pep-0751/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 11:34:50",
+      "https://lobste.rs/s/2lqe2w/nas_performance_nfs_vs_smb_vs_sshfs_2019"
+    ],
+    [
+      "NAS Performance: NFS vs. SMB vs. SSHFS (2019)",
+      "https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 11:26:54",
       "https://lobste.rs/s/t2hj6o/crowdstrike_timeline_mystery"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-07-24, 21:00:52",
-      "https://lobste.rs/s/xyhjnb/generating_sudokus_for_fun_no_profit"
-    ],
-    [
-      "Generating sudokus for fun and no profit",
-      "https://tn1ck.com/blog/how-to-generate-sudokus"
-    ]
-  ],
-  [
-    [
       "2024-07-24, 17:44:28",
       "https://lobste.rs/s/iyoddd/joy_excitement_surprise_computing_con"
     ],
@@ -167,26 +187,6 @@
     [
       "Leveraging types for better APIs",
       "https://github.com/green7ea/blog/blob/master/interface-typing/README.md"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 14:51:34",
-      "https://lobste.rs/s/gr6oam/how_debug_chez_scheme_programs_2002"
-    ],
-    [
-      "How to Debug Chez Scheme Programs (2002)",
-      "https://www.scheme.com/debug/debug.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 14:30:43",
-      "https://lobste.rs/s/tozlya/development_chez_scheme_2006"
-    ],
-    [
-      "The Development of Chez Scheme (2006)",
-      "https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf"
     ]
   ],
   [
