@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 12:35:21](https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0) - [Announcing Rust 1.80.0](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
 * [2024-07-25, 11:38:52](https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator) - [wruby: a single file, minimal site generator written in Ruby](https://wruby.btxx.org/)
 * [2024-07-25, 11:37:41](https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python) - [PEP 751 – A file format to list Python dependencies for installation reproducibility](https://peps.python.org/pep-0751/)
 * [2024-07-25, 11:34:50](https://lobste.rs/s/2lqe2w/nas_performance_nfs_vs_smb_vs_sshfs_2019) - [NAS Performance: NFS vs. SMB vs. SSHFS (2019)](https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html)
