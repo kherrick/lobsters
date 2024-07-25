@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-25, 09:43:14](https://lobste.rs/s/qsgjug/improving_systemd_s_integration_testing) - [Improving systemd’s integration testing infrastructure (part 1)](https://www.codethink.co.uk/articles/2024/systemd-integration-testing-part-1/)
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-25, 09:04:13](https://lobste.rs/s/ockpq4/systemd_part_deux) - [systemd, Part Deux](https://postmarketos.org/blog/2024/07/24/systemd-part-deux/)
 * [2024-07-25, 07:42:54](https://lobste.rs/s/3gc37e/rocksdb_not_good_choice_for_high) - [RocksDB: Not A Good Choice for a High-Performance Streaming Platform](https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/)
@@ -17,7 +18,6 @@
 * [2024-07-24, 15:44:47](https://lobste.rs/s/vwlmlg/leveraging_types_for_better_apis) - [Leveraging types for better APIs](https://github.com/green7ea/blog/blob/master/interface-typing/README.md)
 * [2024-07-24, 14:51:34](https://lobste.rs/s/gr6oam/how_debug_chez_scheme_programs_2002) - [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
 * [2024-07-24, 14:30:43](https://lobste.rs/s/tozlya/development_chez_scheme_2006) - [The Development of Chez Scheme (2006)](https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf)
-* [2024-07-24, 14:18:40](https://lobste.rs/s/w2tmvy/it_may_soon_be_legal_jailbreak_ai_expose) - [It May Soon Be Legal to Jailbreak AI to Expose How it Works](https://www.404media.co/it-may-soon-be-legal-to-jailbreak-ai-to-expose-how-it-works/)
 * [2024-07-24, 12:18:58](https://lobste.rs/s/xkcrvn/abstract_interpretation_toy_optimizer) - [Abstract interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
 * [2024-07-24, 09:36:15](https://lobste.rs/s/k4uuth/intent_end_ocsp_service) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 * [2024-07-24, 06:44:57](https://lobste.rs/s/ecmnpo/how_north_korean_fake_it_worker_tried) - [How a North Korean Fake IT Worker Tried to Infiltrate Us](https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us)
