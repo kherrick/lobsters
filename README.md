@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-25, 10:54:44](https://lobste.rs/s/4ejcon/openssl_new_governance_structure_call) - [OpenSSL New Governance Structure: A Call to the Academic Community](https://github.com/openssl/openssl/discussions/24988)
 * [2024-07-25, 09:43:14](https://lobste.rs/s/qsgjug/improving_systemd_s_integration_testing) - [Improving systemd’s integration testing infrastructure (part 1)](https://www.codethink.co.uk/articles/2024/systemd-integration-testing-part-1/)
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-25, 09:04:13](https://lobste.rs/s/ockpq4/systemd_part_deux) - [systemd, Part Deux](https://postmarketos.org/blog/2024/07/24/systemd-part-deux/)
@@ -10,7 +11,6 @@
 * [2024-07-24, 21:19:56](https://lobste.rs/s/ty9kjw/anyone_can_access_public_repository_data) - [Anyone can Access Public Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 21:00:52](https://lobste.rs/s/xyhjnb/generating_sudokus_for_fun_no_profit) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-24, 17:44:28](https://lobste.rs/s/iyoddd/joy_excitement_surprise_computing_con) - [The joy, excitement, and surprise of computing - !!Con 2024](https://bangbangcon.com/index.html)
-* [2024-07-24, 17:34:35](https://lobste.rs/s/dd8k4v/understanding_performance) - [Understanding the Performance Implications of Storage-Disaggregated Databases](https://muratbuffalo.blogspot.com/2024/07/understanding-performance-implications.html)
 * [2024-07-24, 17:28:43](https://lobste.rs/s/aekb1g/ai_models_collapse_when_trained_on) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 * [2024-07-24, 17:21:16](https://lobste.rs/s/dmyevn/tricky_floating_point_calculation) - [A Tricky Floating-Point Calculation](https://akr.am/blog/posts/a-tricky-floating-point-calculation)
 * [2024-07-24, 17:13:16](https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables) - [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
