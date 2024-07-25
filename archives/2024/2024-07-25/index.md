@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 19:16:14](https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200) - [Secure Boot is completely broken on 200+ models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 * [2024-07-25, 17:53:53](https://lobste.rs/s/3okrj7/how_crack_software) - [How to Crack Software](https://www.youtube.com/watch?v=FBwRTWEzGN0)
 * [2024-07-25, 17:33:39](https://lobste.rs/s/umyupr/formatting_selected_text_qml) - [Formatting Selected Text in QML](https://www.kdab.com/formatting-selected-text-in-qml/)
 * [2024-07-25, 17:21:01](https://lobste.rs/s/eduouy/exploring_power_negative_space) - [Exploring the Power of Negative Space Programming](https://double-trouble.dev/post/negativ-space-programming/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-25, 19:16:14](https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200) - [Secure Boot is completely broken on 200+ models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 * [2024-07-25, 17:53:53](https://lobste.rs/s/3okrj7/how_crack_software) - [How to Crack Software](https://www.youtube.com/watch?v=FBwRTWEzGN0)
 * [2024-07-25, 17:33:39](https://lobste.rs/s/umyupr/formatting_selected_text_qml) - [Formatting Selected Text in QML](https://www.kdab.com/formatting-selected-text-in-qml/)
 * [2024-07-25, 17:21:01](https://lobste.rs/s/eduouy/exploring_power_negative_space) - [Exploring the Power of Negative Space Programming](https://double-trouble.dev/post/negativ-space-programming/)
@@ -24,7 +25,6 @@
 * [2024-07-24, 21:19:56](https://lobste.rs/s/ty9kjw/anyone_can_access_public_repository_data) - [Anyone can Access Public Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 17:44:28](https://lobste.rs/s/iyoddd/joy_excitement_surprise_computing_con) - [The joy, excitement, and surprise of computing - !!Con 2024](https://bangbangcon.com/index.html)
 * [2024-07-24, 17:28:43](https://lobste.rs/s/aekb1g/ai_models_collapse_when_trained_on) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
-* [2024-07-24, 09:36:15](https://lobste.rs/s/k4uuth/intent_end_ocsp_service) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 
 ## [Archives](archives/index.md)
 
