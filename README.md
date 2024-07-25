@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-25, 07:42:54](https://lobste.rs/s/3gc37e/rocksdb_not_good_choice_for_high) - [RocksDB: Not A Good Choice for a High-Performance Streaming Platform](https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/)
 * [2024-07-25, 07:02:48](https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 * [2024-07-24, 23:58:11](https://lobste.rs/s/qakalc/2024_stack_overflow_developer_survey) - [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/)
@@ -22,7 +23,6 @@
 * [2024-07-24, 03:35:37](https://lobste.rs/s/jsmgpb/pnut_c_posix_shell_compiler_you_can_trust) - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
 * [2024-07-24, 00:09:30](https://lobste.rs/s/e0tner/taking_my_diabetes_treatment_into_my_own) - [Taking my diabetes treatment into my own hands](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
 * [2024-07-23, 19:23:24](https://lobste.rs/s/pedtr9/pinned_places) - [Pinned places](https://without.boats/blog/pinned-places/)
-* [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_sequences_can_commit_out_order) - [Postgres sequences can commit out-of-order](https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-23, 12:51:39](https://lobste.rs/s/mwci8k/go_features_by_version) - [Go features by version](https://antonz.org/which-go/)
 

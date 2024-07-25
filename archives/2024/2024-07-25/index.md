@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 07:42:54](https://lobste.rs/s/3gc37e/rocksdb_not_good_choice_for_high) - [RocksDB: Not A Good Choice for a High-Performance Streaming Platform](https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/)
 * [2024-07-25, 07:02:48](https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
