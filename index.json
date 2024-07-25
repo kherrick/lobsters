@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-25, 07:02:48",
+      "https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for"
+    ],
+    [
+      "Node.js adds experimental support for TypeScript",
+      "https://github.com/nodejs/node/pull/53725"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 07:01:06",
+      "https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense"
+    ],
+    [
+      "strlcpy and how CPUs can defy common sense",
+      "https://nrk.neocities.org/articles/cpu-vs-common-sense"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 23:58:11",
       "https://lobste.rs/s/qakalc/2024_stack_overflow_developer_survey"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-07-23, 23:27:32",
-      "https://lobste.rs/s/qqyfjh/enhancing_your_elixir_codebase_with"
-    ],
-    [
-      "Enhancing Your Elixir Codebase with Gleam",
-      "https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html"
-    ]
-  ],
-  [
-    [
       "2024-07-23, 19:23:24",
       "https://lobste.rs/s/pedtr9/pinned_places"
     ],
@@ -237,16 +247,6 @@
     [
       "Go features by version",
       "https://antonz.org/which-go/"
-    ]
-  ],
-  [
-    [
-      "2024-07-23, 12:11:12",
-      "https://lobste.rs/s/rnqlef/named_arguments_rust_if_you_want_them"
-    ],
-    [
-      "Named Arguments In Rust, If You Want Them",
-      "https://rtpg.co/2024/07/22/rust-named-arguments/"
     ]
   ]
 ]
