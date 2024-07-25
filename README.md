@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-24, 23:58:11](https://lobste.rs/s/qakalc/2024_stack_overflow_developer_survey) - [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/)
 * [2024-07-24, 21:19:56](https://lobste.rs/s/ty9kjw/anyone_can_access_public_repository_data) - [Anyone can Access Public Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 21:00:52](https://lobste.rs/s/xyhjnb/generating_sudokus_for_fun_no_profit) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
 * [2024-07-24, 17:57:25](https://lobste.rs/s/u67weo/uniform_name_service_for_spring_s_unix) - [A Uniform Name Service for Spring's UNIX Environment (1994)](https://www.usenix.org/conference/usenix-winter-1994-technical-conference/uniform-name-service-springs-unix-environment)
@@ -10,7 +11,6 @@
 * [2024-07-24, 17:13:16](https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables) - [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
 * [2024-07-24, 15:54:38](https://lobste.rs/s/ouhxs6/what_s_so_hard_about_constexpr_allocation) - [What’s so hard about constexpr allocation?](https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/)
 * [2024-07-24, 15:44:47](https://lobste.rs/s/vwlmlg/leveraging_types_for_better_apis) - [Leveraging types for better APIs](https://github.com/green7ea/blog/blob/master/interface-typing/README.md)
-* [2024-07-24, 14:55:06](https://lobste.rs/s/tck1cf/scheme_workshop_keynote_designing) - [Scheme Workshop Keynote: Designing and implementing Chez Scheme, Andy Keep](https://www.youtube.com/watch?v=BcC3KScZ-yA)
 * [2024-07-24, 14:51:34](https://lobste.rs/s/gr6oam/how_debug_chez_scheme_programs_2002) - [How to Debug Chez Scheme Programs (2002)](https://www.scheme.com/debug/debug.html)
 * [2024-07-24, 14:30:43](https://lobste.rs/s/tozlya/development_chez_scheme_2006) - [The Development of Chez Scheme (2006)](https://legacy.cs.indiana.edu/~dyb/pubs/hocs-talk.pdf)
 * [2024-07-24, 14:18:40](https://lobste.rs/s/w2tmvy/it_may_soon_be_legal_jailbreak_ai_expose) - [It May Soon Be Legal to Jailbreak AI to Expose How it Works](https://www.404media.co/it-may-soon-be-legal-to-jailbreak-ai-to-expose-how-it-works/)
