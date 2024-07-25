@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-25, 15:42:19",
+      "https://lobste.rs/s/mkyorc/run_erlang_as_wasi_http_server"
+    ],
+    [
+      "Run erlang as a WASI http server",
+      "https://github.com/muromec/erwasm-http"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 14:53:07",
       "https://lobste.rs/s/bo0yqm/cap_theorem_is_irrelevant_for_cloud"
     ],
@@ -227,16 +237,6 @@
     [
       "Intent to End OCSP Service",
       "https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 06:44:57",
-      "https://lobste.rs/s/ecmnpo/how_north_korean_fake_it_worker_tried"
-    ],
-    [
-      "How a North Korean Fake IT Worker Tried to Infiltrate Us",
-      "https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us"
     ]
   ],
   [
