@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-25, 07:02:48](https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
+* [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 * [2024-07-24, 23:58:11](https://lobste.rs/s/qakalc/2024_stack_overflow_developer_survey) - [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/)
 * [2024-07-24, 21:19:56](https://lobste.rs/s/ty9kjw/anyone_can_access_public_repository_data) - [Anyone can Access Public Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 21:00:52](https://lobste.rs/s/xyhjnb/generating_sudokus_for_fun_no_profit) - [Generating sudokus for fun and no profit](https://tn1ck.com/blog/how-to-generate-sudokus)
@@ -19,12 +21,10 @@
 * [2024-07-24, 06:44:57](https://lobste.rs/s/ecmnpo/how_north_korean_fake_it_worker_tried) - [How a North Korean Fake IT Worker Tried to Infiltrate Us](https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us)
 * [2024-07-24, 03:35:37](https://lobste.rs/s/jsmgpb/pnut_c_posix_shell_compiler_you_can_trust) - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
 * [2024-07-24, 00:09:30](https://lobste.rs/s/e0tner/taking_my_diabetes_treatment_into_my_own) - [Taking my diabetes treatment into my own hands](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
-* [2024-07-23, 23:27:32](https://lobste.rs/s/qqyfjh/enhancing_your_elixir_codebase_with) - [Enhancing Your Elixir Codebase with Gleam](https://blog.appsignal.com/2024/07/23/enhancing-your-elixir-codebase-with-gleam.html)
 * [2024-07-23, 19:23:24](https://lobste.rs/s/pedtr9/pinned_places) - [Pinned places](https://without.boats/blog/pinned-places/)
 * [2024-07-23, 17:17:37](https://lobste.rs/s/mkhvi7/postgres_sequences_can_commit_out_order) - [Postgres sequences can commit out-of-order](https://blog.sequinstream.com/postgres-sequences-can-commit-out-of-order)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 * [2024-07-23, 12:51:39](https://lobste.rs/s/mwci8k/go_features_by_version) - [Go features by version](https://antonz.org/which-go/)
-* [2024-07-23, 12:11:12](https://lobste.rs/s/rnqlef/named_arguments_rust_if_you_want_them) - [Named Arguments In Rust, If You Want Them](https://rtpg.co/2024/07/22/rust-named-arguments/)
 
 ## [Archives](archives/index.md)
 
