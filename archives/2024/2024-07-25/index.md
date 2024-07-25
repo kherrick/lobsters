@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 17:53:53](https://lobste.rs/s/3okrj7/how_crack_software) - [How to Crack Software](https://www.youtube.com/watch?v=FBwRTWEzGN0)
 * [2024-07-25, 17:33:39](https://lobste.rs/s/umyupr/formatting_selected_text_qml) - [Formatting Selected Text in QML](https://www.kdab.com/formatting-selected-text-in-qml/)
 * [2024-07-25, 17:21:01](https://lobste.rs/s/eduouy/exploring_power_negative_space) - [Exploring the Power of Negative Space Programming](https://double-trouble.dev/post/negativ-space-programming/)
 * [2024-07-25, 17:19:55](https://lobste.rs/s/tzdzo3/git_granary) - [Git Granary](https://dbushell.com/2024/07/25/git-granary/)
