@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-25, 16:47:55",
-      "https://lobste.rs/s/neuksn/rust_can_compete_with_python"
-    ],
-    [
-      "Rust can Compete with Python",
-      "https://youtu.be/OQTwvycftJU"
-    ]
-  ],
-  [
-    [
       "2024-07-25, 16:11:24",
       "https://lobste.rs/s/6ozfua/linux_mint_22_wilma_released"
     ],
@@ -237,6 +227,16 @@
     [
       "AI models collapse when trained on recursively generated data",
       "https://www.nature.com/articles/s41586-024-07566-y"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 17:13:16",
+      "https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables"
+    ],
+    [
+      "An Extensive Benchmark of C and C++ Hash Tables",
+      "https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/"
     ]
   ],
   [
