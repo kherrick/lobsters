@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-25, 11:26:54](https://lobste.rs/s/t2hj6o/crowdstrike_timeline_mystery) - [CrowdStrike Timeline Mystery](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
 * [2024-07-25, 10:54:44](https://lobste.rs/s/4ejcon/openssl_new_governance_structure_call) - [OpenSSL New Governance Structure: A Call to the Academic Community](https://github.com/openssl/openssl/discussions/24988)
 * [2024-07-25, 09:43:14](https://lobste.rs/s/qsgjug/improving_systemd_s_integration_testing) - [Improving systemd’s integration testing infrastructure (part 1)](https://www.codethink.co.uk/articles/2024/systemd-integration-testing-part-1/)
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
@@ -21,7 +22,6 @@
 * [2024-07-24, 12:18:58](https://lobste.rs/s/xkcrvn/abstract_interpretation_toy_optimizer) - [Abstract interpretation in the Toy Optimizer](https://bernsteinbear.com/blog/toy-abstract-interpretation/)
 * [2024-07-24, 09:36:15](https://lobste.rs/s/k4uuth/intent_end_ocsp_service) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 * [2024-07-24, 06:44:57](https://lobste.rs/s/ecmnpo/how_north_korean_fake_it_worker_tried) - [How a North Korean Fake IT Worker Tried to Infiltrate Us](https://blog.knowbe4.com/how-a-north-korean-fake-it-worker-tried-to-infiltrate-us)
-* [2024-07-24, 03:35:37](https://lobste.rs/s/jsmgpb/pnut_c_posix_shell_compiler_you_can_trust) - [Pnut: A C to POSIX Shell Compiler you can Trust](https://pnut.sh)
 * [2024-07-24, 00:09:30](https://lobste.rs/s/e0tner/taking_my_diabetes_treatment_into_my_own) - [Taking my diabetes treatment into my own hands](https://martin.janiczek.cz/2024/07/23/taking-my-diabetes-treatment-into-my-own-hands.html)
 * [2024-07-23, 19:23:24](https://lobste.rs/s/pedtr9/pinned_places) - [Pinned places](https://without.boats/blog/pinned-places/)
 * [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)

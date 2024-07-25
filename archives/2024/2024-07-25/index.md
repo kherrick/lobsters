@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 11:26:54](https://lobste.rs/s/t2hj6o/crowdstrike_timeline_mystery) - [CrowdStrike Timeline Mystery](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
 * [2024-07-25, 10:54:44](https://lobste.rs/s/4ejcon/openssl_new_governance_structure_call) - [OpenSSL New Governance Structure: A Call to the Academic Community](https://github.com/openssl/openssl/discussions/24988)
 * [2024-07-25, 09:43:14](https://lobste.rs/s/qsgjug/improving_systemd_s_integration_testing) - [Improving systemd’s integration testing infrastructure (part 1)](https://www.codethink.co.uk/articles/2024/systemd-integration-testing-part-1/)
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
