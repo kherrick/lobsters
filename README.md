@@ -3,7 +3,6 @@
 * [2024-07-25, 17:33:39](https://lobste.rs/s/umyupr/formatting_selected_text_qml) - [Formatting Selected Text in QML](https://www.kdab.com/formatting-selected-text-in-qml/)
 * [2024-07-25, 17:21:01](https://lobste.rs/s/eduouy/exploring_power_negative_space) - [Exploring the Power of Negative Space Programming](https://double-trouble.dev/post/negativ-space-programming/)
 * [2024-07-25, 17:19:55](https://lobste.rs/s/tzdzo3/git_granary) - [Git Granary](https://dbushell.com/2024/07/25/git-granary/)
-* [2024-07-25, 16:47:55](https://lobste.rs/s/neuksn/rust_can_compete_with_python) - [Rust can Compete with Python](https://youtu.be/OQTwvycftJU)
 * [2024-07-25, 16:11:24](https://lobste.rs/s/6ozfua/linux_mint_22_wilma_released) - [Linux Mint 22 “Wilma” released](https://blog.linuxmint.com/?p=4731)
 * [2024-07-25, 15:42:19](https://lobste.rs/s/mkyorc/run_erlang_as_wasi_http_server) - [Run erlang as a WASI http server](https://github.com/muromec/erwasm-http)
 * [2024-07-25, 14:53:07](https://lobste.rs/s/bo0yqm/cap_theorem_is_irrelevant_for_cloud) - [The CAP Theorem is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
@@ -24,6 +23,7 @@
 * [2024-07-24, 21:19:56](https://lobste.rs/s/ty9kjw/anyone_can_access_public_repository_data) - [Anyone can Access Public Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 17:44:28](https://lobste.rs/s/iyoddd/joy_excitement_surprise_computing_con) - [The joy, excitement, and surprise of computing - !!Con 2024](https://bangbangcon.com/index.html)
 * [2024-07-24, 17:28:43](https://lobste.rs/s/aekb1g/ai_models_collapse_when_trained_on) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
+* [2024-07-24, 17:13:16](https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables) - [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
 * [2024-07-24, 09:36:15](https://lobste.rs/s/k4uuth/intent_end_ocsp_service) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
 
 ## [Archives](archives/index.md)
