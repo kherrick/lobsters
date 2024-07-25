@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 11:38:52](https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator) - [wruby: a single file, minimal site generator written in Ruby](https://wruby.btxx.org/)
+* [2024-07-25, 11:37:41](https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python) - [PEP 751 – A file format to list Python dependencies for installation reproducibility](https://peps.python.org/pep-0751/)
+* [2024-07-25, 11:34:50](https://lobste.rs/s/2lqe2w/nas_performance_nfs_vs_smb_vs_sshfs_2019) - [NAS Performance: NFS vs. SMB vs. SSHFS (2019)](https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html)
 * [2024-07-25, 11:26:54](https://lobste.rs/s/t2hj6o/crowdstrike_timeline_mystery) - [CrowdStrike Timeline Mystery](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
 * [2024-07-25, 10:54:44](https://lobste.rs/s/4ejcon/openssl_new_governance_structure_call) - [OpenSSL New Governance Structure: A Call to the Academic Community](https://github.com/openssl/openssl/discussions/24988)
 * [2024-07-25, 09:43:14](https://lobste.rs/s/qsgjug/improving_systemd_s_integration_testing) - [Improving systemd’s integration testing infrastructure (part 1)](https://www.codethink.co.uk/articles/2024/systemd-integration-testing-part-1/)
