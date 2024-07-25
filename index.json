@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-25, 21:36:39",
+      "https://lobste.rs/s/ekihqs/scoped_tagging_local_exports"
+    ],
+    [
+      "Scoped Tagging and Local Exports",
+      "https://joshleeb.com/posts/status-update-2024-jul.html"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 21:16:02",
       "https://lobste.rs/s/rvqez7/how_i_use_git_worktrees"
     ],
@@ -147,16 +157,6 @@
     [
       "OpenSSL New Governance Structure: A Call to the Academic Community",
       "https://github.com/openssl/openssl/discussions/24988"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 09:43:14",
-      "https://lobste.rs/s/qsgjug/improving_systemd_s_integration_testing"
-    ],
-    [
-      "Improving systemd’s integration testing infrastructure (part 1)",
-      "https://www.codethink.co.uk/articles/2024/systemd-integration-testing-part-1/"
     ]
   ],
   [
