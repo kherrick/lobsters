@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-07-24, 21:00:52",
+      "https://lobste.rs/s/xyhjnb/generating_sudokus_for_fun_no_profit"
+    ],
+    [
+      "Generating sudokus for fun and no profit",
+      "https://tn1ck.com/blog/how-to-generate-sudokus"
+    ]
+  ],
+  [
+    [
       "2024-07-24, 17:44:28",
       "https://lobste.rs/s/iyoddd/joy_excitement_surprise_computing_con"
     ],
@@ -187,16 +197,6 @@
     [
       "An Extensive Benchmark of C and C++ Hash Tables",
       "https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 15:54:38",
-      "https://lobste.rs/s/ouhxs6/what_s_so_hard_about_constexpr_allocation"
-    ],
-    [
-      "What’s so hard about constexpr allocation?",
-      "https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/"
     ]
   ],
   [
