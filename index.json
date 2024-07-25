@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-25, 13:00:07",
+      "https://lobste.rs/s/pmepgp/qt_creator_14_released"
+    ],
+    [
+      "Qt Creator 14 released",
+      "https://www.qt.io/blog/qt-creator-14-released"
+    ]
+  ],
+  [
+    [
       "2024-07-25, 12:35:21",
       "https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0"
     ],
@@ -187,16 +197,6 @@
     [
       "What’s so hard about constexpr allocation?",
       "https://brevzin.github.io/c++/2024/07/24/constexpr-alloc/"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 15:44:47",
-      "https://lobste.rs/s/vwlmlg/leveraging_types_for_better_apis"
-    ],
-    [
-      "Leveraging types for better APIs",
-      "https://github.com/green7ea/blog/blob/master/interface-typing/README.md"
     ]
   ],
   [
