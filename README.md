@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-25, 16:47:55](https://lobste.rs/s/neuksn/rust_can_compete_with_python) - [Rust can Compete with Python](https://youtu.be/OQTwvycftJU)
 * [2024-07-25, 16:11:24](https://lobste.rs/s/6ozfua/linux_mint_22_wilma_released) - [Linux Mint 22 “Wilma” released](https://blog.linuxmint.com/?p=4731)
 * [2024-07-25, 15:42:19](https://lobste.rs/s/mkyorc/run_erlang_as_wasi_http_server) - [Run erlang as a WASI http server](https://github.com/muromec/erwasm-http)
 * [2024-07-25, 14:53:07](https://lobste.rs/s/bo0yqm/cap_theorem_is_irrelevant_for_cloud) - [The CAP Theorem is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
@@ -24,7 +25,6 @@
 * [2024-07-24, 17:21:16](https://lobste.rs/s/dmyevn/tricky_floating_point_calculation) - [A Tricky Floating-Point Calculation](https://akr.am/blog/posts/a-tricky-floating-point-calculation)
 * [2024-07-24, 17:13:16](https://lobste.rs/s/agihne/extensive_benchmark_c_c_hash_tables) - [An Extensive Benchmark of C and C++ Hash Tables](https://jacksonallan.github.io/c_cpp_hash_tables_benchmark/)
 * [2024-07-24, 09:36:15](https://lobste.rs/s/k4uuth/intent_end_ocsp_service) - [Intent to End OCSP Service](https://letsencrypt.org/2024/07/23/replacing-ocsp-with-crls.html)
-* [2024-07-23, 14:20:06](https://lobste.rs/s/cdkkp6/software_engineers_are_not_should_not_be) - [Software engineers are not (and should not be) technicians](https://www.haskellforall.com/2024/07/software-engineers-are-not-and-should.html)
 
 ## [Archives](archives/index.md)
 
