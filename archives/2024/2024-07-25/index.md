@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-25](index.md)
 
+* [2024-07-25, 16:11:24](https://lobste.rs/s/6ozfua/linux_mint_22_wilma_released) - [Linux Mint 22 “Wilma” released](https://blog.linuxmint.com/?p=4731)
 * [2024-07-25, 15:42:19](https://lobste.rs/s/mkyorc/run_erlang_as_wasi_http_server) - [Run erlang as a WASI http server](https://github.com/muromec/erwasm-http)
 * [2024-07-25, 14:53:07](https://lobste.rs/s/bo0yqm/cap_theorem_is_irrelevant_for_cloud) - [The CAP Theorem is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 13:00:07](https://lobste.rs/s/pmepgp/qt_creator_14_released) - [Qt Creator 14 released](https://www.qt.io/blog/qt-creator-14-released)
