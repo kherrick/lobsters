@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 14:08:12](https://lobste.rs/s/udrozs/against_advice_my_superintelligence) - [Against the Advice of My Superintelligence](https://taylor.town/my-superintelligence)
 * [2024-07-26, 13:41:04](https://lobste.rs/s/u0mz6a/approximate_nearest_neighbor_search) - [Approximate nearest neighbor search with DiskANN in libSQL](https://turso.tech/blog/approximate-nearest-neighbor-search-with-diskann-in-libsql)
 * [2024-07-26, 11:11:35](https://lobste.rs/s/4r4big/how_it_became_like_this_ruby_range_class) - [How it became like this? Ruby Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 10:56:32](https://lobste.rs/s/37lvrj/fear_over_engineering_has_killed) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
@@ -13,7 +14,6 @@
 * [2024-07-25, 21:16:02](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees) - [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
 * [2024-07-25, 19:16:14](https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200) - [Secure Boot is completely broken on 200+ models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 * [2024-07-25, 17:53:53](https://lobste.rs/s/3okrj7/how_crack_software) - [How to Crack Software](https://www.youtube.com/watch?v=FBwRTWEzGN0)
-* [2024-07-25, 17:21:01](https://lobste.rs/s/eduouy/exploring_power_negative_space) - [Exploring the Power of Negative Space Programming](https://double-trouble.dev/post/negativ-space-programming/)
 * [2024-07-25, 16:11:24](https://lobste.rs/s/6ozfua/linux_mint_22_wilma_released) - [Linux Mint 22 “Wilma” released](https://blog.linuxmint.com/?p=4731)
 * [2024-07-25, 14:53:07](https://lobste.rs/s/bo0yqm/cap_theorem_is_irrelevant_for_cloud) - [The CAP Theorem is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 12:35:21](https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0) - [Announcing Rust 1.80.0](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
