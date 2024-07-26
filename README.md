@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 15:37:37](https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
 * [2024-07-26, 15:14:48](https://lobste.rs/s/ndhpjp/revealing_inner_structure_aws_session) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 * [2024-07-26, 13:41:04](https://lobste.rs/s/u0mz6a/approximate_nearest_neighbor_search) - [Approximate nearest neighbor search with DiskANN in libSQL](https://turso.tech/blog/approximate-nearest-neighbor-search-with-diskann-in-libsql)
 * [2024-07-26, 11:11:35](https://lobste.rs/s/4r4big/how_it_became_like_this_ruby_range_class) - [How it became like this? Ruby Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
@@ -24,7 +25,6 @@
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-25, 07:02:48](https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
-* [2024-07-24, 23:58:11](https://lobste.rs/s/qakalc/2024_stack_overflow_developer_survey) - [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/)
 
 ## [Archives](archives/index.md)
 
