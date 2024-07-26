@@ -7,6 +7,7 @@
 * [2024-07-26, 16:12:32](https://lobste.rs/s/shh5h5/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 16:02:56](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend)
 * [2024-07-26, 15:50:40](https://lobste.rs/s/rxf8jv/using_github_as_bad_blog_platform) - [Using GitHub as a (bad) blog platform](https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/)
+* [2024-07-26, 15:48:56](https://lobste.rs/s/ne0dd8/negative_space_programming_is) - [Negative Space Programming Is Misunderstood](https://www.loskutoff.com/blog/negative-space-is-misunderstood/)
 * [2024-07-26, 15:47:50](https://lobste.rs/s/ovsqmp/safer_code_c_with_lifetime_bounds) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
 * [2024-07-26, 15:37:37](https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
 * [2024-07-26, 15:14:48](https://lobste.rs/s/ndhpjp/revealing_inner_structure_aws_session) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
@@ -22,7 +23,6 @@
 * [2024-07-25, 12:35:21](https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0) - [Announcing Rust 1.80.0](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
 * [2024-07-25, 11:38:52](https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator) - [wruby: a single file, minimal site generator written in Ruby](https://wruby.btxx.org/)
 * [2024-07-25, 11:37:41](https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python) - [PEP 751 – A file format to list Python dependencies for installation reproducibility](https://peps.python.org/pep-0751/)
-* [2024-07-25, 11:34:50](https://lobste.rs/s/2lqe2w/nas_performance_nfs_vs_smb_vs_sshfs_2019) - [NAS Performance: NFS vs. SMB vs. SSHFS (2019)](https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html)
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 
