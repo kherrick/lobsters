@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 11:11:35](https://lobste.rs/s/4r4big/how_it_became_like_this_ruby_range_class) - [How it became like this? Ruby Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 10:56:32](https://lobste.rs/s/37lvrj/fear_over_engineering_has_killed) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 * [2024-07-26, 08:43:48](https://lobste.rs/s/6jjhjd/monthly_news_april_2024_fastly_powered) - [Monthly News – April 2024 – Fastly powered repositories, partnership with Datadog, XApp should be independent, Flatpak verification](https://blog.linuxmint.com/?p=4675)
 * [2024-07-26, 03:59:28](https://lobste.rs/s/ckgz75/qrquine_qr_code_based_quine) - [qrquine: a QR code based quine](https://www.quaxio.com/qrquine/)
