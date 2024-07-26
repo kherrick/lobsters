@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 17:23:13](https://lobste.rs/s/mt4ado/computers_back_then_story_arra_first) - [\"Computers, back then\": the story of ARRA, the first Dutch computer](https://liam-on-linux.dreamwidth.org/91041.html)
+* [2024-07-26, 17:20:49](https://lobste.rs/s/6glse6/modern_bliss_compiler_based_on_llvm) - [A modern BLISS compiler based on LLVM](https://gitlab.com/JonathanBelanger/bliss)
+* [2024-07-26, 17:08:06](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic) - [Fun Friday: What's the most surprising CS topic you've used at work?](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic)
 * [2024-07-26, 16:12:32](https://lobste.rs/s/shh5h5/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 16:02:56](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend)
 * [2024-07-26, 15:50:40](https://lobste.rs/s/rxf8jv/using_github_as_bad_blog_platform) - [Using GitHub as a (bad) blog platform](https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/)
