@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 16:02:56](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend)
 * [2024-07-26, 15:50:40](https://lobste.rs/s/rxf8jv/using_github_as_bad_blog_platform) - [Using GitHub as a (bad) blog platform](https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/)
 * [2024-07-26, 15:48:56](https://lobste.rs/s/ne0dd8/negative_space_programming_is) - [Negative Space Programming Is Misunderstood](https://www.loskutoff.com/blog/negative-space-is-misunderstood/)
 * [2024-07-26, 15:47:50](https://lobste.rs/s/ovsqmp/safer_code_c_with_lifetime_bounds) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
@@ -16,7 +17,6 @@
 * [2024-07-25, 21:34:45](https://lobste.rs/s/yfic0e/defense_lisp_macros_automotive_tragedy) - [Defense of Lisp macros: an automotive tragedy](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 21:16:02](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees) - [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
 * [2024-07-25, 19:16:14](https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200) - [Secure Boot is completely broken on 200+ models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
-* [2024-07-25, 17:53:53](https://lobste.rs/s/3okrj7/how_crack_software) - [How to Crack Software](https://www.youtube.com/watch?v=FBwRTWEzGN0)
 * [2024-07-25, 16:11:24](https://lobste.rs/s/6ozfua/linux_mint_22_wilma_released) - [Linux Mint 22 “Wilma” released](https://blog.linuxmint.com/?p=4731)
 * [2024-07-25, 14:53:07](https://lobste.rs/s/bo0yqm/cap_theorem_is_irrelevant_for_cloud) - [The CAP Theorem is Irrelevant for Cloud Systems](https://brooker.co.za/blog/2024/07/25/cap-again.html)
 * [2024-07-25, 12:35:21](https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0) - [Announcing Rust 1.80.0](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
