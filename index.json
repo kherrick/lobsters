@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-26, 22:46:57",
+      "https://lobste.rs/s/bi1pfz/transition_from_web_application"
+    ],
+    [
+      "Transition from web/application development to system engineering",
+      "https://lobste.rs/s/bi1pfz/transition_from_web_application"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 22:35:36",
       "https://lobste.rs/s/pn9ukk/amd_zen_5_s_2_ahead_branch_predictor_unit"
     ],
@@ -197,16 +207,6 @@
     [
       "Writing NixOS tests for fun and profit",
       "https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 21:34:45",
-      "https://lobste.rs/s/yfic0e/defense_lisp_macros_automotive_tragedy"
-    ],
-    [
-      "Defense of Lisp macros: an automotive tragedy",
-      "https://mihaiolteanu.me/defense-of-lisp-macros"
     ]
   ],
   [
