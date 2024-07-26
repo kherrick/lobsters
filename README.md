@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 03:59:28](https://lobste.rs/s/ckgz75/qrquine_qr_code_based_quine) - [qrquine: a QR code based quine](https://www.quaxio.com/qrquine/)
 * [2024-07-26, 01:46:45](https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit) - [Writing NixOS tests for fun and profit](https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/)
 * [2024-07-26, 01:26:08](https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript) - [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
 * [2024-07-25, 21:36:39](https://lobste.rs/s/ekihqs/scoped_tagging_local_exports) - [Scoped Tagging and Local Exports](https://joshleeb.com/posts/status-update-2024-jul.html)
@@ -16,7 +17,6 @@
 * [2024-07-25, 11:37:41](https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python) - [PEP 751 – A file format to list Python dependencies for installation reproducibility](https://peps.python.org/pep-0751/)
 * [2024-07-25, 11:34:50](https://lobste.rs/s/2lqe2w/nas_performance_nfs_vs_smb_vs_sshfs_2019) - [NAS Performance: NFS vs. SMB vs. SSHFS (2019)](https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html)
 * [2024-07-25, 11:26:54](https://lobste.rs/s/t2hj6o/crowdstrike_timeline_mystery) - [CrowdStrike Timeline Mystery](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
-* [2024-07-25, 10:54:44](https://lobste.rs/s/4ejcon/openssl_new_governance_structure_call) - [OpenSSL New Governance Structure: A Call to the Academic Community](https://github.com/openssl/openssl/discussions/24988)
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-25, 09:04:13](https://lobste.rs/s/ockpq4/systemd_part_deux) - [systemd, Part Deux](https://postmarketos.org/blog/2024/07/24/systemd-part-deux/)
 * [2024-07-25, 07:42:54](https://lobste.rs/s/3gc37e/rocksdb_not_good_choice_for_high) - [RocksDB: Not A Good Choice for a High-Performance Streaming Platform](https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/)
