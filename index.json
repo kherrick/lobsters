@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-26, 01:46:45",
+      "https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit"
+    ],
+    [
+      "Writing NixOS tests for fun and profit",
+      "https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 01:26:08",
       "https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript"
     ],
@@ -237,16 +247,6 @@
     [
       "The joy, excitement, and surprise of computing - !!Con 2024",
       "https://bangbangcon.com/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-24, 17:28:43",
-      "https://lobste.rs/s/aekb1g/ai_models_collapse_when_trained_on"
-    ],
-    [
-      "AI models collapse when trained on recursively generated data",
-      "https://www.nature.com/articles/s41586-024-07566-y"
     ]
   ]
 ]
