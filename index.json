@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-26, 22:35:36",
+      "https://lobste.rs/s/pn9ukk/amd_zen_5_s_2_ahead_branch_predictor_unit"
+    ],
+    [
+      "AMD Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks",
+      "https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 22:31:25",
+      "https://lobste.rs/s/5yc3hd/for_better_for_worse_overload"
+    ],
+    [
+      "For Better or for Worse, the Overload",
+      "https://consteval.ca/2024/07/25/overload/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 21:15:38",
       "https://lobste.rs/s/r69zb7/memory_management_duckdb"
     ],
@@ -217,26 +237,6 @@
     [
       "Announcing Rust 1.80.0",
       "https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 11:38:52",
-      "https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator"
-    ],
-    [
-      "wruby: a single file, minimal site generator written in Ruby",
-      "https://wruby.btxx.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 11:37:41",
-      "https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python"
-    ],
-    [
-      "PEP 751 – A file format to list Python dependencies for installation reproducibility",
-      "https://peps.python.org/pep-0751/"
     ]
   ],
   [
