@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 01:26:08](https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript) - [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
 * [2024-07-26, 00:16:39](https://lobste.rs/s/9eobiw/talking_privacy_with_apple) - [Talking Privacy with Apple](https://www.youtube.com/watch?v=1YOi0r3vptQ)

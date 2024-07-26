@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-07-26, 00:16:39](https://lobste.rs/s/9eobiw/talking_privacy_with_apple) - [Talking Privacy with Apple](https://www.youtube.com/watch?v=1YOi0r3vptQ)
+* [2024-07-26, 01:26:08](https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript) - [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
 * [2024-07-25, 21:36:39](https://lobste.rs/s/ekihqs/scoped_tagging_local_exports) - [Scoped Tagging and Local Exports](https://joshleeb.com/posts/status-update-2024-jul.html)
 * [2024-07-25, 21:34:45](https://lobste.rs/s/yfic0e/defense_lisp_macros) - [Defense of Lisp macros](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 21:16:02](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees) - [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
