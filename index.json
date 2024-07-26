@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-07-26, 17:20:49",
+      "https://lobste.rs/s/6glse6/modern_bliss_compiler_based_on_llvm"
+    ],
+    [
+      "A modern BLISS compiler based on LLVM",
+      "https://gitlab.com/JonathanBelanger/bliss"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 17:08:06",
       "https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic"
     ],
@@ -147,16 +157,6 @@
     [
       "Fear of over-engineering has killed engineering altogether",
       "https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 03:59:28",
-      "https://lobste.rs/s/ckgz75/qrquine_qr_code_based_quine"
-    ],
-    [
-      "qrquine: a QR code based quine",
-      "https://www.quaxio.com/qrquine/"
     ]
   ],
   [
