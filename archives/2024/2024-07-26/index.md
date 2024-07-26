@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 15:50:40](https://lobste.rs/s/rxf8jv/using_github_as_bad_blog_platform) - [Using GitHub as a (bad) blog platform](https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/)
+* [2024-07-26, 15:48:56](https://lobste.rs/s/ne0dd8/negative_space_programming_is) - [Negative Space Programming Is Misunderstood](https://www.loskutoff.com/blog/negative-space-is-misunderstood/)
+* [2024-07-26, 15:47:50](https://lobste.rs/s/ovsqmp/safer_code_c_with_lifetime_bounds) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
 * [2024-07-26, 15:37:37](https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
 * [2024-07-26, 15:14:48](https://lobste.rs/s/ndhpjp/revealing_inner_structure_aws_session) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 * [2024-07-26, 14:08:12](https://lobste.rs/s/udrozs/against_advice_my_superintelligence) - [Against the Advice of My Superintelligence](https://taylor.town/my-superintelligence)

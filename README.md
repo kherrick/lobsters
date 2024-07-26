@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 15:50:40](https://lobste.rs/s/rxf8jv/using_github_as_bad_blog_platform) - [Using GitHub as a (bad) blog platform](https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/)
+* [2024-07-26, 15:48:56](https://lobste.rs/s/ne0dd8/negative_space_programming_is) - [Negative Space Programming Is Misunderstood](https://www.loskutoff.com/blog/negative-space-is-misunderstood/)
+* [2024-07-26, 15:47:50](https://lobste.rs/s/ovsqmp/safer_code_c_with_lifetime_bounds) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
 * [2024-07-26, 15:37:37](https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
 * [2024-07-26, 15:14:48](https://lobste.rs/s/ndhpjp/revealing_inner_structure_aws_session) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 * [2024-07-26, 13:41:04](https://lobste.rs/s/u0mz6a/approximate_nearest_neighbor_search) - [Approximate nearest neighbor search with DiskANN in libSQL](https://turso.tech/blog/approximate-nearest-neighbor-search-with-diskann-in-libsql)
@@ -10,7 +13,6 @@
 * [2024-07-26, 01:46:45](https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit) - [Writing NixOS tests for fun and profit](https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/)
 * [2024-07-26, 01:26:08](https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript) - [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
 * [2024-07-26, 00:16:39](https://lobste.rs/s/9eobiw/talking_privacy_with_apple) - [Talking Privacy with Apple](https://www.youtube.com/watch?v=1YOi0r3vptQ)
-* [2024-07-25, 21:36:39](https://lobste.rs/s/ekihqs/scoped_tagging_local_exports) - [Scoped Tagging and Local Exports](https://joshleeb.com/posts/status-update-2024-jul.html)
 * [2024-07-25, 21:34:45](https://lobste.rs/s/yfic0e/defense_lisp_macros_automotive_tragedy) - [Defense of Lisp macros: an automotive tragedy](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 21:16:02](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees) - [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
 * [2024-07-25, 19:16:14](https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200) - [Secure Boot is completely broken on 200+ models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
@@ -21,9 +23,7 @@
 * [2024-07-25, 11:38:52](https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator) - [wruby: a single file, minimal site generator written in Ruby](https://wruby.btxx.org/)
 * [2024-07-25, 11:37:41](https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python) - [PEP 751 – A file format to list Python dependencies for installation reproducibility](https://peps.python.org/pep-0751/)
 * [2024-07-25, 11:34:50](https://lobste.rs/s/2lqe2w/nas_performance_nfs_vs_smb_vs_sshfs_2019) - [NAS Performance: NFS vs. SMB vs. SSHFS (2019)](https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html)
-* [2024-07-25, 11:26:54](https://lobste.rs/s/t2hj6o/crowdstrike_timeline_mystery) - [CrowdStrike Timeline Mystery](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
-* [2024-07-25, 07:02:48](https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 
 ## [Archives](archives/index.md)
