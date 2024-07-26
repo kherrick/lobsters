@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-26, 16:12:32",
+      "https://lobste.rs/s/shh5h5/scaling_one_million_checkboxes_650_000"
+    ],
+    [
+      "Scaling One Million Checkboxes to 650,000,000 checks",
+      "https://eieio.games/essays/scaling-one-million-checkboxes/"
+    ]
+  ],
+  [
+    [
       "2024-07-26, 16:02:56",
       "https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend"
     ],
@@ -117,16 +127,6 @@
     [
       "Writing NixOS tests for fun and profit",
       "https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 01:26:08",
-      "https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript"
-    ],
-    [
-      "Introducing the WebAssembly JavaScript Promise Integration API",
-      "https://v8.dev/blog/jspi"
     ]
   ],
   [
