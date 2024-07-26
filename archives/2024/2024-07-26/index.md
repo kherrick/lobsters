@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 15:14:48](https://lobste.rs/s/ndhpjp/revealing_inner_structure_aws_session) - [Revealing the Inner Structure of AWS Session Tokens](https://medium.com/@TalBeerySec/revealing-the-inner-structure-of-aws-session-tokens-a6c76469cba7)
 * [2024-07-26, 14:08:12](https://lobste.rs/s/udrozs/against_advice_my_superintelligence) - [Against the Advice of My Superintelligence](https://taylor.town/my-superintelligence)
 * [2024-07-26, 13:41:04](https://lobste.rs/s/u0mz6a/approximate_nearest_neighbor_search) - [Approximate nearest neighbor search with DiskANN in libSQL](https://turso.tech/blog/approximate-nearest-neighbor-search-with-diskann-in-libsql)
 * [2024-07-26, 11:11:35](https://lobste.rs/s/4r4big/how_it_became_like_this_ruby_range_class) - [How it became like this? Ruby Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
