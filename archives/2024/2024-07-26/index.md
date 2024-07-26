@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 18:14:19](https://lobste.rs/s/cztz49/meta_thunderbolt) - [Meta-Thunderbolt](https://nocoffei.com/?p=247)
 * [2024-07-26, 17:51:12](https://lobste.rs/s/pzdu3o/maps_with_django_geodjango_spatialite) - [Maps with Django⁽¹⁾: GeoDjango, SpatiaLite & Leaflet](https://www.paulox.net/2020/12/08/maps-with-django-part-1-geodjango-spatialite-and-leaflet/)
 * [2024-07-26, 17:23:13](https://lobste.rs/s/mt4ado/computers_back_then_story_arra_first) - [\"Computers, back then\": the story of ARRA, the first Dutch computer](https://liam-on-linux.dreamwidth.org/91041.html)
 * [2024-07-26, 17:20:49](https://lobste.rs/s/6glse6/modern_bliss_compiler_based_on_llvm) - [A modern BLISS compiler based on LLVM](https://gitlab.com/JonathanBelanger/bliss)
