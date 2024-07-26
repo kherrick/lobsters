@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 16:12:32](https://lobste.rs/s/shh5h5/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 16:02:56](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend)
 * [2024-07-26, 15:50:40](https://lobste.rs/s/rxf8jv/using_github_as_bad_blog_platform) - [Using GitHub as a (bad) blog platform](https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/)
 * [2024-07-26, 15:48:56](https://lobste.rs/s/ne0dd8/negative_space_programming_is) - [Negative Space Programming Is Misunderstood](https://www.loskutoff.com/blog/negative-space-is-misunderstood/)
@@ -12,7 +13,6 @@
 * [2024-07-26, 08:43:48](https://lobste.rs/s/6jjhjd/monthly_news_april_2024_fastly_powered) - [Monthly News – April 2024 – Fastly powered repositories, partnership with Datadog, XApp should be independent, Flatpak verification](https://blog.linuxmint.com/?p=4675)
 * [2024-07-26, 03:59:28](https://lobste.rs/s/ckgz75/qrquine_qr_code_based_quine) - [qrquine: a QR code based quine](https://www.quaxio.com/qrquine/)
 * [2024-07-26, 01:46:45](https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit) - [Writing NixOS tests for fun and profit](https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/)
-* [2024-07-26, 01:26:08](https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript) - [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
 * [2024-07-26, 00:16:39](https://lobste.rs/s/9eobiw/talking_privacy_with_apple) - [Talking Privacy with Apple](https://www.youtube.com/watch?v=1YOi0r3vptQ)
 * [2024-07-25, 21:34:45](https://lobste.rs/s/yfic0e/defense_lisp_macros_automotive_tragedy) - [Defense of Lisp macros: an automotive tragedy](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 21:16:02](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees) - [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
