@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 22:35:36](https://lobste.rs/s/pn9ukk/amd_zen_5_s_2_ahead_branch_predictor_unit) - [AMD Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
+* [2024-07-26, 22:31:25](https://lobste.rs/s/5yc3hd/for_better_for_worse_overload) - [For Better or for Worse, the Overload](https://consteval.ca/2024/07/25/overload/)
 * [2024-07-26, 21:15:38](https://lobste.rs/s/r69zb7/memory_management_duckdb) - [Memory Management in DuckDB](https://duckdb.org/2024/07/09/memory-management)
 * [2024-07-26, 20:39:30](https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with) - [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
 * [2024-07-26, 18:14:19](https://lobste.rs/s/cztz49/meta_thunderbolt) - [Meta-Thunderbolt](https://nocoffei.com/?p=247)
@@ -22,8 +24,6 @@
 * [2024-07-25, 21:16:02](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees) - [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
 * [2024-07-25, 19:16:14](https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200) - [Secure Boot is completely broken on 200+ models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 * [2024-07-25, 12:35:21](https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0) - [Announcing Rust 1.80.0](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
-* [2024-07-25, 11:38:52](https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator) - [wruby: a single file, minimal site generator written in Ruby](https://wruby.btxx.org/)
-* [2024-07-25, 11:37:41](https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python) - [PEP 751 – A file format to list Python dependencies for installation reproducibility](https://peps.python.org/pep-0751/)
 * [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 
 ## [Archives](archives/index.md)

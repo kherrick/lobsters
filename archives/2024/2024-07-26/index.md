@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 22:35:36](https://lobste.rs/s/pn9ukk/amd_zen_5_s_2_ahead_branch_predictor_unit) - [AMD Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
+* [2024-07-26, 22:31:25](https://lobste.rs/s/5yc3hd/for_better_for_worse_overload) - [For Better or for Worse, the Overload](https://consteval.ca/2024/07/25/overload/)
 * [2024-07-26, 21:15:38](https://lobste.rs/s/r69zb7/memory_management_duckdb) - [Memory Management in DuckDB](https://duckdb.org/2024/07/09/memory-management)
 * [2024-07-26, 20:39:30](https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with) - [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
 * [2024-07-26, 19:32:16](https://lobste.rs/s/hjmsbr/cves_are_dead_long_live_cve_2019) - [CVEs are dead, long live the CVE! (2019)](https://youtube.com/watch?v=HeeoTE9jLjM)
