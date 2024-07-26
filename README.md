@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-07-26, 08:43:48](https://lobste.rs/s/6jjhjd/monthly_news_april_2024_fastly_powered) - [Monthly News – April 2024 – Fastly powered repositories, partnership with Datadog, XApp should be independent, Flatpak verification](https://blog.linuxmint.com/?p=4675)
+* [2024-07-26, 03:59:28](https://lobste.rs/s/ckgz75/qrquine_qr_code_based_quine) - [qrquine: a QR code based quine](https://www.quaxio.com/qrquine/)
 * [2024-07-26, 01:46:45](https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit) - [Writing NixOS tests for fun and profit](https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/)
 * [2024-07-26, 01:26:08](https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript) - [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
 * [2024-07-26, 00:16:39](https://lobste.rs/s/9eobiw/talking_privacy_with_apple) - [Talking Privacy with Apple](https://www.youtube.com/watch?v=1YOi0r3vptQ)
@@ -20,7 +21,6 @@
 * [2024-07-25, 11:26:54](https://lobste.rs/s/t2hj6o/crowdstrike_timeline_mystery) - [CrowdStrike Timeline Mystery](https://www.bitsight.com/blog/crowdstrike-timeline-mystery)
 * [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-25, 09:04:13](https://lobste.rs/s/ockpq4/systemd_part_deux) - [systemd, Part Deux](https://postmarketos.org/blog/2024/07/24/systemd-part-deux/)
-* [2024-07-25, 07:42:54](https://lobste.rs/s/3gc37e/rocksdb_not_good_choice_for_high) - [RocksDB: Not A Good Choice for a High-Performance Streaming Platform](https://www.feldera.com/blog/rocksdb-not-a-good-choice-for-high-performance-streaming/)
 * [2024-07-25, 07:02:48](https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for) - [Node.js adds experimental support for TypeScript](https://github.com/nodejs/node/pull/53725)
 * [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 * [2024-07-24, 23:58:11](https://lobste.rs/s/qakalc/2024_stack_overflow_developer_survey) - [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/)
