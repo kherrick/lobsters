@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 20:39:30](https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with) - [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
 * [2024-07-26, 19:32:16](https://lobste.rs/s/hjmsbr/cves_are_dead_long_live_cve_2019) - [CVEs are dead, long live the CVE! (2019)](https://youtube.com/watch?v=HeeoTE9jLjM)
 * [2024-07-26, 18:14:19](https://lobste.rs/s/cztz49/meta_thunderbolt) - [Meta-Thunderbolt](https://nocoffei.com/?p=247)
 * [2024-07-26, 17:51:12](https://lobste.rs/s/pzdu3o/maps_with_django_geodjango_spatialite) - [Maps with Django⁽¹⁾: GeoDjango, SpatiaLite & Leaflet](https://www.paulox.net/2020/12/08/maps-with-django-part-1-geodjango-spatialite-and-leaflet/)
@@ -23,7 +24,6 @@
 * [2024-07-25, 12:35:21](https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0) - [Announcing Rust 1.80.0](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
 * [2024-07-25, 11:38:52](https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator) - [wruby: a single file, minimal site generator written in Ruby](https://wruby.btxx.org/)
 * [2024-07-25, 11:37:41](https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python) - [PEP 751 – A file format to list Python dependencies for installation reproducibility](https://peps.python.org/pep-0751/)
-* [2024-07-25, 09:21:08](https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous) - [Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood](https://blog.codingconfessions.com/p/simultaneous-multithreading)
 * [2024-07-25, 07:01:06](https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense) - [strlcpy and how CPUs can defy common sense](https://nrk.neocities.org/articles/cpu-vs-common-sense)
 
 ## [Archives](archives/index.md)

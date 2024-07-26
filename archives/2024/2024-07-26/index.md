@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-26](index.md)
 
+* [2024-07-26, 20:39:30](https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with) - [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
 * [2024-07-26, 19:32:16](https://lobste.rs/s/hjmsbr/cves_are_dead_long_live_cve_2019) - [CVEs are dead, long live the CVE! (2019)](https://youtube.com/watch?v=HeeoTE9jLjM)
 * [2024-07-26, 18:14:19](https://lobste.rs/s/cztz49/meta_thunderbolt) - [Meta-Thunderbolt](https://nocoffei.com/?p=247)
 * [2024-07-26, 17:51:12](https://lobste.rs/s/pzdu3o/maps_with_django_geodjango_spatialite) - [Maps with Django⁽¹⁾: GeoDjango, SpatiaLite & Leaflet](https://www.paulox.net/2020/12/08/maps-with-django-part-1-geodjango-spatialite-and-leaflet/)
