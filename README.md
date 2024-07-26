@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 22:46:57](https://lobste.rs/s/bi1pfz/transition_from_web_application) - [Transition from web/application development to system engineering](https://lobste.rs/s/bi1pfz/transition_from_web_application)
 * [2024-07-26, 22:35:36](https://lobste.rs/s/pn9ukk/amd_zen_5_s_2_ahead_branch_predictor_unit) - [AMD Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 * [2024-07-26, 22:31:25](https://lobste.rs/s/5yc3hd/for_better_for_worse_overload) - [For Better or for Worse, the Overload](https://consteval.ca/2024/07/25/overload/)
 * [2024-07-26, 21:15:38](https://lobste.rs/s/r69zb7/memory_management_duckdb) - [Memory Management in DuckDB](https://duckdb.org/2024/07/09/memory-management)
@@ -20,7 +21,6 @@
 * [2024-07-26, 11:11:35](https://lobste.rs/s/4r4big/how_it_became_like_this_ruby_range_class) - [How it became like this? Ruby Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 10:56:32](https://lobste.rs/s/37lvrj/fear_over_engineering_has_killed) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 * [2024-07-26, 01:46:45](https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit) - [Writing NixOS tests for fun and profit](https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/)
-* [2024-07-25, 21:34:45](https://lobste.rs/s/yfic0e/defense_lisp_macros_automotive_tragedy) - [Defense of Lisp macros: an automotive tragedy](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 21:16:02](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees) - [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
 * [2024-07-25, 19:16:14](https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200) - [Secure Boot is completely broken on 200+ models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
 * [2024-07-25, 12:35:21](https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0) - [Announcing Rust 1.80.0](https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html)
