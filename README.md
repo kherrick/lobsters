@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 19:32:16](https://lobste.rs/s/hjmsbr/cves_are_dead_long_live_cve_2019) - [CVEs are dead, long live the CVE! (2019)](https://youtube.com/watch?v=HeeoTE9jLjM)
 * [2024-07-26, 18:14:19](https://lobste.rs/s/cztz49/meta_thunderbolt) - [Meta-Thunderbolt](https://nocoffei.com/?p=247)
 * [2024-07-26, 17:51:12](https://lobste.rs/s/pzdu3o/maps_with_django_geodjango_spatialite) - [Maps with Django⁽¹⁾: GeoDjango, SpatiaLite & Leaflet](https://www.paulox.net/2020/12/08/maps-with-django-part-1-geodjango-spatialite-and-leaflet/)
 * [2024-07-26, 17:23:13](https://lobste.rs/s/mt4ado/computers_back_then_story_arra_first) - [\"Computers, back then\": the story of ARRA, the first Dutch computer](https://liam-on-linux.dreamwidth.org/91041.html)
@@ -16,7 +17,6 @@
 * [2024-07-26, 10:56:32](https://lobste.rs/s/37lvrj/fear_over_engineering_has_killed) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 * [2024-07-26, 03:59:28](https://lobste.rs/s/ckgz75/qrquine_qr_code_based_quine) - [qrquine: a QR code based quine](https://www.quaxio.com/qrquine/)
 * [2024-07-26, 01:46:45](https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit) - [Writing NixOS tests for fun and profit](https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/)
-* [2024-07-26, 00:16:39](https://lobste.rs/s/9eobiw/talking_privacy_with_apple) - [Talking Privacy with Apple](https://www.youtube.com/watch?v=1YOi0r3vptQ)
 * [2024-07-25, 21:34:45](https://lobste.rs/s/yfic0e/defense_lisp_macros_automotive_tragedy) - [Defense of Lisp macros: an automotive tragedy](https://mihaiolteanu.me/defense-of-lisp-macros)
 * [2024-07-25, 21:16:02](https://lobste.rs/s/rvqez7/how_i_use_git_worktrees) - [How I Use Git Worktrees](https://matklad.github.io/2024/07/25/git-worktrees.html)
 * [2024-07-25, 19:16:14](https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200) - [Secure Boot is completely broken on 200+ models from 5 big device makers](https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/)
