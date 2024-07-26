@@ -1,1 +1,252 @@
-[]
+[
+  [
+    [
+      "2024-07-26, 13:41:04",
+      "https://lobste.rs/s/u0mz6a/approximate_nearest_neighbor_search"
+    ],
+    [
+      "Approximate nearest neighbor search with DiskANN in libSQL",
+      "https://turso.tech/blog/approximate-nearest-neighbor-search-with-diskann-in-libsql"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 11:11:35",
+      "https://lobste.rs/s/4r4big/how_it_became_like_this_ruby_range_class"
+    ],
+    [
+      "How it became like this? Ruby Range class",
+      "https://zverok.space/blog/2024-07-26-range-evolution.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 10:56:32",
+      "https://lobste.rs/s/37lvrj/fear_over_engineering_has_killed"
+    ],
+    [
+      "Fear of over-engineering has killed engineering altogether",
+      "https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 08:43:48",
+      "https://lobste.rs/s/6jjhjd/monthly_news_april_2024_fastly_powered"
+    ],
+    [
+      "Monthly News – April 2024 – Fastly powered repositories, partnership with Datadog, XApp should be independent, Flatpak verification",
+      "https://blog.linuxmint.com/?p=4675"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 03:59:28",
+      "https://lobste.rs/s/ckgz75/qrquine_qr_code_based_quine"
+    ],
+    [
+      "qrquine: a QR code based quine",
+      "https://www.quaxio.com/qrquine/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 01:46:45",
+      "https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit"
+    ],
+    [
+      "Writing NixOS tests for fun and profit",
+      "https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 01:26:08",
+      "https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript"
+    ],
+    [
+      "Introducing the WebAssembly JavaScript Promise Integration API",
+      "https://v8.dev/blog/jspi"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 00:16:39",
+      "https://lobste.rs/s/9eobiw/talking_privacy_with_apple"
+    ],
+    [
+      "Talking Privacy with Apple",
+      "https://www.youtube.com/watch?v=1YOi0r3vptQ"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 21:36:39",
+      "https://lobste.rs/s/ekihqs/scoped_tagging_local_exports"
+    ],
+    [
+      "Scoped Tagging and Local Exports",
+      "https://joshleeb.com/posts/status-update-2024-jul.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 21:34:45",
+      "https://lobste.rs/s/yfic0e/defense_lisp_macros"
+    ],
+    [
+      "Defense of Lisp macros",
+      "https://mihaiolteanu.me/defense-of-lisp-macros"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 21:16:02",
+      "https://lobste.rs/s/rvqez7/how_i_use_git_worktrees"
+    ],
+    [
+      "How I Use Git Worktrees",
+      "https://matklad.github.io/2024/07/25/git-worktrees.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 19:16:14",
+      "https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200"
+    ],
+    [
+      "Secure Boot is completely broken on 200+ models from 5 big device makers",
+      "https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 17:53:53",
+      "https://lobste.rs/s/3okrj7/how_crack_software"
+    ],
+    [
+      "How to Crack Software",
+      "https://www.youtube.com/watch?v=FBwRTWEzGN0"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 17:21:01",
+      "https://lobste.rs/s/eduouy/exploring_power_negative_space"
+    ],
+    [
+      "Exploring the Power of Negative Space Programming",
+      "https://double-trouble.dev/post/negativ-space-programming/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 16:11:24",
+      "https://lobste.rs/s/6ozfua/linux_mint_22_wilma_released"
+    ],
+    [
+      "Linux Mint 22 “Wilma” released",
+      "https://blog.linuxmint.com/?p=4731"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 14:53:07",
+      "https://lobste.rs/s/bo0yqm/cap_theorem_is_irrelevant_for_cloud"
+    ],
+    [
+      "The CAP Theorem is Irrelevant for Cloud Systems",
+      "https://brooker.co.za/blog/2024/07/25/cap-again.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 12:35:21",
+      "https://lobste.rs/s/k3hcgp/announcing_rust_1_80_0"
+    ],
+    [
+      "Announcing Rust 1.80.0",
+      "https://blog.rust-lang.org/2024/07/25/Rust-1.80.0.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 11:38:52",
+      "https://lobste.rs/s/avxnht/wruby_single_file_minimal_site_generator"
+    ],
+    [
+      "wruby: a single file, minimal site generator written in Ruby",
+      "https://wruby.btxx.org/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 11:37:41",
+      "https://lobste.rs/s/lyb4lv/pep_751_file_format_list_python"
+    ],
+    [
+      "PEP 751 – A file format to list Python dependencies for installation reproducibility",
+      "https://peps.python.org/pep-0751/"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 11:34:50",
+      "https://lobste.rs/s/2lqe2w/nas_performance_nfs_vs_smb_vs_sshfs_2019"
+    ],
+    [
+      "NAS Performance: NFS vs. SMB vs. SSHFS (2019)",
+      "https://blog.ja-ke.tech/2019/08/27/nas-performance-sshfs-nfs-smb.html"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 11:26:54",
+      "https://lobste.rs/s/t2hj6o/crowdstrike_timeline_mystery"
+    ],
+    [
+      "CrowdStrike Timeline Mystery",
+      "https://www.bitsight.com/blog/crowdstrike-timeline-mystery"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 09:21:08",
+      "https://lobste.rs/s/7bv1yb/two_threads_one_core_how_simultaneous"
+    ],
+    [
+      "Two Threads, One Core: How Simultaneous Multithreading Works Under the Hood",
+      "https://blog.codingconfessions.com/p/simultaneous-multithreading"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 07:02:48",
+      "https://lobste.rs/s/7jeau8/node_js_adds_experimental_support_for"
+    ],
+    [
+      "Node.js adds experimental support for TypeScript",
+      "https://github.com/nodejs/node/pull/53725"
+    ]
+  ],
+  [
+    [
+      "2024-07-25, 07:01:06",
+      "https://lobste.rs/s/bjx13v/strlcpy_how_cpus_can_defy_common_sense"
+    ],
+    [
+      "strlcpy and how CPUs can defy common sense",
+      "https://nrk.neocities.org/articles/cpu-vs-common-sense"
+    ]
+  ],
+  [
+    [
+      "2024-07-24, 23:58:11",
+      "https://lobste.rs/s/qakalc/2024_stack_overflow_developer_survey"
+    ],
+    [
+      "2024 Stack Overflow Developer Survey",
+      "https://survey.stackoverflow.co/2024/"
+    ]
+  ]
+]
