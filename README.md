@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-26, 01:46:45](https://lobste.rs/s/yqjmul/writing_nixos_tests_for_fun_profit) - [Writing NixOS tests for fun and profit](https://kokada.capivaras.dev/blog/writing-nixos-tests-for-fun-and-profit/)
 * [2024-07-26, 01:26:08](https://lobste.rs/s/xg2xvn/introducing_webassembly_javascript) - [Introducing the WebAssembly JavaScript Promise Integration API](https://v8.dev/blog/jspi)
 * [2024-07-25, 21:36:39](https://lobste.rs/s/ekihqs/scoped_tagging_local_exports) - [Scoped Tagging and Local Exports](https://joshleeb.com/posts/status-update-2024-jul.html)
 * [2024-07-25, 21:34:45](https://lobste.rs/s/yfic0e/defense_lisp_macros) - [Defense of Lisp macros](https://mihaiolteanu.me/defense-of-lisp-macros)
@@ -24,7 +25,6 @@
 * [2024-07-24, 23:58:11](https://lobste.rs/s/qakalc/2024_stack_overflow_developer_survey) - [2024 Stack Overflow Developer Survey](https://survey.stackoverflow.co/2024/)
 * [2024-07-24, 21:19:56](https://lobste.rs/s/ty9kjw/anyone_can_access_public_repository_data) - [Anyone can Access Public Repository Data on GitHub](https://trufflesecurity.com/blog/anyone-can-access-deleted-and-private-repo-data-github)
 * [2024-07-24, 17:44:28](https://lobste.rs/s/iyoddd/joy_excitement_surprise_computing_con) - [The joy, excitement, and surprise of computing - !!Con 2024](https://bangbangcon.com/index.html)
-* [2024-07-24, 17:28:43](https://lobste.rs/s/aekb1g/ai_models_collapse_when_trained_on) - [AI models collapse when trained on recursively generated data](https://www.nature.com/articles/s41586-024-07566-y)
 
 ## [Archives](archives/index.md)
 
