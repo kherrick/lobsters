@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-27, 11:15:11",
+      "https://lobste.rs/s/vxci2x/memory_mapping_fpga_from_stm32"
+    ],
+    [
+      "Memory mapping an FPGA from an STM32",
+      "https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 10:54:27",
       "https://lobste.rs/s/sa0ino/learning_about_pci_e_driver_dma"
     ],
@@ -237,16 +247,6 @@
     [
       "How I Use Git Worktrees",
       "https://matklad.github.io/2024/07/25/git-worktrees.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 19:16:14",
-      "https://lobste.rs/s/k7x5w6/secure_boot_is_completely_broken_on_200"
-    ],
-    [
-      "Secure Boot is completely broken on 200+ models from 5 big device makers",
-      "https://arstechnica.com/security/2024/07/secure-boot-is-completely-compromised-on-200-models-from-5-big-device-makers/"
     ]
   ]
 ]
