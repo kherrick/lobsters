@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-27, 17:45:48",
+      "https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed"
+    ],
+    [
+      "Quick bits: nix-shell is cursed",
+      "https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 17:37:11",
       "https://lobste.rs/s/lrqcau/my_favorite_tools_techniques_for"
     ],
@@ -237,16 +247,6 @@
     [
       "Fear of over-engineering has killed engineering altogether",
       "https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ"
-    ]
-  ],
-  [
-    [
-      "2024-07-25, 21:16:02",
-      "https://lobste.rs/s/rvqez7/how_i_use_git_worktrees"
-    ],
-    [
-      "How I Use Git Worktrees",
-      "https://matklad.github.io/2024/07/25/git-worktrees.html"
     ]
   ]
 ]
