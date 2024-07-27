@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 20:23:54](https://lobste.rs/s/unl16j/bashsimplecurses_simple_curses_library) - [bashsimplecurses: A simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
 * [2024-07-27, 19:28:30](https://lobste.rs/s/qnoxtp/yggdrasil_linux_installation_beyond) - [Yggdrasil Linux - Installation and Beyond](https://youtu.be/2IAa6MYVpVs)
 * [2024-07-27, 18:29:35](https://lobste.rs/s/pdutgi/hashbang_hacking_for_fun_maybe_future) - [Hashbang hacking for fun and, maybe in the future, profit](https://lucasew.capivaras.dev/blog/hashbang-hacking-for-fun-and-maybe-in-the-future-profit/)
 * [2024-07-27, 17:45:48](https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed) - [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)

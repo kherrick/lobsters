@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-27, 20:23:54](https://lobste.rs/s/unl16j/bashsimplecurses_simple_curses_library) - [bashsimplecurses: A simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
 * [2024-07-27, 19:28:30](https://lobste.rs/s/qnoxtp/yggdrasil_linux_installation_beyond) - [Yggdrasil Linux - Installation and Beyond](https://youtu.be/2IAa6MYVpVs)
 * [2024-07-27, 18:29:35](https://lobste.rs/s/pdutgi/hashbang_hacking_for_fun_maybe_future) - [Hashbang hacking for fun and, maybe in the future, profit](https://lucasew.capivaras.dev/blog/hashbang-hacking-for-fun-and-maybe-in-the-future-profit/)
 * [2024-07-27, 17:45:48](https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed) - [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)
@@ -15,7 +16,6 @@
 * [2024-07-27, 09:22:52](https://lobste.rs/s/bpgn8k/bizarre_secrets_i_found_investigating) - [The bizarre secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-27, 00:53:51](https://lobste.rs/s/vproqe/new_internet) - [The New Internet](https://tailscale.com/blog/new-internet)
 * [2024-07-26, 22:46:57](https://lobste.rs/s/bi1pfz/transition_from_web_application) - [Transition from web/application development to system engineering](https://lobste.rs/s/bi1pfz/transition_from_web_application)
-* [2024-07-26, 22:31:25](https://lobste.rs/s/5yc3hd/for_better_for_worse_overload) - [For Better or for Worse, the Overload](https://consteval.ca/2024/07/25/overload/)
 * [2024-07-26, 20:39:30](https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with) - [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
 * [2024-07-26, 18:14:19](https://lobste.rs/s/cztz49/meta_thunderbolt) - [Meta-Thunderbolt](https://nocoffei.com/?p=247)
 * [2024-07-26, 17:23:13](https://lobste.rs/s/mt4ado/computers_back_then_story_arra_first) - [\"Computers, back then\": the story of ARRA, the first Dutch computer](https://liam-on-linux.dreamwidth.org/91041.html)
