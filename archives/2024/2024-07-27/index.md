@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 17:29:30](https://lobste.rs/s/4nhj9k/apl_since_1978_pdf_2020) - [APL Since 1978 [pdf] (2020)](https://dl.acm.org/doi/pdf/10.1145/3386319)
 * [2024-07-27, 14:32:44](https://lobste.rs/s/qqkfam/lessons_from_ancient_file_systems) - [Lessons from ancient file systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
 * [2024-07-27, 14:25:12](https://lobste.rs/s/ozdire/linux_network_performance_ultimate) - [Linux Network Performance Ultimate Guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/)
 * [2024-07-27, 12:56:51](https://lobste.rs/s/fgd7jh/actionview_svelte_handler_create_svelte) - [actionview-svelte-handler: Create Svelte views seamlessly in Rails applications](https://codeberg.org/reesericci/actionview-svelte-handler)

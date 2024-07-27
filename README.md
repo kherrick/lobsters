@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-27, 17:29:30](https://lobste.rs/s/4nhj9k/apl_since_1978_pdf_2020) - [APL Since 1978 [pdf] (2020)](https://dl.acm.org/doi/pdf/10.1145/3386319)
 * [2024-07-27, 14:32:44](https://lobste.rs/s/qqkfam/lessons_from_ancient_file_systems) - [Lessons from ancient file systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
 * [2024-07-27, 14:25:12](https://lobste.rs/s/ozdire/linux_network_performance_ultimate) - [Linux Network Performance Ultimate Guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/)
 * [2024-07-27, 12:56:51](https://lobste.rs/s/fgd7jh/actionview_svelte_handler_create_svelte) - [actionview-svelte-handler: Create Svelte views seamlessly in Rails applications](https://codeberg.org/reesericci/actionview-svelte-handler)
@@ -18,7 +19,6 @@
 * [2024-07-26, 17:23:13](https://lobste.rs/s/mt4ado/computers_back_then_story_arra_first) - [\"Computers, back then\": the story of ARRA, the first Dutch computer](https://liam-on-linux.dreamwidth.org/91041.html)
 * [2024-07-26, 17:08:06](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic) - [Fun Friday: What's the most surprising CS topic you've used at work?](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic)
 * [2024-07-26, 16:12:32](https://lobste.rs/s/shh5h5/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
-* [2024-07-26, 16:02:56](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1ep2vh/what_are_you_doing_this_weekend)
 * [2024-07-26, 15:50:40](https://lobste.rs/s/rxf8jv/using_github_as_bad_blog_platform) - [Using GitHub as a (bad) blog platform](https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/)
 * [2024-07-26, 15:47:50](https://lobste.rs/s/ovsqmp/safer_code_c_with_lifetime_bounds) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
 * [2024-07-26, 15:37:37](https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
