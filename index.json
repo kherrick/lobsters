@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-27, 07:16:59",
+      "https://lobste.rs/s/mbkxqk/golang_defer_detailed_guide"
+    ],
+    [
+      "Golang Defer: A Detailed Guide",
+      "https://victoriametrics.com/blog/defer-in-go/"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 00:53:51",
       "https://lobste.rs/s/vproqe/new_internet"
     ],
@@ -37,16 +47,6 @@
     [
       "For Better or for Worse, the Overload",
       "https://consteval.ca/2024/07/25/overload/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 21:15:38",
-      "https://lobste.rs/s/r69zb7/memory_management_duckdb"
-    ],
-    [
-      "Memory Management in DuckDB",
-      "https://duckdb.org/2024/07/09/memory-management"
     ]
   ],
   [
