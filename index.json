@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-27, 20:23:54",
+      "https://lobste.rs/s/unl16j/bashsimplecurses_simple_curses_library"
+    ],
+    [
+      "bashsimplecurses: A simple curses library made in bash to draw terminal interfaces",
+      "https://github.com/metal3d/bashsimplecurses"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 19:28:30",
       "https://lobste.rs/s/qnoxtp/yggdrasil_linux_installation_beyond"
     ],
@@ -147,16 +157,6 @@
     [
       "Transition from web/application development to system engineering",
       "https://lobste.rs/s/bi1pfz/transition_from_web_application"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 22:31:25",
-      "https://lobste.rs/s/5yc3hd/for_better_for_worse_overload"
-    ],
-    [
-      "For Better or for Worse, the Overload",
-      "https://consteval.ca/2024/07/25/overload/"
     ]
   ],
   [
