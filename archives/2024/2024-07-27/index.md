@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 12:56:51](https://lobste.rs/s/fgd7jh/actionview_svelte_handler_create_svelte) - [actionview-svelte-handler: Create Svelte views seamlessly in Rails applications](https://codeberg.org/reesericci/actionview-svelte-handler)
 * [2024-07-27, 12:25:51](https://lobste.rs/s/qrwhbm/minimal_64x4_diy_computer_with_4x) - [Minimal 64x4 – DIY computer with 4x the processing power of a C64 or Apple II](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2024-07-27, 11:15:11](https://lobste.rs/s/vxci2x/memory_mapping_fpga_from_stm32) - [Memory mapping an FPGA from an STM32](https://serd.es/2024/07/24/Memory-mapping-an-FPGA-from-a-STM32.html)
 * [2024-07-27, 10:54:27](https://lobste.rs/s/sa0ino/learning_about_pci_e_driver_dma) - [Learning about PCI-e: Driver & DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
