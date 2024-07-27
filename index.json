@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-27, 10:35:33",
+      "https://lobste.rs/s/kolbyk/new_gleam_feature_i_love"
+    ],
+    [
+      "A new Gleam feature I love",
+      "https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 09:58:52",
       "https://lobste.rs/s/m9n0kp/counting_bytes_faster_than_you_d_think"
     ],
@@ -67,16 +77,6 @@
     [
       "For Better or for Worse, the Overload",
       "https://consteval.ca/2024/07/25/overload/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 21:15:38",
-      "https://lobste.rs/s/r69zb7/memory_management_duckdb"
-    ],
-    [
-      "Memory Management in DuckDB",
-      "https://duckdb.org/2024/07/09/memory-management"
     ]
   ],
   [
