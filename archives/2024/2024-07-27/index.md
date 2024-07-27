@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 18:29:35](https://lobste.rs/s/pdutgi/hashbang_hacking_for_fun_maybe_future) - [Hashbang hacking for fun and, maybe in the future, profit](https://lucasew.capivaras.dev/blog/hashbang-hacking-for-fun-and-maybe-in-the-future-profit/)
 * [2024-07-27, 17:45:48](https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed) - [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)
 * [2024-07-27, 17:37:11](https://lobste.rs/s/lrqcau/my_favorite_tools_techniques_for) - [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 * [2024-07-27, 17:29:30](https://lobste.rs/s/4nhj9k/apl_since_1978_pdf_2020) - [APL Since 1978 [pdf] (2020)](https://dl.acm.org/doi/pdf/10.1145/3386319)

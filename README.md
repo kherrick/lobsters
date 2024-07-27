@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-27, 18:29:35](https://lobste.rs/s/pdutgi/hashbang_hacking_for_fun_maybe_future) - [Hashbang hacking for fun and, maybe in the future, profit](https://lucasew.capivaras.dev/blog/hashbang-hacking-for-fun-and-maybe-in-the-future-profit/)
 * [2024-07-27, 17:45:48](https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed) - [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)
 * [2024-07-27, 17:37:11](https://lobste.rs/s/lrqcau/my_favorite_tools_techniques_for) - [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 * [2024-07-27, 17:29:30](https://lobste.rs/s/4nhj9k/apl_since_1978_pdf_2020) - [APL Since 1978 [pdf] (2020)](https://dl.acm.org/doi/pdf/10.1145/3386319)
@@ -23,7 +24,6 @@
 * [2024-07-26, 15:50:40](https://lobste.rs/s/rxf8jv/using_github_as_bad_blog_platform) - [Using GitHub as a (bad) blog platform](https://kokada.capivaras.dev/blog/using-github-as-a-bad-blog-platform/)
 * [2024-07-26, 15:47:50](https://lobste.rs/s/ovsqmp/safer_code_c_with_lifetime_bounds) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
 * [2024-07-26, 15:37:37](https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
-* [2024-07-26, 11:11:35](https://lobste.rs/s/4r4big/how_it_became_like_this_ruby_range_class) - [How it became like this? Ruby Range class](https://zverok.space/blog/2024-07-26-range-evolution.html)
 * [2024-07-26, 10:56:32](https://lobste.rs/s/37lvrj/fear_over_engineering_has_killed) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 
 ## [Archives](archives/index.md)
