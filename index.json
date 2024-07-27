@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-27, 12:25:51",
+      "https://lobste.rs/s/qrwhbm/minimal_64x4_diy_computer_with_4x"
+    ],
+    [
+      "Minimal 64x4 – DIY computer with 4x the processing power of a C64 or Apple II",
+      "https://github.com/slu4coder/Minimal-64x4-Home-Computer"
+    ]
+  ],
+  [
+    [
       "2024-07-27, 11:15:11",
       "https://lobste.rs/s/vxci2x/memory_mapping_fpga_from_stm32"
     ],
@@ -47,16 +57,6 @@
     [
       "The bizarre secrets I found investigating corrupt Winamp skins",
       "https://jordaneldredge.com/notes/corrupted-skins/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 07:16:59",
-      "https://lobste.rs/s/mbkxqk/golang_defer_detailed_guide"
-    ],
-    [
-      "Golang Defer: A Detailed Guide",
-      "https://victoriametrics.com/blog/defer-in-go/"
     ]
   ],
   [
