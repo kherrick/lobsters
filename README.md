@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-27, 10:35:33](https://lobste.rs/s/kolbyk/new_gleam_feature_i_love) - [A new Gleam feature I love](https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love)
 * [2024-07-27, 09:58:52](https://lobste.rs/s/m9n0kp/counting_bytes_faster_than_you_d_think) - [Counting Bytes Faster Than You'd Think Possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-27, 09:22:52](https://lobste.rs/s/bpgn8k/bizarre_secrets_i_found_investigating) - [The bizarre secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-27, 07:16:59](https://lobste.rs/s/mbkxqk/golang_defer_detailed_guide) - [Golang Defer: A Detailed Guide](https://victoriametrics.com/blog/defer-in-go/)
@@ -7,7 +8,6 @@
 * [2024-07-26, 22:46:57](https://lobste.rs/s/bi1pfz/transition_from_web_application) - [Transition from web/application development to system engineering](https://lobste.rs/s/bi1pfz/transition_from_web_application)
 * [2024-07-26, 22:35:36](https://lobste.rs/s/pn9ukk/amd_zen_5_s_2_ahead_branch_predictor_unit) - [AMD Zen 5’s 2-Ahead Branch Predictor Unit: How a 30 Year Old Idea Allows for New Tricks](https://chipsandcheese.com/2024/07/26/zen-5s-2-ahead-branch-predictor-unit-how-30-year-old-idea-allows-for-new-tricks/)
 * [2024-07-26, 22:31:25](https://lobste.rs/s/5yc3hd/for_better_for_worse_overload) - [For Better or for Worse, the Overload](https://consteval.ca/2024/07/25/overload/)
-* [2024-07-26, 21:15:38](https://lobste.rs/s/r69zb7/memory_management_duckdb) - [Memory Management in DuckDB](https://duckdb.org/2024/07/09/memory-management)
 * [2024-07-26, 20:39:30](https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with) - [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
 * [2024-07-26, 18:14:19](https://lobste.rs/s/cztz49/meta_thunderbolt) - [Meta-Thunderbolt](https://nocoffei.com/?p=247)
 * [2024-07-26, 17:51:12](https://lobste.rs/s/pzdu3o/maps_with_django_geodjango_spatialite) - [Maps with Django⁽¹⁾: GeoDjango, SpatiaLite & Leaflet](https://www.paulox.net/2020/12/08/maps-with-django-part-1-geodjango-spatialite-and-leaflet/)

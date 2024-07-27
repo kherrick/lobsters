@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 10:35:33](https://lobste.rs/s/kolbyk/new_gleam_feature_i_love) - [A new Gleam feature I love](https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love)
 * [2024-07-27, 09:58:52](https://lobste.rs/s/m9n0kp/counting_bytes_faster_than_you_d_think) - [Counting Bytes Faster Than You'd Think Possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-27, 09:22:52](https://lobste.rs/s/bpgn8k/bizarre_secrets_i_found_investigating) - [The bizarre secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-27, 07:16:59](https://lobste.rs/s/mbkxqk/golang_defer_detailed_guide) - [Golang Defer: A Detailed Guide](https://victoriametrics.com/blog/defer-in-go/)
