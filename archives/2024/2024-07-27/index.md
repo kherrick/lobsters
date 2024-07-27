@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-27](index.md)
 
+* [2024-07-27, 10:54:27](https://lobste.rs/s/sa0ino/learning_about_pci_e_driver_dma) - [Learning about PCI-e: Driver & DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 10:35:33](https://lobste.rs/s/kolbyk/new_gleam_feature_i_love) - [A new Gleam feature I love](https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love)
 * [2024-07-27, 09:58:52](https://lobste.rs/s/m9n0kp/counting_bytes_faster_than_you_d_think) - [Counting Bytes Faster Than You'd Think Possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-27, 09:22:52](https://lobste.rs/s/bpgn8k/bizarre_secrets_i_found_investigating) - [The bizarre secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
