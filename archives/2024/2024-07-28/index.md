@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 18:11:17](https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into) - [Interpreting decimal strings into floats (part 1)](https://jvernay.fr/en/blog/parse-floats/part1-parsing/)
 * [2024-07-28, 18:04:34](https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation) - [Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024](https://krystalgamer.github.io/spidey-decomp-status-july/)
 * [2024-07-28, 16:52:23](https://lobste.rs/s/r6mnu6/many_lives_null_island) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 18:11:17](https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into) - [Interpreting decimal strings into floats (part 1)](https://jvernay.fr/en/blog/parse-floats/part1-parsing/)
 * [2024-07-28, 18:04:34](https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation) - [Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024](https://krystalgamer.github.io/spidey-decomp-status-july/)
 * [2024-07-28, 16:52:23](https://lobste.rs/s/r6mnu6/many_lives_null_island) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
@@ -24,7 +25,6 @@
 * [2024-07-27, 09:58:52](https://lobste.rs/s/m9n0kp/counting_bytes_faster_than_you_d_think) - [Counting Bytes Faster Than You'd Think Possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-27, 09:22:52](https://lobste.rs/s/bpgn8k/bizarre_secrets_i_found_investigating) - [The bizarre secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-27, 00:53:51](https://lobste.rs/s/vproqe/new_internet) - [The New Internet](https://tailscale.com/blog/new-internet)
-* [2024-07-26, 20:39:30](https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with) - [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
 
 ## [Archives](archives/index.md)
 
