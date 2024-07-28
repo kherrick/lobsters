@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-28, 03:48:33",
+      "https://lobste.rs/s/zfvkpf/netbsd_on_risc_v_it_finally_runs_netbsd"
+    ],
+    [
+      "NetBSD on RISC-V - It Finally Runs NetBSD",
+      "https://youtu.be/RNHTYV4MI8Y"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 01:15:19",
       "https://lobste.rs/s/x9vn3i/symbolics_s_render_manual_1985"
     ],
@@ -217,16 +227,6 @@
     [
       "Scaling One Million Checkboxes to 650,000,000 checks",
       "https://eieio.games/essays/scaling-one-million-checkboxes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 15:47:50",
-      "https://lobste.rs/s/ovsqmp/safer_code_c_with_lifetime_bounds"
-    ],
-    [
-      "Safer code in C++ with lifetime bounds",
-      "https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/"
     ]
   ],
   [
