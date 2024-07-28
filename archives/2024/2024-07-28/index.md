@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 18:11:17](https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into) - [Interpreting decimal strings into floats (part 1)](https://jvernay.fr/en/blog/parse-floats/part1-parsing/)
+* [2024-07-28, 18:04:34](https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation) - [Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024](https://krystalgamer.github.io/spidey-decomp-status-july/)
 * [2024-07-28, 16:52:23](https://lobste.rs/s/r6mnu6/many_lives_null_island) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
 * [2024-07-28, 15:03:42](https://lobste.rs/s/oraqtj/interactive_flight_satellite_tracker) - [Interactive Flight and Satellite Tracker](https://react-flight-tracker.apoorva64.com/)
 * [2024-07-28, 14:47:42](https://lobste.rs/s/mebxpz/fixing_more_cheap_altera_usb_blaster) - [Fixing more cheap Altera USB Blaster clones: CPLD adventures](https://www.downtowndougbrown.com/2024/07/fixing-more-cheap-altera-usb-blaster-clones-cpld-adventures/)
