@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-28, 09:55:03](https://lobste.rs/s/qmwkpi/windows_xp_luna_theme_for_chrome) - [Windows XP Luna Theme for Chrome](https://github.com/ghoomfrog/luna)
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
 * [2024-07-28, 07:19:39](https://lobste.rs/s/qtj0ok/unsafe_read_beyond_death) - [Unsafe read beyond of death](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
 * [2024-07-28, 03:48:33](https://lobste.rs/s/zfvkpf/netbsd_on_risc_v_it_finally_runs_netbsd) - [NetBSD on RISC-V - It Finally Runs NetBSD](https://youtu.be/RNHTYV4MI8Y)
@@ -24,7 +25,6 @@
 * [2024-07-26, 17:08:06](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic) - [Fun Friday: What's the most surprising CS topic you've used at work?](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic)
 * [2024-07-26, 16:12:32](https://lobste.rs/s/shh5h5/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
 * [2024-07-26, 15:37:37](https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
-* [2024-07-26, 10:56:32](https://lobste.rs/s/37lvrj/fear_over_engineering_has_killed) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 
 ## [Archives](archives/index.md)
 
