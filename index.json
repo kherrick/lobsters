@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-28, 15:03:42",
+      "https://lobste.rs/s/oraqtj/interactive_flight_satellite_tracker"
+    ],
+    [
+      "Interactive Flight and Satellite Tracker",
+      "https://react-flight-tracker.apoorva64.com/"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 14:47:42",
       "https://lobste.rs/s/mebxpz/fixing_more_cheap_altera_usb_blaster"
     ],
@@ -237,16 +247,6 @@
     [
       "Scaling One Million Checkboxes to 650,000,000 checks",
       "https://eieio.games/essays/scaling-one-million-checkboxes/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 15:37:37",
-      "https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching"
-    ],
-    [
-      "Bril: An Intermediate Language for Teaching Compilers",
-      "https://www.cs.cornell.edu/~asampson/blog/bril.html"
     ]
   ]
 ]
