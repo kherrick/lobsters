@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-28, 03:48:33](https://lobste.rs/s/zfvkpf/netbsd_on_risc_v_it_finally_runs_netbsd) - [NetBSD on RISC-V - It Finally Runs NetBSD](https://youtu.be/RNHTYV4MI8Y)
 * [2024-07-28, 01:15:19](https://lobste.rs/s/x9vn3i/symbolics_s_render_manual_1985) - [Symbolics S-Render manual (1985)](https://archive.org/details/symbolics-s-render)
 * [2024-07-28, 00:44:04](https://lobste.rs/s/mq4hrh/writing_legacy_pxe_bootloader) - [Writing a legacy PXE bootloader](https://www.2bits.in/writing-a-legacy-pxe-bootloader/)
 * [2024-07-27, 20:23:54](https://lobste.rs/s/unl16j/bashsimplecurses_simple_curses_library) - [bashsimplecurses: A simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
@@ -22,7 +23,6 @@
 * [2024-07-26, 18:14:19](https://lobste.rs/s/cztz49/meta_thunderbolt) - [Meta-Thunderbolt](https://nocoffei.com/?p=247)
 * [2024-07-26, 17:08:06](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic) - [Fun Friday: What's the most surprising CS topic you've used at work?](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic)
 * [2024-07-26, 16:12:32](https://lobste.rs/s/shh5h5/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
-* [2024-07-26, 15:47:50](https://lobste.rs/s/ovsqmp/safer_code_c_with_lifetime_bounds) - [Safer code in C++ with lifetime bounds](https://lemire.me/blog/2024/07/26/safer-code-in-c-with-lifetime-bounds/)
 * [2024-07-26, 15:37:37](https://lobste.rs/s/bd1y8i/bril_intermediate_language_for_teaching) - [Bril: An Intermediate Language for Teaching Compilers](https://www.cs.cornell.edu/~asampson/blog/bril.html)
 * [2024-07-26, 10:56:32](https://lobste.rs/s/37lvrj/fear_over_engineering_has_killed) - [Fear of over-engineering has killed engineering altogether](https://fika.bar/blogs/paoramen/fear-of-over-engineering-has-killed-engineering-altogether-01J3MM2Y3RGK8AZWYHHFJMAGJJ)
 
