@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 15:03:42](https://lobste.rs/s/oraqtj/interactive_flight_satellite_tracker) - [Interactive Flight and Satellite Tracker](https://react-flight-tracker.apoorva64.com/)
 * [2024-07-28, 14:47:42](https://lobste.rs/s/mebxpz/fixing_more_cheap_altera_usb_blaster) - [Fixing more cheap Altera USB Blaster clones: CPLD adventures](https://www.downtowndougbrown.com/2024/07/fixing-more-cheap-altera-usb-blaster-clones-cpld-adventures/)
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 09:55:03](https://lobste.rs/s/qmwkpi/windows_xp_luna_theme_for_chrome) - [Windows XP Luna Theme for Chrome](https://github.com/ghoomfrog/luna)
