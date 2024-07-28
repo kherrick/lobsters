@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-28](index.md)
 
+* [2024-07-28, 23:40:26](https://lobste.rs/s/knfsty/what_s_new_go_1_23_iterators_reflect_value) - [What’s New in Go 1.23: Iterators and reflect.Value.Seq](https://blog.carlana.net/post/2024/golang-reflect-value-seq/)
 * [2024-07-28, 23:03:51](https://lobste.rs/s/kstipl/announcing_typescript_5_6_beta) - [Announcing TypeScript 5.6 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/)
 * [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 18:11:17](https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into) - [Interpreting decimal strings into floats (part 1)](https://jvernay.fr/en/blog/parse-floats/part1-parsing/)
