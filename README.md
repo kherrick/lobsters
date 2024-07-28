@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
 * [2024-07-28, 07:19:39](https://lobste.rs/s/qtj0ok/unsafe_read_beyond_death) - [Unsafe read beyond of death](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
 * [2024-07-28, 03:48:33](https://lobste.rs/s/zfvkpf/netbsd_on_risc_v_it_finally_runs_netbsd) - [NetBSD on RISC-V - It Finally Runs NetBSD](https://youtu.be/RNHTYV4MI8Y)
 * [2024-07-28, 01:15:19](https://lobste.rs/s/x9vn3i/symbolics_s_render_manual_1985) - [Symbolics S-Render manual (1985)](https://archive.org/details/symbolics-s-render)
@@ -10,7 +11,6 @@
 * [2024-07-27, 17:45:48](https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed) - [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)
 * [2024-07-27, 17:37:11](https://lobste.rs/s/lrqcau/my_favorite_tools_techniques_for) - [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 * [2024-07-27, 17:29:30](https://lobste.rs/s/4nhj9k/apl_since_1978_pdf_2020) - [APL Since 1978 [pdf] (2020)](https://dl.acm.org/doi/pdf/10.1145/3386319)
-* [2024-07-27, 14:32:44](https://lobste.rs/s/qqkfam/lessons_from_ancient_file_systems) - [Lessons from ancient file systems](http://madcompiler.blogspot.com/2024/02/lessons-from-ancient-file-systems.html)
 * [2024-07-27, 14:25:12](https://lobste.rs/s/ozdire/linux_network_performance_ultimate) - [Linux Network Performance Ultimate Guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/)
 * [2024-07-27, 12:56:51](https://lobste.rs/s/fgd7jh/actionview_svelte_handler_create_svelte) - [actionview-svelte-handler: Create Svelte views seamlessly in Rails applications](https://codeberg.org/reesericci/actionview-svelte-handler)
 * [2024-07-27, 12:25:51](https://lobste.rs/s/qrwhbm/minimal_64x4_diy_computer_with_4x) - [Minimal 64x4 – DIY computer with 4x the processing power of a C64 or Apple II](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
