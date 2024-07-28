@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-07-28, 09:55:03",
-      "https://lobste.rs/s/qmwkpi/windows_xp_luna_theme_for_chrome"
-    ],
-    [
-      "Windows XP Luna Theme for Chrome",
-      "https://github.com/ghoomfrog/luna"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 09:30:10",
       "https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever"
     ],
@@ -247,6 +237,16 @@
     [
       "The New Internet",
       "https://tailscale.com/blog/new-internet"
+    ]
+  ],
+  [
+    [
+      "2024-07-26, 20:39:30",
+      "https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with"
+    ],
+    [
+      "Tracing the evolution of a Python function with git log -L",
+      "https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/"
     ]
   ]
 ]
