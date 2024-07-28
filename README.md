@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-28, 14:47:42](https://lobste.rs/s/mebxpz/fixing_more_cheap_altera_usb_blaster) - [Fixing more cheap Altera USB Blaster clones: CPLD adventures](https://www.downtowndougbrown.com/2024/07/fixing-more-cheap-altera-usb-blaster-clones-cpld-adventures/)
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 09:55:03](https://lobste.rs/s/qmwkpi/windows_xp_luna_theme_for_chrome) - [Windows XP Luna Theme for Chrome](https://github.com/ghoomfrog/luna)
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
@@ -20,7 +21,6 @@
 * [2024-07-27, 09:58:52](https://lobste.rs/s/m9n0kp/counting_bytes_faster_than_you_d_think) - [Counting Bytes Faster Than You'd Think Possible](https://blog.mattstuchlik.com/2024/07/21/fastest-memory-read.html)
 * [2024-07-27, 09:22:52](https://lobste.rs/s/bpgn8k/bizarre_secrets_i_found_investigating) - [The bizarre secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
 * [2024-07-27, 00:53:51](https://lobste.rs/s/vproqe/new_internet) - [The New Internet](https://tailscale.com/blog/new-internet)
-* [2024-07-26, 22:46:57](https://lobste.rs/s/bi1pfz/transition_from_web_application) - [Transition from web/application development to system engineering](https://lobste.rs/s/bi1pfz/transition_from_web_application)
 * [2024-07-26, 20:39:30](https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with) - [Tracing the evolution of a Python function with git log -L](https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/)
 * [2024-07-26, 17:08:06](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic) - [Fun Friday: What's the most surprising CS topic you've used at work?](https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic)
 * [2024-07-26, 16:12:32](https://lobste.rs/s/shh5h5/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks](https://eieio.games/essays/scaling-one-million-checkboxes/)
