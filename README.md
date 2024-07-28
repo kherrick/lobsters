@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 09:55:03](https://lobste.rs/s/qmwkpi/windows_xp_luna_theme_for_chrome) - [Windows XP Luna Theme for Chrome](https://github.com/ghoomfrog/luna)
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
 * [2024-07-28, 07:19:39](https://lobste.rs/s/qtj0ok/unsafe_read_beyond_death) - [Unsafe read beyond of death](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
@@ -13,7 +14,6 @@
 * [2024-07-27, 17:37:11](https://lobste.rs/s/lrqcau/my_favorite_tools_techniques_for) - [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 * [2024-07-27, 17:29:30](https://lobste.rs/s/4nhj9k/apl_since_1978_pdf_2020) - [APL Since 1978 [pdf] (2020)](https://dl.acm.org/doi/pdf/10.1145/3386319)
 * [2024-07-27, 14:25:12](https://lobste.rs/s/ozdire/linux_network_performance_ultimate) - [Linux Network Performance Ultimate Guide](https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/)
-* [2024-07-27, 12:56:51](https://lobste.rs/s/fgd7jh/actionview_svelte_handler_create_svelte) - [actionview-svelte-handler: Create Svelte views seamlessly in Rails applications](https://codeberg.org/reesericci/actionview-svelte-handler)
 * [2024-07-27, 12:25:51](https://lobste.rs/s/qrwhbm/minimal_64x4_diy_computer_with_4x) - [Minimal 64x4 – DIY computer with 4x the processing power of a C64 or Apple II](https://github.com/slu4coder/Minimal-64x4-Home-Computer)
 * [2024-07-27, 10:54:27](https://lobste.rs/s/sa0ino/learning_about_pci_e_driver_dma) - [Learning about PCI-e: Driver & DMA](https://blog.davidv.dev/posts/pcie-driver-dma/)
 * [2024-07-27, 10:35:33](https://lobste.rs/s/kolbyk/new_gleam_feature_i_love) - [A new Gleam feature I love](https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love)
