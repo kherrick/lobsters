@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-28, 20:39:46",
+      "https://lobste.rs/s/bfgsh6/tolower_with_avx_512"
+    ],
+    [
+      "tolower() with AVX-512",
+      "https://dotat.at/@/2024-07-28-tolower-avx512.html"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 18:11:17",
       "https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into"
     ],
@@ -237,16 +247,6 @@
     [
       "The New Internet",
       "https://tailscale.com/blog/new-internet"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 20:39:30",
-      "https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with"
-    ],
-    [
-      "Tracing the evolution of a Python function with git log -L",
-      "https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/"
     ]
   ]
 ]
