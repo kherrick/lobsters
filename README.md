@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-28, 23:03:51](https://lobste.rs/s/kstipl/announcing_typescript_5_6_beta) - [Announcing TypeScript 5.6 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/)
 * [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 18:11:17](https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into) - [Interpreting decimal strings into floats (part 1)](https://jvernay.fr/en/blog/parse-floats/part1-parsing/)
 * [2024-07-28, 18:04:34](https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation) - [Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024](https://krystalgamer.github.io/spidey-decomp-status-july/)
@@ -13,7 +14,6 @@
 * [2024-07-28, 01:15:19](https://lobste.rs/s/x9vn3i/symbolics_s_render_manual_1985) - [Symbolics S-Render manual (1985)](https://archive.org/details/symbolics-s-render)
 * [2024-07-28, 00:44:04](https://lobste.rs/s/mq4hrh/writing_legacy_pxe_bootloader) - [Writing a legacy PXE bootloader](https://www.2bits.in/writing-a-legacy-pxe-bootloader/)
 * [2024-07-27, 20:23:54](https://lobste.rs/s/unl16j/bashsimplecurses_simple_curses_library) - [bashsimplecurses: A simple curses library made in bash to draw terminal interfaces](https://github.com/metal3d/bashsimplecurses)
-* [2024-07-27, 19:28:30](https://lobste.rs/s/qnoxtp/yggdrasil_linux_installation_beyond) - [Yggdrasil Linux - Installation and Beyond](https://youtu.be/2IAa6MYVpVs)
 * [2024-07-27, 18:29:35](https://lobste.rs/s/pdutgi/hashbang_hacking_for_fun_maybe_future) - [Hashbang hacking for fun and, maybe in the future, profit](https://lucasew.capivaras.dev/blog/hashbang-hacking-for-fun-and-maybe-in-the-future-profit/)
 * [2024-07-27, 17:45:48](https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed) - [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)
 * [2024-07-27, 17:37:11](https://lobste.rs/s/lrqcau/my_favorite_tools_techniques_for) - [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
