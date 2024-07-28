@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-28, 23:03:51",
+      "https://lobste.rs/s/kstipl/announcing_typescript_5_6_beta"
+    ],
+    [
+      "Announcing TypeScript 5.6 Beta",
+      "https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 20:39:46",
       "https://lobste.rs/s/bfgsh6/tolower_with_avx_512"
     ],
@@ -127,16 +137,6 @@
     [
       "bashsimplecurses: A simple curses library made in bash to draw terminal interfaces",
       "https://github.com/metal3d/bashsimplecurses"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 19:28:30",
-      "https://lobste.rs/s/qnoxtp/yggdrasil_linux_installation_beyond"
-    ],
-    [
-      "Yggdrasil Linux - Installation and Beyond",
-      "https://youtu.be/2IAa6MYVpVs"
     ]
   ],
   [
