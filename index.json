@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-28, 18:11:17",
+      "https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into"
+    ],
+    [
+      "Interpreting decimal strings into floats (part 1)",
+      "https://jvernay.fr/en/blog/parse-floats/part1-parsing/"
+    ]
+  ],
+  [
+    [
+      "2024-07-28, 18:04:34",
+      "https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation"
+    ],
+    [
+      "Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024",
+      "https://krystalgamer.github.io/spidey-decomp-status-july/"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 16:52:23",
       "https://lobste.rs/s/r6mnu6/many_lives_null_island"
     ],
@@ -227,26 +247,6 @@
     [
       "The New Internet",
       "https://tailscale.com/blog/new-internet"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 20:39:30",
-      "https://lobste.rs/s/wfirzm/tracing_evolution_python_function_with"
-    ],
-    [
-      "Tracing the evolution of a Python function with git log -L",
-      "https://nerderati.com/tracing-the-evolution-of-a-python-function-with-git-log/"
-    ]
-  ],
-  [
-    [
-      "2024-07-26, 17:08:06",
-      "https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic"
-    ],
-    [
-      "Fun Friday: What's the most surprising CS topic you've used at work?",
-      "https://lobste.rs/s/50zui5/fun_friday_what_s_most_surprising_cs_topic"
     ]
   ]
 ]
