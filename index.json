@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-28, 23:40:26",
+      "https://lobste.rs/s/knfsty/what_s_new_go_1_23_iterators_reflect_value"
+    ],
+    [
+      "What’s New in Go 1.23: Iterators and reflect.Value.Seq",
+      "https://blog.carlana.net/post/2024/golang-reflect-value-seq/"
+    ]
+  ],
+  [
+    [
       "2024-07-28, 23:03:51",
       "https://lobste.rs/s/kstipl/announcing_typescript_5_6_beta"
     ],
@@ -187,16 +197,6 @@
     [
       "Linux Network Performance Ultimate Guide",
       "https://ntk148v.github.io/posts/linux-network-performance-ultimate-guide/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 12:25:51",
-      "https://lobste.rs/s/qrwhbm/minimal_64x4_diy_computer_with_4x"
-    ],
-    [
-      "Minimal 64x4 – DIY computer with 4x the processing power of a C64 or Apple II",
-      "https://github.com/slu4coder/Minimal-64x4-Home-Computer"
     ]
   ],
   [
