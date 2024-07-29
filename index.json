@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-29, 08:27:56",
+      "https://lobste.rs/s/eykl7i/scilean_scientific_computing_lean_4"
+    ],
+    [
+      "SciLean: Scientific computing in Lean 4",
+      "https://github.com/lecopivo/SciLean"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 08:25:54",
+      "https://lobste.rs/s/crp5sq/tigerstyle"
+    ],
+    [
+      "TigerStyle",
+      "https://ratfactor.com/cards/tiger-style"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 07:09:11",
       "https://lobste.rs/s/wjovrc/carving_super_nintendo_video_system"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-07-27, 20:23:54",
-      "https://lobste.rs/s/unl16j/bashsimplecurses_simple_curses_library"
-    ],
-    [
-      "bashsimplecurses: A simple curses library made in bash to draw terminal interfaces",
-      "https://github.com/metal3d/bashsimplecurses"
-    ]
-  ],
-  [
-    [
       "2024-07-27, 18:29:35",
       "https://lobste.rs/s/pdutgi/hashbang_hacking_for_fun_maybe_future"
     ],
@@ -217,16 +227,6 @@
     [
       "Quick bits: nix-shell is cursed",
       "https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 17:37:11",
-      "https://lobste.rs/s/lrqcau/my_favorite_tools_techniques_for"
-    ],
-    [
-      "My Favorite Tools + Techniques for Procedural Gamedev",
-      "https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/"
     ]
   ],
   [
