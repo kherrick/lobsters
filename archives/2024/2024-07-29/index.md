@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 15:09:18](https://lobste.rs/s/aam90t/windows_security_best_practices_for) - [Windows Security best practices for integrating and managing security tools](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
 * [2024-07-29, 12:56:28](https://lobste.rs/s/dyfjhj/memory_control_proposal_for_webassembly) - [Memory control proposal for WebAssembly](https://github.com/WebAssembly/memory-control/blob/main/proposals/memory-control/Overview.md)
 * [2024-07-29, 10:02:01](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week)
 * [2024-07-29, 08:27:56](https://lobste.rs/s/eykl7i/scilean_scientific_computing_lean_4) - [SciLean: Scientific computing in Lean 4](https://github.com/lecopivo/SciLean)
