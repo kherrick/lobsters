@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
+* [2024-07-29, 18:38:29](https://lobste.rs/s/whxyn0/out_my_cave_lots_updates) - [Out of my cave, lots of updates](https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/)
+* [2024-07-29, 18:38:13](https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design) - [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
 * [2024-07-29, 17:03:07](https://lobste.rs/s/unid4d/alloc_cat_simple_allocator_for_small_tiny) - [alloc_cat: a simple allocator for small-to-tiny wasm projects](https://crates.io/crates/alloc_cat)
 * [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
@@ -18,13 +21,10 @@
 * [2024-07-28, 23:40:26](https://lobste.rs/s/knfsty/what_s_new_go_1_23_iterators_reflect_value) - [What’s New in Go 1.23: Iterators and reflect.Value.Seq](https://blog.carlana.net/post/2024/golang-reflect-value-seq/)
 * [2024-07-28, 23:03:51](https://lobste.rs/s/kstipl/announcing_typescript_5_6_beta) - [Announcing TypeScript 5.6 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/)
 * [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
-* [2024-07-28, 18:11:17](https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into) - [Interpreting decimal strings into floats (part 1)](https://jvernay.fr/en/blog/parse-floats/part1-parsing/)
 * [2024-07-28, 18:04:34](https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation) - [Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024](https://krystalgamer.github.io/spidey-decomp-status-july/)
 * [2024-07-28, 16:52:23](https://lobste.rs/s/r6mnu6/many_lives_null_island) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
-* [2024-07-28, 15:03:42](https://lobste.rs/s/oraqtj/interactive_flight_satellite_tracker) - [Interactive Flight and Satellite Tracker](https://react-flight-tracker.apoorva64.com/)
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
-* [2024-07-28, 07:19:39](https://lobste.rs/s/qtj0ok/unsafe_read_beyond_death) - [Unsafe read beyond of death](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
 
 ## [Archives](archives/index.md)
 

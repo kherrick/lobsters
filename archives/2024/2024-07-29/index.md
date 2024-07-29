@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
+* [2024-07-29, 18:38:29](https://lobste.rs/s/whxyn0/out_my_cave_lots_updates) - [Out of my cave, lots of updates](https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/)
+* [2024-07-29, 18:38:13](https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design) - [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
 * [2024-07-29, 17:03:07](https://lobste.rs/s/unid4d/alloc_cat_simple_allocator_for_small_tiny) - [alloc_cat: a simple allocator for small-to-tiny wasm projects](https://crates.io/crates/alloc_cat)
 * [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
