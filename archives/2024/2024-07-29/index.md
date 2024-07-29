@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
+* [2024-07-29, 15:53:44](https://lobste.rs/s/5tsn78/qt_creator_14_c_code_model_update) - [Qt Creator 14: C++ Code Model Update](https://www.qt.io/blog/qt-creator-14-code-model-update)
 * [2024-07-29, 15:53:15](https://lobste.rs/s/bpl99y/cppfront_midsummer_update) - [cppfront: Midsummer update](https://herbsutter.com/2024/07/28/cppfront-midsummer-update/)
 * [2024-07-29, 15:26:27](https://lobste.rs/s/j03wsd/flexible_network_data_preloading_large) - [Flexible network data preloading in large SPAs](https://mmazzarolo.com/blog/2024-07-29-data-preloading-script/)
 * [2024-07-29, 15:09:18](https://lobste.rs/s/aam90t/windows_security_best_practices_for) - [Windows Security best practices for integrating and managing security tools](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
