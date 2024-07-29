@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-29, 07:09:11](https://lobste.rs/s/wjovrc/carving_super_nintendo_video_system) - [Carving the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)
 * [2024-07-29, 02:54:46](https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs) - [Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust](https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/)
 * [2024-07-29, 01:44:50](https://lobste.rs/s/iv22uz/tiny_tapeout_demoscene_competition) - [Tiny Tapeout demoscene competition](https://tinytapeout.com/competitions/demoscene/)
 * [2024-07-29, 00:30:36](https://lobste.rs/s/s5xodi/recursion_quick_introduction_2023) - [Recursion: a quick introduction (2023)](https://recursion.wtf/posts/recursion_lib_intro/)
@@ -24,7 +25,6 @@
 * [2024-07-27, 17:37:11](https://lobste.rs/s/lrqcau/my_favorite_tools_techniques_for) - [My Favorite Tools + Techniques for Procedural Gamedev](https://cprimozic.net/blog/tools-and-techniques-for-procedural-gamedev/)
 * [2024-07-27, 10:35:33](https://lobste.rs/s/kolbyk/new_gleam_feature_i_love) - [A new Gleam feature I love](https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love)
 * [2024-07-27, 09:22:52](https://lobste.rs/s/bpgn8k/bizarre_secrets_i_found_investigating) - [The bizarre secrets I found investigating corrupt Winamp skins](https://jordaneldredge.com/notes/corrupted-skins/)
-* [2024-07-27, 00:53:51](https://lobste.rs/s/vproqe/new_internet) - [The New Internet](https://tailscale.com/blog/new-internet)
 
 ## [Archives](archives/index.md)
 
