@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-29, 15:53:15](https://lobste.rs/s/bpl99y/cppfront_midsummer_update) - [cppfront: Midsummer update](https://herbsutter.com/2024/07/28/cppfront-midsummer-update/)
 * [2024-07-29, 15:26:27](https://lobste.rs/s/j03wsd/flexible_network_data_preloading_large) - [Flexible network data preloading in large SPAs](https://mmazzarolo.com/blog/2024-07-29-data-preloading-script/)
 * [2024-07-29, 15:09:18](https://lobste.rs/s/aam90t/windows_security_best_practices_for) - [Windows Security best practices for integrating and managing security tools](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
 * [2024-07-29, 12:56:28](https://lobste.rs/s/dyfjhj/memory_control_proposal_for_webassembly) - [Memory control proposal for WebAssembly](https://github.com/WebAssembly/memory-control/blob/main/proposals/memory-control/Overview.md)
@@ -18,7 +19,6 @@
 * [2024-07-28, 18:04:34](https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation) - [Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024](https://krystalgamer.github.io/spidey-decomp-status-july/)
 * [2024-07-28, 16:52:23](https://lobste.rs/s/r6mnu6/many_lives_null_island) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
 * [2024-07-28, 15:03:42](https://lobste.rs/s/oraqtj/interactive_flight_satellite_tracker) - [Interactive Flight and Satellite Tracker](https://react-flight-tracker.apoorva64.com/)
-* [2024-07-28, 14:47:42](https://lobste.rs/s/mebxpz/fixing_more_cheap_altera_usb_blaster) - [Fixing more cheap Altera USB Blaster clones: CPLD adventures](https://www.downtowndougbrown.com/2024/07/fixing-more-cheap-altera-usb-blaster-clones-cpld-adventures/)
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
 * [2024-07-28, 07:19:39](https://lobste.rs/s/qtj0ok/unsafe_read_beyond_death) - [Unsafe read beyond of death](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
