@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-29, 22:05:27](https://lobste.rs/s/0gxir7/copper_is_out_rust_robotics_framework) - [Copper is Out! (a rust robotics framework)](https://www.copper-robotics.com/whats-new/copper-is-out)
+* [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
 * [2024-07-29, 21:01:46](https://lobste.rs/s/u7g4tu/scientists_achieve_record_breaking_402) - [Scientists achieve record-breaking 402 Tbps data transmission speeds — 1.6 million times faster than home broadband](https://www.scihb.com/2024/07/scientists-achieve-record-breaking-402.html)
 * [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 * [2024-07-29, 18:38:29](https://lobste.rs/s/whxyn0/out_my_cave_lots_updates) - [Out of my cave, lots of updates](https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/)
@@ -19,9 +21,7 @@
 * [2024-07-29, 01:44:50](https://lobste.rs/s/iv22uz/tiny_tapeout_demoscene_competition) - [Tiny Tapeout demoscene competition](https://tinytapeout.com/competitions/demoscene/)
 * [2024-07-29, 00:30:36](https://lobste.rs/s/s5xodi/recursion_quick_introduction_2023) - [Recursion: a quick introduction (2023)](https://recursion.wtf/posts/recursion_lib_intro/)
 * [2024-07-28, 23:40:26](https://lobste.rs/s/knfsty/what_s_new_go_1_23_iterators_reflect_value) - [What’s New in Go 1.23: Iterators and reflect.Value.Seq](https://blog.carlana.net/post/2024/golang-reflect-value-seq/)
-* [2024-07-28, 23:03:51](https://lobste.rs/s/kstipl/announcing_typescript_5_6_beta) - [Announcing TypeScript 5.6 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-6-beta/)
 * [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
-* [2024-07-28, 18:04:34](https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation) - [Spider-Man (Neversoft) decompilation project progress checkpoint - July 2024](https://krystalgamer.github.io/spidey-decomp-status-july/)
 * [2024-07-28, 16:52:23](https://lobste.rs/s/r6mnu6/many_lives_null_island) - [The Many Lives of Null Island](https://stamen.com/the-many-lives-of-null-island/)
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)

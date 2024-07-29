@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 22:05:27](https://lobste.rs/s/0gxir7/copper_is_out_rust_robotics_framework) - [Copper is Out! (a rust robotics framework)](https://www.copper-robotics.com/whats-new/copper-is-out)
+* [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
 * [2024-07-29, 21:01:46](https://lobste.rs/s/u7g4tu/scientists_achieve_record_breaking_402) - [Scientists achieve record-breaking 402 Tbps data transmission speeds — 1.6 million times faster than home broadband](https://www.scihb.com/2024/07/scientists-achieve-record-breaking-402.html)
 * [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 * [2024-07-29, 18:38:29](https://lobste.rs/s/whxyn0/out_my_cave_lots_updates) - [Out of my cave, lots of updates](https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/)
