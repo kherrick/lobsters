@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-29, 15:26:27](https://lobste.rs/s/j03wsd/flexible_network_data_preloading_large) - [Flexible network data preloading in large SPAs](https://mmazzarolo.com/blog/2024-07-29-data-preloading-script/)
 * [2024-07-29, 15:09:18](https://lobste.rs/s/aam90t/windows_security_best_practices_for) - [Windows Security best practices for integrating and managing security tools](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
 * [2024-07-29, 12:56:28](https://lobste.rs/s/dyfjhj/memory_control_proposal_for_webassembly) - [Memory control proposal for WebAssembly](https://github.com/WebAssembly/memory-control/blob/main/proposals/memory-control/Overview.md)
 * [2024-07-29, 10:02:01](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
 * [2024-07-28, 07:19:39](https://lobste.rs/s/qtj0ok/unsafe_read_beyond_death) - [Unsafe read beyond of death](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
 * [2024-07-28, 03:48:33](https://lobste.rs/s/zfvkpf/netbsd_on_risc_v_it_finally_runs_netbsd) - [NetBSD on RISC-V - It Finally Runs NetBSD](https://youtu.be/RNHTYV4MI8Y)
-* [2024-07-28, 01:15:19](https://lobste.rs/s/x9vn3i/symbolics_s_render_manual_1985) - [Symbolics S-Render manual (1985)](https://archive.org/details/symbolics-s-render)
 * [2024-07-27, 17:45:48](https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed) - [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)
 * [2024-07-27, 10:35:33](https://lobste.rs/s/kolbyk/new_gleam_feature_i_love) - [A new Gleam feature I love](https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love)
 

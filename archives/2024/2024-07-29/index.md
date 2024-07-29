@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 15:26:27](https://lobste.rs/s/j03wsd/flexible_network_data_preloading_large) - [Flexible network data preloading in large SPAs](https://mmazzarolo.com/blog/2024-07-29-data-preloading-script/)
 * [2024-07-29, 15:09:18](https://lobste.rs/s/aam90t/windows_security_best_practices_for) - [Windows Security best practices for integrating and managing security tools](https://www.microsoft.com/en-us/security/blog/2024/07/27/windows-security-best-practices-for-integrating-and-managing-security-tools/)
 * [2024-07-29, 12:56:28](https://lobste.rs/s/dyfjhj/memory_control_proposal_for_webassembly) - [Memory control proposal for WebAssembly](https://github.com/WebAssembly/memory-control/blob/main/proposals/memory-control/Overview.md)
 * [2024-07-29, 10:02:01](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week)
