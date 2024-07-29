@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 17:03:07](https://lobste.rs/s/unid4d/alloc_cat_simple_allocator_for_small_tiny) - [alloc_cat: a simple allocator for small-to-tiny wasm projects](https://crates.io/crates/alloc_cat)
+* [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
 * [2024-07-29, 15:53:44](https://lobste.rs/s/5tsn78/qt_creator_14_c_code_model_update) - [Qt Creator 14: C++ Code Model Update](https://www.qt.io/blog/qt-creator-14-code-model-update)
 * [2024-07-29, 15:53:15](https://lobste.rs/s/bpl99y/cppfront_midsummer_update) - [cppfront: Midsummer update](https://herbsutter.com/2024/07/28/cppfront-midsummer-update/)

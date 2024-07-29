@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-29, 17:03:07](https://lobste.rs/s/unid4d/alloc_cat_simple_allocator_for_small_tiny) - [alloc_cat: a simple allocator for small-to-tiny wasm projects](https://crates.io/crates/alloc_cat)
+* [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
 * [2024-07-29, 15:53:44](https://lobste.rs/s/5tsn78/qt_creator_14_c_code_model_update) - [Qt Creator 14: C++ Code Model Update](https://www.qt.io/blog/qt-creator-14-code-model-update)
 * [2024-07-29, 15:53:15](https://lobste.rs/s/bpl99y/cppfront_midsummer_update) - [cppfront: Midsummer update](https://herbsutter.com/2024/07/28/cppfront-midsummer-update/)
@@ -23,8 +25,6 @@
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
 * [2024-07-28, 07:19:39](https://lobste.rs/s/qtj0ok/unsafe_read_beyond_death) - [Unsafe read beyond of death](https://ogxd.github.io/articles/unsafe-read-beyond-of-death/)
-* [2024-07-27, 17:45:48](https://lobste.rs/s/gkcgza/quick_bits_nix_shell_is_cursed) - [Quick bits: nix-shell is cursed](https://kokada.capivaras.dev/blog/quick-bits-nix-shell-is-cursed/)
-* [2024-07-27, 10:35:33](https://lobste.rs/s/kolbyk/new_gleam_feature_i_love) - [A new Gleam feature I love](https://giacomocavalieri.me/posts/a-new-gleam-feature-i-love)
 
 ## [Archives](archives/index.md)
 
