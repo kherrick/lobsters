@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 10:02:01](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week)
 * [2024-07-29, 08:27:56](https://lobste.rs/s/eykl7i/scilean_scientific_computing_lean_4) - [SciLean: Scientific computing in Lean 4](https://github.com/lecopivo/SciLean)
 * [2024-07-29, 08:25:54](https://lobste.rs/s/crp5sq/tigerstyle) - [TigerStyle](https://ratfactor.com/cards/tiger-style)
 * [2024-07-29, 07:09:11](https://lobste.rs/s/wjovrc/carving_super_nintendo_video_system) - [Carving the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)
