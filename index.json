@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-07-29, 18:42:56",
+      "https://lobste.rs/s/hat2if/third_party_cookies_have_got_go"
+    ],
+    [
+      "Third-party cookies have got to go",
+      "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 18:38:29",
+      "https://lobste.rs/s/whxyn0/out_my_cave_lots_updates"
+    ],
+    [
+      "Out of my cave, lots of updates",
+      "https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 18:38:13",
+      "https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design"
+    ],
+    [
+      "Data.Maybe, and thoughts on library design",
+      "https://injuly.in/blog/monoid-maybe/"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 17:03:07",
       "https://lobste.rs/s/unid4d/alloc_cat_simple_allocator_for_small_tiny"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2024-07-28, 18:11:17",
-      "https://lobste.rs/s/tnmnph/interpreting_decimal_strings_into"
-    ],
-    [
-      "Interpreting decimal strings into floats (part 1)",
-      "https://jvernay.fr/en/blog/parse-floats/part1-parsing/"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 18:04:34",
       "https://lobste.rs/s/baghzl/spider_man_neversoft_decompilation"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-07-28, 15:03:42",
-      "https://lobste.rs/s/oraqtj/interactive_flight_satellite_tracker"
-    ],
-    [
-      "Interactive Flight and Satellite Tracker",
-      "https://react-flight-tracker.apoorva64.com/"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 13:59:39",
       "https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes"
     ],
@@ -237,16 +247,6 @@
     [
       "ps aux written entirely in bash without ever forking",
       "https://github.com/izabera/ps"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 07:19:39",
-      "https://lobste.rs/s/qtj0ok/unsafe_read_beyond_death"
-    ],
-    [
-      "Unsafe read beyond of death",
-      "https://ogxd.github.io/articles/unsafe-read-beyond-of-death/"
     ]
   ]
 ]
