@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-29](index.md)
 
+* [2024-07-29, 21:01:46](https://lobste.rs/s/u7g4tu/scientists_achieve_record_breaking_402) - [Scientists achieve record-breaking 402 Tbps data transmission speeds — 1.6 million times faster than home broadband](https://www.scihb.com/2024/07/scientists-achieve-record-breaking-402.html)
 * [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 * [2024-07-29, 18:38:29](https://lobste.rs/s/whxyn0/out_my_cave_lots_updates) - [Out of my cave, lots of updates](https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/)
 * [2024-07-29, 18:38:13](https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design) - [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
