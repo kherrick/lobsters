@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-29, 12:56:28",
+      "https://lobste.rs/s/dyfjhj/memory_control_proposal_for_webassembly"
+    ],
+    [
+      "Memory control proposal for WebAssembly",
+      "https://github.com/WebAssembly/memory-control/blob/main/proposals/memory-control/Overview.md"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 10:02:01",
       "https://lobste.rs/s/vqrlde/what_are_you_doing_this_week"
     ],
@@ -207,16 +217,6 @@
     [
       "Symbolics S-Render manual (1985)",
       "https://archive.org/details/symbolics-s-render"
-    ]
-  ],
-  [
-    [
-      "2024-07-27, 18:29:35",
-      "https://lobste.rs/s/pdutgi/hashbang_hacking_for_fun_maybe_future"
-    ],
-    [
-      "Hashbang hacking for fun and, maybe in the future, profit",
-      "https://lucasew.capivaras.dev/blog/hashbang-hacking-for-fun-and-maybe-in-the-future-profit/"
     ]
   ],
   [
