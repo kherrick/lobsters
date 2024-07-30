@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 20:14:15",
+      "https://lobste.rs/s/xjswx5/taking_command_context_menu_macos"
+    ],
+    [
+      "Taking command of the Context Menu in macOS",
+      "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 19:23:33",
       "https://lobste.rs/s/zey5cd/cogent_core_new_go_gui_website_uses_ui"
     ],
@@ -197,16 +207,6 @@
     [
       "My mental model of setf was wrong",
       "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 00:28:58",
-      "https://lobste.rs/s/4nuqqj/crafting_interpreters_with_rust_on"
-    ],
-    [
-      "Crafting Interpreters with Rust: On Garbage Collection",
-      "https://tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"
     ]
   ],
   [
