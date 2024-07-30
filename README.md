@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 06:01:55](https://lobste.rs/s/ulw51f/cryptographic_right_answers_post) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
 * [2024-07-30, 05:32:45](https://lobste.rs/s/aotvqu/functional_programming_languages) - [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 04:19:52](https://lobste.rs/s/nc0o6g/union_finite_automata) - [Union of Finite Automata](https://www.tbray.org/ongoing/When/202x/2024/07/28/Union-of-Finite-Automata)
 * [2024-07-30, 03:00:45](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports) - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
@@ -8,7 +9,6 @@
 * [2024-07-30, 00:28:58](https://lobste.rs/s/4nuqqj/crafting_interpreters_with_rust_on) - [Crafting Interpreters with Rust: On Garbage Collection](https://tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-29, 22:05:27](https://lobste.rs/s/0gxir7/copper_is_out_rust_robotics_framework) - [Copper is Out! (a rust robotics framework)](https://www.copper-robotics.com/whats-new/copper-is-out)
 * [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
-* [2024-07-29, 21:01:46](https://lobste.rs/s/u7g4tu/scientists_achieve_record_breaking_402) - [Scientists achieve record-breaking 402 Tbps data transmission speeds — 1.6 million times faster than home broadband](https://www.scihb.com/2024/07/scientists-achieve-record-breaking-402.html)
 * [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 * [2024-07-29, 18:38:29](https://lobste.rs/s/whxyn0/out_my_cave_lots_updates) - [Out of my cave, lots of updates](https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/)
 * [2024-07-29, 18:38:13](https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design) - [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
