@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 20:47:57](https://lobste.rs/s/otwjwe/paolo_melchiorre_database_generated) - [Paolo Melchiorre - Database generated columns⁽¹⁾: Django & SQLite](https://www.paulox.net/2023/11/07/database-generated-columns-part-1-django-and-sqlite/)
 * [2024-07-30, 20:14:15](https://lobste.rs/s/xjswx5/taking_command_context_menu_macos) - [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
 * [2024-07-30, 19:23:33](https://lobste.rs/s/zey5cd/cogent_core_new_go_gui_website_uses_ui) - [Cogent Core, a new Go GUI (website uses the UI framework)](https://www.cogentcore.org/blog/initial-release)
 * [2024-07-30, 18:54:49](https://lobste.rs/s/m3fyhe/len_sassaman_satoshi_cypherpunk_history) - [Len Sassaman and Satoshi: a Cypherpunk History](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
