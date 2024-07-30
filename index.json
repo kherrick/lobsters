@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-30, 00:59:56",
+      "https://lobste.rs/s/myvezo/my_mental_model_setf_was_wrong"
+    ],
+    [
+      "My mental model of setf was wrong",
+      "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 00:28:58",
+      "https://lobste.rs/s/4nuqqj/crafting_interpreters_with_rust_on"
+    ],
+    [
+      "Crafting Interpreters with Rust: On Garbage Collection",
+      "https://tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 22:05:27",
       "https://lobste.rs/s/0gxir7/copper_is_out_rust_robotics_framework"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-07-29, 00:30:36",
-      "https://lobste.rs/s/s5xodi/recursion_quick_introduction_2023"
-    ],
-    [
-      "Recursion: a quick introduction (2023)",
-      "https://recursion.wtf/posts/recursion_lib_intro/"
-    ]
-  ],
-  [
-    [
       "2024-07-28, 23:40:26",
       "https://lobste.rs/s/knfsty/what_s_new_go_1_23_iterators_reflect_value"
     ],
@@ -217,16 +227,6 @@
     [
       "tolower() with AVX-512",
       "https://dotat.at/@/2024-07-28-tolower-avx512.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 16:52:23",
-      "https://lobste.rs/s/r6mnu6/many_lives_null_island"
-    ],
-    [
-      "The Many Lives of Null Island",
-      "https://stamen.com/the-many-lives-of-null-island/"
     ]
   ],
   [
