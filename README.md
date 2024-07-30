@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 06:59:46](https://lobste.rs/s/u8rsmy/practical_math_my_journey_from_idea) - [Practical Math: My Journey from Idea to Application](https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html)
 * [2024-07-30, 06:53:58](https://lobste.rs/s/zgrtbd/nixos_option_inspection) - [NixOS Option Inspection](https://fzakaria.com/2024/07/28/nixos-option-inspection.html)
 * [2024-07-30, 06:48:53](https://lobste.rs/s/v6mkz6/implementing_one_more_ui_component) - [Implementing the “one or more” UI component](https://verbnounenter.net/one-or-more)
 * [2024-07-30, 06:01:55](https://lobste.rs/s/ulw51f/cryptographic_right_answers_post) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
@@ -11,8 +12,8 @@
 * [2024-07-30, 00:28:58](https://lobste.rs/s/4nuqqj/crafting_interpreters_with_rust_on) - [Crafting Interpreters with Rust: On Garbage Collection](https://tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-29, 22:05:27](https://lobste.rs/s/0gxir7/copper_is_out_rust_robotics_framework) - [Copper is Out! (a rust robotics framework)](https://www.copper-robotics.com/whats-new/copper-is-out)
 * [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
+* [2024-07-29, 21:01:46](https://lobste.rs/s/u7g4tu/scientists_achieve_record_breaking_402) - [Scientists achieve record-breaking 402 Tbps data transmission speeds — 1.6 million times faster than home broadband](https://www.scihb.com/2024/07/scientists-achieve-record-breaking-402.html)
 * [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
-* [2024-07-29, 18:38:29](https://lobste.rs/s/whxyn0/out_my_cave_lots_updates) - [Out of my cave, lots of updates](https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/)
 * [2024-07-29, 18:38:13](https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design) - [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
 * [2024-07-29, 17:03:07](https://lobste.rs/s/unid4d/alloc_cat_simple_allocator_for_small_tiny) - [alloc_cat: a simple allocator for small-to-tiny wasm projects](https://crates.io/crates/alloc_cat)
 * [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
@@ -24,7 +25,6 @@
 * [2024-07-29, 02:54:46](https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs) - [Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust](https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/)
 * [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
-* [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
 
 ## [Archives](archives/index.md)
 

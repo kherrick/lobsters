@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 06:59:46](https://lobste.rs/s/u8rsmy/practical_math_my_journey_from_idea) - [Practical Math: My Journey from Idea to Application](https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html)
 * [2024-07-30, 06:53:58](https://lobste.rs/s/zgrtbd/nixos_option_inspection) - [NixOS Option Inspection](https://fzakaria.com/2024/07/28/nixos-option-inspection.html)
 * [2024-07-30, 06:48:53](https://lobste.rs/s/v6mkz6/implementing_one_more_ui_component) - [Implementing the “one or more” UI component](https://verbnounenter.net/one-or-more)
 * [2024-07-30, 06:01:55](https://lobste.rs/s/ulw51f/cryptographic_right_answers_post) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
