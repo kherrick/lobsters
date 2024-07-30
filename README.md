@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 20:14:15](https://lobste.rs/s/xjswx5/taking_command_context_menu_macos) - [Taking command of the Context Menu in macOS](https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/)
 * [2024-07-30, 19:23:33](https://lobste.rs/s/zey5cd/cogent_core_new_go_gui_website_uses_ui) - [Cogent Core, a new Go GUI (website uses the UI framework)](https://www.cogentcore.org/blog/initial-release)
 * [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 * [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
@@ -20,7 +21,6 @@
 * [2024-07-30, 03:00:45](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports) - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 * [2024-07-30, 02:33:02](https://lobste.rs/s/abul3m/orca_webassembly_apps_without_web) - [Orca: WebAssembly apps without the web](https://orca-app.dev/)
 * [2024-07-30, 00:59:56](https://lobste.rs/s/myvezo/my_mental_model_setf_was_wrong) - [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
-* [2024-07-30, 00:28:58](https://lobste.rs/s/4nuqqj/crafting_interpreters_with_rust_on) - [Crafting Interpreters with Rust: On Garbage Collection](https://tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
 * [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 * [2024-07-29, 18:38:13](https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design) - [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
