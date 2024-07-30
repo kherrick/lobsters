@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 06:59:46",
+      "https://lobste.rs/s/u8rsmy/practical_math_my_journey_from_idea"
+    ],
+    [
+      "Practical Math: My Journey from Idea to Application",
+      "https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 06:53:58",
       "https://lobste.rs/s/zgrtbd/nixos_option_inspection"
     ],
@@ -111,22 +121,22 @@
   ],
   [
     [
+      "2024-07-29, 21:01:46",
+      "https://lobste.rs/s/u7g4tu/scientists_achieve_record_breaking_402"
+    ],
+    [
+      "Scientists achieve record-breaking 402 Tbps data transmission speeds — 1.6 million times faster than home broadband",
+      "https://www.scihb.com/2024/07/scientists-achieve-record-breaking-402.html"
+    ]
+  ],
+  [
+    [
       "2024-07-29, 18:42:56",
       "https://lobste.rs/s/hat2if/third_party_cookies_have_got_go"
     ],
     [
       "Third-party cookies have got to go",
       "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 18:38:29",
-      "https://lobste.rs/s/whxyn0/out_my_cave_lots_updates"
-    ],
-    [
-      "Out of my cave, lots of updates",
-      "https://poolp.org/posts/2024-06-11/out-of-my-cave-lots-of-updates/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "A skeptic's first contact with Kubernetes",
       "https://blog.davidv.dev/posts/first-contact-with-k8s/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 09:30:10",
-      "https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever"
-    ],
-    [
-      "ps aux written entirely in bash without ever forking",
-      "https://github.com/izabera/ps"
     ]
   ]
 ]
