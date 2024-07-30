@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 02:33:02",
+      "https://lobste.rs/s/abul3m/orca_webassembly_apps_without_web"
+    ],
+    [
+      "Orca: WebAssembly apps without the web",
+      "https://orca-app.dev/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 00:59:56",
       "https://lobste.rs/s/myvezo/my_mental_model_setf_was_wrong"
     ],
@@ -207,16 +217,6 @@
     [
       "Tiny Tapeout demoscene competition",
       "https://tinytapeout.com/competitions/demoscene/"
-    ]
-  ],
-  [
-    [
-      "2024-07-28, 23:40:26",
-      "https://lobste.rs/s/knfsty/what_s_new_go_1_23_iterators_reflect_value"
-    ],
-    [
-      "What’s New in Go 1.23: Iterators and reflect.Value.Seq",
-      "https://blog.carlana.net/post/2024/golang-reflect-value-seq/"
     ]
   ],
   [
