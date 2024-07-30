@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 17:43:18](https://lobste.rs/s/ho0ljd/deep_dive_into_german_strings) - [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
 * [2024-07-30, 16:02:44](https://lobste.rs/s/scffet/racing_round_round_little_bug_could) - [Racing round and round: The little bug that could](https://securityintelligence.com/x-force/little-bug-that-could/)
 * [2024-07-30, 15:02:06](https://lobste.rs/s/cxjd91/certificate_revocation_incident_cname) - [Certificate Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
@@ -24,7 +25,6 @@
 * [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
 * [2024-07-29, 08:25:54](https://lobste.rs/s/crp5sq/tigerstyle) - [TigerStyle](https://ratfactor.com/cards/tiger-style)
-* [2024-07-29, 02:54:46](https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs) - [Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust](https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/)
 
 ## [Archives](archives/index.md)
 

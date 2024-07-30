@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 17:43:18](https://lobste.rs/s/ho0ljd/deep_dive_into_german_strings) - [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
 * [2024-07-30, 16:18:58](https://lobste.rs/s/eomlnb/new_approach_error_handling) - [A new approach to error handling](https://boomla.com/docs/error-handling)
 * [2024-07-30, 16:02:44](https://lobste.rs/s/scffet/racing_round_round_little_bug_could) - [Racing round and round: The little bug that could](https://securityintelligence.com/x-force/little-bug-that-could/)
