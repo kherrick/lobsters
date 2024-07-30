@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
+* [2024-07-30, 18:30:10](https://lobste.rs/s/y25pgg/hitchhiker_s_guide_logical_verification) - [The Hitchhiker's Guide to Logical Verification](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 * [2024-07-30, 17:43:18](https://lobste.rs/s/ho0ljd/deep_dive_into_german_strings) - [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
 * [2024-07-30, 16:02:44](https://lobste.rs/s/scffet/racing_round_round_little_bug_could) - [Racing round and round: The little bug that could](https://securityintelligence.com/x-force/little-bug-that-could/)
@@ -13,7 +15,6 @@
 * [2024-07-30, 06:59:46](https://lobste.rs/s/u8rsmy/practical_math_my_journey_from_idea) - [Practical Math: My Journey from Idea to Application](https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html)
 * [2024-07-30, 06:53:58](https://lobste.rs/s/zgrtbd/nixos_option_inspection) - [NixOS Option Inspection](https://fzakaria.com/2024/07/28/nixos-option-inspection.html)
 * [2024-07-30, 06:48:53](https://lobste.rs/s/v6mkz6/implementing_one_more_ui_component) - [Implementing the “one or more” UI component](https://verbnounenter.net/one-or-more)
-* [2024-07-30, 06:01:55](https://lobste.rs/s/ulw51f/cryptographic_right_answers_post) - [Cryptographic Right Answers: Post Quantum Edition](https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/)
 * [2024-07-30, 05:32:45](https://lobste.rs/s/aotvqu/functional_programming_languages) - [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 03:00:45](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports) - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 * [2024-07-30, 02:33:02](https://lobste.rs/s/abul3m/orca_webassembly_apps_without_web) - [Orca: WebAssembly apps without the web](https://orca-app.dev/)
@@ -24,7 +25,6 @@
 * [2024-07-29, 18:38:13](https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design) - [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
 * [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
-* [2024-07-29, 08:25:54](https://lobste.rs/s/crp5sq/tigerstyle) - [TigerStyle](https://ratfactor.com/cards/tiger-style)
 
 ## [Archives](archives/index.md)
 

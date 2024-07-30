@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
+* [2024-07-30, 18:30:10](https://lobste.rs/s/y25pgg/hitchhiker_s_guide_logical_verification) - [The Hitchhiker's Guide to Logical Verification](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 * [2024-07-30, 17:43:18](https://lobste.rs/s/ho0ljd/deep_dive_into_german_strings) - [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
 * [2024-07-30, 16:18:58](https://lobste.rs/s/eomlnb/new_approach_error_handling) - [A new approach to error handling](https://boomla.com/docs/error-handling)
