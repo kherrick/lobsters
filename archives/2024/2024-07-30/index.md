@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 09:43:39](https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 08:16:37](https://lobste.rs/s/oknznv/whippet_progress_update_funding) - [whippet progress update: funding, features, future](https://wingolog.org/archives/2024/07/24/whippet-progress-update-funding-features-future)
 * [2024-07-30, 08:07:20](https://lobste.rs/s/uwatl5/student_resampled_his_t_distribution) - [Student Resampled His t Distribution](https://two-wrongs.com/student-bootstrapped-t-distribution.html)
 * [2024-07-30, 07:59:36](https://lobste.rs/s/u20cdt/fasthtml_modern_web_applications_pure) - [FastHTML - Modern web applications in pure Python](https://fastht.ml/)
