@@ -2,7 +2,6 @@
 
 * [2024-07-30, 16:18:58](https://lobste.rs/s/eomlnb/new_approach_error_handling) - [A new approach to error handling](https://boomla.com/docs/error-handling)
 * [2024-07-30, 16:02:44](https://lobste.rs/s/scffet/racing_round_round_little_bug_could) - [Racing round and round: The little bug that could](https://securityintelligence.com/x-force/little-bug-that-could/)
-* [2024-07-30, 15:44:20](https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery) - [Re: Crowdstrike Timeline Mystery](https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery)
 * [2024-07-30, 15:02:06](https://lobste.rs/s/cxjd91/certificate_revocation_incident_cname) - [Certificate Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
@@ -25,6 +24,7 @@
 * [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
 * [2024-07-29, 08:25:54](https://lobste.rs/s/crp5sq/tigerstyle) - [TigerStyle](https://ratfactor.com/cards/tiger-style)
+* [2024-07-29, 02:54:46](https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs) - [Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust](https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/)
 
 ## [Archives](archives/index.md)
 
