@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-07-30, 15:44:20",
-      "https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery"
-    ],
-    [
-      "Re: Crowdstrike Timeline Mystery",
-      "https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 15:02:06",
       "https://lobste.rs/s/cxjd91/certificate_revocation_incident_cname"
     ],
@@ -247,6 +237,16 @@
     [
       "TigerStyle",
       "https://ratfactor.com/cards/tiger-style"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 02:54:46",
+      "https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs"
+    ],
+    [
+      "Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust",
+      "https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/"
     ]
   ]
 ]
