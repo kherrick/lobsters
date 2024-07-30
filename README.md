@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
 * [2024-07-30, 09:43:39](https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 08:16:37](https://lobste.rs/s/oknznv/whippet_progress_update_funding) - [whippet progress update: funding, features, future](https://wingolog.org/archives/2024/07/24/whippet-progress-update-funding-features-future)
@@ -21,7 +22,6 @@
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
 * [2024-07-29, 15:53:15](https://lobste.rs/s/bpl99y/cppfront_midsummer_update) - [cppfront: Midsummer update](https://herbsutter.com/2024/07/28/cppfront-midsummer-update/)
 * [2024-07-29, 08:25:54](https://lobste.rs/s/crp5sq/tigerstyle) - [TigerStyle](https://ratfactor.com/cards/tiger-style)
-* [2024-07-29, 07:09:11](https://lobste.rs/s/wjovrc/carving_super_nintendo_video_system) - [Carving the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)
 * [2024-07-29, 02:54:46](https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs) - [Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust](https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/)
 * [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
