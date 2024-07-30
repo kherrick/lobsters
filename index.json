@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-30, 18:54:49",
+      "https://lobste.rs/s/m3fyhe/len_sassaman_satoshi_cypherpunk_history"
+    ],
+    [
+      "Len Sassaman and Satoshi: a Cypherpunk History",
+      "https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 18:52:41",
+      "https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres"
+    ],
+    [
+      "Build your own SQS or Kafka with Postgres",
+      "https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 18:32:58",
       "https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-07-30, 00:28:58",
-      "https://lobste.rs/s/4nuqqj/crafting_interpreters_with_rust_on"
-    ],
-    [
-      "Crafting Interpreters with Rust: On Garbage Collection",
-      "https://tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/"
-    ]
-  ],
-  [
-    [
       "2024-07-29, 22:05:09",
       "https://lobste.rs/s/z0vpdn/go_reasonable_good_language"
     ],
@@ -237,16 +247,6 @@
     [
       "NGINX Unit: Universal web app server",
       "https://unit.nginx.org/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 15:59:41",
-      "https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one"
-    ],
-    [
-      "Create Kubernetes users restricted to one namespace with resource limits",
-      "http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html"
     ]
   ]
 ]
