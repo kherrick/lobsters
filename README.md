@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 04:19:52](https://lobste.rs/s/nc0o6g/union_finite_automata) - [Union of Finite Automata](https://www.tbray.org/ongoing/When/202x/2024/07/28/Union-of-Finite-Automata)
 * [2024-07-30, 03:00:45](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports) - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 * [2024-07-30, 02:33:02](https://lobste.rs/s/abul3m/orca_webassembly_apps_without_web) - [Orca: WebAssembly apps without the web](https://orca-app.dev/)
 * [2024-07-30, 00:59:56](https://lobste.rs/s/myvezo/my_mental_model_setf_was_wrong) - [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
@@ -21,7 +22,6 @@
 * [2024-07-29, 08:25:54](https://lobste.rs/s/crp5sq/tigerstyle) - [TigerStyle](https://ratfactor.com/cards/tiger-style)
 * [2024-07-29, 07:09:11](https://lobste.rs/s/wjovrc/carving_super_nintendo_video_system) - [Carving the Super Nintendo Video System](https://fabiensanglard.net/snes_video/index.html)
 * [2024-07-29, 02:54:46](https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs) - [Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust](https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/)
-* [2024-07-29, 01:44:50](https://lobste.rs/s/iv22uz/tiny_tapeout_demoscene_competition) - [Tiny Tapeout demoscene competition](https://tinytapeout.com/competitions/demoscene/)
 * [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 * [2024-07-28, 13:59:39](https://lobste.rs/s/pqihkx/skeptic_s_first_contact_with_kubernetes) - [A skeptic's first contact with Kubernetes](https://blog.davidv.dev/posts/first-contact-with-k8s/)
 * [2024-07-28, 09:30:10](https://lobste.rs/s/cjbaxu/ps_aux_written_entirely_bash_without_ever) - [ps aux written entirely in bash without ever forking](https://github.com/izabera/ps)
