@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-30, 18:32:58",
+      "https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1"
+    ],
+    [
+      "Pragmatic Category Theory | Part 1: Semigroup Intro",
+      "https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign"
+    ]
+  ],
+  [
+    [
+      "2024-07-30, 18:30:10",
+      "https://lobste.rs/s/y25pgg/hitchhiker_s_guide_logical_verification"
+    ],
+    [
+      "The Hitchhiker's Guide to Logical Verification",
+      "https://browncs1951x.github.io/static/files/hitchhikersguide.pdf"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 17:43:18",
       "https://lobste.rs/s/ho0ljd/deep_dive_into_german_strings"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-07-30, 06:01:55",
-      "https://lobste.rs/s/ulw51f/cryptographic_right_answers_post"
-    ],
-    [
-      "Cryptographic Right Answers: Post Quantum Edition",
-      "https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 05:32:45",
       "https://lobste.rs/s/aotvqu/functional_programming_languages"
     ],
@@ -237,16 +247,6 @@
     [
       "Create Kubernetes users restricted to one namespace with resource limits",
       "http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 08:25:54",
-      "https://lobste.rs/s/crp5sq/tigerstyle"
-    ],
-    [
-      "TigerStyle",
-      "https://ratfactor.com/cards/tiger-style"
     ]
   ]
 ]
