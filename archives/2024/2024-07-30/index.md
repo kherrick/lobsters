@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 14:42:40](https://lobste.rs/s/wrtbsg/delightful_production_grade) - [Delightful, production-grade replication for Postgres](https://www.enterprisedb.com/blog/delightful-production-grade-replication-postgres)
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
 * [2024-07-30, 09:43:39](https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
