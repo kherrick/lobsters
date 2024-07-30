@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-07-30, 19:23:33](https://lobste.rs/s/zey5cd/cogent_core_new_go_gui_website_uses_ui) - [Cogent Core, a new Go GUI (website uses the UI framework)](https://www.cogentcore.org/blog/initial-release)
-* [2024-07-30, 18:54:49](https://lobste.rs/s/m3fyhe/len_sassaman_satoshi_cypherpunk_history) - [Len Sassaman and Satoshi: a Cypherpunk History](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
 * [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 * [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
 * [2024-07-30, 18:30:10](https://lobste.rs/s/y25pgg/hitchhiker_s_guide_logical_verification) - [The Hitchhiker's Guide to Logical Verification](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 * [2024-07-30, 17:43:18](https://lobste.rs/s/ho0ljd/deep_dive_into_german_strings) - [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
+* [2024-07-30, 16:02:44](https://lobste.rs/s/scffet/racing_round_round_little_bug_could) - [Racing round and round: The little bug that could](https://securityintelligence.com/x-force/little-bug-that-could/)
 * [2024-07-30, 15:02:06](https://lobste.rs/s/cxjd91/certificate_revocation_incident_cname) - [Certificate Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
