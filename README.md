@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 15:44:20](https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery) - [Re: Crowdstrike Timeline Mystery](https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery)
 * [2024-07-30, 15:02:06](https://lobste.rs/s/cxjd91/certificate_revocation_incident_cname) - [Certificate Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
@@ -24,7 +25,6 @@
 * [2024-07-29, 15:53:15](https://lobste.rs/s/bpl99y/cppfront_midsummer_update) - [cppfront: Midsummer update](https://herbsutter.com/2024/07/28/cppfront-midsummer-update/)
 * [2024-07-29, 08:25:54](https://lobste.rs/s/crp5sq/tigerstyle) - [TigerStyle](https://ratfactor.com/cards/tiger-style)
 * [2024-07-29, 02:54:46](https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs) - [Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust](https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/)
-* [2024-07-28, 20:39:46](https://lobste.rs/s/bfgsh6/tolower_with_avx_512) - [tolower() with AVX-512](https://dotat.at/@/2024-07-28-tolower-avx512.html)
 
 ## [Archives](archives/index.md)
 
