@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 19:23:33](https://lobste.rs/s/zey5cd/cogent_core_new_go_gui_website_uses_ui) - [Cogent Core, a new Go GUI (website uses the UI framework)](https://www.cogentcore.org/blog/initial-release)
 * [2024-07-30, 18:54:49](https://lobste.rs/s/m3fyhe/len_sassaman_satoshi_cypherpunk_history) - [Len Sassaman and Satoshi: a Cypherpunk History](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
 * [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 * [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
