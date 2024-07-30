@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 17:43:18",
+      "https://lobste.rs/s/ho0ljd/deep_dive_into_german_strings"
+    ],
+    [
+      "A Deep Dive into German Strings",
+      "https://cedardb.com/blog/strings_deep_dive/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 17:24:20",
       "https://lobste.rs/s/qvhwss/quint"
     ],
@@ -237,16 +247,6 @@
     [
       "TigerStyle",
       "https://ratfactor.com/cards/tiger-style"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 02:54:46",
-      "https://lobste.rs/s/p6ncen/compare_assembly_generated_for_static_vs"
-    ],
-    [
-      "Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust",
-      "https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/"
     ]
   ]
 ]
