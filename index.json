@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 09:43:39",
+      "https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c"
+    ],
+    [
+      "C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself",
+      "https://jstrieb.github.io/posts/c-reflection-zig/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 08:16:37",
       "https://lobste.rs/s/oknznv/whippet_progress_update_funding"
     ],
@@ -147,16 +157,6 @@
     [
       "Data.Maybe, and thoughts on library design",
       "https://injuly.in/blog/monoid-maybe/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 17:03:07",
-      "https://lobste.rs/s/unid4d/alloc_cat_simple_allocator_for_small_tiny"
-    ],
-    [
-      "alloc_cat: a simple allocator for small-to-tiny wasm projects",
-      "https://crates.io/crates/alloc_cat"
     ]
   ],
   [
