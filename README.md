@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 18:54:49](https://lobste.rs/s/m3fyhe/len_sassaman_satoshi_cypherpunk_history) - [Len Sassaman and Satoshi: a Cypherpunk History](https://evanhatch.medium.com/len-sassaman-and-satoshi-e483c85c2b10)
+* [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 * [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
 * [2024-07-30, 18:30:10](https://lobste.rs/s/y25pgg/hitchhiker_s_guide_logical_verification) - [The Hitchhiker's Guide to Logical Verification](https://browncs1951x.github.io/static/files/hitchhikersguide.pdf)
 * [2024-07-30, 17:43:18](https://lobste.rs/s/ho0ljd/deep_dive_into_german_strings) - [A Deep Dive into German Strings](https://cedardb.com/blog/strings_deep_dive/)
@@ -19,12 +21,10 @@
 * [2024-07-30, 03:00:45](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports) - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 * [2024-07-30, 02:33:02](https://lobste.rs/s/abul3m/orca_webassembly_apps_without_web) - [Orca: WebAssembly apps without the web](https://orca-app.dev/)
 * [2024-07-30, 00:59:56](https://lobste.rs/s/myvezo/my_mental_model_setf_was_wrong) - [My mental model of setf was wrong](https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/)
-* [2024-07-30, 00:28:58](https://lobste.rs/s/4nuqqj/crafting_interpreters_with_rust_on) - [Crafting Interpreters with Rust: On Garbage Collection](https://tunglevo.com/note/crafting-interpreters-with-rust-on-garbage-collection/)
 * [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
 * [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 * [2024-07-29, 18:38:13](https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design) - [Data.Maybe, and thoughts on library design](https://injuly.in/blog/monoid-maybe/)
 * [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
-* [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
 
 ## [Archives](archives/index.md)
 
