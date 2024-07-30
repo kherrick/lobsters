@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 06:01:55",
+      "https://lobste.rs/s/ulw51f/cryptographic_right_answers_post"
+    ],
+    [
+      "Cryptographic Right Answers: Post Quantum Edition",
+      "https://www.latacora.com/blog/2024/07/29/crypto-right-answers-pq/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 05:32:45",
       "https://lobste.rs/s/aotvqu/functional_programming_languages"
     ],
@@ -77,16 +87,6 @@
     [
       "Go, a reasonable good language",
       "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 21:01:46",
-      "https://lobste.rs/s/u7g4tu/scientists_achieve_record_breaking_402"
-    ],
-    [
-      "Scientists achieve record-breaking 402 Tbps data transmission speeds — 1.6 million times faster than home broadband",
-      "https://www.scihb.com/2024/07/scientists-achieve-record-breaking-402.html"
     ]
   ],
   [
