@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-30, 04:19:52",
+      "https://lobste.rs/s/nc0o6g/union_finite_automata"
+    ],
+    [
+      "Union of Finite Automata",
+      "https://www.tbray.org/ongoing/When/202x/2024/07/28/Union-of-Finite-Automata"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 03:00:45",
       "https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports"
     ],
@@ -207,16 +217,6 @@
     [
       "Compare the Assembly Generated for Static vs Dynamic Dispatch in Rust",
       "https://eventhelix.com/rust/rust-to-assembly-static-vs-dynamic-dispatch/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 01:44:50",
-      "https://lobste.rs/s/iv22uz/tiny_tapeout_demoscene_competition"
-    ],
-    [
-      "Tiny Tapeout demoscene competition",
-      "https://tinytapeout.com/competitions/demoscene/"
     ]
   ],
   [
