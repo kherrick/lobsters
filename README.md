@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-30, 05:32:45](https://lobste.rs/s/aotvqu/functional_programming_languages) - [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 04:19:52](https://lobste.rs/s/nc0o6g/union_finite_automata) - [Union of Finite Automata](https://www.tbray.org/ongoing/When/202x/2024/07/28/Union-of-Finite-Automata)
 * [2024-07-30, 03:00:45](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports) - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 * [2024-07-30, 02:33:02](https://lobste.rs/s/abul3m/orca_webassembly_apps_without_web) - [Orca: WebAssembly apps without the web](https://orca-app.dev/)
@@ -15,7 +16,6 @@
 * [2024-07-29, 16:54:32](https://lobste.rs/s/6ebrnh/nginx_unit_universal_web_app_server) - [NGINX Unit: Universal web app server](https://unit.nginx.org/)
 * [2024-07-29, 15:59:41](https://lobste.rs/s/muqhu2/create_kubernetes_users_restricted_one) - [Create Kubernetes users restricted to one namespace with resource limits](http://raymii.org/s/tutorials/Create_Kubernetes_user_restricted_to_one_namespace_with_resource_limits.html)
 * [2024-07-29, 15:53:15](https://lobste.rs/s/bpl99y/cppfront_midsummer_update) - [cppfront: Midsummer update](https://herbsutter.com/2024/07/28/cppfront-midsummer-update/)
-* [2024-07-29, 15:26:27](https://lobste.rs/s/j03wsd/flexible_network_data_preloading_large) - [Flexible network data preloading in large SPAs](https://mmazzarolo.com/blog/2024-07-29-data-preloading-script/)
 * [2024-07-29, 12:56:28](https://lobste.rs/s/dyfjhj/memory_control_proposal_for_webassembly) - [Memory control proposal for WebAssembly](https://github.com/WebAssembly/memory-control/blob/main/proposals/memory-control/Overview.md)
 * [2024-07-29, 10:02:01](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/vqrlde/what_are_you_doing_this_week)
 * [2024-07-29, 08:27:56](https://lobste.rs/s/eykl7i/scilean_scientific_computing_lean_4) - [SciLean: Scientific computing in Lean 4](https://github.com/lecopivo/SciLean)
