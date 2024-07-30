@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-30](index.md)
 
+* [2024-07-30, 16:02:44](https://lobste.rs/s/scffet/racing_round_round_little_bug_could) - [Racing round and round: The little bug that could](https://securityintelligence.com/x-force/little-bug-that-could/)
 * [2024-07-30, 15:44:20](https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery) - [Re: Crowdstrike Timeline Mystery](https://lobste.rs/s/b4ckor/re_crowdstrike_timeline_mystery)
 * [2024-07-30, 15:02:06](https://lobste.rs/s/cxjd91/certificate_revocation_incident_cname) - [Certificate Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 * [2024-07-30, 14:42:40](https://lobste.rs/s/wrtbsg/delightful_production_grade) - [Delightful, production-grade replication for Postgres](https://www.enterprisedb.com/blog/delightful-production-grade-replication-postgres)
