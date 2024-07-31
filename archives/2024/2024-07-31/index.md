@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 * [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
 * [2024-07-31, 19:16:02](https://lobste.rs/s/nvfzbz/once_more_about_rule_5) - [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
 * [2024-07-31, 19:00:44](https://lobste.rs/s/4cz5kh/vimscript_tutorial) - [Vimscript Tutorial](https://www.youtube.com/playlist?list=PLOe6AggsTaVv_IQsADuzhOzepA_tSAagN)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 * [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
 * [2024-07-31, 19:16:02](https://lobste.rs/s/nvfzbz/once_more_about_rule_5) - [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
 * [2024-07-31, 19:00:44](https://lobste.rs/s/4cz5kh/vimscript_tutorial) - [Vimscript Tutorial](https://www.youtube.com/playlist?list=PLOe6AggsTaVv_IQsADuzhOzepA_tSAagN)
@@ -7,7 +8,6 @@
 * [2024-07-31, 14:33:58](https://lobste.rs/s/8w4fgx/racket_book) - [The Racket Book](https://docs.racket-lang.org/guide/index.html)
 * [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
-* [2024-07-31, 12:18:41](https://lobste.rs/s/tbk3pw/conditional_logging_with_query) - [Conditional logging with query parameters](https://mmazzarolo.com/blog/2024-07-30-conditional-logging/)
 * [2024-07-31, 12:12:20](https://lobste.rs/s/yt1dsb/generating_yaml_files_with_nix) - [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)
 * [2024-07-31, 11:08:27](https://lobste.rs/s/v3lkzw/sbctl_release_0_15) - [sbctl: Release 0.15](https://github.com/Foxboron/sbctl/releases/tag/0.15)
 * [2024-07-31, 10:58:24](https://lobste.rs/s/uyw2od/where_does_name_algebraic_data_type_come) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
