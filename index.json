@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-31, 01:02:20",
+      "https://lobste.rs/s/fqe1ay/announcing_swift_homomorphic"
+    ],
+    [
+      "Announcing Swift Homomorphic Encryption",
+      "https://swift.org/blog/announcing-swift-homomorphic-encryption/"
+    ]
+  ],
+  [
+    [
       "2024-07-30, 22:04:30",
       "https://lobste.rs/s/pifatk/troubleshooting_terminal_lag"
     ],
@@ -207,16 +217,6 @@
     [
       "Orca: WebAssembly apps without the web",
       "https://orca-app.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 00:59:56",
-      "https://lobste.rs/s/myvezo/my_mental_model_setf_was_wrong"
-    ],
-    [
-      "My mental model of setf was wrong",
-      "https://simondobson.org/2024/07/27/my-mental-model-of-setf-was-wrong/"
     ]
   ],
   [
