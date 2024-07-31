@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
 * [2024-07-31, 19:16:02](https://lobste.rs/s/nvfzbz/once_more_about_rule_5) - [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
 * [2024-07-31, 19:00:44](https://lobste.rs/s/4cz5kh/vimscript_tutorial) - [Vimscript Tutorial](https://www.youtube.com/playlist?list=PLOe6AggsTaVv_IQsADuzhOzepA_tSAagN)
 * [2024-07-31, 16:23:44](https://lobste.rs/s/bqvr4r/data_replication_design_spectrum) - [Data Replication Design Spectrum](https://transactional.blog/blog/2024-data-replication-design-spectrum)
-* [2024-07-31, 15:12:57](https://lobste.rs/s/qnhiai/why_crowdstrike_bug_hit_banks_hard) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
+* [2024-07-31, 14:33:58](https://lobste.rs/s/8w4fgx/racket_book) - [The Racket Book](https://docs.racket-lang.org/guide/index.html)
 * [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
 * [2024-07-31, 12:18:41](https://lobste.rs/s/tbk3pw/conditional_logging_with_query) - [Conditional logging with query parameters](https://mmazzarolo.com/blog/2024-07-30-conditional-logging/)
@@ -24,7 +25,6 @@
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
-* [2024-07-30, 05:32:45](https://lobste.rs/s/aotvqu/functional_programming_languages) - [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 
 ## [Archives](archives/index.md)
 
