@@ -1,12 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
+* [2024-07-31, 12:18:41](https://lobste.rs/s/tbk3pw/conditional_logging_with_query) - [Conditional logging with query parameters](https://mmazzarolo.com/blog/2024-07-30-conditional-logging/)
+* [2024-07-31, 12:12:20](https://lobste.rs/s/yt1dsb/generating_yaml_files_with_nix) - [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)
 * [2024-07-31, 11:08:27](https://lobste.rs/s/v3lkzw/sbctl_release_0_15) - [sbctl: Release 0.15](https://github.com/Foxboron/sbctl/releases/tag/0.15)
 * [2024-07-31, 10:58:24](https://lobste.rs/s/uyw2od/where_does_name_algebraic_data_type_come) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 * [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 * [2024-07-31, 08:45:08](https://lobste.rs/s/kwwsfe/garbage_collection_closures) - [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
 * [2024-07-31, 07:53:21](https://lobste.rs/s/psx8we/websites_are_blocking_wrong_ai_scrapers) - [Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)](https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/)
 * [2024-07-31, 06:38:39](https://lobste.rs/s/qbrcx1/calling_ed_1_from_less_1) - [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
-* [2024-07-31, 06:32:10](https://lobste.rs/s/hsu5rs/are_security_reliability_fundamentally) - [Are security and reliability fundamentally incompatible?](https://jvehent.org/2024/07/30/Are-security-and-reliability-fundamentally-incompatible.html)
 * [2024-07-31, 03:18:34](https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete) - [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:02:20](https://lobste.rs/s/fqe1ay/announcing_swift_homomorphic) - [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 22:04:30](https://lobste.rs/s/pifatk/troubleshooting_terminal_lag) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
@@ -20,11 +22,9 @@
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
 * [2024-07-30, 09:43:39](https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 08:07:20](https://lobste.rs/s/uwatl5/student_resampled_his_t_distribution) - [Student Resampled His t Distribution](https://two-wrongs.com/student-bootstrapped-t-distribution.html)
-* [2024-07-30, 06:59:46](https://lobste.rs/s/u8rsmy/practical_math_my_journey_from_idea) - [Practical Math: My Journey from Idea to Application](https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html)
 * [2024-07-30, 05:32:45](https://lobste.rs/s/aotvqu/functional_programming_languages) - [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-30, 03:00:45](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports) - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 * [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
-* [2024-07-29, 18:42:56](https://lobste.rs/s/hat2if/third_party_cookies_have_got_go) - [Third-party cookies have got to go](https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/)
 
 ## [Archives](archives/index.md)
 
