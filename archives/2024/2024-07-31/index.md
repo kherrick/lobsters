@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 14:21:50](https://lobste.rs/s/ly2zts/malt_deep_learning_framework_for_racket) - [Malt: A Deep Learning Framework for Racket](https://youtu.be/AW9isjesTkQ)
+* [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
 * [2024-07-31, 12:18:41](https://lobste.rs/s/tbk3pw/conditional_logging_with_query) - [Conditional logging with query parameters](https://mmazzarolo.com/blog/2024-07-30-conditional-logging/)
 * [2024-07-31, 12:12:20](https://lobste.rs/s/yt1dsb/generating_yaml_files_with_nix) - [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)

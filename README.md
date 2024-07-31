@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-31, 14:21:50](https://lobste.rs/s/ly2zts/malt_deep_learning_framework_for_racket) - [Malt: A Deep Learning Framework for Racket](https://youtu.be/AW9isjesTkQ)
+* [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
 * [2024-07-31, 12:18:41](https://lobste.rs/s/tbk3pw/conditional_logging_with_query) - [Conditional logging with query parameters](https://mmazzarolo.com/blog/2024-07-30-conditional-logging/)
 * [2024-07-31, 12:12:20](https://lobste.rs/s/yt1dsb/generating_yaml_files_with_nix) - [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)
@@ -14,7 +16,6 @@
 * [2024-07-31, 01:02:20](https://lobste.rs/s/fqe1ay/announcing_swift_homomorphic) - [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 22:04:30](https://lobste.rs/s/pifatk/troubleshooting_terminal_lag) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
 * [2024-07-30, 21:10:26](https://lobste.rs/s/v1bohf/porffor_from_scratch_experimental_ahead) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
-* [2024-07-30, 19:23:33](https://lobste.rs/s/zey5cd/cogent_core_new_go_gui_website_uses_ui) - [Cogent Core, a new Go GUI (website uses the UI framework)](https://www.cogentcore.org/blog/initial-release)
 * [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 * [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
@@ -23,7 +24,6 @@
 * [2024-07-30, 09:43:39](https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
 * [2024-07-30, 08:07:20](https://lobste.rs/s/uwatl5/student_resampled_his_t_distribution) - [Student Resampled His t Distribution](https://two-wrongs.com/student-bootstrapped-t-distribution.html)
 * [2024-07-30, 05:32:45](https://lobste.rs/s/aotvqu/functional_programming_languages) - [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
-* [2024-07-30, 03:00:45](https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports) - [What we got wrong about HTTP imports](https://deno.com/blog/http-imports)
 * [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
 
 ## [Archives](archives/index.md)
