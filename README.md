@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-31, 03:18:34](https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete) - [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:02:20](https://lobste.rs/s/fqe1ay/announcing_swift_homomorphic) - [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 22:04:30](https://lobste.rs/s/pifatk/troubleshooting_terminal_lag) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
 * [2024-07-30, 21:10:26](https://lobste.rs/s/v1bohf/porffor_from_scratch_experimental_ahead) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
@@ -13,7 +14,6 @@
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
 * [2024-07-30, 09:43:39](https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
-* [2024-07-30, 08:16:37](https://lobste.rs/s/oknznv/whippet_progress_update_funding) - [whippet progress update: funding, features, future](https://wingolog.org/archives/2024/07/24/whippet-progress-update-funding-features-future)
 * [2024-07-30, 08:07:20](https://lobste.rs/s/uwatl5/student_resampled_his_t_distribution) - [Student Resampled His t Distribution](https://two-wrongs.com/student-bootstrapped-t-distribution.html)
 * [2024-07-30, 07:59:36](https://lobste.rs/s/u20cdt/fasthtml_modern_web_applications_pure) - [FastHTML - Modern web applications in pure Python](https://fastht.ml/)
 * [2024-07-30, 06:59:46](https://lobste.rs/s/u8rsmy/practical_math_my_journey_from_idea) - [Practical Math: My Journey from Idea to Application](https://blog.ignaciobrasca.com/opinion/2024/07/29/practical-math.html)
