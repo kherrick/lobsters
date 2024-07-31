@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 16:23:44](https://lobste.rs/s/bqvr4r/data_replication_design_spectrum) - [Data Replication Design Spectrum](https://transactional.blog/blog/2024-data-replication-design-spectrum)
 * [2024-07-31, 15:12:57](https://lobste.rs/s/qnhiai/why_crowdstrike_bug_hit_banks_hard) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
 * [2024-07-31, 14:33:58](https://lobste.rs/s/8w4fgx/racket_book) - [The Racket Book](https://docs.racket-lang.org/guide/index.html)
 * [2024-07-31, 14:21:50](https://lobste.rs/s/ly2zts/malt_deep_learning_framework_for_racket) - [Malt: A Deep Learning Framework for Racket](https://youtu.be/AW9isjesTkQ)
