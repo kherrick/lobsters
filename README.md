@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-31, 14:33:58](https://lobste.rs/s/8w4fgx/racket_book) - [The Racket Book](https://docs.racket-lang.org/guide/index.html)
 * [2024-07-31, 14:21:50](https://lobste.rs/s/ly2zts/malt_deep_learning_framework_for_racket) - [Malt: A Deep Learning Framework for Racket](https://youtu.be/AW9isjesTkQ)
 * [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
@@ -22,7 +23,6 @@
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
 * [2024-07-30, 09:43:39](https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)
-* [2024-07-30, 08:07:20](https://lobste.rs/s/uwatl5/student_resampled_his_t_distribution) - [Student Resampled His t Distribution](https://two-wrongs.com/student-bootstrapped-t-distribution.html)
 * [2024-07-30, 05:32:45](https://lobste.rs/s/aotvqu/functional_programming_languages) - [Functional programming languages should be so much better at mutation than they are](https://cohost.org/prophet/post/7083950-functional-programming)
 * [2024-07-29, 22:05:09](https://lobste.rs/s/z0vpdn/go_reasonable_good_language) - [Go, a reasonable good language](https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/)
 

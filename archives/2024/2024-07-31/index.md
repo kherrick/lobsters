@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 14:33:58](https://lobste.rs/s/8w4fgx/racket_book) - [The Racket Book](https://docs.racket-lang.org/guide/index.html)
 * [2024-07-31, 14:21:50](https://lobste.rs/s/ly2zts/malt_deep_learning_framework_for_racket) - [Malt: A Deep Learning Framework for Racket](https://youtu.be/AW9isjesTkQ)
 * [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
