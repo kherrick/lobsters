@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-07-31, 09:03:37",
-      "https://lobste.rs/s/dwtlsg/tour_program_optimization"
-    ],
-    [
-      "A Tour of Program Optimization",
-      "https://www.youtube.com/watch?v=SivQplf4OkE"
-    ]
-  ],
-  [
-    [
       "2024-07-31, 08:45:08",
       "https://lobste.rs/s/kwwsfe/garbage_collection_closures"
     ],
@@ -247,6 +237,16 @@
     [
       "Go, a reasonable good language",
       "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
+    ]
+  ],
+  [
+    [
+      "2024-07-29, 18:42:56",
+      "https://lobste.rs/s/hat2if/third_party_cookies_have_got_go"
+    ],
+    [
+      "Third-party cookies have got to go",
+      "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
     ]
   ]
 ]
