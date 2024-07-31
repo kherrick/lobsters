@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 19:16:02](https://lobste.rs/s/nvfzbz/once_more_about_rule_5) - [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
 * [2024-07-31, 19:00:44](https://lobste.rs/s/4cz5kh/vimscript_tutorial) - [Vimscript Tutorial](https://www.youtube.com/playlist?list=PLOe6AggsTaVv_IQsADuzhOzepA_tSAagN)
 * [2024-07-31, 16:23:44](https://lobste.rs/s/bqvr4r/data_replication_design_spectrum) - [Data Replication Design Spectrum](https://transactional.blog/blog/2024-data-replication-design-spectrum)
 * [2024-07-31, 15:12:57](https://lobste.rs/s/qnhiai/why_crowdstrike_bug_hit_banks_hard) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
