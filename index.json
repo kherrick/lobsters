@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-31, 14:21:50",
+      "https://lobste.rs/s/ly2zts/malt_deep_learning_framework_for_racket"
+    ],
+    [
+      "Malt: A Deep Learning Framework for Racket",
+      "https://youtu.be/AW9isjesTkQ"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 14:19:42",
+      "https://lobste.rs/s/mvxwbx/racket_survey_2024"
+    ],
+    [
+      "Racket Survey 2024",
+      "https://forms.gle/EYuzG4Jp9X5bqoHQ9"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 12:23:13",
       "https://lobste.rs/s/uj7y4n/nix_community_survey_2024"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-07-30, 19:23:33",
-      "https://lobste.rs/s/zey5cd/cogent_core_new_go_gui_website_uses_ui"
-    ],
-    [
-      "Cogent Core, a new Go GUI (website uses the UI framework)",
-      "https://www.cogentcore.org/blog/initial-release"
-    ]
-  ],
-  [
-    [
       "2024-07-30, 18:52:41",
       "https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres"
     ],
@@ -227,16 +237,6 @@
     [
       "Functional programming languages should be so much better at mutation than they are",
       "https://cohost.org/prophet/post/7083950-functional-programming"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 03:00:45",
-      "https://lobste.rs/s/vfnby3/what_we_got_wrong_about_http_imports"
-    ],
-    [
-      "What we got wrong about HTTP imports",
-      "https://deno.com/blog/http-imports"
     ]
   ],
   [
