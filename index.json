@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-31, 19:16:02",
+      "https://lobste.rs/s/nvfzbz/once_more_about_rule_5"
+    ],
+    [
+      "Once more about the rule of 5",
+      "https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 19:00:44",
       "https://lobste.rs/s/4cz5kh/vimscript_tutorial"
     ],
@@ -227,16 +237,6 @@
     [
       "HTTP/0.9 From Scratch",
       "https://kmcd.dev/posts/http0.9-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 09:43:39",
-      "https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c"
-    ],
-    [
-      "C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself",
-      "https://jstrieb.github.io/posts/c-reflection-zig/"
     ]
   ],
   [
