@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-31, 06:32:10",
+      "https://lobste.rs/s/hsu5rs/are_security_reliability_fundamentally"
+    ],
+    [
+      "Are security and reliability fundamentally incompatible?",
+      "https://jvehent.org/2024/07/30/Are-security-and-reliability-fundamentally-incompatible.html"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 03:18:34",
       "https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete"
     ],
@@ -237,16 +247,6 @@
     [
       "Third-party cookies have got to go",
       "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 18:38:13",
-      "https://lobste.rs/s/pf16l1/data_maybe_thoughts_on_library_design"
-    ],
-    [
-      "Data.Maybe, and thoughts on library design",
-      "https://injuly.in/blog/monoid-maybe/"
     ]
   ]
 ]
