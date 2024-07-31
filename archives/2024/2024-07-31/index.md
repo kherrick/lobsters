@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 11:08:27](https://lobste.rs/s/v3lkzw/sbctl_release_0_15) - [sbctl: Release 0.15](https://github.com/Foxboron/sbctl/releases/tag/0.15)
+* [2024-07-31, 10:58:24](https://lobste.rs/s/uyw2od/where_does_name_algebraic_data_type_come) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 * [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 * [2024-07-31, 09:03:37](https://lobste.rs/s/dwtlsg/tour_program_optimization) - [A Tour of Program Optimization](https://www.youtube.com/watch?v=SivQplf4OkE)
 * [2024-07-31, 09:02:16](https://lobste.rs/s/8es1mq/compiling_for_instruction_level) - [Compiling for Instruction-Level Parallelism](https://youtu.be/VLLDPQQB_GM)
