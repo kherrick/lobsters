@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-07-31, 15:12:57](https://lobste.rs/s/qnhiai/why_crowdstrike_bug_hit_banks_hard) - [Why the CrowdStrike bug hit banks hard](https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/)
-* [2024-07-31, 14:33:58](https://lobste.rs/s/8w4fgx/racket_book) - [The Racket Book](https://docs.racket-lang.org/guide/index.html)
 * [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
 * [2024-07-31, 12:18:41](https://lobste.rs/s/tbk3pw/conditional_logging_with_query) - [Conditional logging with query parameters](https://mmazzarolo.com/blog/2024-07-30-conditional-logging/)
@@ -9,6 +8,7 @@
 * [2024-07-31, 11:08:27](https://lobste.rs/s/v3lkzw/sbctl_release_0_15) - [sbctl: Release 0.15](https://github.com/Foxboron/sbctl/releases/tag/0.15)
 * [2024-07-31, 10:58:24](https://lobste.rs/s/uyw2od/where_does_name_algebraic_data_type_come) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 * [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
+* [2024-07-31, 09:03:37](https://lobste.rs/s/dwtlsg/tour_program_optimization) - [A Tour of Program Optimization](https://www.youtube.com/watch?v=SivQplf4OkE)
 * [2024-07-31, 08:45:08](https://lobste.rs/s/kwwsfe/garbage_collection_closures) - [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
 * [2024-07-31, 07:53:21](https://lobste.rs/s/psx8we/websites_are_blocking_wrong_ai_scrapers) - [Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)](https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/)
 * [2024-07-31, 06:38:39](https://lobste.rs/s/qbrcx1/calling_ed_1_from_less_1) - [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
