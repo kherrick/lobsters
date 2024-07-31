@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-07-31, 19:58:28",
+      "https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront"
+    ],
+    [
+      "Hello, world! - Cpp2 and cppfront",
+      "https://hsutter.github.io/cppfront/welcome/hello-world/"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 19:16:02",
       "https://lobste.rs/s/nvfzbz/once_more_about_rule_5"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2024-07-31, 15:12:57",
-      "https://lobste.rs/s/qnhiai/why_crowdstrike_bug_hit_banks_hard"
+      "2024-07-31, 14:33:58",
+      "https://lobste.rs/s/8w4fgx/racket_book"
     ],
     [
-      "Why the CrowdStrike bug hit banks hard",
-      "https://www.bitsaboutmoney.com/archive/crowdstrike-bug-hit-banks-hard/"
+      "The Racket Book",
+      "https://docs.racket-lang.org/guide/index.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "HTTP/0.9 From Scratch",
       "https://kmcd.dev/posts/http0.9-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 05:32:45",
-      "https://lobste.rs/s/aotvqu/functional_programming_languages"
-    ],
-    [
-      "Functional programming languages should be so much better at mutation than they are",
-      "https://cohost.org/prophet/post/7083950-functional-programming"
     ]
   ]
 ]
