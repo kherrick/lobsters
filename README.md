@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-31, 22:45:04](https://lobste.rs/s/fybdug/pulling_linux_up_by_its_bootstraps_lwn_net) - [Pulling Linux up by its bootstraps [LWN.net]](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
 * [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 * [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
 * [2024-07-31, 19:16:02](https://lobste.rs/s/nvfzbz/once_more_about_rule_5) - [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
@@ -15,7 +16,6 @@
 * [2024-07-31, 08:45:08](https://lobste.rs/s/kwwsfe/garbage_collection_closures) - [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
 * [2024-07-31, 07:53:21](https://lobste.rs/s/psx8we/websites_are_blocking_wrong_ai_scrapers) - [Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)](https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/)
 * [2024-07-31, 06:38:39](https://lobste.rs/s/qbrcx1/calling_ed_1_from_less_1) - [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
-* [2024-07-31, 06:32:10](https://lobste.rs/s/hsu5rs/are_security_reliability_fundamentally) - [Are security and reliability fundamentally incompatible?](https://jvehent.org/2024/07/30/Are-security-and-reliability-fundamentally-incompatible.html)
 * [2024-07-31, 03:18:34](https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete) - [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:02:20](https://lobste.rs/s/fqe1ay/announcing_swift_homomorphic) - [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
 * [2024-07-30, 22:04:30](https://lobste.rs/s/pifatk/troubleshooting_terminal_lag) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
