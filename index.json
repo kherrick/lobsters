@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-07-31, 11:08:27",
+      "https://lobste.rs/s/v3lkzw/sbctl_release_0_15"
+    ],
+    [
+      "sbctl: Release 0.15",
+      "https://github.com/Foxboron/sbctl/releases/tag/0.15"
+    ]
+  ],
+  [
+    [
+      "2024-07-31, 10:58:24",
+      "https://lobste.rs/s/uyw2od/where_does_name_algebraic_data_type_come"
+    ],
+    [
+      "Where does the name \"algebraic data type\" come from?",
+      "https://blog.poisson.chat/posts/2024-07-26-adt-history.html"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 10:36:35",
       "https://lobste.rs/s/hetkwz/how_i_computer_2024"
     ],
@@ -17,16 +37,6 @@
     [
       "A Tour of Program Optimization",
       "https://www.youtube.com/watch?v=SivQplf4OkE"
-    ]
-  ],
-  [
-    [
-      "2024-07-31, 09:02:16",
-      "https://lobste.rs/s/8es1mq/compiling_for_instruction_level"
-    ],
-    [
-      "Compiling for Instruction-Level Parallelism",
-      "https://youtu.be/VLLDPQQB_GM"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Go, a reasonable good language",
       "https://kokada.capivaras.dev/blog/go-a-reasonable-good-language/"
-    ]
-  ],
-  [
-    [
-      "2024-07-29, 18:42:56",
-      "https://lobste.rs/s/hat2if/third_party_cookies_have_got_go"
-    ],
-    [
-      "Third-party cookies have got to go",
-      "https://www.w3.org/blog/2024/third-party-cookies-have-got-to-go/"
     ]
   ]
 ]
