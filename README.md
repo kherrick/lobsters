@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 * [2024-07-31, 09:03:37](https://lobste.rs/s/dwtlsg/tour_program_optimization) - [A Tour of Program Optimization](https://www.youtube.com/watch?v=SivQplf4OkE)
 * [2024-07-31, 09:02:16](https://lobste.rs/s/8es1mq/compiling_for_instruction_level) - [Compiling for Instruction-Level Parallelism](https://youtu.be/VLLDPQQB_GM)
 * [2024-07-31, 08:45:08](https://lobste.rs/s/kwwsfe/garbage_collection_closures) - [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
@@ -15,7 +16,6 @@
 * [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 * [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
-* [2024-07-30, 15:02:06](https://lobste.rs/s/cxjd91/certificate_revocation_incident_cname) - [Certificate Revocation Incident (CNAME-Based Domain Validation)](https://www.digicert.com/support/certificate-revocation-incident)
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
 * [2024-07-30, 09:43:39](https://lobste.rs/s/djritg/c_macro_reflection_zig_zig_has_better_c) - [C Macro Reflection in Zig – Zig Has Better C Interop Than C Itself](https://jstrieb.github.io/posts/c-reflection-zig/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-07-31](index.md)
 
+* [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 * [2024-07-31, 09:03:37](https://lobste.rs/s/dwtlsg/tour_program_optimization) - [A Tour of Program Optimization](https://www.youtube.com/watch?v=SivQplf4OkE)
 * [2024-07-31, 09:02:16](https://lobste.rs/s/8es1mq/compiling_for_instruction_level) - [Compiling for Instruction-Level Parallelism](https://youtu.be/VLLDPQQB_GM)
 * [2024-07-31, 08:45:08](https://lobste.rs/s/kwwsfe/garbage_collection_closures) - [Garbage collection and closures](https://jakearchibald.com/2024/garbage-collection-and-closures/)
