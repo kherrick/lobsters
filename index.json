@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-07-31, 06:32:10",
+      "https://lobste.rs/s/hsu5rs/are_security_reliability_fundamentally"
+    ],
+    [
+      "Are security and reliability fundamentally incompatible?",
+      "https://jvehent.org/2024/07/30/Are-security-and-reliability-fundamentally-incompatible.html"
+    ]
+  ],
+  [
+    [
       "2024-07-31, 03:18:34",
       "https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete"
     ],
@@ -127,16 +137,6 @@
     [
       "Porffor: A from-scratch experimental ahead-of-time JS engine",
       "https://porffor.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 20:14:15",
-      "https://lobste.rs/s/xjswx5/taking_command_context_menu_macos"
-    ],
-    [
-      "Taking command of the Context Menu in macOS",
-      "https://blog.gingerbeardman.com/2024/07/30/taking-command-of-the-context-menu-in-macos/"
     ]
   ],
   [
