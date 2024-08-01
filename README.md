@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-01, 19:58:48](https://lobste.rs/s/95rdm1/announcing_bsd_jumpstart) - [Announcing BSD Jumpstart](https://www.bsdjumpstart.org)
 * [2024-08-01, 19:29:41](https://lobste.rs/s/2gqttr/passing_torches_austin_cherry) - [Passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 * [2024-08-01, 19:17:43](https://lobste.rs/s/fwvr6s/kinesis_consumer_balancing_via) - [Kinesis consumer balancing via consistent hashing](https://knock.app/blog/kinesis-consumer-balancing)
 * [2024-08-01, 18:27:29](https://lobste.rs/s/dmklya/vitale_live_notebooks_vs_code_for) - [Vitale: Live notebooks in VS Code for JavaScript/TypeScript, web development, and AI experimentation](https://githubnext.com/projects/vitale)
@@ -17,7 +18,6 @@
 * [2024-08-01, 05:09:33](https://lobste.rs/s/t84sdv/stubborn_weaknesses_top_25_most) - [Stubborn Weaknesses in the Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html)
 * [2024-08-01, 04:32:54](https://lobste.rs/s/1uqxdv/language_strangeness_budget_2015) - [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget/)
 * [2024-08-01, 04:07:55](https://lobste.rs/s/kxdmim/light_comms_on_003) - [Light comms on the 003](https://mitxela.com/projects/lightcomm)
-* [2024-08-01, 03:16:48](https://lobste.rs/s/ctajiu/adding_operational_transformation) - [Adding Operational Transformation To Butler](https://tristancacqueray.github.io/blog/butler-ot)
 * [2024-07-31, 22:45:04](https://lobste.rs/s/fybdug/pulling_linux_up_by_its_bootstraps) - [Pulling Linux up by its bootstraps](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
 * [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 * [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
