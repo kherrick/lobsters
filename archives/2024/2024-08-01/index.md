@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 21:10:10](https://lobste.rs/s/7ghslo/overview_ocamlfront) - [An overview of ocamlfront](https://diskuv.com/ocamlfront/overview-1/)
+* [2024-08-01, 21:01:37](https://lobste.rs/s/ky4li4/simply_typed_lambda_calculus_datalog) - [Simply Typed Lambda Calculus in Datalog](https://hg.sr.ht/~icefox/pancake/browse/src/main.rs?rev=simply-typed-lambda-calculus)
 * [2024-08-01, 19:58:48](https://lobste.rs/s/95rdm1/announcing_bsd_jumpstart) - [Announcing BSD Jumpstart](https://www.bsdjumpstart.org)
 * [2024-08-01, 19:29:41](https://lobste.rs/s/2gqttr/passing_torches_austin_cherry) - [Passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 * [2024-08-01, 19:17:43](https://lobste.rs/s/fwvr6s/kinesis_consumer_balancing_via) - [Kinesis consumer balancing via consistent hashing](https://knock.app/blog/kinesis-consumer-balancing)
