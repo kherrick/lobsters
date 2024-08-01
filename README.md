@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-01, 15:21:25](https://lobste.rs/s/7rtvnp/async_rust_challenges_iroh) - [Async Rust Challenges in Iroh](https://iroh.computer/blog/async-rust-challenges-in-iroh)
 * [2024-08-01, 14:44:41](https://lobste.rs/s/agdrwp/rendering_my_website_with_servo_track) - [Rendering my website with Servo to track progress](https://servo.arch.dog/)
 * [2024-08-01, 13:03:54](https://lobste.rs/s/miquoc/mastering_nixpkgs_overlays_techniques) - [Mastering Nixpkgs Overlays: Techniques and Best Practice](https://nixcademy.com/posts/mastering-nixpkgs-overlays-techniques-and-best-practice/)
 * [2024-08-01, 11:20:04](https://lobste.rs/s/gy4ifu/practical_applications_for_duckdb) - [Practical Applications for DuckDB](https://youtu.be/_nA3uDx1rlg)
@@ -20,7 +21,6 @@
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
 * [2024-07-31, 12:12:20](https://lobste.rs/s/yt1dsb/generating_yaml_files_with_nix) - [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)
 * [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
-* [2024-07-31, 07:53:21](https://lobste.rs/s/psx8we/websites_are_blocking_wrong_ai_scrapers) - [Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)](https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/)
 * [2024-07-31, 06:38:39](https://lobste.rs/s/qbrcx1/calling_ed_1_from_less_1) - [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
 * [2024-07-31, 03:18:34](https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete) - [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:02:20](https://lobste.rs/s/fqe1ay/announcing_swift_homomorphic) - [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
