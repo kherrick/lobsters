@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-01, 04:07:55",
+      "https://lobste.rs/s/kxdmim/light_comms_on_003"
+    ],
+    [
+      "Light comms on the 003",
+      "https://mitxela.com/projects/lightcomm"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 03:16:48",
       "https://lobste.rs/s/ctajiu/adding_operational_transformation"
     ],
@@ -237,16 +247,6 @@
     [
       "Our audit of Homebrew",
       "https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 13:34:12",
-      "https://lobste.rs/s/awdn3y/http_0_9_from_scratch"
-    ],
-    [
-      "HTTP/0.9 From Scratch",
-      "https://kmcd.dev/posts/http0.9-from-scratch/"
     ]
   ]
 ]
