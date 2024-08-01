@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-01, 17:38:18",
+      "https://lobste.rs/s/82zpde/psa_internet_archive_glitch_deletes"
+    ],
+    [
+      "PSA: Internet Archive “glitch” deletes years of user data & accounts",
+      "https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 16:20:30",
       "https://lobste.rs/s/dqrnxv/if_novelists_wrote_your_bug_reports"
     ],
@@ -237,16 +247,6 @@
     [
       "Calling ed(1) from less(1)",
       "http://blog.syncpup.com/posts/calling-ed-from-less.html"
-    ]
-  ],
-  [
-    [
-      "2024-07-31, 03:18:34",
-      "https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete"
-    ],
-    [
-      "find + mkdir is Turing complete",
-      "https://ogiekako.vercel.app/blog/find_mkdir_tc"
     ]
   ]
 ]
