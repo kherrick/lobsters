@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-01, 07:17:55](https://lobste.rs/s/f6dksn/just_disconnect_internet) - [just disconnect the internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-08-01, 07:01:43](https://lobste.rs/s/t1rwyj/deep_list_copy_more_than_meets_eye) - [Deep list copy: More than meets the eye](https://nullprogram.com/blog/2024/07/31/)
 * [2024-08-01, 05:09:33](https://lobste.rs/s/t84sdv/stubborn_weaknesses_top_25_most) - [Stubborn Weaknesses in the Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html)
 * [2024-08-01, 04:44:11](https://lobste.rs/s/8iyfjm/falcon_content_update_remediation) - [Falcon Content Update Remediation and Guidance](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/)
@@ -15,7 +16,6 @@
 * [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
 * [2024-07-31, 12:12:20](https://lobste.rs/s/yt1dsb/generating_yaml_files_with_nix) - [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)
-* [2024-07-31, 10:58:24](https://lobste.rs/s/uyw2od/where_does_name_algebraic_data_type_come) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 * [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 * [2024-07-31, 07:53:21](https://lobste.rs/s/psx8we/websites_are_blocking_wrong_ai_scrapers) - [Websites are Blocking the Wrong AI Scrapers (Because AI Companies Keep Making New Ones)](https://www.404media.co/websites-are-blocking-the-wrong-ai-scrapers-because-ai-companies-keep-making-new-ones/)
 * [2024-07-31, 06:38:39](https://lobste.rs/s/qbrcx1/calling_ed_1_from_less_1) - [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
