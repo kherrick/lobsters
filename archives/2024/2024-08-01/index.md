@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 19:29:41](https://lobste.rs/s/2gqttr/passing_torches_austin_cherry) - [Passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 * [2024-08-01, 19:17:43](https://lobste.rs/s/fwvr6s/kinesis_consumer_balancing_via) - [Kinesis consumer balancing via consistent hashing](https://knock.app/blog/kinesis-consumer-balancing)
 * [2024-08-01, 18:27:29](https://lobste.rs/s/dmklya/vitale_live_notebooks_vs_code_for) - [Vitale: Live notebooks in VS Code for JavaScript/TypeScript, web development, and AI experimentation](https://githubnext.com/projects/vitale)
 * [2024-08-01, 17:38:18](https://lobste.rs/s/82zpde/psa_internet_archive_glitch_deletes) - [PSA: Internet Archive “glitch” deletes years of user data & accounts](https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/)
