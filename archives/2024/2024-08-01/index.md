@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 09:05:33](https://lobste.rs/s/trbl7y/story_about_jessica_by_swiftonsecurity) - [\"A Story About Jessica\" by SwiftOnSecurity](http://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/)
 * [2024-08-01, 07:17:55](https://lobste.rs/s/f6dksn/just_disconnect_internet) - [just disconnect the internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-08-01, 07:01:43](https://lobste.rs/s/t1rwyj/deep_list_copy_more_than_meets_eye) - [Deep list copy: More than meets the eye](https://nullprogram.com/blog/2024/07/31/)
 * [2024-08-01, 05:09:33](https://lobste.rs/s/t84sdv/stubborn_weaknesses_top_25_most) - [Stubborn Weaknesses in the Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html)
