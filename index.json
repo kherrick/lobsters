@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-01, 11:15:06",
+      "https://lobste.rs/s/ueqn8m/ai_training_opt_out"
+    ],
+    [
+      "AI Training Opt Out",
+      "https://github.com/healsdata/ai-training-opt-out"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 09:05:33",
       "https://lobste.rs/s/trbl7y/story_about_jessica_by_swiftonsecurity"
     ],
@@ -207,16 +217,6 @@
     [
       "Announcing Swift Homomorphic Encryption",
       "https://swift.org/blog/announcing-swift-homomorphic-encryption/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 21:10:26",
-      "https://lobste.rs/s/v1bohf/porffor_from_scratch_experimental_ahead"
-    ],
-    [
-      "Porffor: A from-scratch experimental ahead-of-time JS engine",
-      "https://porffor.dev/"
     ]
   ],
   [
