@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-01, 04:32:54](https://lobste.rs/s/1uqxdv/language_strangeness_budget) - [The language strangeness budget](https://steveklabnik.com/writing/the-language-strangeness-budget/)
 * [2024-08-01, 04:07:55](https://lobste.rs/s/kxdmim/light_comms_on_003) - [Light comms on the 003](https://mitxela.com/projects/lightcomm)
 * [2024-08-01, 03:16:48](https://lobste.rs/s/ctajiu/adding_operational_transformation) - [Adding Operational Transformation To Butler](https://tristancacqueray.github.io/blog/butler-ot)
 * [2024-07-31, 22:45:04](https://lobste.rs/s/fybdug/pulling_linux_up_by_its_bootstraps) - [Pulling Linux up by its bootstraps](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
@@ -20,7 +21,6 @@
 * [2024-07-31, 06:38:39](https://lobste.rs/s/qbrcx1/calling_ed_1_from_less_1) - [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
 * [2024-07-31, 03:18:34](https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete) - [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:02:20](https://lobste.rs/s/fqe1ay/announcing_swift_homomorphic) - [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
-* [2024-07-30, 22:04:30](https://lobste.rs/s/pifatk/troubleshooting_terminal_lag) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
 * [2024-07-30, 21:10:26](https://lobste.rs/s/v1bohf/porffor_from_scratch_experimental_ahead) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 * [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
