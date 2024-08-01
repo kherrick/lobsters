@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-01, 19:17:43",
+      "https://lobste.rs/s/fwvr6s/kinesis_consumer_balancing_via"
+    ],
+    [
+      "Kinesis consumer balancing via consistent hashing",
+      "https://knock.app/blog/kinesis-consumer-balancing"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 18:27:29",
       "https://lobste.rs/s/dmklya/vitale_live_notebooks_vs_code_for"
     ],
@@ -237,16 +247,6 @@
     [
       "How I Computer in 2024",
       "https://jnsgr.uk/2024/07/how-i-computer-in-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-07-31, 06:38:39",
-      "https://lobste.rs/s/qbrcx1/calling_ed_1_from_less_1"
-    ],
-    [
-      "Calling ed(1) from less(1)",
-      "http://blog.syncpup.com/posts/calling-ed-from-less.html"
     ]
   ]
 ]
