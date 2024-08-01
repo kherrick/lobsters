@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-01, 14:44:41",
+      "https://lobste.rs/s/agdrwp/rendering_my_website_with_servo_track"
+    ],
+    [
+      "Rendering my website with Servo to track progress",
+      "https://servo.arch.dog/"
+    ]
+  ],
+  [
+    [
       "2024-08-01, 13:03:54",
       "https://lobste.rs/s/miquoc/mastering_nixpkgs_overlays_techniques"
     ],
@@ -227,16 +237,6 @@
     [
       "Announcing Swift Homomorphic Encryption",
       "https://swift.org/blog/announcing-swift-homomorphic-encryption/"
-    ]
-  ],
-  [
-    [
-      "2024-07-30, 18:52:41",
-      "https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres"
-    ],
-    [
-      "Build your own SQS or Kafka with Postgres",
-      "https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/"
     ]
   ],
   [
