@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 17:38:18](https://lobste.rs/s/82zpde/psa_internet_archive_glitch_deletes) - [PSA: Internet Archive “glitch” deletes years of user data & accounts](https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/)
 * [2024-08-01, 16:20:30](https://lobste.rs/s/dqrnxv/if_novelists_wrote_your_bug_reports) - [If Novelists Wrote Your Bug Reports](https://dylnuge.com/post/2020/03/authors-bugs/)
 * [2024-08-01, 16:08:10](https://lobste.rs/s/nkbkvl/troubleshoting_zsh_lag_solutions_with) - [Troubleshoting: ZSH lag and solutions with Nix](https://kokada.capivaras.dev/blog/troubleshoting-zsh-lag-and-solutions-with-nix/)
 * [2024-08-01, 15:21:25](https://lobste.rs/s/7rtvnp/async_rust_challenges_iroh) - [Async Rust Challenges in Iroh](https://iroh.computer/blog/async-rust-challenges-in-iroh)
