@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 14:44:41](https://lobste.rs/s/agdrwp/rendering_my_website_with_servo_track) - [Rendering my website with Servo to track progress](https://servo.arch.dog/)
 * [2024-08-01, 13:03:54](https://lobste.rs/s/miquoc/mastering_nixpkgs_overlays_techniques) - [Mastering Nixpkgs Overlays: Techniques and Best Practice](https://nixcademy.com/posts/mastering-nixpkgs-overlays-techniques-and-best-practice/)
 * [2024-08-01, 11:20:04](https://lobste.rs/s/gy4ifu/practical_applications_for_duckdb) - [Practical Applications for DuckDB](https://youtu.be/_nA3uDx1rlg)
 * [2024-08-01, 11:15:06](https://lobste.rs/s/ueqn8m/ai_training_opt_out) - [AI Training Opt Out](https://github.com/healsdata/ai-training-opt-out)
