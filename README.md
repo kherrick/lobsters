@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-01, 11:15:06](https://lobste.rs/s/ueqn8m/ai_training_opt_out) - [AI Training Opt Out](https://github.com/healsdata/ai-training-opt-out)
 * [2024-08-01, 09:05:33](https://lobste.rs/s/trbl7y/story_about_jessica_by_swiftonsecurity) - [\"A Story About Jessica\" by SwiftOnSecurity](http://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/)
 * [2024-08-01, 07:17:55](https://lobste.rs/s/f6dksn/just_disconnect_internet) - [just disconnect the internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-08-01, 07:01:43](https://lobste.rs/s/t1rwyj/deep_list_copy_more_than_meets_eye) - [Deep list copy: More than meets the eye](https://nullprogram.com/blog/2024/07/31/)
@@ -21,7 +22,6 @@
 * [2024-07-31, 06:38:39](https://lobste.rs/s/qbrcx1/calling_ed_1_from_less_1) - [Calling ed(1) from less(1)](http://blog.syncpup.com/posts/calling-ed-from-less.html)
 * [2024-07-31, 03:18:34](https://lobste.rs/s/dyqczr/find_mkdir_is_turing_complete) - [find + mkdir is Turing complete](https://ogiekako.vercel.app/blog/find_mkdir_tc)
 * [2024-07-31, 01:02:20](https://lobste.rs/s/fqe1ay/announcing_swift_homomorphic) - [Announcing Swift Homomorphic Encryption](https://swift.org/blog/announcing-swift-homomorphic-encryption/)
-* [2024-07-30, 21:10:26](https://lobste.rs/s/v1bohf/porffor_from_scratch_experimental_ahead) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 * [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
