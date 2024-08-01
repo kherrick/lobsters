@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-01, 18:27:29](https://lobste.rs/s/dmklya/vitale_live_notebooks_vs_code_for) - [Vitale: Live notebooks in VS Code for JavaScript/TypeScript, web development, and AI experimentation](https://githubnext.com/projects/vitale)
 * [2024-08-01, 17:38:18](https://lobste.rs/s/82zpde/psa_internet_archive_glitch_deletes) - [PSA: Internet Archive “glitch” deletes years of user data & accounts](https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/)
 * [2024-08-01, 16:20:30](https://lobste.rs/s/dqrnxv/if_novelists_wrote_your_bug_reports) - [If Novelists Wrote Your Bug Reports](https://dylnuge.com/post/2020/03/authors-bugs/)
 * [2024-08-01, 16:08:10](https://lobste.rs/s/nkbkvl/troubleshoting_zsh_lag_solutions_with) - [Troubleshoting: ZSH lag and solutions with Nix](https://kokada.capivaras.dev/blog/troubleshoting-zsh-lag-and-solutions-with-nix/)
@@ -19,7 +20,6 @@
 * [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 * [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
 * [2024-07-31, 19:16:02](https://lobste.rs/s/nvfzbz/once_more_about_rule_5) - [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
-* [2024-07-31, 16:23:44](https://lobste.rs/s/bqvr4r/data_replication_design_spectrum) - [Data Replication Design Spectrum](https://transactional.blog/blog/2024-data-replication-design-spectrum)
 * [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 12:23:13](https://lobste.rs/s/uj7y4n/nix_community_survey_2024) - [Nix Community Survey 2024](https://survey.nixos.org/2024)
 * [2024-07-31, 12:12:20](https://lobste.rs/s/yt1dsb/generating_yaml_files_with_nix) - [Generating YAML files with Nix](https://kokada.capivaras.dev/blog/generating-yaml-files-with-nix/)

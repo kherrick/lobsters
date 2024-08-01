@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-01](index.md)
 
+* [2024-08-01, 18:27:29](https://lobste.rs/s/dmklya/vitale_live_notebooks_vs_code_for) - [Vitale: Live notebooks in VS Code for JavaScript/TypeScript, web development, and AI experimentation](https://githubnext.com/projects/vitale)
 * [2024-08-01, 17:38:18](https://lobste.rs/s/82zpde/psa_internet_archive_glitch_deletes) - [PSA: Internet Archive “glitch” deletes years of user data & accounts](https://blog.gingerbeardman.com/2024/08/01/psa-internet-archive-glitch-deletes-years-of-user-data-and-accounts/)
 * [2024-08-01, 16:20:30](https://lobste.rs/s/dqrnxv/if_novelists_wrote_your_bug_reports) - [If Novelists Wrote Your Bug Reports](https://dylnuge.com/post/2020/03/authors-bugs/)
 * [2024-08-01, 16:08:10](https://lobste.rs/s/nkbkvl/troubleshoting_zsh_lag_solutions_with) - [Troubleshoting: ZSH lag and solutions with Nix](https://kokada.capivaras.dev/blog/troubleshoting-zsh-lag-and-solutions-with-nix/)
