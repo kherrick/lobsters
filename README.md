@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-01, 07:01:43](https://lobste.rs/s/t1rwyj/deep_list_copy_more_than_meets_eye) - [Deep list copy: More than meets the eye](https://nullprogram.com/blog/2024/07/31/)
 * [2024-08-01, 05:09:33](https://lobste.rs/s/t84sdv/stubborn_weaknesses_top_25_most) - [Stubborn Weaknesses in the Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html)
 * [2024-08-01, 04:44:11](https://lobste.rs/s/8iyfjm/falcon_content_update_remediation) - [Falcon Content Update Remediation and Guidance](https://www.crowdstrike.com/falcon-content-update-remediation-and-guidance-hub/)
 * [2024-08-01, 04:32:54](https://lobste.rs/s/1uqxdv/language_strangeness_budget) - [The language strangeness budget](https://steveklabnik.com/writing/the-language-strangeness-budget/)
@@ -9,7 +10,6 @@
 * [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 * [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
 * [2024-07-31, 19:16:02](https://lobste.rs/s/nvfzbz/once_more_about_rule_5) - [Once more about the rule of 5](https://www.sandordargo.com/blog/2024/07/31/rule-of-5-once-again)
-* [2024-07-31, 19:00:44](https://lobste.rs/s/4cz5kh/vimscript_tutorial) - [Vimscript Tutorial](https://www.youtube.com/playlist?list=PLOe6AggsTaVv_IQsADuzhOzepA_tSAagN)
 * [2024-07-31, 16:23:44](https://lobste.rs/s/bqvr4r/data_replication_design_spectrum) - [Data Replication Design Spectrum](https://transactional.blog/blog/2024-data-replication-design-spectrum)
 * [2024-07-31, 14:33:58](https://lobste.rs/s/8w4fgx/racket_book) - [The Racket Book](https://docs.racket-lang.org/guide/index.html)
 * [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
