@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-01, 03:16:48](https://lobste.rs/s/ctajiu/adding_operational_transformation) - [Adding Operational Transformation To Butler](https://tristancacqueray.github.io/blog/butler-ot)
 * [2024-07-31, 22:45:04](https://lobste.rs/s/fybdug/pulling_linux_up_by_its_bootstraps) - [Pulling Linux up by its bootstraps](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
 * [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 * [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
@@ -21,7 +22,6 @@
 * [2024-07-30, 22:04:30](https://lobste.rs/s/pifatk/troubleshooting_terminal_lag) - [Troubleshooting: Terminal Lag](https://lock.cmpxchg8b.com/slowterm.html)
 * [2024-07-30, 21:10:26](https://lobste.rs/s/v1bohf/porffor_from_scratch_experimental_ahead) - [Porffor: A from-scratch experimental ahead-of-time JS engine](https://porffor.dev/)
 * [2024-07-30, 18:52:41](https://lobste.rs/s/ap6qvh/build_your_own_sqs_kafka_with_postgres) - [Build your own SQS or Kafka with Postgres](https://blog.sequinstream.com/build-your-own-sqs-or-kafka-with-postgres/)
-* [2024-07-30, 18:32:58](https://lobste.rs/s/wwmy5e/pragmatic_category_theory_part_1) - [Pragmatic Category Theory | Part 1: Semigroup Intro](https://dev.to/chshersh/pragmatic-category-theory-part-1-semigroup-intro-1ign)
 * [2024-07-30, 17:24:20](https://lobste.rs/s/qvhwss/quint) - [Quint](https://quint-lang.org/)
 * [2024-07-30, 13:59:47](https://lobste.rs/s/3b8wke/our_audit_homebrew) - [Our audit of Homebrew](https://blog.trailofbits.com/2024/07/30/our-audit-of-homebrew/)
 * [2024-07-30, 13:34:12](https://lobste.rs/s/awdn3y/http_0_9_from_scratch) - [HTTP/0.9 From Scratch](https://kmcd.dev/posts/http0.9-from-scratch/)
