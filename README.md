@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 06:52:16](https://lobste.rs/s/zmt8ul/inside_story_clickhouse_9_how_perform) - [The Inside Story of ClickHouse (9): How to Perform Aggregation](http://jackywoo.cn/ck-internal-how-clickhouse-do-aggregating-en/)
 * [2024-08-02, 06:00:43](https://lobste.rs/s/tqbtyq/effect_crts_on_pixel_art) - [The Effect of CRTs on Pixel Art](https://www.datagubbe.se/crt/)
-* [2024-08-02, 01:52:05](https://lobste.rs/s/5eyszo/how_dune_analytics_improved_dune_api) - [How Dune Analytics improved Dune API using DuckDB](https://dune.com/blog/how-weve-improved-dune-api-using-duckdb)
 * [2024-08-01, 22:32:10](https://lobste.rs/s/ahmi0i/quick_bits_realise_nix_symlinks) - [Quick bits: realise Nix symlinks](https://kokada.capivaras.dev/blog/quick-bits-realise-nix-symlinks/)
 * [2024-08-01, 21:10:10](https://lobste.rs/s/7ghslo/overview_ocamlfront) - [An overview of ocamlfront](https://diskuv.com/ocamlfront/overview-1/)
 * [2024-08-01, 21:01:37](https://lobste.rs/s/ky4li4/simply_typed_lambda_calculus_datalog) - [Simply Typed Lambda Calculus in Datalog](https://hg.sr.ht/~icefox/pancake/browse/src/main.rs?rev=simply-typed-lambda-calculus)
