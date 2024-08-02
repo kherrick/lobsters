@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 18:35:10](https://lobste.rs/s/izax1k/trying_mostly_failing_optimize_frustum) - [Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine](https://blog.paavo.me/demo-engine-part-1/)
 * [2024-08-02, 17:50:27](https://lobste.rs/s/cf6vqa/streams_calculational_proofs_dafny) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
 * [2024-08-02, 17:43:43](https://lobste.rs/s/e3ynxy/archiving_syndicating_mastodon_posts) - [Archiving and syndicating Mastodon posts](https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/)
 * [2024-08-02, 16:57:53](https://lobste.rs/s/g6qyz3/squatting_npm_for_remote_code_execution) - [Squatting NPM for remote code execution](https://www.alxndrsn.com/2024-08-01-npx-binary-confusion/)
