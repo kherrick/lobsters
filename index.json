@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-02, 13:05:20",
+      "https://lobste.rs/s/xo7a4v/simple_fast_value_semantics"
+    ],
+    [
+      "Simple fast value semantics",
+      "https://boomla.com/docs/simple-fast-value-semantics"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 12:53:31",
+      "https://lobste.rs/s/gruxeg/epicenv_local_environment_variable"
+    ],
+    [
+      "EpicEnv: A local environment variable manager for Git",
+      "https://github.com/danthegoodman1/EpicEnv"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 12:26:26",
       "https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend"
     ],
@@ -117,26 +137,6 @@
     [
       "Passing torches to Austin and Cherry",
       "https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 19:17:43",
-      "https://lobste.rs/s/fwvr6s/kinesis_consumer_balancing_via"
-    ],
-    [
-      "Kinesis consumer balancing via consistent hashing",
-      "https://knock.app/blog/kinesis-consumer-balancing"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 18:27:29",
-      "https://lobste.rs/s/dmklya/vitale_live_notebooks_vs_code_for"
-    ],
-    [
-      "Vitale: Live notebooks in VS Code for JavaScript/TypeScript, web development, and AI experimentation",
-      "https://githubnext.com/projects/vitale"
     ]
   ],
   [
