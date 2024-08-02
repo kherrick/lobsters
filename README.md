@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 06:00:43](https://lobste.rs/s/tqbtyq/effect_crts_on_pixel_art) - [The Effect of CRTs on Pixel Art](https://www.datagubbe.se/crt/)
 * [2024-08-02, 01:52:05](https://lobste.rs/s/5eyszo/how_dune_analytics_improved_dune_api) - [How Dune Analytics improved Dune API using DuckDB](https://dune.com/blog/how-weve-improved-dune-api-using-duckdb)
 * [2024-08-01, 22:32:10](https://lobste.rs/s/ahmi0i/quick_bits_realise_nix_symlinks) - [Quick bits: realise Nix symlinks](https://kokada.capivaras.dev/blog/quick-bits-realise-nix-symlinks/)
 * [2024-08-01, 21:10:10](https://lobste.rs/s/7ghslo/overview_ocamlfront) - [An overview of ocamlfront](https://diskuv.com/ocamlfront/overview-1/)
@@ -23,7 +24,6 @@
 * [2024-07-31, 22:45:04](https://lobste.rs/s/fybdug/pulling_linux_up_by_its_bootstraps) - [Pulling Linux up by its bootstraps](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
 * [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
 * [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
-* [2024-07-31, 14:19:42](https://lobste.rs/s/mvxwbx/racket_survey_2024) - [Racket Survey 2024](https://forms.gle/EYuzG4Jp9X5bqoHQ9)
 * [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 
 ## [Archives](archives/index.md)
