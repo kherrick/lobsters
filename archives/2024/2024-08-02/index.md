@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 09:03:35](https://lobste.rs/s/ytfapv/extending_diagnostic_tool_attribute) - [Extending the #[diagnostic] tool attribute namespace](https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/)
 * [2024-08-02, 08:01:13](https://lobste.rs/s/1expaz/composition_over_inheritance_explained) - [Composition over Inheritance Explained by Games! #programming](https://www.youtube.com/watch?v=HNzP1aLAffM&ab_channel=MetaphoricallySpeaking)
 * [2024-08-02, 06:52:16](https://lobste.rs/s/zmt8ul/inside_story_clickhouse_9_how_perform) - [The Inside Story of ClickHouse (9): How to Perform Aggregation](http://jackywoo.cn/ck-internal-how-clickhouse-do-aggregating-en/)
 * [2024-08-02, 06:00:43](https://lobste.rs/s/tqbtyq/effect_crts_on_pixel_art) - [The Effect of CRTs on Pixel Art](https://www.datagubbe.se/crt/)
