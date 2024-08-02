@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 16:57:53](https://lobste.rs/s/g6qyz3/squatting_npm_for_remote_code_execution) - [Squatting NPM for remote code execution](https://www.alxndrsn.com/2024-08-01-npx-binary-confusion/)
 * [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 16:35:49](https://lobste.rs/s/q7s1xm/video_compress_compress_video_by_90) - [video-compress: Compress video by 90% without losing much quality, similar to what Pied Piper achieves](https://github.com/jiacai2050/video-compress)
 * [2024-08-02, 16:35:49](https://lobste.rs/s/q7s1xm/compress_video_by_90_without_losing_much) - [Compress video by 90% without losing much quality, similar to what Pied Piper achieves](https://github.com/jiacai2050/video-compress)

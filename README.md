@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 16:57:53](https://lobste.rs/s/g6qyz3/squatting_npm_for_remote_code_execution) - [Squatting NPM for remote code execution](https://www.alxndrsn.com/2024-08-01-npx-binary-confusion/)
 * [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 16:35:49](https://lobste.rs/s/q7s1xm/compress_video_by_90_without_losing_much) - [Compress video by 90% without losing much quality, similar to what Pied Piper achieves](https://github.com/jiacai2050/video-compress)
 * [2024-08-02, 16:02:43](https://lobste.rs/s/dwobzi/formally_verifying_security_properties) - [Formally verifying security properties of CHERI processors](https://cheriot.org/formal/verification/security/2024/08/02/meltdown-style-vulnerabilities.html)
@@ -12,7 +13,6 @@
 * [2024-08-02, 12:26:26](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend)
 * [2024-08-02, 11:36:37](https://lobste.rs/s/mptzyp/once_upon_lazy_init) - [Once Upon a Lazy Init](https://codeandbitters.com/once-upon-a-lazy-init/)
 * [2024-08-02, 09:03:35](https://lobste.rs/s/ytfapv/extending_diagnostic_tool_attribute) - [Extending the #[diagnostic] tool attribute namespace](https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/)
-* [2024-08-02, 08:01:13](https://lobste.rs/s/1expaz/composition_over_inheritance_explained) - [Composition over Inheritance Explained by Games! #programming](https://www.youtube.com/watch?v=HNzP1aLAffM&ab_channel=MetaphoricallySpeaking)
 * [2024-08-02, 06:00:43](https://lobste.rs/s/tqbtyq/effect_crts_on_pixel_art) - [The Effect of CRTs on Pixel Art](https://www.datagubbe.se/crt/)
 * [2024-08-01, 22:32:10](https://lobste.rs/s/ahmi0i/quick_bits_realise_nix_symlinks) - [Quick bits: realise Nix symlinks](https://kokada.capivaras.dev/blog/quick-bits-realise-nix-symlinks/)
 * [2024-08-01, 21:10:10](https://lobste.rs/s/7ghslo/overview_ocamlfront) - [An overview of ocamlfront](https://diskuv.com/ocamlfront/overview-1/)
