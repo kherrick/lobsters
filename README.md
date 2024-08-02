@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
 * [2024-08-02, 21:23:23](https://lobste.rs/s/vthkpw/manifest_py) - [manifest.py](https://pypi.org/project/manifest/)
 * [2024-08-02, 19:37:33](https://lobste.rs/s/m0cawr/handy_way_clear_terminal_python) - [A Handy Way To Clear The Terminal In Python](https://dev.to/olddutchcap/a-handy-way-to-clear-the-terminal-in-python-25ge)
 * [2024-08-02, 18:35:10](https://lobste.rs/s/izax1k/trying_mostly_failing_optimize_frustum) - [Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine](https://blog.paavo.me/demo-engine-part-1/)
@@ -21,7 +22,6 @@
 * [2024-08-01, 21:01:37](https://lobste.rs/s/ky4li4/simply_typed_lambda_calculus_datalog) - [Simply Typed Lambda Calculus in Datalog](https://hg.sr.ht/~icefox/pancake/browse/src/main.rs?rev=simply-typed-lambda-calculus)
 * [2024-08-01, 19:58:48](https://lobste.rs/s/95rdm1/announcing_bsd_jumpstart) - [Announcing BSD Jumpstart](https://www.bsdjumpstart.org)
 * [2024-08-01, 19:29:41](https://lobste.rs/s/2gqttr/passing_torches_austin_cherry) - [Passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
-* [2024-08-01, 16:08:10](https://lobste.rs/s/nkbkvl/troubleshoting_zsh_lag_solutions_with) - [Troubleshoting: ZSH lag and solutions with Nix](https://kokada.capivaras.dev/blog/troubleshoting-zsh-lag-and-solutions-with-nix/)
 * [2024-08-01, 15:21:25](https://lobste.rs/s/7rtvnp/async_rust_challenges_iroh) - [Async Rust Challenges in Iroh](https://iroh.computer/blog/async-rust-challenges-in-iroh)
 * [2024-08-01, 14:44:41](https://lobste.rs/s/agdrwp/rendering_my_website_with_servo_track) - [Rendering my website with Servo to track progress](https://servo.arch.dog/)
 * [2024-08-01, 09:05:33](https://lobste.rs/s/trbl7y/story_about_jessica) - [A Story About Jessica](http://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/)
