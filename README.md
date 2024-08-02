@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 08:01:13](https://lobste.rs/s/1expaz/composition_over_inheritance_explained) - [Composition over Inheritance Explained by Games! #programming](https://www.youtube.com/watch?v=HNzP1aLAffM&ab_channel=MetaphoricallySpeaking)
 * [2024-08-02, 06:52:16](https://lobste.rs/s/zmt8ul/inside_story_clickhouse_9_how_perform) - [The Inside Story of ClickHouse (9): How to Perform Aggregation](http://jackywoo.cn/ck-internal-how-clickhouse-do-aggregating-en/)
 * [2024-08-02, 06:00:43](https://lobste.rs/s/tqbtyq/effect_crts_on_pixel_art) - [The Effect of CRTs on Pixel Art](https://www.datagubbe.se/crt/)
 * [2024-08-01, 22:32:10](https://lobste.rs/s/ahmi0i/quick_bits_realise_nix_symlinks) - [Quick bits: realise Nix symlinks](https://kokada.capivaras.dev/blog/quick-bits-realise-nix-symlinks/)
@@ -19,7 +20,6 @@
 * [2024-08-01, 09:05:33](https://lobste.rs/s/trbl7y/story_about_jessica) - [A Story About Jessica](http://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/)
 * [2024-08-01, 07:17:55](https://lobste.rs/s/f6dksn/just_disconnect_internet) - [just disconnect the internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-08-01, 07:01:43](https://lobste.rs/s/t1rwyj/deep_list_copy_more_than_meets_eye) - [Deep list copy: More than meets the eye](https://nullprogram.com/blog/2024/07/31/)
-* [2024-08-01, 05:09:33](https://lobste.rs/s/t84sdv/stubborn_weaknesses_top_25_most) - [Stubborn Weaknesses in the Top 25 Most Dangerous Software Weaknesses](https://cwe.mitre.org/top25/archive/2023/2023_stubborn_weaknesses.html)
 * [2024-08-01, 04:32:54](https://lobste.rs/s/1uqxdv/language_strangeness_budget_2015) - [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget/)
 * [2024-07-31, 22:45:04](https://lobste.rs/s/fybdug/pulling_linux_up_by_its_bootstraps) - [Pulling Linux up by its bootstraps](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
 * [2024-07-31, 20:03:15](https://lobste.rs/s/dyvoaa/handful_reasons_javascript_won_t_be) - [A handful of reasons JavaScript won’t be available](https://piccalil.li/blog/a-handful-of-reasons-javascript-wont-be-available/)
