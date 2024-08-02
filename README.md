@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 11:36:37](https://lobste.rs/s/mptzyp/once_upon_lazy_init) - [Once Upon a Lazy Init](https://codeandbitters.com/once-upon-a-lazy-init/)
 * [2024-08-02, 09:03:35](https://lobste.rs/s/ytfapv/extending_diagnostic_tool_attribute) - [Extending the #[diagnostic] tool attribute namespace](https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/)
 * [2024-08-02, 08:01:13](https://lobste.rs/s/1expaz/composition_over_inheritance_explained) - [Composition over Inheritance Explained by Games! #programming](https://www.youtube.com/watch?v=HNzP1aLAffM&ab_channel=MetaphoricallySpeaking)
 * [2024-08-02, 06:52:16](https://lobste.rs/s/zmt8ul/inside_story_clickhouse_9_how_perform) - [The Inside Story of ClickHouse (9): How to Perform Aggregation](http://jackywoo.cn/ck-internal-how-clickhouse-do-aggregating-en/)
@@ -23,7 +24,6 @@
 * [2024-08-01, 07:01:43](https://lobste.rs/s/t1rwyj/deep_list_copy_more_than_meets_eye) - [Deep list copy: More than meets the eye](https://nullprogram.com/blog/2024/07/31/)
 * [2024-08-01, 04:32:54](https://lobste.rs/s/1uqxdv/language_strangeness_budget_2015) - [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget/)
 * [2024-07-31, 22:45:04](https://lobste.rs/s/fybdug/pulling_linux_up_by_its_bootstraps) - [Pulling Linux up by its bootstraps](https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/)
-* [2024-07-31, 19:58:28](https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront) - [Hello, world! - Cpp2 and cppfront](https://hsutter.github.io/cppfront/welcome/hello-world/)
 * [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 
 ## [Archives](archives/index.md)
