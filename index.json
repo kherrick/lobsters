@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-02, 17:43:43",
+      "https://lobste.rs/s/e3ynxy/archiving_syndicating_mastodon_posts"
+    ],
+    [
+      "Archiving and syndicating Mastodon posts",
+      "https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 16:57:53",
       "https://lobste.rs/s/g6qyz3/squatting_npm_for_remote_code_execution"
     ],
@@ -217,16 +227,6 @@
     [
       "Rendering my website with Servo to track progress",
       "https://servo.arch.dog/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 13:03:54",
-      "https://lobste.rs/s/miquoc/mastering_nixpkgs_overlays_techniques"
-    ],
-    [
-      "Mastering Nixpkgs Overlays: Techniques and Best Practice",
-      "https://nixcademy.com/posts/mastering-nixpkgs-overlays-techniques-and-best-practice/"
     ]
   ],
   [
