@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 14:57:17](https://lobste.rs/s/uxbvru/translating_all_c_rust_tractor) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-08-02, 14:10:56](https://lobste.rs/s/7vjyq4/c_is_turing_complete) - [C is Turing complete](https://dotat.at/@/2024-08-02-turing-c.html)
 * [2024-08-02, 14:04:08](https://lobste.rs/s/uuoilf/jvm_java_null_restricted_nullable_types) - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 13:05:20](https://lobste.rs/s/xo7a4v/simple_fast_value_semantics) - [Simple fast value semantics](https://boomla.com/docs/simple-fast-value-semantics)
@@ -24,7 +25,6 @@
 * [2024-08-01, 09:05:33](https://lobste.rs/s/trbl7y/story_about_jessica) - [A Story About Jessica](http://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/)
 * [2024-08-01, 07:17:55](https://lobste.rs/s/f6dksn/just_disconnect_internet) - [just disconnect the internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 * [2024-08-01, 04:32:54](https://lobste.rs/s/1uqxdv/language_strangeness_budget_2015) - [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget/)
-* [2024-07-31, 10:36:35](https://lobste.rs/s/hetkwz/how_i_computer_2024) - [How I Computer in 2024](https://jnsgr.uk/2024/07/how-i-computer-in-2024/)
 
 ## [Archives](archives/index.md)
 
