@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 16:35:49](https://lobste.rs/s/q7s1xm/compress_video_by_90_without_losing_much) - [Compress video by 90% without losing much quality, similar to what Pied Piper achieves](https://github.com/jiacai2050/video-compress)
 * [2024-08-02, 16:02:43](https://lobste.rs/s/dwobzi/formally_verifying_security_properties) - [Formally verifying security properties of CHERI processors](https://cheriot.org/formal/verification/security/2024/08/02/meltdown-style-vulnerabilities.html)
 * [2024-08-02, 16:01:03](https://lobste.rs/s/gmzu40/romhacking_net_moves_news_only_database) - [ROMhacking.net Moves to News Only, Database and File Archive Released to Internet Archive](https://www.romhacking.net/forum/index.php?topic=39405)
@@ -13,7 +14,6 @@
 * [2024-08-02, 09:03:35](https://lobste.rs/s/ytfapv/extending_diagnostic_tool_attribute) - [Extending the #[diagnostic] tool attribute namespace](https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/)
 * [2024-08-02, 08:01:13](https://lobste.rs/s/1expaz/composition_over_inheritance_explained) - [Composition over Inheritance Explained by Games! #programming](https://www.youtube.com/watch?v=HNzP1aLAffM&ab_channel=MetaphoricallySpeaking)
 * [2024-08-02, 06:00:43](https://lobste.rs/s/tqbtyq/effect_crts_on_pixel_art) - [The Effect of CRTs on Pixel Art](https://www.datagubbe.se/crt/)
-* [2024-08-02, 01:52:05](https://lobste.rs/s/5eyszo/how_dune_analytics_improved_dune_api) - [How Dune Analytics improved Dune API using DuckDB](https://dune.com/blog/how-weve-improved-dune-api-using-duckdb)
 * [2024-08-01, 22:32:10](https://lobste.rs/s/ahmi0i/quick_bits_realise_nix_symlinks) - [Quick bits: realise Nix symlinks](https://kokada.capivaras.dev/blog/quick-bits-realise-nix-symlinks/)
 * [2024-08-01, 21:10:10](https://lobste.rs/s/7ghslo/overview_ocamlfront) - [An overview of ocamlfront](https://diskuv.com/ocamlfront/overview-1/)
 * [2024-08-01, 21:01:37](https://lobste.rs/s/ky4li4/simply_typed_lambda_calculus_datalog) - [Simply Typed Lambda Calculus in Datalog](https://hg.sr.ht/~icefox/pancake/browse/src/main.rs?rev=simply-typed-lambda-calculus)

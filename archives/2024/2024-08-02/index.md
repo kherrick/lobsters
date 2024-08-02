@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 16:35:49](https://lobste.rs/s/q7s1xm/video_compress_compress_video_by_90) - [video-compress: Compress video by 90% without losing much quality, similar to what Pied Piper achieves](https://github.com/jiacai2050/video-compress)
 * [2024-08-02, 16:35:49](https://lobste.rs/s/q7s1xm/compress_video_by_90_without_losing_much) - [Compress video by 90% without losing much quality, similar to what Pied Piper achieves](https://github.com/jiacai2050/video-compress)
 * [2024-08-02, 16:02:43](https://lobste.rs/s/dwobzi/formally_verifying_security_properties) - [Formally verifying security properties of CHERI processors](https://cheriot.org/formal/verification/security/2024/08/02/meltdown-style-vulnerabilities.html)
