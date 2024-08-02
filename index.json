@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-02, 11:36:37",
+      "https://lobste.rs/s/mptzyp/once_upon_lazy_init"
+    ],
+    [
+      "Once Upon a Lazy Init",
+      "https://codeandbitters.com/once-upon-a-lazy-init/"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 09:03:35",
       "https://lobste.rs/s/ytfapv/extending_diagnostic_tool_attribute"
     ],
@@ -227,16 +237,6 @@
     [
       "Pulling Linux up by its bootstraps",
       "https://lwn.net/SubscriberLink/983340/25f5b1f6b1247079/"
-    ]
-  ],
-  [
-    [
-      "2024-07-31, 19:58:28",
-      "https://lobste.rs/s/onoaol/hello_world_cpp2_cppfront"
-    ],
-    [
-      "Hello, world! - Cpp2 and cppfront",
-      "https://hsutter.github.io/cppfront/welcome/hello-world/"
     ]
   ],
   [
