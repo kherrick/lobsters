@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 14:04:08](https://lobste.rs/s/uuoilf/jvm_java_null_restricted_nullable_types) - [JVM/Java: Null-Restricted and Nullable Types](https://bugs.openjdk.org/browse/JDK-8303099)
 * [2024-08-02, 13:05:20](https://lobste.rs/s/xo7a4v/simple_fast_value_semantics) - [Simple fast value semantics](https://boomla.com/docs/simple-fast-value-semantics)
 * [2024-08-02, 12:53:31](https://lobste.rs/s/gruxeg/epicenv_local_environment_variable) - [EpicEnv: A local environment variable manager for Git](https://github.com/danthegoodman1/EpicEnv)
 * [2024-08-02, 12:26:26](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend)
