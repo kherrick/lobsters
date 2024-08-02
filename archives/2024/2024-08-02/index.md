@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-02](index.md)
 
+* [2024-08-02, 21:23:23](https://lobste.rs/s/vthkpw/manifest_py) - [manifest.py](https://pypi.org/project/manifest/)
 * [2024-08-02, 19:37:33](https://lobste.rs/s/m0cawr/handy_way_clear_terminal_python) - [A Handy Way To Clear The Terminal In Python](https://dev.to/olddutchcap/a-handy-way-to-clear-the-terminal-in-python-25ge)
 * [2024-08-02, 18:35:10](https://lobste.rs/s/izax1k/trying_mostly_failing_optimize_frustum) - [Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine](https://blog.paavo.me/demo-engine-part-1/)
 * [2024-08-02, 17:50:27](https://lobste.rs/s/cf6vqa/streams_calculational_proofs_dafny) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
