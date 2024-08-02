@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-02, 16:02:43",
+      "https://lobste.rs/s/dwobzi/formally_verifying_security_properties"
+    ],
+    [
+      "Formally verifying security properties of CHERI processors",
+      "https://cheriot.org/formal/verification/security/2024/08/02/meltdown-style-vulnerabilities.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-02, 16:01:03",
+      "https://lobste.rs/s/gmzu40/romhacking_net_moves_news_only_database"
+    ],
+    [
+      "ROMhacking.net Moves to News Only, Database and File Archive Released to Internet Archive",
+      "https://www.romhacking.net/forum/index.php?topic=39405"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 14:57:17",
       "https://lobste.rs/s/uxbvru/translating_all_c_rust_tractor"
     ],
@@ -87,16 +107,6 @@
     [
       "Composition over Inheritance Explained by Games! #programming",
       "https://www.youtube.com/watch?v=HNzP1aLAffM&ab_channel=MetaphoricallySpeaking"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 06:52:16",
-      "https://lobste.rs/s/zmt8ul/inside_story_clickhouse_9_how_perform"
-    ],
-    [
-      "The Inside Story of ClickHouse (9): How to Perform Aggregation",
-      "http://jackywoo.cn/ck-internal-how-clickhouse-do-aggregating-en/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Mastering Nixpkgs Overlays: Techniques and Best Practice",
       "https://nixcademy.com/posts/mastering-nixpkgs-overlays-techniques-and-best-practice/"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 11:15:06",
-      "https://lobste.rs/s/ueqn8m/ai_training_opt_out"
-    ],
-    [
-      "AI Training Opt Out",
-      "https://github.com/healsdata/ai-training-opt-out"
     ]
   ],
   [
