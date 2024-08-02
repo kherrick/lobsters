@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 13:05:20](https://lobste.rs/s/xo7a4v/simple_fast_value_semantics) - [Simple fast value semantics](https://boomla.com/docs/simple-fast-value-semantics)
+* [2024-08-02, 12:53:31](https://lobste.rs/s/gruxeg/epicenv_local_environment_variable) - [EpicEnv: A local environment variable manager for Git](https://github.com/danthegoodman1/EpicEnv)
 * [2024-08-02, 12:26:26](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend)
 * [2024-08-02, 11:36:37](https://lobste.rs/s/mptzyp/once_upon_lazy_init) - [Once Upon a Lazy Init](https://codeandbitters.com/once-upon-a-lazy-init/)
 * [2024-08-02, 09:03:35](https://lobste.rs/s/ytfapv/extending_diagnostic_tool_attribute) - [Extending the #[diagnostic] tool attribute namespace](https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/)
@@ -12,8 +14,6 @@
 * [2024-08-01, 21:01:37](https://lobste.rs/s/ky4li4/simply_typed_lambda_calculus_datalog) - [Simply Typed Lambda Calculus in Datalog](https://hg.sr.ht/~icefox/pancake/browse/src/main.rs?rev=simply-typed-lambda-calculus)
 * [2024-08-01, 19:58:48](https://lobste.rs/s/95rdm1/announcing_bsd_jumpstart) - [Announcing BSD Jumpstart](https://www.bsdjumpstart.org)
 * [2024-08-01, 19:29:41](https://lobste.rs/s/2gqttr/passing_torches_austin_cherry) - [Passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
-* [2024-08-01, 19:17:43](https://lobste.rs/s/fwvr6s/kinesis_consumer_balancing_via) - [Kinesis consumer balancing via consistent hashing](https://knock.app/blog/kinesis-consumer-balancing)
-* [2024-08-01, 18:27:29](https://lobste.rs/s/dmklya/vitale_live_notebooks_vs_code_for) - [Vitale: Live notebooks in VS Code for JavaScript/TypeScript, web development, and AI experimentation](https://githubnext.com/projects/vitale)
 * [2024-08-01, 16:20:30](https://lobste.rs/s/dqrnxv/if_novelists_wrote_your_bug_reports) - [If Novelists Wrote Your Bug Reports](https://dylnuge.com/post/2020/03/authors-bugs/)
 * [2024-08-01, 16:08:10](https://lobste.rs/s/nkbkvl/troubleshoting_zsh_lag_solutions_with) - [Troubleshoting: ZSH lag and solutions with Nix](https://kokada.capivaras.dev/blog/troubleshoting-zsh-lag-and-solutions-with-nix/)
 * [2024-08-01, 15:21:25](https://lobste.rs/s/7rtvnp/async_rust_challenges_iroh) - [Async Rust Challenges in Iroh](https://iroh.computer/blog/async-rust-challenges-in-iroh)
