@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 19:37:33](https://lobste.rs/s/m0cawr/handy_way_clear_terminal_python) - [A Handy Way To Clear The Terminal In Python](https://dev.to/olddutchcap/a-handy-way-to-clear-the-terminal-in-python-25ge)
 * [2024-08-02, 18:35:10](https://lobste.rs/s/izax1k/trying_mostly_failing_optimize_frustum) - [Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine](https://blog.paavo.me/demo-engine-part-1/)
 * [2024-08-02, 17:50:27](https://lobste.rs/s/cf6vqa/streams_calculational_proofs_dafny) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
 * [2024-08-02, 17:43:43](https://lobste.rs/s/e3ynxy/archiving_syndicating_mastodon_posts) - [Archiving and syndicating Mastodon posts](https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/)
@@ -24,7 +25,6 @@
 * [2024-08-01, 15:21:25](https://lobste.rs/s/7rtvnp/async_rust_challenges_iroh) - [Async Rust Challenges in Iroh](https://iroh.computer/blog/async-rust-challenges-in-iroh)
 * [2024-08-01, 14:44:41](https://lobste.rs/s/agdrwp/rendering_my_website_with_servo_track) - [Rendering my website with Servo to track progress](https://servo.arch.dog/)
 * [2024-08-01, 09:05:33](https://lobste.rs/s/trbl7y/story_about_jessica) - [A Story About Jessica](http://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/)
-* [2024-08-01, 07:17:55](https://lobste.rs/s/f6dksn/just_disconnect_internet) - [just disconnect the internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
 
 ## [Archives](archives/index.md)
 
