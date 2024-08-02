@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-02, 16:35:49](https://lobste.rs/s/q7s1xm/video_compress_compress_video_by_90) - [video-compress: Compress video by 90% without losing much quality, similar to what Pied Piper achieves](https://github.com/jiacai2050/video-compress)
 * [2024-08-02, 16:02:43](https://lobste.rs/s/dwobzi/formally_verifying_security_properties) - [Formally verifying security properties of CHERI processors](https://cheriot.org/formal/verification/security/2024/08/02/meltdown-style-vulnerabilities.html)
 * [2024-08-02, 16:01:03](https://lobste.rs/s/gmzu40/romhacking_net_moves_news_only_database) - [ROMhacking.net Moves to News Only, Database and File Archive Released to Internet Archive](https://www.romhacking.net/forum/index.php?topic=39405)
 * [2024-08-02, 14:57:17](https://lobste.rs/s/uxbvru/translating_all_c_rust_tractor) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
@@ -24,7 +25,6 @@
 * [2024-08-01, 13:03:54](https://lobste.rs/s/miquoc/mastering_nixpkgs_overlays_techniques) - [Mastering Nixpkgs Overlays: Techniques and Best Practice](https://nixcademy.com/posts/mastering-nixpkgs-overlays-techniques-and-best-practice/)
 * [2024-08-01, 09:05:33](https://lobste.rs/s/trbl7y/story_about_jessica) - [A Story About Jessica](http://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/)
 * [2024-08-01, 07:17:55](https://lobste.rs/s/f6dksn/just_disconnect_internet) - [just disconnect the internet](https://computer.rip/2024-07-31-just-disconnect-the-internet.html)
-* [2024-08-01, 04:32:54](https://lobste.rs/s/1uqxdv/language_strangeness_budget_2015) - [The language strangeness budget (2015)](https://steveklabnik.com/writing/the-language-strangeness-budget/)
 
 ## [Archives](archives/index.md)
 
