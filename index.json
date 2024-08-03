@@ -55,7 +55,7 @@
       "https://lobste.rs/s/wvzsks/towards_userspaceification_posix_part_i"
     ],
     [
-      "Towards userspaceification of POSIX - part I: signal handling and IO - Redox - Your Next(Gen) OS",
+      "Towards userspaceification of POSIX - part I: signal handling and IO",
       "https://www.redox-os.org/news/kernel-11/"
     ]
   ],
