@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 12:53:43](https://lobste.rs/s/q3tbgy/github_profile_roast) - [GitHub Profile Roast](https://github-roast.pages.dev/)
 * [2024-08-03, 12:23:16](https://lobste.rs/s/ivftju/tzero_social_timeboxing_for_irc_channels) - [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 * [2024-08-03, 08:48:32](https://lobste.rs/s/3rd2h7/there_is_only_one_test) - [There is only one test](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
 * [2024-08-03, 08:28:46](https://lobste.rs/s/c9lfjt/desugaring_haskell_s_do_notation_into) - [Desugaring Haskell's do-Notation into Applicative Operations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/desugaring-haskell-haskell16.pdf)
