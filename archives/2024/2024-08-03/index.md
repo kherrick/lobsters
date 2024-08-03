@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 16:29:22](https://lobste.rs/s/quitps/go_debug_your_core_dumps_somewhere_else) - [Go debug your core dumps somewhere else](https://trace.yshui.dev/2024-08-copy-core-dumps.html)
 * [2024-08-03, 15:35:06](https://lobste.rs/s/wvzsks/towards_userspaceification_posix_part_i) - [Towards userspaceification of POSIX - part I: signal handling and IO - Redox - Your Next(Gen) OS](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-03, 15:33:56](https://lobste.rs/s/adgibl/knownbits_abstract_domain_for_toy) - [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
 * [2024-08-03, 14:27:53](https://lobste.rs/s/wp3sz0/clinic_publishes_update_security) - [Clinic Publishes Update to Security Researcher’s Guide to Legal Risk](https://clinic.cyber.harvard.edu/2024/08/02/clinic-publishes-update-to-security-researchers-guide-to-legal-risk/)
