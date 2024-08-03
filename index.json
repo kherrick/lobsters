@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 07:25:43",
+      "https://lobste.rs/s/biophl/panic_at_async_runtime_shutdown"
+    ],
+    [
+      "Panic! At The Async Runtime Shutdown",
+      "https://www.mattkeeter.com/blog/2024-08-01-panic/"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 05:38:58",
       "https://lobste.rs/s/abx2kz/eron_wolf_interviews_andreas_kling_about"
     ],
@@ -47,16 +57,6 @@
     [
       "manifest.py",
       "https://pypi.org/project/manifest/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 18:35:10",
-      "https://lobste.rs/s/izax1k/trying_mostly_failing_optimize_frustum"
-    ],
-    [
-      "Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine",
-      "https://blog.paavo.me/demo-engine-part-1/"
     ]
   ],
   [
