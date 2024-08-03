@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 15:35:06](https://lobste.rs/s/wvzsks/towards_userspaceification_posix_part_i) - [Towards userspaceification of POSIX - part I: signal handling and IO - Redox - Your Next(Gen) OS](https://www.redox-os.org/news/kernel-11/)
+* [2024-08-03, 15:33:56](https://lobste.rs/s/adgibl/knownbits_abstract_domain_for_toy) - [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
 * [2024-08-03, 14:27:53](https://lobste.rs/s/wp3sz0/clinic_publishes_update_security) - [Clinic Publishes Update to Security Researcher’s Guide to Legal Risk](https://clinic.cyber.harvard.edu/2024/08/02/clinic-publishes-update-to-security-researchers-guide-to-legal-risk/)
 * [2024-08-03, 13:57:02](https://lobste.rs/s/f7dhkx/we_ran_out_columns_best_worst_codebase) - [\"We ran out of columns\" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-03, 13:50:04](https://lobste.rs/s/0f5opo/racket_meet_up_saturday_3_august_2024_at_18) - [Racket meet-up: Saturday, 3 August, 2024 at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-3-august-2024-at-18-00-utc/3073)
