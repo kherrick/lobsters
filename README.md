@@ -12,7 +12,6 @@
 * [2024-08-02, 17:43:43](https://lobste.rs/s/e3ynxy/archiving_syndicating_mastodon_posts) - [Archiving and syndicating Mastodon posts](https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/)
 * [2024-08-02, 16:57:53](https://lobste.rs/s/g6qyz3/squatting_npm_for_remote_code_execution) - [Squatting NPM for remote code execution](https://www.alxndrsn.com/2024-08-01-npx-binary-confusion/)
 * [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
-* [2024-08-02, 16:35:49](https://lobste.rs/s/q7s1xm/compress_video_by_90_without_losing_much) - [Compress video by 90% without losing much quality, similar to what Pied Piper achieves](https://github.com/jiacai2050/video-compress)
 * [2024-08-02, 16:02:43](https://lobste.rs/s/dwobzi/formally_verifying_security_properties) - [Formally verifying security properties of CHERI processors](https://cheriot.org/formal/verification/security/2024/08/02/meltdown-style-vulnerabilities.html)
 * [2024-08-02, 16:01:03](https://lobste.rs/s/gmzu40/romhacking_net_moves_news_only_database) - [ROMhacking.net Moves to News Only, Database and File Archive Released to Internet Archive](https://www.romhacking.net/forum/index.php?topic=39405)
 * [2024-08-02, 14:57:17](https://lobste.rs/s/uxbvru/translating_all_c_rust_tractor) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
@@ -25,6 +24,7 @@
 * [2024-08-01, 22:32:10](https://lobste.rs/s/ahmi0i/quick_bits_realise_nix_symlinks) - [Quick bits: realise Nix symlinks](https://kokada.capivaras.dev/blog/quick-bits-realise-nix-symlinks/)
 * [2024-08-01, 19:58:48](https://lobste.rs/s/95rdm1/announcing_bsd_jumpstart) - [Announcing BSD Jumpstart](https://www.bsdjumpstart.org)
 * [2024-08-01, 19:29:41](https://lobste.rs/s/2gqttr/passing_torches_austin_cherry) - [Passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
+* [2024-08-01, 14:44:41](https://lobste.rs/s/agdrwp/rendering_my_website_with_servo_track) - [Rendering my website with Servo to track progress](https://servo.arch.dog/)
 
 ## [Archives](archives/index.md)
 
