@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 04:58:25",
+      "https://lobste.rs/s/ohawyz/how_go_arrays_work_get_tricky_with_for"
+    ],
+    [
+      "How Go Arrays Work and Get Tricky with For-Range",
+      "https://victoriametrics.com/blog/go-array/"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 21:51:09",
       "https://lobste.rs/s/d2qryv/default_large_modules"
     ],
@@ -157,16 +167,6 @@
     [
       "Once Upon a Lazy Init",
       "https://codeandbitters.com/once-upon-a-lazy-init/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 09:03:35",
-      "https://lobste.rs/s/ytfapv/extending_diagnostic_tool_attribute"
-    ],
-    [
-      "Extending the #[diagnostic] tool attribute namespace",
-      "https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/"
     ]
   ],
   [
