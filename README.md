@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-03, 07:25:43](https://lobste.rs/s/biophl/panic_at_async_runtime_shutdown) - [Panic! At The Async Runtime Shutdown](https://www.mattkeeter.com/blog/2024-08-01-panic/)
 * [2024-08-03, 05:38:58](https://lobste.rs/s/abx2kz/eron_wolf_interviews_andreas_kling_about) - [Eron Wolf Interviews Andreas Kling About the Ladybird Browser](https://www.youtube.com/watch?v=4xhaAAcKLtI)
 * [2024-08-03, 05:32:47](https://lobste.rs/s/b6zmjf/reduce_allocations_comparison) - [Reduce allocations and comparison performance with the new unique package in Go 1.23](https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23)
 * [2024-08-03, 04:58:25](https://lobste.rs/s/ohawyz/how_go_arrays_work_get_tricky_with_for) - [How Go Arrays Work and Get Tricky with For-Range](https://victoriametrics.com/blog/go-array/)
 * [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
 * [2024-08-02, 21:23:23](https://lobste.rs/s/vthkpw/manifest_py) - [manifest.py](https://pypi.org/project/manifest/)
-* [2024-08-02, 18:35:10](https://lobste.rs/s/izax1k/trying_mostly_failing_optimize_frustum) - [Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine](https://blog.paavo.me/demo-engine-part-1/)
 * [2024-08-02, 17:50:27](https://lobste.rs/s/cf6vqa/streams_calculational_proofs_dafny) - [Streams, Calculational Proofs and Dafny](https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html)
 * [2024-08-02, 17:43:43](https://lobste.rs/s/e3ynxy/archiving_syndicating_mastodon_posts) - [Archiving and syndicating Mastodon posts](https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/)
 * [2024-08-02, 16:57:53](https://lobste.rs/s/g6qyz3/squatting_npm_for_remote_code_execution) - [Squatting NPM for remote code execution](https://www.alxndrsn.com/2024-08-01-npx-binary-confusion/)
