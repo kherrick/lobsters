@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-03, 04:58:25](https://lobste.rs/s/ohawyz/how_go_arrays_work_get_tricky_with_for) - [How Go Arrays Work and Get Tricky with For-Range](https://victoriametrics.com/blog/go-array/)
 * [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
 * [2024-08-02, 21:23:23](https://lobste.rs/s/vthkpw/manifest_py) - [manifest.py](https://pypi.org/project/manifest/)
 * [2024-08-02, 18:35:10](https://lobste.rs/s/izax1k/trying_mostly_failing_optimize_frustum) - [Trying and mostly failing to optimize frustum culling in a WebGL + TS + Rust engine](https://blog.paavo.me/demo-engine-part-1/)
@@ -16,7 +17,6 @@
 * [2024-08-02, 12:53:31](https://lobste.rs/s/gruxeg/epicenv_local_environment_variable) - [EpicEnv: A local environment variable manager for Git](https://github.com/danthegoodman1/EpicEnv)
 * [2024-08-02, 12:26:26](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend)
 * [2024-08-02, 11:36:37](https://lobste.rs/s/mptzyp/once_upon_lazy_init) - [Once Upon a Lazy Init](https://codeandbitters.com/once-upon-a-lazy-init/)
-* [2024-08-02, 09:03:35](https://lobste.rs/s/ytfapv/extending_diagnostic_tool_attribute) - [Extending the #[diagnostic] tool attribute namespace](https://blog.weiznich.de/blog/diagnostic-namespace-do-not-recommend/)
 * [2024-08-02, 06:00:43](https://lobste.rs/s/tqbtyq/effect_crts_on_pixel_art) - [The Effect of CRTs on Pixel Art](https://www.datagubbe.se/crt/)
 * [2024-08-01, 22:32:10](https://lobste.rs/s/ahmi0i/quick_bits_realise_nix_symlinks) - [Quick bits: realise Nix symlinks](https://kokada.capivaras.dev/blog/quick-bits-realise-nix-symlinks/)
 * [2024-08-01, 21:01:37](https://lobste.rs/s/ky4li4/simply_typed_lambda_calculus_datalog) - [Simply Typed Lambda Calculus in Datalog](https://hg.sr.ht/~icefox/pancake/browse/src/main.rs?rev=simply-typed-lambda-calculus)
