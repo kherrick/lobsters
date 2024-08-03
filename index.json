@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-03, 16:59:01",
+      "https://lobste.rs/s/t82c7k/back_dating_git_commits_based_on_file"
+    ],
+    [
+      "Back-dating Git commits based on file modification dates",
+      "https://til.simonwillison.net/git/backdate-git-commits"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 16:54:06",
+      "https://lobste.rs/s/kumzku/clang_vs_clang"
+    ],
+    [
+      "Clang vs. Clang",
+      "https://blog.cr.yp.to/20240803-clang.html"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 16:37:31",
       "https://lobste.rs/s/xy48re/versioning_as_communication"
     ],
@@ -37,16 +57,6 @@
     [
       "A Knownbits Abstract Domain for the Toy Optimizer, Correctly",
       "https://pypy.org/posts/2024/08/toy-knownbits.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 14:27:53",
-      "https://lobste.rs/s/wp3sz0/clinic_publishes_update_security"
-    ],
-    [
-      "Clinic Publishes Update to Security Researcher’s Guide to Legal Risk",
-      "https://clinic.cyber.harvard.edu/2024/08/02/clinic-publishes-update-to-security-researchers-guide-to-legal-risk/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Supercharged labels – Gleam v1.4.0",
       "https://gleam.run/news/supercharged-labels/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 16:02:43",
-      "https://lobste.rs/s/dwobzi/formally_verifying_security_properties"
-    ],
-    [
-      "Formally verifying security properties of CHERI processors",
-      "https://cheriot.org/formal/verification/security/2024/08/02/meltdown-style-vulnerabilities.html"
     ]
   ],
   [
