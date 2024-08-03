@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-03, 12:53:43](https://lobste.rs/s/q3tbgy/github_profile_roast) - [GitHub Profile Roast](https://github-roast.pages.dev/)
+* [2024-08-03, 13:50:04](https://lobste.rs/s/0f5opo/racket_meet_up_saturday_3_august_2024_at_18) - [Racket meet-up: Saturday, 3 August, 2024 at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-3-august-2024-at-18-00-utc/3073)
+* [2024-08-03, 13:49:13](https://lobste.rs/s/botlkp/primitive_recursive_functions_for) - [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:23:16](https://lobste.rs/s/ivftju/tzero_social_timeboxing_for_irc_channels) - [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 * [2024-08-03, 08:48:32](https://lobste.rs/s/3rd2h7/there_is_only_one_test) - [There is only one test](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
 * [2024-08-03, 08:28:46](https://lobste.rs/s/c9lfjt/desugaring_haskell_s_do_notation_into) - [Desugaring Haskell's do-Notation into Applicative Operations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/desugaring-haskell-haskell16.pdf)
@@ -24,7 +25,6 @@
 * [2024-08-02, 12:26:26](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/1xf6ck/what_are_you_doing_this_weekend)
 * [2024-08-02, 06:00:43](https://lobste.rs/s/tqbtyq/effect_crts_on_pixel_art) - [The Effect of CRTs on Pixel Art](https://www.datagubbe.se/crt/)
 * [2024-08-01, 19:58:48](https://lobste.rs/s/95rdm1/announcing_bsd_jumpstart) - [Announcing BSD Jumpstart](https://www.bsdjumpstart.org)
-* [2024-08-01, 19:29:41](https://lobste.rs/s/2gqttr/passing_torches_austin_cherry) - [Passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 
 ## [Archives](archives/index.md)
 
