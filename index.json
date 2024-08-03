@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 16:29:22",
+      "https://lobste.rs/s/quitps/go_debug_your_core_dumps_somewhere_else"
+    ],
+    [
+      "Go debug your core dumps somewhere else",
+      "https://trace.yshui.dev/2024-08-copy-core-dumps.html"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 15:35:06",
       "https://lobste.rs/s/wvzsks/towards_userspaceification_posix_part_i"
     ],
@@ -177,16 +187,6 @@
     [
       "Formally verifying security properties of CHERI processors",
       "https://cheriot.org/formal/verification/security/2024/08/02/meltdown-style-vulnerabilities.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 16:01:03",
-      "https://lobste.rs/s/gmzu40/romhacking_net_moves_news_only_database"
-    ],
-    [
-      "ROMhacking.net Moves to News Only, Database and File Archive Released to Internet Archive",
-      "https://www.romhacking.net/forum/index.php?topic=39405"
     ]
   ],
   [
