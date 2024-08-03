@@ -5,7 +5,7 @@
 * [2024-08-03, 16:54:06](https://lobste.rs/s/kumzku/clang_vs_clang) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 16:37:31](https://lobste.rs/s/xy48re/versioning_as_communication) - [Versioning as Communication](https://xavd.id/blog/post/versioning-as-communication/)
 * [2024-08-03, 16:29:22](https://lobste.rs/s/quitps/go_debug_your_core_dumps_somewhere_else) - [Go debug your core dumps somewhere else](https://trace.yshui.dev/2024-08-copy-core-dumps.html)
-* [2024-08-03, 15:35:06](https://lobste.rs/s/wvzsks/towards_userspaceification_posix_part_i) - [Towards userspaceification of POSIX - part I: signal handling and IO - Redox - Your Next(Gen) OS](https://www.redox-os.org/news/kernel-11/)
+* [2024-08-03, 15:35:06](https://lobste.rs/s/wvzsks/towards_userspaceification_posix_part_i) - [Towards userspaceification of POSIX - part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-03, 15:33:56](https://lobste.rs/s/adgibl/knownbits_abstract_domain_for_toy) - [A Knownbits Abstract Domain for the Toy Optimizer, Correctly](https://pypy.org/posts/2024/08/toy-knownbits.html)
 * [2024-08-03, 13:57:02](https://lobste.rs/s/f7dhkx/we_ran_out_columns_best_worst_codebase) - [\"We ran out of columns\" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-03, 13:50:04](https://lobste.rs/s/0f5opo/racket_meet_up_saturday_3_august_2024_at_18) - [Racket meet-up: Saturday, 3 August, 2024 at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-3-august-2024-at-18-00-utc/3073)
