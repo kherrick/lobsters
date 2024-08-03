@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-08-02, 16:35:49",
+      "https://lobste.rs/s/q7s1xm/compress_video_by_90_without_losing_much"
+    ],
+    [
+      "Compress video by 90% without losing much quality, similar to what Pied Piper achieves",
+      "https://github.com/jiacai2050/video-compress"
+    ]
+  ],
+  [
+    [
       "2024-08-02, 16:02:43",
       "https://lobste.rs/s/dwobzi/formally_verifying_security_properties"
     ],
@@ -237,16 +247,6 @@
     [
       "Passing torches to Austin and Cherry",
       "https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw"
-    ]
-  ],
-  [
-    [
-      "2024-08-01, 14:44:41",
-      "https://lobste.rs/s/agdrwp/rendering_my_website_with_servo_track"
-    ],
-    [
-      "Rendering my website with Servo to track progress",
-      "https://servo.arch.dog/"
     ]
   ]
 ]
