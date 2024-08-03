@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-03, 14:27:53",
+      "https://lobste.rs/s/wp3sz0/clinic_publishes_update_security"
+    ],
+    [
+      "Clinic Publishes Update to Security Researcher’s Guide to Legal Risk",
+      "https://clinic.cyber.harvard.edu/2024/08/02/clinic-publishes-update-to-security-researchers-guide-to-legal-risk/"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 13:57:02",
       "https://lobste.rs/s/f7dhkx/we_ran_out_columns_best_worst_codebase"
     ],
@@ -27,6 +37,16 @@
     [
       "Primitive Recursive Functions For A Working Programmer",
       "https://matklad.github.io/2024/08/01/primitive-recursive-functions.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-03, 12:53:43",
+      "https://lobste.rs/s/q3tbgy/github_profile_roast"
+    ],
+    [
+      "GitHub Profile Roast",
+      "https://github-roast.pages.dev/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-08-02, 17:50:27",
-      "https://lobste.rs/s/cf6vqa/streams_calculational_proofs_dafny"
-    ],
-    [
-      "Streams, Calculational Proofs and Dafny",
-      "https://rdivyanshu.github.io/posts/2024/08/streams-calculation-proof-and-dafny.html"
-    ]
-  ],
-  [
-    [
       "2024-08-02, 17:43:43",
       "https://lobste.rs/s/e3ynxy/archiving_syndicating_mastodon_posts"
     ],
@@ -197,16 +207,6 @@
     [
       "C is Turing complete",
       "https://dotat.at/@/2024-08-02-turing-c.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 14:04:08",
-      "https://lobste.rs/s/uuoilf/jvm_java_null_restricted_nullable_types"
-    ],
-    [
-      "JVM/Java: Null-Restricted and Nullable Types",
-      "https://bugs.openjdk.org/browse/JDK-8303099"
     ]
   ],
   [
