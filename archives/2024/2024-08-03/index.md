@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-03](index.md)
 
+* [2024-08-03, 20:29:49](https://lobste.rs/s/ndjlg4/what_would_it_take_recreate_bell_labs) - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 * [2024-08-03, 18:10:12](https://lobste.rs/s/clr7rw/reverse_engineering_59_pound_printer) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 16:59:01](https://lobste.rs/s/t82c7k/back_dating_git_commits_based_on_file) - [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)
 * [2024-08-03, 16:54:06](https://lobste.rs/s/kumzku/clang_vs_clang) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
