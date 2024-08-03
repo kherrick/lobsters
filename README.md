@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-03, 08:28:46](https://lobste.rs/s/c9lfjt/desugaring_haskell_s_do_notation_into) - [Desugaring Haskell's do-Notation into Applicative Operations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/desugaring-haskell-haskell16.pdf)
 * [2024-08-03, 07:25:43](https://lobste.rs/s/biophl/panic_at_async_runtime_shutdown) - [Panic! At The Async Runtime Shutdown](https://www.mattkeeter.com/blog/2024-08-01-panic/)
 * [2024-08-03, 05:38:58](https://lobste.rs/s/abx2kz/eron_wolf_interviews_andreas_kling_about) - [Eron Wolf Interviews Andreas Kling About the Ladybird Browser](https://www.youtube.com/watch?v=4xhaAAcKLtI)
 * [2024-08-03, 05:32:47](https://lobste.rs/s/b6zmjf/reduce_allocations_comparison) - [Reduce allocations and comparison performance with the new unique package in Go 1.23](https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23)
@@ -24,7 +25,6 @@
 * [2024-08-01, 19:58:48](https://lobste.rs/s/95rdm1/announcing_bsd_jumpstart) - [Announcing BSD Jumpstart](https://www.bsdjumpstart.org)
 * [2024-08-01, 19:29:41](https://lobste.rs/s/2gqttr/passing_torches_austin_cherry) - [Passing torches to Austin and Cherry](https://groups.google.com/g/golang-dev/c/0OqBkS2RzWw)
 * [2024-08-01, 14:44:41](https://lobste.rs/s/agdrwp/rendering_my_website_with_servo_track) - [Rendering my website with Servo to track progress](https://servo.arch.dog/)
-* [2024-08-01, 09:05:33](https://lobste.rs/s/trbl7y/story_about_jessica) - [A Story About Jessica](http://harihareswara.net/posts/2024/a-story-about-jessica-by-swiftonsecurity/)
 
 ## [Archives](archives/index.md)
 
