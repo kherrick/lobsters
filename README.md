@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 15:26:28](https://lobste.rs/s/okhhi6/you_can_contribute_kde_with_non_c_code) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 * [2024-08-04, 15:17:16](https://lobste.rs/s/jtc7ou/apple_iigs_megahertz_myth) - [The Apple IIGS Megahertz Myth](https://youtu.be/UDUQEKxfGEw)
 * [2024-08-04, 13:33:17](https://lobste.rs/s/3ybqkp/against_xmpp_omemo) - [Against XMPP+OMEMO](https://soatok.blog/2024/08/04/against-xmppomemo/)
 * [2024-08-04, 11:55:17](https://lobste.rs/s/dwamrf/invest_interfaces) - [Invest in Interfaces](https://luke.hsiao.dev/blog/investing-in-interfaces/)
@@ -13,7 +14,6 @@
 * [2024-08-03, 16:54:06](https://lobste.rs/s/kumzku/clang_vs_clang) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 16:37:31](https://lobste.rs/s/xy48re/versioning_as_communication) - [Versioning as Communication](https://xavd.id/blog/post/versioning-as-communication/)
 * [2024-08-03, 16:29:22](https://lobste.rs/s/quitps/go_debug_your_core_dumps_somewhere_else) - [Go debug your core dumps somewhere else](https://trace.yshui.dev/2024-08-copy-core-dumps.html)
-* [2024-08-03, 15:35:06](https://lobste.rs/s/wvzsks/towards_userspaceification_posix_part_i) - [Towards userspaceification of POSIX - part I: signal handling and IO](https://www.redox-os.org/news/kernel-11/)
 * [2024-08-03, 13:57:02](https://lobste.rs/s/f7dhkx/we_ran_out_columns_best_worst_codebase) - [\"We ran out of columns\" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 * [2024-08-03, 13:50:04](https://lobste.rs/s/0f5opo/racket_meet_up_saturday_3_august_2024_at_18) - [Racket meet-up: Saturday, 3 August, 2024 at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-3-august-2024-at-18-00-utc/3073)
 * [2024-08-03, 13:49:13](https://lobste.rs/s/botlkp/primitive_recursive_functions_for) - [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)

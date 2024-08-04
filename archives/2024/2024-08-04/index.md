@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 15:26:28](https://lobste.rs/s/okhhi6/you_can_contribute_kde_with_non_c_code) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 * [2024-08-04, 15:17:16](https://lobste.rs/s/jtc7ou/apple_iigs_megahertz_myth) - [The Apple IIGS Megahertz Myth](https://youtu.be/UDUQEKxfGEw)
 * [2024-08-04, 13:33:17](https://lobste.rs/s/3ybqkp/against_xmpp_omemo) - [Against XMPP+OMEMO](https://soatok.blog/2024/08/04/against-xmppomemo/)
 * [2024-08-04, 11:55:17](https://lobste.rs/s/dwamrf/invest_interfaces) - [Invest in Interfaces](https://luke.hsiao.dev/blog/investing-in-interfaces/)
