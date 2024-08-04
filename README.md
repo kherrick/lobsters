@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
 * [2024-08-04, 18:17:57](https://lobste.rs/s/ublkoj/state_c_package_management_big_three) - [The state of C++ package management: The big three](https://twdev.blog/2024/08/cpp_pkgmng1/)
 * [2024-08-04, 18:14:17](https://lobste.rs/s/8bo343/opaque_pointer_pattern_c) - [Opaque Pointer Pattern in C++](https://danielsieger.com/blog/2024/08/02/cpp-opaque-pointer-pattern.html)
 * [2024-08-04, 17:52:57](https://lobste.rs/s/symhsg/sunday_setups) - [Sunday setups](https://jpmens.net/2024/08/04/sunday-setups/)
@@ -24,7 +25,6 @@
 * [2024-08-03, 13:49:13](https://lobste.rs/s/botlkp/primitive_recursive_functions_for) - [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:53:43](https://lobste.rs/s/q3tbgy/github_profile_roast) - [GitHub Profile Roast](https://github-roast.pages.dev/)
 * [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
-* [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 
 ## [Archives](archives/index.md)
 

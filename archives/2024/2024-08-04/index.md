@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
 * [2024-08-04, 18:17:57](https://lobste.rs/s/ublkoj/state_c_package_management_big_three) - [The state of C++ package management: The big three](https://twdev.blog/2024/08/cpp_pkgmng1/)
 * [2024-08-04, 18:14:17](https://lobste.rs/s/8bo343/opaque_pointer_pattern_c) - [Opaque Pointer Pattern in C++](https://danielsieger.com/blog/2024/08/02/cpp-opaque-pointer-pattern.html)
 * [2024-08-04, 17:52:57](https://lobste.rs/s/symhsg/sunday_setups) - [Sunday setups](https://jpmens.net/2024/08/04/sunday-setups/)
