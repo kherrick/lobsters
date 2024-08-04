@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 19:37:56](https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool) - [10 Examples Why cURL is an Awesome CLI Tool | Martin Heinz | Personal Website & Blog](https://martinheinz.dev/blog/113)
 * [2024-08-04, 19:17:54](https://lobste.rs/s/akzqz6/embracing_dsls_ui_development) - [Embracing DSLs in UI Development](https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui)
 * [2024-08-04, 19:02:20](https://lobste.rs/s/fkqjvt/improving_generic_c2y) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
 * [2024-08-04, 18:58:44](https://lobste.rs/s/ybrfmy/nethsm_software_2_0_new_namespaces_900) - [NetHSM Software 2.0: New Namespaces, 900% Speed Gain](https://www.nitrokey.com/news/2024/nethsm-software-20-new-namespaces-900-speed-gain)
@@ -22,7 +23,6 @@
 * [2024-08-03, 16:54:06](https://lobste.rs/s/kumzku/clang_vs_clang) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 16:29:22](https://lobste.rs/s/quitps/go_debug_your_core_dumps_somewhere_else) - [Go debug your core dumps somewhere else](https://trace.yshui.dev/2024-08-copy-core-dumps.html)
 * [2024-08-03, 13:57:02](https://lobste.rs/s/f7dhkx/we_ran_out_columns_best_worst_codebase) - [\"We ran out of columns\" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
-* [2024-08-03, 13:49:13](https://lobste.rs/s/botlkp/primitive_recursive_functions_for) - [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:53:43](https://lobste.rs/s/q3tbgy/github_profile_roast) - [GitHub Profile Roast](https://github-roast.pages.dev/)
 * [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
 
