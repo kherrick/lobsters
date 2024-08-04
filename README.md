@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 10:48:28](https://lobste.rs/s/tjuxac/arrival_time_simple_powerful_progress) - [arrival-time: Simple and powerful progress time estimation (ETA)](https://github.com/vitonsky/arrival-time)
 * [2024-08-04, 01:19:11](https://lobste.rs/s/eusfjh/perfect_nas_solution) - [Perfect NAS Solution](https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/)
 * [2024-08-04, 00:26:28](https://lobste.rs/s/gq3lzf/multiplier_v2_code_indexer_specialized) - [Multiplier v2: Code indexer specialized for C/C++](https://github.com/trailofbits/multiplier/blob/main/docs/other-indexers.md)
 * [2024-08-03, 20:29:49](https://lobste.rs/s/ndjlg4/what_would_it_take_recreate_bell_labs) - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
@@ -20,7 +21,6 @@
 * [2024-08-03, 07:25:43](https://lobste.rs/s/biophl/panic_at_async_runtime_shutdown) - [Panic! At The Async Runtime Shutdown](https://www.mattkeeter.com/blog/2024-08-01-panic/)
 * [2024-08-03, 05:32:47](https://lobste.rs/s/b6zmjf/reduce_allocations_comparison) - [Reduce allocations and comparison performance with the new unique package in Go 1.23](https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23)
 * [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
-* [2024-08-02, 21:23:23](https://lobste.rs/s/vthkpw/manifest_py) - [manifest.py](https://pypi.org/project/manifest/)
 * [2024-08-02, 17:43:43](https://lobste.rs/s/e3ynxy/archiving_syndicating_mastodon_posts) - [Archiving and syndicating Mastodon posts](https://garrido.io/notes/archiving-and-syndicating-mastodon-posts/)
 * [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 14:57:17](https://lobste.rs/s/uxbvru/translating_all_c_rust_tractor) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
