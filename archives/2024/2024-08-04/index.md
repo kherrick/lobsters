@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 11:55:17](https://lobste.rs/s/dwamrf/invest_interfaces) - [Invest in Interfaces](https://luke.hsiao.dev/blog/investing-in-interfaces/)
+* [2024-08-04, 11:51:28](https://lobste.rs/s/mkfprt/difference_between_undefined_behavior) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
 * [2024-08-04, 11:36:52](https://lobste.rs/s/nzqruc/inkbase_programmable_ink) - [Inkbase: Programmable Ink](https://www.inkandswitch.com/inkbase/)
 * [2024-08-04, 10:48:28](https://lobste.rs/s/tjuxac/arrival_time_simple_powerful_progress) - [arrival-time: Simple and powerful progress time estimation (ETA)](https://github.com/vitonsky/arrival-time)
 * [2024-08-04, 01:19:11](https://lobste.rs/s/eusfjh/perfect_nas_solution) - [Perfect NAS Solution](https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/)

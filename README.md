@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 11:55:17](https://lobste.rs/s/dwamrf/invest_interfaces) - [Invest in Interfaces](https://luke.hsiao.dev/blog/investing-in-interfaces/)
+* [2024-08-04, 11:51:28](https://lobste.rs/s/mkfprt/difference_between_undefined_behavior) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
 * [2024-08-04, 11:36:52](https://lobste.rs/s/nzqruc/inkbase_programmable_ink) - [Inkbase: Programmable Ink](https://www.inkandswitch.com/inkbase/)
 * [2024-08-04, 10:48:28](https://lobste.rs/s/tjuxac/arrival_time_simple_powerful_progress) - [arrival-time: Simple and powerful progress time estimation (ETA)](https://github.com/vitonsky/arrival-time)
 * [2024-08-04, 01:19:11](https://lobste.rs/s/eusfjh/perfect_nas_solution) - [Perfect NAS Solution](https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/)
 * [2024-08-04, 00:26:28](https://lobste.rs/s/gq3lzf/multiplier_v2_code_indexer_specialized) - [Multiplier v2: Code indexer specialized for C/C++](https://github.com/trailofbits/multiplier/blob/main/docs/other-indexers.md)
-* [2024-08-03, 20:29:49](https://lobste.rs/s/ndjlg4/what_would_it_take_recreate_bell_labs) - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 * [2024-08-03, 18:10:12](https://lobste.rs/s/clr7rw/reverse_engineering_59_pound_printer) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 16:59:01](https://lobste.rs/s/t82c7k/back_dating_git_commits_based_on_file) - [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)
 * [2024-08-03, 16:54:06](https://lobste.rs/s/kumzku/clang_vs_clang) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
@@ -23,7 +24,6 @@
 * [2024-08-03, 05:32:47](https://lobste.rs/s/b6zmjf/reduce_allocations_comparison) - [Reduce allocations and comparison performance with the new unique package in Go 1.23](https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23)
 * [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
 * [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
-* [2024-08-02, 14:57:17](https://lobste.rs/s/uxbvru/translating_all_c_rust_tractor) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-08-02, 14:10:56](https://lobste.rs/s/7vjyq4/c_is_turing_complete) - [C is Turing complete](https://dotat.at/@/2024-08-02-turing-c.html)
 
 ## [Archives](archives/index.md)
