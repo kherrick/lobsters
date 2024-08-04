@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 16:38:04](https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for) - [The Internet is Broken: Idealistic Ideas for Building a GNU Network](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-04, 16:28:16](https://lobste.rs/s/j7hj3b/porting_my_javascript_game_engine_c_for_no) - [Porting my JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 16:08:23](https://lobste.rs/s/gvpzew/lisp_s_grandfather_paradox) - [Lisp's grandfather paradox](https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html)
 * [2024-08-04, 15:26:28](https://lobste.rs/s/okhhi6/you_can_contribute_kde_with_non_c_code) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
@@ -22,7 +23,6 @@
 * [2024-08-03, 12:53:43](https://lobste.rs/s/q3tbgy/github_profile_roast) - [GitHub Profile Roast](https://github-roast.pages.dev/)
 * [2024-08-03, 08:48:32](https://lobste.rs/s/3rd2h7/there_is_only_one_test) - [There is only one test](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
 * [2024-08-03, 08:28:46](https://lobste.rs/s/c9lfjt/desugaring_haskell_s_do_notation_into) - [Desugaring Haskell's do-Notation into Applicative Operations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/desugaring-haskell-haskell16.pdf)
-* [2024-08-03, 05:32:47](https://lobste.rs/s/b6zmjf/reduce_allocations_comparison) - [Reduce allocations and comparison performance with the new unique package in Go 1.23](https://josephwoodward.co.uk/2024/08/performance-improvements-unique-package-go-1-23)
 * [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
 * [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 

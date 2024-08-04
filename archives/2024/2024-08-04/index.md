@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 16:38:04](https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for) - [The Internet is Broken: Idealistic Ideas for Building a GNU Network](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-04, 16:28:16](https://lobste.rs/s/j7hj3b/porting_my_javascript_game_engine_c_for_no) - [Porting my JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 16:08:23](https://lobste.rs/s/gvpzew/lisp_s_grandfather_paradox) - [Lisp's grandfather paradox](https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html)
 * [2024-08-04, 15:26:28](https://lobste.rs/s/okhhi6/you_can_contribute_kde_with_non_c_code) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
