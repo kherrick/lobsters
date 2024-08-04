@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-04, 00:26:28",
+      "https://lobste.rs/s/gq3lzf/multiplier_v2_code_indexer_specialized"
+    ],
+    [
+      "Multiplier v2: Code indexer specialized for C/C++",
+      "https://github.com/trailofbits/multiplier/blob/main/docs/other-indexers.md"
+    ]
+  ],
+  [
+    [
       "2024-08-03, 20:29:49",
       "https://lobste.rs/s/ndjlg4/what_would_it_take_recreate_bell_labs"
     ],
@@ -237,16 +247,6 @@
     [
       "C is Turing complete",
       "https://dotat.at/@/2024-08-02-turing-c.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 13:05:20",
-      "https://lobste.rs/s/xo7a4v/simple_fast_value_semantics"
-    ],
-    [
-      "Simple fast value semantics",
-      "https://boomla.com/docs/simple-fast-value-semantics"
     ]
   ]
 ]
