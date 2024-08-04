@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 21:23:30](https://lobste.rs/s/fwcvec/color_picker_as_trusty_rebound_hobby) - [Color picker as a trusty rebound hobby project](https://hugodaniel.com/posts/color-picker/)
 * [2024-08-04, 21:12:10](https://lobste.rs/s/ompmqz/sqlpage_building_data_uis_entirely_sql) - [SQLPage - building data UIs entirely in SQL](https://github.com/lovasoa/SQLpage)
 * [2024-08-04, 20:47:58](https://lobste.rs/s/a52uw0/enum_class_improvements_for_c_17_c_20_c_23) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
 * [2024-08-04, 19:37:56](https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool) - [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
 * [2024-08-04, 19:17:54](https://lobste.rs/s/akzqz6/embracing_dsls_ui_development) - [Embracing DSLs in UI Development](https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui)
 * [2024-08-04, 19:02:20](https://lobste.rs/s/fkqjvt/improving_generic_c2y) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
 * [2024-08-04, 18:58:44](https://lobste.rs/s/ybrfmy/nethsm_software_2_0_new_namespaces_900) - [NetHSM Software 2.0: New Namespaces, 900% Speed Gain](https://www.nitrokey.com/news/2024/nethsm-software-20-new-namespaces-900-speed-gain)
-* [2024-08-04, 18:54:16](https://lobste.rs/s/prtluc/snes_coprocessors_dsp_1_friends) - [SNES coprocessors: DSP-1 and friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 * [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
 * [2024-08-04, 18:17:57](https://lobste.rs/s/ublkoj/state_c_package_management_big_three) - [The state of C++ package management: The big three](https://twdev.blog/2024/08/cpp_pkgmng1/)
 * [2024-08-04, 18:14:17](https://lobste.rs/s/8bo343/opaque_pointer_pattern_c) - [Opaque Pointer Pattern in C++](https://danielsieger.com/blog/2024/08/02/cpp-opaque-pointer-pattern.html)

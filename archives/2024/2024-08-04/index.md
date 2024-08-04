@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 21:23:30](https://lobste.rs/s/fwcvec/color_picker_as_trusty_rebound_hobby) - [Color picker as a trusty rebound hobby project](https://hugodaniel.com/posts/color-picker/)
 * [2024-08-04, 21:12:10](https://lobste.rs/s/ompmqz/sqlpage_building_data_uis_entirely_sql) - [SQLPage - building data UIs entirely in SQL](https://github.com/lovasoa/SQLpage)
 * [2024-08-04, 20:47:58](https://lobste.rs/s/a52uw0/enum_class_improvements_for_c_17_c_20_c_23) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
 * [2024-08-04, 19:37:56](https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool) - [10 Examples Why cURL is an Awesome CLI Tool | Martin Heinz | Personal Website & Blog](https://martinheinz.dev/blog/113)
