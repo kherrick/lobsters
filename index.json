@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-04, 11:55:17",
+      "https://lobste.rs/s/dwamrf/invest_interfaces"
+    ],
+    [
+      "Invest in Interfaces",
+      "https://luke.hsiao.dev/blog/investing-in-interfaces/"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 11:51:28",
+      "https://lobste.rs/s/mkfprt/difference_between_undefined_behavior"
+    ],
+    [
+      "The difference between undefined behavior and ill-formed C++ programs",
+      "https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 11:36:52",
       "https://lobste.rs/s/nzqruc/inkbase_programmable_ink"
     ],
@@ -37,16 +57,6 @@
     [
       "Multiplier v2: Code indexer specialized for C/C++",
       "https://github.com/trailofbits/multiplier/blob/main/docs/other-indexers.md"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 20:29:49",
-      "https://lobste.rs/s/ndjlg4/what_would_it_take_recreate_bell_labs"
-    ],
-    [
-      "What Would It Take to Recreate Bell Labs?",
-      "https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Supercharged labels – Gleam v1.4.0",
       "https://gleam.run/news/supercharged-labels/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 14:57:17",
-      "https://lobste.rs/s/uxbvru/translating_all_c_rust_tractor"
-    ],
-    [
-      "Translating All C to Rust (TRACTOR)",
-      "https://www.darpa.mil/program/translating-all-c-to-rust"
     ]
   ],
   [
