@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 00:26:28](https://lobste.rs/s/gq3lzf/multiplier_v2_code_indexer_specialized) - [Multiplier v2: Code indexer specialized for C/C++](https://github.com/trailofbits/multiplier/blob/main/docs/other-indexers.md)
 * [2024-08-03, 20:29:49](https://lobste.rs/s/ndjlg4/what_would_it_take_recreate_bell_labs) - [What Would It Take to Recreate Bell Labs?](https://www.construction-physics.com/p/what-would-it-take-to-recreate-bell)
 * [2024-08-03, 18:10:12](https://lobste.rs/s/clr7rw/reverse_engineering_59_pound_printer) - [Reverse engineering the 59-pound printer onboard the Space Shuttle](https://www.righto.com/2024/08/space-shuttle-interim-teleprinter.html)
 * [2024-08-03, 16:59:01](https://lobste.rs/s/t82c7k/back_dating_git_commits_based_on_file) - [Back-dating Git commits based on file modification dates](https://til.simonwillison.net/git/backdate-git-commits)
@@ -24,7 +25,6 @@
 * [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 * [2024-08-02, 14:57:17](https://lobste.rs/s/uxbvru/translating_all_c_rust_tractor) - [Translating All C to Rust (TRACTOR)](https://www.darpa.mil/program/translating-all-c-to-rust)
 * [2024-08-02, 14:10:56](https://lobste.rs/s/7vjyq4/c_is_turing_complete) - [C is Turing complete](https://dotat.at/@/2024-08-02-turing-c.html)
-* [2024-08-02, 13:05:20](https://lobste.rs/s/xo7a4v/simple_fast_value_semantics) - [Simple fast value semantics](https://boomla.com/docs/simple-fast-value-semantics)
 
 ## [Archives](archives/index.md)
 
