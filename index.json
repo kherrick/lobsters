@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-04, 19:02:20",
+      "https://lobste.rs/s/fkqjvt/improving_generic_c2y"
+    ],
+    [
+      "Improving _Generic in C2y",
+      "https://thephd.dev/improving-_generic-in-c2y"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 18:58:44",
+      "https://lobste.rs/s/ybrfmy/nethsm_software_2_0_new_namespaces_900"
+    ],
+    [
+      "NetHSM Software 2.0: New Namespaces, 900% Speed Gain",
+      "https://www.nitrokey.com/news/2024/nethsm-software-20-new-namespaces-900-speed-gain"
+    ]
+  ],
+  [
+    [
+      "2024-08-04, 18:54:16",
+      "https://lobste.rs/s/prtluc/snes_coprocessors_dsp_1_friends"
+    ],
+    [
+      "SNES coprocessors: DSP-1 and friends",
+      "https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 18:49:24",
       "https://lobste.rs/s/3cubs0/praise_my_github_profile"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-08-04, 00:26:28",
-      "https://lobste.rs/s/gq3lzf/multiplier_v2_code_indexer_specialized"
-    ],
-    [
-      "Multiplier v2: Code indexer specialized for C/C++",
-      "https://github.com/trailofbits/multiplier/blob/main/docs/other-indexers.md"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 18:10:12",
       "https://lobste.rs/s/clr7rw/reverse_engineering_59_pound_printer"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-08-03, 16:59:01",
-      "https://lobste.rs/s/t82c7k/back_dating_git_commits_based_on_file"
-    ],
-    [
-      "Back-dating Git commits based on file modification dates",
-      "https://til.simonwillison.net/git/backdate-git-commits"
-    ]
-  ],
-  [
-    [
       "2024-08-03, 16:54:06",
       "https://lobste.rs/s/kumzku/clang_vs_clang"
     ],
     [
       "Clang vs. Clang",
       "https://blog.cr.yp.to/20240803-clang.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 16:37:31",
-      "https://lobste.rs/s/xy48re/versioning_as_communication"
-    ],
-    [
-      "Versioning as Communication",
-      "https://xavd.id/blog/post/versioning-as-communication/"
     ]
   ],
   [
