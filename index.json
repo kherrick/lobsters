@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-04, 20:47:58",
+      "https://lobste.rs/s/a52uw0/enum_class_improvements_for_c_17_c_20_c_23"
+    ],
+    [
+      "Enum class improvements for C++17, C++20 and C++23",
+      "https://www.cppstories.com/2024/enum-improvements/"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 19:37:56",
       "https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool"
     ],
@@ -237,16 +247,6 @@
     [
       "GitHub Profile Roast",
       "https://github-roast.pages.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-08-02, 21:51:09",
-      "https://lobste.rs/s/d2qryv/default_large_modules"
-    ],
-    [
-      "Default To Large Modules",
-      "https://two-wrongs.com/decompose-into-larger-modules.html"
     ]
   ]
 ]
