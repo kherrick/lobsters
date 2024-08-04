@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 18:17:57](https://lobste.rs/s/ublkoj/state_c_package_management_big_three) - [The state of C++ package management: The big three](https://twdev.blog/2024/08/cpp_pkgmng1/)
+* [2024-08-04, 18:14:17](https://lobste.rs/s/8bo343/opaque_pointer_pattern_c) - [Opaque Pointer Pattern in C++](https://danielsieger.com/blog/2024/08/02/cpp-opaque-pointer-pattern.html)
 * [2024-08-04, 17:52:57](https://lobste.rs/s/symhsg/sunday_setups) - [Sunday setups](https://jpmens.net/2024/08/04/sunday-setups/)
 * [2024-08-04, 16:38:04](https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for) - [The Internet is Broken: Idealistic Ideas for Building a GNU Network](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-04, 16:28:16](https://lobste.rs/s/j7hj3b/porting_my_javascript_game_engine_c_for_no) - [Porting my JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
@@ -19,10 +21,8 @@
 * [2024-08-03, 16:37:31](https://lobste.rs/s/xy48re/versioning_as_communication) - [Versioning as Communication](https://xavd.id/blog/post/versioning-as-communication/)
 * [2024-08-03, 16:29:22](https://lobste.rs/s/quitps/go_debug_your_core_dumps_somewhere_else) - [Go debug your core dumps somewhere else](https://trace.yshui.dev/2024-08-copy-core-dumps.html)
 * [2024-08-03, 13:57:02](https://lobste.rs/s/f7dhkx/we_ran_out_columns_best_worst_codebase) - [\"We ran out of columns\" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
-* [2024-08-03, 13:50:04](https://lobste.rs/s/0f5opo/racket_meet_up_saturday_3_august_2024_at_18) - [Racket meet-up: Saturday, 3 August, 2024 at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-3-august-2024-at-18-00-utc/3073)
 * [2024-08-03, 13:49:13](https://lobste.rs/s/botlkp/primitive_recursive_functions_for) - [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:53:43](https://lobste.rs/s/q3tbgy/github_profile_roast) - [GitHub Profile Roast](https://github-roast.pages.dev/)
-* [2024-08-03, 08:48:32](https://lobste.rs/s/3rd2h7/there_is_only_one_test) - [There is only one test](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
 * [2024-08-02, 21:51:09](https://lobste.rs/s/d2qryv/default_large_modules) - [Default To Large Modules](https://two-wrongs.com/decompose-into-larger-modules.html)
 * [2024-08-02, 16:50:14](https://lobste.rs/s/yanrtu/supercharged_labels_gleam_v1_4_0) - [Supercharged labels – Gleam v1.4.0](https://gleam.run/news/supercharged-labels/)
 
