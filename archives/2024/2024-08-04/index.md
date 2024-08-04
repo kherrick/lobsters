@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-04](index.md)
 
+* [2024-08-04, 19:17:54](https://lobste.rs/s/akzqz6/embracing_dsls_ui_development) - [Embracing DSLs in UI Development](https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui)
 * [2024-08-04, 19:02:20](https://lobste.rs/s/fkqjvt/improving_generic_c2y) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
 * [2024-08-04, 18:58:44](https://lobste.rs/s/ybrfmy/nethsm_software_2_0_new_namespaces_900) - [NetHSM Software 2.0: New Namespaces, 900% Speed Gain](https://www.nitrokey.com/news/2024/nethsm-software-20-new-namespaces-900-speed-gain)
 * [2024-08-04, 18:54:16](https://lobste.rs/s/prtluc/snes_coprocessors_dsp_1_friends) - [SNES coprocessors: DSP-1 and friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
