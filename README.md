@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-04, 19:37:56](https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool) - [10 Examples Why cURL is an Awesome CLI Tool | Martin Heinz | Personal Website & Blog](https://martinheinz.dev/blog/113)
+* [2024-08-04, 19:37:56](https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool) - [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
 * [2024-08-04, 19:17:54](https://lobste.rs/s/akzqz6/embracing_dsls_ui_development) - [Embracing DSLs in UI Development](https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui)
 * [2024-08-04, 19:02:20](https://lobste.rs/s/fkqjvt/improving_generic_c2y) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
 * [2024-08-04, 18:58:44](https://lobste.rs/s/ybrfmy/nethsm_software_2_0_new_namespaces_900) - [NetHSM Software 2.0: New Namespaces, 900% Speed Gain](https://www.nitrokey.com/news/2024/nethsm-software-20-new-namespaces-900-speed-gain)
