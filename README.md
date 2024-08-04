@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-04, 13:33:17](https://lobste.rs/s/3ybqkp/against_xmpp_omemo) - [Against XMPP+OMEMO](https://soatok.blog/2024/08/04/against-xmppomemo/)
 * [2024-08-04, 11:55:17](https://lobste.rs/s/dwamrf/invest_interfaces) - [Invest in Interfaces](https://luke.hsiao.dev/blog/investing-in-interfaces/)
 * [2024-08-04, 11:51:28](https://lobste.rs/s/mkfprt/difference_between_undefined_behavior) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
 * [2024-08-04, 11:36:52](https://lobste.rs/s/nzqruc/inkbase_programmable_ink) - [Inkbase: Programmable Ink](https://www.inkandswitch.com/inkbase/)
@@ -17,7 +18,6 @@
 * [2024-08-03, 13:50:04](https://lobste.rs/s/0f5opo/racket_meet_up_saturday_3_august_2024_at_18) - [Racket meet-up: Saturday, 3 August, 2024 at 18:00 UTC](https://racket.discourse.group/t/racket-meet-up-saturday-3-august-2024-at-18-00-utc/3073)
 * [2024-08-03, 13:49:13](https://lobste.rs/s/botlkp/primitive_recursive_functions_for) - [Primitive Recursive Functions For A Working Programmer](https://matklad.github.io/2024/08/01/primitive-recursive-functions.html)
 * [2024-08-03, 12:53:43](https://lobste.rs/s/q3tbgy/github_profile_roast) - [GitHub Profile Roast](https://github-roast.pages.dev/)
-* [2024-08-03, 12:23:16](https://lobste.rs/s/ivftju/tzero_social_timeboxing_for_irc_channels) - [Tzero: Social Timeboxing for IRC Channels](https://github.com/susam/tzero)
 * [2024-08-03, 08:48:32](https://lobste.rs/s/3rd2h7/there_is_only_one_test) - [There is only one test](https://allendowney.blogspot.com/2011/05/there-is-only-one-test.html)
 * [2024-08-03, 08:28:46](https://lobste.rs/s/c9lfjt/desugaring_haskell_s_do_notation_into) - [Desugaring Haskell's do-Notation into Applicative Operations](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/08/desugaring-haskell-haskell16.pdf)
 * [2024-08-03, 07:25:43](https://lobste.rs/s/biophl/panic_at_async_runtime_shutdown) - [Panic! At The Async Runtime Shutdown](https://www.mattkeeter.com/blog/2024-08-01-panic/)
