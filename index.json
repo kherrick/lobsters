@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-04, 23:12:08",
+      "https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos"
+    ],
+    [
+      "Debugging a rustc segfault on illumos",
+      "https://sunshowers.io/posts/rustc-segfault-illumos/"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 21:23:30",
       "https://lobste.rs/s/fwcvec/color_picker_as_trusty_rebound_hobby"
     ],
@@ -57,16 +67,6 @@
     [
       "Improving _Generic in C2y",
       "https://thephd.dev/improving-_generic-in-c2y"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 18:58:44",
-      "https://lobste.rs/s/ybrfmy/nethsm_software_2_0_new_namespaces_900"
-    ],
-    [
-      "NetHSM Software 2.0: New Namespaces, 900% Speed Gain",
-      "https://www.nitrokey.com/news/2024/nethsm-software-20-new-namespaces-900-speed-gain"
     ]
   ],
   [
