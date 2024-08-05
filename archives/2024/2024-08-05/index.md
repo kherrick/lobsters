@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 05:35:33](https://lobste.rs/s/nygzqi/upgrading_my_chumby_8_kernel_part_13_end) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
 * [2024-08-05, 05:34:13](https://lobste.rs/s/pm36jy/how_i_program_2024) - [How I program in 2024](http://akkartik.name/post/programming-2024)
 * [2024-08-05, 03:53:42](https://lobste.rs/s/2me6m8/ontario_s_computer_burroughs_icon) - [Ontario's Computer: The Burroughs ICON](https://jasoneckert.github.io/myblog/icon-computer/)

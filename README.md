@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 05:35:33](https://lobste.rs/s/nygzqi/upgrading_my_chumby_8_kernel_part_13_end) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
 * [2024-08-05, 05:34:13](https://lobste.rs/s/pm36jy/how_i_program_2024) - [How I program in 2024](http://akkartik.name/post/programming-2024)
 * [2024-08-05, 03:53:42](https://lobste.rs/s/2me6m8/ontario_s_computer_burroughs_icon) - [Ontario's Computer: The Burroughs ICON](https://jasoneckert.github.io/myblog/icon-computer/)
@@ -14,7 +15,6 @@
 * [2024-08-04, 18:54:16](https://lobste.rs/s/prtluc/snes_coprocessors_dsp_1_friends) - [SNES coprocessors: DSP-1 and friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 * [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
 * [2024-08-04, 18:17:57](https://lobste.rs/s/ublkoj/state_c_package_management_big_three) - [The state of C++ package management: The big three](https://twdev.blog/2024/08/cpp_pkgmng1/)
-* [2024-08-04, 17:52:57](https://lobste.rs/s/symhsg/sunday_setups) - [Sunday setups](https://jpmens.net/2024/08/04/sunday-setups/)
 * [2024-08-04, 16:38:04](https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for) - [The Internet is Broken: Idealistic Ideas for Building a GNU Network](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-04, 16:28:16](https://lobste.rs/s/j7hj3b/porting_my_javascript_game_engine_c_for_no) - [Porting my JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
 * [2024-08-04, 16:08:23](https://lobste.rs/s/gvpzew/lisp_s_grandfather_paradox) - [Lisp's grandfather paradox](https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html)
