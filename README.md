@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 16:28:17](https://lobste.rs/s/t0fhmx/deno_package_paradox) - [The Deno Package Paradox](https://dbushell.com/2024/08/05/the-deno-package-paradox/)
+* [2024-08-05, 16:25:47](https://lobste.rs/s/byu3hv/hobby_robotics_resources) - [Hobby robotics resources](https://lobste.rs/s/byu3hv/hobby_robotics_resources)
 * [2024-08-05, 15:56:08](https://lobste.rs/s/ily9nh/you_should_use_ruby_on_rails_logger_block) - [You should use the Ruby on Rails logger block syntax](https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/)
 * [2024-08-05, 15:42:15](https://lobste.rs/s/mt4aze/tour_llvm_backend) - [A tour of the LLVM backend](https://artagnon.com/computing/compilers/backend)
 * [2024-08-05, 15:32:46](https://lobste.rs/s/a3m2sh/andy_warhol_s_lost_amiga_art_found) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [2024-08-05, 14:43:15](https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with) - [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
-* [2024-08-05, 13:57:44](https://lobste.rs/s/lootbp/short_summary_last_decades_data) - [A Short Summary of the Last Decades of Data Management](https://www.youtube.com/watch?v=-wCzn9gKoUk)
 * [2024-08-05, 12:10:21](https://lobste.rs/s/i0kbkr/hardenedbsd_july_2024_status_report) - [HardenedBSD July 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-08-03/hardenedbsd-july-2024-status-report)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
 * [2024-08-05, 10:29:44](https://lobste.rs/s/qqiqsw/how_get_create_postgresql) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
@@ -24,7 +25,6 @@
 * [2024-08-04, 16:38:04](https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for) - [The Internet is Broken: Idealistic Ideas for Building a GNU Network](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-04, 13:33:17](https://lobste.rs/s/3ybqkp/against_xmpp_omemo) - [Against XMPP+OMEMO](https://soatok.blog/2024/08/04/against-xmppomemo/)
 * [2024-08-04, 11:51:28](https://lobste.rs/s/mkfprt/difference_between_undefined_behavior) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
-* [2024-08-03, 13:57:02](https://lobste.rs/s/f7dhkx/we_ran_out_columns_best_worst_codebase) - [\"We ran out of columns\" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 
 ## [Archives](archives/index.md)
 

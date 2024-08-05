@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 16:28:17](https://lobste.rs/s/t0fhmx/deno_package_paradox) - [The Deno Package Paradox](https://dbushell.com/2024/08/05/the-deno-package-paradox/)
+* [2024-08-05, 16:25:47](https://lobste.rs/s/byu3hv/hobby_robotics_resources) - [Hobby robotics resources](https://lobste.rs/s/byu3hv/hobby_robotics_resources)
 * [2024-08-05, 15:56:08](https://lobste.rs/s/ily9nh/you_should_use_ruby_on_rails_logger_block) - [You should use the Ruby on Rails logger block syntax](https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/)
 * [2024-08-05, 15:42:15](https://lobste.rs/s/mt4aze/tour_llvm_backend) - [A tour of the LLVM backend](https://artagnon.com/computing/compilers/backend)
 * [2024-08-05, 15:32:46](https://lobste.rs/s/a3m2sh/andy_warhol_s_lost_amiga_art_found) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
