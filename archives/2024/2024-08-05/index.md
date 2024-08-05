@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 13:03:36](https://lobste.rs/s/oedmxr/what_is_ai_doing_our_humanity) - [What is AI doing to our humanity?](https://www.abc.net.au/listen/programs/philosopherszone/shannon-vallor-what-is-ai-doing-to-our-humanity-/104068090)
 * [2024-08-05, 12:10:21](https://lobste.rs/s/i0kbkr/hardenedbsd_july_2024_status_report) - [HardenedBSD July 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-08-03/hardenedbsd-july-2024-status-report)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
 * [2024-08-05, 10:29:44](https://lobste.rs/s/qqiqsw/how_get_create_postgresql) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
