@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 02:31:51](https://lobste.rs/s/ne9yuv/rubyist_s_walk_along_c_side) - [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
 * [2024-08-04, 23:12:08](https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos) - [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 * [2024-08-04, 21:23:30](https://lobste.rs/s/fwcvec/color_picker_as_trusty_rebound_hobby) - [Color picker as a trusty rebound hobby project](https://hugodaniel.com/posts/color-picker/)
 * [2024-08-04, 21:12:10](https://lobste.rs/s/ompmqz/sqlpage_building_data_uis_entirely_sql) - [SQLPage - building data UIs entirely in SQL](https://github.com/lovasoa/SQLpage)
@@ -20,7 +21,6 @@
 * [2024-08-04, 11:55:17](https://lobste.rs/s/dwamrf/invest_interfaces) - [Invest in Interfaces](https://luke.hsiao.dev/blog/investing-in-interfaces/)
 * [2024-08-04, 11:51:28](https://lobste.rs/s/mkfprt/difference_between_undefined_behavior) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
 * [2024-08-04, 11:36:52](https://lobste.rs/s/nzqruc/inkbase_programmable_ink) - [Inkbase: Programmable Ink](https://www.inkandswitch.com/inkbase/)
-* [2024-08-04, 10:48:28](https://lobste.rs/s/tjuxac/arrival_time_simple_powerful_progress) - [arrival-time: Simple and powerful progress time estimation (ETA)](https://github.com/vitonsky/arrival-time)
 * [2024-08-04, 01:19:11](https://lobste.rs/s/eusfjh/perfect_nas_solution) - [Perfect NAS Solution](https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/)
 * [2024-08-03, 16:54:06](https://lobste.rs/s/kumzku/clang_vs_clang) - [Clang vs. Clang](https://blog.cr.yp.to/20240803-clang.html)
 * [2024-08-03, 16:29:22](https://lobste.rs/s/quitps/go_debug_your_core_dumps_somewhere_else) - [Go debug your core dumps somewhere else](https://trace.yshui.dev/2024-08-copy-core-dumps.html)
