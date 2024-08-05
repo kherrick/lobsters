@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 12:10:21](https://lobste.rs/s/i0kbkr/hardenedbsd_july_2024_status_report) - [HardenedBSD July 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-08-03/hardenedbsd-july-2024-status-report)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
 * [2024-08-05, 10:29:44](https://lobste.rs/s/qqiqsw/how_get_create_postgresql) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
 * [2024-08-05, 09:32:46](https://lobste.rs/s/mvy54e/container_networking) - [Container networking](https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/)
@@ -18,7 +19,6 @@
 * [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
 * [2024-08-04, 16:38:04](https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for) - [The Internet is Broken: Idealistic Ideas for Building a GNU Network](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-04, 16:28:16](https://lobste.rs/s/j7hj3b/porting_my_javascript_game_engine_c_for_no) - [Porting my JavaScript Game Engine to C for No Reason](https://phoboslab.org/log/2024/08/high_impact)
-* [2024-08-04, 16:08:23](https://lobste.rs/s/gvpzew/lisp_s_grandfather_paradox) - [Lisp's grandfather paradox](https://danielsz.github.io/20240718T060528--lisps-grandfather-paradox__clojure_lisp_scheme.html)
 * [2024-08-04, 15:26:28](https://lobste.rs/s/okhhi6/you_can_contribute_kde_with_non_c_code) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 * [2024-08-04, 13:33:17](https://lobste.rs/s/3ybqkp/against_xmpp_omemo) - [Against XMPP+OMEMO](https://soatok.blog/2024/08/04/against-xmppomemo/)
 * [2024-08-04, 11:51:28](https://lobste.rs/s/mkfprt/difference_between_undefined_behavior) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
