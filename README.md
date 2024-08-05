@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 21:33:56](https://lobste.rs/s/pjgodz/emanuelef_daily_stars_explorer_released) - [Emanuelef/daily-stars-explorer released a feature to associate spikes to HackerNews posts](https://github.com/emanuelef/daily-stars-explorer/discussions/80#discussioncomment-10235804)
 * [2024-08-05, 21:25:51](https://lobste.rs/s/ezexzf/converting_ascii_strings_lower_case_at) - [Converting ASCII strings to lower case at crazy speeds with AVX-512](https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/)
 * [2024-08-05, 21:19:02](https://lobste.rs/s/6o9elb/radiance_cascades) - [Radiance Cascades](https://mini.gmshaders.com/p/radiance-cascades)
 * [2024-08-05, 20:29:14](https://lobste.rs/s/90q56s/beyond_good_evil_13th_mdisk) - [Beyond Good & Evil and the 13th MDisk](https://9214.github.io/13)
@@ -18,7 +19,6 @@
 * [2024-08-05, 05:35:33](https://lobste.rs/s/nygzqi/upgrading_my_chumby_8_kernel_part_13_end) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
 * [2024-08-05, 05:34:13](https://lobste.rs/s/pm36jy/how_i_program_2024) - [How I program in 2024](http://akkartik.name/post/programming-2024)
 * [2024-08-05, 03:53:42](https://lobste.rs/s/2me6m8/ontario_s_computer_burroughs_icon) - [Ontario's Computer: The Burroughs ICON](https://jasoneckert.github.io/myblog/icon-computer/)
-* [2024-08-05, 02:31:51](https://lobste.rs/s/ne9yuv/rubyist_s_walk_along_c_side) - [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
 * [2024-08-04, 23:12:08](https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos) - [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 * [2024-08-04, 21:23:30](https://lobste.rs/s/fwcvec/color_picker_as_trusty_rebound_hobby) - [Color picker as a trusty rebound hobby project](https://hugodaniel.com/posts/color-picker/)
 * [2024-08-04, 21:12:10](https://lobste.rs/s/ompmqz/sqlpage_building_data_uis_entirely_sql) - [SQLPage - building data UIs entirely in SQL](https://github.com/lovasoa/SQLpage)
