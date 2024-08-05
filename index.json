@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-05, 15:42:15",
+      "https://lobste.rs/s/mt4aze/tour_llvm_backend"
+    ],
+    [
+      "A tour of the LLVM backend",
+      "https://artagnon.com/computing/compilers/backend"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 15:32:46",
       "https://lobste.rs/s/a3m2sh/andy_warhol_s_lost_amiga_art_found"
     ],
@@ -197,16 +207,6 @@
     [
       "The Internet is Broken: Idealistic Ideas for Building a GNU Network",
       "https://www.w3.org/2014/strint/papers/65.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 15:26:28",
-      "https://lobste.rs/s/okhhi6/you_can_contribute_kde_with_non_c_code"
-    ],
-    [
-      "You can contribute to KDE with non-C++ code",
-      "https://rabbitictranslator.com/contribute-to-kde-without-cpp/"
     ]
   ],
   [
