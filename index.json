@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-05, 19:06:08",
+      "https://lobste.rs/s/rukmit/casio_vz_1_algorithms"
+    ],
+    [
+      "Casio VZ-1 algorithms",
+      "https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 16:25:47",
       "https://lobste.rs/s/byu3hv/hobby_robotics_resources"
     ],
@@ -237,16 +247,6 @@
     [
       "Against XMPP+OMEMO",
       "https://soatok.blog/2024/08/04/against-xmppomemo/"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 11:51:28",
-      "https://lobste.rs/s/mkfprt/difference_between_undefined_behavior"
-    ],
-    [
-      "The difference between undefined behavior and ill-formed C++ programs",
-      "https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091"
     ]
   ]
 ]
