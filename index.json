@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-05, 10:37:43",
+      "https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter"
+    ],
+    [
+      "skint: Cheap and fast R7RS Scheme interpreter",
+      "https://github.com/false-schemers/skint"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 10:29:44",
+      "https://lobste.rs/s/qqiqsw/how_get_create_postgresql"
+    ],
+    [
+      "How to Get or Create in PostgreSQL",
+      "https://hakibenita.com/postgresql-get-or-create"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 09:32:46",
       "https://lobste.rs/s/mvy54e/container_networking"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-08-04, 18:17:57",
-      "https://lobste.rs/s/ublkoj/state_c_package_management_big_three"
-    ],
-    [
-      "The state of C++ package management: The big three",
-      "https://twdev.blog/2024/08/cpp_pkgmng1/"
-    ]
-  ],
-  [
-    [
       "2024-08-04, 16:38:04",
       "https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Perfect NAS Solution",
       "https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/"
-    ]
-  ],
-  [
-    [
-      "2024-08-03, 16:29:22",
-      "https://lobste.rs/s/quitps/go_debug_your_core_dumps_somewhere_else"
-    ],
-    [
-      "Go debug your core dumps somewhere else",
-      "https://trace.yshui.dev/2024-08-copy-core-dumps.html"
     ]
   ],
   [
