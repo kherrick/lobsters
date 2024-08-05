@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 15:32:46](https://lobste.rs/s/a3m2sh/andy_warhol_s_lost_amiga_art_found) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [2024-08-05, 14:43:15](https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with) - [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
 * [2024-08-05, 13:57:44](https://lobste.rs/s/lootbp/short_summary_last_decades_data) - [A Short Summary of the Last Decades of Data Management • Hannes Mühleisen](https://www.youtube.com/watch?v=-wCzn9gKoUk)
 * [2024-08-05, 13:03:36](https://lobste.rs/s/oedmxr/what_is_ai_doing_our_humanity) - [What is AI doing to our humanity?](https://www.abc.net.au/listen/programs/philosopherszone/shannon-vallor-what-is-ai-doing-to-our-humanity-/104068090)
