@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 08:58:15](https://lobste.rs/s/o6fdni/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o6fdni/what_are_you_doing_this_week)
 * [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 05:35:33](https://lobste.rs/s/nygzqi/upgrading_my_chumby_8_kernel_part_13_end) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
 * [2024-08-05, 05:34:13](https://lobste.rs/s/pm36jy/how_i_program_2024) - [How I program in 2024](http://akkartik.name/post/programming-2024)
@@ -12,7 +13,6 @@
 * [2024-08-04, 19:37:56](https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool) - [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
 * [2024-08-04, 19:17:54](https://lobste.rs/s/akzqz6/embracing_dsls_ui_development) - [Embracing DSLs in UI Development](https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui)
 * [2024-08-04, 19:02:20](https://lobste.rs/s/fkqjvt/improving_generic_c2y) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
-* [2024-08-04, 18:54:16](https://lobste.rs/s/prtluc/snes_coprocessors_dsp_1_friends) - [SNES coprocessors: DSP-1 and friends](https://jsgroth.dev/blog/posts/snes-coprocessors-part-1/)
 * [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
 * [2024-08-04, 18:17:57](https://lobste.rs/s/ublkoj/state_c_package_management_big_three) - [The state of C++ package management: The big three](https://twdev.blog/2024/08/cpp_pkgmng1/)
 * [2024-08-04, 16:38:04](https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for) - [The Internet is Broken: Idealistic Ideas for Building a GNU Network](https://www.w3.org/2014/strint/papers/65.pdf)
