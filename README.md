@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 20:29:14](https://lobste.rs/s/90q56s/beyond_good_evil_13th_mdisk) - [Beyond Good & Evil and the 13th MDisk](https://9214.github.io/13)
 * [2024-08-05, 19:06:08](https://lobste.rs/s/rukmit/casio_vz_1_algorithms) - [Casio VZ-1 algorithms](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/)
 * [2024-08-05, 16:25:47](https://lobste.rs/s/byu3hv/hobby_robotics_resources) - [Hobby robotics resources](https://lobste.rs/s/byu3hv/hobby_robotics_resources)
 * [2024-08-05, 15:56:08](https://lobste.rs/s/ily9nh/you_should_use_ruby_on_rails_logger_block) - [You should use the Ruby on Rails logger block syntax](https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/)
@@ -23,7 +24,6 @@
 * [2024-08-04, 19:37:56](https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool) - [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
 * [2024-08-04, 19:17:54](https://lobste.rs/s/akzqz6/embracing_dsls_ui_development) - [Embracing DSLs in UI Development](https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui)
 * [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
-* [2024-08-04, 16:38:04](https://lobste.rs/s/nchvon/internet_is_broken_idealistic_ideas_for) - [The Internet is Broken: Idealistic Ideas for Building a GNU Network](https://www.w3.org/2014/strint/papers/65.pdf)
 * [2024-08-04, 13:33:17](https://lobste.rs/s/3ybqkp/against_xmpp_omemo) - [Against XMPP+OMEMO](https://soatok.blog/2024/08/04/against-xmppomemo/)
 
 ## [Archives](archives/index.md)

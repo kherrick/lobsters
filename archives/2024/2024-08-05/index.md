@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 20:29:14](https://lobste.rs/s/90q56s/beyond_good_evil_13th_mdisk) - [Beyond Good & Evil and the 13th MDisk](https://9214.github.io/13)
 * [2024-08-05, 19:06:08](https://lobste.rs/s/rukmit/casio_vz_1_algorithms) - [Casio VZ-1 algorithms](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/)
 * [2024-08-05, 16:28:17](https://lobste.rs/s/t0fhmx/deno_package_paradox) - [The Deno Package Paradox](https://dbushell.com/2024/08/05/the-deno-package-paradox/)
 * [2024-08-05, 16:25:47](https://lobste.rs/s/byu3hv/hobby_robotics_resources) - [Hobby robotics resources](https://lobste.rs/s/byu3hv/hobby_robotics_resources)
