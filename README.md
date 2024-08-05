@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 13:57:44](https://lobste.rs/s/lootbp/short_summary_last_decades_data) - [A Short Summary of the Last Decades of Data Management • Hannes Mühleisen](https://www.youtube.com/watch?v=-wCzn9gKoUk)
 * [2024-08-05, 13:03:36](https://lobste.rs/s/oedmxr/what_is_ai_doing_our_humanity) - [What is AI doing to our humanity?](https://www.abc.net.au/listen/programs/philosopherszone/shannon-vallor-what-is-ai-doing-to-our-humanity-/104068090)
 * [2024-08-05, 12:10:21](https://lobste.rs/s/i0kbkr/hardenedbsd_july_2024_status_report) - [HardenedBSD July 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-08-03/hardenedbsd-july-2024-status-report)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
@@ -22,7 +23,6 @@
 * [2024-08-04, 15:26:28](https://lobste.rs/s/okhhi6/you_can_contribute_kde_with_non_c_code) - [You can contribute to KDE with non-C++ code](https://rabbitictranslator.com/contribute-to-kde-without-cpp/)
 * [2024-08-04, 13:33:17](https://lobste.rs/s/3ybqkp/against_xmpp_omemo) - [Against XMPP+OMEMO](https://soatok.blog/2024/08/04/against-xmppomemo/)
 * [2024-08-04, 11:51:28](https://lobste.rs/s/mkfprt/difference_between_undefined_behavior) - [The difference between undefined behavior and ill-formed C++ programs](https://devblogs.microsoft.com/oldnewthing/20240802-00/?p=110091)
-* [2024-08-04, 11:36:52](https://lobste.rs/s/nzqruc/inkbase_programmable_ink) - [Inkbase: Programmable Ink](https://www.inkandswitch.com/inkbase/)
 * [2024-08-04, 01:19:11](https://lobste.rs/s/eusfjh/perfect_nas_solution) - [Perfect NAS Solution](https://vermaden.wordpress.com/2024/08/04/perfect-nas-solution/)
 * [2024-08-03, 13:57:02](https://lobste.rs/s/f7dhkx/we_ran_out_columns_best_worst_codebase) - [\"We ran out of columns\" - The best, worst codebase](https://jimmyhmiller.github.io/ugliest-beautiful-codebase)
 
