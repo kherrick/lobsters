@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 21:25:51](https://lobste.rs/s/ezexzf/converting_ascii_strings_lower_case_at) - [Converting ASCII strings to lower case at crazy speeds with AVX-512](https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/)
+* [2024-08-05, 21:19:02](https://lobste.rs/s/6o9elb/radiance_cascades) - [Radiance Cascades](https://mini.gmshaders.com/p/radiance-cascades)
 * [2024-08-05, 20:29:14](https://lobste.rs/s/90q56s/beyond_good_evil_13th_mdisk) - [Beyond Good & Evil and the 13th MDisk](https://9214.github.io/13)
 * [2024-08-05, 19:06:08](https://lobste.rs/s/rukmit/casio_vz_1_algorithms) - [Casio VZ-1 algorithms](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/)
 * [2024-08-05, 16:28:17](https://lobste.rs/s/t0fhmx/deno_package_paradox) - [The Deno Package Paradox](https://dbushell.com/2024/08/05/the-deno-package-paradox/)
