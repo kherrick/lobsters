@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-05, 03:53:42",
+      "https://lobste.rs/s/2me6m8/ontario_s_computer_burroughs_icon"
+    ],
+    [
+      "Ontario's Computer: The Burroughs ICON",
+      "https://jasoneckert.github.io/myblog/icon-computer/"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 02:31:51",
       "https://lobste.rs/s/ne9yuv/rubyist_s_walk_along_c_side"
     ],
@@ -107,16 +117,6 @@
     [
       "The state of C++ package management: The big three",
       "https://twdev.blog/2024/08/cpp_pkgmng1/"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 18:14:17",
-      "https://lobste.rs/s/8bo343/opaque_pointer_pattern_c"
-    ],
-    [
-      "Opaque Pointer Pattern in C++",
-      "https://danielsieger.com/blog/2024/08/02/cpp-opaque-pointer-pattern.html"
     ]
   ],
   [
