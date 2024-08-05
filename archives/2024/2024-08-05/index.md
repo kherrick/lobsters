@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 05:35:33](https://lobste.rs/s/nygzqi/upgrading_my_chumby_8_kernel_part_13_end) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
+* [2024-08-05, 05:34:13](https://lobste.rs/s/pm36jy/how_i_program_2024) - [How I program in 2024](http://akkartik.name/post/programming-2024)
 * [2024-08-05, 03:53:42](https://lobste.rs/s/2me6m8/ontario_s_computer_burroughs_icon) - [Ontario's Computer: The Burroughs ICON](https://jasoneckert.github.io/myblog/icon-computer/)
 * [2024-08-05, 02:31:51](https://lobste.rs/s/ne9yuv/rubyist_s_walk_along_c_side) - [A Rubyist's Walk Along the C-side](https://blog.peterzhu.ca/ruby-c-ext/)
