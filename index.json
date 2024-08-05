@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-05, 14:43:15",
+      "https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with"
+    ],
+    [
+      "Reliable JavaScript benchmarking with Tachometer",
+      "https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/"
+    ]
+  ],
+  [
+    [
       "2024-08-05, 13:57:44",
       "https://lobste.rs/s/lootbp/short_summary_last_decades_data"
     ],
@@ -167,16 +177,6 @@
     [
       "Embracing DSLs in UI Development",
       "https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 19:02:20",
-      "https://lobste.rs/s/fkqjvt/improving_generic_c2y"
-    ],
-    [
-      "Improving _Generic in C2y",
-      "https://thephd.dev/improving-_generic-in-c2y"
     ]
   ],
   [
