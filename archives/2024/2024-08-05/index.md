@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-05](index.md)
 
+* [2024-08-05, 09:32:46](https://lobste.rs/s/mvy54e/container_networking) - [Container networking](https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/)
 * [2024-08-05, 08:58:15](https://lobste.rs/s/o6fdni/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o6fdni/what_are_you_doing_this_week)
 * [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 05:35:33](https://lobste.rs/s/nygzqi/upgrading_my_chumby_8_kernel_part_13_end) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)

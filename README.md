@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-05, 09:32:46](https://lobste.rs/s/mvy54e/container_networking) - [Container networking](https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/)
 * [2024-08-05, 08:58:15](https://lobste.rs/s/o6fdni/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o6fdni/what_are_you_doing_this_week)
 * [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 05:35:33](https://lobste.rs/s/nygzqi/upgrading_my_chumby_8_kernel_part_13_end) - [Upgrading my Chumby 8 kernel part 13: the end](https://www.downtowndougbrown.com/2024/08/upgrading-my-chumby-8-kernel-part-13-the-end/)
@@ -9,7 +10,6 @@
 * [2024-08-04, 23:12:08](https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos) - [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 * [2024-08-04, 21:23:30](https://lobste.rs/s/fwcvec/color_picker_as_trusty_rebound_hobby) - [Color picker as a trusty rebound hobby project](https://hugodaniel.com/posts/color-picker/)
 * [2024-08-04, 21:12:10](https://lobste.rs/s/ompmqz/sqlpage_building_data_uis_entirely_sql) - [SQLPage - building data UIs entirely in SQL](https://github.com/lovasoa/SQLpage)
-* [2024-08-04, 20:47:58](https://lobste.rs/s/a52uw0/enum_class_improvements_for_c_17_c_20_c_23) - [Enum class improvements for C++17, C++20 and C++23](https://www.cppstories.com/2024/enum-improvements/)
 * [2024-08-04, 19:37:56](https://lobste.rs/s/oaxjmb/10_examples_why_curl_is_awesome_cli_tool) - [10 Examples Why cURL is an Awesome CLI Tool](https://martinheinz.dev/blog/113)
 * [2024-08-04, 19:17:54](https://lobste.rs/s/akzqz6/embracing_dsls_ui_development) - [Embracing DSLs in UI Development](https://slint.dev/blog/domain-specific-language-vs-imperative-for-ui)
 * [2024-08-04, 19:02:20](https://lobste.rs/s/fkqjvt/improving_generic_c2y) - [Improving _Generic in C2y](https://thephd.dev/improving-_generic-in-c2y)
