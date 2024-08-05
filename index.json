@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-05, 02:31:51",
+      "https://lobste.rs/s/ne9yuv/rubyist_s_walk_along_c_side"
+    ],
+    [
+      "A Rubyist's Walk Along the C-side",
+      "https://blog.peterzhu.ca/ruby-c-ext/"
+    ]
+  ],
+  [
+    [
       "2024-08-04, 23:12:08",
       "https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos"
     ],
@@ -197,16 +207,6 @@
     [
       "Inkbase: Programmable Ink",
       "https://www.inkandswitch.com/inkbase/"
-    ]
-  ],
-  [
-    [
-      "2024-08-04, 10:48:28",
-      "https://lobste.rs/s/tjuxac/arrival_time_simple_powerful_progress"
-    ],
-    [
-      "arrival-time: Simple and powerful progress time estimation (ETA)",
-      "https://github.com/vitonsky/arrival-time"
     ]
   ],
   [
