@@ -3,7 +3,6 @@
 * [2024-08-06, 06:59:33](https://lobste.rs/s/f4lmzq/judge_rules_google_is_monopolist_us) - [Judge rules that Google ‘is a monopolist’ in US antitrust case](https://www.theverge.com/2024/8/5/24155520/judge-rules-on-us-doj-v-google-antitrust-search-suit)
 * [2024-08-06, 06:16:30](https://lobste.rs/s/fraxbk/video_with_alpha_transparency_on_web) - [Video with alpha transparency on the web](https://jakearchibald.com/2024/video-with-transparency/)
 * [2024-08-06, 03:57:32](https://lobste.rs/s/tky0gp/state_knuckledragger_semi_automated) - [State of Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
-* [2024-08-06, 03:50:41](https://lobste.rs/s/ndtyua/simple_utility_script_which_allows_you) - [A simple utility script which allows you to analyze your python file](https://github.com/mraza007/python-file-analyzer/)
 * [2024-08-05, 22:00:12](https://lobste.rs/s/3ofva6/cat9_microdosing_each_contain) - [Cat9 Microdosing: Each and Contain](https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/)
 * [2024-08-05, 21:45:49](https://lobste.rs/s/alojvh/my_favorite_device_is_chromebook) - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 * [2024-08-05, 21:25:51](https://lobste.rs/s/ezexzf/converting_ascii_strings_lower_case_at) - [Converting ASCII strings to lower case at crazy speeds with AVX-512](https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/)
@@ -25,6 +24,7 @@
 * [2024-08-04, 21:23:30](https://lobste.rs/s/fwcvec/color_picker_as_trusty_rebound_hobby) - [Color picker as a trusty rebound hobby project](https://hugodaniel.com/posts/color-picker/)
 * [2024-08-04, 21:12:10](https://lobste.rs/s/ompmqz/sqlpage_building_data_uis_entirely_sql) - [SQLPage - building data UIs entirely in SQL](https://github.com/lovasoa/SQLpage)
 * [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
+* [2024-08-04, 13:33:17](https://lobste.rs/s/3ybqkp/against_xmpp_omemo) - [Against XMPP+OMEMO](https://soatok.blog/2024/08/04/against-xmppomemo/)
 
 ## [Archives](archives/index.md)
 
