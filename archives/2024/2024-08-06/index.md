@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 23:06:28](https://lobste.rs/s/bmzw6d/why_is_left_stick_sprint_so_unpleasant) - [Why is ‘Left Stick to Sprint’ so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
 * [2024-08-06, 20:54:16](https://lobste.rs/s/noksqa/vertical_label_placement) - [Vertical label placement](https://iamkate.com/code/vertical-label-placement/)
 * [2024-08-06, 17:28:24](https://lobste.rs/s/buzeyj/don_t_model_problem) - [Don't model the problem](https://www.youtube.com/watch?v=WcAWZGyB32U)
 * [2024-08-06, 17:07:05](https://lobste.rs/s/s9tsqe/you_are_helpful_mail_assistant_other) - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
