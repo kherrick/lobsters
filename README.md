@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-06, 20:54:16](https://lobste.rs/s/noksqa/vertical_label_placement) - [Vertical label placement](https://iamkate.com/code/vertical-label-placement/)
 * [2024-08-06, 17:28:24](https://lobste.rs/s/buzeyj/don_t_model_problem) - [Don't model the problem](https://www.youtube.com/watch?v=WcAWZGyB32U)
 * [2024-08-06, 17:07:05](https://lobste.rs/s/s9tsqe/you_are_helpful_mail_assistant_other) - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 * [2024-08-06, 17:00:03](https://lobste.rs/s/z1e1nq/what_heck_are_reverse_mapped_types) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
@@ -14,7 +15,6 @@
 * [2024-08-05, 21:25:51](https://lobste.rs/s/ezexzf/converting_ascii_strings_lower_case_at) - [Converting ASCII strings to lower case at crazy speeds with AVX-512](https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/)
 * [2024-08-05, 21:19:02](https://lobste.rs/s/6o9elb/radiance_cascades) - [Radiance Cascades](https://mini.gmshaders.com/p/radiance-cascades)
 * [2024-08-05, 20:29:14](https://lobste.rs/s/90q56s/beyond_good_evil_13th_mdisk) - [Beyond Good & Evil and the 13th MDisk](https://9214.github.io/13)
-* [2024-08-05, 19:06:08](https://lobste.rs/s/rukmit/casio_vz_1_algorithms) - [Casio VZ-1 algorithms](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/)
 * [2024-08-05, 16:25:47](https://lobste.rs/s/byu3hv/hobby_robotics_resources) - [Hobby robotics resources](https://lobste.rs/s/byu3hv/hobby_robotics_resources)
 * [2024-08-05, 15:56:08](https://lobste.rs/s/ily9nh/you_should_use_ruby_on_rails_logger_block) - [You should use the Ruby on Rails logger block syntax](https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/)
 * [2024-08-05, 15:32:46](https://lobste.rs/s/a3m2sh/andy_warhol_s_lost_amiga_art_found) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
