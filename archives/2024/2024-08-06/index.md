@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 17:07:05](https://lobste.rs/s/s9tsqe/you_are_helpful_mail_assistant_other) - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
+* [2024-08-06, 17:00:03](https://lobste.rs/s/z1e1nq/what_heck_are_reverse_mapped_types) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-06, 14:15:38](https://lobste.rs/s/ufxu8n/fair_source) - [Fair Source](https://fair.io/)
 * [2024-08-06, 14:01:38](https://lobste.rs/s/imgdoi/keygen_is_now_fair_source) - [Keygen is now Fair Source](https://keygen.sh/blog/keygen-is-now-fair-source/)
 * [2024-08-06, 13:35:19](https://lobste.rs/s/kfu1m6/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://arxiv.org/abs/2304.05028)

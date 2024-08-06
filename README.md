@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-06, 17:07:05](https://lobste.rs/s/s9tsqe/you_are_helpful_mail_assistant_other) - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
+* [2024-08-06, 17:00:03](https://lobste.rs/s/z1e1nq/what_heck_are_reverse_mapped_types) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-06, 14:15:38](https://lobste.rs/s/ufxu8n/fair_source) - [Fair Source](https://fair.io/)
 * [2024-08-06, 14:01:38](https://lobste.rs/s/imgdoi/keygen_is_now_fair_source) - [Keygen is now Fair Source](https://keygen.sh/blog/keygen-is-now-fair-source/)
 * [2024-08-06, 13:35:19](https://lobste.rs/s/kfu1m6/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://arxiv.org/abs/2304.05028)
@@ -15,7 +17,6 @@
 * [2024-08-05, 19:06:08](https://lobste.rs/s/rukmit/casio_vz_1_algorithms) - [Casio VZ-1 algorithms](https://blog.jacobvosmaer.nl/0029-vz-1-algorithms/)
 * [2024-08-05, 16:25:47](https://lobste.rs/s/byu3hv/hobby_robotics_resources) - [Hobby robotics resources](https://lobste.rs/s/byu3hv/hobby_robotics_resources)
 * [2024-08-05, 15:56:08](https://lobste.rs/s/ily9nh/you_should_use_ruby_on_rails_logger_block) - [You should use the Ruby on Rails logger block syntax](https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/)
-* [2024-08-05, 15:42:15](https://lobste.rs/s/mt4aze/tour_llvm_backend) - [A tour of the LLVM backend](https://artagnon.com/computing/compilers/backend)
 * [2024-08-05, 15:32:46](https://lobste.rs/s/a3m2sh/andy_warhol_s_lost_amiga_art_found) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [2024-08-05, 14:43:15](https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with) - [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
@@ -23,7 +24,6 @@
 * [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 05:34:13](https://lobste.rs/s/pm36jy/how_i_program_2024) - [How I program in 2024](http://akkartik.name/post/programming-2024)
 * [2024-08-04, 23:12:08](https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos) - [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
-* [2024-08-04, 21:12:10](https://lobste.rs/s/ompmqz/sqlpage_building_data_uis_entirely_sql) - [SQLPage - building data UIs entirely in SQL](https://github.com/lovasoa/SQLpage)
 * [2024-08-04, 18:49:24](https://lobste.rs/s/3cubs0/praise_my_github_profile) - [Praise my GitHub profile](https://praise-me.fly.dev/)
 
 ## [Archives](archives/index.md)
