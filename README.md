@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-06, 06:16:30](https://lobste.rs/s/fraxbk/video_with_alpha_transparency_on_web) - [Video with alpha transparency on the web](https://jakearchibald.com/2024/video-with-transparency/)
 * [2024-08-06, 03:57:32](https://lobste.rs/s/tky0gp/state_knuckledragger_semi_automated) - [State of Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-06, 03:50:41](https://lobste.rs/s/ndtyua/simple_utility_script_which_allows_you) - [A simple utility script which allows you to analyze your python file](https://github.com/mraza007/python-file-analyzer/)
 * [2024-08-05, 22:00:12](https://lobste.rs/s/3ofva6/cat9_microdosing_each_contain) - [Cat9 Microdosing: Each and Contain](https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/)
@@ -13,7 +14,6 @@
 * [2024-08-05, 15:42:15](https://lobste.rs/s/mt4aze/tour_llvm_backend) - [A tour of the LLVM backend](https://artagnon.com/computing/compilers/backend)
 * [2024-08-05, 15:32:46](https://lobste.rs/s/a3m2sh/andy_warhol_s_lost_amiga_art_found) - [Andy Warhol's lost Amiga art found](https://dfarq.homeip.net/andy-warhols-lost-amiga-art-found/)
 * [2024-08-05, 14:43:15](https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with) - [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
-* [2024-08-05, 12:10:21](https://lobste.rs/s/i0kbkr/hardenedbsd_july_2024_status_report) - [HardenedBSD July 2024 status report](https://hardenedbsd.org/article/shawn-webb/2024-08-03/hardenedbsd-july-2024-status-report)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
 * [2024-08-05, 10:29:44](https://lobste.rs/s/qqiqsw/how_get_create_postgresql) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
 * [2024-08-05, 09:32:46](https://lobste.rs/s/mvy54e/container_networking) - [Container networking](https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/)
