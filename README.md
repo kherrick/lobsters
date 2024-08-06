@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-06, 14:15:38](https://lobste.rs/s/ufxu8n/fair_source) - [Fair Source](https://fair.io/)
 * [2024-08-06, 14:01:38](https://lobste.rs/s/imgdoi/keygen_is_now_fair_source) - [Keygen is now Fair Source](https://keygen.sh/blog/keygen-is-now-fair-source/)
 * [2024-08-06, 13:35:19](https://lobste.rs/s/kfu1m6/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://arxiv.org/abs/2304.05028)
 * [2024-08-06, 13:11:38](https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
@@ -19,7 +20,6 @@
 * [2024-08-05, 14:43:15](https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with) - [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
 * [2024-08-05, 10:29:44](https://lobste.rs/s/qqiqsw/how_get_create_postgresql) - [How to Get or Create in PostgreSQL](https://hakibenita.com/postgresql-get-or-create)
-* [2024-08-05, 08:58:15](https://lobste.rs/s/o6fdni/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/o6fdni/what_are_you_doing_this_week)
 * [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
 * [2024-08-05, 05:34:13](https://lobste.rs/s/pm36jy/how_i_program_2024) - [How I program in 2024](http://akkartik.name/post/programming-2024)
 * [2024-08-04, 23:12:08](https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos) - [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)

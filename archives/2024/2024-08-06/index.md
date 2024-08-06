@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 14:15:38](https://lobste.rs/s/ufxu8n/fair_source) - [Fair Source](https://fair.io/)
 * [2024-08-06, 14:01:38](https://lobste.rs/s/imgdoi/keygen_is_now_fair_source) - [Keygen is now Fair Source](https://keygen.sh/blog/keygen-is-now-fair-source/)
 * [2024-08-06, 13:35:19](https://lobste.rs/s/kfu1m6/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://arxiv.org/abs/2304.05028)
 * [2024-08-06, 13:11:38](https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
