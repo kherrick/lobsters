@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-06](index.md)
 
+* [2024-08-06, 17:28:24](https://lobste.rs/s/buzeyj/don_t_model_problem) - [Don't model the problem](https://www.youtube.com/watch?v=WcAWZGyB32U)
 * [2024-08-06, 17:07:05](https://lobste.rs/s/s9tsqe/you_are_helpful_mail_assistant_other) - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 * [2024-08-06, 17:00:03](https://lobste.rs/s/z1e1nq/what_heck_are_reverse_mapped_types) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-06, 14:15:38](https://lobste.rs/s/ufxu8n/fair_source) - [Fair Source](https://fair.io/)
