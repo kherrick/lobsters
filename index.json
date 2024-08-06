@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-06, 13:35:19",
+      "https://lobste.rs/s/kfu1m6/empirical_evaluation_columnar_storage"
+    ],
+    [
+      "An Empirical Evaluation of Columnar Storage Formats",
+      "https://arxiv.org/abs/2304.05028"
+    ]
+  ],
+  [
+    [
       "2024-08-06, 13:11:38",
       "https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3"
     ],
@@ -167,16 +177,6 @@
     [
       "How to Get or Create in PostgreSQL",
       "https://hakibenita.com/postgresql-get-or-create"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 09:32:46",
-      "https://lobste.rs/s/mvy54e/container_networking"
-    ],
-    [
-      "Container networking",
-      "https://alesbrelih.dev/posts/2024-07-31-containers-and-network-namespaces/"
     ]
   ],
   [
