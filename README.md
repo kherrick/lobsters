@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-07, 09:36:13](https://lobste.rs/s/o1kjlv/sequoia_pgp_sovereign_tech_fund_s) - [Sequoia-PGP in the Sovereign Tech Fund's resilience program](https://neighbourhood.ie/blog/2024/08/07/nh-stf-s01e01-sequoia-pgp)
 * [2024-08-07, 08:47:23](https://lobste.rs/s/ctjozz/multitenancy_elixir_strategic_guide) - [Multitenancy in Elixir: A Strategic Guide](https://curiosum.com/blog/multitenancy-in-elixir)
 * [2024-08-07, 07:44:50](https://lobste.rs/s/ymdoxp/introducing_structured_outputs_api) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-07, 07:29:46](https://lobste.rs/s/bfwyht/cables) - [Cables](https://cables.gl)
@@ -19,7 +20,6 @@
 * [2024-08-06, 14:01:38](https://lobste.rs/s/imgdoi/keygen_is_now_fair_source) - [Keygen is now Fair Source](https://keygen.sh/blog/keygen-is-now-fair-source/)
 * [2024-08-06, 13:35:19](https://lobste.rs/s/kfu1m6/empirical_evaluation_columnar_storage) - [An Empirical Evaluation of Columnar Storage Formats](https://arxiv.org/abs/2304.05028)
 * [2024-08-06, 13:11:38](https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
-* [2024-08-06, 12:23:11](https://lobste.rs/s/gj8yxh/leaking_flags_from_filesystem_with) - [Leaking Flags from Filesystem with Spectre v1](https://www.willsroot.io/2024/08/just-a-dos-bug.html)
 * [2024-08-06, 06:16:30](https://lobste.rs/s/fraxbk/video_with_alpha_transparency_on_web) - [Video with alpha transparency on the web](https://jakearchibald.com/2024/video-with-transparency/)
 * [2024-08-06, 03:57:32](https://lobste.rs/s/tky0gp/state_knuckledragger_semi_automated) - [State of Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-05, 22:00:12](https://lobste.rs/s/3ofva6/cat9_microdosing_each_contain) - [Cat9 Microdosing: Each and Contain](https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/)
