@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-07, 12:04:53](https://lobste.rs/s/fwrosh/symbiosisware) - [Symbiosisware](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/symbiosisware/)
 * [2024-08-07, 11:13:00](https://lobste.rs/s/rcexlr/mnt_pocket_reform_first_impressions) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 * [2024-08-07, 09:36:13](https://lobste.rs/s/o1kjlv/sequoia_pgp_sovereign_tech_fund_s) - [Sequoia-PGP in the Sovereign Tech Fund's resilience program](https://neighbourhood.ie/blog/2024/08/07/nh-stf-s01e01-sequoia-pgp)
 * [2024-08-07, 08:47:23](https://lobste.rs/s/ctjozz/multitenancy_elixir_strategic_guide) - [Multitenancy in Elixir: A Strategic Guide](https://curiosum.com/blog/multitenancy-in-elixir)
@@ -9,7 +10,6 @@
 * [2024-08-07, 06:48:14](https://lobste.rs/s/qesvzl/primitive_obsession) - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
 * [2024-08-07, 05:48:18](https://lobste.rs/s/66tjgh/py_free_threading) - [py-free-threading](https://py-free-threading.github.io/)
 * [2024-08-07, 03:41:14](https://lobste.rs/s/chveiu/dual_boot_netbsd_archlinux) - [Dual-Boot NetBSD And Archlinux](https://vsis.online/posts/2024-07-18-uefi-netbsd-archlinux-dual-boot/)
-* [2024-08-07, 02:14:30](https://lobste.rs/s/4ie8or/full_text_search_over_postgres) - [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 * [2024-08-07, 02:10:26](https://lobste.rs/s/tsxcxu/hello_frink_2015) - [Hello Frink (2015)](http://ncreep.github.io/language_perils/blog/2015-01-08-hello-frink.html)
 * [2024-08-07, 01:37:03](https://lobste.rs/s/0lbn1n/crowdstrike_external_technical_root) - [Crowdstrike External Technical Root Cause Analysis](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
 * [2024-08-07, 00:00:31](https://lobste.rs/s/3boto7/first_impressions_gleam_lots_joys_some) - [First impressions of Gleam: lots of joys and some rough edges](https://ntietz.com/blog/first-impressions-of-gleam)
