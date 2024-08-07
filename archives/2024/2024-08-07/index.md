@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 18:15:34](https://lobste.rs/s/cv8w3h/look_inside_bpf_verifier) - [A look inside the BPF verifier](https://lwn.net/Articles/982077/)
+* [2024-08-07, 18:15:14](https://lobste.rs/s/zvlfnl/tony_hawk_s_pro_strcpy) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 17:42:13](https://lobste.rs/s/ezdsfw/how_talk_your_parents_about_hardware) - [How to talk to your parents about hardware memory safety](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 17:13:29](https://lobste.rs/s/vcflms/how_i_use_ai) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-07, 16:00:15](https://lobste.rs/s/g9ckys/building_programming_language_from_its) - [Building A Programming Language From Its Core](https://pod.link/developer-voices/episode/e47720e8c6dc3d16603b53081bde0cb1)
