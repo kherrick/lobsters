@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 08:47:23](https://lobste.rs/s/ctjozz/multitenancy_elixir_strategic_guide) - [Multitenancy in Elixir: A Strategic Guide](https://curiosum.com/blog/multitenancy-in-elixir)
 * [2024-08-07, 07:44:50](https://lobste.rs/s/ymdoxp/introducing_structured_outputs_api) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-07, 07:29:46](https://lobste.rs/s/bfwyht/cables) - [Cables](https://cables.gl)
 * [2024-08-07, 07:17:21](https://lobste.rs/s/q3afvj/translating_sqlfluff_rust) - [Translating sqlfluff to rust](https://www.quary.dev/blog/sqruff-launch)

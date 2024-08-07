@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-07, 08:47:23](https://lobste.rs/s/ctjozz/multitenancy_elixir_strategic_guide) - [Multitenancy in Elixir: A Strategic Guide](https://curiosum.com/blog/multitenancy-in-elixir)
 * [2024-08-07, 07:44:50](https://lobste.rs/s/ymdoxp/introducing_structured_outputs_api) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-07, 07:29:46](https://lobste.rs/s/bfwyht/cables) - [Cables](https://cables.gl)
 * [2024-08-07, 07:17:21](https://lobste.rs/s/q3afvj/translating_sqlfluff_rust) - [Translating sqlfluff to rust](https://www.quary.dev/blog/sqruff-launch)
@@ -24,7 +25,6 @@
 * [2024-08-05, 22:00:12](https://lobste.rs/s/3ofva6/cat9_microdosing_each_contain) - [Cat9 Microdosing: Each and Contain](https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/)
 * [2024-08-05, 21:45:49](https://lobste.rs/s/alojvh/my_favorite_device_is_chromebook) - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 * [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
-* [2024-08-04, 23:12:08](https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos) - [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 
 ## [Archives](archives/index.md)
 
