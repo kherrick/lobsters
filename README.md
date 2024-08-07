@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-07, 17:42:13](https://lobste.rs/s/ezdsfw/how_talk_your_parents_about_hardware) - [How to talk to your parents about hardware memory safety](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 17:13:29](https://lobste.rs/s/vcflms/how_i_use_ai) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2024-08-07, 16:00:15](https://lobste.rs/s/g9ckys/building_programming_language_from_its) - [Building A Programming Language From Its Core](https://pod.link/developer-voices/episode/e47720e8c6dc3d16603b53081bde0cb1)
 * [2024-08-07, 15:27:39](https://lobste.rs/s/8m33d8/zen5_s_avx512_teardown_more) - [Zen5's AVX512 Teardown + More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
@@ -23,7 +24,6 @@
 * [2024-08-06, 17:00:03](https://lobste.rs/s/z1e1nq/what_heck_are_reverse_mapped_types) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
 * [2024-08-06, 14:15:38](https://lobste.rs/s/ufxu8n/fair_source) - [Fair Source](https://fair.io/)
 * [2024-08-06, 13:11:38](https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
-* [2024-08-06, 06:16:30](https://lobste.rs/s/fraxbk/video_with_alpha_transparency_on_web) - [Video with alpha transparency on the web](https://jakearchibald.com/2024/video-with-transparency/)
 * [2024-08-05, 21:45:49](https://lobste.rs/s/alojvh/my_favorite_device_is_chromebook) - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 
 ## [Archives](archives/index.md)
