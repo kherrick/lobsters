@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-07, 16:00:15](https://lobste.rs/s/g9ckys/building_programming_language_from_its) - [Building A Programming Language From Its Core](https://pod.link/developer-voices/episode/e47720e8c6dc3d16603b53081bde0cb1)
 * [2024-08-07, 15:27:39](https://lobste.rs/s/8m33d8/zen5_s_avx512_teardown_more) - [Zen5's AVX512 Teardown + More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-07, 14:18:40](https://lobste.rs/s/bzbdhm/django_5_1_released) - [Django 5.1 released](https://www.djangoproject.com/weblog/2024/aug/07/django-51-released/)
 * [2024-08-07, 12:44:38](https://lobste.rs/s/gmjtvp/q_what_do_i_title_this_article) - [q What do I title this article?](https://two-wrongs.com/q)
@@ -17,7 +18,6 @@
 * [2024-08-07, 01:37:03](https://lobste.rs/s/0lbn1n/crowdstrike_external_technical_root) - [Crowdstrike External Technical Root Cause Analysis](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
 * [2024-08-07, 00:00:31](https://lobste.rs/s/3boto7/first_impressions_gleam_lots_joys_some) - [First impressions of Gleam: lots of joys and some rough edges](https://ntietz.com/blog/first-impressions-of-gleam)
 * [2024-08-06, 23:06:28](https://lobste.rs/s/bmzw6d/why_is_left_stick_sprint_so_unpleasant) - [Why is ‘Left Stick to Sprint’ so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
-* [2024-08-06, 20:54:16](https://lobste.rs/s/noksqa/vertical_label_placement) - [Vertical label placement](https://iamkate.com/code/vertical-label-placement/)
 * [2024-08-06, 17:28:24](https://lobste.rs/s/buzeyj/don_t_model_problem) - [Don't model the problem](https://www.youtube.com/watch?v=WcAWZGyB32U)
 * [2024-08-06, 17:07:05](https://lobste.rs/s/s9tsqe/you_are_helpful_mail_assistant_other) - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 * [2024-08-06, 17:00:03](https://lobste.rs/s/z1e1nq/what_heck_are_reverse_mapped_types) - [What the heck are reverse mapped types?](https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/)
