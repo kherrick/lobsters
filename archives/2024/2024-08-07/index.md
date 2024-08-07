@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 15:27:39](https://lobste.rs/s/8m33d8/zen5_s_avx512_teardown_more) - [Zen5's AVX512 Teardown + More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-07, 14:18:40](https://lobste.rs/s/bzbdhm/django_5_1_released) - [Django 5.1 released](https://www.djangoproject.com/weblog/2024/aug/07/django-51-released/)
 * [2024-08-07, 12:44:38](https://lobste.rs/s/gmjtvp/q_what_do_i_title_this_article) - [q What do I title this article?](https://two-wrongs.com/q)
 * [2024-08-07, 12:04:53](https://lobste.rs/s/fwrosh/symbiosisware) - [Symbiosisware](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/symbiosisware/)

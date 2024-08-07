@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-07, 15:27:39](https://lobste.rs/s/8m33d8/zen5_s_avx512_teardown_more) - [Zen5's AVX512 Teardown + More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-07, 14:18:40](https://lobste.rs/s/bzbdhm/django_5_1_released) - [Django 5.1 released](https://www.djangoproject.com/weblog/2024/aug/07/django-51-released/)
 * [2024-08-07, 12:44:38](https://lobste.rs/s/gmjtvp/q_what_do_i_title_this_article) - [q What do I title this article?](https://two-wrongs.com/q)
 * [2024-08-07, 12:04:53](https://lobste.rs/s/fwrosh/symbiosisware) - [Symbiosisware](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/symbiosisware/)
@@ -23,7 +24,6 @@
 * [2024-08-06, 14:01:38](https://lobste.rs/s/imgdoi/keygen_is_now_fair_source) - [Keygen is now Fair Source](https://keygen.sh/blog/keygen-is-now-fair-source/)
 * [2024-08-06, 13:11:38](https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
 * [2024-08-06, 06:16:30](https://lobste.rs/s/fraxbk/video_with_alpha_transparency_on_web) - [Video with alpha transparency on the web](https://jakearchibald.com/2024/video-with-transparency/)
-* [2024-08-05, 22:00:12](https://lobste.rs/s/3ofva6/cat9_microdosing_each_contain) - [Cat9 Microdosing: Each and Contain](https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/)
 * [2024-08-05, 21:45:49](https://lobste.rs/s/alojvh/my_favorite_device_is_chromebook) - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 
 ## [Archives](archives/index.md)
