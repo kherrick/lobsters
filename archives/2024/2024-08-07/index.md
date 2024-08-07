@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 03:41:14](https://lobste.rs/s/chveiu/dual_boot_netbsd_archlinux) - [Dual-Boot NetBSD And Archlinux](https://vsis.online/posts/2024-07-18-uefi-netbsd-archlinux-dual-boot/)
 * [2024-08-07, 02:14:30](https://lobste.rs/s/4ie8or/full_text_search_over_postgres) - [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 * [2024-08-07, 02:10:26](https://lobste.rs/s/tsxcxu/hello_frink_2015) - [Hello Frink (2015)](http://ncreep.github.io/language_perils/blog/2015-01-08-hello-frink.html)
 * [2024-08-07, 01:37:03](https://lobste.rs/s/0lbn1n/crowdstrike_external_technical_root) - [Crowdstrike External Technical Root Cause Analysis](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)

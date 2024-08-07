@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-07, 03:41:14](https://lobste.rs/s/chveiu/dual_boot_netbsd_archlinux) - [Dual-Boot NetBSD And Archlinux](https://vsis.online/posts/2024-07-18-uefi-netbsd-archlinux-dual-boot/)
 * [2024-08-07, 02:14:30](https://lobste.rs/s/4ie8or/full_text_search_over_postgres) - [Full Text Search over Postgres: Elasticsearch vs. Alternatives](https://blog.paradedb.com/pages/elasticsearch_vs_postgres)
 * [2024-08-07, 02:10:26](https://lobste.rs/s/tsxcxu/hello_frink_2015) - [Hello Frink (2015)](http://ncreep.github.io/language_perils/blog/2015-01-08-hello-frink.html)
 * [2024-08-07, 01:37:03](https://lobste.rs/s/0lbn1n/crowdstrike_external_technical_root) - [Crowdstrike External Technical Root Cause Analysis](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
@@ -23,7 +24,6 @@
 * [2024-08-05, 14:43:15](https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with) - [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
 * [2024-08-05, 08:27:34](https://lobste.rs/s/nlclpd/how_postgres_stores_data_on_disk_this_one_s) - [How Postgres stores data on disk – this one's a page turner](https://drew.silcock.dev/blog/how-postgres-stores-data-on-disk/)
-* [2024-08-05, 05:34:13](https://lobste.rs/s/pm36jy/how_i_program_2024) - [How I program in 2024](http://akkartik.name/post/programming-2024)
 * [2024-08-04, 23:12:08](https://lobste.rs/s/dnk3o6/debugging_rustc_segfault_on_illumos) - [Debugging a rustc segfault on illumos](https://sunshowers.io/posts/rustc-segfault-illumos/)
 
 ## [Archives](archives/index.md)
