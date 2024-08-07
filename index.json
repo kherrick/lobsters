@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-07, 19:24:07",
+      "https://lobste.rs/s/w2rfw6/ghostwrite_t_head_xuantie_c910_risc_v"
+    ],
+    [
+      "GhostWrite - a T-Head XuanTie C910 RISC-V vulnerability",
+      "https://ghostwriteattack.com/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 18:15:34",
       "https://lobste.rs/s/cv8w3h/look_inside_bpf_verifier"
     ],
@@ -217,16 +227,6 @@
     [
       "‘You are a helpful mail assistant,’ and other Apple Intelligence instructions",
       "https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 17:00:03",
-      "https://lobste.rs/s/z1e1nq/what_heck_are_reverse_mapped_types"
-    ],
-    [
-      "What the heck are reverse mapped types?",
-      "https://andreasimonecosta.dev/posts/what-the-heck-are-reverse-mapped-types/"
     ]
   ],
   [
