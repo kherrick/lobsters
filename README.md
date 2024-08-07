@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-07, 01:37:03](https://lobste.rs/s/0lbn1n/crowdstrike_external_technical_root) - [Crowdstrike External Technical Root Cause Analysis](https://www.crowdstrike.com/wp-content/uploads/2024/08/Channel-File-291-Incident-Root-Cause-Analysis-08.06.2024.pdf)
+* [2024-08-07, 00:00:31](https://lobste.rs/s/3boto7/first_impressions_gleam_lots_joys_some) - [First impressions of Gleam: lots of joys and some rough edges](https://ntietz.com/blog/first-impressions-of-gleam)
 * [2024-08-06, 23:06:28](https://lobste.rs/s/bmzw6d/why_is_left_stick_sprint_so_unpleasant) - [Why is ‘Left Stick to Sprint’ so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
 * [2024-08-06, 20:54:16](https://lobste.rs/s/noksqa/vertical_label_placement) - [Vertical label placement](https://iamkate.com/code/vertical-label-placement/)
 * [2024-08-06, 17:28:24](https://lobste.rs/s/buzeyj/don_t_model_problem) - [Don't model the problem](https://www.youtube.com/watch?v=WcAWZGyB32U)
@@ -13,10 +15,8 @@
 * [2024-08-06, 03:57:32](https://lobste.rs/s/tky0gp/state_knuckledragger_semi_automated) - [State of Knuckledragger, a Semi-Automated Python Proof Assistant](https://www.philipzucker.com/state_o_knuck/)
 * [2024-08-05, 22:00:12](https://lobste.rs/s/3ofva6/cat9_microdosing_each_contain) - [Cat9 Microdosing: Each and Contain](https://arcan-fe.com/2024/08/05/cat9-microdosing-each-and-contain/)
 * [2024-08-05, 21:45:49](https://lobste.rs/s/alojvh/my_favorite_device_is_chromebook) - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
-* [2024-08-05, 21:25:51](https://lobste.rs/s/ezexzf/converting_ascii_strings_lower_case_at) - [Converting ASCII strings to lower case at crazy speeds with AVX-512](https://lemire.me/blog/2024/08/03/converting-ascii-strings-to-lower-case-at-crazy-speeds-with-avx-512/)
 * [2024-08-05, 21:19:02](https://lobste.rs/s/6o9elb/radiance_cascades) - [Radiance Cascades](https://mini.gmshaders.com/p/radiance-cascades)
 * [2024-08-05, 20:29:14](https://lobste.rs/s/90q56s/beyond_good_evil_13th_mdisk) - [Beyond Good & Evil and the 13th MDisk](https://9214.github.io/13)
-* [2024-08-05, 16:25:47](https://lobste.rs/s/byu3hv/hobby_robotics_resources) - [Hobby robotics resources](https://lobste.rs/s/byu3hv/hobby_robotics_resources)
 * [2024-08-05, 15:56:08](https://lobste.rs/s/ily9nh/you_should_use_ruby_on_rails_logger_block) - [You should use the Ruby on Rails logger block syntax](https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/)
 * [2024-08-05, 14:43:15](https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with) - [Reliable JavaScript benchmarking with Tachometer](https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/)
 * [2024-08-05, 10:37:43](https://lobste.rs/s/lt1oes/skint_cheap_fast_r7rs_scheme_interpreter) - [skint: Cheap and fast R7RS Scheme interpreter](https://github.com/false-schemers/skint)
