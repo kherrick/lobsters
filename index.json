@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-07, 07:17:21",
+      "https://lobste.rs/s/q3afvj/translating_sqlfluff_rust"
+    ],
+    [
+      "Translating sqlfluff to rust",
+      "https://www.quary.dev/blog/sqruff-launch"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 06:48:14",
       "https://lobste.rs/s/qesvzl/primitive_obsession"
     ],
@@ -207,16 +217,6 @@
     [
       "You should use the Ruby on Rails logger block syntax",
       "https://willj.net/posts/you-should-use-the-rails-logger-block-syntax/"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 14:43:15",
-      "https://lobste.rs/s/kpnd9m/reliable_javascript_benchmarking_with"
-    ],
-    [
-      "Reliable JavaScript benchmarking with Tachometer",
-      "https://nolanlawson.com/2024/08/05/reliable-javascript-benchmarking-with-tachometer/"
     ]
   ],
   [
