@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 20:50:37](https://lobste.rs/s/uq3h73/engineering_enigmas) - [Engineering Enigmas](https://xkqr.org/engeni/)
 * [2024-08-07, 19:24:07](https://lobste.rs/s/w2rfw6/ghostwrite_t_head_xuantie_c910_risc_v) - [GhostWrite - a T-Head XuanTie C910 RISC-V vulnerability](https://ghostwriteattack.com/)
 * [2024-08-07, 18:15:34](https://lobste.rs/s/cv8w3h/look_inside_bpf_verifier) - [A look inside the BPF verifier](https://lwn.net/Articles/982077/)
 * [2024-08-07, 18:15:14](https://lobste.rs/s/zvlfnl/tony_hawk_s_pro_strcpy) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
