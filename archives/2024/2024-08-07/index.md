@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-07](index.md)
 
+* [2024-08-07, 07:29:46](https://lobste.rs/s/bfwyht/cables) - [Cables](https://cables.gl)
 * [2024-08-07, 07:17:21](https://lobste.rs/s/q3afvj/translating_sqlfluff_rust) - [Translating sqlfluff to rust](https://www.quary.dev/blog/sqruff-launch)
 * [2024-08-07, 06:48:14](https://lobste.rs/s/qesvzl/primitive_obsession) - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
 * [2024-08-07, 05:48:18](https://lobste.rs/s/66tjgh/py_free_threading) - [py-free-threading](https://py-free-threading.github.io/)
