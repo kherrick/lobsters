@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-08-05, 20:29:14",
-      "https://lobste.rs/s/90q56s/beyond_good_evil_13th_mdisk"
-    ],
-    [
-      "Beyond Good & Evil and the 13th MDisk",
-      "https://9214.github.io/13"
-    ]
-  ],
-  [
-    [
       "2024-08-05, 15:56:08",
       "https://lobste.rs/s/ily9nh/you_should_use_ruby_on_rails_logger_block"
     ],
@@ -227,6 +217,16 @@
     [
       "skint: Cheap and fast R7RS Scheme interpreter",
       "https://github.com/false-schemers/skint"
+    ]
+  ],
+  [
+    [
+      "2024-08-05, 10:29:44",
+      "https://lobste.rs/s/qqiqsw/how_get_create_postgresql"
+    ],
+    [
+      "How to Get or Create in PostgreSQL",
+      "https://hakibenita.com/postgresql-get-or-create"
     ]
   ],
   [
