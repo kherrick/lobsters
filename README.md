@@ -12,7 +12,6 @@
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 * [2024-08-08, 13:56:39](https://lobste.rs/s/1rzao7/system_on_mouse) - [System on a mouse](https://www.ultratechnology.com/scope)
 * [2024-08-08, 13:34:05](https://lobste.rs/s/ootocr/build_metrics_budgets_with_git_metrics) - [Build metrics and budgets with git-metrics](https://dev.to/jdrouet/build-metrics-and-budgets-with-git-metrics-4pb4)
-* [2024-08-08, 13:22:36](https://lobste.rs/s/fv6lhc/golang_sync_mutex_normal_starvation_mode) - [Golang Sync Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
 * [2024-08-08, 12:24:06](https://lobste.rs/s/cekkzf/retro_gaming_library_amiga_edition) - [Retro Gaming Library: AMIGA Edition](https://www.kickstarter.com/projects/dememuskermedia/retro-gaming-library-amiga-edition)
 * [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 10:05:00](https://lobste.rs/s/u376e3/remote_desktop_using_rdp_vnc) - [Remote Desktop Using RDP and VNC](https://www.tumfatig.net/2024/remote-desktop-using-rdp-and-vnc/)
@@ -23,6 +22,7 @@
 * [2024-08-08, 01:21:37](https://lobste.rs/s/gbhjee/c_exceptions_reduce_firmware_code_size) - [C++ Exceptions Reduce Firmware Code Size](https://www.youtube.com/watch?v=BGmzMuSDt-Y)
 * [2024-08-07, 20:50:37](https://lobste.rs/s/uq3h73/engineering_enigmas) - [Engineering Enigmas](https://xkqr.org/engeni/)
 * [2024-08-07, 18:15:14](https://lobste.rs/s/zvlfnl/tony_hawk_s_pro_strcpy) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
+* [2024-08-07, 17:42:13](https://lobste.rs/s/ezdsfw/how_talk_your_parents_about_hardware) - [How to talk to your parents about hardware memory safety](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
 * [2024-08-07, 12:44:38](https://lobste.rs/s/gmjtvp/q_what_do_i_title_this_article) - [q What do I title this article?](https://two-wrongs.com/q)
 * [2024-08-07, 11:13:00](https://lobste.rs/s/rcexlr/mnt_pocket_reform_first_impressions) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 
