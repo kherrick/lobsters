@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 18:57:50](https://lobste.rs/s/cejqyi/firefox_sidebar_vertical_tabs_try_them) - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
 * [2024-08-08, 18:42:43](https://lobste.rs/s/hp9ts6/how_highlight_text_fragments_when) - [How To: Highlight Text Fragments When Linking](https://weblog.rogueamoeba.com/2024/08/08/how-to-highlight-text-fragments-when-linking/)
 * [2024-08-08, 17:19:32](https://lobste.rs/s/aomgfa/kyua_automated_testing_framework) - [Kyua automated testing framework graduates](https://blogsystem5.substack.com/p/kyua-graduates)
 * [2024-08-08, 16:38:12](https://lobste.rs/s/iappdo/django_http_debug_new_django_app_mostly) - [django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/)
