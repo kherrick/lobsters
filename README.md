@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 17:19:32](https://lobste.rs/s/aomgfa/kyua_automated_testing_framework) - [Kyua automated testing framework graduates](https://blogsystem5.substack.com/p/kyua-graduates)
 * [2024-08-08, 16:38:12](https://lobste.rs/s/iappdo/django_http_debug_new_django_app_mostly) - [django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 * [2024-08-08, 15:50:43](https://lobste.rs/s/tsrbjh/store_code_discussions_git_using_git) - [Store Code Discussions in Git using Git Notes](https://wouterj.nl/2024/08/git-notes)
-* [2024-08-08, 15:26:37](https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java) - [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java)
 * [2024-08-08, 15:18:24](https://lobste.rs/s/u6qx3w/raspberry_pi_pico_2) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 * [2024-08-08, 13:56:39](https://lobste.rs/s/1rzao7/system_on_mouse) - [System on a mouse](https://www.ultratechnology.com/scope)

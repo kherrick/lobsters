@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 17:19:32](https://lobste.rs/s/aomgfa/kyua_automated_testing_framework) - [Kyua automated testing framework graduates](https://blogsystem5.substack.com/p/kyua-graduates)
 * [2024-08-08, 16:38:12](https://lobste.rs/s/iappdo/django_http_debug_new_django_app_mostly) - [django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 * [2024-08-08, 15:50:43](https://lobste.rs/s/tsrbjh/store_code_discussions_git_using_git) - [Store Code Discussions in Git using Git Notes](https://wouterj.nl/2024/08/git-notes)
