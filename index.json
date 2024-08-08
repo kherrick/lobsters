@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-08-08, 15:26:37",
+      "https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java"
+    ],
+    [
+      "Don't write Rust like it's Java",
+      "https://jgayfer.com/dont-write-rust-like-java"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 15:18:24",
       "https://lobste.rs/s/u6qx3w/raspberry_pi_pico_2"
     ],
@@ -217,16 +227,6 @@
     [
       "How to talk to your parents about hardware memory safety",
       "https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 15:27:39",
-      "https://lobste.rs/s/8m33d8/zen5_s_avx512_teardown_more"
-    ],
-    [
-      "Zen5's AVX512 Teardown + More",
-      "http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/"
     ]
   ],
   [
