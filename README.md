@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 * [2024-08-08, 13:56:39](https://lobste.rs/s/1rzao7/system_on_mouse) - [System on a mouse](https://www.ultratechnology.com/scope)
 * [2024-08-08, 13:50:26](https://lobste.rs/s/7mjrxa/tlfloat_template_library_for_floating) - [tlfloat: Template library for floating point operations](https://github.com/shibatch/tlfloat)
 * [2024-08-08, 13:37:55](https://lobste.rs/s/dq3pgg/name_non_standard_pc_code_page) - [Name the Non-Standard PC Code Page](https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/)
@@ -7,7 +8,6 @@
 * [2024-08-08, 13:34:05](https://lobste.rs/s/ootocr/build_metrics_budgets_with_git_metrics) - [Build metrics and budgets with git-metrics](https://dev.to/jdrouet/build-metrics-and-budgets-with-git-metrics-4pb4)
 * [2024-08-08, 13:22:36](https://lobste.rs/s/fv6lhc/golang_sync_mutex_normal_starvation_mode) - [Golang Sync Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
 * [2024-08-08, 12:58:28](https://lobste.rs/s/45p5cn/animated_syntax_highlighting_4k_60_fps) - [Animated syntax highlighting, 4k 60 FPS edition](https://code.movie/blog/animated-syntax-highlighting-4k-60-fps-edition.html)
-* [2024-08-08, 12:39:59](https://lobste.rs/s/dnfpfn/how_we_use_both_process_orchestration) - [How We Use Both Process Orchestration and Process Choreography](https://exploring-better-ways.bellroy.com/how-we-use-both-process-orchestration-and-process-choreography.html)
 * [2024-08-08, 12:24:06](https://lobste.rs/s/cekkzf/retro_gaming_library_amiga_edition) - [Retro Gaming Library: AMIGA Edition](https://www.kickstarter.com/projects/dememuskermedia/retro-gaming-library-amiga-edition)
 * [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 10:05:00](https://lobste.rs/s/u376e3/remote_desktop_using_rdp_vnc) - [Remote Desktop Using RDP and VNC](https://www.tumfatig.net/2024/remote-desktop-using-rdp-and-vnc/)

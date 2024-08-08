@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 * [2024-08-08, 13:56:39](https://lobste.rs/s/1rzao7/system_on_mouse) - [System on a mouse](https://www.ultratechnology.com/scope)
 * [2024-08-08, 13:50:26](https://lobste.rs/s/7mjrxa/tlfloat_template_library_for_floating) - [tlfloat: Template library for floating point operations](https://github.com/shibatch/tlfloat)
 * [2024-08-08, 13:37:55](https://lobste.rs/s/dq3pgg/name_non_standard_pc_code_page) - [Name the Non-Standard PC Code Page](https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/)
