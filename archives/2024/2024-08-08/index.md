@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 13:56:39](https://lobste.rs/s/1rzao7/system_on_mouse) - [System on a mouse](https://www.ultratechnology.com/scope)
 * [2024-08-08, 13:50:26](https://lobste.rs/s/7mjrxa/tlfloat_template_library_for_floating) - [tlfloat: Template library for floating point operations](https://github.com/shibatch/tlfloat)
 * [2024-08-08, 13:37:55](https://lobste.rs/s/dq3pgg/name_non_standard_pc_code_page) - [Name the Non-Standard PC Code Page](https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/)
 * [2024-08-08, 13:37:31](https://lobste.rs/s/snfzvf/rule_5_inheritance) - [The rule of 5 and inheritance](https://www.sandordargo.com/blog/2024/08/07/rule-of-five-and-base-classes)

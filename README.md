@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 13:56:39](https://lobste.rs/s/1rzao7/system_on_mouse) - [System on a mouse](https://www.ultratechnology.com/scope)
 * [2024-08-08, 13:50:26](https://lobste.rs/s/7mjrxa/tlfloat_template_library_for_floating) - [tlfloat: Template library for floating point operations](https://github.com/shibatch/tlfloat)
 * [2024-08-08, 13:37:55](https://lobste.rs/s/dq3pgg/name_non_standard_pc_code_page) - [Name the Non-Standard PC Code Page](https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/)
 * [2024-08-08, 13:37:31](https://lobste.rs/s/snfzvf/rule_5_inheritance) - [The rule of 5 and inheritance](https://www.sandordargo.com/blog/2024/08/07/rule-of-five-and-base-classes)
@@ -16,6 +17,7 @@
 * [2024-08-08, 06:14:28](https://lobste.rs/s/cmgn5v/parallel_property_based_testing_with) - [Parallel property-based testing with a deterministic thread scheduler](https://stevana.github.io/parallel_property-based_testing_with_a_deterministic_thread_scheduler.html)
 * [2024-08-08, 04:47:17](https://lobste.rs/s/lamak8/my_intro_game_engine_dev) - [My intro to game (engine) dev](https://jgayfer.com/intro-to-game-dev)
 * [2024-08-08, 01:21:37](https://lobste.rs/s/gbhjee/c_exceptions_reduce_firmware_code_size) - [C++ Exceptions Reduce Firmware Code Size](https://www.youtube.com/watch?v=BGmzMuSDt-Y)
+* [2024-08-08, 00:09:44](https://lobste.rs/s/aqk8pe/pov_pong_mouse_implementation_pong_runs) - [pov_pong_mouse: Implementation of Pong that runs within a mouse's firmware](https://github.com/dupontgu/pov_pong_mouse/)
 * [2024-08-07, 20:50:37](https://lobste.rs/s/uq3h73/engineering_enigmas) - [Engineering Enigmas](https://xkqr.org/engeni/)
 * [2024-08-07, 19:24:07](https://lobste.rs/s/w2rfw6/ghostwrite_t_head_xuantie_c910_risc_v) - [GhostWrite - a T-Head XuanTie C910 RISC-V vulnerability](https://ghostwriteattack.com/)
 * [2024-08-07, 18:15:14](https://lobste.rs/s/zvlfnl/tony_hawk_s_pro_strcpy) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
@@ -23,8 +25,6 @@
 * [2024-08-07, 15:27:39](https://lobste.rs/s/8m33d8/zen5_s_avx512_teardown_more) - [Zen5's AVX512 Teardown + More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-07, 12:44:38](https://lobste.rs/s/gmjtvp/q_what_do_i_title_this_article) - [q What do I title this article?](https://two-wrongs.com/q)
 * [2024-08-07, 11:13:00](https://lobste.rs/s/rcexlr/mnt_pocket_reform_first_impressions) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
-* [2024-08-07, 06:48:14](https://lobste.rs/s/qesvzl/primitive_obsession) - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
-* [2024-08-06, 13:11:38](https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
 
 ## [Archives](archives/index.md)
 
