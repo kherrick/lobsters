@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 04:47:17](https://lobste.rs/s/lamak8/my_intro_game_engine_dev) - [My intro to game (engine) dev](https://jgayfer.com/intro-to-game-dev)
 * [2024-08-08, 01:21:37](https://lobste.rs/s/gbhjee/c_exceptions_reduce_firmware_code_size) - [C++ Exceptions Reduce Firmware Code Size](https://www.youtube.com/watch?v=BGmzMuSDt-Y)
 * [2024-08-08, 00:09:44](https://lobste.rs/s/aqk8pe/pov_pong_mouse_implementation_pong_runs) - [pov_pong_mouse: Implementation of Pong that runs within a mouse's firmware](https://github.com/dupontgu/pov_pong_mouse/)
 * [2024-08-07, 20:50:37](https://lobste.rs/s/uq3h73/engineering_enigmas) - [Engineering Enigmas](https://xkqr.org/engeni/)
@@ -14,7 +15,6 @@
 * [2024-08-07, 12:04:53](https://lobste.rs/s/fwrosh/symbiosisware) - [Symbiosisware](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/symbiosisware/)
 * [2024-08-07, 11:13:00](https://lobste.rs/s/rcexlr/mnt_pocket_reform_first_impressions) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 * [2024-08-07, 09:36:13](https://lobste.rs/s/o1kjlv/sequoia_pgp_sovereign_tech_fund_s) - [Sequoia-PGP in the Sovereign Tech Fund's resilience program](https://neighbourhood.ie/blog/2024/08/07/nh-stf-s01e01-sequoia-pgp)
-* [2024-08-07, 07:44:50](https://lobste.rs/s/ymdoxp/introducing_structured_outputs_api) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-07, 07:29:46](https://lobste.rs/s/bfwyht/cables) - [Cables](https://cables.gl)
 * [2024-08-07, 07:17:21](https://lobste.rs/s/q3afvj/translating_sqlfluff_rust) - [Translating sqlfluff to rust](https://www.quary.dev/blog/sqruff-launch)
 * [2024-08-07, 06:48:14](https://lobste.rs/s/qesvzl/primitive_obsession) - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
