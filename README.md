@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 13:50:26](https://lobste.rs/s/7mjrxa/tlfloat_template_library_for_floating) - [tlfloat: Template library for floating point operations](https://github.com/shibatch/tlfloat)
 * [2024-08-08, 13:37:55](https://lobste.rs/s/dq3pgg/name_non_standard_pc_code_page) - [Name the Non-Standard PC Code Page](https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/)
 * [2024-08-08, 13:37:31](https://lobste.rs/s/snfzvf/rule_5_inheritance) - [The rule of 5 and inheritance](https://www.sandordargo.com/blog/2024/08/07/rule-of-five-and-base-classes)
 * [2024-08-08, 13:34:05](https://lobste.rs/s/ootocr/build_metrics_budgets_with_git_metrics) - [Build metrics and budgets with git-metrics](https://dev.to/jdrouet/build-metrics-and-budgets-with-git-metrics-4pb4)
@@ -15,7 +16,6 @@
 * [2024-08-08, 06:14:28](https://lobste.rs/s/cmgn5v/parallel_property_based_testing_with) - [Parallel property-based testing with a deterministic thread scheduler](https://stevana.github.io/parallel_property-based_testing_with_a_deterministic_thread_scheduler.html)
 * [2024-08-08, 04:47:17](https://lobste.rs/s/lamak8/my_intro_game_engine_dev) - [My intro to game (engine) dev](https://jgayfer.com/intro-to-game-dev)
 * [2024-08-08, 01:21:37](https://lobste.rs/s/gbhjee/c_exceptions_reduce_firmware_code_size) - [C++ Exceptions Reduce Firmware Code Size](https://www.youtube.com/watch?v=BGmzMuSDt-Y)
-* [2024-08-08, 00:09:44](https://lobste.rs/s/aqk8pe/pov_pong_mouse_implementation_pong_runs) - [pov_pong_mouse: Implementation of Pong that runs within a mouse's firmware](https://github.com/dupontgu/pov_pong_mouse/)
 * [2024-08-07, 20:50:37](https://lobste.rs/s/uq3h73/engineering_enigmas) - [Engineering Enigmas](https://xkqr.org/engeni/)
 * [2024-08-07, 19:24:07](https://lobste.rs/s/w2rfw6/ghostwrite_t_head_xuantie_c910_risc_v) - [GhostWrite - a T-Head XuanTie C910 RISC-V vulnerability](https://ghostwriteattack.com/)
 * [2024-08-07, 18:15:14](https://lobste.rs/s/zvlfnl/tony_hawk_s_pro_strcpy) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
