@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 12:58:28](https://lobste.rs/s/45p5cn/animated_syntax_highlighting_4k_60_fps) - [Animated syntax highlighting, 4k 60 FPS edition](https://code.movie/blog/animated-syntax-highlighting-4k-60-fps-edition.html)
 * [2024-08-08, 12:39:59](https://lobste.rs/s/dnfpfn/how_we_use_both_process_orchestration) - [How We Use Both Process Orchestration and Process Choreography](https://exploring-better-ways.bellroy.com/how-we-use-both-process-orchestration-and-process-choreography.html)
 * [2024-08-08, 12:24:06](https://lobste.rs/s/cekkzf/retro_gaming_library_amiga_edition) - [Retro Gaming Library: AMIGA Edition](https://www.kickstarter.com/projects/dememuskermedia/retro-gaming-library-amiga-edition)
 * [2024-08-08, 10:40:15](https://lobste.rs/s/seqwqr/is_it_time_version_observability_signs) - [Is It Time To Version Observability? (Signs Point To Yes)](https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/)
@@ -16,7 +17,6 @@
 * [2024-08-07, 19:24:07](https://lobste.rs/s/w2rfw6/ghostwrite_t_head_xuantie_c910_risc_v) - [GhostWrite - a T-Head XuanTie C910 RISC-V vulnerability](https://ghostwriteattack.com/)
 * [2024-08-07, 18:15:14](https://lobste.rs/s/zvlfnl/tony_hawk_s_pro_strcpy) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 17:42:13](https://lobste.rs/s/ezdsfw/how_talk_your_parents_about_hardware) - [How to talk to your parents about hardware memory safety](https://cheriot.org/cheri/2024/08/06/how-to-talk-about-CHERI.html)
-* [2024-08-07, 16:00:15](https://lobste.rs/s/g9ckys/building_programming_language_from_its) - [Building A Programming Language From Its Core](https://pod.link/developer-voices/episode/e47720e8c6dc3d16603b53081bde0cb1)
 * [2024-08-07, 15:27:39](https://lobste.rs/s/8m33d8/zen5_s_avx512_teardown_more) - [Zen5's AVX512 Teardown + More](http://www.numberworld.org/blogs/2024_8_7_zen5_avx512_teardown/)
 * [2024-08-07, 14:18:40](https://lobste.rs/s/bzbdhm/django_5_1_released) - [Django 5.1 released](https://www.djangoproject.com/weblog/2024/aug/07/django-51-released/)
 * [2024-08-07, 12:44:38](https://lobste.rs/s/gmjtvp/q_what_do_i_title_this_article) - [q What do I title this article?](https://two-wrongs.com/q)
