@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 * [2024-08-08, 15:50:43](https://lobste.rs/s/tsrbjh/store_code_discussions_git_using_git) - [Store Code Discussions in Git using Git Notes](https://wouterj.nl/2024/08/git-notes)
 * [2024-08-08, 15:32:12](https://lobste.rs/s/smjlpe/google_pigweed_comes_our_new_rp2350) - [Google Pigweed comes to our new RP2350](https://www.raspberrypi.com/news/google-pigweed-comes-to-our-new-rp2350/)
 * [2024-08-08, 15:30:29](https://lobste.rs/s/74gjjt/raspberry_pi_pico_2_our_new_5) - [Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now](https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/)
