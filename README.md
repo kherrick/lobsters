@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 01:21:37](https://lobste.rs/s/gbhjee/c_exceptions_reduce_firmware_code_size) - [C++ Exceptions Reduce Firmware Code Size](https://www.youtube.com/watch?v=BGmzMuSDt-Y)
+* [2024-08-08, 00:09:44](https://lobste.rs/s/aqk8pe/pov_pong_mouse_implementation_pong_runs) - [pov_pong_mouse: Implementation of Pong that runs within a mouse's firmware](https://github.com/dupontgu/pov_pong_mouse/)
 * [2024-08-07, 20:50:37](https://lobste.rs/s/uq3h73/engineering_enigmas) - [Engineering Enigmas](https://xkqr.org/engeni/)
 * [2024-08-07, 19:24:07](https://lobste.rs/s/w2rfw6/ghostwrite_t_head_xuantie_c910_risc_v) - [GhostWrite - a T-Head XuanTie C910 RISC-V vulnerability](https://ghostwriteattack.com/)
 * [2024-08-07, 18:15:34](https://lobste.rs/s/cv8w3h/look_inside_bpf_verifier) - [A look inside the BPF verifier](https://lwn.net/Articles/982077/)
@@ -12,7 +14,6 @@
 * [2024-08-07, 12:04:53](https://lobste.rs/s/fwrosh/symbiosisware) - [Symbiosisware](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/symbiosisware/)
 * [2024-08-07, 11:13:00](https://lobste.rs/s/rcexlr/mnt_pocket_reform_first_impressions) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 * [2024-08-07, 09:36:13](https://lobste.rs/s/o1kjlv/sequoia_pgp_sovereign_tech_fund_s) - [Sequoia-PGP in the Sovereign Tech Fund's resilience program](https://neighbourhood.ie/blog/2024/08/07/nh-stf-s01e01-sequoia-pgp)
-* [2024-08-07, 08:47:23](https://lobste.rs/s/ctjozz/multitenancy_elixir_strategic_guide) - [Multitenancy in Elixir: A Strategic Guide](https://curiosum.com/blog/multitenancy-in-elixir)
 * [2024-08-07, 07:44:50](https://lobste.rs/s/ymdoxp/introducing_structured_outputs_api) - [Introducing Structured Outputs in the API](https://openai.com/index/introducing-structured-outputs-in-the-api/)
 * [2024-08-07, 07:29:46](https://lobste.rs/s/bfwyht/cables) - [Cables](https://cables.gl)
 * [2024-08-07, 07:17:21](https://lobste.rs/s/q3afvj/translating_sqlfluff_rust) - [Translating sqlfluff to rust](https://www.quary.dev/blog/sqruff-launch)
@@ -24,7 +25,6 @@
 * [2024-08-06, 23:06:28](https://lobste.rs/s/bmzw6d/why_is_left_stick_sprint_so_unpleasant) - [Why is ‘Left Stick to Sprint’ so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
 * [2024-08-06, 17:07:05](https://lobste.rs/s/s9tsqe/you_are_helpful_mail_assistant_other) - [‘You are a helpful mail assistant,’ and other Apple Intelligence instructions](https://www.theverge.com/2024/8/5/24213861/apple-intelligence-instructions-macos-15-1-sequoia-beta)
 * [2024-08-06, 13:11:38](https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
-* [2024-08-05, 21:45:49](https://lobste.rs/s/alojvh/my_favorite_device_is_chromebook) - [My favorite device is a Chromebook](https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/)
 
 ## [Archives](archives/index.md)
 
