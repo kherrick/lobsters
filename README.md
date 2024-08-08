@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 10:40:15](https://lobste.rs/s/seqwqr/is_it_time_version_observability_signs) - [Is It Time To Version Observability? (Signs Point To Yes)](https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/)
 * [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 10:05:00](https://lobste.rs/s/u376e3/remote_desktop_using_rdp_vnc) - [Remote Desktop Using RDP and VNC](https://www.tumfatig.net/2024/remote-desktop-using-rdp-and-vnc/)
 * [2024-08-08, 08:09:08](https://lobste.rs/s/68eytb/treating_wasm_as_regular_conda_packages) - [Treating WASM as regular 'conda' packages and using them with Pixi](https://prefix.dev/blog/pixi_wasm)
@@ -22,7 +23,6 @@
 * [2024-08-07, 11:13:00](https://lobste.rs/s/rcexlr/mnt_pocket_reform_first_impressions) - [MNT Pocket Reform first impressions and hardware](https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/)
 * [2024-08-07, 07:29:46](https://lobste.rs/s/bfwyht/cables) - [Cables](https://cables.gl)
 * [2024-08-07, 06:48:14](https://lobste.rs/s/qesvzl/primitive_obsession) - [Primitive Obsession](https://acairns.co.uk/posts/primitive-obsession)
-* [2024-08-07, 00:00:31](https://lobste.rs/s/3boto7/first_impressions_gleam_lots_joys_some) - [First impressions of Gleam: lots of joys and some rough edges](https://ntietz.com/blog/first-impressions-of-gleam)
 * [2024-08-06, 23:06:28](https://lobste.rs/s/bmzw6d/why_is_left_stick_sprint_so_unpleasant) - [Why is ‘Left Stick to Sprint’ so unpleasant in games?](https://aria.dog/barks/why-is-left-stick-to-sprint-so-unpleasant/)
 * [2024-08-06, 13:11:38](https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3) - [Y'all are sleeping on HTTP/3](https://kmcd.dev/posts/yall-are-sleeping-on-http3/)
 

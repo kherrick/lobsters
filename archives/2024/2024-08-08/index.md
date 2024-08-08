@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 10:40:15](https://lobste.rs/s/seqwqr/is_it_time_version_observability_signs) - [Is It Time To Version Observability? (Signs Point To Yes)](https://charity.wtf/2024/08/07/is-it-time-to-version-observability-signs-point-to-yes/)
 * [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 10:05:00](https://lobste.rs/s/u376e3/remote_desktop_using_rdp_vnc) - [Remote Desktop Using RDP and VNC](https://www.tumfatig.net/2024/remote-desktop-using-rdp-and-vnc/)
 * [2024-08-08, 08:09:08](https://lobste.rs/s/68eytb/treating_wasm_as_regular_conda_packages) - [Treating WASM as regular 'conda' packages and using them with Pixi](https://prefix.dev/blog/pixi_wasm)
