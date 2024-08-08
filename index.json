@@ -1,26 +1,6 @@
 [
   [
     [
-      "2024-08-08, 15:32:12",
-      "https://lobste.rs/s/smjlpe/google_pigweed_comes_our_new_rp2350"
-    ],
-    [
-      "Google Pigweed comes to our new RP2350",
-      "https://www.raspberrypi.com/news/google-pigweed-comes-to-our-new-rp2350/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 15:30:29",
-      "https://lobste.rs/s/74gjjt/raspberry_pi_pico_2_our_new_5"
-    ],
-    [
-      "Raspberry Pi Pico 2, our new $5 microcontroller board, on sale now",
-      "https://www.raspberrypi.com/news/raspberry-pi-pico-2-our-new-5-microcontroller-board-on-sale-now/"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 15:26:37",
       "https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java"
     ],
@@ -67,6 +47,26 @@
     [
       "tlfloat: Template library for floating point operations",
       "https://github.com/shibatch/tlfloat"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 13:37:55",
+      "https://lobste.rs/s/dq3pgg/name_non_standard_pc_code_page"
+    ],
+    [
+      "Name the Non-Standard PC Code Page",
+      "https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 13:37:31",
+      "https://lobste.rs/s/snfzvf/rule_5_inheritance"
+    ],
+    [
+      "The rule of 5 and inheritance",
+      "https://www.sandordargo.com/blog/2024/08/07/rule-of-five-and-base-classes"
     ]
   ],
   [
