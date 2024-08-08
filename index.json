@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-08, 14:09:42",
+      "https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2"
+    ],
+    [
+      "Jepsen: jetcd 0.8.2",
+      "https://jepsen.io/analyses/jetcd-0.8.2"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 13:56:39",
       "https://lobste.rs/s/1rzao7/system_on_mouse"
     ],
@@ -67,16 +77,6 @@
     [
       "Animated syntax highlighting, 4k 60 FPS edition",
       "https://code.movie/blog/animated-syntax-highlighting-4k-60-fps-edition.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 12:39:59",
-      "https://lobste.rs/s/dnfpfn/how_we_use_both_process_orchestration"
-    ],
-    [
-      "How We Use Both Process Orchestration and Process Choreography",
-      "https://exploring-better-ways.bellroy.com/how-we-use-both-process-orchestration-and-process-choreography.html"
     ]
   ],
   [
