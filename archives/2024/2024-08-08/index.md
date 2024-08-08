@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 10:05:00](https://lobste.rs/s/u376e3/remote_desktop_using_rdp_vnc) - [Remote Desktop Using RDP and VNC](https://www.tumfatig.net/2024/remote-desktop-using-rdp-and-vnc/)
 * [2024-08-08, 08:09:08](https://lobste.rs/s/68eytb/treating_wasm_as_regular_conda_packages) - [Treating WASM as regular 'conda' packages and using them with Pixi](https://prefix.dev/blog/pixi_wasm)
 * [2024-08-08, 07:57:35](https://lobste.rs/s/cbhgzh/most_bogus_sort) - [The Most Bogus Sort](https://kevlinhenney.medium.com/the-most-bogus-sort-3879e2e98e67)
