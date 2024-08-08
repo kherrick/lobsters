@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-08-08, 23:09:55](https://lobste.rs/s/3i3hiy/what_does_it_mean_initialize_int) - [What does it mean to initialize an int?](https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/)
+* [2024-08-08, 22:20:05](https://lobste.rs/s/krb2zc/history_internet_piracy) - [The History of Internet Piracy](https://www.youtube.com/watch?v=qUBoFjhD4Qs)
 * [2024-08-08, 20:57:52](https://lobste.rs/s/jsaie7/friendly_lists_their_buddies_lambdas) - [Friendly Lists and Their Buddies, the Lambdas](https://duckdb.org/2024/08/08/friendly-lists-and-their-buddies-the-lambdas.html)
 * [2024-08-08, 19:27:58](https://lobste.rs/s/yko6ox/go_structs_are_copied_on_assignment_other) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
 * [2024-08-08, 18:57:50](https://lobste.rs/s/cejqyi/firefox_sidebar_vertical_tabs_try_them) - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
@@ -20,7 +21,6 @@
 * [2024-08-08, 07:27:41](https://lobste.rs/s/by07gd/announcing_official_puppeteer_support) - [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 * [2024-08-08, 06:14:28](https://lobste.rs/s/cmgn5v/parallel_property_based_testing_with) - [Parallel property-based testing with a deterministic thread scheduler](https://stevana.github.io/parallel_property-based_testing_with_a_deterministic_thread_scheduler.html)
 * [2024-08-08, 04:47:17](https://lobste.rs/s/lamak8/my_intro_game_engine_dev) - [My intro to game (engine) dev](https://jgayfer.com/intro-to-game-dev)
-* [2024-08-08, 01:21:37](https://lobste.rs/s/gbhjee/c_exceptions_reduce_firmware_code_size) - [C++ Exceptions Reduce Firmware Code Size](https://www.youtube.com/watch?v=BGmzMuSDt-Y)
 * [2024-08-07, 20:50:37](https://lobste.rs/s/uq3h73/engineering_enigmas) - [Engineering Enigmas](https://xkqr.org/engeni/)
 * [2024-08-07, 18:15:14](https://lobste.rs/s/zvlfnl/tony_hawk_s_pro_strcpy) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 12:44:38](https://lobste.rs/s/gmjtvp/q_what_do_i_title_this_article) - [q What do I title this article?](https://two-wrongs.com/q)
