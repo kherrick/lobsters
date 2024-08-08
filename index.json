@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-08, 13:56:39",
+      "https://lobste.rs/s/1rzao7/system_on_mouse"
+    ],
+    [
+      "System on a mouse",
+      "https://www.ultratechnology.com/scope"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 13:50:26",
       "https://lobste.rs/s/7mjrxa/tlfloat_template_library_for_floating"
     ],
@@ -161,6 +171,16 @@
   ],
   [
     [
+      "2024-08-08, 00:09:44",
+      "https://lobste.rs/s/aqk8pe/pov_pong_mouse_implementation_pong_runs"
+    ],
+    [
+      "pov_pong_mouse: Implementation of Pong that runs within a mouse's firmware",
+      "https://github.com/dupontgu/pov_pong_mouse/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 20:50:37",
       "https://lobste.rs/s/uq3h73/engineering_enigmas"
     ],
@@ -227,26 +247,6 @@
     [
       "MNT Pocket Reform first impressions and hardware",
       "https://andypiper.co.uk/2024/08/06/mnt-pocket-reform-first-impressions/"
-    ]
-  ],
-  [
-    [
-      "2024-08-07, 06:48:14",
-      "https://lobste.rs/s/qesvzl/primitive_obsession"
-    ],
-    [
-      "Primitive Obsession",
-      "https://acairns.co.uk/posts/primitive-obsession"
-    ]
-  ],
-  [
-    [
-      "2024-08-06, 13:11:38",
-      "https://lobste.rs/s/hxauaw/y_all_are_sleeping_on_http_3"
-    ],
-    [
-      "Y'all are sleeping on HTTP/3",
-      "https://kmcd.dev/posts/yall-are-sleeping-on-http3/"
     ]
   ]
 ]
