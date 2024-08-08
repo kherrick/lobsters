@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-08, 15:50:43",
+      "https://lobste.rs/s/tsrbjh/store_code_discussions_git_using_git"
+    ],
+    [
+      "Store Code Discussions in Git using Git Notes",
+      "https://wouterj.nl/2024/08/git-notes"
+    ]
+  ],
+  [
+    [
       "2024-08-08, 15:26:37",
       "https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java"
     ],
@@ -57,16 +67,6 @@
     [
       "Name the Non-Standard PC Code Page",
       "https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 13:37:31",
-      "https://lobste.rs/s/snfzvf/rule_5_inheritance"
-    ],
-    [
-      "The rule of 5 and inheritance",
-      "https://www.sandordargo.com/blog/2024/08/07/rule-of-five-and-base-classes"
     ]
   ],
   [
