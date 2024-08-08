@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-08, 01:21:37",
+      "https://lobste.rs/s/gbhjee/c_exceptions_reduce_firmware_code_size"
+    ],
+    [
+      "C++ Exceptions Reduce Firmware Code Size",
+      "https://www.youtube.com/watch?v=BGmzMuSDt-Y"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 00:09:44",
+      "https://lobste.rs/s/aqk8pe/pov_pong_mouse_implementation_pong_runs"
+    ],
+    [
+      "pov_pong_mouse: Implementation of Pong that runs within a mouse's firmware",
+      "https://github.com/dupontgu/pov_pong_mouse/"
+    ]
+  ],
+  [
+    [
       "2024-08-07, 20:50:37",
       "https://lobste.rs/s/uq3h73/engineering_enigmas"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-08-07, 08:47:23",
-      "https://lobste.rs/s/ctjozz/multitenancy_elixir_strategic_guide"
-    ],
-    [
-      "Multitenancy in Elixir: A Strategic Guide",
-      "https://curiosum.com/blog/multitenancy-in-elixir"
-    ]
-  ],
-  [
-    [
       "2024-08-07, 07:44:50",
       "https://lobste.rs/s/ymdoxp/introducing_structured_outputs_api"
     ],
@@ -237,16 +247,6 @@
     [
       "Y'all are sleeping on HTTP/3",
       "https://kmcd.dev/posts/yall-are-sleeping-on-http3/"
-    ]
-  ],
-  [
-    [
-      "2024-08-05, 21:45:49",
-      "https://lobste.rs/s/alojvh/my_favorite_device_is_chromebook"
-    ],
-    [
-      "My favorite device is a Chromebook",
-      "https://kokada.capivaras.dev/blog/my-favorite-device-is-a-chromebook/"
     ]
   ]
 ]
