@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 13:37:55](https://lobste.rs/s/dq3pgg/name_non_standard_pc_code_page) - [Name the Non-Standard PC Code Page](https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/)
+* [2024-08-08, 13:37:31](https://lobste.rs/s/snfzvf/rule_5_inheritance) - [The rule of 5 and inheritance](https://www.sandordargo.com/blog/2024/08/07/rule-of-five-and-base-classes)
+* [2024-08-08, 13:34:05](https://lobste.rs/s/ootocr/build_metrics_budgets_with_git_metrics) - [Build metrics and budgets with git-metrics](https://dev.to/jdrouet/build-metrics-and-budgets-with-git-metrics-4pb4)
 * [2024-08-08, 13:22:36](https://lobste.rs/s/fv6lhc/golang_sync_mutex_normal_starvation_mode) - [Golang Sync Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
 * [2024-08-08, 12:58:28](https://lobste.rs/s/45p5cn/animated_syntax_highlighting_4k_60_fps) - [Animated syntax highlighting, 4k 60 FPS edition](https://code.movie/blog/animated-syntax-highlighting-4k-60-fps-edition.html)
 * [2024-08-08, 12:39:59](https://lobste.rs/s/dnfpfn/how_we_use_both_process_orchestration) - [How We Use Both Process Orchestration and Process Choreography](https://exploring-better-ways.bellroy.com/how-we-use-both-process-orchestration-and-process-choreography.html)
