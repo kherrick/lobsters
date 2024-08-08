@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-08, 18:42:43](https://lobste.rs/s/hp9ts6/how_highlight_text_fragments_when) - [How To: Highlight Text Fragments When Linking](https://weblog.rogueamoeba.com/2024/08/08/how-to-highlight-text-fragments-when-linking/)
 * [2024-08-08, 17:19:32](https://lobste.rs/s/aomgfa/kyua_automated_testing_framework) - [Kyua automated testing framework graduates](https://blogsystem5.substack.com/p/kyua-graduates)
 * [2024-08-08, 16:38:12](https://lobste.rs/s/iappdo/django_http_debug_new_django_app_mostly) - [django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
@@ -8,7 +9,6 @@
 * [2024-08-08, 15:18:24](https://lobste.rs/s/u6qx3w/raspberry_pi_pico_2) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 * [2024-08-08, 13:56:39](https://lobste.rs/s/1rzao7/system_on_mouse) - [System on a mouse](https://www.ultratechnology.com/scope)
-* [2024-08-08, 13:37:55](https://lobste.rs/s/dq3pgg/name_non_standard_pc_code_page) - [Name the Non-Standard PC Code Page](https://int10h.org/blog/2024/08/name-the-nonstandard-pc-codepage/)
 * [2024-08-08, 13:34:05](https://lobste.rs/s/ootocr/build_metrics_budgets_with_git_metrics) - [Build metrics and budgets with git-metrics](https://dev.to/jdrouet/build-metrics-and-budgets-with-git-metrics-4pb4)
 * [2024-08-08, 13:22:36](https://lobste.rs/s/fv6lhc/golang_sync_mutex_normal_starvation_mode) - [Golang Sync Mutex: Normal and Starvation Mode](https://victoriametrics.com/blog/go-sync-mutex/)
 * [2024-08-08, 12:24:06](https://lobste.rs/s/cekkzf/retro_gaming_library_amiga_edition) - [Retro Gaming Library: AMIGA Edition](https://www.kickstarter.com/projects/dememuskermedia/retro-gaming-library-amiga-edition)
