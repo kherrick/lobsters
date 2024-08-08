@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-08](index.md)
 
+* [2024-08-08, 16:38:12](https://lobste.rs/s/iappdo/django_http_debug_new_django_app_mostly) - [django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 * [2024-08-08, 15:50:43](https://lobste.rs/s/tsrbjh/store_code_discussions_git_using_git) - [Store Code Discussions in Git using Git Notes](https://wouterj.nl/2024/08/git-notes)
 * [2024-08-08, 15:32:12](https://lobste.rs/s/smjlpe/google_pigweed_comes_our_new_rp2350) - [Google Pigweed comes to our new RP2350](https://www.raspberrypi.com/news/google-pigweed-comes-to-our-new-rp2350/)
