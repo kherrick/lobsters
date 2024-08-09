@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-09, 20:27:13](https://lobste.rs/s/dyjgfo/opener_open_url_your_local_web_browser) - [opener: Open URL in your local web browser from the SSH-connected remote environment](https://github.com/superbrothers/opener)
 * [2024-08-09, 19:50:27](https://lobste.rs/s/uszrv6/1st_international_workshop_on_low_carbon) - [1st International Workshop on Low Carbon Computing](https://locos.codeberg.page/loco2024/)
 * [2024-08-09, 19:28:41](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep) - [Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep)
 * [2024-08-09, 19:23:44](https://lobste.rs/s/dsmdle/apple_intelligence_foundation_language) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
@@ -10,7 +11,6 @@
 * [2024-08-09, 14:46:24](https://lobste.rs/s/sk5fz9/reserving_internal_for_private_use) - [Reserving .INTERNAL for Private-Use Applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
 * [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
-* [2024-08-09, 09:27:47](https://lobste.rs/s/rs0gkt/confusion_attacks_exploiting_hidden) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 * [2024-08-09, 09:10:34](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend)
 * [2024-08-09, 08:37:41](https://lobste.rs/s/ilw79p/tuupiautomaat_automated_testing) - [Tüüpiautomaat: automated testing of a compiler and target against each other](https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/)
 * [2024-08-09, 08:17:49](https://lobste.rs/s/1x2vje/painful_pitfalls_c_stl_strings) - [The Painful Pitfalls of C++ STL Strings](https://ashvardanian.com/posts/painful-strings/)
