@@ -191,16 +191,6 @@
   ],
   [
     [
-      "2024-08-08, 12:24:06",
-      "https://lobste.rs/s/cekkzf/retro_gaming_library_amiga_edition"
-    ],
-    [
-      "Retro Gaming Library: AMIGA Edition",
-      "https://www.kickstarter.com/projects/dememuskermedia/retro-gaming-library-amiga-edition"
-    ]
-  ],
-  [
-    [
       "2024-08-08, 10:08:01",
       "https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with"
     ],
@@ -217,6 +207,16 @@
     [
       "Announcing Official Puppeteer Support for Firefox",
       "https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/"
+    ]
+  ],
+  [
+    [
+      "2024-08-08, 06:14:28",
+      "https://lobste.rs/s/cmgn5v/parallel_property_based_testing_with"
+    ],
+    [
+      "Parallel property-based testing with a deterministic thread scheduler",
+      "https://stevana.github.io/parallel_property-based_testing_with_a_deterministic_thread_scheduler.html"
     ]
   ],
   [
