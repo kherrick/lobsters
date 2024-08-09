@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-09, 20:55:12",
-      "https://lobste.rs/s/gexvec/agentk_autoagentic_agi_is_self_evolving"
-    ],
-    [
-      "AgentK: An autoagentic AGI that is self-evolving and modular",
-      "https://github.com/mikekelly/AgentK"
-    ]
-  ],
-  [
-    [
       "2024-08-09, 20:27:13",
       "https://lobste.rs/s/dyjgfo/opener_open_url_your_local_web_browser"
     ],
@@ -117,6 +107,16 @@
     [
       "High-precision date/time in SQLite",
       "https://antonz.org/sqlean-time/"
+    ]
+  ],
+  [
+    [
+      "2024-08-09, 09:27:47",
+      "https://lobste.rs/s/rs0gkt/confusion_attacks_exploiting_hidden"
+    ],
+    [
+      "Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server",
+      "https://blog.orange.tw/2024/08/confusion-attacks-en.html"
     ]
   ],
   [
