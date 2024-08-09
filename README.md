@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-09, 19:15:44](https://lobste.rs/s/tdnbvl/new_home_for_nhooyr_websocket) - [A New Home for nhooyr/websocket](https://coder.com/blog/websocket)
 * [2024-08-09, 17:18:10](https://lobste.rs/s/2o4rwd/tvl_s_blog_tvix_status_august_24) - [TVL's blog: Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
 * [2024-08-09, 17:17:44](https://lobste.rs/s/8dokgw/sinkclose_flaw_hundreds_millions_amd) - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
 * [2024-08-09, 15:04:28](https://lobste.rs/s/koxrcl/hacking_virtual_power_plant) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
@@ -24,7 +25,6 @@
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 * [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW (2023)](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 07:27:41](https://lobste.rs/s/by07gd/announcing_official_puppeteer_support) - [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
-* [2024-08-08, 04:47:17](https://lobste.rs/s/lamak8/my_intro_game_engine_dev) - [My intro to game (engine) dev](https://jgayfer.com/intro-to-game-dev)
 
 ## [Archives](archives/index.md)
 
