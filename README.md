@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-09, 02:09:15](https://lobste.rs/s/b0bh6e/rust_on_rp2350) - [Rust on RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
 * [2024-08-09, 01:18:54](https://lobste.rs/s/5dpttf/sshamble_unexpected_exposures_ssh) - [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
 * [2024-08-08, 23:09:55](https://lobste.rs/s/3i3hiy/what_does_it_mean_initialize_int) - [What does it mean to initialize an int?](https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/)
 * [2024-08-08, 20:57:52](https://lobste.rs/s/jsaie7/friendly_lists_their_buddies_lambdas) - [Friendly Lists and Their Buddies, the Lambdas](https://duckdb.org/2024/08/08/friendly-lists-and-their-buddies-the-lambdas.html)
 * [2024-08-08, 19:27:58](https://lobste.rs/s/yko6ox/go_structs_are_copied_on_assignment_other) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
 * [2024-08-08, 18:57:50](https://lobste.rs/s/cejqyi/firefox_sidebar_vertical_tabs_try_them) - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
-* [2024-08-08, 18:42:43](https://lobste.rs/s/hp9ts6/how_highlight_text_fragments_when) - [How To: Highlight Text Fragments When Linking](https://weblog.rogueamoeba.com/2024/08/08/how-to-highlight-text-fragments-when-linking/)
 * [2024-08-08, 17:19:32](https://lobste.rs/s/aomgfa/kyua_automated_testing_framework) - [Kyua automated testing framework graduates](https://blogsystem5.substack.com/p/kyua-graduates)
 * [2024-08-08, 16:38:12](https://lobste.rs/s/iappdo/django_http_debug_new_django_app_mostly) - [django-http-debug, a new Django app mostly written by Claude](https://simonwillison.net/2024/Aug/8/django-http-debug/)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
