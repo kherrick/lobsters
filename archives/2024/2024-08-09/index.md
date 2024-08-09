@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 17:18:10](https://lobste.rs/s/2o4rwd/tvl_s_blog_tvix_status_august_24) - [TVL's blog: Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
+* [2024-08-09, 17:17:44](https://lobste.rs/s/8dokgw/sinkclose_flaw_hundreds_millions_amd) - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
 * [2024-08-09, 15:04:28](https://lobste.rs/s/koxrcl/hacking_virtual_power_plant) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-09, 14:46:24](https://lobste.rs/s/sk5fz9/reserving_internal_for_private_use) - [Reserving .INTERNAL for Private-Use Applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
