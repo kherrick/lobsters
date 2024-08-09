@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-09, 19:28:41](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep) - [Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep)
 * [2024-08-09, 19:23:44](https://lobste.rs/s/dsmdle/apple_intelligence_foundation_language) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 19:15:44](https://lobste.rs/s/tdnbvl/new_home_for_nhooyr_websocket) - [A New Home for nhooyr/websocket](https://coder.com/blog/websocket)
 * [2024-08-09, 17:18:10](https://lobste.rs/s/2o4rwd/tvl_s_blog_tvix_status_august_24) - [TVL's blog: Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
@@ -13,7 +14,6 @@
 * [2024-08-09, 08:37:41](https://lobste.rs/s/ilw79p/tuupiautomaat_automated_testing) - [Tüüpiautomaat: automated testing of a compiler and target against each other](https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/)
 * [2024-08-09, 08:17:49](https://lobste.rs/s/1x2vje/painful_pitfalls_c_stl_strings) - [The Painful Pitfalls of C++ STL Strings](https://ashvardanian.com/posts/painful-strings/)
 * [2024-08-09, 07:54:55](https://lobste.rs/s/qzxbnl/are_function_calls_still_slow_python) - [Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
-* [2024-08-09, 04:33:22](https://lobste.rs/s/nocema/librecuda) - [LibreCuda](https://github.com/mikex86/LibreCuda)
 * [2024-08-09, 02:09:15](https://lobste.rs/s/b0bh6e/rust_on_rp2350) - [Rust on RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
 * [2024-08-09, 01:18:54](https://lobste.rs/s/5dpttf/sshamble_unexpected_exposures_ssh) - [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
 * [2024-08-08, 23:09:55](https://lobste.rs/s/3i3hiy/what_does_it_mean_initialize_int) - [What does it mean to initialize an int?](https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/)
