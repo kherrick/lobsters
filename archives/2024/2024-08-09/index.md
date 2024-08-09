@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 19:50:27](https://lobste.rs/s/uszrv6/1st_international_workshop_on_low_carbon) - [1st International Workshop on Low Carbon Computing](https://locos.codeberg.page/loco2024/)
 * [2024-08-09, 19:28:41](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep) - [Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep)
 * [2024-08-09, 19:23:44](https://lobste.rs/s/dsmdle/apple_intelligence_foundation_language) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 19:15:44](https://lobste.rs/s/tdnbvl/new_home_for_nhooyr_websocket) - [A New Home for nhooyr/websocket](https://coder.com/blog/websocket)
