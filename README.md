@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-09, 08:17:49](https://lobste.rs/s/1x2vje/painful_pitfalls_c_stl_strings) - [The Painful Pitfalls of C++ STL Strings](https://ashvardanian.com/posts/painful-strings/)
 * [2024-08-09, 07:54:55](https://lobste.rs/s/qzxbnl/are_function_calls_still_slow_python) - [Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-09, 04:33:22](https://lobste.rs/s/nocema/librecuda) - [LibreCuda](https://github.com/mikex86/LibreCuda)
 * [2024-08-09, 02:09:15](https://lobste.rs/s/b0bh6e/rust_on_rp2350) - [Rust on RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
@@ -19,7 +20,6 @@
 * [2024-08-08, 13:34:05](https://lobste.rs/s/ootocr/build_metrics_budgets_with_git_metrics) - [Build metrics and budgets with git-metrics](https://dev.to/jdrouet/build-metrics-and-budgets-with-git-metrics-4pb4)
 * [2024-08-08, 12:24:06](https://lobste.rs/s/cekkzf/retro_gaming_library_amiga_edition) - [Retro Gaming Library: AMIGA Edition](https://www.kickstarter.com/projects/dememuskermedia/retro-gaming-library-amiga-edition)
 * [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW (2023)](https://ionathan.ch/2023/06/06/angzarr)
-* [2024-08-08, 10:05:00](https://lobste.rs/s/u376e3/remote_desktop_using_rdp_vnc) - [Remote Desktop Using RDP and VNC](https://www.tumfatig.net/2024/remote-desktop-using-rdp-and-vnc/)
 * [2024-08-08, 07:27:41](https://lobste.rs/s/by07gd/announcing_official_puppeteer_support) - [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 * [2024-08-08, 06:14:28](https://lobste.rs/s/cmgn5v/parallel_property_based_testing_with) - [Parallel property-based testing with a deterministic thread scheduler](https://stevana.github.io/parallel_property-based_testing_with_a_deterministic_thread_scheduler.html)
 * [2024-08-08, 04:47:17](https://lobste.rs/s/lamak8/my_intro_game_engine_dev) - [My intro to game (engine) dev](https://jgayfer.com/intro-to-game-dev)
