@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 19:23:44](https://lobste.rs/s/dsmdle/apple_intelligence_foundation_language) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 19:15:44](https://lobste.rs/s/tdnbvl/new_home_for_nhooyr_websocket) - [A New Home for nhooyr/websocket](https://coder.com/blog/websocket)
 * [2024-08-09, 17:18:10](https://lobste.rs/s/2o4rwd/tvl_s_blog_tvix_status_august_24) - [TVL's blog: Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
 * [2024-08-09, 17:17:44](https://lobste.rs/s/8dokgw/sinkclose_flaw_hundreds_millions_amd) - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
