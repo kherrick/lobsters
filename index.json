@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-08-09, 09:27:47",
+      "https://lobste.rs/s/rs0gkt/confusion_attacks_exploiting_hidden"
+    ],
+    [
+      "Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server",
+      "https://blog.orange.tw/2024/08/confusion-attacks-en.html"
+    ]
+  ],
+  [
+    [
       "2024-08-09, 09:10:34",
       "https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "Jepsen: jetcd 0.8.2",
       "https://jepsen.io/analyses/jetcd-0.8.2"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 10:08:01",
-      "https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with"
-    ],
-    [
-      "Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW (2023)",
-      "https://ionathan.ch/2023/06/06/angzarr"
     ]
   ]
 ]
