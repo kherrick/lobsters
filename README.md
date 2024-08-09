@@ -11,6 +11,7 @@
 * [2024-08-09, 14:46:24](https://lobste.rs/s/sk5fz9/reserving_internal_for_private_use) - [Reserving .INTERNAL for Private-Use Applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
 * [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
+* [2024-08-09, 09:27:47](https://lobste.rs/s/rs0gkt/confusion_attacks_exploiting_hidden) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 * [2024-08-09, 09:10:34](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend)
 * [2024-08-09, 08:37:41](https://lobste.rs/s/ilw79p/tuupiautomaat_automated_testing) - [Tüüpiautomaat: automated testing of a compiler and target against each other](https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/)
 * [2024-08-09, 08:17:49](https://lobste.rs/s/1x2vje/painful_pitfalls_c_stl_strings) - [The Painful Pitfalls of C++ STL Strings](https://ashvardanian.com/posts/painful-strings/)
@@ -24,7 +25,6 @@
 * [2024-08-08, 15:26:37](https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java) - [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java)
 * [2024-08-08, 15:18:24](https://lobste.rs/s/u6qx3w/raspberry_pi_pico_2) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
-* [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW (2023)](https://ionathan.ch/2023/06/06/angzarr)
 
 ## [Archives](archives/index.md)
 
