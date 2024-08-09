@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-09, 09:27:47](https://lobste.rs/s/rs0gkt/confusion_attacks_exploiting_hidden) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 * [2024-08-09, 09:10:34](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend)
 * [2024-08-09, 08:37:41](https://lobste.rs/s/ilw79p/tuupiautomaat_automated_testing) - [Tüüpiautomaat: automated testing of a compiler and target against each other](https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/)

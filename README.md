@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-09, 09:27:47](https://lobste.rs/s/rs0gkt/confusion_attacks_exploiting_hidden) - [Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server](https://blog.orange.tw/2024/08/confusion-attacks-en.html)
 * [2024-08-09, 09:10:34](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend)
 * [2024-08-09, 08:37:41](https://lobste.rs/s/ilw79p/tuupiautomaat_automated_testing) - [Tüüpiautomaat: automated testing of a compiler and target against each other](https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/)
@@ -23,7 +24,6 @@
 * [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW (2023)](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 07:27:41](https://lobste.rs/s/by07gd/announcing_official_puppeteer_support) - [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 * [2024-08-08, 04:47:17](https://lobste.rs/s/lamak8/my_intro_game_engine_dev) - [My intro to game (engine) dev](https://jgayfer.com/intro-to-game-dev)
-* [2024-08-07, 18:15:14](https://lobste.rs/s/zvlfnl/tony_hawk_s_pro_strcpy) - [Tony Hawk's Pro Strcpy](https://icode4.coffee/?p=954)
 * [2024-08-07, 12:44:38](https://lobste.rs/s/gmjtvp/q_what_do_i_title_this_article) - [q What do I title this article?](https://two-wrongs.com/q)
 
 ## [Archives](archives/index.md)
