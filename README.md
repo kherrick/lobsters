@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-09, 01:18:54](https://lobste.rs/s/5dpttf/sshamble_unexpected_exposures_ssh) - [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
 * [2024-08-08, 23:09:55](https://lobste.rs/s/3i3hiy/what_does_it_mean_initialize_int) - [What does it mean to initialize an int?](https://herbsutter.com/2024/08/07/reader-qa-what-does-it-mean-to-initialize-an-int/)
-* [2024-08-08, 22:20:05](https://lobste.rs/s/krb2zc/history_internet_piracy) - [The History of Internet Piracy](https://www.youtube.com/watch?v=qUBoFjhD4Qs)
 * [2024-08-08, 20:57:52](https://lobste.rs/s/jsaie7/friendly_lists_their_buddies_lambdas) - [Friendly Lists and Their Buddies, the Lambdas](https://duckdb.org/2024/08/08/friendly-lists-and-their-buddies-the-lambdas.html)
 * [2024-08-08, 19:27:58](https://lobste.rs/s/yko6ox/go_structs_are_copied_on_assignment_other) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
 * [2024-08-08, 18:57:50](https://lobste.rs/s/cejqyi/firefox_sidebar_vertical_tabs_try_them) - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
@@ -16,7 +16,7 @@
 * [2024-08-08, 13:56:39](https://lobste.rs/s/1rzao7/system_on_mouse) - [System on a mouse](https://www.ultratechnology.com/scope)
 * [2024-08-08, 13:34:05](https://lobste.rs/s/ootocr/build_metrics_budgets_with_git_metrics) - [Build metrics and budgets with git-metrics](https://dev.to/jdrouet/build-metrics-and-budgets-with-git-metrics-4pb4)
 * [2024-08-08, 12:24:06](https://lobste.rs/s/cekkzf/retro_gaming_library_amiga_edition) - [Retro Gaming Library: AMIGA Edition](https://www.kickstarter.com/projects/dememuskermedia/retro-gaming-library-amiga-edition)
-* [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW](https://ionathan.ch/2023/06/06/angzarr)
+* [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW (2023)](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 10:05:00](https://lobste.rs/s/u376e3/remote_desktop_using_rdp_vnc) - [Remote Desktop Using RDP and VNC](https://www.tumfatig.net/2024/remote-desktop-using-rdp-and-vnc/)
 * [2024-08-08, 07:27:41](https://lobste.rs/s/by07gd/announcing_official_puppeteer_support) - [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 * [2024-08-08, 06:14:28](https://lobste.rs/s/cmgn5v/parallel_property_based_testing_with) - [Parallel property-based testing with a deterministic thread scheduler](https://stevana.github.io/parallel_property-based_testing_with_a_deterministic_thread_scheduler.html)
