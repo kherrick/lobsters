@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-09, 15:04:28](https://lobste.rs/s/koxrcl/hacking_virtual_power_plant) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-09, 14:46:24](https://lobste.rs/s/sk5fz9/reserving_internal_for_private_use) - [Reserving .INTERNAL for Private-Use Applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
 * [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
@@ -21,7 +22,6 @@
 * [2024-08-08, 15:26:37](https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java) - [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java)
 * [2024-08-08, 15:18:24](https://lobste.rs/s/u6qx3w/raspberry_pi_pico_2) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
-* [2024-08-08, 13:34:05](https://lobste.rs/s/ootocr/build_metrics_budgets_with_git_metrics) - [Build metrics and budgets with git-metrics](https://dev.to/jdrouet/build-metrics-and-budgets-with-git-metrics-4pb4)
 * [2024-08-08, 10:08:01](https://lobste.rs/s/yibj6r/investigating_u_237c_right_angle_with) - [Investigating U+237C RIGHT ANGLE WITH DOWNWARDS ZIGZAG ARROW (2023)](https://ionathan.ch/2023/06/06/angzarr)
 * [2024-08-08, 07:27:41](https://lobste.rs/s/by07gd/announcing_official_puppeteer_support) - [Announcing Official Puppeteer Support for Firefox](https://hacks.mozilla.org/2024/08/puppeteer-support-for-firefox/)
 * [2024-08-08, 04:47:17](https://lobste.rs/s/lamak8/my_intro_game_engine_dev) - [My intro to game (engine) dev](https://jgayfer.com/intro-to-game-dev)

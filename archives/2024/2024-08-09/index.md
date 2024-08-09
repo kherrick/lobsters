@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-09](index.md)
 
+* [2024-08-09, 15:04:28](https://lobste.rs/s/koxrcl/hacking_virtual_power_plant) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-09, 14:46:24](https://lobste.rs/s/sk5fz9/reserving_internal_for_private_use) - [Reserving .INTERNAL for Private-Use Applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
 * [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
