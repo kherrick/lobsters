@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-10](index.md)
 
+* [2024-08-10, 23:47:53](https://lobste.rs/s/p1dzth/snes_sprites_backgrounds_rendering) - [SNES: Sprites and backgrounds rendering](https://fabiensanglard.net/snes_ppus_why/index.html)
 * [2024-08-10, 20:24:01](https://lobste.rs/s/g0ijvc/common_lisp_community_survey_2024) - [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
 * [2024-08-10, 18:44:54](https://lobste.rs/s/gim7ye/text_editing_improvements_qt_quick) - [Text editing improvements in Qt Quick](https://www.qt.io/blog/text-editing-improvements-in-qt-quick)
 * [2024-08-10, 17:09:25](https://lobste.rs/s/ipcyf5/pep_750_tag_strings_for_writing_domain) - [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://peps.python.org/pep-0750/)

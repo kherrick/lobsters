@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-10, 23:47:53](https://lobste.rs/s/p1dzth/snes_sprites_backgrounds_rendering) - [SNES: Sprites and backgrounds rendering](https://fabiensanglard.net/snes_ppus_why/index.html)
 * [2024-08-10, 20:24:01](https://lobste.rs/s/g0ijvc/common_lisp_community_survey_2024) - [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
 * [2024-08-10, 18:44:54](https://lobste.rs/s/gim7ye/text_editing_improvements_qt_quick) - [Text editing improvements in Qt Quick](https://www.qt.io/blog/text-editing-improvements-in-qt-quick)
 * [2024-08-10, 17:09:25](https://lobste.rs/s/ipcyf5/pep_750_tag_strings_for_writing_domain) - [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://peps.python.org/pep-0750/)
@@ -21,7 +22,6 @@
 * [2024-08-09, 14:46:24](https://lobste.rs/s/sk5fz9/reserving_internal_for_private_use) - [Reserving .INTERNAL for Private-Use Applications](https://www.icann.org/en/board-activities-and-meetings/materials/approved-resolutions-special-meeting-of-the-icann-board-29-07-2024-en#section2.a)
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
 * [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
-* [2024-08-09, 07:54:55](https://lobste.rs/s/qzxbnl/are_function_calls_still_slow_python) - [Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-09, 01:18:54](https://lobste.rs/s/5dpttf/sshamble_unexpected_exposures_ssh) - [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
