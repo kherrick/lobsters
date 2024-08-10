@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-10, 16:50:36",
+      "https://lobste.rs/s/rfat3m/formal_verification_makes_rsa_faster"
+    ],
+    [
+      "Formal verification makes RSA faster — and faster to deploy",
+      "https://www.amazon.science/blog/formal-verification-makes-rsa-faster-and-faster-to-deploy"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 13:48:19",
       "https://lobste.rs/s/gak8g6/ray_tracing_harmonic_functions"
     ],
@@ -207,16 +217,6 @@
     [
       "SSHamble: Unexpected Exposures in SSH",
       "https://github.com/runZeroInc/sshamble"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 19:27:58",
-      "https://lobste.rs/s/yko6ox/go_structs_are_copied_on_assignment_other"
-    ],
-    [
-      "Go structs are copied on assignment (and other things about Go I'd missed)",
-      "https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/"
     ]
   ],
   [
