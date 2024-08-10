@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-10, 13:34:01](https://lobste.rs/s/0yl4px/defeat_censorship_with_stealth_our_new) - [Defeat censorship with Stealth, our new VPN protocol](https://protonvpn.com/blog/stealth-vpn-protocol)
 * [2024-08-10, 10:34:27](https://lobste.rs/s/thlmff/how_heck_does_async_await_work_python_3_5) - [How the heck does async/await work in Python 3.5? (2016)](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
 * [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
 * [2024-08-10, 08:22:15](https://lobste.rs/s/iuzamw/how_snes_graphics_system_works) - [How the SNES Graphics System works](https://fabiensanglard.net/snes_ppus_how/index.html)
@@ -17,6 +16,7 @@
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
 * [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-09, 09:10:34](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/c4h08y/what_are_you_doing_this_weekend)
+* [2024-08-09, 08:37:41](https://lobste.rs/s/ilw79p/tuupiautomaat_automated_testing) - [Tüüpiautomaat: automated testing of a compiler and target against each other](https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/)
 * [2024-08-09, 07:54:55](https://lobste.rs/s/qzxbnl/are_function_calls_still_slow_python) - [Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-09, 02:09:15](https://lobste.rs/s/b0bh6e/rust_on_rp2350) - [Rust on RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
 * [2024-08-09, 01:18:54](https://lobste.rs/s/5dpttf/sshamble_unexpected_exposures_ssh) - [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
