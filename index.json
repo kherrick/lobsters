@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-10, 17:09:25",
+      "https://lobste.rs/s/ipcyf5/pep_750_tag_strings_for_writing_domain"
+    ],
+    [
+      "PEP 750 – Tag Strings For Writing Domain-Specific Languages",
+      "https://peps.python.org/pep-0750/"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 16:50:36",
       "https://lobste.rs/s/rfat3m/formal_verification_makes_rsa_faster"
     ],
@@ -197,16 +207,6 @@
     [
       "Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython",
       "https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 02:09:15",
-      "https://lobste.rs/s/b0bh6e/rust_on_rp2350"
-    ],
-    [
-      "Rust on RP2350",
-      "https://thejpster.org.uk/blog/blog-2024-08-08/"
     ]
   ],
   [
