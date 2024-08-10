@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-10, 20:24:01](https://lobste.rs/s/g0ijvc/common_lisp_community_survey_2024) - [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
 * [2024-08-10, 18:44:54](https://lobste.rs/s/gim7ye/text_editing_improvements_qt_quick) - [Text editing improvements in Qt Quick](https://www.qt.io/blog/text-editing-improvements-in-qt-quick)
 * [2024-08-10, 17:09:25](https://lobste.rs/s/ipcyf5/pep_750_tag_strings_for_writing_domain) - [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://peps.python.org/pep-0750/)
 * [2024-08-10, 16:50:36](https://lobste.rs/s/rfat3m/formal_verification_makes_rsa_faster) - [Formal verification makes RSA faster — and faster to deploy](https://www.amazon.science/blog/formal-verification-makes-rsa-faster-and-faster-to-deploy)
@@ -23,7 +24,6 @@
 * [2024-08-09, 07:54:55](https://lobste.rs/s/qzxbnl/are_function_calls_still_slow_python) - [Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-09, 01:18:54](https://lobste.rs/s/5dpttf/sshamble_unexpected_exposures_ssh) - [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
-* [2024-08-08, 15:18:24](https://lobste.rs/s/u6qx3w/raspberry_pi_pico_2) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 
 ## [Archives](archives/index.md)
