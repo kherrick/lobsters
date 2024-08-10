@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-10, 16:50:36](https://lobste.rs/s/rfat3m/formal_verification_makes_rsa_faster) - [Formal verification makes RSA faster — and faster to deploy](https://www.amazon.science/blog/formal-verification-makes-rsa-faster-and-faster-to-deploy)
 * [2024-08-10, 13:48:19](https://lobste.rs/s/gak8g6/ray_tracing_harmonic_functions) - [Ray Tracing Harmonic Functions](https://markjgillespie.com/Research/harnack-tracing/index.html)
 * [2024-08-10, 10:34:27](https://lobste.rs/s/thlmff/how_heck_does_async_await_work_python_3_5) - [How the heck does async/await work in Python 3.5? (2016)](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
 * [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
@@ -21,7 +22,6 @@
 * [2024-08-09, 07:54:55](https://lobste.rs/s/qzxbnl/are_function_calls_still_slow_python) - [Are Function Calls Still Slow in Python? An Analysis of Recent Optimizations in CPython](https://blog.codingconfessions.com/p/are-function-calls-still-slow-in-python)
 * [2024-08-09, 02:09:15](https://lobste.rs/s/b0bh6e/rust_on_rp2350) - [Rust on RP2350](https://thejpster.org.uk/blog/blog-2024-08-08/)
 * [2024-08-09, 01:18:54](https://lobste.rs/s/5dpttf/sshamble_unexpected_exposures_ssh) - [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
-* [2024-08-08, 19:27:58](https://lobste.rs/s/yko6ox/go_structs_are_copied_on_assignment_other) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 * [2024-08-08, 15:18:24](https://lobste.rs/s/u6qx3w/raspberry_pi_pico_2) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
