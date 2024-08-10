@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-10, 08:39:22",
+      "https://lobste.rs/s/xbyw76/understanding_hooks_easy_for_some"
+    ],
+    [
+      "Understanding hooks: easy for some, initially more difficult for others",
+      "https://hookproductivity.com/blog/2024/04/what-is-a-hook/"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 08:31:35",
       "https://lobste.rs/s/u9gls7/magit_4_0_released"
     ],
@@ -157,16 +167,6 @@
     [
       "Tüüpiautomaat: automated testing of a compiler and target against each other",
       "https://kivikakk.ee/zig/2024/08/06/t%C3%BC%C3%BCpiautomaat/"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 08:17:49",
-      "https://lobste.rs/s/1x2vje/painful_pitfalls_c_stl_strings"
-    ],
-    [
-      "The Painful Pitfalls of C++ STL Strings",
-      "https://ashvardanian.com/posts/painful-strings/"
     ]
   ],
   [
