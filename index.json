@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-10, 08:22:15",
+      "https://lobste.rs/s/iuzamw/how_snes_graphics_system_works"
+    ],
+    [
+      "How the SNES Graphics System works",
+      "https://fabiensanglard.net/snes_ppus_how/index.html"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 06:24:58",
       "https://lobste.rs/s/bstg3q/hacker_interviews_larry_wall_2013"
     ],
@@ -117,16 +127,6 @@
     [
       "High-precision date/time in SQLite",
       "https://antonz.org/sqlean-time/"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 09:27:47",
-      "https://lobste.rs/s/rs0gkt/confusion_attacks_exploiting_hidden"
-    ],
-    [
-      "Confusion Attacks: Exploiting Hidden Semantic Ambiguity in Apache HTTP Server",
-      "https://blog.orange.tw/2024/08/confusion-attacks-en.html"
     ]
   ],
   [
