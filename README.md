@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
 * [2024-08-10, 08:22:15](https://lobste.rs/s/iuzamw/how_snes_graphics_system_works) - [How the SNES Graphics System works](https://fabiensanglard.net/snes_ppus_how/index.html)
 * [2024-08-10, 06:24:58](https://lobste.rs/s/bstg3q/hacker_interviews_larry_wall_2013) - [Hacker Interviews: Larry Wall (2013)](https://www.youtube.com/watch?v=aNAtbYSxzuA)
 * [2024-08-09, 20:27:13](https://lobste.rs/s/dyjgfo/opener_open_url_your_local_web_browser) - [opener: Open URL in your local web browser from the SSH-connected remote environment](https://github.com/superbrothers/opener)
@@ -22,7 +23,6 @@
 * [2024-08-08, 19:27:58](https://lobste.rs/s/yko6ox/go_structs_are_copied_on_assignment_other) - [Go structs are copied on assignment (and other things about Go I'd missed)](https://jvns.ca/blog/2024/08/06/go-structs-copied-on-assignment/)
 * [2024-08-08, 18:57:50](https://lobste.rs/s/cejqyi/firefox_sidebar_vertical_tabs_try_them) - [Firefox Sidebar and Vertical tabs: try them out in Nightly Firefox Labs 131](https://blog.nightly.mozilla.org/2024/08/07/firefox-sidebar-and-vertical-tabs-try-them-out-in-nightly-firefox-labs-131/)
 * [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
-* [2024-08-08, 15:26:37](https://lobste.rs/s/nunnw3/don_t_write_rust_like_it_s_java) - [Don't write Rust like it's Java](https://jgayfer.com/dont-write-rust-like-java)
 * [2024-08-08, 15:18:24](https://lobste.rs/s/u6qx3w/raspberry_pi_pico_2) - [Raspberry Pi Pico 2](https://www.raspberrypi.com/products/raspberry-pi-pico-2/)
 * [2024-08-08, 14:09:42](https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2) - [Jepsen: jetcd 0.8.2](https://jepsen.io/analyses/jetcd-0.8.2)
 
