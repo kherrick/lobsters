@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-11, 23:45:45",
+      "https://lobste.rs/s/bx6852/windows_98_disk_defrag_simulator"
+    ],
+    [
+      "Windows 98 Disk Defrag Simulator",
+      "https://defrag98.com/"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 22:14:37",
       "https://lobste.rs/s/nxzhfn/openbsd_7_5_via_qemu_on_hetzner_no_phys"
     ],
@@ -167,16 +177,6 @@
     [
       "Common Lisp Community Survey 2024 Results",
       "https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 18:44:54",
-      "https://lobste.rs/s/gim7ye/text_editing_improvements_qt_quick"
-    ],
-    [
-      "Text editing improvements in Qt Quick",
-      "https://www.qt.io/blog/text-editing-improvements-in-qt-quick"
     ]
   ],
   [
