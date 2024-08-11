@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-11, 19:35:54](https://lobste.rs/s/snjs8q/building_static_binaries_nix) - [Building static binaries in Nix](https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/)
 * [2024-08-11, 19:06:41](https://lobste.rs/s/usbmwt/rosie_pattern_language) - [Rosie pattern language](https://rosie-lang.org/)
 * [2024-08-11, 18:39:51](https://lobste.rs/s/32kicz/just_time_compilation_on_arm_closer_look) - [Just-In-Time Compilation on ARM—A Closer Look at Call-Site Code Consistency](https://dl.acm.org/doi/fullHtml/10.1145/3546568)
 * [2024-08-11, 18:12:07](https://lobste.rs/s/oqfr9n/deep_dive_into_cve_2023_2163_how_we_found) - [A deep dive into CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability](https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability)
@@ -20,7 +21,6 @@
 * [2024-08-10, 13:48:19](https://lobste.rs/s/gak8g6/ray_tracing_harmonic_functions) - [Ray Tracing Harmonic Functions](https://markjgillespie.com/Research/harnack-tracing/index.html)
 * [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
 * [2024-08-10, 08:22:15](https://lobste.rs/s/iuzamw/how_snes_graphics_system_works) - [How the SNES Graphics System works](https://fabiensanglard.net/snes_ppus_how/index.html)
-* [2024-08-09, 19:28:41](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep) - [Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep)
 * [2024-08-09, 17:18:10](https://lobste.rs/s/2o4rwd/tvix_status_august_24) - [Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
 * [2024-08-09, 15:04:28](https://lobste.rs/s/koxrcl/hacking_virtual_power_plant) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
