@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-11, 14:43:52",
+      "https://lobste.rs/s/razlw1/distrobox_use_any_linux_distribution"
+    ],
+    [
+      "Distrobox: Use any Linux distribution in your terminal",
+      "https://distrobox.it/"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 10:13:30",
       "https://lobste.rs/s/r79sl7/picking_glibc_versions_at_runtime"
     ],
@@ -177,16 +187,6 @@
     [
       "Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?",
       "https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 19:23:44",
-      "https://lobste.rs/s/dsmdle/apple_intelligence_foundation_language"
-    ],
-    [
-      "Apple Intelligence Foundation Language Models",
-      "https://arxiv.org/abs/2407.21075"
     ]
   ],
   [
