@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-11, 15:36:56",
+      "https://lobste.rs/s/dvfv49/gnu_apl_1_9_released"
+    ],
+    [
+      "GNU APL 1.9 Released",
+      "https://lists.gnu.org/archive/html/bug-apl/2024-06/msg00003.html"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 14:43:52",
       "https://lobste.rs/s/razlw1/distrobox_use_any_linux_distribution"
     ],
@@ -157,16 +167,6 @@
     [
       "Hacker Interviews: Larry Wall (2013)",
       "https://www.youtube.com/watch?v=aNAtbYSxzuA"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 20:27:13",
-      "https://lobste.rs/s/dyjgfo/opener_open_url_your_local_web_browser"
-    ],
-    [
-      "opener: Open URL in your local web browser from the SSH-connected remote environment",
-      "https://github.com/superbrothers/opener"
     ]
   ],
   [
