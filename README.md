@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-10, 23:53:32](https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust) - [How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 23:47:53](https://lobste.rs/s/p1dzth/snes_sprites_backgrounds_rendering) - [SNES: Sprites and backgrounds rendering](https://fabiensanglard.net/snes_ppus_why/index.html)
 * [2024-08-10, 20:24:01](https://lobste.rs/s/g0ijvc/common_lisp_community_survey_2024) - [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
 * [2024-08-10, 18:44:54](https://lobste.rs/s/gim7ye/text_editing_improvements_qt_quick) - [Text editing improvements in Qt Quick](https://www.qt.io/blog/text-editing-improvements-in-qt-quick)
@@ -10,7 +11,6 @@
 * [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
 * [2024-08-10, 08:22:15](https://lobste.rs/s/iuzamw/how_snes_graphics_system_works) - [How the SNES Graphics System works](https://fabiensanglard.net/snes_ppus_how/index.html)
 * [2024-08-10, 06:24:58](https://lobste.rs/s/bstg3q/hacker_interviews_larry_wall_2013) - [Hacker Interviews: Larry Wall (2013)](https://www.youtube.com/watch?v=aNAtbYSxzuA)
-* [2024-08-09, 20:55:12](https://lobste.rs/s/gexvec/agentk_autoagentic_agi_is_self_evolving) - [AgentK: An autoagentic AGI that is self-evolving and modular](https://github.com/mikekelly/AgentK)
 * [2024-08-09, 20:27:13](https://lobste.rs/s/dyjgfo/opener_open_url_your_local_web_browser) - [opener: Open URL in your local web browser from the SSH-connected remote environment](https://github.com/superbrothers/opener)
 * [2024-08-09, 19:50:27](https://lobste.rs/s/uszrv6/1st_international_workshop_on_low_carbon) - [1st International Workshop on Low Carbon Computing](https://locos.codeberg.page/loco2024/)
 * [2024-08-09, 19:28:41](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep) - [Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep)
