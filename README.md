@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-11, 03:59:01](https://lobste.rs/s/5bwnpr/jpeg_chroma_upsampling) - [JPEG Chroma Upsampling](https://nigeltao.github.io/blog/2024/jpeg-chroma-upsampling.html)
 * [2024-08-11, 00:53:15](https://lobste.rs/s/deovbz/context_menus_emacs_28) - [Context menus in Emacs 28](https://oylenshpeegul.gitlab.io/blog/posts/20230129/)
 * [2024-08-10, 23:53:32](https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust) - [How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 23:47:53](https://lobste.rs/s/p1dzth/snes_sprites_backgrounds_rendering) - [SNES: Sprites and backgrounds rendering](https://fabiensanglard.net/snes_ppus_why/index.html)
@@ -24,7 +25,6 @@
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
 * [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 * [2024-08-09, 01:18:54](https://lobste.rs/s/5dpttf/sshamble_unexpected_exposures_ssh) - [SSHamble: Unexpected Exposures in SSH](https://github.com/runZeroInc/sshamble)
-* [2024-08-08, 15:56:42](https://lobste.rs/s/pifkay/cosmic_new_desktop_environment) - [Cosmic: A New Desktop Environment](https://system76.com/cosmic)
 
 ## [Archives](archives/index.md)
 
