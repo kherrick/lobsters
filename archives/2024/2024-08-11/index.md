@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 23:45:45](https://lobste.rs/s/bx6852/windows_98_disk_defrag_simulator) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
 * [2024-08-11, 22:14:37](https://lobste.rs/s/nxzhfn/openbsd_7_5_via_qemu_on_hetzner_no_phys) - [OpenBSD 7.5 via qemu on Hetzner (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
 * [2024-08-11, 19:58:53](https://lobste.rs/s/7fa2bg/why_no_one_should_use_at_t_syntax_ever_for) - [Why no one should use the AT&T syntax ever, for any reason, under any circumstances (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-08-11, 19:35:54](https://lobste.rs/s/snjs8q/building_static_binaries_nix) - [Building static binaries in Nix](https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/)

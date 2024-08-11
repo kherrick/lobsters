@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-11, 23:45:45](https://lobste.rs/s/bx6852/windows_98_disk_defrag_simulator) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
 * [2024-08-11, 22:14:37](https://lobste.rs/s/nxzhfn/openbsd_7_5_via_qemu_on_hetzner_no_phys) - [OpenBSD 7.5 via qemu on Hetzner (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
 * [2024-08-11, 19:58:53](https://lobste.rs/s/7fa2bg/why_no_one_should_use_at_t_syntax_ever_for) - [Why no one should use the AT&T syntax ever, for any reason, under any circumstances (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-08-11, 19:35:54](https://lobste.rs/s/snjs8q/building_static_binaries_nix) - [Building static binaries in Nix](https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/)
@@ -17,7 +18,6 @@
 * [2024-08-10, 23:53:32](https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust) - [How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 23:47:53](https://lobste.rs/s/p1dzth/snes_sprites_backgrounds_rendering) - [SNES: Sprites and backgrounds rendering](https://fabiensanglard.net/snes_ppus_why/index.html)
 * [2024-08-10, 20:24:01](https://lobste.rs/s/g0ijvc/common_lisp_community_survey_2024) - [Common Lisp Community Survey 2024 Results](https://blog.djhaskin.com/blog/common-lisp-community-survey-2024-results/)
-* [2024-08-10, 18:44:54](https://lobste.rs/s/gim7ye/text_editing_improvements_qt_quick) - [Text editing improvements in Qt Quick](https://www.qt.io/blog/text-editing-improvements-in-qt-quick)
 * [2024-08-10, 17:09:25](https://lobste.rs/s/ipcyf5/pep_750_tag_strings_for_writing_domain) - [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://peps.python.org/pep-0750/)
 * [2024-08-10, 16:50:36](https://lobste.rs/s/rfat3m/formal_verification_makes_rsa_faster) - [Formal verification makes RSA faster — and faster to deploy](https://www.amazon.science/blog/formal-verification-makes-rsa-faster-and-faster-to-deploy)
 * [2024-08-10, 13:48:19](https://lobste.rs/s/gak8g6/ray_tracing_harmonic_functions) - [Ray Tracing Harmonic Functions](https://markjgillespie.com/Research/harnack-tracing/index.html)
