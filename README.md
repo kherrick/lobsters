@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-11, 14:43:52](https://lobste.rs/s/razlw1/distrobox_use_any_linux_distribution) - [Distrobox: Use any Linux distribution in your terminal](https://distrobox.it/)
 * [2024-08-11, 10:13:30](https://lobste.rs/s/r79sl7/picking_glibc_versions_at_runtime) - [Picking glibc versions at runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 * [2024-08-11, 07:17:58](https://lobste.rs/s/rwurqh/bevy_s_fourth_birthday) - [Bevy's Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
 * [2024-08-11, 03:59:01](https://lobste.rs/s/5bwnpr/jpeg_chroma_upsampling) - [JPEG Chroma Upsampling](https://nigeltao.github.io/blog/2024/jpeg-chroma-upsampling.html)
@@ -18,7 +19,6 @@
 * [2024-08-09, 20:27:13](https://lobste.rs/s/dyjgfo/opener_open_url_your_local_web_browser) - [opener: Open URL in your local web browser from the SSH-connected remote environment](https://github.com/superbrothers/opener)
 * [2024-08-09, 19:50:27](https://lobste.rs/s/uszrv6/1st_international_workshop_on_low_carbon) - [1st International Workshop on Low Carbon Computing](https://locos.codeberg.page/loco2024/)
 * [2024-08-09, 19:28:41](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep) - [Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep)
-* [2024-08-09, 19:23:44](https://lobste.rs/s/dsmdle/apple_intelligence_foundation_language) - [Apple Intelligence Foundation Language Models](https://arxiv.org/abs/2407.21075)
 * [2024-08-09, 17:18:10](https://lobste.rs/s/2o4rwd/tvix_status_august_24) - [Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
 * [2024-08-09, 17:17:44](https://lobste.rs/s/8dokgw/sinkclose_flaw_hundreds_millions_amd) - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
 * [2024-08-09, 15:04:28](https://lobste.rs/s/koxrcl/hacking_virtual_power_plant) - [Hacking a Virtual Power Plant](https://rya.nc/vpp-hack.html)
