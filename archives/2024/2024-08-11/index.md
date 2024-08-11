@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-11](index.md)
 
+* [2024-08-11, 17:35:51](https://lobste.rs/s/ktgqcs/fast_arithmetic_with_tagged_integers) - [Fast Arithmetic with Tagged Integers - A Plea for Hardware Support (2022)](https://www.microsoft.com/en-us/research/publication/what-about-the-integer-numbers-fast-arithmetic-with-tagged-integers-a-plea-for-hardware-support/)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/dying_web) - [The Dying Web](https://endler.dev/2024/the-dying-web/)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/chrome_monoculture) - [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 * [2024-08-11, 15:36:56](https://lobste.rs/s/dvfv49/gnu_apl_1_9_released) - [GNU APL 1.9 Released](https://lists.gnu.org/archive/html/bug-apl/2024-06/msg00003.html)

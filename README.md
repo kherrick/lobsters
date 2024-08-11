@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-11, 17:35:51](https://lobste.rs/s/ktgqcs/fast_arithmetic_with_tagged_integers) - [Fast Arithmetic with Tagged Integers - A Plea for Hardware Support (2022)](https://www.microsoft.com/en-us/research/publication/what-about-the-integer-numbers-fast-arithmetic-with-tagged-integers-a-plea-for-hardware-support/)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/chrome_monoculture) - [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 * [2024-08-11, 15:36:56](https://lobste.rs/s/dvfv49/gnu_apl_1_9_released) - [GNU APL 1.9 Released](https://lists.gnu.org/archive/html/bug-apl/2024-06/msg00003.html)
 * [2024-08-11, 14:43:52](https://lobste.rs/s/razlw1/distrobox_use_any_linux_distribution) - [Distrobox: Use any Linux distribution in your terminal](https://distrobox.it/)
@@ -17,7 +18,6 @@
 * [2024-08-10, 10:34:27](https://lobste.rs/s/thlmff/how_heck_does_async_await_work_python_3_5) - [How the heck does async/await work in Python 3.5? (2016)](https://snarky.ca/how-the-heck-does-async-await-work-in-python-3-5/)
 * [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
 * [2024-08-10, 08:22:15](https://lobste.rs/s/iuzamw/how_snes_graphics_system_works) - [How the SNES Graphics System works](https://fabiensanglard.net/snes_ppus_how/index.html)
-* [2024-08-09, 19:50:27](https://lobste.rs/s/uszrv6/1st_international_workshop_on_low_carbon) - [1st International Workshop on Low Carbon Computing](https://locos.codeberg.page/loco2024/)
 * [2024-08-09, 19:28:41](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep) - [Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?](https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep)
 * [2024-08-09, 17:18:10](https://lobste.rs/s/2o4rwd/tvix_status_august_24) - [Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
 * [2024-08-09, 17:17:44](https://lobste.rs/s/8dokgw/sinkclose_flaw_hundreds_millions_amd) - [‘Sinkclose’ Flaw in Hundreds of Millions of AMD Chips Allows Deep, Virtually Unfixable Infections](https://www.wired.com/story/amd-chip-sinkclose-flaw/)
