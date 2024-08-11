@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-11, 00:53:15",
+      "https://lobste.rs/s/deovbz/context_menus_emacs_28"
+    ],
+    [
+      "Context menus in Emacs 28",
+      "https://oylenshpeegul.gitlab.io/blog/posts/20230129/"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 23:53:32",
       "https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "Cosmic: A New Desktop Environment",
       "https://system76.com/cosmic"
-    ]
-  ],
-  [
-    [
-      "2024-08-08, 14:09:42",
-      "https://lobste.rs/s/gsk2l7/jepsen_jetcd_0_8_2"
-    ],
-    [
-      "Jepsen: jetcd 0.8.2",
-      "https://jepsen.io/analyses/jetcd-0.8.2"
     ]
   ]
 ]
