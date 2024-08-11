@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-11, 19:35:54",
+      "https://lobste.rs/s/snjs8q/building_static_binaries_nix"
+    ],
+    [
+      "Building static binaries in Nix",
+      "https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/"
+    ]
+  ],
+  [
+    [
       "2024-08-11, 19:06:41",
       "https://lobste.rs/s/usbmwt/rosie_pattern_language"
     ],
@@ -197,16 +207,6 @@
     [
       "How the SNES Graphics System works",
       "https://fabiensanglard.net/snes_ppus_how/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 19:28:41",
-      "https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep"
-    ],
-    [
-      "Prior art on systems that attempt to keep documentation up to date, or flag potential stale docs?",
-      "https://lobste.rs/s/bfzaad/prior_art_on_systems_attempt_keep"
     ]
   ],
   [
