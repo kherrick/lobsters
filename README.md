@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-11, 22:14:37](https://lobste.rs/s/nxzhfn/openbsd_7_5_via_qemu_on_hetzner_no_phys) - [OpenBSD 7.5 via qemu on Hetzner (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
 * [2024-08-11, 19:58:53](https://lobste.rs/s/7fa2bg/why_no_one_should_use_at_t_syntax_ever_for) - [Why no one should use the AT&T syntax ever, for any reason, under any circumstances (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-08-11, 19:35:54](https://lobste.rs/s/snjs8q/building_static_binaries_nix) - [Building static binaries in Nix](https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/)
 * [2024-08-11, 19:06:41](https://lobste.rs/s/usbmwt/rosie_pattern_language) - [Rosie pattern language](https://rosie-lang.org/)
@@ -24,7 +25,6 @@
 * [2024-08-10, 08:22:15](https://lobste.rs/s/iuzamw/how_snes_graphics_system_works) - [How the SNES Graphics System works](https://fabiensanglard.net/snes_ppus_how/index.html)
 * [2024-08-09, 17:18:10](https://lobste.rs/s/2o4rwd/tvix_status_august_24) - [Tvix Status - August '24](https://tvl.fyi/blog/tvix-update-august-24)
 * [2024-08-09, 14:32:51](https://lobste.rs/s/qwcvhh/hybrid_teams_are_worst) - [Hybrid Teams are the Worst](https://drakerossman.com/blog/hybrid-teams-are-the-worst)
-* [2024-08-09, 13:02:04](https://lobste.rs/s/6mzz3c/high_precision_date_time_sqlite) - [High-precision date/time in SQLite](https://antonz.org/sqlean-time/)
 
 ## [Archives](archives/index.md)
 
