@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-10, 23:53:32",
+      "https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust"
+    ],
+    [
+      "How I Created 175 Fonts Using Rust",
+      "https://chevyray.dev/blog/creating-175-fonts/"
+    ]
+  ],
+  [
+    [
       "2024-08-10, 23:47:53",
       "https://lobste.rs/s/p1dzth/snes_sprites_backgrounds_rendering"
     ],
@@ -97,16 +107,6 @@
     [
       "Hacker Interviews: Larry Wall (2013)",
       "https://www.youtube.com/watch?v=aNAtbYSxzuA"
-    ]
-  ],
-  [
-    [
-      "2024-08-09, 20:55:12",
-      "https://lobste.rs/s/gexvec/agentk_autoagentic_agi_is_self_evolving"
-    ],
-    [
-      "AgentK: An autoagentic AGI that is self-evolving and modular",
-      "https://github.com/mikekelly/AgentK"
     ]
   ],
   [
