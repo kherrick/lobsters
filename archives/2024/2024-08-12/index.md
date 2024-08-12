@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 04:13:09](https://lobste.rs/s/hieil4/controlling_link_opening_emacs) - [Controlling link opening in Emacs](https://www.n16f.net/blog/controlling-link-opening-in-emacs/)
 * [2024-08-12, 03:44:24](https://lobste.rs/s/vy3bwn/colors_gtk) - [The colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
 * [2024-08-12, 03:21:54](https://lobste.rs/s/sypzmj/apple_memory_holed_its_broken_promise_for) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-12, 01:48:04](https://lobste.rs/s/s86wq1/adventures_with_bun_hono) - [Adventures with Bun & Hono](https://davesmithhayes.com/posts/fullstack-hono)
