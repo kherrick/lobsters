@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 17:02:04](https://lobste.rs/s/pqlgnm/youtube_video_7mins_hacking_ai_for) - [YouTube Video (7mins): Hacking AI for Typography](https://youtu.be/yio0XtbpBwQ)
 * [2024-08-12, 15:31:18](https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides) - [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
 * [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
@@ -20,7 +21,6 @@
 * [2024-08-12, 00:19:12](https://lobste.rs/s/dc252a/your_go_version_ci_matrix_might_be_wrong) - [Your Go version CI matrix might be wrong](https://brandur.org/fragments/go-version-matrix)
 * [2024-08-12, 00:16:45](https://lobste.rs/s/2lgcxe/jame_life) - [The Jame of Life](https://buttondown.com/hillelwayne/archive/the-jame-of-life/)
 * [2024-08-11, 23:45:45](https://lobste.rs/s/bx6852/windows_98_disk_defrag_simulator) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
-* [2024-08-11, 22:14:37](https://lobste.rs/s/nxzhfn/openbsd_7_5_via_qemu_on_hetzner_no_phys) - [OpenBSD 7.5 via qemu on Hetzner (no phys. access / KVM console)](https://hackmd.gfuzz.de/s/Qsk14kc3i)
 * [2024-08-11, 19:58:53](https://lobste.rs/s/7fa2bg/why_no_one_should_use_at_t_syntax_ever_for) - [Why no one should use the AT&T syntax ever, for any reason, under any circumstances (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-08-11, 19:35:54](https://lobste.rs/s/snjs8q/building_static_binaries_nix) - [Building static binaries in Nix](https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/)
 * [2024-08-11, 19:06:41](https://lobste.rs/s/usbmwt/rosie_pattern_language) - [Rosie pattern language](https://rosie-lang.org/)
