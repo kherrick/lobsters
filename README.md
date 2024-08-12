@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 21:18:28](https://lobste.rs/s/2tdsql/gameboy_memory_addresses_what_they_mean) - [GameBoy Memory Addresses and What They Mean](https://youtu.be/s0Kcg5_z0rI)
 * [2024-08-12, 19:22:49](https://lobste.rs/s/exrfes/developing_clis) - [Developing CLIs](https://anchor.dev/blog/developing-clis)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 17:02:04](https://lobste.rs/s/pqlgnm/youtube_video_7mins_hacking_ai_for) - [YouTube Video (7mins): Hacking AI for Typography](https://youtu.be/yio0XtbpBwQ)
@@ -18,7 +19,6 @@
 * [2024-08-12, 05:37:59](https://lobste.rs/s/nrj0xy/webring_written_ocaml_for_fp_enthusiasts) - [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
 * [2024-08-12, 03:44:24](https://lobste.rs/s/vy3bwn/colors_gtk) - [The colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
 * [2024-08-12, 03:21:54](https://lobste.rs/s/sypzmj/apple_memory_holed_its_broken_promise_for) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
-* [2024-08-12, 01:48:04](https://lobste.rs/s/s86wq1/adventures_with_bun_hono) - [Adventures with Bun & Hono](https://davesmithhayes.com/posts/fullstack-hono)
 * [2024-08-12, 00:19:12](https://lobste.rs/s/dc252a/your_go_version_ci_matrix_might_be_wrong) - [Your Go version CI matrix might be wrong](https://brandur.org/fragments/go-version-matrix)
 * [2024-08-12, 00:16:45](https://lobste.rs/s/2lgcxe/jame_life) - [The Jame of Life](https://buttondown.com/hillelwayne/archive/the-jame-of-life/)
 * [2024-08-11, 23:45:45](https://lobste.rs/s/bx6852/windows_98_disk_defrag_simulator) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
