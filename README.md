@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 01:48:04](https://lobste.rs/s/s86wq1/adventures_with_bun_hono) - [Adventures with Bun & Hono](https://davesmithhayes.com/posts/fullstack-hono)
 * [2024-08-12, 00:19:12](https://lobste.rs/s/dc252a/your_go_version_ci_matrix_might_be_wrong) - [Your Go version CI matrix might be wrong](https://brandur.org/fragments/go-version-matrix)
 * [2024-08-12, 00:16:45](https://lobste.rs/s/2lgcxe/jame_life) - [The Jame of Life](https://buttondown.com/hillelwayne/archive/the-jame-of-life/)
 * [2024-08-11, 23:45:45](https://lobste.rs/s/bx6852/windows_98_disk_defrag_simulator) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
@@ -24,7 +25,6 @@
 * [2024-08-10, 16:50:36](https://lobste.rs/s/rfat3m/formal_verification_makes_rsa_faster) - [Formal verification makes RSA faster — and faster to deploy](https://www.amazon.science/blog/formal-verification-makes-rsa-faster-and-faster-to-deploy)
 * [2024-08-10, 13:48:19](https://lobste.rs/s/gak8g6/ray_tracing_harmonic_functions) - [Ray Tracing Harmonic Functions](https://markjgillespie.com/Research/harnack-tracing/index.html)
 * [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
-* [2024-08-10, 08:22:15](https://lobste.rs/s/iuzamw/how_snes_graphics_system_works) - [How the SNES Graphics System works](https://fabiensanglard.net/snes_ppus_how/index.html)
 
 ## [Archives](archives/index.md)
 
