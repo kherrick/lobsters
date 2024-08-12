@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 19:13:53](https://lobste.rs/s/ortxd1/ppp_wins_8th_def_con_title) - [PPP Wins 8th DEF CON Title](https://www.ece.cmu.edu/news-and-events/story/2024/08/ppp-wins-8th-defcon-title.html)
 * [2024-08-12, 18:59:03](https://lobste.rs/s/tgbjve/searching_summoning) - [Searching and Summoning](https://mkhl.codeberg.page/searching-summoning/)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 17:02:04](https://lobste.rs/s/pqlgnm/youtube_video_7mins_hacking_ai_for) - [YouTube Video (7mins): Hacking AI for Typography](https://youtu.be/yio0XtbpBwQ)
