@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 12:27:41](https://lobste.rs/s/mxgp7v/sql_injection_isn_t_dead_smuggling) - [SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Paul%20Gerste%20-%20SQL%20Injection%20Isn%27t%20Dead%20Smuggling%20Queries%20at%20the%20Protocol%20Level.pdf)
 * [2024-08-12, 10:56:27](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week)
 * [2024-08-12, 10:08:57](https://lobste.rs/s/loyrf1/illustrated_quic_connection_every_byte) - [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
 * [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
@@ -24,7 +25,6 @@
 * [2024-08-11, 10:13:30](https://lobste.rs/s/r79sl7/picking_glibc_versions_at_runtime) - [Picking glibc versions at runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 * [2024-08-11, 07:17:58](https://lobste.rs/s/rwurqh/bevy_s_fourth_birthday) - [Bevy's Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
 * [2024-08-10, 23:53:32](https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust) - [How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
-* [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
 
 ## [Archives](archives/index.md)
 
