@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 10:56:27](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week)
 * [2024-08-12, 10:08:57](https://lobste.rs/s/loyrf1/illustrated_quic_connection_every_byte) - [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
 * [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 07:19:24](https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer) - [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
