@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 14:56:07](https://lobste.rs/s/zkjug1/ruby_hub_tutorials_cheat_sheets_tools) - [Ruby Hub - tutorials, cheat sheets, and tools to support your development journey](https://www.rubyhub.io/)
 * [2024-08-12, 14:09:52](https://lobste.rs/s/aenjb9/go_is_my_hammer_everything_is_nail) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
