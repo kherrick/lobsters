@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 07:19:24](https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer) - [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 05:37:59](https://lobste.rs/s/nrj0xy/webring_written_ocaml_for_fp_enthusiasts) - [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
 * [2024-08-12, 04:13:09](https://lobste.rs/s/hieil4/controlling_link_opening_emacs) - [Controlling link opening in Emacs](https://www.n16f.net/blog/controlling-link-opening-in-emacs/)
@@ -21,7 +22,6 @@
 * [2024-08-11, 14:43:52](https://lobste.rs/s/razlw1/distrobox_use_any_linux_distribution) - [Distrobox: Use any Linux distribution in your terminal](https://distrobox.it/)
 * [2024-08-11, 10:13:30](https://lobste.rs/s/r79sl7/picking_glibc_versions_at_runtime) - [Picking glibc versions at runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 * [2024-08-11, 07:17:58](https://lobste.rs/s/rwurqh/bevy_s_fourth_birthday) - [Bevy's Fourth Birthday](https://bevyengine.org/news/bevys-fourth-birthday/)
-* [2024-08-11, 03:59:01](https://lobste.rs/s/5bwnpr/jpeg_chroma_upsampling) - [JPEG Chroma Upsampling](https://nigeltao.github.io/blog/2024/jpeg-chroma-upsampling.html)
 * [2024-08-10, 23:53:32](https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust) - [How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
 * [2024-08-10, 17:09:25](https://lobste.rs/s/ipcyf5/pep_750_tag_strings_for_writing_domain) - [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://peps.python.org/pep-0750/)
 * [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)

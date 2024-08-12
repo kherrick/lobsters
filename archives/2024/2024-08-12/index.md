@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 07:19:24](https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer) - [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 05:37:59](https://lobste.rs/s/nrj0xy/webring_written_ocaml_for_fp_enthusiasts) - [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
 * [2024-08-12, 04:13:09](https://lobste.rs/s/hieil4/controlling_link_opening_emacs) - [Controlling link opening in Emacs](https://www.n16f.net/blog/controlling-link-opening-in-emacs/)
