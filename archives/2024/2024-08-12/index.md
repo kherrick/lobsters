@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 15:31:18](https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides) - [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
 * [2024-08-12, 15:18:31](https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024) - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
 * [2024-08-12, 15:00:23](https://lobste.rs/s/dwip3v/rust_project_goals_for_2024) - [Rust Project goals for 2024](https://blog.rust-lang.org/2024/08/12/Project-goals.html)
 * [2024-08-12, 14:56:07](https://lobste.rs/s/zkjug1/ruby_hub_tutorials_cheat_sheets_tools) - [Ruby Hub - tutorials, cheat sheets, and tools to support your development journey](https://www.rubyhub.io/)
