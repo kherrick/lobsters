@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 13:12:59](https://lobste.rs/s/nbj2lm/mechanical_neural_network_mnn) - [The Mechanical Neural Network (MNN)](https://youtu.be/cEzk8JKDzy4)
+* [2024-08-12, 13:07:30](https://lobste.rs/s/r0rooj/different_memory_pool_rust) - [A different memory pool in Rust](https://cbarrete.com/pool.html)
+* [2024-08-12, 12:55:22](https://lobste.rs/s/7f5w6e/fearless_extensibility_extending_think) - [Fearless extensibility: Extending THINK Pascal](https://forum.malleable.systems/t/fearless-extensibility-extending-think-pascal/213)
 * [2024-08-12, 12:27:41](https://lobste.rs/s/mxgp7v/sql_injection_isn_t_dead_smuggling) - [SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Paul%20Gerste%20-%20SQL%20Injection%20Isn%27t%20Dead%20Smuggling%20Queries%20at%20the%20Protocol%20Level.pdf)
 * [2024-08-12, 10:56:27](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week)
 * [2024-08-12, 10:08:57](https://lobste.rs/s/loyrf1/illustrated_quic_connection_every_byte) - [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
