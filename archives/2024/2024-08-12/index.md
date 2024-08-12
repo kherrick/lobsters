@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
 * [2024-08-12, 21:18:28](https://lobste.rs/s/2tdsql/gameboy_memory_addresses_what_they_mean) - [GameBoy Memory Addresses and What They Mean](https://youtu.be/s0Kcg5_z0rI)
+* [2024-08-12, 19:36:05](https://lobste.rs/s/qb3d3n/beal_s_conjecture_revisited) - [Beal's Conjecture Revisited](http://norvig.com/beal.html)
 * [2024-08-12, 19:22:49](https://lobste.rs/s/exrfes/developing_clis) - [Developing CLIs](https://anchor.dev/blog/developing-clis)
 * [2024-08-12, 19:13:53](https://lobste.rs/s/ortxd1/ppp_wins_8th_def_con_title) - [PPP Wins 8th DEF CON Title](https://www.ece.cmu.edu/news-and-events/story/2024/08/ppp-wins-8th-defcon-title.html)
 * [2024-08-12, 18:59:03](https://lobste.rs/s/tgbjve/searching_summoning) - [Searching and Summoning](https://mkhl.codeberg.page/searching-summoning/)
