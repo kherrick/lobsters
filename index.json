@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-12, 13:44:07",
+      "https://lobste.rs/s/j1r3ez/reviewing_git_contributions_via_email"
+    ],
+    [
+      "Reviewing git contributions via email",
+      "https://git-am.io/"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 13:12:59",
       "https://lobste.rs/s/nbj2lm/mechanical_neural_network_mnn"
     ],
@@ -197,16 +207,6 @@
     [
       "Rosie pattern language",
       "https://rosie-lang.org/"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 17:35:51",
-      "https://lobste.rs/s/ktgqcs/fast_arithmetic_with_tagged_integers"
-    ],
-    [
-      "Fast Arithmetic with Tagged Integers - A Plea for Hardware Support (2022)",
-      "https://www.microsoft.com/en-us/research/publication/what-about-the-integer-numbers-fast-arithmetic-with-tagged-integers-a-plea-for-hardware-support/"
     ]
   ],
   [
