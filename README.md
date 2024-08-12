@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-12, 21:18:28](https://lobste.rs/s/2tdsql/gameboy_memory_addresses_what_they_mean) - [GameBoy Memory Addresses and What They Mean](https://youtu.be/s0Kcg5_z0rI)
 * [2024-08-12, 19:22:49](https://lobste.rs/s/exrfes/developing_clis) - [Developing CLIs](https://anchor.dev/blog/developing-clis)
+* [2024-08-12, 18:59:03](https://lobste.rs/s/tgbjve/searching_summoning) - [Searching and Summoning](https://mkhl.codeberg.page/searching-summoning/)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 17:02:04](https://lobste.rs/s/pqlgnm/youtube_video_7mins_hacking_ai_for) - [YouTube Video (7mins): Hacking AI for Typography](https://youtu.be/yio0XtbpBwQ)
 * [2024-08-12, 15:31:18](https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides) - [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
