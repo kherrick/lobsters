@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 13:44:07](https://lobste.rs/s/j1r3ez/reviewing_git_contributions_via_email) - [Reviewing git contributions via email](https://git-am.io/)
 * [2024-08-12, 13:12:59](https://lobste.rs/s/nbj2lm/mechanical_neural_network_mnn) - [The Mechanical Neural Network (MNN)](https://youtu.be/cEzk8JKDzy4)
 * [2024-08-12, 13:07:30](https://lobste.rs/s/r0rooj/different_memory_pool_rust) - [A different memory pool in Rust](https://cbarrete.com/pool.html)
@@ -23,7 +24,6 @@
 * [2024-08-11, 19:06:41](https://lobste.rs/s/usbmwt/rosie_pattern_language) - [Rosie pattern language](https://rosie-lang.org/)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/chrome_monoculture) - [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 * [2024-08-11, 15:36:56](https://lobste.rs/s/dvfv49/gnu_apl_1_9_released) - [GNU APL 1.9 Released](https://lists.gnu.org/archive/html/bug-apl/2024-06/msg00003.html)
-* [2024-08-11, 14:43:52](https://lobste.rs/s/razlw1/distrobox_use_any_linux_distribution) - [Distrobox: Use any Linux distribution in your terminal](https://distrobox.it/)
 * [2024-08-11, 10:13:30](https://lobste.rs/s/r79sl7/picking_glibc_versions_at_runtime) - [Picking glibc versions at runtime](https://blogsystem5.substack.com/p/glibc-versions-runtime)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 13:44:07](https://lobste.rs/s/j1r3ez/reviewing_git_contributions_via_email) - [Reviewing git contributions via email](https://git-am.io/)
 * [2024-08-12, 13:12:59](https://lobste.rs/s/nbj2lm/mechanical_neural_network_mnn) - [The Mechanical Neural Network (MNN)](https://youtu.be/cEzk8JKDzy4)
 * [2024-08-12, 13:07:30](https://lobste.rs/s/r0rooj/different_memory_pool_rust) - [A different memory pool in Rust](https://cbarrete.com/pool.html)
