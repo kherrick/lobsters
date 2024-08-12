@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-12, 07:19:24",
+      "https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer"
+    ],
+    [
+      "blitz: High performance HTML and CSS renderer",
+      "https://github.com/DioxusLabs/blitz"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 05:37:59",
       "https://lobste.rs/s/nrj0xy/webring_written_ocaml_for_fp_enthusiasts"
     ],
@@ -207,16 +217,6 @@
     [
       "JPEG Chroma Upsampling",
       "https://nigeltao.github.io/blog/2024/jpeg-chroma-upsampling.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 00:53:15",
-      "https://lobste.rs/s/deovbz/context_menus_emacs_28"
-    ],
-    [
-      "Context menus in Emacs 28",
-      "https://oylenshpeegul.gitlab.io/blog/posts/20230129/"
     ]
   ],
   [
