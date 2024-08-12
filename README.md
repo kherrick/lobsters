@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 05:37:59](https://lobste.rs/s/nrj0xy/webring_written_ocaml_for_fp_enthusiasts) - [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
 * [2024-08-12, 04:13:09](https://lobste.rs/s/hieil4/controlling_link_opening_emacs) - [Controlling link opening in Emacs](https://www.n16f.net/blog/controlling-link-opening-in-emacs/)
 * [2024-08-12, 03:44:24](https://lobste.rs/s/vy3bwn/colors_gtk) - [The colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
 * [2024-08-12, 03:21:54](https://lobste.rs/s/sypzmj/apple_memory_holed_its_broken_promise_for) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
@@ -22,7 +23,6 @@
 * [2024-08-11, 03:59:01](https://lobste.rs/s/5bwnpr/jpeg_chroma_upsampling) - [JPEG Chroma Upsampling](https://nigeltao.github.io/blog/2024/jpeg-chroma-upsampling.html)
 * [2024-08-11, 00:53:15](https://lobste.rs/s/deovbz/context_menus_emacs_28) - [Context menus in Emacs 28](https://oylenshpeegul.gitlab.io/blog/posts/20230129/)
 * [2024-08-10, 23:53:32](https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust) - [How I Created 175 Fonts Using Rust](https://chevyray.dev/blog/creating-175-fonts/)
-* [2024-08-10, 23:47:53](https://lobste.rs/s/p1dzth/snes_sprites_backgrounds_rendering) - [SNES: Sprites and backgrounds rendering](https://fabiensanglard.net/snes_ppus_why/index.html)
 * [2024-08-10, 17:09:25](https://lobste.rs/s/ipcyf5/pep_750_tag_strings_for_writing_domain) - [PEP 750 – Tag Strings For Writing Domain-Specific Languages](https://peps.python.org/pep-0750/)
 * [2024-08-10, 08:31:35](https://lobste.rs/s/u9gls7/magit_4_0_released) - [Magit 4.0 released](https://emacsair.me/2024/08/09/magit-4.0/)
 
