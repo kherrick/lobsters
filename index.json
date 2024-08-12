@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-12, 13:12:59",
+      "https://lobste.rs/s/nbj2lm/mechanical_neural_network_mnn"
+    ],
+    [
+      "The Mechanical Neural Network (MNN)",
+      "https://youtu.be/cEzk8JKDzy4"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 13:07:30",
+      "https://lobste.rs/s/r0rooj/different_memory_pool_rust"
+    ],
+    [
+      "A different memory pool in Rust",
+      "https://cbarrete.com/pool.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-12, 12:55:22",
+      "https://lobste.rs/s/7f5w6e/fearless_extensibility_extending_think"
+    ],
+    [
+      "Fearless extensibility: Extending THINK Pascal",
+      "https://forum.malleable.systems/t/fearless-extensibility-extending-think-pascal/213"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 12:27:41",
       "https://lobste.rs/s/mxgp7v/sql_injection_isn_t_dead_smuggling"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-08-11, 18:12:07",
-      "https://lobste.rs/s/oqfr9n/deep_dive_into_cve_2023_2163_how_we_found"
-    ],
-    [
-      "A deep dive into CVE-2023-2163: How we found and fixed an eBPF Linux Kernel Vulnerability",
-      "https://bughunters.google.com/blog/6303226026131456/a-deep-dive-into-cve-2023-2163-how-we-found-and-fixed-an-ebpf-linux-kernel-vulnerability"
-    ]
-  ],
-  [
-    [
       "2024-08-11, 17:35:51",
       "https://lobste.rs/s/ktgqcs/fast_arithmetic_with_tagged_integers"
     ],
@@ -227,26 +247,6 @@
     [
       "Picking glibc versions at runtime",
       "https://blogsystem5.substack.com/p/glibc-versions-runtime"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 07:17:58",
-      "https://lobste.rs/s/rwurqh/bevy_s_fourth_birthday"
-    ],
-    [
-      "Bevy's Fourth Birthday",
-      "https://bevyengine.org/news/bevys-fourth-birthday/"
-    ]
-  ],
-  [
-    [
-      "2024-08-10, 23:53:32",
-      "https://lobste.rs/s/ms0wjr/how_i_created_175_fonts_using_rust"
-    ],
-    [
-      "How I Created 175 Fonts Using Rust",
-      "https://chevyray.dev/blog/creating-175-fonts/"
     ]
   ]
 ]
