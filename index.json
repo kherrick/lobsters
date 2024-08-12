@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-12, 17:18:02",
+      "https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours"
+    ],
+    [
+      "Weekly Lobsters office hours + development",
+      "https://push.cx/stream"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 17:02:04",
       "https://lobste.rs/s/pqlgnm/youtube_video_7mins_hacking_ai_for"
     ],
@@ -197,16 +207,6 @@
     [
       "Windows 98 Disk Defrag Simulator",
       "https://defrag98.com/"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 22:14:37",
-      "https://lobste.rs/s/nxzhfn/openbsd_7_5_via_qemu_on_hetzner_no_phys"
-    ],
-    [
-      "OpenBSD 7.5 via qemu on Hetzner (no phys. access / KVM console)",
-      "https://hackmd.gfuzz.de/s/Qsk14kc3i"
     ]
   ],
   [
