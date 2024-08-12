@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 17:02:04](https://lobste.rs/s/pqlgnm/youtube_video_7mins_hacking_ai_for) - [YouTube Video (7mins): Hacking AI for Typography](https://youtu.be/yio0XtbpBwQ)
 * [2024-08-12, 15:31:18](https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides) - [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
 * [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
 * [2024-08-12, 15:18:31](https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024) - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
@@ -13,7 +14,6 @@
 * [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 07:19:24](https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer) - [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 05:37:59](https://lobste.rs/s/nrj0xy/webring_written_ocaml_for_fp_enthusiasts) - [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
-* [2024-08-12, 04:13:09](https://lobste.rs/s/hieil4/controlling_link_opening_emacs) - [Controlling link opening in Emacs](https://www.n16f.net/blog/controlling-link-opening-in-emacs/)
 * [2024-08-12, 03:44:24](https://lobste.rs/s/vy3bwn/colors_gtk) - [The colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
 * [2024-08-12, 03:21:54](https://lobste.rs/s/sypzmj/apple_memory_holed_its_broken_promise_for) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-12, 01:48:04](https://lobste.rs/s/s86wq1/adventures_with_bun_hono) - [Adventures with Bun & Hono](https://davesmithhayes.com/posts/fullstack-hono)
