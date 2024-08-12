@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 13:44:07](https://lobste.rs/s/j1r3ez/reviewing_git_contributions_via_email) - [Reviewing git contributions via email](https://git-am.io/)
 * [2024-08-12, 13:12:59](https://lobste.rs/s/nbj2lm/mechanical_neural_network_mnn) - [The Mechanical Neural Network (MNN)](https://youtu.be/cEzk8JKDzy4)
 * [2024-08-12, 13:07:30](https://lobste.rs/s/r0rooj/different_memory_pool_rust) - [A different memory pool in Rust](https://cbarrete.com/pool.html)
 * [2024-08-12, 12:55:22](https://lobste.rs/s/7f5w6e/fearless_extensibility_extending_think) - [Fearless extensibility: Extending THINK Pascal](https://forum.malleable.systems/t/fearless-extensibility-extending-think-pascal/213)
@@ -20,7 +21,6 @@
 * [2024-08-11, 19:58:53](https://lobste.rs/s/7fa2bg/why_no_one_should_use_at_t_syntax_ever_for) - [Why no one should use the AT&T syntax ever, for any reason, under any circumstances (2021)](https://outerproduct.net/2021-02-13_att-asm.html)
 * [2024-08-11, 19:35:54](https://lobste.rs/s/snjs8q/building_static_binaries_nix) - [Building static binaries in Nix](https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/)
 * [2024-08-11, 19:06:41](https://lobste.rs/s/usbmwt/rosie_pattern_language) - [Rosie pattern language](https://rosie-lang.org/)
-* [2024-08-11, 17:35:51](https://lobste.rs/s/ktgqcs/fast_arithmetic_with_tagged_integers) - [Fast Arithmetic with Tagged Integers - A Plea for Hardware Support (2022)](https://www.microsoft.com/en-us/research/publication/what-about-the-integer-numbers-fast-arithmetic-with-tagged-integers-a-plea-for-hardware-support/)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/chrome_monoculture) - [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 * [2024-08-11, 15:36:56](https://lobste.rs/s/dvfv49/gnu_apl_1_9_released) - [GNU APL 1.9 Released](https://lists.gnu.org/archive/html/bug-apl/2024-06/msg00003.html)
 * [2024-08-11, 14:43:52](https://lobste.rs/s/razlw1/distrobox_use_any_linux_distribution) - [Distrobox: Use any Linux distribution in your terminal](https://distrobox.it/)

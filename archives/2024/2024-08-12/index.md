@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 13:44:07](https://lobste.rs/s/j1r3ez/reviewing_git_contributions_via_email) - [Reviewing git contributions via email](https://git-am.io/)
 * [2024-08-12, 13:12:59](https://lobste.rs/s/nbj2lm/mechanical_neural_network_mnn) - [The Mechanical Neural Network (MNN)](https://youtu.be/cEzk8JKDzy4)
 * [2024-08-12, 13:07:30](https://lobste.rs/s/r0rooj/different_memory_pool_rust) - [A different memory pool in Rust](https://cbarrete.com/pool.html)
 * [2024-08-12, 12:55:22](https://lobste.rs/s/7f5w6e/fearless_extensibility_extending_think) - [Fearless extensibility: Extending THINK Pascal](https://forum.malleable.systems/t/fearless-extensibility-extending-think-pascal/213)
