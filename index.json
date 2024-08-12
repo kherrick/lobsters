@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-12, 15:31:18",
+      "https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides"
+    ],
+    [
+      "Why don't programming languages or IDEs support attaching descriptive metadata to variables?",
+      "https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t"
+    ]
+  ],
+  [
+    [
       "2024-08-12, 15:25:51",
       "https://lobste.rs/s/wimfh5/you_should_make_new_programming_language"
     ],
@@ -237,16 +247,6 @@
     [
       "The Chrome Monoculture",
       "https://endler.dev/2024/the-dying-web/"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 10:13:30",
-      "https://lobste.rs/s/r79sl7/picking_glibc_versions_at_runtime"
-    ],
-    [
-      "Picking glibc versions at runtime",
-      "https://blogsystem5.substack.com/p/glibc-versions-runtime"
     ]
   ]
 ]
