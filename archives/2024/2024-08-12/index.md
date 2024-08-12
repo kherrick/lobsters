@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 15:18:31](https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024) - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
+* [2024-08-12, 15:00:23](https://lobste.rs/s/dwip3v/rust_project_goals_for_2024) - [Rust Project goals for 2024](https://blog.rust-lang.org/2024/08/12/Project-goals.html)
 * [2024-08-12, 14:56:07](https://lobste.rs/s/zkjug1/ruby_hub_tutorials_cheat_sheets_tools) - [Ruby Hub - tutorials, cheat sheets, and tools to support your development journey](https://www.rubyhub.io/)
 * [2024-08-12, 14:09:52](https://lobste.rs/s/aenjb9/go_is_my_hammer_everything_is_nail) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)

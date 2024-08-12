@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-12, 14:56:07](https://lobste.rs/s/zkjug1/ruby_hub_tutorials_cheat_sheets_tools) - [Ruby Hub - tutorials, cheat sheets, and tools to support your development journey](https://www.rubyhub.io/)
+* [2024-08-12, 15:18:31](https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024) - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
+* [2024-08-12, 15:00:23](https://lobste.rs/s/dwip3v/rust_project_goals_for_2024) - [Rust Project goals for 2024](https://blog.rust-lang.org/2024/08/12/Project-goals.html)
 * [2024-08-12, 14:09:52](https://lobste.rs/s/aenjb9/go_is_my_hammer_everything_is_nail) - [Go is my hammer, and everything is a nail](https://www.maragu.dev/blog/go-is-my-hammer-and-everything-is-a-nail)
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
-* [2024-08-12, 13:44:07](https://lobste.rs/s/j1r3ez/reviewing_git_contributions_via_email) - [Reviewing git contributions via email](https://git-am.io/)
 * [2024-08-12, 12:27:41](https://lobste.rs/s/mxgp7v/sql_injection_isn_t_dead_smuggling) - [SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Paul%20Gerste%20-%20SQL%20Injection%20Isn%27t%20Dead%20Smuggling%20Queries%20at%20the%20Protocol%20Level.pdf)
 * [2024-08-12, 10:56:27](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week)
 * [2024-08-12, 10:08:57](https://lobste.rs/s/loyrf1/illustrated_quic_connection_every_byte) - [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
