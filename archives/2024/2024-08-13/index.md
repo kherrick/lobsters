@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 15:07:12](https://lobste.rs/s/8qzvhg/can_you_do_both_fast_scans_fast_writes) - [Can You Do Both: Fast Scans and Fast Writes in a Single System?](https://cedardb.com/blog/colibri/)
 * [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)
 * [2024-08-13, 14:31:01](https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate_your) - [Mixwave - Convert, package and manipulate your video on the fly](https://github.com/matvp91/mixwave)
 * [2024-08-13, 14:31:01](https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate) - [Mixwave - Convert, package and manipulate videos on the fly](https://github.com/matvp91/mixwave)
