@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-13, 16:54:23](https://lobste.rs/s/b6h5g3/practitioner_s_guide_testing_running) - [A practitioner's guide to testing and running large GPU clusters for training generative AI models](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 15:13:13](https://lobste.rs/s/ingomi/building_galaksija_part_i_tech) - [Building a Galaksija, Part I: The Tech](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
-* [2024-08-13, 15:07:12](https://lobste.rs/s/8qzvhg/can_you_do_both_fast_scans_fast_writes) - [Can You Do Both: Fast Scans and Fast Writes in a Single System?](https://cedardb.com/blog/colibri/)
 * [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)
 * [2024-08-13, 14:31:01](https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate) - [Mixwave - Convert, package and manipulate videos on the fly](https://github.com/matvp91/mixwave)
 * [2024-08-13, 13:58:49](https://lobste.rs/s/nbc8eb/division_modulus_for_computer) - [Division and Modulus for Computer Scientists (2003)](https://www.microsoft.com/en-us/research/publication/division-and-modulus-for-computer-scientists/)
