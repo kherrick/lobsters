@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-13, 14:31:01](https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate_your) - [Mixwave - Convert, package and manipulate your video on the fly](https://github.com/matvp91/mixwave)
+* [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)
+* [2024-08-13, 14:31:01](https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate) - [Mixwave - Convert, package and manipulate videos on the fly](https://github.com/matvp91/mixwave)
 * [2024-08-13, 13:58:49](https://lobste.rs/s/nbc8eb/division_modulus_for_computer) - [Division and Modulus for Computer Scientists (2003)](https://www.microsoft.com/en-us/research/publication/division-and-modulus-for-computer-scientists/)
 * [2024-08-13, 13:02:52](https://lobste.rs/s/vajmb8/http_1_0_from_scratch) - [HTTP/1.0 From Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
@@ -19,7 +20,6 @@
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 12:27:41](https://lobste.rs/s/mxgp7v/sql_injection_isn_t_dead_smuggling) - [SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Paul%20Gerste%20-%20SQL%20Injection%20Isn%27t%20Dead%20Smuggling%20Queries%20at%20the%20Protocol%20Level.pdf)
-* [2024-08-12, 10:08:57](https://lobste.rs/s/loyrf1/illustrated_quic_connection_every_byte) - [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
 * [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 07:19:24](https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer) - [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 05:37:59](https://lobste.rs/s/nrj0xy/webring_written_ocaml_for_fp_enthusiasts) - [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
