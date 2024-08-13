@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-13, 02:22:16",
+      "https://lobste.rs/s/rhmktu/don_t_write_return_replacing_output"
+    ],
+    [
+      "Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation",
+      "https://dl.acm.org/doi/10.1145/3656406"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 01:52:57",
       "https://lobste.rs/s/pqgy8b/announcing_lix_2_91_dragon_s_breath"
     ],
@@ -227,16 +237,6 @@
     [
       "Windows 98 Disk Defrag Simulator",
       "https://defrag98.com/"
-    ]
-  ],
-  [
-    [
-      "2024-08-11, 19:35:54",
-      "https://lobste.rs/s/snjs8q/building_static_binaries_nix"
-    ],
-    [
-      "Building static binaries in Nix",
-      "https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/"
     ]
   ],
   [
