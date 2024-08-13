@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 19:17:52](https://lobste.rs/s/6vczxm/table_format_comparisons_append_only) - [Table format comparisons - Append-only tables and incremental reads](https://jack-vanlightly.com/blog/2024/8/13/table-format-comparisons-append-only-tables-and-incremental-reads)
 * [2024-08-13, 18:16:49](https://lobste.rs/s/pitvn3/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://discourse.haskell.org/t/ray-tracing-in-one-weekend/10078)
 * [2024-08-13, 18:15:58](https://lobste.rs/s/qwrhmg/from_object_transition_rce_chrome) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
 * [2024-08-13, 18:13:20](https://lobste.rs/s/xxgdkg/taxonomy_tech_debt) - [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt)
