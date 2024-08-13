@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-12](index.md)
 
+* [2024-08-12, 22:29:39](https://lobste.rs/s/c6bivy/introducing_zdi_vanguard_awards) - [Introducing the ZDI Vanguard Awards](https://www.zerodayinitiative.com/blog/2024/8/1/introducing-the-vanguard-awards)
 * [2024-08-12, 21:18:28](https://lobste.rs/s/2tdsql/gameboy_memory_addresses_what_they_mean) - [GameBoy Memory Addresses and What They Mean](https://youtu.be/s0Kcg5_z0rI)
 * [2024-08-12, 19:36:05](https://lobste.rs/s/qb3d3n/beal_s_conjecture_revisited) - [Beal's Conjecture Revisited](http://norvig.com/beal.html)
 * [2024-08-12, 19:22:49](https://lobste.rs/s/exrfes/developing_clis) - [Developing CLIs](https://anchor.dev/blog/developing-clis)

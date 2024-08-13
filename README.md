@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-12, 22:29:39](https://lobste.rs/s/c6bivy/introducing_zdi_vanguard_awards) - [Introducing the ZDI Vanguard Awards](https://www.zerodayinitiative.com/blog/2024/8/1/introducing-the-vanguard-awards)
 * [2024-08-12, 19:36:05](https://lobste.rs/s/qb3d3n/beal_s_conjecture_revisited) - [Beal's Conjecture Revisited](http://norvig.com/beal.html)
 * [2024-08-12, 19:22:49](https://lobste.rs/s/exrfes/developing_clis) - [Developing CLIs](https://anchor.dev/blog/developing-clis)
-* [2024-08-12, 18:59:03](https://lobste.rs/s/tgbjve/searching_summoning) - [Searching and Summoning](https://mkhl.codeberg.page/searching-summoning/)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 15:31:18](https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides) - [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
 * [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
