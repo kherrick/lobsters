@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-13, 21:46:41](https://lobste.rs/s/5sw8pb/post_quantum_cryptography_fips_approved) - [Post-Quantum Cryptography FIPS Approved](https://csrc.nist.gov/News/2024/postquantum-cryptography-fips-approved)
 * [2024-08-13, 19:17:52](https://lobste.rs/s/6vczxm/table_format_comparisons_append_only) - [Table format comparisons - Append-only tables and incremental reads](https://jack-vanlightly.com/blog/2024/8/13/table-format-comparisons-append-only-tables-and-incremental-reads)
 * [2024-08-13, 18:16:49](https://lobste.rs/s/pitvn3/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://discourse.haskell.org/t/ray-tracing-in-one-weekend/10078)
 * [2024-08-13, 17:33:24](https://lobste.rs/s/gomjcb/perils_future_coding) - [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
@@ -24,7 +25,6 @@
 * [2024-08-12, 15:18:31](https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024) - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
 * [2024-08-12, 15:00:23](https://lobste.rs/s/dwip3v/rust_project_goals_for_2024) - [Rust Project goals for 2024](https://blog.rust-lang.org/2024/08/12/Project-goals.html)
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
-* [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 
 ## [Archives](archives/index.md)
 
