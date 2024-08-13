@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 15:13:13](https://lobste.rs/s/ingomi/building_galaksija_part_i_tech) - [Building a Galaksija, Part I: The Tech](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-08-13, 15:07:12](https://lobste.rs/s/8qzvhg/can_you_do_both_fast_scans_fast_writes) - [Can You Do Both: Fast Scans and Fast Writes in a Single System?](https://cedardb.com/blog/colibri/)
 * [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 15:13:13](https://lobste.rs/s/ingomi/building_galaksija_part_i_tech) - [Building a Galaksija, Part I: The Tech](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-08-13, 15:07:12](https://lobste.rs/s/8qzvhg/can_you_do_both_fast_scans_fast_writes) - [Can You Do Both: Fast Scans and Fast Writes in a Single System?](https://cedardb.com/blog/colibri/)
 * [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)
@@ -10,7 +11,6 @@
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-13, 06:59:27](https://lobste.rs/s/7bppwv/new_postgresql_17_make_dist) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 * [2024-08-13, 03:33:05](https://lobste.rs/s/q99sdv/haiku_activity_contract_report_july_2024) - [Haiku Activity & Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
-* [2024-08-13, 02:22:16](https://lobste.rs/s/rhmktu/don_t_write_return_replacing_output) - [Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation](https://dl.acm.org/doi/10.1145/3656406)
 * [2024-08-13, 01:52:57](https://lobste.rs/s/pqgy8b/announcing_lix_2_91_dragon_s_breath) - [Announcing Lix 2.91 \"Dragon's Breath\"](https://lix.systems/blog/2024-08-12-lix-2.91-release/)
 * [2024-08-13, 01:43:15](https://lobste.rs/s/ugbb9i/language_server_protocol_from_debug) - [Language Server Protocol from debug symbols](https://www.forrestthewoods.com/blog/language-server-protocol-from-debug-symbols/)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
