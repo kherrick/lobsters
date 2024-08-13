@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-08-13, 11:33:39",
+      "https://lobste.rs/s/i6mzds/abusing_makefiles_for_fun_profit"
+    ],
+    [
+      "Abusing Makefiles for fun and profit",
+      "https://kokada.capivaras.dev/blog/abusing-makefiles-for-fun-and-profit/"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 07:11:20",
       "https://lobste.rs/s/yjqd6d/against_names"
     ],
@@ -217,16 +227,6 @@
     [
       "GIL Become Optional in Python 3.13",
       "https://geekpython.in/gil-become-optional-in-python"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 07:19:24",
-      "https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer"
-    ],
-    [
-      "blitz: High performance HTML and CSS renderer",
-      "https://github.com/DioxusLabs/blitz"
     ]
   ],
   [
