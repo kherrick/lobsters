@@ -1,11 +1,21 @@
 [
   [
     [
-      "2024-08-13, 14:31:01",
-      "https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate_your"
+      "2024-08-13, 14:45:45",
+      "https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption"
     ],
     [
-      "Mixwave - Convert, package and manipulate your video on the fly",
+      "Why exploits prefer memory corruption",
+      "https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-13, 14:31:01",
+      "https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate"
+    ],
+    [
+      "Mixwave - Convert, package and manipulate videos on the fly",
       "https://github.com/matvp91/mixwave"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level",
       "https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Paul%20Gerste%20-%20SQL%20Injection%20Isn%27t%20Dead%20Smuggling%20Queries%20at%20the%20Protocol%20Level.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 10:08:57",
-      "https://lobste.rs/s/loyrf1/illustrated_quic_connection_every_byte"
-    ],
-    [
-      "The Illustrated QUIC Connection: Every Byte Explained",
-      "https://quic.xargs.org/"
     ]
   ],
   [
