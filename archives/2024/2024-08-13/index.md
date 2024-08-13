@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 13:02:52](https://lobste.rs/s/vajmb8/http_1_0_from_scratch) - [HTTP/1.0 From Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 11:33:39](https://lobste.rs/s/i6mzds/abusing_makefiles_for_fun_profit) - [Abusing Makefiles for fun and profit](https://kokada.capivaras.dev/blog/abusing-makefiles-for-fun-and-profit/)
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
