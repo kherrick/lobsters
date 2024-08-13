@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-13, 15:44:53",
+      "https://lobste.rs/s/xbffgc/termsand"
+    ],
+    [
+      "termsand",
+      "https://github.com/cgsdev0/termsand"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 15:13:13",
       "https://lobste.rs/s/ingomi/building_galaksija_part_i_tech"
     ],
@@ -97,16 +107,6 @@
     [
       "Haiku Activity & Contract Report, July 2024",
       "https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 02:22:16",
-      "https://lobste.rs/s/rhmktu/don_t_write_return_replacing_output"
-    ],
-    [
-      "Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation",
-      "https://dl.acm.org/doi/10.1145/3656406"
     ]
   ],
   [
