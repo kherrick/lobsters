@@ -2,10 +2,10 @@
 
 * [2024-08-13, 18:16:49](https://lobste.rs/s/pitvn3/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://discourse.haskell.org/t/ray-tracing-in-one-weekend/10078)
 * [2024-08-13, 18:15:58](https://lobste.rs/s/qwrhmg/from_object_transition_rce_chrome) - [From object transition to RCE in the Chrome renderer](https://github.blog/security/vulnerability-research/from-object-transition-to-rce-in-the-chrome-renderer/)
-* [2024-08-13, 18:13:20](https://lobste.rs/s/xxgdkg/taxonomy_tech_debt) - [A Taxonomy of Tech Debt](https://technology.riotgames.com/news/taxonomy-tech-debt)
 * [2024-08-13, 17:33:24](https://lobste.rs/s/gomjcb/perils_future_coding) - [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
 * [2024-08-13, 17:32:13](https://lobste.rs/s/8uuq5m/distributed_relational) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
+* [2024-08-13, 16:54:23](https://lobste.rs/s/b6h5g3/practitioner_s_guide_testing_running) - [A practitioner's guide to testing and running large GPU clusters for training generative AI models](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 15:13:13](https://lobste.rs/s/ingomi/building_galaksija_part_i_tech) - [Building a Galaksija, Part I: The Tech](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
 * [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)
