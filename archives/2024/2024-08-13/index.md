@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 17:33:24](https://lobste.rs/s/gomjcb/perils_future_coding) - [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
+* [2024-08-13, 17:32:13](https://lobste.rs/s/8uuq5m/distributed_relational) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
 * [2024-08-13, 16:54:23](https://lobste.rs/s/b6h5g3/practitioner_s_guide_testing_running) - [A practitioner's guide to testing and running large GPU clusters for training generative AI models](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
