@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-13, 13:58:49](https://lobste.rs/s/nbc8eb/division_modulus_for_computer) - [Division and Modulus for Computer Scientists (2003)](https://www.microsoft.com/en-us/research/publication/division-and-modulus-for-computer-scientists/)
 * [2024-08-13, 13:02:52](https://lobste.rs/s/vajmb8/http_1_0_from_scratch) - [HTTP/1.0 From Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
@@ -8,7 +9,6 @@
 * [2024-08-13, 02:22:16](https://lobste.rs/s/rhmktu/don_t_write_return_replacing_output) - [Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation](https://dl.acm.org/doi/10.1145/3656406)
 * [2024-08-13, 01:52:57](https://lobste.rs/s/pqgy8b/announcing_lix_2_91_dragon_s_breath) - [Announcing Lix 2.91 \"Dragon's Breath\"](https://lix.systems/blog/2024-08-12-lix-2.91-release/)
 * [2024-08-13, 01:43:15](https://lobste.rs/s/ugbb9i/language_server_protocol_from_debug) - [Language Server Protocol from debug symbols](https://www.forrestthewoods.com/blog/language-server-protocol-from-debug-symbols/)
-* [2024-08-12, 22:29:39](https://lobste.rs/s/c6bivy/introducing_zdi_vanguard_awards) - [Introducing the ZDI Vanguard Awards](https://www.zerodayinitiative.com/blog/2024/8/1/introducing-the-vanguard-awards)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 15:31:18](https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides) - [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
 * [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
