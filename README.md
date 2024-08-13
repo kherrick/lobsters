@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
 * [2024-08-13, 16:54:23](https://lobste.rs/s/b6h5g3/practitioner_s_guide_testing_running) - [A practitioner's guide to testing and running large GPU clusters for training generative AI models](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 15:13:13](https://lobste.rs/s/ingomi/building_galaksija_part_i_tech) - [Building a Galaksija, Part I: The Tech](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
@@ -23,7 +24,6 @@
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
-* [2024-08-12, 03:21:54](https://lobste.rs/s/sypzmj/apple_memory_holed_its_broken_promise_for) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/chrome_monoculture) - [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 
 ## [Archives](archives/index.md)

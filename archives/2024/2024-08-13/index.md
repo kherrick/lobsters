@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
 * [2024-08-13, 16:54:23](https://lobste.rs/s/b6h5g3/practitioner_s_guide_testing_running) - [A practitioner's guide to testing and running large GPU clusters for training generative AI models](https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 15:13:13](https://lobste.rs/s/ingomi/building_galaksija_part_i_tech) - [Building a Galaksija, Part I: The Tech](https://blog.vladovince.com/building-a-galaksija-the-1980s-yugoslav-8-bit-microcomputer-part-i-the-tech/)
