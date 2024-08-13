@@ -7,6 +7,7 @@
 * [2024-08-13, 14:31:01](https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate) - [Mixwave - Convert, package and manipulate videos on the fly](https://github.com/matvp91/mixwave)
 * [2024-08-13, 13:58:49](https://lobste.rs/s/nbc8eb/division_modulus_for_computer) - [Division and Modulus for Computer Scientists (2003)](https://www.microsoft.com/en-us/research/publication/division-and-modulus-for-computer-scientists/)
 * [2024-08-13, 13:02:52](https://lobste.rs/s/vajmb8/http_1_0_from_scratch) - [HTTP/1.0 From Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
+* [2024-08-13, 11:33:39](https://lobste.rs/s/i6mzds/abusing_makefiles_for_fun_profit) - [Abusing Makefiles for fun and profit](https://kokada.capivaras.dev/blog/abusing-makefiles-for-fun-and-profit/)
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-13, 06:59:27](https://lobste.rs/s/7bppwv/new_postgresql_17_make_dist) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
@@ -22,7 +23,6 @@
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
-* [2024-08-12, 07:19:24](https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer) - [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 03:21:54](https://lobste.rs/s/sypzmj/apple_memory_holed_its_broken_promise_for) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/chrome_monoculture) - [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 
