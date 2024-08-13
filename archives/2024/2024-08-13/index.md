@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-13](index.md)
 
+* [2024-08-13, 14:31:01](https://lobste.rs/s/ghuyu5/mixwave_convert_package_manipulate_your) - [Mixwave - Convert, package and manipulate your video on the fly](https://github.com/matvp91/mixwave)
 * [2024-08-13, 13:58:49](https://lobste.rs/s/nbc8eb/division_modulus_for_computer) - [Division and Modulus for Computer Scientists (2003)](https://www.microsoft.com/en-us/research/publication/division-and-modulus-for-computer-scientists/)
 * [2024-08-13, 13:02:52](https://lobste.rs/s/vajmb8/http_1_0_from_scratch) - [HTTP/1.0 From Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 11:33:39](https://lobste.rs/s/i6mzds/abusing_makefiles_for_fun_profit) - [Abusing Makefiles for fun and profit](https://kokada.capivaras.dev/blog/abusing-makefiles-for-fun-and-profit/)
