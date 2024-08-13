@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-13, 17:09:05",
+      "https://lobste.rs/s/g3cvbn/go_1_23_release_notes"
+    ],
+    [
+      "Go 1.23 Release Notes",
+      "https://go.dev/doc/go1.23"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 16:54:23",
       "https://lobste.rs/s/b6h5g3/practitioner_s_guide_testing_running"
     ],
@@ -227,16 +237,6 @@
     [
       "GIL Become Optional in Python 3.13",
       "https://geekpython.in/gil-become-optional-in-python"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 03:21:54",
-      "https://lobste.rs/s/sypzmj/apple_memory_holed_its_broken_promise_for"
-    ],
-    [
-      "Apple memory holed its broken promise for an OCSP opt-out",
-      "https://lapcatsoftware.com/articles/2024/8/3.html"
     ]
   ],
   [
