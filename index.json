@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-13, 13:58:49",
+      "https://lobste.rs/s/nbc8eb/division_modulus_for_computer"
+    ],
+    [
+      "Division and Modulus for Computer Scientists (2003)",
+      "https://www.microsoft.com/en-us/research/publication/division-and-modulus-for-computer-scientists/"
+    ]
+  ],
+  [
+    [
       "2024-08-13, 13:02:52",
       "https://lobste.rs/s/vajmb8/http_1_0_from_scratch"
     ],
@@ -77,16 +87,6 @@
     [
       "Language Server Protocol from debug symbols",
       "https://www.forrestthewoods.com/blog/language-server-protocol-from-debug-symbols/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 22:29:39",
-      "https://lobste.rs/s/c6bivy/introducing_zdi_vanguard_awards"
-    ],
-    [
-      "Introducing the ZDI Vanguard Awards",
-      "https://www.zerodayinitiative.com/blog/2024/8/1/introducing-the-vanguard-awards"
     ]
   ],
   [
