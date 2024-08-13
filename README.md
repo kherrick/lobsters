@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-13, 01:52:57](https://lobste.rs/s/pqgy8b/announcing_lix_2_91_dragon_s_breath) - [Announcing Lix 2.91 \"Dragon's Breath\"](https://lix.systems/blog/2024-08-12-lix-2.91-release/)
+* [2024-08-13, 01:43:15](https://lobste.rs/s/ugbb9i/language_server_protocol_from_debug) - [Language Server Protocol from debug symbols](https://www.forrestthewoods.com/blog/language-server-protocol-from-debug-symbols/)
 * [2024-08-12, 22:29:39](https://lobste.rs/s/c6bivy/introducing_zdi_vanguard_awards) - [Introducing the ZDI Vanguard Awards](https://www.zerodayinitiative.com/blog/2024/8/1/introducing-the-vanguard-awards)
-* [2024-08-12, 19:36:05](https://lobste.rs/s/qb3d3n/beal_s_conjecture_revisited) - [Beal's Conjecture Revisited](http://norvig.com/beal.html)
 * [2024-08-12, 19:22:49](https://lobste.rs/s/exrfes/developing_clis) - [Developing CLIs](https://anchor.dev/blog/developing-clis)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 15:31:18](https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides) - [Why don't programming languages or IDEs support attaching descriptive metadata to variables?](https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t)
@@ -23,7 +24,6 @@
 * [2024-08-12, 00:16:45](https://lobste.rs/s/2lgcxe/jame_life) - [The Jame of Life](https://buttondown.com/hillelwayne/archive/the-jame-of-life/)
 * [2024-08-11, 23:45:45](https://lobste.rs/s/bx6852/windows_98_disk_defrag_simulator) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
 * [2024-08-11, 19:35:54](https://lobste.rs/s/snjs8q/building_static_binaries_nix) - [Building static binaries in Nix](https://kokada.capivaras.dev/blog/building-static-binaries-in-nix/)
-* [2024-08-11, 19:06:41](https://lobste.rs/s/usbmwt/rosie_pattern_language) - [Rosie pattern language](https://rosie-lang.org/)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/chrome_monoculture) - [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 
 ## [Archives](archives/index.md)
