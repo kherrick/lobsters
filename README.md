@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-13, 11:33:39](https://lobste.rs/s/i6mzds/abusing_makefiles_for_fun_profit) - [Abusing Makefiles for fun and profit](https://kokada.capivaras.dev/blog/abusing-makefiles-for-fun-and-profit/)
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-13, 06:59:27](https://lobste.rs/s/7bppwv/new_postgresql_17_make_dist) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
@@ -17,7 +18,6 @@
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 * [2024-08-12, 13:55:51](https://lobste.rs/s/s7dr4y/approximating_sum_types_python_with) - [Approximating sum types in Python with Pydantic](https://blog.yossarian.net/2024/08/12/Approximating-sum-types-in-Python-with-Pydantic)
 * [2024-08-12, 12:27:41](https://lobste.rs/s/mxgp7v/sql_injection_isn_t_dead_smuggling) - [SQL Injection Isn't Dead - Smuggling Queries at the Protocol Level](https://media.defcon.org/DEF%20CON%2032/DEF%20CON%2032%20presentations/DEF%20CON%2032%20-%20Paul%20Gerste%20-%20SQL%20Injection%20Isn%27t%20Dead%20Smuggling%20Queries%20at%20the%20Protocol%20Level.pdf)
-* [2024-08-12, 10:56:27](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nrxsww/what_are_you_doing_this_week)
 * [2024-08-12, 10:08:57](https://lobste.rs/s/loyrf1/illustrated_quic_connection_every_byte) - [The Illustrated QUIC Connection: Every Byte Explained](https://quic.xargs.org/)
 * [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 07:19:24](https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer) - [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
