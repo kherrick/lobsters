@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
+* [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
+* [2024-08-13, 06:59:27](https://lobste.rs/s/7bppwv/new_postgresql_17_make_dist) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 * [2024-08-13, 03:33:05](https://lobste.rs/s/q99sdv/haiku_activity_contract_report_july_2024) - [Haiku Activity & Contract Report, July 2024](https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/)
 * [2024-08-13, 02:22:16](https://lobste.rs/s/rhmktu/don_t_write_return_replacing_output) - [Don't Write, but Return: Replacing Output Parameters with Algebraic Data Types in C-to-Rust Translation](https://dl.acm.org/doi/10.1145/3656406)
 * [2024-08-13, 01:52:57](https://lobste.rs/s/pqgy8b/announcing_lix_2_91_dragon_s_breath) - [Announcing Lix 2.91 \"Dragon's Breath\"](https://lix.systems/blog/2024-08-12-lix-2.91-release/)
@@ -19,10 +22,7 @@
 * [2024-08-12, 07:48:14](https://lobste.rs/s/sbk3y8/gil_become_optional_python_3_13) - [GIL Become Optional in Python 3.13](https://geekpython.in/gil-become-optional-in-python)
 * [2024-08-12, 07:19:24](https://lobste.rs/s/ddaxkl/blitz_high_performance_html_css_renderer) - [blitz: High performance HTML and CSS renderer](https://github.com/DioxusLabs/blitz)
 * [2024-08-12, 05:37:59](https://lobste.rs/s/nrj0xy/webring_written_ocaml_for_fp_enthusiasts) - [A Webring written in OCaml for FP enthusiasts](https://ring.muhokama.fun)
-* [2024-08-12, 03:44:24](https://lobste.rs/s/vy3bwn/colors_gtk) - [The colors of GTK](https://blog.gtk.org/2024/08/11/the-colors-of-gtk/)
 * [2024-08-12, 03:21:54](https://lobste.rs/s/sypzmj/apple_memory_holed_its_broken_promise_for) - [Apple memory holed its broken promise for an OCSP opt-out](https://lapcatsoftware.com/articles/2024/8/3.html)
-* [2024-08-12, 00:19:12](https://lobste.rs/s/dc252a/your_go_version_ci_matrix_might_be_wrong) - [Your Go version CI matrix might be wrong](https://brandur.org/fragments/go-version-matrix)
-* [2024-08-12, 00:16:45](https://lobste.rs/s/2lgcxe/jame_life) - [The Jame of Life](https://buttondown.com/hillelwayne/archive/the-jame-of-life/)
 * [2024-08-11, 23:45:45](https://lobste.rs/s/bx6852/windows_98_disk_defrag_simulator) - [Windows 98 Disk Defrag Simulator](https://defrag98.com/)
 * [2024-08-11, 16:30:15](https://lobste.rs/s/srghen/chrome_monoculture) - [The Chrome Monoculture](https://endler.dev/2024/the-dying-web/)
 
