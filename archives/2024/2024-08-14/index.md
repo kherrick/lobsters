@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 17:41:50](https://lobste.rs/s/zn7ns0/how_big_table_do_you_need_for_your_jigsaw) - [How big a table do you need for your jigsaw puzzle?](https://arxiv.org/abs/2312.04588)
 * [2024-08-14, 16:48:28](https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native) - [Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics](https://uwheel.rs/post/datafusion_uwheel/)
 * [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 16:37:36](https://lobste.rs/s/ecnoea/safe_curves_for_elliptic_curve) - [Safe curves for elliptic curve cryptography](https://eprint.iacr.org/2024/1265.pdf)
