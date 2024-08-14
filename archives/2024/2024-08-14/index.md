@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 14:40:48](https://lobste.rs/s/qyrsfx/practices_reliable_software_design) - [Practices of Reliable Software Design](https://two-wrongs.com/practices-of-reliable-software-design)
 * [2024-08-14, 14:15:40](https://lobste.rs/s/ndkgbl/forge_0_4_0_0_4_1_released) - [Forge 0.4.0 and 0.4.1 released](https://emacsair.me/2024/08/14/forge-0.4/)
 * [2024-08-14, 12:59:07](https://lobste.rs/s/ndjots/csvs_are_kinda_bad_dsvs_are_kinda_good) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
 * [2024-08-14, 12:44:08](https://lobste.rs/s/xv0pj7/will_postgres_development_rely_on) - [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/)
