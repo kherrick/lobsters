@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 16:37:36](https://lobste.rs/s/ecnoea/safe_curves_for_elliptic_curve) - [Safe curves for elliptic curve cryptography](https://eprint.iacr.org/2024/1265.pdf)
 * [2024-08-14, 16:31:27](https://lobste.rs/s/gnnapw/eric_s_raymond_talking_about_cathedral) - [Eric S Raymond talking about The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/linux1_d50_96kbs.mp3)
 * [2024-08-14, 16:20:39](https://lobste.rs/s/5vygdd/would_sherlock_use_traces_metrics_debug) - [Would Sherlock use traces or metrics to debug your application?](https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 16:37:36](https://lobste.rs/s/ecnoea/safe_curves_for_elliptic_curve) - [Safe curves for elliptic curve cryptography](https://eprint.iacr.org/2024/1265.pdf)
 * [2024-08-14, 16:31:27](https://lobste.rs/s/gnnapw/eric_s_raymond_talking_about_cathedral) - [Eric S Raymond talking about The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/linux1_d50_96kbs.mp3)
 * [2024-08-14, 16:20:39](https://lobste.rs/s/5vygdd/would_sherlock_use_traces_metrics_debug) - [Would Sherlock use traces or metrics to debug your application?](https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application)
@@ -11,7 +12,6 @@
 * [2024-08-14, 12:59:07](https://lobste.rs/s/ndjots/csvs_are_kinda_bad_dsvs_are_kinda_good) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
 * [2024-08-14, 12:44:08](https://lobste.rs/s/xv0pj7/will_postgres_development_rely_on) - [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/)
 * [2024-08-14, 12:42:21](https://lobste.rs/s/sd95dm/security_issues_matrix_s_olm_library) - [Security Issues in Matrix’s Olm Library](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
-* [2024-08-14, 09:37:22](https://lobste.rs/s/uuux9z/end_road_for_lambda_choco_s_journey) - [End of the Road for Lambda: Choco's Journey to Kubernetes](https://choco.com/us/stories/life-at-choco/journey-to-kubernetes)
 * [2024-08-14, 02:52:35](https://lobste.rs/s/vddg7l/basic_metaprogramming_zig) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
 * [2024-08-14, 01:35:50](https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines) - [Planning Weekly Workouts in 100 lines of Haskell](https://alt-romes.github.io/posts/2024-08-14-planning-a-workout-week-with-100-lines-of-haskell.html)
 * [2024-08-14, 01:04:43](https://lobste.rs/s/r7at49/long_slow_demise_dvd_ram) - [The long, slow demise of DVD-RAM](https://hackaday.com/2024/08/13/the-long-slow-demise-of-dvd-ram/)
