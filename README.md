@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 18:27:09](https://lobste.rs/s/sth69l/return_enumerator_when_your_collection) - [Return an Enumerator When Your Collection Has Multiple Traversals](https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals)
 * [2024-08-14, 17:56:30](https://lobste.rs/s/efcptf/at_home_your_firmware_analysis_cve_2024) - [At home in your firmware: Analysis of CVE-2024-36877](https://jjensn.com/at-home-in-your-firmware/)
 * [2024-08-14, 17:41:50](https://lobste.rs/s/zn7ns0/how_big_table_do_you_need_for_your_jigsaw) - [How big a table do you need for your jigsaw puzzle?](https://arxiv.org/abs/2312.04588)
 * [2024-08-14, 16:48:28](https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native) - [Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics](https://uwheel.rs/post/datafusion_uwheel/)
 * [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 16:20:39](https://lobste.rs/s/5vygdd/would_sherlock_use_traces_metrics_debug) - [Would Sherlock use traces or metrics to debug your application?](https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application)
+* [2024-08-14, 15:30:50](https://lobste.rs/s/gqk09d/using_lazydocker_with_ssh_based_remote) - [Using lazydocker with SSH-based remote contexts](https://qmacro.org/blog/posts/2024/08/24/using-lazydocker-with-ssh-based-remote-contexts/)
 * [2024-08-14, 15:26:47](https://lobste.rs/s/nbc4xy/some_thoughts_on_openssh_9_8_s) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 * [2024-08-14, 15:19:44](https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows) - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 * [2024-08-14, 14:57:16](https://lobste.rs/s/na6bfg/logtalk_introduction) - [Logtalk introduction](https://logtalk.org/learning/logtalk_introduction.pdf)
@@ -21,9 +23,7 @@
 * [2024-08-14, 00:22:53](https://lobste.rs/s/wk0exd/nist_releases_first_3_finalized_post) - [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
-* [2024-08-13, 13:02:52](https://lobste.rs/s/vajmb8/http_1_0_from_scratch) - [HTTP/1.0 From Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
-* [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 
 ## [Archives](archives/index.md)

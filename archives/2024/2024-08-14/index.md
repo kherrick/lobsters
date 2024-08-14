@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 18:27:09](https://lobste.rs/s/sth69l/return_enumerator_when_your_collection) - [Return an Enumerator When Your Collection Has Multiple Traversals](https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals)
 * [2024-08-14, 17:56:30](https://lobste.rs/s/efcptf/at_home_your_firmware_analysis_cve_2024) - [At home in your firmware: Analysis of CVE-2024-36877](https://jjensn.com/at-home-in-your-firmware/)
 * [2024-08-14, 17:41:50](https://lobste.rs/s/zn7ns0/how_big_table_do_you_need_for_your_jigsaw) - [How big a table do you need for your jigsaw puzzle?](https://arxiv.org/abs/2312.04588)
 * [2024-08-14, 16:48:28](https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native) - [Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics](https://uwheel.rs/post/datafusion_uwheel/)
