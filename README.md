@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 09:37:22](https://lobste.rs/s/uuux9z/end_road_for_lambda_choco_s_journey) - [End of the Road for Lambda: Choco's Journey to Kubernetes](https://choco.com/us/stories/life-at-choco/journey-to-kubernetes)
 * [2024-08-14, 02:52:35](https://lobste.rs/s/vddg7l/basic_metaprogramming_zig) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
 * [2024-08-14, 01:35:50](https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines) - [Planning Weekly Workouts in 100 lines of Haskell](https://alt-romes.github.io/posts/2024-08-14-planning-a-workout-week-with-100-lines-of-haskell.html)
 * [2024-08-14, 01:04:43](https://lobste.rs/s/r7at49/long_slow_demise_dvd_ram) - [The long, slow demise of DVD-RAM](https://hackaday.com/2024/08/13/the-long-slow-demise-of-dvd-ram/)
@@ -23,7 +24,6 @@
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
 * [2024-08-12, 15:18:31](https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024) - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
-* [2024-08-12, 15:00:23](https://lobste.rs/s/dwip3v/rust_project_goals_for_2024) - [Rust Project goals for 2024](https://blog.rust-lang.org/2024/08/12/Project-goals.html)
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 
 ## [Archives](archives/index.md)
