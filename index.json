@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 14:57:16",
+      "https://lobste.rs/s/na6bfg/logtalk_introduction"
+    ],
+    [
+      "Logtalk introduction",
+      "https://logtalk.org/learning/logtalk_introduction.pdf"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 14:40:48",
       "https://lobste.rs/s/qyrsfx/practices_reliable_software_design"
     ],
@@ -197,16 +207,6 @@
     [
       "Good Retry, Bad Retry: An Incident Story",
       "https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 01:52:57",
-      "https://lobste.rs/s/pqgy8b/announcing_lix_2_91_dragon_s_breath"
-    ],
-    [
-      "Announcing Lix 2.91 \"Dragon's Breath\"",
-      "https://lix.systems/blog/2024-08-12-lix-2.91-release/"
     ]
   ],
   [
