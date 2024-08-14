@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 15:30:50](https://lobste.rs/s/gqk09d/using_lazydocker_with_ssh_based_remote) - [Using lazydocker with SSH-based remote contexts](https://qmacro.org/blog/posts/2024/08/24/using-lazydocker-with-ssh-based-remote-contexts/)
 * [2024-08-14, 15:26:47](https://lobste.rs/s/nbc4xy/some_thoughts_on_openssh_9_8_s) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 * [2024-08-14, 15:19:44](https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows) - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 * [2024-08-14, 14:57:16](https://lobste.rs/s/na6bfg/logtalk_introduction) - [Logtalk introduction](https://logtalk.org/learning/logtalk_introduction.pdf)
 * [2024-08-14, 14:40:48](https://lobste.rs/s/qyrsfx/practices_reliable_software_design) - [Practices of Reliable Software Design](https://two-wrongs.com/practices-of-reliable-software-design)
 * [2024-08-14, 14:15:40](https://lobste.rs/s/ndkgbl/forge_0_4_0_0_4_1_released) - [Forge 0.4.0 and 0.4.1 released](https://emacsair.me/2024/08/14/forge-0.4/)
 * [2024-08-14, 12:59:07](https://lobste.rs/s/ndjots/csvs_are_kinda_bad_dsvs_are_kinda_good) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
+* [2024-08-14, 12:44:08](https://lobste.rs/s/xv0pj7/will_postgres_development_rely_on) - [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/)
 * [2024-08-14, 12:42:21](https://lobste.rs/s/sd95dm/security_issues_matrix_s_olm_library) - [Security Issues in Matrix’s Olm Library](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
 * [2024-08-14, 09:37:22](https://lobste.rs/s/uuux9z/end_road_for_lambda_choco_s_journey) - [End of the Road for Lambda: Choco's Journey to Kubernetes](https://choco.com/us/stories/life-at-choco/journey-to-kubernetes)
 * [2024-08-14, 02:52:35](https://lobste.rs/s/vddg7l/basic_metaprogramming_zig) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
@@ -18,13 +20,11 @@
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)
-* [2024-08-13, 13:58:49](https://lobste.rs/s/nbc8eb/division_modulus_for_computer) - [Division and Modulus for Computer Scientists (2003)](https://www.microsoft.com/en-us/research/publication/division-and-modulus-for-computer-scientists/)
 * [2024-08-13, 13:02:52](https://lobste.rs/s/vajmb8/http_1_0_from_scratch) - [HTTP/1.0 From Scratch](https://kmcd.dev/posts/http1.0-from-scratch/)
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
-* [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 
 ## [Archives](archives/index.md)
 
