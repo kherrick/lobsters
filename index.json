@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-14, 15:26:47",
+      "https://lobste.rs/s/nbc4xy/some_thoughts_on_openssh_9_8_s"
+    ],
+    [
+      "Some thoughts on OpenSSH 9.8's PerSourcePenalties feature",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 15:19:44",
+      "https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows"
+    ],
+    [
+      "slow TCP connect on Windows",
+      "https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 14:57:16",
       "https://lobste.rs/s/na6bfg/logtalk_introduction"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-08-13, 18:16:49",
-      "https://lobste.rs/s/pitvn3/ray_tracing_one_weekend"
-    ],
-    [
-      "Ray Tracing in One Weekend",
-      "https://discourse.haskell.org/t/ray-tracing-in-one-weekend/10078"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 17:33:24",
       "https://lobste.rs/s/gomjcb/perils_future_coding"
     ],
@@ -227,16 +237,6 @@
     [
       "You should make a new programming language",
       "https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 15:18:31",
-      "https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024"
-    ],
-    [
-      "A Flexible Minimalist Neovim for 2024",
-      "https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html"
     ]
   ],
   [
