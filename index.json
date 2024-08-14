@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 15:30:50",
+      "https://lobste.rs/s/gqk09d/using_lazydocker_with_ssh_based_remote"
+    ],
+    [
+      "Using lazydocker with SSH-based remote contexts",
+      "https://qmacro.org/blog/posts/2024/08/24/using-lazydocker-with-ssh-based-remote-contexts/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 15:26:47",
       "https://lobste.rs/s/nbc4xy/some_thoughts_on_openssh_9_8_s"
     ],
@@ -57,6 +67,16 @@
     [
       "CSVs Are Kinda Bad. DSVs Are Kinda Good",
       "https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 12:44:08",
+      "https://lobste.rs/s/xv0pj7/will_postgres_development_rely_on"
+    ],
+    [
+      "Will Postgres development rely on mailing lists forever?",
+      "https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-08-13, 13:58:49",
-      "https://lobste.rs/s/nbc8eb/division_modulus_for_computer"
-    ],
-    [
-      "Division and Modulus for Computer Scientists (2003)",
-      "https://www.microsoft.com/en-us/research/publication/division-and-modulus-for-computer-scientists/"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 13:02:52",
       "https://lobste.rs/s/vajmb8/http_1_0_from_scratch"
     ],
@@ -237,16 +247,6 @@
     [
       "You should make a new programming language",
       "https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 14:09:01",
-      "https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm"
-    ],
-    [
-      "Okay, I really like WezTerm",
-      "https://alexplescan.com/posts/2024/08/10/wezterm/"
     ]
   ]
 ]
