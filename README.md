@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 22:51:17](https://lobste.rs/s/lj96re/linux_memory_overcommit_2007) - [Linux memory overcommit (2007)](https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1)
 * [2024-08-14, 21:57:56](https://lobste.rs/s/os59rn/openvms_x86_e9_2_3_fixes_cde_decwindows) - [OpenVMS x86 E9.2-3 fixes CDE (DECWindows) and adds a Guest Console](https://raymii.org/s/blog/OpenVMS_x86_E9.2-3_fixes_CDE_and_adds_Guest_Console.html)
 * [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
 * [2024-08-14, 20:04:32](https://lobste.rs/s/0ltetd/steering_characters_with) - [Steering Characters with Interpretability](https://dmodel.ai/steering_characters/)
@@ -22,7 +23,6 @@
 * [2024-08-14, 00:59:16](https://lobste.rs/s/egvxfb/portals_emacs) - [Portals in Emacs](https://chrisdone.com/posts/portals/)
 * [2024-08-14, 00:22:53](https://lobste.rs/s/wk0exd/nist_releases_first_3_finalized_post) - [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
-* [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 
