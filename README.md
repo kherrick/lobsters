@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 15:26:47](https://lobste.rs/s/nbc4xy/some_thoughts_on_openssh_9_8_s) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
+* [2024-08-14, 15:19:44](https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows) - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 * [2024-08-14, 14:57:16](https://lobste.rs/s/na6bfg/logtalk_introduction) - [Logtalk introduction](https://logtalk.org/learning/logtalk_introduction.pdf)
 * [2024-08-14, 14:40:48](https://lobste.rs/s/qyrsfx/practices_reliable_software_design) - [Practices of Reliable Software Design](https://two-wrongs.com/practices-of-reliable-software-design)
 * [2024-08-14, 14:15:40](https://lobste.rs/s/ndkgbl/forge_0_4_0_0_4_1_released) - [Forge 0.4.0 and 0.4.1 released](https://emacsair.me/2024/08/14/forge-0.4/)
@@ -11,7 +13,6 @@
 * [2024-08-14, 01:04:43](https://lobste.rs/s/r7at49/long_slow_demise_dvd_ram) - [The long, slow demise of DVD-RAM](https://hackaday.com/2024/08/13/the-long-slow-demise-of-dvd-ram/)
 * [2024-08-14, 00:59:16](https://lobste.rs/s/egvxfb/portals_emacs) - [Portals in Emacs](https://chrisdone.com/posts/portals/)
 * [2024-08-14, 00:22:53](https://lobste.rs/s/wk0exd/nist_releases_first_3_finalized_post) - [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
-* [2024-08-13, 18:16:49](https://lobste.rs/s/pitvn3/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://discourse.haskell.org/t/ray-tracing-in-one-weekend/10078)
 * [2024-08-13, 17:33:24](https://lobste.rs/s/gomjcb/perils_future_coding) - [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
 * [2024-08-13, 17:32:13](https://lobste.rs/s/8uuq5m/distributed_relational) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
@@ -23,7 +24,6 @@
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
-* [2024-08-12, 15:18:31](https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024) - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
 * [2024-08-12, 14:09:01](https://lobste.rs/s/nbnso4/okay_i_really_like_wezterm) - [Okay, I really like WezTerm](https://alexplescan.com/posts/2024/08/10/wezterm/)
 
 ## [Archives](archives/index.md)
