@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 17:41:50",
+      "https://lobste.rs/s/zn7ns0/how_big_table_do_you_need_for_your_jigsaw"
+    ],
+    [
+      "How big a table do you need for your jigsaw puzzle?",
+      "https://arxiv.org/abs/2312.04588"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 16:48:28",
       "https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2024-08-14, 09:37:22",
+      "https://lobste.rs/s/uuux9z/end_road_for_lambda_choco_s_journey"
+    ],
+    [
+      "End of the Road for Lambda: Choco's Journey to Kubernetes",
+      "https://choco.com/us/stories/life-at-choco/journey-to-kubernetes"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 02:52:35",
       "https://lobste.rs/s/vddg7l/basic_metaprogramming_zig"
     ],
@@ -157,16 +177,6 @@
     [
       "NIST Releases First 3 Finalized Post-Quantum Encryption Standards",
       "https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 17:33:24",
-      "https://lobste.rs/s/gomjcb/perils_future_coding"
-    ],
-    [
-      "The Perils of Future-Coding",
-      "https://www.sebastiansylvan.com/post/the-perils-of-future-coding/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Weekly Lobsters office hours + development",
       "https://push.cx/stream"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 15:25:51",
-      "https://lobste.rs/s/wimfh5/you_should_make_new_programming_language"
-    ],
-    [
-      "You should make a new programming language",
-      "https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/"
     ]
   ]
 ]
