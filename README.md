@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 00:22:53](https://lobste.rs/s/wk0exd/nist_releases_first_3_finalized_post) - [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
 * [2024-08-13, 21:46:41](https://lobste.rs/s/5sw8pb/post_quantum_cryptography_fips_approved) - [Post-Quantum Cryptography FIPS Approved](https://csrc.nist.gov/News/2024/postquantum-cryptography-fips-approved)
-* [2024-08-13, 19:17:52](https://lobste.rs/s/6vczxm/table_format_comparisons_append_only) - [Table format comparisons - Append-only tables and incremental reads](https://jack-vanlightly.com/blog/2024/8/13/table-format-comparisons-append-only-tables-and-incremental-reads)
 * [2024-08-13, 18:16:49](https://lobste.rs/s/pitvn3/ray_tracing_one_weekend) - [Ray Tracing in One Weekend](https://discourse.haskell.org/t/ray-tracing-in-one-weekend/10078)
 * [2024-08-13, 17:33:24](https://lobste.rs/s/gomjcb/perils_future_coding) - [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
 * [2024-08-13, 17:32:13](https://lobste.rs/s/8uuq5m/distributed_relational) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
