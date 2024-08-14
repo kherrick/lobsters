@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 21:57:56",
+      "https://lobste.rs/s/os59rn/openvms_x86_e9_2_3_fixes_cde_decwindows"
+    ],
+    [
+      "OpenVMS x86 E9.2-3 fixes CDE (DECWindows) and adds a Guest Console",
+      "https://raymii.org/s/blog/OpenVMS_x86_E9.2-3_fixes_CDE_and_adds_Guest_Console.html"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 21:37:33",
       "https://lobste.rs/s/yhup3u/passkeys_are_not_passwords"
     ],
@@ -107,16 +117,6 @@
     [
       "Practices of Reliable Software Design",
       "https://two-wrongs.com/practices-of-reliable-software-design"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 14:15:40",
-      "https://lobste.rs/s/ndkgbl/forge_0_4_0_0_4_1_released"
-    ],
-    [
-      "Forge 0.4.0 and 0.4.1 released",
-      "https://emacsair.me/2024/08/14/forge-0.4/"
     ]
   ],
   [
