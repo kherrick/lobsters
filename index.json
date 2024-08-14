@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-14, 01:35:50",
+      "https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines"
+    ],
+    [
+      "Planning Weekly Workouts in 100 lines of Haskell",
+      "https://alt-romes.github.io/posts/2024-08-14-planning-a-workout-week-with-100-lines-of-haskell.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 01:04:43",
+      "https://lobste.rs/s/r7at49/long_slow_demise_dvd_ram"
+    ],
+    [
+      "The long, slow demise of DVD-RAM",
+      "https://hackaday.com/2024/08/13/the-long-slow-demise-of-dvd-ram/"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 00:59:16",
+      "https://lobste.rs/s/egvxfb/portals_emacs"
+    ],
+    [
+      "Portals in Emacs",
+      "https://chrisdone.com/posts/portals/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 00:22:53",
       "https://lobste.rs/s/wk0exd/nist_releases_first_3_finalized_post"
     ],
@@ -57,16 +87,6 @@
     [
       "Go 1.23 Release Notes",
       "https://go.dev/doc/go1.23"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 16:54:23",
-      "https://lobste.rs/s/b6h5g3/practitioner_s_guide_testing_running"
-    ],
-    [
-      "A practitioner's guide to testing and running large GPU clusters for training generative AI models",
-      "https://www.together.ai/blog/a-practitioners-guide-to-testing-and-running-large-gpu-clusters-for-training-generative-ai-models"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-08-13, 03:33:05",
-      "https://lobste.rs/s/q99sdv/haiku_activity_contract_report_july_2024"
-    ],
-    [
-      "Haiku Activity & Contract Report, July 2024",
-      "https://www.haiku-os.org/blog/waddlesplash/2024-08-12-haiku_activity_contract_report_july_2024/"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 01:52:57",
       "https://lobste.rs/s/pqgy8b/announcing_lix_2_91_dragon_s_breath"
     ],
@@ -197,16 +207,6 @@
     [
       "Weekly Lobsters office hours + development",
       "https://push.cx/stream"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 15:31:18",
-      "https://lobste.rs/s/fxyp7r/why_don_t_programming_languages_ides"
-    ],
-    [
-      "Why don't programming languages or IDEs support attaching descriptive metadata to variables?",
-      "https://softwareengineering.stackexchange.com/questions/454526/why-dont-programming-languages-or-ides-support-attaching-descriptive-metadata-t"
     ]
   ],
   [
