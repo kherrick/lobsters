@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-14, 15:30:50](https://lobste.rs/s/gqk09d/using_lazydocker_with_ssh_based_remote) - [Using lazydocker with SSH-based remote contexts](https://qmacro.org/blog/posts/2024/08/24/using-lazydocker-with-ssh-based-remote-contexts/)
+* [2024-08-14, 16:37:36](https://lobste.rs/s/ecnoea/safe_curves_for_elliptic_curve) - [Safe curves for elliptic curve cryptography](https://eprint.iacr.org/2024/1265.pdf)
+* [2024-08-14, 16:31:27](https://lobste.rs/s/gnnapw/eric_s_raymond_talking_about_cathedral) - [Eric S Raymond talking about The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/linux1_d50_96kbs.mp3)
+* [2024-08-14, 16:20:39](https://lobste.rs/s/5vygdd/would_sherlock_use_traces_metrics_debug) - [Would Sherlock use traces or metrics to debug your application?](https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application)
 * [2024-08-14, 15:26:47](https://lobste.rs/s/nbc4xy/some_thoughts_on_openssh_9_8_s) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 * [2024-08-14, 15:19:44](https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows) - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 * [2024-08-14, 14:57:16](https://lobste.rs/s/na6bfg/logtalk_introduction) - [Logtalk introduction](https://logtalk.org/learning/logtalk_introduction.pdf)
@@ -16,7 +18,6 @@
 * [2024-08-14, 00:59:16](https://lobste.rs/s/egvxfb/portals_emacs) - [Portals in Emacs](https://chrisdone.com/posts/portals/)
 * [2024-08-14, 00:22:53](https://lobste.rs/s/wk0exd/nist_releases_first_3_finalized_post) - [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
 * [2024-08-13, 17:33:24](https://lobste.rs/s/gomjcb/perils_future_coding) - [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
-* [2024-08-13, 17:32:13](https://lobste.rs/s/8uuq5m/distributed_relational) - [Distributed == Relational](https://frest.substack.com/p/distributed-relational)
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)
@@ -24,7 +25,6 @@
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
-* [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
 
 ## [Archives](archives/index.md)
 

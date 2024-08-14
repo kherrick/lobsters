@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 16:37:36](https://lobste.rs/s/ecnoea/safe_curves_for_elliptic_curve) - [Safe curves for elliptic curve cryptography](https://eprint.iacr.org/2024/1265.pdf)
+* [2024-08-14, 16:31:27](https://lobste.rs/s/gnnapw/eric_s_raymond_talking_about_cathedral) - [Eric S Raymond talking about The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/linux1_d50_96kbs.mp3)
+* [2024-08-14, 16:20:39](https://lobste.rs/s/5vygdd/would_sherlock_use_traces_metrics_debug) - [Would Sherlock use traces or metrics to debug your application?](https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application)
 * [2024-08-14, 15:30:50](https://lobste.rs/s/gqk09d/using_lazydocker_with_ssh_based_remote) - [Using lazydocker with SSH-based remote contexts](https://qmacro.org/blog/posts/2024/08/24/using-lazydocker-with-ssh-based-remote-contexts/)
 * [2024-08-14, 15:26:47](https://lobste.rs/s/nbc4xy/some_thoughts_on_openssh_9_8_s) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 * [2024-08-14, 15:19:44](https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows) - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
