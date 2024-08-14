@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-14, 12:44:08",
+      "https://lobste.rs/s/xv0pj7/will_postgres_development_rely_on"
+    ],
+    [
+      "Will Postgres development rely on mailing lists forever?",
+      "https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 12:42:21",
       "https://lobste.rs/s/sd95dm/security_issues_matrix_s_olm_library"
     ],
@@ -197,16 +207,6 @@
     [
       "Announcing Lix 2.91 \"Dragon's Breath\"",
       "https://lix.systems/blog/2024-08-12-lix-2.91-release/"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 01:43:15",
-      "https://lobste.rs/s/ugbb9i/language_server_protocol_from_debug"
-    ],
-    [
-      "Language Server Protocol from debug symbols",
-      "https://www.forrestthewoods.com/blog/language-server-protocol-from-debug-symbols/"
     ]
   ],
   [
