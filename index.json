@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 21:37:33",
+      "https://lobste.rs/s/yhup3u/passkeys_are_not_passwords"
+    ],
+    [
+      "Passkeys are not passwords",
+      "https://notes.neatnik.net/2024/08/passkeys-are-not-passwords"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 20:04:32",
       "https://lobste.rs/s/0ltetd/steering_characters_with"
     ],
@@ -27,16 +37,6 @@
     [
       "Why We Picked AGPL",
       "https://blog.paradedb.com/pages/agpl"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 18:27:09",
-      "https://lobste.rs/s/sth69l/return_enumerator_when_your_collection"
-    ],
-    [
-      "Return an Enumerator When Your Collection Has Multiple Traversals",
-      "https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals"
     ]
   ],
   [
