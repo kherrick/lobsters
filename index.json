@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 02:52:35",
+      "https://lobste.rs/s/vddg7l/basic_metaprogramming_zig"
+    ],
+    [
+      "Basic MetaProgramming in Zig",
+      "https://www.openmymind.net/Basic-MetaProgramming-in-Zig/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 01:35:50",
       "https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines"
     ],
@@ -47,16 +57,6 @@
     [
       "Post-Quantum Cryptography FIPS Approved",
       "https://csrc.nist.gov/News/2024/postquantum-cryptography-fips-approved"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 18:16:49",
-      "https://lobste.rs/s/pitvn3/ray_tracing_one_weekend"
-    ],
-    [
-      "Ray Tracing in One Weekend",
-      "https://discourse.haskell.org/t/ray-tracing-in-one-weekend/10078"
     ]
   ],
   [
