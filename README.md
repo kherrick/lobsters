@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
 * [2024-08-14, 20:04:32](https://lobste.rs/s/0ltetd/steering_characters_with) - [Steering Characters with Interpretability](https://dmodel.ai/steering_characters/)
 * [2024-08-14, 20:00:24](https://lobste.rs/s/gskesp/blocking_render_why_would_you_do) - [blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
 * [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
-* [2024-08-14, 18:27:09](https://lobste.rs/s/sth69l/return_enumerator_when_your_collection) - [Return an Enumerator When Your Collection Has Multiple Traversals](https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals)
 * [2024-08-14, 17:41:50](https://lobste.rs/s/zn7ns0/how_big_table_do_you_need_for_your_jigsaw) - [How big a table do you need for your jigsaw puzzle?](https://arxiv.org/abs/2312.04588)
 * [2024-08-14, 16:48:28](https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native) - [Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics](https://uwheel.rs/post/datafusion_uwheel/)
 * [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)

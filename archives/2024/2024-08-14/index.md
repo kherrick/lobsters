@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
 * [2024-08-14, 20:04:32](https://lobste.rs/s/0ltetd/steering_characters_with) - [Steering Characters with Interpretability](https://dmodel.ai/steering_characters/)
 * [2024-08-14, 20:00:24](https://lobste.rs/s/gskesp/blocking_render_why_would_you_do) - [blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
 * [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
