@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 16:48:28",
+      "https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native"
+    ],
+    [
+      "Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics",
+      "https://uwheel.rs/post/datafusion_uwheel/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 16:40:25",
       "https://lobste.rs/s/cnbocq/run_diablo_i_your_browser"
     ],
@@ -167,16 +177,6 @@
     [
       "NIST Releases First 3 Finalized Post-Quantum Encryption Standards",
       "https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 17:33:24",
-      "https://lobste.rs/s/gomjcb/perils_future_coding"
-    ],
-    [
-      "The Perils of Future-Coding",
-      "https://www.sebastiansylvan.com/post/the-perils-of-future-coding/"
     ]
   ],
   [
