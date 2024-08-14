@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-14](index.md)
 
+* [2024-08-14, 20:04:32](https://lobste.rs/s/0ltetd/steering_characters_with) - [Steering Characters with Interpretability](https://dmodel.ai/steering_characters/)
 * [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
 * [2024-08-14, 18:27:09](https://lobste.rs/s/sth69l/return_enumerator_when_your_collection) - [Return an Enumerator When Your Collection Has Multiple Traversals](https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals)
 * [2024-08-14, 17:56:30](https://lobste.rs/s/efcptf/at_home_your_firmware_analysis_cve_2024) - [At home in your firmware: Analysis of CVE-2024-36877](https://jjensn.com/at-home-in-your-firmware/)
