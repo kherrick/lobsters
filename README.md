@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-14, 16:48:28](https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native) - [Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics](https://uwheel.rs/post/datafusion_uwheel/)
 * [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 16:37:36](https://lobste.rs/s/ecnoea/safe_curves_for_elliptic_curve) - [Safe curves for elliptic curve cryptography](https://eprint.iacr.org/2024/1265.pdf)
 * [2024-08-14, 16:31:27](https://lobste.rs/s/gnnapw/eric_s_raymond_talking_about_cathedral) - [Eric S Raymond talking about The Cathedral and the Bazaar](http://www.catb.org/esr/writings/cathedral-bazaar/linux1_d50_96kbs.mp3)
@@ -17,7 +18,6 @@
 * [2024-08-14, 01:04:43](https://lobste.rs/s/r7at49/long_slow_demise_dvd_ram) - [The long, slow demise of DVD-RAM](https://hackaday.com/2024/08/13/the-long-slow-demise-of-dvd-ram/)
 * [2024-08-14, 00:59:16](https://lobste.rs/s/egvxfb/portals_emacs) - [Portals in Emacs](https://chrisdone.com/posts/portals/)
 * [2024-08-14, 00:22:53](https://lobste.rs/s/wk0exd/nist_releases_first_3_finalized_post) - [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
-* [2024-08-13, 17:33:24](https://lobste.rs/s/gomjcb/perils_future_coding) - [The Perils of Future-Coding](https://www.sebastiansylvan.com/post/the-perils-of-future-coding/)
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
 * [2024-08-13, 15:44:53](https://lobste.rs/s/xbffgc/termsand) - [termsand](https://github.com/cgsdev0/termsand)
 * [2024-08-13, 14:45:45](https://lobste.rs/s/rnlryy/why_exploits_prefer_memory_corruption) - [Why exploits prefer memory corruption](https://pacibsp.github.io/2024/why-exploits-prefer-memory-corruption.html)
