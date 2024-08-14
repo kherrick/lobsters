@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-14, 18:27:09",
+      "https://lobste.rs/s/sth69l/return_enumerator_when_your_collection"
+    ],
+    [
+      "Return an Enumerator When Your Collection Has Multiple Traversals",
+      "https://thoughtbot.com/blog/return-an-enumerator-when-your-collection-has-multiple-traversals"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 17:56:30",
       "https://lobste.rs/s/efcptf/at_home_your_firmware_analysis_cve_2024"
     ],
@@ -47,6 +57,16 @@
     [
       "Would Sherlock use traces or metrics to debug your application?",
       "https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 15:30:50",
+      "https://lobste.rs/s/gqk09d/using_lazydocker_with_ssh_based_remote"
+    ],
+    [
+      "Using lazydocker with SSH-based remote contexts",
+      "https://qmacro.org/blog/posts/2024/08/24/using-lazydocker-with-ssh-based-remote-contexts/"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-08-13, 13:02:52",
-      "https://lobste.rs/s/vajmb8/http_1_0_from_scratch"
-    ],
-    [
-      "HTTP/1.0 From Scratch",
-      "https://kmcd.dev/posts/http1.0-from-scratch/"
-    ]
-  ],
-  [
-    [
       "2024-08-13, 07:11:20",
       "https://lobste.rs/s/yjqd6d/against_names"
     ],
     [
       "Against Names",
       "https://steveklabnik.com/writing/against-names/"
-    ]
-  ],
-  [
-    [
-      "2024-08-13, 07:04:40",
-      "https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story"
-    ],
-    [
-      "Good Retry, Bad Retry: An Incident Story",
-      "https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6"
     ]
   ],
   [
