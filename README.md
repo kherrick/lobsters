@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-08-14, 12:59:07](https://lobste.rs/s/ndjots/csvs_are_kinda_bad_dsvs_are_kinda_good) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
+* [2024-08-14, 12:44:08](https://lobste.rs/s/xv0pj7/will_postgres_development_rely_on) - [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/)
 * [2024-08-14, 12:42:21](https://lobste.rs/s/sd95dm/security_issues_matrix_s_olm_library) - [Security Issues in Matrix’s Olm Library](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
 * [2024-08-14, 09:37:22](https://lobste.rs/s/uuux9z/end_road_for_lambda_choco_s_journey) - [End of the Road for Lambda: Choco's Journey to Kubernetes](https://choco.com/us/stories/life-at-choco/journey-to-kubernetes)
 * [2024-08-14, 02:52:35](https://lobste.rs/s/vddg7l/basic_metaprogramming_zig) - [Basic MetaProgramming in Zig](https://www.openmymind.net/Basic-MetaProgramming-in-Zig/)
@@ -20,7 +21,6 @@
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-13, 06:59:27](https://lobste.rs/s/7bppwv/new_postgresql_17_make_dist) - [The new PostgreSQL 17 make dist](http://peter.eisentraut.org/blog/2024/08/13/the-new-postgresql-17-make-dist)
 * [2024-08-13, 01:52:57](https://lobste.rs/s/pqgy8b/announcing_lix_2_91_dragon_s_breath) - [Announcing Lix 2.91 \"Dragon's Breath\"](https://lix.systems/blog/2024-08-12-lix-2.91-release/)
-* [2024-08-13, 01:43:15](https://lobste.rs/s/ugbb9i/language_server_protocol_from_debug) - [Language Server Protocol from debug symbols](https://www.forrestthewoods.com/blog/language-server-protocol-from-debug-symbols/)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 * [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
 * [2024-08-12, 15:18:31](https://lobste.rs/s/nbtc9i/flexible_minimalist_neovim_for_2024) - [A Flexible Minimalist Neovim for 2024](https://wickstrom.tech/2024-08-12-a-flexible-minimalist-neovim.html)
