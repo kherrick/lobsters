@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-08-14, 20:00:24",
+      "https://lobste.rs/s/gskesp/blocking_render_why_would_you_do"
+    ],
+    [
+      "blocking=render: Why would you do that?",
+      "https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/"
+    ]
+  ],
+  [
+    [
       "2024-08-14, 18:35:29",
       "https://lobste.rs/s/ezfkac/why_we_picked_agpl"
     ],
@@ -57,16 +67,6 @@
     [
       "Run Diablo I in your browser",
       "https://d07riv.github.io/diabloweb/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 16:20:39",
-      "https://lobste.rs/s/5vygdd/would_sherlock_use_traces_metrics_debug"
-    ],
-    [
-      "Would Sherlock use traces or metrics to debug your application?",
-      "https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application"
     ]
   ],
   [
