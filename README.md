@@ -3,7 +3,6 @@
 * [2024-08-14, 16:48:28](https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native) - [Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics](https://uwheel.rs/post/datafusion_uwheel/)
 * [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 16:37:36](https://lobste.rs/s/ecnoea/safe_curves_for_elliptic_curve) - [Safe curves for elliptic curve cryptography](https://eprint.iacr.org/2024/1265.pdf)
-* [2024-08-14, 16:20:39](https://lobste.rs/s/5vygdd/would_sherlock_use_traces_metrics_debug) - [Would Sherlock use traces or metrics to debug your application?](https://jaywhy13.hashnode.dev/would-sherlock-use-traces-or-metrics-to-debug-your-application)
 * [2024-08-14, 15:26:47](https://lobste.rs/s/nbc4xy/some_thoughts_on_openssh_9_8_s) - [Some thoughts on OpenSSH 9.8's PerSourcePenalties feature](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHPerSourcePenaltiesThings)
 * [2024-08-14, 15:19:44](https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows) - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
 * [2024-08-14, 14:57:16](https://lobste.rs/s/na6bfg/logtalk_introduction) - [Logtalk introduction](https://logtalk.org/learning/logtalk_introduction.pdf)
@@ -25,6 +24,7 @@
 * [2024-08-13, 07:11:20](https://lobste.rs/s/yjqd6d/against_names) - [Against Names](https://steveklabnik.com/writing/against-names/)
 * [2024-08-13, 07:04:40](https://lobste.rs/s/efs7lh/good_retry_bad_retry_incident_story) - [Good Retry, Bad Retry: An Incident Story](https://medium.com/yandex/good-retry-bad-retry-an-incident-story-648072d3cee6)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
+* [2024-08-12, 15:25:51](https://lobste.rs/s/wimfh5/you_should_make_new_programming_language) - [You should make a new programming language](https://ntietz.com/blog/you-should-make-a-new-terrible-programming-language/)
 
 ## [Archives](archives/index.md)
 
