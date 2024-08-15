@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 05:01:54",
+      "https://lobste.rs/s/lwfnan/efficient_universal_merkle_tree"
+    ],
+    [
+      "Efficient and Universal Merkle Tree Inclusion Proofs via OR Aggregation",
+      "https://arxiv.org/abs/2405.07941"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 04:04:35",
       "https://lobste.rs/s/w3mxar/gatekeeper_notarization_sequoia"
     ],
@@ -177,16 +187,6 @@
     [
       "Security Issues in Matrix’s Olm Library",
       "https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 09:37:22",
-      "https://lobste.rs/s/uuux9z/end_road_for_lambda_choco_s_journey"
-    ],
-    [
-      "End of the Road for Lambda: Choco's Journey to Kubernetes",
-      "https://choco.com/us/stories/life-at-choco/journey-to-kubernetes"
     ]
   ],
   [
