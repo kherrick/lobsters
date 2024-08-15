@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 11:26:49",
+      "https://lobste.rs/s/mulsn8/aes_encryption_go"
+    ],
+    [
+      "AES encryption in Go",
+      "https://bitfieldconsulting.com/posts/aes-encryption"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 10:27:30",
       "https://lobste.rs/s/bmda3a/optimizing_spa_load_times_with_async"
     ],
@@ -67,16 +77,6 @@
     [
       "Exact Polygonal Filtering",
       "https://jonathanolson.net/exact-polygonal-filtering"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 06:50:54",
-      "https://lobste.rs/s/uipbjo/metaprogramming_bash"
-    ],
-    [
-      "Metaprogramming in bash",
-      "http://adam.younglogic.com/2024/08/metaprogramming-in-bash/"
     ]
   ],
   [
