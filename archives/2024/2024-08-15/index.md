@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 14:08:24](https://lobste.rs/s/qr65lc/programming_pearls_bumper_sticker) - [Programming Pearls: bumper sticker computer science](https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
+* [2024-08-15, 14:06:49](https://lobste.rs/s/ic78re/locales_encodings_unicode) - [Locales, Encodings, and Unicode](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2020r0.pdf)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 * [2024-08-15, 11:26:49](https://lobste.rs/s/mulsn8/aes_encryption_go) - [AES encryption in Go](https://bitfieldconsulting.com/posts/aes-encryption)
 * [2024-08-15, 10:27:30](https://lobste.rs/s/bmda3a/optimizing_spa_load_times_with_async) - [Optimizing SPA load times with async chunks preloading](https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/)
