@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-15](index.md)
+
+* [2024-08-15, 03:53:22](https://lobste.rs/s/evrwjn/3_reasons_traces_are_better_than_metrics) - [3 reasons traces are better than metrics for debugging your application](https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-15, 03:53:22](https://lobste.rs/s/evrwjn/3_reasons_traces_are_better_than_metrics) - [3 reasons traces are better than metrics for debugging your application](https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application)
 * [2024-08-14, 22:51:17](https://lobste.rs/s/lj96re/linux_memory_overcommit_2007) - [Linux memory overcommit (2007)](https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1)
 * [2024-08-14, 22:15:06](https://lobste.rs/s/j4pcqu/async_closures_mvp_call_for_testing) - [Async closures MVP: Call for testing](https://blog.rust-lang.org/inside-rust/2024/08/09/async-closures-call-for-testing.html)
 * [2024-08-14, 21:57:56](https://lobste.rs/s/os59rn/openvms_x86_e9_2_3_fixes_cde_decwindows) - [OpenVMS x86 E9.2-3 fixes CDE (DECWindows) and adds a Guest Console](https://raymii.org/s/blog/OpenVMS_x86_E9.2-3_fixes_CDE_and_adds_Guest_Console.html)
@@ -22,7 +23,6 @@
 * [2024-08-14, 01:35:50](https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines) - [Planning Weekly Workouts in 100 lines of Haskell](https://alt-romes.github.io/posts/2024-08-14-planning-a-workout-week-with-100-lines-of-haskell.html)
 * [2024-08-14, 01:04:43](https://lobste.rs/s/r7at49/long_slow_demise_dvd_ram) - [The long, slow demise of DVD-RAM](https://hackaday.com/2024/08/13/the-long-slow-demise-of-dvd-ram/)
 * [2024-08-14, 00:59:16](https://lobste.rs/s/egvxfb/portals_emacs) - [Portals in Emacs](https://chrisdone.com/posts/portals/)
-* [2024-08-14, 00:22:53](https://lobste.rs/s/wk0exd/nist_releases_first_3_finalized_post) - [NIST Releases First 3 Finalized Post-Quantum Encryption Standards](https://www.nist.gov/news-events/news/2024/08/nist-releases-first-3-finalized-post-quantum-encryption-standards)
 * [2024-08-13, 17:09:05](https://lobste.rs/s/g3cvbn/go_1_23_release_notes) - [Go 1.23 Release Notes](https://go.dev/doc/go1.23)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 
