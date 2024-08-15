@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
 * [2024-08-15, 19:51:45](https://lobste.rs/s/mabhxt/codedraw_draw_with_commands_export_share) - [codedraw: Draw with commands, export and share your creations](https://github.com/xNaCly/codedraw)
 * [2024-08-15, 19:18:20](https://lobste.rs/s/8pyzyf/reflection_based_json_c_at_gigabytes_per) - [Reflection-based JSON in C++ at Gigabytes per Second](https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/)
 * [2024-08-15, 18:39:34](https://lobste.rs/s/aqqjpj/fixing_rails_7_networking_stack) - [Fixing the Rails 7+ networking stack](https://thomascannon.me/guides/fixing-the-rails-networking-stack)
@@ -16,7 +17,6 @@
 * [2024-08-15, 09:02:03](https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav) - [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
 * [2024-08-15, 08:51:13](https://lobste.rs/s/ucs0lr/nltk_version_3_8_2_is_no_longer_available_on) - [nltk version 3.8.2 is no longer available on PyPi](https://github.com/nltk/nltk/issues/3301)
 * [2024-08-15, 06:50:54](https://lobste.rs/s/uipbjo/metaprogramming_bash) - [Metaprogramming in bash](http://adam.younglogic.com/2024/08/metaprogramming-in-bash/)
-* [2024-08-15, 03:53:22](https://lobste.rs/s/evrwjn/3_reasons_traces_are_better_than_metrics) - [3 reasons traces are better than metrics for debugging your application](https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application)
 * [2024-08-14, 22:51:17](https://lobste.rs/s/lj96re/linux_memory_overcommit_2007) - [Linux memory overcommit (2007)](https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1)
 * [2024-08-14, 21:57:56](https://lobste.rs/s/os59rn/openvms_x86_e9_2_3_fixes_cde_decwindows) - [OpenVMS x86 E9.2-3 fixes CDE (DECWindows) and adds a Guest Console](https://raymii.org/s/blog/OpenVMS_x86_E9.2-3_fixes_CDE_and_adds_Guest_Console.html)
 * [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
