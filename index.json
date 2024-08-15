@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 04:04:35",
+      "https://lobste.rs/s/w3mxar/gatekeeper_notarization_sequoia"
+    ],
+    [
+      "Gatekeeper and notarization in Sequoia",
+      "https://eclecticlight.co/2024/08/10/gatekeeper-and-notarization-in-sequoia/"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 03:53:22",
       "https://lobste.rs/s/evrwjn/3_reasons_traces_are_better_than_metrics"
     ],
@@ -87,16 +97,6 @@
     [
       "How big a table do you need for your jigsaw puzzle?",
       "https://arxiv.org/abs/2312.04588"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 16:48:28",
-      "https://lobste.rs/s/otdp4j/introducing_datafusion_uwheel_native"
-    ],
-    [
-      "Introducing datafusion-uwheel, A Native DataFusion Optimizer for Time-based Analytics",
-      "https://uwheel.rs/post/datafusion_uwheel/"
     ]
   ],
   [
