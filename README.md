@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-15, 19:51:45](https://lobste.rs/s/mabhxt/codedraw_draw_with_commands_export_share) - [codedraw: Draw with commands, export and share your creations](https://github.com/xNaCly/codedraw)
 * [2024-08-15, 19:18:20](https://lobste.rs/s/8pyzyf/reflection_based_json_c_at_gigabytes_per) - [Reflection-based JSON in C++ at Gigabytes per Second](https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/)
 * [2024-08-15, 18:39:34](https://lobste.rs/s/aqqjpj/fixing_rails_7_networking_stack) - [Fixing the Rails 7+ networking stack](https://thomascannon.me/guides/fixing-the-rails-networking-stack)
 * [2024-08-15, 17:22:29](https://lobste.rs/s/yq5otj/fellowship_for_maintainers) - [Fellowship for Maintainers](https://www.sovereigntechfund.de/programs/fellowship)
@@ -10,7 +11,6 @@
 * [2024-08-15, 14:06:49](https://lobste.rs/s/ic78re/locales_encodings_unicode) - [Locales, Encodings, and Unicode](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2020r0.pdf)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 * [2024-08-15, 11:26:49](https://lobste.rs/s/mulsn8/aes_encryption_go) - [AES encryption in Go](https://bitfieldconsulting.com/posts/aes-encryption)
-* [2024-08-15, 10:27:30](https://lobste.rs/s/bmda3a/optimizing_spa_load_times_with_async) - [Optimizing SPA load times with async chunks preloading](https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/)
 * [2024-08-15, 10:21:36](https://lobste.rs/s/75c7ar/rust_based_ble_heart_rate_monitor_tui) - [A Rust-based BLE Heart Rate Monitor TUI](https://github.com/nullstalgia/null_iron_heart)
 * [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2024-08-15, 09:02:03](https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav) - [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
