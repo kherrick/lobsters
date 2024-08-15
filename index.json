@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 22:43:13",
+      "https://lobste.rs/s/mffjww/nanolog_nanolog_is_extremely_performant"
+    ],
+    [
+      "NanoLog: Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API",
+      "https://github.com/PlatformLab/NanoLog"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 22:27:05",
       "https://lobste.rs/s/clpwsy/it_s_about_guarantees"
     ],
@@ -167,16 +177,6 @@
     [
       "nltk version 3.8.2 is no longer available on PyPi",
       "https://github.com/nltk/nltk/issues/3301"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 22:51:17",
-      "https://lobste.rs/s/lj96re/linux_memory_overcommit_2007"
-    ],
-    [
-      "Linux memory overcommit (2007)",
-      "https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1"
     ]
   ],
   [
