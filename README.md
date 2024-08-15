@@ -5,6 +5,7 @@
 * [2024-08-15, 08:51:13](https://lobste.rs/s/ucs0lr/nltk_version_3_8_2_is_no_longer_available_on) - [nltk version 3.8.2 is no longer available on PyPi](https://github.com/nltk/nltk/issues/3301)
 * [2024-08-15, 06:59:12](https://lobste.rs/s/3uw925/exact_polygonal_filtering) - [Exact Polygonal Filtering](https://jonathanolson.net/exact-polygonal-filtering)
 * [2024-08-15, 06:50:54](https://lobste.rs/s/uipbjo/metaprogramming_bash) - [Metaprogramming in bash](http://adam.younglogic.com/2024/08/metaprogramming-in-bash/)
+* [2024-08-15, 04:04:35](https://lobste.rs/s/w3mxar/gatekeeper_notarization_sequoia) - [Gatekeeper and notarization in Sequoia](https://eclecticlight.co/2024/08/10/gatekeeper-and-notarization-in-sequoia/)
 * [2024-08-15, 03:53:22](https://lobste.rs/s/evrwjn/3_reasons_traces_are_better_than_metrics) - [3 reasons traces are better than metrics for debugging your application](https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application)
 * [2024-08-14, 23:50:07](https://lobste.rs/s/hua6hp/building_type_search_for_unison) - [Building Type Search for Unison](https://chrispenner.ca/posts/unison-type-search)
 * [2024-08-14, 22:51:17](https://lobste.rs/s/lj96re/linux_memory_overcommit_2007) - [Linux memory overcommit (2007)](https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1)
@@ -23,7 +24,6 @@
 * [2024-08-14, 12:44:08](https://lobste.rs/s/xv0pj7/will_postgres_development_rely_on) - [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/)
 * [2024-08-14, 12:42:21](https://lobste.rs/s/sd95dm/security_issues_matrix_s_olm_library) - [Security Issues in Matrix’s Olm Library](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
 * [2024-08-14, 01:35:50](https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines) - [Planning Weekly Workouts in 100 lines of Haskell](https://alt-romes.github.io/posts/2024-08-14-planning-a-workout-week-with-100-lines-of-haskell.html)
-* [2024-08-14, 00:59:16](https://lobste.rs/s/egvxfb/portals_emacs) - [Portals in Emacs](https://chrisdone.com/posts/portals/)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 
 ## [Archives](archives/index.md)
