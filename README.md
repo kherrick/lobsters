@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-15, 09:49:45](https://lobste.rs/s/xjamwk/closer_look_at_raspberry_pi_rp2350_s_hstx) - [A closer look at Raspberry Pi RP2350's HSTX high-speed serial transmit interface](https://www.cnx-software.com/2024/08/15/raspberry-pi-rp2350-hstx-high-speed-serial-transmit-interface/)
 * [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2024-08-15, 09:02:03](https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav) - [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
 * [2024-08-15, 08:51:13](https://lobste.rs/s/ucs0lr/nltk_version_3_8_2_is_no_longer_available_on) - [nltk version 3.8.2 is no longer available on PyPi](https://github.com/nltk/nltk/issues/3301)
@@ -12,7 +13,6 @@
 * [2024-08-14, 22:15:06](https://lobste.rs/s/j4pcqu/async_closures_mvp_call_for_testing) - [Async closures MVP: Call for testing](https://blog.rust-lang.org/inside-rust/2024/08/09/async-closures-call-for-testing.html)
 * [2024-08-14, 21:57:56](https://lobste.rs/s/os59rn/openvms_x86_e9_2_3_fixes_cde_decwindows) - [OpenVMS x86 E9.2-3 fixes CDE (DECWindows) and adds a Guest Console](https://raymii.org/s/blog/OpenVMS_x86_E9.2-3_fixes_CDE_and_adds_Guest_Console.html)
 * [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
-* [2024-08-14, 20:04:32](https://lobste.rs/s/0ltetd/steering_characters_with) - [Steering Characters with Interpretability](https://dmodel.ai/steering_characters/)
 * [2024-08-14, 20:00:24](https://lobste.rs/s/gskesp/blocking_render_why_would_you_do) - [blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
 * [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
 * [2024-08-14, 17:41:50](https://lobste.rs/s/zn7ns0/how_big_table_do_you_need_for_your_jigsaw) - [How big a table do you need for your jigsaw puzzle?](https://arxiv.org/abs/2312.04588)
