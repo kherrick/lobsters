@@ -2,10 +2,10 @@
   [
     [
       "2024-08-15, 22:43:13",
-      "https://lobste.rs/s/mffjww/nanolog_nanolog_is_extremely_performant"
+      "https://lobste.rs/s/mffjww/nanolog_is_extremely_performant"
     ],
     [
-      "NanoLog: Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API",
+      "Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API",
       "https://github.com/PlatformLab/NanoLog"
     ]
   ],
