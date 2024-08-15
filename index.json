@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 09:02:03",
+      "https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav"
+    ],
+    [
+      "Easy file-sharing with WebDAV",
+      "https://scvalex.net/posts/70/"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 08:51:13",
       "https://lobste.rs/s/ucs0lr/nltk_version_3_8_2_is_no_longer_available_on"
     ],
@@ -167,16 +177,6 @@
     [
       "slow TCP connect on Windows",
       "https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 14:57:16",
-      "https://lobste.rs/s/na6bfg/logtalk_introduction"
-    ],
-    [
-      "Logtalk introduction",
-      "https://logtalk.org/learning/logtalk_introduction.pdf"
     ]
   ],
   [
