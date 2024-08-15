@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 22:27:05](https://lobste.rs/s/clpwsy/it_s_about_guarantees) - [It's About the Guarantees](https://ferd.ca/it-s-about-the-guarantees.html)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
 * [2024-08-15, 19:51:45](https://lobste.rs/s/mabhxt/codedraw_draw_with_commands_export_share) - [codedraw: Draw with commands, export and share your creations](https://github.com/xNaCly/codedraw)
 * [2024-08-15, 19:18:20](https://lobste.rs/s/8pyzyf/reflection_based_json_c_at_gigabytes_per) - [Reflection-based JSON in C++ at Gigabytes per Second](https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/)
