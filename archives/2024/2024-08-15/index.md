@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 11:26:49](https://lobste.rs/s/mulsn8/aes_encryption_go) - [AES encryption in Go](https://bitfieldconsulting.com/posts/aes-encryption)
 * [2024-08-15, 10:27:30](https://lobste.rs/s/bmda3a/optimizing_spa_load_times_with_async) - [Optimizing SPA load times with async chunks preloading](https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/)
 * [2024-08-15, 10:21:36](https://lobste.rs/s/75c7ar/rust_based_ble_heart_rate_monitor_tui) - [A Rust-based BLE Heart Rate Monitor TUI](https://github.com/nullstalgia/null_iron_heart)
 * [2024-08-15, 09:49:45](https://lobste.rs/s/xjamwk/closer_look_at_raspberry_pi_rp2350_s_hstx) - [A closer look at Raspberry Pi RP2350's HSTX high-speed serial transmit interface](https://www.cnx-software.com/2024/08/15/raspberry-pi-rp2350-hstx-high-speed-serial-transmit-interface/)
