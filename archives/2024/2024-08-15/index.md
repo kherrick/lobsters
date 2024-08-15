@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 19:18:20](https://lobste.rs/s/8pyzyf/reflection_based_json_c_at_gigabytes_per) - [Reflection-based JSON in C++ at Gigabytes per Second](https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/)
 * [2024-08-15, 18:39:34](https://lobste.rs/s/aqqjpj/fixing_rails_7_networking_stack) - [Fixing the Rails 7+ networking stack](https://thomascannon.me/guides/fixing-the-rails-networking-stack)
 * [2024-08-15, 17:22:29](https://lobste.rs/s/yq5otj/fellowship_for_maintainers) - [Fellowship for Maintainers](https://www.sovereigntechfund.de/programs/fellowship)
 * [2024-08-15, 17:07:24](https://lobste.rs/s/rdmtpr/practical_compilation_fexprs_using) - [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)

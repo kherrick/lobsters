@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-15, 19:18:20](https://lobste.rs/s/8pyzyf/reflection_based_json_c_at_gigabytes_per) - [Reflection-based JSON in C++ at Gigabytes per Second](https://lemire.me/blog/2024/08/13/reflection-based-json-in-c-at-gigabytes-per-second/)
 * [2024-08-15, 18:39:34](https://lobste.rs/s/aqqjpj/fixing_rails_7_networking_stack) - [Fixing the Rails 7+ networking stack](https://thomascannon.me/guides/fixing-the-rails-networking-stack)
 * [2024-08-15, 17:22:29](https://lobste.rs/s/yq5otj/fellowship_for_maintainers) - [Fellowship for Maintainers](https://www.sovereigntechfund.de/programs/fellowship)
 * [2024-08-15, 17:07:24](https://lobste.rs/s/rdmtpr/practical_compilation_fexprs_using) - [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)
@@ -14,7 +15,6 @@
 * [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2024-08-15, 09:02:03](https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav) - [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
 * [2024-08-15, 08:51:13](https://lobste.rs/s/ucs0lr/nltk_version_3_8_2_is_no_longer_available_on) - [nltk version 3.8.2 is no longer available on PyPi](https://github.com/nltk/nltk/issues/3301)
-* [2024-08-15, 06:59:12](https://lobste.rs/s/3uw925/exact_polygonal_filtering) - [Exact Polygonal Filtering](https://jonathanolson.net/exact-polygonal-filtering)
 * [2024-08-15, 06:50:54](https://lobste.rs/s/uipbjo/metaprogramming_bash) - [Metaprogramming in bash](http://adam.younglogic.com/2024/08/metaprogramming-in-bash/)
 * [2024-08-15, 03:53:22](https://lobste.rs/s/evrwjn/3_reasons_traces_are_better_than_metrics) - [3 reasons traces are better than metrics for debugging your application](https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application)
 * [2024-08-14, 22:51:17](https://lobste.rs/s/lj96re/linux_memory_overcommit_2007) - [Linux memory overcommit (2007)](https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1)
