@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 08:51:13](https://lobste.rs/s/ucs0lr/nltk_version_3_8_2_is_no_longer_available_on) - [nltk version 3.8.2 is no longer available on PyPi](https://github.com/nltk/nltk/issues/3301)
 * [2024-08-15, 06:59:12](https://lobste.rs/s/3uw925/exact_polygonal_filtering) - [Exact Polygonal Filtering](https://jonathanolson.net/exact-polygonal-filtering)
 * [2024-08-15, 06:50:54](https://lobste.rs/s/uipbjo/metaprogramming_bash) - [Metaprogramming in bash](http://adam.younglogic.com/2024/08/metaprogramming-in-bash/)
 * [2024-08-15, 05:01:54](https://lobste.rs/s/lwfnan/efficient_universal_merkle_tree) - [Efficient and Universal Merkle Tree Inclusion Proofs via OR Aggregation](https://arxiv.org/abs/2405.07941)
