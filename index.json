@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 17:07:24",
+      "https://lobste.rs/s/rdmtpr/practical_compilation_fexprs_using"
+    ],
+    [
+      "Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp",
+      "https://arxiv.org/abs/2303.12254"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 15:10:42",
       "https://lobste.rs/s/duh5lg/10_years_dear_imgui"
     ],
@@ -237,16 +247,6 @@
     [
       "Security Issues in Matrix’s Olm Library",
       "https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/"
-    ]
-  ],
-  [
-    [
-      "2024-08-12, 17:18:02",
-      "https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours"
-    ],
-    [
-      "Weekly Lobsters office hours + development",
-      "https://push.cx/stream"
     ]
   ]
 ]
