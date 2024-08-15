@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 14:29:48",
+      "https://lobste.rs/s/q741dx/what_s_so_hard_about_class_types_as_non_type"
+    ],
+    [
+      "What’s so hard about class types as non-type template parameters?",
+      "https://brevzin.github.io/c++/2024/08/15/cnttp/"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 14:08:24",
       "https://lobste.rs/s/qr65lc/programming_pearls_bumper_sticker"
     ],
@@ -227,16 +237,6 @@
     [
       "Security Issues in Matrix’s Olm Library",
       "https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 01:35:50",
-      "https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines"
-    ],
-    [
-      "Planning Weekly Workouts in 100 lines of Haskell",
-      "https://alt-romes.github.io/posts/2024-08-14-planning-a-workout-week-with-100-lines-of-haskell.html"
     ]
   ],
   [
