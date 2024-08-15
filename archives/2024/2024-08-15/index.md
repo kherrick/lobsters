@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 18:39:34](https://lobste.rs/s/aqqjpj/fixing_rails_7_networking_stack) - [Fixing the Rails 7+ networking stack](https://thomascannon.me/guides/fixing-the-rails-networking-stack)
 * [2024-08-15, 17:22:29](https://lobste.rs/s/yq5otj/fellowship_for_maintainers) - [Fellowship for Maintainers](https://www.sovereigntechfund.de/programs/fellowship)
 * [2024-08-15, 17:07:24](https://lobste.rs/s/rdmtpr/practical_compilation_fexprs_using) - [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)
 * [2024-08-15, 15:10:42](https://lobste.rs/s/duh5lg/10_years_dear_imgui) - [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
