@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 15:10:42",
+      "https://lobste.rs/s/duh5lg/10_years_dear_imgui"
+    ],
+    [
+      "10 years of Dear ImGui",
+      "https://github.com/ocornut/imgui/issues/7892"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 14:29:48",
       "https://lobste.rs/s/q741dx/what_s_so_hard_about_class_types_as_non_type"
     ],
@@ -131,12 +141,12 @@
   ],
   [
     [
-      "2024-08-14, 23:50:07",
-      "https://lobste.rs/s/hua6hp/building_type_search_for_unison"
+      "2024-08-15, 03:53:22",
+      "https://lobste.rs/s/evrwjn/3_reasons_traces_are_better_than_metrics"
     ],
     [
-      "Building Type Search for Unison",
-      "https://chrispenner.ca/posts/unison-type-search"
+      "3 reasons traces are better than metrics for debugging your application",
+      "https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Run Diablo I in your browser",
       "https://d07riv.github.io/diabloweb/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 15:19:44",
-      "https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows"
-    ],
-    [
-      "slow TCP connect on Windows",
-      "https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/"
     ]
   ],
   [
