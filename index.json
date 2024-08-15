@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 09:12:53",
+      "https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting"
+    ],
+    [
+      "Font with Built-In Syntax Highlighting",
+      "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 09:02:03",
       "https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav"
     ],
@@ -37,16 +47,6 @@
     [
       "Metaprogramming in bash",
       "http://adam.younglogic.com/2024/08/metaprogramming-in-bash/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 05:01:54",
-      "https://lobste.rs/s/lwfnan/efficient_universal_merkle_tree"
-    ],
-    [
-      "Efficient and Universal Merkle Tree Inclusion Proofs via OR Aggregation",
-      "https://arxiv.org/abs/2405.07941"
     ]
   ],
   [
