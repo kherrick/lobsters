@@ -15,7 +15,7 @@
 * [2024-08-14, 22:15:06](https://lobste.rs/s/j4pcqu/async_closures_mvp_call_for_testing) - [Async closures MVP: Call for testing](https://blog.rust-lang.org/inside-rust/2024/08/09/async-closures-call-for-testing.html)
 * [2024-08-14, 21:57:56](https://lobste.rs/s/os59rn/openvms_x86_e9_2_3_fixes_cde_decwindows) - [OpenVMS x86 E9.2-3 fixes CDE (DECWindows) and adds a Guest Console](https://raymii.org/s/blog/OpenVMS_x86_E9.2-3_fixes_CDE_and_adds_Guest_Console.html)
 * [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
-* [2024-08-14, 20:00:24](https://lobste.rs/s/gskesp/blocking_render_why_would_you_do) - [blocking=render: Why would you do that?](https://csswizardry.com/2024/08/blocking-render-why-whould-you-do-that/)
+* [2024-08-14, 20:04:32](https://lobste.rs/s/0ltetd/steering_characters_with) - [Steering Characters with Interpretability](https://dmodel.ai/steering_characters/)
 * [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
 * [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 15:19:44](https://lobste.rs/s/eh28y7/slow_tcp_connect_on_windows) - [slow TCP connect on Windows](https://daniel.haxx.se/blog/2024/08/14/slow-tcp-connect-on-windows/)
