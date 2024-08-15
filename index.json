@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 21:15:19",
+      "https://lobste.rs/s/4ehwpx/announcing_official_elixir_language"
+    ],
+    [
+      "Announcing the official Elixir Language Server team",
+      "http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 19:51:45",
       "https://lobste.rs/s/mabhxt/codedraw_draw_with_commands_export_share"
     ],
@@ -157,16 +167,6 @@
     [
       "Metaprogramming in bash",
       "http://adam.younglogic.com/2024/08/metaprogramming-in-bash/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 03:53:22",
-      "https://lobste.rs/s/evrwjn/3_reasons_traces_are_better_than_metrics"
-    ],
-    [
-      "3 reasons traces are better than metrics for debugging your application",
-      "https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application"
     ]
   ],
   [
