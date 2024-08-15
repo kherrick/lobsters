@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-15, 06:50:54",
+      "https://lobste.rs/s/uipbjo/metaprogramming_bash"
+    ],
+    [
+      "Metaprogramming in bash",
+      "http://adam.younglogic.com/2024/08/metaprogramming-in-bash/"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 05:01:54",
       "https://lobste.rs/s/lwfnan/efficient_universal_merkle_tree"
     ],
@@ -27,6 +37,16 @@
     [
       "3 reasons traces are better than metrics for debugging your application",
       "https://jaywhy13.hashnode.dev/3-reasons-traces-better-than-metrics-for-debugging-your-application"
+    ]
+  ],
+  [
+    [
+      "2024-08-14, 23:50:07",
+      "https://lobste.rs/s/hua6hp/building_type_search_for_unison"
+    ],
+    [
+      "Building Type Search for Unison",
+      "https://chrispenner.ca/posts/unison-type-search"
     ]
   ],
   [
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2024-08-14, 02:52:35",
-      "https://lobste.rs/s/vddg7l/basic_metaprogramming_zig"
-    ],
-    [
-      "Basic MetaProgramming in Zig",
-      "https://www.openmymind.net/Basic-MetaProgramming-in-Zig/"
-    ]
-  ],
-  [
-    [
       "2024-08-14, 01:35:50",
       "https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines"
     ],
     [
       "Planning Weekly Workouts in 100 lines of Haskell",
       "https://alt-romes.github.io/posts/2024-08-14-planning-a-workout-week-with-100-lines-of-haskell.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 01:04:43",
-      "https://lobste.rs/s/r7at49/long_slow_demise_dvd_ram"
-    ],
-    [
-      "The long, slow demise of DVD-RAM",
-      "https://hackaday.com/2024/08/13/the-long-slow-demise-of-dvd-ram/"
     ]
   ],
   [
