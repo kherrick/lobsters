@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 10:27:30](https://lobste.rs/s/bmda3a/optimizing_spa_load_times_with_async) - [Optimizing SPA load times with async chunks preloading](https://mmazzarolo.com/blog/2024-08-13-async-chunk-preloading-on-load/)
+* [2024-08-15, 10:21:36](https://lobste.rs/s/75c7ar/rust_based_ble_heart_rate_monitor_tui) - [A Rust-based BLE Heart Rate Monitor TUI](https://github.com/nullstalgia/null_iron_heart)
 * [2024-08-15, 09:49:45](https://lobste.rs/s/xjamwk/closer_look_at_raspberry_pi_rp2350_s_hstx) - [A closer look at Raspberry Pi RP2350's HSTX high-speed serial transmit interface](https://www.cnx-software.com/2024/08/15/raspberry-pi-rp2350-hstx-high-speed-serial-transmit-interface/)
 * [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 * [2024-08-15, 09:02:03](https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav) - [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
