@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-15, 14:29:48](https://lobste.rs/s/q741dx/what_s_so_hard_about_class_types_as_non_type) - [What’s so hard about class types as non-type template parameters?](https://brevzin.github.io/c++/2024/08/15/cnttp/)
 * [2024-08-15, 14:08:24](https://lobste.rs/s/qr65lc/programming_pearls_bumper_sticker) - [Programming Pearls: bumper sticker computer science](https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
 * [2024-08-15, 14:06:49](https://lobste.rs/s/ic78re/locales_encodings_unicode) - [Locales, Encodings, and Unicode](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2020r0.pdf)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
@@ -23,7 +24,6 @@
 * [2024-08-14, 12:59:07](https://lobste.rs/s/ndjots/csvs_are_kinda_bad_dsvs_are_kinda_good) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
 * [2024-08-14, 12:44:08](https://lobste.rs/s/xv0pj7/will_postgres_development_rely_on) - [Will Postgres development rely on mailing lists forever?](https://vondra.me/posts/will-postgres-rely-on-mailing-lists-forever/)
 * [2024-08-14, 12:42:21](https://lobste.rs/s/sd95dm/security_issues_matrix_s_olm_library) - [Security Issues in Matrix’s Olm Library](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
-* [2024-08-14, 01:35:50](https://lobste.rs/s/jcjpnc/planning_weekly_workouts_100_lines) - [Planning Weekly Workouts in 100 lines of Haskell](https://alt-romes.github.io/posts/2024-08-14-planning-a-workout-week-with-100-lines-of-haskell.html)
 * [2024-08-12, 17:18:02](https://lobste.rs/s/zzprkr/weekly_lobsters_office_hours) - [Weekly Lobsters office hours + development](https://push.cx/stream)
 
 ## [Archives](archives/index.md)

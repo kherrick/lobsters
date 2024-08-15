@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-15](index.md)
 
+* [2024-08-15, 14:29:48](https://lobste.rs/s/q741dx/what_s_so_hard_about_class_types_as_non_type) - [What’s so hard about class types as non-type template parameters?](https://brevzin.github.io/c++/2024/08/15/cnttp/)
 * [2024-08-15, 14:08:24](https://lobste.rs/s/qr65lc/programming_pearls_bumper_sticker) - [Programming Pearls: bumper sticker computer science](https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
 * [2024-08-15, 14:06:49](https://lobste.rs/s/ic78re/locales_encodings_unicode) - [Locales, Encodings, and Unicode](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2020r0.pdf)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
