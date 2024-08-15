@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-15, 14:08:24",
+      "https://lobste.rs/s/qr65lc/programming_pearls_bumper_sticker"
+    ],
+    [
+      "Programming Pearls: bumper sticker computer science",
+      "https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-15, 14:06:49",
+      "https://lobste.rs/s/ic78re/locales_encodings_unicode"
+    ],
+    [
+      "Locales, Encodings, and Unicode",
+      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2020r0.pdf"
+    ]
+  ],
+  [
+    [
       "2024-08-15, 12:49:13",
       "https://lobste.rs/s/ppt457/it_works_on_my_machine_why"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-08-15, 04:04:35",
-      "https://lobste.rs/s/w3mxar/gatekeeper_notarization_sequoia"
-    ],
-    [
-      "Gatekeeper and notarization in Sequoia",
-      "https://eclecticlight.co/2024/08/10/gatekeeper-and-notarization-in-sequoia/"
-    ]
-  ],
-  [
-    [
       "2024-08-14, 23:50:07",
       "https://lobste.rs/s/hua6hp/building_type_search_for_unison"
     ],
@@ -127,16 +137,6 @@
     [
       "Linux memory overcommit (2007)",
       "https://opsmonkey.blogspot.com/2007/01/linux-memory-overcommit.html?m=1"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 22:15:06",
-      "https://lobste.rs/s/j4pcqu/async_closures_mvp_call_for_testing"
-    ],
-    [
-      "Async closures MVP: Call for testing",
-      "https://blog.rust-lang.org/inside-rust/2024/08/09/async-closures-call-for-testing.html"
     ]
   ],
   [
