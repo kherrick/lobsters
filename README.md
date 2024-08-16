@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-16, 08:16:08](https://lobste.rs/s/za2wlw/quote_unquote_macros) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-16, 07:46:30](https://lobste.rs/s/vgoh4b/some_novel_features_scryer_shen) - [Some novel features of Scryer Shen](https://github.com/mthom/scryer-shen/wiki/Some-novel-features-of-Scryer-Shen)
 * [2024-08-16, 01:13:05](https://lobste.rs/s/kgpxbz/how_good_can_you_be_at_codenames_without) - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
 * [2024-08-16, 00:47:55](https://lobste.rs/s/zirsis/railing_against_time_tools_techniques) - [Railing against time: tools and techniques that got us 5X faster tests](https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results)
@@ -21,7 +22,6 @@
 * [2024-08-15, 09:02:03](https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav) - [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
 * [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
 * [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
-* [2024-08-14, 16:40:25](https://lobste.rs/s/cnbocq/run_diablo_i_your_browser) - [Run Diablo I in your browser](https://d07riv.github.io/diabloweb/)
 * [2024-08-14, 14:40:48](https://lobste.rs/s/qyrsfx/practices_reliable_software_design) - [Practices of Reliable Software Design](https://two-wrongs.com/practices-of-reliable-software-design)
 * [2024-08-14, 12:59:07](https://lobste.rs/s/ndjots/csvs_are_kinda_bad_dsvs_are_kinda_good) - [CSVs Are Kinda Bad. DSVs Are Kinda Good](https://matthodges.com/posts/2024-08-12-csv-bad-dsv-good/)
 * [2024-08-14, 12:42:21](https://lobste.rs/s/sd95dm/security_issues_matrix_s_olm_library) - [Security Issues in Matrix’s Olm Library](https://soatok.blog/2024/08/14/security-issues-in-matrixs-olm-library/)
