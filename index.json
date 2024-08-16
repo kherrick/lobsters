@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-16, 11:20:18",
+      "https://lobste.rs/s/zugavw/dired_abstraction"
+    ],
+    [
+      "The dired abstraction",
+      "https://lmno.lol/alvaro/the-dired-abstraction"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 09:30:13",
       "https://lobste.rs/s/rbwbde/automating_my_now_page"
     ],
@@ -157,16 +167,6 @@
     [
       "10 years of Dear ImGui",
       "https://github.com/ocornut/imgui/issues/7892"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 14:29:48",
-      "https://lobste.rs/s/q741dx/what_s_so_hard_about_class_types_as_non_type"
-    ],
-    [
-      "What’s so hard about class types as non-type template parameters?",
-      "https://brevzin.github.io/c++/2024/08/15/cnttp/"
     ]
   ],
   [
