@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-16, 08:30:41",
+      "https://lobste.rs/s/xpp4ej/comparison_arenas_rust"
+    ],
+    [
+      "A comparison of Arenas in Rust",
+      "https://donsz.nl/blog/arenas/"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 08:16:08",
       "https://lobste.rs/s/za2wlw/quote_unquote_macros"
     ],
@@ -187,16 +197,6 @@
     [
       "Font with Built-In Syntax Highlighting",
       "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 09:02:03",
-      "https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav"
-    ],
-    [
-      "Easy file-sharing with WebDAV",
-      "https://scvalex.net/posts/70/"
     ]
   ],
   [
