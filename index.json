@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-16, 18:58:11",
+      "https://lobste.rs/s/8lbstw/contracts_undefined_behavior_defensive"
+    ],
+    [
+      "Contracts, Undefined Behavior, and Defensive Programming",
+      "https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 18:56:12",
+      "https://lobste.rs/s/d5m8gy/mifare_classic_exposing_static"
+    ],
+    [
+      "MIFARE Classic: exposing the static encrypted nonce variant",
+      "https://eprint.iacr.org/2024/1275.pdf"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 17:06:01",
       "https://lobste.rs/s/9ihsqa/mudita_kompakt"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-08-16, 00:47:55",
-      "https://lobste.rs/s/zirsis/railing_against_time_tools_techniques"
-    ],
-    [
-      "Railing against time: tools and techniques that got us 5X faster tests",
-      "https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results"
-    ]
-  ],
-  [
-    [
       "2024-08-15, 22:43:13",
       "https://lobste.rs/s/mffjww/nanolog_is_extremely_performant"
     ],
@@ -237,16 +247,6 @@
     [
       "Font with Built-In Syntax Highlighting",
       "https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/"
-    ]
-  ],
-  [
-    [
-      "2024-08-14, 18:35:29",
-      "https://lobste.rs/s/ezfkac/why_we_picked_agpl"
-    ],
-    [
-      "Why We Picked AGPL",
-      "https://blog.paradedb.com/pages/agpl"
     ]
   ]
 ]
