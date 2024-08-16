@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 22:24:18](https://lobste.rs/s/un2004/free_opensource_ipv6_textbook) - [Free, OpenSource IPv6 Textbook](https://ipv6textbook.com/)
+* [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/508_whither_cockroachdb_rfd_oxide) - [508 - Whither CockroachDB? / RFD / Oxide](https://rfd.shared.oxide.computer/rfd/0508)
 * [2024-08-16, 22:07:51](https://lobste.rs/s/5pn2sg/soft_deletes_with_ecto_postgresql) - [Soft deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 * [2024-08-16, 21:39:39](https://lobste.rs/s/dcopuv/expanding_on_withoutboat_s_pinned_places) - [Expanding on withoutboat’s pinned places](https://poignardazur.github.io/2024/08/16/pinned-places/)
 * [2024-08-16, 21:01:51](https://lobste.rs/s/ss8oea/replace_docker_compose_with_quadlet_for) - [Replace Docker Compose with Quadlet for Servers](https://matduggan.com/replace-compose-with-quadlet/)
