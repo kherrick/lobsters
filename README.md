@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-16, 22:40:33](https://lobste.rs/s/cz7ick/stardom_dreams_stalking_devices_secret) - [stardom dreams, stalking devices and the secret conglomerate selling both](https://maia.crimew.gay/posts/gps-track-deez-nuts/)
+* [2024-08-16, 22:39:46](https://lobste.rs/s/ljcsfw/unix_day_20000_is_happening_4th_october) - [UNIX day 20000 is happening the 4th of October](https://github.com/xyproto/ud)
 * [2024-08-16, 22:24:18](https://lobste.rs/s/un2004/free_opensource_ipv6_textbook) - [Free, OpenSource IPv6 Textbook](https://ipv6textbook.com/)
 * [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/508_whither_cockroachdb_rfd_oxide) - [508 - Whither CockroachDB? / RFD / Oxide](https://rfd.shared.oxide.computer/rfd/0508)
 * [2024-08-16, 22:07:51](https://lobste.rs/s/5pn2sg/soft_deletes_with_ecto_postgresql) - [Soft deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
@@ -7,7 +9,6 @@
 * [2024-08-16, 21:01:51](https://lobste.rs/s/ss8oea/replace_docker_compose_with_quadlet_for) - [Replace Docker Compose with Quadlet for Servers](https://matduggan.com/replace-compose-with-quadlet/)
 * [2024-08-16, 18:58:11](https://lobste.rs/s/8lbstw/contracts_undefined_behavior_defensive) - [Contracts, Undefined Behavior, and Defensive Programming](https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf)
 * [2024-08-16, 18:56:12](https://lobste.rs/s/d5m8gy/mifare_classic_exposing_static) - [MIFARE Classic: exposing the static encrypted nonce variant](https://eprint.iacr.org/2024/1275.pdf)
-* [2024-08-16, 16:54:22](https://lobste.rs/s/omoznu/using_opentelemetry_otel_collector) - [Using OpenTelemetry and OTel Collector](https://www.causely.io/blog/using-opentelemetry-and-the-otel-collector-for-logs-metrics-and-traces/)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
 * [2024-08-16, 15:37:05](https://lobste.rs/s/wsfn68/process_zero_anti_intelligent_camera) - [Process Zero: The Anti-Intelligent Camera](https://www.lux.camera/introducing-process-zero-for-iphone/)
 * [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)
@@ -20,7 +21,6 @@
 * [2024-08-16, 01:13:05](https://lobste.rs/s/kgpxbz/how_good_can_you_be_at_codenames_without) - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
 * [2024-08-15, 22:43:13](https://lobste.rs/s/mffjww/nanolog_is_extremely_performant) - [Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API](https://github.com/PlatformLab/NanoLog)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
-* [2024-08-15, 18:39:34](https://lobste.rs/s/aqqjpj/fixing_rails_7_networking_stack) - [Fixing the Rails 7+ networking stack](https://thomascannon.me/guides/fixing-the-rails-networking-stack)
 * [2024-08-15, 17:07:24](https://lobste.rs/s/rdmtpr/practical_compilation_fexprs_using) - [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)
 * [2024-08-15, 15:10:42](https://lobste.rs/s/duh5lg/10_years_dear_imgui) - [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
