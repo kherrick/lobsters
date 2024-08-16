@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 17:06:01](https://lobste.rs/s/9ihsqa/mudita_kompakt) - [Mudita Kompakt](https://mudita.com/kompakt/)
 * [2024-08-16, 16:54:22](https://lobste.rs/s/omoznu/using_opentelemetry_otel_collector) - [Using OpenTelemetry and OTel Collector](https://www.causely.io/blog/using-opentelemetry-and-the-otel-collector-for-logs-metrics-and-traces/)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
 * [2024-08-16, 15:37:05](https://lobste.rs/s/wsfn68/process_zero_anti_intelligent_camera) - [Process Zero: The Anti-Intelligent Camera](https://www.lux.camera/introducing-process-zero-for-iphone/)
