@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-16, 08:30:41](https://lobste.rs/s/xpp4ej/comparison_arenas_rust) - [A comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 * [2024-08-16, 08:16:08](https://lobste.rs/s/za2wlw/quote_unquote_macros) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-16, 07:46:30](https://lobste.rs/s/vgoh4b/some_novel_features_scryer_shen) - [Some novel features of Scryer Shen](https://github.com/mthom/scryer-shen/wiki/Some-novel-features-of-Scryer-Shen)
 * [2024-08-16, 01:13:05](https://lobste.rs/s/kgpxbz/how_good_can_you_be_at_codenames_without) - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
@@ -19,7 +20,6 @@
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 * [2024-08-15, 11:26:49](https://lobste.rs/s/mulsn8/aes_encryption_go) - [AES encryption in Go](https://bitfieldconsulting.com/posts/aes-encryption)
 * [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-* [2024-08-15, 09:02:03](https://lobste.rs/s/ptjtw3/easy_file_sharing_with_webdav) - [Easy file-sharing with WebDAV](https://scvalex.net/posts/70/)
 * [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
 * [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
 * [2024-08-14, 14:40:48](https://lobste.rs/s/qyrsfx/practices_reliable_software_design) - [Practices of Reliable Software Design](https://two-wrongs.com/practices-of-reliable-software-design)
