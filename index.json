@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-16, 07:46:30",
+      "https://lobste.rs/s/vgoh4b/some_novel_features_scryer_shen"
+    ],
+    [
+      "Some novel features of Scryer Shen",
+      "https://github.com/mthom/scryer-shen/wiki/Some-novel-features-of-Scryer-Shen"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 01:13:05",
       "https://lobste.rs/s/kgpxbz/how_good_can_you_be_at_codenames_without"
     ],
@@ -157,16 +167,6 @@
     [
       "AES encryption in Go",
       "https://bitfieldconsulting.com/posts/aes-encryption"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 10:21:36",
-      "https://lobste.rs/s/75c7ar/rust_based_ble_heart_rate_monitor_tui"
-    ],
-    [
-      "A Rust-based BLE Heart Rate Monitor TUI",
-      "https://github.com/nullstalgia/null_iron_heart"
     ]
   ],
   [
