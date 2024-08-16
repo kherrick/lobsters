@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-16, 16:54:22](https://lobste.rs/s/omoznu/using_opentelemetry_otel_collector) - [Using OpenTelemetry and OTel Collector](https://www.causely.io/blog/using-opentelemetry-and-the-otel-collector-for-logs-metrics-and-traces/)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
 * [2024-08-16, 15:37:05](https://lobste.rs/s/wsfn68/process_zero_anti_intelligent_camera) - [Process Zero: The Anti-Intelligent Camera](https://www.lux.camera/introducing-process-zero-for-iphone/)
 * [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)
@@ -11,7 +12,6 @@
 * [2024-08-16, 07:46:30](https://lobste.rs/s/vgoh4b/some_novel_features_scryer_shen) - [Some novel features of Scryer Shen](https://github.com/mthom/scryer-shen/wiki/Some-novel-features-of-Scryer-Shen)
 * [2024-08-16, 01:13:05](https://lobste.rs/s/kgpxbz/how_good_can_you_be_at_codenames_without) - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
 * [2024-08-16, 00:47:55](https://lobste.rs/s/zirsis/railing_against_time_tools_techniques) - [Railing against time: tools and techniques that got us 5X faster tests](https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results)
-* [2024-08-16, 00:16:48](https://lobste.rs/s/qayt8w/makeshift_security_analysis_shimano_di2) - [MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles](https://www.usenix.org/system/files/woot24-motallebighomi.pdf)
 * [2024-08-15, 22:43:13](https://lobste.rs/s/mffjww/nanolog_is_extremely_performant) - [Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API](https://github.com/PlatformLab/NanoLog)
 * [2024-08-15, 22:27:05](https://lobste.rs/s/clpwsy/it_s_about_guarantees) - [It's About the Guarantees](https://ferd.ca/it-s-about-the-guarantees.html)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
