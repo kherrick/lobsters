@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-16, 18:58:11](https://lobste.rs/s/8lbstw/contracts_undefined_behavior_defensive) - [Contracts, Undefined Behavior, and Defensive Programming](https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf)
+* [2024-08-16, 18:56:12](https://lobste.rs/s/d5m8gy/mifare_classic_exposing_static) - [MIFARE Classic: exposing the static encrypted nonce variant](https://eprint.iacr.org/2024/1275.pdf)
 * [2024-08-16, 17:06:01](https://lobste.rs/s/9ihsqa/mudita_kompakt) - [Mudita Kompakt](https://mudita.com/kompakt/)
 * [2024-08-16, 16:54:22](https://lobste.rs/s/omoznu/using_opentelemetry_otel_collector) - [Using OpenTelemetry and OTel Collector](https://www.causely.io/blog/using-opentelemetry-and-the-otel-collector-for-logs-metrics-and-traces/)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
@@ -12,7 +14,6 @@
 * [2024-08-16, 08:16:08](https://lobste.rs/s/za2wlw/quote_unquote_macros) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-16, 07:46:30](https://lobste.rs/s/vgoh4b/some_novel_features_scryer_shen) - [Some novel features of Scryer Shen](https://github.com/mthom/scryer-shen/wiki/Some-novel-features-of-Scryer-Shen)
 * [2024-08-16, 01:13:05](https://lobste.rs/s/kgpxbz/how_good_can_you_be_at_codenames_without) - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
-* [2024-08-16, 00:47:55](https://lobste.rs/s/zirsis/railing_against_time_tools_techniques) - [Railing against time: tools and techniques that got us 5X faster tests](https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results)
 * [2024-08-15, 22:43:13](https://lobste.rs/s/mffjww/nanolog_is_extremely_performant) - [Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API](https://github.com/PlatformLab/NanoLog)
 * [2024-08-15, 22:27:05](https://lobste.rs/s/clpwsy/it_s_about_guarantees) - [It's About the Guarantees](https://ferd.ca/it-s-about-the-guarantees.html)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
@@ -24,7 +25,6 @@
 * [2024-08-15, 14:08:24](https://lobste.rs/s/qr65lc/programming_pearls_bumper_sticker) - [Programming Pearls: bumper sticker computer science](https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 * [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-* [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
 
 ## [Archives](archives/index.md)
 

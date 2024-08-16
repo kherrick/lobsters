@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 18:58:11](https://lobste.rs/s/8lbstw/contracts_undefined_behavior_defensive) - [Contracts, Undefined Behavior, and Defensive Programming](https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf)
+* [2024-08-16, 18:56:12](https://lobste.rs/s/d5m8gy/mifare_classic_exposing_static) - [MIFARE Classic: exposing the static encrypted nonce variant](https://eprint.iacr.org/2024/1275.pdf)
 * [2024-08-16, 17:06:01](https://lobste.rs/s/9ihsqa/mudita_kompakt) - [Mudita Kompakt](https://mudita.com/kompakt/)
 * [2024-08-16, 16:54:22](https://lobste.rs/s/omoznu/using_opentelemetry_otel_collector) - [Using OpenTelemetry and OTel Collector](https://www.causely.io/blog/using-opentelemetry-and-the-otel-collector-for-logs-metrics-and-traces/)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
