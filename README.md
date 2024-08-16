@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-16, 23:14:26](https://lobste.rs/s/7w8fbe/wikipedia_reader_for_classic_macos_2023) - [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
+* [2024-08-16, 23:01:13](https://lobste.rs/s/fugilz/how_write_seemingly_unhygienic) - [How to write seemingly unhygienic and referentially opaque macros with Scheme syntax-rules](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
 * [2024-08-16, 22:40:33](https://lobste.rs/s/cz7ick/stardom_dreams_stalking_devices_secret) - [stardom dreams, stalking devices and the secret conglomerate selling both](https://maia.crimew.gay/posts/gps-track-deez-nuts/)
 * [2024-08-16, 22:39:46](https://lobste.rs/s/ljcsfw/unix_day_20000_is_happening_4th_october) - [UNIX day 20000 is happening the 4th of October](https://github.com/xyproto/ud)
 * [2024-08-16, 22:24:18](https://lobste.rs/s/un2004/free_opensource_ipv6_textbook) - [Free, OpenSource IPv6 Textbook](https://ipv6textbook.com/)
@@ -18,13 +20,11 @@
 * [2024-08-16, 08:30:41](https://lobste.rs/s/xpp4ej/comparison_arenas_rust) - [A comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 * [2024-08-16, 08:16:08](https://lobste.rs/s/za2wlw/quote_unquote_macros) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-16, 07:46:30](https://lobste.rs/s/vgoh4b/some_novel_features_scryer_shen) - [Some novel features of Scryer Shen](https://github.com/mthom/scryer-shen/wiki/Some-novel-features-of-Scryer-Shen)
-* [2024-08-16, 01:13:05](https://lobste.rs/s/kgpxbz/how_good_can_you_be_at_codenames_without) - [How good can you be at Codenames without knowing any words?](https://danluu.com/codenames/)
 * [2024-08-15, 22:43:13](https://lobste.rs/s/mffjww/nanolog_is_extremely_performant) - [Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API](https://github.com/PlatformLab/NanoLog)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
 * [2024-08-15, 17:07:24](https://lobste.rs/s/rdmtpr/practical_compilation_fexprs_using) - [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)
 * [2024-08-15, 15:10:42](https://lobste.rs/s/duh5lg/10_years_dear_imgui) - [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
-* [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 
 ## [Archives](archives/index.md)
 
