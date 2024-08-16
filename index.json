@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-16, 16:54:22",
+      "https://lobste.rs/s/omoznu/using_opentelemetry_otel_collector"
+    ],
+    [
+      "Using OpenTelemetry and OTel Collector",
+      "https://www.causely.io/blog/using-opentelemetry-and-the-otel-collector-for-logs-metrics-and-traces/"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 16:49:55",
       "https://lobste.rs/s/fckbue/decision_logs"
     ],
@@ -107,16 +117,6 @@
     [
       "Railing against time: tools and techniques that got us 5X faster tests",
       "https://evilmartians.com/chronicles/railing-against-time-tools-and-techniques-that-got-us-5x-faster-results"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 00:16:48",
-      "https://lobste.rs/s/qayt8w/makeshift_security_analysis_shimano_di2"
-    ],
-    [
-      "MakeShift: Security Analysis of Shimano Di2 Wireless Gear Shifting in Bicycles",
-      "https://www.usenix.org/system/files/woot24-motallebighomi.pdf"
     ]
   ],
   [
