@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-16](index.md)
 
+* [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
 * [2024-08-16, 15:37:05](https://lobste.rs/s/wsfn68/process_zero_anti_intelligent_camera) - [Process Zero: The Anti-Intelligent Camera](https://www.lux.camera/introducing-process-zero-for-iphone/)
 * [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)
 * [2024-08-16, 12:01:52](https://lobste.rs/s/nrwgxg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nrwgxg/what_are_you_doing_this_weekend)

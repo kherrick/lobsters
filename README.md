@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
 * [2024-08-16, 15:37:05](https://lobste.rs/s/wsfn68/process_zero_anti_intelligent_camera) - [Process Zero: The Anti-Intelligent Camera](https://www.lux.camera/introducing-process-zero-for-iphone/)
 * [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)
 * [2024-08-16, 12:01:52](https://lobste.rs/s/nrwgxg/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nrwgxg/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 * [2024-08-15, 11:26:49](https://lobste.rs/s/mulsn8/aes_encryption_go) - [AES encryption in Go](https://bitfieldconsulting.com/posts/aes-encryption)
 * [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
-* [2024-08-14, 21:37:33](https://lobste.rs/s/yhup3u/passkeys_are_not_passwords) - [Passkeys are not passwords](https://notes.neatnik.net/2024/08/passkeys-are-not-passwords)
 * [2024-08-14, 18:35:29](https://lobste.rs/s/ezfkac/why_we_picked_agpl) - [Why We Picked AGPL](https://blog.paradedb.com/pages/agpl)
 
 ## [Archives](archives/index.md)
