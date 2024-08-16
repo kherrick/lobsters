@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-16, 22:07:51](https://lobste.rs/s/5pn2sg/soft_deletes_with_ecto_postgresql) - [Soft deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 * [2024-08-16, 21:39:39](https://lobste.rs/s/dcopuv/expanding_on_withoutboat_s_pinned_places) - [Expanding on withoutboat’s pinned places](https://poignardazur.github.io/2024/08/16/pinned-places/)
 * [2024-08-16, 21:01:51](https://lobste.rs/s/ss8oea/replace_docker_compose_with_quadlet_for) - [Replace Docker Compose with Quadlet for Servers](https://matduggan.com/replace-compose-with-quadlet/)
 * [2024-08-16, 18:58:11](https://lobste.rs/s/8lbstw/contracts_undefined_behavior_defensive) - [Contracts, Undefined Behavior, and Defensive Programming](https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf)
@@ -22,7 +23,6 @@
 * [2024-08-15, 17:22:29](https://lobste.rs/s/yq5otj/fellowship_for_maintainers) - [Fellowship for Maintainers](https://www.sovereigntechfund.de/programs/fellowship)
 * [2024-08-15, 17:07:24](https://lobste.rs/s/rdmtpr/practical_compilation_fexprs_using) - [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)
 * [2024-08-15, 15:10:42](https://lobste.rs/s/duh5lg/10_years_dear_imgui) - [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
-* [2024-08-15, 14:08:24](https://lobste.rs/s/qr65lc/programming_pearls_bumper_sticker) - [Programming Pearls: bumper sticker computer science](https://tildesites.bowdoin.edu/~ltoma/teaching/cs340/spring05/coursestuff/Bentley_BumperSticker.pdf)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 * [2024-08-15, 09:12:53](https://lobste.rs/s/n7tyvc/font_with_built_syntax_highlighting) - [Font with Built-In Syntax Highlighting](https://blog.glyphdrawing.club/font-with-built-in-syntax-highlighting/)
 
