@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 18:01:55](https://lobste.rs/s/8yhogc/reckoning_part_1_landscape) - [Reckoning: Part 1 — The Landscape](https://infrequently.org/2024/08/the-landscape/)
 * [2024-08-17, 17:15:03](https://lobste.rs/s/1fttgh/radxa_x4_sbc_unites_intel_n100_raspberry) - [Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040](https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040)
 * [2024-08-17, 16:49:29](https://lobste.rs/s/mrczgd/symbolics_s_dynamics_manual_1985) - [Symbolics S-Dynamics manual (1985)](https://archive.org/details/symbolics-s-dynamics-manual)
 * [2024-08-17, 14:51:52](https://lobste.rs/s/fnxy4j/official_native_windows_support_for) - [Official native Windows support for OCaml with opam 2.2.0](https://opam.ocaml.org/blog/opam-2-2-0/)
@@ -18,7 +19,6 @@
 * [2024-08-16, 22:24:18](https://lobste.rs/s/un2004/free_opensource_ipv6_textbook) - [Free, OpenSource IPv6 Textbook](https://ipv6textbook.com/)
 * [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/whither_cockroachdb) - [Whither CockroachDB?](https://rfd.shared.oxide.computer/rfd/0508)
 * [2024-08-16, 21:01:51](https://lobste.rs/s/ss8oea/replace_docker_compose_with_quadlet_for) - [Replace Docker Compose with Quadlet for Servers](https://matduggan.com/replace-compose-with-quadlet/)
-* [2024-08-16, 18:58:11](https://lobste.rs/s/8lbstw/contracts_undefined_behavior_defensive) - [Contracts, Undefined Behavior, and Defensive Programming](https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
 * [2024-08-16, 15:37:05](https://lobste.rs/s/wsfn68/process_zero_anti_intelligent_camera) - [Process Zero: The Anti-Intelligent Camera](https://www.lux.camera/introducing-process-zero-for-iphone/)
 * [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)

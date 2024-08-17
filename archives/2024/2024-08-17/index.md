@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 18:01:55](https://lobste.rs/s/8yhogc/reckoning_part_1_landscape) - [Reckoning: Part 1 — The Landscape](https://infrequently.org/2024/08/the-landscape/)
 * [2024-08-17, 17:15:03](https://lobste.rs/s/1fttgh/radxa_x4_sbc_unites_intel_n100_raspberry) - [Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040](https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040)
 * [2024-08-17, 16:49:29](https://lobste.rs/s/mrczgd/symbolics_s_dynamics_manual_1985) - [Symbolics S-Dynamics manual (1985)](https://archive.org/details/symbolics-s-dynamics-manual)
 * [2024-08-17, 14:51:52](https://lobste.rs/s/fnxy4j/official_native_windows_support_for) - [Official native Windows support for OCaml with opam 2.2.0](https://opam.ocaml.org/blog/opam-2-2-0/)
