@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 16:49:29](https://lobste.rs/s/mrczgd/symbolics_s_dynamics_manual_1985) - [Symbolics S-Dynamics manual (1985)](https://archive.org/details/symbolics-s-dynamics-manual)
 * [2024-08-17, 14:51:52](https://lobste.rs/s/fnxy4j/official_native_windows_support_for) - [Official native Windows support for OCaml with opam 2.2.0](https://opam.ocaml.org/blog/opam-2-2-0/)
 * [2024-08-17, 14:27:42](https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 10:20:01](https://lobste.rs/s/hcjxaa/just_use_postgres) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
@@ -11,7 +12,6 @@
 * [2024-08-17, 02:36:13](https://lobste.rs/s/qbockn/techniques_for_safe_garbage_collection) - [Techniques for Safe Garbage Collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-16, 23:24:24](https://lobste.rs/s/x98v3v/case_for_vanilla_jsx) - [A case for vanilla JSX](https://vanillajsx.com/)
 * [2024-08-16, 23:14:26](https://lobste.rs/s/7w8fbe/wikipedia_reader_for_classic_macos_2023) - [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
-* [2024-08-16, 23:01:13](https://lobste.rs/s/fugilz/how_write_seemingly_unhygienic) - [How to write seemingly unhygienic and referentially opaque macros with Scheme syntax-rules](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
 * [2024-08-16, 22:40:33](https://lobste.rs/s/cz7ick/stardom_dreams_stalking_devices_secret) - [stardom dreams, stalking devices and the secret conglomerate selling both](https://maia.crimew.gay/posts/gps-track-deez-nuts/)
 * [2024-08-16, 22:39:46](https://lobste.rs/s/ljcsfw/unix_day_20000_is_happening_4th_october) - [UNIX day 20000 is happening the 4th of October](https://github.com/xyproto/ud)
 * [2024-08-16, 22:24:18](https://lobste.rs/s/un2004/free_opensource_ipv6_textbook) - [Free, OpenSource IPv6 Textbook](https://ipv6textbook.com/)
