@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 09:06:38](https://lobste.rs/s/nqmkbt/noexcept_affects_libstdc_s_unordered_set) - [noexcept affects libstdc++’s unordered_set](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-17, 08:33:02](https://lobste.rs/s/z240zu/systems_distributed_24) - [Systems Distributed '24](https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf)
 * [2024-08-17, 08:18:09](https://lobste.rs/s/argswi/libpomp_printf_oriented_message) - [libpomp: Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
 * [2024-08-17, 08:01:58](https://lobste.rs/s/bj8ml8/draft_for_ecmascript_error_safe) - [Draft for ECMAScript Error Safe Assignment Operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator)
@@ -24,7 +25,6 @@
 * [2024-08-16, 08:16:08](https://lobste.rs/s/za2wlw/quote_unquote_macros) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
 * [2024-08-15, 15:10:42](https://lobste.rs/s/duh5lg/10_years_dear_imgui) - [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
-* [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 
 ## [Archives](archives/index.md)
 

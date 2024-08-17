@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 09:06:38](https://lobste.rs/s/nqmkbt/noexcept_affects_libstdc_s_unordered_set) - [noexcept affects libstdc++’s unordered_set](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-17, 08:33:02](https://lobste.rs/s/z240zu/systems_distributed_24) - [Systems Distributed '24](https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf)
 * [2024-08-17, 08:18:09](https://lobste.rs/s/argswi/libpomp_printf_oriented_message) - [libpomp: Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
 * [2024-08-17, 08:01:58](https://lobste.rs/s/bj8ml8/draft_for_ecmascript_error_safe) - [Draft for ECMAScript Error Safe Assignment Operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator)
