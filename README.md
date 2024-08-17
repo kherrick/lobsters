@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 19:43:13](https://lobste.rs/s/zklsqm/decentralized_verifiable_cloud_service) - [Decentralized and Verifiable Cloud Service on Ethereum](https://ethresear.ch/t/decentralized-and-verifiable-cloud-service-on-ethereum/20292)
 * [2024-08-17, 19:40:07](https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class) - [Ask: are there languages with first class table support, similar to struct or map?](https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class)
 * [2024-08-17, 18:58:56](https://lobste.rs/s/huptlj/incorporating_lua_with_livtet) - [Incorporating Lua with Livtet](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
 * [2024-08-17, 18:01:55](https://lobste.rs/s/8yhogc/reckoning_part_1_landscape) - [Reckoning: Part 1 — The Landscape](https://infrequently.org/2024/08/the-landscape/)
@@ -8,7 +9,6 @@
 * [2024-08-17, 14:51:52](https://lobste.rs/s/fnxy4j/official_native_windows_support_for) - [Official native Windows support for OCaml with opam 2.2.0](https://opam.ocaml.org/blog/opam-2-2-0/)
 * [2024-08-17, 14:27:42](https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 10:20:01](https://lobste.rs/s/hcjxaa/just_use_postgres) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
-* [2024-08-17, 10:14:14](https://lobste.rs/s/3jyxhj/lifecycle_instruction_set) - [The Lifecycle of an Instruction Set](https://player.vimeo.com/video/450406346)
 * [2024-08-17, 09:06:38](https://lobste.rs/s/nqmkbt/noexcept_affects_libstdc_s_unordered_set) - [noexcept affects libstdc++’s unordered_set](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-17, 08:33:02](https://lobste.rs/s/z240zu/systems_distributed_24) - [Systems Distributed '24](https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf)
 * [2024-08-17, 08:18:09](https://lobste.rs/s/argswi/libpomp_printf_oriented_message) - [libpomp: Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
