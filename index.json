@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-17, 02:54:26",
+      "https://lobste.rs/s/ztqsy1/llms_bug_finding_insights_from_ai_cyber"
+    ],
+    [
+      "LLMs and Bug Finding – Insights from the AI Cyber Challenge",
+      "https://team-atlanta.github.io/blog/post-atl/"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 02:36:13",
       "https://lobste.rs/s/qbockn/techniques_for_safe_garbage_collection"
     ],
@@ -107,16 +117,6 @@
     [
       "Contracts, Undefined Behavior, and Defensive Programming",
       "https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 18:56:12",
-      "https://lobste.rs/s/d5m8gy/mifare_classic_exposing_static"
-    ],
-    [
-      "MIFARE Classic: exposing the static encrypted nonce variant",
-      "https://eprint.iacr.org/2024/1275.pdf"
     ]
   ],
   [
