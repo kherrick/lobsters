@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-17, 23:33:09",
+      "https://lobste.rs/s/droago/reckoning"
+    ],
+    [
+      "Reckoning",
+      "https://infrequently.org/series/reckoning/"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 22:41:23",
       "https://lobste.rs/s/dmho7k/switching_usb_controller_at_boot_on_esp32"
     ],
@@ -197,16 +207,6 @@
     [
       "Techniques for Safe Garbage Collection in Rust",
       "https://kyju.org/blog/rust-safe-garbage-collection/"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 23:24:24",
-      "https://lobste.rs/s/x98v3v/case_for_vanilla_jsx"
-    ],
-    [
-      "A case for vanilla JSX",
-      "https://vanillajsx.com/"
     ]
   ],
   [
