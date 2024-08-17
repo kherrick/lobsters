@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-17, 18:58:56](https://lobste.rs/s/huptlj/incorporating_lua_with_livtet_jacky) - [Incorporating Lua with Livtet - Jacky Alciné](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
+* [2024-08-17, 18:58:56](https://lobste.rs/s/huptlj/incorporating_lua_with_livtet) - [Incorporating Lua with Livtet](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
 * [2024-08-17, 18:01:55](https://lobste.rs/s/8yhogc/reckoning_part_1_landscape) - [Reckoning: Part 1 — The Landscape](https://infrequently.org/2024/08/the-landscape/)
 * [2024-08-17, 17:15:03](https://lobste.rs/s/1fttgh/radxa_x4_sbc_unites_intel_n100_raspberry) - [Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040](https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040)
 * [2024-08-17, 16:49:29](https://lobste.rs/s/mrczgd/symbolics_s_dynamics_manual_1985) - [Symbolics S-Dynamics manual (1985)](https://archive.org/details/symbolics-s-dynamics-manual)
