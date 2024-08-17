@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-17, 14:51:52",
+      "https://lobste.rs/s/fnxy4j/official_native_windows_support_for"
+    ],
+    [
+      "Official native Windows support for OCaml with opam 2.2.0",
+      "https://opam.ocaml.org/blog/opam-2-2-0/"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 14:27:42",
       "https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing the official Elixir Language Server team",
       "http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 15:10:42",
-      "https://lobste.rs/s/duh5lg/10_years_dear_imgui"
-    ],
-    [
-      "10 years of Dear ImGui",
-      "https://github.com/ocornut/imgui/issues/7892"
     ]
   ]
 ]
