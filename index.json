@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-17, 07:35:27",
+      "https://lobste.rs/s/i38agx/emit_co2_during_program_startup"
+    ],
+    [
+      "Emit CO2 during program startup",
+      "https://github.com/antonmedv/walk/commit/f6faf52e8986008af27cf6d746c645ca0c01dfd3"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 02:54:26",
       "https://lobste.rs/s/ztqsy1/llms_bug_finding_insights_from_ai_cyber"
     ],
@@ -197,16 +207,6 @@
     [
       "Quote-unquote \"macros\"",
       "https://ianthehenry.com/posts/quote-unquote-macros/"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 22:43:13",
-      "https://lobste.rs/s/mffjww/nanolog_is_extremely_performant"
-    ],
-    [
-      "Nanolog is an extremely performant nanosecond scale logging system for C++ that exposes a simple printf-like API",
-      "https://github.com/PlatformLab/NanoLog"
     ]
   ],
   [
