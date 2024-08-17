@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 23:33:09](https://lobste.rs/s/droago/reckoning) - [Reckoning](https://infrequently.org/series/reckoning/)
 * [2024-08-17, 22:41:23](https://lobste.rs/s/dmho7k/switching_usb_controller_at_boot_on_esp32) - [Switching USB controller at boot on ESP32-S3](https://subalpinecircuits.com/usb-controller-esp32s3/)
 * [2024-08-17, 22:37:47](https://lobste.rs/s/7tdapk/sementic_versioning_doesn_t_support) - [Sementic Versioning Doesn't Support Rolling Deprecation](https://kevincox.ca/2024/08/17/semver-rolling-deprecation/)
 * [2024-08-17, 22:25:02](https://lobste.rs/s/aplhuj/optimisation_dependent_ir_decisions) - [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
@@ -20,7 +21,6 @@
 * [2024-08-17, 08:18:09](https://lobste.rs/s/argswi/libpomp_printf_oriented_message) - [libpomp: Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
 * [2024-08-17, 08:01:58](https://lobste.rs/s/bj8ml8/draft_for_ecmascript_error_safe) - [Draft for ECMAScript Error Safe Assignment Operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator)
 * [2024-08-17, 02:36:13](https://lobste.rs/s/qbockn/techniques_for_safe_garbage_collection) - [Techniques for Safe Garbage Collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
-* [2024-08-16, 23:24:24](https://lobste.rs/s/x98v3v/case_for_vanilla_jsx) - [A case for vanilla JSX](https://vanillajsx.com/)
 * [2024-08-16, 23:14:26](https://lobste.rs/s/7w8fbe/wikipedia_reader_for_classic_macos_2023) - [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
 * [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/whither_cockroachdb) - [Whither CockroachDB?](https://rfd.shared.oxide.computer/rfd/0508)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
