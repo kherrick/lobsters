@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 20:15:20](https://lobste.rs/s/5uvxg1/definition_magic_programming_languages) - [A Definition of Magic in Programming Languages](https://jerf.org/iri/post/2024/magic/)
 * [2024-08-17, 19:43:13](https://lobste.rs/s/zklsqm/decentralized_verifiable_cloud_service) - [Decentralized and Verifiable Cloud Service on Ethereum](https://ethresear.ch/t/decentralized-and-verifiable-cloud-service-on-ethereum/20292)
 * [2024-08-17, 19:40:07](https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class) - [Ask: are there languages with first class table support, similar to struct or map?](https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class)
 * [2024-08-17, 18:58:56](https://lobste.rs/s/huptlj/incorporating_lua_with_livtet) - [Incorporating Lua with Livtet](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
@@ -24,7 +25,6 @@
 * [2024-08-16, 15:37:05](https://lobste.rs/s/wsfn68/process_zero_anti_intelligent_camera) - [Process Zero: The Anti-Intelligent Camera](https://www.lux.camera/introducing-process-zero-for-iphone/)
 * [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)
 * [2024-08-16, 11:20:18](https://lobste.rs/s/zugavw/dired_abstraction) - [The dired abstraction](https://lmno.lol/alvaro/the-dired-abstraction)
-* [2024-08-16, 09:30:13](https://lobste.rs/s/rbwbde/automating_my_now_page) - [Automating my /now page](https://akashgoswami.dev/posts/automating-my-now-page/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-17](index.md)
 
+* [2024-08-17, 20:15:20](https://lobste.rs/s/5uvxg1/definition_magic_programming_languages) - [A Definition of Magic in Programming Languages](https://jerf.org/iri/post/2024/magic/)
 * [2024-08-17, 19:43:13](https://lobste.rs/s/zklsqm/decentralized_verifiable_cloud_service) - [Decentralized and Verifiable Cloud Service on Ethereum](https://ethresear.ch/t/decentralized-and-verifiable-cloud-service-on-ethereum/20292)
 * [2024-08-17, 19:40:07](https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class) - [Ask: are there languages with first class table support, similar to struct or map?](https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class)
 * [2024-08-17, 18:58:56](https://lobste.rs/s/huptlj/incorporating_lua_with_livtet_jacky) - [Incorporating Lua with Livtet - Jacky Alciné](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
