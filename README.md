@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 18:58:56](https://lobste.rs/s/huptlj/incorporating_lua_with_livtet_jacky) - [Incorporating Lua with Livtet - Jacky Alciné](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
 * [2024-08-17, 18:01:55](https://lobste.rs/s/8yhogc/reckoning_part_1_landscape) - [Reckoning: Part 1 — The Landscape](https://infrequently.org/2024/08/the-landscape/)
 * [2024-08-17, 17:15:03](https://lobste.rs/s/1fttgh/radxa_x4_sbc_unites_intel_n100_raspberry) - [Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040](https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040)
 * [2024-08-17, 16:49:29](https://lobste.rs/s/mrczgd/symbolics_s_dynamics_manual_1985) - [Symbolics S-Dynamics manual (1985)](https://archive.org/details/symbolics-s-dynamics-manual)
@@ -24,7 +25,6 @@
 * [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)
 * [2024-08-16, 11:20:18](https://lobste.rs/s/zugavw/dired_abstraction) - [The dired abstraction](https://lmno.lol/alvaro/the-dired-abstraction)
 * [2024-08-16, 09:30:13](https://lobste.rs/s/rbwbde/automating_my_now_page) - [Automating my /now page](https://akashgoswami.dev/posts/automating-my-now-page/)
-* [2024-08-16, 08:30:41](https://lobste.rs/s/xpp4ej/comparison_arenas_rust) - [A comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 
 ## [Archives](archives/index.md)
 
