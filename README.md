@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 14:51:52](https://lobste.rs/s/fnxy4j/official_native_windows_support_for) - [Official native Windows support for OCaml with opam 2.2.0](https://opam.ocaml.org/blog/opam-2-2-0/)
 * [2024-08-17, 14:27:42](https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 10:20:01](https://lobste.rs/s/hcjxaa/just_use_postgres) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
 * [2024-08-17, 10:14:14](https://lobste.rs/s/3jyxhj/lifecycle_instruction_set) - [The Lifecycle of an Instruction Set](https://player.vimeo.com/video/450406346)
@@ -24,7 +25,6 @@
 * [2024-08-16, 09:30:13](https://lobste.rs/s/rbwbde/automating_my_now_page) - [Automating my /now page](https://akashgoswami.dev/posts/automating-my-now-page/)
 * [2024-08-16, 08:30:41](https://lobste.rs/s/xpp4ej/comparison_arenas_rust) - [A comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
-* [2024-08-15, 15:10:42](https://lobste.rs/s/duh5lg/10_years_dear_imgui) - [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
 
 ## [Archives](archives/index.md)
 
