@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 10:20:01](https://lobste.rs/s/hcjxaa/just_use_postgres) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
+* [2024-08-17, 10:14:14](https://lobste.rs/s/3jyxhj/lifecycle_instruction_set) - [The Lifecycle of an Instruction Set](https://player.vimeo.com/video/450406346)
 * [2024-08-17, 09:06:38](https://lobste.rs/s/nqmkbt/noexcept_affects_libstdc_s_unordered_set) - [noexcept affects libstdc++’s unordered_set](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
 * [2024-08-17, 08:33:02](https://lobste.rs/s/z240zu/systems_distributed_24) - [Systems Distributed '24](https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf)
 * [2024-08-17, 08:18:09](https://lobste.rs/s/argswi/libpomp_printf_oriented_message) - [libpomp: Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
@@ -12,7 +14,6 @@
 * [2024-08-16, 22:39:46](https://lobste.rs/s/ljcsfw/unix_day_20000_is_happening_4th_october) - [UNIX day 20000 is happening the 4th of October](https://github.com/xyproto/ud)
 * [2024-08-16, 22:24:18](https://lobste.rs/s/un2004/free_opensource_ipv6_textbook) - [Free, OpenSource IPv6 Textbook](https://ipv6textbook.com/)
 * [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/508_whither_cockroachdb_rfd_oxide) - [508 - Whither CockroachDB? / RFD / Oxide](https://rfd.shared.oxide.computer/rfd/0508)
-* [2024-08-16, 22:07:51](https://lobste.rs/s/5pn2sg/soft_deletes_with_ecto_postgresql) - [Soft deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
 * [2024-08-16, 21:01:51](https://lobste.rs/s/ss8oea/replace_docker_compose_with_quadlet_for) - [Replace Docker Compose with Quadlet for Servers](https://matduggan.com/replace-compose-with-quadlet/)
 * [2024-08-16, 18:58:11](https://lobste.rs/s/8lbstw/contracts_undefined_behavior_defensive) - [Contracts, Undefined Behavior, and Defensive Programming](https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
@@ -22,7 +23,6 @@
 * [2024-08-16, 11:20:18](https://lobste.rs/s/zugavw/dired_abstraction) - [The dired abstraction](https://lmno.lol/alvaro/the-dired-abstraction)
 * [2024-08-16, 09:30:13](https://lobste.rs/s/rbwbde/automating_my_now_page) - [Automating my /now page](https://akashgoswami.dev/posts/automating-my-now-page/)
 * [2024-08-16, 08:30:41](https://lobste.rs/s/xpp4ej/comparison_arenas_rust) - [A comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
-* [2024-08-16, 08:16:08](https://lobste.rs/s/za2wlw/quote_unquote_macros) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
 * [2024-08-15, 15:10:42](https://lobste.rs/s/duh5lg/10_years_dear_imgui) - [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
 
