@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 20:31:13](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use) - [What photo library software do you use?](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use)
 * [2024-08-17, 20:15:20](https://lobste.rs/s/5uvxg1/definition_magic_programming_languages) - [A Definition of Magic in Programming Languages](https://jerf.org/iri/post/2024/magic/)
 * [2024-08-17, 19:43:13](https://lobste.rs/s/zklsqm/decentralized_verifiable_cloud_service) - [Decentralized and Verifiable Cloud Service on Ethereum](https://ethresear.ch/t/decentralized-and-verifiable-cloud-service-on-ethereum/20292)
 * [2024-08-17, 19:40:07](https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class) - [Ask: are there languages with first class table support, similar to struct or map?](https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class)
@@ -20,7 +21,6 @@
 * [2024-08-16, 22:40:33](https://lobste.rs/s/cz7ick/stardom_dreams_stalking_devices_secret) - [stardom dreams, stalking devices and the secret conglomerate selling both](https://maia.crimew.gay/posts/gps-track-deez-nuts/)
 * [2024-08-16, 22:39:46](https://lobste.rs/s/ljcsfw/unix_day_20000_is_happening_4th_october) - [UNIX day 20000 is happening the 4th of October](https://github.com/xyproto/ud)
 * [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/whither_cockroachdb) - [Whither CockroachDB?](https://rfd.shared.oxide.computer/rfd/0508)
-* [2024-08-16, 21:01:51](https://lobste.rs/s/ss8oea/replace_docker_compose_with_quadlet_for) - [Replace Docker Compose with Quadlet for Servers](https://matduggan.com/replace-compose-with-quadlet/)
 * [2024-08-16, 16:49:55](https://lobste.rs/s/fckbue/decision_logs) - [Decision Logs](https://buttondown.com/j2kun/archive/decision-logs/)
 * [2024-08-16, 15:37:05](https://lobste.rs/s/wsfn68/process_zero_anti_intelligent_camera) - [Process Zero: The Anti-Intelligent Camera](https://www.lux.camera/introducing-process-zero-for-iphone/)
 * [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)
