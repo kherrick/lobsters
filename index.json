@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-17, 21:58:10",
+      "https://lobste.rs/s/lwmgsh/how_build_query_language_python"
+    ],
+    [
+      "How to build a query language in Python",
+      "https://jamesg.blog/2024/08/17/build-a-query-language/"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 20:37:05",
       "https://lobste.rs/s/pmuswv/imrad_is_gui_builder_for_imgui_library"
     ],
@@ -42,11 +52,11 @@
   [
     [
       "2024-08-17, 19:40:07",
-      "https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class"
+      "https://lobste.rs/s/mdaext/are_there_languages_with_first_class"
     ],
     [
-      "Ask: are there languages with first class table support, similar to struct or map?",
-      "https://lobste.rs/s/mdaext/ask_are_there_languages_with_first_class"
+      "Are there languages with first class table support, similar to struct or map?",
+      "https://lobste.rs/s/mdaext/are_there_languages_with_first_class"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Incorporating Lua with Livtet",
       "https://www.jacky.wtf/essays/2024/using-lua-with-livtet/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 18:01:55",
-      "https://lobste.rs/s/8yhogc/reckoning_part_1_landscape"
-    ],
-    [
-      "Reckoning: Part 1 — The Landscape",
-      "https://infrequently.org/2024/08/the-landscape/"
     ]
   ],
   [
