@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 08:33:02](https://lobste.rs/s/z240zu/systems_distributed_24) - [Systems Distributed '24](https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf)
 * [2024-08-17, 08:18:09](https://lobste.rs/s/argswi/libpomp_printf_oriented_message) - [libpomp: Printf Oriented Message Protocol](https://github.com/Parrot-Developers/libpomp)
 * [2024-08-17, 08:01:58](https://lobste.rs/s/bj8ml8/draft_for_ecmascript_error_safe) - [Draft for ECMAScript Error Safe Assignment Operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator)
 * [2024-08-17, 02:54:26](https://lobste.rs/s/ztqsy1/llms_bug_finding_insights_from_ai_cyber) - [LLMs and Bug Finding – Insights from the AI Cyber Challenge](https://team-atlanta.github.io/blog/post-atl/)
 * [2024-08-17, 02:36:13](https://lobste.rs/s/qbockn/techniques_for_safe_garbage_collection) - [Techniques for Safe Garbage Collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-16, 23:24:24](https://lobste.rs/s/x98v3v/case_for_vanilla_jsx) - [A case for vanilla JSX](https://vanillajsx.com/)
 * [2024-08-16, 23:14:26](https://lobste.rs/s/7w8fbe/wikipedia_reader_for_classic_macos_2023) - [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
-* [2024-08-16, 23:01:13](https://lobste.rs/s/fugilz/how_write_seemingly_unhygienic) - [How to write seemingly unhygienic and referentially opaque macros with Scheme syntax-rules](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
 * [2024-08-16, 22:40:33](https://lobste.rs/s/cz7ick/stardom_dreams_stalking_devices_secret) - [stardom dreams, stalking devices and the secret conglomerate selling both](https://maia.crimew.gay/posts/gps-track-deez-nuts/)
 * [2024-08-16, 22:39:46](https://lobste.rs/s/ljcsfw/unix_day_20000_is_happening_4th_october) - [UNIX day 20000 is happening the 4th of October](https://github.com/xyproto/ud)
 * [2024-08-16, 22:24:18](https://lobste.rs/s/un2004/free_opensource_ipv6_textbook) - [Free, OpenSource IPv6 Textbook](https://ipv6textbook.com/)
