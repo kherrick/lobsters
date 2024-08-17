@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-17, 08:33:02",
+      "https://lobste.rs/s/z240zu/systems_distributed_24"
+    ],
+    [
+      "Systems Distributed '24",
+      "https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 08:18:09",
       "https://lobste.rs/s/argswi/libpomp_printf_oriented_message"
     ],
@@ -57,16 +67,6 @@
     [
       "Wikipedia Reader for classic MacOS (2023)",
       "https://jcs.org/wikipedia"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 23:01:13",
-      "https://lobste.rs/s/fugilz/how_write_seemingly_unhygienic"
-    ],
-    [
-      "How to write seemingly unhygienic and referentially opaque macros with Scheme syntax-rules",
-      "https://okmij.org/ftp/Scheme/Dirty-Macros.pdf"
     ]
   ],
   [
