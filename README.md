@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 02:36:13](https://lobste.rs/s/qbockn/techniques_for_safe_garbage_collection) - [Techniques for Safe Garbage Collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-16, 23:24:24](https://lobste.rs/s/x98v3v/case_for_vanilla_jsx) - [A case for vanilla JSX](https://vanillajsx.com/)
 * [2024-08-16, 23:14:26](https://lobste.rs/s/7w8fbe/wikipedia_reader_for_classic_macos_2023) - [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
 * [2024-08-16, 23:01:13](https://lobste.rs/s/fugilz/how_write_seemingly_unhygienic) - [How to write seemingly unhygienic and referentially opaque macros with Scheme syntax-rules](https://okmij.org/ftp/Scheme/Dirty-Macros.pdf)
@@ -8,7 +9,6 @@
 * [2024-08-16, 22:24:18](https://lobste.rs/s/un2004/free_opensource_ipv6_textbook) - [Free, OpenSource IPv6 Textbook](https://ipv6textbook.com/)
 * [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/508_whither_cockroachdb_rfd_oxide) - [508 - Whither CockroachDB? / RFD / Oxide](https://rfd.shared.oxide.computer/rfd/0508)
 * [2024-08-16, 22:07:51](https://lobste.rs/s/5pn2sg/soft_deletes_with_ecto_postgresql) - [Soft deletes with Ecto and PostgreSQL](https://dashbit.co/blog/soft-deletes-with-ecto)
-* [2024-08-16, 21:39:39](https://lobste.rs/s/dcopuv/expanding_on_withoutboat_s_pinned_places) - [Expanding on withoutboat’s pinned places](https://poignardazur.github.io/2024/08/16/pinned-places/)
 * [2024-08-16, 21:01:51](https://lobste.rs/s/ss8oea/replace_docker_compose_with_quadlet_for) - [Replace Docker Compose with Quadlet for Servers](https://matduggan.com/replace-compose-with-quadlet/)
 * [2024-08-16, 18:58:11](https://lobste.rs/s/8lbstw/contracts_undefined_behavior_defensive) - [Contracts, Undefined Behavior, and Defensive Programming](https://bloomberg.github.io/bde-resources/pdfs/Contracts_Undefined_Behavior_and_Defensive_Programming.pdf)
 * [2024-08-16, 18:56:12](https://lobste.rs/s/d5m8gy/mifare_classic_exposing_static) - [MIFARE Classic: exposing the static encrypted nonce variant](https://eprint.iacr.org/2024/1275.pdf)
