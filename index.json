@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-17, 09:06:38",
+      "https://lobste.rs/s/nqmkbt/noexcept_affects_libstdc_s_unordered_set"
+    ],
+    [
+      "noexcept affects libstdc++’s unordered_set",
+      "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/"
+    ]
+  ],
+  [
+    [
       "2024-08-17, 08:33:02",
       "https://lobste.rs/s/z240zu/systems_distributed_24"
     ],
@@ -237,16 +247,6 @@
     [
       "10 years of Dear ImGui",
       "https://github.com/ocornut/imgui/issues/7892"
-    ]
-  ],
-  [
-    [
-      "2024-08-15, 12:49:13",
-      "https://lobste.rs/s/ppt457/it_works_on_my_machine_why"
-    ],
-    [
-      "It works on my machine. Why?",
-      "https://thoughtbot.com/blog/it-works-on-my-machine-why"
     ]
   ]
 ]
