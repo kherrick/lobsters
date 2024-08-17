@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-17, 08:01:58](https://lobste.rs/s/bj8ml8/draft_for_ecmascript_error_safe) - [Draft for ECMAScript Error Safe Assignment Operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator)
 * [2024-08-17, 07:35:27](https://lobste.rs/s/i38agx/emit_co2_during_program_startup) - [Emit CO2 during program startup](https://github.com/antonmedv/walk/commit/f6faf52e8986008af27cf6d746c645ca0c01dfd3)
 * [2024-08-17, 02:54:26](https://lobste.rs/s/ztqsy1/llms_bug_finding_insights_from_ai_cyber) - [LLMs and Bug Finding – Insights from the AI Cyber Challenge](https://team-atlanta.github.io/blog/post-atl/)
 * [2024-08-17, 02:36:13](https://lobste.rs/s/qbockn/techniques_for_safe_garbage_collection) - [Techniques for Safe Garbage Collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
@@ -22,7 +23,6 @@
 * [2024-08-16, 08:30:41](https://lobste.rs/s/xpp4ej/comparison_arenas_rust) - [A comparison of Arenas in Rust](https://donsz.nl/blog/arenas/)
 * [2024-08-16, 08:16:08](https://lobste.rs/s/za2wlw/quote_unquote_macros) - [Quote-unquote \"macros\"](https://ianthehenry.com/posts/quote-unquote-macros/)
 * [2024-08-15, 21:15:19](https://lobste.rs/s/4ehwpx/announcing_official_elixir_language) - [Announcing the official Elixir Language Server team](http://elixir-lang.org/blog/2024/08/15/welcome-elixir-language-server-team/)
-* [2024-08-15, 17:07:24](https://lobste.rs/s/rdmtpr/practical_compilation_fexprs_using) - [Practical compilation of fexprs using partial evaluation: Fexprs can performantly replace macros in purely-functional Lisp](https://arxiv.org/abs/2303.12254)
 * [2024-08-15, 15:10:42](https://lobste.rs/s/duh5lg/10_years_dear_imgui) - [10 years of Dear ImGui](https://github.com/ocornut/imgui/issues/7892)
 * [2024-08-15, 12:49:13](https://lobste.rs/s/ppt457/it_works_on_my_machine_why) - [It works on my machine. Why?](https://thoughtbot.com/blog/it-works-on-my-machine-why)
 
