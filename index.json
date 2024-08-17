@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-17, 02:36:13",
+      "https://lobste.rs/s/qbockn/techniques_for_safe_garbage_collection"
+    ],
+    [
+      "Techniques for Safe Garbage Collection in Rust",
+      "https://kyju.org/blog/rust-safe-garbage-collection/"
+    ]
+  ],
+  [
+    [
       "2024-08-16, 23:24:24",
       "https://lobste.rs/s/x98v3v/case_for_vanilla_jsx"
     ],
@@ -77,16 +87,6 @@
     [
       "Soft deletes with Ecto and PostgreSQL",
       "https://dashbit.co/blog/soft-deletes-with-ecto"
-    ]
-  ],
-  [
-    [
-      "2024-08-16, 21:39:39",
-      "https://lobste.rs/s/dcopuv/expanding_on_withoutboat_s_pinned_places"
-    ],
-    [
-      "Expanding on withoutboat’s pinned places",
-      "https://poignardazur.github.io/2024/08/16/pinned-places/"
     ]
   ],
   [
