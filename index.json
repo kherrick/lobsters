@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-18, 18:41:39",
+      "https://lobste.rs/s/s0ieke/micro_libraries_need_die_already"
+    ],
+    [
+      "Micro-libraries need to die already",
+      "https://bvisness.me/microlibraries/"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 16:59:58",
       "https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only"
     ],
@@ -227,16 +237,6 @@
     [
       "noexcept affects libstdc++’s unordered_set",
       "https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 08:33:02",
-      "https://lobste.rs/s/z240zu/systems_distributed_24"
-    ],
-    [
-      "Systems Distributed '24",
-      "https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf"
     ]
   ],
   [
