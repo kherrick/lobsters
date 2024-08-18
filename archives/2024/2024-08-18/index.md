@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 23:01:11](https://lobste.rs/s/zi2bgn/mozilla_s_new_logo_brings_back_dinosaur) - [Mozilla's New Logo Brings Back the Dinosaur Mascot (Kinda)](https://www.omgubuntu.co.uk/2024/08/mozilla-new-logo)
 * [2024-08-18, 22:51:45](https://lobste.rs/s/0i4m8e/markov_chains_are_funnier_than_llms) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 * [2024-08-18, 22:44:04](https://lobste.rs/s/hthnaf/making_chess_engine_zig) - [Making a Chess Engine in Zig](https://johns.codes/blog/making-a-chess-engine-in-zig)
 * [2024-08-18, 19:24:57](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small) - [Don't Repeat Yourself and the Strong Law of Small Numbers - iRi](https://jerf.org/iri/post/2024/dry_strong/)
