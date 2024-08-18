@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-18, 11:25:51",
-      "https://lobste.rs/s/9rip2s/i_am_not_okay_today"
-    ],
-    [
-      "I am not okay today",
-      "https://lobste.rs/s/9rip2s/i_am_not_okay_today"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 23:33:09",
       "https://lobste.rs/s/droago/reckoning"
     ],
@@ -47,6 +37,16 @@
     [
       "Optimisation-dependent IR decisions in Clang",
       "https://convolv.es/blog/2024/08/17/clang-ir-opt-level/"
+    ]
+  ],
+  [
+    [
+      "2024-08-17, 21:58:10",
+      "https://lobste.rs/s/lwmgsh/how_build_query_language_python"
+    ],
+    [
+      "How to build a query language in Python",
+      "https://jamesg.blog/2024/08/17/build-a-query-language/"
     ]
   ],
   [
