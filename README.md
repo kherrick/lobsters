@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-18, 19:24:57](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small) - [Don't Repeat Yourself and the Strong Law of Small Numbers - iRi](https://jerf.org/iri/post/2024/dry_strong/)
 * [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 16:59:58](https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only) - [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
 * [2024-08-18, 16:58:05](https://lobste.rs/s/x7bjhp/kubernetes_1_31_brings_more_stability) - [Kubernetes 1.31 Brings More Stability to Cloud-Native Deployments](https://www.itprotoday.com/hybrid-cloud/kubernetes-1-31-brings-more-stability-to-cloud-native-deployments)
@@ -18,7 +19,6 @@
 * [2024-08-17, 20:15:20](https://lobste.rs/s/5uvxg1/definition_magic_programming_languages) - [A Definition of Magic in Programming Languages](https://jerf.org/iri/post/2024/magic/)
 * [2024-08-17, 19:40:07](https://lobste.rs/s/mdaext/are_there_languages_with_first_class) - [Are there languages with first class table support, similar to struct or map?](https://lobste.rs/s/mdaext/are_there_languages_with_first_class)
 * [2024-08-17, 18:58:56](https://lobste.rs/s/huptlj/incorporating_lua_with_livtet) - [Incorporating Lua with Livtet](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
-* [2024-08-17, 18:01:55](https://lobste.rs/s/8yhogc/reckoning_part_1_landscape) - [Reckoning: Part 1 — The Landscape](https://infrequently.org/2024/08/the-landscape/)
 * [2024-08-17, 17:15:03](https://lobste.rs/s/1fttgh/radxa_x4_sbc_unites_intel_n100_raspberry) - [Radxa X4 SBC Unites Intel N100 and Raspberry Pi RP2040](https://www.jeffgeerling.com/blog/2024/radxa-x4-sbc-unites-intel-n100-and-raspberry-pi-rp2040)
 * [2024-08-17, 16:49:29](https://lobste.rs/s/mrczgd/symbolics_s_dynamics_manual_1985) - [Symbolics S-Dynamics manual (1985)](https://archive.org/details/symbolics-s-dynamics-manual)
 * [2024-08-17, 14:27:42](https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
