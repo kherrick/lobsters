@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-18, 11:25:51](https://lobste.rs/s/9rip2s/i_am_not_okay_today) - [I am not okay today](https://lobste.rs/s/9rip2s/i_am_not_okay_today)
 * [2024-08-17, 23:33:09](https://lobste.rs/s/droago/reckoning) - [Reckoning](https://infrequently.org/series/reckoning/)
 * [2024-08-17, 22:41:23](https://lobste.rs/s/dmho7k/switching_usb_controller_at_boot_on_esp32) - [Switching USB controller at boot on ESP32-S3](https://subalpinecircuits.com/usb-controller-esp32s3/)
 * [2024-08-17, 22:37:47](https://lobste.rs/s/7tdapk/semantic_versioning_doesn_t_support) - [Semantic Versioning Doesn't Support Rolling Deprecation](https://kevincox.ca/2024/08/17/semver-rolling-deprecation/)
 * [2024-08-17, 22:25:02](https://lobste.rs/s/aplhuj/optimisation_dependent_ir_decisions) - [Optimisation-dependent IR decisions in Clang](https://convolv.es/blog/2024/08/17/clang-ir-opt-level/)
-* [2024-08-17, 21:58:10](https://lobste.rs/s/lwmgsh/how_build_query_language_python) - [How to build a query language in Python](https://jamesg.blog/2024/08/17/build-a-query-language/)
 * [2024-08-17, 20:37:05](https://lobste.rs/s/pmuswv/imrad_is_gui_builder_for_imgui_library) - [ImRAD is a GUI builder for the ImGui library](https://github.com/tpecholt/imrad)
 * [2024-08-17, 20:31:13](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use) - [What photo library software do you use?](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use)
 * [2024-08-17, 20:15:20](https://lobste.rs/s/5uvxg1/definition_magic_programming_languages) - [A Definition of Magic in Programming Languages](https://jerf.org/iri/post/2024/magic/)
