@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-18, 22:51:45](https://lobste.rs/s/0i4m8e/markov_chains_are_funnier_than_llms) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 * [2024-08-18, 22:44:04](https://lobste.rs/s/hthnaf/making_chess_engine_zig) - [Making a Chess Engine in Zig](https://johns.codes/blog/making-a-chess-engine-in-zig)
 * [2024-08-18, 19:24:57](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small) - [Don't Repeat Yourself and the Strong Law of Small Numbers](https://jerf.org/iri/post/2024/dry_strong/)
 * [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
@@ -20,7 +21,6 @@
 * [2024-08-17, 20:15:20](https://lobste.rs/s/5uvxg1/definition_magic_programming_languages) - [A Definition of Magic in Programming Languages](https://jerf.org/iri/post/2024/magic/)
 * [2024-08-17, 19:40:07](https://lobste.rs/s/mdaext/are_there_languages_with_first_class) - [Are there languages with first class table support, similar to struct or map?](https://lobste.rs/s/mdaext/are_there_languages_with_first_class)
 * [2024-08-17, 18:58:56](https://lobste.rs/s/huptlj/incorporating_lua_with_livtet) - [Incorporating Lua with Livtet](https://www.jacky.wtf/essays/2024/using-lua-with-livtet/)
-* [2024-08-17, 16:49:29](https://lobste.rs/s/mrczgd/symbolics_s_dynamics_manual_1985) - [Symbolics S-Dynamics manual (1985)](https://archive.org/details/symbolics-s-dynamics-manual)
 * [2024-08-17, 14:27:42](https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 10:20:01](https://lobste.rs/s/hcjxaa/just_use_postgres) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
 * [2024-08-17, 09:06:38](https://lobste.rs/s/nqmkbt/noexcept_affects_libstdc_s_unordered_set) - [noexcept affects libstdc++’s unordered_set](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
