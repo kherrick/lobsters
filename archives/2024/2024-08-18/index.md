@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 22:44:04](https://lobste.rs/s/hthnaf/making_chess_engine_zig) - [Making a Chess Engine in Zig](https://johns.codes/blog/making-a-chess-engine-in-zig)
 * [2024-08-18, 19:24:57](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small) - [Don't Repeat Yourself and the Strong Law of Small Numbers - iRi](https://jerf.org/iri/post/2024/dry_strong/)
 * [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 16:59:58](https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only) - [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
