@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 16:59:58](https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only) - [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
 * [2024-08-18, 16:58:05](https://lobste.rs/s/x7bjhp/kubernetes_1_31_brings_more_stability) - [Kubernetes 1.31 Brings More Stability to Cloud-Native Deployments](https://www.itprotoday.com/hybrid-cloud/kubernetes-1-31-brings-more-stability-to-cloud-native-deployments)
 * [2024-08-18, 16:37:50](https://lobste.rs/s/atqtjj/fear_not_association_types) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
@@ -23,7 +24,6 @@
 * [2024-08-17, 14:27:42](https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)
 * [2024-08-17, 10:20:01](https://lobste.rs/s/hcjxaa/just_use_postgres) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
 * [2024-08-17, 09:06:38](https://lobste.rs/s/nqmkbt/noexcept_affects_libstdc_s_unordered_set) - [noexcept affects libstdc++’s unordered_set](https://quuxplusone.github.io/blog/2024/08/16/libstdcxx-noexcept-hash/)
-* [2024-08-17, 08:33:02](https://lobste.rs/s/z240zu/systems_distributed_24) - [Systems Distributed '24](https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf)
 * [2024-08-16, 23:14:26](https://lobste.rs/s/7w8fbe/wikipedia_reader_for_classic_macos_2023) - [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
 
 ## [Archives](archives/index.md)

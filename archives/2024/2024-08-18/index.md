@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-18](index.md)
 
+* [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 16:59:58](https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only) - [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
 * [2024-08-18, 16:58:05](https://lobste.rs/s/x7bjhp/kubernetes_1_31_brings_more_stability) - [Kubernetes 1.31 Brings More Stability to Cloud-Native Deployments](https://www.itprotoday.com/hybrid-cloud/kubernetes-1-31-brings-more-stability-to-cloud-native-deployments)
 * [2024-08-18, 16:37:50](https://lobste.rs/s/atqtjj/fear_not_association_types) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
