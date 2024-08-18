@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-18, 16:59:58",
+      "https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only"
+    ],
+    [
+      "bashfuck: Write any bash with only the punctuation characters",
+      "https://github.com/meithecatte/bashfuck"
+    ]
+  ],
+  [
+    [
+      "2024-08-18, 16:58:05",
+      "https://lobste.rs/s/x7bjhp/kubernetes_1_31_brings_more_stability"
+    ],
+    [
+      "Kubernetes 1.31 Brings More Stability to Cloud-Native Deployments",
+      "https://www.itprotoday.com/hybrid-cloud/kubernetes-1-31-brings-more-stability-to-cloud-native-deployments"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 16:37:50",
       "https://lobste.rs/s/atqtjj/fear_not_association_types"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-08-17, 14:51:52",
-      "https://lobste.rs/s/fnxy4j/official_native_windows_support_for"
-    ],
-    [
-      "Official native Windows support for OCaml with opam 2.2.0",
-      "https://opam.ocaml.org/blog/opam-2-2-0/"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 14:27:42",
       "https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go"
     ],
@@ -227,16 +237,6 @@
     [
       "Systems Distributed '24",
       "https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 08:01:58",
-      "https://lobste.rs/s/bj8ml8/draft_for_ecmascript_error_safe"
-    ],
-    [
-      "Draft for ECMAScript Error Safe Assignment Operator",
-      "https://github.com/arthurfiorette/proposal-safe-assignment-operator"
     ]
   ],
   [
