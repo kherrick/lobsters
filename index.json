@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2024-08-17, 19:43:13",
-      "https://lobste.rs/s/zklsqm/decentralized_verifiable_cloud_service"
-    ],
-    [
-      "Decentralized and Verifiable Cloud Service on Ethereum",
-      "https://ethresear.ch/t/decentralized-and-verifiable-cloud-service-on-ethereum/20292"
-    ]
-  ],
-  [
-    [
       "2024-08-17, 19:40:07",
       "https://lobste.rs/s/mdaext/are_there_languages_with_first_class"
     ],
@@ -207,6 +197,16 @@
     [
       "Techniques for Safe Garbage Collection in Rust",
       "https://kyju.org/blog/rust-safe-garbage-collection/"
+    ]
+  ],
+  [
+    [
+      "2024-08-16, 23:24:24",
+      "https://lobste.rs/s/x98v3v/case_for_vanilla_jsx"
+    ],
+    [
+      "A case for vanilla JSX",
+      "https://vanillajsx.com/"
     ]
   ],
   [
