@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-18, 16:37:50](https://lobste.rs/s/atqtjj/fear_not_association_types) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
 * [2024-08-18, 15:49:14](https://lobste.rs/s/v5fin8/dos_s_last_stand_on_modern_thinkpad_x13_gen) - [DOS's Last Stand on a modern Thinkpad: X13 Gen 1 with Intel i5-10310U](https://yeokhengmeng.com/2024/08/dos-on-thinkpad-x13-gen1/)
 * [2024-08-18, 13:44:45](https://lobste.rs/s/kwthdg/you_might_be_overusing_vim_visual_mode) - [You might be overusing Vim visual mode](https://m4xshen.dev/posts/overuse-vim-visual-mode)
 * [2024-08-18, 13:13:24](https://lobste.rs/s/4retet/safer_c) - [Safer C++](https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/)
@@ -24,7 +25,6 @@
 * [2024-08-17, 08:33:02](https://lobste.rs/s/z240zu/systems_distributed_24) - [Systems Distributed '24](https://www.youtube.com/playlist?list=PL9eL-xg48OM3aoODepNLa2Qqq67CDsSKf)
 * [2024-08-17, 08:01:58](https://lobste.rs/s/bj8ml8/draft_for_ecmascript_error_safe) - [Draft for ECMAScript Error Safe Assignment Operator](https://github.com/arthurfiorette/proposal-safe-assignment-operator)
 * [2024-08-16, 23:14:26](https://lobste.rs/s/7w8fbe/wikipedia_reader_for_classic_macos_2023) - [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
-* [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/whither_cockroachdb) - [Whither CockroachDB?](https://rfd.shared.oxide.computer/rfd/0508)
 
 ## [Archives](archives/index.md)
 
