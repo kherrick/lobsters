@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-18, 13:13:24](https://lobste.rs/s/4retet/safer_c) - [Safer C++](https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/)
 * [2024-08-18, 12:59:54](https://lobste.rs/s/h2sx1q/missing_salamanders_matrix_media_can_be) - [Missing Salamanders: Matrix Media can be decrypted to multiple valid plaintexts using different keys](https://lotte.chir.rs/2024/08/17/Missing-Salamanders-Matrix-Media-can-be-decrypted-to-multiple-valid-plaintexts-using-different-keys/)
 * [2024-08-18, 12:54:05](https://lobste.rs/s/clf9j0/door_problem) - [“The Door Problem”](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2024-08-17, 23:33:09](https://lobste.rs/s/droago/reckoning) - [Reckoning](https://infrequently.org/series/reckoning/)
@@ -24,7 +25,6 @@
 * [2024-08-17, 02:36:13](https://lobste.rs/s/qbockn/techniques_for_safe_garbage_collection) - [Techniques for Safe Garbage Collection in Rust](https://kyju.org/blog/rust-safe-garbage-collection/)
 * [2024-08-16, 23:14:26](https://lobste.rs/s/7w8fbe/wikipedia_reader_for_classic_macos_2023) - [Wikipedia Reader for classic MacOS (2023)](https://jcs.org/wikipedia)
 * [2024-08-16, 22:14:56](https://lobste.rs/s/ffszer/whither_cockroachdb) - [Whither CockroachDB?](https://rfd.shared.oxide.computer/rfd/0508)
-* [2024-08-16, 14:56:48](https://lobste.rs/s/omrfjb/designing_shell_language_for_2010s) - [Designing a shell language for the 2010s](https://www.youtube.com/watch?v=wrl9foNXdgM)
 
 ## [Archives](archives/index.md)
 
