@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 18:53:10](https://lobste.rs/s/2lu3jp/pragmatic_category_theory_part_2) - [Pragmatic Category Theory | Part 2: Composing Semigroups](https://dev.to/chshersh/pragmatic-category-theory-part-2-composing-semigroups-87)
 * [2024-08-19, 18:36:48](https://lobste.rs/s/sycfts/cache_grab_how_much_are_you_leaving_on) - [Cache Grab: How Much Are You Leaving on the Table?](https://csswizardry.com/2024/08/cache-grab-how-much-are-you-leaving-on-the-table/)
 * [2024-08-19, 18:19:09](https://lobste.rs/s/nbegov/whisperfile) - [whisperfile](https://huggingface.co/Mozilla/whisperfile)
 * [2024-08-19, 18:15:34](https://lobste.rs/s/t4fbtn/migrating_mess_with_dns_use_powerdns) - [Migrating Mess With DNS to use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
