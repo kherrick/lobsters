@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-19, 17:39:19",
+      "https://lobste.rs/s/wr8blg/property_changed_callback_slint"
+    ],
+    [
+      "Property Changed Callback in Slint",
+      "https://slint.dev/blog/property-changed-callback"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 17:13:07",
       "https://lobste.rs/s/6j14yx/postgresql_meets_object_storage"
     ],
@@ -147,16 +157,6 @@
     [
       "The Curious Case of QUEENCREEK",
       "https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 08:42:23",
-      "https://lobste.rs/s/zszroc/formally_verified_post_quantum"
-    ],
-    [
-      "Formally Verified Post-Quantum Algorithms",
-      "https://bughunters.google.com/blog/6038863069184000/formally-verified-post-quantum-algorithms"
     ]
   ],
   [
