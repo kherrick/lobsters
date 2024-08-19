@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:41:13](https://lobste.rs/s/retemy/srcbook_open_source_typescript_notebook) - [Srcbook: an open-source TypeScript notebook](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
 * [2024-08-19, 19:36:56](https://lobste.rs/s/i9bbko/inside_guidance_system_computer) - [Inside the guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
@@ -20,7 +21,6 @@
 * [2024-08-19, 11:43:41](https://lobste.rs/s/9sd3yc/leaving_neovim_for_zed) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-19, 11:21:52](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week)
 * [2024-08-19, 10:40:45](https://lobste.rs/s/wkbyeh/trainwreck_design) - [Trainwreck design](https://j3s.sh/thought/trainwreck-design.html)
-* [2024-08-19, 10:17:19](https://lobste.rs/s/ipfuhw/dying_computer_museum) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 10:13:28](https://lobste.rs/s/3braoo/mike_magee_el_reg_cofounder_is_dead) - [Mike Magee (El Reg cofounder) is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 * [2024-08-18, 23:01:11](https://lobste.rs/s/zi2bgn/mozilla_s_new_logo_brings_back_dinosaur) - [Mozilla's New Logo Brings Back the Dinosaur Mascot (Kinda)](https://www.omgubuntu.co.uk/2024/08/mozilla-new-logo)
 * [2024-08-18, 22:44:04](https://lobste.rs/s/hthnaf/making_chess_engine_zig) - [Making a Chess Engine in Zig](https://johns.codes/blog/making-a-chess-engine-in-zig)
