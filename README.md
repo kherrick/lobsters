@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 13:45:34](https://lobste.rs/s/qq0d4r/replacing_twitter_embeds_with_images) - [Replacing Twitter Embeds With Images](https://shkspr.mobi/blog/2024/08/replacing-twitter-embeds-with-images/)
 * [2024-08-19, 13:35:06](https://lobste.rs/s/1cnjuw/quick_bits_go_automatically_downloads) - [Quick bits: Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 * [2024-08-19, 12:57:32](https://lobste.rs/s/7s8ofd/bit_banging_basic_birthday) - [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 * [2024-08-19, 12:51:09](https://lobste.rs/s/jchpqi/security_by_design_practice_assessing) - [“Security by Design” in Practice: Assessing Concepts, Definitions, and Approaches](https://www.lawfaremedia.org/article/security-by-design--in-practice--assessing-concepts--definitions--and-approaches)
@@ -23,7 +24,6 @@
 * [2024-08-18, 13:13:24](https://lobste.rs/s/4retet/safer_c) - [Safer C++](https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/)
 * [2024-08-18, 12:59:54](https://lobste.rs/s/h2sx1q/missing_salamanders_matrix_media_can_be) - [Missing Salamanders: Matrix Media can be decrypted to multiple valid plaintexts using different keys](https://lotte.chir.rs/2024/08/17/Missing-Salamanders-Matrix-Media-can-be-decrypted-to-multiple-valid-plaintexts-using-different-keys/)
 * [2024-08-18, 12:54:05](https://lobste.rs/s/clf9j0/door_problem) - [“The Door Problem”](https://lizengland.com/blog/2014/04/the-door-problem/)
-* [2024-08-17, 23:33:09](https://lobste.rs/s/droago/reckoning) - [Reckoning](https://infrequently.org/series/reckoning/)
 * [2024-08-17, 20:31:13](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use) - [What photo library software do you use?](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use)
 
 ## [Archives](archives/index.md)

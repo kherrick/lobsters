@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 13:45:34](https://lobste.rs/s/qq0d4r/replacing_twitter_embeds_with_images) - [Replacing Twitter Embeds With Images](https://shkspr.mobi/blog/2024/08/replacing-twitter-embeds-with-images/)
 * [2024-08-19, 13:35:06](https://lobste.rs/s/1cnjuw/quick_bits_go_automatically_downloads) - [Quick bits: Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 * [2024-08-19, 12:57:32](https://lobste.rs/s/7s8ofd/bit_banging_basic_birthday) - [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
 * [2024-08-19, 12:51:09](https://lobste.rs/s/jchpqi/security_by_design_practice_assessing) - [“Security by Design” in Practice: Assessing Concepts, Definitions, and Approaches](https://www.lawfaremedia.org/article/security-by-design--in-practice--assessing-concepts--definitions--and-approaches)
