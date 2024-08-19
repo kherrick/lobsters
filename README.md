@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 19:36:56](https://lobste.rs/s/i9bbko/inside_guidance_system_computer) - [Inside the guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
 * [2024-08-19, 18:53:10](https://lobste.rs/s/2lu3jp/pragmatic_category_theory_part_2) - [Pragmatic Category Theory | Part 2: Composing Semigroups](https://dev.to/chshersh/pragmatic-category-theory-part-2-composing-semigroups-87)
 * [2024-08-19, 18:19:09](https://lobste.rs/s/nbegov/whisperfile) - [whisperfile](https://huggingface.co/Mozilla/whisperfile)
 * [2024-08-19, 18:15:34](https://lobste.rs/s/t4fbtn/migrating_mess_with_dns_use_powerdns) - [Migrating Mess With DNS to use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
@@ -17,7 +18,6 @@
 * [2024-08-19, 10:40:45](https://lobste.rs/s/wkbyeh/trainwreck_design) - [Trainwreck design](https://j3s.sh/thought/trainwreck-design.html)
 * [2024-08-19, 10:17:19](https://lobste.rs/s/ipfuhw/dying_computer_museum) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 10:13:28](https://lobste.rs/s/3braoo/mike_magee_el_reg_cofounder_is_dead) - [Mike Magee (El Reg cofounder) is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
-* [2024-08-19, 00:43:00](https://lobste.rs/s/dj3txh/c_scripting_with_tcc_bash) - [C scripting with TCC and Bash](https://alurm.github.io/blog/c-scripting-with-tcc-and-bash.html)
 * [2024-08-18, 23:01:11](https://lobste.rs/s/zi2bgn/mozilla_s_new_logo_brings_back_dinosaur) - [Mozilla's New Logo Brings Back the Dinosaur Mascot (Kinda)](https://www.omgubuntu.co.uk/2024/08/mozilla-new-logo)
 * [2024-08-18, 22:51:45](https://lobste.rs/s/0i4m8e/markov_chains_are_funnier_than_llms) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 * [2024-08-18, 22:44:04](https://lobste.rs/s/hthnaf/making_chess_engine_zig) - [Making a Chess Engine in Zig](https://johns.codes/blog/making-a-chess-engine-in-zig)

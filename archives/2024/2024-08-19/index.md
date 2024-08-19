@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 19:36:56](https://lobste.rs/s/i9bbko/inside_guidance_system_computer) - [Inside the guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
 * [2024-08-19, 18:53:10](https://lobste.rs/s/2lu3jp/pragmatic_category_theory_part_2) - [Pragmatic Category Theory | Part 2: Composing Semigroups](https://dev.to/chshersh/pragmatic-category-theory-part-2-composing-semigroups-87)
 * [2024-08-19, 18:36:48](https://lobste.rs/s/sycfts/cache_grab_how_much_are_you_leaving_on) - [Cache Grab: How Much Are You Leaving on the Table?](https://csswizardry.com/2024/08/cache-grab-how-much-are-you-leaving-on-the-table/)
 * [2024-08-19, 18:19:09](https://lobste.rs/s/nbegov/whisperfile) - [whisperfile](https://huggingface.co/Mozilla/whisperfile)
