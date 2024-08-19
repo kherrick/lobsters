@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-19, 09:17:49",
+      "https://lobste.rs/s/sqewwf/curious_case_queencreek"
+    ],
+    [
+      "The Curious Case of QUEENCREEK",
+      "https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 08:42:23",
       "https://lobste.rs/s/zszroc/formally_verified_post_quantum"
     ],
@@ -157,16 +167,6 @@
     [
       "Semantic Versioning Doesn't Support Rolling Deprecation",
       "https://kevincox.ca/2024/08/17/semver-rolling-deprecation/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 22:25:02",
-      "https://lobste.rs/s/aplhuj/optimisation_dependent_ir_decisions"
-    ],
-    [
-      "Optimisation-dependent IR decisions in Clang",
-      "https://convolv.es/blog/2024/08/17/clang-ir-opt-level/"
     ]
   ],
   [
