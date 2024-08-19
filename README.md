@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 17:13:07](https://lobste.rs/s/6j14yx/postgresql_meets_object_storage) - [PostgreSQL Meets Object Storage](https://blog.min.io/postgresql-meets-object-storage-access-external-data-in-minio/)
 * [2024-08-19, 16:01:16](https://lobste.rs/s/mvcgco/500_python_interpreters) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
 * [2024-08-19, 15:14:08](https://lobste.rs/s/4zoe5x/nimconf_2024_announced) - [NimConf 2024 announced](https://forum.nim-lang.org/t/12329)
@@ -22,7 +23,6 @@
 * [2024-08-18, 19:24:57](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small) - [Don't Repeat Yourself and the Strong Law of Small Numbers](https://jerf.org/iri/post/2024/dry_strong/)
 * [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 16:59:58](https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only) - [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
-* [2024-08-18, 15:49:14](https://lobste.rs/s/v5fin8/dos_s_last_stand_on_modern_thinkpad_x13_gen) - [DOS's Last Stand on a modern Thinkpad: X13 Gen 1 with Intel i5-10310U](https://yeokhengmeng.com/2024/08/dos-on-thinkpad-x13-gen1/)
 * [2024-08-18, 13:13:24](https://lobste.rs/s/4retet/safer_c) - [Safer C++](https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/)
 * [2024-08-18, 12:54:05](https://lobste.rs/s/clf9j0/door_problem) - [“The Door Problem”](https://lizengland.com/blog/2014/04/the-door-problem/)
 
