@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-19, 08:42:23",
+      "https://lobste.rs/s/zszroc/formally_verified_post_quantum"
+    ],
+    [
+      "Formally Verified Post-Quantum Algorithms",
+      "https://bughunters.google.com/blog/6038863069184000/formally-verified-post-quantum-algorithms"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 00:43:00",
       "https://lobste.rs/s/dj3txh/c_scripting_with_tcc_bash"
     ],
@@ -137,16 +147,6 @@
     [
       "Reckoning",
       "https://infrequently.org/series/reckoning/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 22:41:23",
-      "https://lobste.rs/s/dmho7k/switching_usb_controller_at_boot_on_esp32"
-    ],
-    [
-      "Switching USB controller at boot on ESP32-S3",
-      "https://subalpinecircuits.com/usb-controller-esp32s3/"
     ]
   ],
   [
