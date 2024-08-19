@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 17:39:19](https://lobste.rs/s/wr8blg/property_changed_callback_slint) - [Property Changed Callback in Slint](https://slint.dev/blog/property-changed-callback)
 * [2024-08-19, 17:13:07](https://lobste.rs/s/6j14yx/postgresql_meets_object_storage) - [PostgreSQL Meets Object Storage](https://blog.min.io/postgresql-meets-object-storage-access-external-data-in-minio/)
 * [2024-08-19, 16:01:16](https://lobste.rs/s/mvcgco/500_python_interpreters) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)

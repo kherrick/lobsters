@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 17:39:19](https://lobste.rs/s/wr8blg/property_changed_callback_slint) - [Property Changed Callback in Slint](https://slint.dev/blog/property-changed-callback)
 * [2024-08-19, 17:13:07](https://lobste.rs/s/6j14yx/postgresql_meets_object_storage) - [PostgreSQL Meets Object Storage](https://blog.min.io/postgresql-meets-object-storage-access-external-data-in-minio/)
 * [2024-08-19, 16:01:16](https://lobste.rs/s/mvcgco/500_python_interpreters) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
@@ -15,7 +16,6 @@
 * [2024-08-19, 10:17:19](https://lobste.rs/s/ipfuhw/dying_computer_museum) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
 * [2024-08-19, 10:13:28](https://lobste.rs/s/3braoo/mike_magee_el_reg_cofounder_is_dead) - [Mike Magee (El Reg cofounder) is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 * [2024-08-19, 09:17:49](https://lobste.rs/s/sqewwf/curious_case_queencreek) - [The Curious Case of QUEENCREEK](https://mobeigi.com/blog/security/malware/the-curious-case-of-queencreek/)
-* [2024-08-19, 08:42:23](https://lobste.rs/s/zszroc/formally_verified_post_quantum) - [Formally Verified Post-Quantum Algorithms](https://bughunters.google.com/blog/6038863069184000/formally-verified-post-quantum-algorithms)
 * [2024-08-19, 00:43:00](https://lobste.rs/s/dj3txh/c_scripting_with_tcc_bash) - [C scripting with TCC and Bash](https://alurm.github.io/blog/c-scripting-with-tcc-and-bash.html)
 * [2024-08-18, 23:01:11](https://lobste.rs/s/zi2bgn/mozilla_s_new_logo_brings_back_dinosaur) - [Mozilla's New Logo Brings Back the Dinosaur Mascot (Kinda)](https://www.omgubuntu.co.uk/2024/08/mozilla-new-logo)
 * [2024-08-18, 22:51:45](https://lobste.rs/s/0i4m8e/markov_chains_are_funnier_than_llms) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
