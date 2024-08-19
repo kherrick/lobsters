@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-19, 10:40:45",
+      "https://lobste.rs/s/wkbyeh/trainwreck_design"
+    ],
+    [
+      "Trainwreck design",
+      "https://j3s.sh/thought/trainwreck-design.html"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 10:17:19",
       "https://lobste.rs/s/ipfuhw/dying_computer_museum"
     ],
@@ -187,16 +197,6 @@
     [
       "Semantic Versioning Doesn't Support Rolling Deprecation",
       "https://kevincox.ca/2024/08/17/semver-rolling-deprecation/"
-    ]
-  ],
-  [
-    [
-      "2024-08-17, 22:25:02",
-      "https://lobste.rs/s/aplhuj/optimisation_dependent_ir_decisions"
-    ],
-    [
-      "Optimisation-dependent IR decisions in Clang",
-      "https://convolv.es/blog/2024/08/17/clang-ir-opt-level/"
     ]
   ],
   [
