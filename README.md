@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 12:57:32](https://lobste.rs/s/7s8ofd/bit_banging_basic_birthday) - [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
+* [2024-08-19, 12:51:09](https://lobste.rs/s/jchpqi/security_by_design_practice_assessing) - [“Security by Design” in Practice: Assessing Concepts, Definitions, and Approaches](https://www.lawfaremedia.org/article/security-by-design--in-practice--assessing-concepts--definitions--and-approaches)
 * [2024-08-19, 11:52:24](https://lobste.rs/s/7g7rzc/openvms_x86_64_at_edge) - [OpenVMS x86_64 at the Edge](http://jamespreciado.a2hosted.com/application-1.html)
 * [2024-08-19, 11:43:41](https://lobste.rs/s/9sd3yc/leaving_neovim_for_zed) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-19, 11:21:52](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week)
@@ -23,8 +25,6 @@
 * [2024-08-18, 12:54:05](https://lobste.rs/s/clf9j0/door_problem) - [“The Door Problem”](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2024-08-17, 23:33:09](https://lobste.rs/s/droago/reckoning) - [Reckoning](https://infrequently.org/series/reckoning/)
 * [2024-08-17, 20:31:13](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use) - [What photo library software do you use?](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use)
-* [2024-08-17, 19:40:07](https://lobste.rs/s/mdaext/are_there_languages_with_first_class) - [Are there languages with first class table support, similar to struct or map?](https://lobste.rs/s/mdaext/are_there_languages_with_first_class)
-* [2024-08-17, 10:20:01](https://lobste.rs/s/hcjxaa/just_use_postgres) - [Just use Postgres](https://mccue.dev/pages/8-16-24-just-use-postgres)
 
 ## [Archives](archives/index.md)
 

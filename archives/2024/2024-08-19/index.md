@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 12:57:32](https://lobste.rs/s/7s8ofd/bit_banging_basic_birthday) - [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)
+* [2024-08-19, 12:51:09](https://lobste.rs/s/jchpqi/security_by_design_practice_assessing) - [“Security by Design” in Practice: Assessing Concepts, Definitions, and Approaches](https://www.lawfaremedia.org/article/security-by-design--in-practice--assessing-concepts--definitions--and-approaches)
 * [2024-08-19, 11:52:24](https://lobste.rs/s/7g7rzc/openvms_x86_64_at_edge) - [OpenVMS x86_64 at the Edge](http://jamespreciado.a2hosted.com/application-1.html)
 * [2024-08-19, 11:43:41](https://lobste.rs/s/9sd3yc/leaving_neovim_for_zed) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-19, 11:21:52](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week)
