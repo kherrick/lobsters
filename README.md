@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 11:43:41](https://lobste.rs/s/9sd3yc/leaving_neovim_for_zed) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-19, 11:21:52](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week)
 * [2024-08-19, 10:40:45](https://lobste.rs/s/wkbyeh/trainwreck_design) - [Trainwreck design](https://j3s.sh/thought/trainwreck-design.html)
 * [2024-08-19, 10:17:19](https://lobste.rs/s/ipfuhw/dying_computer_museum) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
@@ -20,7 +21,6 @@
 * [2024-08-18, 12:59:54](https://lobste.rs/s/h2sx1q/missing_salamanders_matrix_media_can_be) - [Missing Salamanders: Matrix Media can be decrypted to multiple valid plaintexts using different keys](https://lotte.chir.rs/2024/08/17/Missing-Salamanders-Matrix-Media-can-be-decrypted-to-multiple-valid-plaintexts-using-different-keys/)
 * [2024-08-18, 12:54:05](https://lobste.rs/s/clf9j0/door_problem) - [“The Door Problem”](https://lizengland.com/blog/2014/04/the-door-problem/)
 * [2024-08-17, 23:33:09](https://lobste.rs/s/droago/reckoning) - [Reckoning](https://infrequently.org/series/reckoning/)
-* [2024-08-17, 22:37:47](https://lobste.rs/s/7tdapk/semantic_versioning_doesn_t_support) - [Semantic Versioning Doesn't Support Rolling Deprecation](https://kevincox.ca/2024/08/17/semver-rolling-deprecation/)
 * [2024-08-17, 20:31:13](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use) - [What photo library software do you use?](https://lobste.rs/s/juh3rx/what_photo_library_software_do_you_use)
 * [2024-08-17, 19:40:07](https://lobste.rs/s/mdaext/are_there_languages_with_first_class) - [Are there languages with first class table support, similar to struct or map?](https://lobste.rs/s/mdaext/are_there_languages_with_first_class)
 * [2024-08-17, 14:27:42](https://lobste.rs/s/r1qlme/unordered_list_things_i_miss_go) - [An unordered list of things I miss in Go](https://kokada.capivaras.dev/blog/an-unordered-list-of-things-i-miss-in-go/)

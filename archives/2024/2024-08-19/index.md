@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 11:43:41](https://lobste.rs/s/9sd3yc/leaving_neovim_for_zed) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-19, 11:21:52](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week)
 * [2024-08-19, 10:40:45](https://lobste.rs/s/wkbyeh/trainwreck_design) - [Trainwreck design](https://j3s.sh/thought/trainwreck-design.html)
 * [2024-08-19, 10:17:19](https://lobste.rs/s/ipfuhw/dying_computer_museum) - [The Dying Computer Museum](http://ascii.textfiles.com/archives/5672)
