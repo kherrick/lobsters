@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-19, 00:43:00",
+      "https://lobste.rs/s/dj3txh/c_scripting_with_tcc_bash"
+    ],
+    [
+      "C scripting with TCC and Bash",
+      "https://alurm.github.io/blog/c-scripting-with-tcc-and-bash.html"
+    ]
+  ],
+  [
+    [
       "2024-08-18, 23:01:11",
       "https://lobste.rs/s/zi2bgn/mozilla_s_new_logo_brings_back_dinosaur"
     ],
@@ -57,16 +67,6 @@
     [
       "bashfuck: Write any bash with only the punctuation characters",
       "https://github.com/meithecatte/bashfuck"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 16:58:05",
-      "https://lobste.rs/s/x7bjhp/kubernetes_1_31_brings_more_stability"
-    ],
-    [
-      "Kubernetes 1.31 Brings More Stability to Cloud-Native Deployments",
-      "https://www.itprotoday.com/hybrid-cloud/kubernetes-1-31-brings-more-stability-to-cloud-native-deployments"
     ]
   ],
   [
