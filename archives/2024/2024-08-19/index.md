@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 20:41:13](https://lobste.rs/s/retemy/srcbook_open_source_typescript_notebook) - [Srcbook: an open-source TypeScript notebook](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 19:36:56](https://lobste.rs/s/i9bbko/inside_guidance_system_computer) - [Inside the guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
 * [2024-08-19, 19:24:30](https://lobste.rs/s/tg5vwi/sourcegraph_went_dark) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 * [2024-08-19, 18:57:52](https://lobste.rs/s/fjqfg2/closed_loop_benchmark_trap) - [The Closed-Loop Benchmark Trap](https://buttondown.com/jaffray/archive/the-closed-loop-benchmark-trap/)
