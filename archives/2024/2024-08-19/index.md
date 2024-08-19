@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
 * [2024-08-19, 15:14:08](https://lobste.rs/s/4zoe5x/nimconf_2024_announced) - [NimConf 2024 announced](https://forum.nim-lang.org/t/12329)
 * [2024-08-19, 13:45:34](https://lobste.rs/s/qq0d4r/replacing_twitter_embeds_with_images) - [Replacing Twitter Embeds With Images](https://shkspr.mobi/blog/2024/08/replacing-twitter-embeds-with-images/)
 * [2024-08-19, 13:35:06](https://lobste.rs/s/1cnjuw/quick_bits_go_automatically_downloads) - [Quick bits: Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
