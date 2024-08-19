@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 18:36:48](https://lobste.rs/s/sycfts/cache_grab_how_much_are_you_leaving_on) - [Cache Grab: How Much Are You Leaving on the Table?](https://csswizardry.com/2024/08/cache-grab-how-much-are-you-leaving-on-the-table/)
 * [2024-08-19, 18:19:09](https://lobste.rs/s/nbegov/whisperfile) - [whisperfile](https://huggingface.co/Mozilla/whisperfile)
 * [2024-08-19, 18:15:34](https://lobste.rs/s/t4fbtn/migrating_mess_with_dns_use_powerdns) - [Migrating Mess With DNS to use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
 * [2024-08-19, 17:52:55](https://lobste.rs/s/lsqbbf/effective_changelogs) - [Effective Changelogs](https://xavd.id/blog/post/effective-changelogs/)
@@ -23,7 +24,6 @@
 * [2024-08-18, 19:24:57](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small) - [Don't Repeat Yourself and the Strong Law of Small Numbers](https://jerf.org/iri/post/2024/dry_strong/)
 * [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 16:59:58](https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only) - [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
-* [2024-08-18, 13:13:24](https://lobste.rs/s/4retet/safer_c) - [Safer C++](https://alexgaynor.net/2024/aug/18/safer-c-plus-plus/)
 * [2024-08-18, 12:54:05](https://lobste.rs/s/clf9j0/door_problem) - [“The Door Problem”](https://lizengland.com/blog/2014/04/the-door-problem/)
 
 ## [Archives](archives/index.md)
