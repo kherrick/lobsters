@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 18:19:09](https://lobste.rs/s/nbegov/whisperfile) - [whisperfile](https://huggingface.co/Mozilla/whisperfile)
+* [2024-08-19, 18:15:34](https://lobste.rs/s/t4fbtn/migrating_mess_with_dns_use_powerdns) - [Migrating Mess With DNS to use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
 * [2024-08-19, 17:52:55](https://lobste.rs/s/lsqbbf/effective_changelogs) - [Effective Changelogs](https://xavd.id/blog/post/effective-changelogs/)
-* [2024-08-19, 17:39:19](https://lobste.rs/s/wr8blg/property_changed_callback_slint) - [Property Changed Callback in Slint](https://slint.dev/blog/property-changed-callback)
-* [2024-08-19, 17:13:07](https://lobste.rs/s/6j14yx/postgresql_meets_object_storage) - [PostgreSQL Meets Object Storage](https://blog.min.io/postgresql-meets-object-storage-access-external-data-in-minio/)
 * [2024-08-19, 16:01:16](https://lobste.rs/s/mvcgco/500_python_interpreters) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
 * [2024-08-19, 15:14:08](https://lobste.rs/s/4zoe5x/nimconf_2024_announced) - [NimConf 2024 announced](https://forum.nim-lang.org/t/12329)
