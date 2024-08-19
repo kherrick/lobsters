@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-19, 00:43:00](https://lobste.rs/s/dj3txh/c_scripting_with_tcc_bash) - [C scripting with TCC and Bash](https://alurm.github.io/blog/c-scripting-with-tcc-and-bash.html)
 * [2024-08-18, 23:01:11](https://lobste.rs/s/zi2bgn/mozilla_s_new_logo_brings_back_dinosaur) - [Mozilla's New Logo Brings Back the Dinosaur Mascot (Kinda)](https://www.omgubuntu.co.uk/2024/08/mozilla-new-logo)
 * [2024-08-18, 22:51:45](https://lobste.rs/s/0i4m8e/markov_chains_are_funnier_than_llms) - [Markov chains are funnier than LLMs](https://emnudge.dev/blog/markov-chains-are-funny/)
 * [2024-08-18, 22:44:04](https://lobste.rs/s/hthnaf/making_chess_engine_zig) - [Making a Chess Engine in Zig](https://johns.codes/blog/making-a-chess-engine-in-zig)
 * [2024-08-18, 19:24:57](https://lobste.rs/s/yw7jgq/don_t_repeat_yourself_strong_law_small) - [Don't Repeat Yourself and the Strong Law of Small Numbers](https://jerf.org/iri/post/2024/dry_strong/)
 * [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 * [2024-08-18, 16:59:58](https://lobste.rs/s/wfvjmc/bashfuck_write_any_bash_with_only) - [bashfuck: Write any bash with only the punctuation characters](https://github.com/meithecatte/bashfuck)
-* [2024-08-18, 16:58:05](https://lobste.rs/s/x7bjhp/kubernetes_1_31_brings_more_stability) - [Kubernetes 1.31 Brings More Stability to Cloud-Native Deployments](https://www.itprotoday.com/hybrid-cloud/kubernetes-1-31-brings-more-stability-to-cloud-native-deployments)
 * [2024-08-18, 16:37:50](https://lobste.rs/s/atqtjj/fear_not_association_types) - [Fear Not the Association of Types](https://gavinleroy.com/writings/i-heart-assoc-types.html)
 * [2024-08-18, 15:49:14](https://lobste.rs/s/v5fin8/dos_s_last_stand_on_modern_thinkpad_x13_gen) - [DOS's Last Stand on a modern Thinkpad: X13 Gen 1 with Intel i5-10310U](https://yeokhengmeng.com/2024/08/dos-on-thinkpad-x13-gen1/)
 * [2024-08-18, 13:44:45](https://lobste.rs/s/kwthdg/you_might_be_overusing_vim_visual_mode) - [You might be overusing Vim visual mode](https://m4xshen.dev/posts/overuse-vim-visual-mode)
