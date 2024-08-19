@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-08-19, 18:36:48",
-      "https://lobste.rs/s/sycfts/cache_grab_how_much_are_you_leaving_on"
-    ],
-    [
-      "Cache Grab: How Much Are You Leaving on the Table?",
-      "https://csswizardry.com/2024/08/cache-grab-how-much-are-you-leaving-on-the-table/"
-    ]
-  ],
-  [
-    [
       "2024-08-19, 18:19:09",
       "https://lobste.rs/s/nbegov/whisperfile"
     ],
@@ -37,6 +27,16 @@
     [
       "Effective Changelogs",
       "https://xavd.id/blog/post/effective-changelogs/"
+    ]
+  ],
+  [
+    [
+      "2024-08-19, 17:13:07",
+      "https://lobste.rs/s/6j14yx/postgresql_meets_object_storage"
+    ],
+    [
+      "PostgreSQL Meets Object Storage",
+      "https://blog.min.io/postgresql-meets-object-storage-access-external-data-in-minio/"
     ]
   ],
   [
