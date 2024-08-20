@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-20, 13:26:04",
+      "https://lobste.rs/s/y1kib5/building_serial_connection_for_home"
+    ],
+    [
+      "Building a serial connection for Home Assistant to a 2000 Baytech RPC2 PDU",
+      "https://github.com/K3CAN/Misc/tree/main/Baytech-RPC2"
+    ]
+  ],
+  [
+    [
       "2024-08-20, 13:00:12",
       "https://lobste.rs/s/xoy63p/meilisearch_is_too_slow"
     ],
@@ -237,16 +247,6 @@
     [
       "Mike Magee (El Reg cofounder) is dead",
       "https://fudzilla.com/news/59503-mike-mageek-is-dead"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 18:41:39",
-      "https://lobste.rs/s/s0ieke/micro_libraries_need_die_already"
-    ],
-    [
-      "Micro-libraries need to die already",
-      "https://bvisness.me/microlibraries/"
     ]
   ]
 ]
