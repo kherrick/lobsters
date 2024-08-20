@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
+* [2024-08-19, 23:44:50](https://lobste.rs/s/s5lcaz/emacs_ef_eagle_ef_owl_are_added_ef_themes) - [Emacs: ‘ef-eagle’ and ‘ef-owl’ are added to the ‘ef-themes’](https://protesilaos.com/codelog/2024-08-19-ef-eagle-and-owl-themes/)
 * [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:45:37](https://lobste.rs/s/la9vyj/getting_back_into_c_programming_for_cp_m) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
@@ -15,7 +16,6 @@
 * [2024-08-19, 17:52:55](https://lobste.rs/s/lsqbbf/effective_changelogs) - [Effective Changelogs](https://xavd.id/blog/post/effective-changelogs/)
 * [2024-08-19, 16:01:16](https://lobste.rs/s/mvcgco/500_python_interpreters) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
-* [2024-08-19, 15:14:08](https://lobste.rs/s/4zoe5x/nimconf_2024_announced) - [NimConf 2024 announced](https://forum.nim-lang.org/t/12329)
 * [2024-08-19, 13:45:34](https://lobste.rs/s/qq0d4r/replacing_twitter_embeds_with_images) - [Replacing Twitter Embeds With Images](https://shkspr.mobi/blog/2024/08/replacing-twitter-embeds-with-images/)
 * [2024-08-19, 13:35:06](https://lobste.rs/s/1cnjuw/quick_bits_go_automatically_downloads) - [Quick bits: Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 * [2024-08-19, 12:57:32](https://lobste.rs/s/7s8ofd/bit_banging_basic_birthday) - [Bit-banging a BASIC Birthday](https://thingswemake.com/bit-banging-a-basic-birthday/)

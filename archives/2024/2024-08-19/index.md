@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-19](index.md)
 
+* [2024-08-19, 23:44:50](https://lobste.rs/s/s5lcaz/emacs_ef_eagle_ef_owl_are_added_ef_themes) - [Emacs: ‘ef-eagle’ and ‘ef-owl’ are added to the ‘ef-themes’](https://protesilaos.com/codelog/2024-08-19-ef-eagle-and-owl-themes/)
 * [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:45:37](https://lobste.rs/s/la9vyj/getting_back_into_c_programming_for_cp_m) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
