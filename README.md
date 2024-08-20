@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-20, 13:00:12](https://lobste.rs/s/xoy63p/meilisearch_is_too_slow) - [Meilisearch is too slow](https://blog.kerollmops.com/meilisearch-is-too-slow)
 * [2024-08-20, 12:30:30](https://lobste.rs/s/hobnmp/understanding_workload_models) - [Understanding workload models](https://www.artillery.io/blog/load-testing-workload-models)
 * [2024-08-20, 12:15:13](https://lobste.rs/s/9qdfgk/fauxrpc_easily_turn_protobufs_into_fake) - [FauxRPC: Easily turn protobufs into fake gRPC, gRPC-Web, Connect, and REST services](https://kmcd.dev/posts/fauxrpc/)
 * [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
@@ -20,7 +21,6 @@
 * [2024-08-19, 18:53:10](https://lobste.rs/s/2lu3jp/pragmatic_category_theory_part_2) - [Pragmatic Category Theory | Part 2: Composing Semigroups](https://dev.to/chshersh/pragmatic-category-theory-part-2-composing-semigroups-87)
 * [2024-08-19, 17:52:55](https://lobste.rs/s/lsqbbf/effective_changelogs) - [Effective Changelogs](https://xavd.id/blog/post/effective-changelogs/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
-* [2024-08-19, 13:45:34](https://lobste.rs/s/qq0d4r/replacing_twitter_embeds_with_images) - [Replacing Twitter Embeds With Images](https://shkspr.mobi/blog/2024/08/replacing-twitter-embeds-with-images/)
 * [2024-08-19, 13:35:06](https://lobste.rs/s/1cnjuw/quick_bits_go_automatically_downloads) - [Quick bits: Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 * [2024-08-19, 11:43:41](https://lobste.rs/s/9sd3yc/leaving_neovim_for_zed) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
 * [2024-08-19, 10:13:28](https://lobste.rs/s/3braoo/mike_magee_el_reg_cofounder_is_dead) - [Mike Magee (El Reg cofounder) is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 13:00:12](https://lobste.rs/s/xoy63p/meilisearch_is_too_slow) - [Meilisearch is too slow](https://blog.kerollmops.com/meilisearch-is-too-slow)
 * [2024-08-20, 12:30:30](https://lobste.rs/s/hobnmp/understanding_workload_models) - [Understanding workload models](https://www.artillery.io/blog/load-testing-workload-models)
 * [2024-08-20, 12:15:13](https://lobste.rs/s/9qdfgk/fauxrpc_easily_turn_protobufs_into_fake) - [FauxRPC: Easily turn protobufs into fake gRPC, gRPC-Web, Connect, and REST services](https://kmcd.dev/posts/fauxrpc/)
 * [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
