@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
 * [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:45:37](https://lobste.rs/s/la9vyj/getting_back_into_c_programming_for_cp_m) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
@@ -11,7 +12,6 @@
 * [2024-08-19, 18:57:52](https://lobste.rs/s/fjqfg2/closed_loop_benchmark_trap) - [The Closed-Loop Benchmark Trap](https://buttondown.com/jaffray/archive/the-closed-loop-benchmark-trap/)
 * [2024-08-19, 18:53:10](https://lobste.rs/s/2lu3jp/pragmatic_category_theory_part_2) - [Pragmatic Category Theory | Part 2: Composing Semigroups](https://dev.to/chshersh/pragmatic-category-theory-part-2-composing-semigroups-87)
 * [2024-08-19, 18:19:09](https://lobste.rs/s/nbegov/whisperfile) - [whisperfile](https://huggingface.co/Mozilla/whisperfile)
-* [2024-08-19, 18:15:34](https://lobste.rs/s/t4fbtn/migrating_mess_with_dns_use_powerdns) - [Migrating Mess With DNS to use PowerDNS](https://jvns.ca/blog/2024/08/19/migrating-mess-with-dns-to-use-powerdns/)
 * [2024-08-19, 17:52:55](https://lobste.rs/s/lsqbbf/effective_changelogs) - [Effective Changelogs](https://xavd.id/blog/post/effective-changelogs/)
 * [2024-08-19, 16:01:16](https://lobste.rs/s/mvcgco/500_python_interpreters) - [500 Python Interpreters](https://izzys.casa/2024/08/463-python-interpreters/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
