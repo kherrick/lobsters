@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-08-19, 21:12:58",
+      "https://lobste.rs/s/b58j68/typescript_sudoku_playing_sudoku"
+    ],
+    [
+      "typescript-sudoku: Playing Sudoku in TypeScript while the type checker highlights mistakes",
+      "https://github.com/gruhn/typescript-sudoku"
+    ]
+  ],
+  [
+    [
       "2024-08-19, 21:05:22",
       "https://lobste.rs/s/dk3lxx/foone_finds_nuc"
     ],
@@ -177,16 +187,6 @@
     [
       "Quick bits: Go automatically downloads a newer toolchain if needed",
       "https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 12:57:32",
-      "https://lobste.rs/s/7s8ofd/bit_banging_basic_birthday"
-    ],
-    [
-      "Bit-banging a BASIC Birthday",
-      "https://thingswemake.com/bit-banging-a-basic-birthday/"
     ]
   ],
   [
