@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 * [2024-08-20, 10:35:17](https://lobste.rs/s/zqtsha/it_s_not_simple_add_function_keyword) - [It's not simple to add function keyword arguments to Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndFunctionKeywordArguments)
 * [2024-08-20, 10:25:50](https://lobste.rs/s/nwg9su/vs_code_obsolescence) - [VS Code Obsolescence](https://cyberb.space/notes/2024/vs-code-obsolescence/)
@@ -7,7 +8,6 @@
 * [2024-08-20, 03:55:56](https://lobste.rs/s/uthi97/let_s_write_reverb_2021) - [Let's Write A Reverb (2021)](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 * [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
 * [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
-* [2024-08-19, 22:08:53](https://lobste.rs/s/eejcac/freebsd_2024_q2_status_report) - [FreeBSD 2024 Q2 Status Report](https://www.freebsd.org/status/report-2024-04-2024-06/)
 * [2024-08-19, 21:16:04](https://lobste.rs/s/g4jtou/phrack_magazine_issue_71) - [Phrack Magazine Issue 71](http://phrack.org/issues/71/1.html)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:41:13](https://lobste.rs/s/retemy/srcbook_open_source_typescript_notebook) - [Srcbook: an open-source TypeScript notebook](https://github.com/srcbookdev/srcbook)
