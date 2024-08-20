@@ -6,6 +6,7 @@
 
 * [2024-08-19, 23:44:50](https://lobste.rs/s/s5lcaz/emacs_ef_eagle_ef_owl_are_added_ef_themes) - [Emacs: ‘ef-eagle’ and ‘ef-owl’ are added to the ‘ef-themes’](https://protesilaos.com/codelog/2024-08-19-ef-eagle-and-owl-themes/)
 * [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
+* [2024-08-19, 22:08:53](https://lobste.rs/s/eejcac/freebsd_2024_q2_status_report) - [FreeBSD 2024 Q2 Status Report](https://www.freebsd.org/status/report-2024-04-2024-06/)
 * [2024-08-19, 21:16:04](https://lobste.rs/s/g4jtou/phrack_magazine_issue_71) - [Phrack Magazine Issue 71](http://phrack.org/issues/71/1.html)
 * [2024-08-19, 21:12:58](https://lobste.rs/s/b58j68/typescript_sudoku_playing_sudoku) - [typescript-sudoku: Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
