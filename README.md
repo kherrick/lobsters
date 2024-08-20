@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 * [2024-08-20, 10:35:17](https://lobste.rs/s/zqtsha/it_s_not_simple_add_function_keyword) - [It's not simple to add function keyword arguments to Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndFunctionKeywordArguments)
 * [2024-08-20, 10:25:50](https://lobste.rs/s/nwg9su/vs_code_obsolescence) - [VS Code Obsolescence](https://cyberb.space/notes/2024/vs-code-obsolescence/)
 * [2024-08-20, 10:01:25](https://lobste.rs/s/90sti9/serena_experimental_operating_system) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
@@ -22,7 +23,6 @@
 * [2024-08-19, 13:45:34](https://lobste.rs/s/qq0d4r/replacing_twitter_embeds_with_images) - [Replacing Twitter Embeds With Images](https://shkspr.mobi/blog/2024/08/replacing-twitter-embeds-with-images/)
 * [2024-08-19, 13:35:06](https://lobste.rs/s/1cnjuw/quick_bits_go_automatically_downloads) - [Quick bits: Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 * [2024-08-19, 11:43:41](https://lobste.rs/s/9sd3yc/leaving_neovim_for_zed) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
-* [2024-08-19, 11:21:52](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/k7fqv5/what_are_you_doing_this_week)
 * [2024-08-19, 10:13:28](https://lobste.rs/s/3braoo/mike_magee_el_reg_cofounder_is_dead) - [Mike Magee (El Reg cofounder) is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 * [2024-08-18, 18:41:39](https://lobste.rs/s/s0ieke/micro_libraries_need_die_already) - [Micro-libraries need to die already](https://bvisness.me/microlibraries/)
 
