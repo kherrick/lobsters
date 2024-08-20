@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-20, 21:10:23](https://lobste.rs/s/lkaw6f/range_over_function_types) - [Range Over Function Types](https://go.dev/blog/range-functions)
 * [2024-08-20, 20:16:49](https://lobste.rs/s/p04mx3/fixing_fifteen_year_old_curve_fit_bug) - [Fixing a fifteen-year-old curve fit bug](https://peateasea.de/fixing-a-fifteen-year-old-curve-fit-bug/)
 * [2024-08-20, 19:12:21](https://lobste.rs/s/hwhvh9/uv_unified_python_packaging) - [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
 * [2024-08-20, 18:11:41](https://lobste.rs/s/rx8bd6/standard_for_straightforward) - [A standard for straightforward integration and compilation of C projects](https://github.com/adamharrison/straightforward-c-project-standard)
 * [2024-08-20, 13:26:04](https://lobste.rs/s/y1kib5/building_serial_connection_for_home) - [Building a serial connection for Home Assistant to a 2000 Baytech RPC2 PDU](https://github.com/K3CAN/Misc/tree/main/Baytech-RPC2)
 * [2024-08-20, 13:00:12](https://lobste.rs/s/xoy63p/meilisearch_is_too_slow) - [Meilisearch is too slow](https://blog.kerollmops.com/meilisearch-is-too-slow)
-* [2024-08-20, 12:30:30](https://lobste.rs/s/hobnmp/understanding_workload_models) - [Understanding workload models](https://www.artillery.io/blog/load-testing-workload-models)
 * [2024-08-20, 12:15:13](https://lobste.rs/s/9qdfgk/fauxrpc_easily_turn_protobufs_into_fake) - [FauxRPC: Easily turn protobufs into fake gRPC, gRPC-Web, Connect, and REST services](https://kmcd.dev/posts/fauxrpc/)
 * [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)

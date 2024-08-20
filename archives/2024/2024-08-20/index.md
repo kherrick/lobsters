@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 21:10:23](https://lobste.rs/s/lkaw6f/range_over_function_types) - [Range Over Function Types](https://go.dev/blog/range-functions)
 * [2024-08-20, 20:16:49](https://lobste.rs/s/p04mx3/fixing_fifteen_year_old_curve_fit_bug) - [Fixing a fifteen-year-old curve fit bug](https://peateasea.de/fixing-a-fifteen-year-old-curve-fit-bug/)
 * [2024-08-20, 19:12:21](https://lobste.rs/s/hwhvh9/uv_unified_python_packaging) - [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
 * [2024-08-20, 18:11:41](https://lobste.rs/s/rx8bd6/standard_for_straightforward) - [A standard for straightforward integration and compilation of C projects](https://github.com/adamharrison/straightforward-c-project-standard)
