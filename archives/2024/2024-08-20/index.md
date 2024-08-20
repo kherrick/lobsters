@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-20](index.md)
 
+* [2024-08-20, 12:15:13](https://lobste.rs/s/9qdfgk/fauxrpc_easily_turn_protobufs_into_fake) - [FauxRPC: Easily turn protobufs into fake gRPC, gRPC-Web, Connect, and REST services](https://kmcd.dev/posts/fauxrpc/)
 * [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 * [2024-08-20, 10:35:17](https://lobste.rs/s/zqtsha/it_s_not_simple_add_function_keyword) - [It's not simple to add function keyword arguments to Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndFunctionKeywordArguments)

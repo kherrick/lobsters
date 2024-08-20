@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-20, 12:15:13](https://lobste.rs/s/9qdfgk/fauxrpc_easily_turn_protobufs_into_fake) - [FauxRPC: Easily turn protobufs into fake gRPC, gRPC-Web, Connect, and REST services](https://kmcd.dev/posts/fauxrpc/)
 * [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 * [2024-08-20, 10:35:17](https://lobste.rs/s/zqtsha/it_s_not_simple_add_function_keyword) - [It's not simple to add function keyword arguments to Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndFunctionKeywordArguments)
@@ -10,7 +11,6 @@
 * [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
 * [2024-08-19, 21:16:04](https://lobste.rs/s/g4jtou/phrack_magazine_issue_71) - [Phrack Magazine Issue 71](http://phrack.org/issues/71/1.html)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
-* [2024-08-19, 20:41:13](https://lobste.rs/s/retemy/srcbook_open_source_typescript_notebook) - [Srcbook: an open-source TypeScript notebook](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
 * [2024-08-19, 20:22:31](https://lobste.rs/s/sgjtti/life_death_htmx) - [The Life & Death of htmx](https://www.youtube.com/watch?v=inRB6ull5WQ)
 * [2024-08-19, 19:36:56](https://lobste.rs/s/i9bbko/inside_guidance_system_computer) - [Inside the guidance system and computer of the Minuteman III nuclear missile](http://www.righto.com/2024/08/minuteman-guidance-computer.html)
