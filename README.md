@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-20, 10:25:50](https://lobste.rs/s/nwg9su/vs_code_obsolescence) - [VS Code Obsolescence](https://cyberb.space/notes/2024/vs-code-obsolescence/)
 * [2024-08-20, 10:01:25](https://lobste.rs/s/90sti9/serena_experimental_operating_system) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-20, 03:55:56](https://lobste.rs/s/uthi97/let_s_write_reverb_2021) - [Let's Write A Reverb (2021)](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 * [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
@@ -7,7 +8,6 @@
 * [2024-08-19, 21:16:04](https://lobste.rs/s/g4jtou/phrack_magazine_issue_71) - [Phrack Magazine Issue 71](http://phrack.org/issues/71/1.html)
 * [2024-08-19, 21:12:58](https://lobste.rs/s/b58j68/typescript_sudoku_playing_sudoku) - [typescript-sudoku: Playing Sudoku in TypeScript while the type checker highlights mistakes](https://github.com/gruhn/typescript-sudoku)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
-* [2024-08-19, 20:45:37](https://lobste.rs/s/la9vyj/getting_back_into_c_programming_for_cp_m) - [Getting back into C programming for CP/M](https://kevinboone.me/cpm-c.html)
 * [2024-08-19, 20:41:13](https://lobste.rs/s/retemy/srcbook_open_source_typescript_notebook) - [Srcbook: an open-source TypeScript notebook](https://github.com/srcbookdev/srcbook)
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
 * [2024-08-19, 20:22:31](https://lobste.rs/s/sgjtti/life_death_htmx) - [The Life & Death of htmx](https://www.youtube.com/watch?v=inRB6ull5WQ)
