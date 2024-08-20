@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-20, 20:16:49](https://lobste.rs/s/p04mx3/fixing_fifteen_year_old_curve_fit_bug) - [Fixing a fifteen-year-old curve fit bug](https://peateasea.de/fixing-a-fifteen-year-old-curve-fit-bug/)
 * [2024-08-20, 19:12:21](https://lobste.rs/s/hwhvh9/uv_unified_python_packaging) - [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
 * [2024-08-20, 18:11:41](https://lobste.rs/s/rx8bd6/standard_for_straightforward) - [A standard for straightforward integration and compilation of C projects](https://github.com/adamharrison/straightforward-c-project-standard)
 * [2024-08-20, 13:26:04](https://lobste.rs/s/y1kib5/building_serial_connection_for_home) - [Building a serial connection for Home Assistant to a 2000 Baytech RPC2 PDU](https://github.com/K3CAN/Misc/tree/main/Baytech-RPC2)
@@ -24,7 +25,6 @@
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
 * [2024-08-19, 13:35:06](https://lobste.rs/s/1cnjuw/quick_bits_go_automatically_downloads) - [Quick bits: Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 * [2024-08-19, 11:43:41](https://lobste.rs/s/9sd3yc/leaving_neovim_for_zed) - [Leaving Neovim for Zed](https://stevedylan.dev/posts/leaving-neovim-for-zed/)
-* [2024-08-19, 10:13:28](https://lobste.rs/s/3braoo/mike_magee_el_reg_cofounder_is_dead) - [Mike Magee (El Reg cofounder) is dead](https://fudzilla.com/news/59503-mike-mageek-is-dead)
 
 ## [Archives](archives/index.md)
 
