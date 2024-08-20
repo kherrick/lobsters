@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-20, 10:35:17",
+      "https://lobste.rs/s/zqtsha/it_s_not_simple_add_function_keyword"
+    ],
+    [
+      "It's not simple to add function keyword arguments to Go",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndFunctionKeywordArguments"
+    ]
+  ],
+  [
+    [
       "2024-08-20, 10:25:50",
       "https://lobste.rs/s/nwg9su/vs_code_obsolescence"
     ],
@@ -227,16 +237,6 @@
     [
       "Mike Magee (El Reg cofounder) is dead",
       "https://fudzilla.com/news/59503-mike-mageek-is-dead"
-    ]
-  ],
-  [
-    [
-      "2024-08-18, 22:44:04",
-      "https://lobste.rs/s/hthnaf/making_chess_engine_zig"
-    ],
-    [
-      "Making a Chess Engine in Zig",
-      "https://johns.codes/blog/making-a-chess-engine-in-zig"
     ]
   ],
   [
