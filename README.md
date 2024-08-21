@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 16:39:23](https://lobste.rs/s/nhiamh/benefits_conforming) - [The Benefits of Conforming](https://beyondloom.com/blog/conforming.html)
 * [2024-08-21, 16:19:34](https://lobste.rs/s/xujj1a/podman_testing_on_freebsd) - [Podman testing on FreeBSD](https://github.com/oci-playground/freebsd-podman-testing)
 * [2024-08-21, 15:54:41](https://lobste.rs/s/dwbloi/heap_intervals_solidity) - [Heap Intervals in Solidity](https://brocke.xyz/interval-expanded)
 * [2024-08-21, 15:24:36](https://lobste.rs/s/r1v9tx/10_essential_terminal_commands_every) - [10 Essential Terminal Commands Every Developer Should Know](https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know)
@@ -15,7 +16,6 @@
 * [2024-08-21, 07:25:55](https://lobste.rs/s/jhbixt/compiling_tetris_from_1992_on_openvms_x86) - [Compiling TETRIS from 1992 on OpenVMS x86 in 2024](http://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html)
 * [2024-08-21, 06:52:53](https://lobste.rs/s/zv2gvd/introducing_zed_ai) - [Introducing Zed AI](https://zed.dev/blog/zed-ai)
 * [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
-* [2024-08-20, 22:52:18](https://lobste.rs/s/l1gars/verinum_formally_verified_numerical) - [VeriNum: Formally Verified Numerical Methods](https://verinum.org/)
 * [2024-08-20, 21:10:23](https://lobste.rs/s/lkaw6f/range_over_function_types) - [Range Over Function Types](https://go.dev/blog/range-functions)
 * [2024-08-20, 20:16:49](https://lobste.rs/s/p04mx3/fixing_fifteen_year_old_curve_fit_bug) - [Fixing a fifteen-year-old curve fit bug](https://peateasea.de/fixing-a-fifteen-year-old-curve-fit-bug/)
 * [2024-08-20, 19:12:21](https://lobste.rs/s/hwhvh9/uv_unified_python_packaging) - [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
