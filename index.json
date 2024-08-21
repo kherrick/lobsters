@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-21, 13:14:40",
+      "https://lobste.rs/s/whrtsg/arcticdb_why_hedge_fund_built_its_own"
+    ],
+    [
+      "ArcticDB: Why a Hedge Fund Built Its Own Database",
+      "https://www.infoq.com/presentations/arcticdb/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 13:04:00",
+      "https://lobste.rs/s/yitsls/libations_tailscale_on_rocks"
+    ],
+    [
+      "Libations: Tailscale on the Rocks",
+      "https://jnsgr.uk/2024/08/tailscale-on-the-rocks/"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 13:00:56",
       "https://lobste.rs/s/wueivc/map_rust_vector_iteration_assembly"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-08-20, 10:35:17",
-      "https://lobste.rs/s/zqtsha/it_s_not_simple_add_function_keyword"
-    ],
-    [
-      "It's not simple to add function keyword arguments to Go",
-      "https://utcc.utoronto.ca/~cks/space/blog/programming/GoAndFunctionKeywordArguments"
-    ]
-  ],
-  [
-    [
       "2024-08-20, 10:25:50",
       "https://lobste.rs/s/nwg9su/vs_code_obsolescence"
     ],
@@ -177,16 +187,6 @@
     [
       "Serena: An experimental operating system for 32bit Amiga computers",
       "https://github.com/dplanitzer/Serena"
-    ]
-  ],
-  [
-    [
-      "2024-08-20, 03:55:56",
-      "https://lobste.rs/s/uthi97/let_s_write_reverb_2021"
-    ],
-    [
-      "Let's Write A Reverb (2021)",
-      "https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/"
     ]
   ],
   [
