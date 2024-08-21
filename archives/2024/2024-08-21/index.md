@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 18:27:55](https://lobste.rs/s/8agvtn/systematic_approach_deriving) - [A systematic approach to deriving incremental type checkers (2020)](https://dl.acm.org/doi/10.1145/3428195)
+* [2024-08-21, 18:21:35](https://lobste.rs/s/ymmale/unordered_list_hidden_gems_inside_nixos) - [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
+* [2024-08-21, 18:20:50](https://lobste.rs/s/dae2z3/anonymous_webs_trust) - [Anonymous Webs of Trust](https://publications.cispa.saarland/129/1/master_stefan_lorenz.pdf)
 * [2024-08-21, 18:07:36](https://lobste.rs/s/aaxypj/gentoo_profiles_keywords_rather_than) - [Gentoo: profiles and keywords rather than releases](https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/)
 * [2024-08-21, 17:58:17](https://lobste.rs/s/4ni704/calling_all_hackers) - [Calling All Hackers](http://www.phrack.org/issues/71/17.html#article)
 * [2024-08-21, 17:16:52](https://lobste.rs/s/wqwpar/code_review_antipatterns) - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
