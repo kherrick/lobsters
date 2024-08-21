@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 17:16:52](https://lobste.rs/s/wqwpar/code_review_antipatterns) - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 * [2024-08-21, 16:39:23](https://lobste.rs/s/nhiamh/benefits_conforming) - [The Benefits of Conforming](https://beyondloom.com/blog/conforming.html)
 * [2024-08-21, 16:19:34](https://lobste.rs/s/xujj1a/podman_testing_on_freebsd) - [Podman testing on FreeBSD](https://github.com/oci-playground/freebsd-podman-testing)
 * [2024-08-21, 15:54:41](https://lobste.rs/s/dwbloi/heap_intervals_solidity) - [Heap Intervals in Solidity](https://brocke.xyz/interval-expanded)

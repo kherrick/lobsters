@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 17:16:52](https://lobste.rs/s/wqwpar/code_review_antipatterns) - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 * [2024-08-21, 16:39:23](https://lobste.rs/s/nhiamh/benefits_conforming) - [The Benefits of Conforming](https://beyondloom.com/blog/conforming.html)
 * [2024-08-21, 16:19:34](https://lobste.rs/s/xujj1a/podman_testing_on_freebsd) - [Podman testing on FreeBSD](https://github.com/oci-playground/freebsd-podman-testing)
 * [2024-08-21, 15:54:41](https://lobste.rs/s/dwbloi/heap_intervals_solidity) - [Heap Intervals in Solidity](https://brocke.xyz/interval-expanded)
@@ -24,7 +25,6 @@
 * [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 * [2024-08-20, 10:25:50](https://lobste.rs/s/nwg9su/vs_code_obsolescence) - [VS Code Obsolescence](https://cyberb.space/notes/2024/vs-code-obsolescence/)
-* [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
 
 ## [Archives](archives/index.md)
 
