@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 14:41:19](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors) - [Favorite Pixel Art Editors?](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors)
 * [2024-08-21, 13:49:27](https://lobste.rs/s/nqighg/ps4_emulator_for_windows_linux_macos) - [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 13:39:23](https://lobste.rs/s/2ezrtf/some_brief_notes_on_numfmt_from_gnu) - [Some brief notes on 'numfmt' from GNU Coreutils](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NumfmtBriefNotes)
 * [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
@@ -24,7 +25,6 @@
 * [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
-* [2024-08-19, 19:24:30](https://lobste.rs/s/tg5vwi/sourcegraph_went_dark) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 
 ## [Archives](archives/index.md)
 
