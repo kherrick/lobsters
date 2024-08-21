@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 15:24:36](https://lobste.rs/s/r1v9tx/10_essential_terminal_commands_every) - [10 Essential Terminal Commands Every Developer Should Know](https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know)
 * [2024-08-21, 14:41:19](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors) - [Favorite Pixel Art Editors?](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors)
 * [2024-08-21, 13:49:27](https://lobste.rs/s/nqighg/ps4_emulator_for_windows_linux_macos) - [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 13:39:23](https://lobste.rs/s/2ezrtf/some_brief_notes_on_numfmt_from_gnu) - [Some brief notes on 'numfmt' from GNU Coreutils](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NumfmtBriefNotes)

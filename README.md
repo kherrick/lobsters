@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 15:24:36](https://lobste.rs/s/r1v9tx/10_essential_terminal_commands_every) - [10 Essential Terminal Commands Every Developer Should Know](https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know)
 * [2024-08-21, 14:41:19](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors) - [Favorite Pixel Art Editors?](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors)
 * [2024-08-21, 13:49:27](https://lobste.rs/s/nqighg/ps4_emulator_for_windows_linux_macos) - [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 13:39:23](https://lobste.rs/s/2ezrtf/some_brief_notes_on_numfmt_from_gnu) - [Some brief notes on 'numfmt' from GNU Coreutils](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NumfmtBriefNotes)
@@ -21,7 +22,6 @@
 * [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 * [2024-08-20, 10:25:50](https://lobste.rs/s/nwg9su/vs_code_obsolescence) - [VS Code Obsolescence](https://cyberb.space/notes/2024/vs-code-obsolescence/)
-* [2024-08-20, 10:01:25](https://lobste.rs/s/90sti9/serena_experimental_operating_system) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
