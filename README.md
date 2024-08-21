@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 07:25:55](https://lobste.rs/s/jhbixt/compiling_tetris_from_1992_on_openvms_x86) - [Compiling TETRIS from 1992 on OpenVMS x86 in 2024](http://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html)
 * [2024-08-21, 06:52:53](https://lobste.rs/s/zv2gvd/introducing_zed_ai) - [Introducing Zed AI](https://zed.dev/blog/zed-ai)
 * [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 * [2024-08-20, 22:52:18](https://lobste.rs/s/l1gars/verinum_formally_verified_numerical) - [VeriNum: Formally Verified Numerical Methods](https://verinum.org/)
@@ -9,7 +10,6 @@
 * [2024-08-20, 18:11:41](https://lobste.rs/s/rx8bd6/standard_for_straightforward) - [A standard for straightforward integration and compilation of C projects](https://github.com/adamharrison/straightforward-c-project-standard)
 * [2024-08-20, 13:26:04](https://lobste.rs/s/y1kib5/building_serial_connection_for_home) - [Building a serial connection for Home Assistant to a 2000 Baytech RPC2 PDU](https://github.com/K3CAN/Misc/tree/main/Baytech-RPC2)
 * [2024-08-20, 13:00:12](https://lobste.rs/s/xoy63p/meilisearch_is_too_slow) - [Meilisearch is too slow](https://blog.kerollmops.com/meilisearch-is-too-slow)
-* [2024-08-20, 12:30:30](https://lobste.rs/s/hobnmp/understanding_workload_models) - [Understanding workload models](https://www.artillery.io/blog/load-testing-workload-models)
 * [2024-08-20, 12:15:13](https://lobste.rs/s/9qdfgk/fauxrpc_easily_turn_protobufs_into_fake) - [FauxRPC: Easily turn protobufs into fake gRPC, gRPC-Web, Connect, and REST services](https://kmcd.dev/posts/fauxrpc/)
 * [2024-08-20, 11:14:44](https://lobste.rs/s/ohajgb/what_s_big_deal_about_deterministic) - [What's the big deal about Deterministic Simulation Testing?](https://notes.eatonphil.com/2024-08-20-deterministic-simulation-testing.html)
 * [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
