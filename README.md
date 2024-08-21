@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 06:52:53](https://lobste.rs/s/zv2gvd/introducing_zed_ai) - [Introducing Zed AI](https://zed.dev/blog/zed-ai)
 * [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 * [2024-08-20, 22:52:18](https://lobste.rs/s/l1gars/verinum_formally_verified_numerical) - [VeriNum: Formally Verified Numerical Methods](https://verinum.org/)
 * [2024-08-20, 21:10:23](https://lobste.rs/s/lkaw6f/range_over_function_types) - [Range Over Function Types](https://go.dev/blog/range-functions)
@@ -19,7 +20,6 @@
 * [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
-* [2024-08-19, 20:22:31](https://lobste.rs/s/sgjtti/life_death_htmx) - [The Life & Death of htmx](https://www.youtube.com/watch?v=inRB6ull5WQ)
 * [2024-08-19, 19:24:30](https://lobste.rs/s/tg5vwi/sourcegraph_went_dark) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 * [2024-08-19, 17:52:55](https://lobste.rs/s/lsqbbf/effective_changelogs) - [Effective Changelogs](https://xavd.id/blog/post/effective-changelogs/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
