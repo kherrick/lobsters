@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-21, 13:39:23",
+      "https://lobste.rs/s/2ezrtf/some_brief_notes_on_numfmt_from_gnu"
+    ],
+    [
+      "Some brief notes on 'numfmt' from GNU Coreutils",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NumfmtBriefNotes"
+    ]
+  ],
+  [
+    [
       "2024-08-21, 13:29:30",
       "https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on"
     ],
@@ -237,16 +247,6 @@
     [
       "Sourcegraph went dark",
       "https://eric-fritz.com/articles/sourcegraph-went-dark/"
-    ]
-  ],
-  [
-    [
-      "2024-08-19, 17:52:55",
-      "https://lobste.rs/s/lsqbbf/effective_changelogs"
-    ],
-    [
-      "Effective Changelogs",
-      "https://xavd.id/blog/post/effective-changelogs/"
     ]
   ]
 ]
