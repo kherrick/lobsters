@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 19:23:00](https://lobste.rs/s/ds0thh/i_read_entire_neovim_user_manual) - [I Read the Entire Neovim User Manual](https://www.youtube.com/watch?v=rT-fbLFOCy0)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
 * [2024-08-21, 18:35:46](https://lobste.rs/s/hxduqb/eyes_have_it_task_by_data_type_taxonomy_for) - [The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations (1996)](https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf)
 * [2024-08-21, 18:29:56](https://lobste.rs/s/9kv5mb/using_python_as_wide_spectrum_language) - [Using Python as wide-spectrum language (2002)](https://nlnet.nl/project/timewalker/200206europython.pdf)
