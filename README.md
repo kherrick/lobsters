@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
 * [2024-08-21, 13:14:40](https://lobste.rs/s/whrtsg/arcticdb_why_hedge_fund_built_its_own) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 * [2024-08-21, 13:04:00](https://lobste.rs/s/yitsls/libations_tailscale_on_rocks) - [Libations: Tailscale on the Rocks](https://jnsgr.uk/2024/08/tailscale-on-the-rocks/)
 * [2024-08-21, 13:00:56](https://lobste.rs/s/wueivc/map_rust_vector_iteration_assembly) - [Map Rust vector iteration to assembly](https://eventhelix.com/rust/rust-to-assembly-vector-iteration/)
@@ -24,7 +25,6 @@
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
 * [2024-08-19, 19:24:30](https://lobste.rs/s/tg5vwi/sourcegraph_went_dark) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 * [2024-08-19, 17:52:55](https://lobste.rs/s/lsqbbf/effective_changelogs) - [Effective Changelogs](https://xavd.id/blog/post/effective-changelogs/)
-* [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
 
 ## [Archives](archives/index.md)
 

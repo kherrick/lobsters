@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
 * [2024-08-21, 13:14:40](https://lobste.rs/s/whrtsg/arcticdb_why_hedge_fund_built_its_own) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 * [2024-08-21, 13:04:00](https://lobste.rs/s/yitsls/libations_tailscale_on_rocks) - [Libations: Tailscale on the Rocks](https://jnsgr.uk/2024/08/tailscale-on-the-rocks/)
 * [2024-08-21, 13:00:56](https://lobste.rs/s/wueivc/map_rust_vector_iteration_assembly) - [Map Rust vector iteration to assembly](https://eventhelix.com/rust/rust-to-assembly-vector-iteration/)
