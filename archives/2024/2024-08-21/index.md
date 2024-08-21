@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 22:24:17](https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap) - [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 * [2024-08-21, 21:20:08](https://lobste.rs/s/t0rdu3/how_ssh_secures_your_connection) - [How SSH Secures Your Connection](https://noratrieb.dev/blog/posts/ssh-security/)
 * [2024-08-21, 20:01:30](https://lobste.rs/s/tgngag/interfaces_polymorphism_symbols) - [Interfaces, Polymorphism, Symbols and Iterators in JavaScript](https://www.youtube.com/watch?v=eW6nVCb9MQ8)
 * [2024-08-21, 19:54:42](https://lobste.rs/s/fihdhf/end_end_encryption_e2ee_on_liberaforms) - [End to End Encryption (E2EE) on LiberaForms](https://blog.liberaforms.org/2024/08/21/end-to-end-encryption-e2ee-on-liberaforms/)
@@ -16,6 +17,7 @@
 * [2024-08-21, 18:20:50](https://lobste.rs/s/dae2z3/anonymous_webs_trust) - [Anonymous Webs of Trust](https://publications.cispa.saarland/129/1/master_stefan_lorenz.pdf)
 * [2024-08-21, 18:07:36](https://lobste.rs/s/aaxypj/gentoo_profiles_keywords_rather_than) - [Gentoo: profiles and keywords rather than releases](https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/)
 * [2024-08-21, 17:58:17](https://lobste.rs/s/4ni704/calling_all_hackers) - [Calling All Hackers](http://www.phrack.org/issues/71/17.html#article)
+* [2024-08-21, 17:20:29](https://lobste.rs/s/nvbv5t/european_commission_cuts_funding) - [European Commission cuts funding support for Free Software projects](https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/)
 * [2024-08-21, 17:16:52](https://lobste.rs/s/wqwpar/code_review_antipatterns) - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 * [2024-08-21, 16:39:23](https://lobste.rs/s/nhiamh/benefits_conforming) - [The Benefits of Conforming](https://beyondloom.com/blog/conforming.html)
 * [2024-08-21, 16:19:34](https://lobste.rs/s/xujj1a/podman_testing_on_freebsd) - [Podman testing on FreeBSD](https://github.com/oci-playground/freebsd-podman-testing)
