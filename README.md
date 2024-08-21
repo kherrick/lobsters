@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-21, 11:48:19](https://lobste.rs/s/fia8s4/rye_uv_future_python_packaging) - [Rye and uv: The future of Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
-* [2024-08-21, 11:02:31](https://lobste.rs/s/yvxk3j/you_can_be_right_you_can_be_effective) - [You can be right, or you can be effective](https://thedailydeveloper.substack.com/p/you-can-be-right-or-you-can-be-effective)
+* [2024-08-21, 12:04:30](https://lobste.rs/s/nqxjxf/what_is_udp) - [What is UDP?](https://pboyd.io/posts/udp/)
 * [2024-08-21, 07:25:55](https://lobste.rs/s/jhbixt/compiling_tetris_from_1992_on_openvms_x86) - [Compiling TETRIS from 1992 on OpenVMS x86 in 2024](http://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html)
 * [2024-08-21, 06:52:53](https://lobste.rs/s/zv2gvd/introducing_zed_ai) - [Introducing Zed AI](https://zed.dev/blog/zed-ai)
 * [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
@@ -19,6 +18,7 @@
 * [2024-08-20, 10:01:25](https://lobste.rs/s/90sti9/serena_experimental_operating_system) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-20, 03:55:56](https://lobste.rs/s/uthi97/let_s_write_reverb_2021) - [Let's Write A Reverb (2021)](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 * [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
+* [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
 * [2024-08-19, 19:24:30](https://lobste.rs/s/tg5vwi/sourcegraph_went_dark) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)

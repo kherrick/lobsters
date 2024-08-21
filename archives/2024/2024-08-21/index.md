@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 12:04:30](https://lobste.rs/s/nqxjxf/what_is_udp) - [What is UDP?](https://pboyd.io/posts/udp/)
 * [2024-08-21, 11:48:19](https://lobste.rs/s/fia8s4/rye_uv_future_python_packaging) - [Rye and uv: The future of Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 11:02:31](https://lobste.rs/s/yvxk3j/you_can_be_right_you_can_be_effective) - [You can be right, or you can be effective](https://thedailydeveloper.substack.com/p/you-can-be-right-or-you-can-be-effective)
 * [2024-08-21, 07:25:55](https://lobste.rs/s/jhbixt/compiling_tetris_from_1992_on_openvms_x86) - [Compiling TETRIS from 1992 on OpenVMS x86 in 2024](http://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html)
