@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-08-21, 21:20:08",
-      "https://lobste.rs/s/t0rdu3/how_ssh_secures_your_connection"
+      "2024-08-21, 22:24:17",
+      "https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap"
     ],
     [
-      "How SSH Secures Your Connection",
-      "https://noratrieb.dev/blog/posts/ssh-security/"
+      "OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)",
+      "https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt"
     ]
   ],
   [
@@ -17,16 +17,6 @@
     [
       "Interfaces, Polymorphism, Symbols and Iterators in JavaScript",
       "https://www.youtube.com/watch?v=eW6nVCb9MQ8"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 19:54:42",
-      "https://lobste.rs/s/fihdhf/end_end_encryption_e2ee_on_liberaforms"
-    ],
-    [
-      "End to End Encryption (E2EE) on LiberaForms",
-      "https://blog.liberaforms.org/2024/08/21/end-to-end-encryption-e2ee-on-liberaforms/"
     ]
   ],
   [
@@ -67,6 +57,16 @@
     [
       "Gentoo: profiles and keywords rather than releases",
       "https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 17:20:29",
+      "https://lobste.rs/s/nvbv5t/european_commission_cuts_funding"
+    ],
+    [
+      "European Commission cuts funding support for Free Software projects",
+      "https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/"
     ]
   ],
   [
