@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 13:00:56](https://lobste.rs/s/wueivc/map_rust_vector_iteration_assembly) - [Map Rust vector iteration to assembly](https://eventhelix.com/rust/rust-to-assembly-vector-iteration/)
+* [2024-08-21, 12:48:12](https://lobste.rs/s/nrtjit/everything_about_google_translate) - [Everything About Google Translate Crashing React](https://martijnhols.nl/gists/everything-about-google-translate-crashing-react)
 * [2024-08-21, 12:04:30](https://lobste.rs/s/nqxjxf/what_is_udp) - [What is UDP?](https://pboyd.io/posts/udp/)
 * [2024-08-21, 11:48:19](https://lobste.rs/s/fia8s4/rye_uv_future_python_packaging) - [Rye and uv: The future of Python Packaging](https://lucumr.pocoo.org/2024/8/21/harvest-season/)
 * [2024-08-21, 11:02:31](https://lobste.rs/s/yvxk3j/you_can_be_right_you_can_be_effective) - [You can be right, or you can be effective](https://thedailydeveloper.substack.com/p/you-can-be-right-or-you-can-be-effective)

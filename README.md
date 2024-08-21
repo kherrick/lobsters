@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 13:00:56](https://lobste.rs/s/wueivc/map_rust_vector_iteration_assembly) - [Map Rust vector iteration to assembly](https://eventhelix.com/rust/rust-to-assembly-vector-iteration/)
+* [2024-08-21, 12:48:12](https://lobste.rs/s/nrtjit/everything_about_google_translate) - [Everything About Google Translate Crashing React](https://martijnhols.nl/gists/everything-about-google-translate-crashing-react)
 * [2024-08-21, 12:04:30](https://lobste.rs/s/nqxjxf/what_is_udp) - [What is UDP?](https://pboyd.io/posts/udp/)
 * [2024-08-21, 07:25:55](https://lobste.rs/s/jhbixt/compiling_tetris_from_1992_on_openvms_x86) - [Compiling TETRIS from 1992 on OpenVMS x86 in 2024](http://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html)
 * [2024-08-21, 06:52:53](https://lobste.rs/s/zv2gvd/introducing_zed_ai) - [Introducing Zed AI](https://zed.dev/blog/zed-ai)
@@ -18,13 +20,11 @@
 * [2024-08-20, 10:01:25](https://lobste.rs/s/90sti9/serena_experimental_operating_system) - [Serena: An experimental operating system for 32bit Amiga computers](https://github.com/dplanitzer/Serena)
 * [2024-08-20, 03:55:56](https://lobste.rs/s/uthi97/let_s_write_reverb_2021) - [Let's Write A Reverb (2021)](https://signalsmith-audio.co.uk/writing/2021/lets-write-a-reverb/)
 * [2024-08-20, 01:57:52](https://lobste.rs/s/glp5z0/software_possession_for_personal_use) - [Software Possession for Personal Use](https://olano.dev/blog/software-possession-for-personal-use/)
-* [2024-08-19, 23:13:24](https://lobste.rs/s/5u7776/promise_without_remedy_supposed) - [A Promise Without a Remedy: The Supposed Incompatibility of the GPL v2 and Apache v2 Licenses](https://digitalcommons.law.scu.edu/cgi/viewcontent.cgi?article=1701&context=chtlj)
 * [2024-08-19, 21:05:22](https://lobste.rs/s/dk3lxx/foone_finds_nuc) - [Foone finds a NUC](https://digipres.club/@foone/112990331505043510)
 * [2024-08-19, 20:30:55](https://lobste.rs/s/pr4efe/support_put_patch_delete_html_forms) - [Support PUT, PATCH, and DELETE in HTML Forms](https://alexanderpetros.com/triptych/form-http-methods)
 * [2024-08-19, 19:24:30](https://lobste.rs/s/tg5vwi/sourcegraph_went_dark) - [Sourcegraph went dark](https://eric-fritz.com/articles/sourcegraph-went-dark/)
 * [2024-08-19, 17:52:55](https://lobste.rs/s/lsqbbf/effective_changelogs) - [Effective Changelogs](https://xavd.id/blog/post/effective-changelogs/)
 * [2024-08-19, 15:44:55](https://lobste.rs/s/fgmvt0/freebsd_considers_rust_base_system) - [FreeBSD considers Rust in the base system](https://lwn.net/SubscriberLink/985210/f3c3beb9ef9c550e/)
-* [2024-08-19, 13:35:06](https://lobste.rs/s/1cnjuw/quick_bits_go_automatically_downloads) - [Quick bits: Go automatically downloads a newer toolchain if needed](https://kokada.capivaras.dev/blog/quick-bits-go-automatically-downloads-a-newer-toolchain-if-needed/)
 
 ## [Archives](archives/index.md)
 
