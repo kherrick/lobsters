@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-21](index.md)
 
+* [2024-08-21, 20:01:30](https://lobste.rs/s/tgngag/interfaces_polymorphism_symbols) - [Interfaces, Polymorphism, Symbols and Iterators in JavaScript](https://www.youtube.com/watch?v=eW6nVCb9MQ8)
+* [2024-08-21, 19:54:42](https://lobste.rs/s/fihdhf/end_end_encryption_e2ee_on_liberaforms) - [End to End Encryption (E2EE) on LiberaForms](https://blog.liberaforms.org/2024/08/21/end-to-end-encryption-e2ee-on-liberaforms/)
 * [2024-08-21, 19:23:00](https://lobste.rs/s/ds0thh/i_read_entire_neovim_user_manual) - [I Read the Entire Neovim User Manual](https://www.youtube.com/watch?v=rT-fbLFOCy0)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
 * [2024-08-21, 18:35:46](https://lobste.rs/s/hxduqb/eyes_have_it_task_by_data_type_taxonomy_for) - [The Eyes Have It: A Task by Data Type Taxonomy for Information Visualizations (1996)](https://www.cs.umd.edu/~ben/papers/Shneiderman1996eyes.pdf)
