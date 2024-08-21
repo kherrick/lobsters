@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-21, 21:20:08](https://lobste.rs/s/t0rdu3/how_ssh_secures_your_connection) - [How SSH Secures Your Connection](https://noratrieb.dev/blog/posts/ssh-security/)
 * [2024-08-21, 20:01:30](https://lobste.rs/s/tgngag/interfaces_polymorphism_symbols) - [Interfaces, Polymorphism, Symbols and Iterators in JavaScript](https://www.youtube.com/watch?v=eW6nVCb9MQ8)
 * [2024-08-21, 19:54:42](https://lobste.rs/s/fihdhf/end_end_encryption_e2ee_on_liberaforms) - [End to End Encryption (E2EE) on LiberaForms](https://blog.liberaforms.org/2024/08/21/end-to-end-encryption-e2ee-on-liberaforms/)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
@@ -24,7 +25,6 @@
 * [2024-08-20, 19:12:21](https://lobste.rs/s/hwhvh9/uv_unified_python_packaging) - [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
 * [2024-08-20, 13:00:12](https://lobste.rs/s/xoy63p/meilisearch_is_too_slow) - [Meilisearch is too slow](https://blog.kerollmops.com/meilisearch-is-too-slow)
 * [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
-* [2024-08-20, 10:25:50](https://lobste.rs/s/nwg9su/vs_code_obsolescence) - [VS Code Obsolescence](https://cyberb.space/notes/2024/vs-code-obsolescence/)
 
 ## [Archives](archives/index.md)
 
