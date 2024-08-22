@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 01:57:01](https://lobste.rs/s/zponds/save_effort_build_bash_one_liner) - [Save Effort: Build a Bash One-Liner](https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html)
+* [2024-08-22, 01:41:09](https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support) - [Introducing Oblivious HTTP support in Swift](https://swift.org/blog/introducing-swift-nio-oblivious-http/)
+* [2024-08-22, 00:54:52](https://lobste.rs/s/pjspuo/simplify_your_bioinformatics_workflow) - [Simplify Your Bioinformatics Workflow with Pixi: A Fresh Take on Conda](https://edmundmiller.dev/posts/pixi-bioinformatics/)
 * [2024-08-21, 22:24:17](https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap) - [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 * [2024-08-21, 20:01:30](https://lobste.rs/s/tgngag/interfaces_polymorphism_symbols) - [Interfaces, Polymorphism, Symbols and Iterators in JavaScript](https://www.youtube.com/watch?v=eW6nVCb9MQ8)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
@@ -17,14 +20,11 @@
 * [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
 * [2024-08-21, 13:14:40](https://lobste.rs/s/whrtsg/arcticdb_why_hedge_fund_built_its_own) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 * [2024-08-21, 13:04:00](https://lobste.rs/s/yitsls/libations_tailscale_on_rocks) - [Libations: Tailscale on the Rocks](https://jnsgr.uk/2024/08/tailscale-on-the-rocks/)
-* [2024-08-21, 13:00:56](https://lobste.rs/s/wueivc/map_rust_vector_iteration_assembly) - [Map Rust vector iteration to assembly](https://eventhelix.com/rust/rust-to-assembly-vector-iteration/)
 * [2024-08-21, 12:04:30](https://lobste.rs/s/nqxjxf/what_is_udp) - [What is UDP?](https://pboyd.io/posts/udp/)
 * [2024-08-21, 07:25:55](https://lobste.rs/s/jhbixt/compiling_tetris_from_1992_on_openvms_x86) - [Compiling TETRIS from 1992 on OpenVMS x86 in 2024](http://raymii.org/s/blog/Tetris_from_1992_on_OpenVMS_x86_in_2024.html)
 * [2024-08-21, 06:52:53](https://lobste.rs/s/zv2gvd/introducing_zed_ai) - [Introducing Zed AI](https://zed.dev/blog/zed-ai)
 * [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 * [2024-08-20, 19:12:21](https://lobste.rs/s/hwhvh9/uv_unified_python_packaging) - [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
-* [2024-08-20, 13:00:12](https://lobste.rs/s/xoy63p/meilisearch_is_too_slow) - [Meilisearch is too slow](https://blog.kerollmops.com/meilisearch-is-too-slow)
-* [2024-08-20, 10:56:37](https://lobste.rs/s/iahhp0/objective_c_is_just_like_leaky) - [Objective-C is just, like, a leaky abstraction over C](https://blog.metaobject.com/2024/08/objective-c-is-just-like-leaky.html)
 
 ## [Archives](archives/index.md)
 
