@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 17:35:50](https://lobste.rs/s/xjrwd9/data_modeling_entitlements_pricing_for) - [Data Modeling Entitlements and Pricing for SaaS Applications](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
 * [2024-08-22, 16:42:58](https://lobste.rs/s/3ptikq/better_ix_network_quality_monitoring) - [Better IX network quality monitoring](https://blog.benjojo.co.uk/post/ixp-xping-better-ix-monitoring)
 * [2024-08-22, 16:16:44](https://lobste.rs/s/n54xg9/andries_brouwer_on_oom_killer) - [Andries Brouwer on the OOM killer](https://quuxplusone.github.io/blog/2024/08/22/overcommit/)
 * [2024-08-22, 15:02:48](https://lobste.rs/s/jt8klv/flowg_low_code_log_management_software) - [FlowG: A low-code log management software proof of concept](https://github.com/link-society/flowg)
@@ -24,7 +25,6 @@
 * [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
 * [2024-08-21, 12:04:30](https://lobste.rs/s/nqxjxf/what_is_udp) - [What is UDP?](https://pboyd.io/posts/udp/)
 * [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
-* [2024-08-20, 19:12:21](https://lobste.rs/s/hwhvh9/uv_unified_python_packaging) - [uv: Unified Python packaging](https://astral.sh/blog/uv-unified-python-packaging)
 
 ## [Archives](archives/index.md)
 
