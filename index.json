@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-08-22, 01:57:01",
-      "https://lobste.rs/s/zponds/save_effort_build_bash_one_liner"
-    ],
-    [
-      "Save Effort: Build a Bash One-Liner",
-      "https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 01:41:09",
       "https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support"
     ],
@@ -187,6 +177,16 @@
     [
       "The Benefits of Conforming",
       "https://beyondloom.com/blog/conforming.html"
+    ]
+  ],
+  [
+    [
+      "2024-08-21, 16:19:34",
+      "https://lobste.rs/s/xujj1a/podman_testing_on_freebsd"
+    ],
+    [
+      "Podman testing on FreeBSD",
+      "https://github.com/oci-playground/freebsd-podman-testing"
     ]
   ],
   [
