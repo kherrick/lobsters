@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-22, 15:02:48",
+      "https://lobste.rs/s/jt8klv/flowg_low_code_log_management_software"
+    ],
+    [
+      "FlowG: A low-code log management software proof of concept",
+      "https://github.com/link-society/flowg"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 14:16:38",
       "https://lobste.rs/s/mkxuny/why_do_we_have_different_frame_types"
     ],
@@ -107,16 +117,6 @@
     [
       "Introducing Oblivious HTTP support in Swift",
       "https://swift.org/blog/introducing-swift-nio-oblivious-http/"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 00:54:52",
-      "https://lobste.rs/s/pjspuo/simplify_your_bioinformatics_workflow"
-    ],
-    [
-      "Simplify Your Bioinformatics Workflow with Pixi: A Fresh Take on Conda",
-      "https://edmundmiller.dev/posts/pixi-bioinformatics/"
     ]
   ],
   [
