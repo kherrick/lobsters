@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-22, 11:27:29",
+      "https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let"
+    ],
+    [
+      "How Postgres stores oversized values – let's raise a TOAST",
+      "https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 09:36:43",
       "https://lobste.rs/s/btgbmp/intuitive_explanation_arithmetic"
     ],
@@ -67,16 +77,6 @@
     [
       "Save Effort: Build a Bash One-Liner",
       "https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 01:41:09",
-      "https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support"
-    ],
-    [
-      "Introducing Oblivious HTTP support in Swift",
-      "https://swift.org/blog/introducing-swift-nio-oblivious-http/"
     ]
   ],
   [
