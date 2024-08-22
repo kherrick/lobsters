@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 09:36:43](https://lobste.rs/s/btgbmp/intuitive_explanation_arithmetic) - [Intuitive Explanation of Arithmetic, Geometric, & Harmonic Mean](https://ryxcommar.com/2023/01/13/intuitive-explanation-of-arithmetic-geometric-harmonic-mean/)
 * [2024-08-22, 09:15:47](https://lobste.rs/s/42jtr0/albeast_security_advisory_by_miggo) - [ALBeast Security Advisory by Miggo Research](https://www.miggo.io/resources/albeast-security-advisory-alb-vulnerability)
 * [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:25:38](https://lobste.rs/s/euhofh/swiftui_for_mac_2024) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
