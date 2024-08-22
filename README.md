@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 11:27:29](https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let) - [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/)
 * [2024-08-22, 09:36:43](https://lobste.rs/s/btgbmp/intuitive_explanation_arithmetic) - [Intuitive Explanation of Arithmetic, Geometric, & Harmonic Mean](https://ryxcommar.com/2023/01/13/intuitive-explanation-of-arithmetic-geometric-harmonic-mean/)
 * [2024-08-22, 09:15:47](https://lobste.rs/s/42jtr0/albeast_security_advisory_by_miggo) - [ALBeast Security Advisory by Miggo Research](https://www.miggo.io/resources/albeast-security-advisory-alb-vulnerability)
 * [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
@@ -7,7 +8,6 @@
 * [2024-08-22, 05:37:55](https://lobste.rs/s/d5usxm/simd_matters) - [SIMD Matters](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-22, 03:41:15](https://lobste.rs/s/abvtu8/what_is_std_ref) - [What is std::ref?](https://www.sandordargo.com/blog/2024/08/21/std-ref)
 * [2024-08-22, 01:57:01](https://lobste.rs/s/zponds/save_effort_build_bash_one_liner) - [Save Effort: Build a Bash One-Liner](https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html)
-* [2024-08-22, 01:41:09](https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support) - [Introducing Oblivious HTTP support in Swift](https://swift.org/blog/introducing-swift-nio-oblivious-http/)
 * [2024-08-22, 00:54:52](https://lobste.rs/s/pjspuo/simplify_your_bioinformatics_workflow) - [Simplify Your Bioinformatics Workflow with Pixi: A Fresh Take on Conda](https://edmundmiller.dev/posts/pixi-bioinformatics/)
 * [2024-08-21, 22:24:17](https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap) - [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)

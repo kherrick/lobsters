@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 11:27:29](https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let) - [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/)
 * [2024-08-22, 09:36:43](https://lobste.rs/s/btgbmp/intuitive_explanation_arithmetic) - [Intuitive Explanation of Arithmetic, Geometric, & Harmonic Mean](https://ryxcommar.com/2023/01/13/intuitive-explanation-of-arithmetic-geometric-harmonic-mean/)
 * [2024-08-22, 09:15:47](https://lobste.rs/s/42jtr0/albeast_security_advisory_by_miggo) - [ALBeast Security Advisory by Miggo Research](https://www.miggo.io/resources/albeast-security-advisory-alb-vulnerability)
 * [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
