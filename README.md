@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 22:02:27](https://lobste.rs/s/kwj3i7/kindle_python_e_ink_dashboard_part_1) - [Kindle + Python = e-Ink Dashboard (part 1)](https://blog.4dcu.be/diy/2020/09/27/PythonKindleDashboard_1.html)
 * [2024-08-22, 20:40:25](https://lobste.rs/s/evxhyw/announcing_vips_ffm_libvips_bindings) - [Announcing vips-ffm - libvips Bindings Using JDK 22’s FFM API](https://www.lopcode.com/posts/2024/08/announcing-vips-ffm/)
 * [2024-08-22, 20:13:58](https://lobste.rs/s/0ebzxr/embedded_rust_working_group_community) - [Embedded Rust Working Group Community Micro Survey](https://blog.rust-lang.org/inside-rust/2024/08/22/embedded-wg-micro-survey.html)
 * [2024-08-22, 20:02:04](https://lobste.rs/s/vmz0bs/hardware_virtualization_haiku_gsoc_2024) - [Hardware virtualization in Haiku: GSoC 2024 final report](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
@@ -17,7 +18,6 @@
 * [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:25:38](https://lobste.rs/s/euhofh/swiftui_for_mac_2024) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 * [2024-08-22, 05:37:55](https://lobste.rs/s/d5usxm/simd_matters) - [SIMD Matters](https://box2d.org/posts/2024/08/simd-matters/)
-* [2024-08-22, 03:41:15](https://lobste.rs/s/abvtu8/what_is_std_ref) - [What is std::ref?](https://www.sandordargo.com/blog/2024/08/21/std-ref)
 * [2024-08-22, 01:41:09](https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support) - [Introducing Oblivious HTTP support in Swift](https://swift.org/blog/introducing-swift-nio-oblivious-http/)
 * [2024-08-21, 22:24:17](https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap) - [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
