@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2024-08-22, 19:17:49",
-      "https://lobste.rs/s/vvlfs2/what_s_really_going_on_machine_learning"
-    ],
-    [
-      "What’s Really Going On in Machine Learning? Some Minimal Models",
-      "https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 18:03:46",
       "https://lobste.rs/s/frgtzy/hands_on_nixos_servers"
     ],
@@ -167,6 +157,16 @@
     [
       "SIMD Matters",
       "https://box2d.org/posts/2024/08/simd-matters/"
+    ]
+  ],
+  [
+    [
+      "2024-08-22, 03:41:15",
+      "https://lobste.rs/s/abvtu8/what_is_std_ref"
+    ],
+    [
+      "What is std::ref?",
+      "https://www.sandordargo.com/blog/2024/08/21/std-ref"
     ]
   ],
   [
