@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-08-22, 19:55:01",
+      "https://lobste.rs/s/jerbp1/constraining_writers_distributed"
+    ],
+    [
+      "Constraining writers in distributed systems",
+      "https://shachaf.net/w/constraining-writers-in-distributed-systems"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 18:03:46",
       "https://lobste.rs/s/frgtzy/hands_on_nixos_servers"
     ],
@@ -157,16 +167,6 @@
     [
       "SIMD Matters",
       "https://box2d.org/posts/2024/08/simd-matters/"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 03:41:15",
-      "https://lobste.rs/s/abvtu8/what_is_std_ref"
-    ],
-    [
-      "What is std::ref?",
-      "https://www.sandordargo.com/blog/2024/08/21/std-ref"
     ]
   ],
   [
