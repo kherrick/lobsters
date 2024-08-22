@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2024-08-22, 01:41:09",
+      "https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support"
+    ],
+    [
+      "Introducing Oblivious HTTP support in Swift",
+      "https://swift.org/blog/introducing-swift-nio-oblivious-http/"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 00:54:52",
       "https://lobste.rs/s/pjspuo/simplify_your_bioinformatics_workflow"
     ],
@@ -207,16 +217,6 @@
     [
       "Zen Browser - An open-source browser based on Firefox",
       "https://www.zen-browser.app/"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 13:04:00",
-      "https://lobste.rs/s/yitsls/libations_tailscale_on_rocks"
-    ],
-    [
-      "Libations: Tailscale on the Rocks",
-      "https://jnsgr.uk/2024/08/tailscale-on-the-rocks/"
     ]
   ],
   [
