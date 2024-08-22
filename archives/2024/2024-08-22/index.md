@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 16:16:44](https://lobste.rs/s/n54xg9/andries_brouwer_on_oom_killer) - [Andries Brouwer on the OOM killer](https://quuxplusone.github.io/blog/2024/08/22/overcommit/)
 * [2024-08-22, 15:02:48](https://lobste.rs/s/jt8klv/flowg_low_code_log_management_software) - [FlowG: A low-code log management software proof of concept](https://github.com/link-society/flowg)
 * [2024-08-22, 14:16:38](https://lobste.rs/s/mkxuny/why_do_we_have_different_frame_types) - [Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 13:16:59](https://lobste.rs/s/pxpzcs/restricting_execution_scripts_third) - [Restricting execution of scripts — the third approach](https://lwn.net/Articles/982085/)

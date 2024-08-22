@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 16:16:44](https://lobste.rs/s/n54xg9/andries_brouwer_on_oom_killer) - [Andries Brouwer on the OOM killer](https://quuxplusone.github.io/blog/2024/08/22/overcommit/)
 * [2024-08-22, 15:02:48](https://lobste.rs/s/jt8klv/flowg_low_code_log_management_software) - [FlowG: A low-code log management software proof of concept](https://github.com/link-society/flowg)
 * [2024-08-22, 14:16:38](https://lobste.rs/s/mkxuny/why_do_we_have_different_frame_types) - [Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 13:16:59](https://lobste.rs/s/pxpzcs/restricting_execution_scripts_third) - [Restricting execution of scripts — the third approach](https://lwn.net/Articles/982085/)
@@ -18,7 +19,6 @@
 * [2024-08-21, 17:20:29](https://lobste.rs/s/nvbv5t/european_commission_cuts_funding) - [European Commission cuts funding support for Free Software projects](https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/)
 * [2024-08-21, 17:16:52](https://lobste.rs/s/wqwpar/code_review_antipatterns) - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
 * [2024-08-21, 16:39:23](https://lobste.rs/s/nhiamh/benefits_conforming) - [The Benefits of Conforming](https://beyondloom.com/blog/conforming.html)
-* [2024-08-21, 16:19:34](https://lobste.rs/s/xujj1a/podman_testing_on_freebsd) - [Podman testing on FreeBSD](https://github.com/oci-playground/freebsd-podman-testing)
 * [2024-08-21, 15:24:36](https://lobste.rs/s/r1v9tx/10_essential_terminal_commands_every) - [10 Essential Terminal Commands Every Developer Should Know](https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know)
 * [2024-08-21, 14:41:19](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors) - [Favorite Pixel Art Editors?](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors)
 * [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
