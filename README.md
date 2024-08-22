@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 15:02:48](https://lobste.rs/s/jt8klv/flowg_low_code_log_management_software) - [FlowG: A low-code log management software proof of concept](https://github.com/link-society/flowg)
 * [2024-08-22, 14:16:38](https://lobste.rs/s/mkxuny/why_do_we_have_different_frame_types) - [Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 13:16:59](https://lobste.rs/s/pxpzcs/restricting_execution_scripts_third) - [Restricting execution of scripts — the third approach](https://lwn.net/Articles/982085/)
 * [2024-08-22, 12:54:44](https://lobste.rs/s/uhtjdz/rust_vs_zig_reality_somewhat_friendly) - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
@@ -11,7 +12,6 @@
 * [2024-08-22, 03:41:15](https://lobste.rs/s/abvtu8/what_is_std_ref) - [What is std::ref?](https://www.sandordargo.com/blog/2024/08/21/std-ref)
 * [2024-08-22, 01:57:01](https://lobste.rs/s/zponds/save_effort_build_bash_one_liner) - [Save Effort: Build a Bash One-Liner](https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html)
 * [2024-08-22, 01:41:09](https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support) - [Introducing Oblivious HTTP support in Swift](https://swift.org/blog/introducing-swift-nio-oblivious-http/)
-* [2024-08-22, 00:54:52](https://lobste.rs/s/pjspuo/simplify_your_bioinformatics_workflow) - [Simplify Your Bioinformatics Workflow with Pixi: A Fresh Take on Conda](https://edmundmiller.dev/posts/pixi-bioinformatics/)
 * [2024-08-21, 22:24:17](https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap) - [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
 * [2024-08-21, 18:21:35](https://lobste.rs/s/ymmale/unordered_list_hidden_gems_inside_nixos) - [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
