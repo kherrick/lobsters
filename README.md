@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 04:54:55](https://lobste.rs/s/p8upro/towards_vendor_lock_free_conda) - [Towards a Vendor-Lock-In-Free conda Experience](https://prefix.dev/blog/towards_a_vendor_lock_in_free_conda_experience)
 * [2024-08-22, 03:41:15](https://lobste.rs/s/abvtu8/what_is_std_ref) - [What is std::ref?](https://www.sandordargo.com/blog/2024/08/21/std-ref)
 * [2024-08-22, 01:57:01](https://lobste.rs/s/zponds/save_effort_build_bash_one_liner) - [Save Effort: Build a Bash One-Liner](https://exploring-better-ways.bellroy.com/save-effort-build-a-bash-one-liner.html)
 * [2024-08-22, 01:41:09](https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support) - [Introducing Oblivious HTTP support in Swift](https://swift.org/blog/introducing-swift-nio-oblivious-http/)
@@ -17,7 +18,6 @@
 * [2024-08-21, 15:24:36](https://lobste.rs/s/r1v9tx/10_essential_terminal_commands_every) - [10 Essential Terminal Commands Every Developer Should Know](https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know)
 * [2024-08-21, 14:41:19](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors) - [Favorite Pixel Art Editors?](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors)
 * [2024-08-21, 13:49:27](https://lobste.rs/s/nqighg/ps4_emulator_for_windows_linux_macos) - [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
-* [2024-08-21, 13:39:23](https://lobste.rs/s/2ezrtf/some_brief_notes_on_numfmt_from_gnu) - [Some brief notes on 'numfmt' from GNU Coreutils](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/NumfmtBriefNotes)
 * [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
 * [2024-08-21, 13:14:40](https://lobste.rs/s/whrtsg/arcticdb_why_hedge_fund_built_its_own) - [ArcticDB: Why a Hedge Fund Built Its Own Database](https://www.infoq.com/presentations/arcticdb/)
 * [2024-08-21, 13:04:00](https://lobste.rs/s/yitsls/libations_tailscale_on_rocks) - [Libations: Tailscale on the Rocks](https://jnsgr.uk/2024/08/tailscale-on-the-rocks/)
