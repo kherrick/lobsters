@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 13:16:59](https://lobste.rs/s/pxpzcs/restricting_execution_scripts_third) - [Restricting execution of scripts — the third approach](https://lwn.net/Articles/982085/)
 * [2024-08-22, 12:54:44](https://lobste.rs/s/uhtjdz/rust_vs_zig_reality_somewhat_friendly) - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
 * [2024-08-22, 11:27:29](https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let) - [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/)
 * [2024-08-22, 09:36:43](https://lobste.rs/s/btgbmp/intuitive_explanation_arithmetic) - [Intuitive Explanation of Arithmetic, Geometric, & Harmonic Mean](https://ryxcommar.com/2023/01/13/intuitive-explanation-of-arithmetic-geometric-harmonic-mean/)
@@ -20,7 +21,6 @@
 * [2024-08-21, 16:39:23](https://lobste.rs/s/nhiamh/benefits_conforming) - [The Benefits of Conforming](https://beyondloom.com/blog/conforming.html)
 * [2024-08-21, 15:24:36](https://lobste.rs/s/r1v9tx/10_essential_terminal_commands_every) - [10 Essential Terminal Commands Every Developer Should Know](https://www.trevorlasn.com/blog/10-essential-terminal-commands-every-developer-should-know)
 * [2024-08-21, 14:41:19](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors) - [Favorite Pixel Art Editors?](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors)
-* [2024-08-21, 13:49:27](https://lobste.rs/s/nqighg/ps4_emulator_for_windows_linux_macos) - [PS4 Emulator for Windows, Linux, macOS](https://github.com/shadps4-emu/shadPS4)
 * [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
 * [2024-08-21, 12:04:30](https://lobste.rs/s/nqxjxf/what_is_udp) - [What is UDP?](https://pboyd.io/posts/udp/)
 * [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
