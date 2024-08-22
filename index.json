@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-22, 20:13:58",
+      "https://lobste.rs/s/0ebzxr/embedded_rust_working_group_community"
+    ],
+    [
+      "Embedded Rust Working Group Community Micro Survey",
+      "https://blog.rust-lang.org/inside-rust/2024/08/22/embedded-wg-micro-survey.html"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 20:02:04",
       "https://lobste.rs/s/vmz0bs/hardware_virtualization_haiku_gsoc_2024"
     ],
@@ -157,16 +167,6 @@
     [
       "SIMD Matters",
       "https://box2d.org/posts/2024/08/simd-matters/"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 03:41:15",
-      "https://lobste.rs/s/abvtu8/what_is_std_ref"
-    ],
-    [
-      "What is std::ref?",
-      "https://www.sandordargo.com/blog/2024/08/21/std-ref"
     ]
   ],
   [
