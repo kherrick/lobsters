@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-22, 05:37:55",
+      "https://lobste.rs/s/d5usxm/simd_matters"
+    ],
+    [
+      "SIMD Matters",
+      "https://box2d.org/posts/2024/08/simd-matters/"
+    ]
+  ],
+  [
+    [
       "2024-08-22, 04:54:55",
       "https://lobste.rs/s/p8upro/towards_vendor_lock_free_conda"
     ],
@@ -57,16 +67,6 @@
     [
       "OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)",
       "https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt"
-    ]
-  ],
-  [
-    [
-      "2024-08-21, 20:01:30",
-      "https://lobste.rs/s/tgngag/interfaces_polymorphism_symbols"
-    ],
-    [
-      "Interfaces, Polymorphism, Symbols and Iterators in JavaScript",
-      "https://www.youtube.com/watch?v=eW6nVCb9MQ8"
     ]
   ],
   [
