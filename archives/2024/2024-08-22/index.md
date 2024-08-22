@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 19:17:49](https://lobste.rs/s/vvlfs2/what_s_really_going_on_machine_learning) - [What’s Really Going On in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
 * [2024-08-22, 18:03:46](https://lobste.rs/s/frgtzy/hands_on_nixos_servers) - [Hands-on NixOS servers](https://garnix.io/blog/hosting-nixos)
 * [2024-08-22, 17:35:50](https://lobste.rs/s/xjrwd9/data_modeling_entitlements_pricing_for) - [Data Modeling Entitlements and Pricing for SaaS Applications](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
 * [2024-08-22, 16:42:58](https://lobste.rs/s/3ptikq/better_ix_network_quality_monitoring) - [Better IX network quality monitoring](https://blog.benjojo.co.uk/post/ixp-xping-better-ix-monitoring)
