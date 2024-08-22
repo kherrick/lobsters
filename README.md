@@ -17,12 +17,12 @@
 * [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:25:38](https://lobste.rs/s/euhofh/swiftui_for_mac_2024) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 * [2024-08-22, 05:37:55](https://lobste.rs/s/d5usxm/simd_matters) - [SIMD Matters](https://box2d.org/posts/2024/08/simd-matters/)
+* [2024-08-22, 03:41:15](https://lobste.rs/s/abvtu8/what_is_std_ref) - [What is std::ref?](https://www.sandordargo.com/blog/2024/08/21/std-ref)
 * [2024-08-22, 01:41:09](https://lobste.rs/s/dmtzwe/introducing_oblivious_http_support) - [Introducing Oblivious HTTP support in Swift](https://swift.org/blog/introducing-swift-nio-oblivious-http/)
 * [2024-08-21, 22:24:17](https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap) - [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
 * [2024-08-21, 18:21:35](https://lobste.rs/s/ymmale/unordered_list_hidden_gems_inside_nixos) - [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
 * [2024-08-21, 17:16:52](https://lobste.rs/s/wqwpar/code_review_antipatterns) - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
-* [2024-08-21, 14:41:19](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors) - [Favorite Pixel Art Editors?](https://lobste.rs/s/bl9apn/favorite_pixel_art_editors)
 * [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
 * [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 
