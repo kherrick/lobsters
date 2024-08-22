@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 09:15:47](https://lobste.rs/s/42jtr0/albeast_security_advisory_by_miggo) - [ALBeast Security Advisory by Miggo Research](https://www.miggo.io/resources/albeast-security-advisory-alb-vulnerability)
+* [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:25:38](https://lobste.rs/s/euhofh/swiftui_for_mac_2024) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 * [2024-08-22, 05:37:55](https://lobste.rs/s/d5usxm/simd_matters) - [SIMD Matters](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-22, 04:54:55](https://lobste.rs/s/p8upro/towards_vendor_lock_free_conda) - [Towards a Vendor-Lock-In-Free conda Experience](https://prefix.dev/blog/towards_a_vendor_lock_in_free_conda_experience)
