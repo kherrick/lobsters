@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 20:40:25](https://lobste.rs/s/evxhyw/announcing_vips_ffm_libvips_bindings) - [Announcing vips-ffm - libvips Bindings Using JDK 22’s FFM API](https://www.lopcode.com/posts/2024/08/announcing-vips-ffm/)
 * [2024-08-22, 20:13:58](https://lobste.rs/s/0ebzxr/embedded_rust_working_group_community) - [Embedded Rust Working Group Community Micro Survey](https://blog.rust-lang.org/inside-rust/2024/08/22/embedded-wg-micro-survey.html)
 * [2024-08-22, 20:02:04](https://lobste.rs/s/vmz0bs/hardware_virtualization_haiku_gsoc_2024) - [Hardware virtualization in Haiku: GSoC 2024 final report](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
 * [2024-08-22, 19:56:28](https://lobste.rs/s/tduxrp/only_javascript_feature_was_deprecated) - [The Only JavaScript Feature That Was Deprecated](https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated)
