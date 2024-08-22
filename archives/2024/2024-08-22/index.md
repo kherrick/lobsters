@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 14:16:38](https://lobste.rs/s/mkxuny/why_do_we_have_different_frame_types) - [Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 13:16:59](https://lobste.rs/s/pxpzcs/restricting_execution_scripts_third) - [Restricting execution of scripts — the third approach](https://lwn.net/Articles/982085/)
 * [2024-08-22, 12:54:44](https://lobste.rs/s/uhtjdz/rust_vs_zig_reality_somewhat_friendly) - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
 * [2024-08-22, 11:27:29](https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let) - [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/)

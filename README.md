@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-22, 14:16:38](https://lobste.rs/s/mkxuny/why_do_we_have_different_frame_types) - [Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 13:16:59](https://lobste.rs/s/pxpzcs/restricting_execution_scripts_third) - [Restricting execution of scripts — the third approach](https://lwn.net/Articles/982085/)
 * [2024-08-22, 12:54:44](https://lobste.rs/s/uhtjdz/rust_vs_zig_reality_somewhat_friendly) - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
 * [2024-08-22, 11:27:29](https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let) - [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/)
@@ -13,7 +14,6 @@
 * [2024-08-22, 00:54:52](https://lobste.rs/s/pjspuo/simplify_your_bioinformatics_workflow) - [Simplify Your Bioinformatics Workflow with Pixi: A Fresh Take on Conda](https://edmundmiller.dev/posts/pixi-bioinformatics/)
 * [2024-08-21, 22:24:17](https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap) - [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
-* [2024-08-21, 18:27:55](https://lobste.rs/s/8agvtn/systematic_approach_deriving) - [A systematic approach to deriving incremental type checkers (2020)](https://dl.acm.org/doi/10.1145/3428195)
 * [2024-08-21, 18:21:35](https://lobste.rs/s/ymmale/unordered_list_hidden_gems_inside_nixos) - [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
 * [2024-08-21, 18:07:36](https://lobste.rs/s/aaxypj/gentoo_profiles_keywords_rather_than) - [Gentoo: profiles and keywords rather than releases](https://blogs.gentoo.org/mgorny/2024/08/20/gentoo-profiles-and-keywords-rather-than-releases/)
 * [2024-08-21, 17:20:29](https://lobste.rs/s/nvbv5t/european_commission_cuts_funding) - [European Commission cuts funding support for Free Software projects](https://edri.org/our-work/european-commission-cuts-funding-support-for-free-software-projects/)
