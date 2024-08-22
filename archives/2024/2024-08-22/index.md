@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-22](index.md)
 
+* [2024-08-22, 20:02:04](https://lobste.rs/s/vmz0bs/hardware_virtualization_haiku_gsoc_2024) - [Hardware virtualization in Haiku: GSoC 2024 final report](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
+* [2024-08-22, 19:56:28](https://lobste.rs/s/tduxrp/only_javascript_feature_was_deprecated) - [The Only JavaScript Feature That Was Deprecated](https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated)
+* [2024-08-22, 19:55:01](https://lobste.rs/s/jerbp1/constraining_writers_distributed) - [Constraining writers in distributed systems](https://shachaf.net/w/constraining-writers-in-distributed-systems)
 * [2024-08-22, 19:17:49](https://lobste.rs/s/vvlfs2/what_s_really_going_on_machine_learning) - [What’s Really Going On in Machine Learning? Some Minimal Models](https://writings.stephenwolfram.com/2024/08/whats-really-going-on-in-machine-learning-some-minimal-models/)
 * [2024-08-22, 18:03:46](https://lobste.rs/s/frgtzy/hands_on_nixos_servers) - [Hands-on NixOS servers](https://garnix.io/blog/hosting-nixos)
 * [2024-08-22, 17:35:50](https://lobste.rs/s/xjrwd9/data_modeling_entitlements_pricing_for) - [Data Modeling Entitlements and Pricing for SaaS Applications](https://garrettdimon.com/journal/posts/data-modeling-saas-entitlements-and-pricing)
