@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 10:53:40](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend)
 * [2024-08-23, 09:23:48](https://lobste.rs/s/4aiq8m/breaking_changes_tooling_problem) - [Breaking changes: a tooling problem](https://twitchard.github.io/posts/2024-08-23-breaking-changes.html)
 * [2024-08-23, 09:14:46](https://lobste.rs/s/4kjtuf/aerc_well_crafted_tui_for_email) - [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [2024-08-23, 09:13:36](https://lobste.rs/s/2jc66h/i_sped_up_serde_json_strings_by_20) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
