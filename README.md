@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-23, 07:22:12](https://lobste.rs/s/ldc0bw/vpsadminos) - [vpsAdminOS](https://vpsadminos.org/)
 * [2024-08-23, 04:49:16](https://lobste.rs/s/pje6jv/thoughts_on_advent_code_rust) - [Thoughts on Advent of Code + Rust](https://www.earth.li/~noodles/blog/2024/08/aoc-thoughts.html)
 * [2024-08-23, 04:47:59](https://lobste.rs/s/clnwcx/why_i_avoid_using_default_inline) - [Why I avoid using `default` and inline functions in my class declarations](https://twdev.blog/2024/08/shared_libs_odr/)
 * [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
@@ -14,7 +15,6 @@
 * [2024-08-22, 16:42:58](https://lobste.rs/s/3ptikq/better_ix_network_quality_monitoring) - [Better IX network quality monitoring](https://blog.benjojo.co.uk/post/ixp-xping-better-ix-monitoring)
 * [2024-08-22, 16:16:44](https://lobste.rs/s/n54xg9/andries_brouwer_on_oom_killer) - [Andries Brouwer on the OOM killer](https://quuxplusone.github.io/blog/2024/08/22/overcommit/)
 * [2024-08-22, 15:02:48](https://lobste.rs/s/jt8klv/flowg_low_code_log_management_software) - [FlowG: A low-code log management software proof of concept](https://github.com/link-society/flowg)
-* [2024-08-22, 14:16:38](https://lobste.rs/s/mkxuny/why_do_we_have_different_frame_types) - [Why Do We Have Different Frame Types?](https://lostintransit.se/2024/08/21/ethernet-history-deepdive-why-do-we-have-different-frame-types/)
 * [2024-08-22, 13:16:59](https://lobste.rs/s/pxpzcs/restricting_execution_scripts_third) - [Restricting execution of scripts — the third approach](https://lwn.net/Articles/982085/)
 * [2024-08-22, 12:54:44](https://lobste.rs/s/uhtjdz/rust_vs_zig_reality_somewhat_friendly) - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
 * [2024-08-22, 11:27:29](https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let) - [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/)
