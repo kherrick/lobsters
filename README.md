@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/we_re_being_erased_from_history) - [We're Being Erased From History](https://justine.lol/history/)
 * [2024-08-23, 13:15:55](https://lobste.rs/s/hlpbkk/miragevpn_discovery_two_openvpn_cves) - [MirageVPN and the discovery of two OpenVPN CVEs](https://blog.robur.coop/articles/2024-08-21-OpenVPN-and-MirageVPN.html)
 * [2024-08-23, 12:57:20](https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only) - [Poor man's Package Manager (only Statically Linked Binaries)](https://github.com/xplshn/dbin)
 * [2024-08-23, 11:41:42](https://lobste.rs/s/qwaxm6/python_s_preprocessor) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
@@ -23,7 +24,6 @@
 * [2024-08-22, 12:54:44](https://lobste.rs/s/uhtjdz/rust_vs_zig_reality_somewhat_friendly) - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
 * [2024-08-22, 11:27:29](https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let) - [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/)
 * [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
-* [2024-08-22, 05:37:55](https://lobste.rs/s/d5usxm/simd_matters) - [SIMD Matters](https://box2d.org/posts/2024/08/simd-matters/)
 * [2024-08-21, 18:21:35](https://lobste.rs/s/ymmale/unordered_list_hidden_gems_inside_nixos) - [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
 
 ## [Archives](archives/index.md)

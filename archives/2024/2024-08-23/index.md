@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/we_re_being_erased_from_history) - [We're Being Erased From History](https://justine.lol/history/)
 * [2024-08-23, 13:15:55](https://lobste.rs/s/hlpbkk/miragevpn_discovery_two_openvpn_cves) - [MirageVPN and the discovery of two OpenVPN CVEs](https://blog.robur.coop/articles/2024-08-21-OpenVPN-and-MirageVPN.html)
 * [2024-08-23, 12:57:20](https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only) - [Poor man's Package Manager (only Statically Linked Binaries)](https://github.com/xplshn/dbin)
 * [2024-08-23, 11:41:42](https://lobste.rs/s/qwaxm6/python_s_preprocessor) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
