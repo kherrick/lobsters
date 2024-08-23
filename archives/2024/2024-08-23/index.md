@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:40:02](https://lobste.rs/s/hhqhgg/generating_structured_data_with_llms) - [Generating structured data with LLMs - Beyond Basics](https://rwilinski.ai/posts/generating-jsons-with-llm-beyond-basics/)
 * [2024-08-23, 14:32:51](https://lobste.rs/s/bcqvvl/continuous_reinvention_brief_history) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
 * [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/we_re_being_erased_from_history) - [We're Being Erased From History](https://justine.lol/history/)
