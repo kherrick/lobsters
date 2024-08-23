@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 17:17:13](https://lobste.rs/s/h9d3gt/anatomy_explanation) - [the anatomy of an explanation](https://explaining.software/archive/the-anatomy-of-an-explanation/)
 * [2024-08-23, 16:11:53](https://lobste.rs/s/gmperd/adventures_building_spreadsheet_engine) - [Adventures building a spreadsheet engine in Python](https://jamesg.blog/2024/08/21/spreadsheet-engine/)
 * [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:40:02](https://lobste.rs/s/hhqhgg/generating_structured_data_with_llms) - [Generating structured data with LLMs - Beyond Basics](https://rwilinski.ai/posts/generating-jsons-with-llm-beyond-basics/)
