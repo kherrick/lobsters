@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-23, 11:41:42",
+      "https://lobste.rs/s/qwaxm6/python_s_preprocessor"
+    ],
+    [
+      "Python’s Preprocessor",
+      "https://pydong.org/posts/PythonsPreprocessor/"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 10:53:40",
       "https://lobste.rs/s/evebod/what_are_you_doing_this_weekend"
     ],
@@ -127,16 +137,6 @@
     [
       "Embedded Rust Working Group Community Micro Survey",
       "https://blog.rust-lang.org/inside-rust/2024/08/22/embedded-wg-micro-survey.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 20:02:04",
-      "https://lobste.rs/s/vmz0bs/hardware_virtualization_haiku_gsoc_2024"
-    ],
-    [
-      "Hardware virtualization in Haiku: GSoC 2024 final report",
-      "https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/"
     ]
   ],
   [
