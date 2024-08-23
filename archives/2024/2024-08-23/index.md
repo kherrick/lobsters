@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 18:54:37](https://lobste.rs/s/qar0gh/openssh_backdoors) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
+* [2024-08-23, 18:52:02](https://lobste.rs/s/7mu0hi/adding_16_kb_page_size_android) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 18:30:28](https://lobste.rs/s/uczm43/you_re_probably_using_wrong_dictionary) - [You’re probably using the wrong dictionary](https://jsomers.net/blog/dictionary)
 * [2024-08-23, 18:24:58](https://lobste.rs/s/vypmkr/myths_mythconceptions_what_does_it_mean) - [Myths and Mythconceptions: What does it mean to be a programming language?  (2021, HOPL)](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-23, 17:17:13](https://lobste.rs/s/h9d3gt/anatomy_explanation) - [the anatomy of an explanation](https://explaining.software/archive/the-anatomy-of-an-explanation/)

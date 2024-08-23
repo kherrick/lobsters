@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-23, 18:54:37](https://lobste.rs/s/qar0gh/openssh_backdoors) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
+* [2024-08-23, 18:52:02](https://lobste.rs/s/7mu0hi/adding_16_kb_page_size_android) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 18:30:28](https://lobste.rs/s/uczm43/you_re_probably_using_wrong_dictionary) - [You’re probably using the wrong dictionary](https://jsomers.net/blog/dictionary)
 * [2024-08-23, 18:24:58](https://lobste.rs/s/vypmkr/myths_mythconceptions_what_does_it_mean) - [Myths and Mythconceptions: What does it mean to be a programming language?  (2021, HOPL)](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-23, 17:17:13](https://lobste.rs/s/h9d3gt/anatomy_explanation) - [the anatomy of an explanation](https://explaining.software/archive/the-anatomy-of-an-explanation/)
@@ -18,12 +20,10 @@
 * [2024-08-23, 04:47:59](https://lobste.rs/s/clnwcx/why_i_avoid_using_default_inline) - [Why I avoid using `default` and inline functions in my class declarations](https://twdev.blog/2024/08/shared_libs_odr/)
 * [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
 * [2024-08-23, 03:09:15](https://lobste.rs/s/adm80u/flux_refinement_types_for_rust) - [Flux: Refinement types for Rust](https://youtu.be/NIJtZ0yUDX0)
-* [2024-08-22, 22:02:27](https://lobste.rs/s/kwj3i7/kindle_python_e_ink_dashboard_part_1) - [Kindle + Python = e-Ink Dashboard (part 1)](https://blog.4dcu.be/diy/2020/09/27/PythonKindleDashboard_1.html)
 * [2024-08-22, 19:56:28](https://lobste.rs/s/tduxrp/only_javascript_feature_was_deprecated) - [The Only JavaScript Feature That Was Deprecated](https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated)
 * [2024-08-22, 18:03:46](https://lobste.rs/s/frgtzy/hands_on_nixos_servers) - [Hands-on NixOS servers](https://garnix.io/blog/hosting-nixos)
 * [2024-08-22, 16:16:44](https://lobste.rs/s/n54xg9/andries_brouwer_on_oom_killer) - [Andries Brouwer on the OOM killer](https://quuxplusone.github.io/blog/2024/08/22/overcommit/)
 * [2024-08-22, 12:54:44](https://lobste.rs/s/uhtjdz/rust_vs_zig_reality_somewhat_friendly) - [Rust vs. Zig in Reality: A (Somewhat) Friendly Debate](https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/)
-* [2024-08-22, 11:27:29](https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let) - [How Postgres stores oversized values – let's raise a TOAST](https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/)
 * [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 
 ## [Archives](archives/index.md)
