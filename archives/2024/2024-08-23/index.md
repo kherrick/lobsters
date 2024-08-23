@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-23](index.md)
 
+* [2024-08-23, 11:41:42](https://lobste.rs/s/qwaxm6/python_s_preprocessor) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-23, 10:53:40](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend)
 * [2024-08-23, 09:23:48](https://lobste.rs/s/4aiq8m/breaking_changes_tooling_problem) - [Breaking changes: a tooling problem](https://twitchard.github.io/posts/2024-08-23-breaking-changes.html)
 * [2024-08-23, 09:14:46](https://lobste.rs/s/4kjtuf/aerc_well_crafted_tui_for_email) - [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)

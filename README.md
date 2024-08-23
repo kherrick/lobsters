@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-23, 11:41:42](https://lobste.rs/s/qwaxm6/python_s_preprocessor) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-23, 10:53:40](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend)
 * [2024-08-23, 09:23:48](https://lobste.rs/s/4aiq8m/breaking_changes_tooling_problem) - [Breaking changes: a tooling problem](https://twitchard.github.io/posts/2024-08-23-breaking-changes.html)
 * [2024-08-23, 09:14:46](https://lobste.rs/s/4kjtuf/aerc_well_crafted_tui_for_email) - [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
@@ -13,7 +14,6 @@
 * [2024-08-22, 22:02:27](https://lobste.rs/s/kwj3i7/kindle_python_e_ink_dashboard_part_1) - [Kindle + Python = e-Ink Dashboard (part 1)](https://blog.4dcu.be/diy/2020/09/27/PythonKindleDashboard_1.html)
 * [2024-08-22, 20:40:25](https://lobste.rs/s/evxhyw/announcing_vips_ffm_libvips_bindings) - [Announcing vips-ffm - libvips Bindings Using JDK 22’s FFM API](https://www.lopcode.com/posts/2024/08/announcing-vips-ffm/)
 * [2024-08-22, 20:13:58](https://lobste.rs/s/0ebzxr/embedded_rust_working_group_community) - [Embedded Rust Working Group Community Micro Survey](https://blog.rust-lang.org/inside-rust/2024/08/22/embedded-wg-micro-survey.html)
-* [2024-08-22, 20:02:04](https://lobste.rs/s/vmz0bs/hardware_virtualization_haiku_gsoc_2024) - [Hardware virtualization in Haiku: GSoC 2024 final report](https://www.haiku-os.org/blog/dalme/2024-08-19_gsoc_2024_hardware_virtualization_final_report/)
 * [2024-08-22, 19:56:28](https://lobste.rs/s/tduxrp/only_javascript_feature_was_deprecated) - [The Only JavaScript Feature That Was Deprecated](https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated)
 * [2024-08-22, 18:03:46](https://lobste.rs/s/frgtzy/hands_on_nixos_servers) - [Hands-on NixOS servers](https://garnix.io/blog/hosting-nixos)
 * [2024-08-22, 16:42:58](https://lobste.rs/s/3ptikq/better_ix_network_quality_monitoring) - [Better IX network quality monitoring](https://blog.benjojo.co.uk/post/ixp-xping-better-ix-monitoring)
