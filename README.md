@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-23, 16:11:53](https://lobste.rs/s/gmperd/adventures_building_spreadsheet_engine) - [Adventures building a spreadsheet engine in Python](https://jamesg.blog/2024/08/21/spreadsheet-engine/)
 * [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:40:02](https://lobste.rs/s/hhqhgg/generating_structured_data_with_llms) - [Generating structured data with LLMs - Beyond Basics](https://rwilinski.ai/posts/generating-jsons-with-llm-beyond-basics/)
 * [2024-08-23, 14:32:51](https://lobste.rs/s/bcqvvl/continuous_reinvention_brief_history) - [Continuous reinvention: A brief history of block storage at AWS](https://www.allthingsdistributed.com/2024/08/continuous-reinvention-a-brief-history-of-block-storage-at-aws.html)
@@ -8,7 +9,6 @@
 * [2024-08-23, 12:57:20](https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only) - [Poor man's Package Manager (only Statically Linked Binaries)](https://github.com/xplshn/dbin)
 * [2024-08-23, 11:41:42](https://lobste.rs/s/qwaxm6/python_s_preprocessor) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-23, 10:53:40](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend)
-* [2024-08-23, 09:23:48](https://lobste.rs/s/4aiq8m/breaking_changes_tooling_problem) - [Breaking changes: a tooling problem](https://twitchard.github.io/posts/2024-08-23-breaking-changes.html)
 * [2024-08-23, 09:14:46](https://lobste.rs/s/4kjtuf/aerc_well_crafted_tui_for_email) - [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [2024-08-23, 09:13:36](https://lobste.rs/s/2jc66h/i_sped_up_serde_json_strings_by_20) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 * [2024-08-23, 07:22:12](https://lobste.rs/s/ldc0bw/vpsadminos) - [vpsAdminOS](https://vpsadminos.org/)
