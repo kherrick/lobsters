@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-23, 13:15:55",
+      "https://lobste.rs/s/hlpbkk/miragevpn_discovery_two_openvpn_cves"
+    ],
+    [
+      "MirageVPN and the discovery of two OpenVPN CVEs",
+      "https://blog.robur.coop/articles/2024-08-21-OpenVPN-and-MirageVPN.html"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 12:57:20",
       "https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only"
     ],
@@ -217,16 +227,6 @@
     [
       "What is an SBAT and why does everyone suddenly care",
       "https://mjg59.dreamwidth.org/70348.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 08:25:38",
-      "https://lobste.rs/s/euhofh/swiftui_for_mac_2024"
-    ],
-    [
-      "SwiftUI for Mac 2024",
-      "https://troz.net/post/2024/swiftui-mac-2024/"
     ]
   ],
   [
