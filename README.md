@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
 * [2024-08-23, 03:09:15](https://lobste.rs/s/adm80u/flux_refinement_types_for_rust) - [Flux: Refinement types for Rust](https://youtu.be/NIJtZ0yUDX0)
 * [2024-08-22, 22:02:27](https://lobste.rs/s/kwj3i7/kindle_python_e_ink_dashboard_part_1) - [Kindle + Python = e-Ink Dashboard (part 1)](https://blog.4dcu.be/diy/2020/09/27/PythonKindleDashboard_1.html)
 * [2024-08-22, 20:40:25](https://lobste.rs/s/evxhyw/announcing_vips_ffm_libvips_bindings) - [Announcing vips-ffm - libvips Bindings Using JDK 22’s FFM API](https://www.lopcode.com/posts/2024/08/announcing-vips-ffm/)
@@ -19,7 +20,6 @@
 * [2024-08-22, 09:08:56](https://lobste.rs/s/xfpv5h/what_is_sbat_why_does_everyone_suddenly) - [What is an SBAT and why does everyone suddenly care](https://mjg59.dreamwidth.org/70348.html)
 * [2024-08-22, 08:25:38](https://lobste.rs/s/euhofh/swiftui_for_mac_2024) - [SwiftUI for Mac 2024](https://troz.net/post/2024/swiftui-mac-2024/)
 * [2024-08-22, 05:37:55](https://lobste.rs/s/d5usxm/simd_matters) - [SIMD Matters](https://box2d.org/posts/2024/08/simd-matters/)
-* [2024-08-21, 22:24:17](https://lobste.rs/s/4savlk/openbsd_crond_crontab_set_range_heap) - [OpenBSD crond / crontab set_range() heap underflow (CVE-2024-43688)](https://www.supernetworks.org/CVE-2024-43688/openbsd-cron-heap-underflow.txt)
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
 * [2024-08-21, 18:21:35](https://lobste.rs/s/ymmale/unordered_list_hidden_gems_inside_nixos) - [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
 * [2024-08-21, 17:16:52](https://lobste.rs/s/wqwpar/code_review_antipatterns) - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
