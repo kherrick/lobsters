@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-23, 04:49:16](https://lobste.rs/s/pje6jv/thoughts_on_advent_code_rust) - [Thoughts on Advent of Code + Rust](https://www.earth.li/~noodles/blog/2024/08/aoc-thoughts.html)
+* [2024-08-23, 04:47:59](https://lobste.rs/s/clnwcx/why_i_avoid_using_default_inline) - [Why I avoid using `default` and inline functions in my class declarations](https://twdev.blog/2024/08/shared_libs_odr/)
 * [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
 * [2024-08-23, 03:09:15](https://lobste.rs/s/adm80u/flux_refinement_types_for_rust) - [Flux: Refinement types for Rust](https://youtu.be/NIJtZ0yUDX0)
 * [2024-08-22, 22:02:27](https://lobste.rs/s/kwj3i7/kindle_python_e_ink_dashboard_part_1) - [Kindle + Python = e-Ink Dashboard (part 1)](https://blog.4dcu.be/diy/2020/09/27/PythonKindleDashboard_1.html)
@@ -23,8 +25,6 @@
 * [2024-08-21, 18:36:23](https://lobste.rs/s/6xd2aa/make_firefox_private_again) - [Make Firefox Private Again](https://make-firefox-private-again.com/)
 * [2024-08-21, 18:21:35](https://lobste.rs/s/ymmale/unordered_list_hidden_gems_inside_nixos) - [An unordered list of hidden gems inside NixOS](https://kokada.capivaras.dev/blog/an-unordered-list-of-hidden-gems-inside-nixos/)
 * [2024-08-21, 17:16:52](https://lobste.rs/s/wqwpar/code_review_antipatterns) - [Code review antipatterns](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/code-review-antipatterns/)
-* [2024-08-21, 13:29:30](https://lobste.rs/s/jhdd1r/zen_browser_open_source_browser_based_on) - [Zen Browser - An open-source browser based on Firefox](https://www.zen-browser.app/)
-* [2024-08-21, 05:20:31](https://lobste.rs/s/atf1ub/being_on_semantic_web_is_easy_frankly_well) - [Being on The Semantic Web is easy, and, frankly, well worth the bother](https://csvbase.com/blog/13)
 
 ## [Archives](archives/index.md)
 
