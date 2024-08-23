@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-23, 18:54:37",
+      "https://lobste.rs/s/qar0gh/openssh_backdoors"
+    ],
+    [
+      "OpenSSH Backdoors",
+      "https://blog.isosceles.com/openssh-backdoors/"
+    ]
+  ],
+  [
+    [
+      "2024-08-23, 18:52:02",
+      "https://lobste.rs/s/7mu0hi/adding_16_kb_page_size_android"
+    ],
+    [
+      "Adding 16 KB Page Size to Android",
+      "https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html"
+    ]
+  ],
+  [
+    [
       "2024-08-23, 18:30:28",
       "https://lobste.rs/s/uczm43/you_re_probably_using_wrong_dictionary"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-08-22, 22:02:27",
-      "https://lobste.rs/s/kwj3i7/kindle_python_e_ink_dashboard_part_1"
-    ],
-    [
-      "Kindle + Python = e-Ink Dashboard (part 1)",
-      "https://blog.4dcu.be/diy/2020/09/27/PythonKindleDashboard_1.html"
-    ]
-  ],
-  [
-    [
       "2024-08-22, 19:56:28",
       "https://lobste.rs/s/tduxrp/only_javascript_feature_was_deprecated"
     ],
@@ -227,16 +237,6 @@
     [
       "Rust vs. Zig in Reality: A (Somewhat) Friendly Debate",
       "https://thenewstack.io/rust-vs-zig-in-reality-a-somewhat-friendly-debate/"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 11:27:29",
-      "https://lobste.rs/s/3hrvyp/how_postgres_stores_oversized_values_let"
-    ],
-    [
-      "How Postgres stores oversized values – let's raise a TOAST",
-      "https://drew.silcock.dev/blog/how-postgres-stores-oversized-values/"
     ]
   ],
   [
