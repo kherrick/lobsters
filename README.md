@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-24, 11:12:24](https://lobste.rs/s/kr6sv3/max_mojo_licensing) - [MAX & Mojo Licensing](https://www.youtube.com/watch?v=tYujSI_aoqk)
 * [2024-08-24, 10:19:21](https://lobste.rs/s/hrp89y/local_networks_go_global_when_domain) - [Local Networks Go Global When Domain Names Collide](https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/)
 * [2024-08-24, 10:15:57](https://lobste.rs/s/38dyqx/my_irc_client_runs_on_kubernetes) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-24, 09:28:28](https://lobste.rs/s/dtthzf/consistently_making_wrong_decisions) - [Consistently making wrong decisions whilst writing recreational C](https://amodernist.com/texts/fun-c.html)
@@ -11,7 +12,6 @@
 * [2024-08-23, 21:33:00](https://lobste.rs/s/qiudbn/openbsd_has_reached_openbsd_theseus) - [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:27:08](https://lobste.rs/s/0wkik4/ircpipe_netcat_for_irc) - [ircpipe - netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-23, 18:54:37](https://lobste.rs/s/qar0gh/openssh_backdoors) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
-* [2024-08-23, 18:52:02](https://lobste.rs/s/7mu0hi/adding_16_kb_page_size_android) - [Adding 16 KB Page Size to Android](https://android-developers.googleblog.com/2024/08/adding-16-kb-page-size-to-android.html)
 * [2024-08-23, 18:30:28](https://lobste.rs/s/uczm43/you_re_probably_using_wrong_dictionary) - [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2024-08-23, 18:24:58](https://lobste.rs/s/vypmkr/myths_mythconceptions_what_does_it_mean) - [Myths and Mythconceptions: What does it mean to be a programming language?  (2021, HOPL)](https://dl.acm.org/doi/pdf/10.1145/3480947)
 * [2024-08-23, 17:17:13](https://lobste.rs/s/h9d3gt/anatomy_explanation) - [the anatomy of an explanation](https://explaining.software/archive/the-anatomy-of-an-explanation/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 11:12:24](https://lobste.rs/s/kr6sv3/max_mojo_licensing) - [MAX & Mojo Licensing](https://www.youtube.com/watch?v=tYujSI_aoqk)
 * [2024-08-24, 10:19:21](https://lobste.rs/s/hrp89y/local_networks_go_global_when_domain) - [Local Networks Go Global When Domain Names Collide](https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/)
 * [2024-08-24, 10:15:57](https://lobste.rs/s/38dyqx/my_irc_client_runs_on_kubernetes) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-24, 09:28:28](https://lobste.rs/s/dtthzf/consistently_making_wrong_decisions) - [Consistently making wrong decisions whilst writing recreational C](https://amodernist.com/texts/fun-c.html)
