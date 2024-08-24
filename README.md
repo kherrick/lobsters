@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-24, 01:06:42](https://lobste.rs/s/3r2qlw/common_lisp_cookbook) - [Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [2024-08-23, 21:47:03](https://lobste.rs/s/z18qgz/symbol_for_fediverse) - [A symbol for the fediverse ⁂](https://symbol.fediverse.info/)
 * [2024-08-23, 21:33:00](https://lobste.rs/s/qiudbn/openbsd_has_reached_openbsd_theseus) - [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:27:08](https://lobste.rs/s/0wkik4/ircpipe_netcat_for_irc) - [ircpipe - netcat for IRC](https://gir.st/ircpipe.html)
@@ -11,7 +12,6 @@
 * [2024-08-23, 16:11:53](https://lobste.rs/s/gmperd/adventures_building_spreadsheet_engine) - [Adventures building a spreadsheet engine in Python](https://jamesg.blog/2024/08/21/spreadsheet-engine/)
 * [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/ai_training_shouldn_t_erase_authorship) - [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
-* [2024-08-23, 13:15:55](https://lobste.rs/s/hlpbkk/miragevpn_discovery_two_openvpn_cves) - [MirageVPN and the discovery of two OpenVPN CVEs](https://blog.robur.coop/articles/2024-08-21-OpenVPN-and-MirageVPN.html)
 * [2024-08-23, 12:57:20](https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only) - [Poor man's Package Manager (only Statically Linked Binaries)](https://github.com/xplshn/dbin)
 * [2024-08-23, 11:41:42](https://lobste.rs/s/qwaxm6/python_s_preprocessor) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
 * [2024-08-23, 10:53:40](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/evebod/what_are_you_doing_this_weekend)
