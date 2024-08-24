@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-24, 05:29:30](https://lobste.rs/s/ebtyrp/google_s_s2_geometry_on_sphere_cells) - [Google’s S2, geometry on the sphere, cells and Hilbert curve (2015)](https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/)
 * [2024-08-24, 01:06:42](https://lobste.rs/s/3r2qlw/common_lisp_cookbook) - [Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [2024-08-23, 21:47:03](https://lobste.rs/s/z18qgz/symbol_for_fediverse) - [A symbol for the fediverse ⁂](https://symbol.fediverse.info/)
 * [2024-08-23, 21:33:00](https://lobste.rs/s/qiudbn/openbsd_has_reached_openbsd_theseus) - [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
@@ -23,7 +24,6 @@
 * [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
 * [2024-08-23, 03:09:15](https://lobste.rs/s/adm80u/flux_refinement_types_for_rust) - [Flux: Refinement types for Rust](https://youtu.be/NIJtZ0yUDX0)
 * [2024-08-22, 19:56:28](https://lobste.rs/s/tduxrp/only_javascript_feature_was_deprecated) - [The Only JavaScript Feature That Was Deprecated](https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated)
-* [2024-08-22, 18:03:46](https://lobste.rs/s/frgtzy/hands_on_nixos_servers) - [Hands-on NixOS servers](https://garnix.io/blog/hosting-nixos)
 * [2024-08-22, 16:16:44](https://lobste.rs/s/n54xg9/andries_brouwer_on_oom_killer) - [Andries Brouwer on the OOM killer](https://quuxplusone.github.io/blog/2024/08/22/overcommit/)
 
 ## [Archives](archives/index.md)
