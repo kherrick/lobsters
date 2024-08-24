@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-24, 23:29:18](https://lobste.rs/s/blu9sp/cardstock_run_quickly_easily_build_apps) - [CardStock.run - Quickly and easily build apps on the web](https://cardstock.run)
 * [2024-08-24, 20:45:29](https://lobste.rs/s/gd1pre/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf)
 * [2024-08-24, 17:15:20](https://lobste.rs/s/rmba3f/zig_emulators) - [Zig and Emulators](https://floooh.github.io/2024/08/24/zig-and-emulators.html)
 * [2024-08-24, 17:07:26](https://lobste.rs/s/qminbs/coupling_as_co_explanation) - [coupling as co-explanation](https://explaining.software/archive/coupling-as-co-explanation/)
@@ -8,7 +9,6 @@
 * [2024-08-24, 15:08:16](https://lobste.rs/s/jikb0q/build_your_own_sqlite_part_2_scanning) - [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
 * [2024-08-24, 12:51:00](https://lobste.rs/s/cclkyh/con_2024_livestream_aug_24_10_00am_pt) - [!!Con 2024 Livestream - Aug 24 @ 10:00am PT](https://bangbangcon.com/livestream)
 * [2024-08-24, 12:08:27](https://lobste.rs/s/v5ipti/javascript_interpreter_for_eyg_language) - [JavaScript interpreter, for EYG language, available on npm](https://eyg.run/news/editions/1/)
-* [2024-08-24, 11:12:24](https://lobste.rs/s/kr6sv3/max_mojo_licensing) - [MAX & Mojo Licensing](https://www.youtube.com/watch?v=tYujSI_aoqk)
 * [2024-08-24, 10:19:21](https://lobste.rs/s/hrp89y/local_networks_go_global_when_domain) - [Local Networks Go Global When Domain Names Collide](https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/)
 * [2024-08-24, 10:15:57](https://lobste.rs/s/38dyqx/my_irc_client_runs_on_kubernetes) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-24, 09:28:28](https://lobste.rs/s/dtthzf/consistently_making_wrong_decisions) - [Consistently making wrong decisions whilst writing recreational C](https://amodernist.com/texts/fun-c.html)
