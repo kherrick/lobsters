@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-24, 20:45:29",
+      "https://lobste.rs/s/gd1pre/sql_has_problems_we_can_fix_them_pipe"
+    ],
+    [
+      "SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL",
+      "https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 17:15:20",
       "https://lobste.rs/s/rmba3f/zig_emulators"
     ],
@@ -217,16 +227,6 @@
     [
       "AI Training Shouldn't Erase Authorship",
       "https://justine.lol/history/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 12:57:20",
-      "https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only"
-    ],
-    [
-      "Poor man's Package Manager (only Statically Linked Binaries)",
-      "https://github.com/xplshn/dbin"
     ]
   ],
   [
