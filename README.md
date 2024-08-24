@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-24, 18:55:05](https://lobste.rs/s/7jc8b1/objective_c_is_ugliest_programming) - [Objective-C Is the Ugliest Programming Language and a Total Abomination](https://www.trevorlasn.com/blog/objective-c-is-the-ugliest-programming-language-and-a-total-abomination)
 * [2024-08-24, 17:15:20](https://lobste.rs/s/rmba3f/zig_emulators) - [Zig and Emulators](https://floooh.github.io/2024/08/24/zig-and-emulators.html)
 * [2024-08-24, 17:07:26](https://lobste.rs/s/qminbs/coupling_as_co_explanation) - [coupling as co-explanation](https://explaining.software/archive/coupling-as-co-explanation/)
 * [2024-08-24, 16:29:08](https://lobste.rs/s/ibqrtu/printing_web_part_2_html_css_for_printing) - [Printing the web, part 2: HTML and CSS for printing books](https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books)
@@ -23,6 +22,7 @@
 * [2024-08-23, 18:30:28](https://lobste.rs/s/uczm43/you_re_probably_using_wrong_dictionary) - [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/ai_training_shouldn_t_erase_authorship) - [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
+* [2024-08-23, 12:57:20](https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only) - [Poor man's Package Manager (only Statically Linked Binaries)](https://github.com/xplshn/dbin)
 * [2024-08-23, 09:13:36](https://lobste.rs/s/2jc66h/i_sped_up_serde_json_strings_by_20) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 * [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
 
