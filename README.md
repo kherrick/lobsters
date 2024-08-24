@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-24, 16:07:56](https://lobste.rs/s/80ckak/is_open_source_bubble_about_burst) - [Is the Open Source Bubble about to Burst?](https://tarakiyee.com/is-the-open-source-bubble-about-to-burst/)
 * [2024-08-24, 15:08:16](https://lobste.rs/s/jikb0q/build_your_own_sqlite_part_2_scanning) - [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
 * [2024-08-24, 12:51:00](https://lobste.rs/s/cclkyh/con_2024_livestream_aug_24_10_00am_pt) - [!!Con 2024 Livestream - Aug 24 @ 10:00am PT](https://bangbangcon.com/livestream)
 * [2024-08-24, 12:08:27](https://lobste.rs/s/v5ipti/javascript_interpreter_for_eyg_language) - [JavaScript interpreter, for EYG language, available on npm](https://eyg.run/news/editions/1/)
@@ -17,7 +18,6 @@
 * [2024-08-23, 18:54:37](https://lobste.rs/s/qar0gh/openssh_backdoors) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [2024-08-23, 18:30:28](https://lobste.rs/s/uczm43/you_re_probably_using_wrong_dictionary) - [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2024-08-23, 17:17:13](https://lobste.rs/s/h9d3gt/anatomy_explanation) - [the anatomy of an explanation](https://explaining.software/archive/the-anatomy-of-an-explanation/)
-* [2024-08-23, 16:11:53](https://lobste.rs/s/gmperd/adventures_building_spreadsheet_engine) - [Adventures building a spreadsheet engine in Python](https://jamesg.blog/2024/08/21/spreadsheet-engine/)
 * [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/ai_training_shouldn_t_erase_authorship) - [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
 * [2024-08-23, 12:57:20](https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only) - [Poor man's Package Manager (only Statically Linked Binaries)](https://github.com/xplshn/dbin)
