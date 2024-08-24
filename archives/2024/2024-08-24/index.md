@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-24](index.md)
 
+* [2024-08-24, 17:07:26](https://lobste.rs/s/qminbs/coupling_as_co_explanation) - [coupling as co-explanation](https://explaining.software/archive/coupling-as-co-explanation/)
 * [2024-08-24, 16:29:08](https://lobste.rs/s/ibqrtu/printing_web_part_2_html_css_for_printing) - [Printing the web, part 2: HTML and CSS for printing books](https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books)
 * [2024-08-24, 16:07:56](https://lobste.rs/s/80ckak/is_open_source_bubble_about_burst) - [Is the Open Source Bubble about to Burst?](https://tarakiyee.com/is-the-open-source-bubble-about-to-burst/)
 * [2024-08-24, 15:08:16](https://lobste.rs/s/jikb0q/build_your_own_sqlite_part_2_scanning) - [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)

@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-24, 17:07:26](https://lobste.rs/s/qminbs/coupling_as_co_explanation) - [coupling as co-explanation](https://explaining.software/archive/coupling-as-co-explanation/)
 * [2024-08-24, 16:29:08](https://lobste.rs/s/ibqrtu/printing_web_part_2_html_css_for_printing) - [Printing the web, part 2: HTML and CSS for printing books](https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books)
+* [2024-08-24, 16:07:56](https://lobste.rs/s/80ckak/is_open_source_bubble_about_burst) - [Is the Open Source Bubble about to Burst?](https://tarakiyee.com/is-the-open-source-bubble-about-to-burst/)
 * [2024-08-24, 15:08:16](https://lobste.rs/s/jikb0q/build_your_own_sqlite_part_2_scanning) - [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
 * [2024-08-24, 12:51:00](https://lobste.rs/s/cclkyh/con_2024_livestream_aug_24_10_00am_pt) - [!!Con 2024 Livestream - Aug 24 @ 10:00am PT](https://bangbangcon.com/livestream)
 * [2024-08-24, 12:08:27](https://lobste.rs/s/v5ipti/javascript_interpreter_for_eyg_language) - [JavaScript interpreter, for EYG language, available on npm](https://eyg.run/news/editions/1/)
@@ -21,9 +23,7 @@
 * [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/ai_training_shouldn_t_erase_authorship) - [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
 * [2024-08-23, 12:57:20](https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only) - [Poor man's Package Manager (only Statically Linked Binaries)](https://github.com/xplshn/dbin)
-* [2024-08-23, 09:14:46](https://lobste.rs/s/4kjtuf/aerc_well_crafted_tui_for_email) - [Aerc: a Well-Crafted Tui for Email](https://blog.sergeantbiggs.net/posts/aerc-a-well-crafted-tui-for-email/)
 * [2024-08-23, 09:13:36](https://lobste.rs/s/2jc66h/i_sped_up_serde_json_strings_by_20) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
-* [2024-08-23, 07:22:12](https://lobste.rs/s/ldc0bw/vpsadminos) - [vpsAdminOS](https://vpsadminos.org/)
 * [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
 
 ## [Archives](archives/index.md)
