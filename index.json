@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-24, 10:19:21",
+      "https://lobste.rs/s/hrp89y/local_networks_go_global_when_domain"
+    ],
+    [
+      "Local Networks Go Global When Domain Names Collide",
+      "https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/"
+    ]
+  ],
+  [
+    [
+      "2024-08-24, 10:15:57",
+      "https://lobste.rs/s/38dyqx/my_irc_client_runs_on_kubernetes"
+    ],
+    [
+      "My IRC client runs on Kubernetes",
+      "https://xeiaso.net/blog/2024/k8s-irc-client/"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 09:28:28",
       "https://lobste.rs/s/dtthzf/consistently_making_wrong_decisions"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-08-23, 11:41:42",
-      "https://lobste.rs/s/qwaxm6/python_s_preprocessor"
-    ],
-    [
-      "Python’s Preprocessor",
-      "https://pydong.org/posts/PythonsPreprocessor/"
-    ]
-  ],
-  [
-    [
       "2024-08-23, 10:53:40",
       "https://lobste.rs/s/evebod/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "The Only JavaScript Feature That Was Deprecated",
       "https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 16:16:44",
-      "https://lobste.rs/s/n54xg9/andries_brouwer_on_oom_killer"
-    ],
-    [
-      "Andries Brouwer on the OOM killer",
-      "https://quuxplusone.github.io/blog/2024/08/22/overcommit/"
     ]
   ]
 ]
