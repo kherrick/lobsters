@@ -14,6 +14,7 @@
 * [2024-08-23, 17:17:13](https://lobste.rs/s/h9d3gt/anatomy_explanation) - [the anatomy of an explanation](https://explaining.software/archive/the-anatomy-of-an-explanation/)
 * [2024-08-23, 16:11:53](https://lobste.rs/s/gmperd/adventures_building_spreadsheet_engine) - [Adventures building a spreadsheet engine in Python](https://jamesg.blog/2024/08/21/spreadsheet-engine/)
 * [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
+* [2024-08-23, 14:56:10](https://lobste.rs/s/sbqy2j/why_does_getting_job_tech_suck_right_now_is) - [Why does getting a job in tech suck right now? (Is it AI?!?)](https://ryxcommar.com/2024/08/17/why-does-getting-a-job-in-tech-suck-right-now-is-it-ai/)
 * [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/ai_training_shouldn_t_erase_authorship) - [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
 * [2024-08-23, 12:57:20](https://lobste.rs/s/iqxjee/poor_man_s_package_manager_only) - [Poor man's Package Manager (only Statically Linked Binaries)](https://github.com/xplshn/dbin)
 * [2024-08-23, 11:41:42](https://lobste.rs/s/qwaxm6/python_s_preprocessor) - [Python’s Preprocessor](https://pydong.org/posts/PythonsPreprocessor/)
@@ -22,7 +23,6 @@
 * [2024-08-23, 09:13:36](https://lobste.rs/s/2jc66h/i_sped_up_serde_json_strings_by_20) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 * [2024-08-23, 07:22:12](https://lobste.rs/s/ldc0bw/vpsadminos) - [vpsAdminOS](https://vpsadminos.org/)
 * [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
-* [2024-08-23, 03:09:15](https://lobste.rs/s/adm80u/flux_refinement_types_for_rust) - [Flux: Refinement types for Rust](https://youtu.be/NIJtZ0yUDX0)
 * [2024-08-22, 19:56:28](https://lobste.rs/s/tduxrp/only_javascript_feature_was_deprecated) - [The Only JavaScript Feature That Was Deprecated](https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated)
 * [2024-08-22, 16:16:44](https://lobste.rs/s/n54xg9/andries_brouwer_on_oom_killer) - [Andries Brouwer on the OOM killer](https://quuxplusone.github.io/blog/2024/08/22/overcommit/)
 
