@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-24, 15:08:16",
+      "https://lobste.rs/s/jikb0q/build_your_own_sqlite_part_2_scanning"
+    ],
+    [
+      "Build your own SQLite, Part 2: Scanning large tables",
+      "https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables"
+    ]
+  ],
+  [
+    [
       "2024-08-24, 12:51:00",
       "https://lobste.rs/s/cclkyh/con_2024_livestream_aug_24_10_00am_pt"
     ],
@@ -237,16 +247,6 @@
     [
       "Forgejo is now copyleft, just like Git",
       "https://forgejo.org/2024-08-gpl/"
-    ]
-  ],
-  [
-    [
-      "2024-08-22, 19:56:28",
-      "https://lobste.rs/s/tduxrp/only_javascript_feature_was_deprecated"
-    ],
-    [
-      "The Only JavaScript Feature That Was Deprecated",
-      "https://www.trevorlasn.com/blog/the-only-javascript-feature-that-was-deprecated"
     ]
   ]
 ]
