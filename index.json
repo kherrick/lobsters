@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 06:50:15",
+      "https://lobste.rs/s/hpay20/introducing_broad_c_c_vulnerability"
+    ],
+    [
+      "Introducing broad C/C++ vulnerability management support in OSV",
+      "https://osv.dev/blog/posts/introducing-broad-c-c++-support/"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 02:51:22",
       "https://lobste.rs/s/kgca59/putting_meaningful_dent_your_error"
     ],
@@ -237,16 +247,6 @@
     [
       "I sped up serde_json strings by 20%",
       "https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 03:42:07",
-      "https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git"
-    ],
-    [
-      "Forgejo is now copyleft, just like Git",
-      "https://forgejo.org/2024-08-gpl/"
     ]
   ]
 ]
