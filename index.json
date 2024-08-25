@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 21:07:07",
+      "https://lobste.rs/s/fekehz/why_am_i_writing_rust_compiler_c"
+    ],
+    [
+      "Why am I writing a Rust compiler in C?",
+      "https://notgull.net/announcing-dozer/"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 19:21:09",
       "https://lobste.rs/s/iv48r8/why_is_guillotine_blade_diagonal"
     ],
@@ -187,16 +197,6 @@
     [
       "!!Con 2024 Livestream - Aug 24 @ 10:00am PT",
       "https://bangbangcon.com/livestream"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 12:08:27",
-      "https://lobste.rs/s/v5ipti/javascript_interpreter_for_eyg_language"
-    ],
-    [
-      "JavaScript interpreter, for EYG language, available on npm",
-      "https://eyg.run/news/editions/1/"
     ]
   ],
   [
