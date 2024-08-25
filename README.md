@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-25, 02:51:22](https://lobste.rs/s/kgca59/putting_meaningful_dent_your_error) - [Putting a meaningful dent in your error backlog](https://blog.danslimmon.com/2024/08/15/putting-a-meaningful-dent-in-your-error-backlog/)
+* [2024-08-25, 02:41:15](https://lobste.rs/s/fspevs/queueing_shell_game) - [The queueing shell game](https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/)
 * [2024-08-24, 23:57:32](https://lobste.rs/s/yejgcd/relicensing_monitor_project_listing) - [Relicensing Monitor: Project Listing](https://alexsci.com/relicensing-monitor/projects/)
 * [2024-08-24, 23:29:18](https://lobste.rs/s/blu9sp/cardstock_run_quickly_easily_build_apps) - [CardStock.run - Quickly and easily build apps on the web](https://cardstock.run)
 * [2024-08-24, 20:45:29](https://lobste.rs/s/gd1pre/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf)
@@ -10,7 +12,6 @@
 * [2024-08-24, 15:08:16](https://lobste.rs/s/jikb0q/build_your_own_sqlite_part_2_scanning) - [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
 * [2024-08-24, 12:51:00](https://lobste.rs/s/cclkyh/con_2024_livestream_aug_24_10_00am_pt) - [!!Con 2024 Livestream - Aug 24 @ 10:00am PT](https://bangbangcon.com/livestream)
 * [2024-08-24, 12:08:27](https://lobste.rs/s/v5ipti/javascript_interpreter_for_eyg_language) - [JavaScript interpreter, for EYG language, available on npm](https://eyg.run/news/editions/1/)
-* [2024-08-24, 10:19:21](https://lobste.rs/s/hrp89y/local_networks_go_global_when_domain) - [Local Networks Go Global When Domain Names Collide](https://krebsonsecurity.com/2024/08/local-networks-go-global-when-domain-names-collide/)
 * [2024-08-24, 10:15:57](https://lobste.rs/s/38dyqx/my_irc_client_runs_on_kubernetes) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-24, 09:28:28](https://lobste.rs/s/dtthzf/consistently_making_wrong_decisions) - [Consistently making wrong decisions whilst writing recreational C](https://amodernist.com/texts/fun-c.html)
 * [2024-08-24, 07:32:08](https://lobste.rs/s/8lejtx/geometric_search_trees) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
@@ -21,7 +22,6 @@
 * [2024-08-23, 21:33:00](https://lobste.rs/s/qiudbn/openbsd_has_reached_openbsd_theseus) - [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:27:08](https://lobste.rs/s/0wkik4/ircpipe_netcat_for_irc) - [ircpipe - netcat for IRC](https://gir.st/ircpipe.html)
 * [2024-08-23, 18:30:28](https://lobste.rs/s/uczm43/you_re_probably_using_wrong_dictionary) - [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
-* [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/ai_training_shouldn_t_erase_authorship) - [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
 * [2024-08-23, 09:13:36](https://lobste.rs/s/2jc66h/i_sped_up_serde_json_strings_by_20) - [I sped up serde_json strings by 20%](https://purplesyringa.moe/blog/i-sped-up-serde-json-strings-by-20-percent/)
 * [2024-08-23, 03:42:07](https://lobste.rs/s/4hmcum/forgejo_is_now_copyleft_just_like_git) - [Forgejo is now copyleft, just like Git](https://forgejo.org/2024-08-gpl/)
