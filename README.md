@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-25, 15:34:48](https://lobste.rs/s/uihnzs/hannah_gmeiner_about_permacomputing) - [Hannah Gmeiner about Permacomputing in Graphic Design](https://timrodenbroeker.de/hannah-gmeiner/)
 * [2024-08-25, 14:25:00](https://lobste.rs/s/r6hzig/definitive_guide_rust_error_handling) - [The Definitive Guide to Rust Error Handling](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
 * [2024-08-25, 13:28:56](https://lobste.rs/s/iy2wmo/yolo_is_not_valid_hash_construction) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 * [2024-08-25, 06:50:15](https://lobste.rs/s/hpay20/introducing_broad_c_c_vulnerability) - [Introducing broad C/C++ vulnerability management support in OSV](https://osv.dev/blog/posts/introducing-broad-c-c++-support/)
@@ -19,7 +20,6 @@
 * [2024-08-24, 07:32:08](https://lobste.rs/s/8lejtx/geometric_search_trees) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 * [2024-08-24, 07:27:37](https://lobste.rs/s/xbujzc/how_build_minimal_zfs_nas_without) - [How to Build a Minimal ZFS NAS without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
 * [2024-08-24, 05:29:30](https://lobste.rs/s/ebtyrp/google_s_s2_geometry_on_sphere_cells) - [Google’s S2, geometry on the sphere, cells and Hilbert curve (2015)](https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/)
-* [2024-08-24, 01:06:42](https://lobste.rs/s/3r2qlw/common_lisp_cookbook) - [Common Lisp Cookbook](https://lispcookbook.github.io/cl-cookbook/)
 * [2024-08-23, 21:47:03](https://lobste.rs/s/z18qgz/symbol_for_fediverse) - [A symbol for the fediverse ⁂](https://symbol.fediverse.info/)
 * [2024-08-23, 21:33:00](https://lobste.rs/s/qiudbn/openbsd_has_reached_openbsd_theseus) - [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:27:08](https://lobste.rs/s/0wkik4/ircpipe_netcat_for_irc) - [ircpipe - netcat for IRC](https://gir.st/ircpipe.html)
