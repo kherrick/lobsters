@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
+* [2024-08-25, 19:21:09](https://lobste.rs/s/iv48r8/why_is_guillotine_blade_diagonal) - [Why is a Guillotine blade diagonal?](http://pepijndevos.nl/2024/08/24/why-is-a-guillotine-blade-diagonal.html)
 * [2024-08-25, 18:55:02](https://lobste.rs/s/ixw5xi/they_don_t_make_em_like_any_more_borland) - [They don’t make ’em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-25, 18:13:12](https://lobste.rs/s/remp21/advanced_python_achieving_high) - [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
 * [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
