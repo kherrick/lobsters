@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-25](index.md)
 
+* [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 * [2024-08-25, 17:34:07](https://lobste.rs/s/t8gnxn/how_flawed_idea_is_teaching_millions_kids) - [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [2024-08-25, 17:24:25](https://lobste.rs/s/gc6has/fair_source_licensing_is_worst_thing) - [Fair Source licensing is the worst thing to happen to open source-definitely maybe (2016)](https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/)
 * [2024-08-25, 17:05:44](https://lobste.rs/s/dzdr6l/programming_with_chatgpt) - [Programming With ChatGPT](https://henrikwarne.com/2024/08/25/programming-with-chatgpt/)

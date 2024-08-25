@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 * [2024-08-25, 17:34:07](https://lobste.rs/s/t8gnxn/how_flawed_idea_is_teaching_millions_kids) - [How a flawed idea is teaching millions of kids to be poor readers (2019)](https://www.apmreports.org/episode/2019/08/22/whats-wrong-how-schools-teach-reading)
 * [2024-08-25, 17:24:25](https://lobste.rs/s/gc6has/fair_source_licensing_is_worst_thing) - [Fair Source licensing is the worst thing to happen to open source-definitely maybe (2016)](https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/)
 * [2024-08-25, 17:05:44](https://lobste.rs/s/dzdr6l/programming_with_chatgpt) - [Programming With ChatGPT](https://henrikwarne.com/2024/08/25/programming-with-chatgpt/)
@@ -21,7 +22,6 @@
 * [2024-08-24, 09:28:28](https://lobste.rs/s/dtthzf/consistently_making_wrong_decisions) - [Consistently making wrong decisions whilst writing recreational C](https://amodernist.com/texts/fun-c.html)
 * [2024-08-24, 07:32:08](https://lobste.rs/s/8lejtx/geometric_search_trees) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
 * [2024-08-24, 07:27:37](https://lobste.rs/s/xbujzc/how_build_minimal_zfs_nas_without) - [How to Build a Minimal ZFS NAS without Synology, QNAP, TrueNAS](https://neil.computer/notes/how-to-setup-minimal-zfs-nas-without-truenas/)
-* [2024-08-24, 05:29:30](https://lobste.rs/s/ebtyrp/google_s_s2_geometry_on_sphere_cells) - [Google’s S2, geometry on the sphere, cells and Hilbert curve (2015)](https://blog.christianperone.com/2015/08/googles-s2-geometry-on-the-sphere-cells-and-hilbert-curve/)
 * [2024-08-23, 21:47:03](https://lobste.rs/s/z18qgz/symbol_for_fediverse) - [A symbol for the fediverse ⁂](https://symbol.fediverse.info/)
 * [2024-08-23, 21:33:00](https://lobste.rs/s/qiudbn/openbsd_has_reached_openbsd_theseus) - [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:27:08](https://lobste.rs/s/0wkik4/ircpipe_netcat_for_irc) - [ircpipe - netcat for IRC](https://gir.st/ircpipe.html)
