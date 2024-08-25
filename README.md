@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-25, 21:07:07](https://lobste.rs/s/fekehz/why_am_i_writing_rust_compiler_c) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 19:21:09](https://lobste.rs/s/iv48r8/why_is_guillotine_blade_diagonal) - [Why is a Guillotine blade diagonal?](http://pepijndevos.nl/2024/08/24/why-is-a-guillotine-blade-diagonal.html)
 * [2024-08-25, 18:55:02](https://lobste.rs/s/ixw5xi/they_don_t_make_em_like_any_more_borland) - [They don’t make ’em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-25, 18:13:12](https://lobste.rs/s/remp21/advanced_python_achieving_high) - [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
@@ -19,7 +20,6 @@
 * [2024-08-24, 16:29:08](https://lobste.rs/s/ibqrtu/printing_web_part_2_html_css_for_printing) - [Printing the web, part 2: HTML and CSS for printing books](https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books)
 * [2024-08-24, 15:08:16](https://lobste.rs/s/jikb0q/build_your_own_sqlite_part_2_scanning) - [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
 * [2024-08-24, 12:51:00](https://lobste.rs/s/cclkyh/con_2024_livestream_aug_24_10_00am_pt) - [!!Con 2024 Livestream - Aug 24 @ 10:00am PT](https://bangbangcon.com/livestream)
-* [2024-08-24, 12:08:27](https://lobste.rs/s/v5ipti/javascript_interpreter_for_eyg_language) - [JavaScript interpreter, for EYG language, available on npm](https://eyg.run/news/editions/1/)
 * [2024-08-24, 10:15:57](https://lobste.rs/s/38dyqx/my_irc_client_runs_on_kubernetes) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)
 * [2024-08-24, 09:28:28](https://lobste.rs/s/dtthzf/consistently_making_wrong_decisions) - [Consistently making wrong decisions whilst writing recreational C](https://amodernist.com/texts/fun-c.html)
 * [2024-08-24, 07:32:08](https://lobste.rs/s/8lejtx/geometric_search_trees) - [Geometric Search Trees](https://g-trees.github.io/g_trees/)
