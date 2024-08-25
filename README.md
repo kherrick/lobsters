@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-24, 23:57:32](https://lobste.rs/s/yejgcd/relicensing_monitor_project_listing) - [Relicensing Monitor: Project Listing](https://alexsci.com/relicensing-monitor/projects/)
 * [2024-08-24, 23:29:18](https://lobste.rs/s/blu9sp/cardstock_run_quickly_easily_build_apps) - [CardStock.run - Quickly and easily build apps on the web](https://cardstock.run)
 * [2024-08-24, 20:45:29](https://lobste.rs/s/gd1pre/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf)
 * [2024-08-24, 17:15:20](https://lobste.rs/s/rmba3f/zig_emulators) - [Zig and Emulators](https://floooh.github.io/2024/08/24/zig-and-emulators.html)
@@ -19,7 +20,6 @@
 * [2024-08-23, 21:47:03](https://lobste.rs/s/z18qgz/symbol_for_fediverse) - [A symbol for the fediverse ⁂](https://symbol.fediverse.info/)
 * [2024-08-23, 21:33:00](https://lobste.rs/s/qiudbn/openbsd_has_reached_openbsd_theseus) - [OpenBSD has reached OpenBSD of Theseus](https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2)
 * [2024-08-23, 19:27:08](https://lobste.rs/s/0wkik4/ircpipe_netcat_for_irc) - [ircpipe - netcat for IRC](https://gir.st/ircpipe.html)
-* [2024-08-23, 18:54:37](https://lobste.rs/s/qar0gh/openssh_backdoors) - [OpenSSH Backdoors](https://blog.isosceles.com/openssh-backdoors/)
 * [2024-08-23, 18:30:28](https://lobste.rs/s/uczm43/you_re_probably_using_wrong_dictionary) - [You’re probably using the wrong dictionary (2014)](https://jsomers.net/blog/dictionary)
 * [2024-08-23, 15:10:25](https://lobste.rs/s/89zftp/generating_cool_ids_rails) - [generating cool ids in rails](https://schpet.com/note/cool-id)
 * [2024-08-23, 14:05:40](https://lobste.rs/s/4onklj/ai_training_shouldn_t_erase_authorship) - [AI Training Shouldn't Erase Authorship](https://justine.lol/history/)
