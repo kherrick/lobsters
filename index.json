@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-25, 22:28:01",
+      "https://lobste.rs/s/obokni/bootstrap_linux_system_from_512_byte"
+    ],
+    [
+      "Bootstrap a Linux system from a 512 byte binary seed with 170 steps",
+      "https://github.com/fosslinux/live-bootstrap/blob/master/parts.rst"
+    ]
+  ],
+  [
+    [
       "2024-08-25, 21:07:07",
       "https://lobste.rs/s/fekehz/why_am_i_writing_rust_compiler_c"
     ],
@@ -237,16 +247,6 @@
     [
       "A symbol for the fediverse ⁂",
       "https://symbol.fediverse.info/"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 21:33:00",
-      "https://lobste.rs/s/qiudbn/openbsd_has_reached_openbsd_theseus"
-    ],
-    [
-      "OpenBSD has reached OpenBSD of Theseus",
-      "https://marc.info/?l=openbsd-cvs&m=172443408727088&w=2"
     ]
   ]
 ]
