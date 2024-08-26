@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 20:22:45](https://lobste.rs/s/nsxzgp/languages_without_abstraction) - [Languages Without Abstraction](https://buttondown.com/jaffray/archive/languages-without-abstraction/)
 * [2024-08-26, 20:03:54](https://lobste.rs/s/szsiu1/erasure_coding_for_distributed_systems) - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
 * [2024-08-26, 19:45:14](https://lobste.rs/s/54czuh/how_postgres_is_misused_abused_wild) - [How Postgres is misused and abused in the wild](https://www.youtube.com/watch?v=rA4J3kr-uhE)
 * [2024-08-26, 18:58:38](https://lobste.rs/s/hilypo/sovereign_tech_fund_invest_686_400) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 * [2024-08-26, 17:55:17](https://lobste.rs/s/po4gob/building_tool_showing_how_gemini_pro_can) - [Building a tool showing how Gemini Pro can return bounding boxes for objects in images](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/)
 * [2024-08-26, 17:47:04](https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop) - [Linux: We need Tiling Desktop Environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 17:33:22](https://lobste.rs/s/2b4tyi/teaching_concurrency_2009) - [Teaching Concurrency (2009)](https://lamport.azurewebsites.net/pubs/teaching-concurrency.pdf)
-* [2024-08-26, 17:18:58](https://lobste.rs/s/qvnvex/thoughts_on_finding_essential_elements) - [Thoughts on finding the essential elements of a set](https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181)
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 * [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
 * [2024-08-26, 14:30:06](https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional) - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
