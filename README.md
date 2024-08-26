@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 17:18:58](https://lobste.rs/s/qvnvex/thoughts_on_finding_essential_elements) - [Thoughts on finding the essential elements of a set](https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181)
+* [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 * [2024-08-26, 16:58:21](https://lobste.rs/s/zqlv6i/surviving_flashes_high_write_traffic) - [Surviving Flashes of High-Write Traffic Using Scriptable Load Balancers (Part I)](https://shopify.engineering/surviving-flashes-of-high-write-traffic-using-scriptable-load-balancers-part-i#)
 * [2024-08-26, 15:59:00](https://lobste.rs/s/tah9cn/parsing_tiny_very_large_floating_point) - [Parsing tiny and very large floating-point values: a programming-language comparison](https://lemire.me/blog/2024/08/26/parsing-tiny-and-very-large-floating-point-values-a-programming-language-comparison/)
 * [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
@@ -21,10 +23,8 @@
 * [2024-08-25, 18:55:02](https://lobste.rs/s/ixw5xi/they_don_t_make_em_like_any_more_borland) - [They don’t make ’em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-25, 18:13:12](https://lobste.rs/s/remp21/advanced_python_achieving_high) - [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
 * [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
-* [2024-08-25, 17:05:44](https://lobste.rs/s/dzdr6l/programming_with_chatgpt) - [Programming With ChatGPT](https://henrikwarne.com/2024/08/25/programming-with-chatgpt/)
 * [2024-08-25, 13:28:56](https://lobste.rs/s/iy2wmo/yolo_is_not_valid_hash_construction) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 * [2024-08-25, 02:41:15](https://lobste.rs/s/fspevs/queueing_shell_game) - [The queueing shell game](https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/)
-* [2024-08-24, 20:45:29](https://lobste.rs/s/gd1pre/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf)
 
 ## [Archives](archives/index.md)
 

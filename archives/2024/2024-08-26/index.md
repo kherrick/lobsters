@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 17:18:58](https://lobste.rs/s/qvnvex/thoughts_on_finding_essential_elements) - [Thoughts on finding the essential elements of a set](https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181)
+* [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 * [2024-08-26, 16:58:21](https://lobste.rs/s/zqlv6i/surviving_flashes_high_write_traffic) - [Surviving Flashes of High-Write Traffic Using Scriptable Load Balancers (Part I)](https://shopify.engineering/surviving-flashes-of-high-write-traffic-using-scriptable-load-balancers-part-i#)
 * [2024-08-26, 15:59:00](https://lobste.rs/s/tah9cn/parsing_tiny_very_large_floating_point) - [Parsing tiny and very large floating-point values: a programming-language comparison](https://lemire.me/blog/2024/08/26/parsing-tiny-and-very-large-floating-point-values-a-programming-language-comparison/)
 * [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
