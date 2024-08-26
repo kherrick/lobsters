@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-26, 15:59:00",
+      "https://lobste.rs/s/tah9cn/parsing_tiny_very_large_floating_point"
+    ],
+    [
+      "Parsing tiny and very large floating-point values: a programming-language comparison",
+      "https://lemire.me/blog/2024/08/26/parsing-tiny-and-very-large-floating-point-values-a-programming-language-comparison/"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 15:41:28",
       "https://lobste.rs/s/la6upp/capt_grace_hopper_on_future"
     ],
@@ -237,16 +247,6 @@
     [
       "SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL",
       "https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-24, 17:15:20",
-      "https://lobste.rs/s/rmba3f/zig_emulators"
-    ],
-    [
-      "Zig and Emulators",
-      "https://floooh.github.io/2024/08/24/zig-and-emulators.html"
     ]
   ]
 ]
