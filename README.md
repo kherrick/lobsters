@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 * [2024-08-26, 10:02:40](https://lobste.rs/s/yorupm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yorupm/what_are_you_doing_this_week)
 * [2024-08-26, 09:11:46](https://lobste.rs/s/mcdzw1/fixing_bug_google_chrome_as_first_time) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 06:39:40](https://lobste.rs/s/d46nr1/using_old_android_as_e_reader_more_secure) - [Using an Old Android as an E-Reader: A More Secure and Flexible Device than a Boox Palma](https://drkpxl.com/using-an-old-android-as-an-e-reader-a-more-secure-and-flexible-device-than-a-boox-palma/)
@@ -18,7 +19,6 @@
 * [2024-08-25, 17:05:44](https://lobste.rs/s/dzdr6l/programming_with_chatgpt) - [Programming With ChatGPT](https://henrikwarne.com/2024/08/25/programming-with-chatgpt/)
 * [2024-08-25, 14:25:00](https://lobste.rs/s/r6hzig/definitive_guide_rust_error_handling) - [The Definitive Guide to Rust Error Handling](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
 * [2024-08-25, 13:28:56](https://lobste.rs/s/iy2wmo/yolo_is_not_valid_hash_construction) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
-* [2024-08-25, 06:50:15](https://lobste.rs/s/hpay20/introducing_broad_c_c_vulnerability) - [Introducing broad C/C++ vulnerability management support in OSV](https://osv.dev/blog/posts/introducing-broad-c-c++-support/)
 * [2024-08-25, 02:51:22](https://lobste.rs/s/kgca59/putting_meaningful_dent_your_error) - [Putting a meaningful dent in your error backlog](https://blog.danslimmon.com/2024/08/15/putting-a-meaningful-dent-in-your-error-backlog/)
 * [2024-08-25, 02:41:15](https://lobste.rs/s/fspevs/queueing_shell_game) - [The queueing shell game](https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/)
 * [2024-08-24, 23:57:32](https://lobste.rs/s/yejgcd/relicensing_monitor_project_listing) - [Relicensing Monitor: Project Listing](https://alexsci.com/relicensing-monitor/projects/)

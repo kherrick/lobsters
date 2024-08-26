@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 * [2024-08-26, 10:02:40](https://lobste.rs/s/yorupm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yorupm/what_are_you_doing_this_week)
 * [2024-08-26, 09:11:46](https://lobste.rs/s/mcdzw1/fixing_bug_google_chrome_as_first_time) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 06:39:40](https://lobste.rs/s/d46nr1/using_old_android_as_e_reader_more_secure) - [Using an Old Android as an E-Reader: A More Secure and Flexible Device than a Boox Palma](https://drkpxl.com/using-an-old-android-as-an-e-reader-a-more-secure-and-flexible-device-than-a-boox-palma/)
