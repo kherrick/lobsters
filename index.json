@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-26, 11:57:37",
+      "https://lobste.rs/s/or8qvb/predicting_future_distributed_systems"
+    ],
+    [
+      "Predicting the Future of Distributed Systems",
+      "https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 11:45:21",
       "https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if"
     ],
@@ -237,16 +247,6 @@
     [
       "Zig and Emulators",
       "https://floooh.github.io/2024/08/24/zig-and-emulators.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-23, 21:47:03",
-      "https://lobste.rs/s/z18qgz/symbol_for_fediverse"
-    ],
-    [
-      "A symbol for the fediverse ⁂",
-      "https://symbol.fediverse.info/"
     ]
   ]
 ]
