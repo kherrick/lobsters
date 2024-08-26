@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 05:22:43](https://lobste.rs/s/dboxu6/git_super_power_three_way_merge_quentin) - [Git Super-Power: The Three-Way Merge | Quentin Santos](https://qsantos.fr/2024/05/01/git-super-power-the-three-way-merge/)
 * [2024-08-26, 04:19:44](https://lobste.rs/s/wigald/precedence_aware_pretty_printing) - [Precedence-aware pretty printing](https://bernsteinbear.com/blog/precedence-printing/)
 * [2024-08-26, 02:46:41](https://lobste.rs/s/ec1fwi/js_dates_are_about_be_fixed) - [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
 * [2024-08-26, 01:41:49](https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
@@ -20,7 +21,6 @@
 * [2024-08-24, 20:45:29](https://lobste.rs/s/gd1pre/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf)
 * [2024-08-24, 17:15:20](https://lobste.rs/s/rmba3f/zig_emulators) - [Zig and Emulators](https://floooh.github.io/2024/08/24/zig-and-emulators.html)
 * [2024-08-24, 17:07:26](https://lobste.rs/s/qminbs/coupling_as_co_explanation) - [coupling as co-explanation](https://explaining.software/archive/coupling-as-co-explanation/)
-* [2024-08-24, 16:29:08](https://lobste.rs/s/ibqrtu/printing_web_part_2_html_css_for_printing) - [Printing the web, part 2: HTML and CSS for printing books](https://www.michaelperrin.fr/blog/2019/11/printing-the-web-part-2-html-and-css-for-printing-books)
 * [2024-08-24, 15:08:16](https://lobste.rs/s/jikb0q/build_your_own_sqlite_part_2_scanning) - [Build your own SQLite, Part 2: Scanning large tables](https://blog.sylver.dev/build-your-own-sqlite-part-2-scanning-large-tables)
 * [2024-08-24, 12:51:00](https://lobste.rs/s/cclkyh/con_2024_livestream_aug_24_10_00am_pt) - [!!Con 2024 Livestream - Aug 24 @ 10:00am PT](https://bangbangcon.com/livestream)
 * [2024-08-24, 10:15:57](https://lobste.rs/s/38dyqx/my_irc_client_runs_on_kubernetes) - [My IRC client runs on Kubernetes](https://xeiaso.net/blog/2024/k8s-irc-client/)

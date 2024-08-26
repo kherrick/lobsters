@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 05:22:43](https://lobste.rs/s/dboxu6/git_super_power_three_way_merge_quentin) - [Git Super-Power: The Three-Way Merge | Quentin Santos](https://qsantos.fr/2024/05/01/git-super-power-the-three-way-merge/)
 * [2024-08-26, 04:19:44](https://lobste.rs/s/wigald/precedence_aware_pretty_printing) - [Precedence-aware pretty printing](https://bernsteinbear.com/blog/precedence-printing/)
 * [2024-08-26, 02:46:41](https://lobste.rs/s/ec1fwi/js_dates_are_about_be_fixed) - [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
 * [2024-08-26, 01:41:49](https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
