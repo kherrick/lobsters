@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-26, 17:33:22",
+      "https://lobste.rs/s/2b4tyi/teaching_concurrency_2009"
+    ],
+    [
+      "Teaching Concurrency (2009)",
+      "https://lamport.azurewebsites.net/pubs/teaching-concurrency.pdf"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 17:18:58",
       "https://lobste.rs/s/qvnvex/thoughts_on_finding_essential_elements"
     ],
@@ -207,16 +217,6 @@
     [
       "They don’t make ’em like that any more: Borland Turbo Pascal 7",
       "https://kevinboone.me/tpwin.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 18:13:12",
-      "https://lobste.rs/s/remp21/advanced_python_achieving_high"
-    ],
-    [
-      "Advanced Python: Achieving High Performance with Code Generation",
-      "https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79"
     ]
   ],
   [
