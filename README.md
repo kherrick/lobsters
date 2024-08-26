@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 20:44:56](https://lobste.rs/s/ccab8b/av_command_line_tool_manage_stacked_prs) - [av: A command line tool to manage stacked PRs with Aviator](https://github.com/aviator-co/av)
 * [2024-08-26, 20:26:11](https://lobste.rs/s/xvzzdr/soul_maintaining_new_machine_first_draft) - [The Soul of Maintaining a New Machine - First Draft | Books in Progress](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-26, 20:22:45](https://lobste.rs/s/nsxzgp/languages_without_abstraction) - [Languages Without Abstraction](https://buttondown.com/jaffray/archive/languages-without-abstraction/)
 * [2024-08-26, 20:03:54](https://lobste.rs/s/szsiu1/erasure_coding_for_distributed_systems) - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
-* [2024-08-26, 19:45:14](https://lobste.rs/s/54czuh/how_postgres_is_misused_abused_wild) - [How Postgres is misused and abused in the wild](https://www.youtube.com/watch?v=rA4J3kr-uhE)
 * [2024-08-26, 18:58:38](https://lobste.rs/s/hilypo/sovereign_tech_fund_invest_686_400) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 * [2024-08-26, 17:55:17](https://lobste.rs/s/po4gob/building_tool_showing_how_gemini_pro_can) - [Building a tool showing how Gemini Pro can return bounding boxes for objects in images](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/)
 * [2024-08-26, 17:47:04](https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop) - [Linux: We need Tiling Desktop Environments](https://linuxblog.io/linux-tiling-desktop-environments/)
