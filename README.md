@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 17:55:17](https://lobste.rs/s/po4gob/building_tool_showing_how_gemini_pro_can) - [Building a tool showing how Gemini Pro can return bounding boxes for objects in images](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/)
 * [2024-08-26, 17:47:04](https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop) - [Linux: We need Tiling Desktop Environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 17:33:22](https://lobste.rs/s/2b4tyi/teaching_concurrency_2009) - [Teaching Concurrency (2009)](https://lamport.azurewebsites.net/pubs/teaching-concurrency.pdf)
 * [2024-08-26, 17:18:58](https://lobste.rs/s/qvnvex/thoughts_on_finding_essential_elements) - [Thoughts on finding the essential elements of a set](https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181)
@@ -7,6 +8,7 @@
 * [2024-08-26, 16:58:21](https://lobste.rs/s/zqlv6i/surviving_flashes_high_write_traffic) - [Surviving Flashes of High-Write Traffic Using Scriptable Load Balancers (Part I)](https://shopify.engineering/surviving-flashes-of-high-write-traffic-using-scriptable-load-balancers-part-i#)
 * [2024-08-26, 15:59:00](https://lobste.rs/s/tah9cn/parsing_tiny_very_large_floating_point) - [Parsing tiny and very large floating-point values: a programming-language comparison](https://lemire.me/blog/2024/08/26/parsing-tiny-and-very-large-floating-point-values-a-programming-language-comparison/)
 * [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
+* [2024-08-26, 14:30:06](https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional) - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
 * [2024-08-26, 13:39:07](https://lobste.rs/s/noolai/using_search_as_primary_datastore_since) - [Using search as a primary datastore since the docs said not to](https://ntietz.com/blog/the-docs-said-no-search-primary/)
 * [2024-08-26, 11:57:37](https://lobste.rs/s/or8qvb/predicting_future_distributed_systems) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
@@ -15,7 +17,6 @@
 * [2024-08-26, 06:39:40](https://lobste.rs/s/d46nr1/using_old_android_as_e_reader_more_secure) - [Using an Old Android as an E-Reader: A More Secure and Flexible Device than a Boox Palma](https://drkpxl.com/using-an-old-android-as-an-e-reader-a-more-secure-and-flexible-device-than-a-boox-palma/)
 * [2024-08-26, 06:27:06](https://lobste.rs/s/egqvg1/if_pg_dump_is_not_backup_tool_what_is) - [If pg_dump is not a backup tool, what is?](https://xata.io/blog/pgdump-is-not-a-backup-tool)
 * [2024-08-26, 05:22:43](https://lobste.rs/s/dboxu6/git_super_power_three_way_merge_quentin) - [Git Super-Power: The Three-Way Merge | Quentin Santos](https://qsantos.fr/2024/05/01/git-super-power-the-three-way-merge/)
-* [2024-08-26, 04:19:44](https://lobste.rs/s/wigald/precedence_aware_pretty_printing) - [Precedence-aware pretty printing](https://bernsteinbear.com/blog/precedence-printing/)
 * [2024-08-26, 02:46:41](https://lobste.rs/s/ec1fwi/js_dates_are_about_be_fixed) - [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
 * [2024-08-26, 01:41:49](https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
 * [2024-08-25, 23:42:59](https://lobste.rs/s/preazk/linux_pipes_are_slow) - [Linux Pipes are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)
@@ -24,7 +25,6 @@
 * [2024-08-25, 18:55:02](https://lobste.rs/s/ixw5xi/they_don_t_make_em_like_any_more_borland) - [They don’t make ’em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 * [2024-08-25, 13:28:56](https://lobste.rs/s/iy2wmo/yolo_is_not_valid_hash_construction) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
-* [2024-08-25, 02:41:15](https://lobste.rs/s/fspevs/queueing_shell_game) - [The queueing shell game](https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/)
 
 ## [Archives](archives/index.md)
 

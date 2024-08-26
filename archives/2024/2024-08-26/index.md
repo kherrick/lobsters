@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 17:55:17](https://lobste.rs/s/po4gob/building_tool_showing_how_gemini_pro_can) - [Building a tool showing how Gemini Pro can return bounding boxes for objects in images](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/)
 * [2024-08-26, 17:47:04](https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop) - [Linux: We need Tiling Desktop Environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 17:33:22](https://lobste.rs/s/2b4tyi/teaching_concurrency_2009) - [Teaching Concurrency (2009)](https://lamport.azurewebsites.net/pubs/teaching-concurrency.pdf)
 * [2024-08-26, 17:18:58](https://lobste.rs/s/qvnvex/thoughts_on_finding_essential_elements) - [Thoughts on finding the essential elements of a set](https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181)
