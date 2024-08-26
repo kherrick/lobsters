@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-26, 11:45:21",
+      "https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if"
+    ],
+    [
+      "Don’t use complex expressions in if conditions",
+      "https://maximullaris.com/if_condition.html"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 10:02:40",
       "https://lobste.rs/s/yorupm/what_are_you_doing_this_week"
     ],
@@ -177,16 +187,6 @@
     [
       "“YOLO” is not a valid hash construction",
       "https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 06:50:15",
-      "https://lobste.rs/s/hpay20/introducing_broad_c_c_vulnerability"
-    ],
-    [
-      "Introducing broad C/C++ vulnerability management support in OSV",
-      "https://osv.dev/blog/posts/introducing-broad-c-c++-support/"
     ]
   ],
   [
