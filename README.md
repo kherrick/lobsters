@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 17:33:22](https://lobste.rs/s/2b4tyi/teaching_concurrency_2009) - [Teaching Concurrency (2009)](https://lamport.azurewebsites.net/pubs/teaching-concurrency.pdf)
 * [2024-08-26, 17:18:58](https://lobste.rs/s/qvnvex/thoughts_on_finding_essential_elements) - [Thoughts on finding the essential elements of a set](https://devblogs.microsoft.com/oldnewthing/20240826-00/?p=110181)
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 * [2024-08-26, 16:58:21](https://lobste.rs/s/zqlv6i/surviving_flashes_high_write_traffic) - [Surviving Flashes of High-Write Traffic Using Scriptable Load Balancers (Part I)](https://shopify.engineering/surviving-flashes-of-high-write-traffic-using-scriptable-load-balancers-part-i#)
@@ -21,7 +22,6 @@
 * [2024-08-25, 22:28:01](https://lobste.rs/s/obokni/bootstrap_linux_system_from_512_byte) - [Bootstrap a Linux system from a 512 byte binary seed with 170 steps](https://github.com/fosslinux/live-bootstrap/blob/master/parts.rst)
 * [2024-08-25, 21:07:07](https://lobste.rs/s/fekehz/why_am_i_writing_rust_compiler_c) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 18:55:02](https://lobste.rs/s/ixw5xi/they_don_t_make_em_like_any_more_borland) - [They don’t make ’em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
-* [2024-08-25, 18:13:12](https://lobste.rs/s/remp21/advanced_python_achieving_high) - [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
 * [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 * [2024-08-25, 13:28:56](https://lobste.rs/s/iy2wmo/yolo_is_not_valid_hash_construction) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 * [2024-08-25, 02:41:15](https://lobste.rs/s/fspevs/queueing_shell_game) - [The queueing shell game](https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/)
