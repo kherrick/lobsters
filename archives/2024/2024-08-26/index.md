@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 20:03:54](https://lobste.rs/s/szsiu1/erasure_coding_for_distributed_systems) - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
 * [2024-08-26, 19:45:14](https://lobste.rs/s/54czuh/how_postgres_is_misused_abused_wild) - [How Postgres is misused and abused in the wild](https://www.youtube.com/watch?v=rA4J3kr-uhE)
 * [2024-08-26, 18:58:38](https://lobste.rs/s/hilypo/sovereign_tech_fund_invest_686_400) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 * [2024-08-26, 18:31:56](https://lobste.rs/s/lbpl4b/when_i_s_output_is_threat_i_itself) - [When A.I.’s Output Is a Threat to A.I. Itself](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html)
