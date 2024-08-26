@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 13:39:07](https://lobste.rs/s/noolai/using_search_as_primary_datastore_since) - [Using search as a primary datastore since the docs said not to](https://ntietz.com/blog/the-docs-said-no-search-primary/)
 * [2024-08-26, 11:57:37](https://lobste.rs/s/or8qvb/predicting_future_distributed_systems) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 * [2024-08-26, 10:02:40](https://lobste.rs/s/yorupm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yorupm/what_are_you_doing_this_week)
@@ -20,7 +21,6 @@
 * [2024-08-25, 17:05:44](https://lobste.rs/s/dzdr6l/programming_with_chatgpt) - [Programming With ChatGPT](https://henrikwarne.com/2024/08/25/programming-with-chatgpt/)
 * [2024-08-25, 14:25:00](https://lobste.rs/s/r6hzig/definitive_guide_rust_error_handling) - [The Definitive Guide to Rust Error Handling](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
 * [2024-08-25, 13:28:56](https://lobste.rs/s/iy2wmo/yolo_is_not_valid_hash_construction) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
-* [2024-08-25, 02:51:22](https://lobste.rs/s/kgca59/putting_meaningful_dent_your_error) - [Putting a meaningful dent in your error backlog](https://blog.danslimmon.com/2024/08/15/putting-a-meaningful-dent-in-your-error-backlog/)
 * [2024-08-25, 02:41:15](https://lobste.rs/s/fspevs/queueing_shell_game) - [The queueing shell game](https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/)
 * [2024-08-24, 23:57:32](https://lobste.rs/s/yejgcd/relicensing_monitor_project_listing) - [Relicensing Monitor: Project Listing](https://alexsci.com/relicensing-monitor/projects/)
 * [2024-08-24, 20:45:29](https://lobste.rs/s/gd1pre/sql_has_problems_we_can_fix_them_pipe) - [SQL Has Problems. We Can Fix Them: Pipe Syntax In SQL](https://storage.googleapis.com/gweb-research2023-media/pubtools/1004848.pdf)
