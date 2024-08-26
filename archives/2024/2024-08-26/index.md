@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 18:58:38](https://lobste.rs/s/hilypo/sovereign_tech_fund_invest_686_400) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 * [2024-08-26, 18:31:56](https://lobste.rs/s/lbpl4b/when_i_s_output_is_threat_i_itself) - [When A.I.’s Output Is a Threat to A.I. Itself](https://www.nytimes.com/interactive/2024/08/26/upshot/ai-synthetic-data.html)
 * [2024-08-26, 17:55:17](https://lobste.rs/s/po4gob/building_tool_showing_how_gemini_pro_can) - [Building a tool showing how Gemini Pro can return bounding boxes for objects in images](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/)
 * [2024-08-26, 17:47:04](https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop) - [Linux: We need Tiling Desktop Environments](https://linuxblog.io/linux-tiling-desktop-environments/)
