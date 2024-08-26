@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 22:38:10](https://lobste.rs/s/7fwd13/app_by_any_other_name) - [An App By Any Other Name](https://blog.axo.dev/2024/07/an-app-by-any-other-name)
 * [2024-08-26, 21:48:36](https://lobste.rs/s/mq8hyr/how_postgres_is_misused_abused_wild) - [How Postgres is Misused and Abused in the Wild](https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html)
 * [2024-08-26, 21:38:12](https://lobste.rs/s/uvbesc/kubesearch_search_engine_for_helm_values) - [kubesearch - a search engine for Helm values](https://kubesearch.dev/)
 * [2024-08-26, 20:44:56](https://lobste.rs/s/ccab8b/av_command_line_tool_manage_stacked_prs) - [av: A command line tool to manage stacked PRs with Aviator](https://github.com/aviator-co/av)
@@ -16,7 +17,6 @@
 * [2024-08-26, 09:11:46](https://lobste.rs/s/mcdzw1/fixing_bug_google_chrome_as_first_time) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
 * [2024-08-26, 06:39:40](https://lobste.rs/s/d46nr1/using_old_android_as_e_reader_more_secure) - [Using an Old Android as an E-Reader: A More Secure and Flexible Device than a Boox Palma](https://drkpxl.com/using-an-old-android-as-an-e-reader-a-more-secure-and-flexible-device-than-a-boox-palma/)
 * [2024-08-26, 06:27:06](https://lobste.rs/s/egqvg1/if_pg_dump_is_not_backup_tool_what_is) - [If pg_dump is not a backup tool, what is?](https://xata.io/blog/pgdump-is-not-a-backup-tool)
-* [2024-08-26, 05:22:43](https://lobste.rs/s/dboxu6/git_super_power_three_way_merge_quentin) - [Git Super-Power: The Three-Way Merge | Quentin Santos](https://qsantos.fr/2024/05/01/git-super-power-the-three-way-merge/)
 * [2024-08-26, 02:46:41](https://lobste.rs/s/ec1fwi/js_dates_are_about_be_fixed) - [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
 * [2024-08-26, 01:41:49](https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
 * [2024-08-25, 23:42:59](https://lobste.rs/s/preazk/linux_pipes_are_slow) - [Linux Pipes are Slow](https://qsantos.fr/2024/08/25/linux-pipes-are-slow/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 22:38:10](https://lobste.rs/s/7fwd13/app_by_any_other_name) - [An App By Any Other Name](https://blog.axo.dev/2024/07/an-app-by-any-other-name)
 * [2024-08-26, 21:48:36](https://lobste.rs/s/mq8hyr/how_postgres_is_misused_abused_wild) - [How Postgres is Misused and Abused in the Wild](https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html)
 * [2024-08-26, 21:38:12](https://lobste.rs/s/uvbesc/kubesearch_search_engine_for_helm_values) - [kubesearch - a search engine for Helm values](https://kubesearch.dev/)
 * [2024-08-26, 20:44:56](https://lobste.rs/s/ccab8b/av_command_line_tool_manage_stacked_prs) - [av: A command line tool to manage stacked PRs with Aviator](https://github.com/aviator-co/av)
