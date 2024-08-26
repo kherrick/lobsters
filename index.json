@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-26, 17:55:17",
+      "https://lobste.rs/s/po4gob/building_tool_showing_how_gemini_pro_can"
+    ],
+    [
+      "Building a tool showing how Gemini Pro can return bounding boxes for objects in images",
+      "https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/"
+    ]
+  ],
+  [
+    [
       "2024-08-26, 17:47:04",
       "https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop"
     ],
@@ -67,6 +77,16 @@
     [
       "Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)",
       "https://www.youtube.com/watch?v=si9iqF5uTFk"
+    ]
+  ],
+  [
+    [
+      "2024-08-26, 14:30:06",
+      "https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional"
+    ],
+    [
+      "Leader Election With S3 Conditional Writes",
+      "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-08-26, 04:19:44",
-      "https://lobste.rs/s/wigald/precedence_aware_pretty_printing"
-    ],
-    [
-      "Precedence-aware pretty printing",
-      "https://bernsteinbear.com/blog/precedence-printing/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 02:46:41",
       "https://lobste.rs/s/ec1fwi/js_dates_are_about_be_fixed"
     ],
@@ -237,16 +247,6 @@
     [
       "“YOLO” is not a valid hash construction",
       "https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 02:41:15",
-      "https://lobste.rs/s/fspevs/queueing_shell_game"
-    ],
-    [
-      "The queueing shell game",
-      "https://blog.danslimmon.com/2024/08/21/the-queueing-shell-game/"
     ]
   ]
 ]
