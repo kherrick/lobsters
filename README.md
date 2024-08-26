@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 21:38:12](https://lobste.rs/s/uvbesc/kubesearch_search_engine_for_helm_values) - [kubesearch - a search engine for Helm values](https://kubesearch.dev/)
 * [2024-08-26, 20:44:56](https://lobste.rs/s/ccab8b/av_command_line_tool_manage_stacked_prs) - [av: A command line tool to manage stacked PRs with Aviator](https://github.com/aviator-co/av)
 * [2024-08-26, 20:26:11](https://lobste.rs/s/xvzzdr/soul_maintaining_new_machine_first_draft) - [The Soul of Maintaining a New Machine - First Draft | Books in Progress](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-26, 20:22:45](https://lobste.rs/s/nsxzgp/languages_without_abstraction) - [Languages Without Abstraction](https://buttondown.com/jaffray/archive/languages-without-abstraction/)
@@ -10,7 +11,6 @@
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 * [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
 * [2024-08-26, 14:30:06](https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional) - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
-* [2024-08-26, 13:39:07](https://lobste.rs/s/noolai/using_search_as_primary_datastore_since) - [Using search as a primary datastore since the docs said not to](https://ntietz.com/blog/the-docs-said-no-search-primary/)
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 * [2024-08-26, 10:02:40](https://lobste.rs/s/yorupm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yorupm/what_are_you_doing_this_week)
 * [2024-08-26, 09:11:46](https://lobste.rs/s/mcdzw1/fixing_bug_google_chrome_as_first_time) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
