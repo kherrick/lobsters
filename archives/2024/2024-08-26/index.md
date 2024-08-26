@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 15:59:00](https://lobste.rs/s/tah9cn/parsing_tiny_very_large_floating_point) - [Parsing tiny and very large floating-point values: a programming-language comparison](https://lemire.me/blog/2024/08/26/parsing-tiny-and-very-large-floating-point-values-a-programming-language-comparison/)
 * [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
 * [2024-08-26, 14:30:06](https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional) - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
 * [2024-08-26, 13:39:07](https://lobste.rs/s/noolai/using_search_as_primary_datastore_since) - [Using search as a primary datastore since the docs said not to](https://ntietz.com/blog/the-docs-said-no-search-primary/)
