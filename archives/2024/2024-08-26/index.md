@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 20:26:11](https://lobste.rs/s/xvzzdr/soul_maintaining_new_machine_first_draft) - [The Soul of Maintaining a New Machine - First Draft | Books in Progress](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-26, 20:22:45](https://lobste.rs/s/nsxzgp/languages_without_abstraction) - [Languages Without Abstraction](https://buttondown.com/jaffray/archive/languages-without-abstraction/)
 * [2024-08-26, 20:03:54](https://lobste.rs/s/szsiu1/erasure_coding_for_distributed_systems) - [Erasure Coding for Distributed Systems](https://transactional.blog/blog/2024-erasure-coding)
 * [2024-08-26, 19:45:14](https://lobste.rs/s/54czuh/how_postgres_is_misused_abused_wild) - [How Postgres is misused and abused in the wild](https://www.youtube.com/watch?v=rA4J3kr-uhE)
