@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
 * [2024-08-26, 14:30:06](https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional) - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
 * [2024-08-26, 13:39:07](https://lobste.rs/s/noolai/using_search_as_primary_datastore_since) - [Using search as a primary datastore since the docs said not to](https://ntietz.com/blog/the-docs-said-no-search-primary/)
 * [2024-08-26, 11:57:37](https://lobste.rs/s/or8qvb/predicting_future_distributed_systems) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
@@ -18,7 +19,6 @@
 * [2024-08-25, 18:55:02](https://lobste.rs/s/ixw5xi/they_don_t_make_em_like_any_more_borland) - [They don’t make ’em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-25, 18:13:12](https://lobste.rs/s/remp21/advanced_python_achieving_high) - [Advanced Python: Achieving High Performance with Code Generation](https://medium.com/@yonatanzunger/advanced-python-achieving-high-performance-with-code-generation-796b177ec79)
 * [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
-* [2024-08-25, 17:24:25](https://lobste.rs/s/gc6has/fair_source_licensing_is_worst_thing) - [Fair Source licensing is the worst thing to happen to open source-definitely maybe (2016)](https://web.archive.org/web/20211107170119/https://www.techrepublic.com/article/fair-source-licensing-is-the-worst-thing-to-happen-to-open-source-definitely-maybe/)
 * [2024-08-25, 17:05:44](https://lobste.rs/s/dzdr6l/programming_with_chatgpt) - [Programming With ChatGPT](https://henrikwarne.com/2024/08/25/programming-with-chatgpt/)
 * [2024-08-25, 14:25:00](https://lobste.rs/s/r6hzig/definitive_guide_rust_error_handling) - [The Definitive Guide to Rust Error Handling](https://www.howtocodeit.com/articles/the-definitive-guide-to-rust-error-handling)
 * [2024-08-25, 13:28:56](https://lobste.rs/s/iy2wmo/yolo_is_not_valid_hash_construction) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)

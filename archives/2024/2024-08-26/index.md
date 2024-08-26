@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-26](index.md)
 
+* [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
 * [2024-08-26, 14:30:06](https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional) - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
 * [2024-08-26, 13:39:07](https://lobste.rs/s/noolai/using_search_as_primary_datastore_since) - [Using search as a primary datastore since the docs said not to](https://ntietz.com/blog/the-docs-said-no-search-primary/)
 * [2024-08-26, 11:57:37](https://lobste.rs/s/or8qvb/predicting_future_distributed_systems) - [Predicting the Future of Distributed Systems](https://blog.colinbreck.com/predicting-the-future-of-distributed-systems/)
