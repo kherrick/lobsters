@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-08-27, 14:01:02",
+      "https://lobste.rs/s/wrgk04/minijinja_learnings_from_building"
+    ],
+    [
+      "MiniJinja: Learnings from Building a Template Engine in Rust",
+      "https://lucumr.pocoo.org/2024/8/27/minijinja/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 13:58:58",
+      "https://lobste.rs/s/323swu/provisioning_cloud_infrastructure"
+    ],
+    [
+      "Provisioning cloud infrastructure the wrong way, but faster",
+      "https://blog.trailofbits.com/2024/08/27/provisioning-cloud-infrastructure-the-wrong-way-but-faster/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 13:57:03",
+      "https://lobste.rs/s/tf1wmc/electric_clojure_v3_differential"
+    ],
+    [
+      "Electric Clojure v3: Differential Dataflow for UI",
+      "https://youtube.com/watch?v=mP9e_FDjHLU"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 12:24:02",
       "https://lobste.rs/s/gklpgp/oci_containers_for_freebsd_doug_rabson"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2024-08-26, 20:26:11",
-      "https://lobste.rs/s/xvzzdr/soul_maintaining_new_machine"
-    ],
-    [
-      "The Soul of Maintaining a New Machine",
-      "https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 18:58:38",
       "https://lobste.rs/s/hilypo/sovereign_tech_fund_invest_686_400"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-08-26, 09:11:46",
-      "https://lobste.rs/s/mcdzw1/fixing_bug_google_chrome_as_first_time"
-    ],
-    [
-      "Fixing a Bug in Google Chrome as a First-Time Contributor",
-      "https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 06:27:06",
       "https://lobste.rs/s/egqvg1/if_pg_dump_is_not_backup_tool_what_is"
     ],
@@ -227,16 +237,6 @@
     [
       "Pavel Durov and the Blackberry Ratchet",
       "https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 22:28:01",
-      "https://lobste.rs/s/obokni/bootstrap_linux_system_from_512_byte"
-    ],
-    [
-      "Bootstrap a Linux system from a 512 byte binary seed with 170 steps",
-      "https://github.com/fosslinux/live-bootstrap/blob/master/parts.rst"
     ]
   ],
   [
