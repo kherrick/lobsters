@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 21:15:13](https://lobste.rs/s/d4g3bs/there_can_t_be_only_one) - [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 * [2024-08-27, 20:51:35](https://lobste.rs/s/mb7gm5/state_time_are_same_thing) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
 * [2024-08-27, 20:17:14](https://lobste.rs/s/157f3w/folder_corruption_thunderbird_122) - [Folder corruption in Thunderbird 122+](https://bugzilla.mozilla.org/show_bug.cgi?id=1890230)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
@@ -22,7 +23,6 @@
 * [2024-08-27, 08:30:57](https://lobste.rs/s/ve4ihn/ast_grep_structural_search_rewrite_tool) - [ast-grep | structural search/rewrite tool for many languages](https://ast-grep.github.io/)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
 * [2024-08-26, 18:58:38](https://lobste.rs/s/hilypo/sovereign_tech_fund_invest_686_400) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
-* [2024-08-26, 17:47:04](https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop) - [Linux: We need Tiling Desktop Environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 
