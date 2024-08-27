@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 16:16:31](https://lobste.rs/s/mdbg6j/multiple_errors_otel_span) - [Multiple errors in an OTEL Span](https://andydote.co.uk/2024/07/20/otel-errors/)
 * [2024-08-27, 15:42:50](https://lobste.rs/s/brgs6v/nist_finalizes_post_quantum_encryption) - [NIST finalizes post-quantum encryption standards](https://lwn.net/SubscriberLink/973231/64aa3291c2456b18/)
 * [2024-08-27, 14:01:02](https://lobste.rs/s/wrgk04/minijinja_learnings_from_building) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 * [2024-08-27, 13:58:58](https://lobste.rs/s/323swu/provisioning_cloud_infrastructure) - [Provisioning cloud infrastructure the wrong way, but faster](https://blog.trailofbits.com/2024/08/27/provisioning-cloud-infrastructure-the-wrong-way-but-faster/)
