@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 15:42:50](https://lobste.rs/s/brgs6v/nist_finalizes_post_quantum_encryption) - [NIST finalizes post-quantum encryption standards](https://lwn.net/SubscriberLink/973231/64aa3291c2456b18/)
 * [2024-08-27, 14:01:02](https://lobste.rs/s/wrgk04/minijinja_learnings_from_building) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 * [2024-08-27, 13:58:58](https://lobste.rs/s/323swu/provisioning_cloud_infrastructure) - [Provisioning cloud infrastructure the wrong way, but faster](https://blog.trailofbits.com/2024/08/27/provisioning-cloud-infrastructure-the-wrong-way-but-faster/)
 * [2024-08-27, 13:57:03](https://lobste.rs/s/tf1wmc/electric_clojure_v3_differential) - [Electric Clojure v3: Differential Dataflow for UI](https://youtube.com/watch?v=mP9e_FDjHLU)
@@ -20,7 +21,6 @@
 * [2024-08-26, 17:47:04](https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop) - [Linux: We need Tiling Desktop Environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 * [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
-* [2024-08-26, 14:30:06](https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional) - [Leader Election With S3 Conditional Writes](https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/)
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 * [2024-08-26, 06:27:06](https://lobste.rs/s/egqvg1/if_pg_dump_is_not_backup_tool_what_is) - [If pg_dump is not a backup tool, what is?](https://xata.io/blog/pgdump-is-not-a-backup-tool)
 * [2024-08-26, 01:41:49](https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
