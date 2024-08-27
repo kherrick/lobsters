@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-27, 09:15:20",
+      "https://lobste.rs/s/02nsjr/vanilla_prime_simpler_more_sustainable"
+    ],
+    [
+      "Vanilla Prime: A simpler, more sustainable way of web development",
+      "https://github.com/morris/vanilla-prime"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 09:11:38",
+      "https://lobste.rs/s/ghv4rm/box64_risc_v_2024"
+    ],
+    [
+      "Box64 and RISC-V in 2024",
+      "https://box86.org/2024/08/box64-and-risc-v-in-2024/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 08:30:57",
       "https://lobste.rs/s/ve4ihn/ast_grep_structural_search_rewrite_tool"
     ],
@@ -37,16 +57,6 @@
     [
       "Can a Computer Program be a Cruciverbalist?",
       "https://obrhubr.org/crossword"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 22:38:10",
-      "https://lobste.rs/s/7fwd13/app_by_any_other_name"
-    ],
-    [
-      "An App By Any Other Name",
-      "https://blog.axo.dev/2024/07/an-app-by-any-other-name"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "They don’t make ’em like that any more: Borland Turbo Pascal 7",
       "https://kevinboone.me/tpwin.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-25, 17:40:23",
-      "https://lobste.rs/s/98rp8f/cors_is_stupid"
-    ],
-    [
-      "CORS is Stupid",
-      "https://kevincox.ca/2024/08/24/cors/"
     ]
   ]
 ]
