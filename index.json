@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-27, 18:08:56",
+      "https://lobste.rs/s/r496gr/meredith_whittaker_at_le_bourget"
+    ],
+    [
+      "Meredith Whittaker at Le Bourget",
+      "https://nadim.computer/posts/2024-08-27-lebourget.html"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 17:49:57",
       "https://lobste.rs/s/bfsatm/function_types_nix"
     ],
@@ -67,16 +77,6 @@
     [
       "In C, you can sizeof() a string constant?",
       "https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 16:16:31",
-      "https://lobste.rs/s/mdbg6j/multiple_errors_otel_span"
-    ],
-    [
-      "Multiple errors in an OTEL Span",
-      "https://andydote.co.uk/2024/07/20/otel-errors/"
     ]
   ],
   [
