@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 09:46:33](https://lobste.rs/s/jptnkm/using_dtrace_with_sip_enabled) - [Using dtrace with SIP enabled](https://poweruser.blog/using-dtrace-with-sip-enabled-3826a352e64b)
 * [2024-08-27, 09:15:20](https://lobste.rs/s/02nsjr/vanilla_prime_simpler_more_sustainable) - [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
 * [2024-08-27, 09:11:38](https://lobste.rs/s/ghv4rm/box64_risc_v_2024) - [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 08:30:57](https://lobste.rs/s/ve4ihn/ast_grep_structural_search_rewrite_tool) - [ast-grep | structural search/rewrite tool for many languages](https://ast-grep.github.io/)
@@ -18,7 +19,6 @@
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 * [2024-08-26, 10:02:40](https://lobste.rs/s/yorupm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/yorupm/what_are_you_doing_this_week)
 * [2024-08-26, 09:11:46](https://lobste.rs/s/mcdzw1/fixing_bug_google_chrome_as_first_time) - [Fixing a Bug in Google Chrome as a First-Time Contributor](https://cprimozic.net/blog/fixing-a-bug-in-google-chrome/)
-* [2024-08-26, 06:39:40](https://lobste.rs/s/d46nr1/using_old_android_as_e_reader_more_secure) - [Using an Old Android as an E-Reader: A More Secure and Flexible Device than a Boox Palma](https://drkpxl.com/using-an-old-android-as-an-e-reader-a-more-secure-and-flexible-device-than-a-boox-palma/)
 * [2024-08-26, 06:27:06](https://lobste.rs/s/egqvg1/if_pg_dump_is_not_backup_tool_what_is) - [If pg_dump is not a backup tool, what is?](https://xata.io/blog/pgdump-is-not-a-backup-tool)
 * [2024-08-26, 02:46:41](https://lobste.rs/s/ec1fwi/js_dates_are_about_be_fixed) - [JS Dates Are About to Be Fixed](https://docs.timetime.in/blog/js-dates-finally-fixed/)
 * [2024-08-26, 01:41:49](https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
