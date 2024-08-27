@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 18:08:56](https://lobste.rs/s/r496gr/meredith_whittaker_at_le_bourget) - [Meredith Whittaker at Le Bourget](https://nadim.computer/posts/2024-08-27-lebourget.html)
 * [2024-08-27, 17:49:57](https://lobste.rs/s/bfsatm/function_types_nix) - [Function Types in Nix](https://garnix.io/blog/typed-function-types)
 * [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 * [2024-08-27, 17:22:21](https://lobste.rs/s/pt7irn/boolean_is_not_your_friend) - [Boolean Is Not Your Friend](https://youtube.com/watch?v=SVew0lXNCqQ)

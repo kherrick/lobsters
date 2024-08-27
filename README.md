@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 18:08:56](https://lobste.rs/s/r496gr/meredith_whittaker_at_le_bourget) - [Meredith Whittaker at Le Bourget](https://nadim.computer/posts/2024-08-27-lebourget.html)
 * [2024-08-27, 17:49:57](https://lobste.rs/s/bfsatm/function_types_nix) - [Function Types in Nix](https://garnix.io/blog/typed-function-types)
 * [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 * [2024-08-27, 17:22:21](https://lobste.rs/s/pt7irn/boolean_is_not_your_friend) - [Boolean Is Not Your Friend](https://youtube.com/watch?v=SVew0lXNCqQ)
@@ -7,7 +8,6 @@
 * [2024-08-27, 17:13:03](https://lobste.rs/s/yye0ch/evaluating_process_manager) - [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
 * [2024-08-27, 16:48:17](https://lobste.rs/s/mkevla/fresh_breeze_kde_dialog_icons) - [Fresh Breeze KDE Dialog Icons](https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/)
 * [2024-08-27, 16:45:30](https://lobste.rs/s/kgxogp/c_you_can_sizeof_string_constant) - [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
-* [2024-08-27, 16:16:31](https://lobste.rs/s/mdbg6j/multiple_errors_otel_span) - [Multiple errors in an OTEL Span](https://andydote.co.uk/2024/07/20/otel-errors/)
 * [2024-08-27, 14:01:02](https://lobste.rs/s/wrgk04/minijinja_learnings_from_building) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 * [2024-08-27, 13:57:03](https://lobste.rs/s/tf1wmc/electric_clojure_v3_differential) - [Electric Clojure v3: Differential Dataflow for UI](https://youtube.com/watch?v=mP9e_FDjHLU)
 * [2024-08-27, 12:24:02](https://lobste.rs/s/gklpgp/oci_containers_for_freebsd_doug_rabson) - [OCI Containers for FreeBSD - Doug Rabson, FreeBSD Project](https://www.youtube.com/watch?v=pggcc6fi-ow)
