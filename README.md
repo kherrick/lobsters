@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 02:52:41](https://lobste.rs/s/nvyerr/ask_miss_o11y_what_should_observability) - [Ask Miss O11y: What Should An \"Observability Team\" Do?](https://www.honeycomb.io/blog/what-observability-teams-do)
 * [2024-08-26, 22:38:10](https://lobste.rs/s/7fwd13/app_by_any_other_name) - [An App By Any Other Name](https://blog.axo.dev/2024/07/an-app-by-any-other-name)
 * [2024-08-26, 21:48:36](https://lobste.rs/s/mq8hyr/how_postgres_is_misused_abused_wild) - [How Postgres is Misused and Abused in the Wild](https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html)
 * [2024-08-26, 21:38:12](https://lobste.rs/s/uvbesc/kubesearch_search_engine_for_helm_values) - [kubesearch - a search engine for Helm values](https://kubesearch.dev/)
@@ -24,7 +25,6 @@
 * [2024-08-25, 21:07:07](https://lobste.rs/s/fekehz/why_am_i_writing_rust_compiler_c) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 18:55:02](https://lobste.rs/s/ixw5xi/they_don_t_make_em_like_any_more_borland) - [They don’t make ’em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
 * [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
-* [2024-08-25, 13:28:56](https://lobste.rs/s/iy2wmo/yolo_is_not_valid_hash_construction) - [“YOLO” is not a valid hash construction](https://blog.trailofbits.com/2024/08/21/yolo-is-not-a-valid-hash-construction/)
 
 ## [Archives](archives/index.md)
 
