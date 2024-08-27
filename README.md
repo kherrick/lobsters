@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 16:48:17](https://lobste.rs/s/mkevla/fresh_breeze_kde_dialog_icons) - [Fresh Breeze KDE Dialog Icons](https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/)
+* [2024-08-27, 16:45:30](https://lobste.rs/s/kgxogp/c_you_can_sizeof_string_constant) - [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
 * [2024-08-27, 16:16:31](https://lobste.rs/s/mdbg6j/multiple_errors_otel_span) - [Multiple errors in an OTEL Span](https://andydote.co.uk/2024/07/20/otel-errors/)
-* [2024-08-27, 15:42:50](https://lobste.rs/s/brgs6v/nist_finalizes_post_quantum_encryption) - [NIST finalizes post-quantum encryption standards](https://lwn.net/SubscriberLink/973231/64aa3291c2456b18/)
 * [2024-08-27, 14:01:02](https://lobste.rs/s/wrgk04/minijinja_learnings_from_building) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 * [2024-08-27, 13:58:58](https://lobste.rs/s/323swu/provisioning_cloud_infrastructure) - [Provisioning cloud infrastructure the wrong way, but faster](https://blog.trailofbits.com/2024/08/27/provisioning-cloud-infrastructure-the-wrong-way-but-faster/)
 * [2024-08-27, 13:57:03](https://lobste.rs/s/tf1wmc/electric_clojure_v3_differential) - [Electric Clojure v3: Differential Dataflow for UI](https://youtube.com/watch?v=mP9e_FDjHLU)
@@ -24,7 +25,6 @@
 * [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 * [2024-08-26, 01:41:49](https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
-* [2024-08-25, 21:07:07](https://lobste.rs/s/fekehz/why_am_i_writing_rust_compiler_c) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 
 ## [Archives](archives/index.md)
 
