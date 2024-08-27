@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 09:15:20](https://lobste.rs/s/02nsjr/vanilla_prime_simpler_more_sustainable) - [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
+* [2024-08-27, 09:11:38](https://lobste.rs/s/ghv4rm/box64_risc_v_2024) - [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 08:30:57](https://lobste.rs/s/ve4ihn/ast_grep_structural_search_rewrite_tool) - [ast-grep | structural search/rewrite tool for many languages](https://ast-grep.github.io/)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
 * [2024-08-27, 08:27:33](https://lobste.rs/s/ajlzok/using_stringview_german_style_strings) - [Using StringView / German Style Strings to Make Queries Faster: Part 1 - Reading Parquet](https://www.influxdata.com/blog/faster-queries-with-stringview-part-one-influxdb/)
 * [2024-08-27, 03:15:58](https://lobste.rs/s/ao8w4l/can_computer_program_be_cruciverbalist) - [Can a Computer Program be a Cruciverbalist?](https://obrhubr.org/crossword)
-* [2024-08-26, 22:38:10](https://lobste.rs/s/7fwd13/app_by_any_other_name) - [An App By Any Other Name](https://blog.axo.dev/2024/07/an-app-by-any-other-name)
 * [2024-08-26, 21:48:36](https://lobste.rs/s/mq8hyr/how_postgres_is_misused_abused_wild) - [How Postgres is Misused and Abused in the Wild](https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html)
 * [2024-08-26, 20:26:11](https://lobste.rs/s/xvzzdr/soul_maintaining_new_machine) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-26, 20:22:45](https://lobste.rs/s/nsxzgp/languages_without_abstraction) - [Languages Without Abstraction](https://buttondown.com/jaffray/archive/languages-without-abstraction/)
@@ -24,7 +25,6 @@
 * [2024-08-25, 22:28:01](https://lobste.rs/s/obokni/bootstrap_linux_system_from_512_byte) - [Bootstrap a Linux system from a 512 byte binary seed with 170 steps](https://github.com/fosslinux/live-bootstrap/blob/master/parts.rst)
 * [2024-08-25, 21:07:07](https://lobste.rs/s/fekehz/why_am_i_writing_rust_compiler_c) - [Why am I writing a Rust compiler in C?](https://notgull.net/announcing-dozer/)
 * [2024-08-25, 18:55:02](https://lobste.rs/s/ixw5xi/they_don_t_make_em_like_any_more_borland) - [They don’t make ’em like that any more: Borland Turbo Pascal 7](https://kevinboone.me/tpwin.html)
-* [2024-08-25, 17:40:23](https://lobste.rs/s/98rp8f/cors_is_stupid) - [CORS is Stupid](https://kevincox.ca/2024/08/24/cors/)
 
 ## [Archives](archives/index.md)
 
