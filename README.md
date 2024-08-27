@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
+* [2024-08-27, 17:13:03](https://lobste.rs/s/yye0ch/evaluating_process_manager) - [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
 * [2024-08-27, 16:48:17](https://lobste.rs/s/mkevla/fresh_breeze_kde_dialog_icons) - [Fresh Breeze KDE Dialog Icons](https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/)
 * [2024-08-27, 16:45:30](https://lobste.rs/s/kgxogp/c_you_can_sizeof_string_constant) - [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
 * [2024-08-27, 16:16:31](https://lobste.rs/s/mdbg6j/multiple_errors_otel_span) - [Multiple errors in an OTEL Span](https://andydote.co.uk/2024/07/20/otel-errors/)
@@ -22,9 +24,7 @@
 * [2024-08-26, 17:55:17](https://lobste.rs/s/po4gob/building_tool_showing_how_gemini_pro_can) - [Building a tool showing how Gemini Pro can return bounding boxes for objects in images](https://simonwillison.net/2024/Aug/26/gemini-bounding-box-visualization/)
 * [2024-08-26, 17:47:04](https://lobste.rs/s/n5yzbw/linux_we_need_tiling_desktop) - [Linux: We need Tiling Desktop Environments](https://linuxblog.io/linux-tiling-desktop-environments/)
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
-* [2024-08-26, 15:41:28](https://lobste.rs/s/la6upp/capt_grace_hopper_on_future) - [Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)](https://www.youtube.com/watch?v=si9iqF5uTFk)
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
-* [2024-08-26, 01:41:49](https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet) - [Pavel Durov and the Blackberry Ratchet](https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
+* [2024-08-27, 17:13:03](https://lobste.rs/s/yye0ch/evaluating_process_manager) - [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
 * [2024-08-27, 16:48:17](https://lobste.rs/s/mkevla/fresh_breeze_kde_dialog_icons) - [Fresh Breeze KDE Dialog Icons](https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/)
 * [2024-08-27, 16:45:30](https://lobste.rs/s/kgxogp/c_you_can_sizeof_string_constant) - [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
 * [2024-08-27, 16:16:31](https://lobste.rs/s/mdbg6j/multiple_errors_otel_span) - [Multiple errors in an OTEL Span](https://andydote.co.uk/2024/07/20/otel-errors/)
