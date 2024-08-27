@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 14:01:02](https://lobste.rs/s/wrgk04/minijinja_learnings_from_building) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
+* [2024-08-27, 13:58:58](https://lobste.rs/s/323swu/provisioning_cloud_infrastructure) - [Provisioning cloud infrastructure the wrong way, but faster](https://blog.trailofbits.com/2024/08/27/provisioning-cloud-infrastructure-the-wrong-way-but-faster/)
+* [2024-08-27, 13:57:03](https://lobste.rs/s/tf1wmc/electric_clojure_v3_differential) - [Electric Clojure v3: Differential Dataflow for UI](https://youtube.com/watch?v=mP9e_FDjHLU)
 * [2024-08-27, 12:24:02](https://lobste.rs/s/gklpgp/oci_containers_for_freebsd_doug_rabson) - [OCI Containers for FreeBSD - Doug Rabson, FreeBSD Project](https://www.youtube.com/watch?v=pggcc6fi-ow)
 * [2024-08-27, 11:07:38](https://lobste.rs/s/b7hn2p/bonavita_1l_electric_kettle_repair) - [Bonavita 1L Electric Kettle Repair](https://sequentialread.com/bonavita-electric-kettle-repair/)
 * [2024-08-27, 10:47:28](https://lobste.rs/s/eadhah/working_with_protobuf_2024) - [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
