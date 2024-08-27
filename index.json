@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-27, 10:47:28",
+      "https://lobste.rs/s/eadhah/working_with_protobuf_2024"
+    ],
+    [
+      "Working with Protobuf in 2024",
+      "https://kmcd.dev/posts/working-with-protobuf-in-2024/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 10:25:12",
       "https://lobste.rs/s/qkacfa/let_api_protect_you"
     ],
@@ -77,16 +87,6 @@
     [
       "You're not mature enough to release your first version as v1",
       "https://www.jvt.me/posts/2024/08/26/v0/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 08:27:33",
-      "https://lobste.rs/s/ajlzok/using_stringview_german_style_strings"
-    ],
-    [
-      "Using StringView / German Style Strings to Make Queries Faster: Part 1 - Reading Parquet",
-      "https://www.influxdata.com/blog/faster-queries-with-stringview-part-one-influxdb/"
     ]
   ],
   [
