@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 20:51:35](https://lobste.rs/s/mb7gm5/state_time_are_same_thing) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
 * [2024-08-27, 20:17:14](https://lobste.rs/s/157f3w/folder_corruption_thunderbird_122) - [Folder corruption in Thunderbird 122+](https://bugzilla.mozilla.org/show_bug.cgi?id=1890230)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
 * [2024-08-27, 19:06:27](https://lobste.rs/s/5tromx/better_explanations_through_coupling) - [better explanations through coupling](https://explaining.software/archive/better-explanations-through-coupling/)

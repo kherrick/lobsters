@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 20:51:35](https://lobste.rs/s/mb7gm5/state_time_are_same_thing) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
 * [2024-08-27, 20:17:14](https://lobste.rs/s/157f3w/folder_corruption_thunderbird_122) - [Folder corruption in Thunderbird 122+](https://bugzilla.mozilla.org/show_bug.cgi?id=1890230)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
 * [2024-08-27, 19:06:27](https://lobste.rs/s/5tromx/better_explanations_through_coupling) - [better explanations through coupling](https://explaining.software/archive/better-explanations-through-coupling/)
@@ -7,7 +8,6 @@
 * [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 * [2024-08-27, 17:13:03](https://lobste.rs/s/yye0ch/evaluating_process_manager) - [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
-* [2024-08-27, 16:48:17](https://lobste.rs/s/mkevla/fresh_breeze_kde_dialog_icons) - [Fresh Breeze KDE Dialog Icons](https://blog.broulik.de/2024/08/fresh-breeze-dialog-icons/)
 * [2024-08-27, 16:45:30](https://lobste.rs/s/kgxogp/c_you_can_sizeof_string_constant) - [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
 * [2024-08-27, 14:01:02](https://lobste.rs/s/wrgk04/minijinja_learnings_from_building) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 * [2024-08-27, 13:57:03](https://lobste.rs/s/tf1wmc/electric_clojure_v3_differential) - [Electric Clojure v3: Differential Dataflow for UI](https://youtube.com/watch?v=mP9e_FDjHLU)
