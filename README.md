@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 03:15:58](https://lobste.rs/s/ao8w4l/can_computer_program_be_cruciverbalist) - [Can a Computer Program be a Cruciverbalist?](https://obrhubr.org/crossword)
 * [2024-08-27, 02:52:41](https://lobste.rs/s/nvyerr/ask_miss_o11y_what_should_observability) - [Ask Miss O11y: What Should An \"Observability Team\" Do?](https://www.honeycomb.io/blog/what-observability-teams-do)
 * [2024-08-26, 22:38:10](https://lobste.rs/s/7fwd13/app_by_any_other_name) - [An App By Any Other Name](https://blog.axo.dev/2024/07/an-app-by-any-other-name)
 * [2024-08-26, 21:48:36](https://lobste.rs/s/mq8hyr/how_postgres_is_misused_abused_wild) - [How Postgres is Misused and Abused in the Wild](https://karenjex.blogspot.com/2024/07/how-postgres-is-misused-and-abused.html)
 * [2024-08-26, 21:38:12](https://lobste.rs/s/uvbesc/kubesearch_search_engine_for_helm_values) - [kubesearch - a search engine for Helm values](https://kubesearch.dev/)
-* [2024-08-26, 20:44:56](https://lobste.rs/s/ccab8b/av_command_line_tool_manage_stacked_prs) - [av: A command line tool to manage stacked PRs with Aviator](https://github.com/aviator-co/av)
 * [2024-08-26, 20:26:11](https://lobste.rs/s/xvzzdr/soul_maintaining_new_machine) - [The Soul of Maintaining a New Machine](https://books.worksinprogress.co/book/maintenance-of-everything/communities-of-practice/the-soul-of-maintaining-a-new-machine/1)
 * [2024-08-26, 20:22:45](https://lobste.rs/s/nsxzgp/languages_without_abstraction) - [Languages Without Abstraction](https://buttondown.com/jaffray/archive/languages-without-abstraction/)
 * [2024-08-26, 18:58:38](https://lobste.rs/s/hilypo/sovereign_tech_fund_invest_686_400) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
