@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-27, 15:42:50",
+      "https://lobste.rs/s/brgs6v/nist_finalizes_post_quantum_encryption"
+    ],
+    [
+      "NIST finalizes post-quantum encryption standards",
+      "https://lwn.net/SubscriberLink/973231/64aa3291c2456b18/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 14:01:02",
       "https://lobste.rs/s/wrgk04/minijinja_learnings_from_building"
     ],
@@ -197,16 +207,6 @@
     [
       "Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)",
       "https://www.youtube.com/watch?v=si9iqF5uTFk"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 14:30:06",
-      "https://lobste.rs/s/ljq5pm/leader_election_with_s3_conditional"
-    ],
-    [
-      "Leader Election With S3 Conditional Writes",
-      "https://www.morling.dev/blog/leader-election-with-s3-conditional-writes/"
     ]
   ],
   [
