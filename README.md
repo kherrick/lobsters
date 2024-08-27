@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
 * [2024-08-27, 19:06:27](https://lobste.rs/s/5tromx/better_explanations_through_coupling) - [better explanations through coupling](https://explaining.software/archive/better-explanations-through-coupling/)
 * [2024-08-27, 18:08:56](https://lobste.rs/s/r496gr/meredith_whittaker_at_le_bourget) - [Meredith Whittaker at Le Bourget](https://nadim.computer/posts/2024-08-27-lebourget.html)
 * [2024-08-27, 17:49:57](https://lobste.rs/s/bfsatm/function_types_nix) - [Function Types in Nix](https://garnix.io/blog/typed-function-types)
 * [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
-* [2024-08-27, 17:22:21](https://lobste.rs/s/pt7irn/boolean_is_not_your_friend) - [Boolean Is Not Your Friend](https://youtube.com/watch?v=SVew0lXNCqQ)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 * [2024-08-27, 17:13:03](https://lobste.rs/s/yye0ch/evaluating_process_manager) - [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
 * [2024-08-27, 16:45:30](https://lobste.rs/s/kgxogp/c_you_can_sizeof_string_constant) - [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
