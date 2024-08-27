@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 11:07:38](https://lobste.rs/s/b7hn2p/bonavita_1l_electric_kettle_repair) - [Bonavita 1L Electric Kettle Repair](https://sequentialread.com/bonavita-electric-kettle-repair/)
 * [2024-08-27, 10:47:28](https://lobste.rs/s/eadhah/working_with_protobuf_2024) - [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
 * [2024-08-27, 10:25:12](https://lobste.rs/s/qkacfa/let_api_protect_you) - [Let the API protect you](https://www.snoyman.com/blog/2024/08/let-the-api-protect-you/)
 * [2024-08-27, 10:12:04](https://lobste.rs/s/hwkbk2/clay_high_performance_ui_layout_library_c) - [Clay: high performance UI layout library in C](https://github.com/nicbarker/clay)
