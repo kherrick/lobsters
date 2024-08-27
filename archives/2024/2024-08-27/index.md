@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-27](index.md)
 
+* [2024-08-27, 20:17:14](https://lobste.rs/s/157f3w/folder_corruption_thunderbird_122) - [Folder corruption in Thunderbird 122+](https://bugzilla.mozilla.org/show_bug.cgi?id=1890230)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
 * [2024-08-27, 19:06:27](https://lobste.rs/s/5tromx/better_explanations_through_coupling) - [better explanations through coupling](https://explaining.software/archive/better-explanations-through-coupling/)
 * [2024-08-27, 18:08:56](https://lobste.rs/s/r496gr/meredith_whittaker_at_le_bourget) - [Meredith Whittaker at Le Bourget](https://nadim.computer/posts/2024-08-27-lebourget.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-27, 20:17:14](https://lobste.rs/s/157f3w/folder_corruption_thunderbird_122) - [Folder corruption in Thunderbird 122+](https://bugzilla.mozilla.org/show_bug.cgi?id=1890230)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
 * [2024-08-27, 19:06:27](https://lobste.rs/s/5tromx/better_explanations_through_coupling) - [better explanations through coupling](https://explaining.software/archive/better-explanations-through-coupling/)
 * [2024-08-27, 17:49:57](https://lobste.rs/s/bfsatm/function_types_nix) - [Function Types in Nix](https://garnix.io/blog/typed-function-types)
@@ -13,7 +14,6 @@
 * [2024-08-27, 12:24:02](https://lobste.rs/s/gklpgp/oci_containers_for_freebsd_doug_rabson) - [OCI Containers for FreeBSD - Doug Rabson, FreeBSD Project](https://www.youtube.com/watch?v=pggcc6fi-ow)
 * [2024-08-27, 11:07:38](https://lobste.rs/s/b7hn2p/bonavita_1l_electric_kettle_repair) - [Bonavita 1L Electric Kettle Repair](https://sequentialread.com/bonavita-electric-kettle-repair/)
 * [2024-08-27, 10:47:28](https://lobste.rs/s/eadhah/working_with_protobuf_2024) - [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
-* [2024-08-27, 10:25:12](https://lobste.rs/s/qkacfa/let_api_protect_you) - [Let the API protect you](https://www.snoyman.com/blog/2024/08/let-the-api-protect-you/)
 * [2024-08-27, 10:12:04](https://lobste.rs/s/hwkbk2/clay_high_performance_ui_layout_library_c) - [Clay: high performance UI layout library in C](https://github.com/nicbarker/clay)
 * [2024-08-27, 10:06:37](https://lobste.rs/s/kevb8r/how_we_run_migrations_across_2_800) - [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
 * [2024-08-27, 09:46:33](https://lobste.rs/s/jptnkm/using_dtrace_with_sip_enabled) - [Using dtrace with SIP enabled](https://poweruser.blog/using-dtrace-with-sip-enabled-3826a352e64b)
