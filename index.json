@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-27, 17:21:22",
+      "https://lobste.rs/s/rhxsow/monospace_web"
+    ],
+    [
+      "The Monospace Web",
+      "https://owickstrom.github.io/the-monospace-web/"
+    ]
+  ],
+  [
+    [
+      "2024-08-27, 17:13:03",
+      "https://lobste.rs/s/yye0ch/evaluating_process_manager"
+    ],
+    [
+      "Evaluating a process manager",
+      "https://tinkering.xyz/evaluating-process-manager/"
+    ]
+  ],
+  [
+    [
       "2024-08-27, 16:48:17",
       "https://lobste.rs/s/mkevla/fresh_breeze_kde_dialog_icons"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-08-26, 15:41:28",
-      "https://lobste.rs/s/la6upp/capt_grace_hopper_on_future"
-    ],
-    [
-      "Capt. Grace Hopper on Future Possibilities: Data, Hardware, Software, and People (1982)",
-      "https://www.youtube.com/watch?v=si9iqF5uTFk"
-    ]
-  ],
-  [
-    [
       "2024-08-26, 11:45:21",
       "https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if"
     ],
     [
       "Don’t use complex expressions in if conditions",
       "https://maximullaris.com/if_condition.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 01:41:49",
-      "https://lobste.rs/s/hnhwgy/pavel_durov_blackberry_ratchet"
-    ],
-    [
-      "Pavel Durov and the Blackberry Ratchet",
-      "https://www.oblomovka.com/wp/2024/08/25/pavel-durov-and-the-blackberry-ratchet/"
     ]
   ]
 ]
