@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 06:23:43",
+      "https://lobste.rs/s/h5vxw9/chunksync_space_efficient_incremental"
+    ],
+    [
+      "ChunkSync - space-efficient incremental (remote) backups of large files and block devices",
+      "https://chunksync.florz.de/"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 02:43:47",
       "https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes"
     ],
@@ -47,16 +57,6 @@
     [
       "There can't be only one",
       "https://www.b-list.org/weblog/2024/aug/27/highlander-problem/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 20:51:35",
-      "https://lobste.rs/s/mb7gm5/state_time_are_same_thing"
-    ],
-    [
-      "State and time are the same thing",
-      "https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/"
     ]
   ],
   [
