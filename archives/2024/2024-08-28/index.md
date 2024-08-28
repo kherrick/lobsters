@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 08:32:51](https://lobste.rs/s/ug0t5g/wp2hugo_best_wordpress_hugo_migrator) - [wp2hugo: best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
 * [2024-08-28, 06:23:43](https://lobste.rs/s/h5vxw9/chunksync_space_efficient_incremental) - [ChunkSync - space-efficient incremental (remote) backups of large files and block devices](https://chunksync.florz.de/)
 * [2024-08-28, 04:35:15](https://lobste.rs/s/oaohoa/go_1_23_s_new_unique_package) - [Go 1.23's new unique package](https://go.dev/blog/unique)
 * [2024-08-28, 02:43:47](https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes) - [Rust dylib rabbit holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
