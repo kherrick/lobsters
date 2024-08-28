@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-28, 00:14:49](https://lobste.rs/s/0xhsus/tesla_s_ttpoe_at_hot_chips_2024_replacing) - [Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for low latency applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 * [2024-08-27, 21:15:13](https://lobste.rs/s/d4g3bs/there_can_t_be_only_one) - [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 * [2024-08-27, 20:51:35](https://lobste.rs/s/mb7gm5/state_time_are_same_thing) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
@@ -12,7 +13,6 @@
 * [2024-08-27, 16:45:30](https://lobste.rs/s/kgxogp/c_you_can_sizeof_string_constant) - [In C, you can sizeof() a string constant?](https://subethasoftware.com/2024/08/26/in-c-you-can-sizeof-a-string-constant/)
 * [2024-08-27, 14:01:02](https://lobste.rs/s/wrgk04/minijinja_learnings_from_building) - [MiniJinja: Learnings from Building a Template Engine in Rust](https://lucumr.pocoo.org/2024/8/27/minijinja/)
 * [2024-08-27, 13:57:03](https://lobste.rs/s/tf1wmc/electric_clojure_v3_differential) - [Electric Clojure v3: Differential Dataflow for UI](https://youtube.com/watch?v=mP9e_FDjHLU)
-* [2024-08-27, 12:24:02](https://lobste.rs/s/gklpgp/oci_containers_for_freebsd_doug_rabson) - [OCI Containers for FreeBSD - Doug Rabson, FreeBSD Project](https://www.youtube.com/watch?v=pggcc6fi-ow)
 * [2024-08-27, 11:07:38](https://lobste.rs/s/b7hn2p/bonavita_1l_electric_kettle_repair) - [Bonavita 1L Electric Kettle Repair](https://sequentialread.com/bonavita-electric-kettle-repair/)
 * [2024-08-27, 10:47:28](https://lobste.rs/s/eadhah/working_with_protobuf_2024) - [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
 * [2024-08-27, 10:12:04](https://lobste.rs/s/hwkbk2/clay_high_performance_ui_layout_library_c) - [Clay: high performance UI layout library in C](https://github.com/nicbarker/clay)
