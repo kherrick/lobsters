@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-28, 18:59:31](https://lobste.rs/s/ijxsix/pypy_v7_3_17_release) - [PyPy v7.3.17 release](https://pypy.org/posts/2024/08/pypy-v7317-release.html)
 * [2024-08-28, 18:26:22](https://lobste.rs/s/zawzkf/cloud_actor_oriented_database) - [Cloud Actor-Oriented Database Transactions in Orleans](https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf)
 * [2024-08-28, 17:35:36](https://lobste.rs/s/qwmp4m/rate_limiting_cells_gcra) - [Rate Limiting, Cells, and GCRA](https://brandur.org/rate-limiting)
 * [2024-08-28, 16:20:56](https://lobste.rs/s/o4sded/next_international_workshop_on_plan_9) - [The next International Workshop on Plan 9 will be held in Paris in may 2025](http://iwp9.org/)
@@ -23,7 +24,6 @@
 * [2024-08-27, 17:13:03](https://lobste.rs/s/yye0ch/evaluating_process_manager) - [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
 * [2024-08-27, 10:47:28](https://lobste.rs/s/eadhah/working_with_protobuf_2024) - [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
 * [2024-08-27, 10:12:04](https://lobste.rs/s/hwkbk2/clay_high_performance_ui_layout_library_c) - [Clay: high performance UI layout library in C](https://github.com/nicbarker/clay)
-* [2024-08-27, 10:06:37](https://lobste.rs/s/kevb8r/how_we_run_migrations_across_2_800) - [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
 
 ## [Archives](archives/index.md)
