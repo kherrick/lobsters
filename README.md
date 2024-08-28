@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-28, 04:35:15](https://lobste.rs/s/oaohoa/go_1_23_s_new_unique_package) - [Go 1.23's new unique package](https://go.dev/blog/unique)
 * [2024-08-28, 02:43:47](https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes) - [Rust dylib rabbit holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
 * [2024-08-28, 00:51:46](https://lobste.rs/s/btp8fg/compiler_front_end_infrastructure) - [Compiler front-end infrastructure](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-08-28, 00:14:49](https://lobste.rs/s/0xhsus/tesla_s_ttpoe_at_hot_chips_2024_replacing) - [Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for low latency applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
@@ -7,7 +8,6 @@
 * [2024-08-27, 20:51:35](https://lobste.rs/s/mb7gm5/state_time_are_same_thing) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
 * [2024-08-27, 19:06:27](https://lobste.rs/s/5tromx/better_explanations_through_coupling) - [better explanations through coupling](https://explaining.software/archive/better-explanations-through-coupling/)
-* [2024-08-27, 18:08:56](https://lobste.rs/s/r496gr/meredith_whittaker_at_le_bourget) - [Meredith Whittaker at Le Bourget](https://nadim.computer/posts/2024-08-27-lebourget.html)
 * [2024-08-27, 17:49:57](https://lobste.rs/s/bfsatm/function_types_nix) - [Function Types in Nix](https://garnix.io/blog/typed-function-types)
 * [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)

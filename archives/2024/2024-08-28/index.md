@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 04:35:15](https://lobste.rs/s/oaohoa/go_1_23_s_new_unique_package) - [Go 1.23's new unique package](https://go.dev/blog/unique)
 * [2024-08-28, 02:43:47](https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes) - [Rust dylib rabbit holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
 * [2024-08-28, 02:02:35](https://lobste.rs/s/fs83ul/cpython_compiler_hardening) - [CPython Compiler Hardening](http://nohlson.com/blog/CPython-Compiler-Hardening-Summer-Retrospective/)
 * [2024-08-28, 00:51:46](https://lobste.rs/s/btp8fg/compiler_front_end_infrastructure) - [Compiler front-end infrastructure](https://github.com/Eliah-Lakhin/lady-deirdre)
