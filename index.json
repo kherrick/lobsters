@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 23:43:21",
+      "https://lobste.rs/s/ffqvah/judge_dismisses_majority_github_copilot"
+    ],
+    [
+      "Judge dismisses majority of GitHub Copilot copyright claims",
+      "https://lwn.net/Articles/987524/"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 22:09:21",
       "https://lobste.rs/s/y9f97s/future_tla"
     ],
@@ -27,16 +37,6 @@
     [
       "Cloud Actor-Oriented Database Transactions in Orleans",
       "https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 17:35:36",
-      "https://lobste.rs/s/qwmp4m/rate_limiting_cells_gcra"
-    ],
-    [
-      "Rate Limiting, Cells, and GCRA",
-      "https://brandur.org/rate-limiting"
     ]
   ],
   [
