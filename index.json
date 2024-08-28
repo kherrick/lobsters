@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 17:35:36",
+      "https://lobste.rs/s/qwmp4m/rate_limiting_cells_gcra"
+    ],
+    [
+      "Rate Limiting, Cells, and GCRA",
+      "https://brandur.org/rate-limiting"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 16:20:56",
       "https://lobste.rs/s/o4sded/next_international_workshop_on_plan_9"
     ],
@@ -77,16 +87,6 @@
     [
       "Typing lists and tuples in Elixir",
       "https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 10:31:51",
-      "https://lobste.rs/s/kxuhbb/launching_flourishcharts_our_new"
-    ],
-    [
-      "Launching flourishcharts, our new interactive data visualization packages for data scientists",
-      "https://www.canva.dev/blog/developers/launching-flourish-charts/"
     ]
   ],
   [
