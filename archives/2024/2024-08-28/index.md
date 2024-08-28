@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 15:13:15](https://lobste.rs/s/7anlbp/slow_evaporation_free_open_source) - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
 * [2024-08-28, 14:31:05](https://lobste.rs/s/eiaeba/libolm_deprecation) - [Libolm Deprecation](https://matrix.org/blog/2024/08/libolm-deprecation/)
 * [2024-08-28, 14:13:30](https://lobste.rs/s/c0yegz/data_puppy_shrinking_data_dog_costs_part) - [Data Puppy — Shrinking Data Dog Costs | Part III](https://cherkaskyb.medium.com/data-puppy-shrinking-data-dog-costs-part-iii-4701a7d70ff6)
 * [2024-08-28, 13:57:15](https://lobste.rs/s/gsdtqr/why_structured_concurrency) - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)

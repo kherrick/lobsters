@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-28, 15:13:15](https://lobste.rs/s/7anlbp/slow_evaporation_free_open_source) - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
 * [2024-08-28, 14:31:05](https://lobste.rs/s/eiaeba/libolm_deprecation) - [Libolm Deprecation](https://matrix.org/blog/2024/08/libolm-deprecation/)
 * [2024-08-28, 14:13:30](https://lobste.rs/s/c0yegz/data_puppy_shrinking_data_dog_costs_part) - [Data Puppy — Shrinking Data Dog Costs | Part III](https://cherkaskyb.medium.com/data-puppy-shrinking-data-dog-costs-part-iii-4701a7d70ff6)
 * [2024-08-28, 13:57:15](https://lobste.rs/s/gsdtqr/why_structured_concurrency) - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)
 * [2024-08-28, 12:16:49](https://lobste.rs/s/gmeptf/typing_lists_tuples_elixir) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
-* [2024-08-28, 10:31:51](https://lobste.rs/s/kxuhbb/launching_flourishcharts_our_new) - [Launching flourishcharts, our new interactive data visualization packages for data scientists](https://www.canva.dev/blog/developers/launching-flourish-charts/)
 * [2024-08-28, 10:10:57](https://lobste.rs/s/7pl22w/improving_notion_s_browser_performance) - [Improving Notion's browser performance with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-08-28, 09:15:25](https://lobste.rs/s/cvowms/zotero_redesigned) - [Zotero, redesigned](https://www.zotero.org/blog/zotero-7/)
 * [2024-08-28, 08:32:51](https://lobste.rs/s/ug0t5g/wp2hugo_best_wordpress_hugo_migrator) - [wp2hugo: best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
