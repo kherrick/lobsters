@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 12:16:49",
+      "https://lobste.rs/s/gmeptf/typing_lists_tuples_elixir"
+    ],
+    [
+      "Typing lists and tuples in Elixir",
+      "https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 10:40:09",
       "https://lobste.rs/s/zkfxlz/cheriot_study_cheri"
     ],
@@ -197,16 +207,6 @@
     [
       "How we run migrations across 2,800 microservices",
       "https://monzo.com/blog/how-we-run-migrations-across-2800-microservices"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 09:46:33",
-      "https://lobste.rs/s/jptnkm/using_dtrace_with_sip_enabled"
-    ],
-    [
-      "Using dtrace with SIP enabled",
-      "https://poweruser.blog/using-dtrace-with-sip-enabled-3826a352e64b"
     ]
   ],
   [
