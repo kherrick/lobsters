@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-28, 02:02:35](https://lobste.rs/s/fs83ul/cpython_compiler_hardening) - [CPython Compiler Hardening](http://nohlson.com/blog/CPython-Compiler-Hardening-Summer-Retrospective/)
 * [2024-08-28, 00:14:49](https://lobste.rs/s/0xhsus/tesla_s_ttpoe_at_hot_chips_2024_replacing) - [Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for low latency applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 * [2024-08-27, 21:15:13](https://lobste.rs/s/d4g3bs/there_can_t_be_only_one) - [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 * [2024-08-27, 20:51:35](https://lobste.rs/s/mb7gm5/state_time_are_same_thing) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
@@ -22,7 +23,6 @@
 * [2024-08-27, 09:11:38](https://lobste.rs/s/ghv4rm/box64_risc_v_2024) - [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 08:30:57](https://lobste.rs/s/ve4ihn/ast_grep_structural_search_rewrite_tool) - [ast-grep | structural search/rewrite tool for many languages](https://ast-grep.github.io/)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
-* [2024-08-26, 18:58:38](https://lobste.rs/s/hilypo/sovereign_tech_fund_invest_686_400) - [Sovereign Tech Fund to Invest €686,400 in FreeBSD Infrastructure Modernization](https://freebsdfoundation.org/blog/sovereign-tech-fund-to-invest-e686400-in-freebsd-infrastructure-modernization/)
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 * [2024-08-26, 11:45:21](https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if) - [Don’t use complex expressions in if conditions](https://maximullaris.com/if_condition.html)
 
