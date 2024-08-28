@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-28, 14:31:05](https://lobste.rs/s/eiaeba/libolm_deprecation) - [Libolm Deprecation](https://matrix.org/blog/2024/08/libolm-deprecation/)
 * [2024-08-28, 14:13:30](https://lobste.rs/s/c0yegz/data_puppy_shrinking_data_dog_costs_part) - [Data Puppy — Shrinking Data Dog Costs | Part III](https://cherkaskyb.medium.com/data-puppy-shrinking-data-dog-costs-part-iii-4701a7d70ff6)
 * [2024-08-28, 13:57:15](https://lobste.rs/s/gsdtqr/why_structured_concurrency) - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)
 * [2024-08-28, 12:16:49](https://lobste.rs/s/gmeptf/typing_lists_tuples_elixir) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
@@ -24,7 +25,6 @@
 * [2024-08-27, 10:06:37](https://lobste.rs/s/kevb8r/how_we_run_migrations_across_2_800) - [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
 * [2024-08-27, 09:15:20](https://lobste.rs/s/02nsjr/vanilla_prime_simpler_more_sustainable) - [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
-* [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 
 ## [Archives](archives/index.md)
 
