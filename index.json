@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 02:43:47",
+      "https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes"
+    ],
+    [
+      "Rust dylib rabbit holes",
+      "https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 02:02:35",
       "https://lobste.rs/s/fs83ul/cpython_compiler_hardening"
     ],
@@ -237,16 +247,6 @@
     [
       "Wrap your dependencies",
       "https://thoughtbot.com/blog/wrap-your-dependencies"
-    ]
-  ],
-  [
-    [
-      "2024-08-26, 11:45:21",
-      "https://lobste.rs/s/hqf98s/don_t_use_complex_expressions_if"
-    ],
-    [
-      "Don’t use complex expressions in if conditions",
-      "https://maximullaris.com/if_condition.html"
     ]
   ]
 ]
