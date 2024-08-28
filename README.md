@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-28, 16:20:56](https://lobste.rs/s/o4sded/next_international_workshop_on_plan_9) - [The next International Workshop on Plan 9 will be held in Paris in may 2025](http://iwp9.org/)
 * [2024-08-28, 15:57:19](https://lobste.rs/s/34n6nl/gamengen) - [GameNGen](https://gamengen.github.io/)
 * [2024-08-28, 15:55:44](https://lobste.rs/s/ydxpi2/open_source_fine_grained_authorization) - [Open-source fine-grained authorization service inspired by Google Zanzibar](https://github.com/Permify/permify)
 * [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
 * [2024-08-28, 15:13:15](https://lobste.rs/s/7anlbp/slow_evaporation_free_open_source) - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
 * [2024-08-28, 14:31:05](https://lobste.rs/s/eiaeba/libolm_deprecation) - [Libolm Deprecation](https://matrix.org/blog/2024/08/libolm-deprecation/)
-* [2024-08-28, 14:13:30](https://lobste.rs/s/c0yegz/data_puppy_shrinking_data_dog_costs_part) - [Data Puppy — Shrinking Data Dog Costs | Part III](https://cherkaskyb.medium.com/data-puppy-shrinking-data-dog-costs-part-iii-4701a7d70ff6)
 * [2024-08-28, 13:57:15](https://lobste.rs/s/gsdtqr/why_structured_concurrency) - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)
 * [2024-08-28, 12:16:49](https://lobste.rs/s/gmeptf/typing_lists_tuples_elixir) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 10:31:51](https://lobste.rs/s/kxuhbb/launching_flourishcharts_our_new) - [Launching flourishcharts, our new interactive data visualization packages for data scientists](https://www.canva.dev/blog/developers/launching-flourish-charts/)

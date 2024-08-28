@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 16:20:56](https://lobste.rs/s/o4sded/next_international_workshop_on_plan_9) - [The next International Workshop on Plan 9 will be held in Paris in may 2025](http://iwp9.org/)
 * [2024-08-28, 15:57:19](https://lobste.rs/s/34n6nl/gamengen) - [GameNGen](https://gamengen.github.io/)
 * [2024-08-28, 15:55:44](https://lobste.rs/s/ydxpi2/open_source_fine_grained_authorization) - [Open-source fine-grained authorization service inspired by Google Zanzibar](https://github.com/Permify/permify)
 * [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
