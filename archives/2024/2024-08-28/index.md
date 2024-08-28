@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 23:43:21](https://lobste.rs/s/ffqvah/judge_dismisses_majority_github_copilot) - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:59:31](https://lobste.rs/s/ijxsix/pypy_v7_3_17_release) - [PyPy v7.3.17 release](https://pypy.org/posts/2024/08/pypy-v7317-release.html)
 * [2024-08-28, 18:26:22](https://lobste.rs/s/zawzkf/cloud_actor_oriented_database) - [Cloud Actor-Oriented Database Transactions in Orleans](https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf)
