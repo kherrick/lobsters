@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 10:31:51](https://lobste.rs/s/kxuhbb/launching_flourishcharts_our_new) - [Launching flourishcharts, our new interactive data visualization packages for data scientists](https://www.canva.dev/blog/developers/launching-flourish-charts/)
 * [2024-08-28, 10:10:57](https://lobste.rs/s/7pl22w/improving_notion_s_browser_performance) - [Improving Notion's browser performance with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-08-28, 09:15:25](https://lobste.rs/s/cvowms/zotero_redesigned) - [Zotero, redesigned](https://www.zotero.org/blog/zotero-7/)
 * [2024-08-28, 08:32:51](https://lobste.rs/s/ug0t5g/wp2hugo_best_wordpress_hugo_migrator) - [wp2hugo: best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)

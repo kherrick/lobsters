@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-28, 10:31:51](https://lobste.rs/s/kxuhbb/launching_flourishcharts_our_new) - [Launching flourishcharts, our new interactive data visualization packages for data scientists](https://www.canva.dev/blog/developers/launching-flourish-charts/)
 * [2024-08-28, 10:10:57](https://lobste.rs/s/7pl22w/improving_notion_s_browser_performance) - [Improving Notion's browser performance with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-08-28, 09:15:25](https://lobste.rs/s/cvowms/zotero_redesigned) - [Zotero, redesigned](https://www.zotero.org/blog/zotero-7/)
 * [2024-08-28, 08:32:51](https://lobste.rs/s/ug0t5g/wp2hugo_best_wordpress_hugo_migrator) - [wp2hugo: best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
@@ -22,7 +23,6 @@
 * [2024-08-27, 09:46:33](https://lobste.rs/s/jptnkm/using_dtrace_with_sip_enabled) - [Using dtrace with SIP enabled](https://poweruser.blog/using-dtrace-with-sip-enabled-3826a352e64b)
 * [2024-08-27, 09:15:20](https://lobste.rs/s/02nsjr/vanilla_prime_simpler_more_sustainable) - [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
 * [2024-08-27, 09:11:38](https://lobste.rs/s/ghv4rm/box64_risc_v_2024) - [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
-* [2024-08-27, 08:30:57](https://lobste.rs/s/ve4ihn/ast_grep_structural_search_rewrite_tool) - [ast-grep | structural search/rewrite tool for many languages](https://ast-grep.github.io/)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 
