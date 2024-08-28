@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-08-28, 02:43:47](https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes) - [Rust dylib rabbit holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
-* [2024-08-28, 02:02:35](https://lobste.rs/s/fs83ul/cpython_compiler_hardening) - [CPython Compiler Hardening](http://nohlson.com/blog/CPython-Compiler-Hardening-Summer-Retrospective/)
+* [2024-08-28, 00:51:46](https://lobste.rs/s/btp8fg/compiler_front_end_infrastructure) - [Compiler front-end infrastructure](https://github.com/Eliah-Lakhin/lady-deirdre)
 * [2024-08-28, 00:14:49](https://lobste.rs/s/0xhsus/tesla_s_ttpoe_at_hot_chips_2024_replacing) - [Tesla’s TTPoE at Hot Chips 2024: Replacing TCP for low latency applications](https://chipsandcheese.com/2024/08/27/teslas-ttpoe-at-hot-chips-2024-replacing-tcp-for-low-latency-applications/)
 * [2024-08-27, 21:15:13](https://lobste.rs/s/d4g3bs/there_can_t_be_only_one) - [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 * [2024-08-27, 20:51:35](https://lobste.rs/s/mb7gm5/state_time_are_same_thing) - [State and time are the same thing](https://buttondown.com/hillelwayne/archive/state-and-time-are-the-same-thing/)
