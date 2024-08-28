@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-28, 08:32:51",
+      "https://lobste.rs/s/ug0t5g/wp2hugo_best_wordpress_hugo_migrator"
+    ],
+    [
+      "wp2hugo: best WordPress to Hugo migrator (written in Go)",
+      "https://github.com/ashishb/wp2hugo"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 06:23:43",
       "https://lobste.rs/s/h5vxw9/chunksync_space_efficient_incremental"
     ],
@@ -137,16 +147,6 @@
     [
       "MiniJinja: Learnings from Building a Template Engine in Rust",
       "https://lucumr.pocoo.org/2024/8/27/minijinja/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 13:57:03",
-      "https://lobste.rs/s/tf1wmc/electric_clojure_v3_differential"
-    ],
-    [
-      "Electric Clojure v3: Differential Dataflow for UI",
-      "https://youtube.com/watch?v=mP9e_FDjHLU"
     ]
   ],
   [
