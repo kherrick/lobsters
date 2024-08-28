@@ -21,9 +21,9 @@
 * [2024-08-27, 17:49:57](https://lobste.rs/s/bfsatm/function_types_nix) - [Function Types in Nix](https://garnix.io/blog/typed-function-types)
 * [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
-* [2024-08-27, 17:13:03](https://lobste.rs/s/yye0ch/evaluating_process_manager) - [Evaluating a process manager](https://tinkering.xyz/evaluating-process-manager/)
 * [2024-08-27, 10:47:28](https://lobste.rs/s/eadhah/working_with_protobuf_2024) - [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
 * [2024-08-27, 10:12:04](https://lobste.rs/s/hwkbk2/clay_high_performance_ui_layout_library_c) - [Clay: high performance UI layout library in C](https://github.com/nicbarker/clay)
+* [2024-08-27, 10:06:37](https://lobste.rs/s/kevb8r/how_we_run_migrations_across_2_800) - [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
 
 ## [Archives](archives/index.md)
