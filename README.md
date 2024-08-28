@@ -6,6 +6,7 @@
 * [2024-08-28, 10:10:57](https://lobste.rs/s/7pl22w/improving_notion_s_browser_performance) - [Improving Notion's browser performance with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-08-28, 09:15:25](https://lobste.rs/s/cvowms/zotero_redesigned) - [Zotero, redesigned](https://www.zotero.org/blog/zotero-7/)
 * [2024-08-28, 08:32:51](https://lobste.rs/s/ug0t5g/wp2hugo_best_wordpress_hugo_migrator) - [wp2hugo: best WordPress to Hugo migrator (written in Go)](https://github.com/ashishb/wp2hugo)
+* [2024-08-28, 04:35:15](https://lobste.rs/s/oaohoa/go_1_23_s_new_unique_package) - [Go 1.23's new unique package](https://go.dev/blog/unique)
 * [2024-08-28, 02:43:47](https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes) - [Rust dylib rabbit holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
 * [2024-08-28, 02:02:35](https://lobste.rs/s/fs83ul/cpython_compiler_hardening) - [CPython Compiler Hardening](http://nohlson.com/blog/CPython-Compiler-Hardening-Summer-Retrospective/)
 * [2024-08-28, 00:51:46](https://lobste.rs/s/btp8fg/compiler_front_end_infrastructure) - [Compiler front-end infrastructure](https://github.com/Eliah-Lakhin/lady-deirdre)
@@ -22,7 +23,6 @@
 * [2024-08-27, 10:12:04](https://lobste.rs/s/hwkbk2/clay_high_performance_ui_layout_library_c) - [Clay: high performance UI layout library in C](https://github.com/nicbarker/clay)
 * [2024-08-27, 10:06:37](https://lobste.rs/s/kevb8r/how_we_run_migrations_across_2_800) - [How we run migrations across 2,800 microservices](https://monzo.com/blog/how-we-run-migrations-across-2800-microservices)
 * [2024-08-27, 09:15:20](https://lobste.rs/s/02nsjr/vanilla_prime_simpler_more_sustainable) - [Vanilla Prime: A simpler, more sustainable way of web development](https://github.com/morris/vanilla-prime)
-* [2024-08-27, 09:11:38](https://lobste.rs/s/ghv4rm/box64_risc_v_2024) - [Box64 and RISC-V in 2024](https://box86.org/2024/08/box64-and-risc-v-in-2024/)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
 * [2024-08-26, 17:11:48](https://lobste.rs/s/9nnrjw/wrap_your_dependencies) - [Wrap your dependencies](https://thoughtbot.com/blog/wrap-your-dependencies)
 
