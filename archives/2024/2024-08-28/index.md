@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-28](index.md)
 
+* [2024-08-28, 12:16:49](https://lobste.rs/s/gmeptf/typing_lists_tuples_elixir) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 10:40:09](https://lobste.rs/s/zkfxlz/cheriot_study_cheri) - [CHERIoT: A Study in CHERI](https://riscv.org/blog/2024/08/cheriot-a-study-in-cheri/)
 * [2024-08-28, 10:31:51](https://lobste.rs/s/kxuhbb/launching_flourishcharts_our_new) - [Launching flourishcharts, our new interactive data visualization packages for data scientists](https://www.canva.dev/blog/developers/launching-flourish-charts/)
 * [2024-08-28, 10:10:57](https://lobste.rs/s/7pl22w/improving_notion_s_browser_performance) - [Improving Notion's browser performance with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
