@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-08-29, 15:14:36",
+      "https://lobste.rs/s/bj9ors/build_host_target_explained"
+    ],
+    [
+      "--build, --host and --target explained",
+      "https://www.marcusfolkesson.se/blog/build-host-and-target-explained/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 14:34:14",
       "https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it"
     ],
@@ -217,16 +227,6 @@
     [
       "Development of an Experimental Devboard for a Frugal Smartphone at Inria",
       "https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 22:09:21",
-      "https://lobste.rs/s/y9f97s/future_tla"
-    ],
-    [
-      "The Future of TLA+",
-      "https://lamport.azurewebsites.net/tla/future.pdf"
     ]
   ],
   [
