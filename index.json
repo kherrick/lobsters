@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-29, 20:15:34",
+      "https://lobste.rs/s/sfemru/nibble_cyberspace_digipres_adventures"
+    ],
+    [
+      "Nibble in Cyberspace: Digipres Adventures, Vol 1",
+      "https://exponentialdecay.co.uk/blog/nibble-in-cyberspace-digipres-adventures-vol-1/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 19:29:38",
       "https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells"
     ],
@@ -87,16 +97,6 @@
     [
       "BinaryFormatter removed from .NET 9",
       "https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 13:07:57",
-      "https://lobste.rs/s/ugpngx/easy_network_performance_wins_with_irq"
-    ],
-    [
-      "Easy network performance wins with IRQ coalescing (2020)",
-      "https://people.kernel.org/kuba/easy-network-performance-wins-with-irq-coalescing"
     ]
   ],
   [
@@ -195,7 +195,7 @@
       "https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project"
     ],
     [
-      "Retiring from the Rust for Linux project - Wedson Almeida Filho",
+      "Retiring from the Rust for Linux project",
       "https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/"
     ]
   ],
