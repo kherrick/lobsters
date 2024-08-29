@@ -2,6 +2,7 @@
 
 * [2024-08-29, 21:18:07](https://lobste.rs/s/bqpwz9/secret_inside_one_million_checkboxes) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:02:24](https://lobste.rs/s/8m3c3k/man_vs_ai_optimizing_javascript) - [Man vs. AI: optimizing JavaScript](https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html)
+* [2024-08-29, 20:39:30](https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [2024-08-29, 19:29:38](https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells) - [wush - p2p wireguard file transfers, shells, and more](https://github.com/coder/wush)
 * [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
@@ -19,7 +20,6 @@
 * [2024-08-29, 08:45:27](https://lobste.rs/s/qhafyy/immutable_systems_nixos_systemd_repart) - [Immutable Systems: NixOS + systemd-repart + systemd-sysupdate](https://x86.lol/generic/2024/08/28/systemd-sysupdate.html)
 * [2024-08-29, 08:37:04](https://lobste.rs/s/jqgb4m/i_just_crossed_1_million_on_github) - [I just crossed $1 million on GitHub Sponsors](https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook)
 * [2024-08-29, 07:45:03](https://lobste.rs/s/1ejow9/introducing_alacrity_federated) - [Introducing Alacrity to Federated Cryptography](https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/)
-* [2024-08-29, 07:23:14](https://lobste.rs/s/pywrnr/aya_dev_proof_assistant_dependently) - [aya-dev: A proof assistant and a dependently-typed language](https://github.com/aya-prover/aya-dev)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
 * [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)

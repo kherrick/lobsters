@@ -6,6 +6,7 @@
 
 * [2024-08-29, 21:18:07](https://lobste.rs/s/bqpwz9/secret_inside_one_million_checkboxes) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:02:24](https://lobste.rs/s/8m3c3k/man_vs_ai_optimizing_javascript) - [Man vs. AI: optimizing JavaScript](https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html)
+* [2024-08-29, 20:39:30](https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [2024-08-29, 20:15:34](https://lobste.rs/s/sfemru/nibble_cyberspace_digipres_adventures) - [Nibble in Cyberspace: Digipres Adventures, Vol 1](https://exponentialdecay.co.uk/blog/nibble-in-cyberspace-digipres-adventures-vol-1/)
 * [2024-08-29, 19:29:38](https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells) - [wush - p2p wireguard file transfers, shells, and more](https://github.com/coder/wush)
 * [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)
