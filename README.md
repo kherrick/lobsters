@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project - Wedson Almeida Filho](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
 * [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
 * [2024-08-29, 04:33:06](https://lobste.rs/s/0x271d/rossfest_symposium_festschrift_memory) - [Rossfest Symposium and Festschrift in memory of Ross Anderson](https://www.cl.cam.ac.uk/events/rossfest/)
 * [2024-08-29, 02:24:18](https://lobste.rs/s/tie1ao/compilation_javascript_wasm_part_3) - [Compilation of JavaScript to Wasm, part 3: Partial evaluation](https://cfallin.org/blog/2024/08/28/weval/)
@@ -8,7 +9,6 @@
 * [2024-08-28, 23:43:21](https://lobste.rs/s/ffqvah/judge_dismisses_majority_github_copilot) - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:59:31](https://lobste.rs/s/ijxsix/pypy_v7_3_17_release) - [PyPy v7.3.17 release](https://pypy.org/posts/2024/08/pypy-v7317-release.html)
-* [2024-08-28, 18:26:22](https://lobste.rs/s/zawzkf/cloud_actor_oriented_database) - [Cloud Actor-Oriented Database Transactions in Orleans](https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf)
 * [2024-08-28, 17:35:36](https://lobste.rs/s/qwmp4m/rate_limiting_cells_gcra) - [Rate Limiting, Cells, and GCRA](https://brandur.org/rate-limiting)
 * [2024-08-28, 16:20:56](https://lobste.rs/s/o4sded/next_international_workshop_on_plan_9) - [The next International Workshop on Plan 9 will be held in Paris in may 2025](http://iwp9.org/)
 * [2024-08-28, 15:57:19](https://lobste.rs/s/34n6nl/gamengen) - [GameNGen](https://gamengen.github.io/)
