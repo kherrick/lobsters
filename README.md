@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 21:18:07](https://lobste.rs/s/bqpwz9/secret_inside_one_million_checkboxes) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:02:24](https://lobste.rs/s/8m3c3k/man_vs_ai_optimizing_javascript) - [Man vs. AI: optimizing JavaScript](https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html)
 * [2024-08-29, 19:29:38](https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells) - [wush - p2p wireguard file transfers, shells, and more](https://github.com/coder/wush)
 * [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)
@@ -24,7 +25,6 @@
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
 * [2024-08-28, 15:13:15](https://lobste.rs/s/7anlbp/slow_evaporation_free_open_source) - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
-* [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
 ## [Archives](archives/index.md)
 
