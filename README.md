@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
 * [2024-08-29, 04:33:06](https://lobste.rs/s/0x271d/rossfest_symposium_festschrift_memory) - [Rossfest Symposium and Festschrift in memory of Ross Anderson](https://www.cl.cam.ac.uk/events/rossfest/)
 * [2024-08-29, 02:24:18](https://lobste.rs/s/tie1ao/compilation_javascript_wasm_part_3) - [Compilation of JavaScript to Wasm, part 3: Partial evaluation](https://cfallin.org/blog/2024/08/28/weval/)
 * [2024-08-29, 01:17:37](https://lobste.rs/s/jv4tpe/q_numbers_redux) - [Q Numbers Redux](https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2)
@@ -22,7 +23,6 @@
 * [2024-08-28, 02:43:47](https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes) - [Rust dylib rabbit holes](https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html)
 * [2024-08-27, 21:15:13](https://lobste.rs/s/d4g3bs/there_can_t_be_only_one) - [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
-* [2024-08-27, 17:49:57](https://lobste.rs/s/bfsatm/function_types_nix) - [Function Types in Nix](https://garnix.io/blog/typed-function-types)
 * [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
