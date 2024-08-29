@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 15:14:36](https://lobste.rs/s/bj9ors/build_host_target_explained) - [--build, --host and --target explained](https://www.marcusfolkesson.se/blog/build-host-and-target-explained/)
+* [2024-08-29, 15:11:56](https://lobste.rs/s/7puewz/getting_started_with_nix_for_haskell) - [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/)
 * [2024-08-29, 14:34:14](https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it) - [Go sync.Pool and the Mechanics Behind It](https://victoriametrics.com/blog/go-sync-pool/)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 13:23:47](https://lobste.rs/s/9qje32/binaryformatter_removed_from_net_9) - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/)
@@ -15,10 +17,8 @@
 * [2024-08-29, 07:23:14](https://lobste.rs/s/pywrnr/aya_dev_proof_assistant_dependently) - [aya-dev: A proof assistant and a dependently-typed language](https://github.com/aya-prover/aya-dev)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project - Wedson Almeida Filho](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
 * [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
-* [2024-08-29, 02:24:18](https://lobste.rs/s/tie1ao/compilation_javascript_wasm_part_3) - [Compilation of JavaScript to Wasm, part 3: Partial evaluation](https://cfallin.org/blog/2024/08/28/weval/)
 * [2024-08-29, 01:17:37](https://lobste.rs/s/jv4tpe/q_numbers_redux) - [Q Numbers Redux](https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2)
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)
-* [2024-08-28, 18:59:31](https://lobste.rs/s/ijxsix/pypy_v7_3_17_release) - [PyPy v7.3.17 release](https://pypy.org/posts/2024/08/pypy-v7317-release.html)
 * [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
 * [2024-08-28, 15:13:15](https://lobste.rs/s/7anlbp/slow_evaporation_free_open_source) - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
 * [2024-08-28, 13:57:15](https://lobste.rs/s/gsdtqr/why_structured_concurrency) - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)

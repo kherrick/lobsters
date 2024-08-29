@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 15:14:36](https://lobste.rs/s/bj9ors/build_host_target_explained) - [--build, --host and --target explained](https://www.marcusfolkesson.se/blog/build-host-and-target-explained/)
+* [2024-08-29, 15:11:56](https://lobste.rs/s/7puewz/getting_started_with_nix_for_haskell) - [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/)
 * [2024-08-29, 14:34:14](https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it) - [Go sync.Pool and the Mechanics Behind It](https://victoriametrics.com/blog/go-sync-pool/)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 13:23:47](https://lobste.rs/s/9qje32/binaryformatter_removed_from_net_9) - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/)
