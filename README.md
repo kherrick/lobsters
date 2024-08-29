@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 08:37:04](https://lobste.rs/s/jqgb4m/i_just_crossed_1_million_on_github) - [I just crossed $1 million on GitHub Sponsors](https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook)
 * [2024-08-29, 07:45:03](https://lobste.rs/s/1ejow9/introducing_alacrity_federated) - [Introducing Alacrity to Federated Cryptography](https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/)
 * [2024-08-29, 07:23:14](https://lobste.rs/s/pywrnr/aya_dev_proof_assistant_dependently) - [aya-dev: A proof assistant and a dependently-typed language](https://github.com/aya-prover/aya-dev)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project - Wedson Almeida Filho](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
@@ -23,7 +24,6 @@
 * [2024-08-28, 04:35:15](https://lobste.rs/s/oaohoa/go_1_23_s_new_unique_package) - [Go 1.23's new unique package](https://go.dev/blog/unique)
 * [2024-08-27, 21:15:13](https://lobste.rs/s/d4g3bs/there_can_t_be_only_one) - [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 * [2024-08-27, 19:19:31](https://lobste.rs/s/sojfse/winehq_takes_over_stewardship_mono) - [WineHQ takes over stewardship of Mono](https://www.mono-project.com/)
-* [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
 ## [Archives](archives/index.md)
