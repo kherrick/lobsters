@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-08-29, 15:52:11",
-      "https://lobste.rs/s/10qoua/2030_rust_update"
-    ],
-    [
-      "The 2030 Rust Update",
-      "https://mbuffett.com/posts/rust-2030/"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 15:28:25",
       "https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released"
     ],
@@ -97,6 +87,16 @@
     [
       "BinaryFormatter removed from .NET 9",
       "https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 13:07:57",
+      "https://lobste.rs/s/ugpngx/easy_network_performance_wins_with_irq"
+    ],
+    [
+      "Easy network performance wins with IRQ coalescing (2020)",
+      "https://people.kernel.org/kuba/easy-network-performance-wins-with-irq-coalescing"
     ]
   ],
   [
