@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-29, 15:52:11](https://lobste.rs/s/10qoua/2030_rust_update) - [The 2030 Rust Update](https://mbuffett.com/posts/rust-2030/)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 15:21:06](https://lobste.rs/s/ykutpn/can_you_convert_video_pure_css) - [Can you convert a video to pure css?](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css)
 * [2024-08-29, 15:11:56](https://lobste.rs/s/7puewz/getting_started_with_nix_for_haskell) - [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/)
@@ -19,6 +18,7 @@
 * [2024-08-29, 07:23:14](https://lobste.rs/s/pywrnr/aya_dev_proof_assistant_dependently) - [aya-dev: A proof assistant and a dependently-typed language](https://github.com/aya-prover/aya-dev)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project - Wedson Almeida Filho](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
 * [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
+* [2024-08-29, 01:17:37](https://lobste.rs/s/jv4tpe/q_numbers_redux) - [Q Numbers Redux](https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2)
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
 * [2024-08-28, 15:13:15](https://lobste.rs/s/7anlbp/slow_evaporation_free_open_source) - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
