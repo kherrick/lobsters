@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 13:07:57](https://lobste.rs/s/ugpngx/easy_network_performance_wins_with_irq) - [Easy network performance wins with IRQ coalescing (2020)](https://people.kernel.org/kuba/easy-network-performance-wins-with-irq-coalescing)
+* [2024-08-29, 13:05:26](https://lobste.rs/s/40z1a9/how_i_learned_stop_worrying_love) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
 * [2024-08-29, 12:42:42](https://lobste.rs/s/7oqzre/farewell_pandas_thanks_for_all_fish) - [Farewell pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
 * [2024-08-29, 11:37:06](https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share) - [mup: A micro web file uploader to easily share files over LAN](https://github.com/aziis98/mup)
 * [2024-08-29, 10:24:12](https://lobste.rs/s/dcizyh/chat_control_eu_s_csem_scanner_proposal) - [Chat Control: The EU's CSEM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
