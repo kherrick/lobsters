@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)
 * [2024-08-29, 19:03:23](https://lobste.rs/s/odmiju/orphaning_bcachefs_tools_debian) - [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 16:59:43](https://lobste.rs/s/mangyj/signal_is_more_than_encrypted_messaging) - [Signal is More Than Encrypted Messaging](https://www.wired.com/story/meredith-whittaker-signal/)
