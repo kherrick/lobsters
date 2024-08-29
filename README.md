@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 13:23:47](https://lobste.rs/s/9qje32/binaryformatter_removed_from_net_9) - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/)
 * [2024-08-29, 13:07:57](https://lobste.rs/s/ugpngx/easy_network_performance_wins_with_irq) - [Easy network performance wins with IRQ coalescing (2020)](https://people.kernel.org/kuba/easy-network-performance-wins-with-irq-coalescing)
 * [2024-08-29, 13:05:26](https://lobste.rs/s/40z1a9/how_i_learned_stop_worrying_love) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
 * [2024-08-29, 12:42:42](https://lobste.rs/s/7oqzre/farewell_pandas_thanks_for_all_fish) - [Farewell pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
@@ -22,7 +23,6 @@
 * [2024-08-28, 14:31:05](https://lobste.rs/s/eiaeba/libolm_deprecation) - [Libolm Deprecation](https://matrix.org/blog/2024/08/libolm-deprecation/)
 * [2024-08-28, 13:57:15](https://lobste.rs/s/gsdtqr/why_structured_concurrency) - [Why structured concurrency?](https://bower.sh/why-structured-concurrency)
 * [2024-08-28, 12:16:49](https://lobste.rs/s/gmeptf/typing_lists_tuples_elixir) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
-* [2024-08-28, 10:10:57](https://lobste.rs/s/7pl22w/improving_notion_s_browser_performance) - [Improving Notion's browser performance with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-08-28, 09:15:25](https://lobste.rs/s/cvowms/zotero_redesigned) - [Zotero, redesigned](https://www.zotero.org/blog/zotero-7/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
