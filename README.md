@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 02:24:18](https://lobste.rs/s/tie1ao/compilation_javascript_wasm_part_3) - [Compilation of JavaScript to Wasm, part 3: Partial evaluation](https://cfallin.org/blog/2024/08/28/weval/)
 * [2024-08-29, 01:17:37](https://lobste.rs/s/jv4tpe/q_numbers_redux) - [Q Numbers Redux](https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2)
 * [2024-08-29, 00:00:51](https://lobste.rs/s/afhefn/computer_scientists_discover) - [Computer Scientists Discover Vulnerabilities in RADIUS](https://today.ucsd.edu/story/computer-scientists-discover-vulnerabilities-in-a-popular-security-protocol)
 * [2024-08-28, 23:43:21](https://lobste.rs/s/ffqvah/judge_dismisses_majority_github_copilot) - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
@@ -23,7 +24,6 @@
 * [2024-08-27, 17:49:57](https://lobste.rs/s/bfsatm/function_types_nix) - [Function Types in Nix](https://garnix.io/blog/typed-function-types)
 * [2024-08-27, 17:35:19](https://lobste.rs/s/9ck6y9/what_programming_language_is_this_code) - [What programming language is in this <code> block?](https://shkspr.mobi/blog/2024/08/what-programming-language-is-in-this-code-block/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
-* [2024-08-27, 10:47:28](https://lobste.rs/s/eadhah/working_with_protobuf_2024) - [Working with Protobuf in 2024](https://kmcd.dev/posts/working-with-protobuf-in-2024/)
 * [2024-08-27, 08:27:35](https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your) - [You're not mature enough to release your first version as v1](https://www.jvt.me/posts/2024/08/26/v0/)
 
 ## [Archives](archives/index.md)
