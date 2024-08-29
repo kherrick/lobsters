@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-29, 06:26:11",
+      "https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project"
+    ],
+    [
+      "Retiring from the Rust for Linux project - Wedson Almeida Filho",
+      "https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 06:12:23",
       "https://lobste.rs/s/m9hcst/development_experimental_devboard_for"
     ],
@@ -77,16 +87,6 @@
     [
       "PyPy v7.3.17 release",
       "https://pypy.org/posts/2024/08/pypy-v7317-release.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 18:26:22",
-      "https://lobste.rs/s/zawzkf/cloud_actor_oriented_database"
-    ],
-    [
-      "Cloud Actor-Oriented Database Transactions in Orleans",
-      "https://www.vldb.org/pvldb/vol17/p3720-eldeeb.pdf"
     ]
   ],
   [
