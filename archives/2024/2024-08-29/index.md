@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-08-29](index.md)
+
+* [2024-08-29, 00:00:51](https://lobste.rs/s/afhefn/computer_scientists_discover) - [Computer Scientists Discover Vulnerabilities in RADIUS](https://today.ucsd.edu/story/computer-scientists-discover-vulnerabilities-in-a-popular-security-protocol)
