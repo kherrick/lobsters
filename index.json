@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-29, 14:34:14",
+      "https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it"
+    ],
+    [
+      "Go sync.Pool and the Mechanics Behind It",
+      "https://victoriametrics.com/blog/go-sync-pool/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 13:32:27",
       "https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think"
     ],
@@ -147,16 +157,6 @@
     [
       "Q Numbers Redux",
       "https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 23:43:21",
-      "https://lobste.rs/s/ffqvah/judge_dismisses_majority_github_copilot"
-    ],
-    [
-      "Judge dismisses majority of GitHub Copilot copyright claims",
-      "https://lwn.net/Articles/987524/"
     ]
   ],
   [
