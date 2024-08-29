@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-29, 07:23:14",
+      "https://lobste.rs/s/pywrnr/aya_dev_proof_assistant_dependently"
+    ],
+    [
+      "aya-dev: A proof assistant and a dependently-typed language",
+      "https://github.com/aya-prover/aya-dev"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 06:26:11",
       "https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project"
     ],
@@ -197,16 +207,6 @@
     [
       "Go 1.23's new unique package",
       "https://go.dev/blog/unique"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 02:43:47",
-      "https://lobste.rs/s/iv6bq5/rust_dylib_rabbit_holes"
-    ],
-    [
-      "Rust dylib rabbit holes",
-      "https://davidlattimore.github.io/posts/2024/08/27/rust-dylib-rabbit-holes.html"
     ]
   ],
   [
