@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-29, 00:00:51",
+      "https://lobste.rs/s/afhefn/computer_scientists_discover"
+    ],
+    [
+      "Computer Scientists Discover Vulnerabilities in RADIUS",
+      "https://today.ucsd.edu/story/computer-scientists-discover-vulnerabilities-in-a-popular-security-protocol"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 23:43:21",
       "https://lobste.rs/s/ffqvah/judge_dismisses_majority_github_copilot"
     ],
@@ -227,16 +237,6 @@
     [
       "Working with Protobuf in 2024",
       "https://kmcd.dev/posts/working-with-protobuf-in-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 10:12:04",
-      "https://lobste.rs/s/hwkbk2/clay_high_performance_ui_layout_library_c"
-    ],
-    [
-      "Clay: high performance UI layout library in C",
-      "https://github.com/nicbarker/clay"
     ]
   ],
   [
