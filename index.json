@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-08-29, 15:14:36",
-      "https://lobste.rs/s/bj9ors/build_host_target_explained"
+      "2024-08-29, 15:28:25",
+      "https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released"
     ],
     [
-      "--build, --host and --target explained",
-      "https://www.marcusfolkesson.se/blog/build-host-and-target-explained/"
+      "GNU Screen v.5.0.0 is released",
+      "https://savannah.gnu.org/news/?id=10668"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 15:21:06",
+      "https://lobste.rs/s/ykutpn/can_you_convert_video_pure_css"
+    ],
+    [
+      "Can you convert a video to pure css?",
+      "https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The slow evaporation of the free/open source surplus",
       "https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 13:57:15",
-      "https://lobste.rs/s/gsdtqr/why_structured_concurrency"
-    ],
-    [
-      "Why structured concurrency?",
-      "https://bower.sh/why-structured-concurrency"
     ]
   ],
   [
