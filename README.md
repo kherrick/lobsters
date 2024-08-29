@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-08-29, 16:59:43](https://lobste.rs/s/mangyj/signal_is_more_than_encrypted_messaging) - [Signal is More Than Encrypted Messaging](https://www.wired.com/story/meredith-whittaker-signal/)
+* [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 15:21:06](https://lobste.rs/s/ykutpn/can_you_convert_video_pure_css) - [Can you convert a video to pure css?](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css)
 * [2024-08-29, 15:11:56](https://lobste.rs/s/7puewz/getting_started_with_nix_for_haskell) - [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/)
