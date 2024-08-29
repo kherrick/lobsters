@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 12:42:42](https://lobste.rs/s/7oqzre/farewell_pandas_thanks_for_all_fish) - [Farewell pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
 * [2024-08-29, 11:37:06](https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share) - [mup: A micro web file uploader to easily share files over LAN](https://github.com/aziis98/mup)
 * [2024-08-29, 10:24:12](https://lobste.rs/s/dcizyh/chat_control_eu_s_csem_scanner_proposal) - [Chat Control: The EU's CSEM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
 * [2024-08-29, 09:29:32](https://lobste.rs/s/w9thbf/objects_have_not_failed_2002) - [Objects Have Not Failed (2002)](https://www.dreamsongs.com/ObjectsHaveNotFailedNarr.html)
@@ -22,7 +23,6 @@
 * [2024-08-28, 12:16:49](https://lobste.rs/s/gmeptf/typing_lists_tuples_elixir) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-28, 10:10:57](https://lobste.rs/s/7pl22w/improving_notion_s_browser_performance) - [Improving Notion's browser performance with WASM SQLite](https://www.notion.so/blog/how-we-sped-up-notion-in-the-browser-with-wasm-sqlite)
 * [2024-08-28, 09:15:25](https://lobste.rs/s/cvowms/zotero_redesigned) - [Zotero, redesigned](https://www.zotero.org/blog/zotero-7/)
-* [2024-08-28, 04:35:15](https://lobste.rs/s/oaohoa/go_1_23_s_new_unique_package) - [Go 1.23's new unique package](https://go.dev/blog/unique)
 * [2024-08-27, 21:15:13](https://lobste.rs/s/d4g3bs/there_can_t_be_only_one) - [There can't be only one](https://www.b-list.org/weblog/2024/aug/27/highlander-problem/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
