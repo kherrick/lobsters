@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 11:37:06](https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share) - [mup: A micro web file uploader to easily share files over LAN](https://github.com/aziis98/mup)
 * [2024-08-29, 10:24:12](https://lobste.rs/s/dcizyh/chat_control_eu_s_csem_scanner_proposal) - [Chat Control: The EU's CSEM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
 * [2024-08-29, 09:29:32](https://lobste.rs/s/w9thbf/objects_have_not_failed_2002) - [Objects Have Not Failed (2002)](https://www.dreamsongs.com/ObjectsHaveNotFailedNarr.html)
 * [2024-08-29, 08:45:27](https://lobste.rs/s/qhafyy/immutable_systems_nixos_systemd_repart) - [Immutable Systems: NixOS + systemd-repart + systemd-sysupdate](https://x86.lol/generic/2024/08/28/systemd-sysupdate.html)

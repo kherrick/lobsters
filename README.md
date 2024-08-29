@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 11:37:06](https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share) - [mup: A micro web file uploader to easily share files over LAN](https://github.com/aziis98/mup)
 * [2024-08-29, 10:24:12](https://lobste.rs/s/dcizyh/chat_control_eu_s_csem_scanner_proposal) - [Chat Control: The EU's CSEM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
 * [2024-08-29, 09:29:32](https://lobste.rs/s/w9thbf/objects_have_not_failed_2002) - [Objects Have Not Failed (2002)](https://www.dreamsongs.com/ObjectsHaveNotFailedNarr.html)
 * [2024-08-29, 08:45:27](https://lobste.rs/s/qhafyy/immutable_systems_nixos_systemd_repart) - [Immutable Systems: NixOS + systemd-repart + systemd-sysupdate](https://x86.lol/generic/2024/08/28/systemd-sysupdate.html)
@@ -10,7 +11,6 @@
 * [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
 * [2024-08-29, 02:24:18](https://lobste.rs/s/tie1ao/compilation_javascript_wasm_part_3) - [Compilation of JavaScript to Wasm, part 3: Partial evaluation](https://cfallin.org/blog/2024/08/28/weval/)
 * [2024-08-29, 01:17:37](https://lobste.rs/s/jv4tpe/q_numbers_redux) - [Q Numbers Redux](https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2)
-* [2024-08-29, 00:00:51](https://lobste.rs/s/afhefn/computer_scientists_discover) - [Computer Scientists Discover Vulnerabilities in RADIUS](https://today.ucsd.edu/story/computer-scientists-discover-vulnerabilities-in-a-popular-security-protocol)
 * [2024-08-28, 23:43:21](https://lobste.rs/s/ffqvah/judge_dismisses_majority_github_copilot) - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:59:31](https://lobste.rs/s/ijxsix/pypy_v7_3_17_release) - [PyPy v7.3.17 release](https://pypy.org/posts/2024/08/pypy-v7317-release.html)
