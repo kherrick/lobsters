@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-29](index.md)
 
+* [2024-08-29, 21:02:24](https://lobste.rs/s/8m3c3k/man_vs_ai_optimizing_javascript) - [Man vs. AI: optimizing JavaScript](https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html)
 * [2024-08-29, 20:15:34](https://lobste.rs/s/sfemru/nibble_cyberspace_digipres_adventures) - [Nibble in Cyberspace: Digipres Adventures, Vol 1](https://exponentialdecay.co.uk/blog/nibble-in-cyberspace-digipres-adventures-vol-1/)
 * [2024-08-29, 19:29:38](https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells) - [wush - p2p wireguard file transfers, shells, and more](https://github.com/coder/wush)
 * [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)

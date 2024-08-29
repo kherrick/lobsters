@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 21:02:24](https://lobste.rs/s/8m3c3k/man_vs_ai_optimizing_javascript) - [Man vs. AI: optimizing JavaScript](https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html)
 * [2024-08-29, 19:29:38](https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells) - [wush - p2p wireguard file transfers, shells, and more](https://github.com/coder/wush)
 * [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:52:11](https://lobste.rs/s/10qoua/2030_rust_update) - [The 2030 Rust Update](https://mbuffett.com/posts/rust-2030/)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 15:21:06](https://lobste.rs/s/ykutpn/can_you_convert_video_pure_css) - [Can you convert a video to pure css?](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css)
-* [2024-08-29, 15:11:56](https://lobste.rs/s/7puewz/getting_started_with_nix_for_haskell) - [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/)
 * [2024-08-29, 14:34:14](https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it) - [Go sync.Pool and the Mechanics Behind It](https://victoriametrics.com/blog/go-sync-pool/)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 13:23:47](https://lobste.rs/s/9qje32/binaryformatter_removed_from_net_9) - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/)
