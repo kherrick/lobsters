@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-29, 19:20:55",
+      "https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than"
+    ],
+    [
+      "Why Playwright is less flaky than Selenium",
+      "https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 19:03:23",
       "https://lobste.rs/s/odmiju/orphaning_bcachefs_tools_debian"
     ],
@@ -197,16 +207,6 @@
     [
       "Development of an Experimental Devboard for a Frugal Smartphone at Inria",
       "https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 02:24:18",
-      "https://lobste.rs/s/tie1ao/compilation_javascript_wasm_part_3"
-    ],
-    [
-      "Compilation of JavaScript to Wasm, part 3: Partial evaluation",
-      "https://cfallin.org/blog/2024/08/28/weval/"
     ]
   ],
   [
