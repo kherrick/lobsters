@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-29, 14:34:14](https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it) - [Go sync.Pool and the Mechanics Behind It](https://victoriametrics.com/blog/go-sync-pool/)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 13:23:47](https://lobste.rs/s/9qje32/binaryformatter_removed_from_net_9) - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/)
 * [2024-08-29, 13:07:57](https://lobste.rs/s/ugpngx/easy_network_performance_wins_with_irq) - [Easy network performance wins with IRQ coalescing (2020)](https://people.kernel.org/kuba/easy-network-performance-wins-with-irq-coalescing)
@@ -15,7 +16,6 @@
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project - Wedson Almeida Filho](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
 * [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
 * [2024-08-29, 01:17:37](https://lobste.rs/s/jv4tpe/q_numbers_redux) - [Q Numbers Redux](https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2)
-* [2024-08-28, 23:43:21](https://lobste.rs/s/ffqvah/judge_dismisses_majority_github_copilot) - [Judge dismisses majority of GitHub Copilot copyright claims](https://lwn.net/Articles/987524/)
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 18:59:31](https://lobste.rs/s/ijxsix/pypy_v7_3_17_release) - [PyPy v7.3.17 release](https://pypy.org/posts/2024/08/pypy-v7317-release.html)
 * [2024-08-28, 15:57:19](https://lobste.rs/s/34n6nl/gamengen) - [GameNGen](https://gamengen.github.io/)
