@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
+* [2024-08-29, 15:52:11](https://lobste.rs/s/10qoua/2030_rust_update) - [The 2030 Rust Update](https://mbuffett.com/posts/rust-2030/)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 15:21:06](https://lobste.rs/s/ykutpn/can_you_convert_video_pure_css) - [Can you convert a video to pure css?](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css)
 * [2024-08-29, 15:11:56](https://lobste.rs/s/7puewz/getting_started_with_nix_for_haskell) - [Getting Started with Nix for Haskell](https://abhinavsarkar.net/posts/nix-for-haskell/)
@@ -23,7 +24,6 @@
 * [2024-08-28, 22:09:21](https://lobste.rs/s/y9f97s/future_tla) - [The Future of TLA+](https://lamport.azurewebsites.net/tla/future.pdf)
 * [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
 * [2024-08-28, 15:13:15](https://lobste.rs/s/7anlbp/slow_evaporation_free_open_source) - [The slow evaporation of the free/open source surplus](https://www.baldurbjarnason.com/2024/the-slow-evaporation-of-the-foss-surplus/)
-* [2024-08-28, 12:16:49](https://lobste.rs/s/gmeptf/typing_lists_tuples_elixir) - [Typing lists and tuples in Elixir](https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/)
 * [2024-08-27, 17:21:22](https://lobste.rs/s/rhxsow/monospace_web) - [The Monospace Web](https://owickstrom.github.io/the-monospace-web/)
 
 ## [Archives](archives/index.md)
