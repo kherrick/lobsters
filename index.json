@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-29, 16:59:43",
+      "https://lobste.rs/s/mangyj/signal_is_more_than_encrypted_messaging"
+    ],
+    [
+      "Signal is More Than Encrypted Messaging",
+      "https://www.wired.com/story/meredith-whittaker-signal/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 15:28:25",
       "https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released"
     ],
@@ -181,12 +191,12 @@
   ],
   [
     [
-      "2024-08-29, 01:17:37",
-      "https://lobste.rs/s/jv4tpe/q_numbers_redux"
+      "2024-08-29, 02:24:18",
+      "https://lobste.rs/s/tie1ao/compilation_javascript_wasm_part_3"
     ],
     [
-      "Q Numbers Redux",
-      "https://www.tbray.org/ongoing/When/202x/2024/08/28/Q-Numbers-2"
+      "Compilation of JavaScript to Wasm, part 3: Partial evaluation",
+      "https://cfallin.org/blog/2024/08/28/weval/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Typing lists and tuples in Elixir",
       "https://elixir-lang.org/blog/2024/08/28/typing-lists-and-tuples/"
-    ]
-  ],
-  [
-    [
-      "2024-08-28, 09:15:25",
-      "https://lobste.rs/s/cvowms/zotero_redesigned"
-    ],
-    [
-      "Zotero, redesigned",
-      "https://www.zotero.org/blog/zotero-7/"
     ]
   ],
   [
