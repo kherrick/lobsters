@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2024-08-28, 08:32:51",
+      "https://lobste.rs/s/ug0t5g/wp2hugo_best_wordpress_hugo_migrator"
+    ],
+    [
+      "wp2hugo: best WordPress to Hugo migrator (written in Go)",
+      "https://github.com/ashishb/wp2hugo"
+    ]
+  ],
+  [
+    [
       "2024-08-28, 04:35:15",
       "https://lobste.rs/s/oaohoa/go_1_23_s_new_unique_package"
     ],
@@ -237,16 +247,6 @@
     [
       "The Monospace Web",
       "https://owickstrom.github.io/the-monospace-web/"
-    ]
-  ],
-  [
-    [
-      "2024-08-27, 08:27:35",
-      "https://lobste.rs/s/ukriql/you_re_not_mature_enough_release_your"
-    ],
-    [
-      "You're not mature enough to release your first version as v1",
-      "https://www.jvt.me/posts/2024/08/26/v0/"
     ]
   ]
 ]
