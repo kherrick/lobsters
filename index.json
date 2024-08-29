@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-08-29, 20:39:30",
+      "https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again"
+    ],
+    [
+      "Elasticsearch is open source, again",
+      "https://www.elastic.co/blog/elasticsearch-is-open-source-again"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 19:29:38",
       "https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells"
     ],
@@ -187,16 +197,6 @@
     [
       "Introducing Alacrity to Federated Cryptography",
       "https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 07:23:14",
-      "https://lobste.rs/s/pywrnr/aya_dev_proof_assistant_dependently"
-    ],
-    [
-      "aya-dev: A proof assistant and a dependently-typed language",
-      "https://github.com/aya-prover/aya-dev"
     ]
   ],
   [
