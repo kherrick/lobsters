@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 17:55:36](https://lobste.rs/s/zmgjxm/writing_apis_rust_2022) - [Writing APIs in Rust (2022)](https://sled.rs/apis.html)
 * [2024-08-30, 17:42:01](https://lobste.rs/s/beboy2/postiz_open_source_social_media) - [Postiz - open-source social media scheduling tool](https://github.com/gitroomhq/postiz-app)
 * [2024-08-30, 17:30:02](https://lobste.rs/s/lj4vxd/producing_wrong_data_without_doing) - [Producing Wrong Data Without Doing Anything Obviously Wrong! (2009)](https://users.cs.northwestern.edu/~robby/courses/322-2013-spring/mytkowicz-wrong-data.pdf)
 * [2024-08-30, 17:28:17](https://lobste.rs/s/cxswdk/book_about_psychedelia_commodore_64) - [Book about Psychedelia, a Commodore 64 light synthesizer](https://psychedeliasyndro.me)
@@ -18,7 +19,6 @@
 * [2024-08-30, 08:03:45](https://lobste.rs/s/0km8fr/delimited_continuations_are_all_you_need) - [Delimited Continuations are all you need](https://www.youtube.com/watch?v=uRbqLGj_6mI)
 * [2024-08-29, 21:18:07](https://lobste.rs/s/bqpwz9/secret_inside_one_million_checkboxes) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 20:39:30](https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
-* [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
