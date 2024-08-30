@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 19:34:50](https://lobste.rs/s/vnx6m0/aicommit_become_world_s_laziest) - [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
 * [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 17:55:36](https://lobste.rs/s/zmgjxm/writing_apis_rust_2022) - [Writing APIs in Rust (2022)](https://sled.rs/apis.html)
 * [2024-08-30, 17:42:01](https://lobste.rs/s/beboy2/postiz_open_source_social_media) - [Postiz - open-source social media scheduling tool](https://github.com/gitroomhq/postiz-app)
@@ -22,7 +23,6 @@
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
-* [2024-08-29, 11:37:06](https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share) - [mup: A micro web file uploader to easily share files over LAN](https://github.com/aziis98/mup)
 * [2024-08-29, 08:37:04](https://lobste.rs/s/jqgb4m/i_just_crossed_1_million_on_github) - [I just crossed $1 million on GitHub Sponsors](https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
 
