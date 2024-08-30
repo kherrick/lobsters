@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-30, 15:36:20",
+      "https://lobste.rs/s/awjmjw/end_road_anandtech_farewell"
+    ],
+    [
+      "End of the Road: An AnandTech Farewell",
+      "https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 15:14:02",
       "https://lobste.rs/s/t7ietg/impact_memory_safety_on_sandboxing"
     ],
@@ -167,16 +177,6 @@
     [
       "Why Playwright is less flaky than Selenium",
       "https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 19:03:23",
-      "https://lobste.rs/s/odmiju/orphaning_bcachefs_tools_debian"
-    ],
-    [
-      "Orphaning bcachefs-tools in Debian",
-      "https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/"
     ]
   ],
   [
