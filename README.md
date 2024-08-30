@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 09:25:01](https://lobste.rs/s/1fwy8s/how_we_made_querying_pandas_dataframes) - [How we made querying Pandas DataFrames with chDB 87x faster](https://clickhouse.com/blog/chdb-pandas-dataframes-87x-faster)
 * [2024-08-30, 09:05:39](https://lobste.rs/s/qftogu/upgrading_from_ghc_8_10_ghc_9_6_experience) - [Upgrading from GHC 8.10 to GHC 9.6 – An experience report](http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/)
 * [2024-08-30, 08:57:52](https://lobste.rs/s/4zhnmc/rearchiving_2_million_hours_digital) - [Rearchiving 2 million hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-30, 08:05:23](https://lobste.rs/s/z3f1l5/subset_c_kernel_developers_just_seem) - [A subset of C kernel developers just seem determined to make the lives of the Rust maintainers as difficult as possible](https://vt.social/@lina/113045455229442533)
@@ -23,7 +24,6 @@
 * [2024-08-29, 08:37:04](https://lobste.rs/s/jqgb4m/i_just_crossed_1_million_on_github) - [I just crossed $1 million on GitHub Sponsors](https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook)
 * [2024-08-29, 07:45:03](https://lobste.rs/s/1ejow9/introducing_alacrity_federated) - [Introducing Alacrity to Federated Cryptography](https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
-* [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
 * [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
 
 ## [Archives](archives/index.md)
