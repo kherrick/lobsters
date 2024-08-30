@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 09:05:39](https://lobste.rs/s/qftogu/upgrading_from_ghc_8_10_ghc_9_6_experience) - [Upgrading from GHC 8.10 to GHC 9.6 – An experience report](http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/)
+* [2024-08-30, 08:57:52](https://lobste.rs/s/4zhnmc/rearchiving_2_million_hours_digital) - [Rearchiving 2 million hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-30, 08:05:23](https://lobste.rs/s/z3f1l5/subset_c_kernel_developers_just_seem) - [A subset of C kernel developers just seem determined to make the lives of the Rust maintainers as difficult as possible](https://vt.social/@lina/113045455229442533)
 * [2024-08-30, 08:03:45](https://lobste.rs/s/0km8fr/delimited_continuations_are_all_you_need) - [Delimited Continuations are all you need](https://www.youtube.com/watch?v=uRbqLGj_6mI)
 * [2024-08-29, 22:46:51](https://lobste.rs/s/x3cc7t/python_developers_survey_2023_results) - [Python Developers Survey 2023 Results](https://lp.jetbrains.com/python-developers-survey-2023/)
@@ -14,9 +16,6 @@
 * [2024-08-29, 15:21:06](https://lobste.rs/s/ykutpn/can_you_convert_video_pure_css) - [Can you convert a video to pure css?](https://dgerrells.com/blog/can-you-convert-a-video-to-pure-css)
 * [2024-08-29, 14:34:14](https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it) - [Go sync.Pool and the Mechanics Behind It](https://victoriametrics.com/blog/go-sync-pool/)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
-* [2024-08-29, 13:23:47](https://lobste.rs/s/9qje32/binaryformatter_removed_from_net_9) - [BinaryFormatter removed from .NET 9](https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/)
-* [2024-08-29, 13:05:26](https://lobste.rs/s/40z1a9/how_i_learned_stop_worrying_love) - [How I learned to stop worrying and love userspace networking](https://friendshipcastle.zip/blog/glaceon)
-* [2024-08-29, 12:42:42](https://lobste.rs/s/7oqzre/farewell_pandas_thanks_for_all_fish) - [Farewell pandas, and thanks for all the fish](https://ibis-project.org/posts/farewell-pandas/)
 * [2024-08-29, 11:37:06](https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share) - [mup: A micro web file uploader to easily share files over LAN](https://github.com/aziis98/mup)
 * [2024-08-29, 10:24:12](https://lobste.rs/s/dcizyh/chat_control_eu_s_csem_scanner_proposal) - [Chat Control: The EU's CSEM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
 * [2024-08-29, 09:29:32](https://lobste.rs/s/w9thbf/objects_have_not_failed_2002) - [Objects Have Not Failed (2002)](https://www.dreamsongs.com/ObjectsHaveNotFailedNarr.html)
@@ -24,6 +23,7 @@
 * [2024-08-29, 08:37:04](https://lobste.rs/s/jqgb4m/i_just_crossed_1_million_on_github) - [I just crossed $1 million on GitHub Sponsors](https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook)
 * [2024-08-29, 07:45:03](https://lobste.rs/s/1ejow9/introducing_alacrity_federated) - [Introducing Alacrity to Federated Cryptography](https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
+* [2024-08-29, 06:12:23](https://lobste.rs/s/m9hcst/development_experimental_devboard_for) - [Development of an Experimental Devboard for a Frugal Smartphone at Inria](https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/)
 * [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
 
 ## [Archives](archives/index.md)
