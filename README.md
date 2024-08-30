@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 15:41:44](https://lobste.rs/s/3v0peh/llms_struggle_explain_themselves) - [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 15:14:02](https://lobste.rs/s/t7ietg/impact_memory_safety_on_sandboxing) - [The impact of memory safety on sandboxing](https://alexgaynor.net/2024/aug/30/impact-of-memory-safety-on-sandboxing/)
 * [2024-08-30, 15:07:25](https://lobste.rs/s/y94ipz/how_write_programming_language_shell_go) - [How to write a programming language and shell in Go with 92% test coverage and instant CI/CD](https://www.youtube.com/watch?v=YzIiUjgnSsA)
@@ -7,7 +8,6 @@
 * [2024-08-30, 15:02:19](https://lobste.rs/s/d5ztuj/ruby_shebang_behavior) - [Ruby shebang behavior](https://agj.bearblog.dev/ruby-shebang-behavior/)
 * [2024-08-30, 14:48:30](https://lobste.rs/s/zbu7j4/gcra_leaky_buckets_without_buckets) - [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
 * [2024-08-30, 14:19:04](https://lobste.rs/s/7pvs12/hurl_5_0_0_parallel_edition) - [Hurl 5.0.0, the Parallel Edition](https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html)
-* [2024-08-30, 13:55:58](https://lobste.rs/s/bukm9s/historic_arm_presentation_apple) - [Historic ARM Presentation to Apple Computer - 1992](https://www.youtube.com/watch?v=ZV1NdS_w4As)
 * [2024-08-30, 13:06:51](https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend)
 * [2024-08-30, 12:32:33](https://lobste.rs/s/rpbddx/predibag_predicate_based_agents_for_ai) - [PREDIBAG: Predicate-Based Agents for AI](https://github.com/naver/tamgu/wiki/3.4-PREDIBAG:--Building-Modern-AI-Agents-in-Tamgu's-Prolog)
 * [2024-08-30, 09:05:39](https://lobste.rs/s/qftogu/upgrading_from_ghc_8_10_ghc_9_6_experience) - [Upgrading from GHC 8.10 to GHC 9.6 – An experience report](http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/)
