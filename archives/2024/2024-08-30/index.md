@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 14:48:30](https://lobste.rs/s/zbu7j4/gcra_leaky_buckets_without_buckets) - [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
 * [2024-08-30, 14:19:04](https://lobste.rs/s/7pvs12/hurl_5_0_0_parallel_edition) - [Hurl 5.0.0, the Parallel Edition](https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html)
 * [2024-08-30, 13:55:58](https://lobste.rs/s/bukm9s/historic_arm_presentation_apple) - [Historic ARM Presentation to Apple Computer - 1992](https://www.youtube.com/watch?v=ZV1NdS_w4As)
 * [2024-08-30, 13:06:51](https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend)
