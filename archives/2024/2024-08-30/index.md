@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 13:55:58](https://lobste.rs/s/bukm9s/historic_arm_presentation_apple) - [Historic ARM Presentation to Apple Computer - 1992](https://www.youtube.com/watch?v=ZV1NdS_w4As)
 * [2024-08-30, 13:06:51](https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend)
 * [2024-08-30, 12:32:33](https://lobste.rs/s/rpbddx/predibag_predicate_based_agents_for_ai) - [PREDIBAG: Predicate-Based Agents for AI](https://github.com/naver/tamgu/wiki/3.4-PREDIBAG:--Building-Modern-AI-Agents-in-Tamgu's-Prolog)
 * [2024-08-30, 11:36:22](https://lobste.rs/s/6h03ko/meta_bug_bounty_fuzzing_netconsd_for_fun) - [Meta Bug Bounty — Fuzzing “netconsd” for fun and profit](https://blog.fadyothman.com/meta-bug-bounty-fuzzing-netconsd-for-fun-and-profit-part-1-6ffe96eb1419)
