@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-08-29, 19:03:23",
+      "https://lobste.rs/s/odmiju/orphaning_bcachefs_tools_debian"
+    ],
+    [
+      "Orphaning bcachefs-tools in Debian",
+      "https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/"
+    ]
+  ],
+  [
+    [
       "2024-08-29, 17:25:36",
       "https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql"
     ],
@@ -147,16 +157,6 @@
     [
       "GNU Screen v.5.0.0 is released",
       "https://savannah.gnu.org/news/?id=10668"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 14:34:14",
-      "https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it"
-    ],
-    [
-      "Go sync.Pool and the Mechanics Behind It",
-      "https://victoriametrics.com/blog/go-sync-pool/"
     ]
   ],
   [
