@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 17:30:02](https://lobste.rs/s/lj4vxd/producing_wrong_data_without_doing) - [Producing Wrong Data Without Doing Anything Obviously Wrong! (2009)](https://users.cs.northwestern.edu/~robby/courses/322-2013-spring/mytkowicz-wrong-data.pdf)
+* [2024-08-30, 17:28:17](https://lobste.rs/s/cxswdk/book_about_psychedelia_commodore_64) - [Book about Psychedelia, a Commodore 64 light synthesizer](https://psychedeliasyndro.me)
 * [2024-08-30, 17:02:10](https://lobste.rs/s/xfm7lh/qt_net_using_qml_net_wpf_application) - [Qt/.NET — Using QML in a .NET WPF application](https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application)
 * [2024-08-30, 15:41:44](https://lobste.rs/s/3v0peh/llms_struggle_explain_themselves) - [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
@@ -15,9 +17,7 @@
 * [2024-08-30, 08:57:52](https://lobste.rs/s/4zhnmc/rearchiving_2_million_hours_digital) - [Rearchiving 2 million hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-30, 08:03:45](https://lobste.rs/s/0km8fr/delimited_continuations_are_all_you_need) - [Delimited Continuations are all you need](https://www.youtube.com/watch?v=uRbqLGj_6mI)
 * [2024-08-29, 21:18:07](https://lobste.rs/s/bqpwz9/secret_inside_one_million_checkboxes) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
-* [2024-08-29, 21:02:24](https://lobste.rs/s/8m3c3k/man_vs_ai_optimizing_javascript) - [Man vs. AI: optimizing JavaScript](https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html)
 * [2024-08-29, 20:39:30](https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
-* [2024-08-29, 19:29:38](https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells) - [wush - p2p wireguard file transfers, shells, and more](https://github.com/coder/wush)
 * [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
