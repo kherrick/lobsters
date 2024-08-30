@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 15:14:02](https://lobste.rs/s/t7ietg/impact_memory_safety_on_sandboxing) - [The impact of memory safety on sandboxing](https://alexgaynor.net/2024/aug/30/impact-of-memory-safety-on-sandboxing/)
 * [2024-08-30, 15:07:25](https://lobste.rs/s/y94ipz/how_write_programming_language_shell_go) - [How to write a programming language and shell in Go with 92% test coverage and instant CI/CD](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 * [2024-08-30, 15:02:42](https://lobste.rs/s/722wop/ciel_is_extended_lisp) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
@@ -17,7 +18,6 @@
 * [2024-08-29, 20:39:30](https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [2024-08-29, 19:29:38](https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells) - [wush - p2p wireguard file transfers, shells, and more](https://github.com/coder/wush)
 * [2024-08-29, 19:20:55](https://lobste.rs/s/8vtfgs/why_playwright_is_less_flaky_than) - [Why Playwright is less flaky than Selenium](https://justin.searls.co/links/2024-08-29-why-playwright-is-less-flaky-than-selenium/)
-* [2024-08-29, 19:03:23](https://lobste.rs/s/odmiju/orphaning_bcachefs_tools_debian) - [Orphaning bcachefs-tools in Debian](https://jonathancarter.org/2024/08/29/orphaning-bcachefs-tools-in-debian/)
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
