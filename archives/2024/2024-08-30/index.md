@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 17:42:01](https://lobste.rs/s/beboy2/postiz_open_source_social_media) - [Postiz - open-source social media scheduling tool](https://github.com/gitroomhq/postiz-app)
 * [2024-08-30, 17:30:02](https://lobste.rs/s/lj4vxd/producing_wrong_data_without_doing) - [Producing Wrong Data Without Doing Anything Obviously Wrong! (2009)](https://users.cs.northwestern.edu/~robby/courses/322-2013-spring/mytkowicz-wrong-data.pdf)
 * [2024-08-30, 17:28:17](https://lobste.rs/s/cxswdk/book_about_psychedelia_commodore_64) - [Book about Psychedelia, a Commodore 64 light synthesizer](https://psychedeliasyndro.me)
 * [2024-08-30, 17:02:10](https://lobste.rs/s/xfm7lh/qt_net_using_qml_net_wpf_application) - [Qt/.NET — Using QML in a .NET WPF application](https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application)
