@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-30, 09:25:01",
+      "https://lobste.rs/s/1fwy8s/how_we_made_querying_pandas_dataframes"
+    ],
+    [
+      "How we made querying Pandas DataFrames with chDB 87x faster",
+      "https://clickhouse.com/blog/chdb-pandas-dataframes-87x-faster"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 09:05:39",
       "https://lobste.rs/s/qftogu/upgrading_from_ghc_8_10_ghc_9_6_experience"
     ],
@@ -227,16 +237,6 @@
     [
       "Retiring from the Rust for Linux project",
       "https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 06:12:23",
-      "https://lobste.rs/s/m9hcst/development_experimental_devboard_for"
-    ],
-    [
-      "Development of an Experimental Devboard for a Frugal Smartphone at Inria",
-      "https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/"
     ]
   ],
   [
