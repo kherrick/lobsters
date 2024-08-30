@@ -1,10 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 12:32:33](https://lobste.rs/s/rpbddx/predibag_predicate_based_agents_for_ai) - [PREDIBAG: Predicate-Based Agents for AI](https://github.com/naver/tamgu/wiki/3.4-PREDIBAG:--Building-Modern-AI-Agents-in-Tamgu's-Prolog)
 * [2024-08-30, 11:36:22](https://lobste.rs/s/6h03ko/meta_bug_bounty_fuzzing_netconsd_for_fun) - [Meta Bug Bounty — Fuzzing “netconsd” for fun and profit](https://blog.fadyothman.com/meta-bug-bounty-fuzzing-netconsd-for-fun-and-profit-part-1-6ffe96eb1419)
 * [2024-08-30, 09:25:01](https://lobste.rs/s/1fwy8s/how_we_made_querying_pandas_dataframes) - [How we made querying Pandas DataFrames with chDB 87x faster](https://clickhouse.com/blog/chdb-pandas-dataframes-87x-faster)
 * [2024-08-30, 09:05:39](https://lobste.rs/s/qftogu/upgrading_from_ghc_8_10_ghc_9_6_experience) - [Upgrading from GHC 8.10 to GHC 9.6 – An experience report](http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/)
 * [2024-08-30, 08:57:52](https://lobste.rs/s/4zhnmc/rearchiving_2_million_hours_digital) - [Rearchiving 2 million hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-30, 08:05:23](https://lobste.rs/s/z3f1l5/subset_c_kernel_developers_just_seem) - [A subset of C kernel developers just seem determined to make the lives of the Rust maintainers as difficult as possible](https://vt.social/@lina/113045455229442533)
+* [2024-08-30, 08:03:45](https://lobste.rs/s/0km8fr/delimited_continuations_are_all_you_need) - [Delimited Continuations are all you need](https://www.youtube.com/watch?v=uRbqLGj_6mI)
 * [2024-08-29, 22:46:51](https://lobste.rs/s/x3cc7t/python_developers_survey_2023_results) - [Python Developers Survey 2023 Results](https://lp.jetbrains.com/python-developers-survey-2023/)
 * [2024-08-29, 21:18:07](https://lobste.rs/s/bqpwz9/secret_inside_one_million_checkboxes) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 21:02:24](https://lobste.rs/s/8m3c3k/man_vs_ai_optimizing_javascript) - [Man vs. AI: optimizing JavaScript](https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html)
@@ -15,7 +17,6 @@
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
 * [2024-08-29, 15:52:11](https://lobste.rs/s/10qoua/2030_rust_update) - [The 2030 Rust Update](https://mbuffett.com/posts/rust-2030/)
 * [2024-08-29, 15:28:25](https://lobste.rs/s/qixn8k/gnu_screen_v_5_0_0_is_released) - [GNU Screen v.5.0.0 is released](https://savannah.gnu.org/news/?id=10668)
-* [2024-08-29, 14:34:14](https://lobste.rs/s/wt3g2w/go_sync_pool_mechanics_behind_it) - [Go sync.Pool and the Mechanics Behind It](https://victoriametrics.com/blog/go-sync-pool/)
 * [2024-08-29, 13:32:27](https://lobste.rs/s/bouf4e/firewall_rules_not_as_secure_as_you_think) - [Firewall rules: not as secure as you think](https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html)
 * [2024-08-29, 11:37:06](https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share) - [mup: A micro web file uploader to easily share files over LAN](https://github.com/aziis98/mup)
 * [2024-08-29, 10:24:12](https://lobste.rs/s/dcizyh/chat_control_eu_s_csem_scanner_proposal) - [Chat Control: The EU's CSEM scanner proposal](https://www.patrick-breyer.de/en/posts/chat-control/)
@@ -24,7 +25,6 @@
 * [2024-08-29, 08:37:04](https://lobste.rs/s/jqgb4m/i_just_crossed_1_million_on_github) - [I just crossed $1 million on GitHub Sponsors](https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook)
 * [2024-08-29, 07:45:03](https://lobste.rs/s/1ejow9/introducing_alacrity_federated) - [Introducing Alacrity to Federated Cryptography](https://soatok.blog/2024/08/28/introducing-alacrity-to-federated-cryptography/)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
-* [2024-08-28, 15:34:30](https://lobste.rs/s/radgtp/this_key_is_useless_now_discard) - [\"This Key is Useless Now. Discard?\"](https://btxx.org/posts/useless-key/)
 
 ## [Archives](archives/index.md)
 
