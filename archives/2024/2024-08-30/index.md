@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
 * [2024-08-30, 23:12:55](https://lobste.rs/s/mawmxp/rotating_boston_making) - [rotating.boston - making of](https://philo.gay/rotating/)
+* [2024-08-30, 21:53:35](https://lobste.rs/s/9tankl/crash_gc_with_random_values_unsafe) - [Crash the GC with Random Values in unsafe.Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
 * [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
 * [2024-08-30, 19:34:50](https://lobste.rs/s/vnx6m0/aicommit_become_world_s_laziest) - [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
 * [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
