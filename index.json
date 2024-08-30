@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-30, 09:05:39",
+      "https://lobste.rs/s/qftogu/upgrading_from_ghc_8_10_ghc_9_6_experience"
+    ],
+    [
+      "Upgrading from GHC 8.10 to GHC 9.6 – An experience report",
+      "http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 08:57:52",
+      "https://lobste.rs/s/4zhnmc/rearchiving_2_million_hours_digital"
+    ],
+    [
+      "Rearchiving 2 million hours of digital radio, a comprehensive process",
+      "https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 08:05:23",
       "https://lobste.rs/s/z3f1l5/subset_c_kernel_developers_just_seem"
     ],
@@ -141,36 +161,6 @@
   ],
   [
     [
-      "2024-08-29, 13:23:47",
-      "https://lobste.rs/s/9qje32/binaryformatter_removed_from_net_9"
-    ],
-    [
-      "BinaryFormatter removed from .NET 9",
-      "https://devblogs.microsoft.com/dotnet/binaryformatter-removed-from-dotnet-9/"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 13:05:26",
-      "https://lobste.rs/s/40z1a9/how_i_learned_stop_worrying_love"
-    ],
-    [
-      "How I learned to stop worrying and love userspace networking",
-      "https://friendshipcastle.zip/blog/glaceon"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 12:42:42",
-      "https://lobste.rs/s/7oqzre/farewell_pandas_thanks_for_all_fish"
-    ],
-    [
-      "Farewell pandas, and thanks for all the fish",
-      "https://ibis-project.org/posts/farewell-pandas/"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 11:37:06",
       "https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share"
     ],
@@ -237,6 +227,16 @@
     [
       "Retiring from the Rust for Linux project",
       "https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/"
+    ]
+  ],
+  [
+    [
+      "2024-08-29, 06:12:23",
+      "https://lobste.rs/s/m9hcst/development_experimental_devboard_for"
+    ],
+    [
+      "Development of an Experimental Devboard for a Frugal Smartphone at Inria",
+      "https://www.fossjobs.net/job/11427/development-of-an-experimental-devboard-for-a-frugal-smartphone-at-inria/"
     ]
   ],
   [
