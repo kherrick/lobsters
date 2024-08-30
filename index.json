@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-30, 19:34:50",
+      "https://lobste.rs/s/vnx6m0/aicommit_become_world_s_laziest"
+    ],
+    [
+      "aicommit: become the world's laziest committer",
+      "https://github.com/coder/aicommit"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 18:50:45",
       "https://lobste.rs/s/fntqqv/my_software_bookshelf"
     ],
@@ -217,16 +227,6 @@
     [
       "Firewall rules: not as secure as you think",
       "https://www.haskellforall.com/2024/08/firewall-rules-not-as-secure-as-you.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 11:37:06",
-      "https://lobste.rs/s/psclqi/mup_micro_web_file_uploader_easily_share"
-    ],
-    [
-      "mup: A micro web file uploader to easily share files over LAN",
-      "https://github.com/aziis98/mup"
     ]
   ],
   [
