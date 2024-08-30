@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-30, 17:30:02",
+      "https://lobste.rs/s/lj4vxd/producing_wrong_data_without_doing"
+    ],
+    [
+      "Producing Wrong Data Without Doing Anything Obviously Wrong! (2009)",
+      "https://users.cs.northwestern.edu/~robby/courses/322-2013-spring/mytkowicz-wrong-data.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-08-30, 17:28:17",
+      "https://lobste.rs/s/cxswdk/book_about_psychedelia_commodore_64"
+    ],
+    [
+      "Book about Psychedelia, a Commodore 64 light synthesizer",
+      "https://psychedeliasyndro.me"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 17:02:10",
       "https://lobste.rs/s/xfm7lh/qt_net_using_qml_net_wpf_application"
     ],
@@ -151,32 +171,12 @@
   ],
   [
     [
-      "2024-08-29, 21:02:24",
-      "https://lobste.rs/s/8m3c3k/man_vs_ai_optimizing_javascript"
-    ],
-    [
-      "Man vs. AI: optimizing JavaScript",
-      "https://blog.kowalczyk.info/a-9a1d/man-vs-ai-optimizing-javascript-claude-cursor.html"
-    ]
-  ],
-  [
-    [
       "2024-08-29, 20:39:30",
       "https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again"
     ],
     [
       "Elasticsearch is open source, again",
       "https://www.elastic.co/blog/elasticsearch-is-open-source-again"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 19:29:38",
-      "https://lobste.rs/s/ad2bxa/wush_p2p_wireguard_file_transfers_shells"
-    ],
-    [
-      "wush - p2p wireguard file transfers, shells, and more",
-      "https://github.com/coder/wush"
     ]
   ],
   [
