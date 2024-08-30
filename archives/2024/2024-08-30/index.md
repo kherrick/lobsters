@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-30](index.md)
 
+* [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
 * [2024-08-30, 19:34:50](https://lobste.rs/s/vnx6m0/aicommit_become_world_s_laziest) - [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
 * [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 17:55:36](https://lobste.rs/s/zmgjxm/writing_apis_rust_2022) - [Writing APIs in Rust (2022)](https://sled.rs/apis.html)

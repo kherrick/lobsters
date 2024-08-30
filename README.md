@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
 * [2024-08-30, 19:34:50](https://lobste.rs/s/vnx6m0/aicommit_become_world_s_laziest) - [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
 * [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 17:55:36](https://lobste.rs/s/zmgjxm/writing_apis_rust_2022) - [Writing APIs in Rust (2022)](https://sled.rs/apis.html)
@@ -16,7 +17,6 @@
 * [2024-08-30, 13:06:51](https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend)
 * [2024-08-30, 12:32:33](https://lobste.rs/s/rpbddx/predibag_predicate_based_agents_for_ai) - [PREDIBAG: Predicate-Based Agents for AI](https://github.com/naver/tamgu/wiki/3.4-PREDIBAG:--Building-Modern-AI-Agents-in-Tamgu's-Prolog)
 * [2024-08-30, 09:05:39](https://lobste.rs/s/qftogu/upgrading_from_ghc_8_10_ghc_9_6_experience) - [Upgrading from GHC 8.10 to GHC 9.6 – An experience report](http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/)
-* [2024-08-30, 08:57:52](https://lobste.rs/s/4zhnmc/rearchiving_2_million_hours_digital) - [Rearchiving 2 million hours of digital radio, a comprehensive process](https://digitalpreservation-blog.nb.no/blog/2024-08-28-rearchiving-2-million-hours-of-digital-radio/)
 * [2024-08-30, 08:03:45](https://lobste.rs/s/0km8fr/delimited_continuations_are_all_you_need) - [Delimited Continuations are all you need](https://www.youtube.com/watch?v=uRbqLGj_6mI)
 * [2024-08-29, 21:18:07](https://lobste.rs/s/bqpwz9/secret_inside_one_million_checkboxes) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 20:39:30](https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
