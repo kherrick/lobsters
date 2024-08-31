@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 22:37:59](https://lobste.rs/s/tnobaz/boox_palma_review_phone_sized_e_ink) - [Boox Palma Review: A Phone-Sized E-Ink Android Device that isn’t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
 * [2024-08-31, 21:26:25](https://lobste.rs/s/jlavdk/lesser_known_operators_c) - [Lesser-known operators in C#](https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html)
 * [2024-08-31, 17:04:49](https://lobste.rs/s/jvwurj/how_rust_solves_problem_incomplete) - [How Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
 * [2024-08-31, 16:44:31](https://lobste.rs/s/82lnc8/heart_dark_mode_done_still_progress) - [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
