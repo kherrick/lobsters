@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 17:04:49](https://lobste.rs/s/jvwurj/how_rust_solves_problem_incomplete) - [How Rust solves the problem of incomplete Kernel Linux API docs](https://vt.social/@lina/113056457969145576)
 * [2024-08-31, 16:44:31](https://lobste.rs/s/82lnc8/heart_dark_mode_done_still_progress) - [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
 * [2024-08-31, 16:35:52](https://lobste.rs/s/8mnyty/ssh_ca_with_device_identity_attestation) - [SSH CA with device and identity attestation: ssh-tpm-ca-authority](https://linderud.dev/blog/ssh-ca-with-device-and-identity-attestation-ssh-tpm-ca-authority/)
 * [2024-08-31, 14:20:46](https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe) - [CHERI Myths: I don’t need CHERI if I have safe languages](https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html)
