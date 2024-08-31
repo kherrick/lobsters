@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-08-31, 16:44:31",
+      "https://lobste.rs/s/82lnc8/heart_dark_mode_done_still_progress"
+    ],
+    [
+      "Heart of dark mode: done, and still in progress",
+      "https://tailscale.com/blog/heart-of-dark-mode"
+    ]
+  ],
+  [
+    [
+      "2024-08-31, 16:35:52",
+      "https://lobste.rs/s/8mnyty/ssh_ca_with_device_identity_attestation"
+    ],
+    [
+      "SSH CA with device and identity attestation: ssh-tpm-ca-authority",
+      "https://linderud.dev/blog/ssh-ca-with-device-and-identity-attestation-ssh-tpm-ca-authority/"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 14:20:46",
       "https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe"
     ],
@@ -217,26 +237,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/6kwid6/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 12:32:33",
-      "https://lobste.rs/s/rpbddx/predibag_predicate_based_agents_for_ai"
-    ],
-    [
-      "PREDIBAG: Predicate-Based Agents for AI",
-      "https://github.com/naver/tamgu/wiki/3.4-PREDIBAG:--Building-Modern-AI-Agents-in-Tamgu's-Prolog"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 08:03:45",
-      "https://lobste.rs/s/0km8fr/delimited_continuations_are_all_you_need"
-    ],
-    [
-      "Delimited Continuations are all you need",
-      "https://www.youtube.com/watch?v=uRbqLGj_6mI"
     ]
   ],
   [
