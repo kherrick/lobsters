@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-31, 14:20:46",
+      "https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe"
+    ],
+    [
+      "CHERI Myths: I don’t need CHERI if I have safe languages",
+      "https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 13:55:17",
       "https://lobste.rs/s/ltuqsj/symbolics_s_geometry_manual_1988"
     ],
@@ -137,16 +147,6 @@
     [
       "End of the Road: An AnandTech Farewell",
       "https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 15:14:02",
-      "https://lobste.rs/s/t7ietg/impact_memory_safety_on_sandboxing"
-    ],
-    [
-      "The impact of memory safety on sandboxing",
-      "https://alexgaynor.net/2024/aug/30/impact-of-memory-safety-on-sandboxing/"
     ]
   ],
   [
