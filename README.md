@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-31, 03:50:47](https://lobste.rs/s/zyketc/current_zlib_rs_performance) - [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
 * [2024-08-31, 00:48:51](https://lobste.rs/s/6iwccq/honey_i_shrunk_fmt_bringing_binary_size) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-08-30, 21:53:35](https://lobste.rs/s/9tankl/crash_gc_with_random_values_unsafe) - [Crash the GC with Random Values in unsafe.Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
 * [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
@@ -23,7 +24,6 @@
 * [2024-08-29, 21:18:07](https://lobste.rs/s/bqpwz9/secret_inside_one_million_checkboxes) - [The secret inside One Million Checkboxes](https://eieio.games/essays/the-secret-in-one-million-checkboxes/)
 * [2024-08-29, 20:39:30](https://lobste.rs/s/p0dymi/elasticsearch_is_open_source_again) - [Elasticsearch is open source, again](https://www.elastic.co/blog/elasticsearch-is-open-source-again)
 * [2024-08-29, 17:25:36](https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql) - [Bypassing airport security via SQL injection](https://ian.sh/tsa)
-* [2024-08-29, 08:37:04](https://lobste.rs/s/jqgb4m/i_just_crossed_1_million_on_github) - [I just crossed $1 million on GitHub Sponsors](https://calebporzio.com/i-just-cracked-1-million-on-github-sponsors-heres-my-playbook)
 * [2024-08-29, 06:26:11](https://lobste.rs/s/46pt2l/retiring_from_rust_for_linux_project) - [Retiring from the Rust for Linux project](https://lore.kernel.org/lkml/20240828211117.9422-1-wedsonaf@gmail.com/)
 
 ## [Archives](archives/index.md)
