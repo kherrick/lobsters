@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-08-30, 21:53:35",
+      "https://lobste.rs/s/9tankl/crash_gc_with_random_values_unsafe"
+    ],
+    [
+      "Crash the GC with Random Values in unsafe.Pointers",
+      "https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/"
+    ]
+  ],
+  [
+    [
       "2024-08-30, 21:13:45",
       "https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either"
     ],
@@ -227,16 +237,6 @@
     [
       "Elasticsearch is open source, again",
       "https://www.elastic.co/blog/elasticsearch-is-open-source-again"
-    ]
-  ],
-  [
-    [
-      "2024-08-29, 17:25:36",
-      "https://lobste.rs/s/inqdfj/bypassing_airport_security_via_sql"
-    ],
-    [
-      "Bypassing airport security via SQL injection",
-      "https://ian.sh/tsa"
     ]
   ],
   [
