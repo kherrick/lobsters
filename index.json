@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-08-31, 06:59:41",
+      "https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows"
+    ],
+    [
+      "This month in Servo: tabbed browsing, Windows buffs, devtools, and more",
+      "https://servo.org/blog/2024/08/31/this-month-in-servo/"
+    ]
+  ],
+  [
+    [
       "2024-08-31, 04:00:41",
       "https://lobste.rs/s/zvnlmx/post_quantum_cryptography_for_non"
     ],
@@ -187,16 +197,6 @@
     [
       "PREDIBAG: Predicate-Based Agents for AI",
       "https://github.com/naver/tamgu/wiki/3.4-PREDIBAG:--Building-Modern-AI-Agents-in-Tamgu's-Prolog"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 09:05:39",
-      "https://lobste.rs/s/qftogu/upgrading_from_ghc_8_10_ghc_9_6_experience"
-    ],
-    [
-      "Upgrading from GHC 8.10 to GHC 9.6 – An experience report",
-      "http://h2.jaguarpaw.co.uk/posts/ghc-8.10-9.6-experience-report/"
     ]
   ],
   [
