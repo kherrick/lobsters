@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-31, 00:48:51](https://lobste.rs/s/6iwccq/honey_i_shrunk_fmt_bringing_binary_size) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-08-30, 21:53:35](https://lobste.rs/s/9tankl/crash_gc_with_random_values_unsafe) - [Crash the GC with Random Values in unsafe.Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
 * [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
 * [2024-08-30, 19:34:50](https://lobste.rs/s/vnx6m0/aicommit_become_world_s_laziest) - [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
@@ -7,7 +8,6 @@
 * [2024-08-30, 17:55:36](https://lobste.rs/s/zmgjxm/writing_apis_rust_2022) - [Writing APIs in Rust (2022)](https://sled.rs/apis.html)
 * [2024-08-30, 17:42:01](https://lobste.rs/s/beboy2/postiz_open_source_social_media) - [Postiz - open-source social media scheduling tool](https://github.com/gitroomhq/postiz-app)
 * [2024-08-30, 17:28:17](https://lobste.rs/s/cxswdk/book_about_psychedelia_commodore_64) - [Book about Psychedelia, a Commodore 64 light synthesizer](https://psychedeliasyndro.me)
-* [2024-08-30, 17:02:10](https://lobste.rs/s/xfm7lh/qt_net_using_qml_net_wpf_application) - [Qt/.NET — Using QML in a .NET WPF application](https://www.qt.io/blog/qt-dotnet-using-qml-in-a-dotnet-wpf-application)
 * [2024-08-30, 15:41:44](https://lobste.rs/s/3v0peh/llms_struggle_explain_themselves) - [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 15:14:02](https://lobste.rs/s/t7ietg/impact_memory_safety_on_sandboxing) - [The impact of memory safety on sandboxing](https://alexgaynor.net/2024/aug/30/impact-of-memory-safety-on-sandboxing/)
