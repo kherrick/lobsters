@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-08-31](index.md)
 
+* [2024-08-31, 14:20:46](https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe) - [CHERI Myths: I don’t need CHERI if I have safe languages](https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html)
 * [2024-08-31, 13:55:17](https://lobste.rs/s/ltuqsj/symbolics_s_geometry_manual_1988) - [Symbolics S-Geometry manual (1988)](https://archive.org/details/symbolics-s-geometry-manual)
 * [2024-08-31, 07:11:50](https://lobste.rs/s/r6lkys/think_parallel) - [Think Parallel](https://www.youtube.com/watch?v=VSDmkwHWpfA)
 * [2024-08-31, 06:59:41](https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)

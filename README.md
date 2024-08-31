@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-08-31, 14:20:46](https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe) - [CHERI Myths: I don’t need CHERI if I have safe languages](https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html)
 * [2024-08-31, 13:55:17](https://lobste.rs/s/ltuqsj/symbolics_s_geometry_manual_1988) - [Symbolics S-Geometry manual (1988)](https://archive.org/details/symbolics-s-geometry-manual)
 * [2024-08-31, 07:11:50](https://lobste.rs/s/r6lkys/think_parallel) - [Think Parallel](https://www.youtube.com/watch?v=VSDmkwHWpfA)
 * [2024-08-31, 06:59:41](https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
@@ -14,7 +15,6 @@
 * [2024-08-30, 17:28:17](https://lobste.rs/s/cxswdk/book_about_psychedelia_commodore_64) - [Book about Psychedelia, a Commodore 64 light synthesizer](https://psychedeliasyndro.me)
 * [2024-08-30, 15:41:44](https://lobste.rs/s/3v0peh/llms_struggle_explain_themselves) - [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
-* [2024-08-30, 15:14:02](https://lobste.rs/s/t7ietg/impact_memory_safety_on_sandboxing) - [The impact of memory safety on sandboxing](https://alexgaynor.net/2024/aug/30/impact-of-memory-safety-on-sandboxing/)
 * [2024-08-30, 15:07:25](https://lobste.rs/s/y94ipz/how_write_programming_language_shell_go) - [How to write a programming language and shell in Go with 92% test coverage and instant CI/CD](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 * [2024-08-30, 15:02:42](https://lobste.rs/s/722wop/ciel_is_extended_lisp) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 * [2024-08-30, 15:02:19](https://lobste.rs/s/d5ztuj/ruby_shebang_behavior) - [Ruby shebang behavior](https://agj.bearblog.dev/ruby-shebang-behavior/)
