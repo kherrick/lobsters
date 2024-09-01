@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-01, 16:05:49](https://lobste.rs/s/nih951/understanding_virtual_machine_dispatch) - [Understanding Virtual Machine Dispatch through Duality (2023)](https://noelwelsh.com/posts/understanding-vm-dispatch/)
 * [2024-09-01, 15:54:05](https://lobste.rs/s/dtujok/event_driven_core_request_response_shell) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
 * [2024-09-01, 15:31:16](https://lobste.rs/s/wceiob/why_is_python_shipped_with_python_docker) - [Why is python shipped with the `python` docker image slower than that of my local machine?](https://github.com/docker-library/python/issues/825)
 * [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
@@ -23,7 +24,6 @@
 * [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 15:02:19](https://lobste.rs/s/d5ztuj/ruby_shebang_behavior) - [Ruby shebang behavior](https://agj.bearblog.dev/ruby-shebang-behavior/)
-* [2024-08-30, 14:48:30](https://lobste.rs/s/zbu7j4/gcra_leaky_buckets_without_buckets) - [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
 * [2024-08-30, 14:19:04](https://lobste.rs/s/7pvs12/hurl_5_0_0_parallel_edition) - [Hurl 5.0.0, the Parallel Edition](https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html)
 
 ## [Archives](archives/index.md)
