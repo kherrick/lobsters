@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 09:08:00",
+      "https://lobste.rs/s/v4spy8/wifi_auth_with_osmohlr_sim_cards"
+    ],
+    [
+      "WiFi auth with OsmoHLR/SIM cards",
+      "https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 08:24:52",
       "https://lobste.rs/s/xkum6p/idea_on_distraction"
     ],
@@ -187,16 +197,6 @@
     [
       "End of the Road: An AnandTech Farewell",
       "https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 15:07:25",
-      "https://lobste.rs/s/y94ipz/how_write_programming_language_shell_go"
-    ],
-    [
-      "How to write a programming language and shell in Go with 92% test coverage and instant CI/CD",
-      "https://www.youtube.com/watch?v=YzIiUjgnSsA"
     ]
   ],
   [
