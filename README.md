@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-01, 01:26:29](https://lobste.rs/s/kxqlwz/my_first_experience_with_gleam_language) - [My first experience with Gleam Language](https://pliutau.com/my-first-experience-with-gleam-lang/)
 * [2024-08-31, 22:37:59](https://lobste.rs/s/tnobaz/boox_palma_review_phone_sized_e_ink) - [Boox Palma Review: A Phone-Sized E-Ink Android Device that isn’t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
 * [2024-08-31, 21:26:25](https://lobste.rs/s/jlavdk/lesser_known_operators_c) - [Lesser-known operators in C#](https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html)
 * [2024-08-31, 16:44:31](https://lobste.rs/s/82lnc8/heart_dark_mode_done_still_progress) - [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
@@ -8,7 +9,6 @@
 * [2024-08-31, 13:55:17](https://lobste.rs/s/ltuqsj/symbolics_s_geometry_manual_1988) - [Symbolics S-Geometry manual (1988)](https://archive.org/details/symbolics-s-geometry-manual)
 * [2024-08-31, 07:11:50](https://lobste.rs/s/r6lkys/think_parallel) - [Think Parallel](https://www.youtube.com/watch?v=VSDmkwHWpfA)
 * [2024-08-31, 06:59:41](https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
-* [2024-08-31, 04:00:41](https://lobste.rs/s/zvnlmx/post_quantum_cryptography_for_non) - [Post Quantum Cryptography for non-cryptographers](https://keymaterial.net/2024/08/30/pqc-for-non-cryptographers/)
 * [2024-08-31, 03:50:47](https://lobste.rs/s/zyketc/current_zlib_rs_performance) - [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
 * [2024-08-31, 00:48:51](https://lobste.rs/s/6iwccq/honey_i_shrunk_fmt_bringing_binary_size) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-08-30, 21:53:35](https://lobste.rs/s/9tankl/crash_gc_with_random_values_unsafe) - [Crash the GC with Random Values in unsafe.Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
