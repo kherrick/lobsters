@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-01, 19:01:19",
+      "https://lobste.rs/s/a3zt1p/self_hosted_open_source_surveys_as_code"
+    ],
+    [
+      "Self-hosted open source Surveys as Code platform",
+      "https://github.com/plutov/formulosity"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 18:59:17",
+      "https://lobste.rs/s/orvwjs/software_architecture_diagrams_with_c4"
+    ],
+    [
+      "Software Architecture Diagrams with C4 Model",
+      "https://medium.com/itnext/software-architecture-diagrams-with-c4-model-898adcb534c2"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 18:06:07",
       "https://lobste.rs/s/ilj4qt/how_emulate_real_dependencies"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-08-31, 13:55:17",
-      "https://lobste.rs/s/ltuqsj/symbolics_s_geometry_manual_1988"
-    ],
-    [
-      "Symbolics S-Geometry manual (1988)",
-      "https://archive.org/details/symbolics-s-geometry-manual"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 06:59:41",
       "https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows"
     ],
@@ -237,16 +247,6 @@
     [
       "End of the Road: An AnandTech Farewell",
       "https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 15:02:19",
-      "https://lobste.rs/s/d5ztuj/ruby_shebang_behavior"
-    ],
-    [
-      "Ruby shebang behavior",
-      "https://agj.bearblog.dev/ruby-shebang-behavior/"
     ]
   ]
 ]
