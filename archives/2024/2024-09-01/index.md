@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 20:43:23](https://lobste.rs/s/pq6kit/tbsp_awk_like_language_operates_on_tree) - [tbsp: an awk-like language that operates on tree-sitter syntax trees](https://oppi.li/posts/introducing_tablespoon/)
 * [2024-09-01, 20:33:00](https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir) - [Behavior Sanitizers in Elixir](https://blog.brycekerley.net/2024/09/01/elixir-behavior-sanitizer.html)
 * [2024-09-01, 19:25:22](https://lobste.rs/s/nlblxr/pentium_as_navajo_weaving) - [The Pentium as a Navajo weaving](http://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 * [2024-09-01, 19:18:54](https://lobste.rs/s/oeprnw/i_html_inline_html_import_element) - [i-html, an inline-html import element](https://www.keithcirkel.co.uk/i-html/)
