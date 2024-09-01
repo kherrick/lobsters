@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 19:18:54",
+      "https://lobste.rs/s/oeprnw/i_html_inline_html_import_element"
+    ],
+    [
+      "i-html, an inline-html import element",
+      "https://www.keithcirkel.co.uk/i-html/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 19:01:19",
       "https://lobste.rs/s/a3zt1p/self_hosted_open_source_surveys_as_code"
     ],
@@ -227,16 +237,6 @@
     [
       "Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime",
       "https://vitaut.net/posts/2024/binary-size/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 21:13:45",
-      "https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either"
-    ],
-    [
-      "Bubble Sort Is Not Robust Either",
-      "https://two-wrongs.com/bubble-sort-is-not-robust-either"
     ]
   ],
   [
