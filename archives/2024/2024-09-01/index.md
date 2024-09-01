@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 19:01:19](https://lobste.rs/s/a3zt1p/self_hosted_open_source_surveys_as_code) - [Self-hosted open source Surveys as Code platform](https://github.com/plutov/formulosity)
+* [2024-09-01, 18:59:17](https://lobste.rs/s/orvwjs/software_architecture_diagrams_with_c4) - [Software Architecture Diagrams with C4 Model](https://medium.com/itnext/software-architecture-diagrams-with-c4-model-898adcb534c2)
 * [2024-09-01, 18:06:07](https://lobste.rs/s/ilj4qt/how_emulate_real_dependencies) - [How to Emulate Real Dependencies in Integration Tests using Testcontainers](https://www.freecodecamp.org/news/integration-tests-using-testcontainers/)
 * [2024-09-01, 18:06:05](https://lobste.rs/s/s8lg8x/what_happens_before_main_is_invoked_rust) - [What happens before main is invoked in Rust](https://www.youtube.com/watch?v=q8irLfXwaFM)
 * [2024-09-01, 18:05:23](https://lobste.rs/s/6o1f4w/how_implement_server_sent_events_go) - [How to implement Server-Sent Events in Go](https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/)
