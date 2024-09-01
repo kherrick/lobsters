@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 18:06:07](https://lobste.rs/s/ilj4qt/how_emulate_real_dependencies) - [How to Emulate Real Dependencies in Integration Tests using Testcontainers](https://www.freecodecamp.org/news/integration-tests-using-testcontainers/)
+* [2024-09-01, 18:06:05](https://lobste.rs/s/s8lg8x/what_happens_before_main_is_invoked_rust) - [What happens before main is invoked in Rust](https://www.youtube.com/watch?v=q8irLfXwaFM)
+* [2024-09-01, 18:05:23](https://lobste.rs/s/6o1f4w/how_implement_server_sent_events_go) - [How to implement Server-Sent Events in Go](https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/)
 * [2024-09-01, 16:05:49](https://lobste.rs/s/nih951/understanding_virtual_machine_dispatch) - [Understanding Virtual Machine Dispatch through Duality (2023)](https://noelwelsh.com/posts/understanding-vm-dispatch/)
 * [2024-09-01, 15:54:05](https://lobste.rs/s/dtujok/event_driven_core_request_response_shell) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
 * [2024-09-01, 15:31:16](https://lobste.rs/s/wceiob/why_is_python_shipped_with_python_docker) - [Why is python shipped with the `python` docker image slower than that of my local machine?](https://github.com/docker-library/python/issues/825)

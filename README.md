@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-01, 18:06:07](https://lobste.rs/s/ilj4qt/how_emulate_real_dependencies) - [How to Emulate Real Dependencies in Integration Tests using Testcontainers](https://www.freecodecamp.org/news/integration-tests-using-testcontainers/)
+* [2024-09-01, 18:06:05](https://lobste.rs/s/s8lg8x/what_happens_before_main_is_invoked_rust) - [What happens before main is invoked in Rust](https://www.youtube.com/watch?v=q8irLfXwaFM)
+* [2024-09-01, 18:05:23](https://lobste.rs/s/6o1f4w/how_implement_server_sent_events_go) - [How to implement Server-Sent Events in Go](https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/)
 * [2024-09-01, 16:05:49](https://lobste.rs/s/nih951/understanding_virtual_machine_dispatch) - [Understanding Virtual Machine Dispatch through Duality (2023)](https://noelwelsh.com/posts/understanding-vm-dispatch/)
 * [2024-09-01, 15:54:05](https://lobste.rs/s/dtujok/event_driven_core_request_response_shell) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
 * [2024-09-01, 15:31:16](https://lobste.rs/s/wceiob/why_is_python_shipped_with_python_docker) - [Why is python shipped with the `python` docker image slower than that of my local machine?](https://github.com/docker-library/python/issues/825)
@@ -11,7 +14,6 @@
 * [2024-09-01, 04:37:17](https://lobste.rs/s/h21x4r/enabling_dci_dbc_on_jasper_lake_nuc) - [Enabling DCI.DbC on a Jasper Lake NUC](https://reflexive.space/jsl-dci/)
 * [2024-09-01, 04:32:19](https://lobste.rs/s/yd8w6e/playstation_2_gs_emulation_final) - [PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 * [2024-09-01, 01:26:29](https://lobste.rs/s/kxqlwz/my_first_experience_with_gleam_language) - [My first experience with Gleam Language](https://pliutau.com/my-first-experience-with-gleam-lang/)
-* [2024-08-31, 22:37:59](https://lobste.rs/s/tnobaz/boox_palma_review_phone_sized_e_ink) - [Boox Palma Review: A Phone-Sized E-Ink Android Device that isn’t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
 * [2024-08-31, 21:26:25](https://lobste.rs/s/jlavdk/lesser_known_operators_c) - [Lesser-known operators in C#](https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html)
 * [2024-08-31, 16:44:31](https://lobste.rs/s/82lnc8/heart_dark_mode_done_still_progress) - [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
 * [2024-08-31, 16:35:52](https://lobste.rs/s/8mnyty/ssh_ca_with_device_identity_attestation) - [SSH CA with device and identity attestation: ssh-tpm-ca-authority](https://linderud.dev/blog/ssh-ca-with-device-and-identity-attestation-ssh-tpm-ca-authority/)
@@ -21,10 +23,8 @@
 * [2024-08-31, 03:50:47](https://lobste.rs/s/zyketc/current_zlib_rs_performance) - [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
 * [2024-08-31, 00:48:51](https://lobste.rs/s/6iwccq/honey_i_shrunk_fmt_bringing_binary_size) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
-* [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 * [2024-08-30, 15:02:19](https://lobste.rs/s/d5ztuj/ruby_shebang_behavior) - [Ruby shebang behavior](https://agj.bearblog.dev/ruby-shebang-behavior/)
-* [2024-08-30, 14:19:04](https://lobste.rs/s/7pvs12/hurl_5_0_0_parallel_edition) - [Hurl 5.0.0, the Parallel Edition](https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html)
 
 ## [Archives](archives/index.md)
 
