@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 16:05:49",
+      "https://lobste.rs/s/nih951/understanding_virtual_machine_dispatch"
+    ],
+    [
+      "Understanding Virtual Machine Dispatch through Duality (2023)",
+      "https://noelwelsh.com/posts/understanding-vm-dispatch/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 15:54:05",
       "https://lobste.rs/s/dtujok/event_driven_core_request_response_shell"
     ],
@@ -227,16 +237,6 @@
     [
       "Ruby shebang behavior",
       "https://agj.bearblog.dev/ruby-shebang-behavior/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 14:48:30",
-      "https://lobste.rs/s/zbu7j4/gcra_leaky_buckets_without_buckets"
-    ],
-    [
-      "GCRA: leaky buckets without the buckets",
-      "https://dotat.at/@/2024-08-30-gcra.html"
     ]
   ],
   [
