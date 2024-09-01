@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-01, 18:06:07",
+      "https://lobste.rs/s/ilj4qt/how_emulate_real_dependencies"
+    ],
+    [
+      "How to Emulate Real Dependencies in Integration Tests using Testcontainers",
+      "https://www.freecodecamp.org/news/integration-tests-using-testcontainers/"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 18:06:05",
+      "https://lobste.rs/s/s8lg8x/what_happens_before_main_is_invoked_rust"
+    ],
+    [
+      "What happens before main is invoked in Rust",
+      "https://www.youtube.com/watch?v=q8irLfXwaFM"
+    ]
+  ],
+  [
+    [
+      "2024-09-01, 18:05:23",
+      "https://lobste.rs/s/6o1f4w/how_implement_server_sent_events_go"
+    ],
+    [
+      "How to implement Server-Sent Events in Go",
+      "https://www.freecodecamp.org/news/how-to-implement-server-sent-events-in-go/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 16:05:49",
       "https://lobste.rs/s/nih951/understanding_virtual_machine_dispatch"
     ],
@@ -111,16 +141,6 @@
   ],
   [
     [
-      "2024-08-31, 22:37:59",
-      "https://lobste.rs/s/tnobaz/boox_palma_review_phone_sized_e_ink"
-    ],
-    [
-      "Boox Palma Review: A Phone-Sized E-Ink Android Device that isn’t a Phone",
-      "https://ewritable.com/ereaders/boox-palma/review/"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 21:26:25",
       "https://lobste.rs/s/jlavdk/lesser_known_operators_c"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2024-08-30, 18:50:45",
-      "https://lobste.rs/s/fntqqv/my_software_bookshelf"
-    ],
-    [
-      "My Software Bookshelf",
-      "https://olano.dev/blog/my-software-bookshelf/"
-    ]
-  ],
-  [
-    [
       "2024-08-30, 15:36:20",
       "https://lobste.rs/s/awjmjw/end_road_anandtech_farewell"
     ],
@@ -237,16 +247,6 @@
     [
       "Ruby shebang behavior",
       "https://agj.bearblog.dev/ruby-shebang-behavior/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 14:19:04",
-      "https://lobste.rs/s/7pvs12/hurl_5_0_0_parallel_edition"
-    ],
-    [
-      "Hurl 5.0.0, the Parallel Edition",
-      "https://hurl.dev/blog/2024/08/29/hurl-5.0.0-the-parallel-edition.html"
     ]
   ]
 ]
