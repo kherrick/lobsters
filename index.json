@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 20:33:00",
+      "https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir"
+    ],
+    [
+      "Behavior Sanitizers in Elixir",
+      "https://blog.brycekerley.net/2024/09/01/elixir-behavior-sanitizer.html"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 19:25:22",
       "https://lobste.rs/s/nlblxr/pentium_as_navajo_weaving"
     ],
@@ -177,16 +187,6 @@
     [
       "CHERI Myths: I don’t need CHERI if I have safe languages",
       "https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 13:55:17",
-      "https://lobste.rs/s/ltuqsj/symbolics_s_geometry_manual_1988"
-    ],
-    [
-      "Symbolics S-Geometry manual (1988)",
-      "https://archive.org/details/symbolics-s-geometry-manual"
     ]
   ],
   [
