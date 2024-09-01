@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-01](index.md)
 
+* [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:45:34](https://lobste.rs/s/k90acr/web_s_clipboard_how_it_stores_data) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 09:08:00](https://lobste.rs/s/v4spy8/wifi_auth_with_osmohlr_sim_cards) - [WiFi auth with OsmoHLR/SIM cards](https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/)
 * [2024-09-01, 08:24:52](https://lobste.rs/s/xkum6p/idea_on_distraction) - [An idea on distraction](https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html)

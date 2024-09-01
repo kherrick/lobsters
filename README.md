@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:45:34](https://lobste.rs/s/k90acr/web_s_clipboard_how_it_stores_data) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 09:08:00](https://lobste.rs/s/v4spy8/wifi_auth_with_osmohlr_sim_cards) - [WiFi auth with OsmoHLR/SIM cards](https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/)
 * [2024-09-01, 08:24:52](https://lobste.rs/s/xkum6p/idea_on_distraction) - [An idea on distraction](https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html)
@@ -17,7 +18,6 @@
 * [2024-08-31, 03:50:47](https://lobste.rs/s/zyketc/current_zlib_rs_performance) - [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
 * [2024-08-31, 00:48:51](https://lobste.rs/s/6iwccq/honey_i_shrunk_fmt_bringing_binary_size) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
-* [2024-08-30, 19:34:50](https://lobste.rs/s/vnx6m0/aicommit_become_world_s_laziest) - [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
 * [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 15:41:44](https://lobste.rs/s/3v0peh/llms_struggle_explain_themselves) - [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
