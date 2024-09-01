@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-01, 08:24:52](https://lobste.rs/s/xkum6p/idea_on_distraction) - [An idea on distraction](https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html)
 * [2024-09-01, 07:55:20](https://lobste.rs/s/qmqw4g/was_this_hermit_mathematician_forgotten) - [Was this hermit mathematician a forgotten genius whose ideas could transform AI – or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
 * [2024-09-01, 04:37:17](https://lobste.rs/s/h21x4r/enabling_dci_dbc_on_jasper_lake_nuc) - [Enabling DCI.DbC on a Jasper Lake NUC](https://reflexive.space/jsl-dci/)
 * [2024-09-01, 04:32:19](https://lobste.rs/s/yd8w6e/playstation_2_gs_emulation_final) - [PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
@@ -13,7 +14,6 @@
 * [2024-08-31, 06:59:41](https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
 * [2024-08-31, 03:50:47](https://lobste.rs/s/zyketc/current_zlib_rs_performance) - [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
 * [2024-08-31, 00:48:51](https://lobste.rs/s/6iwccq/honey_i_shrunk_fmt_bringing_binary_size) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
-* [2024-08-30, 21:53:35](https://lobste.rs/s/9tankl/crash_gc_with_random_values_unsafe) - [Crash the GC with Random Values in unsafe.Pointers](https://philpearl.github.io/post/dumb_ways_to_die_random_pointers/)
 * [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
 * [2024-08-30, 19:34:50](https://lobste.rs/s/vnx6m0/aicommit_become_world_s_laziest) - [aicommit: become the world's laziest committer](https://github.com/coder/aicommit)
 * [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
