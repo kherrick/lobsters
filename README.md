@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-01, 09:08:00](https://lobste.rs/s/v4spy8/wifi_auth_with_osmohlr_sim_cards) - [WiFi auth with OsmoHLR/SIM cards](https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/)
 * [2024-09-01, 08:24:52](https://lobste.rs/s/xkum6p/idea_on_distraction) - [An idea on distraction](https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html)
 * [2024-09-01, 07:55:20](https://lobste.rs/s/qmqw4g/was_this_hermit_mathematician_forgotten) - [Was this hermit mathematician a forgotten genius whose ideas could transform AI – or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
 * [2024-09-01, 04:37:17](https://lobste.rs/s/h21x4r/enabling_dci_dbc_on_jasper_lake_nuc) - [Enabling DCI.DbC on a Jasper Lake NUC](https://reflexive.space/jsl-dci/)
@@ -19,7 +20,6 @@
 * [2024-08-30, 18:50:45](https://lobste.rs/s/fntqqv/my_software_bookshelf) - [My Software Bookshelf](https://olano.dev/blog/my-software-bookshelf/)
 * [2024-08-30, 15:41:44](https://lobste.rs/s/3v0peh/llms_struggle_explain_themselves) - [LLMs struggle to explain themselves](https://www.jonathanychan.com/blog/llms-struggle-to-explain-themselves/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
-* [2024-08-30, 15:07:25](https://lobste.rs/s/y94ipz/how_write_programming_language_shell_go) - [How to write a programming language and shell in Go with 92% test coverage and instant CI/CD](https://www.youtube.com/watch?v=YzIiUjgnSsA)
 * [2024-08-30, 15:02:42](https://lobste.rs/s/722wop/ciel_is_extended_lisp) - [CIEL Is an Extended Lisp](http://ciel-lang.org/)
 * [2024-08-30, 15:02:19](https://lobste.rs/s/d5ztuj/ruby_shebang_behavior) - [Ruby shebang behavior](https://agj.bearblog.dev/ruby-shebang-behavior/)
 * [2024-08-30, 14:48:30](https://lobste.rs/s/zbu7j4/gcra_leaky_buckets_without_buckets) - [GCRA: leaky buckets without the buckets](https://dotat.at/@/2024-08-30-gcra.html)
