@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-01, 20:43:23",
+      "https://lobste.rs/s/pq6kit/tbsp_awk_like_language_operates_on_tree"
+    ],
+    [
+      "tbsp: an awk-like language that operates on tree-sitter syntax trees",
+      "https://oppi.li/posts/introducing_tablespoon/"
+    ]
+  ],
+  [
+    [
       "2024-09-01, 20:33:00",
       "https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir"
     ],
@@ -237,16 +247,6 @@
     [
       "End of the Road: An AnandTech Farewell",
       "https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 15:02:19",
-      "https://lobste.rs/s/d5ztuj/ruby_shebang_behavior"
-    ],
-    [
-      "Ruby shebang behavior",
-      "https://agj.bearblog.dev/ruby-shebang-behavior/"
     ]
   ]
 ]
