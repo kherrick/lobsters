@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-01, 19:25:22](https://lobste.rs/s/nlblxr/pentium_as_navajo_weaving) - [The Pentium as a Navajo weaving](http://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 * [2024-09-01, 19:18:54](https://lobste.rs/s/oeprnw/i_html_inline_html_import_element) - [i-html, an inline-html import element](https://www.keithcirkel.co.uk/i-html/)
 * [2024-09-01, 19:01:19](https://lobste.rs/s/a3zt1p/self_hosted_open_source_surveys_as_code) - [Self-hosted open source Surveys as Code platform](https://github.com/plutov/formulosity)
 * [2024-09-01, 18:59:17](https://lobste.rs/s/orvwjs/software_architecture_diagrams_with_c4) - [Software Architecture Diagrams with C4 Model](https://medium.com/itnext/software-architecture-diagrams-with-c4-model-898adcb534c2)
@@ -23,7 +24,6 @@
 * [2024-08-31, 14:20:46](https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe) - [CHERI Myths: I don’t need CHERI if I have safe languages](https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html)
 * [2024-08-31, 06:59:41](https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
 * [2024-08-31, 03:50:47](https://lobste.rs/s/zyketc/current_zlib_rs_performance) - [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
-* [2024-08-31, 00:48:51](https://lobste.rs/s/6iwccq/honey_i_shrunk_fmt_bringing_binary_size) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 
 ## [Archives](archives/index.md)
