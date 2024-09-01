@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-01, 21:35:27](https://lobste.rs/s/wzfrud/extreme_pi_boot_optimization) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 * [2024-09-01, 20:43:23](https://lobste.rs/s/pq6kit/tbsp_awk_like_language_operates_on_tree) - [tbsp: an awk-like language that operates on tree-sitter syntax trees](https://oppi.li/posts/introducing_tablespoon/)
 * [2024-09-01, 20:33:00](https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir) - [Behavior Sanitizers in Elixir](https://blog.brycekerley.net/2024/09/01/elixir-behavior-sanitizer.html)
 * [2024-09-01, 19:25:22](https://lobste.rs/s/nlblxr/pentium_as_navajo_weaving) - [The Pentium as a Navajo weaving](http://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
@@ -23,7 +24,6 @@
 * [2024-08-31, 06:59:41](https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
 * [2024-08-31, 03:50:47](https://lobste.rs/s/zyketc/current_zlib_rs_performance) - [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
 * [2024-08-31, 00:48:51](https://lobste.rs/s/6iwccq/honey_i_shrunk_fmt_bringing_binary_size) - [Honey, I shrunk {fmt}: bringing binary size to 14k and ditching the C++ runtime](https://vitaut.net/posts/2024/binary-size/)
-* [2024-08-30, 21:13:45](https://lobste.rs/s/ics0rx/bubble_sort_is_not_robust_either) - [Bubble Sort Is Not Robust Either](https://two-wrongs.com/bubble-sort-is-not-robust-either)
 * [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 
 ## [Archives](archives/index.md)
