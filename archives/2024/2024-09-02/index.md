@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 19:42:50](https://lobste.rs/s/yftecx/commodified_incuriosity) - [Commodified incuriosity](https://open.substack.com/pub/robhorning/p/commodified-incuriosity)
 * [2024-09-02, 19:25:34](https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust) - [Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time](https://oneirical.github.io/gsocfinal/)
 * [2024-09-02, 19:15:50](https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm) - [My coding experience with LLM](https://kokada.dev/blog/my-coding-experience-with-llm/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
