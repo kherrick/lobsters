@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-02, 19:15:50](https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm) - [My coding experience with LLM](https://kokada.dev/blog/my-coding-experience-with-llm/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
 * [2024-09-02, 17:17:16](https://lobste.rs/s/j2aprn/logic_computation_intertwined) - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/index.html)
 * [2024-09-02, 17:15:57](https://lobste.rs/s/erlil7/latency_throughput_tradeoff_why_fast) - [The Latency/Throughput Tradeoff: Why Fast Services Are Slow And Vice Versa](https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/)
@@ -24,7 +25,6 @@
 * [2024-09-01, 19:18:54](https://lobste.rs/s/oeprnw/i_html_inline_html_import_element) - [i-html, an inline-html import element](https://www.keithcirkel.co.uk/i-html/)
 * [2024-09-01, 15:54:05](https://lobste.rs/s/dtujok/event_driven_core_request_response_shell) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
 * [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
-* [2024-09-01, 08:24:52](https://lobste.rs/s/xkum6p/idea_on_distraction) - [An idea on distraction](https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html)
 
 ## [Archives](archives/index.md)
 
