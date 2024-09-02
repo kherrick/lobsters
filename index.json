@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-02, 02:13:02",
+      "https://lobste.rs/s/quqhpz/upgrading_toshiba_nas_hdd_firmware_on"
+    ],
+    [
+      "Upgrading a Toshiba NAS HDD firmware on Linux",
+      "https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 02:07:11",
+      "https://lobste.rs/s/o3dfue/creating_invariant_floating_point"
+    ],
+    [
+      "Creating invariant floating-point accumulators (2021)",
+      "https://solidpixel.github.io/creating_invariant_accumulators"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 01:57:41",
+      "https://lobste.rs/s/ci470u/place_expressions_value_expressions"
+    ],
+    [
+      "Place expressions and value expressions in Rust",
+      "https://www.ralfj.de/blog/2024/08/14/places.html"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 00:32:31",
       "https://lobste.rs/s/teqxgn/why_i_isn_t_going_make_art"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-08-31, 22:37:59",
-      "https://lobste.rs/s/tnobaz/boox_palma_review_phone_sized_e_ink"
-    ],
-    [
-      "Boox Palma Review: A Phone-Sized E-Ink Android Device that isn’t a Phone",
-      "https://ewritable.com/ereaders/boox-palma/review/"
-    ]
-  ],
-  [
-    [
       "2024-08-31, 21:26:25",
       "https://lobste.rs/s/jlavdk/lesser_known_operators_c"
     ],
@@ -227,26 +247,6 @@
     [
       "This month in Servo: tabbed browsing, Windows buffs, devtools, and more",
       "https://servo.org/blog/2024/08/31/this-month-in-servo/"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 03:50:47",
-      "https://lobste.rs/s/zyketc/current_zlib_rs_performance"
-    ],
-    [
-      "Current zlib-rs performance",
-      "https://trifectatech.org/blog/current-zlib-rs-performance/"
-    ]
-  ],
-  [
-    [
-      "2024-08-30, 15:36:20",
-      "https://lobste.rs/s/awjmjw/end_road_anandtech_farewell"
-    ],
-    [
-      "End of the Road: An AnandTech Farewell",
-      "https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell"
     ]
   ]
 ]
