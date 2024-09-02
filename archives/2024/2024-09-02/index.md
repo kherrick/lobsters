@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 06:16:46](https://lobste.rs/s/y4gdes/tag_proposal_hn_for_stories_reposted_from) - [Tag proposal: \"hn\", for stories reposted from Hacker News](https://lobste.rs/s/y4gdes/tag_proposal_hn_for_stories_reposted_from)
 * [2024-09-02, 04:47:55](https://lobste.rs/s/phs6le/ad_adaptable_text_editor) - [ad: an adaptable text editor](https://github.com/sminez/ad)
 * [2024-09-02, 02:13:02](https://lobste.rs/s/quqhpz/upgrading_toshiba_nas_hdd_firmware_on) - [Upgrading a Toshiba NAS HDD firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 02:07:11](https://lobste.rs/s/o3dfue/creating_invariant_floating_point) - [Creating invariant floating-point accumulators (2021)](https://solidpixel.github.io/creating_invariant_accumulators)
