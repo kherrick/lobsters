@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-02, 02:13:02](https://lobste.rs/s/quqhpz/upgrading_toshiba_nas_hdd_firmware_on) - [Upgrading a Toshiba NAS HDD firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
+* [2024-09-02, 02:07:11](https://lobste.rs/s/o3dfue/creating_invariant_floating_point) - [Creating invariant floating-point accumulators (2021)](https://solidpixel.github.io/creating_invariant_accumulators)
+* [2024-09-02, 01:57:41](https://lobste.rs/s/ci470u/place_expressions_value_expressions) - [Place expressions and value expressions in Rust](https://www.ralfj.de/blog/2024/08/14/places.html)
 * [2024-09-02, 00:32:31](https://lobste.rs/s/teqxgn/why_i_isn_t_going_make_art) - [Why A.I. Isn’t Going to Make Art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
 * [2024-09-01, 21:35:27](https://lobste.rs/s/wzfrud/extreme_pi_boot_optimization) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 * [2024-09-01, 20:33:00](https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir) - [Behavior Sanitizers in Elixir](https://blog.brycekerley.net/2024/09/01/elixir-behavior-sanitizer.html)
@@ -17,14 +20,11 @@
 * [2024-09-01, 04:37:17](https://lobste.rs/s/h21x4r/enabling_dci_dbc_on_jasper_lake_nuc) - [Enabling DCI.DbC on a Jasper Lake NUC](https://reflexive.space/jsl-dci/)
 * [2024-09-01, 04:32:19](https://lobste.rs/s/yd8w6e/playstation_2_gs_emulation_final) - [PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 * [2024-09-01, 01:26:29](https://lobste.rs/s/kxqlwz/my_first_experience_with_gleam_language) - [My first experience with Gleam Language](https://pliutau.com/my-first-experience-with-gleam-lang/)
-* [2024-08-31, 22:37:59](https://lobste.rs/s/tnobaz/boox_palma_review_phone_sized_e_ink) - [Boox Palma Review: A Phone-Sized E-Ink Android Device that isn’t a Phone](https://ewritable.com/ereaders/boox-palma/review/)
 * [2024-08-31, 21:26:25](https://lobste.rs/s/jlavdk/lesser_known_operators_c) - [Lesser-known operators in C#](https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html)
 * [2024-08-31, 16:44:31](https://lobste.rs/s/82lnc8/heart_dark_mode_done_still_progress) - [Heart of dark mode: done, and still in progress](https://tailscale.com/blog/heart-of-dark-mode)
 * [2024-08-31, 16:35:52](https://lobste.rs/s/8mnyty/ssh_ca_with_device_identity_attestation) - [SSH CA with device and identity attestation: ssh-tpm-ca-authority](https://linderud.dev/blog/ssh-ca-with-device-and-identity-attestation-ssh-tpm-ca-authority/)
 * [2024-08-31, 14:20:46](https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe) - [CHERI Myths: I don’t need CHERI if I have safe languages](https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html)
 * [2024-08-31, 06:59:41](https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
-* [2024-08-31, 03:50:47](https://lobste.rs/s/zyketc/current_zlib_rs_performance) - [Current zlib-rs performance](https://trifectatech.org/blog/current-zlib-rs-performance/)
-* [2024-08-30, 15:36:20](https://lobste.rs/s/awjmjw/end_road_anandtech_farewell) - [End of the Road: An AnandTech Farewell](https://www.anandtech.com/show/21542/end-of-the-road-an-anandtech-farewell)
 
 ## [Archives](archives/index.md)
 
