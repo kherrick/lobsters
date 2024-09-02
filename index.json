@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-02, 10:32:19",
+      "https://lobste.rs/s/girl6w/why_i_still_use_python_virtual"
+    ],
+    [
+      "Why I Still Use Python Virtual Environments in Docker",
+      "https://hynek.me/articles/docker-virtualenv/"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 10:04:45",
       "https://lobste.rs/s/gk6ika/what_are_you_doing_this_week"
     ],
@@ -187,16 +197,6 @@
     [
       "The web's clipboard, and how it stores data of different types",
       "https://alexharri.com/blog/clipboard"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 09:08:00",
-      "https://lobste.rs/s/v4spy8/wifi_auth_with_osmohlr_sim_cards"
-    ],
-    [
-      "WiFi auth with OsmoHLR/SIM cards",
-      "https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/"
     ]
   ],
   [
