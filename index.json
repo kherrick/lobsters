@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-09-02, 19:42:50",
-      "https://lobste.rs/s/yftecx/commodified_incuriosity"
-    ],
-    [
-      "Commodified incuriosity",
-      "https://open.substack.com/pub/robhorning/p/commodified-incuriosity"
-    ]
-  ],
-  [
-    [
       "2024-09-02, 19:25:34",
       "https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust"
     ],
@@ -107,6 +97,16 @@
     [
       "io_uring echo server",
       "https://www.thespatula.io/rust/rust_io_uring_echo_server/"
+    ]
+  ],
+  [
+    [
+      "2024-09-02, 12:54:19",
+      "https://lobste.rs/s/ef54co/on_distributed_systems"
+    ],
+    [
+      "On distributed systems",
+      "https://www.superdurszlak.dev/intro/"
     ]
   ],
   [
