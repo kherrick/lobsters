@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 12:54:19](https://lobste.rs/s/ef54co/on_distributed_systems) - [On distributed systems](https://www.superdurszlak.dev/intro/)
 * [2024-09-02, 11:58:07](https://lobste.rs/s/zpaq7i/ode_logging) - [An Ode to Logging](https://lobste.rs/s/zpaq7i/ode_logging)
 * [2024-09-02, 11:54:18](https://lobste.rs/s/9rzqon/spotify_developer_emma_bostian_talks) - [Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture](https://www.youtube.com/watch?v=sPLlG5EGw2g)
 * [2024-09-02, 11:34:05](https://lobste.rs/s/pijs3w/what_is_table_oriented_programming) - [What is Table-Oriented Programming?](https://wayland.github.io/table-oriented-programming/TOP/Introduction/What.xml)
