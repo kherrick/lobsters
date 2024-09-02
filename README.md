@@ -1,10 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-02, 13:17:59](https://lobste.rs/s/clmkwj/io_uring_echo_server) - [io_uring echo server](https://www.thespatula.io/rust/rust_io_uring_echo_server/)
 * [2024-09-02, 12:54:19](https://lobste.rs/s/ef54co/on_distributed_systems) - [On distributed systems](https://www.superdurszlak.dev/intro/)
-* [2024-09-02, 11:58:07](https://lobste.rs/s/zpaq7i/ode_logging) - [An Ode to Logging](https://lobste.rs/s/zpaq7i/ode_logging)
-* [2024-09-02, 11:54:18](https://lobste.rs/s/9rzqon/spotify_developer_emma_bostian_talks) - [Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture](https://www.youtube.com/watch?v=sPLlG5EGw2g)
 * [2024-09-02, 11:34:05](https://lobste.rs/s/pijs3w/what_is_table_oriented_programming) - [What is Table-Oriented Programming?](https://wayland.github.io/table-oriented-programming/TOP/Introduction/What.xml)
-* [2024-09-02, 11:00:17](https://lobste.rs/s/omedjd/paolo_melchiorre_so_long_thanks_for_all) - [Paolo Melchiorre - So long, and thanks for all the tabs](https://www.paulox.net/2024/09/01/so-long-and-thanks-for-all-the-tabs/)
 * [2024-09-02, 10:32:19](https://lobste.rs/s/girl6w/why_i_still_use_python_virtual) - [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/)
 * [2024-09-02, 10:04:45](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week)
 * [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
@@ -23,8 +21,10 @@
 * [2024-09-01, 18:06:05](https://lobste.rs/s/s8lg8x/what_happens_before_main_is_invoked_rust) - [What happens before main is invoked in Rust](https://www.youtube.com/watch?v=q8irLfXwaFM)
 * [2024-09-01, 15:54:05](https://lobste.rs/s/dtujok/event_driven_core_request_response_shell) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
 * [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
+* [2024-09-01, 11:45:34](https://lobste.rs/s/k90acr/web_s_clipboard_how_it_stores_data) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 08:24:52](https://lobste.rs/s/xkum6p/idea_on_distraction) - [An idea on distraction](https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html)
 * [2024-09-01, 07:55:20](https://lobste.rs/s/qmqw4g/was_this_hermit_mathematician_forgotten) - [Was this hermit mathematician a forgotten genius whose ideas could transform AI – or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
+* [2024-09-01, 04:32:19](https://lobste.rs/s/yd8w6e/playstation_2_gs_emulation_final) - [PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 
 ## [Archives](archives/index.md)
 

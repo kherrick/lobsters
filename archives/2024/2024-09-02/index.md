@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 13:17:59](https://lobste.rs/s/clmkwj/io_uring_echo_server) - [io_uring echo server](https://www.thespatula.io/rust/rust_io_uring_echo_server/)
 * [2024-09-02, 12:54:19](https://lobste.rs/s/ef54co/on_distributed_systems) - [On distributed systems](https://www.superdurszlak.dev/intro/)
 * [2024-09-02, 11:58:07](https://lobste.rs/s/zpaq7i/ode_logging) - [An Ode to Logging](https://lobste.rs/s/zpaq7i/ode_logging)
 * [2024-09-02, 11:54:18](https://lobste.rs/s/9rzqon/spotify_developer_emma_bostian_talks) - [Spotify Developer Emma Bostian Talks Coding, Hiring Devs, and European Work Culture](https://www.youtube.com/watch?v=sPLlG5EGw2g)
