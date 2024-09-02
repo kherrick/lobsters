@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-02, 19:25:34",
+      "https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust"
+    ],
+    [
+      "Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time",
+      "https://oneirical.github.io/gsocfinal/"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 19:15:50",
       "https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm"
     ],
@@ -227,16 +237,6 @@
     [
       "i-html, an inline-html import element",
       "https://www.keithcirkel.co.uk/i-html/"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 15:54:05",
-      "https://lobste.rs/s/dtujok/event_driven_core_request_response_shell"
-    ],
-    [
-      "Event-Driven Core, Request-Response Shell",
-      "https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html"
     ]
   ],
   [
