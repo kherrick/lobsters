@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-02, 10:32:19](https://lobste.rs/s/girl6w/why_i_still_use_python_virtual) - [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/)
 * [2024-09-02, 10:04:45](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week)
 * [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 * [2024-09-02, 08:22:40](https://lobste.rs/s/4srmij/differing_values_team_are_costly) - [Differing Values In A Team Are Costly](https://rtpg.co/2024/08/31/cost-of-a-values-gap/)
@@ -19,7 +20,6 @@
 * [2024-09-01, 15:54:05](https://lobste.rs/s/dtujok/event_driven_core_request_response_shell) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
 * [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:45:34](https://lobste.rs/s/k90acr/web_s_clipboard_how_it_stores_data) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
-* [2024-09-01, 09:08:00](https://lobste.rs/s/v4spy8/wifi_auth_with_osmohlr_sim_cards) - [WiFi auth with OsmoHLR/SIM cards](https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/)
 * [2024-09-01, 08:24:52](https://lobste.rs/s/xkum6p/idea_on_distraction) - [An idea on distraction](https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html)
 * [2024-09-01, 07:55:20](https://lobste.rs/s/qmqw4g/was_this_hermit_mathematician_forgotten) - [Was this hermit mathematician a forgotten genius whose ideas could transform AI – or a lonely madman?](https://www.theguardian.com/science/article/2024/aug/31/alexander-grothendieck-huawei-ai-artificial-intelligence)
 * [2024-09-01, 04:32:19](https://lobste.rs/s/yd8w6e/playstation_2_gs_emulation_final) - [PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
