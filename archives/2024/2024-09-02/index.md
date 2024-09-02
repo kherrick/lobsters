@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 16:26:48](https://lobste.rs/s/a3oc2h/reasons_write_design_docs) - [Reasons to write design docs](https://ntietz.com/blog/reasons-to-write-design-docs/)
 * [2024-09-02, 15:52:53](https://lobste.rs/s/gqnxqr/ipmi) - [ipmi](https://computer.rip/2024-08-31-ipmi.html)
 * [2024-09-02, 14:45:39](https://lobste.rs/s/rjo9nz/nearly_optimal_mergesorts_fast) - [Nearly-Optimal Mergesorts: Fast, Practical Sorting Methods That Optimally Adapt to Existing Runs (2018)](https://www.wild-inter.net/publications/munro-wild-2018)
 * [2024-09-02, 14:16:21](https://lobste.rs/s/ctaiea/opinions_for_writing_good_css) - [Opinions for Writing Good CSS](https://andrewwalpole.com/blog/opinions-for-writing-good-css/)

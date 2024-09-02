@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-02, 16:26:48](https://lobste.rs/s/a3oc2h/reasons_write_design_docs) - [Reasons to write design docs](https://ntietz.com/blog/reasons-to-write-design-docs/)
 * [2024-09-02, 15:52:53](https://lobste.rs/s/gqnxqr/ipmi) - [ipmi](https://computer.rip/2024-08-31-ipmi.html)
 * [2024-09-02, 14:45:39](https://lobste.rs/s/rjo9nz/nearly_optimal_mergesorts_fast) - [Nearly-Optimal Mergesorts: Fast, Practical Sorting Methods That Optimally Adapt to Existing Runs (2018)](https://www.wild-inter.net/publications/munro-wild-2018)
 * [2024-09-02, 14:16:21](https://lobste.rs/s/ctaiea/opinions_for_writing_good_css) - [Opinions for Writing Good CSS](https://andrewwalpole.com/blog/opinions-for-writing-good-css/)
@@ -21,7 +22,6 @@
 * [2024-09-01, 20:33:00](https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir) - [Behavior Sanitizers in Elixir](https://blog.brycekerley.net/2024/09/01/elixir-behavior-sanitizer.html)
 * [2024-09-01, 19:25:22](https://lobste.rs/s/nlblxr/pentium_as_navajo_weaving) - [The Pentium as a Navajo weaving](http://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 * [2024-09-01, 19:18:54](https://lobste.rs/s/oeprnw/i_html_inline_html_import_element) - [i-html, an inline-html import element](https://www.keithcirkel.co.uk/i-html/)
-* [2024-09-01, 18:06:05](https://lobste.rs/s/s8lg8x/what_happens_before_main_is_invoked_rust) - [What happens before main is invoked in Rust](https://www.youtube.com/watch?v=q8irLfXwaFM)
 * [2024-09-01, 15:54:05](https://lobste.rs/s/dtujok/event_driven_core_request_response_shell) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
 * [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 08:24:52](https://lobste.rs/s/xkum6p/idea_on_distraction) - [An idea on distraction](https://blog.ignaciobrasca.com/experiment/2024/09/01/an-idea-on-distraction.html)
