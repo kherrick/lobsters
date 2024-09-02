@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-02, 11:34:05",
+      "https://lobste.rs/s/pijs3w/what_is_table_oriented_programming"
+    ],
+    [
+      "What is Table-Oriented Programming?",
+      "https://wayland.github.io/table-oriented-programming/TOP/Introduction/What.xml"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 11:00:17",
       "https://lobste.rs/s/omedjd/paolo_melchiorre_so_long_thanks_for_all"
     ],
@@ -237,16 +247,6 @@
     [
       "PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation",
       "https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/"
-    ]
-  ],
-  [
-    [
-      "2024-08-31, 21:26:25",
-      "https://lobste.rs/s/jlavdk/lesser_known_operators_c"
-    ],
-    [
-      "Lesser-known operators in C#",
-      "https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html"
     ]
   ]
 ]
