@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 11:34:05](https://lobste.rs/s/pijs3w/what_is_table_oriented_programming) - [What is Table-Oriented Programming?](https://wayland.github.io/table-oriented-programming/TOP/Introduction/What.xml)
 * [2024-09-02, 11:00:17](https://lobste.rs/s/omedjd/paolo_melchiorre_so_long_thanks_for_all) - [Paolo Melchiorre - So long, and thanks for all the tabs](https://www.paulox.net/2024/09/01/so-long-and-thanks-for-all-the-tabs/)
 * [2024-09-02, 10:32:19](https://lobste.rs/s/girl6w/why_i_still_use_python_virtual) - [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/)
 * [2024-09-02, 10:04:45](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week)
