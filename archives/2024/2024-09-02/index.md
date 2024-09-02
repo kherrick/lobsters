@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-02](index.md)
 
+* [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 * [2024-09-02, 08:22:40](https://lobste.rs/s/4srmij/differing_values_team_are_costly) - [Differing Values In A Team Are Costly](https://rtpg.co/2024/08/31/cost-of-a-values-gap/)
 * [2024-09-02, 08:21:07](https://lobste.rs/s/2tuunx/strvct_framework) - [Strvct Framework](https://strvct.net/)
 * [2024-09-02, 06:16:46](https://lobste.rs/s/y4gdes/tag_proposal_hn_for_stories_reposted_from) - [Tag proposal: \"hn\", for stories reposted from Hacker News](https://lobste.rs/s/y4gdes/tag_proposal_hn_for_stories_reposted_from)
