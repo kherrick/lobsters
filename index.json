@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-02, 14:45:39",
+      "https://lobste.rs/s/rjo9nz/nearly_optimal_mergesorts_fast"
+    ],
+    [
+      "Nearly-Optimal Mergesorts: Fast, Practical Sorting Methods That Optimally Adapt to Existing Runs (2018)",
+      "https://www.wild-inter.net/publications/munro-wild-2018"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 14:16:21",
       "https://lobste.rs/s/ctaiea/opinions_for_writing_good_css"
     ],
@@ -217,16 +227,6 @@
     [
       "The Design & Implementation of the CPython Virtual Machine",
       "https://blog.codingconfessions.com/p/cpython-vm-internals"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 11:45:34",
-      "https://lobste.rs/s/k90acr/web_s_clipboard_how_it_stores_data"
-    ],
-    [
-      "The web's clipboard, and how it stores data of different types",
-      "https://alexharri.com/blog/clipboard"
     ]
   ],
   [
