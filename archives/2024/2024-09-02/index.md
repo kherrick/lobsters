@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-02](index.md)
+
+* [2024-09-02, 00:32:31](https://lobste.rs/s/teqxgn/why_i_isn_t_going_make_art) - [Why A.I. Isn’t Going to Make Art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
