@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-02, 12:54:19",
+      "https://lobste.rs/s/ef54co/on_distributed_systems"
+    ],
+    [
+      "On distributed systems",
+      "https://www.superdurszlak.dev/intro/"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 11:58:07",
       "https://lobste.rs/s/zpaq7i/ode_logging"
     ],
@@ -217,16 +227,6 @@
     [
       "The Design & Implementation of the CPython Virtual Machine",
       "https://blog.codingconfessions.com/p/cpython-vm-internals"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 11:45:34",
-      "https://lobste.rs/s/k90acr/web_s_clipboard_how_it_stores_data"
-    ],
-    [
-      "The web's clipboard, and how it stores data of different types",
-      "https://alexharri.com/blog/clipboard"
     ]
   ],
   [
