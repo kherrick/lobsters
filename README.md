@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-02, 10:04:45](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week)
 * [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 * [2024-09-02, 08:22:40](https://lobste.rs/s/4srmij/differing_values_team_are_costly) - [Differing Values In A Team Are Costly](https://rtpg.co/2024/08/31/cost-of-a-values-gap/)
 * [2024-09-02, 08:21:07](https://lobste.rs/s/2tuunx/strvct_framework) - [Strvct Framework](https://strvct.net/)
@@ -24,7 +25,6 @@
 * [2024-09-01, 04:32:19](https://lobste.rs/s/yd8w6e/playstation_2_gs_emulation_final) - [PlayStation 2 GS emulation – the final frontier of Vulkan compute emulation](https://themaister.net/blog/2024/07/03/playstation-2-gs-emulation-the-final-frontier-of-vulkan-compute-emulation/)
 * [2024-09-01, 01:26:29](https://lobste.rs/s/kxqlwz/my_first_experience_with_gleam_language) - [My first experience with Gleam Language](https://pliutau.com/my-first-experience-with-gleam-lang/)
 * [2024-08-31, 21:26:25](https://lobste.rs/s/jlavdk/lesser_known_operators_c) - [Lesser-known operators in C#](https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html)
-* [2024-08-31, 14:20:46](https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe) - [CHERI Myths: I don’t need CHERI if I have safe languages](https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html)
 
 ## [Archives](archives/index.md)
 
