@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
 * [2024-09-02, 17:17:16](https://lobste.rs/s/j2aprn/logic_computation_intertwined) - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/index.html)
 * [2024-09-02, 17:15:57](https://lobste.rs/s/erlil7/latency_throughput_tradeoff_why_fast) - [The Latency/Throughput Tradeoff: Why Fast Services Are Slow And Vice Versa](https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/)
 * [2024-09-02, 16:26:48](https://lobste.rs/s/a3oc2h/reasons_write_design_docs) - [Reasons to write design docs](https://ntietz.com/blog/reasons-to-write-design-docs/)
@@ -13,7 +14,6 @@
 * [2024-09-02, 10:04:45](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week)
 * [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 * [2024-09-02, 08:22:40](https://lobste.rs/s/4srmij/differing_values_team_are_costly) - [Differing Values In A Team Are Costly](https://rtpg.co/2024/08/31/cost-of-a-values-gap/)
-* [2024-09-02, 06:16:46](https://lobste.rs/s/y4gdes/tag_proposal_hn_for_stories_reposted_from) - [Tag proposal: \"hn\", for stories reposted from Hacker News](https://lobste.rs/s/y4gdes/tag_proposal_hn_for_stories_reposted_from)
 * [2024-09-02, 04:47:55](https://lobste.rs/s/phs6le/ad_adaptable_text_editor) - [ad: an adaptable text editor](https://github.com/sminez/ad)
 * [2024-09-02, 02:13:02](https://lobste.rs/s/quqhpz/upgrading_toshiba_nas_hdd_firmware_on) - [Upgrading a Toshiba NAS HDD firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
 * [2024-09-02, 01:57:41](https://lobste.rs/s/ci470u/place_expressions_value_expressions) - [Place expressions and value expressions in Rust](https://www.ralfj.de/blog/2024/08/14/places.html)
