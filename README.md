@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-02, 08:22:40](https://lobste.rs/s/4srmij/differing_values_team_are_costly) - [Differing Values In A Team Are Costly](https://rtpg.co/2024/08/31/cost-of-a-values-gap/)
+* [2024-09-02, 08:21:07](https://lobste.rs/s/2tuunx/strvct_framework) - [Strvct Framework](https://strvct.net/)
 * [2024-09-02, 06:16:46](https://lobste.rs/s/y4gdes/tag_proposal_hn_for_stories_reposted_from) - [Tag proposal: \"hn\", for stories reposted from Hacker News](https://lobste.rs/s/y4gdes/tag_proposal_hn_for_stories_reposted_from)
 * [2024-09-02, 04:47:55](https://lobste.rs/s/phs6le/ad_adaptable_text_editor) - [ad: an adaptable text editor](https://github.com/sminez/ad)
 * [2024-09-02, 02:13:02](https://lobste.rs/s/quqhpz/upgrading_toshiba_nas_hdd_firmware_on) - [Upgrading a Toshiba NAS HDD firmware on Linux](https://syscall.eu/blog/2024/08/28/toshiba_hdd_firmware/)
@@ -13,7 +15,6 @@
 * [2024-09-01, 18:06:05](https://lobste.rs/s/s8lg8x/what_happens_before_main_is_invoked_rust) - [What happens before main is invoked in Rust](https://www.youtube.com/watch?v=q8irLfXwaFM)
 * [2024-09-01, 16:05:49](https://lobste.rs/s/nih951/understanding_virtual_machine_dispatch) - [Understanding Virtual Machine Dispatch through Duality (2023)](https://noelwelsh.com/posts/understanding-vm-dispatch/)
 * [2024-09-01, 15:54:05](https://lobste.rs/s/dtujok/event_driven_core_request_response_shell) - [Event-Driven Core, Request-Response Shell](https://www.reactivesystems.eu/2024/08/31/event-driven-core-request-response-shell.html)
-* [2024-09-01, 15:31:16](https://lobste.rs/s/wceiob/why_is_python_shipped_with_python_docker) - [Why is python shipped with the `python` docker image slower than that of my local machine?](https://github.com/docker-library/python/issues/825)
 * [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 * [2024-09-01, 11:45:34](https://lobste.rs/s/k90acr/web_s_clipboard_how_it_stores_data) - [The web's clipboard, and how it stores data of different types](https://alexharri.com/blog/clipboard)
 * [2024-09-01, 09:08:00](https://lobste.rs/s/v4spy8/wifi_auth_with_osmohlr_sim_cards) - [WiFi auth with OsmoHLR/SIM cards](https://kittenlabs.de/blog/2024/08/31/wifi-auth-with-osmohlr/sim-cards/)
@@ -24,7 +25,6 @@
 * [2024-08-31, 21:26:25](https://lobste.rs/s/jlavdk/lesser_known_operators_c) - [Lesser-known operators in C#](https://www.alogoulogoi.com/post/2024/lesser-known-operators-in-cs.html)
 * [2024-08-31, 16:35:52](https://lobste.rs/s/8mnyty/ssh_ca_with_device_identity_attestation) - [SSH CA with device and identity attestation: ssh-tpm-ca-authority](https://linderud.dev/blog/ssh-ca-with-device-and-identity-attestation-ssh-tpm-ca-authority/)
 * [2024-08-31, 14:20:46](https://lobste.rs/s/lv0pqq/cheri_myths_i_don_t_need_cheri_if_i_have_safe) - [CHERI Myths: I don’t need CHERI if I have safe languages](https://cheriot.org/cheri/myths/2024/08/28/cheri-myths-safe-languages.html)
-* [2024-08-31, 06:59:41](https://lobste.rs/s/xe963n/this_month_servo_tabbed_browsing_windows) - [This month in Servo: tabbed browsing, Windows buffs, devtools, and more](https://servo.org/blog/2024/08/31/this-month-in-servo/)
 
 ## [Archives](archives/index.md)
 
