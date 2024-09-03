@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-03, 07:27:24](https://lobste.rs/s/rupay2/make_your_own_cdn_with_netbsd) - [Make Your Own CDN With NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
 * [2024-09-03, 06:58:52](https://lobste.rs/s/hvxf8o/shader_language_ecs_idea) - [Shader Language ECS - An idea](https://hugodaniel.com/posts/ecs-wgsl/)
 * [2024-09-03, 05:42:32](https://lobste.rs/s/lzgi7k/co_initialize_security_function_demands) - [The Co­Initialize­Security function demands an absolute security descriptor](https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201)
 * [2024-09-03, 05:22:11](https://lobste.rs/s/nsdpki/implementation_functional_languages) - [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
@@ -24,7 +25,6 @@
 * [2024-09-02, 00:32:31](https://lobste.rs/s/teqxgn/why_i_isn_t_going_make_art) - [Why A.I. Isn’t Going to Make Art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
 * [2024-09-01, 21:35:27](https://lobste.rs/s/wzfrud/extreme_pi_boot_optimization) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
 * [2024-09-01, 19:25:22](https://lobste.rs/s/nlblxr/pentium_as_navajo_weaving) - [The Pentium as a Navajo weaving](http://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
-* [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 
 ## [Archives](archives/index.md)
 

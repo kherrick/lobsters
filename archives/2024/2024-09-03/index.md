@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 07:27:24](https://lobste.rs/s/rupay2/make_your_own_cdn_with_netbsd) - [Make Your Own CDN With NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
 * [2024-09-03, 06:58:52](https://lobste.rs/s/hvxf8o/shader_language_ecs_idea) - [Shader Language ECS - An idea](https://hugodaniel.com/posts/ecs-wgsl/)
 * [2024-09-03, 05:42:32](https://lobste.rs/s/lzgi7k/co_initialize_security_function_demands) - [The Co­Initialize­Security function demands an absolute security descriptor](https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201)
 * [2024-09-03, 05:22:11](https://lobste.rs/s/nsdpki/implementation_functional_languages) - [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
