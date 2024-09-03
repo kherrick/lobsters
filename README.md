@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-03, 14:28:22](https://lobste.rs/s/pcuxdx/type_inference_needs_revolution_2015) - [Type Inference Needs Revolution (2015)](https://www.youtube.com/watch?v=ad4BVmPni7A)
 * [2024-09-03, 14:03:41](https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for) - [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
 * [2024-09-03, 13:29:03](https://lobste.rs/s/kz1kep/licensing_is_packaging) - [Licensing is packaging](https://keygen.sh/blog/licensing-is-packaging/)
 * [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
@@ -19,7 +20,6 @@
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
 * [2024-09-02, 15:52:53](https://lobste.rs/s/gqnxqr/ipmi) - [ipmi](https://computer.rip/2024-08-31-ipmi.html)
 * [2024-09-02, 14:16:21](https://lobste.rs/s/ctaiea/opinions_for_writing_good_css) - [Opinions for Writing Good CSS](https://andrewwalpole.com/blog/opinions-for-writing-good-css/)
-* [2024-09-02, 13:17:59](https://lobste.rs/s/clmkwj/io_uring_echo_server) - [io_uring echo server](https://www.thespatula.io/rust/rust_io_uring_echo_server/)
 * [2024-09-02, 11:34:05](https://lobste.rs/s/pijs3w/what_is_table_oriented_programming) - [What is Table-Oriented Programming?](https://wayland.github.io/table-oriented-programming/TOP/Introduction/What.xml)
 * [2024-09-02, 10:32:19](https://lobste.rs/s/girl6w/why_i_still_use_python_virtual) - [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/)
 * [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)

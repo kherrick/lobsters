@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 14:28:22](https://lobste.rs/s/pcuxdx/type_inference_needs_revolution_2015) - [Type Inference Needs Revolution (2015)](https://www.youtube.com/watch?v=ad4BVmPni7A)
 * [2024-09-03, 14:03:41](https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for) - [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
 * [2024-09-03, 13:29:03](https://lobste.rs/s/kz1kep/licensing_is_packaging) - [Licensing is packaging](https://keygen.sh/blog/licensing-is-packaging/)
 * [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
