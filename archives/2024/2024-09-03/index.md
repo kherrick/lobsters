@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 16:59:49](https://lobste.rs/s/uydl7y/ibm_i_for_wintel_hackers) - [IBM i for Wintel Hackers](https://www.youtube.com/watch?v=t4fUvfzgUbY)
+* [2024-09-03, 16:59:05](https://lobste.rs/s/ev25uf/kuberift_ssh_into_your_kubernetes) - [kuberift: SSH into your Kubernetes cluster](https://github.com/grampelberg/kuberift)
 * [2024-09-03, 16:42:25](https://lobste.rs/s/vr3mky/yubikey_is_digital_seat_belt_we_need_today) - [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
 * [2024-09-03, 16:28:15](https://lobste.rs/s/kg2hba/is_this_trait_sealed_not_sealed_is) - [Is this trait sealed, or not sealed — that is the question](https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/)
 * [2024-09-03, 16:26:22](https://lobste.rs/s/dai5mf/linux_year_one) - [linux, year one](https://packbat.neocities.org/linux_year_one_twice)
