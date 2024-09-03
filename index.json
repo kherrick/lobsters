@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-03, 16:59:49",
+      "https://lobste.rs/s/uydl7y/ibm_i_for_wintel_hackers"
+    ],
+    [
+      "IBM i for Wintel Hackers",
+      "https://www.youtube.com/watch?v=t4fUvfzgUbY"
+    ]
+  ],
+  [
+    [
+      "2024-09-03, 16:59:05",
+      "https://lobste.rs/s/ev25uf/kuberift_ssh_into_your_kubernetes"
+    ],
+    [
+      "kuberift: SSH into your Kubernetes cluster",
+      "https://github.com/grampelberg/kuberift"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 16:42:25",
       "https://lobste.rs/s/vr3mky/yubikey_is_digital_seat_belt_we_need_today"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-09-03, 06:58:52",
-      "https://lobste.rs/s/hvxf8o/shader_language_ecs_idea"
-    ],
-    [
-      "Shader Language ECS - An idea",
-      "https://hugodaniel.com/posts/ecs-wgsl/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 05:22:11",
       "https://lobste.rs/s/nsdpki/implementation_functional_languages"
     ],
@@ -237,16 +247,6 @@
     [
       "Differing Values In A Team Are Costly",
       "https://rtpg.co/2024/08/31/cost-of-a-values-gap/"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 04:47:55",
-      "https://lobste.rs/s/phs6le/ad_adaptable_text_editor"
-    ],
-    [
-      "ad: an adaptable text editor",
-      "https://github.com/sminez/ad"
     ]
   ]
 ]
