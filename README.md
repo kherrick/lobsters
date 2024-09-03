@@ -2,6 +2,7 @@
 
 * [2024-09-03, 21:08:32](https://lobste.rs/s/g6ldhy/landlock_from_security_mechanism_idea) - [Landlock: From a security mechanism idea to a widely available implementation](https://landlock.io/talks/2024-06-06_landlock-article.pdf)
 * [2024-09-03, 19:48:06](https://lobste.rs/s/4i3zyd/yubikey_security_advisory_ysa_2024_03) - [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)
+* [2024-09-03, 18:49:52](https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm) - [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
 * [2024-09-03, 18:49:31](https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc) - [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
 * [2024-09-03, 18:34:49](https://lobste.rs/s/i5d6cl/fundamental_law_software_dependencies) - [The Fundamental Law Of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
 * [2024-09-03, 18:25:18](https://lobste.rs/s/8jxnrx/generating_chess_puzzles_fast_with_rust) - [Generating Chess Puzzles Fast with Rust and Stockfish](https://mbuffett.com/posts/generating_chess_puzzles/)
@@ -22,7 +23,6 @@
 * [2024-09-03, 05:22:11](https://lobste.rs/s/nsdpki/implementation_functional_languages) - [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
 * [2024-09-03, 03:28:18](https://lobste.rs/s/8mkjwq/coloring_korean_keystrokes_11_172) - [Coloring Korean Keystrokes: 11'172 Characters](https://www.sam.today/blog/partial-jamo)
 * [2024-09-02, 19:25:34](https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust) - [Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time](https://oneirical.github.io/gsocfinal/)
-* [2024-09-02, 19:15:50](https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm) - [My coding experience with LLM](https://kokada.dev/blog/my-coding-experience-with-llm/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
 * [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 
