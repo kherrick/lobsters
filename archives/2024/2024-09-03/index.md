@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 11:17:52](https://lobste.rs/s/khqfkb/python_programmers_experience) - [Python Programmers' Experience](https://two-wrongs.com/python-programmers-experience)
 * [2024-09-03, 11:02:28](https://lobste.rs/s/vmueue/overview_cloudflare_s_logging_pipeline) - [An overview of Cloudflare's logging pipeline](https://blog.cloudflare.com/an-overview-of-cloudflares-logging-pipeline/)
 * [2024-09-03, 10:13:40](https://lobste.rs/s/u6vco1/setting_up_cache_server_for_apt_packages) - [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
 * [2024-09-03, 10:08:47](https://lobste.rs/s/w5ipmp/save_splicing) - [save-splicing](https://banyaszvonat.github.io/breaking-videogames/2024/09/03/save-splicing.html)
