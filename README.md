@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-03, 16:42:25](https://lobste.rs/s/vr3mky/yubikey_is_digital_seat_belt_we_need_today) - [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
 * [2024-09-03, 16:28:15](https://lobste.rs/s/kg2hba/is_this_trait_sealed_not_sealed_is) - [Is this trait sealed, or not sealed — that is the question](https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/)
 * [2024-09-03, 16:26:22](https://lobste.rs/s/dai5mf/linux_year_one) - [linux, year one](https://packbat.neocities.org/linux_year_one_twice)
 * [2024-09-03, 15:55:48](https://lobste.rs/s/bhjqx3/limb_metaphor_for_simplicity) - [the limb-metaphor for simplicity](https://explaining.software/archive/the-limb-metaphor-for-simplicity/)
@@ -21,7 +22,6 @@
 * [2024-09-02, 19:15:50](https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm) - [My coding experience with LLM](https://kokada.dev/blog/my-coding-experience-with-llm/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
 * [2024-09-02, 15:52:53](https://lobste.rs/s/gqnxqr/ipmi) - [ipmi](https://computer.rip/2024-08-31-ipmi.html)
-* [2024-09-02, 10:32:19](https://lobste.rs/s/girl6w/why_i_still_use_python_virtual) - [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/)
 * [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 * [2024-09-02, 08:22:40](https://lobste.rs/s/4srmij/differing_values_team_are_costly) - [Differing Values In A Team Are Costly](https://rtpg.co/2024/08/31/cost-of-a-values-gap/)
 * [2024-09-02, 04:47:55](https://lobste.rs/s/phs6le/ad_adaptable_text_editor) - [ad: an adaptable text editor](https://github.com/sminez/ad)
