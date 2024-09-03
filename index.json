@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-03, 05:42:32",
+      "https://lobste.rs/s/lzgi7k/co_initialize_security_function_demands"
+    ],
+    [
+      "The Co­Initialize­Security function demands an absolute security descriptor",
+      "https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 05:22:11",
       "https://lobste.rs/s/nsdpki/implementation_functional_languages"
     ],
@@ -107,16 +117,6 @@
     [
       "ipmi",
       "https://computer.rip/2024-08-31-ipmi.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 14:45:39",
-      "https://lobste.rs/s/rjo9nz/nearly_optimal_mergesorts_fast"
-    ],
-    [
-      "Nearly-Optimal Mergesorts: Fast, Practical Sorting Methods That Optimally Adapt to Existing Runs (2018)",
-      "https://www.wild-inter.net/publications/munro-wild-2018"
     ]
   ],
   [
