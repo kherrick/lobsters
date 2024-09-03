@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-09-03, 18:49:52",
+      "https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm"
+    ],
+    [
+      "It's not Rust, it's FreeBSD (and LLVM)",
+      "https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 18:49:31",
       "https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc"
     ],
@@ -217,16 +227,6 @@
     [
       "Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time",
       "https://oneirical.github.io/gsocfinal/"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 19:15:50",
-      "https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm"
-    ],
-    [
-      "My coding experience with LLM",
-      "https://kokada.dev/blog/my-coding-experience-with-llm/"
     ]
   ],
   [
