@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 08:44:06](https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
+* [2024-09-03, 07:30:34](https://lobste.rs/s/m1j4b4/terminfo_at_this_point_time_is_net) - [Terminfo, at this point in time, is a net-negative on the terminal ecosystem](https://twoot.site/@bean/113056942625234032)
 * [2024-09-03, 07:27:24](https://lobste.rs/s/rupay2/make_your_own_cdn_with_netbsd) - [Make Your Own CDN With NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
 * [2024-09-03, 06:58:52](https://lobste.rs/s/hvxf8o/shader_language_ecs_idea) - [Shader Language ECS - An idea](https://hugodaniel.com/posts/ecs-wgsl/)
 * [2024-09-03, 05:42:32](https://lobste.rs/s/lzgi7k/co_initialize_security_function_demands) - [The Co­Initialize­Security function demands an absolute security descriptor](https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201)
