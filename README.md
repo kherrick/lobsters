@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-03, 05:42:32](https://lobste.rs/s/lzgi7k/co_initialize_security_function_demands) - [The Co­Initialize­Security function demands an absolute security descriptor](https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201)
 * [2024-09-03, 05:22:11](https://lobste.rs/s/nsdpki/implementation_functional_languages) - [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
 * [2024-09-03, 03:28:18](https://lobste.rs/s/8mkjwq/coloring_korean_keystrokes_11_172) - [Coloring Korean Keystrokes: 11'172 Characters](https://www.sam.today/blog/partial-jamo)
 * [2024-09-03, 01:18:49](https://lobste.rs/s/dw9gjv/exponential_rate_limiting) - [exponential rate limiting](https://dotat.at/@/2024-09-02-ewma.html)
@@ -11,7 +12,6 @@
 * [2024-09-02, 17:15:57](https://lobste.rs/s/erlil7/latency_throughput_tradeoff_why_fast) - [The Latency/Throughput Tradeoff: Why Fast Services Are Slow And Vice Versa](https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/)
 * [2024-09-02, 16:26:48](https://lobste.rs/s/a3oc2h/reasons_write_design_docs) - [Reasons to write design docs](https://ntietz.com/blog/reasons-to-write-design-docs/)
 * [2024-09-02, 15:52:53](https://lobste.rs/s/gqnxqr/ipmi) - [ipmi](https://computer.rip/2024-08-31-ipmi.html)
-* [2024-09-02, 14:45:39](https://lobste.rs/s/rjo9nz/nearly_optimal_mergesorts_fast) - [Nearly-Optimal Mergesorts: Fast, Practical Sorting Methods That Optimally Adapt to Existing Runs (2018)](https://www.wild-inter.net/publications/munro-wild-2018)
 * [2024-09-02, 14:16:21](https://lobste.rs/s/ctaiea/opinions_for_writing_good_css) - [Opinions for Writing Good CSS](https://andrewwalpole.com/blog/opinions-for-writing-good-css/)
 * [2024-09-02, 13:17:59](https://lobste.rs/s/clmkwj/io_uring_echo_server) - [io_uring echo server](https://www.thespatula.io/rust/rust_io_uring_echo_server/)
 * [2024-09-02, 11:34:05](https://lobste.rs/s/pijs3w/what_is_table_oriented_programming) - [What is Table-Oriented Programming?](https://wayland.github.io/table-oriented-programming/TOP/Introduction/What.xml)
