@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-03, 10:08:47](https://lobste.rs/s/w5ipmp/save_splicing) - [save-splicing](https://banyaszvonat.github.io/breaking-videogames/2024/09/03/save-splicing.html)
 * [2024-09-03, 08:44:06](https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 07:30:34](https://lobste.rs/s/m1j4b4/terminfo_at_this_point_time_is_net) - [Terminfo, at this point in time, is a net-negative on the terminal ecosystem](https://twoot.site/@bean/113056942625234032)
 * [2024-09-03, 07:27:24](https://lobste.rs/s/rupay2/make_your_own_cdn_with_netbsd) - [Make Your Own CDN With NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
@@ -12,7 +13,6 @@
 * [2024-09-02, 19:25:34](https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust) - [Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time](https://oneirical.github.io/gsocfinal/)
 * [2024-09-02, 19:15:50](https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm) - [My coding experience with LLM](https://kokada.dev/blog/my-coding-experience-with-llm/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
-* [2024-09-02, 17:15:57](https://lobste.rs/s/erlil7/latency_throughput_tradeoff_why_fast) - [The Latency/Throughput Tradeoff: Why Fast Services Are Slow And Vice Versa](https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/)
 * [2024-09-02, 16:26:48](https://lobste.rs/s/a3oc2h/reasons_write_design_docs) - [Reasons to write design docs](https://ntietz.com/blog/reasons-to-write-design-docs/)
 * [2024-09-02, 15:52:53](https://lobste.rs/s/gqnxqr/ipmi) - [ipmi](https://computer.rip/2024-08-31-ipmi.html)
 * [2024-09-02, 14:16:21](https://lobste.rs/s/ctaiea/opinions_for_writing_good_css) - [Opinions for Writing Good CSS](https://andrewwalpole.com/blog/opinions-for-writing-good-css/)

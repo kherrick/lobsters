@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 10:08:47](https://lobste.rs/s/w5ipmp/save_splicing) - [save-splicing](https://banyaszvonat.github.io/breaking-videogames/2024/09/03/save-splicing.html)
 * [2024-09-03, 08:44:06](https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 07:30:34](https://lobste.rs/s/m1j4b4/terminfo_at_this_point_time_is_net) - [Terminfo, at this point in time, is a net-negative on the terminal ecosystem](https://twoot.site/@bean/113056942625234032)
 * [2024-09-03, 07:27:24](https://lobste.rs/s/rupay2/make_your_own_cdn_with_netbsd) - [Make Your Own CDN With NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
