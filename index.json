@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-03, 20:57:23",
+      "https://lobste.rs/s/t7floq/eucleak_side_channel_attack_on_yubikey_5"
+    ],
+    [
+      "EUCLEAK: Side-Channel Attack on the YubiKey 5 Series",
+      "https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 19:48:06",
       "https://lobste.rs/s/4i3zyd/yubikey_security_advisory_ysa_2024_03"
     ],
@@ -207,16 +217,6 @@
     [
       "Implementation of Functional Languages Using Custom Hardware (1985)",
       "https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 03:28:18",
-      "https://lobste.rs/s/8mkjwq/coloring_korean_keystrokes_11_172"
-    ],
-    [
-      "Coloring Korean Keystrokes: 11'172 Characters",
-      "https://www.sam.today/blog/partial-jamo"
     ]
   ],
   [
