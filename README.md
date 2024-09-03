@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-03, 01:18:49](https://lobste.rs/s/dw9gjv/exponential_rate_limiting) - [exponential rate limiting](https://dotat.at/@/2024-09-02-ewma.html)
 * [2024-09-02, 19:25:34](https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust) - [Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time](https://oneirical.github.io/gsocfinal/)
 * [2024-09-02, 19:15:50](https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm) - [My coding experience with LLM](https://kokada.dev/blog/my-coding-experience-with-llm/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
@@ -10,7 +11,6 @@
 * [2024-09-02, 14:45:39](https://lobste.rs/s/rjo9nz/nearly_optimal_mergesorts_fast) - [Nearly-Optimal Mergesorts: Fast, Practical Sorting Methods That Optimally Adapt to Existing Runs (2018)](https://www.wild-inter.net/publications/munro-wild-2018)
 * [2024-09-02, 14:16:21](https://lobste.rs/s/ctaiea/opinions_for_writing_good_css) - [Opinions for Writing Good CSS](https://andrewwalpole.com/blog/opinions-for-writing-good-css/)
 * [2024-09-02, 13:17:59](https://lobste.rs/s/clmkwj/io_uring_echo_server) - [io_uring echo server](https://www.thespatula.io/rust/rust_io_uring_echo_server/)
-* [2024-09-02, 12:54:19](https://lobste.rs/s/ef54co/on_distributed_systems) - [On distributed systems](https://www.superdurszlak.dev/intro/)
 * [2024-09-02, 11:34:05](https://lobste.rs/s/pijs3w/what_is_table_oriented_programming) - [What is Table-Oriented Programming?](https://wayland.github.io/table-oriented-programming/TOP/Introduction/What.xml)
 * [2024-09-02, 10:32:19](https://lobste.rs/s/girl6w/why_i_still_use_python_virtual) - [Why I Still Use Python Virtual Environments in Docker](https://hynek.me/articles/docker-virtualenv/)
 * [2024-09-02, 10:04:45](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/gk6ika/what_are_you_doing_this_week)
