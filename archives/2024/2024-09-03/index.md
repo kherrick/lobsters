@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
 * [2024-09-03, 12:37:38](https://lobste.rs/s/z5xvdp/how_deadlock_tokio_application_rust_with) - [How to deadlock Tokio application in Rust with just a single mutex](https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex)
 * [2024-09-03, 11:17:52](https://lobste.rs/s/khqfkb/python_programmers_experience) - [Python Programmers' Experience](https://two-wrongs.com/python-programmers-experience)
 * [2024-09-03, 11:02:28](https://lobste.rs/s/vmueue/overview_cloudflare_s_logging_pipeline) - [An overview of Cloudflare's logging pipeline](https://blog.cloudflare.com/an-overview-of-cloudflares-logging-pipeline/)

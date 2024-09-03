@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
 * [2024-09-03, 12:37:38](https://lobste.rs/s/z5xvdp/how_deadlock_tokio_application_rust_with) - [How to deadlock Tokio application in Rust with just a single mutex](https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex)
 * [2024-09-03, 11:17:52](https://lobste.rs/s/khqfkb/python_programmers_experience) - [Python Programmers' Experience](https://two-wrongs.com/python-programmers-experience)
 * [2024-09-03, 11:02:28](https://lobste.rs/s/vmueue/overview_cloudflare_s_logging_pipeline) - [An overview of Cloudflare's logging pipeline](https://blog.cloudflare.com/an-overview-of-cloudflares-logging-pipeline/)
@@ -13,7 +14,6 @@
 * [2024-09-03, 05:22:11](https://lobste.rs/s/nsdpki/implementation_functional_languages) - [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
 * [2024-09-03, 03:28:18](https://lobste.rs/s/8mkjwq/coloring_korean_keystrokes_11_172) - [Coloring Korean Keystrokes: 11'172 Characters](https://www.sam.today/blog/partial-jamo)
 * [2024-09-03, 01:18:49](https://lobste.rs/s/dw9gjv/exponential_rate_limiting) - [exponential rate limiting](https://dotat.at/@/2024-09-02-ewma.html)
-* [2024-09-03, 01:17:17](https://lobste.rs/s/v2qemg/what_is_react_js) - [What Is React.js?](https://briefs.video/videos/what-is-react/)
 * [2024-09-02, 19:25:34](https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust) - [Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time](https://oneirical.github.io/gsocfinal/)
 * [2024-09-02, 19:15:50](https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm) - [My coding experience with LLM](https://kokada.dev/blog/my-coding-experience-with-llm/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
