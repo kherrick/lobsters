@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-03, 11:02:28",
+      "https://lobste.rs/s/vmueue/overview_cloudflare_s_logging_pipeline"
+    ],
+    [
+      "An overview of Cloudflare's logging pipeline",
+      "https://blog.cloudflare.com/an-overview-of-cloudflares-logging-pipeline/"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 10:13:40",
       "https://lobste.rs/s/u6vco1/setting_up_cache_server_for_apt_packages"
     ],
@@ -57,16 +67,6 @@
     [
       "Shader Language ECS - An idea",
       "https://hugodaniel.com/posts/ecs-wgsl/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 05:42:32",
-      "https://lobste.rs/s/lzgi7k/co_initialize_security_function_demands"
-    ],
-    [
-      "The Co­Initialize­Security function demands an absolute security descriptor",
-      "https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201"
     ]
   ],
   [
