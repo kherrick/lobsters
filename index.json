@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-09-02, 14:45:39",
+      "https://lobste.rs/s/rjo9nz/nearly_optimal_mergesorts_fast"
+    ],
+    [
+      "Nearly-Optimal Mergesorts: Fast, Practical Sorting Methods That Optimally Adapt to Existing Runs (2018)",
+      "https://www.wild-inter.net/publications/munro-wild-2018"
+    ]
+  ],
+  [
+    [
       "2024-09-02, 14:16:21",
       "https://lobste.rs/s/ctaiea/opinions_for_writing_good_css"
     ],
@@ -217,16 +227,6 @@
     [
       "Extreme Pi Boot Optimization",
       "https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 20:33:00",
-      "https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir"
-    ],
-    [
-      "Behavior Sanitizers in Elixir",
-      "https://blog.brycekerley.net/2024/09/01/elixir-behavior-sanitizer.html"
     ]
   ],
   [
