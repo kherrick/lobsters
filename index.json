@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-03, 07:27:24",
+      "https://lobste.rs/s/rupay2/make_your_own_cdn_with_netbsd"
+    ],
+    [
+      "Make Your Own CDN With NetBSD",
+      "https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 06:58:52",
       "https://lobste.rs/s/hvxf8o/shader_language_ecs_idea"
     ],
@@ -237,16 +247,6 @@
     [
       "The Pentium as a Navajo weaving",
       "http://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-01, 12:23:20",
-      "https://lobste.rs/s/heatnr/design_implementation_cpython_virtual"
-    ],
-    [
-      "The Design & Implementation of the CPython Virtual Machine",
-      "https://blog.codingconfessions.com/p/cpython-vm-internals"
     ]
   ]
 ]
