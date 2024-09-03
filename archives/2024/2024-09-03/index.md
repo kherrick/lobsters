@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 16:28:15](https://lobste.rs/s/kg2hba/is_this_trait_sealed_not_sealed_is) - [Is this trait sealed, or not sealed — that is the question](https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/)
+* [2024-09-03, 16:26:22](https://lobste.rs/s/dai5mf/linux_year_one) - [linux, year one](https://packbat.neocities.org/linux_year_one_twice)
 * [2024-09-03, 15:55:48](https://lobste.rs/s/bhjqx3/limb_metaphor_for_simplicity) - [the limb-metaphor for simplicity](https://explaining.software/archive/the-limb-metaphor-for-simplicity/)
 * [2024-09-03, 14:28:22](https://lobste.rs/s/pcuxdx/type_inference_needs_revolution_2015) - [Type Inference Needs Revolution (2015)](https://www.youtube.com/watch?v=ad4BVmPni7A)
 * [2024-09-03, 14:03:41](https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for) - [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
