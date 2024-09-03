@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-03, 18:49:31](https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc) - [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
+* [2024-09-03, 18:34:49](https://lobste.rs/s/i5d6cl/fundamental_law_software_dependencies) - [The Fundamental Law Of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
 * [2024-09-03, 18:25:18](https://lobste.rs/s/8jxnrx/generating_chess_puzzles_fast_with_rust) - [Generating Chess Puzzles Fast with Rust and Stockfish](https://mbuffett.com/posts/generating_chess_puzzles/)
 * [2024-09-03, 18:13:52](https://lobste.rs/s/cagxzy/tui_for_sniffing_network_traffic_using) - [A TUI for sniffing network traffic using eBPF on Linux](https://github.com/pythops/oryx)
 * [2024-09-03, 17:19:54](https://lobste.rs/s/zixkpz/grpc_5_years_later_is_it_still_worth_it) - [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
@@ -17,7 +18,6 @@
 * [2024-09-03, 10:13:40](https://lobste.rs/s/u6vco1/setting_up_cache_server_for_apt_packages) - [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
 * [2024-09-03, 08:44:06](https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 07:30:34](https://lobste.rs/s/m1j4b4/terminfo_at_this_point_time_is_net) - [Terminfo, at this point in time, is a net-negative on the terminal ecosystem](https://twoot.site/@bean/113056942625234032)
-* [2024-09-03, 07:27:24](https://lobste.rs/s/rupay2/make_your_own_cdn_with_netbsd) - [Make Your Own CDN With NetBSD](https://it-notes.dragas.net/2024/09/03/make-your-own-cdn-netbsd/)
 * [2024-09-03, 05:22:11](https://lobste.rs/s/nsdpki/implementation_functional_languages) - [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
 * [2024-09-03, 03:28:18](https://lobste.rs/s/8mkjwq/coloring_korean_keystrokes_11_172) - [Coloring Korean Keystrokes: 11'172 Characters](https://www.sam.today/blog/partial-jamo)
 * [2024-09-02, 19:25:34](https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust) - [Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time](https://oneirical.github.io/gsocfinal/)
