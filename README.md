@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-03, 06:58:52](https://lobste.rs/s/hvxf8o/shader_language_ecs_idea) - [Shader Language ECS - An idea](https://hugodaniel.com/posts/ecs-wgsl/)
 * [2024-09-03, 05:42:32](https://lobste.rs/s/lzgi7k/co_initialize_security_function_demands) - [The Co­Initialize­Security function demands an absolute security descriptor](https://devblogs.microsoft.com/oldnewthing/20240902-00/?p=110201)
 * [2024-09-03, 05:22:11](https://lobste.rs/s/nsdpki/implementation_functional_languages) - [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
 * [2024-09-03, 03:28:18](https://lobste.rs/s/8mkjwq/coloring_korean_keystrokes_11_172) - [Coloring Korean Keystrokes: 11'172 Characters](https://www.sam.today/blog/partial-jamo)
@@ -8,7 +9,6 @@
 * [2024-09-02, 19:25:34](https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust) - [Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time](https://oneirical.github.io/gsocfinal/)
 * [2024-09-02, 19:15:50](https://lobste.rs/s/ujvs3f/my_coding_experience_with_llm) - [My coding experience with LLM](https://kokada.dev/blog/my-coding-experience-with-llm/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
-* [2024-09-02, 17:17:16](https://lobste.rs/s/j2aprn/logic_computation_intertwined) - [Logic and Computation Intertwined](https://cs.uwaterloo.ca/~plragde/flaneries/LACI/index.html)
 * [2024-09-02, 17:15:57](https://lobste.rs/s/erlil7/latency_throughput_tradeoff_why_fast) - [The Latency/Throughput Tradeoff: Why Fast Services Are Slow And Vice Versa](https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/)
 * [2024-09-02, 16:26:48](https://lobste.rs/s/a3oc2h/reasons_write_design_docs) - [Reasons to write design docs](https://ntietz.com/blog/reasons-to-write-design-docs/)
 * [2024-09-02, 15:52:53](https://lobste.rs/s/gqnxqr/ipmi) - [ipmi](https://computer.rip/2024-08-31-ipmi.html)
