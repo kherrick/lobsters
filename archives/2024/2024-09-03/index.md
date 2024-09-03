@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 15:55:48](https://lobste.rs/s/bhjqx3/limb_metaphor_for_simplicity) - [the limb-metaphor for simplicity](https://explaining.software/archive/the-limb-metaphor-for-simplicity/)
 * [2024-09-03, 14:28:22](https://lobste.rs/s/pcuxdx/type_inference_needs_revolution_2015) - [Type Inference Needs Revolution (2015)](https://www.youtube.com/watch?v=ad4BVmPni7A)
 * [2024-09-03, 14:03:41](https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for) - [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
 * [2024-09-03, 13:29:03](https://lobste.rs/s/kz1kep/licensing_is_packaging) - [Licensing is packaging](https://keygen.sh/blog/licensing-is-packaging/)
