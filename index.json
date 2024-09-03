@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-03, 14:28:22",
+      "https://lobste.rs/s/pcuxdx/type_inference_needs_revolution_2015"
+    ],
+    [
+      "Type Inference Needs Revolution (2015)",
+      "https://www.youtube.com/watch?v=ad4BVmPni7A"
+    ]
+  ],
+  [
+    [
       "2024-09-03, 14:03:41",
       "https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for"
     ],
@@ -187,16 +197,6 @@
     [
       "Opinions for Writing Good CSS",
       "https://andrewwalpole.com/blog/opinions-for-writing-good-css/"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 13:17:59",
-      "https://lobste.rs/s/clmkwj/io_uring_echo_server"
-    ],
-    [
-      "io_uring echo server",
-      "https://www.thespatula.io/rust/rust_io_uring_echo_server/"
     ]
   ],
   [
