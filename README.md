@@ -11,6 +11,7 @@
 * [2024-09-02, 17:15:57](https://lobste.rs/s/erlil7/latency_throughput_tradeoff_why_fast) - [The Latency/Throughput Tradeoff: Why Fast Services Are Slow And Vice Versa](https://blog.danslimmon.com/2019/02/26/the-latency-throughput-tradeoff-why-fast-services-are-slow-and-vice-versa/)
 * [2024-09-02, 16:26:48](https://lobste.rs/s/a3oc2h/reasons_write_design_docs) - [Reasons to write design docs](https://ntietz.com/blog/reasons-to-write-design-docs/)
 * [2024-09-02, 15:52:53](https://lobste.rs/s/gqnxqr/ipmi) - [ipmi](https://computer.rip/2024-08-31-ipmi.html)
+* [2024-09-02, 14:45:39](https://lobste.rs/s/rjo9nz/nearly_optimal_mergesorts_fast) - [Nearly-Optimal Mergesorts: Fast, Practical Sorting Methods That Optimally Adapt to Existing Runs (2018)](https://www.wild-inter.net/publications/munro-wild-2018)
 * [2024-09-02, 14:16:21](https://lobste.rs/s/ctaiea/opinions_for_writing_good_css) - [Opinions for Writing Good CSS](https://andrewwalpole.com/blog/opinions-for-writing-good-css/)
 * [2024-09-02, 13:17:59](https://lobste.rs/s/clmkwj/io_uring_echo_server) - [io_uring echo server](https://www.thespatula.io/rust/rust_io_uring_echo_server/)
 * [2024-09-02, 11:34:05](https://lobste.rs/s/pijs3w/what_is_table_oriented_programming) - [What is Table-Oriented Programming?](https://wayland.github.io/table-oriented-programming/TOP/Introduction/What.xml)
@@ -22,7 +23,6 @@
 * [2024-09-02, 01:57:41](https://lobste.rs/s/ci470u/place_expressions_value_expressions) - [Place expressions and value expressions in Rust](https://www.ralfj.de/blog/2024/08/14/places.html)
 * [2024-09-02, 00:32:31](https://lobste.rs/s/teqxgn/why_i_isn_t_going_make_art) - [Why A.I. Isn’t Going to Make Art](https://www.newyorker.com/culture/the-weekend-essay/why-ai-isnt-going-to-make-art)
 * [2024-09-01, 21:35:27](https://lobste.rs/s/wzfrud/extreme_pi_boot_optimization) - [Extreme Pi Boot Optimization](https://kittenlabs.de/blog/2024/09/01/extreme-pi-boot-optimization/)
-* [2024-09-01, 20:33:00](https://lobste.rs/s/ui9kvb/behavior_sanitizers_elixir) - [Behavior Sanitizers in Elixir](https://blog.brycekerley.net/2024/09/01/elixir-behavior-sanitizer.html)
 * [2024-09-01, 19:25:22](https://lobste.rs/s/nlblxr/pentium_as_navajo_weaving) - [The Pentium as a Navajo weaving](http://www.righto.com/2024/08/pentium-navajo-fairchild-shiprock.html)
 * [2024-09-01, 12:23:20](https://lobste.rs/s/heatnr/design_implementation_cpython_virtual) - [The Design & Implementation of the CPython Virtual Machine](https://blog.codingconfessions.com/p/cpython-vm-internals)
 
