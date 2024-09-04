@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 15:26:31",
+      "https://lobste.rs/s/mgkzlx/home_baked_abstractions_store_bought"
+    ],
+    [
+      "Home Baked Abstractions, Store Bought Implementations",
+      "https://hazelweakly.me/blog/home-baked-abstractions-store-bought-implementations/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 14:26:11",
       "https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout"
     ],
@@ -197,16 +207,6 @@
     [
       "Is this trait sealed, or not sealed — that is the question",
       "https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 14:03:41",
-      "https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for"
-    ],
-    [
-      "zigimports: Unused imports remover for Zig",
-      "https://github.com/tusharsadhwani/zigimports"
     ]
   ],
   [
