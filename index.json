@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-04, 14:11:53",
+      "https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver"
+    ],
+    [
+      "Whither the Apple AGX graphics driver?",
+      "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 14:04:39",
+      "https://lobste.rs/s/mgydaw/expat_2_6_3_released_includes_security"
+    ],
+    [
+      "Expat 2.6.3 released, includes security fixes",
+      "https://blog.hartwork.org/posts/expat-2-6-3-released/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 13:45:48",
       "https://lobste.rs/s/dzsgie/exploring_goja_golang_javascript"
     ],
@@ -87,16 +107,6 @@
     [
       "Firefox will consider a Rust implementation of JPEG-XL",
       "https://github.com/mozilla/standards-positions/pull/1064"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 21:08:32",
-      "https://lobste.rs/s/g6ldhy/landlock_from_security_mechanism_idea"
-    ],
-    [
-      "Landlock: From a security mechanism idea to a widely available implementation",
-      "https://landlock.io/talks/2024-06-06_landlock-article.pdf"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Greppability is an underrated code metric",
       "https://morizbuesing.com/blog/greppability-code-metric/"
-    ]
-  ],
-  [
-    [
-      "2024-09-02, 17:41:06",
-      "https://lobste.rs/s/kfpzks/departure_mono"
-    ],
-    [
-      "Departure Mono",
-      "https://departuremono.com/"
     ]
   ]
 ]
