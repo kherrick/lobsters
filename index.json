@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-04, 11:49:10",
+      "https://lobste.rs/s/nzhhsr/things_i_wished_more_developers_knew"
+    ],
+    [
+      "Things I Wished More Developers Knew About Databases",
+      "https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78"
+    ]
+  ],
+  [
+    [
+      "2024-09-04, 11:18:24",
+      "https://lobste.rs/s/sdkbtk/fedora_has_been_shipping_with_broken"
+    ],
+    [
+      "Fedora has been shipping with a broken screen reader for nine years but the real problem is me",
+      "https://ar.al/2024/06/23/fedora-has-been-shipping-with-a-broken-screen-reader-for-nine-years-but-the-real-problem-is-me/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 11:13:07",
       "https://lobste.rs/s/g0qe5y/hardenedbsd_august_2024_status_report"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-09-03, 18:25:18",
-      "https://lobste.rs/s/8jxnrx/generating_chess_puzzles_fast_with_rust"
-    ],
-    [
-      "Generating Chess Puzzles Fast with Rust and Stockfish",
-      "https://mbuffett.com/posts/generating_chess_puzzles/"
-    ]
-  ],
-  [
-    [
       "2024-09-03, 18:13:52",
       "https://lobste.rs/s/cagxzy/tui_for_sniffing_network_traffic_using"
     ],
@@ -157,16 +167,6 @@
     [
       "Is this trait sealed, or not sealed — that is the question",
       "https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 15:55:48",
-      "https://lobste.rs/s/bhjqx3/limb_metaphor_for_simplicity"
-    ],
-    [
-      "the limb-metaphor for simplicity",
-      "https://explaining.software/archive/the-limb-metaphor-for-simplicity/"
     ]
   ],
   [
