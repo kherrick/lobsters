@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 14:26:11",
+      "https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout"
+    ],
+    [
+      "Avoiding Test-Case Permutation Blowout",
+      "https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 14:11:53",
       "https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver"
     ],
@@ -217,16 +227,6 @@
     [
       "How to deadlock Tokio application in Rust with just a single mutex",
       "https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 11:17:52",
-      "https://lobste.rs/s/khqfkb/python_programmers_experience"
-    ],
-    [
-      "Python Programmers' Experience",
-      "https://two-wrongs.com/python-programmers-experience"
     ]
   ],
   [
