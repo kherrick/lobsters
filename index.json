@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 05:25:26",
+      "https://lobste.rs/s/m9bhxk/beyond_ctrl_c_dark_corners_unix_signal"
+    ],
+    [
+      "Beyond Ctrl-C: The dark corners of Unix signal handling",
+      "https://sunshowers.io/posts/beyond-ctrl-c-signals/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 03:29:08",
       "https://lobste.rs/s/xjsxlh/practice_abstractions_hide_their"
     ],
@@ -27,16 +37,6 @@
     [
       "Firefox will consider a Rust implementation of JPEG-XL",
       "https://github.com/mozilla/standards-positions/pull/1064"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 21:08:32",
-      "https://lobste.rs/s/g6ldhy/landlock_from_security_mechanism_idea"
-    ],
-    [
-      "Landlock: From a security mechanism idea to a widely available implementation",
-      "https://landlock.io/talks/2024-06-06_landlock-article.pdf"
     ]
   ],
   [
