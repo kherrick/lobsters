@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-04, 17:27:42](https://lobste.rs/s/ojm6cn/async_rust_can_be_pleasure_work_with) - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/)
-* [2024-09-04, 17:19:44](https://lobste.rs/s/ezrmpf/php_is_best_choice_for_long_term_business) - [PHP is the Best Choice for Long-Term Business](https://tomasvotruba.com/blog/php-is-the-best-choice-for-long-term-business)
 * [2024-09-04, 17:11:43](https://lobste.rs/s/10z34j/tui_for_lobste_rs_website) - [TUI for lobste.rs website](https://github.com/pythops/lobtui)
 * [2024-09-04, 15:35:59](https://lobste.rs/s/6apri9/programming_convergent_workslate_s) - [Programming the Convergent WorkSlate's spreadsheet microcassette future](https://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html)
 * [2024-09-04, 14:26:11](https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
@@ -11,6 +10,7 @@
 * [2024-09-04, 12:40:54](https://lobste.rs/s/bxaj8l/what_humanities_scholars_want_students) - [What Humanities Scholars Want Students To Know About the Internet: Alternative Paths for Alternative Endpoints](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/?blogid=8185302&blogsub=confirming#subscribe-blog)
 * [2024-09-04, 11:49:10](https://lobste.rs/s/nzhhsr/things_i_wished_more_developers_knew) - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 * [2024-09-04, 11:13:07](https://lobste.rs/s/g0qe5y/hardenedbsd_august_2024_status_report) - [HardenedBSD August 2024 Status Report](https://hardenedbsd.org/article/shawn-webb/2024-09-03/hardenedbsd-august-2024-status-report)
+* [2024-09-04, 10:59:30](https://lobste.rs/s/adtamc/sre_doesn_t_seem_mean_anything_useful_any) - [\"SRE\" doesn't seem to mean anything useful any more](https://rachelbythebay.com/w/2024/09/03/ops/)
 * [2024-09-04, 07:32:37](https://lobste.rs/s/qr5v7q/interactive_nixos_tests) - [Interactive NixOS tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 05:25:26](https://lobste.rs/s/m9bhxk/beyond_ctrl_c_dark_corners_unix_signal) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 03:29:08](https://lobste.rs/s/xjsxlh/practice_abstractions_hide_their) - [In practice, abstractions hide their underlying details](https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails)
