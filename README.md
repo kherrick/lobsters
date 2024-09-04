@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-04, 03:13:57](https://lobste.rs/s/ow2tyc/how_do_fibers_work_peek_under_hood_2019) - [How do Fibers Work? A Peek Under the Hood (2019)](https://www.youtube.com/watch?v=x5_MmZVLiSM)
 * [2024-09-04, 01:04:53](https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly) - [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
 * [2024-09-04, 00:37:37](https://lobste.rs/s/p3wt9x/firefox_will_consider_rust) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
 * [2024-09-03, 22:51:41](https://lobste.rs/s/6olec9/android_15_is_released_aosp) - [Android 15 is released to AOSP](https://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html?m=1)
@@ -22,7 +23,6 @@
 * [2024-09-03, 08:44:06](https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 * [2024-09-03, 07:30:34](https://lobste.rs/s/m1j4b4/terminfo_at_this_point_time_is_net) - [Terminfo, at this point in time, is a net-negative on the terminal ecosystem](https://twoot.site/@bean/113056942625234032)
 * [2024-09-03, 05:22:11](https://lobste.rs/s/nsdpki/implementation_functional_languages) - [Implementation of Functional Languages Using Custom Hardware (1985)](https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html)
-* [2024-09-02, 19:25:34](https://lobste.rs/s/cyvz27/unmaking_makefiles_exorcising_rust) - [Unmaking the Makefiles - exorcising the Rust compiler test suite one file at a time](https://oneirical.github.io/gsocfinal/)
 * [2024-09-02, 17:41:06](https://lobste.rs/s/kfpzks/departure_mono) - [Departure Mono](https://departuremono.com/)
 * [2024-09-02, 09:44:57](https://lobste.rs/s/mf7guc/leak_facebook_partner_brags_about) - [In Leak, Facebook Partner Brags About Listening to Your Phone’s Microphone to Serve Ads for Stuff You Mention](https://futurism.com/the-byte/facebook-partner-phones-listening-microphone)
 
