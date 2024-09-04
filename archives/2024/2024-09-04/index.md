@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 15:26:31](https://lobste.rs/s/mgkzlx/home_baked_abstractions_store_bought) - [Home Baked Abstractions, Store Bought Implementations](https://hazelweakly.me/blog/home-baked-abstractions-store-bought-implementations/)
 * [2024-09-04, 14:26:11](https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
 * [2024-09-04, 14:11:53](https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver) - [Whither the Apple AGX graphics driver?](https://lwn.net/SubscriberLink/988438/4171601a819405c4/)
 * [2024-09-04, 14:04:39](https://lobste.rs/s/mgydaw/expat_2_6_3_released_includes_security) - [Expat 2.6.3 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-3-released/)
