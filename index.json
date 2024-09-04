@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 07:32:37",
+      "https://lobste.rs/s/qr5v7q/interactive_nixos_tests"
+    ],
+    [
+      "Interactive NixOS tests",
+      "https://paperless.blog/interactive-nixos-tests"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 05:25:26",
       "https://lobste.rs/s/m9bhxk/beyond_ctrl_c_dark_corners_unix_signal"
     ],
@@ -217,16 +227,6 @@
     [
       "Terminfo, at this point in time, is a net-negative on the terminal ecosystem",
       "https://twoot.site/@bean/113056942625234032"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 05:22:11",
-      "https://lobste.rs/s/nsdpki/implementation_functional_languages"
-    ],
-    [
-      "Implementation of Functional Languages Using Custom Hardware (1985)",
-      "https://www.cl.cam.ac.uk/techreports/UCAM-CL-TR-81.html"
     ]
   ],
   [
