@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 22:04:34](https://lobste.rs/s/ddw4ac/dynamicland) - [Dynamicland](https://dynamicland.org)
+* [2024-09-04, 22:03:18](https://lobste.rs/s/64ifd9/twelve_rules_for_job_applications) - [Twelve rules for job applications and interviews](https://vurt.org/articles/twelve-rules/)
+* [2024-09-04, 21:55:03](https://lobste.rs/s/qwqfvl/positions_on_generative_ai) - [Positions on Generative AI](https://evantravers.com/articles/2024/09/03/positions-on-generative-ai/)
 * [2024-09-04, 21:45:17](https://lobste.rs/s/czkgxc/script_making_it_easy_write_shell_like) - [script: Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)
 * [2024-09-04, 19:51:06](https://lobste.rs/s/axiy9o/small_sized_sbrk_calls_unexpectedly) - [Small-sized sbrk calls unexpectedly succeed despite low RLIMIT_AS](https://blog.vashishtha.in/small-sbrk-sizes-with-rlimit/)
 * [2024-09-04, 19:12:37](https://lobste.rs/s/ywbll6/nobody_knows_how_many_amigas_commodore) - [Nobody Knows How Many Amigas Commodore Sold](https://www.youtube.com/watch?v=AXCWYKSjHnI)
