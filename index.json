@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 03:29:08",
+      "https://lobste.rs/s/xjsxlh/practice_abstractions_hide_their"
+    ],
+    [
+      "In practice, abstractions hide their underlying details",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 03:13:57",
       "https://lobste.rs/s/ow2tyc/how_do_fibers_work_peek_under_hood_2019"
     ],
@@ -27,16 +37,6 @@
     [
       "Firefox will consider a Rust implementation of JPEG-XL",
       "https://github.com/mozilla/standards-positions/pull/1064"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 22:51:41",
-      "https://lobste.rs/s/6olec9/android_15_is_released_aosp"
-    ],
-    [
-      "Android 15 is released to AOSP",
-      "https://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html?m=1"
     ]
   ],
   [
