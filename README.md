@@ -2,7 +2,6 @@
 
 * [2024-09-04, 12:40:54](https://lobste.rs/s/bxaj8l/what_humanities_scholars_want_students) - [What Humanities Scholars Want Students To Know About the Internet: Alternative Paths for Alternative Endpoints](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/?blogid=8185302&blogsub=confirming#subscribe-blog)
 * [2024-09-04, 11:49:10](https://lobste.rs/s/nzhhsr/things_i_wished_more_developers_knew) - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
-* [2024-09-04, 11:18:24](https://lobste.rs/s/sdkbtk/fedora_has_been_shipping_with_broken) - [Fedora has been shipping with a broken screen reader for nine years but the real problem is me](https://ar.al/2024/06/23/fedora-has-been-shipping-with-a-broken-screen-reader-for-nine-years-but-the-real-problem-is-me/)
 * [2024-09-04, 11:13:07](https://lobste.rs/s/g0qe5y/hardenedbsd_august_2024_status_report) - [HardenedBSD August 2024 Status Report](https://hardenedbsd.org/article/shawn-webb/2024-09-03/hardenedbsd-august-2024-status-report)
 * [2024-09-04, 07:32:37](https://lobste.rs/s/qr5v7q/interactive_nixos_tests) - [Interactive NixOS tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 05:25:26](https://lobste.rs/s/m9bhxk/beyond_ctrl_c_dark_corners_unix_signal) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
@@ -13,6 +12,7 @@
 * [2024-09-03, 18:49:52](https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm) - [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
 * [2024-09-03, 18:49:31](https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc) - [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
 * [2024-09-03, 18:34:49](https://lobste.rs/s/i5d6cl/fundamental_law_software_dependencies) - [The Fundamental Law Of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
+* [2024-09-03, 18:25:18](https://lobste.rs/s/8jxnrx/generating_chess_puzzles_fast_with_rust) - [Generating Chess Puzzles Fast with Rust and Stockfish](https://mbuffett.com/posts/generating_chess_puzzles/)
 * [2024-09-03, 18:13:52](https://lobste.rs/s/cagxzy/tui_for_sniffing_network_traffic_using) - [A TUI for sniffing network traffic using eBPF on Linux](https://github.com/pythops/oryx)
 * [2024-09-03, 17:19:54](https://lobste.rs/s/zixkpz/grpc_5_years_later_is_it_still_worth_it) - [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
 * [2024-09-03, 16:42:25](https://lobste.rs/s/vr3mky/yubikey_is_digital_seat_belt_we_need_today) - [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
