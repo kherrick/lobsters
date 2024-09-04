@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 14:26:11](https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
 * [2024-09-04, 14:11:53](https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver) - [Whither the Apple AGX graphics driver?](https://lwn.net/SubscriberLink/988438/4171601a819405c4/)
 * [2024-09-04, 14:04:39](https://lobste.rs/s/mgydaw/expat_2_6_3_released_includes_security) - [Expat 2.6.3 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-3-released/)
 * [2024-09-04, 13:45:48](https://lobste.rs/s/dzsgie/exploring_goja_golang_javascript) - [Exploring Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)

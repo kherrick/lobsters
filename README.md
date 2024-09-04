@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-04, 14:26:11](https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
 * [2024-09-04, 14:11:53](https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver) - [Whither the Apple AGX graphics driver?](https://lwn.net/SubscriberLink/988438/4171601a819405c4/)
 * [2024-09-04, 14:04:39](https://lobste.rs/s/mgydaw/expat_2_6_3_released_includes_security) - [Expat 2.6.3 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-3-released/)
 * [2024-09-04, 13:45:48](https://lobste.rs/s/dzsgie/exploring_goja_golang_javascript) - [Exploring Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
@@ -22,7 +23,6 @@
 * [2024-09-03, 14:03:41](https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for) - [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
 * [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
 * [2024-09-03, 12:37:38](https://lobste.rs/s/z5xvdp/how_deadlock_tokio_application_rust_with) - [How to deadlock Tokio application in Rust with just a single mutex](https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex)
-* [2024-09-03, 11:17:52](https://lobste.rs/s/khqfkb/python_programmers_experience) - [Python Programmers' Experience](https://two-wrongs.com/python-programmers-experience)
 * [2024-09-03, 10:13:40](https://lobste.rs/s/u6vco1/setting_up_cache_server_for_apt_packages) - [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
 * [2024-09-03, 08:44:06](https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 
