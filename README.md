@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-04, 17:11:43](https://lobste.rs/s/10z34j/tui_for_lobste_rs_website) - [TUI for lobste.rs website](https://github.com/pythops/lobtui)
 * [2024-09-04, 15:35:59](https://lobste.rs/s/6apri9/programming_convergent_workslate_s) - [Programming the Convergent WorkSlate's spreadsheet microcassette future](https://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html)
 * [2024-09-04, 15:26:31](https://lobste.rs/s/mgkzlx/home_baked_abstractions_store_bought) - [Home Baked Abstractions, Store Bought Implementations](https://hazelweakly.me/blog/home-baked-abstractions-store-bought-implementations/)
 * [2024-09-04, 14:26:11](https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
@@ -17,7 +18,6 @@
 * [2024-09-03, 19:48:06](https://lobste.rs/s/4i3zyd/yubikey_security_advisory_ysa_2024_03) - [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)
 * [2024-09-03, 18:49:52](https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm) - [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
 * [2024-09-03, 18:49:31](https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc) - [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
-* [2024-09-03, 18:34:49](https://lobste.rs/s/i5d6cl/fundamental_law_software_dependencies) - [The Fundamental Law Of Software Dependencies](https://matklad.github.io/2024/09/03/the-fundamental-law-of-dependencies.html)
 * [2024-09-03, 18:13:52](https://lobste.rs/s/cagxzy/tui_for_sniffing_network_traffic_using) - [A TUI for sniffing network traffic using eBPF on Linux](https://github.com/pythops/oryx)
 * [2024-09-03, 17:19:54](https://lobste.rs/s/zixkpz/grpc_5_years_later_is_it_still_worth_it) - [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
 * [2024-09-03, 16:42:25](https://lobste.rs/s/vr3mky/yubikey_is_digital_seat_belt_we_need_today) - [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
