@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-04, 01:04:53](https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly) - [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
+* [2024-09-04, 00:37:37](https://lobste.rs/s/p3wt9x/firefox_will_consider_rust) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
 * [2024-09-03, 22:51:41](https://lobste.rs/s/6olec9/android_15_is_released_aosp) - [Android 15 is released to AOSP](https://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html?m=1)
 * [2024-09-03, 20:57:23](https://lobste.rs/s/t7floq/eucleak_side_channel_attack_on_yubikey_5) - [EUCLEAK: Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf)
 * [2024-09-03, 19:48:06](https://lobste.rs/s/4i3zyd/yubikey_security_advisory_ysa_2024_03) - [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)
@@ -12,7 +13,6 @@
 * [2024-09-03, 17:19:54](https://lobste.rs/s/zixkpz/grpc_5_years_later_is_it_still_worth_it) - [gRPC: 5 Years Later, Is It Still Worth It?](https://kostyay.com/grpc-5-years-later-is-it-still-worth-it-b181a3b2b73b)
 * [2024-09-03, 16:42:25](https://lobste.rs/s/vr3mky/yubikey_is_digital_seat_belt_we_need_today) - [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
 * [2024-09-03, 16:28:15](https://lobste.rs/s/kg2hba/is_this_trait_sealed_not_sealed_is) - [Is this trait sealed, or not sealed — that is the question](https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/)
-* [2024-09-03, 16:26:22](https://lobste.rs/s/dai5mf/linux_year_one) - [linux, year one](https://packbat.neocities.org/linux_year_one_twice)
 * [2024-09-03, 15:55:48](https://lobste.rs/s/bhjqx3/limb_metaphor_for_simplicity) - [the limb-metaphor for simplicity](https://explaining.software/archive/the-limb-metaphor-for-simplicity/)
 * [2024-09-03, 14:03:41](https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for) - [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
 * [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
