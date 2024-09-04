@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 19:09:05](https://lobste.rs/s/w4yr9y/tetris_sql_using_sql_s_turing) - [tetris-sql: Using SQL's Turing Completeness to Build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 18:47:26](https://lobste.rs/s/wfqkxa/creating_git_commit_hard_way) - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 * [2024-09-04, 17:27:42](https://lobste.rs/s/ojm6cn/async_rust_can_be_pleasure_work_with) - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/)
 * [2024-09-04, 17:19:44](https://lobste.rs/s/ezrmpf/php_is_best_choice_for_long_term_business) - [PHP is the Best Choice for Long-Term Business](https://tomasvotruba.com/blog/php-is-the-best-choice-for-long-term-business)

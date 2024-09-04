@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-04, 19:09:05](https://lobste.rs/s/w4yr9y/tetris_sql_using_sql_s_turing) - [tetris-sql: Using SQL's Turing Completeness to Build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 18:47:26](https://lobste.rs/s/wfqkxa/creating_git_commit_hard_way) - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 * [2024-09-04, 17:27:42](https://lobste.rs/s/ojm6cn/async_rust_can_be_pleasure_work_with) - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/)
 * [2024-09-04, 17:11:43](https://lobste.rs/s/10z34j/tui_for_lobste_rs_website) - [TUI for lobste.rs website](https://github.com/pythops/lobtui)
@@ -10,7 +11,6 @@
 * [2024-09-04, 13:45:48](https://lobste.rs/s/dzsgie/exploring_goja_golang_javascript) - [Exploring Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
 * [2024-09-04, 12:40:54](https://lobste.rs/s/bxaj8l/what_humanities_scholars_want_students) - [What Humanities Scholars Want Students To Know About the Internet: Alternative Paths for Alternative Endpoints](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/?blogid=8185302&blogsub=confirming#subscribe-blog)
 * [2024-09-04, 11:49:10](https://lobste.rs/s/nzhhsr/things_i_wished_more_developers_knew) - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
-* [2024-09-04, 11:13:07](https://lobste.rs/s/g0qe5y/hardenedbsd_august_2024_status_report) - [HardenedBSD August 2024 Status Report](https://hardenedbsd.org/article/shawn-webb/2024-09-03/hardenedbsd-august-2024-status-report)
 * [2024-09-04, 10:59:30](https://lobste.rs/s/adtamc/sre_doesn_t_seem_mean_anything_useful_any) - [\"SRE\" doesn't seem to mean anything useful any more](https://rachelbythebay.com/w/2024/09/03/ops/)
 * [2024-09-04, 07:32:37](https://lobste.rs/s/qr5v7q/interactive_nixos_tests) - [Interactive NixOS tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 05:25:26](https://lobste.rs/s/m9bhxk/beyond_ctrl_c_dark_corners_unix_signal) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
