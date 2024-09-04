@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-04, 15:35:59](https://lobste.rs/s/6apri9/programming_convergent_workslate_s) - [Programming the Convergent WorkSlate's spreadsheet microcassette future](https://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html)
 * [2024-09-04, 15:26:31](https://lobste.rs/s/mgkzlx/home_baked_abstractions_store_bought) - [Home Baked Abstractions, Store Bought Implementations](https://hazelweakly.me/blog/home-baked-abstractions-store-bought-implementations/)
 * [2024-09-04, 14:26:11](https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
 * [2024-09-04, 14:11:53](https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver) - [Whither the Apple AGX graphics driver?](https://lwn.net/SubscriberLink/988438/4171601a819405c4/)
@@ -22,7 +23,6 @@
 * [2024-09-03, 16:42:25](https://lobste.rs/s/vr3mky/yubikey_is_digital_seat_belt_we_need_today) - [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
 * [2024-09-03, 16:28:15](https://lobste.rs/s/kg2hba/is_this_trait_sealed_not_sealed_is) - [Is this trait sealed, or not sealed — that is the question](https://predr.ag/blog/is-this-trait-sealed-or-not-sealed/)
 * [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
-* [2024-09-03, 12:37:38](https://lobste.rs/s/z5xvdp/how_deadlock_tokio_application_rust_with) - [How to deadlock Tokio application in Rust with just a single mutex](https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex)
 * [2024-09-03, 10:13:40](https://lobste.rs/s/u6vco1/setting_up_cache_server_for_apt_packages) - [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
 * [2024-09-03, 08:44:06](https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 
