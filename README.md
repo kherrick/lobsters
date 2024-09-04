@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-04, 12:40:54](https://lobste.rs/s/bxaj8l/what_humanities_scholars_want_students) - [What Humanities Scholars Want Students To Know About the Internet: Alternative Paths for Alternative Endpoints](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/?blogid=8185302&blogsub=confirming#subscribe-blog)
 * [2024-09-04, 11:49:10](https://lobste.rs/s/nzhhsr/things_i_wished_more_developers_knew) - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
 * [2024-09-04, 11:18:24](https://lobste.rs/s/sdkbtk/fedora_has_been_shipping_with_broken) - [Fedora has been shipping with a broken screen reader for nine years but the real problem is me](https://ar.al/2024/06/23/fedora-has-been-shipping-with-a-broken-screen-reader-for-nine-years-but-the-real-problem-is-me/)
 * [2024-09-04, 11:13:07](https://lobste.rs/s/g0qe5y/hardenedbsd_august_2024_status_report) - [HardenedBSD August 2024 Status Report](https://hardenedbsd.org/article/shawn-webb/2024-09-03/hardenedbsd-august-2024-status-report)
@@ -8,7 +9,6 @@
 * [2024-09-04, 03:29:08](https://lobste.rs/s/xjsxlh/practice_abstractions_hide_their) - [In practice, abstractions hide their underlying details](https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails)
 * [2024-09-04, 01:04:53](https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly) - [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
 * [2024-09-04, 00:37:37](https://lobste.rs/s/p3wt9x/firefox_will_consider_rust) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
-* [2024-09-03, 20:57:23](https://lobste.rs/s/t7floq/eucleak_side_channel_attack_on_yubikey_5) - [EUCLEAK: Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf)
 * [2024-09-03, 19:48:06](https://lobste.rs/s/4i3zyd/yubikey_security_advisory_ysa_2024_03) - [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)
 * [2024-09-03, 18:49:52](https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm) - [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
 * [2024-09-03, 18:49:31](https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc) - [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
