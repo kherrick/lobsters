@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 15:35:59",
+      "https://lobste.rs/s/6apri9/programming_convergent_workslate_s"
+    ],
+    [
+      "Programming the Convergent WorkSlate's spreadsheet microcassette future",
+      "https://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 15:26:31",
       "https://lobste.rs/s/mgkzlx/home_baked_abstractions_store_bought"
     ],
@@ -217,16 +227,6 @@
     [
       "retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers",
       "https://github.com/luke8086/retronews"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 12:37:38",
-      "https://lobste.rs/s/z5xvdp/how_deadlock_tokio_application_rust_with"
-    ],
-    [
-      "How to deadlock Tokio application in Rust with just a single mutex",
-      "https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex"
     ]
   ],
   [
