@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-04, 19:51:06](https://lobste.rs/s/axiy9o/small_sized_sbrk_calls_unexpectedly) - [Small-sized sbrk calls unexpectedly succeed despite low RLIMIT_AS](https://blog.vashishtha.in/small-sbrk-sizes-with-rlimit/)
 * [2024-09-04, 19:12:37](https://lobste.rs/s/ywbll6/nobody_knows_how_many_amigas_commodore) - [Nobody Knows How Many Amigas Commodore Sold](https://www.youtube.com/watch?v=AXCWYKSjHnI)
 * [2024-09-04, 19:09:05](https://lobste.rs/s/w4yr9y/tetris_sql_using_sql_s_turing) - [tetris-sql: Using SQL's Turing Completeness to Build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 18:47:26](https://lobste.rs/s/wfqkxa/creating_git_commit_hard_way) - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
@@ -23,7 +24,6 @@
 * [2024-09-03, 18:13:52](https://lobste.rs/s/cagxzy/tui_for_sniffing_network_traffic_using) - [A TUI for sniffing network traffic using eBPF on Linux](https://github.com/pythops/oryx)
 * [2024-09-03, 16:42:25](https://lobste.rs/s/vr3mky/yubikey_is_digital_seat_belt_we_need_today) - [Yubikey is the Digital Seat Belt We Need Today](https://www.zagaja.com/2024/09/yubikey-digital-seatbelt/)
 * [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
-* [2024-09-03, 10:13:40](https://lobste.rs/s/u6vco1/setting_up_cache_server_for_apt_packages) - [Setting up a cache server for apt packages](https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/)
 * [2024-09-03, 08:44:06](https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric) - [Greppability is an underrated code metric](https://morizbuesing.com/blog/greppability-code-metric/)
 
 ## [Archives](archives/index.md)

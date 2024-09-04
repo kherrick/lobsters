@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 19:51:06](https://lobste.rs/s/axiy9o/small_sized_sbrk_calls_unexpectedly) - [Small-sized sbrk calls unexpectedly succeed despite low RLIMIT_AS](https://blog.vashishtha.in/small-sbrk-sizes-with-rlimit/)
 * [2024-09-04, 19:12:37](https://lobste.rs/s/ywbll6/nobody_knows_how_many_amigas_commodore) - [Nobody Knows How Many Amigas Commodore Sold](https://www.youtube.com/watch?v=AXCWYKSjHnI)
 * [2024-09-04, 19:09:05](https://lobste.rs/s/w4yr9y/tetris_sql_using_sql_s_turing) - [tetris-sql: Using SQL's Turing Completeness to Build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 18:47:26](https://lobste.rs/s/wfqkxa/creating_git_commit_hard_way) - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
