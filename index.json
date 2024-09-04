@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-04, 19:51:06",
-      "https://lobste.rs/s/axiy9o/small_sized_sbrk_calls_unexpectedly"
+      "2024-09-04, 21:45:17",
+      "https://lobste.rs/s/czkgxc/script_making_it_easy_write_shell_like"
     ],
     [
-      "Small-sized sbrk calls unexpectedly succeed despite low RLIMIT_AS",
-      "https://blog.vashishtha.in/small-sbrk-sizes-with-rlimit/"
+      "script: Making it easy to write shell-like scripts in Go",
+      "https://github.com/bitfield/script"
     ]
   ],
   [
