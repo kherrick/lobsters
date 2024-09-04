@@ -31,12 +31,12 @@
   ],
   [
     [
-      "2024-09-03, 23:27:44",
-      "https://lobste.rs/s/teg1om/my_blog_engine_is_erlang_build_tool"
+      "2024-09-03, 21:08:32",
+      "https://lobste.rs/s/g6ldhy/landlock_from_security_mechanism_idea"
     ],
     [
-      "My Blog Engine is the Erlang Build Tool",
-      "https://ferd.ca/my-blog-engine-is-the-erlang-build-tool.html"
+      "Landlock: From a security mechanism idea to a widely available implementation",
+      "https://landlock.io/talks/2024-06-06_landlock-article.pdf"
     ]
   ],
   [
