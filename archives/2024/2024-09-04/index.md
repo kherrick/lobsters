@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-04](index.md)
+
+* [2024-09-04, 01:04:53](https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly) - [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)

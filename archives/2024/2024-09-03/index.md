@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-03](index.md)
 
+* [2024-09-03, 22:51:41](https://lobste.rs/s/6olec9/android_15_is_released_aosp) - [Android 15 is released to AOSP](https://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html?m=1)
 * [2024-09-03, 21:08:32](https://lobste.rs/s/g6ldhy/landlock_from_security_mechanism_idea) - [Landlock: From a security mechanism idea to a widely available implementation](https://landlock.io/talks/2024-06-06_landlock-article.pdf)
 * [2024-09-03, 20:57:23](https://lobste.rs/s/t7floq/eucleak_side_channel_attack_on_yubikey_5) - [EUCLEAK: Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf)
 * [2024-09-03, 19:48:06](https://lobste.rs/s/4i3zyd/yubikey_security_advisory_ysa_2024_03) - [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)

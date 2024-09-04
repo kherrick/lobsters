@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-03, 21:08:32](https://lobste.rs/s/g6ldhy/landlock_from_security_mechanism_idea) - [Landlock: From a security mechanism idea to a widely available implementation](https://landlock.io/talks/2024-06-06_landlock-article.pdf)
+* [2024-09-04, 01:04:53](https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly) - [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
+* [2024-09-03, 22:51:41](https://lobste.rs/s/6olec9/android_15_is_released_aosp) - [Android 15 is released to AOSP](https://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html?m=1)
 * [2024-09-03, 20:57:23](https://lobste.rs/s/t7floq/eucleak_side_channel_attack_on_yubikey_5) - [EUCLEAK: Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf)
 * [2024-09-03, 19:48:06](https://lobste.rs/s/4i3zyd/yubikey_security_advisory_ysa_2024_03) - [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)
 * [2024-09-03, 18:49:52](https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm) - [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
@@ -14,7 +15,6 @@
 * [2024-09-03, 16:26:22](https://lobste.rs/s/dai5mf/linux_year_one) - [linux, year one](https://packbat.neocities.org/linux_year_one_twice)
 * [2024-09-03, 15:55:48](https://lobste.rs/s/bhjqx3/limb_metaphor_for_simplicity) - [the limb-metaphor for simplicity](https://explaining.software/archive/the-limb-metaphor-for-simplicity/)
 * [2024-09-03, 14:03:41](https://lobste.rs/s/bfgkym/zigimports_unused_imports_remover_for) - [zigimports: Unused imports remover for Zig](https://github.com/tusharsadhwani/zigimports)
-* [2024-09-03, 13:29:03](https://lobste.rs/s/kz1kep/licensing_is_packaging) - [Licensing is packaging](https://keygen.sh/blog/licensing-is-packaging/)
 * [2024-09-03, 12:53:48](https://lobste.rs/s/lll2ce/retronews_tui_browser_for_hn_lobsters) - [retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers](https://github.com/luke8086/retronews)
 * [2024-09-03, 12:37:38](https://lobste.rs/s/z5xvdp/how_deadlock_tokio_application_rust_with) - [How to deadlock Tokio application in Rust with just a single mutex](https://turso.tech/blog/how-to-deadlock-tokio-application-in-rust-with-just-a-single-mutex)
 * [2024-09-03, 11:17:52](https://lobste.rs/s/khqfkb/python_programmers_experience) - [Python Programmers' Experience](https://two-wrongs.com/python-programmers-experience)
