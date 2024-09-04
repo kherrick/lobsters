@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-04](index.md)
 
+* [2024-09-04, 11:49:10](https://lobste.rs/s/nzhhsr/things_i_wished_more_developers_knew) - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
+* [2024-09-04, 11:18:24](https://lobste.rs/s/sdkbtk/fedora_has_been_shipping_with_broken) - [Fedora has been shipping with a broken screen reader for nine years but the real problem is me](https://ar.al/2024/06/23/fedora-has-been-shipping-with-a-broken-screen-reader-for-nine-years-but-the-real-problem-is-me/)
 * [2024-09-04, 11:13:07](https://lobste.rs/s/g0qe5y/hardenedbsd_august_2024_status_report) - [HardenedBSD August 2024 Status Report](https://hardenedbsd.org/article/shawn-webb/2024-09-03/hardenedbsd-august-2024-status-report)
 * [2024-09-04, 07:32:37](https://lobste.rs/s/qr5v7q/interactive_nixos_tests) - [Interactive NixOS tests](https://paperless.blog/interactive-nixos-tests)
 * [2024-09-04, 05:25:26](https://lobste.rs/s/m9bhxk/beyond_ctrl_c_dark_corners_unix_signal) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
