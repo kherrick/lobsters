@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-04, 19:51:06",
+      "https://lobste.rs/s/axiy9o/small_sized_sbrk_calls_unexpectedly"
+    ],
+    [
+      "Small-sized sbrk calls unexpectedly succeed despite low RLIMIT_AS",
+      "https://blog.vashishtha.in/small-sbrk-sizes-with-rlimit/"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 19:12:37",
       "https://lobste.rs/s/ywbll6/nobody_knows_how_many_amigas_commodore"
     ],
@@ -227,16 +237,6 @@
     [
       "retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers",
       "https://github.com/luke8086/retronews"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 10:13:40",
-      "https://lobste.rs/s/u6vco1/setting_up_cache_server_for_apt_packages"
-    ],
-    [
-      "Setting up a cache server for apt packages",
-      "https://qmacro.org/blog/posts/2024/09/03/setting-up-a-cache-server-for-apt-packages/"
     ]
   ],
   [
