@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-04, 03:29:08](https://lobste.rs/s/xjsxlh/practice_abstractions_hide_their) - [In practice, abstractions hide their underlying details](https://utcc.utoronto.ca/~cks/space/blog/tech/AbstractionsHideUnderlyingDetails)
 * [2024-09-04, 03:13:57](https://lobste.rs/s/ow2tyc/how_do_fibers_work_peek_under_hood_2019) - [How do Fibers Work? A Peek Under the Hood (2019)](https://www.youtube.com/watch?v=x5_MmZVLiSM)
 * [2024-09-04, 01:04:53](https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly) - [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
 * [2024-09-04, 00:37:37](https://lobste.rs/s/p3wt9x/firefox_will_consider_rust) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
-* [2024-09-03, 22:51:41](https://lobste.rs/s/6olec9/android_15_is_released_aosp) - [Android 15 is released to AOSP](https://android-developers.googleblog.com/2024/09/android-15-is-released-to-aosp.html?m=1)
 * [2024-09-03, 20:57:23](https://lobste.rs/s/t7floq/eucleak_side_channel_attack_on_yubikey_5) - [EUCLEAK: Side-Channel Attack on the YubiKey 5 Series](https://ninjalab.io/wp-content/uploads/2024/09/20240903_eucleak.pdf)
 * [2024-09-03, 19:48:06](https://lobste.rs/s/4i3zyd/yubikey_security_advisory_ysa_2024_03) - [YubiKey Security Advisory YSA-2024-03](https://www.yubico.com/support/security-advisories/ysa-2024-03/)
 * [2024-09-03, 18:49:52](https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm) - [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
