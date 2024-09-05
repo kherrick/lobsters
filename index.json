@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-09-04, 21:45:17",
+      "https://lobste.rs/s/czkgxc/script_making_it_easy_write_shell_like"
+    ],
+    [
+      "script: Making it easy to write shell-like scripts in Go",
+      "https://github.com/bitfield/script"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 19:12:37",
       "https://lobste.rs/s/ywbll6/nobody_knows_how_many_amigas_commodore"
     ],
@@ -237,16 +247,6 @@
     [
       "retronews: TUI browser for HN and Lobsters emulating classical Usenet and mail readers",
       "https://github.com/luke8086/retronews"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 08:44:06",
-      "https://lobste.rs/s/pgdj9j/greppability_is_underrated_code_metric"
-    ],
-    [
-      "Greppability is an underrated code metric",
-      "https://morizbuesing.com/blog/greppability-code-metric/"
     ]
   ]
 ]
