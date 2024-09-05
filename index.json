@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-05, 17:32:29",
+      "https://lobste.rs/s/qm5olt/synchronization_primitives_c_20"
+    ],
+    [
+      "Synchronization Primitives in C++20",
+      "https://www.kdab.com/synchronization-primitives-in-c20/"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 17:26:58",
       "https://lobste.rs/s/xmgy3x/postgres_materialized_views_from"
     ],
@@ -27,16 +37,6 @@
     [
       "Announcing Rust 1.81.0",
       "https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 16:11:02",
-      "https://lobste.rs/s/cz19g7/web_apps_have_client_server_state"
-    ],
-    [
-      "Web apps have client and server state",
-      "https://dashbit.co/blog/web-apps-have-client-and-server-state"
     ]
   ],
   [
