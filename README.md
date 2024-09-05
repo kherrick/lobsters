@@ -2,6 +2,7 @@
 
 * [2024-09-05, 21:13:16](https://lobste.rs/s/8wm3nn/how_we_build_forms_liveview_livesvelte) - [How we build forms in LiveView + LiveSvelte](https://blog.sequinstream.com/how-we-build-forms-in-liveview-livesvelte/)
 * [2024-09-05, 20:24:34](https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
+* [2024-09-05, 20:16:32](https://lobste.rs/s/vpajc6/clojure_1_12_0_is_released) - [Clojure 1.12.0 is released](https://clojure.org/news/2024/09/05/clojure-1-12-0)
 * [2024-09-05, 19:02:37](https://lobste.rs/s/tbkogf/you_re_allowed_be_evil_performance_code) - [You're allowed to be evil in performance code](https://push.cx/stream/2024-09-05-you-re-allowed-to-be-evil-in-performance-code)
 * [2024-09-05, 18:58:22](https://lobste.rs/s/wjnyva/building_wow_server_elixir) - [Building a WoW server in Elixir](https://pikdum.dev/posts/thistle-tea/)
 * [2024-09-05, 18:20:19](https://lobste.rs/s/liiwbl/moral_implications_being_moderately) - [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
@@ -19,7 +20,6 @@
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:11:18](https://lobste.rs/s/nokryw/internet_archive_loses_its_appeal_major) - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
 * [2024-09-05, 06:54:53](https://lobste.rs/s/en2rcj/optimization_s_impossible_rust) - [An Optimization That's Impossible in Rust](https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/)
-* [2024-09-05, 06:26:15](https://lobste.rs/s/bmbr2m/deploying_rust_existing_firmware) - [Deploying Rust in existing firmware codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 * [2024-09-05, 04:01:18](https://lobste.rs/s/davbq4/giving_c_std_regex_c_makeover) - [Giving C++ std::regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-04, 22:04:34](https://lobste.rs/s/ddw4ac/dynamicland) - [Dynamicland](https://dynamicland.org)
 * [2024-09-04, 22:03:18](https://lobste.rs/s/64ifd9/twelve_rules_for_job_applications) - [Twelve rules for job applications and interviews](https://vurt.org/articles/twelve-rules/)
