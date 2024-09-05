@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-05, 04:01:18](https://lobste.rs/s/davbq4/giving_c_std_regex_c_makeover) - [Giving C++ std::regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
+* [2024-09-05, 04:00:36](https://lobste.rs/s/ck31nt/structs_constructors) - [Structs and constructors](https://www.sandordargo.com/blog/2024/09/04/structs-and-constructors)
 * [2024-09-04, 22:04:34](https://lobste.rs/s/ddw4ac/dynamicland) - [Dynamicland](https://dynamicland.org)
 * [2024-09-04, 22:03:18](https://lobste.rs/s/64ifd9/twelve_rules_for_job_applications) - [Twelve rules for job applications and interviews](https://vurt.org/articles/twelve-rules/)
 * [2024-09-04, 21:55:03](https://lobste.rs/s/qwqfvl/positions_on_generative_ai) - [Positions on Generative AI](https://evantravers.com/articles/2024/09/03/positions-on-generative-ai/)
-* [2024-09-04, 21:45:17](https://lobste.rs/s/czkgxc/script_making_it_easy_write_shell_like) - [script: Making it easy to write shell-like scripts in Go](https://github.com/bitfield/script)
 * [2024-09-04, 19:12:37](https://lobste.rs/s/ywbll6/nobody_knows_how_many_amigas_commodore) - [Nobody Knows How Many Amigas Commodore Sold](https://www.youtube.com/watch?v=AXCWYKSjHnI)
-* [2024-09-04, 19:09:05](https://lobste.rs/s/w4yr9y/tetris_sql_using_sql_s_turing) - [tetris-sql: Using SQL's Turing Completeness to Build Tetris](https://github.com/nuno-faria/tetris-sql)
 * [2024-09-04, 18:47:26](https://lobste.rs/s/wfqkxa/creating_git_commit_hard_way) - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 * [2024-09-04, 17:27:42](https://lobste.rs/s/ojm6cn/async_rust_can_be_pleasure_work_with) - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/)
 * [2024-09-04, 17:19:44](https://lobste.rs/s/ezrmpf/php_is_best_choice_for_long_term_business) - [PHP is the Best Choice for Long-Term Business](https://tomasvotruba.com/blog/php-is-the-best-choice-for-long-term-business)
