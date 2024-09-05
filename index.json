@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-05, 20:08:45",
+      "https://lobste.rs/s/sw1msx/transitioning_from_react_graphql"
+    ],
+    [
+      "Transitioning from React + GraphQL to ViewComponents",
+      "https://buoy.blog/2024/09/05/react-to-view-components.html"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 19:02:37",
       "https://lobste.rs/s/tbkogf/you_re_allowed_be_evil_performance_code"
     ],
@@ -237,16 +247,6 @@
     [
       "TUI for lobste.rs website",
       "https://github.com/pythops/lobtui"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 14:11:53",
-      "https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver"
-    ],
-    [
-      "Whither the Apple AGX graphics driver?",
-      "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
     ]
   ]
 ]
