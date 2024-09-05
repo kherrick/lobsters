@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 14:29:36](https://lobste.rs/s/yx57uf/is_linux_collapsing_under_its_own_weight) - [Is Linux collapsing under its own weight? On Rust for Linux](https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/)
+* [2024-09-05, 14:26:08](https://lobste.rs/s/6li3xh/my_most_downvoted_stackoverflow_answer) - [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
+* [2024-09-05, 14:15:15](https://lobste.rs/s/z4jjjp/flambda2_ep_3_speculative_inlining) - [Flambda2 Ep. 3: Speculative Inlining](https://ocamlpro.com/blog/2024_08_09_the_flambda2_snippets_3/)
 * [2024-09-05, 14:05:03](https://lobste.rs/s/r4ohaw/pdqselect_pattern_defeating) - [pdqselect: Pattern-Defeating QuickSelect for Go](https://github.com/tsenart/pdqselect)
 * [2024-09-05, 11:43:09](https://lobste.rs/s/iaiwtq/lazyfs_fuse_filesystem_with_internal) - [LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes](https://github.com/dsrhaslab/lazyfs)
 * [2024-09-05, 10:53:35](https://lobste.rs/s/xeog8l/open_source_alternative_likes_lemon) - [An open source alternative to the likes of Lemon Squeezy](https://polar.sh/)
