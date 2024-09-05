@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 16:11:02](https://lobste.rs/s/cz19g7/web_apps_have_client_server_state) - [Web apps have client and server state](https://dashbit.co/blog/web-apps-have-client-and-server-state)
+* [2024-09-05, 16:03:37](https://lobste.rs/s/iwozpq/problem_details_rfc_9457_doing_api_errors) - [Problem Details (RFC 9457): Doing API Errors Well](https://swagger.io/blog/problem-details-rfc9457-doing-api-errors-well/)
 * [2024-09-05, 14:47:53](https://lobste.rs/s/ihenqt/internet_archive_just_lost_its_appeal) - [The Internet Archive just lost its appeal over ebook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
 * [2024-09-05, 14:29:36](https://lobste.rs/s/yx57uf/is_linux_collapsing_under_its_own_weight) - [Is Linux collapsing under its own weight? On Rust for Linux](https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/)
 * [2024-09-05, 14:26:08](https://lobste.rs/s/6li3xh/my_most_downvoted_stackoverflow_answer) - [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
