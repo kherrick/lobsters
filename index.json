@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-09-05, 17:26:58",
+      "https://lobste.rs/s/xmgy3x/postgres_materialized_views_from"
+    ],
+    [
+      "Postgres Materialized Views from Parquet in S3 with Zero ETL",
+      "https://www.crunchydata.com/blog/postgres-materialized-views-from-parquet-in-s3-with-zero-etl"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 16:33:24",
       "https://lobste.rs/s/dfxa7y/intuiting_monty_hall"
     ],
@@ -197,16 +207,6 @@
     [
       "Twelve rules for job applications and interviews",
       "https://vurt.org/articles/twelve-rules/"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 18:47:26",
-      "https://lobste.rs/s/wfqkxa/creating_git_commit_hard_way"
-    ],
-    [
-      "Creating a Git commit: The Hard Way",
-      "https://avestura.dev/blog/creating-a-git-commit-the-hard-way"
     ]
   ],
   [
