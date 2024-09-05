@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-05, 09:13:28",
+      "https://lobste.rs/s/c7krsz/qemu_version_9_1_0_released"
+    ],
+    [
+      "QEMU version 9.1.0 released",
+      "https://www.qemu.org/2024/09/03/qemu-9-1-0/"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 08:43:39",
       "https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux"
     ],
@@ -227,16 +237,6 @@
     [
       "Firefox will consider a Rust implementation of JPEG-XL",
       "https://github.com/mozilla/standards-positions/pull/1064"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 18:49:52",
-      "https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm"
-    ],
-    [
-      "It's not Rust, it's FreeBSD (and LLVM)",
-      "https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html"
     ]
   ],
   [
