@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-05, 06:26:15](https://lobste.rs/s/bmbr2m/deploying_rust_existing_firmware) - [Deploying Rust in existing firmware codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 * [2024-09-05, 04:01:18](https://lobste.rs/s/davbq4/giving_c_std_regex_c_makeover) - [Giving C++ std::regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-05, 04:00:36](https://lobste.rs/s/ck31nt/structs_constructors) - [Structs and constructors](https://www.sandordargo.com/blog/2024/09/04/structs-and-constructors)
 * [2024-09-04, 22:04:34](https://lobste.rs/s/ddw4ac/dynamicland) - [Dynamicland](https://dynamicland.org)
@@ -13,7 +14,6 @@
 * [2024-09-04, 15:35:59](https://lobste.rs/s/6apri9/programming_convergent_workslate_s) - [Programming the Convergent WorkSlate's spreadsheet microcassette future](https://oldvcr.blogspot.com/2024/09/programming-convergent-workslates.html)
 * [2024-09-04, 14:26:11](https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout) - [Avoiding Test-Case Permutation Blowout](https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/)
 * [2024-09-04, 14:11:53](https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver) - [Whither the Apple AGX graphics driver?](https://lwn.net/SubscriberLink/988438/4171601a819405c4/)
-* [2024-09-04, 14:04:39](https://lobste.rs/s/mgydaw/expat_2_6_3_released_includes_security) - [Expat 2.6.3 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-6-3-released/)
 * [2024-09-04, 13:45:48](https://lobste.rs/s/dzsgie/exploring_goja_golang_javascript) - [Exploring Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
 * [2024-09-04, 12:40:54](https://lobste.rs/s/bxaj8l/what_humanities_scholars_want_students) - [What Humanities Scholars Want Students To Know About the Internet: Alternative Paths for Alternative Endpoints](https://computinged.wordpress.com/2023/07/17/what-humanities-scholars-want-students-to-know-about-the-internet-alternative-paths-for-alternative-endpoints/?blogid=8185302&blogsub=confirming#subscribe-blog)
 * [2024-09-04, 11:49:10](https://lobste.rs/s/nzhhsr/things_i_wished_more_developers_knew) - [Things I Wished More Developers Knew About Databases](https://rakyll.medium.com/things-i-wished-more-developers-knew-about-databases-2d0178464f78)
