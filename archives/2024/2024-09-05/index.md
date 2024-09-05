@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 11:43:09](https://lobste.rs/s/iaiwtq/lazyfs_fuse_filesystem_with_internal) - [LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes](https://github.com/dsrhaslab/lazyfs)
 * [2024-09-05, 10:53:35](https://lobste.rs/s/xeog8l/open_source_alternative_likes_lemon) - [An open source alternative to the likes of Lemon Squeezy](https://polar.sh/)
 * [2024-09-05, 10:52:50](https://lobste.rs/s/hzywpj/beyond_procedure_calls_as_component_glue) - [Beyond Procedure Calls as Component Glue: Connectors Deserve Metaclass Status](https://2024.splashcon.org/details/splash-2024-Onward-papers/9/Beyond-Procedure-Calls-as-Component-Glue-Connectors-Deserve-Metaclass-Status)
 * [2024-09-05, 10:38:45](https://lobste.rs/s/nrbqnk/generative_artificial_intelligence) - [Generative Artificial Intelligence Report for Australian Securities and Investments Commission](https://www.aph.gov.au/DocumentStore.ashx?id=b4fd6043-6626-4cbe-b8ee-a5c7319e94a0)
