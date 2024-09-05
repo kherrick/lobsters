@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-05, 16:11:02",
+      "https://lobste.rs/s/cz19g7/web_apps_have_client_server_state"
+    ],
+    [
+      "Web apps have client and server state",
+      "https://dashbit.co/blog/web-apps-have-client-and-server-state"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 16:03:37",
+      "https://lobste.rs/s/iwozpq/problem_details_rfc_9457_doing_api_errors"
+    ],
+    [
+      "Problem Details (RFC 9457): Doing API Errors Well",
+      "https://swagger.io/blog/problem-details-rfc9457-doing-api-errors-well/"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 14:47:53",
       "https://lobste.rs/s/ihenqt/internet_archive_just_lost_its_appeal"
     ],
@@ -27,16 +47,6 @@
     [
       "My most downvoted StackOverflow answer",
       "https://ohadravid.github.io/posts/2024-09-yells-at-cloud/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 14:15:15",
-      "https://lobste.rs/s/z4jjjp/flambda2_ep_3_speculative_inlining"
-    ],
-    [
-      "Flambda2 Ep. 3: Speculative Inlining",
-      "https://ocamlpro.com/blog/2024_08_09_the_flambda2_snippets_3/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Giving C++ std::regex a C makeover",
       "https://nullprogram.com/blog/2024/09/04/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 04:00:36",
-      "https://lobste.rs/s/ck31nt/structs_constructors"
-    ],
-    [
-      "Structs and constructors",
-      "https://www.sandordargo.com/blog/2024/09/04/structs-and-constructors"
     ]
   ],
   [
