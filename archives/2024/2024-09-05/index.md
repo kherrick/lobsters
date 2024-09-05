@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:32:42](https://lobste.rs/s/7zglpd/swe_bench_can_language_models_resolve) - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://www.swebench.com/)
 * [2024-09-05, 08:11:18](https://lobste.rs/s/nokryw/internet_archive_loses_its_appeal_major) - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
 * [2024-09-05, 06:54:53](https://lobste.rs/s/en2rcj/optimization_s_impossible_rust) - [An Optimization That's Impossible in Rust](https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/)
