@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-05, 21:13:16](https://lobste.rs/s/8wm3nn/how_we_build_forms_liveview_livesvelte) - [How we build forms in LiveView + LiveSvelte](https://blog.sequinstream.com/how-we-build-forms-in-liveview-livesvelte/)
+* [2024-09-05, 20:24:34](https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 * [2024-09-05, 19:02:37](https://lobste.rs/s/tbkogf/you_re_allowed_be_evil_performance_code) - [You're allowed to be evil in performance code](https://push.cx/stream/2024-09-05-you-re-allowed-to-be-evil-in-performance-code)
 * [2024-09-05, 18:58:22](https://lobste.rs/s/wjnyva/building_wow_server_elixir) - [Building a WoW server in Elixir](https://pikdum.dev/posts/thistle-tea/)
 * [2024-09-05, 18:20:19](https://lobste.rs/s/liiwbl/moral_implications_being_moderately) - [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
@@ -23,7 +24,6 @@
 * [2024-09-04, 22:04:34](https://lobste.rs/s/ddw4ac/dynamicland) - [Dynamicland](https://dynamicland.org)
 * [2024-09-04, 22:03:18](https://lobste.rs/s/64ifd9/twelve_rules_for_job_applications) - [Twelve rules for job applications and interviews](https://vurt.org/articles/twelve-rules/)
 * [2024-09-04, 17:27:42](https://lobste.rs/s/ojm6cn/async_rust_can_be_pleasure_work_with) - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/)
-* [2024-09-04, 17:19:44](https://lobste.rs/s/ezrmpf/php_is_best_choice_for_long_term_business) - [PHP is the Best Choice for Long-Term Business](https://tomasvotruba.com/blog/php-is-the-best-choice-for-long-term-business)
 * [2024-09-04, 17:11:43](https://lobste.rs/s/10z34j/tui_for_lobste_rs_website) - [TUI for lobste.rs website](https://github.com/pythops/lobtui)
 
 ## [Archives](archives/index.md)
