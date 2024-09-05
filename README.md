@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-05, 14:05:03](https://lobste.rs/s/r4ohaw/pdqselect_pattern_defeating) - [pdqselect: Pattern-Defeating QuickSelect for Go](https://github.com/tsenart/pdqselect)
 * [2024-09-05, 11:43:09](https://lobste.rs/s/iaiwtq/lazyfs_fuse_filesystem_with_internal) - [LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes](https://github.com/dsrhaslab/lazyfs)
 * [2024-09-05, 10:53:35](https://lobste.rs/s/xeog8l/open_source_alternative_likes_lemon) - [An open source alternative to the likes of Lemon Squeezy](https://polar.sh/)
 * [2024-09-05, 10:52:50](https://lobste.rs/s/hzywpj/beyond_procedure_calls_as_component_glue) - [Beyond Procedure Calls as Component Glue: Connectors Deserve Metaclass Status](https://2024.splashcon.org/details/splash-2024-Onward-papers/9/Beyond-Procedure-Calls-as-Component-Glue-Connectors-Deserve-Metaclass-Status)
-* [2024-09-05, 10:38:45](https://lobste.rs/s/nrbqnk/generative_artificial_intelligence) - [Generative Artificial Intelligence Report for Australian Securities and Investments Commission](https://www.aph.gov.au/DocumentStore.ashx?id=b4fd6043-6626-4cbe-b8ee-a5c7319e94a0)
 * [2024-09-05, 09:13:28](https://lobste.rs/s/c7krsz/qemu_version_9_1_0_released) - [QEMU version 9.1.0 released](https://www.qemu.org/2024/09/03/qemu-9-1-0/)
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:32:42](https://lobste.rs/s/7zglpd/swe_bench_can_language_models_resolve) - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://www.swebench.com/)
