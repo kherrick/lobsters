@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 09:13:28](https://lobste.rs/s/c7krsz/qemu_version_9_1_0_released) - [QEMU version 9.1.0 released](https://www.qemu.org/2024/09/03/qemu-9-1-0/)
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:32:42](https://lobste.rs/s/7zglpd/swe_bench_can_language_models_resolve) - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://www.swebench.com/)
 * [2024-09-05, 08:11:18](https://lobste.rs/s/nokryw/internet_archive_loses_its_appeal_major) - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)

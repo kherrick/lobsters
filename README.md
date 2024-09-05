@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-05, 09:13:28](https://lobste.rs/s/c7krsz/qemu_version_9_1_0_released) - [QEMU version 9.1.0 released](https://www.qemu.org/2024/09/03/qemu-9-1-0/)
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:32:42](https://lobste.rs/s/7zglpd/swe_bench_can_language_models_resolve) - [SWE-bench: Can Language Models Resolve Real-World GitHub Issues?](https://www.swebench.com/)
 * [2024-09-05, 08:11:18](https://lobste.rs/s/nokryw/internet_archive_loses_its_appeal_major) - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
@@ -23,7 +24,6 @@
 * [2024-09-04, 05:25:26](https://lobste.rs/s/m9bhxk/beyond_ctrl_c_dark_corners_unix_signal) - [Beyond Ctrl-C: The dark corners of Unix signal handling](https://sunshowers.io/posts/beyond-ctrl-c-signals/)
 * [2024-09-04, 01:04:53](https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly) - [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
 * [2024-09-04, 00:37:37](https://lobste.rs/s/p3wt9x/firefox_will_consider_rust) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
-* [2024-09-03, 18:49:52](https://lobste.rs/s/ftzoyh/it_s_not_rust_it_s_freebsd_llvm) - [It's not Rust, it's FreeBSD (and LLVM)](https://lists.freebsd.org/archives/freebsd-hackers/2024-September/003597.html)
 * [2024-09-03, 18:49:31](https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc) - [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
 
 ## [Archives](archives/index.md)
