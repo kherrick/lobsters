@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 17:26:58](https://lobste.rs/s/xmgy3x/postgres_materialized_views_from) - [Postgres Materialized Views from Parquet in S3 with Zero ETL](https://www.crunchydata.com/blog/postgres-materialized-views-from-parquet-in-s3-with-zero-etl)
 * [2024-09-05, 16:33:24](https://lobste.rs/s/dfxa7y/intuiting_monty_hall) - [Intuiting Monty Hall](https://two-wrongs.com/intuiting-monty-hall)
 * [2024-09-05, 16:28:29](https://lobste.rs/s/ehinvy/announcing_rust_1_81_0) - [Announcing Rust 1.81.0](https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html)
 * [2024-09-05, 16:11:02](https://lobste.rs/s/cz19g7/web_apps_have_client_server_state) - [Web apps have client and server state](https://dashbit.co/blog/web-apps-have-client-and-server-state)
