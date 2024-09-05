@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-05, 04:01:18",
+      "https://lobste.rs/s/davbq4/giving_c_std_regex_c_makeover"
+    ],
+    [
+      "Giving C++ std::regex a C makeover",
+      "https://nullprogram.com/blog/2024/09/04/"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 04:00:36",
+      "https://lobste.rs/s/ck31nt/structs_constructors"
+    ],
+    [
+      "Structs and constructors",
+      "https://www.sandordargo.com/blog/2024/09/04/structs-and-constructors"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 22:04:34",
       "https://lobste.rs/s/ddw4ac/dynamicland"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2024-09-04, 21:45:17",
-      "https://lobste.rs/s/czkgxc/script_making_it_easy_write_shell_like"
-    ],
-    [
-      "script: Making it easy to write shell-like scripts in Go",
-      "https://github.com/bitfield/script"
-    ]
-  ],
-  [
-    [
       "2024-09-04, 19:12:37",
       "https://lobste.rs/s/ywbll6/nobody_knows_how_many_amigas_commodore"
     ],
     [
       "Nobody Knows How Many Amigas Commodore Sold",
       "https://www.youtube.com/watch?v=AXCWYKSjHnI"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 19:09:05",
-      "https://lobste.rs/s/w4yr9y/tetris_sql_using_sql_s_turing"
-    ],
-    [
-      "tetris-sql: Using SQL's Turing Completeness to Build Tetris",
-      "https://github.com/nuno-faria/tetris-sql"
     ]
   ],
   [
