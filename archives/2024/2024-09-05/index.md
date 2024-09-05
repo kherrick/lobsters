@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 21:13:16](https://lobste.rs/s/8wm3nn/how_we_build_forms_liveview_livesvelte) - [How we build forms in LiveView + LiveSvelte](https://blog.sequinstream.com/how-we-build-forms-in-liveview-livesvelte/)
 * [2024-09-05, 20:08:45](https://lobste.rs/s/sw1msx/transitioning_from_react_graphql) - [Transitioning from React + GraphQL to ViewComponents](https://buoy.blog/2024/09/05/react-to-view-components.html)
 * [2024-09-05, 19:02:37](https://lobste.rs/s/tbkogf/you_re_allowed_be_evil_performance_code) - [You're allowed to be evil in performance code](https://push.cx/stream/2024-09-05-you-re-allowed-to-be-evil-in-performance-code)
 * [2024-09-05, 18:58:22](https://lobste.rs/s/wjnyva/building_wow_server_elixir) - [Building a WoW server in Elixir](https://pikdum.dev/posts/thistle-tea/)
