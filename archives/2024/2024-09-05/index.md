@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 23:30:02](https://lobste.rs/s/0kwnwb/alphaproteo_generates_novel_proteins) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 * [2024-09-05, 22:31:16](https://lobste.rs/s/23tkhe/cron_jobs_on_linux_comprehensive_guide) - [Cron Jobs on Linux - Comprehensive Guide with Examples](https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/)
 * [2024-09-05, 21:13:16](https://lobste.rs/s/8wm3nn/how_we_build_forms_liveview_livesvelte) - [How we build forms in LiveView + LiveSvelte](https://blog.sequinstream.com/how-we-build-forms-in-liveview-livesvelte/)
 * [2024-09-05, 20:24:34](https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
