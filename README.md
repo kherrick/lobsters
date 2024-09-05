@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-05, 18:20:19](https://lobste.rs/s/liiwbl/moral_implications_being_moderately) - [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-09-05, 18:04:36](https://lobste.rs/s/ybsyzh/exercism_has_2m_users_no_money_bank) - [Exercism has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
 * [2024-09-05, 17:44:04](https://lobste.rs/s/6uecan/textbox_behaviour) - [Textbox Behaviour](https://rxi.github.io/textbox_behaviour.html)
 * [2024-09-05, 16:33:24](https://lobste.rs/s/dfxa7y/intuiting_monty_hall) - [Intuiting Monty Hall](https://two-wrongs.com/intuiting-monty-hall)
@@ -24,7 +25,6 @@
 * [2024-09-04, 17:19:44](https://lobste.rs/s/ezrmpf/php_is_best_choice_for_long_term_business) - [PHP is the Best Choice for Long-Term Business](https://tomasvotruba.com/blog/php-is-the-best-choice-for-long-term-business)
 * [2024-09-04, 17:11:43](https://lobste.rs/s/10z34j/tui_for_lobste_rs_website) - [TUI for lobste.rs website](https://github.com/pythops/lobtui)
 * [2024-09-04, 14:11:53](https://lobste.rs/s/msuh1m/whither_apple_agx_graphics_driver) - [Whither the Apple AGX graphics driver?](https://lwn.net/SubscriberLink/988438/4171601a819405c4/)
-* [2024-09-04, 00:37:37](https://lobste.rs/s/p3wt9x/firefox_will_consider_rust) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
 
 ## [Archives](archives/index.md)
 

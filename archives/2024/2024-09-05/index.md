@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 18:20:19](https://lobste.rs/s/liiwbl/moral_implications_being_moderately) - [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-09-05, 18:04:36](https://lobste.rs/s/ybsyzh/exercism_has_2m_users_no_money_bank) - [Exercism has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
 * [2024-09-05, 17:44:04](https://lobste.rs/s/6uecan/textbox_behaviour) - [Textbox Behaviour](https://rxi.github.io/textbox_behaviour.html)
 * [2024-09-05, 17:32:29](https://lobste.rs/s/qm5olt/synchronization_primitives_c_20) - [Synchronization Primitives in C++20](https://www.kdab.com/synchronization-primitives-in-c20/)
