@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-05, 11:43:09",
+      "https://lobste.rs/s/iaiwtq/lazyfs_fuse_filesystem_with_internal"
+    ],
+    [
+      "LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes",
+      "https://github.com/dsrhaslab/lazyfs"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 10:53:35",
       "https://lobste.rs/s/xeog8l/open_source_alternative_likes_lemon"
     ],
@@ -177,16 +187,6 @@
     [
       "TUI for lobste.rs website",
       "https://github.com/pythops/lobtui"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 14:26:11",
-      "https://lobste.rs/s/ap0yxj/avoiding_test_case_permutation_blowout"
-    ],
-    [
-      "Avoiding Test-Case Permutation Blowout",
-      "https://www.stevenhicks.me/blog/2021/08/avoiding-test-case-permutation-blowout/"
     ]
   ],
   [
