@@ -14,6 +14,7 @@
 * [2024-09-05, 06:54:53](https://lobste.rs/s/en2rcj/optimization_s_impossible_rust) - [An Optimization That's Impossible in Rust](https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/)
 * [2024-09-05, 06:26:15](https://lobste.rs/s/bmbr2m/deploying_rust_existing_firmware) - [Deploying Rust in existing firmware codebases](https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html)
 * [2024-09-05, 04:01:18](https://lobste.rs/s/davbq4/giving_c_std_regex_c_makeover) - [Giving C++ std::regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
+* [2024-09-05, 04:00:36](https://lobste.rs/s/ck31nt/structs_constructors) - [Structs and constructors](https://www.sandordargo.com/blog/2024/09/04/structs-and-constructors)
 * [2024-09-04, 22:04:34](https://lobste.rs/s/ddw4ac/dynamicland) - [Dynamicland](https://dynamicland.org)
 * [2024-09-04, 22:03:18](https://lobste.rs/s/64ifd9/twelve_rules_for_job_applications) - [Twelve rules for job applications and interviews](https://vurt.org/articles/twelve-rules/)
 * [2024-09-04, 18:47:26](https://lobste.rs/s/wfqkxa/creating_git_commit_hard_way) - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
@@ -24,7 +25,6 @@
 * [2024-09-04, 13:45:48](https://lobste.rs/s/dzsgie/exploring_goja_golang_javascript) - [Exploring Goja: A Golang JavaScript Runtime](https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime)
 * [2024-09-04, 01:04:53](https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly) - [LSP: the good, the bad, and the ugly](https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html)
 * [2024-09-04, 00:37:37](https://lobste.rs/s/p3wt9x/firefox_will_consider_rust) - [Firefox will consider a Rust implementation of JPEG-XL](https://github.com/mozilla/standards-positions/pull/1064)
-* [2024-09-03, 18:49:31](https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc) - [Swift creator Chris Lattner on Mojo & Roc](https://www.youtube.com/watch?v=ENviIxDTmUA)
 
 ## [Archives](archives/index.md)
 
