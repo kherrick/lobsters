@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 14:47:53](https://lobste.rs/s/ihenqt/internet_archive_just_lost_its_appeal) - [The Internet Archive just lost its appeal over ebook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
 * [2024-09-05, 14:29:36](https://lobste.rs/s/yx57uf/is_linux_collapsing_under_its_own_weight) - [Is Linux collapsing under its own weight? On Rust for Linux](https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/)
 * [2024-09-05, 14:26:08](https://lobste.rs/s/6li3xh/my_most_downvoted_stackoverflow_answer) - [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
 * [2024-09-05, 14:15:15](https://lobste.rs/s/z4jjjp/flambda2_ep_3_speculative_inlining) - [Flambda2 Ep. 3: Speculative Inlining](https://ocamlpro.com/blog/2024_08_09_the_flambda2_snippets_3/)

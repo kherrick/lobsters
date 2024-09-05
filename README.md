@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-05, 14:47:53](https://lobste.rs/s/ihenqt/internet_archive_just_lost_its_appeal) - [The Internet Archive just lost its appeal over ebook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
 * [2024-09-05, 14:29:36](https://lobste.rs/s/yx57uf/is_linux_collapsing_under_its_own_weight) - [Is Linux collapsing under its own weight? On Rust for Linux](https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/)
 * [2024-09-05, 14:26:08](https://lobste.rs/s/6li3xh/my_most_downvoted_stackoverflow_answer) - [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
 * [2024-09-05, 14:15:15](https://lobste.rs/s/z4jjjp/flambda2_ep_3_speculative_inlining) - [Flambda2 Ep. 3: Speculative Inlining](https://ocamlpro.com/blog/2024_08_09_the_flambda2_snippets_3/)
@@ -15,7 +16,6 @@
 * [2024-09-05, 04:01:18](https://lobste.rs/s/davbq4/giving_c_std_regex_c_makeover) - [Giving C++ std::regex a C makeover](https://nullprogram.com/blog/2024/09/04/)
 * [2024-09-04, 22:04:34](https://lobste.rs/s/ddw4ac/dynamicland) - [Dynamicland](https://dynamicland.org)
 * [2024-09-04, 22:03:18](https://lobste.rs/s/64ifd9/twelve_rules_for_job_applications) - [Twelve rules for job applications and interviews](https://vurt.org/articles/twelve-rules/)
-* [2024-09-04, 19:12:37](https://lobste.rs/s/ywbll6/nobody_knows_how_many_amigas_commodore) - [Nobody Knows How Many Amigas Commodore Sold](https://www.youtube.com/watch?v=AXCWYKSjHnI)
 * [2024-09-04, 18:47:26](https://lobste.rs/s/wfqkxa/creating_git_commit_hard_way) - [Creating a Git commit: The Hard Way](https://avestura.dev/blog/creating-a-git-commit-the-hard-way)
 * [2024-09-04, 17:27:42](https://lobste.rs/s/ojm6cn/async_rust_can_be_pleasure_work_with) - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/)
 * [2024-09-04, 17:19:44](https://lobste.rs/s/ezrmpf/php_is_best_choice_for_long_term_business) - [PHP is the Best Choice for Long-Term Business](https://tomasvotruba.com/blog/php-is-the-best-choice-for-long-term-business)
