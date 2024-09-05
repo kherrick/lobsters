@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-05, 17:26:58",
+      "https://lobste.rs/s/xmgy3x/postgres_materialized_views_from"
+    ],
+    [
+      "Postgres Materialized Views from Parquet in S3 with Zero ETL",
+      "https://www.crunchydata.com/blog/postgres-materialized-views-from-parquet-in-s3-with-zero-etl"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 16:33:24",
       "https://lobste.rs/s/dfxa7y/intuiting_monty_hall"
     ],
@@ -27,16 +37,6 @@
     [
       "Web apps have client and server state",
       "https://dashbit.co/blog/web-apps-have-client-and-server-state"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 16:03:37",
-      "https://lobste.rs/s/iwozpq/problem_details_rfc_9457_doing_api_errors"
-    ],
-    [
-      "Problem Details (RFC 9457): Doing API Errors Well",
-      "https://swagger.io/blog/problem-details-rfc9457-doing-api-errors-well/"
     ]
   ],
   [
