@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 19:02:37](https://lobste.rs/s/tbkogf/you_re_allowed_be_evil_performance_code) - [You're allowed to be evil in performance code](https://push.cx/stream/2024-09-05-you-re-allowed-to-be-evil-in-performance-code)
+* [2024-09-05, 18:58:22](https://lobste.rs/s/wjnyva/building_wow_server_elixir) - [Building a WoW server in Elixir](https://pikdum.dev/posts/thistle-tea/)
 * [2024-09-05, 18:20:19](https://lobste.rs/s/liiwbl/moral_implications_being_moderately) - [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-09-05, 18:04:36](https://lobste.rs/s/ybsyzh/exercism_has_2m_users_no_money_bank) - [Exercism has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
 * [2024-09-05, 17:44:04](https://lobste.rs/s/6uecan/textbox_behaviour) - [Textbox Behaviour](https://rxi.github.io/textbox_behaviour.html)

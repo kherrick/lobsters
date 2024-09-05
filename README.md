@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-05, 19:02:37](https://lobste.rs/s/tbkogf/you_re_allowed_be_evil_performance_code) - [You're allowed to be evil in performance code](https://push.cx/stream/2024-09-05-you-re-allowed-to-be-evil-in-performance-code)
+* [2024-09-05, 18:58:22](https://lobste.rs/s/wjnyva/building_wow_server_elixir) - [Building a WoW server in Elixir](https://pikdum.dev/posts/thistle-tea/)
 * [2024-09-05, 18:20:19](https://lobste.rs/s/liiwbl/moral_implications_being_moderately) - [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
-* [2024-09-05, 18:04:36](https://lobste.rs/s/ybsyzh/exercism_has_2m_users_no_money_bank) - [Exercism has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
-* [2024-09-05, 17:44:04](https://lobste.rs/s/6uecan/textbox_behaviour) - [Textbox Behaviour](https://rxi.github.io/textbox_behaviour.html)
 * [2024-09-05, 16:33:24](https://lobste.rs/s/dfxa7y/intuiting_monty_hall) - [Intuiting Monty Hall](https://two-wrongs.com/intuiting-monty-hall)
 * [2024-09-05, 16:28:29](https://lobste.rs/s/ehinvy/announcing_rust_1_81_0) - [Announcing Rust 1.81.0](https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html)
 * [2024-09-05, 14:47:53](https://lobste.rs/s/ihenqt/internet_archive_just_lost_its_appeal) - [The Internet Archive just lost its appeal over ebook lending](https://www.theverge.com/2024/9/4/24235958/internet-archive-loses-appeal-ebook-lending)
