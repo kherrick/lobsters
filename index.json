@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-05, 16:33:24",
+      "https://lobste.rs/s/dfxa7y/intuiting_monty_hall"
+    ],
+    [
+      "Intuiting Monty Hall",
+      "https://two-wrongs.com/intuiting-monty-hall"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 16:28:29",
+      "https://lobste.rs/s/ehinvy/announcing_rust_1_81_0"
+    ],
+    [
+      "Announcing Rust 1.81.0",
+      "https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 16:11:02",
       "https://lobste.rs/s/cz19g7/web_apps_have_client_server_state"
     ],
@@ -77,16 +97,6 @@
     [
       "Beyond Procedure Calls as Component Glue: Connectors Deserve Metaclass Status",
       "https://2024.splashcon.org/details/splash-2024-Onward-papers/9/Beyond-Procedure-Calls-as-Component-Glue-Connectors-Deserve-Metaclass-Status"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 09:13:28",
-      "https://lobste.rs/s/c7krsz/qemu_version_9_1_0_released"
-    ],
-    [
-      "QEMU version 9.1.0 released",
-      "https://www.qemu.org/2024/09/03/qemu-9-1-0/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Exploring Goja: A Golang JavaScript Runtime",
       "https://jtarchie.com/posts/2024-08-30-exploring-goja-a-golang-javascript-runtime"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 01:04:53",
-      "https://lobste.rs/s/dzk5tp/lsp_good_bad_ugly"
-    ],
-    [
-      "LSP: the good, the bad, and the ugly",
-      "https://www.michaelpj.com/blog/2024/09/03/lsp-good-bad-ugly.html"
     ]
   ],
   [
