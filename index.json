@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-05, 06:26:15",
+      "https://lobste.rs/s/bmbr2m/deploying_rust_existing_firmware"
+    ],
+    [
+      "Deploying Rust in existing firmware codebases",
+      "https://security.googleblog.com/2024/09/deploying-rust-in-existing-firmware.html"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 04:01:18",
       "https://lobste.rs/s/davbq4/giving_c_std_regex_c_makeover"
     ],
@@ -127,16 +137,6 @@
     [
       "Whither the Apple AGX graphics driver?",
       "https://lwn.net/SubscriberLink/988438/4171601a819405c4/"
-    ]
-  ],
-  [
-    [
-      "2024-09-04, 14:04:39",
-      "https://lobste.rs/s/mgydaw/expat_2_6_3_released_includes_security"
-    ],
-    [
-      "Expat 2.6.3 released, includes security fixes",
-      "https://blog.hartwork.org/posts/expat-2-6-3-released/"
     ]
   ],
   [
