@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 22:31:16](https://lobste.rs/s/23tkhe/cron_jobs_on_linux_comprehensive_guide) - [Cron Jobs on Linux - Comprehensive Guide with Examples](https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/)
 * [2024-09-05, 21:13:16](https://lobste.rs/s/8wm3nn/how_we_build_forms_liveview_livesvelte) - [How we build forms in LiveView + LiveSvelte](https://blog.sequinstream.com/how-we-build-forms-in-liveview-livesvelte/)
 * [2024-09-05, 20:24:34](https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 * [2024-09-05, 20:16:32](https://lobste.rs/s/vpajc6/clojure_1_12_0_is_released) - [Clojure 1.12.0 is released](https://clojure.org/news/2024/09/05/clojure-1-12-0)
