@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-09-05, 04:00:36",
+      "https://lobste.rs/s/ck31nt/structs_constructors"
+    ],
+    [
+      "Structs and constructors",
+      "https://www.sandordargo.com/blog/2024/09/04/structs-and-constructors"
+    ]
+  ],
+  [
+    [
       "2024-09-04, 22:04:34",
       "https://lobste.rs/s/ddw4ac/dynamicland"
     ],
@@ -237,16 +247,6 @@
     [
       "Firefox will consider a Rust implementation of JPEG-XL",
       "https://github.com/mozilla/standards-positions/pull/1064"
-    ]
-  ],
-  [
-    [
-      "2024-09-03, 18:49:31",
-      "https://lobste.rs/s/t7o8kx/swift_creator_chris_lattner_on_mojo_roc"
-    ],
-    [
-      "Swift creator Chris Lattner on Mojo & Roc",
-      "https://www.youtube.com/watch?v=ENviIxDTmUA"
     ]
   ]
 ]
