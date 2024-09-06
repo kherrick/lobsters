@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-06, 03:15:46",
+      "https://lobste.rs/s/lecxfj/frustrating_interactions_with_ocaml"
+    ],
+    [
+      "Frustrating interactions with the OCaml ecosystem while developing a synthesizer library",
+      "https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/"
+    ]
+  ],
+  [
+    [
       "2024-09-05, 23:45:07",
       "https://lobste.rs/s/jyqcp5/rust_illumos"
     ],
@@ -147,16 +157,6 @@
     [
       "My most downvoted StackOverflow answer",
       "https://ohadravid.github.io/posts/2024-09-yells-at-cloud/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 14:05:03",
-      "https://lobste.rs/s/r4ohaw/pdqselect_pattern_defeating"
-    ],
-    [
-      "pdqselect: Pattern-Defeating QuickSelect for Go",
-      "https://github.com/tsenart/pdqselect"
     ]
   ],
   [
