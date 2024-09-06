@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
+* [2024-09-06, 18:20:55](https://lobste.rs/s/yiiatz/hylo_safe_systems_generic_programming) - [Hylo - The Safe Systems and Generic-programming Language Built on Value Semantics](https://www.youtube.com/watch?v=5lecIqUhEl4)
+* [2024-09-06, 18:04:08](https://lobste.rs/s/wntwae/why_i_started_livestreaming_as_rust) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
 * [2024-09-06, 17:44:30](https://lobste.rs/s/rjbbev/why_is_browser_observability_hard_hazel) - [Why is Browser Observability Hard | Hazel Weakly](https://hazelweakly.me/blog/why-is-browser-observability-hard/)
 * [2024-09-06, 16:37:44](https://lobste.rs/s/g2k6gg/ill_fated_hp_compaq_merger) - [The ill-fated HP-Compaq merger](https://dfarq.homeip.net/the-ill-fated-hp-compaq-merger/)
 * [2024-09-06, 16:21:09](https://lobste.rs/s/baxrkb/memory_wall_past_present_future_dram) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
