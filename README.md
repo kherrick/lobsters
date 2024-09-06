@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-06, 14:48:08](https://lobste.rs/s/badsio/rust_on_rp2350) - [Rust on RP2350](https://www.raspberrypi.com/news/rust-on-rp2350/)
 * [2024-09-06, 13:47:55](https://lobste.rs/s/okcjac/understanding_performance_aspects_etcd) - [Understanding performance aspects of etcd and Raft (2017)](https://www.slideshare.net/slideshow/understanding-performance-aspects-of-etcd-and-raft/76576115)
 * [2024-09-06, 12:30:05](https://lobste.rs/s/qpdu2a/test_ad_block) - [Test Ad Block](https://d3ward.github.io/toolz/adblock)
-* [2024-09-06, 10:12:06](https://lobste.rs/s/dqzywm/local_first_access_control) - [Local-first access control](https://www.inkandswitch.com/beehive/notebook/)
 * [2024-09-06, 10:00:39](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend)
 * [2024-09-06, 09:02:26](https://lobste.rs/s/k1bjza/intent_unship_http_2_push) - [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
 * [2024-09-06, 08:33:15](https://lobste.rs/s/a6ppko/we_need_talk_about_enums) - [We need to talk about ENUMs](https://notso.boringsql.com/posts/postgresql-enums/)
