@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 12:30:05](https://lobste.rs/s/qpdu2a/test_ad_block) - [Test Ad Block](https://d3ward.github.io/toolz/adblock)
 * [2024-09-06, 10:19:11](https://lobste.rs/s/fh3xkd/accel_invests_57m_into_laravel_products) - [Accel invests $57M into Laravel Products & Open-Source Framework](https://blog.laravel.com/accel-invests-57m-into-laravel)
 * [2024-09-06, 10:12:06](https://lobste.rs/s/dqzywm/local_first_access_control) - [Local-first access control](https://www.inkandswitch.com/beehive/notebook/)
 * [2024-09-06, 10:00:39](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend)

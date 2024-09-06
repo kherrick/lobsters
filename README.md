@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-06, 10:19:11](https://lobste.rs/s/fh3xkd/accel_invests_57m_into_laravel_products) - [Accel invests $57M into Laravel Products & Open-Source Framework](https://blog.laravel.com/accel-invests-57m-into-laravel)
+* [2024-09-06, 12:30:05](https://lobste.rs/s/qpdu2a/test_ad_block) - [Test Ad Block](https://d3ward.github.io/toolz/adblock)
 * [2024-09-06, 10:12:06](https://lobste.rs/s/dqzywm/local_first_access_control) - [Local-first access control](https://www.inkandswitch.com/beehive/notebook/)
 * [2024-09-06, 10:00:39](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend)
 * [2024-09-06, 09:02:26](https://lobste.rs/s/k1bjza/intent_unship_http_2_push) - [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
