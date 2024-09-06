@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-06, 13:47:55](https://lobste.rs/s/okcjac/understanding_performance_aspects_etcd) - [Understanding performance aspects of etcd and Raft (2017)](https://www.slideshare.net/slideshow/understanding-performance-aspects-of-etcd-and-raft/76576115)
 * [2024-09-06, 12:30:05](https://lobste.rs/s/qpdu2a/test_ad_block) - [Test Ad Block](https://d3ward.github.io/toolz/adblock)
 * [2024-09-06, 10:12:06](https://lobste.rs/s/dqzywm/local_first_access_control) - [Local-first access control](https://www.inkandswitch.com/beehive/notebook/)
 * [2024-09-06, 10:00:39](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend)
@@ -15,7 +16,6 @@
 * [2024-09-05, 18:58:22](https://lobste.rs/s/wjnyva/building_wow_server_elixir) - [Building a WoW server in Elixir](https://pikdum.dev/posts/thistle-tea/)
 * [2024-09-05, 18:20:19](https://lobste.rs/s/liiwbl/moral_implications_being_moderately) - [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-09-05, 18:04:36](https://lobste.rs/s/ybsyzh/exercism_has_2m_users_no_money_bank) - [Exercism has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
-* [2024-09-05, 17:26:58](https://lobste.rs/s/xmgy3x/postgres_materialized_views_from) - [Postgres Materialized Views from Parquet in S3 with Zero ETL](https://www.crunchydata.com/blog/postgres-materialized-views-from-parquet-in-s3-with-zero-etl)
 * [2024-09-05, 16:33:24](https://lobste.rs/s/dfxa7y/intuiting_monty_hall) - [Intuiting Monty Hall](https://two-wrongs.com/intuiting-monty-hall)
 * [2024-09-05, 16:28:29](https://lobste.rs/s/ehinvy/announcing_rust_1_81_0) - [Announcing Rust 1.81.0](https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html)
 * [2024-09-05, 14:29:36](https://lobste.rs/s/yx57uf/is_linux_collapsing_under_its_own_weight) - [Is Linux collapsing under its own weight? On Rust for Linux](https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/)
