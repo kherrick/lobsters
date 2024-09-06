@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-06, 10:00:39",
+      "https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 09:02:26",
       "https://lobste.rs/s/k1bjza/intent_unship_http_2_push"
     ],
@@ -27,6 +37,16 @@
     [
       "GStreamer and WebRTC HTTP signalling",
       "https://arunraghavan.net/2024/09/gstreamer-and-webrtc-http-signalling/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 05:23:24",
+      "https://lobste.rs/s/s8mbsy/kelly_criterion_blackjack_sports"
+    ],
+    [
+      "The Kelly Criterion in Blackjack, Sports Betting, and the Stock Market",
+      "https://www.eecs.harvard.edu/cs286r/courses/fall12/papers/Thorpe_KellyCriterion2007.pdf"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-09-05, 11:43:09",
-      "https://lobste.rs/s/iaiwtq/lazyfs_fuse_filesystem_with_internal"
-    ],
-    [
-      "LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes",
-      "https://github.com/dsrhaslab/lazyfs"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 09:13:28",
       "https://lobste.rs/s/c7krsz/qemu_version_9_1_0_released"
     ],
@@ -217,16 +227,6 @@
     [
       "The Internet Archive Loses Its Appeal of a Major Copyright Case",
       "https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 06:54:53",
-      "https://lobste.rs/s/en2rcj/optimization_s_impossible_rust"
-    ],
-    [
-      "An Optimization That's Impossible in Rust",
-      "https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/"
     ]
   ],
   [
