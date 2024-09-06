@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 10:00:39](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend)
 * [2024-09-06, 09:02:26](https://lobste.rs/s/k1bjza/intent_unship_http_2_push) - [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
 * [2024-09-06, 08:33:15](https://lobste.rs/s/a6ppko/we_need_talk_about_enums) - [We need to talk about ENUMs](https://notso.boringsql.com/posts/postgresql-enums/)
 * [2024-09-06, 05:58:36](https://lobste.rs/s/xar37j/gstreamer_webrtc_http_signalling) - [GStreamer and WebRTC HTTP signalling](https://arunraghavan.net/2024/09/gstreamer-and-webrtc-http-signalling/)
