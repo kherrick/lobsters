@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-06, 20:58:57](https://lobste.rs/s/zolh4m/macro_forth_forth_implemented_compile) - [macro-forth: Forth implemented in compile-time rust macros](https://github.com/zdimension/macro-forth)
 * [2024-09-06, 20:34:53](https://lobste.rs/s/5tintt/unstripping_binaries_restoring) - [“Unstripping” binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
@@ -10,7 +11,6 @@
 * [2024-09-06, 15:51:18](https://lobste.rs/s/9785ed/kid_pix_early_years) - [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
 * [2024-09-06, 15:40:46](https://lobste.rs/s/mhyhna/nginx_has_moved_github) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 * [2024-09-06, 14:48:08](https://lobste.rs/s/badsio/rust_on_rp2350) - [Rust on RP2350](https://www.raspberrypi.com/news/rust-on-rp2350/)
-* [2024-09-06, 13:47:55](https://lobste.rs/s/okcjac/understanding_performance_aspects_etcd) - [Understanding performance aspects of etcd and Raft (2017)](https://www.slideshare.net/slideshow/understanding-performance-aspects-of-etcd-and-raft/76576115)
 * [2024-09-06, 12:30:05](https://lobste.rs/s/qpdu2a/test_ad_block) - [Test Ad Block](https://d3ward.github.io/toolz/adblock)
 * [2024-09-06, 10:00:39](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend)
 * [2024-09-06, 09:02:26](https://lobste.rs/s/k1bjza/intent_unship_http_2_push) - [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
