@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 * [2024-09-06, 18:20:55](https://lobste.rs/s/yiiatz/hylo_safe_systems_generic_programming) - [Hylo - The Safe Systems and Generic-programming Language Built on Value Semantics](https://www.youtube.com/watch?v=5lecIqUhEl4)
 * [2024-09-06, 18:04:08](https://lobste.rs/s/wntwae/why_i_started_livestreaming_as_rust) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
