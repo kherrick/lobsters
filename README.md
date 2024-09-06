@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-06, 03:15:46](https://lobste.rs/s/lecxfj/frustrating_interactions_with_ocaml) - [Frustrating interactions with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
 * [2024-09-05, 23:45:07](https://lobste.rs/s/jyqcp5/rust_illumos) - [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-05, 23:30:02](https://lobste.rs/s/0kwnwb/alphaproteo_generates_novel_proteins) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
 * [2024-09-05, 22:44:52](https://lobste.rs/s/fc516s/0_dependencies) - [0 dependencies](https://www.tbray.org/ongoing/When/202x/2024/09/04/0dependencies)
@@ -15,7 +16,6 @@
 * [2024-09-05, 16:28:29](https://lobste.rs/s/ehinvy/announcing_rust_1_81_0) - [Announcing Rust 1.81.0](https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html)
 * [2024-09-05, 14:29:36](https://lobste.rs/s/yx57uf/is_linux_collapsing_under_its_own_weight) - [Is Linux collapsing under its own weight? On Rust for Linux](https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/)
 * [2024-09-05, 14:26:08](https://lobste.rs/s/6li3xh/my_most_downvoted_stackoverflow_answer) - [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
-* [2024-09-05, 14:05:03](https://lobste.rs/s/r4ohaw/pdqselect_pattern_defeating) - [pdqselect: Pattern-Defeating QuickSelect for Go](https://github.com/tsenart/pdqselect)
 * [2024-09-05, 11:43:09](https://lobste.rs/s/iaiwtq/lazyfs_fuse_filesystem_with_internal) - [LazyFS: A FUSE Filesystem with an internal dedicated page cache, which can be used to simulate data loss on unsynced writes](https://github.com/dsrhaslab/lazyfs)
 * [2024-09-05, 09:13:28](https://lobste.rs/s/c7krsz/qemu_version_9_1_0_released) - [QEMU version 9.1.0 released](https://www.qemu.org/2024/09/03/qemu-9-1-0/)
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
