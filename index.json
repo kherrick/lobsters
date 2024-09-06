@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-09-06, 18:20:55",
-      "https://lobste.rs/s/yiiatz/hylo_safe_systems_generic_programming"
-    ],
-    [
-      "Hylo - The Safe Systems and Generic-programming Language Built on Value Semantics",
-      "https://www.youtube.com/watch?v=5lecIqUhEl4"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 18:04:08",
       "https://lobste.rs/s/wntwae/why_i_started_livestreaming_as_rust"
     ],
@@ -97,6 +87,16 @@
     [
       "Rust on RP2350",
       "https://www.raspberrypi.com/news/rust-on-rp2350/"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 13:47:55",
+      "https://lobste.rs/s/okcjac/understanding_performance_aspects_etcd"
+    ],
+    [
+      "Understanding performance aspects of etcd and Raft (2017)",
+      "https://www.slideshare.net/slideshow/understanding-performance-aspects-of-etcd-and-raft/76576115"
     ]
   ],
   [
