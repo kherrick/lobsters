@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 17:44:30](https://lobste.rs/s/rjbbev/why_is_browser_observability_hard_hazel) - [Why is Browser Observability Hard | Hazel Weakly](https://hazelweakly.me/blog/why-is-browser-observability-hard/)
 * [2024-09-06, 16:37:44](https://lobste.rs/s/g2k6gg/ill_fated_hp_compaq_merger) - [The ill-fated HP-Compaq merger](https://dfarq.homeip.net/the-ill-fated-hp-compaq-merger/)
 * [2024-09-06, 16:21:09](https://lobste.rs/s/baxrkb/memory_wall_past_present_future_dram) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 * [2024-09-06, 15:56:59](https://lobste.rs/s/4pqtyr/upscayl_enhance_your_images_with_ai) - [Upscayl - Enhance your images, with AI, locally, no cloud](https://www.dedoimedo.com/computers/upscayl.html)

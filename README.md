@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-06, 17:44:30](https://lobste.rs/s/rjbbev/why_is_browser_observability_hard_hazel) - [Why is Browser Observability Hard | Hazel Weakly](https://hazelweakly.me/blog/why-is-browser-observability-hard/)
 * [2024-09-06, 16:37:44](https://lobste.rs/s/g2k6gg/ill_fated_hp_compaq_merger) - [The ill-fated HP-Compaq merger](https://dfarq.homeip.net/the-ill-fated-hp-compaq-merger/)
 * [2024-09-06, 16:21:09](https://lobste.rs/s/baxrkb/memory_wall_past_present_future_dram) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 * [2024-09-06, 15:56:59](https://lobste.rs/s/4pqtyr/upscayl_enhance_your_images_with_ai) - [Upscayl - Enhance your images, with AI, locally, no cloud](https://www.dedoimedo.com/computers/upscayl.html)
@@ -24,7 +25,6 @@
 * [2024-09-05, 14:29:36](https://lobste.rs/s/yx57uf/is_linux_collapsing_under_its_own_weight) - [Is Linux collapsing under its own weight? On Rust for Linux](https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/)
 * [2024-09-05, 14:26:08](https://lobste.rs/s/6li3xh/my_most_downvoted_stackoverflow_answer) - [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
-* [2024-09-05, 08:11:18](https://lobste.rs/s/nokryw/internet_archive_loses_its_appeal_major) - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
 
 ## [Archives](archives/index.md)
 
