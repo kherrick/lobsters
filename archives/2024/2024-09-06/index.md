@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 15:56:59](https://lobste.rs/s/4pqtyr/upscayl_enhance_your_images_with_ai) - [Upscayl - Enhance your images, with AI, locally, no cloud](https://www.dedoimedo.com/computers/upscayl.html)
+* [2024-09-06, 15:55:34](https://lobste.rs/s/o2gim4/windows_3_11_on_qemu_5_2_0) - [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)
+* [2024-09-06, 15:51:18](https://lobste.rs/s/9785ed/kid_pix_early_years) - [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
 * [2024-09-06, 15:40:46](https://lobste.rs/s/mhyhna/nginx_has_moved_github) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 * [2024-09-06, 14:48:08](https://lobste.rs/s/badsio/rust_on_rp2350) - [Rust on RP2350](https://www.raspberrypi.com/news/rust-on-rp2350/)
 * [2024-09-06, 13:47:55](https://lobste.rs/s/okcjac/understanding_performance_aspects_etcd) - [Understanding performance aspects of etcd and Raft (2017)](https://www.slideshare.net/slideshow/understanding-performance-aspects-of-etcd-and-raft/76576115)
