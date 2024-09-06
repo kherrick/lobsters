@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-06, 16:21:09](https://lobste.rs/s/baxrkb/memory_wall_past_present_future_dram) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 * [2024-09-06, 15:56:59](https://lobste.rs/s/4pqtyr/upscayl_enhance_your_images_with_ai) - [Upscayl - Enhance your images, with AI, locally, no cloud](https://www.dedoimedo.com/computers/upscayl.html)
 * [2024-09-06, 15:55:34](https://lobste.rs/s/o2gim4/windows_3_11_on_qemu_5_2_0) - [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)
 * [2024-09-06, 15:51:18](https://lobste.rs/s/9785ed/kid_pix_early_years) - [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
@@ -11,7 +12,6 @@
 * [2024-09-06, 09:02:26](https://lobste.rs/s/k1bjza/intent_unship_http_2_push) - [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
 * [2024-09-06, 08:33:15](https://lobste.rs/s/a6ppko/we_need_talk_about_enums) - [We need to talk about ENUMs](https://notso.boringsql.com/posts/postgresql-enums/)
 * [2024-09-06, 03:15:46](https://lobste.rs/s/lecxfj/frustrating_interactions_with_ocaml) - [Frustrating interactions with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
-* [2024-09-05, 23:45:07](https://lobste.rs/s/jyqcp5/rust_illumos) - [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-05, 22:44:52](https://lobste.rs/s/fc516s/0_dependencies) - [0 dependencies](https://www.tbray.org/ongoing/When/202x/2024/09/04/0dependencies)
 * [2024-09-05, 20:24:34](https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 * [2024-09-05, 20:16:32](https://lobste.rs/s/vpajc6/clojure_1_12_0_is_released) - [Clojure 1.12.0 is released](https://clojure.org/news/2024/09/05/clojure-1-12-0)
