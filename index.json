@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-06, 13:47:55",
+      "https://lobste.rs/s/okcjac/understanding_performance_aspects_etcd"
+    ],
+    [
+      "Understanding performance aspects of etcd and Raft (2017)",
+      "https://www.slideshare.net/slideshow/understanding-performance-aspects-of-etcd-and-raft/76576115"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 12:30:05",
       "https://lobste.rs/s/qpdu2a/test_ad_block"
     ],
@@ -147,16 +157,6 @@
     [
       "Exercism has 2M users but no money in the bank",
       "https://exercism.org/blog/september-2024-restructure"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 17:26:58",
-      "https://lobste.rs/s/xmgy3x/postgres_materialized_views_from"
-    ],
-    [
-      "Postgres Materialized Views from Parquet in S3 with Zero ETL",
-      "https://www.crunchydata.com/blog/postgres-materialized-views-from-parquet-in-s3-with-zero-etl"
     ]
   ],
   [
