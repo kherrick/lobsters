@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-06, 10:19:11",
+      "https://lobste.rs/s/fh3xkd/accel_invests_57m_into_laravel_products"
+    ],
+    [
+      "Accel invests $57M into Laravel Products & Open-Source Framework",
+      "https://blog.laravel.com/accel-invests-57m-into-laravel"
+    ]
+  ],
+  [
+    [
+      "2024-09-06, 10:12:06",
+      "https://lobste.rs/s/dqzywm/local_first_access_control"
+    ],
+    [
+      "Local-first access control",
+      "https://www.inkandswitch.com/beehive/notebook/"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 10:00:39",
       "https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2024-09-05, 22:31:16",
-      "https://lobste.rs/s/23tkhe/cron_jobs_on_linux_comprehensive_guide"
-    ],
-    [
-      "Cron Jobs on Linux - Comprehensive Guide with Examples",
-      "https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 21:13:16",
       "https://lobste.rs/s/8wm3nn/how_we_build_forms_liveview_livesvelte"
     ],
@@ -147,16 +157,6 @@
     [
       "Exercism has 2M users but no money in the bank",
       "https://exercism.org/blog/september-2024-restructure"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 17:26:58",
-      "https://lobste.rs/s/xmgy3x/postgres_materialized_views_from"
-    ],
-    [
-      "Postgres Materialized Views from Parquet in S3 with Zero ETL",
-      "https://www.crunchydata.com/blog/postgres-materialized-views-from-parquet-in-s3-with-zero-etl"
     ]
   ],
   [
