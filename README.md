@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-06, 03:42:26](https://lobste.rs/s/cuqlrp/pc_floppy_copy_protection_softguard) - [PC floppy copy protection: Softguard Superlok](https://martypc.blogspot.com/2024/08/pc-floppy-copy-protection-softguard.html)
 * [2024-09-06, 03:15:46](https://lobste.rs/s/lecxfj/frustrating_interactions_with_ocaml) - [Frustrating interactions with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
 * [2024-09-05, 23:45:07](https://lobste.rs/s/jyqcp5/rust_illumos) - [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-05, 23:30:02](https://lobste.rs/s/0kwnwb/alphaproteo_generates_novel_proteins) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
@@ -22,7 +23,6 @@
 * [2024-09-05, 08:11:18](https://lobste.rs/s/nokryw/internet_archive_loses_its_appeal_major) - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
 * [2024-09-05, 06:54:53](https://lobste.rs/s/en2rcj/optimization_s_impossible_rust) - [An Optimization That's Impossible in Rust](https://tunglevo.com/note/an-optimization-thats-impossible-in-rust/)
 * [2024-09-04, 22:04:34](https://lobste.rs/s/ddw4ac/dynamicland) - [Dynamicland](https://dynamicland.org)
-* [2024-09-04, 22:03:18](https://lobste.rs/s/64ifd9/twelve_rules_for_job_applications) - [Twelve rules for job applications and interviews](https://vurt.org/articles/twelve-rules/)
 * [2024-09-04, 17:27:42](https://lobste.rs/s/ojm6cn/async_rust_can_be_pleasure_work_with) - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/)
 * [2024-09-04, 17:11:43](https://lobste.rs/s/10z34j/tui_for_lobste_rs_website) - [TUI for lobste.rs website](https://github.com/pythops/lobtui)
 
