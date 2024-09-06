@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-09-05, 21:13:16",
-      "https://lobste.rs/s/8wm3nn/how_we_build_forms_liveview_livesvelte"
-    ],
-    [
-      "How we build forms in LiveView + LiveSvelte",
-      "https://blog.sequinstream.com/how-we-build-forms-in-liveview-livesvelte/"
-    ]
-  ],
-  [
-    [
       "2024-09-05, 20:24:34",
       "https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust"
     ],
@@ -157,6 +147,16 @@
     [
       "Exercism has 2M users but no money in the bank",
       "https://exercism.org/blog/september-2024-restructure"
+    ]
+  ],
+  [
+    [
+      "2024-09-05, 17:26:58",
+      "https://lobste.rs/s/xmgy3x/postgres_materialized_views_from"
+    ],
+    [
+      "Postgres Materialized Views from Parquet in S3 with Zero ETL",
+      "https://www.crunchydata.com/blog/postgres-materialized-views-from-parquet-in-s3-with-zero-etl"
     ]
   ],
   [
