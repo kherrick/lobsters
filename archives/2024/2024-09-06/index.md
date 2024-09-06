@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-06](index.md)
 
+* [2024-09-06, 16:37:44](https://lobste.rs/s/g2k6gg/ill_fated_hp_compaq_merger) - [The ill-fated HP-Compaq merger](https://dfarq.homeip.net/the-ill-fated-hp-compaq-merger/)
 * [2024-09-06, 16:21:09](https://lobste.rs/s/baxrkb/memory_wall_past_present_future_dram) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 * [2024-09-06, 15:56:59](https://lobste.rs/s/4pqtyr/upscayl_enhance_your_images_with_ai) - [Upscayl - Enhance your images, with AI, locally, no cloud](https://www.dedoimedo.com/computers/upscayl.html)
 * [2024-09-06, 15:55:34](https://lobste.rs/s/o2gim4/windows_3_11_on_qemu_5_2_0) - [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)

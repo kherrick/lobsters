@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-06, 16:37:44](https://lobste.rs/s/g2k6gg/ill_fated_hp_compaq_merger) - [The ill-fated HP-Compaq merger](https://dfarq.homeip.net/the-ill-fated-hp-compaq-merger/)
 * [2024-09-06, 16:21:09](https://lobste.rs/s/baxrkb/memory_wall_past_present_future_dram) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 * [2024-09-06, 15:56:59](https://lobste.rs/s/4pqtyr/upscayl_enhance_your_images_with_ai) - [Upscayl - Enhance your images, with AI, locally, no cloud](https://www.dedoimedo.com/computers/upscayl.html)
 * [2024-09-06, 15:55:34](https://lobste.rs/s/o2gim4/windows_3_11_on_qemu_5_2_0) - [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)
@@ -24,7 +25,6 @@
 * [2024-09-05, 14:26:08](https://lobste.rs/s/6li3xh/my_most_downvoted_stackoverflow_answer) - [My most downvoted StackOverflow answer](https://ohadravid.github.io/posts/2024-09-yells-at-cloud/)
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 * [2024-09-05, 08:11:18](https://lobste.rs/s/nokryw/internet_archive_loses_its_appeal_major) - [The Internet Archive Loses Its Appeal of a Major Copyright Case](https://www.wired.com/story/internet-archive-loses-hachette-books-case-appeal/)
-* [2024-09-04, 17:27:42](https://lobste.rs/s/ojm6cn/async_rust_can_be_pleasure_work_with) - [Async Rust can be a pleasure to work with (without `Send + Sync + 'static`)](https://emschwartz.me/async-rust-can-be-a-pleasure-to-work-with-without-send-sync-static/)
 
 ## [Archives](archives/index.md)
 
