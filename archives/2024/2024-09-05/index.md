@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-05](index.md)
 
+* [2024-09-05, 23:45:07](https://lobste.rs/s/jyqcp5/rust_illumos) - [Rust in illumos](https://wegmueller.it/blog/posts/2024-09-02-rust-on-illumos)
 * [2024-09-05, 23:30:02](https://lobste.rs/s/0kwnwb/alphaproteo_generates_novel_proteins) - [AlphaProteo generates novel proteins for biology and health research](https://deepmind.google/discover/blog/alphaproteo-generates-novel-proteins-for-biology-and-health-research/)
+* [2024-09-05, 22:44:52](https://lobste.rs/s/fc516s/0_dependencies) - [0 dependencies](https://www.tbray.org/ongoing/When/202x/2024/09/04/0dependencies)
 * [2024-09-05, 22:31:16](https://lobste.rs/s/23tkhe/cron_jobs_on_linux_comprehensive_guide) - [Cron Jobs on Linux - Comprehensive Guide with Examples](https://ittavern.com/cron-jobs-on-linux-comprehensive-guide/)
 * [2024-09-05, 21:13:16](https://lobste.rs/s/8wm3nn/how_we_build_forms_liveview_livesvelte) - [How we build forms in LiveView + LiveSvelte](https://blog.sequinstream.com/how-we-build-forms-in-liveview-livesvelte/)
 * [2024-09-05, 20:24:34](https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
