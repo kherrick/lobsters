@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:51:39](https://lobste.rs/s/fkmsvf/metal_benchmarks) - [Metal Benchmarks](https://github.com/philipturner/metal-benchmarks/blob/main/README.md)
 * [2024-09-07, 14:23:36](https://lobste.rs/s/v1j4d3/seek_you_shall_find) - [Seek and you shall find](https://lmno.lol/alvaro/seek-and-you-shall-find)
 * [2024-09-07, 14:09:33](https://lobste.rs/s/wvrglu/notes_on_euler_formula_eli_bendersky_s) - [Notes on the Euler formula - Eli Bendersky's website](https://eli.thegreenplace.net/2024/notes-on-the-euler-formula/)

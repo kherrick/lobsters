@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:51:39](https://lobste.rs/s/fkmsvf/metal_benchmarks) - [Metal Benchmarks](https://github.com/philipturner/metal-benchmarks/blob/main/README.md)
 * [2024-09-07, 14:23:36](https://lobste.rs/s/v1j4d3/seek_you_shall_find) - [Seek and you shall find](https://lmno.lol/alvaro/seek-and-you-shall-find)
 * [2024-09-07, 14:09:33](https://lobste.rs/s/wvrglu/notes_on_euler_formula) - [Notes on the Euler formula](https://eli.thegreenplace.net/2024/notes-on-the-euler-formula/)
@@ -18,7 +19,6 @@
 * [2024-09-06, 20:58:57](https://lobste.rs/s/zolh4m/macro_forth_forth_implemented_compile) - [macro-forth: Forth implemented in compile-time rust macros](https://github.com/zdimension/macro-forth)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
-* [2024-09-06, 18:04:08](https://lobste.rs/s/wntwae/why_i_started_livestreaming_as_rust) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
 * [2024-09-06, 15:55:34](https://lobste.rs/s/o2gim4/windows_3_11_on_qemu_5_2_0) - [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)
 * [2024-09-06, 15:51:18](https://lobste.rs/s/9785ed/kid_pix_early_years) - [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
 * [2024-09-06, 15:40:46](https://lobste.rs/s/mhyhna/nginx_has_moved_github) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
