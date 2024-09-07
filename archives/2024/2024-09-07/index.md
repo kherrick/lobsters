@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 07:01:56](https://lobste.rs/s/84srrb/changes_impl_trait_rust_2024) - [Changes to `impl Trait` in Rust 2024](https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html)
 * [2024-09-07, 05:59:45](https://lobste.rs/s/mfkwan/understanding_layout_process_qt_widgets) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-07, 05:56:52](https://lobste.rs/s/eudbyr/qtcs2024_compile_once_run_everywhere_qt) - [QtCS2024 Compile once. Run everywhere (Qt via Cosmopolitan libc)](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
 * [2024-09-07, 05:53:57](https://lobste.rs/s/22nwxp/dot_domain_names) - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
