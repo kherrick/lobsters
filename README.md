@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 15:51:39](https://lobste.rs/s/fkmsvf/metal_benchmarks) - [Metal Benchmarks](https://github.com/philipturner/metal-benchmarks/blob/main/README.md)
 * [2024-09-07, 14:23:36](https://lobste.rs/s/v1j4d3/seek_you_shall_find) - [Seek and you shall find](https://lmno.lol/alvaro/seek-and-you-shall-find)
 * [2024-09-07, 14:09:33](https://lobste.rs/s/wvrglu/notes_on_euler_formula) - [Notes on the Euler formula](https://eli.thegreenplace.net/2024/notes-on-the-euler-formula/)
 * [2024-09-07, 13:05:55](https://lobste.rs/s/iz0rwp/conservative_gc_can_be_faster_than) - [conservative gc can be faster than precise gc](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
@@ -7,7 +8,6 @@
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
 * [2024-09-07, 09:12:22](https://lobste.rs/s/zw35nm/most_interesting_machine) - [Most Interesting Machine](https://daviddrury.substack.com/p/most-interesting-machine)
 * [2024-09-07, 07:01:56](https://lobste.rs/s/84srrb/changes_impl_trait_rust_2024) - [Changes to `impl Trait` in Rust 2024](https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html)
-* [2024-09-07, 05:59:45](https://lobste.rs/s/mfkwan/understanding_layout_process_qt_widgets) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-07, 05:56:52](https://lobste.rs/s/eudbyr/qtcs2024_compile_once_run_everywhere_qt) - [QtCS2024 Compile once. Run everywhere (Qt via Cosmopolitan libc)](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
 * [2024-09-07, 05:53:57](https://lobste.rs/s/22nwxp/dot_domain_names) - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
 * [2024-09-07, 04:49:04](https://lobste.rs/s/wme5pk/mnt_pocket_reform_unboxing_first) - [MNT Pocket Reform - Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
