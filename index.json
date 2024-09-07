@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-07, 01:51:38",
+      "https://lobste.rs/s/ugydrg/all_maps_are_wrong"
+    ],
+    [
+      "All maps are wrong",
+      "https://www.hereandthere.club/post/all-maps-are-wrong"
+    ]
+  ],
+  [
+    [
+      "2024-09-07, 01:49:47",
+      "https://lobste.rs/s/xeajqa/oauth_from_first_principles"
+    ],
+    [
+      "OAuth from First Principles",
+      "https://stack-auth.com/blog/oauth-from-first-principles"
+    ]
+  ],
+  [
+    [
+      "2024-09-07, 01:40:57",
+      "https://lobste.rs/s/i7fsx0/try_fix_it_one_level_deeper"
+    ],
+    [
+      "Try to Fix It One Level Deeper",
+      "https://matklad.github.io/2024/09/06/fix-one-level-deeper.html"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 22:27:37",
       "https://lobste.rs/s/u8zf8b/customizing_nyt_games_app_for_my_wedding"
     ],
@@ -57,16 +87,6 @@
     [
       "Why I started livestreaming as a Rust developer?",
       "https://blog.orhun.dev/livestreaming/"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 17:44:30",
-      "https://lobste.rs/s/rjbbev/why_is_browser_observability_hard_hazel"
-    ],
-    [
-      "Why is Browser Observability Hard | Hazel Weakly",
-      "https://hazelweakly.me/blog/why-is-browser-observability-hard/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-09-06, 08:33:15",
-      "https://lobste.rs/s/a6ppko/we_need_talk_about_enums"
-    ],
-    [
-      "We need to talk about ENUMs",
-      "https://notso.boringsql.com/posts/postgresql-enums/"
-    ]
-  ],
-  [
-    [
       "2024-09-06, 03:15:46",
       "https://lobste.rs/s/lecxfj/frustrating_interactions_with_ocaml"
     ],
@@ -187,16 +197,6 @@
     [
       "Swift is a more convenient Rust",
       "http://blog.namangoel.com/swift-is-the-more-convenient-rust"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 20:16:32",
-      "https://lobste.rs/s/vpajc6/clojure_1_12_0_is_released"
-    ],
-    [
-      "Clojure 1.12.0 is released",
-      "https://clojure.org/news/2024/09/05/clojure-1-12-0"
     ]
   ],
   [
