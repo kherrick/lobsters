@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 09:12:22](https://lobste.rs/s/zw35nm/most_interesting_machine) - [Most Interesting Machine](https://daviddrury.substack.com/p/most-interesting-machine)
 * [2024-09-07, 07:01:56](https://lobste.rs/s/84srrb/changes_impl_trait_rust_2024) - [Changes to `impl Trait` in Rust 2024](https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html)
 * [2024-09-07, 05:59:45](https://lobste.rs/s/mfkwan/understanding_layout_process_qt_widgets) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
 * [2024-09-07, 05:56:52](https://lobste.rs/s/eudbyr/qtcs2024_compile_once_run_everywhere_qt) - [QtCS2024 Compile once. Run everywhere (Qt via Cosmopolitan libc)](https://wiki.qt.io/QtCS2024_Compile_once._Run_everywhere)
@@ -22,7 +23,6 @@
 * [2024-09-06, 12:30:05](https://lobste.rs/s/qpdu2a/test_ad_block) - [Test Ad Block](https://d3ward.github.io/toolz/adblock)
 * [2024-09-06, 10:00:39](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/dn4onw/what_are_you_doing_this_weekend)
 * [2024-09-06, 09:02:26](https://lobste.rs/s/k1bjza/intent_unship_http_2_push) - [Intent to unship: HTTP/2 Push](https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ)
-* [2024-09-06, 03:15:46](https://lobste.rs/s/lecxfj/frustrating_interactions_with_ocaml) - [Frustrating interactions with the OCaml ecosystem while developing a synthesizer library](https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/)
 * [2024-09-05, 20:24:34](https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 
