@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-07, 15:51:39",
+      "https://lobste.rs/s/fkmsvf/metal_benchmarks"
+    ],
+    [
+      "Metal Benchmarks",
+      "https://github.com/philipturner/metal-benchmarks/blob/main/README.md"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 14:23:36",
       "https://lobste.rs/s/v1j4d3/seek_you_shall_find"
     ],
@@ -67,16 +77,6 @@
     [
       "Changes to `impl Trait` in Rust 2024",
       "https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-07, 05:59:45",
-      "https://lobste.rs/s/mfkwan/understanding_layout_process_qt_widgets"
-    ],
-    [
-      "Understanding the Layout Process in Qt Widgets",
-      "https://felipefarinon.com/articles/qt-widgets-layout/"
     ]
   ],
   [
