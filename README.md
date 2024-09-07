@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 14:09:33](https://lobste.rs/s/wvrglu/notes_on_euler_formula_eli_bendersky_s) - [Notes on the Euler formula - Eli Bendersky's website](https://eli.thegreenplace.net/2024/notes-on-the-euler-formula/)
 * [2024-09-07, 13:05:55](https://lobste.rs/s/iz0rwp/conservative_gc_can_be_faster_than) - [conservative gc can be faster than precise gc](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 * [2024-09-07, 11:48:46](https://lobste.rs/s/wjtvyu/note_on_perq_computer) - [A note on the PERQ computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
@@ -14,7 +15,6 @@
 * [2024-09-07, 01:49:47](https://lobste.rs/s/xeajqa/oauth_from_first_principles) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 * [2024-09-07, 01:40:57](https://lobste.rs/s/i7fsx0/try_fix_it_one_level_deeper) - [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 * [2024-09-06, 20:58:57](https://lobste.rs/s/zolh4m/macro_forth_forth_implemented_compile) - [macro-forth: Forth implemented in compile-time rust macros](https://github.com/zdimension/macro-forth)
-* [2024-09-06, 20:34:53](https://lobste.rs/s/5tintt/unstripping_binaries_restoring) - [“Unstripping” binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 * [2024-09-06, 18:04:08](https://lobste.rs/s/wntwae/why_i_started_livestreaming_as_rust) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)

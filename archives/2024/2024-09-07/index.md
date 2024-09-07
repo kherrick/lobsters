@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 14:09:33](https://lobste.rs/s/wvrglu/notes_on_euler_formula_eli_bendersky_s) - [Notes on the Euler formula - Eli Bendersky's website](https://eli.thegreenplace.net/2024/notes-on-the-euler-formula/)
 * [2024-09-07, 13:05:55](https://lobste.rs/s/iz0rwp/conservative_gc_can_be_faster_than) - [conservative gc can be faster than precise gc](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 * [2024-09-07, 11:48:46](https://lobste.rs/s/wjtvyu/note_on_perq_computer) - [A note on the PERQ computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
