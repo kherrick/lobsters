@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 21:24:01](https://lobste.rs/s/7rqyqx/i_made_this_ultraviolet_glow_dark_vscode) - [I made this Ultraviolet/Glow-in-the-dark VSCode theme to use in time for Halloween](https://marketplace.visualstudio.com/items?itemName=perras.UV)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:51:39](https://lobste.rs/s/fkmsvf/metal_benchmarks) - [Metal Benchmarks](https://github.com/philipturner/metal-benchmarks/blob/main/README.md)
@@ -16,7 +17,6 @@
 * [2024-09-07, 01:51:38](https://lobste.rs/s/ugydrg/all_maps_are_wrong) - [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
 * [2024-09-07, 01:49:47](https://lobste.rs/s/xeajqa/oauth_from_first_principles) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 * [2024-09-07, 01:40:57](https://lobste.rs/s/i7fsx0/try_fix_it_one_level_deeper) - [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
-* [2024-09-06, 20:58:57](https://lobste.rs/s/zolh4m/macro_forth_forth_implemented_compile) - [macro-forth: Forth implemented in compile-time rust macros](https://github.com/zdimension/macro-forth)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 * [2024-09-06, 15:55:34](https://lobste.rs/s/o2gim4/windows_3_11_on_qemu_5_2_0) - [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)
