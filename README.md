@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 04:44:27](https://lobste.rs/s/uxgv1o/what_s_new_c_26_part_1) - [What’s new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 * [2024-09-07, 01:51:38](https://lobste.rs/s/ugydrg/all_maps_are_wrong) - [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
 * [2024-09-07, 01:49:47](https://lobste.rs/s/xeajqa/oauth_from_first_principles) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 * [2024-09-07, 01:40:57](https://lobste.rs/s/i7fsx0/try_fix_it_one_level_deeper) - [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
@@ -22,7 +23,6 @@
 * [2024-09-05, 20:24:34](https://lobste.rs/s/6usfpd/swift_is_more_convenient_rust) - [Swift is a more convenient Rust](http://blog.namangoel.com/swift-is-the-more-convenient-rust)
 * [2024-09-05, 18:20:19](https://lobste.rs/s/liiwbl/moral_implications_being_moderately) - [The Moral Implications of Being a Moderately Successful Computer Scientist and a Woman](https://www.sigops.org/2024/the-moral-implications-of-being-a-moderately-successful-computer-scientist-and-a-woman/)
 * [2024-09-05, 18:04:36](https://lobste.rs/s/ybsyzh/exercism_has_2m_users_no_money_bank) - [Exercism has 2M users but no money in the bank](https://exercism.org/blog/september-2024-restructure)
-* [2024-09-05, 16:28:29](https://lobste.rs/s/ehinvy/announcing_rust_1_81_0) - [Announcing Rust 1.81.0](https://blog.rust-lang.org/2024/09/05/Rust-1.81.0.html)
 * [2024-09-05, 14:29:36](https://lobste.rs/s/yx57uf/is_linux_collapsing_under_its_own_weight) - [Is Linux collapsing under its own weight? On Rust for Linux](https://sporks.space/2024/09/05/is-linux-collapsing-under-its-own-weight-on-rust-for-linux/)
 * [2024-09-05, 08:43:39](https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux) - [Porting systemd to musl libc-powered Linux](https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/)
 
