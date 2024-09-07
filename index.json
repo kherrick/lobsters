@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-07, 13:05:55",
+      "https://lobste.rs/s/iz0rwp/conservative_gc_can_be_faster_than"
+    ],
+    [
+      "conservative gc can be faster than precise gc",
+      "https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 11:48:46",
       "https://lobste.rs/s/wjtvyu/note_on_perq_computer"
     ],
@@ -237,16 +247,6 @@
     [
       "Intent to unship: HTTP/2 Push",
       "https://groups.google.com/a/mozilla.org/g/dev-platform/c/vU9hJg343U8/m/4cZsHz7TAQAJ"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 08:43:39",
-      "https://lobste.rs/s/qcx5wb/porting_systemd_musl_libc_powered_linux"
-    ],
-    [
-      "Porting systemd to musl libc-powered Linux",
-      "https://catfox.life/2024/09/05/porting-systemd-to-musl-libc-powered-linux/"
     ]
   ]
 ]
