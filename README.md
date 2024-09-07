@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 23:43:26](https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 * [2024-09-07, 22:25:31](https://lobste.rs/s/y12u3v/scheme_on_webassembly) - [Scheme on WebAssembly](https://www.youtube.com/watch?v=KQJ-Xl1ULGU&t=37m35s)
 * [2024-09-07, 22:11:25](https://lobste.rs/s/1y5zga/racketcon_2024_5_6_october_tickets_on_sale) - [RacketCon 2024 5-6 October tickets on sale now](https://www.eventbrite.com/e/racketcon-2024-tickets-983892828937)
 * [2024-09-07, 21:47:05](https://lobste.rs/s/lt2ldg/javascript_ffi_feature_ghc_wasm_backend) - [The JavaScript FFI feature in GHC Wasm backend - Cheng Shao](https://www.youtube.com/watch?v=uMurx1a6Zck&t=13290s)
@@ -24,7 +25,6 @@
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 * [2024-09-06, 15:51:18](https://lobste.rs/s/9785ed/kid_pix_early_years) - [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
 * [2024-09-06, 15:40:46](https://lobste.rs/s/mhyhna/nginx_has_moved_github) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
-* [2024-09-06, 12:30:05](https://lobste.rs/s/qpdu2a/test_ad_block) - [Test Ad Block](https://d3ward.github.io/toolz/adblock)
 
 ## [Archives](archives/index.md)
 
