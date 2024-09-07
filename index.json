@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-07, 23:43:26",
+      "https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination"
+    ],
+    [
+      "Gnome Files: A detailed UI examination",
+      "https://www.datagubbe.se/gnomefiles/"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 22:25:31",
       "https://lobste.rs/s/y12u3v/scheme_on_webassembly"
     ],
@@ -237,16 +247,6 @@
     [
       "Nginx Has Moved to GitHub",
       "https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 12:30:05",
-      "https://lobste.rs/s/qpdu2a/test_ad_block"
-    ],
-    [
-      "Test Ad Block",
-      "https://d3ward.github.io/toolz/adblock"
     ]
   ]
 ]
