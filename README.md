@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
 * [2024-09-07, 09:12:22](https://lobste.rs/s/zw35nm/most_interesting_machine) - [Most Interesting Machine](https://daviddrury.substack.com/p/most-interesting-machine)
 * [2024-09-07, 07:01:56](https://lobste.rs/s/84srrb/changes_impl_trait_rust_2024) - [Changes to `impl Trait` in Rust 2024](https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html)
 * [2024-09-07, 05:59:45](https://lobste.rs/s/mfkwan/understanding_layout_process_qt_widgets) - [Understanding the Layout Process in Qt Widgets](https://felipefarinon.com/articles/qt-widgets-layout/)
@@ -10,7 +11,6 @@
 * [2024-09-07, 01:51:38](https://lobste.rs/s/ugydrg/all_maps_are_wrong) - [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
 * [2024-09-07, 01:49:47](https://lobste.rs/s/xeajqa/oauth_from_first_principles) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 * [2024-09-07, 01:40:57](https://lobste.rs/s/i7fsx0/try_fix_it_one_level_deeper) - [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
-* [2024-09-06, 22:27:37](https://lobste.rs/s/u8zf8b/customizing_nyt_games_app_for_my_wedding) - [Customizing the NYT Games App for my Wedding](https://youtube.com/watch?v=vohvFpjNBz8)
 * [2024-09-06, 20:58:57](https://lobste.rs/s/zolh4m/macro_forth_forth_implemented_compile) - [macro-forth: Forth implemented in compile-time rust macros](https://github.com/zdimension/macro-forth)
 * [2024-09-06, 20:34:53](https://lobste.rs/s/5tintt/unstripping_binaries_restoring) - [“Unstripping” binaries: Restoring debugging information in GDB with Pwndbg](https://blog.trailofbits.com/2024/09/06/unstripping-binaries-restoring-debugging-information-in-gdb-with-pwndbg/)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
