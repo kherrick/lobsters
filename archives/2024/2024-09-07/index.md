@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 22:25:31](https://lobste.rs/s/y12u3v/scheme_on_webassembly) - [Scheme on WebAssembly](https://www.youtube.com/watch?v=KQJ-Xl1ULGU&t=37m35s)
+* [2024-09-07, 22:11:25](https://lobste.rs/s/1y5zga/racketcon_2024_5_6_october_tickets_on_sale) - [RacketCon 2024 5-6 October tickets on sale now](https://www.eventbrite.com/e/racketcon-2024-tickets-983892828937)
 * [2024-09-07, 21:47:05](https://lobste.rs/s/lt2ldg/javascript_ffi_feature_ghc_wasm_backend) - [The JavaScript FFI feature in GHC Wasm backend - Cheng Shao](https://www.youtube.com/watch?v=uMurx1a6Zck&t=13290s)
 * [2024-09-07, 21:24:01](https://lobste.rs/s/7rqyqx/i_made_this_ultraviolet_glow_dark_vscode) - [I made this Ultraviolet/Glow-in-the-dark VSCode theme to use in time for Halloween](https://marketplace.visualstudio.com/items?itemName=perras.UV)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
