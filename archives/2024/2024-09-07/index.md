@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-07](index.md)
 
+* [2024-09-07, 21:47:05](https://lobste.rs/s/lt2ldg/javascript_ffi_feature_ghc_wasm_backend) - [The JavaScript FFI feature in GHC Wasm backend - Cheng Shao](https://www.youtube.com/watch?v=uMurx1a6Zck&t=13290s)
 * [2024-09-07, 21:24:01](https://lobste.rs/s/7rqyqx/i_made_this_ultraviolet_glow_dark_vscode) - [I made this Ultraviolet/Glow-in-the-dark VSCode theme to use in time for Halloween](https://marketplace.visualstudio.com/items?itemName=perras.UV)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
