@@ -1,0 +1,9 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-09-07](index.md)
+
+* [2024-09-07, 01:51:38](https://lobste.rs/s/ugydrg/all_maps_are_wrong) - [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
+* [2024-09-07, 01:49:47](https://lobste.rs/s/xeajqa/oauth_from_first_principles) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
+* [2024-09-07, 01:40:57](https://lobste.rs/s/i7fsx0/try_fix_it_one_level_deeper) - [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
