@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-07, 05:53:57](https://lobste.rs/s/22nwxp/dot_domain_names) - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
 * [2024-09-07, 04:49:04](https://lobste.rs/s/wme5pk/mnt_pocket_reform_unboxing_first) - [MNT Pocket Reform - Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
 * [2024-09-07, 04:44:27](https://lobste.rs/s/uxgv1o/what_s_new_c_26_part_1) - [What’s new in C++26 (part 1)](https://mariusbancila.ro/blog/2024/09/06/whats-new-in-c26-part-1/)
 * [2024-09-07, 01:51:38](https://lobste.rs/s/ugydrg/all_maps_are_wrong) - [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
@@ -11,7 +12,6 @@
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 * [2024-09-06, 18:04:08](https://lobste.rs/s/wntwae/why_i_started_livestreaming_as_rust) - [Why I started livestreaming as a Rust developer?](https://blog.orhun.dev/livestreaming/)
-* [2024-09-06, 17:44:30](https://lobste.rs/s/rjbbev/why_is_browser_observability_hard_hazel) - [Why is Browser Observability Hard | Hazel Weakly](https://hazelweakly.me/blog/why-is-browser-observability-hard/)
 * [2024-09-06, 16:21:09](https://lobste.rs/s/baxrkb/memory_wall_past_present_future_dram) - [The Memory Wall: Past, Present, and Future of DRAM](https://www.semianalysis.com/p/the-memory-wall)
 * [2024-09-06, 15:55:34](https://lobste.rs/s/o2gim4/windows_3_11_on_qemu_5_2_0) - [Windows 3.11 on QEMU 5.2.0](https://popey.com/blog/2024/09/windows-3.11-on-qemu-5.2.0/)
 * [2024-09-06, 15:51:18](https://lobste.rs/s/9785ed/kid_pix_early_years) - [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
