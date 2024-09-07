@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-07, 21:24:01",
+      "https://lobste.rs/s/7rqyqx/i_made_this_ultraviolet_glow_dark_vscode"
+    ],
+    [
+      "I made this Ultraviolet/Glow-in-the-dark VSCode theme to use in time for Halloween",
+      "https://marketplace.visualstudio.com/items?itemName=perras.UV"
+    ]
+  ],
+  [
+    [
       "2024-09-07, 19:08:23",
       "https://lobste.rs/s/t81n2g/webp_webpage_compression_format"
     ],
@@ -157,16 +167,6 @@
     [
       "Try to Fix It One Level Deeper",
       "https://matklad.github.io/2024/09/06/fix-one-level-deeper.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 20:58:57",
-      "https://lobste.rs/s/zolh4m/macro_forth_forth_implemented_compile"
-    ],
-    [
-      "macro-forth: Forth implemented in compile-time rust macros",
-      "https://github.com/zdimension/macro-forth"
     ]
   ],
   [
