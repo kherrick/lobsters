@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-09-06, 17:44:30",
+      "https://lobste.rs/s/rjbbev/why_is_browser_observability_hard_hazel"
+    ],
+    [
+      "Why is Browser Observability Hard | Hazel Weakly",
+      "https://hazelweakly.me/blog/why-is-browser-observability-hard/"
+    ]
+  ],
+  [
+    [
       "2024-09-06, 16:21:09",
       "https://lobste.rs/s/baxrkb/memory_wall_past_present_future_dram"
     ],
@@ -177,16 +187,6 @@
     [
       "Frustrating interactions with the OCaml ecosystem while developing a synthesizer library",
       "https://www.gridbugs.org/frustrating-interactions-with-the-ocaml-ecosystem-while-developing-a-synthesizer-library/"
-    ]
-  ],
-  [
-    [
-      "2024-09-05, 22:44:52",
-      "https://lobste.rs/s/fc516s/0_dependencies"
-    ],
-    [
-      "0 dependencies",
-      "https://www.tbray.org/ongoing/When/202x/2024/09/04/0dependencies"
     ]
   ],
   [
