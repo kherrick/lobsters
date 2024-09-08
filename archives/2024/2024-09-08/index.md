@@ -15,3 +15,4 @@
 * [2024-09-08, 02:29:50](https://lobste.rs/s/srjpaq/high_availability_alertmanager_on) - [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
 * [2024-09-08, 01:43:36](https://lobste.rs/s/ghgxxm/arduino_cli_1_0_released_let_s_try_it_with) - [Arduino CLI 1.0 released - Let's try it with the Raspberry Pi Pico 2](https://www.cnx-software.com/2024/09/06/arduino-cli-1-0-released-try-raspberry-pi-pico-2/?amp=1)
 * [2024-09-08, 01:26:03](https://lobste.rs/s/jsf7h6/it_s_time_for_some_more_haskell_opinions) - [It's time for some more Haskell opinions](https://augustss.blogspot.com/2014/12/its-time-for-some-more-haskell-opinions.html)
+* [2024-09-08, 01:26:03](https://lobste.rs/s/jsf7h6/commentary_on_24_days_ghc_extensions_part) - [A commentary on 24 days of GHC extensions, part 3 (2014)](https://augustss.blogspot.com/2014/12/its-time-for-some-more-haskell-opinions.html)
