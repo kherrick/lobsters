@@ -21,7 +21,7 @@
 * [2024-09-07, 05:53:57](https://lobste.rs/s/22nwxp/dot_domain_names) - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
 * [2024-09-07, 04:49:04](https://lobste.rs/s/wme5pk/mnt_pocket_reform_unboxing_first) - [MNT Pocket Reform - Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
 * [2024-09-07, 01:51:38](https://lobste.rs/s/ugydrg/all_maps_are_wrong) - [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
-* [2024-09-07, 01:40:57](https://lobste.rs/s/i7fsx0/try_fix_it_one_level_deeper) - [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
+* [2024-09-07, 01:49:47](https://lobste.rs/s/xeajqa/oauth_from_first_principles) - [OAuth from First Principles](https://stack-auth.com/blog/oauth-from-first-principles)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 * [2024-09-06, 15:40:46](https://lobste.rs/s/mhyhna/nginx_has_moved_github) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
