@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
+* [2024-09-08, 14:49:44](https://lobste.rs/s/uhgivg/open_source_streaming_api_from_ingest) - [Open-source streaming API from ingest to player](https://matvp91.github.io/mixwave/)
+* [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 * [2024-09-08, 14:24:09](https://lobste.rs/s/kjx7zd/baiting_bot) - [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 * [2024-09-08, 14:16:28](https://lobste.rs/s/scz0ww/how_really_wrap_c_compiler_preprocessor) - [How to really wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
 * [2024-09-08, 12:42:31](https://lobste.rs/s/7z69g5/microui_fenster_small_gui) - [microui+fenster=small gui](https://bernsteinbear.com/blog/fenster-microui/)

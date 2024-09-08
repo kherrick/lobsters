@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-08, 14:49:44](https://lobste.rs/s/uhgivg/open_source_streaming_api_from_ingest) - [Open-source streaming API from ingest to player](https://matvp91.github.io/mixwave/)
+* [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 * [2024-09-08, 14:24:09](https://lobste.rs/s/kjx7zd/baiting_bot) - [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 * [2024-09-08, 14:16:28](https://lobste.rs/s/scz0ww/how_really_wrap_c_compiler_preprocessor) - [How to really wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
 * [2024-09-08, 12:42:31](https://lobste.rs/s/7z69g5/microui_fenster_small_gui) - [microui+fenster=small gui](https://bernsteinbear.com/blog/fenster-microui/)
@@ -22,8 +24,6 @@
 * [2024-09-07, 11:48:46](https://lobste.rs/s/wjtvyu/note_on_perq_computer) - [A note on the PERQ computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
 * [2024-09-07, 07:01:56](https://lobste.rs/s/84srrb/changes_impl_trait_rust_2024) - [Changes to `impl Trait` in Rust 2024](https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html)
-* [2024-09-07, 05:53:57](https://lobste.rs/s/22nwxp/dot_domain_names) - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
-* [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 
 ## [Archives](archives/index.md)
