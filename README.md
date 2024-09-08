@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-08, 18:20:38](https://lobste.rs/s/rzxkbs/confer_symbolic_links_manager_for_your) - [confer: The symbolic links manager for your configuration files](https://github.com/tchoutri/confer)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 16:22:18](https://lobste.rs/s/ghsymh/prolog_rs_minimal_prolog_implemented) - [prolog-rs: Minimal Prolog implemented in Rust](https://github.com/twolodzko/prolog-rs)
 * [2024-09-08, 14:49:44](https://lobste.rs/s/uhgivg/open_source_streaming_api_from_ingest) - [Open-source streaming API from ingest to player](https://matvp91.github.io/mixwave/)
@@ -15,7 +16,6 @@
 * [2024-09-08, 04:25:19](https://lobste.rs/s/79se02/fuzzing_x_compositor) - [Fuzzing an X compositor](https://trace.yshui.dev/2024-09-fuzzing.html)
 * [2024-09-08, 02:29:50](https://lobste.rs/s/srjpaq/high_availability_alertmanager_on) - [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
 * [2024-09-08, 01:43:36](https://lobste.rs/s/ghgxxm/arduino_cli_1_0_released_let_s_try_it_with) - [Arduino CLI 1.0 released - Let's try it with the Raspberry Pi Pico 2](https://www.cnx-software.com/2024/09/06/arduino-cli-1-0-released-try-raspberry-pi-pico-2/?amp=1)
-* [2024-09-08, 01:26:03](https://lobste.rs/s/jsf7h6/commentary_on_24_days_ghc_extensions_part) - [A commentary on 24 days of GHC extensions, part 3 (2014)](https://augustss.blogspot.com/2014/12/its-time-for-some-more-haskell-opinions.html)
 * [2024-09-07, 23:43:26](https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 * [2024-09-07, 22:25:31](https://lobste.rs/s/y12u3v/scheme_on_webassembly) - [Scheme on WebAssembly](https://www.youtube.com/watch?v=KQJ-Xl1ULGU&t=37m35s)
 * [2024-09-07, 22:11:25](https://lobste.rs/s/1y5zga/racketcon_2024_5_6_october_tickets_on_sale) - [RacketCon 2024 5-6 October tickets on sale now](https://www.eventbrite.com/e/racketcon-2024-tickets-983892828937)

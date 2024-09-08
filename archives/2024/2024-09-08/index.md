@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
+* [2024-09-08, 18:20:38](https://lobste.rs/s/rzxkbs/confer_symbolic_links_manager_for_your) - [confer: The symbolic links manager for your configuration files](https://github.com/tchoutri/confer)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 16:22:18](https://lobste.rs/s/ghsymh/prolog_rs_minimal_prolog_implemented) - [prolog-rs: Minimal Prolog implemented in Rust](https://github.com/twolodzko/prolog-rs)
 * [2024-09-08, 14:49:44](https://lobste.rs/s/uhgivg/open_source_streaming_api_from_ingest) - [Open-source streaming API from ingest to player](https://matvp91.github.io/mixwave/)
