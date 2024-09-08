@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-08, 02:29:50](https://lobste.rs/s/srjpaq/high_availability_alertmanager_on) - [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
 * [2024-09-08, 01:43:36](https://lobste.rs/s/ghgxxm/arduino_cli_1_0_released_let_s_try_it_with) - [Arduino CLI 1.0 released - Let's try it with the Raspberry Pi Pico 2](https://www.cnx-software.com/2024/09/06/arduino-cli-1-0-released-try-raspberry-pi-pico-2/?amp=1)
 * [2024-09-08, 01:26:03](https://lobste.rs/s/jsf7h6/it_s_time_for_some_more_haskell_opinions) - [It's time for some more Haskell opinions](https://augustss.blogspot.com/2014/12/its-time-for-some-more-haskell-opinions.html)
 * [2024-09-07, 23:43:26](https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
@@ -23,7 +24,6 @@
 * [2024-09-07, 01:40:57](https://lobste.rs/s/i7fsx0/try_fix_it_one_level_deeper) - [Try to Fix It One Level Deeper](https://matklad.github.io/2024/09/06/fix-one-level-deeper.html)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
-* [2024-09-06, 15:51:18](https://lobste.rs/s/9785ed/kid_pix_early_years) - [Kid Pix - The Early Years](http://red-green-blue.com/kid-pix-the-early-years)
 * [2024-09-06, 15:40:46](https://lobste.rs/s/mhyhna/nginx_has_moved_github) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 
 ## [Archives](archives/index.md)
