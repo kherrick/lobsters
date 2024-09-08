@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-08, 11:33:38](https://lobste.rs/s/8wcbda/worsening_raspberry_pi_rp2350_e9_erratum) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 09:52:29](https://lobste.rs/s/1to55m/going_buildless) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 09:48:09](https://lobste.rs/s/m7x5ah/xavixport_console_nintendo_copied) - [XaviXport: The Console Nintendo Copied To Create The Wii](https://retrododo.com/xavixport-motion-control-console/)
 * [2024-09-08, 06:25:35](https://lobste.rs/s/w2xstx/state_c_package_management_build_systems) - [The state of C++ package management: The build systems](https://twdev.blog/2024/09/cpp_pkgmng3/)
@@ -22,7 +23,6 @@
 * [2024-09-07, 07:01:56](https://lobste.rs/s/84srrb/changes_impl_trait_rust_2024) - [Changes to `impl Trait` in Rust 2024](https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html)
 * [2024-09-07, 05:53:57](https://lobste.rs/s/22nwxp/dot_domain_names) - [The dot in domain names](https://jpmens.net/2024/09/04/the-dot-in-domain-names/)
 * [2024-09-07, 04:49:04](https://lobste.rs/s/wme5pk/mnt_pocket_reform_unboxing_first) - [MNT Pocket Reform - Unboxing and First Impressions](http://ratfactor.com/mnt-pocket-reform/first)
-* [2024-09-07, 01:51:38](https://lobste.rs/s/ugydrg/all_maps_are_wrong) - [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
 
