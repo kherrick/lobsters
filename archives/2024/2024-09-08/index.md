@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-08](index.md)
 
+* [2024-09-08, 09:52:29](https://lobste.rs/s/1to55m/going_buildless) - [Going Buildless](https://mxb.dev/blog/buildless/)
+* [2024-09-08, 09:48:09](https://lobste.rs/s/m7x5ah/xavixport_console_nintendo_copied) - [XaviXport: The Console Nintendo Copied To Create The Wii](https://retrododo.com/xavixport-motion-control-console/)
 * [2024-09-08, 06:25:35](https://lobste.rs/s/w2xstx/tthe_state_c_package_management_build) - [Tthe state of C++ package management: The build systems](https://twdev.blog/2024/09/cpp_pkgmng3/)
 * [2024-09-08, 04:44:23](https://lobste.rs/s/jdepvw/n3332_record_types_for_c) - [N3332: Record types for C](https://thephd.dev/_vendor/future_cxx/papers/C%20-%20_Record%20types.html)
 * [2024-09-08, 04:25:19](https://lobste.rs/s/79se02/fuzzing_x_compositor) - [Fuzzing an X compositor](https://trace.yshui.dev/2024-09-fuzzing.html)
