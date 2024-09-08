@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-08, 06:25:35](https://lobste.rs/s/w2xstx/tthe_state_c_package_management_build) - [Tthe state of C++ package management: The build systems](https://twdev.blog/2024/09/cpp_pkgmng3/)
 * [2024-09-08, 04:44:23](https://lobste.rs/s/jdepvw/n3332_record_types_for_c) - [N3332: Record types for C](https://thephd.dev/_vendor/future_cxx/papers/C%20-%20_Record%20types.html)
 * [2024-09-08, 04:25:19](https://lobste.rs/s/79se02/fuzzing_x_compositor) - [Fuzzing an X compositor](https://trace.yshui.dev/2024-09-fuzzing.html)
 * [2024-09-08, 02:29:50](https://lobste.rs/s/srjpaq/high_availability_alertmanager_on) - [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
@@ -24,7 +25,6 @@
 * [2024-09-07, 01:51:38](https://lobste.rs/s/ugydrg/all_maps_are_wrong) - [All maps are wrong](https://www.hereandthere.club/post/all-maps-are-wrong)
 * [2024-09-06, 19:31:57](https://lobste.rs/s/dpx9hv/guile_hoot_v0_5_0_released) - [Guile Hoot v0.5.0 released](https://spritely.institute/news/guile-hoot-v050-released.html)
 * [2024-09-06, 18:21:46](https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar) - [Asynchronous IO: the next billion-dollar mistake?](https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/)
-* [2024-09-06, 15:40:46](https://lobste.rs/s/mhyhna/nginx_has_moved_github) - [Nginx Has Moved to GitHub](https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html)
 
 ## [Archives](archives/index.md)
 
