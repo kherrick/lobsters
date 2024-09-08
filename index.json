@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-08, 18:20:38",
+      "https://lobste.rs/s/rzxkbs/confer_symbolic_links_manager_for_your"
+    ],
+    [
+      "confer: The symbolic links manager for your configuration files",
+      "https://github.com/tchoutri/confer"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 16:30:17",
       "https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi"
     ],
@@ -147,16 +157,6 @@
     [
       "Arduino CLI 1.0 released - Let's try it with the Raspberry Pi Pico 2",
       "https://www.cnx-software.com/2024/09/06/arduino-cli-1-0-released-try-raspberry-pi-pico-2/?amp=1"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 01:26:03",
-      "https://lobste.rs/s/jsf7h6/commentary_on_24_days_ghc_extensions_part"
-    ],
-    [
-      "A commentary on 24 days of GHC extensions, part 3 (2014)",
-      "https://augustss.blogspot.com/2014/12/its-time-for-some-more-haskell-opinions.html"
     ]
   ],
   [
