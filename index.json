@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-08, 06:25:35",
+      "https://lobste.rs/s/w2xstx/tthe_state_c_package_management_build"
+    ],
+    [
+      "Tthe state of C++ package management: The build systems",
+      "https://twdev.blog/2024/09/cpp_pkgmng3/"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 04:44:23",
       "https://lobste.rs/s/jdepvw/n3332_record_types_for_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Asynchronous IO: the next billion-dollar mistake?",
       "https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 15:40:46",
-      "https://lobste.rs/s/mhyhna/nginx_has_moved_github"
-    ],
-    [
-      "Nginx Has Moved to GitHub",
-      "https://mailman.nginx.org/pipermail/nginx-announce/2024/ITL3AOQSAJANFJXMM3VOVOIGOUADWFFK.html"
     ]
   ]
 ]
