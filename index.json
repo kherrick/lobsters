@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-08, 16:30:17",
+      "https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi"
+    ],
+    [
+      "Managing dotfiles with chezmoi",
+      "https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-08, 16:22:18",
+      "https://lobste.rs/s/ghsymh/prolog_rs_minimal_prolog_implemented"
+    ],
+    [
+      "prolog-rs: Minimal Prolog implemented in Rust",
+      "https://github.com/twolodzko/prolog-rs"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 14:49:44",
       "https://lobste.rs/s/uhgivg/open_source_streaming_api_from_ingest"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-09-07, 21:24:01",
-      "https://lobste.rs/s/7rqyqx/i_made_this_ultraviolet_glow_dark_vscode"
-    ],
-    [
-      "I made this Ultraviolet/Glow-in-the-dark VSCode theme to use in time for Halloween",
-      "https://marketplace.visualstudio.com/items?itemName=perras.UV"
-    ]
-  ],
-  [
-    [
       "2024-09-07, 19:08:23",
       "https://lobste.rs/s/t81n2g/webp_webpage_compression_format"
     ],
@@ -237,16 +247,6 @@
     [
       "Changes to `impl Trait` in Rust 2024",
       "https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-06, 18:21:46",
-      "https://lobste.rs/s/ja3oaw/asynchronous_io_next_billion_dollar"
-    ],
-    [
-      "Asynchronous IO: the next billion-dollar mistake?",
-      "https://yorickpeterse.com/articles/asynchronous-io-the-next-billion-dollar-mistake/"
     ]
   ]
 ]
