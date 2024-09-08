@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-08, 04:25:19",
+      "https://lobste.rs/s/79se02/fuzzing_x_compositor"
+    ],
+    [
+      "Fuzzing an X compositor",
+      "https://trace.yshui.dev/2024-09-fuzzing.html"
+    ]
+  ],
+  [
+    [
       "2024-09-08, 02:29:50",
       "https://lobste.rs/s/srjpaq/high_availability_alertmanager_on"
     ],
@@ -57,16 +67,6 @@
     [
       "RacketCon 2024 5-6 October tickets on sale now",
       "https://www.eventbrite.com/e/racketcon-2024-tickets-983892828937"
-    ]
-  ],
-  [
-    [
-      "2024-09-07, 21:47:05",
-      "https://lobste.rs/s/lt2ldg/javascript_ffi_feature_ghc_wasm_backend"
-    ],
-    [
-      "The JavaScript FFI feature in GHC Wasm backend - Cheng Shao",
-      "https://www.youtube.com/watch?v=uMurx1a6Zck&t=13290s"
     ]
   ],
   [
