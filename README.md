@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-08, 12:42:31](https://lobste.rs/s/7z69g5/microui_fenster_small_gui) - [microui+fenster=small gui](https://bernsteinbear.com/blog/fenster-microui/)
 * [2024-09-08, 11:33:38](https://lobste.rs/s/8wcbda/worsening_raspberry_pi_rp2350_e9_erratum) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 09:52:29](https://lobste.rs/s/1to55m/going_buildless) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 09:48:09](https://lobste.rs/s/m7x5ah/xavixport_console_nintendo_copied) - [XaviXport: The Console Nintendo Copied To Create The Wii](https://retrododo.com/xavixport-motion-control-console/)
@@ -16,7 +17,6 @@
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 15:51:39](https://lobste.rs/s/fkmsvf/metal_benchmarks) - [Metal Benchmarks](https://github.com/philipturner/metal-benchmarks/blob/main/README.md)
-* [2024-09-07, 14:09:33](https://lobste.rs/s/wvrglu/notes_on_euler_formula) - [Notes on the Euler formula](https://eli.thegreenplace.net/2024/notes-on-the-euler-formula/)
 * [2024-09-07, 13:05:55](https://lobste.rs/s/iz0rwp/conservative_gc_can_be_faster_than) - [conservative gc can be faster than precise gc](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 * [2024-09-07, 11:48:46](https://lobste.rs/s/wjtvyu/note_on_perq_computer) - [A note on the PERQ computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
