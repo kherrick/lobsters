@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
 * [2024-09-09, 19:26:46](https://lobste.rs/s/0e9auw/not_quite_buildless) - [not quite buildless](https://liquidex.house/programming/blog/buildsome)
 * [2024-09-09, 19:04:44](https://lobste.rs/s/kcjt65/windows_nt_vs_unix_design_comparison) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 19:03:21](https://lobste.rs/s/qnh6jy/announcing_simkube_v1_0_record_replay) - [Announcing simkube v1.0: Record-and-replay Kubernetes simulator](https://github.com/acrlabs/simkube)
@@ -24,7 +25,6 @@
 * [2024-09-09, 02:23:35](https://lobste.rs/s/xaskwr/linux_s_bedtime_routine) - [Linux's bedtime routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
-* [2024-09-08, 12:42:31](https://lobste.rs/s/7z69g5/microui_fenster_small_gui) - [microui+fenster=small gui](https://bernsteinbear.com/blog/fenster-microui/)
 
 ## [Archives](archives/index.md)
 

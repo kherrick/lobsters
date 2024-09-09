@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
 * [2024-09-09, 19:26:46](https://lobste.rs/s/0e9auw/not_quite_buildless) - [not quite buildless](https://liquidex.house/programming/blog/buildsome)
 * [2024-09-09, 19:04:44](https://lobste.rs/s/kcjt65/windows_nt_vs_unix_design_comparison) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 19:03:21](https://lobste.rs/s/qnh6jy/announcing_simkube_v1_0_record_replay) - [Announcing simkube v1.0: Record-and-replay Kubernetes simulator](https://github.com/acrlabs/simkube)
