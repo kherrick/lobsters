@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-09-09, 16:42:22",
+      "https://lobste.rs/s/m8vuww/how_we_built_300_s_typo_correction_for_1_3m"
+    ],
+    [
+      "How we Built 300μs Typo Correction for 1.3M Words in Rust",
+      "https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 16:10:20",
       "https://lobste.rs/s/gnrgex/proctrace_high_level_profiler_for"
     ],
     [
       "proctrace - a high level profiler for process lifecycle events",
       "https://tinkering.xyz/proctrace/"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 15:16:47",
-      "https://lobste.rs/s/4x1uke/pico_sdr"
-    ],
-    [
-      "Pico SDR",
-      "https://blog.porucha.net/2024/pico-sdr/index.html"
     ]
   ],
   [
