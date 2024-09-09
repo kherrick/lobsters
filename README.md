@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 03:25:55](https://lobste.rs/s/irllu2/coding_together_on_apple_ii_2022) - [Coding Together on the Apple II+ (2022)](https://thecodingtrain.com/tracks/coding-together-apple-ii)
 * [2024-09-09, 02:28:05](https://lobste.rs/s/izghcf/os_2_2_11_smp_woes) - [OS/2 2.11 SMP woes](https://www.os2museum.com/wp/os-2-2-11-smp-woes/)
 * [2024-09-09, 02:23:35](https://lobste.rs/s/xaskwr/linux_s_bedtime_routine) - [Linux's bedtime routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-09, 00:30:38](https://lobste.rs/s/8bhptf/data_oriented_design_revisited_type) - [Data-Oriented Design Revisited: Type Safety in the Zig Compiler](https://www.youtube.com/watch?v=KOZcJwGdQok)
@@ -20,7 +21,6 @@
 * [2024-09-08, 02:29:50](https://lobste.rs/s/srjpaq/high_availability_alertmanager_on) - [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
 * [2024-09-08, 01:43:36](https://lobste.rs/s/ghgxxm/arduino_cli_1_0_released_let_s_try_it_with) - [Arduino CLI 1.0 released - Let's try it with the Raspberry Pi Pico 2](https://www.cnx-software.com/2024/09/06/arduino-cli-1-0-released-try-raspberry-pi-pico-2/?amp=1)
 * [2024-09-07, 23:43:26](https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
-* [2024-09-07, 22:25:31](https://lobste.rs/s/y12u3v/scheme_on_webassembly) - [Scheme on WebAssembly](https://www.youtube.com/watch?v=KQJ-Xl1ULGU&t=37m35s)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
