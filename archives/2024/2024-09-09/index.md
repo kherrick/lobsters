@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 18:43:43](https://lobste.rs/s/51kxnn/who_s_hiring_q4y2024) - [Who’s Hiring? Q4Y2024](https://lobste.rs/s/51kxnn/who_s_hiring_q4y2024)
 * [2024-09-09, 18:31:47](https://lobste.rs/s/cmkcss/mentally_compute_scientific_calculator) - [Mentally compute scientific calculator functions](https://www.johndcook.com/blog/mental-functions/)
+* [2024-09-09, 18:20:10](https://lobste.rs/s/ltum8g/just_for_fun_no_really) - [Just for Fun. No, Really](https://justforfunnoreally.dev/)
 * [2024-09-09, 18:02:11](https://lobste.rs/s/cjm7dt/measuring_throughput) - [Measuring Throughput](https://buttondown.com/jaffray/archive/measuring-throughput/)
 * [2024-09-09, 17:51:01](https://lobste.rs/s/onl98u/storage_disaggregated_databases_shared) - [Storage Disaggregated Databases and Shared Transaction Log Architecture In Comparison](https://medium.com/@dichenldc/storage-disaggregated-databases-and-shared-log-abstraction-98be44c63fff)
 * [2024-09-09, 17:01:04](https://lobste.rs/s/ihi2l4/nobody_cares_about_security) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
