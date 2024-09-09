@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 18:31:47](https://lobste.rs/s/cmkcss/mentally_compute_scientific_calculator) - [Mentally compute scientific calculator functions](https://www.johndcook.com/blog/mental-functions/)
 * [2024-09-09, 18:02:11](https://lobste.rs/s/cjm7dt/measuring_throughput) - [Measuring Throughput](https://buttondown.com/jaffray/archive/measuring-throughput/)
-* [2024-09-09, 17:51:01](https://lobste.rs/s/onl98u/storage_disaggregated_databases_shared) - [Storage Disaggregated Databases and Shared Transaction Log Architecture In Comparison](https://medium.com/@dichenldc/storage-disaggregated-databases-and-shared-log-abstraction-98be44c63fff)
 * [2024-09-09, 17:01:04](https://lobste.rs/s/ihi2l4/nobody_cares_about_security) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
 * [2024-09-09, 16:42:22](https://lobste.rs/s/m8vuww/how_we_built_300_s_typo_correction_for_1_3m) - [How we Built 300μs Typo Correction for 1.3M Words in Rust](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
 * [2024-09-09, 16:10:20](https://lobste.rs/s/gnrgex/proctrace_high_level_profiler_for) - [proctrace - a high level profiler for process lifecycle events](https://tinkering.xyz/proctrace/)
