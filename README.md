@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 15:16:47](https://lobste.rs/s/4x1uke/pico_sdr) - [Pico SDR](https://blog.porucha.net/2024/pico-sdr/index.html)
 * [2024-09-09, 14:50:37](https://lobste.rs/s/xcrqir/redox_os_0_9_0) - [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
 * [2024-09-09, 14:50:00](https://lobste.rs/s/nkayil/random_access_string_compression_with) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 13:43:36](https://lobste.rs/s/3vngps/apple_event_for_september_9th_2024) - [Apple Event for September 9th, 2024](https://www.apple.com/apple-events/)
@@ -15,7 +16,6 @@
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 05:00:19](https://lobste.rs/s/x5kgwp/telum_ii_at_hot_chips_2024_mainframe_with) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-09, 04:11:00](https://lobste.rs/s/yhzjkx/jd_json_diff_patch) - [jd: JSON diff and patch](https://github.com/josephburnett/jd)
-* [2024-09-09, 02:28:05](https://lobste.rs/s/izghcf/os_2_2_11_smp_woes) - [OS/2 2.11 SMP woes](https://www.os2museum.com/wp/os-2-2-11-smp-woes/)
 * [2024-09-09, 02:23:35](https://lobste.rs/s/xaskwr/linux_s_bedtime_routine) - [Linux's bedtime routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-09, 00:30:38](https://lobste.rs/s/8bhptf/data_oriented_design_revisited_type) - [Data-Oriented Design Revisited: Type Safety in the Zig Compiler](https://www.youtube.com/watch?v=KOZcJwGdQok)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
