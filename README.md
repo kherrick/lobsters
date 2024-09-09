@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-09, 18:43:43](https://lobste.rs/s/51kxnn/who_s_hiring_q4y2024) - [Who’s Hiring? Q4Y2024](https://lobste.rs/s/51kxnn/who_s_hiring_q4y2024)
 * [2024-09-09, 18:31:47](https://lobste.rs/s/cmkcss/mentally_compute_scientific_calculator) - [Mentally compute scientific calculator functions](https://www.johndcook.com/blog/mental-functions/)
 * [2024-09-09, 18:20:10](https://lobste.rs/s/ltum8g/just_for_fun_no_really) - [Just for Fun. No, Really](https://justforfunnoreally.dev/)
 * [2024-09-09, 17:01:04](https://lobste.rs/s/ihi2l4/nobody_cares_about_security) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
@@ -25,6 +24,7 @@
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 * [2024-09-08, 12:42:31](https://lobste.rs/s/7z69g5/microui_fenster_small_gui) - [microui+fenster=small gui](https://bernsteinbear.com/blog/fenster-microui/)
+* [2024-09-08, 09:52:29](https://lobste.rs/s/1to55m/going_buildless) - [Going Buildless](https://mxb.dev/blog/buildless/)
 
 ## [Archives](archives/index.md)
 
