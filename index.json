@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-09-09, 15:16:47",
+      "https://lobste.rs/s/4x1uke/pico_sdr"
+    ],
+    [
+      "Pico SDR",
+      "https://blog.porucha.net/2024/pico-sdr/index.html"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 14:50:37",
       "https://lobste.rs/s/xcrqir/redox_os_0_9_0"
     ],
@@ -131,6 +141,16 @@
   ],
   [
     [
+      "2024-09-09, 07:02:02",
+      "https://lobste.rs/s/5kno0l/build_simple_fuzzer_part_1"
+    ],
+    [
+      "Build a simple fuzzer: Part 1",
+      "https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 06:52:41",
       "https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast"
     ],
@@ -171,32 +191,12 @@
   ],
   [
     [
-      "2024-09-09, 00:30:38",
-      "https://lobste.rs/s/8bhptf/data_oriented_design_revisited_type"
-    ],
-    [
-      "Data-Oriented Design Revisited: Type Safety in the Zig Compiler",
-      "https://www.youtube.com/watch?v=KOZcJwGdQok"
-    ]
-  ],
-  [
-    [
       "2024-09-08, 16:30:17",
       "https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi"
     ],
     [
       "Managing dotfiles with chezmoi",
       "https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 16:22:18",
-      "https://lobste.rs/s/ghsymh/prolog_rs_minimal_prolog_implemented"
-    ],
-    [
-      "prolog-rs: Minimal Prolog implemented in Rust",
-      "https://github.com/twolodzko/prolog-rs"
     ]
   ],
   [
