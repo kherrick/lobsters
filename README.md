@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 09:46:06](https://lobste.rs/s/i2lr40/state_es5_on_web) - [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)
+* [2024-09-09, 09:44:10](https://lobste.rs/s/fzgar5/explore_amx_instructions_unlock) - [Explore AMX instructions: Unlock the performance of Apple Silicon](https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec)
 * [2024-09-09, 08:46:21](https://lobste.rs/s/jhevru/easily_install_prebuilt_binaries_from) - [Easily install prebuilt binaries from GitHub](https://github.com/zyedidia/eget)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 * [2024-09-09, 07:02:02](https://lobste.rs/s/5kno0l/build_simple_fuzzer_part_1) - [Build a simple fuzzer: Part 1](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
@@ -13,7 +15,6 @@
 * [2024-09-08, 18:20:38](https://lobste.rs/s/rzxkbs/confer_symbolic_links_manager_for_your) - [confer: The symbolic links manager for your configuration files](https://github.com/tchoutri/confer)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 16:22:18](https://lobste.rs/s/ghsymh/prolog_rs_minimal_prolog_implemented) - [prolog-rs: Minimal Prolog implemented in Rust](https://github.com/twolodzko/prolog-rs)
-* [2024-09-08, 14:49:44](https://lobste.rs/s/uhgivg/open_source_streaming_api_from_ingest) - [Open-source streaming API from ingest to player](https://matvp91.github.io/mixwave/)
 * [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 * [2024-09-08, 14:24:09](https://lobste.rs/s/kjx7zd/baiting_bot) - [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 * [2024-09-08, 14:16:28](https://lobste.rs/s/scz0ww/how_really_wrap_c_compiler_preprocessor) - [How to really wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
@@ -21,7 +22,6 @@
 * [2024-09-08, 11:33:38](https://lobste.rs/s/8wcbda/worsening_raspberry_pi_rp2350_e9_erratum) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 09:52:29](https://lobste.rs/s/1to55m/going_buildless) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 06:25:35](https://lobste.rs/s/w2xstx/state_c_package_management_build_systems) - [The state of C++ package management: The build systems](https://twdev.blog/2024/09/cpp_pkgmng3/)
-* [2024-09-08, 04:44:23](https://lobste.rs/s/jdepvw/n3332_record_types_for_c) - [N3332: Record types for C](https://thephd.dev/_vendor/future_cxx/papers/C%20-%20_Record%20types.html)
 * [2024-09-08, 04:25:19](https://lobste.rs/s/79se02/fuzzing_x_compositor) - [Fuzzing an X compositor](https://trace.yshui.dev/2024-09-fuzzing.html)
 * [2024-09-07, 23:43:26](https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
