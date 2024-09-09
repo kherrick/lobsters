@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 10:40:18](https://lobste.rs/s/jqfp5d/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/jqfp5d/what_are_you_doing_this_week)
 * [2024-09-09, 09:46:06](https://lobste.rs/s/i2lr40/state_es5_on_web) - [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)
 * [2024-09-09, 09:44:10](https://lobste.rs/s/fzgar5/explore_amx_instructions_unlock) - [Explore AMX instructions: Unlock the performance of Apple Silicon](https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec)
 * [2024-09-09, 08:46:21](https://lobste.rs/s/jhevru/easily_install_prebuilt_binaries_from) - [Easily install prebuilt binaries from GitHub](https://github.com/zyedidia/eget)
@@ -17,7 +18,6 @@
 * [2024-09-08, 16:22:18](https://lobste.rs/s/ghsymh/prolog_rs_minimal_prolog_implemented) - [prolog-rs: Minimal Prolog implemented in Rust](https://github.com/twolodzko/prolog-rs)
 * [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 * [2024-09-08, 14:24:09](https://lobste.rs/s/kjx7zd/baiting_bot) - [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
-* [2024-09-08, 14:16:28](https://lobste.rs/s/scz0ww/how_really_wrap_c_compiler_preprocessor) - [How to really wrap a C compiler and preprocessor, really](https://www.humprog.org/~stephen/blog/2024/08/27/#how-to-wrap-cc-really)
 * [2024-09-08, 12:42:31](https://lobste.rs/s/7z69g5/microui_fenster_small_gui) - [microui+fenster=small gui](https://bernsteinbear.com/blog/fenster-microui/)
 * [2024-09-08, 11:33:38](https://lobste.rs/s/8wcbda/worsening_raspberry_pi_rp2350_e9_erratum) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 09:52:29](https://lobste.rs/s/1to55m/going_buildless) - [Going Buildless](https://mxb.dev/blog/buildless/)
