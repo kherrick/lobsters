@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 16:42:22](https://lobste.rs/s/m8vuww/how_we_built_300_s_typo_correction_for_1_3m) - [How we Built 300μs Typo Correction for 1.3M Words in Rust](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
 * [2024-09-09, 16:10:20](https://lobste.rs/s/gnrgex/proctrace_high_level_profiler_for) - [proctrace - a high level profiler for process lifecycle events](https://tinkering.xyz/proctrace/)
-* [2024-09-09, 15:16:47](https://lobste.rs/s/4x1uke/pico_sdr) - [Pico SDR](https://blog.porucha.net/2024/pico-sdr/index.html)
 * [2024-09-09, 14:50:37](https://lobste.rs/s/xcrqir/redox_os_0_9_0) - [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
 * [2024-09-09, 14:50:00](https://lobste.rs/s/nkayil/random_access_string_compression_with) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 13:43:36](https://lobste.rs/s/3vngps/apple_event_for_september_9th_2024) - [Apple Event for September 9th, 2024](https://www.apple.com/apple-events/)
