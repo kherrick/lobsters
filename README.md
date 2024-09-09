@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 21:18:46](https://lobste.rs/s/enpuid/possibly_all_ways_get_loop_finding_graphs) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 * [2024-09-09, 20:09:30](https://lobste.rs/s/gsi9zk/adding_algebraic_data_types_nickel) - [Adding algebraic data types to Nickel](https://tweag.io/blog/2024-09-05-algebraic-data-types-nickel/)
 * [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
 * [2024-09-09, 19:26:46](https://lobste.rs/s/0e9auw/not_quite_buildless) - [not quite buildless](https://liquidex.house/programming/blog/buildsome)
@@ -21,7 +22,6 @@
 * [2024-09-09, 09:44:10](https://lobste.rs/s/fzgar5/explore_amx_instructions_unlock) - [Explore AMX instructions: Unlock the performance of Apple Silicon](https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
-* [2024-09-09, 04:11:00](https://lobste.rs/s/yhzjkx/jd_json_diff_patch) - [jd: JSON diff and patch](https://github.com/josephburnett/jd)
 * [2024-09-09, 02:23:35](https://lobste.rs/s/xaskwr/linux_s_bedtime_routine) - [Linux's bedtime routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
