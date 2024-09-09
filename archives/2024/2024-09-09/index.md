@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 05:00:19](https://lobste.rs/s/x5kgwp/telum_ii_at_hot_chips_2024_mainframe_with) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-09, 04:11:00](https://lobste.rs/s/yhzjkx/jd_json_diff_patch) - [jd: JSON diff and patch](https://github.com/josephburnett/jd)
 * [2024-09-09, 03:25:55](https://lobste.rs/s/irllu2/coding_together_on_apple_ii_2022) - [Coding Together on the Apple II+ (2022)](https://thecodingtrain.com/tracks/coding-together-apple-ii)

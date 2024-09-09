@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 05:00:19](https://lobste.rs/s/x5kgwp/telum_ii_at_hot_chips_2024_mainframe_with) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-09, 04:11:00](https://lobste.rs/s/yhzjkx/jd_json_diff_patch) - [jd: JSON diff and patch](https://github.com/josephburnett/jd)
 * [2024-09-09, 03:25:55](https://lobste.rs/s/irllu2/coding_together_on_apple_ii_2022) - [Coding Together on the Apple II+ (2022)](https://thecodingtrain.com/tracks/coding-together-apple-ii)
@@ -23,7 +24,6 @@
 * [2024-09-08, 02:29:50](https://lobste.rs/s/srjpaq/high_availability_alertmanager_on) - [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
 * [2024-09-07, 23:43:26](https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
-* [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
 
 ## [Archives](archives/index.md)
