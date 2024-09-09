@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 18:02:11](https://lobste.rs/s/cjm7dt/measuring_throughput) - [Measuring Throughput](https://buttondown.com/jaffray/archive/measuring-throughput/)
 * [2024-09-09, 17:51:01](https://lobste.rs/s/onl98u/storage_disaggregated_databases_shared) - [Storage Disaggregated Databases and Shared Transaction Log Architecture In Comparison](https://medium.com/@dichenldc/storage-disaggregated-databases-and-shared-log-abstraction-98be44c63fff)
 * [2024-09-09, 17:01:04](https://lobste.rs/s/ihi2l4/nobody_cares_about_security) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
 * [2024-09-09, 16:42:22](https://lobste.rs/s/m8vuww/how_we_built_300_s_typo_correction_for_1_3m) - [How we Built 300μs Typo Correction for 1.3M Words in Rust](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
@@ -16,7 +17,6 @@
 * [2024-09-09, 09:44:10](https://lobste.rs/s/fzgar5/explore_amx_instructions_unlock) - [Explore AMX instructions: Unlock the performance of Apple Silicon](https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec)
 * [2024-09-09, 08:46:21](https://lobste.rs/s/jhevru/easily_install_prebuilt_binaries_from) - [Easily install prebuilt binaries from GitHub](https://github.com/zyedidia/eget)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
-* [2024-09-09, 07:02:02](https://lobste.rs/s/5kno0l/build_simple_fuzzer_part_1) - [Build a simple fuzzer: Part 1](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 05:00:19](https://lobste.rs/s/x5kgwp/telum_ii_at_hot_chips_2024_mainframe_with) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-09, 04:11:00](https://lobste.rs/s/yhzjkx/jd_json_diff_patch) - [jd: JSON diff and patch](https://github.com/josephburnett/jd)
