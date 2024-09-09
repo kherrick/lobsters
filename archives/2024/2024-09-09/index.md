@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 13:43:36](https://lobste.rs/s/3vngps/apple_event_for_september_9th_2024) - [Apple Event for September 9th, 2024](https://www.apple.com/apple-events/)
 * [2024-09-09, 13:35:12](https://lobste.rs/s/zbx4cu/what_is_best_pointer_tagging_method) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 * [2024-09-09, 13:07:31](https://lobste.rs/s/aqoknv/client_side_ad_free_dev_utils_encoder) - [Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)](http://utils.foo)
 * [2024-09-09, 12:14:36](https://lobste.rs/s/qiuoxo/insecurity_debian) - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
