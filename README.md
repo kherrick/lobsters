@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 22:11:35](https://lobste.rs/s/4ar6eu/bending_zed_render_my_beautiful_fonts) - [Bending Zed to render my beautiful fonts with Nix](https://nazrin.limited/phame/live/1/post/1/bending_zed_to_render_my_beautiful_fonts_with_nix/)
 * [2024-09-09, 21:18:46](https://lobste.rs/s/enpuid/possibly_all_ways_get_loop_finding_graphs) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
-* [2024-09-09, 20:09:30](https://lobste.rs/s/gsi9zk/adding_algebraic_data_types_nickel) - [Adding algebraic data types to Nickel](https://tweag.io/blog/2024-09-05-algebraic-data-types-nickel/)
 * [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
 * [2024-09-09, 19:26:46](https://lobste.rs/s/0e9auw/not_quite_buildless) - [not quite buildless](https://liquidex.house/programming/blog/buildsome)
 * [2024-09-09, 19:04:44](https://lobste.rs/s/kcjt65/windows_nt_vs_unix_design_comparison) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
