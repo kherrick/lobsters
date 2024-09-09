@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 14:50:37](https://lobste.rs/s/xcrqir/redox_os_0_9_0) - [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
+* [2024-09-09, 14:50:00](https://lobste.rs/s/nkayil/random_access_string_compression_with) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 13:43:36](https://lobste.rs/s/3vngps/apple_event_for_september_9th_2024) - [Apple Event for September 9th, 2024](https://www.apple.com/apple-events/)
 * [2024-09-09, 13:35:12](https://lobste.rs/s/zbx4cu/what_is_best_pointer_tagging_method) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 * [2024-09-09, 13:07:31](https://lobste.rs/s/aqoknv/client_side_ad_free_dev_utils_encoder) - [Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)](http://utils.foo)

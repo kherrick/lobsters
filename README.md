@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 14:50:37](https://lobste.rs/s/xcrqir/redox_os_0_9_0) - [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
+* [2024-09-09, 14:50:00](https://lobste.rs/s/nkayil/random_access_string_compression_with) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 13:43:36](https://lobste.rs/s/3vngps/apple_event_for_september_9th_2024) - [Apple Event for September 9th, 2024](https://www.apple.com/apple-events/)
 * [2024-09-09, 13:35:12](https://lobste.rs/s/zbx4cu/what_is_best_pointer_tagging_method) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 * [2024-09-09, 13:07:31](https://lobste.rs/s/aqoknv/client_side_ad_free_dev_utils_encoder) - [Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)](http://utils.foo)
@@ -19,12 +21,10 @@
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 16:22:18](https://lobste.rs/s/ghsymh/prolog_rs_minimal_prolog_implemented) - [prolog-rs: Minimal Prolog implemented in Rust](https://github.com/twolodzko/prolog-rs)
 * [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
-* [2024-09-08, 14:24:09](https://lobste.rs/s/kjx7zd/baiting_bot) - [Baiting the bot](https://conspirator0.substack.com/p/baiting-the-bot)
 * [2024-09-08, 12:42:31](https://lobste.rs/s/7z69g5/microui_fenster_small_gui) - [microui+fenster=small gui](https://bernsteinbear.com/blog/fenster-microui/)
 * [2024-09-08, 11:33:38](https://lobste.rs/s/8wcbda/worsening_raspberry_pi_rp2350_e9_erratum) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 09:52:29](https://lobste.rs/s/1to55m/going_buildless) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 04:25:19](https://lobste.rs/s/79se02/fuzzing_x_compositor) - [Fuzzing an X compositor](https://trace.yshui.dev/2024-09-fuzzing.html)
-* [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 
 ## [Archives](archives/index.md)
 
