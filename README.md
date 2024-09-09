@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 05:00:19](https://lobste.rs/s/x5kgwp/telum_ii_at_hot_chips_2024_mainframe_with) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-09, 04:11:00](https://lobste.rs/s/yhzjkx/jd_json_diff_patch) - [jd: JSON diff and patch](https://github.com/josephburnett/jd)
 * [2024-09-09, 03:25:55](https://lobste.rs/s/irllu2/coding_together_on_apple_ii_2022) - [Coding Together on the Apple II+ (2022)](https://thecodingtrain.com/tracks/coding-together-apple-ii)
 * [2024-09-09, 02:28:05](https://lobste.rs/s/izghcf/os_2_2_11_smp_woes) - [OS/2 2.11 SMP woes](https://www.os2museum.com/wp/os-2-2-11-smp-woes/)
@@ -24,7 +25,6 @@
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
-* [2024-09-07, 07:01:56](https://lobste.rs/s/84srrb/changes_impl_trait_rust_2024) - [Changes to `impl Trait` in Rust 2024](https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html)
 
 ## [Archives](archives/index.md)
 

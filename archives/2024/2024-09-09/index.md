@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 05:00:19](https://lobste.rs/s/x5kgwp/telum_ii_at_hot_chips_2024_mainframe_with) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-09, 04:11:00](https://lobste.rs/s/yhzjkx/jd_json_diff_patch) - [jd: JSON diff and patch](https://github.com/josephburnett/jd)
 * [2024-09-09, 03:25:55](https://lobste.rs/s/irllu2/coding_together_on_apple_ii_2022) - [Coding Together on the Apple II+ (2022)](https://thecodingtrain.com/tracks/coding-together-apple-ii)
 * [2024-09-09, 02:28:05](https://lobste.rs/s/izghcf/os_2_2_11_smp_woes) - [OS/2 2.11 SMP woes](https://www.os2museum.com/wp/os-2-2-11-smp-woes/)
