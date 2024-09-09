@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 08:46:21](https://lobste.rs/s/jhevru/easily_install_prebuilt_binaries_from) - [Easily install prebuilt binaries from GitHub](https://github.com/zyedidia/eget)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 * [2024-09-09, 07:02:02](https://lobste.rs/s/5kno0l/build_simple_fuzzer_part_1) - [Build a simple fuzzer: Part 1](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
@@ -22,7 +23,6 @@
 * [2024-09-08, 06:25:35](https://lobste.rs/s/w2xstx/state_c_package_management_build_systems) - [The state of C++ package management: The build systems](https://twdev.blog/2024/09/cpp_pkgmng3/)
 * [2024-09-08, 04:44:23](https://lobste.rs/s/jdepvw/n3332_record_types_for_c) - [N3332: Record types for C](https://thephd.dev/_vendor/future_cxx/papers/C%20-%20_Record%20types.html)
 * [2024-09-08, 04:25:19](https://lobste.rs/s/79se02/fuzzing_x_compositor) - [Fuzzing an X compositor](https://trace.yshui.dev/2024-09-fuzzing.html)
-* [2024-09-08, 02:29:50](https://lobste.rs/s/srjpaq/high_availability_alertmanager_on) - [High Availability Alertmanager on Kubernetes: No Alerts Left Behind](https://jb3.dev/posts/ha-alertmanager-kubernetes/)
 * [2024-09-07, 23:43:26](https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 

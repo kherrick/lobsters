@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 08:46:21](https://lobste.rs/s/jhevru/easily_install_prebuilt_binaries_from) - [Easily install prebuilt binaries from GitHub](https://github.com/zyedidia/eget)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 * [2024-09-09, 07:02:02](https://lobste.rs/s/5kno0l/build_simple_fuzzer_part_1) - [Build a simple fuzzer: Part 1](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
