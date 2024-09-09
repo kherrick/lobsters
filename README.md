@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-09, 21:18:46](https://lobste.rs/s/enpuid/possibly_all_ways_get_loop_finding_graphs) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
 * [2024-09-09, 20:09:30](https://lobste.rs/s/gsi9zk/adding_algebraic_data_types_nickel) - [Adding algebraic data types to Nickel](https://tweag.io/blog/2024-09-05-algebraic-data-types-nickel/)
 * [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
 * [2024-09-09, 19:26:46](https://lobste.rs/s/0e9auw/not_quite_buildless) - [not quite buildless](https://liquidex.house/programming/blog/buildsome)
 * [2024-09-09, 19:04:44](https://lobste.rs/s/kcjt65/windows_nt_vs_unix_design_comparison) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
 * [2024-09-09, 19:03:21](https://lobste.rs/s/qnh6jy/announcing_simkube_v1_0_record_replay) - [Announcing simkube v1.0: Record-and-replay Kubernetes simulator](https://github.com/acrlabs/simkube)
+* [2024-09-09, 18:31:47](https://lobste.rs/s/cmkcss/mentally_compute_scientific_calculator) - [Mentally compute scientific calculator functions](https://www.johndcook.com/blog/mental-functions/)
 * [2024-09-09, 18:20:10](https://lobste.rs/s/ltum8g/just_for_fun_no_really) - [Just for Fun. No, Really](https://justforfunnoreally.dev/)
 * [2024-09-09, 17:01:04](https://lobste.rs/s/ihi2l4/nobody_cares_about_security) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
 * [2024-09-09, 16:42:22](https://lobste.rs/s/m8vuww/how_we_built_300_s_typo_correction_for_1_3m) - [How we Built 300μs Typo Correction for 1.3M Words in Rust](https://trieve.ai/building-blazingly-fast-typo-correction-in-rust/)
