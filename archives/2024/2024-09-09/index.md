@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 07:02:02](https://lobste.rs/s/5kno0l/build_simple_fuzzer_part_1) - [Build a simple fuzzer: Part 1](https://carstein.github.io/fuzzing/2020/04/18/writing-simple-fuzzer-1.html)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-09, 05:00:19](https://lobste.rs/s/x5kgwp/telum_ii_at_hot_chips_2024_mainframe_with) - [Telum II at Hot Chips 2024: Mainframe with a Unique Caching Strategy](https://chipsandcheese.com/2024/09/08/telum-ii-at-hot-chips-2024-mainframe-with-a-unique-caching-strategy/)
 * [2024-09-09, 04:11:00](https://lobste.rs/s/yhzjkx/jd_json_diff_patch) - [jd: JSON diff and patch](https://github.com/josephburnett/jd)
