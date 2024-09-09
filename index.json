@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-09, 09:46:06",
+      "https://lobste.rs/s/i2lr40/state_es5_on_web"
+    ],
+    [
+      "The State of ES5 on the Web",
+      "https://philipwalton.com/articles/the-state-of-es5-on-the-web/"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 09:44:10",
+      "https://lobste.rs/s/fzgar5/explore_amx_instructions_unlock"
+    ],
+    [
+      "Explore AMX instructions: Unlock the performance of Apple Silicon",
+      "https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec"
+    ]
+  ],
+  [
+    [
       "2024-09-09, 08:46:21",
       "https://lobste.rs/s/jhevru/easily_install_prebuilt_binaries_from"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-09-08, 14:49:44",
-      "https://lobste.rs/s/uhgivg/open_source_streaming_api_from_ingest"
-    ],
-    [
-      "Open-source streaming API from ingest to player",
-      "https://matvp91.github.io/mixwave/"
-    ]
-  ],
-  [
-    [
       "2024-09-08, 14:48:11",
       "https://lobste.rs/s/bcsiov/car_copy_on_write_archive"
     ],
@@ -207,16 +217,6 @@
     [
       "The state of C++ package management: The build systems",
       "https://twdev.blog/2024/09/cpp_pkgmng3/"
-    ]
-  ],
-  [
-    [
-      "2024-09-08, 04:44:23",
-      "https://lobste.rs/s/jdepvw/n3332_record_types_for_c"
-    ],
-    [
-      "N3332: Record types for C",
-      "https://thephd.dev/_vendor/future_cxx/papers/C%20-%20_Record%20types.html"
     ]
   ],
   [
