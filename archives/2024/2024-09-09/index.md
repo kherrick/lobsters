@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-09](index.md)
 
+* [2024-09-09, 13:07:31](https://lobste.rs/s/aqoknv/client_side_ad_free_dev_utils_encoder) - [Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)](http://utils.foo)
 * [2024-09-09, 12:14:36](https://lobste.rs/s/qiuoxo/insecurity_debian) - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
 * [2024-09-09, 10:40:18](https://lobste.rs/s/jqfp5d/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/jqfp5d/what_are_you_doing_this_week)
 * [2024-09-09, 09:46:06](https://lobste.rs/s/i2lr40/state_es5_on_web) - [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)

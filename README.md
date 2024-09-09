@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 13:07:31](https://lobste.rs/s/aqoknv/client_side_ad_free_dev_utils_encoder) - [Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)](http://utils.foo)
 * [2024-09-09, 12:14:36](https://lobste.rs/s/qiuoxo/insecurity_debian) - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
 * [2024-09-09, 10:40:18](https://lobste.rs/s/jqfp5d/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/jqfp5d/what_are_you_doing_this_week)
 * [2024-09-09, 09:46:06](https://lobste.rs/s/i2lr40/state_es5_on_web) - [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)
@@ -23,7 +24,6 @@
 * [2024-09-08, 11:33:38](https://lobste.rs/s/8wcbda/worsening_raspberry_pi_rp2350_e9_erratum) - [The worsening Raspberry Pi RP2350 E9 erratum situation](https://hackaday.com/2024/09/04/the-worsening-raspberry-pi-rp2350-e9-erratum-situation/)
 * [2024-09-08, 09:52:29](https://lobste.rs/s/1to55m/going_buildless) - [Going Buildless](https://mxb.dev/blog/buildless/)
 * [2024-09-08, 04:25:19](https://lobste.rs/s/79se02/fuzzing_x_compositor) - [Fuzzing an X compositor](https://trace.yshui.dev/2024-09-fuzzing.html)
-* [2024-09-07, 23:43:26](https://lobste.rs/s/4aupcw/gnome_files_detailed_ui_examination) - [Gnome Files: A detailed UI examination](https://www.datagubbe.se/gnomefiles/)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 
 ## [Archives](archives/index.md)
