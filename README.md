@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-09, 02:23:35](https://lobste.rs/s/xaskwr/linux_s_bedtime_routine) - [Linux's bedtime routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-09, 00:30:38](https://lobste.rs/s/8bhptf/data_oriented_design_revisited_type) - [Data-Oriented Design Revisited: Type Safety in the Zig Compiler](https://www.youtube.com/watch?v=KOZcJwGdQok)
 * [2024-09-08, 18:20:38](https://lobste.rs/s/rzxkbs/confer_symbolic_links_manager_for_your) - [confer: The symbolic links manager for your configuration files](https://github.com/tchoutri/confer)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
@@ -21,7 +22,6 @@
 * [2024-09-07, 22:25:31](https://lobste.rs/s/y12u3v/scheme_on_webassembly) - [Scheme on WebAssembly](https://www.youtube.com/watch?v=KQJ-Xl1ULGU&t=37m35s)
 * [2024-09-07, 19:08:23](https://lobste.rs/s/t81n2g/webp_webpage_compression_format) - [WebP: The WebPage compression format](https://purplesyringa.moe/blog/webp-the-webpage-compression-format/)
 * [2024-09-07, 18:30:36](https://lobste.rs/s/2mguw6/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
-* [2024-09-07, 13:05:55](https://lobste.rs/s/iz0rwp/conservative_gc_can_be_faster_than) - [conservative gc can be faster than precise gc](https://wingolog.org/archives/2024/09/07/conservative-gc-can-be-faster-than-precise-gc)
 * [2024-09-07, 11:48:46](https://lobste.rs/s/wjtvyu/note_on_perq_computer) - [A note on the PERQ computer](https://graydon2.dreamwidth.org/313862.html)
 * [2024-09-07, 10:04:43](https://lobste.rs/s/y9rjpt/navy_chiefs_conspired_get_themselves) - [Navy chiefs conspired to get themselves illegal warship Wi-Fi](https://www.navytimes.com/news/your-navy/2024/09/03/how-navy-chiefs-conspired-to-get-themselves-illegal-warship-wi-fi/)
 * [2024-09-07, 07:01:56](https://lobste.rs/s/84srrb/changes_impl_trait_rust_2024) - [Changes to `impl Trait` in Rust 2024](https://blog.rust-lang.org/2024/09/05/impl-trait-capture-rules.html)
