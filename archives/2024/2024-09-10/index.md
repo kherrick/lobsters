@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 18:25:01](https://lobste.rs/s/mmpnxg/simplicity_fractal) - [the simplicity of a fractal](https://explaining.software/archive/the-simplicity-of-a-fractal/)
+* [2024-09-10, 17:57:13](https://lobste.rs/s/5mw87g/pandoc_3_4_released) - [Pandoc 3.4 released](https://pandoc.org/releases.html#pandoc-3.4-2024-09-09)
 * [2024-09-10, 15:35:52](https://lobste.rs/s/sskfvd/yaml_feature_extraction_with_yamlpath) - [YAML feature extraction with yamlpath](https://blog.yossarian.net/2024/09/10/YAML-feature-extraction-with-yamlpath)
 * [2024-09-10, 15:25:17](https://lobste.rs/s/1yfjfa/responsible_monkeypatching_ruby_2021) - [Responsible Monkeypatching in Ruby (2021)](https://blog.appsignal.com/2021/08/24/responsible-monkeypatching-in-ruby.html)
 * [2024-09-10, 14:55:31](https://lobste.rs/s/lrjjsi/nsa_releases_internal_1982_lecture_by) - [NSA Releases Internal 1982 Lecture by Computing Pioneer Rear Admiral Grace Hopper](https://www.youtube.com/watch?v=_bP14OzIJWI)
