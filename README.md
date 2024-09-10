@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-10, 11:50:58](https://lobste.rs/s/sqkhnm/game_font_forensics) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-09-10, 09:21:21](https://lobste.rs/s/7mctvo/local_first_vector_database_with_rxdb) - [Local-First Vector Database with RxDB and transformers.js](https://rxdb.info/articles/javascript-vector-database.html)
 * [2024-09-10, 08:29:25](https://lobste.rs/s/wsabuf/critique_modern_sql_proposal_towards) - [A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language](https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf)
 * [2024-09-10, 07:21:19](https://lobste.rs/s/39oosh/linux_very_close_enabling_real_time) - [Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support](https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches)
@@ -15,7 +16,6 @@
 * [2024-09-09, 19:03:21](https://lobste.rs/s/qnh6jy/announcing_simkube_v1_0_record_replay) - [Announcing simkube v1.0: Record-and-replay Kubernetes simulator](https://github.com/acrlabs/simkube)
 * [2024-09-09, 18:20:10](https://lobste.rs/s/ltum8g/just_for_fun_no_really) - [Just for Fun. No, Really](https://justforfunnoreally.dev/)
 * [2024-09-09, 17:01:04](https://lobste.rs/s/ihi2l4/nobody_cares_about_security) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
-* [2024-09-09, 16:10:20](https://lobste.rs/s/gnrgex/proctrace_high_level_profiler_for) - [proctrace - a high level profiler for process lifecycle events](https://tinkering.xyz/proctrace/)
 * [2024-09-09, 14:50:37](https://lobste.rs/s/xcrqir/redox_os_0_9_0) - [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
 * [2024-09-09, 14:50:00](https://lobste.rs/s/nkayil/random_access_string_compression_with) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
 * [2024-09-09, 13:43:36](https://lobste.rs/s/3vngps/apple_event_for_september_9th_2024) - [Apple Event for September 9th, 2024](https://www.apple.com/apple-events/)
