@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-10, 20:27:54",
+      "https://lobste.rs/s/tntsjc/why_some_us_like_interdiff_code_review"
+    ],
+    [
+      "Why some of us like \"interdiff\" code review systems (not GitHub)",
+      "https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 19:43:45",
       "https://lobste.rs/s/fqnbz5/glasskube_is_gitops_ready_with_argocd"
     ],
@@ -207,16 +217,6 @@
     [
       "not quite buildless",
       "https://liquidex.house/programming/blog/buildsome"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 17:01:04",
-      "https://lobste.rs/s/ihi2l4/nobody_cares_about_security"
-    ],
-    [
-      "Nobody Cares About Security",
-      "https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/"
     ]
   ],
   [
