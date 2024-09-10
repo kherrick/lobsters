@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-10, 04:24:23](https://lobste.rs/s/idth0g/linking_can_be_fast_if_you_cheat_roc_s) - [Linking can be fast (if you cheat): Roc's Surgical Linker](https://youtu.be/SS_lQAjBVtk)
 * [2024-09-10, 02:38:36](https://lobste.rs/s/mwpxcm/signatures_are_like_backups) - [Signatures are like backups](https://alexgaynor.net/2024/sep/09/signatures-are-like-backups/)
 * [2024-09-10, 02:04:48](https://lobste.rs/s/iwr32y/stacking_workflow) - [The stacking workflow](https://www.stacking.dev/)
 * [2024-09-09, 22:11:35](https://lobste.rs/s/4ar6eu/bending_zed_render_my_beautiful_fonts) - [Bending Zed to render my beautiful fonts with Nix](https://nazrin.limited/phame/live/1/post/1/bending_zed_to_render_my_beautiful_fonts_with_nix/)
@@ -20,7 +21,6 @@
 * [2024-09-09, 12:14:36](https://lobste.rs/s/qiuoxo/insecurity_debian) - [The Insecurity of Debian](https://unix.foo/posts/insecurity-of-debian/)
 * [2024-09-09, 10:40:18](https://lobste.rs/s/jqfp5d/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/jqfp5d/what_are_you_doing_this_week)
 * [2024-09-09, 09:46:06](https://lobste.rs/s/i2lr40/state_es5_on_web) - [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)
-* [2024-09-09, 09:44:10](https://lobste.rs/s/fzgar5/explore_amx_instructions_unlock) - [Explore AMX instructions: Unlock the performance of Apple Silicon](https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
