@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 13:58:02](https://lobste.rs/s/ykik7b/design_patterns_are_temporary_language) - [Design Patterns Are Temporary, Language Features Are Forever](https://ptrtojoel.dev/posts/design-patterns-are-temporary/)
 * [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
 * [2024-09-10, 13:20:35](https://lobste.rs/s/zikzbv/debugging_multiverse) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
 * [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
