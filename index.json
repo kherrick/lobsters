@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-10, 15:35:52",
+      "https://lobste.rs/s/sskfvd/yaml_feature_extraction_with_yamlpath"
+    ],
+    [
+      "YAML feature extraction with yamlpath",
+      "https://blog.yossarian.net/2024/09/10/YAML-feature-extraction-with-yamlpath"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 14:55:31",
       "https://lobste.rs/s/lrjjsi/nsa_releases_internal_1982_lecture_by"
     ],
@@ -227,16 +237,6 @@
     [
       "Client-side, ad-free dev utils (encoder/decoder, json format/minify, pivot, time convertor, diffs, QR generator, etc.)",
       "http://utils.foo"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 12:14:36",
-      "https://lobste.rs/s/qiuoxo/insecurity_debian"
-    ],
-    [
-      "The Insecurity of Debian",
-      "https://unix.foo/posts/insecurity-of-debian/"
     ]
   ],
   [
