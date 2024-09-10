@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-10, 07:30:40](https://lobste.rs/s/kuhom9/make_your_own_read_only_device_with_netbsd) - [Make Your Own Read-Only Device With NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
 * [2024-09-10, 07:21:19](https://lobste.rs/s/39oosh/linux_very_close_enabling_real_time) - [Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support](https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches)
 * [2024-09-10, 06:58:07](https://lobste.rs/s/helxxt/openssh_keystroke_obfuscation_bypass) - [OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
 * [2024-09-10, 04:24:23](https://lobste.rs/s/idth0g/linking_can_be_fast_if_you_cheat_roc_s) - [Linking can be fast (if you cheat): Roc's Surgical Linker](https://youtu.be/SS_lQAjBVtk)
@@ -23,7 +24,6 @@
 * [2024-09-09, 09:46:06](https://lobste.rs/s/i2lr40/state_es5_on_web) - [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
-* [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 
 ## [Archives](archives/index.md)
