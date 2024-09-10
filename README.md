@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-10, 02:38:36](https://lobste.rs/s/mwpxcm/signatures_are_like_backups) - [Signatures are like backups](https://alexgaynor.net/2024/sep/09/signatures-are-like-backups/)
 * [2024-09-10, 02:04:48](https://lobste.rs/s/iwr32y/stacking_workflow) - [The stacking workflow](https://www.stacking.dev/)
 * [2024-09-09, 22:11:35](https://lobste.rs/s/4ar6eu/bending_zed_render_my_beautiful_fonts) - [Bending Zed to render my beautiful fonts with Nix](https://nazrin.limited/phame/live/1/post/1/bending_zed_to_render_my_beautiful_fonts_with_nix/)
 * [2024-09-09, 21:18:46](https://lobste.rs/s/enpuid/possibly_all_ways_get_loop_finding_graphs) - [Possibly all the ways to get loop-finding in graphs wrong](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/findloop/)
@@ -22,7 +23,6 @@
 * [2024-09-09, 09:44:10](https://lobste.rs/s/fzgar5/explore_amx_instructions_unlock) - [Explore AMX instructions: Unlock the performance of Apple Silicon](https://medium.com/@zhen8838/explore-amx-instructions-unlock-the-performance-of-apple-silicon-e0276a293aec)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
-* [2024-09-09, 02:23:35](https://lobste.rs/s/xaskwr/linux_s_bedtime_routine) - [Linux's bedtime routine](https://tookmund.com/2024/09/hibernation-preparation)
 * [2024-09-08, 16:30:17](https://lobste.rs/s/czy3bp/managing_dotfiles_with_chezmoi) - [Managing dotfiles with chezmoi](https://stoddart.github.io/2024/09/08/managing-dotfiles-with-chezmoi.html)
 * [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 
