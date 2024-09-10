@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-10, 14:55:31](https://lobste.rs/s/lrjjsi/nsa_releases_internal_1982_lecture_by) - [NSA Releases Internal 1982 Lecture by Computing Pioneer Rear Admiral Grace Hopper](https://www.youtube.com/watch?v=_bP14OzIJWI)
 * [2024-09-10, 13:58:02](https://lobste.rs/s/ykik7b/design_patterns_are_temporary_language) - [Design Patterns Are Temporary, Language Features Are Forever](https://ptrtojoel.dev/posts/design-patterns-are-temporary/)
 * [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
 * [2024-09-10, 13:20:35](https://lobste.rs/s/zikzbv/debugging_multiverse) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
@@ -16,7 +17,6 @@
 * [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
 * [2024-09-09, 19:26:46](https://lobste.rs/s/0e9auw/not_quite_buildless) - [not quite buildless](https://liquidex.house/programming/blog/buildsome)
 * [2024-09-09, 19:04:44](https://lobste.rs/s/kcjt65/windows_nt_vs_unix_design_comparison) - [Windows NT vs. Unix: A design comparison](https://blogsystem5.substack.com/p/windows-nt-vs-unix-design)
-* [2024-09-09, 18:20:10](https://lobste.rs/s/ltum8g/just_for_fun_no_really) - [Just for Fun. No, Really](https://justforfunnoreally.dev/)
 * [2024-09-09, 17:01:04](https://lobste.rs/s/ihi2l4/nobody_cares_about_security) - [Nobody Cares About Security](https://www.adatosystems.com/2024/09/09/nobody-cares-about-security/)
 * [2024-09-09, 14:50:37](https://lobste.rs/s/xcrqir/redox_os_0_9_0) - [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
 * [2024-09-09, 14:50:00](https://lobste.rs/s/nkayil/random_access_string_compression_with) - [Random access string compression with FSST and Rust](https://blog.spiraldb.com/compressing-strings-with-fsst/)
