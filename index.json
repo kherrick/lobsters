@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-09-10, 19:38:49",
+      "https://lobste.rs/s/jhm2ip/how_i_review_github_prs"
+    ],
+    [
+      "How I Review GitHub PRs",
+      "https://www.bitquabit.com/post/how-i-do-github-prs/"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 19:36:08",
+      "https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source"
+    ],
+    [
+      "I Was Wrong About Open Source",
+      "https://yaak.app/blog/now-open-source"
+    ]
+  ],
+  [
+    [
+      "2024-09-10, 19:17:09",
+      "https://lobste.rs/s/0qwsbu/strtod_is_wild"
+    ],
+    [
+      "strtod Is Wild",
+      "https://festina-lente-productions.com/articles/strtod-is-wild/"
+    ]
+  ],
+  [
+    [
       "2024-09-10, 18:25:01",
       "https://lobste.rs/s/mmpnxg/simplicity_fractal"
     ],
@@ -37,16 +67,6 @@
     [
       "Responsible Monkeypatching in Ruby (2021)",
       "https://blog.appsignal.com/2021/08/24/responsible-monkeypatching-in-ruby.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 14:55:31",
-      "https://lobste.rs/s/lrjjsi/nsa_releases_internal_1982_lecture_by"
-    ],
-    [
-      "NSA Releases Internal 1982 Lecture by Computing Pioneer Rear Admiral Grace Hopper",
-      "https://www.youtube.com/watch?v=_bP14OzIJWI"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language",
       "https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 07:30:40",
-      "https://lobste.rs/s/kuhom9/make_your_own_read_only_device_with_netbsd"
-    ],
-    [
-      "Make Your Own Read-Only Device With NetBSD",
-      "https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Redox OS 0.9.0",
       "https://www.redox-os.org/news/release-0.9.0/"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 14:50:00",
-      "https://lobste.rs/s/nkayil/random_access_string_compression_with"
-    ],
-    [
-      "Random access string compression with FSST and Rust",
-      "https://blog.spiraldb.com/compressing-strings-with-fsst/"
     ]
   ],
   [
