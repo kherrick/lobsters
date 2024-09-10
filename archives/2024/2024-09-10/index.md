@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [2024-09-10, 12:16:48](https://lobste.rs/s/elwzpw/trenches_what_it_means_be_engineering) - [In the Trenches: What it Means to be an Engineering Manager](https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/)
 * [2024-09-10, 12:06:38](https://lobste.rs/s/bqosy1/our_rng_git_hash_bug) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 * [2024-09-10, 11:50:58](https://lobste.rs/s/sqkhnm/game_font_forensics) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
