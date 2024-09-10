@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-10, 09:21:21](https://lobste.rs/s/7mctvo/local_first_vector_database_with_rxdb) - [Local-First Vector Database with RxDB and transformers.js](https://rxdb.info/articles/javascript-vector-database.html)
 * [2024-09-10, 08:29:25](https://lobste.rs/s/wsabuf/critique_modern_sql_proposal_towards) - [A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language](https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf)
 * [2024-09-10, 07:21:19](https://lobste.rs/s/39oosh/linux_very_close_enabling_real_time) - [Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support](https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches)
 * [2024-09-10, 06:58:07](https://lobste.rs/s/helxxt/openssh_keystroke_obfuscation_bypass) - [OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
@@ -24,7 +25,6 @@
 * [2024-09-09, 09:46:06](https://lobste.rs/s/i2lr40/state_es5_on_web) - [The State of ES5 on the Web](https://philipwalton.com/articles/the-state-of-es5-on-the-web/)
 * [2024-09-09, 07:37:36](https://lobste.rs/s/lxpysg/reclaim_stack_heroku_replacement) - [Reclaim the stack: an Heroku replacement](https://reclaim-the-stack.com/)
 * [2024-09-09, 06:52:41](https://lobste.rs/s/ab9xte/quic_is_not_quick_enough_over_fast) - [QUIC is not Quick Enough over Fast Internet](https://dl.acm.org/doi/10.1145/3589334.3645323)
-* [2024-09-08, 14:48:11](https://lobste.rs/s/bcsiov/car_copy_on_write_archive) - [CAR: Copy-on-write Archive](https://github.com/teknoraver/car)
 
 ## [Archives](archives/index.md)
 

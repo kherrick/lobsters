@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 09:21:21](https://lobste.rs/s/7mctvo/local_first_vector_database_with_rxdb) - [Local-First Vector Database with RxDB and transformers.js](https://rxdb.info/articles/javascript-vector-database.html)
 * [2024-09-10, 08:29:25](https://lobste.rs/s/wsabuf/critique_modern_sql_proposal_towards) - [A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language](https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf)
 * [2024-09-10, 07:30:40](https://lobste.rs/s/kuhom9/make_your_own_read_only_device_with_netbsd) - [Make Your Own Read-Only Device With NetBSD](https://it-notes.dragas.net/2024/09/10/make-your-own-readonly-device-with-netbsd/)
 * [2024-09-10, 07:21:19](https://lobste.rs/s/39oosh/linux_very_close_enabling_real_time) - [Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support](https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches)
