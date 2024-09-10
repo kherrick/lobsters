@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
 * [2024-09-10, 15:35:52](https://lobste.rs/s/sskfvd/yaml_feature_extraction_with_yamlpath) - [YAML feature extraction with yamlpath](https://blog.yossarian.net/2024/09/10/YAML-feature-extraction-with-yamlpath)
+* [2024-09-10, 15:25:17](https://lobste.rs/s/1yfjfa/responsible_monkeypatching_ruby_2021) - [Responsible Monkeypatching in Ruby (2021)](https://blog.appsignal.com/2021/08/24/responsible-monkeypatching-in-ruby.html)
 * [2024-09-10, 14:55:31](https://lobste.rs/s/lrjjsi/nsa_releases_internal_1982_lecture_by) - [NSA Releases Internal 1982 Lecture by Computing Pioneer Rear Admiral Grace Hopper](https://www.youtube.com/watch?v=_bP14OzIJWI)
 * [2024-09-10, 13:58:02](https://lobste.rs/s/ykik7b/design_patterns_are_temporary_language) - [Design Patterns Are Temporary, Language Features Are Forever](https://ptrtojoel.dev/posts/design-patterns-are-temporary/)
 * [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
