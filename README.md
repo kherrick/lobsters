@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-10, 13:20:35](https://lobste.rs/s/zikzbv/debugging_multiverse) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
 * [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [2024-09-10, 12:16:48](https://lobste.rs/s/elwzpw/trenches_what_it_means_be_engineering) - [In the Trenches: What it Means to be an Engineering Manager](https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/)
 * [2024-09-10, 12:06:38](https://lobste.rs/s/bqosy1/our_rng_git_hash_bug) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
@@ -9,7 +10,6 @@
 * [2024-09-10, 07:21:19](https://lobste.rs/s/39oosh/linux_very_close_enabling_real_time) - [Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support](https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches)
 * [2024-09-10, 06:58:07](https://lobste.rs/s/helxxt/openssh_keystroke_obfuscation_bypass) - [OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
 * [2024-09-10, 02:38:36](https://lobste.rs/s/mwpxcm/signatures_are_like_backups) - [Signatures are like backups](https://alexgaynor.net/2024/sep/09/signatures-are-like-backups/)
-* [2024-09-10, 02:27:43](https://lobste.rs/s/7wlqyx/cryptographic_doom_principle) - [The Cryptographic Doom Principle](https://moxie.org/2011/12/13/the-cryptographic-doom-principle.html)
 * [2024-09-10, 02:04:48](https://lobste.rs/s/iwr32y/stacking_workflow) - [The stacking workflow](https://www.stacking.dev/)
 * [2024-09-09, 22:11:35](https://lobste.rs/s/4ar6eu/bending_zed_render_my_beautiful_fonts) - [Bending Zed to render my beautiful fonts with Nix](https://nazrin.limited/phame/live/1/post/1/bending_zed_to_render_my_beautiful_fonts_with_nix/)
 * [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
