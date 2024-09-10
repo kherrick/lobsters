@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-09-10, 12:16:48",
-      "https://lobste.rs/s/elwzpw/trenches_what_it_means_be_engineering"
-    ],
-    [
-      "In the Trenches: What it Means to be an Engineering Manager",
-      "https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/"
-    ]
-  ],
-  [
-    [
       "2024-09-10, 12:06:38",
       "https://lobste.rs/s/bqosy1/our_rng_git_hash_bug"
     ],
@@ -157,6 +147,16 @@
     [
       "Windows NT vs. Unix: A design comparison",
       "https://blogsystem5.substack.com/p/windows-nt-vs-unix-design"
+    ]
+  ],
+  [
+    [
+      "2024-09-09, 19:03:21",
+      "https://lobste.rs/s/qnh6jy/announcing_simkube_v1_0_record_replay"
+    ],
+    [
+      "Announcing simkube v1.0: Record-and-replay Kubernetes simulator",
+      "https://github.com/acrlabs/simkube"
     ]
   ],
   [
