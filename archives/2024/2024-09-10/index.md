@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 19:38:49](https://lobste.rs/s/jhm2ip/how_i_review_github_prs) - [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
+* [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
+* [2024-09-10, 19:17:09](https://lobste.rs/s/0qwsbu/strtod_is_wild) - [strtod Is Wild](https://festina-lente-productions.com/articles/strtod-is-wild/)
 * [2024-09-10, 18:25:01](https://lobste.rs/s/mmpnxg/simplicity_fractal) - [the simplicity of a fractal](https://explaining.software/archive/the-simplicity-of-a-fractal/)
 * [2024-09-10, 17:57:13](https://lobste.rs/s/5mw87g/pandoc_3_4_released) - [Pandoc 3.4 released](https://pandoc.org/releases.html#pandoc-3.4-2024-09-09)
 * [2024-09-10, 15:35:52](https://lobste.rs/s/sskfvd/yaml_feature_extraction_with_yamlpath) - [YAML feature extraction with yamlpath](https://blog.yossarian.net/2024/09/10/YAML-feature-extraction-with-yamlpath)
