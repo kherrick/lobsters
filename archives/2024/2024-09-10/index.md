@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 12:16:48](https://lobste.rs/s/elwzpw/trenches_what_it_means_be_engineering) - [In the Trenches: What it Means to be an Engineering Manager](https://blog.digital-horror.com/blog/in-the-trenches-what-it-means-to-be-an-engineering-manager/)
+* [2024-09-10, 12:06:38](https://lobste.rs/s/bqosy1/our_rng_git_hash_bug) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 * [2024-09-10, 11:50:58](https://lobste.rs/s/sqkhnm/game_font_forensics) - [Game Font Forensics](https://int10h.org/blog/2024/02/game-font-forensics/)
 * [2024-09-10, 09:21:21](https://lobste.rs/s/7mctvo/local_first_vector_database_with_rxdb) - [Local-First Vector Database with RxDB and transformers.js](https://rxdb.info/articles/javascript-vector-database.html)
 * [2024-09-10, 08:29:25](https://lobste.rs/s/wsabuf/critique_modern_sql_proposal_towards) - [A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language](https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf)
