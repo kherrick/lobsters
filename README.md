@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-10, 19:43:45](https://lobste.rs/s/fqnbz5/glasskube_is_gitops_ready_with_argocd) - [Glasskube is Gitops Ready with ArgoCD](https://glasskube.dev/blog/launch-week-number-2/#1-glasskube-is-gitops-ready-with-argocd)
 * [2024-09-10, 19:38:49](https://lobste.rs/s/jhm2ip/how_i_review_github_prs) - [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
 * [2024-09-10, 19:17:09](https://lobste.rs/s/0qwsbu/strtod_is_wild) - [strtod Is Wild](https://festina-lente-productions.com/articles/strtod-is-wild/)
 * [2024-09-10, 18:25:01](https://lobste.rs/s/mmpnxg/simplicity_fractal) - [the simplicity of a fractal](https://explaining.software/archive/the-simplicity-of-a-fractal/)
 * [2024-09-10, 17:57:13](https://lobste.rs/s/5mw87g/pandoc_3_4_released) - [Pandoc 3.4 released](https://pandoc.org/releases.html#pandoc-3.4-2024-09-09)
 * [2024-09-10, 15:35:52](https://lobste.rs/s/sskfvd/yaml_feature_extraction_with_yamlpath) - [YAML feature extraction with yamlpath](https://blog.yossarian.net/2024/09/10/YAML-feature-extraction-with-yamlpath)
-* [2024-09-10, 15:25:17](https://lobste.rs/s/1yfjfa/responsible_monkeypatching_ruby_2021) - [Responsible Monkeypatching in Ruby (2021)](https://blog.appsignal.com/2021/08/24/responsible-monkeypatching-in-ruby.html)
 * [2024-09-10, 13:58:02](https://lobste.rs/s/ykik7b/design_patterns_are_temporary_language) - [Design Patterns Are Temporary, Language Features Are Forever](https://ptrtojoel.dev/posts/design-patterns-are-temporary/)
 * [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
 * [2024-09-10, 13:20:35](https://lobste.rs/s/zikzbv/debugging_multiverse) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
