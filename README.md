@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-11, 10:38:23](https://lobste.rs/s/nvx2xb/devenv_1_1_nested_nix_outputs_using_module) - [devenv 1.1: Nested Nix outputs using the module system](https://devenv.sh/blog/2024/09/11/devenv-11-nested-nix-outputs-using-the-module-system/)
 * [2024-09-11, 10:16:01](https://lobste.rs/s/ox82jj/fascinating_diversion_into_compression) - [A Fascinating Diversion into Compression](https://github.com/frankmcsherry/blog/blob/master/posts/2024-09-10.md)
 * [2024-09-11, 09:45:24](https://lobste.rs/s/bzns0g/binsider_tui_for_analyzing_linux) - [Binsider - A TUI for analyzing Linux binaries](https://binsider.dev/)
 * [2024-09-11, 08:52:54](https://lobste.rs/s/mzqv3t/why_i_prefer_exceptions_error_values) - [Why I Prefer Exceptions to Error Values](https://cedardb.com/blog/exceptions_vs_errors/)
@@ -23,7 +24,6 @@
 * [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [2024-09-10, 12:06:38](https://lobste.rs/s/bqosy1/our_rng_git_hash_bug) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 * [2024-09-10, 08:29:25](https://lobste.rs/s/wsabuf/critique_modern_sql_proposal_towards) - [A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language](https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf)
-* [2024-09-10, 07:21:19](https://lobste.rs/s/39oosh/linux_very_close_enabling_real_time) - [Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support](https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches)
 * [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
 
 ## [Archives](archives/index.md)

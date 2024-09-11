@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 10:38:23](https://lobste.rs/s/nvx2xb/devenv_1_1_nested_nix_outputs_using_module) - [devenv 1.1: Nested Nix outputs using the module system](https://devenv.sh/blog/2024/09/11/devenv-11-nested-nix-outputs-using-the-module-system/)
 * [2024-09-11, 10:16:01](https://lobste.rs/s/ox82jj/fascinating_diversion_into_compression) - [A Fascinating Diversion into Compression](https://github.com/frankmcsherry/blog/blob/master/posts/2024-09-10.md)
 * [2024-09-11, 09:45:24](https://lobste.rs/s/bzns0g/binsider_tui_for_analyzing_linux) - [Binsider - A TUI for analyzing Linux binaries](https://binsider.dev/)
 * [2024-09-11, 08:52:54](https://lobste.rs/s/mzqv3t/why_i_prefer_exceptions_error_values) - [Why I Prefer Exceptions to Error Values](https://cedardb.com/blog/exceptions_vs_errors/)
