@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 22:21:44](https://lobste.rs/s/0sao77/reclaiming_sql_s_declarative_power) - [Reclaiming SQL’s Declarative Power](https://cedardb.com/blog/unnest_sql/)
 * [2024-09-11, 21:56:13](https://lobste.rs/s/sbolqy/creating_electromagnet_sound_wave) - [Creating an electromagnet and sound wave learning environment](https://justinmiller.io/posts/2024/09/11/catch-wave-overview/)
 * [2024-09-11, 20:49:46](https://lobste.rs/s/3okshe/spiffing_up_those_echo_messages) - [Spiffing up those echo messages](https://lmno.lol/alvaro/spiffing-up-those-echo-messages)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)

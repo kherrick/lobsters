@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-11, 22:21:44](https://lobste.rs/s/0sao77/reclaiming_sql_s_declarative_power) - [Reclaiming SQL’s Declarative Power](https://cedardb.com/blog/unnest_sql/)
 * [2024-09-11, 21:56:13](https://lobste.rs/s/sbolqy/creating_electromagnet_sound_wave) - [Creating an electromagnet and sound wave learning environment](https://justinmiller.io/posts/2024/09/11/catch-wave-overview/)
 * [2024-09-11, 20:49:46](https://lobste.rs/s/3okshe/spiffing_up_those_echo_messages) - [Spiffing up those echo messages](https://lmno.lol/alvaro/spiffing-up-those-echo-messages)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
@@ -23,7 +24,6 @@
 * [2024-09-10, 19:38:49](https://lobste.rs/s/jhm2ip/how_i_review_github_prs) - [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
 * [2024-09-10, 17:57:13](https://lobste.rs/s/5mw87g/pandoc_3_4_released) - [Pandoc 3.4 released](https://pandoc.org/releases.html#pandoc-3.4-2024-09-09)
-* [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
 * [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 
 ## [Archives](archives/index.md)
