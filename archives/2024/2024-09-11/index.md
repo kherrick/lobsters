@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 23:12:14](https://lobste.rs/s/d1ugzr/rp2350_brains_raspberry_pi_pico_2) - [RP2350, the brains of Raspberry Pi Pico 2](https://www.raspberrypi.com/news/rp2350-the-brains-of-raspberry-pi-pico-2/)
 * [2024-09-11, 22:21:44](https://lobste.rs/s/0sao77/reclaiming_sql_s_declarative_power) - [Reclaiming SQL’s Declarative Power](https://cedardb.com/blog/unnest_sql/)
 * [2024-09-11, 21:56:13](https://lobste.rs/s/sbolqy/creating_electromagnet_sound_wave) - [Creating an electromagnet and sound wave learning environment](https://justinmiller.io/posts/2024/09/11/catch-wave-overview/)
 * [2024-09-11, 20:49:46](https://lobste.rs/s/3okshe/spiffing_up_those_echo_messages) - [Spiffing up those echo messages](https://lmno.lol/alvaro/spiffing-up-those-echo-messages)
