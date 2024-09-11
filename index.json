@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-11, 10:16:01",
+      "https://lobste.rs/s/ox82jj/fascinating_diversion_into_compression"
+    ],
+    [
+      "A Fascinating Diversion into Compression",
+      "https://github.com/frankmcsherry/blog/blob/master/posts/2024-09-10.md"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 09:45:24",
       "https://lobste.rs/s/bzns0g/binsider_tui_for_analyzing_linux"
     ],
@@ -227,16 +237,6 @@
     [
       "Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support",
       "https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 06:58:07",
-      "https://lobste.rs/s/helxxt/openssh_keystroke_obfuscation_bypass"
-    ],
-    [
-      "OpenSSH Keystroke Obfuscation Bypass",
-      "https://crzphil.github.io/posts/ssh-obfuscation-bypass/"
     ]
   ],
   [
