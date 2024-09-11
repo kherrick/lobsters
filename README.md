@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-11, 12:09:58](https://lobste.rs/s/clcn6l/we_spent_20_achieve_rce_accidentally) - [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 10:38:23](https://lobste.rs/s/nvx2xb/devenv_1_1_nested_nix_outputs_using_module) - [devenv 1.1: Nested Nix outputs using the module system](https://devenv.sh/blog/2024/09/11/devenv-11-nested-nix-outputs-using-the-module-system/)
 * [2024-09-11, 10:16:01](https://lobste.rs/s/ox82jj/fascinating_diversion_into_compression) - [A Fascinating Diversion into Compression](https://github.com/frankmcsherry/blog/blob/master/posts/2024-09-10.md)
 * [2024-09-11, 09:45:24](https://lobste.rs/s/bzns0g/binsider_tui_for_analyzing_linux) - [Binsider - A TUI for analyzing Linux binaries](https://binsider.dev/)
@@ -20,7 +21,6 @@
 * [2024-09-10, 15:35:52](https://lobste.rs/s/sskfvd/yaml_feature_extraction_with_yamlpath) - [YAML feature extraction with yamlpath](https://blog.yossarian.net/2024/09/10/YAML-feature-extraction-with-yamlpath)
 * [2024-09-10, 13:58:02](https://lobste.rs/s/ykik7b/design_patterns_are_temporary_language) - [Design Patterns Are Temporary, Language Features Are Forever](https://ptrtojoel.dev/posts/design-patterns-are-temporary/)
 * [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
-* [2024-09-10, 13:20:35](https://lobste.rs/s/zikzbv/debugging_multiverse) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
 * [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 * [2024-09-10, 12:06:38](https://lobste.rs/s/bqosy1/our_rng_git_hash_bug) - [Our RNG Git Hash Bug](https://tmendez.dev/posts/rng-git-hash-bug/)
 * [2024-09-10, 08:29:25](https://lobste.rs/s/wsabuf/critique_modern_sql_proposal_towards) - [A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language](https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf)
