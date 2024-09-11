@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-11, 21:56:13](https://lobste.rs/s/sbolqy/creating_electromagnet_sound_wave) - [Creating an electromagnet and sound wave learning environment](https://justinmiller.io/posts/2024/09/11/catch-wave-overview/)
 * [2024-09-11, 20:49:46](https://lobste.rs/s/3okshe/spiffing_up_those_echo_messages) - [Spiffing up those echo messages](https://lmno.lol/alvaro/spiffing-up-those-echo-messages)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
-* [2024-09-11, 17:58:19](https://lobste.rs/s/la47u9/print_this_file_your_printer_will_jam_2008) - [Print this file, your printer will jam (2008)](https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html)
 * [2024-09-11, 15:51:42](https://lobste.rs/s/cvmxjy/2024_0_5_global_top_200_websites_use_valid) - [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 * [2024-09-11, 14:22:27](https://lobste.rs/s/zxiui9/state_full_stack_ocaml) - [The State of Full-Stack OCaml](https://youtu.be/vSSpbAI_-t0)
