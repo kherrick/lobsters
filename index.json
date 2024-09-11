@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-09-11, 22:21:44",
-      "https://lobste.rs/s/0sao77/reclaiming_sql_s_declarative_power"
+      "2024-09-11, 23:12:14",
+      "https://lobste.rs/s/d1ugzr/rp2350_brains_raspberry_pi_pico_2"
     ],
     [
-      "Reclaiming SQL’s Declarative Power",
-      "https://cedardb.com/blog/unnest_sql/"
+      "RP2350, the brains of Raspberry Pi Pico 2",
+      "https://www.raspberrypi.com/news/rp2350-the-brains-of-raspberry-pi-pico-2/"
     ]
   ],
   [
@@ -37,6 +37,16 @@
     [
       "Proposal for Emoji: Eye Bags Face",
       "https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-09-11, 17:58:19",
+      "https://lobste.rs/s/la47u9/print_this_file_your_printer_will_jam_2008"
+    ],
+    [
+      "Print this file, your printer will jam (2008)",
+      "https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Big Datatype: why code tools like to be written with fancy types",
       "https://twitchard.github.io/posts/2024-09-10-big-datatype.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 12:41:02",
-      "https://lobste.rs/s/p5ygcd/react_lucy_state_experimental"
-    ],
-    [
-      "React-Lucy-State — experimental JavaScript library to replace React.useState",
-      "https://github.com/Bloomca/react-lucy-state"
     ]
   ],
   [
