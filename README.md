@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 * [2024-09-11, 14:26:28](https://lobste.rs/s/ctgjfw/starting_care_about_security) - [Starting to Care About Security](https://www.adatosystems.com/2024/09/11/starting-to-care-about-security/)
 * [2024-09-11, 14:22:27](https://lobste.rs/s/zxiui9/state_full_stack_ocaml) - [The State of Full-Stack OCaml](https://youtu.be/vSSpbAI_-t0)
 * [2024-09-11, 14:12:52](https://lobste.rs/s/1ggehp/building_browser_using_servo_as_web) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
@@ -24,7 +25,6 @@
 * [2024-09-10, 13:58:02](https://lobste.rs/s/ykik7b/design_patterns_are_temporary_language) - [Design Patterns Are Temporary, Language Features Are Forever](https://ptrtojoel.dev/posts/design-patterns-are-temporary/)
 * [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
 * [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
-* [2024-09-10, 08:29:25](https://lobste.rs/s/wsabuf/critique_modern_sql_proposal_towards) - [A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language](https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf)
 
 ## [Archives](archives/index.md)
 

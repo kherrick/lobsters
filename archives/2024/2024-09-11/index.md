@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 * [2024-09-11, 14:26:28](https://lobste.rs/s/ctgjfw/starting_care_about_security) - [Starting to Care About Security](https://www.adatosystems.com/2024/09/11/starting-to-care-about-security/)
 * [2024-09-11, 14:22:27](https://lobste.rs/s/zxiui9/state_full_stack_ocaml) - [The State of Full-Stack OCaml](https://youtu.be/vSSpbAI_-t0)
 * [2024-09-11, 14:12:52](https://lobste.rs/s/1ggehp/building_browser_using_servo_as_web) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
