@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-11, 08:52:54](https://lobste.rs/s/mzqv3t/why_i_prefer_exceptions_error_values) - [Why I Prefer Exceptions to Error Values](https://cedardb.com/blog/exceptions_vs_errors/)
+* [2024-09-11, 08:39:42](https://lobste.rs/s/bm8wx3/modern_cli_renaissance) - [The modern CLI renaissance](https://gabevenberg.com/posts/cli-renaissance/)
 * [2024-09-11, 06:29:33](https://lobste.rs/s/tt81pb/why_not_comments) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-11, 02:18:42](https://lobste.rs/s/q6xgkh/how_monetize_blog) - [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
 * [2024-09-11, 00:16:12](https://lobste.rs/s/rh6qej/nestedtext_human_friendly_data_format) - [NestedText — A Human Friendly Data Format](https://nestedtext.org/en/latest/)
@@ -23,7 +24,6 @@
 * [2024-09-10, 07:21:19](https://lobste.rs/s/39oosh/linux_very_close_enabling_real_time) - [Linux Very Close To Enabling Real-Time \"PREEMPT_RT\" Support](https://www.phoronix.com/news/Linux-PREEMPT_RT-Close-Patches)
 * [2024-09-10, 06:58:07](https://lobste.rs/s/helxxt/openssh_keystroke_obfuscation_bypass) - [OpenSSH Keystroke Obfuscation Bypass](https://crzphil.github.io/posts/ssh-obfuscation-bypass/)
 * [2024-09-09, 20:03:40](https://lobste.rs/s/ixb3v7/nix_2_24_is_vulnerable_remote_privilege) - [Nix 2.24+ is vulnerable to (remote) privilege escalation](https://puckipedia.com/7hkj-98sq/qixt)
-* [2024-09-09, 14:50:37](https://lobste.rs/s/xcrqir/redox_os_0_9_0) - [Redox OS 0.9.0](https://www.redox-os.org/news/release-0.9.0/)
 * [2024-09-09, 13:35:12](https://lobste.rs/s/zbx4cu/what_is_best_pointer_tagging_method) - [What is the best pointer tagging method?](https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/)
 
 ## [Archives](archives/index.md)
