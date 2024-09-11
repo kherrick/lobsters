@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-11, 06:29:33](https://lobste.rs/s/tt81pb/why_not_comments) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-11, 02:18:42](https://lobste.rs/s/q6xgkh/how_monetize_blog) - [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
 * [2024-09-11, 00:16:12](https://lobste.rs/s/rh6qej/nestedtext_human_friendly_data_format) - [NestedText — A Human Friendly Data Format](https://nestedtext.org/en/latest/)
 * [2024-09-10, 22:03:34](https://lobste.rs/s/j3zdmx/my_homelab_setup) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
@@ -13,7 +14,6 @@
 * [2024-09-10, 18:25:01](https://lobste.rs/s/mmpnxg/simplicity_fractal) - [the simplicity of a fractal](https://explaining.software/archive/the-simplicity-of-a-fractal/)
 * [2024-09-10, 17:57:13](https://lobste.rs/s/5mw87g/pandoc_3_4_released) - [Pandoc 3.4 released](https://pandoc.org/releases.html#pandoc-3.4-2024-09-09)
 * [2024-09-10, 15:35:52](https://lobste.rs/s/sskfvd/yaml_feature_extraction_with_yamlpath) - [YAML feature extraction with yamlpath](https://blog.yossarian.net/2024/09/10/YAML-feature-extraction-with-yamlpath)
-* [2024-09-10, 15:25:17](https://lobste.rs/s/1yfjfa/responsible_monkeypatching_ruby_2021) - [Responsible Monkeypatching in Ruby (2021)](https://blog.appsignal.com/2021/08/24/responsible-monkeypatching-in-ruby.html)
 * [2024-09-10, 13:58:02](https://lobste.rs/s/ykik7b/design_patterns_are_temporary_language) - [Design Patterns Are Temporary, Language Features Are Forever](https://ptrtojoel.dev/posts/design-patterns-are-temporary/)
 * [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
 * [2024-09-10, 13:20:35](https://lobste.rs/s/zikzbv/debugging_multiverse) - [Debugging in the Multiverse](https://antithesis.com/blog/multiverse_debugging/)
