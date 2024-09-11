@@ -7,6 +7,7 @@
 * [2024-09-10, 20:58:01](https://lobste.rs/s/uooaw4/email_is_authentication_pattern) - [The “email is authentication” pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
 * [2024-09-10, 20:27:54](https://lobste.rs/s/tntsjc/why_some_us_like_interdiff_code_review) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 19:43:45](https://lobste.rs/s/fqnbz5/glasskube_is_gitops_ready_with_argocd) - [Glasskube is Gitops Ready with ArgoCD](https://glasskube.dev/blog/launch-week-number-2/#1-glasskube-is-gitops-ready-with-argocd)
+* [2024-09-10, 19:40:55](https://lobste.rs/s/fw5g5m/good_day_trie_hard_saving_compute_1_at_time) - [A good day to trie-hard: saving compute 1% at a time](https://blog.cloudflare.com/pingora-saving-compute-1-percent-at-a-time/)
 * [2024-09-10, 19:38:49](https://lobste.rs/s/jhm2ip/how_i_review_github_prs) - [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
 * [2024-09-10, 19:17:09](https://lobste.rs/s/0qwsbu/strtod_is_wild) - [strtod Is Wild](https://festina-lente-productions.com/articles/strtod-is-wild/)
