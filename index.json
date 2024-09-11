@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-11, 09:45:24",
+      "https://lobste.rs/s/bzns0g/binsider_tui_for_analyzing_linux"
+    ],
+    [
+      "Binsider - A TUI for analyzing Linux binaries",
+      "https://binsider.dev/"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 08:52:54",
       "https://lobste.rs/s/mzqv3t/why_i_prefer_exceptions_error_values"
     ],
@@ -237,16 +247,6 @@
     [
       "Nix 2.24+ is vulnerable to (remote) privilege escalation",
       "https://puckipedia.com/7hkj-98sq/qixt"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 13:35:12",
-      "https://lobste.rs/s/zbx4cu/what_is_best_pointer_tagging_method"
-    ],
-    [
-      "What is the best pointer tagging method?",
-      "https://coredumped.dev/2024/09/09/what-is-the-best-pointer-tagging-method/"
     ]
   ]
 ]
