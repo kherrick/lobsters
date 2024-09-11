@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-11, 02:18:42",
+      "https://lobste.rs/s/q6xgkh/how_monetize_blog"
+    ],
+    [
+      "How to Monetize a Blog",
+      "https://modem.io/blog/blog-monetization/"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 00:16:12",
       "https://lobste.rs/s/rh6qej/nestedtext_human_friendly_data_format"
     ],
@@ -207,16 +217,6 @@
     [
       "OpenSSH Keystroke Obfuscation Bypass",
       "https://crzphil.github.io/posts/ssh-obfuscation-bypass/"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 22:11:35",
-      "https://lobste.rs/s/4ar6eu/bending_zed_render_my_beautiful_fonts"
-    ],
-    [
-      "Bending Zed to render my beautiful fonts with Nix",
-      "https://nazrin.limited/phame/live/1/post/1/bending_zed_to_render_my_beautiful_fonts_with_nix/"
     ]
   ],
   [
