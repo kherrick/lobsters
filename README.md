@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
+* [2024-09-11, 17:58:19](https://lobste.rs/s/la47u9/print_this_file_your_printer_will_jam_2008) - [Print this file, your printer will jam (2008)](https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html)
 * [2024-09-11, 16:18:30](https://lobste.rs/s/chxpgd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 1](https://jnsgr.uk/2024/09/pytouchlinesl/)
 * [2024-09-11, 15:51:42](https://lobste.rs/s/cvmxjy/2024_0_5_global_top_200_websites_use_valid) - [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
@@ -21,7 +22,6 @@
 * [2024-09-10, 20:27:54](https://lobste.rs/s/tntsjc/why_some_us_like_interdiff_code_review) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 19:38:49](https://lobste.rs/s/jhm2ip/how_i_review_github_prs) - [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
-* [2024-09-10, 19:17:09](https://lobste.rs/s/0qwsbu/strtod_is_wild) - [strtod Is Wild](https://festina-lente-productions.com/articles/strtod-is-wild/)
 * [2024-09-10, 17:57:13](https://lobste.rs/s/5mw87g/pandoc_3_4_released) - [Pandoc 3.4 released](https://pandoc.org/releases.html#pandoc-3.4-2024-09-09)
 * [2024-09-10, 13:36:03](https://lobste.rs/s/sxcefm/invisible_salamanders_are_not_what_you) - [Invisible Salamanders Are Not What You Think](https://soatok.blog/2024/09/10/invisible-salamanders-are-not-what-you-think/)
 * [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
