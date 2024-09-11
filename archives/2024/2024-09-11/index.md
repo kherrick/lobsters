@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 14:26:28](https://lobste.rs/s/ctgjfw/starting_care_about_security) - [Starting to Care About Security](https://www.adatosystems.com/2024/09/11/starting-to-care-about-security/)
+* [2024-09-11, 14:22:27](https://lobste.rs/s/zxiui9/state_full_stack_ocaml) - [The State of Full-Stack OCaml](https://youtu.be/vSSpbAI_-t0)
+* [2024-09-11, 14:12:52](https://lobste.rs/s/1ggehp/building_browser_using_servo_as_web) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 * [2024-09-11, 13:24:37](https://lobste.rs/s/zuavvm/big_datatype_why_code_tools_like_be) - [Big Datatype: why code tools like to be written with fancy types](https://twitchard.github.io/posts/2024-09-10-big-datatype.html)
 * [2024-09-11, 12:41:02](https://lobste.rs/s/p5ygcd/react_lucy_state_experimental) - [React-Lucy-State — experimental JavaScript library to replace React.useState](https://github.com/Bloomca/react-lucy-state)
 * [2024-09-11, 12:09:58](https://lobste.rs/s/clcn6l/we_spent_20_achieve_rce_accidentally) - [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
