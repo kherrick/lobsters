@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-11, 08:39:42",
+      "https://lobste.rs/s/bm8wx3/modern_cli_renaissance"
+    ],
+    [
+      "The modern CLI renaissance",
+      "https://gabevenberg.com/posts/cli-renaissance/"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 06:29:33",
       "https://lobste.rs/s/tt81pb/why_not_comments"
     ],
@@ -227,16 +237,6 @@
     [
       "Nix 2.24+ is vulnerable to (remote) privilege escalation",
       "https://puckipedia.com/7hkj-98sq/qixt"
-    ]
-  ],
-  [
-    [
-      "2024-09-09, 14:50:37",
-      "https://lobste.rs/s/xcrqir/redox_os_0_9_0"
-    ],
-    [
-      "Redox OS 0.9.0",
-      "https://www.redox-os.org/news/release-0.9.0/"
     ]
   ],
   [
