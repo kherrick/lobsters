@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 20:49:46](https://lobste.rs/s/3okshe/spiffing_up_those_echo_messages) - [Spiffing up those echo messages](https://lmno.lol/alvaro/spiffing-up-those-echo-messages)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
 * [2024-09-11, 17:58:19](https://lobste.rs/s/la47u9/print_this_file_your_printer_will_jam_2008) - [Print this file, your printer will jam (2008)](https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html)
 * [2024-09-11, 16:18:30](https://lobste.rs/s/chxpgd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 1](https://jnsgr.uk/2024/09/pytouchlinesl/)
