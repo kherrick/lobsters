@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-11, 15:19:45",
+      "https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors"
+    ],
+    [
+      "The First HTML LSP That Reports Syntax Errors",
+      "https://kristoff.it/blog/first-html-lsp/"
+    ]
+  ],
+  [
+    [
       "2024-09-11, 14:26:28",
       "https://lobste.rs/s/ctgjfw/starting_care_about_security"
     ],
@@ -237,16 +247,6 @@
     [
       "Radicle 1.0",
       "https://radicle.xyz/2024/09/10/radicle-1.0.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-10, 08:29:25",
-      "https://lobste.rs/s/wsabuf/critique_modern_sql_proposal_towards"
-    ],
-    [
-      "A Critique of Modern SQL And A Proposal Towards A Simple and Expressive Query Language",
-      "https://www.cidrdb.org/cidr2024/papers/p48-neumann.pdf"
     ]
   ]
 ]
