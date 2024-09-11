@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
 * [2024-09-11, 16:18:30](https://lobste.rs/s/chxpgd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 1](https://jnsgr.uk/2024/09/pytouchlinesl/)
 * [2024-09-11, 15:51:42](https://lobste.rs/s/cvmxjy/2024_0_5_global_top_200_websites_use_valid) - [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
-* [2024-09-11, 14:26:28](https://lobste.rs/s/ctgjfw/starting_care_about_security) - [Starting to Care About Security](https://www.adatosystems.com/2024/09/11/starting-to-care-about-security/)
 * [2024-09-11, 14:22:27](https://lobste.rs/s/zxiui9/state_full_stack_ocaml) - [The State of Full-Stack OCaml](https://youtu.be/vSSpbAI_-t0)
 * [2024-09-11, 14:12:52](https://lobste.rs/s/1ggehp/building_browser_using_servo_as_web) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 * [2024-09-11, 13:24:37](https://lobste.rs/s/zuavvm/big_datatype_why_code_tools_like_be) - [Big Datatype: why code tools like to be written with fancy types](https://twitchard.github.io/posts/2024-09-10-big-datatype.html)

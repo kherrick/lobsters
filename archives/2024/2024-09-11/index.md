@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-11](index.md)
 
+* [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
 * [2024-09-11, 16:18:30](https://lobste.rs/s/chxpgd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 1](https://jnsgr.uk/2024/09/pytouchlinesl/)
 * [2024-09-11, 15:51:42](https://lobste.rs/s/cvmxjy/2024_0_5_global_top_200_websites_use_valid) - [2024: 0.5% of the Global Top 200 Websites Use Valid HTML](https://meiert.com/en/blog/html-conformance-2024/)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
