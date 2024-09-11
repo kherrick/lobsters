@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-10](index.md)
 
+* [2024-09-10, 22:03:34](https://lobste.rs/s/j3zdmx/my_homelab_setup) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 * [2024-09-10, 20:58:01](https://lobste.rs/s/uooaw4/email_is_authentication_pattern) - [The “email is authentication” pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
 * [2024-09-10, 20:27:54](https://lobste.rs/s/tntsjc/why_some_us_like_interdiff_code_review) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 19:43:45](https://lobste.rs/s/fqnbz5/glasskube_is_gitops_ready_with_argocd) - [Glasskube is Gitops Ready with ArgoCD](https://glasskube.dev/blog/launch-week-number-2/#1-glasskube-is-gitops-ready-with-argocd)
