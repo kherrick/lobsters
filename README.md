@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 06:10:27](https://lobste.rs/s/bhtzbr/how_i_behave) - [How I behave](http://blog.syncpup.com/posts/how-i-behave.html)
 * [2024-09-12, 04:08:01](https://lobste.rs/s/pqnhz4/postgres_indexes_partitioning_lwlock) - [Postgres Indexes, Partitioning and LWLock:LockManager Scalability](https://ardentperf.com/2024/03/03/postgres-indexes-partitioning-and-lwlocklockmanager-scalability/)
 * [2024-09-12, 02:04:10](https://lobste.rs/s/my2xwa/gofetch_will_people_ever_learn) - [GoFetch: Will people ever learn?](https://microkerneldude.org/2024/04/18/gofetch-will-people-ever-learn/)
 * [2024-09-11, 22:21:44](https://lobste.rs/s/0sao77/reclaiming_sql_s_declarative_power) - [Reclaiming SQL’s Declarative Power](https://cedardb.com/blog/unnest_sql/)
@@ -18,7 +19,6 @@
 * [2024-09-11, 06:29:33](https://lobste.rs/s/tt81pb/why_not_comments) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-11, 02:18:42](https://lobste.rs/s/q6xgkh/how_monetize_blog) - [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
 * [2024-09-11, 00:16:12](https://lobste.rs/s/rh6qej/nestedtext_human_friendly_data_format) - [NestedText — A Human Friendly Data Format](https://nestedtext.org/en/latest/)
-* [2024-09-10, 22:03:34](https://lobste.rs/s/j3zdmx/my_homelab_setup) - [My Homelab Setup](https://arslan.io/2024/09/10/my-homelab-setup/)
 * [2024-09-10, 20:58:01](https://lobste.rs/s/uooaw4/email_is_authentication_pattern) - [The “email is authentication” pattern](https://rubenerd.com/the-email-is-authentication-pattern/)
 * [2024-09-10, 20:27:54](https://lobste.rs/s/tntsjc/why_some_us_like_interdiff_code_review) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 19:38:49](https://lobste.rs/s/jhm2ip/how_i_review_github_prs) - [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
