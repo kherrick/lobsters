@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 15:30:55](https://lobste.rs/s/z8d3ab/how_optimize_boot_time_user_space_on) - [How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt](https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4)
+* [2024-09-12, 15:26:21](https://lobste.rs/s/ydri8p/converting_app_from_obj_c) - [Converting an App from Obj-C](https://troz.net/post/2024/app_conversion/)
 * [2024-09-12, 15:16:21](https://lobste.rs/s/utftll/fediverse_discovery_providers) - [Fediverse Discovery Providers](https://www.fediscovery.org/)
 * [2024-09-12, 15:14:01](https://lobste.rs/s/wzo0bw/critical_resources_first_14_kb_2022) - [Critical Resources and the First 14 KB (2022)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
 * [2024-09-12, 15:12:09](https://lobste.rs/s/v35mxf/vulnerability_disclosure_feeld_dating) - [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
