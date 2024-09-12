@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-12, 22:36:46",
+      "https://lobste.rs/s/5qtfpc/remix_s_concurrent_submissions_are"
+    ],
+    [
+      "Remix's concurrent submissions are fundamentally flawed (without causal ordering) - Dashbit Blog",
+      "https://dashbit.co/blog/remix-concurrent-submissions-flawed"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 21:51:53",
       "https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell"
     ],
@@ -197,16 +207,6 @@
     [
       "Proposal for Emoji: Eye Bags Face",
       "https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 17:58:19",
-      "https://lobste.rs/s/la47u9/print_this_file_your_printer_will_jam_2008"
-    ],
-    [
-      "Print this file, your printer will jam (2008)",
-      "https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html"
     ]
   ],
   [
