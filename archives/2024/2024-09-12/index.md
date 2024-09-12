@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 15:16:21](https://lobste.rs/s/utftll/fediverse_discovery_providers) - [Fediverse Discovery Providers](https://www.fediscovery.org/)
+* [2024-09-12, 15:14:01](https://lobste.rs/s/wzo0bw/critical_resources_first_14_kb_2022) - [Critical Resources and the First 14 KB (2022)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
+* [2024-09-12, 15:12:09](https://lobste.rs/s/v35mxf/vulnerability_disclosure_feeld_dating) - [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
 * [2024-09-12, 14:56:23](https://lobste.rs/s/9m59pe/what_s_e_graph) - [What’s in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
 * [2024-09-12, 14:40:42](https://lobste.rs/s/kte88x/ergo_erlang_inspired_event_driven_actor) - [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
 * [2024-09-12, 13:38:38](https://lobste.rs/s/ayubdj/ripe_atlas_probes_world_s_largest) - [RIPE Atlas probes, the world's largest Internet monitoring system](https://www.afnic.fr/en/observatory-and-resources/expert-papers/ripe-atlas-probes-the-worlds-largest-internet-monitoring-system/)
