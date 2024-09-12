@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-12, 21:51:53",
+      "https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell"
+    ],
+    [
+      "Reasons I still love the fish shell",
+      "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 21:04:28",
       "https://lobste.rs/s/ac85sj/performance_improvements_net_9"
     ],
@@ -27,16 +37,6 @@
     [
       "Factor 0.100 now available",
       "https://re.factorcode.org/2024/09/factor-0-100-now-available.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 20:21:01",
-      "https://lobste.rs/s/vq4eni/ruffle_optimisations_text_input_tab"
-    ],
-    [
-      "Ruffle: Optimisations, Text Input, Tab Focusing and More",
-      "https://ruffle.rs/blog/2024/09/12/optimisations-text-more"
     ]
   ],
   [
