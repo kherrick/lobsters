@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-12, 20:21:01](https://lobste.rs/s/vq4eni/ruffle_optimisations_text_input_tab) - [Ruffle: Optimisations, Text Input, Tab Focusing and More](https://ruffle.rs/blog/2024/09/12/optimisations-text-more)
 * [2024-09-12, 19:32:53](https://lobste.rs/s/tqdffk/optimizing_rav1d_av1_decoder_rust) - [Optimizing rav1d, an AV1 Decoder in Rust](https://www.memorysafety.org/blog/rav1d-performance-optimization/)
 * [2024-09-12, 19:22:17](https://lobste.rs/s/sktjxk/openai_o1_model) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
