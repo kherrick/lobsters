@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-12, 15:30:55",
+      "https://lobste.rs/s/z8d3ab/how_optimize_boot_time_user_space_on"
+    ],
+    [
+      "How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt",
+      "https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4"
+    ]
+  ],
+  [
+    [
+      "2024-09-12, 15:26:21",
+      "https://lobste.rs/s/ydri8p/converting_app_from_obj_c"
+    ],
+    [
+      "Converting an App from Obj-C",
+      "https://troz.net/post/2024/app_conversion/"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 15:16:21",
       "https://lobste.rs/s/utftll/fediverse_discovery_providers"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-09-12, 04:08:01",
-      "https://lobste.rs/s/pqnhz4/postgres_indexes_partitioning_lwlock"
-    ],
-    [
-      "Postgres Indexes, Partitioning and LWLock:LockManager Scalability",
-      "https://ardentperf.com/2024/03/03/postgres-indexes-partitioning-and-lwlocklockmanager-scalability/"
-    ]
-  ],
-  [
-    [
       "2024-09-12, 02:04:10",
       "https://lobste.rs/s/my2xwa/gofetch_will_people_ever_learn"
     ],
@@ -187,16 +197,6 @@
     [
       "Building a browser using Servo as a web engine",
       "https://servo.org/blog/2024/09/11/building-browser/"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 13:24:37",
-      "https://lobste.rs/s/zuavvm/big_datatype_why_code_tools_like_be"
-    ],
-    [
-      "Big Datatype: why code tools like to be written with fancy types",
-      "https://twitchard.github.io/posts/2024-09-10-big-datatype.html"
     ]
   ],
   [
