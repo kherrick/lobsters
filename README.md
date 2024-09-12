@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 20:54:47](https://lobste.rs/s/nwof4o/conditionally_disabling_code_with) - [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-12, 20:21:01](https://lobste.rs/s/vq4eni/ruffle_optimisations_text_input_tab) - [Ruffle: Optimisations, Text Input, Tab Focusing and More](https://ruffle.rs/blog/2024/09/12/optimisations-text-more)
 * [2024-09-12, 19:32:53](https://lobste.rs/s/tqdffk/optimizing_rav1d_av1_decoder_rust) - [Optimizing rav1d, an AV1 Decoder in Rust](https://www.memorysafety.org/blog/rav1d-performance-optimization/)
@@ -22,7 +23,6 @@
 * [2024-09-11, 17:58:19](https://lobste.rs/s/la47u9/print_this_file_your_printer_will_jam_2008) - [Print this file, your printer will jam (2008)](https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 * [2024-09-11, 14:22:27](https://lobste.rs/s/zxiui9/state_full_stack_ocaml) - [The State of Full-Stack OCaml](https://youtu.be/vSSpbAI_-t0)
-* [2024-09-11, 14:12:52](https://lobste.rs/s/1ggehp/building_browser_using_servo_as_web) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 * [2024-09-11, 12:09:58](https://lobste.rs/s/clcn6l/we_spent_20_achieve_rce_accidentally) - [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
 
