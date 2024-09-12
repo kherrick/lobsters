@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 17:52:05](https://lobste.rs/s/k8yndu/avoid_this_bug_with_numeric_environment) - [Avoid this Bug with Numeric Environment Variables in Ruby](https://danielabaron.me/blog/numeric-env-vars-ruby/)
 * [2024-09-12, 15:30:55](https://lobste.rs/s/z8d3ab/how_optimize_boot_time_user_space_on) - [How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt](https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4)
 * [2024-09-12, 15:26:21](https://lobste.rs/s/ydri8p/converting_app_from_obj_c) - [Converting an App from Obj-C](https://troz.net/post/2024/app_conversion/)
 * [2024-09-12, 15:16:21](https://lobste.rs/s/utftll/fediverse_discovery_providers) - [Fediverse Discovery Providers](https://www.fediscovery.org/)

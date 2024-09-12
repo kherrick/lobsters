@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 17:52:05](https://lobste.rs/s/k8yndu/avoid_this_bug_with_numeric_environment) - [Avoid this Bug with Numeric Environment Variables in Ruby](https://danielabaron.me/blog/numeric-env-vars-ruby/)
 * [2024-09-12, 15:30:55](https://lobste.rs/s/z8d3ab/how_optimize_boot_time_user_space_on) - [How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt](https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4)
 * [2024-09-12, 15:26:21](https://lobste.rs/s/ydri8p/converting_app_from_obj_c) - [Converting an App from Obj-C](https://troz.net/post/2024/app_conversion/)
 * [2024-09-12, 15:16:21](https://lobste.rs/s/utftll/fediverse_discovery_providers) - [Fediverse Discovery Providers](https://www.fediscovery.org/)
@@ -23,7 +24,6 @@
 * [2024-09-11, 12:09:58](https://lobste.rs/s/clcn6l/we_spent_20_achieve_rce_accidentally) - [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 * [2024-09-11, 09:45:24](https://lobste.rs/s/bzns0g/binsider_tui_for_analyzing_linux) - [Binsider - A TUI for analyzing Linux binaries](https://binsider.dev/)
 * [2024-09-11, 08:52:54](https://lobste.rs/s/mzqv3t/why_i_prefer_exceptions_error_values) - [Why I Prefer Exceptions to Error Values](https://cedardb.com/blog/exceptions_vs_errors/)
-* [2024-09-10, 20:27:54](https://lobste.rs/s/tntsjc/why_some_us_like_interdiff_code_review) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
 
 ## [Archives](archives/index.md)
