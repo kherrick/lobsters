@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 02:04:10](https://lobste.rs/s/my2xwa/gofetch_will_people_ever_learn) - [GoFetch: Will people ever learn?](https://microkerneldude.org/2024/04/18/gofetch-will-people-ever-learn/)
 * [2024-09-11, 22:21:44](https://lobste.rs/s/0sao77/reclaiming_sql_s_declarative_power) - [Reclaiming SQL’s Declarative Power](https://cedardb.com/blog/unnest_sql/)
 * [2024-09-11, 21:56:13](https://lobste.rs/s/sbolqy/creating_electromagnet_sound_wave) - [Creating an electromagnet and sound wave learning environment](https://justinmiller.io/posts/2024/09/11/catch-wave-overview/)
 * [2024-09-11, 20:49:46](https://lobste.rs/s/3okshe/spiffing_up_those_echo_messages) - [Spiffing up those echo messages](https://lmno.lol/alvaro/spiffing-up-those-echo-messages)
@@ -14,7 +15,6 @@
 * [2024-09-11, 10:16:01](https://lobste.rs/s/ox82jj/fascinating_diversion_into_compression) - [A Fascinating Diversion into Compression](https://github.com/frankmcsherry/blog/blob/master/posts/2024-09-10.md)
 * [2024-09-11, 09:45:24](https://lobste.rs/s/bzns0g/binsider_tui_for_analyzing_linux) - [Binsider - A TUI for analyzing Linux binaries](https://binsider.dev/)
 * [2024-09-11, 08:52:54](https://lobste.rs/s/mzqv3t/why_i_prefer_exceptions_error_values) - [Why I Prefer Exceptions to Error Values](https://cedardb.com/blog/exceptions_vs_errors/)
-* [2024-09-11, 08:39:42](https://lobste.rs/s/bm8wx3/modern_cli_renaissance) - [The modern CLI renaissance](https://gabevenberg.com/posts/cli-renaissance/)
 * [2024-09-11, 06:29:33](https://lobste.rs/s/tt81pb/why_not_comments) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-11, 02:18:42](https://lobste.rs/s/q6xgkh/how_monetize_blog) - [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
 * [2024-09-11, 00:16:12](https://lobste.rs/s/rh6qej/nestedtext_human_friendly_data_format) - [NestedText — A Human Friendly Data Format](https://nestedtext.org/en/latest/)
