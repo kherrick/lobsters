@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-12, 13:38:38",
+      "https://lobste.rs/s/ayubdj/ripe_atlas_probes_world_s_largest"
+    ],
+    [
+      "RIPE Atlas probes, the world's largest Internet monitoring system",
+      "https://www.afnic.fr/en/observatory-and-resources/expert-papers/ripe-atlas-probes-the-worlds-largest-internet-monitoring-system/"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 10:06:27",
       "https://lobste.rs/s/tca5ps/porting_c_rust_for_fast_safe_av1_media"
     ],
@@ -27,16 +37,6 @@
     [
       "Always support compressed response in an API service",
       "http://ashishb.net/all/always-support-compressed-response-in-an-api-service/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 07:14:02",
-      "https://lobste.rs/s/bs6lr5/being_our_own_worst_customer"
-    ],
-    [
-      "Being our own worst customer (deterministic simulation testing)",
-      "https://www.youtube.com/watch?v=whqMdAD5JTc"
     ]
   ],
   [
