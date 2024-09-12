@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 21:04:28](https://lobste.rs/s/ac85sj/performance_improvements_net_9) - [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
 * [2024-09-12, 20:54:47](https://lobste.rs/s/nwof4o/conditionally_disabling_code_with) - [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-12, 20:21:01](https://lobste.rs/s/vq4eni/ruffle_optimisations_text_input_tab) - [Ruffle: Optimisations, Text Input, Tab Focusing and More](https://ruffle.rs/blog/2024/09/12/optimisations-text-more)
@@ -18,7 +19,6 @@
 * [2024-09-12, 08:53:48](https://lobste.rs/s/ac2rms/always_support_compressed_response_api) - [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 06:10:27](https://lobste.rs/s/bhtzbr/how_i_behave) - [How I behave](http://blog.syncpup.com/posts/how-i-behave.html)
 * [2024-09-12, 02:04:10](https://lobste.rs/s/my2xwa/gofetch_will_people_ever_learn) - [GoFetch: Will people ever learn?](https://microkerneldude.org/2024/04/18/gofetch-will-people-ever-learn/)
-* [2024-09-11, 20:49:46](https://lobste.rs/s/3okshe/spiffing_up_those_echo_messages) - [Spiffing up those echo messages](https://lmno.lol/alvaro/spiffing-up-those-echo-messages)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
 * [2024-09-11, 17:58:19](https://lobste.rs/s/la47u9/print_this_file_your_printer_will_jam_2008) - [Print this file, your printer will jam (2008)](https://nedbatchelder.com/blog/200811/print_this_file_your_printer_will_jam.html)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
