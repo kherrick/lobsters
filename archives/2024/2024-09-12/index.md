@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 22:36:46](https://lobste.rs/s/5qtfpc/remix_s_concurrent_submissions_are) - [Remix's concurrent submissions are fundamentally flawed (without causal ordering) - Dashbit Blog](https://dashbit.co/blog/remix-concurrent-submissions-flawed)
 * [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 * [2024-09-12, 21:04:28](https://lobste.rs/s/ac85sj/performance_improvements_net_9) - [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
 * [2024-09-12, 20:54:47](https://lobste.rs/s/nwof4o/conditionally_disabling_code_with) - [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
