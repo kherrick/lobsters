@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 18:22:30](https://lobste.rs/s/zna0ob/jonathan_rees_on_what_is_object_oriented) - [Jonathan Rees on \"What is Object-Oriented?\"](http://mumble.net/~jar/articles/oo.html)
+* [2024-09-12, 18:20:00](https://lobste.rs/s/n5m9xx/ft_utils_support_efficient_scalable) - [ft_utils: Support efficient, scalable development leveraging Free Threaded Python](https://github.com/facebookincubator/ft_utils/tree/main)
+* [2024-09-12, 18:12:47](https://lobste.rs/s/xtum3r/11ty_is_joining_font_awesome) - [11ty is joining Font Awesome](https://www.11ty.dev/blog/eleventy-font-awesome/)
+* [2024-09-12, 18:04:40](https://lobste.rs/s/qrxgyj/jsr_deno_final_review) - [JSR and Deno: Final Review](https://dbushell.com/2024/08/09/jsr-and-deno-final-review/)
 * [2024-09-12, 17:52:05](https://lobste.rs/s/k8yndu/avoid_this_bug_with_numeric_environment) - [Avoid this Bug with Numeric Environment Variables in Ruby](https://danielabaron.me/blog/numeric-env-vars-ruby/)
 * [2024-09-12, 15:30:55](https://lobste.rs/s/z8d3ab/how_optimize_boot_time_user_space_on) - [How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt](https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4)
 * [2024-09-12, 15:26:21](https://lobste.rs/s/ydri8p/converting_app_from_obj_c) - [Converting an App from Obj-C](https://troz.net/post/2024/app_conversion/)

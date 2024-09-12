@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 18:22:30](https://lobste.rs/s/zna0ob/jonathan_rees_on_what_is_object_oriented) - [Jonathan Rees on \"What is Object-Oriented?\"](http://mumble.net/~jar/articles/oo.html)
+* [2024-09-12, 18:20:00](https://lobste.rs/s/n5m9xx/ft_utils_support_efficient_scalable) - [ft_utils: Support efficient, scalable development leveraging Free Threaded Python](https://github.com/facebookincubator/ft_utils/tree/main)
+* [2024-09-12, 18:12:47](https://lobste.rs/s/xtum3r/11ty_is_joining_font_awesome) - [11ty is joining Font Awesome](https://www.11ty.dev/blog/eleventy-font-awesome/)
+* [2024-09-12, 18:04:40](https://lobste.rs/s/qrxgyj/jsr_deno_final_review) - [JSR and Deno: Final Review](https://dbushell.com/2024/08/09/jsr-and-deno-final-review/)
 * [2024-09-12, 17:52:05](https://lobste.rs/s/k8yndu/avoid_this_bug_with_numeric_environment) - [Avoid this Bug with Numeric Environment Variables in Ruby](https://danielabaron.me/blog/numeric-env-vars-ruby/)
-* [2024-09-12, 15:30:55](https://lobste.rs/s/z8d3ab/how_optimize_boot_time_user_space_on) - [How to optimize boot time in user space on a Raspberry Pi 4 / Boot2Qt](https://www.qt.io/blog/boot2qt-/-how-to-optimize-boot-time-in-user-space-on-a-raspberry-pi-4)
-* [2024-09-12, 15:26:21](https://lobste.rs/s/ydri8p/converting_app_from_obj_c) - [Converting an App from Obj-C](https://troz.net/post/2024/app_conversion/)
 * [2024-09-12, 15:16:21](https://lobste.rs/s/utftll/fediverse_discovery_providers) - [Fediverse Discovery Providers](https://www.fediscovery.org/)
 * [2024-09-12, 15:14:01](https://lobste.rs/s/wzo0bw/critical_resources_first_14_kb_2022) - [Critical Resources and the First 14 KB (2022)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
 * [2024-09-12, 15:12:09](https://lobste.rs/s/v35mxf/vulnerability_disclosure_feeld_dating) - [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
@@ -22,8 +24,6 @@
 * [2024-09-11, 14:22:27](https://lobste.rs/s/zxiui9/state_full_stack_ocaml) - [The State of Full-Stack OCaml](https://youtu.be/vSSpbAI_-t0)
 * [2024-09-11, 14:12:52](https://lobste.rs/s/1ggehp/building_browser_using_servo_as_web) - [Building a browser using Servo as a web engine](https://servo.org/blog/2024/09/11/building-browser/)
 * [2024-09-11, 12:09:58](https://lobste.rs/s/clcn6l/we_spent_20_achieve_rce_accidentally) - [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
-* [2024-09-11, 09:45:24](https://lobste.rs/s/bzns0g/binsider_tui_for_analyzing_linux) - [Binsider - A TUI for analyzing Linux binaries](https://binsider.dev/)
-* [2024-09-11, 08:52:54](https://lobste.rs/s/mzqv3t/why_i_prefer_exceptions_error_values) - [Why I Prefer Exceptions to Error Values](https://cedardb.com/blog/exceptions_vs_errors/)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
 
 ## [Archives](archives/index.md)
