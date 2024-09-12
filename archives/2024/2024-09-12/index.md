@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 19:32:53](https://lobste.rs/s/tqdffk/optimizing_rav1d_av1_decoder_rust) - [Optimizing rav1d, an AV1 Decoder in Rust](https://www.memorysafety.org/blog/rav1d-performance-optimization/)
 * [2024-09-12, 19:22:17](https://lobste.rs/s/sktjxk/openai_o1_model) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 18:36:08](https://lobste.rs/s/oqxil5/delphi_c_builder_12_2_athens_released) - [Delphi and C++ builder 12.2 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-2-athens/)
 * [2024-09-12, 18:22:30](https://lobste.rs/s/zna0ob/jonathan_rees_on_what_is_object_oriented) - [Jonathan Rees on \"What is Object-Oriented?\"](http://mumble.net/~jar/articles/oo.html)
