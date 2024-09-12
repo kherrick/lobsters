@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-12, 20:21:01",
+      "https://lobste.rs/s/vq4eni/ruffle_optimisations_text_input_tab"
+    ],
+    [
+      "Ruffle: Optimisations, Text Input, Tab Focusing and More",
+      "https://ruffle.rs/blog/2024/09/12/optimisations-text-more"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 19:32:53",
       "https://lobste.rs/s/tqdffk/optimizing_rav1d_av1_decoder_rust"
     ],
@@ -37,16 +47,6 @@
     [
       "Jonathan Rees on \"What is Object-Oriented?\"",
       "http://mumble.net/~jar/articles/oo.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 18:20:00",
-      "https://lobste.rs/s/n5m9xx/ft_utils_support_efficient_scalable"
-    ],
-    [
-      "ft_utils: Support efficient, scalable development leveraging Free Threaded Python",
-      "https://github.com/facebookincubator/ft_utils/tree/main"
     ]
   ],
   [
