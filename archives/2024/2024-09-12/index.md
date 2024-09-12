@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 * [2024-09-12, 21:04:28](https://lobste.rs/s/ac85sj/performance_improvements_net_9) - [Performance Improvements in .NET 9](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/)
 * [2024-09-12, 20:54:47](https://lobste.rs/s/nwof4o/conditionally_disabling_code_with) - [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
