@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 18:36:08](https://lobste.rs/s/oqxil5/delphi_c_builder_12_2_athens_released) - [Delphi and C++ builder 12.2 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-2-athens/)
 * [2024-09-12, 18:22:30](https://lobste.rs/s/zna0ob/jonathan_rees_on_what_is_object_oriented) - [Jonathan Rees on \"What is Object-Oriented?\"](http://mumble.net/~jar/articles/oo.html)
 * [2024-09-12, 18:20:00](https://lobste.rs/s/n5m9xx/ft_utils_support_efficient_scalable) - [ft_utils: Support efficient, scalable development leveraging Free Threaded Python](https://github.com/facebookincubator/ft_utils/tree/main)
 * [2024-09-12, 18:12:47](https://lobste.rs/s/xtum3r/11ty_is_joining_font_awesome) - [11ty is joining Font Awesome](https://www.11ty.dev/blog/eleventy-font-awesome/)
 * [2024-09-12, 18:04:40](https://lobste.rs/s/qrxgyj/jsr_deno_final_review) - [JSR and Deno: Final Review](https://dbushell.com/2024/08/09/jsr-and-deno-final-review/)
-* [2024-09-12, 17:52:05](https://lobste.rs/s/k8yndu/avoid_this_bug_with_numeric_environment) - [Avoid this Bug with Numeric Environment Variables in Ruby](https://danielabaron.me/blog/numeric-env-vars-ruby/)
 * [2024-09-12, 15:16:21](https://lobste.rs/s/utftll/fediverse_discovery_providers) - [Fediverse Discovery Providers](https://www.fediscovery.org/)
 * [2024-09-12, 15:14:01](https://lobste.rs/s/wzo0bw/critical_resources_first_14_kb_2022) - [Critical Resources and the First 14 KB (2022)](https://www.tunetheweb.com/blog/critical-resources-and-the-first-14kb/)
 * [2024-09-12, 15:12:09](https://lobste.rs/s/v35mxf/vulnerability_disclosure_feeld_dating) - [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)

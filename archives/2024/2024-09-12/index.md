@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 18:36:08](https://lobste.rs/s/oqxil5/delphi_c_builder_12_2_athens_released) - [Delphi and C++ builder 12.2 Athens released](https://blogs.embarcadero.com/announcing-the-availability-of-rad-studio-12-2-athens/)
 * [2024-09-12, 18:22:30](https://lobste.rs/s/zna0ob/jonathan_rees_on_what_is_object_oriented) - [Jonathan Rees on \"What is Object-Oriented?\"](http://mumble.net/~jar/articles/oo.html)
 * [2024-09-12, 18:20:00](https://lobste.rs/s/n5m9xx/ft_utils_support_efficient_scalable) - [ft_utils: Support efficient, scalable development leveraging Free Threaded Python](https://github.com/facebookincubator/ft_utils/tree/main)
 * [2024-09-12, 18:12:47](https://lobste.rs/s/xtum3r/11ty_is_joining_font_awesome) - [11ty is joining Font Awesome](https://www.11ty.dev/blog/eleventy-font-awesome/)
