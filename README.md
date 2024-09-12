@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 07:14:02](https://lobste.rs/s/bs6lr5/being_our_own_worst_customer) - [Being our own worst customer (deterministic simulation testing)](https://www.youtube.com/watch?v=whqMdAD5JTc)
 * [2024-09-12, 06:29:12](https://lobste.rs/s/etne3u/deploying_basic_react_site_part_1_setting) - [[Deploying a basic React site — Part 1] Setting up a Kubernetes cluster hosted on a home server…](https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda)
 * [2024-09-12, 06:10:27](https://lobste.rs/s/bhtzbr/how_i_behave) - [How I behave](http://blog.syncpup.com/posts/how-i-behave.html)
 * [2024-09-12, 04:08:01](https://lobste.rs/s/pqnhz4/postgres_indexes_partitioning_lwlock) - [Postgres Indexes, Partitioning and LWLock:LockManager Scalability](https://ardentperf.com/2024/03/03/postgres-indexes-partitioning-and-lwlocklockmanager-scalability/)
 * [2024-09-12, 02:04:10](https://lobste.rs/s/my2xwa/gofetch_will_people_ever_learn) - [GoFetch: Will people ever learn?](https://microkerneldude.org/2024/04/18/gofetch-will-people-ever-learn/)
-* [2024-09-11, 22:21:44](https://lobste.rs/s/0sao77/reclaiming_sql_s_declarative_power) - [Reclaiming SQL’s Declarative Power](https://cedardb.com/blog/unnest_sql/)
 * [2024-09-11, 21:56:13](https://lobste.rs/s/sbolqy/creating_electromagnet_sound_wave) - [Creating an electromagnet and sound wave learning environment](https://justinmiller.io/posts/2024/09/11/catch-wave-overview/)
 * [2024-09-11, 20:49:46](https://lobste.rs/s/3okshe/spiffing_up_those_echo_messages) - [Spiffing up those echo messages](https://lmno.lol/alvaro/spiffing-up-those-echo-messages)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
