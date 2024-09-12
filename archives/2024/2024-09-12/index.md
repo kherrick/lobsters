@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-12](index.md)
 
+* [2024-09-12, 10:06:27](https://lobste.rs/s/tca5ps/porting_c_rust_for_fast_safe_av1_media) - [Porting C to Rust for a Fast and Safe AV1 Media Decoder](https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/)
 * [2024-09-12, 08:59:45](https://lobste.rs/s/16xhwo/first_release_candidate_freecad_1_0_is_out) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/)
 * [2024-09-12, 08:53:48](https://lobste.rs/s/ac2rms/always_support_compressed_response_api) - [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 07:14:02](https://lobste.rs/s/bs6lr5/being_our_own_worst_customer) - [Being our own worst customer (deterministic simulation testing)](https://www.youtube.com/watch?v=whqMdAD5JTc)

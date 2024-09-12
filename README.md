@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 10:06:27](https://lobste.rs/s/tca5ps/porting_c_rust_for_fast_safe_av1_media) - [Porting C to Rust for a Fast and Safe AV1 Media Decoder](https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/)
 * [2024-09-12, 08:59:45](https://lobste.rs/s/16xhwo/first_release_candidate_freecad_1_0_is_out) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/)
 * [2024-09-12, 08:53:48](https://lobste.rs/s/ac2rms/always_support_compressed_response_api) - [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 07:14:02](https://lobste.rs/s/bs6lr5/being_our_own_worst_customer) - [Being our own worst customer (deterministic simulation testing)](https://www.youtube.com/watch?v=whqMdAD5JTc)
@@ -24,7 +25,6 @@
 * [2024-09-10, 20:27:54](https://lobste.rs/s/tntsjc/why_some_us_like_interdiff_code_review) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 19:38:49](https://lobste.rs/s/jhm2ip/how_i_review_github_prs) - [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
-* [2024-09-10, 12:55:52](https://lobste.rs/s/z6ewrf/radicle_1_0) - [Radicle 1.0](https://radicle.xyz/2024/09/10/radicle-1.0.html)
 
 ## [Archives](archives/index.md)
 
