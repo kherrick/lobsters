@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-12, 08:59:45](https://lobste.rs/s/16xhwo/first_release_candidate_freecad_1_0_is_out) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/)
 * [2024-09-12, 08:53:48](https://lobste.rs/s/ac2rms/always_support_compressed_response_api) - [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 07:14:02](https://lobste.rs/s/bs6lr5/being_our_own_worst_customer) - [Being our own worst customer (deterministic simulation testing)](https://www.youtube.com/watch?v=whqMdAD5JTc)
 * [2024-09-12, 06:29:12](https://lobste.rs/s/etne3u/deploying_basic_react_site_part_1_setting) - [[Deploying a basic React site — Part 1] Setting up a Kubernetes cluster hosted on a home server…](https://jpegsfiles.medium.com/deploying-a-basic-react-site-part-1-setting-up-a-kubernetes-cluster-hosted-on-a-home-server-8db517d2bcda)
@@ -20,7 +21,6 @@
 * [2024-09-11, 08:52:54](https://lobste.rs/s/mzqv3t/why_i_prefer_exceptions_error_values) - [Why I Prefer Exceptions to Error Values](https://cedardb.com/blog/exceptions_vs_errors/)
 * [2024-09-11, 06:29:33](https://lobste.rs/s/tt81pb/why_not_comments) - [Why Not Comments](https://buttondown.com/hillelwayne/archive/why-not-comments/)
 * [2024-09-11, 02:18:42](https://lobste.rs/s/q6xgkh/how_monetize_blog) - [How to Monetize a Blog](https://modem.io/blog/blog-monetization/)
-* [2024-09-11, 00:16:12](https://lobste.rs/s/rh6qej/nestedtext_human_friendly_data_format) - [NestedText — A Human Friendly Data Format](https://nestedtext.org/en/latest/)
 * [2024-09-10, 20:27:54](https://lobste.rs/s/tntsjc/why_some_us_like_interdiff_code_review) - [Why some of us like \"interdiff\" code review systems (not GitHub)](https://gist.github.com/thoughtpolice/9c45287550a56b2047c6311fbadebed2)
 * [2024-09-10, 19:38:49](https://lobste.rs/s/jhm2ip/how_i_review_github_prs) - [How I Review GitHub PRs](https://www.bitquabit.com/post/how-i-do-github-prs/)
 * [2024-09-10, 19:36:08](https://lobste.rs/s/x1ubvv/i_was_wrong_about_open_source) - [I Was Wrong About Open Source](https://yaak.app/blog/now-open-source)
