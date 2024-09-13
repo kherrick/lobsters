@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 13:23:57](https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces) - [Friends don’t let friends reuse nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/)
 * [2024-09-13, 12:59:22](https://lobste.rs/s/ib3q1v/microsoft_windows_msi_installer_repair) - [Microsoft Windows MSI Installer - Repair to SYSTEM - A detailed journey](https://sec-consult.com/blog/detail/msi-installer-repair-to-system-a-detailed-journey/)
 * [2024-09-13, 12:52:30](https://lobste.rs/s/bihdon/porting_sbcl_nintendo_switch) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 12:48:49](https://lobste.rs/s/wq0sxz/i_fixed_strawberry_problem_because) - [I fixed the strawberry problem because OpenAI couldn't](https://xeiaso.net/blog/2024/strawberry/)
