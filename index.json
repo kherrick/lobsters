@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-13, 20:40:17",
+      "https://lobste.rs/s/ykqakm/pyrtls_rustls_based_modern_tls_for_python"
+    ],
+    [
+      "pyrtls: rustls-based modern TLS for Python",
+      "https://github.com/djc/pyrtls"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 20:39:49",
+      "https://lobste.rs/s/efzmbs/edgar_solving_mysteries_faster_with"
+    ],
+    [
+      "Edgar: Solving Mysteries Faster with Observability",
+      "https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 17:03:03",
       "https://lobste.rs/s/bpwwdt/zero_click_calendar_invite_critical_zero"
     ],
@@ -67,16 +87,6 @@
     [
       "Friends don’t let friends reuse nonces",
       "https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 12:59:22",
-      "https://lobste.rs/s/ib3q1v/microsoft_windows_msi_installer_repair"
-    ],
-    [
-      "Microsoft Windows MSI Installer - Repair to SYSTEM - A detailed journey",
-      "https://sec-consult.com/blog/detail/msi-installer-repair-to-system-a-detailed-journey/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Ergo: Erlang-inspired event driven actor framework in Go",
       "https://github.com/ergo-services/ergo"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 10:06:27",
-      "https://lobste.rs/s/tca5ps/porting_c_rust_for_fast_safe_av1_media"
-    ],
-    [
-      "Porting C to Rust for a Fast and Safe AV1 Media Decoder",
-      "https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/"
     ]
   ]
 ]
