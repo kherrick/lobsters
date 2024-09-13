@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-13, 15:28:19](https://lobste.rs/s/lfgl4c/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 5 of 11](https://pvs-studio.com/en/blog/posts/cpp/1160/)
 * [2024-09-13, 14:51:47](https://lobste.rs/s/ktnd5c/understanding_raspberry_pi_pico_s_memory) - [Understanding the Raspberry Pi Pico’s Memory Layout](https://petewarden.com/2024/01/16/understanding-the-raspberry-pi-picos-memory-layout/)
 * [2024-09-13, 13:59:30](https://lobste.rs/s/fkhtf9/specification_model_checking_zksync) - [Specification and Model-checking of the ZKsync Governance Protocol](https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html)
 * [2024-09-13, 13:23:57](https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces) - [Friends don’t let friends reuse nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/)
-* [2024-09-13, 12:59:22](https://lobste.rs/s/ib3q1v/microsoft_windows_msi_installer_repair) - [Microsoft Windows MSI Installer - Repair to SYSTEM - A detailed journey](https://sec-consult.com/blog/detail/msi-installer-repair-to-system-a-detailed-journey/)
 * [2024-09-13, 12:52:30](https://lobste.rs/s/bihdon/porting_sbcl_nintendo_switch) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 11:24:34](https://lobste.rs/s/zmx4no/watching_sunsets) - [Watching sunsets](https://fabiensanglard.net/sunset/)
 * [2024-09-13, 11:16:56](https://lobste.rs/s/ktpqhp/safe_c) - [Safe C++](https://safecpp.org/draft.html)
