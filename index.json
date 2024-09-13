@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 13:23:57",
+      "https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces"
+    ],
+    [
+      "Friends don’t let friends reuse nonces",
+      "https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 12:59:22",
       "https://lobste.rs/s/ib3q1v/microsoft_windows_msi_installer_repair"
     ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2024-09-12, 21:04:28",
+      "https://lobste.rs/s/ac85sj/performance_improvements_net_9"
+    ],
+    [
+      "Performance Improvements in .NET 9",
+      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 20:54:47",
       "https://lobste.rs/s/nwof4o/conditionally_disabling_code_with"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-09-12, 18:22:30",
-      "https://lobste.rs/s/zna0ob/jonathan_rees_on_what_is_object_oriented"
-    ],
-    [
-      "Jonathan Rees on \"What is Object-Oriented?\" (2001)",
-      "http://mumble.net/~jar/articles/oo.html"
-    ]
-  ],
-  [
-    [
       "2024-09-12, 18:04:40",
       "https://lobste.rs/s/qrxgyj/jsr_deno_final_review"
     ],
@@ -217,16 +227,6 @@
     [
       "Ergo: Erlang-inspired event driven actor framework in Go",
       "https://github.com/ergo-services/ergo"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 13:38:38",
-      "https://lobste.rs/s/ayubdj/ripe_atlas_probes_world_s_largest"
-    ],
-    [
-      "RIPE Atlas probes, the world's largest Internet monitoring system",
-      "https://www.afnic.fr/en/observatory-and-resources/expert-papers/ripe-atlas-probes-the-worlds-largest-internet-monitoring-system/"
     ]
   ],
   [
