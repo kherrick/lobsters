@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 00:51:29",
+      "https://lobste.rs/s/w4piyx/making_libjson_rfc_8259_compilant"
+    ],
+    [
+      "Making libjson RFC 8259 compilant",
+      "https://xnacly.me/posts/2024/libjson/"
+    ]
+  ],
+  [
+    [
       "2024-09-12, 22:36:46",
       "https://lobste.rs/s/5qtfpc/remix_s_concurrent_submissions_are"
     ],
@@ -217,16 +227,6 @@
     [
       "The First HTML LSP That Reports Syntax Errors",
       "https://kristoff.it/blog/first-html-lsp/"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 14:22:27",
-      "https://lobste.rs/s/zxiui9/state_full_stack_ocaml"
-    ],
-    [
-      "The State of Full-Stack OCaml",
-      "https://youtu.be/vSSpbAI_-t0"
     ]
   ],
   [
