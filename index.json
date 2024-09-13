@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 13:59:30",
+      "https://lobste.rs/s/fkhtf9/specification_model_checking_zksync"
+    ],
+    [
+      "Specification and Model-checking of the ZKsync Governance Protocol",
+      "https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 13:23:57",
       "https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces"
     ],
@@ -117,16 +127,6 @@
     [
       "Reasons I still love the fish shell",
       "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 21:04:28",
-      "https://lobste.rs/s/ac85sj/performance_improvements_net_9"
-    ],
-    [
-      "Performance Improvements in .NET 9",
-      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/"
     ]
   ],
   [
