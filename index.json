@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 16:50:27",
+      "https://lobste.rs/s/aqjl8p/how_i_added_svg_maps_my_travel_posts"
+    ],
+    [
+      "How I Added SVG Maps to my Travel Posts",
+      "https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 16:10:07",
       "https://lobste.rs/s/ngzdqt/haiku_beta_5_released"
     ],
@@ -167,16 +177,6 @@
     [
       "Ruffle: Optimisations, Text Input, Tab Focusing and More",
       "https://ruffle.rs/blog/2024/09/12/optimisations-text-more"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 19:32:53",
-      "https://lobste.rs/s/tqdffk/optimizing_rav1d_av1_decoder_rust"
-    ],
-    [
-      "Optimizing rav1d, an AV1 Decoder in Rust",
-      "https://www.memorysafety.org/blog/rav1d-performance-optimization/"
     ]
   ],
   [
