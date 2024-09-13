@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 20:40:17](https://lobste.rs/s/ykqakm/pyrtls_rustls_based_modern_tls_for_python) - [pyrtls: rustls-based modern TLS for Python](https://github.com/djc/pyrtls)
+* [2024-09-13, 20:39:49](https://lobste.rs/s/efzmbs/edgar_solving_mysteries_faster_with) - [Edgar: Solving Mysteries Faster with Observability](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
 * [2024-09-13, 17:03:03](https://lobste.rs/s/bpwwdt/zero_click_calendar_invite_critical_zero) - [Zero-Click Calendar invite — Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
 * [2024-09-13, 16:57:41](https://lobste.rs/s/kh7epu/freebsd_11_0_kernel_lpe_userspace_mutexes) - [FreeBSD 11.0+ Kernel LPE: Userspace Mutexes (umtx) Use-After-Free Race Condition](https://accessvector.net/2024/freebsd-umtx-privesc)
 * [2024-09-13, 16:50:27](https://lobste.rs/s/aqjl8p/how_i_added_svg_maps_my_travel_posts) - [How I Added SVG Maps to my Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
