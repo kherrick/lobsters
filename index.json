@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 15:28:19",
+      "https://lobste.rs/s/lfgl4c/c_programmer_s_guide_undefined_behavior"
+    ],
+    [
+      "C++ programmer′s guide to undefined behavior: part 5 of 11",
+      "https://pvs-studio.com/en/blog/posts/cpp/1160/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 14:51:47",
       "https://lobste.rs/s/ktnd5c/understanding_raspberry_pi_pico_s_memory"
     ],
@@ -27,16 +37,6 @@
     [
       "Friends don’t let friends reuse nonces",
       "https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 12:59:22",
-      "https://lobste.rs/s/ib3q1v/microsoft_windows_msi_installer_repair"
-    ],
-    [
-      "Microsoft Windows MSI Installer - Repair to SYSTEM - A detailed journey",
-      "https://sec-consult.com/blog/detail/msi-installer-repair-to-system-a-detailed-journey/"
     ]
   ],
   [
