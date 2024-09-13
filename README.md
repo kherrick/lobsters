@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-13, 23:13:43](https://lobste.rs/s/gclkzf/retrospective_on_oils_project) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
 * [2024-09-13, 21:56:26](https://lobste.rs/s/hcjvbv/hgg_hierarchical_greedy_graph_based) - [hgg: Hierarchical Greedy Graph based around HNSW data structure](https://github.com/rust-cv/hgg)
 * [2024-09-13, 20:40:17](https://lobste.rs/s/ykqakm/pyrtls_rustls_based_modern_tls_for_python) - [pyrtls: rustls-based modern TLS for Python](https://github.com/djc/pyrtls)
 * [2024-09-13, 20:39:49](https://lobste.rs/s/efzmbs/edgar_solving_mysteries_faster_with) - [Edgar: Solving Mysteries Faster with Observability](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
@@ -21,7 +22,6 @@
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-12, 20:21:01](https://lobste.rs/s/vq4eni/ruffle_optimisations_text_input_tab) - [Ruffle: Optimisations, Text Input, Tab Focusing and More](https://ruffle.rs/blog/2024/09/12/optimisations-text-more)
 * [2024-09-12, 19:22:17](https://lobste.rs/s/sktjxk/openai_o1_model) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
-* [2024-09-12, 18:04:40](https://lobste.rs/s/qrxgyj/jsr_deno_final_review) - [JSR and Deno: Final Review](https://dbushell.com/2024/08/09/jsr-and-deno-final-review/)
 * [2024-09-12, 15:12:09](https://lobste.rs/s/v35mxf/vulnerability_disclosure_feeld_dating) - [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
 * [2024-09-12, 14:56:23](https://lobste.rs/s/9m59pe/what_s_e_graph) - [What’s in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
 * [2024-09-12, 14:40:42](https://lobste.rs/s/kte88x/ergo_erlang_inspired_event_driven_actor) - [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
