@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 16:50:27](https://lobste.rs/s/aqjl8p/how_i_added_svg_maps_my_travel_posts) - [How I Added SVG Maps to my Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:10:07](https://lobste.rs/s/ngzdqt/haiku_beta_5_released) - [Haiku beta 5 released](https://www.haiku-os.org/get-haiku/r1beta5/release-notes/)
 * [2024-09-13, 15:28:19](https://lobste.rs/s/lfgl4c/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 5 of 11](https://pvs-studio.com/en/blog/posts/cpp/1160/)
 * [2024-09-13, 14:51:47](https://lobste.rs/s/ktnd5c/understanding_raspberry_pi_pico_s_memory) - [Understanding the Raspberry Pi Pico’s Memory Layout](https://petewarden.com/2024/01/16/understanding-the-raspberry-pi-picos-memory-layout/)

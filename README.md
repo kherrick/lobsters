@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-13, 16:50:27](https://lobste.rs/s/aqjl8p/how_i_added_svg_maps_my_travel_posts) - [How I Added SVG Maps to my Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:10:07](https://lobste.rs/s/ngzdqt/haiku_beta_5_released) - [Haiku beta 5 released](https://www.haiku-os.org/get-haiku/r1beta5/release-notes/)
 * [2024-09-13, 15:28:19](https://lobste.rs/s/lfgl4c/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 5 of 11](https://pvs-studio.com/en/blog/posts/cpp/1160/)
 * [2024-09-13, 14:51:47](https://lobste.rs/s/ktnd5c/understanding_raspberry_pi_pico_s_memory) - [Understanding the Raspberry Pi Pico’s Memory Layout](https://petewarden.com/2024/01/16/understanding-the-raspberry-pi-picos-memory-layout/)
@@ -17,7 +18,6 @@
 * [2024-09-12, 20:54:47](https://lobste.rs/s/nwof4o/conditionally_disabling_code_with) - [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 * [2024-09-12, 20:21:01](https://lobste.rs/s/vq4eni/ruffle_optimisations_text_input_tab) - [Ruffle: Optimisations, Text Input, Tab Focusing and More](https://ruffle.rs/blog/2024/09/12/optimisations-text-more)
-* [2024-09-12, 19:32:53](https://lobste.rs/s/tqdffk/optimizing_rav1d_av1_decoder_rust) - [Optimizing rav1d, an AV1 Decoder in Rust](https://www.memorysafety.org/blog/rav1d-performance-optimization/)
 * [2024-09-12, 19:22:17](https://lobste.rs/s/sktjxk/openai_o1_model) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 18:04:40](https://lobste.rs/s/qrxgyj/jsr_deno_final_review) - [JSR and Deno: Final Review](https://dbushell.com/2024/08/09/jsr-and-deno-final-review/)
 * [2024-09-12, 15:16:21](https://lobste.rs/s/utftll/fediverse_discovery_providers) - [Fediverse Discovery Providers](https://www.fediscovery.org/)
