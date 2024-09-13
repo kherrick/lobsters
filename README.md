@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-13, 01:49:02](https://lobste.rs/s/pyhh8z/wallops_modern_irc_client_for_classic_mac) - [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
 * [2024-09-13, 00:51:29](https://lobste.rs/s/w4piyx/making_libjson_rfc_8259_compilant) - [Making libjson RFC 8259 compilant](https://xnacly.me/posts/2024/libjson/)
 * [2024-09-12, 22:36:46](https://lobste.rs/s/5qtfpc/remix_s_concurrent_submissions_are) - [Remix's concurrent submissions are fundamentally flawed (without causal ordering) - Dashbit Blog](https://dashbit.co/blog/remix-concurrent-submissions-flawed)
 * [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
@@ -20,7 +21,6 @@
 * [2024-09-12, 08:59:45](https://lobste.rs/s/16xhwo/first_release_candidate_freecad_1_0_is_out) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/)
 * [2024-09-12, 08:53:48](https://lobste.rs/s/ac2rms/always_support_compressed_response_api) - [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-12, 06:10:27](https://lobste.rs/s/bhtzbr/how_i_behave) - [How I behave](http://blog.syncpup.com/posts/how-i-behave.html)
-* [2024-09-12, 02:04:10](https://lobste.rs/s/my2xwa/gofetch_will_people_ever_learn) - [GoFetch: Will people ever learn?](https://microkerneldude.org/2024/04/18/gofetch-will-people-ever-learn/)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
 * [2024-09-11, 12:09:58](https://lobste.rs/s/clcn6l/we_spent_20_achieve_rce_accidentally) - [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
