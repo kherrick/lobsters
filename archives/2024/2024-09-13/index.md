@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 13:59:30](https://lobste.rs/s/fkhtf9/specification_model_checking_zksync) - [Specification and Model-checking of the ZKsync Governance Protocol](https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html)
 * [2024-09-13, 13:23:57](https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces) - [Friends don’t let friends reuse nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/)
 * [2024-09-13, 12:59:22](https://lobste.rs/s/ib3q1v/microsoft_windows_msi_installer_repair) - [Microsoft Windows MSI Installer - Repair to SYSTEM - A detailed journey](https://sec-consult.com/blog/detail/msi-installer-repair-to-system-a-detailed-journey/)
 * [2024-09-13, 12:52:30](https://lobste.rs/s/bihdon/porting_sbcl_nintendo_switch) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
