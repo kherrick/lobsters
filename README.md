@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-13, 10:05:23](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend)
 * [2024-09-13, 08:52:16](https://lobste.rs/s/lqt0gq/better_performing_25519_elliptic_curve) - [Better-performing “25519” elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
 * [2024-09-13, 05:55:20](https://lobste.rs/s/flycmu/reinforcing_nature_toil) - [The Reinforcing Nature of Toil](https://entropicthoughts.com/the-reinforcing-nature-of-toil)
 * [2024-09-13, 01:49:02](https://lobste.rs/s/pyhh8z/wallops_modern_irc_client_for_classic_mac) - [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
@@ -24,7 +25,6 @@
 * [2024-09-12, 08:53:48](https://lobste.rs/s/ac2rms/always_support_compressed_response_api) - [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
-* [2024-09-11, 12:09:58](https://lobste.rs/s/clcn6l/we_spent_20_achieve_rce_accidentally) - [We spent $20 to achieve RCE and accidentally became the admins of .MOBI](https://labs.watchtowr.com/we-spent-20-to-achieve-rce-and-accidentally-became-the-admins-of-mobi/)
 
 ## [Archives](archives/index.md)
 
