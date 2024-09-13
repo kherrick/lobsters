@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-13, 17:03:03",
+      "https://lobste.rs/s/bpwwdt/zero_click_calendar_invite_critical_zero"
+    ],
+    [
+      "Zero-Click Calendar invite — Critical zero-click vulnerability chain in macOS",
+      "https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 16:57:41",
+      "https://lobste.rs/s/kh7epu/freebsd_11_0_kernel_lpe_userspace_mutexes"
+    ],
+    [
+      "FreeBSD 11.0+ Kernel LPE: Userspace Mutexes (umtx) Use-After-Free Race Condition",
+      "https://accessvector.net/2024/freebsd-umtx-privesc"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 16:50:27",
       "https://lobste.rs/s/aqjl8p/how_i_added_svg_maps_my_travel_posts"
     ],
@@ -37,16 +57,6 @@
     [
       "Understanding the Raspberry Pi Pico’s Memory Layout",
       "https://petewarden.com/2024/01/16/understanding-the-raspberry-pi-picos-memory-layout/"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 13:59:30",
-      "https://lobste.rs/s/fkhtf9/specification_model_checking_zksync"
-    ],
-    [
-      "Specification and Model-checking of the ZKsync Governance Protocol",
-      "https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "JSR and Deno: Final Review",
       "https://dbushell.com/2024/08/09/jsr-and-deno-final-review/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 15:16:21",
-      "https://lobste.rs/s/utftll/fediverse_discovery_providers"
-    ],
-    [
-      "Fediverse Discovery Providers",
-      "https://www.fediscovery.org/"
     ]
   ],
   [
