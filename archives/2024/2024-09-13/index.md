@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 12:48:49](https://lobste.rs/s/wq0sxz/i_fixed_strawberry_problem_because) - [I fixed the strawberry problem because OpenAI couldn't](https://xeiaso.net/blog/2024/strawberry/)
 * [2024-09-13, 11:24:34](https://lobste.rs/s/zmx4no/watching_sunsets) - [Watching sunsets](https://fabiensanglard.net/sunset/)
 * [2024-09-13, 11:16:56](https://lobste.rs/s/ktpqhp/safe_c) - [Safe C++](https://safecpp.org/draft.html)
 * [2024-09-13, 10:05:23](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend)
