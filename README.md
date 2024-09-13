@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-13, 21:56:26](https://lobste.rs/s/hcjvbv/hgg_hierarchical_greedy_graph_based) - [hgg: Hierarchical Greedy Graph based around HNSW data structure](https://github.com/rust-cv/hgg)
 * [2024-09-13, 20:40:17](https://lobste.rs/s/ykqakm/pyrtls_rustls_based_modern_tls_for_python) - [pyrtls: rustls-based modern TLS for Python](https://github.com/djc/pyrtls)
 * [2024-09-13, 20:39:49](https://lobste.rs/s/efzmbs/edgar_solving_mysteries_faster_with) - [Edgar: Solving Mysteries Faster with Observability](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
 * [2024-09-13, 17:03:03](https://lobste.rs/s/bpwwdt/zero_click_calendar_invite_critical_zero) - [Zero-Click Calendar invite — Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
@@ -15,7 +16,6 @@
 * [2024-09-13, 10:05:23](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend)
 * [2024-09-13, 08:52:16](https://lobste.rs/s/lqt0gq/better_performing_25519_elliptic_curve) - [Better-performing “25519” elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
 * [2024-09-13, 01:49:02](https://lobste.rs/s/pyhh8z/wallops_modern_irc_client_for_classic_mac) - [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
-* [2024-09-12, 22:36:46](https://lobste.rs/s/5qtfpc/remix_s_concurrent_submissions_are) - [Remix's concurrent submissions are fundamentally flawed (without causal ordering)](https://dashbit.co/blog/remix-concurrent-submissions-flawed)
 * [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 * [2024-09-12, 20:54:47](https://lobste.rs/s/nwof4o/conditionally_disabling_code_with) - [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
