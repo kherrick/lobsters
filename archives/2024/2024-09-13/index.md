@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-13](index.md)
 
+* [2024-09-13, 16:10:07](https://lobste.rs/s/ngzdqt/haiku_beta_5_released) - [Haiku beta 5 released](https://www.haiku-os.org/get-haiku/r1beta5/release-notes/)
 * [2024-09-13, 15:28:19](https://lobste.rs/s/lfgl4c/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 5 of 11](https://pvs-studio.com/en/blog/posts/cpp/1160/)
 * [2024-09-13, 14:51:47](https://lobste.rs/s/ktnd5c/understanding_raspberry_pi_pico_s_memory) - [Understanding the Raspberry Pi Pico’s Memory Layout](https://petewarden.com/2024/01/16/understanding-the-raspberry-pi-picos-memory-layout/)
 * [2024-09-13, 13:59:30](https://lobste.rs/s/fkhtf9/specification_model_checking_zksync) - [Specification and Model-checking of the ZKsync Governance Protocol](https://protocols-made-fun.com/zksync/matterlabs/quint/specification/modelchecking/2024/09/12/zksync-governance.html)
