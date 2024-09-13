@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-13, 16:10:07",
+      "https://lobste.rs/s/ngzdqt/haiku_beta_5_released"
+    ],
+    [
+      "Haiku beta 5 released",
+      "https://www.haiku-os.org/get-haiku/r1beta5/release-notes/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 15:28:19",
       "https://lobste.rs/s/lfgl4c/c_programmer_s_guide_undefined_behavior"
     ],
@@ -37,6 +47,16 @@
     [
       "Friends don’t let friends reuse nonces",
       "https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 12:59:22",
+      "https://lobste.rs/s/ib3q1v/microsoft_windows_msi_installer_repair"
+    ],
+    [
+      "Microsoft Windows MSI Installer - Repair to SYSTEM - A detailed journey",
+      "https://sec-consult.com/blog/detail/msi-installer-repair-to-system-a-detailed-journey/"
     ]
   ],
   [
@@ -117,16 +137,6 @@
     [
       "Reasons I still love the fish shell",
       "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 21:04:28",
-      "https://lobste.rs/s/ac85sj/performance_improvements_net_9"
-    ],
-    [
-      "Performance Improvements in .NET 9",
-      "https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-9/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Porting C to Rust for a Fast and Safe AV1 Media Decoder",
       "https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/"
-    ]
-  ],
-  [
-    [
-      "2024-09-11, 15:19:45",
-      "https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors"
-    ],
-    [
-      "The First HTML LSP That Reports Syntax Errors",
-      "https://kristoff.it/blog/first-html-lsp/"
     ]
   ]
 ]
