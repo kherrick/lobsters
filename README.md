@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-13, 11:24:34](https://lobste.rs/s/zmx4no/watching_sunsets) - [Watching sunsets](https://fabiensanglard.net/sunset/)
 * [2024-09-13, 11:16:56](https://lobste.rs/s/ktpqhp/safe_c) - [Safe C++](https://safecpp.org/draft.html)
 * [2024-09-13, 10:05:23](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend)
 * [2024-09-13, 08:52:16](https://lobste.rs/s/lqt0gq/better_performing_25519_elliptic_curve) - [Better-performing “25519” elliptic-curve cryptography](https://www.amazon.science/blog/better-performing-25519-elliptic-curve-cryptography)
@@ -21,7 +22,6 @@
 * [2024-09-12, 14:40:42](https://lobste.rs/s/kte88x/ergo_erlang_inspired_event_driven_actor) - [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
 * [2024-09-12, 13:38:38](https://lobste.rs/s/ayubdj/ripe_atlas_probes_world_s_largest) - [RIPE Atlas probes, the world's largest Internet monitoring system](https://www.afnic.fr/en/observatory-and-resources/expert-papers/ripe-atlas-probes-the-worlds-largest-internet-monitoring-system/)
 * [2024-09-12, 10:06:27](https://lobste.rs/s/tca5ps/porting_c_rust_for_fast_safe_av1_media) - [Porting C to Rust for a Fast and Safe AV1 Media Decoder](https://www.memorysafety.org/blog/porting-c-to-rust-for-av1/)
-* [2024-09-12, 08:59:45](https://lobste.rs/s/16xhwo/first_release_candidate_freecad_1_0_is_out) - [The first release candidate of FreeCAD 1.0 is out](https://blog.freecad.org/2024/09/10/the-first-release-candidate-of-freecad-1-0-is-out/)
 * [2024-09-12, 08:53:48](https://lobste.rs/s/ac2rms/always_support_compressed_response_api) - [Always support compressed response in an API service](http://ashishb.net/all/always-support-compressed-response-in-an-api-service/)
 * [2024-09-11, 19:05:34](https://lobste.rs/s/j68ya3/proposal_for_emoji_eye_bags_face) - [Proposal for Emoji: Eye Bags Face](https://www.unicode.org/L2/L2023/23260-eye-bags-face-emoji.pdf)
 * [2024-09-11, 15:19:45](https://lobste.rs/s/o9khjn/first_html_lsp_reports_syntax_errors) - [The First HTML LSP That Reports Syntax Errors](https://kristoff.it/blog/first-html-lsp/)
