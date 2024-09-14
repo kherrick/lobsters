@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 04:32:07](https://lobste.rs/s/vjnq8v/godot_3_6_finally_released) - [Godot 3.6 finally released](https://godotengine.org/article/godot-3-6-finally-released/)
 * [2024-09-14, 02:16:34](https://lobste.rs/s/agxitj/good_forms) - [Good forms](https://daverupert.com/2024/09/good-forms/)
 * [2024-09-13, 23:13:43](https://lobste.rs/s/gclkzf/retrospective_on_oils_project) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
-* [2024-09-13, 21:56:26](https://lobste.rs/s/hcjvbv/hgg_hierarchical_greedy_graph_based) - [hgg: Hierarchical Greedy Graph based around HNSW data structure](https://github.com/rust-cv/hgg)
 * [2024-09-13, 20:40:17](https://lobste.rs/s/ykqakm/pyrtls_rustls_based_modern_tls_for_python) - [pyrtls: rustls-based modern TLS for Python](https://github.com/djc/pyrtls)
 * [2024-09-13, 20:39:49](https://lobste.rs/s/efzmbs/edgar_solving_mysteries_faster_with) - [Edgar: Solving Mysteries Faster with Observability](https://netflixtechblog.com/edgar-solving-mysteries-faster-with-observability-e1a76302c71f)
 * [2024-09-13, 17:03:03](https://lobste.rs/s/bpwwdt/zero_click_calendar_invite_critical_zero) - [Zero-Click Calendar invite — Critical zero-click vulnerability chain in macOS](https://mikko-kenttala.medium.com/zero-click-calendar-invite-critical-zero-click-vulnerability-chain-in-macos-a7a434fc887b)
