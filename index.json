@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-14, 18:24:41",
+      "https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about"
+    ],
+    [
+      "Falsehoods programmers believe about TCP",
+      "https://lwn.net/Articles/990281/"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 18:12:57",
       "https://lobste.rs/s/ne7mih/liveview_native_is_here"
     ],
@@ -167,16 +177,6 @@
     [
       "A Retrospective on the Oils Project",
       "https://www.oilshell.org/blog/2024/09/retrospective.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 16:57:41",
-      "https://lobste.rs/s/kh7epu/freebsd_11_0_kernel_lpe_userspace_mutexes"
-    ],
-    [
-      "FreeBSD 11.0+ Kernel LPE: Userspace Mutexes (umtx) Use-After-Free Race Condition",
-      "https://accessvector.net/2024/freebsd-umtx-privesc"
     ]
   ],
   [
