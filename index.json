@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-14, 13:22:33",
+      "https://lobste.rs/s/dx0ufh/valkey_unlock_1_million_rps_experience"
+    ],
+    [
+      "Valkey · Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2",
+      "https://valkey.io/blog/unlock-one-million-rps-part2/"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 12:56:33",
       "https://lobste.rs/s/qckuit/end_times_have_come_for_pinboard"
     ],
@@ -237,16 +247,6 @@
     [
       "Factor 0.100 now available",
       "https://re.factorcode.org/2024/09/factor-0-100-now-available.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 19:22:17",
-      "https://lobste.rs/s/sktjxk/openai_o1_model"
-    ],
-    [
-      "OpenAI O1 Model",
-      "https://openai.com/index/learning-to-reason-with-llms/"
     ]
   ]
 ]
