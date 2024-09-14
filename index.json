@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-09-14, 09:48:19",
-      "https://lobste.rs/s/4a0pgl/making_progress_on_side_projects_with"
-    ],
-    [
-      "Making progress on side projects with content-driven development",
-      "https://ntietz.com/blog/making-progress-with-content-driven-development/"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 09:02:38",
       "https://lobste.rs/s/rsm3fk/webtv_internet_relay_chat_2000"
     ],
@@ -147,6 +137,16 @@
     [
       "Haiku beta 5 released",
       "https://www.haiku-os.org/get-haiku/r1beta5/release-notes/"
+    ]
+  ],
+  [
+    [
+      "2024-09-13, 14:51:47",
+      "https://lobste.rs/s/ktnd5c/understanding_raspberry_pi_pico_s_memory"
+    ],
+    [
+      "Understanding the Raspberry Pi Pico’s Memory Layout",
+      "https://petewarden.com/2024/01/16/understanding-the-raspberry-pi-picos-memory-layout/"
     ]
   ],
   [
