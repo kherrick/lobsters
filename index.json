@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-14, 18:12:57",
+      "https://lobste.rs/s/ne7mih/liveview_native_is_here"
+    ],
+    [
+      "LiveView Native Is Here",
+      "https://dockyard.com/blog/2024/09/09/liveview-native-is-here"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 18:01:18",
+      "https://lobste.rs/s/fouybm/tiny_thumbnail_hashes_with_avif"
+    ],
+    [
+      "Tiny Thumbnail Hashes with AVIF",
+      "https://juliobbv.com/avifhash.html"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 17:42:19",
       "https://lobste.rs/s/bchvtr/llms_will_always_hallucinate_we_need_live"
     ],
@@ -97,16 +117,6 @@
     [
       "WebTV and Internet Relay Chat (2000)",
       "https://www.irchelp.org/misc/webtv.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 07:54:09",
-      "https://lobste.rs/s/6zs9lt/reverse_engineering_modding_mario"
-    ],
-    [
-      "Reverse Engineering and Modding Mario Pinball Land (GBA)",
-      "https://cturt.github.io/pinball.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Reasons I still love the fish shell",
       "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 20:32:44",
-      "https://lobste.rs/s/sydvol/factor_0_100_now_available"
-    ],
-    [
-      "Factor 0.100 now available",
-      "https://re.factorcode.org/2024/09/factor-0-100-now-available.html"
     ]
   ]
 ]
