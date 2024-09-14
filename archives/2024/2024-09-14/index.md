@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 13:22:33](https://lobste.rs/s/dx0ufh/valkey_unlock_1_million_rps_experience) - [Valkey · Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2](https://valkey.io/blog/unlock-one-million-rps-part2/)
 * [2024-09-14, 12:56:33](https://lobste.rs/s/qckuit/end_times_have_come_for_pinboard) - [The End Times have come for the Pinboard.in bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
 * [2024-09-14, 10:06:56](https://lobste.rs/s/o59srt/web_security_basics_with_htmx) - [Web Security Basics (with htmx)](https://htmx.org/essays/web-security-basics-with-htmx/)
 * [2024-09-14, 09:48:19](https://lobste.rs/s/4a0pgl/making_progress_on_side_projects_with) - [Making progress on side projects with content-driven development](https://ntietz.com/blog/making-progress-with-content-driven-development/)

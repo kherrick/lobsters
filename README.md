@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 13:22:33](https://lobste.rs/s/dx0ufh/valkey_unlock_1_million_rps_experience) - [Valkey · Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2](https://valkey.io/blog/unlock-one-million-rps-part2/)
 * [2024-09-14, 12:56:33](https://lobste.rs/s/qckuit/end_times_have_come_for_pinboard) - [The End Times have come for the Pinboard.in bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
 * [2024-09-14, 10:06:56](https://lobste.rs/s/o59srt/web_security_basics_with_htmx) - [Web Security Basics (with htmx)](https://htmx.org/essays/web-security-basics-with-htmx/)
 * [2024-09-14, 09:02:38](https://lobste.rs/s/rsm3fk/webtv_internet_relay_chat_2000) - [WebTV and Internet Relay Chat (2000)](https://www.irchelp.org/misc/webtv.html)
@@ -24,7 +25,6 @@
 * [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 * [2024-09-12, 20:54:47](https://lobste.rs/s/nwof4o/conditionally_disabling_code_with) - [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
-* [2024-09-12, 19:22:17](https://lobste.rs/s/sktjxk/openai_o1_model) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 
 ## [Archives](archives/index.md)
 
