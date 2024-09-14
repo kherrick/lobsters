@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 17:42:19](https://lobste.rs/s/bchvtr/llms_will_always_hallucinate_we_need_live) - [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746)
 * [2024-09-14, 16:21:39](https://lobste.rs/s/scrue4/nesting_arena_allocators_rust) - [Nesting Arena Allocators in Rust](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 16:13:19](https://lobste.rs/s/wm6jis/cursed_knowledge) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2024-09-14, 15:23:17](https://lobste.rs/s/g6f0yk/symbolics_ivory_design_verification) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)

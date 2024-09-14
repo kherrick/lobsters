@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 17:42:19](https://lobste.rs/s/bchvtr/llms_will_always_hallucinate_we_need_live) - [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746)
 * [2024-09-14, 16:21:39](https://lobste.rs/s/scrue4/nesting_arena_allocators_rust) - [Nesting Arena Allocators in Rust](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 16:13:19](https://lobste.rs/s/wm6jis/cursed_knowledge) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2024-09-14, 15:23:17](https://lobste.rs/s/g6f0yk/symbolics_ivory_design_verification) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)
@@ -20,7 +21,6 @@
 * [2024-09-13, 16:10:07](https://lobste.rs/s/ngzdqt/haiku_beta_5_released) - [Haiku beta 5 released](https://www.haiku-os.org/get-haiku/r1beta5/release-notes/)
 * [2024-09-13, 13:23:57](https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces) - [Friends don’t let friends reuse nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/)
 * [2024-09-13, 12:52:30](https://lobste.rs/s/bihdon/porting_sbcl_nintendo_switch) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
-* [2024-09-13, 11:24:34](https://lobste.rs/s/zmx4no/watching_sunsets) - [Watching sunsets](https://fabiensanglard.net/sunset/)
 * [2024-09-13, 11:16:56](https://lobste.rs/s/ktpqhp/safe_c) - [Safe C++](https://safecpp.org/draft.html)
 * [2024-09-13, 10:05:23](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend)
 * [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
