@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 23:00:48](https://lobste.rs/s/bawfrd/unbindable_kemmy_schmidt) - [Unbindable Kemmy Schmidt](https://keymaterial.net/2024/09/14/unbindable-kemmy-schmidt/)
 * [2024-09-14, 22:43:09](https://lobste.rs/s/r00pdf/inferred_implicit_parameters_for) - [inferred implicit parameters for ergonomic object capabilities](https://paper.wf/binarycat/inferred-implicit-parameters-for-ergonomic-object-capabilities)
 * [2024-09-14, 20:03:47](https://lobste.rs/s/qlovcp/oxidize_conference_how_rust_makes_oxide) - [Oxidize Conference: How Rust makes Oxide possible](https://www.youtube.com/watch?v=q8qn0dyT3xc)
 * [2024-09-14, 19:20:04](https://lobste.rs/s/on3jol/chrome_ap_firmware_embraces_x86_64) - [Chrome AP Firmware Embraces the x86_64 Architecture](https://blog.osfw.foundation/chrome-ap-firmware-adopting-to-x86_64-architecture/)
@@ -10,7 +11,6 @@
 * [2024-09-14, 17:42:19](https://lobste.rs/s/bchvtr/llms_will_always_hallucinate_we_need_live) - [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746)
 * [2024-09-14, 16:21:39](https://lobste.rs/s/scrue4/nesting_arena_allocators_rust) - [Nesting Arena Allocators in Rust](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 16:13:19](https://lobste.rs/s/wm6jis/cursed_knowledge) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
-* [2024-09-14, 15:23:17](https://lobste.rs/s/g6f0yk/symbolics_ivory_design_verification) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)
 * [2024-09-14, 15:07:59](https://lobste.rs/s/foqe49/my_71_tib_zfs_nas_after_10_years_zero_drive) - [My 71 TiB ZFS NAS after 10 years and zero drive failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 * [2024-09-14, 13:35:27](https://lobste.rs/s/i5pkoh/notes_on_running_go_browser_with) - [Notes on running Go in the browser with WebAssembly](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/)
 * [2024-09-14, 13:22:33](https://lobste.rs/s/dx0ufh/valkey_unlock_1_million_rps_experience) - [Valkey · Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2](https://valkey.io/blog/unlock-one-million-rps-part2/)
