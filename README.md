@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 02:16:34](https://lobste.rs/s/agxitj/good_forms) - [Good forms](https://daverupert.com/2024/09/good-forms/)
 * [2024-09-13, 23:13:43](https://lobste.rs/s/gclkzf/retrospective_on_oils_project) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
 * [2024-09-13, 21:56:26](https://lobste.rs/s/hcjvbv/hgg_hierarchical_greedy_graph_based) - [hgg: Hierarchical Greedy Graph based around HNSW data structure](https://github.com/rust-cv/hgg)
 * [2024-09-13, 20:40:17](https://lobste.rs/s/ykqakm/pyrtls_rustls_based_modern_tls_for_python) - [pyrtls: rustls-based modern TLS for Python](https://github.com/djc/pyrtls)
@@ -24,7 +25,6 @@
 * [2024-09-12, 19:22:17](https://lobste.rs/s/sktjxk/openai_o1_model) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 15:12:09](https://lobste.rs/s/v35mxf/vulnerability_disclosure_feeld_dating) - [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
 * [2024-09-12, 14:56:23](https://lobste.rs/s/9m59pe/what_s_e_graph) - [What’s in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
-* [2024-09-12, 14:40:42](https://lobste.rs/s/kte88x/ergo_erlang_inspired_event_driven_actor) - [Ergo: Erlang-inspired event driven actor framework in Go](https://github.com/ergo-services/ergo)
 
 ## [Archives](archives/index.md)
 
