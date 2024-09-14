@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 09:02:38](https://lobste.rs/s/rsm3fk/webtv_internet_relay_chat_2000) - [WebTV and Internet Relay Chat (2000)](https://www.irchelp.org/misc/webtv.html)
 * [2024-09-14, 07:54:09](https://lobste.rs/s/6zs9lt/reverse_engineering_modding_mario) - [Reverse Engineering and Modding Mario Pinball Land (GBA)](https://cturt.github.io/pinball.html)
 * [2024-09-14, 06:40:07](https://lobste.rs/s/lzwjv5/how_raw_sockets_behave_differently_macos) - [How raw sockets behave differently in macOS and Linux](https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/)
 * [2024-09-14, 05:50:56](https://lobste.rs/s/zglr47/backup_strategies_for_sqlite_production) - [Backup strategies for SQLite in production](https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/)
@@ -12,7 +13,6 @@
 * [2024-09-13, 16:57:41](https://lobste.rs/s/kh7epu/freebsd_11_0_kernel_lpe_userspace_mutexes) - [FreeBSD 11.0+ Kernel LPE: Userspace Mutexes (umtx) Use-After-Free Race Condition](https://accessvector.net/2024/freebsd-umtx-privesc)
 * [2024-09-13, 16:50:27](https://lobste.rs/s/aqjl8p/how_i_added_svg_maps_my_travel_posts) - [How I Added SVG Maps to my Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:10:07](https://lobste.rs/s/ngzdqt/haiku_beta_5_released) - [Haiku beta 5 released](https://www.haiku-os.org/get-haiku/r1beta5/release-notes/)
-* [2024-09-13, 15:28:19](https://lobste.rs/s/lfgl4c/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 5 of 11](https://pvs-studio.com/en/blog/posts/cpp/1160/)
 * [2024-09-13, 14:51:47](https://lobste.rs/s/ktnd5c/understanding_raspberry_pi_pico_s_memory) - [Understanding the Raspberry Pi Pico’s Memory Layout](https://petewarden.com/2024/01/16/understanding-the-raspberry-pi-picos-memory-layout/)
 * [2024-09-13, 13:23:57](https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces) - [Friends don’t let friends reuse nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/)
 * [2024-09-13, 12:52:30](https://lobste.rs/s/bihdon/porting_sbcl_nintendo_switch) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
