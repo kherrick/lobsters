@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 19:20:04](https://lobste.rs/s/on3jol/chrome_ap_firmware_embraces_x86_64) - [Chrome AP Firmware Embraces the x86_64 Architecture](https://blog.osfw.foundation/chrome-ap-firmware-adopting-to-x86_64-architecture/)
 * [2024-09-14, 19:04:55](https://lobste.rs/s/svnbav/don_t_use_js_for_moving_features_css_html) - [Don't Use JS for That: Moving Features to CSS and HTML](https://www.youtube.com/watch?v=IP_rtWEMR0o)
 * [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 18:12:57](https://lobste.rs/s/ne7mih/liveview_native_is_here) - [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)

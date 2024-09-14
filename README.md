@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 19:20:04](https://lobste.rs/s/on3jol/chrome_ap_firmware_embraces_x86_64) - [Chrome AP Firmware Embraces the x86_64 Architecture](https://blog.osfw.foundation/chrome-ap-firmware-adopting-to-x86_64-architecture/)
 * [2024-09-14, 19:04:55](https://lobste.rs/s/svnbav/don_t_use_js_for_moving_features_css_html) - [Don't Use JS for That: Moving Features to CSS and HTML](https://www.youtube.com/watch?v=IP_rtWEMR0o)
 * [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 18:12:57](https://lobste.rs/s/ne7mih/liveview_native_is_here) - [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
@@ -9,7 +10,6 @@
 * [2024-09-14, 16:13:19](https://lobste.rs/s/wm6jis/cursed_knowledge) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2024-09-14, 15:23:17](https://lobste.rs/s/g6f0yk/symbolics_ivory_design_verification) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)
 * [2024-09-14, 15:07:59](https://lobste.rs/s/foqe49/my_71_tib_zfs_nas_after_10_years_zero_drive) - [My 71 TiB ZFS NAS after 10 years and zero drive failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
-* [2024-09-14, 14:54:23](https://lobste.rs/s/ciucbm/best_programmer_i_know_daniel_terhorst) - [The Best Programmer I Know • Daniel Terhorst-North • GOTO 2024](https://www.youtube.com/watch?v=tgaKAF_eiOg)
 * [2024-09-14, 13:35:27](https://lobste.rs/s/i5pkoh/notes_on_running_go_browser_with) - [Notes on running Go in the browser with WebAssembly](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/)
 * [2024-09-14, 13:22:33](https://lobste.rs/s/dx0ufh/valkey_unlock_1_million_rps_experience) - [Valkey · Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2](https://valkey.io/blog/unlock-one-million-rps-part2/)
 * [2024-09-14, 10:06:56](https://lobste.rs/s/o59srt/web_security_basics_with_htmx) - [Web Security Basics (with htmx)](https://htmx.org/essays/web-security-basics-with-htmx/)
