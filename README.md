@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 16:21:39](https://lobste.rs/s/scrue4/nesting_arena_allocators_rust) - [Nesting Arena Allocators in Rust](https://blog.yoshuawuyts.com/nesting-allocators/)
+* [2024-09-14, 16:13:19](https://lobste.rs/s/wm6jis/cursed_knowledge) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2024-09-14, 15:23:17](https://lobste.rs/s/g6f0yk/symbolics_ivory_design_verification) - [The Symbolics Ivory Design and Verification Strategy (1987)](https://archive.org/details/ivory-design-verification)
 * [2024-09-14, 15:07:59](https://lobste.rs/s/foqe49/my_71_tib_zfs_nas_after_10_years_zero_drive) - [My 71 TiB ZFS NAS after 10 years and zero drive failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 * [2024-09-14, 14:54:23](https://lobste.rs/s/ciucbm/best_programmer_i_know_daniel_terhorst) - [The Best Programmer I Know • Daniel Terhorst-North • GOTO 2024](https://www.youtube.com/watch?v=tgaKAF_eiOg)
 * [2024-09-14, 13:35:27](https://lobste.rs/s/i5pkoh/notes_on_running_go_browser_with) - [Notes on running Go in the browser with WebAssembly](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/)
 * [2024-09-14, 13:22:33](https://lobste.rs/s/dx0ufh/valkey_unlock_1_million_rps_experience) - [Valkey · Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2](https://valkey.io/blog/unlock-one-million-rps-part2/)
-* [2024-09-14, 12:56:33](https://lobste.rs/s/qckuit/end_times_have_come_for_pinboard) - [The End Times have come for the Pinboard.in bookmarking service](https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html)
 * [2024-09-14, 10:06:56](https://lobste.rs/s/o59srt/web_security_basics_with_htmx) - [Web Security Basics (with htmx)](https://htmx.org/essays/web-security-basics-with-htmx/)
 * [2024-09-14, 09:02:38](https://lobste.rs/s/rsm3fk/webtv_internet_relay_chat_2000) - [WebTV and Internet Relay Chat (2000)](https://www.irchelp.org/misc/webtv.html)
 * [2024-09-14, 07:54:09](https://lobste.rs/s/6zs9lt/reverse_engineering_modding_mario) - [Reverse Engineering and Modding Mario Pinball Land (GBA)](https://cturt.github.io/pinball.html)
@@ -22,7 +23,6 @@
 * [2024-09-13, 11:24:34](https://lobste.rs/s/zmx4no/watching_sunsets) - [Watching sunsets](https://fabiensanglard.net/sunset/)
 * [2024-09-13, 11:16:56](https://lobste.rs/s/ktpqhp/safe_c) - [Safe C++](https://safecpp.org/draft.html)
 * [2024-09-13, 10:05:23](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend)
-* [2024-09-13, 01:49:02](https://lobste.rs/s/pyhh8z/wallops_modern_irc_client_for_classic_mac) - [Wallops: A modern IRC client for classic Mac OS](https://jcs.org/wallops)
 * [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
 
