@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 18:12:57](https://lobste.rs/s/ne7mih/liveview_native_is_here) - [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
 * [2024-09-14, 18:01:18](https://lobste.rs/s/fouybm/tiny_thumbnail_hashes_with_avif) - [Tiny Thumbnail Hashes with AVIF](https://juliobbv.com/avifhash.html)
 * [2024-09-14, 17:42:19](https://lobste.rs/s/bchvtr/llms_will_always_hallucinate_we_need_live) - [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746)
@@ -17,7 +18,6 @@
 * [2024-09-14, 04:32:07](https://lobste.rs/s/vjnq8v/godot_3_6_finally_released) - [Godot 3.6 finally released](https://godotengine.org/article/godot-3-6-finally-released/)
 * [2024-09-14, 02:16:34](https://lobste.rs/s/agxitj/good_forms) - [Good forms](https://daverupert.com/2024/09/good-forms/)
 * [2024-09-13, 23:13:43](https://lobste.rs/s/gclkzf/retrospective_on_oils_project) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
-* [2024-09-13, 16:57:41](https://lobste.rs/s/kh7epu/freebsd_11_0_kernel_lpe_userspace_mutexes) - [FreeBSD 11.0+ Kernel LPE: Userspace Mutexes (umtx) Use-After-Free Race Condition](https://accessvector.net/2024/freebsd-umtx-privesc)
 * [2024-09-13, 16:50:27](https://lobste.rs/s/aqjl8p/how_i_added_svg_maps_my_travel_posts) - [How I Added SVG Maps to my Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:10:07](https://lobste.rs/s/ngzdqt/haiku_beta_5_released) - [Haiku beta 5 released](https://www.haiku-os.org/get-haiku/r1beta5/release-notes/)
 * [2024-09-13, 13:23:57](https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces) - [Friends don’t let friends reuse nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/)

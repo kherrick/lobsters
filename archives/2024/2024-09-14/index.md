@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-14](index.md)
 
+* [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 18:12:57](https://lobste.rs/s/ne7mih/liveview_native_is_here) - [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
 * [2024-09-14, 18:01:18](https://lobste.rs/s/fouybm/tiny_thumbnail_hashes_with_avif) - [Tiny Thumbnail Hashes with AVIF](https://juliobbv.com/avifhash.html)
 * [2024-09-14, 17:42:19](https://lobste.rs/s/bchvtr/llms_will_always_hallucinate_we_need_live) - [LLMs Will Always Hallucinate, and We Need to Live With This](https://arxiv.org/abs/2409.05746)
