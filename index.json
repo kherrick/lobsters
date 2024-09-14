@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-14, 16:21:39",
+      "https://lobste.rs/s/scrue4/nesting_arena_allocators_rust"
+    ],
+    [
+      "Nesting Arena Allocators in Rust",
+      "https://blog.yoshuawuyts.com/nesting-allocators/"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 16:13:19",
+      "https://lobste.rs/s/wm6jis/cursed_knowledge"
+    ],
+    [
+      "Cursed Knowledge",
+      "https://immich.app/cursed-knowledge/"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 15:23:17",
       "https://lobste.rs/s/g6f0yk/symbolics_ivory_design_verification"
     ],
@@ -47,16 +67,6 @@
     [
       "Valkey · Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2",
       "https://valkey.io/blog/unlock-one-million-rps-part2/"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 12:56:33",
-      "https://lobste.rs/s/qckuit/end_times_have_come_for_pinboard"
-    ],
-    [
-      "The End Times have come for the Pinboard.in bookmarking service",
-      "https://notes.kateva.org/2024/09/the-end-times-have-come-for-pinboardin.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2024-09-13, 01:49:02",
-      "https://lobste.rs/s/pyhh8z/wallops_modern_irc_client_for_classic_mac"
-    ],
-    [
-      "Wallops: A modern IRC client for classic Mac OS",
-      "https://jcs.org/wallops"
     ]
   ],
   [
