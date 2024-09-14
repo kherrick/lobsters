@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-14, 13:35:27",
+      "https://lobste.rs/s/i5pkoh/notes_on_running_go_browser_with"
+    ],
+    [
+      "Notes on running Go in the browser with WebAssembly",
+      "https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 13:22:33",
       "https://lobste.rs/s/dx0ufh/valkey_unlock_1_million_rps_experience"
     ],
@@ -227,16 +237,6 @@
     [
       "Reasons I still love the fish shell",
       "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 20:54:47",
-      "https://lobste.rs/s/nwof4o/conditionally_disabling_code_with"
-    ],
-    [
-      "Conditionally Disabling Code with Comptime in Zig",
-      "https://mitchellh.com/writing/zig-comptime-conditional-disable"
     ]
   ],
   [
