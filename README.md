@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 20:03:47](https://lobste.rs/s/qlovcp/oxidize_conference_how_rust_makes_oxide) - [Oxidize Conference: How Rust makes Oxide possible](https://www.youtube.com/watch?v=q8qn0dyT3xc)
 * [2024-09-14, 19:20:04](https://lobste.rs/s/on3jol/chrome_ap_firmware_embraces_x86_64) - [Chrome AP Firmware Embraces the x86_64 Architecture](https://blog.osfw.foundation/chrome-ap-firmware-adopting-to-x86_64-architecture/)
 * [2024-09-14, 19:04:55](https://lobste.rs/s/svnbav/don_t_use_js_for_moving_features_css_html) - [Don't Use JS for That: Moving Features to CSS and HTML](https://www.youtube.com/watch?v=IP_rtWEMR0o)
 * [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
@@ -13,7 +14,6 @@
 * [2024-09-14, 13:35:27](https://lobste.rs/s/i5pkoh/notes_on_running_go_browser_with) - [Notes on running Go in the browser with WebAssembly](https://eli.thegreenplace.net/2024/notes-on-running-go-in-the-browser-with-webassembly/)
 * [2024-09-14, 13:22:33](https://lobste.rs/s/dx0ufh/valkey_unlock_1_million_rps_experience) - [Valkey · Unlock 1 Million RPS: Experience Triple the Speed with Valkey - part 2](https://valkey.io/blog/unlock-one-million-rps-part2/)
 * [2024-09-14, 10:06:56](https://lobste.rs/s/o59srt/web_security_basics_with_htmx) - [Web Security Basics (with htmx)](https://htmx.org/essays/web-security-basics-with-htmx/)
-* [2024-09-14, 09:02:38](https://lobste.rs/s/rsm3fk/webtv_internet_relay_chat_2000) - [WebTV and Internet Relay Chat (2000)](https://www.irchelp.org/misc/webtv.html)
 * [2024-09-14, 06:40:07](https://lobste.rs/s/lzwjv5/how_raw_sockets_behave_differently_macos) - [How raw sockets behave differently in macOS and Linux](https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/)
 * [2024-09-14, 05:50:56](https://lobste.rs/s/zglr47/backup_strategies_for_sqlite_production) - [Backup strategies for SQLite in production](https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/)
 * [2024-09-14, 04:32:07](https://lobste.rs/s/vjnq8v/godot_3_6_finally_released) - [Godot 3.6 finally released](https://godotengine.org/article/godot-3-6-finally-released/)
