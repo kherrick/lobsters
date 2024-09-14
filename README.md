@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 06:40:07](https://lobste.rs/s/lzwjv5/how_raw_sockets_behave_differently_macos) - [How raw sockets behave differently in macOS and Linux](https://swagnik.netlify.app/posts/how-raw-sockets-behave-in-different-systems/)
 * [2024-09-14, 05:50:56](https://lobste.rs/s/zglr47/backup_strategies_for_sqlite_production) - [Backup strategies for SQLite in production](https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/)
 * [2024-09-14, 04:32:07](https://lobste.rs/s/vjnq8v/godot_3_6_finally_released) - [Godot 3.6 finally released](https://godotengine.org/article/godot-3-6-finally-released/)
 * [2024-09-14, 02:16:34](https://lobste.rs/s/agxitj/good_forms) - [Good forms](https://daverupert.com/2024/09/good-forms/)
@@ -21,7 +22,6 @@
 * [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 * [2024-09-12, 20:54:47](https://lobste.rs/s/nwof4o/conditionally_disabling_code_with) - [Conditionally Disabling Code with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-conditional-disable)
 * [2024-09-12, 20:32:44](https://lobste.rs/s/sydvol/factor_0_100_now_available) - [Factor 0.100 now available](https://re.factorcode.org/2024/09/factor-0-100-now-available.html)
-* [2024-09-12, 20:21:01](https://lobste.rs/s/vq4eni/ruffle_optimisations_text_input_tab) - [Ruffle: Optimisations, Text Input, Tab Focusing and More](https://ruffle.rs/blog/2024/09/12/optimisations-text-more)
 * [2024-09-12, 19:22:17](https://lobste.rs/s/sktjxk/openai_o1_model) - [OpenAI O1 Model](https://openai.com/index/learning-to-reason-with-llms/)
 * [2024-09-12, 15:12:09](https://lobste.rs/s/v35mxf/vulnerability_disclosure_feeld_dating) - [Vulnerability Disclosure of Feeld (dating app)](https://fortbridge.co.uk/research/feeld-dating-app-nudes-data-publicly-available/)
 * [2024-09-12, 14:56:23](https://lobste.rs/s/9m59pe/what_s_e_graph) - [What’s in an e-graph?](https://bernsteinbear.com/blog/whats-in-an-egraph/)
