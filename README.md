@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-14, 19:04:55](https://lobste.rs/s/svnbav/don_t_use_js_for_moving_features_css_html) - [Don't Use JS for That: Moving Features to CSS and HTML](https://www.youtube.com/watch?v=IP_rtWEMR0o)
 * [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 18:12:57](https://lobste.rs/s/ne7mih/liveview_native_is_here) - [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
 * [2024-09-14, 18:01:18](https://lobste.rs/s/fouybm/tiny_thumbnail_hashes_with_avif) - [Tiny Thumbnail Hashes with AVIF](https://juliobbv.com/avifhash.html)
@@ -23,7 +24,6 @@
 * [2024-09-13, 13:23:57](https://lobste.rs/s/4qjre4/friends_don_t_let_friends_reuse_nonces) - [Friends don’t let friends reuse nonces](https://blog.trailofbits.com/2024/09/13/friends-dont-let-friends-reuse-nonces/)
 * [2024-09-13, 12:52:30](https://lobste.rs/s/bihdon/porting_sbcl_nintendo_switch) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 11:16:56](https://lobste.rs/s/ktpqhp/safe_c) - [Safe C++](https://safecpp.org/draft.html)
-* [2024-09-13, 10:05:23](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iz2i49/what_are_you_doing_this_weekend)
 * [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 
 ## [Archives](archives/index.md)
