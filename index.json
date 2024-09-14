@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-14, 02:16:34",
+      "https://lobste.rs/s/agxitj/good_forms"
+    ],
+    [
+      "Good forms",
+      "https://daverupert.com/2024/09/good-forms/"
+    ]
+  ],
+  [
+    [
       "2024-09-13, 23:13:43",
       "https://lobste.rs/s/gclkzf/retrospective_on_oils_project"
     ],
@@ -237,16 +247,6 @@
     [
       "What’s in an e-graph?",
       "https://bernsteinbear.com/blog/whats-in-an-egraph/"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 14:40:42",
-      "https://lobste.rs/s/kte88x/ergo_erlang_inspired_event_driven_actor"
-    ],
-    [
-      "Ergo: Erlang-inspired event driven actor framework in Go",
-      "https://github.com/ergo-services/ergo"
     ]
   ]
 ]
