@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-15, 05:41:51",
+      "https://lobste.rs/s/mgc2lf/fair_go_library_for_serving_resources"
+    ],
+    [
+      "fair: A Go library for serving resources fairly",
+      "https://github.com/satmihir/fair/"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 05:22:29",
       "https://lobste.rs/s/s7cbfg/time_consuming_pitfall_for_32_bit"
     ],
@@ -197,16 +207,6 @@
     [
       "Backup strategies for SQLite in production",
       "https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 02:16:34",
-      "https://lobste.rs/s/agxitj/good_forms"
-    ],
-    [
-      "Good forms",
-      "https://daverupert.com/2024/09/good-forms/"
     ]
   ],
   [
