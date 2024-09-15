@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 18:12:52](https://lobste.rs/s/nitj04/more_modern_css_reset) - [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [2024-09-15, 17:47:00](https://lobste.rs/s/i4j1cb/say_hello_blog_haskell_org) - [Say hello to blog.haskell.org](https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355)
 * [2024-09-15, 17:18:38](https://lobste.rs/s/wfgevl/minilang_type_safe_c_successor) - [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
 * [2024-09-15, 17:18:06](https://lobste.rs/s/2gohxl/private_lines) - [private lines](https://computer.rip/2024-09-08-private-lines.html)
