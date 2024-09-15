@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2024-09-15, 01:41:25",
-      "https://lobste.rs/s/rbtfuw/impact_global_struct_size_toybox"
-    ],
-    [
-      "Impact of global struct size in Toybox",
-      "http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html"
-    ]
-  ],
-  [
-    [
       "2024-09-14, 22:43:09",
       "https://lobste.rs/s/r00pdf/inferred_implicit_parameters_for"
     ],
@@ -127,6 +117,16 @@
     [
       "Oxidize Conference: How Rust makes Oxide possible",
       "https://www.youtube.com/watch?v=q8qn0dyT3xc"
+    ]
+  ],
+  [
+    [
+      "2024-09-14, 19:20:04",
+      "https://lobste.rs/s/on3jol/chrome_ap_firmware_embraces_x86_64"
+    ],
+    [
+      "Chrome AP Firmware Embraces the x86_64 Architecture",
+      "https://blog.osfw.foundation/chrome-ap-firmware-adopting-to-x86_64-architecture/"
     ]
   ],
   [
