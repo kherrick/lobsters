@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 07:58:36](https://lobste.rs/s/vqvul7/rust_error_handling_is_perfect_actually) - [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-15, 05:41:51](https://lobste.rs/s/mgc2lf/fair_go_library_for_serving_resources) - [fair: A Go library for serving resources fairly](https://github.com/satmihir/fair/)
 * [2024-09-15, 05:22:29](https://lobste.rs/s/s7cbfg/time_consuming_pitfall_for_32_bit) - [A Time Consuming Pitfall for 32-bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
 * [2024-09-15, 01:59:14](https://lobste.rs/s/grqy5d/fractran) - [Fractran](https://wiki.xxiivv.com/site/fractran.html)
