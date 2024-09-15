@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-15, 19:35:13](https://lobste.rs/s/iva966/how_go_tests_go_test) - [How Go Tests \"go test\"](https://atlasgo.io/blog/2024/09/09/how-go-tests-go-test)
 * [2024-09-15, 18:12:52](https://lobste.rs/s/nitj04/more_modern_css_reset) - [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [2024-09-15, 17:47:00](https://lobste.rs/s/i4j1cb/say_hello_blog_haskell_org) - [Say hello to blog.haskell.org](https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355)
 * [2024-09-15, 17:18:38](https://lobste.rs/s/wfgevl/minilang_type_safe_c_successor) - [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
@@ -24,7 +25,6 @@
 * [2024-09-14, 16:21:39](https://lobste.rs/s/scrue4/nesting_arena_allocators_rust) - [Nesting Arena Allocators in Rust](https://blog.yoshuawuyts.com/nesting-allocators/)
 * [2024-09-14, 16:13:19](https://lobste.rs/s/wm6jis/cursed_knowledge) - [Cursed Knowledge](https://immich.app/cursed-knowledge/)
 * [2024-09-14, 15:07:59](https://lobste.rs/s/foqe49/my_71_tib_zfs_nas_after_10_years_zero_drive) - [My 71 TiB ZFS NAS after 10 years and zero drive failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
-* [2024-09-13, 23:13:43](https://lobste.rs/s/gclkzf/retrospective_on_oils_project) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
 
 ## [Archives](archives/index.md)
 
