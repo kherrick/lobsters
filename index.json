@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-15, 01:59:14",
+      "https://lobste.rs/s/grqy5d/fractran"
+    ],
+    [
+      "Fractran",
+      "https://wiki.xxiivv.com/site/fractran.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-15, 01:41:25",
+      "https://lobste.rs/s/rbtfuw/impact_global_struct_size_toybox"
+    ],
+    [
+      "Impact of global struct size in Toybox",
+      "http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html"
+    ]
+  ],
+  [
+    [
       "2024-09-14, 23:00:48",
       "https://lobste.rs/s/bawfrd/unbindable_kemmy_schmidt"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-09-13, 12:52:30",
-      "https://lobste.rs/s/bihdon/porting_sbcl_nintendo_switch"
-    ],
-    [
-      "Porting SBCL to the Nintendo Switch",
-      "https://reader.tymoon.eu/article/437"
-    ]
-  ],
-  [
-    [
       "2024-09-13, 11:16:56",
       "https://lobste.rs/s/ktpqhp/safe_c"
     ],
     [
       "Safe C++",
       "https://safecpp.org/draft.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-12, 21:51:53",
-      "https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell"
-    ],
-    [
-      "Reasons I still love the fish shell",
-      "https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/"
     ]
   ]
 ]
