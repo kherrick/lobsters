@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-15, 16:35:03](https://lobste.rs/s/trqpxj/fuzzers_vs_games) - [Fuzzers vs Games](https://addisoncrump.info/research/fuzzers-and-gaming/)
 * [2024-09-15, 16:20:38](https://lobste.rs/s/rpwalz/at_t_s_crisp_hobbits) - [AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 15:53:40](https://lobste.rs/s/6oixu6/saving_voyager_1) - [Saving Voyager 1](https://www.youtube.com/watch?v=dF_9YcehCZo)
 * [2024-09-15, 15:42:16](https://lobste.rs/s/3k2dmv/fast_full_text_cli_reader_works_also_with) - [A fast full-text cli reader (works also with lobste.rs articles content)](https://github.com/piqoni/cast-text)
@@ -12,7 +13,6 @@
 * [2024-09-15, 01:41:25](https://lobste.rs/s/rbtfuw/impact_global_struct_size_toybox) - [Impact of global struct size in Toybox](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
 * [2024-09-14, 22:43:09](https://lobste.rs/s/r00pdf/inferred_implicit_parameters_for) - [inferred implicit parameters for ergonomic object capabilities](https://paper.wf/binarycat/inferred-implicit-parameters-for-ergonomic-object-capabilities)
 * [2024-09-14, 20:03:47](https://lobste.rs/s/qlovcp/oxidize_conference_how_rust_makes_oxide) - [Oxidize Conference: How Rust makes Oxide possible](https://www.youtube.com/watch?v=q8qn0dyT3xc)
-* [2024-09-14, 19:20:04](https://lobste.rs/s/on3jol/chrome_ap_firmware_embraces_x86_64) - [Chrome AP Firmware Embraces the x86_64 Architecture](https://blog.osfw.foundation/chrome-ap-firmware-adopting-to-x86_64-architecture/)
 * [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 18:12:57](https://lobste.rs/s/ne7mih/liveview_native_is_here) - [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
 * [2024-09-14, 18:01:18](https://lobste.rs/s/fouybm/tiny_thumbnail_hashes_with_avif) - [Tiny Thumbnail Hashes with AVIF](https://juliobbv.com/avifhash.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 16:35:03](https://lobste.rs/s/trqpxj/fuzzers_vs_games) - [Fuzzers vs Games](https://addisoncrump.info/research/fuzzers-and-gaming/)
 * [2024-09-15, 16:20:38](https://lobste.rs/s/rpwalz/at_t_s_crisp_hobbits) - [AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 15:53:40](https://lobste.rs/s/6oixu6/saving_voyager_1) - [Saving Voyager 1](https://www.youtube.com/watch?v=dF_9YcehCZo)
 * [2024-09-15, 15:42:16](https://lobste.rs/s/3k2dmv/fast_full_text_cli_reader_works_also_with) - [A fast full-text cli reader (works also with lobste.rs articles content)](https://github.com/piqoni/cast-text)
