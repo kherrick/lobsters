@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 11:04:27](https://lobste.rs/s/3jo60l/will_we_be_writing_hare_2099) - [Will we be writing Hare in 2099?](https://www.youtube.com/watch?v=42y2Q9io3Xs)
 * [2024-09-15, 09:04:02](https://lobste.rs/s/begr4l/how_hide_lobste_rs_submissions_include) - [How to hide lobste.rs submissions that include specific keywords with uBlock Origin](https://lobste.rs/s/begr4l/how_hide_lobste_rs_submissions_include)
 * [2024-09-15, 07:58:36](https://lobste.rs/s/vqvul7/rust_error_handling_is_perfect_actually) - [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-15, 05:41:51](https://lobste.rs/s/mgc2lf/fair_go_library_for_serving_resources) - [fair: A Go library for serving resources fairly](https://github.com/satmihir/fair/)
