@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-15, 09:04:02](https://lobste.rs/s/begr4l/how_hide_lobste_rs_submissions_include) - [How to hide lobste.rs submissions that include specific keywords with uBlock Origin](https://lobste.rs/s/begr4l/how_hide_lobste_rs_submissions_include)
 * [2024-09-15, 07:58:36](https://lobste.rs/s/vqvul7/rust_error_handling_is_perfect_actually) - [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-15, 05:41:51](https://lobste.rs/s/mgc2lf/fair_go_library_for_serving_resources) - [fair: A Go library for serving resources fairly](https://github.com/satmihir/fair/)
 * [2024-09-15, 05:22:29](https://lobste.rs/s/s7cbfg/time_consuming_pitfall_for_32_bit) - [A Time Consuming Pitfall for 32-bit Applications on AArch64](https://sigma-star.at/blog/2024/02/aarch64-32-bit-compat-pitfall/)
@@ -24,7 +25,6 @@
 * [2024-09-14, 05:50:56](https://lobste.rs/s/zglr47/backup_strategies_for_sqlite_production) - [Backup strategies for SQLite in production](https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/)
 * [2024-09-13, 23:13:43](https://lobste.rs/s/gclkzf/retrospective_on_oils_project) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
 * [2024-09-13, 16:10:07](https://lobste.rs/s/ngzdqt/haiku_beta_5_released) - [Haiku beta 5 released](https://www.haiku-os.org/get-haiku/r1beta5/release-notes/)
-* [2024-09-13, 11:16:56](https://lobste.rs/s/ktpqhp/safe_c) - [Safe C++](https://safecpp.org/draft.html)
 
 ## [Archives](archives/index.md)
 
