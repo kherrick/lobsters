@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-15, 23:53:27](https://lobste.rs/s/4qgulg/linux_6_11_has_been_released) - [Linux 6.11 has been released](https://lwn.net/Articles/990307/)
 * [2024-09-15, 22:48:03](https://lobste.rs/s/majyey/something_went_wrong) - [Something went wrong](https://molily.de/something-went-wrong/)
 * [2024-09-15, 20:50:02](https://lobste.rs/s/ajnwu4/fixing_elgato_hd60_s_hdmi_capture_device) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-15, 19:35:13](https://lobste.rs/s/iva966/how_go_tests_go_test) - [How Go Tests \"go test\"](https://atlasgo.io/blog/2024/09/09/how-go-tests-go-test)
@@ -16,7 +17,6 @@
 * [2024-09-15, 11:04:27](https://lobste.rs/s/3jo60l/will_we_be_writing_hare_2099) - [Will we be writing Hare in 2099?](https://www.youtube.com/watch?v=42y2Q9io3Xs)
 * [2024-09-15, 09:04:02](https://lobste.rs/s/begr4l/how_hide_lobste_rs_submissions_include) - [How to hide lobste.rs submissions that include specific keywords with uBlock Origin](https://lobste.rs/s/begr4l/how_hide_lobste_rs_submissions_include)
 * [2024-09-15, 07:58:36](https://lobste.rs/s/vqvul7/rust_error_handling_is_perfect_actually) - [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
-* [2024-09-15, 05:41:51](https://lobste.rs/s/mgc2lf/fair_go_library_for_serving_resources) - [fair: A Go library for serving resources fairly](https://github.com/satmihir/fair/)
 * [2024-09-15, 01:59:14](https://lobste.rs/s/grqy5d/fractran) - [Fractran](https://wiki.xxiivv.com/site/fractran.html)
 * [2024-09-14, 20:03:47](https://lobste.rs/s/qlovcp/oxidize_conference_how_rust_makes_oxide) - [Oxidize Conference: How Rust makes Oxide possible](https://www.youtube.com/watch?v=q8qn0dyT3xc)
 * [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)

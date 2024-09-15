@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-15](index.md)
 
+* [2024-09-15, 23:53:27](https://lobste.rs/s/4qgulg/linux_6_11_has_been_released) - [Linux 6.11 has been released](https://lwn.net/Articles/990307/)
 * [2024-09-15, 22:48:03](https://lobste.rs/s/majyey/something_went_wrong) - [Something went wrong](https://molily.de/something-went-wrong/)
 * [2024-09-15, 20:50:02](https://lobste.rs/s/ajnwu4/fixing_elgato_hd60_s_hdmi_capture_device) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-15, 19:35:13](https://lobste.rs/s/iva966/how_go_tests_go_test) - [How Go Tests \"go test\"](https://atlasgo.io/blog/2024/09/09/how-go-tests-go-test)
