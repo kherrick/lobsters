@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-15, 18:12:52",
+      "https://lobste.rs/s/nitj04/more_modern_css_reset"
+    ],
+    [
+      "A (more) Modern CSS Reset",
+      "https://piccalil.li/blog/a-more-modern-css-reset/"
+    ]
+  ],
+  [
+    [
       "2024-09-15, 17:47:00",
       "https://lobste.rs/s/i4j1cb/say_hello_blog_haskell_org"
     ],
@@ -227,16 +237,6 @@
     [
       "My 71 TiB ZFS NAS after 10 years and zero drive failures",
       "https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 05:50:56",
-      "https://lobste.rs/s/zglr47/backup_strategies_for_sqlite_production"
-    ],
-    [
-      "Backup strategies for SQLite in production",
-      "https://oldmoe.blog/2024/04/30/backup-strategies-for-sqlite-in-production/"
     ]
   ],
   [
