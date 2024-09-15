@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-15, 01:59:14](https://lobste.rs/s/grqy5d/fractran) - [Fractran](https://wiki.xxiivv.com/site/fractran.html)
+* [2024-09-15, 01:41:25](https://lobste.rs/s/rbtfuw/impact_global_struct_size_toybox) - [Impact of global struct size in Toybox](http://lists.landley.net/pipermail/toybox-landley.net/2024-January/029957.html)
 * [2024-09-14, 23:00:48](https://lobste.rs/s/bawfrd/unbindable_kemmy_schmidt) - [Unbindable Kemmy Schmidt](https://keymaterial.net/2024/09/14/unbindable-kemmy-schmidt/)
 * [2024-09-14, 22:43:09](https://lobste.rs/s/r00pdf/inferred_implicit_parameters_for) - [inferred implicit parameters for ergonomic object capabilities](https://paper.wf/binarycat/inferred-implicit-parameters-for-ergonomic-object-capabilities)
 * [2024-09-14, 20:03:47](https://lobste.rs/s/qlovcp/oxidize_conference_how_rust_makes_oxide) - [Oxidize Conference: How Rust makes Oxide possible](https://www.youtube.com/watch?v=q8qn0dyT3xc)
@@ -22,9 +24,7 @@
 * [2024-09-13, 23:13:43](https://lobste.rs/s/gclkzf/retrospective_on_oils_project) - [A Retrospective on the Oils Project](https://www.oilshell.org/blog/2024/09/retrospective.html)
 * [2024-09-13, 16:50:27](https://lobste.rs/s/aqjl8p/how_i_added_svg_maps_my_travel_posts) - [How I Added SVG Maps to my Travel Posts](https://cyberb.space/notes/2024/how-i-added-maps-to-my-travel-posts/)
 * [2024-09-13, 16:10:07](https://lobste.rs/s/ngzdqt/haiku_beta_5_released) - [Haiku beta 5 released](https://www.haiku-os.org/get-haiku/r1beta5/release-notes/)
-* [2024-09-13, 12:52:30](https://lobste.rs/s/bihdon/porting_sbcl_nintendo_switch) - [Porting SBCL to the Nintendo Switch](https://reader.tymoon.eu/article/437)
 * [2024-09-13, 11:16:56](https://lobste.rs/s/ktpqhp/safe_c) - [Safe C++](https://safecpp.org/draft.html)
-* [2024-09-12, 21:51:53](https://lobste.rs/s/o1zdwv/reasons_i_still_love_fish_shell) - [Reasons I still love the fish shell](https://jvns.ca/blog/2024/09/12/reasons-i--still--love-fish/)
 
 ## [Archives](archives/index.md)
 
