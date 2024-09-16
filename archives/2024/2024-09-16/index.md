@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 08:31:21](https://lobste.rs/s/qxv9a1/spreadsheet_debugger_walk_into_shell) - [A Spreadsheet and a Debugger walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
+* [2024-09-16, 08:24:07](https://lobste.rs/s/bbzp08/constraints_guarantees) - [Constraints and guarantees](https://jfmengels.net/constraints-and-guarantees/)
 * [2024-09-16, 07:35:00](https://lobste.rs/s/swhk3s/vector_math_library_codegen_debug) - [Vector math library codegen in Debug ·](https://aras-p.info/blog/2024/09/14/Vector-math-library-codegen-in-Debug/)
 * [2024-09-16, 05:41:35](https://lobste.rs/s/99pnlp/slatedb_cloud_native_embedded_storage) - [slatedb: A cloud native embedded storage engine built on object storage](https://github.com/slatedb/slatedb/)
 * [2024-09-16, 04:53:10](https://lobste.rs/s/albrk0/creating_your_own_federated_microblog) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)

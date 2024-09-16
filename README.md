@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-16, 08:31:21](https://lobste.rs/s/qxv9a1/spreadsheet_debugger_walk_into_shell) - [A Spreadsheet and a Debugger walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
+* [2024-09-16, 08:24:07](https://lobste.rs/s/bbzp08/constraints_guarantees) - [Constraints and guarantees](https://jfmengels.net/constraints-and-guarantees/)
 * [2024-09-16, 07:35:00](https://lobste.rs/s/swhk3s/vector_math_library_codegen_debug) - [Vector math library codegen in Debug ·](https://aras-p.info/blog/2024/09/14/Vector-math-library-codegen-in-Debug/)
 * [2024-09-16, 05:41:35](https://lobste.rs/s/99pnlp/slatedb_cloud_native_embedded_storage) - [slatedb: A cloud native embedded storage engine built on object storage](https://github.com/slatedb/slatedb/)
 * [2024-09-16, 04:53:10](https://lobste.rs/s/albrk0/creating_your_own_federated_microblog) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
@@ -17,14 +19,12 @@
 * [2024-09-15, 17:18:06](https://lobste.rs/s/2gohxl/private_lines) - [private lines](https://computer.rip/2024-09-08-private-lines.html)
 * [2024-09-15, 17:15:57](https://lobste.rs/s/hnejpg/turning_disposable_vapes_into_fast) - [Turning Disposable Vapes into a Fast Charge Power Bank](https://youtu.be/ehp23hrrEHY)
 * [2024-09-15, 16:20:38](https://lobste.rs/s/rpwalz/at_t_s_crisp_hobbits) - [AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
-* [2024-09-15, 15:53:40](https://lobste.rs/s/6oixu6/saving_voyager_1) - [Saving Voyager 1](https://www.youtube.com/watch?v=dF_9YcehCZo)
 * [2024-09-15, 15:42:16](https://lobste.rs/s/3k2dmv/fast_full_text_cli_reader_works_also_with) - [A fast full-text cli reader (works also with lobste.rs articles content)](https://github.com/piqoni/cast-text)
 * [2024-09-15, 12:56:02](https://lobste.rs/s/9a1nnf/llms_don_t_know_what_they_are_talking_about) - [LLMs don't know what they are talking about](https://danthegoodman.substack.com/p/notes-llms-dont-know-what-they-are)
 * [2024-09-15, 11:04:27](https://lobste.rs/s/3jo60l/will_we_be_writing_hare_2099) - [Will we be writing Hare in 2099?](https://www.youtube.com/watch?v=42y2Q9io3Xs)
 * [2024-09-15, 09:04:02](https://lobste.rs/s/begr4l/how_hide_lobste_rs_submissions_include) - [How to hide lobste.rs submissions that include specific keywords with uBlock Origin](https://lobste.rs/s/begr4l/how_hide_lobste_rs_submissions_include)
 * [2024-09-15, 07:58:36](https://lobste.rs/s/vqvul7/rust_error_handling_is_perfect_actually) - [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 * [2024-09-15, 01:59:14](https://lobste.rs/s/grqy5d/fractran) - [Fractran](https://wiki.xxiivv.com/site/fractran.html)
-* [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 
 ## [Archives](archives/index.md)
 
