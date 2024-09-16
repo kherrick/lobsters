@@ -2,10 +2,10 @@
 
 * [2024-09-16, 16:49:47](https://lobste.rs/s/fna7uv/terminal_for_kubernetes) - [The terminal for Kubernetes](https://github.com/grampelberg/kty)
 * [2024-09-16, 15:57:13](https://lobste.rs/s/jupy5r/oracle_it_s_time_free_javascript) - [Oracle, it’s time to free JavaScript](https://javascript.tm/)
-* [2024-09-16, 14:49:56](https://lobste.rs/s/vadyjj/cohost_shut_down_at_end_2024) - [cohost to shut down at end of 2024](https://cohost.org/staff/post/7611443-cohost-to-shut-down)
 * [2024-09-16, 13:25:51](https://lobste.rs/s/uait3m/let_s_build_optimize_rust_extension_for) - [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/)
 * [2024-09-16, 11:14:42](https://lobste.rs/s/yvyhmo/big_strings_bpftrace) - [Big strings in bpftrace](https://dxuuu.xyz/big-strings.html)
 * [2024-09-16, 10:48:11](https://lobste.rs/s/lkiswl/cellguard_analyze_observe_cellular) - [Cellguard: Analyze and observe cellular networks to detect surveillance](https://cellguard.seemoo.de/)
+* [2024-09-16, 10:30:59](https://lobste.rs/s/rzed6w/javascript_code_minification_report) - [JavaScript Code Minification Report](https://blog.haskell.org/report-of-js-code-minification/)
 * [2024-09-16, 09:58:01](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week)
 * [2024-09-16, 08:31:21](https://lobste.rs/s/qxv9a1/spreadsheet_debugger_walk_into_shell) - [A Spreadsheet and a Debugger walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 08:24:07](https://lobste.rs/s/bbzp08/constraints_guarantees) - [Constraints and guarantees](https://jfmengels.net/constraints-and-guarantees/)
