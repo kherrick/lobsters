@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-16, 02:32:45](https://lobste.rs/s/niio1y/visiting_area_5150_investigating_pc_demo) - [Visiting Area 5150: Investigating a PC Demo](https://www.youtube.com/watch?v=VWQB6HmqKig)
 * [2024-09-16, 01:37:21](https://lobste.rs/s/nbywtk/race_conditions_linux_kernel_perf_events) - [Race conditions in Linux Kernel perf events](https://binarygecko.com/race-conditions-in-linux-kernel-perf-events/)
 * [2024-09-16, 01:27:30](https://lobste.rs/s/olevrg/18_months_with_framework_13) - [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
 * [2024-09-15, 23:53:27](https://lobste.rs/s/4qgulg/linux_6_11_has_been_released) - [Linux 6.11 has been released](https://lwn.net/Articles/990307/)
@@ -24,7 +25,6 @@
 * [2024-09-14, 18:24:41](https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about TCP](https://lwn.net/Articles/990281/)
 * [2024-09-14, 18:12:57](https://lobste.rs/s/ne7mih/liveview_native_is_here) - [LiveView Native Is Here](https://dockyard.com/blog/2024/09/09/liveview-native-is-here)
 * [2024-09-14, 18:01:18](https://lobste.rs/s/fouybm/tiny_thumbnail_hashes_with_avif) - [Tiny Thumbnail Hashes with AVIF](https://juliobbv.com/avifhash.html)
-* [2024-09-14, 15:07:59](https://lobste.rs/s/foqe49/my_71_tib_zfs_nas_after_10_years_zero_drive) - [My 71 TiB ZFS NAS after 10 years and zero drive failures](https://louwrentius.com/my-71-tib-zfs-nas-after-10-years-and-zero-drive-failures.html)
 
 ## [Archives](archives/index.md)
 
