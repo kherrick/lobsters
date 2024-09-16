@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-16, 04:34:36](https://lobste.rs/s/sp6you/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 04:19:38](https://lobste.rs/s/de4kwj/implementing_closures_first_class) - [Implementing closures and first-class functions in WebAssembly](https://thestackframe.dev/implementing-closures-and-first-class-functions-in-webassembly/)
 * [2024-09-16, 02:32:45](https://lobste.rs/s/niio1y/visiting_area_5150_investigating_pc_demo) - [Visiting Area 5150: Investigating a PC Demo](https://www.youtube.com/watch?v=VWQB6HmqKig)
 * [2024-09-16, 01:37:21](https://lobste.rs/s/nbywtk/race_conditions_linux_kernel_perf_events) - [Race conditions in Linux Kernel perf events](https://binarygecko.com/race-conditions-in-linux-kernel-perf-events/)
@@ -11,7 +12,6 @@
 * [2024-09-15, 18:12:52](https://lobste.rs/s/nitj04/more_modern_css_reset) - [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [2024-09-15, 17:47:00](https://lobste.rs/s/i4j1cb/say_hello_blog_haskell_org) - [Say hello to blog.haskell.org](https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355)
 * [2024-09-15, 17:18:38](https://lobste.rs/s/wfgevl/minilang_type_safe_c_successor) - [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
-* [2024-09-15, 17:18:06](https://lobste.rs/s/2gohxl/private_lines) - [private lines](https://computer.rip/2024-09-08-private-lines.html)
 * [2024-09-15, 17:15:57](https://lobste.rs/s/hnejpg/turning_disposable_vapes_into_fast) - [Turning Disposable Vapes into a Fast Charge Power Bank](https://youtu.be/ehp23hrrEHY)
 * [2024-09-15, 16:20:38](https://lobste.rs/s/rpwalz/at_t_s_crisp_hobbits) - [AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 15:53:40](https://lobste.rs/s/6oixu6/saving_voyager_1) - [Saving Voyager 1](https://www.youtube.com/watch?v=dF_9YcehCZo)
