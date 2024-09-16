@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-16, 08:31:21",
+      "https://lobste.rs/s/qxv9a1/spreadsheet_debugger_walk_into_shell"
+    ],
+    [
+      "A Spreadsheet and a Debugger walk into a Shell",
+      "https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/"
+    ]
+  ],
+  [
+    [
+      "2024-09-16, 08:24:07",
+      "https://lobste.rs/s/bbzp08/constraints_guarantees"
+    ],
+    [
+      "Constraints and guarantees",
+      "https://jfmengels.net/constraints-and-guarantees/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 07:35:00",
       "https://lobste.rs/s/swhk3s/vector_math_library_codegen_debug"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-09-15, 15:53:40",
-      "https://lobste.rs/s/6oixu6/saving_voyager_1"
-    ],
-    [
-      "Saving Voyager 1",
-      "https://www.youtube.com/watch?v=dF_9YcehCZo"
-    ]
-  ],
-  [
-    [
       "2024-09-15, 15:42:16",
       "https://lobste.rs/s/3k2dmv/fast_full_text_cli_reader_works_also_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Fractran",
       "https://wiki.xxiivv.com/site/fractran.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-14, 18:24:41",
-      "https://lobste.rs/s/w1llcv/falsehoods_programmers_believe_about"
-    ],
-    [
-      "Falsehoods programmers believe about TCP",
-      "https://lwn.net/Articles/990281/"
     ]
   ]
 ]
