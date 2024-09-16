@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 21:21:01](https://lobste.rs/s/mun2dn/drive_by_active_storage_advice) - [Drive-by Active Storage advice](https://justin.searls.co/posts/drive-by-active-storage-advice/)
 * [2024-09-16, 18:27:58](https://lobste.rs/s/j73ada/nix_steering_committee_election_2024) - [Nix Steering Committee Election 2024](https://discourse.nixos.org/t/nix-steering-committee-election-2024/52232)
 * [2024-09-16, 18:15:44](https://lobste.rs/s/mwazky/interning_go) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
 * [2024-09-16, 18:12:58](https://lobste.rs/s/txrmqm/nixos_server_up_minutes) - [NixOS server up in minutes](https://gvolpe.com/blog/nixos-server/)
