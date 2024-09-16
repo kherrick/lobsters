@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 10:30:59](https://lobste.rs/s/rzed6w/javascript_code_minification_report) - [JavaScript Code Minification Report](https://blog.haskell.org/report-of-js-code-minification/)
 * [2024-09-16, 09:58:01](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week)
 * [2024-09-16, 08:31:21](https://lobste.rs/s/qxv9a1/spreadsheet_debugger_walk_into_shell) - [A Spreadsheet and a Debugger walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 08:24:07](https://lobste.rs/s/bbzp08/constraints_guarantees) - [Constraints and guarantees](https://jfmengels.net/constraints-and-guarantees/)
