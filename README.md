@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-16, 18:27:58](https://lobste.rs/s/j73ada/nix_steering_committee_election_2024) - [Nix Steering Committee Election 2024](https://discourse.nixos.org/t/nix-steering-committee-election-2024/52232)
-* [2024-09-16, 18:15:44](https://lobste.rs/s/mwazky/interning_go) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
+* [2024-09-16, 18:12:58](https://lobste.rs/s/txrmqm/nixos_server_up_minutes) - [NixOS server up in minutes](https://gvolpe.com/blog/nixos-server/)
 * [2024-09-16, 16:49:47](https://lobste.rs/s/fna7uv/terminal_for_kubernetes) - [The terminal for Kubernetes](https://github.com/grampelberg/kty)
 * [2024-09-16, 15:57:13](https://lobste.rs/s/jupy5r/oracle_it_s_time_free_javascript) - [Oracle, it’s time to free JavaScript](https://javascript.tm/)
 * [2024-09-16, 13:25:51](https://lobste.rs/s/uait3m/let_s_build_optimize_rust_extension_for) - [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/)
