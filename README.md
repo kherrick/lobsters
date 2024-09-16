@@ -20,9 +20,9 @@
 * [2024-09-15, 22:48:03](https://lobste.rs/s/majyey/something_went_wrong) - [Something went wrong](https://molily.de/something-went-wrong/)
 * [2024-09-15, 20:50:02](https://lobste.rs/s/ajnwu4/fixing_elgato_hd60_s_hdmi_capture_device) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-15, 18:12:52](https://lobste.rs/s/nitj04/more_modern_css_reset) - [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
-* [2024-09-15, 17:47:00](https://lobste.rs/s/i4j1cb/say_hello_blog_haskell_org) - [Say hello to blog.haskell.org](https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355)
 * [2024-09-15, 17:18:38](https://lobste.rs/s/wfgevl/minilang_type_safe_c_successor) - [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
 * [2024-09-15, 17:15:57](https://lobste.rs/s/hnejpg/turning_disposable_vapes_into_fast) - [Turning Disposable Vapes into a Fast Charge Power Bank](https://youtu.be/ehp23hrrEHY)
+* [2024-09-15, 15:42:16](https://lobste.rs/s/3k2dmv/fast_full_text_cli_reader_works_also_with) - [A fast full-text cli reader (works also with lobste.rs articles content)](https://github.com/piqoni/cast-text)
 * [2024-09-15, 11:04:27](https://lobste.rs/s/3jo60l/will_we_be_writing_hare_2099) - [Will we be writing Hare in 2099?](https://www.youtube.com/watch?v=42y2Q9io3Xs)
 * [2024-09-15, 07:58:36](https://lobste.rs/s/vqvul7/rust_error_handling_is_perfect_actually) - [Rust error handling is perfect actually](https://bitfieldconsulting.com/posts/rust-errors-option-result)
 
