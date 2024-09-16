@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 13:25:51](https://lobste.rs/s/uait3m/let_s_build_optimize_rust_extension_for) - [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/)
 * [2024-09-16, 11:46:12](https://lobste.rs/s/wmwjck/database_indexes_phone_books) - [Database Indexes & Phone Books](https://registerspill.thorstenball.com/p/database-indexes-and-phone-books)
 * [2024-09-16, 11:14:42](https://lobste.rs/s/yvyhmo/big_strings_bpftrace) - [Big strings in bpftrace](https://dxuuu.xyz/big-strings.html)
 * [2024-09-16, 10:48:11](https://lobste.rs/s/lkiswl/cellguard_analyze_observe_cellular) - [Cellguard: Analyze and observe cellular networks to detect surveillance](https://cellguard.seemoo.de/)
