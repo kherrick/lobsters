@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-16, 10:30:59",
+      "https://lobste.rs/s/rzed6w/javascript_code_minification_report"
+    ],
+    [
+      "JavaScript Code Minification Report",
+      "https://blog.haskell.org/report-of-js-code-minification/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 09:58:01",
       "https://lobste.rs/s/rwxomx/what_are_you_doing_this_week"
     ],
@@ -237,16 +247,6 @@
     [
       "Rust error handling is perfect actually",
       "https://bitfieldconsulting.com/posts/rust-errors-option-result"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 01:59:14",
-      "https://lobste.rs/s/grqy5d/fractran"
-    ],
-    [
-      "Fractran",
-      "https://wiki.xxiivv.com/site/fractran.html"
     ]
   ]
 ]
