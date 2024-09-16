@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-16, 13:25:51",
+      "https://lobste.rs/s/uait3m/let_s_build_optimize_rust_extension_for"
+    ],
+    [
+      "Let’s build and optimize a Rust extension for Python",
+      "https://pythonspeed.com/articles/intro-rust-python-extensions/"
+    ]
+  ],
+  [
+    [
       "2024-09-16, 11:46:12",
       "https://lobste.rs/s/wmwjck/database_indexes_phone_books"
     ],
@@ -117,16 +127,6 @@
     [
       "Implementing closures and first-class functions in WebAssembly",
       "https://thestackframe.dev/implementing-closures-and-first-class-functions-in-webassembly/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 02:32:45",
-      "https://lobste.rs/s/niio1y/visiting_area_5150_investigating_pc_demo"
-    ],
-    [
-      "Visiting Area 5150: Investigating a PC Demo",
-      "https://www.youtube.com/watch?v=VWQB6HmqKig"
     ]
   ],
   [
