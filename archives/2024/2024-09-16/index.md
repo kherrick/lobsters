@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 14:49:56](https://lobste.rs/s/vadyjj/cohost_shut_down_at_end_2024) - [cohost to shut down at end of 2024](https://cohost.org/staff/post/7611443-cohost-to-shut-down)
 * [2024-09-16, 13:25:51](https://lobste.rs/s/uait3m/let_s_build_optimize_rust_extension_for) - [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/)
 * [2024-09-16, 11:46:12](https://lobste.rs/s/wmwjck/database_indexes_phone_books) - [Database Indexes & Phone Books](https://registerspill.thorstenball.com/p/database-indexes-and-phone-books)
 * [2024-09-16, 11:14:42](https://lobste.rs/s/yvyhmo/big_strings_bpftrace) - [Big strings in bpftrace](https://dxuuu.xyz/big-strings.html)
