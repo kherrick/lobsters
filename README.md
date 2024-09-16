@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-16, 10:48:11](https://lobste.rs/s/lkiswl/cellguard_analyze_observe_cellular) - [Cellguard: Analyze and observe cellular networks to detect surveillance](https://cellguard.seemoo.de/)
 * [2024-09-16, 10:30:59](https://lobste.rs/s/rzed6w/javascript_code_minification_report) - [JavaScript Code Minification Report](https://blog.haskell.org/report-of-js-code-minification/)
 * [2024-09-16, 09:58:01](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week)
 * [2024-09-16, 08:31:21](https://lobste.rs/s/qxv9a1/spreadsheet_debugger_walk_into_shell) - [A Spreadsheet and a Debugger walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
@@ -18,7 +19,6 @@
 * [2024-09-15, 18:12:52](https://lobste.rs/s/nitj04/more_modern_css_reset) - [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
 * [2024-09-15, 17:47:00](https://lobste.rs/s/i4j1cb/say_hello_blog_haskell_org) - [Say hello to blog.haskell.org](https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355)
 * [2024-09-15, 17:18:38](https://lobste.rs/s/wfgevl/minilang_type_safe_c_successor) - [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
-* [2024-09-15, 17:18:06](https://lobste.rs/s/2gohxl/private_lines) - [private lines](https://computer.rip/2024-09-08-private-lines.html)
 * [2024-09-15, 17:15:57](https://lobste.rs/s/hnejpg/turning_disposable_vapes_into_fast) - [Turning Disposable Vapes into a Fast Charge Power Bank](https://youtu.be/ehp23hrrEHY)
 * [2024-09-15, 16:20:38](https://lobste.rs/s/rpwalz/at_t_s_crisp_hobbits) - [AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 15:42:16](https://lobste.rs/s/3k2dmv/fast_full_text_cli_reader_works_also_with) - [A fast full-text cli reader (works also with lobste.rs articles content)](https://github.com/piqoni/cast-text)
