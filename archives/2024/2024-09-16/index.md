@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 11:46:12](https://lobste.rs/s/wmwjck/database_indexes_phone_books) - [Database Indexes & Phone Books](https://registerspill.thorstenball.com/p/database-indexes-and-phone-books)
 * [2024-09-16, 11:14:42](https://lobste.rs/s/yvyhmo/big_strings_bpftrace) - [Big strings in bpftrace](https://dxuuu.xyz/big-strings.html)
 * [2024-09-16, 10:48:11](https://lobste.rs/s/lkiswl/cellguard_analyze_observe_cellular) - [Cellguard: Analyze and observe cellular networks to detect surveillance](https://cellguard.seemoo.de/)
 * [2024-09-16, 10:30:59](https://lobste.rs/s/rzed6w/javascript_code_minification_report) - [JavaScript Code Minification Report](https://blog.haskell.org/report-of-js-code-minification/)

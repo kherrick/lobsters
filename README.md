@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-16, 11:46:12](https://lobste.rs/s/wmwjck/database_indexes_phone_books) - [Database Indexes & Phone Books](https://registerspill.thorstenball.com/p/database-indexes-and-phone-books)
 * [2024-09-16, 11:14:42](https://lobste.rs/s/yvyhmo/big_strings_bpftrace) - [Big strings in bpftrace](https://dxuuu.xyz/big-strings.html)
 * [2024-09-16, 10:48:11](https://lobste.rs/s/lkiswl/cellguard_analyze_observe_cellular) - [Cellguard: Analyze and observe cellular networks to detect surveillance](https://cellguard.seemoo.de/)
 * [2024-09-16, 10:30:59](https://lobste.rs/s/rzed6w/javascript_code_minification_report) - [JavaScript Code Minification Report](https://blog.haskell.org/report-of-js-code-minification/)
@@ -20,7 +21,6 @@
 * [2024-09-15, 17:47:00](https://lobste.rs/s/i4j1cb/say_hello_blog_haskell_org) - [Say hello to blog.haskell.org](https://discourse.haskell.org/t/say-hello-to-blog-haskell-org/10355)
 * [2024-09-15, 17:18:38](https://lobste.rs/s/wfgevl/minilang_type_safe_c_successor) - [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
 * [2024-09-15, 17:15:57](https://lobste.rs/s/hnejpg/turning_disposable_vapes_into_fast) - [Turning Disposable Vapes into a Fast Charge Power Bank](https://youtu.be/ehp23hrrEHY)
-* [2024-09-15, 16:20:38](https://lobste.rs/s/rpwalz/at_t_s_crisp_hobbits) - [AT&T’s CRISP Hobbits](https://thechipletter.substack.com/p/at-and-ts-crisp-hobbits)
 * [2024-09-15, 15:42:16](https://lobste.rs/s/3k2dmv/fast_full_text_cli_reader_works_also_with) - [A fast full-text cli reader (works also with lobste.rs articles content)](https://github.com/piqoni/cast-text)
 * [2024-09-15, 12:56:02](https://lobste.rs/s/9a1nnf/llms_don_t_know_what_they_are_talking_about) - [LLMs don't know what they are talking about](https://danthegoodman.substack.com/p/notes-llms-dont-know-what-they-are)
 * [2024-09-15, 11:04:27](https://lobste.rs/s/3jo60l/will_we_be_writing_hare_2099) - [Will we be writing Hare in 2099?](https://www.youtube.com/watch?v=42y2Q9io3Xs)
