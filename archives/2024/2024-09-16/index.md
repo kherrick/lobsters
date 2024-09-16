@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-16](index.md)
 
+* [2024-09-16, 05:41:35](https://lobste.rs/s/99pnlp/slatedb_cloud_native_embedded_storage) - [slatedb: A cloud native embedded storage engine built on object storage](https://github.com/slatedb/slatedb/)
 * [2024-09-16, 04:53:10](https://lobste.rs/s/albrk0/creating_your_own_federated_microblog) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2024-09-16, 04:34:36](https://lobste.rs/s/sp6you/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 04:19:38](https://lobste.rs/s/de4kwj/implementing_closures_first_class) - [Implementing closures and first-class functions in WebAssembly](https://thestackframe.dev/implementing-closures-and-first-class-functions-in-webassembly/)
