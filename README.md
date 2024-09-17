@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-17, 16:10:50](https://lobste.rs/s/fpq93m/sonoma_vs_sequoia) - [Sonoma vs Sequoia](https://mac.install.guide/macos/sonoma-vs-sequoia)
+* [2024-09-17, 15:58:37](https://lobste.rs/s/szvq2f/kelvin_versioning) - [Kelvin Versioning](https://jtobin.io/kelvin-versioning)
 * [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
 * [2024-09-17, 11:55:13](https://lobste.rs/s/tnhgze/blindsided_by_rust_s_subtyping_variance) - [Blindsided by Rust's Subtyping and Variance](https://nullderef.com/blog/rust-variance/)
@@ -16,7 +18,6 @@
 * [2024-09-16, 16:49:47](https://lobste.rs/s/fna7uv/terminal_for_kubernetes) - [The terminal for Kubernetes](https://github.com/grampelberg/kty)
 * [2024-09-16, 15:57:13](https://lobste.rs/s/jupy5r/oracle_it_s_time_free_javascript) - [Oracle, it’s time to free JavaScript](https://javascript.tm/)
 * [2024-09-16, 13:25:51](https://lobste.rs/s/uait3m/let_s_build_optimize_rust_extension_for) - [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/)
-* [2024-09-16, 10:48:11](https://lobste.rs/s/lkiswl/cellguard_analyze_observe_cellular) - [Cellguard: Analyze and observe cellular networks to detect surveillance](https://cellguard.seemoo.de/)
 * [2024-09-16, 09:58:01](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week)
 * [2024-09-16, 08:31:21](https://lobste.rs/s/qxv9a1/spreadsheet_debugger_walk_into_shell) - [A Spreadsheet and a Debugger walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 08:24:07](https://lobste.rs/s/bbzp08/constraints_guarantees) - [Constraints and guarantees](https://jfmengels.net/constraints-and-guarantees/)
@@ -24,7 +25,6 @@
 * [2024-09-16, 04:34:36](https://lobste.rs/s/sp6you/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 01:27:30](https://lobste.rs/s/olevrg/18_months_with_framework_13) - [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
 * [2024-09-15, 22:48:03](https://lobste.rs/s/majyey/something_went_wrong) - [Something went wrong](https://molily.de/something-went-wrong/)
-* [2024-09-15, 17:18:38](https://lobste.rs/s/wfgevl/minilang_type_safe_c_successor) - [MiniLang: A type-safe C successor](https://github.com/NICUP14/MiniLang)
 
 ## [Archives](archives/index.md)
 
