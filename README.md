@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-17, 01:01:46](https://lobste.rs/s/xwm0c3/building_system_like_realtalk) - [Building a system like Realtalk](https://mewo2.com/2024/09/16/)
+* [2024-09-17, 00:14:04](https://lobste.rs/s/qqr0v1/freebsd_13_4_release_announcement) - [FreeBSD 13.4-RELEASE Announcement](https://www.freebsd.org/releases/13.4R/announce/)
 * [2024-09-16, 23:01:02](https://lobste.rs/s/qeijkv/tiny_process_execution_for_humans_better) - [Tiny process execution for humans — a better child_process](https://github.com/sindresorhus/nano-spawn)
 * [2024-09-16, 21:21:01](https://lobste.rs/s/mun2dn/drive_by_active_storage_advice) - [Drive-by Active Storage advice](https://justin.searls.co/posts/drive-by-active-storage-advice/)
 * [2024-09-16, 18:27:58](https://lobste.rs/s/j73ada/nix_steering_committee_election_2024) - [Nix Steering Committee Election 2024](https://discourse.nixos.org/t/nix-steering-committee-election-2024/52232)
@@ -13,8 +15,6 @@
 * [2024-09-16, 09:58:01](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/rwxomx/what_are_you_doing_this_week)
 * [2024-09-16, 08:31:21](https://lobste.rs/s/qxv9a1/spreadsheet_debugger_walk_into_shell) - [A Spreadsheet and a Debugger walk into a Shell](https://arcan-fe.com/2024/09/16/a-spreadsheet-and-a-debugger-walks-into-a-shell/)
 * [2024-09-16, 08:24:07](https://lobste.rs/s/bbzp08/constraints_guarantees) - [Constraints and guarantees](https://jfmengels.net/constraints-and-guarantees/)
-* [2024-09-16, 07:35:00](https://lobste.rs/s/swhk3s/vector_math_library_codegen_debug) - [Vector math library codegen in Debug ·](https://aras-p.info/blog/2024/09/14/Vector-math-library-codegen-in-Debug/)
-* [2024-09-16, 05:41:35](https://lobste.rs/s/99pnlp/slatedb_cloud_native_embedded_storage) - [slatedb: A cloud native embedded storage engine built on object storage](https://github.com/slatedb/slatedb/)
 * [2024-09-16, 04:53:10](https://lobste.rs/s/albrk0/creating_your_own_federated_microblog) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2024-09-16, 04:34:36](https://lobste.rs/s/sp6you/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 04:19:38](https://lobste.rs/s/de4kwj/implementing_closures_first_class) - [Implementing closures and first-class functions in WebAssembly](https://thestackframe.dev/implementing-closures-and-first-class-functions-in-webassembly/)
