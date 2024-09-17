@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-17, 19:28:42",
+      "https://lobste.rs/s/vvb6bm/mandelbrot_calculation_speed_on_variety"
+    ],
+    [
+      "Mandelbrot calculation speed on a variety of Python accelerators",
+      "https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 19:19:12",
       "https://lobste.rs/s/ekcutg/announcing_swift_6"
     ],
@@ -197,16 +207,6 @@
     [
       "Let’s build and optimize a Rust extension for Python",
       "https://pythonspeed.com/articles/intro-rust-python-extensions/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 09:58:01",
-      "https://lobste.rs/s/rwxomx/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/rwxomx/what_are_you_doing_this_week"
     ]
   ],
   [
