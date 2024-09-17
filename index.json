@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-17, 10:55:28",
+      "https://lobste.rs/s/ueu2lj/update_on_native_matrix"
+    ],
+    [
+      "Update on Native Matrix interoperability with WhatsApp",
+      "https://matrix.org/blog/2024/09/whatsapp-dma/"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 09:10:23",
       "https://lobste.rs/s/phtqhy/towards_modified_condition_decision"
     ],
@@ -127,16 +137,6 @@
     [
       "Let’s build and optimize a Rust extension for Python",
       "https://pythonspeed.com/articles/intro-rust-python-extensions/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 11:14:42",
-      "https://lobste.rs/s/yvyhmo/big_strings_bpftrace"
-    ],
-    [
-      "Big strings in bpftrace",
-      "https://dxuuu.xyz/big-strings.html"
     ]
   ],
   [
