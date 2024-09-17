@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
 * [2024-09-17, 11:55:13](https://lobste.rs/s/tnhgze/blindsided_by_rust_s_subtyping_variance) - [Blindsided by Rust's Subtyping and Variance](https://nullderef.com/blog/rust-variance/)
 * [2024-09-17, 10:55:28](https://lobste.rs/s/ueu2lj/update_on_native_matrix) - [Update on Native Matrix interoperability with WhatsApp](https://matrix.org/blog/2024/09/whatsapp-dma/)
@@ -8,7 +9,6 @@
 * [2024-09-17, 01:47:35](https://lobste.rs/s/70ipvr/blog_clapping_music_for_two_flip_disc) - [Blog: Clapping music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2024-09-17, 01:01:46](https://lobste.rs/s/xwm0c3/building_system_like_realtalk) - [Building a system like Realtalk](https://mewo2.com/2024/09/16/)
 * [2024-09-17, 00:14:04](https://lobste.rs/s/qqr0v1/freebsd_13_4_release_announcement) - [FreeBSD 13.4-RELEASE Announcement](https://www.freebsd.org/releases/13.4R/announce/)
-* [2024-09-16, 23:01:02](https://lobste.rs/s/qeijkv/tiny_process_execution_for_humans_better) - [Tiny process execution for humans — a better child_process](https://github.com/sindresorhus/nano-spawn)
 * [2024-09-16, 21:21:01](https://lobste.rs/s/mun2dn/drive_by_active_storage_advice) - [Drive-by Active Storage advice](https://justin.searls.co/posts/drive-by-active-storage-advice/)
 * [2024-09-16, 18:27:58](https://lobste.rs/s/j73ada/nix_steering_committee_election_2024) - [Nix Steering Committee Election 2024](https://discourse.nixos.org/t/nix-steering-committee-election-2024/52232)
 * [2024-09-16, 18:15:44](https://lobste.rs/s/mwazky/interning_go) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
