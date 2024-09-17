@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-17, 16:10:50",
+      "https://lobste.rs/s/fpq93m/sonoma_vs_sequoia"
+    ],
+    [
+      "Sonoma vs Sequoia",
+      "https://mac.install.guide/macos/sonoma-vs-sequoia"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 15:58:37",
+      "https://lobste.rs/s/szvq2f/kelvin_versioning"
+    ],
+    [
+      "Kelvin Versioning",
+      "https://jtobin.io/kelvin-versioning"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 15:46:17",
       "https://lobste.rs/s/obofv5/things_you_really_should_know_about"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-09-16, 10:48:11",
-      "https://lobste.rs/s/lkiswl/cellguard_analyze_observe_cellular"
-    ],
-    [
-      "Cellguard: Analyze and observe cellular networks to detect surveillance",
-      "https://cellguard.seemoo.de/"
-    ]
-  ],
-  [
-    [
       "2024-09-16, 09:58:01",
       "https://lobste.rs/s/rwxomx/what_are_you_doing_this_week"
     ],
@@ -237,16 +247,6 @@
     [
       "Something went wrong",
       "https://molily.de/something-went-wrong/"
-    ]
-  ],
-  [
-    [
-      "2024-09-15, 17:18:38",
-      "https://lobste.rs/s/wfgevl/minilang_type_safe_c_successor"
-    ],
-    [
-      "MiniLang: A type-safe C successor",
-      "https://github.com/NICUP14/MiniLang"
     ]
   ]
 ]
