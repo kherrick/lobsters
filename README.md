@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-17, 21:01:05](https://lobste.rs/s/c4n5mw/moergo_glove80_programmable_ergonomic) - [MoErgo Glove80 programmable ergonomic keyboard](https://sunaku.github.io/moergo-glove80-keyboard.html)
 * [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
 * [2024-09-17, 20:21:37](https://lobste.rs/s/y6yu9l/tansu_is_apache_kafka_api_compatible) - [Tansu is an Apache Kafka API compatible broker with a Postgres storage engine](https://github.com/tansu-io/tansu)
 * [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
@@ -19,7 +20,6 @@
 * [2024-09-17, 01:01:46](https://lobste.rs/s/xwm0c3/building_system_like_realtalk) - [Building a system like Realtalk](https://mewo2.com/2024/09/16/)
 * [2024-09-17, 00:14:04](https://lobste.rs/s/qqr0v1/freebsd_13_4_release_announcement) - [FreeBSD 13.4-RELEASE Announcement](https://www.freebsd.org/releases/13.4R/announce/)
 * [2024-09-16, 18:27:58](https://lobste.rs/s/j73ada/nix_steering_committee_election_2024) - [Nix Steering Committee Election 2024](https://discourse.nixos.org/t/nix-steering-committee-election-2024/52232)
-* [2024-09-16, 18:12:58](https://lobste.rs/s/txrmqm/nixos_server_up_minutes) - [NixOS server up in minutes](https://gvolpe.com/blog/nixos-server/)
 * [2024-09-16, 16:49:47](https://lobste.rs/s/fna7uv/terminal_for_kubernetes) - [The terminal for Kubernetes](https://github.com/grampelberg/kty)
 * [2024-09-16, 15:57:13](https://lobste.rs/s/jupy5r/oracle_it_s_time_free_javascript) - [Oracle, it’s time to free JavaScript](https://javascript.tm/)
 * [2024-09-16, 13:25:51](https://lobste.rs/s/uait3m/let_s_build_optimize_rust_extension_for) - [Let’s build and optimize a Rust extension for Python](https://pythonspeed.com/articles/intro-rust-python-extensions/)
