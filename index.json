@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-17, 21:37:17",
+      "https://lobste.rs/s/ike7xd/how_optimizations_made_mario64_slower"
+    ],
+    [
+      "How Optimizations Made Mario64 Slower",
+      "https://www.youtube.com/watch?v=Ca1hHC2EctY"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 21:01:05",
       "https://lobste.rs/s/c4n5mw/moergo_glove80_programmable_ergonomic"
     ],
@@ -227,16 +237,6 @@
     [
       "Let’s build and optimize a Rust extension for Python",
       "https://pythonspeed.com/articles/intro-rust-python-extensions/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 04:34:36",
-      "https://lobste.rs/s/sp6you/http_query_method"
-    ],
-    [
-      "The HTTP QUERY Method",
-      "https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html"
     ]
   ],
   [
