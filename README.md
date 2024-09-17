@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-17, 16:53:34](https://lobste.rs/s/pler78/sndkit_toolkit_for_computer_music) - [sndkit - a toolkit for computer music composition](https://pbat.ch/sndkit/)
 * [2024-09-17, 16:10:50](https://lobste.rs/s/fpq93m/sonoma_vs_sequoia) - [Sonoma vs Sequoia](https://mac.install.guide/macos/sonoma-vs-sequoia)
 * [2024-09-17, 15:58:37](https://lobste.rs/s/szvq2f/kelvin_versioning) - [Kelvin Versioning](https://jtobin.io/kelvin-versioning)
 * [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
@@ -24,7 +25,6 @@
 * [2024-09-16, 04:53:10](https://lobste.rs/s/albrk0/creating_your_own_federated_microblog) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2024-09-16, 04:34:36](https://lobste.rs/s/sp6you/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 01:27:30](https://lobste.rs/s/olevrg/18_months_with_framework_13) - [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
-* [2024-09-15, 22:48:03](https://lobste.rs/s/majyey/something_went_wrong) - [Something went wrong](https://molily.de/something-went-wrong/)
 
 ## [Archives](archives/index.md)
 
