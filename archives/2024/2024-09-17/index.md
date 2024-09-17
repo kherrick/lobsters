@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
 * [2024-09-17, 20:21:37](https://lobste.rs/s/y6yu9l/tansu_is_apache_kafka_api_compatible) - [Tansu is an Apache Kafka API compatible broker with a Postgres storage engine](https://github.com/tansu-io/tansu)
 * [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
 * [2024-09-17, 19:28:42](https://lobste.rs/s/vvb6bm/mandelbrot_calculation_speed_on_variety) - [Mandelbrot calculation speed on a variety of Python accelerators](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)
