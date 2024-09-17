@@ -4,5 +4,6 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 01:47:35](https://lobste.rs/s/70ipvr/blog_clapping_music_for_two_flip_disc) - [Blog: Clapping music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2024-09-17, 01:01:46](https://lobste.rs/s/xwm0c3/building_system_like_realtalk) - [Building a system like Realtalk](https://mewo2.com/2024/09/16/)
 * [2024-09-17, 00:14:04](https://lobste.rs/s/qqr0v1/freebsd_13_4_release_announcement) - [FreeBSD 13.4-RELEASE Announcement](https://www.freebsd.org/releases/13.4R/announce/)

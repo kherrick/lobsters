@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-17, 01:47:35](https://lobste.rs/s/70ipvr/blog_clapping_music_for_two_flip_disc) - [Blog: Clapping music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2024-09-17, 01:01:46](https://lobste.rs/s/xwm0c3/building_system_like_realtalk) - [Building a system like Realtalk](https://mewo2.com/2024/09/16/)
 * [2024-09-17, 00:14:04](https://lobste.rs/s/qqr0v1/freebsd_13_4_release_announcement) - [FreeBSD 13.4-RELEASE Announcement](https://www.freebsd.org/releases/13.4R/announce/)
 * [2024-09-16, 23:01:02](https://lobste.rs/s/qeijkv/tiny_process_execution_for_humans_better) - [Tiny process execution for humans — a better child_process](https://github.com/sindresorhus/nano-spawn)
@@ -19,7 +20,6 @@
 * [2024-09-16, 04:34:36](https://lobste.rs/s/sp6you/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
 * [2024-09-16, 04:19:38](https://lobste.rs/s/de4kwj/implementing_closures_first_class) - [Implementing closures and first-class functions in WebAssembly](https://thestackframe.dev/implementing-closures-and-first-class-functions-in-webassembly/)
 * [2024-09-16, 01:27:30](https://lobste.rs/s/olevrg/18_months_with_framework_13) - [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
-* [2024-09-15, 23:53:27](https://lobste.rs/s/4qgulg/linux_6_11_has_been_released) - [Linux 6.11 has been released](https://lwn.net/Articles/990307/)
 * [2024-09-15, 22:48:03](https://lobste.rs/s/majyey/something_went_wrong) - [Something went wrong](https://molily.de/something-went-wrong/)
 * [2024-09-15, 20:50:02](https://lobste.rs/s/ajnwu4/fixing_elgato_hd60_s_hdmi_capture_device) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
 * [2024-09-15, 18:12:52](https://lobste.rs/s/nitj04/more_modern_css_reset) - [A (more) Modern CSS Reset](https://piccalil.li/blog/a-more-modern-css-reset/)
