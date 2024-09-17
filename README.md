@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-17, 18:15:36](https://lobste.rs/s/mbmi4e/what_s_alias_name) - [What's in an (Alias) Name?](https://go.dev/blog/alias-names)
 * [2024-09-17, 16:53:34](https://lobste.rs/s/pler78/sndkit_toolkit_for_computer_music) - [sndkit - a toolkit for computer music composition](https://pbat.ch/sndkit/)
 * [2024-09-17, 16:10:50](https://lobste.rs/s/fpq93m/sonoma_vs_sequoia) - [Sonoma vs Sequoia](https://mac.install.guide/macos/sonoma-vs-sequoia)
 * [2024-09-17, 15:58:37](https://lobste.rs/s/szvq2f/kelvin_versioning) - [Kelvin Versioning](https://jtobin.io/kelvin-versioning)
@@ -12,7 +13,6 @@
 * [2024-09-17, 01:47:35](https://lobste.rs/s/70ipvr/blog_clapping_music_for_two_flip_disc) - [Blog: Clapping music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2024-09-17, 01:01:46](https://lobste.rs/s/xwm0c3/building_system_like_realtalk) - [Building a system like Realtalk](https://mewo2.com/2024/09/16/)
 * [2024-09-17, 00:14:04](https://lobste.rs/s/qqr0v1/freebsd_13_4_release_announcement) - [FreeBSD 13.4-RELEASE Announcement](https://www.freebsd.org/releases/13.4R/announce/)
-* [2024-09-16, 21:21:01](https://lobste.rs/s/mun2dn/drive_by_active_storage_advice) - [Drive-by Active Storage advice](https://justin.searls.co/posts/drive-by-active-storage-advice/)
 * [2024-09-16, 18:27:58](https://lobste.rs/s/j73ada/nix_steering_committee_election_2024) - [Nix Steering Committee Election 2024](https://discourse.nixos.org/t/nix-steering-committee-election-2024/52232)
 * [2024-09-16, 18:15:44](https://lobste.rs/s/mwazky/interning_go) - [Interning in Go](https://medium.com/google-cloud/interning-in-go-4319ea635002)
 * [2024-09-16, 18:12:58](https://lobste.rs/s/txrmqm/nixos_server_up_minutes) - [NixOS server up in minutes](https://gvolpe.com/blog/nixos-server/)
