@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-17, 09:10:23](https://lobste.rs/s/phtqhy/towards_modified_condition_decision) - [Towards Modified Condition/Decision Coverage of Rust](https://arxiv.org/abs/2409.08708)
 * [2024-09-17, 08:07:38](https://lobste.rs/s/j0hure/master_hexagonal_architecture_rust) - [Master hexagonal architecture in Rust](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust)
 * [2024-09-17, 01:47:35](https://lobste.rs/s/70ipvr/blog_clapping_music_for_two_flip_disc) - [Blog: Clapping music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2024-09-17, 01:01:46](https://lobste.rs/s/xwm0c3/building_system_like_realtalk) - [Building a system like Realtalk](https://mewo2.com/2024/09/16/)
@@ -19,7 +20,6 @@
 * [2024-09-16, 08:24:07](https://lobste.rs/s/bbzp08/constraints_guarantees) - [Constraints and guarantees](https://jfmengels.net/constraints-and-guarantees/)
 * [2024-09-16, 04:53:10](https://lobste.rs/s/albrk0/creating_your_own_federated_microblog) - [Creating your own federated microblog](https://fedify.dev/tutorial/microblog)
 * [2024-09-16, 04:34:36](https://lobste.rs/s/sp6you/http_query_method) - [The HTTP QUERY Method](https://www.ietf.org/archive/id/draft-ietf-httpbis-safe-method-w-body-05.html)
-* [2024-09-16, 04:19:38](https://lobste.rs/s/de4kwj/implementing_closures_first_class) - [Implementing closures and first-class functions in WebAssembly](https://thestackframe.dev/implementing-closures-and-first-class-functions-in-webassembly/)
 * [2024-09-16, 01:27:30](https://lobste.rs/s/olevrg/18_months_with_framework_13) - [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
 * [2024-09-15, 22:48:03](https://lobste.rs/s/majyey/something_went_wrong) - [Something went wrong](https://molily.de/something-went-wrong/)
 * [2024-09-15, 20:50:02](https://lobste.rs/s/ajnwu4/fixing_elgato_hd60_s_hdmi_capture_device) - [Fixing an Elgato HD60 S HDMI capture device with the help of Ghidra](https://www.downtowndougbrown.com/2024/09/fixing-an-elgato-hd60-s-hdmi-capture-device-with-the-help-of-ghidra/)
