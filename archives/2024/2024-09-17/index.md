@@ -14,6 +14,7 @@
 * [2024-09-17, 18:15:36](https://lobste.rs/s/mbmi4e/what_s_alias_name) - [What's in an (Alias) Name?](https://go.dev/blog/alias-names)
 * [2024-09-17, 16:53:34](https://lobste.rs/s/pler78/sndkit_toolkit_for_computer_music) - [sndkit - a toolkit for computer music composition](https://pbat.ch/sndkit/)
 * [2024-09-17, 16:10:50](https://lobste.rs/s/fpq93m/sonoma_vs_sequoia) - [Sonoma vs Sequoia](https://mac.install.guide/macos/sonoma-vs-sequoia)
+* [2024-09-17, 15:58:37](https://lobste.rs/s/szvq2f/kelvin_versioning_2020) - [Kelvin Versioning (2020)](https://jtobin.io/kelvin-versioning)
 * [2024-09-17, 15:58:37](https://lobste.rs/s/szvq2f/kelvin_versioning) - [Kelvin Versioning](https://jtobin.io/kelvin-versioning)
 * [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
