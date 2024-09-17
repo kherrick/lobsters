@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-17](index.md)
 
+* [2024-09-17, 21:37:17](https://lobste.rs/s/ike7xd/how_optimizations_made_mario64_slower) - [How Optimizations Made Mario64 Slower](https://www.youtube.com/watch?v=Ca1hHC2EctY)
 * [2024-09-17, 21:01:05](https://lobste.rs/s/c4n5mw/moergo_glove80_programmable_ergonomic) - [MoErgo Glove80 programmable ergonomic keyboard](https://sunaku.github.io/moergo-glove80-keyboard.html)
 * [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
 * [2024-09-17, 20:21:37](https://lobste.rs/s/y6yu9l/tansu_is_apache_kafka_api_compatible) - [Tansu is an Apache Kafka API compatible broker with a Postgres storage engine](https://github.com/tansu-io/tansu)
