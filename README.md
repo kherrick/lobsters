@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 21:55:40](https://lobste.rs/s/i0ghvy/turn_your_blog_into_book) - [Turn your blog into a book](https://jorge.olano.dev/blog/turn-your-blog-into-an-ebook/)
 * [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 * [2024-09-18, 18:53:17](https://lobste.rs/s/pyqbs7/dmg_acid2_acid2_test_now_for_original_game) - [dmg-acid2: The Acid2 test, now for the original Game Boy](https://github.com/mattcurrie/dmg-acid2)
 * [2024-09-18, 18:32:07](https://lobste.rs/s/3ieplw/transparent_like_frosted_glass) - [transparent like frosted glass](https://explaining.software/archive/transparent-like-frosted-glass/)
@@ -23,7 +24,6 @@
 * [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
 * [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
 * [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
-* [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
 
 ## [Archives](archives/index.md)
