@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-18, 16:57:01",
+      "https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first"
+    ],
+    [
+      "TLA⁺ is more than a DSL for breadth-first search",
+      "https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 16:47:17",
       "https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated"
     ],
@@ -137,16 +147,6 @@
     [
       "Zig Devlog",
       "https://ziglang.org/devlog/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 21:37:17",
-      "https://lobste.rs/s/ike7xd/how_optimizations_made_mario64_slower"
-    ],
-    [
-      "How Optimizations Made Mario64 Slower",
-      "https://www.youtube.com/watch?v=Ca1hHC2EctY"
     ]
   ],
   [
