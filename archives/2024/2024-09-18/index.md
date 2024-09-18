@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
 * [2024-09-18, 09:25:28](https://lobste.rs/s/buwrjf/prompt_injections_demo) - [Prompt Injections and a demo](https://frederikbraun.de/prompt-injections-and-a-demo.html)
 * [2024-09-18, 09:14:18](https://lobste.rs/s/anlqou/restish) - [Restish](https://rest.sh/)
 * [2024-09-18, 06:07:35](https://lobste.rs/s/d5z1fn/repos_are_like_children_parenting_101) - [Repos are like children, parenting 101](https://reinout.vanrees.org/weblog/2024/09/17/2-repo-parenting.html)
