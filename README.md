@@ -23,8 +23,8 @@
 * [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
 * [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
 * [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
+* [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
-* [2024-09-17, 10:55:28](https://lobste.rs/s/ueu2lj/update_on_native_matrix) - [Update on Native Matrix interoperability with WhatsApp](https://matrix.org/blog/2024/09/whatsapp-dma/)
 
 ## [Archives](archives/index.md)
 
