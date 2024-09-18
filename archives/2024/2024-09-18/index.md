@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 13:48:23](https://lobste.rs/s/g9gprn/reasons_for_unreasonable_success) - [Reasons for the unreasonable success of fuzzing](https://mastodon.social/@HalvarFlake/113157471318142929)
 * [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
 * [2024-09-18, 12:22:12](https://lobste.rs/s/sbpxsd/building_compile_time_simd_optimized) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-18, 11:55:24](https://lobste.rs/s/bxvoug/continued_trajectory_idiocy_tech) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
