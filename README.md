@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
 * [2024-09-18, 00:41:48](https://lobste.rs/s/ccyxoj/zig_devlog) - [Zig Devlog](https://ziglang.org/devlog/)
 * [2024-09-17, 22:58:43](https://lobste.rs/s/keksqk/lool_low_overhead_optimization_log) - [LOOL: Low-Overhead, Optimization-Log-Guided Compiler Fuzzing](https://doi.org/10.1145/3678722.3685533)
 * [2024-09-17, 21:37:17](https://lobste.rs/s/ike7xd/how_optimizations_made_mario64_slower) - [How Optimizations Made Mario64 Slower](https://www.youtube.com/watch?v=Ca1hHC2EctY)
@@ -21,7 +22,6 @@
 * [2024-09-17, 01:47:35](https://lobste.rs/s/70ipvr/blog_clapping_music_for_two_flip_disc) - [Blog: Clapping music for two flip-disc displays](https://hannahilea.com/blog/clapping-music-for-flip-disc-displays/)
 * [2024-09-17, 01:01:46](https://lobste.rs/s/xwm0c3/building_system_like_realtalk) - [Building a system like Realtalk](https://mewo2.com/2024/09/16/)
 * [2024-09-17, 00:14:04](https://lobste.rs/s/qqr0v1/freebsd_13_4_release_announcement) - [FreeBSD 13.4-RELEASE Announcement](https://www.freebsd.org/releases/13.4R/announce/)
-* [2024-09-16, 18:27:58](https://lobste.rs/s/j73ada/nix_steering_committee_election_2024) - [Nix Steering Committee Election 2024](https://discourse.nixos.org/t/nix-steering-committee-election-2024/52232)
 * [2024-09-16, 16:49:47](https://lobste.rs/s/fna7uv/terminal_for_kubernetes) - [The terminal for Kubernetes](https://github.com/grampelberg/kty)
 * [2024-09-16, 15:57:13](https://lobste.rs/s/jupy5r/oracle_it_s_time_free_javascript) - [Oracle, it’s time to free JavaScript](https://javascript.tm/)
 * [2024-09-16, 01:27:30](https://lobste.rs/s/olevrg/18_months_with_framework_13) - [18 Months with a Framework 13](https://www.projectgus.com/2024/09/18-months-with-framework-laptop/)
