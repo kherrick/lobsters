@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 15:21:38](https://lobste.rs/s/qj6rzp/integrity_policy_enforcement_ipe) - [Integrity Policy Enforcement (IPE)](https://docs.kernel.org/next/admin-guide/LSM/ipe.html)
+* [2024-09-18, 15:13:10](https://lobste.rs/s/2knsbj/improving_rendering_performance_with) - [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
 * [2024-09-18, 13:48:23](https://lobste.rs/s/g9gprn/reasons_for_unreasonable_success) - [Reasons for the unreasonable success of fuzzing](https://mastodon.social/@HalvarFlake/113157471318142929)
 * [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
 * [2024-09-18, 12:22:12](https://lobste.rs/s/sbpxsd/building_compile_time_simd_optimized) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
