@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 18:32:07](https://lobste.rs/s/3ieplw/transparent_like_frosted_glass) - [transparent like frosted glass](https://explaining.software/archive/transparent-like-frosted-glass/)
 * [2024-09-18, 17:23:39](https://lobste.rs/s/m2xbla/using_simkube_1_0_comparing_kubernetes) - [Using SimKube 1.0: Comparing Kubernetes Cluster Autoscaler and Karpenter](https://blog.appliedcomputing.io/p/using-simkube-10-comparing-kubernetes)
 * [2024-09-18, 16:57:01](https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first) - [TLA⁺ is more than a DSL for breadth-first search](https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/)
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
@@ -18,7 +19,6 @@
 * [2024-09-18, 00:41:48](https://lobste.rs/s/ccyxoj/zig_devlog) - [Zig Devlog](https://ziglang.org/devlog/)
 * [2024-09-17, 21:01:05](https://lobste.rs/s/c4n5mw/moergo_glove80_programmable_ergonomic) - [MoErgo Glove80 programmable ergonomic keyboard](https://sunaku.github.io/moergo-glove80-keyboard.html)
 * [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
-* [2024-09-17, 20:21:37](https://lobste.rs/s/y6yu9l/tansu_is_apache_kafka_api_compatible) - [Tansu is an Apache Kafka API compatible broker with a Postgres storage engine](https://github.com/tansu-io/tansu)
 * [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
 * [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
 * [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
