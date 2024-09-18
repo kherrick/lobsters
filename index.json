@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-18, 18:39:22",
+      "https://lobste.rs/s/mtw36n/closed_knight_s_tour_prolog"
+    ],
+    [
+      "Closed Knight's Tour in Prolog",
+      "https://www.metalevel.at/knight/"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 18:32:07",
       "https://lobste.rs/s/3ieplw/transparent_like_frosted_glass"
     ],
@@ -237,16 +247,6 @@
     [
       "Update on Native Matrix interoperability with WhatsApp",
       "https://matrix.org/blog/2024/09/whatsapp-dma/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 09:10:23",
-      "https://lobste.rs/s/phtqhy/towards_modified_condition_decision"
-    ],
-    [
-      "Towards Modified Condition/Decision Coverage of Rust",
-      "https://arxiv.org/abs/2409.08708"
     ]
   ]
 ]
