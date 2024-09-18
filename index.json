@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-18, 13:48:23",
+      "https://lobste.rs/s/g9gprn/reasons_for_unreasonable_success"
+    ],
+    [
+      "Reasons for the unreasonable success of fuzzing",
+      "https://mastodon.social/@HalvarFlake/113157471318142929"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 13:12:54",
       "https://lobste.rs/s/ydcu6l/stop_using_serial_postgres"
     ],
@@ -237,16 +247,6 @@
     [
       "Towards Modified Condition/Decision Coverage of Rust",
       "https://arxiv.org/abs/2409.08708"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 08:07:38",
-      "https://lobste.rs/s/j0hure/master_hexagonal_architecture_rust"
-    ],
-    [
-      "Master hexagonal architecture in Rust",
-      "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
     ]
   ]
 ]
