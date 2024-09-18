@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 15:39:39](https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig) - [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
+* [2024-09-18, 15:36:41](https://lobste.rs/s/9zy952/generative_ai_has_visual_plagiarism) - [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
 * [2024-09-18, 15:21:38](https://lobste.rs/s/qj6rzp/integrity_policy_enforcement_ipe) - [Integrity Policy Enforcement (IPE)](https://docs.kernel.org/next/admin-guide/LSM/ipe.html)
 * [2024-09-18, 15:13:10](https://lobste.rs/s/2knsbj/improving_rendering_performance_with) - [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
-* [2024-09-18, 13:48:23](https://lobste.rs/s/g9gprn/reasons_for_unreasonable_success) - [Reasons for the unreasonable success of fuzzing](https://mastodon.social/@HalvarFlake/113157471318142929)
 * [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
 * [2024-09-18, 11:55:24](https://lobste.rs/s/bxvoug/continued_trajectory_idiocy_tech) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 * [2024-09-18, 11:48:26](https://lobste.rs/s/nchhry/update_on_upcoming_german_broadcasting) - [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
@@ -18,7 +19,6 @@
 * [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
 * [2024-09-17, 20:21:37](https://lobste.rs/s/y6yu9l/tansu_is_apache_kafka_api_compatible) - [Tansu is an Apache Kafka API compatible broker with a Postgres storage engine](https://github.com/tansu-io/tansu)
 * [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
-* [2024-09-17, 19:28:42](https://lobste.rs/s/vvb6bm/mandelbrot_calculation_speed_on_variety) - [Mandelbrot calculation speed on a variety of Python accelerators](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)
 * [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
 * [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
