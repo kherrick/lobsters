@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 * [2024-09-18, 18:53:17](https://lobste.rs/s/pyqbs7/dmg_acid2_acid2_test_now_for_original_game) - [dmg-acid2: The Acid2 test, now for the original Game Boy](https://github.com/mattcurrie/dmg-acid2)
 * [2024-09-18, 18:39:22](https://lobste.rs/s/mtw36n/closed_knight_s_tour_prolog) - [Closed Knight's Tour in Prolog](https://www.metalevel.at/knight/)
 * [2024-09-18, 18:32:07](https://lobste.rs/s/3ieplw/transparent_like_frosted_glass) - [transparent like frosted glass](https://explaining.software/archive/transparent-like-frosted-glass/)
