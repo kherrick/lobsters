@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 16:41:07](https://lobste.rs/s/sbj2ov/introducing_gnome_47_denver) - [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)
 * [2024-09-18, 15:39:39](https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig) - [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
 * [2024-09-18, 15:36:41](https://lobste.rs/s/9zy952/generative_ai_has_visual_plagiarism) - [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
 * [2024-09-18, 15:21:38](https://lobste.rs/s/qj6rzp/integrity_policy_enforcement_ipe) - [Integrity Policy Enforcement (IPE)](https://docs.kernel.org/next/admin-guide/LSM/ipe.html)
@@ -9,7 +10,6 @@
 * [2024-09-18, 11:48:26](https://lobste.rs/s/nchhry/update_on_upcoming_german_broadcasting) - [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
 * [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
 * [2024-09-18, 09:14:18](https://lobste.rs/s/anlqou/restish) - [Restish](https://rest.sh/)
-* [2024-09-18, 06:07:35](https://lobste.rs/s/d5z1fn/repos_are_like_children_parenting_101) - [Repos are like children, parenting 101](https://reinout.vanrees.org/weblog/2024/09/17/2-repo-parenting.html)
 * [2024-09-18, 05:44:06](https://lobste.rs/s/0sejra/free_banking_monopoly) - [Free Banking Monopoly](https://entropicthoughts.com/free-banking-monopoly)
 * [2024-09-18, 04:42:53](https://lobste.rs/s/tgkora/what_is_entropy) - [What is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
