@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 17:23:39](https://lobste.rs/s/m2xbla/using_simkube_1_0_comparing_kubernetes) - [Using SimKube 1.0: Comparing Kubernetes Cluster Autoscaler and Karpenter](https://blog.appliedcomputing.io/p/using-simkube-10-comparing-kubernetes)
 * [2024-09-18, 16:57:01](https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first) - [TLA⁺ is more than a DSL for breadth-first search](https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/)
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 16:41:07](https://lobste.rs/s/sbj2ov/introducing_gnome_47_denver) - [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)
@@ -22,7 +23,6 @@
 * [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
 * [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
-* [2024-09-17, 11:55:13](https://lobste.rs/s/tnhgze/blindsided_by_rust_s_subtyping_variance) - [Blindsided by Rust's Subtyping and Variance](https://nullderef.com/blog/rust-variance/)
 * [2024-09-17, 10:55:28](https://lobste.rs/s/ueu2lj/update_on_native_matrix) - [Update on Native Matrix interoperability with WhatsApp](https://matrix.org/blog/2024/09/whatsapp-dma/)
 * [2024-09-17, 09:10:23](https://lobste.rs/s/phtqhy/towards_modified_condition_decision) - [Towards Modified Condition/Decision Coverage of Rust](https://arxiv.org/abs/2409.08708)
 
