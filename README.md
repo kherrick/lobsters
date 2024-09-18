@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
 * [2024-09-18, 21:55:40](https://lobste.rs/s/i0ghvy/turn_your_blog_into_book) - [Turn your blog into a book](https://jorge.olano.dev/blog/turn-your-blog-into-an-ebook/)
 * [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 * [2024-09-18, 18:53:17](https://lobste.rs/s/pyqbs7/dmg_acid2_acid2_test_now_for_original_game) - [dmg-acid2: The Acid2 test, now for the original Game Boy](https://github.com/mattcurrie/dmg-acid2)
@@ -17,7 +18,6 @@
 * [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
 * [2024-09-18, 09:14:18](https://lobste.rs/s/anlqou/restish) - [Restish](https://rest.sh/)
 * [2024-09-18, 05:44:06](https://lobste.rs/s/0sejra/free_banking_monopoly) - [Free Banking Monopoly](https://entropicthoughts.com/free-banking-monopoly)
-* [2024-09-18, 04:42:53](https://lobste.rs/s/tgkora/what_is_entropy) - [What is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
 * [2024-09-18, 00:41:48](https://lobste.rs/s/ccyxoj/zig_devlog) - [Zig Devlog](https://ziglang.org/devlog/)
 * [2024-09-17, 21:01:05](https://lobste.rs/s/c4n5mw/moergo_glove80_programmable_ergonomic) - [MoErgo Glove80 programmable ergonomic keyboard](https://sunaku.github.io/moergo-glove80-keyboard.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-18](index.md)
 
+* [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
 * [2024-09-18, 21:55:40](https://lobste.rs/s/i0ghvy/turn_your_blog_into_book) - [Turn your blog into a book](https://jorge.olano.dev/blog/turn-your-blog-into-an-ebook/)
 * [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 * [2024-09-18, 18:53:17](https://lobste.rs/s/pyqbs7/dmg_acid2_acid2_test_now_for_original_game) - [dmg-acid2: The Acid2 test, now for the original Game Boy](https://github.com/mattcurrie/dmg-acid2)
