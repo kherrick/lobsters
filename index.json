@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-18, 17:23:39",
+      "https://lobste.rs/s/m2xbla/using_simkube_1_0_comparing_kubernetes"
+    ],
+    [
+      "Using SimKube 1.0: Comparing Kubernetes Cluster Autoscaler and Karpenter",
+      "https://blog.appliedcomputing.io/p/using-simkube-10-comparing-kubernetes"
+    ]
+  ],
+  [
+    [
       "2024-09-18, 16:57:01",
       "https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first"
     ],
@@ -217,16 +227,6 @@
     [
       "Ratchets in software development",
       "https://qntm.org/ratchet"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 11:55:13",
-      "https://lobste.rs/s/tnhgze/blindsided_by_rust_s_subtyping_variance"
-    ],
-    [
-      "Blindsided by Rust's Subtyping and Variance",
-      "https://nullderef.com/blog/rust-variance/"
     ]
   ],
   [
