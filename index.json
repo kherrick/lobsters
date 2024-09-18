@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-09-18, 09:25:28",
-      "https://lobste.rs/s/buwrjf/prompt_injections_demo"
-    ],
-    [
-      "Prompt Injections and a demo",
-      "https://frederikbraun.de/prompt-injections-and-a-demo.html"
-    ]
-  ],
-  [
-    [
       "2024-09-18, 09:14:18",
       "https://lobste.rs/s/anlqou/restish"
     ],
@@ -247,6 +237,16 @@
     [
       "Towards Modified Condition/Decision Coverage of Rust",
       "https://arxiv.org/abs/2409.08708"
+    ]
+  ],
+  [
+    [
+      "2024-09-17, 08:07:38",
+      "https://lobste.rs/s/j0hure/master_hexagonal_architecture_rust"
+    ],
+    [
+      "Master hexagonal architecture in Rust",
+      "https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust"
     ]
   ]
 ]
