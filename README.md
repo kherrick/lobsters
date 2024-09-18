@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 05:44:06](https://lobste.rs/s/0sejra/free_banking_monopoly) - [Free Banking Monopoly](https://entropicthoughts.com/free-banking-monopoly)
 * [2024-09-18, 04:42:53](https://lobste.rs/s/tgkora/what_is_entropy) - [What is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-09-18, 04:42:48](https://lobste.rs/s/1q7l3v/overview_c_26_concurrency) - [An Overview of C++26: Concurrency](https://www.modernescpp.com/index.php/an-overview-of-c26-concurrency/)
 * [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
@@ -14,7 +15,6 @@
 * [2024-09-17, 18:15:36](https://lobste.rs/s/mbmi4e/what_s_alias_name) - [What's in an (Alias) Name?](https://go.dev/blog/alias-names)
 * [2024-09-17, 16:53:34](https://lobste.rs/s/pler78/sndkit_toolkit_for_computer_music) - [sndkit - a toolkit for computer music composition](https://pbat.ch/sndkit/)
 * [2024-09-17, 16:10:50](https://lobste.rs/s/fpq93m/sonoma_vs_sequoia) - [Sonoma vs Sequoia](https://mac.install.guide/macos/sonoma-vs-sequoia)
-* [2024-09-17, 15:58:37](https://lobste.rs/s/szvq2f/kelvin_versioning_2020) - [Kelvin Versioning (2020)](https://jtobin.io/kelvin-versioning)
 * [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
 * [2024-09-17, 11:55:13](https://lobste.rs/s/tnhgze/blindsided_by_rust_s_subtyping_variance) - [Blindsided by Rust's Subtyping and Variance](https://nullderef.com/blog/rust-variance/)
