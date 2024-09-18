@@ -6,7 +6,6 @@
 * [2024-09-18, 11:55:24](https://lobste.rs/s/bxvoug/continued_trajectory_idiocy_tech) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 * [2024-09-18, 11:48:26](https://lobste.rs/s/nchhry/update_on_upcoming_german_broadcasting) - [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
 * [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
-* [2024-09-18, 09:25:28](https://lobste.rs/s/buwrjf/prompt_injections_demo) - [Prompt Injections and a demo](https://frederikbraun.de/prompt-injections-and-a-demo.html)
 * [2024-09-18, 09:14:18](https://lobste.rs/s/anlqou/restish) - [Restish](https://rest.sh/)
 * [2024-09-18, 06:07:35](https://lobste.rs/s/d5z1fn/repos_are_like_children_parenting_101) - [Repos are like children, parenting 101](https://reinout.vanrees.org/weblog/2024/09/17/2-repo-parenting.html)
 * [2024-09-18, 05:44:06](https://lobste.rs/s/0sejra/free_banking_monopoly) - [Free Banking Monopoly](https://entropicthoughts.com/free-banking-monopoly)
@@ -25,6 +24,7 @@
 * [2024-09-17, 11:55:13](https://lobste.rs/s/tnhgze/blindsided_by_rust_s_subtyping_variance) - [Blindsided by Rust's Subtyping and Variance](https://nullderef.com/blog/rust-variance/)
 * [2024-09-17, 10:55:28](https://lobste.rs/s/ueu2lj/update_on_native_matrix) - [Update on Native Matrix interoperability with WhatsApp](https://matrix.org/blog/2024/09/whatsapp-dma/)
 * [2024-09-17, 09:10:23](https://lobste.rs/s/phtqhy/towards_modified_condition_decision) - [Towards Modified Condition/Decision Coverage of Rust](https://arxiv.org/abs/2409.08708)
+* [2024-09-17, 08:07:38](https://lobste.rs/s/j0hure/master_hexagonal_architecture_rust) - [Master hexagonal architecture in Rust](https://www.howtocodeit.com/articles/master-hexagonal-architecture-rust)
 
 ## [Archives](archives/index.md)
 
