@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 16:41:07](https://lobste.rs/s/sbj2ov/introducing_gnome_47_denver) - [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)
 * [2024-09-18, 15:39:39](https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig) - [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
 * [2024-09-18, 15:36:41](https://lobste.rs/s/9zy952/generative_ai_has_visual_plagiarism) - [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
-* [2024-09-18, 15:21:38](https://lobste.rs/s/qj6rzp/integrity_policy_enforcement_ipe) - [Integrity Policy Enforcement (IPE)](https://docs.kernel.org/next/admin-guide/LSM/ipe.html)
 * [2024-09-18, 15:13:10](https://lobste.rs/s/2knsbj/improving_rendering_performance_with) - [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
 * [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
 * [2024-09-18, 11:55:24](https://lobste.rs/s/bxvoug/continued_trajectory_idiocy_tech) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
