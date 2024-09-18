@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-18, 00:41:48",
+      "https://lobste.rs/s/ccyxoj/zig_devlog"
+    ],
+    [
+      "Zig Devlog",
+      "https://ziglang.org/devlog/"
+    ]
+  ],
+  [
+    [
       "2024-09-17, 22:58:43",
       "https://lobste.rs/s/keksqk/lool_low_overhead_optimization_log"
     ],
@@ -227,16 +237,6 @@
     [
       "Oracle, it’s time to free JavaScript",
       "https://javascript.tm/"
-    ]
-  ],
-  [
-    [
-      "2024-09-16, 13:25:51",
-      "https://lobste.rs/s/uait3m/let_s_build_optimize_rust_extension_for"
-    ],
-    [
-      "Let’s build and optimize a Rust extension for Python",
-      "https://pythonspeed.com/articles/intro-rust-python-extensions/"
     ]
   ],
   [
