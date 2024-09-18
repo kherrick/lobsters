@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 16:57:01](https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first) - [TLA⁺ is more than a DSL for breadth-first search](https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/)
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 16:41:07](https://lobste.rs/s/sbj2ov/introducing_gnome_47_denver) - [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)
 * [2024-09-18, 15:39:39](https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig) - [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
@@ -14,7 +15,6 @@
 * [2024-09-18, 04:42:53](https://lobste.rs/s/tgkora/what_is_entropy) - [What is Entropy?](https://johncarlosbaez.wordpress.com/2024/07/20/what-is-entropy/)
 * [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
 * [2024-09-18, 00:41:48](https://lobste.rs/s/ccyxoj/zig_devlog) - [Zig Devlog](https://ziglang.org/devlog/)
-* [2024-09-17, 21:37:17](https://lobste.rs/s/ike7xd/how_optimizations_made_mario64_slower) - [How Optimizations Made Mario64 Slower](https://www.youtube.com/watch?v=Ca1hHC2EctY)
 * [2024-09-17, 21:01:05](https://lobste.rs/s/c4n5mw/moergo_glove80_programmable_ergonomic) - [MoErgo Glove80 programmable ergonomic keyboard](https://sunaku.github.io/moergo-glove80-keyboard.html)
 * [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
 * [2024-09-17, 20:21:37](https://lobste.rs/s/y6yu9l/tansu_is_apache_kafka_api_compatible) - [Tansu is an Apache Kafka API compatible broker with a Postgres storage engine](https://github.com/tansu-io/tansu)
