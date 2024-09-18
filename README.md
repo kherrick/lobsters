@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-18, 12:22:12](https://lobste.rs/s/sbpxsd/building_compile_time_simd_optimized) - [Building a compile-time SIMD optimized smoothing filter](https://scientificcomputing.rs/2024/talks/raz.html)
 * [2024-09-18, 11:48:26](https://lobste.rs/s/nchhry/update_on_upcoming_german_broadcasting) - [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
 * [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
 * [2024-09-18, 09:25:28](https://lobste.rs/s/buwrjf/prompt_injections_demo) - [Prompt Injections and a demo](https://frederikbraun.de/prompt-injections-and-a-demo.html)
@@ -17,7 +18,6 @@
 * [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
 * [2024-09-17, 19:28:42](https://lobste.rs/s/vvb6bm/mandelbrot_calculation_speed_on_variety) - [Mandelbrot calculation speed on a variety of Python accelerators](https://gist.github.com/jpivarski/da343abd8024834ee8c5aaba691aafc7)
 * [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
-* [2024-09-17, 18:15:36](https://lobste.rs/s/mbmi4e/what_s_alias_name) - [What's in an (Alias) Name?](https://go.dev/blog/alias-names)
 * [2024-09-17, 16:10:50](https://lobste.rs/s/fpq93m/sonoma_vs_sequoia) - [Sonoma vs Sequoia](https://mac.install.guide/macos/sonoma-vs-sequoia)
 * [2024-09-17, 15:46:17](https://lobste.rs/s/obofv5/things_you_really_should_know_about) - [Things you really should know about Windows Input, but would rather not](https://ph3at.github.io/posts/Windows-Input/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
