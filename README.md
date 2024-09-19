@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-19, 16:07:46](https://lobste.rs/s/30qglr/kebab_vs_cake_organization) - [Kebab vs Cake organization](https://blog.alexewerlof.com/p/kebab-vs-cake)
+* [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
+* [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
 * [2024-09-19, 15:44:35](https://lobste.rs/s/zklv9c/where_can_career_gpu_coding_take_you) - [Where can a career in GPU coding take you?](https://youtu.be/FWYj2Vc0D1U)
 * [2024-09-19, 15:37:13](https://lobste.rs/s/qxaerb/compile_run_c_javascript) - [Compile and run C in JavaScript](https://bun.sh/blog/compile-and-run-c-in-js)
@@ -15,7 +16,6 @@
 * [2024-09-19, 05:05:12](https://lobste.rs/s/k9lqjs/clojure_brain_teasers) - [Clojure Brain Teasers](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/)
 * [2024-09-19, 00:54:57](https://lobste.rs/s/zkgd9o/retrowin32_redoing_syscalls) - [retrowin32: redoing syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)
 * [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
-* [2024-09-18, 21:55:40](https://lobste.rs/s/i0ghvy/turn_your_blog_into_book) - [Turn your blog into a book](https://jorge.olano.dev/blog/turn-your-blog-into-an-ebook/)
 * [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 * [2024-09-18, 16:57:01](https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first) - [TLA⁺ is more than a DSL for breadth-first search](https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/)
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
