@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 18:22:03](https://lobste.rs/s/fs7ygy/table_format_comparisons_change_queries) - [Table format comparisons - Change queries and CDC](https://jack-vanlightly.com/blog/2024/9/19/table-format-comparisons-change-queries-and-cdc)
 * [2024-09-19, 17:21:06](https://lobste.rs/s/kmg61h/spritely_goblins_v0_14_0_libp2p_improved) - [Spritely Goblins v0.14.0: libp2p and Improved Persistence](https://spritely.institute/news/spritely-goblins-v0140-libp2p-and-improved-persistence.html)
 * [2024-09-19, 17:05:19](https://lobste.rs/s/pqxtug/webassembly_branch_hinting_from_idea_w3c) - [WebAssembly branch hinting: From an idea to W3C standard](https://labs.leaningtech.com/blog/branch-hinting)
 * [2024-09-19, 16:47:28](https://lobste.rs/s/fvp41h/unmasking_vulnerabilities_cheap_iot) - [Unmasking vulnerabilities in cheap IoT cameras from one Chinese manufacturer](https://www.trevorkems.com/operation-big-brother-iot-camera/)
