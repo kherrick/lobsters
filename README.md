@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-19, 11:24:10](https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for) - [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 * [2024-09-19, 11:17:27](https://lobste.rs/s/unyvul/building_llm_powered_applications_go) - [Building LLM-powered applications in Go](https://go.dev/blog/llmpowered)
 * [2024-09-19, 11:13:26](https://lobste.rs/s/996uq0/gilded_rose_refactoring_kata_ruby_as_if_it) - [“Gilded Rose” refactoring kata in Ruby — as if it is 2024](https://zverok.space/blog/2024-09-19-gilded_rose.html)
 * [2024-09-19, 09:42:57](https://lobste.rs/s/yqatkx/path_generics_rust_sketch_proposal_for) - [Path Generics in Rust: A Sketch Proposal for Simplicity and Generality](https://cfallin.org/blog/2024/06/12/rust-path-generics/)
@@ -14,7 +15,6 @@
 * [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 * [2024-09-18, 18:53:17](https://lobste.rs/s/pyqbs7/dmg_acid2_acid2_test_now_for_original_game) - [dmg-acid2: The Acid2 test, now for the original Game Boy](https://github.com/mattcurrie/dmg-acid2)
 * [2024-09-18, 18:32:07](https://lobste.rs/s/3ieplw/transparent_like_frosted_glass) - [transparent like frosted glass](https://explaining.software/archive/transparent-like-frosted-glass/)
-* [2024-09-18, 17:23:39](https://lobste.rs/s/m2xbla/using_simkube_1_0_comparing_kubernetes) - [Using SimKube 1.0: Comparing Kubernetes Cluster Autoscaler and Karpenter](https://blog.appliedcomputing.io/p/using-simkube-10-comparing-kubernetes)
 * [2024-09-18, 16:57:01](https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first) - [TLA⁺ is more than a DSL for breadth-first search](https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/)
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 16:41:07](https://lobste.rs/s/sbj2ov/introducing_gnome_47_denver) - [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)

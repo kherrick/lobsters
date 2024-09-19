@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 11:24:10](https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for) - [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 * [2024-09-19, 11:17:27](https://lobste.rs/s/unyvul/building_llm_powered_applications_go) - [Building LLM-powered applications in Go](https://go.dev/blog/llmpowered)
 * [2024-09-19, 11:13:26](https://lobste.rs/s/996uq0/gilded_rose_refactoring_kata_ruby_as_if_it) - [“Gilded Rose” refactoring kata in Ruby — as if it is 2024](https://zverok.space/blog/2024-09-19-gilded_rose.html)
 * [2024-09-19, 09:42:57](https://lobste.rs/s/yqatkx/path_generics_rust_sketch_proposal_for) - [Path Generics in Rust: A Sketch Proposal for Simplicity and Generality](https://cfallin.org/blog/2024/06/12/rust-path-generics/)
