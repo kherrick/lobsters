@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-19, 11:24:10",
+      "https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for"
+    ],
+    [
+      "kl: An interactive Kubernetes log viewer for your terminal",
+      "https://github.com/robinovitch61/kl"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 11:17:27",
       "https://lobste.rs/s/unyvul/building_llm_powered_applications_go"
     ],
@@ -137,16 +147,6 @@
     [
       "transparent like frosted glass",
       "https://explaining.software/archive/transparent-like-frosted-glass/"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 17:23:39",
-      "https://lobste.rs/s/m2xbla/using_simkube_1_0_comparing_kubernetes"
-    ],
-    [
-      "Using SimKube 1.0: Comparing Kubernetes Cluster Autoscaler and Karpenter",
-      "https://blog.appliedcomputing.io/p/using-simkube-10-comparing-kubernetes"
     ]
   ],
   [
