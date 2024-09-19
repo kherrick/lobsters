@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-19, 11:17:27](https://lobste.rs/s/unyvul/building_llm_powered_applications_go) - [Building LLM-powered applications in Go](https://go.dev/blog/llmpowered)
+* [2024-09-19, 11:13:26](https://lobste.rs/s/996uq0/gilded_rose_refactoring_kata_ruby_as_if_it) - [“Gilded Rose” refactoring kata in Ruby — as if it is 2024](https://zverok.space/blog/2024-09-19-gilded_rose.html)
 * [2024-09-19, 09:42:57](https://lobste.rs/s/yqatkx/path_generics_rust_sketch_proposal_for) - [Path Generics in Rust: A Sketch Proposal for Simplicity and Generality](https://cfallin.org/blog/2024/06/12/rust-path-generics/)
 * [2024-09-19, 08:49:40](https://lobste.rs/s/ofmakl/zml_high_performance_ai_inference_stack) - [zml: High performance AI inference stack. Built for production](https://github.com/zml/zml)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
@@ -22,9 +24,7 @@
 * [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
 * [2024-09-18, 11:48:26](https://lobste.rs/s/nchhry/update_on_upcoming_german_broadcasting) - [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
 * [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
-* [2024-09-18, 09:14:18](https://lobste.rs/s/anlqou/restish) - [Restish](https://rest.sh/)
 * [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
-* [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
 
 ## [Archives](archives/index.md)
 
