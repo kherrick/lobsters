@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-19, 19:26:12",
+      "https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux"
+    ],
+    [
+      "Linus Torvalds: Speaks on the Rust vs C Linux Divide",
+      "https://www.youtube.com/watch?v=0bb3-bjgf88"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 17:21:06",
       "https://lobste.rs/s/kmg61h/spritely_goblins_v0_14_0_libp2p_improved"
     ],
@@ -237,16 +247,6 @@
     [
       "Improving rendering performance with CSS content-visibility",
       "https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 13:12:54",
-      "https://lobste.rs/s/ydcu6l/stop_using_serial_postgres"
-    ],
-    [
-      "Stop using SERIAL in Postgres",
-      "https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/"
     ]
   ]
 ]
