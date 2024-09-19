@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-09-19, 17:21:06",
+      "https://lobste.rs/s/kmg61h/spritely_goblins_v0_14_0_libp2p_improved"
+    ],
+    [
+      "Spritely Goblins v0.14.0: libp2p and Improved Persistence",
+      "https://spritely.institute/news/spritely-goblins-v0140-libp2p-and-improved-persistence.html"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 16:47:28",
       "https://lobste.rs/s/fvp41h/unmasking_vulnerabilities_cheap_iot"
     ],
@@ -127,16 +137,6 @@
     [
       "kl: An interactive Kubernetes log viewer for your terminal",
       "https://github.com/robinovitch61/kl"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 11:17:27",
-      "https://lobste.rs/s/unyvul/building_llm_powered_applications_go"
-    ],
-    [
-      "Building LLM-powered applications in Go",
-      "https://go.dev/blog/llmpowered"
     ]
   ],
   [
