@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-19, 18:22:03](https://lobste.rs/s/fs7ygy/table_format_comparisons_change_queries) - [Table format comparisons - Change queries and CDC](https://jack-vanlightly.com/blog/2024/9/19/table-format-comparisons-change-queries-and-cdc)
+* [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
 * [2024-09-19, 16:47:28](https://lobste.rs/s/fvp41h/unmasking_vulnerabilities_cheap_iot) - [Unmasking vulnerabilities in cheap IoT cameras from one Chinese manufacturer](https://www.trevorkems.com/operation-big-brother-iot-camera/)
 * [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)

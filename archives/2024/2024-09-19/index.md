@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
 * [2024-09-19, 18:22:03](https://lobste.rs/s/fs7ygy/table_format_comparisons_change_queries) - [Table format comparisons - Change queries and CDC](https://jack-vanlightly.com/blog/2024/9/19/table-format-comparisons-change-queries-and-cdc)
 * [2024-09-19, 17:21:06](https://lobste.rs/s/kmg61h/spritely_goblins_v0_14_0_libp2p_improved) - [Spritely Goblins v0.14.0: libp2p and Improved Persistence](https://spritely.institute/news/spritely-goblins-v0140-libp2p-and-improved-persistence.html)
 * [2024-09-19, 17:05:19](https://lobste.rs/s/pqxtug/webassembly_branch_hinting_from_idea_w3c) - [WebAssembly branch hinting: From an idea to W3C standard](https://labs.leaningtech.com/blog/branch-hinting)
