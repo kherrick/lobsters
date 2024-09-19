@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-19, 19:52:17](https://lobste.rs/s/pocvxh/emacs_bubble_mode) - [Emacs bubble mode](https://lmno.lol/alvaro/emacs-bubble-mode)
+* [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
 * [2024-09-19, 17:21:06](https://lobste.rs/s/kmg61h/spritely_goblins_v0_14_0_libp2p_improved) - [Spritely Goblins v0.14.0: libp2p and Improved Persistence](https://spritely.institute/news/spritely-goblins-v0140-libp2p-and-improved-persistence.html)
 * [2024-09-19, 16:47:28](https://lobste.rs/s/fvp41h/unmasking_vulnerabilities_cheap_iot) - [Unmasking vulnerabilities in cheap IoT cameras from one Chinese manufacturer](https://www.trevorkems.com/operation-big-brother-iot-camera/)
 * [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
@@ -24,7 +25,6 @@
 * [2024-09-18, 15:39:39](https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig) - [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
 * [2024-09-18, 15:36:41](https://lobste.rs/s/9zy952/generative_ai_has_visual_plagiarism) - [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
 * [2024-09-18, 15:13:10](https://lobste.rs/s/2knsbj/improving_rendering_performance_with) - [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
-* [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
 
 ## [Archives](archives/index.md)
 
