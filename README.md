@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-19, 19:36:22](https://lobste.rs/s/znvhgl/as_rails_developers_why_we_are_excited) - [As Rails developers, why we are excited about PostgreSQL 17](https://dev.to/lifen/as-rails-developers-why-we-are-excited-about-postgresql-17-27nj)
+* [2024-09-19, 19:52:17](https://lobste.rs/s/pocvxh/emacs_bubble_mode) - [Emacs bubble mode](https://lmno.lol/alvaro/emacs-bubble-mode)
 * [2024-09-19, 16:47:28](https://lobste.rs/s/fvp41h/unmasking_vulnerabilities_cheap_iot) - [Unmasking vulnerabilities in cheap IoT cameras from one Chinese manufacturer](https://www.trevorkems.com/operation-big-brother-iot-camera/)
 * [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
