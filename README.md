@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-19, 09:42:57](https://lobste.rs/s/yqatkx/path_generics_rust_sketch_proposal_for) - [Path Generics in Rust: A Sketch Proposal for Simplicity and Generality](https://cfallin.org/blog/2024/06/12/rust-path-generics/)
 * [2024-09-19, 08:49:40](https://lobste.rs/s/ofmakl/zml_high_performance_ai_inference_stack) - [zml: High performance AI inference stack. Built for production](https://github.com/zml/zml)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
 * [2024-09-19, 05:05:12](https://lobste.rs/s/k9lqjs/clojure_brain_teasers) - [Clojure Brain Teasers](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/)
@@ -23,7 +24,6 @@
 * [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
 * [2024-09-18, 09:14:18](https://lobste.rs/s/anlqou/restish) - [Restish](https://rest.sh/)
 * [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
-* [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
 * [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
 
 ## [Archives](archives/index.md)
