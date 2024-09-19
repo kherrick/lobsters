@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-19, 16:47:28](https://lobste.rs/s/fvp41h/unmasking_vulnerabilities_cheap_iot) - [Unmasking vulnerabilities in cheap IoT cameras from one Chinese manufacturer](https://www.trevorkems.com/operation-big-brother-iot-camera/)
+* [2024-09-19, 17:05:19](https://lobste.rs/s/pqxtug/webassembly_branch_hinting_from_idea_w3c) - [WebAssembly branch hinting: From an idea to W3C standard](https://labs.leaningtech.com/blog/branch-hinting)
+* [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
 * [2024-09-19, 15:44:35](https://lobste.rs/s/zklv9c/where_can_career_gpu_coding_take_you) - [Where can a career in GPU coding take you?](https://youtu.be/FWYj2Vc0D1U)
@@ -24,7 +25,6 @@
 * [2024-09-18, 15:36:41](https://lobste.rs/s/9zy952/generative_ai_has_visual_plagiarism) - [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
 * [2024-09-18, 15:13:10](https://lobste.rs/s/2knsbj/improving_rendering_performance_with) - [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
 * [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
-* [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
 
 ## [Archives](archives/index.md)
 
