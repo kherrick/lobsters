@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-19, 03:17:23](https://lobste.rs/s/sdycnz/announcing_general_availability_aws_sdk) - [Announcing General Availability of the AWS SDK for Swift](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/)
 * [2024-09-19, 00:54:57](https://lobste.rs/s/zkgd9o/retrowin32_redoing_syscalls) - [retrowin32: redoing syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)
 * [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
 * [2024-09-18, 21:55:40](https://lobste.rs/s/i0ghvy/turn_your_blog_into_book) - [Turn your blog into a book](https://jorge.olano.dev/blog/turn-your-blog-into-an-ebook/)
@@ -14,7 +15,6 @@
 * [2024-09-18, 15:36:41](https://lobste.rs/s/9zy952/generative_ai_has_visual_plagiarism) - [Generative AI Has a Visual Plagiarism Problem](https://spectrum.ieee.org/midjourney-copyright)
 * [2024-09-18, 15:13:10](https://lobste.rs/s/2knsbj/improving_rendering_performance_with) - [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
 * [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
-* [2024-09-18, 11:55:24](https://lobste.rs/s/bxvoug/continued_trajectory_idiocy_tech) - [The Continued Trajectory of Idiocy in the Tech Industry](https://soatok.blog/2024/09/18/the-continued-trajectory-of-idiocy-in-the-tech-industry/)
 * [2024-09-18, 11:48:26](https://lobste.rs/s/nchhry/update_on_upcoming_german_broadcasting) - [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
 * [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
 * [2024-09-18, 09:14:18](https://lobste.rs/s/anlqou/restish) - [Restish](https://rest.sh/)
