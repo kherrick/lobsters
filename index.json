@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-19, 16:07:46",
+      "https://lobste.rs/s/30qglr/kebab_vs_cake_organization"
+    ],
+    [
+      "Kebab vs Cake organization",
+      "https://blog.alexewerlof.com/p/kebab-vs-cake"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 16:06:52",
+      "https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source"
+    ],
+    [
+      "Accidental Spending: A Case For an Open Source Tax?",
+      "https://lucumr.pocoo.org/2024/9/19/open-source-tax/"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 15:44:35",
       "https://lobste.rs/s/zklv9c/where_can_career_gpu_coding_take_you"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-09-19, 03:17:23",
-      "https://lobste.rs/s/sdycnz/announcing_general_availability_aws_sdk"
-    ],
-    [
-      "Announcing General Availability of the AWS SDK for Swift",
-      "https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 00:54:57",
       "https://lobste.rs/s/zkgd9o/retrowin32_redoing_syscalls"
     ],
@@ -227,16 +237,6 @@
     [
       "Stop using SERIAL in Postgres",
       "https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 11:48:26",
-      "https://lobste.rs/s/nchhry/update_on_upcoming_german_broadcasting"
-    ],
-    [
-      "Update on an upcoming German broadcasting story about Tor/Onion Services",
-      "https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html"
     ]
   ],
   [
