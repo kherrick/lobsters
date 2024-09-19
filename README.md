@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-19, 19:52:17](https://lobste.rs/s/pocvxh/emacs_bubble_mode) - [Emacs bubble mode](https://lmno.lol/alvaro/emacs-bubble-mode)
+* [2024-09-19, 17:21:06](https://lobste.rs/s/kmg61h/spritely_goblins_v0_14_0_libp2p_improved) - [Spritely Goblins v0.14.0: libp2p and Improved Persistence](https://spritely.institute/news/spritely-goblins-v0140-libp2p-and-improved-persistence.html)
 * [2024-09-19, 16:47:28](https://lobste.rs/s/fvp41h/unmasking_vulnerabilities_cheap_iot) - [Unmasking vulnerabilities in cheap IoT cameras from one Chinese manufacturer](https://www.trevorkems.com/operation-big-brother-iot-camera/)
 * [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
@@ -14,7 +15,6 @@
 * [2024-09-19, 11:13:26](https://lobste.rs/s/996uq0/gilded_rose_refactoring_kata_ruby_as_if_it) - [“Gilded Rose” refactoring kata in Ruby — as if it is 2024](https://zverok.space/blog/2024-09-19-gilded_rose.html)
 * [2024-09-19, 09:42:57](https://lobste.rs/s/yqatkx/path_generics_rust_sketch_proposal_for) - [Path Generics in Rust: A Sketch Proposal for Simplicity and Generality](https://cfallin.org/blog/2024/06/12/rust-path-generics/)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
-* [2024-09-19, 05:05:12](https://lobste.rs/s/k9lqjs/clojure_brain_teasers) - [Clojure Brain Teasers](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/)
 * [2024-09-19, 00:54:57](https://lobste.rs/s/zkgd9o/retrowin32_redoing_syscalls) - [retrowin32: redoing syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)
 * [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
 * [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
