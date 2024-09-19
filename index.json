@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-19, 06:28:30",
+      "https://lobste.rs/s/fjixgp/using_youtube_steal_your_files"
+    ],
+    [
+      "Using YouTube to steal your files",
+      "https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 05:05:12",
       "https://lobste.rs/s/k9lqjs/clojure_brain_teasers"
     ],
@@ -217,16 +227,6 @@
     [
       "Zig Devlog",
       "https://ziglang.org/devlog/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 20:04:22",
-      "https://lobste.rs/s/zofsan/understanding_memory_ordering_rust"
-    ],
-    [
-      "Understanding Memory Ordering in Rust",
-      "https://emschwartz.me/understanding-memory-ordering-in-rust/"
     ]
   ],
   [
