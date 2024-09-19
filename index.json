@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-19, 11:35:45",
+      "https://lobste.rs/s/xcx5me/ruby_saml_pwned_by_xml_signature_wrapping"
+    ],
+    [
+      "Ruby-SAML pwned by XML signature wrapping attacks",
+      "https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 11:24:10",
       "https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for"
     ],
@@ -67,16 +77,6 @@
     [
       "Clojure Brain Teasers",
       "https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 04:51:21",
-      "https://lobste.rs/s/trf4de/why_are_black_boxes_so_hard_reuse_1994"
-    ],
-    [
-      "Why are Black Boxes so Hard to Reuse? (1994)",
-      "http://web.archive.org/web/20010707044137/http://www.parc.xerox.com/spl/projects/oi/towards-talk/transcript.html"
     ]
   ],
   [
