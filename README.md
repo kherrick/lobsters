@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-19, 15:13:39](https://lobste.rs/s/rqdldc/sans_i_o_when_rubber_meets_road) - [Sans I/O when rubber meets the road](https://fractalideas.com/blog/sans-io-when-rubber-meets-road/)
 * [2024-09-19, 11:35:45](https://lobste.rs/s/xcx5me/ruby_saml_pwned_by_xml_signature_wrapping) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
 * [2024-09-19, 11:24:10](https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for) - [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 * [2024-09-19, 11:17:27](https://lobste.rs/s/unyvul/building_llm_powered_applications_go) - [Building LLM-powered applications in Go](https://go.dev/blog/llmpowered)
@@ -23,7 +24,6 @@
 * [2024-09-18, 15:13:10](https://lobste.rs/s/2knsbj/improving_rendering_performance_with) - [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
 * [2024-09-18, 13:12:54](https://lobste.rs/s/ydcu6l/stop_using_serial_postgres) - [Stop using SERIAL in Postgres](https://www.naiyerasif.com/post/2024/09/04/stop-using-serial-in-postgres/)
 * [2024-09-18, 11:48:26](https://lobste.rs/s/nchhry/update_on_upcoming_german_broadcasting) - [Update on an upcoming German broadcasting story about Tor/Onion Services](https://lists.torproject.org/pipermail/tor-relays/2024-September/021855.html)
-* [2024-09-18, 11:27:53](https://lobste.rs/s/hgipk1/goodhart_s_law_software_engineering) - [Goodhart's Law in Software Engineering](https://buttondown.com/hillelwayne/archive/goodharts-law-in-software-engineering/)
 * [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
 
 ## [Archives](archives/index.md)
