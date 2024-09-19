@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 15:37:13](https://lobste.rs/s/qxaerb/compile_run_c_javascript) - [Compile and run C in JavaScript](https://bun.sh/blog/compile-and-run-c-in-js)
 * [2024-09-19, 15:13:39](https://lobste.rs/s/rqdldc/sans_i_o_when_rubber_meets_road) - [Sans I/O when rubber meets the road](https://fractalideas.com/blog/sans-io-when-rubber-meets-road/)
 * [2024-09-19, 11:35:45](https://lobste.rs/s/xcx5me/ruby_saml_pwned_by_xml_signature_wrapping) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
 * [2024-09-19, 11:24:10](https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for) - [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
