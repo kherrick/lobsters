@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-19, 17:05:19](https://lobste.rs/s/pqxtug/webassembly_branch_hinting_from_idea_w3c) - [WebAssembly branch hinting: From an idea to W3C standard](https://labs.leaningtech.com/blog/branch-hinting)
+* [2024-09-19, 17:21:06](https://lobste.rs/s/kmg61h/spritely_goblins_v0_14_0_libp2p_improved) - [Spritely Goblins v0.14.0: libp2p and Improved Persistence](https://spritely.institute/news/spritely-goblins-v0140-libp2p-and-improved-persistence.html)
 * [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
