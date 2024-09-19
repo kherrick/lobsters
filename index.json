@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-19, 08:49:40",
+      "https://lobste.rs/s/ofmakl/zml_high_performance_ai_inference_stack"
+    ],
+    [
+      "zml: High performance AI inference stack. Built for production",
+      "https://github.com/zml/zml"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 06:28:30",
       "https://lobste.rs/s/fjixgp/using_youtube_steal_your_files"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing Swift 6",
       "https://www.swift.org/blog/announcing-swift-6/"
-    ]
-  ],
-  [
-    [
-      "2024-09-17, 13:44:03",
-      "https://lobste.rs/s/sb4v1c/ratchets_software_development"
-    ],
-    [
-      "Ratchets in software development",
-      "https://qntm.org/ratchet"
     ]
   ]
 ]
