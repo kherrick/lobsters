@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 08:49:40](https://lobste.rs/s/ofmakl/zml_high_performance_ai_inference_stack) - [zml: High performance AI inference stack. Built for production](https://github.com/zml/zml)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
 * [2024-09-19, 05:05:12](https://lobste.rs/s/k9lqjs/clojure_brain_teasers) - [Clojure Brain Teasers](https://pragprog.com/titles/mmclobrain/clojure-brain-teasers/)
 * [2024-09-19, 04:51:21](https://lobste.rs/s/trf4de/why_are_black_boxes_so_hard_reuse_1994) - [Why are Black Boxes so Hard to Reuse? (1994)](http://web.archive.org/web/20010707044137/http://www.parc.xerox.com/spl/projects/oi/towards-talk/transcript.html)
