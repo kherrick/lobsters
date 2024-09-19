@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-19, 04:51:21](https://lobste.rs/s/trf4de/why_are_black_boxes_so_hard_reuse_1994) - [Why are Black Boxes so Hard to Reuse? (1994)](http://web.archive.org/web/20010707044137/http://www.parc.xerox.com/spl/projects/oi/towards-talk/transcript.html)
 * [2024-09-19, 03:17:23](https://lobste.rs/s/sdycnz/announcing_general_availability_aws_sdk) - [Announcing General Availability of the AWS SDK for Swift](https://aws.amazon.com/blogs/developer/announcing-general-availability-of-the-aws-sdk-for-swift/)
 * [2024-09-19, 00:54:57](https://lobste.rs/s/zkgd9o/retrowin32_redoing_syscalls) - [retrowin32: redoing syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)
 * [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
@@ -21,7 +22,6 @@
 * [2024-09-18, 05:44:06](https://lobste.rs/s/0sejra/free_banking_monopoly) - [Free Banking Monopoly](https://entropicthoughts.com/free-banking-monopoly)
 * [2024-09-18, 01:39:50](https://lobste.rs/s/20t1jj/wonderful_vi) - [Wonderful vi](https://world.hey.com/dhh/wonderful-vi-a1d034d3)
 * [2024-09-18, 00:41:48](https://lobste.rs/s/ccyxoj/zig_devlog) - [Zig Devlog](https://ziglang.org/devlog/)
-* [2024-09-17, 20:43:21](https://lobste.rs/s/db2rwc/meet_dave_discord_s_new_end_end_encryption) - [Meet DAVE: Discord’s New End-to-End Encryption for Audio & Video](https://discord.com/blog/meet-dave-e2ee-for-audio-video)
 * [2024-09-17, 20:04:22](https://lobste.rs/s/zofsan/understanding_memory_ordering_rust) - [Understanding Memory Ordering in Rust](https://emschwartz.me/understanding-memory-ordering-in-rust/)
 * [2024-09-17, 19:19:12](https://lobste.rs/s/ekcutg/announcing_swift_6) - [Announcing Swift 6](https://www.swift.org/blog/announcing-swift-6/)
 * [2024-09-17, 13:44:03](https://lobste.rs/s/sb4v1c/ratchets_software_development) - [Ratchets in software development](https://qntm.org/ratchet)
