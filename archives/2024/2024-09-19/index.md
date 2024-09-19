@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-19](index.md)
 
+* [2024-09-19, 16:07:46](https://lobste.rs/s/30qglr/kebab_vs_cake_organization) - [Kebab vs Cake organization](https://blog.alexewerlof.com/p/kebab-vs-cake)
+* [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
 * [2024-09-19, 15:44:35](https://lobste.rs/s/zklv9c/where_can_career_gpu_coding_take_you) - [Where can a career in GPU coding take you?](https://youtu.be/FWYj2Vc0D1U)
 * [2024-09-19, 15:37:13](https://lobste.rs/s/qxaerb/compile_run_c_javascript) - [Compile and run C in JavaScript](https://bun.sh/blog/compile-and-run-c-in-js)
 * [2024-09-19, 15:13:39](https://lobste.rs/s/rqdldc/sans_i_o_when_rubber_meets_road) - [Sans I/O when rubber meets the road](https://fractalideas.com/blog/sans-io-when-rubber-meets-road/)
