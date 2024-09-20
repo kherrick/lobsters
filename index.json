@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-20, 16:06:14",
+      "https://lobste.rs/s/ykzxii/build_deploy_websites_automatically"
+    ],
+    [
+      "Build and Deploy Websites Automatically with Git",
+      "https://btxx.org/posts/git-auto-deploy/"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 16:01:31",
+      "https://lobste.rs/s/x6ja6o/languages_with_alternative_hello_world"
+    ],
+    [
+      "Languages with Alternative \"Hello World\" Programs",
+      "https://dgaston.net/writing/alternative-hello-world/"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 15:34:13",
       "https://lobste.rs/s/dzkdry/improved_error_handling_cheriot_rtos"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-09-20, 00:31:29",
-      "https://lobste.rs/s/cpclfq/project_ideas_pgwire"
-    ],
-    [
-      "Project ideas of pgwire",
-      "https://github.com/sunng87/pgwire/discussions/204"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 22:54:08",
       "https://lobste.rs/s/j8gsg4/directx_adopting_spir_v_as_interchange"
     ],
@@ -207,16 +217,6 @@
     [
       "Accidental Spending: A Case For an Open Source Tax?",
       "https://lucumr.pocoo.org/2024/9/19/open-source-tax/"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 11:24:10",
-      "https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for"
-    ],
-    [
-      "kl: An interactive Kubernetes log viewer for your terminal",
-      "https://github.com/robinovitch61/kl"
     ]
   ],
   [
