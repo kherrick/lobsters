@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
-* [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph) - [Antonymph](https://lyra.horse/antonymph)
+* [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph_audiovisual_web_experience) - [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
 * [2024-09-20, 19:15:17](https://lobste.rs/s/3lwz8i/conway_s_law) - [Conway's law](https://ncatlab.org/nlab/show/Conway%27s+law)
 * [2024-09-20, 18:12:59](https://lobste.rs/s/jipztb/how_discord_reduced_websocket_traffic_by) - [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 16:06:14](https://lobste.rs/s/ykzxii/build_deploy_websites_automatically) - [Build and Deploy Websites Automatically with Git](https://btxx.org/posts/git-auto-deploy/)

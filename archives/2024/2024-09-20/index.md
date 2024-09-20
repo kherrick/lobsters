@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
 * [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
+* [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph_audiovisual_web_experience) - [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
 * [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph) - [Antonymph](https://lyra.horse/antonymph)
 * [2024-09-20, 19:15:17](https://lobste.rs/s/3lwz8i/conway_s_law) - [Conway's law](https://ncatlab.org/nlab/show/Conway%27s+law)
 * [2024-09-20, 19:10:22](https://lobste.rs/s/jld3pn/turning_everyday_gadgets_into_bombs_is) - [Turning Everyday Gadgets into Bombs is a Bad Idea](https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/)
