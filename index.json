@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-20, 18:12:59",
+      "https://lobste.rs/s/jipztb/how_discord_reduced_websocket_traffic_by"
+    ],
+    [
+      "How Discord Reduced Websocket Traffic by 40%",
+      "https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 16:06:14",
       "https://lobste.rs/s/ykzxii/build_deploy_websites_automatically"
     ],
@@ -237,16 +247,6 @@
     [
       "Using YouTube to steal your files",
       "https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 16:47:17",
-      "https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated"
-    ],
-    [
-      "Why wordfreq will not be updated",
-      "https://github.com/rspeer/wordfreq/blob/master/SUNSET.md"
     ]
   ]
 ]
