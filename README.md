@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-20, 00:51:02](https://lobste.rs/s/xrwee3/trip_report_summer_iso_c_meeting_st_louis) - [Trip Report: Summer ISO C++ Meeting in St. Louis, USA](https://www.think-cell.com/en/career/devblog/trip-report-summer-iso-cpp-meeting-in-st-louis-usa)
 * [2024-09-20, 00:31:29](https://lobste.rs/s/cpclfq/project_ideas_pgwire) - [Project ideas of pgwire](https://github.com/sunng87/pgwire/discussions/204)
+* [2024-09-19, 23:01:04](https://lobste.rs/s/s0tucn/pc_floppy_copy_protection_electronic) - [PC floppy copy protection: Electronic Arts Interlock](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-electronic.html)
+* [2024-09-19, 22:54:08](https://lobste.rs/s/j8gsg4/directx_adopting_spir_v_as_interchange) - [DirectX adopting SPIR-V as the interchange format of the future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 * [2024-09-19, 21:58:46](https://lobste.rs/s/pdgphh/visual_guide_ssh_tunneling_port) - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 * [2024-09-19, 19:52:17](https://lobste.rs/s/pocvxh/emacs_bubble_mode) - [Emacs bubble mode](https://lmno.lol/alvaro/emacs-bubble-mode)
 * [2024-09-19, 19:36:22](https://lobste.rs/s/znvhgl/as_rails_developers_why_we_are_excited) - [As Rails developers, why we are excited about PostgreSQL 17](https://dev.to/lifen/as-rails-developers-why-we-are-excited-about-postgresql-17-27nj)
@@ -16,7 +17,6 @@
 * [2024-09-19, 11:35:45](https://lobste.rs/s/xcx5me/ruby_saml_pwned_by_xml_signature_wrapping) - [Ruby-SAML pwned by XML signature wrapping attacks](https://ssoready.com/blog/engineering/ruby-saml-pwned-by-xml-signature-wrapping-attacks/)
 * [2024-09-19, 11:24:10](https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for) - [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 * [2024-09-19, 11:13:26](https://lobste.rs/s/996uq0/gilded_rose_refactoring_kata_ruby_as_if_it) - [“Gilded Rose” refactoring kata in Ruby — as if it is 2024](https://zverok.space/blog/2024-09-19-gilded_rose.html)
-* [2024-09-19, 09:42:57](https://lobste.rs/s/yqatkx/path_generics_rust_sketch_proposal_for) - [Path Generics in Rust: A Sketch Proposal for Simplicity and Generality](https://cfallin.org/blog/2024/06/12/rust-path-generics/)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
 * [2024-09-19, 00:54:57](https://lobste.rs/s/zkgd9o/retrowin32_redoing_syscalls) - [retrowin32: redoing syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)
 * [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
