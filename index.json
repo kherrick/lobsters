@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-09-20, 00:51:02",
-      "https://lobste.rs/s/xrwee3/trip_report_summer_iso_c_meeting_st_louis"
-    ],
-    [
-      "Trip Report: Summer ISO C++ Meeting in St. Louis, USA",
-      "https://www.think-cell.com/en/career/devblog/trip-report-summer-iso-cpp-meeting-in-st-louis-usa"
-    ]
-  ],
-  [
-    [
       "2024-09-20, 00:31:29",
       "https://lobste.rs/s/cpclfq/project_ideas_pgwire"
     ],
     [
       "Project ideas of pgwire",
       "https://github.com/sunng87/pgwire/discussions/204"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 23:01:04",
+      "https://lobste.rs/s/s0tucn/pc_floppy_copy_protection_electronic"
+    ],
+    [
+      "PC floppy copy protection: Electronic Arts Interlock",
+      "https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-electronic.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-19, 22:54:08",
+      "https://lobste.rs/s/j8gsg4/directx_adopting_spir_v_as_interchange"
+    ],
+    [
+      "DirectX adopting SPIR-V as the interchange format of the future",
+      "https://devblogs.microsoft.com/directx/directx-adopting-spir-v/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "“Gilded Rose” refactoring kata in Ruby — as if it is 2024",
       "https://zverok.space/blog/2024-09-19-gilded_rose.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 09:42:57",
-      "https://lobste.rs/s/yqatkx/path_generics_rust_sketch_proposal_for"
-    ],
-    [
-      "Path Generics in Rust: A Sketch Proposal for Simplicity and Generality",
-      "https://cfallin.org/blog/2024/06/12/rust-path-generics/"
     ]
   ],
   [
