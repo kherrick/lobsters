@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-20, 00:51:02",
+      "https://lobste.rs/s/xrwee3/trip_report_summer_iso_c_meeting_st_louis"
+    ],
+    [
+      "Trip Report: Summer ISO C++ Meeting in St. Louis, USA",
+      "https://www.think-cell.com/en/career/devblog/trip-report-summer-iso-cpp-meeting-in-st-louis-usa"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 00:31:29",
+      "https://lobste.rs/s/cpclfq/project_ideas_pgwire"
+    ],
+    [
+      "Project ideas of pgwire",
+      "https://github.com/sunng87/pgwire/discussions/204"
+    ]
+  ],
+  [
+    [
       "2024-09-19, 21:58:46",
       "https://lobste.rs/s/pdgphh/visual_guide_ssh_tunneling_port"
     ],
@@ -37,16 +57,6 @@
     [
       "Linus Torvalds: Speaks on the Rust vs C Linux Divide",
       "https://www.youtube.com/watch?v=0bb3-bjgf88"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 17:21:06",
-      "https://lobste.rs/s/kmg61h/spritely_goblins_v0_14_0_libp2p_improved"
-    ],
-    [
-      "Spritely Goblins v0.14.0: libp2p and Improved Persistence",
-      "https://spritely.institute/news/spritely-goblins-v0140-libp2p-and-improved-persistence.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "A Signal run a day keeps the un-link away",
       "https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 16:57:01",
-      "https://lobste.rs/s/zl0e71/tla_is_more_than_dsl_for_breadth_first"
-    ],
-    [
-      "TLA⁺ is more than a DSL for breadth-first search",
-      "https://ahelwer.ca/post/2024-09-18-tla-bfs-dsl/"
     ]
   ],
   [
