@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 03:14:24](https://lobste.rs/s/zckrxd/unspoken_rules_react_hooks) - [The unspoken rules of React hooks](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
 * [2024-09-20, 00:31:29](https://lobste.rs/s/cpclfq/project_ideas_pgwire) - [Project ideas of pgwire](https://github.com/sunng87/pgwire/discussions/204)
 * [2024-09-19, 23:01:04](https://lobste.rs/s/s0tucn/pc_floppy_copy_protection_electronic) - [PC floppy copy protection: Electronic Arts Interlock](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-electronic.html)
 * [2024-09-19, 22:54:08](https://lobste.rs/s/j8gsg4/directx_adopting_spir_v_as_interchange) - [DirectX adopting SPIR-V as the interchange format of the future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
@@ -24,7 +25,6 @@
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
 * [2024-09-18, 16:41:07](https://lobste.rs/s/sbj2ov/introducing_gnome_47_denver) - [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)
 * [2024-09-18, 15:39:39](https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig) - [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
-* [2024-09-18, 15:13:10](https://lobste.rs/s/2knsbj/improving_rendering_performance_with) - [Improving rendering performance with CSS content-visibility](https://nolanlawson.com/2024/09/18/improving-rendering-performance-with-css-content-visibility/)
 
 ## [Archives](archives/index.md)
 
