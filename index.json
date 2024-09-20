@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-20, 15:20:03",
+      "https://lobste.rs/s/52kftp/linux_4004"
+    ],
+    [
+      "Linux/4004",
+      "https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004"
+    ]
+  ],
+  [
+    [
+      "2024-09-20, 15:14:13",
+      "https://lobste.rs/s/hvxnh0/crushing_castlevania_with_antithesis"
+    ],
+    [
+      "Crushing Castlevania with Antithesis",
+      "https://antithesis.com/blog/castlevania/"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 14:52:54",
       "https://lobste.rs/s/c800ba/my_first_experience_with_ocaml"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-09-19, 19:52:17",
-      "https://lobste.rs/s/pocvxh/emacs_bubble_mode"
-    ],
-    [
-      "Emacs bubble mode",
-      "https://lmno.lol/alvaro/emacs-bubble-mode"
-    ]
-  ],
-  [
-    [
       "2024-09-19, 19:36:22",
       "https://lobste.rs/s/znvhgl/as_rails_developers_why_we_are_excited"
     ],
@@ -187,16 +197,6 @@
     [
       "Accidental Spending: A Case For an Open Source Tax?",
       "https://lucumr.pocoo.org/2024/9/19/open-source-tax/"
-    ]
-  ],
-  [
-    [
-      "2024-09-19, 15:37:13",
-      "https://lobste.rs/s/qxaerb/compile_run_c_javascript"
-    ],
-    [
-      "Compile and run C in JavaScript",
-      "https://bun.sh/blog/compile-and-run-c-in-js"
     ]
   ],
   [
