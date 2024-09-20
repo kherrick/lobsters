@@ -2,7 +2,6 @@
 
 * [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph) - [Antonymph](https://lyra.horse/antonymph)
 * [2024-09-20, 19:15:17](https://lobste.rs/s/3lwz8i/conway_s_law) - [Conway's law](https://ncatlab.org/nlab/show/Conway%27s+law)
-* [2024-09-20, 19:10:22](https://lobste.rs/s/jld3pn/turning_everyday_gadgets_into_bombs_is) - [Turning Everyday Gadgets into Bombs is a Bad Idea](https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/)
 * [2024-09-20, 18:12:59](https://lobste.rs/s/jipztb/how_discord_reduced_websocket_traffic_by) - [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 16:06:14](https://lobste.rs/s/ykzxii/build_deploy_websites_automatically) - [Build and Deploy Websites Automatically with Git](https://btxx.org/posts/git-auto-deploy/)
 * [2024-09-20, 16:01:31](https://lobste.rs/s/x6ja6o/languages_with_alternative_hello_world) - [Languages with Alternative \"Hello World\" Programs](https://dgaston.net/writing/alternative-hello-world/)
@@ -15,6 +14,7 @@
 * [2024-09-20, 12:19:48](https://lobste.rs/s/uwlx43/fast_unorm_unsigned_normalized_integer) - [Fast Unorm (unsigned normalized integer) Conversions](https://rundevelopment.github.io/blog/fast-unorm-conversions)
 * [2024-09-20, 11:16:02](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend)
 * [2024-09-20, 10:22:34](https://lobste.rs/s/rrhp69/element_x_call_server_suite_are_ready) - [Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready)
+* [2024-09-20, 05:50:48](https://lobste.rs/s/gpzusz/why_is_it_okay_average_embeddings_2020) - [Why is it Okay to Average Embeddings? (2020)](https://randorithms.com/2020/11/17/Adding-Embeddings.html)
 * [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 * [2024-09-20, 03:14:24](https://lobste.rs/s/zckrxd/unspoken_rules_react_hooks) - [The unspoken rules of React hooks](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
