@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 09:04:49](https://lobste.rs/s/qzwy2j/remix_fetcher_action_gripes) - [Remix fetcher and action gripes](https://macwright.com/2024/05/28/remix-form-gripes)
 * [2024-09-20, 05:50:48](https://lobste.rs/s/gpzusz/why_is_it_okay_average_embeddings) - [Why is it Okay to Average Embeddings?](https://randorithms.com/2020/11/17/Adding-Embeddings.html)
 * [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 04:19:35](https://lobste.rs/s/aqwyj8/secret_perfectly_calculate_rails) - [The secret to perfectly calculate Rails database connection pool size](https://island94.org/2024/09/secret-to-rails-database-connection-pool-size)

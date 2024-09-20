@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 09:04:49](https://lobste.rs/s/qzwy2j/remix_fetcher_action_gripes) - [Remix fetcher and action gripes](https://macwright.com/2024/05/28/remix-form-gripes)
 * [2024-09-20, 05:50:48](https://lobste.rs/s/gpzusz/why_is_it_okay_average_embeddings) - [Why is it Okay to Average Embeddings?](https://randorithms.com/2020/11/17/Adding-Embeddings.html)
 * [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 * [2024-09-20, 03:14:24](https://lobste.rs/s/zckrxd/unspoken_rules_react_hooks) - [The unspoken rules of React hooks](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
 * [2024-09-20, 00:31:29](https://lobste.rs/s/cpclfq/project_ideas_pgwire) - [Project ideas of pgwire](https://github.com/sunng87/pgwire/discussions/204)
-* [2024-09-19, 23:01:04](https://lobste.rs/s/s0tucn/pc_floppy_copy_protection_electronic) - [PC floppy copy protection: Electronic Arts Interlock](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-electronic.html)
 * [2024-09-19, 22:54:08](https://lobste.rs/s/j8gsg4/directx_adopting_spir_v_as_interchange) - [DirectX adopting SPIR-V as the interchange format of the future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 * [2024-09-19, 21:58:46](https://lobste.rs/s/pdgphh/visual_guide_ssh_tunneling_port) - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 * [2024-09-19, 21:45:46](https://lobste.rs/s/bcr7gy/digital_signatures_how_avoid_them) - [Digital signatures and how to avoid them](https://neilmadden.blog/2024/09/18/digital-signatures-and-how-to-avoid-them/)
