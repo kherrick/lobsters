@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 05:50:48](https://lobste.rs/s/gpzusz/why_is_it_okay_average_embeddings) - [Why is it Okay to Average Embeddings?](https://randorithms.com/2020/11/17/Adding-Embeddings.html)
 * [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 * [2024-09-20, 03:14:24](https://lobste.rs/s/zckrxd/unspoken_rules_react_hooks) - [The unspoken rules of React hooks](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
@@ -20,7 +21,6 @@
 * [2024-09-19, 11:24:10](https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for) - [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 * [2024-09-19, 11:13:26](https://lobste.rs/s/996uq0/gilded_rose_refactoring_kata_ruby_as_if_it) - [“Gilded Rose” refactoring kata in Ruby — as if it is 2024](https://zverok.space/blog/2024-09-19-gilded_rose.html)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
-* [2024-09-19, 00:54:57](https://lobste.rs/s/zkgd9o/retrowin32_redoing_syscalls) - [retrowin32: redoing syscalls](https://neugierig.org/software/blog/2024/09/retrowin32-syscalls.html)
 * [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
 * [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
