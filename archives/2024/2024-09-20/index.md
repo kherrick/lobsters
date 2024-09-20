@@ -10,6 +10,7 @@
 * [2024-09-20, 15:34:13](https://lobste.rs/s/dzkdry/improved_error_handling_cheriot_rtos) - [Improved error handling in CHERIoT RTOS](https://cheriot.org/rtos/errors/2024/09/20/error-handling.html)
 * [2024-09-20, 15:20:03](https://lobste.rs/s/52kftp/linux_4004) - [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 15:14:13](https://lobste.rs/s/hvxnh0/crushing_castlevania_with_antithesis) - [Crushing Castlevania with Antithesis](https://antithesis.com/blog/castlevania/)
+* [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://pliutau.com/my-first-experience-with-ocaml/)
 * [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://itnext.io/my-first-experience-with-ocaml-c8fce3fb995a)
 * [2024-09-20, 13:35:30](https://lobste.rs/s/msitbf/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2024](https://www.haiku-os.org/blog/waddlesplash/2024-09-17-haiku_activity_contract_report_august_2024/)
 * [2024-09-20, 13:19:23](https://lobste.rs/s/yj2uvi/microsoft_wants_three_mile_island_fuel) - [Microsoft wants Three Mile Island to fuel its AI power needs](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers)

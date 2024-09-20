@@ -1,0 +1,3 @@
+# [Published on 2024-09-20](index.md)
+
+* [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://pliutau.com/my-first-experience-with-ocaml/)
