@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://itnext.io/my-first-experience-with-ocaml-c8fce3fb995a)
 * [2024-09-20, 13:35:30](https://lobste.rs/s/msitbf/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2024](https://www.haiku-os.org/blog/waddlesplash/2024-09-17-haiku_activity_contract_report_august_2024/)
 * [2024-09-20, 13:19:23](https://lobste.rs/s/yj2uvi/microsoft_wants_three_mile_island_fuel) - [Microsoft wants Three Mile Island to fuel its AI power needs](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers)
 * [2024-09-20, 12:32:17](https://lobste.rs/s/mlg8vr/realtime_preemption_pull_request) - [The realtime preemption pull request](https://lwn.net/Articles/990985/)
