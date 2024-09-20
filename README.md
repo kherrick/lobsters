@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 15:34:13](https://lobste.rs/s/dzkdry/improved_error_handling_cheriot_rtos) - [Improved error handling in CHERIoT RTOS](https://cheriot.org/rtos/errors/2024/09/20/error-handling.html)
 * [2024-09-20, 15:20:03](https://lobste.rs/s/52kftp/linux_4004) - [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 15:14:13](https://lobste.rs/s/hvxnh0/crushing_castlevania_with_antithesis) - [Crushing Castlevania with Antithesis](https://antithesis.com/blog/castlevania/)
 * [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://itnext.io/my-first-experience-with-ocaml-c8fce3fb995a)
@@ -20,7 +21,6 @@
 * [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
-* [2024-09-19, 15:13:39](https://lobste.rs/s/rqdldc/sans_i_o_when_rubber_meets_road) - [Sans I/O when rubber meets the road](https://fractalideas.com/blog/sans-io-when-rubber-meets-road/)
 * [2024-09-19, 11:24:10](https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for) - [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)
 * [2024-09-19, 11:13:26](https://lobste.rs/s/996uq0/gilded_rose_refactoring_kata_ruby_as_if_it) - [“Gilded Rose” refactoring kata in Ruby — as if it is 2024](https://zverok.space/blog/2024-09-19-gilded_rose.html)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)

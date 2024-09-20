@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 15:34:13](https://lobste.rs/s/dzkdry/improved_error_handling_cheriot_rtos) - [Improved error handling in CHERIoT RTOS](https://cheriot.org/rtos/errors/2024/09/20/error-handling.html)
 * [2024-09-20, 15:20:03](https://lobste.rs/s/52kftp/linux_4004) - [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 15:14:13](https://lobste.rs/s/hvxnh0/crushing_castlevania_with_antithesis) - [Crushing Castlevania with Antithesis](https://antithesis.com/blog/castlevania/)
 * [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://itnext.io/my-first-experience-with-ocaml-c8fce3fb995a)
