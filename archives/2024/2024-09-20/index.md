@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 13:19:23](https://lobste.rs/s/yj2uvi/microsoft_wants_three_mile_island_fuel) - [Microsoft wants Three Mile Island to fuel its AI power needs](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers)
 * [2024-09-20, 12:32:17](https://lobste.rs/s/mlg8vr/realtime_preemption_pull_request) - [The realtime preemption pull request](https://lwn.net/Articles/990985/)
 * [2024-09-20, 12:19:48](https://lobste.rs/s/uwlx43/fast_unorm_unsigned_normalized_integer) - [Fast Unorm (unsigned normalized integer) Conversions](https://rundevelopment.github.io/blog/fast-unorm-conversions)
 * [2024-09-20, 11:16:02](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend)
