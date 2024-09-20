@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-20, 13:35:30",
+      "https://lobste.rs/s/msitbf/haiku_activity_contract_report_august"
+    ],
+    [
+      "Haiku Activity & Contract Report, August 2024",
+      "https://www.haiku-os.org/blog/waddlesplash/2024-09-17-haiku_activity_contract_report_august_2024/"
+    ]
+  ],
+  [
+    [
       "2024-09-20, 13:19:23",
       "https://lobste.rs/s/yj2uvi/microsoft_wants_three_mile_island_fuel"
     ],
@@ -237,16 +247,6 @@
     [
       "Why wordfreq will not be updated",
       "https://github.com/rspeer/wordfreq/blob/master/SUNSET.md"
-    ]
-  ],
-  [
-    [
-      "2024-09-18, 15:39:39",
-      "https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig"
-    ],
-    [
-      "Zine: A Static Site Generator Written in Zig",
-      "https://kristoff.it/blog/zine-ssg-zig/"
     ]
   ]
 ]
