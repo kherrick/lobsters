@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph) - [Antonymph](https://lyra.horse/antonymph)
 * [2024-09-20, 19:15:17](https://lobste.rs/s/3lwz8i/conway_s_law) - [Conway's law](https://ncatlab.org/nlab/show/Conway%27s+law)
 * [2024-09-20, 19:10:22](https://lobste.rs/s/jld3pn/turning_everyday_gadgets_into_bombs_is) - [Turning Everyday Gadgets into Bombs is a Bad Idea](https://www.bunniestudios.com/blog/2024/turning-everyday-gadgets-into-bombs-is-a-bad-idea/)
 * [2024-09-20, 18:12:59](https://lobste.rs/s/jipztb/how_discord_reduced_websocket_traffic_by) - [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
@@ -21,7 +22,6 @@
 * [2024-09-19, 21:58:46](https://lobste.rs/s/pdgphh/visual_guide_ssh_tunneling_port) - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 * [2024-09-19, 19:36:22](https://lobste.rs/s/znvhgl/as_rails_developers_why_we_are_excited) - [As Rails developers, why we are excited about PostgreSQL 17](https://dev.to/lifen/as-rails-developers-why-we-are-excited-about-postgresql-17-27nj)
 * [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
-* [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
