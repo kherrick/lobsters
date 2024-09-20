@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 13:35:30](https://lobste.rs/s/msitbf/haiku_activity_contract_report_august) - [Haiku Activity & Contract Report, August 2024](https://www.haiku-os.org/blog/waddlesplash/2024-09-17-haiku_activity_contract_report_august_2024/)
 * [2024-09-20, 13:19:23](https://lobste.rs/s/yj2uvi/microsoft_wants_three_mile_island_fuel) - [Microsoft wants Three Mile Island to fuel its AI power needs](https://www.theverge.com/2024/9/20/24249770/microsoft-three-mile-island-nuclear-power-plant-deal-ai-data-centers)
 * [2024-09-20, 12:32:17](https://lobste.rs/s/mlg8vr/realtime_preemption_pull_request) - [The realtime preemption pull request](https://lwn.net/Articles/990985/)
 * [2024-09-20, 12:19:48](https://lobste.rs/s/uwlx43/fast_unorm_unsigned_normalized_integer) - [Fast Unorm (unsigned normalized integer) Conversions](https://rundevelopment.github.io/blog/fast-unorm-conversions)
@@ -24,7 +25,6 @@
 * [2024-09-19, 11:13:26](https://lobste.rs/s/996uq0/gilded_rose_refactoring_kata_ruby_as_if_it) - [“Gilded Rose” refactoring kata in Ruby — as if it is 2024](https://zverok.space/blog/2024-09-19-gilded_rose.html)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
-* [2024-09-18, 15:39:39](https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig) - [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
 
 ## [Archives](archives/index.md)
 
