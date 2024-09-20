@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 * [2024-09-20, 03:14:24](https://lobste.rs/s/zckrxd/unspoken_rules_react_hooks) - [The unspoken rules of React hooks](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
 * [2024-09-20, 00:31:29](https://lobste.rs/s/cpclfq/project_ideas_pgwire) - [Project ideas of pgwire](https://github.com/sunng87/pgwire/discussions/204)
 * [2024-09-19, 23:01:04](https://lobste.rs/s/s0tucn/pc_floppy_copy_protection_electronic) - [PC floppy copy protection: Electronic Arts Interlock](https://martypc.blogspot.com/2024/09/pc-floppy-copy-protection-electronic.html)
@@ -23,7 +24,6 @@
 * [2024-09-18, 23:48:58](https://lobste.rs/s/iwrigu/time_berners_lee_got_knocked_down_poster) - [That Time Berners-Lee Got Knocked Down to a Poster Session [2015]](https://hapgood.us/2015/04/21/that-time-berners-lee-got-knocked-down-to-a-poster-session/)
 * [2024-09-18, 18:55:44](https://lobste.rs/s/ln8epf/signal_run_day_keeps_un_link_away) - [A Signal run a day keeps the un-link away](https://michael.stapelberg.ch/posts/2024-09-18-a-signal-run-a-day-keeps-the-un-link-away/)
 * [2024-09-18, 16:47:17](https://lobste.rs/s/ueqoef/why_wordfreq_will_not_be_updated) - [Why wordfreq will not be updated](https://github.com/rspeer/wordfreq/blob/master/SUNSET.md)
-* [2024-09-18, 16:41:07](https://lobste.rs/s/sbj2ov/introducing_gnome_47_denver) - [Introducing GNOME 47, “Denver”](https://release.gnome.org/47/)
 * [2024-09-18, 15:39:39](https://lobste.rs/s/bvgpwg/zine_static_site_generator_written_zig) - [Zine: A Static Site Generator Written in Zig](https://kristoff.it/blog/zine-ssg-zig/)
 
 ## [Archives](archives/index.md)
