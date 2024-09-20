@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 21:39:38](https://lobste.rs/s/sxoxeg/pinterest_tiered_storage_for_apache) - [Pinterest Tiered Storage for Apache Kafka®️: A Broker-Decoupled Approach](https://medium.com/pinterest-engineering/pinterest-tiered-storage-for-apache-kafka-%EF%B8%8F-a-broker-decoupled-approach-c33c69e9958b)
 * [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
 * [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph_audiovisual_web_experience) - [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
 * [2024-09-20, 19:15:17](https://lobste.rs/s/3lwz8i/conway_s_law) - [Conway's law](https://ncatlab.org/nlab/show/Conway%27s+law)
@@ -23,7 +24,6 @@
 * [2024-09-19, 19:36:22](https://lobste.rs/s/znvhgl/as_rails_developers_why_we_are_excited) - [As Rails developers, why we are excited about PostgreSQL 17](https://dev.to/lifen/as-rails-developers-why-we-are-excited-about-postgresql-17-27nj)
 * [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
-* [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
 
 ## [Archives](archives/index.md)
