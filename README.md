@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 12:32:17](https://lobste.rs/s/mlg8vr/realtime_preemption_pull_request) - [The realtime preemption pull request](https://lwn.net/Articles/990985/)
+* [2024-09-20, 12:19:48](https://lobste.rs/s/uwlx43/fast_unorm_unsigned_normalized_integer) - [Fast Unorm (unsigned normalized integer) Conversions](https://rundevelopment.github.io/blog/fast-unorm-conversions)
 * [2024-09-20, 11:16:02](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend)
 * [2024-09-20, 10:22:34](https://lobste.rs/s/rrhp69/element_x_call_server_suite_are_ready) - [Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready)
-* [2024-09-20, 09:04:49](https://lobste.rs/s/qzwy2j/remix_fetcher_action_gripes) - [Remix fetcher and action gripes](https://macwright.com/2024/05/28/remix-form-gripes)
 * [2024-09-20, 05:50:48](https://lobste.rs/s/gpzusz/why_is_it_okay_average_embeddings) - [Why is it Okay to Average Embeddings?](https://randorithms.com/2020/11/17/Adding-Embeddings.html)
 * [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
@@ -13,7 +14,6 @@
 * [2024-09-19, 19:52:17](https://lobste.rs/s/pocvxh/emacs_bubble_mode) - [Emacs bubble mode](https://lmno.lol/alvaro/emacs-bubble-mode)
 * [2024-09-19, 19:36:22](https://lobste.rs/s/znvhgl/as_rails_developers_why_we_are_excited) - [As Rails developers, why we are excited about PostgreSQL 17](https://dev.to/lifen/as-rails-developers-why-we-are-excited-about-postgresql-17-27nj)
 * [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
-* [2024-09-19, 16:47:28](https://lobste.rs/s/fvp41h/unmasking_vulnerabilities_cheap_iot) - [Unmasking vulnerabilities in cheap IoT cameras from one Chinese manufacturer](https://www.trevorkems.com/operation-big-brother-iot-camera/)
 * [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
