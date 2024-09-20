@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-20, 11:16:02](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend)
 * [2024-09-20, 10:22:34](https://lobste.rs/s/rrhp69/element_x_call_server_suite_are_ready) - [Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready)
 * [2024-09-20, 09:04:49](https://lobste.rs/s/qzwy2j/remix_fetcher_action_gripes) - [Remix fetcher and action gripes](https://macwright.com/2024/05/28/remix-form-gripes)
 * [2024-09-20, 05:50:48](https://lobste.rs/s/gpzusz/why_is_it_okay_average_embeddings) - [Why is it Okay to Average Embeddings?](https://randorithms.com/2020/11/17/Adding-Embeddings.html)
@@ -16,7 +17,6 @@
 * [2024-09-19, 16:31:13](https://lobste.rs/s/gery1i/undeniable_utility_css_has) - [The Undeniable Utility Of CSS :has](https://www.joshwcomeau.com/css/has/)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 16:06:52](https://lobste.rs/s/gh1qcf/accidental_spending_case_for_open_source) - [Accidental Spending: A Case For an Open Source Tax?](https://lucumr.pocoo.org/2024/9/19/open-source-tax/)
-* [2024-09-19, 15:44:35](https://lobste.rs/s/zklv9c/where_can_career_gpu_coding_take_you) - [Where can a career in GPU coding take you?](https://youtu.be/FWYj2Vc0D1U)
 * [2024-09-19, 15:37:13](https://lobste.rs/s/qxaerb/compile_run_c_javascript) - [Compile and run C in JavaScript](https://bun.sh/blog/compile-and-run-c-in-js)
 * [2024-09-19, 15:13:39](https://lobste.rs/s/rqdldc/sans_i_o_when_rubber_meets_road) - [Sans I/O when rubber meets the road](https://fractalideas.com/blog/sans-io-when-rubber-meets-road/)
 * [2024-09-19, 11:24:10](https://lobste.rs/s/abttj2/kl_interactive_kubernetes_log_viewer_for) - [kl: An interactive Kubernetes log viewer for your terminal](https://github.com/robinovitch61/kl)

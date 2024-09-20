@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 11:16:02](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend)
 * [2024-09-20, 10:22:34](https://lobste.rs/s/rrhp69/element_x_call_server_suite_are_ready) - [Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready)
 * [2024-09-20, 09:04:49](https://lobste.rs/s/qzwy2j/remix_fetcher_action_gripes) - [Remix fetcher and action gripes](https://macwright.com/2024/05/28/remix-form-gripes)
 * [2024-09-20, 05:50:48](https://lobste.rs/s/gpzusz/why_is_it_okay_average_embeddings) - [Why is it Okay to Average Embeddings?](https://randorithms.com/2020/11/17/Adding-Embeddings.html)
