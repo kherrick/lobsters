@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 18:12:59](https://lobste.rs/s/jipztb/how_discord_reduced_websocket_traffic_by) - [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 16:06:14](https://lobste.rs/s/ykzxii/build_deploy_websites_automatically) - [Build and Deploy Websites Automatically with Git](https://btxx.org/posts/git-auto-deploy/)
 * [2024-09-20, 16:01:31](https://lobste.rs/s/x6ja6o/languages_with_alternative_hello_world) - [Languages with Alternative \"Hello World\" Programs](https://dgaston.net/writing/alternative-hello-world/)
 * [2024-09-20, 15:34:13](https://lobste.rs/s/dzkdry/improved_error_handling_cheriot_rtos) - [Improved error handling in CHERIoT RTOS](https://cheriot.org/rtos/errors/2024/09/20/error-handling.html)
