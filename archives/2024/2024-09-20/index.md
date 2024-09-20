@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-20](index.md)
 
+* [2024-09-20, 22:12:33](https://lobste.rs/s/wulkne/working_archivist_s_guide_enthusiast_cd) - [The working archivist's guide to enthusiast CD-ROM archiving tools](https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/)
 * [2024-09-20, 21:39:38](https://lobste.rs/s/sxoxeg/pinterest_tiered_storage_for_apache) - [Pinterest Tiered Storage for Apache Kafka®️: A Broker-Decoupled Approach](https://medium.com/pinterest-engineering/pinterest-tiered-storage-for-apache-kafka-%EF%B8%8F-a-broker-decoupled-approach-c33c69e9958b)
 * [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
 * [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph_audiovisual_web_experience) - [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
