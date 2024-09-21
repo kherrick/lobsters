@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 23:29:10](https://lobste.rs/s/qgynj1/python_type_challenges_learn_master_type) - [Python Type Challenges: Learn & master type hints](https://python-type-challenges.zeabur.app/)
 * [2024-09-21, 23:21:33](https://lobste.rs/s/n3i0ms/openssh_9_9_released) - [OpenSSH 9.9 released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 23:11:41](https://lobste.rs/s/nzdwyv/arithmazium) - [Arithmazium](http://www.arithmazium.org/index.html)
 * [2024-09-21, 20:36:03](https://lobste.rs/s/zihjdi/questioning_criteria_for_evaluating_non) - [Questioning the Criteria for Evaluating Non-cryptographic Hash Functions](https://queue.acm.org/detail.cfm?id=3690759)

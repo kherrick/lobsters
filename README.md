@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-21, 23:29:10](https://lobste.rs/s/qgynj1/python_type_challenges_learn_master_type) - [Python Type Challenges: Learn & master type hints](https://python-type-challenges.zeabur.app/)
 * [2024-09-21, 23:21:33](https://lobste.rs/s/n3i0ms/openssh_9_9_released) - [OpenSSH 9.9 released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 23:11:41](https://lobste.rs/s/nzdwyv/arithmazium) - [Arithmazium](http://www.arithmazium.org/index.html)
 * [2024-09-21, 20:36:03](https://lobste.rs/s/zihjdi/questioning_criteria_for_evaluating_non) - [Questioning the Criteria for Evaluating Non-cryptographic Hash Functions](https://queue.acm.org/detail.cfm?id=3690759)
@@ -18,7 +19,6 @@
 * [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph_audiovisual_web_experience) - [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
 * [2024-09-20, 19:15:17](https://lobste.rs/s/3lwz8i/conway_s_law) - [Conway's law](https://ncatlab.org/nlab/show/Conway%27s+law)
 * [2024-09-20, 18:12:59](https://lobste.rs/s/jipztb/how_discord_reduced_websocket_traffic_by) - [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
-* [2024-09-20, 16:06:14](https://lobste.rs/s/ykzxii/build_deploy_websites_automatically) - [Build and Deploy Websites Automatically with Git](https://btxx.org/posts/git-auto-deploy/)
 * [2024-09-20, 16:01:31](https://lobste.rs/s/x6ja6o/languages_with_alternative_hello_world) - [Languages with Alternative \"Hello World\" Programs](https://dgaston.net/writing/alternative-hello-world/)
 * [2024-09-20, 15:20:03](https://lobste.rs/s/52kftp/linux_4004) - [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 15:14:13](https://lobste.rs/s/hvxnh0/crushing_castlevania_with_antithesis) - [Crushing Castlevania with Antithesis](https://antithesis.com/blog/castlevania/)
