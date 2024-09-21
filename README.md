@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-21, 10:21:56](https://lobste.rs/s/wmfa4g/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
 * [2024-09-21, 02:33:43](https://lobste.rs/s/vjcl5p/end_end_encryption_rails_with_stimulus) - [End-to-End Encryption in Rails with Stimulus and OpenPGP](https://jensravens.com/e2e-encryption-with-rails/)
 * [2024-09-20, 22:12:33](https://lobste.rs/s/wulkne/working_archivist_s_guide_enthusiast_cd) - [The working archivist's guide to enthusiast CD-ROM archiving tools](https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/)
-* [2024-09-20, 21:57:01](https://lobste.rs/s/gxxpt4/are_we_now_too_impatient_be_intelligent) - [Are We Now Too Impatient to Be Intelligent?](https://www.youtube.com/watch?v=Bc9jFbxrkMk)
 * [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
 * [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph_audiovisual_web_experience) - [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
 * [2024-09-20, 19:15:17](https://lobste.rs/s/3lwz8i/conway_s_law) - [Conway's law](https://ncatlab.org/nlab/show/Conway%27s+law)
