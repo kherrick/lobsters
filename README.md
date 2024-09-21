@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-21, 02:33:43](https://lobste.rs/s/vjcl5p/end_end_encryption_rails_with_stimulus) - [End-to-End Encryption in Rails with Stimulus and OpenPGP](https://jensravens.com/e2e-encryption-with-rails/)
 * [2024-09-20, 22:12:33](https://lobste.rs/s/wulkne/working_archivist_s_guide_enthusiast_cd) - [The working archivist's guide to enthusiast CD-ROM archiving tools](https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/)
 * [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
 * [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph_audiovisual_web_experience) - [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
@@ -20,7 +21,6 @@
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 * [2024-09-20, 03:14:24](https://lobste.rs/s/zckrxd/unspoken_rules_react_hooks) - [The unspoken rules of React hooks](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
 * [2024-09-19, 22:54:08](https://lobste.rs/s/j8gsg4/directx_adopting_spir_v_as_interchange) - [DirectX adopting SPIR-V as the interchange format of the future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
-* [2024-09-19, 21:58:46](https://lobste.rs/s/pdgphh/visual_guide_ssh_tunneling_port) - [Visual guide to SSH tunneling and port forwarding](https://ittavern.com/visual-guide-to-ssh-tunneling-and-port-forwarding/)
 * [2024-09-19, 19:36:22](https://lobste.rs/s/znvhgl/as_rails_developers_why_we_are_excited) - [As Rails developers, why we are excited about PostgreSQL 17](https://dev.to/lifen/as-rails-developers-why-we-are-excited-about-postgresql-17-27nj)
 * [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
