@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-21, 20:36:03](https://lobste.rs/s/zihjdi/questioning_criteria_for_evaluating_non) - [Questioning the Criteria for Evaluating Non-cryptographic Hash Functions](https://queue.acm.org/detail.cfm?id=3690759)
 * [2024-09-21, 19:47:08](https://lobste.rs/s/q722n8/4_exploits_1_bug_exploiting_cve_2024_20017) - [4 exploits, 1 bug: exploiting CVE-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
 * [2024-09-21, 19:34:11](https://lobste.rs/s/aobazu/is_ai_silver_bullet) - [Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
 * [2024-09-21, 19:06:23](https://lobste.rs/s/6ptwxu/logging_all_c_destructors_poor_mans_run) - [Logging all C++ destructors, poor mans run-time tracing](https://raymii.org/s/software/Logging_all_Cpp_destructors_poor_mans_run-time_tracing.html)
@@ -13,7 +14,6 @@
 * [2024-09-20, 22:12:33](https://lobste.rs/s/wulkne/working_archivist_s_guide_enthusiast_cd) - [The working archivist's guide to enthusiast CD-ROM archiving tools](https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/)
 * [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
 * [2024-09-20, 19:23:24](https://lobste.rs/s/4tmejw/antonymph_audiovisual_web_experience) - [Antonymph: an audiovisual web experience that uses your browser as the medium](https://lyra.horse/antonymph)
-* [2024-09-20, 19:15:17](https://lobste.rs/s/3lwz8i/conway_s_law) - [Conway's law](https://ncatlab.org/nlab/show/Conway%27s+law)
 * [2024-09-20, 18:12:59](https://lobste.rs/s/jipztb/how_discord_reduced_websocket_traffic_by) - [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 * [2024-09-20, 16:06:14](https://lobste.rs/s/ykzxii/build_deploy_websites_automatically) - [Build and Deploy Websites Automatically with Git](https://btxx.org/posts/git-auto-deploy/)
 * [2024-09-20, 16:01:31](https://lobste.rs/s/x6ja6o/languages_with_alternative_hello_world) - [Languages with Alternative \"Hello World\" Programs](https://dgaston.net/writing/alternative-hello-world/)
