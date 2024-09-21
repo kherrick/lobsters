@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 19:47:08](https://lobste.rs/s/q722n8/4_exploits_1_bug_exploiting_cve_2024_20017) - [4 exploits, 1 bug: exploiting CVE-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
 * [2024-09-21, 19:34:11](https://lobste.rs/s/aobazu/is_ai_silver_bullet) - [Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
 * [2024-09-21, 19:06:23](https://lobste.rs/s/6ptwxu/logging_all_c_destructors_poor_mans_run) - [Logging all C++ destructors, poor mans run-time tracing](https://raymii.org/s/software/Logging_all_Cpp_destructors_poor_mans_run-time_tracing.html)
 * [2024-09-21, 18:46:33](https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners) - [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)

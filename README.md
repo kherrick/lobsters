@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-21, 19:47:08](https://lobste.rs/s/q722n8/4_exploits_1_bug_exploiting_cve_2024_20017) - [4 exploits, 1 bug: exploiting CVE-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
 * [2024-09-21, 19:34:11](https://lobste.rs/s/aobazu/is_ai_silver_bullet) - [Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
 * [2024-09-21, 19:06:23](https://lobste.rs/s/6ptwxu/logging_all_c_destructors_poor_mans_run) - [Logging all C++ destructors, poor mans run-time tracing](https://raymii.org/s/software/Logging_all_Cpp_destructors_poor_mans_run-time_tracing.html)
 * [2024-09-21, 18:46:33](https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners) - [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)
@@ -21,7 +22,6 @@
 * [2024-09-20, 15:14:13](https://lobste.rs/s/hvxnh0/crushing_castlevania_with_antithesis) - [Crushing Castlevania with Antithesis](https://antithesis.com/blog/castlevania/)
 * [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://pliutau.com/my-first-experience-with-ocaml/)
 * [2024-09-20, 12:32:17](https://lobste.rs/s/mlg8vr/realtime_preemption_pull_request) - [The realtime preemption pull request](https://lwn.net/Articles/990985/)
-* [2024-09-20, 11:16:02](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mssorw/what_are_you_doing_this_weekend)
 * [2024-09-20, 10:22:34](https://lobste.rs/s/rrhp69/element_x_call_server_suite_are_ready) - [Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready)
 * [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
