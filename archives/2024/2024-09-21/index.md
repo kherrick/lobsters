@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-21](index.md)
 
+* [2024-09-21, 18:46:33](https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners) - [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)
 * [2024-09-21, 16:13:25](https://lobste.rs/s/xdkyra/nine_rules_for_simd_acceleration_your) - [Nine Rules for SIMD Acceleration of Your Rust Code (Part 1)](https://medium.com/towards-data-science/nine-rules-for-simd-acceleration-of-your-rust-code-part-1-c16fe639ce21)
 * [2024-09-21, 15:22:14](https://lobste.rs/s/thwzvu/elite_40th_anniversary_source_code) - [Elite 40th Anniversary source code release](http://www.elitehomepage.org/fourty/index.htm)
 * [2024-09-21, 14:36:28](https://lobste.rs/s/qnyp28/kubed_kubernetes_emacs_done) - [Kubed: Kubernetes, Emacs, done](https://eshelyaron.com/kubed.html)
