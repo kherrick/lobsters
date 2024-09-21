@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-21, 23:11:41](https://lobste.rs/s/nzdwyv/arithmazium) - [Arithmazium](http://www.arithmazium.org/index.html)
 * [2024-09-21, 20:36:03](https://lobste.rs/s/zihjdi/questioning_criteria_for_evaluating_non) - [Questioning the Criteria for Evaluating Non-cryptographic Hash Functions](https://queue.acm.org/detail.cfm?id=3690759)
 * [2024-09-21, 19:47:08](https://lobste.rs/s/q722n8/4_exploits_1_bug_exploiting_cve_2024_20017) - [4 exploits, 1 bug: exploiting CVE-2024-20017 4 different ways](https://blog.coffinsec.com/0day/2024/08/30/exploiting-CVE-2024-20017-four-different-ways.html)
 * [2024-09-21, 19:34:11](https://lobste.rs/s/aobazu/is_ai_silver_bullet) - [Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
@@ -23,7 +24,6 @@
 * [2024-09-20, 15:14:13](https://lobste.rs/s/hvxnh0/crushing_castlevania_with_antithesis) - [Crushing Castlevania with Antithesis](https://antithesis.com/blog/castlevania/)
 * [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://pliutau.com/my-first-experience-with-ocaml/)
 * [2024-09-20, 10:22:34](https://lobste.rs/s/rrhp69/element_x_call_server_suite_are_ready) - [Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready)
-* [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 
 ## [Archives](archives/index.md)
