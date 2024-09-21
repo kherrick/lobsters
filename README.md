@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-21, 14:36:28](https://lobste.rs/s/qnyp28/kubed_kubernetes_emacs_done) - [Kubed: Kubernetes, Emacs, done](https://eshelyaron.com/kubed.html)
 * [2024-09-21, 14:15:15](https://lobste.rs/s/k5aoed/evolving_codebase_at_google_scale) - [Evolving a codebase at Google Scale](https://laurent.le-brun.eu/blog/evolving-a-codebase-at-google-scale)
 * [2024-09-21, 11:10:27](https://lobste.rs/s/cbs1qa/is_it_time_version_observability_charity) - [Is It Time To Version Observability? (Charity Majors, 2024)](https://www.youtube.com/watch?v=ag2ykPO805M)
 * [2024-09-21, 10:21:56](https://lobste.rs/s/wmfa4g/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
@@ -23,7 +24,6 @@
 * [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 * [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
-* [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
 
 ## [Archives](archives/index.md)
