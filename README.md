@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-21, 11:10:27](https://lobste.rs/s/cbs1qa/is_it_time_version_observability_charity) - [Is It Time To Version Observability? (Charity Majors, 2024)](https://www.youtube.com/watch?v=ag2ykPO805M)
 * [2024-09-21, 10:21:56](https://lobste.rs/s/wmfa4g/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
 * [2024-09-21, 02:33:43](https://lobste.rs/s/vjcl5p/end_end_encryption_rails_with_stimulus) - [End-to-End Encryption in Rails with Stimulus and OpenPGP](https://jensravens.com/e2e-encryption-with-rails/)
 * [2024-09-20, 22:12:33](https://lobste.rs/s/wulkne/working_archivist_s_guide_enthusiast_cd) - [The working archivist's guide to enthusiast CD-ROM archiving tools](https://www.mistys-internet.website/blog/blog/2024/09/13/the-working-archivists-guide-to-enthusiast-cd-rom-archiving-tools/)
@@ -21,7 +22,6 @@
 * [2024-09-20, 05:24:32](https://lobste.rs/s/lnfmcn/zb_early_stage_build_system) - [zb: An Early-Stage Build System](https://www.zombiezen.com/blog/2024/09/zb-early-stage-build-system/)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 * [2024-09-20, 03:14:24](https://lobste.rs/s/zckrxd/unspoken_rules_react_hooks) - [The unspoken rules of React hooks](https://macwright.com/2024/09/19/the-extra-rules-of-hooks)
-* [2024-09-19, 22:54:08](https://lobste.rs/s/j8gsg4/directx_adopting_spir_v_as_interchange) - [DirectX adopting SPIR-V as the interchange format of the future](https://devblogs.microsoft.com/directx/directx-adopting-spir-v/)
 * [2024-09-19, 19:26:12](https://lobste.rs/s/gwcyqc/linus_torvalds_speaks_on_rust_vs_c_linux) - [Linus Torvalds: Speaks on the Rust vs C Linux Divide](https://www.youtube.com/watch?v=0bb3-bjgf88)
 * [2024-09-19, 16:14:15](https://lobste.rs/s/9nyxpo/convenient_code_actions_gleam_v1_5) - [Convenient code actions – Gleam v1.5](https://gleam.run/news/convenient-code-actions/)
 * [2024-09-19, 06:28:30](https://lobste.rs/s/fjixgp/using_youtube_steal_your_files) - [Using YouTube to steal your files](https://lyra.horse/blog/2024/09/using-youtube-to-steal-your-files/)
