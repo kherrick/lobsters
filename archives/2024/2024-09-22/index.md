@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 20:46:11](https://lobste.rs/s/ahycsi/brainfuck_enterpise_solutions) - [Brainfuck Enterpise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_outage_midmortem) - [2024-09-22 Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_outage_midmortem)
+* [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem) - [2024-09-22 cloud-init Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem)
 * [2024-09-22, 13:52:49](https://lobste.rs/s/pcr0kj/odd_intersections_navidrome_loki_jq) - [Odd intersections: Navidrome, Loki, jq and ListenBrainz](https://linus.schreibt.jetzt/posts/loki-jq-listenbrainz.html)
 * [2024-09-22, 06:12:34](https://lobste.rs/s/xqyccd/lscs_is_cross_platform_c_gui_library) - [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
 * [2024-09-22, 05:34:49](https://lobste.rs/s/g10mm1/weather_landscape_visualizing_weather) - [weather_landscape: Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
