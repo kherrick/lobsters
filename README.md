@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-22, 01:17:17](https://lobste.rs/s/gyiims/portable_dynamically_linked_packages_on) - [Portable, dynamically linked packages on Linux](https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/)
 * [2024-09-22, 00:36:50](https://lobste.rs/s/n38zov/sanding_ui) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 23:29:10](https://lobste.rs/s/qgynj1/python_type_challenges_learn_master_type) - [Python Type Challenges: Learn & master type hints](https://python-type-challenges.zeabur.app/)
 * [2024-09-21, 23:21:33](https://lobste.rs/s/n3i0ms/openssh_9_9_released) - [OpenSSH 9.9 released](https://undeadly.org/cgi?action=article;sid=20240921181110)
@@ -23,7 +24,6 @@
 * [2024-09-20, 15:20:03](https://lobste.rs/s/52kftp/linux_4004) - [Linux/4004](https://dmitry.gr/?r=05.Projects&proj=35.%20Linux4004)
 * [2024-09-20, 15:14:13](https://lobste.rs/s/hvxnh0/crushing_castlevania_with_antithesis) - [Crushing Castlevania with Antithesis](https://antithesis.com/blog/castlevania/)
 * [2024-09-20, 14:52:54](https://lobste.rs/s/c800ba/my_first_experience_with_ocaml) - [My first experience with OCaml](https://pliutau.com/my-first-experience-with-ocaml/)
-* [2024-09-20, 10:22:34](https://lobste.rs/s/rrhp69/element_x_call_server_suite_are_ready) - [Element X, Call and Server Suite are ready](https://element.io/blog/we-have-lift-off-element-x-call-and-server-suite-are-ready)
 * [2024-09-20, 03:52:52](https://lobste.rs/s/esgup3/gaining_access_anyones_browser_without) - [Gaining Access to Anyones Browser without Them Even Visiting a Website](https://kibty.town/blog/arc/)
 
 ## [Archives](archives/index.md)
