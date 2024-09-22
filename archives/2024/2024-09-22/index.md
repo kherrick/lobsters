@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-22](index.md)
 
+* [2024-09-22, 21:17:24](https://lobste.rs/s/wldhfw/lazuli_repl_driven_development_plug_for) - [Lazuli, a REPL-Driven Development plug-in for Ruby](https://www.youtube.com/watch?v=FaH60dPfp6g)
 * [2024-09-22, 21:05:47](https://lobste.rs/s/j8cg5t/hytradboi_2025) - [HYTRADBOI 2025](https://www.scattered-thoughts.net/writing/hytradboi-2025/)
 * [2024-09-22, 20:46:11](https://lobste.rs/s/ahycsi/brainfuck_enterpise_solutions) - [Brainfuck Enterpise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_outage_midmortem) - [2024-09-22 Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_outage_midmortem)
