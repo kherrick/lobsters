@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-22, 23:22:01](https://lobste.rs/s/v7fj17/low_cost_co2_sensors_comparison_photo) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 * [2024-09-22, 22:01:35](https://lobste.rs/s/qt7ywv/gui_examples_rye_language) - [GUI Examples - Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
 * [2024-09-22, 21:43:17](https://lobste.rs/s/icp22y/community_list_comparisons_between_text) - [Community list of comparisons between Text to Diagram tools](https://text-to-diagram.com/)
 * [2024-09-22, 21:17:24](https://lobste.rs/s/wldhfw/lazuli_repl_driven_development_plug_for) - [Lazuli, a REPL-Driven Development plug-in for Ruby](https://www.youtube.com/watch?v=FaH60dPfp6g)
@@ -24,7 +25,6 @@
 * [2024-09-21, 14:15:15](https://lobste.rs/s/k5aoed/evolving_codebase_at_google_scale) - [Evolving a codebase at Google Scale](https://laurent.le-brun.eu/blog/evolving-a-codebase-at-google-scale)
 * [2024-09-21, 10:21:56](https://lobste.rs/s/wmfa4g/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
 * [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
-* [2024-09-20, 18:12:59](https://lobste.rs/s/jipztb/how_discord_reduced_websocket_traffic_by) - [How Discord Reduced Websocket Traffic by 40%](https://discord.com/blog/how-discord-reduced-websocket-traffic-by-40-percent)
 
 ## [Archives](archives/index.md)
 
