@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 03:51:05",
+      "https://lobste.rs/s/wfke7j/censysio_just_started_actively_probing"
+    ],
+    [
+      "CensysIO just started actively probing mumble servers",
+      "https://gist.github.com/saori-yuko/1e09e8e97ab3aa198f5be518ac78f417"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 02:30:43",
       "https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "Kubed: Kubernetes, Emacs, done",
       "https://eshelyaron.com/kubed.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 14:15:15",
-      "https://lobste.rs/s/k5aoed/evolving_codebase_at_google_scale"
-    ],
-    [
-      "Evolving a codebase at Google Scale",
-      "https://laurent.le-brun.eu/blog/evolving-a-codebase-at-google-scale"
     ]
   ],
   [
