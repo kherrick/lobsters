@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 06:34:35](https://lobste.rs/s/5wlksb/code_execution_utilities_for_open_webui) - [Code execution utilities for Open WebUI & Ollama](https://github.com/EtiennePerot/open-webui-code-execution)
 * [2024-09-23, 05:24:48](https://lobste.rs/s/i9fje3/rust_panics_under_hood_implementing_them) - [Rust panics under the hood, and implementing them in .NET](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html)
 * [2024-09-23, 04:51:02](https://lobste.rs/s/69wzsy/loop_unrolling_with_lambdas_fold) - [Loop Unrolling with Lambdas and Fold Expressions](https://www.cppstories.com/2024/unroll-templates-lambdas-and-fold/)
 * [2024-09-23, 04:35:51](https://lobste.rs/s/hsz2yl/case_for_using_neovim_without_plugins) - [A Case for Using Neovim Without Plugins](https://blog.erikwastaken.dev/posts/2023-05-06-a-case-for-neovim-without-plugins.html)
@@ -24,7 +25,6 @@
 * [2024-09-21, 19:34:11](https://lobste.rs/s/aobazu/is_ai_silver_bullet) - [Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
 * [2024-09-21, 18:46:33](https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners) - [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)
 * [2024-09-21, 15:22:14](https://lobste.rs/s/thwzvu/elite_40th_anniversary_source_code) - [Elite 40th Anniversary source code release](http://www.elitehomepage.org/fourty/index.htm)
-* [2024-09-21, 10:21:56](https://lobste.rs/s/wmfa4g/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
 
 ## [Archives](archives/index.md)
 
