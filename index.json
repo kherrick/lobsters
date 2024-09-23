@@ -1,12 +1,32 @@
 [
   [
     [
+      "2024-09-23, 22:08:53",
+      "https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well"
+    ],
+    [
+      "Time spent programming is often time well spent",
+      "https://stanbright.com/time-spent-programming/"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 20:43:41",
       "https://lobste.rs/s/jsykfi/vala_smoothest_c_off_ramp_using_vala"
     ],
     [
       "Vala: the smoothest C off-ramp (Using Vala to rewrite old C code)",
       "https://vala.dev/blog/c-off-ramp/"
+    ]
+  ],
+  [
+    [
+      "2024-09-23, 20:13:29",
+      "https://lobste.rs/s/lrdm1n/differences_between_scheme_common_lisp"
+    ],
+    [
+      "Differences between Scheme and Common Lisp",
+      "https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html"
     ]
   ],
   [
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2024-09-23, 11:17:37",
-      "https://lobste.rs/s/m8d9vx/rfc_9446_reflections_on_ten_years_past"
-    ],
-    [
-      "RFC 9446: Reflections on Ten Years Past the Snowden Revelations (2023)",
-      "https://www.rfc-editor.org/rfc/rfc9446.html#name-farzaneh-badii-did-snowdens"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 10:45:24",
       "https://lobste.rs/s/xjxac8/make_your_next_js_docker_images"
     ],
@@ -157,16 +167,6 @@
     [
       "Waiting for many things at once with `io_uring`",
       "https://mazzo.li/posts/uring-multiplex.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 05:24:48",
-      "https://lobste.rs/s/i9fje3/rust_panics_under_hood_implementing_them"
-    ],
-    [
-      "Rust panics under the hood, and implementing them in .NET",
-      "https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html"
     ]
   ],
   [
