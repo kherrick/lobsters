@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 16:25:30](https://lobste.rs/s/i1umfp/use_vi_1_editor) - [Use vi(1) Editor](https://vermaden.wordpress.com/2024/09/23/ghost-in-the-shell-part-8-use-vi-editor/)
 * [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
 * [2024-09-23, 14:08:04](https://lobste.rs/s/dbxdvf/change_query_support_apache_iceberg_v2) - [Change query support in Apache Iceberg v2](https://jack-vanlightly.com/analyses/2024/9/23/change-query-support-in-apache-iceberg-v2)
 * [2024-09-23, 13:59:13](https://lobste.rs/s/3y5l8w/simple_event_broker_data_serialization) - [Simple event broker: data serialization is expensive](https://blog.vbang.dk/2024/09/10/seb-tiger-style-read-path/)
@@ -24,7 +25,6 @@
 * [2024-09-22, 21:43:17](https://lobste.rs/s/icp22y/community_list_comparisons_between_text) - [Community list of comparisons between Text to Diagram tools](https://text-to-diagram.com/)
 * [2024-09-22, 21:05:47](https://lobste.rs/s/j8cg5t/hytradboi_2025) - [HYTRADBOI 2025](https://www.scattered-thoughts.net/writing/hytradboi-2025/)
 * [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem) - [2024-09-22 cloud-init Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem)
-* [2024-09-22, 13:52:49](https://lobste.rs/s/pcr0kj/odd_intersections_navidrome_loki_jq) - [Odd intersections: Navidrome, Loki, jq and ListenBrainz](https://linus.schreibt.jetzt/posts/loki-jq-listenbrainz.html)
 
 ## [Archives](archives/index.md)
 
