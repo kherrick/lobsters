@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 08:48:09](https://lobste.rs/s/ni0cac/what_s_inside_qr_code_menu_at_this_cafe) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 * [2024-09-23, 08:24:39](https://lobste.rs/s/8b7udn/local_file_organizer) - [Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer)
 * [2024-09-23, 07:53:59](https://lobste.rs/s/j85ynw/terrible_way_jump_into_colocating_your) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 * [2024-09-23, 07:03:04](https://lobste.rs/s/hatlmz/waiting_for_many_things_at_once_with_io) - [Waiting for many things at once with `io_uring`](https://mazzo.li/posts/uring-multiplex.html)
