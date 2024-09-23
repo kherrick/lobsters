@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 11:17:37](https://lobste.rs/s/m8d9vx/rfc_9446_reflections_on_ten_years_past) - [RFC 9446: Reflections on Ten Years Past the Snowden Revelations (2023)](https://www.rfc-editor.org/rfc/rfc9446.html#name-farzaneh-badii-did-snowdens)
 * [2024-09-23, 10:45:24](https://lobste.rs/s/xjxac8/make_your_next_js_docker_images) - [Make your Next.JS Docker images microscopic](https://xeiaso.net/notes/2024/small-nextjs-images/)
 * [2024-09-23, 10:33:35](https://lobste.rs/s/jcnwgn/overview_cross_architecture) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
 * [2024-09-23, 09:27:40](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week)
@@ -15,7 +16,6 @@
 * [2024-09-23, 02:30:43](https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust) - [“Truly hygienic” let statements in Rust](https://sabrinajewson.org/blog/truly-hygienic-let)
 * [2024-09-23, 00:06:41](https://lobste.rs/s/l0hw41/sorry_state_java_deserialization) - [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
 * [2024-09-23, 00:01:02](https://lobste.rs/s/1dry2z/it_is_hard_recommend_google_cloud) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
-* [2024-09-22, 23:52:43](https://lobste.rs/s/4mfqjg/intel_s_redwood_cove_baby_steps_are_still) - [Intel’s Redwood Cove: Baby Steps are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
 * [2024-09-22, 23:22:01](https://lobste.rs/s/v7fj17/low_cost_co2_sensors_comparison_photo) - [Low Cost CO2 Sensors Comparison: Photo-Acoustic vs NDIR](https://www.airgradient.com/blog/co2-sensors-photo-acoustic-vs-ndir-updated/)
 * [2024-09-22, 22:01:35](https://lobste.rs/s/qt7ywv/gui_examples_rye_language) - [GUI Examples - Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
 * [2024-09-22, 21:43:17](https://lobste.rs/s/icp22y/community_list_comparisons_between_text) - [Community list of comparisons between Text to Diagram tools](https://text-to-diagram.com/)

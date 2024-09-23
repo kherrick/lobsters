@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 11:17:37](https://lobste.rs/s/m8d9vx/rfc_9446_reflections_on_ten_years_past) - [RFC 9446: Reflections on Ten Years Past the Snowden Revelations (2023)](https://www.rfc-editor.org/rfc/rfc9446.html#name-farzaneh-badii-did-snowdens)
 * [2024-09-23, 10:45:24](https://lobste.rs/s/xjxac8/make_your_next_js_docker_images) - [Make your Next.JS Docker images microscopic](https://xeiaso.net/notes/2024/small-nextjs-images/)
 * [2024-09-23, 10:33:35](https://lobste.rs/s/jcnwgn/overview_cross_architecture) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
 * [2024-09-23, 09:27:40](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week)
