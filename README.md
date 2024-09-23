@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 14:08:04](https://lobste.rs/s/dbxdvf/change_query_support_apache_iceberg_v2) - [Change query support in Apache Iceberg v2](https://jack-vanlightly.com/analyses/2024/9/23/change-query-support-in-apache-iceberg-v2)
 * [2024-09-23, 13:59:13](https://lobste.rs/s/3y5l8w/simple_event_broker_data_serialization) - [Simple event broker: data serialization is expensive](https://blog.vbang.dk/2024/09/10/seb-tiger-style-read-path/)
 * [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites, I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
 * [2024-09-23, 13:37:47](https://lobste.rs/s/eqxn8w/some_notes_on_adversarial_attacks_on_llms) - [Some Notes on Adversarial Attacks on LLMs](https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/)
@@ -21,7 +22,6 @@
 * [2024-09-22, 22:01:35](https://lobste.rs/s/qt7ywv/gui_examples_rye_language) - [GUI Examples - Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
 * [2024-09-22, 21:43:17](https://lobste.rs/s/icp22y/community_list_comparisons_between_text) - [Community list of comparisons between Text to Diagram tools](https://text-to-diagram.com/)
 * [2024-09-22, 21:05:47](https://lobste.rs/s/j8cg5t/hytradboi_2025) - [HYTRADBOI 2025](https://www.scattered-thoughts.net/writing/hytradboi-2025/)
-* [2024-09-22, 20:46:11](https://lobste.rs/s/ahycsi/brainfuck_enterprise_solutions) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem) - [2024-09-22 cloud-init Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem)
 * [2024-09-22, 13:52:49](https://lobste.rs/s/pcr0kj/odd_intersections_navidrome_loki_jq) - [Odd intersections: Navidrome, Loki, jq and ListenBrainz](https://linus.schreibt.jetzt/posts/loki-jq-listenbrainz.html)
 * [2024-09-22, 01:17:17](https://lobste.rs/s/gyiims/portable_dynamically_linked_packages_on) - [Portable, dynamically linked packages on Linux](https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/)
