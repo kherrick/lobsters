@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-09-23, 17:57:28](https://lobste.rs/s/6tutmr/bbqvec_open_source_embedded_vector_index) - [BBQvec: An open-source, embedded vector index for Rust and Go](https://blog.daxe.ai/p/bbqvec-a-scalable-vector-search-library)
-* [2024-09-23, 16:55:56](https://lobste.rs/s/2ksu4a/stop_making_kubernetes_auth_hard) - [Stop Making Kubernetes Auth Hard](https://kty.dev/blog/2024-09-19-auth-isnt-hard)
 * [2024-09-23, 16:25:30](https://lobste.rs/s/i1umfp/use_vi_1_editor) - [Use vi(1) Editor](https://vermaden.wordpress.com/2024/09/23/ghost-in-the-shell-part-8-use-vi-editor/)
 * [2024-09-23, 16:00:36](https://lobste.rs/s/7k69hb/my_asus_eeepc_still_rocks_2024_with_mx) - [My Asus eeePC still rocks in 2024 (with MX Linux)](https://www.dedoimedo.com/computers/eeepc-2024.html)
 * [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
 * [2024-09-23, 13:59:13](https://lobste.rs/s/3y5l8w/simple_event_broker_data_serialization) - [Simple event broker: data serialization is expensive](https://blog.vbang.dk/2024/09/10/seb-tiger-style-read-path/)
 * [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites, I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
+* [2024-09-23, 13:37:47](https://lobste.rs/s/eqxn8w/some_notes_on_adversarial_attacks_on_llms) - [Some Notes on Adversarial Attacks on LLMs](https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/)
 * [2024-09-23, 11:17:37](https://lobste.rs/s/m8d9vx/rfc_9446_reflections_on_ten_years_past) - [RFC 9446: Reflections on Ten Years Past the Snowden Revelations (2023)](https://www.rfc-editor.org/rfc/rfc9446.html#name-farzaneh-badii-did-snowdens)
 * [2024-09-23, 10:45:24](https://lobste.rs/s/xjxac8/make_your_next_js_docker_images) - [Make your Next.JS Docker images microscopic](https://xeiaso.net/notes/2024/small-nextjs-images/)
 * [2024-09-23, 10:33:35](https://lobste.rs/s/jcnwgn/overview_cross_architecture) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
