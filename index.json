@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 02:30:43",
+      "https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust"
+    ],
+    [
+      "“Truly hygienic” let statements in Rust",
+      "https://sabrinajewson.org/blog/truly-hygienic-let"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 00:06:41",
       "https://lobste.rs/s/l0hw41/sorry_state_java_deserialization"
     ],
@@ -237,16 +247,6 @@
     [
       "The lost language extensions of MetaWare's High C Compiler",
       "https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler"
-    ]
-  ],
-  [
-    [
-      "2024-09-20, 20:23:12",
-      "https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field"
-    ],
-    [
-      "Always use an enum for your status field",
-      "https://jmduke.com/posts/post/enums/"
     ]
   ]
 ]
