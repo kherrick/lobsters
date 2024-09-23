@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 03:51:05](https://lobste.rs/s/wfke7j/censysio_just_started_actively_probing) - [CensysIO just started actively probing mumble servers](https://gist.github.com/saori-yuko/1e09e8e97ab3aa198f5be518ac78f417)
 * [2024-09-23, 02:30:43](https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust) - [“Truly hygienic” let statements in Rust](https://sabrinajewson.org/blog/truly-hygienic-let)
 * [2024-09-23, 00:06:41](https://lobste.rs/s/l0hw41/sorry_state_java_deserialization) - [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
 * [2024-09-23, 00:01:02](https://lobste.rs/s/1dry2z/it_is_hard_recommend_google_cloud) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
@@ -23,7 +24,6 @@
 * [2024-09-21, 18:46:33](https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners) - [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)
 * [2024-09-21, 15:22:14](https://lobste.rs/s/thwzvu/elite_40th_anniversary_source_code) - [Elite 40th Anniversary source code release](http://www.elitehomepage.org/fourty/index.htm)
 * [2024-09-21, 14:36:28](https://lobste.rs/s/qnyp28/kubed_kubernetes_emacs_done) - [Kubed: Kubernetes, Emacs, done](https://eshelyaron.com/kubed.html)
-* [2024-09-21, 14:15:15](https://lobste.rs/s/k5aoed/evolving_codebase_at_google_scale) - [Evolving a codebase at Google Scale](https://laurent.le-brun.eu/blog/evolving-a-codebase-at-google-scale)
 * [2024-09-21, 10:21:56](https://lobste.rs/s/wmfa4g/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
 
 ## [Archives](archives/index.md)
