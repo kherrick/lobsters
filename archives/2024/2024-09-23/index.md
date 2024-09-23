@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
 * [2024-09-23, 15:27:56](https://lobste.rs/s/uppm0r/reflection_c_26) - [Reflection in C++26](https://www.modernescpp.com/index.php/reflection-in-c26/)
 * [2024-09-23, 14:08:04](https://lobste.rs/s/dbxdvf/change_query_support_apache_iceberg_v2) - [Change query support in Apache Iceberg v2](https://jack-vanlightly.com/analyses/2024/9/23/change-query-support-in-apache-iceberg-v2)
 * [2024-09-23, 13:59:13](https://lobste.rs/s/3y5l8w/simple_event_broker_data_serialization) - [Simple event broker: data serialization is expensive](https://blog.vbang.dk/2024/09/10/seb-tiger-style-read-path/)
