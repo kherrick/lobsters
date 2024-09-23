@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 07:03:04](https://lobste.rs/s/hatlmz/waiting_for_many_things_at_once_with_io) - [Waiting for many things at once with `io_uring`](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-09-23, 06:34:35](https://lobste.rs/s/5wlksb/code_execution_utilities_for_open_webui) - [Code execution utilities for Open WebUI & Ollama](https://github.com/EtiennePerot/open-webui-code-execution)
 * [2024-09-23, 05:24:48](https://lobste.rs/s/i9fje3/rust_panics_under_hood_implementing_them) - [Rust panics under the hood, and implementing them in .NET](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html)
 * [2024-09-23, 04:51:02](https://lobste.rs/s/69wzsy/loop_unrolling_with_lambdas_fold) - [Loop Unrolling with Lambdas and Fold Expressions](https://www.cppstories.com/2024/unroll-templates-lambdas-and-fold/)
@@ -17,7 +18,6 @@
 * [2024-09-22, 20:46:11](https://lobste.rs/s/ahycsi/brainfuck_enterpise_solutions) - [Brainfuck Enterpise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem) - [2024-09-22 cloud-init Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem)
 * [2024-09-22, 13:52:49](https://lobste.rs/s/pcr0kj/odd_intersections_navidrome_loki_jq) - [Odd intersections: Navidrome, Loki, jq and ListenBrainz](https://linus.schreibt.jetzt/posts/loki-jq-listenbrainz.html)
-* [2024-09-22, 06:12:34](https://lobste.rs/s/xqyccd/lscs_is_cross_platform_c_gui_library) - [LsCs is a cross platform C++ GUI library focused on Medical Devices](https://lscs-software.com/index.html)
 * [2024-09-22, 05:34:49](https://lobste.rs/s/g10mm1/weather_landscape_visualizing_weather) - [weather_landscape: Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 * [2024-09-22, 01:17:17](https://lobste.rs/s/gyiims/portable_dynamically_linked_packages_on) - [Portable, dynamically linked packages on Linux](https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/)
 * [2024-09-22, 00:36:50](https://lobste.rs/s/n38zov/sanding_ui) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
