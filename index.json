@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 20:13:29",
+      "https://lobste.rs/s/lrdm1n/differences_between_scheme_common_lisp"
+    ],
+    [
+      "Differences between Scheme and Common Lisp",
+      "https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 19:55:26",
       "https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its"
     ],
@@ -187,16 +197,6 @@
     [
       "“Truly hygienic” let statements in Rust",
       "https://sabrinajewson.org/blog/truly-hygienic-let"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 00:06:41",
-      "https://lobste.rs/s/l0hw41/sorry_state_java_deserialization"
-    ],
-    [
-      "The sorry state of Java deserialization",
-      "https://www.marginalia.nu/log/a_110_java_io/"
     ]
   ],
   [
