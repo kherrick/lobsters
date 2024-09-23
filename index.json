@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 10:45:24",
+      "https://lobste.rs/s/xjxac8/make_your_next_js_docker_images"
+    ],
+    [
+      "Make your Next.JS Docker images microscopic",
+      "https://xeiaso.net/notes/2024/small-nextjs-images/"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 10:33:35",
       "https://lobste.rs/s/jcnwgn/overview_cross_architecture"
     ],
@@ -237,16 +247,6 @@
     [
       "Portable, dynamically linked packages on Linux",
       "https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2024-09-21, 18:46:33",
-      "https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners"
-    ],
-    [
-      "How I batch apply and save one-liners",
-      "https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners"
     ]
   ]
 ]
