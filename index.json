@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 16:25:30",
+      "https://lobste.rs/s/i1umfp/use_vi_1_editor"
+    ],
+    [
+      "Use vi(1) Editor",
+      "https://vermaden.wordpress.com/2024/09/23/ghost-in-the-shell-part-8-use-vi-editor/"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 15:49:56",
       "https://lobste.rs/s/9nijtc/no_data_lasts_forever"
     ],
@@ -237,16 +247,6 @@
     [
       "2024-09-22 cloud-init Outage Midmortem",
       "https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 13:52:49",
-      "https://lobste.rs/s/pcr0kj/odd_intersections_navidrome_loki_jq"
-    ],
-    [
-      "Odd intersections: Navidrome, Loki, jq and ListenBrainz",
-      "https://linus.schreibt.jetzt/posts/loki-jq-listenbrainz.html"
     ]
   ]
 ]
