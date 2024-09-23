@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites, I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
+* [2024-09-23, 13:37:47](https://lobste.rs/s/eqxn8w/some_notes_on_adversarial_attacks_on_llms) - [Some Notes on Adversarial Attacks on LLMs](https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/)
 * [2024-09-23, 11:17:37](https://lobste.rs/s/m8d9vx/rfc_9446_reflections_on_ten_years_past) - [RFC 9446: Reflections on Ten Years Past the Snowden Revelations (2023)](https://www.rfc-editor.org/rfc/rfc9446.html#name-farzaneh-badii-did-snowdens)
 * [2024-09-23, 10:45:24](https://lobste.rs/s/xjxac8/make_your_next_js_docker_images) - [Make your Next.JS Docker images microscopic](https://xeiaso.net/notes/2024/small-nextjs-images/)
 * [2024-09-23, 10:33:35](https://lobste.rs/s/jcnwgn/overview_cross_architecture) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
@@ -10,7 +12,6 @@
 * [2024-09-23, 07:03:04](https://lobste.rs/s/hatlmz/waiting_for_many_things_at_once_with_io) - [Waiting for many things at once with `io_uring`](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-09-23, 06:34:35](https://lobste.rs/s/5wlksb/code_execution_utilities_for_open_webui) - [Code execution utilities for Open WebUI & Ollama](https://github.com/EtiennePerot/open-webui-code-execution)
 * [2024-09-23, 05:24:48](https://lobste.rs/s/i9fje3/rust_panics_under_hood_implementing_them) - [Rust panics under the hood, and implementing them in .NET](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html)
-* [2024-09-23, 04:51:02](https://lobste.rs/s/69wzsy/loop_unrolling_with_lambdas_fold) - [Loop Unrolling with Lambdas and Fold Expressions](https://www.cppstories.com/2024/unroll-templates-lambdas-and-fold/)
 * [2024-09-23, 04:35:51](https://lobste.rs/s/hsz2yl/case_for_using_neovim_without_plugins) - [A Case for Using Neovim Without Plugins](https://blog.erikwastaken.dev/posts/2023-05-06-a-case-for-neovim-without-plugins.html)
 * [2024-09-23, 03:51:05](https://lobste.rs/s/wfke7j/censysio_just_started_actively_probing) - [CensysIO just started actively probing mumble servers](https://gist.github.com/saori-yuko/1e09e8e97ab3aa198f5be518ac78f417)
 * [2024-09-23, 02:30:43](https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust) - [“Truly hygienic” let statements in Rust](https://sabrinajewson.org/blog/truly-hygienic-let)
@@ -21,7 +22,6 @@
 * [2024-09-22, 21:43:17](https://lobste.rs/s/icp22y/community_list_comparisons_between_text) - [Community list of comparisons between Text to Diagram tools](https://text-to-diagram.com/)
 * [2024-09-22, 21:17:24](https://lobste.rs/s/wldhfw/lazuli_repl_driven_development_plug_for) - [Lazuli, a REPL-Driven Development plug-in for Ruby](https://www.youtube.com/watch?v=FaH60dPfp6g)
 * [2024-09-22, 21:05:47](https://lobste.rs/s/j8cg5t/hytradboi_2025) - [HYTRADBOI 2025](https://www.scattered-thoughts.net/writing/hytradboi-2025/)
-* [2024-09-22, 20:46:11](https://lobste.rs/s/ahycsi/brainfuck_enterprise_solutions) - [Brainfuck Enterprise Solutions](https://github.com/bf-enterprise-solutions)
 * [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem) - [2024-09-22 cloud-init Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem)
 * [2024-09-22, 13:52:49](https://lobste.rs/s/pcr0kj/odd_intersections_navidrome_loki_jq) - [Odd intersections: Navidrome, Loki, jq and ListenBrainz](https://linus.schreibt.jetzt/posts/loki-jq-listenbrainz.html)
 * [2024-09-22, 01:17:17](https://lobste.rs/s/gyiims/portable_dynamically_linked_packages_on) - [Portable, dynamically linked packages on Linux](https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/)
