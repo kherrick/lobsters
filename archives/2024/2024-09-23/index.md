@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 10:33:35](https://lobste.rs/s/jcnwgn/overview_cross_architecture) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
 * [2024-09-23, 09:27:40](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week)
 * [2024-09-23, 08:48:09](https://lobste.rs/s/ni0cac/what_s_inside_qr_code_menu_at_this_cafe) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 * [2024-09-23, 08:24:39](https://lobste.rs/s/8b7udn/local_file_organizer) - [Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer)

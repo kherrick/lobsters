@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 10:33:35](https://lobste.rs/s/jcnwgn/overview_cross_architecture) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
 * [2024-09-23, 09:27:40](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week)
 * [2024-09-23, 08:48:09](https://lobste.rs/s/ni0cac/what_s_inside_qr_code_menu_at_this_cafe) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 * [2024-09-23, 08:24:39](https://lobste.rs/s/8b7udn/local_file_organizer) - [Local-File-Organizer](https://github.com/QiuYannnn/Local-File-Organizer)
@@ -23,7 +24,6 @@
 * [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem) - [2024-09-22 cloud-init Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem)
 * [2024-09-22, 13:52:49](https://lobste.rs/s/pcr0kj/odd_intersections_navidrome_loki_jq) - [Odd intersections: Navidrome, Loki, jq and ListenBrainz](https://linus.schreibt.jetzt/posts/loki-jq-listenbrainz.html)
 * [2024-09-22, 01:17:17](https://lobste.rs/s/gyiims/portable_dynamically_linked_packages_on) - [Portable, dynamically linked packages on Linux](https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/)
-* [2024-09-22, 00:36:50](https://lobste.rs/s/n38zov/sanding_ui) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 18:46:33](https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners) - [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)
 
 ## [Archives](archives/index.md)
