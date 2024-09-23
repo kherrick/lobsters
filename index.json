@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 10:33:35",
+      "https://lobste.rs/s/jcnwgn/overview_cross_architecture"
+    ],
+    [
+      "Overview of cross-architecture portability problems",
+      "https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 09:27:40",
       "https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week"
     ],
@@ -227,16 +237,6 @@
     [
       "Portable, dynamically linked packages on Linux",
       "https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/"
-    ]
-  ],
-  [
-    [
-      "2024-09-22, 00:36:50",
-      "https://lobste.rs/s/n38zov/sanding_ui"
-    ],
-    [
-      "Sanding UI",
-      "https://blog.jim-nielsen.com/2024/sanding-ui/"
     ]
   ],
   [
