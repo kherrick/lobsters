@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 17:57:28](https://lobste.rs/s/6tutmr/bbqvec_open_source_embedded_vector_index) - [BBQvec: An open-source, embedded vector index for Rust and Go](https://blog.daxe.ai/p/bbqvec-a-scalable-vector-search-library)
 * [2024-09-23, 16:25:30](https://lobste.rs/s/i1umfp/use_vi_1_editor) - [Use vi(1) Editor](https://vermaden.wordpress.com/2024/09/23/ghost-in-the-shell-part-8-use-vi-editor/)
 * [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
 * [2024-09-23, 15:27:56](https://lobste.rs/s/uppm0r/reflection_c_26) - [Reflection in C++26](https://www.modernescpp.com/index.php/reflection-in-c26/)
