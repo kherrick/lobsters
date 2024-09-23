@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 07:53:59](https://lobste.rs/s/j85ynw/terrible_way_jump_into_colocating_your) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 * [2024-09-23, 07:03:04](https://lobste.rs/s/hatlmz/waiting_for_many_things_at_once_with_io) - [Waiting for many things at once with `io_uring`](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-09-23, 06:34:35](https://lobste.rs/s/5wlksb/code_execution_utilities_for_open_webui) - [Code execution utilities for Open WebUI & Ollama](https://github.com/EtiennePerot/open-webui-code-execution)
 * [2024-09-23, 05:24:48](https://lobste.rs/s/i9fje3/rust_panics_under_hood_implementing_them) - [Rust panics under the hood, and implementing them in .NET](https://fractalfir.github.io/generated_html/rustc_codegen_clr_v0_2_1.html)
@@ -21,7 +22,6 @@
 * [2024-09-22, 05:34:49](https://lobste.rs/s/g10mm1/weather_landscape_visualizing_weather) - [weather_landscape: Visualizing Weather Forecasts Through Landscape Imagery](https://github.com/lds133/weather_landscape)
 * [2024-09-22, 01:17:17](https://lobste.rs/s/gyiims/portable_dynamically_linked_packages_on) - [Portable, dynamically linked packages on Linux](https://brioche.dev/blog/portable-dynamically-linked-pacakges-on-linux/)
 * [2024-09-22, 00:36:50](https://lobste.rs/s/n38zov/sanding_ui) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
-* [2024-09-21, 23:21:33](https://lobste.rs/s/n3i0ms/openssh_9_9_released) - [OpenSSH 9.9 released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 19:34:11](https://lobste.rs/s/aobazu/is_ai_silver_bullet) - [Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
 * [2024-09-21, 18:46:33](https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners) - [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)
 * [2024-09-21, 15:22:14](https://lobste.rs/s/thwzvu/elite_40th_anniversary_source_code) - [Elite 40th Anniversary source code release](http://www.elitehomepage.org/fourty/index.htm)
