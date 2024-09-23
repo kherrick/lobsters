@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-23, 17:57:28",
+      "https://lobste.rs/s/6tutmr/bbqvec_open_source_embedded_vector_index"
+    ],
+    [
+      "BBQvec: An open-source, embedded vector index for Rust and Go",
+      "https://blog.daxe.ai/p/bbqvec-a-scalable-vector-search-library"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 16:25:30",
       "https://lobste.rs/s/i1umfp/use_vi_1_editor"
     ],
@@ -17,16 +27,6 @@
     [
       "No Data Lasts Forever",
       "https://lilysthings.org/blog/no-data-lasts-forever/"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 14:08:04",
-      "https://lobste.rs/s/dbxdvf/change_query_support_apache_iceberg_v2"
-    ],
-    [
-      "Change query support in Apache Iceberg v2",
-      "https://jack-vanlightly.com/analyses/2024/9/23/change-query-support-in-apache-iceberg-v2"
     ]
   ],
   [
