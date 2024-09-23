@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 04:51:02](https://lobste.rs/s/69wzsy/loop_unrolling_with_lambdas_fold) - [Loop Unrolling with Lambdas and Fold Expressions](https://www.cppstories.com/2024/unroll-templates-lambdas-and-fold/)
 * [2024-09-23, 04:35:51](https://lobste.rs/s/hsz2yl/erik_s_blog_case_for_using_neovim_without) - [Erik's Blog - A Case for Using Neovim Without Plugins](https://blog.erikwastaken.dev/posts/2023-05-06-a-case-for-neovim-without-plugins.html)
 * [2024-09-23, 03:51:05](https://lobste.rs/s/wfke7j/censysio_just_started_actively_probing) - [CensysIO just started actively probing mumble servers](https://gist.github.com/saori-yuko/1e09e8e97ab3aa198f5be518ac78f417)
 * [2024-09-23, 02:30:43](https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust) - [“Truly hygienic” let statements in Rust](https://sabrinajewson.org/blog/truly-hygienic-let)
@@ -20,7 +21,6 @@
 * [2024-09-22, 00:36:50](https://lobste.rs/s/n38zov/sanding_ui) - [Sanding UI](https://blog.jim-nielsen.com/2024/sanding-ui/)
 * [2024-09-21, 23:21:33](https://lobste.rs/s/n3i0ms/openssh_9_9_released) - [OpenSSH 9.9 released](https://undeadly.org/cgi?action=article;sid=20240921181110)
 * [2024-09-21, 19:34:11](https://lobste.rs/s/aobazu/is_ai_silver_bullet) - [Is AI a Silver Bullet?](https://ian-cooper.writeas.com/is-ai-a-silver-bullet)
-* [2024-09-21, 19:06:23](https://lobste.rs/s/6ptwxu/logging_all_c_destructors_poor_mans_run) - [Logging all C++ destructors, poor mans run-time tracing](https://raymii.org/s/software/Logging_all_Cpp_destructors_poor_mans_run-time_tracing.html)
 * [2024-09-21, 18:46:33](https://lobste.rs/s/m4zutd/how_i_batch_apply_save_one_liners) - [How I batch apply and save one-liners](https://lmno.lol/alvaro/how-i-batch-apply-and-save-one-liners)
 * [2024-09-21, 15:22:14](https://lobste.rs/s/thwzvu/elite_40th_anniversary_source_code) - [Elite 40th Anniversary source code release](http://www.elitehomepage.org/fourty/index.htm)
 * [2024-09-21, 14:36:28](https://lobste.rs/s/qnyp28/kubed_kubernetes_emacs_done) - [Kubed: Kubernetes, Emacs, done](https://eshelyaron.com/kubed.html)
