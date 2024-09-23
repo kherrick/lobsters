@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-23, 02:30:43](https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust) - [“Truly hygienic” let statements in Rust](https://sabrinajewson.org/blog/truly-hygienic-let)
 * [2024-09-23, 00:06:41](https://lobste.rs/s/l0hw41/sorry_state_java_deserialization) - [The sorry state of Java deserialization](https://www.marginalia.nu/log/a_110_java_io/)
 * [2024-09-23, 00:01:02](https://lobste.rs/s/1dry2z/it_is_hard_recommend_google_cloud) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
 * [2024-09-22, 23:52:43](https://lobste.rs/s/4mfqjg/intel_s_redwood_cove_baby_steps_are_still) - [Intel’s Redwood Cove: Baby Steps are Still Steps](https://chipsandcheese.com/2024/09/22/intels-redwood-cove-baby-steps-are-still-steps/)
@@ -24,7 +25,6 @@
 * [2024-09-21, 14:36:28](https://lobste.rs/s/qnyp28/kubed_kubernetes_emacs_done) - [Kubed: Kubernetes, Emacs, done](https://eshelyaron.com/kubed.html)
 * [2024-09-21, 14:15:15](https://lobste.rs/s/k5aoed/evolving_codebase_at_google_scale) - [Evolving a codebase at Google Scale](https://laurent.le-brun.eu/blog/evolving-a-codebase-at-google-scale)
 * [2024-09-21, 10:21:56](https://lobste.rs/s/wmfa4g/lost_language_extensions_metaware_s_high) - [The lost language extensions of MetaWare's High C Compiler](https://duriansoftware.com/joe/the-lost-language-extensions-of-metaware's-high-c-compiler)
-* [2024-09-20, 20:23:12](https://lobste.rs/s/o5obyc/always_use_enum_for_your_status_field) - [Always use an enum for your status field](https://jmduke.com/posts/post/enums/)
 
 ## [Archives](archives/index.md)
 
