@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-23](index.md)
 
+* [2024-09-23, 23:41:22](https://lobste.rs/s/478mxz/http_ftp_dict) - [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-23, 22:58:58](https://lobste.rs/s/d6kj3g/hardenedbsd_protectli_collaborates_for) - [HardenedBSD and Protectli Collaborates for a Censorship- and Surveillance-Resistant Mesh Network](https://hardenedbsd.org/article/shawn-webb/2024-09-23/hardenedbsd-and-protectli-collaborates-censorship-and-surveillance)
 * [2024-09-23, 22:08:53](https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well) - [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
 * [2024-09-23, 20:43:41](https://lobste.rs/s/jsykfi/vala_smoothest_c_off_ramp_using_vala) - [Vala: the smoothest C off-ramp (Using Vala to rewrite old C code)](https://vala.dev/blog/c-off-ramp/)
