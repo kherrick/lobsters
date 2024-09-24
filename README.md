@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 00:30:23](https://lobste.rs/s/gpmlwc/what_is_io_uring) - [What is io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
 * [2024-09-23, 22:58:58](https://lobste.rs/s/d6kj3g/hardenedbsd_protectli_collaborates_for) - [HardenedBSD and Protectli Collaborates for a Censorship- and Surveillance-Resistant Mesh Network](https://hardenedbsd.org/article/shawn-webb/2024-09-23/hardenedbsd-and-protectli-collaborates-censorship-and-surveillance)
 * [2024-09-23, 22:08:53](https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well) - [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
 * [2024-09-23, 20:43:41](https://lobste.rs/s/jsykfi/vala_smoothest_c_off_ramp_using_vala) - [Vala: the smoothest C off-ramp (Using Vala to rewrite old C code)](https://vala.dev/blog/c-off-ramp/)
 * [2024-09-23, 20:13:29](https://lobste.rs/s/lrdm1n/differences_between_scheme_common_lisp) - [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
 * [2024-09-23, 19:55:26](https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its) - [The Python Package Index Should Get Rid Of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
-* [2024-09-23, 19:17:46](https://lobste.rs/s/4wtkvu/safe_ride_into_dangerzone_reducing) - [Safe Ride into the Dangerzone: Reducing attack surface with gVisor](https://dangerzone.rocks/news/2024-09-23-gvisor/)
+* [2024-09-23, 19:23:34](https://lobste.rs/s/7xfydi/dune_shell) - [Dune Shell](https://adam-mcdaniel.github.io/dune-website/)
 * [2024-09-23, 17:57:28](https://lobste.rs/s/6tutmr/bbqvec_open_source_embedded_vector_index) - [BBQvec: An open-source, embedded vector index for Rust and Go](https://blog.daxe.ai/p/bbqvec-a-scalable-vector-search-library)
 * [2024-09-23, 16:55:56](https://lobste.rs/s/2ksu4a/stop_making_kubernetes_auth_hard) - [Stop Making Kubernetes Auth Hard](https://kty.dev/blog/2024-09-19-auth-isnt-hard)
 * [2024-09-23, 16:00:36](https://lobste.rs/s/7k69hb/my_asus_eeepc_still_rocks_2024_with_mx) - [My Asus eeePC still rocks in 2024 (with MX Linux)](https://www.dedoimedo.com/computers/eeepc-2024.html)
@@ -24,7 +25,6 @@
 * [2024-09-23, 00:01:02](https://lobste.rs/s/1dry2z/it_is_hard_recommend_google_cloud) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
 * [2024-09-22, 22:01:35](https://lobste.rs/s/qt7ywv/gui_examples_rye_language) - [GUI Examples - Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
 * [2024-09-22, 21:43:17](https://lobste.rs/s/icp22y/community_list_comparisons_between_text) - [Community list of comparisons between Text to Diagram tools](https://text-to-diagram.com/)
-* [2024-09-22, 20:40:37](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem) - [2024-09-22 cloud-init Outage Midmortem](https://lobste.rs/s/ndvf0z/2024_09_22_cloud_init_outage_midmortem)
 
 ## [Archives](archives/index.md)
 
