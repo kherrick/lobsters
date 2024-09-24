@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-24, 19:17:58](https://lobste.rs/s/qfxm9e/analyzing_openapi_tooling_ecosystem) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
 * [2024-09-24, 18:58:17](https://lobste.rs/s/k6phvg/data_driven_approach_writing_better) - [A Data-Driven Approach to Writing Better Developer Documentation](https://www.paradedb.com/blog/improving_documentation)
+* [2024-09-24, 18:36:31](https://lobste.rs/s/agwfiy/genera_retrospective_world_s_first) - [Genera Retrospective: \"the world's first commercial object-oriented OS\" (1991)](https://archive.org/details/genera-retrospective-1991)
 * [2024-09-24, 18:01:42](https://lobste.rs/s/d4dapf/winamp_legacy_source_code) - [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 17:51:33](https://lobste.rs/s/oaa0vv/it_s_time_for_operating_systems) - [It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo)
 * [2024-09-24, 15:11:22](https://lobste.rs/s/zlqfex/hand_wired_cpu_natively_executes) - [Hand-wired CPU that natively executes Brainfuck code](https://www.youtube.com/watch?v=q8G2fWprwyo)
