@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 14:53:11](https://lobste.rs/s/xuhfe4/jetstream_shrinking_at_proto_firehose_by) - [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
 * [2024-09-24, 14:49:27](https://lobste.rs/s/ntypu0/open_versus_closed_cautionary_tale_2006) - [Open Versus Closed: A Cautionary Tale (2006)](https://www.usenix.org/legacy/events/nsdi06/tech/full_papers/schroeder/schroeder.pdf)
-* [2024-09-24, 14:47:31](https://lobste.rs/s/alydau/preloading_files_reduce_download_chains) - [Preloading files to reduce download chains in the browser](https://www.lkhrs.com/blog/2024/preloading/)
 * [2024-09-24, 14:41:45](https://lobste.rs/s/f9fzeu/soundless_interstitium) - [the soundless interstitium](https://taylor.town/soundless)
 * [2024-09-24, 13:11:14](https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent) - [devenv 1.2: Tasks for convergent configuration with Nix](https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/)
 * [2024-09-24, 11:59:33](https://lobste.rs/s/ry754r/ethernet_17_lines_spade) - [Ethernet in 17 lines of Spade](https://www.youtube.com/watch?v=0a8P0NLYPWA)
