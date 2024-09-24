@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 17:51:33](https://lobste.rs/s/oaa0vv/it_s_time_for_operating_systems) - [It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo)
 * [2024-09-24, 17:46:45](https://lobste.rs/s/ad1nv4/announcing_stable_v8_bindings_for_rust) - [Announcing Stable V8 Bindings for Rust](https://deno.com/blog/rusty-v8-stabilized)
 * [2024-09-24, 17:02:49](https://lobste.rs/s/ma9csw/using_lightweight_formal_methods) - [Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3](https://assets.amazon.science/77/5e/4a7c238f4ce890efdc325df83263/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3-2.pdf)
 * [2024-09-24, 16:39:37](https://lobste.rs/s/oollij/how_we_verify_correctness_spreadsheet) - [How we verify the correctness of a spreadsheet engine](https://rowzero.io/blog/property-based-testing)
