@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 17:02:49](https://lobste.rs/s/ma9csw/using_lightweight_formal_methods) - [Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3](https://assets.amazon.science/77/5e/4a7c238f4ce890efdc325df83263/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3-2.pdf)
 * [2024-09-24, 16:39:37](https://lobste.rs/s/oollij/how_we_verify_correctness_spreadsheet) - [How we verify the correctness of a spreadsheet engine](https://rowzero.io/blog/property-based-testing)
 * [2024-09-24, 15:15:33](https://lobste.rs/s/0xy8if/insecurity_through_mandates) - [Insecurity Through Mandates](https://www.michaelwashere.net/post/2024-07-04-insecurity-through-mandates/)
 * [2024-09-24, 15:01:29](https://lobste.rs/s/gzp4ou/refactoring_python_with_tree_sitter_jedi) - [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
