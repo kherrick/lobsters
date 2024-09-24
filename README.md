@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-24, 17:02:49](https://lobste.rs/s/ma9csw/using_lightweight_formal_methods) - [Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3](https://assets.amazon.science/77/5e/4a7c238f4ce890efdc325df83263/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3-2.pdf)
+* [2024-09-24, 17:46:45](https://lobste.rs/s/ad1nv4/announcing_stable_v8_bindings_for_rust) - [Announcing Stable V8 Bindings for Rust](https://deno.com/blog/rusty-v8-stabilized)
 * [2024-09-24, 15:11:22](https://lobste.rs/s/zlqfex/hand_wired_cpu_natively_executes) - [Hand-wired CPU that natively executes Brainfuck code](https://www.youtube.com/watch?v=q8G2fWprwyo)
 * [2024-09-24, 15:01:29](https://lobste.rs/s/gzp4ou/refactoring_python_with_tree_sitter_jedi) - [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 14:53:11](https://lobste.rs/s/xuhfe4/jetstream_shrinking_at_proto_firehose_by) - [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
