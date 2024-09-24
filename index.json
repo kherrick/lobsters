@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-24, 17:02:49",
+      "https://lobste.rs/s/ma9csw/using_lightweight_formal_methods"
+    ],
+    [
+      "Using Lightweight Formal Methods to Validate a Key-Value Storage Node in Amazon S3",
+      "https://assets.amazon.science/77/5e/4a7c238f4ce890efdc325df83263/using-lightweight-formal-methods-to-validate-a-key-value-storage-node-in-amazon-s3-2.pdf"
+    ]
+  ],
+  [
+    [
       "2024-09-24, 16:39:37",
       "https://lobste.rs/s/oollij/how_we_verify_correctness_spreadsheet"
     ],
@@ -217,16 +227,6 @@
     [
       "Some Notes on Adversarial Attacks on LLMs",
       "https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 07:53:59",
-      "https://lobste.rs/s/j85ynw/terrible_way_jump_into_colocating_your"
-    ],
-    [
-      "A terrible way to jump into colocating your own stuff",
-      "http://rachelbythebay.com/w/2024/09/22/colo/"
     ]
   ],
   [
