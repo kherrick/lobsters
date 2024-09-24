@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 10:47:14](https://lobste.rs/s/uplggd/two_machines) - [The Two Machines](https://buttondown.com/jaffray/archive/the-two-machines/)
 * [2024-09-24, 09:30:17](https://lobste.rs/s/vs2xpo/colocation_more_jabbering_from_me_about) - [Colocation: More jabbering from me about non-clown hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 08:46:52](https://lobste.rs/s/gsdnvw/what_i_tell_people_new_on_call) - [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
 * [2024-09-24, 08:43:12](https://lobste.rs/s/lyeprd/git_push_unexpectedly_freezes_my_system) - [Git push unexpectedly freezes my system](https://thangqt.com/notes/nixos/git_push_freeze_system)
