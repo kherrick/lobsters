@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 02:36:07](https://lobste.rs/s/ei8xu5/tagged_union_subsets_with_comptime_zig) - [Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
 * [2024-09-24, 00:30:23](https://lobste.rs/s/gpmlwc/what_is_io_uring) - [What is io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
 * [2024-09-23, 23:41:22](https://lobste.rs/s/478mxz/http_ftp_dict) - [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-23, 22:58:58](https://lobste.rs/s/d6kj3g/hardenedbsd_protectli_collaborates_for) - [HardenedBSD and Protectli Collaborates for a Censorship- and Surveillance-Resistant Mesh Network](https://hardenedbsd.org/article/shawn-webb/2024-09-23/hardenedbsd-and-protectli-collaborates-censorship-and-surveillance)
@@ -11,7 +12,6 @@
 * [2024-09-23, 16:55:56](https://lobste.rs/s/2ksu4a/stop_making_kubernetes_auth_hard) - [Stop Making Kubernetes Auth Hard](https://kty.dev/blog/2024-09-19-auth-isnt-hard)
 * [2024-09-23, 16:00:36](https://lobste.rs/s/7k69hb/my_asus_eeepc_still_rocks_2024_with_mx) - [My Asus eeePC still rocks in 2024 (with MX Linux)](https://www.dedoimedo.com/computers/eeepc-2024.html)
 * [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
-* [2024-09-23, 13:59:13](https://lobste.rs/s/3y5l8w/simple_event_broker_data_serialization) - [Simple event broker: data serialization is expensive](https://blog.vbang.dk/2024/09/10/seb-tiger-style-read-path/)
 * [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites, I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
 * [2024-09-23, 13:37:47](https://lobste.rs/s/eqxn8w/some_notes_on_adversarial_attacks_on_llms) - [Some Notes on Adversarial Attacks on LLMs](https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/)
 * [2024-09-23, 10:33:35](https://lobste.rs/s/jcnwgn/overview_cross_architecture) - [Overview of cross-architecture portability problems](https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/)
