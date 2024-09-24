@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 21:50:34](https://lobste.rs/s/4plcse/few_secure_random_bytes_without_pgcrypto) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
 * [2024-09-24, 19:29:49](https://lobste.rs/s/sxklwr/hidden_cost_data_movement) - [The Hidden Cost of Data Movement](https://cedardb.com/blog/reducing_data_movement/)
 * [2024-09-24, 18:58:17](https://lobste.rs/s/k6phvg/data_driven_approach_writing_better) - [A Data-Driven Approach to Writing Better Developer Documentation](https://www.paradedb.com/blog/improving_documentation)
 * [2024-09-24, 18:36:31](https://lobste.rs/s/agwfiy/genera_retrospective_world_s_first) - [Genera Retrospective: \"the world's first commercial object-oriented OS\" (1991)](https://archive.org/details/genera-retrospective-1991)
 * [2024-09-24, 18:01:42](https://lobste.rs/s/d4dapf/winamp_legacy_source_code) - [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)
-* [2024-09-24, 17:51:33](https://lobste.rs/s/oaa0vv/it_s_time_for_operating_systems) - [It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo)
 * [2024-09-24, 15:15:33](https://lobste.rs/s/0xy8if/insecurity_through_mandates) - [Insecurity Through Mandates](https://www.michaelwashere.net/post/2024-07-04-insecurity-through-mandates/)
 * [2024-09-24, 15:11:22](https://lobste.rs/s/zlqfex/hand_wired_cpu_natively_executes) - [Hand-wired CPU that natively executes Brainfuck code](https://www.youtube.com/watch?v=q8G2fWprwyo)
 * [2024-09-24, 15:01:29](https://lobste.rs/s/gzp4ou/refactoring_python_with_tree_sitter_jedi) - [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
