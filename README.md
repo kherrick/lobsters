@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 16:39:37](https://lobste.rs/s/oollij/how_we_verify_correctness_spreadsheet) - [How we verify the correctness of a spreadsheet engine](https://rowzero.io/blog/property-based-testing)
 * [2024-09-24, 15:01:29](https://lobste.rs/s/gzp4ou/refactoring_python_with_tree_sitter_jedi) - [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 14:53:11](https://lobste.rs/s/xuhfe4/jetstream_shrinking_at_proto_firehose_by) - [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
 * [2024-09-24, 14:41:45](https://lobste.rs/s/f9fzeu/soundless_interstitium) - [the soundless interstitium](https://taylor.town/soundless)
@@ -21,7 +22,6 @@
 * [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
 * [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites, I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
 * [2024-09-23, 13:37:47](https://lobste.rs/s/eqxn8w/some_notes_on_adversarial_attacks_on_llms) - [Some Notes on Adversarial Attacks on LLMs](https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/)
-* [2024-09-23, 08:48:09](https://lobste.rs/s/ni0cac/what_s_inside_qr_code_menu_at_this_cafe) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 * [2024-09-23, 07:53:59](https://lobste.rs/s/j85ynw/terrible_way_jump_into_colocating_your) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 * [2024-09-23, 07:03:04](https://lobste.rs/s/hatlmz/waiting_for_many_things_at_once_with_io) - [Waiting for many things at once with `io_uring`](https://mazzo.li/posts/uring-multiplex.html)
 * [2024-09-23, 00:01:02](https://lobste.rs/s/1dry2z/it_is_hard_recommend_google_cloud) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
