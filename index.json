@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-24, 14:41:45",
+      "https://lobste.rs/s/f9fzeu/soundless_interstitium"
+    ],
+    [
+      "the soundless interstitium",
+      "https://taylor.town/soundless"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 14:39:05",
+      "https://lobste.rs/s/k9hgnb/amazon_dynamodb_evolution_hyperscale"
+    ],
+    [
+      "Amazon DynamoDB: Evolution of a Hyperscale Cloud Database Service (2022)",
+      "https://www.infoq.com/presentations/dynamodb-scale-aws/"
+    ]
+  ],
+  [
+    [
       "2024-09-24, 13:11:14",
       "https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-09-23, 20:13:29",
-      "https://lobste.rs/s/lrdm1n/differences_between_scheme_common_lisp"
-    ],
-    [
-      "Differences between Scheme and Common Lisp",
-      "https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html"
-    ]
-  ],
-  [
-    [
       "2024-09-23, 19:55:26",
       "https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its"
     ],
@@ -227,16 +237,6 @@
     [
       "Waiting for many things at once with `io_uring`",
       "https://mazzo.li/posts/uring-multiplex.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 02:30:43",
-      "https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust"
-    ],
-    [
-      "“Truly hygienic” let statements in Rust",
-      "https://sabrinajewson.org/blog/truly-hygienic-let"
     ]
   ],
   [
