@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 10:56:46](https://lobste.rs/s/zqwe4v/c_until_it_is_no_longer_c) - [C Until It Is No Longer C](https://aartaka.me/c-not-c)
 * [2024-09-24, 10:47:14](https://lobste.rs/s/uplggd/two_machines) - [The Two Machines](https://buttondown.com/jaffray/archive/the-two-machines/)
 * [2024-09-24, 09:30:17](https://lobste.rs/s/vs2xpo/colocation_more_jabbering_from_me_about) - [Colocation: More jabbering from me about non-clown hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 08:46:52](https://lobste.rs/s/gsdnvw/what_i_tell_people_new_on_call) - [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
@@ -24,7 +25,6 @@
 * [2024-09-23, 04:35:51](https://lobste.rs/s/hsz2yl/case_for_using_neovim_without_plugins) - [A Case for Using Neovim Without Plugins](https://blog.erikwastaken.dev/posts/2023-05-06-a-case-for-neovim-without-plugins.html)
 * [2024-09-23, 02:30:43](https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust) - [“Truly hygienic” let statements in Rust](https://sabrinajewson.org/blog/truly-hygienic-let)
 * [2024-09-23, 00:01:02](https://lobste.rs/s/1dry2z/it_is_hard_recommend_google_cloud) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
-* [2024-09-22, 22:01:35](https://lobste.rs/s/qt7ywv/gui_examples_rye_language) - [GUI Examples - Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
 
 ## [Archives](archives/index.md)
 
