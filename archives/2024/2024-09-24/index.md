@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 14:41:45](https://lobste.rs/s/f9fzeu/soundless_interstitium) - [the soundless interstitium](https://taylor.town/soundless)
+* [2024-09-24, 14:39:05](https://lobste.rs/s/k9hgnb/amazon_dynamodb_evolution_hyperscale) - [Amazon DynamoDB: Evolution of a Hyperscale Cloud Database Service (2022)](https://www.infoq.com/presentations/dynamodb-scale-aws/)
 * [2024-09-24, 13:11:14](https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent) - [devenv 1.2: Tasks for convergent configuration with Nix](https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/)
 * [2024-09-24, 11:59:33](https://lobste.rs/s/ry754r/ethernet_17_lines_spade) - [Ethernet in 17 lines of Spade](https://www.youtube.com/watch?v=0a8P0NLYPWA)
 * [2024-09-24, 11:16:37](https://lobste.rs/s/tasvdw/real_world_performance_gains_with) - [Real World Performance Gains With Postgres 17 B-tree Bulk Scans](https://www.crunchydata.com/blog/real-world-performance-gains-with-postgres-17-btree-bulk-scans)
