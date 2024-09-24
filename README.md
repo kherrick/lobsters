@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 19:17:58](https://lobste.rs/s/qfxm9e/analyzing_openapi_tooling_ecosystem) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
 * [2024-09-24, 18:58:17](https://lobste.rs/s/k6phvg/data_driven_approach_writing_better) - [A Data-Driven Approach to Writing Better Developer Documentation](https://www.paradedb.com/blog/improving_documentation)
 * [2024-09-24, 18:01:42](https://lobste.rs/s/d4dapf/winamp_legacy_source_code) - [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 17:51:33](https://lobste.rs/s/oaa0vv/it_s_time_for_operating_systems) - [It's Time for Operating Systems to Rediscover Hardware](https://www.youtube.com/watch?v=36myc8wQhLo)
@@ -18,7 +19,6 @@
 * [2024-09-24, 02:36:07](https://lobste.rs/s/ei8xu5/tagged_union_subsets_with_comptime_zig) - [Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
 * [2024-09-24, 00:30:23](https://lobste.rs/s/gpmlwc/what_is_io_uring) - [What is io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
 * [2024-09-23, 23:41:22](https://lobste.rs/s/478mxz/http_ftp_dict) - [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
-* [2024-09-23, 22:58:58](https://lobste.rs/s/d6kj3g/hardenedbsd_protectli_collaborates_for) - [HardenedBSD and Protectli Collaborates for a Censorship- and Surveillance-Resistant Mesh Network](https://hardenedbsd.org/article/shawn-webb/2024-09-23/hardenedbsd-and-protectli-collaborates-censorship-and-surveillance)
 * [2024-09-23, 22:08:53](https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well) - [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
 * [2024-09-23, 19:55:26](https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its) - [The Python Package Index Should Get Rid Of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
 * [2024-09-23, 16:00:36](https://lobste.rs/s/7k69hb/my_asus_eeepc_still_rocks_2024_with_mx) - [My Asus eeePC still rocks in 2024 (with MX Linux)](https://www.dedoimedo.com/computers/eeepc-2024.html)
