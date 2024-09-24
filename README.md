@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 09:30:17](https://lobste.rs/s/vs2xpo/colocation_more_jabbering_from_me_about) - [Colocation: More jabbering from me about non-clown hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
 * [2024-09-24, 08:46:52](https://lobste.rs/s/gsdnvw/what_i_tell_people_new_on_call) - [What I tell people new to on-call](https://ntietz.com/blog/what-i-tell-people-new-to-oncall/)
 * [2024-09-24, 08:43:12](https://lobste.rs/s/lyeprd/git_push_unexpectedly_freezes_my_system) - [Git push unexpectedly freezes my system](https://thangqt.com/notes/nixos/git_push_freeze_system)
 * [2024-09-24, 07:05:59](https://lobste.rs/s/nopqld/be_someone_who_does_things) - [Be someone who does things](https://notes.eatonphil.com/2024-09-23-be-someone-who-does-things.html)
@@ -11,7 +12,6 @@
 * [2024-09-23, 22:08:53](https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well) - [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
 * [2024-09-23, 20:13:29](https://lobste.rs/s/lrdm1n/differences_between_scheme_common_lisp) - [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
 * [2024-09-23, 19:55:26](https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its) - [The Python Package Index Should Get Rid Of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
-* [2024-09-23, 16:55:56](https://lobste.rs/s/2ksu4a/stop_making_kubernetes_auth_hard) - [Stop Making Kubernetes Auth Hard](https://kty.dev/blog/2024-09-19-auth-isnt-hard)
 * [2024-09-23, 16:00:36](https://lobste.rs/s/7k69hb/my_asus_eeepc_still_rocks_2024_with_mx) - [My Asus eeePC still rocks in 2024 (with MX Linux)](https://www.dedoimedo.com/computers/eeepc-2024.html)
 * [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
 * [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites, I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
