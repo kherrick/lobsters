@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 11:01:09](https://lobste.rs/s/tpimzk/c_s_next_decade) - [C++'s next decade](https://github.com/CppCon/CppCon2024/blob/main/Presentations/Peering_Forward_Cpps_Next_Decade.pdf)
 * [2024-09-24, 10:56:46](https://lobste.rs/s/zqwe4v/c_until_it_is_no_longer_c) - [C Until It Is No Longer C](https://aartaka.me/c-not-c)
 * [2024-09-24, 10:47:14](https://lobste.rs/s/uplggd/two_machines) - [The Two Machines](https://buttondown.com/jaffray/archive/the-two-machines/)
 * [2024-09-24, 09:30:17](https://lobste.rs/s/vs2xpo/colocation_more_jabbering_from_me_about) - [Colocation: More jabbering from me about non-clown hosting](http://rachelbythebay.com/w/2024/09/23/colo/)
@@ -18,7 +19,6 @@
 * [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
 * [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites, I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
 * [2024-09-23, 13:37:47](https://lobste.rs/s/eqxn8w/some_notes_on_adversarial_attacks_on_llms) - [Some Notes on Adversarial Attacks on LLMs](https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/)
-* [2024-09-23, 09:27:40](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/kp9z4y/what_are_you_doing_this_week)
 * [2024-09-23, 08:48:09](https://lobste.rs/s/ni0cac/what_s_inside_qr_code_menu_at_this_cafe) - [What's inside the QR code menu at this cafe?](https://peabee.substack.com/p/whats-inside-the-qr-code-menu-at)
 * [2024-09-23, 07:53:59](https://lobste.rs/s/j85ynw/terrible_way_jump_into_colocating_your) - [A terrible way to jump into colocating your own stuff](http://rachelbythebay.com/w/2024/09/22/colo/)
 * [2024-09-23, 07:03:04](https://lobste.rs/s/hatlmz/waiting_for_many_things_at_once_with_io) - [Waiting for many things at once with `io_uring`](https://mazzo.li/posts/uring-multiplex.html)
