@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 07:05:59](https://lobste.rs/s/nopqld/be_someone_who_does_things) - [Be someone who does things](https://notes.eatonphil.com/2024-09-23-be-someone-who-does-things.html)
 * [2024-09-24, 07:03:53](https://lobste.rs/s/0ufyvv/rfd_463_oximeter_query_language) - [RFD 463 - The Oximeter Query Language](https://rfd.shared.oxide.computer/rfd/0463)
 * [2024-09-24, 02:36:07](https://lobste.rs/s/ei8xu5/tagged_union_subsets_with_comptime_zig) - [Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
 * [2024-09-24, 00:30:23](https://lobste.rs/s/gpmlwc/what_is_io_uring) - [What is io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
 * [2024-09-23, 23:41:22](https://lobste.rs/s/478mxz/http_ftp_dict) - [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-23, 22:58:58](https://lobste.rs/s/d6kj3g/hardenedbsd_protectli_collaborates_for) - [HardenedBSD and Protectli Collaborates for a Censorship- and Surveillance-Resistant Mesh Network](https://hardenedbsd.org/article/shawn-webb/2024-09-23/hardenedbsd-and-protectli-collaborates-censorship-and-surveillance)
 * [2024-09-23, 22:08:53](https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well) - [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
-* [2024-09-23, 20:43:41](https://lobste.rs/s/jsykfi/vala_smoothest_c_off_ramp_using_vala) - [Vala: the smoothest C off-ramp (Using Vala to rewrite old C code)](https://vala.dev/blog/c-off-ramp/)
 * [2024-09-23, 20:13:29](https://lobste.rs/s/lrdm1n/differences_between_scheme_common_lisp) - [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
 * [2024-09-23, 19:55:26](https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its) - [The Python Package Index Should Get Rid Of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
 * [2024-09-23, 19:17:46](https://lobste.rs/s/4wtkvu/safe_ride_into_dangerzone_reducing) - [Safe Ride into the Dangerzone: Reducing attack surface with gVisor](https://dangerzone.rocks/news/2024-09-23-gvisor/)
