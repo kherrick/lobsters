@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-24, 18:36:31",
+      "https://lobste.rs/s/agwfiy/genera_retrospective_world_s_first"
+    ],
+    [
+      "Genera Retrospective: \"the world's first commercial object-oriented OS\" (1991)",
+      "https://archive.org/details/genera-retrospective-1991"
+    ]
+  ],
+  [
+    [
       "2024-09-24, 18:01:42",
       "https://lobste.rs/s/d4dapf/winamp_legacy_source_code"
     ],
@@ -227,16 +237,6 @@
     [
       "Some Notes on Adversarial Attacks on LLMs",
       "https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 07:03:04",
-      "https://lobste.rs/s/hatlmz/waiting_for_many_things_at_once_with_io"
-    ],
-    [
-      "Waiting for many things at once with `io_uring`",
-      "https://mazzo.li/posts/uring-multiplex.html"
     ]
   ],
   [
