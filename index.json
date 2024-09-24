@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-09-23, 19:17:46",
+      "https://lobste.rs/s/4wtkvu/safe_ride_into_dangerzone_reducing"
+    ],
+    [
+      "Safe Ride into the Dangerzone: Reducing attack surface with gVisor",
+      "https://dangerzone.rocks/news/2024-09-23-gvisor/"
+    ]
+  ],
+  [
+    [
       "2024-09-23, 17:57:28",
       "https://lobste.rs/s/6tutmr/bbqvec_open_source_embedded_vector_index"
     ],
@@ -147,16 +157,6 @@
     [
       "Some Notes on Adversarial Attacks on LLMs",
       "https://cybernetist.com/2024/09/23/some-notes-on-adversarial-attacks-on-llms/"
-    ]
-  ],
-  [
-    [
-      "2024-09-23, 10:33:35",
-      "https://lobste.rs/s/jcnwgn/overview_cross_architecture"
-    ],
-    [
-      "Overview of cross-architecture portability problems",
-      "https://blogs.gentoo.org/mgorny/2024/09/23/overview-of-cross-architecture-portability-problems/"
     ]
   ],
   [
