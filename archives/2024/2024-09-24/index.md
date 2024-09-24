@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 15:15:33](https://lobste.rs/s/0xy8if/insecurity_through_mandates) - [Insecurity Through Mandates](https://www.michaelwashere.net/post/2024-07-04-insecurity-through-mandates/)
+* [2024-09-24, 15:01:29](https://lobste.rs/s/gzp4ou/refactoring_python_with_tree_sitter_jedi) - [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 14:53:11](https://lobste.rs/s/xuhfe4/jetstream_shrinking_at_proto_firehose_by) - [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
 * [2024-09-24, 14:49:27](https://lobste.rs/s/ntypu0/open_versus_closed_cautionary_tale_2006) - [Open Versus Closed: A Cautionary Tale (2006)](https://www.usenix.org/legacy/events/nsdi06/tech/full_papers/schroeder/schroeder.pdf)
 * [2024-09-24, 14:47:31](https://lobste.rs/s/alydau/preloading_files_reduce_download_chains) - [Preloading files to reduce download chains in the browser](https://www.lkhrs.com/blog/2024/preloading/)
