@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 07:03:53](https://lobste.rs/s/0ufyvv/rfd_463_oximeter_query_language) - [RFD 463 - The Oximeter Query Language](https://rfd.shared.oxide.computer/rfd/0463)
 * [2024-09-24, 02:36:07](https://lobste.rs/s/ei8xu5/tagged_union_subsets_with_comptime_zig) - [Tagged Union Subsets with Comptime in Zig](https://mitchellh.com/writing/zig-comptime-tagged-union-subset)
 * [2024-09-24, 00:30:23](https://lobste.rs/s/gpmlwc/what_is_io_uring) - [What is io_uring?](https://matklad.github.io/2024/09/32/-what-is-io-uring.html)
 * [2024-09-23, 23:41:22](https://lobste.rs/s/478mxz/http_ftp_dict) - [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
@@ -24,7 +25,6 @@
 * [2024-09-23, 02:30:43](https://lobste.rs/s/d8i6rd/truly_hygienic_let_statements_rust) - [“Truly hygienic” let statements in Rust](https://sabrinajewson.org/blog/truly-hygienic-let)
 * [2024-09-23, 00:01:02](https://lobste.rs/s/1dry2z/it_is_hard_recommend_google_cloud) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
 * [2024-09-22, 22:01:35](https://lobste.rs/s/qt7ywv/gui_examples_rye_language) - [GUI Examples - Rye Language](https://ryelang.org/cookbook/rye-fyne/examples/)
-* [2024-09-22, 21:43:17](https://lobste.rs/s/icp22y/community_list_comparisons_between_text) - [Community list of comparisons between Text to Diagram tools](https://text-to-diagram.com/)
 
 ## [Archives](archives/index.md)
 
