@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-09-24, 14:49:27",
+      "https://lobste.rs/s/ntypu0/open_versus_closed_cautionary_tale_2006"
+    ],
+    [
+      "Open Versus Closed: A Cautionary Tale (2006)",
+      "https://www.usenix.org/legacy/events/nsdi06/tech/full_papers/schroeder/schroeder.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-09-24, 14:47:31",
+      "https://lobste.rs/s/alydau/preloading_files_reduce_download_chains"
+    ],
+    [
+      "Preloading files to reduce download chains in the browser",
+      "https://www.lkhrs.com/blog/2024/preloading/"
+    ]
+  ],
+  [
+    [
       "2024-09-24, 14:41:45",
       "https://lobste.rs/s/f9fzeu/soundless_interstitium"
     ],
     [
       "the soundless interstitium",
       "https://taylor.town/soundless"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 14:39:05",
-      "https://lobste.rs/s/k9hgnb/amazon_dynamodb_evolution_hyperscale"
-    ],
-    [
-      "Amazon DynamoDB: Evolution of a Hyperscale Cloud Database Service (2022)",
-      "https://www.infoq.com/presentations/dynamodb-scale-aws/"
     ]
   ],
   [
@@ -67,16 +77,6 @@
     [
       "C Until It Is No Longer C",
       "https://aartaka.me/c-not-c"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 10:47:14",
-      "https://lobste.rs/s/uplggd/two_machines"
-    ],
-    [
-      "The Two Machines",
-      "https://buttondown.com/jaffray/archive/the-two-machines/"
     ]
   ],
   [
