@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 22:11:35](https://lobste.rs/s/zy8hgz/move_fast_abandon_things) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
 * [2024-09-24, 21:50:34](https://lobste.rs/s/4plcse/few_secure_random_bytes_without_pgcrypto) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
 * [2024-09-24, 19:29:49](https://lobste.rs/s/sxklwr/hidden_cost_data_movement) - [The Hidden Cost of Data Movement](https://cedardb.com/blog/reducing_data_movement/)
 * [2024-09-24, 19:17:58](https://lobste.rs/s/qfxm9e/analyzing_openapi_tooling_ecosystem) - [Analyzing the OpenAPI Tooling Ecosystem](https://modern-json-schema.com/analyzing-the-openapi-tooling-ecosystem)
