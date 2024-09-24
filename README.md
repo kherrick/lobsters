@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-24, 13:11:14](https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent) - [devenv 1.2: Tasks for convergent configuration with Nix](https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/)
 * [2024-09-24, 11:59:33](https://lobste.rs/s/ry754r/ethernet_17_lines_spade) - [Ethernet in 17 lines of Spade](https://www.youtube.com/watch?v=0a8P0NLYPWA)
 * [2024-09-24, 11:16:37](https://lobste.rs/s/tasvdw/real_world_performance_gains_with) - [Real World Performance Gains With Postgres 17 B-tree Bulk Scans](https://www.crunchydata.com/blog/real-world-performance-gains-with-postgres-17-btree-bulk-scans)
 * [2024-09-24, 11:01:09](https://lobste.rs/s/tpimzk/c_s_next_decade) - [C++'s next decade](https://github.com/CppCon/CppCon2024/blob/main/Presentations/Peering_Forward_Cpps_Next_Decade.pdf)
@@ -14,7 +15,6 @@
 * [2024-09-23, 23:41:22](https://lobste.rs/s/478mxz/http_ftp_dict) - [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-23, 22:58:58](https://lobste.rs/s/d6kj3g/hardenedbsd_protectli_collaborates_for) - [HardenedBSD and Protectli Collaborates for a Censorship- and Surveillance-Resistant Mesh Network](https://hardenedbsd.org/article/shawn-webb/2024-09-23/hardenedbsd-and-protectli-collaborates-censorship-and-surveillance)
 * [2024-09-23, 22:08:53](https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well) - [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
-* [2024-09-23, 20:13:29](https://lobste.rs/s/lrdm1n/differences_between_scheme_common_lisp) - [Differences between Scheme and Common Lisp](https://dept-info.labri.fr/~strandh/Teaching/Langages-Enchasses/Common/Strandh-Tutorial/diff-scheme.html)
 * [2024-09-23, 19:55:26](https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its) - [The Python Package Index Should Get Rid Of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
 * [2024-09-23, 16:00:36](https://lobste.rs/s/7k69hb/my_asus_eeepc_still_rocks_2024_with_mx) - [My Asus eeePC still rocks in 2024 (with MX Linux)](https://www.dedoimedo.com/computers/eeepc-2024.html)
 * [2024-09-23, 15:49:56](https://lobste.rs/s/9nijtc/no_data_lasts_forever) - [No Data Lasts Forever](https://lilysthings.org/blog/no-data-lasts-forever/)
