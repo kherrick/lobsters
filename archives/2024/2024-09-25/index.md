@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
 * [2024-09-25, 16:02:19](https://lobste.rs/s/txjj5z/post_ocsp_certificate_revocation_web_pki) - [Post-OCSP certificate revocation in the Web PKI](https://seirdy.one/posts/2024/09/25/post-ocsp-revocation/)
 * [2024-09-25, 15:41:32](https://lobste.rs/s/s9gktf/system_initiative_is_future) - [System Initiative is the Future](https://www.systeminit.com/blog-system-initiative-is-the-future)
 * [2024-09-25, 15:34:04](https://lobste.rs/s/qlnp2h/frog_protocols_announced_try_speed_up) - [Frog Protocols announced to try and speed up Wayland protocol development](https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/)
