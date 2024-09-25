@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-25, 16:28:23",
+      "https://lobste.rs/s/khzn8u/fedify_1_0_0_released"
+    ],
+    [
+      "Fedify 1.0.0 released",
+      "https://github.com/dahlia/fedify/discussions/141"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 16:02:19",
       "https://lobste.rs/s/txjj5z/post_ocsp_certificate_revocation_web_pki"
     ],
@@ -61,16 +71,6 @@
   ],
   [
     [
-      "2024-09-25, 14:35:45",
-      "https://lobste.rs/s/gtfefh/resource_management_aurora_serverless"
-    ],
-    [
-      "Resource management in Aurora Serverless",
-      "https://www.amazon.science/publications/resource-management-in-aurora-serverless"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 13:07:48",
       "https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux"
     ],
@@ -107,6 +107,16 @@
     [
       "Scheduling threads like Thomas Jefferson",
       "https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 09:55:45",
+      "https://lobste.rs/s/tvgkzx/brief_history_microprogramming"
+    ],
+    [
+      "A Brief History of Microprogramming",
+      "https://people.computing.clemson.edu/~mark/uprog.html"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Three-State Stability",
       "https://matklad.github.io/2023/02/16/three-state-stability.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 18:58:17",
-      "https://lobste.rs/s/k6phvg/data_driven_approach_writing_better"
-    ],
-    [
-      "A Data-Driven Approach to Writing Better Developer Documentation",
-      "https://www.paradedb.com/blog/improving_documentation"
     ]
   ],
   [
