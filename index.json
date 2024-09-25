@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-25, 20:27:23",
+      "https://lobste.rs/s/pca7h0/eliminating_memory_safety"
+    ],
+    [
+      "Eliminating memory safety vulnerabilities at the source",
+      "https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 20:12:31",
       "https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over"
     ],
@@ -157,16 +167,6 @@
     [
       "lish shell",
       "https://github.com/nibbula/yew/tree/master/lish"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 09:43:43",
-      "https://lobste.rs/s/kae6bd/organize_images_using_ai"
-    ],
-    [
-      "organize images using AI",
-      "https://gist.github.com/rain-1/cafbd3b04876cee936802d4d3a9a490d"
     ]
   ],
   [
