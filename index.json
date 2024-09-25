@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-25, 10:02:58",
+      "https://lobste.rs/s/gjktpy/binary_size_should_we_use_static_dynamic"
+    ],
+    [
+      "Binary size: should we use static or dynamic linking?",
+      "https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 09:55:45",
+      "https://lobste.rs/s/tvgkzx/brief_history_microprogramming"
+    ],
+    [
+      "A Brief History of Microprogramming",
+      "https://people.computing.clemson.edu/~mark/uprog.html"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 09:47:58",
       "https://lobste.rs/s/pvz9nf/lish_shell"
     ],
@@ -37,16 +57,6 @@
     [
       "Whence '\\n'?",
       "https://rodarmor.com/blog/whence-newline/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 07:09:39",
-      "https://lobste.rs/s/e8gdrw/comparison_various_image_captioning"
-    ],
-    [
-      "Comparison of various image captioning models",
-      "https://derekphilipau.github.io/image-captioning-model-comparison/"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "A Data-Driven Approach to Writing Better Developer Documentation",
       "https://www.paradedb.com/blog/improving_documentation"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 18:36:31",
-      "https://lobste.rs/s/agwfiy/genera_retrospective_world_s_first"
-    ],
-    [
-      "Genera Retrospective: \"the world's first commercial object-oriented OS\" (1991)",
-      "https://archive.org/details/genera-retrospective-1991"
     ]
   ],
   [
