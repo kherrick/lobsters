@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-25, 20:27:23](https://lobste.rs/s/pca7h0/eliminating_memory_safety) - [Eliminating memory safety vulnerabilities at the source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 20:12:31](https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over) - [Mozilla faces a privacy complaint over Firefox's tracking](https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html)
 * [2024-09-25, 19:12:39](https://lobste.rs/s/6h2kk9/similar_different) - [similar, but different](https://explaining.software/archive/similar-but-different/)
 * [2024-09-25, 17:21:13](https://lobste.rs/s/uvqnj3/why_i_still_blog_after_15_years) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
@@ -16,7 +17,6 @@
 * [2024-09-25, 11:20:47](https://lobste.rs/s/yknn7p/scheduling_threads_like_thomas) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 10:02:58](https://lobste.rs/s/gjktpy/binary_size_should_we_use_static_dynamic) - [Binary size: should we use static or dynamic linking?](https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size)
 * [2024-09-25, 09:47:58](https://lobste.rs/s/pvz9nf/lish_shell) - [lish shell](https://github.com/nibbula/yew/tree/master/lish)
-* [2024-09-25, 09:43:43](https://lobste.rs/s/kae6bd/organize_images_using_ai) - [organize images using AI](https://gist.github.com/rain-1/cafbd3b04876cee936802d4d3a9a490d)
 * [2024-09-25, 08:11:49](https://lobste.rs/s/f9vmq0/nanodjango) - [nanodjango](https://simonwillison.net/2024/Sep/24/nanodjango/)
 * [2024-09-25, 07:43:18](https://lobste.rs/s/xmt8sh/whence_n) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
 * [2024-09-25, 03:04:45](https://lobste.rs/s/lvrctm/thoughts_on_debugging) - [Thoughts on Debugging](https://catskull.net/thoughts-on-debugging.html)
