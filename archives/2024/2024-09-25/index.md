@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 16:02:19](https://lobste.rs/s/txjj5z/post_ocsp_certificate_revocation_web_pki) - [Post-OCSP certificate revocation in the Web PKI](https://seirdy.one/posts/2024/09/25/post-ocsp-revocation/)
 * [2024-09-25, 15:41:32](https://lobste.rs/s/s9gktf/system_initiative_is_future) - [System Initiative is the Future](https://www.systeminit.com/blog-system-initiative-is-the-future)
 * [2024-09-25, 15:34:04](https://lobste.rs/s/qlnp2h/frog_protocols_announced_try_speed_up) - [Frog Protocols announced to try and speed up Wayland protocol development](https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/)
 * [2024-09-25, 15:19:09](https://lobste.rs/s/ffjzs3/future_programming_systems_four) - [The Future of Programming Systems - four thoughts](https://blog.waleson.com/2024/09/the-future-of-programming-systems-four.html)
