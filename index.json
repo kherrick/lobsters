@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-25, 08:11:49",
+      "https://lobste.rs/s/f9vmq0/nanodjango"
+    ],
+    [
+      "nanodjango",
+      "https://simonwillison.net/2024/Sep/24/nanodjango/"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 07:43:18",
       "https://lobste.rs/s/xmt8sh/whence_n"
     ],
@@ -187,16 +197,6 @@
     [
       "What I tell people new to on-call",
       "https://ntietz.com/blog/what-i-tell-people-new-to-oncall/"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 02:36:07",
-      "https://lobste.rs/s/ei8xu5/tagged_union_subsets_with_comptime_zig"
-    ],
-    [
-      "Tagged Union Subsets with Comptime in Zig",
-      "https://mitchellh.com/writing/zig-comptime-tagged-union-subset"
     ]
   ],
   [
