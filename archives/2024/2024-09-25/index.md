@@ -6,6 +6,7 @@
 
 * [2024-09-25, 20:27:23](https://lobste.rs/s/pca7h0/eliminating_memory_safety) - [Eliminating memory safety vulnerabilities at the source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 20:12:31](https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over) - [Mozilla faces a privacy complaint over Firefox's tracking](https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html)
+* [2024-09-25, 19:45:49](https://lobste.rs/s/nkucj4/severe_unauthenticated_rce_flaw_cvss_9_9) - [Severe Unauthenticated RCE Flaw (CVSS 9.9) in GNU/Linux Systems Awaiting Full Disclosure](https://securityonline.info/severe-unauthenticated-rce-flaw-cvss-9-9-in-gnu-linux-systems-awaiting-full-disclosure/)
 * [2024-09-25, 19:12:39](https://lobste.rs/s/6h2kk9/similar_different) - [similar, but different](https://explaining.software/archive/similar-but-different/)
 * [2024-09-25, 17:21:13](https://lobste.rs/s/uvqnj3/why_i_still_blog_after_15_years) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 17:06:22](https://lobste.rs/s/le8jir/bloom_optimization_driven_interactive) - [Bloom: Optimization-Driven Interactive Diagramming](https://penrose.cs.cmu.edu/blog/bloom)
