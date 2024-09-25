@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 15:19:09](https://lobste.rs/s/ffjzs3/future_programming_systems_four) - [The Future of Programming Systems - four thoughts](https://blog.waleson.com/2024/09/the-future-of-programming-systems-four.html)
+* [2024-09-25, 15:01:23](https://lobste.rs/s/oeyh5w/watermelon_operator) - [The Watermelon Operator](https://matklad.github.io/2024/09/24/watermelon-operator.html)
 * [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2024-09-25, 14:35:45](https://lobste.rs/s/gtfefh/resource_management_aurora_serverless) - [Resource management in Aurora Serverless](https://www.amazon.science/publications/resource-management-in-aurora-serverless)
 * [2024-09-25, 13:07:48](https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux) - [NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support](https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization)
