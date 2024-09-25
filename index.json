@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-25, 14:56:41",
+      "https://lobste.rs/s/lfzcqd/optimizing_guile_scheme"
+    ],
+    [
+      "Optimizing Guile Scheme",
+      "https://dthompson.us/posts/optimizing-guile-scheme.html"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 14:35:45",
       "https://lobste.rs/s/gtfefh/resource_management_aurora_serverless"
     ],
@@ -127,16 +137,6 @@
     [
       "Three-State Stability",
       "https://matklad.github.io/2023/02/16/three-state-stability.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 22:11:35",
-      "https://lobste.rs/s/zy8hgz/move_fast_abandon_things"
-    ],
-    [
-      "Move Fast and Abandon Things",
-      "https://engineersneedart.com/blog/movefast/movefast.html"
     ]
   ],
   [
