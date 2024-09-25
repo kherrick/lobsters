@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 17:21:13](https://lobste.rs/s/uvqnj3/why_i_still_blog_after_15_years) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 17:06:22](https://lobste.rs/s/le8jir/bloom_optimization_driven_interactive) - [Bloom: Optimization-Driven Interactive Diagramming](https://penrose.cs.cmu.edu/blog/bloom)
 * [2024-09-25, 16:45:53](https://lobste.rs/s/1kzd9n/haskell_org_haskell_foundation_join) - [Haskell.org and the Haskell Foundation Join Forces](https://blog.haskell.org/haskell-foundation-and-committee-merger/)
 * [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
