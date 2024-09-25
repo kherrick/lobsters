@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-25, 07:09:39](https://lobste.rs/s/e8gdrw/comparison_various_image_captioning) - [Comparison of various image captioning models](https://derekphilipau.github.io/image-captioning-model-comparison/)
 * [2024-09-25, 03:47:46](https://lobste.rs/s/dtou73/declare_your_aindependence_includes_ai) - [Declare your AIndependence [includes \"AI bot activity today\" and \"How we find AI bots\"]](https://blog.cloudflare.com/declaring-your-aindependence-block-ai-bots-scrapers-and-crawlers-with-a-single-click/)
 * [2024-09-25, 03:04:45](https://lobste.rs/s/lvrctm/thoughts_on_debugging) - [Thoughts on Debugging](https://catskull.net/thoughts-on-debugging.html)
 * [2024-09-25, 01:15:10](https://lobste.rs/s/37m7tw/xkcd_1425_tasks_turns_ten_years_old_today) - [XKCD 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
@@ -10,7 +11,6 @@
 * [2024-09-24, 18:58:17](https://lobste.rs/s/k6phvg/data_driven_approach_writing_better) - [A Data-Driven Approach to Writing Better Developer Documentation](https://www.paradedb.com/blog/improving_documentation)
 * [2024-09-24, 18:36:31](https://lobste.rs/s/agwfiy/genera_retrospective_world_s_first) - [Genera Retrospective: \"the world's first commercial object-oriented OS\" (1991)](https://archive.org/details/genera-retrospective-1991)
 * [2024-09-24, 18:01:42](https://lobste.rs/s/d4dapf/winamp_legacy_source_code) - [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)
-* [2024-09-24, 15:15:33](https://lobste.rs/s/0xy8if/insecurity_through_mandates) - [Insecurity Through Mandates](https://www.michaelwashere.net/post/2024-07-04-insecurity-through-mandates/)
 * [2024-09-24, 15:01:29](https://lobste.rs/s/gzp4ou/refactoring_python_with_tree_sitter_jedi) - [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 14:53:11](https://lobste.rs/s/xuhfe4/jetstream_shrinking_at_proto_firehose_by) - [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
 * [2024-09-24, 13:11:14](https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent) - [devenv 1.2: Tasks for convergent configuration with Nix](https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/)
