@@ -1,15 +1,16 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-25, 01:15:10](https://lobste.rs/s/37m7tw/xkcd_1425_tasks_turns_ten_years_old_today) - [XKCD 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
+* [2024-09-24, 23:16:08](https://lobste.rs/s/7hbvpa/committing_rust_kernel) - [Committing to Rust in the kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
+* [2024-09-24, 22:54:43](https://lobste.rs/s/omkxxt/three_state_stability) - [Three-State Stability](https://matklad.github.io/2023/02/16/three-state-stability.html)
 * [2024-09-24, 22:11:35](https://lobste.rs/s/zy8hgz/move_fast_abandon_things) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
 * [2024-09-24, 21:50:34](https://lobste.rs/s/4plcse/few_secure_random_bytes_without_pgcrypto) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
 * [2024-09-24, 18:58:17](https://lobste.rs/s/k6phvg/data_driven_approach_writing_better) - [A Data-Driven Approach to Writing Better Developer Documentation](https://www.paradedb.com/blog/improving_documentation)
 * [2024-09-24, 18:36:31](https://lobste.rs/s/agwfiy/genera_retrospective_world_s_first) - [Genera Retrospective: \"the world's first commercial object-oriented OS\" (1991)](https://archive.org/details/genera-retrospective-1991)
 * [2024-09-24, 18:01:42](https://lobste.rs/s/d4dapf/winamp_legacy_source_code) - [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)
-* [2024-09-24, 15:15:33](https://lobste.rs/s/0xy8if/insecurity_through_mandates) - [Insecurity Through Mandates](https://www.michaelwashere.net/post/2024-07-04-insecurity-through-mandates/)
 * [2024-09-24, 15:11:22](https://lobste.rs/s/zlqfex/hand_wired_cpu_natively_executes) - [Hand-wired CPU that natively executes Brainfuck code](https://www.youtube.com/watch?v=q8G2fWprwyo)
 * [2024-09-24, 15:01:29](https://lobste.rs/s/gzp4ou/refactoring_python_with_tree_sitter_jedi) - [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 14:53:11](https://lobste.rs/s/xuhfe4/jetstream_shrinking_at_proto_firehose_by) - [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
-* [2024-09-24, 14:41:45](https://lobste.rs/s/f9fzeu/soundless_interstitium) - [the soundless interstitium](https://taylor.town/soundless)
 * [2024-09-24, 13:11:14](https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent) - [devenv 1.2: Tasks for convergent configuration with Nix](https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/)
 * [2024-09-24, 11:59:33](https://lobste.rs/s/ry754r/ethernet_17_lines_spade) - [Ethernet in 17 lines of Spade](https://www.youtube.com/watch?v=0a8P0NLYPWA)
 * [2024-09-24, 11:16:37](https://lobste.rs/s/tasvdw/real_world_performance_gains_with) - [Real World Performance Gains With Postgres 17 B-tree Bulk Scans](https://www.crunchydata.com/blog/real-world-performance-gains-with-postgres-17-btree-bulk-scans)
@@ -24,7 +25,6 @@
 * [2024-09-23, 19:55:26](https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its) - [The Python Package Index Should Get Rid Of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
 * [2024-09-23, 16:00:36](https://lobste.rs/s/7k69hb/my_asus_eeepc_still_rocks_2024_with_mx) - [My Asus eeePC still rocks in 2024 (with MX Linux)](https://www.dedoimedo.com/computers/eeepc-2024.html)
 * [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
-* [2024-09-23, 00:01:02](https://lobste.rs/s/1dry2z/it_is_hard_recommend_google_cloud) - [It is hard to recommend Google Cloud](https://ashishb.net/programming/google-cloud/)
 
 ## [Archives](archives/index.md)
 

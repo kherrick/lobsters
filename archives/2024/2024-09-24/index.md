@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-24](index.md)
 
+* [2024-09-24, 23:16:08](https://lobste.rs/s/7hbvpa/committing_rust_kernel) - [Committing to Rust in the kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
+* [2024-09-24, 22:54:43](https://lobste.rs/s/omkxxt/three_state_stability) - [Three-State Stability](https://matklad.github.io/2023/02/16/three-state-stability.html)
 * [2024-09-24, 22:11:35](https://lobste.rs/s/zy8hgz/move_fast_abandon_things) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
 * [2024-09-24, 21:50:34](https://lobste.rs/s/4plcse/few_secure_random_bytes_without_pgcrypto) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
 * [2024-09-24, 19:29:49](https://lobste.rs/s/sxklwr/hidden_cost_data_movement) - [The Hidden Cost of Data Movement](https://cedardb.com/blog/reducing_data_movement/)
