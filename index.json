@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-25, 13:07:48",
+      "https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux"
+    ],
+    [
+      "NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support",
+      "https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 12:41:32",
       "https://lobste.rs/s/u55nkw/awala_computer_network_on_which"
     ],
@@ -27,16 +37,6 @@
     [
       "Scheduling threads like Thomas Jefferson",
       "https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 10:02:58",
-      "https://lobste.rs/s/gjktpy/binary_size_should_we_use_static_dynamic"
-    ],
-    [
-      "Binary size: should we use static or dynamic linking?",
-      "https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size"
     ]
   ],
   [
