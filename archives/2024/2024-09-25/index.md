@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 10:02:58](https://lobste.rs/s/gjktpy/binary_size_should_we_use_static_dynamic) - [Binary size: should we use static or dynamic linking?](https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size)
+* [2024-09-25, 09:55:45](https://lobste.rs/s/tvgkzx/brief_history_microprogramming) - [A Brief History of Microprogramming](https://people.computing.clemson.edu/~mark/uprog.html)
 * [2024-09-25, 09:47:58](https://lobste.rs/s/pvz9nf/lish_shell) - [lish shell](https://github.com/nibbula/yew/tree/master/lish)
 * [2024-09-25, 09:43:43](https://lobste.rs/s/kae6bd/organize_images_using_ai) - [organize images using AI](https://gist.github.com/rain-1/cafbd3b04876cee936802d4d3a9a490d)
 * [2024-09-25, 08:11:49](https://lobste.rs/s/f9vmq0/nanodjango) - [nanodjango](https://simonwillison.net/2024/Sep/24/nanodjango/)
