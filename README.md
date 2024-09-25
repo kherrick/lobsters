@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2024-09-25, 14:35:45](https://lobste.rs/s/gtfefh/resource_management_aurora_serverless) - [Resource management in Aurora Serverless](https://www.amazon.science/publications/resource-management-in-aurora-serverless)
 * [2024-09-25, 13:07:48](https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux) - [NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support](https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization)
 * [2024-09-25, 12:41:32](https://lobste.rs/s/u55nkw/awala_computer_network_on_which) - [Awala: The computer network on which humankind can truly rely](https://awala.network/)
@@ -13,7 +14,6 @@
 * [2024-09-25, 01:15:10](https://lobste.rs/s/37m7tw/xkcd_1425_tasks_turns_ten_years_old_today) - [XKCD 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 * [2024-09-24, 23:16:08](https://lobste.rs/s/7hbvpa/committing_rust_kernel) - [Committing to Rust in the kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
 * [2024-09-24, 22:54:43](https://lobste.rs/s/omkxxt/three_state_stability) - [Three-State Stability](https://matklad.github.io/2023/02/16/three-state-stability.html)
-* [2024-09-24, 22:11:35](https://lobste.rs/s/zy8hgz/move_fast_abandon_things) - [Move Fast and Abandon Things](https://engineersneedart.com/blog/movefast/movefast.html)
 * [2024-09-24, 21:50:34](https://lobste.rs/s/4plcse/few_secure_random_bytes_without_pgcrypto) - [A few secure, random bytes without `pgcrypto`](https://brandur.org/fragments/secure-bytes-without-pgcrypto)
 * [2024-09-24, 18:58:17](https://lobste.rs/s/k6phvg/data_driven_approach_writing_better) - [A Data-Driven Approach to Writing Better Developer Documentation](https://www.paradedb.com/blog/improving_documentation)
 * [2024-09-24, 18:01:42](https://lobste.rs/s/d4dapf/winamp_legacy_source_code) - [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)

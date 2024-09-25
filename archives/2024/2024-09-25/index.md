@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2024-09-25, 14:35:45](https://lobste.rs/s/gtfefh/resource_management_aurora_serverless) - [Resource management in Aurora Serverless](https://www.amazon.science/publications/resource-management-in-aurora-serverless)
 * [2024-09-25, 13:07:48](https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux) - [NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support](https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization)
 * [2024-09-25, 12:41:32](https://lobste.rs/s/u55nkw/awala_computer_network_on_which) - [Awala: The computer network on which humankind can truly rely](https://awala.network/)
