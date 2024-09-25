@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-25](index.md)
 
+* [2024-09-25, 12:41:32](https://lobste.rs/s/u55nkw/awala_computer_network_on_which) - [Awala: The computer network on which humankind can truly rely](https://awala.network/)
+* [2024-09-25, 12:03:42](https://lobste.rs/s/cedmlk/it_s_lists_all_way_down) - [It's Lists All the Way Down](https://thehistoryoftheweb.com/its-lists-all-the-way-down/)
 * [2024-09-25, 11:20:47](https://lobste.rs/s/yknn7p/scheduling_threads_like_thomas) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 10:02:58](https://lobste.rs/s/gjktpy/binary_size_should_we_use_static_dynamic) - [Binary size: should we use static or dynamic linking?](https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size)
 * [2024-09-25, 09:55:45](https://lobste.rs/s/tvgkzx/brief_history_microprogramming) - [A Brief History of Microprogramming](https://people.computing.clemson.edu/~mark/uprog.html)
