@@ -2,10 +2,12 @@
 
 * [2024-09-25, 17:21:13](https://lobste.rs/s/uvqnj3/why_i_still_blog_after_15_years) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 17:06:22](https://lobste.rs/s/le8jir/bloom_optimization_driven_interactive) - [Bloom: Optimization-Driven Interactive Diagramming](https://penrose.cs.cmu.edu/blog/bloom)
+* [2024-09-25, 16:45:53](https://lobste.rs/s/1kzd9n/haskell_org_haskell_foundation_join) - [Haskell.org and the Haskell Foundation Join Forces](https://blog.haskell.org/haskell-foundation-and-committee-merger/)
 * [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
 * [2024-09-25, 16:02:19](https://lobste.rs/s/txjj5z/post_ocsp_certificate_revocation_web_pki) - [Post-OCSP certificate revocation in the Web PKI](https://seirdy.one/posts/2024/09/25/post-ocsp-revocation/)
 * [2024-09-25, 15:41:32](https://lobste.rs/s/s9gktf/system_initiative_is_future) - [System Initiative is the Future](https://www.systeminit.com/blog-system-initiative-is-the-future)
 * [2024-09-25, 15:34:04](https://lobste.rs/s/qlnp2h/frog_protocols_announced_try_speed_up) - [Frog Protocols announced to try and speed up Wayland protocol development](https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/)
+* [2024-09-25, 15:19:09](https://lobste.rs/s/ffjzs3/future_programming_systems_four) - [The Future of Programming Systems - four thoughts](https://blog.waleson.com/2024/09/the-future-of-programming-systems-four.html)
 * [2024-09-25, 15:01:23](https://lobste.rs/s/oeyh5w/watermelon_operator) - [The Watermelon Operator](https://matklad.github.io/2024/09/24/watermelon-operator.html)
 * [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2024-09-25, 13:07:48](https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux) - [NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support](https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization)
@@ -23,8 +25,6 @@
 * [2024-09-24, 22:54:43](https://lobste.rs/s/omkxxt/three_state_stability) - [Three-State Stability](https://matklad.github.io/2023/02/16/three-state-stability.html)
 * [2024-09-24, 18:01:42](https://lobste.rs/s/d4dapf/winamp_legacy_source_code) - [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)
 * [2024-09-24, 13:11:14](https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent) - [devenv 1.2: Tasks for convergent configuration with Nix](https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/)
-* [2024-09-24, 10:56:46](https://lobste.rs/s/zqwe4v/c_until_it_is_no_longer_c) - [C Until It Is No Longer C](https://aartaka.me/c-not-c)
-* [2024-09-23, 22:08:53](https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well) - [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
 
 ## [Archives](archives/index.md)
 
