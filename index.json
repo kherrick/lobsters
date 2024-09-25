@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-25, 14:35:45",
+      "https://lobste.rs/s/gtfefh/resource_management_aurora_serverless"
+    ],
+    [
+      "Resource management in Aurora Serverless",
+      "https://www.amazon.science/publications/resource-management-in-aurora-serverless"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 13:07:48",
       "https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux"
     ],
@@ -187,16 +197,6 @@
     [
       "devenv 1.2: Tasks for convergent configuration with Nix",
       "https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 11:16:37",
-      "https://lobste.rs/s/tasvdw/real_world_performance_gains_with"
-    ],
-    [
-      "Real World Performance Gains With Postgres 17 B-tree Bulk Scans",
-      "https://www.crunchydata.com/blog/real-world-performance-gains-with-postgres-17-btree-bulk-scans"
     ]
   ],
   [
