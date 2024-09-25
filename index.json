@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-09-25, 19:45:49",
+      "https://lobste.rs/s/nkucj4/severe_unauthenticated_rce_flaw_cvss_9_9"
+    ],
+    [
+      "Severe Unauthenticated RCE Flaw (CVSS 9.9) in GNU/Linux Systems Awaiting Full Disclosure",
+      "https://securityonline.info/severe-unauthenticated-rce-flaw-cvss-9-9-in-gnu-linux-systems-awaiting-full-disclosure/"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 19:12:39",
       "https://lobste.rs/s/6h2kk9/similar_different"
     ],
@@ -157,16 +167,6 @@
     [
       "Binary size: should we use static or dynamic linking?",
       "https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 09:47:58",
-      "https://lobste.rs/s/pvz9nf/lish_shell"
-    ],
-    [
-      "lish shell",
-      "https://github.com/nibbula/yew/tree/master/lish"
     ]
   ],
   [
