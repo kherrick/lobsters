@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-25, 20:12:31](https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over) - [Mozilla faces a privacy complaint over Firefox's tracking](https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html)
 * [2024-09-25, 19:12:39](https://lobste.rs/s/6h2kk9/similar_different) - [similar, but different](https://explaining.software/archive/similar-but-different/)
 * [2024-09-25, 17:21:13](https://lobste.rs/s/uvqnj3/why_i_still_blog_after_15_years) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 17:06:22](https://lobste.rs/s/le8jir/bloom_optimization_driven_interactive) - [Bloom: Optimization-Driven Interactive Diagramming](https://penrose.cs.cmu.edu/blog/bloom)
@@ -12,7 +13,6 @@
 * [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2024-09-25, 13:07:48](https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux) - [NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support](https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization)
 * [2024-09-25, 12:41:32](https://lobste.rs/s/u55nkw/awala_computer_network_on_which) - [Awala: The computer network on which humankind can truly rely](https://awala.network/)
-* [2024-09-25, 12:03:42](https://lobste.rs/s/cedmlk/it_s_lists_all_way_down) - [It's Lists All the Way Down](https://thehistoryoftheweb.com/its-lists-all-the-way-down/)
 * [2024-09-25, 11:20:47](https://lobste.rs/s/yknn7p/scheduling_threads_like_thomas) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 10:02:58](https://lobste.rs/s/gjktpy/binary_size_should_we_use_static_dynamic) - [Binary size: should we use static or dynamic linking?](https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size)
 * [2024-09-25, 09:47:58](https://lobste.rs/s/pvz9nf/lish_shell) - [lish shell](https://github.com/nibbula/yew/tree/master/lish)
