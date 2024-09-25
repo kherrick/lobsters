@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-25, 15:41:32](https://lobste.rs/s/s9gktf/system_initiative_is_future) - [System Initiative is the Future](https://www.systeminit.com/blog-system-initiative-is-the-future)
 * [2024-09-25, 15:34:04](https://lobste.rs/s/qlnp2h/frog_protocols_announced_try_speed_up) - [Frog Protocols announced to try and speed up Wayland protocol development](https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/)
 * [2024-09-25, 15:19:09](https://lobste.rs/s/ffjzs3/future_programming_systems_four) - [The Future of Programming Systems - four thoughts](https://blog.waleson.com/2024/09/the-future-of-programming-systems-four.html)
 * [2024-09-25, 15:01:23](https://lobste.rs/s/oeyh5w/watermelon_operator) - [The Watermelon Operator](https://matklad.github.io/2024/09/24/watermelon-operator.html)
@@ -19,7 +20,6 @@
 * [2024-09-24, 22:54:43](https://lobste.rs/s/omkxxt/three_state_stability) - [Three-State Stability](https://matklad.github.io/2023/02/16/three-state-stability.html)
 * [2024-09-24, 18:58:17](https://lobste.rs/s/k6phvg/data_driven_approach_writing_better) - [A Data-Driven Approach to Writing Better Developer Documentation](https://www.paradedb.com/blog/improving_documentation)
 * [2024-09-24, 18:01:42](https://lobste.rs/s/d4dapf/winamp_legacy_source_code) - [Winamp Legacy source code](https://github.com/WinampDesktop/winamp)
-* [2024-09-24, 15:01:29](https://lobste.rs/s/gzp4ou/refactoring_python_with_tree_sitter_jedi) - [Refactoring Python with Tree-sitter & Jedi](https://jackevans.bearblog.dev/refactoring-python-with-tree-sitter-jedi/)
 * [2024-09-24, 14:53:11](https://lobste.rs/s/xuhfe4/jetstream_shrinking_at_proto_firehose_by) - [Jetstream: Shrinking the AT Proto Firehose by >99%](https://jazco.dev/2024/09/24/jetstream/)
 * [2024-09-24, 13:11:14](https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent) - [devenv 1.2: Tasks for convergent configuration with Nix](https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/)
 * [2024-09-24, 10:56:46](https://lobste.rs/s/zqwe4v/c_until_it_is_no_longer_c) - [C Until It Is No Longer C](https://aartaka.me/c-not-c)
