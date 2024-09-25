@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-25, 09:47:58](https://lobste.rs/s/pvz9nf/lish_shell) - [lish shell](https://github.com/nibbula/yew/tree/master/lish)
 * [2024-09-25, 09:43:43](https://lobste.rs/s/kae6bd/organize_images_using_ai) - [organize images using AI](https://gist.github.com/rain-1/cafbd3b04876cee936802d4d3a9a490d)
 * [2024-09-25, 08:11:49](https://lobste.rs/s/f9vmq0/nanodjango) - [nanodjango](https://simonwillison.net/2024/Sep/24/nanodjango/)
 * [2024-09-25, 07:43:18](https://lobste.rs/s/xmt8sh/whence_n) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
@@ -24,7 +25,6 @@
 * [2024-09-23, 23:41:22](https://lobste.rs/s/478mxz/http_ftp_dict) - [http:, ftp:, and ... dict:?](https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/)
 * [2024-09-23, 22:08:53](https://lobste.rs/s/kxlg3s/time_spent_programming_is_often_time_well) - [Time spent programming is often time well spent](https://stanbright.com/time-spent-programming/)
 * [2024-09-23, 19:55:26](https://lobste.rs/s/vqfcvb/python_package_index_should_get_rid_its) - [The Python Package Index Should Get Rid Of Its Training Wheels](https://kristoff.it/blog/python-training-wheels/)
-* [2024-09-23, 13:38:30](https://lobste.rs/s/d1n9k6/kind_websites_i_like) - [The kind of websites I like](https://lobste.rs/s/d1n9k6/kind_websites_i_like)
 
 ## [Archives](archives/index.md)
 
