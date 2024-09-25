@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-25, 17:06:22](https://lobste.rs/s/le8jir/bloom_optimization_driven_interactive) - [Bloom: Optimization-Driven Interactive Diagramming](https://penrose.cs.cmu.edu/blog/bloom)
 * [2024-09-25, 16:45:53](https://lobste.rs/s/1kzd9n/haskell_org_haskell_foundation_join) - [Haskell.org and the Haskell Foundation Join Forces](https://blog.haskell.org/haskell-foundation-and-committee-merger/)
 * [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
 * [2024-09-25, 16:02:19](https://lobste.rs/s/txjj5z/post_ocsp_certificate_revocation_web_pki) - [Post-OCSP certificate revocation in the Web PKI](https://seirdy.one/posts/2024/09/25/post-ocsp-revocation/)
@@ -12,7 +13,6 @@
 * [2024-09-25, 12:03:42](https://lobste.rs/s/cedmlk/it_s_lists_all_way_down) - [It's Lists All the Way Down](https://thehistoryoftheweb.com/its-lists-all-the-way-down/)
 * [2024-09-25, 11:20:47](https://lobste.rs/s/yknn7p/scheduling_threads_like_thomas) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 10:02:58](https://lobste.rs/s/gjktpy/binary_size_should_we_use_static_dynamic) - [Binary size: should we use static or dynamic linking?](https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size)
-* [2024-09-25, 09:55:45](https://lobste.rs/s/tvgkzx/brief_history_microprogramming) - [A Brief History of Microprogramming](https://people.computing.clemson.edu/~mark/uprog.html)
 * [2024-09-25, 09:47:58](https://lobste.rs/s/pvz9nf/lish_shell) - [lish shell](https://github.com/nibbula/yew/tree/master/lish)
 * [2024-09-25, 09:43:43](https://lobste.rs/s/kae6bd/organize_images_using_ai) - [organize images using AI](https://gist.github.com/rain-1/cafbd3b04876cee936802d4d3a9a490d)
 * [2024-09-25, 08:11:49](https://lobste.rs/s/f9vmq0/nanodjango) - [nanodjango](https://simonwillison.net/2024/Sep/24/nanodjango/)
