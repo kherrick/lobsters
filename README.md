@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 19:28:04](https://lobste.rs/s/zgf9dq/10_years_programming) - [10 Years of Programming](https://jonathan-frere.com/posts/10-years-of-programming/)
 * [2024-09-26, 18:51:50](https://lobste.rs/s/l7wavo/nkrypt_sculpture) - [NKRYPT sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 17:22:19](https://lobste.rs/s/ow1nwv/announcing_bcd_watch) - [Announcing BCD Watch](https://meyerweb.com/eric/thoughts/2024/09/23/announcing-bcd-watch/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
@@ -18,7 +19,6 @@
 * [2024-09-25, 20:43:19](https://lobste.rs/s/khqjht/register_allocation_go_compiler) - [Register allocation in the Go compiler](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation)
 * [2024-09-25, 20:27:23](https://lobste.rs/s/pca7h0/eliminating_memory_safety) - [Eliminating memory safety vulnerabilities at the source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 20:12:31](https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over) - [Mozilla faces a privacy complaint over Firefox's tracking](https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html)
-* [2024-09-25, 19:12:39](https://lobste.rs/s/6h2kk9/similar_different) - [similar, but different](https://explaining.software/archive/similar-but-different/)
 * [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
 * [2024-09-25, 15:34:04](https://lobste.rs/s/qlnp2h/frog_protocols_announced_try_speed_up) - [Frog Protocols announced to try and speed up Wayland protocol development](https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/)
 * [2024-09-25, 15:01:23](https://lobste.rs/s/oeyh5w/watermelon_operator) - [The Watermelon Operator](https://matklad.github.io/2024/09/24/watermelon-operator.html)
