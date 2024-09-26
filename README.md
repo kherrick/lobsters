@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
+* [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
 * [2024-09-26, 12:34:41](https://lobste.rs/s/hldqi2/table_format_interoperability_future) - [Table format interoperability, future or fantasy? —](https://jack-vanlightly.com/blog/2024/9/26/table-format-interoperability-future-or-fantasy)
 * [2024-09-26, 12:15:07](https://lobste.rs/s/kc9wcw/flexing_windows_rras_bgp_implementation) - [Flexing the Windows RRAS BGP implementation](https://blog.benjojo.co.uk/post/flexing-windows-rras-bgp-stack-ipv6)
 * [2024-09-26, 11:51:01](https://lobste.rs/s/ppq8vm/introducing_tods_typographic_opentype) - [Introducing TODS – a typographic and OpenType default stylesheet](https://clagnut.com/blog/2433/)
@@ -12,7 +14,6 @@
 * [2024-09-25, 20:43:19](https://lobste.rs/s/khqjht/register_allocation_go_compiler) - [Register allocation in the Go compiler](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation)
 * [2024-09-25, 20:27:23](https://lobste.rs/s/pca7h0/eliminating_memory_safety) - [Eliminating memory safety vulnerabilities at the source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 20:12:31](https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over) - [Mozilla faces a privacy complaint over Firefox's tracking](https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html)
-* [2024-09-25, 19:45:49](https://lobste.rs/s/nkucj4/severe_unauthenticated_rce_flaw_cvss_9_9) - [Severe Unauthenticated RCE Flaw (CVSS 9.9) in GNU/Linux Systems Awaiting Full Disclosure](https://securityonline.info/severe-unauthenticated-rce-flaw-cvss-9-9-in-gnu-linux-systems-awaiting-full-disclosure/)
 * [2024-09-25, 19:12:39](https://lobste.rs/s/6h2kk9/similar_different) - [similar, but different](https://explaining.software/archive/similar-but-different/)
 * [2024-09-25, 17:21:13](https://lobste.rs/s/uvqnj3/why_i_still_blog_after_15_years) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
@@ -24,7 +25,6 @@
 * [2024-09-25, 08:11:49](https://lobste.rs/s/f9vmq0/nanodjango) - [nanodjango](https://simonwillison.net/2024/Sep/24/nanodjango/)
 * [2024-09-25, 07:43:18](https://lobste.rs/s/xmt8sh/whence_n) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
 * [2024-09-25, 01:15:10](https://lobste.rs/s/37m7tw/xkcd_1425_tasks_turns_ten_years_old_today) - [XKCD 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
-* [2024-09-24, 23:16:08](https://lobste.rs/s/7hbvpa/committing_rust_kernel) - [Committing to Rust in the kernel](https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/)
 
 ## [Archives](archives/index.md)
 
