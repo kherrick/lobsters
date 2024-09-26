@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-26, 14:10:26",
+      "https://lobste.rs/s/eptxtz/needed_bits_optimizations_guile"
+    ],
+    [
+      "needed-bits optimizations in guile",
+      "https://wingolog.org/archives/2024/09/26/needed-bits-optimizations-in-guile"
+    ]
+  ],
+  [
+    [
       "2024-09-26, 13:48:32",
       "https://lobste.rs/s/7oddmr/announcing_hotwire_native"
     ],
@@ -47,16 +57,6 @@
     [
       "Flexing the Windows RRAS BGP implementation",
       "https://blog.benjojo.co.uk/post/flexing-windows-rras-bgp-stack-ipv6"
-    ]
-  ],
-  [
-    [
-      "2024-09-26, 11:51:01",
-      "https://lobste.rs/s/ppq8vm/introducing_tods_typographic_opentype"
-    ],
-    [
-      "Introducing TODS – a typographic and OpenType default stylesheet",
-      "https://clagnut.com/blog/2433/"
     ]
   ],
   [
