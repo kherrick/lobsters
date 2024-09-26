@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 17:22:19](https://lobste.rs/s/ow1nwv/announcing_bcd_watch) - [Announcing BCD Watch](https://meyerweb.com/eric/thoughts/2024/09/23/announcing-bcd-watch/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
 * [2024-09-26, 16:06:38](https://lobste.rs/s/b2mahm/swift_java_interoperability_tools) - [Swift Java Interoperability Tools and Libraries](https://github.com/swiftlang/swift-java)
 * [2024-09-26, 14:10:26](https://lobste.rs/s/eptxtz/needed_bits_optimizations_guile) - [needed-bits optimizations in guile](https://wingolog.org/archives/2024/09/26/needed-bits-optimizations-in-guile)
@@ -9,9 +10,9 @@
 * [2024-09-26, 12:15:07](https://lobste.rs/s/kc9wcw/flexing_windows_rras_bgp_implementation) - [Flexing the Windows RRAS BGP implementation](https://blog.benjojo.co.uk/post/flexing-windows-rras-bgp-stack-ipv6)
 * [2024-09-26, 11:51:01](https://lobste.rs/s/ppq8vm/introducing_tods_typographic_opentype) - [Introducing TODS – a typographic and OpenType default stylesheet](https://clagnut.com/blog/2433/)
 * [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
+* [2024-09-26, 08:53:48](https://lobste.rs/s/r1vvqf/reproducible_data_science_environments) - [Reproducible Data Science Environments with Nix](https://cran.r-project.org/web/packages/rix/index.html)
 * [2024-09-26, 08:49:29](https://lobste.rs/s/u17hct/public_web_comments_with_cloudflare) - [Public Web Comments with Cloudflare Email Workers](https://catskull.net/replies.html)
 * [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
-* [2024-09-26, 05:23:47](https://lobste.rs/s/v6lhfv/automattic_s_actionable_misconduct) - [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
 * [2024-09-26, 01:48:22](https://lobste.rs/s/2mcdqp/llm_interpolate_interpolate_between) - [llm-interpolate: Interpolate between embedding points with llm](https://github.com/vagos/llm-interpolate)
 * [2024-09-25, 20:43:19](https://lobste.rs/s/khqjht/register_allocation_go_compiler) - [Register allocation in the Go compiler](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation)
 * [2024-09-25, 20:27:23](https://lobste.rs/s/pca7h0/eliminating_memory_safety) - [Eliminating memory safety vulnerabilities at the source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
@@ -24,7 +25,6 @@
 * [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2024-09-25, 08:11:49](https://lobste.rs/s/f9vmq0/nanodjango) - [nanodjango](https://simonwillison.net/2024/Sep/24/nanodjango/)
 * [2024-09-25, 07:43:18](https://lobste.rs/s/xmt8sh/whence_n) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
-* [2024-09-25, 01:15:10](https://lobste.rs/s/37m7tw/xkcd_1425_tasks_turns_ten_years_old_today) - [XKCD 1425 (Tasks) turns ten years old today](https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/)
 
 ## [Archives](archives/index.md)
 
