@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 18:51:50](https://lobste.rs/s/l7wavo/nkrypt_sculpture) - [NKRYPT sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 17:22:19](https://lobste.rs/s/ow1nwv/announcing_bcd_watch) - [Announcing BCD Watch](https://meyerweb.com/eric/thoughts/2024/09/23/announcing-bcd-watch/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
 * [2024-09-26, 16:06:38](https://lobste.rs/s/b2mahm/swift_java_interoperability_tools) - [Swift Java Interoperability Tools and Libraries](https://github.com/swiftlang/swift-java)
@@ -19,7 +20,6 @@
 * [2024-09-25, 20:12:31](https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over) - [Mozilla faces a privacy complaint over Firefox's tracking](https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html)
 * [2024-09-25, 19:12:39](https://lobste.rs/s/6h2kk9/similar_different) - [similar, but different](https://explaining.software/archive/similar-but-different/)
 * [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
-* [2024-09-25, 15:41:32](https://lobste.rs/s/s9gktf/system_initiative_is_future) - [System Initiative is the Future](https://www.systeminit.com/blog-system-initiative-is-the-future)
 * [2024-09-25, 15:34:04](https://lobste.rs/s/qlnp2h/frog_protocols_announced_try_speed_up) - [Frog Protocols announced to try and speed up Wayland protocol development](https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/)
 * [2024-09-25, 15:01:23](https://lobste.rs/s/oeyh5w/watermelon_operator) - [The Watermelon Operator](https://matklad.github.io/2024/09/24/watermelon-operator.html)
 * [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)

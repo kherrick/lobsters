@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 18:51:50](https://lobste.rs/s/l7wavo/nkrypt_sculpture) - [NKRYPT sculpture](https://www.meme.net.au/nkrypt/)
 * [2024-09-26, 17:22:19](https://lobste.rs/s/ow1nwv/announcing_bcd_watch) - [Announcing BCD Watch](https://meyerweb.com/eric/thoughts/2024/09/23/announcing-bcd-watch/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
 * [2024-09-26, 16:06:38](https://lobste.rs/s/b2mahm/swift_java_interoperability_tools) - [Swift Java Interoperability Tools and Libraries](https://github.com/swiftlang/swift-java)
