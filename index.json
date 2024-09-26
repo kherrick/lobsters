@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-09-25, 20:43:19",
-      "https://lobste.rs/s/khqjht/register_allocation_go_compiler"
+      "2024-09-26, 02:10:00",
+      "https://lobste.rs/s/wtdye5/mir_module_level_rwx_permissions_for_node"
     ],
     [
-      "Register allocation in the Go compiler",
-      "https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation"
+      "mir: Module-level RWX permissions for Node.js",
+      "https://github.com/andromeda/mir"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 01:58:47",
+      "https://lobste.rs/s/xie5op/leveraging_falcon_rails_for_real_time"
+    ],
+    [
+      "Leveraging Falcon and Rails for Real-Time Interactivity",
+      "https://www.codeotaku.com/journal/2024-09/interactive-rails/index"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 01:48:22",
+      "https://lobste.rs/s/2mcdqp/llm_interpolate_interpolate_between"
+    ],
+    [
+      "llm-interpolate: Interpolate between embedding points with llm",
+      "https://github.com/vagos/llm-interpolate"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Mozilla faces a privacy complaint over Firefox's tracking",
       "https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 19:58:19",
-      "https://lobste.rs/s/dnydbg/behavorial_programming_clojure"
-    ],
-    [
-      "Behavorial Programming in Clojure",
-      "https://thomascothran.tech/2024/09/in-clojure/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Committing to Rust in the kernel",
       "https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 22:54:43",
-      "https://lobste.rs/s/omkxxt/three_state_stability"
-    ],
-    [
-      "Three-State Stability",
-      "https://matklad.github.io/2023/02/16/three-state-stability.html"
     ]
   ]
 ]
