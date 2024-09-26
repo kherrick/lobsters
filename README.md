@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 14:10:26](https://lobste.rs/s/eptxtz/needed_bits_optimizations_guile) - [needed-bits optimizations in guile](https://wingolog.org/archives/2024/09/26/needed-bits-optimizations-in-guile)
 * [2024-09-26, 13:48:32](https://lobste.rs/s/7oddmr/announcing_hotwire_native) - [Announcing Hotwire Native](https://dev.37signals.com/announcing-hotwire-native/)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
 * [2024-09-26, 12:34:41](https://lobste.rs/s/hldqi2/table_format_interoperability_future) - [Table format interoperability, future or fantasy? —](https://jack-vanlightly.com/blog/2024/9/26/table-format-interoperability-future-or-fantasy)
 * [2024-09-26, 12:15:07](https://lobste.rs/s/kc9wcw/flexing_windows_rras_bgp_implementation) - [Flexing the Windows RRAS BGP implementation](https://blog.benjojo.co.uk/post/flexing-windows-rras-bgp-stack-ipv6)
-* [2024-09-26, 11:51:01](https://lobste.rs/s/ppq8vm/introducing_tods_typographic_opentype) - [Introducing TODS – a typographic and OpenType default stylesheet](https://clagnut.com/blog/2433/)
 * [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
 * [2024-09-26, 08:49:29](https://lobste.rs/s/u17hct/public_web_comments_with_cloudflare) - [Public Web Comments with Cloudflare Email Workers](https://catskull.net/replies.html)
 * [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)

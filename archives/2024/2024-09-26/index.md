@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 14:10:26](https://lobste.rs/s/eptxtz/needed_bits_optimizations_guile) - [needed-bits optimizations in guile](https://wingolog.org/archives/2024/09/26/needed-bits-optimizations-in-guile)
 * [2024-09-26, 13:48:32](https://lobste.rs/s/7oddmr/announcing_hotwire_native) - [Announcing Hotwire Native](https://dev.37signals.com/announcing-hotwire-native/)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
