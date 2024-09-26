@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 21:30:35](https://lobste.rs/s/nb519k/github_won_t_let_me_turn_off_2fa) - [GitHub won't let me turn off 2FA](https://skye.fyi/2024/09/github-security)
 * [2024-09-26, 20:36:19](https://lobste.rs/s/gh3hv5/why_are_my_zfs_disks_so_noisy) - [Why are my ZFS disks so noisy?](https://allthingsopen.org/articles/noisy-zfs-disks)
 * [2024-09-26, 20:30:38](https://lobste.rs/s/2y5gz9/tcl_tk_9_0_released) - [Tcl/Tk 9.0 released](https://www.tcl-lang.org/software/tcltk/9.0.html)
 * [2024-09-26, 20:24:43](https://lobste.rs/s/kujk5a/tcl_tk_9_0) - [Tcl/Tk 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
