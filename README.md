@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 16:06:38](https://lobste.rs/s/b2mahm/swift_java_interoperability_tools) - [Swift Java Interoperability Tools and Libraries](https://github.com/swiftlang/swift-java)
 * [2024-09-26, 14:10:26](https://lobste.rs/s/eptxtz/needed_bits_optimizations_guile) - [needed-bits optimizations in guile](https://wingolog.org/archives/2024/09/26/needed-bits-optimizations-in-guile)
 * [2024-09-26, 13:48:32](https://lobste.rs/s/7oddmr/announcing_hotwire_native) - [Announcing Hotwire Native](https://dev.37signals.com/announcing-hotwire-native/)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
@@ -7,7 +8,6 @@
 * [2024-09-26, 12:15:07](https://lobste.rs/s/kc9wcw/flexing_windows_rras_bgp_implementation) - [Flexing the Windows RRAS BGP implementation](https://blog.benjojo.co.uk/post/flexing-windows-rras-bgp-stack-ipv6)
 * [2024-09-26, 11:51:01](https://lobste.rs/s/ppq8vm/introducing_tods_typographic_opentype) - [Introducing TODS – a typographic and OpenType default stylesheet](https://clagnut.com/blog/2433/)
 * [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
-* [2024-09-26, 08:53:48](https://lobste.rs/s/r1vvqf/reproducible_data_science_environments) - [Reproducible Data Science Environments with Nix](https://cran.r-project.org/web/packages/rix/index.html)
 * [2024-09-26, 08:49:29](https://lobste.rs/s/u17hct/public_web_comments_with_cloudflare) - [Public Web Comments with Cloudflare Email Workers](https://catskull.net/replies.html)
 * [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 * [2024-09-26, 05:23:47](https://lobste.rs/s/v6lhfv/automattic_s_actionable_misconduct) - [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
