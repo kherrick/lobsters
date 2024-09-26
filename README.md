@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 22:00:31](https://lobste.rs/s/rwf8vo/making_overwrite_opt_crazyideas_baby) - [Making overwrite opt-in #crazyideas · baby steps](https://smallcultfollowing.com/babysteps/blog/2024/09/26/overwrite-trait/)
 * [2024-09-26, 21:30:35](https://lobste.rs/s/nb519k/github_won_t_let_me_turn_off_2fa) - [GitHub won't let me turn off 2FA](https://skye.fyi/2024/09/github-security)
 * [2024-09-26, 20:36:19](https://lobste.rs/s/gh3hv5/why_are_my_zfs_disks_so_noisy) - [Why are my ZFS disks so noisy?](https://allthingsopen.org/articles/noisy-zfs-disks)
-* [2024-09-26, 20:30:38](https://lobste.rs/s/2y5gz9/tcl_tk_9_0_released) - [Tcl/Tk 9.0 released](https://www.tcl-lang.org/software/tcltk/9.0.html)
 * [2024-09-26, 20:24:43](https://lobste.rs/s/kujk5a/tcl_tk_9_0) - [Tcl/Tk 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 20:20:05](https://lobste.rs/s/uuf54r/catching_up_on_wordpress_wp_engine_sitch) - [Catching Up On The WordPress WP Engine Sitch](https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/)
 * [2024-09-26, 20:15:54](https://lobste.rs/s/ymuptn/microservices_are_technical_debt) - [Microservices are Technical Debt](https://www.youtube.com/watch?v=LcJKxPXYudE)
