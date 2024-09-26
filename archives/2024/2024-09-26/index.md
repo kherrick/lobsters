@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
 * [2024-09-26, 16:06:38](https://lobste.rs/s/b2mahm/swift_java_interoperability_tools) - [Swift Java Interoperability Tools and Libraries](https://github.com/swiftlang/swift-java)
 * [2024-09-26, 14:10:26](https://lobste.rs/s/eptxtz/needed_bits_optimizations_guile) - [needed-bits optimizations in guile](https://wingolog.org/archives/2024/09/26/needed-bits-optimizations-in-guile)
 * [2024-09-26, 13:48:32](https://lobste.rs/s/7oddmr/announcing_hotwire_native) - [Announcing Hotwire Native](https://dev.37signals.com/announcing-hotwire-native/)
