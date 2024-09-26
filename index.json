@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-26, 20:30:38",
+      "https://lobste.rs/s/2y5gz9/tcl_tk_9_0_released"
+    ],
+    [
+      "Tcl/Tk 9.0 released",
+      "https://www.tcl-lang.org/software/tcltk/9.0.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 20:24:43",
+      "https://lobste.rs/s/kujk5a/tcl_tk_9_0"
+    ],
+    [
+      "Tcl/Tk 9.0",
+      "https://www.tcl-lang.org/software/tcltk/9.0.html?post=new"
+    ]
+  ],
+  [
+    [
       "2024-09-26, 20:20:05",
       "https://lobste.rs/s/uuf54r/catching_up_on_wordpress_wp_engine_sitch"
     ],
@@ -217,26 +237,6 @@
     [
       "Frog Protocols announced to try and speed up Wayland protocol development",
       "https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 14:56:41",
-      "https://lobste.rs/s/lfzcqd/optimizing_guile_scheme"
-    ],
-    [
-      "Optimizing Guile Scheme",
-      "https://dthompson.us/posts/optimizing-guile-scheme.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 08:11:49",
-      "https://lobste.rs/s/f9vmq0/nanodjango"
-    ],
-    [
-      "nanodjango",
-      "https://simonwillison.net/2024/Sep/24/nanodjango/"
     ]
   ],
   [
