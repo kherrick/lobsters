@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
 * [2024-09-26, 08:53:48](https://lobste.rs/s/r1vvqf/reproducible_data_science_environments) - [Reproducible Data Science Environments with Nix](https://cran.r-project.org/web/packages/rix/index.html)
 * [2024-09-26, 08:49:29](https://lobste.rs/s/u17hct/public_web_comments_with_cloudflare) - [Public Web Comments with Cloudflare Email Workers](https://catskull.net/replies.html)
 * [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
@@ -14,7 +15,6 @@
 * [2024-09-25, 19:12:39](https://lobste.rs/s/6h2kk9/similar_different) - [similar, but different](https://explaining.software/archive/similar-but-different/)
 * [2024-09-25, 17:21:13](https://lobste.rs/s/uvqnj3/why_i_still_blog_after_15_years) - [Why I still blog after 15 years](https://www.jonashietala.se/blog/2024/09/25/why_i_still_blog_after_15_years/)
 * [2024-09-25, 17:06:22](https://lobste.rs/s/le8jir/bloom_optimization_driven_interactive) - [Bloom: Optimization-Driven Interactive Diagramming](https://penrose.cs.cmu.edu/blog/bloom)
-* [2024-09-25, 16:45:53](https://lobste.rs/s/1kzd9n/haskell_org_haskell_foundation_join) - [Haskell.org and the Haskell Foundation Join Forces](https://blog.haskell.org/haskell-foundation-and-committee-merger/)
 * [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
 * [2024-09-25, 16:02:19](https://lobste.rs/s/txjj5z/post_ocsp_certificate_revocation_web_pki) - [Post-OCSP certificate revocation in the Web PKI](https://seirdy.one/posts/2024/09/25/post-ocsp-revocation/)
 * [2024-09-25, 15:41:32](https://lobste.rs/s/s9gktf/system_initiative_is_future) - [System Initiative is the Future](https://www.systeminit.com/blog-system-initiative-is-the-future)
