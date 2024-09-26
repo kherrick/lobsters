@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 20:30:38](https://lobste.rs/s/2y5gz9/tcl_tk_9_0_released) - [Tcl/Tk 9.0 released](https://www.tcl-lang.org/software/tcltk/9.0.html)
+* [2024-09-26, 20:24:43](https://lobste.rs/s/kujk5a/tcl_tk_9_0) - [Tcl/Tk 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 20:20:05](https://lobste.rs/s/uuf54r/catching_up_on_wordpress_wp_engine_sitch) - [Catching Up On The WordPress WP Engine Sitch](https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/)
 * [2024-09-26, 20:18:28](https://lobste.rs/s/agwfl8/cups_disclosure_leaked_online) - [CUPS disclosure leaked online](https://gist.github.com/stong/c8847ef27910ae344a7b5408d9840ee1)
 * [2024-09-26, 20:15:54](https://lobste.rs/s/ymuptn/microservices_are_technical_debt) - [Microservices are Technical Debt](https://www.youtube.com/watch?v=LcJKxPXYudE)
@@ -22,8 +24,6 @@
 * [2024-09-25, 20:12:31](https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over) - [Mozilla faces a privacy complaint over Firefox's tracking](https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html)
 * [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
 * [2024-09-25, 15:34:04](https://lobste.rs/s/qlnp2h/frog_protocols_announced_try_speed_up) - [Frog Protocols announced to try and speed up Wayland protocol development](https://www.gamingonlinux.com/2024/09/frog-protocols-announced-to-try-and-speed-up-wayland-protocol-development/)
-* [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
-* [2024-09-25, 08:11:49](https://lobste.rs/s/f9vmq0/nanodjango) - [nanodjango](https://simonwillison.net/2024/Sep/24/nanodjango/)
 * [2024-09-25, 07:43:18](https://lobste.rs/s/xmt8sh/whence_n) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
 
 ## [Archives](archives/index.md)
