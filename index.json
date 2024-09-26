@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-09-25, 20:43:19",
+      "https://lobste.rs/s/khqjht/register_allocation_go_compiler"
+    ],
+    [
+      "Register allocation in the Go compiler",
+      "https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 20:27:23",
       "https://lobste.rs/s/pca7h0/eliminating_memory_safety"
     ],
@@ -187,16 +197,6 @@
     [
       "Scheduling threads like Thomas Jefferson",
       "https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 10:02:58",
-      "https://lobste.rs/s/gjktpy/binary_size_should_we_use_static_dynamic"
-    ],
-    [
-      "Binary size: should we use static or dynamic linking?",
-      "https://www.sandordargo.com/blog/2024/09/25/dynamic-vs-static-linking-binary-size"
     ]
   ],
   [
