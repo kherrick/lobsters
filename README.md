@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 05:23:47](https://lobste.rs/s/v6lhfv/automattic_s_actionable_misconduct) - [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
 * [2024-09-26, 02:10:00](https://lobste.rs/s/wtdye5/mir_module_level_rwx_permissions_for_node) - [mir: Module-level RWX permissions for Node.js](https://github.com/andromeda/mir)
 * [2024-09-26, 01:58:47](https://lobste.rs/s/xie5op/leveraging_falcon_rails_for_real_time) - [Leveraging Falcon and Rails for Real-Time Interactivity](https://www.codeotaku.com/journal/2024-09/interactive-rails/index)
 * [2024-09-26, 01:48:22](https://lobste.rs/s/2mcdqp/llm_interpolate_interpolate_between) - [llm-interpolate: Interpolate between embedding points with llm](https://github.com/vagos/llm-interpolate)
@@ -18,7 +19,6 @@
 * [2024-09-25, 15:01:23](https://lobste.rs/s/oeyh5w/watermelon_operator) - [The Watermelon Operator](https://matklad.github.io/2024/09/24/watermelon-operator.html)
 * [2024-09-25, 14:56:41](https://lobste.rs/s/lfzcqd/optimizing_guile_scheme) - [Optimizing Guile Scheme](https://dthompson.us/posts/optimizing-guile-scheme.html)
 * [2024-09-25, 13:07:48](https://lobste.rs/s/ddmvqm/nvidia_publishes_open_source_linux) - [NVIDIA publishes open-source Linux driver code for GPU virtualization \"vGPU\" support](https://www.phoronix.com/news/NVIDIA-Open-GPU-Virtualization)
-* [2024-09-25, 12:41:32](https://lobste.rs/s/u55nkw/awala_computer_network_on_which) - [Awala: The computer network on which humankind can truly rely](https://awala.network/)
 * [2024-09-25, 11:20:47](https://lobste.rs/s/yknn7p/scheduling_threads_like_thomas) - [Scheduling threads like Thomas Jefferson](https://stevana.github.io/scheduling_threads_like_thomas_jefferson.html)
 * [2024-09-25, 08:11:49](https://lobste.rs/s/f9vmq0/nanodjango) - [nanodjango](https://simonwillison.net/2024/Sep/24/nanodjango/)
 * [2024-09-25, 07:43:18](https://lobste.rs/s/xmt8sh/whence_n) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
