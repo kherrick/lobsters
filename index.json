@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-26, 16:06:38",
+      "https://lobste.rs/s/b2mahm/swift_java_interoperability_tools"
+    ],
+    [
+      "Swift Java Interoperability Tools and Libraries",
+      "https://github.com/swiftlang/swift-java"
+    ]
+  ],
+  [
+    [
       "2024-09-26, 14:10:26",
       "https://lobste.rs/s/eptxtz/needed_bits_optimizations_guile"
     ],
@@ -67,16 +77,6 @@
     [
       "How I Built “The Monospace Web”",
       "https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-26, 08:53:48",
-      "https://lobste.rs/s/r1vvqf/reproducible_data_science_environments"
-    ],
-    [
-      "Reproducible Data Science Environments with Nix",
-      "https://cran.r-project.org/web/packages/rix/index.html"
     ]
   ],
   [
