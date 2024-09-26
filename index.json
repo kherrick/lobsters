@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-25, 20:43:19",
+      "https://lobste.rs/s/khqjht/register_allocation_go_compiler"
+    ],
+    [
+      "Register allocation in the Go compiler",
+      "https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation"
+    ]
+  ],
+  [
+    [
       "2024-09-25, 20:27:23",
       "https://lobste.rs/s/pca7h0/eliminating_memory_safety"
     ],
@@ -17,6 +27,16 @@
     [
       "Mozilla faces a privacy complaint over Firefox's tracking",
       "https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-25, 19:58:19",
+      "https://lobste.rs/s/dnydbg/behavorial_programming_clojure"
+    ],
+    [
+      "Behavorial Programming in Clojure",
+      "https://thomascothran.tech/2024/09/in-clojure/"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Three-State Stability",
       "https://matklad.github.io/2023/02/16/three-state-stability.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 18:01:42",
-      "https://lobste.rs/s/d4dapf/winamp_legacy_source_code"
-    ],
-    [
-      "Winamp Legacy source code",
-      "https://github.com/WinampDesktop/winamp"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 13:11:14",
-      "https://lobste.rs/s/j0kz8g/devenv_1_2_tasks_for_convergent"
-    ],
-    [
-      "devenv 1.2: Tasks for convergent configuration with Nix",
-      "https://devenv.sh/blog/2024/09/24/devenv-12-tasks-for-convergent-configuration-with-nix/"
     ]
   ]
 ]
