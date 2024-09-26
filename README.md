@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-26, 13:48:32](https://lobste.rs/s/7oddmr/announcing_hotwire_native) - [Announcing Hotwire Native](https://dev.37signals.com/announcing-hotwire-native/)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
 * [2024-09-26, 12:34:41](https://lobste.rs/s/hldqi2/table_format_interoperability_future) - [Table format interoperability, future or fantasy? —](https://jack-vanlightly.com/blog/2024/9/26/table-format-interoperability-future-or-fantasy)
@@ -9,7 +10,6 @@
 * [2024-09-26, 08:49:29](https://lobste.rs/s/u17hct/public_web_comments_with_cloudflare) - [Public Web Comments with Cloudflare Email Workers](https://catskull.net/replies.html)
 * [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 * [2024-09-26, 05:23:47](https://lobste.rs/s/v6lhfv/automattic_s_actionable_misconduct) - [Automattic’s Actionable Misconduct Directed to WP Engine](https://wpengine.com/wp-content/uploads/2024/09/Cease-and-Desist-Letter-to-Automattic-and-Request-to-Preserve-Documents-Sent.pdf)
-* [2024-09-26, 02:10:00](https://lobste.rs/s/wtdye5/mir_module_level_rwx_permissions_for_node) - [mir: Module-level RWX permissions for Node.js](https://github.com/andromeda/mir)
 * [2024-09-26, 01:48:22](https://lobste.rs/s/2mcdqp/llm_interpolate_interpolate_between) - [llm-interpolate: Interpolate between embedding points with llm](https://github.com/vagos/llm-interpolate)
 * [2024-09-25, 20:43:19](https://lobste.rs/s/khqjht/register_allocation_go_compiler) - [Register allocation in the Go compiler](https://developers.redhat.com/articles/2024/09/24/go-compiler-register-allocation)
 * [2024-09-25, 20:27:23](https://lobste.rs/s/pca7h0/eliminating_memory_safety) - [Eliminating memory safety vulnerabilities at the source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
