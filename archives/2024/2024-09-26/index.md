@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-26](index.md)
 
+* [2024-09-26, 11:51:01](https://lobste.rs/s/ppq8vm/introducing_tods_typographic_opentype) - [Introducing TODS – a typographic and OpenType default stylesheet](https://clagnut.com/blog/2433/)
 * [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
 * [2024-09-26, 08:53:48](https://lobste.rs/s/r1vvqf/reproducible_data_science_environments) - [Reproducible Data Science Environments with Nix](https://cran.r-project.org/web/packages/rix/index.html)
 * [2024-09-26, 08:49:29](https://lobste.rs/s/u17hct/public_web_comments_with_cloudflare) - [Public Web Comments with Cloudflare Email Workers](https://catskull.net/replies.html)
