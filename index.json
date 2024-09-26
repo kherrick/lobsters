@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-26, 13:13:32",
+      "https://lobste.rs/s/uody9s/postgresql_17_released"
+    ],
+    [
+      "PostgreSQL 17 Released",
+      "https://www.postgresql.org/about/news/postgresql-17-released-2936/"
+    ]
+  ],
+  [
+    [
+      "2024-09-26, 12:57:33",
+      "https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates"
+    ],
+    [
+      "OCaml - Dune Developer Preview Updates",
+      "https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7"
+    ]
+  ],
+  [
+    [
       "2024-09-26, 12:34:41",
       "https://lobste.rs/s/hldqi2/table_format_interoperability_future"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-09-25, 19:45:49",
-      "https://lobste.rs/s/nkucj4/severe_unauthenticated_rce_flaw_cvss_9_9"
-    ],
-    [
-      "Severe Unauthenticated RCE Flaw (CVSS 9.9) in GNU/Linux Systems Awaiting Full Disclosure",
-      "https://securityonline.info/severe-unauthenticated-rce-flaw-cvss-9-9-in-gnu-linux-systems-awaiting-full-disclosure/"
-    ]
-  ],
-  [
-    [
       "2024-09-25, 19:12:39",
       "https://lobste.rs/s/6h2kk9/similar_different"
     ],
@@ -237,16 +247,6 @@
     [
       "XKCD 1425 (Tasks) turns ten years old today",
       "https://simonwillison.net/2024/Sep/24/xkcd-1425-turns-ten-years-old-today/"
-    ]
-  ],
-  [
-    [
-      "2024-09-24, 23:16:08",
-      "https://lobste.rs/s/7hbvpa/committing_rust_kernel"
-    ],
-    [
-      "Committing to Rust in the kernel",
-      "https://lwn.net/SubscriberLink/991062/b0df468b40b21f5d/"
     ]
   ]
 ]
