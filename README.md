@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-27, 04:46:49](https://lobste.rs/s/ok2oly/inside_ole_1995) - [Inside OLE (1995)](https://github.com/kraigb/InsideOLE)
 * [2024-09-27, 04:15:41](https://lobste.rs/s/6uhhrr/llms_great_for_business_bad_business) - [LLMs: great for business but bad business](https://ashishb.net/all/llms-great-for-business-but-bad-business/)
 * [2024-09-27, 03:02:45](https://lobste.rs/s/02njfl/kamal_2_0_released) - [Kamal 2.0 released](https://dev.37signals.com/kamal-2/)
 * [2024-09-27, 01:28:48](https://lobste.rs/s/doye0x/few_lesser_known_tricks_quirks_features_c) - [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
@@ -18,7 +19,6 @@
 * [2024-09-26, 13:48:32](https://lobste.rs/s/7oddmr/announcing_hotwire_native) - [Announcing Hotwire Native](https://dev.37signals.com/announcing-hotwire-native/)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
-* [2024-09-26, 12:15:07](https://lobste.rs/s/kc9wcw/flexing_windows_rras_bgp_implementation) - [Flexing the Windows RRAS BGP implementation](https://blog.benjojo.co.uk/post/flexing-windows-rras-bgp-stack-ipv6)
 * [2024-09-26, 11:51:01](https://lobste.rs/s/ppq8vm/introducing_tods_typographic_opentype) - [Introducing TODS – a typographic and OpenType default stylesheet](https://clagnut.com/blog/2433/)
 * [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
 * [2024-09-26, 08:49:29](https://lobste.rs/s/u17hct/public_web_comments_with_cloudflare) - [Public Web Comments with Cloudflare Email Workers](https://catskull.net/replies.html)
