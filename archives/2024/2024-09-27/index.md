@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 19:48:20](https://lobste.rs/s/keol4b/gpd_pocket_3_mini_laptop_review_2021) - [GPD Pocket 3 mini-laptop review (2021)](https://liliputing.com/gpd-pocket-3-mini-laptop-review/)
 * [2024-09-27, 19:48:20](https://lobste.rs/s/keol4b/gpd_pocket_3_mini_laptop_review) - [GPD Pocket 3 mini-laptop review](https://liliputing.com/gpd-pocket-3-mini-laptop-review/)
 * [2024-09-27, 19:33:49](https://lobste.rs/s/fap9ab/obsessed_with_cuttle_parametric_cad_for) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastinating](https://hannahilea.com/blog/cuttle-obsession/)
 * [2024-09-27, 18:53:40](https://lobste.rs/s/newopw/making_8_bit_music_from_scratch_at) - [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
