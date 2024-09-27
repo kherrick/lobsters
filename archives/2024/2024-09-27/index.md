@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 13:27:21](https://lobste.rs/s/xen4zn/stop_writing_classes) - [Stop Writing Classes](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
 * [2024-09-27, 12:46:38](https://lobste.rs/s/c7tooh/sensor_watch_pro) - [Sensor Watch Pro](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro)
 * [2024-09-27, 12:42:18](https://lobste.rs/s/v1wqgc/watching_tv_with_second_party_first_look) - [Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/html/2409.06203v1)
 * [2024-09-27, 12:39:37](https://lobste.rs/s/mnaclf/couchdb_3_4_1_released) - [CouchDB 3.4.1 released](https://blog.couchdb.org/2024/09/27/3-4-1/)
