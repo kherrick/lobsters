@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 11:47:29](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 * [2024-09-27, 09:29:43](https://lobste.rs/s/zgxm7i/hacking_kia_remotely_controlling_cars) - [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
 * [2024-09-27, 09:19:04](https://lobste.rs/s/jkxfvz/rearchitecting_redis_sqlite) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
