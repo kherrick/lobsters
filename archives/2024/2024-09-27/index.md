@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 12:46:38](https://lobste.rs/s/c7tooh/sensor_watch_pro) - [Sensor Watch Pro](https://www.crowdsupply.com/oddly-specific-objects/sensor-watch-pro)
+* [2024-09-27, 12:42:18](https://lobste.rs/s/v1wqgc/watching_tv_with_second_party_first_look) - [Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/html/2409.06203v1)
+* [2024-09-27, 12:39:37](https://lobste.rs/s/mnaclf/couchdb_3_4_1_released) - [CouchDB 3.4.1 released](https://blog.couchdb.org/2024/09/27/3-4-1/)
 * [2024-09-27, 11:47:29](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 * [2024-09-27, 09:29:43](https://lobste.rs/s/zgxm7i/hacking_kia_remotely_controlling_cars) - [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
