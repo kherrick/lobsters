@@ -19,12 +19,12 @@
 * [2024-09-26, 19:28:04](https://lobste.rs/s/zgf9dq/10_years_programming) - [10 Years of Programming](https://jonathan-frere.com/posts/10-years-of-programming/)
 * [2024-09-26, 17:22:19](https://lobste.rs/s/ow1nwv/announcing_bcd_watch) - [Announcing BCD Watch](https://meyerweb.com/eric/thoughts/2024/09/23/announcing-bcd-watch/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
+* [2024-09-26, 13:48:32](https://lobste.rs/s/7oddmr/announcing_hotwire_native) - [Announcing Hotwire Native](https://dev.37signals.com/announcing-hotwire-native/)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
 * [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
 * [2024-09-26, 08:49:29](https://lobste.rs/s/u17hct/public_web_comments_with_cloudflare) - [Public Web Comments with Cloudflare Email Workers](https://catskull.net/replies.html)
 * [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
-* [2024-09-25, 20:27:23](https://lobste.rs/s/pca7h0/eliminating_memory_safety) - [Eliminating memory safety vulnerabilities at the source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 
 ## [Archives](archives/index.md)
 
