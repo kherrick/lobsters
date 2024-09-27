@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-27, 18:53:40](https://lobste.rs/s/newopw/making_8_bit_music_from_scratch_at) - [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
 * [2024-09-27, 18:34:22](https://lobste.rs/s/wzgpua/flare_on_challenge) - [The Flare-On Challenge](https://flare-on.com/)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 17:34:01](https://lobste.rs/s/py0ga9/sql_tips_tricks) - [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
@@ -15,7 +16,6 @@
 * [2024-09-27, 04:15:41](https://lobste.rs/s/6uhhrr/llms_great_for_business_bad_business) - [LLMs: great for business but bad business](https://ashishb.net/all/llms-great-for-business-but-bad-business/)
 * [2024-09-27, 01:28:48](https://lobste.rs/s/doye0x/few_lesser_known_tricks_quirks_features_c) - [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 * [2024-09-26, 21:30:35](https://lobste.rs/s/nb519k/github_won_t_let_me_turn_off_2fa) - [GitHub won't let me turn off 2FA](https://skye.fyi/2024/09/github-security)
-* [2024-09-26, 20:36:19](https://lobste.rs/s/gh3hv5/why_are_my_zfs_disks_so_noisy) - [Why are my ZFS disks so noisy?](https://allthingsopen.org/articles/noisy-zfs-disks)
 * [2024-09-26, 20:24:43](https://lobste.rs/s/kujk5a/tcl_tk_9_0) - [Tcl/Tk 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 20:20:05](https://lobste.rs/s/uuf54r/catching_up_on_wordpress_wp_engine_sitch) - [Catching Up On The WordPress WP Engine Sitch](https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/)
 * [2024-09-26, 20:01:10](https://lobste.rs/s/nqjmcy/attacking_unix_systems_via_cups_part_i) - [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
