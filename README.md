@@ -2,11 +2,11 @@
 
 * [2024-09-27, 22:16:45](https://lobste.rs/s/vpiq5r/fips_compliance_hkdf) - [The FIPS Compliance of HKDF](https://words.filippo.io/dispatches/fips-hkdf/)
 * [2024-09-27, 19:48:20](https://lobste.rs/s/keol4b/gpd_pocket_3_mini_laptop_review_2021) - [GPD Pocket 3 mini-laptop review (2021)](https://liliputing.com/gpd-pocket-3-mini-laptop-review/)
+* [2024-09-27, 19:33:49](https://lobste.rs/s/fap9ab/obsessed_with_cuttle_parametric_cad_for) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastinating](https://hannahilea.com/blog/cuttle-obsession/)
 * [2024-09-27, 18:53:40](https://lobste.rs/s/newopw/making_8_bit_music_from_scratch_at) - [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 17:34:01](https://lobste.rs/s/py0ga9/sql_tips_tricks) - [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 * [2024-09-27, 17:20:43](https://lobste.rs/s/1jj1er/web_components_are_not_future) - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
-* [2024-09-27, 16:03:35](https://lobste.rs/s/p6xdfr/journey_migrating_our_browser_extension) - [The Journey of Migrating Our Browser Extension from Plasmo to WXT Framework](https://chatgptwriter.ai/blog/migrate-plasmo-to-wxt)
 * [2024-09-27, 14:27:08](https://lobste.rs/s/catowb/systemd_ifying_postmarketos_our) - [systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought](https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought)
 * [2024-09-27, 13:27:21](https://lobste.rs/s/xen4zn/stop_writing_classes_2012) - [Stop Writing Classes (2012)](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
 * [2024-09-27, 12:39:37](https://lobste.rs/s/mnaclf/couchdb_3_4_1_released) - [CouchDB 3.4.1 released](https://blog.couchdb.org/2024/09/27/3-4-1/)
