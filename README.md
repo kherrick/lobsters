@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-09-26, 22:00:31](https://lobste.rs/s/rwf8vo/making_overwrite_opt_crazyideas_baby) - [Making overwrite opt-in #crazyideas · baby steps](https://smallcultfollowing.com/babysteps/blog/2024/09/26/overwrite-trait/)
+* [2024-09-27, 01:28:48](https://lobste.rs/s/doye0x/few_lesser_known_tricks_quirks_features_c) - [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
+* [2024-09-27, 01:12:57](https://lobste.rs/s/kkpv0t/fast_alternative_modulo_reduction_2016) - [A fast alternative to the modulo reduction (2016)](https://lemire.me/blog/2016/06/27/a-fast-alternative-to-the-modulo-reduction/)
 * [2024-09-26, 21:30:35](https://lobste.rs/s/nb519k/github_won_t_let_me_turn_off_2fa) - [GitHub won't let me turn off 2FA](https://skye.fyi/2024/09/github-security)
 * [2024-09-26, 20:36:19](https://lobste.rs/s/gh3hv5/why_are_my_zfs_disks_so_noisy) - [Why are my ZFS disks so noisy?](https://allthingsopen.org/articles/noisy-zfs-disks)
 * [2024-09-26, 20:24:43](https://lobste.rs/s/kujk5a/tcl_tk_9_0) - [Tcl/Tk 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
@@ -23,7 +24,6 @@
 * [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 * [2024-09-25, 20:27:23](https://lobste.rs/s/pca7h0/eliminating_memory_safety) - [Eliminating memory safety vulnerabilities at the source](https://security.googleblog.com/2024/09/eliminating-memory-safety-vulnerabilities-Android.html)
 * [2024-09-25, 20:12:31](https://lobste.rs/s/zkppc7/mozilla_faces_privacy_complaint_over) - [Mozilla faces a privacy complaint over Firefox's tracking](https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html)
-* [2024-09-25, 16:28:23](https://lobste.rs/s/khzn8u/fedify_1_0_0_released) - [Fedify 1.0.0 released](https://github.com/dahlia/fedify/discussions/141)
 * [2024-09-25, 07:43:18](https://lobste.rs/s/xmt8sh/whence_n) - [Whence '\\n'?](https://rodarmor.com/blog/whence-newline/)
 
 ## [Archives](archives/index.md)
