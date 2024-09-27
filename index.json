@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-09-27, 01:59:07",
+      "https://lobste.rs/s/zyxait/you_re_probably_not_vulnerable_cups_cve"
+    ],
+    [
+      "You're probably not vulnerable to the CUPS CVE",
+      "https://xeiaso.net/notes/2024/cups-cve/"
+    ]
+  ],
+  [
+    [
       "2024-09-27, 01:28:48",
       "https://lobste.rs/s/doye0x/few_lesser_known_tricks_quirks_features_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Mozilla faces a privacy complaint over Firefox's tracking",
       "https://www.engadget.com/big-tech/mozilla-faces-a-privacy-complaint-over-firefoxs-tracking-134047980.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-25, 07:43:18",
-      "https://lobste.rs/s/xmt8sh/whence_n"
-    ],
-    [
-      "Whence '\\n'?",
-      "https://rodarmor.com/blog/whence-newline/"
     ]
   ]
 ]
