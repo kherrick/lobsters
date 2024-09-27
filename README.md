@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-27, 22:16:45](https://lobste.rs/s/vpiq5r/fips_compliance_hkdf) - [The FIPS Compliance of HKDF](https://words.filippo.io/dispatches/fips-hkdf/)
 * [2024-09-27, 19:48:20](https://lobste.rs/s/keol4b/gpd_pocket_3_mini_laptop_review_2021) - [GPD Pocket 3 mini-laptop review (2021)](https://liliputing.com/gpd-pocket-3-mini-laptop-review/)
 * [2024-09-27, 18:53:40](https://lobste.rs/s/newopw/making_8_bit_music_from_scratch_at) - [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
@@ -22,7 +23,6 @@
 * [2024-09-26, 19:28:04](https://lobste.rs/s/zgf9dq/10_years_programming) - [10 Years of Programming](https://jonathan-frere.com/posts/10-years-of-programming/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
-* [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
 * [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
 * [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 
