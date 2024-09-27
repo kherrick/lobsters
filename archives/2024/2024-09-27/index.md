@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 17:20:43](https://lobste.rs/s/1jj1er/web_components_are_not_future) - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
 * [2024-09-27, 16:03:35](https://lobste.rs/s/p6xdfr/journey_migrating_our_browser_extension) - [The Journey of Migrating Our Browser Extension from Plasmo to WXT Framework](https://chatgptwriter.ai/blog/migrate-plasmo-to-wxt)
 * [2024-09-27, 14:27:08](https://lobste.rs/s/catowb/systemd_ifying_postmarketos_our) - [systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought](https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought)
 * [2024-09-27, 13:27:21](https://lobste.rs/s/xen4zn/stop_writing_classes) - [Stop Writing Classes](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
