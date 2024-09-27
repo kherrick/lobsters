@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-27](index.md)
 
+* [2024-09-27, 18:34:22](https://lobste.rs/s/wzgpua/flare_on_challenge) - [The Flare-On Challenge](https://flare-on.com/)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 17:34:01](https://lobste.rs/s/py0ga9/sql_tips_tricks) - [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 * [2024-09-27, 17:20:43](https://lobste.rs/s/1jj1er/web_components_are_not_future) - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)

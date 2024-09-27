@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-27, 18:34:22](https://lobste.rs/s/wzgpua/flare_on_challenge) - [The Flare-On Challenge](https://flare-on.com/)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 17:34:01](https://lobste.rs/s/py0ga9/sql_tips_tricks) - [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
 * [2024-09-27, 17:20:43](https://lobste.rs/s/1jj1er/web_components_are_not_future) - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
@@ -19,7 +20,6 @@
 * [2024-09-26, 20:20:05](https://lobste.rs/s/uuf54r/catching_up_on_wordpress_wp_engine_sitch) - [Catching Up On The WordPress WP Engine Sitch](https://css-tricks.com/catching-up-on-the-wordpress-wp-engine-sitch/)
 * [2024-09-26, 20:01:10](https://lobste.rs/s/nqjmcy/attacking_unix_systems_via_cups_part_i) - [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 * [2024-09-26, 19:28:04](https://lobste.rs/s/zgf9dq/10_years_programming) - [10 Years of Programming](https://jonathan-frere.com/posts/10-years-of-programming/)
-* [2024-09-26, 17:22:19](https://lobste.rs/s/ow1nwv/announcing_bcd_watch) - [Announcing BCD Watch](https://meyerweb.com/eric/thoughts/2024/09/23/announcing-bcd-watch/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
