@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-27, 16:03:35](https://lobste.rs/s/p6xdfr/journey_migrating_our_browser_extension) - [The Journey of Migrating Our Browser Extension from Plasmo to WXT Framework](https://chatgptwriter.ai/blog/migrate-plasmo-to-wxt)
 * [2024-09-27, 14:27:08](https://lobste.rs/s/catowb/systemd_ifying_postmarketos_our) - [systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought](https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought)
 * [2024-09-27, 13:27:21](https://lobste.rs/s/xen4zn/stop_writing_classes) - [Stop Writing Classes](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
 * [2024-09-27, 12:42:18](https://lobste.rs/s/v1wqgc/watching_tv_with_second_party_first_look) - [Watching TV with the Second-Party: A First Look at Automatic Content Recognition Tracking in Smart TVs](https://arxiv.org/html/2409.06203v1)
@@ -19,7 +20,6 @@
 * [2024-09-26, 19:28:04](https://lobste.rs/s/zgf9dq/10_years_programming) - [10 Years of Programming](https://jonathan-frere.com/posts/10-years-of-programming/)
 * [2024-09-26, 17:22:19](https://lobste.rs/s/ow1nwv/announcing_bcd_watch) - [Announcing BCD Watch](https://meyerweb.com/eric/thoughts/2024/09/23/announcing-bcd-watch/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
-* [2024-09-26, 13:48:32](https://lobste.rs/s/7oddmr/announcing_hotwire_native) - [Announcing Hotwire Native](https://dev.37signals.com/announcing-hotwire-native/)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
 * [2024-09-26, 12:57:33](https://lobste.rs/s/u3jkyn/ocaml_dune_developer_preview_updates) - [OCaml - Dune Developer Preview Updates](https://discuss.ocaml.org/t/ann-dune-developer-preview-updates/15160/7)
 * [2024-09-26, 09:16:54](https://lobste.rs/s/9wjqpa/how_i_built_monospace_web) - [How I Built “The Monospace Web”](https://wickstrom.tech/2024-09-26-how-i-built-the-monospace-web.html)
