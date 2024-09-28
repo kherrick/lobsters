@@ -5,6 +5,7 @@
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 * [2024-09-28, 03:05:55](https://lobste.rs/s/wcgces/dramhit_hash_table_architected_for_speed) - [DRAMHiT: A Hash Table Architected for the Speed of DRAM (2023)](https://dl.acm.org/doi/pdf/10.1145/3552326.3587457)
 * [2024-09-27, 22:16:45](https://lobste.rs/s/vpiq5r/fips_compliance_hkdf) - [The FIPS Compliance of HKDF](https://words.filippo.io/dispatches/fips-hkdf/)
+* [2024-09-27, 19:48:20](https://lobste.rs/s/keol4b/gpd_pocket_3_mini_laptop_review_2021) - [GPD Pocket 3 mini-laptop review (2021)](https://liliputing.com/gpd-pocket-3-mini-laptop-review/)
 * [2024-09-27, 19:33:49](https://lobste.rs/s/fap9ab/obsessed_with_cuttle_parametric_cad_for) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastinating](https://hannahilea.com/blog/cuttle-obsession/)
 * [2024-09-27, 18:53:40](https://lobste.rs/s/newopw/making_8_bit_music_from_scratch_at) - [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
@@ -24,7 +25,6 @@
 * [2024-09-26, 20:01:10](https://lobste.rs/s/nqjmcy/attacking_unix_systems_via_cups_part_i) - [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 * [2024-09-26, 17:03:41](https://lobste.rs/s/s0xyib/time_as_grid) - [Time as a Grid](https://joshleeb.com/posts/gridclock.html)
 * [2024-09-26, 13:13:32](https://lobste.rs/s/uody9s/postgresql_17_released) - [PostgreSQL 17 Released](https://www.postgresql.org/about/news/postgresql-17-released-2936/)
-* [2024-09-26, 06:22:35](https://lobste.rs/s/29a1eo/rewriting_rust) - [Rewriting Rust](https://josephg.com/blog/rewriting-rust/)
 
 ## [Archives](archives/index.md)
 
