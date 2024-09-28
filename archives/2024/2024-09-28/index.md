@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 10:43:11](https://lobste.rs/s/25oe04/cpython_runtime_internals_key_data) - [CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping](https://blog.codingconfessions.com/p/cpython-runtime-internals)
 * [2024-09-28, 10:23:49](https://lobste.rs/s/llvo4w/some_go_web_dev_notes) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-28, 09:25:36](https://lobste.rs/s/cz2diy/iterators_go) - [Iterators in Go](https://bitfieldconsulting.com/posts/iterators)
 * [2024-09-28, 07:56:31](https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own) - [It is never too late to write your own blazingly fast C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
