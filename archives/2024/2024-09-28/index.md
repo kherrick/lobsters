@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 16:29:01](https://lobste.rs/s/c7hll8/perils_transition_64_bit_time_t) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 16:14:54](https://lobste.rs/s/mzqmv2/doom_ios_photos_app_kind) - [DOOM in the iOS Photos app (kind of)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
 * [2024-09-28, 16:13:12](https://lobste.rs/s/bo6vtb/secret_lives_data) - [The Secret Lives of Data](https://visual.ofcoder.com/)
 * [2024-09-28, 15:02:46](https://lobste.rs/s/dftyyb/crust_rust_iterators_2020) - [Crust of Rust: Iterators (2020)](https://youtu.be/yozQ9C69pNs)
