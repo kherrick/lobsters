@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-28, 15:02:46](https://lobste.rs/s/dftyyb/crust_rust_iterators_2020) - [Crust of Rust: Iterators (2020)](https://youtu.be/yozQ9C69pNs)
 * [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-28, 11:14:14](https://lobste.rs/s/r0c4ct/shredding_code) - [Shredding Code](https://registerspill.thorstenball.com/p/skin-shedding-code)
@@ -19,7 +20,6 @@
 * [2024-09-27, 17:20:43](https://lobste.rs/s/1jj1er/web_components_are_not_future) - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
 * [2024-09-27, 14:27:08](https://lobste.rs/s/catowb/systemd_ifying_postmarketos_our) - [systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought](https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought)
 * [2024-09-27, 13:27:21](https://lobste.rs/s/xen4zn/stop_writing_classes_2012) - [Stop Writing Classes (2012)](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
-* [2024-09-27, 11:47:29](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 * [2024-09-27, 09:29:43](https://lobste.rs/s/zgxm7i/hacking_kia_remotely_controlling_cars) - [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
 * [2024-09-27, 01:28:48](https://lobste.rs/s/doye0x/few_lesser_known_tricks_quirks_features_c) - [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
