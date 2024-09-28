@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-28, 16:14:54](https://lobste.rs/s/mzqmv2/doom_ios_photos_app_kind) - [DOOM in the iOS Photos app (kind of)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
+* [2024-09-28, 16:13:12](https://lobste.rs/s/bo6vtb/secret_lives_data) - [The Secret Lives of Data](https://visual.ofcoder.com/)
 * [2024-09-28, 15:02:46](https://lobste.rs/s/dftyyb/crust_rust_iterators_2020) - [Crust of Rust: Iterators (2020)](https://youtu.be/yozQ9C69pNs)
 * [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
@@ -13,7 +15,6 @@
 * [2024-09-28, 04:56:38](https://lobste.rs/s/8bictc/how_not_change_postgresql_column_type) - [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 * [2024-09-28, 03:05:55](https://lobste.rs/s/wcgces/dramhit_hash_table_architected_for_speed) - [DRAMHiT: A Hash Table Architected for the Speed of DRAM (2023)](https://dl.acm.org/doi/pdf/10.1145/3552326.3587457)
-* [2024-09-27, 19:48:20](https://lobste.rs/s/keol4b/gpd_pocket_3_mini_laptop_review_2021) - [GPD Pocket 3 mini-laptop review (2021)](https://liliputing.com/gpd-pocket-3-mini-laptop-review/)
 * [2024-09-27, 18:53:40](https://lobste.rs/s/newopw/making_8_bit_music_from_scratch_at) - [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 17:34:01](https://lobste.rs/s/py0ga9/sql_tips_tricks) - [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
@@ -22,7 +23,6 @@
 * [2024-09-27, 13:27:21](https://lobste.rs/s/xen4zn/stop_writing_classes_2012) - [Stop Writing Classes (2012)](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 * [2024-09-27, 09:29:43](https://lobste.rs/s/zgxm7i/hacking_kia_remotely_controlling_cars) - [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
-* [2024-09-27, 01:28:48](https://lobste.rs/s/doye0x/few_lesser_known_tricks_quirks_features_c) - [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 * [2024-09-26, 20:24:43](https://lobste.rs/s/kujk5a/tcl_tk_9_0) - [Tcl/Tk 9.0](https://www.tcl-lang.org/software/tcltk/9.0.html?post=new)
 * [2024-09-26, 20:01:10](https://lobste.rs/s/nqjmcy/attacking_unix_systems_via_cups_part_i) - [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 

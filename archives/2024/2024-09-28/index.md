@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 16:14:54](https://lobste.rs/s/mzqmv2/doom_ios_photos_app_kind) - [DOOM in the iOS Photos app (kind of)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
+* [2024-09-28, 16:13:12](https://lobste.rs/s/bo6vtb/secret_lives_data) - [The Secret Lives of Data](https://visual.ofcoder.com/)
 * [2024-09-28, 15:02:46](https://lobste.rs/s/dftyyb/crust_rust_iterators_2020) - [Crust of Rust: Iterators (2020)](https://youtu.be/yozQ9C69pNs)
 * [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
