@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-28, 07:56:31",
+      "https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own"
+    ],
+    [
+      "It is never too late to write your own blazingly fast C++ command-line utilities",
+      "https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/"
+    ]
+  ],
+  [
+    [
       "2024-09-28, 07:03:40",
       "https://lobste.rs/s/0ycspl/css_property_new_style"
     ],
@@ -207,16 +217,6 @@
     [
       "Few lesser known tricks, quirks and features of C",
       "https://jorenar.com/blog/less-known-c"
-    ]
-  ],
-  [
-    [
-      "2024-09-26, 21:30:35",
-      "https://lobste.rs/s/nb519k/github_won_t_let_me_turn_off_2fa"
-    ],
-    [
-      "GitHub won't let me turn off 2FA",
-      "https://skye.fyi/2024/09/github-security"
     ]
   ],
   [
