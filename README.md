@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-28, 09:25:36](https://lobste.rs/s/cz2diy/iterators_go) - [Iterators in Go](https://bitfieldconsulting.com/posts/iterators)
 * [2024-09-28, 07:56:31](https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own) - [It is never too late to write your own blazingly fast C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
 * [2024-09-28, 07:03:40](https://lobste.rs/s/0ycspl/css_property_new_style) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
 * [2024-09-28, 06:56:32](https://lobste.rs/s/9fsjqt/other_bubble) - [The Other Bubble](https://www.wheresyoured.at/saaspocalypse-now/)
@@ -16,7 +17,6 @@
 * [2024-09-27, 17:20:43](https://lobste.rs/s/1jj1er/web_components_are_not_future) - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
 * [2024-09-27, 14:27:08](https://lobste.rs/s/catowb/systemd_ifying_postmarketos_our) - [systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought](https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought)
 * [2024-09-27, 13:27:21](https://lobste.rs/s/xen4zn/stop_writing_classes_2012) - [Stop Writing Classes (2012)](https://pyvideo.org/pycon-us-2012/stop-writing-classes.html)
-* [2024-09-27, 12:39:37](https://lobste.rs/s/mnaclf/couchdb_3_4_1_released) - [CouchDB 3.4.1 released](https://blog.couchdb.org/2024/09/27/3-4-1/)
 * [2024-09-27, 11:47:29](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 * [2024-09-27, 09:29:43](https://lobste.rs/s/zgxm7i/hacking_kia_remotely_controlling_cars) - [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
