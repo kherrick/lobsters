@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-28, 07:03:40",
+      "https://lobste.rs/s/0ycspl/css_property_new_style"
+    ],
+    [
+      "CSS @property and the New Style",
+      "https://ryanmulligan.dev/blog/css-property-new-style/"
+    ]
+  ],
+  [
+    [
       "2024-09-28, 06:56:32",
       "https://lobste.rs/s/9fsjqt/other_bubble"
     ],
@@ -177,16 +187,6 @@
     [
       "Hacking Kia: Remotely Controlling Cars With Just a License Plate",
       "https://samcurry.net/hacking-kia"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 09:19:04",
-      "https://lobste.rs/s/jkxfvz/rearchitecting_redis_sqlite"
-    ],
-    [
-      "Rearchitecting: Redis to SQLite",
-      "https://wafris.org/blog/rearchitecting-for-sqlite"
     ]
   ],
   [
