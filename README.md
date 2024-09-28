@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-28, 10:23:49](https://lobste.rs/s/llvo4w/some_go_web_dev_notes) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-28, 09:25:36](https://lobste.rs/s/cz2diy/iterators_go) - [Iterators in Go](https://bitfieldconsulting.com/posts/iterators)
 * [2024-09-28, 07:56:31](https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own) - [It is never too late to write your own blazingly fast C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
 * [2024-09-28, 07:03:40](https://lobste.rs/s/0ycspl/css_property_new_style) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
@@ -10,7 +11,6 @@
 * [2024-09-28, 03:05:55](https://lobste.rs/s/wcgces/dramhit_hash_table_architected_for_speed) - [DRAMHiT: A Hash Table Architected for the Speed of DRAM (2023)](https://dl.acm.org/doi/pdf/10.1145/3552326.3587457)
 * [2024-09-27, 22:16:45](https://lobste.rs/s/vpiq5r/fips_compliance_hkdf) - [The FIPS Compliance of HKDF](https://words.filippo.io/dispatches/fips-hkdf/)
 * [2024-09-27, 19:48:20](https://lobste.rs/s/keol4b/gpd_pocket_3_mini_laptop_review_2021) - [GPD Pocket 3 mini-laptop review (2021)](https://liliputing.com/gpd-pocket-3-mini-laptop-review/)
-* [2024-09-27, 19:33:49](https://lobste.rs/s/fap9ab/obsessed_with_cuttle_parametric_cad_for) - [Obsessed with Cuttle: Parametric CAD for prototyping, producing, and procrastinating](https://hannahilea.com/blog/cuttle-obsession/)
 * [2024-09-27, 18:53:40](https://lobste.rs/s/newopw/making_8_bit_music_from_scratch_at) - [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 17:34:01](https://lobste.rs/s/py0ga9/sql_tips_tricks) - [SQL tips and tricks](https://github.com/ben-n93/SQL-tips-and-tricks)
