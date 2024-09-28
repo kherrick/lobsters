@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-28, 21:01:35](https://lobste.rs/s/xqsixd/control_structures) - [Control structures](https://xavierleroy.org/CdF/2023-2024/)
 * [2024-09-28, 20:02:39](https://lobste.rs/s/dcdgv2/unbackslash) - [Unbackslash](https://www.tbray.org/ongoing/When/202x/2024/09/22/Unbackslashing)
 * [2024-09-28, 18:50:21](https://lobste.rs/s/oztixk/notes_from_dynamicland_geokit_2018) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 * [2024-09-28, 17:44:47](https://lobste.rs/s/mhbh17/changelogs_release_notes) - [Changelogs and Release Notes](https://harihareswara.net/posts/2024/changelogs-and-release-notes/)
@@ -20,7 +21,6 @@
 * [2024-09-28, 04:56:38](https://lobste.rs/s/8bictc/how_not_change_postgresql_column_type) - [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 * [2024-09-28, 03:05:55](https://lobste.rs/s/wcgces/dramhit_hash_table_architected_for_speed) - [DRAMHiT: A Hash Table Architected for the Speed of DRAM (2023)](https://dl.acm.org/doi/pdf/10.1145/3552326.3587457)
-* [2024-09-27, 18:53:40](https://lobste.rs/s/newopw/making_8_bit_music_from_scratch_at) - [Making 8-bit Music From Scratch at the Commodore 64 BASIC Prompt](http://www.linusakesson.net/programming/music-from-scratch/index.php)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 17:20:43](https://lobste.rs/s/1jj1er/web_components_are_not_future) - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)

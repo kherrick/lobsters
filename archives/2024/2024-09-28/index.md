@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 21:01:35](https://lobste.rs/s/xqsixd/control_structures) - [Control structures](https://xavierleroy.org/CdF/2023-2024/)
 * [2024-09-28, 20:02:39](https://lobste.rs/s/dcdgv2/unbackslash) - [Unbackslash](https://www.tbray.org/ongoing/When/202x/2024/09/22/Unbackslashing)
 * [2024-09-28, 18:50:21](https://lobste.rs/s/oztixk/notes_from_dynamicland_geokit_2018) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 * [2024-09-28, 17:44:47](https://lobste.rs/s/mhbh17/changelogs_release_notes) - [Changelogs and Release Notes](https://harihareswara.net/posts/2024/changelogs-and-release-notes/)
