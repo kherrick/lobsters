@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-28, 11:14:14](https://lobste.rs/s/r0c4ct/shredding_code) - [Shredding Code](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2024-09-28, 10:43:11](https://lobste.rs/s/25oe04/cpython_runtime_internals_key_data) - [CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping](https://blog.codingconfessions.com/p/cpython-runtime-internals)
@@ -7,7 +8,6 @@
 * [2024-09-28, 09:25:36](https://lobste.rs/s/cz2diy/iterators_go) - [Iterators in Go](https://bitfieldconsulting.com/posts/iterators)
 * [2024-09-28, 07:56:31](https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own) - [It is never too late to write your own blazingly fast C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
 * [2024-09-28, 07:03:40](https://lobste.rs/s/0ycspl/css_property_new_style) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
-* [2024-09-28, 06:56:32](https://lobste.rs/s/9fsjqt/other_bubble) - [The Other Bubble](https://www.wheresyoured.at/saaspocalypse-now/)
 * [2024-09-28, 04:59:00](https://lobste.rs/s/odahgd/collaborative_text_editing_with_eg) - [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-28, 04:56:38](https://lobste.rs/s/8bictc/how_not_change_postgresql_column_type) - [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)

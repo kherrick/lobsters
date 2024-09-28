@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-28](index.md)
 
+* [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-28, 11:14:14](https://lobste.rs/s/r0c4ct/shredding_code) - [Shredding Code](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2024-09-28, 10:43:11](https://lobste.rs/s/25oe04/cpython_runtime_internals_key_data) - [CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping](https://blog.codingconfessions.com/p/cpython-runtime-internals)
