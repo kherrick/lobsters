@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-28, 18:50:21](https://lobste.rs/s/oztixk/notes_from_dynamicland_geokit_2018) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 * [2024-09-28, 17:44:47](https://lobste.rs/s/mhbh17/changelogs_release_notes) - [Changelogs and Release Notes](https://harihareswara.net/posts/2024/changelogs-and-release-notes/)
 * [2024-09-28, 17:19:03](https://lobste.rs/s/2hak0j/knowledge_graphs_tracking_historical) - [Knowledge Graphs – Tracking the historical events that lead to the interweaving of data and knowledge](https://cacm.acm.org/research/knowledge-graphs/)
 * [2024-09-28, 16:29:01](https://lobste.rs/s/c7hll8/perils_transition_64_bit_time_t) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
@@ -24,7 +25,6 @@
 * [2024-09-27, 14:27:08](https://lobste.rs/s/catowb/systemd_ifying_postmarketos_our) - [systemd-ifying postmarketOS, our immutable future, and why Alpine is cooler than you thought](https://media.ccc.de/v/all-systems-go-2024-278-systemd-ifying-postmarketos-our-immutable-future-and-why-alpine-is-cooler-than-you-thought)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 * [2024-09-27, 09:29:43](https://lobste.rs/s/zgxm7i/hacking_kia_remotely_controlling_cars) - [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
-* [2024-09-26, 20:01:10](https://lobste.rs/s/nqjmcy/attacking_unix_systems_via_cups_part_i) - [Attacking UNIX Systems via CUPS, Part I](https://www.evilsocket.net/2024/09/26/Attacking-UNIX-systems-via-CUPS-Part-I/)
 
 ## [Archives](archives/index.md)
 
