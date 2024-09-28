@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-28, 07:03:40](https://lobste.rs/s/0ycspl/css_property_new_style) - [CSS @property and the New Style](https://ryanmulligan.dev/blog/css-property-new-style/)
 * [2024-09-28, 06:56:32](https://lobste.rs/s/9fsjqt/other_bubble) - [The Other Bubble](https://www.wheresyoured.at/saaspocalypse-now/)
 * [2024-09-28, 04:59:00](https://lobste.rs/s/odahgd/collaborative_text_editing_with_eg) - [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-28, 04:56:38](https://lobste.rs/s/8bictc/how_not_change_postgresql_column_type) - [How not to change PostgreSQL column type](https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/)
@@ -18,7 +19,6 @@
 * [2024-09-27, 11:47:29](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/kghee5/what_are_you_doing_this_weekend)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 * [2024-09-27, 09:29:43](https://lobste.rs/s/zgxm7i/hacking_kia_remotely_controlling_cars) - [Hacking Kia: Remotely Controlling Cars With Just a License Plate](https://samcurry.net/hacking-kia)
-* [2024-09-27, 09:19:04](https://lobste.rs/s/jkxfvz/rearchitecting_redis_sqlite) - [Rearchitecting: Redis to SQLite](https://wafris.org/blog/rearchitecting-for-sqlite)
 * [2024-09-27, 04:15:41](https://lobste.rs/s/6uhhrr/llms_great_for_business_bad_business) - [LLMs: great for business but bad business](https://ashishb.net/all/llms-great-for-business-but-bad-business/)
 * [2024-09-27, 01:28:48](https://lobste.rs/s/doye0x/few_lesser_known_tricks_quirks_features_c) - [Few lesser known tricks, quirks and features of C](https://jorenar.com/blog/less-known-c)
 * [2024-09-26, 21:30:35](https://lobste.rs/s/nb519k/github_won_t_let_me_turn_off_2fa) - [GitHub won't let me turn off 2FA](https://skye.fyi/2024/09/github-security)
