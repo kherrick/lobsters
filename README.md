@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-29, 03:47:01](https://lobste.rs/s/c6lblp/c8c_chip8_compiler_assembler_virtual) - [C8C: A chip8 compiler, assembler, and virtual machine](https://glouw.com/2018/03/05/C8C.html)
 * [2024-09-29, 03:29:46](https://lobste.rs/s/v394wb/dynamic_type_on_web) - [Dynamic Type on the Web](https://furbo.org/2024/07/04/dynamic-type-on-the-web/)
 * [2024-09-29, 02:44:27](https://lobste.rs/s/esfkxa/web_components_are_okay) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
 * [2024-09-29, 00:15:32](https://lobste.rs/s/2j1cdt/notes_on_crystal_language) - [Notes on the Crystal language](https://wiki.alopex.li/CrystalNotes)
@@ -20,7 +21,6 @@
 * [2024-09-28, 07:56:31](https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own) - [It is never too late to write your own blazingly fast C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
 * [2024-09-28, 04:59:00](https://lobste.rs/s/odahgd/collaborative_text_editing_with_eg) - [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
-* [2024-09-28, 03:05:55](https://lobste.rs/s/wcgces/dramhit_hash_table_architected_for_speed) - [DRAMHiT: A Hash Table Architected for the Speed of DRAM (2023)](https://dl.acm.org/doi/pdf/10.1145/3552326.3587457)
 * [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 17:20:43](https://lobste.rs/s/1jj1er/web_components_are_not_future) - [Web Components Are Not the Future](https://dev.to/ryansolid/web-components-are-not-the-future-48bh)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
