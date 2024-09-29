@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-09-28, 10:43:11",
+      "https://lobste.rs/s/25oe04/cpython_runtime_internals_key_data"
+    ],
+    [
+      "CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping",
+      "https://blog.codingconfessions.com/p/cpython-runtime-internals"
+    ]
+  ],
+  [
+    [
       "2024-09-28, 10:23:49",
       "https://lobste.rs/s/llvo4w/some_go_web_dev_notes"
     ],
@@ -217,16 +227,6 @@
     [
       "It is never too late to write your own blazingly fast C++ command-line utilities",
       "https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/"
-    ]
-  ],
-  [
-    [
-      "2024-09-28, 04:59:00",
-      "https://lobste.rs/s/odahgd/collaborative_text_editing_with_eg"
-    ],
-    [
-      "Collaborative Text Editing with Eg-walker: Better, Faster, Smaller",
-      "https://arxiv.org/abs/2409.14252"
     ]
   ],
   [
