@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-29, 20:03:30](https://lobste.rs/s/cj0iwx/what_brings_upgrade_gcc_14_from_gcc_13) - [What brings an upgrade to GCC 14 from GCC 13?](https://www.meetingcpp.com/blog/items/What-brings-an-upgrade-to-GCC-14-from-GCC-13-.html)
+* [2024-09-29, 20:02:41](https://lobste.rs/s/sbti5w/std_initializer_list_c_caveats) - [std::initializer_list in C++  - Caveats and Improvements](https://www.cppstories.com/2023/initializer_list_improvements/)
 * [2024-09-29, 19:35:48](https://lobste.rs/s/w6dqph/build_serverless_acid_database_with_this) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 19:01:24](https://lobste.rs/s/sz5qjv/bpfsnake_snake_bpftrace) - [bpfsnake: snake in bpftrace](https://github.com/amiremohamadi/bpfsnake)
@@ -14,7 +16,6 @@
 * [2024-09-29, 03:29:46](https://lobste.rs/s/v394wb/dynamic_type_on_web) - [Dynamic Type on the Web](https://furbo.org/2024/07/04/dynamic-type-on-the-web/)
 * [2024-09-29, 00:15:32](https://lobste.rs/s/2j1cdt/notes_on_crystal_language) - [Notes on the Crystal language](https://wiki.alopex.li/CrystalNotes)
 * [2024-09-28, 21:01:35](https://lobste.rs/s/xqsixd/control_structures) - [Control structures](https://xavierleroy.org/CdF/2023-2024/)
-* [2024-09-28, 20:02:39](https://lobste.rs/s/dcdgv2/unbackslash) - [Unbackslash](https://www.tbray.org/ongoing/When/202x/2024/09/22/Unbackslashing)
 * [2024-09-28, 18:50:21](https://lobste.rs/s/oztixk/notes_from_dynamicland_geokit_2018) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
 * [2024-09-28, 17:44:47](https://lobste.rs/s/mhbh17/changelogs_release_notes) - [Changelogs and Release Notes](https://harihareswara.net/posts/2024/changelogs-and-release-notes/)
 * [2024-09-28, 16:29:01](https://lobste.rs/s/c7hll8/perils_transition_64_bit_time_t) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
@@ -23,7 +24,6 @@
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-28, 11:14:14](https://lobste.rs/s/r0c4ct/shredding_code) - [Shredding Code](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2024-09-28, 10:23:49](https://lobste.rs/s/llvo4w/some_go_web_dev_notes) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
-* [2024-09-28, 07:56:31](https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own) - [It is never too late to write your own blazingly fast C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 
 ## [Archives](archives/index.md)

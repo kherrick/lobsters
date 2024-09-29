@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 20:03:30](https://lobste.rs/s/cj0iwx/what_brings_upgrade_gcc_14_from_gcc_13) - [What brings an upgrade to GCC 14 from GCC 13?](https://www.meetingcpp.com/blog/items/What-brings-an-upgrade-to-GCC-14-from-GCC-13-.html)
+* [2024-09-29, 20:02:41](https://lobste.rs/s/sbti5w/std_initializer_list_c_caveats) - [std::initializer_list in C++  - Caveats and Improvements](https://www.cppstories.com/2023/initializer_list_improvements/)
 * [2024-09-29, 19:35:48](https://lobste.rs/s/w6dqph/build_serverless_acid_database_with_this) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 19:01:24](https://lobste.rs/s/sz5qjv/bpfsnake_snake_bpftrace) - [bpfsnake: snake in bpftrace](https://github.com/amiremohamadi/bpfsnake)
