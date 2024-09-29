@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-29, 22:16:47](https://lobste.rs/s/91jmdx/prep_golang_comptime_pure_blasphemy) - [Prep: Golang comptime. Pure blasphemy](https://github.com/pijng/prep)
 * [2024-09-29, 20:03:30](https://lobste.rs/s/cj0iwx/what_brings_upgrade_gcc_14_from_gcc_13) - [What brings an upgrade to GCC 14 from GCC 13?](https://www.meetingcpp.com/blog/items/What-brings-an-upgrade-to-GCC-14-from-GCC-13-.html)
 * [2024-09-29, 20:02:41](https://lobste.rs/s/sbti5w/std_initializer_list_c_caveats) - [std::initializer_list in C++  - Caveats and Improvements](https://www.cppstories.com/2023/initializer_list_improvements/)
 * [2024-09-29, 19:35:48](https://lobste.rs/s/w6dqph/build_serverless_acid_database_with_this) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
@@ -17,7 +18,6 @@
 * [2024-09-29, 00:15:32](https://lobste.rs/s/2j1cdt/notes_on_crystal_language) - [Notes on the Crystal language](https://wiki.alopex.li/CrystalNotes)
 * [2024-09-28, 21:01:35](https://lobste.rs/s/xqsixd/control_structures) - [Control structures](https://xavierleroy.org/CdF/2023-2024/)
 * [2024-09-28, 18:50:21](https://lobste.rs/s/oztixk/notes_from_dynamicland_geokit_2018) - [Notes from Dynamicland: Geokit (2018)](https://omar.website/posts/notes-from-dynamicland-geokit/)
-* [2024-09-28, 17:44:47](https://lobste.rs/s/mhbh17/changelogs_release_notes) - [Changelogs and Release Notes](https://harihareswara.net/posts/2024/changelogs-and-release-notes/)
 * [2024-09-28, 16:29:01](https://lobste.rs/s/c7hll8/perils_transition_64_bit_time_t) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 16:14:54](https://lobste.rs/s/mzqmv2/doom_ios_photos_app_kind) - [DOOM in the iOS Photos app (kind of)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
 * [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
