@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-09-29, 00:58:09",
-      "https://lobste.rs/s/diyevq/matrix_conference_on_current"
-    ],
-    [
-      "Matrix conference: On current developments, the state of open source and more",
-      "https://www.heise.de/en/news/Matrix-conference-On-current-developments-the-state-of-open-source-and-more-9951334.html"
-    ]
-  ],
-  [
-    [
       "2024-09-29, 00:15:32",
       "https://lobste.rs/s/2j1cdt/notes_on_crystal_language"
     ],
@@ -187,6 +177,16 @@
     [
       "Collaborative Text Editing with Eg-walker: Better, Faster, Smaller",
       "https://arxiv.org/abs/2409.14252"
+    ]
+  ],
+  [
+    [
+      "2024-09-28, 04:56:38",
+      "https://lobste.rs/s/8bictc/how_not_change_postgresql_column_type"
+    ],
+    [
+      "How not to change PostgreSQL column type",
+      "https://notso.boringsql.com/posts/how-not-to-change-postgresql-column-type/"
     ]
   ],
   [
