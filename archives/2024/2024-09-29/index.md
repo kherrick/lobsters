@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 11:37:46](https://lobste.rs/s/fquuwq/public_domain_problem) - [The Public Domain Problem](https://dpk.land/pubdmn.txt)
 * [2024-09-29, 11:01:32](https://lobste.rs/s/5dymsn/elm_on_backend) - [Elm on The Backend](https://vimeo.com/829416451)
 * [2024-09-29, 10:46:24](https://lobste.rs/s/haxs7o/all_systems_go_2024) - [All Systems Go! 2024](https://media.ccc.de/c/asg2024)
 * [2024-09-29, 08:36:18](https://lobste.rs/s/xhskrk/brackets_are_awesome_don_t_use_them) - [Brackets are awesome, don’t use them](https://www.sebastiansylvan.com/post/brackets-are-awesome-dont-use-them/)
