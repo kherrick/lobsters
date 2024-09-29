@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-29, 19:02:42",
+      "https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from"
+    ],
+    [
+      "Don’t believe the hype: AGI is far from inevitable",
+      "https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 19:01:24",
+      "https://lobste.rs/s/sz5qjv/bpfsnake_snake_bpftrace"
+    ],
+    [
+      "bpfsnake: snake in bpftrace",
+      "https://github.com/amiremohamadi/bpfsnake"
+    ]
+  ],
+  [
+    [
       "2024-09-29, 15:23:19",
       "https://lobste.rs/s/wxlsdn/building_robust_frontend_using"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-09-28, 10:43:11",
-      "https://lobste.rs/s/25oe04/cpython_runtime_internals_key_data"
-    ],
-    [
-      "CPython Runtime Internals: Key Data Structures & Runtime Bootstrapping",
-      "https://blog.codingconfessions.com/p/cpython-runtime-internals"
-    ]
-  ],
-  [
-    [
       "2024-09-28, 10:23:49",
       "https://lobste.rs/s/llvo4w/some_go_web_dev_notes"
     ],
@@ -237,16 +247,6 @@
     [
       "Arch Linux and Valve Collaboration",
       "https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/"
-    ]
-  ],
-  [
-    [
-      "2024-09-27, 11:26:18",
-      "https://lobste.rs/s/lumujn/godot_for_app_development"
-    ],
-    [
-      "Godot for App Development",
-      "http://tiniuc.com/godot-for-apps/"
     ]
   ]
 ]
