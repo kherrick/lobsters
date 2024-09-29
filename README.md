@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-29, 10:46:24](https://lobste.rs/s/haxs7o/all_systems_go_2024) - [All Systems Go! 2024](https://media.ccc.de/c/asg2024)
 * [2024-09-29, 08:36:18](https://lobste.rs/s/xhskrk/brackets_are_awesome_don_t_use_them) - [Brackets are awesome, don’t use them](https://www.sebastiansylvan.com/post/brackets-are-awesome-dont-use-them/)
 * [2024-09-29, 05:04:11](https://lobste.rs/s/zhtrkd/sitina1_open_source_camera) - [Sitina1 Open-source Camera](https://gitlab.com/zephray/sitina1)
 * [2024-09-29, 03:47:01](https://lobste.rs/s/c6lblp/c8c_chip8_compiler_assembler_virtual) - [C8C: A chip8 compiler, assembler, and virtual machine](https://glouw.com/2018/03/05/C8C.html)
@@ -13,7 +14,6 @@
 * [2024-09-28, 16:29:01](https://lobste.rs/s/c7hll8/perils_transition_64_bit_time_t) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 16:14:54](https://lobste.rs/s/mzqmv2/doom_ios_photos_app_kind) - [DOOM in the iOS Photos app (kind of)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
 * [2024-09-28, 16:13:12](https://lobste.rs/s/bo6vtb/secret_lives_data) - [The Secret Lives of Data](https://visual.ofcoder.com/)
-* [2024-09-28, 15:02:46](https://lobste.rs/s/dftyyb/crust_rust_iterators_2020) - [Crust of Rust: Iterators (2020)](https://youtu.be/yozQ9C69pNs)
 * [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-28, 11:14:14](https://lobste.rs/s/r0c4ct/shredding_code) - [Shredding Code](https://registerspill.thorstenball.com/p/skin-shedding-code)
