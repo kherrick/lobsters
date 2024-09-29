@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-29, 13:36:13](https://lobste.rs/s/su9ynw/overbooking_how_providers_divide_up) - [Overbooking - how providers divide up the bandwidth](https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/)
 * [2024-09-29, 11:37:46](https://lobste.rs/s/fquuwq/public_domain_problem) - [The Public Domain Problem](https://dpk.land/pubdmn.txt)
 * [2024-09-29, 11:01:32](https://lobste.rs/s/5dymsn/elm_on_backend) - [Elm on The Backend](https://vimeo.com/829416451)
 * [2024-09-29, 10:46:24](https://lobste.rs/s/haxs7o/all_systems_go_2024) - [All Systems Go! 2024](https://media.ccc.de/c/asg2024)
@@ -23,7 +24,6 @@
 * [2024-09-28, 07:56:31](https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own) - [It is never too late to write your own blazingly fast C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
 * [2024-09-28, 04:59:00](https://lobste.rs/s/odahgd/collaborative_text_editing_with_eg) - [Collaborative Text Editing with Eg-walker: Better, Faster, Smaller](https://arxiv.org/abs/2409.14252)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
-* [2024-09-27, 17:53:02](https://lobste.rs/s/q026l2/openfreemap_free_open_source_map_hosting) - [OpenFreeMap - Free and Open-Source Map Hosting](https://openfreemap.org/)
 * [2024-09-27, 11:26:18](https://lobste.rs/s/lumujn/godot_for_app_development) - [Godot for App Development](http://tiniuc.com/godot-for-apps/)
 
 ## [Archives](archives/index.md)
