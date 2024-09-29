@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 05:04:11](https://lobste.rs/s/zhtrkd/sitina1_open_source_camera) - [Sitina1 Open-source Camera](https://gitlab.com/zephray/sitina1)
 * [2024-09-29, 03:47:01](https://lobste.rs/s/c6lblp/c8c_chip8_compiler_assembler_virtual) - [C8C: A chip8 compiler, assembler, and virtual machine](https://glouw.com/2018/03/05/C8C.html)
 * [2024-09-29, 03:29:46](https://lobste.rs/s/v394wb/dynamic_type_on_web) - [Dynamic Type on the Web](https://furbo.org/2024/07/04/dynamic-type-on-the-web/)
 * [2024-09-29, 02:44:27](https://lobste.rs/s/esfkxa/web_components_are_okay) - [Web components are okay](https://nolanlawson.com/2024/09/28/web-components-are-okay/)
