@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-29, 00:58:09",
+      "https://lobste.rs/s/diyevq/matrix_conference_on_current"
+    ],
+    [
+      "Matrix conference: On current developments, the state of open source and more",
+      "https://www.heise.de/en/news/Matrix-conference-On-current-developments-the-state-of-open-source-and-more-9951334.html"
+    ]
+  ],
+  [
+    [
+      "2024-09-29, 00:15:32",
+      "https://lobste.rs/s/2j1cdt/notes_on_crystal_language"
+    ],
+    [
+      "Notes on the Crystal language",
+      "https://wiki.alopex.li/CrystalNotes"
+    ]
+  ],
+  [
+    [
       "2024-09-28, 21:01:35",
       "https://lobste.rs/s/xqsixd/control_structures"
     ],
@@ -37,16 +57,6 @@
     [
       "Changelogs and Release Notes",
       "https://harihareswara.net/posts/2024/changelogs-and-release-notes/"
-    ]
-  ],
-  [
-    [
-      "2024-09-28, 17:19:03",
-      "https://lobste.rs/s/2hak0j/knowledge_graphs_tracking_historical"
-    ],
-    [
-      "Knowledge Graphs – Tracking the historical events that lead to the interweaving of data and knowledge",
-      "https://cacm.acm.org/research/knowledge-graphs/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "It is never too late to write your own blazingly fast C++ command-line utilities",
       "https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/"
-    ]
-  ],
-  [
-    [
-      "2024-09-28, 07:03:40",
-      "https://lobste.rs/s/0ycspl/css_property_new_style"
-    ],
-    [
-      "CSS @property and the New Style",
-      "https://ryanmulligan.dev/blog/css-property-new-style/"
     ]
   ],
   [
