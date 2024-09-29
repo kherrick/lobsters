@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-29, 19:35:48](https://lobste.rs/s/w6dqph/build_serverless_acid_database_with_this) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 19:01:24](https://lobste.rs/s/sz5qjv/bpfsnake_snake_bpftrace) - [bpfsnake: snake in bpftrace](https://github.com/amiremohamadi/bpfsnake)
 * [2024-09-29, 15:23:19](https://lobste.rs/s/wxlsdn/building_robust_frontend_using) - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
@@ -22,7 +23,6 @@
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-28, 11:14:14](https://lobste.rs/s/r0c4ct/shredding_code) - [Shredding Code](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2024-09-28, 10:23:49](https://lobste.rs/s/llvo4w/some_go_web_dev_notes) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
-* [2024-09-28, 09:25:36](https://lobste.rs/s/cz2diy/iterators_go) - [Iterators in Go](https://bitfieldconsulting.com/posts/iterators)
 * [2024-09-28, 07:56:31](https://lobste.rs/s/v9wdhb/it_is_never_too_late_write_your_own) - [It is never too late to write your own blazingly fast C++ command-line utilities](https://lemire.me/blog/2024/09/28/it-is-never-too-later-to-write-your-own-c-c-command-line-utilities/)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 

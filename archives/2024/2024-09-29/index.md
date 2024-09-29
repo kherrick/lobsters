@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-29](index.md)
 
+* [2024-09-29, 19:35:48](https://lobste.rs/s/w6dqph/build_serverless_acid_database_with_this) - [Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)](https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html)
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 19:01:24](https://lobste.rs/s/sz5qjv/bpfsnake_snake_bpftrace) - [bpfsnake: snake in bpftrace](https://github.com/amiremohamadi/bpfsnake)
 * [2024-09-29, 15:23:19](https://lobste.rs/s/wxlsdn/building_robust_frontend_using) - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
