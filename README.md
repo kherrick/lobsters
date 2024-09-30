@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-30, 01:29:54](https://lobste.rs/s/bla7ts/varlink_now) - [Varlink Now](https://media.ccc.de/v/all-systems-go-2024-276-varlink-now-)
 * [2024-09-30, 00:57:02](https://lobste.rs/s/7chd37/type_erased_generic_functions_for_c) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
 * [2024-09-30, 00:38:56](https://lobste.rs/s/n0vg9z/on_leaving_my_last_job_leaving_apple) - [On leaving my last job (leaving Apple)](https://typesanitizer.com/blog/leaving-apple.html)
 * [2024-09-30, 00:13:47](https://lobste.rs/s/1kfzss/renderling_devlog_implementing_frustum) - [Renderling Devlog, Implementing Frustum Culling using Rust-GPU](https://renderling.xyz/devlog/index.html#sat_sep_28_2024)
@@ -22,7 +23,6 @@
 * [2024-09-28, 16:14:54](https://lobste.rs/s/mzqmv2/doom_ios_photos_app_kind) - [DOOM in the iOS Photos app (kind of)](https://eieio.games/nonsense/game-15-doom-ios-photos-app/)
 * [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
-* [2024-09-28, 11:14:14](https://lobste.rs/s/r0c4ct/shredding_code) - [Shredding Code](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2024-09-28, 10:23:49](https://lobste.rs/s/llvo4w/some_go_web_dev_notes) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 
