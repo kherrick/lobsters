@@ -6,6 +6,7 @@
 
 * [2024-09-30, 19:22:14](https://lobste.rs/s/ynwouj/seven_things_i_wish_i_would_not_hear_as) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
 * [2024-09-30, 18:23:11](https://lobste.rs/s/wuk4le/20_years_later_real_time_linux_makes_it) - [20 years later, real-time Linux makes it to the kernel - really](https://www.zdnet.com/article/20-years-later-real-time-linux-makes-it-to-the-kernel-really/)
+* [2024-09-30, 18:13:08](https://lobste.rs/s/92qcme/insatiable_hunger_open_ai) - [The insatiable hunger of (Open)AI](https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/)
 * [2024-09-30, 17:27:03](https://lobste.rs/s/hqr3t3/how_networking_affects_distributed) - [How networking affects distributed systems](https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/)
 * [2024-09-30, 17:22:28](https://lobste.rs/s/jvg7od/i_want_process_aware_types) - [I Want Process-Aware Types](https://sean.barag.org/writing/process-aware-types)
 * [2024-09-30, 16:24:01](https://lobste.rs/s/9r0dqp/five_common_misconceptions_about_event) - [Five Common Misconceptions About Event-Driven Architecture](https://www.reactivesystems.eu/2024/09/30/five-common-misconceptions-about-eda.html)
