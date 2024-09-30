@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 10:25:56](https://lobste.rs/s/qa7osq/runit_2_2_0_available) - [runit-2.2.0 available](https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html)
+* [2024-09-30, 10:16:24](https://lobste.rs/s/8ep75v/how_1_software_engineer_outperforms_138) - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
 * [2024-09-30, 09:46:25](https://lobste.rs/s/geuifh/secure_py_simplify_http_security_headers) - [secure.py – Simplify HTTP Security Headers for Python Web Apps (Major Update)](https://github.com/TypeError/secure)
 * [2024-09-30, 09:26:52](https://lobste.rs/s/tsatar/gentle_intro_type_level_recursion_rust) - [Gentle intro to type-level recursion in Rust (2017)](https://beachape.com/blog/2017/03/12/gentle-intro-to-type-level-recursion-in-Rust-from-zero-to-frunk-hlist-sculpting)
 * [2024-09-30, 07:28:12](https://lobste.rs/s/shsrhw/using_undocumented_apple_ai_ml) - [Using undocumented Apple AI/ML instructions to get the average color of an image](https://wunkolo.github.io/post/2024/09/vecint-average-color/)
