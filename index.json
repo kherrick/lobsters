@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-09-30, 17:27:03",
+      "https://lobste.rs/s/hqr3t3/how_networking_affects_distributed"
+    ],
+    [
+      "How networking affects distributed systems",
+      "https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/"
+    ]
+  ],
+  [
+    [
+      "2024-09-30, 17:22:28",
+      "https://lobste.rs/s/jvg7od/i_want_process_aware_types"
+    ],
+    [
+      "I Want Process-Aware Types",
+      "https://sean.barag.org/writing/process-aware-types"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 16:24:01",
       "https://lobste.rs/s/9r0dqp/five_common_misconceptions_about_event"
     ],
@@ -37,16 +57,6 @@
     [
       "Why Your Rails-like Framework Is Not Widely Used",
       "https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 15:37:05",
-      "https://lobste.rs/s/lpnzta/code_generation_rust_vs_c_26"
-    ],
-    [
-      "Code Generation in Rust vs C++26",
-      "https://brevzin.github.io/c++/2024/09/30/annotations/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "The Public Domain Problem",
       "https://dpk.land/pubdmn.txt"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 00:15:32",
-      "https://lobste.rs/s/2j1cdt/notes_on_crystal_language"
-    ],
-    [
-      "Notes on the Crystal language",
-      "https://wiki.alopex.li/CrystalNotes"
     ]
   ]
 ]
