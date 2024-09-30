@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-30, 19:40:10",
+      "https://lobste.rs/s/kgt5aa/fixed_point_arithmetic_as_replacement"
+    ],
+    [
+      "Fixed-point arithmetic as a replacement for soft floats",
+      "https://pigweed.dev/docs/blog/04-fixed-point.html"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 19:22:14",
       "https://lobste.rs/s/ynwouj/seven_things_i_wish_i_would_not_hear_as"
     ],
@@ -197,16 +207,6 @@
     [
       "On leaving my last job (leaving Apple)",
       "https://typesanitizer.com/blog/leaving-apple.html"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 00:10:59",
-      "https://lobste.rs/s/h4ij6z/use_prolog_for_developing_new"
-    ],
-    [
-      "Use of Prolog for developing a new programming language (1992)",
-      "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5dbee7f876ccb6331d1fb4dcdc7f7a4744801804"
     ]
   ],
   [
