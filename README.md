@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-30, 06:44:52](https://lobste.rs/s/qcqcjp/we_have_package_for_you_comprehensive) - [We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
 * [2024-09-30, 06:07:31](https://lobste.rs/s/mielvi/go_sqlite3_go_bindings_sqlite_using) - [go-sqlite3: Go bindings to SQLite using wazero](https://github.com/ncruces/go-sqlite3)
 * [2024-09-30, 01:29:54](https://lobste.rs/s/bla7ts/varlink_now) - [Varlink Now](https://media.ccc.de/v/all-systems-go-2024-276-varlink-now-)
 * [2024-09-30, 00:57:02](https://lobste.rs/s/7chd37/type_erased_generic_functions_for_c) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
@@ -18,7 +19,6 @@
 * [2024-09-29, 10:46:24](https://lobste.rs/s/haxs7o/all_systems_go_2024) - [All Systems Go! 2024](https://media.ccc.de/c/asg2024)
 * [2024-09-29, 08:36:18](https://lobste.rs/s/xhskrk/brackets_are_awesome_don_t_use_them) - [Brackets are awesome, don’t use them](https://www.sebastiansylvan.com/post/brackets-are-awesome-dont-use-them/)
 * [2024-09-29, 05:04:11](https://lobste.rs/s/zhtrkd/sitina1_open_source_camera) - [Sitina1 Open-source Camera](https://gitlab.com/zephray/sitina1)
-* [2024-09-29, 03:47:01](https://lobste.rs/s/c6lblp/c8c_chip8_compiler_assembler_virtual) - [C8C: A chip8 compiler, assembler, and virtual machine](https://glouw.com/2018/03/05/C8C.html)
 * [2024-09-29, 00:15:32](https://lobste.rs/s/2j1cdt/notes_on_crystal_language) - [Notes on the Crystal language](https://wiki.alopex.li/CrystalNotes)
 * [2024-09-28, 16:29:01](https://lobste.rs/s/c7hll8/perils_transition_64_bit_time_t) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 06:44:52](https://lobste.rs/s/qcqcjp/we_have_package_for_you_comprehensive) - [We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
 * [2024-09-30, 06:07:31](https://lobste.rs/s/mielvi/go_sqlite3_go_bindings_sqlite_using) - [go-sqlite3: Go bindings to SQLite using wazero](https://github.com/ncruces/go-sqlite3)
 * [2024-09-30, 01:29:54](https://lobste.rs/s/bla7ts/varlink_now) - [Varlink Now](https://media.ccc.de/v/all-systems-go-2024-276-varlink-now-)
 * [2024-09-30, 00:57:02](https://lobste.rs/s/7chd37/type_erased_generic_functions_for_c) - [Type-erased generic functions for C: A modest non-proposal](https://duriansoftware.com/joe/type-erased-generic-functions-for-c:-a-modest-non-proposal)
