@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-09-30, 15:37:05",
+      "https://lobste.rs/s/lpnzta/code_generation_rust_vs_c_26"
+    ],
+    [
+      "Code Generation in Rust vs C++26",
+      "https://brevzin.github.io/c++/2024/09/30/annotations/"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 15:35:22",
       "https://lobste.rs/s/acdcfv/beyond_multi_core_parallelism_faster"
     ],
@@ -147,16 +157,6 @@
     [
       "Any interesting tech blogs outside the usual software/web dev circle?",
       "https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 06:44:52",
-      "https://lobste.rs/s/qcqcjp/we_have_package_for_you_comprehensive"
-    ],
-    [
-      "We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs",
-      "https://arxiv.org/abs/2406.10279"
     ]
   ],
   [
