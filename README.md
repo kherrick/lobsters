@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-30, 11:18:55](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week)
 * [2024-09-30, 10:25:56](https://lobste.rs/s/qa7osq/runit_2_2_0_available) - [runit-2.2.0 available](https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html)
 * [2024-09-30, 10:16:24](https://lobste.rs/s/8ep75v/how_1_software_engineer_outperforms_138) - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
 * [2024-09-30, 09:46:25](https://lobste.rs/s/geuifh/secure_py_simplify_http_security_headers) - [secure.py – Simplify HTTP Security Headers for Python Web Apps (Major Update)](https://github.com/TypeError/secure)
@@ -19,7 +20,6 @@
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 19:01:24](https://lobste.rs/s/sz5qjv/bpfsnake_snake_bpftrace) - [bpfsnake: snake in bpftrace](https://github.com/amiremohamadi/bpfsnake)
 * [2024-09-29, 15:23:19](https://lobste.rs/s/wxlsdn/building_robust_frontend_using) - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
-* [2024-09-29, 13:36:13](https://lobste.rs/s/su9ynw/overbooking_how_providers_divide_up) - [Overbooking - how providers divide up the bandwidth](https://blog.init7.net/en/overbooking-how-providers-divide-up-the-bandwidth/)
 * [2024-09-29, 11:37:46](https://lobste.rs/s/fquuwq/public_domain_problem) - [The Public Domain Problem](https://dpk.land/pubdmn.txt)
 * [2024-09-29, 10:46:24](https://lobste.rs/s/haxs7o/all_systems_go_2024) - [All Systems Go! 2024](https://media.ccc.de/c/asg2024)
 * [2024-09-29, 08:36:18](https://lobste.rs/s/xhskrk/brackets_are_awesome_don_t_use_them) - [Brackets are awesome, don’t use them](https://www.sebastiansylvan.com/post/brackets-are-awesome-dont-use-them/)
