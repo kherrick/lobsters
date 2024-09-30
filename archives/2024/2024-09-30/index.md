@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 16:24:01](https://lobste.rs/s/9r0dqp/five_common_misconceptions_about_event) - [Five Common Misconceptions About Event-Driven Architecture](https://www.reactivesystems.eu/2024/09/30/five-common-misconceptions-about-eda.html)
+* [2024-09-30, 16:12:29](https://lobste.rs/s/ivdiba/making_my_nvim_feel_more_like_helix_with) - [Making my Nvim Feel More Like Helix with Mini.nvim](https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/)
+* [2024-09-30, 15:59:14](https://lobste.rs/s/vdapnz/no_such_thing_as_exactly_once_delivery) - [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
 * [2024-09-30, 15:41:01](https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not) - [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
 * [2024-09-30, 15:37:05](https://lobste.rs/s/lpnzta/code_generation_rust_vs_c_26) - [Code Generation in Rust vs C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
 * [2024-09-30, 15:35:22](https://lobste.rs/s/acdcfv/beyond_multi_core_parallelism_faster) - [Beyond multi-core parallelism: faster Mandelbrot with SIMD](https://pythonspeed.com/articles/optimizing-with-simd/)
