@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-30, 17:27:03](https://lobste.rs/s/hqr3t3/how_networking_affects_distributed) - [How networking affects distributed systems](https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/)
+* [2024-09-30, 17:22:28](https://lobste.rs/s/jvg7od/i_want_process_aware_types) - [I Want Process-Aware Types](https://sean.barag.org/writing/process-aware-types)
 * [2024-09-30, 16:24:01](https://lobste.rs/s/9r0dqp/five_common_misconceptions_about_event) - [Five Common Misconceptions About Event-Driven Architecture](https://www.reactivesystems.eu/2024/09/30/five-common-misconceptions-about-eda.html)
 * [2024-09-30, 16:12:29](https://lobste.rs/s/ivdiba/making_my_nvim_feel_more_like_helix_with) - [Making my Nvim Feel More Like Helix with Mini.nvim](https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/)
 * [2024-09-30, 15:59:14](https://lobste.rs/s/vdapnz/no_such_thing_as_exactly_once_delivery) - [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
 * [2024-09-30, 15:41:01](https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not) - [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
-* [2024-09-30, 15:37:05](https://lobste.rs/s/lpnzta/code_generation_rust_vs_c_26) - [Code Generation in Rust vs C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
 * [2024-09-30, 15:35:22](https://lobste.rs/s/acdcfv/beyond_multi_core_parallelism_faster) - [Beyond multi-core parallelism: faster Mandelbrot with SIMD](https://pythonspeed.com/articles/optimizing-with-simd/)
 * [2024-09-30, 14:23:53](https://lobste.rs/s/av9x9z/safety_goggles_for_alchemists_path) - [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
@@ -24,7 +25,6 @@
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 15:23:19](https://lobste.rs/s/wxlsdn/building_robust_frontend_using) - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 * [2024-09-29, 11:37:46](https://lobste.rs/s/fquuwq/public_domain_problem) - [The Public Domain Problem](https://dpk.land/pubdmn.txt)
-* [2024-09-29, 00:15:32](https://lobste.rs/s/2j1cdt/notes_on_crystal_language) - [Notes on the Crystal language](https://wiki.alopex.li/CrystalNotes)
 
 ## [Archives](archives/index.md)
 
