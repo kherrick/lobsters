@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-30, 19:22:14](https://lobste.rs/s/ynwouj/seven_things_i_wish_i_would_not_hear_as) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
+* [2024-09-30, 18:23:11](https://lobste.rs/s/wuk4le/20_years_later_real_time_linux_makes_it) - [20 years later, real-time Linux makes it to the kernel - really](https://www.zdnet.com/article/20-years-later-real-time-linux-makes-it-to-the-kernel-really/)
 * [2024-09-30, 17:27:03](https://lobste.rs/s/hqr3t3/how_networking_affects_distributed) - [How networking affects distributed systems](https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/)
 * [2024-09-30, 17:22:28](https://lobste.rs/s/jvg7od/i_want_process_aware_types) - [I Want Process-Aware Types](https://sean.barag.org/writing/process-aware-types)
-* [2024-09-30, 16:24:01](https://lobste.rs/s/9r0dqp/five_common_misconceptions_about_event) - [Five Common Misconceptions About Event-Driven Architecture](https://www.reactivesystems.eu/2024/09/30/five-common-misconceptions-about-eda.html)
 * [2024-09-30, 16:12:29](https://lobste.rs/s/ivdiba/making_my_nvim_feel_more_like_helix_with) - [Making my Nvim Feel More Like Helix with Mini.nvim](https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/)
 * [2024-09-30, 15:59:14](https://lobste.rs/s/vdapnz/no_such_thing_as_exactly_once_delivery) - [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
 * [2024-09-30, 15:41:01](https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not) - [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
@@ -10,7 +11,6 @@
 * [2024-09-30, 15:35:22](https://lobste.rs/s/acdcfv/beyond_multi_core_parallelism_faster) - [Beyond multi-core parallelism: faster Mandelbrot with SIMD](https://pythonspeed.com/articles/optimizing-with-simd/)
 * [2024-09-30, 14:23:53](https://lobste.rs/s/av9x9z/safety_goggles_for_alchemists_path) - [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
-* [2024-09-30, 13:07:44](https://lobste.rs/s/gxmrvo/eliminating_intermediate_array) - [Eliminating Intermediate Array Allocations](https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/)
 * [2024-09-30, 12:56:15](https://lobste.rs/s/14fa6k/21_more_aws_services_they_should_cancel) - [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
 * [2024-09-30, 11:18:55](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week)
 * [2024-09-30, 10:25:56](https://lobste.rs/s/qa7osq/runit_2_2_0_available) - [runit-2.2.0 available](https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html)
