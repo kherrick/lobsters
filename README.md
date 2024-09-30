@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-30, 23:04:31](https://lobste.rs/s/xtkfli/integrity_constraints_relational) - [Integrity Constraints and the Relational Derivative](https://buttondown.com/jaffray/archive/integrity-constraints-and-the-relational/)
 * [2024-09-30, 22:37:27](https://lobste.rs/s/17rdy4/redis_client_side_caching) - [Redis: client-side caching](https://redis.io/docs/latest/develop/reference/client-side-caching/)
 * [2024-09-30, 22:19:17](https://lobste.rs/s/i0grux/durability_art_consensus) - [Durability and the Art of Consensus](https://www.youtube.com/watch?v=tRgvaqpQPwE)
 * [2024-09-30, 21:43:33](https://lobste.rs/s/mzvjfk/revisiting_dos_memory_models) - [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
@@ -15,7 +16,6 @@
 * [2024-09-30, 15:35:22](https://lobste.rs/s/acdcfv/beyond_multi_core_parallelism_faster) - [Beyond multi-core parallelism: faster Mandelbrot with SIMD](https://pythonspeed.com/articles/optimizing-with-simd/)
 * [2024-09-30, 14:23:53](https://lobste.rs/s/av9x9z/safety_goggles_for_alchemists_path) - [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
-* [2024-09-30, 13:07:44](https://lobste.rs/s/gxmrvo/eliminating_intermediate_array) - [Eliminating Intermediate Array Allocations](https://tenderlovemaking.com/2024/09/29/eliminating-intermediate-array-allocations/)
 * [2024-09-30, 12:56:15](https://lobste.rs/s/14fa6k/21_more_aws_services_they_should_cancel) - [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
 * [2024-09-30, 11:18:55](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week)
 * [2024-09-30, 10:25:56](https://lobste.rs/s/qa7osq/runit_2_2_0_available) - [runit-2.2.0 available](https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html)
