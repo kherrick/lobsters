@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 22:19:17](https://lobste.rs/s/i0grux/durability_art_consensus) - [Durability and the Art of Consensus](https://www.youtube.com/watch?v=tRgvaqpQPwE)
 * [2024-09-30, 21:43:33](https://lobste.rs/s/mzvjfk/revisiting_dos_memory_models) - [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-09-30, 19:40:10](https://lobste.rs/s/kgt5aa/fixed_point_arithmetic_as_replacement) - [Fixed-point arithmetic as a replacement for soft floats](https://pigweed.dev/docs/blog/04-fixed-point.html)
 * [2024-09-30, 19:22:14](https://lobste.rs/s/ynwouj/seven_things_i_wish_i_would_not_hear_as) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
