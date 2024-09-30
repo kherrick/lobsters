@@ -19,10 +19,10 @@
 * [2024-09-29, 05:04:11](https://lobste.rs/s/zhtrkd/sitina1_open_source_camera) - [Sitina1 Open-source Camera](https://gitlab.com/zephray/sitina1)
 * [2024-09-29, 03:47:01](https://lobste.rs/s/c6lblp/c8c_chip8_compiler_assembler_virtual) - [C8C: A chip8 compiler, assembler, and virtual machine](https://glouw.com/2018/03/05/C8C.html)
 * [2024-09-29, 00:15:32](https://lobste.rs/s/2j1cdt/notes_on_crystal_language) - [Notes on the Crystal language](https://wiki.alopex.li/CrystalNotes)
-* [2024-09-28, 21:01:35](https://lobste.rs/s/xqsixd/control_structures) - [Control structures](https://xavierleroy.org/CdF/2023-2024/)
 * [2024-09-28, 16:29:01](https://lobste.rs/s/c7hll8/perils_transition_64_bit_time_t) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
 * [2024-09-28, 14:38:43](https://lobste.rs/s/cjwi4v/our_android_app_is_frozen_carbonite) - [Our Android App is Frozen in Carbonite](https://ia.net/topics/our-android-app-is-frozen-in-carbonite)
 * [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
+* [2024-09-28, 11:14:14](https://lobste.rs/s/r0c4ct/shredding_code) - [Shredding Code](https://registerspill.thorstenball.com/p/skin-shedding-code)
 * [2024-09-28, 10:23:49](https://lobste.rs/s/llvo4w/some_go_web_dev_notes) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 
