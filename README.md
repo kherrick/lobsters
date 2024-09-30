@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-30, 09:26:52](https://lobste.rs/s/tsatar/gentle_intro_type_level_recursion_rust) - [Gentle intro to type-level recursion in Rust (2017)](https://beachape.com/blog/2017/03/12/gentle-intro-to-type-level-recursion-in-Rust-from-zero-to-frunk-hlist-sculpting)
 * [2024-09-30, 07:28:12](https://lobste.rs/s/shsrhw/using_undocumented_apple_ai_ml) - [Using undocumented Apple AI/ML instructions to get the average color of an image](https://wunkolo.github.io/post/2024/09/vecint-average-color/)
 * [2024-09-30, 07:19:18](https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual) - [Any interesting tech blogs outside the usual software/web dev circle?](https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual)
 * [2024-09-30, 06:44:52](https://lobste.rs/s/qcqcjp/we_have_package_for_you_comprehensive) - [We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
@@ -22,7 +23,6 @@
 * [2024-09-29, 05:04:11](https://lobste.rs/s/zhtrkd/sitina1_open_source_camera) - [Sitina1 Open-source Camera](https://gitlab.com/zephray/sitina1)
 * [2024-09-29, 00:15:32](https://lobste.rs/s/2j1cdt/notes_on_crystal_language) - [Notes on the Crystal language](https://wiki.alopex.li/CrystalNotes)
 * [2024-09-28, 16:29:01](https://lobste.rs/s/c7hll8/perils_transition_64_bit_time_t) - [The perils of transition to 64-bit time_t](https://blogs.gentoo.org/mgorny/2024/09/28/the-perils-of-transition-to-64-bit-time_t/)
-* [2024-09-28, 12:00:48](https://lobste.rs/s/icnsw6/everything_you_need_know_about_python_3_13) - [Everything you need to know about Python 3.13 – JIT and GIL went up the hill](https://drew.silcock.dev/blog/everything-you-need-to-know-about-python-3-13/)
 * [2024-09-28, 10:23:49](https://lobste.rs/s/llvo4w/some_go_web_dev_notes) - [Some Go web dev notes](https://jvns.ca/blog/2024/09/27/some-go-web-dev-notes/)
 * [2024-09-28, 04:21:32](https://lobste.rs/s/yom2zr/arch_linux_valve_collaboration) - [Arch Linux and Valve Collaboration](https://lists.archlinux.org/archives/list/arch-dev-public@lists.archlinux.org/thread/RIZSKIBDSLY4S5J2E2STNP5DH4XZGJMR/)
 
