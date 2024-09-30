@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-09-30, 19:40:10](https://lobste.rs/s/kgt5aa/fixed_point_arithmetic_as_replacement) - [Fixed-point arithmetic as a replacement for soft floats](https://pigweed.dev/docs/blog/04-fixed-point.html)
 * [2024-09-30, 19:22:14](https://lobste.rs/s/ynwouj/seven_things_i_wish_i_would_not_hear_as) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
 * [2024-09-30, 18:13:08](https://lobste.rs/s/92qcme/insatiable_hunger_open_ai) - [The insatiable hunger of (Open)AI](https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/)
 * [2024-09-30, 17:27:03](https://lobste.rs/s/hqr3t3/how_networking_affects_distributed) - [How networking affects distributed systems](https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/)
@@ -20,7 +21,6 @@
 * [2024-09-30, 07:28:12](https://lobste.rs/s/shsrhw/using_undocumented_apple_ai_ml) - [Using undocumented Apple AI/ML instructions to get the average color of an image](https://wunkolo.github.io/post/2024/09/vecint-average-color/)
 * [2024-09-30, 07:19:18](https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual) - [Any interesting tech blogs outside the usual software/web dev circle?](https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual)
 * [2024-09-30, 00:38:56](https://lobste.rs/s/n0vg9z/on_leaving_my_last_job_leaving_apple) - [On leaving my last job (leaving Apple)](https://typesanitizer.com/blog/leaving-apple.html)
-* [2024-09-30, 00:10:59](https://lobste.rs/s/h4ij6z/use_prolog_for_developing_new) - [Use of Prolog for developing a new programming language (1992)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=5dbee7f876ccb6331d1fb4dcdc7f7a4744801804)
 * [2024-09-29, 22:16:47](https://lobste.rs/s/91jmdx/prep_golang_comptime_pure_blasphemy) - [Prep: Golang comptime. Pure blasphemy](https://github.com/pijng/prep)
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 15:23:19](https://lobste.rs/s/wxlsdn/building_robust_frontend_using) - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
