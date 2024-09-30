@@ -4,6 +4,7 @@
 * [2024-09-30, 22:37:27](https://lobste.rs/s/17rdy4/redis_client_side_caching) - [Redis: client-side caching](https://redis.io/docs/latest/develop/reference/client-side-caching/)
 * [2024-09-30, 22:19:17](https://lobste.rs/s/i0grux/durability_art_consensus) - [Durability and the Art of Consensus](https://www.youtube.com/watch?v=tRgvaqpQPwE)
 * [2024-09-30, 21:43:33](https://lobste.rs/s/mzvjfk/revisiting_dos_memory_models) - [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
+* [2024-09-30, 20:48:33](https://lobste.rs/s/v0jpcf/zig_website_has_been_re_engineered) - [The Zig Website Has Been Re-engineered](https://ziglang.org/news/website-zine/)
 * [2024-09-30, 19:22:14](https://lobste.rs/s/ynwouj/seven_things_i_wish_i_would_not_hear_as) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
 * [2024-09-30, 18:13:08](https://lobste.rs/s/92qcme/insatiable_hunger_open_ai) - [The insatiable hunger of (Open)AI](https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/)
 * [2024-09-30, 17:27:03](https://lobste.rs/s/hqr3t3/how_networking_affects_distributed) - [How networking affects distributed systems](https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/)
@@ -22,7 +23,6 @@
 * [2024-09-30, 10:16:24](https://lobste.rs/s/8ep75v/how_1_software_engineer_outperforms_138) - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
 * [2024-09-30, 09:46:25](https://lobste.rs/s/geuifh/secure_py_simplify_http_security_headers) - [secure.py – Simplify HTTP Security Headers for Python Web Apps (Major Update)](https://github.com/TypeError/secure)
 * [2024-09-30, 00:38:56](https://lobste.rs/s/n0vg9z/on_leaving_my_last_job_leaving_apple) - [On leaving my last job (leaving Apple)](https://typesanitizer.com/blog/leaving-apple.html)
-* [2024-09-29, 22:16:47](https://lobste.rs/s/91jmdx/prep_golang_comptime_pure_blasphemy) - [Prep: Golang comptime. Pure blasphemy](https://github.com/pijng/prep)
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 15:23:19](https://lobste.rs/s/wxlsdn/building_robust_frontend_using) - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
 
