@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-09-30, 15:41:01",
+      "https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not"
+    ],
+    [
+      "Why Your Rails-like Framework Is Not Widely Used",
+      "https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 15:37:05",
       "https://lobste.rs/s/lpnzta/code_generation_rust_vs_c_26"
     ],
@@ -197,16 +207,6 @@
     [
       "Prep: Golang comptime. Pure blasphemy",
       "https://github.com/pijng/prep"
-    ]
-  ],
-  [
-    [
-      "2024-09-29, 19:35:48",
-      "https://lobste.rs/s/w6dqph/build_serverless_acid_database_with_this"
-    ],
-    [
-      "Build a serverless ACID database with this one neat trick (atomic PutIfAbsent)",
-      "https://notes.eatonphil.com/2024-09-29-build-a-serverless-acid-database-with-this-one-neat-trick.html"
     ]
   ],
   [
