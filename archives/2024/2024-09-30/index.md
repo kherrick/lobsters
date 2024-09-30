@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 09:46:25](https://lobste.rs/s/geuifh/secure_py_simplify_http_security_headers) - [secure.py – Simplify HTTP Security Headers for Python Web Apps (Major Update)](https://github.com/TypeError/secure)
 * [2024-09-30, 09:26:52](https://lobste.rs/s/tsatar/gentle_intro_type_level_recursion_rust) - [Gentle intro to type-level recursion in Rust (2017)](https://beachape.com/blog/2017/03/12/gentle-intro-to-type-level-recursion-in-Rust-from-zero-to-frunk-hlist-sculpting)
 * [2024-09-30, 07:28:12](https://lobste.rs/s/shsrhw/using_undocumented_apple_ai_ml) - [Using undocumented Apple AI/ML instructions to get the average color of an image](https://wunkolo.github.io/post/2024/09/vecint-average-color/)
 * [2024-09-30, 07:19:18](https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual) - [Any interesting tech blogs outside the usual software/web dev circle?](https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual)
