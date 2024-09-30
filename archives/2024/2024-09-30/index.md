@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 07:28:12](https://lobste.rs/s/shsrhw/using_undocumented_apple_ai_ml) - [Using undocumented Apple AI/ML instructions to get the average color of an image](https://wunkolo.github.io/post/2024/09/vecint-average-color/)
 * [2024-09-30, 07:19:18](https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual) - [Any interesting tech blogs outside the usual software/web dev circle?](https://lobste.rs/s/rrs30d/any_interesting_tech_blogs_outside_usual)
 * [2024-09-30, 06:44:52](https://lobste.rs/s/qcqcjp/we_have_package_for_you_comprehensive) - [We Have a Package for You! A Comprehensive Analysis of Package Hallucinations by Code Generating LLMs](https://arxiv.org/abs/2406.10279)
 * [2024-09-30, 06:07:31](https://lobste.rs/s/mielvi/go_sqlite3_go_bindings_sqlite_using) - [go-sqlite3: Go bindings to SQLite using wazero](https://github.com/ncruces/go-sqlite3)
