@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 15:41:01](https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not) - [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
 * [2024-09-30, 15:37:05](https://lobste.rs/s/lpnzta/code_generation_rust_vs_c_26) - [Code Generation in Rust vs C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
 * [2024-09-30, 15:35:22](https://lobste.rs/s/acdcfv/beyond_multi_core_parallelism_faster) - [Beyond multi-core parallelism: faster Mandelbrot with SIMD](https://pythonspeed.com/articles/optimizing-with-simd/)
 * [2024-09-30, 14:23:53](https://lobste.rs/s/av9x9z/safety_goggles_for_alchemists_path) - [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
