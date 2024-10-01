@@ -10,6 +10,7 @@
 * [2024-10-01, 13:55:04](https://lobste.rs/s/2rrnzz/announcing_voidzero_next_generation) - [Announcing VoidZero - Next Generation Toolchain for JavaScript](https://voidzero.dev/posts/announcing-voidzero-inc)
 * [2024-10-01, 12:28:28](https://lobste.rs/s/cvutan/phrase_matching_marginalia_search) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-10-01, 11:50:54](https://lobste.rs/s/bezdgh/bop_spotter) - [Bop Spotter](https://walzr.com/bop-spotter)
+* [2024-10-01, 11:02:29](https://lobste.rs/s/bo7yqf/rust_project_has_burnout_problem) - [The rust project has a burnout problem](https://jyn.dev/the-rust-project-has-a-burnout-problem/)
 * [2024-10-01, 10:57:21](https://lobste.rs/s/w1rq9r/tigerbeetle_coding_style_guide) - [TigerBeetle coding style guide](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 * [2024-10-01, 10:50:22](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna) - [Bookmarklets: do you use them? If so, wanna share them?](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna)
 * [2024-10-01, 10:19:18](https://lobste.rs/s/84unlo/migrating_from_aws_self_hosting) - [Migrating from AWS to Self-Hosting](https://ziglang.org/news/migrate-to-self-hosting/)
