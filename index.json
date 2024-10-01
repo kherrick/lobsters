@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-01, 00:55:03",
+      "https://lobste.rs/s/keitv2/wonders_prehistorik_man_on_gb"
+    ],
+    [
+      "The wonders of Prehistorik Man on the GB",
+      "https://eldred.fr/blog/prehistorik/"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 23:04:31",
       "https://lobste.rs/s/xtkfli/integrity_constraints_relational"
     ],
@@ -17,16 +27,6 @@
     [
       "Redis: client-side caching",
       "https://redis.io/docs/latest/develop/reference/client-side-caching/"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 22:19:17",
-      "https://lobste.rs/s/i0grux/durability_art_consensus"
-    ],
-    [
-      "Durability and the Art of Consensus",
-      "https://www.youtube.com/watch?v=tRgvaqpQPwE"
     ]
   ],
   [
