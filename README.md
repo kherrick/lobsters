@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-01, 00:55:03](https://lobste.rs/s/keitv2/wonders_prehistorik_man_on_gb) - [The wonders of Prehistorik Man on the GB](https://eldred.fr/blog/prehistorik/)
 * [2024-09-30, 23:04:31](https://lobste.rs/s/xtkfli/integrity_constraints_relational) - [Integrity Constraints and the Relational Derivative](https://buttondown.com/jaffray/archive/integrity-constraints-and-the-relational/)
 * [2024-09-30, 22:37:27](https://lobste.rs/s/17rdy4/redis_client_side_caching) - [Redis: client-side caching](https://redis.io/docs/latest/develop/reference/client-side-caching/)
-* [2024-09-30, 22:19:17](https://lobste.rs/s/i0grux/durability_art_consensus) - [Durability and the Art of Consensus](https://www.youtube.com/watch?v=tRgvaqpQPwE)
 * [2024-09-30, 21:43:33](https://lobste.rs/s/mzvjfk/revisiting_dos_memory_models) - [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-09-30, 20:48:33](https://lobste.rs/s/v0jpcf/zig_website_has_been_re_engineered) - [The Zig Website Has Been Re-engineered](https://ziglang.org/news/website-zine/)
 * [2024-09-30, 19:22:14](https://lobste.rs/s/ynwouj/seven_things_i_wish_i_would_not_hear_as) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
