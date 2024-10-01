@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 22:41:40](https://lobste.rs/s/aoduzj/google_chrome_built_ai_challenge) - [Google Chrome Built-in AI Challenge](https://googlechromeai.devpost.com/?linkId=11071015)
 * [2024-10-01, 19:53:53](https://lobste.rs/s/eby88l/futex_like_apis_on_non_linux_systems) - [Futex-like APIs on non-Linux systems](https://shift.click/blog/futex-like-apis/)
 * [2024-10-01, 19:52:35](https://lobste.rs/s/mnrpv8/modes_considered_harmful) - [Modes Considered Harmful](https://a-nickels-worth.dev/posts/modesharm/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-01, 22:41:40](https://lobste.rs/s/aoduzj/google_chrome_built_ai_challenge) - [Google Chrome Built-in AI Challenge](https://googlechromeai.devpost.com/?linkId=11071015)
 * [2024-10-01, 19:53:53](https://lobste.rs/s/eby88l/futex_like_apis_on_non_linux_systems) - [Futex-like APIs on non-Linux systems](https://shift.click/blog/futex-like-apis/)
 * [2024-10-01, 19:52:35](https://lobste.rs/s/mnrpv8/modes_considered_harmful) - [Modes Considered Harmful](https://a-nickels-worth.dev/posts/modesharm/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
@@ -17,7 +18,6 @@
 * [2024-10-01, 10:50:22](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna) - [Bookmarklets: do you use them? If so, wanna share them?](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna)
 * [2024-10-01, 10:19:18](https://lobste.rs/s/84unlo/migrating_from_aws_self_hosting) - [Migrating from AWS to Self-Hosting](https://ziglang.org/news/migrate-to-self-hosting/)
 * [2024-09-30, 23:11:03](https://lobste.rs/s/t5uilx/ffmpeg_7_1_release_tons_codecs) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
-* [2024-09-30, 21:43:33](https://lobste.rs/s/mzvjfk/revisiting_dos_memory_models) - [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-09-30, 20:48:33](https://lobste.rs/s/v0jpcf/zig_website_has_been_re_engineered) - [The Zig Website Has Been Re-engineered](https://ziglang.org/news/website-zine/)
 * [2024-09-30, 18:13:08](https://lobste.rs/s/92qcme/insatiable_hunger_open_ai) - [The insatiable hunger of (Open)AI](https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/)
 * [2024-09-30, 17:22:28](https://lobste.rs/s/jvg7od/i_want_process_aware_types) - [I Want Process-Aware Types](https://sean.barag.org/writing/process-aware-types)
