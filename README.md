@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-01, 14:53:11](https://lobste.rs/s/0ugepc/this_is_my_dead_grandmother_s_special_day) - [This is [my dead grandmother]'s special day](https://www.scottsmitelli.com/articles/my-dead-grandmothers-special-day/)
 * [2024-10-01, 14:31:19](https://lobste.rs/s/2vutni/getentropy_vs_rand_bytes) - [getentropy() vs RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
 * [2024-10-01, 13:55:04](https://lobste.rs/s/2rrnzz/announcing_voidzero_next_generation) - [Announcing VoidZero - Next Generation Toolchain for JavaScript](https://voidzero.dev/posts/announcing-voidzero-inc)
 * [2024-10-01, 12:28:28](https://lobste.rs/s/cvutan/phrase_matching_marginalia_search) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
@@ -21,7 +22,6 @@
 * [2024-09-30, 16:12:29](https://lobste.rs/s/ivdiba/making_my_nvim_feel_more_like_helix_with) - [Making my Nvim Feel More Like Helix with Mini.nvim](https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/)
 * [2024-09-30, 15:41:01](https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not) - [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
 * [2024-09-30, 15:37:05](https://lobste.rs/s/lpnzta/code_generation_rust_vs_c_26) - [Code Generation in Rust vs C++26](https://brevzin.github.io/c++/2024/09/30/annotations/)
-* [2024-09-30, 15:35:22](https://lobste.rs/s/acdcfv/beyond_multi_core_parallelism_faster) - [Beyond multi-core parallelism: faster Mandelbrot with SIMD](https://pythonspeed.com/articles/optimizing-with-simd/)
 * [2024-09-30, 14:23:53](https://lobste.rs/s/av9x9z/safety_goggles_for_alchemists_path) - [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-09-30, 12:56:15](https://lobste.rs/s/14fa6k/21_more_aws_services_they_should_cancel) - [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)

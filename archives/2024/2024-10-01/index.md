@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 14:53:11](https://lobste.rs/s/0ugepc/this_is_my_dead_grandmother_s_special_day) - [This is [my dead grandmother]'s special day](https://www.scottsmitelli.com/articles/my-dead-grandmothers-special-day/)
 * [2024-10-01, 14:31:19](https://lobste.rs/s/2vutni/getentropy_vs_rand_bytes) - [getentropy() vs RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
 * [2024-10-01, 13:55:04](https://lobste.rs/s/2rrnzz/announcing_voidzero_next_generation) - [Announcing VoidZero - Next Generation Toolchain for JavaScript](https://voidzero.dev/posts/announcing-voidzero-inc)
 * [2024-10-01, 12:28:28](https://lobste.rs/s/cvutan/phrase_matching_marginalia_search) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
