@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-01, 19:53:53",
+      "https://lobste.rs/s/eby88l/futex_like_apis_on_non_linux_systems"
+    ],
+    [
+      "Futex-like APIs on non-Linux systems",
+      "https://shift.click/blog/futex-like-apis/"
+    ]
+  ],
+  [
+    [
       "2024-10-01, 19:52:35",
       "https://lobste.rs/s/mnrpv8/modes_considered_harmful"
     ],
@@ -57,16 +67,6 @@
     [
       "Who's Hiring? Q4Y2024",
       "https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 15:42:19",
-      "https://lobste.rs/s/rhltwc/should_you_use_rust_llm_based_tools_for"
-    ],
-    [
-      "Should you use Rust in LLM based tools for performance?",
-      "https://bosun.ai/posts/rust-for-genai-performance/"
     ]
   ],
   [
