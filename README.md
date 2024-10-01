@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-01, 14:31:19](https://lobste.rs/s/2vutni/getentropy_vs_rand_bytes) - [getentropy() vs RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
 * [2024-10-01, 13:55:04](https://lobste.rs/s/2rrnzz/announcing_voidzero_next_generation) - [Announcing VoidZero - Next Generation Toolchain for JavaScript](https://voidzero.dev/posts/announcing-voidzero-inc)
 * [2024-10-01, 12:28:28](https://lobste.rs/s/cvutan/phrase_matching_marginalia_search) - [Phrase Matching in Marginalia Search](https://www.marginalia.nu/log/a_111_phrase_matching/)
 * [2024-10-01, 10:57:21](https://lobste.rs/s/w1rq9r/tigerbeetle_coding_style_guide) - [TigerBeetle coding style guide](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
@@ -24,7 +25,6 @@
 * [2024-09-30, 14:23:53](https://lobste.rs/s/av9x9z/safety_goggles_for_alchemists_path) - [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-09-30, 12:56:15](https://lobste.rs/s/14fa6k/21_more_aws_services_they_should_cancel) - [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
-* [2024-09-30, 11:18:55](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week)
 
 ## [Archives](archives/index.md)
 
