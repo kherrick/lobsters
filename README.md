@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-01, 02:46:19](https://lobste.rs/s/vzrut7/consistency_problem_distributed_locks) - [The Consistency Problem of Distributed Locks](https://blog.damnever.com/en/2020/the-consistency-problem-of-distributed-lock)
+* [2024-10-01, 01:39:37](https://lobste.rs/s/8kbqex/rootasrole_role_based_alternative_sudo) - [RootAsRole: A role-based alternative to sudo](https://lechatp.github.io/RootAsRole/)
 * [2024-10-01, 00:55:03](https://lobste.rs/s/keitv2/wonders_prehistorik_man_on_gb) - [The wonders of Prehistorik Man on the GB](https://eldred.fr/blog/prehistorik/)
 * [2024-09-30, 23:04:31](https://lobste.rs/s/xtkfli/integrity_constraints_relational) - [Integrity Constraints and the Relational Derivative](https://buttondown.com/jaffray/archive/integrity-constraints-and-the-relational/)
 * [2024-09-30, 22:37:27](https://lobste.rs/s/17rdy4/redis_client_side_caching) - [Redis: client-side caching](https://redis.io/docs/latest/develop/reference/client-side-caching/)
@@ -9,7 +11,6 @@
 * [2024-09-30, 18:13:08](https://lobste.rs/s/92qcme/insatiable_hunger_open_ai) - [The insatiable hunger of (Open)AI](https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/)
 * [2024-09-30, 17:27:03](https://lobste.rs/s/hqr3t3/how_networking_affects_distributed) - [How networking affects distributed systems](https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/)
 * [2024-09-30, 17:22:28](https://lobste.rs/s/jvg7od/i_want_process_aware_types) - [I Want Process-Aware Types](https://sean.barag.org/writing/process-aware-types)
-* [2024-09-30, 16:24:01](https://lobste.rs/s/9r0dqp/five_common_misconceptions_about_event) - [Five Common Misconceptions About Event-Driven Architecture](https://www.reactivesystems.eu/2024/09/30/five-common-misconceptions-about-eda.html)
 * [2024-09-30, 16:12:29](https://lobste.rs/s/ivdiba/making_my_nvim_feel_more_like_helix_with) - [Making my Nvim Feel More Like Helix with Mini.nvim](https://evantravers.com/articles/2024/09/17/making-my-nvim-act-more-like-helix-with-mini-nvim/)
 * [2024-09-30, 15:59:14](https://lobste.rs/s/vdapnz/no_such_thing_as_exactly_once_delivery) - [No such thing as exactly-once delivery](https://blog.sequinstream.com/at-most-once-at-least-once-and-exactly-once-delivery/)
 * [2024-09-30, 15:41:01](https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not) - [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
@@ -21,7 +22,6 @@
 * [2024-09-30, 11:18:55](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week)
 * [2024-09-30, 10:25:56](https://lobste.rs/s/qa7osq/runit_2_2_0_available) - [runit-2.2.0 available](https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html)
 * [2024-09-30, 10:16:24](https://lobste.rs/s/8ep75v/how_1_software_engineer_outperforms_138) - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
-* [2024-09-30, 09:46:25](https://lobste.rs/s/geuifh/secure_py_simplify_http_security_headers) - [secure.py – Simplify HTTP Security Headers for Python Web Apps (Major Update)](https://github.com/TypeError/secure)
 * [2024-09-30, 00:38:56](https://lobste.rs/s/n0vg9z/on_leaving_my_last_job_leaving_apple) - [On leaving my last job (leaving Apple)](https://typesanitizer.com/blog/leaving-apple.html)
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 15:23:19](https://lobste.rs/s/wxlsdn/building_robust_frontend_using) - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
