@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-01, 08:20:59](https://lobste.rs/s/l0tn4k/case_missing_increment) - [The case of the missing increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
+* [2024-10-01, 08:54:23](https://lobste.rs/s/hsdv9i/distill_cli_efficient_rust_powered_tool) - [Distill CLI: An efficient, Rust-powered tool for media summarization](https://www.allthingsdistributed.com/2024/06/introducing-distill-cli.html)
 * [2024-10-01, 05:07:05](https://lobste.rs/s/r6uxrs/alg_graphical_installer_for_arch_linux) - [ALG - graphical installer for Arch Linux](https://github.com/arch-linux-gui)
 * [2024-10-01, 04:46:12](https://lobste.rs/s/o8vqym/apple_ii_pixel_art) - [Apple II Pixel Art](http://www.deater.net/weave/vmwprod/a2_pixels/)
 * [2024-10-01, 02:46:19](https://lobste.rs/s/vzrut7/consistency_problem_distributed_locks) - [The Consistency Problem of Distributed Locks](https://blog.damnever.com/en/2020/the-consistency-problem-of-distributed-lock)
