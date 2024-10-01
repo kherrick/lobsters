@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-09-30, 23:11:03",
+      "https://lobste.rs/s/t5uilx/ffmpeg_7_1_release_tons_codecs"
+    ],
+    [
+      "FFmpeg 7.1 release: a tons of codecs",
+      "https://jbkempf.com/blog/2024/ffmpeg-7.1.0/"
+    ]
+  ],
+  [
+    [
       "2024-09-30, 23:04:31",
       "https://lobste.rs/s/xtkfli/integrity_constraints_relational"
     ],
@@ -87,16 +97,6 @@
     [
       "The insatiable hunger of (Open)AI",
       "https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 17:27:03",
-      "https://lobste.rs/s/hqr3t3/how_networking_affects_distributed"
-    ],
-    [
-      "How networking affects distributed systems",
-      "https://www.superdurszlak.dev/posts/the-four-horsemen-of-network-communication/"
     ]
   ],
   [
