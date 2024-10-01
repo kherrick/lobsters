@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 09:12:58](https://lobste.rs/s/jonrkj/dinosaur_learns_poetry) - [A dinosaur learns poetry](https://peateasea.de/a-dinosaur-learns-poetry/)
+* [2024-10-01, 09:05:15](https://lobste.rs/s/suzipc/multiversion_python_thoughts) - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 * [2024-10-01, 08:54:23](https://lobste.rs/s/hsdv9i/distill_cli_efficient_rust_powered_tool) - [Distill CLI: An efficient, Rust-powered tool for media summarization](https://www.allthingsdistributed.com/2024/06/introducing-distill-cli.html)
 * [2024-10-01, 08:20:59](https://lobste.rs/s/l0tn4k/case_missing_increment) - [The case of the missing increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
 * [2024-10-01, 05:07:05](https://lobste.rs/s/r6uxrs/alg_graphical_installer_for_arch_linux) - [ALG - graphical installer for Arch Linux](https://github.com/arch-linux-gui)
