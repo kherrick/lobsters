@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-09-30](index.md)
 
+* [2024-09-30, 23:11:03](https://lobste.rs/s/t5uilx/ffmpeg_7_1_release_tons_codecs) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 23:04:31](https://lobste.rs/s/xtkfli/integrity_constraints_relational) - [Integrity Constraints and the Relational Derivative](https://buttondown.com/jaffray/archive/integrity-constraints-and-the-relational/)
 * [2024-09-30, 22:37:27](https://lobste.rs/s/17rdy4/redis_client_side_caching) - [Redis: client-side caching](https://redis.io/docs/latest/develop/reference/client-side-caching/)
 * [2024-09-30, 22:19:17](https://lobste.rs/s/i0grux/durability_art_consensus) - [Durability and the Art of Consensus](https://www.youtube.com/watch?v=tRgvaqpQPwE)
