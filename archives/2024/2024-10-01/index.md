@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 23:47:34](https://lobste.rs/s/gdp4zy/reliability_constant_work_good_cup) - [Reliability, constant work, and a good cup of coffee](https://aws.amazon.com/builders-library/reliability-and-constant-work/)
 * [2024-10-01, 22:41:40](https://lobste.rs/s/aoduzj/google_chrome_built_ai_challenge) - [Google Chrome Built-in AI Challenge](https://googlechromeai.devpost.com/?linkId=11071015)
 * [2024-10-01, 19:53:53](https://lobste.rs/s/eby88l/futex_like_apis_on_non_linux_systems) - [Futex-like APIs on non-Linux systems](https://shift.click/blog/futex-like-apis/)
 * [2024-10-01, 19:52:35](https://lobste.rs/s/mnrpv8/modes_considered_harmful) - [Modes Considered Harmful](https://a-nickels-worth.dev/posts/modesharm/)
