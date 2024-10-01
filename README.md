@@ -2,6 +2,7 @@
 
 * [2024-10-01, 04:46:12](https://lobste.rs/s/o8vqym/apple_ii_pixel_art) - [Apple II Pixel Art](http://www.deater.net/weave/vmwprod/a2_pixels/)
 * [2024-10-01, 02:46:19](https://lobste.rs/s/vzrut7/consistency_problem_distributed_locks) - [The Consistency Problem of Distributed Locks](https://blog.damnever.com/en/2020/the-consistency-problem-of-distributed-lock)
+* [2024-10-01, 02:36:21](https://lobste.rs/s/0lmllu/noto_emoji_font_with_monochrome_emoji) - [Noto Emoji: A font with monochrome emoji support](https://emojipedia.org/noto-emoji)
 * [2024-10-01, 01:39:37](https://lobste.rs/s/8kbqex/rootasrole_role_based_alternative_sudo) - [RootAsRole: A role-based alternative to sudo](https://lechatp.github.io/RootAsRole/)
 * [2024-10-01, 00:55:03](https://lobste.rs/s/keitv2/wonders_prehistorik_man_on_gb) - [The wonders of Prehistorik Man on the GB](https://eldred.fr/blog/prehistorik/)
 * [2024-09-30, 23:11:03](https://lobste.rs/s/t5uilx/ffmpeg_7_1_release_tons_codecs) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
@@ -21,7 +22,6 @@
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-09-30, 12:56:15](https://lobste.rs/s/14fa6k/21_more_aws_services_they_should_cancel) - [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
 * [2024-09-30, 11:18:55](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week)
-* [2024-09-30, 10:25:56](https://lobste.rs/s/qa7osq/runit_2_2_0_available) - [runit-2.2.0 available](https://www.mail-archive.com/supervision@list.skarnet.org/msg03158.html)
 * [2024-09-30, 10:16:24](https://lobste.rs/s/8ep75v/how_1_software_engineer_outperforms_138) - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
 * [2024-09-29, 19:02:42](https://lobste.rs/s/4xzxqk/don_t_believe_hype_agi_is_far_from) - [Don’t believe the hype: AGI is far from inevitable](https://www.ru.nl/en/research/research-news/dont-believe-the-hype-agi-is-far-from-inevitable)
 * [2024-09-29, 15:23:19](https://lobste.rs/s/wxlsdn/building_robust_frontend_using) - [Building a robust frontend using progressive enhancement](https://www.gov.uk/service-manual/technology/using-progressive-enhancement)
