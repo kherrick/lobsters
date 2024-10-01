@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-01, 19:52:35](https://lobste.rs/s/mnrpv8/modes_considered_harmful) - [Modes Considered Harmful](https://a-nickels-worth.dev/posts/modesharm/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 16:56:40](https://lobste.rs/s/tnqjor/ad_hoc_tools_for_gathering_prompt_context) - [Ad hoc tools for gathering prompt context](https://austinhenley.com/blog/promptcontext.html)
 * [2024-10-01, 16:54:28](https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text) - [Suggestion: change the \"archive\" link text to \"caches\"](https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text)
@@ -15,7 +16,6 @@
 * [2024-10-01, 10:57:21](https://lobste.rs/s/w1rq9r/tigerbeetle_coding_style_guide) - [TigerBeetle coding style guide](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 * [2024-10-01, 10:50:22](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna) - [Bookmarklets: do you use them? If so, wanna share them?](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna)
 * [2024-10-01, 10:19:18](https://lobste.rs/s/84unlo/migrating_from_aws_self_hosting) - [Migrating from AWS to Self-Hosting](https://ziglang.org/news/migrate-to-self-hosting/)
-* [2024-10-01, 08:20:59](https://lobste.rs/s/l0tn4k/case_missing_increment) - [The case of the missing increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
 * [2024-09-30, 23:11:03](https://lobste.rs/s/t5uilx/ffmpeg_7_1_release_tons_codecs) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 21:43:33](https://lobste.rs/s/mzvjfk/revisiting_dos_memory_models) - [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-09-30, 20:48:33](https://lobste.rs/s/v0jpcf/zig_website_has_been_re_engineered) - [The Zig Website Has Been Re-engineered](https://ziglang.org/news/website-zine/)
