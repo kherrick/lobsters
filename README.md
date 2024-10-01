@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-01, 09:12:58](https://lobste.rs/s/jonrkj/dinosaur_learns_poetry) - [A dinosaur learns poetry](https://peateasea.de/a-dinosaur-learns-poetry/)
 * [2024-10-01, 08:20:59](https://lobste.rs/s/l0tn4k/case_missing_increment) - [The case of the missing increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
 * [2024-10-01, 04:46:12](https://lobste.rs/s/o8vqym/apple_ii_pixel_art) - [Apple II Pixel Art](http://www.deater.net/weave/vmwprod/a2_pixels/)
 * [2024-10-01, 02:46:19](https://lobste.rs/s/vzrut7/consistency_problem_distributed_locks) - [The Consistency Problem of Distributed Locks](https://blog.damnever.com/en/2020/the-consistency-problem-of-distributed-lock)
@@ -8,6 +7,7 @@
 * [2024-10-01, 00:55:03](https://lobste.rs/s/keitv2/wonders_prehistorik_man_on_gb) - [The wonders of Prehistorik Man on the GB](https://eldred.fr/blog/prehistorik/)
 * [2024-09-30, 23:11:03](https://lobste.rs/s/t5uilx/ffmpeg_7_1_release_tons_codecs) - [FFmpeg 7.1 release: a tons of codecs](https://jbkempf.com/blog/2024/ffmpeg-7.1.0/)
 * [2024-09-30, 23:04:31](https://lobste.rs/s/xtkfli/integrity_constraints_relational) - [Integrity Constraints and the Relational Derivative](https://buttondown.com/jaffray/archive/integrity-constraints-and-the-relational/)
+* [2024-09-30, 22:37:27](https://lobste.rs/s/17rdy4/redis_client_side_caching) - [Redis: client-side caching](https://redis.io/docs/latest/develop/reference/client-side-caching/)
 * [2024-09-30, 21:43:33](https://lobste.rs/s/mzvjfk/revisiting_dos_memory_models) - [Revisiting the DOS memory models](https://blogsystem5.substack.com/p/dos-memory-models)
 * [2024-09-30, 20:48:33](https://lobste.rs/s/v0jpcf/zig_website_has_been_re_engineered) - [The Zig Website Has Been Re-engineered](https://ziglang.org/news/website-zine/)
 * [2024-09-30, 19:22:14](https://lobste.rs/s/ynwouj/seven_things_i_wish_i_would_not_hear_as) - [Seven things I wish I would not hear as an autist](https://www.superdurszlak.dev/posts/seven-things-i-wish-i-would-not-hear-as-an-autist/)
