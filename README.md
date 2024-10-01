@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-01, 11:50:54](https://lobste.rs/s/bezdgh/bop_spotter) - [Bop Spotter](https://walzr.com/bop-spotter)
 * [2024-10-01, 10:57:21](https://lobste.rs/s/w1rq9r/tigerbeetle_coding_style_guide) - [TigerBeetle coding style guide](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 * [2024-10-01, 10:50:22](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna) - [Bookmarklets: do you use them? If so, wanna share them?](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna)
 * [2024-10-01, 10:19:18](https://lobste.rs/s/84unlo/migrating_from_aws_self_hosting) - [Migrating from AWS to Self-Hosting](https://ziglang.org/news/migrate-to-self-hosting/)
@@ -24,7 +25,6 @@
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 * [2024-09-30, 12:56:15](https://lobste.rs/s/14fa6k/21_more_aws_services_they_should_cancel) - [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
 * [2024-09-30, 11:18:55](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ckaeeu/what_are_you_doing_this_week)
-* [2024-09-30, 10:16:24](https://lobste.rs/s/8ep75v/how_1_software_engineer_outperforms_138) - [How 1 Software Engineer Outperforms 138 - Lichess Case Study](https://www.youtube.com/watch?v=7VSVfQcaxFY)
 
 ## [Archives](archives/index.md)
 
