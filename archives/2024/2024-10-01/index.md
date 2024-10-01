@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 16:56:40](https://lobste.rs/s/tnqjor/ad_hoc_tools_for_gathering_prompt_context) - [Ad hoc tools for gathering prompt context](https://austinhenley.com/blog/promptcontext.html)
 * [2024-10-01, 16:54:28](https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text) - [Suggestion: change the \"archive\" link text to \"caches\"](https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text)
 * [2024-10-01, 16:53:49](https://lobste.rs/s/dnruvp/ohm_parsing_made_easy) - [Ohm: Parsing Made Easy](https://nextjournal.com/dubroy/ohm-parsing-made-easy)

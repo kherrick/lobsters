@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 16:56:40](https://lobste.rs/s/tnqjor/ad_hoc_tools_for_gathering_prompt_context) - [Ad hoc tools for gathering prompt context](https://austinhenley.com/blog/promptcontext.html)
 * [2024-10-01, 16:54:28](https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text) - [Suggestion: change the \"archive\" link text to \"caches\"](https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text)
 * [2024-10-01, 16:53:49](https://lobste.rs/s/dnruvp/ohm_parsing_made_easy) - [Ohm: Parsing Made Easy](https://nextjournal.com/dubroy/ohm-parsing-made-easy)
@@ -24,7 +25,6 @@
 * [2024-09-30, 15:41:01](https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not) - [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
 * [2024-09-30, 14:23:53](https://lobste.rs/s/av9x9z/safety_goggles_for_alchemists_path) - [Safety Goggles for Alchemists: The Path towards Safer Transmute](https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/)
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
-* [2024-09-30, 12:56:15](https://lobste.rs/s/14fa6k/21_more_aws_services_they_should_cancel) - [21 More AWS Services They Should Cancel](https://justingarrison.com/blog/2024-08-05-more-aws-services-they-should-cancel/)
 
 ## [Archives](archives/index.md)
 
