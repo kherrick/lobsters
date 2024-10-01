@@ -4,7 +4,7 @@
 * [2024-10-01, 10:57:21](https://lobste.rs/s/w1rq9r/tigerbeetle_coding_style_guide) - [TigerBeetle coding style guide](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 * [2024-10-01, 10:50:22](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna) - [Bookmarklets: do you use them? If so, wanna share them?](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna)
 * [2024-10-01, 10:19:18](https://lobste.rs/s/84unlo/migrating_from_aws_self_hosting) - [Migrating from AWS to Self-Hosting](https://ziglang.org/news/migrate-to-self-hosting/)
-* [2024-10-01, 08:20:59](https://lobste.rs/s/l0tn4k/case_missing_increment) - [The case of the missing increment](https://www.computerenhance.com/p/the-case-of-the-missing-increment)
+* [2024-10-01, 09:05:15](https://lobste.rs/s/suzipc/multiversion_python_thoughts) - [Multiversion Python Thoughts](https://lucumr.pocoo.org/2024/9/9/multiversion-python/)
 * [2024-10-01, 05:40:21](https://lobste.rs/s/2am0h7/quandoom_port_doom_for_quantum_computer) - [Quandoom: A port of DOOM for a quantum computer](https://github.com/Lumorti/Quandoom)
 * [2024-10-01, 04:46:12](https://lobste.rs/s/o8vqym/apple_ii_pixel_art) - [Apple II Pixel Art](http://www.deater.net/weave/vmwprod/a2_pixels/)
 * [2024-10-01, 02:36:21](https://lobste.rs/s/0lmllu/noto_emoji_font_with_monochrome_emoji) - [Noto Emoji: A font with monochrome emoji support](https://emojipedia.org/noto-emoji)
