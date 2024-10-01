@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
 * [2024-10-01, 16:56:40](https://lobste.rs/s/tnqjor/ad_hoc_tools_for_gathering_prompt_context) - [Ad hoc tools for gathering prompt context](https://austinhenley.com/blog/promptcontext.html)
+* [2024-10-01, 16:54:28](https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text) - [Suggestion: change the \"archive\" link text to \"caches\"](https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text)
 * [2024-10-01, 16:53:49](https://lobste.rs/s/dnruvp/ohm_parsing_made_easy) - [Ohm: Parsing Made Easy](https://nextjournal.com/dubroy/ohm-parsing-made-easy)
+* [2024-10-01, 16:11:46](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024) - [Who's Hiring? Q4Y2024](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024)
 * [2024-10-01, 15:42:19](https://lobste.rs/s/rhltwc/should_you_use_rust_llm_based_tools_for) - [Should you use Rust in LLM based tools for performance? | Bosun](https://bosun.ai/posts/rust-for-genai-performance/)
 * [2024-10-01, 14:53:11](https://lobste.rs/s/0ugepc/this_is_my_dead_grandmother_s_special_day) - [This is [my dead grandmother]'s special day](https://www.scottsmitelli.com/articles/my-dead-grandmothers-special-day/)
 * [2024-10-01, 14:31:19](https://lobste.rs/s/2vutni/getentropy_vs_rand_bytes) - [getentropy() vs RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
