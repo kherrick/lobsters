@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-01](index.md)
 
+* [2024-10-01, 15:42:19](https://lobste.rs/s/rhltwc/should_you_use_rust_llm_based_tools_for) - [Should you use Rust in LLM based tools for performance? | Bosun](https://bosun.ai/posts/rust-for-genai-performance/)
 * [2024-10-01, 14:53:11](https://lobste.rs/s/0ugepc/this_is_my_dead_grandmother_s_special_day) - [This is [my dead grandmother]'s special day](https://www.scottsmitelli.com/articles/my-dead-grandmothers-special-day/)
 * [2024-10-01, 14:31:19](https://lobste.rs/s/2vutni/getentropy_vs_rand_bytes) - [getentropy() vs RAND_bytes()](https://dotat.at/@/2024-10-01-getentropy.html)
 * [2024-10-01, 13:55:04](https://lobste.rs/s/2rrnzz/announcing_voidzero_next_generation) - [Announcing VoidZero - Next Generation Toolchain for JavaScript](https://voidzero.dev/posts/announcing-voidzero-inc)
