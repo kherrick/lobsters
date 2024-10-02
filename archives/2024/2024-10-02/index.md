@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 13:21:44](https://lobste.rs/s/jxe7ri/bob_2025_call_for_contributions) - [BOB 2025 - Call for Contributions](https://bobkonf.de/2025/en/index.html)
 * [2024-10-02, 10:06:11](https://lobste.rs/s/bdceui/axum_style_magic_function_parameters) - [Axum-style magic function parameters](https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md)
 * [2024-10-02, 09:22:26](https://lobste.rs/s/yyv4m4/concise_typescript_book) - [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
