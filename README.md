@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-02, 16:25:32](https://lobste.rs/s/wzwe6x/prospective_vision_optional_strict) - [Prospective vision: Optional Strict Memory Safety for Swift](https://forums.swift.org/t/prospective-vision-optional-strict-memory-safety-for-swift/75090)
 * [2024-10-02, 16:05:20](https://lobste.rs/s/jzj2zy/autocatalytic_adoption_harnessing) - [Autocatalytic Adoption: Harnessing Patterns to Promote Honeycomb in Your Organization](https://www.honeycomb.io/blog/harnessing-patterns-promote-honeycomb)
 * [2024-10-02, 15:43:20](https://lobste.rs/s/a2ocuu/origin_ad_adaptable_text_editor) - [The origin of ad: an adaptable text editor](https://sminez.github.io/ad-an-adaptable-text-editor/)
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
-* [2024-10-02, 14:16:03](https://lobste.rs/s/xngyix/bleepler_kit_manual) - [Bleepler Kit Manual](https://loblast.com/bleepler-kit-manual)
 * [2024-10-02, 13:50:54](https://lobste.rs/s/foj8cj/serialization_is_secret) - [Serialization is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-10-02, 13:21:44](https://lobste.rs/s/jxe7ri/bob_2025_call_for_contributions) - [BOB 2025 - Call for Contributions](https://bobkonf.de/2025/en/index.html)
 * [2024-10-02, 10:06:11](https://lobste.rs/s/bdceui/axum_style_magic_function_parameters) - [Axum-style magic function parameters](https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md)
