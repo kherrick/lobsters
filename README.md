@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-02, 07:49:14](https://lobste.rs/s/us7epo/scheme_r7rs_large_foundations) - [Scheme R7RS Large Foundations: The Macrological Fascicle](https://r7rs.org/large/fascicles/macro/1/)
 * [2024-10-02, 07:21:06](https://lobste.rs/s/s2kuln/go_talk_llm_all_ways_i_use_ai) - [Go talk to the LLM - All the ways I use AI](https://blog.meain.io/2024/how-i-use-ai/)
 * [2024-10-02, 06:39:23](https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 06:34:48](https://lobste.rs/s/jfyynk/let_network_tell_you_where_you_are_nerd) - [Let the network tell you where you are: a nerd snipe story](https://rachelbythebay.com/w/2024/10/01/lldp/)
@@ -23,7 +24,6 @@
 * [2024-10-01, 10:19:18](https://lobste.rs/s/84unlo/migrating_from_aws_self_hosting) - [Migrating from AWS to Self-Hosting](https://ziglang.org/news/migrate-to-self-hosting/)
 * [2024-09-30, 20:48:33](https://lobste.rs/s/v0jpcf/zig_website_has_been_re_engineered) - [The Zig Website Has Been Re-engineered](https://ziglang.org/news/website-zine/)
 * [2024-09-30, 18:13:08](https://lobste.rs/s/92qcme/insatiable_hunger_open_ai) - [The insatiable hunger of (Open)AI](https://wimvanderbauwhede.codeberg.page/articles/the-insatiable-hunger-of-openai/)
-* [2024-09-30, 15:41:01](https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not) - [Why Your Rails-like Framework Is Not Widely Used](https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/)
 * [2024-09-30, 14:23:35](https://lobste.rs/s/piccfs/rust_needs_web_framework_for_lazy) - [Rust needs a web framework for lazy developers](https://ntietz.com/blog/rust-needs-a-web-framework-for-lazy-developers/)
 
 ## [Archives](archives/index.md)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 07:49:14](https://lobste.rs/s/us7epo/scheme_r7rs_large_foundations) - [Scheme R7RS Large Foundations: The Macrological Fascicle](https://r7rs.org/large/fascicles/macro/1/)
 * [2024-10-02, 07:21:06](https://lobste.rs/s/s2kuln/go_talk_llm_all_ways_i_use_ai) - [Go talk to the LLM - All the ways I use AI](https://blog.meain.io/2024/how-i-use-ai/)
 * [2024-10-02, 06:39:23](https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 06:34:48](https://lobste.rs/s/jfyynk/let_network_tell_you_where_you_are_nerd) - [Let the network tell you where you are: a nerd snipe story](https://rachelbythebay.com/w/2024/10/01/lldp/)
