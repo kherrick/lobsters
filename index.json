@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-02, 10:06:11",
+      "https://lobste.rs/s/bdceui/axum_style_magic_function_parameters"
+    ],
+    [
+      "Axum-style magic function parameters",
+      "https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 09:22:26",
       "https://lobste.rs/s/yyv4m4/concise_typescript_book"
     ],
@@ -97,16 +107,6 @@
     [
       "Reliability, constant work, and a good cup of coffee",
       "https://aws.amazon.com/builders-library/reliability-and-constant-work/"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 19:53:53",
-      "https://lobste.rs/s/eby88l/futex_like_apis_on_non_linux_systems"
-    ],
-    [
-      "Futex-like APIs on non-Linux systems",
-      "https://shift.click/blog/futex-like-apis/"
     ]
   ],
   [
