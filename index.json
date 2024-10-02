@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-02, 21:45:20",
+      "https://lobste.rs/s/wqnutm/hell_shell_scripting_haskell_dialect"
+    ],
+    [
+      "Hell: Shell scripting Haskell dialect",
+      "https://chrisdone.com/posts/hell/"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 19:19:28",
       "https://lobste.rs/s/szpors/tauri_2_0_stable_release"
     ],
@@ -127,16 +137,6 @@
     [
       "Axum-style magic function parameters",
       "https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 09:22:26",
-      "https://lobste.rs/s/yyv4m4/concise_typescript_book"
-    ],
-    [
-      "The Concise TypeScript Book",
-      "https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/"
     ]
   ],
   [
