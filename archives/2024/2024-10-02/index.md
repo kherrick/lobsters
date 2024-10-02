@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 14:16:03](https://lobste.rs/s/xngyix/bleepler_kit_manual) - [Bleepler Kit Manual](https://loblast.com/bleepler-kit-manual)
 * [2024-10-02, 13:50:54](https://lobste.rs/s/foj8cj/serialization_is_secret) - [Serialization is the Secret](https://www.zachdaniel.dev/p/serialization-is-the-secret)
 * [2024-10-02, 13:21:44](https://lobste.rs/s/jxe7ri/bob_2025_call_for_contributions) - [BOB 2025 - Call for Contributions](https://bobkonf.de/2025/en/index.html)
 * [2024-10-02, 10:06:11](https://lobste.rs/s/bdceui/axum_style_magic_function_parameters) - [Axum-style magic function parameters](https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md)
