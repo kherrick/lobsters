@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-02, 18:10:48](https://lobste.rs/s/iyncoq/bytecode_interpreters_for_tiny) - [bytecode interpreters for tiny computers](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html)
 * [2024-10-02, 17:42:18](https://lobste.rs/s/by4qfk/terminal_colours_are_tricky) - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 * [2024-10-02, 17:31:34](https://lobste.rs/s/bfegsn/birth_bazel) - [Birth of the Bazel](https://blog.engflow.com/2024/10/01/birth-of-the-bazel/)
 * [2024-10-02, 17:28:48](https://lobste.rs/s/bvlbzc/proposal_add_signals_javascript) - [A proposal to add signals to JavaScript](https://github.com/tc39/proposal-signals)
-* [2024-10-02, 17:22:23](https://lobste.rs/s/ufblgv/ffi_purego_binding_for_libffi) - [ffi: A purego binding for libffi](https://github.com/JupiterRider/ffi)
 * [2024-10-02, 17:05:38](https://lobste.rs/s/gy4lqd/go_greatest_teaching_language) - [Go, the greatest teaching language?](https://registerspill.thorstenball.com/p/glad-i-did-it-in-go)
 * [2024-10-02, 15:43:20](https://lobste.rs/s/a2ocuu/origin_ad_adaptable_text_editor) - [The origin of ad: an adaptable text editor](https://sminez.github.io/ad-an-adaptable-text-editor/)
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
