@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-02, 06:39:23",
+      "https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t"
+    ],
+    [
+      "NixOS is a good server OS, except when it isn't",
+      "https://sidhion.com/blog/posts/nixos_server_issues/"
+    ]
+  ],
+  [
+    [
+      "2024-10-02, 06:34:48",
+      "https://lobste.rs/s/jfyynk/let_network_tell_you_where_you_are_nerd"
+    ],
+    [
+      "Let the network tell you where you are: a nerd snipe story",
+      "https://rachelbythebay.com/w/2024/10/01/lldp/"
+    ]
+  ],
+  [
+    [
+      "2024-10-02, 06:30:14",
+      "https://lobste.rs/s/ahlo1i/how_make_your_papers_run_executable"
+    ],
+    [
+      "How to make your papers run: Executable formal semantics for your language (2019)",
+      "https://www.tweag.io/blog/2019-11-28-PCF-makam-spec/"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 04:29:36",
       "https://lobste.rs/s/agckgs/dashi_streamlit_like_framework_for"
     ],
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2024-10-01, 12:28:28",
-      "https://lobste.rs/s/cvutan/phrase_matching_marginalia_search"
-    ],
-    [
-      "Phrase Matching in Marginalia Search",
-      "https://www.marginalia.nu/log/a_111_phrase_matching/"
-    ]
-  ],
-  [
-    [
       "2024-10-01, 11:50:54",
       "https://lobste.rs/s/bezdgh/bop_spotter"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-09-30, 17:22:28",
-      "https://lobste.rs/s/jvg7od/i_want_process_aware_types"
-    ],
-    [
-      "I Want Process-Aware Types",
-      "https://sean.barag.org/writing/process-aware-types"
-    ]
-  ],
-  [
-    [
       "2024-09-30, 15:41:01",
       "https://lobste.rs/s/twgbyi/why_your_rails_like_framework_is_not"
     ],
     [
       "Why Your Rails-like Framework Is Not Widely Used",
       "https://hermanradtke.com/why-your-rails-like-framework-is-not-widely-used/"
-    ]
-  ],
-  [
-    [
-      "2024-09-30, 14:23:53",
-      "https://lobste.rs/s/av9x9z/safety_goggles_for_alchemists_path"
-    ],
-    [
-      "Safety Goggles for Alchemists: The Path towards Safer Transmute",
-      "https://jack.wrenn.fyi/blog/safety-goggles-for-alchemists/"
     ]
   ],
   [
