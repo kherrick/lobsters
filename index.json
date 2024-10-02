@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-02, 18:10:48",
+      "https://lobste.rs/s/iyncoq/bytecode_interpreters_for_tiny"
+    ],
+    [
+      "bytecode interpreters for tiny computers",
+      "https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 17:42:18",
       "https://lobste.rs/s/by4qfk/terminal_colours_are_tricky"
     ],
@@ -27,16 +37,6 @@
     [
       "A proposal to add signals to JavaScript",
       "https://github.com/tc39/proposal-signals"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 17:22:23",
-      "https://lobste.rs/s/ufblgv/ffi_purego_binding_for_libffi"
-    ],
-    [
-      "ffi: A purego binding for libffi",
-      "https://github.com/JupiterRider/ffi"
     ]
   ],
   [
