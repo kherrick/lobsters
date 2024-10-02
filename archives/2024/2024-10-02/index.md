@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 09:22:26](https://lobste.rs/s/yyv4m4/concise_typescript_book) - [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 07:49:14](https://lobste.rs/s/us7epo/scheme_r7rs_large_foundations) - [Scheme R7RS Large Foundations: The Macrological Fascicle](https://r7rs.org/large/fascicles/macro/1/)
 * [2024-10-02, 07:21:06](https://lobste.rs/s/s2kuln/go_talk_llm_all_ways_i_use_ai) - [Go talk to the LLM - All the ways I use AI](https://blog.meain.io/2024/how-i-use-ai/)
