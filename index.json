@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-02, 07:21:06",
+      "https://lobste.rs/s/s2kuln/go_talk_llm_all_ways_i_use_ai"
+    ],
+    [
+      "Go talk to the LLM - All the ways I use AI",
+      "https://blog.meain.io/2024/how-i-use-ai/"
+    ]
+  ],
+  [
+    [
       "2024-10-02, 06:39:23",
       "https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t"
     ],
@@ -97,16 +107,6 @@
     [
       "Ad hoc tools for gathering prompt context",
       "https://austinhenley.com/blog/promptcontext.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-01, 16:54:28",
-      "https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text"
-    ],
-    [
-      "Suggestion: change the \"archive\" link text to \"caches\"",
-      "https://lobste.rs/s/nsdzkf/suggestion_change_archive_link_text"
     ]
   ],
   [
