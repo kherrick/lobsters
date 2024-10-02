@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 19:19:28](https://lobste.rs/s/szpors/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
 * [2024-10-02, 18:57:43](https://lobste.rs/s/octey5/olimex_rvpc_is_1_euro_risc_v_computer_kit) - [Olimex RVPC is a 1 Euro RISC-V computer kit with VGA and PS/2](https://www.cnx-software.com/2024/10/03/olimex-rvpc-is-a-one-euro-risc-v-computer-kit-with-vga-and-ps-2-connectors/)
 * [2024-10-02, 18:44:33](https://lobste.rs/s/h3htre/hot_code_reloading_erlang_without_using) - [Hot code reloading in Erlang without using an OTP release](https://eighty-twenty.org/2024/10/02/hot-reloading-in-erlang)
 * [2024-10-02, 18:43:10](https://lobste.rs/s/dk1ugj/decoupling_depth) - [decoupling in depth](https://explaining.software/archive/decoupling-in-depth/)

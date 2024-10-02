@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-02, 19:19:28](https://lobste.rs/s/szpors/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
 * [2024-10-02, 18:57:43](https://lobste.rs/s/octey5/olimex_rvpc_is_1_euro_risc_v_computer_kit) - [Olimex RVPC is a 1 Euro RISC-V computer kit with VGA and PS/2](https://www.cnx-software.com/2024/10/03/olimex-rvpc-is-a-one-euro-risc-v-computer-kit-with-vga-and-ps-2-connectors/)
 * [2024-10-02, 18:44:33](https://lobste.rs/s/h3htre/hot_code_reloading_erlang_without_using) - [Hot code reloading in Erlang without using an OTP release](https://eighty-twenty.org/2024/10/02/hot-reloading-in-erlang)
 * [2024-10-02, 18:43:10](https://lobste.rs/s/dk1ugj/decoupling_depth) - [decoupling in depth](https://explaining.software/archive/decoupling-in-depth/)
@@ -22,7 +23,6 @@
 * [2024-10-01, 19:52:35](https://lobste.rs/s/mnrpv8/modes_considered_harmful) - [Modes Considered Harmful](https://a-nickels-worth.dev/posts/modesharm/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 16:11:46](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024) - [Who's Hiring? Q4Y2024](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024)
-* [2024-10-01, 10:57:21](https://lobste.rs/s/w1rq9r/tigerbeetle_coding_style_guide) - [TigerBeetle coding style guide](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/TIGER_STYLE.md)
 * [2024-10-01, 10:50:22](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna) - [Bookmarklets: do you use them? If so, wanna share them?](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna)
 * [2024-10-01, 10:19:18](https://lobste.rs/s/84unlo/migrating_from_aws_self_hosting) - [Migrating from AWS to Self-Hosting](https://ziglang.org/news/migrate-to-self-hosting/)
 
