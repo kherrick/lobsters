@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-02, 21:45:20](https://lobste.rs/s/wqnutm/hell_shell_scripting_haskell_dialect) - [Hell: Shell scripting Haskell dialect](https://chrisdone.com/posts/hell/)
 * [2024-10-02, 19:19:28](https://lobste.rs/s/szpors/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
 * [2024-10-02, 18:57:43](https://lobste.rs/s/octey5/olimex_rvpc_is_1_euro_risc_v_computer_kit) - [Olimex RVPC is a 1 Euro RISC-V computer kit with VGA and PS/2](https://www.cnx-software.com/2024/10/03/olimex-rvpc-is-a-one-euro-risc-v-computer-kit-with-vga-and-ps-2-connectors/)
 * [2024-10-02, 18:44:33](https://lobste.rs/s/h3htre/hot_code_reloading_erlang_without_using) - [Hot code reloading in Erlang without using an OTP release](https://eighty-twenty.org/2024/10/02/hot-reloading-in-erlang)
@@ -13,7 +14,6 @@
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 13:21:44](https://lobste.rs/s/jxe7ri/bob_2025_call_for_contributions) - [BOB 2025 - Call for Contributions](https://bobkonf.de/2025/en/index.html)
 * [2024-10-02, 10:06:11](https://lobste.rs/s/bdceui/axum_style_magic_function_parameters) - [Axum-style magic function parameters](https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md)
-* [2024-10-02, 09:22:26](https://lobste.rs/s/yyv4m4/concise_typescript_book) - [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 07:49:14](https://lobste.rs/s/us7epo/scheme_r7rs_large_foundations) - [Scheme R7RS Large Foundations: The Macrological Fascicle](https://r7rs.org/large/fascicles/macro/1/)
 * [2024-10-02, 07:21:06](https://lobste.rs/s/s2kuln/go_talk_llm_all_ways_i_use_ai) - [Go talk to the LLM - All the ways I use AI](https://blog.meain.io/2024/how-i-use-ai/)
