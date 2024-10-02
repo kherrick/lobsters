@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 17:42:18](https://lobste.rs/s/by4qfk/terminal_colours_are_tricky) - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 * [2024-10-02, 17:31:34](https://lobste.rs/s/bfegsn/birth_bazel) - [Birth of the Bazel](https://blog.engflow.com/2024/10/01/birth-of-the-bazel/)
 * [2024-10-02, 17:28:48](https://lobste.rs/s/bvlbzc/proposal_add_signals_javascript) - [A proposal to add signals to JavaScript](https://github.com/tc39/proposal-signals)
 * [2024-10-02, 17:22:23](https://lobste.rs/s/ufblgv/ffi_purego_binding_for_libffi) - [ffi: A purego binding for libffi](https://github.com/JupiterRider/ffi)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-02, 17:42:18](https://lobste.rs/s/by4qfk/terminal_colours_are_tricky) - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 * [2024-10-02, 17:31:34](https://lobste.rs/s/bfegsn/birth_bazel) - [Birth of the Bazel](https://blog.engflow.com/2024/10/01/birth-of-the-bazel/)
 * [2024-10-02, 17:28:48](https://lobste.rs/s/bvlbzc/proposal_add_signals_javascript) - [A proposal to add signals to JavaScript](https://github.com/tc39/proposal-signals)
 * [2024-10-02, 17:22:23](https://lobste.rs/s/ufblgv/ffi_purego_binding_for_libffi) - [ffi: A purego binding for libffi](https://github.com/JupiterRider/ffi)
@@ -18,7 +19,6 @@
 * [2024-10-02, 02:36:34](https://lobste.rs/s/15zleo/why_laptop_support_why_now_freebsd_s) - [Why laptop support, why now: FreeBSD’s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 * [2024-10-01, 19:52:35](https://lobste.rs/s/mnrpv8/modes_considered_harmful) - [Modes Considered Harmful](https://a-nickels-worth.dev/posts/modesharm/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
-* [2024-10-01, 16:53:49](https://lobste.rs/s/dnruvp/ohm_parsing_made_easy) - [Ohm: Parsing Made Easy](https://nextjournal.com/dubroy/ohm-parsing-made-easy)
 * [2024-10-01, 16:11:46](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024) - [Who's Hiring? Q4Y2024](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024)
 * [2024-10-01, 14:53:11](https://lobste.rs/s/0ugepc/this_is_my_dead_grandmother_s_special_day) - [This is [my dead grandmother]'s special day](https://www.scottsmitelli.com/articles/my-dead-grandmothers-special-day/)
 * [2024-10-01, 11:50:54](https://lobste.rs/s/bezdgh/bop_spotter) - [Bop Spotter](https://walzr.com/bop-spotter)
