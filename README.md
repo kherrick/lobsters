@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-02, 16:05:20](https://lobste.rs/s/jzj2zy/autocatalytic_adoption_harnessing) - [Autocatalytic Adoption: Harnessing Patterns to Promote Honeycomb in Your Organization](https://www.honeycomb.io/blog/harnessing-patterns-promote-honeycomb)
 * [2024-10-02, 15:43:20](https://lobste.rs/s/a2ocuu/origin_ad_adaptable_text_editor) - [The origin of ad: an adaptable text editor](https://sminez.github.io/ad-an-adaptable-text-editor/)
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 14:16:03](https://lobste.rs/s/xngyix/bleepler_kit_manual) - [Bleepler Kit Manual](https://loblast.com/bleepler-kit-manual)
@@ -12,7 +13,6 @@
 * [2024-10-02, 07:21:06](https://lobste.rs/s/s2kuln/go_talk_llm_all_ways_i_use_ai) - [Go talk to the LLM - All the ways I use AI](https://blog.meain.io/2024/how-i-use-ai/)
 * [2024-10-02, 06:39:23](https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 06:34:48](https://lobste.rs/s/jfyynk/let_network_tell_you_where_you_are_nerd) - [Let the network tell you where you are: a nerd snipe story](https://rachelbythebay.com/w/2024/10/01/lldp/)
-* [2024-10-02, 04:29:36](https://lobste.rs/s/agckgs/dashi_streamlit_like_framework_for) - [Dashi - A Streamlit like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
 * [2024-10-02, 02:36:34](https://lobste.rs/s/15zleo/why_laptop_support_why_now_freebsd_s) - [Why laptop support, why now: FreeBSD’s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 * [2024-10-01, 19:52:35](https://lobste.rs/s/mnrpv8/modes_considered_harmful) - [Modes Considered Harmful](https://a-nickels-worth.dev/posts/modesharm/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)

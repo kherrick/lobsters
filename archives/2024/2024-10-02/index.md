@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-02](index.md)
 
+* [2024-10-02, 16:05:20](https://lobste.rs/s/jzj2zy/autocatalytic_adoption_harnessing) - [Autocatalytic Adoption: Harnessing Patterns to Promote Honeycomb in Your Organization](https://www.honeycomb.io/blog/harnessing-patterns-promote-honeycomb)
 * [2024-10-02, 15:43:20](https://lobste.rs/s/a2ocuu/origin_ad_adaptable_text_editor) - [The origin of ad: an adaptable text editor](https://sminez.github.io/ad-an-adaptable-text-editor/)
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 14:16:03](https://lobste.rs/s/xngyix/bleepler_kit_manual) - [Bleepler Kit Manual](https://loblast.com/bleepler-kit-manual)
