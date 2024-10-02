@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-02, 10:06:11](https://lobste.rs/s/bdceui/axum_style_magic_function_parameters) - [Axum-style magic function parameters](https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md)
 * [2024-10-02, 09:22:26](https://lobste.rs/s/yyv4m4/concise_typescript_book) - [The Concise TypeScript Book](https://gibbok.github.io/typescript-book/book/the-concise-typescript-book/)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 07:49:14](https://lobste.rs/s/us7epo/scheme_r7rs_large_foundations) - [Scheme R7RS Large Foundations: The Macrological Fascicle](https://r7rs.org/large/fascicles/macro/1/)
@@ -10,7 +11,6 @@
 * [2024-10-02, 04:29:36](https://lobste.rs/s/agckgs/dashi_streamlit_like_framework_for) - [Dashi - A Streamlit like Framework for Rubyists](https://thedayisntgray.github.io/now/2024/10/01/dashi-preview/)
 * [2024-10-02, 02:36:34](https://lobste.rs/s/15zleo/why_laptop_support_why_now_freebsd_s) - [Why laptop support, why now: FreeBSD’s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 * [2024-10-01, 23:47:34](https://lobste.rs/s/gdp4zy/reliability_constant_work_good_cup) - [Reliability, constant work, and a good cup of coffee](https://aws.amazon.com/builders-library/reliability-and-constant-work/)
-* [2024-10-01, 19:53:53](https://lobste.rs/s/eby88l/futex_like_apis_on_non_linux_systems) - [Futex-like APIs on non-Linux systems](https://shift.click/blog/futex-like-apis/)
 * [2024-10-01, 19:52:35](https://lobste.rs/s/mnrpv8/modes_considered_harmful) - [Modes Considered Harmful](https://a-nickels-worth.dev/posts/modesharm/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 16:56:40](https://lobste.rs/s/tnqjor/ad_hoc_tools_for_gathering_prompt_context) - [Ad hoc tools for gathering prompt context](https://austinhenley.com/blog/promptcontext.html)
