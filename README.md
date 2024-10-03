@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-03, 14:04:42](https://lobste.rs/s/rdzira/this_month_ladybird_september_2024) - [This Month in Ladybird - September 2024](https://ladybird.org/newsletter/2024-09-30/)
 * [2024-10-03, 13:44:56](https://lobste.rs/s/rdksqy/devenv_1_3_instant_developer) - [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
 * [2024-10-03, 12:45:14](https://lobste.rs/s/t4xhxo/every_bit_counts_journey_into_prometheus) - [Every Bit Counts, a Journey Into Prometheus Binary Data](https://fungiboletus.github.io/journey-prometheus-binary-data/)
 * [2024-10-03, 12:43:19](https://lobste.rs/s/jk2uqe/putting_hyper_back_hypertext) - [Putting \"hyper\" back in the hypertext](https://alexanderpetros.com/triptych/)
@@ -20,7 +21,6 @@
 * [2024-10-02, 17:05:38](https://lobste.rs/s/gy4lqd/go_greatest_teaching_language) - [Go, the greatest teaching language?](https://registerspill.thorstenball.com/p/glad-i-did-it-in-go)
 * [2024-10-02, 15:43:20](https://lobste.rs/s/a2ocuu/origin_ad_adaptable_text_editor) - [The origin of ad: an adaptable text editor](https://sminez.github.io/ad-an-adaptable-text-editor/)
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
-* [2024-10-02, 13:21:44](https://lobste.rs/s/jxe7ri/bob_2025_call_for_contributions) - [BOB 2025 - Call for Contributions](https://bobkonf.de/2025/en/index.html)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 06:39:23](https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 02:36:34](https://lobste.rs/s/15zleo/why_laptop_support_why_now_freebsd_s) - [Why laptop support, why now: FreeBSD’s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
