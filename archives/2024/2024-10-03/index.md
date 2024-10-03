@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 21:08:21](https://lobste.rs/s/oitwxl/kafka_pitfall_when_set_log_message) - [A Kafka pitfall when to set Log.Message.Timestamp.Type to CreateTime](https://medium.com/@jiangtaoliu/a-kafka-pitfall-when-to-set-log-message-timestamp-type-to-createtime-c17846813ca3)
+* [2024-10-03, 21:01:09](https://lobste.rs/s/odshqw/from_microservices_monolith_homelab) - [From microservices to a monolith (homelab)](https://nico.dcotta.com/blog/FromMicroservicesToMonolith)
 * [2024-10-03, 20:42:27](https://lobste.rs/s/y36p3u/mixwave_open_source_scalable_video) - [Mixwave - Open-Source, Scalable, Video Streaming Service (Cloudflare Stream Alternative)](https://github.com/matvp91/mixwave)
 * [2024-10-03, 20:15:11](https://lobste.rs/s/mbbfev/sorry_genai_is_not_going_10x_computer) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
 * [2024-10-03, 19:57:40](https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx) - [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
