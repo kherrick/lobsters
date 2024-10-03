@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-03, 13:44:56",
+      "https://lobste.rs/s/rdksqy/devenv_1_3_instant_developer"
+    ],
+    [
+      "devenv 1.3: Instant developer environments with Nix caching",
+      "https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 12:45:14",
       "https://lobste.rs/s/t4xhxo/every_bit_counts_journey_into_prometheus"
     ],
@@ -117,16 +127,6 @@
     [
       "Tauri 2.0 Stable Release",
       "https://v2.tauri.app/blog/tauri-20/"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 18:44:33",
-      "https://lobste.rs/s/h3htre/hot_code_reloading_erlang_without_using"
-    ],
-    [
-      "Hot code reloading in Erlang without using an OTP release",
-      "https://eighty-twenty.org/2024/10/02/hot-reloading-in-erlang"
     ]
   ],
   [
