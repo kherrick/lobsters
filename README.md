@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-03, 16:14:43](https://lobste.rs/s/ouyflt/how_fix_tricky_sidekiq_memory_issues) - [How to Fix Tricky Sidekiq Memory Issues](https://judoscale.com/blog/fixing-sidekiq-memory-issues)
+* [2024-10-03, 16:14:12](https://lobste.rs/s/aqbvxe/organizing_rails_code_with_activerecord) - [Organizing Rails Code with ActiveRecord Associated Objects](https://garrettdimon.com/journal/posts/organizing-rails-code-with-activerecord-associated-objects)
+* [2024-10-03, 16:11:59](https://lobste.rs/s/1dtaep/ziggy_data_language) - [Ziggy Data Language](https://ziggy-lang.io)
 * [2024-10-03, 15:57:47](https://lobste.rs/s/h3zdfz/borkweb_babashka_s_first_fullstack) - [borkweb: babashka's first fullstack clojure framework](https://github.com/m3tti/borkweb)
 * [2024-10-03, 14:04:42](https://lobste.rs/s/rdzira/this_month_ladybird_september_2024) - [This Month in Ladybird - September 2024](https://ladybird.org/newsletter/2024-09-30/)
 * [2024-10-03, 13:44:56](https://lobste.rs/s/rdksqy/devenv_1_3_instant_developer) - [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
@@ -11,7 +14,6 @@
 * [2024-10-03, 05:39:49](https://lobste.rs/s/1uv7e4/less_htmx_is_more) - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 * [2024-10-03, 04:19:45](https://lobste.rs/s/6gh4ai/rust_needs_extended_standard_library) - [Rust needs an extended standard library](https://kerkour.com/rust-stdx)
 * [2024-10-03, 02:57:10](https://lobste.rs/s/cl6e2e/openai_devday_let_s_build_developer_tools) - [OpenAI DevDay: Let’s build developer tools, not digital God](https://simonwillison.net/2024/Oct/2/not-digital-god/)
-* [2024-10-03, 00:50:22](https://lobste.rs/s/mg1dfm/debugging_by_querying_database_all) - [Debugging by querying a database of all program state](https://www.hytradboi.com/2022/debugging-by-querying-a-database-of-all-program-state/)
 * [2024-10-02, 22:50:20](https://lobste.rs/s/ab0c5x/iroh_toolkit_for_building_distributed) - [iroh: A toolkit for building distributed applications](https://github.com/n0-computer/iroh)
 * [2024-10-02, 19:19:28](https://lobste.rs/s/szpors/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
 * [2024-10-02, 18:10:48](https://lobste.rs/s/iyncoq/bytecode_interpreters_for_tiny) - [bytecode interpreters for tiny computers](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html)
@@ -19,12 +21,10 @@
 * [2024-10-02, 17:31:34](https://lobste.rs/s/bfegsn/birth_bazel) - [Birth of the Bazel](https://blog.engflow.com/2024/10/01/birth-of-the-bazel/)
 * [2024-10-02, 17:28:48](https://lobste.rs/s/bvlbzc/proposal_add_signals_javascript) - [A proposal to add signals to JavaScript](https://github.com/tc39/proposal-signals)
 * [2024-10-02, 17:05:38](https://lobste.rs/s/gy4lqd/go_greatest_teaching_language) - [Go, the greatest teaching language?](https://registerspill.thorstenball.com/p/glad-i-did-it-in-go)
-* [2024-10-02, 15:43:20](https://lobste.rs/s/a2ocuu/origin_ad_adaptable_text_editor) - [The origin of ad: an adaptable text editor](https://sminez.github.io/ad-an-adaptable-text-editor/)
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 06:39:23](https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 02:36:34](https://lobste.rs/s/15zleo/why_laptop_support_why_now_freebsd_s) - [Why laptop support, why now: FreeBSD’s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
-* [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 
 ## [Archives](archives/index.md)
 

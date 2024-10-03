@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 16:14:43](https://lobste.rs/s/ouyflt/how_fix_tricky_sidekiq_memory_issues) - [How to Fix Tricky Sidekiq Memory Issues](https://judoscale.com/blog/fixing-sidekiq-memory-issues)
+* [2024-10-03, 16:14:12](https://lobste.rs/s/aqbvxe/organizing_rails_code_with_activerecord) - [Organizing Rails Code with ActiveRecord Associated Objects](https://garrettdimon.com/journal/posts/organizing-rails-code-with-activerecord-associated-objects)
+* [2024-10-03, 16:11:59](https://lobste.rs/s/1dtaep/ziggy_data_language) - [Ziggy Data Language](https://ziggy-lang.io)
 * [2024-10-03, 15:57:47](https://lobste.rs/s/h3zdfz/borkweb_babashka_s_first_fullstack) - [borkweb: babashka's first fullstack clojure framework](https://github.com/m3tti/borkweb)
 * [2024-10-03, 14:04:42](https://lobste.rs/s/rdzira/this_month_ladybird_september_2024) - [This Month in Ladybird - September 2024](https://ladybird.org/newsletter/2024-09-30/)
 * [2024-10-03, 13:44:56](https://lobste.rs/s/rdksqy/devenv_1_3_instant_developer) - [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
