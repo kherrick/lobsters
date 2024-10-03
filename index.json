@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-03, 21:08:21",
+      "https://lobste.rs/s/oitwxl/kafka_pitfall_when_set_log_message"
+    ],
+    [
+      "A Kafka pitfall when to set Log.Message.Timestamp.Type to CreateTime",
+      "https://medium.com/@jiangtaoliu/a-kafka-pitfall-when-to-set-log-message-timestamp-type-to-createtime-c17846813ca3"
+    ]
+  ],
+  [
+    [
+      "2024-10-03, 21:01:09",
+      "https://lobste.rs/s/odshqw/from_microservices_monolith_homelab"
+    ],
+    [
+      "From microservices to a monolith (homelab)",
+      "https://nico.dcotta.com/blog/FromMicroservicesToMonolith"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 20:42:27",
       "https://lobste.rs/s/y36p3u/mixwave_open_source_scalable_video"
     ],
@@ -37,16 +57,6 @@
     [
       "Migration from Biocontainers to Seqera Containers: Part 1",
       "https://nf-co.re/blog/2024/seqera-containers-part-1"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 16:14:12",
-      "https://lobste.rs/s/aqbvxe/organizing_rails_code_with_activerecord"
-    ],
-    [
-      "Organizing Rails Code with ActiveRecord Associated Objects",
-      "https://garrettdimon.com/journal/posts/organizing-rails-code-with-activerecord-associated-objects"
     ]
   ],
   [
@@ -107,16 +117,6 @@
     [
       "Putting \"hyper\" back in the hypertext",
       "https://alexanderpetros.com/triptych/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 12:06:26",
-      "https://lobste.rs/s/dpdgca/beyond_efficiency_2013"
-    ],
-    [
-      "Beyond Efficiency (2013)",
-      "https://cacm.acm.org/opinion/beyond-efficiency/"
     ]
   ],
   [
