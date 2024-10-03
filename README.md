@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-03, 10:32:48](https://lobste.rs/s/0hizss/go_libraries_never_failed_us_22_libraries) - [The Go libraries that never failed us: 22 libraries you need to know (2022)](https://threedots.tech/post/list-of-recommended-libraries/)
 * [2024-10-03, 08:37:05](https://lobste.rs/s/g2cxls/something_about_social_web_foundation) - [Something About the Social Web Foundation Makes Me Feel Icky](https://deadsuperhero.com/2024/09/swf-icky-feeling/)
 * [2024-10-03, 07:29:06](https://lobste.rs/s/agvtsh/how_train_model_on_10k_h100_gpus) - [How to train a model on 10k H100 GPUs?](https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html)
 * [2024-10-03, 05:39:49](https://lobste.rs/s/1uv7e4/less_htmx_is_more) - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
@@ -17,7 +18,6 @@
 * [2024-10-02, 15:43:20](https://lobste.rs/s/a2ocuu/origin_ad_adaptable_text_editor) - [The origin of ad: an adaptable text editor](https://sminez.github.io/ad-an-adaptable-text-editor/)
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 13:21:44](https://lobste.rs/s/jxe7ri/bob_2025_call_for_contributions) - [BOB 2025 - Call for Contributions](https://bobkonf.de/2025/en/index.html)
-* [2024-10-02, 10:06:11](https://lobste.rs/s/bdceui/axum_style_magic_function_parameters) - [Axum-style magic function parameters](https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 07:49:14](https://lobste.rs/s/us7epo/scheme_r7rs_large_foundations) - [Scheme R7RS Large Foundations: The Macrological Fascicle](https://r7rs.org/large/fascicles/macro/1/)
 * [2024-10-02, 06:39:23](https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
