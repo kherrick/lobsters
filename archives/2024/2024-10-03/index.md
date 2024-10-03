@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 12:45:14](https://lobste.rs/s/t4xhxo/every_bit_counts_journey_into_prometheus) - [Every Bit Counts, a Journey Into Prometheus Binary Data](https://fungiboletus.github.io/journey-prometheus-binary-data/)
 * [2024-10-03, 12:43:19](https://lobste.rs/s/jk2uqe/putting_hyper_back_hypertext) - [Putting \"hyper\" back in the hypertext](https://alexanderpetros.com/triptych/)
 * [2024-10-03, 12:34:42](https://lobste.rs/s/es47am/proposal_for_intermediate) - [Proposal for an intermediate representation model to make LLVM Quantum](https://youtu.be/Tfo6jHpUUP8)
 * [2024-10-03, 12:06:26](https://lobste.rs/s/dpdgca/beyond_efficiency_2013) - [Beyond Efficiency (2013)](https://cacm.acm.org/opinion/beyond-efficiency/)
