@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-03, 07:29:06",
+      "https://lobste.rs/s/agvtsh/how_train_model_on_10k_h100_gpus"
+    ],
+    [
+      "How to train a model on 10k H100 GPUs?",
+      "https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 05:39:49",
       "https://lobste.rs/s/1uv7e4/less_htmx_is_more"
     ],
@@ -47,16 +57,6 @@
     [
       "iroh: A toolkit for building distributed applications",
       "https://github.com/n0-computer/iroh"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 21:45:20",
-      "https://lobste.rs/s/wqnutm/hell_shell_scripting_haskell_dialect"
-    ],
-    [
-      "Hell: Shell scripting Haskell dialect",
-      "https://chrisdone.com/posts/hell/"
     ]
   ],
   [
