@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 21:08:21](https://lobste.rs/s/oitwxl/kafka_pitfall_when_set_log_message) - [A Kafka pitfall when to set Log.Message.Timestamp.Type to CreateTime](https://medium.com/@jiangtaoliu/a-kafka-pitfall-when-to-set-log-message-timestamp-type-to-createtime-c17846813ca3)
 * [2024-10-03, 21:01:09](https://lobste.rs/s/odshqw/from_microservices_monolith_homelab) - [From microservices to a monolith (homelab)](https://nico.dcotta.com/blog/FromMicroservicesToMonolith)
 * [2024-10-03, 20:42:27](https://lobste.rs/s/y36p3u/mixwave_open_source_scalable_video) - [Mixwave - Open-Source, Scalable, Video Streaming Service (Cloudflare Stream Alternative)](https://github.com/matvp91/mixwave)
