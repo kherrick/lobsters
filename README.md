@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-03, 16:14:43](https://lobste.rs/s/ouyflt/how_fix_tricky_sidekiq_memory_issues) - [How to Fix Tricky Sidekiq Memory Issues](https://judoscale.com/blog/fixing-sidekiq-memory-issues)
+* [2024-10-03, 18:48:29](https://lobste.rs/s/borsvn/migration_from_biocontainers_seqera) - [Migration from Biocontainers to Seqera Containers: Part 1](https://nf-co.re/blog/2024/seqera-containers-part-1)
 * [2024-10-03, 16:14:12](https://lobste.rs/s/aqbvxe/organizing_rails_code_with_activerecord) - [Organizing Rails Code with ActiveRecord Associated Objects](https://garrettdimon.com/journal/posts/organizing-rails-code-with-activerecord-associated-objects)
 * [2024-10-03, 16:11:59](https://lobste.rs/s/1dtaep/ziggy_data_language) - [Ziggy Data Language](https://ziggy-lang.io)
 * [2024-10-03, 15:57:47](https://lobste.rs/s/h3zdfz/borkweb_babashka_s_first_fullstack) - [borkweb: babashka's first fullstack clojure framework](https://github.com/m3tti/borkweb)
