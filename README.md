@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-03, 00:50:22](https://lobste.rs/s/mg1dfm/debugging_by_querying_database_all) - [Debugging by querying a database of all program state](https://www.hytradboi.com/2022/debugging-by-querying-a-database-of-all-program-state/)
 * [2024-10-02, 22:50:20](https://lobste.rs/s/ab0c5x/iroh_toolkit_for_building_distributed) - [iroh: A toolkit for building distributed applications](https://github.com/n0-computer/iroh)
 * [2024-10-02, 21:45:20](https://lobste.rs/s/wqnutm/hell_shell_scripting_haskell_dialect) - [Hell: Shell scripting Haskell dialect](https://chrisdone.com/posts/hell/)
 * [2024-10-02, 19:19:28](https://lobste.rs/s/szpors/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
@@ -23,7 +24,6 @@
 * [2024-10-02, 02:36:34](https://lobste.rs/s/15zleo/why_laptop_support_why_now_freebsd_s) - [Why laptop support, why now: FreeBSD’s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
 * [2024-10-01, 16:11:46](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024) - [Who's Hiring? Q4Y2024](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024)
-* [2024-10-01, 10:50:22](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna) - [Bookmarklets: do you use them? If so, wanna share them?](https://lobste.rs/s/vjdc18/bookmarklets_do_you_use_them_if_so_wanna)
 * [2024-10-01, 10:19:18](https://lobste.rs/s/84unlo/migrating_from_aws_self_hosting) - [Migrating from AWS to Self-Hosting](https://ziglang.org/news/migrate-to-self-hosting/)
 
 ## [Archives](archives/index.md)
