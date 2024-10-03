@@ -18,13 +18,13 @@
 * [2024-10-02, 15:43:20](https://lobste.rs/s/a2ocuu/origin_ad_adaptable_text_editor) - [The origin of ad: an adaptable text editor](https://sminez.github.io/ad-an-adaptable-text-editor/)
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 13:21:44](https://lobste.rs/s/jxe7ri/bob_2025_call_for_contributions) - [BOB 2025 - Call for Contributions](https://bobkonf.de/2025/en/index.html)
+* [2024-10-02, 10:06:11](https://lobste.rs/s/bdceui/axum_style_magic_function_parameters) - [Axum-style magic function parameters](https://github.com/alexpusch/rust-magic-patterns/blob/master/axum-style-magic-function-param/Readme.md)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 07:49:14](https://lobste.rs/s/us7epo/scheme_r7rs_large_foundations) - [Scheme R7RS Large Foundations: The Macrological Fascicle](https://r7rs.org/large/fascicles/macro/1/)
 * [2024-10-02, 06:39:23](https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
 * [2024-10-02, 06:34:48](https://lobste.rs/s/jfyynk/let_network_tell_you_where_you_are_nerd) - [Let the network tell you where you are: a nerd snipe story](https://rachelbythebay.com/w/2024/10/01/lldp/)
 * [2024-10-02, 02:36:34](https://lobste.rs/s/15zleo/why_laptop_support_why_now_freebsd_s) - [Why laptop support, why now: FreeBSD’s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 * [2024-10-01, 17:58:10](https://lobste.rs/s/nzkhf6/pledging_300_000_zig_software_foundation) - [Pledging $300,000 to the Zig Software Foundation](https://mitchellh.com/writing/zig-donation)
-* [2024-10-01, 16:11:46](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024) - [Who's Hiring? Q4Y2024](https://lobste.rs/s/ju5v1s/who_s_hiring_q4y2024)
 
 ## [Archives](archives/index.md)
 
