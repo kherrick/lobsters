@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-03, 13:44:56](https://lobste.rs/s/rdksqy/devenv_1_3_instant_developer) - [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
 * [2024-10-03, 12:45:14](https://lobste.rs/s/t4xhxo/every_bit_counts_journey_into_prometheus) - [Every Bit Counts, a Journey Into Prometheus Binary Data](https://fungiboletus.github.io/journey-prometheus-binary-data/)
 * [2024-10-03, 12:43:19](https://lobste.rs/s/jk2uqe/putting_hyper_back_hypertext) - [Putting \"hyper\" back in the hypertext](https://alexanderpetros.com/triptych/)
 * [2024-10-03, 12:34:42](https://lobste.rs/s/es47am/proposal_for_intermediate) - [Proposal for an intermediate representation model to make LLVM Quantum](https://youtu.be/Tfo6jHpUUP8)
@@ -12,7 +13,6 @@
 * [2024-10-03, 00:50:22](https://lobste.rs/s/mg1dfm/debugging_by_querying_database_all) - [Debugging by querying a database of all program state](https://www.hytradboi.com/2022/debugging-by-querying-a-database-of-all-program-state/)
 * [2024-10-02, 22:50:20](https://lobste.rs/s/ab0c5x/iroh_toolkit_for_building_distributed) - [iroh: A toolkit for building distributed applications](https://github.com/n0-computer/iroh)
 * [2024-10-02, 19:19:28](https://lobste.rs/s/szpors/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
-* [2024-10-02, 18:44:33](https://lobste.rs/s/h3htre/hot_code_reloading_erlang_without_using) - [Hot code reloading in Erlang without using an OTP release](https://eighty-twenty.org/2024/10/02/hot-reloading-in-erlang)
 * [2024-10-02, 18:10:48](https://lobste.rs/s/iyncoq/bytecode_interpreters_for_tiny) - [bytecode interpreters for tiny computers](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html)
 * [2024-10-02, 17:42:18](https://lobste.rs/s/by4qfk/terminal_colours_are_tricky) - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 * [2024-10-02, 17:31:34](https://lobste.rs/s/bfegsn/birth_bazel) - [Birth of the Bazel](https://blog.engflow.com/2024/10/01/birth-of-the-bazel/)
