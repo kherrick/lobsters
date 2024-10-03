@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-03](index.md)
 
+* [2024-10-03, 23:10:15](https://lobste.rs/s/odwtqm/speeding_up_rust_compiler_without) - [Speeding up the Rust compiler without changing its code (2022)](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
 * [2024-10-03, 22:11:25](https://lobste.rs/s/s0ypxv/networking_c64_os) - [Networking in C64 OS](https://c64os.com/post/commodorenetworkprotocol)
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 21:08:21](https://lobste.rs/s/oitwxl/kafka_pitfall_when_set_log_message) - [A Kafka pitfall when to set Log.Message.Timestamp.Type to CreateTime](https://medium.com/@jiangtaoliu/a-kafka-pitfall-when-to-set-log-message-timestamp-type-to-createtime-c17846813ca3)

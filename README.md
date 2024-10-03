@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-03, 23:10:15](https://lobste.rs/s/odwtqm/speeding_up_rust_compiler_without) - [Speeding up the Rust compiler without changing its code (2022)](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
 * [2024-10-03, 22:11:25](https://lobste.rs/s/s0ypxv/networking_c64_os) - [Networking in C64 OS](https://c64os.com/post/commodorenetworkprotocol)
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 21:01:09](https://lobste.rs/s/odshqw/from_microservices_monolith_homelab) - [From microservices to a monolith (homelab)](https://nico.dcotta.com/blog/FromMicroservicesToMonolith)
@@ -22,7 +23,6 @@
 * [2024-10-02, 18:10:48](https://lobste.rs/s/iyncoq/bytecode_interpreters_for_tiny) - [bytecode interpreters for tiny computers](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html)
 * [2024-10-02, 17:42:18](https://lobste.rs/s/by4qfk/terminal_colours_are_tricky) - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
 * [2024-10-02, 17:31:34](https://lobste.rs/s/bfegsn/birth_bazel) - [Birth of the Bazel](https://blog.engflow.com/2024/10/01/birth-of-the-bazel/)
-* [2024-10-02, 17:28:48](https://lobste.rs/s/bvlbzc/proposal_add_signals_javascript) - [A proposal to add signals to JavaScript](https://github.com/tc39/proposal-signals)
 * [2024-10-02, 17:05:38](https://lobste.rs/s/gy4lqd/go_greatest_teaching_language) - [Go, the greatest teaching language?](https://registerspill.thorstenball.com/p/glad-i-did-it-in-go)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 
