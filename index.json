@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-03, 15:57:47",
+      "https://lobste.rs/s/h3zdfz/borkweb_babashka_s_first_fullstack"
+    ],
+    [
+      "borkweb: babashka's first fullstack clojure framework",
+      "https://github.com/m3tti/borkweb"
+    ]
+  ],
+  [
+    [
       "2024-10-03, 14:04:42",
       "https://lobste.rs/s/rdzira/this_month_ladybird_september_2024"
     ],
@@ -67,16 +77,6 @@
     [
       "Something About the Social Web Foundation Makes Me Feel Icky",
       "https://deadsuperhero.com/2024/09/swf-icky-feeling/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 07:29:06",
-      "https://lobste.rs/s/agvtsh/how_train_model_on_10k_h100_gpus"
-    ],
-    [
-      "How to train a model on 10k H100 GPUs?",
-      "https://soumith.ch/blog/2024-10-02-training-10k-scale.md.html"
     ]
   ],
   [
