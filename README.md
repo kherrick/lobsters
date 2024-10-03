@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-03, 19:57:40](https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx) - [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 * [2024-10-03, 18:48:29](https://lobste.rs/s/borsvn/migration_from_biocontainers_seqera) - [Migration from Biocontainers to Seqera Containers: Part 1](https://nf-co.re/blog/2024/seqera-containers-part-1)
 * [2024-10-03, 16:14:12](https://lobste.rs/s/aqbvxe/organizing_rails_code_with_activerecord) - [Organizing Rails Code with ActiveRecord Associated Objects](https://garrettdimon.com/journal/posts/organizing-rails-code-with-activerecord-associated-objects)
 * [2024-10-03, 16:11:59](https://lobste.rs/s/1dtaep/ziggy_data_language) - [Ziggy Data Language](https://ziggy-lang.io)
@@ -24,7 +25,6 @@
 * [2024-10-02, 14:41:23](https://lobste.rs/s/iu1lpz/putting_person_personal_website) - [Putting the “Person” in “Personal Website”](https://blog.jim-nielsen.com/2024/person-in-personal-website/)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 * [2024-10-02, 06:39:23](https://lobste.rs/s/qpbnhc/nixos_is_good_server_os_except_when_it_isn_t) - [NixOS is a good server OS, except when it isn't](https://sidhion.com/blog/posts/nixos_server_issues/)
-* [2024-10-02, 02:36:34](https://lobste.rs/s/15zleo/why_laptop_support_why_now_freebsd_s) - [Why laptop support, why now: FreeBSD’s strategic move toward broader adoption](https://freebsdfoundation.org/blog/why-laptop-support-why-now-freebsds-strategic-move-toward-broader-adoption/)
 
 ## [Archives](archives/index.md)
 
