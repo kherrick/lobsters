@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-04, 09:33:29",
+      "https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 06:55:13",
       "https://lobste.rs/s/ow0lft/reverse_engineering_dismantling_kekz"
     ],
@@ -37,16 +47,6 @@
     [
       "Introducing CTF Support in Drgn for Oracle Linux",
       "https://blogs.oracle.com/linux/post/introducing-ctf-support-in-drgn-for-oracle-linux"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 23:10:15",
-      "https://lobste.rs/s/odwtqm/speeding_up_rust_compiler_without"
-    ],
-    [
-      "Speeding up the Rust compiler without changing its code (2022)",
-      "https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html"
     ]
   ],
   [
