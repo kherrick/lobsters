@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-04, 13:20:33](https://lobste.rs/s/zfn9kc/i_solve_problems) - [I Solve Problems](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-04, 13:06:59](https://lobste.rs/s/dmmlta/ironclad_hard_real_time_capable_posix) - [Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada](https://ironclad.nongnu.org/)
 * [2024-10-04, 11:18:57](https://lobste.rs/s/u83srl/tag_proposal_retro) - [Tag proposal: retro](https://lobste.rs/s/u83srl/tag_proposal_retro)
 * [2024-10-04, 10:42:43](https://lobste.rs/s/9wh3wv/raku_knowledge_base_about_raku) - [Raku Knowledge Base about the Raku programming language](https://raku-knowledge-base.podlite.org)
@@ -21,7 +22,6 @@
 * [2024-10-03, 13:44:56](https://lobste.rs/s/rdksqy/devenv_1_3_instant_developer) - [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
 * [2024-10-03, 12:45:14](https://lobste.rs/s/t4xhxo/every_bit_counts_journey_into_prometheus) - [Every Bit Counts, a Journey Into Prometheus Binary Data](https://fungiboletus.github.io/journey-prometheus-binary-data/)
 * [2024-10-03, 12:43:19](https://lobste.rs/s/jk2uqe/putting_hyper_back_hypertext) - [Putting \"hyper\" back in the hypertext](https://alexanderpetros.com/triptych/)
-* [2024-10-03, 10:32:48](https://lobste.rs/s/0hizss/go_libraries_never_failed_us_22_libraries) - [The Go libraries that never failed us: 22 libraries you need to know (2022)](https://threedots.tech/post/list-of-recommended-libraries/)
 * [2024-10-03, 05:39:49](https://lobste.rs/s/1uv7e4/less_htmx_is_more) - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 * [2024-10-03, 04:19:45](https://lobste.rs/s/6gh4ai/rust_needs_extended_standard_library) - [Rust needs an extended standard library](https://kerkour.com/rust-stdx)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
