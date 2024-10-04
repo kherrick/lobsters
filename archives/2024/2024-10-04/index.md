@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 16:16:49](https://lobste.rs/s/tfa2am/irram_exact_arithmetic_c) - [iRRAM - Exact Arithmetic in C++](https://irram.uni-trier.de/)
 * [2024-10-04, 15:10:16](https://lobste.rs/s/7rrkoe/25_years_production_ipv6_esnet) - [25 years of production IPv6 in ESnet](https://lightbytes.es.net/2024/08/02/25-years-of-production-ipv6-in-esnet/)
 * [2024-10-04, 13:59:33](https://lobste.rs/s/2ngsl1/database_remote_copy_tool_for_sqlite) - [Database Remote-Copy Tool For SQLite (Draft)](https://sqlite.org/draft/rsync.html)
 * [2024-10-04, 13:55:36](https://lobste.rs/s/2wyay7/post_quantum_cryptography_basics) - [Post-Quantum Cryptography Basics](https://matduggan.com/post-quantum-cryptography-basics/)
 * [2024-10-04, 13:20:33](https://lobste.rs/s/zfn9kc/i_solve_problems) - [I Solve Problems](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-04, 13:06:59](https://lobste.rs/s/dmmlta/ironclad_hard_real_time_capable_posix) - [Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada](https://ironclad.nongnu.org/)
+* [2024-10-04, 11:18:57](https://lobste.rs/s/u83srl/tag_proposal_retrocomputing) - [Tag proposal: retrocomputing](https://lobste.rs/s/u83srl/tag_proposal_retrocomputing)
 * [2024-10-04, 11:18:57](https://lobste.rs/s/u83srl/tag_proposal_retro) - [Tag proposal: retro](https://lobste.rs/s/u83srl/tag_proposal_retro)
 * [2024-10-04, 10:42:43](https://lobste.rs/s/9wh3wv/raku_knowledge_base_about_raku) - [Raku Knowledge Base about the Raku programming language](https://raku-knowledge-base.podlite.org)
 * [2024-10-04, 10:33:37](https://lobste.rs/s/lcldch/no_really_yagni) - [No, really: YAGNI](https://registerspill.thorstenball.com/p/no-really-yagni)
