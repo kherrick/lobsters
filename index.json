@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-04, 10:42:43",
+      "https://lobste.rs/s/9wh3wv/raku_knowledge_base_about_raku"
+    ],
+    [
+      "Raku Knowledge Base about the Raku programming language",
+      "https://raku-knowledge-base.podlite.org"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 10:33:37",
       "https://lobste.rs/s/lcldch/no_really_yagni"
     ],
@@ -217,16 +227,6 @@
     [
       "Rust needs an extended standard library",
       "https://kerkour.com/rust-stdx"
-    ]
-  ],
-  [
-    [
-      "2024-10-02, 17:42:18",
-      "https://lobste.rs/s/by4qfk/terminal_colours_are_tricky"
-    ],
-    [
-      "Terminal colours are tricky",
-      "https://jvns.ca/blog/2024/10/01/terminal-colours/"
     ]
   ],
   [
