@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 16:28:46](https://lobste.rs/s/bi8dbr/psa_sqlite_wal_corruption_silently_loses) - [PSA: SQLite WAL corruption silently loses committed entries](https://github.com/danthegoodman1/BreakingSQLite)
+* [2024-10-04, 16:21:09](https://lobste.rs/s/voqebm/designing_gleam_s_web_framework) - [Designing Gleam's Web Framework](https://youtu.be/4n5fFMLVOBo)
+* [2024-10-04, 16:19:38](https://lobste.rs/s/aqwnjf/brr_new_line_drawing_method_for_cycle) - [BRR: A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
 * [2024-10-04, 16:16:49](https://lobste.rs/s/tfa2am/irram_exact_arithmetic_c) - [iRRAM - Exact Arithmetic in C++](https://irram.uni-trier.de/)
 * [2024-10-04, 15:10:16](https://lobste.rs/s/7rrkoe/25_years_production_ipv6_esnet) - [25 years of production IPv6 in ESnet](https://lightbytes.es.net/2024/08/02/25-years-of-production-ipv6-in-esnet/)
 * [2024-10-04, 13:59:33](https://lobste.rs/s/2ngsl1/database_remote_copy_tool_for_sqlite) - [Database Remote-Copy Tool For SQLite (Draft)](https://sqlite.org/draft/rsync.html)
