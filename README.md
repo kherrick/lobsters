@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-04, 01:55:39](https://lobste.rs/s/6xen6p/introducing_ctf_support_drgn_for_oracle) - [Introducing CTF Support in Drgn for Oracle Linux](https://blogs.oracle.com/linux/post/introducing-ctf-support-in-drgn-for-oracle-linux)
 * [2024-10-03, 23:10:15](https://lobste.rs/s/odwtqm/speeding_up_rust_compiler_without) - [Speeding up the Rust compiler without changing its code (2022)](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
 * [2024-10-03, 22:11:25](https://lobste.rs/s/s0ypxv/networking_c64_os) - [Networking in C64 OS](https://c64os.com/post/commodorenetworkprotocol)
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
@@ -18,7 +19,6 @@
 * [2024-10-03, 08:37:05](https://lobste.rs/s/g2cxls/something_about_social_web_foundation) - [Something About the Social Web Foundation Makes Me Feel Icky](https://deadsuperhero.com/2024/09/swf-icky-feeling/)
 * [2024-10-03, 05:39:49](https://lobste.rs/s/1uv7e4/less_htmx_is_more) - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 * [2024-10-03, 04:19:45](https://lobste.rs/s/6gh4ai/rust_needs_extended_standard_library) - [Rust needs an extended standard library](https://kerkour.com/rust-stdx)
-* [2024-10-03, 02:57:10](https://lobste.rs/s/cl6e2e/openai_devday_let_s_build_developer_tools) - [OpenAI DevDay: Let’s build developer tools, not digital God](https://simonwillison.net/2024/Oct/2/not-digital-god/)
 * [2024-10-02, 19:19:28](https://lobste.rs/s/szpors/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://v2.tauri.app/blog/tauri-20/)
 * [2024-10-02, 18:10:48](https://lobste.rs/s/iyncoq/bytecode_interpreters_for_tiny) - [bytecode interpreters for tiny computers](https://dercuano.github.io/notes/tiny-interpreters-for-microcontrollers.html)
 * [2024-10-02, 17:42:18](https://lobste.rs/s/by4qfk/terminal_colours_are_tricky) - [Terminal colours are tricky](https://jvns.ca/blog/2024/10/01/terminal-colours/)
