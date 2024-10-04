@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-04, 02:59:04](https://lobste.rs/s/snh1mk/risc_v_assembler_arithmetic) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-10-04, 01:55:39](https://lobste.rs/s/6xen6p/introducing_ctf_support_drgn_for_oracle) - [Introducing CTF Support in Drgn for Oracle Linux](https://blogs.oracle.com/linux/post/introducing-ctf-support-in-drgn-for-oracle-linux)
-* [2024-10-03, 23:10:15](https://lobste.rs/s/odwtqm/speeding_up_rust_compiler_without) - [Speeding up the Rust compiler without changing its code (2022)](https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html)
 * [2024-10-03, 22:11:25](https://lobste.rs/s/s0ypxv/networking_c64_os) - [Networking in C64 OS](https://c64os.com/post/commodorenetworkprotocol)
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 21:01:09](https://lobste.rs/s/odshqw/from_microservices_monolith_homelab) - [From microservices to a monolith (homelab)](https://nico.dcotta.com/blog/FromMicroservicesToMonolith)
