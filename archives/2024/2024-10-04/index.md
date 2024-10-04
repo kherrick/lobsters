@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 20:43:54](https://lobste.rs/s/0lmebb/podlite_is_lightweight_block_based) - [Podlite is a lightweight block-based markup language designed for flexibility and ease of use](https://podlite.org/)
 * [2024-10-04, 16:28:46](https://lobste.rs/s/bi8dbr/sqlite_corrupted_wal_can_silently_lose) - [SQLite corrupted WAL can silently lose committed entries](https://github.com/danthegoodman1/BreakingSQLite)
 * [2024-10-04, 16:28:46](https://lobste.rs/s/bi8dbr/psa_sqlite_wal_corruption_silently_loses) - [PSA: SQLite WAL corruption silently loses committed entries](https://github.com/danthegoodman1/BreakingSQLite)
 * [2024-10-04, 16:21:09](https://lobste.rs/s/voqebm/designing_gleam_s_web_framework) - [Designing Gleam's Web Framework](https://youtu.be/4n5fFMLVOBo)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-04, 20:43:54](https://lobste.rs/s/0lmebb/podlite_is_lightweight_block_based) - [Podlite is a lightweight block-based markup language designed for flexibility and ease of use](https://podlite.org/)
 * [2024-10-04, 16:28:46](https://lobste.rs/s/bi8dbr/sqlite_corrupted_wal_can_silently_lose) - [SQLite corrupted WAL can silently lose committed entries](https://github.com/danthegoodman1/BreakingSQLite)
 * [2024-10-04, 16:21:09](https://lobste.rs/s/voqebm/designing_gleam_s_web_framework) - [Designing Gleam's Web Framework](https://youtu.be/4n5fFMLVOBo)
 * [2024-10-04, 16:19:38](https://lobste.rs/s/aqwnjf/brr_new_line_drawing_method_for_cycle) - [BRR: A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
@@ -14,7 +15,6 @@
 * [2024-10-04, 09:33:29](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend)
 * [2024-10-04, 06:55:13](https://lobste.rs/s/ow0lft/reverse_engineering_dismantling_kekz) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 * [2024-10-04, 02:59:04](https://lobste.rs/s/snh1mk/risc_v_assembler_arithmetic) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
-* [2024-10-03, 22:11:25](https://lobste.rs/s/s0ypxv/networking_c64_os) - [Networking in C64 OS](https://c64os.com/post/commodorenetworkprotocol)
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 21:01:09](https://lobste.rs/s/odshqw/from_microservices_monolith_homelab) - [From microservices to a monolith (homelab)](https://nico.dcotta.com/blog/FromMicroservicesToMonolith)
 * [2024-10-03, 20:15:11](https://lobste.rs/s/mbbfev/sorry_genai_is_not_going_10x_computer) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
