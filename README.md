@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-04, 13:59:33](https://lobste.rs/s/2ngsl1/database_remote_copy_tool_for_sqlite) - [Database Remote-Copy Tool For SQLite (Draft)](https://sqlite.org/draft/rsync.html)
 * [2024-10-04, 13:55:36](https://lobste.rs/s/2wyay7/post_quantum_cryptography_basics) - [Post-Quantum Cryptography Basics](https://matduggan.com/post-quantum-cryptography-basics/)
 * [2024-10-04, 13:20:33](https://lobste.rs/s/zfn9kc/i_solve_problems) - [I Solve Problems](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-04, 13:06:59](https://lobste.rs/s/dmmlta/ironclad_hard_real_time_capable_posix) - [Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada](https://ironclad.nongnu.org/)
@@ -24,7 +25,6 @@
 * [2024-10-03, 12:43:19](https://lobste.rs/s/jk2uqe/putting_hyper_back_hypertext) - [Putting \"hyper\" back in the hypertext](https://alexanderpetros.com/triptych/)
 * [2024-10-03, 05:39:49](https://lobste.rs/s/1uv7e4/less_htmx_is_more) - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 * [2024-10-03, 04:19:45](https://lobste.rs/s/6gh4ai/rust_needs_extended_standard_library) - [Rust needs an extended standard library](https://kerkour.com/rust-stdx)
-* [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 
 ## [Archives](archives/index.md)
 

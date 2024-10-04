@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 13:59:33](https://lobste.rs/s/2ngsl1/database_remote_copy_tool_for_sqlite) - [Database Remote-Copy Tool For SQLite (Draft)](https://sqlite.org/draft/rsync.html)
 * [2024-10-04, 13:55:36](https://lobste.rs/s/2wyay7/post_quantum_cryptography_basics) - [Post-Quantum Cryptography Basics](https://matduggan.com/post-quantum-cryptography-basics/)
 * [2024-10-04, 13:20:33](https://lobste.rs/s/zfn9kc/i_solve_problems) - [I Solve Problems](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-04, 13:06:59](https://lobste.rs/s/dmmlta/ironclad_hard_real_time_capable_posix) - [Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada](https://ironclad.nongnu.org/)
