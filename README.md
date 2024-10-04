@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-04, 11:18:57](https://lobste.rs/s/u83srl/tag_proposal_retro) - [Tag proposal: retro](https://lobste.rs/s/u83srl/tag_proposal_retro)
 * [2024-10-04, 10:42:43](https://lobste.rs/s/9wh3wv/raku_knowledge_base_about_raku) - [Raku Knowledge Base about the Raku programming language](https://raku-knowledge-base.podlite.org)
 * [2024-10-04, 10:33:37](https://lobste.rs/s/lcldch/no_really_yagni) - [No, really: YAGNI](https://registerspill.thorstenball.com/p/no-really-yagni)
 * [2024-10-04, 09:33:29](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2024-10-03, 08:37:05](https://lobste.rs/s/g2cxls/something_about_social_web_foundation) - [Something About the Social Web Foundation Makes Me Feel Icky](https://deadsuperhero.com/2024/09/swf-icky-feeling/)
 * [2024-10-03, 05:39:49](https://lobste.rs/s/1uv7e4/less_htmx_is_more) - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 * [2024-10-03, 04:19:45](https://lobste.rs/s/6gh4ai/rust_needs_extended_standard_library) - [Rust needs an extended standard library](https://kerkour.com/rust-stdx)
-* [2024-10-02, 17:05:38](https://lobste.rs/s/gy4lqd/go_greatest_teaching_language) - [Go, the greatest teaching language?](https://registerspill.thorstenball.com/p/glad-i-did-it-in-go)
 * [2024-10-02, 08:09:54](https://lobste.rs/s/laqkqb/we_need_more_zero_config_tools) - [We need more zero config tools](https://arne.me/blog/we-need-more-zero-config-tools)
 
 ## [Archives](archives/index.md)

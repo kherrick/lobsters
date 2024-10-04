@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-04](index.md)
 
+* [2024-10-04, 11:18:57](https://lobste.rs/s/u83srl/tag_proposal_retro) - [Tag proposal: retro](https://lobste.rs/s/u83srl/tag_proposal_retro)
 * [2024-10-04, 10:42:43](https://lobste.rs/s/9wh3wv/raku_knowledge_base_about_raku) - [Raku Knowledge Base about the Raku programming language](https://raku-knowledge-base.podlite.org)
 * [2024-10-04, 10:33:37](https://lobste.rs/s/lcldch/no_really_yagni) - [No, really: YAGNI](https://registerspill.thorstenball.com/p/no-really-yagni)
 * [2024-10-04, 09:33:29](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend)
