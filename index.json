@@ -2,10 +2,10 @@
   [
     [
       "2024-10-04, 16:28:46",
-      "https://lobste.rs/s/bi8dbr/psa_sqlite_wal_corruption_silently_loses"
+      "https://lobste.rs/s/bi8dbr/sqlite_corrupted_wal_can_silently_lose"
     ],
     [
-      "PSA: SQLite WAL corruption silently loses committed entries",
+      "SQLite corrupted WAL can silently lose committed entries",
       "https://github.com/danthegoodman1/BreakingSQLite"
     ]
   ],
