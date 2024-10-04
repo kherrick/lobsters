@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-04, 16:28:46",
+      "https://lobste.rs/s/bi8dbr/psa_sqlite_wal_corruption_silently_loses"
+    ],
+    [
+      "PSA: SQLite WAL corruption silently loses committed entries",
+      "https://github.com/danthegoodman1/BreakingSQLite"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 16:21:09",
+      "https://lobste.rs/s/voqebm/designing_gleam_s_web_framework"
+    ],
+    [
+      "Designing Gleam's Web Framework",
+      "https://youtu.be/4n5fFMLVOBo"
+    ]
+  ],
+  [
+    [
+      "2024-10-04, 16:19:38",
+      "https://lobste.rs/s/aqwnjf/brr_new_line_drawing_method_for_cycle"
+    ],
+    [
+      "BRR: A new line drawing method for the cycle savvy",
+      "http://www.quiss.org/boo/"
+    ]
+  ],
+  [
+    [
       "2024-10-04, 16:16:49",
       "https://lobste.rs/s/tfa2am/irram_exact_arithmetic_c"
     ],
@@ -121,26 +151,6 @@
   ],
   [
     [
-      "2024-10-03, 23:10:15",
-      "https://lobste.rs/s/odwtqm/speeding_up_rust_compiler_without"
-    ],
-    [
-      "Speeding up the Rust compiler without changing its code (2022)",
-      "https://kobzol.github.io/rust/rustc/2022/10/27/speeding-rustc-without-changing-its-code.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 22:11:25",
-      "https://lobste.rs/s/s0ypxv/networking_c64_os"
-    ],
-    [
-      "Networking in C64 OS",
-      "https://c64os.com/post/commodorenetworkprotocol"
-    ]
-  ],
-  [
-    [
       "2024-10-03, 21:24:30",
       "https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all"
     ],
@@ -187,16 +197,6 @@
     [
       "Ziggy Data Language",
       "https://ziggy-lang.io"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 15:57:47",
-      "https://lobste.rs/s/h3zdfz/borkweb_babashka_s_first_fullstack"
-    ],
-    [
-      "borkweb: babashka's first fullstack clojure framework",
-      "https://github.com/m3tti/borkweb"
     ]
   ],
   [
