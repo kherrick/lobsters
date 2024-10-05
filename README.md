@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-05, 16:32:22](https://lobste.rs/s/atzugn/yet_another_ascii_table) - [Yet Another ASCII Table](https://larsw.xyz/yaat/)
+* [2024-10-05, 16:20:17](https://lobste.rs/s/8emutu/pimoroni_pico_plus_2_w_combines_rp2350b) - [Pimoroni Pico Plus 2 W combines RP2350B MCU with Raspberry Pi RM2 Wi-Fi and Bluetooth module - CNX Software](https://www.cnx-software.com/2024/10/05/pimoroni-pico-plus-2-w-combines-rp2350b-mcu-with-raspberry-pi-rm2-wi-fi-and-bluetooth-module/)
 * [2024-10-05, 12:04:15](https://lobste.rs/s/h52nps/rpgp_pure_rust_openpgp_library_gets) - [rpgp (pure Rust OpenPGP library) gets support for RFC 9580 (OpenPGP v6)](https://fosstodon.org/@hko/113198947595455844)
 * [2024-10-05, 10:13:05](https://lobste.rs/s/uxrpzd/confusing_misunderstood_topics_systems) - [Confusing or misunderstood topics in systems programming: Processes, Pipes, I/O, Files and Threads/Async](https://pthorpe92.dev/programming/systems/common-misunderstandings/)
 * [2024-10-05, 09:20:15](https://lobste.rs/s/czqehj/end_cryptography) - [The end of Cryptography](https://archiveofourown.org/works/3243470)
@@ -21,9 +23,7 @@
 * [2024-10-04, 10:42:43](https://lobste.rs/s/9wh3wv/raku_knowledge_base_about_raku) - [Raku Knowledge Base about the Raku programming language](https://raku-knowledge-base.podlite.org)
 * [2024-10-04, 10:33:37](https://lobste.rs/s/lcldch/no_really_yagni) - [No, really: YAGNI](https://registerspill.thorstenball.com/p/no-really-yagni)
 * [2024-10-04, 09:33:29](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend)
-* [2024-10-04, 06:55:13](https://lobste.rs/s/ow0lft/reverse_engineering_dismantling_kekz) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
-* [2024-10-03, 20:15:11](https://lobste.rs/s/mbbfev/sorry_genai_is_not_going_10x_computer) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
 * [2024-10-03, 19:57:40](https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx) - [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 
 ## [Archives](archives/index.md)
