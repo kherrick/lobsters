@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-05](index.md)
 
+* [2024-10-05, 22:38:16](https://lobste.rs/s/k3s6cs/gleam_is_pragmatic) - [Gleam is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
+* [2024-10-05, 22:35:45](https://lobste.rs/s/arj06w/cursed_rust) - [Cursed Rust](https://paper.wf/binarycat/cursed-rust)
 * [2024-10-05, 20:25:36](https://lobste.rs/s/cuixdp/brutalist_programming_manifesto) - [The Brutalist Programming Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
 * [2024-10-05, 19:57:03](https://lobste.rs/s/qlm6u2/wikidata_is_giant_crosswalk_file) - [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-05, 18:19:28](https://lobste.rs/s/afixrg/low_level_development_on_retail_android) - [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
