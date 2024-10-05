@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-05, 19:57:03](https://lobste.rs/s/qlm6u2/wikidata_is_giant_crosswalk_file) - [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-05, 18:19:28](https://lobste.rs/s/afixrg/low_level_development_on_retail_android) - [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
 * [2024-10-05, 16:32:22](https://lobste.rs/s/atzugn/yet_another_ascii_table) - [Yet Another ASCII Table](https://larsw.xyz/yaat/)
 * [2024-10-05, 16:20:17](https://lobste.rs/s/8emutu/pimoroni_pico_plus_2_w_combines_rp2350b) - [Pimoroni Pico Plus 2 W combines RP2350B MCU with Raspberry Pi RM2 Wi-Fi and Bluetooth module](https://www.cnx-software.com/2024/10/05/pimoroni-pico-plus-2-w-combines-rp2350b-mcu-with-raspberry-pi-rm2-wi-fi-and-bluetooth-module/)
@@ -23,7 +24,6 @@
 * [2024-10-04, 11:18:57](https://lobste.rs/s/u83srl/tag_proposal_retrocomputing) - [Tag proposal: retrocomputing](https://lobste.rs/s/u83srl/tag_proposal_retrocomputing)
 * [2024-10-04, 10:33:37](https://lobste.rs/s/lcldch/no_really_yagni) - [No, really: YAGNI](https://registerspill.thorstenball.com/p/no-really-yagni)
 * [2024-10-04, 09:33:29](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend)
-* [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 19:57:40](https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx) - [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 
 ## [Archives](archives/index.md)
