@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-05](index.md)
+
+* [2024-10-05, 01:36:44](https://lobste.rs/s/tpilrk/regalloc_iii_new_register_allocator_for) - [regalloc III: A new register allocator for Rust's Cranelift backend](https://d-sonuga.netlify.app/gsoc/regalloc-iii/)

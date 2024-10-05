@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-05, 01:36:44](https://lobste.rs/s/tpilrk/regalloc_iii_new_register_allocator_for) - [regalloc III: A new register allocator for Rust's Cranelift backend](https://d-sonuga.netlify.app/gsoc/regalloc-iii/)
 * [2024-10-04, 23:45:21](https://lobste.rs/s/z1yw0e/postscript_1_0_code_study) - [PostScript® 1.0 - A Code Study](https://ztoz.blog/posts/postscript-code/)
 * [2024-10-04, 20:54:13](https://lobste.rs/s/xssjvi/holocron_holocron_is_object_storage) - [holocron: Holocron is an object storage based leader election library](https://github.com/kellabyte/holocron)
 * [2024-10-04, 20:43:54](https://lobste.rs/s/0lmebb/podlite_is_lightweight_block_based) - [Podlite is a lightweight block-based markup language designed for flexibility and ease of use](https://podlite.org/)
@@ -17,7 +18,6 @@
 * [2024-10-04, 06:55:13](https://lobste.rs/s/ow0lft/reverse_engineering_dismantling_kekz) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
 * [2024-10-04, 02:59:04](https://lobste.rs/s/snh1mk/risc_v_assembler_arithmetic) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
-* [2024-10-03, 21:01:09](https://lobste.rs/s/odshqw/from_microservices_monolith_homelab) - [From microservices to a monolith (homelab)](https://nico.dcotta.com/blog/FromMicroservicesToMonolith)
 * [2024-10-03, 20:15:11](https://lobste.rs/s/mbbfev/sorry_genai_is_not_going_10x_computer) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
 * [2024-10-03, 19:57:40](https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx) - [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 * [2024-10-03, 16:11:59](https://lobste.rs/s/1dtaep/ziggy_data_language) - [Ziggy Data Language](https://ziggy-lang.io)
