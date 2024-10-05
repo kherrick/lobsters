@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-05, 12:04:15](https://lobste.rs/s/h52nps/rpgp_pure_rust_openpgp_library_gets) - [rpgp (pure Rust OpenPGP library) gets support for RFC 9580 (OpenPGP v6)](https://fosstodon.org/@hko/113198947595455844)
 * [2024-10-05, 10:13:05](https://lobste.rs/s/uxrpzd/confusing_misunderstood_topics_systems) - [Confusing or misunderstood topics in systems programming: Processes, Pipes, I/O, Files and Threads/Async](https://pthorpe92.dev/programming/systems/common-misunderstandings/)
 * [2024-10-05, 09:20:15](https://lobste.rs/s/czqehj/end_cryptography) - [The end of Cryptography](https://archiveofourown.org/works/3243470)
 * [2024-10-05, 07:48:02](https://lobste.rs/s/hv0agk/short_bash_quiz) - [short bash quiz](https://gist.github.com/izabera/7dcece1d6df9063d43d2b3b0a222e7bb)
@@ -24,7 +25,6 @@
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 20:15:11](https://lobste.rs/s/mbbfev/sorry_genai_is_not_going_10x_computer) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
 * [2024-10-03, 19:57:40](https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx) - [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
-* [2024-10-03, 16:11:59](https://lobste.rs/s/1dtaep/ziggy_data_language) - [Ziggy Data Language](https://ziggy-lang.io)
 
 ## [Archives](archives/index.md)
 
