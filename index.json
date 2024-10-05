@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-05, 23:08:16",
+      "https://lobste.rs/s/c1whal/working_lego_turing_machine"
+    ],
+    [
+      "Working Lego Turing Machine",
+      "https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7"
+    ]
+  ],
+  [
+    [
       "2024-10-05, 22:38:16",
       "https://lobste.rs/s/k3s6cs/gleam_is_pragmatic"
     ],
@@ -237,16 +247,6 @@
     [
       "No, really: YAGNI",
       "https://registerspill.thorstenball.com/p/no-really-yagni"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 19:57:40",
-      "https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx"
-    ],
-    [
-      "Why Gumroad Didn't Choose htmx",
-      "https://htmx.org/essays/why-gumroad-didnt-choose-htmx/"
     ]
   ]
 ]
