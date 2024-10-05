@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-05, 06:43:08](https://lobste.rs/s/4ffdji/making_web_boring_again) - [Making the web boring again](https://washbear.neocities.org/browsers)
 * [2024-10-05, 06:34:16](https://lobste.rs/s/8edqeb/fwupd_2_0_0_new_tricks) - [fwupd 2.0.0 and new tricks](https://blogs.gnome.org/hughsie/2024/10/04/fwupd-2-0-0/)
 * [2024-10-05, 01:36:44](https://lobste.rs/s/tpilrk/regalloc_iii_new_register_allocator_for) - [regalloc III: A new register allocator for Rust's Cranelift backend](https://d-sonuga.netlify.app/gsoc/regalloc-iii/)
 * [2024-10-04, 23:45:21](https://lobste.rs/s/z1yw0e/postscript_1_0_code_study) - [PostScript® 1.0 - A Code Study](https://ztoz.blog/posts/postscript-code/)
@@ -17,7 +18,6 @@
 * [2024-10-04, 10:33:37](https://lobste.rs/s/lcldch/no_really_yagni) - [No, really: YAGNI](https://registerspill.thorstenball.com/p/no-really-yagni)
 * [2024-10-04, 09:33:29](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/elmr6z/what_are_you_doing_this_weekend)
 * [2024-10-04, 06:55:13](https://lobste.rs/s/ow0lft/reverse_engineering_dismantling_kekz) - [Reverse Engineering and Dismantling Kekz Headphones](https://nv1t.github.io/blog/kekz-headphones/)
-* [2024-10-04, 02:59:04](https://lobste.rs/s/snh1mk/risc_v_assembler_arithmetic) - [RISC-V Assembler: Arithmetic](https://projectf.io/posts/riscv-arithmetic/)
 * [2024-10-03, 21:24:30](https://lobste.rs/s/dyjrxd/patent_troll_sable_pays_up_dedicates_all) - [Patent troll Sable pays up, dedicates all its patents to the public](https://blog.cloudflare.com/patent-troll-sable-pays-up/)
 * [2024-10-03, 20:15:11](https://lobste.rs/s/mbbfev/sorry_genai_is_not_going_10x_computer) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
 * [2024-10-03, 19:57:40](https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx) - [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
