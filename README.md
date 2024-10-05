@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-05, 07:48:02](https://lobste.rs/s/hv0agk/short_bash_quiz) - [short bash quiz](https://gist.github.com/izabera/7dcece1d6df9063d43d2b3b0a222e7bb)
 * [2024-10-05, 07:37:25](https://lobste.rs/s/jcdacb/repairing_database_on_fly_for_millions) - [Repairing database on the fly for millions of users](https://ashishb.net/programming/repair-database-on-mobile-device/)
 * [2024-10-05, 06:43:08](https://lobste.rs/s/4ffdji/making_web_boring_again) - [Making the web boring again](https://washbear.neocities.org/browsers)
 * [2024-10-05, 06:34:16](https://lobste.rs/s/8edqeb/fwupd_2_0_0_new_tricks) - [fwupd 2.0.0 and new tricks](https://blogs.gnome.org/hughsie/2024/10/04/fwupd-2-0-0/)
@@ -22,7 +23,6 @@
 * [2024-10-03, 20:15:11](https://lobste.rs/s/mbbfev/sorry_genai_is_not_going_10x_computer) - [Sorry, GenAI is NOT going to 10x computer programming](https://garymarcus.substack.com/p/sorry-genai-is-not-going-to-10x-computer)
 * [2024-10-03, 19:57:40](https://lobste.rs/s/uwurwu/why_gumroad_didn_t_choose_htmx) - [Why Gumroad Didn't Choose htmx](https://htmx.org/essays/why-gumroad-didnt-choose-htmx/)
 * [2024-10-03, 16:11:59](https://lobste.rs/s/1dtaep/ziggy_data_language) - [Ziggy Data Language](https://ziggy-lang.io)
-* [2024-10-03, 14:04:42](https://lobste.rs/s/rdzira/this_month_ladybird_september_2024) - [This Month in Ladybird - September 2024](https://ladybird.org/newsletter/2024-09-30/)
 * [2024-10-03, 13:44:56](https://lobste.rs/s/rdksqy/devenv_1_3_instant_developer) - [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
 * [2024-10-03, 05:39:49](https://lobste.rs/s/1uv7e4/less_htmx_is_more) - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 
