@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-05, 20:25:36",
+      "https://lobste.rs/s/cuixdp/brutalist_programming_manifesto"
+    ],
+    [
+      "The Brutalist Programming Manifesto",
+      "http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt"
+    ]
+  ],
+  [
+    [
       "2024-10-05, 19:57:03",
       "https://lobste.rs/s/qlm6u2/wikidata_is_giant_crosswalk_file"
     ],
@@ -127,16 +137,6 @@
     [
       "PostScript® 1.0 - A Code Study",
       "https://ztoz.blog/posts/postscript-code/"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 20:54:13",
-      "https://lobste.rs/s/xssjvi/holocron_holocron_is_object_storage"
-    ],
-    [
-      "holocron: Holocron is an object storage based leader election library",
-      "https://github.com/kellabyte/holocron"
     ]
   ],
   [
