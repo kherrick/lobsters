@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-05, 09:20:15",
+      "https://lobste.rs/s/czqehj/end_cryptography"
+    ],
+    [
+      "The end of Cryptography",
+      "https://archiveofourown.org/works/3243470"
+    ]
+  ],
+  [
+    [
       "2024-10-05, 07:48:02",
       "https://lobste.rs/s/hv0agk/short_bash_quiz"
     ],
@@ -237,16 +247,6 @@
     [
       "devenv 1.3: Instant developer environments with Nix caching",
       "https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/"
-    ]
-  ],
-  [
-    [
-      "2024-10-03, 05:39:49",
-      "https://lobste.rs/s/1uv7e4/less_htmx_is_more"
-    ],
-    [
-      "Less htmx is More",
-      "https://unplannedobsolescence.com/blog/less-htmx-is-more/"
     ]
   ]
 ]
