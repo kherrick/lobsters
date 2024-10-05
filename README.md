@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-05, 06:34:16](https://lobste.rs/s/8edqeb/fwupd_2_0_0_new_tricks) - [fwupd 2.0.0 and new tricks](https://blogs.gnome.org/hughsie/2024/10/04/fwupd-2-0-0/)
 * [2024-10-05, 01:36:44](https://lobste.rs/s/tpilrk/regalloc_iii_new_register_allocator_for) - [regalloc III: A new register allocator for Rust's Cranelift backend](https://d-sonuga.netlify.app/gsoc/regalloc-iii/)
 * [2024-10-04, 23:45:21](https://lobste.rs/s/z1yw0e/postscript_1_0_code_study) - [PostScript® 1.0 - A Code Study](https://ztoz.blog/posts/postscript-code/)
 * [2024-10-04, 20:54:13](https://lobste.rs/s/xssjvi/holocron_holocron_is_object_storage) - [holocron: Holocron is an object storage based leader election library](https://github.com/kellabyte/holocron)
@@ -23,7 +24,6 @@
 * [2024-10-03, 16:11:59](https://lobste.rs/s/1dtaep/ziggy_data_language) - [Ziggy Data Language](https://ziggy-lang.io)
 * [2024-10-03, 14:04:42](https://lobste.rs/s/rdzira/this_month_ladybird_september_2024) - [This Month in Ladybird - September 2024](https://ladybird.org/newsletter/2024-09-30/)
 * [2024-10-03, 13:44:56](https://lobste.rs/s/rdksqy/devenv_1_3_instant_developer) - [devenv 1.3: Instant developer environments with Nix caching](https://devenv.sh/blog/2024/10/03/devenv-13-instant-developer-environments-with-nix-caching/)
-* [2024-10-03, 12:43:19](https://lobste.rs/s/jk2uqe/putting_hyper_back_hypertext) - [Putting \"hyper\" back in the hypertext](https://alexanderpetros.com/triptych/)
 * [2024-10-03, 05:39:49](https://lobste.rs/s/1uv7e4/less_htmx_is_more) - [Less htmx is More](https://unplannedobsolescence.com/blog/less-htmx-is-more/)
 
 ## [Archives](archives/index.md)
