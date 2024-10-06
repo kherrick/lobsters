@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-06, 06:34:14](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais) - [Anyone having fun and success using AIs to generate code in interesting unusual languages?](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais)
 * [2024-10-06, 04:30:17](https://lobste.rs/s/sraxyn/6_things_i_learned_interviewing_for_staff) - [6 things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 03:34:19](https://lobste.rs/s/yrs6nz/are_you_using_any_ai_based_code_editors) - [Are you using any AI based code editors or extensions in your workflow](https://lobste.rs/s/yrs6nz/are_you_using_any_ai_based_code_editors)
 * [2024-10-06, 02:30:38](https://lobste.rs/s/xiwy8s/tag_proposal_gleam) - [Tag proposal: Gleam](https://lobste.rs/s/xiwy8s/tag_proposal_gleam)
@@ -10,7 +11,6 @@
 * [2024-10-05, 19:57:03](https://lobste.rs/s/qlm6u2/wikidata_is_giant_crosswalk_file) - [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-05, 18:19:28](https://lobste.rs/s/afixrg/low_level_development_on_retail_android) - [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
 * [2024-10-05, 16:32:22](https://lobste.rs/s/atzugn/yet_another_ascii_table) - [Yet Another ASCII Table](https://larsw.xyz/yaat/)
-* [2024-10-05, 16:20:17](https://lobste.rs/s/8emutu/pimoroni_pico_plus_2_w_combines_rp2350b) - [Pimoroni Pico Plus 2 W combines RP2350B MCU with Raspberry Pi RM2 Wi-Fi and Bluetooth module](https://www.cnx-software.com/2024/10/05/pimoroni-pico-plus-2-w-combines-rp2350b-mcu-with-raspberry-pi-rm2-wi-fi-and-bluetooth-module/)
 * [2024-10-05, 12:04:15](https://lobste.rs/s/h52nps/rpgp_pure_rust_openpgp_library_gets) - [rpgp (pure Rust OpenPGP library) gets support for RFC 9580 (OpenPGP v6)](https://fosstodon.org/@hko/113198947595455844)
 * [2024-10-05, 10:13:05](https://lobste.rs/s/uxrpzd/confusing_misunderstood_topics_systems) - [Confusing or misunderstood topics in systems programming: Processes, Pipes, I/O, Files and Threads/Async](https://pthorpe92.dev/programming/systems/common-misunderstandings/)
 * [2024-10-05, 09:20:15](https://lobste.rs/s/czqehj/end_cryptography) - [The end of Cryptography](https://archiveofourown.org/works/3243470)
