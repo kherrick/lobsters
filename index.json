@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 16:29:42",
+      "https://lobste.rs/s/ztdmwq/why_i_don_t_write_exploits"
+    ],
+    [
+      "Why I don't write exploits*",
+      "https://addisoncrump.info/important-information/why-i-dont-write-exploits/#"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 13:31:04",
       "https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security"
     ],
@@ -207,16 +217,6 @@
     [
       "short bash quiz",
       "https://gist.github.com/izabera/7dcece1d6df9063d43d2b3b0a222e7bb"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 07:37:25",
-      "https://lobste.rs/s/jcdacb/repairing_database_on_fly_for_millions"
-    ],
-    [
-      "Repairing database on the fly for millions of users",
-      "https://ashishb.net/programming/repair-database-on-mobile-device/"
     ]
   ],
   [
