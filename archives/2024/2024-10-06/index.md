@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 18:42:05](https://lobste.rs/s/vrkn2q/compiling_running_sqlite3_rsync) - [Compiling and running sqlite3-rsync](https://til.simonwillison.net/sqlite/compile-sqlite3-rsync)
 * [2024-10-06, 18:17:30](https://lobste.rs/s/ylcar9/6_years_with_gleam) - [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
 * [2024-10-06, 17:43:56](https://lobste.rs/s/76tm1u/how_add_animations_hotwire_s_turbo) - [How to add animations to Hotwire's Turbo Streams](https://edforshaw.co.uk/hotwire-turbo-stream-animations)
 * [2024-10-06, 17:27:24](https://lobste.rs/s/3tp0wt/circuit_diagrams_firmware_source_code) - [Circuit diagrams and firmware source code for Gboard DIY keyboards](https://github.com/google/mozc-devices)
