@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
 * [2024-10-06, 08:45:21](https://lobste.rs/s/ml6cfh/swift_interoperability) - [Swift & Interoperability](https://www.youtube.com/watch?v=wn6C_XEv1Mo)
 * [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
@@ -16,7 +17,6 @@
 * [2024-10-05, 18:19:28](https://lobste.rs/s/afixrg/low_level_development_on_retail_android) - [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
 * [2024-10-05, 16:32:22](https://lobste.rs/s/atzugn/yet_another_ascii_table) - [Yet Another ASCII Table](https://larsw.xyz/yaat/)
 * [2024-10-05, 12:04:15](https://lobste.rs/s/h52nps/rpgp_pure_rust_openpgp_library_gets) - [rpgp (pure Rust OpenPGP library) gets support for RFC 9580 (OpenPGP v6)](https://fosstodon.org/@hko/113198947595455844)
-* [2024-10-05, 10:13:05](https://lobste.rs/s/uxrpzd/confusing_misunderstood_topics_systems) - [Confusing or misunderstood topics in systems programming: Processes, Pipes, I/O, Files and Threads/Async](https://pthorpe92.dev/programming/systems/common-misunderstandings/)
 * [2024-10-05, 09:20:15](https://lobste.rs/s/czqehj/end_cryptography) - [The end of Cryptography](https://archiveofourown.org/works/3243470)
 * [2024-10-05, 07:48:02](https://lobste.rs/s/hv0agk/short_bash_quiz) - [short bash quiz](https://gist.github.com/izabera/7dcece1d6df9063d43d2b3b0a222e7bb)
 * [2024-10-05, 07:37:25](https://lobste.rs/s/jcdacb/repairing_database_on_fly_for_millions) - [Repairing database on the fly for millions of users](https://ashishb.net/programming/repair-database-on-mobile-device/)
