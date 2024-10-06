@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-06, 06:48:07](https://lobste.rs/s/okgx2v/canvases_versus_documents) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-06, 06:34:14](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais) - [Anyone having fun and success using AIs to generate code in interesting unusual languages?](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais)
 * [2024-10-06, 04:30:17](https://lobste.rs/s/sraxyn/6_things_i_learned_interviewing_for_staff) - [6 things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 03:34:19](https://lobste.rs/s/yrs6nz/are_you_using_any_ai_based_code_editors) - [Are you using any AI based code editors or extensions in your workflow](https://lobste.rs/s/yrs6nz/are_you_using_any_ai_based_code_editors)
@@ -23,7 +24,6 @@
 * [2024-10-04, 16:28:46](https://lobste.rs/s/bi8dbr/sqlite_corrupted_wal_can_silently_lose) - [SQLite corrupted WAL can silently lose committed entries](https://github.com/danthegoodman1/BreakingSQLite)
 * [2024-10-04, 16:21:09](https://lobste.rs/s/voqebm/designing_gleam_s_web_framework) - [Designing Gleam's Web Framework](https://youtu.be/4n5fFMLVOBo)
 * [2024-10-04, 13:59:33](https://lobste.rs/s/2ngsl1/database_remote_copy_tool_for_sqlite) - [Database Remote-Copy Tool For SQLite (Draft)](https://sqlite.org/draft/rsync.html)
-* [2024-10-04, 13:06:59](https://lobste.rs/s/dmmlta/ironclad_hard_real_time_capable_posix) - [Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada](https://ironclad.nongnu.org/)
 * [2024-10-04, 11:18:57](https://lobste.rs/s/u83srl/tag_proposal_retrocomputing) - [Tag proposal: retrocomputing](https://lobste.rs/s/u83srl/tag_proposal_retrocomputing)
 
 ## [Archives](archives/index.md)
