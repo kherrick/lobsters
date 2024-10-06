@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 13:31:04",
+      "https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security"
+    ],
+    [
+      "Trusting clients is probably a security flaw",
+      "https://liberda.nl/weblog/trust-no-client/"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 10:20:14",
       "https://lobste.rs/s/tfiuvv/on_programming_poetry_not_python_s_tool"
     ],
@@ -75,7 +85,7 @@
       "https://lobste.rs/s/sraxyn/6_things_i_learned_interviewing_for_staff"
     ],
     [
-      "6 things I learned interviewing for Staff positions",
+      "6 things I learned interviewing for Staff positions (2020)",
       "https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "PostScript® 1.0 - A Code Study",
       "https://ztoz.blog/posts/postscript-code/"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 16:28:46",
-      "https://lobste.rs/s/bi8dbr/sqlite_corrupted_wal_can_silently_lose"
-    ],
-    [
-      "SQLite corrupted WAL can silently lose committed entries",
-      "https://github.com/danthegoodman1/BreakingSQLite"
     ]
   ]
 ]
