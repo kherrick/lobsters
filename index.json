@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 07:01:52",
+      "https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy"
+    ],
+    [
+      "On Ousterhout's Dichotomy",
+      "https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 06:48:07",
       "https://lobste.rs/s/okgx2v/canvases_versus_documents"
     ],
@@ -217,16 +227,6 @@
     [
       "SQLite corrupted WAL can silently lose committed entries",
       "https://github.com/danthegoodman1/BreakingSQLite"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 16:21:09",
-      "https://lobste.rs/s/voqebm/designing_gleam_s_web_framework"
-    ],
-    [
-      "Designing Gleam's Web Framework",
-      "https://youtu.be/4n5fFMLVOBo"
     ]
   ],
   [
