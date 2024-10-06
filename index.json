@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 08:45:21",
+      "https://lobste.rs/s/ml6cfh/swift_interoperability"
+    ],
+    [
+      "Swift & Interoperability",
+      "https://www.youtube.com/watch?v=wn6C_XEv1Mo"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 07:01:52",
       "https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy"
     ],
@@ -237,16 +247,6 @@
     [
       "Database Remote-Copy Tool For SQLite (Draft)",
       "https://sqlite.org/draft/rsync.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 11:18:57",
-      "https://lobste.rs/s/u83srl/tag_proposal_retrocomputing"
-    ],
-    [
-      "Tag proposal: retrocomputing",
-      "https://lobste.rs/s/u83srl/tag_proposal_retrocomputing"
     ]
   ]
 ]
