@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-06](index.md)
 
+* [2024-10-06, 16:29:42](https://lobste.rs/s/ztdmwq/why_i_don_t_write_exploits) - [Why I don't write exploits*](https://addisoncrump.info/important-information/why-i-dont-write-exploits/#)
 * [2024-10-06, 13:31:04](https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 * [2024-10-06, 10:20:14](https://lobste.rs/s/tfiuvv/on_programming_poetry_not_python_s_tool) - [On programming and poetry (not Python’s tool)](https://zverok.space/blog/2024-10-06-poetry.html)
 * [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
