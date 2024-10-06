@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-06, 17:43:56](https://lobste.rs/s/76tm1u/how_add_animations_hotwire_s_turbo) - [How to add animations to Hotwire's Turbo Streams](https://edforshaw.co.uk/hotwire-turbo-stream-animations)
 * [2024-10-06, 17:27:24](https://lobste.rs/s/3tp0wt/circuit_diagrams_firmware_source_code) - [Circuit diagrams and firmware source code for Gboard DIY keyboards](https://github.com/google/mozc-devices)
 * [2024-10-06, 17:10:49](https://lobste.rs/s/o00nbp/hpy_better_c_api_for_python) - [HPy - A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 16:29:42](https://lobste.rs/s/ztdmwq/why_i_don_t_write_exploits) - [Why I don't write exploits*](https://addisoncrump.info/important-information/why-i-dont-write-exploits/#)
@@ -21,7 +22,6 @@
 * [2024-10-05, 19:57:03](https://lobste.rs/s/qlm6u2/wikidata_is_giant_crosswalk_file) - [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-05, 18:19:28](https://lobste.rs/s/afixrg/low_level_development_on_retail_android) - [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
 * [2024-10-05, 16:32:22](https://lobste.rs/s/atzugn/yet_another_ascii_table) - [Yet Another ASCII Table](https://larsw.xyz/yaat/)
-* [2024-10-05, 12:04:15](https://lobste.rs/s/h52nps/rpgp_pure_rust_openpgp_library_gets) - [rpgp (pure Rust OpenPGP library) gets support for RFC 9580 (OpenPGP v6)](https://fosstodon.org/@hko/113198947595455844)
 * [2024-10-05, 07:48:02](https://lobste.rs/s/hv0agk/short_bash_quiz) - [short bash quiz](https://gist.github.com/izabera/7dcece1d6df9063d43d2b3b0a222e7bb)
 * [2024-10-05, 06:43:08](https://lobste.rs/s/4ffdji/making_web_boring_again) - [Making the web boring again](https://washbear.neocities.org/browsers)
 * [2024-10-04, 23:45:21](https://lobste.rs/s/z1yw0e/postscript_1_0_code_study) - [PostScript® 1.0 - A Code Study](https://ztoz.blog/posts/postscript-code/)
