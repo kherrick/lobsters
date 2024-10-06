@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-06, 18:17:30](https://lobste.rs/s/ylcar9/6_years_with_gleam) - [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
 * [2024-10-06, 17:43:56](https://lobste.rs/s/76tm1u/how_add_animations_hotwire_s_turbo) - [How to add animations to Hotwire's Turbo Streams](https://edforshaw.co.uk/hotwire-turbo-stream-animations)
-* [2024-10-06, 17:27:24](https://lobste.rs/s/3tp0wt/circuit_diagrams_firmware_source_code) - [Circuit diagrams and firmware source code for Gboard DIY keyboards](https://github.com/google/mozc-devices)
 * [2024-10-06, 17:10:49](https://lobste.rs/s/o00nbp/hpy_better_c_api_for_python) - [HPy - A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 16:29:42](https://lobste.rs/s/ztdmwq/why_i_don_t_write_exploits) - [Why I don't write exploits*](https://addisoncrump.info/important-information/why-i-dont-write-exploits/#)
 * [2024-10-06, 13:31:04](https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
