@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-06, 17:27:24",
+      "https://lobste.rs/s/3tp0wt/circuit_diagrams_firmware_source_code"
+    ],
+    [
+      "Circuit diagrams and firmware source code for Gboard DIY keyboards",
+      "https://github.com/google/mozc-devices"
+    ]
+  ],
+  [
+    [
+      "2024-10-06, 17:10:49",
+      "https://lobste.rs/s/o00nbp/hpy_better_c_api_for_python"
+    ],
+    [
+      "HPy - A better C API for Python",
+      "https://hpyproject.org/"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 16:29:42",
       "https://lobste.rs/s/ztdmwq/why_i_don_t_write_exploits"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-10-05, 09:20:15",
-      "https://lobste.rs/s/czqehj/end_cryptography"
-    ],
-    [
-      "The end of Cryptography",
-      "https://archiveofourown.org/works/3243470"
-    ]
-  ],
-  [
-    [
       "2024-10-05, 07:48:02",
       "https://lobste.rs/s/hv0agk/short_bash_quiz"
     ],
@@ -227,16 +237,6 @@
     [
       "Making the web boring again",
       "https://washbear.neocities.org/browsers"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 06:34:16",
-      "https://lobste.rs/s/8edqeb/fwupd_2_0_0_new_tricks"
-    ],
-    [
-      "fwupd 2.0.0 and new tricks",
-      "https://blogs.gnome.org/hughsie/2024/10/04/fwupd-2-0-0/"
     ]
   ],
   [
