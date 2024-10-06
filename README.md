@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-06, 02:30:38](https://lobste.rs/s/xiwy8s/tag_proposal_gleam) - [Tag proposal: Gleam](https://lobste.rs/s/xiwy8s/tag_proposal_gleam)
 * [2024-10-05, 23:08:16](https://lobste.rs/s/c1whal/working_lego_turing_machine) - [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 * [2024-10-05, 22:38:16](https://lobste.rs/s/k3s6cs/gleam_is_pragmatic) - [Gleam is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 * [2024-10-05, 22:35:45](https://lobste.rs/s/arj06w/cursed_rust) - [Cursed Rust](https://paper.wf/binarycat/cursed-rust)
@@ -21,7 +22,6 @@
 * [2024-10-04, 16:21:09](https://lobste.rs/s/voqebm/designing_gleam_s_web_framework) - [Designing Gleam's Web Framework](https://youtu.be/4n5fFMLVOBo)
 * [2024-10-04, 16:19:38](https://lobste.rs/s/aqwnjf/brr_new_line_drawing_method_for_cycle) - [BRR: A new line drawing method for the cycle savvy](http://www.quiss.org/boo/)
 * [2024-10-04, 13:59:33](https://lobste.rs/s/2ngsl1/database_remote_copy_tool_for_sqlite) - [Database Remote-Copy Tool For SQLite (Draft)](https://sqlite.org/draft/rsync.html)
-* [2024-10-04, 13:20:33](https://lobste.rs/s/zfn9kc/i_solve_problems) - [I Solve Problems](https://it-notes.dragas.net/2024/10/03/i-solve-problems-eurobsdcon/)
 * [2024-10-04, 13:06:59](https://lobste.rs/s/dmmlta/ironclad_hard_real_time_capable_posix) - [Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada](https://ironclad.nongnu.org/)
 * [2024-10-04, 11:18:57](https://lobste.rs/s/u83srl/tag_proposal_retrocomputing) - [Tag proposal: retrocomputing](https://lobste.rs/s/u83srl/tag_proposal_retrocomputing)
 * [2024-10-04, 10:33:37](https://lobste.rs/s/lcldch/no_really_yagni) - [No, really: YAGNI](https://registerspill.thorstenball.com/p/no-really-yagni)
