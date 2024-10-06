@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-06, 13:31:04](https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 * [2024-10-06, 10:20:14](https://lobste.rs/s/tfiuvv/on_programming_poetry_not_python_s_tool) - [On programming and poetry (not Python’s tool)](https://zverok.space/blog/2024-10-06-poetry.html)
 * [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
@@ -7,7 +8,7 @@
 * [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
 * [2024-10-06, 06:48:07](https://lobste.rs/s/okgx2v/canvases_versus_documents) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-06, 06:34:14](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais) - [Anyone having fun and success using AIs to generate code in interesting unusual languages?](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais)
-* [2024-10-06, 04:30:17](https://lobste.rs/s/sraxyn/6_things_i_learned_interviewing_for_staff) - [6 things I learned interviewing for Staff positions](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
+* [2024-10-06, 04:30:17](https://lobste.rs/s/sraxyn/6_things_i_learned_interviewing_for_staff) - [6 things I learned interviewing for Staff positions (2020)](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 03:34:19](https://lobste.rs/s/yrs6nz/are_you_using_any_ai_based_code_editors) - [Are you using any AI based code editors or extensions in your workflow](https://lobste.rs/s/yrs6nz/are_you_using_any_ai_based_code_editors)
 * [2024-10-06, 02:30:38](https://lobste.rs/s/xiwy8s/tag_proposal_gleam) - [Tag proposal: Gleam](https://lobste.rs/s/xiwy8s/tag_proposal_gleam)
 * [2024-10-05, 23:08:16](https://lobste.rs/s/c1whal/working_lego_turing_machine) - [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
@@ -24,7 +25,6 @@
 * [2024-10-05, 06:43:08](https://lobste.rs/s/4ffdji/making_web_boring_again) - [Making the web boring again](https://washbear.neocities.org/browsers)
 * [2024-10-05, 06:34:16](https://lobste.rs/s/8edqeb/fwupd_2_0_0_new_tricks) - [fwupd 2.0.0 and new tricks](https://blogs.gnome.org/hughsie/2024/10/04/fwupd-2-0-0/)
 * [2024-10-04, 23:45:21](https://lobste.rs/s/z1yw0e/postscript_1_0_code_study) - [PostScript® 1.0 - A Code Study](https://ztoz.blog/posts/postscript-code/)
-* [2024-10-04, 16:28:46](https://lobste.rs/s/bi8dbr/sqlite_corrupted_wal_can_silently_lose) - [SQLite corrupted WAL can silently lose committed entries](https://github.com/danthegoodman1/BreakingSQLite)
 
 ## [Archives](archives/index.md)
 
