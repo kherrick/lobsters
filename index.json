@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 06:48:07",
+      "https://lobste.rs/s/okgx2v/canvases_versus_documents"
+    ],
+    [
+      "Canvases versus Documents",
+      "https://kaiwenwang.com/writing/canvases-versus-documents"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 06:34:14",
       "https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais"
     ],
@@ -227,16 +237,6 @@
     [
       "Database Remote-Copy Tool For SQLite (Draft)",
       "https://sqlite.org/draft/rsync.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 13:06:59",
-      "https://lobste.rs/s/dmmlta/ironclad_hard_real_time_capable_posix"
-    ],
-    [
-      "Ironclad: Hard real-time capable POSIX-compatible kernel written in SPARK/Ada",
-      "https://ironclad.nongnu.org/"
     ]
   ],
   [
