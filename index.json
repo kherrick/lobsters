@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 18:42:05",
+      "https://lobste.rs/s/vrkn2q/compiling_running_sqlite3_rsync"
+    ],
+    [
+      "Compiling and running sqlite3-rsync",
+      "https://til.simonwillison.net/sqlite/compile-sqlite3-rsync"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 18:17:30",
       "https://lobste.rs/s/ylcar9/6_years_with_gleam"
     ],
@@ -237,16 +247,6 @@
     [
       "Making the web boring again",
       "https://washbear.neocities.org/browsers"
-    ]
-  ],
-  [
-    [
-      "2024-10-04, 23:45:21",
-      "https://lobste.rs/s/z1yw0e/postscript_1_0_code_study"
-    ],
-    [
-      "PostScript® 1.0 - A Code Study",
-      "https://ztoz.blog/posts/postscript-code/"
     ]
   ]
 ]
