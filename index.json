@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-06, 09:59:23",
+      "https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts"
+    ],
+    [
+      "SQLite: Defense Against The Dark Arts",
+      "https://sqlite.org/draft/security.html"
+    ]
+  ],
+  [
+    [
       "2024-10-06, 09:31:43",
       "https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3"
     ],
@@ -157,16 +167,6 @@
     [
       "rpgp (pure Rust OpenPGP library) gets support for RFC 9580 (OpenPGP v6)",
       "https://fosstodon.org/@hko/113198947595455844"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 10:13:05",
-      "https://lobste.rs/s/uxrpzd/confusing_misunderstood_topics_systems"
-    ],
-    [
-      "Confusing or misunderstood topics in systems programming: Processes, Pipes, I/O, Files and Threads/Async",
-      "https://pthorpe92.dev/programming/systems/common-misunderstandings/"
     ]
   ],
   [
