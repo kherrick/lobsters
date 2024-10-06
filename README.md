@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
 * [2024-10-06, 08:45:21](https://lobste.rs/s/ml6cfh/swift_interoperability) - [Swift & Interoperability](https://www.youtube.com/watch?v=wn6C_XEv1Mo)
 * [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
 * [2024-10-06, 06:48:07](https://lobste.rs/s/okgx2v/canvases_versus_documents) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
@@ -24,7 +25,6 @@
 * [2024-10-05, 01:36:44](https://lobste.rs/s/tpilrk/regalloc_iii_new_register_allocator_for) - [regalloc III: A new register allocator for Rust's Cranelift backend](https://d-sonuga.netlify.app/gsoc/regalloc-iii/)
 * [2024-10-04, 23:45:21](https://lobste.rs/s/z1yw0e/postscript_1_0_code_study) - [PostScript® 1.0 - A Code Study](https://ztoz.blog/posts/postscript-code/)
 * [2024-10-04, 16:28:46](https://lobste.rs/s/bi8dbr/sqlite_corrupted_wal_can_silently_lose) - [SQLite corrupted WAL can silently lose committed entries](https://github.com/danthegoodman1/BreakingSQLite)
-* [2024-10-04, 13:59:33](https://lobste.rs/s/2ngsl1/database_remote_copy_tool_for_sqlite) - [Database Remote-Copy Tool For SQLite (Draft)](https://sqlite.org/draft/rsync.html)
 
 ## [Archives](archives/index.md)
 
