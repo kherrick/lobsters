@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 09:21:04](https://lobste.rs/s/9qvaol/avx_bitwise_ternary_logic_instruction) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 * [2024-10-07, 06:54:52](https://lobste.rs/s/sajff7/big_ball_mud_1999) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2024-10-07, 06:14:44](https://lobste.rs/s/okwnmy/seven_dimensional_analysis_hashing) - [A Seven-Dimensional Analysis of Hashing Methods](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
@@ -11,7 +12,6 @@
 * [2024-10-06, 17:10:49](https://lobste.rs/s/o00nbp/hpy_better_c_api_for_python) - [HPy - A better C API for Python](https://hpyproject.org/)
 * [2024-10-06, 16:29:42](https://lobste.rs/s/ztdmwq/why_i_don_t_write_exploits) - [Why I don't write exploits*](https://addisoncrump.info/important-information/why-i-dont-write-exploits/#)
 * [2024-10-06, 13:31:04](https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
-* [2024-10-06, 10:20:14](https://lobste.rs/s/tfiuvv/on_programming_poetry_not_python_s_tool) - [On programming and poetry (not Python’s tool)](https://zverok.space/blog/2024-10-06-poetry.html)
 * [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
 * [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
