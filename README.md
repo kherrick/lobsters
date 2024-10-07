@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 06:14:44](https://lobste.rs/s/okwnmy/seven_dimensional_analysis_hashing) - [A Seven-Dimensional Analysis of Hashing Methods](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
+* [2024-10-07, 06:12:59](https://lobste.rs/s/kjrs9t/bet_against_sql_queries_as_code) - [Bet Against SQL: Queries as Code](https://www.youtube.com/watch?v=dS9jtih4dI4)
+* [2024-10-07, 06:11:40](https://lobste.rs/s/fjepvp/source_level_debugging_compiler) - [Source-Level Debugging of Compiler-Optimised Code: Ill-Posed, but Not Impossible](https://www.humprog.org/~stephen/research/papers/kell24source-level.pdf)
 * [2024-10-07, 01:19:46](https://lobste.rs/s/4jywpi/octothorpes_hashtags_for_open_internet) - [Octothorpes: hashtags for the open internet](https://octothorp.es/docs)
 * [2024-10-06, 23:47:58](https://lobste.rs/s/2cz30r/my_wayland_your_wayland_our_wayland) - [My Wayland Your Wayland Our Wayland](https://www.supergoodcode.com/My-Wayland-Your-Wayland-Our-Wayland/)
 * [2024-10-06, 18:17:30](https://lobste.rs/s/ylcar9/6_years_with_gleam) - [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
@@ -10,7 +13,6 @@
 * [2024-10-06, 10:20:14](https://lobste.rs/s/tfiuvv/on_programming_poetry_not_python_s_tool) - [On programming and poetry (not Python’s tool)](https://zverok.space/blog/2024-10-06-poetry.html)
 * [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
-* [2024-10-06, 08:45:21](https://lobste.rs/s/ml6cfh/swift_interoperability) - [Swift & Interoperability](https://www.youtube.com/watch?v=wn6C_XEv1Mo)
 * [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
 * [2024-10-06, 06:48:07](https://lobste.rs/s/okgx2v/canvases_versus_documents) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-06, 06:34:14](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais) - [Anyone having fun and success using AIs to generate code in interesting unusual languages?](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais)
@@ -21,8 +23,6 @@
 * [2024-10-05, 22:38:16](https://lobste.rs/s/k3s6cs/gleam_is_pragmatic) - [Gleam is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 * [2024-10-05, 22:35:45](https://lobste.rs/s/arj06w/cursed_rust) - [Cursed Rust](https://paper.wf/binarycat/cursed-rust)
 * [2024-10-05, 20:25:36](https://lobste.rs/s/cuixdp/brutalist_programming_manifesto) - [The Brutalist Programming Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
-* [2024-10-05, 19:57:03](https://lobste.rs/s/qlm6u2/wikidata_is_giant_crosswalk_file) - [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
-* [2024-10-05, 18:19:28](https://lobste.rs/s/afixrg/low_level_development_on_retail_android) - [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
 * [2024-10-05, 16:32:22](https://lobste.rs/s/atzugn/yet_another_ascii_table) - [Yet Another ASCII Table](https://larsw.xyz/yaat/)
 * [2024-10-05, 06:43:08](https://lobste.rs/s/4ffdji/making_web_boring_again) - [Making the web boring again](https://washbear.neocities.org/browsers)
 
