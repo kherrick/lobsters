@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/top_10_most_excellent_gems_use_any_ruby_web) - [Top 10 Most Excellent Gems to Use in Any Ruby Web Application](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:59:58](https://lobste.rs/s/a8klxl/costs_i386_x86_64_upgrade) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [2024-10-07, 16:58:44](https://lobste.rs/s/bhrzy7/understanding_effectively_mitigating) - [Understanding and effectively mitigating code review anxiety](https://link.springer.com/content/pdf/10.1007/s10664-024-10550-9.pdf)
 * [2024-10-07, 16:51:22](https://lobste.rs/s/sb6nmj/what_s_new_ruby_on_rails_8) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
