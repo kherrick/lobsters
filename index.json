@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-07, 15:26:02",
+      "https://lobste.rs/s/xcg0xw/python_3_13_released_what_s_new"
+    ],
+    [
+      "Python 3.13 released: what's new",
+      "https://docs.python.org/3.13/whatsnew/3.13.html"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 15:06:53",
       "https://lobste.rs/s/dio6vw/c_coroutines_without_heap_allocation"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam is Pragmatic",
       "https://blog.drewolson.org/gleam-is-pragmatic/"
-    ]
-  ],
-  [
-    [
-      "2024-10-05, 22:35:45",
-      "https://lobste.rs/s/arj06w/cursed_rust"
-    ],
-    [
-      "Cursed Rust",
-      "https://paper.wf/binarycat/cursed-rust"
     ]
   ]
 ]
