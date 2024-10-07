@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 06:54:52](https://lobste.rs/s/sajff7/big_ball_mud_1999) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2024-10-07, 06:14:44](https://lobste.rs/s/okwnmy/seven_dimensional_analysis_hashing) - [A Seven-Dimensional Analysis of Hashing Methods](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
 * [2024-10-07, 06:12:59](https://lobste.rs/s/kjrs9t/bet_against_sql_queries_as_code) - [Bet Against SQL: Queries as Code](https://www.youtube.com/watch?v=dS9jtih4dI4)
 * [2024-10-07, 06:11:40](https://lobste.rs/s/fjepvp/source_level_debugging_compiler) - [Source-Level Debugging of Compiler-Optimised Code: Ill-Posed, but Not Impossible](https://www.humprog.org/~stephen/research/papers/kell24source-level.pdf)
@@ -15,7 +16,6 @@
 * [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
 * [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
 * [2024-10-06, 06:48:07](https://lobste.rs/s/okgx2v/canvases_versus_documents) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
-* [2024-10-06, 06:34:14](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais) - [Anyone having fun and success using AIs to generate code in interesting unusual languages?](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais)
 * [2024-10-06, 04:30:17](https://lobste.rs/s/sraxyn/6_things_i_learned_interviewing_for_staff) - [6 things I learned interviewing for Staff positions (2020)](https://amyunger.com/blog/2020/09/16/6-things-i-learned-interviewing.html)
 * [2024-10-06, 03:34:19](https://lobste.rs/s/yrs6nz/are_you_using_any_ai_based_code_editors) - [Are you using any AI based code editors or extensions in your workflow](https://lobste.rs/s/yrs6nz/are_you_using_any_ai_based_code_editors)
 * [2024-10-06, 02:30:38](https://lobste.rs/s/xiwy8s/tag_proposal_gleam) - [Tag proposal: Gleam](https://lobste.rs/s/xiwy8s/tag_proposal_gleam)
