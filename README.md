@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 16:37:08](https://lobste.rs/s/qqjsg3/formally_verifying_tiny_bits_qemu_using) - [Formally verifying tiny bits of QEMU using Frama-C, Richard W.M. Jones, 2020](https://www.youtube.com/watch?v=YAIAF2IrRWA)
+* [2024-10-07, 16:33:18](https://lobste.rs/s/xdqnec/what_s_new_python_3_13) - [What’s New In Python 3.13](https://docs.python.org/3/whatsnew/3.13.html)
 * [2024-10-07, 16:13:16](https://lobste.rs/s/asdcvf/building_single_page_app_with_htmx) - [Building a Single-Page App with htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
 * [2024-10-07, 16:03:38](https://lobste.rs/s/c2ggav/rust_is_rolling_off_volvo_assembly_line) - [Rust is rolling off the Volvo assembly line - Blog - Tweede golf](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 * [2024-10-07, 15:26:02](https://lobste.rs/s/xcg0xw/python_3_13_released_what_s_new) - [Python 3.13 released: what's new](https://docs.python.org/3.13/whatsnew/3.13.html)
@@ -17,13 +19,11 @@
 * [2024-10-07, 06:12:59](https://lobste.rs/s/kjrs9t/bet_against_sql_queries_as_code) - [Bet Against SQL: Queries as Code](https://www.youtube.com/watch?v=dS9jtih4dI4)
 * [2024-10-07, 06:11:40](https://lobste.rs/s/fjepvp/source_level_debugging_compiler) - [Source-Level Debugging of Compiler-Optimised Code: Ill-Posed, but Not Impossible](https://www.humprog.org/~stephen/research/papers/kell24source-level.pdf)
 * [2024-10-07, 01:19:46](https://lobste.rs/s/4jywpi/octothorpes_hashtags_for_open_internet) - [Octothorpes: hashtags for the open internet](https://octothorp.es/docs)
-* [2024-10-06, 23:47:58](https://lobste.rs/s/2cz30r/my_wayland_your_wayland_our_wayland) - [My Wayland Your Wayland Our Wayland](https://www.supergoodcode.com/My-Wayland-Your-Wayland-Our-Wayland/)
 * [2024-10-06, 18:17:30](https://lobste.rs/s/ylcar9/6_years_with_gleam) - [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
 * [2024-10-06, 16:29:42](https://lobste.rs/s/ztdmwq/why_i_don_t_write_exploits) - [Why I don't write exploits*](https://addisoncrump.info/important-information/why-i-dont-write-exploits/#)
 * [2024-10-06, 13:31:04](https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 * [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
-* [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
 * [2024-10-05, 23:08:16](https://lobste.rs/s/c1whal/working_lego_turing_machine) - [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 
 ## [Archives](archives/index.md)
