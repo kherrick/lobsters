@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 19:54:43](https://lobste.rs/s/mif27p/why_i_use_tla_not_tla) - [Why I use TLA+ and not(TLA+)](https://protocols-made-fun.com/specification/modelchecking/tlaplus/quint/2024/10/05/tla-and-not-tla.html)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:59:58](https://lobste.rs/s/a8klxl/costs_i386_x86_64_upgrade) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [2024-10-07, 16:51:22](https://lobste.rs/s/sb6nmj/what_s_new_ruby_on_rails_8) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
@@ -15,7 +16,6 @@
 * [2024-10-07, 14:01:49](https://lobste.rs/s/3vw8dw/can_you_get_root_with_only_cigarette) - [Can You Get Root With Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 12:26:32](https://lobste.rs/s/ck7dtw/adaptive_packed_memory_array) - [An Adaptive Packed-Memory Array](https://www3.cs.stonybrook.edu/~bender/newpub/BenderHu07-TODS.pdf)
 * [2024-10-07, 12:16:05](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week)
-* [2024-10-07, 09:43:27](https://lobste.rs/s/bxmun3/programmer_s_obsession_with_version) - [The programmer's obsession with version numbers](https://boston.conman.org/2024/08/27.1)
 * [2024-10-07, 09:21:04](https://lobste.rs/s/9qvaol/avx_bitwise_ternary_logic_instruction) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 * [2024-10-07, 06:54:52](https://lobste.rs/s/sajff7/big_ball_mud_1999) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
