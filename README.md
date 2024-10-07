@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 15:26:02](https://lobste.rs/s/xcg0xw/python_3_13_released_what_s_new) - [Python 3.13 released: what's new](https://docs.python.org/3.13/whatsnew/3.13.html)
 * [2024-10-07, 15:06:53](https://lobste.rs/s/dio6vw/c_coroutines_without_heap_allocation) - [C++ coroutines without heap allocation](https://pigweed.dev/docs/blog/05-coroutines.html)
 * [2024-10-07, 15:01:36](https://lobste.rs/s/azx487/google_s_ai_thinks_i_left_gatorade_bottle) - [Google's AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
 * [2024-10-07, 14:32:40](https://lobste.rs/s/3wyh4u/put_business_logic_application_not) - [Put business logic in the application, not the database](https://www.infoworld.com/article/2269523/put-business-logic-in-the-application-not-the-database.html)
@@ -24,7 +25,6 @@
 * [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
 * [2024-10-05, 23:08:16](https://lobste.rs/s/c1whal/working_lego_turing_machine) - [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 * [2024-10-05, 22:38:16](https://lobste.rs/s/k3s6cs/gleam_is_pragmatic) - [Gleam is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
-* [2024-10-05, 22:35:45](https://lobste.rs/s/arj06w/cursed_rust) - [Cursed Rust](https://paper.wf/binarycat/cursed-rust)
 
 ## [Archives](archives/index.md)
 
