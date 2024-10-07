@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 16:50:20](https://lobste.rs/s/y6zoi2/miscellaneous_notes_on_steam_deck) - [Miscellaneous notes on Steam Deck reshells, mods, and screen replacements](https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html)
 * [2024-10-07, 16:37:08](https://lobste.rs/s/qqjsg3/formally_verifying_tiny_bits_qemu_using) - [Formally verifying tiny bits of QEMU using Frama-C, Richard W.M. Jones, 2020](https://www.youtube.com/watch?v=YAIAF2IrRWA)
 * [2024-10-07, 16:33:18](https://lobste.rs/s/xdqnec/what_s_new_python_3_13) - [What’s New In Python 3.13](https://docs.python.org/3/whatsnew/3.13.html)
 * [2024-10-07, 16:13:16](https://lobste.rs/s/asdcvf/building_single_page_app_with_htmx) - [Building a Single-Page App with htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)

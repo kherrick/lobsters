@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 16:50:20](https://lobste.rs/s/y6zoi2/miscellaneous_notes_on_steam_deck) - [Miscellaneous notes on Steam Deck reshells, mods, and screen replacements](https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html)
 * [2024-10-07, 16:37:08](https://lobste.rs/s/qqjsg3/formally_verifying_tiny_bits_qemu_using) - [Formally verifying tiny bits of QEMU using Frama-C, Richard W.M. Jones, 2020](https://www.youtube.com/watch?v=YAIAF2IrRWA)
 * [2024-10-07, 16:33:18](https://lobste.rs/s/xdqnec/what_s_new_python_3_13) - [What’s New In Python 3.13](https://docs.python.org/3/whatsnew/3.13.html)
 * [2024-10-07, 16:13:16](https://lobste.rs/s/asdcvf/building_single_page_app_with_htmx) - [Building a Single-Page App with htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
@@ -24,7 +25,6 @@
 * [2024-10-06, 13:31:04](https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 * [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
-* [2024-10-05, 23:08:16](https://lobste.rs/s/c1whal/working_lego_turing_machine) - [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 
 ## [Archives](archives/index.md)
 
