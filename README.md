@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 14:32:40](https://lobste.rs/s/3wyh4u/put_business_logic_application_not) - [Put business logic in the application, not the database](https://www.infoworld.com/article/2269523/put-business-logic-in-the-application-not-the-database.html)
 * [2024-10-07, 14:01:49](https://lobste.rs/s/3vw8dw/can_you_get_root_with_only_cigarette) - [Can You Get Root With Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 12:26:32](https://lobste.rs/s/ck7dtw/adaptive_packed_memory_array) - [An Adaptive Packed-Memory Array](https://www3.cs.stonybrook.edu/~bender/newpub/BenderHu07-TODS.pdf)
 * [2024-10-07, 12:16:05](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2024-10-05, 23:08:16](https://lobste.rs/s/c1whal/working_lego_turing_machine) - [Working Lego Turing Machine](https://ideas.lego.com/projects/10a3239f-4562-4d23-ba8e-f4fc94eef5c7)
 * [2024-10-05, 22:38:16](https://lobste.rs/s/k3s6cs/gleam_is_pragmatic) - [Gleam is Pragmatic](https://blog.drewolson.org/gleam-is-pragmatic/)
 * [2024-10-05, 22:35:45](https://lobste.rs/s/arj06w/cursed_rust) - [Cursed Rust](https://paper.wf/binarycat/cursed-rust)
-* [2024-10-05, 20:25:36](https://lobste.rs/s/cuixdp/brutalist_programming_manifesto) - [The Brutalist Programming Manifesto](http://www.call-with-current-continuation.org/articles/brutalist-manifesto.txt)
 
 ## [Archives](archives/index.md)
 

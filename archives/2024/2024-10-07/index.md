@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 14:32:40](https://lobste.rs/s/3wyh4u/put_business_logic_application_not) - [Put business logic in the application, not the database](https://www.infoworld.com/article/2269523/put-business-logic-in-the-application-not-the-database.html)
 * [2024-10-07, 14:01:49](https://lobste.rs/s/3vw8dw/can_you_get_root_with_only_cigarette) - [Can You Get Root With Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 12:26:32](https://lobste.rs/s/ck7dtw/adaptive_packed_memory_array) - [An Adaptive Packed-Memory Array](https://www3.cs.stonybrook.edu/~bender/newpub/BenderHu07-TODS.pdf)
 * [2024-10-07, 12:16:05](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week)
