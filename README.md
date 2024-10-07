@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-07, 18:35:27](https://lobste.rs/s/6c2wrb/eurobsdcon_2024_some_notes_after) - [EuroBSDcon 2024  some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:59:58](https://lobste.rs/s/a8klxl/costs_i386_x86_64_upgrade) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [2024-10-07, 16:51:22](https://lobste.rs/s/sb6nmj/what_s_new_ruby_on_rails_8) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 * [2024-10-07, 16:50:20](https://lobste.rs/s/y6zoi2/miscellaneous_notes_on_steam_deck) - [Miscellaneous notes on Steam Deck reshells, mods, and screen replacements](https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html)
 * [2024-10-07, 16:37:08](https://lobste.rs/s/qqjsg3/formally_verifying_tiny_bits_qemu_using) - [Formally verifying tiny bits of QEMU using Frama-C, Richard W.M. Jones, 2020](https://www.youtube.com/watch?v=YAIAF2IrRWA)
+* [2024-10-07, 16:33:18](https://lobste.rs/s/xdqnec/what_s_new_python_3_13) - [What’s New In Python 3.13](https://docs.python.org/3/whatsnew/3.13.html)
 * [2024-10-07, 16:13:16](https://lobste.rs/s/asdcvf/building_single_page_app_with_htmx) - [Building a Single-Page App with htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
 * [2024-10-07, 16:03:38](https://lobste.rs/s/c2ggav/rust_is_rolling_off_volvo_assembly_line) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 * [2024-10-07, 15:26:02](https://lobste.rs/s/xcg0xw/python_3_13_released_what_s_new) - [Python 3.13 released: what's new](https://docs.python.org/3.13/whatsnew/3.13.html)
@@ -19,12 +19,12 @@
 * [2024-10-07, 09:21:04](https://lobste.rs/s/9qvaol/avx_bitwise_ternary_logic_instruction) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 * [2024-10-07, 06:54:52](https://lobste.rs/s/sajff7/big_ball_mud_1999) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
+* [2024-10-07, 06:14:44](https://lobste.rs/s/okwnmy/seven_dimensional_analysis_hashing) - [A Seven-Dimensional Analysis of Hashing Methods](https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf)
 * [2024-10-07, 06:12:59](https://lobste.rs/s/kjrs9t/bet_against_sql_queries_as_code) - [Bet Against SQL: Queries as Code](https://www.youtube.com/watch?v=dS9jtih4dI4)
 * [2024-10-07, 01:19:46](https://lobste.rs/s/4jywpi/octothorpes_hashtags_for_open_internet) - [Octothorpes: hashtags for the open internet](https://octothorp.es/docs)
 * [2024-10-06, 18:17:30](https://lobste.rs/s/ylcar9/6_years_with_gleam) - [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
 * [2024-10-06, 13:31:04](https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 * [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
-* [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
 
 ## [Archives](archives/index.md)
 
