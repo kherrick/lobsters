@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 16:13:16](https://lobste.rs/s/asdcvf/building_single_page_app_with_htmx) - [Building a Single-Page App with htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
+* [2024-10-07, 16:03:38](https://lobste.rs/s/c2ggav/rust_is_rolling_off_volvo_assembly_line) - [Rust is rolling off the Volvo assembly line - Blog - Tweede golf](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 * [2024-10-07, 15:26:02](https://lobste.rs/s/xcg0xw/python_3_13_released_what_s_new) - [Python 3.13 released: what's new](https://docs.python.org/3.13/whatsnew/3.13.html)
 * [2024-10-07, 15:06:53](https://lobste.rs/s/dio6vw/c_coroutines_without_heap_allocation) - [C++ coroutines without heap allocation](https://pigweed.dev/docs/blog/05-coroutines.html)
 * [2024-10-07, 15:01:36](https://lobste.rs/s/azx487/google_s_ai_thinks_i_left_gatorade_bottle) - [Google's AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
