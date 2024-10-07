@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 12:16:05](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week)
 * [2024-10-07, 09:43:27](https://lobste.rs/s/bxmun3/programmer_s_obsession_with_version) - [The programmer's obsession with version numbers](https://boston.conman.org/2024/08/27.1)
 * [2024-10-07, 09:21:04](https://lobste.rs/s/9qvaol/avx_bitwise_ternary_logic_instruction) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
