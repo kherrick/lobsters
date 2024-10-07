@@ -10,6 +10,7 @@
 * [2024-10-06, 10:20:14](https://lobste.rs/s/tfiuvv/on_programming_poetry_not_python_s_tool) - [On programming and poetry (not Python’s tool)](https://zverok.space/blog/2024-10-06-poetry.html)
 * [2024-10-06, 09:59:23](https://lobste.rs/s/dvzpv1/sqlite_defense_against_dark_arts) - [SQLite: Defense Against The Dark Arts](https://sqlite.org/draft/security.html)
 * [2024-10-06, 09:31:43](https://lobste.rs/s/hzsziv/few_nice_things_openzfs_2_3) - [A few nice things in OpenZFS 2.3](https://despairlabs.com/blog/posts/2024-10-05-nice-things-in-openzfs-23/)
+* [2024-10-06, 08:45:21](https://lobste.rs/s/ml6cfh/swift_interoperability) - [Swift & Interoperability](https://www.youtube.com/watch?v=wn6C_XEv1Mo)
 * [2024-10-06, 07:01:52](https://lobste.rs/s/jsriyn/on_ousterhout_s_dichotomy) - [On Ousterhout's Dichotomy](https://matklad.github.io/2024/10/06/ousterhouts-dichotomy.html)
 * [2024-10-06, 06:48:07](https://lobste.rs/s/okgx2v/canvases_versus_documents) - [Canvases versus Documents](https://kaiwenwang.com/writing/canvases-versus-documents)
 * [2024-10-06, 06:34:14](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais) - [Anyone having fun and success using AIs to generate code in interesting unusual languages?](https://lobste.rs/s/xbmma7/anyone_having_fun_success_using_ais)
@@ -23,7 +24,6 @@
 * [2024-10-05, 19:57:03](https://lobste.rs/s/qlm6u2/wikidata_is_giant_crosswalk_file) - [Wikidata is a Giant Crosswalk File](https://www.dbreunig.com/2024/10/04/wikidata-is-a-giant-crosswalk-file.html)
 * [2024-10-05, 18:19:28](https://lobste.rs/s/afixrg/low_level_development_on_retail_android) - [Low-Level Development on Retail Android Hardware - Reconnaissance and Prototyping a Bootloader](https://blog.timschumi.net/2024/10/05/lldorah-bootloader-prototype.html)
 * [2024-10-05, 16:32:22](https://lobste.rs/s/atzugn/yet_another_ascii_table) - [Yet Another ASCII Table](https://larsw.xyz/yaat/)
-* [2024-10-05, 07:48:02](https://lobste.rs/s/hv0agk/short_bash_quiz) - [short bash quiz](https://gist.github.com/izabera/7dcece1d6df9063d43d2b3b0a222e7bb)
 * [2024-10-05, 06:43:08](https://lobste.rs/s/4ffdji/making_web_boring_again) - [Making the web boring again](https://washbear.neocities.org/browsers)
 
 ## [Archives](archives/index.md)
