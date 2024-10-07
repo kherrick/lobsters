@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-07, 18:13:36",
+      "https://lobste.rs/s/plyhjb/do_not_use_secrets_environment_variables"
+    ],
+    [
+      "Do not use secrets in environment variables and here's how to do it better",
+      "https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 17:36:07",
       "https://lobste.rs/s/fqynrk/some_gems_i_like"
     ],
@@ -21,16 +31,6 @@
   ],
   [
     [
-      "2024-10-07, 16:58:44",
-      "https://lobste.rs/s/bhrzy7/understanding_effectively_mitigating"
-    ],
-    [
-      "Understanding and effectively mitigating code review anxiety",
-      "https://link.springer.com/content/pdf/10.1007/s10664-024-10550-9.pdf"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 16:51:22",
       "https://lobste.rs/s/sb6nmj/what_s_new_ruby_on_rails_8"
     ],
@@ -47,6 +47,16 @@
     [
       "Miscellaneous notes on Steam Deck reshells, mods, and screen replacements",
       "https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-07, 16:37:08",
+      "https://lobste.rs/s/qqjsg3/formally_verifying_tiny_bits_qemu_using"
+    ],
+    [
+      "Formally verifying tiny bits of QEMU using Frama-C, Richard W.M. Jones, 2020",
+      "https://www.youtube.com/watch?v=YAIAF2IrRWA"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Big Ball of Mud (1999)",
       "http://www.laputan.org/mud/"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 06:14:44",
-      "https://lobste.rs/s/okwnmy/seven_dimensional_analysis_hashing"
-    ],
-    [
-      "A Seven-Dimensional Analysis of Hashing Methods",
-      "https://15721.courses.cs.cmu.edu/spring2019/papers/17-hashjoins/richter-vldb2015.pdf"
     ]
   ],
   [
