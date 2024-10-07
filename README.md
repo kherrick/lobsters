@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-07, 18:13:36](https://lobste.rs/s/plyhjb/do_not_use_secrets_environment_variables) - [Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
+* [2024-10-07, 18:35:27](https://lobste.rs/s/6c2wrb/eurobsdcon_2024_some_notes_after) - [EuroBSDcon 2024  some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:59:58](https://lobste.rs/s/a8klxl/costs_i386_x86_64_upgrade) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [2024-10-07, 16:51:22](https://lobste.rs/s/sb6nmj/what_s_new_ruby_on_rails_8) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
