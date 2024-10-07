@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 18:13:36](https://lobste.rs/s/plyhjb/do_not_use_secrets_environment_variables) - [Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/top_10_most_excellent_gems_use_any_ruby_web) - [Top 10 Most Excellent Gems to Use in Any Ruby Web Application](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:59:58](https://lobste.rs/s/a8klxl/costs_i386_x86_64_upgrade) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
