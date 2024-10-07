@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-07](index.md)
 
+* [2024-10-07, 20:35:29](https://lobste.rs/s/qohcti/openbsd_7_6) - [OpenBSD 7.6](https://www.openbsd.org/76.html)
 * [2024-10-07, 19:54:43](https://lobste.rs/s/mif27p/why_i_use_tla_not_tla) - [Why I use TLA+ and not(TLA+)](https://protocols-made-fun.com/specification/modelchecking/tlaplus/quint/2024/10/05/tla-and-not-tla.html)
 * [2024-10-07, 18:35:27](https://lobste.rs/s/6c2wrb/eurobsdcon_2024_some_notes_after) - [EuroBSDcon 2024  some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
 * [2024-10-07, 18:13:36](https://lobste.rs/s/plyhjb/do_not_use_secrets_environment_variables) - [Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)

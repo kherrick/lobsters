@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-07, 20:35:29](https://lobste.rs/s/qohcti/openbsd_7_6) - [OpenBSD 7.6](https://www.openbsd.org/76.html)
 * [2024-10-07, 19:54:43](https://lobste.rs/s/mif27p/why_i_use_tla_not_tla) - [Why I use TLA+ and not(TLA+)](https://protocols-made-fun.com/specification/modelchecking/tlaplus/quint/2024/10/05/tla-and-not-tla.html)
 * [2024-10-07, 18:35:27](https://lobste.rs/s/6c2wrb/eurobsdcon_2024_some_notes_after) - [EuroBSDcon 2024  some notes after the conference](https://blog.netbsd.org/tnf/entry/eurobsdcon_2024_in_dublin_ireland)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:59:58](https://lobste.rs/s/a8klxl/costs_i386_x86_64_upgrade) - [The costs of the i386 to x86-64 upgrade](https://blogsystem5.substack.com/p/x86-64-programming-models)
 * [2024-10-07, 16:51:22](https://lobste.rs/s/sb6nmj/what_s_new_ruby_on_rails_8) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 * [2024-10-07, 16:50:20](https://lobste.rs/s/y6zoi2/miscellaneous_notes_on_steam_deck) - [Miscellaneous notes on Steam Deck reshells, mods, and screen replacements](https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html)
-* [2024-10-07, 16:37:08](https://lobste.rs/s/qqjsg3/formally_verifying_tiny_bits_qemu_using) - [Formally verifying tiny bits of QEMU using Frama-C, Richard W.M. Jones, 2020](https://www.youtube.com/watch?v=YAIAF2IrRWA)
 * [2024-10-07, 16:33:18](https://lobste.rs/s/xdqnec/what_s_new_python_3_13) - [What’s New In Python 3.13](https://docs.python.org/3/whatsnew/3.13.html)
 * [2024-10-07, 16:13:16](https://lobste.rs/s/asdcvf/building_single_page_app_with_htmx) - [Building a Single-Page App with htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
 * [2024-10-07, 16:03:38](https://lobste.rs/s/c2ggav/rust_is_rolling_off_volvo_assembly_line) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
