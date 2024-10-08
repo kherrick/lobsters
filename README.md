@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-10-08, 01:53:00](https://lobste.rs/s/izzxyp/rust_gpu_future_gpu_programming) - [Rust GPU: The future of GPU programming](https://rust-gpu.github.io/)
+* [2024-10-08, 01:17:17](https://lobste.rs/s/vcli7h/optimizing_risc_v_backend) - [Optimizing the RISC-V Backend](https://box86.org/2024/10/optimizing-the-risc-v-backend/)
 * [2024-10-07, 21:46:00](https://lobste.rs/s/uvsdtt/understanding_rust_s_trait_objects) - [Understanding Rust's Trait Objects: Vtables, Dynamic Dispatch, and Memory Deallocation](https://www.eventhelix.com/rust/rust-to-assembly-tail-call-via-vtable-and-box-trait-free/)
 * [2024-10-07, 20:35:29](https://lobste.rs/s/qohcti/openbsd_7_6) - [OpenBSD 7.6](https://www.openbsd.org/76.html)
 * [2024-10-07, 19:54:43](https://lobste.rs/s/mif27p/why_i_use_tla_not_tla) - [Why I use TLA+ and not(TLA+)](https://protocols-made-fun.com/specification/modelchecking/tlaplus/quint/2024/10/05/tla-and-not-tla.html)
@@ -24,7 +25,6 @@
 * [2024-10-07, 06:54:52](https://lobste.rs/s/sajff7/big_ball_mud_1999) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2024-10-07, 01:19:46](https://lobste.rs/s/4jywpi/octothorpes_hashtags_for_open_internet) - [Octothorpes: hashtags for the open internet](https://octothorp.es/docs)
 * [2024-10-06, 18:17:30](https://lobste.rs/s/ylcar9/6_years_with_gleam) - [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
-* [2024-10-06, 13:31:04](https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security) - [Trusting clients is probably a security flaw](https://liberda.nl/weblog/trust-no-client/)
 
 ## [Archives](archives/index.md)
 
