@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 15:32:30](https://lobste.rs/s/mh0anp/z_200_chill_itu_t_programming_language) - [Z.200 : CHILL - The ITU-T Programming Language](https://www.itu.int/rec/T-REC-Z.200-199911-I/en)
 * [2024-10-08, 15:16:17](https://lobste.rs/s/ca25r0/migration_from_biocontainers_seqera) - [Migration from Biocontainers to Seqera Containers: Part 2](https://nf-co.re/blog/2024/seqera-containers-part-2)
 * [2024-10-08, 14:25:38](https://lobste.rs/s/dvedwb/nobel_prize_physics_2024_awarded) - [Nobel Prize in Physics 2024 awarded to Hopfield and Hinton for foundational discoveries in ML and NNs](https://www.nobelprize.org/prizes/physics/2024/press-release/)
 * [2024-10-08, 14:14:30](https://lobste.rs/s/8jpq3b/julia_1_11_highlights) - [Julia 1.11 Highlights](https://julialang.org/blog/2024/10/julia-1.11-highlights/)
@@ -10,7 +11,6 @@
 * [2024-10-08, 10:28:41](https://lobste.rs/s/7mluir/windows_dynamic_linking_depends_on) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
 * [2024-10-08, 10:17:33](https://lobste.rs/s/3ktpj4/engineers_are_not_fans_technologies) - [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
 * [2024-10-08, 09:05:38](https://lobste.rs/s/ho2zv1/inweb_modern_system_for_literate) - [Inweb: a modern system for literate programming](https://ganelson.github.io/inweb/inweb/index.html)
-* [2024-10-08, 07:03:58](https://lobste.rs/s/vqb9lo/cloudflare_s_ai_audit_helps_websites_beat) - [Cloudflare's AI Audit Helps Websites Beat Bots](https://spectrum.ieee.org/ai-web-scraper-2669286570)
 * [2024-10-08, 06:40:47](https://lobste.rs/s/cowx3b/app_i_built_as_high_school_student_learn) - [An app I built as a high school student to learn SQL with realistic data](https://sandboxsql.com)
 * [2024-10-08, 01:53:00](https://lobste.rs/s/izzxyp/rust_gpu_future_gpu_programming) - [Rust GPU: The future of GPU programming](https://rust-gpu.github.io/)
 * [2024-10-07, 21:46:00](https://lobste.rs/s/uvsdtt/understanding_rust_s_trait_objects) - [Understanding Rust's Trait Objects: Vtables, Dynamic Dispatch, and Memory Deallocation](https://www.eventhelix.com/rust/rust-to-assembly-tail-call-via-vtable-and-box-trait-free/)
