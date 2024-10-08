@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-08, 14:14:30",
+      "https://lobste.rs/s/8jpq3b/julia_1_11_highlights"
+    ],
+    [
+      "Julia 1.11 Highlights",
+      "https://julialang.org/blog/2024/10/julia-1.11-highlights/"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 13:58:53",
+      "https://lobste.rs/s/72miy3/mastodon_4_3"
+    ],
+    [
+      "Mastodon 4.3",
+      "https://blog.joinmastodon.org/2024/10/mastodon-4.3/"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 12:43:31",
       "https://lobste.rs/s/mpulkt/why_i_like_tcl"
     ],
@@ -47,6 +67,16 @@
     [
       "Engineers are not fans of technologies",
       "https://jerf.org/iri/post/2024/not_about_python/"
+    ]
+  ],
+  [
+    [
+      "2024-10-08, 09:05:38",
+      "https://lobste.rs/s/ho2zv1/inweb_modern_system_for_literate"
+    ],
+    [
+      "Inweb: a modern system for literate programming",
+      "https://ganelson.github.io/inweb/inweb/index.html"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2024-10-07, 19:54:43",
-      "https://lobste.rs/s/mif27p/why_i_use_tla_not_tla"
-    ],
-    [
-      "Why I use TLA+ and not(TLA+)",
-      "https://protocols-made-fun.com/specification/modelchecking/tlaplus/quint/2024/10/05/tla-and-not-tla.html"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 18:13:36",
       "https://lobste.rs/s/plyhjb/do_not_use_secrets_environment_variables"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-10-07, 16:59:58",
-      "https://lobste.rs/s/a8klxl/costs_i386_x86_64_upgrade"
-    ],
-    [
-      "The costs of the i386 to x86-64 upgrade",
-      "https://blogsystem5.substack.com/p/x86-64-programming-models"
-    ]
-  ],
-  [
-    [
       "2024-10-07, 16:51:22",
       "https://lobste.rs/s/sb6nmj/what_s_new_ruby_on_rails_8"
     ],
@@ -157,16 +167,6 @@
     [
       "Miscellaneous notes on Steam Deck reshells, mods, and screen replacements",
       "https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 16:33:18",
-      "https://lobste.rs/s/xdqnec/what_s_new_python_3_13"
-    ],
-    [
-      "What’s New In Python 3.13",
-      "https://docs.python.org/3/whatsnew/3.13.html"
     ]
   ],
   [
