@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 22:09:21](https://lobste.rs/s/uytxhq/update_on_string_templates_jep_459) - [Update on String Templates (JEP 459)](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-April/004106.html)
+* [2024-10-08, 21:58:53](https://lobste.rs/s/fb7i7k/modest_critique_htmx) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 * [2024-10-08, 21:32:32](https://lobste.rs/s/rsdl2r/go_s_new_small_language_features_from_1_22_1) - [Go's new small language features from 1.22 and 1.23 are nice](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewSmallLanguageFeaturesNice)
 * [2024-10-08, 21:00:56](https://lobste.rs/s/rjopx8/static_site_paradox) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 20:22:32](https://lobste.rs/s/6ntl4g/modern_path_environment_variable) - [Modern PATH environment variable](https://blog.izissise.net/posts/env-path/)

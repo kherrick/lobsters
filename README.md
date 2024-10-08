@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 22:09:21](https://lobste.rs/s/uytxhq/update_on_string_templates_jep_459) - [Update on String Templates (JEP 459)](https://mail.openjdk.org/pipermail/amber-spec-experts/2024-April/004106.html)
+* [2024-10-08, 21:58:53](https://lobste.rs/s/fb7i7k/modest_critique_htmx) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 * [2024-10-08, 21:32:32](https://lobste.rs/s/rsdl2r/go_s_new_small_language_features_from_1_22_1) - [Go's new small language features from 1.22 and 1.23 are nice](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewSmallLanguageFeaturesNice)
 * [2024-10-08, 21:00:56](https://lobste.rs/s/rjopx8/static_site_paradox) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 20:22:32](https://lobste.rs/s/6ntl4g/modern_path_environment_variable) - [Modern PATH environment variable](https://blog.izissise.net/posts/env-path/)
@@ -7,7 +9,6 @@
 * [2024-10-08, 18:50:39](https://lobste.rs/s/rqr0cq/sdl_shader_language_quickstart) - [SDL Shader Language Quickstart](https://github.com/libsdl-org/SDL_shader_tools/blob/main/docs/README-shader-language-quickstart.md)
 * [2024-10-08, 16:41:19](https://lobste.rs/s/9gc5ls/tartufo_searches_through_git) - [Tartufo searches through git repositories for high entropy strings and secrets](https://github.com/godaddy/tartufo)
 * [2024-10-08, 15:32:30](https://lobste.rs/s/mh0anp/z_200_chill_itu_t_programming_language) - [Z.200 : CHILL - The ITU-T Programming Language](https://www.itu.int/rec/T-REC-Z.200-199911-I/en)
-* [2024-10-08, 15:16:17](https://lobste.rs/s/ca25r0/migration_from_biocontainers_seqera) - [Migration from Biocontainers to Seqera Containers: Part 2](https://nf-co.re/blog/2024/seqera-containers-part-2)
 * [2024-10-08, 14:25:38](https://lobste.rs/s/dvedwb/nobel_prize_physics_2024_awarded) - [Nobel Prize in Physics 2024 awarded to Hopfield and Hinton for foundational discoveries in ML and NNs](https://www.nobelprize.org/prizes/physics/2024/press-release/)
 * [2024-10-08, 14:14:30](https://lobste.rs/s/8jpq3b/julia_1_11_highlights) - [Julia 1.11 Highlights](https://julialang.org/blog/2024/10/julia-1.11-highlights/)
 * [2024-10-08, 13:58:53](https://lobste.rs/s/72miy3/mastodon_4_3) - [Mastodon 4.3](https://blog.joinmastodon.org/2024/10/mastodon-4.3/)
@@ -24,7 +25,6 @@
 * [2024-10-07, 15:26:02](https://lobste.rs/s/xcg0xw/python_3_13_released_what_s_new) - [Python 3.13 released: what's new](https://docs.python.org/3.13/whatsnew/3.13.html)
 * [2024-10-07, 15:06:53](https://lobste.rs/s/dio6vw/c_coroutines_without_heap_allocation) - [C++ coroutines without heap allocation](https://pigweed.dev/docs/blog/05-coroutines.html)
 * [2024-10-07, 15:01:36](https://lobste.rs/s/azx487/google_s_ai_thinks_i_left_gatorade_bottle) - [Google's AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
-* [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 
 ## [Archives](archives/index.md)
 
