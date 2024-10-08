@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 18:39:57](https://lobste.rs/s/mi5p3k/why_don_t_compilers_warn_for_const_t_f) - [Why don’t compilers warn for const T f()?](https://quuxplusone.github.io/blog/2024/10/07/wqual-class-return-type/)
 * [2024-10-08, 16:41:19](https://lobste.rs/s/9gc5ls/tartufo_searches_through_git) - [Tartufo searches through git repositories for high entropy strings and secrets](https://github.com/godaddy/tartufo)
 * [2024-10-08, 15:32:30](https://lobste.rs/s/mh0anp/z_200_chill_itu_t_programming_language) - [Z.200 : CHILL - The ITU-T Programming Language](https://www.itu.int/rec/T-REC-Z.200-199911-I/en)
 * [2024-10-08, 15:16:17](https://lobste.rs/s/ca25r0/migration_from_biocontainers_seqera) - [Migration from Biocontainers to Seqera Containers: Part 2](https://nf-co.re/blog/2024/seqera-containers-part-2)
@@ -14,7 +15,6 @@
 * [2024-10-08, 09:05:38](https://lobste.rs/s/ho2zv1/inweb_modern_system_for_literate) - [Inweb: a modern system for literate programming](https://ganelson.github.io/inweb/inweb/index.html)
 * [2024-10-08, 06:40:47](https://lobste.rs/s/cowx3b/app_i_built_as_high_school_student_learn) - [An app I built as a high school student to learn SQL with realistic data](https://sandboxsql.com)
 * [2024-10-08, 01:53:00](https://lobste.rs/s/izzxyp/rust_gpu_future_gpu_programming) - [Rust GPU: The future of GPU programming](https://rust-gpu.github.io/)
-* [2024-10-07, 21:46:00](https://lobste.rs/s/uvsdtt/understanding_rust_s_trait_objects) - [Understanding Rust's Trait Objects: Vtables, Dynamic Dispatch, and Memory Deallocation](https://www.eventhelix.com/rust/rust-to-assembly-tail-call-via-vtable-and-box-trait-free/)
 * [2024-10-07, 20:35:29](https://lobste.rs/s/qohcti/openbsd_7_6) - [OpenBSD 7.6](https://www.openbsd.org/76.html)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:50:20](https://lobste.rs/s/y6zoi2/miscellaneous_notes_on_steam_deck) - [Miscellaneous notes on Steam Deck reshells, mods, and screen replacements](https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html)
