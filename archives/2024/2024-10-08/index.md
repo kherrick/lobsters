@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 09:05:38](https://lobste.rs/s/ho2zv1/inweb_modern_system_for_literate) - [Inweb: a modern system for literate programming](https://ganelson.github.io/inweb/inweb/index.html)
+* [2024-10-08, 09:05:34](https://lobste.rs/s/fn7xqx/overview_covert_quantum_communications) - [Overview of Covert Quantum Communications, theory and practice](https://www.youtube.com/watch?v=C7qXpefZbCI)
 * [2024-10-08, 07:03:58](https://lobste.rs/s/vqb9lo/cloudflare_s_ai_audit_helps_websites_beat) - [Cloudflare's AI Audit Helps Websites Beat Bots](https://spectrum.ieee.org/ai-web-scraper-2669286570)
 * [2024-10-08, 06:40:47](https://lobste.rs/s/cowx3b/app_i_built_as_high_school_student_learn) - [An app I built as a high school student to learn SQL with realistic data](https://sandboxsql.com)
 * [2024-10-08, 05:19:59](https://lobste.rs/s/grvbww/metaculus_is_going_open_source) - [Metaculus is going open source](https://www.metaculus.com/notebooks/28734/)

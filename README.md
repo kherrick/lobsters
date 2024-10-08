@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-08, 07:03:58](https://lobste.rs/s/vqb9lo/cloudflare_s_ai_audit_helps_websites_beat) - [Cloudflare's AI Audit Helps Websites Beat Bots](https://spectrum.ieee.org/ai-web-scraper-2669286570)
+* [2024-10-08, 09:05:38](https://lobste.rs/s/ho2zv1/inweb_modern_system_for_literate) - [Inweb: a modern system for literate programming](https://ganelson.github.io/inweb/inweb/index.html)
+* [2024-10-08, 09:05:34](https://lobste.rs/s/fn7xqx/overview_covert_quantum_communications) - [Overview of Covert Quantum Communications, theory and practice](https://www.youtube.com/watch?v=C7qXpefZbCI)
 * [2024-10-08, 06:40:47](https://lobste.rs/s/cowx3b/app_i_built_as_high_school_student_learn) - [An app I built as a high school student to learn SQL with realistic data](https://sandboxsql.com)
 * [2024-10-08, 01:53:00](https://lobste.rs/s/izzxyp/rust_gpu_future_gpu_programming) - [Rust GPU: The future of GPU programming](https://rust-gpu.github.io/)
 * [2024-10-07, 21:46:00](https://lobste.rs/s/uvsdtt/understanding_rust_s_trait_objects) - [Understanding Rust's Trait Objects: Vtables, Dynamic Dispatch, and Memory Deallocation](https://www.eventhelix.com/rust/rust-to-assembly-tail-call-via-vtable-and-box-trait-free/)
@@ -20,7 +21,6 @@
 * [2024-10-07, 14:01:49](https://lobste.rs/s/3vw8dw/can_you_get_root_with_only_cigarette) - [Can You Get Root With Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
 * [2024-10-07, 12:26:32](https://lobste.rs/s/ck7dtw/adaptive_packed_memory_array) - [An Adaptive Packed-Memory Array](https://www3.cs.stonybrook.edu/~bender/newpub/BenderHu07-TODS.pdf)
 * [2024-10-07, 12:16:05](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week)
-* [2024-10-07, 09:21:04](https://lobste.rs/s/9qvaol/avx_bitwise_ternary_logic_instruction) - [AVX Bitwise ternary logic instruction busted](https://arnaud-carre.github.io/2024-10-06-vpternlogd/)
 * [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 * [2024-10-07, 06:54:52](https://lobste.rs/s/sajff7/big_ball_mud_1999) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
 * [2024-10-07, 01:19:46](https://lobste.rs/s/4jywpi/octothorpes_hashtags_for_open_internet) - [Octothorpes: hashtags for the open internet](https://octothorp.es/docs)
