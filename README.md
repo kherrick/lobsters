@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 19:14:41](https://lobste.rs/s/4f9pjv/gboard) - [Gboard 両面バージョン](https://landing.google.co.jp/double-sided/)
 * [2024-10-08, 18:57:39](https://lobste.rs/s/mea1xq/apple_passwords_generated_strong) - [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
-* [2024-10-08, 18:50:39](https://lobste.rs/s/rqr0cq/sdl_shader_language_quickstart) - [SDL Shader Language Quickstart](https://github.com/libsdl-org/SDL_shader_tools/blob/main/docs/README-shader-language-quickstart.md)
 * [2024-10-08, 16:41:19](https://lobste.rs/s/9gc5ls/tartufo_searches_through_git) - [Tartufo searches through git repositories for high entropy strings and secrets](https://github.com/godaddy/tartufo)
 * [2024-10-08, 15:32:30](https://lobste.rs/s/mh0anp/z_200_chill_itu_t_programming_language) - [Z.200 : CHILL - The ITU-T Programming Language](https://www.itu.int/rec/T-REC-Z.200-199911-I/en)
 * [2024-10-08, 15:16:17](https://lobste.rs/s/ca25r0/migration_from_biocontainers_seqera) - [Migration from Biocontainers to Seqera Containers: Part 2](https://nf-co.re/blog/2024/seqera-containers-part-2)

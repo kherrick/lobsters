@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 19:14:41](https://lobste.rs/s/4f9pjv/gboard) - [Gboard 両面バージョン](https://landing.google.co.jp/double-sided/)
 * [2024-10-08, 18:57:39](https://lobste.rs/s/mea1xq/apple_passwords_generated_strong) - [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 * [2024-10-08, 18:50:39](https://lobste.rs/s/rqr0cq/sdl_shader_language_quickstart) - [SDL Shader Language Quickstart](https://github.com/libsdl-org/SDL_shader_tools/blob/main/docs/README-shader-language-quickstart.md)
 * [2024-10-08, 18:39:57](https://lobste.rs/s/mi5p3k/why_don_t_compilers_warn_for_const_t_f) - [Why don’t compilers warn for const T f()?](https://quuxplusone.github.io/blog/2024/10/07/wqual-class-return-type/)
