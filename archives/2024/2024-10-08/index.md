@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 11:43:50](https://lobste.rs/s/yqpzyn/kernighan_s_lever) - [Kernighan's lever](https://www.linusakesson.net/programming/kernighans-lever/index.php)
 * [2024-10-08, 10:28:41](https://lobste.rs/s/7mluir/windows_dynamic_linking_depends_on) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
 * [2024-10-08, 10:17:33](https://lobste.rs/s/3ktpj4/engineers_are_not_fans_technologies) - [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
 * [2024-10-08, 09:05:38](https://lobste.rs/s/ho2zv1/inweb_modern_system_for_literate) - [Inweb: a modern system for literate programming](https://ganelson.github.io/inweb/inweb/index.html)
