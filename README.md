@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 14:25:38](https://lobste.rs/s/dvedwb/nobel_prize_physics_2024_awarded) - [Nobel Prize in Physics 2024 awarded to Hopfield and Hinton for foundational discoveries in ML and NNs](https://www.nobelprize.org/prizes/physics/2024/press-release/)
 * [2024-10-08, 14:14:30](https://lobste.rs/s/8jpq3b/julia_1_11_highlights) - [Julia 1.11 Highlights](https://julialang.org/blog/2024/10/julia-1.11-highlights/)
 * [2024-10-08, 13:58:53](https://lobste.rs/s/72miy3/mastodon_4_3) - [Mastodon 4.3](https://blog.joinmastodon.org/2024/10/mastodon-4.3/)
 * [2024-10-08, 12:43:31](https://lobste.rs/s/mpulkt/why_i_like_tcl) - [Why I like Tcl](https://world-playground-deceit.net/blog/2024/why_tcl.html)
@@ -23,7 +24,6 @@
 * [2024-10-07, 15:06:53](https://lobste.rs/s/dio6vw/c_coroutines_without_heap_allocation) - [C++ coroutines without heap allocation](https://pigweed.dev/docs/blog/05-coroutines.html)
 * [2024-10-07, 15:01:36](https://lobste.rs/s/azx487/google_s_ai_thinks_i_left_gatorade_bottle) - [Google's AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
 * [2024-10-07, 14:01:49](https://lobste.rs/s/3vw8dw/can_you_get_root_with_only_cigarette) - [Can You Get Root With Only a Cigarette Lighter?](https://www.da.vidbuchanan.co.uk/blog/dram-emfi.html)
-* [2024-10-07, 12:16:05](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week)
 * [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
 
 ## [Archives](archives/index.md)
