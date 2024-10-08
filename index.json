@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-10-08, 01:17:17",
+      "https://lobste.rs/s/vcli7h/optimizing_risc_v_backend"
+    ],
+    [
+      "Optimizing the RISC-V Backend",
+      "https://box86.org/2024/10/optimizing-the-risc-v-backend/"
+    ]
+  ],
+  [
+    [
       "2024-10-07, 21:46:00",
       "https://lobste.rs/s/uvsdtt/understanding_rust_s_trait_objects"
     ],
@@ -237,16 +247,6 @@
     [
       "6 years with Gleam",
       "https://crowdhailer.me/2024-10-04/6-years-with-gleam/"
-    ]
-  ],
-  [
-    [
-      "2024-10-06, 13:31:04",
-      "https://lobste.rs/s/fdsncl/trusting_clients_is_probably_security"
-    ],
-    [
-      "Trusting clients is probably a security flaw",
-      "https://liberda.nl/weblog/trust-no-client/"
     ]
   ]
 ]
