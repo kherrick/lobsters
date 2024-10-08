@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-08, 15:16:17",
+      "https://lobste.rs/s/ca25r0/migration_from_biocontainers_seqera"
+    ],
+    [
+      "Migration from Biocontainers to Seqera Containers: Part 2",
+      "https://nf-co.re/blog/2024/seqera-containers-part-2"
+    ]
+  ],
+  [
+    [
       "2024-10-08, 14:25:38",
       "https://lobste.rs/s/dvedwb/nobel_prize_physics_2024_awarded"
     ],
@@ -137,16 +147,6 @@
     [
       "OpenBSD 7.6",
       "https://www.openbsd.org/76.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 18:13:36",
-      "https://lobste.rs/s/plyhjb/do_not_use_secrets_environment_variables"
-    ],
-    [
-      "Do not use secrets in environment variables and here's how to do it better",
-      "https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better"
     ]
   ],
   [
