@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 15:16:17](https://lobste.rs/s/ca25r0/migration_from_biocontainers_seqera) - [Migration from Biocontainers to Seqera Containers: Part 2](https://nf-co.re/blog/2024/seqera-containers-part-2)
 * [2024-10-08, 14:25:38](https://lobste.rs/s/dvedwb/nobel_prize_physics_2024_awarded) - [Nobel Prize in Physics 2024 awarded to Hopfield and Hinton for foundational discoveries in ML and NNs](https://www.nobelprize.org/prizes/physics/2024/press-release/)
 * [2024-10-08, 14:14:30](https://lobste.rs/s/8jpq3b/julia_1_11_highlights) - [Julia 1.11 Highlights](https://julialang.org/blog/2024/10/julia-1.11-highlights/)
 * [2024-10-08, 13:58:53](https://lobste.rs/s/72miy3/mastodon_4_3) - [Mastodon 4.3](https://blog.joinmastodon.org/2024/10/mastodon-4.3/)
@@ -14,7 +15,6 @@
 * [2024-10-08, 01:53:00](https://lobste.rs/s/izzxyp/rust_gpu_future_gpu_programming) - [Rust GPU: The future of GPU programming](https://rust-gpu.github.io/)
 * [2024-10-07, 21:46:00](https://lobste.rs/s/uvsdtt/understanding_rust_s_trait_objects) - [Understanding Rust's Trait Objects: Vtables, Dynamic Dispatch, and Memory Deallocation](https://www.eventhelix.com/rust/rust-to-assembly-tail-call-via-vtable-and-box-trait-free/)
 * [2024-10-07, 20:35:29](https://lobste.rs/s/qohcti/openbsd_7_6) - [OpenBSD 7.6](https://www.openbsd.org/76.html)
-* [2024-10-07, 18:13:36](https://lobste.rs/s/plyhjb/do_not_use_secrets_environment_variables) - [Do not use secrets in environment variables and here's how to do it better](https://www.nodejs-security.com/blog/do-not-use-secrets-in-environment-variables-and-here-is-how-to-do-it-better)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:51:22](https://lobste.rs/s/sb6nmj/what_s_new_ruby_on_rails_8) - [What's New in Ruby on Rails 8](https://blog.appsignal.com/2024/10/07/whats-new-in-ruby-on-rails-8.html)
 * [2024-10-07, 16:50:20](https://lobste.rs/s/y6zoi2/miscellaneous_notes_on_steam_deck) - [Miscellaneous notes on Steam Deck reshells, mods, and screen replacements](https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html)
