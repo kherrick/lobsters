@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 12:15:45](https://lobste.rs/s/yzpa3i/macos_crash_with_unixdatagram) - [macOS crash with `UnixDatagram`](https://github.com/rust-lang/rust/issues/131374)
 * [2024-10-08, 11:43:50](https://lobste.rs/s/yqpzyn/kernighan_s_lever) - [Kernighan's lever](https://www.linusakesson.net/programming/kernighans-lever/index.php)
 * [2024-10-08, 10:28:41](https://lobste.rs/s/7mluir/windows_dynamic_linking_depends_on) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
 * [2024-10-08, 10:17:33](https://lobste.rs/s/3ktpj4/engineers_are_not_fans_technologies) - [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
@@ -24,7 +25,6 @@
 * [2024-10-07, 12:26:32](https://lobste.rs/s/ck7dtw/adaptive_packed_memory_array) - [An Adaptive Packed-Memory Array](https://www3.cs.stonybrook.edu/~bender/newpub/BenderHu07-TODS.pdf)
 * [2024-10-07, 12:16:05](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week)
 * [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
-* [2024-10-06, 18:17:30](https://lobste.rs/s/ylcar9/6_years_with_gleam) - [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
 
 ## [Archives](archives/index.md)
 

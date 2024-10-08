@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-08](index.md)
 
+* [2024-10-08, 12:15:45](https://lobste.rs/s/yzpa3i/macos_crash_with_unixdatagram) - [macOS crash with `UnixDatagram`](https://github.com/rust-lang/rust/issues/131374)
 * [2024-10-08, 11:43:50](https://lobste.rs/s/yqpzyn/kernighan_s_lever) - [Kernighan's lever](https://www.linusakesson.net/programming/kernighans-lever/index.php)
 * [2024-10-08, 10:28:41](https://lobste.rs/s/7mluir/windows_dynamic_linking_depends_on) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
 * [2024-10-08, 10:17:33](https://lobste.rs/s/3ktpj4/engineers_are_not_fans_technologies) - [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
