@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 10:28:41](https://lobste.rs/s/7mluir/windows_dynamic_linking_depends_on) - [Windows dynamic linking depends on the active code page](https://nullprogram.com/blog/2024/10/07/)
+* [2024-10-08, 10:17:33](https://lobste.rs/s/3ktpj4/engineers_are_not_fans_technologies) - [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
 * [2024-10-08, 09:05:38](https://lobste.rs/s/ho2zv1/inweb_modern_system_for_literate) - [Inweb: a modern system for literate programming](https://ganelson.github.io/inweb/inweb/index.html)
 * [2024-10-08, 09:05:34](https://lobste.rs/s/fn7xqx/overview_covert_quantum_communications) - [Overview of Covert Quantum Communications, theory and practice](https://www.youtube.com/watch?v=C7qXpefZbCI)
 * [2024-10-08, 06:40:47](https://lobste.rs/s/cowx3b/app_i_built_as_high_school_student_learn) - [An app I built as a high school student to learn SQL with realistic data](https://sandboxsql.com)
@@ -22,8 +24,6 @@
 * [2024-10-07, 12:26:32](https://lobste.rs/s/ck7dtw/adaptive_packed_memory_array) - [An Adaptive Packed-Memory Array](https://www3.cs.stonybrook.edu/~bender/newpub/BenderHu07-TODS.pdf)
 * [2024-10-07, 12:16:05](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ypbhqa/what_are_you_doing_this_week)
 * [2024-10-07, 08:22:53](https://lobste.rs/s/cht6rz/smolderingly_fast_b_trees) - [Smolderingly fast b-trees](https://www.scattered-thoughts.net/writing/smolderingly-fast-btrees/)
-* [2024-10-07, 06:54:52](https://lobste.rs/s/sajff7/big_ball_mud_1999) - [Big Ball of Mud (1999)](http://www.laputan.org/mud/)
-* [2024-10-07, 01:19:46](https://lobste.rs/s/4jywpi/octothorpes_hashtags_for_open_internet) - [Octothorpes: hashtags for the open internet](https://octothorp.es/docs)
 * [2024-10-06, 18:17:30](https://lobste.rs/s/ylcar9/6_years_with_gleam) - [6 years with Gleam](https://crowdhailer.me/2024-10-04/6-years-with-gleam/)
 
 ## [Archives](archives/index.md)
