@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-08, 18:50:39](https://lobste.rs/s/rqr0cq/sdl_shader_language_quickstart) - [SDL Shader Language Quickstart](https://github.com/libsdl-org/SDL_shader_tools/blob/main/docs/README-shader-language-quickstart.md)
 * [2024-10-08, 18:39:57](https://lobste.rs/s/mi5p3k/why_don_t_compilers_warn_for_const_t_f) - [Why don’t compilers warn for const T f()?](https://quuxplusone.github.io/blog/2024/10/07/wqual-class-return-type/)
 * [2024-10-08, 16:41:19](https://lobste.rs/s/9gc5ls/tartufo_searches_through_git) - [Tartufo searches through git repositories for high entropy strings and secrets](https://github.com/godaddy/tartufo)
 * [2024-10-08, 15:32:30](https://lobste.rs/s/mh0anp/z_200_chill_itu_t_programming_language) - [Z.200 : CHILL - The ITU-T Programming Language](https://www.itu.int/rec/T-REC-Z.200-199911-I/en)
@@ -17,7 +18,6 @@
 * [2024-10-08, 01:53:00](https://lobste.rs/s/izzxyp/rust_gpu_future_gpu_programming) - [Rust GPU: The future of GPU programming](https://rust-gpu.github.io/)
 * [2024-10-07, 20:35:29](https://lobste.rs/s/qohcti/openbsd_7_6) - [OpenBSD 7.6](https://www.openbsd.org/76.html)
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
-* [2024-10-07, 16:50:20](https://lobste.rs/s/y6zoi2/miscellaneous_notes_on_steam_deck) - [Miscellaneous notes on Steam Deck reshells, mods, and screen replacements](https://blog.lazerwalker.com/2024/10/06/steam-deck-mod.html)
 * [2024-10-07, 16:13:16](https://lobste.rs/s/asdcvf/building_single_page_app_with_htmx) - [Building a Single-Page App with htmx](https://jakelazaroff.com/words/building-a-single-page-app-with-htmx/)
 * [2024-10-07, 16:03:38](https://lobste.rs/s/c2ggav/rust_is_rolling_off_volvo_assembly_line) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 * [2024-10-07, 15:26:02](https://lobste.rs/s/xcg0xw/python_3_13_released_what_s_new) - [Python 3.13 released: what's new](https://docs.python.org/3.13/whatsnew/3.13.html)
