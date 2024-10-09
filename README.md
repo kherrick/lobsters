@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-09, 19:17:34](https://lobste.rs/s/3hghjo/structures_as_paths) - [structures as paths](https://explaining.software/archive/structures-as-paths/)
 * [2024-10-09, 19:01:27](https://lobste.rs/s/ccgxtf/my_negative_views_on_rust) - [My negative views on Rust](https://chrisdone.com/posts/rust/)
 * [2024-10-09, 18:00:05](https://lobste.rs/s/sqaxfx/proposed_roadmap_for_introducing_cheri) - [Proposed roadmap for introducing CHERI into Android](https://infosec.exchange/@david_chisnall/113277021212365322)
 * [2024-10-09, 17:34:04](https://lobste.rs/s/ghywr0/two_workflow_tips) - [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
@@ -17,7 +18,6 @@
 * [2024-10-09, 02:05:07](https://lobste.rs/s/qpxmar/building_real_time_global_illumination) - [Building Real-Time Global Illumination](https://jason.today/gi)
 * [2024-10-08, 22:40:25](https://lobste.rs/s/lfmgf1/disappearance_internet_domain) - [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 * [2024-10-08, 21:58:53](https://lobste.rs/s/fb7i7k/modest_critique_htmx) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
-* [2024-10-08, 21:32:32](https://lobste.rs/s/rsdl2r/go_s_new_small_language_features_from_1_22_1) - [Go's new small language features from 1.22 and 1.23 are nice](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewSmallLanguageFeaturesNice)
 * [2024-10-08, 21:00:56](https://lobste.rs/s/rjopx8/static_site_paradox) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 20:22:32](https://lobste.rs/s/6ntl4g/modern_path_environment_variable) - [Modern PATH environment variable](https://blog.izissise.net/posts/env-path/)
 * [2024-10-08, 18:57:39](https://lobste.rs/s/mea1xq/apple_passwords_generated_strong) - [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
