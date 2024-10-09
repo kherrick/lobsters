@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-10-09, 21:40:39](https://lobste.rs/s/oxf6bx/building_text_uis_rust_interview) - [Building Text UIs in Rust (Interview)](https://www.youtube.com/watch?v=CNVmIocyDOQ)
-* [2024-10-09, 21:29:33](https://lobste.rs/s/wbmh13/internet_archive_hacked_probably) - [Internet Archive Hacked (probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
 * [2024-10-09, 19:17:34](https://lobste.rs/s/3hghjo/structures_as_paths) - [structures as paths](https://explaining.software/archive/structures-as-paths/)
 * [2024-10-09, 19:01:27](https://lobste.rs/s/ccgxtf/my_negative_views_on_rust) - [My negative views on Rust](https://chrisdone.com/posts/rust/)
 * [2024-10-09, 18:00:05](https://lobste.rs/s/sqaxfx/proposed_roadmap_for_introducing_cheri) - [Proposed roadmap for introducing CHERI into Android](https://infosec.exchange/@david_chisnall/113277021212365322)
@@ -22,6 +21,7 @@
 * [2024-10-08, 21:00:56](https://lobste.rs/s/rjopx8/static_site_paradox) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 20:22:32](https://lobste.rs/s/6ntl4g/modern_path_environment_variable) - [Modern PATH environment variable](https://blog.izissise.net/posts/env-path/)
 * [2024-10-08, 18:57:39](https://lobste.rs/s/mea1xq/apple_passwords_generated_strong) - [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
+* [2024-10-08, 13:58:53](https://lobste.rs/s/72miy3/mastodon_4_3) - [Mastodon 4.3](https://blog.joinmastodon.org/2024/10/mastodon-4.3/)
 * [2024-10-08, 12:43:31](https://lobste.rs/s/mpulkt/why_i_like_tcl) - [Why I like Tcl](https://world-playground-deceit.net/blog/2024/why_tcl.html)
 * [2024-10-08, 12:15:45](https://lobste.rs/s/yzpa3i/macos_crash_with_unixdatagram) - [macOS crash with `UnixDatagram`](https://github.com/rust-lang/rust/issues/131374)
 * [2024-10-08, 10:17:33](https://lobste.rs/s/3ktpj4/engineers_are_not_fans_technologies) - [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
