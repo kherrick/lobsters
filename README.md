@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-09, 14:49:44](https://lobste.rs/s/b7txd0/brew_perfect_coffee_right_from_your) - [Brew Perfect Coffee Right from Your Terminal](https://github.com/sepandhaghighi/mycoffee)
 * [2024-10-09, 13:48:22](https://lobste.rs/s/b4x3g8/how_search_anything) - [How to Search Anything](https://montyanderson.net/writing/search)
 * [2024-10-09, 13:33:48](https://lobste.rs/s/hiwgod/addition_is_all_you_need_for_energy) - [Addition is all you need for energy efficient language models](https://arxiv.org/pdf/2410.00907)
 * [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
@@ -23,7 +24,6 @@
 * [2024-10-08, 13:58:53](https://lobste.rs/s/72miy3/mastodon_4_3) - [Mastodon 4.3](https://blog.joinmastodon.org/2024/10/mastodon-4.3/)
 * [2024-10-08, 12:43:31](https://lobste.rs/s/mpulkt/why_i_like_tcl) - [Why I like Tcl](https://world-playground-deceit.net/blog/2024/why_tcl.html)
 * [2024-10-08, 12:15:45](https://lobste.rs/s/yzpa3i/macos_crash_with_unixdatagram) - [macOS crash with `UnixDatagram`](https://github.com/rust-lang/rust/issues/131374)
-* [2024-10-08, 11:43:50](https://lobste.rs/s/yqpzyn/kernighan_s_lever) - [Kernighan's lever](https://www.linusakesson.net/programming/kernighans-lever/index.php)
 * [2024-10-08, 10:17:33](https://lobste.rs/s/3ktpj4/engineers_are_not_fans_technologies) - [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
 
 ## [Archives](archives/index.md)

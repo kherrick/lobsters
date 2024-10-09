@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 14:49:44](https://lobste.rs/s/b7txd0/brew_perfect_coffee_right_from_your) - [Brew Perfect Coffee Right from Your Terminal](https://github.com/sepandhaghighi/mycoffee)
 * [2024-10-09, 13:48:22](https://lobste.rs/s/b4x3g8/how_search_anything) - [How to Search Anything](https://montyanderson.net/writing/search)
 * [2024-10-09, 13:33:48](https://lobste.rs/s/hiwgod/addition_is_all_you_need_for_energy) - [Addition is all you need for energy efficient language models](https://arxiv.org/pdf/2410.00907)
 * [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
