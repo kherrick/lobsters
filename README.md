@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-09, 16:12:26](https://lobste.rs/s/p2uu47/50_years_queries) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
+* [2024-10-09, 16:42:10](https://lobste.rs/s/wsz2bx/python_sysv_shared_memory) - [Python and SysV shared memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
 * [2024-10-09, 15:17:14](https://lobste.rs/s/b6viwy/semimak_layout_2021) - [The Semimak layout (2021)](https://semilin.github.io/blog/2021/semimak.html)
