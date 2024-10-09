@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 13:48:22](https://lobste.rs/s/b4x3g8/how_search_anything) - [How to Search Anything](https://montyanderson.net/writing/search)
 * [2024-10-09, 13:33:48](https://lobste.rs/s/hiwgod/addition_is_all_you_need_for_energy) - [Addition is all you need for energy efficient language models](https://arxiv.org/pdf/2410.00907)
 * [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
 * [2024-10-09, 12:05:51](https://lobste.rs/s/qiqsbv/gcc_15_un_deprecates_itanium_ia_64_linux) - [GCC 15 un-deprecates Itanium IA-64 Linux support](https://www.phoronix.com/news/GCC-15-Undeprecates-Itanium)
