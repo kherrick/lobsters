@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-09, 19:01:27",
+      "https://lobste.rs/s/ccgxtf/my_negative_views_on_rust"
+    ],
+    [
+      "My negative views on Rust",
+      "https://chrisdone.com/posts/rust/"
+    ]
+  ],
+  [
+    [
       "2024-10-09, 18:00:05",
       "https://lobste.rs/s/sqaxfx/proposed_roadmap_for_introducing_cheri"
     ],
@@ -127,16 +137,6 @@
     [
       "Performance measurements of IPC in Rust",
       "https://pranitha.rs/posts/rust-ipc-ping-pong/"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 09:01:55",
-      "https://lobste.rs/s/sqkesx/jazz_open_source_framework_for_building"
-    ],
-    [
-      "Jazz - open-source framework for building local-first apps",
-      "https://jazz.tools/"
     ]
   ],
   [
