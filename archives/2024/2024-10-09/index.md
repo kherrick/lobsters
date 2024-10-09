@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-09, 10:18:34](https://lobste.rs/s/1xo1kd/accumulated_test_vectors) - [Accumulated Test Vectors](https://words.filippo.io/dispatches/accumulated/)
 * [2024-10-09, 10:09:39](https://lobste.rs/s/9bpceq/performance_measurements_ipc_rust) - [Performance measurements of IPC in Rust](https://pranitha.rs/posts/rust-ipc-ping-pong/)
 * [2024-10-09, 09:23:42](https://lobste.rs/s/qiym3i/fighting_for_our_web) - [Fighting for our web](https://www.citationneeded.news/fighting-for-our-web/)
