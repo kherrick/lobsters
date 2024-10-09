@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-09, 18:00:05](https://lobste.rs/s/sqaxfx/proposed_roadmap_for_introducing_cheri) - [Proposed roadmap for introducing CHERI into Android](https://infosec.exchange/@david_chisnall/113277021212365322)
 * [2024-10-09, 17:34:04](https://lobste.rs/s/ghywr0/two_workflow_tips) - [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
@@ -20,7 +21,6 @@
 * [2024-10-08, 21:00:56](https://lobste.rs/s/rjopx8/static_site_paradox) - [The Static Site Paradox](https://kristoff.it/blog/static-site-paradox/)
 * [2024-10-08, 20:22:32](https://lobste.rs/s/6ntl4g/modern_path_environment_variable) - [Modern PATH environment variable](https://blog.izissise.net/posts/env-path/)
 * [2024-10-08, 18:57:39](https://lobste.rs/s/mea1xq/apple_passwords_generated_strong) - [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
-* [2024-10-08, 14:14:30](https://lobste.rs/s/8jpq3b/julia_1_11_highlights) - [Julia 1.11 Highlights](https://julialang.org/blog/2024/10/julia-1.11-highlights/)
 * [2024-10-08, 13:58:53](https://lobste.rs/s/72miy3/mastodon_4_3) - [Mastodon 4.3](https://blog.joinmastodon.org/2024/10/mastodon-4.3/)
 * [2024-10-08, 12:43:31](https://lobste.rs/s/mpulkt/why_i_like_tcl) - [Why I like Tcl](https://world-playground-deceit.net/blog/2024/why_tcl.html)
 * [2024-10-08, 12:15:45](https://lobste.rs/s/yzpa3i/macos_crash_with_unixdatagram) - [macOS crash with `UnixDatagram`](https://github.com/rust-lang/rust/issues/131374)
