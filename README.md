@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-09, 02:05:07](https://lobste.rs/s/qpxmar/building_real_time_global_illumination) - [Building Real-Time Global Illumination](https://jason.today/gi)
 * [2024-10-08, 22:40:25](https://lobste.rs/s/lfmgf1/disappearance_internet_domain) - [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 * [2024-10-08, 21:58:53](https://lobste.rs/s/fb7i7k/modest_critique_htmx) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 * [2024-10-08, 21:32:32](https://lobste.rs/s/rsdl2r/go_s_new_small_language_features_from_1_22_1) - [Go's new small language features from 1.22 and 1.23 are nice](https://utcc.utoronto.ca/~cks/space/blog/programming/GoNewSmallLanguageFeaturesNice)
@@ -23,7 +24,6 @@
 * [2024-10-07, 17:36:07](https://lobste.rs/s/fqynrk/some_gems_i_like) - [Some gems I like](https://www.fullstackruby.dev/fullstack-development/2024/10/07/top-ten-favorite-ruby-web-application-gems/)
 * [2024-10-07, 16:03:38](https://lobste.rs/s/c2ggav/rust_is_rolling_off_volvo_assembly_line) - [Rust is rolling off the Volvo assembly line](https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line)
 * [2024-10-07, 15:26:02](https://lobste.rs/s/xcg0xw/python_3_13_released_what_s_new) - [Python 3.13 released: what's new](https://docs.python.org/3.13/whatsnew/3.13.html)
-* [2024-10-07, 15:06:53](https://lobste.rs/s/dio6vw/c_coroutines_without_heap_allocation) - [C++ coroutines without heap allocation](https://pigweed.dev/docs/blog/05-coroutines.html)
 * [2024-10-07, 15:01:36](https://lobste.rs/s/azx487/google_s_ai_thinks_i_left_gatorade_bottle) - [Google's AI thinks I left a Gatorade bottle on the moon](https://edwardbenson.com/2024/10/google-ai-thinks-i-left-gatorade-on-the-moon)
 
 ## [Archives](archives/index.md)
