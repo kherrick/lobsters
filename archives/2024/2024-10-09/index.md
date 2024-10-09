@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 22:37:49](https://lobste.rs/s/eezp91/why_gov_uk_s_exit_this_page_component_doesn) - [Why GOV.UK's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 21:40:39](https://lobste.rs/s/oxf6bx/building_text_uis_rust_interview) - [Building Text UIs in Rust (Interview)](https://www.youtube.com/watch?v=CNVmIocyDOQ)
 * [2024-10-09, 21:29:33](https://lobste.rs/s/wbmh13/internet_archive_hacked_probably) - [Internet Archive Hacked (probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
 * [2024-10-09, 19:17:34](https://lobste.rs/s/3hghjo/structures_as_paths) - [structures as paths](https://explaining.software/archive/structures-as-paths/)
