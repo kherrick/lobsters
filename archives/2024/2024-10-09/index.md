@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 21:29:33](https://lobste.rs/s/wbmh13/internet_archive_hacked_probably) - [Internet Archive Hacked (probably)](https://words.theresnotime.co.uk/2024/internet-archive-hacked-probably/)
 * [2024-10-09, 19:17:34](https://lobste.rs/s/3hghjo/structures_as_paths) - [structures as paths](https://explaining.software/archive/structures-as-paths/)
 * [2024-10-09, 19:01:27](https://lobste.rs/s/ccgxtf/my_negative_views_on_rust) - [My negative views on Rust](https://chrisdone.com/posts/rust/)
 * [2024-10-09, 18:00:05](https://lobste.rs/s/sqaxfx/proposed_roadmap_for_introducing_cheri) - [Proposed roadmap for introducing CHERI into Android](https://infosec.exchange/@david_chisnall/113277021212365322)
