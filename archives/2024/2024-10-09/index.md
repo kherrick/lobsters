@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-09](index.md)
 
+* [2024-10-09, 17:34:04](https://lobste.rs/s/ghywr0/two_workflow_tips) - [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
 * [2024-10-09, 16:42:10](https://lobste.rs/s/wsz2bx/python_sysv_shared_memory) - [Python and SysV shared memory](https://euroquis.nl//blabla/2024/10/08/shm.html)
 * [2024-10-09, 16:12:26](https://lobste.rs/s/p2uu47/50_years_queries) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
