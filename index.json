@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-09, 12:05:51",
+      "https://lobste.rs/s/qiqsbv/gcc_15_un_deprecates_itanium_ia_64_linux"
+    ],
+    [
+      "GCC 15 un-deprecates Itanium IA-64 Linux support",
+      "https://www.phoronix.com/news/GCC-15-Undeprecates-Itanium"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 11:59:19",
+      "https://lobste.rs/s/dvy5nb/5_years_later_first_win"
+    ],
+    [
+      "5 Years Later: The First Win",
+      "https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay"
+    ]
+  ],
+  [
+    [
       "2024-10-09, 11:48:13",
       "https://lobste.rs/s/mxlsap/oop_is_not_bad_actually"
     ],
@@ -27,16 +47,6 @@
     [
       "Performance measurements of IPC in Rust",
       "https://pranitha.rs/posts/rust-ipc-ping-pong/"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 09:23:42",
-      "https://lobste.rs/s/qiym3i/fighting_for_our_web"
-    ],
-    [
-      "Fighting for our web",
-      "https://www.citationneeded.news/fighting-for-our-web/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "An app I built as a high school student to learn SQL with realistic data",
       "https://sandboxsql.com"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 01:53:00",
-      "https://lobste.rs/s/izzxyp/rust_gpu_future_gpu_programming"
-    ],
-    [
-      "Rust GPU: The future of GPU programming",
-      "https://rust-gpu.github.io/"
     ]
   ],
   [
