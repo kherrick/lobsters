@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-09, 10:18:34",
+      "https://lobste.rs/s/1xo1kd/accumulated_test_vectors"
+    ],
+    [
+      "Accumulated Test Vectors",
+      "https://words.filippo.io/dispatches/accumulated/"
+    ]
+  ],
+  [
+    [
+      "2024-10-09, 10:09:39",
+      "https://lobste.rs/s/9bpceq/performance_measurements_ipc_rust"
+    ],
+    [
+      "Performance measurements of IPC in Rust",
+      "https://pranitha.rs/posts/rust-ipc-ping-pong/"
+    ]
+  ],
+  [
+    [
       "2024-10-09, 09:01:55",
       "https://lobste.rs/s/sqkesx/jazz_open_source_framework_for_building"
     ],
@@ -87,16 +107,6 @@
     [
       "Modern PATH environment variable",
       "https://blog.izissise.net/posts/env-path/"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 19:37:32",
-      "https://lobste.rs/s/ztvr3g/origins_postscript"
-    ],
-    [
-      "The Origins of PostScript",
-      "https://gwern.net/doc/design/typography/2018-warnock.pdf"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "OpenBSD 7.6",
       "https://www.openbsd.org/76.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-07, 16:03:38",
-      "https://lobste.rs/s/c2ggav/rust_is_rolling_off_volvo_assembly_line"
-    ],
-    [
-      "Rust is rolling off the Volvo assembly line",
-      "https://tweedegolf.nl/en/blog/137/rust-is-rolling-off-the-volvo-assembly-line"
     ]
   ],
   [
