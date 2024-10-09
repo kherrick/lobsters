@@ -6,6 +6,7 @@
 
 * [2024-10-09, 10:18:34](https://lobste.rs/s/1xo1kd/accumulated_test_vectors) - [Accumulated Test Vectors](https://words.filippo.io/dispatches/accumulated/)
 * [2024-10-09, 10:09:39](https://lobste.rs/s/9bpceq/performance_measurements_ipc_rust) - [Performance measurements of IPC in Rust](https://pranitha.rs/posts/rust-ipc-ping-pong/)
+* [2024-10-09, 09:23:42](https://lobste.rs/s/qiym3i/fighting_for_our_web) - [Fighting for our web](https://www.citationneeded.news/fighting-for-our-web/)
 * [2024-10-09, 09:01:55](https://lobste.rs/s/sqkesx/jazz_open_source_framework_for_building) - [Jazz - open-source framework for building local-first apps](https://jazz.tools/)
 * [2024-10-09, 08:27:40](https://lobste.rs/s/w2r089/test_by_a11y_write_tests_for_uis_through) - [test-by-a11y: Write tests for UIs through the accessibility interface](https://github.com/lilopkins/test-by-a11y)
 * [2024-10-09, 07:33:28](https://lobste.rs/s/gqa7yp/csp_bypass_search) - [CSP Bypass Search](https://cspbypass.com/)
