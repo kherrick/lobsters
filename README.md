@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-09, 08:27:40](https://lobste.rs/s/w2r089/test_by_a11y_write_tests_for_uis_through) - [test-by-a11y: Write tests for UIs through the accessibility interface](https://github.com/lilopkins/test-by-a11y)
 * [2024-10-09, 07:33:28](https://lobste.rs/s/gqa7yp/csp_bypass_search) - [CSP Bypass Search](https://cspbypass.com/)
 * [2024-10-09, 03:55:05](https://lobste.rs/s/erwrca/miqt_mit_licensed_qt_bindings_for_go) - [miqt: MIT-licensed Qt bindings for Go](https://github.com/mappu/miqt)
 * [2024-10-09, 02:05:07](https://lobste.rs/s/qpxmar/building_real_time_global_illumination) - [Building Real-Time Global Illumination](https://jason.today/gi)
@@ -11,7 +12,6 @@
 * [2024-10-08, 19:37:32](https://lobste.rs/s/ztvr3g/origins_postscript) - [The Origins of PostScript](https://gwern.net/doc/design/typography/2018-warnock.pdf)
 * [2024-10-08, 18:57:39](https://lobste.rs/s/mea1xq/apple_passwords_generated_strong) - [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 * [2024-10-08, 18:50:39](https://lobste.rs/s/rqr0cq/sdl_shader_language_quickstart) - [SDL Shader Language Quickstart](https://github.com/libsdl-org/SDL_shader_tools/blob/main/docs/README-shader-language-quickstart.md)
-* [2024-10-08, 15:32:30](https://lobste.rs/s/mh0anp/z_200_chill_itu_t_programming_language) - [Z.200 : CHILL - The ITU-T Programming Language](https://www.itu.int/rec/T-REC-Z.200-199911-I/en)
 * [2024-10-08, 14:25:38](https://lobste.rs/s/dvedwb/nobel_prize_physics_2024_awarded) - [Nobel Prize in Physics 2024 awarded to Hopfield and Hinton for foundational discoveries in ML and NNs](https://www.nobelprize.org/prizes/physics/2024/press-release/)
 * [2024-10-08, 14:14:30](https://lobste.rs/s/8jpq3b/julia_1_11_highlights) - [Julia 1.11 Highlights](https://julialang.org/blog/2024/10/julia-1.11-highlights/)
 * [2024-10-08, 13:58:53](https://lobste.rs/s/72miy3/mastodon_4_3) - [Mastodon 4.3](https://blog.joinmastodon.org/2024/10/mastodon-4.3/)
