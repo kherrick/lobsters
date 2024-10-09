@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-09, 16:12:26](https://lobste.rs/s/p2uu47/50_years_queries) - [50 Years of Queries](https://cacm.acm.org/research/50-years-of-queries/)
+* [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
 * [2024-10-09, 15:17:14](https://lobste.rs/s/b6viwy/semimak_layout_2021) - [The Semimak layout (2021)](https://semilin.github.io/blog/2021/semimak.html)
 * [2024-10-09, 14:49:44](https://lobste.rs/s/b7txd0/brew_perfect_coffee_right_from_your) - [Brew Perfect Coffee Right from Your Terminal](https://github.com/sepandhaghighi/mycoffee)
@@ -9,10 +11,8 @@
 * [2024-10-09, 12:05:51](https://lobste.rs/s/qiqsbv/gcc_15_un_deprecates_itanium_ia_64_linux) - [GCC 15 un-deprecates Itanium IA-64 Linux support](https://www.phoronix.com/news/GCC-15-Undeprecates-Itanium)
 * [2024-10-09, 11:59:19](https://lobste.rs/s/dvy5nb/5_years_later_first_win) - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
 * [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
-* [2024-10-09, 10:18:34](https://lobste.rs/s/1xo1kd/accumulated_test_vectors) - [Accumulated Test Vectors](https://words.filippo.io/dispatches/accumulated/)
 * [2024-10-09, 10:09:39](https://lobste.rs/s/9bpceq/performance_measurements_ipc_rust) - [Performance measurements of IPC in Rust](https://pranitha.rs/posts/rust-ipc-ping-pong/)
 * [2024-10-09, 09:01:55](https://lobste.rs/s/sqkesx/jazz_open_source_framework_for_building) - [Jazz - open-source framework for building local-first apps](https://jazz.tools/)
-* [2024-10-09, 08:27:40](https://lobste.rs/s/w2r089/test_by_a11y_write_tests_for_uis_through) - [test-by-a11y: Write tests for UIs through the accessibility interface](https://github.com/lilopkins/test-by-a11y)
 * [2024-10-09, 02:05:07](https://lobste.rs/s/qpxmar/building_real_time_global_illumination) - [Building Real-Time Global Illumination](https://jason.today/gi)
 * [2024-10-08, 22:40:25](https://lobste.rs/s/lfmgf1/disappearance_internet_domain) - [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 * [2024-10-08, 21:58:53](https://lobste.rs/s/fb7i7k/modest_critique_htmx) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
