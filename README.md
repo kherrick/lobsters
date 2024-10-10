@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 06:19:20](https://lobste.rs/s/bwm94r/os_2_tcpbeui_netbios_over_tcp_ip_name) - [OS/2 TCPBEUI (NetBIOS over TCP/IP) name resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
 * [2024-10-09, 22:37:49](https://lobste.rs/s/eezp91/why_gov_uk_s_exit_this_page_component_doesn) - [Why GOV.UK's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 21:40:39](https://lobste.rs/s/oxf6bx/building_text_uis_rust_interview) - [Building Text UIs in Rust (Interview)](https://www.youtube.com/watch?v=CNVmIocyDOQ)
 * [2024-10-09, 19:17:34](https://lobste.rs/s/3hghjo/structures_as_paths) - [structures as paths](https://explaining.software/archive/structures-as-paths/)
@@ -16,7 +17,6 @@
 * [2024-10-09, 11:59:19](https://lobste.rs/s/dvy5nb/5_years_later_first_win) - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
 * [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-09, 10:09:39](https://lobste.rs/s/9bpceq/performance_measurements_ipc_rust) - [Performance measurements of IPC in Rust](https://pranitha.rs/posts/rust-ipc-ping-pong/)
-* [2024-10-09, 09:01:55](https://lobste.rs/s/sqkesx/jazz_open_source_framework_for_building) - [Jazz - open-source framework for building local-first apps](https://jazz.tools/)
 * [2024-10-09, 02:05:07](https://lobste.rs/s/qpxmar/building_real_time_global_illumination) - [Building Real-Time Global Illumination](https://jason.today/gi)
 * [2024-10-08, 22:40:25](https://lobste.rs/s/lfmgf1/disappearance_internet_domain) - [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 * [2024-10-08, 21:58:53](https://lobste.rs/s/fb7i7k/modest_critique_htmx) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)

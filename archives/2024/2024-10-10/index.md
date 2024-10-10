@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-10](index.md)
+
+* [2024-10-10, 06:19:20](https://lobste.rs/s/bwm94r/os_2_tcpbeui_netbios_over_tcp_ip_name) - [OS/2 TCPBEUI (NetBIOS over TCP/IP) name resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
