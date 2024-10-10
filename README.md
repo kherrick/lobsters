@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 19:11:35](https://lobste.rs/s/50mutp/value_source_code) - [The Value of Source Code](https://www.youtube.com/watch?v=Y6ZHV0RH0fQ)
 * [2024-10-10, 19:02:52](https://lobste.rs/s/cliim8/testing_msvc_compiler_backend) - [Testing the MSVC Compiler Backend](https://devblogs.microsoft.com/cppblog/testing-the-msvc-compiler-backend/)
 * [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
 * [2024-10-10, 18:07:13](https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996) - [A modest proposal: C++ resyntaxed (1996)](https://dl.acm.org/doi/10.1145/240964.240981)
@@ -11,7 +12,6 @@
 * [2024-10-10, 14:08:27](https://lobste.rs/s/90iam3/aaa_gaming_on_asahi_linux) - [AAA gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
 * [2024-10-10, 13:28:25](https://lobste.rs/s/ajgc48/thunderbird_android_client_is_k_9_mail) - [Thunderbird Android client is K-9 Mail reborn, and it’s in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 * [2024-10-10, 12:58:00](https://lobste.rs/s/dy5v7z/ultimate_guide_error_handling_python) - [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
-* [2024-10-10, 12:44:40](https://lobste.rs/s/ycnqvu/wikimedia_toolforge_migrating) - [Wikimedia Toolforge: migrating Kubernetes from PodSecurityPolicy to Kyverno](https://techblog.wikimedia.org/2024/07/03/wikimedia-toolforge-migrating-kubernetes-from-podsecuritypolicy-to-kyverno/)
 * [2024-10-10, 11:46:43](https://lobste.rs/s/wkprwj/first_report_on_pre_scheme_restoration) - [First report on the Pre-Scheme Restoration](https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html)
 * [2024-10-10, 09:04:51](https://lobste.rs/s/exwuah/mozilla_fixes_firefox_zero_day_actively) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 * [2024-10-10, 06:43:57](https://lobste.rs/s/jlbqui/announcing_typescript_5_7_beta) - [Announcing TypeScript 5.7 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/)
