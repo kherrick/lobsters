@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-10, 18:47:53",
+      "https://lobste.rs/s/f0qyt3/three_kinds_unwrap"
+    ],
+    [
+      "Three Kinds Of Unwrap",
+      "https://zkrising.com/writing/three-unwraps/"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 18:07:13",
       "https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996"
     ],
@@ -36,7 +46,7 @@
     ],
     [
       "Custom Dictionary Types in Pydantic",
-      "https://bryananthonio.com/blog/pydantic-custom-dictionary-types/https://bryananthonio.com/blog/pydantic-custom-dictionary-types/"
+      "https://bryananthonio.com/blog/pydantic-custom-dictionary-types"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "OOP is not that bad, actually",
       "https://osa1.net/posts/2024-10-09-oop-good.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 02:05:07",
-      "https://lobste.rs/s/qpxmar/building_real_time_global_illumination"
-    ],
-    [
-      "Building Real-Time Global Illumination",
-      "https://jason.today/gi"
     ]
   ]
 ]
