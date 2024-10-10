@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 14:08:27](https://lobste.rs/s/90iam3/aaa_gaming_on_asahi_linux) - [AAA gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
 * [2024-10-10, 13:28:25](https://lobste.rs/s/ajgc48/thunderbird_android_client_is_k_9_mail) - [Thunderbird Android client is K-9 Mail reborn, and it’s in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 * [2024-10-10, 12:58:00](https://lobste.rs/s/dy5v7z/ultimate_guide_error_handling_python) - [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
 * [2024-10-10, 12:44:40](https://lobste.rs/s/ycnqvu/wikimedia_toolforge_migrating) - [Wikimedia Toolforge: migrating Kubernetes from PodSecurityPolicy to Kyverno](https://techblog.wikimedia.org/2024/07/03/wikimedia-toolforge-migrating-kubernetes-from-podsecuritypolicy-to-kyverno/)
