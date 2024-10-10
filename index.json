@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-10, 18:23:20",
+      "https://lobste.rs/s/c2kyev/async_await_is_worst_thing_happen"
+    ],
+    [
+      "Async Await Is The Worst Thing To Happen To Programming",
+      "https://medium.com/@impure/async-await-is-the-worst-thing-to-happen-to-programming-9b8f5150ba74"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 18:07:13",
+      "https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996"
+    ],
+    [
+      "A modest proposal: C++ resyntaxed (1996)",
+      "https://dl.acm.org/doi/10.1145/240964.240981"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 17:16:29",
       "https://lobste.rs/s/jkmico/computer_organization_e_textbook"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-10-10, 12:58:00",
-      "https://lobste.rs/s/dy5v7z/ultimate_guide_error_handling_python"
-    ],
-    [
-      "The Ultimate Guide to Error Handling in Python",
-      "https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python"
-    ]
-  ],
-  [
-    [
       "2024-10-10, 12:44:40",
       "https://lobste.rs/s/ycnqvu/wikimedia_toolforge_migrating"
     ],
@@ -107,16 +117,6 @@
     [
       "Mozilla fixes Firefox zero-day actively exploited in attacks",
       "https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 09:00:11",
-      "https://lobste.rs/s/dgimxo/error_handling_correctness_critical"
-    ],
-    [
-      "Error Handling in a Correctness-Critical Rust Project (2020)",
-      "http://sled.rs/errors.html"
     ]
   ],
   [
