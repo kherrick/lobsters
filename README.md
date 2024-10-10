@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 16:05:39](https://lobste.rs/s/j0pp6o/coding_without_braces_alternate_c_syntax) - [Coding without braces: An alternate C Syntax](https://www.deusinmachina.net/p/coding-without-braces-an-alternate)
 * [2024-10-10, 15:28:27](https://lobste.rs/s/4dxdnn/custom_dictionary_types_pydantic) - [Custom Dictionary Types in Pydantic](https://bryananthonio.com/blog/pydantic-custom-dictionary-types/https://bryananthonio.com/blog/pydantic-custom-dictionary-types/)
 * [2024-10-10, 15:03:38](https://lobste.rs/s/e1gujd/rfc_9635_grant_negotiation) - [RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)](https://www.rfc-editor.org/rfc/rfc9635)
 * [2024-10-10, 14:59:50](https://lobste.rs/s/ymfskb/ubuntu_oracular_oriole_release_notes) - [Ubuntu - Oracular Oriole Release Notes](https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878)
@@ -21,7 +22,6 @@
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
 * [2024-10-09, 14:49:44](https://lobste.rs/s/b7txd0/brew_perfect_coffee_right_from_your) - [Brew Perfect Coffee Right from Your Terminal](https://github.com/sepandhaghighi/mycoffee)
 * [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
-* [2024-10-09, 12:05:51](https://lobste.rs/s/qiqsbv/gcc_15_un_deprecates_itanium_ia_64_linux) - [GCC 15 un-deprecates Itanium IA-64 Linux support](https://www.phoronix.com/news/GCC-15-Undeprecates-Itanium)
 * [2024-10-09, 11:59:19](https://lobste.rs/s/dvy5nb/5_years_later_first_win) - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
 * [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-09, 02:05:07](https://lobste.rs/s/qpxmar/building_real_time_global_illumination) - [Building Real-Time Global Illumination](https://jason.today/gi)
