@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-10, 19:44:44",
+      "https://lobste.rs/s/gcukpk/why_you_shouldn_t_forget_optimize_data"
+    ],
+    [
+      "Why You Shouldn't Forget to Optimize the Data Layout",
+      "https://cedardb.com/blog/optimizing_data_layouts/"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 19:36:36",
       "https://lobste.rs/s/iputtg/rama_on_clojure_s_terms_magic"
     ],
@@ -27,16 +37,6 @@
     [
       "Testing the MSVC Compiler Backend",
       "https://devblogs.microsoft.com/cppblog/testing-the-msvc-compiler-backend/"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 18:47:53",
-      "https://lobste.rs/s/f0qyt3/three_kinds_unwrap"
-    ],
-    [
-      "Three Kinds Of Unwrap",
-      "https://zkrising.com/writing/three-unwraps/"
     ]
   ],
   [
