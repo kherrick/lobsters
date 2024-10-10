@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 20:07:24](https://lobste.rs/s/y12hdo/it_s_not_easy_being_green_on_energy) - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460)
 * [2024-10-10, 19:44:44](https://lobste.rs/s/gcukpk/why_you_shouldn_t_forget_optimize_data) - [Why You Shouldn't Forget to Optimize the Data Layout](https://cedardb.com/blog/optimizing_data_layouts/)
 * [2024-10-10, 19:36:36](https://lobste.rs/s/iputtg/rama_on_clojure_s_terms_magic) - [Rama on Clojure’s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
 * [2024-10-10, 19:11:35](https://lobste.rs/s/50mutp/value_source_code) - [The Value of Source Code](https://www.youtube.com/watch?v=Y6ZHV0RH0fQ)
@@ -24,7 +25,6 @@
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
 * [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
-* [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 
 ## [Archives](archives/index.md)
 
