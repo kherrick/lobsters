@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 15:03:38](https://lobste.rs/s/e1gujd/rfc_9635_grant_negotiation) - [RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)](https://www.rfc-editor.org/rfc/rfc9635)
+* [2024-10-10, 14:59:50](https://lobste.rs/s/ymfskb/ubuntu_oracular_oriole_release_notes) - [Ubuntu - Oracular Oriole Release Notes](https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878)
 * [2024-10-10, 14:08:27](https://lobste.rs/s/90iam3/aaa_gaming_on_asahi_linux) - [AAA gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
 * [2024-10-10, 13:28:25](https://lobste.rs/s/ajgc48/thunderbird_android_client_is_k_9_mail) - [Thunderbird Android client is K-9 Mail reborn, and it’s in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 * [2024-10-10, 12:58:00](https://lobste.rs/s/dy5v7z/ultimate_guide_error_handling_python) - [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
@@ -18,13 +20,11 @@
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
 * [2024-10-09, 14:49:44](https://lobste.rs/s/b7txd0/brew_perfect_coffee_right_from_your) - [Brew Perfect Coffee Right from Your Terminal](https://github.com/sepandhaghighi/mycoffee)
-* [2024-10-09, 13:48:22](https://lobste.rs/s/b4x3g8/how_search_anything) - [How to Search Anything](https://montyanderson.net/writing/search)
 * [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
 * [2024-10-09, 12:05:51](https://lobste.rs/s/qiqsbv/gcc_15_un_deprecates_itanium_ia_64_linux) - [GCC 15 un-deprecates Itanium IA-64 Linux support](https://www.phoronix.com/news/GCC-15-Undeprecates-Itanium)
 * [2024-10-09, 11:59:19](https://lobste.rs/s/dvy5nb/5_years_later_first_win) - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
 * [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-09, 02:05:07](https://lobste.rs/s/qpxmar/building_real_time_global_illumination) - [Building Real-Time Global Illumination](https://jason.today/gi)
-* [2024-10-08, 21:58:53](https://lobste.rs/s/fb7i7k/modest_critique_htmx) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 
 ## [Archives](archives/index.md)
 

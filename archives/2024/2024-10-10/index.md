@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 15:03:38](https://lobste.rs/s/e1gujd/rfc_9635_grant_negotiation) - [RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)](https://www.rfc-editor.org/rfc/rfc9635)
+* [2024-10-10, 14:59:50](https://lobste.rs/s/ymfskb/ubuntu_oracular_oriole_release_notes) - [Ubuntu - Oracular Oriole Release Notes](https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878)
 * [2024-10-10, 14:08:27](https://lobste.rs/s/90iam3/aaa_gaming_on_asahi_linux) - [AAA gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
 * [2024-10-10, 13:28:25](https://lobste.rs/s/ajgc48/thunderbird_android_client_is_k_9_mail) - [Thunderbird Android client is K-9 Mail reborn, and it’s in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
 * [2024-10-10, 12:58:00](https://lobste.rs/s/dy5v7z/ultimate_guide_error_handling_python) - [The Ultimate Guide to Error Handling in Python](https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python)
