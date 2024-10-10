@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 17:16:29](https://lobste.rs/s/jkmico/computer_organization_e_textbook) - [Computer Organization E-Textbook](https://marz.utk.edu/my-courses/cosc230/book/)
 * [2024-10-10, 16:05:39](https://lobste.rs/s/j0pp6o/coding_without_braces_alternate_c_syntax) - [Coding without braces: An alternate C Syntax](https://www.deusinmachina.net/p/coding-without-braces-an-alternate)
 * [2024-10-10, 15:28:27](https://lobste.rs/s/4dxdnn/custom_dictionary_types_pydantic) - [Custom Dictionary Types in Pydantic](https://bryananthonio.com/blog/pydantic-custom-dictionary-types/https://bryananthonio.com/blog/pydantic-custom-dictionary-types/)
 * [2024-10-10, 15:03:38](https://lobste.rs/s/e1gujd/rfc_9635_grant_negotiation) - [RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)](https://www.rfc-editor.org/rfc/rfc9635)
@@ -20,7 +21,6 @@
 * [2024-10-09, 17:34:04](https://lobste.rs/s/ghywr0/two_workflow_tips) - [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
-* [2024-10-09, 14:49:44](https://lobste.rs/s/b7txd0/brew_perfect_coffee_right_from_your) - [Brew Perfect Coffee Right from Your Terminal](https://github.com/sepandhaghighi/mycoffee)
 * [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
 * [2024-10-09, 11:59:19](https://lobste.rs/s/dvy5nb/5_years_later_first_win) - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
 * [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
