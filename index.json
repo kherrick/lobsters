@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-10, 12:58:00",
+      "https://lobste.rs/s/dy5v7z/ultimate_guide_error_handling_python"
+    ],
+    [
+      "The Ultimate Guide to Error Handling in Python",
+      "https://blog.miguelgrinberg.com/post/the-ultimate-guide-to-error-handling-in-python"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 12:44:40",
+      "https://lobste.rs/s/ycnqvu/wikimedia_toolforge_migrating"
+    ],
+    [
+      "Wikimedia Toolforge: migrating Kubernetes from PodSecurityPolicy to Kyverno",
+      "https://techblog.wikimedia.org/2024/07/03/wikimedia-toolforge-migrating-kubernetes-from-podsecuritypolicy-to-kyverno/"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 11:46:43",
       "https://lobste.rs/s/wkprwj/first_report_on_pre_scheme_restoration"
     ],
@@ -227,26 +247,6 @@
     [
       "Modern PATH environment variable",
       "https://blog.izissise.net/posts/env-path/"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 18:57:39",
-      "https://lobste.rs/s/mea1xq/apple_passwords_generated_strong"
-    ],
-    [
-      "Apple Passwords’ Generated Strong Password Format",
-      "https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/"
-    ]
-  ],
-  [
-    [
-      "2024-10-08, 12:43:31",
-      "https://lobste.rs/s/mpulkt/why_i_like_tcl"
-    ],
-    [
-      "Why I like Tcl",
-      "https://world-playground-deceit.net/blog/2024/why_tcl.html"
     ]
   ]
 ]
