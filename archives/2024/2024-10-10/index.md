@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
 * [2024-10-10, 18:23:20](https://lobste.rs/s/c2kyev/async_await_is_worst_thing_happen) - [Async Await Is The Worst Thing To Happen To Programming](https://medium.com/@impure/async-await-is-the-worst-thing-to-happen-to-programming-9b8f5150ba74)
 * [2024-10-10, 18:07:13](https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996) - [A modest proposal: C++ resyntaxed (1996)](https://dl.acm.org/doi/10.1145/240964.240981)
 * [2024-10-10, 17:16:29](https://lobste.rs/s/jkmico/computer_organization_e_textbook) - [Computer Organization E-Textbook](https://marz.utk.edu/my-courses/cosc230/book/)
 * [2024-10-10, 16:05:39](https://lobste.rs/s/j0pp6o/coding_without_braces_alternate_c_syntax) - [Coding without braces: An alternate C Syntax](https://www.deusinmachina.net/p/coding-without-braces-an-alternate)
 * [2024-10-10, 15:28:27](https://lobste.rs/s/4dxdnn/custom_dictionary_types_pydantic) - [Custom Dictionary Types in Pydantic](https://bryananthonio.com/blog/pydantic-custom-dictionary-types/https://bryananthonio.com/blog/pydantic-custom-dictionary-types/)
+* [2024-10-10, 15:28:27](https://lobste.rs/s/4dxdnn/custom_dictionary_types_pydantic) - [Custom Dictionary Types in Pydantic](https://bryananthonio.com/blog/pydantic-custom-dictionary-types)
 * [2024-10-10, 15:03:38](https://lobste.rs/s/e1gujd/rfc_9635_grant_negotiation) - [RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)](https://www.rfc-editor.org/rfc/rfc9635)
 * [2024-10-10, 14:59:50](https://lobste.rs/s/ymfskb/ubuntu_oracular_oriole_release_notes) - [Ubuntu - Oracular Oriole Release Notes](https://discourse.ubuntu.com/t/oracular-oriole-release-notes/44878)
 * [2024-10-10, 14:08:27](https://lobste.rs/s/90iam3/aaa_gaming_on_asahi_linux) - [AAA gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
