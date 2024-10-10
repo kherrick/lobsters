@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 18:23:20](https://lobste.rs/s/c2kyev/async_await_is_worst_thing_happen) - [Async Await Is The Worst Thing To Happen To Programming](https://medium.com/@impure/async-await-is-the-worst-thing-to-happen-to-programming-9b8f5150ba74)
+* [2024-10-10, 18:07:13](https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996) - [A modest proposal: C++ resyntaxed (1996)](https://dl.acm.org/doi/10.1145/240964.240981)
 * [2024-10-10, 17:16:29](https://lobste.rs/s/jkmico/computer_organization_e_textbook) - [Computer Organization E-Textbook](https://marz.utk.edu/my-courses/cosc230/book/)
 * [2024-10-10, 16:05:39](https://lobste.rs/s/j0pp6o/coding_without_braces_alternate_c_syntax) - [Coding without braces: An alternate C Syntax](https://www.deusinmachina.net/p/coding-without-braces-an-alternate)
 * [2024-10-10, 15:28:27](https://lobste.rs/s/4dxdnn/custom_dictionary_types_pydantic) - [Custom Dictionary Types in Pydantic](https://bryananthonio.com/blog/pydantic-custom-dictionary-types/https://bryananthonio.com/blog/pydantic-custom-dictionary-types/)
