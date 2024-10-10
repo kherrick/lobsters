@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 23:19:01](https://lobste.rs/s/xhgq4t/computational_protein_design) - [Computational Protein Design](https://www.science.org/content/blog-post/2024-chemistry-nobel-computational-protein-design)
+* [2024-10-10, 23:16:32](https://lobste.rs/s/brz7tg/running_wolfssl_curl_on_windows_2000) - [Running WolfSSL and cURL on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
 * [2024-10-10, 22:01:28](https://lobste.rs/s/it3p5r/designing_fast_concurrent_hash_table) - [Designing A Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
 * [2024-10-10, 21:03:09](https://lobste.rs/s/cmld3d/html_for_people) - [HTML for People](https://www.htmlforpeople.com)
 * [2024-10-10, 20:07:24](https://lobste.rs/s/y12hdo/it_s_not_easy_being_green_on_energy) - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460)
