@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 19:02:52](https://lobste.rs/s/cliim8/testing_msvc_compiler_backend) - [Testing the MSVC Compiler Backend](https://devblogs.microsoft.com/cppblog/testing-the-msvc-compiler-backend/)
 * [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
 * [2024-10-10, 18:07:13](https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996) - [A modest proposal: C++ resyntaxed (1996)](https://dl.acm.org/doi/10.1145/240964.240981)
 * [2024-10-10, 17:16:29](https://lobste.rs/s/jkmico/computer_organization_e_textbook) - [Computer Organization E-Textbook](https://marz.utk.edu/my-courses/cosc230/book/)
@@ -23,7 +24,6 @@
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
 * [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
-* [2024-10-09, 11:59:19](https://lobste.rs/s/dvy5nb/5_years_later_first_win) - [5 Years Later: The First Win](https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay)
 * [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 
 ## [Archives](archives/index.md)

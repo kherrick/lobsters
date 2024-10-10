@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 19:02:52](https://lobste.rs/s/cliim8/testing_msvc_compiler_backend) - [Testing the MSVC Compiler Backend](https://devblogs.microsoft.com/cppblog/testing-the-msvc-compiler-backend/)
 * [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
 * [2024-10-10, 18:23:20](https://lobste.rs/s/c2kyev/async_await_is_worst_thing_happen) - [Async Await Is The Worst Thing To Happen To Programming](https://medium.com/@impure/async-await-is-the-worst-thing-to-happen-to-programming-9b8f5150ba74)
 * [2024-10-10, 18:07:13](https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996) - [A modest proposal: C++ resyntaxed (1996)](https://dl.acm.org/doi/10.1145/240964.240981)
