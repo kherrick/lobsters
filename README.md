@@ -19,7 +19,7 @@
 * [2024-10-10, 09:04:51](https://lobste.rs/s/exwuah/mozilla_fixes_firefox_zero_day_actively) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 * [2024-10-09, 22:37:49](https://lobste.rs/s/eezp91/why_gov_uk_s_exit_this_page_component_doesn) - [Why GOV.UK's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 21:40:39](https://lobste.rs/s/oxf6bx/building_text_uis_rust_interview) - [Building Text UIs in Rust (Interview)](https://www.youtube.com/watch?v=CNVmIocyDOQ)
-* [2024-10-09, 19:01:27](https://lobste.rs/s/ccgxtf/my_negative_views_on_rust) - [My negative views on Rust](https://chrisdone.com/posts/rust/)
+* [2024-10-09, 19:01:27](https://lobste.rs/s/ccgxtf/my_negative_views_on_rust_2021) - [My negative views on Rust (2021)](https://chrisdone.com/posts/rust/)
 * [2024-10-09, 18:00:05](https://lobste.rs/s/sqaxfx/proposed_roadmap_for_introducing_cheri) - [Proposed roadmap for introducing CHERI into Android](https://infosec.exchange/@david_chisnall/113277021212365322)
 * [2024-10-09, 17:34:04](https://lobste.rs/s/ghywr0/two_workflow_tips) - [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
