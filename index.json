@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-10, 23:19:01",
+      "https://lobste.rs/s/xhgq4t/computational_protein_design"
+    ],
+    [
+      "Computational Protein Design",
+      "https://www.science.org/content/blog-post/2024-chemistry-nobel-computational-protein-design"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 23:16:32",
+      "https://lobste.rs/s/brz7tg/running_wolfssl_curl_on_windows_2000"
+    ],
+    [
+      "Running WolfSSL and cURL on Windows 2000",
+      "http://datagirl.xyz/posts/wolfssl_curl_w2k.html"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 22:01:28",
       "https://lobste.rs/s/it3p5r/designing_fast_concurrent_hash_table"
     ],
@@ -77,16 +97,6 @@
     [
       "A modest proposal: C++ resyntaxed (1996)",
       "https://dl.acm.org/doi/10.1145/240964.240981"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 17:16:29",
-      "https://lobste.rs/s/jkmico/computer_organization_e_textbook"
-    ],
-    [
-      "Computer Organization E-Textbook",
-      "https://marz.utk.edu/my-courses/cosc230/book/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Why GOV.UK's Exit this Page component doesn't use the Escape key",
       "https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 21:40:39",
-      "https://lobste.rs/s/oxf6bx/building_text_uis_rust_interview"
-    ],
-    [
-      "Building Text UIs in Rust (Interview)",
-      "https://www.youtube.com/watch?v=CNVmIocyDOQ"
     ]
   ],
   [
