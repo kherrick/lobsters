@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-10, 19:02:52",
+      "https://lobste.rs/s/cliim8/testing_msvc_compiler_backend"
+    ],
+    [
+      "Testing the MSVC Compiler Backend",
+      "https://devblogs.microsoft.com/cppblog/testing-the-msvc-compiler-backend/"
+    ]
+  ],
+  [
+    [
       "2024-10-10, 18:47:53",
       "https://lobste.rs/s/f0qyt3/three_kinds_unwrap"
     ],
@@ -227,16 +237,6 @@
     [
       "pipe: authenticated pubsub over ssh",
       "https://pipe.pico.sh"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 11:59:19",
-      "https://lobste.rs/s/dvy5nb/5_years_later_first_win"
-    ],
-    [
-      "5 Years Later: The First Win",
-      "https://thephd.dev/5-years-later-the-first-big-unicode-win-omg-yay"
     ]
   ],
   [
