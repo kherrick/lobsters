@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-10, 06:19:20",
+      "https://lobste.rs/s/bwm94r/os_2_tcpbeui_netbios_over_tcp_ip_name"
+    ],
+    [
+      "OS/2 TCPBEUI (NetBIOS over TCP/IP) name resolution",
+      "https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/"
+    ]
+  ],
+  [
+    [
       "2024-10-09, 22:37:49",
       "https://lobste.rs/s/eezp91/why_gov_uk_s_exit_this_page_component_doesn"
     ],
@@ -157,16 +167,6 @@
     [
       "Performance measurements of IPC in Rust",
       "https://pranitha.rs/posts/rust-ipc-ping-pong/"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 09:01:55",
-      "https://lobste.rs/s/sqkesx/jazz_open_source_framework_for_building"
-    ],
-    [
-      "Jazz - open-source framework for building local-first apps",
-      "https://jazz.tools/"
     ]
   ],
   [
