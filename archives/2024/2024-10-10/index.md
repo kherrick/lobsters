@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-10-10](index.md)
 
+* [2024-10-10, 06:43:57](https://lobste.rs/s/jlbqui/announcing_typescript_5_7_beta) - [Announcing TypeScript 5.7 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/)
 * [2024-10-10, 06:19:20](https://lobste.rs/s/bwm94r/os_2_tcpbeui_netbios_over_tcp_ip_name) - [OS/2 TCPBEUI (NetBIOS over TCP/IP) name resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
