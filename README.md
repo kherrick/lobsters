@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 09:04:51](https://lobste.rs/s/exwuah/mozilla_fixes_firefox_zero_day_actively) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
+* [2024-10-10, 09:00:11](https://lobste.rs/s/dgimxo/error_handling_correctness_critical) - [Error Handling in a Correctness-Critical Rust Project (2020)](http://sled.rs/errors.html)
 * [2024-10-10, 06:43:57](https://lobste.rs/s/jlbqui/announcing_typescript_5_7_beta) - [Announcing TypeScript 5.7 Beta](https://devblogs.microsoft.com/typescript/announcing-typescript-5-7-beta/)
 * [2024-10-10, 06:19:20](https://lobste.rs/s/bwm94r/os_2_tcpbeui_netbios_over_tcp_ip_name) - [OS/2 TCPBEUI (NetBIOS over TCP/IP) name resolution](https://www.os2museum.com/wp/os-2-tcpbeui-name-resolution/)
 * [2024-10-09, 22:37:49](https://lobste.rs/s/eezp91/why_gov_uk_s_exit_this_page_component_doesn) - [Why GOV.UK's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
@@ -19,12 +21,10 @@
 * [2024-10-09, 11:48:13](https://lobste.rs/s/mxlsap/oop_is_not_bad_actually) - [OOP is not that bad, actually](https://osa1.net/posts/2024-10-09-oop-good.html)
 * [2024-10-09, 10:09:39](https://lobste.rs/s/9bpceq/performance_measurements_ipc_rust) - [Performance measurements of IPC in Rust](https://pranitha.rs/posts/rust-ipc-ping-pong/)
 * [2024-10-09, 02:05:07](https://lobste.rs/s/qpxmar/building_real_time_global_illumination) - [Building Real-Time Global Illumination](https://jason.today/gi)
-* [2024-10-08, 22:40:25](https://lobste.rs/s/lfmgf1/disappearance_internet_domain) - [The Disappearance of an Internet Domain](https://every.to/p/the-disappearance-of-an-internet-domain)
 * [2024-10-08, 21:58:53](https://lobste.rs/s/fb7i7k/modest_critique_htmx) - [A modest critique of Htmx](https://chrisdone.com/posts/htmx-critique/)
 * [2024-10-08, 20:22:32](https://lobste.rs/s/6ntl4g/modern_path_environment_variable) - [Modern PATH environment variable](https://blog.izissise.net/posts/env-path/)
 * [2024-10-08, 18:57:39](https://lobste.rs/s/mea1xq/apple_passwords_generated_strong) - [Apple Passwords’ Generated Strong Password Format](https://rmondello.com/2024/10/07/apple-passwords-generated-strong-password-format/)
 * [2024-10-08, 12:43:31](https://lobste.rs/s/mpulkt/why_i_like_tcl) - [Why I like Tcl](https://world-playground-deceit.net/blog/2024/why_tcl.html)
-* [2024-10-08, 10:17:33](https://lobste.rs/s/3ktpj4/engineers_are_not_fans_technologies) - [Engineers are not fans of technologies](https://jerf.org/iri/post/2024/not_about_python/)
 
 ## [Archives](archives/index.md)
 
