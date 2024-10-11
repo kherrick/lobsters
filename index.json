@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-10-11, 20:03:36",
-      "https://lobste.rs/s/i5yyks/writing_worst_datalog_ever_26loc"
-    ],
-    [
-      "Writing the Worst Datalog Ever in 26loc",
-      "https://buttondown.com/tensegritics-curiosities/archive/writing-the-worst-datalog-ever-in-26loc/"
-    ]
-  ],
-  [
-    [
       "2024-10-11, 19:57:40",
       "https://lobste.rs/s/kxkjgk/request_for_developer_feedback"
     ],
@@ -187,6 +177,16 @@
     [
       "Akin's Laws of Spacecraft Design",
       "https://spacecraft.ssl.umd.edu/old_site/academics/akins_laws.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 22:01:28",
+      "https://lobste.rs/s/it3p5r/designing_fast_concurrent_hash_table"
+    ],
+    [
+      "Designing A Fast Concurrent Hash Table",
+      "https://ibraheem.ca/posts/designing-papaya/"
     ]
   ],
   [
