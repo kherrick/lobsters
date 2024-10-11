@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-11, 17:12:19](https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style) - [Tutorial on Good Lisp Programming Style](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
+* [2024-10-11, 17:12:19](https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style) - [Tutorial on Good Lisp Programming Style (1993)](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 * [2024-10-11, 16:14:14](https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp) - [uLisp - A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 * [2024-10-11, 15:58:50](https://lobste.rs/s/ym71rn/overload_journal_183_october_2024) - [Overload Journal 183 - October 2024](https://accu.org/journals/overload/overload183)
 * [2024-10-11, 14:07:23](https://lobste.rs/s/wd5eab/what_is_sync) - [What is Sync?](https://stack.convex.dev/sync)
