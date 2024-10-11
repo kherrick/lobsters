@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-10-11, 03:36:22",
+      "https://lobste.rs/s/vj50qc/japanese_font_support"
+    ],
+    [
+      "Japanese Font Support",
+      "https://blog.brianna.town/japanese-font-support"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 03:14:22",
       "https://lobste.rs/s/dq1bgh/implementing_raft_part_4_key_value"
     ],
@@ -137,16 +147,6 @@
     [
       "Why You Shouldn't Forget to Optimize the Data Layout",
       "https://cedardb.com/blog/optimizing_data_layouts/"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 19:36:36",
-      "https://lobste.rs/s/iputtg/rama_on_clojure_s_terms_magic"
-    ],
-    [
-      "Rama on Clojure’s terms, and the magic of continuation-passing style",
-      "https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/"
     ]
   ],
   [
