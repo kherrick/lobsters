@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
 * [2024-10-11, 06:14:12](https://lobste.rs/s/s5qipm/using_chrome_s_accessibility_apis_find) - [Using Chrome's accessibility APIs to find security bugs](https://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html)
-* [2024-10-11, 03:36:22](https://lobste.rs/s/vj50qc/japanese_font_support) - [Japanese Font Support](https://blog.brianna.town/japanese-font-support)
 * [2024-10-11, 02:02:46](https://lobste.rs/s/bwgrys/science_functional_programming) - [The Science of Functional Programming](https://github.com/winitzki/sofp)
 * [2024-10-10, 23:59:19](https://lobste.rs/s/xnu9xc/transforming_colors_with_matrices) - [Transforming colors with matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [2024-10-10, 23:28:41](https://lobste.rs/s/lqshly/akin_s_laws_spacecraft_design) - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/old_site/academics/akins_laws.html)
