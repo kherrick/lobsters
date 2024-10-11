@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 18:46:03](https://lobste.rs/s/1kfgpg/burning_zero_days_suspected_nation_state) - [Burning Zero Days: Suspected Nation-State Adversary Targets Ivanti CSA](https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa)
 * [2024-10-11, 18:30:31](https://lobste.rs/s/p7b69m/gunnar_wolf_started_guide_writing_fuse) - [Gunnar Wolf• Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 17:46:51](https://lobste.rs/s/p5ctl7/we_re_all_just_looking_for_connection) - [We’re All Just Looking for Connection](https://slack.engineering/were-all-just-looking-for-connection/)
 * [2024-10-11, 17:41:06](https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192) - [AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
@@ -7,7 +8,6 @@
 * [2024-10-11, 16:14:14](https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp) - [uLisp - A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
 * [2024-10-11, 14:07:23](https://lobste.rs/s/wd5eab/what_is_sync) - [What is Sync?](https://stack.convex.dev/sync)
 * [2024-10-11, 13:51:13](https://lobste.rs/s/q1xmue/copenhagen_book_general_guideline_on) - [The Copenhagen Book: General Guideline on Implementing Auth in Web Applications](https://thecopenhagenbook.com/)
-* [2024-10-11, 12:57:39](https://lobste.rs/s/fcyn33/cyber_resilience_act_council_adopts_new) - [Cyber resilience act: Council adopts new law on security requirements for digital products](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/cyber-resilience-act-council-adopts-new-law-on-security-requirements-for-digital-products/)
 * [2024-10-11, 11:50:08](https://lobste.rs/s/fl57a9/interneting_is_hard) - [Interneting Is Hard](https://internetingishard.netlify.app)
 * [2024-10-11, 10:42:02](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend)
 * [2024-10-11, 10:17:03](https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)

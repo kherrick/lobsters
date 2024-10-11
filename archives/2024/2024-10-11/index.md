@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 18:46:03](https://lobste.rs/s/1kfgpg/burning_zero_days_suspected_nation_state) - [Burning Zero Days: Suspected Nation-State Adversary Targets Ivanti CSA](https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa)
 * [2024-10-11, 18:30:31](https://lobste.rs/s/p7b69m/gunnar_wolf_started_guide_writing_fuse) - [Gunnar Wolf• Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 17:46:51](https://lobste.rs/s/p5ctl7/we_re_all_just_looking_for_connection) - [We’re All Just Looking for Connection](https://slack.engineering/were-all-just-looking-for-connection/)
 * [2024-10-11, 17:41:06](https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192) - [AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
