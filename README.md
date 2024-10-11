@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 21:28:30](https://lobste.rs/s/muormf/perks_being_python_core_developer) - [Perks of Being a Python Core Developer](https://mariatta.ca/posts/perks-of-python-core/)
 * [2024-10-11, 20:45:07](https://lobste.rs/s/ph3fhg/ffi_type_mismatches_rust_for_linux) - [FFI type mismatches in Rust for Linux](https://lwn.net/SubscriberLink/993163/91519b806455b8ec/)
 * [2024-10-11, 20:03:36](https://lobste.rs/s/i5yyks/writing_worst_datalog_ever_26loc) - [Writing the Worst Datalog Ever in 26loc](https://buttondown.com/tensegritics-curiosities/archive/writing-the-worst-datalog-ever-in-26loc/)
 * [2024-10-11, 19:57:40](https://lobste.rs/s/kxkjgk/request_for_developer_feedback) - [Request for developer feedback: customizable select](https://developer.chrome.com/blog/rfc-customizable-select)
@@ -13,7 +14,6 @@
 * [2024-10-11, 11:50:08](https://lobste.rs/s/fl57a9/interneting_is_hard) - [Interneting Is Hard](https://internetingishard.netlify.app)
 * [2024-10-11, 10:42:02](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend)
 * [2024-10-11, 10:17:03](https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
-* [2024-10-11, 09:31:50](https://lobste.rs/s/8w2cit/linearizability_distributed_systems) - [Linearizability in distributed systems](https://eli.thegreenplace.net/2024/linearizability-in-distributed-systems/)
 * [2024-10-11, 09:07:09](https://lobste.rs/s/5fo3j1/idol_idl_binary_encoding_for_zero_copy) - [Idol, an IDL and binary encoding for zero-copy local IPC](https://github.com/jmillikin/idol)
 * [2024-10-11, 08:41:15](https://lobste.rs/s/edjpmp/programming_is_fun) - [Programming is fun](https://bitfieldconsulting.com/posts/programming-is-fun)
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
