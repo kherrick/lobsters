@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 17:46:51](https://lobste.rs/s/p5ctl7/we_re_all_just_looking_for_connection) - [We’re All Just Looking for Connection](https://slack.engineering/were-all-just-looking-for-connection/)
 * [2024-10-11, 17:41:06](https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192) - [AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
 * [2024-10-11, 17:12:19](https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style) - [Tutorial on Good Lisp Programming Style (1993)](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 * [2024-10-11, 16:14:14](https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp) - [uLisp - A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
@@ -19,7 +20,6 @@
 * [2024-10-10, 22:01:28](https://lobste.rs/s/it3p5r/designing_fast_concurrent_hash_table) - [Designing A Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
 * [2024-10-10, 21:03:09](https://lobste.rs/s/cmld3d/html_for_people) - [HTML for People](https://www.htmlforpeople.com)
 * [2024-10-10, 20:07:24](https://lobste.rs/s/y12hdo/it_s_not_easy_being_green_on_energy) - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460)
-* [2024-10-10, 19:44:44](https://lobste.rs/s/gcukpk/why_you_shouldn_t_forget_optimize_data) - [Why You Shouldn't Forget to Optimize the Data Layout](https://cedardb.com/blog/optimizing_data_layouts/)
 * [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
 * [2024-10-10, 15:03:38](https://lobste.rs/s/e1gujd/rfc_9635_grant_negotiation) - [RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)](https://www.rfc-editor.org/rfc/rfc9635)
 * [2024-10-10, 14:08:27](https://lobste.rs/s/90iam3/aaa_gaming_on_asahi_linux) - [AAA gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
