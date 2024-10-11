@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-11, 17:12:19",
+      "https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style"
+    ],
+    [
+      "Tutorial on Good Lisp Programming Style",
+      "https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 16:14:14",
       "https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp"
     ],
@@ -127,16 +137,6 @@
     [
       "Deploying a Single-Binary Haskell Web App",
       "https://entropicthoughts.com/deploying-single-binary-haskell-web-app"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 06:14:12",
-      "https://lobste.rs/s/s5qipm/using_chrome_s_accessibility_apis_find"
-    ],
-    [
-      "Using Chrome's accessibility APIs to find security bugs",
-      "https://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html"
     ]
   ],
   [
