@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 09:07:09](https://lobste.rs/s/5fo3j1/idol_idl_binary_encoding_for_zero_copy) - [Idol, an IDL and binary encoding for zero-copy local IPC](https://github.com/jmillikin/idol)
 * [2024-10-11, 08:41:15](https://lobste.rs/s/edjpmp/programming_is_fun) - [Programming is fun](https://bitfieldconsulting.com/posts/programming-is-fun)
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
 * [2024-10-11, 06:14:12](https://lobste.rs/s/s5qipm/using_chrome_s_accessibility_apis_find) - [Using Chrome's accessibility APIs to find security bugs](https://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html)
@@ -15,7 +16,6 @@
 * [2024-10-10, 19:44:44](https://lobste.rs/s/gcukpk/why_you_shouldn_t_forget_optimize_data) - [Why You Shouldn't Forget to Optimize the Data Layout](https://cedardb.com/blog/optimizing_data_layouts/)
 * [2024-10-10, 19:36:36](https://lobste.rs/s/iputtg/rama_on_clojure_s_terms_magic) - [Rama on Clojure’s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
 * [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
-* [2024-10-10, 18:07:13](https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996) - [A modest proposal: C++ resyntaxed (1996)](https://dl.acm.org/doi/10.1145/240964.240981)
 * [2024-10-10, 16:05:39](https://lobste.rs/s/j0pp6o/coding_without_braces_alternate_c_syntax) - [Coding without braces: An alternate C Syntax](https://www.deusinmachina.net/p/coding-without-braces-an-alternate)
 * [2024-10-10, 15:03:38](https://lobste.rs/s/e1gujd/rfc_9635_grant_negotiation) - [RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)](https://www.rfc-editor.org/rfc/rfc9635)
 * [2024-10-10, 14:08:27](https://lobste.rs/s/90iam3/aaa_gaming_on_asahi_linux) - [AAA gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
