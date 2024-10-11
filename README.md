@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 02:02:46](https://lobste.rs/s/bwgrys/science_functional_programming) - [The Science of Functional Programming](https://github.com/winitzki/sofp)
 * [2024-10-10, 23:59:19](https://lobste.rs/s/xnu9xc/transforming_colors_with_matrices) - [Transforming colors with matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [2024-10-10, 23:28:41](https://lobste.rs/s/lqshly/akin_s_laws_spacecraft_design) - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/old_site/academics/akins_laws.html)
 * [2024-10-10, 23:19:01](https://lobste.rs/s/xhgq4t/computational_protein_design) - [Computational Protein Design](https://www.science.org/content/blog-post/2024-chemistry-nobel-computational-protein-design)
@@ -24,7 +25,6 @@
 * [2024-10-09, 19:01:27](https://lobste.rs/s/ccgxtf/my_negative_views_on_rust_2021) - [My negative views on Rust (2021)](https://chrisdone.com/posts/rust/)
 * [2024-10-09, 17:34:04](https://lobste.rs/s/ghywr0/two_workflow_tips) - [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
-* [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
 
 ## [Archives](archives/index.md)
 
