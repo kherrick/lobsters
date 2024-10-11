@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 12:57:39](https://lobste.rs/s/fcyn33/cyber_resilience_act_council_adopts_new) - [Cyber resilience act: Council adopts new law on security requirements for digital products](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/cyber-resilience-act-council-adopts-new-law-on-security-requirements-for-digital-products/)
+* [2024-10-11, 12:52:28](https://lobste.rs/s/bwneb6/behind_scenes_fixing_wild_firefox) - [Behind the Scenes: Fixing an In-the-Wild Firefox Exploit](https://blog.mozilla.org/security/2024/10/11/behind-the-scenes-fixing-an-in-the-wild-firefox-exploit/)
 * [2024-10-11, 11:50:08](https://lobste.rs/s/fl57a9/interneting_is_hard) - [Interneting Is Hard](https://internetingishard.netlify.app)
 * [2024-10-11, 10:42:02](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend)
 * [2024-10-11, 10:17:03](https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
@@ -9,7 +11,6 @@
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
 * [2024-10-11, 06:14:12](https://lobste.rs/s/s5qipm/using_chrome_s_accessibility_apis_find) - [Using Chrome's accessibility APIs to find security bugs](https://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html)
 * [2024-10-11, 03:36:22](https://lobste.rs/s/vj50qc/japanese_font_support) - [Japanese Font Support](https://blog.brianna.town/japanese-font-support)
-* [2024-10-11, 03:14:22](https://lobste.rs/s/dq1bgh/implementing_raft_part_4_key_value) - [Implementing Raft: Part 4 - Key/Value Database](https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/)
 * [2024-10-10, 23:28:41](https://lobste.rs/s/lqshly/akin_s_laws_spacecraft_design) - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/old_site/academics/akins_laws.html)
 * [2024-10-10, 23:16:32](https://lobste.rs/s/brz7tg/running_wolfssl_curl_on_windows_2000) - [Running WolfSSL and cURL on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
 * [2024-10-10, 22:01:28](https://lobste.rs/s/it3p5r/designing_fast_concurrent_hash_table) - [Designing A Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
@@ -24,7 +25,6 @@
 * [2024-10-10, 11:46:43](https://lobste.rs/s/wkprwj/first_report_on_pre_scheme_restoration) - [First report on the Pre-Scheme Restoration](https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html)
 * [2024-10-10, 09:04:51](https://lobste.rs/s/exwuah/mozilla_fixes_firefox_zero_day_actively) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 * [2024-10-09, 22:37:49](https://lobste.rs/s/eezp91/why_gov_uk_s_exit_this_page_component_doesn) - [Why GOV.UK's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
-* [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 
 ## [Archives](archives/index.md)
 
