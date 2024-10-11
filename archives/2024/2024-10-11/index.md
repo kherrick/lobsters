@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 22:26:38](https://lobste.rs/s/mft46g/let_s_talk_about_animation_quality) - [Let's talk about Animation Quality](https://theorangeduck.com/page/animation-quality)
 * [2024-10-11, 21:28:30](https://lobste.rs/s/muormf/perks_being_python_core_developer) - [Perks of Being a Python Core Developer](https://mariatta.ca/posts/perks-of-python-core/)
 * [2024-10-11, 20:45:07](https://lobste.rs/s/ph3fhg/ffi_type_mismatches_rust_for_linux) - [FFI type mismatches in Rust for Linux](https://lwn.net/SubscriberLink/993163/91519b806455b8ec/)
 * [2024-10-11, 20:03:36](https://lobste.rs/s/i5yyks/writing_worst_datalog_ever_26loc) - [Writing the Worst Datalog Ever in 26loc](https://buttondown.com/tensegritics-curiosities/archive/writing-the-worst-datalog-ever-in-26loc/)
