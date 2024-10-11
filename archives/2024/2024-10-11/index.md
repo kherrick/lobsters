@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 16:14:14](https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp) - [uLisp - A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
+* [2024-10-11, 15:58:50](https://lobste.rs/s/ym71rn/overload_journal_183_october_2024) - [Overload Journal 183 - October 2024](https://accu.org/journals/overload/overload183)
 * [2024-10-11, 14:07:23](https://lobste.rs/s/wd5eab/what_is_sync) - [What is Sync?](https://stack.convex.dev/sync)
 * [2024-10-11, 13:51:13](https://lobste.rs/s/q1xmue/copenhagen_book_general_guideline_on) - [The Copenhagen Book: General Guideline on Implementing Auth in Web Applications](https://thecopenhagenbook.com/)
 * [2024-10-11, 12:57:39](https://lobste.rs/s/fcyn33/cyber_resilience_act_council_adopts_new) - [Cyber resilience act: Council adopts new law on security requirements for digital products](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/cyber-resilience-act-council-adopts-new-law-on-security-requirements-for-digital-products/)

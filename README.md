@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 16:14:14](https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp) - [uLisp - A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
+* [2024-10-11, 15:58:50](https://lobste.rs/s/ym71rn/overload_journal_183_october_2024) - [Overload Journal 183 - October 2024](https://accu.org/journals/overload/overload183)
 * [2024-10-11, 14:07:23](https://lobste.rs/s/wd5eab/what_is_sync) - [What is Sync?](https://stack.convex.dev/sync)
 * [2024-10-11, 13:51:13](https://lobste.rs/s/q1xmue/copenhagen_book_general_guideline_on) - [The Copenhagen Book: General Guideline on Implementing Auth in Web Applications](https://thecopenhagenbook.com/)
 * [2024-10-11, 12:57:39](https://lobste.rs/s/fcyn33/cyber_resilience_act_council_adopts_new) - [Cyber resilience act: Council adopts new law on security requirements for digital products](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/cyber-resilience-act-council-adopts-new-law-on-security-requirements-for-digital-products/)
@@ -19,11 +21,9 @@
 * [2024-10-10, 20:07:24](https://lobste.rs/s/y12hdo/it_s_not_easy_being_green_on_energy) - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460)
 * [2024-10-10, 19:44:44](https://lobste.rs/s/gcukpk/why_you_shouldn_t_forget_optimize_data) - [Why You Shouldn't Forget to Optimize the Data Layout](https://cedardb.com/blog/optimizing_data_layouts/)
 * [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
-* [2024-10-10, 16:05:39](https://lobste.rs/s/j0pp6o/coding_without_braces_alternate_c_syntax) - [Coding without braces: An alternate C Syntax](https://www.deusinmachina.net/p/coding-without-braces-an-alternate)
 * [2024-10-10, 15:03:38](https://lobste.rs/s/e1gujd/rfc_9635_grant_negotiation) - [RFC 9635: Grant Negotiation and Authorization Protocol (GNAP)](https://www.rfc-editor.org/rfc/rfc9635)
 * [2024-10-10, 14:08:27](https://lobste.rs/s/90iam3/aaa_gaming_on_asahi_linux) - [AAA gaming on Asahi Linux](https://asahilinux.org/2024/10/aaa-gaming-on-asahi-linux/)
 * [2024-10-10, 13:28:25](https://lobste.rs/s/ajgc48/thunderbird_android_client_is_k_9_mail) - [Thunderbird Android client is K-9 Mail reborn, and it’s in solid beta](https://arstechnica.com/gadgets/2024/10/thunderbird-android-client-is-k-9-mail-reborn-and-its-in-solid-beta/)
-* [2024-10-10, 11:46:43](https://lobste.rs/s/wkprwj/first_report_on_pre_scheme_restoration) - [First report on the Pre-Scheme Restoration](https://prescheme.org/posts/first-report-on-the-pre-scheme-restoration.html)
 * [2024-10-10, 09:04:51](https://lobste.rs/s/exwuah/mozilla_fixes_firefox_zero_day_actively) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 
 ## [Archives](archives/index.md)
