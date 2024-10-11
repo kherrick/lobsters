@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-10-10, 23:59:19",
-      "https://lobste.rs/s/xnu9xc/transforming_colors_with_matrices"
-    ],
-    [
-      "Transforming colors with matrices",
-      "https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html"
-    ]
-  ],
-  [
-    [
       "2024-10-10, 23:28:41",
       "https://lobste.rs/s/lqshly/akin_s_laws_spacecraft_design"
     ],
@@ -137,6 +127,16 @@
     [
       "Rama on Clojure’s terms, and the magic of continuation-passing style",
       "https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/"
+    ]
+  ],
+  [
+    [
+      "2024-10-10, 19:02:52",
+      "https://lobste.rs/s/cliim8/testing_msvc_compiler_backend"
+    ],
+    [
+      "Testing the MSVC Compiler Backend",
+      "https://devblogs.microsoft.com/cppblog/testing-the-msvc-compiler-backend/"
     ]
   ],
   [
