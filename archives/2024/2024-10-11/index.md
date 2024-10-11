@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 09:31:50](https://lobste.rs/s/8w2cit/linearizability_distributed_systems) - [Linearizability in distributed systems](https://eli.thegreenplace.net/2024/linearizability-in-distributed-systems/)
 * [2024-10-11, 09:07:09](https://lobste.rs/s/5fo3j1/idol_idl_binary_encoding_for_zero_copy) - [Idol, an IDL and binary encoding for zero-copy local IPC](https://github.com/jmillikin/idol)
 * [2024-10-11, 08:41:15](https://lobste.rs/s/edjpmp/programming_is_fun) - [Programming is fun](https://bitfieldconsulting.com/posts/programming-is-fun)
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
