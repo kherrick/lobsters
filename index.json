@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-11, 17:46:51",
+      "https://lobste.rs/s/p5ctl7/we_re_all_just_looking_for_connection"
+    ],
+    [
+      "We’re All Just Looking for Connection",
+      "https://slack.engineering/were-all-just-looking-for-connection/"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 17:41:06",
       "https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192"
     ],
@@ -187,16 +197,6 @@
     [
       "It's Not Easy Being Green: On the Energy Efficiency of Programming Languages",
       "https://arxiv.org/abs/2410.05460"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 19:44:44",
-      "https://lobste.rs/s/gcukpk/why_you_shouldn_t_forget_optimize_data"
-    ],
-    [
-      "Why You Shouldn't Forget to Optimize the Data Layout",
-      "https://cedardb.com/blog/optimizing_data_layouts/"
     ]
   ],
   [
