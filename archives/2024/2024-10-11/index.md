@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 19:57:40](https://lobste.rs/s/kxkjgk/request_for_developer_feedback) - [Request for developer feedback: customizable select](https://developer.chrome.com/blog/rfc-customizable-select)
+* [2024-10-11, 19:54:26](https://lobste.rs/s/q1j6ng/packaging_elixir_phoenix_application) - [Packaging an Elixir/Phoenix application with Nix](https://curiosum.com/blog/packaging-elixir-application-with-nix)
 * [2024-10-11, 18:46:03](https://lobste.rs/s/1kfgpg/burning_zero_days_suspected_nation_state) - [Burning Zero Days: Suspected Nation-State Adversary Targets Ivanti CSA](https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa)
 * [2024-10-11, 18:30:31](https://lobste.rs/s/p7b69m/gunnar_wolf_started_guide_writing_fuse) - [Gunnar Wolf• Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 17:46:51](https://lobste.rs/s/p5ctl7/we_re_all_just_looking_for_connection) - [We’re All Just Looking for Connection](https://slack.engineering/were-all-just-looking-for-connection/)
