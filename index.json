@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-11, 10:17:03",
+      "https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix"
+    ],
+    [
+      "Adapting Plan 9's listen to GNU Guix",
+      "https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 09:31:50",
       "https://lobste.rs/s/8w2cit/linearizability_distributed_systems"
     ],
@@ -87,16 +97,6 @@
     [
       "Akin's Laws of Spacecraft Design",
       "https://spacecraft.ssl.umd.edu/old_site/academics/akins_laws.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 23:19:01",
-      "https://lobste.rs/s/xhgq4t/computational_protein_design"
-    ],
-    [
-      "Computational Protein Design",
-      "https://www.science.org/content/blog-post/2024-chemistry-nobel-computational-protein-design"
     ]
   ],
   [
