@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 14:07:23](https://lobste.rs/s/wd5eab/what_is_sync) - [What is Sync?](https://stack.convex.dev/sync)
 * [2024-10-11, 13:51:13](https://lobste.rs/s/q1xmue/copenhagen_book_general_guideline_on) - [The Copenhagen Book: General Guideline on Implementing Auth in Web Applications](https://thecopenhagenbook.com/)
 * [2024-10-11, 12:57:39](https://lobste.rs/s/fcyn33/cyber_resilience_act_council_adopts_new) - [Cyber resilience act: Council adopts new law on security requirements for digital products](https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/cyber-resilience-act-council-adopts-new-law-on-security-requirements-for-digital-products/)
 * [2024-10-11, 12:52:28](https://lobste.rs/s/bwneb6/behind_scenes_fixing_wild_firefox) - [Behind the Scenes: Fixing an In-the-Wild Firefox Exploit](https://blog.mozilla.org/security/2024/10/11/behind-the-scenes-fixing-an-in-the-wild-firefox-exploit/)
@@ -13,7 +14,6 @@
 * [2024-10-11, 06:14:12](https://lobste.rs/s/s5qipm/using_chrome_s_accessibility_apis_find) - [Using Chrome's accessibility APIs to find security bugs](https://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html)
 * [2024-10-11, 03:36:22](https://lobste.rs/s/vj50qc/japanese_font_support) - [Japanese Font Support](https://blog.brianna.town/japanese-font-support)
 * [2024-10-10, 23:28:41](https://lobste.rs/s/lqshly/akin_s_laws_spacecraft_design) - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/old_site/academics/akins_laws.html)
-* [2024-10-10, 23:16:32](https://lobste.rs/s/brz7tg/running_wolfssl_curl_on_windows_2000) - [Running WolfSSL and cURL on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
 * [2024-10-10, 22:01:28](https://lobste.rs/s/it3p5r/designing_fast_concurrent_hash_table) - [Designing A Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
 * [2024-10-10, 21:03:09](https://lobste.rs/s/cmld3d/html_for_people) - [HTML for People](https://www.htmlforpeople.com)
 * [2024-10-10, 20:07:24](https://lobste.rs/s/y12hdo/it_s_not_easy_being_green_on_energy) - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460)
