@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-10, 23:59:19](https://lobste.rs/s/xnu9xc/transforming_colors_with_matrices) - [Transforming colors with matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
 * [2024-10-10, 23:28:41](https://lobste.rs/s/lqshly/akin_s_laws_spacecraft_design) - [Akin's Laws of Spacecraft Design](https://spacecraft.ssl.umd.edu/old_site/academics/akins_laws.html)
 * [2024-10-10, 23:19:01](https://lobste.rs/s/xhgq4t/computational_protein_design) - [Computational Protein Design](https://www.science.org/content/blog-post/2024-chemistry-nobel-computational-protein-design)
 * [2024-10-10, 23:16:32](https://lobste.rs/s/brz7tg/running_wolfssl_curl_on_windows_2000) - [Running WolfSSL and cURL on Windows 2000](http://datagirl.xyz/posts/wolfssl_curl_w2k.html)
 * [2024-10-10, 22:01:28](https://lobste.rs/s/it3p5r/designing_fast_concurrent_hash_table) - [Designing A Fast Concurrent Hash Table](https://ibraheem.ca/posts/designing-papaya/)
+* [2024-10-10, 21:03:09](https://lobste.rs/s/cmld3d/html_for_people) - [HTML for People](https://www.htmlforpeople.com)
 * [2024-10-10, 20:07:24](https://lobste.rs/s/y12hdo/it_s_not_easy_being_green_on_energy) - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460)
 * [2024-10-10, 19:44:44](https://lobste.rs/s/gcukpk/why_you_shouldn_t_forget_optimize_data) - [Why You Shouldn't Forget to Optimize the Data Layout](https://cedardb.com/blog/optimizing_data_layouts/)
 * [2024-10-10, 19:36:36](https://lobste.rs/s/iputtg/rama_on_clojure_s_terms_magic) - [Rama on Clojure’s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
-* [2024-10-10, 19:11:35](https://lobste.rs/s/50mutp/value_source_code) - [The Value of Source Code](https://www.youtube.com/watch?v=Y6ZHV0RH0fQ)
 * [2024-10-10, 19:02:52](https://lobste.rs/s/cliim8/testing_msvc_compiler_backend) - [Testing the MSVC Compiler Backend](https://devblogs.microsoft.com/cppblog/testing-the-msvc-compiler-backend/)
 * [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
 * [2024-10-10, 18:07:13](https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996) - [A modest proposal: C++ resyntaxed (1996)](https://dl.acm.org/doi/10.1145/240964.240981)
@@ -24,7 +25,6 @@
 * [2024-10-09, 17:34:04](https://lobste.rs/s/ghywr0/two_workflow_tips) - [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 * [2024-10-09, 15:17:59](https://lobste.rs/s/0sst1q/why_i_use_kde) - [Why I use KDE](https://www.osnews.com/story/140538/why-i-use-kde/)
-* [2024-10-09, 13:33:35](https://lobste.rs/s/3zanei/pipe_authenticated_pubsub_over_ssh) - [pipe: authenticated pubsub over ssh](https://pipe.pico.sh)
 
 ## [Archives](archives/index.md)
 
