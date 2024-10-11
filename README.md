@@ -2,6 +2,7 @@
 
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
 * [2024-10-11, 06:14:12](https://lobste.rs/s/s5qipm/using_chrome_s_accessibility_apis_find) - [Using Chrome's accessibility APIs to find security bugs](https://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html)
+* [2024-10-11, 03:36:22](https://lobste.rs/s/vj50qc/japanese_font_support) - [Japanese Font Support](https://blog.brianna.town/japanese-font-support)
 * [2024-10-11, 03:14:22](https://lobste.rs/s/dq1bgh/implementing_raft_part_4_key_value) - [Implementing Raft: Part 4 - Key/Value Database](https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/)
 * [2024-10-11, 02:02:46](https://lobste.rs/s/bwgrys/science_functional_programming) - [The Science of Functional Programming](https://github.com/winitzki/sofp)
 * [2024-10-10, 23:59:19](https://lobste.rs/s/xnu9xc/transforming_colors_with_matrices) - [Transforming colors with matrices](https://lisyarus.github.io/blog/posts/transforming-colors-with-matrices.html)
@@ -23,7 +24,6 @@
 * [2024-10-10, 09:04:51](https://lobste.rs/s/exwuah/mozilla_fixes_firefox_zero_day_actively) - [Mozilla fixes Firefox zero-day actively exploited in attacks](https://www.bleepingcomputer.com/news/security/mozilla-fixes-firefox-zero-day-actively-exploited-in-attacks/)
 * [2024-10-09, 22:37:49](https://lobste.rs/s/eezp91/why_gov_uk_s_exit_this_page_component_doesn) - [Why GOV.UK's Exit this Page component doesn't use the Escape key](https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/)
 * [2024-10-09, 19:01:27](https://lobste.rs/s/ccgxtf/my_negative_views_on_rust_2021) - [My negative views on Rust (2021)](https://chrisdone.com/posts/rust/)
-* [2024-10-09, 17:34:04](https://lobste.rs/s/ghywr0/two_workflow_tips) - [Two Workflow Tips](https://matklad.github.io/2024/10/08/two-tips.html)
 * [2024-10-09, 16:10:06](https://lobste.rs/s/dxaj1j/announcing_deno_2) - [Announcing Deno 2](https://deno.com/blog/v2.0)
 
 ## [Archives](archives/index.md)
