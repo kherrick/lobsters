@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-11, 12:57:39",
+      "https://lobste.rs/s/fcyn33/cyber_resilience_act_council_adopts_new"
+    ],
+    [
+      "Cyber resilience act: Council adopts new law on security requirements for digital products",
+      "https://www.consilium.europa.eu/en/press/press-releases/2024/10/10/cyber-resilience-act-council-adopts-new-law-on-security-requirements-for-digital-products/"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 12:52:28",
+      "https://lobste.rs/s/bwneb6/behind_scenes_fixing_wild_firefox"
+    ],
+    [
+      "Behind the Scenes: Fixing an In-the-Wild Firefox Exploit",
+      "https://blog.mozilla.org/security/2024/10/11/behind-the-scenes-fixing-an-in-the-wild-firefox-exploit/"
+    ]
+  ],
+  [
+    [
       "2024-10-11, 11:50:08",
       "https://lobste.rs/s/fl57a9/interneting_is_hard"
     ],
@@ -87,16 +107,6 @@
     [
       "Japanese Font Support",
       "https://blog.brianna.town/japanese-font-support"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 03:14:22",
-      "https://lobste.rs/s/dq1bgh/implementing_raft_part_4_key_value"
-    ],
-    [
-      "Implementing Raft: Part 4 - Key/Value Database",
-      "https://eli.thegreenplace.net/2024/implementing-raft-part-4-keyvalue-database/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Why GOV.UK's Exit this Page component doesn't use the Escape key",
       "https://beeps.website/blog/2024-10-09-why-govuk-exit-this-page-doesnt-use-escape/"
-    ]
-  ],
-  [
-    [
-      "2024-10-09, 16:10:06",
-      "https://lobste.rs/s/dxaj1j/announcing_deno_2"
-    ],
-    [
-      "Announcing Deno 2",
-      "https://deno.com/blog/v2.0"
     ]
   ]
 ]
