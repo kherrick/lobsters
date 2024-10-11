@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 20:45:07](https://lobste.rs/s/ph3fhg/ffi_type_mismatches_rust_for_linux) - [FFI type mismatches in Rust for Linux](https://lwn.net/SubscriberLink/993163/91519b806455b8ec/)
 * [2024-10-11, 20:03:36](https://lobste.rs/s/i5yyks/writing_worst_datalog_ever_26loc) - [Writing the Worst Datalog Ever in 26loc](https://buttondown.com/tensegritics-curiosities/archive/writing-the-worst-datalog-ever-in-26loc/)
 * [2024-10-11, 19:57:40](https://lobste.rs/s/kxkjgk/request_for_developer_feedback) - [Request for developer feedback: customizable select](https://developer.chrome.com/blog/rfc-customizable-select)
-* [2024-10-11, 19:54:26](https://lobste.rs/s/q1j6ng/packaging_elixir_phoenix_application) - [Packaging an Elixir/Phoenix application with Nix](https://curiosum.com/blog/packaging-elixir-application-with-nix)
 * [2024-10-11, 18:30:31](https://lobste.rs/s/p7b69m/started_guide_writing_fuse_filesystems) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 17:41:06](https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192) - [AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
 * [2024-10-11, 17:12:19](https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style) - [Tutorial on Good Lisp Programming Style (1993)](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
