@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-11](index.md)
 
+* [2024-10-11, 08:41:15](https://lobste.rs/s/edjpmp/programming_is_fun) - [Programming is fun](https://bitfieldconsulting.com/posts/programming-is-fun)
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
 * [2024-10-11, 06:14:12](https://lobste.rs/s/s5qipm/using_chrome_s_accessibility_apis_find) - [Using Chrome's accessibility APIs to find security bugs](https://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html)
 * [2024-10-11, 03:36:22](https://lobste.rs/s/vj50qc/japanese_font_support) - [Japanese Font Support](https://blog.brianna.town/japanese-font-support)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-11, 08:41:15](https://lobste.rs/s/edjpmp/programming_is_fun) - [Programming is fun](https://bitfieldconsulting.com/posts/programming-is-fun)
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
 * [2024-10-11, 06:14:12](https://lobste.rs/s/s5qipm/using_chrome_s_accessibility_apis_find) - [Using Chrome's accessibility APIs to find security bugs](https://security.googleblog.com/2024/10/using-chromes-accessibility-apis-to.html)
 * [2024-10-11, 03:36:22](https://lobste.rs/s/vj50qc/japanese_font_support) - [Japanese Font Support](https://blog.brianna.town/japanese-font-support)
@@ -13,7 +14,6 @@
 * [2024-10-10, 20:07:24](https://lobste.rs/s/y12hdo/it_s_not_easy_being_green_on_energy) - [It's Not Easy Being Green: On the Energy Efficiency of Programming Languages](https://arxiv.org/abs/2410.05460)
 * [2024-10-10, 19:44:44](https://lobste.rs/s/gcukpk/why_you_shouldn_t_forget_optimize_data) - [Why You Shouldn't Forget to Optimize the Data Layout](https://cedardb.com/blog/optimizing_data_layouts/)
 * [2024-10-10, 19:36:36](https://lobste.rs/s/iputtg/rama_on_clojure_s_terms_magic) - [Rama on Clojure’s terms, and the magic of continuation-passing style](https://blog.redplanetlabs.com/2024/10/10/rama-on-clojures-terms-and-the-magic-of-continuation-passing-style/)
-* [2024-10-10, 19:02:52](https://lobste.rs/s/cliim8/testing_msvc_compiler_backend) - [Testing the MSVC Compiler Backend](https://devblogs.microsoft.com/cppblog/testing-the-msvc-compiler-backend/)
 * [2024-10-10, 18:47:53](https://lobste.rs/s/f0qyt3/three_kinds_unwrap) - [Three Kinds Of Unwrap](https://zkrising.com/writing/three-unwraps/)
 * [2024-10-10, 18:07:13](https://lobste.rs/s/szfovq/modest_proposal_c_resyntaxed_1996) - [A modest proposal: C++ resyntaxed (1996)](https://dl.acm.org/doi/10.1145/240964.240981)
 * [2024-10-10, 16:05:39](https://lobste.rs/s/j0pp6o/coding_without_braces_alternate_c_syntax) - [Coding without braces: An alternate C Syntax](https://www.deusinmachina.net/p/coding-without-braces-an-alternate)
