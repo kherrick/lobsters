@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-12, 11:20:24](https://lobste.rs/s/qfxvjs/small_experiment_async_rust) - [A Small Experiment in Async Rust](https://ochagavia.nl/blog/an-experiment-in-async-rust/)
 * [2024-10-12, 10:20:53](https://lobste.rs/s/oex1is/history_clojure_2020) - [A history of Clojure (2020)](https://dl.acm.org/doi/abs/10.1145/3386321)
 * [2024-10-12, 09:47:50](https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge) - [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 * [2024-10-12, 09:12:23](https://lobste.rs/s/qp3qzh/oss_fuzz_gen_llm_powered_fuzzing_via_oss) - [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen)
@@ -9,7 +10,6 @@
 * [2024-10-11, 22:50:34](https://lobste.rs/s/6lccpf/every_bug_quirk_windows_resource) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-11, 21:28:30](https://lobste.rs/s/muormf/perks_being_python_core_developer) - [Perks of Being a Python Core Developer](https://mariatta.ca/posts/perks-of-python-core/)
 * [2024-10-11, 20:45:07](https://lobste.rs/s/ph3fhg/ffi_type_mismatches_rust_for_linux) - [FFI type mismatches in Rust for Linux](https://lwn.net/SubscriberLink/993163/91519b806455b8ec/)
-* [2024-10-11, 20:03:36](https://lobste.rs/s/i5yyks/writing_worst_datalog_ever_26loc) - [Writing the Worst Datalog Ever in 26loc](https://buttondown.com/tensegritics-curiosities/archive/writing-the-worst-datalog-ever-in-26loc/)
 * [2024-10-11, 19:57:40](https://lobste.rs/s/kxkjgk/request_for_developer_feedback) - [Request for developer feedback: customizable select](https://developer.chrome.com/blog/rfc-customizable-select)
 * [2024-10-11, 19:54:26](https://lobste.rs/s/q1j6ng/packaging_elixir_phoenix_application) - [Packaging an Elixir/Phoenix application with Nix](https://curiosum.com/blog/packaging-elixir-application-with-nix)
 * [2024-10-11, 18:30:31](https://lobste.rs/s/p7b69m/started_guide_writing_fuse_filesystems) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
