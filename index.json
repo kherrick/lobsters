@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-12, 15:18:52",
+      "https://lobste.rs/s/ndatgk/newtypes_are_better_than_abstract_type"
+    ],
+    [
+      "Newtypes are better than abstract type synonyms",
+      "https://prophetlabs.de/posts/newtypes.html"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 14:52:48",
       "https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo"
     ],
@@ -117,16 +127,6 @@
     [
       "FFI type mismatches in Rust for Linux",
       "https://lwn.net/SubscriberLink/993163/91519b806455b8ec/"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 20:03:36",
-      "https://lobste.rs/s/i5yyks/writing_worst_datalog_ever_26loc"
-    ],
-    [
-      "Writing the Worst Datalog Ever in 26loc",
-      "https://buttondown.com/tensegritics-curiosities/archive/writing-the-worst-datalog-ever-in-26loc/"
     ]
   ],
   [
