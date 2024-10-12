@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-12, 01:12:44](https://lobste.rs/s/10td5i/no_unused_binary_expressions_from_code) - [no-unused-binary-expressions: From code review nit to ecosystem improvements](https://eslint.org/blog/2024/10/code-review-nit-to-ecosystem-improvements/)
 * [2024-10-11, 22:50:34](https://lobste.rs/s/6lccpf/every_bug_quirk_windows_resource) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-11, 21:28:30](https://lobste.rs/s/muormf/perks_being_python_core_developer) - [Perks of Being a Python Core Developer](https://mariatta.ca/posts/perks-of-python-core/)
 * [2024-10-11, 20:45:07](https://lobste.rs/s/ph3fhg/ffi_type_mismatches_rust_for_linux) - [FFI type mismatches in Rust for Linux](https://lwn.net/SubscriberLink/993163/91519b806455b8ec/)
@@ -16,7 +17,6 @@
 * [2024-10-11, 10:42:02](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend)
 * [2024-10-11, 10:17:03](https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
 * [2024-10-11, 09:07:09](https://lobste.rs/s/5fo3j1/idol_idl_binary_encoding_for_zero_copy) - [Idol, an IDL and binary encoding for zero-copy local IPC](https://github.com/jmillikin/idol)
-* [2024-10-11, 08:41:15](https://lobste.rs/s/edjpmp/programming_is_fun) - [Programming is fun](https://bitfieldconsulting.com/posts/programming-is-fun)
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
 * [2024-10-11, 03:36:22](https://lobste.rs/s/vj50qc/japanese_font_support) - [Japanese Font Support](https://blog.brianna.town/japanese-font-support)
 * [2024-10-10, 21:03:09](https://lobste.rs/s/cmld3d/html_for_people) - [HTML for People](https://www.htmlforpeople.com)
