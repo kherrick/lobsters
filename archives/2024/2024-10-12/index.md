@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 16:37:21](https://lobste.rs/s/yubc2g/virtual_memory_assisted_buffer) - [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
 * [2024-10-12, 16:29:22](https://lobste.rs/s/kxtqjt/arm_profile_architecture_developments) - [Arm A-Profile Architecture Developments 2024](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024)
 * [2024-10-12, 15:18:52](https://lobste.rs/s/ndatgk/newtypes_are_better_than_abstract_type) - [Newtypes are better than abstract type synonyms](https://prophetlabs.de/posts/newtypes.html)
 * [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)

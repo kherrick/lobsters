@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-12, 16:37:21](https://lobste.rs/s/yubc2g/virtual_memory_assisted_buffer) - [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
 * [2024-10-12, 16:29:22](https://lobste.rs/s/kxtqjt/arm_profile_architecture_developments) - [Arm A-Profile Architecture Developments 2024](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024)
 * [2024-10-12, 15:18:52](https://lobste.rs/s/ndatgk/newtypes_are_better_than_abstract_type) - [Newtypes are better than abstract type synonyms](https://prophetlabs.de/posts/newtypes.html)
 * [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
@@ -7,7 +8,6 @@
 * [2024-10-12, 11:20:24](https://lobste.rs/s/qfxvjs/small_experiment_async_rust) - [A Small Experiment in Async Rust](https://ochagavia.nl/blog/an-experiment-in-async-rust/)
 * [2024-10-12, 10:20:53](https://lobste.rs/s/oex1is/history_clojure_2020) - [A history of Clojure (2020)](https://dl.acm.org/doi/abs/10.1145/3386321)
 * [2024-10-12, 09:47:50](https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge) - [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
-* [2024-10-12, 09:12:23](https://lobste.rs/s/qp3qzh/oss_fuzz_gen_llm_powered_fuzzing_via_oss) - [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen)
 * [2024-10-12, 05:33:22](https://lobste.rs/s/imggoa/dictionary_single_letter_variable_names) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names)
 * [2024-10-12, 03:30:41](https://lobste.rs/s/iyvdwz/cizzbuzz_exploration_github_merge) - [cizzbuzz: An exploration of GitHub Merge Queues](https://github.com/haha-business/cizzbuzz)
 * [2024-10-12, 02:24:05](https://lobste.rs/s/tfxw8x/ultimate_conditional_syntax) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
