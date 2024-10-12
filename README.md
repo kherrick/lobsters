@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-12, 16:29:22](https://lobste.rs/s/kxtqjt/arm_profile_architecture_developments) - [Arm A-Profile Architecture Developments 2024](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024)
 * [2024-10-12, 15:18:52](https://lobste.rs/s/ndatgk/newtypes_are_better_than_abstract_type) - [Newtypes are better than abstract type synonyms](https://prophetlabs.de/posts/newtypes.html)
 * [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
 * [2024-10-12, 14:45:38](https://lobste.rs/s/h3b5xt/potential_pragmatic_handling_partial) - [Potential pragmatic handling of partial matches for HTTP conditional GET](https://utcc.utoronto.ca/~cks/space/blog/web/ConditionalGETAndPartialMatches)
@@ -18,7 +19,6 @@
 * [2024-10-11, 17:41:06](https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192) - [AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
 * [2024-10-11, 17:12:19](https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style) - [Tutorial on Good Lisp Programming Style (1993)](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 * [2024-10-11, 16:14:14](https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp) - [uLisp - A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
-* [2024-10-11, 14:07:23](https://lobste.rs/s/wd5eab/what_is_sync) - [What is Sync?](https://stack.convex.dev/sync)
 * [2024-10-11, 13:51:13](https://lobste.rs/s/q1xmue/copenhagen_book_general_guideline_on) - [The Copenhagen Book: General Guideline on Implementing Auth in Web Applications](https://thecopenhagenbook.com/)
 * [2024-10-11, 11:50:08](https://lobste.rs/s/fl57a9/interneting_is_hard) - [Interneting Is Hard](https://internetingishard.netlify.app)
 * [2024-10-11, 10:17:03](https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
