@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-12, 09:12:23",
+      "https://lobste.rs/s/qp3qzh/oss_fuzz_gen_llm_powered_fuzzing_via_oss"
+    ],
+    [
+      "oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz",
+      "https://github.com/google/oss-fuzz-gen"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 05:33:22",
       "https://lobste.rs/s/imggoa/dictionary_single_letter_variable_names"
     ],
@@ -227,16 +237,6 @@
     [
       "It's Not Easy Being Green: On the Energy Efficiency of Programming Languages",
       "https://arxiv.org/abs/2410.05460"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 18:47:53",
-      "https://lobste.rs/s/f0qyt3/three_kinds_unwrap"
-    ],
-    [
-      "Three Kinds Of Unwrap",
-      "https://zkrising.com/writing/three-unwraps/"
     ]
   ],
   [
