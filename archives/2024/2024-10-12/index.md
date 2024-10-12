@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 18:42:49](https://lobste.rs/s/0ddvl5/1_bug_50_000_bounties_zendesk_bug) - [1 bug, $50,000+ in bounties, Zendesk bug](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 * [2024-10-12, 17:25:53](https://lobste.rs/s/ipfrdt/road_ociv2_images_what_s_wrong_with_tar) - [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar)
 * [2024-10-12, 17:25:23](https://lobste.rs/s/mwnjtm/dataflow_columns_wasm_oh_my) - [Dataflow and Columns and WASM, Oh My](https://github.com/frankmcsherry/blog/blob/master/posts/2024-10-11.md)
 * [2024-10-12, 16:59:21](https://lobste.rs/s/2jlx5i/zzz_library_for_writing_performant) - [zzz: A library for writing performant and reliable networked services](https://github.com/mookums/zzz)
