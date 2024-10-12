@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-12, 16:29:22",
+      "https://lobste.rs/s/kxtqjt/arm_profile_architecture_developments"
+    ],
+    [
+      "Arm A-Profile Architecture Developments 2024",
+      "https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 15:18:52",
       "https://lobste.rs/s/ndatgk/newtypes_are_better_than_abstract_type"
     ],
@@ -177,16 +187,6 @@
     [
       "uLisp - A Lisp compiler to RISC-V written in Lisp",
       "http://www.ulisp.com/show?4Y20"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 14:07:23",
-      "https://lobste.rs/s/wd5eab/what_is_sync"
-    ],
-    [
-      "What is Sync?",
-      "https://stack.convex.dev/sync"
     ]
   ],
   [
