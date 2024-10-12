@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 15:18:52](https://lobste.rs/s/ndatgk/newtypes_are_better_than_abstract_type) - [Newtypes are better than abstract type synonyms](https://prophetlabs.de/posts/newtypes.html)
 * [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
 * [2024-10-12, 14:45:38](https://lobste.rs/s/h3b5xt/potential_pragmatic_handling_partial) - [Potential pragmatic handling of partial matches for HTTP conditional GET](https://utcc.utoronto.ca/~cks/space/blog/web/ConditionalGETAndPartialMatches)
 * [2024-10-12, 11:20:24](https://lobste.rs/s/qfxvjs/small_experiment_async_rust) - [A Small Experiment in Async Rust](https://ochagavia.nl/blog/an-experiment-in-async-rust/)
