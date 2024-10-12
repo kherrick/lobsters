@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-12, 09:47:50",
+      "https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge"
+    ],
+    [
+      "LLMs don’t do formal reasoning - and that is a HUGE problem",
+      "https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 09:12:23",
       "https://lobste.rs/s/qp3qzh/oss_fuzz_gen_llm_powered_fuzzing_via_oss"
     ],
@@ -27,16 +37,6 @@
     [
       "cizzbuzz: An exploration of GitHub Merge Queues",
       "https://github.com/haha-business/cizzbuzz"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 03:27:34",
-      "https://lobste.rs/s/pgw54f/binary_scalar_embedding_quantization"
-    ],
-    [
-      "Binary and Scalar Embedding Quantization for Significantly Faster & Cheaper Retrieval (March 22, 2024)",
-      "https://huggingface.co/blog/embedding-quantization"
     ]
   ],
   [
