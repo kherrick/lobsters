@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-12, 14:45:38",
+      "https://lobste.rs/s/h3b5xt/potential_pragmatic_handling_partial"
+    ],
+    [
+      "Potential pragmatic handling of partial matches for HTTP conditional GET",
+      "https://utcc.utoronto.ca/~cks/space/blog/web/ConditionalGETAndPartialMatches"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 11:20:24",
       "https://lobste.rs/s/qfxvjs/small_experiment_async_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "Deploying a Single-Binary Haskell Web App",
       "https://entropicthoughts.com/deploying-single-binary-haskell-web-app"
-    ]
-  ],
-  [
-    [
-      "2024-10-10, 20:07:24",
-      "https://lobste.rs/s/y12hdo/it_s_not_easy_being_green_on_energy"
-    ],
-    [
-      "It's Not Easy Being Green: On the Energy Efficiency of Programming Languages",
-      "https://arxiv.org/abs/2410.05460"
     ]
   ],
   [
