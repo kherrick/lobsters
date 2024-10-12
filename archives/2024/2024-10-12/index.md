@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-12](index.md)
 
+* [2024-10-12, 17:25:53](https://lobste.rs/s/ipfrdt/road_ociv2_images_what_s_wrong_with_tar) - [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar)
+* [2024-10-12, 17:25:23](https://lobste.rs/s/mwnjtm/dataflow_columns_wasm_oh_my) - [Dataflow and Columns and WASM, Oh My](https://github.com/frankmcsherry/blog/blob/master/posts/2024-10-11.md)
 * [2024-10-12, 16:59:21](https://lobste.rs/s/2jlx5i/zzz_library_for_writing_performant) - [zzz: A library for writing performant and reliable networked services](https://github.com/mookums/zzz)
 * [2024-10-12, 16:37:21](https://lobste.rs/s/yubc2g/virtual_memory_assisted_buffer) - [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
 * [2024-10-12, 16:29:22](https://lobste.rs/s/kxtqjt/arm_profile_architecture_developments) - [Arm A-Profile Architecture Developments 2024](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-12, 17:25:53](https://lobste.rs/s/ipfrdt/road_ociv2_images_what_s_wrong_with_tar) - [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar)
+* [2024-10-12, 17:25:23](https://lobste.rs/s/mwnjtm/dataflow_columns_wasm_oh_my) - [Dataflow and Columns and WASM, Oh My](https://github.com/frankmcsherry/blog/blob/master/posts/2024-10-11.md)
 * [2024-10-12, 16:59:21](https://lobste.rs/s/2jlx5i/zzz_library_for_writing_performant) - [zzz: A library for writing performant and reliable networked services](https://github.com/mookums/zzz)
 * [2024-10-12, 16:37:21](https://lobste.rs/s/yubc2g/virtual_memory_assisted_buffer) - [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
 * [2024-10-12, 16:29:22](https://lobste.rs/s/kxtqjt/arm_profile_architecture_developments) - [Arm A-Profile Architecture Developments 2024](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024)
@@ -10,7 +12,6 @@
 * [2024-10-12, 10:20:53](https://lobste.rs/s/oex1is/history_clojure_2020) - [A history of Clojure (2020)](https://dl.acm.org/doi/abs/10.1145/3386321)
 * [2024-10-12, 09:47:50](https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge) - [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 * [2024-10-12, 05:33:22](https://lobste.rs/s/imggoa/dictionary_single_letter_variable_names) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names)
-* [2024-10-12, 03:30:41](https://lobste.rs/s/iyvdwz/cizzbuzz_exploration_github_merge) - [cizzbuzz: An exploration of GitHub Merge Queues](https://github.com/haha-business/cizzbuzz)
 * [2024-10-12, 02:24:05](https://lobste.rs/s/tfxw8x/ultimate_conditional_syntax) - [The Ultimate Conditional Syntax](https://dl.acm.org/doi/10.1145/3689746)
 * [2024-10-11, 22:50:34](https://lobste.rs/s/6lccpf/every_bug_quirk_windows_resource) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 * [2024-10-11, 21:28:30](https://lobste.rs/s/muormf/perks_being_python_core_developer) - [Perks of Being a Python Core Developer](https://mariatta.ca/posts/perks-of-python-core/)
@@ -20,7 +21,6 @@
 * [2024-10-11, 17:41:06](https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192) - [AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
 * [2024-10-11, 17:12:19](https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style) - [Tutorial on Good Lisp Programming Style (1993)](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 * [2024-10-11, 16:14:14](https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp) - [uLisp - A Lisp compiler to RISC-V written in Lisp](http://www.ulisp.com/show?4Y20)
-* [2024-10-11, 13:51:13](https://lobste.rs/s/q1xmue/copenhagen_book_general_guideline_on) - [The Copenhagen Book: General Guideline on Implementing Auth in Web Applications](https://thecopenhagenbook.com/)
 * [2024-10-11, 10:17:03](https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
 * [2024-10-11, 09:07:09](https://lobste.rs/s/5fo3j1/idol_idl_binary_encoding_for_zero_copy) - [Idol, an IDL and binary encoding for zero-copy local IPC](https://github.com/jmillikin/idol)
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
