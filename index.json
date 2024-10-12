@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-10-12, 20:47:33",
-      "https://lobste.rs/s/2lwqc3/secure_custom_fields"
-    ],
-    [
-      "Secure Custom Fields",
-      "https://wordpress.org/news/2024/10/secure-custom-fields/"
-    ]
-  ],
-  [
-    [
       "2024-10-12, 19:05:38",
       "https://lobste.rs/s/pycn69/are_mathjax_katex_competitors"
     ],
@@ -207,6 +197,16 @@
     [
       "AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review",
       "https://www.phoronix.com/review/amd-epyc-9965-ampereone"
+    ]
+  ],
+  [
+    [
+      "2024-10-11, 17:12:19",
+      "https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style"
+    ],
+    [
+      "Tutorial on Good Lisp Programming Style (1993)",
+      "https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf"
     ]
   ],
   [
