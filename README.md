@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
 * [2024-10-12, 14:45:38](https://lobste.rs/s/h3b5xt/potential_pragmatic_handling_partial) - [Potential pragmatic handling of partial matches for HTTP conditional GET](https://utcc.utoronto.ca/~cks/space/blog/web/ConditionalGETAndPartialMatches)
 * [2024-10-12, 11:20:24](https://lobste.rs/s/qfxvjs/small_experiment_async_rust) - [A Small Experiment in Async Rust](https://ochagavia.nl/blog/an-experiment-in-async-rust/)
 * [2024-10-12, 10:20:53](https://lobste.rs/s/oex1is/history_clojure_2020) - [A history of Clojure (2020)](https://dl.acm.org/doi/abs/10.1145/3386321)
@@ -20,7 +21,6 @@
 * [2024-10-11, 14:07:23](https://lobste.rs/s/wd5eab/what_is_sync) - [What is Sync?](https://stack.convex.dev/sync)
 * [2024-10-11, 13:51:13](https://lobste.rs/s/q1xmue/copenhagen_book_general_guideline_on) - [The Copenhagen Book: General Guideline on Implementing Auth in Web Applications](https://thecopenhagenbook.com/)
 * [2024-10-11, 11:50:08](https://lobste.rs/s/fl57a9/interneting_is_hard) - [Interneting Is Hard](https://internetingishard.netlify.app)
-* [2024-10-11, 10:42:02](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/aquxfe/what_are_you_doing_this_weekend)
 * [2024-10-11, 10:17:03](https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
 * [2024-10-11, 09:07:09](https://lobste.rs/s/5fo3j1/idol_idl_binary_encoding_for_zero_copy) - [Idol, an IDL and binary encoding for zero-copy local IPC](https://github.com/jmillikin/idol)
 * [2024-10-11, 07:39:08](https://lobste.rs/s/wlslt8/deploying_single_binary_haskell_web_app) - [Deploying a Single-Binary Haskell Web App](https://entropicthoughts.com/deploying-single-binary-haskell-web-app)
