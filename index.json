@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-12, 17:25:53",
+      "https://lobste.rs/s/ipfrdt/road_ociv2_images_what_s_wrong_with_tar"
+    ],
+    [
+      "The Road to OCIv2 Images: What's Wrong with Tar? (2019)",
+      "https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 17:25:23",
+      "https://lobste.rs/s/mwnjtm/dataflow_columns_wasm_oh_my"
+    ],
+    [
+      "Dataflow and Columns and WASM, Oh My",
+      "https://github.com/frankmcsherry/blog/blob/master/posts/2024-10-11.md"
+    ]
+  ],
+  [
+    [
       "2024-10-12, 16:59:21",
       "https://lobste.rs/s/2jlx5i/zzz_library_for_writing_performant"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-10-12, 03:30:41",
-      "https://lobste.rs/s/iyvdwz/cizzbuzz_exploration_github_merge"
-    ],
-    [
-      "cizzbuzz: An exploration of GitHub Merge Queues",
-      "https://github.com/haha-business/cizzbuzz"
-    ]
-  ],
-  [
-    [
       "2024-10-12, 02:24:05",
       "https://lobste.rs/s/tfxw8x/ultimate_conditional_syntax"
     ],
@@ -197,16 +207,6 @@
     [
       "uLisp - A Lisp compiler to RISC-V written in Lisp",
       "http://www.ulisp.com/show?4Y20"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 13:51:13",
-      "https://lobste.rs/s/q1xmue/copenhagen_book_general_guideline_on"
-    ],
-    [
-      "The Copenhagen Book: General Guideline on Implementing Auth in Web Applications",
-      "https://thecopenhagenbook.com/"
     ]
   ],
   [
