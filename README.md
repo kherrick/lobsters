@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-12, 10:20:53](https://lobste.rs/s/oex1is/history_clojure_2020) - [A history of Clojure (2020)](https://dl.acm.org/doi/abs/10.1145/3386321)
 * [2024-10-12, 09:47:50](https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge) - [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 * [2024-10-12, 09:12:23](https://lobste.rs/s/qp3qzh/oss_fuzz_gen_llm_powered_fuzzing_via_oss) - [oss-fuzz-gen: LLM powered fuzzing via OSS-Fuzz](https://github.com/google/oss-fuzz-gen)
 * [2024-10-12, 05:33:22](https://lobste.rs/s/imggoa/dictionary_single_letter_variable_names) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names)
@@ -11,7 +12,6 @@
 * [2024-10-11, 20:03:36](https://lobste.rs/s/i5yyks/writing_worst_datalog_ever_26loc) - [Writing the Worst Datalog Ever in 26loc](https://buttondown.com/tensegritics-curiosities/archive/writing-the-worst-datalog-ever-in-26loc/)
 * [2024-10-11, 19:57:40](https://lobste.rs/s/kxkjgk/request_for_developer_feedback) - [Request for developer feedback: customizable select](https://developer.chrome.com/blog/rfc-customizable-select)
 * [2024-10-11, 19:54:26](https://lobste.rs/s/q1j6ng/packaging_elixir_phoenix_application) - [Packaging an Elixir/Phoenix application with Nix](https://curiosum.com/blog/packaging-elixir-application-with-nix)
-* [2024-10-11, 18:46:03](https://lobste.rs/s/1kfgpg/burning_zero_days_suspected_nation_state) - [Burning Zero Days: Suspected Nation-State Adversary Targets Ivanti CSA](https://www.fortinet.com/blog/threat-research/burning-zero-days-suspected-nation-state-adversary-targets-ivanti-csa)
 * [2024-10-11, 18:30:31](https://lobste.rs/s/p7b69m/started_guide_writing_fuse_filesystems) - [Started a guide to writing FUSE filesystems in Python](https://gwolf.org/2024/10/started-a-guide-to-writing-fuse-filesystems-in-python.html)
 * [2024-10-11, 17:41:06](https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192) - [AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
 * [2024-10-11, 17:12:19](https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style) - [Tutorial on Good Lisp Programming Style (1993)](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
