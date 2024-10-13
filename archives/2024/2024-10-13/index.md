@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 13:43:04](https://lobste.rs/s/ehxmm8/self_referential_variable) - [Self-referential variable initialization in C](https://microblog.ahti.space/nortti/self-referential-initialization-c/)
 * [2024-10-13, 13:04:36](https://lobste.rs/s/jx5une/open_source_social_media_scheduling_tool) - [Open source social media scheduling tool](https://github.com/gitroomhq/postiz-app/)
 * [2024-10-13, 11:16:51](https://lobste.rs/s/spw1je/sql_json_is_here_kinda_waiting_for_pg_17) - [SQL/JSON is here! (kinda “Waiting for Pg 17”) – select * from depesz](https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/)
 * [2024-10-13, 09:42:17](https://lobste.rs/s/tmcmoc/confusing_misunderstood_topics_systems) - [Confusing or misunderstood topics in systems programming: Threads and async runtimes](https://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
