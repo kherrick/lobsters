@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-13, 11:16:51",
+      "https://lobste.rs/s/spw1je/sql_json_is_here_kinda_waiting_for_pg_17"
+    ],
+    [
+      "SQL/JSON is here! (kinda “Waiting for Pg 17”) – select * from depesz",
+      "https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 09:42:17",
       "https://lobste.rs/s/tmcmoc/confusing_misunderstood_topics_systems"
     ],
@@ -237,16 +247,6 @@
     [
       "Every bug/quirk of the Windows resource compiler (rc.exe), probably",
       "https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 20:45:07",
-      "https://lobste.rs/s/ph3fhg/ffi_type_mismatches_rust_for_linux"
-    ],
-    [
-      "FFI type mismatches in Rust for Linux",
-      "https://lwn.net/SubscriberLink/993163/91519b806455b8ec/"
     ]
   ]
 ]
