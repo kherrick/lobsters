@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-13, 19:34:18",
+      "https://lobste.rs/s/fetpbp/greatness_limitations_js_framework"
+    ],
+    [
+      "The greatness and limitations of the js-framework-benchmark",
+      "https://nolanlawson.com/2024/10/13/the-greatness-and-limitations-of-the-js-framework-benchmark/"
+    ]
+  ],
+  [
+    [
+      "2024-10-13, 19:34:10",
+      "https://lobste.rs/s/mexykr/improve_algorithm_performance_step_by"
+    ],
+    [
+      "Improve an algorithm performance step by step",
+      "https://blog.mapotofu.org/blogs/rabitq-bench/"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 18:31:17",
       "https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every"
     ],
@@ -187,26 +207,6 @@
     [
       "How I animate 3Blue1Brown: a Manim demo",
       "https://youtu.be/rbu7Zu5X1zI"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 11:20:24",
-      "https://lobste.rs/s/qfxvjs/small_experiment_async_rust"
-    ],
-    [
-      "A Small Experiment in Async Rust",
-      "https://ochagavia.nl/blog/an-experiment-in-async-rust/"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 10:20:53",
-      "https://lobste.rs/s/oex1is/history_clojure_2020"
-    ],
-    [
-      "A history of Clojure (2020)",
-      "https://dl.acm.org/doi/abs/10.1145/3386321"
     ]
   ],
   [
