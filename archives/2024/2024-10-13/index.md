@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 09:14:49](https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off) - [OpenBSD is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
 * [2024-10-13, 09:04:23](https://lobste.rs/s/weun6e/advanced_book_classes_packages_for_sile) - [Advanced book classes and packages for the SILE typesetting system](https://github.com/Omikhleia/resilient.sile)
 * [2024-10-13, 08:07:45](https://lobste.rs/s/r1wrt6/replacing_nginx_with_axum) - [Replacing nginx with axum](https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html)
 * [2024-10-13, 06:51:12](https://lobste.rs/s/twwazh/acf_6_3_8_security_release) - [ACF 6.3.8 Security Release](https://www.advancedcustomfields.com/blog/acf-6-3-8-security-release/)
