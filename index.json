@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-13, 04:23:54",
+      "https://lobste.rs/s/nniiar/can_logic_programming_be_liberated_from"
+    ],
+    [
+      "Can Logic Programming Be Liberated from Predicates and Backtracking?",
+      "https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 02:48:51",
       "https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from"
     ],
@@ -217,16 +227,6 @@
     [
       "Tutorial on Good Lisp Programming Style (1993)",
       "https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 16:14:14",
-      "https://lobste.rs/s/jfojdh/ulisp_lisp_compiler_risc_v_written_lisp"
-    ],
-    [
-      "uLisp - A Lisp compiler to RISC-V written in Lisp",
-      "http://www.ulisp.com/show?4Y20"
     ]
   ],
   [
