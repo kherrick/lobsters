@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 19:56:52](https://lobste.rs/s/mjdguo/crlf_is_obsolete_should_be_abolished) - [CRLF Is Obsolete And Should Be Abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
 * [2024-10-13, 19:34:18](https://lobste.rs/s/fetpbp/greatness_limitations_js_framework) - [The greatness and limitations of the js-framework-benchmark](https://nolanlawson.com/2024/10/13/the-greatness-and-limitations-of-the-js-framework-benchmark/)
 * [2024-10-13, 19:34:10](https://lobste.rs/s/mexykr/improve_algorithm_performance_step_by) - [Improve an algorithm performance step by step](https://blog.mapotofu.org/blogs/rabitq-bench/)
 * [2024-10-13, 18:31:17](https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every) - [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
