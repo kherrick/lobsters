@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-13, 13:04:36",
-      "https://lobste.rs/s/jx5une/open_source_social_media_scheduling_tool"
-    ],
-    [
-      "Open source social media scheduling tool",
-      "https://github.com/gitroomhq/postiz-app/"
-    ]
-  ],
-  [
-    [
       "2024-10-13, 11:16:51",
       "https://lobste.rs/s/spw1je/sql_json_is_here_kinda_waiting_for_pg_17"
     ],
@@ -177,6 +167,16 @@
     [
       "zzz: A library for writing performant and reliable networked services",
       "https://github.com/mookums/zzz"
+    ]
+  ],
+  [
+    [
+      "2024-10-12, 16:37:21",
+      "https://lobste.rs/s/yubc2g/virtual_memory_assisted_buffer"
+    ],
+    [
+      "Virtual-Memory Assisted Buffer Management",
+      "https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf"
     ]
   ],
   [
