@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-13, 06:51:12](https://lobste.rs/s/twwazh/acf_6_3_8_security_release) - [ACF 6.3.8 Security Release](https://www.advancedcustomfields.com/blog/acf-6-3-8-security-release/)
 * [2024-10-13, 04:23:54](https://lobste.rs/s/nniiar/can_logic_programming_be_liberated_from) - [Can Logic Programming Be Liberated from Predicates and Backtracking?](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
 * [2024-10-13, 02:48:51](https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-13, 00:23:28](https://lobste.rs/s/lbbjhd/dafny_standard_libraries) - [Dafny Standard Libraries](https://dafny.org/blog/2023/12/20/standard-libraries/)
@@ -22,7 +23,6 @@
 * [2024-10-11, 21:28:30](https://lobste.rs/s/muormf/perks_being_python_core_developer) - [Perks of Being a Python Core Developer](https://mariatta.ca/posts/perks-of-python-core/)
 * [2024-10-11, 20:45:07](https://lobste.rs/s/ph3fhg/ffi_type_mismatches_rust_for_linux) - [FFI type mismatches in Rust for Linux](https://lwn.net/SubscriberLink/993163/91519b806455b8ec/)
 * [2024-10-11, 17:41:06](https://lobste.rs/s/cba9y5/amd_epyc_9965_turin_dense_vs_ampereone_192) - [AMD EPYC 9965 \"Turin Dense” vs. AmpereOne 192-Core ARM CPU Review](https://www.phoronix.com/review/amd-epyc-9965-ampereone)
-* [2024-10-11, 17:12:19](https://lobste.rs/s/yzi1jy/tutorial_on_good_lisp_programming_style) - [Tutorial on Good Lisp Programming Style (1993)](https://www.cs.umd.edu/~nau/cmsc421/norvig-lisp-style.pdf)
 * [2024-10-11, 10:17:03](https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix) - [Adapting Plan 9's listen to GNU Guix](https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html)
 * [2024-10-11, 09:07:09](https://lobste.rs/s/5fo3j1/idol_idl_binary_encoding_for_zero_copy) - [Idol, an IDL and binary encoding for zero-copy local IPC](https://github.com/jmillikin/idol)
 
