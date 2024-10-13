@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-13, 19:56:52",
+      "https://lobste.rs/s/mjdguo/crlf_is_obsolete_should_be_abolished"
+    ],
+    [
+      "CRLF Is Obsolete And Should Be Abolished",
+      "https://fossil-scm.org/home/ext/crlf-harmful.md"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 19:34:18",
       "https://lobste.rs/s/fetpbp/greatness_limitations_js_framework"
     ],
@@ -177,16 +187,6 @@
     [
       "The Road to OCIv2 Images: What's Wrong with Tar? (2019)",
       "https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 17:25:23",
-      "https://lobste.rs/s/mwnjtm/dataflow_columns_wasm_oh_my"
-    ],
-    [
-      "Dataflow and Columns and WASM, Oh My",
-      "https://github.com/frankmcsherry/blog/blob/master/posts/2024-10-11.md"
     ]
   ],
   [
