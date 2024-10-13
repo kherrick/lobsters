@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 18:31:17](https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every) - [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
+* [2024-10-13, 18:26:18](https://lobste.rs/s/sczz5g/curly_cue_geometric_methods_for_highly) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-13, 13:43:04](https://lobste.rs/s/ehxmm8/self_referential_variable) - [Self-referential variable initialization in C](https://microblog.ahti.space/nortti/self-referential-initialization-c/)
 * [2024-10-13, 13:04:36](https://lobste.rs/s/jx5une/open_source_social_media_scheduling_tool) - [Open source social media scheduling tool](https://github.com/gitroomhq/postiz-app/)
 * [2024-10-13, 11:16:51](https://lobste.rs/s/spw1je/sql_json_is_here_kinda_waiting_for_pg_17) - [SQL/JSON is here! (kinda “Waiting for Pg 17”) – select * from depesz](https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/)
