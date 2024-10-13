@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 20:42:32](https://lobste.rs/s/nocr0a/inkscape_launches_version_1_4_with) - [Inkscape launches version 1.4, with powerful new accessible and customizable features](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
 * [2024-10-13, 19:56:52](https://lobste.rs/s/mjdguo/crlf_is_obsolete_should_be_abolished) - [CRLF Is Obsolete And Should Be Abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
 * [2024-10-13, 19:34:18](https://lobste.rs/s/fetpbp/greatness_limitations_js_framework) - [The greatness and limitations of the js-framework-benchmark](https://nolanlawson.com/2024/10/13/the-greatness-and-limitations-of-the-js-framework-benchmark/)
@@ -24,7 +25,6 @@
 * [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
 * [2024-10-12, 09:47:50](https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge) - [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 * [2024-10-12, 05:33:22](https://lobste.rs/s/imggoa/dictionary_single_letter_variable_names) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names)
-* [2024-10-11, 22:50:34](https://lobste.rs/s/6lccpf/every_bug_quirk_windows_resource) - [Every bug/quirk of the Windows resource compiler (rc.exe), probably](https://www.ryanliptak.com/blog/every-rc-exe-bug-quirk-probably/)
 
 ## [Archives](archives/index.md)
 
