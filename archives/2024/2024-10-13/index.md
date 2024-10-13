@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 19:34:18](https://lobste.rs/s/fetpbp/greatness_limitations_js_framework) - [The greatness and limitations of the js-framework-benchmark](https://nolanlawson.com/2024/10/13/the-greatness-and-limitations-of-the-js-framework-benchmark/)
+* [2024-10-13, 19:34:10](https://lobste.rs/s/mexykr/improve_algorithm_performance_step_by) - [Improve an algorithm performance step by step](https://blog.mapotofu.org/blogs/rabitq-bench/)
 * [2024-10-13, 18:31:17](https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every) - [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
 * [2024-10-13, 18:26:18](https://lobste.rs/s/sczz5g/curly_cue_geometric_methods_for_highly) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-13, 13:43:04](https://lobste.rs/s/ehxmm8/self_referential_variable) - [Self-referential variable initialization in C](https://microblog.ahti.space/nortti/self-referential-initialization-c/)
