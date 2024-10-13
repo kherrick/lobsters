@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-13](index.md)
 
+* [2024-10-13, 11:16:51](https://lobste.rs/s/spw1je/sql_json_is_here_kinda_waiting_for_pg_17) - [SQL/JSON is here! (kinda “Waiting for Pg 17”) – select * from depesz](https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/)
 * [2024-10-13, 09:42:17](https://lobste.rs/s/tmcmoc/confusing_misunderstood_topics_systems) - [Confusing or misunderstood topics in systems programming: Threads and async runtimes](https://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
 * [2024-10-13, 09:14:49](https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off) - [OpenBSD is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
 * [2024-10-13, 09:04:23](https://lobste.rs/s/weun6e/advanced_book_classes_packages_for_sile) - [Advanced book classes and packages for the SILE typesetting system](https://github.com/Omikhleia/resilient.sile)
