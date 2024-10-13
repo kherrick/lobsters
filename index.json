@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-13, 09:42:17",
+      "https://lobste.rs/s/tmcmoc/confusing_misunderstood_topics_systems"
+    ],
+    [
+      "Confusing or misunderstood topics in systems programming: Threads and async runtimes",
+      "https://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 09:14:49",
       "https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off"
     ],
@@ -237,16 +247,6 @@
     [
       "FFI type mismatches in Rust for Linux",
       "https://lwn.net/SubscriberLink/993163/91519b806455b8ec/"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 10:17:03",
-      "https://lobste.rs/s/tl0yuh/adapting_plan_9_s_listen_gnu_guix"
-    ],
-    [
-      "Adapting Plan 9's listen to GNU Guix",
-      "https://the-dam.org/docs/explanations/Plan9ListenOnLinux.html"
     ]
   ]
 ]
