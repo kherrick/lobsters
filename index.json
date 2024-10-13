@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-13, 02:48:51",
+      "https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from"
+    ],
+    [
+      "The optimised version of 7-Zip can't be built from source",
+      "https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/"
+    ]
+  ],
+  [
+    [
       "2024-10-13, 00:23:28",
       "https://lobste.rs/s/lbbjhd/dafny_standard_libraries"
     ],
@@ -187,16 +197,6 @@
     [
       "FFI type mismatches in Rust for Linux",
       "https://lwn.net/SubscriberLink/993163/91519b806455b8ec/"
-    ]
-  ],
-  [
-    [
-      "2024-10-11, 19:57:40",
-      "https://lobste.rs/s/kxkjgk/request_for_developer_feedback"
-    ],
-    [
-      "Request for developer feedback: customizable select",
-      "https://developer.chrome.com/blog/rfc-customizable-select"
     ]
   ],
   [
