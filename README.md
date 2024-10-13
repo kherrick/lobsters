@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-13, 13:04:36](https://lobste.rs/s/jx5une/open_source_social_media_scheduling_tool) - [Open source social media scheduling tool](https://github.com/gitroomhq/postiz-app/)
 * [2024-10-13, 11:16:51](https://lobste.rs/s/spw1je/sql_json_is_here_kinda_waiting_for_pg_17) - [SQL/JSON is here! (kinda “Waiting for Pg 17”)](https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/)
 * [2024-10-13, 09:42:17](https://lobste.rs/s/tmcmoc/confusing_misunderstood_topics_systems) - [Confusing or misunderstood topics in systems programming: Threads and async runtimes](https://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
 * [2024-10-13, 09:14:49](https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off) - [OpenBSD is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
@@ -17,7 +18,6 @@
 * [2024-10-12, 17:25:23](https://lobste.rs/s/mwnjtm/dataflow_columns_wasm_oh_my) - [Dataflow and Columns and WASM, Oh My](https://github.com/frankmcsherry/blog/blob/master/posts/2024-10-11.md)
 * [2024-10-12, 16:59:21](https://lobste.rs/s/2jlx5i/zzz_library_for_writing_performant) - [zzz: A library for writing performant and reliable networked services](https://github.com/mookums/zzz)
 * [2024-10-12, 16:37:21](https://lobste.rs/s/yubc2g/virtual_memory_assisted_buffer) - [Virtual-Memory Assisted Buffer Management](https://www.cs.cit.tum.de/fileadmin/w00cfj/dis/_my_direct_uploads/vmcache.pdf)
-* [2024-10-12, 16:29:22](https://lobste.rs/s/kxtqjt/arm_profile_architecture_developments) - [Arm A-Profile Architecture Developments 2024](https://community.arm.com/arm-community-blogs/b/architectures-and-processors-blog/posts/arm-a-profile-architecture-developments-2024)
 * [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
 * [2024-10-12, 11:20:24](https://lobste.rs/s/qfxvjs/small_experiment_async_rust) - [A Small Experiment in Async Rust](https://ochagavia.nl/blog/an-experiment-in-async-rust/)
 * [2024-10-12, 10:20:53](https://lobste.rs/s/oex1is/history_clojure_2020) - [A history of Clojure (2020)](https://dl.acm.org/doi/abs/10.1145/3386321)
