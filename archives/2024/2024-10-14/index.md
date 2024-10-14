@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 11:07:54](https://lobste.rs/s/rmlx83/minetest_rebranding_luanti) - [Minetest Rebranding to Luanti](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-14, 09:56:34](https://lobste.rs/s/huuflz/principled_ad_hoc_polymorphism_2018) - [Principled Ad-Hoc Polymorphism [2018]](https://typesanitizer.com/blog/ad-hoc-polymorphism.html)
 * [2024-10-14, 09:46:07](https://lobste.rs/s/0m2asn/rise_groupware_how_collaboration) - [The Rise of Groupware: How collaboration software came to be](https://spectrum.ieee.org/groupware)
 * [2024-10-14, 08:37:06](https://lobste.rs/s/rmbos5/large_language_models_reduce_public) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
