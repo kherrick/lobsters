@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 04:21:14](https://lobste.rs/s/kdqoel/ubuntu_will_include_latest_linux_kernel) - [Ubuntu Will Include The Latest Linux Kernel Version in Future Releases](https://news.itsfoss.com/ubuntu-latest-kernel/)
 * [2024-10-14, 02:45:40](https://lobste.rs/s/omzntj/popular_wrong_way_convert_string) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-14, 02:43:27](https://lobste.rs/s/f27g31/c_string_conversion_exploring_std_from) - [C++ String Conversion: Exploring std::from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
 * [2024-10-14, 01:18:23](https://lobste.rs/s/hgwimi/mle_bench_evaluating_machine_learning) - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
@@ -22,7 +23,6 @@
 * [2024-10-13, 02:48:51](https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-12, 21:31:07](https://lobste.rs/s/sc4jsk/exploring_typst_new_typesetting_system) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 * [2024-10-12, 18:42:49](https://lobste.rs/s/0ddvl5/1_bug_50_000_bounties_zendesk_bug) - [1 bug, $50,000+ in bounties, Zendesk bug](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
-* [2024-10-12, 17:25:53](https://lobste.rs/s/ipfrdt/road_ociv2_images_what_s_wrong_with_tar) - [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar)
 * [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
 * [2024-10-12, 09:47:50](https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge) - [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 
