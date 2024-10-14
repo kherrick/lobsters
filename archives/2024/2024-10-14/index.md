@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 18:03:31](https://lobste.rs/s/gdrukp/deriving_kelly_criterion_maximise) - [Deriving the Kelly Criterion to maximise Profits](https://obrhubr.org/kelly-criterion)
 * [2024-10-14, 17:21:07](https://lobste.rs/s/fojrle/simply_logical_intelligent_reasoning_by) - [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space/src/simply-logical.html)
 * [2024-10-14, 17:18:46](https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern) - [OpenD on iPhone/Mac/etc.: ldc gets extern(Objective-C), dmd gets pragma(linkerDirective) and @section](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_10_14.html)
 * [2024-10-14, 17:14:44](https://lobste.rs/s/nkerye/you_could_have_invented_normalization_by) - [You Could Have Invented Normalization-by-Evaluation](https://ehatti.github.io/blog/nbe.html)

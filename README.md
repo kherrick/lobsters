@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 18:03:31](https://lobste.rs/s/gdrukp/deriving_kelly_criterion_maximise) - [Deriving the Kelly Criterion to maximise Profits](https://obrhubr.org/kelly-criterion)
 * [2024-10-14, 17:21:07](https://lobste.rs/s/fojrle/simply_logical_intelligent_reasoning_by) - [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space/src/simply-logical.html)
 * [2024-10-14, 17:18:46](https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern) - [OpenD on iPhone/Mac/etc.: ldc gets extern(Objective-C), dmd gets pragma(linkerDirective) and @section](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_10_14.html)
 * [2024-10-14, 17:14:44](https://lobste.rs/s/nkerye/you_could_have_invented_normalization_by) - [You Could Have Invented Normalization-by-Evaluation](https://ehatti.github.io/blog/nbe.html)
@@ -20,7 +21,6 @@
 * [2024-10-14, 01:04:20](https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/)
 * [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 20:42:32](https://lobste.rs/s/nocr0a/inkscape_launches_version_1_4_with) - [Inkscape launches version 1.4, with powerful new accessible and customizable features](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
-* [2024-10-13, 19:34:18](https://lobste.rs/s/fetpbp/greatness_limitations_js_framework) - [The greatness and limitations of the js-framework-benchmark](https://nolanlawson.com/2024/10/13/the-greatness-and-limitations-of-the-js-framework-benchmark/)
 * [2024-10-13, 18:31:17](https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every) - [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
 * [2024-10-13, 18:26:18](https://lobste.rs/s/sczz5g/curly_cue_geometric_methods_for_highly) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-13, 13:43:04](https://lobste.rs/s/ehxmm8/self_referential_variable) - [Self-referential variable initialization in C](https://microblog.ahti.space/nortti/self-referential-initialization-c/)
