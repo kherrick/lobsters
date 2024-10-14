@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 07:12:55](https://lobste.rs/s/0axmhu/tragedy_common_lisp_why_large_languages) - [The Tragedy of the Common Lisp: Why Large Languages Explode (2015)](https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
 * [2024-10-14, 06:13:14](https://lobste.rs/s/sertwz/eyg_predictable_useful_programming) - [EYG a predictable, and useful, programming language at func prog sweden](https://www.youtube.com/watch?v=dh3sdHWQ2Ms)
 * [2024-10-14, 05:47:15](https://lobste.rs/s/m4j2ow/how_not_run_saas_company) - [how not to run a sAAs company](https://dgerrells.com/blog/how-not-to-run-a-saas-company)
 * [2024-10-14, 05:08:02](https://lobste.rs/s/2nyigo/building_hundred_year_web_service_with) - [Building the hundred-year web service with htmx](https://youtu.be/lASLZ9TgXyc)
@@ -19,7 +20,6 @@
 * [2024-10-13, 09:14:49](https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off) - [OpenBSD is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
 * [2024-10-13, 09:04:23](https://lobste.rs/s/weun6e/advanced_book_classes_packages_for_sile) - [Advanced book classes and packages for the SILE typesetting system](https://github.com/Omikhleia/resilient.sile)
 * [2024-10-13, 08:07:45](https://lobste.rs/s/r1wrt6/replacing_nginx_with_axum) - [Replacing nginx with axum](https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html)
-* [2024-10-13, 06:51:12](https://lobste.rs/s/twwazh/acf_6_3_8_security_release) - [ACF 6.3.8 Security Release](https://www.advancedcustomfields.com/blog/acf-6-3-8-security-release/)
 * [2024-10-13, 04:23:54](https://lobste.rs/s/nniiar/can_logic_programming_be_liberated_from) - [Can Logic Programming Be Liberated from Predicates and Backtracking?](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
 * [2024-10-13, 02:48:51](https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-12, 21:31:07](https://lobste.rs/s/sc4jsk/exploring_typst_new_typesetting_system) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
