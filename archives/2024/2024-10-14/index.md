@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 09:46:07](https://lobste.rs/s/0m2asn/rise_groupware_how_collaboration) - [The Rise of Groupware: How collaboration software came to be](https://spectrum.ieee.org/groupware)
 * [2024-10-14, 08:37:06](https://lobste.rs/s/rmbos5/large_language_models_reduce_public) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
 * [2024-10-14, 08:36:27](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week)
 * [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
