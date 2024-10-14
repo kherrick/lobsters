@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 05:08:02](https://lobste.rs/s/2nyigo/building_hundred_year_web_service_with) - [Building the hundred-year web service with htmx](https://youtu.be/lASLZ9TgXyc)
 * [2024-10-14, 04:21:14](https://lobste.rs/s/kdqoel/ubuntu_will_include_latest_linux_kernel) - [Ubuntu Will Include The Latest Linux Kernel Version in Future Releases](https://news.itsfoss.com/ubuntu-latest-kernel/)
 * [2024-10-14, 02:45:40](https://lobste.rs/s/omzntj/popular_wrong_way_convert_string) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-14, 02:43:27](https://lobste.rs/s/f27g31/c_string_conversion_exploring_std_from) - [C++ String Conversion: Exploring std::from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
@@ -14,7 +15,6 @@
 * [2024-10-13, 18:26:18](https://lobste.rs/s/sczz5g/curly_cue_geometric_methods_for_highly) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
 * [2024-10-13, 13:43:04](https://lobste.rs/s/ehxmm8/self_referential_variable) - [Self-referential variable initialization in C](https://microblog.ahti.space/nortti/self-referential-initialization-c/)
 * [2024-10-13, 11:16:51](https://lobste.rs/s/spw1je/sql_json_is_here_kinda_waiting_for_pg_17) - [SQL/JSON is here! (kinda “Waiting for Pg 17”)](https://www.depesz.com/2024/10/11/sql-json-is-here-kinda-waiting-for-pg-17/)
-* [2024-10-13, 09:42:17](https://lobste.rs/s/tmcmoc/confusing_misunderstood_topics_systems) - [Confusing or misunderstood topics in systems programming: Threads and async runtimes](https://pthorpe92.dev/programming/systems/threads-async-runtimes-part0/)
 * [2024-10-13, 09:14:49](https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off) - [OpenBSD is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
 * [2024-10-13, 09:04:23](https://lobste.rs/s/weun6e/advanced_book_classes_packages_for_sile) - [Advanced book classes and packages for the SILE typesetting system](https://github.com/Omikhleia/resilient.sile)
 * [2024-10-13, 08:07:45](https://lobste.rs/s/r1wrt6/replacing_nginx_with_axum) - [Replacing nginx with axum](https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html)
