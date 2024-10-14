@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-14, 17:18:46",
+      "https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern"
+    ],
+    [
+      "OpenD on iPhone/Mac/etc.: ldc gets extern(Objective-C), dmd gets pragma(linkerDirective) and @section",
+      "https://dpldocs.info/this-week-in-d/Blog.Posted_2024_10_14.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 17:14:44",
+      "https://lobste.rs/s/nkerye/you_could_have_invented_normalization_by"
+    ],
+    [
+      "You Could Have Invented Normalization-by-Evaluation",
+      "https://ehatti.github.io/blog/nbe.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 17:07:02",
+      "https://lobste.rs/s/eerbtg/fjall_lsm_based_embeddable_key_value"
+    ],
+    [
+      "fjall: LSM-based embeddable key-value storage engine written in safe Rust",
+      "https://github.com/fjall-rs/fjall"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 16:40:05",
       "https://lobste.rs/s/k9kywa/text_overflow_ellipsis_considered"
     ],
@@ -57,16 +87,6 @@
     [
       "Minetest Rebranding to Luanti",
       "https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 09:56:34",
-      "https://lobste.rs/s/huuflz/principled_ad_hoc_polymorphism_2018"
-    ],
-    [
-      "Principled Ad-Hoc Polymorphism [2018]",
-      "https://typesanitizer.com/blog/ad-hoc-polymorphism.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "OpenBSD is Hard to Show Off",
       "https://atthis.link/blog/2024/16379.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 08:07:45",
-      "https://lobste.rs/s/r1wrt6/replacing_nginx_with_axum"
-    ],
-    [
-      "Replacing nginx with axum",
-      "https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 02:48:51",
-      "https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from"
-    ],
-    [
-      "The optimised version of 7-Zip can't be built from source",
-      "https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/"
     ]
   ]
 ]
