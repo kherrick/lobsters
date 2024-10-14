@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 09:56:34](https://lobste.rs/s/huuflz/principled_ad_hoc_polymorphism_2018) - [Principled Ad-Hoc Polymorphism [2018]](https://typesanitizer.com/blog/ad-hoc-polymorphism.html)
 * [2024-10-14, 09:46:07](https://lobste.rs/s/0m2asn/rise_groupware_how_collaboration) - [The Rise of Groupware: How collaboration software came to be](https://spectrum.ieee.org/groupware)
 * [2024-10-14, 08:37:06](https://lobste.rs/s/rmbos5/large_language_models_reduce_public) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
 * [2024-10-14, 08:36:27](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week)
@@ -23,7 +24,6 @@
 * [2024-10-13, 09:04:23](https://lobste.rs/s/weun6e/advanced_book_classes_packages_for_sile) - [Advanced book classes and packages for the SILE typesetting system](https://github.com/Omikhleia/resilient.sile)
 * [2024-10-13, 08:07:45](https://lobste.rs/s/r1wrt6/replacing_nginx_with_axum) - [Replacing nginx with axum](https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html)
 * [2024-10-13, 02:48:51](https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
-* [2024-10-12, 21:31:07](https://lobste.rs/s/sc4jsk/exploring_typst_new_typesetting_system) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 * [2024-10-12, 18:42:49](https://lobste.rs/s/0ddvl5/1_bug_50_000_bounties_zendesk_bug) - [1 bug, $50,000+ in bounties, Zendesk bug](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 
 ## [Archives](archives/index.md)
