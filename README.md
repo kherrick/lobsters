@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 21:42:58](https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic) - [Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve](https://freebsdfoundation.org/antithesis-pioneering-deterministic-hypervisors-with-freebsd-and-bhyve/)
 * [2024-10-14, 21:29:45](https://lobste.rs/s/jmnzby/overwrite_trait_pin) - [The `Overwrite` trait and `Pin`](https://smallcultfollowing.com/babysteps/blog/2024/10/14/overwrite-and-pin/)
 * [2024-10-14, 21:22:40](https://lobste.rs/s/hlzin2/ward_christensen_bbs_inventor_architect) - [Ward Christensen, BBS inventor and architect of our online age, dies at age 78](https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/)
 * [2024-10-14, 19:57:41](https://lobste.rs/s/xaudjm/moving_llvm_ir) - [Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
@@ -24,7 +25,6 @@
 * [2024-10-14, 02:45:40](https://lobste.rs/s/omzntj/popular_wrong_way_convert_string) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-14, 01:04:20](https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/)
 * [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
-* [2024-10-13, 18:31:17](https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every) - [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
 
 ## [Archives](archives/index.md)
 
