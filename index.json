@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-14, 16:40:05",
+      "https://lobste.rs/s/k9kywa/text_overflow_ellipsis_considered"
+    ],
+    [
+      "Text-overflow: Ellipsis Considered Harmful",
+      "https://css-tricks.com/text-overflow-ellipsis-considered-harmful/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 13:55:57",
       "https://lobste.rs/s/p5168f/boring_tech_is_stifling_improvement"
     ],
@@ -167,16 +177,6 @@
     [
       "Inkscape launches version 1.4, with powerful new accessible and customizable features",
       "https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 19:56:52",
-      "https://lobste.rs/s/mjdguo/crlf_is_obsolete_should_be_abolished"
-    ],
-    [
-      "CRLF Is Obsolete And Should Be Abolished",
-      "https://fossil-scm.org/home/ext/crlf-harmful.md"
     ]
   ],
   [
