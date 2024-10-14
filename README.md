@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
 * [2024-10-14, 07:12:55](https://lobste.rs/s/0axmhu/tragedy_common_lisp_why_large_languages) - [The Tragedy of the Common Lisp: Why Large Languages Explode (2015)](https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
 * [2024-10-14, 06:13:14](https://lobste.rs/s/sertwz/eyg_predictable_useful_programming) - [EYG a predictable, and useful, programming language at func prog sweden](https://www.youtube.com/watch?v=dh3sdHWQ2Ms)
 * [2024-10-14, 05:47:15](https://lobste.rs/s/m4j2ow/how_not_run_saas_company) - [how not to run a sAAs company](https://dgerrells.com/blog/how-not-to-run-a-saas-company)
@@ -7,7 +8,6 @@
 * [2024-10-14, 04:21:14](https://lobste.rs/s/kdqoel/ubuntu_will_include_latest_linux_kernel) - [Ubuntu Will Include The Latest Linux Kernel Version in Future Releases](https://news.itsfoss.com/ubuntu-latest-kernel/)
 * [2024-10-14, 02:45:40](https://lobste.rs/s/omzntj/popular_wrong_way_convert_string) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-14, 02:43:27](https://lobste.rs/s/f27g31/c_string_conversion_exploring_std_from) - [C++ String Conversion: Exploring std::from_chars in C++17 to C++26](https://www.cppstories.com/2018/12/fromchars/)
-* [2024-10-14, 01:18:23](https://lobste.rs/s/hgwimi/mle_bench_evaluating_machine_learning) - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
 * [2024-10-14, 01:04:20](https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/)
 * [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 20:42:32](https://lobste.rs/s/nocr0a/inkscape_launches_version_1_4_with) - [Inkscape launches version 1.4, with powerful new accessible and customizable features](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)

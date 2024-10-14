@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
 * [2024-10-14, 07:12:55](https://lobste.rs/s/0axmhu/tragedy_common_lisp_why_large_languages) - [The Tragedy of the Common Lisp: Why Large Languages Explode (2015)](https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
 * [2024-10-14, 06:13:14](https://lobste.rs/s/sertwz/eyg_predictable_useful_programming) - [EYG a predictable, and useful, programming language at func prog sweden](https://www.youtube.com/watch?v=dh3sdHWQ2Ms)
 * [2024-10-14, 05:47:15](https://lobste.rs/s/m4j2ow/how_not_run_saas_company) - [how not to run a sAAs company](https://dgerrells.com/blog/how-not-to-run-a-saas-company)
