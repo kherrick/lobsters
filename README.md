@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 01:18:23](https://lobste.rs/s/hgwimi/mle_bench_evaluating_machine_learning) - [MLE-bench: Evaluating Machine Learning Agents on Machine Learning Engineering](https://arxiv.org/abs/2410.07095)
+* [2024-10-14, 01:04:20](https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/)
 * [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 20:42:32](https://lobste.rs/s/nocr0a/inkscape_launches_version_1_4_with) - [Inkscape launches version 1.4, with powerful new accessible and customizable features](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
 * [2024-10-13, 19:56:52](https://lobste.rs/s/mjdguo/crlf_is_obsolete_should_be_abolished) - [CRLF Is Obsolete And Should Be Abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
@@ -18,10 +20,8 @@
 * [2024-10-13, 02:48:51](https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-13, 00:23:28](https://lobste.rs/s/lbbjhd/dafny_standard_libraries) - [Dafny Standard Libraries](https://dafny.org/blog/2023/12/20/standard-libraries/)
 * [2024-10-12, 21:31:07](https://lobste.rs/s/sc4jsk/exploring_typst_new_typesetting_system) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
-* [2024-10-12, 19:05:38](https://lobste.rs/s/pycn69/are_mathjax_katex_competitors) - [Are MathJax and KaTeX competitors?](https://groups.google.com/g/mathjax-users/c/aboJLMb50uQ/m/Y77FexF_AwAJ)
 * [2024-10-12, 18:42:49](https://lobste.rs/s/0ddvl5/1_bug_50_000_bounties_zendesk_bug) - [1 bug, $50,000+ in bounties, Zendesk bug](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
 * [2024-10-12, 17:25:53](https://lobste.rs/s/ipfrdt/road_ociv2_images_what_s_wrong_with_tar) - [The Road to OCIv2 Images: What's Wrong with Tar? (2019)](https://www.cyphar.com/blog/post/20190121-ociv2-images-i-tar)
-* [2024-10-12, 16:59:21](https://lobste.rs/s/2jlx5i/zzz_library_for_writing_performant) - [zzz: A library for writing performant and reliable networked services](https://github.com/mookums/zzz)
 * [2024-10-12, 14:52:48](https://lobste.rs/s/hl1j6e/how_i_animate_3blue1brown_manim_demo) - [How I animate 3Blue1Brown: a Manim demo](https://youtu.be/rbu7Zu5X1zI)
 * [2024-10-12, 09:47:50](https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge) - [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 * [2024-10-12, 05:33:22](https://lobste.rs/s/imggoa/dictionary_single_letter_variable_names) - [A Dictionary of Single-Letter Variable Names](http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names)
