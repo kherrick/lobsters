@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 21:29:45](https://lobste.rs/s/jmnzby/overwrite_trait_pin) - [The `Overwrite` trait and `Pin`](https://smallcultfollowing.com/babysteps/blog/2024/10/14/overwrite-and-pin/)
+* [2024-10-14, 21:22:40](https://lobste.rs/s/hlzin2/ward_christensen_bbs_inventor_architect) - [Ward Christensen, BBS inventor and architect of our online age, dies at age 78](https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/)
 * [2024-10-14, 19:57:41](https://lobste.rs/s/xaudjm/moving_llvm_ir) - [Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
 * [2024-10-14, 19:13:07](https://lobste.rs/s/fmdgux/uncertain_art_accelerating_ml_models) - [The Uncertain Art of Accelerating ML Models](https://signalsandthreads.com/the-uncertain-art-of-accelerating-ml-models/)
 * [2024-10-14, 18:44:58](https://lobste.rs/s/pjyog2/vortex_toolkit_for_working_with) - [vortex: A toolkit for working with compressed Arrow in-memory, on-disk, and over-the-wire. \"The LLVM of file formats\"](https://github.com/spiraldb/vortex)
