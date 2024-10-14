@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 16:40:05](https://lobste.rs/s/k9kywa/text_overflow_ellipsis_considered) - [Text-overflow: Ellipsis Considered Harmful](https://css-tricks.com/text-overflow-ellipsis-considered-harmful/)
 * [2024-10-14, 13:55:57](https://lobste.rs/s/p5168f/boring_tech_is_stifling_improvement) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 * [2024-10-14, 13:38:12](https://lobste.rs/s/r5rfbq/upgrading_uber_s_mysql_fleet_version_8_0) - [Upgrading Uber’s MySQL Fleet  to version 8.0](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
 * [2024-10-14, 13:16:03](https://lobste.rs/s/upeihi/ffmpeg_explorer_2023) - [FFmpeg Explorer (2023)](https://lav.io/notes/ffmpeg-explorer/)
@@ -17,7 +18,6 @@
 * [2024-10-14, 01:04:20](https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/)
 * [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 20:42:32](https://lobste.rs/s/nocr0a/inkscape_launches_version_1_4_with) - [Inkscape launches version 1.4, with powerful new accessible and customizable features](https://inkscape.org/news/2024/10/13/inkscape-launches-version-14-powerful-new-accessib/)
-* [2024-10-13, 19:56:52](https://lobste.rs/s/mjdguo/crlf_is_obsolete_should_be_abolished) - [CRLF Is Obsolete And Should Be Abolished](https://fossil-scm.org/home/ext/crlf-harmful.md)
 * [2024-10-13, 19:34:18](https://lobste.rs/s/fetpbp/greatness_limitations_js_framework) - [The greatness and limitations of the js-framework-benchmark](https://nolanlawson.com/2024/10/13/the-greatness-and-limitations-of-the-js-framework-benchmark/)
 * [2024-10-13, 18:31:17](https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every) - [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
 * [2024-10-13, 18:26:18](https://lobste.rs/s/sczz5g/curly_cue_geometric_methods_for_highly) - [Curly-Cue: Geometric Methods for Highly Coiled Hair](https://www.cs.yale.edu/homes/wu-haomiao/publication/curlyCue.html)
