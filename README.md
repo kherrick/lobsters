@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 13:55:57](https://lobste.rs/s/p5168f/boring_tech_is_stifling_improvement) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 * [2024-10-14, 13:38:12](https://lobste.rs/s/r5rfbq/upgrading_uber_s_mysql_fleet_version_8_0) - [Upgrading Uber’s MySQL Fleet  to version 8.0](https://www.uber.com/en-JO/blog/upgrading-ubers-mysql-fleet/)
 * [2024-10-14, 13:16:03](https://lobste.rs/s/upeihi/ffmpeg_explorer_2023) - [FFmpeg Explorer (2023)](https://lav.io/notes/ffmpeg-explorer/)
 * [2024-10-14, 13:05:56](https://lobste.rs/s/1roeql/stallman_report) - [The Stallman Report](https://stallman-report.org/)
@@ -9,7 +10,6 @@
 * [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
 * [2024-10-14, 07:12:55](https://lobste.rs/s/0axmhu/tragedy_common_lisp_why_large_languages) - [The Tragedy of the Common Lisp: Why Large Languages Explode (2015)](https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
 * [2024-10-14, 06:13:14](https://lobste.rs/s/sertwz/eyg_predictable_useful_programming) - [EYG a predictable, and useful, programming language at func prog sweden](https://www.youtube.com/watch?v=dh3sdHWQ2Ms)
-* [2024-10-14, 05:47:15](https://lobste.rs/s/m4j2ow/how_not_run_saas_company) - [how not to run a sAAs company](https://dgerrells.com/blog/how-not-to-run-a-saas-company)
 * [2024-10-14, 05:08:02](https://lobste.rs/s/2nyigo/building_hundred_year_web_service_with) - [Building the hundred-year web service with htmx](https://youtu.be/lASLZ9TgXyc)
 * [2024-10-14, 04:21:14](https://lobste.rs/s/kdqoel/ubuntu_will_include_latest_linux_kernel) - [Ubuntu Will Include The Latest Linux Kernel Version in Future Releases](https://news.itsfoss.com/ubuntu-latest-kernel/)
 * [2024-10-14, 02:45:40](https://lobste.rs/s/omzntj/popular_wrong_way_convert_string) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
