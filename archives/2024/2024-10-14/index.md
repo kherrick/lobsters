@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 19:13:07](https://lobste.rs/s/fmdgux/uncertain_art_accelerating_ml_models) - [The Uncertain Art of Accelerating ML Models](https://signalsandthreads.com/the-uncertain-art-of-accelerating-ml-models/)
 * [2024-10-14, 18:44:58](https://lobste.rs/s/pjyog2/vortex_toolkit_for_working_with) - [vortex: A toolkit for working with compressed Arrow in-memory, on-disk, and over-the-wire. \"The LLVM of file formats\"](https://github.com/spiraldb/vortex)
 * [2024-10-14, 18:13:32](https://lobste.rs/s/hxqnbw/response_dhh) - [Response to DHH](https://ma.tt/2024/10/on-dhh/)
 * [2024-10-14, 18:03:31](https://lobste.rs/s/gdrukp/deriving_kelly_criterion_maximise) - [Deriving the Kelly Criterion to maximise Profits](https://obrhubr.org/kelly-criterion)
