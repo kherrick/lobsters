@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-14, 21:22:40",
-      "https://lobste.rs/s/hlzin2/ward_christensen_bbs_inventor_architect"
-    ],
-    [
-      "Ward Christensen, BBS inventor and architect of our online age, dies at age 78",
-      "https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 19:57:41",
       "https://lobste.rs/s/xaudjm/moving_llvm_ir"
     ],
@@ -61,6 +51,16 @@
   ],
   [
     [
+      "2024-10-14, 17:21:07",
+      "https://lobste.rs/s/fojrle/simply_logical_intelligent_reasoning_by"
+    ],
+    [
+      "Simply Logical: Intelligent Reasoning by Example",
+      "https://book.simply-logical.space/src/simply-logical.html"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 17:18:46",
       "https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern"
     ],
@@ -77,6 +77,16 @@
     [
       "You Could Have Invented Normalization-by-Evaluation",
       "https://ehatti.github.io/blog/nbe.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 17:07:02",
+      "https://lobste.rs/s/eerbtg/fjall_lsm_based_embeddable_key_value"
+    ],
+    [
+      "fjall: LSM-based embeddable key-value storage engine written in safe Rust",
+      "https://github.com/fjall-rs/fjall"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Zero-latency SQLite storage in every Durable Object",
       "https://blog.cloudflare.com/sqlite-in-durable-objects/"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 13:43:04",
-      "https://lobste.rs/s/ehxmm8/self_referential_variable"
-    ],
-    [
-      "Self-referential variable initialization in C",
-      "https://microblog.ahti.space/nortti/self-referential-initialization-c/"
     ]
   ]
 ]
