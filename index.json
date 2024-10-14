@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-10-14, 17:07:02",
+      "https://lobste.rs/s/eerbtg/fjall_lsm_based_embeddable_key_value"
+    ],
+    [
+      "fjall: LSM-based embeddable key-value storage engine written in safe Rust",
+      "https://github.com/fjall-rs/fjall"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 16:40:05",
       "https://lobste.rs/s/k9kywa/text_overflow_ellipsis_considered"
     ],
@@ -237,16 +247,6 @@
     [
       "Self-referential variable initialization in C",
       "https://microblog.ahti.space/nortti/self-referential-initialization-c/"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 09:14:49",
-      "https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off"
-    ],
-    [
-      "OpenBSD is Hard to Show Off",
-      "https://atthis.link/blog/2024/16379.html"
     ]
   ]
 ]
