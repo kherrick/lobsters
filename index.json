@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-14, 08:37:06",
+      "https://lobste.rs/s/rmbos5/large_language_models_reduce_public"
+    ],
+    [
+      "Large language models reduce public knowledge sharing on online Q&A platforms",
+      "https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 08:36:27",
+      "https://lobste.rs/s/efkk2t/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/efkk2t/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 07:47:31",
       "https://lobste.rs/s/ngthwk/trust_rules_everything_around_me"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-10-13, 04:23:54",
-      "https://lobste.rs/s/nniiar/can_logic_programming_be_liberated_from"
-    ],
-    [
-      "Can Logic Programming Be Liberated from Predicates and Backtracking?",
-      "https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf"
-    ]
-  ],
-  [
-    [
       "2024-10-13, 02:48:51",
       "https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from"
     ],
@@ -237,16 +247,6 @@
     [
       "1 bug, $50,000+ in bounties, Zendesk bug",
       "https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 09:47:50",
-      "https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge"
-    ],
-    [
-      "LLMs don’t do formal reasoning - and that is a HUGE problem",
-      "https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and"
     ]
   ]
 ]
