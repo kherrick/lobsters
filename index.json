@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-14, 18:13:32",
-      "https://lobste.rs/s/hxqnbw/response_dhh"
+      "2024-10-14, 18:44:58",
+      "https://lobste.rs/s/pjyog2/vortex_toolkit_for_working_with"
     ],
     [
-      "Response to DHH",
-      "https://ma.tt/2024/10/on-dhh/"
+      "vortex: A toolkit for working with compressed Arrow in-memory, on-disk, and over-the-wire. \"The LLVM of file formats\"",
+      "https://github.com/spiraldb/vortex"
     ]
   ],
   [
