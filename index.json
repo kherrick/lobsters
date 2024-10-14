@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-14, 21:42:58",
+      "https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic"
+    ],
+    [
+      "Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve",
+      "https://freebsdfoundation.org/antithesis-pioneering-deterministic-hypervisors-with-freebsd-and-bhyve/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 21:29:45",
       "https://lobste.rs/s/jmnzby/overwrite_trait_pin"
     ],
@@ -237,16 +247,6 @@
     [
       "Refurb weekend: the Symbolics MacIvory Lisp machine I have hated",
       "https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 18:31:17",
-      "https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every"
-    ],
-    [
-      "Zero-latency SQLite storage in every Durable Object",
-      "https://blog.cloudflare.com/sqlite-in-durable-objects/"
     ]
   ]
 ]
