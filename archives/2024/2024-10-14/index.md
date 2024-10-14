@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 13:16:03](https://lobste.rs/s/upeihi/ffmpeg_explorer_2023) - [FFmpeg Explorer (2023)](https://lav.io/notes/ffmpeg-explorer/)
+* [2024-10-14, 13:05:56](https://lobste.rs/s/1roeql/stallman_report) - [The Stallman Report](https://stallman-report.org/)
 * [2024-10-14, 11:07:54](https://lobste.rs/s/rmlx83/minetest_rebranding_luanti) - [Minetest Rebranding to Luanti](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-14, 09:56:34](https://lobste.rs/s/huuflz/principled_ad_hoc_polymorphism_2018) - [Principled Ad-Hoc Polymorphism [2018]](https://typesanitizer.com/blog/ad-hoc-polymorphism.html)
 * [2024-10-14, 09:46:07](https://lobste.rs/s/0m2asn/rise_groupware_how_collaboration) - [The Rise of Groupware: How collaboration software came to be](https://spectrum.ieee.org/groupware)
