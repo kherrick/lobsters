@@ -7,6 +7,7 @@
 * [2024-10-14, 17:21:07](https://lobste.rs/s/fojrle/simply_logical_intelligent_reasoning_by) - [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space/src/simply-logical.html)
 * [2024-10-14, 17:18:46](https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern) - [OpenD on iPhone/Mac/etc.: ldc gets extern(Objective-C), dmd gets pragma(linkerDirective) and @section](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_10_14.html)
 * [2024-10-14, 17:14:44](https://lobste.rs/s/nkerye/you_could_have_invented_normalization_by) - [You Could Have Invented Normalization-by-Evaluation](https://ehatti.github.io/blog/nbe.html)
+* [2024-10-14, 17:07:02](https://lobste.rs/s/eerbtg/fjall_lsm_based_embeddable_key_value) - [fjall: LSM-based embeddable key-value storage engine written in safe Rust](https://github.com/fjall-rs/fjall)
 * [2024-10-14, 16:40:05](https://lobste.rs/s/k9kywa/text_overflow_ellipsis_considered) - [Text-overflow: Ellipsis Considered Harmful (2022)](https://css-tricks.com/text-overflow-ellipsis-considered-harmful/)
 * [2024-10-14, 13:55:57](https://lobste.rs/s/p5168f/boring_tech_is_stifling_improvement) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 * [2024-10-14, 13:16:03](https://lobste.rs/s/upeihi/ffmpeg_explorer_2023) - [FFmpeg Explorer (2023)](https://lav.io/notes/ffmpeg-explorer/)
@@ -24,7 +25,6 @@
 * [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 * [2024-10-13, 18:31:17](https://lobste.rs/s/kjx2vk/zero_latency_sqlite_storage_every) - [Zero-latency SQLite storage in every Durable Object](https://blog.cloudflare.com/sqlite-in-durable-objects/)
 * [2024-10-13, 13:43:04](https://lobste.rs/s/ehxmm8/self_referential_variable) - [Self-referential variable initialization in C](https://microblog.ahti.space/nortti/self-referential-initialization-c/)
-* [2024-10-13, 09:14:49](https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off) - [OpenBSD is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
 
 ## [Archives](archives/index.md)
 
