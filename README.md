@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 19:57:41](https://lobste.rs/s/xaudjm/moving_llvm_ir) - [Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
 * [2024-10-14, 19:13:07](https://lobste.rs/s/fmdgux/uncertain_art_accelerating_ml_models) - [The Uncertain Art of Accelerating ML Models](https://signalsandthreads.com/the-uncertain-art-of-accelerating-ml-models/)
 * [2024-10-14, 18:44:58](https://lobste.rs/s/pjyog2/vortex_toolkit_for_working_with) - [vortex: A toolkit for working with compressed Arrow in-memory, on-disk, and over-the-wire. \"The LLVM of file formats\"](https://github.com/spiraldb/vortex)
 * [2024-10-14, 18:03:31](https://lobste.rs/s/gdrukp/deriving_kelly_criterion_maximise) - [Deriving the Kelly Criterion to maximise Profits](https://obrhubr.org/kelly-criterion)
-* [2024-10-14, 17:21:07](https://lobste.rs/s/fojrle/simply_logical_intelligent_reasoning_by) - [Simply Logical: Intelligent Reasoning by Example](https://book.simply-logical.space/src/simply-logical.html)
 * [2024-10-14, 17:18:46](https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern) - [OpenD on iPhone/Mac/etc.: ldc gets extern(Objective-C), dmd gets pragma(linkerDirective) and @section](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_10_14.html)
 * [2024-10-14, 17:14:44](https://lobste.rs/s/nkerye/you_could_have_invented_normalization_by) - [You Could Have Invented Normalization-by-Evaluation](https://ehatti.github.io/blog/nbe.html)
 * [2024-10-14, 16:40:05](https://lobste.rs/s/k9kywa/text_overflow_ellipsis_considered) - [Text-overflow: Ellipsis Considered Harmful (2022)](https://css-tricks.com/text-overflow-ellipsis-considered-harmful/)
