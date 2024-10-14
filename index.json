@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-14, 17:21:07",
+      "https://lobste.rs/s/fojrle/simply_logical_intelligent_reasoning_by"
+    ],
+    [
+      "Simply Logical: Intelligent Reasoning by Example",
+      "https://book.simply-logical.space/src/simply-logical.html"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 17:18:46",
       "https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern"
     ],
@@ -17,16 +27,6 @@
     [
       "You Could Have Invented Normalization-by-Evaluation",
       "https://ehatti.github.io/blog/nbe.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 17:07:02",
-      "https://lobste.rs/s/eerbtg/fjall_lsm_based_embeddable_key_value"
-    ],
-    [
-      "fjall: LSM-based embeddable key-value storage engine written in safe Rust",
-      "https://github.com/fjall-rs/fjall"
     ]
   ],
   [
