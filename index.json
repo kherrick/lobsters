@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-14, 02:45:40",
+      "https://lobste.rs/s/omzntj/popular_wrong_way_convert_string"
+    ],
+    [
+      "A popular but wrong way to convert a string to uppercase or lowercase",
+      "https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 02:43:27",
+      "https://lobste.rs/s/f27g31/c_string_conversion_exploring_std_from"
+    ],
+    [
+      "C++ String Conversion: Exploring std::from_chars in C++17 to C++26",
+      "https://www.cppstories.com/2018/12/fromchars/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 01:18:23",
       "https://lobste.rs/s/hgwimi/mle_bench_evaluating_machine_learning"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-10-13, 00:23:28",
-      "https://lobste.rs/s/lbbjhd/dafny_standard_libraries"
-    ],
-    [
-      "Dafny Standard Libraries",
-      "https://dafny.org/blog/2023/12/20/standard-libraries/"
-    ]
-  ],
-  [
-    [
       "2024-10-12, 21:31:07",
       "https://lobste.rs/s/sc4jsk/exploring_typst_new_typesetting_system"
     ],
@@ -237,16 +247,6 @@
     [
       "LLMs don’t do formal reasoning - and that is a HUGE problem",
       "https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and"
-    ]
-  ],
-  [
-    [
-      "2024-10-12, 05:33:22",
-      "https://lobste.rs/s/imggoa/dictionary_single_letter_variable_names"
-    ],
-    [
-      "A Dictionary of Single-Letter Variable Names",
-      "http://jackkelly.name/blog/archives/2024/10/12/a_dictionary_of_single-letter_variable_names"
     ]
   ]
 ]
