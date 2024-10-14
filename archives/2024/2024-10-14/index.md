@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-14](index.md)
 
+* [2024-10-14, 05:47:15](https://lobste.rs/s/m4j2ow/how_not_run_saas_company) - [how not to run a sAAs company](https://dgerrells.com/blog/how-not-to-run-a-saas-company)
 * [2024-10-14, 05:08:02](https://lobste.rs/s/2nyigo/building_hundred_year_web_service_with) - [Building the hundred-year web service with htmx](https://youtu.be/lASLZ9TgXyc)
 * [2024-10-14, 04:21:14](https://lobste.rs/s/kdqoel/ubuntu_will_include_latest_linux_kernel) - [Ubuntu Will Include The Latest Linux Kernel Version in Future Releases](https://news.itsfoss.com/ubuntu-latest-kernel/)
 * [2024-10-14, 02:45:40](https://lobste.rs/s/omzntj/popular_wrong_way_convert_string) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
