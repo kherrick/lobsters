@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-14, 08:37:06](https://lobste.rs/s/rmbos5/large_language_models_reduce_public) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
+* [2024-10-14, 08:36:27](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week)
 * [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
 * [2024-10-14, 07:12:55](https://lobste.rs/s/0axmhu/tragedy_common_lisp_why_large_languages) - [The Tragedy of the Common Lisp: Why Large Languages Explode (2015)](https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
 * [2024-10-14, 06:13:14](https://lobste.rs/s/sertwz/eyg_predictable_useful_programming) - [EYG a predictable, and useful, programming language at func prog sweden](https://www.youtube.com/watch?v=dh3sdHWQ2Ms)
@@ -20,11 +22,9 @@
 * [2024-10-13, 09:14:49](https://lobste.rs/s/xlmxpb/openbsd_is_hard_show_off) - [OpenBSD is Hard to Show Off](https://atthis.link/blog/2024/16379.html)
 * [2024-10-13, 09:04:23](https://lobste.rs/s/weun6e/advanced_book_classes_packages_for_sile) - [Advanced book classes and packages for the SILE typesetting system](https://github.com/Omikhleia/resilient.sile)
 * [2024-10-13, 08:07:45](https://lobste.rs/s/r1wrt6/replacing_nginx_with_axum) - [Replacing nginx with axum](https://felix-knorr.net/posts/2024-10-13-replacing-nginx-with-axum.html)
-* [2024-10-13, 04:23:54](https://lobste.rs/s/nniiar/can_logic_programming_be_liberated_from) - [Can Logic Programming Be Liberated from Predicates and Backtracking?](https://www-ps.informatik.uni-kiel.de/~mh/papers/WLP24.pdf)
 * [2024-10-13, 02:48:51](https://lobste.rs/s/ld2ldb/optimised_version_7_zip_can_t_be_built_from) - [The optimised version of 7-Zip can't be built from source](https://pileofhacks.dev/post/the-optimised-version-of-7-zip-cant-be-built-from-source/)
 * [2024-10-12, 21:31:07](https://lobste.rs/s/sc4jsk/exploring_typst_new_typesetting_system) - [Exploring Typst, a new typesetting system similar to LaTeX](https://blog.jreyesr.com/posts/typst/)
 * [2024-10-12, 18:42:49](https://lobste.rs/s/0ddvl5/1_bug_50_000_bounties_zendesk_bug) - [1 bug, $50,000+ in bounties, Zendesk bug](https://gist.github.com/hackermondev/68ec8ed145fcee49d2f5e2b9d2cf2e52)
-* [2024-10-12, 09:47:50](https://lobste.rs/s/qcppwf/llms_don_t_do_formal_reasoning_is_huge) - [LLMs don’t do formal reasoning - and that is a HUGE problem](https://garymarcus.substack.com/p/llms-dont-do-formal-reasoning-and)
 
 ## [Archives](archives/index.md)
 
