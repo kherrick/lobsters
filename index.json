@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-14, 13:16:03",
+      "https://lobste.rs/s/upeihi/ffmpeg_explorer_2023"
+    ],
+    [
+      "FFmpeg Explorer (2023)",
+      "https://lav.io/notes/ffmpeg-explorer/"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 13:05:56",
+      "https://lobste.rs/s/1roeql/stallman_report"
+    ],
+    [
+      "The Stallman Report",
+      "https://stallman-report.org/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 11:07:54",
       "https://lobste.rs/s/rmlx83/minetest_rebranding_luanti"
     ],
@@ -17,16 +37,6 @@
     [
       "Principled Ad-Hoc Polymorphism [2018]",
       "https://typesanitizer.com/blog/ad-hoc-polymorphism.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 09:46:07",
-      "https://lobste.rs/s/0m2asn/rise_groupware_how_collaboration"
-    ],
-    [
-      "The Rise of Groupware: How collaboration software came to be",
-      "https://spectrum.ieee.org/groupware"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "OpenBSD is Hard to Show Off",
       "https://atthis.link/blog/2024/16379.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-13, 09:04:23",
-      "https://lobste.rs/s/weun6e/advanced_book_classes_packages_for_sile"
-    ],
-    [
-      "Advanced book classes and packages for the SILE typesetting system",
-      "https://github.com/Omikhleia/resilient.sile"
     ]
   ],
   [
