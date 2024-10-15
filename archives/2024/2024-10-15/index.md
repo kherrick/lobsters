@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 15:33:46](https://lobste.rs/s/imocck/announcing_engineering_enigmas) - [Announcing Engineering Enigmas](https://entropicthoughts.com/announcing-engineering-enigmas)
 * [2024-10-15, 15:02:17](https://lobste.rs/s/sgdcef/graphics_improvements_webkitgtk) - [Graphics improvements in WebKitGTK and WPEWebKit 2.46](https://blogs.igalia.com/carlosgc/2024/09/27/graphics-improvements-in-webkitgtk-and-wpewebkit-2-46/)
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
 * [2024-10-15, 13:45:30](https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases) - [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
