@@ -1,8 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-15, 13:24:28](https://lobste.rs/s/hqzq58/minecraft_server_written_rust) - [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 13:14:11](https://lobste.rs/s/jjbol0/abstract_machines_systems_biology) - [Abstract Machines of Systems Biology](https://worrydream.com/refs/Cardelli_2005_-_Abstract_Machines_of_Systems_Biology.pdf)
 * [2024-10-15, 11:48:20](https://lobste.rs/s/xzo2m3/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2024-10-15, 11:31:12](https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs) - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
+* [2024-10-15, 09:43:43](https://lobste.rs/s/v5pahv/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://sqlite.org/draft/howtocorrupt.html)
 * [2024-10-15, 09:22:49](https://lobste.rs/s/1h3cdx/build_systems_not_heroes) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
 * [2024-10-15, 09:05:31](https://lobste.rs/s/bmjuua/rags_riches_chat_with_git_projects) - [RAGs to RIChes: chat with git projects](https://www.machtiani.chat/blogs/rags-to-riches)
 * [2024-10-15, 09:01:36](https://lobste.rs/s/xagoyw/object_oriented_programming_with_ansi_c) - [Object-Oriented Programming With ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
@@ -18,13 +20,11 @@
 * [2024-10-14, 19:57:41](https://lobste.rs/s/xaudjm/moving_llvm_ir) - [Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
 * [2024-10-14, 18:44:58](https://lobste.rs/s/pjyog2/vortex_toolkit_for_working_with) - [vortex: A toolkit for working with compressed Arrow in-memory, on-disk, and over-the-wire. \"The LLVM of file formats\"](https://github.com/spiraldb/vortex)
 * [2024-10-14, 17:18:46](https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern) - [OpenD on iPhone/Mac/etc.: ldc gets extern(Objective-C), dmd gets pragma(linkerDirective) and @section](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_10_14.html)
-* [2024-10-14, 17:07:02](https://lobste.rs/s/eerbtg/fjall_lsm_based_embeddable_key_value) - [fjall: LSM-based embeddable key-value storage engine written in safe Rust](https://github.com/fjall-rs/fjall)
 * [2024-10-14, 13:55:57](https://lobste.rs/s/p5168f/boring_tech_is_stifling_improvement) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 * [2024-10-14, 13:05:56](https://lobste.rs/s/1roeql/stallman_report) - [The Stallman Report](https://stallman-report.org/)
 * [2024-10-14, 11:07:54](https://lobste.rs/s/rmlx83/minetest_rebranding_luanti) - [Minetest Rebranding to Luanti](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-14, 08:37:06](https://lobste.rs/s/rmbos5/large_language_models_reduce_public) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
 * [2024-10-14, 08:36:27](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week)
-* [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
 
 ## [Archives](archives/index.md)
 
