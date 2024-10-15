@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-10-15, 09:22:49](https://lobste.rs/s/1h3cdx/build_systems_not_heroes) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
-* [2024-10-15, 09:05:31](https://lobste.rs/s/bmjuua/rags_riches) - [RAGs to RIChes](https://www.machtiani.chat/blogs/rags-to-riches)
+* [2024-10-15, 09:05:31](https://lobste.rs/s/bmjuua/rags_riches_chat_with_git_projects) - [RAGs to RIChes: chat with git projects](https://www.machtiani.chat/blogs/rags-to-riches)
 * [2024-10-15, 09:01:36](https://lobste.rs/s/xagoyw/object_oriented_programming_with_ansi_c) - [Object-Oriented Programming With ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
 * [2024-10-15, 06:39:52](https://lobste.rs/s/ptu4wj/bill_gross_wants_save_media_with_ai) - [Bill Gross wants to save media ... with AI](https://crazystupidtech.com/archive/bill-gross-wants-to-save-media-with-ai/)
 * [2024-10-15, 03:50:39](https://lobste.rs/s/wmu16g/new_passkey_specifications_will_let) - [New passkey specifications will let users import and export them](https://9to5mac.com/2024/10/14/new-passkeys-import-export/)
