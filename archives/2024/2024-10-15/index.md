@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 15:44:06](https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python) - [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
 * [2024-10-15, 15:33:46](https://lobste.rs/s/imocck/announcing_engineering_enigmas) - [Announcing Engineering Enigmas](https://entropicthoughts.com/announcing-engineering-enigmas)
 * [2024-10-15, 15:02:17](https://lobste.rs/s/sgdcef/graphics_improvements_webkitgtk) - [Graphics improvements in WebKitGTK and WPEWebKit 2.46](https://blogs.igalia.com/carlosgc/2024/09/27/graphics-improvements-in-webkitgtk-and-wpewebkit-2-46/)
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
