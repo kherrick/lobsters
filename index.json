@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-10-15, 00:53:13",
-      "https://lobste.rs/s/m320za/introduction_blas"
+      "2024-10-15, 01:57:54",
+      "https://lobste.rs/s/ikvomg/how_fork_best_practices_guide"
     ],
     [
-      "Introduction to BLAS",
-      "https://fedoramagazine.org/introduction-to-blas/"
+      "How to fork: Best practices and guide",
+      "https://joaquimrocha.com/2024/09/22/how-to-fork/"
     ]
   ],
   [
@@ -27,6 +27,26 @@
     [
       "a protocol for reliable notifications over a 1 bit fallible connection",
       "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 23:34:18",
+      "https://lobste.rs/s/hc1gfw/arduino_switch_from_arm_mbed_zephyr_rtos"
+    ],
+    [
+      "Arduino to switch from Arm Mbed to Zephyr RTOS",
+      "https://www.cnx-software.com/2024/07/25/arduino-to-switch-from-arm-mbed-to-zephyr-rtos/"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 21:42:58",
+      "https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic"
+    ],
+    [
+      "Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve",
+      "https://freebsdfoundation.org/antithesis-pioneering-deterministic-hypervisors-with-freebsd-and-bhyve/"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Moving to LLVM IR",
       "https://jank-lang.org/blog/2024-10-14-llvm-ir/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 19:13:07",
-      "https://lobste.rs/s/fmdgux/uncertain_art_accelerating_ml_models"
-    ],
-    [
-      "The Uncertain Art of Accelerating ML Models",
-      "https://signalsandthreads.com/the-uncertain-art-of-accelerating-ml-models/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The Tragedy of the Common Lisp: Why Large Languages Explode (2015)",
       "https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 05:08:02",
-      "https://lobste.rs/s/2nyigo/building_hundred_year_web_service_with"
-    ],
-    [
-      "Building the hundred-year web service with htmx",
-      "https://youtu.be/lASLZ9TgXyc"
     ]
   ],
   [
