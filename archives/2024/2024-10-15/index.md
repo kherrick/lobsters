@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 13:45:30](https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases) - [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
 * [2024-10-15, 13:24:28](https://lobste.rs/s/hqzq58/minecraft_server_written_rust) - [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 13:14:11](https://lobste.rs/s/jjbol0/abstract_machines_systems_biology) - [Abstract Machines of Systems Biology](https://worrydream.com/refs/Cardelli_2005_-_Abstract_Machines_of_Systems_Biology.pdf)
 * [2024-10-15, 11:48:20](https://lobste.rs/s/xzo2m3/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)

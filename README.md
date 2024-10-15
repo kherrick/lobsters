@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-15, 13:45:30](https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases) - [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
 * [2024-10-15, 13:24:28](https://lobste.rs/s/hqzq58/minecraft_server_written_rust) - [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 13:14:11](https://lobste.rs/s/jjbol0/abstract_machines_systems_biology) - [Abstract Machines of Systems Biology](https://worrydream.com/refs/Cardelli_2005_-_Abstract_Machines_of_Systems_Biology.pdf)
 * [2024-10-15, 11:48:20](https://lobste.rs/s/xzo2m3/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
@@ -7,7 +8,6 @@
 * [2024-10-15, 09:43:43](https://lobste.rs/s/v5pahv/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://sqlite.org/draft/howtocorrupt.html)
 * [2024-10-15, 09:22:49](https://lobste.rs/s/1h3cdx/build_systems_not_heroes) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
 * [2024-10-15, 09:05:31](https://lobste.rs/s/bmjuua/rags_riches_chat_with_git_projects) - [RAGs to RIChes: chat with git projects](https://www.machtiani.chat/blogs/rags-to-riches)
-* [2024-10-15, 09:01:36](https://lobste.rs/s/xagoyw/object_oriented_programming_with_ansi_c) - [Object-Oriented Programming With ANSI-C](https://www.cs.rit.edu/~ats/books/ooc.pdf)
 * [2024-10-15, 03:50:39](https://lobste.rs/s/wmu16g/new_passkey_specifications_will_let) - [New passkey specifications will let users import and export them](https://9to5mac.com/2024/10/14/new-passkeys-import-export/)
 * [2024-10-15, 03:32:00](https://lobste.rs/s/jgnxiy/why_make_software) - [Why make software?](https://sean.voisen.org/blog/why-make-software)
 * [2024-10-15, 02:57:51](https://lobste.rs/s/aihcwv/graphics_tricks_from_boomers) - [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
