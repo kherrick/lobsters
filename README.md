@@ -7,6 +7,7 @@
 * [2024-10-14, 23:56:27](https://lobste.rs/s/ebrtwx/protocol_for_reliable_notifications) - [a protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 23:34:18](https://lobste.rs/s/hc1gfw/arduino_switch_from_arm_mbed_zephyr_rtos) - [Arduino to switch from Arm Mbed to Zephyr RTOS](https://www.cnx-software.com/2024/07/25/arduino-to-switch-from-arm-mbed-to-zephyr-rtos/)
 * [2024-10-14, 21:42:58](https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic) - [Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve](https://freebsdfoundation.org/antithesis-pioneering-deterministic-hypervisors-with-freebsd-and-bhyve/)
+* [2024-10-14, 21:41:54](https://lobste.rs/s/b9aomr/run_linux_containers_on_freebsd_14_with) - [Run Linux Containers on FreeBSD 14 with Podman](https://gyptazy.com/run-linux-containers-on-freebsd-14-with-podman/)
 * [2024-10-14, 21:29:45](https://lobste.rs/s/jmnzby/overwrite_trait_pin) - [The `Overwrite` trait and `Pin`](https://smallcultfollowing.com/babysteps/blog/2024/10/14/overwrite-and-pin/)
 * [2024-10-14, 21:22:40](https://lobste.rs/s/hlzin2/ward_christensen_bbs_inventor_architect) - [Ward Christensen, BBS inventor and architect of our online age, dies at age 78](https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/)
 * [2024-10-14, 19:57:41](https://lobste.rs/s/xaudjm/moving_llvm_ir) - [Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
@@ -24,7 +25,6 @@
 * [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
 * [2024-10-14, 07:12:55](https://lobste.rs/s/0axmhu/tragedy_common_lisp_why_large_languages) - [The Tragedy of the Common Lisp: Why Large Languages Explode (2015)](https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
 * [2024-10-14, 04:21:14](https://lobste.rs/s/kdqoel/ubuntu_will_include_latest_linux_kernel) - [Ubuntu Will Include The Latest Linux Kernel Version in Future Releases](https://news.itsfoss.com/ubuntu-latest-kernel/)
-* [2024-10-14, 01:04:20](https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/)
 
 ## [Archives](archives/index.md)
 
