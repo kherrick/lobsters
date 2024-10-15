@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-15, 09:43:43](https://lobste.rs/s/v5pahv/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://sqlite.org/draft/howtocorrupt.html)
 * [2024-10-15, 09:22:49](https://lobste.rs/s/1h3cdx/build_systems_not_heroes) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
 * [2024-10-15, 09:05:31](https://lobste.rs/s/bmjuua/rags_riches) - [RAGs to RIChes](https://www.machtiani.chat/blogs/rags-to-riches)
 * [2024-10-15, 06:39:52](https://lobste.rs/s/ptu4wj/bill_gross_wants_save_media_with_ai) - [Bill Gross wants to save media ... with AI](https://crazystupidtech.com/archive/bill-gross-wants-to-save-media-with-ai/)
@@ -18,7 +19,6 @@
 * [2024-10-14, 17:07:02](https://lobste.rs/s/eerbtg/fjall_lsm_based_embeddable_key_value) - [fjall: LSM-based embeddable key-value storage engine written in safe Rust](https://github.com/fjall-rs/fjall)
 * [2024-10-14, 16:40:05](https://lobste.rs/s/k9kywa/text_overflow_ellipsis_considered) - [Text-overflow: Ellipsis Considered Harmful (2022)](https://css-tricks.com/text-overflow-ellipsis-considered-harmful/)
 * [2024-10-14, 13:55:57](https://lobste.rs/s/p5168f/boring_tech_is_stifling_improvement) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
-* [2024-10-14, 13:16:03](https://lobste.rs/s/upeihi/ffmpeg_explorer_2023) - [FFmpeg Explorer (2023)](https://lav.io/notes/ffmpeg-explorer/)
 * [2024-10-14, 13:05:56](https://lobste.rs/s/1roeql/stallman_report) - [The Stallman Report](https://stallman-report.org/)
 * [2024-10-14, 11:07:54](https://lobste.rs/s/rmlx83/minetest_rebranding_luanti) - [Minetest Rebranding to Luanti](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-14, 08:37:06](https://lobste.rs/s/rmbos5/large_language_models_reduce_public) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
