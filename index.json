@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-15, 13:45:30",
+      "https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases"
+    ],
+    [
+      "Categorizing How Distributed Databases Utilize Consensus Algorithms",
+      "https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 13:24:28",
       "https://lobste.rs/s/hqzq58/minecraft_server_written_rust"
     ],
@@ -67,16 +77,6 @@
     [
       "RAGs to RIChes: chat with git projects",
       "https://www.machtiani.chat/blogs/rags-to-riches"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 09:01:36",
-      "https://lobste.rs/s/xagoyw/object_oriented_programming_with_ansi_c"
-    ],
-    [
-      "Object-Oriented Programming With ANSI-C",
-      "https://www.cs.rit.edu/~ats/books/ooc.pdf"
     ]
   ],
   [
