@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 22:25:59](https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 * [2024-10-15, 19:14:55](https://lobste.rs/s/5hulmh/why_pin_is_part_trait_signatures_why_s) - [Why `Pin` is a part of trait signatures (and why that's a problem)](https://blog.yoshuawuyts.com/why-pin/)
 * [2024-10-15, 18:32:56](https://lobste.rs/s/jqjqa4/sqlite3_webassembly_javascript) - [sqlite3 WebAssembly & JavaScript Documentation Index](https://sqlite.org/wasm/doc/trunk/index.md)
 * [2024-10-15, 18:20:47](https://lobste.rs/s/ihtybm/safer_with_google_advancing_memory) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
