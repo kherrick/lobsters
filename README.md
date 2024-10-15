@@ -2,6 +2,7 @@
 
 * [2024-10-15, 03:50:39](https://lobste.rs/s/wmu16g/new_passkey_specifications_will_let) - [New passkey specifications will let users import and export them](https://9to5mac.com/2024/10/14/new-passkeys-import-export/)
 * [2024-10-15, 03:32:00](https://lobste.rs/s/jgnxiy/why_make_software) - [Why make software?](https://sean.voisen.org/blog/why-make-software)
+* [2024-10-15, 02:57:51](https://lobste.rs/s/aihcwv/graphics_tricks_from_boomers) - [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
 * [2024-10-15, 00:43:19](https://lobste.rs/s/nrlgzt/use_external_gpu_on_raspberry_pi_5_for_4k) - [Use an External GPU on Raspberry Pi 5 for 4K Gaming](https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming)
 * [2024-10-14, 23:56:27](https://lobste.rs/s/ebrtwx/protocol_for_reliable_notifications) - [a protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 23:34:18](https://lobste.rs/s/hc1gfw/arduino_switch_from_arm_mbed_zephyr_rtos) - [Arduino to switch from Arm Mbed to Zephyr RTOS](https://www.cnx-software.com/2024/07/25/arduino-to-switch-from-arm-mbed-to-zephyr-rtos/)
@@ -23,7 +24,6 @@
 * [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
 * [2024-10-14, 07:12:55](https://lobste.rs/s/0axmhu/tragedy_common_lisp_why_large_languages) - [The Tragedy of the Common Lisp: Why Large Languages Explode (2015)](https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
 * [2024-10-14, 04:21:14](https://lobste.rs/s/kdqoel/ubuntu_will_include_latest_linux_kernel) - [Ubuntu Will Include The Latest Linux Kernel Version in Future Releases](https://news.itsfoss.com/ubuntu-latest-kernel/)
-* [2024-10-14, 01:04:20](https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/)
 * [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 
 ## [Archives](archives/index.md)
