@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-15, 18:32:56](https://lobste.rs/s/jqjqa4/sqlite3_webassembly_javascript) - [sqlite3 WebAssembly & JavaScript Documentation Index](https://sqlite.org/wasm/doc/trunk/index.md)
+* [2024-10-15, 19:14:55](https://lobste.rs/s/5hulmh/why_pin_is_part_trait_signatures_why_s) - [Why `Pin` is a part of trait signatures (and why that's a problem)](https://blog.yoshuawuyts.com/why-pin/)
 * [2024-10-15, 18:20:47](https://lobste.rs/s/ihtybm/safer_with_google_advancing_memory) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 * [2024-10-15, 18:05:22](https://lobste.rs/s/w5mhmx/c23_edition_modern_c) - [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 18:02:45](https://lobste.rs/s/rirffi/jpeg_xl_s_modular_mode_explained) - [JPEG XL’s Modular Mode Explained](https://cloudinary.com/blog/jpeg-xls-modular-mode-explained)
