@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-10-14, 21:42:58",
-      "https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic"
+      "2024-10-15, 00:53:13",
+      "https://lobste.rs/s/m320za/introduction_blas"
     ],
     [
-      "Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve",
-      "https://freebsdfoundation.org/antithesis-pioneering-deterministic-hypervisors-with-freebsd-and-bhyve/"
+      "Introduction to BLAS",
+      "https://fedoramagazine.org/introduction-to-blas/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 00:43:19",
+      "https://lobste.rs/s/nrlgzt/use_external_gpu_on_raspberry_pi_5_for_4k"
+    ],
+    [
+      "Use an External GPU on Raspberry Pi 5 for 4K Gaming",
+      "https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming"
+    ]
+  ],
+  [
+    [
+      "2024-10-14, 23:56:27",
+      "https://lobste.rs/s/ebrtwx/protocol_for_reliable_notifications"
+    ],
+    [
+      "a protocol for reliable notifications over a 1 bit fallible connection",
+      "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-10-14, 06:13:14",
-      "https://lobste.rs/s/sertwz/eyg_predictable_useful_programming"
-    ],
-    [
-      "EYG a predictable, and useful, programming language at func prog sweden",
-      "https://www.youtube.com/watch?v=dh3sdHWQ2Ms"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 05:08:02",
       "https://lobste.rs/s/2nyigo/building_hundred_year_web_service_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Ubuntu Will Include The Latest Linux Kernel Version in Future Releases",
       "https://news.itsfoss.com/ubuntu-latest-kernel/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 02:45:40",
-      "https://lobste.rs/s/omzntj/popular_wrong_way_convert_string"
-    ],
-    [
-      "A popular but wrong way to convert a string to uppercase or lowercase",
-      "https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345"
     ]
   ],
   [
