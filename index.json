@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-15, 03:50:39",
+      "https://lobste.rs/s/wmu16g/new_passkey_specifications_will_let"
+    ],
+    [
+      "New passkey specifications will let users import and export them",
+      "https://9to5mac.com/2024/10/14/new-passkeys-import-export/"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 03:32:00",
       "https://lobste.rs/s/jgnxiy/why_make_software"
     ],
@@ -107,16 +117,6 @@
     [
       "OpenD on iPhone/Mac/etc.: ldc gets extern(Objective-C), dmd gets pragma(linkerDirective) and @section",
       "https://dpldocs.info/this-week-in-d/Blog.Posted_2024_10_14.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 17:14:44",
-      "https://lobste.rs/s/nkerye/you_could_have_invented_normalization_by"
-    ],
-    [
-      "You Could Have Invented Normalization-by-Evaluation",
-      "https://ehatti.github.io/blog/nbe.html"
     ]
   ],
   [
