@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-15, 11:31:12",
+      "https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs"
+    ],
+    [
+      "LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite",
+      "https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 10:56:57",
       "https://lobste.rs/s/lgj388/rabbit_hole_stumbling_across_two"
     ],
@@ -177,16 +187,6 @@
     [
       "fjall: LSM-based embeddable key-value storage engine written in safe Rust",
       "https://github.com/fjall-rs/fjall"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 16:40:05",
-      "https://lobste.rs/s/k9kywa/text_overflow_ellipsis_considered"
-    ],
-    [
-      "Text-overflow: Ellipsis Considered Harmful (2022)",
-      "https://css-tricks.com/text-overflow-ellipsis-considered-harmful/"
     ]
   ],
   [
