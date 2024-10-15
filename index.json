@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-15, 16:09:07",
+      "https://lobste.rs/s/5o95jl/unlocking_nes_for_former_dawn"
+    ],
+    [
+      "Unlocking the NES (for Former Dawn)",
+      "https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 15:59:22",
+      "https://lobste.rs/s/h1btzk/code_formatting_documents"
+    ],
+    [
+      "Code formatting in documents",
+      "https://jmtd.net/log/formatting/"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 15:44:06",
       "https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-10-14, 21:29:45",
-      "https://lobste.rs/s/jmnzby/overwrite_trait_pin"
-    ],
-    [
-      "The `Overwrite` trait and `Pin`",
-      "https://smallcultfollowing.com/babysteps/blog/2024/10/14/overwrite-and-pin/"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 21:22:40",
       "https://lobste.rs/s/hlzin2/ward_christensen_bbs_inventor_architect"
     ],
@@ -187,16 +197,6 @@
     [
       "Moving to LLVM IR",
       "https://jank-lang.org/blog/2024-10-14-llvm-ir/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 18:44:58",
-      "https://lobste.rs/s/pjyog2/vortex_toolkit_for_working_with"
-    ],
-    [
-      "vortex: A toolkit for working with compressed Arrow in-memory, on-disk, and over-the-wire. \"The LLVM of file formats\"",
-      "https://github.com/spiraldb/vortex"
     ]
   ],
   [
