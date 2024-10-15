@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
 * [2024-10-15, 13:45:30](https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases) - [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
 * [2024-10-15, 13:24:28](https://lobste.rs/s/hqzq58/minecraft_server_written_rust) - [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
-* [2024-10-15, 13:14:11](https://lobste.rs/s/jjbol0/abstract_machines_systems_biology) - [Abstract Machines of Systems Biology](https://worrydream.com/refs/Cardelli_2005_-_Abstract_Machines_of_Systems_Biology.pdf)
 * [2024-10-15, 11:48:20](https://lobste.rs/s/xzo2m3/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2024-10-15, 11:31:12](https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs) - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
 * [2024-10-15, 09:43:43](https://lobste.rs/s/v5pahv/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://sqlite.org/draft/howtocorrupt.html)
