@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-10-14, 21:41:54",
+      "https://lobste.rs/s/b9aomr/run_linux_containers_on_freebsd_14_with"
+    ],
+    [
+      "Run Linux Containers on FreeBSD 14 with Podman",
+      "https://gyptazy.com/run-linux-containers-on-freebsd-14-with-podman/"
+    ]
+  ],
+  [
+    [
       "2024-10-14, 21:29:45",
       "https://lobste.rs/s/jmnzby/overwrite_trait_pin"
     ],
@@ -237,16 +247,6 @@
     [
       "Ubuntu Will Include The Latest Linux Kernel Version in Future Releases",
       "https://news.itsfoss.com/ubuntu-latest-kernel/"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 01:04:20",
-      "https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring"
-    ],
-    [
-      "Python client for the $20 Colmi R02 smart ring",
-      "https://tahnok.github.io/colmi_r02_client/"
     ]
   ]
 ]
