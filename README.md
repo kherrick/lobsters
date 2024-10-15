@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-15, 01:57:54](https://lobste.rs/s/ikvomg/how_fork_best_practices_guide) - [How to fork: Best practices and guide](https://joaquimrocha.com/2024/09/22/how-to-fork/)
+* [2024-10-15, 03:32:00](https://lobste.rs/s/jgnxiy/why_make_software) - [Why make software?](https://sean.voisen.org/blog/why-make-software)
 * [2024-10-15, 00:43:19](https://lobste.rs/s/nrlgzt/use_external_gpu_on_raspberry_pi_5_for_4k) - [Use an External GPU on Raspberry Pi 5 for 4K Gaming](https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming)
 * [2024-10-14, 23:56:27](https://lobste.rs/s/ebrtwx/protocol_for_reliable_notifications) - [a protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 23:34:18](https://lobste.rs/s/hc1gfw/arduino_switch_from_arm_mbed_zephyr_rtos) - [Arduino to switch from Arm Mbed to Zephyr RTOS](https://www.cnx-software.com/2024/07/25/arduino-to-switch-from-arm-mbed-to-zephyr-rtos/)
