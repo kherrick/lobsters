@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 13:14:11](https://lobste.rs/s/jjbol0/abstract_machines_systems_biology) - [Abstract Machines of Systems Biology](https://worrydream.com/refs/Cardelli_2005_-_Abstract_Machines_of_Systems_Biology.pdf)
 * [2024-10-15, 11:48:20](https://lobste.rs/s/xzo2m3/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2024-10-15, 11:31:12](https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs) - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
 * [2024-10-15, 10:56:57](https://lobste.rs/s/lgj388/rabbit_hole_stumbling_across_two) - [Rabbit hole: stumbling across two Portuguese punched cards](https://blog.jgc.org/2024/10/rabbit-hole-stumbling-across-two.html)
