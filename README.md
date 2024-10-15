@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-15, 16:09:07](https://lobste.rs/s/5o95jl/unlocking_nes_for_former_dawn) - [Unlocking the NES (for Former Dawn)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
+* [2024-10-15, 15:59:22](https://lobste.rs/s/h1btzk/code_formatting_documents) - [Code formatting in documents](https://jmtd.net/log/formatting/)
 * [2024-10-15, 15:44:06](https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python) - [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
 * [2024-10-15, 13:45:30](https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases) - [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
@@ -16,10 +18,8 @@
 * [2024-10-14, 23:56:27](https://lobste.rs/s/ebrtwx/protocol_for_reliable_notifications) - [a protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 21:42:58](https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic) - [Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve](https://freebsdfoundation.org/antithesis-pioneering-deterministic-hypervisors-with-freebsd-and-bhyve/)
 * [2024-10-14, 21:41:54](https://lobste.rs/s/b9aomr/run_linux_containers_on_freebsd_14_with) - [Run Linux Containers on FreeBSD 14 with Podman](https://gyptazy.com/run-linux-containers-on-freebsd-14-with-podman/)
-* [2024-10-14, 21:29:45](https://lobste.rs/s/jmnzby/overwrite_trait_pin) - [The `Overwrite` trait and `Pin`](https://smallcultfollowing.com/babysteps/blog/2024/10/14/overwrite-and-pin/)
 * [2024-10-14, 21:22:40](https://lobste.rs/s/hlzin2/ward_christensen_bbs_inventor_architect) - [Ward Christensen, BBS inventor and architect of our online age, dies at age 78](https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/)
 * [2024-10-14, 19:57:41](https://lobste.rs/s/xaudjm/moving_llvm_ir) - [Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
-* [2024-10-14, 18:44:58](https://lobste.rs/s/pjyog2/vortex_toolkit_for_working_with) - [vortex: A toolkit for working with compressed Arrow in-memory, on-disk, and over-the-wire. \"The LLVM of file formats\"](https://github.com/spiraldb/vortex)
 * [2024-10-14, 17:18:46](https://lobste.rs/s/qbrzuu/opend_on_iphone_mac_etc_ldc_gets_extern) - [OpenD on iPhone/Mac/etc.: ldc gets extern(Objective-C), dmd gets pragma(linkerDirective) and @section](https://dpldocs.info/this-week-in-d/Blog.Posted_2024_10_14.html)
 * [2024-10-14, 13:55:57](https://lobste.rs/s/p5168f/boring_tech_is_stifling_improvement) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 * [2024-10-14, 13:05:56](https://lobste.rs/s/1roeql/stallman_report) - [The Stallman Report](https://stallman-report.org/)

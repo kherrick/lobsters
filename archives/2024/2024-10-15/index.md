@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 16:09:07](https://lobste.rs/s/5o95jl/unlocking_nes_for_former_dawn) - [Unlocking the NES (for Former Dawn)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
+* [2024-10-15, 15:59:22](https://lobste.rs/s/h1btzk/code_formatting_documents) - [Code formatting in documents](https://jmtd.net/log/formatting/)
 * [2024-10-15, 15:44:06](https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python) - [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
 * [2024-10-15, 15:33:46](https://lobste.rs/s/imocck/announcing_engineering_enigmas) - [Announcing Engineering Enigmas](https://entropicthoughts.com/announcing-engineering-enigmas)
 * [2024-10-15, 15:02:17](https://lobste.rs/s/sgdcef/graphics_improvements_webkitgtk) - [Graphics improvements in WebKitGTK and WPEWebKit 2.46](https://blogs.igalia.com/carlosgc/2024/09/27/graphics-improvements-in-webkitgtk-and-wpewebkit-2-46/)
