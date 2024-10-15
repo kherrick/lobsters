@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-15, 15:02:17](https://lobste.rs/s/sgdcef/graphics_improvements_webkitgtk) - [Graphics improvements in WebKitGTK and WPEWebKit 2.46](https://blogs.igalia.com/carlosgc/2024/09/27/graphics-improvements-in-webkitgtk-and-wpewebkit-2-46/)
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
 * [2024-10-15, 13:45:30](https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases) - [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
 * [2024-10-15, 13:24:28](https://lobste.rs/s/hqzq58/minecraft_server_written_rust) - [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
@@ -24,7 +25,6 @@
 * [2024-10-14, 13:05:56](https://lobste.rs/s/1roeql/stallman_report) - [The Stallman Report](https://stallman-report.org/)
 * [2024-10-14, 11:07:54](https://lobste.rs/s/rmlx83/minetest_rebranding_luanti) - [Minetest Rebranding to Luanti](https://blog.minetest.net/2024/10/13/Introducing-Our-New-Name/)
 * [2024-10-14, 08:37:06](https://lobste.rs/s/rmbos5/large_language_models_reduce_public) - [Large language models reduce public knowledge sharing on online Q&A platforms](https://academic.oup.com/pnasnexus/article/3/9/pgae400/7754871)
-* [2024-10-14, 08:36:27](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week)
 
 ## [Archives](archives/index.md)
 
