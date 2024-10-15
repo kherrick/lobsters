@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-10-15, 18:32:56",
+      "https://lobste.rs/s/jqjqa4/sqlite3_webassembly_javascript"
+    ],
+    [
+      "sqlite3 WebAssembly & JavaScript Documentation Index",
+      "https://sqlite.org/wasm/doc/trunk/index.md"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 18:20:47",
       "https://lobste.rs/s/ihtybm/safer_with_google_advancing_memory"
     ],
@@ -197,16 +207,6 @@
     [
       "a protocol for reliable notifications over a 1 bit fallible connection",
       "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 21:42:58",
-      "https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic"
-    ],
-    [
-      "Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve",
-      "https://freebsdfoundation.org/antithesis-pioneering-deterministic-hypervisors-with-freebsd-and-bhyve/"
     ]
   ],
   [
