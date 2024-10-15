@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 18:05:22](https://lobste.rs/s/w5mhmx/c23_edition_modern_c) - [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 17:42:51](https://lobste.rs/s/pwdhjv/unison_programming_language) - [Unison Programming Language](https://www.unison-lang.org/)
 * [2024-10-15, 16:09:07](https://lobste.rs/s/5o95jl/unlocking_nes_for_former_dawn) - [Unlocking the NES (for Former Dawn)](https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/)
 * [2024-10-15, 15:59:22](https://lobste.rs/s/h1btzk/code_formatting_documents) - [Code formatting in documents](https://jmtd.net/log/formatting/)
