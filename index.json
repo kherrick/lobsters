@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-15, 09:22:49",
+      "https://lobste.rs/s/1h3cdx/build_systems_not_heroes"
+    ],
+    [
+      "Build Systems, Not Heroes",
+      "https://vitonsky.net/blog/2024/10/11/system-approach/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 09:05:31",
+      "https://lobste.rs/s/bmjuua/rags_riches"
+    ],
+    [
+      "RAGs to RIChes",
+      "https://www.machtiani.chat/blogs/rags-to-riches"
+    ]
+  ],
+  [
+    [
       "2024-10-15, 06:39:52",
       "https://lobste.rs/s/ptu4wj/bill_gross_wants_save_media_with_ai"
     ],
@@ -61,16 +81,6 @@
   ],
   [
     [
-      "2024-10-14, 23:34:18",
-      "https://lobste.rs/s/hc1gfw/arduino_switch_from_arm_mbed_zephyr_rtos"
-    ],
-    [
-      "Arduino to switch from Arm Mbed to Zephyr RTOS",
-      "https://www.cnx-software.com/2024/07/25/arduino-to-switch-from-arm-mbed-to-zephyr-rtos/"
-    ]
-  ],
-  [
-    [
       "2024-10-14, 21:42:58",
       "https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic"
     ],
@@ -127,16 +137,6 @@
     [
       "vortex: A toolkit for working with compressed Arrow in-memory, on-disk, and over-the-wire. \"The LLVM of file formats\"",
       "https://github.com/spiraldb/vortex"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 18:03:31",
-      "https://lobste.rs/s/gdrukp/deriving_kelly_criterion_maximise"
-    ],
-    [
-      "Deriving the Kelly Criterion to maximise Profits",
-      "https://obrhubr.org/kelly-criterion"
     ]
   ],
   [
