@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-14, 21:42:58](https://lobste.rs/s/5j3o6o/antithesis_pioneering_deterministic) - [Antithesis: Pioneering Deterministic Hypervisors with FreeBSD and Bhyve](https://freebsdfoundation.org/antithesis-pioneering-deterministic-hypervisors-with-freebsd-and-bhyve/)
+* [2024-10-15, 00:53:13](https://lobste.rs/s/m320za/introduction_blas) - [Introduction to BLAS](https://fedoramagazine.org/introduction-to-blas/)
+* [2024-10-15, 00:43:19](https://lobste.rs/s/nrlgzt/use_external_gpu_on_raspberry_pi_5_for_4k) - [Use an External GPU on Raspberry Pi 5 for 4K Gaming](https://www.jeffgeerling.com/blog/2024/use-external-gpu-on-raspberry-pi-5-4k-gaming)
+* [2024-10-14, 23:56:27](https://lobste.rs/s/ebrtwx/protocol_for_reliable_notifications) - [a protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
 * [2024-10-14, 21:29:45](https://lobste.rs/s/jmnzby/overwrite_trait_pin) - [The `Overwrite` trait and `Pin`](https://smallcultfollowing.com/babysteps/blog/2024/10/14/overwrite-and-pin/)
 * [2024-10-14, 21:22:40](https://lobste.rs/s/hlzin2/ward_christensen_bbs_inventor_architect) - [Ward Christensen, BBS inventor and architect of our online age, dies at age 78](https://arstechnica.com/gadgets/2024/10/ward-christensen-bbs-inventor-and-architect-of-our-online-age-dies-at-age-78/)
 * [2024-10-14, 19:57:41](https://lobste.rs/s/xaudjm/moving_llvm_ir) - [Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
@@ -19,10 +21,8 @@
 * [2024-10-14, 08:36:27](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/efkk2t/what_are_you_doing_this_week)
 * [2024-10-14, 07:47:31](https://lobste.rs/s/ngthwk/trust_rules_everything_around_me) - [Trust Rules Everything Around Me (WordPress, Code Security, etc.)](https://scottarc.blog/2024/10/14/trust-rules-everything-around-me/)
 * [2024-10-14, 07:12:55](https://lobste.rs/s/0axmhu/tragedy_common_lisp_why_large_languages) - [The Tragedy of the Common Lisp: Why Large Languages Explode (2015)](https://scribe.rip/the-tragedy-of-the-common-lisp-why-large-languages-explode-4e83096239b9)
-* [2024-10-14, 06:13:14](https://lobste.rs/s/sertwz/eyg_predictable_useful_programming) - [EYG a predictable, and useful, programming language at func prog sweden](https://www.youtube.com/watch?v=dh3sdHWQ2Ms)
 * [2024-10-14, 05:08:02](https://lobste.rs/s/2nyigo/building_hundred_year_web_service_with) - [Building the hundred-year web service with htmx](https://youtu.be/lASLZ9TgXyc)
 * [2024-10-14, 04:21:14](https://lobste.rs/s/kdqoel/ubuntu_will_include_latest_linux_kernel) - [Ubuntu Will Include The Latest Linux Kernel Version in Future Releases](https://news.itsfoss.com/ubuntu-latest-kernel/)
-* [2024-10-14, 02:45:40](https://lobste.rs/s/omzntj/popular_wrong_way_convert_string) - [A popular but wrong way to convert a string to uppercase or lowercase](https://devblogs.microsoft.com/oldnewthing/20241007-00/?p=110345)
 * [2024-10-14, 01:04:20](https://lobste.rs/s/05xfhb/python_client_for_20_colmi_r02_smart_ring) - [Python client for the $20 Colmi R02 smart ring](https://tahnok.github.io/colmi_r02_client/)
 * [2024-10-13, 21:45:10](https://lobste.rs/s/3azldo/refurb_weekend_symbolics_macivory_lisp) - [Refurb weekend: the Symbolics MacIvory Lisp machine I have hated](https://oldvcr.blogspot.com/2024/10/refurb-weekend-symbolics-macivory-lisp.html)
 
