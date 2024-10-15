@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-15](index.md)
 
+* [2024-10-15, 06:39:52](https://lobste.rs/s/ptu4wj/bill_gross_wants_save_media_with_ai) - [Bill Gross wants to save media ... with AI](https://crazystupidtech.com/archive/bill-gross-wants-to-save-media-with-ai/)
 * [2024-10-15, 03:50:39](https://lobste.rs/s/wmu16g/new_passkey_specifications_will_let) - [New passkey specifications will let users import and export them](https://9to5mac.com/2024/10/14/new-passkeys-import-export/)
 * [2024-10-15, 03:32:00](https://lobste.rs/s/jgnxiy/why_make_software) - [Why make software?](https://sean.voisen.org/blog/why-make-software)
 * [2024-10-15, 02:57:51](https://lobste.rs/s/aihcwv/graphics_tricks_from_boomers) - [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
