@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 03:00:22](https://lobste.rs/s/cpncvm/introduction_ux_rt_2022) - [Introduction to UX/RT (2022)](https://archive.fosdem.org/2022/schedule/event/awarkentin/attachments/slides/4831/export/events/attachments/awarkentin/slides/4831/uxrt_intro.pdf)
 * [2024-10-16, 00:43:48](https://lobste.rs/s/zpdt7x/missing_ide_feature_fold_method_bodies_by) - [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-10-15, 22:25:59](https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 * [2024-10-15, 22:09:49](https://lobste.rs/s/mia6yb/how_write_blog_post_about_how_monetize) - [How to Write a Blog Post About How to Monetize a Blog (Satire)](https://modem.io/blog/blog-monetization-making-of/)
@@ -22,7 +23,6 @@
 * [2024-10-15, 03:32:00](https://lobste.rs/s/jgnxiy/why_make_software) - [Why make software?](https://sean.voisen.org/blog/why-make-software)
 * [2024-10-15, 02:57:51](https://lobste.rs/s/aihcwv/graphics_tricks_from_boomers) - [Graphics Tricks from Boomers](https://arnaud-carre.github.io/2024-09-08-4ktribute/)
 * [2024-10-14, 23:56:27](https://lobste.rs/s/ebrtwx/protocol_for_reliable_notifications) - [a protocol for reliable notifications over a 1 bit fallible connection](https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection)
-* [2024-10-14, 19:57:41](https://lobste.rs/s/xaudjm/moving_llvm_ir) - [Moving to LLVM IR](https://jank-lang.org/blog/2024-10-14-llvm-ir/)
 * [2024-10-14, 13:55:57](https://lobste.rs/s/p5168f/boring_tech_is_stifling_improvement) - [Boring Tech Is Stifling Improvement](https://yonkeltron.com/posts/boring-tech-is-stifling-improvement/)
 * [2024-10-14, 13:05:56](https://lobste.rs/s/1roeql/stallman_report) - [The Stallman Report](https://stallman-report.org/)
 
