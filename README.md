@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 13:50:29](https://lobste.rs/s/qew7qb/failure_gpl_2009) - [The Failure of the GPL (2009)](https://www.informit.com/articles/article.aspx?p=1390172)
 * [2024-10-16, 13:43:11](https://lobste.rs/s/lfib4g/talos_linux_api_driven_kubernetes) - [Talos Linux: API driven, Kubernetes operating system](https://talos.dev)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 * [2024-10-16, 12:56:50](https://lobste.rs/s/y2gpkx/ghc_9_12_1_alpha_1_release_notes) - [GHC 9.12.1 (alpha 1) release notes](https://downloads.haskell.org/ghc/9.12.1-alpha1/docs/users_guide/9.12.1-notes.html)
@@ -24,7 +25,6 @@
 * [2024-10-15, 11:31:12](https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs) - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
 * [2024-10-15, 03:50:39](https://lobste.rs/s/wmu16g/new_passkey_specifications_will_let) - [New passkey specifications will let users import and export them](https://9to5mac.com/2024/10/14/new-passkeys-import-export/)
 * [2024-10-15, 03:32:00](https://lobste.rs/s/jgnxiy/why_make_software) - [Why make software?](https://sean.voisen.org/blog/why-make-software)
-* [2024-10-14, 13:05:56](https://lobste.rs/s/1roeql/stallman_report) - [The Stallman Report](https://stallman-report.org/)
 
 ## [Archives](archives/index.md)
 

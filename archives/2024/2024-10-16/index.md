@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 13:50:29](https://lobste.rs/s/qew7qb/failure_gpl_2009) - [The Failure of the GPL (2009)](https://www.informit.com/articles/article.aspx?p=1390172)
 * [2024-10-16, 13:43:11](https://lobste.rs/s/lfib4g/talos_linux_api_driven_kubernetes) - [Talos Linux: API driven, Kubernetes operating system](https://talos.dev)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 * [2024-10-16, 12:56:50](https://lobste.rs/s/y2gpkx/ghc_9_12_1_alpha_1_release_notes) - [GHC 9.12.1 (alpha 1) release notes](https://downloads.haskell.org/ghc/9.12.1-alpha1/docs/users_guide/9.12.1-notes.html)
