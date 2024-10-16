@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 18:27:32",
+      "https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str"
+    ],
+    [
+      "When should I use String vs &str?",
+      "https://steveklabnik.com/writing/when-should-i-use-string-vs-str/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 18:09:31",
       "https://lobste.rs/s/bcg2fe/intent_implication"
     ],
@@ -237,16 +247,6 @@
     [
       "Passwords have problems, but passkeys have more",
       "https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 11:31:12",
-      "https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs"
-    ],
-    [
-      "LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite",
-      "https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html"
     ]
   ]
 ]
