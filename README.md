@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 18:09:31](https://lobste.rs/s/bcg2fe/intent_implication) - [intent and implication](https://explaining.software/archive/intent-and-implication/)
 * [2024-10-16, 17:07:00](https://lobste.rs/s/hask9t/jamesql_memory_nosql_database) - [jamesql: An in-memory NoSQL database implemented in Python](https://github.com/capjamesg/jamesql)
 * [2024-10-16, 16:52:22](https://lobste.rs/s/bwjdbp/be_suspicious_success) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
 * [2024-10-16, 16:03:32](https://lobste.rs/s/caoesm/attacking_apis_using_json_injection) - [Attacking APIs using JSON injection](https://danaepp.com/attacking-apis-using-json-injection)
@@ -19,7 +20,6 @@
 * [2024-10-16, 00:43:48](https://lobste.rs/s/zpdt7x/missing_ide_feature_fold_method_bodies_by) - [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-10-15, 22:25:59](https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 * [2024-10-15, 22:09:49](https://lobste.rs/s/mia6yb/how_write_blog_post_about_how_monetize) - [How to Write a Blog Post About How to Monetize a Blog (Satire)](https://modem.io/blog/blog-monetization-making-of/)
-* [2024-10-15, 18:20:47](https://lobste.rs/s/ihtybm/safer_with_google_advancing_memory) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 * [2024-10-15, 18:05:22](https://lobste.rs/s/w5mhmx/c23_edition_modern_c) - [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 17:42:51](https://lobste.rs/s/pwdhjv/unison_programming_language) - [Unison Programming Language](https://www.unison-lang.org/)
 * [2024-10-15, 15:44:06](https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python) - [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
