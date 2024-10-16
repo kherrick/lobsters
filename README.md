@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
+* [2024-10-16, 18:55:15](https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c) - [How to Make Racket Go (Almost) As Fast As C](https://lambdaland.org/posts/2024-09-27_threaded_interpreter/)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 * [2024-10-16, 18:13:00](https://lobste.rs/s/hcqctn/unpincell) - [UnpinCell](https://without.boats/blog/unpin-cell/)
 * [2024-10-16, 17:07:00](https://lobste.rs/s/hask9t/jamesql_memory_nosql_database) - [jamesql: An in-memory NoSQL database implemented in Python](https://github.com/capjamesg/jamesql)
@@ -21,7 +22,6 @@
 * [2024-10-16, 00:43:48](https://lobste.rs/s/zpdt7x/missing_ide_feature_fold_method_bodies_by) - [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-10-15, 22:25:59](https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 * [2024-10-15, 22:09:49](https://lobste.rs/s/mia6yb/how_write_blog_post_about_how_monetize) - [How to Write a Blog Post About How to Monetize a Blog](https://modem.io/blog/blog-monetization-making-of/)
-* [2024-10-15, 18:05:22](https://lobste.rs/s/w5mhmx/c23_edition_modern_c) - [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
 * [2024-10-15, 17:42:51](https://lobste.rs/s/pwdhjv/unison_programming_language) - [Unison Programming Language](https://www.unison-lang.org/)
 * [2024-10-15, 15:44:06](https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python) - [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
