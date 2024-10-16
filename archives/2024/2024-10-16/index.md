@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 07:45:11](https://lobste.rs/s/g8buij/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://safecpp.org/draft-lifetimes.html)
 * [2024-10-16, 07:13:05](https://lobste.rs/s/u300ns/call_for_submissions_for_new_css_logo) - [Call for submissions for a new CSS logo](https://github.com/CSS-Next/css-next/issues/105)
 * [2024-10-16, 06:32:26](https://lobste.rs/s/gumt8r/safer_with_google_advancing_memory) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html?m=1)
 * [2024-10-16, 03:00:22](https://lobste.rs/s/cpncvm/introduction_ux_rt_2022) - [Introduction to UX/RT (2022)](https://archive.fosdem.org/2022/schedule/event/awarkentin/attachments/slides/4831/export/events/attachments/awarkentin/slides/4831/uxrt_intro.pdf)
