@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 09:07:49",
+      "https://lobste.rs/s/f3pgi1/announcing_floss_fund_1m_per_year_for_free"
+    ],
+    [
+      "Announcing FLOSS/fund: $1M per year for free and open source projects",
+      "https://floss.fund/blog/announcing-floss-fund/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 08:58:03",
       "https://lobste.rs/s/rgtvrg/implementing_type_safe_printf_rust_2020"
     ],
@@ -37,6 +47,16 @@
     [
       "Call for submissions for a new CSS logo",
       "https://github.com/CSS-Next/css-next/issues/105"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 06:32:26",
+      "https://lobste.rs/s/gumt8r/safer_with_google_advancing_memory"
+    ],
+    [
+      "Safer with Google: Advancing Memory Safety",
+      "https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html?m=1"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-10-15, 11:48:20",
-      "https://lobste.rs/s/xzo2m3/testing_without_mocks_pattern_language"
-    ],
-    [
-      "Testing Without Mocks: A Pattern Language",
-      "https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks"
-    ]
-  ],
-  [
-    [
       "2024-10-15, 11:31:12",
       "https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs"
     ],
@@ -227,16 +237,6 @@
     [
       "Why make software?",
       "https://sean.voisen.org/blog/why-make-software"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 23:56:27",
-      "https://lobste.rs/s/ebrtwx/protocol_for_reliable_notifications"
-    ],
-    [
-      "a protocol for reliable notifications over a 1 bit fallible connection",
-      "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
     ]
   ],
   [
