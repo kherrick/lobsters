@@ -6,6 +6,7 @@
 
 * [2024-10-16, 09:54:13](https://lobste.rs/s/1rjux4/on_cruelty_really_teaching_computing) - [On the cruelty of really teaching computing science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-10-16, 09:54:13](https://lobste.rs/s/1rjux4/e_w_dijkstra_archive_on_cruelty_really) - [E.W. Dijkstra Archive: On the cruelty of really teaching computing science (EWD 1036)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
+* [2024-10-16, 09:51:01](https://lobste.rs/s/funtig/fixing_dns_leak_my_vpn_setup) - [Fixing a DNS leak in my VPN setup](https://blog.orhun.dev/cant-trust-any-vpn/)
 * [2024-10-16, 09:51:01](https://lobste.rs/s/funtig/can_t_trust_any_vpn_these_days) - [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)
 * [2024-10-16, 09:07:49](https://lobste.rs/s/f3pgi1/announcing_floss_fund_1m_per_year_for_free) - [Announcing FLOSS/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 08:58:03](https://lobste.rs/s/rgtvrg/implementing_type_safe_printf_rust_2020) - [Implementing a Type-safe printf in Rust (2020)](https://willcrichton.net/notes/type-safe-printf/)
