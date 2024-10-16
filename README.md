@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 16:03:32](https://lobste.rs/s/caoesm/attacking_apis_using_json_injection) - [Attacking APIs using JSON injection](https://danaepp.com/attacking-apis-using-json-injection)
 * [2024-10-16, 15:30:03](https://lobste.rs/s/clz2na/solving_maker_taker_problem) - [Solving the Maker-Taker problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-16, 13:50:29](https://lobste.rs/s/qew7qb/failure_gpl_2009) - [The Failure of the GPL (2009)](https://www.informit.com/articles/article.aspx?p=1390172)
 * [2024-10-16, 13:43:11](https://lobste.rs/s/lfib4g/talos_linux_api_driven_kubernetes) - [Talos Linux: API driven, Kubernetes operating system](https://talos.dev)
@@ -18,7 +19,6 @@
 * [2024-10-15, 22:09:49](https://lobste.rs/s/mia6yb/how_write_blog_post_about_how_monetize) - [How to Write a Blog Post About How to Monetize a Blog (Satire)](https://modem.io/blog/blog-monetization-making-of/)
 * [2024-10-15, 18:20:47](https://lobste.rs/s/ihtybm/safer_with_google_advancing_memory) - [Safer with Google: Advancing Memory Safety](https://security.googleblog.com/2024/10/safer-with-google-advancing-memory.html)
 * [2024-10-15, 18:05:22](https://lobste.rs/s/w5mhmx/c23_edition_modern_c) - [The C23 edition of Modern C](https://gustedt.wordpress.com/2024/10/15/the-c23-edition-of-modern-c/)
-* [2024-10-15, 18:02:45](https://lobste.rs/s/rirffi/jpeg_xl_s_modular_mode_explained) - [JPEG XL’s Modular Mode Explained](https://cloudinary.com/blog/jpeg-xls-modular-mode-explained)
 * [2024-10-15, 17:42:51](https://lobste.rs/s/pwdhjv/unison_programming_language) - [Unison Programming Language](https://www.unison-lang.org/)
 * [2024-10-15, 15:44:06](https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python) - [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
