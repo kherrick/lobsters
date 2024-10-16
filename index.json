@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 08:22:40",
+      "https://lobste.rs/s/auvpvi/teaching_old_assert_new_tricks"
+    ],
+    [
+      "Teaching old assert() new Tricks",
+      "https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 07:45:11",
       "https://lobste.rs/s/g8buij/memory_safety_without_lifetime"
     ],
@@ -217,16 +227,6 @@
     [
       "Why make software?",
       "https://sean.voisen.org/blog/why-make-software"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 02:57:51",
-      "https://lobste.rs/s/aihcwv/graphics_tricks_from_boomers"
-    ],
-    [
-      "Graphics Tricks from Boomers",
-      "https://arnaud-carre.github.io/2024-09-08-4ktribute/"
     ]
   ],
   [
