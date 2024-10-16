@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 * [2024-10-16, 18:09:31](https://lobste.rs/s/bcg2fe/intent_implication) - [intent and implication](https://explaining.software/archive/intent-and-implication/)
 * [2024-10-16, 17:07:00](https://lobste.rs/s/hask9t/jamesql_memory_nosql_database) - [jamesql: An in-memory NoSQL database implemented in Python](https://github.com/capjamesg/jamesql)
 * [2024-10-16, 16:52:22](https://lobste.rs/s/bwjdbp/be_suspicious_success) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
@@ -24,7 +25,6 @@
 * [2024-10-15, 17:42:51](https://lobste.rs/s/pwdhjv/unison_programming_language) - [Unison Programming Language](https://www.unison-lang.org/)
 * [2024-10-15, 15:44:06](https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python) - [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
-* [2024-10-15, 11:31:12](https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs) - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
 
 ## [Archives](archives/index.md)
 

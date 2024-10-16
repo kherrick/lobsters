@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 * [2024-10-16, 18:09:31](https://lobste.rs/s/bcg2fe/intent_implication) - [intent and implication](https://explaining.software/archive/intent-and-implication/)
 * [2024-10-16, 17:07:00](https://lobste.rs/s/hask9t/jamesql_memory_nosql_database) - [jamesql: An in-memory NoSQL database implemented in Python](https://github.com/capjamesg/jamesql)
 * [2024-10-16, 16:52:22](https://lobste.rs/s/bwjdbp/be_suspicious_success) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
