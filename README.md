@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 16:52:22](https://lobste.rs/s/bwjdbp/be_suspicious_success) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
 * [2024-10-16, 16:03:32](https://lobste.rs/s/caoesm/attacking_apis_using_json_injection) - [Attacking APIs using JSON injection](https://danaepp.com/attacking-apis-using-json-injection)
 * [2024-10-16, 15:30:03](https://lobste.rs/s/clz2na/solving_maker_taker_problem) - [Solving the Maker-Taker problem](https://dri.es/solving-the-maker-taker-problem)
 * [2024-10-16, 13:50:29](https://lobste.rs/s/qew7qb/failure_gpl_2009) - [The Failure of the GPL (2009)](https://www.informit.com/articles/article.aspx?p=1390172)
@@ -24,7 +25,6 @@
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
 * [2024-10-15, 13:24:28](https://lobste.rs/s/hqzq58/minecraft_server_written_rust) - [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 11:31:12](https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs) - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
-* [2024-10-15, 03:32:00](https://lobste.rs/s/jgnxiy/why_make_software) - [Why make software?](https://sean.voisen.org/blog/why-make-software)
 
 ## [Archives](archives/index.md)
 
