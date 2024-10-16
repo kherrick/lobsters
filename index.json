@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 15:30:03",
+      "https://lobste.rs/s/clz2na/solving_maker_taker_problem"
+    ],
+    [
+      "Solving the Maker-Taker problem",
+      "https://dri.es/solving-the-maker-taker-problem"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 13:50:29",
       "https://lobste.rs/s/qew7qb/failure_gpl_2009"
     ],
@@ -227,16 +237,6 @@
     [
       "LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite",
       "https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 03:50:39",
-      "https://lobste.rs/s/wmu16g/new_passkey_specifications_will_let"
-    ],
-    [
-      "New passkey specifications will let users import and export them",
-      "https://9to5mac.com/2024/10/14/new-passkeys-import-export/"
     ]
   ],
   [
