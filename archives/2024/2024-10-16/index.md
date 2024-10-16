@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 08:58:03](https://lobste.rs/s/rgtvrg/implementing_type_safe_printf_rust_2020) - [Implementing a Type-safe printf in Rust (2020)](https://willcrichton.net/notes/type-safe-printf/)
 * [2024-10-16, 08:22:40](https://lobste.rs/s/auvpvi/teaching_old_assert_new_tricks) - [Teaching old assert() new Tricks](https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/)
 * [2024-10-16, 07:45:11](https://lobste.rs/s/g8buij/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://safecpp.org/draft-lifetimes.html)
 * [2024-10-16, 07:13:05](https://lobste.rs/s/u300ns/call_for_submissions_for_new_css_logo) - [Call for submissions for a new CSS logo](https://github.com/CSS-Next/css-next/issues/105)

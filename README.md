@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 08:58:03](https://lobste.rs/s/rgtvrg/implementing_type_safe_printf_rust_2020) - [Implementing a Type-safe printf in Rust (2020)](https://willcrichton.net/notes/type-safe-printf/)
 * [2024-10-16, 08:22:40](https://lobste.rs/s/auvpvi/teaching_old_assert_new_tricks) - [Teaching old assert() new Tricks](https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/)
 * [2024-10-16, 07:45:11](https://lobste.rs/s/g8buij/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://safecpp.org/draft-lifetimes.html)
 * [2024-10-16, 07:13:05](https://lobste.rs/s/u300ns/call_for_submissions_for_new_css_logo) - [Call for submissions for a new CSS logo](https://github.com/CSS-Next/css-next/issues/105)
@@ -17,7 +18,6 @@
 * [2024-10-15, 15:59:22](https://lobste.rs/s/h1btzk/code_formatting_documents) - [Code formatting in documents](https://jmtd.net/log/formatting/)
 * [2024-10-15, 15:44:06](https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python) - [Should you use uv’s managed Python in production?](https://pythonspeed.com/articles/uv-python-production/)
 * [2024-10-15, 14:12:09](https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have) - [Passwords have problems, but passkeys have more](https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9)
-* [2024-10-15, 13:45:30](https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases) - [Categorizing How Distributed Databases Utilize Consensus Algorithms](https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916)
 * [2024-10-15, 13:24:28](https://lobste.rs/s/hqzq58/minecraft_server_written_rust) - [A minecraft server written in rust](https://github.com/Snowiiii/Pumpkin)
 * [2024-10-15, 11:48:20](https://lobste.rs/s/xzo2m3/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2024-10-15, 11:31:12](https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs) - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
