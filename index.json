@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-16, 12:56:50",
+      "https://lobste.rs/s/y2gpkx/ghc_9_12_1_alpha_1_release_notes"
+    ],
+    [
+      "GHC 9.12.1 (alpha 1) release notes",
+      "https://downloads.haskell.org/ghc/9.12.1-alpha1/docs/users_guide/9.12.1-notes.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 12:46:26",
+      "https://lobste.rs/s/a7fgiw/pumps_eager_streams_for_rust"
+    ],
+    [
+      "Pumps - eager streams for rust",
+      "https://github.com/alexpusch/pumps_rs"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 09:54:13",
       "https://lobste.rs/s/1rjux4/on_cruelty_really_teaching_computing"
     ],
@@ -57,16 +77,6 @@
     [
       "Call for submissions for a new CSS logo",
       "https://github.com/CSS-Next/css-next/issues/105"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 03:00:22",
-      "https://lobste.rs/s/cpncvm/introduction_ux_rt_2022"
-    ],
-    [
-      "Introduction to UX/RT (2022)",
-      "https://archive.fosdem.org/2022/schedule/event/awarkentin/attachments/slides/4831/export/events/attachments/awarkentin/slides/4831/uxrt_intro.pdf"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Unlocking the NES (for Former Dawn)",
       "https://somethingnerdy.com/unlocking-the-nes-for-former-dawn/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 15:59:22",
-      "https://lobste.rs/s/h1btzk/code_formatting_documents"
-    ],
-    [
-      "Code formatting in documents",
-      "https://jmtd.net/log/formatting/"
     ]
   ],
   [
