@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 16:52:22",
+      "https://lobste.rs/s/bwjdbp/be_suspicious_success"
+    ],
+    [
+      "Be Suspicious of Success",
+      "https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 16:03:32",
       "https://lobste.rs/s/caoesm/attacking_apis_using_json_injection"
     ],
@@ -237,16 +247,6 @@
     [
       "LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite",
       "https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 03:32:00",
-      "https://lobste.rs/s/jgnxiy/why_make_software"
-    ],
-    [
-      "Why make software?",
-      "https://sean.voisen.org/blog/why-make-software"
     ]
   ]
 ]
