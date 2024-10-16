@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
+* [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 19:00:53](https://lobste.rs/s/kkqgut/heresy_inspect_instrument_react_native) - [heresy: Inspect and Instrument React Native Applications at Runtime](https://github.com/Pilfer/heresy)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 * [2024-10-16, 18:09:31](https://lobste.rs/s/bcg2fe/intent_implication) - [intent and implication](https://explaining.software/archive/intent-and-implication/)
