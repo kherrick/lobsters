@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 00:43:48](https://lobste.rs/s/zpdt7x/missing_ide_feature_fold_method_bodies_by) - [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-10-15, 22:25:59](https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 * [2024-10-15, 22:09:49](https://lobste.rs/s/mia6yb/how_write_blog_post_about_how_monetize) - [How to Write a Blog Post About How to Monetize a Blog (Satire)](https://modem.io/blog/blog-monetization-making-of/)
 * [2024-10-15, 19:14:55](https://lobste.rs/s/5hulmh/why_pin_is_part_trait_signatures_why_s) - [Why `Pin` is a part of trait signatures (and why that's a problem)](https://blog.yoshuawuyts.com/why-pin/)
@@ -16,7 +17,6 @@
 * [2024-10-15, 11:48:20](https://lobste.rs/s/xzo2m3/testing_without_mocks_pattern_language) - [Testing Without Mocks: A Pattern Language](https://www.jamesshore.com/v2/projects/nullables/testing-without-mocks)
 * [2024-10-15, 11:31:12](https://lobste.rs/s/wrh2rs/localstorage_vs_indexeddb_vs_cookies_vs) - [LocalStorage vs. IndexedDB vs. Cookies vs. OPFS vs. WASM-SQLite](https://rxdb.info/articles/localstorage-indexeddb-cookies-opfs-sqlite-wasm.html)
 * [2024-10-15, 09:43:43](https://lobste.rs/s/v5pahv/how_corrupt_sqlite_database_file) - [How To Corrupt An SQLite Database File](https://sqlite.org/draft/howtocorrupt.html)
-* [2024-10-15, 09:22:49](https://lobste.rs/s/1h3cdx/build_systems_not_heroes) - [Build Systems, Not Heroes](https://vitonsky.net/blog/2024/10/11/system-approach/)
 * [2024-10-15, 09:05:31](https://lobste.rs/s/bmjuua/rags_riches_chat_with_git_projects) - [RAGs to RIChes: chat with git projects](https://www.machtiani.chat/blogs/rags-to-riches)
 * [2024-10-15, 03:50:39](https://lobste.rs/s/wmu16g/new_passkey_specifications_will_let) - [New passkey specifications will let users import and export them](https://9to5mac.com/2024/10/14/new-passkeys-import-export/)
 * [2024-10-15, 03:32:00](https://lobste.rs/s/jgnxiy/why_make_software) - [Why make software?](https://sean.voisen.org/blog/why-make-software)
