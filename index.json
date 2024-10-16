@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 08:58:03",
+      "https://lobste.rs/s/rgtvrg/implementing_type_safe_printf_rust_2020"
+    ],
+    [
+      "Implementing a Type-safe printf in Rust (2020)",
+      "https://willcrichton.net/notes/type-safe-printf/"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 08:22:40",
       "https://lobste.rs/s/auvpvi/teaching_old_assert_new_tricks"
     ],
@@ -167,16 +177,6 @@
     [
       "Passwords have problems, but passkeys have more",
       "https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 13:45:30",
-      "https://lobste.rs/s/l5ejqh/categorizing_how_distributed_databases"
-    ],
-    [
-      "Categorizing How Distributed Databases Utilize Consensus Algorithms",
-      "https://medium.com/@adamprout/categorizing-how-distributed-databases-utilize-consensus-algorithms-492c8ff9e916"
     ]
   ],
   [
