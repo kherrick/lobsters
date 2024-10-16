@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-10-16, 21:37:09](https://lobste.rs/s/b1rwdd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 2](https://jnsgr.uk/2024/10/writing-a-home-assistant-integration/)
+* [2024-10-16, 19:45:56](https://lobste.rs/s/erncqg/future_archivebox) - [The Future of ArchiveBox](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement#)
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 18:55:15](https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c) - [How to Make Racket Go (Almost) As Fast As C](https://lambdaland.org/posts/2024-09-27_threaded_interpreter/)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
@@ -15,7 +16,6 @@
 * [2024-10-16, 09:54:13](https://lobste.rs/s/1rjux4/on_cruelty_really_teaching_computing) - [On the cruelty of really teaching computing science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-10-16, 09:51:01](https://lobste.rs/s/funtig/fixing_dns_leak_my_vpn_setup) - [Fixing a DNS leak in my VPN setup](https://blog.orhun.dev/cant-trust-any-vpn/)
 * [2024-10-16, 09:07:49](https://lobste.rs/s/f3pgi1/announcing_floss_fund_1m_per_year_for_free) - [Announcing FLOSS/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
-* [2024-10-16, 08:22:40](https://lobste.rs/s/auvpvi/teaching_old_assert_new_tricks) - [Teaching old assert() new Tricks](https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/)
 * [2024-10-16, 07:45:11](https://lobste.rs/s/g8buij/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://safecpp.org/draft-lifetimes.html)
 * [2024-10-16, 07:13:05](https://lobste.rs/s/u300ns/call_for_submissions_for_new_css_logo) - [Call for submissions for a new CSS logo](https://github.com/CSS-Next/css-next/issues/105)
 * [2024-10-16, 02:31:18](https://lobste.rs/s/hj0ab1/rogue_legacy_code_is_now_source_available) - [Rogue Legacy code is now source available](https://github.com/flibitijibibo/RogueLegacy1/)

@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
 * [2024-10-16, 21:37:09](https://lobste.rs/s/b1rwdd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 2](https://jnsgr.uk/2024/10/writing-a-home-assistant-integration/)
+* [2024-10-16, 19:45:56](https://lobste.rs/s/erncqg/future_archivebox) - [The Future of ArchiveBox](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement#)
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 19:00:53](https://lobste.rs/s/kkqgut/heresy_inspect_instrument_react_native) - [heresy: Inspect and Instrument React Native Applications at Runtime](https://github.com/Pilfer/heresy)
 * [2024-10-16, 18:55:15](https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c) - [How to Make Racket Go (Almost) As Fast As C](https://lambdaland.org/posts/2024-09-27_threaded_interpreter/)
