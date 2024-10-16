@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 21:37:09](https://lobste.rs/s/b1rwdd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 2](https://jnsgr.uk/2024/10/writing-a-home-assistant-integration/)
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 18:55:15](https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c) - [How to Make Racket Go (Almost) As Fast As C](https://lambdaland.org/posts/2024-09-27_threaded_interpreter/)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
-* [2024-10-16, 18:13:00](https://lobste.rs/s/hcqctn/unpincell) - [UnpinCell](https://without.boats/blog/unpin-cell/)
 * [2024-10-16, 17:07:00](https://lobste.rs/s/hask9t/jamesql_memory_nosql_database) - [jamesql: An in-memory NoSQL database implemented in Python](https://github.com/capjamesg/jamesql)
 * [2024-10-16, 16:52:22](https://lobste.rs/s/bwjdbp/be_suspicious_success) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
 * [2024-10-16, 15:30:03](https://lobste.rs/s/clz2na/solving_maker_taker_problem) - [Solving the Maker-Taker problem](https://dri.es/solving-the-maker-taker-problem)
