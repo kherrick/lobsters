@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-16, 03:00:22",
+      "https://lobste.rs/s/cpncvm/introduction_ux_rt_2022"
+    ],
+    [
+      "Introduction to UX/RT (2022)",
+      "https://archive.fosdem.org/2022/schedule/event/awarkentin/attachments/slides/4831/export/events/attachments/awarkentin/slides/4831/uxrt_intro.pdf"
+    ]
+  ],
+  [
+    [
       "2024-10-16, 00:43:48",
       "https://lobste.rs/s/zpdt7x/missing_ide_feature_fold_method_bodies_by"
     ],
@@ -217,16 +227,6 @@
     [
       "a protocol for reliable notifications over a 1 bit fallible connection",
       "https://paper.wf/binarycat/a-protocol-for-reliable-notifications-over-a-1-bit-fallible-connection"
-    ]
-  ],
-  [
-    [
-      "2024-10-14, 19:57:41",
-      "https://lobste.rs/s/xaudjm/moving_llvm_ir"
-    ],
-    [
-      "Moving to LLVM IR",
-      "https://jank-lang.org/blog/2024-10-14-llvm-ir/"
     ]
   ],
   [
