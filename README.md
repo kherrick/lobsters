@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-16, 09:51:01](https://lobste.rs/s/funtig/can_t_trust_any_vpn_these_days) - [Can't trust any VPN these days](https://blog.orhun.dev/cant-trust-any-vpn/)
 * [2024-10-16, 09:07:49](https://lobste.rs/s/f3pgi1/announcing_floss_fund_1m_per_year_for_free) - [Announcing FLOSS/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
-* [2024-10-16, 08:58:03](https://lobste.rs/s/rgtvrg/implementing_type_safe_printf_rust_2020) - [Implementing a Type-safe printf in Rust (2020)](https://willcrichton.net/notes/type-safe-printf/)
 * [2024-10-16, 08:22:40](https://lobste.rs/s/auvpvi/teaching_old_assert_new_tricks) - [Teaching old assert() new Tricks](https://blog.ngs-lang.org/2024/10/06/teaching-old-assert-new-tricks/)
 * [2024-10-16, 07:45:11](https://lobste.rs/s/g8buij/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://safecpp.org/draft-lifetimes.html)
 * [2024-10-16, 07:13:05](https://lobste.rs/s/u300ns/call_for_submissions_for_new_css_logo) - [Call for submissions for a new CSS logo](https://github.com/CSS-Next/css-next/issues/105)
