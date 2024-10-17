@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-17, 20:58:52](https://lobste.rs/s/n7jthe/taste_go_code_generator_magic_quick_guide) - [A taste of Go code generator magic: a quick guide to getting started](https://evilmartians.com/chronicles/a-taste-of-go-code-generator-magic-a-quick-guide-to-getting-started)
 * [2024-10-17, 20:52:19](https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail) - [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
 * [2024-10-17, 19:54:37](https://lobste.rs/s/4l4yo7/js0_jssugar_tooling_will_continue_until) - [JS0/JSSugar: the tooling will continue until morale improves](https://caolan.uk/notes/2024-10-14_js0_jssugar.cm)
 * [2024-10-17, 19:20:12](https://lobste.rs/s/52rbc1/schema_changes_postgres_lock_queue) - [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
@@ -15,6 +14,7 @@
 * [2024-10-17, 09:56:53](https://lobste.rs/s/grv7hp/why_is_everybody_talking_about_sync) - [Why is everybody talking about sync engines?](https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J)
 * [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-17, 07:28:10](https://lobste.rs/s/cw8gix/escaping_chrome_sandbox_through) - [Escaping the Chrome sandbox through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
+* [2024-10-17, 07:16:43](https://lobste.rs/s/mvenmv/outsmarting_cs_go_cheaters_with) - [Outsmarting CS:GO cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 * [2024-10-17, 06:04:58](https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site) - [Exploring the intertwingularity of a docs site](https://technicalwriting.dev/data/intertwingularity.html)
 * [2024-10-17, 00:05:59](https://lobste.rs/s/yfle1q/p3477r0_there_are_exactly_8_bits_byte) - [P3477R0: There are exactly 8 bits in a byte](https://isocpp.org/files/papers/P3477R0.html)
 * [2024-10-16, 23:23:17](https://lobste.rs/s/ra2wsw/discovering_features_information_via) - [Discovering features and information via HTTP OPTIONS](https://evertpot.com/discovering-features-with-http-options/)
