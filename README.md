@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 * [2024-10-17, 12:20:54](https://lobste.rs/s/gtmxk3/effective_fuzzing_dav1d_case_study) - [Effective fuzzing: A dav1d case study](https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html)
 * [2024-10-17, 10:22:55](https://lobste.rs/s/lfguc0/mathematical_model_package_management) - [A Mathematical Model of Package Management Systems](https://arxiv.org/abs/2302.05417)
@@ -17,7 +18,6 @@
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 18:55:15](https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c) - [How to Make Racket Go (Almost) As Fast As C](https://lambdaland.org/posts/2024-09-27_threaded_interpreter/)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
-* [2024-10-16, 17:07:00](https://lobste.rs/s/hask9t/jamesql_memory_nosql_database) - [jamesql: An in-memory NoSQL database implemented in Python](https://github.com/capjamesg/jamesql)
 * [2024-10-16, 16:52:22](https://lobste.rs/s/bwjdbp/be_suspicious_success) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
 * [2024-10-16, 13:50:29](https://lobste.rs/s/qew7qb/failure_gpl_2009) - [The Failure of the GPL (2009)](https://www.informit.com/articles/article.aspx?p=1390172)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)

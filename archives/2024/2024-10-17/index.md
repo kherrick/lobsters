@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 * [2024-10-17, 12:20:54](https://lobste.rs/s/gtmxk3/effective_fuzzing_dav1d_case_study) - [Effective fuzzing: A dav1d case study](https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html)
 * [2024-10-17, 10:22:55](https://lobste.rs/s/lfguc0/mathematical_model_package_management) - [A Mathematical Model of Package Management Systems](https://arxiv.org/abs/2302.05417)
