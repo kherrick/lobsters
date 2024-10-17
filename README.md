@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-17, 20:52:19](https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail) - [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
 * [2024-10-17, 19:54:37](https://lobste.rs/s/4l4yo7/js0_jssugar_tooling_will_continue_until) - [JS0/JSSugar: the tooling will continue until morale improves](https://caolan.uk/notes/2024-10-14_js0_jssugar.cm)
 * [2024-10-17, 19:20:12](https://lobste.rs/s/52rbc1/schema_changes_postgres_lock_queue) - [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
 * [2024-10-17, 18:49:22](https://lobste.rs/s/aradvn/openhcl_new_open_source_paravisor) - [OpenHCL: the new, open source paravisor](https://techcommunity.microsoft.com/t5/windows-os-platform-blog/openhcl-the-new-open-source-paravisor/ba-p/4273172)
@@ -24,7 +25,6 @@
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 * [2024-10-16, 12:46:26](https://lobste.rs/s/a7fgiw/pumps_eager_streams_for_rust) - [Pumps - eager streams for rust](https://github.com/alexpusch/pumps_rs)
-* [2024-10-16, 09:51:01](https://lobste.rs/s/funtig/fixing_dns_leak_my_vpn_setup) - [Fixing a DNS leak in my VPN setup](https://blog.orhun.dev/cant-trust-any-vpn/)
 
 ## [Archives](archives/index.md)
 
