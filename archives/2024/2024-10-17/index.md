@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 19:54:37](https://lobste.rs/s/4l4yo7/js0_jssugar_tooling_will_continue_until) - [JS0/JSSugar: the tooling will continue until morale improves](https://caolan.uk/notes/2024-10-14_js0_jssugar.cm)
 * [2024-10-17, 19:20:12](https://lobste.rs/s/52rbc1/schema_changes_postgres_lock_queue) - [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
 * [2024-10-17, 18:49:22](https://lobste.rs/s/aradvn/openhcl_new_open_source_paravisor) - [OpenHCL: the new, open source paravisor](https://techcommunity.microsoft.com/t5/windows-os-platform-blog/openhcl-the-new-open-source-paravisor/ba-p/4273172)
 * [2024-10-17, 18:16:46](https://lobste.rs/s/gax96g/supercharge_one_person_framework_with) - [Supercharge the One Person Framework with SQLite](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
