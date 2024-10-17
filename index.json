@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 12:20:54",
+      "https://lobste.rs/s/gtmxk3/effective_fuzzing_dav1d_case_study"
+    ],
+    [
+      "Effective fuzzing: A dav1d case study",
+      "https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 10:22:55",
       "https://lobste.rs/s/lfguc0/mathematical_model_package_management"
     ],
@@ -177,16 +187,6 @@
     [
       "The Failure of the GPL (2009)",
       "https://www.informit.com/articles/article.aspx?p=1390172"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 13:43:11",
-      "https://lobste.rs/s/lfib4g/talos_linux_api_driven_kubernetes"
-    ],
-    [
-      "Talos Linux: API driven, Kubernetes operating system",
-      "https://talos.dev"
     ]
   ],
   [
