@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 17:08:24",
+      "https://lobste.rs/s/k8qaij/announcing_rust_1_82_0"
+    ],
+    [
+      "Announcing Rust 1.82.0",
+      "https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 15:39:55",
       "https://lobste.rs/s/un1bzp/creating_accessible_figures_tables"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing FLOSS/fund: $1M per year for free and open source projects",
       "https://floss.fund/blog/announcing-floss-fund/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 22:25:59",
-      "https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways"
-    ],
-    [
-      "Damas-Hindley-Milner inference two ways",
-      "https://bernsteinbear.com/blog/type-inference/"
     ]
   ]
 ]
