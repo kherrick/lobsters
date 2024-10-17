@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-16, 21:38:11",
-      "https://lobste.rs/s/vcvykj/75x_faster_optimizing_ion_compiler"
-    ],
-    [
-      "75x faster: optimizing the Ion compiler backend",
-      "https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 21:16:01",
       "https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available"
     ],
@@ -67,6 +57,16 @@
     [
       "When should I use String vs &str?",
       "https://steveklabnik.com/writing/when-should-i-use-string-vs-str/"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 18:13:00",
+      "https://lobste.rs/s/hcqctn/unpincell"
+    ],
+    [
+      "UnpinCell",
+      "https://without.boats/blog/unpin-cell/"
     ]
   ],
   [
