@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 17:08:24](https://lobste.rs/s/k8qaij/announcing_rust_1_82_0) - [Announcing Rust 1.82.0](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
 * [2024-10-17, 15:39:55](https://lobste.rs/s/un1bzp/creating_accessible_figures_tables) - [Creating Accessible Figures and Tables](https://dis.acm.org/2023/creating-accessible-figures-and-tables/)
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
