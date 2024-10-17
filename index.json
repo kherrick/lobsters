@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-17, 09:20:07",
+      "https://lobste.rs/s/t3j7yb/danger_ai_scientist_danger"
+    ],
+    [
+      "Danger, AI Scientist, Danger",
+      "https://thezvi.substack.com/p/danger-ai-scientist-danger"
+    ]
+  ],
+  [
+    [
+      "2024-10-17, 09:11:53",
+      "https://lobste.rs/s/lbibtm/undefinedbehaviorsanitizer_s"
+    ],
+    [
+      "UndefinedBehaviorSanitizer’s unexpected behavior",
+      "https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 08:47:15",
       "https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-10-16, 12:56:50",
-      "https://lobste.rs/s/y2gpkx/ghc_9_12_1_alpha_1_release_notes"
-    ],
-    [
-      "GHC 9.12.1 (alpha 1) release notes",
-      "https://downloads.haskell.org/ghc/9.12.1-alpha1/docs/users_guide/9.12.1-notes.html"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 12:46:26",
       "https://lobste.rs/s/a7fgiw/pumps_eager_streams_for_rust"
     ],
@@ -217,16 +227,6 @@
     [
       "Memory Safety without Lifetime Parameters",
       "https://safecpp.org/draft-lifetimes.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 07:13:05",
-      "https://lobste.rs/s/u300ns/call_for_submissions_for_new_css_logo"
-    ],
-    [
-      "Call for submissions for a new CSS logo",
-      "https://github.com/CSS-Next/css-next/issues/105"
     ]
   ],
   [
