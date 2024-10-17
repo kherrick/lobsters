@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 05:47:08",
+      "https://lobste.rs/s/kqnje6/product_security_bad_practices_cisa"
+    ],
+    [
+      "Product Security Bad Practices | CISA",
+      "https://www.cisa.gov/resources-tools/resources/product-security-bad-practices"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 00:05:59",
       "https://lobste.rs/s/yfle1q/p3477r0_there_are_exactly_8_bits_byte"
     ],
@@ -227,16 +237,6 @@
     [
       "How to Write a Blog Post About How to Monetize a Blog",
       "https://modem.io/blog/blog-monetization-making-of/"
-    ]
-  ],
-  [
-    [
-      "2024-10-15, 15:44:06",
-      "https://lobste.rs/s/ilv9jn/should_you_use_uv_s_managed_python"
-    ],
-    [
-      "Should you use uv’s managed Python in production?",
-      "https://pythonspeed.com/articles/uv-python-production/"
     ]
   ],
   [
