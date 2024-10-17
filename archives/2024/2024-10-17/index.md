@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 18:49:22](https://lobste.rs/s/aradvn/openhcl_new_open_source_paravisor) - [OpenHCL: the new, open source paravisor](https://techcommunity.microsoft.com/t5/windows-os-platform-blog/openhcl-the-new-open-source-paravisor/ba-p/4273172)
 * [2024-10-17, 18:16:46](https://lobste.rs/s/gax96g/supercharge_one_person_framework_with) - [Supercharge the One Person Framework with SQLite](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
 * [2024-10-17, 18:06:22](https://lobste.rs/s/ehcxwx/video_scraping_extracting_json_data_from) - [Video scraping, extracting JSON data from a 35s screen capture for less than 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 * [2024-10-17, 17:33:46](https://lobste.rs/s/wxb65i/adams_bridge_accelerator_for_post) - [Adams Bridge: An Accelerator for Post-Quantum Resilient Cryptography](https://techcommunity.microsoft.com/t5/azure-confidential-computing/adams-bridge-an-accelerator-for-post-quantum-resilient/ba-p/4269585)
