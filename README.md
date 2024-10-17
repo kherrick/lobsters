@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-17, 05:47:08](https://lobste.rs/s/kqnje6/product_security_bad_practices_cisa) - [Product Security Bad Practices | CISA](https://www.cisa.gov/resources-tools/resources/product-security-bad-practices)
+* [2024-10-17, 06:04:58](https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site) - [Exploring the intertwingularity of a docs site](https://technicalwriting.dev/data/intertwingularity.html)
 * [2024-10-17, 00:05:59](https://lobste.rs/s/yfle1q/p3477r0_there_are_exactly_8_bits_byte) - [P3477R0: There are exactly 8 bits in a byte](https://isocpp.org/files/papers/P3477R0.html)
 * [2024-10-16, 23:23:17](https://lobste.rs/s/ra2wsw/discovering_features_information_via) - [Discovering features and information via HTTP OPTIONS](https://evertpot.com/discovering-features-with-http-options/)
 * [2024-10-16, 21:38:11](https://lobste.rs/s/vcvykj/75x_faster_optimizing_ion_compiler) - [75x faster: optimizing the Ion compiler backend](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
