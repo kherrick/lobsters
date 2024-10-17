@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2024-10-16](index.md)
 
 * [2024-10-16, 23:23:17](https://lobste.rs/s/ra2wsw/discovering_features_information_via) - [Discovering features and information via HTTP OPTIONS](https://evertpot.com/discovering-features-with-http-options/)
+* [2024-10-16, 21:38:11](https://lobste.rs/s/vcvykj/75x_faster_optimizing_ion_compiler) - [75x faster: optimizing the Ion compiler backend](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 * [2024-10-16, 21:37:09](https://lobste.rs/s/b1rwdd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 2](https://jnsgr.uk/2024/10/writing-a-home-assistant-integration/)
+* [2024-10-16, 21:16:01](https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available) - [Forgejo v9.0 is available](https://forgejo.org/2024-10-release-v9-0/)
 * [2024-10-16, 19:45:56](https://lobste.rs/s/erncqg/future_archivebox) - [The Future of ArchiveBox](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement#)
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 19:00:53](https://lobste.rs/s/kkqgut/heresy_inspect_instrument_react_native) - [heresy: Inspect and Instrument React Native Applications at Runtime](https://github.com/Pilfer/heresy)

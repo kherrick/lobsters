@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-10-16, 23:23:17](https://lobste.rs/s/ra2wsw/discovering_features_information_via) - [Discovering features and information via HTTP OPTIONS](https://evertpot.com/discovering-features-with-http-options/)
-* [2024-10-16, 21:37:09](https://lobste.rs/s/b1rwdd/writing_home_assistant_core_integration) - [Writing a Home Assistant Core Integration: Part 2](https://jnsgr.uk/2024/10/writing-a-home-assistant-integration/)
+* [2024-10-16, 21:38:11](https://lobste.rs/s/vcvykj/75x_faster_optimizing_ion_compiler) - [75x faster: optimizing the Ion compiler backend](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
+* [2024-10-16, 21:16:01](https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available) - [Forgejo v9.0 is available](https://forgejo.org/2024-10-release-v9-0/)
 * [2024-10-16, 19:45:56](https://lobste.rs/s/erncqg/future_archivebox) - [The Future of ArchiveBox](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement#)
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 18:55:15](https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c) - [How to Make Racket Go (Almost) As Fast As C](https://lambdaland.org/posts/2024-09-27_threaded_interpreter/)
@@ -18,7 +19,6 @@
 * [2024-10-16, 09:07:49](https://lobste.rs/s/f3pgi1/announcing_floss_fund_1m_per_year_for_free) - [Announcing FLOSS/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 07:45:11](https://lobste.rs/s/g8buij/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://safecpp.org/draft-lifetimes.html)
 * [2024-10-16, 07:13:05](https://lobste.rs/s/u300ns/call_for_submissions_for_new_css_logo) - [Call for submissions for a new CSS logo](https://github.com/CSS-Next/css-next/issues/105)
-* [2024-10-16, 02:31:18](https://lobste.rs/s/hj0ab1/rogue_legacy_code_is_now_source_available) - [Rogue Legacy code is now source available](https://github.com/flibitijibibo/RogueLegacy1/)
 * [2024-10-16, 00:43:48](https://lobste.rs/s/zpdt7x/missing_ide_feature_fold_method_bodies_by) - [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-10-15, 22:25:59](https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 * [2024-10-15, 22:09:49](https://lobste.rs/s/mia6yb/how_write_blog_post_about_how_monetize) - [How to Write a Blog Post About How to Monetize a Blog](https://modem.io/blog/blog-monetization-making-of/)
