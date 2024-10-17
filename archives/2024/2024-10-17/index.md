@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 07:31:29](https://lobste.rs/s/pevkif/heterogeneous_sli_vs_homogeneous_sli) - [Heterogeneous SLI vs Homogeneous SLI](https://blog.alexewerlof.com/p/sli-heterogeneous-vs-homogeneous)
 * [2024-10-17, 07:28:10](https://lobste.rs/s/cw8gix/escaping_chrome_sandbox_through) - [Escaping the Chrome sandbox through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 * [2024-10-17, 06:04:58](https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site) - [Exploring the intertwingularity of a docs site](https://technicalwriting.dev/data/intertwingularity.html)
 * [2024-10-17, 05:47:08](https://lobste.rs/s/kqnje6/product_security_bad_practices_cisa) - [Product Security Bad Practices | CISA](https://www.cisa.gov/resources-tools/resources/product-security-bad-practices)
