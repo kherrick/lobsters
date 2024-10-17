@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-17, 17:33:46",
+      "https://lobste.rs/s/wxb65i/adams_bridge_accelerator_for_post"
+    ],
+    [
+      "Adams Bridge: An Accelerator for Post-Quantum Resilient Cryptography",
+      "https://techcommunity.microsoft.com/t5/azure-confidential-computing/adams-bridge-an-accelerator-for-post-quantum-resilient/ba-p/4269585"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 17:08:24",
       "https://lobste.rs/s/k8qaij/announcing_rust_1_82_0"
     ],
@@ -37,16 +47,6 @@
     [
       "Yes, Go Does Have Exceptions",
       "https://kristoff.it/blog/go-exceptions/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 12:20:54",
-      "https://lobste.rs/s/gtmxk3/effective_fuzzing_dav1d_case_study"
-    ],
-    [
-      "Effective fuzzing: A dav1d case study",
-      "https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html"
     ]
   ],
   [
