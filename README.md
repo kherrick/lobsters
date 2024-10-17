@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-17, 09:20:07](https://lobste.rs/s/t3j7yb/danger_ai_scientist_danger) - [Danger, AI Scientist, Danger](https://thezvi.substack.com/p/danger-ai-scientist-danger)
+* [2024-10-17, 09:11:53](https://lobste.rs/s/lbibtm/undefinedbehaviorsanitizer_s) - [UndefinedBehaviorSanitizer’s unexpected behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
 * [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-17, 07:28:10](https://lobste.rs/s/cw8gix/escaping_chrome_sandbox_through) - [Escaping the Chrome sandbox through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 * [2024-10-17, 06:04:58](https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site) - [Exploring the intertwingularity of a docs site](https://technicalwriting.dev/data/intertwingularity.html)
@@ -16,13 +18,11 @@
 * [2024-10-16, 13:50:29](https://lobste.rs/s/qew7qb/failure_gpl_2009) - [The Failure of the GPL (2009)](https://www.informit.com/articles/article.aspx?p=1390172)
 * [2024-10-16, 13:43:11](https://lobste.rs/s/lfib4g/talos_linux_api_driven_kubernetes) - [Talos Linux: API driven, Kubernetes operating system](https://talos.dev)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
-* [2024-10-16, 12:56:50](https://lobste.rs/s/y2gpkx/ghc_9_12_1_alpha_1_release_notes) - [GHC 9.12.1 (alpha 1) release notes](https://downloads.haskell.org/ghc/9.12.1-alpha1/docs/users_guide/9.12.1-notes.html)
 * [2024-10-16, 12:46:26](https://lobste.rs/s/a7fgiw/pumps_eager_streams_for_rust) - [Pumps - eager streams for rust](https://github.com/alexpusch/pumps_rs)
 * [2024-10-16, 09:54:13](https://lobste.rs/s/1rjux4/on_cruelty_really_teaching_computing) - [On the cruelty of really teaching computing science](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2024-10-16, 09:51:01](https://lobste.rs/s/funtig/fixing_dns_leak_my_vpn_setup) - [Fixing a DNS leak in my VPN setup](https://blog.orhun.dev/cant-trust-any-vpn/)
 * [2024-10-16, 09:07:49](https://lobste.rs/s/f3pgi1/announcing_floss_fund_1m_per_year_for_free) - [Announcing FLOSS/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
 * [2024-10-16, 07:45:11](https://lobste.rs/s/g8buij/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://safecpp.org/draft-lifetimes.html)
-* [2024-10-16, 07:13:05](https://lobste.rs/s/u300ns/call_for_submissions_for_new_css_logo) - [Call for submissions for a new CSS logo](https://github.com/CSS-Next/css-next/issues/105)
 * [2024-10-16, 00:43:48](https://lobste.rs/s/zpdt7x/missing_ide_feature_fold_method_bodies_by) - [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-10-15, 22:25:59](https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 

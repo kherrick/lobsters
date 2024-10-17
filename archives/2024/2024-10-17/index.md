@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 09:20:07](https://lobste.rs/s/t3j7yb/danger_ai_scientist_danger) - [Danger, AI Scientist, Danger](https://thezvi.substack.com/p/danger-ai-scientist-danger)
+* [2024-10-17, 09:11:53](https://lobste.rs/s/lbibtm/undefinedbehaviorsanitizer_s) - [UndefinedBehaviorSanitizer’s unexpected behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
 * [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-17, 07:31:29](https://lobste.rs/s/pevkif/heterogeneous_sli_vs_homogeneous_sli) - [Heterogeneous SLI vs Homogeneous SLI](https://blog.alexewerlof.com/p/sli-heterogeneous-vs-homogeneous)
 * [2024-10-17, 07:28:10](https://lobste.rs/s/cw8gix/escaping_chrome_sandbox_through) - [Escaping the Chrome sandbox through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
