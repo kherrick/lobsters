@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 20:58:52](https://lobste.rs/s/n7jthe/taste_go_code_generator_magic_quick_guide) - [A taste of Go code generator magic: a quick guide to getting started](https://evilmartians.com/chronicles/a-taste-of-go-code-generator-magic-a-quick-guide-to-getting-started)
 * [2024-10-17, 20:52:19](https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail) - [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
 * [2024-10-17, 19:54:37](https://lobste.rs/s/4l4yo7/js0_jssugar_tooling_will_continue_until) - [JS0/JSSugar: the tooling will continue until morale improves](https://caolan.uk/notes/2024-10-14_js0_jssugar.cm)
 * [2024-10-17, 19:20:12](https://lobste.rs/s/52rbc1/schema_changes_postgres_lock_queue) - [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
