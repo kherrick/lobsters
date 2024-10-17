@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-10-17, 07:28:10",
-      "https://lobste.rs/s/cw8gix/escaping_chrome_sandbox_through"
-    ],
-    [
-      "Escaping the Chrome sandbox through DevTools",
-      "https://ading.dev/blog/posts/chrome_sandbox_escape.html"
-    ]
-  ],
-  [
-    [
       "2024-10-17, 06:04:58",
       "https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site"
     ],
@@ -247,6 +237,16 @@
     [
       "Damas-Hindley-Milner inference two ways",
       "https://bernsteinbear.com/blog/type-inference/"
+    ]
+  ],
+  [
+    [
+      "2024-10-15, 14:12:09",
+      "https://lobste.rs/s/2mgwsz/passwords_have_problems_passkeys_have"
+    ],
+    [
+      "Passwords have problems, but passkeys have more",
+      "https://world.hey.com/dhh/passwords-have-problems-but-passkeys-have-more-95285df9"
     ]
   ]
 ]
