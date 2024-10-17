@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-17, 07:31:29](https://lobste.rs/s/pevkif/heterogeneous_sli_vs_homogeneous_sli) - [Heterogeneous SLI vs Homogeneous SLI](https://blog.alexewerlof.com/p/sli-heterogeneous-vs-homogeneous)
 * [2024-10-17, 07:28:10](https://lobste.rs/s/cw8gix/escaping_chrome_sandbox_through) - [Escaping the Chrome sandbox through DevTools](https://ading.dev/blog/posts/chrome_sandbox_escape.html)
 * [2024-10-17, 06:04:58](https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site) - [Exploring the intertwingularity of a docs site](https://technicalwriting.dev/data/intertwingularity.html)
