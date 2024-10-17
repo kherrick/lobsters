@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-17, 12:20:54](https://lobste.rs/s/gtmxk3/effective_fuzzing_dav1d_case_study) - [Effective fuzzing: A dav1d case study](https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html)
 * [2024-10-17, 10:22:55](https://lobste.rs/s/lfguc0/mathematical_model_package_management) - [A Mathematical Model of Package Management Systems](https://arxiv.org/abs/2302.05417)
 * [2024-10-17, 10:09:00](https://lobste.rs/s/41scct/liveness_example_tla) - [A liveness example in TLA+](https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/)
 * [2024-10-17, 09:56:53](https://lobste.rs/s/grv7hp/why_is_everybody_talking_about_sync) - [Why is everybody talking about sync engines?](https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J)
@@ -18,7 +19,6 @@
 * [2024-10-16, 17:07:00](https://lobste.rs/s/hask9t/jamesql_memory_nosql_database) - [jamesql: An in-memory NoSQL database implemented in Python](https://github.com/capjamesg/jamesql)
 * [2024-10-16, 16:52:22](https://lobste.rs/s/bwjdbp/be_suspicious_success) - [Be Suspicious of Success](https://buttondown.com/hillelwayne/archive/be-suspicious-of-success/)
 * [2024-10-16, 13:50:29](https://lobste.rs/s/qew7qb/failure_gpl_2009) - [The Failure of the GPL (2009)](https://www.informit.com/articles/article.aspx?p=1390172)
-* [2024-10-16, 13:43:11](https://lobste.rs/s/lfib4g/talos_linux_api_driven_kubernetes) - [Talos Linux: API driven, Kubernetes operating system](https://talos.dev)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 * [2024-10-16, 12:46:26](https://lobste.rs/s/a7fgiw/pumps_eager_streams_for_rust) - [Pumps - eager streams for rust](https://github.com/alexpusch/pumps_rs)
 * [2024-10-16, 09:51:01](https://lobste.rs/s/funtig/fixing_dns_leak_my_vpn_setup) - [Fixing a DNS leak in my VPN setup](https://blog.orhun.dev/cant-trust-any-vpn/)
