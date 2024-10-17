@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 09:56:53](https://lobste.rs/s/grv7hp/why_is_everybody_talking_about_sync) - [Why is everybody talking about sync engines?](https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J)
 * [2024-10-17, 09:20:07](https://lobste.rs/s/t3j7yb/danger_ai_scientist_danger) - [Danger, AI Scientist, Danger](https://thezvi.substack.com/p/danger-ai-scientist-danger)
 * [2024-10-17, 09:11:53](https://lobste.rs/s/lbibtm/undefinedbehaviorsanitizer_s) - [UndefinedBehaviorSanitizer’s unexpected behavior](https://daniel.haxx.se/blog/2024/10/17/undefinedbehaviorsanitizers-unexpected-behavior/)
 * [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
