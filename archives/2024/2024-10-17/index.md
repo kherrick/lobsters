@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-17](index.md)
 
+* [2024-10-17, 15:39:55](https://lobste.rs/s/un1bzp/creating_accessible_figures_tables) - [Creating Accessible Figures and Tables](https://dis.acm.org/2023/creating-accessible-figures-and-tables/)
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 * [2024-10-17, 12:20:54](https://lobste.rs/s/gtmxk3/effective_fuzzing_dav1d_case_study) - [Effective fuzzing: A dav1d case study](https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html)

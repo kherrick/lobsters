@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-17, 15:39:55](https://lobste.rs/s/un1bzp/creating_accessible_figures_tables) - [Creating Accessible Figures and Tables](https://dis.acm.org/2023/creating-accessible-figures-and-tables/)
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 * [2024-10-17, 12:20:54](https://lobste.rs/s/gtmxk3/effective_fuzzing_dav1d_case_study) - [Effective fuzzing: A dav1d case study](https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html)
@@ -14,7 +15,6 @@
 * [2024-10-16, 23:23:17](https://lobste.rs/s/ra2wsw/discovering_features_information_via) - [Discovering features and information via HTTP OPTIONS](https://evertpot.com/discovering-features-with-http-options/)
 * [2024-10-16, 21:38:11](https://lobste.rs/s/vcvykj/75x_faster_optimizing_ion_compiler) - [75x faster: optimizing the Ion compiler backend](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 * [2024-10-16, 21:16:01](https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available) - [Forgejo v9.0 is available](https://forgejo.org/2024-10-release-v9-0/)
-* [2024-10-16, 19:45:56](https://lobste.rs/s/erncqg/future_archivebox) - [The Future of ArchiveBox](https://docs.sweeting.me/s/archivebox-plugin-ecosystem-announcement#)
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 18:55:15](https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c) - [How to Make Racket Go (Almost) As Fast As C](https://lambdaland.org/posts/2024-09-27_threaded_interpreter/)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
