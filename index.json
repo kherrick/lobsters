@@ -11,12 +11,22 @@
   ],
   [
     [
-      "2024-10-16, 21:37:09",
-      "https://lobste.rs/s/b1rwdd/writing_home_assistant_core_integration"
+      "2024-10-16, 21:38:11",
+      "https://lobste.rs/s/vcvykj/75x_faster_optimizing_ion_compiler"
     ],
     [
-      "Writing a Home Assistant Core Integration: Part 2",
-      "https://jnsgr.uk/2024/10/writing-a-home-assistant-integration/"
+      "75x faster: optimizing the Ion compiler backend",
+      "https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-16, 21:16:01",
+      "https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available"
+    ],
+    [
+      "Forgejo v9.0 is available",
+      "https://forgejo.org/2024-10-release-v9-0/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Call for submissions for a new CSS logo",
       "https://github.com/CSS-Next/css-next/issues/105"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 02:31:18",
-      "https://lobste.rs/s/hj0ab1/rogue_legacy_code_is_now_source_available"
-    ],
-    [
-      "Rogue Legacy code is now source available",
-      "https://github.com/flibitijibibo/RogueLegacy1/"
     ]
   ],
   [
