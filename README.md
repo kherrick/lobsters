@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 * [2024-10-17, 12:20:54](https://lobste.rs/s/gtmxk3/effective_fuzzing_dav1d_case_study) - [Effective fuzzing: A dav1d case study](https://googleprojectzero.blogspot.com/2024/10/effective-fuzzing-dav1d-case-study.html)
 * [2024-10-17, 10:22:55](https://lobste.rs/s/lfguc0/mathematical_model_package_management) - [A Mathematical Model of Package Management Systems](https://arxiv.org/abs/2302.05417)
 * [2024-10-17, 10:09:00](https://lobste.rs/s/41scct/liveness_example_tla) - [A liveness example in TLA+](https://surfingcomplexity.blog/2024/10/16/a-liveness-example-in-tla/)
@@ -23,7 +24,6 @@
 * [2024-10-16, 12:46:26](https://lobste.rs/s/a7fgiw/pumps_eager_streams_for_rust) - [Pumps - eager streams for rust](https://github.com/alexpusch/pumps_rs)
 * [2024-10-16, 09:51:01](https://lobste.rs/s/funtig/fixing_dns_leak_my_vpn_setup) - [Fixing a DNS leak in my VPN setup](https://blog.orhun.dev/cant-trust-any-vpn/)
 * [2024-10-16, 09:07:49](https://lobste.rs/s/f3pgi1/announcing_floss_fund_1m_per_year_for_free) - [Announcing FLOSS/fund: $1M per year for free and open source projects](https://floss.fund/blog/announcing-floss-fund/)
-* [2024-10-16, 00:43:48](https://lobste.rs/s/zpdt7x/missing_ide_feature_fold_method_bodies_by) - [A Missing IDE Feature: Fold Method Bodies by Default](https://matklad.github.io/2024/10/14/missing-ide-feature.html)
 * [2024-10-15, 22:25:59](https://lobste.rs/s/t0mywf/damas_hindley_milner_inference_two_ways) - [Damas-Hindley-Milner inference two ways](https://bernsteinbear.com/blog/type-inference/)
 
 ## [Archives](archives/index.md)
