@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-18, 16:58:13",
+      "https://lobste.rs/s/b6mpkb/cross_process_spectre_exploitation"
+    ],
+    [
+      "Cross-Process Spectre Exploitation",
+      "https://grsecurity.net/cross_process_spectre_exploitation"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 16:54:29",
       "https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git"
     ],
@@ -177,16 +187,6 @@
     [
       "JS0/JSSugar: the tooling will continue until morale improves",
       "https://caolan.uk/notes/2024-10-14_js0_jssugar.cm"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 18:16:46",
-      "https://lobste.rs/s/gax96g/supercharge_one_person_framework_with"
-    ],
-    [
-      "Supercharge the One Person Framework with SQLite",
-      "https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/"
     ]
   ],
   [
