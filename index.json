@@ -1,11 +1,21 @@
 [
   [
     [
-      "2024-10-18, 13:59:46",
-      "https://lobste.rs/s/hx0ihf/overview_spring_operating_system"
+      "2024-10-18, 14:24:16",
+      "https://lobste.rs/s/3pivwn/state_css_2024"
     ],
     [
-      "An Overview of the Spring Operating System",
+      "State of CSS 2024",
+      "https://2024.stateofcss.com/en-US"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 13:59:46",
+      "https://lobste.rs/s/hx0ihf/overview_spring_operating_system_1994"
+    ],
+    [
+      "An Overview of the Spring Operating System (1994)",
       "https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=53ae9e3455b5b76383116035d7c8365d9999ac49"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "When should I use String vs &str?",
       "https://steveklabnik.com/writing/when-should-i-use-string-vs-str/"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 13:20:40",
-      "https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website"
-    ],
-    [
-      "My solar-powered and self-hosted website",
-      "https://dri.es/my-solar-powered-and-self-hosted-website"
     ]
   ]
 ]
