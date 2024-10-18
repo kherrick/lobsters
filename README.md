@@ -15,6 +15,7 @@
 * [2024-10-18, 10:41:17](https://lobste.rs/s/huujww/use_prolog_improve_llm_s_reasoning) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
 * [2024-10-18, 10:10:18](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend)
 * [2024-10-18, 08:34:08](https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust) - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
+* [2024-10-18, 08:22:47](https://lobste.rs/s/vnjuum/ugrapheme_unicode_extended_grapheme) - [ugrapheme: Unicode Extended grapheme clusters in nanoseconds](https://github.com/Z4JC/ugrapheme/)
 * [2024-10-18, 06:04:34](https://lobste.rs/s/5sekam/what_is_theoretical_computer_science) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 04:27:44](https://lobste.rs/s/bcacas/how_i_use_git) - [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be) - [In the future using top-level await might be a backwards compatibility break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
@@ -24,7 +25,6 @@
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 * [2024-10-17, 09:56:53](https://lobste.rs/s/grv7hp/why_is_everybody_talking_about_sync) - [Why is everybody talking about sync engines?](https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J)
-* [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 
 ## [Archives](archives/index.md)
 
