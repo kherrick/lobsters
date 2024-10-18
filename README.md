@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 15:32:02](https://lobste.rs/s/4f6a62/haiku_activity_contract_report) - [Haiku Activity & Contract Report, September 2024 (ft. packagefs memory usage optimization)](https://www.haiku-os.org/blog/waddlesplash/2024-10-11-haiku_activity_contract_report_september_2024)
 * [2024-10-18, 14:44:40](https://lobste.rs/s/tvaw5u/tla_wiki) - [TLA+ Wiki](https://docs.tlapl.us)
 * [2024-10-18, 14:24:16](https://lobste.rs/s/3pivwn/state_css_2024) - [State of CSS 2024](https://2024.stateofcss.com/en-US)
 * [2024-10-18, 13:59:46](https://lobste.rs/s/hx0ihf/overview_spring_operating_system_1994) - [An Overview of the Spring Operating System (1994)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=53ae9e3455b5b76383116035d7c8365d9999ac49)
@@ -16,7 +17,6 @@
 * [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be) - [In the future using top-level await might be a backwards compatibility break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
 * [2024-10-17, 20:52:19](https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail) - [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
 * [2024-10-17, 19:54:37](https://lobste.rs/s/4l4yo7/js0_jssugar_tooling_will_continue_until) - [JS0/JSSugar: the tooling will continue until morale improves](https://caolan.uk/notes/2024-10-14_js0_jssugar.cm)
-* [2024-10-17, 18:49:22](https://lobste.rs/s/aradvn/openhcl_new_open_source_paravisor) - [OpenHCL: the new, open source paravisor](https://techcommunity.microsoft.com/t5/windows-os-platform-blog/openhcl-the-new-open-source-paravisor/ba-p/4273172)
 * [2024-10-17, 18:16:46](https://lobste.rs/s/gax96g/supercharge_one_person_framework_with) - [Supercharge the One Person Framework with SQLite](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
 * [2024-10-17, 18:06:22](https://lobste.rs/s/ehcxwx/video_scraping_extracting_json_data_from) - [Video scraping, extracting JSON data from a 35s screen capture for less than 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 * [2024-10-17, 17:08:24](https://lobste.rs/s/k8qaij/announcing_rust_1_82_0) - [Announcing Rust 1.82.0](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
