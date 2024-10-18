@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-18, 12:48:04",
+      "https://lobste.rs/s/drzyjj/developing_beautiful_performant_block"
+    ],
+    [
+      "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
+      "https://rubymamistvalove.com/block-editor"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 12:13:59",
       "https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux"
     ],
@@ -97,16 +107,6 @@
     [
       "In the future using top-level await might be a backwards compatibility break in Node",
       "https://evertpot.com/using-top-level-await-is-bc-break/"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 00:59:27",
-      "https://lobste.rs/s/id8iv8/wayland_apps_wireguard_docker"
-    ],
-    [
-      "Wayland apps in WireGuard Docker containers",
-      "https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/"
     ]
   ],
   [
