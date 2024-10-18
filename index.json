@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-10-18, 17:18:05",
+      "https://lobste.rs/s/fnok1e/setbigtimeout"
+    ],
+    [
+      "setBigTimeout",
+      "https://evanhahn.com/set-big-timeout/"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 16:58:13",
       "https://lobste.rs/s/b6mpkb/cross_process_spectre_exploitation"
     ],
@@ -57,16 +67,6 @@
     [
       "Haiku Activity & Contract Report, September 2024 (ft. packagefs memory usage optimization)",
       "https://www.haiku-os.org/blog/waddlesplash/2024-10-11-haiku_activity_contract_report_september_2024"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 14:44:40",
-      "https://lobste.rs/s/tvaw5u/tla_wiki"
-    ],
-    [
-      "TLA+ Wiki",
-      "https://docs.tlapl.us"
     ]
   ],
   [
