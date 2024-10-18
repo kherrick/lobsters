@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be_bc) - [In the future using top-level await might be a BC break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
+* [2024-10-18, 00:59:27](https://lobste.rs/s/id8iv8/wayland_apps_wireguard_docker) - [Wayland apps in WireGuard Docker containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
 * [2024-10-17, 20:52:19](https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail) - [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
 * [2024-10-17, 19:54:37](https://lobste.rs/s/4l4yo7/js0_jssugar_tooling_will_continue_until) - [JS0/JSSugar: the tooling will continue until morale improves](https://caolan.uk/notes/2024-10-14_js0_jssugar.cm)
 * [2024-10-17, 19:20:12](https://lobste.rs/s/52rbc1/schema_changes_postgres_lock_queue) - [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
@@ -18,10 +20,8 @@
 * [2024-10-17, 06:04:58](https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site) - [Exploring the intertwingularity of a docs site](https://technicalwriting.dev/data/intertwingularity.html)
 * [2024-10-17, 00:05:59](https://lobste.rs/s/yfle1q/p3477r0_there_are_exactly_8_bits_byte) - [P3477R0: There are exactly 8 bits in a byte](https://isocpp.org/files/papers/P3477R0.html)
 * [2024-10-16, 23:23:17](https://lobste.rs/s/ra2wsw/discovering_features_information_via) - [Discovering features and information via HTTP OPTIONS](https://evertpot.com/discovering-features-with-http-options/)
-* [2024-10-16, 21:38:11](https://lobste.rs/s/vcvykj/75x_faster_optimizing_ion_compiler) - [75x faster: optimizing the Ion compiler backend](https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html)
 * [2024-10-16, 21:16:01](https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available) - [Forgejo v9.0 is available](https://forgejo.org/2024-10-release-v9-0/)
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
-* [2024-10-16, 18:55:15](https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c) - [How to Make Racket Go (Almost) As Fast As C](https://lambdaland.org/posts/2024-09-27_threaded_interpreter/)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 * [2024-10-16, 12:46:26](https://lobste.rs/s/a7fgiw/pumps_eager_streams_for_rust) - [Pumps - eager streams for rust](https://github.com/alexpusch/pumps_rs)
