@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-10-18, 08:22:47",
+      "https://lobste.rs/s/vnjuum/ugrapheme_unicode_extended_grapheme"
+    ],
+    [
+      "ugrapheme: Unicode Extended grapheme clusters in nanoseconds",
+      "https://github.com/Z4JC/ugrapheme/"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 06:04:34",
       "https://lobste.rs/s/5sekam/what_is_theoretical_computer_science"
     ],
@@ -237,16 +247,6 @@
     [
       "Why is everybody talking about sync engines?",
       "https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 18:27:32",
-      "https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str"
-    ],
-    [
-      "When should I use String vs &str?",
-      "https://steveklabnik.com/writing/when-should-i-use-string-vs-str/"
     ]
   ]
 ]
