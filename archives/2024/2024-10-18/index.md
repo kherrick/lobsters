@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 12:13:59](https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux) - [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
+* [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
 * [2024-10-18, 11:49:59](https://lobste.rs/s/npyanv/ai_can_help_humans_find_common_ground) - [AI can help humans find common ground](https://www.science.org/doi/10.1126/science.adq2852)
 * [2024-10-18, 10:41:17](https://lobste.rs/s/huujww/use_prolog_improve_llm_s_reasoning) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
 * [2024-10-18, 10:10:18](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend)
