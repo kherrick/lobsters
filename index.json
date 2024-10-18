@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-18, 01:28:03",
+      "https://lobste.rs/s/asudsv/future_using_top_level_await_might_be_bc"
+    ],
+    [
+      "In the future using top-level await might be a BC break in Node",
+      "https://evertpot.com/using-top-level-await-is-bc-break/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 00:59:27",
+      "https://lobste.rs/s/id8iv8/wayland_apps_wireguard_docker"
+    ],
+    [
+      "Wayland apps in WireGuard Docker containers",
+      "https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/"
+    ]
+  ],
+  [
+    [
       "2024-10-17, 20:52:19",
       "https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-10-16, 21:38:11",
-      "https://lobste.rs/s/vcvykj/75x_faster_optimizing_ion_compiler"
-    ],
-    [
-      "75x faster: optimizing the Ion compiler backend",
-      "https://spidermonkey.dev/blog/2024/10/16/75x-faster-optimizing-the-ion-compiler-backend.html"
-    ]
-  ],
-  [
-    [
       "2024-10-16, 21:16:01",
       "https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available"
     ],
@@ -207,16 +217,6 @@
     [
       "Cognitive load",
       "https://minds.md/zakirullin/cognitive#full"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 18:55:15",
-      "https://lobste.rs/s/sbxuny/how_make_racket_go_almost_as_fast_as_c"
-    ],
-    [
-      "How to Make Racket Go (Almost) As Fast As C",
-      "https://lambdaland.org/posts/2024-09-27_threaded_interpreter/"
     ]
   ],
   [
