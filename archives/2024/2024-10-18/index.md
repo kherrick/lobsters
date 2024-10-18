@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 11:49:59](https://lobste.rs/s/npyanv/ai_can_help_humans_find_common_ground) - [AI can help humans find common ground](https://www.science.org/doi/10.1126/science.adq2852)
 * [2024-10-18, 10:41:17](https://lobste.rs/s/huujww/use_prolog_improve_llm_s_reasoning) - [Use Prolog to improve LLM's reasoning](https://shchegrikovich.substack.com/p/use-prolog-to-improve-llms-reasoning)
 * [2024-10-18, 10:10:18](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend)
 * [2024-10-18, 08:34:08](https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust) - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
