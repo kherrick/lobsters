@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 13:59:46](https://lobste.rs/s/hx0ihf/overview_spring_operating_system) - [An Overview of the Spring Operating System](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=53ae9e3455b5b76383116035d7c8365d9999ac49)
 * [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2024-10-18, 12:13:59](https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux) - [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)

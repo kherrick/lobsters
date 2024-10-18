@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 13:59:46](https://lobste.rs/s/hx0ihf/overview_spring_operating_system) - [An Overview of the Spring Operating System](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=53ae9e3455b5b76383116035d7c8365d9999ac49)
 * [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2024-10-18, 12:13:59](https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux) - [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
@@ -22,7 +23,6 @@
 * [2024-10-17, 09:56:53](https://lobste.rs/s/grv7hp/why_is_everybody_talking_about_sync) - [Why is everybody talking about sync engines?](https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J)
 * [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-16, 21:16:01](https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available) - [Forgejo v9.0 is available](https://forgejo.org/2024-10-release-v9-0/)
-* [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
 
