@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 08:34:08](https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust) - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
+* [2024-10-18, 08:22:47](https://lobste.rs/s/vnjuum/ugrapheme_unicode_extended_grapheme) - [ugrapheme: Unicode Extended grapheme clusters in nanoseconds](https://github.com/Z4JC/ugrapheme/)
 * [2024-10-18, 06:04:34](https://lobste.rs/s/5sekam/what_is_theoretical_computer_science) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 04:27:44](https://lobste.rs/s/bcacas/how_i_use_git) - [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be_bc) - [In the future using top-level await might be a BC break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
@@ -17,10 +19,8 @@
 * [2024-10-17, 10:22:55](https://lobste.rs/s/lfguc0/mathematical_model_package_management) - [A Mathematical Model of Package Management Systems](https://arxiv.org/abs/2302.05417)
 * [2024-10-17, 09:56:53](https://lobste.rs/s/grv7hp/why_is_everybody_talking_about_sync) - [Why is everybody talking about sync engines?](https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J)
 * [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
-* [2024-10-17, 07:16:43](https://lobste.rs/s/mvenmv/outsmarting_cs_go_cheaters_with) - [Outsmarting CS:GO cheaters with IdentityLogger](https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/)
 * [2024-10-17, 06:04:58](https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site) - [Exploring the intertwingularity of a docs site](https://technicalwriting.dev/data/intertwingularity.html)
 * [2024-10-17, 00:05:59](https://lobste.rs/s/yfle1q/p3477r0_there_are_exactly_8_bits_byte) - [P3477R0: There are exactly 8 bits in a byte](https://isocpp.org/files/papers/P3477R0.html)
-* [2024-10-16, 23:23:17](https://lobste.rs/s/ra2wsw/discovering_features_information_via) - [Discovering features and information via HTTP OPTIONS](https://evertpot.com/discovering-features-with-http-options/)
 * [2024-10-16, 21:16:01](https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available) - [Forgejo v9.0 is available](https://forgejo.org/2024-10-release-v9-0/)
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
