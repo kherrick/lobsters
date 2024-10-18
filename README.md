@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 14:44:40](https://lobste.rs/s/tvaw5u/tla_wiki) - [TLA+ Wiki](https://docs.tlapl.us)
 * [2024-10-18, 14:24:16](https://lobste.rs/s/3pivwn/state_css_2024) - [State of CSS 2024](https://2024.stateofcss.com/en-US)
 * [2024-10-18, 13:59:46](https://lobste.rs/s/hx0ihf/overview_spring_operating_system_1994) - [An Overview of the Spring Operating System (1994)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=53ae9e3455b5b76383116035d7c8365d9999ac49)
 * [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
@@ -20,7 +21,6 @@
 * [2024-10-17, 17:08:24](https://lobste.rs/s/k8qaij/announcing_rust_1_82_0) - [Announcing Rust 1.82.0](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
-* [2024-10-17, 10:22:55](https://lobste.rs/s/lfguc0/mathematical_model_package_management) - [A Mathematical Model of Package Management Systems](https://arxiv.org/abs/2302.05417)
 * [2024-10-17, 09:56:53](https://lobste.rs/s/grv7hp/why_is_everybody_talking_about_sync) - [Why is everybody talking about sync engines?](https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J)
 * [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-16, 21:16:01](https://lobste.rs/s/zsc4m3/forgejo_v9_0_is_available) - [Forgejo v9.0 is available](https://forgejo.org/2024-10-release-v9-0/)

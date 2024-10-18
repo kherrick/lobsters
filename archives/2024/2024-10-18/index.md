@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 14:44:40](https://lobste.rs/s/tvaw5u/tla_wiki) - [TLA+ Wiki](https://docs.tlapl.us)
 * [2024-10-18, 14:24:16](https://lobste.rs/s/3pivwn/state_css_2024) - [State of CSS 2024](https://2024.stateofcss.com/en-US)
 * [2024-10-18, 13:59:46](https://lobste.rs/s/hx0ihf/overview_spring_operating_system_1994) - [An Overview of the Spring Operating System (1994)](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=53ae9e3455b5b76383116035d7c8365d9999ac49)
 * [2024-10-18, 13:59:46](https://lobste.rs/s/hx0ihf/overview_spring_operating_system) - [An Overview of the Spring Operating System](https://citeseerx.ist.psu.edu/document?repid=rep1&type=pdf&doi=53ae9e3455b5b76383116035d7c8365d9999ac49)
