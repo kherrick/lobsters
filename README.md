@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2024-10-18, 12:13:59](https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux) - [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
 * [2024-10-18, 11:49:59](https://lobste.rs/s/npyanv/ai_can_help_humans_find_common_ground) - [AI can help humans find common ground](https://www.science.org/doi/10.1126/science.adq2852)
@@ -10,7 +11,6 @@
 * [2024-10-18, 06:04:34](https://lobste.rs/s/5sekam/what_is_theoretical_computer_science) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 04:27:44](https://lobste.rs/s/bcacas/how_i_use_git) - [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be) - [In the future using top-level await might be a backwards compatibility break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
-* [2024-10-18, 00:59:27](https://lobste.rs/s/id8iv8/wayland_apps_wireguard_docker) - [Wayland apps in WireGuard Docker containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
 * [2024-10-17, 20:52:19](https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail) - [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
 * [2024-10-17, 19:54:37](https://lobste.rs/s/4l4yo7/js0_jssugar_tooling_will_continue_until) - [JS0/JSSugar: the tooling will continue until morale improves](https://caolan.uk/notes/2024-10-14_js0_jssugar.cm)
 * [2024-10-17, 18:16:46](https://lobste.rs/s/gax96g/supercharge_one_person_framework_with) - [Supercharge the One Person Framework with SQLite](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
