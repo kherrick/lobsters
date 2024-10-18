@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 10:10:18](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend)
 * [2024-10-18, 08:34:08](https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust) - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-18, 08:22:47](https://lobste.rs/s/vnjuum/ugrapheme_unicode_extended_grapheme) - [ugrapheme: Unicode Extended grapheme clusters in nanoseconds](https://github.com/Z4JC/ugrapheme/)
 * [2024-10-18, 06:04:34](https://lobste.rs/s/5sekam/what_is_theoretical_computer_science) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 04:27:44](https://lobste.rs/s/bcacas/how_i_use_git) - [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be_bc) - [In the future using top-level await might be a BC break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
 * [2024-10-18, 00:59:27](https://lobste.rs/s/id8iv8/wayland_apps_wireguard_docker) - [Wayland apps in WireGuard Docker containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
-* [2024-10-17, 20:58:52](https://lobste.rs/s/n7jthe/taste_go_code_generator_magic_quick_guide) - [A taste of Go code generator magic: a quick guide to getting started](https://evilmartians.com/chronicles/a-taste-of-go-code-generator-magic-a-quick-guide-to-getting-started)
 * [2024-10-17, 20:52:19](https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail) - [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
 * [2024-10-17, 19:54:37](https://lobste.rs/s/4l4yo7/js0_jssugar_tooling_will_continue_until) - [JS0/JSSugar: the tooling will continue until morale improves](https://caolan.uk/notes/2024-10-14_js0_jssugar.cm)
 * [2024-10-17, 19:20:12](https://lobste.rs/s/52rbc1/schema_changes_postgres_lock_queue) - [Schema changes and the Postgres lock queue](https://xata.io/blog/migrations-and-exclusive-locks)
