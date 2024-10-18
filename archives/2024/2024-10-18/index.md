@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 16:46:20](https://lobste.rs/s/lsccxj/too_subtle_notice_investigating) - [Too Subtle to Notice: Investigating Executable Stack Issues in Linux Systems](https://huhong789.github.io/papers/ye:badass.pdf)
 * [2024-10-18, 16:06:27](https://lobste.rs/s/vu72vu/why_write_engineering_blogs) - [Why Write Engineering Blogs?](https://freecontent.manning.com/why-write-engineering-blogs/)
 * [2024-10-18, 15:32:02](https://lobste.rs/s/4f6a62/haiku_activity_contract_report) - [Haiku Activity & Contract Report, September 2024 (ft. packagefs memory usage optimization)](https://www.haiku-os.org/blog/waddlesplash/2024-10-11-haiku_activity_contract_report_september_2024)
 * [2024-10-18, 14:44:40](https://lobste.rs/s/tvaw5u/tla_wiki) - [TLA+ Wiki](https://docs.tlapl.us)

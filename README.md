@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 16:46:20](https://lobste.rs/s/lsccxj/too_subtle_notice_investigating) - [Too Subtle to Notice: Investigating Executable Stack Issues in Linux Systems](https://huhong789.github.io/papers/ye:badass.pdf)
 * [2024-10-18, 16:06:27](https://lobste.rs/s/vu72vu/why_write_engineering_blogs) - [Why Write Engineering Blogs?](https://freecontent.manning.com/why-write-engineering-blogs/)
 * [2024-10-18, 14:44:40](https://lobste.rs/s/tvaw5u/tla_wiki) - [TLA+ Wiki](https://docs.tlapl.us)
 * [2024-10-18, 14:24:16](https://lobste.rs/s/3pivwn/state_css_2024) - [State of CSS 2024](https://2024.stateofcss.com/en-US)
@@ -23,7 +24,6 @@
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 * [2024-10-17, 09:56:53](https://lobste.rs/s/grv7hp/why_is_everybody_talking_about_sync) - [Why is everybody talking about sync engines?](https://fika.bar/blogs/paoramen/why-is-everybody-talking-about-syncing-engines-01JAAEZTCMZA28DSESAJR3J30J)
-* [2024-10-17, 08:47:15](https://lobste.rs/s/ou3bev/using_cloudflare_on_your_website_could_be) - [Using Cloudflare on your website could be blocking RSS users](https://openrss.org/blog/using-cloudflare-on-your-website-could-be-blocking-rss-users)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 
 ## [Archives](archives/index.md)
