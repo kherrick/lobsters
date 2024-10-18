@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 04:27:44](https://lobste.rs/s/bcacas/how_i_use_git) - [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be_bc) - [In the future using top-level await might be a BC break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
 * [2024-10-18, 00:59:27](https://lobste.rs/s/id8iv8/wayland_apps_wireguard_docker) - [Wayland apps in WireGuard Docker containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
 * [2024-10-17, 20:52:19](https://lobste.rs/s/3mdpgk/making_mailing_lists_nicer_writing_mail) - [Making mailing lists nicer: Writing a mail extension for macOS with MailKit](https://sporks.space/2024/10/17/making-mailing-lists-nicer-writing-a-mail-extension-for-macos-with-mailkit/)
@@ -24,7 +25,6 @@
 * [2024-10-16, 19:27:16](https://lobste.rs/s/jderzv/cognitive_load) - [Cognitive load](https://minds.md/zakirullin/cognitive#full)
 * [2024-10-16, 18:27:32](https://lobste.rs/s/pnjbgq/when_should_i_use_string_vs_str) - [When should I use String vs &str?](https://steveklabnik.com/writing/when-should-i-use-string-vs-str/)
 * [2024-10-16, 13:20:40](https://lobste.rs/s/injtfa/my_solar_powered_self_hosted_website) - [My solar-powered and self-hosted website](https://dri.es/my-solar-powered-and-self-hosted-website)
-* [2024-10-16, 12:46:26](https://lobste.rs/s/a7fgiw/pumps_eager_streams_for_rust) - [Pumps - eager streams for rust](https://github.com/alexpusch/pumps_rs)
 
 ## [Archives](archives/index.md)
 
