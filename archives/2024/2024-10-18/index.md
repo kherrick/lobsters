@@ -6,6 +6,7 @@
 
 * [2024-10-18, 18:00:42](https://lobste.rs/s/7e8o9f/focus_on_decisions_not_tasks) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
 * [2024-10-18, 18:00:39](https://lobste.rs/s/um54rf/welcome_transputer_net_2007) - [Welcome to transputer.net (2007)](https://transputer.net/)
+* [2024-10-18, 17:31:09](https://lobste.rs/s/t2i6fq/i_ve_been_writing_software_for_last_25) - [I've been writing software for the last 25 years. Here some things I learned so far](https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far)
 * [2024-10-18, 16:58:13](https://lobste.rs/s/b6mpkb/cross_process_spectre_exploitation) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
 * [2024-10-18, 16:46:20](https://lobste.rs/s/lsccxj/too_subtle_notice_investigating) - [Too Subtle to Notice: Investigating Executable Stack Issues in Linux Systems](https://huhong789.github.io/papers/ye:badass.pdf)
