@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-18, 08:34:08",
+      "https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust"
+    ],
+    [
+      "Never Missing the Train Again, Thanks to Rust",
+      "https://lilymara.xyz/posts/2024/01/transit-kindle/"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 08:22:47",
+      "https://lobste.rs/s/vnjuum/ugrapheme_unicode_extended_grapheme"
+    ],
+    [
+      "ugrapheme: Unicode Extended grapheme clusters in nanoseconds",
+      "https://github.com/Z4JC/ugrapheme/"
+    ]
+  ],
+  [
+    [
       "2024-10-18, 06:04:34",
       "https://lobste.rs/s/5sekam/what_is_theoretical_computer_science"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-10-17, 07:16:43",
-      "https://lobste.rs/s/mvenmv/outsmarting_cs_go_cheaters_with"
-    ],
-    [
-      "Outsmarting CS:GO cheaters with IdentityLogger",
-      "https://mobeigi.com/blog/gaming/how-we-outsmarted-csgo-cheaters-with-identitylogger/"
-    ]
-  ],
-  [
-    [
       "2024-10-17, 06:04:58",
       "https://lobste.rs/s/4nwjqo/exploring_intertwingularity_docs_site"
     ],
@@ -197,16 +207,6 @@
     [
       "P3477R0: There are exactly 8 bits in a byte",
       "https://isocpp.org/files/papers/P3477R0.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-16, 23:23:17",
-      "https://lobste.rs/s/ra2wsw/discovering_features_information_via"
-    ],
-    [
-      "Discovering features and information via HTTP OPTIONS",
-      "https://evertpot.com/discovering-features-with-http-options/"
     ]
   ],
   [
