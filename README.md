@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-18, 06:04:34](https://lobste.rs/s/5sekam/what_is_theoretical_computer_science) - [What Is Theoretical Computer Science?](https://cacm.acm.org/opinion/what-is-theoretical-computer-science/)
 * [2024-10-18, 04:27:44](https://lobste.rs/s/bcacas/how_i_use_git) - [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be_bc) - [In the future using top-level await might be a BC break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
 * [2024-10-18, 00:59:27](https://lobste.rs/s/id8iv8/wayland_apps_wireguard_docker) - [Wayland apps in WireGuard Docker containers](https://www.procustodibus.com/blog/2024/10/wayland-wireguard-containers/)
@@ -10,7 +11,6 @@
 * [2024-10-17, 18:16:46](https://lobste.rs/s/gax96g/supercharge_one_person_framework_with) - [Supercharge the One Person Framework with SQLite](https://fractaledmind.github.io/2024/10/16/sqlite-supercharges-rails/)
 * [2024-10-17, 18:06:22](https://lobste.rs/s/ehcxwx/video_scraping_extracting_json_data_from) - [Video scraping, extracting JSON data from a 35s screen capture for less than 1/10th of a cent](https://simonwillison.net/2024/Oct/17/video-scraping/)
 * [2024-10-17, 17:08:24](https://lobste.rs/s/k8qaij/announcing_rust_1_82_0) - [Announcing Rust 1.82.0](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
-* [2024-10-17, 15:39:55](https://lobste.rs/s/un1bzp/creating_accessible_figures_tables) - [Creating Accessible Figures and Tables](https://dis.acm.org/2023/creating-accessible-figures-and-tables/)
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 * [2024-10-17, 10:22:55](https://lobste.rs/s/lfguc0/mathematical_model_package_management) - [A Mathematical Model of Package Management Systems](https://arxiv.org/abs/2302.05417)
