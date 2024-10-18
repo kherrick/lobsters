@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 16:58:13](https://lobste.rs/s/b6mpkb/cross_process_spectre_exploitation) - [Cross-Process Spectre Exploitation](https://grsecurity.net/cross_process_spectre_exploitation)
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
 * [2024-10-18, 16:46:20](https://lobste.rs/s/lsccxj/too_subtle_notice_investigating) - [Too Subtle to Notice: Investigating Executable Stack Issues in Linux Systems](https://huhong789.github.io/papers/ye:badass.pdf)
 * [2024-10-18, 16:06:27](https://lobste.rs/s/vu72vu/why_write_engineering_blogs) - [Why Write Engineering Blogs?](https://freecontent.manning.com/why-write-engineering-blogs/)
