@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-18](index.md)
 
+* [2024-10-18, 22:23:39](https://lobste.rs/s/smuw7v/superlinker_tool_for_reinterpreting_elf) - [superlinker: a tool for reinterpreting ELF executables and shared libraries](https://github.com/whitequark/superlinker)
 * [2024-10-18, 22:22:17](https://lobste.rs/s/ubq7go/my_numpy_year_creating_dtype_for_next) - [My NumPy Year: Creating a DType for the Next Generation of Scientific Computing | Quansight Consulting](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-18, 21:46:39](https://lobste.rs/s/xbknvr/typst_0_12_is_just_better) - [Typst 0.12 is just ... better](https://typst.app/blog/2024/typst-0.12/)
 * [2024-10-18, 18:00:42](https://lobste.rs/s/7e8o9f/focus_on_decisions_not_tasks) - [Focus on decisions, not tasks](https://technicalwriting.dev/strategy/decisions.html)
