@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 10:43:43](https://lobste.rs/s/ntouyp/implementing_intermediate) - [Implementing an intermediate representation for ArkScript](https://lexp.lt/posts/implementing_an_intermediate_representation/)
 * [2024-10-19, 10:28:28](https://lobste.rs/s/ygksmj/selective_survey_efficient_speculative) - [A Selective Survey of Efficient Speculative Decoding Techniques for LLM Inference](https://blog.codingconfessions.com/p/a-selective-survey-of-speculative-decoding)
 * [2024-10-19, 08:51:00](https://lobste.rs/s/twyusl/multics_maclisp_compiler_basic_hackery) - [The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)](https://www.multicians.org/lcp.html)
 * [2024-10-19, 07:14:16](https://lobste.rs/s/lvqxge/programming_language_semantics_it_s_easy) - [Programming language semantics: It’s easy as 1,2,3](https://people.cs.nott.ac.uk/pszgmh/123.pdf)

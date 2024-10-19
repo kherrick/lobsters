@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-19, 10:43:43](https://lobste.rs/s/ntouyp/implementing_intermediate) - [Implementing an intermediate representation for ArkScript](https://lexp.lt/posts/implementing_an_intermediate_representation/)
 * [2024-10-19, 10:28:28](https://lobste.rs/s/ygksmj/selective_survey_efficient_speculative) - [A Selective Survey of Efficient Speculative Decoding Techniques for LLM Inference](https://blog.codingconfessions.com/p/a-selective-survey-of-speculative-decoding)
 * [2024-10-19, 08:51:00](https://lobste.rs/s/twyusl/multics_maclisp_compiler_basic_hackery) - [The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)](https://www.multicians.org/lcp.html)
 * [2024-10-19, 07:14:16](https://lobste.rs/s/lvqxge/programming_language_semantics_it_s_easy) - [Programming language semantics: It’s easy as 1,2,3](https://people.cs.nott.ac.uk/pszgmh/123.pdf)
@@ -13,7 +14,6 @@
 * [2024-10-18, 17:31:09](https://lobste.rs/s/t2i6fq/i_ve_been_writing_software_for_last_25) - [I've been writing software for the last 25 years. Here some things I learned so far](https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far)
 * [2024-10-18, 17:18:05](https://lobste.rs/s/fnok1e/setbigtimeout) - [setBigTimeout](https://evanhahn.com/set-big-timeout/)
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
-* [2024-10-18, 15:32:02](https://lobste.rs/s/4f6a62/haiku_activity_contract_report) - [Haiku Activity & Contract Report, September 2024 (ft. packagefs memory usage optimization)](https://www.haiku-os.org/blog/waddlesplash/2024-10-11-haiku_activity_contract_report_september_2024)
 * [2024-10-18, 14:44:40](https://lobste.rs/s/tvaw5u/tla_wiki) - [TLA+ Wiki](https://docs.tlapl.us)
 * [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2024-10-18, 12:13:59](https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux) - [Understanding DNS resolution on Linux and Kubernetes](http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/)
