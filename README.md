@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-19, 20:06:53](https://lobste.rs/s/ziwp61/secret_3d_scans_french_supreme_court) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 * [2024-10-19, 18:48:22](https://lobste.rs/s/mv2tjc/whippet_work_progress_garbage_collector) - [whippet: A work-in-progress garbage collector for Guile](https://github.com/wingo/whippet/)
 * [2024-10-19, 17:42:26](https://lobste.rs/s/k9arfo/eliza_snobol4) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
 * [2024-10-19, 17:39:55](https://lobste.rs/s/d6irtt/llm_inference_library_written_rust_with) - [LLM inference library written in Rust with mistral.rs](https://simonwillison.net/2024/Oct/19/mistralrs/)
@@ -23,7 +24,6 @@
 * [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
 * [2024-10-18, 08:34:08](https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust) - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
-* [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
 * [2024-10-17, 14:00:05](https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions) - [Yes, Go Does Have Exceptions](https://kristoff.it/blog/go-exceptions/)
 
 ## [Archives](archives/index.md)
