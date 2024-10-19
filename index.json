@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-19, 18:48:22",
+      "https://lobste.rs/s/mv2tjc/whippet_work_progress_garbage_collector"
+    ],
+    [
+      "whippet: A work-in-progress garbage collector for Guile",
+      "https://github.com/wingo/whippet/"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 17:42:26",
       "https://lobste.rs/s/k9arfo/eliza_snobol4"
     ],
@@ -217,16 +227,6 @@
     [
       "Never Missing the Train Again, Thanks to Rust",
       "https://lilymara.xyz/posts/2024/01/transit-kindle/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 17:08:24",
-      "https://lobste.rs/s/k8qaij/announcing_rust_1_82_0"
-    ],
-    [
-      "Announcing Rust 1.82.0",
-      "https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html"
     ]
   ],
   [
