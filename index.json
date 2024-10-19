@@ -65,7 +65,7 @@
       "https://lobste.rs/s/ubq7go/my_numpy_year_creating_dtype_for_next"
     ],
     [
-      "My NumPy Year: Creating a DType for the Next Generation of Scientific Computing | Quansight Consulting",
+      "My NumPy Year: Creating a DType for the Next Generation of Scientific Computing",
       "https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/"
     ]
   ],
@@ -87,16 +87,6 @@
     [
       "Focus on decisions, not tasks",
       "https://technicalwriting.dev/strategy/decisions.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 18:00:39",
-      "https://lobste.rs/s/um54rf/welcome_transputer_net_2007"
-    ],
-    [
-      "Welcome to transputer.net (2007)",
-      "https://transputer.net/"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
       "https://rubymamistvalove.com/block-editor"
+    ]
+  ],
+  [
+    [
+      "2024-10-18, 12:13:59",
+      "https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux"
+    ],
+    [
+      "Understanding DNS resolution on Linux and Kubernetes",
+      "http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/"
     ]
   ],
   [
