@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-19, 08:51:00",
+      "https://lobste.rs/s/twyusl/multics_maclisp_compiler_basic_hackery"
+    ],
+    [
+      "The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)",
+      "https://www.multicians.org/lcp.html"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 07:14:16",
       "https://lobste.rs/s/lvqxge/programming_language_semantics_it_s_easy"
     ],
@@ -157,16 +167,6 @@
     [
       "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
       "https://rubymamistvalove.com/block-editor"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 12:13:59",
-      "https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux"
-    ],
-    [
-      "Understanding DNS resolution on Linux and Kubernetes",
-      "http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/"
     ]
   ],
   [
