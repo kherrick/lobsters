@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-19, 17:27:34](https://lobste.rs/s/gbqsxh/how_is_this_website_so_fast) - [How is this website so fast?](https://www.youtube.com/watch?v=-Ln-8QM8KhQ)
 * [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
 * [2024-10-19, 14:23:05](https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs) - [Triaging clang C++ frontend bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
 * [2024-10-19, 14:21:09](https://lobste.rs/s/iqh63d/long_road_lazy_preemption) - [The long road to lazy preemption](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
@@ -17,7 +18,6 @@
 * [2024-10-18, 17:31:09](https://lobste.rs/s/t2i6fq/i_ve_been_writing_software_for_last_25) - [I've been writing software for the last 25 years. Here some things I learned so far](https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far)
 * [2024-10-18, 17:18:05](https://lobste.rs/s/fnok1e/setbigtimeout) - [setBigTimeout](https://evanhahn.com/set-big-timeout/)
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
-* [2024-10-18, 14:44:40](https://lobste.rs/s/tvaw5u/tla_wiki) - [TLA+ Wiki](https://docs.tlapl.us)
 * [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
 * [2024-10-18, 10:10:18](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend)
