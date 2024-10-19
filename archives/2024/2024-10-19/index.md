@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-19](index.md)
+
+* [2024-10-19, 00:26:41](https://lobste.rs/s/q5zc6u/crash_course_go_assembly_speeding_up) - [A crash course in Go assembly, speeding up calculations 450%](https://pehringer.info/go_plan9_memo.html)
