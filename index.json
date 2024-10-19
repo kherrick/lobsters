@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-19, 17:42:26",
+      "https://lobste.rs/s/k9arfo/eliza_snobol4"
+    ],
+    [
+      "Eliza in SNOBOL4",
+      "https://dl.acm.org/doi/pdf/10.1145/987452.987458"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 17:39:55",
+      "https://lobste.rs/s/d6irtt/llm_inference_library_written_rust_with"
+    ],
+    [
+      "LLM inference library written in Rust with mistral.rs",
+      "https://simonwillison.net/2024/Oct/19/mistralrs/"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 17:27:34",
       "https://lobste.rs/s/gbqsxh/how_is_this_website_so_fast"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-10-19, 00:26:41",
-      "https://lobste.rs/s/q5zc6u/crash_course_go_assembly_speeding_up"
-    ],
-    [
-      "A crash course in Go assembly, speeding up calculations 450%",
-      "https://pehringer.info/go_plan9_memo.html"
-    ]
-  ],
-  [
-    [
       "2024-10-18, 22:23:39",
       "https://lobste.rs/s/smuw7v/superlinker_tool_for_reinterpreting_elf"
     ],
@@ -197,16 +207,6 @@
     [
       "Accessible Arcan : Out of Sight",
       "https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 10:10:18",
-      "https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend"
     ]
   ],
   [
