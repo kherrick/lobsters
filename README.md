@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-19, 17:42:26](https://lobste.rs/s/k9arfo/eliza_snobol4) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
+* [2024-10-19, 17:39:55](https://lobste.rs/s/d6irtt/llm_inference_library_written_rust_with) - [LLM inference library written in Rust with mistral.rs](https://simonwillison.net/2024/Oct/19/mistralrs/)
 * [2024-10-19, 17:27:34](https://lobste.rs/s/gbqsxh/how_is_this_website_so_fast) - [How is this website so fast?](https://www.youtube.com/watch?v=-Ln-8QM8KhQ)
 * [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
 * [2024-10-19, 14:23:05](https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs) - [Triaging clang C++ frontend bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
@@ -10,7 +12,6 @@
 * [2024-10-19, 07:14:16](https://lobste.rs/s/lvqxge/programming_language_semantics_it_s_easy) - [Programming language semantics: It’s easy as 1,2,3](https://people.cs.nott.ac.uk/pszgmh/123.pdf)
 * [2024-10-19, 07:12:44](https://lobste.rs/s/6i27yi/you_could_have_invented_denotational) - [You could have invented denotational semantics](https://langdev.stackexchange.com/a/2021/1445)
 * [2024-10-19, 04:38:19](https://lobste.rs/s/devz3m/decoding_europa_clipper) - [Decoding Europa Clipper](https://destevez.net/2024/10/decoding-europa-clipper/)
-* [2024-10-19, 00:26:41](https://lobste.rs/s/q5zc6u/crash_course_go_assembly_speeding_up) - [A crash course in Go assembly, speeding up calculations 450%](https://pehringer.info/go_plan9_memo.html)
 * [2024-10-18, 22:23:39](https://lobste.rs/s/smuw7v/superlinker_tool_for_reinterpreting_elf) - [superlinker: a tool for reinterpreting ELF executables and shared libraries](https://github.com/whitequark/superlinker)
 * [2024-10-18, 22:22:17](https://lobste.rs/s/ubq7go/my_numpy_year_creating_dtype_for_next) - [My NumPy Year: Creating a DType for the Next Generation of Scientific Computing](https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/)
 * [2024-10-18, 21:46:39](https://lobste.rs/s/xbknvr/typst_0_12_is_just_better) - [Typst 0.12 is just ... better](https://typst.app/blog/2024/typst-0.12/)
@@ -20,7 +21,6 @@
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
 * [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
-* [2024-10-18, 10:10:18](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/qa5lg4/what_are_you_doing_this_weekend)
 * [2024-10-18, 08:34:08](https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust) - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 * [2024-10-17, 17:08:24](https://lobste.rs/s/k8qaij/announcing_rust_1_82_0) - [Announcing Rust 1.82.0](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)

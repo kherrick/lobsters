@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 17:42:26](https://lobste.rs/s/k9arfo/eliza_snobol4) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
+* [2024-10-19, 17:39:55](https://lobste.rs/s/d6irtt/llm_inference_library_written_rust_with) - [LLM inference library written in Rust with mistral.rs](https://simonwillison.net/2024/Oct/19/mistralrs/)
 * [2024-10-19, 17:27:34](https://lobste.rs/s/gbqsxh/how_is_this_website_so_fast) - [How is this website so fast?](https://www.youtube.com/watch?v=-Ln-8QM8KhQ)
 * [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
 * [2024-10-19, 14:23:05](https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs) - [Triaging clang C++ frontend bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
