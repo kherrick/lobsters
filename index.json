@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-19, 14:23:05",
+      "https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs"
+    ],
+    [
+      "Triaging clang C++ frontend bugs",
+      "https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 14:21:09",
+      "https://lobste.rs/s/iqh63d/long_road_lazy_preemption"
+    ],
+    [
+      "The long road to lazy preemption",
+      "https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 10:43:43",
       "https://lobste.rs/s/ntouyp/implementing_intermediate"
     ],
@@ -141,32 +161,12 @@
   ],
   [
     [
-      "2024-10-18, 14:44:40",
-      "https://lobste.rs/s/tvaw5u/tla_wiki"
-    ],
-    [
-      "TLA+ Wiki",
-      "https://docs.tlapl.us"
-    ]
-  ],
-  [
-    [
       "2024-10-18, 12:48:04",
       "https://lobste.rs/s/drzyjj/developing_beautiful_performant_block"
     ],
     [
       "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
       "https://rubymamistvalove.com/block-editor"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 12:13:59",
-      "https://lobste.rs/s/dw7hqy/understanding_dns_resolution_on_linux"
-    ],
-    [
-      "Understanding DNS resolution on Linux and Kubernetes",
-      "http://jpetazzo.github.io/2024/05/12/understanding-kubernetes-dns-hostnetwork-dnspolicy-dnsconfigforming/"
     ]
   ],
   [
