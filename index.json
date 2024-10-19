@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-19, 21:59:32",
+      "https://lobste.rs/s/buih8g/blocking_code_is_leaky_abstraction"
+    ],
+    [
+      "Blocking code is a leaky abstraction",
+      "https://notgull.net/blocking-leaky/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 21:59:18",
+      "https://lobste.rs/s/zghcja/phucking_with_phishers"
+    ],
+    [
+      "Phucking with Phishers",
+      "https://obrhubr.org/phucking-with-phishers"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 20:06:53",
       "https://lobste.rs/s/ziwp61/secret_3d_scans_french_supreme_court"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-10-18, 22:22:17",
-      "https://lobste.rs/s/ubq7go/my_numpy_year_creating_dtype_for_next"
-    ],
-    [
-      "My NumPy Year: Creating a DType for the Next Generation of Scientific Computing",
-      "https://quansight.com/post/my-numpy-year-creating-a-dtype-for-the-next-generation-of-scientific-computing/"
-    ]
-  ],
-  [
-    [
       "2024-10-18, 21:46:39",
       "https://lobste.rs/s/xbknvr/typst_0_12_is_just_better"
     ],
@@ -237,16 +247,6 @@
     [
       "Never Missing the Train Again, Thanks to Rust",
       "https://lilymara.xyz/posts/2024/01/transit-kindle/"
-    ]
-  ],
-  [
-    [
-      "2024-10-17, 14:00:05",
-      "https://lobste.rs/s/yeg6gv/yes_go_does_have_exceptions"
-    ],
-    [
-      "Yes, Go Does Have Exceptions",
-      "https://kristoff.it/blog/go-exceptions/"
     ]
   ]
 ]
