@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
 * [2024-10-19, 14:23:05](https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs) - [Triaging clang C++ frontend bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
 * [2024-10-19, 14:21:09](https://lobste.rs/s/iqh63d/long_road_lazy_preemption) - [The long road to lazy preemption](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 10:43:43](https://lobste.rs/s/ntouyp/implementing_intermediate) - [Implementing an intermediate representation for ArkScript](https://lexp.lt/posts/implementing_an_intermediate_representation/)
@@ -20,7 +21,6 @@
 * [2024-10-18, 12:48:04](https://lobste.rs/s/drzyjj/developing_beautiful_performant_block) - [Developing a Beautiful and Performant Block Editor in Qt C++ and QML](https://rubymamistvalove.com/block-editor)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
 * [2024-10-18, 08:34:08](https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust) - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
-* [2024-10-18, 04:27:44](https://lobste.rs/s/bcacas/how_i_use_git) - [How I use git](https://registerspill.thorstenball.com/p/how-i-use-git)
 * [2024-10-18, 01:28:03](https://lobste.rs/s/asudsv/future_using_top_level_await_might_be) - [In the future using top-level await might be a backwards compatibility break in Node](https://evertpot.com/using-top-level-await-is-bc-break/)
 * [2024-10-17, 17:08:24](https://lobste.rs/s/k8qaij/announcing_rust_1_82_0) - [Announcing Rust 1.82.0](https://blog.rust-lang.org/2024/10/17/Rust-1.82.0.html)
 * [2024-10-17, 15:13:15](https://lobste.rs/s/0ykkjb/sensible_sqlite_defaults) - [Sensible SQLite defaults](https://dev.to/briandouglasie/sensible-sqlite-defaults-5ei7)
