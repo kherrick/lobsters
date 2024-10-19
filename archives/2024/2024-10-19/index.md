@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 14:23:05](https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs) - [Triaging clang C++ frontend bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
+* [2024-10-19, 14:21:09](https://lobste.rs/s/iqh63d/long_road_lazy_preemption) - [The long road to lazy preemption](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 10:43:43](https://lobste.rs/s/ntouyp/implementing_intermediate) - [Implementing an intermediate representation for ArkScript](https://lexp.lt/posts/implementing_an_intermediate_representation/)
 * [2024-10-19, 10:28:28](https://lobste.rs/s/ygksmj/selective_survey_efficient_speculative) - [A Selective Survey of Efficient Speculative Decoding Techniques for LLM Inference](https://blog.codingconfessions.com/p/a-selective-survey-of-speculative-decoding)
 * [2024-10-19, 08:51:00](https://lobste.rs/s/twyusl/multics_maclisp_compiler_basic_hackery) - [The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)](https://www.multicians.org/lcp.html)
