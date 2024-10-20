@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-20, 00:36:47",
+      "https://lobste.rs/s/88hinj/leveraging_benchstat_projections_go"
+    ],
+    [
+      "Leveraging benchstat Projections in Go Benchmark Analysis",
+      "https://bwplotka.dev/2024/go-microbenchmarks-benchstat/"
+    ]
+  ],
+  [
+    [
+      "2024-10-19, 23:59:35",
+      "https://lobste.rs/s/mvrxlf/smurf_beyond_test_pyramid"
+    ],
+    [
+      "SMURF: Beyond the Test Pyramid",
+      "https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html"
+    ]
+  ],
+  [
+    [
       "2024-10-19, 21:59:32",
       "https://lobste.rs/s/buih8g/blocking_code_is_leaky_abstraction"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-10-18, 18:00:42",
-      "https://lobste.rs/s/7e8o9f/focus_on_decisions_not_tasks"
-    ],
-    [
-      "Focus on decisions, not tasks",
-      "https://technicalwriting.dev/strategy/decisions.html"
-    ]
-  ],
-  [
-    [
       "2024-10-18, 17:31:09",
       "https://lobste.rs/s/t2i6fq/i_ve_been_writing_software_for_last_25"
     ],
@@ -217,16 +227,6 @@
     [
       "Steve Klabnik's Tutorial on Jujutsu (git replacement)",
       "https://steveklabnik.github.io/jujutsu-tutorial/"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 12:48:04",
-      "https://lobste.rs/s/drzyjj/developing_beautiful_performant_block"
-    ],
-    [
-      "Developing a Beautiful and Performant Block Editor in Qt C++ and QML",
-      "https://rubymamistvalove.com/block-editor"
     ]
   ],
   [
