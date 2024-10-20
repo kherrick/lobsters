@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-20, 17:17:16",
+      "https://lobste.rs/s/b2re0s/raise_specification_language_method"
+    ],
+    [
+      "The RAISE specification language, method, and tools",
+      "https://raisetools.github.io"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 17:10:20",
+      "https://lobste.rs/s/hcyxlh/yet_another_open_source_spotify_client"
+    ],
+    [
+      "Yet another open source Spotify client, written in Go",
+      "https://github.com/devgianlu/go-librespot"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 16:47:09",
       "https://lobste.rs/s/ifbhcb/pid_1_bash_script_for_docker_containers"
     ],
@@ -187,26 +207,6 @@
     [
       "The long road to lazy preemption",
       "https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 10:28:28",
-      "https://lobste.rs/s/ygksmj/selective_survey_efficient_speculative"
-    ],
-    [
-      "A Selective Survey of Efficient Speculative Decoding Techniques for LLM Inference",
-      "https://blog.codingconfessions.com/p/a-selective-survey-of-speculative-decoding"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 07:14:16",
-      "https://lobste.rs/s/lvqxge/programming_language_semantics_it_s_easy"
-    ],
-    [
-      "Programming language semantics: It’s easy as 1,2,3",
-      "https://people.cs.nott.ac.uk/pszgmh/123.pdf"
     ]
   ],
   [
