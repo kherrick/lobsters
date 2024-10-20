@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 16:02:38](https://lobste.rs/s/yxcgn9/nvidia_llama_3_1_nemotron_70b_instruct_hf) - [nvidia/Llama-3.1-Nemotron-70B-Instruct-HF](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)
 * [2024-10-20, 15:25:39](https://lobste.rs/s/bzg0kq/how_do_you_deploy_10_seconds) - [How do you deploy in 10 seconds?](https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/)
 * [2024-10-20, 12:52:43](https://lobste.rs/s/rojoz1/jujutsu_jj_git_compatible_vcs) - [Jujutsu (jj), a git compatible VCS](https://tonyfinn.com/blog/jj/)
 * [2024-10-20, 12:34:37](https://lobste.rs/s/31eacf/bitwarden_version_2024_10_0_is_no_longer) - [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
