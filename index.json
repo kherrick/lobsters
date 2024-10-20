@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-20, 16:02:38",
+      "https://lobste.rs/s/yxcgn9/nvidia_llama_3_1_nemotron_70b_instruct_hf"
+    ],
+    [
+      "nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
+      "https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 15:25:39",
       "https://lobste.rs/s/bzg0kq/how_do_you_deploy_10_seconds"
     ],
@@ -177,16 +187,6 @@
     [
       "A Selective Survey of Efficient Speculative Decoding Techniques for LLM Inference",
       "https://blog.codingconfessions.com/p/a-selective-survey-of-speculative-decoding"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 08:51:00",
-      "https://lobste.rs/s/twyusl/multics_maclisp_compiler_basic_hackery"
-    ],
-    [
-      "The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)",
-      "https://www.multicians.org/lcp.html"
     ]
   ],
   [
