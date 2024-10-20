@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-20, 18:06:55",
+      "https://lobste.rs/s/j6phbr/good_first_issues_contributing_racket"
+    ],
+    [
+      "Good first issues & contributing to Racket",
+      "https://racket.discourse.group/t/good-first-issues-contributing-to-racket/3243"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 17:59:45",
+      "https://lobste.rs/s/ywssdr/part_postgresql_we_hate_most_2023"
+    ],
+    [
+      "The Part of PostgreSQL We Hate the Most (2023)",
+      "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 17:17:16",
       "https://lobste.rs/s/b2re0s/raise_specification_language_method"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-10-19, 14:23:05",
-      "https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs"
-    ],
-    [
-      "Triaging clang C++ frontend bugs",
-      "https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html"
-    ]
-  ],
-  [
-    [
       "2024-10-19, 14:21:09",
       "https://lobste.rs/s/iqh63d/long_road_lazy_preemption"
     ],
@@ -237,16 +247,6 @@
     [
       "Steve Klabnik's Tutorial on Jujutsu (git replacement)",
       "https://steveklabnik.github.io/jujutsu-tutorial/"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 11:54:00",
-      "https://lobste.rs/s/7fcwig/accessible_arcan_out_sight"
-    ],
-    [
-      "Accessible Arcan : Out of Sight",
-      "https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/"
     ]
   ]
 ]
