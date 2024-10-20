@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-20, 18:34:01",
+      "https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021"
+    ],
+    [
+      "Responsive TOC leader lines with CSS (2021)",
+      "https://markentier.tech/posts/2021/03/responsive-toc-leader-lines-with-css/"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 18:06:55",
       "https://lobste.rs/s/j6phbr/good_first_issues_contributing_racket"
     ],
@@ -217,16 +227,6 @@
     [
       "The long road to lazy preemption",
       "https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 07:12:44",
-      "https://lobste.rs/s/6i27yi/you_could_have_invented_denotational"
-    ],
-    [
-      "You could have invented denotational semantics",
-      "https://langdev.stackexchange.com/a/2021/1445"
     ]
   ],
   [
