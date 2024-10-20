@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 15:25:39](https://lobste.rs/s/bzg0kq/how_do_you_deploy_10_seconds) - [How do you deploy in 10 seconds?](https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/)
 * [2024-10-20, 12:52:43](https://lobste.rs/s/rojoz1/jujutsu_jj_git_compatible_vcs) - [Jujutsu (jj), a git compatible VCS](https://tonyfinn.com/blog/jj/)
 * [2024-10-20, 12:34:37](https://lobste.rs/s/31eacf/bitwarden_version_2024_10_0_is_no_longer) - [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
 * [2024-10-20, 11:23:25](https://lobste.rs/s/9pcbsv/debian_changes_openssh_packaging) - [Debian changes OpenSSH packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 06:40:59](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one) - [Which kernel is the most readable one?](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one)
 * [2024-10-20, 05:51:59](https://lobste.rs/s/lauz7y/ipv6_transition) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-20, 00:36:47](https://lobste.rs/s/88hinj/leveraging_benchstat_projections_go) - [Leveraging benchstat Projections in Go Benchmark Analysis](https://bwplotka.dev/2024/go-microbenchmarks-benchstat/)
-* [2024-10-19, 23:59:35](https://lobste.rs/s/mvrxlf/smurf_beyond_test_pyramid) - [SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 * [2024-10-19, 21:59:32](https://lobste.rs/s/buih8g/blocking_code_is_leaky_abstraction) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-19, 21:59:18](https://lobste.rs/s/zghcja/phucking_with_phishers) - [Phucking with Phishers](https://obrhubr.org/phucking-with-phishers)
 * [2024-10-19, 20:06:53](https://lobste.rs/s/ziwp61/secret_3d_scans_french_supreme_court) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
