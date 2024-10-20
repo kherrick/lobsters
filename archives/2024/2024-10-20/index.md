@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 18:34:01](https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021) - [Responsive TOC leader lines with CSS (2021)](https://markentier.tech/posts/2021/03/responsive-toc-leader-lines-with-css/)
 * [2024-10-20, 18:06:55](https://lobste.rs/s/j6phbr/good_first_issues_contributing_racket) - [Good first issues & contributing to Racket](https://racket.discourse.group/t/good-first-issues-contributing-to-racket/3243)
 * [2024-10-20, 17:59:45](https://lobste.rs/s/ywssdr/part_postgresql_we_hate_most_2023) - [The Part of PostgreSQL We Hate the Most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
 * [2024-10-20, 17:17:16](https://lobste.rs/s/b2re0s/raise_specification_language_method) - [The RAISE specification language, method, and tools](https://raisetools.github.io)
