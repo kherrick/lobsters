@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-20, 21:23:04",
+      "https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript"
+    ],
+    [
+      "Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages",
+      "https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 21:14:08",
+      "https://lobste.rs/s/ms9sa8/verified_programming_dafny"
+    ],
+    [
+      "Verified Programming in Dafny",
+      "https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 18:34:01",
       "https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021"
     ],
@@ -177,26 +197,6 @@
     [
       "whippet: A work-in-progress garbage collector for Guile",
       "https://github.com/wingo/whippet/"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 17:42:26",
-      "https://lobste.rs/s/k9arfo/eliza_snobol4"
-    ],
-    [
-      "Eliza in SNOBOL4",
-      "https://dl.acm.org/doi/pdf/10.1145/987452.987458"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 17:39:55",
-      "https://lobste.rs/s/d6irtt/llm_inference_library_written_rust_with"
-    ],
-    [
-      "LLM inference library written in Rust with mistral.rs",
-      "https://simonwillison.net/2024/Oct/19/mistralrs/"
     ]
   ],
   [
