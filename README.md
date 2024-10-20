@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 18:06:55](https://lobste.rs/s/j6phbr/good_first_issues_contributing_racket) - [Good first issues & contributing to Racket](https://racket.discourse.group/t/good-first-issues-contributing-to-racket/3243)
+* [2024-10-20, 17:59:45](https://lobste.rs/s/ywssdr/part_postgresql_we_hate_most_2023) - [The Part of PostgreSQL We Hate the Most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
 * [2024-10-20, 17:17:16](https://lobste.rs/s/b2re0s/raise_specification_language_method) - [The RAISE specification language, method, and tools](https://raisetools.github.io)
 * [2024-10-20, 17:10:20](https://lobste.rs/s/hcyxlh/yet_another_open_source_spotify_client) - [Yet another open source Spotify client, written in Go](https://github.com/devgianlu/go-librespot)
 * [2024-10-20, 16:47:09](https://lobste.rs/s/ifbhcb/pid_1_bash_script_for_docker_containers) - [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
@@ -19,12 +21,10 @@
 * [2024-10-19, 17:39:55](https://lobste.rs/s/d6irtt/llm_inference_library_written_rust_with) - [LLM inference library written in Rust with mistral.rs](https://simonwillison.net/2024/Oct/19/mistralrs/)
 * [2024-10-19, 17:27:34](https://lobste.rs/s/gbqsxh/how_is_this_website_so_fast) - [How is this website so fast?](https://www.youtube.com/watch?v=-Ln-8QM8KhQ)
 * [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
-* [2024-10-19, 14:23:05](https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs) - [Triaging clang C++ frontend bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
 * [2024-10-19, 14:21:09](https://lobste.rs/s/iqh63d/long_road_lazy_preemption) - [The long road to lazy preemption](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
 * [2024-10-19, 07:12:44](https://lobste.rs/s/6i27yi/you_could_have_invented_denotational) - [You could have invented denotational semantics](https://langdev.stackexchange.com/a/2021/1445)
 * [2024-10-18, 21:46:39](https://lobste.rs/s/xbknvr/typst_0_12_is_just_better) - [Typst 0.12 is just ... better](https://typst.app/blog/2024/typst-0.12/)
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
-* [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
 
 ## [Archives](archives/index.md)
 

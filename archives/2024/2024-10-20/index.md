@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 18:06:55](https://lobste.rs/s/j6phbr/good_first_issues_contributing_racket) - [Good first issues & contributing to Racket](https://racket.discourse.group/t/good-first-issues-contributing-to-racket/3243)
+* [2024-10-20, 17:59:45](https://lobste.rs/s/ywssdr/part_postgresql_we_hate_most_2023) - [The Part of PostgreSQL We Hate the Most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
 * [2024-10-20, 17:17:16](https://lobste.rs/s/b2re0s/raise_specification_language_method) - [The RAISE specification language, method, and tools](https://raisetools.github.io)
 * [2024-10-20, 17:10:20](https://lobste.rs/s/hcyxlh/yet_another_open_source_spotify_client) - [Yet another open source Spotify client, written in Go](https://github.com/devgianlu/go-librespot)
 * [2024-10-20, 16:47:09](https://lobste.rs/s/ifbhcb/pid_1_bash_script_for_docker_containers) - [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
