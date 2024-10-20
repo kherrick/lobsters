@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 11:32:31](https://lobste.rs/s/wlrlel/rust_vs_go_2024) - [Rust vs Go in 2024](https://bitfieldconsulting.com/posts/rust-vs-go)
 * [2024-10-20, 11:23:25](https://lobste.rs/s/9pcbsv/debian_changes_openssh_packaging) - [Debian changes OpenSSH packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 06:40:59](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one) - [Which kernel is the most readable one?](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one)
 * [2024-10-20, 05:51:59](https://lobste.rs/s/lauz7y/ipv6_transition) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
@@ -22,7 +23,6 @@
 * [2024-10-19, 07:12:44](https://lobste.rs/s/6i27yi/you_could_have_invented_denotational) - [You could have invented denotational semantics](https://langdev.stackexchange.com/a/2021/1445)
 * [2024-10-18, 22:23:39](https://lobste.rs/s/smuw7v/superlinker_tool_for_reinterpreting_elf) - [superlinker: a tool for reinterpreting ELF executables and shared libraries](https://github.com/whitequark/superlinker)
 * [2024-10-18, 21:46:39](https://lobste.rs/s/xbknvr/typst_0_12_is_just_better) - [Typst 0.12 is just ... better](https://typst.app/blog/2024/typst-0.12/)
-* [2024-10-18, 17:18:05](https://lobste.rs/s/fnok1e/setbigtimeout) - [setBigTimeout](https://evanhahn.com/set-big-timeout/)
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
 
