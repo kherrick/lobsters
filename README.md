@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 05:51:59](https://lobste.rs/s/lauz7y/ipv6_transition) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-20, 05:45:39](https://lobste.rs/s/uxdkt8/smurf_beyond_test_pyramid) - [SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html?m=1)
 * [2024-10-20, 00:36:47](https://lobste.rs/s/88hinj/leveraging_benchstat_projections_go) - [Leveraging benchstat Projections in Go Benchmark Analysis](https://bwplotka.dev/2024/go-microbenchmarks-benchstat/)
 * [2024-10-19, 23:59:35](https://lobste.rs/s/mvrxlf/smurf_beyond_test_pyramid) - [SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
@@ -18,7 +19,6 @@
 * [2024-10-19, 08:51:00](https://lobste.rs/s/twyusl/multics_maclisp_compiler_basic_hackery) - [The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)](https://www.multicians.org/lcp.html)
 * [2024-10-19, 07:14:16](https://lobste.rs/s/lvqxge/programming_language_semantics_it_s_easy) - [Programming language semantics: It’s easy as 1,2,3](https://people.cs.nott.ac.uk/pszgmh/123.pdf)
 * [2024-10-19, 07:12:44](https://lobste.rs/s/6i27yi/you_could_have_invented_denotational) - [You could have invented denotational semantics](https://langdev.stackexchange.com/a/2021/1445)
-* [2024-10-19, 04:38:19](https://lobste.rs/s/devz3m/decoding_europa_clipper) - [Decoding Europa Clipper](https://destevez.net/2024/10/decoding-europa-clipper/)
 * [2024-10-18, 22:23:39](https://lobste.rs/s/smuw7v/superlinker_tool_for_reinterpreting_elf) - [superlinker: a tool for reinterpreting ELF executables and shared libraries](https://github.com/whitequark/superlinker)
 * [2024-10-18, 21:46:39](https://lobste.rs/s/xbknvr/typst_0_12_is_just_better) - [Typst 0.12 is just ... better](https://typst.app/blog/2024/typst-0.12/)
 * [2024-10-18, 17:31:09](https://lobste.rs/s/t2i6fq/i_ve_been_writing_software_for_last_25) - [I've been writing software for the last 25 years. Here some things I learned so far](https://blog.rpanachi.com/after-25-years-writing-software-here-some-things-learned-so-far)
