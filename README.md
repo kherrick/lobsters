@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 21:23:04](https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript) - [Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
+* [2024-10-20, 21:14:08](https://lobste.rs/s/ms9sa8/verified_programming_dafny) - [Verified Programming in Dafny](https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf)
 * [2024-10-20, 18:34:01](https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021) - [Responsive TOC leader lines with CSS (2021)](https://markentier.tech/posts/2021/03/responsive-toc-leader-lines-with-css/)
 * [2024-10-20, 18:06:55](https://lobste.rs/s/j6phbr/good_first_issues_contributing_racket) - [Good first issues & contributing to Racket](https://racket.discourse.group/t/good-first-issues-contributing-to-racket/3243)
 * [2024-10-20, 17:59:45](https://lobste.rs/s/ywssdr/part_postgresql_we_hate_most_2023) - [The Part of PostgreSQL We Hate the Most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
@@ -18,8 +20,6 @@
 * [2024-10-19, 21:59:18](https://lobste.rs/s/zghcja/phucking_with_phishers) - [Phucking with Phishers](https://obrhubr.org/phucking-with-phishers)
 * [2024-10-19, 20:06:53](https://lobste.rs/s/ziwp61/secret_3d_scans_french_supreme_court) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
 * [2024-10-19, 18:48:22](https://lobste.rs/s/mv2tjc/whippet_work_progress_garbage_collector) - [whippet: A work-in-progress garbage collector for Guile](https://github.com/wingo/whippet/)
-* [2024-10-19, 17:42:26](https://lobste.rs/s/k9arfo/eliza_snobol4) - [Eliza in SNOBOL4](https://dl.acm.org/doi/pdf/10.1145/987452.987458)
-* [2024-10-19, 17:39:55](https://lobste.rs/s/d6irtt/llm_inference_library_written_rust_with) - [LLM inference library written in Rust with mistral.rs](https://simonwillison.net/2024/Oct/19/mistralrs/)
 * [2024-10-19, 17:27:34](https://lobste.rs/s/gbqsxh/how_is_this_website_so_fast) - [How is this website so fast?](https://www.youtube.com/watch?v=-Ln-8QM8KhQ)
 * [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
 * [2024-10-19, 14:21:09](https://lobste.rs/s/iqh63d/long_road_lazy_preemption) - [The long road to lazy preemption](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
