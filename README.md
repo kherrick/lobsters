@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 11:23:25](https://lobste.rs/s/9pcbsv/debian_changes_openssh_packaging) - [Debian changes OpenSSH packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 06:40:59](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one) - [Which kernel is the most readable one?](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one)
 * [2024-10-20, 05:51:59](https://lobste.rs/s/lauz7y/ipv6_transition) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
 * [2024-10-20, 05:45:39](https://lobste.rs/s/uxdkt8/smurf_beyond_test_pyramid) - [SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html?m=1)
@@ -15,7 +16,6 @@
 * [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
 * [2024-10-19, 14:23:05](https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs) - [Triaging clang C++ frontend bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
 * [2024-10-19, 14:21:09](https://lobste.rs/s/iqh63d/long_road_lazy_preemption) - [The long road to lazy preemption](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
-* [2024-10-19, 10:43:43](https://lobste.rs/s/ntouyp/implementing_intermediate) - [Implementing an intermediate representation for ArkScript](https://lexp.lt/posts/implementing_an_intermediate_representation/)
 * [2024-10-19, 10:28:28](https://lobste.rs/s/ygksmj/selective_survey_efficient_speculative) - [A Selective Survey of Efficient Speculative Decoding Techniques for LLM Inference](https://blog.codingconfessions.com/p/a-selective-survey-of-speculative-decoding)
 * [2024-10-19, 08:51:00](https://lobste.rs/s/twyusl/multics_maclisp_compiler_basic_hackery) - [The Multics Maclisp Compiler: The Basic Hackery – A Tutorial (1977)](https://www.multicians.org/lcp.html)
 * [2024-10-19, 07:14:16](https://lobste.rs/s/lvqxge/programming_language_semantics_it_s_easy) - [Programming language semantics: It’s easy as 1,2,3](https://people.cs.nott.ac.uk/pszgmh/123.pdf)
