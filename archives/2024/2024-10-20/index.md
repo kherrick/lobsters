@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-20](index.md)
 
+* [2024-10-20, 22:12:46](https://lobste.rs/s/brttdd/lost_media_pokemon_fever_1999_vhs_tape) - [Lost Media: Pokémon Fever (1999) VHS Tape](https://lostpixellore.com/blog/lost-media-pokemon-fever-vhs-tape/)
 * [2024-10-20, 21:36:28](https://lobste.rs/s/kw96la/implementing_regular_expressions) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
 * [2024-10-20, 21:23:04](https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript) - [Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 21:14:08](https://lobste.rs/s/ms9sa8/verified_programming_dafny) - [Verified Programming in Dafny](https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf)
