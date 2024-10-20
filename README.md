@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 21:36:28](https://lobste.rs/s/kw96la/implementing_regular_expressions) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
 * [2024-10-20, 21:23:04](https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript) - [Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 21:14:08](https://lobste.rs/s/ms9sa8/verified_programming_dafny) - [Verified Programming in Dafny](https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf)
 * [2024-10-20, 18:34:01](https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021) - [Responsive TOC leader lines with CSS (2021)](https://markentier.tech/posts/2021/03/responsive-toc-leader-lines-with-css/)
@@ -15,7 +16,6 @@
 * [2024-10-20, 11:23:25](https://lobste.rs/s/9pcbsv/debian_changes_openssh_packaging) - [Debian changes OpenSSH packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 06:40:59](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one) - [Which kernel is the most readable one?](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one)
 * [2024-10-20, 05:51:59](https://lobste.rs/s/lauz7y/ipv6_transition) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
-* [2024-10-20, 00:36:47](https://lobste.rs/s/88hinj/leveraging_benchstat_projections_go) - [Leveraging benchstat Projections in Go Benchmark Analysis](https://bwplotka.dev/2024/go-microbenchmarks-benchstat/)
 * [2024-10-19, 21:59:32](https://lobste.rs/s/buih8g/blocking_code_is_leaky_abstraction) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-19, 21:59:18](https://lobste.rs/s/zghcja/phucking_with_phishers) - [Phucking with Phishers](https://obrhubr.org/phucking-with-phishers)
 * [2024-10-19, 20:06:53](https://lobste.rs/s/ziwp61/secret_3d_scans_french_supreme_court) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
