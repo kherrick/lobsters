@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 05:45:39](https://lobste.rs/s/uxdkt8/smurf_beyond_test_pyramid) - [SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html?m=1)
 * [2024-10-20, 00:36:47](https://lobste.rs/s/88hinj/leveraging_benchstat_projections_go) - [Leveraging benchstat Projections in Go Benchmark Analysis](https://bwplotka.dev/2024/go-microbenchmarks-benchstat/)
 * [2024-10-19, 23:59:35](https://lobste.rs/s/mvrxlf/smurf_beyond_test_pyramid) - [SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 * [2024-10-19, 21:59:32](https://lobste.rs/s/buih8g/blocking_code_is_leaky_abstraction) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
@@ -24,7 +25,6 @@
 * [2024-10-18, 17:18:05](https://lobste.rs/s/fnok1e/setbigtimeout) - [setBigTimeout](https://evanhahn.com/set-big-timeout/)
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
 * [2024-10-18, 11:54:00](https://lobste.rs/s/7fcwig/accessible_arcan_out_sight) - [Accessible Arcan : Out of Sight](https://arcan-fe.com/2024/10/18/accessible-arcan-out-of-sight/)
-* [2024-10-18, 08:34:08](https://lobste.rs/s/o5ccsn/never_missing_train_again_thanks_rust) - [Never Missing the Train Again, Thanks to Rust](https://lilymara.xyz/posts/2024/01/transit-kindle/)
 
 ## [Archives](archives/index.md)
 
