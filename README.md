@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-20, 17:17:16](https://lobste.rs/s/b2re0s/raise_specification_language_method) - [The RAISE specification language, method, and tools](https://raisetools.github.io)
+* [2024-10-20, 17:10:20](https://lobste.rs/s/hcyxlh/yet_another_open_source_spotify_client) - [Yet another open source Spotify client, written in Go](https://github.com/devgianlu/go-librespot)
 * [2024-10-20, 16:47:09](https://lobste.rs/s/ifbhcb/pid_1_bash_script_for_docker_containers) - [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
 * [2024-10-20, 16:02:38](https://lobste.rs/s/yxcgn9/nvidia_llama_3_1_nemotron_70b_instruct_hf) - [nvidia/Llama-3.1-Nemotron-70B-Instruct-HF](https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF)
 * [2024-10-20, 15:25:39](https://lobste.rs/s/bzg0kq/how_do_you_deploy_10_seconds) - [How do you deploy in 10 seconds?](https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/)
@@ -19,8 +21,6 @@
 * [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
 * [2024-10-19, 14:23:05](https://lobste.rs/s/yx5qoq/triaging_clang_c_frontend_bugs) - [Triaging clang C++ frontend bugs](https://shafik.github.io/c++/llvm/2024/10/17/triaging-clang-fronend-bugs.html)
 * [2024-10-19, 14:21:09](https://lobste.rs/s/iqh63d/long_road_lazy_preemption) - [The long road to lazy preemption](https://lwn.net/SubscriberLink/994322/45aa5211a50bc63a/)
-* [2024-10-19, 10:28:28](https://lobste.rs/s/ygksmj/selective_survey_efficient_speculative) - [A Selective Survey of Efficient Speculative Decoding Techniques for LLM Inference](https://blog.codingconfessions.com/p/a-selective-survey-of-speculative-decoding)
-* [2024-10-19, 07:14:16](https://lobste.rs/s/lvqxge/programming_language_semantics_it_s_easy) - [Programming language semantics: It’s easy as 1,2,3](https://people.cs.nott.ac.uk/pszgmh/123.pdf)
 * [2024-10-19, 07:12:44](https://lobste.rs/s/6i27yi/you_could_have_invented_denotational) - [You could have invented denotational semantics](https://langdev.stackexchange.com/a/2021/1445)
 * [2024-10-18, 21:46:39](https://lobste.rs/s/xbknvr/typst_0_12_is_just_better) - [Typst 0.12 is just ... better](https://typst.app/blog/2024/typst-0.12/)
 * [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
