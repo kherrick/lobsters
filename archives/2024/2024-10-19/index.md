@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-19](index.md)
 
+* [2024-10-19, 23:59:35](https://lobste.rs/s/mvrxlf/smurf_beyond_test_pyramid) - [SMURF: Beyond the Test Pyramid](https://testing.googleblog.com/2024/10/smurf-beyond-test-pyramid.html)
 * [2024-10-19, 21:59:32](https://lobste.rs/s/buih8g/blocking_code_is_leaky_abstraction) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
 * [2024-10-19, 21:59:18](https://lobste.rs/s/zghcja/phucking_with_phishers) - [Phucking with Phishers](https://obrhubr.org/phucking-with-phishers)
 * [2024-10-19, 20:06:53](https://lobste.rs/s/ziwp61/secret_3d_scans_french_supreme_court) - [Secret 3D Scans in the French Supreme Court](https://cosmowenman.substack.com/p/secret-3d-scans-in-the-french-supreme)
