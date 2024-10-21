@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-21, 01:05:10",
+      "https://lobste.rs/s/jlqg6q/memory_safety_without_lifetime"
+    ],
+    [
+      "Memory Safety without Lifetime Parameters",
+      "https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html"
+    ]
+  ],
+  [
+    [
       "2024-10-20, 22:47:08",
       "https://lobste.rs/s/hktedj/mac_programming_for_dummies_1999"
     ],
@@ -237,16 +247,6 @@
     [
       "C-Reduce, a C and C++ program reducer",
       "https://github.com/csmith-project/creduce"
-    ]
-  ],
-  [
-    [
-      "2024-10-18, 16:54:29",
-      "https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git"
-    ],
-    [
-      "Steve Klabnik's Tutorial on Jujutsu (git replacement)",
-      "https://steveklabnik.github.io/jujutsu-tutorial/"
     ]
   ]
 ]
