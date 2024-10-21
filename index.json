@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-21, 05:33:27",
+      "https://lobste.rs/s/j3ed91/ccls_lsp_semantic_tokens"
+    ],
+    [
+      "ccls and LSP Semantic Tokens",
+      "https://maskray.me/blog/2024-10-20-ccls-and-lsp-semantic-tokens"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 03:00:19",
       "https://lobste.rs/s/dbajsy/android_password_store_client_for_pass"
     ],
@@ -147,16 +157,6 @@
     [
       "PID 1 Bash script for Docker containers explained line by line",
       "https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 16:02:38",
-      "https://lobste.rs/s/yxcgn9/nvidia_llama_3_1_nemotron_70b_instruct_hf"
-    ],
-    [
-      "nvidia/Llama-3.1-Nemotron-70B-Instruct-HF",
-      "https://huggingface.co/nvidia/Llama-3.1-Nemotron-70B-Instruct-HF"
     ]
   ],
   [
