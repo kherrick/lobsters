@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 21:33:43](https://lobste.rs/s/f7bham/init_py_files_are_optional_here_s_why_you) - [__init__.py files are optional. Here’s why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
 * [2024-10-21, 20:43:46](https://lobste.rs/s/jf0ww0/1_1_2_2006) - [1+1=2 (2006)](https://blog.plover.com/math/PM.html)
 * [2024-10-21, 20:03:33](https://lobste.rs/s/tmewjc/hide_another_detail) - [Hide another detail](https://lmno.lol/alvaro/hide-another-detail)
 * [2024-10-21, 17:53:30](https://lobste.rs/s/op9c7k/2_136279841_1_is_new_largest_known_prime) - [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)

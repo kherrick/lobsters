@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-21, 21:33:43](https://lobste.rs/s/f7bham/init_py_files_are_optional_here_s_why_you) - [__init__.py files are optional. Here’s why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
 * [2024-10-21, 20:43:46](https://lobste.rs/s/jf0ww0/1_1_2_2006) - [1+1=2 (2006)](https://blog.plover.com/math/PM.html)
 * [2024-10-21, 20:03:33](https://lobste.rs/s/tmewjc/hide_another_detail) - [Hide another detail](https://lmno.lol/alvaro/hide-another-detail)
 * [2024-10-21, 17:53:30](https://lobste.rs/s/op9c7k/2_136279841_1_is_new_largest_known_prime) - [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
@@ -8,7 +9,6 @@
 * [2024-10-21, 14:55:10](https://lobste.rs/s/pfjkpx/booting_sun_sparc_servers) - [Booting Sun SPARC Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
 * [2024-10-21, 14:52:58](https://lobste.rs/s/roozyy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/roozyy/what_are_you_doing_this_week)
 * [2024-10-21, 14:33:32](https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
-* [2024-10-21, 13:32:10](https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention) - [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-21, 13:12:12](https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with) - [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)
 * [2024-10-21, 11:01:46](https://lobste.rs/s/eerewn/guix_build_user_takeover_vulnerability) - [Guix Build User Takeover Vulnerability](https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability//)
 * [2024-10-21, 10:51:46](https://lobste.rs/s/fbjowx/jujutsu_practice) - [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
