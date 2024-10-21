@@ -1,22 +1,22 @@
 [
   [
     [
+      "2024-10-21, 13:32:10",
+      "https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention"
+    ],
+    [
+      "You Should Probably Still Pay Attention to Tokenizers",
+      "https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 13:12:12",
       "https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with"
     ],
     [
       "phonebook: Manage DNS Records with Kubernetes",
       "https://github.com/pier-oliviert/phonebook"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 12:13:45",
-      "https://lobste.rs/s/qejgdm/gnu_guix_build_user_takeover"
-    ],
-    [
-      "GNU Guix - Build User Takeover Vulnerability",
-      "https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability/"
     ]
   ],
   [
@@ -67,16 +67,6 @@
     [
       "20 years of Linux on the Desktop (part 1)",
       "https://ploum.net/2024-10-20-20years-linux-desktop-part1.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 08:10:37",
-      "https://lobste.rs/s/rnsxr8/implementing_attributes_for_plain_text"
-    ],
-    [
-      "Implementing attributes for plain text using subranges like Emacs",
-      "https://akkartik.name/post/2024-10-20-devlog"
     ]
   ],
   [
@@ -167,6 +157,16 @@
     [
       "Verified Programming in Dafny",
       "https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-10-20, 18:34:01",
+      "https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021"
+    ],
+    [
+      "Responsive TOC leader lines with CSS (2021)",
+      "https://markentier.tech/posts/2021/03/responsive-toc-leader-lines-with-css/"
     ]
   ],
   [
