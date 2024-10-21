@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-21, 01:05:10](https://lobste.rs/s/jlqg6q/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
 * [2024-10-20, 22:47:08](https://lobste.rs/s/hktedj/mac_programming_for_dummies_1999) - [Mac Programming for Dummies (1999)](https://devnonsense.com/posts/mac-programming-for-dummies/)
 * [2024-10-20, 22:12:46](https://lobste.rs/s/brttdd/lost_media_pokemon_fever_1999_vhs_tape) - [Lost Media: Pokémon Fever (1999) VHS Tape](https://lostpixellore.com/blog/lost-media-pokemon-fever-vhs-tape/)
 * [2024-10-20, 21:36:28](https://lobste.rs/s/kw96la/implementing_regular_expressions) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
@@ -24,7 +25,6 @@
 * [2024-10-19, 18:48:22](https://lobste.rs/s/mv2tjc/whippet_work_progress_garbage_collector) - [whippet: A work-in-progress garbage collector for Guile](https://github.com/wingo/whippet/)
 * [2024-10-19, 17:27:34](https://lobste.rs/s/gbqsxh/how_is_this_website_so_fast) - [How is this website so fast?](https://www.youtube.com/watch?v=-Ln-8QM8KhQ)
 * [2024-10-19, 15:39:53](https://lobste.rs/s/ckwjrs/c_reduce_c_c_program_reducer) - [C-Reduce, a C and C++ program reducer](https://github.com/csmith-project/creduce)
-* [2024-10-18, 16:54:29](https://lobste.rs/s/mdfhda/steve_klabnik_s_tutorial_on_jujutsu_git) - [Steve Klabnik's Tutorial on Jujutsu (git replacement)](https://steveklabnik.github.io/jujutsu-tutorial/)
 
 ## [Archives](archives/index.md)
 
