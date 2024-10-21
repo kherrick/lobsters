@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-21, 11:01:46](https://lobste.rs/s/eerewn/guix_build_user_takeover_vulnerability) - [Guix Build User Takeover Vulnerability](https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability//)
 * [2024-10-21, 10:51:46](https://lobste.rs/s/fbjowx/jujutsu_practice) - [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
 * [2024-10-21, 10:51:45](https://lobste.rs/s/xqz5mr/there_is_no_such_thing_as_global_method) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-21, 10:24:49](https://lobste.rs/s/wjsy7m/dependent_types_haskell_part_4) - [Dependent Types in Haskell, Part 4](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-4)
@@ -9,7 +10,6 @@
 * [2024-10-21, 05:42:04](https://lobste.rs/s/sucybq/copyleft_context_genai) - [\"Copyleft\" in the context of GenAI](https://mhatta.substack.com/p/copyleft-in-the-context-of-genai)
 * [2024-10-21, 05:33:27](https://lobste.rs/s/j3ed91/ccls_lsp_semantic_tokens) - [ccls and LSP Semantic Tokens](https://maskray.me/blog/2024-10-20-ccls-and-lsp-semantic-tokens)
 * [2024-10-21, 03:00:19](https://lobste.rs/s/dbajsy/android_password_store_client_for_pass) - [Android \"Password Store\" client for pass discontinued](https://github.com/android-password-store/Android-Password-Store/discussions/3260)
-* [2024-10-21, 02:35:15](https://lobste.rs/s/res3ok/clear_up_your_rails_controllers_with) - [Clear up your Rails controllers with before_action wrappers](https://buttondown.com/kaspth/archive/clear-up-your-rails-controllers-with/)
 * [2024-10-21, 01:58:03](https://lobste.rs/s/i6khvj/introduction_zig) - [Introduction to Zig](https://pedropark99.github.io/zig-book/)
 * [2024-10-21, 01:05:10](https://lobste.rs/s/jlqg6q/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
 * [2024-10-20, 22:47:08](https://lobste.rs/s/hktedj/mac_programming_for_dummies_1999) - [Mac Programming for Dummies (1999)](https://devnonsense.com/posts/mac-programming-for-dummies/)

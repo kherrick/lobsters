@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 11:01:46](https://lobste.rs/s/eerewn/guix_build_user_takeover_vulnerability) - [Guix Build User Takeover Vulnerability](https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability//)
 * [2024-10-21, 10:51:46](https://lobste.rs/s/fbjowx/jujutsu_practice) - [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
 * [2024-10-21, 10:51:45](https://lobste.rs/s/xqz5mr/there_is_no_such_thing_as_global_method) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-21, 10:24:49](https://lobste.rs/s/wjsy7m/dependent_types_haskell_part_4) - [Dependent Types in Haskell, Part 4](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-4)
