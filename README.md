@@ -23,7 +23,7 @@
 * [2024-10-20, 11:23:25](https://lobste.rs/s/9pcbsv/debian_changes_openssh_packaging) - [Debian changes OpenSSH packaging](https://lwn.net/Articles/991088/)
 * [2024-10-20, 06:40:59](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one) - [Which kernel is the most readable one?](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one)
 * [2024-10-20, 05:51:59](https://lobste.rs/s/lauz7y/ipv6_transition) - [The IPv6 Transition](https://www.potaroo.net/ispcol/2024-10/ipv6-transition.html)
-* [2024-10-19, 21:59:32](https://lobste.rs/s/buih8g/blocking_code_is_leaky_abstraction) - [Blocking code is a leaky abstraction](https://notgull.net/blocking-leaky/)
+* [2024-10-19, 21:59:18](https://lobste.rs/s/zghcja/phucking_with_phishers) - [Phucking with Phishers](https://obrhubr.org/phucking-with-phishers)
 * [2024-10-19, 17:27:34](https://lobste.rs/s/gbqsxh/how_is_this_website_so_fast) - [How is this website so fast?](https://www.youtube.com/watch?v=-Ln-8QM8KhQ)
 
 ## [Archives](archives/index.md)
