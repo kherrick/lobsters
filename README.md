@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-21, 14:33:32](https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-21, 14:13:16](https://lobste.rs/s/17c0nv/pyinstrument_5_flamegraphs_for_python) - [Pyinstrument 5 - Flamegraphs for Python](https://joerick.me/posts/2024/10/3/pyinstrument-5/)
 * [2024-10-21, 13:32:10](https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention) - [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-21, 13:12:12](https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with) - [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)
@@ -18,7 +19,6 @@
 * [2024-10-20, 21:23:04](https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript) - [Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 21:14:08](https://lobste.rs/s/ms9sa8/verified_programming_dafny) - [Verified Programming in Dafny](https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf)
 * [2024-10-20, 17:59:45](https://lobste.rs/s/ywssdr/part_postgresql_we_hate_most_2023) - [The Part of PostgreSQL We Hate the Most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
-* [2024-10-20, 17:10:20](https://lobste.rs/s/hcyxlh/yet_another_open_source_spotify_client) - [Yet another open source Spotify client, written in Go](https://github.com/devgianlu/go-librespot)
 * [2024-10-20, 16:47:09](https://lobste.rs/s/ifbhcb/pid_1_bash_script_for_docker_containers) - [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
 * [2024-10-20, 15:25:39](https://lobste.rs/s/bzg0kq/how_do_you_deploy_10_seconds) - [How do you deploy in 10 seconds?](https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/)
 * [2024-10-20, 12:52:43](https://lobste.rs/s/rojoz1/jujutsu_jj_git_compatible_vcs) - [Jujutsu (jj), a git compatible VCS](https://tonyfinn.com/blog/jj/)
