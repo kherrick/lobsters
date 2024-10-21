@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-21, 12:13:45",
+      "https://lobste.rs/s/qejgdm/gnu_guix_build_user_takeover"
+    ],
+    [
+      "GNU Guix - Build User Takeover Vulnerability",
+      "https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability/"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 11:01:46",
       "https://lobste.rs/s/eerewn/guix_build_user_takeover_vulnerability"
     ],
@@ -167,16 +177,6 @@
     [
       "The Part of PostgreSQL We Hate the Most (2023)",
       "https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 17:17:16",
-      "https://lobste.rs/s/b2re0s/raise_specification_language_method"
-    ],
-    [
-      "The RAISE specification language, method, and tools",
-      "https://raisetools.github.io"
     ]
   ],
   [
