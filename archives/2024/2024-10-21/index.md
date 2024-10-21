@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 13:12:12](https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with) - [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)
 * [2024-10-21, 12:13:45](https://lobste.rs/s/qejgdm/gnu_guix_build_user_takeover) - [GNU Guix - Build User Takeover Vulnerability](https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability/)
 * [2024-10-21, 11:01:46](https://lobste.rs/s/eerewn/guix_build_user_takeover_vulnerability) - [Guix Build User Takeover Vulnerability](https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability//)
 * [2024-10-21, 10:51:46](https://lobste.rs/s/fbjowx/jujutsu_practice) - [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
