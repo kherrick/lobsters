@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-21, 13:12:12",
+      "https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with"
+    ],
+    [
+      "phonebook: Manage DNS Records with Kubernetes",
+      "https://github.com/pier-oliviert/phonebook"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 12:13:45",
       "https://lobste.rs/s/qejgdm/gnu_guix_build_user_takeover"
     ],
@@ -157,16 +167,6 @@
     [
       "Verified Programming in Dafny",
       "https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 18:34:01",
-      "https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021"
-    ],
-    [
-      "Responsive TOC leader lines with CSS (2021)",
-      "https://markentier.tech/posts/2021/03/responsive-toc-leader-lines-with-css/"
     ]
   ],
   [
