@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 08:10:37](https://lobste.rs/s/rnsxr8/implementing_attributes_for_plain_text) - [Implementing attributes for plain text using subranges like Emacs](https://akkartik.name/post/2024-10-20-devlog)
 * [2024-10-21, 07:54:26](https://lobste.rs/s/gu3cxm/naming_conventions_need_die) - [Naming Conventions That Need to Die](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
 * [2024-10-21, 05:42:04](https://lobste.rs/s/sucybq/copyleft_context_genai) - [\"Copyleft\" in the context of GenAI](https://mhatta.substack.com/p/copyleft-in-the-context-of-genai)
 * [2024-10-21, 05:33:27](https://lobste.rs/s/j3ed91/ccls_lsp_semantic_tokens) - [ccls and LSP Semantic Tokens](https://maskray.me/blog/2024-10-20-ccls-and-lsp-semantic-tokens)
