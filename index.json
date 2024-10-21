@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-10-21, 16:07:34",
+      "https://lobste.rs/s/yh6xdv/tauri_2_0_stable_release"
+    ],
+    [
+      "Tauri 2.0 Stable Release",
+      "https://tauri.app/blog/tauri-20/"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 15:40:57",
       "https://lobste.rs/s/lvlfy9/naming_things_2021"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2024-10-21, 13:32:10",
+      "https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention"
+    ],
+    [
+      "You Should Probably Still Pay Attention to Tokenizers",
+      "https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 13:12:12",
       "https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with"
     ],
@@ -127,16 +147,6 @@
     [
       "There is no such thing as a global method (in Ruby)",
       "https://zverok.space/blog/2024-10-21-global_functions.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 10:24:49",
-      "https://lobste.rs/s/wjsy7m/dependent_types_haskell_part_4"
-    ],
-    [
-      "Dependent Types in Haskell, Part 4",
-      "https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-4"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "PID 1 Bash script for Docker containers explained line by line",
       "https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 15:25:39",
-      "https://lobste.rs/s/bzg0kq/how_do_you_deploy_10_seconds"
-    ],
-    [
-      "How do you deploy in 10 seconds?",
-      "https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/"
     ]
   ],
   [
