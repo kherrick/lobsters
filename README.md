@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-21, 17:53:30](https://lobste.rs/s/op9c7k/2_136279841_1_is_new_largest_known_prime) - [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
 * [2024-10-21, 16:53:13](https://lobste.rs/s/hnztcs/life_zed_extension_rust_wit_wasm) - [Life of a Zed Extension: Rust, WIT, Wasm](https://zed.dev/blog/zed-decoded-extensions)
 * [2024-10-21, 15:40:57](https://lobste.rs/s/lvlfy9/naming_things_2021) - [Naming things (2021)](https://wiki.dpk.io/naming-things.html)
 * [2024-10-21, 14:55:10](https://lobste.rs/s/pfjkpx/booting_sun_sparc_servers) - [Booting Sun SPARC Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
-* [2024-10-21, 14:52:58](https://lobste.rs/s/roozyy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/roozyy/what_are_you_doing_this_week)
 * [2024-10-21, 14:33:32](https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-21, 13:32:10](https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention) - [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-21, 13:12:12](https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with) - [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)

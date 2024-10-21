@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 17:53:30](https://lobste.rs/s/op9c7k/2_136279841_1_is_new_largest_known_prime) - [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
 * [2024-10-21, 16:53:13](https://lobste.rs/s/hnztcs/life_zed_extension_rust_wit_wasm) - [Life of a Zed Extension: Rust, WIT, Wasm](https://zed.dev/blog/zed-decoded-extensions)
 * [2024-10-21, 16:10:40](https://lobste.rs/s/rkaxnt/self_publishing_book_with) - [Self-publishing a book with reStructuredText, Sphinx, Calibre, and vim (2019)](https://digitalsuperpowers.com/blog/2019-02-16-publishing-ebook.html)
 * [2024-10-21, 15:40:57](https://lobste.rs/s/lvlfy9/naming_things_2021) - [Naming things (2021)](https://wiki.dpk.io/naming-things.html)
