@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-21, 10:24:49](https://lobste.rs/s/wjsy7m/dependent_types_haskell_part_4) - [Dependent Types in Haskell, Part 4](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-4)
 * [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 * [2024-10-21, 08:10:37](https://lobste.rs/s/rnsxr8/implementing_attributes_for_plain_text) - [Implementing attributes for plain text using subranges like Emacs](https://akkartik.name/post/2024-10-20-devlog)
 * [2024-10-21, 07:54:26](https://lobste.rs/s/gu3cxm/naming_conventions_need_die) - [Naming Conventions That Need to Die](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
@@ -13,7 +14,6 @@
 * [2024-10-20, 21:23:04](https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript) - [Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 21:14:08](https://lobste.rs/s/ms9sa8/verified_programming_dafny) - [Verified Programming in Dafny](https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf)
 * [2024-10-20, 18:34:01](https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021) - [Responsive TOC leader lines with CSS (2021)](https://markentier.tech/posts/2021/03/responsive-toc-leader-lines-with-css/)
-* [2024-10-20, 18:06:55](https://lobste.rs/s/j6phbr/good_first_issues_contributing_racket) - [Good first issues & contributing to Racket](https://racket.discourse.group/t/good-first-issues-contributing-to-racket/3243)
 * [2024-10-20, 17:59:45](https://lobste.rs/s/ywssdr/part_postgresql_we_hate_most_2023) - [The Part of PostgreSQL We Hate the Most (2023)](https://www.cs.cmu.edu/~pavlo/blog/2023/04/the-part-of-postgresql-we-hate-the-most.html)
 * [2024-10-20, 17:17:16](https://lobste.rs/s/b2re0s/raise_specification_language_method) - [The RAISE specification language, method, and tools](https://raisetools.github.io)
 * [2024-10-20, 17:10:20](https://lobste.rs/s/hcyxlh/yet_another_open_source_spotify_client) - [Yet another open source Spotify client, written in Go](https://github.com/devgianlu/go-librespot)

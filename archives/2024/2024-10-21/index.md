@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 10:24:49](https://lobste.rs/s/wjsy7m/dependent_types_haskell_part_4) - [Dependent Types in Haskell, Part 4](https://serokell.io/blog/serokell-s-work-on-ghc-dependent-types-part-4)
 * [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 * [2024-10-21, 08:10:37](https://lobste.rs/s/rnsxr8/implementing_attributes_for_plain_text) - [Implementing attributes for plain text using subranges like Emacs](https://akkartik.name/post/2024-10-20-devlog)
 * [2024-10-21, 07:54:26](https://lobste.rs/s/gu3cxm/naming_conventions_need_die) - [Naming Conventions That Need to Die](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
