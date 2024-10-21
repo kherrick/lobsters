@@ -4,6 +4,7 @@
 * [2024-10-21, 16:53:13](https://lobste.rs/s/hnztcs/life_zed_extension_rust_wit_wasm) - [Life of a Zed Extension: Rust, WIT, Wasm](https://zed.dev/blog/zed-decoded-extensions)
 * [2024-10-21, 15:40:57](https://lobste.rs/s/lvlfy9/naming_things_2021) - [Naming things (2021)](https://wiki.dpk.io/naming-things.html)
 * [2024-10-21, 14:55:10](https://lobste.rs/s/pfjkpx/booting_sun_sparc_servers) - [Booting Sun SPARC Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
+* [2024-10-21, 14:52:58](https://lobste.rs/s/roozyy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/roozyy/what_are_you_doing_this_week)
 * [2024-10-21, 14:33:32](https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-21, 13:32:10](https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention) - [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-21, 13:12:12](https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with) - [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)
@@ -24,7 +25,6 @@
 * [2024-10-20, 15:25:39](https://lobste.rs/s/bzg0kq/how_do_you_deploy_10_seconds) - [How do you deploy in 10 seconds?](https://paravoce.bearblog.dev/how-do-you-deploy-in-10-seconds/)
 * [2024-10-20, 12:52:43](https://lobste.rs/s/rojoz1/jujutsu_jj_git_compatible_vcs) - [Jujutsu (jj), a git compatible VCS](https://tonyfinn.com/blog/jj/)
 * [2024-10-20, 12:34:37](https://lobste.rs/s/31eacf/bitwarden_version_2024_10_0_is_no_longer) - [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
-* [2024-10-20, 06:40:59](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one) - [Which kernel is the most readable one?](https://lobste.rs/s/to1rtr/which_kernel_is_most_readable_one)
 
 ## [Archives](archives/index.md)
 
