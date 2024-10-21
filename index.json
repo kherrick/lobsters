@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-21, 08:10:37",
+      "https://lobste.rs/s/rnsxr8/implementing_attributes_for_plain_text"
+    ],
+    [
+      "Implementing attributes for plain text using subranges like Emacs",
+      "https://akkartik.name/post/2024-10-20-devlog"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 07:54:26",
       "https://lobste.rs/s/gu3cxm/naming_conventions_need_die"
     ],
@@ -227,16 +237,6 @@
     [
       "Blocking code is a leaky abstraction",
       "https://notgull.net/blocking-leaky/"
-    ]
-  ],
-  [
-    [
-      "2024-10-19, 21:59:18",
-      "https://lobste.rs/s/zghcja/phucking_with_phishers"
-    ],
-    [
-      "Phucking with Phishers",
-      "https://obrhubr.org/phucking-with-phishers"
     ]
   ],
   [
