@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 * [2024-10-21, 08:10:37](https://lobste.rs/s/rnsxr8/implementing_attributes_for_plain_text) - [Implementing attributes for plain text using subranges like Emacs](https://akkartik.name/post/2024-10-20-devlog)
 * [2024-10-21, 07:54:26](https://lobste.rs/s/gu3cxm/naming_conventions_need_die) - [Naming Conventions That Need to Die](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
 * [2024-10-21, 05:42:04](https://lobste.rs/s/sucybq/copyleft_context_genai) - [\"Copyleft\" in the context of GenAI](https://mhatta.substack.com/p/copyleft-in-the-context-of-genai)
@@ -9,7 +10,6 @@
 * [2024-10-21, 01:58:03](https://lobste.rs/s/i6khvj/introduction_zig) - [Introduction to Zig](https://pedropark99.github.io/zig-book/)
 * [2024-10-21, 01:05:10](https://lobste.rs/s/jlqg6q/memory_safety_without_lifetime) - [Memory Safety without Lifetime Parameters](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3444r0.html)
 * [2024-10-20, 22:47:08](https://lobste.rs/s/hktedj/mac_programming_for_dummies_1999) - [Mac Programming for Dummies (1999)](https://devnonsense.com/posts/mac-programming-for-dummies/)
-* [2024-10-20, 21:36:28](https://lobste.rs/s/kw96la/implementing_regular_expressions) - [Implementing Regular Expressions in TypeScript Types (Badly)](https://skalt.github.io/projects/brzozowski_ts/)
 * [2024-10-20, 21:23:04](https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript) - [Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 21:14:08](https://lobste.rs/s/ms9sa8/verified_programming_dafny) - [Verified Programming in Dafny](https://www.doc.ic.ac.uk/~scd/Dafny_Material/Lectures.pdf)
 * [2024-10-20, 18:34:01](https://lobste.rs/s/bbhl1b/responsive_toc_leader_lines_with_css_2021) - [Responsive TOC leader lines with CSS (2021)](https://markentier.tech/posts/2021/03/responsive-toc-leader-lines-with-css/)
