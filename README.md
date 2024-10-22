@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 13:35:38](https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation) - [devenv is switching Nix implementation to Tvix](https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/)
 * [2024-10-22, 13:27:02](https://lobste.rs/s/ineb98/ghostty_1_0_is_coming) - [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [2024-10-22, 12:35:15](https://lobste.rs/s/esmju4/against_tmp) - [Against /tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 10:29:00](https://lobste.rs/s/4izc1q/experiment_fighting_spam_on_public_forms) - [An experiment in fighting spam on public forms using “proof of work”](https://blog.ovalerio.net/archives/2996/)
@@ -24,7 +25,6 @@
 * [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 * [2024-10-21, 07:54:26](https://lobste.rs/s/gu3cxm/naming_conventions_need_die_2018) - [Naming Conventions That Need to Die (2018)](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
 * [2024-10-21, 01:58:03](https://lobste.rs/s/i6khvj/introduction_zig) - [Introduction to Zig](https://pedropark99.github.io/zig-book/)
-* [2024-10-20, 12:34:37](https://lobste.rs/s/31eacf/bitwarden_version_2024_10_0_is_no_longer) - [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
 
 ## [Archives](archives/index.md)
 
