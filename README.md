@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 08:11:05](https://lobste.rs/s/acaytx/lose_your_device_keep_your_keys) - [Lose your device, but keep your keys](https://www.iroh.computer/blog/frost-threshold-signatures)
 * [2024-10-22, 07:51:21](https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid) - [An opinionated beginner's guide to Haskell in mid-2019 (2019)](https://typesanitizer.com/blog/haskell-opinions-2019.html)
 * [2024-10-22, 02:53:50](https://lobste.rs/s/oipw4r/wired_s_attack_on_privacy_simplex_chat) - [Wired’s Attack on (“Privacy”|[SimpleX Chat])](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
 * [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 * [2024-10-21, 22:30:48](https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows) - [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
-* [2024-10-21, 21:33:43](https://lobste.rs/s/f7bham/init_py_files_are_optional_here_s_why_you) - [__init__.py files are optional. Here’s why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
 * [2024-10-21, 20:43:46](https://lobste.rs/s/jf0ww0/1_1_2_2006) - [1+1=2 (2006)](https://blog.plover.com/math/PM.html)
 * [2024-10-21, 20:03:33](https://lobste.rs/s/tmewjc/hide_another_detail) - [Hide another detail](https://lmno.lol/alvaro/hide-another-detail)
 * [2024-10-21, 17:53:30](https://lobste.rs/s/op9c7k/2_136279841_1_is_new_largest_known_prime) - [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
