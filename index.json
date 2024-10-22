@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-22, 16:24:17",
+      "https://lobste.rs/s/9ifdha/representing_knowledge_querying_data"
+    ],
+    [
+      "Representing Knowledge and Querying Data using Double-Functorial Semantics",
+      "https://arxiv.org/abs/2403.19884"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 16:11:05",
+      "https://lobste.rs/s/2akeqo/multiset_rewriting_recipe_book"
+    ],
+    [
+      "Multiset Rewriting Recipe Book",
+      "https://codeberg.org/CapitalEx/recipe-book"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 15:41:47",
       "https://lobste.rs/s/re6fv9/reflections_on_trusting_trust"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-10-22, 08:11:05",
-      "https://lobste.rs/s/acaytx/lose_your_device_keep_your_keys"
-    ],
-    [
-      "Lose your device, but keep your keys",
-      "https://www.iroh.computer/blog/frost-threshold-signatures"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 07:51:21",
       "https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid"
     ],
@@ -217,16 +227,6 @@
     [
       "Jujutsu in practice",
       "https://arne.me/blog/jj-in-practice"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 10:51:45",
-      "https://lobste.rs/s/xqz5mr/there_is_no_such_thing_as_global_method"
-    ],
-    [
-      "There is no such thing as a global method (in Ruby)",
-      "https://zverok.space/blog/2024-10-21-global_functions.html"
     ]
   ],
   [
