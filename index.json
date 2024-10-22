@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-22, 07:51:21",
+      "https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid"
+    ],
+    [
+      "An opinionated beginner's guide to Haskell in mid-2019 (2019)",
+      "https://typesanitizer.com/blog/haskell-opinions-2019.html"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 02:53:50",
       "https://lobste.rs/s/oipw4r/wired_s_attack_on_privacy_simplex_chat"
     ],
@@ -227,16 +237,6 @@
     [
       "PID 1 Bash script for Docker containers explained line by line",
       "https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 12:52:43",
-      "https://lobste.rs/s/rojoz1/jujutsu_jj_git_compatible_vcs"
-    ],
-    [
-      "Jujutsu (jj), a git compatible VCS",
-      "https://tonyfinn.com/blog/jj/"
     ]
   ],
   [
