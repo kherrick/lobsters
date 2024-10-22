@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-22, 00:27:06",
+      "https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide"
+    ],
+    [
+      "How to secure your new VPS: a step-by-step guide",
+      "https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 23:14:18",
+      "https://lobste.rs/s/nbx6tf/bm_freshly_baked_take_on_bm25"
+    ],
+    [
+      "BM𝒳: A Freshly Baked Take on BM25",
+      "https://www.mixedbread.ai/blog/intro-bmx"
+    ]
+  ],
+  [
+    [
       "2024-10-21, 22:30:48",
       "https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-10-21, 11:01:46",
-      "https://lobste.rs/s/eerewn/guix_build_user_takeover_vulnerability"
-    ],
-    [
-      "Guix Build User Takeover Vulnerability",
-      "https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability//"
-    ]
-  ],
-  [
-    [
       "2024-10-21, 10:51:46",
       "https://lobste.rs/s/fbjowx/jujutsu_practice"
     ],
@@ -227,16 +237,6 @@
     [
       "PID 1 Bash script for Docker containers explained line by line",
       "https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-20, 12:52:43",
-      "https://lobste.rs/s/rojoz1/jujutsu_jj_git_compatible_vcs"
-    ],
-    [
-      "Jujutsu (jj), a git compatible VCS",
-      "https://tonyfinn.com/blog/jj/"
     ]
   ],
   [
