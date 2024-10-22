@@ -4,6 +4,7 @@
 * [2024-10-22, 10:29:00](https://lobste.rs/s/4izc1q/experiment_fighting_spam_on_public_forms) - [An experiment in fighting spam on public forms using “proof of work”](https://blog.ovalerio.net/archives/2996/)
 * [2024-10-22, 10:12:10](https://lobste.rs/s/rjbozd/use_data_looks_like_data) - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 * [2024-10-22, 10:02:36](https://lobste.rs/s/fafab7/mqtt_turns_25_here_s_how_it_has_endured) - [MQTT turns 25 – here’s how it has endured](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
+* [2024-10-22, 09:51:34](https://lobste.rs/s/evjohn/modular_borrowing_without_ownership) - [Modular Borrowing Without Ownership or Linear Types](https://2024.splashcon.org/details/iwaco-2024-papers/5/Modular-Borrowing-Without-Ownership-or-Linear-Types)
 * [2024-10-22, 09:27:29](https://lobste.rs/s/hvknmc/taming_buck_with_type_iii_compensator) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
 * [2024-10-22, 08:11:05](https://lobste.rs/s/acaytx/lose_your_device_keep_your_keys) - [Lose your device, but keep your keys](https://www.iroh.computer/blog/frost-threshold-signatures)
 * [2024-10-22, 07:51:21](https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid) - [An opinionated beginner's guide to Haskell in mid-2019 (2019)](https://typesanitizer.com/blog/haskell-opinions-2019.html)
@@ -23,7 +24,6 @@
 * [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 * [2024-10-21, 07:54:26](https://lobste.rs/s/gu3cxm/naming_conventions_need_die_2018) - [Naming Conventions That Need to Die (2018)](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
 * [2024-10-21, 01:58:03](https://lobste.rs/s/i6khvj/introduction_zig) - [Introduction to Zig](https://pedropark99.github.io/zig-book/)
-* [2024-10-20, 16:47:09](https://lobste.rs/s/ifbhcb/pid_1_bash_script_for_docker_containers) - [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
 * [2024-10-20, 12:34:37](https://lobste.rs/s/31eacf/bitwarden_version_2024_10_0_is_no_longer) - [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
 
 ## [Archives](archives/index.md)
