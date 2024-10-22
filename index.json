@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-22, 21:55:22",
+      "https://lobste.rs/s/v0bwa0/bazelcon_2024_recap"
+    ],
+    [
+      "BazelCon 2024 recap",
+      "https://blogsystem5.substack.com/p/bazelcon-2024-recap"
+    ]
+  ],
+  [
+    [
+      "2024-10-22, 21:16:08",
+      "https://lobste.rs/s/r5jukx/deep_look_into_our_new_massive"
+    ],
+    [
+      "A deep look into our new massive multitenant architecture",
+      "https://turso.tech/blog/a-deep-look-into-our-new-massive-multitenant-architecture"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 20:32:06",
       "https://lobste.rs/s/ffgrgo/report_from_2024_image_based_linux_summit"
     ],
@@ -57,16 +77,6 @@
     [
       "Debug Go core dumps with delve: export byte slices",
       "https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 15:16:33",
-      "https://lobste.rs/s/k5jcqy/uk_cma_issues_statement_for"
-    ],
-    [
-      "UK CMA Issues statement for investigation into Apple on Mobile browsers and cloud gaming market",
-      "https://assets.publishing.service.gov.uk/media/63984ce2d3bf7f3f7e762453/Issues_statement_.pdf"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "(2^136279841)-1 is the New Largest Known Prime Number",
       "https://www.mersenne.org"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 14:33:32",
-      "https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts"
-    ],
-    [
-      "Everything I built with Claude Artifacts this week",
-      "https://simonwillison.net/2024/Oct/21/claude-artifacts/"
     ]
   ],
   [
