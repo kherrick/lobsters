@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 14:53:15](https://lobste.rs/s/ze0hha/crime_messenger_how_sky_ecc_phones_became) - [The Crime Messenger: How Sky ECC Phones Became a Tool of the Criminal Trade](https://www.occrp.org/en/project/the-crime-messenger)
 * [2024-10-22, 14:42:52](https://lobste.rs/s/f5rnq8/mime_types_atom_bombs) - [MIME types and atom bombs](https://evanhahn.com/mime-types-and-atom-bombs/)
 * [2024-10-22, 14:08:09](https://lobste.rs/s/t0ange/announcing_determinate_nix) - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/)
 * [2024-10-22, 13:35:38](https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation) - [devenv is switching Nix implementation to Tvix](https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/)
@@ -16,7 +17,6 @@
 * [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 * [2024-10-21, 22:30:48](https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows) - [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
 * [2024-10-21, 17:53:30](https://lobste.rs/s/op9c7k/2_136279841_1_is_new_largest_known_prime) - [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
-* [2024-10-21, 16:53:13](https://lobste.rs/s/hnztcs/life_zed_extension_rust_wit_wasm) - [Life of a Zed Extension: Rust, WIT, Wasm](https://zed.dev/blog/zed-decoded-extensions)
 * [2024-10-21, 16:07:34](https://lobste.rs/s/yh6xdv/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://tauri.app/blog/tauri-20/)
 * [2024-10-21, 15:40:57](https://lobste.rs/s/lvlfy9/naming_things_2021) - [Naming things (2021)](https://wiki.dpk.io/naming-things.html)
 * [2024-10-21, 14:33:32](https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
