@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-22, 14:42:52",
+      "https://lobste.rs/s/f5rnq8/mime_types_atom_bombs"
+    ],
+    [
+      "MIME types and atom bombs",
+      "https://evanhahn.com/mime-types-and-atom-bombs/"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 14:08:09",
       "https://lobste.rs/s/t0ange/announcing_determinate_nix"
     ],
@@ -187,16 +197,6 @@
     [
       "Everything I built with Claude Artifacts this week",
       "https://simonwillison.net/2024/Oct/21/claude-artifacts/"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 13:32:10",
-      "https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention"
-    ],
-    [
-      "You Should Probably Still Pay Attention to Tokenizers",
-      "https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/"
     ]
   ],
   [
