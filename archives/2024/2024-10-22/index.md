@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 09:27:29](https://lobste.rs/s/hvknmc/taming_buck_with_type_iii_compensator) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
 * [2024-10-22, 08:11:05](https://lobste.rs/s/acaytx/lose_your_device_keep_your_keys) - [Lose your device, but keep your keys](https://www.iroh.computer/blog/frost-threshold-signatures)
 * [2024-10-22, 07:51:21](https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid) - [An opinionated beginner's guide to Haskell in mid-2019 (2019)](https://typesanitizer.com/blog/haskell-opinions-2019.html)
 * [2024-10-22, 02:53:50](https://lobste.rs/s/oipw4r/wired_s_attack_on_privacy_simplex_chat) - [Wired’s Attack on (“Privacy”|[SimpleX Chat])](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)

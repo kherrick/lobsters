@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 09:27:29](https://lobste.rs/s/hvknmc/taming_buck_with_type_iii_compensator) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
 * [2024-10-22, 08:11:05](https://lobste.rs/s/acaytx/lose_your_device_keep_your_keys) - [Lose your device, but keep your keys](https://www.iroh.computer/blog/frost-threshold-signatures)
 * [2024-10-22, 07:51:21](https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid) - [An opinionated beginner's guide to Haskell in mid-2019 (2019)](https://typesanitizer.com/blog/haskell-opinions-2019.html)
 * [2024-10-22, 02:53:50](https://lobste.rs/s/oipw4r/wired_s_attack_on_privacy_simplex_chat) - [Wired’s Attack on (“Privacy”|[SimpleX Chat])](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
@@ -15,7 +16,6 @@
 * [2024-10-21, 14:52:58](https://lobste.rs/s/roozyy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/roozyy/what_are_you_doing_this_week)
 * [2024-10-21, 14:33:32](https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-21, 13:32:10](https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention) - [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
-* [2024-10-21, 13:12:12](https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with) - [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)
 * [2024-10-21, 10:51:46](https://lobste.rs/s/fbjowx/jujutsu_practice) - [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
 * [2024-10-21, 10:51:45](https://lobste.rs/s/xqz5mr/there_is_no_such_thing_as_global_method) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
