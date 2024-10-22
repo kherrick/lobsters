@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 15:28:50](https://lobste.rs/s/tdfe0e/debug_go_core_dumps_with_delve_export_byte) - [Debug Go core dumps with delve: export byte slices](https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/)
 * [2024-10-22, 15:16:33](https://lobste.rs/s/k5jcqy/uk_cma_issues_statement_for) - [UK CMA Issues statement for investigation into Apple on Mobile browsers and cloud gaming market](https://assets.publishing.service.gov.uk/media/63984ce2d3bf7f3f7e762453/Issues_statement_.pdf)
 * [2024-10-22, 14:53:15](https://lobste.rs/s/ze0hha/crime_messenger_how_sky_ecc_phones_became) - [The Crime Messenger: How Sky ECC Phones Became a Tool of the Criminal Trade](https://www.occrp.org/en/project/the-crime-messenger)
 * [2024-10-22, 14:42:52](https://lobste.rs/s/f5rnq8/mime_types_atom_bombs) - [MIME types and atom bombs](https://evanhahn.com/mime-types-and-atom-bombs/)
@@ -12,7 +13,6 @@
 * [2024-10-22, 10:02:36](https://lobste.rs/s/fafab7/mqtt_turns_25_here_s_how_it_has_endured) - [MQTT turns 25 – here’s how it has endured](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
 * [2024-10-22, 09:51:34](https://lobste.rs/s/evjohn/modular_borrowing_without_ownership) - [Modular Borrowing Without Ownership or Linear Types](https://2024.splashcon.org/details/iwaco-2024-papers/5/Modular-Borrowing-Without-Ownership-or-Linear-Types)
 * [2024-10-22, 09:27:29](https://lobste.rs/s/hvknmc/taming_buck_with_type_iii_compensator) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
-* [2024-10-22, 08:11:05](https://lobste.rs/s/acaytx/lose_your_device_keep_your_keys) - [Lose your device, but keep your keys](https://www.iroh.computer/blog/frost-threshold-signatures)
 * [2024-10-22, 07:51:21](https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid) - [An opinionated beginner's guide to Haskell in mid-2019 (2019)](https://typesanitizer.com/blog/haskell-opinions-2019.html)
 * [2024-10-22, 02:53:50](https://lobste.rs/s/oipw4r/wired_s_attack_on_privacy_simplex_chat) - [Wired’s Attack on (“Privacy”|[SimpleX Chat])](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
 * [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
