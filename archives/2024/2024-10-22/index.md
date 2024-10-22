@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 20:32:06](https://lobste.rs/s/ffgrgo/report_from_2024_image_based_linux_summit) - [A report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 18:34:56](https://lobste.rs/s/0w56pv/tla_from_first_principles) - [TLA from first principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
 * [2024-10-22, 16:58:04](https://lobste.rs/s/heamau/svelte_5_is_alive) - [Svelte 5 is alive](https://svelte.dev/blog/svelte-5-is-alive)
