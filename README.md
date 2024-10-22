@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
+* [2024-10-21, 23:14:18](https://lobste.rs/s/nbx6tf/bm_freshly_baked_take_on_bm25) - [BM𝒳: A Freshly Baked Take on BM25](https://www.mixedbread.ai/blog/intro-bmx)
 * [2024-10-21, 22:30:48](https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows) - [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
 * [2024-10-21, 21:33:43](https://lobste.rs/s/f7bham/init_py_files_are_optional_here_s_why_you) - [__init__.py files are optional. Here’s why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
 * [2024-10-21, 20:43:46](https://lobste.rs/s/jf0ww0/1_1_2_2006) - [1+1=2 (2006)](https://blog.plover.com/math/PM.html)
@@ -13,7 +15,6 @@
 * [2024-10-21, 14:33:32](https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-21, 13:32:10](https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention) - [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-21, 13:12:12](https://lobste.rs/s/dijbf0/phonebook_manage_dns_records_with) - [phonebook: Manage DNS Records with Kubernetes](https://github.com/pier-oliviert/phonebook)
-* [2024-10-21, 11:01:46](https://lobste.rs/s/eerewn/guix_build_user_takeover_vulnerability) - [Guix Build User Takeover Vulnerability](https://guix.gnu.org/blog/2024/build-user-takeover-vulnerability//)
 * [2024-10-21, 10:51:46](https://lobste.rs/s/fbjowx/jujutsu_practice) - [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
 * [2024-10-21, 10:51:45](https://lobste.rs/s/xqz5mr/there_is_no_such_thing_as_global_method) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
@@ -23,7 +24,6 @@
 * [2024-10-20, 22:47:08](https://lobste.rs/s/hktedj/mac_programming_for_dummies_1999) - [Mac Programming for Dummies (1999)](https://devnonsense.com/posts/mac-programming-for-dummies/)
 * [2024-10-20, 21:23:04](https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript) - [Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 16:47:09](https://lobste.rs/s/ifbhcb/pid_1_bash_script_for_docker_containers) - [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
-* [2024-10-20, 12:52:43](https://lobste.rs/s/rojoz1/jujutsu_jj_git_compatible_vcs) - [Jujutsu (jj), a git compatible VCS](https://tonyfinn.com/blog/jj/)
 * [2024-10-20, 12:34:37](https://lobste.rs/s/31eacf/bitwarden_version_2024_10_0_is_no_longer) - [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
 
 ## [Archives](archives/index.md)

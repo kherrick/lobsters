@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-21](index.md)
 
+* [2024-10-21, 23:14:18](https://lobste.rs/s/nbx6tf/bm_freshly_baked_take_on_bm25) - [BM𝒳: A Freshly Baked Take on BM25](https://www.mixedbread.ai/blog/intro-bmx)
 * [2024-10-21, 22:30:48](https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows) - [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
 * [2024-10-21, 21:33:43](https://lobste.rs/s/f7bham/init_py_files_are_optional_here_s_why_you) - [__init__.py files are optional. Here’s why you should still use them](https://dev.arie.bovenberg.net/blog/still-use-init-py/)
 * [2024-10-21, 20:43:46](https://lobste.rs/s/jf0ww0/1_1_2_2006) - [1+1=2 (2006)](https://blog.plover.com/math/PM.html)
