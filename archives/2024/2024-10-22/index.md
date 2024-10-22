@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 16:24:17](https://lobste.rs/s/9ifdha/representing_knowledge_querying_data) - [Representing Knowledge and Querying Data using Double-Functorial Semantics](https://arxiv.org/abs/2403.19884)
 * [2024-10-22, 15:41:47](https://lobste.rs/s/re6fv9/reflections_on_trusting_trust) - [‘Reflections on Trusting Trust’, but completely by accident this time](https://secret.club/2024/10/21/unnecessarily-exhaustice-rca.html)
 * [2024-10-22, 15:28:50](https://lobste.rs/s/tdfe0e/debug_go_core_dumps_with_delve_export_byte) - [Debug Go core dumps with delve: export byte slices](https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/)
 * [2024-10-22, 15:16:33](https://lobste.rs/s/k5jcqy/uk_cma_issues_statement_for) - [UK CMA Issues statement for investigation into Apple on Mobile browsers and cloud gaming market](https://assets.publishing.service.gov.uk/media/63984ce2d3bf7f3f7e762453/Issues_statement_.pdf)
