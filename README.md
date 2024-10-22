@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 07:51:21](https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid) - [An opinionated beginner's guide to Haskell in mid-2019 (2019)](https://typesanitizer.com/blog/haskell-opinions-2019.html)
 * [2024-10-22, 02:53:50](https://lobste.rs/s/oipw4r/wired_s_attack_on_privacy_simplex_chat) - [Wired’s Attack on (“Privacy”|[SimpleX Chat])](https://simplex.chat/blog/20241016-wired-attack-on-privacy.html)
 * [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 * [2024-10-21, 22:30:48](https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows) - [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
@@ -23,7 +24,6 @@
 * [2024-10-21, 01:58:03](https://lobste.rs/s/i6khvj/introduction_zig) - [Introduction to Zig](https://pedropark99.github.io/zig-book/)
 * [2024-10-20, 21:23:04](https://lobste.rs/s/ytjc8x/why_i_m_skeptical_rewriting_javascript) - [Why I’m skeptical of rewriting JavaScript tools in \"faster\" languages](https://nolanlawson.com/2024/10/20/why-im-skeptical-of-rewriting-javascript-tools-in-faster-languages/)
 * [2024-10-20, 16:47:09](https://lobste.rs/s/ifbhcb/pid_1_bash_script_for_docker_containers) - [PID 1 Bash script for Docker containers explained line by line](https://sirikon.me/posts/0009-pid-1-bash-script-docker-container.html)
-* [2024-10-20, 12:52:43](https://lobste.rs/s/rojoz1/jujutsu_jj_git_compatible_vcs) - [Jujutsu (jj), a git compatible VCS](https://tonyfinn.com/blog/jj/)
 * [2024-10-20, 12:34:37](https://lobste.rs/s/31eacf/bitwarden_version_2024_10_0_is_no_longer) - [Bitwarden version 2024.10.0 is no longer free software](https://github.com/bitwarden/clients/issues/11611)
 
 ## [Archives](archives/index.md)
