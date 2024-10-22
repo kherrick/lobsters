@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
+* [2024-10-22, 15:16:33](https://lobste.rs/s/k5jcqy/uk_cma_issues_statement_for) - [UK CMA Issues statement for investigation into Apple on Mobile browsers and cloud gaming market](https://assets.publishing.service.gov.uk/media/63984ce2d3bf7f3f7e762453/Issues_statement_.pdf)
 * [2024-10-22, 14:53:15](https://lobste.rs/s/ze0hha/crime_messenger_how_sky_ecc_phones_became) - [The Crime Messenger: How Sky ECC Phones Became a Tool of the Criminal Trade](https://www.occrp.org/en/project/the-crime-messenger)
 * [2024-10-22, 14:42:52](https://lobste.rs/s/f5rnq8/mime_types_atom_bombs) - [MIME types and atom bombs](https://evanhahn.com/mime-types-and-atom-bombs/)
 * [2024-10-22, 14:08:09](https://lobste.rs/s/t0ange/announcing_determinate_nix) - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/)

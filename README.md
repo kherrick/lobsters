@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 15:16:33](https://lobste.rs/s/k5jcqy/uk_cma_issues_statement_for) - [UK CMA Issues statement for investigation into Apple on Mobile browsers and cloud gaming market](https://assets.publishing.service.gov.uk/media/63984ce2d3bf7f3f7e762453/Issues_statement_.pdf)
 * [2024-10-22, 14:53:15](https://lobste.rs/s/ze0hha/crime_messenger_how_sky_ecc_phones_became) - [The Crime Messenger: How Sky ECC Phones Became a Tool of the Criminal Trade](https://www.occrp.org/en/project/the-crime-messenger)
 * [2024-10-22, 14:42:52](https://lobste.rs/s/f5rnq8/mime_types_atom_bombs) - [MIME types and atom bombs](https://evanhahn.com/mime-types-and-atom-bombs/)
 * [2024-10-22, 14:08:09](https://lobste.rs/s/t0ange/announcing_determinate_nix) - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/)
@@ -24,7 +25,6 @@
 * [2024-10-21, 10:51:45](https://lobste.rs/s/xqz5mr/there_is_no_such_thing_as_global_method) - [There is no such thing as a global method (in Ruby)](https://zverok.space/blog/2024-10-21-global_functions.html)
 * [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 * [2024-10-21, 07:54:26](https://lobste.rs/s/gu3cxm/naming_conventions_need_die_2018) - [Naming Conventions That Need to Die (2018)](https://willcrichton.net/notes/naming-conventions-that-need-to-die/)
-* [2024-10-21, 01:58:03](https://lobste.rs/s/i6khvj/introduction_zig) - [Introduction to Zig](https://pedropark99.github.io/zig-book/)
 
 ## [Archives](archives/index.md)
 
