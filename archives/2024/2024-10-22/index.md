@@ -6,6 +6,7 @@
 
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 18:34:56](https://lobste.rs/s/0w56pv/tla_from_first_principles) - [TLA from first principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
+* [2024-10-22, 16:58:04](https://lobste.rs/s/heamau/svelte_5_is_alive) - [Svelte 5 is alive](https://svelte.dev/blog/svelte-5-is-alive)
 * [2024-10-22, 16:24:17](https://lobste.rs/s/9ifdha/representing_knowledge_querying_data) - [Representing Knowledge and Querying Data using Double-Functorial Semantics](https://arxiv.org/abs/2403.19884)
 * [2024-10-22, 16:11:05](https://lobste.rs/s/2akeqo/multiset_rewriting_recipe_book) - [Multiset Rewriting Recipe Book](https://codeberg.org/CapitalEx/recipe-book)
 * [2024-10-22, 15:41:47](https://lobste.rs/s/re6fv9/reflections_on_trusting_trust) - [‘Reflections on Trusting Trust’, but completely by accident this time](https://secret.club/2024/10/21/unnecessarily-exhaustice-rca.html)
