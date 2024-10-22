@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-22, 14:08:09",
+      "https://lobste.rs/s/t0ange/announcing_determinate_nix"
+    ],
+    [
+      "Announcing Determinate Nix",
+      "https://determinate.systems/posts/announcing-determinate-nix/"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 13:35:38",
       "https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation"
     ],
@@ -127,16 +137,6 @@
     [
       "Microsoft maintains its own Windows debloat scripts on GitHub",
       "https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 20:43:46",
-      "https://lobste.rs/s/jf0ww0/1_1_2_2006"
-    ],
-    [
-      "1+1=2 (2006)",
-      "https://blog.plover.com/math/PM.html"
     ]
   ],
   [
