@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 13:27:02](https://lobste.rs/s/ineb98/ghostty_1_0_is_coming) - [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [2024-10-22, 12:35:15](https://lobste.rs/s/esmju4/against_tmp) - [Against /tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 10:29:00](https://lobste.rs/s/4izc1q/experiment_fighting_spam_on_public_forms) - [An experiment in fighting spam on public forms using “proof of work”](https://blog.ovalerio.net/archives/2996/)
 * [2024-10-22, 10:12:10](https://lobste.rs/s/rjbozd/use_data_looks_like_data) - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
@@ -12,7 +13,6 @@
 * [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 * [2024-10-21, 22:30:48](https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows) - [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
 * [2024-10-21, 20:43:46](https://lobste.rs/s/jf0ww0/1_1_2_2006) - [1+1=2 (2006)](https://blog.plover.com/math/PM.html)
-* [2024-10-21, 20:03:33](https://lobste.rs/s/tmewjc/hide_another_detail) - [Hide another detail](https://lmno.lol/alvaro/hide-another-detail)
 * [2024-10-21, 17:53:30](https://lobste.rs/s/op9c7k/2_136279841_1_is_new_largest_known_prime) - [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
 * [2024-10-21, 16:53:13](https://lobste.rs/s/hnztcs/life_zed_extension_rust_wit_wasm) - [Life of a Zed Extension: Rust, WIT, Wasm](https://zed.dev/blog/zed-decoded-extensions)
 * [2024-10-21, 16:07:34](https://lobste.rs/s/yh6xdv/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://tauri.app/blog/tauri-20/)
