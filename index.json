@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-22, 19:28:59",
+      "https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl"
+    ],
+    [
+      "Rustls Outperforms OpenSSL and BoringSSL",
+      "https://www.memorysafety.org/blog/rustls-performance-outperforms/"
+    ]
+  ],
+  [
+    [
       "2024-10-22, 18:34:56",
       "https://lobste.rs/s/0w56pv/tla_from_first_principles"
     ],
@@ -47,16 +57,6 @@
     [
       "Debug Go core dumps with delve: export byte slices",
       "https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 15:16:33",
-      "https://lobste.rs/s/k5jcqy/uk_cma_issues_statement_for"
-    ],
-    [
-      "UK CMA Issues statement for investigation into Apple on Mobile browsers and cloud gaming market",
-      "https://assets.publishing.service.gov.uk/media/63984ce2d3bf7f3f7e762453/Issues_statement_.pdf"
     ]
   ],
   [
