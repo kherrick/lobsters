@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-22, 09:54:38](https://lobste.rs/s/22yenu/risky_business) - [Risky Business](https://alexgaynor.net/2024/oct/21/risky-business/)
+* [2024-10-22, 09:51:34](https://lobste.rs/s/evjohn/modular_borrowing_without_ownership) - [Modular Borrowing Without Ownership or Linear Types](https://2024.splashcon.org/details/iwaco-2024-papers/5/Modular-Borrowing-Without-Ownership-or-Linear-Types)
 * [2024-10-22, 09:27:29](https://lobste.rs/s/hvknmc/taming_buck_with_type_iii_compensator) - [Taming the buck with a Type III compensator](https://tomscii.sig7.se/2024/10/Taming-the-buck-with-a-Type-III-compensator)
 * [2024-10-22, 08:11:05](https://lobste.rs/s/acaytx/lose_your_device_keep_your_keys) - [Lose your device, but keep your keys](https://www.iroh.computer/blog/frost-threshold-signatures)
 * [2024-10-22, 07:51:21](https://lobste.rs/s/xsbqzi/opinionated_beginner_s_guide_haskell_mid) - [An opinionated beginner's guide to Haskell in mid-2019 (2019)](https://typesanitizer.com/blog/haskell-opinions-2019.html)
@@ -12,8 +14,6 @@
 * [2024-10-21, 16:53:13](https://lobste.rs/s/hnztcs/life_zed_extension_rust_wit_wasm) - [Life of a Zed Extension: Rust, WIT, Wasm](https://zed.dev/blog/zed-decoded-extensions)
 * [2024-10-21, 16:07:34](https://lobste.rs/s/yh6xdv/tauri_2_0_stable_release) - [Tauri 2.0 Stable Release](https://tauri.app/blog/tauri-20/)
 * [2024-10-21, 15:40:57](https://lobste.rs/s/lvlfy9/naming_things_2021) - [Naming things (2021)](https://wiki.dpk.io/naming-things.html)
-* [2024-10-21, 14:55:10](https://lobste.rs/s/pfjkpx/booting_sun_sparc_servers) - [Booting Sun SPARC Servers](https://sidneys1.com/retrocomputing/2024/10/04/booting-sun-sparc-servers.html)
-* [2024-10-21, 14:52:58](https://lobste.rs/s/roozyy/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/roozyy/what_are_you_doing_this_week)
 * [2024-10-21, 14:33:32](https://lobste.rs/s/2zyokg/everything_i_built_with_claude_artifacts) - [Everything I built with Claude Artifacts this week](https://simonwillison.net/2024/Oct/21/claude-artifacts/)
 * [2024-10-21, 13:32:10](https://lobste.rs/s/wszlk1/you_should_probably_still_pay_attention) - [You Should Probably Still Pay Attention to Tokenizers](https://cybernetist.com/2024/10/21/you-should-probably-pay-attention-to-tokenizers/)
 * [2024-10-21, 10:51:46](https://lobste.rs/s/fbjowx/jujutsu_practice) - [Jujutsu in practice](https://arne.me/blog/jj-in-practice)
