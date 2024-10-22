@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-22](index.md)
 
 * [2024-10-22, 21:55:22](https://lobste.rs/s/v0bwa0/bazelcon_2024_recap) - [BazelCon 2024 recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
+* [2024-10-22, 21:48:45](https://lobste.rs/s/qi9e6a/relational_model_data_for_large_shared) - [A Relational Model of Data for Large Shared Data Banks (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 * [2024-10-22, 21:16:08](https://lobste.rs/s/r5jukx/deep_look_into_our_new_massive) - [A deep look into our new massive multitenant architecture](https://turso.tech/blog/a-deep-look-into-our-new-massive-multitenant-architecture)
 * [2024-10-22, 20:32:06](https://lobste.rs/s/ffgrgo/report_from_2024_image_based_linux_summit) - [A report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
