@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 05:27:52",
+      "https://lobste.rs/s/23nc0b/adding_row_polymorphism_damas_hindley"
+    ],
+    [
+      "Adding row polymorphism to Damas-Hindley-Milner",
+      "https://bernsteinbear.com/blog/row-poly/"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 05:03:50",
       "https://lobste.rs/s/psj1vj/progress_at_first_few_months_working_full"
     ],
@@ -37,16 +47,6 @@
     [
       "A Relational Model of Data for Large Shared Data Banks (1970)",
       "https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 21:16:08",
-      "https://lobste.rs/s/r5jukx/deep_look_into_our_new_massive"
-    ],
-    [
-      "A deep look into our new massive multitenant architecture",
-      "https://turso.tech/blog/a-deep-look-into-our-new-massive-multitenant-architecture"
     ]
   ],
   [
