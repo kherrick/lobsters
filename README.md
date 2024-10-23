@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
+* [2024-10-23, 17:35:06](https://lobste.rs/s/5cu6v2/why_do_arrays_start_at_0) - [Why do arrays start at 0?](https://www.linkedin.com/posts/hillel-wayne_why-do-arrays-start-at-0-its-not-like-activity-7254552694680367104-qAEV)
 * [2024-10-23, 17:27:01](https://lobste.rs/s/zbyh1o/implementing_brainfuck) - [Implementing Brainfuck](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
 * [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
 * [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
@@ -19,7 +20,6 @@
 * [2024-10-23, 05:03:50](https://lobste.rs/s/psj1vj/progress_at_first_few_months_working_full) - [Progress at the first few months working full time on Bevyengine](https://bevyengine.org/news/dream-job/)
 * [2024-10-22, 21:55:22](https://lobste.rs/s/v0bwa0/bazelcon_2024_recap) - [BazelCon 2024 recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
-* [2024-10-22, 18:34:56](https://lobste.rs/s/0w56pv/tla_from_first_principles) - [TLA from first principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
 * [2024-10-22, 14:08:09](https://lobste.rs/s/t0ange/announcing_determinate_nix) - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/)
 * [2024-10-22, 13:35:38](https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation) - [devenv is switching Nix implementation to Tvix](https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/)
 * [2024-10-22, 13:27:02](https://lobste.rs/s/ineb98/ghostty_1_0_is_coming) - [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
