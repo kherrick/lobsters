@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 13:30:49",
+      "https://lobste.rs/s/ywy4mn/new_powerful_json_data_type_for"
+    ],
+    [
+      "New powerful JSON data type for ClickHouse",
+      "https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 13:24:21",
       "https://lobste.rs/s/vsk5va/solving_mystery_arm7tdmi_multiply_carry"
     ],
@@ -107,16 +117,6 @@
     [
       "BazelCon 2024 recap",
       "https://blogsystem5.substack.com/p/bazelcon-2024-recap"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 21:48:45",
-      "https://lobste.rs/s/qi9e6a/relational_model_data_for_large_shared"
-    ],
-    [
-      "A Relational Model of Data for Large Shared Data Banks (1970)",
-      "https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf"
     ]
   ],
   [
