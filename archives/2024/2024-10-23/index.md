@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 17:27:01](https://lobste.rs/s/zbyh1o/mplementing_brainfuck) - [mplementing Brainfuck](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
 * [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
 * [2024-10-23, 16:36:15](https://lobste.rs/s/5l1rql/halloween_problem_databases) - [The Halloween Problem in Databases](https://en.wikipedia.org/wiki/Halloween_Problem)
 * [2024-10-23, 16:10:05](https://lobste.rs/s/hgl0ax/global_surveillance_free_for_all_mobile) - [The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)

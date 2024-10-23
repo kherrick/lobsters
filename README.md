@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-23, 17:27:01](https://lobste.rs/s/zbyh1o/mplementing_brainfuck) - [mplementing Brainfuck](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
 * [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
 * [2024-10-23, 16:36:15](https://lobste.rs/s/5l1rql/halloween_problem_databases) - [The Halloween Problem in Databases](https://en.wikipedia.org/wiki/Halloween_Problem)
 * [2024-10-23, 16:10:05](https://lobste.rs/s/hgl0ax/global_surveillance_free_for_all_mobile) - [The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
-* [2024-10-23, 15:29:42](https://lobste.rs/s/hkkepv/breaking_bad_how_compilers_break) - [Breaking Bad: How Compilers Break Constant-Time Implementations](https://arxiv.org/abs/2410.13489)
 * [2024-10-23, 14:57:16](https://lobste.rs/s/9rvhdm/using_nix_fuzz_test_pdf_parser) - [Using Nix to Fuzz Test a PDF Parser](https://mtlynch.io/nix-fuzz-testing-1/)
 * [2024-10-23, 14:24:16](https://lobste.rs/s/8be3uq/async_rust_three_parts) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 * [2024-10-23, 13:30:49](https://lobste.rs/s/ywy4mn/new_powerful_json_data_type_for) - [New powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
