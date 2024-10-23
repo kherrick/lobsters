@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
 * [2024-10-23, 16:36:15](https://lobste.rs/s/5l1rql/halloween_problem_databases) - [The Halloween Problem in Databases](https://en.wikipedia.org/wiki/Halloween_Problem)
 * [2024-10-23, 15:29:42](https://lobste.rs/s/hkkepv/breaking_bad_how_compilers_break) - [Breaking Bad: How Compilers Break Constant-Time Implementations](https://arxiv.org/abs/2410.13489)
 * [2024-10-23, 14:57:16](https://lobste.rs/s/9rvhdm/using_nix_fuzz_test_pdf_parser) - [Using Nix to Fuzz Test a PDF Parser](https://mtlynch.io/nix-fuzz-testing-1/)
@@ -17,7 +18,6 @@
 * [2024-10-22, 21:55:22](https://lobste.rs/s/v0bwa0/bazelcon_2024_recap) - [BazelCon 2024 recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 18:34:56](https://lobste.rs/s/0w56pv/tla_from_first_principles) - [TLA from first principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
-* [2024-10-22, 16:58:04](https://lobste.rs/s/heamau/svelte_5_is_alive) - [Svelte 5 is alive](https://svelte.dev/blog/svelte-5-is-alive)
 * [2024-10-22, 15:28:50](https://lobste.rs/s/tdfe0e/debug_go_core_dumps_with_delve_export_byte) - [Debug Go core dumps with delve: export byte slices](https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/)
 * [2024-10-22, 14:08:09](https://lobste.rs/s/t0ange/announcing_determinate_nix) - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/)
 * [2024-10-22, 13:35:38](https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation) - [devenv is switching Nix implementation to Tvix](https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/)
