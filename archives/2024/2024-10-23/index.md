@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 20:11:42](https://lobste.rs/s/0xdgzt/create_minimalist_ubuntu_based_disk) - [Create minimalist, Ubuntu based, disk images for the Nvidia jetson boards](https://github.com/pythops/jetson-image)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
