@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 20:11:42](https://lobste.rs/s/0xdgzt/create_minimalist_ubuntu_based_disk) - [Create minimalist, Ubuntu based, disk images for the Nvidia jetson boards](https://github.com/pythops/jetson-image)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 * [2024-10-23, 17:35:06](https://lobste.rs/s/5cu6v2/why_do_arrays_start_at_0) - [Why do arrays start at 0?](https://www.linkedin.com/posts/hillel-wayne_why-do-arrays-start-at-0-its-not-like-activity-7254552694680367104-qAEV)
 * [2024-10-23, 17:27:01](https://lobste.rs/s/zbyh1o/mplementing_brainfuck) - [mplementing Brainfuck](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
