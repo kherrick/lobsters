@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-23](index.md)
 
+* [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 * [2024-10-23, 17:27:01](https://lobste.rs/s/zbyh1o/mplementing_brainfuck) - [mplementing Brainfuck](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
+* [2024-10-23, 17:27:01](https://lobste.rs/s/zbyh1o/implementing_brainfuck) - [Implementing Brainfuck](https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html)
 * [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
 * [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
 * [2024-10-23, 16:36:15](https://lobste.rs/s/5l1rql/halloween_problem_databases) - [The Halloween Problem in Databases](https://en.wikipedia.org/wiki/Halloween_Problem)
