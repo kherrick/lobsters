@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-10-22, 21:16:08",
-      "https://lobste.rs/s/r5jukx/deep_look_into_our_new_massive"
-    ],
-    [
-      "A deep look into our new massive multitenant architecture",
-      "https://turso.tech/blog/a-deep-look-into-our-new-massive-multitenant-architecture"
-    ]
-  ],
-  [
-    [
       "2024-10-22, 20:32:06",
       "https://lobste.rs/s/ffgrgo/report_from_2024_image_based_linux_summit"
     ],
@@ -247,6 +237,16 @@
     [
       "How to secure your new VPS: a step-by-step guide",
       "https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide"
+    ]
+  ],
+  [
+    [
+      "2024-10-21, 22:30:48",
+      "https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows"
+    ],
+    [
+      "Microsoft maintains its own Windows debloat scripts on GitHub",
+      "https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/"
     ]
   ]
 ]
