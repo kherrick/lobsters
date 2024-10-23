@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-23, 13:30:49](https://lobste.rs/s/ywy4mn/new_powerful_json_data_type_for) - [New powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-23, 13:24:21](https://lobste.rs/s/vsk5va/solving_mystery_arm7tdmi_multiply_carry) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-23, 13:10:28](https://lobste.rs/s/5rhrms/pgroll_0_7_0_update) - [pgroll 0.7.0 update](https://xata.io/blog/pgroll-0-7-0-update)
 * [2024-10-23, 12:46:02](https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve) - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
@@ -11,7 +12,6 @@
 * [2024-10-23, 05:03:50](https://lobste.rs/s/psj1vj/progress_at_first_few_months_working_full) - [Progress at the first few months working full time on Bevyengine](https://bevyengine.org/news/dream-job/)
 * [2024-10-23, 01:58:32](https://lobste.rs/s/1zd2pw/kronos_soviet_processor_family_for_high) - [Kronos: Soviet Processor Family for High-Level Languages (2006)](https://inria.hal.science/hal-01568396v1/document)
 * [2024-10-22, 21:55:22](https://lobste.rs/s/v0bwa0/bazelcon_2024_recap) - [BazelCon 2024 recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
-* [2024-10-22, 21:48:45](https://lobste.rs/s/qi9e6a/relational_model_data_for_large_shared) - [A Relational Model of Data for Large Shared Data Banks (1970)](https://www.seas.upenn.edu/~zives/03f/cis550/codd.pdf)
 * [2024-10-22, 20:32:06](https://lobste.rs/s/ffgrgo/report_from_2024_image_based_linux_summit) - [A report from the 2024 Image-Based Linux Summit](https://lwn.net/SubscriberLink/994704/0356b274aa959853/)
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 18:34:56](https://lobste.rs/s/0w56pv/tla_from_first_principles) - [TLA from first principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
