@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-23, 13:30:49](https://lobste.rs/s/ywy4mn/new_powerful_json_data_type_for) - [New powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
+* [2024-10-23, 13:24:21](https://lobste.rs/s/vsk5va/solving_mystery_arm7tdmi_multiply_carry) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-23, 13:10:28](https://lobste.rs/s/5rhrms/pgroll_0_7_0_update) - [pgroll 0.7.0 update](https://xata.io/blog/pgroll-0-7-0-update)
 * [2024-10-23, 12:46:02](https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve) - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 * [2024-10-23, 08:07:17](https://lobste.rs/s/8j7a1a/on_importance_typing_fast_2023) - [On the Importance of Typing Fast (2023)](https://www.rugu.dev/en/blog/on-typing-fast/)
