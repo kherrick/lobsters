@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 17:27:01",
+      "https://lobste.rs/s/zbyh1o/mplementing_brainfuck"
+    ],
+    [
+      "mplementing Brainfuck",
+      "https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 17:05:57",
       "https://lobste.rs/s/jafzlh/making_things_better"
     ],
@@ -27,16 +37,6 @@
     [
       "The Global Surveillance Free-for-All in Mobile Ad Data",
       "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 15:29:42",
-      "https://lobste.rs/s/hkkepv/breaking_bad_how_compilers_break"
-    ],
-    [
-      "Breaking Bad: How Compilers Break Constant-Time Implementations",
-      "https://arxiv.org/abs/2410.13489"
     ]
   ],
   [
