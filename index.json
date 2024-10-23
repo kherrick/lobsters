@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-23, 12:46:02",
+      "https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve"
+    ],
+    [
+      "Using Rust in Non-Rust Servers to Improve Performance",
+      "https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"
+    ]
+  ],
+  [
+    [
       "2024-10-23, 08:07:17",
       "https://lobste.rs/s/8j7a1a/on_importance_typing_fast_2023"
     ],
@@ -237,16 +247,6 @@
     [
       "How to secure your new VPS: a step-by-step guide",
       "https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide"
-    ]
-  ],
-  [
-    [
-      "2024-10-21, 22:30:48",
-      "https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows"
-    ],
-    [
-      "Microsoft maintains its own Windows debloat scripts on GitHub",
-      "https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/"
     ]
   ]
 ]
