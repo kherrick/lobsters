@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-23, 13:24:21](https://lobste.rs/s/vsk5va/solving_mystery_arm7tdmi_multiply_carry) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
+* [2024-10-23, 13:10:28](https://lobste.rs/s/5rhrms/pgroll_0_7_0_update) - [pgroll 0.7.0 update](https://xata.io/blog/pgroll-0-7-0-update)
 * [2024-10-23, 12:46:02](https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve) - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 * [2024-10-23, 08:07:17](https://lobste.rs/s/8j7a1a/on_importance_typing_fast_2023) - [On the Importance of Typing Fast (2023)](https://www.rugu.dev/en/blog/on-typing-fast/)
 * [2024-10-23, 08:06:25](https://lobste.rs/s/txndlk/our_optimizers_need_rethink) - [Our optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
@@ -16,7 +18,6 @@
 * [2024-10-22, 16:58:04](https://lobste.rs/s/heamau/svelte_5_is_alive) - [Svelte 5 is alive](https://svelte.dev/blog/svelte-5-is-alive)
 * [2024-10-22, 15:41:47](https://lobste.rs/s/re6fv9/reflections_on_trusting_trust) - [‘Reflections on Trusting Trust’, but completely by accident this time](https://secret.club/2024/10/21/unnecessarily-exhaustice-rca.html)
 * [2024-10-22, 15:28:50](https://lobste.rs/s/tdfe0e/debug_go_core_dumps_with_delve_export_byte) - [Debug Go core dumps with delve: export byte slices](https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/)
-* [2024-10-22, 14:42:52](https://lobste.rs/s/f5rnq8/mime_types_atom_bombs) - [MIME types and atom bombs](https://evanhahn.com/mime-types-and-atom-bombs/)
 * [2024-10-22, 14:08:09](https://lobste.rs/s/t0ange/announcing_determinate_nix) - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/)
 * [2024-10-22, 13:35:38](https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation) - [devenv is switching Nix implementation to Tvix](https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/)
 * [2024-10-22, 13:27:02](https://lobste.rs/s/ineb98/ghostty_1_0_is_coming) - [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
@@ -24,7 +25,6 @@
 * [2024-10-22, 10:29:00](https://lobste.rs/s/4izc1q/experiment_fighting_spam_on_public_forms) - [An experiment in fighting spam on public forms using “proof of work”](https://blog.ovalerio.net/archives/2996/)
 * [2024-10-22, 10:12:10](https://lobste.rs/s/rjbozd/use_data_looks_like_data) - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 * [2024-10-22, 10:02:36](https://lobste.rs/s/fafab7/mqtt_turns_25_here_s_how_it_has_endured) - [MQTT turns 25 – here’s how it has endured](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
-* [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 
 ## [Archives](archives/index.md)
 
