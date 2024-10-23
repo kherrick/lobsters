@@ -1,11 +1,21 @@
 [
   [
     [
-      "2024-10-23, 17:27:01",
-      "https://lobste.rs/s/zbyh1o/mplementing_brainfuck"
+      "2024-10-23, 18:15:05",
+      "https://lobste.rs/s/tnwz0c/request_reply_postgres"
     ],
     [
-      "mplementing Brainfuck",
+      "Request-reply in Postgres",
+      "https://blog.sequinstream.com/request-reply-in-postgres/"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 17:27:01",
+      "https://lobste.rs/s/zbyh1o/implementing_brainfuck"
+    ],
+    [
+      "Implementing Brainfuck",
       "https://blog.wilsonb.com/posts/2024-09-27-brainfuck.html"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "TLA from first principles",
       "https://buttondown.com/hillelwayne/archive/tla-from-first-principles/"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 15:28:50",
-      "https://lobste.rs/s/tdfe0e/debug_go_core_dumps_with_delve_export_byte"
-    ],
-    [
-      "Debug Go core dumps with delve: export byte slices",
-      "https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/"
     ]
   ],
   [
