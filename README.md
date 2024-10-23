@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-23, 07:33:02](https://lobste.rs/s/wnmlps/useless_web) - [The Useless Web](https://theuselessweb.com/)
 * [2024-10-23, 07:07:54](https://lobste.rs/s/02ievw/sudoku_solving_python_packaging) - [Sudoku solving in python packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-23, 05:27:52](https://lobste.rs/s/23nc0b/adding_row_polymorphism_damas_hindley) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 * [2024-10-23, 05:03:50](https://lobste.rs/s/psj1vj/progress_at_first_few_months_working_full) - [Progress at the first few months working full time on Bevyengine](https://bevyengine.org/news/dream-job/)
@@ -23,7 +24,6 @@
 * [2024-10-22, 10:02:36](https://lobste.rs/s/fafab7/mqtt_turns_25_here_s_how_it_has_endured) - [MQTT turns 25 – here’s how it has endured](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
 * [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
 * [2024-10-21, 22:30:48](https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows) - [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
-* [2024-10-21, 17:53:30](https://lobste.rs/s/op9c7k/2_136279841_1_is_new_largest_known_prime) - [(2^136279841)-1 is the New Largest Known Prime Number](https://www.mersenne.org)
 * [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 
 ## [Archives](archives/index.md)
