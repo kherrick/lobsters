@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-23, 14:24:16](https://lobste.rs/s/8be3uq/async_rust_three_parts) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 * [2024-10-23, 13:30:49](https://lobste.rs/s/ywy4mn/new_powerful_json_data_type_for) - [New powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-23, 13:24:21](https://lobste.rs/s/vsk5va/solving_mystery_arm7tdmi_multiply_carry) - [Solving the Mystery of ARM7TDMI Multiply Carry Flag](https://bmchtech.github.io/post/multiply/)
 * [2024-10-23, 13:10:28](https://lobste.rs/s/5rhrms/pgroll_0_7_0_update) - [pgroll 0.7.0 update](https://xata.io/blog/pgroll-0-7-0-update)
@@ -16,7 +17,6 @@
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 18:34:56](https://lobste.rs/s/0w56pv/tla_from_first_principles) - [TLA from first principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
 * [2024-10-22, 16:58:04](https://lobste.rs/s/heamau/svelte_5_is_alive) - [Svelte 5 is alive](https://svelte.dev/blog/svelte-5-is-alive)
-* [2024-10-22, 15:41:47](https://lobste.rs/s/re6fv9/reflections_on_trusting_trust) - [‘Reflections on Trusting Trust’, but completely by accident this time](https://secret.club/2024/10/21/unnecessarily-exhaustice-rca.html)
 * [2024-10-22, 15:28:50](https://lobste.rs/s/tdfe0e/debug_go_core_dumps_with_delve_export_byte) - [Debug Go core dumps with delve: export byte slices](https://michael.stapelberg.ch/posts/2024-10-22-debug-go-core-dumps-delve-export-bytes/)
 * [2024-10-22, 14:08:09](https://lobste.rs/s/t0ange/announcing_determinate_nix) - [Announcing Determinate Nix](https://determinate.systems/posts/announcing-determinate-nix/)
 * [2024-10-22, 13:35:38](https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation) - [devenv is switching Nix implementation to Tvix](https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/)
