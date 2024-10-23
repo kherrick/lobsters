@@ -2,6 +2,7 @@
 
 * [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
 * [2024-10-23, 16:36:15](https://lobste.rs/s/5l1rql/halloween_problem_databases) - [The Halloween Problem in Databases](https://en.wikipedia.org/wiki/Halloween_Problem)
+* [2024-10-23, 16:10:05](https://lobste.rs/s/hgl0ax/global_surveillance_free_for_all_mobile) - [The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
 * [2024-10-23, 15:29:42](https://lobste.rs/s/hkkepv/breaking_bad_how_compilers_break) - [Breaking Bad: How Compilers Break Constant-Time Implementations](https://arxiv.org/abs/2410.13489)
 * [2024-10-23, 14:57:16](https://lobste.rs/s/9rvhdm/using_nix_fuzz_test_pdf_parser) - [Using Nix to Fuzz Test a PDF Parser](https://mtlynch.io/nix-fuzz-testing-1/)
 * [2024-10-23, 14:24:16](https://lobste.rs/s/8be3uq/async_rust_three_parts) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
@@ -24,7 +25,6 @@
 * [2024-10-22, 13:27:02](https://lobste.rs/s/ineb98/ghostty_1_0_is_coming) - [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [2024-10-22, 12:35:15](https://lobste.rs/s/esmju4/against_tmp) - [Against /tmp](https://dotat.at/@/2024-10-22-tmp.html)
 * [2024-10-22, 10:29:00](https://lobste.rs/s/4izc1q/experiment_fighting_spam_on_public_forms) - [An experiment in fighting spam on public forms using “proof of work”](https://blog.ovalerio.net/archives/2996/)
-* [2024-10-22, 10:12:10](https://lobste.rs/s/rjbozd/use_data_looks_like_data) - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 
 ## [Archives](archives/index.md)
 
