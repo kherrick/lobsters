@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-23, 16:10:05](https://lobste.rs/s/hgl0ax/global_surveillance_free_for_all_mobile) - [The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)
 * [2024-10-23, 15:29:42](https://lobste.rs/s/hkkepv/breaking_bad_how_compilers_break) - [Breaking Bad: How Compilers Break Constant-Time Implementations](https://arxiv.org/abs/2410.13489)
 * [2024-10-23, 14:57:16](https://lobste.rs/s/9rvhdm/using_nix_fuzz_test_pdf_parser) - [Using Nix to Fuzz Test a PDF Parser](https://mtlynch.io/nix-fuzz-testing-1/)
 * [2024-10-23, 14:24:16](https://lobste.rs/s/8be3uq/async_rust_three_parts) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
@@ -13,7 +14,6 @@
 * [2024-10-23, 07:07:54](https://lobste.rs/s/02ievw/sudoku_solving_python_packaging) - [Sudoku solving in python packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-23, 05:27:52](https://lobste.rs/s/23nc0b/adding_row_polymorphism_damas_hindley) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
 * [2024-10-23, 05:03:50](https://lobste.rs/s/psj1vj/progress_at_first_few_months_working_full) - [Progress at the first few months working full time on Bevyengine](https://bevyengine.org/news/dream-job/)
-* [2024-10-23, 01:58:32](https://lobste.rs/s/1zd2pw/kronos_soviet_processor_family_for_high) - [Kronos: Soviet Processor Family for High-Level Languages (2006)](https://inria.hal.science/hal-01568396v1/document)
 * [2024-10-22, 21:55:22](https://lobste.rs/s/v0bwa0/bazelcon_2024_recap) - [BazelCon 2024 recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 18:34:56](https://lobste.rs/s/0w56pv/tla_from_first_principles) - [TLA from first principles](https://buttondown.com/hillelwayne/archive/tla-from-first-principles/)
