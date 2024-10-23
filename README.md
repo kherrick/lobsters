@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-23, 08:07:17](https://lobste.rs/s/8j7a1a/on_importance_typing_fast_2023) - [On the Importance of Typing Fast (2023)](https://www.rugu.dev/en/blog/on-typing-fast/)
+* [2024-10-23, 08:06:25](https://lobste.rs/s/txndlk/our_optimizers_need_rethink) - [Our optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
 * [2024-10-23, 07:33:02](https://lobste.rs/s/wnmlps/useless_web) - [The Useless Web](https://theuselessweb.com/)
 * [2024-10-23, 07:07:54](https://lobste.rs/s/02ievw/sudoku_solving_python_packaging) - [Sudoku solving in python packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-23, 05:27:52](https://lobste.rs/s/23nc0b/adding_row_polymorphism_damas_hindley) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
@@ -23,8 +25,6 @@
 * [2024-10-22, 10:12:10](https://lobste.rs/s/rjbozd/use_data_looks_like_data) - [Use data that looks like data](https://registerspill.thorstenball.com/p/use-data-that-looks-like-data)
 * [2024-10-22, 10:02:36](https://lobste.rs/s/fafab7/mqtt_turns_25_here_s_how_it_has_endured) - [MQTT turns 25 – here’s how it has endured](https://andypiper.co.uk/2024/10/22/mqtt-turns-25-heres-how-it-has-endured/)
 * [2024-10-22, 00:27:06](https://lobste.rs/s/dn4fwy/how_secure_your_new_vps_step_by_step_guide) - [How to secure your new VPS: a step-by-step guide](https://www.kkyri.com/p/how-to-secure-your-new-vps-a-step-by-step-guide)
-* [2024-10-21, 22:30:48](https://lobste.rs/s/6ezt8q/microsoft_maintains_its_own_windows) - [Microsoft maintains its own Windows debloat scripts on GitHub](https://www.osnews.com/story/140955/microsoft-maintains-its-own-windows-debloat-scripts-on-github/)
-* [2024-10-21, 10:21:11](https://lobste.rs/s/zesiyv/20_years_linux_on_desktop_part_1) - [20 years of Linux on the Desktop (part 1)](https://ploum.net/2024-10-20-20years-linux-desktop-part1.html)
 
 ## [Archives](archives/index.md)
 
