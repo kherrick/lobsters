@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 22:48:45](https://lobste.rs/s/rgr7wc/private_cloud_compute_security_guide) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute)
 * [2024-10-24, 22:40:41](https://lobste.rs/s/gr7ecy/typed_foundation_for_directional_logic) - [A Typed Foundation for Directional Logic Programming](https://www.cs.bham.ac.uk/%7Eudr/papers/directional.pdf)
 * [2024-10-24, 22:27:26](https://lobste.rs/s/djphwz/type_tailoring) - [Type Tailoring](https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf)
 * [2024-10-24, 20:06:16](https://lobste.rs/s/oldmly/introducing_quantized_llama_models_with) - [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
@@ -21,7 +22,6 @@
 * [2024-10-24, 07:24:00](https://lobste.rs/s/6ljdrs/our_container_platform_is_production_it) - [Our container platform is in production. It has GPUs. Here’s an early look](https://blog.cloudflare.com/container-platform-preview/)
 * [2024-10-24, 06:39:22](https://lobste.rs/s/nyrj1h/smarter_than_ctrl_f_linking_directly_web) - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 * [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
-* [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 * [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
 * [2024-10-23, 12:46:02](https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve) - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
