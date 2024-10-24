@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2024-10-24, 00:46:57",
-      "https://lobste.rs/s/ofcnae/zero_sign_extend"
-    ],
-    [
-      "Zero or sign extend",
-      "https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 00:26:22",
       "https://lobste.rs/s/sipa9t/state_shift_macros_for_implementing_type"
     ],
@@ -87,6 +77,16 @@
     [
       "Announcing Toasty, an async ORM for Rust",
       "https://tokio.rs/blog/2024-10-23-announcing-toasty"
+    ]
+  ],
+  [
+    [
+      "2024-10-23, 21:24:47",
+      "https://lobste.rs/s/lisc1k/servfail_first_100_days"
+    ],
+    [
+      "SERVFAIL: the first 100 days",
+      "https://sdomi.pl/weblog/22-servfail-the-first-100-days/"
     ]
   ],
   [
