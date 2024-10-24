@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 19:35:16](https://lobste.rs/s/um2o6t/keynote_presentation_by_hal_abelson) - [Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon](https://youtu.be/_2qXIDO-cWw)
 * [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 * [2024-10-24, 17:34:49](https://lobste.rs/s/z0qqqb/security_research_on_private_cloud) - [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 * [2024-10-24, 16:42:06](https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
@@ -24,7 +25,6 @@
 * [2024-10-23, 14:57:16](https://lobste.rs/s/9rvhdm/using_nix_fuzz_test_pdf_parser) - [Using Nix to Fuzz Test a PDF Parser](https://mtlynch.io/nix-fuzz-testing-1/)
 * [2024-10-23, 14:24:16](https://lobste.rs/s/8be3uq/async_rust_three_parts) - [Async Rust in Three Parts](https://jacko.io/async_intro.html)
 * [2024-10-23, 12:46:02](https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve) - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
-* [2024-10-22, 12:35:15](https://lobste.rs/s/esmju4/against_tmp) - [Against /tmp](https://dotat.at/@/2024-10-22-tmp.html)
 
 ## [Archives](archives/index.md)
 
