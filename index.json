@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 09:44:44",
+      "https://lobste.rs/s/eql8hw/ibm_introduces_granite_3_open_source_ai"
+    ],
+    [
+      "IBM Introduces Granite 3 - Open Source AI Models Built for Enterprise",
+      "https://newsroom.ibm.com/2024-10-21-ibm-introduces-granite-3-0-high-performing-ai-models-built-for-business"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 09:18:32",
       "https://lobste.rs/s/vwbhve/paper_feminism_programming_language"
     ],
@@ -67,16 +77,6 @@
     [
       "Compressed Apache Arrow Tables Over HTTP",
       "https://felipe.rs/2024/10/23/arrow-over-http/"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 00:26:22",
-      "https://lobste.rs/s/sipa9t/state_shift_macros_for_implementing_type"
-    ],
-    [
-      "state-shift: Macros for implementing Type-State-Pattern on your structs and methods",
-      "https://github.com/ozgunozerk/state-shift"
     ]
   ],
   [
