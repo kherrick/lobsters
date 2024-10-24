@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-24, 20:06:16",
+      "https://lobste.rs/s/oldmly/introducing_quantized_llama_models_with"
+    ],
+    [
+      "Introducing quantized Llama models with increased speed and a reduced memory footprint",
+      "https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 19:59:40",
+      "https://lobste.rs/s/g40ccn/logical_vs_physical_data_types"
+    ],
+    [
+      "Logical vs Physical Data Types",
+      "https://blog.spiraldb.com/logical-vs-physical-data-types/"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 19:55:31",
+      "https://lobste.rs/s/lonz1j/on_rust_enterprise_kernels"
+    ],
+    [
+      "On Rust in enterprise kernels",
+      "https://lwn.net/Articles/993337/"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 19:35:16",
       "https://lobste.rs/s/um2o6t/keynote_presentation_by_hal_abelson"
     ],
@@ -37,16 +67,6 @@
     [
       "Why did you write a new RTOS for CHERIoT?",
       "https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 16:40:08",
-      "https://lobste.rs/s/k9j88p/cstructpy_easy_binary_representations"
-    ],
-    [
-      "cstructpy: Easy binary representations of structs",
-      "https://github.com/Maxim-Mushizky/cstructpy"
     ]
   ],
   [
@@ -207,26 +227,6 @@
     [
       "The Halloween Problem in Databases",
       "https://en.wikipedia.org/wiki/Halloween_Problem"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 16:10:05",
-      "https://lobste.rs/s/hgl0ax/global_surveillance_free_for_all_mobile"
-    ],
-    [
-      "The Global Surveillance Free-for-All in Mobile Ad Data",
-      "https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 14:57:16",
-      "https://lobste.rs/s/9rvhdm/using_nix_fuzz_test_pdf_parser"
-    ],
-    [
-      "Using Nix to Fuzz Test a PDF Parser",
-      "https://mtlynch.io/nix-fuzz-testing-1/"
     ]
   ],
   [
