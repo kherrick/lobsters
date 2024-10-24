@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 07:24:00](https://lobste.rs/s/6ljdrs/our_container_platform_is_production_it) - [Our container platform is in production. It has GPUs. Here’s an early look](https://blog.cloudflare.com/container-platform-preview/)
 * [2024-10-24, 06:42:03](https://lobste.rs/s/cduhdx/secure_multiserver_operating_system) - [The Secure Multiserver Operating System Framework](https://youtu.be/KYpIfblpDOM?list=PLtoQeavghzr0ZntMmRPwg1VA1yJd_T3y9)
 * [2024-10-24, 06:39:22](https://lobste.rs/s/nyrj1h/smarter_than_ctrl_f_linking_directly_web) - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 * [2024-10-24, 06:03:23](https://lobste.rs/s/z6nnje/manim_community_community_maintained) - [Manim Community - A community maintained Python library for creating mathematical animations](https://www.manim.community)
@@ -8,7 +9,6 @@
 * [2024-10-24, 00:46:57](https://lobste.rs/s/ofcnae/zero_sign_extend) - [Zero or sign extend](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
 * [2024-10-24, 00:26:22](https://lobste.rs/s/sipa9t/state_shift_macros_for_implementing_type) - [state-shift: Macros for implementing Type-State-Pattern on your structs and methods](https://github.com/ozgunozerk/state-shift)
 * [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
-* [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 * [2024-10-23, 17:35:06](https://lobste.rs/s/5cu6v2/why_do_arrays_start_at_0) - [Why do arrays start at 0?](https://www.linkedin.com/posts/hillel-wayne_why-do-arrays-start-at-0-its-not-like-activity-7254552694680367104-qAEV)
 * [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
