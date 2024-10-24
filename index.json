@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 10:48:36",
+      "https://lobste.rs/s/6avgp0/using_tmp_var_tmp_safely"
+    ],
+    [
+      "Using /tmp/ and /var/tmp/ Safely",
+      "https://systemd.io/TEMPORARY_DIRECTORIES/"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 09:44:44",
       "https://lobste.rs/s/eql8hw/ibm_introduces_granite_3_open_source_ai"
     ],
@@ -67,16 +77,6 @@
     [
       "LLM-Assisted Static Analysis for Detecting Security Vulnerabilities",
       "https://arxiv.org/abs/2405.17238"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 01:55:37",
-      "https://lobste.rs/s/kzkcm6/compressed_apache_arrow_tables_over_http"
-    ],
-    [
-      "Compressed Apache Arrow Tables Over HTTP",
-      "https://felipe.rs/2024/10/23/arrow-over-http/"
     ]
   ],
   [
