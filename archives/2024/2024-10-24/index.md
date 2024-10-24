@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 09:18:32](https://lobste.rs/s/vwbhve/paper_feminism_programming_language) - [Paper: Feminism in Programming Language Design](https://www.felienne.com/archives/8470)
 * [2024-10-24, 08:33:55](https://lobste.rs/s/kylblc/react_on_server_is_not_php) - [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
 * [2024-10-24, 08:20:39](https://lobste.rs/s/nxqic4/who_wins_with_cursor_copilot) - [Who Wins With Cursor & Copilot?](https://timkellogg.me/blog/2024/08/31/llm-pairing)
 * [2024-10-24, 07:24:00](https://lobste.rs/s/6ljdrs/our_container_platform_is_production_it) - [Our container platform is in production. It has GPUs. Here’s an early look](https://blog.cloudflare.com/container-platform-preview/)
