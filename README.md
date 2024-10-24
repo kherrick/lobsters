@@ -9,7 +9,7 @@
 * [2024-10-24, 08:33:55](https://lobste.rs/s/kylblc/react_on_server_is_not_php) - [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
 * [2024-10-24, 07:24:00](https://lobste.rs/s/6ljdrs/our_container_platform_is_production_it) - [Our container platform is in production. It has GPUs. Here’s an early look](https://blog.cloudflare.com/container-platform-preview/)
 * [2024-10-24, 06:39:22](https://lobste.rs/s/nyrj1h/smarter_than_ctrl_f_linking_directly_web) - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
-* [2024-10-24, 02:43:19](https://lobste.rs/s/arolar/llm_assisted_static_analysis_for) - [LLM-Assisted Static Analysis for Detecting Security Vulnerabilities](https://arxiv.org/abs/2405.17238)
+* [2024-10-24, 00:46:57](https://lobste.rs/s/ofcnae/zero_sign_extend) - [Zero or sign extend](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
 * [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
