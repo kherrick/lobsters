@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 06:03:23](https://lobste.rs/s/z6nnje/manim_community_community_maintained) - [Manim Community - A community maintained Python library for creating mathematical animations](https://www.manim.community)
 * [2024-10-24, 02:43:19](https://lobste.rs/s/arolar/llm_assisted_static_analysis_for) - [LLM-Assisted Static Analysis for Detecting Security Vulnerabilities](https://arxiv.org/abs/2405.17238)
 * [2024-10-24, 01:55:37](https://lobste.rs/s/kzkcm6/compressed_apache_arrow_tables_over_http) - [Compressed Apache Arrow Tables Over HTTP](https://felipe.rs/2024/10/23/arrow-over-http/)
 * [2024-10-24, 00:46:57](https://lobste.rs/s/ofcnae/zero_sign_extend) - [Zero or sign extend](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
@@ -20,7 +21,6 @@
 * [2024-10-23, 08:07:17](https://lobste.rs/s/8j7a1a/on_importance_typing_fast_2023) - [On the Importance of Typing Fast (2023)](https://www.rugu.dev/en/blog/on-typing-fast/)
 * [2024-10-23, 08:06:25](https://lobste.rs/s/txndlk/our_optimizers_need_rethink) - [Our optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
 * [2024-10-23, 07:33:02](https://lobste.rs/s/wnmlps/useless_web) - [The Useless Web](https://theuselessweb.com/)
-* [2024-10-22, 21:55:22](https://lobste.rs/s/v0bwa0/bazelcon_2024_recap) - [BazelCon 2024 recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 13:35:38](https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation) - [devenv is switching Nix implementation to Tvix](https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/)
 * [2024-10-22, 13:27:02](https://lobste.rs/s/ineb98/ghostty_1_0_is_coming) - [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
