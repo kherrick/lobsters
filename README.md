@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 22:40:41](https://lobste.rs/s/gr7ecy/typed_foundation_for_directional_logic) - [A Typed Foundation for Directional Logic Programming](https://www.cs.bham.ac.uk/%7Eudr/papers/directional.pdf)
 * [2024-10-24, 22:27:26](https://lobste.rs/s/djphwz/type_tailoring) - [Type Tailoring](https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf)
-* [2024-10-24, 21:40:03](https://lobste.rs/s/ni3whu/automated_verification_go_programs_via) - [Automated Verification of Go Programs via Bounded Model Checking (2021)](https://pure.royalholloway.ac.uk/ws/portalfiles/portal/43117606/main.pdf)
 * [2024-10-24, 20:06:16](https://lobste.rs/s/oldmly/introducing_quantized_llama_models_with) - [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
 * [2024-10-24, 19:59:40](https://lobste.rs/s/g40ccn/logical_vs_physical_data_types) - [Logical vs Physical Data Types](https://blog.spiraldb.com/logical-vs-physical-data-types/)
 * [2024-10-24, 19:55:31](https://lobste.rs/s/lonz1j/on_rust_enterprise_kernels) - [On Rust in enterprise kernels](https://lwn.net/Articles/993337/)
