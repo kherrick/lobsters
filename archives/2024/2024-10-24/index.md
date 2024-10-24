@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 23:11:25](https://lobste.rs/s/ga9gow/line_map_for_milano_s_trams_tex) - [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
 * [2024-10-24, 22:48:45](https://lobste.rs/s/rgr7wc/private_cloud_compute_security_guide) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute)
 * [2024-10-24, 22:40:41](https://lobste.rs/s/gr7ecy/typed_foundation_for_directional_logic) - [A Typed Foundation for Directional Logic Programming](https://www.cs.bham.ac.uk/%7Eudr/papers/directional.pdf)
 * [2024-10-24, 22:27:26](https://lobste.rs/s/djphwz/type_tailoring) - [Type Tailoring](https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf)
