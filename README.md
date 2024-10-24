@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 09:44:44](https://lobste.rs/s/eql8hw/ibm_introduces_granite_3_open_source_ai) - [IBM Introduces Granite 3 - Open Source AI Models Built for Enterprise](https://newsroom.ibm.com/2024-10-21-ibm-introduces-granite-3-0-high-performing-ai-models-built-for-business)
 * [2024-10-24, 09:18:32](https://lobste.rs/s/vwbhve/paper_feminism_programming_language) - [Paper: Feminism in Programming Language Design](https://www.felienne.com/archives/8470)
 * [2024-10-24, 08:33:55](https://lobste.rs/s/kylblc/react_on_server_is_not_php) - [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
 * [2024-10-24, 08:20:39](https://lobste.rs/s/nxqic4/who_wins_with_cursor_copilot) - [Who Wins With Cursor & Copilot?](https://timkellogg.me/blog/2024/08/31/llm-pairing)
@@ -7,7 +8,6 @@
 * [2024-10-24, 06:39:22](https://lobste.rs/s/nyrj1h/smarter_than_ctrl_f_linking_directly_web) - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 * [2024-10-24, 02:43:19](https://lobste.rs/s/arolar/llm_assisted_static_analysis_for) - [LLM-Assisted Static Analysis for Detecting Security Vulnerabilities](https://arxiv.org/abs/2405.17238)
 * [2024-10-24, 01:55:37](https://lobste.rs/s/kzkcm6/compressed_apache_arrow_tables_over_http) - [Compressed Apache Arrow Tables Over HTTP](https://felipe.rs/2024/10/23/arrow-over-http/)
-* [2024-10-24, 00:26:22](https://lobste.rs/s/sipa9t/state_shift_macros_for_implementing_type) - [state-shift: Macros for implementing Type-State-Pattern on your structs and methods](https://github.com/ozgunozerk/state-shift)
 * [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
