@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 22:27:26",
+      "https://lobste.rs/s/djphwz/type_tailoring"
+    ],
+    [
+      "Type Tailoring",
+      "https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 21:40:03",
       "https://lobste.rs/s/ni3whu/automated_verification_go_programs_via"
     ],
@@ -77,16 +87,6 @@
     [
       "Why did you write a new RTOS for CHERIoT?",
       "https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 16:40:08",
-      "https://lobste.rs/s/k9j88p/cstructpy_easy_binary_representations"
-    ],
-    [
-      "cstructpy: Easy binary representations of structs",
-      "https://github.com/Maxim-Mushizky/cstructpy"
     ]
   ],
   [
