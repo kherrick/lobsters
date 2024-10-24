@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 21:40:03](https://lobste.rs/s/ni3whu/automated_verification_go_programs_via) - [Automated Verification of Go Programs via Bounded Model Checking (2021)](https://pure.royalholloway.ac.uk/ws/portalfiles/portal/43117606/main.pdf)
 * [2024-10-24, 20:06:16](https://lobste.rs/s/oldmly/introducing_quantized_llama_models_with) - [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
 * [2024-10-24, 19:59:40](https://lobste.rs/s/g40ccn/logical_vs_physical_data_types) - [Logical vs Physical Data Types](https://blog.spiraldb.com/logical-vs-physical-data-types/)
 * [2024-10-24, 19:55:31](https://lobste.rs/s/lonz1j/on_rust_enterprise_kernels) - [On Rust in enterprise kernels](https://lwn.net/Articles/993337/)
@@ -23,7 +24,6 @@
 * [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 * [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
-* [2024-10-23, 16:36:15](https://lobste.rs/s/5l1rql/halloween_problem_databases) - [The Halloween Problem in Databases](https://en.wikipedia.org/wiki/Halloween_Problem)
 * [2024-10-23, 12:46:02](https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve) - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 
 ## [Archives](archives/index.md)
