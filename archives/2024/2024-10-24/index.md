@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 10:48:36](https://lobste.rs/s/6avgp0/using_tmp_var_tmp_safely) - [Using /tmp/ and /var/tmp/ Safely](https://systemd.io/TEMPORARY_DIRECTORIES/)
 * [2024-10-24, 09:44:44](https://lobste.rs/s/eql8hw/ibm_introduces_granite_3_open_source_ai) - [IBM Introduces Granite 3 - Open Source AI Models Built for Enterprise](https://newsroom.ibm.com/2024-10-21-ibm-introduces-granite-3-0-high-performing-ai-models-built-for-business)
 * [2024-10-24, 09:18:32](https://lobste.rs/s/vwbhve/paper_feminism_programming_language) - [Paper: Feminism in Programming Language Design](https://www.felienne.com/archives/8470)
 * [2024-10-24, 08:33:55](https://lobste.rs/s/kylblc/react_on_server_is_not_php) - [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
