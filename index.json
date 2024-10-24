@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 23:11:25",
+      "https://lobste.rs/s/ga9gow/line_map_for_milano_s_trams_tex"
+    ],
+    [
+      "A line map for Milano's trams in TeX",
+      "https://stuebinm.eu/posts/milano-tram-network.html"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 22:48:45",
       "https://lobste.rs/s/rgr7wc/private_cloud_compute_security_guide"
     ],
@@ -187,16 +197,6 @@
     [
       "React on the server is not PHP",
       "https://www.artmann.co/articles/react-on-the-server-is-not-php"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 07:24:00",
-      "https://lobste.rs/s/6ljdrs/our_container_platform_is_production_it"
-    ],
-    [
-      "Our container platform is in production. It has GPUs. Here’s an early look",
-      "https://blog.cloudflare.com/container-platform-preview/"
     ]
   ],
   [
