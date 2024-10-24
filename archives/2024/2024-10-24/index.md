@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
+* [2024-10-24, 15:57:41](https://lobste.rs/s/m1mv4o/structure_programming_language) - [The Structure of a Programming Language Revolution (2012)](https://www.dreamsongs.com/Files/Incommensurability.pdf)
 * [2024-10-24, 14:53:22](https://lobste.rs/s/lqbeno/embeddings_are_underrated) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-10-24, 14:15:57](https://lobste.rs/s/snlvnt/building_better_scalable_system_for_data) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 * [2024-10-24, 14:05:51](https://lobste.rs/s/0bbipa/practitioner_s_guide_wide_events) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
