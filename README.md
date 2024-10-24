@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 14:15:57](https://lobste.rs/s/snlvnt/building_better_scalable_system_for_data) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 * [2024-10-24, 14:05:51](https://lobste.rs/s/0bbipa/practitioner_s_guide_wide_events) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
 * [2024-10-24, 13:35:08](https://lobste.rs/s/cd5dgk/compiler_for_3d_machine_knitting) - [A Compiler for 3D Machine Knitting](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705213118/A-Compiler-for-3D-Machine-Knitting-Paper.pdf)
 * [2024-10-24, 12:27:08](https://lobste.rs/s/ewofl9/several_russian_developers_lose_kernel) - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
@@ -22,7 +23,6 @@
 * [2024-10-23, 13:30:49](https://lobste.rs/s/ywy4mn/new_powerful_json_data_type_for) - [New powerful JSON data type for ClickHouse](https://clickhouse.com/blog/a-new-powerful-json-data-type-for-clickhouse)
 * [2024-10-23, 12:46:02](https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve) - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 * [2024-10-23, 08:07:17](https://lobste.rs/s/8j7a1a/on_importance_typing_fast_2023) - [On the Importance of Typing Fast (2023)](https://www.rugu.dev/en/blog/on-typing-fast/)
-* [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 13:27:02](https://lobste.rs/s/ineb98/ghostty_1_0_is_coming) - [Ghostty 1.0 is Coming](https://mitchellh.com/writing/ghostty-is-coming)
 * [2024-10-22, 12:35:15](https://lobste.rs/s/esmju4/against_tmp) - [Against /tmp](https://dotat.at/@/2024-10-22-tmp.html)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 14:15:57](https://lobste.rs/s/snlvnt/building_better_scalable_system_for_data) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 * [2024-10-24, 14:05:51](https://lobste.rs/s/0bbipa/practitioner_s_guide_wide_events) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
 * [2024-10-24, 13:35:08](https://lobste.rs/s/cd5dgk/compiler_for_3d_machine_knitting) - [A Compiler for 3D Machine Knitting](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705213118/A-Compiler-for-3D-Machine-Knitting-Paper.pdf)
 * [2024-10-24, 12:27:08](https://lobste.rs/s/ewofl9/several_russian_developers_lose_kernel) - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
