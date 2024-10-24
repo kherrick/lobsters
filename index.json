@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 19:35:16",
+      "https://lobste.rs/s/um2o6t/keynote_presentation_by_hal_abelson"
+    ],
+    [
+      "Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon",
+      "https://youtu.be/_2qXIDO-cWw"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 18:53:08",
       "https://lobste.rs/s/jvtako/framework_overload_when_convenience"
     ],
@@ -237,16 +247,6 @@
     [
       "Using Rust in Non-Rust Servers to Improve Performance",
       "https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 12:35:15",
-      "https://lobste.rs/s/esmju4/against_tmp"
-    ],
-    [
-      "Against /tmp",
-      "https://dotat.at/@/2024-10-22-tmp.html"
     ]
   ]
 ]
