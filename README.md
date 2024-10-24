@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 * [2024-10-24, 17:34:49](https://lobste.rs/s/z0qqqb/security_research_on_private_cloud) - [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 * [2024-10-24, 16:42:06](https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
 * [2024-10-24, 16:40:08](https://lobste.rs/s/k9j88p/cstructpy_easy_binary_representations) - [cstructpy: Easy binary representations of structs](https://github.com/Maxim-Mushizky/cstructpy)
@@ -17,7 +18,6 @@
 * [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
-* [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
 * [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
 * [2024-10-23, 16:36:15](https://lobste.rs/s/5l1rql/halloween_problem_databases) - [The Halloween Problem in Databases](https://en.wikipedia.org/wiki/Halloween_Problem)
 * [2024-10-23, 16:10:05](https://lobste.rs/s/hgl0ax/global_surveillance_free_for_all_mobile) - [The Global Surveillance Free-for-All in Mobile Ad Data](https://krebsonsecurity.com/2024/10/the-global-surveillance-free-for-all-in-mobile-ad-data/)

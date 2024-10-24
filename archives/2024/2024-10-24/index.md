@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 * [2024-10-24, 17:34:49](https://lobste.rs/s/z0qqqb/security_research_on_private_cloud) - [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 * [2024-10-24, 16:42:06](https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
 * [2024-10-24, 16:40:08](https://lobste.rs/s/k9j88p/cstructpy_easy_binary_representations) - [cstructpy: Easy binary representations of structs](https://github.com/Maxim-Mushizky/cstructpy)
