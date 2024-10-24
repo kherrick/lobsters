@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 16:42:06](https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
+* [2024-10-24, 16:40:08](https://lobste.rs/s/k9j88p/cstructpy_easy_binary_representations) - [cstructpy: Easy binary representations of structs](https://github.com/Maxim-Mushizky/cstructpy)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
 * [2024-10-24, 15:57:41](https://lobste.rs/s/m1mv4o/structure_programming_language) - [The Structure of a Programming Language Revolution (2012)](https://www.dreamsongs.com/Files/Incommensurability.pdf)
 * [2024-10-24, 14:53:22](https://lobste.rs/s/lqbeno/embeddings_are_underrated) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
@@ -7,7 +9,6 @@
 * [2024-10-24, 14:05:51](https://lobste.rs/s/0bbipa/practitioner_s_guide_wide_events) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
 * [2024-10-24, 13:35:08](https://lobste.rs/s/cd5dgk/compiler_for_3d_machine_knitting) - [A Compiler for 3D Machine Knitting](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705213118/A-Compiler-for-3D-Machine-Knitting-Paper.pdf)
 * [2024-10-24, 12:27:08](https://lobste.rs/s/ewofl9/several_russian_developers_lose_kernel) - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
-* [2024-10-24, 09:44:44](https://lobste.rs/s/eql8hw/ibm_introduces_granite_3_open_source_ai) - [IBM Introduces Granite 3 - Open Source AI Models Built for Enterprise](https://newsroom.ibm.com/2024-10-21-ibm-introduces-granite-3-0-high-performing-ai-models-built-for-business)
 * [2024-10-24, 09:18:32](https://lobste.rs/s/vwbhve/paper_feminism_programming_language) - [Paper: Feminism in Programming Language Design](https://www.felienne.com/archives/8470)
 * [2024-10-24, 08:33:55](https://lobste.rs/s/kylblc/react_on_server_is_not_php) - [React on the server is not PHP](https://www.artmann.co/articles/react-on-the-server-is-not-php)
 * [2024-10-24, 07:24:00](https://lobste.rs/s/6ljdrs/our_container_platform_is_production_it) - [Our container platform is in production. It has GPUs. Here’s an early look](https://blog.cloudflare.com/container-platform-preview/)
@@ -15,7 +16,6 @@
 * [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
-* [2024-10-23, 17:35:06](https://lobste.rs/s/5cu6v2/why_do_arrays_start_at_0) - [Why do arrays start at 0?](https://www.linkedin.com/posts/hillel-wayne_why-do-arrays-start-at-0-its-not-like-activity-7254552694680367104-qAEV)
 * [2024-10-23, 17:05:57](https://lobste.rs/s/jafzlh/making_things_better) - [making things better](https://explaining.software/archive/making-things-better/)
 * [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
 * [2024-10-23, 16:36:15](https://lobste.rs/s/5l1rql/halloween_problem_databases) - [The Halloween Problem in Databases](https://en.wikipedia.org/wiki/Halloween_Problem)

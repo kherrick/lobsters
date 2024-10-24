@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-24](index.md)
 
+* [2024-10-24, 16:42:06](https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
+* [2024-10-24, 16:40:08](https://lobste.rs/s/k9j88p/cstructpy_easy_binary_representations) - [cstructpy: Easy binary representations of structs](https://github.com/Maxim-Mushizky/cstructpy)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
 * [2024-10-24, 15:57:41](https://lobste.rs/s/m1mv4o/structure_programming_language) - [The Structure of a Programming Language Revolution (2012)](https://www.dreamsongs.com/Files/Incommensurability.pdf)
 * [2024-10-24, 14:53:22](https://lobste.rs/s/lqbeno/embeddings_are_underrated) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
