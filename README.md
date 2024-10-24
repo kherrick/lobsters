@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-24, 00:46:57](https://lobste.rs/s/ofcnae/zero_sign_extend) - [Zero or sign extend](https://fgiesen.wordpress.com/2024/10/23/zero-or-sign-extend/)
+* [2024-10-24, 00:26:22](https://lobste.rs/s/sipa9t/state_shift_macros_for_implementing_type) - [state-shift: Macros for implementing Type-State-Pattern on your structs and methods](https://github.com/ozgunozerk/state-shift)
 * [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 21:24:47](https://lobste.rs/s/lisc1k/servfail_first_100_days) - [SERVFAIL: the first 100 days](https://sdomi.pl/weblog/22-servfail-the-first-100-days/)
 * [2024-10-23, 20:11:42](https://lobste.rs/s/0xdgzt/create_minimalist_ubuntu_based_disk) - [Create minimalist, Ubuntu based, disk images for the Nvidia jetson boards](https://github.com/pythops/jetson-image)
@@ -17,9 +19,7 @@
 * [2024-10-23, 08:07:17](https://lobste.rs/s/8j7a1a/on_importance_typing_fast_2023) - [On the Importance of Typing Fast (2023)](https://www.rugu.dev/en/blog/on-typing-fast/)
 * [2024-10-23, 08:06:25](https://lobste.rs/s/txndlk/our_optimizers_need_rethink) - [Our optimizers need a rethink](https://typesanitizer.com/blog/rethink-optimizers.html)
 * [2024-10-23, 07:33:02](https://lobste.rs/s/wnmlps/useless_web) - [The Useless Web](https://theuselessweb.com/)
-* [2024-10-23, 07:07:54](https://lobste.rs/s/02ievw/sudoku_solving_python_packaging) - [Sudoku solving in python packaging](https://github.com/konstin/sudoku-in-python-packaging)
 * [2024-10-23, 05:27:52](https://lobste.rs/s/23nc0b/adding_row_polymorphism_damas_hindley) - [Adding row polymorphism to Damas-Hindley-Milner](https://bernsteinbear.com/blog/row-poly/)
-* [2024-10-23, 05:03:50](https://lobste.rs/s/psj1vj/progress_at_first_few_months_working_full) - [Progress at the first few months working full time on Bevyengine](https://bevyengine.org/news/dream-job/)
 * [2024-10-22, 21:55:22](https://lobste.rs/s/v0bwa0/bazelcon_2024_recap) - [BazelCon 2024 recap](https://blogsystem5.substack.com/p/bazelcon-2024-recap)
 * [2024-10-22, 19:28:59](https://lobste.rs/s/ri6lmz/rustls_outperforms_openssl_boringssl) - [Rustls Outperforms OpenSSL and BoringSSL](https://www.memorysafety.org/blog/rustls-performance-outperforms/)
 * [2024-10-22, 13:35:38](https://lobste.rs/s/czlbno/devenv_is_switching_nix_implementation) - [devenv is switching Nix implementation to Tvix](https://devenv.sh/blog/2024/10/22/devenv-is-switching-nix-implementation-to-tvix/)
