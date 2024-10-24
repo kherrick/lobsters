@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 13:35:08",
+      "https://lobste.rs/s/cd5dgk/compiler_for_3d_machine_knitting"
+    ],
+    [
+      "A Compiler for 3D Machine Knitting",
+      "https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705213118/A-Compiler-for-3D-Machine-Knitting-Paper.pdf"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 12:27:08",
       "https://lobste.rs/s/ewofl9/several_russian_developers_lose_kernel"
     ],
@@ -67,16 +77,6 @@
     [
       "LLM-Assisted Static Analysis for Detecting Security Vulnerabilities",
       "https://arxiv.org/abs/2405.17238"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 01:55:37",
-      "https://lobste.rs/s/kzkcm6/compressed_apache_arrow_tables_over_http"
-    ],
-    [
-      "Compressed Apache Arrow Tables Over HTTP",
-      "https://felipe.rs/2024/10/23/arrow-over-http/"
     ]
   ],
   [
