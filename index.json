@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-24, 16:42:06",
+      "https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot"
+    ],
+    [
+      "Why did you write a new RTOS for CHERIoT?",
+      "https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-24, 16:40:08",
+      "https://lobste.rs/s/k9j88p/cstructpy_easy_binary_representations"
+    ],
+    [
+      "cstructpy: Easy binary representations of structs",
+      "https://github.com/Maxim-Mushizky/cstructpy"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 16:01:28",
       "https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox"
     ],
@@ -71,16 +91,6 @@
   ],
   [
     [
-      "2024-10-24, 09:44:44",
-      "https://lobste.rs/s/eql8hw/ibm_introduces_granite_3_open_source_ai"
-    ],
-    [
-      "IBM Introduces Granite 3 - Open Source AI Models Built for Enterprise",
-      "https://newsroom.ibm.com/2024-10-21-ibm-introduces-granite-3-0-high-performing-ai-models-built-for-business"
-    ]
-  ],
-  [
-    [
       "2024-10-24, 09:18:32",
       "https://lobste.rs/s/vwbhve/paper_feminism_programming_language"
     ],
@@ -147,16 +157,6 @@
     [
       "Request-reply in Postgres",
       "https://blog.sequinstream.com/request-reply-in-postgres/"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 17:35:06",
-      "https://lobste.rs/s/5cu6v2/why_do_arrays_start_at_0"
-    ],
-    [
-      "Why do arrays start at 0?",
-      "https://www.linkedin.com/posts/hillel-wayne_why-do-arrays-start-at-0-its-not-like-activity-7254552694680367104-qAEV"
     ]
   ],
   [
