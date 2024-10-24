@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-24, 17:34:49",
+      "https://lobste.rs/s/z0qqqb/security_research_on_private_cloud"
+    ],
+    [
+      "Security research on Private Cloud Compute",
+      "https://security.apple.com/blog/pcc-security-research/"
+    ]
+  ],
+  [
+    [
       "2024-10-24, 16:42:06",
       "https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot"
     ],
@@ -227,16 +237,6 @@
     [
       "Using Rust in Non-Rust Servers to Improve Performance",
       "https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md"
-    ]
-  ],
-  [
-    [
-      "2024-10-22, 13:27:02",
-      "https://lobste.rs/s/ineb98/ghostty_1_0_is_coming"
-    ],
-    [
-      "Ghostty 1.0 is Coming",
-      "https://mitchellh.com/writing/ghostty-is-coming"
     ]
   ],
   [
