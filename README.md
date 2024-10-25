@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 13:52:05](https://lobste.rs/s/otq4ed/pretty_c_making_c_look_pretty_lua_lisp) - [pretty.c: Making C Look Pretty and Lua/Lisp/Python-esque](https://github.com/aartaka/pretty.c)
 * [2024-10-25, 13:33:33](https://lobste.rs/s/bpqe85/how_make_product_give_shit_about_your) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-25, 12:34:33](https://lobste.rs/s/tbczet/notes_on_anthropic_s_computer_use_ability) - [Notes on Anthropic's Computer Use Ability](https://composio.dev/blog/claude-computer-use)
 * [2024-10-25, 11:10:21](https://lobste.rs/s/g9ob2p/unsafe_rust_is_harder_than_c) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
@@ -17,7 +18,6 @@
 * [2024-10-24, 19:35:16](https://lobste.rs/s/um2o6t/keynote_presentation_by_hal_abelson) - [Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon](https://youtu.be/_2qXIDO-cWw)
 * [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
-* [2024-10-24, 15:57:41](https://lobste.rs/s/m1mv4o/structure_programming_language) - [The Structure of a Programming Language Revolution (2012)](https://www.dreamsongs.com/Files/Incommensurability.pdf)
 * [2024-10-24, 14:53:22](https://lobste.rs/s/lqbeno/embeddings_are_underrated) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-10-24, 14:15:57](https://lobste.rs/s/snlvnt/building_better_scalable_system_for_data) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 * [2024-10-24, 14:05:51](https://lobste.rs/s/0bbipa/practitioner_s_guide_wide_events) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)

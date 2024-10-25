@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 13:52:05](https://lobste.rs/s/otq4ed/pretty_c_making_c_look_pretty_lua_lisp) - [pretty.c: Making C Look Pretty and Lua/Lisp/Python-esque](https://github.com/aartaka/pretty.c)
 * [2024-10-25, 13:33:33](https://lobste.rs/s/bpqe85/how_make_product_give_shit_about_your) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-25, 12:34:33](https://lobste.rs/s/tbczet/notes_on_anthropic_s_computer_use_ability) - [Notes on Anthropic's Computer Use Ability](https://composio.dev/blog/claude-computer-use)
 * [2024-10-25, 11:10:21](https://lobste.rs/s/g9ob2p/unsafe_rust_is_harder_than_c) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
