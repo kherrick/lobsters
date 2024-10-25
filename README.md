@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 05:50:43](https://lobste.rs/s/nwei0f/understanding_leap_seconds_time_scales) - [Understanding leap seconds and time scales](https://nyxspace.com/hifitime/#time-scales)
+* [2024-10-25, 05:48:54](https://lobste.rs/s/drulip/desktop_for_all) - [A Desktop for All](https://blogs.gnome.org/adrianvovk/2024/10/25/a-desktop-for-all/)
 * [2024-10-25, 00:55:05](https://lobste.rs/s/lazatn/why_safety_profiles_failed) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
 * [2024-10-25, 00:48:31](https://lobste.rs/s/oxdvms/viewing_macos_system_libraries_ghidra) - [Viewing MacOS system libraries in Ghidra](https://www.scriptalert.one/2024/10/24/ghidra-dyld-extraction.html)
 * [2024-10-24, 23:11:25](https://lobste.rs/s/ga9gow/line_map_for_milano_s_trams_tex) - [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
@@ -22,8 +24,6 @@
 * [2024-10-24, 12:27:08](https://lobste.rs/s/ewofl9/several_russian_developers_lose_kernel) - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
 * [2024-10-24, 09:18:32](https://lobste.rs/s/vwbhve/paper_feminism_programming_language) - [Paper: Feminism in Programming Language Design](https://www.felienne.com/archives/8470)
 * [2024-10-24, 06:39:22](https://lobste.rs/s/nyrj1h/smarter_than_ctrl_f_linking_directly_web) - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
-* [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
-* [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 * [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
 
 ## [Archives](archives/index.md)
