@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 00:55:05](https://lobste.rs/s/lazatn/why_safety_profiles_failed) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
+* [2024-10-25, 00:48:31](https://lobste.rs/s/oxdvms/viewing_macos_system_libraries_ghidra) - [Viewing MacOS system libraries in Ghidra](https://www.scriptalert.one/2024/10/24/ghidra-dyld-extraction.html)
 * [2024-10-24, 23:11:25](https://lobste.rs/s/ga9gow/line_map_for_milano_s_trams_tex) - [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
-* [2024-10-24, 22:48:45](https://lobste.rs/s/rgr7wc/private_cloud_compute_security_guide) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute)
 * [2024-10-24, 22:40:41](https://lobste.rs/s/gr7ecy/typed_foundation_for_directional_logic) - [A Typed Foundation for Directional Logic Programming](https://www.cs.bham.ac.uk/%7Eudr/papers/directional.pdf)
 * [2024-10-24, 22:27:26](https://lobste.rs/s/djphwz/type_tailoring) - [Type Tailoring](https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf)
 * [2024-10-24, 20:06:16](https://lobste.rs/s/oldmly/introducing_quantized_llama_models_with) - [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
@@ -24,7 +25,6 @@
 * [2024-10-23, 21:55:56](https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust) - [Announcing Toasty, an async ORM for Rust](https://tokio.rs/blog/2024-10-23-announcing-toasty)
 * [2024-10-23, 18:15:05](https://lobste.rs/s/tnwz0c/request_reply_postgres) - [Request-reply in Postgres](https://blog.sequinstream.com/request-reply-in-postgres/)
 * [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
-* [2024-10-23, 12:46:02](https://lobste.rs/s/slviv2/using_rust_non_rust_servers_improve) - [Using Rust in Non-Rust Servers to Improve Performance](https://github.com/pretzelhammer/rust-blog/blob/master/posts/rust-in-non-rust-servers.md)
 
 ## [Archives](archives/index.md)
 
