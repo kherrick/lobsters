@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 11:10:21](https://lobste.rs/s/g9ob2p/unsafe_rust_is_harder_than_c) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
 * [2024-10-25, 10:03:10](https://lobste.rs/s/75n2hy/classic_3d_videogame_shadow_techniques) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
 * [2024-10-25, 09:32:38](https://lobste.rs/s/6ljpkb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6ljpkb/what_are_you_doing_this_weekend)
 * [2024-10-25, 09:06:40](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page) - [Is it ok (ethical) to scrape and display full-page content when blog author did not include in it RSS?](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page)
@@ -14,7 +15,6 @@
 * [2024-10-24, 19:55:31](https://lobste.rs/s/lonz1j/on_rust_enterprise_kernels) - [On Rust in enterprise kernels](https://lwn.net/Articles/993337/)
 * [2024-10-24, 19:35:16](https://lobste.rs/s/um2o6t/keynote_presentation_by_hal_abelson) - [Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon](https://youtu.be/_2qXIDO-cWw)
 * [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
-* [2024-10-24, 17:34:49](https://lobste.rs/s/z0qqqb/security_research_on_private_cloud) - [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 * [2024-10-24, 16:42:06](https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
 * [2024-10-24, 15:57:41](https://lobste.rs/s/m1mv4o/structure_programming_language) - [The Structure of a Programming Language Revolution (2012)](https://www.dreamsongs.com/Files/Incommensurability.pdf)
