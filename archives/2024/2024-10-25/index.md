@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 21:42:43](https://lobste.rs/s/bcfn07/swift_foundation_2024_annual_update) - [Swift-Foundation 2024 Annual Update](https://forums.swift.org/t/swift-foundation-2024-annual-update/75609)
 * [2024-10-25, 19:39:40](https://lobste.rs/s/fjol6j/what_s_postgres_major_release_analysis) - [What's in a Postgres major release? An analysis of contributions in the v17 timeframe](https://speakerdeck.com/clairegiordano/whats-in-a-postgres-major-release-an-analysis-of-contributions-in-the-v17-timeframe-claire-giordano-pgconf-eu-2024)
 * [2024-10-25, 19:19:52](https://lobste.rs/s/1tlxnz/multi_language_oriented_macro_system_by) - [A Multi-Language-Oriented Macro System by Michael Ballantyne at the (fourteenth RacketCon) is now available](https://youtu.be/KHxZ3mT9BSo)
 * [2024-10-25, 19:06:57](https://lobste.rs/s/qehdcd/cello_fat_pointer_library) - [Cello •  A Fat Pointer Library](https://libcello.org/learn/a-fat-pointer-library)

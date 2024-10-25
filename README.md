@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 21:42:43](https://lobste.rs/s/bcfn07/swift_foundation_2024_annual_update) - [Swift-Foundation 2024 Annual Update](https://forums.swift.org/t/swift-foundation-2024-annual-update/75609)
 * [2024-10-25, 19:39:40](https://lobste.rs/s/fjol6j/what_s_postgres_major_release_analysis) - [What's in a Postgres major release? An analysis of contributions in the v17 timeframe](https://speakerdeck.com/clairegiordano/whats-in-a-postgres-major-release-an-analysis-of-contributions-in-the-v17-timeframe-claire-giordano-pgconf-eu-2024)
 * [2024-10-25, 19:19:52](https://lobste.rs/s/1tlxnz/multi_language_oriented_macro_system_by) - [A Multi-Language-Oriented Macro System by Michael Ballantyne at the (fourteenth RacketCon) is now available](https://youtu.be/KHxZ3mT9BSo)
 * [2024-10-25, 19:06:57](https://lobste.rs/s/qehdcd/cello_fat_pointer_library) - [Cello •  A Fat Pointer Library](https://libcello.org/learn/a-fat-pointer-library)
@@ -7,7 +8,6 @@
 * [2024-10-25, 14:56:27](https://lobste.rs/s/5xzn4w/deep_dive_into_linux_s_new_mseal_syscall) - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall)
 * [2024-10-25, 14:39:59](https://lobste.rs/s/msrdky/inserting_0_bit_middle_value) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 14:15:53](https://lobste.rs/s/zh4h99/generators_with_unpincell) - [Generators with UnpinCell](https://without.boats/blog/generators-with-unpin-cell/)
-* [2024-10-25, 13:52:05](https://lobste.rs/s/otq4ed/pretty_c_making_c_look_pretty_lua_lisp) - [pretty.c: Making C Look Pretty and Lua/Lisp/Python-esque](https://github.com/aartaka/pretty.c)
 * [2024-10-25, 13:33:33](https://lobste.rs/s/bpqe85/how_make_product_give_shit_about_your) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-25, 12:34:33](https://lobste.rs/s/tbczet/notes_on_anthropic_s_computer_use_ability) - [Notes on Anthropic's Computer Use Ability](https://composio.dev/blog/claude-computer-use)
 * [2024-10-25, 11:10:21](https://lobste.rs/s/g9ob2p/unsafe_rust_is_harder_than_c) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
