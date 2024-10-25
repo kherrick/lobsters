@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 09:06:40](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page) - [Is it ok (ethical) to scrape and display full-page content when blog author did not include in it RSS?](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page)
 * [2024-10-25, 08:12:11](https://lobste.rs/s/blmm1a/building_using_simple_utils_rye_console) - [Building & using simple utils in Rye console](https://asciinema.org/a/684031)
 * [2024-10-25, 05:50:43](https://lobste.rs/s/nwei0f/understanding_leap_seconds_time_scales) - [Understanding leap seconds and time scales](https://nyxspace.com/hifitime/#time-scales)
 * [2024-10-25, 05:48:54](https://lobste.rs/s/drulip/desktop_for_all) - [A Desktop for All](https://blogs.gnome.org/adrianvovk/2024/10/25/a-desktop-for-all/)
@@ -24,7 +25,6 @@
 * [2024-10-24, 12:27:08](https://lobste.rs/s/ewofl9/several_russian_developers_lose_kernel) - [Several Russian developers lose kernel maintainership status](https://lwn.net/Articles/995186/)
 * [2024-10-24, 09:18:32](https://lobste.rs/s/vwbhve/paper_feminism_programming_language) - [Paper: Feminism in Programming Language Design](https://www.felienne.com/archives/8470)
 * [2024-10-24, 06:39:22](https://lobste.rs/s/nyrj1h/smarter_than_ctrl_f_linking_directly_web) - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
-* [2024-10-23, 17:03:20](https://lobste.rs/s/ktwhai/rust_prism) - [Rust Prism](https://registerspill.thorstenball.com/p/rust-prism)
 
 ## [Archives](archives/index.md)
 
