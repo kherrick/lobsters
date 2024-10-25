@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 14:56:27](https://lobste.rs/s/5xzn4w/deep_dive_into_linux_s_new_mseal_syscall) - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall)
 * [2024-10-25, 14:39:59](https://lobste.rs/s/msrdky/inserting_0_bit_middle_value) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 14:15:53](https://lobste.rs/s/zh4h99/generators_with_unpincell) - [Generators with UnpinCell](https://without.boats/blog/generators-with-unpin-cell/)
 * [2024-10-25, 13:52:05](https://lobste.rs/s/otq4ed/pretty_c_making_c_look_pretty_lua_lisp) - [pretty.c: Making C Look Pretty and Lua/Lisp/Python-esque](https://github.com/aartaka/pretty.c)
@@ -16,7 +17,6 @@
 * [2024-10-25, 00:48:31](https://lobste.rs/s/oxdvms/viewing_macos_system_libraries_ghidra) - [Viewing MacOS system libraries in Ghidra](https://www.scriptalert.one/2024/10/24/ghidra-dyld-extraction.html)
 * [2024-10-24, 23:11:25](https://lobste.rs/s/ga9gow/line_map_for_milano_s_trams_tex) - [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
 * [2024-10-24, 19:59:40](https://lobste.rs/s/g40ccn/logical_vs_physical_data_types) - [Logical vs Physical Data Types](https://blog.spiraldb.com/logical-vs-physical-data-types/)
-* [2024-10-24, 19:55:31](https://lobste.rs/s/lonz1j/on_rust_enterprise_kernels) - [On Rust in enterprise kernels](https://lwn.net/Articles/993337/)
 * [2024-10-24, 19:35:16](https://lobste.rs/s/um2o6t/keynote_presentation_by_hal_abelson) - [Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon](https://youtu.be/_2qXIDO-cWw)
 * [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)

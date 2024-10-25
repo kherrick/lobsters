@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 14:56:27](https://lobste.rs/s/5xzn4w/deep_dive_into_linux_s_new_mseal_syscall) - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall)
 * [2024-10-25, 14:39:59](https://lobste.rs/s/msrdky/inserting_0_bit_middle_value) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 14:15:53](https://lobste.rs/s/zh4h99/generators_with_unpincell) - [Generators with UnpinCell](https://without.boats/blog/generators-with-unpin-cell/)
 * [2024-10-25, 13:52:05](https://lobste.rs/s/otq4ed/pretty_c_making_c_look_pretty_lua_lisp) - [pretty.c: Making C Look Pretty and Lua/Lisp/Python-esque](https://github.com/aartaka/pretty.c)
