@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-25, 05:50:43",
+      "https://lobste.rs/s/nwei0f/understanding_leap_seconds_time_scales"
+    ],
+    [
+      "Understanding leap seconds and time scales",
+      "https://nyxspace.com/hifitime/#time-scales"
+    ]
+  ],
+  [
+    [
+      "2024-10-25, 05:48:54",
+      "https://lobste.rs/s/drulip/desktop_for_all"
+    ],
+    [
+      "A Desktop for All",
+      "https://blogs.gnome.org/adrianvovk/2024/10/25/a-desktop-for-all/"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 00:55:05",
       "https://lobste.rs/s/lazatn/why_safety_profiles_failed"
     ],
@@ -217,26 +237,6 @@
     [
       "Smarter than 'Ctrl+F': Linking Directly to Web Page Content",
       "https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 21:55:56",
-      "https://lobste.rs/s/spayg9/announcing_toasty_async_orm_for_rust"
-    ],
-    [
-      "Announcing Toasty, an async ORM for Rust",
-      "https://tokio.rs/blog/2024-10-23-announcing-toasty"
-    ]
-  ],
-  [
-    [
-      "2024-10-23, 18:15:05",
-      "https://lobste.rs/s/tnwz0c/request_reply_postgres"
-    ],
-    [
-      "Request-reply in Postgres",
-      "https://blog.sequinstream.com/request-reply-in-postgres/"
     ]
   ],
   [
