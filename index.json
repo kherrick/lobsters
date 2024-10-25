@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-25, 19:39:40",
+      "https://lobste.rs/s/fjol6j/what_s_postgres_major_release_analysis"
+    ],
+    [
+      "What's in a Postgres major release? An analysis of contributions in the v17 timeframe",
+      "https://speakerdeck.com/clairegiordano/whats-in-a-postgres-major-release-an-analysis-of-contributions-in-the-v17-timeframe-claire-giordano-pgconf-eu-2024"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 19:19:52",
       "https://lobste.rs/s/1tlxnz/multi_language_oriented_macro_system_by"
     ],
@@ -187,16 +197,6 @@
     [
       "A line map for Milano's trams in TeX",
       "https://stuebinm.eu/posts/milano-tram-network.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 19:35:16",
-      "https://lobste.rs/s/um2o6t/keynote_presentation_by_hal_abelson"
-    ],
-    [
-      "Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon",
-      "https://youtu.be/_2qXIDO-cWw"
     ]
   ],
   [
