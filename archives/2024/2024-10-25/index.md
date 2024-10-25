@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 10:03:10](https://lobste.rs/s/75n2hy/classic_3d_videogame_shadow_techniques) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
 * [2024-10-25, 09:32:38](https://lobste.rs/s/6ljpkb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6ljpkb/what_are_you_doing_this_weekend)
 * [2024-10-25, 09:06:40](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page) - [Is it ok (ethical) to scrape and display full-page content when blog author did not include in it RSS?](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page)
 * [2024-10-25, 08:12:11](https://lobste.rs/s/blmm1a/building_using_simple_utils_rye_console) - [Building & using simple utils in Rye console](https://asciinema.org/a/684031)
