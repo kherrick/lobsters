@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 13:33:33](https://lobste.rs/s/bpqe85/how_make_product_give_shit_about_your) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-25, 12:34:33](https://lobste.rs/s/tbczet/notes_on_anthropic_s_computer_use_ability) - [Notes on Anthropic's Computer Use Ability](https://composio.dev/blog/claude-computer-use)
 * [2024-10-25, 11:10:21](https://lobste.rs/s/g9ob2p/unsafe_rust_is_harder_than_c) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
 * [2024-10-25, 10:03:10](https://lobste.rs/s/75n2hy/classic_3d_videogame_shadow_techniques) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
@@ -11,7 +12,6 @@
 * [2024-10-25, 00:55:05](https://lobste.rs/s/lazatn/why_safety_profiles_failed) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
 * [2024-10-25, 00:48:31](https://lobste.rs/s/oxdvms/viewing_macos_system_libraries_ghidra) - [Viewing MacOS system libraries in Ghidra](https://www.scriptalert.one/2024/10/24/ghidra-dyld-extraction.html)
 * [2024-10-24, 23:11:25](https://lobste.rs/s/ga9gow/line_map_for_milano_s_trams_tex) - [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
-* [2024-10-24, 22:27:26](https://lobste.rs/s/djphwz/type_tailoring) - [Type Tailoring](https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf)
 * [2024-10-24, 19:59:40](https://lobste.rs/s/g40ccn/logical_vs_physical_data_types) - [Logical vs Physical Data Types](https://blog.spiraldb.com/logical-vs-physical-data-types/)
 * [2024-10-24, 19:55:31](https://lobste.rs/s/lonz1j/on_rust_enterprise_kernels) - [On Rust in enterprise kernels](https://lwn.net/Articles/993337/)
 * [2024-10-24, 19:35:16](https://lobste.rs/s/um2o6t/keynote_presentation_by_hal_abelson) - [Keynote presentation by Hal Abelson and Gerald Sussman at the fourteenth RacketCon](https://youtu.be/_2qXIDO-cWw)
