@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-25, 14:39:59",
+      "https://lobste.rs/s/msrdky/inserting_0_bit_middle_value"
+    ],
+    [
+      "Inserting a 0 bit in the middle of a value",
+      "https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/"
+    ]
+  ],
+  [
+    [
       "2024-10-25, 14:15:53",
       "https://lobste.rs/s/zh4h99/generators_with_unpincell"
     ],
@@ -197,16 +207,6 @@
     [
       "Embeddings are underrated",
       "https://technicalwriting.dev/data/embeddings.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 14:15:57",
-      "https://lobste.rs/s/snlvnt/building_better_scalable_system_for_data"
-    ],
-    [
-      "Building a better and scalable system for data migrations",
-      "https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/"
     ]
   ],
   [
