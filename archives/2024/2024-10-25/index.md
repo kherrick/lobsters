@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-25](index.md)
 
+* [2024-10-25, 19:19:52](https://lobste.rs/s/1tlxnz/multi_language_oriented_macro_system_by) - [A Multi-Language-Oriented Macro System by Michael Ballantyne at the (fourteenth RacketCon) is now available](https://youtu.be/KHxZ3mT9BSo)
 * [2024-10-25, 19:06:57](https://lobste.rs/s/qehdcd/cello_fat_pointer_library) - [Cello •  A Fat Pointer Library](https://libcello.org/learn/a-fat-pointer-library)
 * [2024-10-25, 16:18:54](https://lobste.rs/s/v909qz/project_turntable) - [Project Turntable](https://www.adobe.com/max/2024/sessions/project-turntable-gs3-9.html)
 * [2024-10-25, 14:56:27](https://lobste.rs/s/5xzn4w/deep_dive_into_linux_s_new_mseal_syscall) - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall)
