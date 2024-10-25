@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 09:32:38](https://lobste.rs/s/6ljpkb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/6ljpkb/what_are_you_doing_this_weekend)
 * [2024-10-25, 09:06:40](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page) - [Is it ok (ethical) to scrape and display full-page content when blog author did not include in it RSS?](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page)
 * [2024-10-25, 08:12:11](https://lobste.rs/s/blmm1a/building_using_simple_utils_rye_console) - [Building & using simple utils in Rye console](https://asciinema.org/a/684031)
 * [2024-10-25, 05:50:43](https://lobste.rs/s/nwei0f/understanding_leap_seconds_time_scales) - [Understanding leap seconds and time scales](https://nyxspace.com/hifitime/#time-scales)
@@ -17,7 +18,6 @@
 * [2024-10-24, 17:34:49](https://lobste.rs/s/z0qqqb/security_research_on_private_cloud) - [Security research on Private Cloud Compute](https://security.apple.com/blog/pcc-security-research/)
 * [2024-10-24, 16:42:06](https://lobste.rs/s/cd3bhp/why_did_you_write_new_rtos_for_cheriot) - [Why did you write a new RTOS for CHERIoT?](https://cheriot.org/rtos/philosophy/history/2024/10/24/why-new-rtos.html)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
-* [2024-10-24, 15:57:41](https://lobste.rs/s/m1mv4o/structure_programming_language) - [The Structure of a Programming Language Revolution (2012)](https://www.dreamsongs.com/Files/Incommensurability.pdf)
 * [2024-10-24, 14:53:22](https://lobste.rs/s/lqbeno/embeddings_are_underrated) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 * [2024-10-24, 14:15:57](https://lobste.rs/s/snlvnt/building_better_scalable_system_for_data) - [Building a better and scalable system for data migrations](https://yorickpeterse.com/articles/building-a-better-and-scalable-system-for-data-migrations/)
 * [2024-10-24, 14:05:51](https://lobste.rs/s/0bbipa/practitioner_s_guide_wide_events) - [A Practitioner's Guide to Wide Events](https://jeremymorrell.dev/blog/a-practitioners-guide-to-wide-events/)
