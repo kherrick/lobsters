@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-25, 08:12:11](https://lobste.rs/s/blmm1a/building_using_simple_utils_rye_console) - [Building & using simple utils in Rye console](https://asciinema.org/a/684031)
 * [2024-10-25, 05:50:43](https://lobste.rs/s/nwei0f/understanding_leap_seconds_time_scales) - [Understanding leap seconds and time scales](https://nyxspace.com/hifitime/#time-scales)
 * [2024-10-25, 05:48:54](https://lobste.rs/s/drulip/desktop_for_all) - [A Desktop for All](https://blogs.gnome.org/adrianvovk/2024/10/25/a-desktop-for-all/)
 * [2024-10-25, 00:55:05](https://lobste.rs/s/lazatn/why_safety_profiles_failed) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
 * [2024-10-25, 00:48:31](https://lobste.rs/s/oxdvms/viewing_macos_system_libraries_ghidra) - [Viewing MacOS system libraries in Ghidra](https://www.scriptalert.one/2024/10/24/ghidra-dyld-extraction.html)
 * [2024-10-24, 23:11:25](https://lobste.rs/s/ga9gow/line_map_for_milano_s_trams_tex) - [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
-* [2024-10-24, 22:48:45](https://lobste.rs/s/rgr7wc/private_cloud_compute_security_guide) - [Private Cloud Compute Security Guide](https://security.apple.com/documentation/private-cloud-compute)
 * [2024-10-24, 22:40:41](https://lobste.rs/s/gr7ecy/typed_foundation_for_directional_logic) - [A Typed Foundation for Directional Logic Programming](https://www.cs.bham.ac.uk/%7Eudr/papers/directional.pdf)
 * [2024-10-24, 22:27:26](https://lobste.rs/s/djphwz/type_tailoring) - [Type Tailoring](https://users.cs.utah.edu/~blg/publications/tt/wcfg-ecoop-2024.pdf)
 * [2024-10-24, 20:06:16](https://lobste.rs/s/oldmly/introducing_quantized_llama_models_with) - [Introducing quantized Llama models with increased speed and a reduced memory footprint](https://ai.meta.com/blog/meta-llama-quantized-lightweight-models/)
