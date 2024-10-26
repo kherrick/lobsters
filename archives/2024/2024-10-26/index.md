@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 09:36:28](https://lobste.rs/s/l1l5bc/toasty_async_orm_for_rust) - [toasty: An async ORM for Rust](https://github.com/tokio-rs/toasty)
 * [2024-10-26, 09:05:12](https://lobste.rs/s/vr3edl/why_those_particular_integer_multiplies) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 08:12:38](https://lobste.rs/s/htr9ya/eicar_test_file_string_can_trigger_anti) - [EICAR test file: a string that can trigger anti-virus](https://en.wikipedia.org/wiki/EICAR_test_file)
 * [2024-10-26, 06:32:06](https://lobste.rs/s/c1er2d/toward_safe_transmutation_rust) - [Toward safe transmutation in Rust](https://lwn.net/SubscriberLink/994334/5e1f97f08916b494/)
