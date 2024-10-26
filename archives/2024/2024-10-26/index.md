@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 22:17:09](https://lobste.rs/s/itnvlj/frosthaven_manager_built_by_community_by) - ['Frosthaven Manager - Built by the Community' by Ben Knoble at (fourteenth RacketCon) is now available](https://youtu.be/O33NK52ZmUk)
 * [2024-10-26, 20:30:03](https://lobste.rs/s/pepihj/transaction_isolation_postgres) - [Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2024-10-26, 20:22:33](https://lobste.rs/s/d0h69f/ode_vim) - [An Ode To Vim](https://bokwoon.com/posts/1khtfep-an-ode-to-vim/)
 * [2024-10-26, 19:30:14](https://lobste.rs/s/es7zl7/libraries_libraries_libraries) - [Libraries Libraries Libraries](https://www.youtube.com/watch?v=47oDSfrttSE)
