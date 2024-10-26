@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-26, 05:59:20](https://lobste.rs/s/jy06em/simple_explanation_postgres_timestamp) - [A Simple Explanation of Postgres' Timestamp with Time Zone](https://naildrivin5.com/blog/2024/10/10/a-simple-explanation-of-postgres-timestamp-with-time-zone.html)
 * [2024-10-26, 04:43:37](https://lobste.rs/s/qihnpz/improving_ssh_s_security_with_sshfp_dns) - [Improving SSH's security with SSHFP DNS records (2022)](https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/)
 * [2024-10-26, 02:03:09](https://lobste.rs/s/ixwh7h/podman_5_3_changes_for_improved) - [Podman 5.3 changes for improved networking experience with pasta](https://blog.podman.io/2024/10/podman-5-3-changes-for-improved-networking-experience-with-pasta/)
 * [2024-10-25, 22:45:38](https://lobste.rs/s/dkaiix/hardware_repair_elgato_hd60_s_only_worked) - [Hardware repair of an Elgato HD60 S that only worked on Mac](https://www.downtowndougbrown.com/2024/10/hardware-repair-of-an-elgato-hd60-s-that-only-worked-on-mac/)
@@ -22,7 +23,6 @@
 * [2024-10-25, 00:55:05](https://lobste.rs/s/lazatn/why_safety_profiles_failed) - [Why Safety Profiles Failed](https://www.circle-lang.org/draft-profiles.html)
 * [2024-10-25, 00:48:31](https://lobste.rs/s/oxdvms/viewing_macos_system_libraries_ghidra) - [Viewing MacOS system libraries in Ghidra](https://www.scriptalert.one/2024/10/24/ghidra-dyld-extraction.html)
 * [2024-10-24, 23:11:25](https://lobste.rs/s/ga9gow/line_map_for_milano_s_trams_tex) - [A line map for Milano's trams in TeX](https://stuebinm.eu/posts/milano-tram-network.html)
-* [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
 * [2024-10-24, 14:53:22](https://lobste.rs/s/lqbeno/embeddings_are_underrated) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
 
