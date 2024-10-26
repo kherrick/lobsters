@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-26, 08:12:38",
+      "https://lobste.rs/s/htr9ya/eicar_test_file_string_can_trigger_anti"
+    ],
+    [
+      "EICAR test file: a string that can trigger anti-virus",
+      "https://en.wikipedia.org/wiki/EICAR_test_file"
+    ]
+  ],
+  [
+    [
       "2024-10-26, 06:32:06",
       "https://lobste.rs/s/c1er2d/toward_safe_transmutation_rust"
     ],
@@ -187,16 +197,6 @@
     [
       "Building & using simple utils in Rye console",
       "https://asciinema.org/a/684031"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 05:50:43",
-      "https://lobste.rs/s/nwei0f/understanding_leap_seconds_time_scales"
-    ],
-    [
-      "Understanding leap seconds and time scales",
-      "https://nyxspace.com/hifitime/#time-scales"
     ]
   ],
   [
