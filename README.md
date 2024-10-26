@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-26, 04:43:37](https://lobste.rs/s/qihnpz/improving_ssh_s_security_with_sshfp_dns) - [Improving SSH's security with SSHFP DNS records (2022)](https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/)
 * [2024-10-26, 02:03:09](https://lobste.rs/s/ixwh7h/podman_5_3_changes_for_improved) - [Podman 5.3 changes for improved networking experience with pasta](https://blog.podman.io/2024/10/podman-5-3-changes-for-improved-networking-experience-with-pasta/)
 * [2024-10-25, 22:45:38](https://lobste.rs/s/dkaiix/hardware_repair_elgato_hd60_s_only_worked) - [Hardware repair of an Elgato HD60 S that only worked on Mac](https://www.downtowndougbrown.com/2024/10/hardware-repair-of-an-elgato-hd60-s-that-only-worked-on-mac/)
 * [2024-10-25, 21:42:43](https://lobste.rs/s/bcfn07/swift_foundation_2024_annual_update) - [Swift-Foundation 2024 Annual Update](https://forums.swift.org/t/swift-foundation-2024-annual-update/75609)
@@ -24,7 +25,6 @@
 * [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
 * [2024-10-24, 14:53:22](https://lobste.rs/s/lqbeno/embeddings_are_underrated) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
-* [2024-10-24, 06:39:22](https://lobste.rs/s/nyrj1h/smarter_than_ctrl_f_linking_directly_web) - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 
 ## [Archives](archives/index.md)
 
