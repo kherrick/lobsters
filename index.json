@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-26, 20:30:03",
+      "https://lobste.rs/s/pepihj/transaction_isolation_postgres"
+    ],
+    [
+      "Transaction Isolation in Postgres, explained",
+      "https://www.thenile.dev/blog/transaction-isolation-postgres"
+    ]
+  ],
+  [
+    [
       "2024-10-26, 20:22:33",
       "https://lobste.rs/s/d0h69f/ode_vim"
     ],
@@ -167,16 +177,6 @@
     [
       "A deep dive into Linux’s new mseal syscall",
       "https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 14:39:59",
-      "https://lobste.rs/s/msrdky/inserting_0_bit_middle_value"
-    ],
-    [
-      "Inserting a 0 bit in the middle of a value",
-      "https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/"
     ]
   ],
   [
