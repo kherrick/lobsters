@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-26, 06:32:06",
+      "https://lobste.rs/s/c1er2d/toward_safe_transmutation_rust"
+    ],
+    [
+      "Toward safe transmutation in Rust",
+      "https://lwn.net/SubscriberLink/994334/5e1f97f08916b494/"
+    ]
+  ],
+  [
+    [
       "2024-10-26, 05:59:20",
       "https://lobste.rs/s/jy06em/simple_explanation_postgres_timestamp"
     ],
@@ -237,16 +247,6 @@
     [
       "Bookmark Keywords: a hidden firefox feature",
       "https://paper.wf/binarycat/bookmark-keywords"
-    ]
-  ],
-  [
-    [
-      "2024-10-24, 14:53:22",
-      "https://lobste.rs/s/lqbeno/embeddings_are_underrated"
-    ],
-    [
-      "Embeddings are underrated",
-      "https://technicalwriting.dev/data/embeddings.html"
     ]
   ]
 ]
