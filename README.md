@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-26, 02:03:09](https://lobste.rs/s/ixwh7h/podman_5_3_changes_for_improved) - [Podman 5.3 changes for improved networking experience with pasta](https://blog.podman.io/2024/10/podman-5-3-changes-for-improved-networking-experience-with-pasta/)
 * [2024-10-25, 22:45:38](https://lobste.rs/s/dkaiix/hardware_repair_elgato_hd60_s_only_worked) - [Hardware repair of an Elgato HD60 S that only worked on Mac](https://www.downtowndougbrown.com/2024/10/hardware-repair-of-an-elgato-hd60-s-that-only-worked-on-mac/)
 * [2024-10-25, 21:42:43](https://lobste.rs/s/bcfn07/swift_foundation_2024_annual_update) - [Swift-Foundation 2024 Annual Update](https://forums.swift.org/t/swift-foundation-2024-annual-update/75609)
 * [2024-10-25, 19:19:52](https://lobste.rs/s/1tlxnz/multi_language_oriented_macro_system_by) - [A Multi-Language-Oriented Macro System by Michael Ballantyne at the (fourteenth RacketCon) is now available](https://youtu.be/KHxZ3mT9BSo)
@@ -23,7 +24,6 @@
 * [2024-10-24, 18:53:08](https://lobste.rs/s/jvtako/framework_overload_when_convenience) - [Framework overload: when convenience dulls innovation in software development](https://prahladyeri.github.io/blog/2024/10/framework-overload.html)
 * [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
 * [2024-10-24, 14:53:22](https://lobste.rs/s/lqbeno/embeddings_are_underrated) - [Embeddings are underrated](https://technicalwriting.dev/data/embeddings.html)
-* [2024-10-24, 13:35:08](https://lobste.rs/s/cd5dgk/compiler_for_3d_machine_knitting) - [A Compiler for 3D Machine Knitting](https://s3-us-west-1.amazonaws.com/disneyresearch/wp-content/uploads/20160705213118/A-Compiler-for-3D-Machine-Knitting-Paper.pdf)
 * [2024-10-24, 06:39:22](https://lobste.rs/s/nyrj1h/smarter_than_ctrl_f_linking_directly_web) - [Smarter than 'Ctrl+F': Linking Directly to Web Page Content](https://alfy.blog/2024/10/19/linking-directly-to-web-page-content.html)
 
 ## [Archives](archives/index.md)
