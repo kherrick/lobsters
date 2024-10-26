@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 10:30:00](https://lobste.rs/s/torty9/nimconf_2024_online_nim_conference) - [NimConf 2024 - online Nim conference](https://conf.nim-lang.org)
 * [2024-10-26, 09:43:55](https://lobste.rs/s/rido1h/asyncorm_async_orm_for_php) - [AsyncOrm: An async ORM for PHP](https://github.com/danog/AsyncOrm)
 * [2024-10-26, 09:36:28](https://lobste.rs/s/l1l5bc/toasty_async_orm_for_rust) - [toasty: An async ORM for Rust](https://github.com/tokio-rs/toasty)
 * [2024-10-26, 09:05:12](https://lobste.rs/s/vr3edl/why_those_particular_integer_multiplies) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
