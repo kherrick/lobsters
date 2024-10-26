@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-26, 20:22:33](https://lobste.rs/s/d0h69f/ode_vim) - [An Ode To Vim](https://bokwoon.com/posts/1khtfep-an-ode-to-vim/)
 * [2024-10-26, 19:30:14](https://lobste.rs/s/es7zl7/libraries_libraries_libraries) - [Libraries Libraries Libraries](https://www.youtube.com/watch?v=47oDSfrttSE)
 * [2024-10-26, 13:24:50](https://lobste.rs/s/ithvwc/thoughts_on_new_digital_feudalism) - [Thoughts on the New Digital Feudalism](https://mhatta.medium.com/thoughts-on-the-new-digital-feudalism-a7a1e7c801b7)
 * [2024-10-26, 12:10:35](https://lobste.rs/s/qt65lv/basics) - [The Basics](https://registerspill.thorstenball.com/p/the-basics)
@@ -24,7 +25,6 @@
 * [2024-10-25, 10:03:10](https://lobste.rs/s/75n2hy/classic_3d_videogame_shadow_techniques) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
 * [2024-10-25, 09:06:40](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page) - [Is it ok (ethical) to scrape and display full-page content when blog author did not include in it RSS?](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page)
 * [2024-10-25, 05:48:54](https://lobste.rs/s/drulip/desktop_for_all) - [A Desktop for All](https://blogs.gnome.org/adrianvovk/2024/10/25/a-desktop-for-all/)
-* [2024-10-24, 16:01:28](https://lobste.rs/s/liyn1r/bookmark_keywords_hidden_firefox) - [Bookmark Keywords: a hidden firefox feature](https://paper.wf/binarycat/bookmark-keywords)
 
 ## [Archives](archives/index.md)
 
