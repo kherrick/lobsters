@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-26](index.md)
 
+* [2024-10-26, 19:30:14](https://lobste.rs/s/es7zl7/libraries_libraries_libraries) - [Libraries Libraries Libraries](https://www.youtube.com/watch?v=47oDSfrttSE)
 * [2024-10-26, 13:24:50](https://lobste.rs/s/ithvwc/thoughts_on_new_digital_feudalism) - [Thoughts on the New Digital Feudalism](https://mhatta.medium.com/thoughts-on-the-new-digital-feudalism-a7a1e7c801b7)
 * [2024-10-26, 12:10:35](https://lobste.rs/s/qt65lv/basics) - [The Basics](https://registerspill.thorstenball.com/p/the-basics)
 * [2024-10-26, 10:30:00](https://lobste.rs/s/torty9/nimconf_2024_online_nim_conference) - [NimConf 2024 - online Nim conference](https://conf.nim-lang.org)
