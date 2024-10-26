@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-26, 12:10:35](https://lobste.rs/s/qt65lv/basics) - [The Basics](https://registerspill.thorstenball.com/p/the-basics)
 * [2024-10-26, 10:30:00](https://lobste.rs/s/torty9/nimconf_2024_online_nim_conference) - [NimConf 2024 - online Nim conference](https://conf.nim-lang.org)
 * [2024-10-26, 09:43:55](https://lobste.rs/s/rido1h/asyncorm_async_orm_for_php) - [AsyncOrm: An async ORM for PHP](https://github.com/danog/AsyncOrm)
 * [2024-10-26, 09:36:28](https://lobste.rs/s/l1l5bc/toasty_async_orm_for_rust) - [toasty: An async ORM for Rust](https://github.com/tokio-rs/toasty)
@@ -12,7 +13,6 @@
 * [2024-10-25, 22:45:38](https://lobste.rs/s/dkaiix/hardware_repair_elgato_hd60_s_only_worked) - [Hardware repair of an Elgato HD60 S that only worked on Mac](https://www.downtowndougbrown.com/2024/10/hardware-repair-of-an-elgato-hd60-s-that-only-worked-on-mac/)
 * [2024-10-25, 21:42:43](https://lobste.rs/s/bcfn07/swift_foundation_2024_annual_update) - [Swift-Foundation 2024 Annual Update](https://forums.swift.org/t/swift-foundation-2024-annual-update/75609)
 * [2024-10-25, 19:06:57](https://lobste.rs/s/qehdcd/cello_fat_pointer_library) - [Cello •  A Fat Pointer Library](https://libcello.org/learn/a-fat-pointer-library)
-* [2024-10-25, 16:18:54](https://lobste.rs/s/v909qz/project_turntable) - [Project Turntable](https://www.adobe.com/max/2024/sessions/project-turntable-gs3-9.html)
 * [2024-10-25, 14:56:27](https://lobste.rs/s/5xzn4w/deep_dive_into_linux_s_new_mseal_syscall) - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall)
 * [2024-10-25, 14:39:59](https://lobste.rs/s/msrdky/inserting_0_bit_middle_value) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 14:15:53](https://lobste.rs/s/zh4h99/generators_with_unpincell) - [Generators with UnpinCell](https://without.boats/blog/generators-with-unpin-cell/)
