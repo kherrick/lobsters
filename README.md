@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-26, 20:30:03](https://lobste.rs/s/pepihj/transaction_isolation_postgres) - [Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2024-10-26, 20:22:33](https://lobste.rs/s/d0h69f/ode_vim) - [An Ode To Vim](https://bokwoon.com/posts/1khtfep-an-ode-to-vim/)
 * [2024-10-26, 19:30:14](https://lobste.rs/s/es7zl7/libraries_libraries_libraries) - [Libraries Libraries Libraries](https://www.youtube.com/watch?v=47oDSfrttSE)
 * [2024-10-26, 13:24:50](https://lobste.rs/s/ithvwc/thoughts_on_new_digital_feudalism) - [Thoughts on the New Digital Feudalism](https://mhatta.medium.com/thoughts-on-the-new-digital-feudalism-a7a1e7c801b7)
@@ -17,7 +18,6 @@
 * [2024-10-25, 21:42:43](https://lobste.rs/s/bcfn07/swift_foundation_2024_annual_update) - [Swift-Foundation 2024 Annual Update](https://forums.swift.org/t/swift-foundation-2024-annual-update/75609)
 * [2024-10-25, 19:06:57](https://lobste.rs/s/qehdcd/cello_fat_pointer_library) - [Cello •  A Fat Pointer Library](https://libcello.org/learn/a-fat-pointer-library)
 * [2024-10-25, 14:56:27](https://lobste.rs/s/5xzn4w/deep_dive_into_linux_s_new_mseal_syscall) - [A deep dive into Linux’s new mseal syscall](https://blog.trailofbits.com/2024/10/25/a-deep-dive-into-linuxs-new-mseal-syscall)
-* [2024-10-25, 14:39:59](https://lobste.rs/s/msrdky/inserting_0_bit_middle_value) - [Inserting a 0 bit in the middle of a value](https://fgiesen.wordpress.com/2024/10/24/inserting-a-0-bit-in-the-middle-of-a-value/)
 * [2024-10-25, 14:15:53](https://lobste.rs/s/zh4h99/generators_with_unpincell) - [Generators with UnpinCell](https://without.boats/blog/generators-with-unpin-cell/)
 * [2024-10-25, 13:33:33](https://lobste.rs/s/bpqe85/how_make_product_give_shit_about_your) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-25, 12:34:33](https://lobste.rs/s/tbczet/notes_on_anthropic_s_computer_use_ability) - [Notes on Anthropic's Computer Use Ability](https://composio.dev/blog/claude-computer-use)
