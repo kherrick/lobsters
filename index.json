@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-27, 11:02:49",
+      "https://lobste.rs/s/tbcweu/zero_click_internet"
+    ],
+    [
+      "The Zero Click Internet",
+      "https://www.techspot.com/article/2908-the-zero-click-internet/"
+    ]
+  ],
+  [
+    [
       "2024-10-27, 07:41:55",
       "https://lobste.rs/s/2hc4x6/rfc_reconsidering_osi_license_approval"
     ],
@@ -217,16 +227,6 @@
     [
       "Improving SSH's security with SSHFP DNS records (2022)",
       "https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/"
-    ]
-  ],
-  [
-    [
-      "2024-10-25, 11:10:21",
-      "https://lobste.rs/s/g9ob2p/unsafe_rust_is_harder_than_c"
-    ],
-    [
-      "Unsafe Rust Is Harder Than C",
-      "https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/"
     ]
   ],
   [
