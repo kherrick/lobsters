@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 11:02:49](https://lobste.rs/s/tbcweu/zero_click_internet) - [The Zero Click Internet](https://www.techspot.com/article/2908-the-zero-click-internet/)
 * [2024-10-27, 07:41:55](https://lobste.rs/s/2hc4x6/rfc_reconsidering_osi_license_approval) - [[RfC] Reconsidering OSI license approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
 * [2024-10-27, 05:56:48](https://lobste.rs/s/smzr1d/simplifying_bench_kona) - [Simplifying the Bench Kona](https://www.projectgus.com/2024/10/simplifying-bench-kona/)
 * [2024-10-27, 05:54:38](https://lobste.rs/s/ffj9tg/rudimentary_3d_on_2d_html_canvas) - [Rudimentary 3D on the 2D HTML Canvas](https://www.charlespetzold.com/blog/2024/09/Rudimentary-3D-on-the-2D-HTML-Canvas.html)
