@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-27, 19:12:42](https://lobste.rs/s/vqlwj6/mutation_testing_better_than_coverage) - [Mutation Testing Better Than Coverage](https://youtu.be/Ed6Ocs3U1v4)
 * [2024-10-27, 18:50:08](https://lobste.rs/s/utgu08/cloud_native_database_systems) - [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf)
 * [2024-10-27, 17:04:38](https://lobste.rs/s/6htemr/comparison_rust_s_borrow_checker_one_c) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 15:16:48](https://lobste.rs/s/wcndle/this_site_can_t_be_reached_content_still) - [This site can't be reached, but the content still exists somewhere in the cosmos](https://ipfs.io/ipfs/QmcVwBYE7Apg8UyBMpeVV43imEBa4SJ51uENxi6kwLh7te)
@@ -24,7 +25,6 @@
 * [2024-10-26, 09:05:12](https://lobste.rs/s/vr3edl/why_those_particular_integer_multiplies) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 08:12:38](https://lobste.rs/s/htr9ya/eicar_test_file_string_can_trigger_anti) - [EICAR test file: a string that can trigger anti-virus](https://en.wikipedia.org/wiki/EICAR_test_file)
 * [2024-10-26, 06:32:06](https://lobste.rs/s/c1er2d/toward_safe_transmutation_rust) - [Toward safe transmutation in Rust](https://lwn.net/SubscriberLink/994334/5e1f97f08916b494/)
-* [2024-10-26, 04:43:37](https://lobste.rs/s/qihnpz/improving_ssh_s_security_with_sshfp_dns) - [Improving SSH's security with SSHFP DNS records (2022)](https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/)
 
 ## [Archives](archives/index.md)
 
