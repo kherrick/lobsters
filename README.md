@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-27, 03:46:51](https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls) - [Why can't we submit magnet or ipfs URLs?](https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls)
 * [2024-10-27, 01:35:10](https://lobste.rs/s/yuyxk6/thinking_javascript_2017) - [Thinking JavaScript (2017)](https://davidwalsh.name/thinking-javascript)
 * [2024-10-26, 22:50:24](https://lobste.rs/s/tdgmbz/understanding_round_robin_dns) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 22:17:09](https://lobste.rs/s/itnvlj/frosthaven_manager_built_by_community_by) - ['Frosthaven Manager - Built by the Community' by Ben Knoble at (fourteenth RacketCon) is now available](https://youtu.be/O33NK52ZmUk)
@@ -9,7 +10,6 @@
 * [2024-10-26, 13:24:50](https://lobste.rs/s/ithvwc/thoughts_on_new_digital_feudalism) - [Thoughts on the New Digital Feudalism](https://mhatta.medium.com/thoughts-on-the-new-digital-feudalism-a7a1e7c801b7)
 * [2024-10-26, 12:10:35](https://lobste.rs/s/qt65lv/basics) - [The Basics](https://registerspill.thorstenball.com/p/the-basics)
 * [2024-10-26, 10:30:00](https://lobste.rs/s/torty9/nimconf_2024_online_nim_conference) - [NimConf 2024 - online Nim conference](https://conf.nim-lang.org)
-* [2024-10-26, 09:43:55](https://lobste.rs/s/rido1h/asyncorm_async_orm_for_php) - [AsyncOrm: An async ORM for PHP](https://github.com/danog/AsyncOrm)
 * [2024-10-26, 09:36:28](https://lobste.rs/s/l1l5bc/toasty_async_orm_for_rust) - [toasty: An async ORM for Rust](https://github.com/tokio-rs/toasty)
 * [2024-10-26, 09:05:12](https://lobste.rs/s/vr3edl/why_those_particular_integer_multiplies) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 08:12:38](https://lobste.rs/s/htr9ya/eicar_test_file_string_can_trigger_anti) - [EICAR test file: a string that can trigger anti-virus](https://en.wikipedia.org/wiki/EICAR_test_file)
