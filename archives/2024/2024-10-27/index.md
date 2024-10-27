@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-10-27](index.md)
+
+* [2024-10-27, 01:35:10](https://lobste.rs/s/yuyxk6/thinking_javascript_2017) - [Thinking JavaScript (2017)](https://davidwalsh.name/thinking-javascript)
