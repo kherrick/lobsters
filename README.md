@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-27, 05:19:27](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard) - [Robots.txt pitfalls: what I learned the hard way](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard)
 * [2024-10-27, 05:11:10](https://lobste.rs/s/limkks/typeset_html_pre_proces_sor_for_web_ty_pog) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 05:00:41](https://lobste.rs/s/kfv8ri/secure_local_ai_solution_for_tidy_gmail) - [A Secure, Local AI Solution for a Tidy Gmail Inbox](https://spamslaya.com)
 * [2024-10-27, 03:46:51](https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls) - [Why can't we submit magnet or ipfs URLs?](https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls)
@@ -24,7 +25,6 @@
 * [2024-10-25, 11:10:21](https://lobste.rs/s/g9ob2p/unsafe_rust_is_harder_than_c) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
 * [2024-10-25, 10:03:10](https://lobste.rs/s/75n2hy/classic_3d_videogame_shadow_techniques) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
 * [2024-10-25, 09:06:40](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page) - [Is it ok (ethical) to scrape and display full-page content when blog author did not include in it RSS?](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page)
-* [2024-10-25, 05:48:54](https://lobste.rs/s/drulip/desktop_for_all) - [A Desktop for All](https://blogs.gnome.org/adrianvovk/2024/10/25/a-desktop-for-all/)
 
 ## [Archives](archives/index.md)
 
