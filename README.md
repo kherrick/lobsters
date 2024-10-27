@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-27, 14:39:49](https://lobste.rs/s/oqtxv4/unreleased_commodore_hhc_4_s_secret) - [The unreleased Commodore HHC-4's secret identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 14:26:08](https://lobste.rs/s/0bwocp/using_less_memory_look_up_ip_addresses) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
 * [2024-10-27, 11:02:49](https://lobste.rs/s/tbcweu/zero_click_internet) - [The Zero Click Internet](https://www.techspot.com/article/2908-the-zero-click-internet/)
 * [2024-10-27, 05:56:48](https://lobste.rs/s/smzr1d/simplifying_bench_kona) - [Simplifying the Bench Kona](https://www.projectgus.com/2024/10/simplifying-bench-kona/)
@@ -24,7 +25,6 @@
 * [2024-10-26, 05:59:20](https://lobste.rs/s/jy06em/simple_explanation_postgres_timestamp) - [A Simple Explanation of Postgres' Timestamp with Time Zone](https://naildrivin5.com/blog/2024/10/10/a-simple-explanation-of-postgres-timestamp-with-time-zone.html)
 * [2024-10-26, 04:43:37](https://lobste.rs/s/qihnpz/improving_ssh_s_security_with_sshfp_dns) - [Improving SSH's security with SSHFP DNS records (2022)](https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/)
 * [2024-10-25, 10:03:10](https://lobste.rs/s/75n2hy/classic_3d_videogame_shadow_techniques) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
-* [2024-10-25, 09:06:40](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page) - [Is it ok (ethical) to scrape and display full-page content when blog author did not include in it RSS?](https://lobste.rs/s/6bca9e/is_it_ok_ethical_scrape_display_full_page)
 
 ## [Archives](archives/index.md)
 

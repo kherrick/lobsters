@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 14:39:49](https://lobste.rs/s/oqtxv4/unreleased_commodore_hhc_4_s_secret) - [The unreleased Commodore HHC-4's secret identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 14:26:08](https://lobste.rs/s/0bwocp/using_less_memory_look_up_ip_addresses) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
 * [2024-10-27, 11:02:49](https://lobste.rs/s/tbcweu/zero_click_internet) - [The Zero Click Internet](https://www.techspot.com/article/2908-the-zero-click-internet/)
 * [2024-10-27, 07:41:55](https://lobste.rs/s/2hc4x6/rfc_reconsidering_osi_license_approval) - [[RfC] Reconsidering OSI license approval in Terms of Use](https://codeberg.org/Codeberg/Community/issues/1654)
