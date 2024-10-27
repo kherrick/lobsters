@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-27](index.md)
 
+* [2024-10-27, 22:45:20](https://lobste.rs/s/xf2sjp/platform_strategy_its_discontents) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
 * [2024-10-27, 20:43:22](https://lobste.rs/s/uybgwr/unexpected_discovery_automated) - [An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain](https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/)
 * [2024-10-27, 19:55:43](https://lobste.rs/s/9xlvvf/introducing_zizmor_now_you_can_have) - [Introducing zizmor: now you can have beautiful clean workflows](https://blog.yossarian.net/2024/10/27/Now-you-can-have-beautiful-clean-workflows)
 * [2024-10-27, 19:12:42](https://lobste.rs/s/vqlwj6/mutation_testing_better_than_coverage) - [Mutation Testing Better Than Coverage](https://youtu.be/Ed6Ocs3U1v4)
