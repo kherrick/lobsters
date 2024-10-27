@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-27, 05:11:10](https://lobste.rs/s/limkks/typeset_html_pre_proces_sor_for_web_ty_pog) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
+* [2024-10-27, 05:00:41](https://lobste.rs/s/kfv8ri/secure_local_ai_solution_for_tidy_gmail) - [A Secure, Local AI Solution for a Tidy Gmail Inbox](https://spamslaya.com)
 * [2024-10-27, 03:46:51](https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls) - [Why can't we submit magnet or ipfs URLs?](https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls)
 * [2024-10-27, 01:35:10](https://lobste.rs/s/yuyxk6/thinking_javascript_2017) - [Thinking JavaScript (2017)](https://davidwalsh.name/thinking-javascript)
 * [2024-10-26, 22:50:24](https://lobste.rs/s/tdgmbz/understanding_round_robin_dns) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
@@ -17,9 +19,7 @@
 * [2024-10-26, 05:59:20](https://lobste.rs/s/jy06em/simple_explanation_postgres_timestamp) - [A Simple Explanation of Postgres' Timestamp with Time Zone](https://naildrivin5.com/blog/2024/10/10/a-simple-explanation-of-postgres-timestamp-with-time-zone.html)
 * [2024-10-26, 04:43:37](https://lobste.rs/s/qihnpz/improving_ssh_s_security_with_sshfp_dns) - [Improving SSH's security with SSHFP DNS records (2022)](https://blog.apnic.net/2022/12/02/improving-sshs-security-with-sshfp-dns-records/)
 * [2024-10-26, 02:03:09](https://lobste.rs/s/ixwh7h/podman_5_3_changes_for_improved) - [Podman 5.3 changes for improved networking experience with pasta](https://blog.podman.io/2024/10/podman-5-3-changes-for-improved-networking-experience-with-pasta/)
-* [2024-10-25, 19:06:57](https://lobste.rs/s/qehdcd/cello_fat_pointer_library) - [Cello •  A Fat Pointer Library](https://libcello.org/learn/a-fat-pointer-library)
 * [2024-10-25, 14:15:53](https://lobste.rs/s/zh4h99/generators_with_unpincell) - [Generators with UnpinCell](https://without.boats/blog/generators-with-unpin-cell/)
-* [2024-10-25, 13:33:33](https://lobste.rs/s/bpqe85/how_make_product_give_shit_about_your) - [How to make Product give a shit about your architecture proposal](https://gieseanw.wordpress.com/2024/10/09/how-to-make-product-give-a-shit-about-your-architecture-proposal/)
 * [2024-10-25, 12:34:33](https://lobste.rs/s/tbczet/notes_on_anthropic_s_computer_use_ability) - [Notes on Anthropic's Computer Use Ability](https://composio.dev/blog/claude-computer-use)
 * [2024-10-25, 11:10:21](https://lobste.rs/s/g9ob2p/unsafe_rust_is_harder_than_c) - [Unsafe Rust Is Harder Than C](https://chadaustin.me/2024/10/intrusive-linked-list-in-rust/)
 * [2024-10-25, 10:03:10](https://lobste.rs/s/75n2hy/classic_3d_videogame_shadow_techniques) - [Classic 3D videogame shadow techniques](https://30fps.net/pages/videogame-shadows/)
