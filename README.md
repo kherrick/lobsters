@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-27, 19:55:43](https://lobste.rs/s/9xlvvf/introducing_zizmor_now_you_can_have) - [Introducing zizmor: now you can have beautiful clean workflows](https://blog.yossarian.net/2024/10/27/Now-you-can-have-beautiful-clean-workflows)
 * [2024-10-27, 19:12:42](https://lobste.rs/s/vqlwj6/mutation_testing_better_than_coverage) - [Mutation Testing Better Than Coverage](https://youtu.be/Ed6Ocs3U1v4)
 * [2024-10-27, 18:50:08](https://lobste.rs/s/utgu08/cloud_native_database_systems) - [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf)
 * [2024-10-27, 17:04:38](https://lobste.rs/s/6htemr/comparison_rust_s_borrow_checker_one_c) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
@@ -22,7 +23,6 @@
 * [2024-10-26, 12:10:35](https://lobste.rs/s/qt65lv/basics) - [The Basics](https://registerspill.thorstenball.com/p/the-basics)
 * [2024-10-26, 10:30:00](https://lobste.rs/s/torty9/nimconf_2024_online_nim_conference) - [NimConf 2024 - online Nim conference](https://conf.nim-lang.org)
 * [2024-10-26, 09:36:28](https://lobste.rs/s/l1l5bc/toasty_async_orm_for_rust) - [toasty: An async ORM for Rust](https://github.com/tokio-rs/toasty)
-* [2024-10-26, 09:05:12](https://lobste.rs/s/vr3edl/why_those_particular_integer_multiplies) - [Why those particular integer multiplies?](https://fgiesen.wordpress.com/2024/10/26/why-those-particular-integer-multiplies/)
 * [2024-10-26, 08:12:38](https://lobste.rs/s/htr9ya/eicar_test_file_string_can_trigger_anti) - [EICAR test file: a string that can trigger anti-virus](https://en.wikipedia.org/wiki/EICAR_test_file)
 * [2024-10-26, 06:32:06](https://lobste.rs/s/c1er2d/toward_safe_transmutation_rust) - [Toward safe transmutation in Rust](https://lwn.net/SubscriberLink/994334/5e1f97f08916b494/)
 
