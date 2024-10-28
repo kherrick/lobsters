@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 17:44:29](https://lobste.rs/s/9uxxde/supergraph_manifesto) - [The Supergraph Manifesto](https://supergraph.io)
 * [2024-10-28, 17:41:22](https://lobste.rs/s/rnwt2e/using_css_cursor_show_external_link_s) - [Using a CSS cursor to show the external link's favicon](https://shkspr.mobi/blog/2024/10/using-a-css-cursor-to-show-the-external-links-favicon/)
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
 * [2024-10-28, 16:07:31](https://lobste.rs/s/pdhpod/for_sale_used_domain_clean_title) - [For Sale: Used Domain (**Clean Title**)](https://blog.jim-nielsen.com/2024/used-domain-clean-title/)
@@ -24,7 +25,6 @@
 * [2024-10-27, 15:16:48](https://lobste.rs/s/wcndle/this_site_can_t_be_reached_content_still) - [This site can't be reached, but the content still exists somewhere in the cosmos](https://ipfs.io/ipfs/QmcVwBYE7Apg8UyBMpeVV43imEBa4SJ51uENxi6kwLh7te)
 * [2024-10-27, 14:39:49](https://lobste.rs/s/oqtxv4/unreleased_commodore_hhc_4_s_secret) - [The unreleased Commodore HHC-4's secret identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 14:26:08](https://lobste.rs/s/0bwocp/using_less_memory_look_up_ip_addresses) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
-* [2024-10-27, 05:00:41](https://lobste.rs/s/kfv8ri/secure_local_ai_solution_for_tidy_gmail) - [A Secure, Local AI Solution for a Tidy Gmail Inbox](https://spamslaya.com)
 
 ## [Archives](archives/index.md)
 
