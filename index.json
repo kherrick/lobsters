@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-28, 16:52:23",
+      "https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one"
+    ],
+    [
+      "Local web-based notes app inspired by \"One Big Text File\" with webpage downloads",
+      "https://github.com/freetonik/textpod"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 16:23:12",
       "https://lobste.rs/s/ewvlqn/bandwagon"
     ],
@@ -237,16 +247,6 @@
     [
       "A Secure, Local AI Solution for a Tidy Gmail Inbox",
       "https://spamslaya.com"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 20:22:33",
-      "https://lobste.rs/s/d0h69f/ode_vim"
-    ],
-    [
-      "An Ode To Vim",
-      "https://bokwoon.com/posts/1khtfep-an-ode-to-vim/"
     ]
   ]
 ]
