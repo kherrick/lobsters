@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 06:44:53](https://lobste.rs/s/tpvsa4/unit_testing_from_inside_assembler) - [Unit testing from inside an assembler](https://boston.conman.org/2024/10/13.2)
+* [2024-10-28, 06:41:58](https://lobste.rs/s/xgitmt/becoming_physically_immune_brute_force) - [Becoming physically immune to brute-force attacks](https://seirdy.one/posts/2021/01/12/password-strength/)
 * [2024-10-28, 06:20:17](https://lobste.rs/s/kuhlap/openzfs_deduplication_is_good_now_you) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-28, 00:33:38](https://lobste.rs/s/puq8jd/what_s_new_posix_2024_xcu) - [What’s New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
 * [2024-10-27, 22:45:20](https://lobste.rs/s/xf2sjp/platform_strategy_its_discontents) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
@@ -17,14 +19,12 @@
 * [2024-10-27, 05:19:27](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard) - [Robots.txt pitfalls: what I learned the hard way](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard)
 * [2024-10-27, 05:11:10](https://lobste.rs/s/limkks/typeset_html_pre_proces_sor_for_web_ty_pog) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 05:00:41](https://lobste.rs/s/kfv8ri/secure_local_ai_solution_for_tidy_gmail) - [A Secure, Local AI Solution for a Tidy Gmail Inbox](https://spamslaya.com)
-* [2024-10-27, 03:46:51](https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls) - [Why can't we submit magnet or ipfs URLs?](https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls)
 * [2024-10-27, 01:35:10](https://lobste.rs/s/yuyxk6/thinking_javascript_2017) - [Thinking JavaScript (2017)](https://davidwalsh.name/thinking-javascript)
 * [2024-10-26, 22:50:24](https://lobste.rs/s/tdgmbz/understanding_round_robin_dns) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 20:30:03](https://lobste.rs/s/pepihj/transaction_isolation_postgres) - [Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2024-10-26, 20:22:33](https://lobste.rs/s/d0h69f/ode_vim) - [An Ode To Vim](https://bokwoon.com/posts/1khtfep-an-ode-to-vim/)
 * [2024-10-26, 13:24:50](https://lobste.rs/s/ithvwc/thoughts_on_new_digital_feudalism) - [Thoughts on the New Digital Feudalism](https://mhatta.medium.com/thoughts-on-the-new-digital-feudalism-a7a1e7c801b7)
 * [2024-10-26, 12:10:35](https://lobste.rs/s/qt65lv/basics) - [The Basics](https://registerspill.thorstenball.com/p/the-basics)
-* [2024-10-26, 08:12:38](https://lobste.rs/s/htr9ya/eicar_test_file_string_can_trigger_anti) - [EICAR test file: a string that can trigger anti-virus](https://en.wikipedia.org/wiki/EICAR_test_file)
 
 ## [Archives](archives/index.md)
 
