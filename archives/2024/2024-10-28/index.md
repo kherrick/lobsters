@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 17:50:35](https://lobste.rs/s/mbdbe0/open_source_ai_definition_1_0) - [The Open Source AI Definition – 1.0](https://opensource.org/ai/open-source-ai-definition)
 * [2024-10-28, 17:44:29](https://lobste.rs/s/9uxxde/supergraph_manifesto) - [The Supergraph Manifesto](https://supergraph.io)
 * [2024-10-28, 17:41:22](https://lobste.rs/s/rnwt2e/using_css_cursor_show_external_link_s) - [Using a CSS cursor to show the external link's favicon](https://shkspr.mobi/blog/2024/10/using-a-css-cursor-to-show-the-external-links-favicon/)
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 17:50:35](https://lobste.rs/s/mbdbe0/open_source_ai_definition_1_0) - [The Open Source AI Definition – 1.0](https://opensource.org/ai/open-source-ai-definition)
 * [2024-10-28, 17:44:29](https://lobste.rs/s/9uxxde/supergraph_manifesto) - [The Supergraph Manifesto](https://supergraph.io)
 * [2024-10-28, 17:41:22](https://lobste.rs/s/rnwt2e/using_css_cursor_show_external_link_s) - [Using a CSS cursor to show the external link's favicon](https://shkspr.mobi/blog/2024/10/using-a-css-cursor-to-show-the-external-links-favicon/)
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
@@ -19,7 +20,6 @@
 * [2024-10-27, 22:45:20](https://lobste.rs/s/xf2sjp/platform_strategy_its_discontents) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
 * [2024-10-27, 20:43:22](https://lobste.rs/s/uybgwr/unexpected_discovery_automated) - [An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain](https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/)
 * [2024-10-27, 19:55:43](https://lobste.rs/s/9xlvvf/introducing_zizmor_now_you_can_have) - [Introducing zizmor: now you can have beautiful clean workflows](https://blog.yossarian.net/2024/10/27/Now-you-can-have-beautiful-clean-workflows)
-* [2024-10-27, 19:12:42](https://lobste.rs/s/vqlwj6/mutation_testing_better_than_coverage) - [Mutation Testing Better Than Coverage](https://youtu.be/Ed6Ocs3U1v4)
 * [2024-10-27, 18:50:08](https://lobste.rs/s/utgu08/cloud_native_database_systems) - [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf)
 * [2024-10-27, 17:04:38](https://lobste.rs/s/6htemr/comparison_rust_s_borrow_checker_one_c) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 15:16:48](https://lobste.rs/s/wcndle/this_site_can_t_be_reached_content_still) - [This site can't be reached, but the content still exists somewhere in the cosmos](https://ipfs.io/ipfs/QmcVwBYE7Apg8UyBMpeVV43imEBa4SJ51uENxi6kwLh7te)
