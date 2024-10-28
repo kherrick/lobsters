@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 12:13:17](https://lobste.rs/s/rv02sf/pep_750_template_strings_lazy_string) - [PEP 750 – Template Strings: lazy string formatting evaluation](https://pep-previews--4062.org.readthedocs.build/pep-0750/)
+* [2024-10-28, 12:08:06](https://lobste.rs/s/tvme43/bootloader_unlock_wall_shame) - [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 * [2024-10-28, 10:10:36](https://lobste.rs/s/ieqalm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ieqalm/what_are_you_doing_this_week)
 * [2024-10-28, 08:32:04](https://lobste.rs/s/og3qdj/mantis_is_unified_infrastructure_as_code) - [Mantis is a unified infrastructure as code framework that replaces Terraform and Helm](https://github.com/pranil-augur/mantis)
 * [2024-10-28, 07:57:30](https://lobste.rs/s/qkvlhc/how_we_built_object_notifications_tigris) - [How we built object notifications in Tigris](https://www.tigrisdata.com/blog/how-we-built-object-notifications/)
@@ -21,10 +23,8 @@
 * [2024-10-27, 05:19:27](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard) - [Robots.txt pitfalls: what I learned the hard way](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard)
 * [2024-10-27, 05:11:10](https://lobste.rs/s/limkks/typeset_html_pre_proces_sor_for_web_ty_pog) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 05:00:41](https://lobste.rs/s/kfv8ri/secure_local_ai_solution_for_tidy_gmail) - [A Secure, Local AI Solution for a Tidy Gmail Inbox](https://spamslaya.com)
-* [2024-10-26, 22:50:24](https://lobste.rs/s/tdgmbz/understanding_round_robin_dns) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 20:30:03](https://lobste.rs/s/pepihj/transaction_isolation_postgres) - [Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2024-10-26, 20:22:33](https://lobste.rs/s/d0h69f/ode_vim) - [An Ode To Vim](https://bokwoon.com/posts/1khtfep-an-ode-to-vim/)
-* [2024-10-26, 12:10:35](https://lobste.rs/s/qt65lv/basics) - [The Basics](https://registerspill.thorstenball.com/p/the-basics)
 
 ## [Archives](archives/index.md)
 

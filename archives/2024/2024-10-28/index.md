@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 12:13:17](https://lobste.rs/s/rv02sf/pep_750_template_strings_lazy_string) - [PEP 750 – Template Strings: lazy string formatting evaluation](https://pep-previews--4062.org.readthedocs.build/pep-0750/)
+* [2024-10-28, 12:08:06](https://lobste.rs/s/tvme43/bootloader_unlock_wall_shame) - [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 * [2024-10-28, 10:10:36](https://lobste.rs/s/ieqalm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ieqalm/what_are_you_doing_this_week)
 * [2024-10-28, 08:32:04](https://lobste.rs/s/og3qdj/mantis_is_unified_infrastructure_as_code) - [Mantis is a unified infrastructure as code framework that replaces Terraform and Helm](https://github.com/pranil-augur/mantis)
 * [2024-10-28, 07:57:30](https://lobste.rs/s/qkvlhc/how_we_built_object_notifications_tigris) - [How we built object notifications in Tigris](https://www.tigrisdata.com/blog/how-we-built-object-notifications/)
