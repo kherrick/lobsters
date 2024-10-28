@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-28, 06:44:53",
+      "https://lobste.rs/s/tpvsa4/unit_testing_from_inside_assembler"
+    ],
+    [
+      "Unit testing from inside an assembler",
+      "https://boston.conman.org/2024/10/13.2"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 06:41:58",
+      "https://lobste.rs/s/xgitmt/becoming_physically_immune_brute_force"
+    ],
+    [
+      "Becoming physically immune to brute-force attacks",
+      "https://seirdy.one/posts/2021/01/12/password-strength/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 06:20:17",
       "https://lobste.rs/s/kuhlap/openzfs_deduplication_is_good_now_you"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-10-27, 03:46:51",
-      "https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls"
-    ],
-    [
-      "Why can't we submit magnet or ipfs URLs?",
-      "https://lobste.rs/s/liwv8u/why_can_t_we_submit_magnet_ipfs_urls"
-    ]
-  ],
-  [
-    [
       "2024-10-27, 01:35:10",
       "https://lobste.rs/s/yuyxk6/thinking_javascript_2017"
     ],
@@ -237,16 +247,6 @@
     [
       "The Basics",
       "https://registerspill.thorstenball.com/p/the-basics"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 08:12:38",
-      "https://lobste.rs/s/htr9ya/eicar_test_file_string_can_trigger_anti"
-    ],
-    [
-      "EICAR test file: a string that can trigger anti-virus",
-      "https://en.wikipedia.org/wiki/EICAR_test_file"
     ]
   ]
 ]
