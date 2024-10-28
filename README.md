@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 08:32:04](https://lobste.rs/s/og3qdj/mantis_is_unified_infrastructure_as_code) - [Mantis is a unified infrastructure as code framework that replaces Terraform and Helm](https://github.com/pranil-augur/mantis)
 * [2024-10-28, 07:57:30](https://lobste.rs/s/qkvlhc/how_we_built_object_notifications_tigris) - [How we built object notifications in Tigris](https://www.tigrisdata.com/blog/how-we-built-object-notifications/)
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
 * [2024-10-28, 06:44:53](https://lobste.rs/s/tpvsa4/unit_testing_from_inside_assembler) - [Unit testing from inside an assembler](https://boston.conman.org/2024/10/13.2)
@@ -20,7 +21,6 @@
 * [2024-10-27, 05:19:27](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard) - [Robots.txt pitfalls: what I learned the hard way](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard)
 * [2024-10-27, 05:11:10](https://lobste.rs/s/limkks/typeset_html_pre_proces_sor_for_web_ty_pog) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
 * [2024-10-27, 05:00:41](https://lobste.rs/s/kfv8ri/secure_local_ai_solution_for_tidy_gmail) - [A Secure, Local AI Solution for a Tidy Gmail Inbox](https://spamslaya.com)
-* [2024-10-27, 01:35:10](https://lobste.rs/s/yuyxk6/thinking_javascript_2017) - [Thinking JavaScript (2017)](https://davidwalsh.name/thinking-javascript)
 * [2024-10-26, 22:50:24](https://lobste.rs/s/tdgmbz/understanding_round_robin_dns) - [Understanding Round Robin DNS](https://blog.hyperknot.com/p/understanding-round-robin-dns)
 * [2024-10-26, 20:30:03](https://lobste.rs/s/pepihj/transaction_isolation_postgres) - [Transaction Isolation in Postgres, explained](https://www.thenile.dev/blog/transaction-isolation-postgres)
 * [2024-10-26, 20:22:33](https://lobste.rs/s/d0h69f/ode_vim) - [An Ode To Vim](https://bokwoon.com/posts/1khtfep-an-ode-to-vim/)
