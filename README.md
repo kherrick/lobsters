@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 23:27:35](https://lobste.rs/s/1sai2d/assembling_game_boy_game_with_meson) - [Assembling a Game Boy Game with Meson](https://terinstock.com/post/2024/10/Assembling-a-Game-Boy-Game-with-Meson/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
 * [2024-10-28, 20:12:37](https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is) - [Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-10-28, 20:12:34](https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
@@ -23,7 +24,6 @@
 * [2024-10-28, 00:33:38](https://lobste.rs/s/puq8jd/what_s_new_posix_2024_xcu) - [What’s New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
 * [2024-10-27, 20:43:22](https://lobste.rs/s/uybgwr/unexpected_discovery_automated) - [An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain](https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/)
 * [2024-10-27, 19:55:43](https://lobste.rs/s/9xlvvf/introducing_zizmor_now_you_can_have) - [Introducing zizmor: now you can have beautiful clean workflows](https://blog.yossarian.net/2024/10/27/Now-you-can-have-beautiful-clean-workflows)
-* [2024-10-27, 18:50:08](https://lobste.rs/s/utgu08/cloud_native_database_systems) - [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf)
 * [2024-10-27, 17:04:38](https://lobste.rs/s/6htemr/comparison_rust_s_borrow_checker_one_c) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 
 ## [Archives](archives/index.md)
