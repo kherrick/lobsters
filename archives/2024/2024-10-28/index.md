@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 19:51:28](https://lobste.rs/s/ngr8vx/trouble_with_typed_racket_try_contract) - [Trouble with Typed Racket? Try Contract Profile](https://youtu.be/FeDVjomZgmE)
 * [2024-10-28, 18:13:42](https://lobste.rs/s/zhzzjz/elixir_clustering_on_kamal_hetzner) - [Elixir clustering on a Kamal+Hetzner deployment](https://samrat.me/elixir-clustering-on-a-kamal-hetzner-deployment/)
 * [2024-10-28, 18:07:03](https://lobste.rs/s/ba9sn5/does_open_source_ai_really_exist) - [Does Open Source AI really exist?](https://tante.cc/2024/10/16/does-open-source-ai-really-exist/)
 * [2024-10-28, 18:04:49](https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all) - [RTP: One protocol to rule them all](https://paper.wf/binarycat/rtp)
