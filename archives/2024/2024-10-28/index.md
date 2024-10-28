@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 23:53:39](https://lobste.rs/s/pi2o8j/operate_android_device_on_freebsd) - [Operate Android Device on FreeBSD](https://vermaden.wordpress.com/2024/10/29/operate-android-device-on-freebsd/)
 * [2024-10-28, 23:27:35](https://lobste.rs/s/1sai2d/assembling_game_boy_game_with_meson) - [Assembling a Game Boy Game with Meson](https://terinstock.com/post/2024/10/Assembling-a-Game-Boy-Game-with-Meson/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
 * [2024-10-28, 20:12:37](https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is) - [Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)

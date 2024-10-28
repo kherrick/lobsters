@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 23:53:39](https://lobste.rs/s/pi2o8j/operate_android_device_on_freebsd) - [Operate Android Device on FreeBSD](https://vermaden.wordpress.com/2024/10/29/operate-android-device-on-freebsd/)
 * [2024-10-28, 23:27:35](https://lobste.rs/s/1sai2d/assembling_game_boy_game_with_meson) - [Assembling a Game Boy Game with Meson](https://terinstock.com/post/2024/10/Assembling-a-Game-Boy-Game-with-Meson/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
 * [2024-10-28, 20:12:37](https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is) - [Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
@@ -9,7 +10,6 @@
 * [2024-10-28, 18:07:03](https://lobste.rs/s/ba9sn5/does_open_source_ai_really_exist) - [Does Open Source AI really exist?](https://tante.cc/2024/10/16/does-open-source-ai-really-exist/)
 * [2024-10-28, 18:04:49](https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all) - [RTP: One protocol to rule them all](https://paper.wf/binarycat/rtp)
 * [2024-10-28, 18:00:24](https://lobste.rs/s/ybedui/don_t_implement_unification_by_recursion) - [Don’t Implement Unification by Recursion](https://www.philipzucker.com/unify/)
-* [2024-10-28, 17:44:29](https://lobste.rs/s/9uxxde/supergraph_manifesto) - [The Supergraph Manifesto](https://supergraph.io)
 * [2024-10-28, 17:41:22](https://lobste.rs/s/rnwt2e/using_css_cursor_show_external_link_s) - [Using a CSS cursor to show the external link's favicon](https://shkspr.mobi/blog/2024/10/using-a-css-cursor-to-show-the-external-links-favicon/)
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
 * [2024-10-28, 16:07:31](https://lobste.rs/s/pdhpod/for_sale_used_domain_clean_title) - [For Sale: Used Domain (**Clean Title**)](https://blog.jim-nielsen.com/2024/used-domain-clean-title/)
