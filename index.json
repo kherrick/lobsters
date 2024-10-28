@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-28, 20:12:37",
+      "https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is"
+    ],
+    [
+      "Working with stacked branches in Git is easier with --update-refs",
+      "https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/"
+    ]
+  ],
+  [
+    [
+      "2024-10-28, 20:12:34",
+      "https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why"
+    ],
+    [
+      "We're forking Flutter. This is why",
+      "https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 19:51:28",
       "https://lobste.rs/s/ngr8vx/trouble_with_typed_racket_try_contract"
     ],
@@ -47,16 +67,6 @@
     [
       "Don’t Implement Unification by Recursion",
       "https://www.philipzucker.com/unify/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 17:50:35",
-      "https://lobste.rs/s/mbdbe0/open_source_ai_definition_1_0"
-    ],
-    [
-      "The Open Source AI Definition – 1.0",
-      "https://opensource.org/ai/open-source-ai-definition"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "What’s New in POSIX 2024 – XCU",
       "https://blog.toast.cafe/posix2024-xcu"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 22:45:20",
-      "https://lobste.rs/s/xf2sjp/platform_strategy_its_discontents"
-    ],
-    [
-      "Platform Strategy and Its Discontents",
-      "https://infrequently.org/2024/10/platforms-are-competitions/"
     ]
   ],
   [
