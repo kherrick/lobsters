@@ -1,5 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 18:13:42](https://lobste.rs/s/zhzzjz/elixir_clustering_on_kamal_hetzner) - [Elixir clustering on a Kamal+Hetzner deployment](https://samrat.me/elixir-clustering-on-a-kamal-hetzner-deployment/)
+* [2024-10-28, 18:07:03](https://lobste.rs/s/ba9sn5/does_open_source_ai_really_exist) - [Does Open Source AI really exist?](https://tante.cc/2024/10/16/does-open-source-ai-really-exist/)
+* [2024-10-28, 18:04:49](https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all) - [RTP: One protocol to rule them all](https://paper.wf/binarycat/rtp)
+* [2024-10-28, 18:00:24](https://lobste.rs/s/ybedui/don_t_implement_unification_by_recursion) - [Don’t Implement Unification by Recursion](https://www.philipzucker.com/unify/)
 * [2024-10-28, 17:50:35](https://lobste.rs/s/mbdbe0/open_source_ai_definition_1_0) - [The Open Source AI Definition – 1.0](https://opensource.org/ai/open-source-ai-definition)
 * [2024-10-28, 17:44:29](https://lobste.rs/s/9uxxde/supergraph_manifesto) - [The Supergraph Manifesto](https://supergraph.io)
 * [2024-10-28, 17:41:22](https://lobste.rs/s/rnwt2e/using_css_cursor_show_external_link_s) - [Using a CSS cursor to show the external link's favicon](https://shkspr.mobi/blog/2024/10/using-a-css-cursor-to-show-the-external-links-favicon/)
@@ -13,8 +17,6 @@
 * [2024-10-28, 08:32:04](https://lobste.rs/s/og3qdj/mantis_is_unified_infrastructure_as_code) - [Mantis is a unified infrastructure as code framework that replaces Terraform and Helm](https://github.com/pranil-augur/mantis)
 * [2024-10-28, 07:57:30](https://lobste.rs/s/qkvlhc/how_we_built_object_notifications_tigris) - [How we built object notifications in Tigris](https://www.tigrisdata.com/blog/how-we-built-object-notifications/)
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
-* [2024-10-28, 06:44:53](https://lobste.rs/s/tpvsa4/unit_testing_from_inside_assembler) - [Unit testing from inside an assembler](https://boston.conman.org/2024/10/13.2)
-* [2024-10-28, 06:41:58](https://lobste.rs/s/xgitmt/becoming_physically_immune_brute_force) - [Becoming physically immune to brute-force attacks (2021)](https://seirdy.one/posts/2021/01/12/password-strength/)
 * [2024-10-28, 06:20:17](https://lobste.rs/s/kuhlap/openzfs_deduplication_is_good_now_you) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-28, 00:33:38](https://lobste.rs/s/puq8jd/what_s_new_posix_2024_xcu) - [What’s New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
 * [2024-10-27, 22:45:20](https://lobste.rs/s/xf2sjp/platform_strategy_its_discontents) - [Platform Strategy and Its Discontents](https://infrequently.org/2024/10/platforms-are-competitions/)
@@ -23,8 +25,6 @@
 * [2024-10-27, 18:50:08](https://lobste.rs/s/utgu08/cloud_native_database_systems) - [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf)
 * [2024-10-27, 17:04:38](https://lobste.rs/s/6htemr/comparison_rust_s_borrow_checker_one_c) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 * [2024-10-27, 15:16:48](https://lobste.rs/s/wcndle/this_site_can_t_be_reached_content_still) - [This site can't be reached, but the content still exists somewhere in the cosmos](https://ipfs.io/ipfs/QmcVwBYE7Apg8UyBMpeVV43imEBa4SJ51uENxi6kwLh7te)
-* [2024-10-27, 14:39:49](https://lobste.rs/s/oqtxv4/unreleased_commodore_hhc_4_s_secret) - [The unreleased Commodore HHC-4's secret identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
-* [2024-10-27, 14:26:08](https://lobste.rs/s/0bwocp/using_less_memory_look_up_ip_addresses) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
 
 ## [Archives](archives/index.md)
 
