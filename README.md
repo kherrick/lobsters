@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 17:41:22](https://lobste.rs/s/rnwt2e/using_css_cursor_show_external_link_s) - [Using a CSS cursor to show the external link's favicon](https://shkspr.mobi/blog/2024/10/using-a-css-cursor-to-show-the-external-links-favicon/)
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
-* [2024-10-28, 16:23:12](https://lobste.rs/s/ewvlqn/bandwagon) - [The Bandwagon](https://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=1056774)
 * [2024-10-28, 16:07:31](https://lobste.rs/s/pdhpod/for_sale_used_domain_clean_title) - [For Sale: Used Domain (**Clean Title**)](https://blog.jim-nielsen.com/2024/used-domain-clean-title/)
 * [2024-10-28, 16:07:07](https://lobste.rs/s/kif3fc/parallel_test_bundle_convention) - [The parallel test bundle convention](https://brandur.org/fragments/parallel-test-bundle)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
