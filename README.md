@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
 * [2024-10-28, 20:12:37](https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is) - [Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-10-28, 20:12:34](https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 19:51:28](https://lobste.rs/s/ngr8vx/trouble_with_typed_racket_try_contract) - [Trouble with Typed Racket? Try Contract Profile](https://youtu.be/FeDVjomZgmE)
@@ -24,7 +25,6 @@
 * [2024-10-27, 19:55:43](https://lobste.rs/s/9xlvvf/introducing_zizmor_now_you_can_have) - [Introducing zizmor: now you can have beautiful clean workflows](https://blog.yossarian.net/2024/10/27/Now-you-can-have-beautiful-clean-workflows)
 * [2024-10-27, 18:50:08](https://lobste.rs/s/utgu08/cloud_native_database_systems) - [Cloud-Native Database Systems and Unikernels: Reimagining OS Abstractions for Modern Hardware](https://www.vldb.org/pvldb/vol17/p2115-leis.pdf)
 * [2024-10-27, 17:04:38](https://lobste.rs/s/6htemr/comparison_rust_s_borrow_checker_one_c) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
-* [2024-10-27, 15:16:48](https://lobste.rs/s/wcndle/this_site_can_t_be_reached_content_still) - [This site can't be reached, but the content still exists somewhere in the cosmos](https://ipfs.io/ipfs/QmcVwBYE7Apg8UyBMpeVV43imEBa4SJ51uENxi6kwLh7te)
 
 ## [Archives](archives/index.md)
 
