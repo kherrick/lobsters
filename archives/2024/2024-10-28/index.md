@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-28](index.md)
 
+* [2024-10-28, 10:10:36](https://lobste.rs/s/ieqalm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ieqalm/what_are_you_doing_this_week)
 * [2024-10-28, 08:32:04](https://lobste.rs/s/og3qdj/mantis_is_unified_infrastructure_as_code) - [Mantis is a unified infrastructure as code framework that replaces Terraform and Helm](https://github.com/pranil-augur/mantis)
 * [2024-10-28, 07:57:30](https://lobste.rs/s/qkvlhc/how_we_built_object_notifications_tigris) - [How we built object notifications in Tigris](https://www.tigrisdata.com/blog/how-we-built-object-notifications/)
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
