@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-28, 07:57:30](https://lobste.rs/s/qkvlhc/how_we_built_object_notifications_tigris) - [How we built object notifications in Tigris](https://www.tigrisdata.com/blog/how-we-built-object-notifications/)
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
 * [2024-10-28, 06:44:53](https://lobste.rs/s/tpvsa4/unit_testing_from_inside_assembler) - [Unit testing from inside an assembler](https://boston.conman.org/2024/10/13.2)
 * [2024-10-28, 06:41:58](https://lobste.rs/s/xgitmt/becoming_physically_immune_brute_force) - [Becoming physically immune to brute-force attacks](https://seirdy.one/posts/2021/01/12/password-strength/)
@@ -15,7 +16,6 @@
 * [2024-10-27, 14:39:49](https://lobste.rs/s/oqtxv4/unreleased_commodore_hhc_4_s_secret) - [The unreleased Commodore HHC-4's secret identity](http://oldvcr.blogspot.com/2024/10/the-unreleased-commodore-hhc-4s-secret.html)
 * [2024-10-27, 14:26:08](https://lobste.rs/s/0bwocp/using_less_memory_look_up_ip_addresses) - [Using less memory to look up IP addresses in Mess With DNS](https://jvns.ca/blog/2024/10/27/asn-ip-address-memory/)
 * [2024-10-27, 11:02:49](https://lobste.rs/s/tbcweu/zero_click_internet) - [The Zero Click Internet](https://www.techspot.com/article/2908-the-zero-click-internet/)
-* [2024-10-27, 05:56:48](https://lobste.rs/s/smzr1d/simplifying_bench_kona) - [Simplifying the Bench Kona](https://www.projectgus.com/2024/10/simplifying-bench-kona/)
 * [2024-10-27, 05:54:38](https://lobste.rs/s/ffj9tg/rudimentary_3d_on_2d_html_canvas) - [Rudimentary 3D on the 2D HTML Canvas](https://www.charlespetzold.com/blog/2024/09/Rudimentary-3D-on-the-2D-HTML-Canvas.html)
 * [2024-10-27, 05:19:27](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard) - [Robots.txt pitfalls: what I learned the hard way](https://lobste.rs/s/s6zfxg/robots_txt_pitfalls_what_i_learned_hard)
 * [2024-10-27, 05:11:10](https://lobste.rs/s/limkks/typeset_html_pre_proces_sor_for_web_ty_pog) - [Typeset: An HTML pre-proces­sor for web ty­pog­ra­phy](https://typeset.lllllllllllllllll.com/)
