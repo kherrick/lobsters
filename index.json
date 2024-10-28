@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-28, 06:20:17",
+      "https://lobste.rs/s/kuhlap/openzfs_deduplication_is_good_now_you"
+    ],
+    [
+      "OpenZFS deduplication is good now and you shouldn't use it",
+      "https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 00:33:38",
       "https://lobste.rs/s/puq8jd/what_s_new_posix_2024_xcu"
     ],
@@ -187,16 +197,6 @@
     [
       "Understanding Round Robin DNS",
       "https://blog.hyperknot.com/p/understanding-round-robin-dns"
-    ]
-  ],
-  [
-    [
-      "2024-10-26, 22:17:09",
-      "https://lobste.rs/s/itnvlj/frosthaven_manager_built_by_community"
-    ],
-    [
-      "Frosthaven Manager - Built by the Community",
-      "https://youtu.be/O33NK52ZmUk"
     ]
   ],
   [
