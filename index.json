@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-28, 19:51:28",
+      "https://lobste.rs/s/ngr8vx/trouble_with_typed_racket_try_contract"
+    ],
+    [
+      "Trouble with Typed Racket? Try Contract Profile",
+      "https://youtu.be/FeDVjomZgmE"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 18:13:42",
       "https://lobste.rs/s/zhzzjz/elixir_clustering_on_kamal_hetzner"
     ],
@@ -147,16 +157,6 @@
     [
       "Mantis is a unified infrastructure as code framework that replaces Terraform and Helm",
       "https://github.com/pranil-augur/mantis"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 07:57:30",
-      "https://lobste.rs/s/qkvlhc/how_we_built_object_notifications_tigris"
-    ],
-    [
-      "How we built object notifications in Tigris",
-      "https://www.tigrisdata.com/blog/how-we-built-object-notifications/"
     ]
   ],
   [
