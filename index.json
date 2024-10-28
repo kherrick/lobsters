@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-28, 08:32:04",
+      "https://lobste.rs/s/og3qdj/mantis_is_unified_infrastructure_as_code"
+    ],
+    [
+      "Mantis is a unified infrastructure as code framework that replaces Terraform and Helm",
+      "https://github.com/pranil-augur/mantis"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 07:57:30",
       "https://lobste.rs/s/qkvlhc/how_we_built_object_notifications_tigris"
     ],
@@ -197,16 +207,6 @@
     [
       "A Secure, Local AI Solution for a Tidy Gmail Inbox",
       "https://spamslaya.com"
-    ]
-  ],
-  [
-    [
-      "2024-10-27, 01:35:10",
-      "https://lobste.rs/s/yuyxk6/thinking_javascript_2017"
-    ],
-    [
-      "Thinking JavaScript (2017)",
-      "https://davidwalsh.name/thinking-javascript"
     ]
   ],
   [
