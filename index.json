@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-29, 13:22:37",
+      "https://lobste.rs/s/akmeg5/migrating_billions_records_moving_our"
+    ],
+    [
+      "Migrating billions of records: moving our active DNS database while it’s in use",
+      "https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/"
+    ]
+  ],
+  [
+    [
       "2024-10-29, 12:53:06",
       "https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for"
     ],
@@ -57,16 +67,6 @@
     [
       "eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]",
       "https://www.youtube.com/watch?v=Wb_vD3XZYOA"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 08:04:21",
-      "https://lobste.rs/s/kdkb7g/case_study_optimization_weirdly_picked"
-    ],
-    [
-      "Case study: optimization of weirdly picked bad plan",
-      "https://www.depesz.com/2024/10/28/case-study-optimization-of-weirdly-picked-bad-plan/"
     ]
   ],
   [
