@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 23:08:30](https://lobste.rs/s/7tyhmz/rip_botsin_space) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 * [2024-10-29, 19:44:03](https://lobste.rs/s/shpmdr/opt_out_meta_ai_use_your_messages_on) - [Opt-out of Meta AI use your messages on WhatsApp](https://www.facebook.com/help/contact/2503286619871400)
 * [2024-10-29, 19:44:03](https://lobste.rs/s/shpmdr/object_your_information_being_used_for_ai) - [Object to Your Information Being Used for AI at Meta (WhatsApp)](https://www.facebook.com/help/contact/2503286619871400)
 * [2024-10-29, 19:39:47](https://lobste.rs/s/obi5ar/matrix_2_0_is_here) - [Matrix 2.0 is here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/)
