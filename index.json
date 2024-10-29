@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-29, 08:52:49",
+      "https://lobste.rs/s/xi2h8r/ebpf_unlocking_kernel_official"
+    ],
+    [
+      "eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]",
+      "https://www.youtube.com/watch?v=Wb_vD3XZYOA"
+    ]
+  ],
+  [
+    [
       "2024-10-29, 08:04:21",
       "https://lobste.rs/s/kdkb7g/case_study_optimization_weirdly_picked"
     ],
@@ -197,16 +207,6 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/ieqalm/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 08:32:04",
-      "https://lobste.rs/s/og3qdj/mantis_is_unified_infrastructure_as_code"
-    ],
-    [
-      "Mantis is a unified infrastructure as code framework that replaces Terraform and Helm",
-      "https://github.com/pranil-augur/mantis"
     ]
   ],
   [
