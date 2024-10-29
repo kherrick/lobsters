@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 12:41:15](https://lobste.rs/s/htimj0/using_ctid_based_pagination_for_data) - [Using CTID Based Pagination for Data Cleanups in PostgreSQL](https://www.shayon.dev/post/2024/303/using-ctid-based-pagination-for-data-cleanups-in-postgresql/)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 11:05:42](https://lobste.rs/s/dcga0s/let_s_talk_about_rust_with_john_arundel) - [Let's talk about Rust with John Arundel](https://gopodcast.dev/episodes/046-lets-talk-about-rust-with-john-arundel)
 * [2024-10-29, 10:38:34](https://lobste.rs/s/1gngny/how_i_write_code_using_cursor_review) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
@@ -9,7 +10,6 @@
 * [2024-10-29, 07:40:31](https://lobste.rs/s/ci7y7g/avoiding_accidental_downgrade_2fa) - [Avoiding accidental downgrade of 2FA](https://blog.bemyak.net/dev/security/)
 * [2024-10-29, 06:14:20](https://lobste.rs/s/dkr5ri/specifying_serializability_tla) - [Specifying serializability in TLA+](https://surfingcomplexity.blog/2024/10/28/serializability-and-tla/)
 * [2024-10-28, 23:53:39](https://lobste.rs/s/pi2o8j/operate_android_device_on_freebsd) - [Operate Android Device on FreeBSD](https://vermaden.wordpress.com/2024/10/29/operate-android-device-on-freebsd/)
-* [2024-10-28, 23:27:35](https://lobste.rs/s/1sai2d/assembling_game_boy_game_with_meson) - [Assembling a Game Boy Game with Meson](https://terinstock.com/post/2024/10/Assembling-a-Game-Boy-Game-with-Meson/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
 * [2024-10-28, 20:12:37](https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is) - [Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-10-28, 20:12:34](https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
