@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 19:44:03](https://lobste.rs/s/shpmdr/opt_out_meta_ai_use_your_messages_on) - [Opt-out of Meta AI use your messages on WhatsApp](https://www.facebook.com/help/contact/2503286619871400)
 * [2024-10-29, 19:39:47](https://lobste.rs/s/obi5ar/matrix_2_0_is_here) - [Matrix 2.0 is here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/)
 * [2024-10-29, 19:30:22](https://lobste.rs/s/b7b2r0/saltproject_io_moving_all_public_repos) - [Saltproject.io moving all public repos to broadcom.com by end of month](https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/)
 * [2024-10-29, 18:55:00](https://lobste.rs/s/o2vzfr/question_whether_still_allow_http_1_0) - [The question of whether to still allow HTTP/1.0 requests or block them](https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion)
