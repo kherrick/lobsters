@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-29, 18:29:20](https://lobste.rs/s/ahwiub/cve_2024_9632_xorg_x11_server_heap_based) - [CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation vulnerability](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632)
+* [2024-10-29, 18:55:00](https://lobste.rs/s/o2vzfr/question_whether_still_allow_http_1_0) - [The question of whether to still allow HTTP/1.0 requests or block them](https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion)
 * [2024-10-29, 17:09:57](https://lobste.rs/s/xryt9t/un_deprecate_big_my_plea_w3c) - [Un-Deprecate <big>: my plea to the w3c](https://paper.wf/binarycat/un-deprecate-big)
 * [2024-10-29, 15:32:36](https://lobste.rs/s/zuza6m/ransomware_for_haiku) - [Ransomware for Haiku](https://discuss.haiku-os.org/t/ransomware-for-haiku/15766)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
