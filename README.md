@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 08:04:21](https://lobste.rs/s/kdkb7g/case_study_optimization_weirdly_picked) - [Case study: optimization of weirdly picked bad plan](https://www.depesz.com/2024/10/28/case-study-optimization-of-weirdly-picked-bad-plan/)
 * [2024-10-29, 07:40:31](https://lobste.rs/s/ci7y7g/avoiding_accidental_downgrade_2fa) - [Avoiding accidental downgrade of 2FA](https://blog.bemyak.net/dev/security/)
 * [2024-10-29, 06:14:20](https://lobste.rs/s/dkr5ri/specifying_serializability_tla) - [Specifying serializability in TLA+](https://surfingcomplexity.blog/2024/10/28/serializability-and-tla/)
 * [2024-10-28, 23:53:39](https://lobste.rs/s/pi2o8j/operate_android_device_on_freebsd) - [Operate Android Device on FreeBSD](https://vermaden.wordpress.com/2024/10/29/operate-android-device-on-freebsd/)
@@ -23,7 +24,6 @@
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
 * [2024-10-28, 06:20:17](https://lobste.rs/s/kuhlap/openzfs_deduplication_is_good_now_you) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-28, 00:33:38](https://lobste.rs/s/puq8jd/what_s_new_posix_2024_xcu) - [What’s New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
-* [2024-10-27, 20:43:22](https://lobste.rs/s/uybgwr/unexpected_discovery_automated) - [An unexpected discovery: Automated reasoning often makes systems more efficient and easier to maintain](https://aws.amazon.com/blogs/security/an-unexpected-discovery-automated-reasoning-often-makes-systems-more-efficient-and-easier-to-maintain/)
 * [2024-10-27, 17:04:38](https://lobste.rs/s/6htemr/comparison_rust_s_borrow_checker_one_c) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 
 ## [Archives](archives/index.md)
