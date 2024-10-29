@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 11:05:42](https://lobste.rs/s/dcga0s/let_s_talk_about_rust_with_john_arundel) - [Let's talk about Rust with John Arundel](https://gopodcast.dev/episodes/046-lets-talk-about-rust-with-john-arundel)
 * [2024-10-29, 10:38:34](https://lobste.rs/s/1gngny/how_i_write_code_using_cursor_review) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-29, 08:52:49](https://lobste.rs/s/xi2h8r/ebpf_unlocking_kernel_official) - [eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]](https://www.youtube.com/watch?v=Wb_vD3XZYOA)
@@ -24,7 +25,6 @@
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
 * [2024-10-28, 06:20:17](https://lobste.rs/s/kuhlap/openzfs_deduplication_is_good_now_you) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-28, 00:33:38](https://lobste.rs/s/puq8jd/what_s_new_posix_2024_xcu) - [What’s New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
-* [2024-10-27, 17:04:38](https://lobste.rs/s/6htemr/comparison_rust_s_borrow_checker_one_c) - [A comparison of Rust’s borrow checker to the one in C#](https://em-tg.github.io/csborrow/)
 
 ## [Archives](archives/index.md)
 
