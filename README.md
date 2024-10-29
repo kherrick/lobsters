@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
 * [2024-10-29, 12:41:15](https://lobste.rs/s/htimj0/using_ctid_based_pagination_for_data) - [Using CTID Based Pagination for Data Cleanups in PostgreSQL](https://www.shayon.dev/post/2024/303/using-ctid-based-pagination-for-data-cleanups-in-postgresql/)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
-* [2024-10-29, 11:05:42](https://lobste.rs/s/dcga0s/let_s_talk_about_rust_with_john_arundel) - [Let's talk about Rust with John Arundel](https://gopodcast.dev/episodes/046-lets-talk-about-rust-with-john-arundel)
 * [2024-10-29, 10:38:34](https://lobste.rs/s/1gngny/how_i_write_code_using_cursor_review) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-29, 08:52:49](https://lobste.rs/s/xi2h8r/ebpf_unlocking_kernel_official) - [eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]](https://www.youtube.com/watch?v=Wb_vD3XZYOA)
