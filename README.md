@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 18:29:20](https://lobste.rs/s/ahwiub/cve_2024_9632_xorg_x11_server_heap_based) - [CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation vulnerability](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632)
 * [2024-10-29, 17:09:57](https://lobste.rs/s/xryt9t/un_deprecate_big_my_plea_w3c) - [Un-Deprecate <big>: my plea to the w3c](https://paper.wf/binarycat/un-deprecate-big)
 * [2024-10-29, 15:32:36](https://lobste.rs/s/zuza6m/ransomware_for_haiku) - [Ransomware for Haiku](https://discuss.haiku-os.org/t/ransomware-for-haiku/15766)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
@@ -22,7 +23,6 @@
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
 * [2024-10-28, 16:07:31](https://lobste.rs/s/pdhpod/for_sale_used_domain_clean_title) - [For Sale: Used Domain (**Clean Title**)](https://blog.jim-nielsen.com/2024/used-domain-clean-title/)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
-* [2024-10-28, 12:13:17](https://lobste.rs/s/rv02sf/pep_750_template_strings_lazy_string) - [PEP 750 – Template Strings: lazy string formatting evaluation](https://pep-previews--4062.org.readthedocs.build/pep-0750/)
 * [2024-10-28, 12:08:06](https://lobste.rs/s/tvme43/bootloader_unlock_wall_shame) - [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
 
