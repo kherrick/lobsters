@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
 * [2024-10-29, 14:40:16](https://lobste.rs/s/2567fm/ancient_monkey_pwning_17_year_old_version) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
 * [2024-10-29, 13:22:37](https://lobste.rs/s/akmeg5/migrating_billions_records_moving_our) - [Migrating billions of records: moving our active DNS database while it’s in use](https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/)
 * [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
@@ -24,7 +25,6 @@
 * [2024-10-28, 12:13:17](https://lobste.rs/s/rv02sf/pep_750_template_strings_lazy_string) - [PEP 750 – Template Strings: lazy string formatting evaluation](https://pep-previews--4062.org.readthedocs.build/pep-0750/)
 * [2024-10-28, 12:08:06](https://lobste.rs/s/tvme43/bootloader_unlock_wall_shame) - [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
-* [2024-10-28, 06:20:17](https://lobste.rs/s/kuhlap/openzfs_deduplication_is_good_now_you) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 
 ## [Archives](archives/index.md)
 
