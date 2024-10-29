@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 10:38:34](https://lobste.rs/s/1gngny/how_i_write_code_using_cursor_review) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
+* [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-29, 09:37:35](https://lobste.rs/s/8kvwlc/2025_dsf_board_candidates) - [2025 DSF Board Candidates](https://www.djangoproject.com/weblog/2024/oct/28/2025-dsf-board-candidates/)
 * [2024-10-29, 08:52:49](https://lobste.rs/s/xi2h8r/ebpf_unlocking_kernel_official) - [eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]](https://www.youtube.com/watch?v=Wb_vD3XZYOA)
 * [2024-10-29, 08:04:21](https://lobste.rs/s/kdkb7g/case_study_optimization_weirdly_picked) - [Case study: optimization of weirdly picked bad plan](https://www.depesz.com/2024/10/28/case-study-optimization-of-weirdly-picked-bad-plan/)
