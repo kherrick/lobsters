@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 15:32:36](https://lobste.rs/s/zuza6m/ransomware_for_haiku) - [Ransomware for Haiku](https://discuss.haiku-os.org/t/ransomware-for-haiku/15766)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
 * [2024-10-29, 14:40:16](https://lobste.rs/s/2567fm/ancient_monkey_pwning_17_year_old_version) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
 * [2024-10-29, 13:22:37](https://lobste.rs/s/akmeg5/migrating_billions_records_moving_our) - [Migrating billions of records: moving our active DNS database while it’s in use](https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/)
@@ -18,7 +19,6 @@
 * [2024-10-28, 18:13:42](https://lobste.rs/s/zhzzjz/elixir_clustering_on_kamal_hetzner) - [Elixir clustering on a Kamal+Hetzner deployment](https://samrat.me/elixir-clustering-on-a-kamal-hetzner-deployment/)
 * [2024-10-28, 18:04:49](https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all) - [RTP: One protocol to rule them all](https://paper.wf/binarycat/rtp)
 * [2024-10-28, 18:00:24](https://lobste.rs/s/ybedui/don_t_implement_unification_by_recursion) - [Don’t Implement Unification by Recursion](https://www.philipzucker.com/unify/)
-* [2024-10-28, 17:41:22](https://lobste.rs/s/rnwt2e/using_css_cursor_show_external_link_s) - [Using a CSS cursor to show the external link's favicon](https://shkspr.mobi/blog/2024/10/using-a-css-cursor-to-show-the-external-links-favicon/)
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
 * [2024-10-28, 16:07:31](https://lobste.rs/s/pdhpod/for_sale_used_domain_clean_title) - [For Sale: Used Domain (**Clean Title**)](https://blog.jim-nielsen.com/2024/used-domain-clean-title/)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
