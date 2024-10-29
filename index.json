@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-29, 06:14:20",
+      "https://lobste.rs/s/dkr5ri/specifying_serializability_tla"
+    ],
+    [
+      "Specifying serializability in TLA+",
+      "https://surfingcomplexity.blog/2024/10/28/serializability-and-tla/"
+    ]
+  ],
+  [
+    [
       "2024-10-28, 23:53:39",
       "https://lobste.rs/s/pi2o8j/operate_android_device_on_freebsd"
     ],
@@ -87,16 +97,6 @@
     [
       "Don’t Implement Unification by Recursion",
       "https://www.philipzucker.com/unify/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 17:50:35",
-      "https://lobste.rs/s/mbdbe0/open_source_ai_definition_1_0"
-    ],
-    [
-      "The Open Source AI Definition – 1.0",
-      "https://opensource.org/ai/open-source-ai-definition"
     ]
   ],
   [
