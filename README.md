@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 11:05:42](https://lobste.rs/s/dcga0s/let_s_talk_about_rust_with_john_arundel) - [Let's talk about Rust with John Arundel](https://gopodcast.dev/episodes/046-lets-talk-about-rust-with-john-arundel)
 * [2024-10-29, 10:38:34](https://lobste.rs/s/1gngny/how_i_write_code_using_cursor_review) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
@@ -18,7 +19,6 @@
 * [2024-10-28, 17:41:22](https://lobste.rs/s/rnwt2e/using_css_cursor_show_external_link_s) - [Using a CSS cursor to show the external link's favicon](https://shkspr.mobi/blog/2024/10/using-a-css-cursor-to-show-the-external-links-favicon/)
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
 * [2024-10-28, 16:07:31](https://lobste.rs/s/pdhpod/for_sale_used_domain_clean_title) - [For Sale: Used Domain (**Clean Title**)](https://blog.jim-nielsen.com/2024/used-domain-clean-title/)
-* [2024-10-28, 16:07:07](https://lobste.rs/s/kif3fc/parallel_test_bundle_convention) - [The parallel test bundle convention](https://brandur.org/fragments/parallel-test-bundle)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
 * [2024-10-28, 12:13:17](https://lobste.rs/s/rv02sf/pep_750_template_strings_lazy_string) - [PEP 750 – Template Strings: lazy string formatting evaluation](https://pep-previews--4062.org.readthedocs.build/pep-0750/)
 * [2024-10-28, 12:08:06](https://lobste.rs/s/tvme43/bootloader_unlock_wall_shame) - [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
