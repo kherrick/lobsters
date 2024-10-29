@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-29, 19:39:47",
+      "https://lobste.rs/s/obi5ar/matrix_2_0_is_here"
+    ],
+    [
+      "Matrix 2.0 is here",
+      "https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/"
+    ]
+  ],
+  [
+    [
+      "2024-10-29, 19:30:22",
+      "https://lobste.rs/s/b7b2r0/saltproject_io_moving_all_public_repos"
+    ],
+    [
+      "Saltproject.io moving all public repos to broadcom.com by end of month",
+      "https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/"
+    ]
+  ],
+  [
+    [
       "2024-10-29, 18:55:00",
       "https://lobste.rs/s/o2vzfr/question_whether_still_allow_http_1_0"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-10-28, 18:00:24",
-      "https://lobste.rs/s/ybedui/don_t_implement_unification_by_recursion"
-    ],
-    [
-      "Don’t Implement Unification by Recursion",
-      "https://www.philipzucker.com/unify/"
-    ]
-  ],
-  [
-    [
       "2024-10-28, 16:52:23",
       "https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one"
     ],
@@ -237,16 +247,6 @@
     [
       "Bootloader Unlock Wall of Shame",
       "https://github.com/melontini/bootloader-unlock-wall-of-shame"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 07:24:21",
-      "https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool"
-    ],
-    [
-      "SQLite rsync: Database Remote-Copy Tool For SQLite",
-      "https://sqlite.org/rsync.html"
     ]
   ]
 ]
