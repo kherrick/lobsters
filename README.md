@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-29, 08:52:49](https://lobste.rs/s/xi2h8r/ebpf_unlocking_kernel_official) - [eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]](https://www.youtube.com/watch?v=Wb_vD3XZYOA)
 * [2024-10-29, 08:04:21](https://lobste.rs/s/kdkb7g/case_study_optimization_weirdly_picked) - [Case study: optimization of weirdly picked bad plan](https://www.depesz.com/2024/10/28/case-study-optimization-of-weirdly-picked-bad-plan/)
 * [2024-10-29, 07:40:31](https://lobste.rs/s/ci7y7g/avoiding_accidental_downgrade_2fa) - [Avoiding accidental downgrade of 2FA](https://blog.bemyak.net/dev/security/)
 * [2024-10-29, 06:14:20](https://lobste.rs/s/dkr5ri/specifying_serializability_tla) - [Specifying serializability in TLA+](https://surfingcomplexity.blog/2024/10/28/serializability-and-tla/)
@@ -20,7 +21,6 @@
 * [2024-10-28, 12:13:17](https://lobste.rs/s/rv02sf/pep_750_template_strings_lazy_string) - [PEP 750 – Template Strings: lazy string formatting evaluation](https://pep-previews--4062.org.readthedocs.build/pep-0750/)
 * [2024-10-28, 12:08:06](https://lobste.rs/s/tvme43/bootloader_unlock_wall_shame) - [Bootloader Unlock Wall of Shame](https://github.com/melontini/bootloader-unlock-wall-of-shame)
 * [2024-10-28, 10:10:36](https://lobste.rs/s/ieqalm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ieqalm/what_are_you_doing_this_week)
-* [2024-10-28, 08:32:04](https://lobste.rs/s/og3qdj/mantis_is_unified_infrastructure_as_code) - [Mantis is a unified infrastructure as code framework that replaces Terraform and Helm](https://github.com/pranil-augur/mantis)
 * [2024-10-28, 07:24:21](https://lobste.rs/s/xopqmh/sqlite_rsync_database_remote_copy_tool) - [SQLite rsync: Database Remote-Copy Tool For SQLite](https://sqlite.org/rsync.html)
 * [2024-10-28, 06:20:17](https://lobste.rs/s/kuhlap/openzfs_deduplication_is_good_now_you) - [OpenZFS deduplication is good now and you shouldn't use it](https://despairlabs.com/blog/posts/2024-10-27-openzfs-dedup-is-good-dont-use-it/)
 * [2024-10-28, 00:33:38](https://lobste.rs/s/puq8jd/what_s_new_posix_2024_xcu) - [What’s New in POSIX 2024 – XCU](https://blog.toast.cafe/posix2024-xcu)
