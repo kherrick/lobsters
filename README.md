@@ -9,7 +9,6 @@
 * [2024-10-29, 15:32:36](https://lobste.rs/s/zuza6m/ransomware_for_haiku) - [Ransomware for Haiku](https://discuss.haiku-os.org/t/ransomware-for-haiku/15766)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
 * [2024-10-29, 14:40:16](https://lobste.rs/s/2567fm/ancient_monkey_pwning_17_year_old_version) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
-* [2024-10-29, 13:22:37](https://lobste.rs/s/akmeg5/migrating_billions_records_moving_our) - [Migrating billions of records: moving our active DNS database while it’s in use](https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/)
 * [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
 * [2024-10-29, 12:41:15](https://lobste.rs/s/htimj0/using_ctid_based_pagination_for_data) - [Using CTID Based Pagination for Data Cleanups in PostgreSQL](https://www.shayon.dev/post/2024/303/using-ctid-based-pagination-for-data-cleanups-in-postgresql/)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
@@ -24,6 +23,7 @@
 * [2024-10-28, 20:12:34](https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 18:04:49](https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all) - [RTP: One protocol to rule them all](https://paper.wf/binarycat/rtp)
 * [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
+* [2024-10-28, 16:07:31](https://lobste.rs/s/pdhpod/for_sale_used_domain_clean_title) - [For Sale: Used Domain (**Clean Title**)](https://blog.jim-nielsen.com/2024/used-domain-clean-title/)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
 
 ## [Archives](archives/index.md)
