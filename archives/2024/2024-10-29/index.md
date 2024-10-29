@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-29](index.md)
 
+* [2024-10-29, 13:22:37](https://lobste.rs/s/akmeg5/migrating_billions_records_moving_our) - [Migrating billions of records: moving our active DNS database while it’s in use](https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/)
 * [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
 * [2024-10-29, 12:41:15](https://lobste.rs/s/htimj0/using_ctid_based_pagination_for_data) - [Using CTID Based Pagination for Data Cleanups in PostgreSQL](https://www.shayon.dev/post/2024/303/using-ctid-based-pagination-for-data-cleanups-in-postgresql/)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
