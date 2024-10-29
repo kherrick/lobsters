@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-29, 18:29:20",
+      "https://lobste.rs/s/ahwiub/cve_2024_9632_xorg_x11_server_heap_based"
+    ],
+    [
+      "CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation vulnerability",
+      "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632"
+    ]
+  ],
+  [
+    [
       "2024-10-29, 17:09:57",
       "https://lobste.rs/s/xryt9t/un_deprecate_big_my_plea_w3c"
     ],
@@ -217,16 +227,6 @@
     [
       "Jia Tanning Go code",
       "https://www.arp242.net/jia-tan-go.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 12:13:17",
-      "https://lobste.rs/s/rv02sf/pep_750_template_strings_lazy_string"
-    ],
-    [
-      "PEP 750 – Template Strings: lazy string formatting evaluation",
-      "https://pep-previews--4062.org.readthedocs.build/pep-0750/"
     ]
   ],
   [
