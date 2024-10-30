@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
+* [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl) - [Eighteen years of ABI stability (curl)](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
 * [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability) - [Eighteen years of ABI stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
 * [2024-10-30, 09:50:13](https://lobste.rs/s/mdtxbb/code_review_guide) - [Code review guide](https://nondv.wtf/blog/posts/code-review-guide.html)
 * [2024-10-30, 09:22:29](https://lobste.rs/s/icdxs4/1brc_nerd_sniping_java_community) - [1BRC: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)

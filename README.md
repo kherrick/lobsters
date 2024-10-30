@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability) - [Eighteen years of ABI stability](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
+* [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
+* [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl) - [Eighteen years of ABI stability (curl)](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
 * [2024-10-30, 09:50:13](https://lobste.rs/s/mdtxbb/code_review_guide) - [Code review guide](https://nondv.wtf/blog/posts/code-review-guide.html)
 * [2024-10-30, 09:22:29](https://lobste.rs/s/icdxs4/1brc_nerd_sniping_java_community) - [1BRC: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
 * [2024-10-30, 07:46:58](https://lobste.rs/s/yxocgr/using_8k_tv_as_monitor) - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
@@ -21,7 +22,6 @@
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-29, 07:40:31](https://lobste.rs/s/ci7y7g/avoiding_accidental_downgrade_2fa) - [Avoiding accidental downgrade of 2FA](https://blog.bemyak.net/dev/security/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
-* [2024-10-28, 20:12:37](https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is) - [Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-10-28, 20:12:34](https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 18:04:49](https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all) - [RTP: One protocol to rule them all](https://paper.wf/binarycat/rtp)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
