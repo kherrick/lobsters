@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 13:16:04](https://lobste.rs/s/q9mw9e/looking_into_nintendo_alarmo) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 * [2024-10-30, 11:36:51](https://lobste.rs/s/8dyw41/observability_distributed_systems) - [Observability in distributed systems](https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/)
 * [2024-10-30, 11:02:12](https://lobste.rs/s/ll7yvi/port_forwarding_between_your_local) - [Port forwarding between your local machine and Kubernetes](https://metalbear.co/blog/there-and-back-again-port-forwarding-with-mirrord/)
 * [2024-10-30, 10:37:44](https://lobste.rs/s/qecfgg/make_it_ephemeral_software_should_decay) - [Make It Ephemeral: Software Should Decay and Lose Data](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/)

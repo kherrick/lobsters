@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 13:16:04](https://lobste.rs/s/q9mw9e/looking_into_nintendo_alarmo) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 * [2024-10-30, 11:36:51](https://lobste.rs/s/8dyw41/observability_distributed_systems) - [Observability in distributed systems](https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/)
 * [2024-10-30, 11:02:12](https://lobste.rs/s/ll7yvi/port_forwarding_between_your_local) - [Port forwarding between your local machine and Kubernetes](https://metalbear.co/blog/there-and-back-again-port-forwarding-with-mirrord/)
 * [2024-10-30, 10:37:44](https://lobste.rs/s/qecfgg/make_it_ephemeral_software_should_decay) - [Make It Ephemeral: Software Should Decay and Lose Data](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/)
@@ -18,7 +19,6 @@
 * [2024-10-29, 18:55:00](https://lobste.rs/s/o2vzfr/question_whether_still_allow_http_1_0) - [The question of whether to still allow HTTP/1.0 requests or block them](https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion)
 * [2024-10-29, 18:29:20](https://lobste.rs/s/ahwiub/cve_2024_9632_xorg_x11_server_heap_based) - [CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation vulnerability](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632)
 * [2024-10-29, 17:09:57](https://lobste.rs/s/xryt9t/un_deprecate_big_my_plea_w3c) - [Un-Deprecate <big>: my plea to the w3c](https://paper.wf/binarycat/un-deprecate-big)
-* [2024-10-29, 15:32:36](https://lobste.rs/s/zuza6m/ransomware_for_haiku) - [Ransomware for Haiku](https://discuss.haiku-os.org/t/ransomware-for-haiku/15766)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
 * [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
