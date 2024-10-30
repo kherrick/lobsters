@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 14:47:51](https://lobste.rs/s/9zuu5q/wimsey_fast_lightweight_easy_data) - [Wimsey: fast, lightweight and easy data contract library (supporting Pandas, Polars, Arrow + more, via narwhals)](https://benrutter.github.io/wimsey/)
 * [2024-10-30, 14:37:29](https://lobste.rs/s/dtm0vj/malloc_0_realloc_0_0) - [malloc(0) & realloc(…，0) != 0](https://nabijaczleweli.xyz/content/blogn_t/017-malloc0.html)
 * [2024-10-30, 13:16:04](https://lobste.rs/s/q9mw9e/looking_into_nintendo_alarmo) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 * [2024-10-30, 11:36:51](https://lobste.rs/s/8dyw41/observability_distributed_systems) - [Observability in distributed systems](https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/)
@@ -21,7 +22,6 @@
 * [2024-10-29, 18:29:20](https://lobste.rs/s/ahwiub/cve_2024_9632_xorg_x11_server_heap_based) - [CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation vulnerability](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632)
 * [2024-10-29, 17:09:57](https://lobste.rs/s/xryt9t/un_deprecate_big_my_plea_w3c) - [Un-Deprecate <big>: my plea to the w3c](https://paper.wf/binarycat/un-deprecate-big)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
-* [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
