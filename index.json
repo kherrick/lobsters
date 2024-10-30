@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-30, 02:53:41",
+      "https://lobste.rs/s/t9feap/how_compose_javascript_functions_take"
+    ],
+    [
+      "How to compose JavaScript functions that take multiple parameters",
+      "https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 02:30:02",
       "https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued"
     ],
@@ -177,16 +187,6 @@
     [
       "Avoiding accidental downgrade of 2FA",
       "https://blog.bemyak.net/dev/security/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 23:53:39",
-      "https://lobste.rs/s/pi2o8j/operate_android_device_on_freebsd"
-    ],
-    [
-      "Operate Android Device on FreeBSD",
-      "https://vermaden.wordpress.com/2024/10/29/operate-android-device-on-freebsd/"
     ]
   ],
   [
