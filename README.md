@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-30, 02:53:41](https://lobste.rs/s/t9feap/how_compose_javascript_functions_take) - [How to compose JavaScript functions that take multiple parameters](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/)
+* [2024-10-30, 07:15:32](https://lobste.rs/s/wqpkff/ai_flame_graphs) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-30, 02:30:02](https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued) - [Syncthing Android app discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
 * [2024-10-29, 23:08:30](https://lobste.rs/s/7tyhmz/rip_botsin_space) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 * [2024-10-29, 19:44:03](https://lobste.rs/s/shpmdr/object_your_information_being_used_for_ai) - [Object to Your Information Being Used for AI at Meta (WhatsApp)](https://www.facebook.com/help/contact/2503286619871400)
