@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 09:22:29](https://lobste.rs/s/icdxs4/1brc_nerd_sniping_java_community) - [1BRC: Nerd Sniping the Java Community](https://www.infoq.com/presentations/1brc/)
 * [2024-10-30, 07:46:58](https://lobste.rs/s/yxocgr/using_8k_tv_as_monitor) - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 * [2024-10-30, 07:15:32](https://lobste.rs/s/wqpkff/ai_flame_graphs) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-30, 02:30:02](https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued) - [Syncthing Android app discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
@@ -23,7 +24,6 @@
 * [2024-10-28, 20:12:37](https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is) - [Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-10-28, 20:12:34](https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
 * [2024-10-28, 18:04:49](https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all) - [RTP: One protocol to rule them all](https://paper.wf/binarycat/rtp)
-* [2024-10-28, 16:52:23](https://lobste.rs/s/ywfzpb/local_web_based_notes_app_inspired_by_one) - [Local web-based notes app inspired by \"One Big Text File\" with webpage downloads](https://github.com/freetonik/textpod)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
 
 ## [Archives](archives/index.md)
