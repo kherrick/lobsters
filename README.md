@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 02:53:41](https://lobste.rs/s/t9feap/how_compose_javascript_functions_take) - [How to compose JavaScript functions that take multiple parameters](https://jrsinclair.com/articles/2024/how-to-compose-functions-that-take-multiple-parameters-epic-guide/)
 * [2024-10-30, 02:30:02](https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued) - [Syncthing Android app discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
 * [2024-10-29, 23:08:30](https://lobste.rs/s/7tyhmz/rip_botsin_space) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 * [2024-10-29, 19:44:03](https://lobste.rs/s/shpmdr/object_your_information_being_used_for_ai) - [Object to Your Information Being Used for AI at Meta (WhatsApp)](https://www.facebook.com/help/contact/2503286619871400)
@@ -18,7 +19,6 @@
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 * [2024-10-29, 08:52:49](https://lobste.rs/s/xi2h8r/ebpf_unlocking_kernel_official) - [eBPF: Unlocking the Kernel [OFFICIAL DOCUMENTARY]](https://www.youtube.com/watch?v=Wb_vD3XZYOA)
 * [2024-10-29, 07:40:31](https://lobste.rs/s/ci7y7g/avoiding_accidental_downgrade_2fa) - [Avoiding accidental downgrade of 2FA](https://blog.bemyak.net/dev/security/)
-* [2024-10-28, 23:53:39](https://lobste.rs/s/pi2o8j/operate_android_device_on_freebsd) - [Operate Android Device on FreeBSD](https://vermaden.wordpress.com/2024/10/29/operate-android-device-on-freebsd/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
 * [2024-10-28, 20:12:37](https://lobste.rs/s/nc7x89/working_with_stacked_branches_git_is) - [Working with stacked branches in Git is easier with --update-refs](https://andrewlock.net/working-with-stacked-branches-in-git-is-easier-with-update-refs/)
 * [2024-10-28, 20:12:34](https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
