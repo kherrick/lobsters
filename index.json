@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-10-30, 16:52:18",
+      "https://lobste.rs/s/6dsoed/improving_xwayland_window_resizing"
+    ],
+    [
+      "Improving Xwayland window resizing",
+      "https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 15:26:58",
       "https://lobste.rs/s/8b7frl/time_based_retention_strategies"
     ],
@@ -217,16 +227,6 @@
     [
       "The question of whether to still allow HTTP/1.0 requests or block them",
       "https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 15:23:30",
-      "https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images"
-    ],
-    [
-      "You can now run prompts against images, audio and video in your terminal using LLM",
-      "https://simonwillison.net/2024/Oct/29/llm-multi-modal/"
     ]
   ],
   [
