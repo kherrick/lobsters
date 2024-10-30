@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 15:26:58](https://lobste.rs/s/8b7frl/time_based_retention_strategies) - [Time-based retention strategies in Postgres](https://blog.sequinstream.com/time-based-retention-strategies-in-postgres/)
+* [2024-10-30, 15:25:35](https://lobste.rs/s/xpa6zx/generative_ai_programmer) - [Generative AI and the Programmer](https://asthasr.github.io/posts/generative-ai/)
 * [2024-10-30, 14:47:51](https://lobste.rs/s/9zuu5q/wimsey_fast_lightweight_easy_data) - [Wimsey: fast, lightweight and easy data contract library (supporting Pandas, Polars, Arrow + more, via narwhals)](https://benrutter.github.io/wimsey/)
 * [2024-10-30, 14:37:29](https://lobste.rs/s/dtm0vj/malloc_0_realloc_0_0) - [malloc(0) & realloc(…，0) != 0](https://nabijaczleweli.xyz/content/blogn_t/017-malloc0.html)
 * [2024-10-30, 13:16:04](https://lobste.rs/s/q9mw9e/looking_into_nintendo_alarmo) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
