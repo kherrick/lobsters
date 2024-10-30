@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 16:52:18](https://lobste.rs/s/6dsoed/improving_xwayland_window_resizing) - [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 * [2024-10-30, 15:26:58](https://lobste.rs/s/8b7frl/time_based_retention_strategies) - [Time-based retention strategies in Postgres](https://blog.sequinstream.com/time-based-retention-strategies-in-postgres/)
 * [2024-10-30, 15:25:35](https://lobste.rs/s/xpa6zx/generative_ai_programmer) - [Generative AI and the Programmer](https://asthasr.github.io/posts/generative-ai/)
 * [2024-10-30, 14:47:51](https://lobste.rs/s/9zuu5q/wimsey_fast_lightweight_easy_data) - [Wimsey: fast, lightweight and easy data contract library (supporting Pandas, Polars, Arrow + more, via narwhals)](https://benrutter.github.io/wimsey/)
@@ -21,7 +22,6 @@
 * [2024-10-29, 19:30:22](https://lobste.rs/s/b7b2r0/saltproject_io_moving_all_public_repos) - [Saltproject.io moving all public repos to broadcom.com by end of month](https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/)
 * [2024-10-29, 18:55:00](https://lobste.rs/s/o2vzfr/question_whether_still_allow_http_1_0) - [The question of whether to still allow HTTP/1.0 requests or block them](https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion)
 * [2024-10-29, 18:29:20](https://lobste.rs/s/ahwiub/cve_2024_9632_xorg_x11_server_heap_based) - [CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation vulnerability](https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632)
-* [2024-10-29, 17:09:57](https://lobste.rs/s/xryt9t/un_deprecate_big_my_plea_w3c) - [Un-Deprecate <big>: my plea to the w3c](https://paper.wf/binarycat/un-deprecate-big)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
