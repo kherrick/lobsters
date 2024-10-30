@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-30, 22:38:49",
+      "https://lobste.rs/s/oz6uks/thunderbird_for_android_8_0_takes_flight"
+    ],
+    [
+      "Thunderbird for Android 8.0 Takes Flight",
+      "https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 22:17:01",
       "https://lobste.rs/s/d5zpmn/cats_vs_dogs_hdr_gain_map_test"
     ],
@@ -37,6 +47,16 @@
     [
       "Lessons learned from a successful Rust rewrite",
       "https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html"
+    ]
+  ],
+  [
+    [
+      "2024-10-30, 18:52:12",
+      "https://lobste.rs/s/p2yd1a/modus_open_source_serverless_framework"
+    ],
+    [
+      "Modus: an open source, serverless framework for building intelligent functions and APIs, powered by WebAssembly",
+      "https://github.com/hypermodeinc/modus"
     ]
   ],
   [
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-10-30, 10:37:44",
-      "https://lobste.rs/s/qecfgg/make_it_ephemeral_software_should_decay"
-    ],
-    [
-      "Make It Ephemeral: Software Should Decay and Lose Data",
-      "https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 10:28:20",
       "https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring"
     ],
@@ -227,16 +237,6 @@
     [
       "Saltproject.io moving all public repos to broadcom.com by end of month",
       "https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 18:55:00",
-      "https://lobste.rs/s/o2vzfr/question_whether_still_allow_http_1_0"
-    ],
-    [
-      "The question of whether to still allow HTTP/1.0 requests or block them",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion"
     ]
   ],
   [
