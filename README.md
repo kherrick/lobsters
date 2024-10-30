@@ -2,6 +2,7 @@
 
 * [2024-10-30, 11:36:51](https://lobste.rs/s/8dyw41/observability_distributed_systems) - [Observability in distributed systems](https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/)
 * [2024-10-30, 11:02:12](https://lobste.rs/s/ll7yvi/port_forwarding_between_your_local) - [Port forwarding between your local machine and Kubernetes](https://metalbear.co/blog/there-and-back-again-port-forwarding-with-mirrord/)
+* [2024-10-30, 10:37:44](https://lobste.rs/s/qecfgg/make_it_ephemeral_software_should_decay) - [Make It Ephemeral: Software Should Decay and Lose Data](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/)
 * [2024-10-30, 10:28:20](https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl) - [Eighteen years of ABI stability (curl)](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
@@ -22,7 +23,6 @@
 * [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
-* [2024-10-29, 07:40:31](https://lobste.rs/s/ci7y7g/avoiding_accidental_downgrade_2fa) - [Avoiding accidental downgrade of 2FA](https://blog.bemyak.net/dev/security/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
 

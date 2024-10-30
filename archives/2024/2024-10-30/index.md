@@ -6,6 +6,7 @@
 
 * [2024-10-30, 11:36:51](https://lobste.rs/s/8dyw41/observability_distributed_systems) - [Observability in distributed systems](https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/)
 * [2024-10-30, 11:02:12](https://lobste.rs/s/ll7yvi/port_forwarding_between_your_local) - [Port forwarding between your local machine and Kubernetes](https://metalbear.co/blog/there-and-back-again-port-forwarding-with-mirrord/)
+* [2024-10-30, 10:37:44](https://lobste.rs/s/qecfgg/make_it_ephemeral_software_should_decay) - [Make It Ephemeral: Software Should Decay and Lose Data](https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/)
 * [2024-10-30, 10:28:20](https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl) - [Eighteen years of ABI stability (curl)](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
