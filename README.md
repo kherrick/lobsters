@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 07:46:58](https://lobste.rs/s/yxocgr/using_8k_tv_as_monitor) - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 * [2024-10-30, 07:15:32](https://lobste.rs/s/wqpkff/ai_flame_graphs) - [AI Flame Graphs](https://www.brendangregg.com/blog//2024-10-29/ai-flame-graphs.html)
 * [2024-10-30, 02:30:02](https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued) - [Syncthing Android app discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
 * [2024-10-29, 23:08:30](https://lobste.rs/s/7tyhmz/rip_botsin_space) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
@@ -13,7 +14,6 @@
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
 * [2024-10-29, 14:40:16](https://lobste.rs/s/2567fm/ancient_monkey_pwning_17_year_old_version) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
 * [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
-* [2024-10-29, 12:41:15](https://lobste.rs/s/htimj0/using_ctid_based_pagination_for_data) - [Using CTID Based Pagination for Data Cleanups in PostgreSQL](https://www.shayon.dev/post/2024/303/using-ctid-based-pagination-for-data-cleanups-in-postgresql/)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 10:38:34](https://lobste.rs/s/1gngny/how_i_write_code_using_cursor_review) - [How I write code using Cursor: A review](https://www.arguingwithalgorithms.com/posts/cursor-review.html)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
