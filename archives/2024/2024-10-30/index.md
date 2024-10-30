@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
 * [2024-10-30, 22:38:49](https://lobste.rs/s/oz6uks/thunderbird_for_android_8_0_takes_flight) - [Thunderbird for Android 8.0 Takes Flight](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
+* [2024-10-30, 22:38:45](https://lobste.rs/s/7kujjf/first_class_prompt_engineering_with_llm) - [First class Prompt Engineering with llm lang! (This is a bad idea.)](https://youtu.be/ueGC3xVcDlc)
 * [2024-10-30, 22:17:01](https://lobste.rs/s/d5zpmn/cats_vs_dogs_hdr_gain_map_test) - [Cats vs dogs (HDR gain map test)](https://gregbenzphotography.com/hdr-photos/cats-vs-dogs-hdr-gain-map-test/)
 * [2024-10-30, 21:39:50](https://lobste.rs/s/89crxx/designing_software_for_ease_extension) - [Designing Software for Ease of Extension and Contraction (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf)
 * [2024-10-30, 21:12:26](https://lobste.rs/s/6156pi/cisa_cra_pld_some_updates_on_government) - [CISA, CRA, and PLD: some updates on government regulation of open source](https://blog.tidelift.com/cisa-cra-and-pld-updates-on-government-regulation-of-open-source)
