@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-10-30, 10:37:44",
+      "https://lobste.rs/s/qecfgg/make_it_ephemeral_software_should_decay"
+    ],
+    [
+      "Make It Ephemeral: Software Should Decay and Lose Data",
+      "https://lucumr.pocoo.org/2024/10/30/make-it-ephemeral/"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 10:28:20",
       "https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring"
     ],
@@ -217,16 +227,6 @@
     [
       "How we shrunk our Javascript monorepo git size by 94%",
       "https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 07:40:31",
-      "https://lobste.rs/s/ci7y7g/avoiding_accidental_downgrade_2fa"
-    ],
-    [
-      "Avoiding accidental downgrade of 2FA",
-      "https://blog.bemyak.net/dev/security/"
     ]
   ],
   [
