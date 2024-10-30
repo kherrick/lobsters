@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 18:04:34](https://lobste.rs/s/2qj36f/on_crafting_painterly_shaders) - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738)
 * [2024-10-30, 16:52:18](https://lobste.rs/s/6dsoed/improving_xwayland_window_resizing) - [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 * [2024-10-30, 15:26:58](https://lobste.rs/s/8b7frl/time_based_retention_strategies) - [Time-based retention strategies in Postgres](https://blog.sequinstream.com/time-based-retention-strategies-in-postgres/)
 * [2024-10-30, 15:25:35](https://lobste.rs/s/xpa6zx/generative_ai_programmer) - [Generative AI and the Programmer](https://asthasr.github.io/posts/generative-ai/)
