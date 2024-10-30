@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-30, 02:30:02",
+      "https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued"
+    ],
+    [
+      "Syncthing Android app discontinued",
+      "https://forum.syncthing.net/t/discontinuing-syncthing-android/23002"
+    ]
+  ],
+  [
+    [
       "2024-10-29, 23:08:30",
       "https://lobste.rs/s/7tyhmz/rip_botsin_space"
     ],
@@ -97,16 +107,6 @@
     [
       "Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey",
       "https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 13:22:37",
-      "https://lobste.rs/s/akmeg5/migrating_billions_records_moving_our"
-    ],
-    [
-      "Migrating billions of records: moving our active DNS database while it’s in use",
-      "https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/"
     ]
   ],
   [
