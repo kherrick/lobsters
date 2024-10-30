@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 10:28:20](https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl) - [Eighteen years of ABI stability (curl)](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
 * [2024-10-30, 09:50:13](https://lobste.rs/s/mdtxbb/code_review_guide) - [Code review guide](https://nondv.wtf/blog/posts/code-review-guide.html)
@@ -23,7 +24,6 @@
 * [2024-10-29, 07:40:31](https://lobste.rs/s/ci7y7g/avoiding_accidental_downgrade_2fa) - [Avoiding accidental downgrade of 2FA](https://blog.bemyak.net/dev/security/)
 * [2024-10-28, 22:38:44](https://lobste.rs/s/7r4wru/free_open_source_map_world_deployable_as) - [A free and open source map of the world, deployable as a single static file](https://protomaps.com/)
 * [2024-10-28, 20:12:34](https://lobste.rs/s/u6ledj/we_re_forking_flutter_this_is_why) - [We're forking Flutter. This is why](https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/)
-* [2024-10-28, 18:04:49](https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all) - [RTP: One protocol to rule them all](https://paper.wf/binarycat/rtp)
 * [2024-10-28, 16:06:39](https://lobste.rs/s/frfdc8/jia_tanning_go_code) - [Jia Tanning Go code](https://www.arp242.net/jia-tan-go.html)
 
 ## [Archives](archives/index.md)
