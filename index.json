@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-10-30, 09:50:13",
+      "https://lobste.rs/s/mdtxbb/code_review_guide"
+    ],
+    [
+      "Code review guide",
+      "https://nondv.wtf/blog/posts/code-review-guide.html"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 09:22:29",
       "https://lobste.rs/s/icdxs4/1brc_nerd_sniping_java_community"
     ],
@@ -207,16 +217,6 @@
     [
       "The question of whether to still allow HTTP/1.0 requests or block them",
       "https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 18:29:20",
-      "https://lobste.rs/s/ahwiub/cve_2024_9632_xorg_x11_server_heap_based"
-    ],
-    [
-      "CVE-2024-9632 xorg-x11-server: heap-based buffer overflow privilege escalation vulnerability",
-      "https://bugzilla.redhat.com/show_bug.cgi?id=CVE-2024-9632"
     ]
   ],
   [
