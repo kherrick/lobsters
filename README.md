@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 02:30:02](https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued) - [Syncthing Android app discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
 * [2024-10-29, 23:08:30](https://lobste.rs/s/7tyhmz/rip_botsin_space) - [RIP botsin.space](https://muffinlabs.com/posts/2024/10/29/10-29-rip-botsin-space/)
 * [2024-10-29, 19:44:03](https://lobste.rs/s/shpmdr/object_your_information_being_used_for_ai) - [Object to Your Information Being Used for AI at Meta (WhatsApp)](https://www.facebook.com/help/contact/2503286619871400)
 * [2024-10-29, 19:39:47](https://lobste.rs/s/obi5ar/matrix_2_0_is_here) - [Matrix 2.0 is here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/)
@@ -10,7 +11,6 @@
 * [2024-10-29, 15:32:36](https://lobste.rs/s/zuza6m/ransomware_for_haiku) - [Ransomware for Haiku](https://discuss.haiku-os.org/t/ransomware-for-haiku/15766)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
 * [2024-10-29, 14:40:16](https://lobste.rs/s/2567fm/ancient_monkey_pwning_17_year_old_version) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
-* [2024-10-29, 13:22:37](https://lobste.rs/s/akmeg5/migrating_billions_records_moving_our) - [Migrating billions of records: moving our active DNS database while it’s in use](https://blog.cloudflare.com/migrating-billions-of-records-moving-our-active-dns-database-while-in-use/)
 * [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
 * [2024-10-29, 12:41:15](https://lobste.rs/s/htimj0/using_ctid_based_pagination_for_data) - [Using CTID Based Pagination for Data Cleanups in PostgreSQL](https://www.shayon.dev/post/2024/303/using-ctid-based-pagination-for-data-cleanups-in-postgresql/)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
