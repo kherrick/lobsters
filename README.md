@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 22:17:01](https://lobste.rs/s/d5zpmn/cats_vs_dogs_hdr_gain_map_test) - [Cats vs dogs (HDR gain map test)](https://gregbenzphotography.com/hdr-photos/cats-vs-dogs-hdr-gain-map-test/)
 * [2024-10-30, 21:39:50](https://lobste.rs/s/89crxx/designing_software_for_ease_extension) - [Designing Software for Ease of Extension and Contraction (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf)
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
 * [2024-10-30, 18:52:49](https://lobste.rs/s/n6gciw/lessons_learned_from_successful_rust) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
@@ -24,7 +25,6 @@
 * [2024-10-29, 19:30:22](https://lobste.rs/s/b7b2r0/saltproject_io_moving_all_public_repos) - [Saltproject.io moving all public repos to broadcom.com by end of month](https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/)
 * [2024-10-29, 18:55:00](https://lobste.rs/s/o2vzfr/question_whether_still_allow_http_1_0) - [The question of whether to still allow HTTP/1.0 requests or block them](https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
-* [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 
 ## [Archives](archives/index.md)
 
