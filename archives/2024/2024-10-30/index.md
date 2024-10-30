@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 14:37:29](https://lobste.rs/s/dtm0vj/malloc_0_realloc_0_0) - [malloc(0) & realloc(…，0) != 0](https://nabijaczleweli.xyz/content/blogn_t/017-malloc0.html)
 * [2024-10-30, 13:16:04](https://lobste.rs/s/q9mw9e/looking_into_nintendo_alarmo) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 * [2024-10-30, 11:36:51](https://lobste.rs/s/8dyw41/observability_distributed_systems) - [Observability in distributed systems](https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/)
 * [2024-10-30, 11:02:12](https://lobste.rs/s/ll7yvi/port_forwarding_between_your_local) - [Port forwarding between your local machine and Kubernetes](https://metalbear.co/blog/there-and-back-again-port-forwarding-with-mirrord/)
