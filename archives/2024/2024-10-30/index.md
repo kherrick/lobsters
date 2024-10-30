@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 21:12:26](https://lobste.rs/s/6156pi/cisa_cra_pld_some_updates_on_government) - [CISA, CRA, and PLD: some updates on government regulation of open source](https://blog.tidelift.com/cisa-cra-and-pld-updates-on-government-regulation-of-open-source)
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
 * [2024-10-30, 18:52:49](https://lobste.rs/s/n6gciw/lessons_learned_from_successful_rust) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
 * [2024-10-30, 18:04:34](https://lobste.rs/s/2qj36f/on_crafting_painterly_shaders) - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738)
