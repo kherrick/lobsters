@@ -4,6 +4,7 @@
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
 * [2024-10-30, 18:52:49](https://lobste.rs/s/n6gciw/lessons_learned_from_successful_rust) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
 * [2024-10-30, 18:04:34](https://lobste.rs/s/2qj36f/on_crafting_painterly_shaders) - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738)
+* [2024-10-30, 16:52:18](https://lobste.rs/s/6dsoed/improving_xwayland_window_resizing) - [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 * [2024-10-30, 15:26:58](https://lobste.rs/s/8b7frl/time_based_retention_strategies) - [Time-based retention strategies in Postgres](https://blog.sequinstream.com/time-based-retention-strategies-in-postgres/)
 * [2024-10-30, 15:25:35](https://lobste.rs/s/xpa6zx/generative_ai_programmer) - [Generative AI and the Programmer](https://asthasr.github.io/posts/generative-ai/)
 * [2024-10-30, 14:47:51](https://lobste.rs/s/9zuu5q/wimsey_fast_lightweight_easy_data) - [Wimsey: fast, lightweight and easy data contract library (supporting Pandas, Polars, Arrow + more, via narwhals)](https://benrutter.github.io/wimsey/)
@@ -22,7 +23,6 @@
 * [2024-10-29, 19:39:47](https://lobste.rs/s/obi5ar/matrix_2_0_is_here) - [Matrix 2.0 is here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/)
 * [2024-10-29, 19:30:22](https://lobste.rs/s/b7b2r0/saltproject_io_moving_all_public_repos) - [Saltproject.io moving all public repos to broadcom.com by end of month](https://saltproject.io/blog/salt-project-package-repo-migration-and-guidance/)
 * [2024-10-29, 18:55:00](https://lobste.rs/s/o2vzfr/question_whether_still_allow_http_1_0) - [The question of whether to still allow HTTP/1.0 requests or block them](https://utcc.utoronto.ca/~cks/space/blog/web/HTTP10BlockQuestion)
-* [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
 
