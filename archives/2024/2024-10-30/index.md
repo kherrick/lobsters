@@ -4,11 +4,13 @@
 
 ### [Archives](../../index.md) for [2024-10-30](index.md)
 
+* [2024-10-30, 22:38:49](https://lobste.rs/s/oz6uks/thunderbird_for_android_8_0_takes_flight) - [Thunderbird for Android 8.0 Takes Flight](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
 * [2024-10-30, 22:17:01](https://lobste.rs/s/d5zpmn/cats_vs_dogs_hdr_gain_map_test) - [Cats vs dogs (HDR gain map test)](https://gregbenzphotography.com/hdr-photos/cats-vs-dogs-hdr-gain-map-test/)
 * [2024-10-30, 21:39:50](https://lobste.rs/s/89crxx/designing_software_for_ease_extension) - [Designing Software for Ease of Extension and Contraction (1979)](https://courses.cs.washington.edu/courses/cse503/08wi/parnas-1979.pdf)
 * [2024-10-30, 21:12:26](https://lobste.rs/s/6156pi/cisa_cra_pld_some_updates_on_government) - [CISA, CRA, and PLD: some updates on government regulation of open source](https://blog.tidelift.com/cisa-cra-and-pld-updates-on-government-regulation-of-open-source)
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
 * [2024-10-30, 18:52:49](https://lobste.rs/s/n6gciw/lessons_learned_from_successful_rust) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
+* [2024-10-30, 18:52:12](https://lobste.rs/s/p2yd1a/modus_open_source_serverless_framework) - [Modus: an open source, serverless framework for building intelligent functions and APIs, powered by WebAssembly](https://github.com/hypermodeinc/modus)
 * [2024-10-30, 18:04:34](https://lobste.rs/s/2qj36f/on_crafting_painterly_shaders) - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738)
 * [2024-10-30, 16:52:18](https://lobste.rs/s/6dsoed/improving_xwayland_window_resizing) - [Improving Xwayland window resizing](https://blog.vladzahorodnii.com/2024/10/28/improving-xwayland-window-resizing/)
 * [2024-10-30, 15:26:58](https://lobste.rs/s/8b7frl/time_based_retention_strategies) - [Time-based retention strategies in Postgres](https://blog.sequinstream.com/time-based-retention-strategies-in-postgres/)
