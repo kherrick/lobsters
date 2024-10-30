@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-30, 10:28:20",
+      "https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring"
+    ],
+    [
+      "Async Rust is not safe with io_uring",
+      "https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 10:09:57",
       "https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone"
     ],
@@ -227,16 +237,6 @@
     [
       "We're forking Flutter. This is why",
       "https://flutterfoundation.dev/blog/posts/we-are-forking-flutter-this-is-why/"
-    ]
-  ],
-  [
-    [
-      "2024-10-28, 18:04:49",
-      "https://lobste.rs/s/oihsxa/rtp_one_protocol_rule_them_all"
-    ],
-    [
-      "RTP: One protocol to rule them all",
-      "https://paper.wf/binarycat/rtp"
     ]
   ],
   [
