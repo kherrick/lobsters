@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-30, 11:36:51",
+      "https://lobste.rs/s/8dyw41/observability_distributed_systems"
+    ],
+    [
+      "Observability in distributed systems",
+      "https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/"
+    ]
+  ],
+  [
+    [
       "2024-10-30, 11:02:12",
       "https://lobste.rs/s/ll7yvi/port_forwarding_between_your_local"
     ],
@@ -177,16 +187,6 @@
     [
       "You can now run prompts against images, audio and video in your terminal using LLM",
       "https://simonwillison.net/2024/Oct/29/llm-multi-modal/"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 14:40:16",
-      "https://lobste.rs/s/2567fm/ancient_monkey_pwning_17_year_old_version"
-    ],
-    [
-      "Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey",
-      "https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/"
     ]
   ],
   [
