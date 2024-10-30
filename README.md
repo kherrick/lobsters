@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-30, 11:36:51](https://lobste.rs/s/8dyw41/observability_distributed_systems) - [Observability in distributed systems](https://www.superdurszlak.dev/posts/sensors-and-gauges-observability-in-distributed-systems/)
 * [2024-10-30, 11:02:12](https://lobste.rs/s/ll7yvi/port_forwarding_between_your_local) - [Port forwarding between your local machine and Kubernetes](https://metalbear.co/blog/there-and-back-again-port-forwarding-with-mirrord/)
 * [2024-10-30, 10:28:20](https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
@@ -18,7 +19,6 @@
 * [2024-10-29, 17:09:57](https://lobste.rs/s/xryt9t/un_deprecate_big_my_plea_w3c) - [Un-Deprecate <big>: my plea to the w3c](https://paper.wf/binarycat/un-deprecate-big)
 * [2024-10-29, 15:32:36](https://lobste.rs/s/zuza6m/ransomware_for_haiku) - [Ransomware for Haiku](https://discuss.haiku-os.org/t/ransomware-for-haiku/15766)
 * [2024-10-29, 15:23:30](https://lobste.rs/s/kh3iid/you_can_now_run_prompts_against_images) - [You can now run prompts against images, audio and video in your terminal using LLM](https://simonwillison.net/2024/Oct/29/llm-multi-modal/)
-* [2024-10-29, 14:40:16](https://lobste.rs/s/2567fm/ancient_monkey_pwning_17_year_old_version) - [Ancient Monkey: Pwning a 17-Year-Old Version of SpiderMonkey](https://blog.pspaul.de/posts/ancient-monkey-pwning-a-17-year-old-version-of-spidermonkey/)
 * [2024-10-29, 12:53:06](https://lobste.rs/s/lkb3zd/fosdem_2025_presentations_call_for) - [FOSDEM 2025 - Presentations - Call for Participation](https://pretalx.fosdem.org/fosdem-2025/cfp)
 * [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 * [2024-10-29, 10:36:49](https://lobste.rs/s/su8wr7/how_we_shrunk_our_javascript_monorepo_git) - [How we shrunk our Javascript monorepo git size by 94%](https://www.jonathancreamer.com/how-we-shrunk-our-git-repo-size-by-94-percent/)
