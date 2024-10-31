@@ -6,6 +6,7 @@
 * [2024-10-31, 12:40:39](https://lobste.rs/s/glk9rk/hurmet_notebook_for_calculations) - [Hurmet: A notebook for calculations](https://hurmet.org/sample)
 * [2024-10-31, 10:41:00](https://lobste.rs/s/amf9ep/nginx_explorer_file_listing) - [Nginx Explorer - File listing](https://blog.izissise.net/posts/ngxp-listing/)
 * [2024-10-31, 10:05:38](https://lobste.rs/s/ds8raz/simple_shared_email_inbox_for_teams) - [A simple shared email inbox for teams](https://letsjelly.com)
+* [2024-10-31, 09:34:37](https://lobste.rs/s/x6sijx/probability_generating_functions) - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
 * [2024-10-31, 09:17:20](https://lobste.rs/s/ztwoto/how_on_earth_does_1_produce_primes) - [How on Earth does ^.?$|^(..+?)\\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
 * [2024-10-31, 09:05:03](https://lobste.rs/s/mzyfsi/zed_ssh_remoting_is_here) - [Zed - SSH Remoting is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 09:02:02](https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
@@ -23,7 +24,6 @@
 * [2024-10-30, 10:28:20](https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl) - [Eighteen years of ABI stability (curl)](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
-* [2024-10-30, 02:30:02](https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued) - [Syncthing Android app discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
 * [2024-10-29, 19:39:47](https://lobste.rs/s/obi5ar/matrix_2_0_is_here) - [Matrix 2.0 is here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/)
 
 ## [Archives](archives/index.md)
