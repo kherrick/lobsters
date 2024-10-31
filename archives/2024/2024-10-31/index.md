@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
 * [2024-10-31, 12:40:39](https://lobste.rs/s/glk9rk/hurmet_notebook_for_calculations) - [Hurmet: A notebook for calculations](https://hurmet.org/sample)
 * [2024-10-31, 10:41:00](https://lobste.rs/s/amf9ep/nginx_explorer_file_listing) - [Nginx Explorer - File listing](https://blog.izissise.net/posts/ngxp-listing/)
 * [2024-10-31, 10:05:38](https://lobste.rs/s/ds8raz/simple_shared_email_inbox_for_teams) - [A simple shared email inbox for teams](https://letsjelly.com)

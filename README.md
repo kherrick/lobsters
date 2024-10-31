@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
 * [2024-10-31, 12:40:39](https://lobste.rs/s/glk9rk/hurmet_notebook_for_calculations) - [Hurmet: A notebook for calculations](https://hurmet.org/sample)
 * [2024-10-31, 10:41:00](https://lobste.rs/s/amf9ep/nginx_explorer_file_listing) - [Nginx Explorer - File listing](https://blog.izissise.net/posts/ngxp-listing/)
 * [2024-10-31, 10:05:38](https://lobste.rs/s/ds8raz/simple_shared_email_inbox_for_teams) - [A simple shared email inbox for teams](https://letsjelly.com)
@@ -17,7 +18,6 @@
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
 * [2024-10-30, 18:52:49](https://lobste.rs/s/n6gciw/lessons_learned_from_successful_rust) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
 * [2024-10-30, 18:04:34](https://lobste.rs/s/2qj36f/on_crafting_painterly_shaders) - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738)
-* [2024-10-30, 15:25:35](https://lobste.rs/s/xpa6zx/generative_ai_programmer) - [Generative AI and the Programmer](https://asthasr.github.io/posts/generative-ai/)
 * [2024-10-30, 14:37:29](https://lobste.rs/s/dtm0vj/malloc_0_realloc_0_0) - [malloc(0) & realloc(…，0) != 0](https://nabijaczleweli.xyz/content/blogn_t/017-malloc0.html)
 * [2024-10-30, 13:16:04](https://lobste.rs/s/q9mw9e/looking_into_nintendo_alarmo) - [Looking into the Nintendo Alarmo](https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html)
 * [2024-10-30, 10:28:20](https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring) - [Async Rust is not safe with io_uring](https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring)
