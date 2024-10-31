@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-31, 08:19:43](https://lobste.rs/s/wntqnr/running_million_empty_tests) - [Running a million empty tests](https://kodare.net/2024/10/31/a-million-tests.html)
 * [2024-10-31, 08:17:24](https://lobste.rs/s/tdqxdr/dual_nature_events_event_driven) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-31, 03:58:57](https://lobste.rs/s/7vjlxx/going_repling_with_haskeline) - [Going REPLing with Haskeline](https://abhinavsarkar.net/posts/repling-with-haskeline/)
 * [2024-10-31, 01:16:50](https://lobste.rs/s/r1jikh/more_exploration_for_graphical_code) - [More Exploration for a Graphical Code Editor](https://joshleeb.com/posts/status-update-2024-oct.html)
@@ -24,7 +25,6 @@
 * [2024-10-30, 07:46:58](https://lobste.rs/s/yxocgr/using_8k_tv_as_monitor) - [Using an 8K TV as a monitor](https://daniel.lawrence.lu/blog/y2023m12d15/)
 * [2024-10-30, 02:30:02](https://lobste.rs/s/srgwdw/syncthing_android_app_discontinued) - [Syncthing Android app discontinued](https://forum.syncthing.net/t/discontinuing-syncthing-android/23002)
 * [2024-10-29, 19:39:47](https://lobste.rs/s/obi5ar/matrix_2_0_is_here) - [Matrix 2.0 is here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/)
-* [2024-10-29, 11:24:51](https://lobste.rs/s/mf0vnu/one_weird_trick_get_whole_planet_send) - [One weird trick to get the whole planet to send abuse complaints to your best friend(s)](https://delroth.net/posts/spoofed-mass-scan-abuse/)
 
 ## [Archives](archives/index.md)
 
