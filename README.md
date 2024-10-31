@@ -2,7 +2,6 @@
 
 * [2024-10-31, 20:26:19](https://lobste.rs/s/8vb9yh/flip_your_animations) - [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 * [2024-10-31, 19:55:56](https://lobste.rs/s/r4bexm/hotwire_is_boring) - [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
-* [2024-10-31, 19:53:24](https://lobste.rs/s/y1kjrd/zizmor_tool_for_finding_security_issues) - [zizmor — a tool for finding security issues in GitHub Actions setups](https://woodruffw.github.io/zizmor/)
 * [2024-10-31, 19:34:06](https://lobste.rs/s/hs8tih/cramming_solitaire_onto_nintendo_e) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 * [2024-10-31, 18:43:36](https://lobste.rs/s/nvv01w/october_project_goals_update_rust) - [October project goals update (Rust project)](https://blog.rust-lang.org/2024/10/31/project-goals-oct-update.html)
 * [2024-10-31, 18:28:38](https://lobste.rs/s/y55a4j/pony_high_performance_memory_safe_actors) - [Pony: High-Performance, Memory-Safe Actors](https://youtu.be/u9da3UzEhEI)
@@ -10,6 +9,7 @@
 * [2024-10-31, 18:17:23](https://lobste.rs/s/84tpv1/nobody_cares_about_decentralization) - [Nobody cares about decentralization until they do](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
 * [2024-10-31, 17:51:19](https://lobste.rs/s/wzthvy/happy_halloween) - [Happy Halloween](https://functional.cafe/@racketlang/113403293852367446)
 * [2024-10-31, 16:37:42](https://lobste.rs/s/nch3bi/hanging_punctuation_pandoc) - [Hanging Punctuation in Pandoc](https://jez.io/pandoc-hanging-punctuation/)
+* [2024-10-31, 16:22:30](https://lobste.rs/s/9z8xyf/revisiting_outbox_pattern) - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 * [2024-10-31, 16:13:24](https://lobste.rs/s/gl6snl/fuzzing_between_lines_popular_barcode) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 15:28:28](https://lobste.rs/s/pvsrtd/dream_ultimate_os_1995) - [A Dream of an Ultimate OS (1995)](https://okmij.org/ftp/DreamOS.html)
 * [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
