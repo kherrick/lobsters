@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-31, 16:22:30](https://lobste.rs/s/9z8xyf/revisiting_outbox_pattern) - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 * [2024-10-31, 16:13:24](https://lobste.rs/s/gl6snl/fuzzing_between_lines_popular_barcode) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 15:28:28](https://lobste.rs/s/pvsrtd/dream_ultimate_os_1995) - [A Dream of an Ultimate OS (1995)](https://okmij.org/ftp/DreamOS.html)
 * [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
@@ -16,7 +17,6 @@
 * [2024-10-31, 01:16:50](https://lobste.rs/s/r1jikh/more_exploration_for_graphical_code) - [More Exploration for a Graphical Code Editor](https://joshleeb.com/posts/status-update-2024-oct.html)
 * [2024-10-31, 01:05:13](https://lobste.rs/s/ejov4u/how_this_blog_does_indieweb) - [How This Blog Does IndieWeb](https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/)
 * [2024-10-30, 22:38:49](https://lobste.rs/s/oz6uks/thunderbird_for_android_8_0_takes_flight) - [Thunderbird for Android 8.0 Takes Flight](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
-* [2024-10-30, 22:17:01](https://lobste.rs/s/d5zpmn/cats_vs_dogs_hdr_gain_map_test) - [Cats vs dogs (HDR gain map test)](https://gregbenzphotography.com/hdr-photos/cats-vs-dogs-hdr-gain-map-test/)
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
 * [2024-10-30, 18:52:49](https://lobste.rs/s/n6gciw/lessons_learned_from_successful_rust) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
 * [2024-10-30, 18:04:34](https://lobste.rs/s/2qj36f/on_crafting_painterly_shaders) - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738)
