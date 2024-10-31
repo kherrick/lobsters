@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-31, 18:43:36](https://lobste.rs/s/nvv01w/october_project_goals_update_rust) - [October project goals update (Rust project)](https://blog.rust-lang.org/2024/10/31/project-goals-oct-update.html)
 * [2024-10-31, 18:28:38](https://lobste.rs/s/y55a4j/pony_high_performance_memory_safe_actors) - [Pony: High-Performance, Memory-Safe Actors](https://youtu.be/u9da3UzEhEI)
 * [2024-10-31, 18:18:06](https://lobste.rs/s/vp7w95/edit_your_git_based_grafana_dashboards) - [Edit your Git-based Grafana dashboards locally](https://grafana.com/blog/2024/10/29/edit-your-git-based-grafana-dashboards-locally/)
 * [2024-10-31, 18:17:23](https://lobste.rs/s/84tpv1/nobody_cares_about_decentralization) - [Nobody cares about decentralization until they do](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
@@ -24,7 +25,6 @@
 * [2024-10-30, 18:04:34](https://lobste.rs/s/2qj36f/on_crafting_painterly_shaders) - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 * [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl) - [Eighteen years of ABI stability (curl)](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
-* [2024-10-29, 19:39:47](https://lobste.rs/s/obi5ar/matrix_2_0_is_here) - [Matrix 2.0 is here](https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/)
 
 ## [Archives](archives/index.md)
 
