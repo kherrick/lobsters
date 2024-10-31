@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 22:37:08](https://lobste.rs/s/p9nfl6/sorted_collections_rebellion) - [Sorted Collections in Rebellion](https://youtu.be/-eLw9vpcKI8)
 * [2024-10-31, 20:26:19](https://lobste.rs/s/8vb9yh/flip_your_animations) - [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 * [2024-10-31, 19:55:56](https://lobste.rs/s/r4bexm/hotwire_is_boring) - [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
 * [2024-10-31, 19:53:24](https://lobste.rs/s/y1kjrd/zizmor_tool_for_finding_security_issues) - [zizmor — a tool for finding security issues in GitHub Actions setups](https://woodruffw.github.io/zizmor/)
