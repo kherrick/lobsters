@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-31, 17:51:19](https://lobste.rs/s/wzthvy/happy_halloween) - [Happy Halloween](https://functional.cafe/@racketlang/113403293852367446)
 * [2024-10-31, 16:37:42](https://lobste.rs/s/nch3bi/hanging_punctuation_pandoc) - [Hanging Punctuation in Pandoc](https://jez.io/pandoc-hanging-punctuation/)
 * [2024-10-31, 16:22:30](https://lobste.rs/s/9z8xyf/revisiting_outbox_pattern) - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 * [2024-10-31, 16:13:24](https://lobste.rs/s/gl6snl/fuzzing_between_lines_popular_barcode) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
@@ -13,7 +14,6 @@
 * [2024-10-31, 09:02:02](https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-31, 08:19:43](https://lobste.rs/s/wntqnr/running_million_empty_tests) - [Running a million empty tests](https://kodare.net/2024/10/31/a-million-tests.html)
 * [2024-10-31, 08:17:24](https://lobste.rs/s/tdqxdr/dual_nature_events_event_driven) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
-* [2024-10-31, 03:58:57](https://lobste.rs/s/7vjlxx/going_repling_with_haskeline) - [Going REPLing with Haskeline](https://abhinavsarkar.net/posts/repling-with-haskeline/)
 * [2024-10-31, 01:16:50](https://lobste.rs/s/r1jikh/more_exploration_for_graphical_code) - [More Exploration for a Graphical Code Editor](https://joshleeb.com/posts/status-update-2024-oct.html)
 * [2024-10-31, 01:05:13](https://lobste.rs/s/ejov4u/how_this_blog_does_indieweb) - [How This Blog Does IndieWeb](https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/)
 * [2024-10-30, 22:38:49](https://lobste.rs/s/oz6uks/thunderbird_for_android_8_0_takes_flight) - [Thunderbird for Android 8.0 Takes Flight](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)

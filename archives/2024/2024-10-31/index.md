@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 17:51:19](https://lobste.rs/s/wzthvy/happy_halloween) - [Happy Halloween](https://functional.cafe/@racketlang/113403293852367446)
 * [2024-10-31, 16:37:42](https://lobste.rs/s/nch3bi/hanging_punctuation_pandoc) - [Hanging Punctuation in Pandoc](https://jez.io/pandoc-hanging-punctuation/)
 * [2024-10-31, 16:22:30](https://lobste.rs/s/9z8xyf/revisiting_outbox_pattern) - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
 * [2024-10-31, 16:13:24](https://lobste.rs/s/gl6snl/fuzzing_between_lines_popular_barcode) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
