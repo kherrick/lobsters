@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-10-31, 19:55:56",
+      "https://lobste.rs/s/r4bexm/hotwire_is_boring"
+    ],
+    [
+      "Hotwire is... boring",
+      "https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 19:53:24",
+      "https://lobste.rs/s/y1kjrd/zizmor_tool_for_finding_security_issues"
+    ],
+    [
+      "zizmor — a tool for finding security issues in GitHub Actions setups",
+      "https://woodruffw.github.io/zizmor/"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 19:34:06",
       "https://lobste.rs/s/hs8tih/cramming_solitaire_onto_nintendo_e"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-10-31, 09:34:37",
-      "https://lobste.rs/s/x6sijx/probability_generating_functions"
-    ],
-    [
-      "Probability-Generating Functions",
-      "https://entropicthoughts.com/probability-generating-functions"
-    ]
-  ],
-  [
-    [
       "2024-10-31, 09:17:20",
       "https://lobste.rs/s/ztwoto/how_on_earth_does_1_produce_primes"
     ],
@@ -237,16 +247,6 @@
     [
       "Australia/Lord_Howe is the weirdest timezone",
       "https://ssoready.com/blog/engineering/truths-programmers-timezones/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 09:57:24",
-      "https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl"
-    ],
-    [
-      "Eighteen years of ABI stability (curl)",
-      "https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/"
     ]
   ]
 ]
