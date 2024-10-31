@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-10-31, 19:55:56](https://lobste.rs/s/r4bexm/hotwire_is_boring) - [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
+* [2024-10-31, 19:53:24](https://lobste.rs/s/y1kjrd/zizmor_tool_for_finding_security_issues) - [zizmor — a tool for finding security issues in GitHub Actions setups](https://woodruffw.github.io/zizmor/)
 * [2024-10-31, 19:34:06](https://lobste.rs/s/hs8tih/cramming_solitaire_onto_nintendo_e) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
 * [2024-10-31, 18:43:36](https://lobste.rs/s/nvv01w/october_project_goals_update_rust) - [October project goals update (Rust project)](https://blog.rust-lang.org/2024/10/31/project-goals-oct-update.html)
 * [2024-10-31, 18:28:38](https://lobste.rs/s/y55a4j/pony_high_performance_memory_safe_actors) - [Pony: High-Performance, Memory-Safe Actors](https://youtu.be/u9da3UzEhEI)
@@ -12,7 +14,6 @@
 * [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
 * [2024-10-31, 12:40:39](https://lobste.rs/s/glk9rk/hurmet_notebook_for_calculations) - [Hurmet: A notebook for calculations](https://hurmet.org/sample)
 * [2024-10-31, 10:41:00](https://lobste.rs/s/amf9ep/nginx_explorer_file_listing) - [Nginx Explorer - File listing](https://blog.izissise.net/posts/ngxp-listing/)
-* [2024-10-31, 09:34:37](https://lobste.rs/s/x6sijx/probability_generating_functions) - [Probability-Generating Functions](https://entropicthoughts.com/probability-generating-functions)
 * [2024-10-31, 09:17:20](https://lobste.rs/s/ztwoto/how_on_earth_does_1_produce_primes) - [How on Earth does ^.?$|^(..+?)\\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
 * [2024-10-31, 09:05:03](https://lobste.rs/s/mzyfsi/zed_ssh_remoting_is_here) - [Zed - SSH Remoting is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 09:02:02](https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
@@ -24,7 +25,6 @@
 * [2024-10-30, 18:52:49](https://lobste.rs/s/n6gciw/lessons_learned_from_successful_rust) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
 * [2024-10-30, 18:04:34](https://lobste.rs/s/2qj36f/on_crafting_painterly_shaders) - [On Crafting Painterly Shaders](https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
-* [2024-10-30, 09:57:24](https://lobste.rs/s/b1m6t5/eighteen_years_abi_stability_curl) - [Eighteen years of ABI stability (curl)](https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/)
 
 ## [Archives](archives/index.md)
 
