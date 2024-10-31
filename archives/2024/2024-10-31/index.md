@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 20:26:19](https://lobste.rs/s/8vb9yh/flip_your_animations) - [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 * [2024-10-31, 19:55:56](https://lobste.rs/s/r4bexm/hotwire_is_boring) - [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
 * [2024-10-31, 19:53:24](https://lobste.rs/s/y1kjrd/zizmor_tool_for_finding_security_issues) - [zizmor — a tool for finding security issues in GitHub Actions setups](https://woodruffw.github.io/zizmor/)
 * [2024-10-31, 19:34:06](https://lobste.rs/s/hs8tih/cramming_solitaire_onto_nintendo_e) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
