@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-10-31, 18:43:36",
+      "https://lobste.rs/s/nvv01w/october_project_goals_update_rust"
+    ],
+    [
+      "October project goals update (Rust project)",
+      "https://blog.rust-lang.org/2024/10/31/project-goals-oct-update.html"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 18:28:38",
       "https://lobste.rs/s/y55a4j/pony_high_performance_memory_safe_actors"
     ],
@@ -237,16 +247,6 @@
     [
       "Eighteen years of ABI stability (curl)",
       "https://daniel.haxx.se/blog/2024/10/30/eighteen-years-of-abi-stability/"
-    ]
-  ],
-  [
-    [
-      "2024-10-29, 19:39:47",
-      "https://lobste.rs/s/obi5ar/matrix_2_0_is_here"
-    ],
-    [
-      "Matrix 2.0 is here",
-      "https://matrix.org/blog/2024/10/29/matrix-2.0-is-here/"
     ]
   ]
 ]
