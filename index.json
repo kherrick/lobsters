@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-10-31, 18:28:38",
+      "https://lobste.rs/s/y55a4j/pony_high_performance_memory_safe_actors"
+    ],
+    [
+      "Pony: High-Performance, Memory-Safe Actors",
+      "https://youtu.be/u9da3UzEhEI"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 18:18:06",
+      "https://lobste.rs/s/vp7w95/edit_your_git_based_grafana_dashboards"
+    ],
+    [
+      "Edit your Git-based Grafana dashboards locally",
+      "https://grafana.com/blog/2024/10/29/edit-your-git-based-grafana-dashboards-locally/"
+    ]
+  ],
+  [
+    [
+      "2024-10-31, 18:17:23",
+      "https://lobste.rs/s/84tpv1/nobody_cares_about_decentralization"
+    ],
+    [
+      "Nobody cares about decentralization until they do",
+      "https://kyefox.com/nobody-cares-about-decentralization-until-they-do/"
+    ]
+  ],
+  [
+    [
       "2024-10-31, 17:51:19",
       "https://lobste.rs/s/wzthvy/happy_halloween"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2024-10-31, 01:05:13",
-      "https://lobste.rs/s/ejov4u/how_this_blog_does_indieweb"
-    ],
-    [
-      "How This Blog Does IndieWeb",
-      "https://www.jeremykun.com/2024/10/30/how-this-blog-does-indieweb/"
-    ]
-  ],
-  [
-    [
       "2024-10-30, 22:38:49",
       "https://lobste.rs/s/oz6uks/thunderbird_for_android_8_0_takes_flight"
     ],
@@ -197,26 +217,6 @@
     [
       "On Crafting Painterly Shaders",
       "https://blog.maximeheckel.com/posts/on-crafting-painterly-shaders/?ck_subscriber_id=2669647738"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 13:16:04",
-      "https://lobste.rs/s/q9mw9e/looking_into_nintendo_alarmo"
-    ],
-    [
-      "Looking into the Nintendo Alarmo",
-      "https://garyodernichts.blogspot.com/2024/10/looking-into-nintendo-alarmo.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 10:28:20",
-      "https://lobste.rs/s/zsei7d/async_rust_is_not_safe_with_io_uring"
-    ],
-    [
-      "Async Rust is not safe with io_uring",
-      "https://tonbo.io/blog/async-rust-is-not-safe-with-io-uring"
     ]
   ],
   [
