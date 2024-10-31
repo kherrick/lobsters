@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 23:19:12](https://lobste.rs/s/cluugi/everyone_is_wrong_about_slack_flowchart) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 * [2024-10-31, 22:37:08](https://lobste.rs/s/p9nfl6/sorted_collections_rebellion) - [Sorted Collections in Rebellion](https://youtu.be/-eLw9vpcKI8)
 * [2024-10-31, 20:26:19](https://lobste.rs/s/8vb9yh/flip_your_animations) - [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 * [2024-10-31, 19:55:56](https://lobste.rs/s/r4bexm/hotwire_is_boring) - [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
