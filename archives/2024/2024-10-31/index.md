@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-10-31](index.md)
 
+* [2024-10-31, 18:28:38](https://lobste.rs/s/y55a4j/pony_high_performance_memory_safe_actors) - [Pony: High-Performance, Memory-Safe Actors](https://youtu.be/u9da3UzEhEI)
+* [2024-10-31, 18:18:06](https://lobste.rs/s/vp7w95/edit_your_git_based_grafana_dashboards) - [Edit your Git-based Grafana dashboards locally](https://grafana.com/blog/2024/10/29/edit-your-git-based-grafana-dashboards-locally/)
+* [2024-10-31, 18:17:23](https://lobste.rs/s/84tpv1/nobody_cares_about_decentralization) - [Nobody cares about decentralization until they do](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
 * [2024-10-31, 17:51:19](https://lobste.rs/s/wzthvy/happy_halloween) - [Happy Halloween](https://functional.cafe/@racketlang/113403293852367446)
 * [2024-10-31, 16:37:42](https://lobste.rs/s/nch3bi/hanging_punctuation_pandoc) - [Hanging Punctuation in Pandoc](https://jez.io/pandoc-hanging-punctuation/)
 * [2024-10-31, 16:22:30](https://lobste.rs/s/9z8xyf/revisiting_outbox_pattern) - [Revisiting the Outbox Pattern](https://www.decodable.co/blog/revisiting-the-outbox-pattern)
