@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 16:22:07](https://lobste.rs/s/rvmrs6/separation_concerns_bug_tracker) - [Separation of concerns in a bug tracker](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/)
 * [2024-11-01, 15:34:02](https://lobste.rs/s/vbknxm/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 8 of 11](https://pvs-studio.com/en/blog/posts/cpp/1178/)
 * [2024-11-01, 15:05:06](https://lobste.rs/s/zfikeo/announcing_fedora_41) - [Announcing Fedora 41](https://www.redhat.com/en/blog/announcing-fedora-41)
 * [2024-11-01, 13:01:25](https://lobste.rs/s/uf5dj7/activitybot_single_file_php_activity_pub) - [ActivityBot - single file PHP activity pub bot server](https://gitlab.com/edent/activity-bot/)
