@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-01, 15:05:06](https://lobste.rs/s/zfikeo/announcing_fedora_41) - [Announcing Fedora 41](https://www.redhat.com/en/blog/announcing-fedora-41)
 * [2024-11-01, 13:01:25](https://lobste.rs/s/uf5dj7/activitybot_single_file_php_activity_pub) - [ActivityBot - single file PHP activity pub bot server](https://gitlab.com/edent/activity-bot/)
 * [2024-11-01, 12:41:33](https://lobste.rs/s/ft797a/why_zellij) - [Why Zellij?](https://poor.dev/blog/why-zellij/)
 * [2024-11-01, 12:33:36](https://lobste.rs/s/5iiqji/texture_less_text_rendering) - [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
@@ -22,7 +23,6 @@
 * [2024-10-31, 15:28:28](https://lobste.rs/s/pvsrtd/dream_ultimate_os_1995) - [A Dream of an Ultimate OS (1995)](https://okmij.org/ftp/DreamOS.html)
 * [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
 * [2024-10-31, 12:40:39](https://lobste.rs/s/glk9rk/hurmet_notebook_for_calculations) - [Hurmet: A notebook for calculations](https://hurmet.org/sample)
-* [2024-10-31, 09:17:20](https://lobste.rs/s/ztwoto/how_on_earth_does_1_produce_primes) - [How on Earth does ^.?$|^(..+?)\\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
 * [2024-10-31, 09:05:03](https://lobste.rs/s/mzyfsi/zed_ssh_remoting_is_here) - [Zed - SSH Remoting is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 09:02:02](https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 
