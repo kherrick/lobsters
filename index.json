@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-01, 13:01:25",
+      "https://lobste.rs/s/uf5dj7/activitybot_single_file_php_activity_pub"
+    ],
+    [
+      "ActivityBot - single file PHP activity pub bot server",
+      "https://gitlab.com/edent/activity-bot/"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 12:41:33",
       "https://lobste.rs/s/ft797a/why_zellij"
     ],
@@ -157,16 +167,6 @@
     [
       "October project goals update (Rust project)",
       "https://blog.rust-lang.org/2024/10/31/project-goals-oct-update.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 18:28:38",
-      "https://lobste.rs/s/y55a4j/pony_high_performance_memory_safe_actors"
-    ],
-    [
-      "Pony: High-Performance, Memory-Safe Actors",
-      "https://youtu.be/u9da3UzEhEI"
     ]
   ],
   [
