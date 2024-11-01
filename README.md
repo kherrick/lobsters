@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-01, 21:12:59](https://lobste.rs/s/shj2pt/tls_1_3_hybrid_key_exchange_using) - [TLS 1.3 Hybrid Key Exchange using X25519Kyber768 / ML-KEM](https://www.netmeister.org/blog/tls-hybrid-kex.html)
 * [2024-11-01, 20:40:28](https://lobste.rs/s/y8yqe5/val_town_town_can_we_implement_val_town_on) - [Val Town Town - Can we implement Val Town on Val Town?](https://blog.val.town/blog/val-town-town/)
+* [2024-11-01, 20:04:28](https://lobste.rs/s/eezuto/unicode_codepoints_expand_contract_when) - [Unicode codepoints that expand or contract when case is changed in UTF-8](https://gist.github.com/rendello/d37552507a389656e248f3255a618127)
 * [2024-11-01, 19:35:08](https://lobste.rs/s/zxvwjk/crapl_academic_strength_open_source) - [The CRAPL: An academic-strength open source license](https://matt.might.net/articles/crapl/)
 * [2024-11-01, 19:25:25](https://lobste.rs/s/yb4tcn/this_development_cycle_cargo_1_83) - [This Development-cycle in Cargo: 1.83](https://blog.rust-lang.org/inside-rust/2024/10/31/this-development-cycle-in-cargo-1.83.html)
 * [2024-11-01, 18:48:16](https://lobste.rs/s/rlkltp/duckdb_over_pandas_polars) - [DuckDB over Pandas/Polars](https://pgrs.net/2024/11/01/duckdb-over-pandas-polars/)
