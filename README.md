@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-01, 08:44:08](https://lobste.rs/s/6nb4h8/introducing_chatgpt_search) - [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
+* [2024-11-01, 09:38:31](https://lobste.rs/s/1cdhus/cil_c_intermediate_language) - [cil: C Intermediate Language](https://github.com/goblint/cil)
 * [2024-11-01, 07:28:21](https://lobste.rs/s/yn684a/iso_iec_9899_2024) - [ISO/IEC 9899:2024](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 06:57:30](https://lobste.rs/s/3o4pi4/porting_ioquake3_from_sdl2_sdl3) - [Porting ioquake3 from SDL2 to SDL3](https://www.youtube.com/watch?v=i3yVqWYFbCE)
 * [2024-11-01, 06:26:02](https://lobste.rs/s/gvsbef/what_is_point_online_conference) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
