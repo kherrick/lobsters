@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-01, 10:57:40",
+      "https://lobste.rs/s/zoq0bv/seeing_like_programmer_resiliency"
+    ],
+    [
+      "Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards",
+      "https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 10:32:58",
       "https://lobste.rs/s/ye0eqf/what_are_you_doing_this_weekend"
     ],
@@ -237,16 +247,6 @@
     [
       "the death of the architect",
       "https://explaining.software/archive/the-death-of-the-architect/"
-    ]
-  ],
-  [
-    [
-      "2024-10-30, 10:09:57",
-      "https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone"
-    ],
-    [
-      "Australia/Lord_Howe is the weirdest timezone",
-      "https://ssoready.com/blog/engineering/truths-programmers-timezones/"
     ]
   ]
 ]
