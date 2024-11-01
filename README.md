@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-01, 20:04:28](https://lobste.rs/s/eezuto/unicode_codepoints_expand_contract_when) - [Unicode codepoints that expand or contract when case is changed in UTF-8](https://gist.github.com/rendello/d37552507a389656e248f3255a618127)
-* [2024-11-01, 20:03:30](https://lobste.rs/s/nv4apv/sets_types_type_checking) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
+* [2024-11-01, 20:40:28](https://lobste.rs/s/y8yqe5/val_town_town_can_we_implement_val_town_on) - [Val Town Town - Can we implement Val Town on Val Town?](https://blog.val.town/blog/val-town-town/)
 * [2024-11-01, 19:35:08](https://lobste.rs/s/zxvwjk/crapl_academic_strength_open_source) - [The CRAPL: An academic-strength open source license](https://matt.might.net/articles/crapl/)
 * [2024-11-01, 19:25:25](https://lobste.rs/s/yb4tcn/this_development_cycle_cargo_1_83) - [This Development-cycle in Cargo: 1.83](https://blog.rust-lang.org/inside-rust/2024/10/31/this-development-cycle-in-cargo-1.83.html)
 * [2024-11-01, 18:48:16](https://lobste.rs/s/rlkltp/duckdb_over_pandas_polars) - [DuckDB over Pandas/Polars](https://pgrs.net/2024/11/01/duckdb-over-pandas-polars/)
@@ -18,6 +17,7 @@
 * [2024-11-01, 07:28:21](https://lobste.rs/s/yn684a/iso_iec_9899_2024) - [ISO/IEC 9899:2024](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 06:57:30](https://lobste.rs/s/3o4pi4/porting_ioquake3_from_sdl2_sdl3) - [Porting ioquake3 from SDL2 to SDL3](https://www.youtube.com/watch?v=i3yVqWYFbCE)
 * [2024-11-01, 06:26:02](https://lobste.rs/s/gvsbef/what_is_point_online_conference) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
+* [2024-11-01, 06:24:57](https://lobste.rs/s/y7uxxy/purity_is_great_for_collaboration) - [Purity is Great for Collaboration](https://mccd.space/posts/purity/)
 * [2024-11-01, 03:52:24](https://lobste.rs/s/xdyvkv/seven_obscure_languages_seven_weeks) - [Seven Obscure Languages in Seven Weeks](https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/)
 * [2024-11-01, 00:26:51](https://lobste.rs/s/mcwgkx/checking_linearizability_go) - [Checking linearizability in Go](https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html)
 * [2024-10-31, 23:19:12](https://lobste.rs/s/cluugi/everyone_is_wrong_about_slack_flowchart) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
