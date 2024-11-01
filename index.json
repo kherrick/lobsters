@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-11-01, 18:43:24",
+      "https://lobste.rs/s/cnszft/migrating_place_from_postgresql_mysql"
+    ],
+    [
+      "Migrating in-place from PostgreSQL to MySQL",
+      "https://engineeringblog.yelp.com/2024/10/migrating-from-postgres-to-mysql.html"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 16:22:07",
       "https://lobste.rs/s/rvmrs6/separation_concerns_bug_tracker"
     ],
@@ -217,16 +227,6 @@
     [
       "Nobody cares about decentralization until they do",
       "https://kyefox.com/nobody-cares-about-decentralization-until-they-do/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 14:30:43",
-      "https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal"
-    ],
-    [
-      "ASCII control characters in my terminal",
-      "https://jvns.ca/blog/2024/10/31/ascii-control-characters/"
     ]
   ],
   [
