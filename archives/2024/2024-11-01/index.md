@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 13:01:25](https://lobste.rs/s/uf5dj7/activitybot_single_file_php_activity_pub) - [ActivityBot - single file PHP activity pub bot server](https://gitlab.com/edent/activity-bot/)
 * [2024-11-01, 12:41:33](https://lobste.rs/s/ft797a/why_zellij) - [Why Zellij?](https://poor.dev/blog/why-zellij/)
 * [2024-11-01, 12:33:36](https://lobste.rs/s/5iiqji/texture_less_text_rendering) - [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
 * [2024-11-01, 10:57:40](https://lobste.rs/s/zoq0bv/seeing_like_programmer_resiliency) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
