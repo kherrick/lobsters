@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-01, 15:34:02](https://lobste.rs/s/vbknxm/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 8 of 11](https://pvs-studio.com/en/blog/posts/cpp/1178/)
+* [2024-11-01, 15:05:06](https://lobste.rs/s/zfikeo/announcing_fedora_41) - [Announcing Fedora 41](https://www.redhat.com/en/blog/announcing-fedora-41)
 * [2024-11-01, 13:01:25](https://lobste.rs/s/uf5dj7/activitybot_single_file_php_activity_pub) - [ActivityBot - single file PHP activity pub bot server](https://gitlab.com/edent/activity-bot/)
 * [2024-11-01, 12:41:33](https://lobste.rs/s/ft797a/why_zellij) - [Why Zellij?](https://poor.dev/blog/why-zellij/)
 * [2024-11-01, 12:33:36](https://lobste.rs/s/5iiqji/texture_less_text_rendering) - [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
