@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-01, 07:28:21](https://lobste.rs/s/yn684a/iso_iec_9899_2024) - [ISO/IEC 9899:2024](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 06:57:30](https://lobste.rs/s/3o4pi4/porting_ioquake3_from_sdl2_sdl3) - [Porting ioquake3 from SDL2 to SDL3](https://www.youtube.com/watch?v=i3yVqWYFbCE)
 * [2024-11-01, 06:26:02](https://lobste.rs/s/gvsbef/what_is_point_online_conference) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:52:24](https://lobste.rs/s/xdyvkv/seven_obscure_languages_seven_weeks) - [Seven Obscure Languages in Seven Weeks](https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/)
@@ -13,7 +14,6 @@
 * [2024-10-31, 18:28:38](https://lobste.rs/s/y55a4j/pony_high_performance_memory_safe_actors) - [Pony: High-Performance, Memory-Safe Actors](https://youtu.be/u9da3UzEhEI)
 * [2024-10-31, 18:17:23](https://lobste.rs/s/84tpv1/nobody_cares_about_decentralization) - [Nobody cares about decentralization until they do](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
 * [2024-10-31, 16:37:42](https://lobste.rs/s/nch3bi/hanging_punctuation_pandoc) - [Hanging Punctuation in Pandoc](https://jez.io/pandoc-hanging-punctuation/)
-* [2024-10-31, 16:13:24](https://lobste.rs/s/gl6snl/fuzzing_between_lines_popular_barcode) - [Fuzzing between the lines in popular barcode software](https://blog.trailofbits.com/2024/10/31/fuzzing-between-the-lines-in-popular-barcode-software/)
 * [2024-10-31, 15:28:28](https://lobste.rs/s/pvsrtd/dream_ultimate_os_1995) - [A Dream of an Ultimate OS (1995)](https://okmij.org/ftp/DreamOS.html)
 * [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
 * [2024-10-31, 12:40:39](https://lobste.rs/s/glk9rk/hurmet_notebook_for_calculations) - [Hurmet: A notebook for calculations](https://hurmet.org/sample)
