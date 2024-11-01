@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-10-31, 23:19:12](https://lobste.rs/s/cluugi/everyone_is_wrong_about_slack_flowchart) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
-* [2024-10-31, 22:37:08](https://lobste.rs/s/p9nfl6/sorted_collections_rebellion) - [Sorted Collections in Rebellion](https://youtu.be/-eLw9vpcKI8)
+* [2024-11-01, 00:26:51](https://lobste.rs/s/mcwgkx/checking_linearizability_go) - [Checking linearizability in Go](https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html)
+* [2024-11-01, 00:22:47](https://lobste.rs/s/ggdana/control_characters_ascii_unicode) - [Control characters in ASCII and Unicode](https://www.aivosto.com/articles/control-characters.html)
 * [2024-10-31, 20:26:19](https://lobste.rs/s/8vb9yh/flip_your_animations) - [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/)
 * [2024-10-31, 19:55:56](https://lobste.rs/s/r4bexm/hotwire_is_boring) - [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
 * [2024-10-31, 19:34:06](https://lobste.rs/s/hs8tih/cramming_solitaire_onto_nintendo_e) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
