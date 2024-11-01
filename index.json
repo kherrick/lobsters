@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-01, 20:04:28",
+      "https://lobste.rs/s/eezuto/unicode_codepoints_expand_contract_when"
+    ],
+    [
+      "Unicode codepoints that expand or contract when case is changed in UTF-8",
+      "https://gist.github.com/rendello/d37552507a389656e248f3255a618127"
+    ]
+  ],
+  [
+    [
+      "2024-11-01, 20:03:30",
+      "https://lobste.rs/s/nv4apv/sets_types_type_checking"
+    ],
+    [
+      "Sets, types and type checking",
+      "https://kaleidawave.github.io/posts/sets-types-and-type-checking/"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 19:35:08",
       "https://lobste.rs/s/zxvwjk/crapl_academic_strength_open_source"
     ],
@@ -51,6 +71,16 @@
   ],
   [
     [
+      "2024-11-01, 15:30:04",
+      "https://lobste.rs/s/04ln5x/why_pascal_deserves_second_look"
+    ],
+    [
+      "Why Pascal Deserves a Second Look",
+      "https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 15:05:06",
       "https://lobste.rs/s/zfikeo/announcing_fedora_41"
     ],
@@ -87,16 +117,6 @@
     [
       "Texture-less Text Rendering",
       "https://poniesandlight.co.uk/reflect/debug_print_text/"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 10:57:40",
-      "https://lobste.rs/s/zoq0bv/seeing_like_programmer_resiliency"
-    ],
-    [
-      "Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards",
-      "https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-11-01, 06:24:57",
-      "https://lobste.rs/s/y7uxxy/purity_is_great_for_collaboration"
-    ],
-    [
-      "Purity is Great for Collaboration",
-      "https://mccd.space/posts/purity/"
-    ]
-  ],
-  [
-    [
       "2024-11-01, 03:52:24",
       "https://lobste.rs/s/xdyvkv/seven_obscure_languages_seven_weeks"
     ],
@@ -207,16 +217,6 @@
     [
       "Hotwire is... boring",
       "https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 19:34:06",
-      "https://lobste.rs/s/hs8tih/cramming_solitaire_onto_nintendo_e"
-    ],
-    [
-      "Cramming Solitaire onto a Nintendo E-Reader card",
-      "https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/"
     ]
   ],
   [
