@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-01, 10:57:40](https://lobste.rs/s/zoq0bv/seeing_like_programmer_resiliency) - [Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards](https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/)
 * [2024-11-01, 10:32:58](https://lobste.rs/s/ye0eqf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ye0eqf/what_are_you_doing_this_weekend)
 * [2024-11-01, 09:58:34](https://lobste.rs/s/harycy/rewrite_it_rails) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-11-01, 09:38:31](https://lobste.rs/s/1cdhus/cil_c_intermediate_language) - [cil: C Intermediate Language](https://github.com/goblint/cil)
@@ -24,7 +25,6 @@
 * [2024-10-31, 09:05:03](https://lobste.rs/s/mzyfsi/zed_ssh_remoting_is_here) - [Zed - SSH Remoting is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 09:02:02](https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
-* [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
 
 ## [Archives](archives/index.md)
 
