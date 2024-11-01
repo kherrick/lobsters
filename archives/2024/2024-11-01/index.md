@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 18:48:16](https://lobste.rs/s/rlkltp/duckdb_over_pandas_polars) - [DuckDB over Pandas/Polars](https://pgrs.net/2024/11/01/duckdb-over-pandas-polars/)
+* [2024-11-01, 18:43:24](https://lobste.rs/s/cnszft/migrating_place_from_postgresql_mysql) - [Migrating in-place from PostgreSQL to MySQL](https://engineeringblog.yelp.com/2024/10/migrating-from-postgres-to-mysql.html)
 * [2024-11-01, 18:10:34](https://lobste.rs/s/xp6cky/anti_cheat_attacks_effectiveness_client) - [Anti-Cheat: Attacks and the Effectiveness of Client-Side Defences](https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf)
 * [2024-11-01, 18:03:35](https://lobste.rs/s/jusnnn/conditional_class_names_using_dom) - [Conditional class names using DOM attributes as state](https://www.simeongriggs.dev/tailwindcss-conditional-class-names-the-right-way)
 * [2024-11-01, 16:22:07](https://lobste.rs/s/rvmrs6/separation_concerns_bug_tracker) - [Separation of concerns in a bug tracker](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/)
