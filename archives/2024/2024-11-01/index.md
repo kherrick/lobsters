@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 18:10:34](https://lobste.rs/s/xp6cky/anti_cheat_attacks_effectiveness_client) - [Anti-Cheat: Attacks and the Effectiveness of Client-Side Defences](https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf)
+* [2024-11-01, 18:03:35](https://lobste.rs/s/jusnnn/conditional_class_names_using_dom) - [Conditional class names using DOM attributes as state](https://www.simeongriggs.dev/tailwindcss-conditional-class-names-the-right-way)
 * [2024-11-01, 16:22:07](https://lobste.rs/s/rvmrs6/separation_concerns_bug_tracker) - [Separation of concerns in a bug tracker](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/)
 * [2024-11-01, 15:34:02](https://lobste.rs/s/vbknxm/c_programmer_s_guide_undefined_behavior) - [C++ programmer′s guide to undefined behavior: part 8 of 11](https://pvs-studio.com/en/blog/posts/cpp/1178/)
 * [2024-11-01, 15:05:06](https://lobste.rs/s/zfikeo/announcing_fedora_41) - [Announcing Fedora 41](https://www.redhat.com/en/blog/announcing-fedora-41)

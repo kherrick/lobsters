@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-01, 18:10:34](https://lobste.rs/s/xp6cky/anti_cheat_attacks_effectiveness_client) - [Anti-Cheat: Attacks and the Effectiveness of Client-Side Defences](https://www.cs.bham.ac.uk/%7Etpc/Papers/AntiCheat2024.pdf)
+* [2024-11-01, 18:03:35](https://lobste.rs/s/jusnnn/conditional_class_names_using_dom) - [Conditional class names using DOM attributes as state](https://www.simeongriggs.dev/tailwindcss-conditional-class-names-the-right-way)
 * [2024-11-01, 16:22:07](https://lobste.rs/s/rvmrs6/separation_concerns_bug_tracker) - [Separation of concerns in a bug tracker](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/)
 * [2024-11-01, 15:05:06](https://lobste.rs/s/zfikeo/announcing_fedora_41) - [Announcing Fedora 41](https://www.redhat.com/en/blog/announcing-fedora-41)
 * [2024-11-01, 13:01:25](https://lobste.rs/s/uf5dj7/activitybot_single_file_php_activity_pub) - [ActivityBot - single file PHP activity pub bot server](https://gitlab.com/edent/activity-bot/)
@@ -18,10 +20,8 @@
 * [2024-10-31, 23:19:12](https://lobste.rs/s/cluugi/everyone_is_wrong_about_slack_flowchart) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 * [2024-10-31, 19:55:56](https://lobste.rs/s/r4bexm/hotwire_is_boring) - [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
 * [2024-10-31, 19:34:06](https://lobste.rs/s/hs8tih/cramming_solitaire_onto_nintendo_e) - [Cramming Solitaire onto a Nintendo E-Reader card](https://mattgreer.dev/blog/cramming-solitaire-onto-a-nintendo-ereader-card/)
-* [2024-10-31, 18:43:36](https://lobste.rs/s/nvv01w/october_project_goals_update_rust) - [October project goals update (Rust project)](https://blog.rust-lang.org/2024/10/31/project-goals-oct-update.html)
 * [2024-10-31, 18:17:23](https://lobste.rs/s/84tpv1/nobody_cares_about_decentralization) - [Nobody cares about decentralization until they do](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
 * [2024-10-31, 16:37:42](https://lobste.rs/s/nch3bi/hanging_punctuation_pandoc) - [Hanging Punctuation in Pandoc](https://jez.io/pandoc-hanging-punctuation/)
-* [2024-10-31, 15:28:28](https://lobste.rs/s/pvsrtd/dream_ultimate_os_1995) - [A Dream of an Ultimate OS (1995)](https://okmij.org/ftp/DreamOS.html)
 * [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
 * [2024-10-31, 12:40:39](https://lobste.rs/s/glk9rk/hurmet_notebook_for_calculations) - [Hurmet: A notebook for calculations](https://hurmet.org/sample)
 * [2024-10-31, 09:05:03](https://lobste.rs/s/mzyfsi/zed_ssh_remoting_is_here) - [Zed - SSH Remoting is Here](https://zed.dev/blog/remote-development)
