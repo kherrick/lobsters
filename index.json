@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-01, 16:22:07",
+      "https://lobste.rs/s/rvmrs6/separation_concerns_bug_tracker"
+    ],
+    [
+      "Separation of concerns in a bug tracker",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 15:05:06",
       "https://lobste.rs/s/zfikeo/announcing_fedora_41"
     ],
@@ -237,16 +247,6 @@
     [
       "Zed - SSH Remoting is Here",
       "https://zed.dev/blog/remote-development"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 09:02:02",
-      "https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023"
-    ],
-    [
-      "Programming Languages That Blew My Mind (2023)",
-      "https://yoric.github.io/post/programming-languages-that-blew-my-mind/"
     ]
   ]
 ]
