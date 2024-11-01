@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 19:35:08](https://lobste.rs/s/zxvwjk/crapl_academic_strength_open_source) - [The CRAPL: An academic-strength open source license](https://matt.might.net/articles/crapl/)
 * [2024-11-01, 19:25:25](https://lobste.rs/s/yb4tcn/this_development_cycle_cargo_1_83) - [This Development-cycle in Cargo: 1.83](https://blog.rust-lang.org/inside-rust/2024/10/31/this-development-cycle-in-cargo-1.83.html)
 * [2024-11-01, 18:48:16](https://lobste.rs/s/rlkltp/duckdb_over_pandas_polars) - [DuckDB over Pandas/Polars](https://pgrs.net/2024/11/01/duckdb-over-pandas-polars/)
 * [2024-11-01, 18:43:24](https://lobste.rs/s/cnszft/migrating_place_from_postgresql_mysql) - [Migrating in-place from PostgreSQL to MySQL](https://engineeringblog.yelp.com/2024/10/migrating-from-postgres-to-mysql.html)
