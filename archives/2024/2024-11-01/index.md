@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 20:47:01](https://lobste.rs/s/mijkqh/rendering_outlines_with_post_processing) - [Rendering Outlines with a Post-processing Shader](https://www.atomwolf.org/posts/rendering-outlines-with-a-post-processing-shader/)
 * [2024-11-01, 20:40:28](https://lobste.rs/s/y8yqe5/val_town_town_can_we_implement_val_town_on) - [Val Town Town - Can we implement Val Town on Val Town?](https://blog.val.town/blog/val-town-town/)
 * [2024-11-01, 20:04:28](https://lobste.rs/s/eezuto/unicode_codepoints_expand_contract_when) - [Unicode codepoints that expand or contract when case is changed in UTF-8](https://gist.github.com/rendello/d37552507a389656e248f3255a618127)
 * [2024-11-01, 20:03:30](https://lobste.rs/s/nv4apv/sets_types_type_checking) - [Sets, types and type checking](https://kaleidawave.github.io/posts/sets-types-and-type-checking/)
