@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 10:32:58](https://lobste.rs/s/ye0eqf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ye0eqf/what_are_you_doing_this_weekend)
 * [2024-11-01, 09:58:34](https://lobste.rs/s/harycy/rewrite_it_rails) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-11-01, 09:38:31](https://lobste.rs/s/1cdhus/cil_c_intermediate_language) - [cil: C Intermediate Language](https://github.com/goblint/cil)
 * [2024-11-01, 08:44:08](https://lobste.rs/s/6nb4h8/introducing_chatgpt_search) - [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)

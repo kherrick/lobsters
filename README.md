@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-01, 10:32:58](https://lobste.rs/s/ye0eqf/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ye0eqf/what_are_you_doing_this_weekend)
 * [2024-11-01, 09:58:34](https://lobste.rs/s/harycy/rewrite_it_rails) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-11-01, 09:38:31](https://lobste.rs/s/1cdhus/cil_c_intermediate_language) - [cil: C Intermediate Language](https://github.com/goblint/cil)
 * [2024-11-01, 07:28:21](https://lobste.rs/s/yn684a/iso_iec_9899_2024) - [ISO/IEC 9899:2024](https://www.iso.org/standard/82075.html)
@@ -19,7 +20,6 @@
 * [2024-10-31, 15:28:28](https://lobste.rs/s/pvsrtd/dream_ultimate_os_1995) - [A Dream of an Ultimate OS (1995)](https://okmij.org/ftp/DreamOS.html)
 * [2024-10-31, 14:30:43](https://lobste.rs/s/wm9sff/ascii_control_characters_my_terminal) - [ASCII control characters in my terminal](https://jvns.ca/blog/2024/10/31/ascii-control-characters/)
 * [2024-10-31, 12:40:39](https://lobste.rs/s/glk9rk/hurmet_notebook_for_calculations) - [Hurmet: A notebook for calculations](https://hurmet.org/sample)
-* [2024-10-31, 10:41:00](https://lobste.rs/s/amf9ep/nginx_explorer_file_listing) - [Nginx Explorer - File listing](https://blog.izissise.net/posts/ngxp-listing/)
 * [2024-10-31, 09:17:20](https://lobste.rs/s/ztwoto/how_on_earth_does_1_produce_primes) - [How on Earth does ^.?$|^(..+?)\\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
 * [2024-10-31, 09:05:03](https://lobste.rs/s/mzyfsi/zed_ssh_remoting_is_here) - [Zed - SSH Remoting is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 09:02:02](https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
