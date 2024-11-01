@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-01, 03:21:37](https://lobste.rs/s/o9jxlw/memento_filter_fast_dynamic_robust_range) - [Memento Filter: A Fast, Dynamic, and Robust Range Filter](https://arxiv.org/pdf/2408.05625v2)
 * [2024-11-01, 00:26:51](https://lobste.rs/s/mcwgkx/checking_linearizability_go) - [Checking linearizability in Go](https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html)
 * [2024-11-01, 00:22:47](https://lobste.rs/s/ggdana/control_characters_ascii_unicode) - [Control characters in ASCII and Unicode](https://www.aivosto.com/articles/control-characters.html)
 * [2024-10-31, 23:19:12](https://lobste.rs/s/cluugi/everyone_is_wrong_about_slack_flowchart) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
@@ -21,7 +22,6 @@
 * [2024-10-31, 09:02:02](https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
 * [2024-10-31, 08:19:43](https://lobste.rs/s/wntqnr/running_million_empty_tests) - [Running a million empty tests](https://kodare.net/2024/10/31/a-million-tests.html)
 * [2024-10-31, 08:17:24](https://lobste.rs/s/tdqxdr/dual_nature_events_event_driven) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
-* [2024-10-30, 22:38:49](https://lobste.rs/s/oz6uks/thunderbird_for_android_8_0_takes_flight) - [Thunderbird for Android 8.0 Takes Flight](https://blog.thunderbird.net/2024/10/thunderbird-for-android-8-0-takes-flight/)
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
 * [2024-10-30, 18:52:49](https://lobste.rs/s/n6gciw/lessons_learned_from_successful_rust) - [Lessons learned from a successful Rust rewrite](https://gaultier.github.io/blog/lessons_learned_from_a_successful_rust_rewrite.html)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
