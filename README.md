@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-01, 08:44:08](https://lobste.rs/s/6nb4h8/introducing_chatgpt_search) - [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
 * [2024-11-01, 07:28:21](https://lobste.rs/s/yn684a/iso_iec_9899_2024) - [ISO/IEC 9899:2024](https://www.iso.org/standard/82075.html)
 * [2024-11-01, 06:57:30](https://lobste.rs/s/3o4pi4/porting_ioquake3_from_sdl2_sdl3) - [Porting ioquake3 from SDL2 to SDL3](https://www.youtube.com/watch?v=i3yVqWYFbCE)
 * [2024-11-01, 06:26:02](https://lobste.rs/s/gvsbef/what_is_point_online_conference) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
@@ -21,7 +22,6 @@
 * [2024-10-31, 09:17:20](https://lobste.rs/s/ztwoto/how_on_earth_does_1_produce_primes) - [How on Earth does ^.?$|^(..+?)\\1+$ produce primes?](https://www.youtube.com/watch?v=5vbk0TwkokM)
 * [2024-10-31, 09:05:03](https://lobste.rs/s/mzyfsi/zed_ssh_remoting_is_here) - [Zed - SSH Remoting is Here](https://zed.dev/blog/remote-development)
 * [2024-10-31, 09:02:02](https://lobste.rs/s/hf9l1t/programming_languages_blew_my_mind_2023) - [Programming Languages That Blew My Mind (2023)](https://yoric.github.io/post/programming-languages-that-blew-my-mind/)
-* [2024-10-31, 08:19:43](https://lobste.rs/s/wntqnr/running_million_empty_tests) - [Running a million empty tests](https://kodare.net/2024/10/31/a-million-tests.html)
 * [2024-10-31, 08:17:24](https://lobste.rs/s/tdqxdr/dual_nature_events_event_driven) - [The Dual Nature of Events in Event-Driven Architecture](https://www.reactivesystems.eu/2024/10/31/the-dual-nature-of-events-in-eda.html)
 * [2024-10-30, 18:53:33](https://lobste.rs/s/8aepbb/death_architect) - [the death of the architect](https://explaining.software/archive/the-death-of-the-architect/)
 * [2024-10-30, 10:09:57](https://lobste.rs/s/ktjpvq/australia_lord_howe_is_weirdest_timezone) - [Australia/Lord_Howe is the weirdest timezone](https://ssoready.com/blog/engineering/truths-programmers-timezones/)
