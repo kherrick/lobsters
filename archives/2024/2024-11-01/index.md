@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-01](index.md)
 
+* [2024-11-01, 09:58:34](https://lobste.rs/s/harycy/rewrite_it_rails) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-11-01, 09:38:31](https://lobste.rs/s/1cdhus/cil_c_intermediate_language) - [cil: C Intermediate Language](https://github.com/goblint/cil)
 * [2024-11-01, 08:44:08](https://lobste.rs/s/6nb4h8/introducing_chatgpt_search) - [Introducing ChatGPT Search](https://openai.com/index/introducing-chatgpt-search/)
 * [2024-11-01, 07:28:21](https://lobste.rs/s/yn684a/iso_iec_9899_2024) - [ISO/IEC 9899:2024](https://www.iso.org/standard/82075.html)
