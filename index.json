@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-11-01, 21:12:59",
+      "https://lobste.rs/s/shj2pt/tls_1_3_hybrid_key_exchange_using"
+    ],
+    [
+      "TLS 1.3 Hybrid Key Exchange using X25519Kyber768 / ML-KEM",
+      "https://www.netmeister.org/blog/tls-hybrid-kex.html"
+    ]
+  ],
+  [
+    [
       "2024-11-01, 20:40:28",
       "https://lobste.rs/s/y8yqe5/val_town_town_can_we_implement_val_town_on"
     ],
@@ -127,16 +137,6 @@
     [
       "Texture-less Text Rendering",
       "https://poniesandlight.co.uk/reflect/debug_print_text/"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 10:57:40",
-      "https://lobste.rs/s/zoq0bv/seeing_like_programmer_resiliency"
-    ],
-    [
-      "Seeing Like a Programmer: Resiliency, Limits, and Moral Hazards",
-      "https://v5.chriskrycho.com/elsewhere/seeing-like-a-programmer/"
     ]
   ],
   [
