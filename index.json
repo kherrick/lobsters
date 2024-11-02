@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-02, 22:30:42",
+      "https://lobste.rs/s/k9htts/update_on_apple_m1_m2_gpu_drivers"
+    ],
+    [
+      "An update on Apple M1/M2 GPU drivers",
+      "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
+    ]
+  ],
+  [
+    [
       "2024-11-02, 22:10:08",
       "https://lobste.rs/s/q56kxd/don_t_return_named_tuples_new_apis"
     ],
@@ -237,16 +247,6 @@
     [
       "Rewrite it in Rails",
       "https://dirkjonker.bearblog.dev/rewrite-it-in-rails/"
-    ]
-  ],
-  [
-    [
-      "2024-11-01, 06:26:02",
-      "https://lobste.rs/s/gvsbef/what_is_point_online_conference"
-    ],
-    [
-      "What is the point of an online conference?",
-      "https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/"
     ]
   ]
 ]
