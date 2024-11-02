@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-02, 08:38:21](https://lobste.rs/s/pir1tw/websockets_are_not_magical_2015) - [Websockets Are Not Magical (2015)](https://timkellogg.me/blog/2015/03/01/websockets-are-not-magic)
 * [2024-11-02, 08:19:59](https://lobste.rs/s/zpxous/pixel_aesthetic_2017) - [The Pixel Aesthetic (2017)](https://www.alexhw.com/pixelAesthetic.html)
 * [2024-11-02, 07:34:06](https://lobste.rs/s/zc0xh7/irc_today_hosted_irc_bouncer) - [IRC Today hosted IRC bouncer](https://irctoday.com/)
 * [2024-11-01, 20:40:28](https://lobste.rs/s/y8yqe5/val_town_town_can_we_implement_val_town_on) - [Val Town Town - Can we implement Val Town on Val Town?](https://blog.val.town/blog/val-town-town/)
@@ -22,7 +23,6 @@
 * [2024-11-01, 06:26:02](https://lobste.rs/s/gvsbef/what_is_point_online_conference) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
 * [2024-11-01, 03:52:24](https://lobste.rs/s/xdyvkv/seven_obscure_languages_seven_weeks) - [Seven Obscure Languages in Seven Weeks](https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/)
 * [2024-11-01, 00:26:51](https://lobste.rs/s/mcwgkx/checking_linearizability_go) - [Checking linearizability in Go](https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html)
-* [2024-10-31, 23:19:12](https://lobste.rs/s/cluugi/everyone_is_wrong_about_slack_flowchart) - [Everyone is wrong about that Slack flowchart](https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart)
 * [2024-10-31, 19:55:56](https://lobste.rs/s/r4bexm/hotwire_is_boring) - [Hotwire is... boring](https://old.reddit.com/r/rails/comments/1gg8516/hotwire_is_boring/)
 * [2024-10-31, 18:17:23](https://lobste.rs/s/84tpv1/nobody_cares_about_decentralization) - [Nobody cares about decentralization until they do](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
 
