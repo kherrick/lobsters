@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown) - [Async Rust vs RTOS showdown](https://tweedegolf.nl/%20%20/blog/65/async-rust-vs-rtos-showdown)
+* [2024-11-02, 19:22:15](https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming) - [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
+* [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown) - [Async Rust vs RTOS showdown](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown)
 * [2024-11-02, 17:44:26](https://lobste.rs/s/4dk4aa/deer_text_format_system_powering_this) - [Deer Text Format - the system powering this site, and how it can work for you](https://deerz.one/pages/blog/2024/dtf-introduction.dtf)
 * [2024-11-02, 14:18:20](https://lobste.rs/s/uprhwc/lounge_modern_responsive_cross_platform) - [The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
 * [2024-11-02, 13:56:20](https://lobste.rs/s/tfdjno/having_fun_with_modern_c) - [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
@@ -18,7 +19,6 @@
 * [2024-11-01, 16:22:07](https://lobste.rs/s/rvmrs6/separation_concerns_bug_tracker) - [Separation of concerns in a bug tracker](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/bugtracker-separate/)
 * [2024-11-01, 15:30:04](https://lobste.rs/s/04ln5x/why_pascal_deserves_second_look) - [Why Pascal Deserves a Second Look](https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/)
 * [2024-11-01, 15:05:06](https://lobste.rs/s/zfikeo/announcing_fedora_41) - [Announcing Fedora 41](https://www.redhat.com/en/blog/announcing-fedora-41)
-* [2024-11-01, 13:01:25](https://lobste.rs/s/uf5dj7/activitybot_single_file_php_activity_pub) - [ActivityBot - single file PHP activity pub bot server](https://gitlab.com/edent/activity-bot/)
 * [2024-11-01, 12:41:33](https://lobste.rs/s/ft797a/why_zellij) - [Why Zellij?](https://poor.dev/blog/why-zellij/)
 * [2024-11-01, 12:33:36](https://lobste.rs/s/5iiqji/texture_less_text_rendering) - [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
 * [2024-11-01, 09:58:34](https://lobste.rs/s/harycy/rewrite_it_rails) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)

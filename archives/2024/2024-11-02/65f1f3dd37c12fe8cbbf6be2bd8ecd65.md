@@ -1,0 +1,3 @@
+# [Published on 2024-11-02](index.md)
+
+* [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown) - [Async Rust vs RTOS showdown](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown)
