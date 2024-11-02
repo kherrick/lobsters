@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 09:48:10](https://lobste.rs/s/5ripdt/why_pg_dump_is_amazing) - [Why pg_dump Is Amazing](https://rhaas.blogspot.com/2024/11/why-pgdump-is-amazing.html)
 * [2024-11-02, 08:38:21](https://lobste.rs/s/pir1tw/websockets_are_not_magical_2015) - [Websockets Are Not Magical (2015)](https://timkellogg.me/blog/2015/03/01/websockets-are-not-magic)
 * [2024-11-02, 08:19:59](https://lobste.rs/s/zpxous/pixel_aesthetic_2017) - [The Pixel Aesthetic (2017)](https://www.alexhw.com/pixelAesthetic.html)
 * [2024-11-02, 07:34:06](https://lobste.rs/s/zc0xh7/irc_today_hosted_irc_bouncer) - [IRC Today hosted IRC bouncer](https://irctoday.com/)
