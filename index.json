@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-02, 08:38:21",
+      "https://lobste.rs/s/pir1tw/websockets_are_not_magical_2015"
+    ],
+    [
+      "Websockets Are Not Magical (2015)",
+      "https://timkellogg.me/blog/2015/03/01/websockets-are-not-magic"
+    ]
+  ],
+  [
+    [
       "2024-11-02, 08:19:59",
       "https://lobste.rs/s/zpxous/pixel_aesthetic_2017"
     ],
@@ -217,16 +227,6 @@
     [
       "Checking linearizability in Go",
       "https://notes.eatonphil.com/2024-10-31-checking-linearizability-in-go.html"
-    ]
-  ],
-  [
-    [
-      "2024-10-31, 23:19:12",
-      "https://lobste.rs/s/cluugi/everyone_is_wrong_about_slack_flowchart"
-    ],
-    [
-      "Everyone is wrong about that Slack flowchart",
-      "https://sophiebits.com/2024/10/30/everyone-is-wrong-about-that-slack-flowchart"
     ]
   ],
   [
