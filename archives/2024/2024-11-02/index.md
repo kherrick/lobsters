@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 14:18:20](https://lobste.rs/s/uprhwc/lounge_modern_responsive_cross_platform) - [The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
 * [2024-11-02, 13:56:20](https://lobste.rs/s/tfdjno/having_fun_with_modern_c) - [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
 * [2024-11-02, 09:48:10](https://lobste.rs/s/5ripdt/why_pg_dump_is_amazing) - [Why pg_dump Is Amazing](https://rhaas.blogspot.com/2024/11/why-pgdump-is-amazing.html)
 * [2024-11-02, 08:38:21](https://lobste.rs/s/pir1tw/websockets_are_not_magical_2015) - [Websockets Are Not Magical (2015)](https://timkellogg.me/blog/2015/03/01/websockets-are-not-magic)
