@@ -8,7 +8,7 @@
 * [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignement_by_making) - [A game to understand AI alignement by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
 * [2024-11-02, 19:39:42](https://lobste.rs/s/hiy38d/state_racket) - [The State of Racket](https://youtu.be/PYeKEshvAh8)
 * [2024-11-02, 19:22:15](https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming) - [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
-* [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown) - [Async Rust vs RTOS showdown](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown)
+* [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown_2022) - [Async Rust vs RTOS showdown (2022)](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown)
 * [2024-11-02, 17:44:26](https://lobste.rs/s/4dk4aa/deer_text_format_system_powering_this) - [Deer Text Format - the system powering this site, and how it can work for you](https://deerz.one/pages/blog/2024/dtf-introduction.dtf)
 * [2024-11-02, 14:18:20](https://lobste.rs/s/uprhwc/lounge_modern_responsive_cross_platform) - [The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
 * [2024-11-02, 13:56:20](https://lobste.rs/s/tfdjno/having_fun_with_modern_c) - [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
