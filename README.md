@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-02, 07:34:06](https://lobste.rs/s/zc0xh7/irc_today_hosted_irc_bouncer) - [IRC Today hosted IRC bouncer](https://irctoday.com/)
 * [2024-11-02, 01:17:47](https://lobste.rs/s/gmnx5u/from_naptime_big_sleep_using_large) - [From Naptime to Big Sleep: Using Large Language Models To Catch Vulnerabilities In Real-World Code](https://googleprojectzero.blogspot.com/2024/10/from-naptime-to-big-sleep.html)
-* [2024-11-01, 21:12:59](https://lobste.rs/s/shj2pt/tls_1_3_hybrid_key_exchange_using) - [TLS 1.3 Hybrid Key Exchange using X25519Kyber768 / ML-KEM](https://www.netmeister.org/blog/tls-hybrid-kex.html)
 * [2024-11-01, 20:40:28](https://lobste.rs/s/y8yqe5/val_town_town_can_we_implement_val_town_on) - [Val Town Town - Can we implement Val Town on Val Town?](https://blog.val.town/blog/val-town-town/)
 * [2024-11-01, 20:04:28](https://lobste.rs/s/eezuto/unicode_codepoints_expand_contract_when) - [Unicode codepoints that expand or contract when case is changed in UTF-8](https://gist.github.com/rendello/d37552507a389656e248f3255a618127)
 * [2024-11-01, 19:35:08](https://lobste.rs/s/zxvwjk/crapl_academic_strength_open_source) - [The CRAPL: An academic-strength open source license](https://matt.might.net/articles/crapl/)
