@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-02, 19:39:42](https://lobste.rs/s/hiy38d/state_racket) - [The State of Racket](https://youtu.be/PYeKEshvAh8)
 * [2024-11-02, 19:22:15](https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming) - [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
 * [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown) - [Async Rust vs RTOS showdown](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown)
 * [2024-11-02, 17:44:26](https://lobste.rs/s/4dk4aa/deer_text_format_system_powering_this) - [Deer Text Format - the system powering this site, and how it can work for you](https://deerz.one/pages/blog/2024/dtf-introduction.dtf)
@@ -23,7 +24,6 @@
 * [2024-11-01, 12:33:36](https://lobste.rs/s/5iiqji/texture_less_text_rendering) - [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
 * [2024-11-01, 09:58:34](https://lobste.rs/s/harycy/rewrite_it_rails) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 * [2024-11-01, 06:26:02](https://lobste.rs/s/gvsbef/what_is_point_online_conference) - [What is the point of an online conference?](https://www.scattered-thoughts.net/writing/what-is-the-point-of-an-online-conference/)
-* [2024-11-01, 03:52:24](https://lobste.rs/s/xdyvkv/seven_obscure_languages_seven_weeks) - [Seven Obscure Languages in Seven Weeks](https://pragprog.com/titles/dzseven/seven-obscure-languages-in-seven-weeks/)
 * [2024-10-31, 18:17:23](https://lobste.rs/s/84tpv1/nobody_cares_about_decentralization) - [Nobody cares about decentralization until they do](https://kyefox.com/nobody-cares-about-decentralization-until-they-do/)
 
 ## [Archives](archives/index.md)
