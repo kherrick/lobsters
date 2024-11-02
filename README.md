@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-02, 22:10:08](https://lobste.rs/s/q56kxd/don_t_return_named_tuples_new_apis) - [Don't return named tuples in new APIs](https://snarky.ca/dont-use-named-tuples-in-new-apis/)
+* [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 21:33:49](https://lobste.rs/s/jaktvn/smolweb_html_specification) - [smolweb HTML specification](https://smolweb.org/specs/index.html)
 * [2024-11-02, 20:08:04](https://lobste.rs/s/9paeh1/sortledton_universal_transactional) - [Sortledton: a Universal, Transactional Graph Data Structure](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
 * [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignement_by_making) - [A game to understand AI alignement by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
@@ -14,9 +16,7 @@
 * [2024-11-02, 08:19:59](https://lobste.rs/s/zpxous/pixel_aesthetic_2017) - [The Pixel Aesthetic (2017)](https://www.alexhw.com/pixelAesthetic.html)
 * [2024-11-02, 07:34:06](https://lobste.rs/s/zc0xh7/irc_today_hosted_irc_bouncer) - [IRC Today hosted IRC bouncer](https://irctoday.com/)
 * [2024-11-01, 20:40:28](https://lobste.rs/s/y8yqe5/val_town_town_can_we_implement_val_town_on) - [Val Town Town - Can we implement Val Town on Val Town?](https://blog.val.town/blog/val-town-town/)
-* [2024-11-01, 20:04:28](https://lobste.rs/s/eezuto/unicode_codepoints_expand_contract_when) - [Unicode codepoints that expand or contract when case is changed in UTF-8](https://gist.github.com/rendello/d37552507a389656e248f3255a618127)
 * [2024-11-01, 19:35:08](https://lobste.rs/s/zxvwjk/crapl_academic_strength_open_source) - [The CRAPL: An academic-strength open source license](https://matt.might.net/articles/crapl/)
-* [2024-11-01, 19:25:25](https://lobste.rs/s/yb4tcn/this_development_cycle_cargo_1_83) - [This Development-cycle in Cargo: 1.83](https://blog.rust-lang.org/inside-rust/2024/10/31/this-development-cycle-in-cargo-1.83.html)
 * [2024-11-01, 18:48:16](https://lobste.rs/s/rlkltp/duckdb_over_pandas_polars) - [DuckDB over Pandas/Polars](https://pgrs.net/2024/11/01/duckdb-over-pandas-polars/)
 * [2024-11-01, 18:43:24](https://lobste.rs/s/cnszft/migrating_place_from_postgresql_mysql) - [Migrating in-place from PostgreSQL to MySQL](https://engineeringblog.yelp.com/2024/10/migrating-from-postgres-to-mysql.html)
 * [2024-11-01, 15:30:04](https://lobste.rs/s/04ln5x/why_pascal_deserves_second_look) - [Why Pascal Deserves a Second Look](https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/)

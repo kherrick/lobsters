@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-02](index.md)
 
+* [2024-11-02, 22:10:08](https://lobste.rs/s/q56kxd/don_t_return_named_tuples_new_apis) - [Don't return named tuples in new APIs](https://snarky.ca/dont-use-named-tuples-in-new-apis/)
+* [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 21:33:49](https://lobste.rs/s/jaktvn/smolweb_html_specification) - [smolweb HTML specification](https://smolweb.org/specs/index.html)
 * [2024-11-02, 20:08:04](https://lobste.rs/s/9paeh1/sortledton_universal_transactional) - [Sortledton: a Universal, Transactional Graph Data Structure](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
 * [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignement_by_making) - [A game to understand AI alignement by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
