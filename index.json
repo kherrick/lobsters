@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-03, 15:38:23",
+      "https://lobste.rs/s/dxfp21/disaggregated_storage_brief"
+    ],
+    [
+      "Disaggregated Storage - a brief introduction",
+      "https://avi.im/blag/2024/disaggregated-storage/"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 15:03:49",
       "https://lobste.rs/s/govpf3/css_sprite_sheet_animations"
     ],
@@ -117,16 +127,6 @@
     [
       "An update on Apple M1/M2 GPU drivers",
       "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 22:10:08",
-      "https://lobste.rs/s/q56kxd/don_t_return_named_tuples_new_apis"
-    ],
-    [
-      "Don't return named tuples in new APIs",
-      "https://snarky.ca/dont-use-named-tuples-in-new-apis/"
     ]
   ],
   [
