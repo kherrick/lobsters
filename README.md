@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 02:56:34](https://lobste.rs/s/omy58p/ruby_on_guard_rails) - [Ruby on (Guard)Rails](https://mikemcquaid.com/ruby-on-guard-rails/)
 * [2024-11-03, 02:02:34](https://lobste.rs/s/noerku/moving_my_game_project_from_c_odin) - [Moving my game project from C to the Odin language](https://akselmo.dev/posts/moving-from-c-to-odin/)
 * [2024-11-03, 01:45:45](https://lobste.rs/s/q5cotq/ractor_rust_actor_framework) - [Ractor - A Rust actor framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-02, 22:30:42](https://lobste.rs/s/k9htts/update_on_apple_m1_m2_gpu_drivers) - [An update on Apple M1/M2 GPU drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
@@ -23,7 +24,6 @@
 * [2024-11-01, 18:43:24](https://lobste.rs/s/cnszft/migrating_place_from_postgresql_mysql) - [Migrating in-place from PostgreSQL to MySQL](https://engineeringblog.yelp.com/2024/10/migrating-from-postgres-to-mysql.html)
 * [2024-11-01, 15:30:04](https://lobste.rs/s/04ln5x/why_pascal_deserves_second_look) - [Why Pascal Deserves a Second Look](https://timcoatesinsights.wordpress.com/2024/10/31/why-pascal-deserves-a-second-look/)
 * [2024-11-01, 12:41:33](https://lobste.rs/s/ft797a/why_zellij) - [Why Zellij?](https://poor.dev/blog/why-zellij/)
-* [2024-11-01, 12:33:36](https://lobste.rs/s/5iiqji/texture_less_text_rendering) - [Texture-less Text Rendering](https://poniesandlight.co.uk/reflect/debug_print_text/)
 * [2024-11-01, 09:58:34](https://lobste.rs/s/harycy/rewrite_it_rails) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 
 ## [Archives](archives/index.md)
