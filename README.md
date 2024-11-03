@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 23:19:41](https://lobste.rs/s/zm9sdu/macros_safety_soa) - [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
 * [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
 * [2024-11-03, 19:59:40](https://lobste.rs/s/n3qkfy/re_ranking_search_results_on_client_side) - [Re-ranking search results on the client side](https://blog.mwmbl.org/articles/reranking-on-the-client-side/)
@@ -22,7 +23,6 @@
 * [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignment_by_making) - [A game to understand AI alignment by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
 * [2024-11-02, 19:22:15](https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming) - [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
-* [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown_2022) - [Async Rust vs RTOS showdown (2022)](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown)
 * [2024-11-02, 14:18:20](https://lobste.rs/s/uprhwc/lounge_modern_responsive_cross_platform) - [The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
 * [2024-11-02, 13:56:20](https://lobste.rs/s/tfdjno/having_fun_with_modern_c) - [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
 
