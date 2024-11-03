@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-03, 23:37:15",
+      "https://lobste.rs/s/yqbpso/scheduling_languages_past_present"
+    ],
+    [
+      "Scheduling Languages: A Past, Present, and Future Taxonomy",
+      "https://arxiv.org/abs/2410.19927"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 23:19:41",
       "https://lobste.rs/s/zm9sdu/macros_safety_soa"
     ],
@@ -187,16 +197,6 @@
     [
       "Moving my game project from C to the Odin language",
       "https://akselmo.dev/posts/moving-from-c-to-odin/"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 22:30:42",
-      "https://lobste.rs/s/k9htts/update_on_apple_m1_m2_gpu_drivers"
-    ],
-    [
-      "An update on Apple M1/M2 GPU drivers",
-      "https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/"
     ]
   ],
   [
