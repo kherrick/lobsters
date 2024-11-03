@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 09:47:36](https://lobste.rs/s/73lylo/say_prime) - [Say the prime](https://saytheprime.com/)
 * [2024-11-03, 09:31:14](https://lobste.rs/s/tzdlzk/rust_s_most_subtle_syntax) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 08:56:52](https://lobste.rs/s/bw1ysw/what_has_case_distinction_is_neither) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-03, 02:56:34](https://lobste.rs/s/omy58p/ruby_on_guard_rails) - [Ruby on (Guard)Rails](https://mikemcquaid.com/ruby-on-guard-rails/)
