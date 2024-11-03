@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
 * [2024-11-03, 19:59:40](https://lobste.rs/s/n3qkfy/re_ranking_search_results_on_client_side) - [Re-ranking search results on the client side](https://blog.mwmbl.org/articles/reranking-on-the-client-side/)
 * [2024-11-03, 19:48:58](https://lobste.rs/s/h6sj1q/model_checking_safety_ben_s_byzantine) - [Model checking safety of Ben-Or’s Byzantine consensus with Apalache](https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html)
@@ -17,7 +18,6 @@
 * [2024-11-03, 08:56:52](https://lobste.rs/s/bw1ysw/what_has_case_distinction_is_neither) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-03, 02:56:34](https://lobste.rs/s/omy58p/ruby_on_guard_rails) - [Ruby on (Guard)Rails](https://mikemcquaid.com/ruby-on-guard-rails/)
 * [2024-11-03, 02:02:34](https://lobste.rs/s/noerku/moving_my_game_project_from_c_odin) - [Moving my game project from C to the Odin language](https://akselmo.dev/posts/moving-from-c-to-odin/)
-* [2024-11-03, 01:45:45](https://lobste.rs/s/q5cotq/ractor_rust_actor_framework) - [Ractor - A Rust actor framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-02, 22:30:42](https://lobste.rs/s/k9htts/update_on_apple_m1_m2_gpu_drivers) - [An update on Apple M1/M2 GPU drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignment_by_making) - [A game to understand AI alignment by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)

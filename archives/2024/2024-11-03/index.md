@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
 * [2024-11-03, 19:59:40](https://lobste.rs/s/n3qkfy/re_ranking_search_results_on_client_side) - [Re-ranking search results on the client side](https://blog.mwmbl.org/articles/reranking-on-the-client-side/)
 * [2024-11-03, 19:48:58](https://lobste.rs/s/h6sj1q/model_checking_safety_ben_s_byzantine) - [Model checking safety of Ben-Or’s Byzantine consensus with Apalache](https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html)
