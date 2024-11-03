@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 12:09:42](https://lobste.rs/s/8vedrg/rrb_vector_practical_general_purpose) - [RRB Vector: A Practical General Purpose Immutable Sequence](https://infoscience.epfl.ch/entities/publication/4bfdd194-457f-4ec0-953d-a7be55ec0e1b)
+* [2024-11-03, 12:03:31](https://lobste.rs/s/omtgij/rhombus_new_spin_on_macros_without_all) - [Rhombus: A New Spin on Macros without All the Parentheses](https://dl.acm.org/doi/10.1145/3622818)
 * [2024-11-03, 09:47:36](https://lobste.rs/s/73lylo/say_prime) - [Say the prime](https://saytheprime.com/)
 * [2024-11-03, 09:31:14](https://lobste.rs/s/tzdlzk/rust_s_most_subtle_syntax) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 08:56:52](https://lobste.rs/s/bw1ysw/what_has_case_distinction_is_neither) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
@@ -20,9 +22,7 @@
 * [2024-11-02, 13:56:20](https://lobste.rs/s/tfdjno/having_fun_with_modern_c) - [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
 * [2024-11-02, 09:48:10](https://lobste.rs/s/5ripdt/why_pg_dump_is_amazing) - [Why pg_dump Is Amazing](https://rhaas.blogspot.com/2024/11/why-pgdump-is-amazing.html)
 * [2024-11-02, 08:38:21](https://lobste.rs/s/pir1tw/websockets_are_not_magical_2015) - [Websockets Are Not Magical (2015)](https://timkellogg.me/blog/2015/03/01/websockets-are-not-magic)
-* [2024-11-02, 08:19:59](https://lobste.rs/s/zpxous/pixel_aesthetic_2017) - [The Pixel Aesthetic (2017)](https://www.alexhw.com/pixelAesthetic.html)
 * [2024-11-02, 07:34:06](https://lobste.rs/s/zc0xh7/irc_today_hosted_irc_bouncer) - [IRC Today hosted IRC bouncer](https://irctoday.com/)
-* [2024-11-01, 19:35:08](https://lobste.rs/s/zxvwjk/crapl_academic_strength_open_source) - [The CRAPL: An academic-strength open source license](https://matt.might.net/articles/crapl/)
 * [2024-11-01, 18:48:16](https://lobste.rs/s/rlkltp/duckdb_over_pandas_polars) - [DuckDB over Pandas/Polars](https://pgrs.net/2024/11/01/duckdb-over-pandas-polars/)
 * [2024-11-01, 09:58:34](https://lobste.rs/s/harycy/rewrite_it_rails) - [Rewrite it in Rails](https://dirkjonker.bearblog.dev/rewrite-it-in-rails/)
 
