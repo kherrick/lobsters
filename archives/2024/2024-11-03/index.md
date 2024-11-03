@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 23:37:15](https://lobste.rs/s/yqbpso/scheduling_languages_past_present) - [Scheduling Languages: A Past, Present, and Future Taxonomy](https://arxiv.org/abs/2410.19927)
 * [2024-11-03, 23:19:41](https://lobste.rs/s/zm9sdu/macros_safety_soa) - [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
 * [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)

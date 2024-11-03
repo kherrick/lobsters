@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 23:37:15](https://lobste.rs/s/yqbpso/scheduling_languages_past_present) - [Scheduling Languages: A Past, Present, and Future Taxonomy](https://arxiv.org/abs/2410.19927)
 * [2024-11-03, 23:19:41](https://lobste.rs/s/zm9sdu/macros_safety_soa) - [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
 * [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
@@ -19,7 +20,6 @@
 * [2024-11-03, 08:56:52](https://lobste.rs/s/bw1ysw/what_has_case_distinction_is_neither) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 * [2024-11-03, 02:56:34](https://lobste.rs/s/omy58p/ruby_on_guard_rails) - [Ruby on (Guard)Rails](https://mikemcquaid.com/ruby-on-guard-rails/)
 * [2024-11-03, 02:02:34](https://lobste.rs/s/noerku/moving_my_game_project_from_c_odin) - [Moving my game project from C to the Odin language](https://akselmo.dev/posts/moving-from-c-to-odin/)
-* [2024-11-02, 22:30:42](https://lobste.rs/s/k9htts/update_on_apple_m1_m2_gpu_drivers) - [An update on Apple M1/M2 GPU drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignment_by_making) - [A game to understand AI alignment by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
 * [2024-11-02, 19:22:15](https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming) - [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
