@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 15:38:23](https://lobste.rs/s/dxfp21/disaggregated_storage_brief) - [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
 * [2024-11-03, 15:03:49](https://lobste.rs/s/govpf3/css_sprite_sheet_animations) - [CSS sprite sheet animations](https://leanrada.com/notes/css-sprite-sheets/)
 * [2024-11-03, 14:56:11](https://lobste.rs/s/52hltr/qcp_quic_file_copy) - [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)
 * [2024-11-03, 13:11:06](https://lobste.rs/s/vuhrm2/original_author_fernflower_java) - [The Original Author of the Fernflower Java Decompiler, Stiver, has Passed Away](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)

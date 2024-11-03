@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 15:38:23](https://lobste.rs/s/dxfp21/disaggregated_storage_brief) - [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
 * [2024-11-03, 15:03:49](https://lobste.rs/s/govpf3/css_sprite_sheet_animations) - [CSS sprite sheet animations](https://leanrada.com/notes/css-sprite-sheets/)
 * [2024-11-03, 14:56:11](https://lobste.rs/s/52hltr/qcp_quic_file_copy) - [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)
 * [2024-11-03, 13:11:06](https://lobste.rs/s/vuhrm2/original_author_fernflower_java) - [The Original Author of the Fernflower Java Decompiler, Stiver, has Passed Away](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
@@ -12,7 +13,6 @@
 * [2024-11-03, 02:02:34](https://lobste.rs/s/noerku/moving_my_game_project_from_c_odin) - [Moving my game project from C to the Odin language](https://akselmo.dev/posts/moving-from-c-to-odin/)
 * [2024-11-03, 01:45:45](https://lobste.rs/s/q5cotq/ractor_rust_actor_framework) - [Ractor - A Rust actor framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-02, 22:30:42](https://lobste.rs/s/k9htts/update_on_apple_m1_m2_gpu_drivers) - [An update on Apple M1/M2 GPU drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
-* [2024-11-02, 22:10:08](https://lobste.rs/s/q56kxd/don_t_return_named_tuples_new_apis) - [Don't return named tuples in new APIs](https://snarky.ca/dont-use-named-tuples-in-new-apis/)
 * [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 * [2024-11-02, 21:33:49](https://lobste.rs/s/jaktvn/smolweb_html_specification) - [smolweb HTML specification](https://smolweb.org/specs/index.html)
 * [2024-11-02, 20:08:04](https://lobste.rs/s/9paeh1/sortledton_universal_transactional) - [Sortledton: a Universal, Transactional Graph Data Structure](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
