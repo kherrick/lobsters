@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-03, 23:19:41",
+      "https://lobste.rs/s/zm9sdu/macros_safety_soa"
+    ],
+    [
+      "Macros, Safety, and SOA",
+      "https://tim-harding.github.io/blog/soa-rs/"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 21:26:58",
       "https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23"
     ],
@@ -217,16 +227,6 @@
     [
       "m4 crimes for metaprogramming Processing",
       "https://eighty-twenty.org/2024/07/22/m4-crimes"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 19:02:07",
-      "https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown_2022"
-    ],
-    [
-      "Async Rust vs RTOS showdown (2022)",
-      "https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown"
     ]
   ],
   [
