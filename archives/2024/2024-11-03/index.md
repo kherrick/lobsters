@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 16:13:09](https://lobste.rs/s/qoyrph/matrix_xmpp_thoughts_on_improving) - [Matrix and XMPP: Thoughts on Improving Messaging Protocols – Part 1](https://www.process-one.net/blog/matrix-and-xmpp-thoughts-on-improving-messaging-protocols-part-1/)
 * [2024-11-03, 15:38:23](https://lobste.rs/s/dxfp21/disaggregated_storage_brief) - [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
 * [2024-11-03, 15:03:49](https://lobste.rs/s/govpf3/css_sprite_sheet_animations) - [CSS sprite sheet animations](https://leanrada.com/notes/css-sprite-sheets/)
 * [2024-11-03, 14:56:11](https://lobste.rs/s/52hltr/qcp_quic_file_copy) - [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)

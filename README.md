@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 16:13:09](https://lobste.rs/s/qoyrph/matrix_xmpp_thoughts_on_improving) - [Matrix and XMPP: Thoughts on Improving Messaging Protocols – Part 1](https://www.process-one.net/blog/matrix-and-xmpp-thoughts-on-improving-messaging-protocols-part-1/)
 * [2024-11-03, 15:38:23](https://lobste.rs/s/dxfp21/disaggregated_storage_brief) - [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
 * [2024-11-03, 15:03:49](https://lobste.rs/s/govpf3/css_sprite_sheet_animations) - [CSS sprite sheet animations](https://leanrada.com/notes/css-sprite-sheets/)
 * [2024-11-03, 14:56:11](https://lobste.rs/s/52hltr/qcp_quic_file_copy) - [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)
@@ -22,7 +23,6 @@
 * [2024-11-02, 17:44:26](https://lobste.rs/s/4dk4aa/deer_text_format_system_powering_this) - [Deer Text Format - the system powering this site, and how it can work for you](https://deerz.one/pages/blog/2024/dtf-introduction.dtf)
 * [2024-11-02, 14:18:20](https://lobste.rs/s/uprhwc/lounge_modern_responsive_cross_platform) - [The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
 * [2024-11-02, 13:56:20](https://lobste.rs/s/tfdjno/having_fun_with_modern_c) - [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
-* [2024-11-02, 09:48:10](https://lobste.rs/s/5ripdt/why_pg_dump_is_amazing) - [Why pg_dump Is Amazing](https://rhaas.blogspot.com/2024/11/why-pgdump-is-amazing.html)
 * [2024-11-02, 08:38:21](https://lobste.rs/s/pir1tw/websockets_are_not_magical_2015) - [Websockets Are Not Magical (2015)](https://timkellogg.me/blog/2015/03/01/websockets-are-not-magic)
 * [2024-11-02, 07:34:06](https://lobste.rs/s/zc0xh7/irc_today_hosted_irc_bouncer) - [IRC Today hosted IRC bouncer](https://irctoday.com/)
 
