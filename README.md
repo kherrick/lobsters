@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 15:03:49](https://lobste.rs/s/govpf3/css_sprite_sheet_animations) - [CSS sprite sheet animations](https://leanrada.com/notes/css-sprite-sheets/)
 * [2024-11-03, 14:56:11](https://lobste.rs/s/52hltr/qcp_quic_file_copy) - [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)
 * [2024-11-03, 13:11:06](https://lobste.rs/s/vuhrm2/original_author_fernflower_java) - [The Original Author of the Fernflower Java Decompiler, Stiver, has Passed Away](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-03, 12:09:42](https://lobste.rs/s/8vedrg/rrb_vector_practical_general_purpose) - [RRB Vector: A Practical General Purpose Immutable Sequence](https://infoscience.epfl.ch/entities/publication/4bfdd194-457f-4ec0-953d-a7be55ec0e1b)
@@ -16,7 +17,6 @@
 * [2024-11-02, 21:33:49](https://lobste.rs/s/jaktvn/smolweb_html_specification) - [smolweb HTML specification](https://smolweb.org/specs/index.html)
 * [2024-11-02, 20:08:04](https://lobste.rs/s/9paeh1/sortledton_universal_transactional) - [Sortledton: a Universal, Transactional Graph Data Structure](https://www.vldb.org/pvldb/vol15/p1173-fuchs.pdf)
 * [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignment_by_making) - [A game to understand AI alignment by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
-* [2024-11-02, 19:39:42](https://lobste.rs/s/hiy38d/state_racket) - [The State of Racket](https://youtu.be/PYeKEshvAh8)
 * [2024-11-02, 19:22:15](https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming) - [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
 * [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown_2022) - [Async Rust vs RTOS showdown (2022)](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown)
 * [2024-11-02, 17:44:26](https://lobste.rs/s/4dk4aa/deer_text_format_system_powering_this) - [Deer Text Format - the system powering this site, and how it can work for you](https://deerz.one/pages/blog/2024/dtf-introduction.dtf)
