@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-03](index.md)
 
+* [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
+* [2024-11-03, 19:59:40](https://lobste.rs/s/n3qkfy/re_ranking_search_results_on_client_side) - [Re-ranking search results on the client side](https://blog.mwmbl.org/articles/reranking-on-the-client-side/)
 * [2024-11-03, 19:48:58](https://lobste.rs/s/h6sj1q/model_checking_safety_ben_s_byzantine) - [Model checking safety of Ben-Or’s Byzantine consensus with Apalache](https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html)
 * [2024-11-03, 17:11:40](https://lobste.rs/s/lhckw0/summarization_based_document_ids_for) - [Summarization-Based Document IDs for Generative Retrieval with Language Models](https://arxiv.org/abs/2311.08593)
 * [2024-11-03, 16:29:08](https://lobste.rs/s/sfjwfy/time_standards_reference) - [Time Standards Reference](https://geometrian.com/programming/reference/timestds/index.php)

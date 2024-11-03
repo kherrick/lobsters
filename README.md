@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
+* [2024-11-03, 19:59:40](https://lobste.rs/s/n3qkfy/re_ranking_search_results_on_client_side) - [Re-ranking search results on the client side](https://blog.mwmbl.org/articles/reranking-on-the-client-side/)
 * [2024-11-03, 19:48:58](https://lobste.rs/s/h6sj1q/model_checking_safety_ben_s_byzantine) - [Model checking safety of Ben-Or’s Byzantine consensus with Apalache](https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html)
 * [2024-11-03, 17:11:40](https://lobste.rs/s/lhckw0/summarization_based_document_ids_for) - [Summarization-Based Document IDs for Generative Retrieval with Language Models](https://arxiv.org/abs/2311.08593)
 * [2024-11-03, 16:29:08](https://lobste.rs/s/sfjwfy/time_standards_reference) - [Time Standards Reference](https://geometrian.com/programming/reference/timestds/index.php)
@@ -18,13 +20,11 @@
 * [2024-11-03, 01:45:45](https://lobste.rs/s/q5cotq/ractor_rust_actor_framework) - [Ractor - A Rust actor framework](https://slawlor.github.io/ractor/quickstart/)
 * [2024-11-02, 22:30:42](https://lobste.rs/s/k9htts/update_on_apple_m1_m2_gpu_drivers) - [An update on Apple M1/M2 GPU drivers](https://lwn.net/SubscriberLink/995383/34dc5950cab5e739/)
 * [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
-* [2024-11-02, 21:33:49](https://lobste.rs/s/jaktvn/smolweb_html_specification) - [smolweb HTML specification](https://smolweb.org/specs/index.html)
 * [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignment_by_making) - [A game to understand AI alignment by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
 * [2024-11-02, 19:22:15](https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming) - [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
 * [2024-11-02, 19:02:07](https://lobste.rs/s/6k8if9/async_rust_vs_rtos_showdown_2022) - [Async Rust vs RTOS showdown (2022)](https://tweedegolf.nl/en/blog/65/async-rust-vs-rtos-showdown)
 * [2024-11-02, 14:18:20](https://lobste.rs/s/uprhwc/lounge_modern_responsive_cross_platform) - [The Lounge: a Modern, responsive, cross-platform, self-hosted web IRC client](https://github.com/thelounge/thelounge)
 * [2024-11-02, 13:56:20](https://lobste.rs/s/tfdjno/having_fun_with_modern_c) - [Having fun with modern C++](https://lemire.me/blog/2024/11/02/having-fun-with-modern-c/)
-* [2024-11-02, 07:34:06](https://lobste.rs/s/zc0xh7/irc_today_hosted_irc_bouncer) - [IRC Today hosted IRC bouncer](https://irctoday.com/)
 
 ## [Archives](archives/index.md)
 
