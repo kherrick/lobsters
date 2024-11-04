@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-04, 11:31:52](https://lobste.rs/s/lvqw65/c_is_more_alive_than_ever_modern_features) - [C++ Is More Alive Than Ever: The Modern Features Silencing the Critics](https://medium.com/@pepitoscrespo/c-is-more-alive-than-ever-the-modern-features-silencing-the-critics-fef0cc28e46d)
 * [2024-11-04, 10:42:09](https://lobste.rs/s/be1uw4/cli_tool_analyze_report_todo_comments) - [CLI tool to analyze and report TODO comments in JavaScript and TypeScript Git repositories](https://github.com/azat-io/todoctor)
 * [2024-11-04, 09:17:27](https://lobste.rs/s/ppjtie/simple_trick_save_environment_money_when) - [Simple trick to save environment and money when using GitHub Actions](https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions)
 * [2024-11-04, 01:29:50](https://lobste.rs/s/uibjf4/writing_integration_tests_for_go_cli) - [Writing integration tests for a Go CLI application](https://lucapette.me/writing/writing-integration-tests-for-a-go-cli-application/)
@@ -23,7 +24,6 @@
 * [2024-11-03, 02:56:34](https://lobste.rs/s/omy58p/ruby_on_guard_rails) - [Ruby on (Guard)Rails](https://mikemcquaid.com/ruby-on-guard-rails/)
 * [2024-11-03, 02:02:34](https://lobste.rs/s/noerku/moving_my_game_project_from_c_odin) - [Moving my game project from C to the Odin language](https://akselmo.dev/posts/moving-from-c-to-odin/)
 * [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
-* [2024-11-02, 19:58:28](https://lobste.rs/s/ftb7ei/game_understand_ai_alignment_by_making) - [A game to understand AI alignment by making paperclips](https://www.decisionproblem.com/paperclips/index2.html)
 * [2024-11-02, 19:22:15](https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming) - [m4 crimes for metaprogramming Processing](https://eighty-twenty.org/2024/07/22/m4-crimes)
 
 ## [Archives](archives/index.md)
