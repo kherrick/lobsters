@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-04, 17:07:21",
+      "https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no"
+    ],
+    [
+      "Parsing arguments in Rust with no dependencies",
+      "https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 17:05:12",
+      "https://lobste.rs/s/avgrck/html_link_button_is_question_marijke"
+    ],
+    [
+      "HTML link, or button, that is the question / Marijke Luttekes",
+      "https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 16:43:39",
       "https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-11-03, 23:37:15",
-      "https://lobste.rs/s/yqbpso/scheduling_languages_past_present"
-    ],
-    [
-      "Scheduling Languages: A Past, Present, and Future Taxonomy",
-      "https://arxiv.org/abs/2410.19927"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 23:19:41",
       "https://lobste.rs/s/zm9sdu/macros_safety_soa"
     ],
@@ -147,16 +157,6 @@
     [
       "C++, Complexity, and Compiler Bugs",
       "https://azeemba.com/posts/cpp-complexity-compiler-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 16:29:08",
-      "https://lobste.rs/s/sfjwfy/time_standards_reference"
-    ],
-    [
-      "Time Standards Reference",
-      "https://geometrian.com/programming/reference/timestds/index.php"
     ]
   ],
   [
