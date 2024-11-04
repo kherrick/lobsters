@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 21:10:15](https://lobste.rs/s/thsv0z/conceptual_model_atproto_activitypub) - [A conceptual model of ATProto and ActivityPub](https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/)
 * [2024-11-04, 20:45:03](https://lobste.rs/s/olqpq6/atomic_attributes_local_first_sync_adam) - [Atomic Attributes in Local-First Sync – Adam Wulf](https://adamwulf.me/2022/04/atomic-attributes-in-local-first-sync/)
 * [2024-11-04, 20:32:53](https://lobste.rs/s/9n4eej/object_pools) - [Object Pools](https://famicom.party/book/17-objectpools/)
 * [2024-11-04, 19:59:01](https://lobste.rs/s/6qxufn/search_types) - [In Search of Types](https://www.humprog.org/%7Estephen/papers/kell14in-author-version.pdf)

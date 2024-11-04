@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-04, 21:10:15](https://lobste.rs/s/thsv0z/conceptual_model_atproto_activitypub) - [A conceptual model of ATProto and ActivityPub](https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/)
 * [2024-11-04, 20:45:03](https://lobste.rs/s/olqpq6/atomic_attributes_local_first_sync_adam) - [Atomic Attributes in Local-First Sync – Adam Wulf](https://adamwulf.me/2022/04/atomic-attributes-in-local-first-sync/)
 * [2024-11-04, 20:32:53](https://lobste.rs/s/9n4eej/object_pools) - [Object Pools](https://famicom.party/book/17-objectpools/)
 * [2024-11-04, 19:59:01](https://lobste.rs/s/6qxufn/search_types) - [In Search of Types](https://www.humprog.org/%7Estephen/papers/kell14in-author-version.pdf)
@@ -15,7 +16,6 @@
 * [2024-11-04, 13:49:13](https://lobste.rs/s/vftvci/linux_ia64_linux_fork_with_ia_64_support_re) - [linux-ia64: Linux fork with IA-64 support re-added. See http://t2sde.org/ for an Itanium-enabled Linux distribution](https://github.com/johnny-mnemonic/linux-ia64)
 * [2024-11-04, 13:34:30](https://lobste.rs/s/wjehu0/map_sync) - [A Map of Sync](https://stack.convex.dev/a-map-of-sync)
 * [2024-11-04, 12:55:15](https://lobste.rs/s/pigqvo/why_systemd_is_problem_for_embedded_linux) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
-* [2024-11-04, 12:26:46](https://lobste.rs/s/vlyapg/ai_search_should_sustain_open_source_not) - [AI search should sustain open source, not just index it](https://www.ericholscher.com/blog/2024/nov/1/ai-search-should-sustain-open-source/)
 * [2024-11-04, 12:19:46](https://lobste.rs/s/agz0tx/language_day_collection_brief_overviews) - [A Language A Day - A Collection Of Brief Overviews To 21 Programming Languages](https://andrewshitov.com/2024/11/02/a-language-a-day/)
 * [2024-11-04, 10:42:09](https://lobste.rs/s/be1uw4/cli_tool_analyze_report_todo_comments) - [CLI tool to analyze and report TODO comments in JavaScript and TypeScript Git repositories](https://github.com/azat-io/todoctor)
 * [2024-11-04, 09:17:27](https://lobste.rs/s/ppjtie/simple_trick_save_environment_money_when) - [Simple trick to save environment and money when using GitHub Actions](https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions)
