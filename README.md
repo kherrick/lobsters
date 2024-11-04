@@ -8,7 +8,7 @@
 * [2024-11-04, 11:31:52](https://lobste.rs/s/lvqw65/c_is_more_alive_than_ever_modern_features) - [C++ Is More Alive Than Ever: The Modern Features Silencing the Critics](https://medium.com/@pepitoscrespo/c-is-more-alive-than-ever-the-modern-features-silencing-the-critics-fef0cc28e46d)
 * [2024-11-04, 10:42:09](https://lobste.rs/s/be1uw4/cli_tool_analyze_report_todo_comments) - [CLI tool to analyze and report TODO comments in JavaScript and TypeScript Git repositories](https://github.com/azat-io/todoctor)
 * [2024-11-04, 09:17:27](https://lobste.rs/s/ppjtie/simple_trick_save_environment_money_when) - [Simple trick to save environment and money when using GitHub Actions](https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions)
-* [2024-11-03, 23:37:15](https://lobste.rs/s/yqbpso/scheduling_languages_past_present) - [Scheduling Languages: A Past, Present, and Future Taxonomy](https://arxiv.org/abs/2410.19927)
+* [2024-11-04, 01:29:50](https://lobste.rs/s/uibjf4/writing_integration_tests_for_go_cli) - [Writing integration tests for a Go CLI application](https://lucapette.me/writing/writing-integration-tests-for-a-go-cli-application/)
 * [2024-11-03, 23:19:41](https://lobste.rs/s/zm9sdu/macros_safety_soa) - [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
 * [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
