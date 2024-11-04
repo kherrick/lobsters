@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-04, 01:29:50](https://lobste.rs/s/uibjf4/writing_integration_tests_for_go_cli) - [Writing integration tests for a Go CLI application](https://lucapette.me/writing/writing-integration-tests-for-a-go-cli-application/)
 * [2024-11-03, 23:37:15](https://lobste.rs/s/yqbpso/scheduling_languages_past_present) - [Scheduling Languages: A Past, Present, and Future Taxonomy](https://arxiv.org/abs/2410.19927)
 * [2024-11-03, 23:19:41](https://lobste.rs/s/zm9sdu/macros_safety_soa) - [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
 * [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
 * [2024-11-03, 19:59:40](https://lobste.rs/s/n3qkfy/re_ranking_search_results_on_client_side) - [Re-ranking search results on the client side](https://blog.mwmbl.org/articles/reranking-on-the-client-side/)
 * [2024-11-03, 19:48:58](https://lobste.rs/s/h6sj1q/model_checking_safety_ben_s_byzantine) - [Model checking safety of Ben-Or’s Byzantine consensus with Apalache](https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html)
-* [2024-11-03, 17:11:40](https://lobste.rs/s/lhckw0/summarization_based_document_ids_for) - [Summarization-Based Document IDs for Generative Retrieval with Language Models](https://arxiv.org/abs/2311.08593)
 * [2024-11-03, 16:29:08](https://lobste.rs/s/sfjwfy/time_standards_reference) - [Time Standards Reference](https://geometrian.com/programming/reference/timestds/index.php)
 * [2024-11-03, 16:13:09](https://lobste.rs/s/qoyrph/matrix_xmpp_thoughts_on_improving) - [Matrix and XMPP: Thoughts on Improving Messaging Protocols – Part 1](https://www.process-one.net/blog/matrix-and-xmpp-thoughts-on-improving-messaging-protocols-part-1/)
 * [2024-11-03, 15:38:23](https://lobste.rs/s/dxfp21/disaggregated_storage_brief) - [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
