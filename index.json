@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-04, 16:43:39",
+      "https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes"
+    ],
+    [
+      "We’re leaving Kubernetes",
+      "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 15:35:26",
       "https://lobste.rs/s/ridqok/magical_fibonacci_formulae"
     ],
@@ -237,16 +247,6 @@
     [
       "What has case distinction but is neither uppercase nor lowercase?",
       "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 22:07:14",
-      "https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3"
-    ],
-    [
-      "Breaking CityHash64, MurmurHash2/3, wyhash, and more",
-      "https://orlp.net/blog/breaking-hash-functions/"
     ]
   ]
 ]
