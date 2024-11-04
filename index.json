@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-04, 12:26:46",
+      "https://lobste.rs/s/vlyapg/ai_search_should_sustain_open_source_not"
+    ],
+    [
+      "AI search should sustain open source, not just index it",
+      "https://www.ericholscher.com/blog/2024/nov/1/ai-search-should-sustain-open-source/"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 12:19:46",
+      "https://lobste.rs/s/agz0tx/language_day_collection_brief_overviews"
+    ],
+    [
+      "A Language A Day - A Collection Of Brief Overviews To 21 Programming Languages",
+      "https://andrewshitov.com/2024/11/02/a-language-a-day/"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 11:31:52",
       "https://lobste.rs/s/lvqw65/c_is_more_alive_than_ever_modern_features"
     ],
@@ -87,16 +107,6 @@
     [
       "Re-ranking search results on the client side",
       "https://blog.mwmbl.org/articles/reranking-on-the-client-side/"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 19:48:58",
-      "https://lobste.rs/s/h6sj1q/model_checking_safety_ben_s_byzantine"
-    ],
-    [
-      "Model checking safety of Ben-Or’s Byzantine consensus with Apalache",
-      "https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Breaking CityHash64, MurmurHash2/3, wyhash, and more",
       "https://orlp.net/blog/breaking-hash-functions/"
-    ]
-  ],
-  [
-    [
-      "2024-11-02, 19:22:15",
-      "https://lobste.rs/s/tn8rt4/m4_crimes_for_metaprogramming"
-    ],
-    [
-      "m4 crimes for metaprogramming Processing",
-      "https://eighty-twenty.org/2024/07/22/m4-crimes"
     ]
   ]
 ]
