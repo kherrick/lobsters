@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-04, 15:35:26",
+      "https://lobste.rs/s/ridqok/magical_fibonacci_formulae"
+    ],
+    [
+      "Magical Fibonacci Formulae",
+      "https://orlp.net/blog/magical-fibonacci-formulae/"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 14:34:06",
       "https://lobste.rs/s/e5tt97/what_are_you_doing_this_week"
     ],
@@ -87,6 +97,16 @@
     [
       "Writing integration tests for a Go CLI application",
       "https://lucapette.me/writing/writing-integration-tests-for-a-go-cli-application/"
+    ]
+  ],
+  [
+    [
+      "2024-11-03, 23:37:15",
+      "https://lobste.rs/s/yqbpso/scheduling_languages_past_present"
+    ],
+    [
+      "Scheduling Languages: A Past, Present, and Future Taxonomy",
+      "https://arxiv.org/abs/2410.19927"
     ]
   ],
   [
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2024-11-03, 12:09:42",
-      "https://lobste.rs/s/8vedrg/rrb_vector_practical_general_purpose"
-    ],
-    [
-      "RRB Vector: A Practical General Purpose Immutable Sequence",
-      "https://infoscience.epfl.ch/entities/publication/4bfdd194-457f-4ec0-953d-a7be55ec0e1b"
-    ]
-  ],
-  [
-    [
       "2024-11-03, 12:03:31",
       "https://lobste.rs/s/omtgij/rhombus_new_spin_on_macros_without_all"
     ],
@@ -227,16 +237,6 @@
     [
       "What has case distinction but is neither uppercase nor lowercase?",
       "https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 02:02:34",
-      "https://lobste.rs/s/noerku/moving_my_game_project_from_c_odin"
-    ],
-    [
-      "Moving my game project from C to the Odin language",
-      "https://akselmo.dev/posts/moving-from-c-to-odin/"
     ]
   ],
   [
