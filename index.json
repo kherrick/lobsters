@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-04, 01:29:50",
+      "https://lobste.rs/s/uibjf4/writing_integration_tests_for_go_cli"
+    ],
+    [
+      "Writing integration tests for a Go CLI application",
+      "https://lucapette.me/writing/writing-integration-tests-for-a-go-cli-application/"
+    ]
+  ],
+  [
+    [
       "2024-11-03, 23:37:15",
       "https://lobste.rs/s/yqbpso/scheduling_languages_past_present"
     ],
@@ -57,16 +67,6 @@
     [
       "Model checking safety of Ben-Or’s Byzantine consensus with Apalache",
       "https://protocols-made-fun.com/specification/modelchecking/tlaplus/apalache/2024/11/03/ben-or.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 17:11:40",
-      "https://lobste.rs/s/lhckw0/summarization_based_document_ids_for"
-    ],
-    [
-      "Summarization-Based Document IDs for Generative Retrieval with Language Models",
-      "https://arxiv.org/abs/2311.08593"
     ]
   ],
   [
