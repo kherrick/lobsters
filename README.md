@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-04, 18:06:45](https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers) - [Why GCP is More Usable for Developers](https://tonym.us/why-gcp-is-more-usable-for-developers.html)
 * [2024-11-04, 17:42:17](https://lobste.rs/s/p1bqah/swift_format_github_action) - [swift-format GitHub Action](https://calebhearth.com/l/swift-format-github-action)
 * [2024-11-04, 17:07:21](https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no) - [Parsing arguments in Rust with no dependencies](https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/)
-* [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question_marijke) - [HTML link, or button, that is the question / Marijke Luttekes](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
+* [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question) - [HTML link, or button, that is the question](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
 * [2024-11-04, 16:43:39](https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes) - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 15:35:26](https://lobste.rs/s/ridqok/magical_fibonacci_formulae) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 * [2024-11-04, 14:34:06](https://lobste.rs/s/e5tt97/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/e5tt97/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2024-11-03, 14:56:11](https://lobste.rs/s/52hltr/qcp_quic_file_copy) - [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)
 * [2024-11-03, 13:11:06](https://lobste.rs/s/vuhrm2/original_author_fernflower_java) - [The Original Author of the Fernflower Java Decompiler, Stiver, has Passed Away](https://blog.jetbrains.com/idea/2024/11/in-memory-of-stiver/)
 * [2024-11-03, 12:03:31](https://lobste.rs/s/omtgij/rhombus_new_spin_on_macros_without_all) - [Rhombus: A New Spin on Macros without All the Parentheses](https://dl.acm.org/doi/10.1145/3622818)
-* [2024-11-03, 09:47:36](https://lobste.rs/s/73lylo/say_prime) - [Say the prime](https://saytheprime.com/)
 * [2024-11-03, 09:31:14](https://lobste.rs/s/tzdlzk/rust_s_most_subtle_syntax) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 08:56:52](https://lobste.rs/s/bw1ysw/what_has_case_distinction_is_neither) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 
