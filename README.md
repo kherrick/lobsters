@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-04, 16:43:39](https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes) - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 15:35:26](https://lobste.rs/s/ridqok/magical_fibonacci_formulae) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 * [2024-11-04, 14:34:06](https://lobste.rs/s/e5tt97/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/e5tt97/what_are_you_doing_this_week)
 * [2024-11-04, 13:49:13](https://lobste.rs/s/vftvci/linux_ia64_linux_fork_with_ia_64_support_re) - [linux-ia64: Linux fork with IA-64 support re-added. See http://t2sde.org/ for an Itanium-enabled Linux distribution](https://github.com/johnny-mnemonic/linux-ia64)
@@ -24,7 +25,6 @@
 * [2024-11-03, 09:47:36](https://lobste.rs/s/73lylo/say_prime) - [Say the prime](https://saytheprime.com/)
 * [2024-11-03, 09:31:14](https://lobste.rs/s/tzdlzk/rust_s_most_subtle_syntax) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 08:56:52](https://lobste.rs/s/bw1ysw/what_has_case_distinction_is_neither) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
-* [2024-11-02, 22:07:14](https://lobste.rs/s/zltznl/breaking_cityhash64_murmurhash2_3) - [Breaking CityHash64, MurmurHash2/3, wyhash, and more](https://orlp.net/blog/breaking-hash-functions/)
 
 ## [Archives](archives/index.md)
 
