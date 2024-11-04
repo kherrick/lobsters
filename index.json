@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-04, 13:34:30",
+      "https://lobste.rs/s/wjehu0/map_sync"
+    ],
+    [
+      "A Map of Sync",
+      "https://stack.convex.dev/a-map-of-sync"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 12:55:15",
       "https://lobste.rs/s/pigqvo/why_systemd_is_aproblem_for_embedded"
     ],
@@ -107,16 +117,6 @@
     [
       "C++, Complexity, and Compiler Bugs",
       "https://azeemba.com/posts/cpp-complexity-compiler-bugs.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 19:59:40",
-      "https://lobste.rs/s/n3qkfy/re_ranking_search_results_on_client_side"
-    ],
-    [
-      "Re-ranking search results on the client side",
-      "https://blog.mwmbl.org/articles/reranking-on-the-client-side/"
     ]
   ],
   [
