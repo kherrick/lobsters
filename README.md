@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-04, 17:42:17](https://lobste.rs/s/p1bqah/swift_format_github_action) - [swift-format GitHub Action](https://calebhearth.com/l/swift-format-github-action)
 * [2024-11-04, 17:07:21](https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no) - [Parsing arguments in Rust with no dependencies](https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/)
 * [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question_marijke) - [HTML link, or button, that is the question / Marijke Luttekes](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
 * [2024-11-04, 16:43:39](https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes) - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
@@ -8,7 +9,6 @@
 * [2024-11-04, 13:49:13](https://lobste.rs/s/vftvci/linux_ia64_linux_fork_with_ia_64_support_re) - [linux-ia64: Linux fork with IA-64 support re-added. See http://t2sde.org/ for an Itanium-enabled Linux distribution](https://github.com/johnny-mnemonic/linux-ia64)
 * [2024-11-04, 13:34:30](https://lobste.rs/s/wjehu0/map_sync) - [A Map of Sync](https://stack.convex.dev/a-map-of-sync)
 * [2024-11-04, 12:55:15](https://lobste.rs/s/pigqvo/why_systemd_is_problem_for_embedded_linux) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
-* [2024-11-04, 12:26:46](https://lobste.rs/s/vlyapg/ai_search_should_sustain_open_source_not) - [AI search should sustain open source, not just index it](https://www.ericholscher.com/blog/2024/nov/1/ai-search-should-sustain-open-source/)
 * [2024-11-04, 12:19:46](https://lobste.rs/s/agz0tx/language_day_collection_brief_overviews) - [A Language A Day - A Collection Of Brief Overviews To 21 Programming Languages](https://andrewshitov.com/2024/11/02/a-language-a-day/)
 * [2024-11-04, 10:42:09](https://lobste.rs/s/be1uw4/cli_tool_analyze_report_todo_comments) - [CLI tool to analyze and report TODO comments in JavaScript and TypeScript Git repositories](https://github.com/azat-io/todoctor)
 * [2024-11-04, 09:17:27](https://lobste.rs/s/ppjtie/simple_trick_save_environment_money_when) - [Simple trick to save environment and money when using GitHub Actions](https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions)

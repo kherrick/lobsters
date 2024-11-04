@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 17:42:17](https://lobste.rs/s/p1bqah/swift_format_github_action) - [swift-format GitHub Action](https://calebhearth.com/l/swift-format-github-action)
 * [2024-11-04, 17:07:21](https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no) - [Parsing arguments in Rust with no dependencies](https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/)
 * [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question_marijke) - [HTML link, or button, that is the question / Marijke Luttekes](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
 * [2024-11-04, 16:43:39](https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes) - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
