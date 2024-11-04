@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-04, 18:56:00](https://lobste.rs/s/3mvwy3/highlighting_text_links_with_text) - [Highlighting Text in Links with Text Fragments](https://calebhearth.com/l/text-fragments)
 * [2024-11-04, 18:06:45](https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers) - [Why GCP is More Usable for Developers](https://tonym.us/why-gcp-is-more-usable-for-developers.html)
 * [2024-11-04, 17:42:17](https://lobste.rs/s/p1bqah/swift_format_github_action) - [swift-format GitHub Action](https://calebhearth.com/l/swift-format-github-action)
 * [2024-11-04, 17:07:21](https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no) - [Parsing arguments in Rust with no dependencies](https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/)
@@ -17,7 +18,6 @@
 * [2024-11-03, 23:19:41](https://lobste.rs/s/zm9sdu/macros_safety_soa) - [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
 * [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
-* [2024-11-03, 16:13:09](https://lobste.rs/s/qoyrph/matrix_xmpp_thoughts_on_improving) - [Matrix and XMPP: Thoughts on Improving Messaging Protocols – Part 1](https://www.process-one.net/blog/matrix-and-xmpp-thoughts-on-improving-messaging-protocols-part-1/)
 * [2024-11-03, 15:38:23](https://lobste.rs/s/dxfp21/disaggregated_storage_brief) - [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
 * [2024-11-03, 15:03:49](https://lobste.rs/s/govpf3/css_sprite_sheet_animations) - [CSS sprite sheet animations](https://leanrada.com/notes/css-sprite-sheets/)
 * [2024-11-03, 14:56:11](https://lobste.rs/s/52hltr/qcp_quic_file_copy) - [qcp: QUIC File Copy](https://github.com/crazyscot/qcp)

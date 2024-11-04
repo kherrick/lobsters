@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 18:56:00](https://lobste.rs/s/3mvwy3/highlighting_text_links_with_text) - [Highlighting Text in Links with Text Fragments](https://calebhearth.com/l/text-fragments)
 * [2024-11-04, 18:06:45](https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers) - [Why GCP is More Usable for Developers](https://tonym.us/why-gcp-is-more-usable-for-developers.html)
 * [2024-11-04, 17:42:17](https://lobste.rs/s/p1bqah/swift_format_github_action) - [swift-format GitHub Action](https://calebhearth.com/l/swift-format-github-action)
 * [2024-11-04, 17:07:21](https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no) - [Parsing arguments in Rust with no dependencies](https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/)
