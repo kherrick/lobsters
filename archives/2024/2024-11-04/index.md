@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-04](index.md)
 
+* [2024-11-04, 19:59:01](https://lobste.rs/s/6qxufn/search_types) - [In Search of Types](https://www.humprog.org/%7Estephen/papers/kell14in-author-version.pdf)
 * [2024-11-04, 19:38:47](https://lobste.rs/s/txpxqf/jspin_gui_for_running_spin_model_checker) - [jspin: GUI for running the SPIN model checker](https://github.com/motib/jspin)
 * [2024-11-04, 18:56:00](https://lobste.rs/s/3mvwy3/highlighting_text_links_with_text) - [Highlighting Text in Links with Text Fragments](https://calebhearth.com/l/text-fragments)
 * [2024-11-04, 18:06:45](https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers) - [Why GCP is More Usable for Developers](https://tonym.us/why-gcp-is-more-usable-for-developers.html)
