@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
+* [2024-11-05, 18:01:49](https://lobste.rs/s/zlbdif/27_6_top_10_million_sites_are_dead) - [27.6% of the Top 10 Million Sites are Dead](https://medium.com/@tonywangcn/27-6-of-the-top-10-million-sites-are-dead-6bc7805efa85)
+* [2024-11-05, 17:28:44](https://lobste.rs/s/rgncyq/exploring_campfire_tests) - [Exploring Campfire Tests](https://kdiogenes.github.io/posts/exploring-campfire-tests/)
 * [2024-11-05, 17:05:41](https://lobste.rs/s/myfczk/lyceum_mmo_game_written_erlang_zig_raylib) - [Lyceum - An MMO game written in Erlang + Zig (+ Raylib)](https://github.com/Dr-Nekoma/lyceum)
 * [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
 * [2024-11-05, 16:39:51](https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd) - [CheriBSD - Memory safety for FreeBSD without rewriting](https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s)
