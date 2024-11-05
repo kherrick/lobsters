@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2024-11-04, 17:42:17",
-      "https://lobste.rs/s/p1bqah/swift_format_github_action"
-    ],
-    [
-      "swift-format GitHub Action",
-      "https://calebhearth.com/l/swift-format-github-action"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 17:07:21",
       "https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no"
     ],
@@ -167,6 +157,16 @@
     [
       "What are you doing this week?",
       "https://lobste.rs/s/e5tt97/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2024-11-04, 13:49:13",
+      "https://lobste.rs/s/vftvci/linux_ia64_linux_fork_with_ia_64_support_re"
+    ],
+    [
+      "linux-ia64: Linux fork with IA-64 support re-added. See http://t2sde.org/ for an Itanium-enabled Linux distribution",
+      "https://github.com/johnny-mnemonic/linux-ia64"
     ]
   ],
   [
