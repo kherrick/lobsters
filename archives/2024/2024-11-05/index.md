@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 17:05:41](https://lobste.rs/s/myfczk/lyceum_mmo_game_written_erlang_zig_raylib) - [Lyceum - An MMO game written in Erlang + Zig (+ Raylib)](https://github.com/Dr-Nekoma/lyceum)
 * [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
 * [2024-11-05, 16:39:51](https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd) - [CheriBSD - Memory safety for FreeBSD without rewriting](https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s)
 * [2024-11-05, 16:39:40](https://lobste.rs/s/nqiyfz/css_one_liners_improve_almost_every) - [CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project#limit-content-width)
