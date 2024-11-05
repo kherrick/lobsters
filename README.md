@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
+* [2024-11-05, 16:39:51](https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd) - [CheriBSD - Memory safety for FreeBSD without rewriting](https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s)
 * [2024-11-05, 16:39:19](https://lobste.rs/s/eci07x/hundreds_code_libraries_posted_npm_try) - [Hundreds of code libraries posted to NPM try to install malware on dev machines](https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/)
 * [2024-11-05, 14:51:08](https://lobste.rs/s/frf2q0/hanami_2_2_persistence_pays_off) - [Hanami 2.2: Persistence pays off](https://hanamirb.org/blog/2024/11/05/hanami-220/)
 * [2024-11-05, 14:43:15](https://lobste.rs/s/m9s9hw/thinking_about_recipe_formats_more_than) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
@@ -17,7 +18,6 @@
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
 * [2024-11-05, 02:30:25](https://lobste.rs/s/7klzqj/demystifying_secure_nfs) - [Demystifying secure NFS](https://blogsystem5.substack.com/p/demystifying-secure-nfs)
 * [2024-11-05, 00:23:18](https://lobste.rs/s/wbxot8/principles_dependent_type_theory) - [Principles of Dependent Type Theory](https://www.danielgratzer.com/papers/type-theory-book.pdf)
-* [2024-11-05, 00:02:01](https://lobste.rs/s/yxtefc/long_distance_relationships) - [Long Distance Relationships](https://matt.blwt.io/post/long-distance-relationships/)
 * [2024-11-04, 21:35:26](https://lobste.rs/s/7rlrel/writing_secure_go_code) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 21:10:15](https://lobste.rs/s/thsv0z/conceptual_model_atproto_activitypub) - [A conceptual model of ATProto and ActivityPub](https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/)
 * [2024-11-04, 18:06:45](https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers) - [Why GCP is More Usable for Developers](https://tonym.us/why-gcp-is-more-usable-for-developers.html)
