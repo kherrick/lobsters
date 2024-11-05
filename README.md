@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 07:01:23](https://lobste.rs/s/79arfy/toward_practical_perceptual_video) - [Toward A Practical Perceptual Video Quality Metric](https://netflixtechblog.com/toward-a-practical-perceptual-video-quality-metric-653f208b9652)
 * [2024-11-05, 05:39:45](https://lobste.rs/s/enmfbo/c_shared_pointer_thread_safety) - [C++ Shared Pointer Thread-Safety](https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/)
 * [2024-11-05, 04:47:35](https://lobste.rs/s/8exg3c/c_20_comparison_qt_even_with_c_17) - [C++20 comparison in Qt (even with C++17)](https://www.qt.io/blog/c20-comparisons-in-qt)
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
@@ -24,7 +25,6 @@
 * [2024-11-04, 10:42:09](https://lobste.rs/s/be1uw4/cli_tool_analyze_report_todo_comments) - [CLI tool to analyze and report TODO comments in JavaScript and TypeScript Git repositories](https://github.com/azat-io/todoctor)
 * [2024-11-04, 09:17:27](https://lobste.rs/s/ppjtie/simple_trick_save_environment_money_when) - [Simple trick to save environment and money when using GitHub Actions](https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
-* [2024-11-03, 08:56:52](https://lobste.rs/s/bw1ysw/what_has_case_distinction_is_neither) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 
 ## [Archives](archives/index.md)
 
