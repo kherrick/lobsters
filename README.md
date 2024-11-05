@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-05, 16:39:51](https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd) - [CheriBSD - Memory safety for FreeBSD without rewriting](https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s)
-* [2024-11-05, 16:39:40](https://lobste.rs/s/nqiyfz/css_one_liners_improve_almost_every) - [CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project#limit-content-width)
+* [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
 * [2024-11-05, 14:51:08](https://lobste.rs/s/frf2q0/hanami_2_2_persistence_pays_off) - [Hanami 2.2: Persistence pays off](https://hanamirb.org/blog/2024/11/05/hanami-220/)
 * [2024-11-05, 14:43:15](https://lobste.rs/s/m9s9hw/thinking_about_recipe_formats_more_than) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-05, 14:34:08](https://lobste.rs/s/rlz3xr/how_new_sqlite3_rsync_utility_works) - [How the New sqlite3_rsync Utility Works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
@@ -20,6 +19,7 @@
 * [2024-11-05, 00:02:01](https://lobste.rs/s/yxtefc/long_distance_relationships) - [Long Distance Relationships](https://matt.blwt.io/post/long-distance-relationships/)
 * [2024-11-04, 21:35:26](https://lobste.rs/s/7rlrel/writing_secure_go_code) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 21:10:15](https://lobste.rs/s/thsv0z/conceptual_model_atproto_activitypub) - [A conceptual model of ATProto and ActivityPub](https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/)
+* [2024-11-04, 18:56:00](https://lobste.rs/s/3mvwy3/highlighting_text_links_with_text) - [Highlighting Text in Links with Text Fragments](https://calebhearth.com/l/text-fragments)
 * [2024-11-04, 18:06:45](https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers) - [Why GCP is More Usable for Developers](https://tonym.us/why-gcp-is-more-usable-for-developers.html)
 * [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question) - [HTML link, or button, that is the question](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
 * [2024-11-04, 16:43:39](https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes) - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
