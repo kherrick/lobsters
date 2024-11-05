@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 14:43:15](https://lobste.rs/s/m9s9hw/thinking_about_recipe_formats_more_than) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-05, 14:34:08](https://lobste.rs/s/rlz3xr/how_new_sqlite3_rsync_utility_works) - [How the New sqlite3_rsync Utility Works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
 * [2024-11-05, 14:05:58](https://lobste.rs/s/nhcamr/developer_survey_2024) - [Developer Survey 2024](https://gleam.run//news/developer-survey-2024/)
 * [2024-11-05, 13:57:43](https://lobste.rs/s/7lddtu/unreasonable_effectiveness_naming) - [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
@@ -9,7 +10,6 @@
 * [2024-11-05, 10:59:55](https://lobste.rs/s/bfg7ll/comin_gitops_for_nixos_machines) - [comin: GitOps For NixOS Machines](https://github.com/nlewo/comin)
 * [2024-11-05, 10:46:41](https://lobste.rs/s/0tstcg/low_poly_image_generation_using) - [Low-Poly Image Generation using Evolutionary Algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
 * [2024-11-05, 05:39:45](https://lobste.rs/s/enmfbo/c_shared_pointer_thread_safety) - [C++ Shared Pointer Thread-Safety](https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/)
-* [2024-11-05, 04:47:35](https://lobste.rs/s/8exg3c/c_20_comparison_qt_even_with_c_17) - [C++20 comparison in Qt (even with C++17)](https://www.qt.io/blog/c20-comparisons-in-qt)
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
 * [2024-11-05, 02:30:25](https://lobste.rs/s/7klzqj/demystifying_secure_nfs) - [Demystifying secure NFS](https://blogsystem5.substack.com/p/demystifying-secure-nfs)
 * [2024-11-05, 00:23:18](https://lobste.rs/s/wbxot8/principles_dependent_type_theory) - [Principles of Dependent Type Theory](https://www.danielgratzer.com/papers/type-theory-book.pdf)
