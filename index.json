@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-05, 17:05:41",
+      "https://lobste.rs/s/myfczk/lyceum_mmo_game_written_erlang_zig_raylib"
+    ],
+    [
+      "Lyceum - An MMO game written in Erlang + Zig (+ Raylib)",
+      "https://github.com/Dr-Nekoma/lyceum"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 16:47:02",
       "https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github"
     ],
@@ -181,6 +191,16 @@
   ],
   [
     [
+      "2024-11-05, 00:02:01",
+      "https://lobste.rs/s/yxtefc/long_distance_relationships"
+    ],
+    [
+      "Long Distance Relationships",
+      "https://matt.blwt.io/post/long-distance-relationships/"
+    ]
+  ],
+  [
+    [
       "2024-11-04, 21:35:26",
       "https://lobste.rs/s/7rlrel/writing_secure_go_code"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-11-04, 18:06:45",
-      "https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers"
-    ],
-    [
-      "Why GCP is More Usable for Developers",
-      "https://tonym.us/why-gcp-is-more-usable-for-developers.html"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 17:05:12",
       "https://lobste.rs/s/avgrck/html_link_button_is_question"
     ],
@@ -227,16 +237,6 @@
     [
       "We’re leaving Kubernetes",
       "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 12:55:15",
-      "https://lobste.rs/s/pigqvo/why_systemd_is_problem_for_embedded_linux"
-    ],
-    [
-      "Why systemd is a problem for embedded Linux",
-      "https://kevinboone.me/systemd_embedded.html"
     ]
   ],
   [
