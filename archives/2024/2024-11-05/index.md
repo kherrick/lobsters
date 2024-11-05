@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 14:05:58](https://lobste.rs/s/nhcamr/developer_survey_2024) - [Developer Survey 2024](https://gleam.run//news/developer-survey-2024/)
+* [2024-11-05, 13:57:43](https://lobste.rs/s/7lddtu/unreasonable_effectiveness_naming) - [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
 * [2024-11-05, 13:24:44](https://lobste.rs/s/3cocpc/german_string_optimizations_spellbook) - [\"German string\" optimizations in Spellbook](https://the-mikedavis.github.io/posts/german-string-optimizations-in-spellbook/)
 * [2024-11-05, 12:22:11](https://lobste.rs/s/hk7uq9/zig_s_syntax) - [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-05, 11:19:33](https://lobste.rs/s/hrhel1/nginx_explorer_cookie_authentication) - [Nginx Explorer - Cookie Authentication](https://blog.izissise.net/posts/ngxp-cookie-auth/)
