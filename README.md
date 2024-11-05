@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 00:23:18](https://lobste.rs/s/wbxot8/principles_dependent_type_theory) - [Principles of Dependent Type Theory](https://www.danielgratzer.com/papers/type-theory-book.pdf)
+* [2024-11-05, 00:02:01](https://lobste.rs/s/yxtefc/long_distance_relationships) - [Long Distance Relationships](https://matt.blwt.io/post/long-distance-relationships/)
 * [2024-11-04, 21:35:26](https://lobste.rs/s/7rlrel/writing_secure_go_code) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 21:10:15](https://lobste.rs/s/thsv0z/conceptual_model_atproto_activitypub) - [A conceptual model of ATProto and ActivityPub](https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/)
 * [2024-11-04, 20:45:03](https://lobste.rs/s/olqpq6/atomic_attributes_local_first_sync_adam) - [Atomic Attributes in Local-First Sync – Adam Wulf](https://adamwulf.me/2022/04/atomic-attributes-in-local-first-sync/)
@@ -13,7 +15,6 @@
 * [2024-11-04, 16:43:39](https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes) - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 * [2024-11-04, 15:35:26](https://lobste.rs/s/ridqok/magical_fibonacci_formulae) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 * [2024-11-04, 14:34:06](https://lobste.rs/s/e5tt97/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/e5tt97/what_are_you_doing_this_week)
-* [2024-11-04, 13:49:13](https://lobste.rs/s/vftvci/linux_ia64_linux_fork_with_ia_64_support_re) - [linux-ia64: Linux fork with IA-64 support re-added. See http://t2sde.org/ for an Itanium-enabled Linux distribution](https://github.com/johnny-mnemonic/linux-ia64)
 * [2024-11-04, 13:34:30](https://lobste.rs/s/wjehu0/map_sync) - [A Map of Sync](https://stack.convex.dev/a-map-of-sync)
 * [2024-11-04, 12:55:15](https://lobste.rs/s/pigqvo/why_systemd_is_problem_for_embedded_linux) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 * [2024-11-04, 12:19:46](https://lobste.rs/s/agz0tx/language_day_collection_brief_overviews) - [A Language A Day - A Collection Of Brief Overviews To 21 Programming Languages](https://andrewshitov.com/2024/11/02/a-language-a-day/)
@@ -22,7 +23,6 @@
 * [2024-11-03, 23:19:41](https://lobste.rs/s/zm9sdu/macros_safety_soa) - [Macros, Safety, and SOA](https://tim-harding.github.io/blog/soa-rs/)
 * [2024-11-03, 21:26:58](https://lobste.rs/s/kvrmjd/ranging_over_functions_go_1_23) - [Ranging over functions in Go 1.23](https://eli.thegreenplace.net/2024/ranging-over-functions-in-go-123/)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
-* [2024-11-03, 15:38:23](https://lobste.rs/s/dxfp21/disaggregated_storage_brief) - [Disaggregated Storage - a brief introduction](https://avi.im/blag/2024/disaggregated-storage/)
 * [2024-11-03, 09:31:14](https://lobste.rs/s/tzdlzk/rust_s_most_subtle_syntax) - [Rust's Most Subtle Syntax](https://zkrising.com/writing/rusts-most-subtle-syntax/)
 * [2024-11-03, 08:56:52](https://lobste.rs/s/bw1ysw/what_has_case_distinction_is_neither) - [What has case distinction but is neither uppercase nor lowercase?](https://devblogs.microsoft.com/oldnewthing/20241031-00/?p=110443)
 
