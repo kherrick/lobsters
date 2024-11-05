@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 20:57:32](https://lobste.rs/s/i9lifs/sharemyscreen_see_how_j_experts_write) - [ShareMyScreen - see how J experts write a program](https://code.jsoftware.com/wiki/ShareMyScreen)
 * [2024-11-05, 19:39:39](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for) - [I'm bored and want a FOSS project to write code for](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for)
 * [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-11-05, 18:01:49](https://lobste.rs/s/zlbdif/27_6_top_10_million_sites_are_dead) - [27.6% of the Top 10 Million Sites are Dead](https://medium.com/@tonywangcn/27-6-of-the-top-10-million-sites-are-dead-6bc7805efa85)
@@ -18,7 +19,6 @@
 * [2024-11-05, 11:19:33](https://lobste.rs/s/hrhel1/nginx_explorer_cookie_authentication) - [Nginx Explorer - Cookie Authentication](https://blog.izissise.net/posts/ngxp-cookie-auth/)
 * [2024-11-05, 10:59:55](https://lobste.rs/s/bfg7ll/comin_gitops_for_nixos_machines) - [comin: GitOps For NixOS Machines](https://github.com/nlewo/comin)
 * [2024-11-05, 10:58:49](https://lobste.rs/s/wzmpkd/rise_advanced_build_systems) - [The rise of advanced build systems](https://www.scalevp.com/insights/the-rise-of-advanced-build-systems/)
-* [2024-11-05, 05:39:45](https://lobste.rs/s/enmfbo/c_shared_pointer_thread_safety) - [C++ Shared Pointer Thread-Safety](https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/)
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
 * [2024-11-05, 02:30:25](https://lobste.rs/s/7klzqj/demystifying_secure_nfs) - [Demystifying secure NFS](https://blogsystem5.substack.com/p/demystifying-secure-nfs)
 * [2024-11-05, 00:23:18](https://lobste.rs/s/wbxot8/principles_dependent_type_theory) - [Principles of Dependent Type Theory](https://www.danielgratzer.com/papers/type-theory-book.pdf)

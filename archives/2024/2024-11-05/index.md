@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 20:57:32](https://lobste.rs/s/i9lifs/sharemyscreen_see_how_j_experts_write) - [ShareMyScreen - see how J experts write a program](https://code.jsoftware.com/wiki/ShareMyScreen)
 * [2024-11-05, 19:39:39](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for) - [I'm bored and want a FOSS project to write code for](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for)
 * [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-11-05, 18:01:49](https://lobste.rs/s/zlbdif/27_6_top_10_million_sites_are_dead) - [27.6% of the Top 10 Million Sites are Dead](https://medium.com/@tonywangcn/27-6-of-the-top-10-million-sites-are-dead-6bc7805efa85)
