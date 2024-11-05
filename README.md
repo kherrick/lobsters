@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 14:51:08](https://lobste.rs/s/frf2q0/hanami_2_2_persistence_pays_off) - [Hanami 2.2: Persistence pays off](https://hanamirb.org/blog/2024/11/05/hanami-220/)
 * [2024-11-05, 14:43:15](https://lobste.rs/s/m9s9hw/thinking_about_recipe_formats_more_than) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-05, 14:34:08](https://lobste.rs/s/rlz3xr/how_new_sqlite3_rsync_utility_works) - [How the New sqlite3_rsync Utility Works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
 * [2024-11-05, 14:05:58](https://lobste.rs/s/nhcamr/developer_survey_2024) - [Developer Survey 2024](https://gleam.run//news/developer-survey-2024/)
@@ -14,7 +15,6 @@
 * [2024-11-05, 02:30:25](https://lobste.rs/s/7klzqj/demystifying_secure_nfs) - [Demystifying secure NFS](https://blogsystem5.substack.com/p/demystifying-secure-nfs)
 * [2024-11-05, 00:23:18](https://lobste.rs/s/wbxot8/principles_dependent_type_theory) - [Principles of Dependent Type Theory](https://www.danielgratzer.com/papers/type-theory-book.pdf)
 * [2024-11-05, 00:02:01](https://lobste.rs/s/yxtefc/long_distance_relationships) - [Long Distance Relationships](https://matt.blwt.io/post/long-distance-relationships/)
-* [2024-11-04, 21:35:26](https://lobste.rs/s/7rlrel/writing_secure_go_code) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 21:10:15](https://lobste.rs/s/thsv0z/conceptual_model_atproto_activitypub) - [A conceptual model of ATProto and ActivityPub](https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/)
 * [2024-11-04, 18:56:00](https://lobste.rs/s/3mvwy3/highlighting_text_links_with_text) - [Highlighting Text in Links with Text Fragments](https://calebhearth.com/l/text-fragments)
 * [2024-11-04, 18:06:45](https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers) - [Why GCP is More Usable for Developers](https://tonym.us/why-gcp-is-more-usable-for-developers.html)
