@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 16:39:51](https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd) - [CheriBSD - Memory safety for FreeBSD without rewriting](https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s)
+* [2024-11-05, 16:39:40](https://lobste.rs/s/nqiyfz/css_one_liners_improve_almost_every) - [CSS One-Liners to Improve (Almost) Every Project](https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project#limit-content-width)
 * [2024-11-05, 14:51:08](https://lobste.rs/s/frf2q0/hanami_2_2_persistence_pays_off) - [Hanami 2.2: Persistence pays off](https://hanamirb.org/blog/2024/11/05/hanami-220/)
 * [2024-11-05, 14:43:15](https://lobste.rs/s/m9s9hw/thinking_about_recipe_formats_more_than) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-05, 14:34:08](https://lobste.rs/s/rlz3xr/how_new_sqlite3_rsync_utility_works) - [How the New sqlite3_rsync Utility Works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
