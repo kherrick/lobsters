@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-05, 16:39:51",
+      "https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd"
+    ],
+    [
+      "CheriBSD - Memory safety for FreeBSD without rewriting",
+      "https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 16:39:40",
+      "https://lobste.rs/s/nqiyfz/css_one_liners_improve_almost_every"
+    ],
+    [
+      "CSS One-Liners to Improve (Almost) Every Project",
+      "https://alvaromontoro.com/blog/68055/ten-css-one-liners-for-almost-every-project#limit-content-width"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 14:51:08",
       "https://lobste.rs/s/frf2q0/hanami_2_2_persistence_pays_off"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-11-04, 17:07:21",
-      "https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no"
-    ],
-    [
-      "Parsing arguments in Rust with no dependencies",
-      "https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 17:05:12",
       "https://lobste.rs/s/avgrck/html_link_button_is_question"
     ],
@@ -217,16 +227,6 @@
     [
       "We’re leaving Kubernetes",
       "https://www.gitpod.io/blog/we-are-leaving-kubernetes"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 13:34:30",
-      "https://lobste.rs/s/wjehu0/map_sync"
-    ],
-    [
-      "A Map of Sync",
-      "https://stack.convex.dev/a-map-of-sync"
     ]
   ],
   [
