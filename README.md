@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 10:46:41](https://lobste.rs/s/0tstcg/low_poly_image_generation_using) - [Low-Poly Image Generation using Evolutionary Algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
 * [2024-11-05, 10:34:09](https://lobste.rs/s/2hedvk/zx81_3d_monster_maze_disassembly_2020) - [ZX81 3D Monster Maze disassembly (2020)](http://www.fruitcake.plus.com/Sinclair/ZX81/Disassemblies/MonsterMaze.htm)
 * [2024-11-05, 07:01:23](https://lobste.rs/s/79arfy/toward_practical_perceptual_video) - [Toward A Practical Perceptual Video Quality Metric](https://netflixtechblog.com/toward-a-practical-perceptual-video-quality-metric-653f208b9652)
 * [2024-11-05, 05:39:45](https://lobste.rs/s/enmfbo/c_shared_pointer_thread_safety) - [C++ Shared Pointer Thread-Safety](https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/)
@@ -18,7 +19,6 @@
 * [2024-11-04, 17:07:21](https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no) - [Parsing arguments in Rust with no dependencies](https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/)
 * [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question) - [HTML link, or button, that is the question](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
 * [2024-11-04, 16:43:39](https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes) - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
-* [2024-11-04, 15:35:26](https://lobste.rs/s/ridqok/magical_fibonacci_formulae) - [Magical Fibonacci Formulae](https://orlp.net/blog/magical-fibonacci-formulae/)
 * [2024-11-04, 14:34:06](https://lobste.rs/s/e5tt97/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/e5tt97/what_are_you_doing_this_week)
 * [2024-11-04, 13:34:30](https://lobste.rs/s/wjehu0/map_sync) - [A Map of Sync](https://stack.convex.dev/a-map-of-sync)
 * [2024-11-04, 12:55:15](https://lobste.rs/s/pigqvo/why_systemd_is_problem_for_embedded_linux) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)

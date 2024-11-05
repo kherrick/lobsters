@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 10:46:41](https://lobste.rs/s/0tstcg/low_poly_image_generation_using) - [Low-Poly Image Generation using Evolutionary Algorithms in Ruby](https://thomascountz.com/2023/07/30/low-poly-image-generation)
 * [2024-11-05, 10:34:09](https://lobste.rs/s/2hedvk/zx81_3d_monster_maze_disassembly_2020) - [ZX81 3D Monster Maze disassembly (2020)](http://www.fruitcake.plus.com/Sinclair/ZX81/Disassemblies/MonsterMaze.htm)
 * [2024-11-05, 07:01:23](https://lobste.rs/s/79arfy/toward_practical_perceptual_video) - [Toward A Practical Perceptual Video Quality Metric](https://netflixtechblog.com/toward-a-practical-perceptual-video-quality-metric-653f208b9652)
 * [2024-11-05, 05:39:45](https://lobste.rs/s/enmfbo/c_shared_pointer_thread_safety) - [C++ Shared Pointer Thread-Safety](https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/)
