@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-05, 04:47:35",
+      "https://lobste.rs/s/8exg3c/c_20_comparison_qt_even_with_c_17"
+    ],
+    [
+      "C++20 comparison in Qt (even with C++17)",
+      "https://www.qt.io/blog/c20-comparisons-in-qt"
+    ]
+  ],
+  [
+    [
+      "2024-11-05, 04:46:34",
+      "https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer"
+    ],
+    [
+      "What I wish I had known as a programmer moving to Berlin",
+      "https://wickedchicken.github.io/post/programmer-in-berlin/"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 02:30:25",
       "https://lobste.rs/s/7klzqj/demystifying_secure_nfs"
     ],
@@ -62,10 +82,10 @@
   [
     [
       "2024-11-04, 20:45:03",
-      "https://lobste.rs/s/olqpq6/atomic_attributes_local_first_sync_adam"
+      "https://lobste.rs/s/olqpq6/atomic_attributes_local_first_sync"
     ],
     [
-      "Atomic Attributes in Local-First Sync – Adam Wulf",
+      "Atomic Attributes in Local-First Sync",
       "https://adamwulf.me/2022/04/atomic-attributes-in-local-first-sync/"
     ]
   ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-11-04, 13:49:13",
-      "https://lobste.rs/s/vftvci/linux_ia64_linux_fork_with_ia_64_support_re"
-    ],
-    [
-      "linux-ia64: Linux fork with IA-64 support re-added. See http://t2sde.org/ for an Itanium-enabled Linux distribution",
-      "https://github.com/johnny-mnemonic/linux-ia64"
-    ]
-  ],
-  [
-    [
       "2024-11-04, 13:34:30",
       "https://lobste.rs/s/wjehu0/map_sync"
     ],
@@ -217,16 +227,6 @@
     [
       "Simple trick to save environment and money when using GitHub Actions",
       "https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions"
-    ]
-  ],
-  [
-    [
-      "2024-11-03, 23:19:41",
-      "https://lobste.rs/s/zm9sdu/macros_safety_soa"
-    ],
-    [
-      "Macros, Safety, and SOA",
-      "https://tim-harding.github.io/blog/soa-rs/"
     ]
   ],
   [
