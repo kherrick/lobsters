@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 14:34:08](https://lobste.rs/s/rlz3xr/how_new_sqlite3_rsync_utility_works) - [How the New sqlite3_rsync Utility Works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
 * [2024-11-05, 14:05:58](https://lobste.rs/s/nhcamr/developer_survey_2024) - [Developer Survey 2024](https://gleam.run//news/developer-survey-2024/)
 * [2024-11-05, 13:57:43](https://lobste.rs/s/7lddtu/unreasonable_effectiveness_naming) - [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
 * [2024-11-05, 13:24:44](https://lobste.rs/s/3cocpc/german_string_optimizations_spellbook) - [\"German string\" optimizations in Spellbook](https://the-mikedavis.github.io/posts/german-string-optimizations-in-spellbook/)
@@ -15,7 +16,6 @@
 * [2024-11-05, 00:02:01](https://lobste.rs/s/yxtefc/long_distance_relationships) - [Long Distance Relationships](https://matt.blwt.io/post/long-distance-relationships/)
 * [2024-11-04, 21:35:26](https://lobste.rs/s/7rlrel/writing_secure_go_code) - [Writing secure Go code](https://jarosz.dev/article/writing-secure-go-code/)
 * [2024-11-04, 21:10:15](https://lobste.rs/s/thsv0z/conceptual_model_atproto_activitypub) - [A conceptual model of ATProto and ActivityPub](https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/)
-* [2024-11-04, 20:32:53](https://lobste.rs/s/9n4eej/object_pools) - [Object Pools](https://famicom.party/book/17-objectpools/)
 * [2024-11-04, 18:56:00](https://lobste.rs/s/3mvwy3/highlighting_text_links_with_text) - [Highlighting Text in Links with Text Fragments](https://calebhearth.com/l/text-fragments)
 * [2024-11-04, 18:06:45](https://lobste.rs/s/b5n0s6/why_gcp_is_more_usable_for_developers) - [Why GCP is More Usable for Developers](https://tonym.us/why-gcp-is-more-usable-for-developers.html)
 * [2024-11-04, 17:07:21](https://lobste.rs/s/ywkt0i/parsing_arguments_rust_with_no) - [Parsing arguments in Rust with no dependencies](https://www.ntietz.com/blog/parsing-arguments-rust-no-deps/)
