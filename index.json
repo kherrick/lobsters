@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-05, 05:39:45",
+      "https://lobste.rs/s/enmfbo/c_shared_pointer_thread_safety"
+    ],
+    [
+      "C++ Shared Pointer Thread-Safety",
+      "https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 04:47:35",
       "https://lobste.rs/s/8exg3c/c_20_comparison_qt_even_with_c_17"
     ],
@@ -27,16 +37,6 @@
     [
       "Demystifying secure NFS",
       "https://blogsystem5.substack.com/p/demystifying-secure-nfs"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 02:09:34",
-      "https://lobste.rs/s/c7lrgb/massive_text_embedding_benchmark_2022"
-    ],
-    [
-      "Massive Text Embedding Benchmark (2022)",
-      "https://arxiv.org/pdf/2210.07316"
     ]
   ],
   [
