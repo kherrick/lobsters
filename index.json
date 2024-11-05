@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-05, 14:34:08",
+      "https://lobste.rs/s/rlz3xr/how_new_sqlite3_rsync_utility_works"
+    ],
+    [
+      "How the New sqlite3_rsync Utility Works",
+      "https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 14:05:58",
       "https://lobste.rs/s/nhcamr/developer_survey_2024"
     ],
@@ -147,16 +157,6 @@
     [
       "A conceptual model of ATProto and ActivityPub",
       "https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 20:32:53",
-      "https://lobste.rs/s/9n4eej/object_pools"
-    ],
-    [
-      "Object Pools",
-      "https://famicom.party/book/17-objectpools/"
     ]
   ],
   [
