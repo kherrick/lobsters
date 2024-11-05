@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 10:34:09](https://lobste.rs/s/2hedvk/zx81_3d_monster_maze_disassembly_2020) - [ZX81 3D Monster Maze disassembly (2020)](http://www.fruitcake.plus.com/Sinclair/ZX81/Disassemblies/MonsterMaze.htm)
 * [2024-11-05, 07:01:23](https://lobste.rs/s/79arfy/toward_practical_perceptual_video) - [Toward A Practical Perceptual Video Quality Metric](https://netflixtechblog.com/toward-a-practical-perceptual-video-quality-metric-653f208b9652)
 * [2024-11-05, 05:39:45](https://lobste.rs/s/enmfbo/c_shared_pointer_thread_safety) - [C++ Shared Pointer Thread-Safety](https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/)
 * [2024-11-05, 04:47:35](https://lobste.rs/s/8exg3c/c_20_comparison_qt_even_with_c_17) - [C++20 comparison in Qt (even with C++17)](https://www.qt.io/blog/c20-comparisons-in-qt)

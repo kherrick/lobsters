@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 10:34:09](https://lobste.rs/s/2hedvk/zx81_3d_monster_maze_disassembly_2020) - [ZX81 3D Monster Maze disassembly (2020)](http://www.fruitcake.plus.com/Sinclair/ZX81/Disassemblies/MonsterMaze.htm)
 * [2024-11-05, 07:01:23](https://lobste.rs/s/79arfy/toward_practical_perceptual_video) - [Toward A Practical Perceptual Video Quality Metric](https://netflixtechblog.com/toward-a-practical-perceptual-video-quality-metric-653f208b9652)
 * [2024-11-05, 05:39:45](https://lobste.rs/s/enmfbo/c_shared_pointer_thread_safety) - [C++ Shared Pointer Thread-Safety](https://leimao.github.io/blog/CPP-Shared-Ptr-Thread-Safety/)
 * [2024-11-05, 04:47:35](https://lobste.rs/s/8exg3c/c_20_comparison_qt_even_with_c_17) - [C++20 comparison in Qt (even with C++17)](https://www.qt.io/blog/c20-comparisons-in-qt)
@@ -22,7 +23,6 @@
 * [2024-11-04, 13:34:30](https://lobste.rs/s/wjehu0/map_sync) - [A Map of Sync](https://stack.convex.dev/a-map-of-sync)
 * [2024-11-04, 12:55:15](https://lobste.rs/s/pigqvo/why_systemd_is_problem_for_embedded_linux) - [Why systemd is a problem for embedded Linux](https://kevinboone.me/systemd_embedded.html)
 * [2024-11-04, 12:19:46](https://lobste.rs/s/agz0tx/language_day_collection_brief_overviews) - [A Language A Day - A Collection Of Brief Overviews To 21 Programming Languages](https://andrewshitov.com/2024/11/02/a-language-a-day/)
-* [2024-11-04, 10:42:09](https://lobste.rs/s/be1uw4/cli_tool_analyze_report_todo_comments) - [CLI tool to analyze and report TODO comments in JavaScript and TypeScript Git repositories](https://github.com/azat-io/todoctor)
 * [2024-11-04, 09:17:27](https://lobste.rs/s/ppjtie/simple_trick_save_environment_money_when) - [Simple trick to save environment and money when using GitHub Actions](https://turso.tech/blog/simple-trick-to-save-environment-and-money-when-using-github-actions)
 * [2024-11-03, 20:02:58](https://lobste.rs/s/7ixd88/c_complexity_compiler_bugs) - [C++, Complexity, and Compiler Bugs](https://azeemba.com/posts/cpp-complexity-compiler-bugs.html)
 
