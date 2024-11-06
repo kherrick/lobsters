@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 20:23:40](https://lobste.rs/s/gkn7pk/implementing_trivial_relocation) - [Implementing Trivial Relocation in Library](https://brevzin.github.io/c++/2024/10/21/trivial-relocation/)
+* [2024-11-06, 20:23:22](https://lobste.rs/s/6vxxxj/reliable_immutable_transfer_protocol) - [Reliable Immutable Transfer Protocol](https://paper.wf/binarycat/reliable-immutable-transfer-protocol)
 * [2024-11-06, 19:52:14](https://lobste.rs/s/2ka0ps/perhaps_rust_needs_defer) - [Perhaps Rust needs \"defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 * [2024-11-06, 18:54:20](https://lobste.rs/s/wk158y/localized_web_based_markdown_note_taking) - [Localized, web-based, markdown, note-taking app inspired by textpod](https://github.com/Xafloc/NoteFlow)
 * [2024-11-06, 18:38:04](https://lobste.rs/s/qhamvf/why_podia_doesn_t_use_review_apps_anymore) - [Why Podia doesn’t use review apps anymore](https://jamie.ideasasylum.com/2024/10/31/why-podia-doesnt-use-review-apps-anymore)

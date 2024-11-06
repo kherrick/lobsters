@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-06, 20:23:40](https://lobste.rs/s/gkn7pk/implementing_trivial_relocation) - [Implementing Trivial Relocation in Library](https://brevzin.github.io/c++/2024/10/21/trivial-relocation/)
+* [2024-11-06, 20:23:22](https://lobste.rs/s/6vxxxj/reliable_immutable_transfer_protocol) - [Reliable Immutable Transfer Protocol](https://paper.wf/binarycat/reliable-immutable-transfer-protocol)
 * [2024-11-06, 19:52:14](https://lobste.rs/s/2ka0ps/perhaps_rust_needs_defer) - [Perhaps Rust needs \"defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 * [2024-11-06, 18:54:20](https://lobste.rs/s/wk158y/localized_web_based_markdown_note_taking) - [Localized, web-based, markdown, note-taking app inspired by textpod](https://github.com/Xafloc/NoteFlow)
 * [2024-11-06, 18:38:04](https://lobste.rs/s/qhamvf/why_podia_doesn_t_use_review_apps_anymore) - [Why Podia doesn’t use review apps anymore](https://jamie.ideasasylum.com/2024/10/31/why-podia-doesnt-use-review-apps-anymore)
@@ -16,7 +18,6 @@
 * [2024-11-05, 19:39:39](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for) - [I'm bored and want a FOSS project to write code for](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for)
 * [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
-* [2024-11-05, 16:39:19](https://lobste.rs/s/eci07x/hundreds_code_libraries_posted_npm_try) - [Hundreds of code libraries posted to NPM try to install malware on dev machines](https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/)
 * [2024-11-05, 14:51:08](https://lobste.rs/s/frf2q0/hanami_2_2_persistence_pays_off) - [Hanami 2.2: Persistence pays off](https://hanamirb.org/blog/2024/11/05/hanami-220/)
 * [2024-11-05, 14:43:15](https://lobste.rs/s/m9s9hw/thinking_about_recipe_formats_more_than) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)
 * [2024-11-05, 14:34:08](https://lobste.rs/s/rlz3xr/how_new_sqlite3_rsync_utility_works) - [How the New sqlite3_rsync Utility Works](https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works)
@@ -24,7 +25,6 @@
 * [2024-11-05, 13:24:44](https://lobste.rs/s/3cocpc/german_string_optimizations_spellbook) - [\"German string\" optimizations in Spellbook](https://the-mikedavis.github.io/posts/german-string-optimizations-in-spellbook/)
 * [2024-11-05, 12:22:11](https://lobste.rs/s/hk7uq9/zig_s_syntax) - [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
-* [2024-11-05, 02:30:25](https://lobste.rs/s/7klzqj/demystifying_secure_nfs) - [Demystifying secure NFS](https://blogsystem5.substack.com/p/demystifying-secure-nfs)
 
 ## [Archives](archives/index.md)
 
