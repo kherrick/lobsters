@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 20:49:01](https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by) - [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
+* [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 * [2024-11-06, 20:23:40](https://lobste.rs/s/gkn7pk/implementing_trivial_relocation) - [Implementing Trivial Relocation in Library](https://brevzin.github.io/c++/2024/10/21/trivial-relocation/)
 * [2024-11-06, 20:23:22](https://lobste.rs/s/6vxxxj/reliable_immutable_transfer_protocol) - [Reliable Immutable Transfer Protocol](https://paper.wf/binarycat/reliable-immutable-transfer-protocol)
 * [2024-11-06, 19:52:14](https://lobste.rs/s/2ka0ps/perhaps_rust_needs_defer) - [Perhaps Rust needs \"defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
