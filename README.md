@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-06, 05:36:06](https://lobste.rs/s/md1rgn/gotosocial_wasm_based_sqlite_driver_bsd) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
 * [2024-11-05, 22:32:36](https://lobste.rs/s/mtoad0/minpin_yet_another_pin_proposal) - [MinPin: yet another pin proposal](https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/)
 * [2024-11-05, 21:22:28](https://lobste.rs/s/lunjse/on_okta_ldap_bug) - [On That Okta LDAP Bug](https://matt.blwt.io/post/on-that-okta-ldap-bug/)
 * [2024-11-05, 20:57:32](https://lobste.rs/s/i9lifs/sharemyscreen_see_how_j_experts_write) - [ShareMyScreen - see how J experts write a program](https://code.jsoftware.com/wiki/ShareMyScreen)
@@ -17,7 +18,6 @@
 * [2024-11-05, 13:57:43](https://lobste.rs/s/7lddtu/unreasonable_effectiveness_naming) - [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
 * [2024-11-05, 13:24:44](https://lobste.rs/s/3cocpc/german_string_optimizations_spellbook) - [\"German string\" optimizations in Spellbook](https://the-mikedavis.github.io/posts/german-string-optimizations-in-spellbook/)
 * [2024-11-05, 12:22:11](https://lobste.rs/s/hk7uq9/zig_s_syntax) - [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
-* [2024-11-05, 11:19:33](https://lobste.rs/s/hrhel1/nginx_explorer_cookie_authentication) - [Nginx Explorer - Cookie Authentication](https://blog.izissise.net/posts/ngxp-cookie-auth/)
 * [2024-11-05, 10:59:55](https://lobste.rs/s/bfg7ll/comin_gitops_for_nixos_machines) - [comin: GitOps For NixOS Machines](https://github.com/nlewo/comin)
 * [2024-11-05, 10:58:49](https://lobste.rs/s/wzmpkd/rise_advanced_build_systems) - [The rise of advanced build systems](https://www.scalevp.com/insights/the-rise-of-advanced-build-systems/)
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
