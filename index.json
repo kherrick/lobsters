@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-06, 18:54:20",
+      "https://lobste.rs/s/wk158y/localized_web_based_markdown_note_taking"
+    ],
+    [
+      "Localized, web-based, markdown, note-taking app inspired by textpod",
+      "https://github.com/Xafloc/NoteFlow"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 18:38:04",
       "https://lobste.rs/s/qhamvf/why_podia_doesn_t_use_review_apps_anymore"
     ],
@@ -217,16 +227,6 @@
     [
       "Zig's (.{}){} syntax",
       "https://www.openmymind.net/Zigs-weird-syntax/"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 10:59:55",
-      "https://lobste.rs/s/bfg7ll/comin_gitops_for_nixos_machines"
-    ],
-    [
-      "comin: GitOps For NixOS Machines",
-      "https://github.com/nlewo/comin"
     ]
   ],
   [
