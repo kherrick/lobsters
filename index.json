@@ -191,6 +191,16 @@
   ],
   [
     [
+      "2024-11-05, 11:19:33",
+      "https://lobste.rs/s/hrhel1/nginx_explorer_cookie_authentication"
+    ],
+    [
+      "Nginx Explorer - Cookie Authentication",
+      "https://blog.izissise.net/posts/ngxp-cookie-auth/"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 10:59:55",
       "https://lobste.rs/s/bfg7ll/comin_gitops_for_nixos_machines"
     ],
@@ -227,16 +237,6 @@
     [
       "Demystifying secure NFS",
       "https://blogsystem5.substack.com/p/demystifying-secure-nfs"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 00:23:18",
-      "https://lobste.rs/s/wbxot8/principles_dependent_type_theory"
-    ],
-    [
-      "Principles of Dependent Type Theory",
-      "https://www.danielgratzer.com/papers/type-theory-book.pdf"
     ]
   ],
   [
