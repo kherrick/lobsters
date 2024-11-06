@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-06, 05:36:06",
+      "https://lobste.rs/s/md1rgn/gotosocial_wasm_based_sqlite_driver_bsd"
+    ],
+    [
+      "GoToSocial WASM-based SQLite driver and BSD",
+      "https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 22:32:36",
       "https://lobste.rs/s/mtoad0/minpin_yet_another_pin_proposal"
     ],
@@ -167,16 +177,6 @@
     [
       "Zig's (.{}){} syntax",
       "https://www.openmymind.net/Zigs-weird-syntax/"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 11:19:33",
-      "https://lobste.rs/s/hrhel1/nginx_explorer_cookie_authentication"
-    ],
-    [
-      "Nginx Explorer - Cookie Authentication",
-      "https://blog.izissise.net/posts/ngxp-cookie-auth/"
     ]
   ],
   [
