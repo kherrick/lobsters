@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-06, 21:00:17",
+      "https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app"
+    ],
+    [
+      "Fruit Credits: a personal accounting app based on hledger",
+      "https://dz4k.com/2024/fruit-credits/"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 20:49:01",
       "https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by"
     ],
@@ -237,16 +247,6 @@
     [
       "Zig's (.{}){} syntax",
       "https://www.openmymind.net/Zigs-weird-syntax/"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 04:46:34",
-      "https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer"
-    ],
-    [
-      "What I wish I had known as a programmer moving to Berlin",
-      "https://wickedchicken.github.io/post/programmer-in-berlin/"
     ]
   ]
 ]
