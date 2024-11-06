@@ -19,11 +19,11 @@
 * [2024-11-05, 13:57:43](https://lobste.rs/s/7lddtu/unreasonable_effectiveness_naming) - [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
 * [2024-11-05, 13:24:44](https://lobste.rs/s/3cocpc/german_string_optimizations_spellbook) - [\"German string\" optimizations in Spellbook](https://the-mikedavis.github.io/posts/german-string-optimizations-in-spellbook/)
 * [2024-11-05, 12:22:11](https://lobste.rs/s/hk7uq9/zig_s_syntax) - [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
+* [2024-11-05, 11:19:33](https://lobste.rs/s/hrhel1/nginx_explorer_cookie_authentication) - [Nginx Explorer - Cookie Authentication](https://blog.izissise.net/posts/ngxp-cookie-auth/)
 * [2024-11-05, 10:59:55](https://lobste.rs/s/bfg7ll/comin_gitops_for_nixos_machines) - [comin: GitOps For NixOS Machines](https://github.com/nlewo/comin)
 * [2024-11-05, 10:58:49](https://lobste.rs/s/wzmpkd/rise_advanced_build_systems) - [The rise of advanced build systems](https://www.scalevp.com/insights/the-rise-of-advanced-build-systems/)
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
 * [2024-11-05, 02:30:25](https://lobste.rs/s/7klzqj/demystifying_secure_nfs) - [Demystifying secure NFS](https://blogsystem5.substack.com/p/demystifying-secure-nfs)
-* [2024-11-05, 00:23:18](https://lobste.rs/s/wbxot8/principles_dependent_type_theory) - [Principles of Dependent Type Theory](https://www.danielgratzer.com/papers/type-theory-book.pdf)
 * [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question) - [HTML link, or button, that is the question](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
 
 ## [Archives](archives/index.md)
