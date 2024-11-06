@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-06, 20:49:01",
+      "https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by"
+    ],
+    [
+      "Exploring Postgres's arena allocator by writing an HTTP server from scratch",
+      "https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 20:46:17",
+      "https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill"
+    ],
+    [
+      "How WebSockets cost us $1M on our AWS bill",
+      "https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 20:23:40",
       "https://lobste.rs/s/gkn7pk/implementing_trivial_relocation"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-11-05, 21:22:28",
-      "https://lobste.rs/s/lunjse/on_okta_ldap_bug"
-    ],
-    [
-      "On That Okta LDAP Bug",
-      "https://matt.blwt.io/post/on-that-okta-ldap-bug/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 19:39:39",
       "https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for"
     ],
@@ -197,16 +207,6 @@
     [
       "Thinking About Recipe Formats More Than Anyone Should",
       "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 14:34:08",
-      "https://lobste.rs/s/rlz3xr/how_new_sqlite3_rsync_utility_works"
-    ],
-    [
-      "How the New sqlite3_rsync Utility Works",
-      "https://nochlin.com/blog/how-the-new-sqlite3_rsync-utility-works"
     ]
   ],
   [
