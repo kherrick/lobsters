@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-06, 21:00:17](https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app) - [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
 * [2024-11-06, 20:49:01](https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by) - [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
 * [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 * [2024-11-06, 20:23:40](https://lobste.rs/s/gkn7pk/implementing_trivial_relocation) - [Implementing Trivial Relocation in Library](https://brevzin.github.io/c++/2024/10/21/trivial-relocation/)
@@ -24,7 +25,6 @@
 * [2024-11-05, 13:57:43](https://lobste.rs/s/7lddtu/unreasonable_effectiveness_naming) - [The Unreasonable Effectiveness of Naming Integers](https://ziglang.org/devlog/2024/#2024-11-04)
 * [2024-11-05, 13:24:44](https://lobste.rs/s/3cocpc/german_string_optimizations_spellbook) - [\"German string\" optimizations in Spellbook](https://the-mikedavis.github.io/posts/german-string-optimizations-in-spellbook/)
 * [2024-11-05, 12:22:11](https://lobste.rs/s/hk7uq9/zig_s_syntax) - [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
-* [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
 
 ## [Archives](archives/index.md)
 

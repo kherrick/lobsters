@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 21:00:17](https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app) - [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
 * [2024-11-06, 20:49:01](https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by) - [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
 * [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 * [2024-11-06, 20:23:40](https://lobste.rs/s/gkn7pk/implementing_trivial_relocation) - [Implementing Trivial Relocation in Library](https://brevzin.github.io/c++/2024/10/21/trivial-relocation/)
