@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-11-06, 00:19:59",
+      "https://lobste.rs/s/ahtlte/why_i_love_rust_for_tokenising_parsing"
+    ],
+    [
+      "Why I love Rust for tokenising and parsing",
+      "https://xnacly.me/posts/2024/rust-pldev"
+    ]
+  ],
+  [
+    [
       "2024-11-05, 22:32:36",
       "https://lobste.rs/s/mtoad0/minpin_yet_another_pin_proposal"
     ],
@@ -237,16 +247,6 @@
     [
       "Demystifying secure NFS",
       "https://blogsystem5.substack.com/p/demystifying-secure-nfs"
-    ]
-  ],
-  [
-    [
-      "2024-11-04, 17:05:12",
-      "https://lobste.rs/s/avgrck/html_link_button_is_question"
-    ],
-    [
-      "HTML link, or button, that is the question",
-      "https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/"
     ]
   ]
 ]
