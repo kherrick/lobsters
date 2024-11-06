@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 * [2024-11-06, 11:45:10](https://lobste.rs/s/gqj8ku/unix_programmer_s_manual_third_edition) - [UNIX Programmer's Manual: Third Edition (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-06, 09:00:58](https://lobste.rs/s/qwjjhq/upcoming_changes_dnssec_root_trust) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 * [2024-11-06, 08:30:36](https://lobste.rs/s/10cnpm/turing_kicked_us_out_heaven_2023) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
@@ -7,7 +8,6 @@
 * [2024-11-06, 05:36:06](https://lobste.rs/s/md1rgn/gotosocial_wasm_based_sqlite_driver_bsd) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
 * [2024-11-05, 22:32:36](https://lobste.rs/s/mtoad0/minpin_yet_another_pin_proposal) - [MinPin: yet another pin proposal](https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/)
 * [2024-11-05, 21:22:28](https://lobste.rs/s/lunjse/on_okta_ldap_bug) - [On That Okta LDAP Bug](https://matt.blwt.io/post/on-that-okta-ldap-bug/)
-* [2024-11-05, 20:57:32](https://lobste.rs/s/i9lifs/sharemyscreen_see_how_j_experts_write) - [ShareMyScreen - see how J experts write a program](https://code.jsoftware.com/wiki/ShareMyScreen)
 * [2024-11-05, 19:39:39](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for) - [I'm bored and want a FOSS project to write code for](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for)
 * [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-11-05, 18:01:49](https://lobste.rs/s/zlbdif/27_6_top_10_million_sites_are_dead) - [27.6% of the Top 10 Million Sites are Dead](https://medium.com/@tonywangcn/27-6-of-the-top-10-million-sites-are-dead-6bc7805efa85)
