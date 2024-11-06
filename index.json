@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-06, 20:23:40",
+      "https://lobste.rs/s/gkn7pk/implementing_trivial_relocation"
+    ],
+    [
+      "Implementing Trivial Relocation in Library",
+      "https://brevzin.github.io/c++/2024/10/21/trivial-relocation/"
+    ]
+  ],
+  [
+    [
+      "2024-11-06, 20:23:22",
+      "https://lobste.rs/s/6vxxxj/reliable_immutable_transfer_protocol"
+    ],
+    [
+      "Reliable Immutable Transfer Protocol",
+      "https://paper.wf/binarycat/reliable-immutable-transfer-protocol"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 19:52:14",
       "https://lobste.rs/s/2ka0ps/perhaps_rust_needs_defer"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-11-05, 16:39:19",
-      "https://lobste.rs/s/eci07x/hundreds_code_libraries_posted_npm_try"
-    ],
-    [
-      "Hundreds of code libraries posted to NPM try to install malware on dev machines",
-      "https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/"
-    ]
-  ],
-  [
-    [
       "2024-11-05, 14:51:08",
       "https://lobste.rs/s/frf2q0/hanami_2_2_persistence_pays_off"
     ],
@@ -237,16 +247,6 @@
     [
       "What I wish I had known as a programmer moving to Berlin",
       "https://wickedchicken.github.io/post/programmer-in-berlin/"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 02:30:25",
-      "https://lobste.rs/s/7klzqj/demystifying_secure_nfs"
-    ],
-    [
-      "Demystifying secure NFS",
-      "https://blogsystem5.substack.com/p/demystifying-secure-nfs"
     ]
   ]
 ]
