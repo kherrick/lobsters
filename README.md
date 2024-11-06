@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-06, 16:34:54](https://lobste.rs/s/tfuh3j/blog_post_how_add_blazor_server_app_asp_net) - [Blog Post: How to Add a Blazor Server App to an ASP.NET Model/Controller Web API](https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API)
 * [2024-11-06, 16:14:30](https://lobste.rs/s/l7ngkk/thoughts_on_improving_messaging) - [Thoughts on Improving Messaging Protocols — Part 2, Matrix](https://www.process-one.net/blog/thoughts-on-improving-messaging-protocols-part-2-matrix/)
 * [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 * [2024-11-06, 11:45:10](https://lobste.rs/s/gqj8ku/unix_programmer_s_manual_third_edition) - [UNIX Programmer's Manual: Third Edition (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
@@ -13,7 +14,6 @@
 * [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-11-05, 17:05:41](https://lobste.rs/s/myfczk/lyceum_mmo_game_written_erlang_zig_raylib) - [Lyceum - An MMO game written in Erlang + Zig (+ Raylib)](https://github.com/Dr-Nekoma/lyceum)
 * [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
-* [2024-11-05, 16:39:51](https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd) - [CheriBSD - Memory safety for FreeBSD without rewriting](https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s)
 * [2024-11-05, 16:39:19](https://lobste.rs/s/eci07x/hundreds_code_libraries_posted_npm_try) - [Hundreds of code libraries posted to NPM try to install malware on dev machines](https://arstechnica.com/security/2024/11/javascript-developers-targeted-by-hundreds-of-malicious-code-libraries/)
 * [2024-11-05, 14:51:08](https://lobste.rs/s/frf2q0/hanami_2_2_persistence_pays_off) - [Hanami 2.2: Persistence pays off](https://hanamirb.org/blog/2024/11/05/hanami-220/)
 * [2024-11-05, 14:43:15](https://lobste.rs/s/m9s9hw/thinking_about_recipe_formats_more_than) - [Thinking About Recipe Formats More Than Anyone Should](https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/)

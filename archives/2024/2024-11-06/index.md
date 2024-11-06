@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-06](index.md)
 
+* [2024-11-06, 16:34:54](https://lobste.rs/s/tfuh3j/blog_post_how_add_blazor_server_app_asp_net) - [Blog Post: How to Add a Blazor Server App to an ASP.NET Model/Controller Web API](https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API)
 * [2024-11-06, 16:14:30](https://lobste.rs/s/l7ngkk/thoughts_on_improving_messaging) - [Thoughts on Improving Messaging Protocols — Part 2, Matrix](https://www.process-one.net/blog/thoughts-on-improving-messaging-protocols-part-2-matrix/)
 * [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 * [2024-11-06, 11:45:10](https://lobste.rs/s/gqj8ku/unix_programmer_s_manual_third_edition) - [UNIX Programmer's Manual: Third Edition (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
