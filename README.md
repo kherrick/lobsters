@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-06, 08:30:36](https://lobste.rs/s/10cnpm/turing_kicked_us_out_heaven_2023) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
 * [2024-11-06, 07:25:26](https://lobste.rs/s/2uqysp/vegetation_cod_bo4) - [Vegetation in COD:BO4](https://c0de517e.com/015_vegetation_system.htm)
 * [2024-11-06, 05:36:06](https://lobste.rs/s/md1rgn/gotosocial_wasm_based_sqlite_driver_bsd) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
 * [2024-11-05, 22:32:36](https://lobste.rs/s/mtoad0/minpin_yet_another_pin_proposal) - [MinPin: yet another pin proposal](https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/)
@@ -21,7 +22,6 @@
 * [2024-11-05, 12:22:11](https://lobste.rs/s/hk7uq9/zig_s_syntax) - [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
 * [2024-11-05, 11:19:33](https://lobste.rs/s/hrhel1/nginx_explorer_cookie_authentication) - [Nginx Explorer - Cookie Authentication](https://blog.izissise.net/posts/ngxp-cookie-auth/)
 * [2024-11-05, 10:59:55](https://lobste.rs/s/bfg7ll/comin_gitops_for_nixos_machines) - [comin: GitOps For NixOS Machines](https://github.com/nlewo/comin)
-* [2024-11-05, 10:58:49](https://lobste.rs/s/wzmpkd/rise_advanced_build_systems) - [The rise of advanced build systems](https://www.scalevp.com/insights/the-rise-of-advanced-build-systems/)
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
 * [2024-11-05, 02:30:25](https://lobste.rs/s/7klzqj/demystifying_secure_nfs) - [Demystifying secure NFS](https://blogsystem5.substack.com/p/demystifying-secure-nfs)
 * [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question) - [HTML link, or button, that is the question](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
