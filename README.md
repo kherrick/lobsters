@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-05, 22:32:36](https://lobste.rs/s/mtoad0/minpin_yet_another_pin_proposal) - [MinPin: yet another pin proposal](https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/)
 * [2024-11-05, 21:22:28](https://lobste.rs/s/lunjse/on_okta_ldap_bug) - [On That Okta LDAP Bug](https://matt.blwt.io/post/on-that-okta-ldap-bug/)
 * [2024-11-05, 20:57:32](https://lobste.rs/s/i9lifs/sharemyscreen_see_how_j_experts_write) - [ShareMyScreen - see how J experts write a program](https://code.jsoftware.com/wiki/ShareMyScreen)
 * [2024-11-05, 19:39:39](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for) - [I'm bored and want a FOSS project to write code for](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for)
@@ -22,7 +23,6 @@
 * [2024-11-05, 04:46:34](https://lobste.rs/s/wpicnv/what_i_wish_i_had_known_as_programmer) - [What I wish I had known as a programmer moving to Berlin](https://wickedchicken.github.io/post/programmer-in-berlin/)
 * [2024-11-05, 02:30:25](https://lobste.rs/s/7klzqj/demystifying_secure_nfs) - [Demystifying secure NFS](https://blogsystem5.substack.com/p/demystifying-secure-nfs)
 * [2024-11-05, 00:23:18](https://lobste.rs/s/wbxot8/principles_dependent_type_theory) - [Principles of Dependent Type Theory](https://www.danielgratzer.com/papers/type-theory-book.pdf)
-* [2024-11-04, 21:10:15](https://lobste.rs/s/thsv0z/conceptual_model_atproto_activitypub) - [A conceptual model of ATProto and ActivityPub](https://fediversereport.com/a-conceptual-model-of-atproto-and-activitypub/)
 * [2024-11-04, 17:05:12](https://lobste.rs/s/avgrck/html_link_button_is_question) - [HTML link, or button, that is the question](https://marijkeluttekes.dev/blog/articles/2024/11/04/html-link-or-button-that-is-the-question/)
 * [2024-11-04, 16:43:39](https://lobste.rs/s/u05wnz/we_re_leaving_kubernetes) - [We’re leaving Kubernetes](https://www.gitpod.io/blog/we-are-leaving-kubernetes)
 

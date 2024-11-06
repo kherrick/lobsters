@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-05](index.md)
 
+* [2024-11-05, 22:32:36](https://lobste.rs/s/mtoad0/minpin_yet_another_pin_proposal) - [MinPin: yet another pin proposal](https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/)
 * [2024-11-05, 21:22:28](https://lobste.rs/s/lunjse/on_okta_ldap_bug) - [On That Okta LDAP Bug](https://matt.blwt.io/post/on-that-okta-ldap-bug/)
 * [2024-11-05, 20:57:32](https://lobste.rs/s/i9lifs/sharemyscreen_see_how_j_experts_write) - [ShareMyScreen - see how J experts write a program](https://code.jsoftware.com/wiki/ShareMyScreen)
 * [2024-11-05, 19:39:39](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for) - [I'm bored and want a FOSS project to write code for](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for)
