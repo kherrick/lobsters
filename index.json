@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-06, 16:34:54",
+      "https://lobste.rs/s/tfuh3j/blog_post_how_add_blazor_server_app_asp_net"
+    ],
+    [
+      "Blog Post: How to Add a Blazor Server App to an ASP.NET Model/Controller Web API",
+      "https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API"
+    ]
+  ],
+  [
+    [
       "2024-11-06, 16:14:30",
       "https://lobste.rs/s/l7ngkk/thoughts_on_improving_messaging"
     ],
@@ -127,16 +137,6 @@
     [
       "Configuring SSH Keys for Multiple GitHub Accounts",
       "https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 16:39:51",
-      "https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd"
-    ],
-    [
-      "CheriBSD - Memory safety for FreeBSD without rewriting",
-      "https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s"
     ]
   ],
   [
