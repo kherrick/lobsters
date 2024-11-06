@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-06, 22:48:47](https://lobste.rs/s/uxyu6v/emulator_odra_1003_1013_polish) - [Emulator of Odra 1003/1013, Polish mainframes of the 1960s](https://klemens-czajka-xyz.translate.goog/?_x_tr_sl=pl&_x_tr_tl=en&_x_tr_hl=pl&_x_tr_pto=wapp)
 * [2024-11-06, 21:00:17](https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app) - [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
 * [2024-11-06, 20:49:01](https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by) - [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
 * [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
@@ -16,7 +17,6 @@
 * [2024-11-06, 08:30:36](https://lobste.rs/s/10cnpm/turing_kicked_us_out_heaven_2023) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
 * [2024-11-06, 07:25:26](https://lobste.rs/s/2uqysp/vegetation_cod_bo4) - [Vegetation in COD:BO4](https://c0de517e.com/015_vegetation_system.htm)
 * [2024-11-06, 05:36:06](https://lobste.rs/s/md1rgn/gotosocial_wasm_based_sqlite_driver_bsd) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
-* [2024-11-05, 22:32:36](https://lobste.rs/s/mtoad0/minpin_yet_another_pin_proposal) - [MinPin: yet another pin proposal](https://smallcultfollowing.com/babysteps/blog/2024/11/05/minpin/)
 * [2024-11-05, 19:39:39](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for) - [I'm bored and want a FOSS project to write code for](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for)
 * [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
