@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-06, 16:14:30](https://lobste.rs/s/l7ngkk/thoughts_on_improving_messaging) - [Thoughts on Improving Messaging Protocols — Part 2, Matrix](https://www.process-one.net/blog/thoughts-on-improving-messaging-protocols-part-2-matrix/)
 * [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 * [2024-11-06, 11:45:10](https://lobste.rs/s/gqj8ku/unix_programmer_s_manual_third_edition) - [UNIX Programmer's Manual: Third Edition (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-06, 09:00:58](https://lobste.rs/s/qwjjhq/upcoming_changes_dnssec_root_trust) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
@@ -10,7 +11,6 @@
 * [2024-11-05, 21:22:28](https://lobste.rs/s/lunjse/on_okta_ldap_bug) - [On That Okta LDAP Bug](https://matt.blwt.io/post/on-that-okta-ldap-bug/)
 * [2024-11-05, 19:39:39](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for) - [I'm bored and want a FOSS project to write code for](https://lobste.rs/s/keyzzp/i_m_bored_want_foss_project_write_code_for)
 * [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
-* [2024-11-05, 18:01:49](https://lobste.rs/s/zlbdif/27_6_top_10_million_sites_are_dead) - [27.6% of the Top 10 Million Sites are Dead](https://medium.com/@tonywangcn/27-6-of-the-top-10-million-sites-are-dead-6bc7805efa85)
 * [2024-11-05, 17:05:41](https://lobste.rs/s/myfczk/lyceum_mmo_game_written_erlang_zig_raylib) - [Lyceum - An MMO game written in Erlang + Zig (+ Raylib)](https://github.com/Dr-Nekoma/lyceum)
 * [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
 * [2024-11-05, 16:39:51](https://lobste.rs/s/c7rfuk/cheribsd_memory_safety_for_freebsd) - [CheriBSD - Memory safety for FreeBSD without rewriting](https://www.youtube.com/watch?v=oNQLhcn5gvE&t=3h53m48s)
