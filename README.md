@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-07, 22:13:59](https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c) - [CORAL: a Rust-like Borrow Checker for C](https://github.com/tiagodusilva/coral)
 * [2024-11-07, 21:44:06](https://lobste.rs/s/7qf9vp/ysco_managed_automated_updates_for_go) - [Ysco - managed automated updates for Go services](https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/)
 * [2024-11-07, 19:53:07](https://lobste.rs/s/efl89f/opinionated_guide_keyboard_thumb_keys) - [An Opinionated Guide to Keyboard Thumb Keys](https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/)
 * [2024-11-07, 19:08:49](https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for) - [determination: Rust typecheckers for System F and System F-omega](https://hg.sr.ht/~icefox/determination)
@@ -24,7 +25,6 @@
 * [2024-11-06, 20:49:01](https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by) - [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
 * [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 * [2024-11-06, 19:52:14](https://lobste.rs/s/2ka0ps/perhaps_rust_needs_defer) - [Perhaps Rust needs \"defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
-* [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 22:13:59](https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c) - [CORAL: a Rust-like Borrow Checker for C](https://github.com/tiagodusilva/coral)
 * [2024-11-07, 21:44:06](https://lobste.rs/s/7qf9vp/ysco_managed_automated_updates_for_go) - [Ysco - managed automated updates for Go services](https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/)
 * [2024-11-07, 19:53:07](https://lobste.rs/s/efl89f/opinionated_guide_keyboard_thumb_keys) - [An Opinionated Guide to Keyboard Thumb Keys](https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/)
 * [2024-11-07, 19:15:20](https://lobste.rs/s/q9dovm/functors_monads_story_shapes) - [Functors to Monads: A Story of Shapes](https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html)
