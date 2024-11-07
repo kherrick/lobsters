@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-07, 10:01:20",
+      "https://lobste.rs/s/tevuuh/proposal_for_django_project_template"
+    ],
+    [
+      "Proposal for a Django project template",
+      "https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 09:30:47",
       "https://lobste.rs/s/vfhknp/evolution_incident_response_at_podia"
     ],
@@ -237,16 +247,6 @@
     [
       "Configuring SSH Keys for Multiple GitHub Accounts",
       "https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 12:22:11",
-      "https://lobste.rs/s/hk7uq9/zig_s_syntax"
-    ],
-    [
-      "Zig's (.{}){} syntax",
-      "https://www.openmymind.net/Zigs-weird-syntax/"
     ]
   ]
 ]
