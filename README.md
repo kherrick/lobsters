@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-07, 18:41:28](https://lobste.rs/s/2wtd3h/welcoming_two_new_rust_gpu_maintainers) - [Welcoming two new Rust GPU maintainers](https://rust-gpu.github.io/blog/2024/11/06/new-maintainers/)
 * [2024-11-07, 18:30:52](https://lobste.rs/s/jel39y/pylingual_toward_perfect_decompilation) - [PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052)
 * [2024-11-07, 18:26:39](https://lobste.rs/s/mm25bj/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2024](https://www.haiku-os.org/blog/waddlesplash/2024-11-06-haiku_activity_contract_report_october_2024)
 * [2024-11-07, 15:42:35](https://lobste.rs/s/wcm44c/visualising_software_architecture_with) - [Visualising software architecture with the C4 model (2019)](https://www.youtube.com/watch?v=x2-rSnhpw0g)
@@ -17,7 +18,6 @@
 * [2024-11-07, 02:12:45](https://lobste.rs/s/rzmesn/getopt_smaller) - [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
 * [2024-11-07, 00:55:17](https://lobste.rs/s/xetixd/visualizing_binary_files_with_imhex_s_dsl) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-07, 00:10:40](https://lobste.rs/s/br7rzx/how_learn_userland_disk_i_o) - [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
-* [2024-11-06, 22:48:47](https://lobste.rs/s/uxyu6v/emulator_odra_1003_1013_polish) - [Emulator of Odra 1003/1013, Polish mainframes of the 1960s](https://klemens-czajka-xyz.translate.goog/?_x_tr_sl=pl&_x_tr_tl=en&_x_tr_hl=pl&_x_tr_pto=wapp)
 * [2024-11-06, 21:00:17](https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app) - [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
 * [2024-11-06, 20:49:01](https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by) - [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
 * [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
