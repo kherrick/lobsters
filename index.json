@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-07, 03:13:16",
+      "https://lobste.rs/s/dbukto/rust_syn_crate_tutorial_automate_builder"
+    ],
+    [
+      "Rust Syn Crate Tutorial: Automate Builder Patterns with Custom Macros",
+      "https://packetandpine.com/blog/rust-syn-crate-tutorial/"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 02:12:45",
       "https://lobste.rs/s/rzmesn/getopt_smaller"
     ],
@@ -137,16 +147,6 @@
     [
       "Implementing distributed pooling in Elixir",
       "https://samrat.me/elixir-distributed-pooling/"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 11:45:10",
-      "https://lobste.rs/s/gqj8ku/unix_programmer_s_manual_third_edition"
-    ],
-    [
-      "UNIX Programmer's Manual: Third Edition (1973)",
-      "https://dspinellis.github.io/unix-v3man/v3man.pdf"
     ]
   ],
   [
