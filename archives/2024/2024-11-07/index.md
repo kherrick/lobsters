@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 07:09:51](https://lobste.rs/s/fvlfzx/big_array_size_survey_for_c) - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c)
 * [2024-11-07, 05:28:07](https://lobste.rs/s/whbh4v/science_concurrent_programs) - [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-11-07, 05:25:39](https://lobste.rs/s/pvt3jh/implementing_signal_s_double_ratchet) - [Implementing Signal’s Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
 * [2024-11-07, 03:13:16](https://lobste.rs/s/dbukto/rust_syn_crate_tutorial_automate_builder) - [Rust Syn Crate Tutorial: Automate Builder Patterns with Custom Macros](https://packetandpine.com/blog/rust-syn-crate-tutorial/)
