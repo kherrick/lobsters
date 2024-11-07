@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 09:30:47](https://lobste.rs/s/vfhknp/evolution_incident_response_at_podia) - [The evolution of incident response at Podia](https://jamie.ideasasylum.com/2024/11/02/the-evolution-of-incident-response-at-podia)
 * [2024-11-07, 08:37:39](https://lobste.rs/s/m9i8jy/peer_peer_mostly_main_peer_2022) - [peer to peer but mostly the main peer (2022)](https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html)
 * [2024-11-07, 08:10:19](https://lobste.rs/s/r7glre/2nf_missing_use_case) - [2NF: The Missing Use Case](https://datademythed.com/posts/2nf_missing_use_case/)
 * [2024-11-07, 07:59:48](https://lobste.rs/s/7b2ldp/oss_sec_shell_wildcard_expansion_un) - [oss-sec: shell wildcard expansion (un)safety](https://seclists.org/oss-sec/2024/q4/56)

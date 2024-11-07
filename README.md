@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-07, 09:30:47](https://lobste.rs/s/vfhknp/evolution_incident_response_at_podia) - [The evolution of incident response at Podia](https://jamie.ideasasylum.com/2024/11/02/the-evolution-of-incident-response-at-podia)
 * [2024-11-07, 08:37:39](https://lobste.rs/s/m9i8jy/peer_peer_mostly_main_peer_2022) - [peer to peer but mostly the main peer (2022)](https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html)
 * [2024-11-07, 08:10:19](https://lobste.rs/s/r7glre/2nf_missing_use_case) - [2NF: The Missing Use Case](https://datademythed.com/posts/2nf_missing_use_case/)
 * [2024-11-07, 07:59:48](https://lobste.rs/s/7b2ldp/oss_sec_shell_wildcard_expansion_un) - [oss-sec: shell wildcard expansion (un)safety](https://seclists.org/oss-sec/2024/q4/56)
@@ -21,7 +22,6 @@
 * [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 * [2024-11-06, 09:00:58](https://lobste.rs/s/qwjjhq/upcoming_changes_dnssec_root_trust) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 * [2024-11-06, 08:30:36](https://lobste.rs/s/10cnpm/turing_kicked_us_out_heaven_2023) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
-* [2024-11-06, 05:36:06](https://lobste.rs/s/md1rgn/gotosocial_wasm_based_sqlite_driver_bsd) - [GoToSocial WASM-based SQLite driver and BSD](https://www.tumfatig.net/2024/gotosocial-wasm-based-sqlite-driver-and-bsd/)
 * [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 * [2024-11-05, 16:47:02](https://lobste.rs/s/u3d6wv/configuring_ssh_keys_for_multiple_github) - [Configuring SSH Keys for Multiple GitHub Accounts](https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts)
 * [2024-11-05, 12:22:11](https://lobste.rs/s/hk7uq9/zig_s_syntax) - [Zig's (.{}){} syntax](https://www.openmymind.net/Zigs-weird-syntax/)
