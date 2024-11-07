@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 10:01:20](https://lobste.rs/s/tevuuh/proposal_for_django_project_template) - [Proposal for a Django project template](https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/)
 * [2024-11-07, 09:30:47](https://lobste.rs/s/vfhknp/evolution_incident_response_at_podia) - [The evolution of incident response at Podia](https://jamie.ideasasylum.com/2024/11/02/the-evolution-of-incident-response-at-podia)
 * [2024-11-07, 08:37:39](https://lobste.rs/s/m9i8jy/peer_peer_mostly_main_peer_2022) - [peer to peer but mostly the main peer (2022)](https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html)
 * [2024-11-07, 08:10:19](https://lobste.rs/s/r7glre/2nf_missing_use_case) - [2NF: The Missing Use Case](https://datademythed.com/posts/2nf_missing_use_case/)
