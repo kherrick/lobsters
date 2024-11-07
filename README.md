@@ -7,6 +7,7 @@
 * [2024-11-07, 11:23:02](https://lobste.rs/s/3qif0w/yellow_scream_2024) - [Yellow Scream (2024)](https://hannahilea.com/blog/yellow-scream-2024/)
 * [2024-11-07, 10:01:20](https://lobste.rs/s/tevuuh/proposal_for_django_project_template) - [Proposal for a Django project template](https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/)
 * [2024-11-07, 08:37:39](https://lobste.rs/s/m9i8jy/peer_peer_mostly_main_peer_2022) - [peer to peer but mostly the main peer (2022)](https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html)
+* [2024-11-07, 08:10:19](https://lobste.rs/s/r7glre/2nf_missing_use_case) - [2NF: The Missing Use Case](https://datademythed.com/posts/2nf_missing_use_case/)
 * [2024-11-07, 07:59:48](https://lobste.rs/s/7b2ldp/oss_sec_shell_wildcard_expansion_un) - [oss-sec: shell wildcard expansion (un)safety](https://seclists.org/oss-sec/2024/q4/56)
 * [2024-11-07, 07:09:51](https://lobste.rs/s/fvlfzx/big_array_size_survey_for_c) - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c)
 * [2024-11-07, 05:28:07](https://lobste.rs/s/whbh4v/science_concurrent_programs) - [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science-book.html)
@@ -24,7 +25,6 @@
 * [2024-11-06, 18:38:04](https://lobste.rs/s/qhamvf/why_podia_doesn_t_use_review_apps_anymore) - [Why Podia doesn’t use review apps anymore](https://jamie.ideasasylum.com/2024/10/31/why-podia-doesnt-use-review-apps-anymore)
 * [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 * [2024-11-06, 08:30:36](https://lobste.rs/s/10cnpm/turing_kicked_us_out_heaven_2023) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
-* [2024-11-05, 18:58:10](https://lobste.rs/s/gn9tb9/we_can_have_different_web) - [We can have a different web](https://www.citationneeded.news/we-can-have-a-different-web/)
 
 ## [Archives](archives/index.md)
 
