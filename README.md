@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-07, 15:42:35](https://lobste.rs/s/wcm44c/visualising_software_architecture_with) - [Visualising software architecture with the C4 model (2019)](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 * [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 * [2024-11-07, 14:02:52](https://lobste.rs/s/iukhuw/sanitize_client_side_why_server_side_html) - [Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail](https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/)
 * [2024-11-07, 13:46:01](https://lobste.rs/s/z1cyr1/freebsd_2024_q3_status_report) - [FreeBSD 2024 Q3 Status Report](https://www.freebsd.org/status/report-2024-07-2024-09/)
@@ -10,7 +11,6 @@
 * [2024-11-07, 07:09:51](https://lobste.rs/s/fvlfzx/big_array_size_survey_for_c) - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c)
 * [2024-11-07, 05:28:07](https://lobste.rs/s/whbh4v/science_concurrent_programs) - [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-11-07, 05:25:39](https://lobste.rs/s/pvt3jh/implementing_signal_s_double_ratchet) - [Implementing Signal’s Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
-* [2024-11-07, 03:13:16](https://lobste.rs/s/dbukto/rust_syn_crate_tutorial_automate_builder) - [Rust Syn Crate Tutorial: Automate Builder Patterns with Custom Macros](https://packetandpine.com/blog/rust-syn-crate-tutorial/)
 * [2024-11-07, 02:12:45](https://lobste.rs/s/rzmesn/getopt_smaller) - [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
 * [2024-11-07, 00:55:17](https://lobste.rs/s/xetixd/visualizing_binary_files_with_imhex_s_dsl) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-07, 00:10:40](https://lobste.rs/s/br7rzx/how_learn_userland_disk_i_o) - [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
