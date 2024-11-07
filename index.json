@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-07, 05:28:07",
+      "https://lobste.rs/s/whbh4v/science_concurrent_programs"
+    ],
+    [
+      "A Science of Concurrent Programs",
+      "https://lamport.azurewebsites.net/tla/science-book.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-07, 05:25:39",
+      "https://lobste.rs/s/pvt3jh/implementing_signal_s_double_ratchet"
+    ],
+    [
+      "Implementing Signal’s Double Ratchet algorithm (2020)",
+      "https://nfil.dev/coding/encryption/python/double-ratchet-example/"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 03:13:16",
       "https://lobste.rs/s/dbukto/rust_syn_crate_tutorial_automate_builder"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2024-11-06, 16:34:54",
-      "https://lobste.rs/s/tfuh3j/how_add_blazor_server_app_asp_net_model"
-    ],
-    [
-      "How to Add a Blazor Server App to an ASP.NET Model/Controller Web API",
-      "https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API"
-    ]
-  ],
-  [
-    [
       "2024-11-06, 16:14:30",
       "https://lobste.rs/s/l7ngkk/thoughts_on_improving_messaging"
     ],
@@ -217,16 +227,6 @@
     [
       "Configuring SSH Keys for Multiple GitHub Accounts",
       "https://stevenharman.net/configure-ssh-keys-for-multiple-github-accounts"
-    ]
-  ],
-  [
-    [
-      "2024-11-05, 14:43:15",
-      "https://lobste.rs/s/m9s9hw/thinking_about_recipe_formats_more_than"
-    ],
-    [
-      "Thinking About Recipe Formats More Than Anyone Should",
-      "https://rknight.me/blog/thinking-about-recipe-formats-more-than-anyone-should/"
     ]
   ],
   [
