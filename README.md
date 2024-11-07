@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-07, 19:08:49](https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for) - [determination: Rust typecheckers for System F and System F-omega](https://hg.sr.ht/~icefox/determination)
+* [2024-11-07, 19:00:04](https://lobste.rs/s/o15iiw/gccrs_alternative_compiler_for_rust) - [gccrs: An alternative compiler for Rust](https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html)
 * [2024-11-07, 18:41:28](https://lobste.rs/s/2wtd3h/welcoming_two_new_rust_gpu_maintainers) - [Welcoming two new Rust GPU maintainers](https://rust-gpu.github.io/blog/2024/11/06/new-maintainers/)
 * [2024-11-07, 18:30:52](https://lobste.rs/s/jel39y/pylingual_toward_perfect_decompilation) - [PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052)
 * [2024-11-07, 18:26:39](https://lobste.rs/s/mm25bj/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2024](https://www.haiku-os.org/blog/waddlesplash/2024-11-06-haiku_activity_contract_report_october_2024)
@@ -10,7 +12,6 @@
 * [2024-11-07, 11:23:02](https://lobste.rs/s/3qif0w/yellow_scream_2024) - [Yellow Scream (2024)](https://hannahilea.com/blog/yellow-scream-2024/)
 * [2024-11-07, 10:01:20](https://lobste.rs/s/tevuuh/proposal_for_django_project_template) - [Proposal for a Django project template](https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/)
 * [2024-11-07, 08:37:39](https://lobste.rs/s/m9i8jy/peer_peer_mostly_main_peer_2022) - [peer to peer but mostly the main peer (2022)](https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html)
-* [2024-11-07, 08:10:19](https://lobste.rs/s/r7glre/2nf_missing_use_case) - [2NF: The Missing Use Case](https://datademythed.com/posts/2nf_missing_use_case/)
 * [2024-11-07, 07:59:48](https://lobste.rs/s/7b2ldp/oss_sec_shell_wildcard_expansion_un) - [oss-sec: shell wildcard expansion (un)safety](https://seclists.org/oss-sec/2024/q4/56)
 * [2024-11-07, 07:09:51](https://lobste.rs/s/fvlfzx/big_array_size_survey_for_c) - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c)
 * [2024-11-07, 05:28:07](https://lobste.rs/s/whbh4v/science_concurrent_programs) - [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science-book.html)
@@ -23,7 +24,6 @@
 * [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 * [2024-11-06, 20:23:22](https://lobste.rs/s/6vxxxj/reliable_immutable_transfer_protocol) - [Reliable Immutable Transfer Protocol](https://paper.wf/binarycat/reliable-immutable-transfer-protocol)
 * [2024-11-06, 19:52:14](https://lobste.rs/s/2ka0ps/perhaps_rust_needs_defer) - [Perhaps Rust needs \"defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
-* [2024-11-06, 18:54:20](https://lobste.rs/s/wk158y/localized_web_based_markdown_note_taking) - [Localized, web-based, markdown, note-taking app inspired by textpod](https://github.com/Xafloc/NoteFlow)
 * [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
 
 ## [Archives](archives/index.md)
