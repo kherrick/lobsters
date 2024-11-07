@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-07, 19:53:07](https://lobste.rs/s/efl89f/opinionated_guide_keyboard_thumb_keys) - [An Opinionated Guide to Keyboard Thumb Keys](https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/)
 * [2024-11-07, 19:15:20](https://lobste.rs/s/q9dovm/functors_monads_story_shapes) - [Functors to Monads: A Story of Shapes](https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html)
 * [2024-11-07, 19:08:49](https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for) - [determination: Rust typecheckers for System F and System F-omega](https://hg.sr.ht/~icefox/determination)
 * [2024-11-07, 19:00:04](https://lobste.rs/s/o15iiw/gccrs_alternative_compiler_for_rust) - [gccrs: An alternative compiler for Rust](https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html)
 * [2024-11-07, 18:41:28](https://lobste.rs/s/2wtd3h/welcoming_two_new_rust_gpu_maintainers) - [Welcoming two new Rust GPU maintainers](https://rust-gpu.github.io/blog/2024/11/06/new-maintainers/)
 * [2024-11-07, 18:30:52](https://lobste.rs/s/jel39y/pylingual_toward_perfect_decompilation) - [PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052)
-* [2024-11-07, 18:26:39](https://lobste.rs/s/mm25bj/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2024](https://www.haiku-os.org/blog/waddlesplash/2024-11-06-haiku_activity_contract_report_october_2024)
 * [2024-11-07, 15:42:35](https://lobste.rs/s/wcm44c/visualising_software_architecture_with) - [Visualising software architecture with the C4 model (2019)](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 * [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 * [2024-11-07, 14:02:52](https://lobste.rs/s/iukhuw/sanitize_client_side_why_server_side_html) - [Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail](https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/)
