@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 18:30:52](https://lobste.rs/s/jel39y/pylingual_toward_perfect_decompilation) - [PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052)
+* [2024-11-07, 18:26:39](https://lobste.rs/s/mm25bj/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2024](https://www.haiku-os.org/blog/waddlesplash/2024-11-06-haiku_activity_contract_report_october_2024)
 * [2024-11-07, 15:42:35](https://lobste.rs/s/wcm44c/visualising_software_architecture_with) - [Visualising software architecture with the C4 model (2019)](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 * [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 * [2024-11-07, 14:02:52](https://lobste.rs/s/iukhuw/sanitize_client_side_why_server_side_html) - [Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail](https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/)

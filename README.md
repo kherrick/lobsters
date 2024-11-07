@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-07, 18:30:52](https://lobste.rs/s/jel39y/pylingual_toward_perfect_decompilation) - [PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052)
+* [2024-11-07, 18:26:39](https://lobste.rs/s/mm25bj/haiku_activity_contract_report_october) - [Haiku Activity & Contract Report, October 2024](https://www.haiku-os.org/blog/waddlesplash/2024-11-06-haiku_activity_contract_report_october_2024)
 * [2024-11-07, 15:42:35](https://lobste.rs/s/wcm44c/visualising_software_architecture_with) - [Visualising software architecture with the C4 model (2019)](https://www.youtube.com/watch?v=x2-rSnhpw0g)
 * [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 * [2024-11-07, 14:02:52](https://lobste.rs/s/iukhuw/sanitize_client_side_why_server_side_html) - [Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail](https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/)
@@ -22,9 +24,7 @@
 * [2024-11-06, 20:23:22](https://lobste.rs/s/6vxxxj/reliable_immutable_transfer_protocol) - [Reliable Immutable Transfer Protocol](https://paper.wf/binarycat/reliable-immutable-transfer-protocol)
 * [2024-11-06, 19:52:14](https://lobste.rs/s/2ka0ps/perhaps_rust_needs_defer) - [Perhaps Rust needs \"defer\"](https://gaultier.github.io/blog/perhaps_rust_needs_defer.html)
 * [2024-11-06, 18:54:20](https://lobste.rs/s/wk158y/localized_web_based_markdown_note_taking) - [Localized, web-based, markdown, note-taking app inspired by textpod](https://github.com/Xafloc/NoteFlow)
-* [2024-11-06, 18:38:04](https://lobste.rs/s/qhamvf/why_podia_doesn_t_use_review_apps_anymore) - [Why Podia doesn’t use review apps anymore](https://jamie.ideasasylum.com/2024/10/31/why-podia-doesnt-use-review-apps-anymore)
 * [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
-* [2024-11-06, 08:30:36](https://lobste.rs/s/10cnpm/turing_kicked_us_out_heaven_2023) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
 
 ## [Archives](archives/index.md)
 
