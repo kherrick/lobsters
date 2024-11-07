@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-07, 03:13:16](https://lobste.rs/s/dbukto/rust_syn_crate_tutorial_automate_builder) - [Rust Syn Crate Tutorial: Automate Builder Patterns with Custom Macros](https://packetandpine.com/blog/rust-syn-crate-tutorial/)
 * [2024-11-07, 02:12:45](https://lobste.rs/s/rzmesn/getopt_smaller) - [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
 * [2024-11-07, 00:55:17](https://lobste.rs/s/xetixd/visualizing_binary_files_with_imhex_s_dsl) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-07, 00:10:40](https://lobste.rs/s/br7rzx/how_learn_userland_disk_i_o) - [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
@@ -14,7 +15,6 @@
 * [2024-11-06, 16:34:54](https://lobste.rs/s/tfuh3j/how_add_blazor_server_app_asp_net_model) - [How to Add a Blazor Server App to an ASP.NET Model/Controller Web API](https://danschnau.com/blog/how_to_add_a_Blazor_Server_App_to_an_ASPNET_Controller_Web_API)
 * [2024-11-06, 16:14:30](https://lobste.rs/s/l7ngkk/thoughts_on_improving_messaging) - [Thoughts on Improving Messaging Protocols — Part 2, Matrix](https://www.process-one.net/blog/thoughts-on-improving-messaging-protocols-part-2-matrix/)
 * [2024-11-06, 15:47:41](https://lobste.rs/s/m9spu9/implementing_distributed_pooling) - [Implementing distributed pooling in Elixir](https://samrat.me/elixir-distributed-pooling/)
-* [2024-11-06, 11:45:10](https://lobste.rs/s/gqj8ku/unix_programmer_s_manual_third_edition) - [UNIX Programmer's Manual: Third Edition (1973)](https://dspinellis.github.io/unix-v3man/v3man.pdf)
 * [2024-11-06, 09:00:58](https://lobste.rs/s/qwjjhq/upcoming_changes_dnssec_root_trust) - [Upcoming changes to the DNSSEC root trust anchor](https://lists.dns-oarc.net/pipermail/dns-operations/2024-November/022711.html)
 * [2024-11-06, 08:30:36](https://lobste.rs/s/10cnpm/turing_kicked_us_out_heaven_2023) - [Turing kicked us out of Heaven (2023)](https://buttondown.com/hillelwayne/archive/turing-kicked-us-out-of-heaven/)
 * [2024-11-06, 07:25:26](https://lobste.rs/s/2uqysp/vegetation_cod_bo4) - [Vegetation in COD:BO4](https://c0de517e.com/015_vegetation_system.htm)
