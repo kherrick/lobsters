@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-07](index.md)
 
+* [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 * [2024-11-07, 14:02:52](https://lobste.rs/s/iukhuw/sanitize_client_side_why_server_side_html) - [Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail](https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/)
 * [2024-11-07, 13:46:01](https://lobste.rs/s/z1cyr1/freebsd_2024_q3_status_report) - [FreeBSD 2024 Q3 Status Report](https://www.freebsd.org/status/report-2024-07-2024-09/)
 * [2024-11-07, 12:12:44](https://lobste.rs/s/wobxmd/deterioration_google) - [The deterioration of Google](https://www.baldurbjarnason.com/2024/the-deterioration-of-google/)
