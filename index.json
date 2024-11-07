@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-07, 14:02:52",
+      "https://lobste.rs/s/iukhuw/sanitize_client_side_why_server_side_html"
+    ],
+    [
+      "Sanitize Client-Side: Why Server-Side HTML Sanitization is Doomed to Fail",
+      "https://www.sonarsource.com/blog/sanitize-client-side-why-server-side-html-sanitization-is-doomed-to-fail/"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 13:46:01",
       "https://lobste.rs/s/z1cyr1/freebsd_2024_q3_status_report"
     ],
@@ -37,16 +47,6 @@
     [
       "Proposal for a Django project template",
       "https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 09:30:47",
-      "https://lobste.rs/s/vfhknp/evolution_incident_response_at_podia"
-    ],
-    [
-      "The evolution of incident response at Podia",
-      "https://jamie.ideasasylum.com/2024/11/02/the-evolution-of-incident-response-at-podia"
     ]
   ],
   [
