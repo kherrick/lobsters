@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-11-07, 19:15:20",
+      "https://lobste.rs/s/q9dovm/functors_monads_story_shapes"
+    ],
+    [
+      "Functors to Monads: A Story of Shapes",
+      "https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 19:08:49",
       "https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for"
     ],
@@ -227,16 +237,6 @@
     [
       "Fruit Credits: a personal accounting app based on hledger",
       "https://dz4k.com/2024/fruit-credits/"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 20:49:01",
-      "https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by"
-    ],
-    [
-      "Exploring Postgres's arena allocator by writing an HTTP server from scratch",
-      "https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch"
     ]
   ],
   [
