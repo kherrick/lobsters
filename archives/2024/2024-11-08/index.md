@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 23:16:44](https://lobste.rs/s/xuwncj/known_attacks_on_elliptic_curve) - [Known Attacks On Elliptic Curve Cryptography](https://github.com/elikaski/ECC_Attacks)
 * [2024-11-08, 22:15:44](https://lobste.rs/s/5gw5u0/algol_68_seemed_like_good_idea_until_it) - [Algol-68 seemed like a good idea – until it wasn’t](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 * [2024-11-08, 21:41:25](https://lobste.rs/s/xcgglo/tone_life) - [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
 * [2024-11-08, 20:11:11](https://lobste.rs/s/q3bwym/cmdx_golang_library_designed_simplify) - [cmdx: A Golang library designed to simplify the execution of shell commands and handle their output](https://github.com/kgs19/cmdx)
