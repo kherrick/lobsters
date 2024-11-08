@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 04:12:11](https://lobste.rs/s/9pe1ll/clojure_live_sports_television_clojure) - [Clojure in live sports television (Clojure Conj 2024)](https://www.youtube.com/watch?v=kIhY4VDa820)
 * [2024-11-08, 03:40:24](https://lobste.rs/s/ozzwkn/code_spelunking_docc) - [Code Spelunking in DocC](https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/)
 * [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 * [2024-11-08, 02:23:07](https://lobste.rs/s/xaoazl/i_m_not_mutable_i_m_partially_instantiated) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
@@ -8,7 +9,6 @@
 * [2024-11-07, 22:13:59](https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c) - [CORAL: a Rust-like Borrow Checker for C](https://github.com/tiagodusilva/coral)
 * [2024-11-07, 21:44:06](https://lobste.rs/s/7qf9vp/ysco_managed_automated_updates_for_go) - [Ysco - managed automated updates for Go services](https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/)
 * [2024-11-07, 19:53:07](https://lobste.rs/s/efl89f/opinionated_guide_keyboard_thumb_keys) - [An Opinionated Guide to Keyboard Thumb Keys](https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/)
-* [2024-11-07, 19:15:20](https://lobste.rs/s/q9dovm/functors_monads_story_shapes) - [Functors to Monads: A Story of Shapes](https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html)
 * [2024-11-07, 19:08:49](https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for) - [determination: Rust typecheckers for System F and System F-omega](https://hg.sr.ht/~icefox/determination)
 * [2024-11-07, 19:00:04](https://lobste.rs/s/o15iiw/gccrs_alternative_compiler_for_rust) - [gccrs: An alternative compiler for Rust](https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html)
 * [2024-11-07, 18:41:28](https://lobste.rs/s/2wtd3h/welcoming_two_new_rust_gpu_maintainers) - [Welcoming two new Rust GPU maintainers](https://rust-gpu.github.io/blog/2024/11/06/new-maintainers/)
