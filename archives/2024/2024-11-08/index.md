@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 11:11:00](https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend)
 * [2024-11-08, 10:40:10](https://lobste.rs/s/tfpuly/how_make_reviewing_pull_requests_better) - [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
 * [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [2024-11-08, 09:17:59](https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
