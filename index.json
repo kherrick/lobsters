@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-08, 08:41:57",
+      "https://lobste.rs/s/2hboon/creating_brainrot_language_server"
+    ],
+    [
+      "Creating a Brainrot Language Server in Golang",
+      "https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 05:27:52",
       "https://lobste.rs/s/zxl0od/understanding_trust_relationships"
     ],
@@ -237,16 +247,6 @@
     [
       "Fruit Credits: a personal accounting app based on hledger",
       "https://dz4k.com/2024/fruit-credits/"
-    ]
-  ],
-  [
-    [
-      "2024-11-06, 20:46:17",
-      "https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill"
-    ],
-    [
-      "How WebSockets cost us $1M on our AWS bill",
-      "https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill"
     ]
   ]
 ]
