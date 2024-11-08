@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-08, 15:32:30",
+      "https://lobste.rs/s/hmn5xa/analytics_optimized_concurrent"
+    ],
+    [
+      "Analytics-Optimized Concurrent Transactions",
+      "https://duckdb.org/2024/10/30/analytics-optimized-concurrent-transactions.html"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 13:35:19",
       "https://lobste.rs/s/dhgsby/new_era_macos_sandbox_escapes_overlooked"
     ],
@@ -107,16 +117,6 @@
     [
       "Creating a Brainrot Language Server in Golang",
       "https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 05:27:52",
-      "https://lobste.rs/s/zxl0od/understanding_trust_relationships"
-    ],
-    [
-      "Understanding Trust Relationships in Cloud-Based Confidential Computing",
-      "https://systex24.github.io/papers/systex24-final21.pdf"
     ]
   ],
   [
