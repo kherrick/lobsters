@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 08:41:57](https://lobste.rs/s/2hboon/creating_brainrot_language_server) - [Creating a Brainrot Language Server in Golang](https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/)
 * [2024-11-08, 05:27:52](https://lobste.rs/s/zxl0od/understanding_trust_relationships) - [Understanding Trust Relationships in Cloud-Based Confidential Computing](https://systex24.github.io/papers/systex24-final21.pdf)
 * [2024-11-08, 04:12:11](https://lobste.rs/s/9pe1ll/clojure_live_sports_television_clojure) - [Clojure in live sports television (Clojure Conj 2024)](https://www.youtube.com/watch?v=kIhY4VDa820)
 * [2024-11-08, 03:40:24](https://lobste.rs/s/ozzwkn/code_spelunking_docc) - [Code Spelunking in DocC](https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/)
@@ -24,7 +25,6 @@
 * [2024-11-07, 02:12:45](https://lobste.rs/s/rzmesn/getopt_smaller) - [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
 * [2024-11-07, 00:10:40](https://lobste.rs/s/br7rzx/how_learn_userland_disk_i_o) - [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
 * [2024-11-06, 21:00:17](https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app) - [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
-* [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 
 ## [Archives](archives/index.md)
 
