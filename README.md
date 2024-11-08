@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 22:15:44](https://lobste.rs/s/5gw5u0/algol_68_seemed_like_good_idea_until_it) - [Algol-68 seemed like a good idea – until it wasn’t](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 * [2024-11-08, 21:41:25](https://lobste.rs/s/xcgglo/tone_life) - [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
 * [2024-11-08, 20:11:11](https://lobste.rs/s/q3bwym/cmdx_golang_library_designed_simplify) - [cmdx: A Golang library designed to simplify the execution of shell commands and handle their output](https://github.com/kgs19/cmdx)
 * [2024-11-08, 19:53:11](https://lobste.rs/s/dvn1tz/8_steps_writing_analytical_sql_queries) - [8 Steps in Writing Analytical SQL Queries](https://www.crunchydata.com/blog/8-steps-in-writing-analytical-sql-queries)
@@ -14,7 +15,6 @@
 * [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [2024-11-08, 09:17:59](https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 * [2024-11-08, 09:16:08](https://lobste.rs/s/vwmshx/desktop_icons_are_surprisingly_hard) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
-* [2024-11-08, 09:05:19](https://lobste.rs/s/xd0xuq/using_diy_tool_add_custom_qmk_features) - [Using a DIY tool to add custom QMK features to your Oryx layout](https://blog.zsa.io/oryx-custom-qmk-features/)
 * [2024-11-08, 08:41:57](https://lobste.rs/s/2hboon/creating_brainrot_language_server) - [Creating a Brainrot Language Server in Golang](https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/)
 * [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 * [2024-11-08, 02:23:07](https://lobste.rs/s/xaoazl/i_m_not_mutable_i_m_partially_instantiated) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
