@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 21:41:25](https://lobste.rs/s/xcgglo/tone_life) - [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
 * [2024-11-08, 20:11:11](https://lobste.rs/s/q3bwym/cmdx_golang_library_designed_simplify) - [cmdx: A Golang library designed to simplify the execution of shell commands and handle their output](https://github.com/kgs19/cmdx)
 * [2024-11-08, 19:53:11](https://lobste.rs/s/dvn1tz/8_steps_writing_analytical_sql_queries) - [8 Steps in Writing Analytical SQL Queries](https://www.crunchydata.com/blog/8-steps-in-writing-analytical-sql-queries)
 * [2024-11-08, 19:00:28](https://lobste.rs/s/0vipec/announcing_planet_nix) - [Announcing Planet Nix](https://discourse.nixos.org/t/announcing-planet-nix/55350)

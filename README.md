@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 21:41:25](https://lobste.rs/s/xcgglo/tone_life) - [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
 * [2024-11-08, 20:11:11](https://lobste.rs/s/q3bwym/cmdx_golang_library_designed_simplify) - [cmdx: A Golang library designed to simplify the execution of shell commands and handle their output](https://github.com/kgs19/cmdx)
 * [2024-11-08, 19:53:11](https://lobste.rs/s/dvn1tz/8_steps_writing_analytical_sql_queries) - [8 Steps in Writing Analytical SQL Queries](https://www.crunchydata.com/blog/8-steps-in-writing-analytical-sql-queries)
 * [2024-11-08, 19:00:28](https://lobste.rs/s/0vipec/announcing_planet_nix) - [Announcing Planet Nix](https://discourse.nixos.org/t/announcing-planet-nix/55350)
@@ -24,7 +25,6 @@
 * [2024-11-07, 19:08:49](https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for) - [determination: Rust typecheckers for System F and System F-omega](https://hg.sr.ht/~icefox/determination)
 * [2024-11-07, 19:00:04](https://lobste.rs/s/o15iiw/gccrs_alternative_compiler_for_rust) - [gccrs: An alternative compiler for Rust](https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html)
 * [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
-* [2024-11-07, 02:12:45](https://lobste.rs/s/rzmesn/getopt_smaller) - [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
 
 ## [Archives](archives/index.md)
 
