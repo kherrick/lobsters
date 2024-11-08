@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 19:53:11](https://lobste.rs/s/dvn1tz/8_steps_writing_analytical_sql_queries) - [8 Steps in Writing Analytical SQL Queries](https://www.crunchydata.com/blog/8-steps-in-writing-analytical-sql-queries)
 * [2024-11-08, 19:00:28](https://lobste.rs/s/0vipec/announcing_planet_nix) - [Announcing Planet Nix](https://discourse.nixos.org/t/announcing-planet-nix/55350)
 * [2024-11-08, 17:45:28](https://lobste.rs/s/gsvudb/case_program_crashed_on_its_first) - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
-* [2024-11-08, 15:32:30](https://lobste.rs/s/hmn5xa/analytics_optimized_concurrent) - [Analytics-Optimized Concurrent Transactions](https://duckdb.org/2024/10/30/analytics-optimized-concurrent-transactions.html)
 * [2024-11-08, 13:35:19](https://lobste.rs/s/dhgsby/new_era_macos_sandbox_escapes_overlooked) - [A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
 * [2024-11-08, 13:22:53](https://lobste.rs/s/yulcql/how_we_built_self_healing_system_survive) - [How We Built a Self-Healing System to Survive a Terrifying Concurrency Bug At Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
 * [2024-11-08, 13:14:59](https://lobste.rs/s/gsj2e2/how_self_host_all_bluesky_except_appview) - [How to self-host all of Bluesky (except the AppView (for now))](https://alice.bsky.sh/post/3laega7icmi2q)
