@@ -18,11 +18,11 @@
 * [2024-11-08, 08:41:57](https://lobste.rs/s/2hboon/creating_brainrot_language_server) - [Creating a Brainrot Language Server in Golang](https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/)
 * [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 * [2024-11-08, 02:23:07](https://lobste.rs/s/xaoazl/i_m_not_mutable_i_m_partially_instantiated) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
+* [2024-11-07, 22:37:04](https://lobste.rs/s/ocnnp0/bringing_faster_exceptions_rust) - [Bringing faster exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 * [2024-11-07, 22:31:22](https://lobste.rs/s/qaojtk/linus_torvalds_lands_2_6_performance) - [Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch](https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch)
 * [2024-11-07, 22:13:59](https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c) - [CORAL: a Rust-like Borrow Checker for C](https://github.com/tiagodusilva/coral)
 * [2024-11-07, 21:44:06](https://lobste.rs/s/7qf9vp/ysco_managed_automated_updates_for_go) - [Ysco - managed automated updates for Go services](https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/)
 * [2024-11-07, 19:53:07](https://lobste.rs/s/efl89f/opinionated_guide_keyboard_thumb_keys) - [An Opinionated Guide to Keyboard Thumb Keys](https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/)
-* [2024-11-07, 19:08:49](https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for) - [determination: Rust typecheckers for System F and System F-omega](https://hg.sr.ht/~icefox/determination)
 * [2024-11-07, 19:00:04](https://lobste.rs/s/o15iiw/gccrs_alternative_compiler_for_rust) - [gccrs: An alternative compiler for Rust](https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html)
 * [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 
