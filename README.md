@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 10:40:10](https://lobste.rs/s/tfpuly/how_make_reviewing_pull_requests_better) - [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
+* [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [2024-11-08, 09:17:59](https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 * [2024-11-08, 09:16:08](https://lobste.rs/s/vwmshx/desktop_icons_are_surprisingly_hard) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
 * [2024-11-08, 09:05:19](https://lobste.rs/s/xd0xuq/using_diy_tool_add_custom_qmk_features) - [Using a DIY tool to add custom QMK features to your Oryx layout](https://blog.zsa.io/oryx-custom-qmk-features/)
@@ -23,8 +25,6 @@
 * [2024-11-07, 08:37:39](https://lobste.rs/s/m9i8jy/peer_peer_mostly_main_peer_2022) - [peer to peer but mostly the main peer (2022)](https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html)
 * [2024-11-07, 07:09:51](https://lobste.rs/s/fvlfzx/big_array_size_survey_for_c) - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c)
 * [2024-11-07, 02:12:45](https://lobste.rs/s/rzmesn/getopt_smaller) - [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
-* [2024-11-07, 00:10:40](https://lobste.rs/s/br7rzx/how_learn_userland_disk_i_o) - [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
-* [2024-11-06, 21:00:17](https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app) - [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
 
 ## [Archives](archives/index.md)
 

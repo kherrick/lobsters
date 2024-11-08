@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 10:40:10](https://lobste.rs/s/tfpuly/how_make_reviewing_pull_requests_better) - [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
+* [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [2024-11-08, 09:17:59](https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 * [2024-11-08, 09:16:08](https://lobste.rs/s/vwmshx/desktop_icons_are_surprisingly_hard) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
 * [2024-11-08, 09:05:19](https://lobste.rs/s/xd0xuq/using_diy_tool_add_custom_qmk_features) - [Using a DIY tool to add custom QMK features to your Oryx layout](https://blog.zsa.io/oryx-custom-qmk-features/)
