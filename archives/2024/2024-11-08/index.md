@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 12:14:49](https://lobste.rs/s/4pkl0h/qnx_becomes_free_for_non_commercial_use) - [QNX becomes free for non-commercial use](https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/)
 * [2024-11-08, 11:11:00](https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend)
 * [2024-11-08, 10:40:10](https://lobste.rs/s/tfpuly/how_make_reviewing_pull_requests_better) - [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
 * [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)

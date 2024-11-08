@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 12:14:49](https://lobste.rs/s/4pkl0h/qnx_becomes_free_for_non_commercial_use) - [QNX becomes free for non-commercial use](https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/)
 * [2024-11-08, 11:11:00](https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend)
 * [2024-11-08, 10:40:10](https://lobste.rs/s/tfpuly/how_make_reviewing_pull_requests_better) - [How to make reviewing pull requests a better experience](https://opensource.net/simplify-pull-request-reviews/)
 * [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
@@ -20,7 +21,6 @@
 * [2024-11-07, 18:30:52](https://lobste.rs/s/jel39y/pylingual_toward_perfect_decompilation) - [PYLINGUAL: Toward Perfect Decompilation of Evolving High-Level Languages](https://doi.ieeecomputersociety.org/10.1109/SP61157.2025.00052)
 * [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 * [2024-11-07, 13:46:01](https://lobste.rs/s/z1cyr1/freebsd_2024_q3_status_report) - [FreeBSD 2024 Q3 Status Report](https://www.freebsd.org/status/report-2024-07-2024-09/)
-* [2024-11-07, 11:23:02](https://lobste.rs/s/3qif0w/yellow_scream_2024) - [Yellow Scream (2024)](https://hannahilea.com/blog/yellow-scream-2024/)
 * [2024-11-07, 10:01:20](https://lobste.rs/s/tevuuh/proposal_for_django_project_template) - [Proposal for a Django project template](https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/)
 * [2024-11-07, 08:37:39](https://lobste.rs/s/m9i8jy/peer_peer_mostly_main_peer_2022) - [peer to peer but mostly the main peer (2022)](https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html)
 * [2024-11-07, 07:09:51](https://lobste.rs/s/fvlfzx/big_array_size_survey_for_c) - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c)
