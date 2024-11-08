@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 * [2024-11-08, 02:23:07](https://lobste.rs/s/xaoazl/i_m_not_mutable_i_m_partially_instantiated) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-07, 22:37:04](https://lobste.rs/s/ocnnp0/bringing_faster_exceptions_rust) - [Bringing faster exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 * [2024-11-07, 22:31:22](https://lobste.rs/s/qaojtk/linus_torvalds_lands_2_6_performance) - [Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch](https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch)
@@ -21,7 +22,6 @@
 * [2024-11-07, 05:28:07](https://lobste.rs/s/whbh4v/science_concurrent_programs) - [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-11-07, 05:25:39](https://lobste.rs/s/pvt3jh/implementing_signal_s_double_ratchet) - [Implementing Signal’s Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
 * [2024-11-07, 02:12:45](https://lobste.rs/s/rzmesn/getopt_smaller) - [getopt() but smaller](https://dotat.at/@/2024-11-06-getopt.html)
-* [2024-11-07, 00:55:17](https://lobste.rs/s/xetixd/visualizing_binary_files_with_imhex_s_dsl) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-07, 00:10:40](https://lobste.rs/s/br7rzx/how_learn_userland_disk_i_o) - [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
 * [2024-11-06, 21:00:17](https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app) - [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
 * [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
