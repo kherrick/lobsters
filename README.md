@@ -5,6 +5,7 @@
 * [2024-11-07, 22:13:59](https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c) - [CORAL: a Rust-like Borrow Checker for C](https://github.com/tiagodusilva/coral)
 * [2024-11-07, 21:44:06](https://lobste.rs/s/7qf9vp/ysco_managed_automated_updates_for_go) - [Ysco - managed automated updates for Go services](https://www.ueber.net/who/mjl/blog/p/ysco-managed-automated-updates-for-go-services/)
 * [2024-11-07, 19:53:07](https://lobste.rs/s/efl89f/opinionated_guide_keyboard_thumb_keys) - [An Opinionated Guide to Keyboard Thumb Keys](https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/)
+* [2024-11-07, 19:15:20](https://lobste.rs/s/q9dovm/functors_monads_story_shapes) - [Functors to Monads: A Story of Shapes](https://blog.jle.im/entry/functors-to-monads-a-story-of-shapes.html)
 * [2024-11-07, 19:08:49](https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for) - [determination: Rust typecheckers for System F and System F-omega](https://hg.sr.ht/~icefox/determination)
 * [2024-11-07, 19:00:04](https://lobste.rs/s/o15iiw/gccrs_alternative_compiler_for_rust) - [gccrs: An alternative compiler for Rust](https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html)
 * [2024-11-07, 18:41:28](https://lobste.rs/s/2wtd3h/welcoming_two_new_rust_gpu_maintainers) - [Welcoming two new Rust GPU maintainers](https://rust-gpu.github.io/blog/2024/11/06/new-maintainers/)
@@ -23,7 +24,6 @@
 * [2024-11-07, 00:55:17](https://lobste.rs/s/xetixd/visualizing_binary_files_with_imhex_s_dsl) - [Visualizing binary files with ImHex's DSL, the \"pattern language\"](https://xy2i.blogspot.com/2024/11/using-imhexs-pattern-language-to-parse.html)
 * [2024-11-07, 00:10:40](https://lobste.rs/s/br7rzx/how_learn_userland_disk_i_o) - [How to Learn: Userland Disk I/O](https://transactional.blog/how-to-learn/disk-io)
 * [2024-11-06, 21:00:17](https://lobste.rs/s/bvhb0k/fruit_credits_personal_accounting_app) - [Fruit Credits: a personal accounting app based on hledger](https://dz4k.com/2024/fruit-credits/)
-* [2024-11-06, 20:49:01](https://lobste.rs/s/o63vjv/exploring_postgres_s_arena_allocator_by) - [Exploring Postgres's arena allocator by writing an HTTP server from scratch](https://www.enterprisedb.com/blog/exploring-postgress-arena-allocator-writing-http-server-scratch)
 * [2024-11-06, 20:46:17](https://lobste.rs/s/j6iney/how_websockets_cost_us_1m_on_our_aws_bill) - [How WebSockets cost us $1M on our AWS bill](https://www.recall.ai/post/how-websockets-cost-us-1m-on-our-aws-bill)
 
 ## [Archives](archives/index.md)
