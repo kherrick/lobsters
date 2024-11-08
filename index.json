@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-08, 17:45:28",
+      "https://lobste.rs/s/gsvudb/case_program_crashed_on_its_first"
+    ],
+    [
+      "The case of a program that crashed on its first instruction",
+      "https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 15:32:30",
       "https://lobste.rs/s/hmn5xa/analytics_optimized_concurrent"
     ],
@@ -117,16 +127,6 @@
     [
       "Creating a Brainrot Language Server in Golang",
       "https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 04:12:11",
-      "https://lobste.rs/s/9pe1ll/clojure_live_sports_television_clojure"
-    ],
-    [
-      "Clojure in live sports television (Clojure Conj 2024)",
-      "https://www.youtube.com/watch?v=kIhY4VDa820"
     ]
   ],
   [
