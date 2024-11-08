@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-08](index.md)
+
+* [2024-11-08, 02:23:07](https://lobste.rs/s/xaoazl/i_m_not_mutable_i_m_partially_instantiated) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)

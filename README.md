@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-08, 02:23:07](https://lobste.rs/s/xaoazl/i_m_not_mutable_i_m_partially_instantiated) - [I'm not mutable, I'm partially instantiated](https://blog.dnmfarrell.com/post/incomplete-data-structures/)
 * [2024-11-07, 22:37:04](https://lobste.rs/s/ocnnp0/bringing_faster_exceptions_rust) - [Bringing faster exceptions to Rust](https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/)
 * [2024-11-07, 22:31:22](https://lobste.rs/s/qaojtk/linus_torvalds_lands_2_6_performance) - [Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch](https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch)
 * [2024-11-07, 22:13:59](https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c) - [CORAL: a Rust-like Borrow Checker for C](https://github.com/tiagodusilva/coral)
@@ -16,7 +17,6 @@
 * [2024-11-07, 11:23:02](https://lobste.rs/s/3qif0w/yellow_scream_2024) - [Yellow Scream (2024)](https://hannahilea.com/blog/yellow-scream-2024/)
 * [2024-11-07, 10:01:20](https://lobste.rs/s/tevuuh/proposal_for_django_project_template) - [Proposal for a Django project template](https://david.guillot.me/en/posts/tech/proposal-for-a-django-project-template/)
 * [2024-11-07, 08:37:39](https://lobste.rs/s/m9i8jy/peer_peer_mostly_main_peer_2022) - [peer to peer but mostly the main peer (2022)](https://computer.rip/2022-01-16-peer-to-peer-but-mostly-the-main-peer.html)
-* [2024-11-07, 07:59:48](https://lobste.rs/s/7b2ldp/oss_sec_shell_wildcard_expansion_un) - [oss-sec: shell wildcard expansion (un)safety](https://seclists.org/oss-sec/2024/q4/56)
 * [2024-11-07, 07:09:51](https://lobste.rs/s/fvlfzx/big_array_size_survey_for_c) - [The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c)
 * [2024-11-07, 05:28:07](https://lobste.rs/s/whbh4v/science_concurrent_programs) - [A Science of Concurrent Programs](https://lamport.azurewebsites.net/tla/science-book.html)
 * [2024-11-07, 05:25:39](https://lobste.rs/s/pvt3jh/implementing_signal_s_double_ratchet) - [Implementing Signal’s Double Ratchet algorithm (2020)](https://nfil.dev/coding/encryption/python/double-ratchet-example/)
