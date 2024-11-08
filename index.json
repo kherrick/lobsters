@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-08, 03:40:24",
+      "https://lobste.rs/s/ozzwkn/code_spelunking_docc"
+    ],
+    [
+      "Code Spelunking in DocC",
+      "https://rhonabwy.com/2024/11/07/code-spelunking-in-docc/"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 03:04:18",
       "https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required"
     ],
@@ -197,16 +207,6 @@
     [
       "A Science of Concurrent Programs",
       "https://lamport.azurewebsites.net/tla/science-book.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 05:25:39",
-      "https://lobste.rs/s/pvt3jh/implementing_signal_s_double_ratchet"
-    ],
-    [
-      "Implementing Signal’s Double Ratchet algorithm (2020)",
-      "https://nfil.dev/coding/encryption/python/double-ratchet-example/"
     ]
   ],
   [
