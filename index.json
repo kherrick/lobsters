@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2024-11-07, 22:37:04",
+      "https://lobste.rs/s/ocnnp0/bringing_faster_exceptions_rust"
+    ],
+    [
+      "Bringing faster exceptions to Rust",
+      "https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/"
+    ]
+  ],
+  [
+    [
       "2024-11-07, 22:31:22",
       "https://lobste.rs/s/qaojtk/linus_torvalds_lands_2_6_performance"
     ],
@@ -217,16 +227,6 @@
     [
       "An Opinionated Guide to Keyboard Thumb Keys",
       "https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 19:08:49",
-      "https://lobste.rs/s/hdbvyy/determination_rust_typecheckers_for"
-    ],
-    [
-      "determination: Rust typecheckers for System F and System F-omega",
-      "https://hg.sr.ht/~icefox/determination"
     ]
   ],
   [
