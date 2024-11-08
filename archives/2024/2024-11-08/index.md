@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-08](index.md)
 
+* [2024-11-08, 19:00:28](https://lobste.rs/s/0vipec/announcing_planet_nix) - [Announcing Planet Nix](https://discourse.nixos.org/t/announcing-planet-nix/55350)
 * [2024-11-08, 17:45:28](https://lobste.rs/s/gsvudb/case_program_crashed_on_its_first) - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
 * [2024-11-08, 15:32:30](https://lobste.rs/s/hmn5xa/analytics_optimized_concurrent) - [Analytics-Optimized Concurrent Transactions](https://duckdb.org/2024/10/30/analytics-optimized-concurrent-transactions.html)
 * [2024-11-08, 13:35:19](https://lobste.rs/s/dhgsby/new_era_macos_sandbox_escapes_overlooked) - [A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)
