@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-09, 03:59:09",
+      "https://lobste.rs/s/9wxa58/snes_playstation_cubic_adpcm"
+    ],
+    [
+      "SNES & PlayStation cubic ADPCM interpolation",
+      "https://jsgroth.dev/blog/posts/snes-ps1-cubic-adpcm-interpolation/"
+    ]
+  ],
+  [
+    [
       "2024-11-08, 23:16:44",
       "https://lobste.rs/s/xuwncj/known_attacks_on_elliptic_curve"
     ],
@@ -187,16 +197,6 @@
     [
       "I'm not mutable, I'm partially instantiated",
       "https://blog.dnmfarrell.com/post/incomplete-data-structures/"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 22:37:04",
-      "https://lobste.rs/s/ocnnp0/bringing_faster_exceptions_rust"
-    ],
-    [
-      "Bringing faster exceptions to Rust",
-      "https://purplesyringa.moe/blog/bringing-faster-exceptions-to-rust/"
     ]
   ],
   [
