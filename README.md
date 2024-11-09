@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-09, 15:20:22](https://lobste.rs/s/uk5mps/discussion_adding_memory_regions_go) - [Discussion: Adding memory regions to Go](https://github.com/golang/go/discussions/70257)
 * [2024-11-09, 14:38:41](https://lobste.rs/s/fvqexd/psa_sqlite_does_not_do_checksums) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 * [2024-11-09, 14:20:13](https://lobste.rs/s/tqrers/mergiraf_syntax_aware_merge_driver_for) - [Mergiraf: a syntax-aware merge driver for Git](https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/)
 * [2024-11-09, 10:55:41](https://lobste.rs/s/vgjlrw/building_bridges_c) - [Building Bridges to C++](https://www.circle-lang.org/interop.html)
@@ -10,7 +11,6 @@
 * [2024-11-08, 22:15:44](https://lobste.rs/s/5gw5u0/algol_68_seemed_like_good_idea_until_it) - [Algol-68 seemed like a good idea – until it wasn’t](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 * [2024-11-08, 21:41:25](https://lobste.rs/s/xcgglo/tone_life) - [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
 * [2024-11-08, 20:11:11](https://lobste.rs/s/q3bwym/cmdx_golang_library_designed_simplify) - [cmdx: A Golang library designed to simplify the execution of shell commands and handle their output](https://github.com/kgs19/cmdx)
-* [2024-11-08, 19:53:11](https://lobste.rs/s/dvn1tz/8_steps_writing_analytical_sql_queries) - [8 Steps in Writing Analytical SQL Queries](https://www.crunchydata.com/blog/8-steps-in-writing-analytical-sql-queries)
 * [2024-11-08, 19:00:28](https://lobste.rs/s/0vipec/announcing_planet_nix) - [Announcing Planet Nix](https://discourse.nixos.org/t/announcing-planet-nix/55350)
 * [2024-11-08, 17:45:28](https://lobste.rs/s/gsvudb/case_program_crashed_on_its_first) - [The case of a program that crashed on its first instruction](https://devblogs.microsoft.com/oldnewthing/20241108-00/?p=110490)
 * [2024-11-08, 13:35:19](https://lobste.rs/s/dhgsby/new_era_macos_sandbox_escapes_overlooked) - [A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns](https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/)

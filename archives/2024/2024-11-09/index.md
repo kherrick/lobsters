@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 15:20:22](https://lobste.rs/s/uk5mps/discussion_adding_memory_regions_go) - [Discussion: Adding memory regions to Go](https://github.com/golang/go/discussions/70257)
 * [2024-11-09, 14:38:41](https://lobste.rs/s/fvqexd/psa_sqlite_does_not_do_checksums) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 * [2024-11-09, 14:20:13](https://lobste.rs/s/tqrers/mergiraf_syntax_aware_merge_driver_for) - [Mergiraf: a syntax-aware merge driver for Git](https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/)
 * [2024-11-09, 13:50:31](https://lobste.rs/s/e7xafn/openai_found_out_their_cutting_edge_llms) - [OpenAI found out their cutting-edge LLMs are only 42.7% accurate](https://futurism.com/the-byte/openai-research-best-models-wrong-answers)
