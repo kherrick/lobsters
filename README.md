@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-09, 17:35:43](https://lobste.rs/s/e62p4b/mental_model_for_linux_file_hard_soft) - [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
 * [2024-11-09, 16:10:44](https://lobste.rs/s/xjs90z/regular_restarts_are_good_actually) - [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
 * [2024-11-09, 15:20:22](https://lobste.rs/s/uk5mps/discussion_adding_memory_regions_go) - [Discussion: Adding memory regions to Go](https://github.com/golang/go/discussions/70257)
 * [2024-11-09, 14:38:41](https://lobste.rs/s/fvqexd/psa_sqlite_does_not_do_checksums) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
@@ -24,7 +25,6 @@
 * [2024-11-08, 09:17:59](https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 * [2024-11-08, 09:16:08](https://lobste.rs/s/vwmshx/desktop_icons_are_surprisingly_hard) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
 * [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
-* [2024-11-07, 22:31:22](https://lobste.rs/s/qaojtk/linus_torvalds_lands_2_6_performance) - [Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch](https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch)
 
 ## [Archives](archives/index.md)
 

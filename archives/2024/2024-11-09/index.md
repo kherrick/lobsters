@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-09](index.md)
 
+* [2024-11-09, 17:35:43](https://lobste.rs/s/e62p4b/mental_model_for_linux_file_hard_soft) - [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
 * [2024-11-09, 16:10:44](https://lobste.rs/s/xjs90z/regular_restarts_are_good_actually) - [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
 * [2024-11-09, 15:20:22](https://lobste.rs/s/uk5mps/discussion_adding_memory_regions_go) - [Discussion: Adding memory regions to Go](https://github.com/golang/go/discussions/70257)
 * [2024-11-09, 14:38:41](https://lobste.rs/s/fvqexd/psa_sqlite_does_not_do_checksums) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
