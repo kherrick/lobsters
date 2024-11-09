@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-09, 13:50:31",
+      "https://lobste.rs/s/e7xafn/openai_found_out_their_cutting_edge_llms"
+    ],
+    [
+      "OpenAI found out their cutting-edge LLMs are only 42.7% accurate",
+      "https://futurism.com/the-byte/openai-research-best-models-wrong-answers"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 10:55:41",
       "https://lobste.rs/s/vgjlrw/building_bridges_c"
     ],
@@ -227,16 +237,6 @@
     [
       "Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch",
       "https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch"
-    ]
-  ],
-  [
-    [
-      "2024-11-07, 22:13:59",
-      "https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c"
-    ],
-    [
-      "CORAL: a Rust-like Borrow Checker for C",
-      "https://github.com/tiagodusilva/coral"
     ]
   ],
   [
