@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-09, 08:30:54](https://lobste.rs/s/0abgzy/rootless_root_2003) - [Rootless Root (2003)](http://www.catb.org/~esr/writings/unix-koans/)
 * [2024-11-09, 06:05:25](https://lobste.rs/s/zmurcb/debian_gsoc_2024_final_reports) - [Debian GSoC 2024 Final Reports](https://framapiaf.org/@debian/113449676325133480)
 * [2024-11-09, 03:59:09](https://lobste.rs/s/9wxa58/snes_playstation_cubic_adpcm) - [SNES & PlayStation cubic ADPCM interpolation](https://jsgroth.dev/blog/posts/snes-ps1-cubic-adpcm-interpolation/)
 * [2024-11-08, 23:16:44](https://lobste.rs/s/xuwncj/known_attacks_on_elliptic_curve) - [Known Attacks On Elliptic Curve Cryptography](https://github.com/elikaski/ECC_Attacks)
@@ -22,7 +23,6 @@
 * [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 * [2024-11-07, 22:31:22](https://lobste.rs/s/qaojtk/linus_torvalds_lands_2_6_performance) - [Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch](https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch)
 * [2024-11-07, 22:13:59](https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c) - [CORAL: a Rust-like Borrow Checker for C](https://github.com/tiagodusilva/coral)
-* [2024-11-07, 19:53:07](https://lobste.rs/s/efl89f/opinionated_guide_keyboard_thumb_keys) - [An Opinionated Guide to Keyboard Thumb Keys](https://johnlindquist.com/an-opinionated-guide-to-keyboard-thumb-keys/)
 * [2024-11-07, 19:00:04](https://lobste.rs/s/o15iiw/gccrs_alternative_compiler_for_rust) - [gccrs: An alternative compiler for Rust](https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html)
 * [2024-11-07, 14:15:18](https://lobste.rs/s/u3t4sg/xmpp_forgotten_gem_instant_messaging) - [XMPP: The Forgotten Gem of Instant Messaging](https://adele.pages.casa/md/blog/xmpp-the-forgotten-gem-of-instant-messaging.md)
 
