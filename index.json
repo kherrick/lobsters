@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-09, 16:10:44",
+      "https://lobste.rs/s/xjs90z/regular_restarts_are_good_actually"
+    ],
+    [
+      "Regular Restarts Are Good, Actually",
+      "https://matt.blwt.io/post/regular-restarts-are-good-actually/"
+    ]
+  ],
+  [
+    [
       "2024-11-09, 15:20:22",
       "https://lobste.rs/s/uk5mps/discussion_adding_memory_regions_go"
     ],
@@ -217,16 +227,6 @@
     [
       "Desktop icons are surprisingly hard",
       "https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 08:41:57",
-      "https://lobste.rs/s/2hboon/creating_brainrot_language_server"
-    ],
-    [
-      "Creating a Brainrot Language Server in Golang",
-      "https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/"
     ]
   ],
   [
