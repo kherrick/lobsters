@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-09, 13:50:31](https://lobste.rs/s/e7xafn/openai_found_out_their_cutting_edge_llms) - [OpenAI found out their cutting-edge LLMs are only 42.7% accurate](https://futurism.com/the-byte/openai-research-best-models-wrong-answers)
 * [2024-11-09, 10:55:41](https://lobste.rs/s/vgjlrw/building_bridges_c) - [Building Bridges to C++](https://www.circle-lang.org/interop.html)
 * [2024-11-09, 08:30:54](https://lobste.rs/s/0abgzy/rootless_root_2003) - [Rootless Root (2003)](http://www.catb.org/~esr/writings/unix-koans/)
 * [2024-11-09, 06:05:25](https://lobste.rs/s/zmurcb/debian_gsoc_2024_final_reports) - [Debian GSoC 2024 Final Reports](https://framapiaf.org/@debian/113449676325133480)
@@ -23,7 +24,6 @@
 * [2024-11-08, 08:41:57](https://lobste.rs/s/2hboon/creating_brainrot_language_server) - [Creating a Brainrot Language Server in Golang](https://jitesh117.github.io/blog/creating-a-brainrot-language-server-in-golang/)
 * [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 * [2024-11-07, 22:31:22](https://lobste.rs/s/qaojtk/linus_torvalds_lands_2_6_performance) - [Linus Torvalds lands a 2.6% performance improvement with minor Linux kernel patch](https://www.phoronix.com/news/Linus-2.6p-Faster-Scale-Patch)
-* [2024-11-07, 22:13:59](https://lobste.rs/s/dzuzpw/coral_rust_like_borrow_checker_for_c) - [CORAL: a Rust-like Borrow Checker for C](https://github.com/tiagodusilva/coral)
 * [2024-11-07, 19:00:04](https://lobste.rs/s/o15iiw/gccrs_alternative_compiler_for_rust) - [gccrs: An alternative compiler for Rust](https://blog.rust-lang.org/2024/11/07/gccrs-an-alternative-compiler-for-rust.html)
 
 ## [Archives](archives/index.md)
