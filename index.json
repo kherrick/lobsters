@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-10, 14:12:36",
+      "https://lobste.rs/s/wdndnh/booleans_are_trap"
+    ],
+    [
+      "Booleans Are a Trap",
+      "https://katafrakt.me/2024/11/09/booleans-are-a-trap/"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 13:29:39",
       "https://lobste.rs/s/hsfrzi/making_sense_lambda_calculus_0"
     ],
@@ -227,16 +237,6 @@
     [
       "Building Bridges to C++",
       "https://www.circle-lang.org/interop.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 23:16:44",
-      "https://lobste.rs/s/xuwncj/known_attacks_on_elliptic_curve"
-    ],
-    [
-      "Known Attacks On Elliptic Curve Cryptography",
-      "https://github.com/elikaski/ECC_Attacks"
     ]
   ],
   [
