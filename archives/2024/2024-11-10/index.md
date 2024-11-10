@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 17:14:00](https://lobste.rs/s/ixvo2k/homemade_gpt_js_minimal_tensorflow_js_re) - [Homemade GPT JS  - A minimal TensorFlow.js re-implementation of Karpathy's minGPT](https://github.com/trekhleb/homemade-gpt-js)
 * [2024-11-10, 16:50:06](https://lobste.rs/s/bxxyou/history_pc_audio) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-10, 15:37:26](https://lobste.rs/s/qnfsyk/home_grid_plan9_video_series) - [Home Grid - Plan9 video series](https://youtube.com/playlist?list=PLIhkYrUkoYPRBRZsG6m_YalzHthqktVfP&si=n2CaV7zAMGz4dY4-)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)

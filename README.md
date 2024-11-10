@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 17:14:00](https://lobste.rs/s/ixvo2k/homemade_gpt_js_minimal_tensorflow_js_re) - [Homemade GPT JS  - A minimal TensorFlow.js re-implementation of Karpathy's minGPT](https://github.com/trekhleb/homemade-gpt-js)
 * [2024-11-10, 16:50:06](https://lobste.rs/s/bxxyou/history_pc_audio) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-10, 15:37:26](https://lobste.rs/s/qnfsyk/home_grid_plan9_video_series) - [Home Grid - Plan9 video series](https://youtube.com/playlist?list=PLIhkYrUkoYPRBRZsG6m_YalzHthqktVfP&si=n2CaV7zAMGz4dY4-)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
@@ -13,7 +14,6 @@
 * [2024-11-10, 10:27:23](https://lobste.rs/s/ahshld/using_nix_fuzz_test_pdf_parser_part_two) - [Using Nix to Fuzz Test a PDF Parser (Part Two)](https://mtlynch.io/nix-fuzz-testing-2/)
 * [2024-11-10, 09:27:45](https://lobste.rs/s/wagefs/everybody_codes) - [Everybody Codes](https://everybody.codes/home)
 * [2024-11-10, 06:23:06](https://lobste.rs/s/mdr97y/risc_v_vector_extension_overview) - [RISC-V Vector Extension overview](http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html)
-* [2024-11-10, 03:45:18](https://lobste.rs/s/reld4a/genmc_model_checking_for_concurrent_c) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 01:39:37](https://lobste.rs/s/gludgj/algol_68_retrospective) - [Algol 68 – A Retrospective](https://accu.org/journals/overload/26/148/james_2586/)
 * [2024-11-10, 01:11:15](https://lobste.rs/s/zfgasl/unused_keys_vim) - [Unused keys in vim](https://vim.fandom.com/wiki/Unused_keys)
 * [2024-11-10, 00:17:24](https://lobste.rs/s/hau6ol/when_machine_learning_tells_wrong_story) - [When Machine Learning Tells the Wrong Story](https://jackcook.com/2024/11/09/bigger-fish.html)
