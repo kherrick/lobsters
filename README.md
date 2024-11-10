@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 17:14:00](https://lobste.rs/s/ixvo2k/homemade_gpt_js_minimal_tensorflow_js_re) - [Homemade GPT JS  - A minimal TensorFlow.js re-implementation of Karpathy's minGPT](https://github.com/trekhleb/homemade-gpt-js)
 * [2024-11-10, 16:50:06](https://lobste.rs/s/bxxyou/history_pc_audio) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
@@ -18,7 +19,6 @@
 * [2024-11-10, 01:39:37](https://lobste.rs/s/gludgj/algol_68_retrospective) - [Algol 68 – A Retrospective](https://accu.org/journals/overload/26/148/james_2586/)
 * [2024-11-10, 01:11:15](https://lobste.rs/s/zfgasl/unused_keys_vim) - [Unused keys in vim](https://vim.fandom.com/wiki/Unused_keys)
 * [2024-11-10, 00:17:24](https://lobste.rs/s/hau6ol/when_machine_learning_tells_wrong_story) - [When Machine Learning Tells the Wrong Story](https://jackcook.com/2024/11/09/bigger-fish.html)
-* [2024-11-09, 22:29:10](https://lobste.rs/s/v2kltj/bpf_instruction_set_architecture_is_now) - [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
 * [2024-11-09, 21:05:55](https://lobste.rs/s/d3qqgv/alternative_idea_for_typed_language) - [An alternative idea for a typed language living alongside/inside JavaScript](https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html)
 * [2024-11-09, 17:35:43](https://lobste.rs/s/e62p4b/mental_model_for_linux_file_hard_soft) - [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
 * [2024-11-09, 16:10:44](https://lobste.rs/s/xjs90z/regular_restarts_are_good_actually) - [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
