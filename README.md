@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
 * [2024-11-10, 20:32:12](https://lobste.rs/s/qk2xha/rust_trademark_policy_is_still_harmful) - [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful)
 * [2024-11-10, 19:56:32](https://lobste.rs/s/sexnou/install_freebsd_with_one_command) - [Install FreeBSD with One Command](https://vermaden.wordpress.com/2024/11/10/install-freebsd-with-one-command/)
 * [2024-11-10, 18:54:18](https://lobste.rs/s/idiyn1/peculiar_world_gentoo_package_testing) - [The peculiar world of Gentoo package testing](https://blogs.gentoo.org/mgorny/2024/11/10/the-peculiar-world-of-gentoo-package-testing/)
@@ -19,7 +20,6 @@
 * [2024-11-10, 06:23:06](https://lobste.rs/s/mdr97y/risc_v_vector_extension_overview) - [RISC-V Vector Extension overview](http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html)
 * [2024-11-10, 01:39:37](https://lobste.rs/s/gludgj/algol_68_retrospective) - [Algol 68 – A Retrospective](https://accu.org/journals/overload/26/148/james_2586/)
 * [2024-11-10, 01:11:15](https://lobste.rs/s/zfgasl/unused_keys_vim) - [Unused keys in vim](https://vim.fandom.com/wiki/Unused_keys)
-* [2024-11-10, 00:17:24](https://lobste.rs/s/hau6ol/when_machine_learning_tells_wrong_story) - [When Machine Learning Tells the Wrong Story](https://jackcook.com/2024/11/09/bigger-fish.html)
 * [2024-11-09, 21:05:55](https://lobste.rs/s/d3qqgv/alternative_idea_for_typed_language) - [An alternative idea for a typed language living alongside/inside JavaScript](https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html)
 * [2024-11-09, 17:35:43](https://lobste.rs/s/e62p4b/mental_model_for_linux_file_hard_soft) - [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
 * [2024-11-09, 16:10:44](https://lobste.rs/s/xjs90z/regular_restarts_are_good_actually) - [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
