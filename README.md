@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 00:17:24](https://lobste.rs/s/hau6ol/when_machine_learning_tells_wrong_story) - [When Machine Learning Tells the Wrong Story](https://jackcook.com/2024/11/09/bigger-fish.html)
 * [2024-11-09, 22:29:10](https://lobste.rs/s/v2kltj/bpf_instruction_set_architecture_is_now) - [The BPF instruction set architecture is now RFC 9669](https://lwn.net/Articles/997002/)
 * [2024-11-09, 21:05:55](https://lobste.rs/s/d3qqgv/alternative_idea_for_typed_language) - [An alternative idea for a typed language living alongside/inside JavaScript](https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html)
 * [2024-11-09, 17:35:43](https://lobste.rs/s/e62p4b/mental_model_for_linux_file_hard_soft) - [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
@@ -20,7 +21,6 @@
 * [2024-11-08, 13:22:53](https://lobste.rs/s/yulcql/how_we_built_self_healing_system_survive) - [How We Built a Self-Healing System to Survive a Terrifying Concurrency Bug At Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
 * [2024-11-08, 13:14:59](https://lobste.rs/s/gsj2e2/how_self_host_all_bluesky_except_appview) - [How to self-host all of Bluesky (except the AppView (for now))](https://alice.bsky.sh/post/3laega7icmi2q)
 * [2024-11-08, 12:14:49](https://lobste.rs/s/4pkl0h/qnx_becomes_free_for_non_commercial_use) - [QNX becomes free for non-commercial use](https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/)
-* [2024-11-08, 11:11:00](https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/2ltv2m/what_are_you_doing_this_weekend)
 * [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [2024-11-08, 09:17:59](https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
 * [2024-11-08, 09:16:08](https://lobste.rs/s/vwmshx/desktop_icons_are_surprisingly_hard) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)

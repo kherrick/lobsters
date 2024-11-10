@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-10](index.md)
+
+* [2024-11-10, 00:17:24](https://lobste.rs/s/hau6ol/when_machine_learning_tells_wrong_story) - [When Machine Learning Tells the Wrong Story](https://jackcook.com/2024/11/09/bigger-fish.html)
