@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 10:35:56](https://lobste.rs/s/94tt7y/safety_tigerbeetle) - [Safety in TigerBeetle](https://docs.tigerbeetle.com/about/safety/)
 * [2024-11-10, 10:27:23](https://lobste.rs/s/ahshld/using_nix_fuzz_test_pdf_parser_part_two) - [Using Nix to Fuzz Test a PDF Parser (Part Two)](https://mtlynch.io/nix-fuzz-testing-2/)
 * [2024-11-10, 09:27:45](https://lobste.rs/s/wagefs/everybody_codes) - [Everybody Codes](https://everybody.codes/home)
 * [2024-11-10, 08:34:23](https://lobste.rs/s/qs10go/book_review_for_love_go_2023) - [Book Review: For the Love of Go (2023)](https://youtu.be/LDU4b5dc6qs)
