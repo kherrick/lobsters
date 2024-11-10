@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 09:27:45](https://lobste.rs/s/wagefs/everybody_codes) - [Everybody Codes](https://everybody.codes/home)
 * [2024-11-10, 08:34:23](https://lobste.rs/s/qs10go/book_review_for_love_go_2023) - [Book Review: For the Love of Go (2023)](https://youtu.be/LDU4b5dc6qs)
 * [2024-11-10, 06:23:06](https://lobste.rs/s/mdr97y/risc_v_vector_extension_overview) - [RISC-V Vector Extension overview](http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html)
 * [2024-11-10, 03:45:18](https://lobste.rs/s/reld4a/genmc_model_checking_for_concurrent_c) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
@@ -19,7 +20,6 @@
 * [2024-11-08, 23:16:44](https://lobste.rs/s/xuwncj/known_attacks_on_elliptic_curve) - [Known Attacks On Elliptic Curve Cryptography](https://github.com/elikaski/ECC_Attacks)
 * [2024-11-08, 22:15:44](https://lobste.rs/s/5gw5u0/algol_68_seemed_like_good_idea_until_it) - [Algol-68 seemed like a good idea – until it wasn’t](https://craftofcoding.wordpress.com/2024/10/21/algol-68-seemed-like-a-good-idea-until-it-wasnt/)
 * [2024-11-08, 21:41:25](https://lobste.rs/s/xcgglo/tone_life) - [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
-* [2024-11-08, 13:22:53](https://lobste.rs/s/yulcql/how_we_built_self_healing_system_survive) - [How We Built a Self-Healing System to Survive a Terrifying Concurrency Bug At Netflix](https://pushtoprod.substack.com/p/netflix-terrifying-concurrency-bug)
 * [2024-11-08, 13:14:59](https://lobste.rs/s/gsj2e2/how_self_host_all_bluesky_except_appview) - [How to self-host all of Bluesky (except the AppView (for now))](https://alice.bsky.sh/post/3laega7icmi2q)
 * [2024-11-08, 12:14:49](https://lobste.rs/s/4pkl0h/qnx_becomes_free_for_non_commercial_use) - [QNX becomes free for non-commercial use](https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/)
 * [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
