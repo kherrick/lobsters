@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-10, 18:41:19",
+      "https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays"
+    ],
+    [
+      "Use std::span instead of C-style arrays",
+      "https://www.sandordargo.com/blog/2024/11/06/std-span"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 18:02:24",
       "https://lobste.rs/s/apb7nl/what_s_new_f_9"
     ],
@@ -177,16 +187,6 @@
     [
       "When Machine Learning Tells the Wrong Story",
       "https://jackcook.com/2024/11/09/bigger-fish.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 22:29:10",
-      "https://lobste.rs/s/v2kltj/bpf_instruction_set_architecture_is_now"
-    ],
-    [
-      "The BPF instruction set architecture is now RFC 9669",
-      "https://lwn.net/Articles/997002/"
     ]
   ],
   [
