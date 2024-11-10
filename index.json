@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-10, 06:23:06",
+      "https://lobste.rs/s/mdr97y/risc_v_vector_extension_overview"
+    ],
+    [
+      "RISC-V Vector Extension overview",
+      "http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 03:45:18",
       "https://lobste.rs/s/reld4a/genmc_model_checking_for_concurrent_c"
     ],
@@ -177,16 +187,6 @@
     [
       "Announcing Planet Nix",
       "https://discourse.nixos.org/t/announcing-planet-nix/55350"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 13:35:19",
-      "https://lobste.rs/s/dhgsby/new_era_macos_sandbox_escapes_overlooked"
-    ],
-    [
-      "A New Era of macOS Sandbox Escapes: Overlooked Attack Surface, 10+ New Vulns",
-      "https://jhftss.github.io/A-New-Era-of-macOS-Sandbox-Escapes/"
     ]
   ],
   [
