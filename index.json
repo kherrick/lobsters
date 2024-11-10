@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-10, 18:02:24",
+      "https://lobste.rs/s/apb7nl/what_s_new_f_9"
+    ],
+    [
+      "What's new in F# 9",
+      "https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 17:14:00",
       "https://lobste.rs/s/ixvo2k/homemade_gpt_js_minimal_tensorflow_js_re"
     ],
@@ -207,16 +217,6 @@
     [
       "Regular Restarts Are Good, Actually",
       "https://matt.blwt.io/post/regular-restarts-are-good-actually/"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 15:20:22",
-      "https://lobste.rs/s/uk5mps/discussion_adding_memory_regions_go"
-    ],
-    [
-      "Discussion: Adding memory regions to Go",
-      "https://github.com/golang/go/discussions/70257"
     ]
   ],
   [
