@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 16:50:06](https://lobste.rs/s/bxxyou/history_pc_audio) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-10, 15:37:26](https://lobste.rs/s/qnfsyk/home_grid_plan9_video_series) - [Home Grid - Plan9 video series](https://youtube.com/playlist?list=PLIhkYrUkoYPRBRZsG6m_YalzHthqktVfP&si=n2CaV7zAMGz4dY4-)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
 * [2024-11-10, 13:29:39](https://lobste.rs/s/hsfrzi/making_sense_lambda_calculus_0) - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
@@ -11,7 +12,6 @@
 * [2024-11-10, 10:35:56](https://lobste.rs/s/94tt7y/safety_tigerbeetle) - [Safety in TigerBeetle](https://docs.tigerbeetle.com/about/safety/)
 * [2024-11-10, 10:27:23](https://lobste.rs/s/ahshld/using_nix_fuzz_test_pdf_parser_part_two) - [Using Nix to Fuzz Test a PDF Parser (Part Two)](https://mtlynch.io/nix-fuzz-testing-2/)
 * [2024-11-10, 09:27:45](https://lobste.rs/s/wagefs/everybody_codes) - [Everybody Codes](https://everybody.codes/home)
-* [2024-11-10, 08:34:23](https://lobste.rs/s/qs10go/book_review_for_love_go_2023) - [Book Review: For the Love of Go (2023)](https://youtu.be/LDU4b5dc6qs)
 * [2024-11-10, 06:23:06](https://lobste.rs/s/mdr97y/risc_v_vector_extension_overview) - [RISC-V Vector Extension overview](http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html)
 * [2024-11-10, 03:45:18](https://lobste.rs/s/reld4a/genmc_model_checking_for_concurrent_c) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 01:39:37](https://lobste.rs/s/gludgj/algol_68_retrospective) - [Algol 68 – A Retrospective](https://accu.org/journals/overload/26/148/james_2586/)
