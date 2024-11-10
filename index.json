@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-10, 19:56:32",
+      "https://lobste.rs/s/sexnou/install_freebsd_with_one_command"
+    ],
+    [
+      "Install FreeBSD with One Command",
+      "https://vermaden.wordpress.com/2024/11/10/install-freebsd-with-one-command/"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 18:54:18",
       "https://lobste.rs/s/idiyn1/peculiar_world_gentoo_package_testing"
     ],
@@ -137,16 +147,6 @@
     [
       "Safety in TigerBeetle",
       "https://docs.tigerbeetle.com/about/safety/"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 10:27:23",
-      "https://lobste.rs/s/ahshld/using_nix_fuzz_test_pdf_parser_part_two"
-    ],
-    [
-      "Using Nix to Fuzz Test a PDF Parser (Part Two)",
-      "https://mtlynch.io/nix-fuzz-testing-2/"
     ]
   ],
   [
