@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 18:45:50](https://lobste.rs/s/1zo0ld/new_website_for_kmx_io_entirely_written) - [New website for kmx.io, entirely written in KC3 a graph oriented programming language](https://www.kmx.io/blog/new-website-for-kmx.io)
 * [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 17:14:00](https://lobste.rs/s/ixvo2k/homemade_gpt_js_minimal_tensorflow_js_re) - [Homemade GPT JS  - A minimal TensorFlow.js re-implementation of Karpathy's minGPT](https://github.com/trekhleb/homemade-gpt-js)
@@ -24,7 +25,6 @@
 * [2024-11-09, 16:10:44](https://lobste.rs/s/xjs90z/regular_restarts_are_good_actually) - [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
 * [2024-11-09, 14:38:41](https://lobste.rs/s/fvqexd/psa_sqlite_does_not_do_checksums) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 * [2024-11-09, 14:20:13](https://lobste.rs/s/tqrers/mergiraf_syntax_aware_merge_driver_for) - [Mergiraf: a syntax-aware merge driver for Git](https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/)
-* [2024-11-09, 10:55:41](https://lobste.rs/s/vgjlrw/building_bridges_c) - [Building Bridges to C++](https://www.circle-lang.org/interop.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 18:45:50](https://lobste.rs/s/1zo0ld/new_website_for_kmx_io_entirely_written) - [New website for kmx.io, entirely written in KC3 a graph oriented programming language](https://www.kmx.io/blog/new-website-for-kmx.io)
 * [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 17:14:00](https://lobste.rs/s/ixvo2k/homemade_gpt_js_minimal_tensorflow_js_re) - [Homemade GPT JS  - A minimal TensorFlow.js re-implementation of Karpathy's minGPT](https://github.com/trekhleb/homemade-gpt-js)
