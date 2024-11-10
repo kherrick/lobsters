@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 18:54:18](https://lobste.rs/s/idiyn1/peculiar_world_gentoo_package_testing) - [The peculiar world of Gentoo package testing](https://blogs.gentoo.org/mgorny/2024/11/10/the-peculiar-world-of-gentoo-package-testing/)
 * [2024-11-10, 18:45:50](https://lobste.rs/s/1zo0ld/new_website_for_kmx_io_entirely_written) - [New website for kmx.io, entirely written in KC3 a graph oriented programming language](https://www.kmx.io/blog/new-website-for-kmx.io)
 * [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
@@ -7,7 +8,6 @@
 * [2024-11-10, 16:50:06](https://lobste.rs/s/bxxyou/history_pc_audio) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-10, 15:37:26](https://lobste.rs/s/qnfsyk/home_grid_plan9_video_series) - [Home Grid - Plan9 video series](https://youtube.com/playlist?list=PLIhkYrUkoYPRBRZsG6m_YalzHthqktVfP&si=n2CaV7zAMGz4dY4-)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
-* [2024-11-10, 13:29:39](https://lobste.rs/s/hsfrzi/making_sense_lambda_calculus_0) - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 * [2024-11-10, 12:59:45](https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps) - [Progressively enhancing (legacy) CGI apps with htmx](https://jmtd.net/log/htmx/)
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-11-10, 12:24:52](https://lobste.rs/s/xg3y5g/visualizing_local_election_results_with) - [Visualizing local election results with Datasette, Observable and MapLibre GL](https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/)
