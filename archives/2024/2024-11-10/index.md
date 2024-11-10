@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 10:47:11](https://lobste.rs/s/u7hgw0/everything_i_ve_learned_so_far_about) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
 * [2024-11-10, 10:35:56](https://lobste.rs/s/94tt7y/safety_tigerbeetle) - [Safety in TigerBeetle](https://docs.tigerbeetle.com/about/safety/)
 * [2024-11-10, 10:27:23](https://lobste.rs/s/ahshld/using_nix_fuzz_test_pdf_parser_part_two) - [Using Nix to Fuzz Test a PDF Parser (Part Two)](https://mtlynch.io/nix-fuzz-testing-2/)
 * [2024-11-10, 09:27:45](https://lobste.rs/s/wagefs/everybody_codes) - [Everybody Codes](https://everybody.codes/home)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 10:47:11](https://lobste.rs/s/u7hgw0/everything_i_ve_learned_so_far_about) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
 * [2024-11-10, 10:35:56](https://lobste.rs/s/94tt7y/safety_tigerbeetle) - [Safety in TigerBeetle](https://docs.tigerbeetle.com/about/safety/)
 * [2024-11-10, 10:27:23](https://lobste.rs/s/ahshld/using_nix_fuzz_test_pdf_parser_part_two) - [Using Nix to Fuzz Test a PDF Parser (Part Two)](https://mtlynch.io/nix-fuzz-testing-2/)
 * [2024-11-10, 09:27:45](https://lobste.rs/s/wagefs/everybody_codes) - [Everybody Codes](https://everybody.codes/home)
@@ -24,7 +25,6 @@
 * [2024-11-08, 21:41:25](https://lobste.rs/s/xcgglo/tone_life) - [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
 * [2024-11-08, 13:14:59](https://lobste.rs/s/gsj2e2/how_self_host_all_bluesky_except_appview) - [How to self-host all of Bluesky (except the AppView (for now))](https://alice.bsky.sh/post/3laega7icmi2q)
 * [2024-11-08, 09:17:59](https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
-* [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 
 ## [Archives](archives/index.md)
 
