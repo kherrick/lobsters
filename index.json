@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-10, 12:24:52",
+      "https://lobste.rs/s/xg3y5g/visualizing_local_election_results_with"
+    ],
+    [
+      "Visualizing local election results with Datasette, Observable and MapLibre GL",
+      "https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 11:21:34",
       "https://lobste.rs/s/zt30oi/pythonic_emptiness"
     ],
@@ -237,16 +247,6 @@
     [
       "How to self-host all of Bluesky (except the AppView (for now))",
       "https://alice.bsky.sh/post/3laega7icmi2q"
-    ]
-  ],
-  [
-    [
-      "2024-11-08, 09:17:59",
-      "https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks"
-    ],
-    [
-      "Rust's Sneaky Deadlock With `if let` Blocks",
-      "https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/"
     ]
   ]
 ]
