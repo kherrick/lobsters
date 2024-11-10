@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 13:29:39](https://lobste.rs/s/hsfrzi/making_sense_lambda_calculus_0) - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 * [2024-11-10, 12:59:45](https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps) - [Progressively enhancing (legacy) CGI apps with htmx](https://jmtd.net/log/htmx/)
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-11-10, 12:24:52](https://lobste.rs/s/xg3y5g/visualizing_local_election_results_with) - [Visualizing local election results with Datasette, Observable and MapLibre GL](https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/)
@@ -24,7 +25,6 @@
 * [2024-11-09, 10:55:41](https://lobste.rs/s/vgjlrw/building_bridges_c) - [Building Bridges to C++](https://www.circle-lang.org/interop.html)
 * [2024-11-08, 23:16:44](https://lobste.rs/s/xuwncj/known_attacks_on_elliptic_curve) - [Known Attacks On Elliptic Curve Cryptography](https://github.com/elikaski/ECC_Attacks)
 * [2024-11-08, 21:41:25](https://lobste.rs/s/xcgglo/tone_life) - [Tone of Life](https://matthewbilyeu.com/tone-of-life.html?saved=AAAAAADgAYAAwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=)
-* [2024-11-08, 13:14:59](https://lobste.rs/s/gsj2e2/how_self_host_all_bluesky_except_appview) - [How to self-host all of Bluesky (except the AppView (for now))](https://alice.bsky.sh/post/3laega7icmi2q)
 
 ## [Archives](archives/index.md)
 

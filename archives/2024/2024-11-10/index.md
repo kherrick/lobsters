@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 13:29:39](https://lobste.rs/s/hsfrzi/making_sense_lambda_calculus_0) - [Making Sense of Lambda Calculus 0: Abstration, Reduction, Substitution?](https://aartaka.me/lambda-0)
 * [2024-11-10, 12:59:45](https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps) - [Progressively enhancing (legacy) CGI apps with htmx](https://jmtd.net/log/htmx/)
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-11-10, 12:24:52](https://lobste.rs/s/xg3y5g/visualizing_local_election_results_with) - [Visualizing local election results with Datasette, Observable and MapLibre GL](https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/)
