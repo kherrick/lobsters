@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 17:14:00](https://lobste.rs/s/ixvo2k/homemade_gpt_js_minimal_tensorflow_js_re) - [Homemade GPT JS  - A minimal TensorFlow.js re-implementation of Karpathy's minGPT](https://github.com/trekhleb/homemade-gpt-js)
 * [2024-11-10, 16:50:06](https://lobste.rs/s/bxxyou/history_pc_audio) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-10, 15:37:26](https://lobste.rs/s/qnfsyk/home_grid_plan9_video_series) - [Home Grid - Plan9 video series](https://youtube.com/playlist?list=PLIhkYrUkoYPRBRZsG6m_YalzHthqktVfP&si=n2CaV7zAMGz4dY4-)
@@ -21,7 +22,6 @@
 * [2024-11-09, 21:05:55](https://lobste.rs/s/d3qqgv/alternative_idea_for_typed_language) - [An alternative idea for a typed language living alongside/inside JavaScript](https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html)
 * [2024-11-09, 17:35:43](https://lobste.rs/s/e62p4b/mental_model_for_linux_file_hard_soft) - [A mental model for Linux file, hard and soft links](https://bhoot.dev/2024/on-linux-file-and-links/)
 * [2024-11-09, 16:10:44](https://lobste.rs/s/xjs90z/regular_restarts_are_good_actually) - [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
-* [2024-11-09, 15:20:22](https://lobste.rs/s/uk5mps/discussion_adding_memory_regions_go) - [Discussion: Adding memory regions to Go](https://github.com/golang/go/discussions/70257)
 * [2024-11-09, 14:38:41](https://lobste.rs/s/fvqexd/psa_sqlite_does_not_do_checksums) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
 * [2024-11-09, 14:20:13](https://lobste.rs/s/tqrers/mergiraf_syntax_aware_merge_driver_for) - [Mergiraf: a syntax-aware merge driver for Git](https://antonin.delpeuch.eu/posts/mergiraf-a-syntax-aware-merge-driver-for-git/)
 * [2024-11-09, 10:55:41](https://lobste.rs/s/vgjlrw/building_bridges_c) - [Building Bridges to C++](https://www.circle-lang.org/interop.html)
