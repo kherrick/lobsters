@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 03:45:18](https://lobste.rs/s/reld4a/genmc_model_checking_for_concurrent_c) - [GenMC: Model checking for concurrent C programs](https://plv.mpi-sws.org/genmc/)
 * [2024-11-10, 01:39:37](https://lobste.rs/s/gludgj/algol_68_retrospective) - [Algol 68 – A Retrospective](https://accu.org/journals/overload/26/148/james_2586/)
 * [2024-11-10, 01:11:15](https://lobste.rs/s/zfgasl/unused_keys_vim) - [Unused keys in vim](https://vim.fandom.com/wiki/Unused_keys)
 * [2024-11-10, 00:17:24](https://lobste.rs/s/hau6ol/when_machine_learning_tells_wrong_story) - [When Machine Learning Tells the Wrong Story](https://jackcook.com/2024/11/09/bigger-fish.html)
@@ -23,7 +24,6 @@
 * [2024-11-08, 12:14:49](https://lobste.rs/s/4pkl0h/qnx_becomes_free_for_non_commercial_use) - [QNX becomes free for non-commercial use](https://www.osnews.com/story/141089/qnx-becomes-free-for-non-commercial-use-releases-raspberry-pi-4-image/)
 * [2024-11-08, 10:40:05](https://lobste.rs/s/vohs8m/following_up_mother_all_htmx_demos) - [Following up \"Mother of all htmx demos\"](https://david.guillot.me/en/posts/tech/following-up-mother-of-all-htmx-demos/)
 * [2024-11-08, 09:17:59](https://lobste.rs/s/10sono/rust_s_sneaky_deadlock_with_if_let_blocks) - [Rust's Sneaky Deadlock With `if let` Blocks](https://brooksblog.bearblog.dev/rusts-sneaky-deadlock-with-if-let-blocks/)
-* [2024-11-08, 09:16:08](https://lobste.rs/s/vwmshx/desktop_icons_are_surprisingly_hard) - [Desktop icons are surprisingly hard](https://akselmo.dev/posts/plasma-desktop-icons-positioning-refactor/)
 * [2024-11-08, 03:04:18](https://lobste.rs/s/c7mxqi/rails_8_0_no_paas_required) - [Rails 8.0: No PaaS Required](https://rubyonrails.org/2024/11/7/rails-8-no-paas-required)
 
 ## [Archives](archives/index.md)
