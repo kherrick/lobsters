@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-10, 20:48:27",
+      "https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler"
+    ],
+    [
+      "The Design of a Self-Compiling C Transpiler Targeting POSIX Shell",
+      "https://dl.acm.org/doi/10.1145/3687997.3695639"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 20:32:12",
       "https://lobste.rs/s/qk2xha/rust_trademark_policy_is_still_harmful"
     ],
@@ -187,16 +197,6 @@
     [
       "Unused keys in vim",
       "https://vim.fandom.com/wiki/Unused_keys"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 00:17:24",
-      "https://lobste.rs/s/hau6ol/when_machine_learning_tells_wrong_story"
-    ],
-    [
-      "When Machine Learning Tells the Wrong Story",
-      "https://jackcook.com/2024/11/09/bigger-fish.html"
     ]
   ],
   [
