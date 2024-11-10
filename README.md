@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-10, 21:17:59](https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
 * [2024-11-10, 20:32:12](https://lobste.rs/s/qk2xha/rust_trademark_policy_is_still_harmful) - [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful)
 * [2024-11-10, 19:56:32](https://lobste.rs/s/sexnou/install_freebsd_with_one_command) - [Install FreeBSD with One Command](https://vermaden.wordpress.com/2024/11/10/install-freebsd-with-one-command/)
@@ -12,7 +13,6 @@
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
 * [2024-11-10, 12:59:45](https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps) - [Progressively enhancing (legacy) CGI apps with htmx](https://jmtd.net/log/htmx/)
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
-* [2024-11-10, 12:24:52](https://lobste.rs/s/xg3y5g/visualizing_local_election_results_with) - [Visualizing local election results with Datasette, Observable and MapLibre GL](https://simonwillison.net/2024/Nov/9/visualizing-local-election-results/)
 * [2024-11-10, 11:21:34](https://lobste.rs/s/zt30oi/pythonic_emptiness) - [The Pythonic Emptiness](https://blog.codingconfessions.com/p/the-pythonic-emptiness)
 * [2024-11-10, 10:47:11](https://lobste.rs/s/u7hgw0/everything_i_ve_learned_so_far_about) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
 * [2024-11-10, 10:35:56](https://lobste.rs/s/94tt7y/safety_tigerbeetle) - [Safety in TigerBeetle](https://docs.tigerbeetle.com/about/safety/)

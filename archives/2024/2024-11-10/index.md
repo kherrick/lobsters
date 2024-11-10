@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-10](index.md)
 
+* [2024-11-10, 21:17:59](https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
 * [2024-11-10, 20:32:12](https://lobste.rs/s/qk2xha/rust_trademark_policy_is_still_harmful) - [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful)
 * [2024-11-10, 19:56:32](https://lobste.rs/s/sexnou/install_freebsd_with_one_command) - [Install FreeBSD with One Command](https://vermaden.wordpress.com/2024/11/10/install-freebsd-with-one-command/)
