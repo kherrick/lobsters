@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 22:47:56](https://lobste.rs/s/4c9uas/managing_advanced_search_param) - [Managing Advanced Search Param Filtering in the Next.js App Router](https://aurorascharff.no/posts/managing-advanced-search-param-filtering-next-app-router/)
 * [2024-11-11, 22:15:24](https://lobste.rs/s/baobft/analyzing_codebase_caffeine_high) - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 * [2024-11-11, 22:01:17](https://lobste.rs/s/bo6ol1/tlb_shootdowns) - [tlb_shootdowns](https://github.com/bitcharmer/tlb_shootdowns)
 * [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
@@ -18,7 +19,6 @@
 * [2024-11-11, 07:34:07](https://lobste.rs/s/telgqo/i_sent_ethernet_packet) - [I sent an ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 * [2024-11-11, 02:24:17](https://lobste.rs/s/2awfwc/way_too_many_ways_wait_on_child_process) - [Way too many ways to wait on a child process with a timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)
-* [2024-11-10, 21:17:59](https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
