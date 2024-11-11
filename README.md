@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 14:45:16](https://lobste.rs/s/mq8umf/when_use_cosmos_db) - [When to Use Cosmos DB](https://www.pulumi.com/blog/when-to-use-azure-cosmos-db/)
 * [2024-11-11, 14:08:13](https://lobste.rs/s/f6hsm1/binary_vector_embeddings_are_so_cool) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
 * [2024-11-11, 13:09:31](https://lobste.rs/s/hfwm2h/risc_cpu_excel) - [A RISC CPU in Excel](https://www.youtube.com/watch?v=MNRKi7Rum_c)
 * [2024-11-11, 12:57:15](https://lobste.rs/s/ft1wkf/opengl_is_not_right_handed) - [OpenGL is not right-handed](https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/)
@@ -23,7 +24,6 @@
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
 * [2024-11-10, 12:59:45](https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps) - [Progressively enhancing (legacy) CGI apps with htmx](https://jmtd.net/log/htmx/)
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
-* [2024-11-10, 11:21:34](https://lobste.rs/s/zt30oi/pythonic_emptiness) - [The Pythonic Emptiness](https://blog.codingconfessions.com/p/the-pythonic-emptiness)
 * [2024-11-10, 10:47:11](https://lobste.rs/s/u7hgw0/everything_i_ve_learned_so_far_about) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
 
 ## [Archives](archives/index.md)
