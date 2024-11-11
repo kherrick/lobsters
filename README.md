@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 16:40:58](https://lobste.rs/s/f09e4i/refactoring_barrel_files_with_codemods) - [Refactoring barrel files with codemods](https://mmazzarolo.com/blog/2024-11-10-removing-barrel-file-references-with-a-codemod/)
 * [2024-11-11, 15:01:57](https://lobste.rs/s/5fpveo/curl_v_google_com) - [curl -v google.com](https://www.youtube.com/watch?v=atcqMWqB3hw&t=2s)
 * [2024-11-11, 14:45:16](https://lobste.rs/s/mq8umf/when_use_cosmos_db) - [When to Use Cosmos DB](https://www.pulumi.com/blog/when-to-use-azure-cosmos-db/)
 * [2024-11-11, 14:08:13](https://lobste.rs/s/f6hsm1/binary_vector_embeddings_are_so_cool) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
@@ -17,7 +18,6 @@
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
 * [2024-11-10, 20:32:12](https://lobste.rs/s/qk2xha/rust_trademark_policy_is_still_harmful) - [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful)
 * [2024-11-10, 19:56:32](https://lobste.rs/s/sexnou/install_freebsd_with_one_command) - [Install FreeBSD with One Command](https://vermaden.wordpress.com/2024/11/10/install-freebsd-with-one-command/)
-* [2024-11-10, 18:54:18](https://lobste.rs/s/idiyn1/peculiar_world_gentoo_package_testing) - [The peculiar world of Gentoo package testing](https://blogs.gentoo.org/mgorny/2024/11/10/the-peculiar-world-of-gentoo-package-testing/)
 * [2024-11-10, 18:45:50](https://lobste.rs/s/1zo0ld/new_website_for_kmx_io_entirely_written) - [New website for kmx.io, entirely written in KC3 a graph oriented programming language](https://www.kmx.io/blog/new-website-for-kmx.io)
 * [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
