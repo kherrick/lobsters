@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 23:48:11](https://lobste.rs/s/ccoqcq/qwen2_5_coder_series_powerful_diverse) - [Qwen2.5-Coder Series: Powerful, Diverse, Practical](https://qwenlm.github.io/blog/qwen2.5-coder-family/)
 * [2024-11-11, 23:31:30](https://lobste.rs/s/cbbgmg/reverse_engineering_finding_exploits) - [Reverse Engineering: Finding Exploits in Video Games](https://shalzuth.com/Blog/FindingExploitsInGames)
 * [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
 * [2024-11-11, 23:24:57](https://lobste.rs/s/chjeht/decoding_cauzin_softstrip_2021) - [Decoding the Cauzin Softstrip (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8591774/)
 * [2024-11-11, 23:15:01](https://lobste.rs/s/shwsbb/self_host_github_actions_runners_with) - [Self-host GitHub Actions runners with Actions Runner Controller (ARC) on AWS](https://www.warpbuild.com/blog/setup-actions-runner-controller)
 * [2024-11-11, 23:10:14](https://lobste.rs/s/4b0tch/bus_number_github_plugin_my_coworkers) - [Bus Number - The github plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
 * [2024-11-11, 22:47:56](https://lobste.rs/s/4c9uas/managing_advanced_search_param) - [Managing Advanced Search Param Filtering in the Next.js App Router](https://aurorascharff.no/posts/managing-advanced-search-param-filtering-next-app-router/)
-* [2024-11-11, 22:15:24](https://lobste.rs/s/baobft/analyzing_codebase_caffeine_high) - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
 * [2024-11-11, 22:01:17](https://lobste.rs/s/bo6ol1/tlb_shootdowns) - [tlb_shootdowns](https://github.com/bitcharmer/tlb_shootdowns)
 * [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
 * [2024-11-11, 17:39:25](https://lobste.rs/s/bu2sye/sensibly_default) - [Sensibly Default](https://matt.blwt.io/post/sensibly-default/)
