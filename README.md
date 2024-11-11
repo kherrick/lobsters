@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 17:35:03](https://lobste.rs/s/snb2vl/next_steps_on_rust_trademark_policy) - [Next Steps on the Rust Trademark Policy](https://blog.rust-lang.org/2024/11/06/trademark-update.html)
 * [2024-11-11, 17:23:06](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week)
 * [2024-11-11, 16:40:58](https://lobste.rs/s/f09e4i/refactoring_barrel_files_with_codemods) - [Refactoring barrel files with codemods](https://mmazzarolo.com/blog/2024-11-10-removing-barrel-file-references-with-a-codemod/)
 * [2024-11-11, 15:01:57](https://lobste.rs/s/5fpveo/curl_v_google_com) - [curl -v google.com](https://www.youtube.com/watch?v=atcqMWqB3hw&t=2s)
@@ -17,7 +18,6 @@
 * [2024-11-10, 21:17:59](https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
 * [2024-11-10, 20:32:12](https://lobste.rs/s/qk2xha/rust_trademark_policy_is_still_harmful) - [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful)
-* [2024-11-10, 19:56:32](https://lobste.rs/s/sexnou/install_freebsd_with_one_command) - [Install FreeBSD with One Command](https://vermaden.wordpress.com/2024/11/10/install-freebsd-with-one-command/)
 * [2024-11-10, 18:45:50](https://lobste.rs/s/1zo0ld/new_website_for_kmx_io_entirely_written) - [New website for kmx.io, entirely written in KC3 a graph oriented programming language](https://www.kmx.io/blog/new-website-for-kmx.io)
 * [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
