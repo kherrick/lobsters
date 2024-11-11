@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-11, 13:09:31",
+      "https://lobste.rs/s/hfwm2h/risc_cpu_excel"
+    ],
+    [
+      "A RISC CPU in Excel",
+      "https://www.youtube.com/watch?v=MNRKi7Rum_c"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 12:57:15",
+      "https://lobste.rs/s/ft1wkf/opengl_is_not_right_handed"
+    ],
+    [
+      "OpenGL is not right-handed",
+      "https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 11:50:19",
       "https://lobste.rs/s/30cjuu/talkback_ai_powered_infosec_resource"
     ],
@@ -97,16 +117,6 @@
     [
       "What RSS reader do you use?",
       "https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 23:41:49",
-      "https://lobste.rs/s/poaekm/histogramming_bytes_with_positional"
-    ],
-    [
-      "Histogramming bytes with positional popcount (GF2P8AFFINEQB edition)",
-      "http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Everything I've learned so far about running local LLMs",
       "https://nullprogram.com/blog/2024/11/10/"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 10:35:56",
-      "https://lobste.rs/s/94tt7y/safety_tigerbeetle"
-    ],
-    [
-      "Safety in TigerBeetle",
-      "https://docs.tigerbeetle.com/about/safety/"
     ]
   ]
 ]
