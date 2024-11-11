@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
 * [2024-11-11, 17:39:25](https://lobste.rs/s/bu2sye/sensibly_default) - [Sensibly Default](https://matt.blwt.io/post/sensibly-default/)
 * [2024-11-11, 17:35:03](https://lobste.rs/s/snb2vl/next_steps_on_rust_trademark_policy) - [Next Steps on the Rust Trademark Policy](https://blog.rust-lang.org/2024/11/06/trademark-update.html)
 * [2024-11-11, 17:23:06](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week)
@@ -18,7 +19,6 @@
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)
 * [2024-11-10, 21:17:59](https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
-* [2024-11-10, 18:45:50](https://lobste.rs/s/1zo0ld/new_website_for_kmx_io_entirely_written) - [New website for kmx.io, entirely written in KC3 a graph oriented programming language](https://www.kmx.io/blog/new-website-for-kmx.io)
 * [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
