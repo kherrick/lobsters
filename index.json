@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-11, 09:56:55",
+      "https://lobste.rs/s/btyyxu/evolution_shells_linux"
+    ],
+    [
+      "Evolution of shells in Linux",
+      "https://developer.ibm.com/tutorials/l-linux-shells/"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 09:26:28",
       "https://lobste.rs/s/q3u84v/emit_c_time_travelling_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "Safety in TigerBeetle",
       "https://docs.tigerbeetle.com/about/safety/"
-    ]
-  ],
-  [
-    [
-      "2024-11-09, 21:05:55",
-      "https://lobste.rs/s/d3qqgv/alternative_idea_for_typed_language"
-    ],
-    [
-      "An alternative idea for a typed language living alongside/inside JavaScript",
-      "https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html"
     ]
   ]
 ]
