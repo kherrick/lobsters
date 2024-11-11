@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 00:18:53](https://lobste.rs/s/okxgok/pishi_coverage_guided_macos_kext_fuzzing) - [Pishi: Coverage guided macOS KEXT fuzzing](https://r00tkitsmm.github.io/fuzzing/2024/11/08/Pishi.html)
 * [2024-11-10, 23:41:49](https://lobste.rs/s/poaekm/histogramming_bytes_with_positional) - [Histogramming bytes with positional popcount (GF2P8AFFINEQB edition)](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
 * [2024-11-10, 21:17:59](https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
@@ -20,7 +21,6 @@
 * [2024-11-10, 09:27:45](https://lobste.rs/s/wagefs/everybody_codes) - [Everybody Codes](https://everybody.codes/home)
 * [2024-11-10, 06:23:06](https://lobste.rs/s/mdr97y/risc_v_vector_extension_overview) - [RISC-V Vector Extension overview](http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html)
 * [2024-11-10, 01:39:37](https://lobste.rs/s/gludgj/algol_68_retrospective) - [Algol 68 – A Retrospective](https://accu.org/journals/overload/26/148/james_2586/)
-* [2024-11-10, 01:11:15](https://lobste.rs/s/zfgasl/unused_keys_vim) - [Unused keys in vim](https://vim.fandom.com/wiki/Unused_keys)
 * [2024-11-09, 21:05:55](https://lobste.rs/s/d3qqgv/alternative_idea_for_typed_language) - [An alternative idea for a typed language living alongside/inside JavaScript](https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html)
 * [2024-11-09, 16:10:44](https://lobste.rs/s/xjs90z/regular_restarts_are_good_actually) - [Regular Restarts Are Good, Actually](https://matt.blwt.io/post/regular-restarts-are-good-actually/)
 * [2024-11-09, 14:38:41](https://lobste.rs/s/fvqexd/psa_sqlite_does_not_do_checksums) - [PSA: SQLite does not do checksums](https://avi.im/blag/2024/sqlite-bit-flip/)
