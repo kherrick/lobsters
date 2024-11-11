@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-11, 23:31:30",
+      "https://lobste.rs/s/cbbgmg/reverse_engineering_finding_exploits"
+    ],
+    [
+      "Reverse Engineering: Finding Exploits in Video Games",
+      "https://shalzuth.com/Blog/FindingExploitsInGames"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 23:27:02",
+      "https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for"
+    ],
+    [
+      "VMware Fusion and Workstation now free for all users",
+      "https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 23:24:57",
       "https://lobste.rs/s/chjeht/decoding_cauzin_softstrip_2021"
     ],
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2024-11-10, 18:02:24",
-      "https://lobste.rs/s/apb7nl/what_s_new_f_9"
-    ],
-    [
-      "What's new in F# 9",
-      "https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9"
-    ]
-  ],
-  [
-    [
       "2024-11-10, 14:12:36",
       "https://lobste.rs/s/wdndnh/booleans_are_trap"
     ],
     [
       "Booleans Are a Trap",
       "https://katafrakt.me/2024/11/09/booleans-are-a-trap/"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 12:59:45",
-      "https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps"
-    ],
-    [
-      "Progressively enhancing (legacy) CGI apps with htmx",
-      "https://jmtd.net/log/htmx/"
     ]
   ],
   [
