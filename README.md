@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 11:50:19](https://lobste.rs/s/30cjuu/talkback_ai_powered_infosec_resource) - [Talkback: AI Powered Infosec Resource Aggregator to Boost Productivity](https://talkback.sh/)
+* [2024-11-11, 11:45:08](https://lobste.rs/s/7csa7f/psa_most_databases_do_not_do_checksums_by) - [PSA: Most databases do not do checksums by default](https://avi.im/blag/2024/databases-checksum/)
 * [2024-11-11, 09:56:55](https://lobste.rs/s/btyyxu/evolution_shells_linux) - [Evolution of shells in Linux](https://developer.ibm.com/tutorials/l-linux-shells/)
 * [2024-11-11, 09:26:28](https://lobste.rs/s/q3u84v/emit_c_time_travelling_programming) - [emiT-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-11, 09:08:53](https://lobste.rs/s/bow3vi/problematic_swift_concurrency_patterns) - [Problematic Swift Concurrency Patterns](https://massicotte.org/problematic-patterns)
@@ -8,7 +10,6 @@
 * [2024-11-11, 02:29:01](https://lobste.rs/s/eoe2zv/kcrypt2_retrospective_lab_notebook) - [kcrypt2 - a retrospective and a lab notebook](https://palaiologos.rocks/posts/kcrypt2-retrospective/)
 * [2024-11-11, 02:24:17](https://lobste.rs/s/2awfwc/way_too_many_ways_wait_on_child_process) - [Way too many ways to wait on a child process with a timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)
-* [2024-11-11, 00:18:53](https://lobste.rs/s/okxgok/pishi_coverage_guided_macos_kext_fuzzing) - [Pishi: Coverage guided macOS KEXT fuzzing](https://r00tkitsmm.github.io/fuzzing/2024/11/08/Pishi.html)
 * [2024-11-10, 23:41:49](https://lobste.rs/s/poaekm/histogramming_bytes_with_positional) - [Histogramming bytes with positional popcount (GF2P8AFFINEQB edition)](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
 * [2024-11-10, 21:17:59](https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
@@ -18,7 +19,6 @@
 * [2024-11-10, 18:45:50](https://lobste.rs/s/1zo0ld/new_website_for_kmx_io_entirely_written) - [New website for kmx.io, entirely written in KC3 a graph oriented programming language](https://www.kmx.io/blog/new-website-for-kmx.io)
 * [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
-* [2024-11-10, 16:50:06](https://lobste.rs/s/bxxyou/history_pc_audio) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
 * [2024-11-10, 12:59:45](https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps) - [Progressively enhancing (legacy) CGI apps with htmx](https://jmtd.net/log/htmx/)
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
