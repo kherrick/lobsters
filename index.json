@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-11-10, 23:41:49",
+      "https://lobste.rs/s/poaekm/histogramming_bytes_with_positional"
+    ],
+    [
+      "Histogramming bytes with positional popcount (GF2P8AFFINEQB edition)",
+      "http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html"
+    ]
+  ],
+  [
+    [
       "2024-11-10, 21:17:59",
       "https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by"
     ],
@@ -207,16 +217,6 @@
     [
       "RISC-V Vector Extension overview",
       "http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 01:39:37",
-      "https://lobste.rs/s/gludgj/algol_68_retrospective"
-    ],
-    [
-      "Algol 68 – A Retrospective",
-      "https://accu.org/journals/overload/26/148/james_2586/"
     ]
   ],
   [
