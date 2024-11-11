@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 23:31:30](https://lobste.rs/s/cbbgmg/reverse_engineering_finding_exploits) - [Reverse Engineering: Finding Exploits in Video Games](https://shalzuth.com/Blog/FindingExploitsInGames)
+* [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
 * [2024-11-11, 23:24:57](https://lobste.rs/s/chjeht/decoding_cauzin_softstrip_2021) - [Decoding the Cauzin Softstrip (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8591774/)
 * [2024-11-11, 23:15:01](https://lobste.rs/s/shwsbb/self_host_github_actions_runners_with) - [Self-host GitHub Actions runners with Actions Runner Controller (ARC) on AWS](https://www.warpbuild.com/blog/setup-actions-runner-controller)
 * [2024-11-11, 23:10:14](https://lobste.rs/s/4b0tch/bus_number_github_plugin_my_coworkers) - [Bus Number - The github plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
@@ -20,9 +22,7 @@
 * [2024-11-11, 07:34:07](https://lobste.rs/s/telgqo/i_sent_ethernet_packet) - [I sent an ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 * [2024-11-11, 02:24:17](https://lobste.rs/s/2awfwc/way_too_many_ways_wait_on_child_process) - [Way too many ways to wait on a child process with a timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)
-* [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
-* [2024-11-10, 12:59:45](https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps) - [Progressively enhancing (legacy) CGI apps with htmx](https://jmtd.net/log/htmx/)
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-11-10, 10:47:11](https://lobste.rs/s/u7hgw0/everything_i_ve_learned_so_far_about) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
 

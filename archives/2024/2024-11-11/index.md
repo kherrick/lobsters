@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 23:31:30](https://lobste.rs/s/cbbgmg/reverse_engineering_finding_exploits) - [Reverse Engineering: Finding Exploits in Video Games](https://shalzuth.com/Blog/FindingExploitsInGames)
+* [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
 * [2024-11-11, 23:24:57](https://lobste.rs/s/chjeht/decoding_cauzin_softstrip_2021) - [Decoding the Cauzin Softstrip (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8591774/)
 * [2024-11-11, 23:15:01](https://lobste.rs/s/shwsbb/self_host_github_actions_runners_with) - [Self-host GitHub Actions runners with Actions Runner Controller (ARC) on AWS](https://www.warpbuild.com/blog/setup-actions-runner-controller)
 * [2024-11-11, 23:10:14](https://lobste.rs/s/4b0tch/bus_number_github_plugin_my_coworkers) - [Bus Number - The github plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
