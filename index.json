@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-11, 22:01:17",
+      "https://lobste.rs/s/bo6ol1/tlb_shootdowns"
+    ],
+    [
+      "tlb_shootdowns",
+      "https://github.com/bitcharmer/tlb_shootdowns"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 19:08:30",
       "https://lobste.rs/s/sm5wsn/cvm_algorithm"
     ],
@@ -187,16 +197,6 @@
     [
       "The Design of a Self-Compiling C Transpiler Targeting POSIX Shell",
       "https://dl.acm.org/doi/10.1145/3687997.3695639"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 18:41:19",
-      "https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays"
-    ],
-    [
-      "Use std::span instead of C-style arrays",
-      "https://www.sandordargo.com/blog/2024/11/06/std-span"
     ]
   ],
   [
