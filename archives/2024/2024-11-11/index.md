@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 14:08:13](https://lobste.rs/s/f6hsm1/binary_vector_embeddings_are_so_cool) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
 * [2024-11-11, 13:09:31](https://lobste.rs/s/hfwm2h/risc_cpu_excel) - [A RISC CPU in Excel](https://www.youtube.com/watch?v=MNRKi7Rum_c)
 * [2024-11-11, 12:57:15](https://lobste.rs/s/ft1wkf/opengl_is_not_right_handed) - [OpenGL is not right-handed](https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/)
 * [2024-11-11, 11:50:19](https://lobste.rs/s/30cjuu/talkback_ai_powered_infosec_resource) - [Talkback: AI Powered Infosec Resource Aggregator to Boost Productivity](https://talkback.sh/)
