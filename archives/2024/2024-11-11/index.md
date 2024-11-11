@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 23:24:57](https://lobste.rs/s/chjeht/decoding_cauzin_softstrip_2021) - [Decoding the Cauzin Softstrip (2021)](https://pmc.ncbi.nlm.nih.gov/articles/PMC8591774/)
+* [2024-11-11, 23:15:01](https://lobste.rs/s/shwsbb/self_host_github_actions_runners_with) - [Self-host GitHub Actions runners with Actions Runner Controller (ARC) on AWS](https://www.warpbuild.com/blog/setup-actions-runner-controller)
 * [2024-11-11, 23:10:14](https://lobste.rs/s/4b0tch/bus_number_github_plugin_my_coworkers) - [Bus Number - The github plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
 * [2024-11-11, 22:47:56](https://lobste.rs/s/4c9uas/managing_advanced_search_param) - [Managing Advanced Search Param Filtering in the Next.js App Router](https://aurorascharff.no/posts/managing-advanced-search-param-filtering-next-app-router/)
 * [2024-11-11, 22:15:24](https://lobste.rs/s/baobft/analyzing_codebase_caffeine_high) - [Analyzing the codebase of Caffeine: a high performance caching library](https://adriacabeza.github.io/2024/07/12/caffeine-cache.html)
