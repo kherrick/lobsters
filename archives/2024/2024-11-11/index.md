@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 22:01:17](https://lobste.rs/s/bo6ol1/tlb_shootdowns) - [tlb_shootdowns](https://github.com/bitcharmer/tlb_shootdowns)
 * [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
 * [2024-11-11, 17:39:25](https://lobste.rs/s/bu2sye/sensibly_default) - [Sensibly Default](https://matt.blwt.io/post/sensibly-default/)
 * [2024-11-11, 17:35:03](https://lobste.rs/s/snb2vl/next_steps_on_rust_trademark_policy) - [Next Steps on the Rust Trademark Policy](https://blog.rust-lang.org/2024/11/06/trademark-update.html)
