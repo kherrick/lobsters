@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 17:39:25](https://lobste.rs/s/bu2sye/sensibly_default) - [Sensibly Default](https://matt.blwt.io/post/sensibly-default/)
 * [2024-11-11, 17:35:03](https://lobste.rs/s/snb2vl/next_steps_on_rust_trademark_policy) - [Next Steps on the Rust Trademark Policy](https://blog.rust-lang.org/2024/11/06/trademark-update.html)
 * [2024-11-11, 17:23:06](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week)
 * [2024-11-11, 16:40:58](https://lobste.rs/s/f09e4i/refactoring_barrel_files_with_codemods) - [Refactoring barrel files with codemods](https://mmazzarolo.com/blog/2024-11-10-removing-barrel-file-references-with-a-codemod/)
