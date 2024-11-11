@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 13:09:31](https://lobste.rs/s/hfwm2h/risc_cpu_excel) - [A RISC CPU in Excel](https://www.youtube.com/watch?v=MNRKi7Rum_c)
+* [2024-11-11, 12:57:15](https://lobste.rs/s/ft1wkf/opengl_is_not_right_handed) - [OpenGL is not right-handed](https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/)
 * [2024-11-11, 11:50:19](https://lobste.rs/s/30cjuu/talkback_ai_powered_infosec_resource) - [Talkback: AI Powered Infosec Resource Aggregator to Boost Productivity](https://talkback.sh/)
 * [2024-11-11, 11:45:08](https://lobste.rs/s/7csa7f/psa_most_databases_do_not_do_checksums_by) - [PSA: Most databases do not do checksums by default](https://avi.im/blag/2024/databases-checksum/)
 * [2024-11-11, 09:56:55](https://lobste.rs/s/btyyxu/evolution_shells_linux) - [Evolution of shells in Linux](https://developer.ibm.com/tutorials/l-linux-shells/)
@@ -10,7 +12,6 @@
 * [2024-11-11, 02:29:01](https://lobste.rs/s/eoe2zv/kcrypt2_retrospective_lab_notebook) - [kcrypt2 - a retrospective and a lab notebook](https://palaiologos.rocks/posts/kcrypt2-retrospective/)
 * [2024-11-11, 02:24:17](https://lobste.rs/s/2awfwc/way_too_many_ways_wait_on_child_process) - [Way too many ways to wait on a child process with a timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)
-* [2024-11-10, 23:41:49](https://lobste.rs/s/poaekm/histogramming_bytes_with_positional) - [Histogramming bytes with positional popcount (GF2P8AFFINEQB edition)](http://bitmath.blogspot.com/2024/11/histogramming-bytes-with-positional.html)
 * [2024-11-10, 21:17:59](https://lobste.rs/s/fi3xjo/algorithms_we_develop_software_by) - [Algorithms we develop software by](https://grantslatton.com/software-pathfinding)
 * [2024-11-10, 20:48:27](https://lobste.rs/s/lplim1/design_self_compiling_c_transpiler) - [The Design of a Self-Compiling C Transpiler Targeting POSIX Shell](https://dl.acm.org/doi/10.1145/3687997.3695639)
 * [2024-11-10, 20:32:12](https://lobste.rs/s/qk2xha/rust_trademark_policy_is_still_harmful) - [The Rust Trademark Policy is still harmful](https://purplesyringa.moe/blog/the-rust-trademark-policy-is-still-harmful)
@@ -24,7 +25,6 @@
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
 * [2024-11-10, 11:21:34](https://lobste.rs/s/zt30oi/pythonic_emptiness) - [The Pythonic Emptiness](https://blog.codingconfessions.com/p/the-pythonic-emptiness)
 * [2024-11-10, 10:47:11](https://lobste.rs/s/u7hgw0/everything_i_ve_learned_so_far_about) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
-* [2024-11-10, 10:35:56](https://lobste.rs/s/94tt7y/safety_tigerbeetle) - [Safety in TigerBeetle](https://docs.tigerbeetle.com/about/safety/)
 
 ## [Archives](archives/index.md)
 

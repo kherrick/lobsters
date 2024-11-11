@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 13:09:31](https://lobste.rs/s/hfwm2h/risc_cpu_excel) - [A RISC CPU in Excel](https://www.youtube.com/watch?v=MNRKi7Rum_c)
+* [2024-11-11, 12:57:15](https://lobste.rs/s/ft1wkf/opengl_is_not_right_handed) - [OpenGL is not right-handed](https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/)
 * [2024-11-11, 11:50:19](https://lobste.rs/s/30cjuu/talkback_ai_powered_infosec_resource) - [Talkback: AI Powered Infosec Resource Aggregator to Boost Productivity](https://talkback.sh/)
 * [2024-11-11, 11:45:08](https://lobste.rs/s/7csa7f/psa_most_databases_do_not_do_checksums_by) - [PSA: Most databases do not do checksums by default](https://avi.im/blag/2024/databases-checksum/)
 * [2024-11-11, 09:56:55](https://lobste.rs/s/btyyxu/evolution_shells_linux) - [Evolution of shells in Linux](https://developer.ibm.com/tutorials/l-linux-shells/)
