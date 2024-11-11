@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 09:56:55](https://lobste.rs/s/btyyxu/evolution_shells_linux) - [Evolution of shells in Linux](https://developer.ibm.com/tutorials/l-linux-shells/)
 * [2024-11-11, 09:26:28](https://lobste.rs/s/q3u84v/emit_c_time_travelling_programming) - [emiT-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-11, 09:08:53](https://lobste.rs/s/bow3vi/problematic_swift_concurrency_patterns) - [Problematic Swift Concurrency Patterns](https://massicotte.org/problematic-patterns)
 * [2024-11-11, 08:39:55](https://lobste.rs/s/kp8weq/srfi_255_restarting_conditions) - [SRFI 255: Restarting conditions](https://srfi.schemers.org/srfi-255/srfi-255.html)
@@ -24,7 +25,6 @@
 * [2024-11-10, 11:21:34](https://lobste.rs/s/zt30oi/pythonic_emptiness) - [The Pythonic Emptiness](https://blog.codingconfessions.com/p/the-pythonic-emptiness)
 * [2024-11-10, 10:47:11](https://lobste.rs/s/u7hgw0/everything_i_ve_learned_so_far_about) - [Everything I've learned so far about running local LLMs](https://nullprogram.com/blog/2024/11/10/)
 * [2024-11-10, 10:35:56](https://lobste.rs/s/94tt7y/safety_tigerbeetle) - [Safety in TigerBeetle](https://docs.tigerbeetle.com/about/safety/)
-* [2024-11-09, 21:05:55](https://lobste.rs/s/d3qqgv/alternative_idea_for_typed_language) - [An alternative idea for a typed language living alongside/inside JavaScript](https://axisofeval.blogspot.com/2024/11/an-alternative-idea-for-typed-language.html)
 
 ## [Archives](archives/index.md)
 
