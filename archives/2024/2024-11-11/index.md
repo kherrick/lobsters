@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 09:26:28](https://lobste.rs/s/q3u84v/emit_c_time_travelling_programming) - [emiT-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-11, 09:08:53](https://lobste.rs/s/bow3vi/problematic_swift_concurrency_patterns) - [Problematic Swift Concurrency Patterns](https://massicotte.org/problematic-patterns)
 * [2024-11-11, 08:39:55](https://lobste.rs/s/kp8weq/srfi_255_restarting_conditions) - [SRFI 255: Restarting conditions](https://srfi.schemers.org/srfi-255/srfi-255.html)
 * [2024-11-11, 07:34:07](https://lobste.rs/s/telgqo/i_sent_ethernet_packet) - [I sent an ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)

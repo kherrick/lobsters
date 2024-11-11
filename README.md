@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-11, 09:26:28](https://lobste.rs/s/q3u84v/emit_c_time_travelling_programming) - [emiT-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-11, 09:08:53](https://lobste.rs/s/bow3vi/problematic_swift_concurrency_patterns) - [Problematic Swift Concurrency Patterns](https://massicotte.org/problematic-patterns)
 * [2024-11-11, 08:39:55](https://lobste.rs/s/kp8weq/srfi_255_restarting_conditions) - [SRFI 255: Restarting conditions](https://srfi.schemers.org/srfi-255/srfi-255.html)
 * [2024-11-11, 07:34:07](https://lobste.rs/s/telgqo/i_sent_ethernet_packet) - [I sent an ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
@@ -17,7 +18,6 @@
 * [2024-11-10, 18:41:19](https://lobste.rs/s/gtplnc/use_std_span_instead_c_style_arrays) - [Use std::span instead of C-style arrays](https://www.sandordargo.com/blog/2024/11/06/std-span)
 * [2024-11-10, 18:02:24](https://lobste.rs/s/apb7nl/what_s_new_f_9) - [What's new in F# 9](https://learn.microsoft.com/en-us/dotnet/fsharp/whats-new/fsharp-9)
 * [2024-11-10, 16:50:06](https://lobste.rs/s/bxxyou/history_pc_audio) - [The History of PC Audio](https://thejpster.org.uk/blog/blog-2024-06-29/)
-* [2024-11-10, 15:37:26](https://lobste.rs/s/qnfsyk/home_grid_plan9_video_series) - [Home Grid - Plan9 video series](https://youtube.com/playlist?list=PLIhkYrUkoYPRBRZsG6m_YalzHthqktVfP&si=n2CaV7zAMGz4dY4-)
 * [2024-11-10, 14:12:36](https://lobste.rs/s/wdndnh/booleans_are_trap) - [Booleans Are a Trap](https://katafrakt.me/2024/11/09/booleans-are-a-trap/)
 * [2024-11-10, 12:59:45](https://lobste.rs/s/qicthw/progressively_enhancing_legacy_cgi_apps) - [Progressively enhancing (legacy) CGI apps with htmx](https://jmtd.net/log/htmx/)
 * [2024-11-10, 12:52:55](https://lobste.rs/s/ey4d4o/bsd_person_tries_alpine_linux) - [A BSD person tries Alpine Linux](https://rubenerd.com/a-bsd-pserson-trying-alpine-linux/)
