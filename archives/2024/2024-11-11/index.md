@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 17:23:06](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week)
 * [2024-11-11, 16:40:58](https://lobste.rs/s/f09e4i/refactoring_barrel_files_with_codemods) - [Refactoring barrel files with codemods](https://mmazzarolo.com/blog/2024-11-10-removing-barrel-file-references-with-a-codemod/)
 * [2024-11-11, 15:01:57](https://lobste.rs/s/5fpveo/curl_v_google_com) - [curl -v google.com](https://www.youtube.com/watch?v=atcqMWqB3hw&t=2s)
 * [2024-11-11, 14:45:16](https://lobste.rs/s/mq8umf/when_use_cosmos_db) - [When to Use Cosmos DB](https://www.pulumi.com/blog/when-to-use-azure-cosmos-db/)
