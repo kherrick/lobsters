@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-11, 09:08:53",
+      "https://lobste.rs/s/bow3vi/problematic_swift_concurrency_patterns"
+    ],
+    [
+      "Problematic Swift Concurrency Patterns",
+      "https://massicotte.org/problematic-patterns"
+    ]
+  ],
+  [
+    [
       "2024-11-11, 08:39:55",
       "https://lobste.rs/s/kp8weq/srfi_255_restarting_conditions"
     ],
@@ -227,16 +237,6 @@
     [
       "Safety in TigerBeetle",
       "https://docs.tigerbeetle.com/about/safety/"
-    ]
-  ],
-  [
-    [
-      "2024-11-10, 06:23:06",
-      "https://lobste.rs/s/mdr97y/risc_v_vector_extension_overview"
-    ],
-    [
-      "RISC-V Vector Extension overview",
-      "http://0x80.pl/notesen/2024-11-09-riscv-vector-extension.html"
     ]
   ],
   [
