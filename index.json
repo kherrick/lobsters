@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-12, 20:27:24",
+      "https://lobste.rs/s/as8ufx/hyperlight_running_functions_virtual"
+    ],
+    [
+      "Hyperlight - Running functions in virtual machines",
+      "https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 19:40:19",
       "https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set"
     ],
@@ -237,16 +247,6 @@
     [
       "Binary vector embeddings are so cool",
       "https://emschwartz.me/binary-vector-embeddings-are-so-cool/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 02:21:37",
-      "https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use"
-    ],
-    [
-      "What RSS reader do you use?",
-      "https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use"
     ]
   ]
 ]
