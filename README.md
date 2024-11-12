@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-12, 22:38:37](https://lobste.rs/s/dxgtet/cognitive_load_is_what_matters) - [Cognitive load is what matters](https://zakirullin.md/cognitive)
+* [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
 * [2024-11-12, 20:27:24](https://lobste.rs/s/as8ufx/hyperlight_running_functions_virtual) - [Hyperlight - Running functions in virtual machines](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
 * [2024-11-12, 19:40:19](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set) - [PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set)
 * [2024-11-12, 19:31:21](https://lobste.rs/s/jse5fp/adopting_bazel_for_web_at_scale) - [Adopting Bazel for Web at Scale](https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325)
