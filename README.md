@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-12, 19:40:19](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set) - [PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set)
 * [2024-11-12, 19:31:21](https://lobste.rs/s/jse5fp/adopting_bazel_for_web_at_scale) - [Adopting Bazel for Web at Scale](https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325)
-* [2024-11-12, 19:19:40](https://lobste.rs/s/ifnd8l/secret_service_says_you_agreed_be_tracked) - [Secret Service Says You Agreed To Be Tracked With Location Data](https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/)
 * [2024-11-12, 18:18:50](https://lobste.rs/s/xddafk/fmt_sprintf_vs_string_concat) - [fmt.Sprintf vs String Concat](https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/)
 * [2024-11-12, 18:16:23](https://lobste.rs/s/qfhzix/playing_bad_apple_over_rss) - [Playing Bad Apple over RSS](https://ersei.net/en/blog/bad-apple-rss)
 * [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
