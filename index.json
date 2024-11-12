@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-12, 17:12:39",
-      "https://lobste.rs/s/adufhw/reimagining_fedora_linux_installer"
+      "2024-11-12, 18:18:50",
+      "https://lobste.rs/s/xddafk/fmt_sprintf_vs_string_concat"
     ],
     [
-      "Reimagining the Fedora Linux installer: Anaconda's new \"Web UI\"",
-      "https://fedoramagazine.org/anaconda-installer-redesign/"
+      "fmt.Sprintf vs String Concat",
+      "https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 18:16:23",
+      "https://lobste.rs/s/qfhzix/playing_bad_apple_over_rss"
+    ],
+    [
+      "Playing Bad Apple over RSS",
+      "https://ersei.net/en/blog/bad-apple-rss"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 17:57:00",
+      "https://lobste.rs/s/qyinet/security_engineering_guide_building"
+    ],
+    [
+      "Security Engineering - A Guide to Building Dependable Distributed Systems",
+      "https://www.cl.cam.ac.uk/archive/rja14/book.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Using portable SIMD in stable Rust",
       "https://pythonspeed.com/articles/simd-stable-rust/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 15:15:38",
-      "https://lobste.rs/s/zga1at/nomadic_infrastructure_design_for_ai"
-    ],
-    [
-      "Nomadic Infrastructure Design for AI Workloads",
-      "https://www.tigrisdata.com/blog/nomadic-compute/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The CVM Algorithm",
       "https://buttondown.com/jaffray/archive/the-cvm-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 17:23:06",
-      "https://lobste.rs/s/pcckj5/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/pcckj5/what_are_you_doing_this_week"
     ]
   ],
   [
