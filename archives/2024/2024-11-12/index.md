@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 18:18:50](https://lobste.rs/s/xddafk/fmt_sprintf_vs_string_concat) - [fmt.Sprintf vs String Concat](https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/)
+* [2024-11-12, 18:16:23](https://lobste.rs/s/qfhzix/playing_bad_apple_over_rss) - [Playing Bad Apple over RSS](https://ersei.net/en/blog/bad-apple-rss)
+* [2024-11-12, 17:57:00](https://lobste.rs/s/qyinet/security_engineering_guide_building) - [Security Engineering - A Guide to Building Dependable Distributed Systems](https://www.cl.cam.ac.uk/archive/rja14/book.html)
 * [2024-11-12, 17:12:39](https://lobste.rs/s/adufhw/reimagining_fedora_linux_installer) - [Reimagining the Fedora Linux installer: Anaconda's new \"Web UI\"](https://fedoramagazine.org/anaconda-installer-redesign/)
 * [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 * [2024-11-12, 16:26:59](https://lobste.rs/s/qwxlnh/3rd_edition_ross_anderson_s_security) - [3rd edition of Ross Anderson’s Security Engineering book now freely available for download](https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/)
