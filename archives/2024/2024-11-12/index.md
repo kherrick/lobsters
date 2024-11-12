@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 17:12:39](https://lobste.rs/s/adufhw/reimagining_fedora_linux_installer) - [Reimagining the Fedora Linux installer: Anaconda's new \"Web UI\"](https://fedoramagazine.org/anaconda-installer-redesign/)
 * [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 * [2024-11-12, 16:26:59](https://lobste.rs/s/qwxlnh/3rd_edition_ross_anderson_s_security) - [3rd edition of Ross Anderson’s Security Engineering book now freely available for download](https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/)
 * [2024-11-12, 16:26:10](https://lobste.rs/s/1k66tl/typed_env_vars_for_valid_environments) - [Typed ENV Vars for Valid Environments from Dev to Production](https://runme.dev/blog/typed-env-vars)

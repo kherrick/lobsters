@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-12, 17:12:39](https://lobste.rs/s/adufhw/reimagining_fedora_linux_installer) - [Reimagining the Fedora Linux installer: Anaconda's new \"Web UI\"](https://fedoramagazine.org/anaconda-installer-redesign/)
 * [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 * [2024-11-12, 16:26:59](https://lobste.rs/s/qwxlnh/3rd_edition_ross_anderson_s_security) - [3rd edition of Ross Anderson’s Security Engineering book now freely available for download](https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/)
 * [2024-11-12, 16:26:10](https://lobste.rs/s/1k66tl/typed_env_vars_for_valid_environments) - [Typed ENV Vars for Valid Environments from Dev to Production](https://runme.dev/blog/typed-env-vars)
@@ -22,7 +23,6 @@
 * [2024-11-11, 17:23:06](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week)
 * [2024-11-11, 14:45:16](https://lobste.rs/s/mq8umf/when_use_cosmos_db) - [When to Use Cosmos DB](https://www.pulumi.com/blog/when-to-use-azure-cosmos-db/)
 * [2024-11-11, 14:08:13](https://lobste.rs/s/f6hsm1/binary_vector_embeddings_are_so_cool) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
-* [2024-11-11, 12:57:15](https://lobste.rs/s/ft1wkf/opengl_is_not_right_handed) - [OpenGL is not right-handed](https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/)
 * [2024-11-11, 07:34:07](https://lobste.rs/s/telgqo/i_sent_ethernet_packet) - [I sent an ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)
 
