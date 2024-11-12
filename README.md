@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-12, 08:48:49](https://lobste.rs/s/tbmhqb/object_incest_2011) - [Object Incest (2011)](https://timkellogg.me/blog/2011/03/23/object-incest)
 * [2024-11-12, 08:17:23](https://lobste.rs/s/9roozc/programming_performance_myths_vs) - [Programming Performance Myths vs. Realities](https://jatinchowdhury18.medium.com/programming-performance-myths-vs-realities-ad45b9bc5a1f)
 * [2024-11-12, 08:04:04](https://lobste.rs/s/xvoxeg/there_is_no_road_from_here_there) - [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
 * [2024-11-12, 05:13:15](https://lobste.rs/s/ynmsll/attack_evil_baristas) - [Attack of the Evil Baristas](https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853)
@@ -20,7 +21,6 @@
 * [2024-11-11, 14:08:13](https://lobste.rs/s/f6hsm1/binary_vector_embeddings_are_so_cool) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
 * [2024-11-11, 12:57:15](https://lobste.rs/s/ft1wkf/opengl_is_not_right_handed) - [OpenGL is not right-handed](https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/)
 * [2024-11-11, 09:56:55](https://lobste.rs/s/btyyxu/evolution_shells_linux) - [Evolution of shells in Linux](https://developer.ibm.com/tutorials/l-linux-shells/)
-* [2024-11-11, 09:26:28](https://lobste.rs/s/q3u84v/emit_c_time_travelling_programming) - [emiT-C: A time travelling programming language](https://github.com/nimrag-b/emiT-C)
 * [2024-11-11, 07:34:07](https://lobste.rs/s/telgqo/i_sent_ethernet_packet) - [I sent an ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 * [2024-11-11, 02:24:17](https://lobste.rs/s/2awfwc/way_too_many_ways_wait_on_child_process) - [Way too many ways to wait on a child process with a timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 08:48:49](https://lobste.rs/s/tbmhqb/object_incest_2011) - [Object Incest (2011)](https://timkellogg.me/blog/2011/03/23/object-incest)
 * [2024-11-12, 08:17:23](https://lobste.rs/s/9roozc/programming_performance_myths_vs) - [Programming Performance Myths vs. Realities](https://jatinchowdhury18.medium.com/programming-performance-myths-vs-realities-ad45b9bc5a1f)
 * [2024-11-12, 08:04:04](https://lobste.rs/s/xvoxeg/there_is_no_road_from_here_there) - [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
 * [2024-11-12, 05:13:15](https://lobste.rs/s/ynmsll/attack_evil_baristas) - [Attack of the Evil Baristas](https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853)
