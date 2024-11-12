@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-12, 19:31:21",
+      "https://lobste.rs/s/jse5fp/adopting_bazel_for_web_at_scale"
+    ],
+    [
+      "Adopting Bazel for Web at Scale",
+      "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 19:19:40",
       "https://lobste.rs/s/ifnd8l/secret_service_says_you_agreed_be_tracked"
     ],
@@ -227,16 +237,6 @@
     [
       "Binary vector embeddings are so cool",
       "https://emschwartz.me/binary-vector-embeddings-are-so-cool/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 07:34:07",
-      "https://lobste.rs/s/telgqo/i_sent_ethernet_packet"
-    ],
-    [
-      "I sent an ethernet packet",
-      "https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md"
     ]
   ],
   [
