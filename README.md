@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-12, 19:19:40](https://lobste.rs/s/ifnd8l/secret_service_says_you_agreed_be_tracked) - [Secret Service Says You Agreed To Be Tracked With Location Data](https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/)
 * [2024-11-12, 18:18:50](https://lobste.rs/s/xddafk/fmt_sprintf_vs_string_concat) - [fmt.Sprintf vs String Concat](https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/)
 * [2024-11-12, 18:16:23](https://lobste.rs/s/qfhzix/playing_bad_apple_over_rss) - [Playing Bad Apple over RSS](https://ersei.net/en/blog/bad-apple-rss)
 * [2024-11-12, 17:57:00](https://lobste.rs/s/qyinet/security_engineering_guide_building) - [Security Engineering - A Guide to Building Dependable Distributed Systems](https://www.cl.cam.ac.uk/archive/rja14/book.html)
@@ -23,7 +24,6 @@
 * [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
 * [2024-11-11, 14:45:16](https://lobste.rs/s/mq8umf/when_use_cosmos_db) - [When to Use Cosmos DB](https://www.pulumi.com/blog/when-to-use-azure-cosmos-db/)
 * [2024-11-11, 14:08:13](https://lobste.rs/s/f6hsm1/binary_vector_embeddings_are_so_cool) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
-* [2024-11-11, 07:34:07](https://lobste.rs/s/telgqo/i_sent_ethernet_packet) - [I sent an ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)
 
 ## [Archives](archives/index.md)
