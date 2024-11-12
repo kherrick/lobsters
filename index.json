@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-12, 11:01:00",
+      "https://lobste.rs/s/sdywfl/netbsd_on_rock64_board"
+    ],
+    [
+      "NetBSD on a ROCK64 Board",
+      "https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 10:37:44",
       "https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies"
     ],
@@ -87,16 +97,6 @@
     [
       "Qwen2.5-Coder Series: Powerful, Diverse, Practical",
       "https://qwenlm.github.io/blog/qwen2.5-coder-family/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 23:31:30",
-      "https://lobste.rs/s/cbbgmg/reverse_engineering_finding_exploits"
-    ],
-    [
-      "Reverse Engineering: Finding Exploits in Video Games",
-      "https://shalzuth.com/Blog/FindingExploitsInGames"
     ]
   ],
   [
