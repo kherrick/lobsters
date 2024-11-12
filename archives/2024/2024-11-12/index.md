@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 14:12:56](https://lobste.rs/s/wzrurb/jepsen_bufstream_0_1_0) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
 * [2024-11-12, 12:04:13](https://lobste.rs/s/zmz8zv/rust_needs_official_specification) - [Rust needs an official specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
 * [2024-11-12, 11:01:00](https://lobste.rs/s/sdywfl/netbsd_on_rock64_board) - [NetBSD on a ROCK64 Board](https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/)
 * [2024-11-12, 10:37:44](https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
