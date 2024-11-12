@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-12, 14:12:56",
+      "https://lobste.rs/s/wzrurb/jepsen_bufstream_0_1_0"
+    ],
+    [
+      "Jepsen: Bufstream 0.1.0",
+      "https://jepsen.io/analyses/bufstream-0.1.0"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 12:04:13",
       "https://lobste.rs/s/zmz8zv/rust_needs_official_specification"
     ],
@@ -217,16 +227,6 @@
     [
       "OpenGL is not right-handed",
       "https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 09:56:55",
-      "https://lobste.rs/s/btyyxu/evolution_shells_linux"
-    ],
-    [
-      "Evolution of shells in Linux",
-      "https://developer.ibm.com/tutorials/l-linux-shells/"
     ]
   ],
   [
