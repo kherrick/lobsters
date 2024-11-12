@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-12, 17:57:00",
-      "https://lobste.rs/s/qyinet/security_engineering_guide_building"
-    ],
-    [
-      "Security Engineering - A Guide to Building Dependable Distributed Systems",
-      "https://www.cl.cam.ac.uk/archive/rja14/book.html"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 16:28:01",
       "https://lobste.rs/s/cexnaf/announcing_net_9"
     ],
@@ -237,6 +227,16 @@
     [
       "Binary vector embeddings are so cool",
       "https://emschwartz.me/binary-vector-embeddings-are-so-cool/"
+    ]
+  ],
+  [
+    [
+      "2024-11-11, 07:34:07",
+      "https://lobste.rs/s/telgqo/i_sent_ethernet_packet"
+    ],
+    [
+      "I sent an ethernet packet",
+      "https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md"
     ]
   ],
   [
