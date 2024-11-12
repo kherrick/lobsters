@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-11-12, 15:42:45](https://lobste.rs/s/25iglw/using_portable_simd_stable_rust) - [Using portable SIMD in stable Rust](https://pythonspeed.com/articles/simd-stable-rust/)
-* [2024-11-12, 15:17:36](https://lobste.rs/s/pxtjyz/future_postgres) - [The future of Postgres?](https://www.craigkerstiens.com/2024/10/18/the-future-of-postgres/)
 * [2024-11-12, 15:15:38](https://lobste.rs/s/zga1at/nomadic_infrastructure_design_for_ai) - [Nomadic Infrastructure Design for AI Workloads](https://www.tigrisdata.com/blog/nomadic-compute/)
 * [2024-11-12, 15:10:56](https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at) - [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
 * [2024-11-12, 15:03:01](https://lobste.rs/s/r2p6ut/hot_tub_monitoring_with_home_assistant) - [Hot Tub Monitoring with Home Assistant and ESPHome](https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/)
@@ -17,6 +16,7 @@
 * [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
 * [2024-11-11, 23:15:01](https://lobste.rs/s/shwsbb/self_host_github_actions_runners_with) - [Self-host GitHub Actions runners with Actions Runner Controller (ARC) on AWS](https://www.warpbuild.com/blog/setup-actions-runner-controller)
 * [2024-11-11, 23:10:14](https://lobste.rs/s/4b0tch/bus_number_github_plugin_my_coworkers) - [Bus Number - The github plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
+* [2024-11-11, 22:01:17](https://lobste.rs/s/bo6ol1/tlb_shootdowns) - [tlb_shootdowns](https://github.com/bitcharmer/tlb_shootdowns)
 * [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
 * [2024-11-11, 17:23:06](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week)
 * [2024-11-11, 15:01:57](https://lobste.rs/s/5fpveo/curl_v_google_com) - [curl -v google.com](https://www.youtube.com/watch?v=atcqMWqB3hw&t=2s)
