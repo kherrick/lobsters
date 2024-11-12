@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-12, 12:04:13](https://lobste.rs/s/zmz8zv/rust_needs_official_specification) - [Rust needs an official specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
 * [2024-11-12, 11:01:00](https://lobste.rs/s/sdywfl/netbsd_on_rock64_board) - [NetBSD on a ROCK64 Board](https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/)
 * [2024-11-12, 10:37:44](https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-12, 08:48:49](https://lobste.rs/s/tbmhqb/object_incest_2011) - [Object Incest (2011)](https://timkellogg.me/blog/2011/03/23/object-incest)
@@ -23,7 +24,6 @@
 * [2024-11-11, 12:57:15](https://lobste.rs/s/ft1wkf/opengl_is_not_right_handed) - [OpenGL is not right-handed](https://www.gingerbill.org/article/2024/11/10/opengl-is-not-right-handed/)
 * [2024-11-11, 09:56:55](https://lobste.rs/s/btyyxu/evolution_shells_linux) - [Evolution of shells in Linux](https://developer.ibm.com/tutorials/l-linux-shells/)
 * [2024-11-11, 07:34:07](https://lobste.rs/s/telgqo/i_sent_ethernet_packet) - [I sent an ethernet packet](https://github.com/francisrstokes/githublog/blob/main/2024%2F11%2F1%2Fsending-an-ethernet-packet.md)
-* [2024-11-11, 02:24:17](https://lobste.rs/s/2awfwc/way_too_many_ways_wait_on_child_process) - [Way too many ways to wait on a child process with a timeout](https://gaultier.github.io/blog/way_too_many_ways_to_wait_for_a_child_process_with_a_timeout.html)
 * [2024-11-11, 02:21:37](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use) - [What RSS reader do you use?](https://lobste.rs/s/8otsv9/what_rss_reader_do_you_use)
 
 ## [Archives](archives/index.md)
