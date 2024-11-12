@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
+* [2024-11-12, 16:26:59](https://lobste.rs/s/qwxlnh/3rd_edition_ross_anderson_s_security) - [3rd edition of Ross Anderson’s Security Engineering book now freely available for download](https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/)
+* [2024-11-12, 16:26:10](https://lobste.rs/s/1k66tl/typed_env_vars_for_valid_environments) - [Typed ENV Vars for Valid Environments from Dev to Production](https://runme.dev/blog/typed-env-vars)
 * [2024-11-12, 15:42:45](https://lobste.rs/s/25iglw/using_portable_simd_stable_rust) - [Using portable SIMD in stable Rust](https://pythonspeed.com/articles/simd-stable-rust/)
 * [2024-11-12, 15:17:36](https://lobste.rs/s/pxtjyz/future_postgres) - [The future of Postgres?](https://www.craigkerstiens.com/2024/10/18/the-future-of-postgres/)
 * [2024-11-12, 15:15:38](https://lobste.rs/s/zga1at/nomadic_infrastructure_design_for_ai) - [Nomadic Infrastructure Design for AI Workloads](https://www.tigrisdata.com/blog/nomadic-compute/)
