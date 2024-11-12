@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 11:01:00](https://lobste.rs/s/sdywfl/netbsd_on_rock64_board) - [NetBSD on a ROCK64 Board](https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/)
 * [2024-11-12, 10:37:44](https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-12, 08:48:49](https://lobste.rs/s/tbmhqb/object_incest_2011) - [Object Incest (2011)](https://timkellogg.me/blog/2011/03/23/object-incest)
 * [2024-11-12, 08:17:23](https://lobste.rs/s/9roozc/programming_performance_myths_vs) - [Programming Performance Myths vs. Realities](https://jatinchowdhury18.medium.com/programming-performance-myths-vs-realities-ad45b9bc5a1f)

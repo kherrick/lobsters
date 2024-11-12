@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-12, 11:01:00](https://lobste.rs/s/sdywfl/netbsd_on_rock64_board) - [NetBSD on a ROCK64 Board](https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/)
 * [2024-11-12, 10:37:44](https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-12, 08:48:49](https://lobste.rs/s/tbmhqb/object_incest_2011) - [Object Incest (2011)](https://timkellogg.me/blog/2011/03/23/object-incest)
 * [2024-11-12, 08:17:23](https://lobste.rs/s/9roozc/programming_performance_myths_vs) - [Programming Performance Myths vs. Realities](https://jatinchowdhury18.medium.com/programming-performance-myths-vs-realities-ad45b9bc5a1f)
@@ -9,7 +10,6 @@
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:08:09](https://lobste.rs/s/jomvu1/git_jujutsu_miniature) - [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:48:11](https://lobste.rs/s/ccoqcq/qwen2_5_coder_series_powerful_diverse) - [Qwen2.5-Coder Series: Powerful, Diverse, Practical](https://qwenlm.github.io/blog/qwen2.5-coder-family/)
-* [2024-11-11, 23:31:30](https://lobste.rs/s/cbbgmg/reverse_engineering_finding_exploits) - [Reverse Engineering: Finding Exploits in Video Games](https://shalzuth.com/Blog/FindingExploitsInGames)
 * [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
 * [2024-11-11, 23:15:01](https://lobste.rs/s/shwsbb/self_host_github_actions_runners_with) - [Self-host GitHub Actions runners with Actions Runner Controller (ARC) on AWS](https://www.warpbuild.com/blog/setup-actions-runner-controller)
 * [2024-11-11, 23:10:14](https://lobste.rs/s/4b0tch/bus_number_github_plugin_my_coworkers) - [Bus Number - The github plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
