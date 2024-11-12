@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 08:17:23](https://lobste.rs/s/9roozc/programming_performance_myths_vs) - [Programming Performance Myths vs. Realities](https://jatinchowdhury18.medium.com/programming-performance-myths-vs-realities-ad45b9bc5a1f)
+* [2024-11-12, 08:04:04](https://lobste.rs/s/xvoxeg/there_is_no_road_from_here_there) - [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
 * [2024-11-12, 05:13:15](https://lobste.rs/s/ynmsll/attack_evil_baristas) - [Attack of the Evil Baristas](https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853)
 * [2024-11-12, 04:30:09](https://lobste.rs/s/6e25t7/soul_old_machine_revisiting_timeless_von) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)

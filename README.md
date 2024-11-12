@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-12, 08:17:23](https://lobste.rs/s/9roozc/programming_performance_myths_vs) - [Programming Performance Myths vs. Realities](https://jatinchowdhury18.medium.com/programming-performance-myths-vs-realities-ad45b9bc5a1f)
+* [2024-11-12, 08:04:04](https://lobste.rs/s/xvoxeg/there_is_no_road_from_here_there) - [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
 * [2024-11-12, 05:13:15](https://lobste.rs/s/ynmsll/attack_evil_baristas) - [Attack of the Evil Baristas](https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853)
 * [2024-11-12, 04:30:09](https://lobste.rs/s/6e25t7/soul_old_machine_revisiting_timeless_von) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
@@ -11,10 +13,8 @@
 * [2024-11-11, 23:10:14](https://lobste.rs/s/4b0tch/bus_number_github_plugin_my_coworkers) - [Bus Number - The github plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
 * [2024-11-11, 22:01:17](https://lobste.rs/s/bo6ol1/tlb_shootdowns) - [tlb_shootdowns](https://github.com/bitcharmer/tlb_shootdowns)
 * [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
-* [2024-11-11, 17:39:25](https://lobste.rs/s/bu2sye/sensibly_default) - [Sensibly Default](https://matt.blwt.io/post/sensibly-default/)
 * [2024-11-11, 17:35:03](https://lobste.rs/s/snb2vl/next_steps_on_rust_trademark_policy) - [Next Steps on the Rust Trademark Policy](https://blog.rust-lang.org/2024/11/06/trademark-update.html)
 * [2024-11-11, 17:23:06](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/pcckj5/what_are_you_doing_this_week)
-* [2024-11-11, 16:40:58](https://lobste.rs/s/f09e4i/refactoring_barrel_files_with_codemods) - [Refactoring barrel files with codemods](https://mmazzarolo.com/blog/2024-11-10-removing-barrel-file-references-with-a-codemod/)
 * [2024-11-11, 15:01:57](https://lobste.rs/s/5fpveo/curl_v_google_com) - [curl -v google.com](https://www.youtube.com/watch?v=atcqMWqB3hw&t=2s)
 * [2024-11-11, 14:45:16](https://lobste.rs/s/mq8umf/when_use_cosmos_db) - [When to Use Cosmos DB](https://www.pulumi.com/blog/when-to-use-azure-cosmos-db/)
 * [2024-11-11, 14:08:13](https://lobste.rs/s/f6hsm1/binary_vector_embeddings_are_so_cool) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
