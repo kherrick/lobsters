@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-11](index.md)
 
+* [2024-11-11, 23:52:31](https://lobste.rs/s/fxvtyx/remembering_grace_hopper) - [Remembering Grace Hopper – Communications of the ACM](https://cacm.acm.org/blogcacm/remembering-grace-hopper/)
 * [2024-11-11, 23:48:11](https://lobste.rs/s/ccoqcq/qwen2_5_coder_series_powerful_diverse) - [Qwen2.5-Coder Series: Powerful, Diverse, Practical](https://qwenlm.github.io/blog/qwen2.5-coder-family/)
 * [2024-11-11, 23:31:30](https://lobste.rs/s/cbbgmg/reverse_engineering_finding_exploits) - [Reverse Engineering: Finding Exploits in Video Games](https://shalzuth.com/Blog/FindingExploitsInGames)
 * [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
