@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 22:42:43](https://lobste.rs/s/u0vzjf/what_does_f_x_mean_c) - [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
 * [2024-11-12, 22:38:37](https://lobste.rs/s/dxgtet/cognitive_load_is_what_matters) - [Cognitive load is what matters](https://zakirullin.md/cognitive)
 * [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
 * [2024-11-12, 20:27:24](https://lobste.rs/s/as8ufx/hyperlight_running_functions_virtual) - [Hyperlight - Running functions in virtual machines](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
