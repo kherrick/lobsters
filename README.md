@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-12, 20:27:24](https://lobste.rs/s/as8ufx/hyperlight_running_functions_virtual) - [Hyperlight - Running functions in virtual machines](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
 * [2024-11-12, 19:40:19](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set) - [PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set)
 * [2024-11-12, 19:31:21](https://lobste.rs/s/jse5fp/adopting_bazel_for_web_at_scale) - [Adopting Bazel for Web at Scale](https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325)
 * [2024-11-12, 19:19:40](https://lobste.rs/s/ifnd8l/secret_service_says_you_agreed_be_tracked) - [Secret Service Says You Agreed To Be Tracked With Location Data](https://www.404media.co/fyi-a-warrant-isnt-needed-secret-service-says-you-agreed-to-be-tracked-with-location-data/)
@@ -17,7 +18,6 @@
 * [2024-11-12, 10:37:44](https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-12, 08:04:04](https://lobste.rs/s/xvoxeg/there_is_no_road_from_here_there) - [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
 * [2024-11-12, 05:13:15](https://lobste.rs/s/ynmsll/attack_evil_baristas) - [Attack of the Evil Baristas](https://medium.com/@boblord/attack-of-the-evil-baristas-b204436f0853)
-* [2024-11-12, 04:30:09](https://lobste.rs/s/6e25t7/soul_old_machine_revisiting_timeless_von) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:08:09](https://lobste.rs/s/jomvu1/git_jujutsu_miniature) - [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
