@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-12](index.md)
 
+* [2024-11-12, 15:42:45](https://lobste.rs/s/25iglw/using_portable_simd_stable_rust) - [Using portable SIMD in stable Rust](https://pythonspeed.com/articles/simd-stable-rust/)
 * [2024-11-12, 15:17:36](https://lobste.rs/s/pxtjyz/future_postgres) - [The future of Postgres?](https://www.craigkerstiens.com/2024/10/18/the-future-of-postgres/)
 * [2024-11-12, 15:15:38](https://lobste.rs/s/zga1at/nomadic_infrastructure_design_for_ai) - [Nomadic Infrastructure Design for AI Workloads](https://www.tigrisdata.com/blog/nomadic-compute/)
 * [2024-11-12, 15:10:56](https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at) - [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
