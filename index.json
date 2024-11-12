@@ -1,6 +1,56 @@
 [
   [
     [
+      "2024-11-12, 15:17:36",
+      "https://lobste.rs/s/pxtjyz/future_postgres"
+    ],
+    [
+      "The future of Postgres?",
+      "https://www.craigkerstiens.com/2024/10/18/the-future-of-postgres/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 15:15:38",
+      "https://lobste.rs/s/zga1at/nomadic_infrastructure_design_for_ai"
+    ],
+    [
+      "Nomadic Infrastructure Design for AI Workloads",
+      "https://www.tigrisdata.com/blog/nomadic-compute/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 15:10:56",
+      "https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at"
+    ],
+    [
+      "Jujutsu: A Haven for Mercurial Users at Mozilla",
+      "https://ahal.ca/blog/2024/jujutsu-mercurial-haven/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 15:03:01",
+      "https://lobste.rs/s/r2p6ut/hot_tub_monitoring_with_home_assistant"
+    ],
+    [
+      "Hot Tub Monitoring with Home Assistant and ESPHome",
+      "https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/"
+    ]
+  ],
+  [
+    [
+      "2024-11-12, 15:02:59",
+      "https://lobste.rs/s/o7vzky/online_debates_bridge_divides_find"
+    ],
+    [
+      "Online debates to bridge divides and find common ground",
+      "https://societyspeaks.io"
+    ]
+  ],
+  [
+    [
       "2024-11-12, 14:12:56",
       "https://lobste.rs/s/wzrurb/jepsen_bufstream_0_1_0"
     ],
@@ -21,42 +71,12 @@
   ],
   [
     [
-      "2024-11-12, 11:01:00",
-      "https://lobste.rs/s/sdywfl/netbsd_on_rock64_board"
-    ],
-    [
-      "NetBSD on a ROCK64 Board",
-      "https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 10:37:44",
       "https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies"
     ],
     [
       "How I ship projects at big tech companies",
       "https://www.seangoedecke.com/how-to-ship/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 08:48:49",
-      "https://lobste.rs/s/tbmhqb/object_incest_2011"
-    ],
-    [
-      "Object Incest (2011)",
-      "https://timkellogg.me/blog/2011/03/23/object-incest"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 08:17:23",
-      "https://lobste.rs/s/9roozc/programming_performance_myths_vs"
-    ],
-    [
-      "Programming Performance Myths vs. Realities",
-      "https://jatinchowdhury18.medium.com/programming-performance-myths-vs-realities-ad45b9bc5a1f"
     ]
   ],
   [
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-11-11, 23:48:11",
-      "https://lobste.rs/s/ccoqcq/qwen2_5_coder_series_powerful_diverse"
-    ],
-    [
-      "Qwen2.5-Coder Series: Powerful, Diverse, Practical",
-      "https://qwenlm.github.io/blog/qwen2.5-coder-family/"
-    ]
-  ],
-  [
-    [
       "2024-11-11, 23:27:02",
       "https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for"
     ],
@@ -167,16 +177,6 @@
     [
       "The CVM Algorithm",
       "https://buttondown.com/jaffray/archive/the-cvm-algorithm/"
-    ]
-  ],
-  [
-    [
-      "2024-11-11, 17:35:03",
-      "https://lobste.rs/s/snb2vl/next_steps_on_rust_trademark_policy"
-    ],
-    [
-      "Next Steps on the Rust Trademark Policy",
-      "https://blog.rust-lang.org/2024/11/06/trademark-update.html"
     ]
   ],
   [
