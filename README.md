@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
 * [2024-11-13, 16:22:51](https://lobste.rs/s/tmyutk/platforms_need_new_building_blocks) - [Platforms Need New Building Blocks](https://www.junctionlabs.io/blog/platforms-need-new-building-blocks)
 * [2024-11-13, 14:29:17](https://lobste.rs/s/vdhlun/swift_almost_does_really_cool_thing_i_want) - [Swift *almost* does a really cool thing I want](https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/)
 * [2024-11-13, 14:14:36](https://lobste.rs/s/piz5hd/empowered_programmer_searls_cut) - [The Empowered Programmer: The Searls Cut](https://www.youtube.com/watch?v=QP9zgXdgrK8)
@@ -22,7 +23,6 @@
 * [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 * [2024-11-12, 15:10:56](https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at) - [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
 * [2024-11-12, 14:12:56](https://lobste.rs/s/wzrurb/jepsen_bufstream_0_1_0) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
-* [2024-11-12, 12:04:13](https://lobste.rs/s/zmz8zv/rust_needs_official_specification) - [Rust needs an official specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:08:09](https://lobste.rs/s/jomvu1/git_jujutsu_miniature) - [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 
