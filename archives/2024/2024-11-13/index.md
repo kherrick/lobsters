@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 16:22:51](https://lobste.rs/s/tmyutk/platforms_need_new_building_blocks) - [Platforms Need New Building Blocks](https://www.junctionlabs.io/blog/platforms-need-new-building-blocks)
 * [2024-11-13, 14:29:17](https://lobste.rs/s/vdhlun/swift_almost_does_really_cool_thing_i_want) - [Swift *almost* does a really cool thing I want](https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/)
 * [2024-11-13, 14:14:36](https://lobste.rs/s/piz5hd/empowered_programmer_searls_cut) - [The Empowered Programmer: The Searls Cut](https://www.youtube.com/watch?v=QP9zgXdgrK8)
 * [2024-11-13, 13:41:36](https://lobste.rs/s/msly2o/no_news_is_good_news_using_ai_auto_skip_news) - [No News is Good News: Using AI to auto skip the news on catch-up radio - djhworld](https://djharper.dev/post/2024/11/10/no-news-is-good-news-using-ai-to-auto-skip-the-news-on-catch-up-radio/)
