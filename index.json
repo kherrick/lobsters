@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-11-13, 09:18:25",
+      "https://lobste.rs/s/y8lef7/rust_foundation_releases_problem"
+    ],
+    [
+      "Rust Foundation Releases Problem Statement on C++/Rust Interoperability",
+      "https://foundation.rust-lang.org/news/rust-foundation-releases-problem-statement-on-c-rust-interoperability/"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 09:15:54",
+      "https://lobste.rs/s/ydgdai/damn_it_worked_last_week"
+    ],
+    [
+      "Damn! It worked last week",
+      "https://jarosz.dev/article/damn-it-worked-last-week/"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 08:37:22",
       "https://lobste.rs/s/f745mk/coding_for_finite_world_2023"
     ],
     [
       "Coding for a Finite World (2023)",
       "https://yoric.github.io/post/coding-for-a-finite-world/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 08:30:14",
-      "https://lobste.rs/s/tqc2ao/complex_for_whom"
-    ],
-    [
-      "Complex for Whom?",
-      "https://notes.pault.ag/complex-for-whom/"
     ]
   ],
   [
@@ -57,16 +67,6 @@
     [
       "Flouting the Internet Protocols with Tunnels",
       "https://www.macchaffee.com/blog/2024/tunneling/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 02:08:28",
-      "https://lobste.rs/s/woxclo/abusing_ubuntu_24_04_features_for_root"
-    ],
-    [
-      "Abusing Ubuntu 24.04 features for root privilege escalation",
-      "https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/"
     ]
   ],
   [
