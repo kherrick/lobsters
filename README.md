@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-11-13, 14:29:17](https://lobste.rs/s/vdhlun/swift_almost_does_really_cool_thing_i_want) - [Swift *almost* does a really cool thing I want](https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/)
+* [2024-11-13, 14:14:36](https://lobste.rs/s/piz5hd/empowered_programmer_searls_cut) - [The Empowered Programmer: The Searls Cut](https://www.youtube.com/watch?v=QP9zgXdgrK8)
 * [2024-11-13, 13:41:36](https://lobste.rs/s/msly2o/no_news_is_good_news_using_ai_auto_skip_news) - [No News is Good News: Using AI to auto skip the news on catch-up radio - djhworld](https://djharper.dev/post/2024/11/10/no-news-is-good-news-using-ai-to-auto-skip-the-news-on-catch-up-radio/)
 * [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
@@ -12,7 +13,6 @@
 * [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
 * [2024-11-13, 04:51:40](https://lobste.rs/s/pf36k7/dijkstra_s_rallying_cry_for) - [Dijkstra’s Rallying Cry for Generalization: The Advent of the Recursive Procedure, late 1950s — early 1960s](https://dijkstrascry.com/sites/default/files/papers/preprint_0.pdf)
 * [2024-11-13, 04:05:58](https://lobste.rs/s/hmzobc/flouting_internet_protocols_with) - [Flouting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
-* [2024-11-13, 02:08:28](https://lobste.rs/s/woxclo/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
 * [2024-11-13, 01:05:57](https://lobste.rs/s/mvrem4/qwen2_5_coder_32b_is_llm_can_code_well_runs) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-12, 22:42:43](https://lobste.rs/s/u0vzjf/what_does_f_x_mean_c) - [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
 * [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
