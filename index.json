@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-13, 14:14:36",
+      "https://lobste.rs/s/piz5hd/empowered_programmer_searls_cut"
+    ],
+    [
+      "The Empowered Programmer: The Searls Cut",
+      "https://www.youtube.com/watch?v=QP9zgXdgrK8"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 13:41:36",
       "https://lobste.rs/s/msly2o/no_news_is_good_news_using_ai_auto_skip_news"
     ],
@@ -157,16 +167,6 @@
     [
       "PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished",
       "https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 18:18:50",
-      "https://lobste.rs/s/xddafk/fmt_sprintf_vs_string_concat"
-    ],
-    [
-      "fmt.Sprintf vs String Concat",
-      "https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/"
     ]
   ],
   [
