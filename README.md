@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 * [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
 * [2024-11-13, 16:22:51](https://lobste.rs/s/tmyutk/platforms_need_new_building_blocks) - [Platforms Need New Building Blocks](https://www.junctionlabs.io/blog/platforms-need-new-building-blocks)
 * [2024-11-13, 14:29:17](https://lobste.rs/s/vdhlun/swift_almost_does_really_cool_thing_i_want) - [Swift *almost* does a really cool thing I want](https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/)
@@ -19,7 +20,6 @@
 * [2024-11-12, 22:42:43](https://lobste.rs/s/u0vzjf/what_does_f_x_mean_c) - [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
 * [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
 * [2024-11-12, 19:40:19](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set) - [PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set)
-* [2024-11-12, 18:16:23](https://lobste.rs/s/qfhzix/playing_bad_apple_over_rss) - [Playing Bad Apple over RSS](https://ersei.net/en/blog/bad-apple-rss)
 * [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 * [2024-11-12, 15:10:56](https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at) - [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
 * [2024-11-12, 14:12:56](https://lobste.rs/s/wzrurb/jepsen_bufstream_0_1_0) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)

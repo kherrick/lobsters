@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 * [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
 * [2024-11-13, 16:22:51](https://lobste.rs/s/tmyutk/platforms_need_new_building_blocks) - [Platforms Need New Building Blocks](https://www.junctionlabs.io/blog/platforms-need-new-building-blocks)
 * [2024-11-13, 14:29:17](https://lobste.rs/s/vdhlun/swift_almost_does_really_cool_thing_i_want) - [Swift *almost* does a really cool thing I want](https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/)
