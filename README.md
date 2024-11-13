@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 01:05:57](https://lobste.rs/s/mvrem4/qwen2_5_coder_32b_is_llm_can_code_well_runs) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-12, 22:42:43](https://lobste.rs/s/u0vzjf/what_does_f_x_mean_c) - [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
 * [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
 * [2024-11-12, 20:27:24](https://lobste.rs/s/as8ufx/hyperlight_running_functions_virtual) - [Hyperlight - Running functions in virtual machines](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
@@ -18,7 +19,6 @@
 * [2024-11-12, 11:01:00](https://lobste.rs/s/sdywfl/netbsd_on_rock64_board) - [NetBSD on a ROCK64 Board](https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/)
 * [2024-11-12, 10:37:44](https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-12, 08:04:04](https://lobste.rs/s/xvoxeg/there_is_no_road_from_here_there) - [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
-* [2024-11-12, 04:30:09](https://lobste.rs/s/6e25t7/soul_old_machine_revisiting_timeless_von) - [The Soul of an Old Machine: Revisiting the Timeless von Neumann Architecture](https://ankush.dev/p/neumann_architecture)
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:08:09](https://lobste.rs/s/jomvu1/git_jujutsu_miniature) - [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
