@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 04:05:58](https://lobste.rs/s/hmzobc/flaunting_internet_protocols_with) - [Flaunting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
 * [2024-11-13, 02:08:28](https://lobste.rs/s/woxclo/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
 * [2024-11-13, 01:05:57](https://lobste.rs/s/mvrem4/qwen2_5_coder_32b_is_llm_can_code_well_runs) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-12, 22:42:43](https://lobste.rs/s/u0vzjf/what_does_f_x_mean_c) - [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
@@ -17,7 +18,6 @@
 * [2024-11-12, 15:03:01](https://lobste.rs/s/r2p6ut/hot_tub_monitoring_with_home_assistant) - [Hot Tub Monitoring with Home Assistant and ESPHome](https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/)
 * [2024-11-12, 14:12:56](https://lobste.rs/s/wzrurb/jepsen_bufstream_0_1_0) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
 * [2024-11-12, 12:04:13](https://lobste.rs/s/zmz8zv/rust_needs_official_specification) - [Rust needs an official specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
-* [2024-11-12, 11:01:00](https://lobste.rs/s/sdywfl/netbsd_on_rock64_board) - [NetBSD on a ROCK64 Board](https://simonevellei.com/blog/posts/netbsd-on-a-rock64-board/)
 * [2024-11-12, 10:37:44](https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-12, 08:04:04](https://lobste.rs/s/xvoxeg/there_is_no_road_from_here_there) - [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
