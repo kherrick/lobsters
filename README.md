@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 14:14:36](https://lobste.rs/s/piz5hd/empowered_programmer_searls_cut) - [The Empowered Programmer: The Searls Cut](https://www.youtube.com/watch?v=QP9zgXdgrK8)
 * [2024-11-13, 13:41:36](https://lobste.rs/s/msly2o/no_news_is_good_news_using_ai_auto_skip_news) - [No News is Good News: Using AI to auto skip the news on catch-up radio - djhworld](https://djharper.dev/post/2024/11/10/no-news-is-good-news-using-ai-to-auto-skip-the-news-on-catch-up-radio/)
 * [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
@@ -16,7 +17,6 @@
 * [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
 * [2024-11-12, 20:27:24](https://lobste.rs/s/as8ufx/hyperlight_running_functions_virtual) - [Hyperlight - Running functions in virtual machines](https://opensource.microsoft.com/blog/2024/11/07/introducing-hyperlight-virtual-machine-based-security-for-functions-at-scale/)
 * [2024-11-12, 19:40:19](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set) - [PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set)
-* [2024-11-12, 18:18:50](https://lobste.rs/s/xddafk/fmt_sprintf_vs_string_concat) - [fmt.Sprintf vs String Concat](https://www.dolthub.com/blog/2024-11-08-sprintf-vs-concat/)
 * [2024-11-12, 18:16:23](https://lobste.rs/s/qfhzix/playing_bad_apple_over_rss) - [Playing Bad Apple over RSS](https://ersei.net/en/blog/bad-apple-rss)
 * [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 * [2024-11-12, 16:26:59](https://lobste.rs/s/qwxlnh/3rd_edition_ross_anderson_s_security) - [3rd edition of Ross Anderson’s Security Engineering book now freely available for download](https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/)
