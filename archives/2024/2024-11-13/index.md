@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 13:41:36](https://lobste.rs/s/msly2o/no_news_is_good_news_using_ai_auto_skip_news) - [No News is Good News: Using AI to auto skip the news on catch-up radio - djhworld](https://djharper.dev/post/2024/11/10/no-news-is-good-news-using-ai-to-auto-skip-the-news-on-catch-up-radio/)
 * [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 * [2024-11-13, 09:46:47](https://lobste.rs/s/dfmkug/immutable_reprovisionable_anti) - [“Immutable” -> reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/)
