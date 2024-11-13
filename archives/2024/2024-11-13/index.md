@@ -6,6 +6,7 @@
 
 * [2024-11-13, 22:20:33](https://lobste.rs/s/qpiash/history_erlang) - [A history of Erlang](https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf)
 * [2024-11-13, 21:25:12](https://lobste.rs/s/9fn3w8/machine_learning_on_gpu_case_study_open) - [Machine Learning on the GPU - Case Study: Open Image Denoise](https://wallisc.github.io/rendering/2024/06/06/Intro-to-GPU-ML-Denoising.html)
+* [2024-11-13, 19:01:32](https://lobste.rs/s/ebqysh/object_sync_engine_for_local_first_apps) - [An Object Sync Engine for Local-first Apps](https://stack.convex.dev/object-sync-engine)
 * [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
 * [2024-11-13, 18:21:49](https://lobste.rs/s/nlja6i/complex_for_whom) - [Complex for Whom?](https://notes.billmill.org/link_blog/2024/11/Complex_for_Whom_.html)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
