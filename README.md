@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 07:19:45](https://lobste.rs/s/xlinq8/visualizing_13_million_bluesky_users) - [Visualizing 13 million BlueSky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
 * [2024-11-13, 04:51:40](https://lobste.rs/s/pf36k7/dijkstra_s_rallying_cry_for) - [Dijkstra’s Rallying Cry for Generalization: The Advent of the Recursive Procedure, late 1950s — early 1960s](https://dijkstrascry.com/sites/default/files/papers/preprint_0.pdf)
 * [2024-11-13, 04:05:58](https://lobste.rs/s/hmzobc/flouting_internet_protocols_with) - [Flouting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
@@ -24,7 +25,6 @@
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:08:09](https://lobste.rs/s/jomvu1/git_jujutsu_miniature) - [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
-* [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
 
 ## [Archives](archives/index.md)
 
