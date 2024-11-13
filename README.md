@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
+* [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 * [2024-11-13, 09:46:47](https://lobste.rs/s/dfmkug/immutable_reprovisionable_anti) - [“Immutable” -> reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/)
 * [2024-11-13, 09:18:25](https://lobste.rs/s/y8lef7/rust_foundation_releases_problem) - [Rust Foundation Releases Problem Statement on C++/Rust Interoperability](https://foundation.rust-lang.org/news/rust-foundation-releases-problem-statement-on-c-rust-interoperability/)
 * [2024-11-13, 08:37:22](https://lobste.rs/s/f745mk/coding_for_finite_world_2023) - [Coding for a Finite World (2023)](https://yoric.github.io/post/coding-for-a-finite-world/)
@@ -17,10 +19,8 @@
 * [2024-11-12, 18:16:23](https://lobste.rs/s/qfhzix/playing_bad_apple_over_rss) - [Playing Bad Apple over RSS](https://ersei.net/en/blog/bad-apple-rss)
 * [2024-11-12, 16:28:01](https://lobste.rs/s/cexnaf/announcing_net_9) - [Announcing .NET 9](https://devblogs.microsoft.com/dotnet/announcing-dotnet-9/)
 * [2024-11-12, 16:26:59](https://lobste.rs/s/qwxlnh/3rd_edition_ross_anderson_s_security) - [3rd edition of Ross Anderson’s Security Engineering book now freely available for download](https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/)
-* [2024-11-12, 16:26:10](https://lobste.rs/s/1k66tl/typed_env_vars_for_valid_environments) - [Typed ENV Vars for Valid Environments from Dev to Production](https://runme.dev/blog/typed-env-vars)
 * [2024-11-12, 15:42:45](https://lobste.rs/s/25iglw/using_portable_simd_stable_rust) - [Using portable SIMD in stable Rust](https://pythonspeed.com/articles/simd-stable-rust/)
 * [2024-11-12, 15:10:56](https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at) - [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
-* [2024-11-12, 15:03:01](https://lobste.rs/s/r2p6ut/hot_tub_monitoring_with_home_assistant) - [Hot Tub Monitoring with Home Assistant and ESPHome](https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/)
 * [2024-11-12, 14:12:56](https://lobste.rs/s/wzrurb/jepsen_bufstream_0_1_0) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
 * [2024-11-12, 12:04:13](https://lobste.rs/s/zmz8zv/rust_needs_official_specification) - [Rust needs an official specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)

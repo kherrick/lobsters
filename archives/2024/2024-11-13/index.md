@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
+* [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 * [2024-11-13, 09:46:47](https://lobste.rs/s/dfmkug/immutable_reprovisionable_anti) - [“Immutable” -> reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/)
 * [2024-11-13, 09:18:25](https://lobste.rs/s/y8lef7/rust_foundation_releases_problem) - [Rust Foundation Releases Problem Statement on C++/Rust Interoperability](https://foundation.rust-lang.org/news/rust-foundation-releases-problem-statement-on-c-rust-interoperability/)
 * [2024-11-13, 09:15:54](https://lobste.rs/s/ydgdai/damn_it_worked_last_week) - [Damn! It worked last week](https://jarosz.dev/article/damn-it-worked-last-week/)
