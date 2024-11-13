@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-11-13, 19:01:32",
+      "https://lobste.rs/s/ebqysh/object_sync_engine_for_local_first_apps"
+    ],
+    [
+      "An Object Sync Engine for Local-first Apps",
+      "https://stack.convex.dev/object-sync-engine"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 19:00:57",
       "https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin"
     ],
@@ -237,16 +247,6 @@
     [
       "Jepsen: Bufstream 0.1.0",
       "https://jepsen.io/analyses/bufstream-0.1.0"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 00:57:38",
-      "https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres"
-    ],
-    [
-      "What I Wish Someone Told Me About Postgres",
-      "https://challahscript.com/what_i_wish_someone_told_me_about_postgres"
     ]
   ]
 ]
