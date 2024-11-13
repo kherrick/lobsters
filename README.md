@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 02:08:28](https://lobste.rs/s/woxclo/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
 * [2024-11-13, 01:05:57](https://lobste.rs/s/mvrem4/qwen2_5_coder_32b_is_llm_can_code_well_runs) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-12, 22:42:43](https://lobste.rs/s/u0vzjf/what_does_f_x_mean_c) - [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
 * [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
@@ -22,7 +23,6 @@
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:08:09](https://lobste.rs/s/jomvu1/git_jujutsu_miniature) - [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)
 * [2024-11-11, 23:27:02](https://lobste.rs/s/4ll6vo/vmware_fusion_workstation_now_free_for) - [VMware Fusion and Workstation now free for all users](https://blogs.vmware.com/cloud-foundation/2024/11/11/vmware-fusion-and-workstation-are-now-free-for-all-users/)
-* [2024-11-11, 23:10:14](https://lobste.rs/s/4b0tch/bus_number_github_plugin_my_coworkers) - [Bus Number - The github plugin my coworkers asked me not to write](https://www.scannedinavian.com/the-github-plugin-my-coworkers-asked-me-not-to-write.html)
 * [2024-11-11, 19:08:30](https://lobste.rs/s/sm5wsn/cvm_algorithm) - [The CVM Algorithm](https://buttondown.com/jaffray/archive/the-cvm-algorithm/)
 * [2024-11-11, 14:08:13](https://lobste.rs/s/f6hsm1/binary_vector_embeddings_are_so_cool) - [Binary vector embeddings are so cool](https://emschwartz.me/binary-vector-embeddings-are-so-cool/)
 
