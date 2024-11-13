@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 09:18:25](https://lobste.rs/s/y8lef7/rust_foundation_releases_problem) - [Rust Foundation Releases Problem Statement on C++/Rust Interoperability](https://foundation.rust-lang.org/news/rust-foundation-releases-problem-statement-on-c-rust-interoperability/)
+* [2024-11-13, 09:15:54](https://lobste.rs/s/ydgdai/damn_it_worked_last_week) - [Damn! It worked last week](https://jarosz.dev/article/damn-it-worked-last-week/)
 * [2024-11-13, 08:37:22](https://lobste.rs/s/f745mk/coding_for_finite_world_2023) - [Coding for a Finite World (2023)](https://yoric.github.io/post/coding-for-a-finite-world/)
 * [2024-11-13, 08:30:14](https://lobste.rs/s/tqc2ao/complex_for_whom) - [Complex for Whom?](https://notes.pault.ag/complex-for-whom/)
 * [2024-11-13, 07:19:45](https://lobste.rs/s/xlinq8/visualizing_13_million_bluesky_users) - [Visualizing 13 million BlueSky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
