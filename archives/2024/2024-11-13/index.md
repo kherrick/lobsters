@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 08:37:22](https://lobste.rs/s/f745mk/coding_for_finite_world_2023) - [Coding for a Finite World (2023)](https://yoric.github.io/post/coding-for-a-finite-world/)
 * [2024-11-13, 08:30:14](https://lobste.rs/s/tqc2ao/complex_for_whom) - [Complex for Whom?](https://notes.pault.ag/complex-for-whom/)
 * [2024-11-13, 07:19:45](https://lobste.rs/s/xlinq8/visualizing_13_million_bluesky_users) - [Visualizing 13 million BlueSky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
