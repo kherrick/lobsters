@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 * [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
 * [2024-11-13, 16:22:51](https://lobste.rs/s/tmyutk/platforms_need_new_building_blocks) - [Platforms Need New Building Blocks](https://www.junctionlabs.io/blog/platforms-need-new-building-blocks)
@@ -14,7 +15,6 @@
 * [2024-11-13, 08:30:14](https://lobste.rs/s/tqc2ao/complex_for_whom) - [Complex for Whom?](https://notes.pault.ag/complex-for-whom/)
 * [2024-11-13, 07:19:45](https://lobste.rs/s/xlinq8/visualizing_13_million_bluesky_users) - [Visualizing 13 million BlueSky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
-* [2024-11-13, 04:51:40](https://lobste.rs/s/pf36k7/dijkstra_s_rallying_cry_for) - [Dijkstra’s Rallying Cry for Generalization: The Advent of the Recursive Procedure, late 1950s — early 1960s](https://dijkstrascry.com/sites/default/files/papers/preprint_0.pdf)
 * [2024-11-13, 04:05:58](https://lobste.rs/s/hmzobc/flouting_internet_protocols_with) - [Flouting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
 * [2024-11-13, 01:05:57](https://lobste.rs/s/mvrem4/qwen2_5_coder_32b_is_llm_can_code_well_runs) - [Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac](https://simonwillison.net/2024/Nov/12/qwen25-coder/)
 * [2024-11-12, 22:42:43](https://lobste.rs/s/u0vzjf/what_does_f_x_mean_c) - [What does f(x) mean in C++?](https://biowpn.github.io/bioweapon/2024/11/12/what-does-f-x-mean.html)
