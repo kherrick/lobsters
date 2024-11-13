@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 09:46:47](https://lobste.rs/s/dfmkug/immutable_reprovisionable_anti) - [“Immutable” -> reprovisionable, anti-hysteresis](https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/)
 * [2024-11-13, 09:18:25](https://lobste.rs/s/y8lef7/rust_foundation_releases_problem) - [Rust Foundation Releases Problem Statement on C++/Rust Interoperability](https://foundation.rust-lang.org/news/rust-foundation-releases-problem-statement-on-c-rust-interoperability/)
 * [2024-11-13, 09:15:54](https://lobste.rs/s/ydgdai/damn_it_worked_last_week) - [Damn! It worked last week](https://jarosz.dev/article/damn-it-worked-last-week/)
 * [2024-11-13, 08:37:22](https://lobste.rs/s/f745mk/coding_for_finite_world_2023) - [Coding for a Finite World (2023)](https://yoric.github.io/post/coding-for-a-finite-world/)
