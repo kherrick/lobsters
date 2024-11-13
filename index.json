@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-13, 13:41:36",
+      "https://lobste.rs/s/msly2o/no_news_is_good_news_using_ai_auto_skip_news"
+    ],
+    [
+      "No News is Good News: Using AI to auto skip the news on catch-up radio - djhworld",
+      "https://djharper.dev/post/2024/11/10/no-news-is-good-news-using-ai-to-auto-skip-the-news-on-catch-up-radio/"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 11:32:12",
       "https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate"
     ],
@@ -25,7 +35,7 @@
       "https://lobste.rs/s/dfmkug/immutable_reprovisionable_anti"
     ],
     [
-      "“Immutable” -> reprovisionable, anti-hysteresis",
+      "“Immutable” -> reprovisionable, anti-hysteresis (2020)",
       "https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/"
     ]
   ],
@@ -147,16 +157,6 @@
     [
       "PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished",
       "https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 19:31:21",
-      "https://lobste.rs/s/jse5fp/adopting_bazel_for_web_at_scale"
-    ],
-    [
-      "Adopting Bazel for Web at Scale",
-      "https://medium.com/airbnb-engineering/adopting-bazel-for-web-at-scale-a784b2dbe325"
     ]
   ],
   [
