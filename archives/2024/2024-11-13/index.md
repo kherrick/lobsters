@@ -7,6 +7,7 @@
 * [2024-11-13, 22:20:33](https://lobste.rs/s/qpiash/history_erlang) - [A history of Erlang](https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf)
 * [2024-11-13, 21:25:12](https://lobste.rs/s/9fn3w8/machine_learning_on_gpu_case_study_open) - [Machine Learning on the GPU - Case Study: Open Image Denoise](https://wallisc.github.io/rendering/2024/06/06/Intro-to-GPU-ML-Denoising.html)
 * [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
+* [2024-11-13, 18:21:49](https://lobste.rs/s/nlja6i/complex_for_whom) - [Complex for Whom?](https://notes.billmill.org/link_blog/2024/11/Complex_for_Whom_.html)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 * [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
 * [2024-11-13, 16:29:33](https://lobste.rs/s/iwwnsv/incremental_linking_hot_code_reloading) - [Incremental Linking and Hot Code Reloading for Rust](https://www.youtube.com/watch?v=XFSwmSXv2QA)
