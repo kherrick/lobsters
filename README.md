@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
 * [2024-11-13, 04:51:40](https://lobste.rs/s/pf36k7/dijkstra_s_rallying_cry_for) - [Dijkstra’s Rallying Cry for Generalization: The Advent of the Recursive Procedure, late 1950s — early 1960s](https://dijkstrascry.com/sites/default/files/papers/preprint_0.pdf)
 * [2024-11-13, 04:05:58](https://lobste.rs/s/hmzobc/flouting_internet_protocols_with) - [Flouting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
 * [2024-11-13, 02:08:28](https://lobste.rs/s/woxclo/abusing_ubuntu_24_04_features_for_root) - [Abusing Ubuntu 24.04 features for root privilege escalation](https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/)
@@ -19,7 +20,6 @@
 * [2024-11-12, 15:03:01](https://lobste.rs/s/r2p6ut/hot_tub_monitoring_with_home_assistant) - [Hot Tub Monitoring with Home Assistant and ESPHome](https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/)
 * [2024-11-12, 14:12:56](https://lobste.rs/s/wzrurb/jepsen_bufstream_0_1_0) - [Jepsen: Bufstream 0.1.0](https://jepsen.io/analyses/bufstream-0.1.0)
 * [2024-11-12, 12:04:13](https://lobste.rs/s/zmz8zv/rust_needs_official_specification) - [Rust needs an official specification](https://tweedegolf.nl/en/blog/140/rust-needs-an-official-specification)
-* [2024-11-12, 10:37:44](https://lobste.rs/s/wgnr9r/how_i_ship_projects_at_big_tech_companies) - [How I ship projects at big tech companies](https://www.seangoedecke.com/how-to-ship/)
 * [2024-11-12, 08:04:04](https://lobste.rs/s/xvoxeg/there_is_no_road_from_here_there) - [There is no road from here to there](https://discourse.suttacentral.net/t/ai-3-there-is-no-road-from-here-to-there/33426)
 * [2024-11-12, 00:57:38](https://lobste.rs/s/zgtiib/what_i_wish_someone_told_me_about_postgres) - [What I Wish Someone Told Me About Postgres](https://challahscript.com/what_i_wish_someone_told_me_about_postgres)
 * [2024-11-12, 00:08:09](https://lobste.rs/s/jomvu1/git_jujutsu_miniature) - [Git and jujutsu: in miniature](https://lottia.net/notes/0013-git-jujutsu-miniature.html)

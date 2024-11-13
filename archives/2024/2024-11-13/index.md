@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-13](index.md)
 
+* [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
 * [2024-11-13, 04:51:40](https://lobste.rs/s/pf36k7/dijkstra_s_rallying_cry_for) - [Dijkstra’s Rallying Cry for Generalization: The Advent of the Recursive Procedure, late 1950s — early 1960s](https://dijkstrascry.com/sites/default/files/papers/preprint_0.pdf)
 * [2024-11-13, 04:05:58](https://lobste.rs/s/hmzobc/flouting_internet_protocols_with) - [Flouting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
 * [2024-11-13, 04:05:58](https://lobste.rs/s/hmzobc/flaunting_internet_protocols_with) - [Flaunting the Internet Protocols with Tunnels](https://www.macchaffee.com/blog/2024/tunneling/)
