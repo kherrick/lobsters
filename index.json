@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-13, 11:32:12",
+      "https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate"
+    ],
+    [
+      "No GPS required: our app can now locate underground trains",
+      "https://blog.transitapp.com/go-underground/"
+    ]
+  ],
+  [
+    [
+      "2024-11-13, 11:28:32",
+      "https://lobste.rs/s/vkqbej/five_unusual_raku_features"
+    ],
+    [
+      "Five Unusual Raku Features",
+      "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 09:46:47",
       "https://lobste.rs/s/dfmkug/immutable_reprovisionable_anti"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-11-12, 16:26:10",
-      "https://lobste.rs/s/1k66tl/typed_env_vars_for_valid_environments"
-    ],
-    [
-      "Typed ENV Vars for Valid Environments from Dev to Production",
-      "https://runme.dev/blog/typed-env-vars"
-    ]
-  ],
-  [
-    [
       "2024-11-12, 15:42:45",
       "https://lobste.rs/s/25iglw/using_portable_simd_stable_rust"
     ],
@@ -197,16 +207,6 @@
     [
       "Jujutsu: A Haven for Mercurial Users at Mozilla",
       "https://ahal.ca/blog/2024/jujutsu-mercurial-haven/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 15:03:01",
-      "https://lobste.rs/s/r2p6ut/hot_tub_monitoring_with_home_assistant"
-    ],
-    [
-      "Hot Tub Monitoring with Home Assistant and ESPHome",
-      "https://jnsgr.uk/2024/11/hot-tub-monitoring-with-esphome/"
     ]
   ],
   [
