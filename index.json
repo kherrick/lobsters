@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-11-13, 14:14:36",
+      "https://lobste.rs/s/piz5hd/empowered_programmer_searls_cut"
+    ],
+    [
+      "The Empowered Programmer: The Searls Cut",
+      "https://www.youtube.com/watch?v=QP9zgXdgrK8"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 13:41:36",
       "https://lobste.rs/s/msly2o/no_news_is_good_news_using_ai_auto_skip_news"
     ],
@@ -117,16 +127,6 @@
     [
       "Flouting the Internet Protocols with Tunnels",
       "https://www.macchaffee.com/blog/2024/tunneling/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 02:08:28",
-      "https://lobste.rs/s/woxclo/abusing_ubuntu_24_04_features_for_root"
-    ],
-    [
-      "Abusing Ubuntu 24.04 features for root privilege escalation",
-      "https://snyk.io/blog/abusing-ubuntu-root-privilege-escalation/"
     ]
   ],
   [
