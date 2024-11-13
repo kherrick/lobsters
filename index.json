@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2024-11-13, 08:30:14",
+      "https://lobste.rs/s/tqc2ao/complex_for_whom"
+    ],
+    [
+      "Complex for Whom?",
+      "https://notes.pault.ag/complex-for-whom/"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 07:19:45",
       "https://lobste.rs/s/xlinq8/visualizing_13_million_bluesky_users"
     ],
@@ -187,16 +197,6 @@
     [
       "3rd edition of Ross Anderson’s Security Engineering book now freely available for download",
       "https://www.lightbluetouchpaper.org/2024/11/12/sev3-download/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 15:42:45",
-      "https://lobste.rs/s/25iglw/using_portable_simd_stable_rust"
-    ],
-    [
-      "Using portable SIMD in stable Rust",
-      "https://pythonspeed.com/articles/simd-stable-rust/"
     ]
   ],
   [
