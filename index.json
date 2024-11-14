@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 09:38:13",
+      "https://lobste.rs/s/vg4cil/go_safeweb_secure_by_default_http_servers"
+    ],
+    [
+      "go-safeweb: Secure-by-default HTTP servers in Go",
+      "https://github.com/google/go-safeweb"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 04:29:38",
       "https://lobste.rs/s/cl7jl1/netflix_s_distributed_counter"
     ],
@@ -197,16 +207,6 @@
     [
       "Zig Reproduced Without Binaries",
       "https://jakstys.lt/2024/zig-reproduced-without-binaries/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 04:05:58",
-      "https://lobste.rs/s/hmzobc/flouting_internet_protocols_with"
-    ],
-    [
-      "Flouting the Internet Protocols with Tunnels",
-      "https://www.macchaffee.com/blog/2024/tunneling/"
     ]
   ],
   [
