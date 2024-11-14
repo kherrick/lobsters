@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
 * [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_android_keyboard) - [Unexpected Keyboard: Android keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
 * [2024-11-14, 17:53:36](https://lobste.rs/s/zvyuae/historized_attributes_systematic_table) - [Historized attributes: systematic table design](https://kb.databasedesignbook.com/posts/historized-attributes-design/)
@@ -12,7 +13,6 @@
 * [2024-11-14, 12:37:38](https://lobste.rs/s/arypgg/bloat_beneath_python_s_scales_fine) - [Bloat beneath Python’s Scales: A Fine-Grained Inter-Project Dependency Analysis](https://dl.acm.org/doi/10.1145/3660821)
 * [2024-11-14, 09:53:10](https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems) - [Why are there not more operating systems?](https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/)
 * [2024-11-14, 09:38:13](https://lobste.rs/s/vg4cil/go_safeweb_secure_by_default_http_servers) - [go-safeweb: Secure-by-default HTTP servers in Go](https://github.com/google/go-safeweb)
-* [2024-11-14, 03:54:56](https://lobste.rs/s/d7nkdl/implementing_container_runtime_part_1) - [Implementing a Container Runtime Part 1: Spawning Processes on Linux](https://maelstrom-software.com/blog/spawning-processes-on-linux/)
 * [2024-11-14, 02:59:31](https://lobste.rs/s/o2xasc/why_am_i_creating_new_code_editor) - [Why am I creating a new code editor?](https://raphamorim.io/why-am-i-creating-a-new-code-editor/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 01:33:08](https://lobste.rs/s/iyrz2x/twelve_factor_app_methodology_is_now_open) - [Twelve-Factor App Methodology is now Open Source](https://12factor.net/blog/open-source-announcement)

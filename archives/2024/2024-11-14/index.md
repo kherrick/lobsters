@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
 * [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_android_keyboard) - [Unexpected Keyboard: Android keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_andoid_keyboard) - [Unexpected Keyboard: Andoid keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
