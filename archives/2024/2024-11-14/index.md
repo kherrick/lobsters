@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 23:28:19](https://lobste.rs/s/6nzmkj/i_ve_been_working_on_borrow_checker_for_c) - [I've been working on a borrow checker for C... (also statically makes sure `free` calls happen etc.)](https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c)
 * [2024-11-14, 23:18:09](https://lobste.rs/s/mecr9q/linux_desktop_for_family) - [A Linux Desktop for the family](https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/)
 * [2024-11-14, 22:55:49](https://lobste.rs/s/swm85w/rustc_soundness_bug_wild) - [A rustc soundness bug in the wild](https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild)
 * [2024-11-14, 22:43:30](https://lobste.rs/s/3yeh9w/twitter_most_likely_regrets_adding) - [Twitter (most likely) regrets adding Follow](https://contra.com/p/6loFvZN7-twitter-most-likely-regrets-adding-follow)
