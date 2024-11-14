@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 23:18:09",
+      "https://lobste.rs/s/mecr9q/linux_desktop_for_family"
+    ],
+    [
+      "A Linux Desktop for the family",
+      "https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 22:55:49",
       "https://lobste.rs/s/swm85w/rustc_soundness_bug_wild"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2024-11-14, 21:07:43",
-      "https://lobste.rs/s/rgxiwu/firmware_sboms_for_open_source_projects"
+      "2024-11-14, 20:44:51",
+      "https://lobste.rs/s/lmaqc5/how_render_it_ten_ideas_solve_computer"
     ],
     [
-      "Firmware SBoMs for open source projects",
-      "https://blogs.gnome.org/hughsie/2024/11/14/firmware-sboms-for-open-source-projects/"
+      "How to render it. Ten ideas to solve Computer Graphics problems",
+      "https://c0de517e.blogspot.com/2023/02/how-to-render-it-ten-ideas-to-solve.html"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "BetterBufRead: Faster Reads in Rust",
       "https://graphallthethings.com/posts/better-buf-read"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 12:37:38",
-      "https://lobste.rs/s/arypgg/bloat_beneath_python_s_scales_fine"
-    ],
-    [
-      "Bloat beneath Python’s Scales: A Fine-Grained Inter-Project Dependency Analysis",
-      "https://dl.acm.org/doi/10.1145/3660821"
     ]
   ],
   [
