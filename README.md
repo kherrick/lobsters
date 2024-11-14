@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 16:47:47](https://lobste.rs/s/hyccfg/ultimate_guide_implementing_hotwire) - [The Ultimate Guide to implementing Hotwire and Turbo in a Rails application](https://blog.cloud66.com/the-ultimate-guide-to-implementing-hotwired-and-turbo-in-a-rails-application)
 * [2024-11-14, 15:24:46](https://lobste.rs/s/2vnvke/sqlite_index_visualization_structure) - [SQLite Index Visualization: Structure](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 14:23:30](https://lobste.rs/s/wctarz/attestations_new_generation_signatures) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-14, 14:00:05](https://lobste.rs/s/ousghn/memory_lunar) - [In memory of Lunar](https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/)
@@ -18,7 +19,6 @@
 * [2024-11-13, 18:21:49](https://lobste.rs/s/nlja6i/complex_for_whom) - [Complex for Whom?](https://notes.billmill.org/link_blog/2024/11/Complex_for_Whom_.html)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 * [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
-* [2024-11-13, 16:22:51](https://lobste.rs/s/tmyutk/platforms_need_new_building_blocks) - [Platforms Need New Building Blocks](https://www.junctionlabs.io/blog/platforms-need-new-building-blocks)
 * [2024-11-13, 14:29:17](https://lobste.rs/s/vdhlun/swift_almost_does_really_cool_thing_i_want) - [Swift *almost* does a really cool thing I want](https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/)
 * [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
