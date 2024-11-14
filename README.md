@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 03:54:56](https://lobste.rs/s/d7nkdl/implementing_container_runtime_part_1) - [Implementing a Container Runtime Part 1: Spawning Processes on Linux](https://maelstrom-software.com/blog/spawning-processes-on-linux/)
 * [2024-11-14, 02:59:31](https://lobste.rs/s/o2xasc/why_am_i_creating_new_code_editor) - [Why am I creating a new code editor?](https://raphamorim.io/why-am-i-creating-a-new-code-editor/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 01:33:08](https://lobste.rs/s/iyrz2x/twelve_factor_app_methodology_is_now_open) - [Twelve-Factor App Methodology is now Open Source](https://12factor.net/blog/open-source-announcement)
@@ -9,7 +10,6 @@
 * [2024-11-13, 18:21:49](https://lobste.rs/s/nlja6i/complex_for_whom) - [Complex for Whom?](https://notes.billmill.org/link_blog/2024/11/Complex_for_Whom_.html)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 * [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
-* [2024-11-13, 16:29:33](https://lobste.rs/s/iwwnsv/incremental_linking_hot_code_reloading) - [Incremental Linking and Hot Code Reloading for Rust](https://www.youtube.com/watch?v=XFSwmSXv2QA)
 * [2024-11-13, 16:22:51](https://lobste.rs/s/tmyutk/platforms_need_new_building_blocks) - [Platforms Need New Building Blocks](https://www.junctionlabs.io/blog/platforms-need-new-building-blocks)
 * [2024-11-13, 14:29:17](https://lobste.rs/s/vdhlun/swift_almost_does_really_cool_thing_i_want) - [Swift *almost* does a really cool thing I want](https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/)
 * [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
