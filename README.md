@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 17:32:37](https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming) - [Why Do We Like Functional Programming?](https://functionalsoftware.se/posts/why-do-we-like-functional-programming)
 * [2024-11-14, 16:47:47](https://lobste.rs/s/hyccfg/ultimate_guide_implementing_hotwire) - [The Ultimate Guide to implementing Hotwire and Turbo in a Rails application](https://blog.cloud66.com/the-ultimate-guide-to-implementing-hotwired-and-turbo-in-a-rails-application)
 * [2024-11-14, 15:24:46](https://lobste.rs/s/2vnvke/sqlite_index_visualization_structure) - [SQLite Index Visualization: Structure](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 14:23:30](https://lobste.rs/s/wctarz/attestations_new_generation_signatures) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
@@ -23,7 +24,6 @@
 * [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 * [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
-* [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
 * [2024-11-12, 15:10:56](https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at) - [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
 
 ## [Archives](archives/index.md)
