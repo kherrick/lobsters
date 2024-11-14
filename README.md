@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 21:31:40](https://lobste.rs/s/6jsyzw/futexes_at_home) - [Futexes at Home](https://specificprotagonist.net/jvm-futex.html)
 * [2024-11-14, 21:07:43](https://lobste.rs/s/rgxiwu/firmware_sboms_for_open_source_projects) - [Firmware SBoMs for open source projects](https://blogs.gnome.org/hughsie/2024/11/14/firmware-sboms-for-open-source-projects/)
 * [2024-11-14, 20:44:51](https://lobste.rs/s/lmaqc5/how_render_it_ten_ideas_solve_computer) - [How to render it. Ten ideas to solve Computer Graphics problems](https://c0de517e.blogspot.com/2023/02/how-to-render-it-ten-ideas-to-solve.html)
 * [2024-11-14, 20:42:47](https://lobste.rs/s/dgg0w6/aws_lambda_turns_10_rare_look_at_doc) - [AWS Lambda turns 10: A rare look at the doc that started it](https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
@@ -18,7 +19,6 @@
 * [2024-11-14, 09:38:13](https://lobste.rs/s/vg4cil/go_safeweb_secure_by_default_http_servers) - [go-safeweb: Secure-by-default HTTP servers in Go](https://github.com/google/go-safeweb)
 * [2024-11-14, 02:59:31](https://lobste.rs/s/o2xasc/why_am_i_creating_new_code_editor) - [Why am I creating a new code editor?](https://raphamorim.io/why-am-i-creating-a-new-code-editor/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-* [2024-11-14, 01:33:08](https://lobste.rs/s/iyrz2x/twelve_factor_app_methodology_is_now_open) - [Twelve-Factor App Methodology is now Open Source](https://12factor.net/blog/open-source-announcement)
 * [2024-11-13, 22:20:33](https://lobste.rs/s/qpiash/history_erlang) - [A history of Erlang](https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf)
 * [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)

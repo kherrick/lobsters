@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 21:31:40](https://lobste.rs/s/6jsyzw/futexes_at_home) - [Futexes at Home](https://specificprotagonist.net/jvm-futex.html)
 * [2024-11-14, 21:07:43](https://lobste.rs/s/rgxiwu/firmware_sboms_for_open_source_projects) - [Firmware SBoMs for open source projects](https://blogs.gnome.org/hughsie/2024/11/14/firmware-sboms-for-open-source-projects/)
 * [2024-11-14, 20:44:51](https://lobste.rs/s/lmaqc5/how_render_it_ten_ideas_solve_computer) - [How to render it. Ten ideas to solve Computer Graphics problems](https://c0de517e.blogspot.com/2023/02/how-to-render-it-ten-ideas-to-solve.html)
 * [2024-11-14, 20:42:47](https://lobste.rs/s/dgg0w6/aws_lambda_turns_10_rare_look_at_doc) - [AWS Lambda turns 10: A rare look at the doc that started it](https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
