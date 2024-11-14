@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-11-13, 16:29:33",
+      "https://lobste.rs/s/iwwnsv/incremental_linking_hot_code_reloading"
+    ],
+    [
+      "Incremental Linking and Hot Code Reloading for Rust",
+      "https://www.youtube.com/watch?v=XFSwmSXv2QA"
+    ]
+  ],
+  [
+    [
       "2024-11-13, 16:22:51",
       "https://lobste.rs/s/tmyutk/platforms_need_new_building_blocks"
     ],
@@ -137,16 +147,6 @@
     [
       "Five Unusual Raku Features",
       "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 09:46:47",
-      "https://lobste.rs/s/dfmkug/immutable_reprovisionable_anti"
-    ],
-    [
-      "“Immutable” -> reprovisionable, anti-hysteresis (2020)",
-      "https://blog.verbum.org/2020/08/22/immutable-%E2%86%92-reprovisionable-anti-hysteresis/"
     ]
   ],
   [
