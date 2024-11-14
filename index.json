@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 12:37:38",
+      "https://lobste.rs/s/arypgg/bloat_beneath_python_s_scales_fine"
+    ],
+    [
+      "Bloat beneath Python’s Scales: A Fine-Grained Inter-Project Dependency Analysis",
+      "https://dl.acm.org/doi/10.1145/3660821"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 09:53:10",
       "https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems"
     ],
@@ -207,16 +217,6 @@
     [
       "Zig Reproduced Without Binaries",
       "https://jakstys.lt/2024/zig-reproduced-without-binaries/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 01:05:57",
-      "https://lobste.rs/s/mvrem4/qwen2_5_coder_32b_is_llm_can_code_well_runs"
-    ],
-    [
-      "Qwen2.5-Coder-32B is an LLM that can code well that runs on my Mac",
-      "https://simonwillison.net/2024/Nov/12/qwen25-coder/"
     ]
   ],
   [
