@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 09:53:10](https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems) - [Why are there not more operating systems?](https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/)
 * [2024-11-14, 09:38:13](https://lobste.rs/s/vg4cil/go_safeweb_secure_by_default_http_servers) - [go-safeweb: Secure-by-default HTTP servers in Go](https://github.com/google/go-safeweb)
 * [2024-11-14, 04:29:38](https://lobste.rs/s/cl7jl1/netflix_s_distributed_counter) - [Netflix’s Distributed Counter Abstraction](https://netflixtechblog.com/netflixs-distributed-counter-abstraction-8d0c45eb66b2)
 * [2024-11-14, 03:54:56](https://lobste.rs/s/d7nkdl/implementing_container_runtime_part_1) - [Implementing a Container Runtime Part 1: Spawning Processes on Linux](https://maelstrom-software.com/blog/spawning-processes-on-linux/)
