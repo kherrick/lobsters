@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 22:43:30](https://lobste.rs/s/3yeh9w/twitter_most_likely_regrets_adding) - [Twitter (most likely) regrets adding Follow](https://contra.com/p/6loFvZN7-twitter-most-likely-regrets-adding-follow)
 * [2024-11-14, 21:31:40](https://lobste.rs/s/6jsyzw/futexes_at_home) - [Futexes at Home](https://specificprotagonist.net/jvm-futex.html)
 * [2024-11-14, 21:07:43](https://lobste.rs/s/rgxiwu/firmware_sboms_for_open_source_projects) - [Firmware SBoMs for open source projects](https://blogs.gnome.org/hughsie/2024/11/14/firmware-sboms-for-open-source-projects/)
 * [2024-11-14, 20:44:51](https://lobste.rs/s/lmaqc5/how_render_it_ten_ideas_solve_computer) - [How to render it. Ten ideas to solve Computer Graphics problems](https://c0de517e.blogspot.com/2023/02/how-to-render-it-ten-ideas-to-solve.html)
