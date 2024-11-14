@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 22:55:49](https://lobste.rs/s/swm85w/rustc_soundness_bug_wild) - [A rustc soundness bug in the wild](https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild)
 * [2024-11-14, 22:43:30](https://lobste.rs/s/3yeh9w/twitter_most_likely_regrets_adding) - [Twitter (most likely) regrets adding Follow](https://contra.com/p/6loFvZN7-twitter-most-likely-regrets-adding-follow)
 * [2024-11-14, 21:31:40](https://lobste.rs/s/6jsyzw/futexes_at_home) - [Futexes at Home](https://specificprotagonist.net/jvm-futex.html)
 * [2024-11-14, 21:07:43](https://lobste.rs/s/rgxiwu/firmware_sboms_for_open_source_projects) - [Firmware SBoMs for open source projects](https://blogs.gnome.org/hughsie/2024/11/14/firmware-sboms-for-open-source-projects/)

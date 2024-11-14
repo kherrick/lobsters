@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 22:55:49](https://lobste.rs/s/swm85w/rustc_soundness_bug_wild) - [A rustc soundness bug in the wild](https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild)
 * [2024-11-14, 22:43:30](https://lobste.rs/s/3yeh9w/twitter_most_likely_regrets_adding) - [Twitter (most likely) regrets adding Follow](https://contra.com/p/6loFvZN7-twitter-most-likely-regrets-adding-follow)
 * [2024-11-14, 21:31:40](https://lobste.rs/s/6jsyzw/futexes_at_home) - [Futexes at Home](https://specificprotagonist.net/jvm-futex.html)
 * [2024-11-14, 21:07:43](https://lobste.rs/s/rgxiwu/firmware_sboms_for_open_source_projects) - [Firmware SBoMs for open source projects](https://blogs.gnome.org/hughsie/2024/11/14/firmware-sboms-for-open-source-projects/)
-* [2024-11-14, 20:44:51](https://lobste.rs/s/lmaqc5/how_render_it_ten_ideas_solve_computer) - [How to render it. Ten ideas to solve Computer Graphics problems](https://c0de517e.blogspot.com/2023/02/how-to-render-it-ten-ideas-to-solve.html)
 * [2024-11-14, 20:42:47](https://lobste.rs/s/dgg0w6/aws_lambda_turns_10_rare_look_at_doc) - [AWS Lambda turns 10: A rare look at the doc that started it](https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
 * [2024-11-14, 20:38:13](https://lobste.rs/s/acfm29/cycling_while_typing) - [Cycling while typing](https://www.ohrg.org/cycling-typing)
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
