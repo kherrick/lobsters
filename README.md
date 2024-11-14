@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 14:00:05](https://lobste.rs/s/ousghn/memory_lunar) - [In memory of Lunar](https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/)
 * [2024-11-14, 13:29:49](https://lobste.rs/s/zi4nhw/geometry_data_missing_metric_tensor) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 13:14:00](https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust) - [BetterBufRead: Faster Reads in Rust](https://graphallthethings.com/posts/better-buf-read)
 * [2024-11-14, 12:37:38](https://lobste.rs/s/arypgg/bloat_beneath_python_s_scales_fine) - [Bloat beneath Python’s Scales: A Fine-Grained Inter-Project Dependency Analysis](https://dl.acm.org/doi/10.1145/3660821)
@@ -23,7 +24,6 @@
 * [2024-11-13, 07:19:45](https://lobste.rs/s/xlinq8/visualizing_13_million_bluesky_users) - [Visualizing 13 million BlueSky users](https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users)
 * [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
 * [2024-11-12, 22:38:22](https://lobste.rs/s/qzovzp/go_turns_15) - [Go Turns 15](https://go.dev/blog/15years)
-* [2024-11-12, 19:40:19](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set) - [PostgreSQL \"timestamp with time zone\"s set in the future may become silently incorrect if DST abolished](https://lobste.rs/s/sorhro/postgresql_timestamp_with_time_zone_s_set)
 * [2024-11-12, 15:10:56](https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at) - [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
 
 ## [Archives](archives/index.md)

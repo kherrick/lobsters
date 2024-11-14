@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 14:00:05](https://lobste.rs/s/ousghn/memory_lunar) - [In memory of Lunar](https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/)
 * [2024-11-14, 13:29:49](https://lobste.rs/s/zi4nhw/geometry_data_missing_metric_tensor) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 13:14:00](https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust) - [BetterBufRead: Faster Reads in Rust](https://graphallthethings.com/posts/better-buf-read)
 * [2024-11-14, 12:37:38](https://lobste.rs/s/arypgg/bloat_beneath_python_s_scales_fine) - [Bloat beneath Python’s Scales: A Fine-Grained Inter-Project Dependency Analysis](https://dl.acm.org/doi/10.1145/3660821)
