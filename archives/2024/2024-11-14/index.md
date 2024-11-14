@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_andoid_keyboard) - [Unexpected Keyboard: Andoid keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
 * [2024-11-14, 17:53:36](https://lobste.rs/s/zvyuae/historized_attributes_systematic_table) - [Historized attributes: systematic table design](https://kb.databasedesignbook.com/posts/historized-attributes-design/)
 * [2024-11-14, 17:32:37](https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming) - [Why Do We Like Functional Programming?](https://functionalsoftware.se/posts/why-do-we-like-functional-programming)
