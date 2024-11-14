@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 20:38:13](https://lobste.rs/s/acfm29/cycling_while_typing) - [Cycling while typing](https://www.ohrg.org/cycling-typing)
 * [2024-11-14, 19:52:23](https://lobste.rs/s/4o9gmd/mingw_side_by_side_manifests) - [MinGW and Side-by-Side Manifests](https://www.qt.io/blog/mingw-and-side-by-side-manifests)
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
 * [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_android_keyboard) - [Unexpected Keyboard: Android keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
