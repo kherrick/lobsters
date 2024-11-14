@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-14](index.md)
 
+* [2024-11-14, 20:44:51](https://lobste.rs/s/lmaqc5/how_render_it_ten_ideas_solve_computer) - [How to render it. Ten ideas to solve Computer Graphics problems](https://c0de517e.blogspot.com/2023/02/how-to-render-it-ten-ideas-to-solve.html)
+* [2024-11-14, 20:42:47](https://lobste.rs/s/dgg0w6/aws_lambda_turns_10_rare_look_at_doc) - [AWS Lambda turns 10: A rare look at the doc that started it](https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
 * [2024-11-14, 20:38:13](https://lobste.rs/s/acfm29/cycling_while_typing) - [Cycling while typing](https://www.ohrg.org/cycling-typing)
 * [2024-11-14, 19:52:23](https://lobste.rs/s/4o9gmd/mingw_side_by_side_manifests) - [MinGW and Side-by-Side Manifests](https://www.qt.io/blog/mingw-and-side-by-side-manifests)
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
