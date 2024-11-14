@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
 * [2024-11-14, 17:53:36](https://lobste.rs/s/zvyuae/historized_attributes_systematic_table) - [Historized attributes: systematic table design](https://kb.databasedesignbook.com/posts/historized-attributes-design/)
 * [2024-11-14, 17:32:37](https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming) - [Why Do We Like Functional Programming?](https://functionalsoftware.se/posts/why-do-we-like-functional-programming)
 * [2024-11-14, 16:47:47](https://lobste.rs/s/hyccfg/ultimate_guide_implementing_hotwire) - [The Ultimate Guide to implementing Hotwire and Turbo in a Rails application](https://blog.cloud66.com/the-ultimate-guide-to-implementing-hotwired-and-turbo-in-a-rails-application)
 * [2024-11-14, 15:24:46](https://lobste.rs/s/2vnvke/sqlite_index_visualization_structure) - [SQLite Index Visualization: Structure](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 14:23:30](https://lobste.rs/s/wctarz/attestations_new_generation_signatures) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-14, 14:00:05](https://lobste.rs/s/ousghn/memory_lunar) - [In memory of Lunar](https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/)
-* [2024-11-14, 13:29:49](https://lobste.rs/s/zi4nhw/geometry_data_missing_metric_tensor) - [The geometry of data: the missing metric tensor and the Stein score [Part II]](https://blog.christianperone.com/2024/11/the-geometry-of-data-part-ii/)
 * [2024-11-14, 13:14:00](https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust) - [BetterBufRead: Faster Reads in Rust](https://graphallthethings.com/posts/better-buf-read)
 * [2024-11-14, 12:37:38](https://lobste.rs/s/arypgg/bloat_beneath_python_s_scales_fine) - [Bloat beneath Python’s Scales: A Fine-Grained Inter-Project Dependency Analysis](https://dl.acm.org/doi/10.1145/3660821)
 * [2024-11-14, 09:53:10](https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems) - [Why are there not more operating systems?](https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/)
