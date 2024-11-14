@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 17:53:36](https://lobste.rs/s/zvyuae/historized_attributes_systematic_table) - [Historized attributes: systematic table design](https://kb.databasedesignbook.com/posts/historized-attributes-design/)
 * [2024-11-14, 17:32:37](https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming) - [Why Do We Like Functional Programming?](https://functionalsoftware.se/posts/why-do-we-like-functional-programming)
 * [2024-11-14, 16:47:47](https://lobste.rs/s/hyccfg/ultimate_guide_implementing_hotwire) - [The Ultimate Guide to implementing Hotwire and Turbo in a Rails application](https://blog.cloud66.com/the-ultimate-guide-to-implementing-hotwired-and-turbo-in-a-rails-application)
 * [2024-11-14, 15:24:46](https://lobste.rs/s/2vnvke/sqlite_index_visualization_structure) - [SQLite Index Visualization: Structure](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
@@ -15,7 +16,6 @@
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 01:33:08](https://lobste.rs/s/iyrz2x/twelve_factor_app_methodology_is_now_open) - [Twelve-Factor App Methodology is now Open Source](https://12factor.net/blog/open-source-announcement)
 * [2024-11-13, 22:20:33](https://lobste.rs/s/qpiash/history_erlang) - [A history of Erlang](https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf)
-* [2024-11-13, 19:01:32](https://lobste.rs/s/ebqysh/object_sync_engine_for_local_first_apps) - [An Object Sync Engine for Local-first Apps](https://stack.convex.dev/object-sync-engine)
 * [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
 * [2024-11-13, 18:21:49](https://lobste.rs/s/nlja6i/complex_for_whom) - [Complex for Whom?](https://notes.billmill.org/link_blog/2024/11/Complex_for_Whom_.html)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
