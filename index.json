@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-11-14, 17:53:36",
+      "https://lobste.rs/s/zvyuae/historized_attributes_systematic_table"
+    ],
+    [
+      "Historized attributes: systematic table design",
+      "https://kb.databasedesignbook.com/posts/historized-attributes-design/"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 17:32:37",
       "https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "No GPS required: our app can now locate underground trains",
       "https://blog.transitapp.com/go-underground/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 06:43:13",
-      "https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries"
-    ],
-    [
-      "Zig Reproduced Without Binaries",
-      "https://jakstys.lt/2024/zig-reproduced-without-binaries/"
     ]
   ]
 ]
