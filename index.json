@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 14:23:30",
+      "https://lobste.rs/s/wctarz/attestations_new_generation_signatures"
+    ],
+    [
+      "Attestations: A new generation of signatures on PyPI",
+      "https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 14:00:05",
       "https://lobste.rs/s/ousghn/memory_lunar"
     ],
@@ -207,16 +217,6 @@
     [
       "Five Unusual Raku Features",
       "https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 07:19:45",
-      "https://lobste.rs/s/xlinq8/visualizing_13_million_bluesky_users"
-    ],
-    [
-      "Visualizing 13 million BlueSky users",
-      "https://joelgustafson.com/posts/2024-11-12/vizualizing-13-million-bluesky-users"
     ]
   ],
   [
