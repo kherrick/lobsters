@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-14, 19:52:23](https://lobste.rs/s/4o9gmd/mingw_side_by_side_manifests) - [MinGW and Side-by-Side Manifests](https://www.qt.io/blog/mingw-and-side-by-side-manifests)
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
 * [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_android_keyboard) - [Unexpected Keyboard: Android keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
@@ -23,7 +24,6 @@
 * [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
 * [2024-11-13, 14:29:17](https://lobste.rs/s/vdhlun/swift_almost_does_really_cool_thing_i_want) - [Swift *almost* does a really cool thing I want](https://wolfgirl.dev/blog/2024-11-13-swift-almost-does-a-really-cool-thing-i-want/)
 * [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
-* [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 * [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
 
 ## [Archives](archives/index.md)
