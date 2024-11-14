@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 17:53:36",
+      "https://lobste.rs/s/zvyuae/historized_attributes_systematic_table"
+    ],
+    [
+      "Historized attributes: systematic table design",
+      "https://kb.databasedesignbook.com/posts/historized-attributes-design/"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 17:32:37",
       "https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming"
     ],
@@ -147,16 +157,6 @@
     [
       "A history of Erlang",
       "https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 19:01:32",
-      "https://lobste.rs/s/ebqysh/object_sync_engine_for_local_first_apps"
-    ],
-    [
-      "An Object Sync Engine for Local-first Apps",
-      "https://stack.convex.dev/object-sync-engine"
     ]
   ],
   [
