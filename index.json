@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-14, 17:32:37",
+      "https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming"
+    ],
+    [
+      "Why Do We Like Functional Programming?",
+      "https://functionalsoftware.se/posts/why-do-we-like-functional-programming"
+    ]
+  ],
+  [
+    [
       "2024-11-14, 16:47:47",
       "https://lobste.rs/s/hyccfg/ultimate_guide_implementing_hotwire"
     ],
@@ -227,16 +237,6 @@
     [
       "Zig Reproduced Without Binaries",
       "https://jakstys.lt/2024/zig-reproduced-without-binaries/"
-    ]
-  ],
-  [
-    [
-      "2024-11-12, 22:38:22",
-      "https://lobste.rs/s/qzovzp/go_turns_15"
-    ],
-    [
-      "Go Turns 15",
-      "https://go.dev/blog/15years"
     ]
   ],
   [
