@@ -12,6 +12,7 @@
 * [2024-11-14, 12:37:38](https://lobste.rs/s/arypgg/bloat_beneath_python_s_scales_fine) - [Bloat beneath Python’s Scales: A Fine-Grained Inter-Project Dependency Analysis](https://dl.acm.org/doi/10.1145/3660821)
 * [2024-11-14, 09:53:10](https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems) - [Why are there not more operating systems?](https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/)
 * [2024-11-14, 09:38:13](https://lobste.rs/s/vg4cil/go_safeweb_secure_by_default_http_servers) - [go-safeweb: Secure-by-default HTTP servers in Go](https://github.com/google/go-safeweb)
+* [2024-11-14, 03:54:56](https://lobste.rs/s/d7nkdl/implementing_container_runtime_part_1) - [Implementing a Container Runtime Part 1: Spawning Processes on Linux](https://maelstrom-software.com/blog/spawning-processes-on-linux/)
 * [2024-11-14, 02:59:31](https://lobste.rs/s/o2xasc/why_am_i_creating_new_code_editor) - [Why am I creating a new code editor?](https://raphamorim.io/why-am-i-creating-a-new-code-editor/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-14, 01:33:08](https://lobste.rs/s/iyrz2x/twelve_factor_app_methodology_is_now_open) - [Twelve-Factor App Methodology is now Open Source](https://12factor.net/blog/open-source-announcement)
@@ -24,7 +25,6 @@
 * [2024-11-13, 11:32:12](https://lobste.rs/s/o7lbjo/no_gps_required_our_app_can_now_locate) - [No GPS required: our app can now locate underground trains](https://blog.transitapp.com/go-underground/)
 * [2024-11-13, 11:28:32](https://lobste.rs/s/vkqbej/five_unusual_raku_features) - [Five Unusual Raku Features](https://buttondown.com/hillelwayne/archive/five-unusual-raku-features/)
 * [2024-11-13, 06:43:13](https://lobste.rs/s/xlmejv/zig_reproduced_without_binaries) - [Zig Reproduced Without Binaries](https://jakstys.lt/2024/zig-reproduced-without-binaries/)
-* [2024-11-12, 15:10:56](https://lobste.rs/s/3gvdha/jujutsu_haven_for_mercurial_users_at) - [Jujutsu: A Haven for Mercurial Users at Mozilla](https://ahal.ca/blog/2024/jujutsu-mercurial-haven/)
 
 ## [Archives](archives/index.md)
 
