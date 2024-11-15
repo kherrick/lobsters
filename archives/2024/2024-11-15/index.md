@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 15:55:37](https://lobste.rs/s/gxb69j/thoughts_on_django_s_core) - [Thoughts on Django’s Core](https://buttondown.com/carlton/archive/thoughts-on-djangos-core)
 * [2024-11-15, 15:35:54](https://lobste.rs/s/zvwwcl/fuzzing_php_interpreter_via_dataflow) - [Fuzzing the PHP Interpreter via Dataflow Fusion](https://arxiv.org/pdf/2410.21713)
 * [2024-11-15, 14:36:50](https://lobste.rs/s/kh3hrz/implementing_type_systems_as_macros) - [Implementing Type Systems as Macros](https://lambdaland.org/posts/2023-08-14_types_with_macros/)
 * [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
