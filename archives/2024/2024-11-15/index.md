@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-15, 10:17:21](https://lobste.rs/s/aqowpy/how_westwood_vqa_works) - [How Westwood VQA works](https://30fps.net/pages/vqa/)
 * [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)

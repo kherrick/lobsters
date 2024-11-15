@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-15, 10:17:21](https://lobste.rs/s/aqowpy/how_westwood_vqa_works) - [How Westwood VQA works](https://30fps.net/pages/vqa/)
 * [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
@@ -24,7 +25,6 @@
 * [2024-11-14, 13:14:00](https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust) - [BetterBufRead: Faster Reads in Rust](https://graphallthethings.com/posts/better-buf-read)
 * [2024-11-14, 09:53:10](https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems) - [Why are there not more operating systems?](https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-* [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 
 ## [Archives](archives/index.md)
 
