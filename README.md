@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 15:35:54](https://lobste.rs/s/zvwwcl/fuzzing_php_interpreter_via_dataflow) - [Fuzzing the PHP Interpreter via Dataflow Fusion](https://arxiv.org/pdf/2410.21713)
 * [2024-11-15, 14:36:50](https://lobste.rs/s/kh3hrz/implementing_type_systems_as_macros) - [Implementing Type Systems as Macros](https://lambdaland.org/posts/2023-08-14_types_with_macros/)
 * [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
 * [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
@@ -8,7 +9,6 @@
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-15, 09:05:08](https://lobste.rs/s/8lubts/why_is_std_pin_pin_so_weird) - [Why is std::pin::Pin so weird?](https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/)
 * [2024-11-15, 07:30:45](https://lobste.rs/s/q3as3w/music_production_on_power_adventure) - [Music production on POWER: an adventure in porting](https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html)
-* [2024-11-15, 06:08:30](https://lobste.rs/s/oe3ir2/final_encoding_rpython_interpreters) - [Final Encoding in RPython Interpreters](https://pypy.org/posts/2024/11/guest-post-final-encoding-in-rpython.html)
 * [2024-11-15, 03:56:53](https://lobste.rs/s/vv6jns/plan_9_history_development_2023) - [Plan 9 history and development (2023)](http://youtube.com/watch?v=mCiRxM8dOSY)
 * [2024-11-15, 03:24:33](https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard) - [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-11-15, 01:47:04](https://lobste.rs/s/ybjlyw/dusting_off_dreamcast_linux) - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
