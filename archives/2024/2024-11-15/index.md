@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 20:25:06](https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds) - [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
 * [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/thomas_kurtz_co_creator_computer) - [Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96](https://archive.is/HivMX)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 * [2024-11-15, 17:13:53](https://lobste.rs/s/uabxfu/gliimly_is_programming_language_for_web) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
