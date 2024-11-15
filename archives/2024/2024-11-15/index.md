@@ -7,6 +7,7 @@
 * [2024-11-15, 20:43:13](https://lobste.rs/s/o7tlpa/huawei_develops_72tb_ssd_tape_hybrid) - [Huawei develops 72TB SSD-tape hybrid storage device](https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb)
 * [2024-11-15, 20:25:06](https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds) - [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
 * [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/thomas_kurtz_co_creator_computer) - [Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96](https://archive.is/HivMX)
+* [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/memoriam_thomas_e_kurtz_co_inventor_basic) - [In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 * [2024-11-15, 17:13:53](https://lobste.rs/s/uabxfu/gliimly_is_programming_language_for_web) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 15:55:37](https://lobste.rs/s/gxb69j/thoughts_on_django_s_core) - [Thoughts on Django’s Core](https://buttondown.com/carlton/archive/thoughts-on-djangos-core)
