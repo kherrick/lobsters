@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 13:46:39",
+      "https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps"
+    ],
+    [
+      "You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths",
+      "https://htmx.org/essays/you-cant/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 10:39:25",
       "https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0"
     ],
@@ -227,16 +237,6 @@
     [
       "BetterBufRead: Faster Reads in Rust",
       "https://graphallthethings.com/posts/better-buf-read"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 09:53:10",
-      "https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems"
-    ],
-    [
-      "Why are there not more operating systems?",
-      "https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/"
     ]
   ],
   [
