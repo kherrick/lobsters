@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 03:56:53",
+      "https://lobste.rs/s/vv6jns/plan_9_history_development_2023"
+    ],
+    [
+      "Plan 9 history and development (2023)",
+      "http://youtube.com/watch?v=mCiRxM8dOSY"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 03:24:33",
       "https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard"
     ],
@@ -237,16 +247,6 @@
     [
       "Who Is Eric Wayne?: an Unsolved IoT Mystery",
       "https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery"
-    ]
-  ],
-  [
-    [
-      "2024-11-13, 17:05:01",
-      "https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback"
-    ],
-    [
-      "Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty",
-      "https://www.oilshell.org/blog/2024/11/release-0.23.0.html"
     ]
   ]
 ]
