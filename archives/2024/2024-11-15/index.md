@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 06:08:30](https://lobste.rs/s/oe3ir2/final_encoding_rpython_interpreters) - [Final Encoding in RPython Interpreters](https://pypy.org/posts/2024/11/guest-post-final-encoding-in-rpython.html)
 * [2024-11-15, 03:56:53](https://lobste.rs/s/vv6jns/plan_9_history_development_2023) - [Plan 9 history and development (2023)](http://youtube.com/watch?v=mCiRxM8dOSY)
 * [2024-11-15, 03:24:33](https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard) - [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-11-15, 01:47:04](https://lobste.rs/s/ybjlyw/dusting_off_dreamcast_linux) - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
