@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 15:35:54",
+      "https://lobste.rs/s/zvwwcl/fuzzing_php_interpreter_via_dataflow"
+    ],
+    [
+      "Fuzzing the PHP Interpreter via Dataflow Fusion",
+      "https://arxiv.org/pdf/2410.21713"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 14:36:50",
       "https://lobste.rs/s/kh3hrz/implementing_type_systems_as_macros"
     ],
@@ -77,16 +87,6 @@
     [
       "Music production on POWER: an adventure in porting",
       "https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 06:08:30",
-      "https://lobste.rs/s/oe3ir2/final_encoding_rpython_interpreters"
-    ],
-    [
-      "Final Encoding in RPython Interpreters",
-      "https://pypy.org/posts/2024/11/guest-post-final-encoding-in-rpython.html"
     ]
   ],
   [
