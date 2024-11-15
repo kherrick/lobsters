@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 09:05:08",
+      "https://lobste.rs/s/8lubts/why_is_std_pin_pin_so_weird"
+    ],
+    [
+      "Why is std::pin::Pin so weird?",
+      "https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 07:30:45",
       "https://lobste.rs/s/q3as3w/music_production_on_power_adventure"
     ],
@@ -207,16 +217,6 @@
     [
       "Why are there not more operating systems?",
       "https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 09:38:13",
-      "https://lobste.rs/s/vg4cil/go_safeweb_secure_by_default_http_servers"
-    ],
-    [
-      "go-safeweb: Secure-by-default HTTP servers in Go",
-      "https://github.com/google/go-safeweb"
     ]
   ],
   [
