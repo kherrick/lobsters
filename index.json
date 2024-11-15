@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 14:36:50",
+      "https://lobste.rs/s/kh3hrz/implementing_type_systems_as_macros"
+    ],
+    [
+      "Implementing Type Systems as Macros",
+      "https://lambdaland.org/posts/2023-08-14_types_with_macros/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 13:46:39",
       "https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps"
     ],
@@ -197,16 +207,6 @@
     [
       "We’re (finally) going to the cloud",
       "https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 17:32:37",
-      "https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming"
-    ],
-    [
-      "Why Do We Like Functional Programming?",
-      "https://functionalsoftware.se/posts/why-do-we-like-functional-programming"
     ]
   ],
   [
