@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 15:55:37",
+      "https://lobste.rs/s/gxb69j/thoughts_on_django_s_core"
+    ],
+    [
+      "Thoughts on Django’s Core",
+      "https://buttondown.com/carlton/archive/thoughts-on-djangos-core"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 15:35:54",
       "https://lobste.rs/s/zvwwcl/fuzzing_php_interpreter_via_dataflow"
     ],
@@ -227,16 +237,6 @@
     [
       "In memory of Lunar",
       "https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 13:14:00",
-      "https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust"
-    ],
-    [
-      "BetterBufRead: Faster Reads in Rust",
-      "https://graphallthethings.com/posts/better-buf-read"
     ]
   ],
   [
