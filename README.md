@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 14:36:50](https://lobste.rs/s/kh3hrz/implementing_type_systems_as_macros) - [Implementing Type Systems as Macros](https://lambdaland.org/posts/2023-08-14_types_with_macros/)
 * [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
 * [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-15, 10:17:21](https://lobste.rs/s/aqowpy/how_westwood_vqa_works) - [How Westwood VQA works](https://30fps.net/pages/vqa/)
@@ -20,7 +21,6 @@
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
 * [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_android_keyboard) - [Unexpected Keyboard: Android keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
-* [2024-11-14, 17:32:37](https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming) - [Why Do We Like Functional Programming?](https://functionalsoftware.se/posts/why-do-we-like-functional-programming)
 * [2024-11-14, 14:23:30](https://lobste.rs/s/wctarz/attestations_new_generation_signatures) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-14, 14:00:05](https://lobste.rs/s/ousghn/memory_lunar) - [In memory of Lunar](https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/)
 * [2024-11-14, 13:14:00](https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust) - [BetterBufRead: Faster Reads in Rust](https://graphallthethings.com/posts/better-buf-read)
