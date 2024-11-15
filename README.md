@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
 * [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-15, 10:17:21](https://lobste.rs/s/aqowpy/how_westwood_vqa_works) - [How Westwood VQA works](https://30fps.net/pages/vqa/)
 * [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2024-11-14, 14:23:30](https://lobste.rs/s/wctarz/attestations_new_generation_signatures) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-14, 14:00:05](https://lobste.rs/s/ousghn/memory_lunar) - [In memory of Lunar](https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/)
 * [2024-11-14, 13:14:00](https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust) - [BetterBufRead: Faster Reads in Rust](https://graphallthethings.com/posts/better-buf-read)
-* [2024-11-14, 09:53:10](https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems) - [Why are there not more operating systems?](https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 
 ## [Archives](archives/index.md)

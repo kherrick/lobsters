@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
 * [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-15, 10:17:21](https://lobste.rs/s/aqowpy/how_westwood_vqa_works) - [How Westwood VQA works](https://30fps.net/pages/vqa/)
 * [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
