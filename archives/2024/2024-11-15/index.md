@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 10:17:21](https://lobste.rs/s/aqowpy/how_westwood_vqa_works) - [How Westwood VQA works](https://30fps.net/pages/vqa/)
+* [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-15, 09:05:08](https://lobste.rs/s/8lubts/why_is_std_pin_pin_so_weird) - [Why is std::pin::Pin so weird?](https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/)
 * [2024-11-15, 07:30:45](https://lobste.rs/s/q3as3w/music_production_on_power_adventure) - [Music production on POWER: an adventure in porting](https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html)

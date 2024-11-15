@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 10:17:21](https://lobste.rs/s/aqowpy/how_westwood_vqa_works) - [How Westwood VQA works](https://30fps.net/pages/vqa/)
+* [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-15, 09:05:08](https://lobste.rs/s/8lubts/why_is_std_pin_pin_so_weird) - [Why is std::pin::Pin so weird?](https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/)
 * [2024-11-15, 07:30:45](https://lobste.rs/s/q3as3w/music_production_on_power_adventure) - [Music production on POWER: an adventure in porting](https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html)
@@ -17,13 +19,11 @@
 * [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_android_keyboard) - [Unexpected Keyboard: Android keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
 * [2024-11-14, 17:32:37](https://lobste.rs/s/ygzlyu/why_do_we_like_functional_programming) - [Why Do We Like Functional Programming?](https://functionalsoftware.se/posts/why-do-we-like-functional-programming)
-* [2024-11-14, 15:24:46](https://lobste.rs/s/2vnvke/sqlite_index_visualization_structure) - [SQLite Index Visualization: Structure](https://mrsuh.com/articles/2024/sqlite-index-visualization-structure/)
 * [2024-11-14, 14:23:30](https://lobste.rs/s/wctarz/attestations_new_generation_signatures) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-14, 14:00:05](https://lobste.rs/s/ousghn/memory_lunar) - [In memory of Lunar](https://upsilon.cc/~zack/blog/posts/2024/11/In_memory_of_Lunar/)
 * [2024-11-14, 13:14:00](https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust) - [BetterBufRead: Faster Reads in Rust](https://graphallthethings.com/posts/better-buf-read)
 * [2024-11-14, 09:53:10](https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems) - [Why are there not more operating systems?](https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-* [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 
 ## [Archives](archives/index.md)
