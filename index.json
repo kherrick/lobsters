@@ -22,11 +22,11 @@
   [
     [
       "2024-11-15, 19:08:41",
-      "https://lobste.rs/s/xkccev/thomas_kurtz_co_creator_computer"
+      "https://lobste.rs/s/xkccev/memoriam_thomas_e_kurtz_co_inventor_basic"
     ],
     [
-      "Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96",
-      "https://archive.is/HivMX"
+      "In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928–2024",
+      "https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2024-11-15, 03:56:53",
+      "https://lobste.rs/s/vv6jns/plan_9_history_development_2023"
+    ],
+    [
+      "Plan 9 history and development (2023)",
+      "http://youtube.com/watch?v=mCiRxM8dOSY"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 03:24:33",
       "https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard"
     ],
@@ -187,16 +197,6 @@
     [
       "A rustc soundness bug in the wild",
       "https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 20:42:47",
-      "https://lobste.rs/s/dgg0w6/aws_lambda_turns_10_rare_look_at_doc"
-    ],
-    [
-      "AWS Lambda turns 10: A rare look at the doc that started it",
-      "https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html"
     ]
   ],
   [
