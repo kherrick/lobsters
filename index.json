@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 17:13:53",
+      "https://lobste.rs/s/uabxfu/gliimly_is_programming_language_for_web"
+    ],
+    [
+      "Gliimly is a programming language for web services",
+      "https://gliimly.github.io/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 15:55:37",
       "https://lobste.rs/s/gxb69j/thoughts_on_django_s_core"
     ],
@@ -87,16 +97,6 @@
     [
       "Why is std::pin::Pin so weird?",
       "https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 07:30:45",
-      "https://lobste.rs/s/q3as3w/music_production_on_power_adventure"
-    ],
-    [
-      "Music production on POWER: an adventure in porting",
-      "https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html"
     ]
   ],
   [
