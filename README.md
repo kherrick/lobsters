@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/thomas_kurtz_co_creator_computer) - [Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96](https://archive.is/HivMX)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 * [2024-11-15, 17:13:53](https://lobste.rs/s/uabxfu/gliimly_is_programming_language_for_web) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 15:55:37](https://lobste.rs/s/gxb69j/thoughts_on_django_s_core) - [Thoughts on Django’s Core](https://buttondown.com/carlton/archive/thoughts-on-djangos-core)
@@ -21,7 +22,6 @@
 * [2024-11-14, 20:42:47](https://lobste.rs/s/dgg0w6/aws_lambda_turns_10_rare_look_at_doc) - [AWS Lambda turns 10: A rare look at the doc that started it](https://allthingsdistributed.com/2024/11/aws-lambda-turns-10-a-rare-look-at-the-doc-that-started-it.html)
 * [2024-11-14, 20:38:13](https://lobste.rs/s/acfm29/cycling_while_typing) - [Cycling while typing](https://www.ohrg.org/cycling-typing)
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
-* [2024-11-14, 19:18:58](https://lobste.rs/s/b4tuyn/unexpected_keyboard_android_keyboard) - [Unexpected Keyboard: Android keyboard with all the keys](https://github.com/Julow/Unexpected-Keyboard)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
 * [2024-11-14, 14:23:30](https://lobste.rs/s/wctarz/attestations_new_generation_signatures) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
