@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 07:30:45",
+      "https://lobste.rs/s/q3as3w/music_production_on_power_adventure"
+    ],
+    [
+      "Music production on POWER: an adventure in porting",
+      "https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 06:08:30",
       "https://lobste.rs/s/oe3ir2/final_encoding_rpython_interpreters"
     ],
@@ -207,16 +217,6 @@
     [
       "go-safeweb: Secure-by-default HTTP servers in Go",
       "https://github.com/google/go-safeweb"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 02:59:31",
-      "https://lobste.rs/s/o2xasc/why_am_i_creating_new_code_editor"
-    ],
-    [
-      "Why am I creating a new code editor?",
-      "https://raphamorim.io/why-am-i-creating-a-new-code-editor/"
     ]
   ],
   [
