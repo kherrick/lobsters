@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 03:24:33](https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard) - [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-11-15, 01:47:04](https://lobste.rs/s/ybjlyw/dusting_off_dreamcast_linux) - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
 * [2024-11-15, 01:16:10](https://lobste.rs/s/6k4rdq/amazon_s3_now_supports_up_1_million) - [Amazon S3 now supports up to 1 million buckets per AWS account](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account/)
 * [2024-11-14, 23:28:19](https://lobste.rs/s/6nzmkj/i_ve_been_working_on_borrow_checker_for_c) - [I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)](https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c)
@@ -21,7 +22,6 @@
 * [2024-11-14, 09:38:13](https://lobste.rs/s/vg4cil/go_safeweb_secure_by_default_http_servers) - [go-safeweb: Secure-by-default HTTP servers in Go](https://github.com/google/go-safeweb)
 * [2024-11-14, 02:59:31](https://lobste.rs/s/o2xasc/why_am_i_creating_new_code_editor) - [Why am I creating a new code editor?](https://raphamorim.io/why-am-i-creating-a-new-code-editor/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
-* [2024-11-13, 22:20:33](https://lobste.rs/s/qpiash/history_erlang) - [A history of Erlang](https://www.labouseur.com/courses/erlang/history-of-erlang-armstrong.pdf)
 * [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
 * [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
