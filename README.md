@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 03:56:53](https://lobste.rs/s/vv6jns/plan_9_history_development_2023) - [Plan 9 history and development (2023)](http://youtube.com/watch?v=mCiRxM8dOSY)
 * [2024-11-15, 03:24:33](https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard) - [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-11-15, 01:47:04](https://lobste.rs/s/ybjlyw/dusting_off_dreamcast_linux) - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
 * [2024-11-15, 01:16:10](https://lobste.rs/s/6k4rdq/amazon_s3_now_supports_up_1_million) - [Amazon S3 now supports up to 1 million buckets per AWS account](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account/)
@@ -24,7 +25,6 @@
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
-* [2024-11-13, 17:05:01](https://lobste.rs/s/jmsl6w/oils_0_23_0_writing_ysh_code_user_feedback) - [Oils 0.23.0 - Writing YSH Code, User Feedback, and Bug Bounty](https://www.oilshell.org/blog/2024/11/release-0.23.0.html)
 
 ## [Archives](archives/index.md)
 
