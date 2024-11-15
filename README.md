@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 20:43:13](https://lobste.rs/s/o7tlpa/huawei_develops_72tb_ssd_tape_hybrid) - [Huawei develops 72TB SSD-tape hybrid storage device](https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb)
 * [2024-11-15, 20:25:06](https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds) - [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
 * [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/thomas_kurtz_co_creator_computer) - [Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96](https://archive.is/HivMX)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
@@ -15,7 +16,6 @@
 * [2024-11-15, 09:05:08](https://lobste.rs/s/8lubts/why_is_std_pin_pin_so_weird) - [Why is std::pin::Pin so weird?](https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/)
 * [2024-11-15, 03:24:33](https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard) - [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-11-15, 01:47:04](https://lobste.rs/s/ybjlyw/dusting_off_dreamcast_linux) - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
-* [2024-11-15, 01:16:10](https://lobste.rs/s/6k4rdq/amazon_s3_now_supports_up_1_million) - [Amazon S3 now supports up to 1 million buckets per AWS account](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account/)
 * [2024-11-14, 23:28:19](https://lobste.rs/s/6nzmkj/i_ve_been_working_on_borrow_checker_for_c) - [I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)](https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c)
 * [2024-11-14, 23:18:09](https://lobste.rs/s/mecr9q/linux_desktop_for_family) - [A Linux Desktop for the family](https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/)
 * [2024-11-14, 22:55:49](https://lobste.rs/s/swm85w/rustc_soundness_bug_wild) - [A rustc soundness bug in the wild](https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild)
