@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 * [2024-11-15, 17:13:53](https://lobste.rs/s/uabxfu/gliimly_is_programming_language_for_web) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 15:55:37](https://lobste.rs/s/gxb69j/thoughts_on_django_s_core) - [Thoughts on Django’s Core](https://buttondown.com/carlton/archive/thoughts-on-djangos-core)
 * [2024-11-15, 15:35:54](https://lobste.rs/s/zvwwcl/fuzzing_php_interpreter_via_dataflow) - [Fuzzing the PHP Interpreter via Dataflow Fusion](https://arxiv.org/pdf/2410.21713)

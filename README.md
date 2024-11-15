@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 * [2024-11-15, 17:13:53](https://lobste.rs/s/uabxfu/gliimly_is_programming_language_for_web) - [Gliimly is a programming language for web services](https://gliimly.github.io/)
 * [2024-11-15, 15:55:37](https://lobste.rs/s/gxb69j/thoughts_on_django_s_core) - [Thoughts on Django’s Core](https://buttondown.com/carlton/archive/thoughts-on-djangos-core)
 * [2024-11-15, 15:35:54](https://lobste.rs/s/zvwwcl/fuzzing_php_interpreter_via_dataflow) - [Fuzzing the PHP Interpreter via Dataflow Fusion](https://arxiv.org/pdf/2410.21713)
@@ -13,7 +14,6 @@
 * [2024-11-15, 03:56:53](https://lobste.rs/s/vv6jns/plan_9_history_development_2023) - [Plan 9 history and development (2023)](http://youtube.com/watch?v=mCiRxM8dOSY)
 * [2024-11-15, 03:24:33](https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard) - [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-11-15, 01:47:04](https://lobste.rs/s/ybjlyw/dusting_off_dreamcast_linux) - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
-* [2024-11-15, 01:16:10](https://lobste.rs/s/6k4rdq/amazon_s3_now_supports_up_1_million) - [Amazon S3 now supports up to 1 million buckets per AWS account](https://aws.amazon.com/about-aws/whats-new/2024/11/amazon-s3-up-1-million-buckets-per-aws-account/)
 * [2024-11-14, 23:28:19](https://lobste.rs/s/6nzmkj/i_ve_been_working_on_borrow_checker_for_c) - [I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)](https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c)
 * [2024-11-14, 23:18:09](https://lobste.rs/s/mecr9q/linux_desktop_for_family) - [A Linux Desktop for the family](https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/)
 * [2024-11-14, 22:55:49](https://lobste.rs/s/swm85w/rustc_soundness_bug_wild) - [A rustc soundness bug in the wild](https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild)
