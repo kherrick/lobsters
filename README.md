@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 07:30:45](https://lobste.rs/s/q3as3w/music_production_on_power_adventure) - [Music production on POWER: an adventure in porting](https://www.talospace.com/2024/09/music-production-on-power-adventure-in.html)
 * [2024-11-15, 06:08:30](https://lobste.rs/s/oe3ir2/final_encoding_rpython_interpreters) - [Final Encoding in RPython Interpreters](https://pypy.org/posts/2024/11/guest-post-final-encoding-in-rpython.html)
 * [2024-11-15, 03:56:53](https://lobste.rs/s/vv6jns/plan_9_history_development_2023) - [Plan 9 history and development (2023)](http://youtube.com/watch?v=mCiRxM8dOSY)
 * [2024-11-15, 03:24:33](https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard) - [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
@@ -21,7 +22,6 @@
 * [2024-11-14, 13:14:00](https://lobste.rs/s/maf26m/betterbufread_faster_reads_rust) - [BetterBufRead: Faster Reads in Rust](https://graphallthethings.com/posts/better-buf-read)
 * [2024-11-14, 09:53:10](https://lobste.rs/s/pzp4xg/why_are_there_not_more_operating_systems) - [Why are there not more operating systems?](https://crowdhailer.me/2024-11-12/why-are-there-not-more-operating-systems/)
 * [2024-11-14, 09:38:13](https://lobste.rs/s/vg4cil/go_safeweb_secure_by_default_http_servers) - [go-safeweb: Secure-by-default HTTP servers in Go](https://github.com/google/go-safeweb)
-* [2024-11-14, 02:59:31](https://lobste.rs/s/o2xasc/why_am_i_creating_new_code_editor) - [Why am I creating a new code editor?](https://raphamorim.io/why-am-i-creating-a-new-code-editor/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 * [2024-11-13, 19:00:57](https://lobste.rs/s/jznaq7/search_sync_your_shell_history_with_atuin) - [Search and Sync Your Shell History With Atuin](https://calebhearth.com/l/search-sync-shell-atuin)
 * [2024-11-13, 18:02:05](https://lobste.rs/s/0kecjz/who_is_eric_wayne_unsolved_iot_mystery) - [Who Is Eric Wayne?: an Unsolved IoT Mystery](https://blog.the-brannons.com/post/Who-Is-Eric-Wayne-an-Unsolved-IoT-Mystery)
