@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 06:08:30",
+      "https://lobste.rs/s/oe3ir2/final_encoding_rpython_interpreters"
+    ],
+    [
+      "Final Encoding in RPython Interpreters",
+      "https://pypy.org/posts/2024/11/guest-post-final-encoding-in-rpython.html"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 03:56:53",
       "https://lobste.rs/s/vv6jns/plan_9_history_development_2023"
     ],
@@ -67,16 +77,6 @@
     [
       "A rustc soundness bug in the wild",
       "https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 21:31:40",
-      "https://lobste.rs/s/6jsyzw/futexes_at_home"
-    ],
-    [
-      "Futexes at Home",
-      "https://specificprotagonist.net/jvm-futex.html"
     ]
   ],
   [
