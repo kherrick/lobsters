@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-15, 23:22:30](https://lobste.rs/s/obifny/maybe_bluesky_has_won) - [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 20:43:13](https://lobste.rs/s/o7tlpa/huawei_develops_72tb_ssd_tape_hybrid) - [Huawei develops 72TB SSD-tape hybrid storage device](https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb)
 * [2024-11-15, 20:25:06](https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds) - [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
 * [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/memoriam_thomas_e_kurtz_co_inventor_basic) - [In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
@@ -14,7 +15,6 @@
 * [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-15, 09:05:08](https://lobste.rs/s/8lubts/why_is_std_pin_pin_so_weird) - [Why is std::pin::Pin so weird?](https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/)
-* [2024-11-15, 03:56:53](https://lobste.rs/s/vv6jns/plan_9_history_development_2023) - [Plan 9 history and development (2023)](http://youtube.com/watch?v=mCiRxM8dOSY)
 * [2024-11-15, 03:24:33](https://lobste.rs/s/x5cc0v/what_makes_concurrency_so_hard) - [What makes concurrency so hard?](https://buttondown.com/hillelwayne/archive/what-makes-concurrency-so-hard/)
 * [2024-11-15, 01:47:04](https://lobste.rs/s/ybjlyw/dusting_off_dreamcast_linux) - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
 * [2024-11-14, 23:28:19](https://lobste.rs/s/6nzmkj/i_ve_been_working_on_borrow_checker_for_c) - [I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)](https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c)

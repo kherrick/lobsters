@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-15](index.md)
 
+* [2024-11-15, 23:22:30](https://lobste.rs/s/obifny/maybe_bluesky_has_won) - [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 20:43:13](https://lobste.rs/s/o7tlpa/huawei_develops_72tb_ssd_tape_hybrid) - [Huawei develops 72TB SSD-tape hybrid storage device](https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb)
 * [2024-11-15, 20:25:06](https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds) - [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
 * [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/thomas_kurtz_co_creator_computer) - [Thomas Kurtz, Co-Creator of Computer Language Basic, Dies at 96](https://archive.is/HivMX)
