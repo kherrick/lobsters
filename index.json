@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-15, 20:25:06",
+      "https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds"
+    ],
+    [
+      "Retrofitting spatial safety to hundreds of millions of lines of C++",
+      "https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 19:08:41",
       "https://lobste.rs/s/xkccev/thomas_kurtz_co_creator_computer"
     ],
@@ -117,16 +127,6 @@
     [
       "Why is std::pin::Pin so weird?",
       "https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 03:56:53",
-      "https://lobste.rs/s/vv6jns/plan_9_history_development_2023"
-    ],
-    [
-      "Plan 9 history and development (2023)",
-      "http://youtube.com/watch?v=mCiRxM8dOSY"
     ]
   ],
   [
