@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-16, 10:54:16",
+      "https://lobste.rs/s/bz8nng/exploring_effect_typescript"
+    ],
+    [
+      "Exploring Effect in TypeScript: Simplifying Async and Error Handling",
+      "https://www.tweag.io/blog/2024-11-07-typescript-effect/"
+    ]
+  ],
+  [
+    [
       "2024-11-15, 23:22:30",
       "https://lobste.rs/s/obifny/maybe_bluesky_has_won"
     ],
@@ -227,16 +237,6 @@
     [
       "We’re (finally) going to the cloud",
       "https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud"
-    ]
-  ],
-  [
-    [
-      "2024-11-14, 14:23:30",
-      "https://lobste.rs/s/wctarz/attestations_new_generation_signatures"
-    ],
-    [
-      "Attestations: A new generation of signatures on PyPI",
-      "https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/"
     ]
   ],
   [
