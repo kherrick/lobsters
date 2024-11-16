@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-16, 16:40:41",
+      "https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code"
+    ],
+    [
+      "Buggy code is biased code",
+      "https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/"
+    ]
+  ],
+  [
+    [
+      "2024-11-16, 16:28:57",
+      "https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix"
+    ],
+    [
+      "Incremental builds in Nix and garnix",
+      "https://garnix.io/blog/incremental-builds"
+    ]
+  ],
+  [
+    [
       "2024-11-16, 14:52:31",
       "https://lobste.rs/s/msnvss/duckdb_optimizers_low_key_mvp"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2024-11-15, 17:13:53",
-      "https://lobste.rs/s/uabxfu/gliimly_is_programming_language_for_web"
-    ],
-    [
-      "Gliimly is a programming language for web services",
-      "https://gliimly.github.io/"
-    ]
-  ],
-  [
-    [
       "2024-11-15, 15:55:37",
       "https://lobste.rs/s/gxb69j/thoughts_on_django_s_core"
     ],
@@ -207,16 +217,6 @@
     [
       "Stop Making Me Memorize The Borrow Checker",
       "https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 09:05:08",
-      "https://lobste.rs/s/8lubts/why_is_std_pin_pin_so_weird"
-    ],
-    [
-      "Why is std::pin::Pin so weird?",
-      "https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/"
     ]
   ],
   [
