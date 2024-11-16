@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 17:01:33](https://lobste.rs/s/67f56y/protecting_signal_keys_on_desktop) - [Protecting Signal Keys on Desktop](https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/)
 * [2024-11-16, 16:40:41](https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code) - [Buggy code is biased code](https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/)
 * [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
 * [2024-11-16, 14:52:31](https://lobste.rs/s/msnvss/duckdb_optimizers_low_key_mvp) - [DuckDB Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)

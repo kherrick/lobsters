@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-16, 17:01:33](https://lobste.rs/s/67f56y/protecting_signal_keys_on_desktop) - [Protecting Signal Keys on Desktop](https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/)
 * [2024-11-16, 16:40:41](https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code) - [Buggy code is biased code](https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/)
 * [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
 * [2024-11-16, 14:52:31](https://lobste.rs/s/msnvss/duckdb_optimizers_low_key_mvp) - [DuckDB Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
@@ -24,7 +25,6 @@
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-14, 23:18:09](https://lobste.rs/s/mecr9q/linux_desktop_for_family) - [A Linux Desktop for the family](https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/)
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
-* [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
 
 ## [Archives](archives/index.md)
 
