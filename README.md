@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-16, 13:25:16](https://lobste.rs/s/eyxwjs/introduction_residuality_theory) - [An Introduction to Residuality Theory](https://www.youtube.com/watch?v=1KHXAWLSMqE)
+* [2024-11-16, 13:18:29](https://lobste.rs/s/3sua5c/half_life_2_20th_anniversary_documentary) - [Half-Life 2: 20th Anniversary Documentary](https://www.youtube.com/watch?v=YCjNT9qGjh4)
+* [2024-11-16, 13:14:01](https://lobste.rs/s/prwxez/monads_hurt_my_head_not_anymore_2009) - [The Monads Hurt My Head --- But Not Anymore (2009)](https://golem.ph.utexas.edu/category/2009/07/the_monads_hurt_my_head_but_no.html)
 * [2024-11-16, 11:41:17](https://lobste.rs/s/jo8bqo/implementation_out_order_risc_v_vector) - [Implementation of an Out-of-order RISC-V Vector Unit](https://www.youtube.com/watch?v=WzID6kk8RNs)
 * [2024-11-16, 10:54:16](https://lobste.rs/s/bz8nng/exploring_effect_typescript) - [Exploring Effect in TypeScript: Simplifying Async and Error Handling](https://www.tweag.io/blog/2024-11-07-typescript-effect/)
 * [2024-11-15, 23:22:30](https://lobste.rs/s/obifny/maybe_bluesky_has_won) - [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
@@ -17,14 +20,11 @@
 * [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 * [2024-11-15, 09:05:08](https://lobste.rs/s/8lubts/why_is_std_pin_pin_so_weird) - [Why is std::pin::Pin so weird?](https://sander.saares.eu/2024/11/06/why-is-stdpinpin-so-weird/)
-* [2024-11-15, 01:47:04](https://lobste.rs/s/ybjlyw/dusting_off_dreamcast_linux) - [Dusting off Dreamcast Linux](http://oldvcr.blogspot.com/2023/02/dusting-off-dreamcast-linux.html?m=1)
 * [2024-11-14, 23:28:19](https://lobste.rs/s/6nzmkj/i_ve_been_working_on_borrow_checker_for_c) - [I've been working on a borrow checker for C... (also makes sure you `free`) (context in post text)](https://gist.github.com/nikki93/2bb11237bf76fceb0bf687d6d9eef1b3#file-00-example-c)
 * [2024-11-14, 23:18:09](https://lobste.rs/s/mecr9q/linux_desktop_for_family) - [A Linux Desktop for the family](https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/)
 * [2024-11-14, 22:55:49](https://lobste.rs/s/swm85w/rustc_soundness_bug_wild) - [A rustc soundness bug in the wild](https://specy.app/blog/posts/a-rustc-soundness-bug-in-the-wild)
-* [2024-11-14, 20:38:13](https://lobste.rs/s/acfm29/cycling_while_typing) - [Cycling while typing](https://www.ohrg.org/cycling-typing)
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
-* [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 
 ## [Archives](archives/index.md)
 
