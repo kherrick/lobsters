@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
 * [2024-11-16, 21:56:56](https://lobste.rs/s/03pfyt/any_python_program_fits_30_characters) - [Any Python program fits in 30 characters*](https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/)
 * [2024-11-16, 20:55:16](https://lobste.rs/s/h13645/secret_behind_valve_s_flickering_lights) - [The Secret Behind Valve's Flickering Lights](https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/)
 * [2024-11-16, 20:01:22](https://lobste.rs/s/1sd1q2/james_gleick_s_chaos_software) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos/)
@@ -19,7 +20,6 @@
 * [2024-11-15, 20:25:06](https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds) - [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
 * [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/memoriam_thomas_e_kurtz_co_inventor_basic) - [In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
-* [2024-11-15, 14:36:50](https://lobste.rs/s/kh3hrz/implementing_type_systems_as_macros) - [Implementing Type Systems as Macros](https://lambdaland.org/posts/2023-08-14_types_with_macros/)
 * [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
 * [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-15, 10:13:36](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/lkpxbs/what_are_you_doing_this_weekend)
