@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 16:40:41](https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code) - [Buggy code is biased code](https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/)
+* [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
 * [2024-11-16, 14:52:31](https://lobste.rs/s/msnvss/duckdb_optimizers_low_key_mvp) - [DuckDB Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
 * [2024-11-16, 14:51:49](https://lobste.rs/s/3hi8xa/making_robots_plan_faster_with_simd_rust) - [Making robots plan faster with SIMD and Rust](https://claytonwramsey.com/blog/captree)
 * [2024-11-16, 14:50:49](https://lobste.rs/s/bqt4fu/superc_parsing_all_c_by_taming) - [SuperC: parsing all of C by taming the preprocessor](https://paulgazzillo.com/papers/pldi12.pdf)
