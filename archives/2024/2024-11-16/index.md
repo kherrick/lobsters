@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-16](index.md)
 
+* [2024-11-16, 22:05:12](https://lobste.rs/s/fns9re/on_micropayments) - [On Micropayments](https://sheep.horse/2024/11/on_micropayments.html)
+* [2024-11-16, 21:56:56](https://lobste.rs/s/03pfyt/any_python_program_fits_30_characters) - [Any Python program fits in 30 characters*](https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/)
 * [2024-11-16, 20:55:16](https://lobste.rs/s/h13645/secret_behind_valve_s_flickering_lights) - [The Secret Behind Valve's Flickering Lights](https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/)
 * [2024-11-16, 20:01:22](https://lobste.rs/s/1sd1q2/james_gleick_s_chaos_software) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos/)
 * [2024-11-16, 17:01:33](https://lobste.rs/s/67f56y/protecting_signal_keys_on_desktop) - [Protecting Signal Keys on Desktop](https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/)
