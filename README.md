@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-16, 10:54:16](https://lobste.rs/s/bz8nng/exploring_effect_typescript) - [Exploring Effect in TypeScript: Simplifying Async and Error Handling](https://www.tweag.io/blog/2024-11-07-typescript-effect/)
 * [2024-11-15, 23:22:30](https://lobste.rs/s/obifny/maybe_bluesky_has_won) - [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 20:43:13](https://lobste.rs/s/o7tlpa/huawei_develops_72tb_ssd_tape_hybrid) - [Huawei develops 72TB SSD-tape hybrid storage device](https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb)
 * [2024-11-15, 20:25:06](https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds) - [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
@@ -23,7 +24,6 @@
 * [2024-11-14, 20:38:13](https://lobste.rs/s/acfm29/cycling_while_typing) - [Cycling while typing](https://www.ohrg.org/cycling-typing)
 * [2024-11-14, 19:43:16](https://lobste.rs/s/qgfqw3/macos_tips) - [macOS Tips](https://blog.xoria.org/macos-tips/)
 * [2024-11-14, 18:16:02](https://lobste.rs/s/t63pem/we_re_finally_going_cloud) - [We’re (finally) going to the cloud](https://meta.stackexchange.com/questions/404231/we-re-finally-going-to-the-cloud)
-* [2024-11-14, 14:23:30](https://lobste.rs/s/wctarz/attestations_new_generation_signatures) - [Attestations: A new generation of signatures on PyPI](https://blog.trailofbits.com/2024/11/14/attestations-a-new-generation-of-signatures-on-pypi/)
 * [2024-11-14, 01:49:31](https://lobste.rs/s/pd11xy/momboard_e_ink_display_for_parent_with) - [MomBoard: E-ink display for a parent with amnesia](https://jan.miksovsky.com/posts/2024/11-12-momboard)
 
 ## [Archives](archives/index.md)

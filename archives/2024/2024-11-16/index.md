@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-11-16](index.md)
+
+* [2024-11-16, 10:54:16](https://lobste.rs/s/bz8nng/exploring_effect_typescript) - [Exploring Effect in TypeScript: Simplifying Async and Error Handling](https://www.tweag.io/blog/2024-11-07-typescript-effect/)
