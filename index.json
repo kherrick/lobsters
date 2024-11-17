@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-17, 18:42:07",
+      "https://lobste.rs/s/6bjmd3/ml_go_with_python_sidecar"
+    ],
+    [
+      "ML in Go with a Python sidecar",
+      "https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/"
+    ]
+  ],
+  [
+    [
       "2024-11-17, 16:53:00",
       "https://lobste.rs/s/nx7pgd/hyper_encryption_provably_unbreakable"
     ],
@@ -237,16 +247,6 @@
     [
       "What To Use Instead of PGP",
       "https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/"
-    ]
-  ],
-  [
-    [
-      "2024-11-15, 09:33:33",
-      "https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker"
-    ],
-    [
-      "Stop Making Me Memorize The Borrow Checker",
-      "https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/"
     ]
   ]
 ]
