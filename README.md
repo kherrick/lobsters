@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-17, 04:45:52](https://lobste.rs/s/wcjjyy/scan_on_freebsd) - [Scan on FreeBSD](https://vermaden.wordpress.com/2024/11/17/scan-on-freebsd/)
+* [2024-11-17, 04:43:08](https://lobste.rs/s/ritin8/going_little_further) - [Going a Little Further](https://edanparker.hashnode.dev/going-a-little-further)
 * [2024-11-17, 01:41:52](https://lobste.rs/s/znsaxo/one_parting_some_commodore_64_utilities) - [One-parting some Commodore 64 utilities for fun and profit](https://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
 * [2024-11-17, 00:27:25](https://lobste.rs/s/ttklux/shebanger_convert_shell_script_into) - [shebanger: Convert a shell script into a series of shebang lines](https://github.com/cdepillabout/shebanger)
 * [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
@@ -19,8 +21,6 @@
 * [2024-11-16, 10:54:16](https://lobste.rs/s/bz8nng/exploring_effect_typescript) - [Exploring Effect in TypeScript: Simplifying Async and Error Handling](https://www.tweag.io/blog/2024-11-07-typescript-effect/)
 * [2024-11-15, 23:22:30](https://lobste.rs/s/obifny/maybe_bluesky_has_won) - [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 20:43:13](https://lobste.rs/s/o7tlpa/huawei_develops_72tb_ssd_tape_hybrid) - [Huawei develops 72TB SSD-tape hybrid storage device](https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb)
-* [2024-11-15, 20:25:06](https://lobste.rs/s/rgcgev/retrofitting_spatial_safety_hundreds) - [Retrofitting spatial safety to hundreds of millions of lines of C++](https://security.googleblog.com/2024/11/retrofitting-spatial-safety-to-hundreds.html?m=1)
-* [2024-11-15, 19:08:41](https://lobste.rs/s/xkccev/memoriam_thomas_e_kurtz_co_inventor_basic) - [In Memoriam: Thomas E. Kurtz, co-inventor of BASIC, 1928–2024](https://computerhistory.org/blog/in-memoriam-thomas-e-kurtz-1928-2024/)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 * [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
 * [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
