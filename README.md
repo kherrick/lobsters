@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-17, 05:36:11](https://lobste.rs/s/6md8qv/tpm_backed_ssh_keys_on_windows_11) - [TPM-Backed SSH Keys on Windows 11](https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/)
 * [2024-11-17, 04:45:52](https://lobste.rs/s/wcjjyy/scan_on_freebsd) - [Scan on FreeBSD](https://vermaden.wordpress.com/2024/11/17/scan-on-freebsd/)
 * [2024-11-17, 04:43:08](https://lobste.rs/s/ritin8/going_little_further) - [Going a Little Further](https://edanparker.hashnode.dev/going-a-little-further)
 * [2024-11-17, 01:41:52](https://lobste.rs/s/znsaxo/one_parting_some_commodore_64_utilities) - [One-parting some Commodore 64 utilities for fun and profit](https://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
@@ -23,7 +24,6 @@
 * [2024-11-15, 20:43:13](https://lobste.rs/s/o7tlpa/huawei_develops_72tb_ssd_tape_hybrid) - [Huawei develops 72TB SSD-tape hybrid storage device](https://www.tomshardware.com/pc-components/storage/huawei-develops-ssd-tape-hybrid-storage-device-for-warm-and-cold-storage-first-gen-med-drive-holds-up-to-72tb)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
 * [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
-* [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 
 ## [Archives](archives/index.md)
