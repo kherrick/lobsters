@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-17, 13:16:39",
+      "https://lobste.rs/s/bfopp5/losing_nfs_locks_sunos_siglost_signal"
+    ],
+    [
+      "Losing NFS locks and the SunOS SIGLOST signal",
+      "https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST"
+    ]
+  ],
+  [
+    [
       "2024-11-17, 12:02:11",
       "https://lobste.rs/s/fki86o/cpython_s_garbage_collector_its_impact_on"
     ],
@@ -197,16 +207,6 @@
     [
       "Half-Life 2: 20th Anniversary Documentary",
       "https://www.youtube.com/watch?v=YCjNT9qGjh4"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 11:41:17",
-      "https://lobste.rs/s/jo8bqo/implementation_out_order_risc_v_vector"
-    ],
-    [
-      "Implementation of an Out-of-order RISC-V Vector Unit",
-      "https://www.youtube.com/watch?v=WzID6kk8RNs"
     ]
   ],
   [
