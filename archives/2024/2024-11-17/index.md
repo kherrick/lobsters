@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 09:02:50](https://lobste.rs/s/wdubql/design_products_won_t_become_obsolete) - [Design Products That Won’t Become Obsolete](https://hbr.org/2024/11/design-products-that-wont-become-obsolete)
 * [2024-11-17, 08:43:39](https://lobste.rs/s/xfniz2/making_healthy_healthchecks) - [Making healthy healthchecks](https://lorentz.app/blog-item.html?id=healthy-health-checks)
 * [2024-11-17, 06:31:54](https://lobste.rs/s/ptrr1a/ai_models_for_decompiling_assembly_code) - [AI Models for Decompiling Assembly Code](https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/)
 * [2024-11-17, 05:36:11](https://lobste.rs/s/6md8qv/tpm_backed_ssh_keys_on_windows_11) - [TPM-Backed SSH Keys on Windows 11](https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/)
