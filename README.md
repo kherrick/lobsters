@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-17, 18:56:48](https://lobste.rs/s/ui3ld4/mirror_llm_powered_programming_by) - [Mirror: An LLM-powered programming-by-example programming language](https://austinhenley.com/blog/mirrorlang.html)
 * [2024-11-17, 18:42:07](https://lobste.rs/s/6bjmd3/ml_go_with_python_sidecar) - [ML in Go with a Python sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 * [2024-11-17, 16:53:00](https://lobste.rs/s/nx7pgd/hyper_encryption_provably_unbreakable) - [Hyper-encryption [Provably unbreakable hyper-encryption in the limited access model]](https://en.wikipedia.org/wiki/Hyper-encryption)
 * [2024-11-17, 13:16:39](https://lobste.rs/s/bfopp5/losing_nfs_locks_sunos_siglost_signal) - [Losing NFS locks and the SunOS SIGLOST signal](https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST)
@@ -18,7 +19,6 @@
 * [2024-11-16, 17:01:33](https://lobste.rs/s/67f56y/protecting_signal_keys_on_desktop) - [Protecting Signal Keys on Desktop](https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/)
 * [2024-11-16, 16:40:41](https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code) - [Buggy code is biased code](https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/)
 * [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
-* [2024-11-16, 14:52:31](https://lobste.rs/s/msnvss/duckdb_optimizers_low_key_mvp) - [DuckDB Optimizers: The Low-Key MVP](https://duckdb.org/2024/11/14/optimizers.html)
 * [2024-11-16, 14:51:49](https://lobste.rs/s/3hi8xa/making_robots_plan_faster_with_simd_rust) - [Making robots plan faster with SIMD and Rust](https://claytonwramsey.com/blog/captree)
 * [2024-11-16, 14:50:49](https://lobste.rs/s/bqt4fu/superc_parsing_all_c_by_taming) - [SuperC: parsing all of C by taming the preprocessor](https://paulgazzillo.com/papers/pldi12.pdf)
 * [2024-11-16, 13:18:29](https://lobste.rs/s/3sua5c/half_life_2_20th_anniversary_documentary) - [Half-Life 2: 20th Anniversary Documentary](https://www.youtube.com/watch?v=YCjNT9qGjh4)

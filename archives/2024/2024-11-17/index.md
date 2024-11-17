@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 18:56:48](https://lobste.rs/s/ui3ld4/mirror_llm_powered_programming_by) - [Mirror: An LLM-powered programming-by-example programming language](https://austinhenley.com/blog/mirrorlang.html)
 * [2024-11-17, 18:42:07](https://lobste.rs/s/6bjmd3/ml_go_with_python_sidecar) - [ML in Go with a Python sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 * [2024-11-17, 16:53:00](https://lobste.rs/s/nx7pgd/hyper_encryption_provably_unbreakable) - [Hyper-encryption [Provably unbreakable hyper-encryption in the limited access model]](https://en.wikipedia.org/wiki/Hyper-encryption)
 * [2024-11-17, 13:16:39](https://lobste.rs/s/bfopp5/losing_nfs_locks_sunos_siglost_signal) - [Losing NFS locks and the SunOS SIGLOST signal](https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST)
