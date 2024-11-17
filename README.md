@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-17, 22:40:23](https://lobste.rs/s/5zaqqz/reverse_engineering_ios_18_inactivity) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 22:07:27](https://lobste.rs/s/yihdph/story_time_c_bounds_checking_performance) - [Story-time: C++, bounds checking, performance, and compilers](https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/)
 * [2024-11-17, 18:56:48](https://lobste.rs/s/ui3ld4/mirror_llm_powered_programming_by) - [Mirror: An LLM-powered programming-by-example programming language](https://austinhenley.com/blog/mirrorlang.html)
 * [2024-11-17, 18:42:07](https://lobste.rs/s/6bjmd3/ml_go_with_python_sidecar) - [ML in Go with a Python sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
-* [2024-11-17, 16:53:00](https://lobste.rs/s/nx7pgd/hyper_encryption_provably_unbreakable) - [Hyper-encryption [Provably unbreakable hyper-encryption in the limited access model]](https://en.wikipedia.org/wiki/Hyper-encryption)
 * [2024-11-17, 13:16:39](https://lobste.rs/s/bfopp5/losing_nfs_locks_sunos_siglost_signal) - [Losing NFS locks and the SunOS SIGLOST signal](https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST)
 * [2024-11-17, 12:02:11](https://lobste.rs/s/fki86o/cpython_s_garbage_collector_its_impact_on) - [CPython's Garbage Collector and its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-17, 08:43:39](https://lobste.rs/s/xfniz2/making_healthy_healthchecks) - [Making healthy healthchecks](https://lorentz.app/blog-item.html?id=healthy-health-checks)

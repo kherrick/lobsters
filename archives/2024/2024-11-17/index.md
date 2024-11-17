@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 22:40:23](https://lobste.rs/s/5zaqqz/reverse_engineering_ios_18_inactivity) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 22:07:27](https://lobste.rs/s/yihdph/story_time_c_bounds_checking_performance) - [Story-time: C++, bounds checking, performance, and compilers](https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/)
 * [2024-11-17, 22:02:29](https://lobste.rs/s/465uii/defense_efficient_inefficiency) - [In Defense of Efficient Inefficiency](https://depopulism.substack.com/p/in-defense-of-efficient-inefficiency)
 * [2024-11-17, 18:56:48](https://lobste.rs/s/ui3ld4/mirror_llm_powered_programming_by) - [Mirror: An LLM-powered programming-by-example programming language](https://austinhenley.com/blog/mirrorlang.html)
