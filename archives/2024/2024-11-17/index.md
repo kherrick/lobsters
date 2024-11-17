@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 12:02:11](https://lobste.rs/s/fki86o/cpython_s_garbage_collector_its_impact_on) - [CPython's Garbage Collector and its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-17, 09:02:50](https://lobste.rs/s/wdubql/design_products_won_t_become_obsolete) - [Design Products That Won’t Become Obsolete](https://hbr.org/2024/11/design-products-that-wont-become-obsolete)
 * [2024-11-17, 08:43:39](https://lobste.rs/s/xfniz2/making_healthy_healthchecks) - [Making healthy healthchecks](https://lorentz.app/blog-item.html?id=healthy-health-checks)
 * [2024-11-17, 06:31:54](https://lobste.rs/s/ptrr1a/ai_models_for_decompiling_assembly_code) - [AI Models for Decompiling Assembly Code](https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/)
