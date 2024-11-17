@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-17, 23:19:02](https://lobste.rs/s/7gicgp/styling_graphviz_with_css) - [Styling Graphviz with CSS](https://noncombatant.org/2024/11/16/styling-graphviz-with-css/index.html)
 * [2024-11-17, 22:40:23](https://lobste.rs/s/5zaqqz/reverse_engineering_ios_18_inactivity) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 22:07:27](https://lobste.rs/s/yihdph/story_time_c_bounds_checking_performance) - [Story-time: C++, bounds checking, performance, and compilers](https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/)
 * [2024-11-17, 18:56:48](https://lobste.rs/s/ui3ld4/mirror_llm_powered_programming_by) - [Mirror: An LLM-powered programming-by-example programming language](https://austinhenley.com/blog/mirrorlang.html)
@@ -21,7 +22,6 @@
 * [2024-11-16, 16:40:41](https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code) - [Buggy code is biased code](https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/)
 * [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
 * [2024-11-16, 14:51:49](https://lobste.rs/s/3hi8xa/making_robots_plan_faster_with_simd_rust) - [Making robots plan faster with SIMD and Rust](https://claytonwramsey.com/blog/captree)
-* [2024-11-16, 14:50:49](https://lobste.rs/s/bqt4fu/superc_parsing_all_c_by_taming) - [SuperC: parsing all of C by taming the preprocessor](https://paulgazzillo.com/papers/pldi12.pdf)
 * [2024-11-16, 13:18:29](https://lobste.rs/s/3sua5c/half_life_2_20th_anniversary_documentary) - [Half-Life 2: 20th Anniversary Documentary](https://www.youtube.com/watch?v=YCjNT9qGjh4)
 * [2024-11-15, 23:22:30](https://lobste.rs/s/obifny/maybe_bluesky_has_won) - [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
