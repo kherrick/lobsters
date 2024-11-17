@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-17, 18:42:07](https://lobste.rs/s/6bjmd3/ml_go_with_python_sidecar) - [ML in Go with a Python sidecar](https://eli.thegreenplace.net/2024/ml-in-go-with-a-python-sidecar/)
 * [2024-11-17, 16:53:00](https://lobste.rs/s/nx7pgd/hyper_encryption_provably_unbreakable) - [Hyper-encryption [Provably unbreakable hyper-encryption in the limited access model]](https://en.wikipedia.org/wiki/Hyper-encryption)
 * [2024-11-17, 13:16:39](https://lobste.rs/s/bfopp5/losing_nfs_locks_sunos_siglost_signal) - [Losing NFS locks and the SunOS SIGLOST signal](https://utcc.utoronto.ca/~cks/space/blog/unix/NFSLosingLocksAndSIGLOST)
 * [2024-11-17, 12:02:11](https://lobste.rs/s/fki86o/cpython_s_garbage_collector_its_impact_on) - [CPython's Garbage Collector and its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
@@ -24,7 +25,6 @@
 * [2024-11-16, 10:54:16](https://lobste.rs/s/bz8nng/exploring_effect_typescript) - [Exploring Effect in TypeScript: Simplifying Async and Error Handling](https://www.tweag.io/blog/2024-11-07-typescript-effect/)
 * [2024-11-15, 23:22:30](https://lobste.rs/s/obifny/maybe_bluesky_has_won) - [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 * [2024-11-15, 17:30:38](https://lobste.rs/s/6kfvtg/what_use_instead_pgp) - [What To Use Instead of PGP](https://soatok.blog/2024/11/15/what-to-use-instead-of-pgp/)
-* [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
 
 ## [Archives](archives/index.md)
 
