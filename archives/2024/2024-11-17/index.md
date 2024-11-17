@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-17](index.md)
 
+* [2024-11-17, 06:31:54](https://lobste.rs/s/ptrr1a/ai_models_for_decompiling_assembly_code) - [AI Models for Decompiling Assembly Code](https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/)
 * [2024-11-17, 05:36:11](https://lobste.rs/s/6md8qv/tpm_backed_ssh_keys_on_windows_11) - [TPM-Backed SSH Keys on Windows 11](https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/)
 * [2024-11-17, 04:45:52](https://lobste.rs/s/wcjjyy/scan_on_freebsd) - [Scan on FreeBSD](https://vermaden.wordpress.com/2024/11/17/scan-on-freebsd/)
 * [2024-11-17, 04:43:08](https://lobste.rs/s/ritin8/going_little_further) - [Going a Little Further](https://edanparker.hashnode.dev/going-a-little-further)
