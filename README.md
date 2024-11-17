@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-17, 01:41:52](https://lobste.rs/s/znsaxo/one_parting_some_commodore_64_utilities) - [One-parting some Commodore 64 utilities for fun and profit](https://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
 * [2024-11-17, 00:27:25](https://lobste.rs/s/ttklux/shebanger_convert_shell_script_into) - [shebanger: Convert a shell script into a series of shebang lines](https://github.com/cdepillabout/shebanger)
 * [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
 * [2024-11-16, 21:56:56](https://lobste.rs/s/03pfyt/any_python_program_fits_30_characters) - [Any Python program fits in 30 characters*](https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/)
@@ -24,7 +25,6 @@
 * [2024-11-15, 13:46:39](https://lobste.rs/s/qgr7hd/you_can_t_build_interactive_web_apps) - [You Can't Build Interactive Web Apps Except as Single Page Applications... And Other Myths](https://htmx.org/essays/you-cant/)
 * [2024-11-15, 10:39:25](https://lobste.rs/s/qbbo7o/announcing_prometheus_3_0) - [Announcing Prometheus 3.0](https://prometheus.io/blog/2024/11/14/prometheus-3-0/)
 * [2024-11-15, 09:33:33](https://lobste.rs/s/lefvgm/stop_making_me_memorize_borrow_checker) - [Stop Making Me Memorize The Borrow Checker](https://erikmcclure.com/blog/stop-making-me-memorize-borrow-checker/)
-* [2024-11-14, 23:18:09](https://lobste.rs/s/mecr9q/linux_desktop_for_family) - [A Linux Desktop for the family](https://chronicles.mad-scientist.club/tales/linux-desktop-for-the-family/)
 
 ## [Archives](archives/index.md)
 
