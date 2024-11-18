@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 15:47:20](https://lobste.rs/s/oslirq/why_did_windows_95_setup_use_three) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 * [2024-11-18, 15:38:10](https://lobste.rs/s/svtksn/it_s_time_replace_tcp_datacenter_2023) - [It’s Time to Replace TCP in the Datacenter (2023)](https://arxiv.org/pdf/2210.00714)
 * [2024-11-18, 14:24:50](https://lobste.rs/s/nv5e5g/knight_lore_rendering_algorithm) - [The Knight Lore rendering algorithm](https://retroports.blogspot.com/2016/02/the-fat-lady-hasnt-started-singing-just.html?m=1)
 * [2024-11-18, 14:22:40](https://lobste.rs/s/ei4byk/gleam_v1_6_0_released) - [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
