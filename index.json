@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-11-18, 16:29:12",
+      "https://lobste.rs/s/zj1ey4/anzu_castle_gracula"
+    ],
+    [
+      "Anzu Castle Gracula",
+      "https://store.steampowered.com/app/3125600/Anzu_Castle_Gracula/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 16:28:20",
+      "https://lobste.rs/s/8uxu2s/strengthening_freebsd_addressing"
+    ],
+    [
+      "Strengthening FreeBSD: Addressing Vulnerabilities Through Synacktiv’s Code Audit",
+      "https://freebsdfoundation.org/blog/strengthening-freebsd-addressing-vulnerabilities-through-synacktivs-code-audit/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 16:11:47",
+      "https://lobste.rs/s/3orteb/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/3orteb/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 15:57:19",
       "https://lobste.rs/s/4tc5lt/importing_frontend_javascript_library"
     ],
@@ -51,16 +81,6 @@
   ],
   [
     [
-      "2024-11-18, 14:05:22",
-      "https://lobste.rs/s/nd8lg4/announcing_augurs_time_series_toolkit"
-    ],
-    [
-      "Announcing augurs - a time series toolkit for Rust",
-      "https://sd2k.github.io/blog/announcing-augurs/"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 13:47:57",
       "https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web"
     ],
@@ -77,16 +97,6 @@
     [
       "Threads Beat Async/Await",
       "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 13:11:05",
-      "https://lobste.rs/s/uwsww7/nothing_up_my_sleeve_number"
-    ],
-    [
-      "Nothing-up-my-sleeve number",
-      "https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "n times faster than C, Arm edition",
       "https://blog.xoria.org/n-times-faster/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 07:59:35",
-      "https://lobste.rs/s/epl1v9/removing_global_state_from_lld"
-    ],
-    [
-      "Removing global state from LLD",
-      "https://maskray.me/blog/2024-11-17-removing-global-state-from-lld"
     ]
   ],
   [
