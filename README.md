@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 14:05:22](https://lobste.rs/s/nd8lg4/announcing_augurs_time_series_toolkit) - [Announcing augurs - a time series toolkit for Rust](https://sd2k.github.io/blog/announcing-augurs/)
 * [2024-11-18, 13:47:57](https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web) - [httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD](https://httpd.rocks)
 * [2024-11-18, 13:39:34](https://lobste.rs/s/hlz4kt/threads_beat_async_await) - [Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-18, 13:11:05](https://lobste.rs/s/uwsww7/nothing_up_my_sleeve_number) - [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
@@ -23,7 +24,6 @@
 * [2024-11-17, 12:02:11](https://lobste.rs/s/fki86o/cpython_s_garbage_collector_its_impact_on) - [CPython's Garbage Collector and its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-17, 08:43:39](https://lobste.rs/s/xfniz2/making_healthy_healthchecks) - [Making healthy healthchecks](https://lorentz.app/blog-item.html?id=healthy-health-checks)
 * [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
-* [2024-11-16, 21:56:56](https://lobste.rs/s/03pfyt/any_python_program_fits_30_characters) - [Any Python program fits in 30 characters*](https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/)
 * [2024-11-16, 20:55:16](https://lobste.rs/s/h13645/secret_behind_valve_s_flickering_lights) - [The Secret Behind Valve's Flickering Lights](https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/)
 
 ## [Archives](archives/index.md)
