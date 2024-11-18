@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 17:00:11](https://lobste.rs/s/0njluk/small_adventure_webassembly_things) - [A small adventure in WebAssembly @ Things Of Interest](https://qntm.org/wasm)
 * [2024-11-18, 16:47:22](https://lobste.rs/s/oueysg/joke_approximating_numbers_raised) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-18, 16:44:53](https://lobste.rs/s/tw8f63/security_means_securing_people_where) - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
 * [2024-11-18, 16:31:41](https://lobste.rs/s/kfw82m/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload 10x faster with (or without) Rayon](https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html)
-* [2024-11-18, 16:28:20](https://lobste.rs/s/8uxu2s/strengthening_freebsd_addressing) - [Strengthening FreeBSD: Addressing Vulnerabilities Through Synacktiv’s Code Audit](https://freebsdfoundation.org/blog/strengthening-freebsd-addressing-vulnerabilities-through-synacktivs-code-audit/)
 * [2024-11-18, 16:11:47](https://lobste.rs/s/3orteb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3orteb/what_are_you_doing_this_week)
 * [2024-11-18, 15:57:19](https://lobste.rs/s/4tc5lt/importing_frontend_javascript_library) - [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/)
 * [2024-11-18, 15:47:20](https://lobste.rs/s/oslirq/why_did_windows_95_setup_use_three) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
+* [2024-11-18, 15:38:10](https://lobste.rs/s/svtksn/it_s_time_replace_tcp_datacenter_2023) - [It’s Time to Replace TCP in the Datacenter (2023)](https://arxiv.org/pdf/2210.00714)
 * [2024-11-18, 14:24:50](https://lobste.rs/s/nv5e5g/knight_lore_rendering_algorithm) - [The Knight Lore rendering algorithm](https://retroports.blogspot.com/2016/02/the-fat-lady-hasnt-started-singing-just.html?m=1)
 * [2024-11-18, 14:22:40](https://lobste.rs/s/ei4byk/gleam_v1_6_0_released) - [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
 * [2024-11-18, 13:47:57](https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web) - [httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD](https://httpd.rocks)
@@ -24,7 +25,6 @@
 * [2024-11-17, 22:40:23](https://lobste.rs/s/5zaqqz/reverse_engineering_ios_18_inactivity) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 22:07:27](https://lobste.rs/s/yihdph/story_time_c_bounds_checking_performance) - [Story-time: C++, bounds checking, performance, and compilers](https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/)
 * [2024-11-17, 18:56:48](https://lobste.rs/s/ui3ld4/mirror_llm_powered_programming_by) - [Mirror: An LLM-powered programming-by-example programming language](https://austinhenley.com/blog/mirrorlang.html)
-* [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
 
 ## [Archives](archives/index.md)
 
