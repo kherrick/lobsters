@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 09:05:29](https://lobste.rs/s/omx1xh/gotraceui) - [Gotraceui](https://gotraceui.dev/)
 * [2024-11-18, 08:20:43](https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition) - [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
 * [2024-11-18, 07:59:35](https://lobste.rs/s/epl1v9/removing_global_state_from_lld) - [Removing global state from LLD](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
@@ -23,7 +24,6 @@
 * [2024-11-16, 21:56:56](https://lobste.rs/s/03pfyt/any_python_program_fits_30_characters) - [Any Python program fits in 30 characters*](https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/)
 * [2024-11-16, 20:55:16](https://lobste.rs/s/h13645/secret_behind_valve_s_flickering_lights) - [The Secret Behind Valve's Flickering Lights](https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/)
 * [2024-11-16, 17:01:33](https://lobste.rs/s/67f56y/protecting_signal_keys_on_desktop) - [Protecting Signal Keys on Desktop](https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/)
-* [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
 * [2024-11-16, 13:18:29](https://lobste.rs/s/3sua5c/half_life_2_20th_anniversary_documentary) - [Half-Life 2: 20th Anniversary Documentary](https://www.youtube.com/watch?v=YCjNT9qGjh4)
 
 ## [Archives](archives/index.md)

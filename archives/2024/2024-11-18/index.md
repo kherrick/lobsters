@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 09:05:29](https://lobste.rs/s/omx1xh/gotraceui) - [Gotraceui](https://gotraceui.dev/)
 * [2024-11-18, 08:20:43](https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition) - [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
 * [2024-11-18, 07:59:35](https://lobste.rs/s/epl1v9/removing_global_state_from_lld) - [Removing global state from LLD](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
