@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 16:47:22](https://lobste.rs/s/oueysg/joke_approximating_numbers_raised) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
+* [2024-11-18, 16:44:53](https://lobste.rs/s/tw8f63/security_means_securing_people_where) - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
+* [2024-11-18, 16:31:41](https://lobste.rs/s/kfw82m/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload 10x faster with (or without) Rayon](https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html)
 * [2024-11-18, 16:29:12](https://lobste.rs/s/zj1ey4/anzu_castle_gracula) - [Anzu Castle Gracula](https://store.steampowered.com/app/3125600/Anzu_Castle_Gracula/)
 * [2024-11-18, 16:28:20](https://lobste.rs/s/8uxu2s/strengthening_freebsd_addressing) - [Strengthening FreeBSD: Addressing Vulnerabilities Through Synacktiv’s Code Audit](https://freebsdfoundation.org/blog/strengthening-freebsd-addressing-vulnerabilities-through-synacktivs-code-audit/)
 * [2024-11-18, 16:11:47](https://lobste.rs/s/3orteb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3orteb/what_are_you_doing_this_week)
