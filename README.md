@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 22:27:08](https://lobste.rs/s/wygwvl/introducing_djangover) - [Introducing DjangoVer](https://www.b-list.org/weblog/2024/nov/18/djangover/)
 * [2024-11-18, 21:23:07](https://lobste.rs/s/afrd4y/adding_apple_s_globe_key_qmk_powered) - [Adding Apple's Globe key to a QMK-powered keyboard](https://skip.house/blog/qmk-globe-key)
 * [2024-11-18, 21:08:00](https://lobste.rs/s/z8tcky/build_your_own_sqlite_rust_part_3_sql) - [Build your own SQLite in Rust, Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
 * [2024-11-18, 17:20:45](https://lobste.rs/s/48hf8s/what_if_kubernetes_was_compiler_target) - [What if Kubernetes was a Compiler Target?](https://www.youtube.com/watch?v=QcYsGytNBe8)
-* [2024-11-18, 16:47:22](https://lobste.rs/s/oueysg/joke_approximating_numbers_raised) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-18, 16:44:53](https://lobste.rs/s/tw8f63/security_means_securing_people_where) - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
 * [2024-11-18, 16:11:47](https://lobste.rs/s/3orteb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3orteb/what_are_you_doing_this_week)
 * [2024-11-18, 15:57:19](https://lobste.rs/s/4tc5lt/importing_frontend_javascript_library) - [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/)
