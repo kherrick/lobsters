@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 13:11:05](https://lobste.rs/s/uwsww7/nothing_up_my_sleeve_number) - [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
 * [2024-11-18, 12:45:00](https://lobste.rs/s/onoy2s/against_best_practices) - [Against best practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 12:18:25](https://lobste.rs/s/eukyts/walk_with_luajit) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 12:12:19](https://lobste.rs/s/yjebyc/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
