@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-18, 08:20:43",
+      "https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition"
+    ],
+    [
+      "n times faster than C, Arm edition",
+      "https://blog.xoria.org/n-times-faster/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 07:59:35",
+      "https://lobste.rs/s/epl1v9/removing_global_state_from_lld"
+    ],
+    [
+      "Removing global state from LLD",
+      "https://maskray.me/blog/2024-11-17-removing-global-state-from-lld"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 05:45:30",
       "https://lobste.rs/s/8ljooi/nat_is_inevitable_even_with_ipv6"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2024-11-17, 04:45:52",
-      "https://lobste.rs/s/wcjjyy/scan_on_freebsd"
-    ],
-    [
-      "Scan on FreeBSD",
-      "https://vermaden.wordpress.com/2024/11/17/scan-on-freebsd/"
-    ]
-  ],
-  [
-    [
       "2024-11-17, 04:43:08",
       "https://lobste.rs/s/ritin8/going_little_further"
     ],
@@ -217,16 +227,6 @@
     [
       "Protecting Signal Keys on Desktop",
       "https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 16:40:41",
-      "https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code"
-    ],
-    [
-      "Buggy code is biased code",
-      "https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/"
     ]
   ],
   [
