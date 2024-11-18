@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-18, 21:23:07",
-      "https://lobste.rs/s/afrd4y/adding_apple_s_globe_key_qmk_powered"
-    ],
-    [
-      "Adding Apple's Globe key to a QMK-powered keyboard",
-      "https://skip.house/blog/qmk-globe-key"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 21:08:00",
       "https://lobste.rs/s/z8tcky/build_your_own_sqlite_rust_part_3_sql"
     ],
@@ -197,6 +187,16 @@
     [
       "n times faster than C, Arm edition",
       "https://blog.xoria.org/n-times-faster/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 05:45:30",
+      "https://lobste.rs/s/8ljooi/nat_is_inevitable_even_with_ipv6"
+    ],
+    [
+      "NAT is inevitable even with IPv6",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT"
     ]
   ],
   [
