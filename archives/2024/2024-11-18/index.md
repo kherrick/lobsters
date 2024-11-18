@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 12:45:00](https://lobste.rs/s/onoy2s/against_best_practices) - [Against best practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 12:18:25](https://lobste.rs/s/eukyts/walk_with_luajit) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 12:12:19](https://lobste.rs/s/yjebyc/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
 * [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)

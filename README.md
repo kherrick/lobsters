@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 12:45:00](https://lobste.rs/s/onoy2s/against_best_practices) - [Against best practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 12:18:25](https://lobste.rs/s/eukyts/walk_with_luajit) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 12:12:19](https://lobste.rs/s/yjebyc/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
 * [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
@@ -19,7 +20,6 @@
 * [2024-11-17, 12:02:11](https://lobste.rs/s/fki86o/cpython_s_garbage_collector_its_impact_on) - [CPython's Garbage Collector and its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-17, 08:43:39](https://lobste.rs/s/xfniz2/making_healthy_healthchecks) - [Making healthy healthchecks](https://lorentz.app/blog-item.html?id=healthy-health-checks)
 * [2024-11-17, 06:31:54](https://lobste.rs/s/ptrr1a/ai_models_for_decompiling_assembly_code) - [AI Models for Decompiling Assembly Code](https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/)
-* [2024-11-17, 05:36:11](https://lobste.rs/s/6md8qv/tpm_backed_ssh_keys_on_windows_11) - [TPM-Backed SSH Keys on Windows 11](https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/)
 * [2024-11-17, 04:43:08](https://lobste.rs/s/ritin8/going_little_further) - [Going a Little Further](https://edanparker.hashnode.dev/going-a-little-further)
 * [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
 * [2024-11-16, 21:56:56](https://lobste.rs/s/03pfyt/any_python_program_fits_30_characters) - [Any Python program fits in 30 characters*](https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/)
