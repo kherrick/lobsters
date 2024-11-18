@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 21:23:07](https://lobste.rs/s/afrd4y/adding_apple_s_globe_key_qmk_powered) - [Adding Apple's Globe key to a QMK-powered keyboard](https://skip.house/blog/qmk-globe-key)
 * [2024-11-18, 21:08:00](https://lobste.rs/s/z8tcky/build_your_own_sqlite_rust_part_3_sql) - [Build your own SQLite in Rust, Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
 * [2024-11-18, 17:32:58](https://lobste.rs/s/s9qfge/wounded_qr_codes_2012) - [Wounded QR codes (2012)](http://www.datagenetics.com/blog/november12013/index.html)
 * [2024-11-18, 17:20:45](https://lobste.rs/s/48hf8s/what_if_kubernetes_was_compiler_target) - [What if Kubernetes was a Compiler Target?](https://www.youtube.com/watch?v=QcYsGytNBe8)
