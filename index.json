@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-18, 13:47:57",
+      "https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web"
+    ],
+    [
+      "httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD",
+      "https://httpd.rocks"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 13:39:34",
       "https://lobste.rs/s/hlz4kt/threads_beat_async_await"
     ],
@@ -207,16 +217,6 @@
     [
       "Making healthy healthchecks",
       "https://lorentz.app/blog-item.html?id=healthy-health-checks"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 04:43:08",
-      "https://lobste.rs/s/ritin8/going_little_further"
-    ],
-    [
-      "Going a Little Further",
-      "https://edanparker.hashnode.dev/going-a-little-further"
     ]
   ],
   [
