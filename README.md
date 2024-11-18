@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 15:38:10](https://lobste.rs/s/svtksn/it_s_time_replace_tcp_datacenter_2023) - [It’s Time to Replace TCP in the Datacenter (2023)](https://arxiv.org/pdf/2210.00714)
 * [2024-11-18, 14:24:50](https://lobste.rs/s/nv5e5g/knight_lore_rendering_algorithm) - [The Knight Lore rendering algorithm](https://retroports.blogspot.com/2016/02/the-fat-lady-hasnt-started-singing-just.html?m=1)
 * [2024-11-18, 14:22:40](https://lobste.rs/s/ei4byk/gleam_v1_6_0_released) - [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
 * [2024-11-18, 14:05:22](https://lobste.rs/s/nd8lg4/announcing_augurs_time_series_toolkit) - [Announcing augurs - a time series toolkit for Rust](https://sd2k.github.io/blog/announcing-augurs/)
@@ -24,7 +25,6 @@
 * [2024-11-17, 12:02:11](https://lobste.rs/s/fki86o/cpython_s_garbage_collector_its_impact_on) - [CPython's Garbage Collector and its Impact on Application Performance](https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals)
 * [2024-11-17, 08:43:39](https://lobste.rs/s/xfniz2/making_healthy_healthchecks) - [Making healthy healthchecks](https://lorentz.app/blog-item.html?id=healthy-health-checks)
 * [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
-* [2024-11-16, 20:55:16](https://lobste.rs/s/h13645/secret_behind_valve_s_flickering_lights) - [The Secret Behind Valve's Flickering Lights](https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/)
 
 ## [Archives](archives/index.md)
 
