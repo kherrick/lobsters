@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 14:24:50](https://lobste.rs/s/nv5e5g/knight_lore_rendering_algorithm) - [The Knight Lore rendering algorithm](https://retroports.blogspot.com/2016/02/the-fat-lady-hasnt-started-singing-just.html?m=1)
+* [2024-11-18, 14:22:40](https://lobste.rs/s/ei4byk/gleam_v1_6_0_released) - [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
 * [2024-11-18, 14:05:22](https://lobste.rs/s/nd8lg4/announcing_augurs_time_series_toolkit) - [Announcing augurs - a time series toolkit for Rust](https://sd2k.github.io/blog/announcing-augurs/)
 * [2024-11-18, 13:47:57](https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web) - [httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD](https://httpd.rocks)
 * [2024-11-18, 13:39:34](https://lobste.rs/s/hlz4kt/threads_beat_async_await) - [Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
