@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 16:29:12](https://lobste.rs/s/zj1ey4/anzu_castle_gracula) - [Anzu Castle Gracula](https://store.steampowered.com/app/3125600/Anzu_Castle_Gracula/)
+* [2024-11-18, 16:28:20](https://lobste.rs/s/8uxu2s/strengthening_freebsd_addressing) - [Strengthening FreeBSD: Addressing Vulnerabilities Through Synacktiv’s Code Audit](https://freebsdfoundation.org/blog/strengthening-freebsd-addressing-vulnerabilities-through-synacktivs-code-audit/)
+* [2024-11-18, 16:11:47](https://lobste.rs/s/3orteb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3orteb/what_are_you_doing_this_week)
 * [2024-11-18, 15:57:19](https://lobste.rs/s/4tc5lt/importing_frontend_javascript_library) - [Importing a frontend Javascript library without a build system](https://jvns.ca/blog/2024/11/18/how-to-import-a-javascript-library/)
 * [2024-11-18, 15:47:20](https://lobste.rs/s/oslirq/why_did_windows_95_setup_use_three) - [Why did Windows 95 setup use three operating systems?](https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507)
 * [2024-11-18, 15:38:10](https://lobste.rs/s/svtksn/it_s_time_replace_tcp_datacenter_2023) - [It’s Time to Replace TCP in the Datacenter (2023)](https://arxiv.org/pdf/2210.00714)
