@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-18, 15:47:20",
+      "https://lobste.rs/s/oslirq/why_did_windows_95_setup_use_three"
+    ],
+    [
+      "Why did Windows 95 setup use three operating systems?",
+      "https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 15:38:10",
       "https://lobste.rs/s/svtksn/it_s_time_replace_tcp_datacenter_2023"
     ],
@@ -227,16 +237,6 @@
     [
       "CPython's Garbage Collector and its Impact on Application Performance",
       "https://blog.codingconfessions.com/p/connecting-cpythons-gc-internals"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 08:43:39",
-      "https://lobste.rs/s/xfniz2/making_healthy_healthchecks"
-    ],
-    [
-      "Making healthy healthchecks",
-      "https://lorentz.app/blog-item.html?id=healthy-health-checks"
     ]
   ],
   [
