@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-18, 12:18:25",
+      "https://lobste.rs/s/eukyts/walk_with_luajit"
+    ],
+    [
+      "A Walk with LuaJIT",
+      "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 12:12:19",
+      "https://lobste.rs/s/yjebyc/chawan_tui_web_browser"
+    ],
+    [
+      "chawan: TUI Web Browser",
+      "https://sr.ht/~bptato/chawan/"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 10:17:02",
       "https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-11-17, 00:27:25",
-      "https://lobste.rs/s/ttklux/shebanger_convert_shell_script_into"
-    ],
-    [
-      "shebanger: Convert a shell script into a series of shebang lines",
-      "https://github.com/cdepillabout/shebanger"
-    ]
-  ],
-  [
-    [
       "2024-11-16, 23:36:55",
       "https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release"
     ],
@@ -227,16 +237,6 @@
     [
       "The Secret Behind Valve's Flickering Lights",
       "https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 17:01:33",
-      "https://lobste.rs/s/67f56y/protecting_signal_keys_on_desktop"
-    ],
-    [
-      "Protecting Signal Keys on Desktop",
-      "https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/"
     ]
   ],
   [
