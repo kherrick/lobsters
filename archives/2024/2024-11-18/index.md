@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 13:47:57](https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web) - [httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD](https://httpd.rocks)
 * [2024-11-18, 13:39:34](https://lobste.rs/s/hlz4kt/threads_beat_async_await) - [Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-18, 13:11:05](https://lobste.rs/s/uwsww7/nothing_up_my_sleeve_number) - [Nothing-up-my-sleeve number](https://en.wikipedia.org/wiki/Nothing-up-my-sleeve_number)
 * [2024-11-18, 12:45:00](https://lobste.rs/s/onoy2s/against_best_practices) - [Against best practices](https://www.arp242.net/best-practices.html)
