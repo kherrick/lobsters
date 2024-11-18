@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-18, 12:45:00",
+      "https://lobste.rs/s/onoy2s/against_best_practices"
+    ],
+    [
+      "Against best practices",
+      "https://www.arp242.net/best-practices.html"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 12:18:25",
       "https://lobste.rs/s/eukyts/walk_with_luajit"
     ],
@@ -187,16 +197,6 @@
     [
       "AI Models for Decompiling Assembly Code",
       "https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 05:36:11",
-      "https://lobste.rs/s/6md8qv/tpm_backed_ssh_keys_on_windows_11"
-    ],
-    [
-      "TPM-Backed SSH Keys on Windows 11",
-      "https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/"
     ]
   ],
   [
