@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 01:14:34](https://lobste.rs/s/iqjj2g/traceroute_isn_t_real) - [Traceroute isn't real](https://gekk.info/articles/traceroute.htm)
 * [2024-11-17, 23:19:02](https://lobste.rs/s/7gicgp/styling_graphviz_with_css) - [Styling Graphviz with CSS](https://noncombatant.org/2024/11/16/styling-graphviz-with-css/index.html)
 * [2024-11-17, 22:40:23](https://lobste.rs/s/5zaqqz/reverse_engineering_ios_18_inactivity) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 22:07:27](https://lobste.rs/s/yihdph/story_time_c_bounds_checking_performance) - [Story-time: C++, bounds checking, performance, and compilers](https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/)
@@ -17,7 +18,6 @@
 * [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
 * [2024-11-16, 21:56:56](https://lobste.rs/s/03pfyt/any_python_program_fits_30_characters) - [Any Python program fits in 30 characters*](https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/)
 * [2024-11-16, 20:55:16](https://lobste.rs/s/h13645/secret_behind_valve_s_flickering_lights) - [The Secret Behind Valve's Flickering Lights](https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/)
-* [2024-11-16, 20:01:22](https://lobste.rs/s/1sd1q2/james_gleick_s_chaos_software) - [James Gleick's Chaos: The Software](https://github.com/rudyrucker/chaos/)
 * [2024-11-16, 17:01:33](https://lobste.rs/s/67f56y/protecting_signal_keys_on_desktop) - [Protecting Signal Keys on Desktop](https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/)
 * [2024-11-16, 16:40:41](https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code) - [Buggy code is biased code](https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/)
 * [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
