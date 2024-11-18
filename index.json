@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-18, 15:38:10",
+      "https://lobste.rs/s/svtksn/it_s_time_replace_tcp_datacenter_2023"
+    ],
+    [
+      "It’s Time to Replace TCP in the Datacenter (2023)",
+      "https://arxiv.org/pdf/2210.00714"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 14:24:50",
       "https://lobste.rs/s/nv5e5g/knight_lore_rendering_algorithm"
     ],
@@ -237,16 +247,6 @@
     [
       "VictoriaLogs v1.0.0 release",
       "https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs"
-    ]
-  ],
-  [
-    [
-      "2024-11-16, 20:55:16",
-      "https://lobste.rs/s/h13645/secret_behind_valve_s_flickering_lights"
-    ],
-    [
-      "The Secret Behind Valve's Flickering Lights",
-      "https://www.alanzucconi.com/2021/06/15/valve-flickering-lights/"
     ]
   ]
 ]
