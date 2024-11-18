@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 05:45:30](https://lobste.rs/s/8ljooi/nat_is_inevitable_even_with_ipv6) - [NAT is inevitable even with IPv6](https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT)
 * [2024-11-18, 05:11:44](https://lobste.rs/s/ywo4bd/chatgpt_is_slipping) - [ChatGPT is Slipping](https://adriano.fyi/posts/chatgpt-is-slipping/)
 * [2024-11-18, 03:23:05](https://lobste.rs/s/elcjqa/missing_text_focused_programming) - [The missing text focused programming environment](https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment)
 * [2024-11-18, 01:14:34](https://lobste.rs/s/iqjj2g/traceroute_isn_t_real) - [Traceroute isn't real](https://gekk.info/articles/traceroute.htm)
@@ -23,7 +24,6 @@
 * [2024-11-16, 17:01:33](https://lobste.rs/s/67f56y/protecting_signal_keys_on_desktop) - [Protecting Signal Keys on Desktop](https://cryptographycaffe.sandboxaq.com/posts/protecting-signal-desktop-keys/)
 * [2024-11-16, 16:40:41](https://lobste.rs/s/ia3zp4/buggy_code_is_biased_code) - [Buggy code is biased code](https://www.johndcook.com/blog/2010/10/19/buggy-simulation-code-is-biased/)
 * [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
-* [2024-11-16, 14:51:49](https://lobste.rs/s/3hi8xa/making_robots_plan_faster_with_simd_rust) - [Making robots plan faster with SIMD and Rust](https://claytonwramsey.com/blog/captree)
 * [2024-11-16, 13:18:29](https://lobste.rs/s/3sua5c/half_life_2_20th_anniversary_documentary) - [Half-Life 2: 20th Anniversary Documentary](https://www.youtube.com/watch?v=YCjNT9qGjh4)
 
 ## [Archives](archives/index.md)
