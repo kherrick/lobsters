@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 05:11:44](https://lobste.rs/s/ywo4bd/chatgpt_is_slipping) - [ChatGPT is Slipping](https://adriano.fyi/posts/chatgpt-is-slipping/)
 * [2024-11-18, 03:23:05](https://lobste.rs/s/elcjqa/missing_text_focused_programming) - [The missing text focused programming environment](https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment)
 * [2024-11-18, 01:14:34](https://lobste.rs/s/iqjj2g/traceroute_isn_t_real) - [Traceroute isn't real](https://gekk.info/articles/traceroute.htm)
 * [2024-11-17, 23:19:02](https://lobste.rs/s/7gicgp/styling_graphviz_with_css) - [Styling Graphviz with CSS](https://noncombatant.org/2024/11/16/styling-graphviz-with-css/index.html)
@@ -24,7 +25,6 @@
 * [2024-11-16, 16:28:57](https://lobste.rs/s/zbjnlh/incremental_builds_nix_garnix) - [Incremental builds in Nix and garnix](https://garnix.io/blog/incremental-builds)
 * [2024-11-16, 14:51:49](https://lobste.rs/s/3hi8xa/making_robots_plan_faster_with_simd_rust) - [Making robots plan faster with SIMD and Rust](https://claytonwramsey.com/blog/captree)
 * [2024-11-16, 13:18:29](https://lobste.rs/s/3sua5c/half_life_2_20th_anniversary_documentary) - [Half-Life 2: 20th Anniversary Documentary](https://www.youtube.com/watch?v=YCjNT9qGjh4)
-* [2024-11-15, 23:22:30](https://lobste.rs/s/obifny/maybe_bluesky_has_won) - [Maybe Bluesky has “won”](https://anderegg.ca/2024/11/15/maybe-bluesky-has-won)
 
 ## [Archives](archives/index.md)
 
