@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-11-18, 16:29:12",
-      "https://lobste.rs/s/zj1ey4/anzu_castle_gracula"
+      "2024-11-18, 16:47:22",
+      "https://lobste.rs/s/oueysg/joke_approximating_numbers_raised"
     ],
     [
-      "Anzu Castle Gracula",
-      "https://store.steampowered.com/app/3125600/Anzu_Castle_Gracula/"
+      "A joke in approximating numbers raised to irrational powers",
+      "https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 16:44:53",
+      "https://lobste.rs/s/tw8f63/security_means_securing_people_where"
+    ],
+    [
+      "Security means securing people where they are",
+      "https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 16:31:41",
+      "https://lobste.rs/s/kfw82m/optimization_adventures_making"
+    ],
+    [
+      "Optimization adventures: making a parallel Rust workload 10x faster with (or without) Rayon",
+      "https://gendignoux.com/blog/2024/11/18/rust-rayon-optimized.html"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Why did Windows 95 setup use three operating systems?",
       "https://devblogs.microsoft.com/oldnewthing/20241112-00/?p=110507"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 15:38:10",
-      "https://lobste.rs/s/svtksn/it_s_time_replace_tcp_datacenter_2023"
-    ],
-    [
-      "It’s Time to Replace TCP in the Datacenter (2023)",
-      "https://arxiv.org/pdf/2210.00714"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Traceroute isn't real",
       "https://gekk.info/articles/traceroute.htm"
-    ]
-  ],
-  [
-    [
-      "2024-11-17, 23:19:02",
-      "https://lobste.rs/s/7gicgp/styling_graphviz_with_css"
-    ],
-    [
-      "Styling Graphviz with CSS",
-      "https://noncombatant.org/2024/11/16/styling-graphviz-with-css/index.html"
     ]
   ],
   [
