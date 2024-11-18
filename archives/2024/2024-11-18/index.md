@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-18](index.md)
 
+* [2024-11-18, 23:12:12](https://lobste.rs/s/np9wdm/re_your_application_environment) - [RE: your application environment variables](https://edoput.it/2024/11/18/your-application-environment-variables.html)
 * [2024-11-18, 22:27:08](https://lobste.rs/s/wygwvl/introducing_djangover) - [Introducing DjangoVer](https://www.b-list.org/weblog/2024/nov/18/djangover/)
+* [2024-11-18, 21:45:46](https://lobste.rs/s/0kkzze/bandwidth_is_now_solvable_problem) - [[...] Bandwidth [...] is now a solvable problem](https://queue.acm.org/detail.cfm?id=3674953)
 * [2024-11-18, 21:23:07](https://lobste.rs/s/afrd4y/adding_apple_s_globe_key_qmk_powered) - [Adding Apple's Globe key to a QMK-powered keyboard](https://skip.house/blog/qmk-globe-key)
 * [2024-11-18, 21:08:00](https://lobste.rs/s/z8tcky/build_your_own_sqlite_rust_part_3_sql) - [Build your own SQLite in Rust, Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
 * [2024-11-18, 17:32:58](https://lobste.rs/s/s9qfge/wounded_qr_codes_2012) - [Wounded QR codes (2012)](http://www.datagenetics.com/blog/november12013/index.html)
