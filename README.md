@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 09:05:29](https://lobste.rs/s/omx1xh/gotraceui) - [Gotraceui](https://gotraceui.dev/)
 * [2024-11-18, 08:20:43](https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition) - [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
 * [2024-11-18, 07:59:35](https://lobste.rs/s/epl1v9/removing_global_state_from_lld) - [Removing global state from LLD](https://maskray.me/blog/2024-11-17-removing-global-state-from-lld)
 * [2024-11-18, 05:45:30](https://lobste.rs/s/8ljooi/nat_is_inevitable_even_with_ipv6) - [NAT is inevitable even with IPv6](https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT)
@@ -17,7 +18,6 @@
 * [2024-11-17, 06:31:54](https://lobste.rs/s/ptrr1a/ai_models_for_decompiling_assembly_code) - [AI Models for Decompiling Assembly Code](https://blog.reveng.ai/training-an-llm-to-decompile-assembly-code/)
 * [2024-11-17, 05:36:11](https://lobste.rs/s/6md8qv/tpm_backed_ssh_keys_on_windows_11) - [TPM-Backed SSH Keys on Windows 11](https://cedwards.xyz/tpm-backed-ssh-keys-on-windows-11/)
 * [2024-11-17, 04:43:08](https://lobste.rs/s/ritin8/going_little_further) - [Going a Little Further](https://edanparker.hashnode.dev/going-a-little-further)
-* [2024-11-17, 01:41:52](https://lobste.rs/s/znsaxo/one_parting_some_commodore_64_utilities) - [One-parting some Commodore 64 utilities for fun and profit](https://oldvcr.blogspot.com/2024/11/one-parting-some-commodore-64-utilities.html)
 * [2024-11-17, 00:27:25](https://lobste.rs/s/ttklux/shebanger_convert_shell_script_into) - [shebanger: Convert a shell script into a series of shebang lines](https://github.com/cdepillabout/shebanger)
 * [2024-11-16, 23:36:55](https://lobste.rs/s/l6zetl/victorialogs_v1_0_0_release) - [VictoriaLogs v1.0.0 release](https://github.com/VictoriaMetrics/VictoriaMetrics/releases/tag/v1.0.0-victorialogs)
 * [2024-11-16, 21:56:56](https://lobste.rs/s/03pfyt/any_python_program_fits_30_characters) - [Any Python program fits in 30 characters*](https://purplesyringa.moe/blog/any-python-program-fits-in-30-characters/)
