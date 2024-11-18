@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-18, 17:32:58](https://lobste.rs/s/s9qfge/wounded_qr_codes_2012) - [Wounded QR codes (2012)](http://www.datagenetics.com/blog/november12013/index.html)
 * [2024-11-18, 17:20:45](https://lobste.rs/s/48hf8s/what_if_kubernetes_was_compiler_target) - [What if Kubernetes was a Compiler Target?](https://www.youtube.com/watch?v=QcYsGytNBe8)
 * [2024-11-18, 16:47:22](https://lobste.rs/s/oueysg/joke_approximating_numbers_raised) - [A joke in approximating numbers raised to irrational powers](https://www.andreinc.net/2024/11/18/a-function-to-approximate-raising-small-numbers-to-small-irrational-powers)
 * [2024-11-18, 16:44:53](https://lobste.rs/s/tw8f63/security_means_securing_people_where) - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
@@ -15,14 +16,13 @@
 * [2024-11-18, 12:45:00](https://lobste.rs/s/onoy2s/against_best_practices) - [Against best practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 12:18:25](https://lobste.rs/s/eukyts/walk_with_luajit) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 12:12:19](https://lobste.rs/s/yjebyc/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
-* [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
+* [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 09:05:29](https://lobste.rs/s/omx1xh/gotraceui) - [Gotraceui](https://gotraceui.dev/)
 * [2024-11-18, 08:20:43](https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition) - [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
 * [2024-11-18, 05:45:30](https://lobste.rs/s/8ljooi/nat_is_inevitable_even_with_ipv6) - [NAT is inevitable even with IPv6](https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT)
 * [2024-11-18, 05:11:44](https://lobste.rs/s/ywo4bd/chatgpt_is_slipping) - [ChatGPT is Slipping](https://adriano.fyi/posts/chatgpt-is-slipping/)
 * [2024-11-18, 03:23:05](https://lobste.rs/s/elcjqa/missing_text_focused_programming) - [The missing text focused programming environment](https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment)
 * [2024-11-18, 01:14:34](https://lobste.rs/s/iqjj2g/traceroute_isn_t_real) - [Traceroute isn't real](https://gekk.info/articles/traceroute.htm)
-* [2024-11-17, 22:40:23](https://lobste.rs/s/5zaqqz/reverse_engineering_ios_18_inactivity) - [Reverse Engineering iOS 18 Inactivity Reboot](https://naehrdine.blogspot.com/2024/11/reverse-engineering-ios-18-inactivity.html)
 * [2024-11-17, 22:07:27](https://lobste.rs/s/yihdph/story_time_c_bounds_checking_performance) - [Story-time: C++, bounds checking, performance, and compilers](https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/)
 * [2024-11-17, 18:56:48](https://lobste.rs/s/ui3ld4/mirror_llm_powered_programming_by) - [Mirror: An LLM-powered programming-by-example programming language](https://austinhenley.com/blog/mirrorlang.html)
 
