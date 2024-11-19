@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-19, 14:18:48](https://lobste.rs/s/fdsjvq/how_xbow_found_scoold_authentication) - [How XBOW found a Scoold authentication bypass](https://xbow.com/blog/xbow-scoold-vuln/)
 * [2024-11-19, 13:51:10](https://lobste.rs/s/ick85c/how_we_prevent_conflicts_authoritative) - [How we prevent conflicts in authoritative DNS configuration using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2024-11-19, 13:12:11](https://lobste.rs/s/uyoeoi/released_eslint_plugin_perfectionist_v4) - [Released ESLint Plugin Perfectionist v4.0.0](https://github.com/azat-io/eslint-plugin-perfectionist)
 * [2024-11-19, 12:29:07](https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail) - [Running web browsers in a FreeBSD jail](https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/)
@@ -24,7 +25,6 @@
 * [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 08:20:43](https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition) - [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
 * [2024-11-18, 05:11:44](https://lobste.rs/s/ywo4bd/chatgpt_is_slipping) - [ChatGPT is Slipping](https://adriano.fyi/posts/chatgpt-is-slipping/)
-* [2024-11-18, 03:23:05](https://lobste.rs/s/elcjqa/missing_text_focused_programming) - [The missing text focused programming environment](https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment)
 
 ## [Archives](archives/index.md)
 
