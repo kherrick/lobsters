@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-11-19, 00:11:32",
+      "https://lobste.rs/s/eiul50/local_optimizations_don_t_lead_global"
+    ],
+    [
+      "Local Optimizations Don't Lead to Global Optimums",
+      "https://ferd.ca/local-optimizations-don-t-lead-to-global-optimums.html"
+    ]
+  ],
+  [
+    [
       "2024-11-18, 23:12:12",
       "https://lobste.rs/s/np9wdm/re_your_application_environment"
     ],
@@ -67,16 +77,6 @@
     [
       "Build your own SQLite in Rust, Part 3: SQL parsing 101",
       "https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 20:48:46",
-      "https://lobste.rs/s/numxvi/traits_are_local_maximum"
-    ],
-    [
-      "Traits are a Local Maximum",
-      "https://thunderseethe.dev/posts/traits-are-a-local-maxima/"
     ]
   ],
   [
