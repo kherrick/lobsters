@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-19, 14:34:37](https://lobste.rs/s/5ly2oz/prequel_sql_is_sequel) - [The Prequel to SQL is SEQUEL](https://buttondown.com/jaffray/archive/the-prequel-to-sql-is-sequel/)
 * [2024-11-19, 14:18:48](https://lobste.rs/s/fdsjvq/how_xbow_found_scoold_authentication) - [How XBOW found a Scoold authentication bypass](https://xbow.com/blog/xbow-scoold-vuln/)
 * [2024-11-19, 13:51:10](https://lobste.rs/s/ick85c/how_we_prevent_conflicts_authoritative) - [How we prevent conflicts in authoritative DNS configuration using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2024-11-19, 13:12:11](https://lobste.rs/s/uyoeoi/released_eslint_plugin_perfectionist_v4) - [Released ESLint Plugin Perfectionist v4.0.0](https://github.com/azat-io/eslint-plugin-perfectionist)
@@ -12,7 +13,6 @@
 * [2024-11-19, 01:03:00](https://lobste.rs/s/dkplme/how_bbc_navigation_bar_component_broke) - [How a BBC navigation bar component broke depending on which external monitor it was on](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
 * [2024-11-19, 00:58:58](https://lobste.rs/s/o4cao8/raylib_v5_5) - [raylib v5.5](https://github.com/raysan5/raylib/discussions/4503)
 * [2024-11-19, 00:13:57](https://lobste.rs/s/olzipj/how_many_values_does_boolean_have_2020) - [How Many Values Does a Boolean Have? (2020)](https://danilafe.com/blog/boolean_values/)
-* [2024-11-18, 21:45:46](https://lobste.rs/s/0kkzze/bandwidth_is_now_solvable_problem) - [[...] Bandwidth [...] is now a solvable problem](https://queue.acm.org/detail.cfm?id=3674953)
 * [2024-11-18, 21:23:07](https://lobste.rs/s/afrd4y/adding_apple_s_globe_key_qmk_powered) - [Adding Apple's Globe key to a QMK-powered keyboard](https://skip.house/blog/qmk-globe-key)
 * [2024-11-18, 21:08:00](https://lobste.rs/s/z8tcky/build_your_own_sqlite_rust_part_3_sql) - [Build your own SQLite in Rust, Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
 * [2024-11-18, 17:20:45](https://lobste.rs/s/48hf8s/what_if_kubernetes_was_compiler_target) - [What if Kubernetes was a Compiler Target?](https://www.youtube.com/watch?v=QcYsGytNBe8)
