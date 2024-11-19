@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-19, 18:17:31",
+      "https://lobste.rs/s/bnvbca/reading_generalized_isolation_level"
+    ],
+    [
+      "Reading the Generalized Isolation Level Definitions paper with Alloy",
+      "https://surfingcomplexity.blog/2024/11/18/reading-the-generalized-isolation-level-definitions-paper-with-alloy/"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 18:08:48",
+      "https://lobste.rs/s/bpfsyf/hyrum_s_law_golang"
+    ],
+    [
+      "Hyrum's Law in Golang",
+      "https://abenezer.org/blog/hyrum-law-in-golang"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 17:20:51",
       "https://lobste.rs/s/rawcyg/on_safe_c"
     ],
@@ -67,16 +87,6 @@
     [
       "The Prequel to SQL is SEQUEL",
       "https://buttondown.com/jaffray/archive/the-prequel-to-sql-is-sequel/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 13:51:10",
-      "https://lobste.rs/s/ick85c/how_we_prevent_conflicts_authoritative"
-    ],
-    [
-      "How we prevent conflicts in authoritative DNS configuration using formal verification",
-      "https://blog.cloudflare.com/topaz-policy-engine-design/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "I was banned from the hCaptcha accessibility account for not being blind (2023)",
       "https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 08:20:43",
-      "https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition"
-    ],
-    [
-      "n times faster than C, Arm edition",
-      "https://blog.xoria.org/n-times-faster/"
     ]
   ]
 ]
