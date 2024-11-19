@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2024-11-18, 15:38:10",
-      "https://lobste.rs/s/svtksn/it_s_time_replace_tcp_datacenter_2023"
-    ],
-    [
-      "It’s Time to Replace TCP in the Datacenter (2023)",
-      "https://arxiv.org/pdf/2210.00714"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 14:22:40",
       "https://lobste.rs/s/ei4byk/gleam_v1_6_0_released"
     ],
@@ -217,6 +207,16 @@
     [
       "n times faster than C, Arm edition",
       "https://blog.xoria.org/n-times-faster/"
+    ]
+  ],
+  [
+    [
+      "2024-11-18, 05:45:30",
+      "https://lobste.rs/s/8ljooi/nat_is_inevitable_even_with_ipv6"
+    ],
+    [
+      "NAT is inevitable even with IPv6",
+      "https://utcc.utoronto.ca/~cks/space/blog/tech/IPv6AndStillHavingNAT"
     ]
   ],
   [
