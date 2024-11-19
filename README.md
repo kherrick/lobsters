@@ -2,6 +2,7 @@
 
 * [2024-11-19, 00:58:58](https://lobste.rs/s/o4cao8/raylib_v5_5) - [raylib v5.5](https://github.com/raysan5/raylib/discussions/4503)
 * [2024-11-19, 00:13:57](https://lobste.rs/s/olzipj/how_many_values_does_boolean_have_2020) - [How Many Values Does a Boolean Have? (2020)](https://danilafe.com/blog/boolean_values/)
+* [2024-11-18, 23:12:12](https://lobste.rs/s/np9wdm/re_your_application_environment) - [RE: your application environment variables](https://edoput.it/2024/11/18/your-application-environment-variables.html)
 * [2024-11-18, 22:27:08](https://lobste.rs/s/wygwvl/introducing_djangover) - [Introducing DjangoVer](https://www.b-list.org/weblog/2024/nov/18/djangover/)
 * [2024-11-18, 21:45:46](https://lobste.rs/s/0kkzze/bandwidth_is_now_solvable_problem) - [[...] Bandwidth [...] is now a solvable problem](https://queue.acm.org/detail.cfm?id=3674953)
 * [2024-11-18, 21:23:07](https://lobste.rs/s/afrd4y/adding_apple_s_globe_key_qmk_powered) - [Adding Apple's Globe key to a QMK-powered keyboard](https://skip.house/blog/qmk-globe-key)
@@ -16,7 +17,6 @@
 * [2024-11-18, 14:22:40](https://lobste.rs/s/ei4byk/gleam_v1_6_0_released) - [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
 * [2024-11-18, 13:47:57](https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web) - [httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD](https://httpd.rocks)
 * [2024-11-18, 13:39:34](https://lobste.rs/s/hlz4kt/threads_beat_async_await) - [Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
-* [2024-11-18, 12:45:00](https://lobste.rs/s/onoy2s/against_best_practices) - [Against best practices](https://www.arp242.net/best-practices.html)
 * [2024-11-18, 12:18:25](https://lobste.rs/s/eukyts/walk_with_luajit) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 12:12:19](https://lobste.rs/s/yjebyc/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
 * [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
