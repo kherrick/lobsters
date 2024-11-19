@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 16:28:28](https://lobste.rs/s/ovbb1u/understanding_bm25_full_text_search) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
+* [2024-11-19, 16:15:01](https://lobste.rs/s/i5xnsj/testing_with_go_postgresql_ephemeral_dbs) - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/)
 * [2024-11-19, 15:37:56](https://lobste.rs/s/bsdz1n/survey_protocol_fuzzing) - [A Survey of Protocol Fuzzing](https://arxiv.org/abs/2401.01568)
 * [2024-11-19, 14:59:12](https://lobste.rs/s/fxjcuf/what_expect_from_chicken_6) - [What to expect from CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html)
 * [2024-11-19, 14:50:22](https://lobste.rs/s/w6urua/obtaining_statistical_properties) - [Obtaining statistical properties through modeling and simulation](https://jack-vanlightly.com/blog/2024/11/19/obtaining-statistical-properties-through-modeling-and-simulation)
