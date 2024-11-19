@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-19, 21:42:49](https://lobste.rs/s/xalc4i/go_sync_once_is_simple_does_it_really) - [Go sync.Once is Simple... Does It Really?](https://victoriametrics.com/blog/go-sync-once/)
 * [2024-11-19, 20:54:00](https://lobste.rs/s/b2vubm/how_use_common_lisp_on_nixos_with_c) - [How to use Common Lisp on NixOS with C libraries](https://honza.pokorny.ca/2024/11/how-to-use-common-lisp-on-nixos-with-c-libraries/)
 * [2024-11-19, 20:38:06](https://lobste.rs/s/p5gpeq/original_chipwits_forth_code_open) - [Original ChipWits FORTH Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-19, 20:29:00](https://lobste.rs/s/tphwxi/blogging_through_decades) - [Blogging through the decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
 * [2024-11-19, 19:02:03](https://lobste.rs/s/2jxble/loop_targets) - [Loop targets](https://nedbatchelder.com/blog/202411/loop_targets.html)
 * [2024-11-19, 18:08:48](https://lobste.rs/s/bpfsyf/hyrum_s_law_golang) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-19, 17:20:51](https://lobste.rs/s/rawcyg/on_safe_c) - [On \"Safe\" C++](https://izzys.casa/2024/11/on-safe-cxx/)
-* [2024-11-19, 16:42:41](https://lobste.rs/s/tjfdnb/display_kms_meeting_at_xdc_2024_detailed) - [Display/KMS Meeting at XDC 2024: Detailed Report](https://melissawen.github.io/blog/2024/11/19/summary-display-kms-meeting-xdc2024)
 * [2024-11-19, 16:28:28](https://lobste.rs/s/ovbb1u/understanding_bm25_full_text_search) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-19, 16:15:01](https://lobste.rs/s/i5xnsj/testing_with_go_postgresql_ephemeral_dbs) - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/)
 * [2024-11-19, 14:59:12](https://lobste.rs/s/fxjcuf/what_expect_from_chicken_6) - [What to expect from CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html)
