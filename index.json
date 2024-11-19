@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-19, 13:12:11",
+      "https://lobste.rs/s/uyoeoi/released_eslint_plugin_perfectionist_v4"
+    ],
+    [
+      "Released ESLint Plugin Perfectionist v4.0.0",
+      "https://github.com/azat-io/eslint-plugin-perfectionist"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 12:29:07",
       "https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail"
     ],
@@ -187,16 +197,6 @@
     [
       "Threads Beat Async/Await",
       "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 12:18:25",
-      "https://lobste.rs/s/eukyts/walk_with_luajit"
-    ],
-    [
-      "A Walk with LuaJIT",
-      "https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding"
     ]
   ],
   [
