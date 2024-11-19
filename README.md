@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-19, 14:50:22](https://lobste.rs/s/w6urua/obtaining_statistical_properties) - [Obtaining statistical properties through modeling and simulation](https://jack-vanlightly.com/blog/2024/11/19/obtaining-statistical-properties-through-modeling-and-simulation)
 * [2024-11-19, 14:34:37](https://lobste.rs/s/5ly2oz/prequel_sql_is_sequel) - [The Prequel to SQL is SEQUEL](https://buttondown.com/jaffray/archive/the-prequel-to-sql-is-sequel/)
 * [2024-11-19, 14:18:48](https://lobste.rs/s/fdsjvq/how_xbow_found_scoold_authentication) - [How XBOW found a Scoold authentication bypass](https://xbow.com/blog/xbow-scoold-vuln/)
 * [2024-11-19, 13:51:10](https://lobste.rs/s/ick85c/how_we_prevent_conflicts_authoritative) - [How we prevent conflicts in authoritative DNS configuration using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2024-11-19, 13:12:11](https://lobste.rs/s/uyoeoi/released_eslint_plugin_perfectionist_v4) - [Released ESLint Plugin Perfectionist v4.0.0](https://github.com/azat-io/eslint-plugin-perfectionist)
-* [2024-11-19, 12:29:07](https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail) - [Running web browsers in a FreeBSD jail](https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/)
 * [2024-11-19, 12:23:06](https://lobste.rs/s/vsbhpu/unreachable_hidden_xkcd_easter_egg) - [An Unreachable Hidden XKCD Easter Egg inside CPython](https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg)
 * [2024-11-19, 12:05:04](https://lobste.rs/s/1clp2n/netflix_simian_army) - [The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
 * [2024-11-19, 11:23:27](https://lobste.rs/s/gye8ww/paged_out_issue_5) - [Paged Out! Issue #5](https://pagedout.institute/?page=issues.php)
