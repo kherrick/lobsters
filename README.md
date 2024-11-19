@@ -10,6 +10,7 @@
 * [2024-11-18, 21:45:46](https://lobste.rs/s/0kkzze/bandwidth_is_now_solvable_problem) - [[...] Bandwidth [...] is now a solvable problem](https://queue.acm.org/detail.cfm?id=3674953)
 * [2024-11-18, 21:23:07](https://lobste.rs/s/afrd4y/adding_apple_s_globe_key_qmk_powered) - [Adding Apple's Globe key to a QMK-powered keyboard](https://skip.house/blog/qmk-globe-key)
 * [2024-11-18, 21:08:00](https://lobste.rs/s/z8tcky/build_your_own_sqlite_rust_part_3_sql) - [Build your own SQLite in Rust, Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
+* [2024-11-18, 20:48:46](https://lobste.rs/s/numxvi/traits_are_local_maximum) - [Traits are a Local Maximum](https://thunderseethe.dev/posts/traits-are-a-local-maxima/)
 * [2024-11-18, 17:20:45](https://lobste.rs/s/48hf8s/what_if_kubernetes_was_compiler_target) - [What if Kubernetes was a Compiler Target?](https://www.youtube.com/watch?v=QcYsGytNBe8)
 * [2024-11-18, 16:44:53](https://lobste.rs/s/tw8f63/security_means_securing_people_where) - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
 * [2024-11-18, 16:11:47](https://lobste.rs/s/3orteb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3orteb/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2024-11-18, 08:20:43](https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition) - [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
 * [2024-11-18, 05:11:44](https://lobste.rs/s/ywo4bd/chatgpt_is_slipping) - [ChatGPT is Slipping](https://adriano.fyi/posts/chatgpt-is-slipping/)
 * [2024-11-18, 03:23:05](https://lobste.rs/s/elcjqa/missing_text_focused_programming) - [The missing text focused programming environment](https://utcc.utoronto.ca/~cks/space/blog/programming/MissingTextProgrammingEnvironment)
-* [2024-11-17, 22:07:27](https://lobste.rs/s/yihdph/story_time_c_bounds_checking_performance) - [Story-time: C++, bounds checking, performance, and compilers](https://chandlerc.blog/posts/2024/11/story-time-bounds-checking/)
 
 ## [Archives](archives/index.md)
 
