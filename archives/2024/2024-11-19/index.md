@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 13:51:10](https://lobste.rs/s/ick85c/how_we_prevent_conflicts_authoritative) - [How we prevent conflicts in authoritative DNS configuration using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2024-11-19, 13:12:11](https://lobste.rs/s/uyoeoi/released_eslint_plugin_perfectionist_v4) - [Released ESLint Plugin Perfectionist v4.0.0](https://github.com/azat-io/eslint-plugin-perfectionist)
 * [2024-11-19, 12:29:07](https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail) - [Running web browsers in a FreeBSD jail](https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/)
 * [2024-11-19, 12:23:06](https://lobste.rs/s/vsbhpu/unreachable_hidden_xkcd_easter_egg) - [An Unreachable Hidden XKCD Easter Egg inside CPython](https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg)
