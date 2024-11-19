@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 14:59:12](https://lobste.rs/s/fxjcuf/what_expect_from_chicken_6) - [What to expect from CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html)
 * [2024-11-19, 14:50:22](https://lobste.rs/s/w6urua/obtaining_statistical_properties) - [Obtaining statistical properties through modeling and simulation](https://jack-vanlightly.com/blog/2024/11/19/obtaining-statistical-properties-through-modeling-and-simulation)
 * [2024-11-19, 14:34:37](https://lobste.rs/s/5ly2oz/prequel_sql_is_sequel) - [The Prequel to SQL is SEQUEL](https://buttondown.com/jaffray/archive/the-prequel-to-sql-is-sequel/)
 * [2024-11-19, 14:18:48](https://lobste.rs/s/fdsjvq/how_xbow_found_scoold_authentication) - [How XBOW found a Scoold authentication bypass](https://xbow.com/blog/xbow-scoold-vuln/)
