@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-19, 13:12:11](https://lobste.rs/s/uyoeoi/released_eslint_plugin_perfectionist_v4) - [Released ESLint Plugin Perfectionist v4.0.0](https://github.com/azat-io/eslint-plugin-perfectionist)
 * [2024-11-19, 12:29:07](https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail) - [Running web browsers in a FreeBSD jail](https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/)
 * [2024-11-19, 12:23:06](https://lobste.rs/s/vsbhpu/unreachable_hidden_xkcd_easter_egg) - [An Unreachable Hidden XKCD Easter Egg inside CPython](https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg)
 * [2024-11-19, 12:05:04](https://lobste.rs/s/1clp2n/netflix_simian_army) - [The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
@@ -19,7 +20,6 @@
 * [2024-11-18, 14:22:40](https://lobste.rs/s/ei4byk/gleam_v1_6_0_released) - [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
 * [2024-11-18, 13:47:57](https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web) - [httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD](https://httpd.rocks)
 * [2024-11-18, 13:39:34](https://lobste.rs/s/hlz4kt/threads_beat_async_await) - [Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
-* [2024-11-18, 12:18:25](https://lobste.rs/s/eukyts/walk_with_luajit) - [A Walk with LuaJIT](https://www.polarsignals.com/blog/posts/2024/11/13/lua-unwinding)
 * [2024-11-18, 12:12:19](https://lobste.rs/s/yjebyc/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/~bptato/chawan/)
 * [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 * [2024-11-18, 08:20:43](https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition) - [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
