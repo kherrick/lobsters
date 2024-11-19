@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-19, 18:17:31](https://lobste.rs/s/bnvbca/reading_generalized_isolation_level) - [Reading the Generalized Isolation Level Definitions paper with Alloy](https://surfingcomplexity.blog/2024/11/18/reading-the-generalized-isolation-level-definitions-paper-with-alloy/)
+* [2024-11-19, 18:08:48](https://lobste.rs/s/bpfsyf/hyrum_s_law_golang) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-19, 17:20:51](https://lobste.rs/s/rawcyg/on_safe_c) - [On \"Safe\" C++](https://izzys.casa/2024/11/on-safe-cxx/)
 * [2024-11-19, 16:42:41](https://lobste.rs/s/tjfdnb/display_kms_meeting_at_xdc_2024_detailed) - [Display/KMS Meeting at XDC 2024: Detailed Report](https://melissawen.github.io/blog/2024/11/19/summary-display-kms-meeting-xdc2024)
 * [2024-11-19, 16:28:28](https://lobste.rs/s/ovbb1u/understanding_bm25_full_text_search) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
@@ -7,7 +9,6 @@
 * [2024-11-19, 14:59:12](https://lobste.rs/s/fxjcuf/what_expect_from_chicken_6) - [What to expect from CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html)
 * [2024-11-19, 14:50:22](https://lobste.rs/s/w6urua/obtaining_statistical_properties) - [Obtaining statistical properties through modeling and simulation](https://jack-vanlightly.com/blog/2024/11/19/obtaining-statistical-properties-through-modeling-and-simulation)
 * [2024-11-19, 14:34:37](https://lobste.rs/s/5ly2oz/prequel_sql_is_sequel) - [The Prequel to SQL is SEQUEL](https://buttondown.com/jaffray/archive/the-prequel-to-sql-is-sequel/)
-* [2024-11-19, 13:51:10](https://lobste.rs/s/ick85c/how_we_prevent_conflicts_authoritative) - [How we prevent conflicts in authoritative DNS configuration using formal verification](https://blog.cloudflare.com/topaz-policy-engine-design/)
 * [2024-11-19, 12:29:07](https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail) - [Running web browsers in a FreeBSD jail](https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/)
 * [2024-11-19, 12:23:06](https://lobste.rs/s/vsbhpu/unreachable_hidden_xkcd_easter_egg) - [An Unreachable Hidden XKCD Easter Egg inside CPython](https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg)
 * [2024-11-19, 09:21:53](https://lobste.rs/s/1xnw8x/harmful_practices_considered_best) - [Harmful Practices Considered Best](https://zakhary.dev/blog/considered-harmful)
@@ -24,7 +25,6 @@
 * [2024-11-18, 13:47:57](https://lobste.rs/s/ac9ytu/httpd_rocks_setup_https_enabled_web) - [httpd.rocks - Setup an HTTPS-enabled web-server with httpd on OpenBSD](https://httpd.rocks)
 * [2024-11-18, 13:39:34](https://lobste.rs/s/hlz4kt/threads_beat_async_await) - [Threads Beat Async/Await](https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/)
 * [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
-* [2024-11-18, 08:20:43](https://lobste.rs/s/jye9gi/n_times_faster_than_c_arm_edition) - [n times faster than C, Arm edition](https://blog.xoria.org/n-times-faster/)
 
 ## [Archives](archives/index.md)
 

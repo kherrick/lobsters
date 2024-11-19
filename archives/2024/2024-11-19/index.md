@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 18:17:31](https://lobste.rs/s/bnvbca/reading_generalized_isolation_level) - [Reading the Generalized Isolation Level Definitions paper with Alloy](https://surfingcomplexity.blog/2024/11/18/reading-the-generalized-isolation-level-definitions-paper-with-alloy/)
+* [2024-11-19, 18:08:48](https://lobste.rs/s/bpfsyf/hyrum_s_law_golang) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-19, 17:20:51](https://lobste.rs/s/rawcyg/on_safe_c) - [On \"Safe\" C++](https://izzys.casa/2024/11/on-safe-cxx/)
 * [2024-11-19, 16:42:41](https://lobste.rs/s/tjfdnb/display_kms_meeting_at_xdc_2024_detailed) - [Display/KMS Meeting at XDC 2024: Detailed Report](https://melissawen.github.io/blog/2024/11/19/summary-display-kms-meeting-xdc2024)
 * [2024-11-19, 16:28:28](https://lobste.rs/s/ovbb1u/understanding_bm25_full_text_search) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
