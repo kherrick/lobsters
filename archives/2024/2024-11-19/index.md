@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 20:29:00](https://lobste.rs/s/tphwxi/blogging_through_decades) - [Blogging through the decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
 * [2024-11-19, 19:02:03](https://lobste.rs/s/2jxble/loop_targets) - [Loop targets](https://nedbatchelder.com/blog/202411/loop_targets.html)
 * [2024-11-19, 18:17:31](https://lobste.rs/s/bnvbca/reading_generalized_isolation_level) - [Reading the Generalized Isolation Level Definitions paper with Alloy](https://surfingcomplexity.blog/2024/11/18/reading-the-generalized-isolation-level-definitions-paper-with-alloy/)
 * [2024-11-19, 18:08:48](https://lobste.rs/s/bpfsyf/hyrum_s_law_golang) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
