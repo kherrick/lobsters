@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 12:29:07](https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail) - [Running web browsers in a FreeBSD jail](https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/)
+* [2024-11-19, 12:23:06](https://lobste.rs/s/vsbhpu/unreachable_hidden_xkcd_easter_egg) - [An Unreachable Hidden XKCD Easter Egg inside CPython](https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg)
+* [2024-11-19, 12:05:04](https://lobste.rs/s/1clp2n/netflix_simian_army) - [The Netflix Simian Army](https://netflixtechblog.com/the-netflix-simian-army-16e57fbab116)
 * [2024-11-19, 11:23:27](https://lobste.rs/s/gye8ww/paged_out_issue_5) - [Paged Out! Issue #5](https://pagedout.institute/?page=issues.php)
 * [2024-11-19, 10:49:42](https://lobste.rs/s/xvu316/internet_desperate_protagonists) - [An Internet of Desperate Protagonists](https://nadim.computer/posts/2024-11-18-misguided.html)
 * [2024-11-19, 09:21:53](https://lobste.rs/s/1xnw8x/harmful_practices_considered_best) - [Harmful Practices Considered Best](https://zakhary.dev/blog/considered-harmful)
