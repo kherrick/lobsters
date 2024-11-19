@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-19, 10:49:42](https://lobste.rs/s/xvu316/internet_desperate_protagonists) - [An Internet of Desperate Protagonists](https://nadim.computer/posts/2024-11-18-misguided.html)
 * [2024-11-19, 09:21:53](https://lobste.rs/s/1xnw8x/harmful_practices_considered_best) - [Harmful Practices Considered Best](https://zakhary.dev/blog/considered-harmful)
 * [2024-11-19, 09:16:45](https://lobste.rs/s/i29fpn/paged_out_5_hacker_zine_release) - [Paged Out! #5 - hacker zine release](https://pagedout.institute/download/PagedOut_005.pdf)
 * [2024-11-19, 01:03:00](https://lobste.rs/s/dkplme/how_bbc_navigation_bar_component_broke) - [How a BBC navigation bar component broke depending on which external monitor it was on](https://www.joshtumath.uk/posts/2024-11-08-how-a-bbc-navigation-bar-component-broke-depending-on-which-external-monitor-it-was-on/)
@@ -10,7 +11,6 @@
 * [2024-11-18, 21:45:46](https://lobste.rs/s/0kkzze/bandwidth_is_now_solvable_problem) - [[...] Bandwidth [...] is now a solvable problem](https://queue.acm.org/detail.cfm?id=3674953)
 * [2024-11-18, 21:23:07](https://lobste.rs/s/afrd4y/adding_apple_s_globe_key_qmk_powered) - [Adding Apple's Globe key to a QMK-powered keyboard](https://skip.house/blog/qmk-globe-key)
 * [2024-11-18, 21:08:00](https://lobste.rs/s/z8tcky/build_your_own_sqlite_rust_part_3_sql) - [Build your own SQLite in Rust, Part 3: SQL parsing 101](https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101)
-* [2024-11-18, 20:48:46](https://lobste.rs/s/numxvi/traits_are_local_maximum) - [Traits are a Local Maximum](https://thunderseethe.dev/posts/traits-are-a-local-maxima/)
 * [2024-11-18, 17:20:45](https://lobste.rs/s/48hf8s/what_if_kubernetes_was_compiler_target) - [What if Kubernetes was a Compiler Target?](https://www.youtube.com/watch?v=QcYsGytNBe8)
 * [2024-11-18, 16:44:53](https://lobste.rs/s/tw8f63/security_means_securing_people_where) - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
 * [2024-11-18, 16:11:47](https://lobste.rs/s/3orteb/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/3orteb/what_are_you_doing_this_week)
