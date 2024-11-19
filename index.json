@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-19, 21:42:49",
+      "https://lobste.rs/s/xalc4i/go_sync_once_is_simple_does_it_really"
+    ],
+    [
+      "Go sync.Once is Simple... Does It Really?",
+      "https://victoriametrics.com/blog/go-sync-once/"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 20:54:00",
       "https://lobste.rs/s/b2vubm/how_use_common_lisp_on_nixos_with_c"
     ],
@@ -57,16 +67,6 @@
     [
       "On \"Safe\" C++",
       "https://izzys.casa/2024/11/on-safe-cxx/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 16:42:41",
-      "https://lobste.rs/s/tjfdnb/display_kms_meeting_at_xdc_2024_detailed"
-    ],
-    [
-      "Display/KMS Meeting at XDC 2024: Detailed Report",
-      "https://melissawen.github.io/blog/2024/11/19/summary-display-kms-meeting-xdc2024"
     ]
   ],
   [
