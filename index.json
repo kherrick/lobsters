@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-19, 17:20:51",
+      "https://lobste.rs/s/rawcyg/on_safe_c"
+    ],
+    [
+      "On \"Safe\" C++",
+      "https://izzys.casa/2024/11/on-safe-cxx/"
+    ]
+  ],
+  [
+    [
       "2024-11-19, 16:42:41",
       "https://lobste.rs/s/tjfdnb/display_kms_meeting_at_xdc_2024_detailed"
     ],
@@ -27,16 +37,6 @@
     [
       "Testing with Go and PostgreSQL: ephemeral DBs",
       "https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 15:37:56",
-      "https://lobste.rs/s/bsdz1n/survey_protocol_fuzzing"
-    ],
-    [
-      "A Survey of Protocol Fuzzing",
-      "https://arxiv.org/abs/2401.01568"
     ]
   ],
   [
