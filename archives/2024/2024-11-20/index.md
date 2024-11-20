@@ -9,6 +9,7 @@
 * [2024-11-20, 18:34:41](https://lobste.rs/s/tvgghj/does_internet_route_around_damage_baltic) - [Does the Internet Route Around Damage? - Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-20, 17:56:04](https://lobste.rs/s/jewlms/ban_tracking_personalised_advertising) - [Ban tracking and personalised advertising](https://www.ccc.de/en/updates/2024/tracking-verbot)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
+* [2024-11-20, 17:48:10](https://lobste.rs/s/dwvufi/freebee_at_t_unix_pc_emulator) - [FreeBee, an AT&T UNIX PC emulator](https://www.philpem.me.uk/code/3b1emu)
 * [2024-11-20, 17:29:23](https://lobste.rs/s/ck4brr/sql_homomorphisms_constraint) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
 * [2024-11-20, 16:23:37](https://lobste.rs/s/w5vg8n/using_grpc_for_local_inter_process) - [Using gRPC for (local) inter-process communication](https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/)
