@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 11:01:35](https://lobste.rs/s/o2xl17/ghosts_departed_proofs) - [Ghosts of Departed Proofs](https://iohk.io/en/research/library/papers/ghosts-of-departed-proofs-functional-pearls/)
 * [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
 * [2024-11-20, 09:18:20](https://lobste.rs/s/ekhclm/chatgpt_shell_goes_multi_model) - [chatgpt-shell goes multi-model](https://lmno.lol/alvaro/chatgpt-shell-goes-multi-model)
 * [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
@@ -9,7 +10,6 @@
 * [2024-11-20, 04:12:37](https://lobste.rs/s/kob7ma/decisions_dragons) - [Decisions & Dragons](https://www.decisionsanddragons.com/)
 * [2024-11-20, 02:48:58](https://lobste.rs/s/cbmzpv/nominal_for_storing_structural_for) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
 * [2024-11-20, 00:21:36](https://lobste.rs/s/xmgz3l/safety_unsafe_world) - [Safety in an Unsafe World](https://www.youtube.com/watch?v=Ba7fajt4l1M)
-* [2024-11-20, 00:18:37](https://lobste.rs/s/4vdb9z/smaller_than_pixel_art_sub_pixel_art) - [Smaller Than Pixel Art: Sub-Pixel Art](https://www.youtube.com/watch?v=SlS3FOmKUbE)
 * [2024-11-19, 21:42:49](https://lobste.rs/s/xalc4i/go_sync_once_is_simple_does_it_really) - [Go sync.Once is Simple... Does It Really?](https://victoriametrics.com/blog/go-sync-once/)
 * [2024-11-19, 20:54:00](https://lobste.rs/s/b2vubm/how_use_common_lisp_on_nixos_with_c) - [How to use Common Lisp on NixOS with C libraries](https://honza.pokorny.ca/2024/11/how-to-use-common-lisp-on-nixos-with-c-libraries/)
 * [2024-11-19, 20:38:06](https://lobste.rs/s/p5gpeq/original_chipwits_forth_code_open) - [Original ChipWits FORTH Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
