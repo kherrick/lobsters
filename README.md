@@ -2,9 +2,9 @@
 
 * [2024-11-20, 04:12:37](https://lobste.rs/s/kob7ma/decisions_dragons) - [Decisions & Dragons](https://www.decisionsanddragons.com/)
 * [2024-11-20, 03:03:29](https://lobste.rs/s/jjxxpq/esc_key_bug_games_with_cjk_imes) - [The Esc key bug in games with the CJK IMEs](https://ericswpark.com/blog/2024/2024-11-19-the-esc-key-bug-in-games-with-cjk-imes/)
+* [2024-11-20, 02:48:58](https://lobste.rs/s/cbmzpv/nominal_for_storing_structural_for) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
 * [2024-11-20, 00:21:36](https://lobste.rs/s/xmgz3l/safety_unsafe_world) - [Safety in an Unsafe World](https://www.youtube.com/watch?v=Ba7fajt4l1M)
 * [2024-11-20, 00:18:37](https://lobste.rs/s/4vdb9z/smaller_than_pixel_art_sub_pixel_art) - [Smaller Than Pixel Art: Sub-Pixel Art](https://www.youtube.com/watch?v=SlS3FOmKUbE)
-* [2024-11-19, 23:08:55](https://lobste.rs/s/qbrrer/overflow_clip) - [Overflow Clip](https://ishadeed.com/article/overflow-clip/)
 * [2024-11-19, 21:42:49](https://lobste.rs/s/xalc4i/go_sync_once_is_simple_does_it_really) - [Go sync.Once is Simple... Does It Really?](https://victoriametrics.com/blog/go-sync-once/)
 * [2024-11-19, 20:54:00](https://lobste.rs/s/b2vubm/how_use_common_lisp_on_nixos_with_c) - [How to use Common Lisp on NixOS with C libraries](https://honza.pokorny.ca/2024/11/how-to-use-common-lisp-on-nixos-with-c-libraries/)
 * [2024-11-19, 20:38:06](https://lobste.rs/s/p5gpeq/original_chipwits_forth_code_open) - [Original ChipWits FORTH Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
