@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-20, 03:03:29",
+      "https://lobste.rs/s/jjxxpq/esc_key_bug_games_with_cjk_imes"
+    ],
+    [
+      "The Esc key bug in games with the CJK IMEs",
+      "https://ericswpark.com/blog/2024/2024-11-19-the-esc-key-bug-in-games-with-cjk-imes/"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 02:48:58",
+      "https://lobste.rs/s/cbmzpv/nominal_for_storing_structural_for"
+    ],
+    [
+      "Nominal for Storing, Structural for Manipulating",
+      "https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 00:21:36",
       "https://lobste.rs/s/xmgz3l/safety_unsafe_world"
     ],
@@ -17,6 +37,16 @@
     [
       "Smaller Than Pixel Art: Sub-Pixel Art",
       "https://www.youtube.com/watch?v=SlS3FOmKUbE"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 23:08:55",
+      "https://lobste.rs/s/qbrrer/overflow_clip"
+    ],
+    [
+      "Overflow Clip",
+      "https://ishadeed.com/article/overflow-clip/"
     ]
   ],
   [
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-11-19, 00:58:58",
-      "https://lobste.rs/s/o4cao8/raylib_v5_5"
-    ],
-    [
-      "raylib v5.5",
-      "https://github.com/raysan5/raylib/discussions/4503"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 00:13:57",
       "https://lobste.rs/s/olzipj/how_many_values_does_boolean_have_2020"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-11-18, 21:08:00",
-      "https://lobste.rs/s/z8tcky/build_your_own_sqlite_rust_part_3_sql"
-    ],
-    [
-      "Build your own SQLite in Rust, Part 3: SQL parsing 101",
-      "https://blog.sylver.dev/build-your-own-sqlite-part-3-sql-parsing-101"
-    ]
-  ],
-  [
-    [
       "2024-11-18, 16:44:53",
       "https://lobste.rs/s/tw8f63/security_means_securing_people_where"
     ],
@@ -227,16 +237,6 @@
     [
       "Gleam v1.6.0 released",
       "https://gleam.run/news/context-aware-compilation/"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 13:39:34",
-      "https://lobste.rs/s/hlz4kt/threads_beat_async_await"
-    ],
-    [
-      "Threads Beat Async/Await",
-      "https://lucumr.pocoo.org/2024/11/18/threads-beat-async-await/"
     ]
   ],
   [
