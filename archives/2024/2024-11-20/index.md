@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 12:25:18](https://lobste.rs/s/pamogv/github_offering_security_tools_advice) - [GitHub offering security tools, advice to Open Source Projects](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/)
+* [2024-11-20, 12:09:36](https://lobste.rs/s/onhd7w/wavpack_s_roundtrip_advantage_over_flac) - [WavPack's roundtrip advantage over FLAC](https://dbohdan.com/wavpack)
 * [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
 * [2024-11-20, 11:01:35](https://lobste.rs/s/o2xl17/ghosts_departed_proofs) - [Ghosts of Departed Proofs](https://iohk.io/en/research/library/papers/ghosts-of-departed-proofs-functional-pearls/)
 * [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
