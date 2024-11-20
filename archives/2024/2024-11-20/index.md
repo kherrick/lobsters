@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
 * [2024-11-20, 11:01:35](https://lobste.rs/s/o2xl17/ghosts_departed_proofs) - [Ghosts of Departed Proofs](https://iohk.io/en/research/library/papers/ghosts-of-departed-proofs-functional-pearls/)
 * [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
 * [2024-11-20, 09:18:20](https://lobste.rs/s/ekhclm/chatgpt_shell_goes_multi_model) - [chatgpt-shell goes multi-model](https://lmno.lol/alvaro/chatgpt-shell-goes-multi-model)
