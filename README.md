@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 08:35:05](https://lobste.rs/s/vqjuui/for_love_go_don_t_be_bob) - [For the love of Go, Don't be a \"Bob!\"](https://www.retrotimepodcast.com/20-for-the-love-of-go-dont-be-a-bob-with-john-arundel/)
+* [2024-11-20, 08:28:14](https://lobste.rs/s/8okeos/loading_world_openstreetmap_import) - [Loading the World! OpenStreetMap Import In Under 4 Hours](https://www.crunchydata.com/blog/loading-the-world-openstreetmap-import-in-under-4-hours)
 * [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-20, 07:50:25](https://lobste.rs/s/stdvxh/spineless_traversal_for_layout) - [Spineless Traversal for Layout Invalidation](https://arxiv.org/pdf/2411.10659)
 * [2024-11-20, 07:12:59](https://lobste.rs/s/qhdfdg/webvm_virtual_machine_for_web) - [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
 * [2024-11-20, 06:45:31](https://lobste.rs/s/tlaaae/lush_my_favorite_small_programming) - [Lush: my favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
 * [2024-11-20, 04:12:37](https://lobste.rs/s/kob7ma/decisions_dragons) - [Decisions & Dragons](https://www.decisionsanddragons.com/)
-* [2024-11-20, 00:21:36](https://lobste.rs/s/xmgz3l/safety_unsafe_world) - [Safety in an Unsafe World](https://www.youtube.com/watch?v=Ba7fajt4l1M)
 * [2024-11-20, 00:18:37](https://lobste.rs/s/4vdb9z/smaller_than_pixel_art_sub_pixel_art) - [Smaller Than Pixel Art: Sub-Pixel Art](https://www.youtube.com/watch?v=SlS3FOmKUbE)
 * [2024-11-19, 21:42:49](https://lobste.rs/s/xalc4i/go_sync_once_is_simple_does_it_really) - [Go sync.Once is Simple... Does It Really?](https://victoriametrics.com/blog/go-sync-once/)
 * [2024-11-19, 20:54:00](https://lobste.rs/s/b2vubm/how_use_common_lisp_on_nixos_with_c) - [How to use Common Lisp on NixOS with C libraries](https://honza.pokorny.ca/2024/11/how-to-use-common-lisp-on-nixos-with-c-libraries/)
@@ -24,7 +25,6 @@
 * [2024-11-19, 09:16:45](https://lobste.rs/s/i29fpn/paged_out_5_hacker_zine_release) - [Paged Out! #5 - hacker zine release](https://pagedout.institute/download/PagedOut_005.pdf)
 * [2024-11-18, 16:44:53](https://lobste.rs/s/tw8f63/security_means_securing_people_where) - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
 * [2024-11-18, 14:22:40](https://lobste.rs/s/ei4byk/gleam_v1_6_0_released) - [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
-* [2024-11-18, 10:17:02](https://lobste.rs/s/qbkd0u/i_was_banned_from_hcaptcha_accessibility) - [I was banned from the hCaptcha accessibility account for not being blind (2023)](https://michaels.world/2023/11/i-was-banned-from-the-hcaptcha-accessibility-account-for-not-being-blind/)
 
 ## [Archives](archives/index.md)
 
