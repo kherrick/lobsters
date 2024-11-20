@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 14:15:57](https://lobste.rs/s/1ygjph/rust_foundation_s_2nd_bad_draft_trademark) - [The Rust Foundation's 2nd bad draft trademark policy](https://diziet.dreamwidth.org/19151.html)
+* [2024-11-20, 14:15:33](https://lobste.rs/s/8xps75/state_kotlin_scripting_2024) - [State of Kotlin Scripting 2024](https://blog.jetbrains.com/kotlin/2024/11/state-of-kotlin-scripting-2024/)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-20, 12:43:52](https://lobste.rs/s/vvosch/fireducks_pandas_100x_faster) - [FireDucks : Pandas but 100x faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 * [2024-11-20, 12:34:06](https://lobste.rs/s/jenpvy/vim_history_very_very_old_history_vim_from) - [vim-history: Very very old history of Vim (from v1.14 to v6.4)](https://github.com/vim/vim-history)
@@ -16,14 +18,12 @@
 * [2024-11-19, 21:42:49](https://lobste.rs/s/xalc4i/go_sync_once_is_simple_does_it_really) - [Go sync.Once is Simple... Does It Really?](https://victoriametrics.com/blog/go-sync-once/)
 * [2024-11-19, 20:38:06](https://lobste.rs/s/p5gpeq/original_chipwits_forth_code_open) - [Original ChipWits FORTH Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-19, 19:02:03](https://lobste.rs/s/2jxble/loop_targets) - [Loop targets](https://nedbatchelder.com/blog/202411/loop_targets.html)
-* [2024-11-19, 18:08:48](https://lobste.rs/s/bpfsyf/hyrum_s_law_golang) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-19, 17:20:51](https://lobste.rs/s/rawcyg/on_safe_c) - [On \"Safe\" C++](https://izzys.casa/2024/11/on-safe-cxx/)
 * [2024-11-19, 16:28:28](https://lobste.rs/s/ovbb1u/understanding_bm25_full_text_search) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-19, 16:15:01](https://lobste.rs/s/i5xnsj/testing_with_go_postgresql_ephemeral_dbs) - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/)
 * [2024-11-19, 14:59:12](https://lobste.rs/s/fxjcuf/what_expect_from_chicken_6) - [What to expect from CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html)
 * [2024-11-19, 12:29:07](https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail) - [Running web browsers in a FreeBSD jail](https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/)
 * [2024-11-19, 12:23:06](https://lobste.rs/s/vsbhpu/unreachable_hidden_xkcd_easter_egg) - [An Unreachable Hidden XKCD Easter Egg inside CPython](https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg)
-* [2024-11-19, 09:21:53](https://lobste.rs/s/1xnw8x/harmful_practices_considered_best) - [Harmful Practices Considered Best](https://zakhary.dev/blog/considered-harmful)
 * [2024-11-19, 09:16:45](https://lobste.rs/s/i29fpn/paged_out_5_hacker_zine_release) - [Paged Out! #5 - hacker zine release](https://pagedout.institute/download/PagedOut_005.pdf)
 
 ## [Archives](archives/index.md)
