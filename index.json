@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-11-20, 08:35:05",
-      "https://lobste.rs/s/vqjuui/for_love_go_don_t_be_bob"
-    ],
-    [
-      "For the love of Go, Don't be a \"Bob!\"",
-      "https://www.retrotimepodcast.com/20-for-the-love-of-go-dont-be-a-bob-with-john-arundel/"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 08:02:32",
       "https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing"
     ],
@@ -157,6 +147,16 @@
     [
       "Loop targets",
       "https://nedbatchelder.com/blog/202411/loop_targets.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-19, 18:08:48",
+      "https://lobste.rs/s/bpfsyf/hyrum_s_law_golang"
+    ],
+    [
+      "Hyrum's Law in Golang",
+      "https://abenezer.org/blog/hyrum-law-in-golang"
     ]
   ],
   [
