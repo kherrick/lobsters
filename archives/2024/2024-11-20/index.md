@@ -4,5 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 03:03:29](https://lobste.rs/s/jjxxpq/esc_key_bug_games_with_cjk_imes) - [The Esc key bug in games with the CJK IMEs](https://ericswpark.com/blog/2024/2024-11-19-the-esc-key-bug-in-games-with-cjk-imes/)
+* [2024-11-20, 02:48:58](https://lobste.rs/s/cbmzpv/nominal_for_storing_structural_for) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
 * [2024-11-20, 00:21:36](https://lobste.rs/s/xmgz3l/safety_unsafe_world) - [Safety in an Unsafe World](https://www.youtube.com/watch?v=Ba7fajt4l1M)
 * [2024-11-20, 00:18:37](https://lobste.rs/s/4vdb9z/smaller_than_pixel_art_sub_pixel_art) - [Smaller Than Pixel Art: Sub-Pixel Art](https://www.youtube.com/watch?v=SlS3FOmKUbE)

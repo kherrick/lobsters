@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-19](index.md)
 
+* [2024-11-19, 23:08:55](https://lobste.rs/s/qbrrer/overflow_clip) - [Overflow Clip](https://ishadeed.com/article/overflow-clip/)
 * [2024-11-19, 21:42:49](https://lobste.rs/s/xalc4i/go_sync_once_is_simple_does_it_really) - [Go sync.Once is Simple... Does It Really?](https://victoriametrics.com/blog/go-sync-once/)
 * [2024-11-19, 20:54:00](https://lobste.rs/s/b2vubm/how_use_common_lisp_on_nixos_with_c) - [How to use Common Lisp on NixOS with C libraries](https://honza.pokorny.ca/2024/11/how-to-use-common-lisp-on-nixos-with-c-libraries/)
 * [2024-11-19, 20:38:06](https://lobste.rs/s/p5gpeq/original_chipwits_forth_code_open) - [Original ChipWits FORTH Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
