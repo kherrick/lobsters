@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 09:18:20](https://lobste.rs/s/ekhclm/chatgpt_shell_goes_multi_model) - [chatgpt-shell goes multi-model](https://lmno.lol/alvaro/chatgpt-shell-goes-multi-model)
 * [2024-11-20, 08:35:05](https://lobste.rs/s/vqjuui/for_love_go_don_t_be_bob) - [For the love of Go, Don't be a \"Bob!\"](https://www.retrotimepodcast.com/20-for-the-love-of-go-dont-be-a-bob-with-john-arundel/)
 * [2024-11-20, 08:28:14](https://lobste.rs/s/8okeos/loading_world_openstreetmap_import) - [Loading the World! OpenStreetMap Import In Under 4 Hours](https://www.crunchydata.com/blog/loading-the-world-openstreetmap-import-in-under-4-hours)
 * [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)

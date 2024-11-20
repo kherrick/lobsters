@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 09:18:20](https://lobste.rs/s/ekhclm/chatgpt_shell_goes_multi_model) - [chatgpt-shell goes multi-model](https://lmno.lol/alvaro/chatgpt-shell-goes-multi-model)
 * [2024-11-20, 08:35:05](https://lobste.rs/s/vqjuui/for_love_go_don_t_be_bob) - [For the love of Go, Don't be a \"Bob!\"](https://www.retrotimepodcast.com/20-for-the-love-of-go-dont-be-a-bob-with-john-arundel/)
 * [2024-11-20, 08:28:14](https://lobste.rs/s/8okeos/loading_world_openstreetmap_import) - [Loading the World! OpenStreetMap Import In Under 4 Hours](https://www.crunchydata.com/blog/loading-the-world-openstreetmap-import-in-under-4-hours)
 * [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
@@ -18,7 +19,6 @@
 * [2024-11-19, 16:28:28](https://lobste.rs/s/ovbb1u/understanding_bm25_full_text_search) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-19, 16:15:01](https://lobste.rs/s/i5xnsj/testing_with_go_postgresql_ephemeral_dbs) - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/)
 * [2024-11-19, 14:59:12](https://lobste.rs/s/fxjcuf/what_expect_from_chicken_6) - [What to expect from CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html)
-* [2024-11-19, 14:34:37](https://lobste.rs/s/5ly2oz/prequel_sql_is_sequel) - [The Prequel to SQL is SEQUEL](https://buttondown.com/jaffray/archive/the-prequel-to-sql-is-sequel/)
 * [2024-11-19, 12:29:07](https://lobste.rs/s/xevir0/running_web_browsers_freebsd_jail) - [Running web browsers in a FreeBSD jail](https://www.tumfatig.net/2024/running-web-browsers-in-freebsd-jail/)
 * [2024-11-19, 12:23:06](https://lobste.rs/s/vsbhpu/unreachable_hidden_xkcd_easter_egg) - [An Unreachable Hidden XKCD Easter Egg inside CPython](https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg)
 * [2024-11-19, 09:21:53](https://lobste.rs/s/1xnw8x/harmful_practices_considered_best) - [Harmful Practices Considered Best](https://zakhary.dev/blog/considered-harmful)
