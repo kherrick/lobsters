@@ -3,7 +3,7 @@
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 * [2024-11-20, 17:29:23](https://lobste.rs/s/ck4brr/sql_homomorphisms_constraint) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
-* [2024-11-20, 15:53:37](https://lobste.rs/s/ew5kc4/how_many_business_values_does_true_false) - [How Many Business Values Does a True/False Field Have?](https://johndehope.mataroa.blog/blog/how-many-business-values-does-a-truefalse-field-have/)
+* [2024-11-20, 16:23:37](https://lobste.rs/s/w5vg8n/using_grpc_for_local_inter_process) - [Using gRPC for (local) inter-process communication](https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/)
 * [2024-11-20, 15:28:29](https://lobste.rs/s/qyoxpq/mimic_ebpf_udp_tcp_obfuscator) - [mimic: eBPF UDP -> TCP obfuscator](https://github.com/hack3ric/mimic)
 * [2024-11-20, 15:23:59](https://lobste.rs/s/3a8qrd/organizing_recipes_with_ml_for_creative) - [Organizing Recipes with ML For Creative Cooking](https://aggressivelyparaphrasing.me/2024/11/19/organizing-recipes-with-ml-for-creative-cooking/)
 * [2024-11-20, 15:08:54](https://lobste.rs/s/etolms/fargate_vs_ec2) - [Fargate vs EC2](https://www.pulumi.com/blog/fargate-vs-ec2/)
