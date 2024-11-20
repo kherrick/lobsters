@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-20, 12:25:18",
+      "https://lobste.rs/s/pamogv/github_offering_security_tools_advice"
+    ],
+    [
+      "GitHub offering security tools, advice to Open Source Projects",
+      "https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/"
+    ]
+  ],
+  [
+    [
+      "2024-11-20, 12:09:36",
+      "https://lobste.rs/s/onhd7w/wavpack_s_roundtrip_advantage_over_flac"
+    ],
+    [
+      "WavPack's roundtrip advantage over FLAC",
+      "https://dbohdan.com/wavpack"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 11:54:37",
       "https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-11-19, 18:08:48",
-      "https://lobste.rs/s/bpfsyf/hyrum_s_law_golang"
-    ],
-    [
-      "Hyrum's Law in Golang",
-      "https://abenezer.org/blog/hyrum-law-in-golang"
-    ]
-  ],
-  [
-    [
       "2024-11-19, 17:20:51",
       "https://lobste.rs/s/rawcyg/on_safe_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Paged Out! #5 - hacker zine release",
       "https://pagedout.institute/download/PagedOut_005.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-18, 16:44:53",
-      "https://lobste.rs/s/tw8f63/security_means_securing_people_where"
-    ],
-    [
-      "Security means securing people where they are",
-      "https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are"
     ]
   ]
 ]
