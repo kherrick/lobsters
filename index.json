@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-11-20, 17:48:10",
+      "https://lobste.rs/s/dwvufi/freebee_at_t_unix_pc_emulator"
+    ],
+    [
+      "FreeBee, an AT&T UNIX PC emulator",
+      "https://www.philpem.me.uk/code/3b1emu"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 17:29:23",
       "https://lobste.rs/s/ck4brr/sql_homomorphisms_constraint"
     ],
@@ -57,16 +67,6 @@
     [
       "Sequin: a tool for inspecting ANSI sequences",
       "https://github.com/charmbracelet/sequin"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 15:28:29",
-      "https://lobste.rs/s/qyoxpq/mimic_ebpf_udp_tcp_obfuscator"
-    ],
-    [
-      "mimic: eBPF UDP -> TCP obfuscator",
-      "https://github.com/hack3ric/mimic"
     ]
   ],
   [
