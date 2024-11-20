@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-20, 12:43:52](https://lobste.rs/s/vvosch/fireducks_pandas_100x_faster) - [FireDucks : Pandas but 100x faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 * [2024-11-20, 12:34:06](https://lobste.rs/s/jenpvy/vim_history_very_very_old_history_vim_from) - [vim-history: Very very old history of Vim (from v1.14 to v6.4)](https://github.com/vim/vim-history)
 * [2024-11-20, 12:25:18](https://lobste.rs/s/pamogv/github_offering_security_tools_advice) - [GitHub offering security tools, advice to Open Source Projects](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/)

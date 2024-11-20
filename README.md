@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-20, 12:43:52](https://lobste.rs/s/vvosch/fireducks_pandas_100x_faster) - [FireDucks : Pandas but 100x faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 * [2024-11-20, 12:34:06](https://lobste.rs/s/jenpvy/vim_history_very_very_old_history_vim_from) - [vim-history: Very very old history of Vim (from v1.14 to v6.4)](https://github.com/vim/vim-history)
 * [2024-11-20, 12:25:18](https://lobste.rs/s/pamogv/github_offering_security_tools_advice) - [GitHub offering security tools, advice to Open Source Projects](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/)
@@ -9,7 +10,6 @@
 * [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
 * [2024-11-20, 09:18:20](https://lobste.rs/s/ekhclm/chatgpt_shell_goes_multi_model) - [chatgpt-shell goes multi-model](https://lmno.lol/alvaro/chatgpt-shell-goes-multi-model)
 * [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
-* [2024-11-20, 07:50:25](https://lobste.rs/s/stdvxh/spineless_traversal_for_layout) - [Spineless Traversal for Layout Invalidation](https://arxiv.org/pdf/2411.10659)
 * [2024-11-20, 07:12:59](https://lobste.rs/s/qhdfdg/webvm_virtual_machine_for_web) - [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
 * [2024-11-20, 06:45:31](https://lobste.rs/s/tlaaae/lush_my_favorite_small_programming) - [Lush: my favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
 * [2024-11-20, 02:48:58](https://lobste.rs/s/cbmzpv/nominal_for_storing_structural_for) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
