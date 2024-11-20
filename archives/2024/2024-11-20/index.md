@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 18:34:41](https://lobste.rs/s/tvgghj/does_internet_route_around_damage_baltic) - [Does the Internet Route Around Damage? - Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-20, 17:56:04](https://lobste.rs/s/jewlms/ban_tracking_personalised_advertising) - [Ban tracking and personalised advertising](https://www.ccc.de/en/updates/2024/tracking-verbot)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 * [2024-11-20, 17:29:23](https://lobste.rs/s/ck4brr/sql_homomorphisms_constraint) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
