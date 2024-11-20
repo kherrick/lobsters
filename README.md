@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
 * [2024-11-20, 16:23:37](https://lobste.rs/s/w5vg8n/using_grpc_for_local_inter_process) - [Using gRPC for (local) inter-process communication](https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/)
+* [2024-11-20, 16:00:44](https://lobste.rs/s/gqwgnf/for_first_time_ever_researchers_crack_rsa) - [For the first time ever researchers crack RSA and AES data encryption](https://www.thebrighterside.news/post/for-the-first-time-ever-researchers-crack-rsa-and-aes-data-encryption/)
 * [2024-11-20, 15:53:37](https://lobste.rs/s/ew5kc4/how_many_business_values_does_true_false) - [How Many Business Values Does a True/False Field Have?](https://johndehope.mataroa.blog/blog/how-many-business-values-does-a-truefalse-field-have/)
-* [2024-11-20, 15:28:29](https://lobste.rs/s/qyoxpq/mimic_ebpf_udp_tcp_obfuscator) - [mimic: eBPF UDP -> TCP obfuscator](https://github.com/hack3ric/mimic)
 * [2024-11-20, 15:23:59](https://lobste.rs/s/3a8qrd/organizing_recipes_with_ml_for_creative) - [Organizing Recipes with ML For Creative Cooking](https://aggressivelyparaphrasing.me/2024/11/19/organizing-recipes-with-ml-for-creative-cooking/)
 * [2024-11-20, 15:08:54](https://lobste.rs/s/etolms/fargate_vs_ec2) - [Fargate vs EC2](https://www.pulumi.com/blog/fargate-vs-ec2/)
 * [2024-11-20, 14:15:57](https://lobste.rs/s/1ygjph/rust_foundation_s_2nd_bad_draft_trademark) - [The Rust Foundation's 2nd bad draft trademark policy](https://diziet.dreamwidth.org/19151.html)
@@ -17,7 +18,6 @@
 * [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-20, 07:12:59](https://lobste.rs/s/qhdfdg/webvm_virtual_machine_for_web) - [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
 * [2024-11-20, 06:45:31](https://lobste.rs/s/tlaaae/lush_my_favorite_small_programming) - [Lush: my favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
-* [2024-11-19, 20:38:06](https://lobste.rs/s/p5gpeq/original_chipwits_forth_code_open) - [Original ChipWits FORTH Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-19, 19:02:03](https://lobste.rs/s/2jxble/loop_targets) - [Loop targets](https://nedbatchelder.com/blog/202411/loop_targets.html)
 * [2024-11-19, 17:20:51](https://lobste.rs/s/rawcyg/on_safe_c) - [On \"Safe\" C++](https://izzys.casa/2024/11/on-safe-cxx/)
 * [2024-11-19, 16:28:28](https://lobste.rs/s/ovbb1u/understanding_bm25_full_text_search) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
