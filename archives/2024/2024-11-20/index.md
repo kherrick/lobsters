@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 22:50:59](https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates) - [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
 * [2024-11-20, 20:23:05](https://lobste.rs/s/xq4xxi/tiling_with_three_polygons_is) - [Tiling with Three Polygons is Undecidable](https://arxiv.org/pdf/2409.11582)
 * [2024-11-20, 20:16:50](https://lobste.rs/s/5s4em5/dbsp_automatic_incremental_view) - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://muratbuffalo.blogspot.com/2024/11/dbsp-automatic-incremental-view.html)
 * [2024-11-20, 18:58:31](https://lobste.rs/s/rvts3f/map_keys_lifetimes) - [Map Keys and Lifetimes](https://blinsay.com/blog/compound-keys/)
