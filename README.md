@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 18:58:31](https://lobste.rs/s/rvts3f/map_keys_lifetimes) - [Map Keys and Lifetimes](https://blinsay.com/blog/compound-keys/)
 * [2024-11-20, 18:34:41](https://lobste.rs/s/tvgghj/does_internet_route_around_damage_baltic) - [Does the Internet Route Around Damage? - Baltic Sea Cable Cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 * [2024-11-20, 17:29:23](https://lobste.rs/s/ck4brr/sql_homomorphisms_constraint) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
 * [2024-11-20, 15:28:29](https://lobste.rs/s/qyoxpq/mimic_ebpf_udp_tcp_obfuscator) - [mimic: eBPF UDP -> TCP obfuscator](https://github.com/hack3ric/mimic)
-* [2024-11-20, 15:23:59](https://lobste.rs/s/3a8qrd/organizing_recipes_with_ml_for_creative) - [Organizing Recipes with ML For Creative Cooking](https://aggressivelyparaphrasing.me/2024/11/19/organizing-recipes-with-ml-for-creative-cooking/)
 * [2024-11-20, 15:08:54](https://lobste.rs/s/etolms/fargate_vs_ec2) - [Fargate vs EC2](https://www.pulumi.com/blog/fargate-vs-ec2/)
 * [2024-11-20, 14:15:57](https://lobste.rs/s/1ygjph/rust_foundation_s_2nd_bad_draft_trademark) - [The Rust Foundation's 2nd bad draft trademark policy](https://diziet.dreamwidth.org/19151.html)
 * [2024-11-20, 14:15:33](https://lobste.rs/s/8xps75/state_kotlin_scripting_2024) - [State of Kotlin Scripting 2024](https://blog.jetbrains.com/kotlin/2024/11/state-of-kotlin-scripting-2024/)
