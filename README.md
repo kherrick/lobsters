@@ -2,7 +2,6 @@
 
 * [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
 * [2024-11-20, 09:18:20](https://lobste.rs/s/ekhclm/chatgpt_shell_goes_multi_model) - [chatgpt-shell goes multi-model](https://lmno.lol/alvaro/chatgpt-shell-goes-multi-model)
-* [2024-11-20, 08:35:05](https://lobste.rs/s/vqjuui/for_love_go_don_t_be_bob) - [For the love of Go, Don't be a \"Bob!\"](https://www.retrotimepodcast.com/20-for-the-love-of-go-dont-be-a-bob-with-john-arundel/)
 * [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-20, 07:50:25](https://lobste.rs/s/stdvxh/spineless_traversal_for_layout) - [Spineless Traversal for Layout Invalidation](https://arxiv.org/pdf/2411.10659)
 * [2024-11-20, 07:12:59](https://lobste.rs/s/qhdfdg/webvm_virtual_machine_for_web) - [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
@@ -16,6 +15,7 @@
 * [2024-11-19, 20:38:06](https://lobste.rs/s/p5gpeq/original_chipwits_forth_code_open) - [Original ChipWits FORTH Code Open Sourced](https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/)
 * [2024-11-19, 20:29:00](https://lobste.rs/s/tphwxi/blogging_through_decades) - [Blogging through the decades](https://bcantrill.dtrace.org/2024/11/16/blogging-through-the-decades/)
 * [2024-11-19, 19:02:03](https://lobste.rs/s/2jxble/loop_targets) - [Loop targets](https://nedbatchelder.com/blog/202411/loop_targets.html)
+* [2024-11-19, 18:08:48](https://lobste.rs/s/bpfsyf/hyrum_s_law_golang) - [Hyrum's Law in Golang](https://abenezer.org/blog/hyrum-law-in-golang)
 * [2024-11-19, 17:20:51](https://lobste.rs/s/rawcyg/on_safe_c) - [On \"Safe\" C++](https://izzys.casa/2024/11/on-safe-cxx/)
 * [2024-11-19, 16:28:28](https://lobste.rs/s/ovbb1u/understanding_bm25_full_text_search) - [Understanding the BM25 full text search algorithm](https://emschwartz.me/understanding-the-bm25-full-text-search-algorithm/)
 * [2024-11-19, 16:15:01](https://lobste.rs/s/i5xnsj/testing_with_go_postgresql_ephemeral_dbs) - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/)
