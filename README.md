@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 17:56:04](https://lobste.rs/s/jewlms/ban_tracking_personalised_advertising) - [Ban tracking and personalised advertising](https://www.ccc.de/en/updates/2024/tracking-verbot)
+* [2024-11-20, 17:29:23](https://lobste.rs/s/ck4brr/sql_homomorphisms_constraint) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
-* [2024-11-20, 16:23:37](https://lobste.rs/s/w5vg8n/using_grpc_for_local_inter_process) - [Using gRPC for (local) inter-process communication](https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/)
-* [2024-11-20, 16:00:44](https://lobste.rs/s/gqwgnf/for_first_time_ever_researchers_crack_rsa) - [For the first time ever researchers crack RSA and AES data encryption](https://www.thebrighterside.news/post/for-the-first-time-ever-researchers-crack-rsa-and-aes-data-encryption/)
 * [2024-11-20, 15:53:37](https://lobste.rs/s/ew5kc4/how_many_business_values_does_true_false) - [How Many Business Values Does a True/False Field Have?](https://johndehope.mataroa.blog/blog/how-many-business-values-does-a-truefalse-field-have/)
 * [2024-11-20, 15:28:29](https://lobste.rs/s/qyoxpq/mimic_ebpf_udp_tcp_obfuscator) - [mimic: eBPF UDP -> TCP obfuscator](https://github.com/hack3ric/mimic)
 * [2024-11-20, 15:23:59](https://lobste.rs/s/3a8qrd/organizing_recipes_with_ml_for_creative) - [Organizing Recipes with ML For Creative Cooking](https://aggressivelyparaphrasing.me/2024/11/19/organizing-recipes-with-ml-for-creative-cooking/)
