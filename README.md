@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 * [2024-11-20, 07:50:25](https://lobste.rs/s/stdvxh/spineless_traversal_for_layout) - [Spineless Traversal for Layout Invalidation](https://arxiv.org/pdf/2411.10659)
 * [2024-11-20, 07:12:59](https://lobste.rs/s/qhdfdg/webvm_virtual_machine_for_web) - [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
 * [2024-11-20, 06:45:31](https://lobste.rs/s/tlaaae/lush_my_favorite_small_programming) - [Lush: my favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
 * [2024-11-20, 04:12:37](https://lobste.rs/s/kob7ma/decisions_dragons) - [Decisions & Dragons](https://www.decisionsanddragons.com/)
-* [2024-11-20, 02:48:58](https://lobste.rs/s/cbmzpv/nominal_for_storing_structural_for) - [Nominal for Storing, Structural for Manipulating](https://welltypedwitch.bearblog.dev/nominal-for-storing-structural-for-manipulating/)
 * [2024-11-20, 00:21:36](https://lobste.rs/s/xmgz3l/safety_unsafe_world) - [Safety in an Unsafe World](https://www.youtube.com/watch?v=Ba7fajt4l1M)
 * [2024-11-20, 00:18:37](https://lobste.rs/s/4vdb9z/smaller_than_pixel_art_sub_pixel_art) - [Smaller Than Pixel Art: Sub-Pixel Art](https://www.youtube.com/watch?v=SlS3FOmKUbE)
 * [2024-11-19, 21:42:49](https://lobste.rs/s/xalc4i/go_sync_once_is_simple_does_it_really) - [Go sync.Once is Simple... Does It Really?](https://victoriametrics.com/blog/go-sync-once/)
