@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 15:23:59](https://lobste.rs/s/3a8qrd/organizing_recipes_with_ml_for_creative) - [Organizing Recipes with ML For Creative Cooking](https://aggressivelyparaphrasing.me/2024/11/19/organizing-recipes-with-ml-for-creative-cooking/)
+* [2024-11-20, 15:08:54](https://lobste.rs/s/etolms/fargate_vs_ec2) - [Fargate vs EC2](https://www.pulumi.com/blog/fargate-vs-ec2/)
 * [2024-11-20, 14:15:57](https://lobste.rs/s/1ygjph/rust_foundation_s_2nd_bad_draft_trademark) - [The Rust Foundation's 2nd bad draft trademark policy](https://diziet.dreamwidth.org/19151.html)
 * [2024-11-20, 14:15:33](https://lobste.rs/s/8xps75/state_kotlin_scripting_2024) - [State of Kotlin Scripting 2024](https://blog.jetbrains.com/kotlin/2024/11/state-of-kotlin-scripting-2024/)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
