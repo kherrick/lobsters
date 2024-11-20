@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
 * [2024-11-20, 09:18:20](https://lobste.rs/s/ekhclm/chatgpt_shell_goes_multi_model) - [chatgpt-shell goes multi-model](https://lmno.lol/alvaro/chatgpt-shell-goes-multi-model)
 * [2024-11-20, 08:35:05](https://lobste.rs/s/vqjuui/for_love_go_don_t_be_bob) - [For the love of Go, Don't be a \"Bob!\"](https://www.retrotimepodcast.com/20-for-the-love-of-go-dont-be-a-bob-with-john-arundel/)
 * [2024-11-20, 08:28:14](https://lobste.rs/s/8okeos/loading_world_openstreetmap_import) - [Loading the World! OpenStreetMap Import In Under 4 Hours](https://www.crunchydata.com/blog/loading-the-world-openstreetmap-import-in-under-4-hours)
@@ -24,7 +25,6 @@
 * [2024-11-19, 09:21:53](https://lobste.rs/s/1xnw8x/harmful_practices_considered_best) - [Harmful Practices Considered Best](https://zakhary.dev/blog/considered-harmful)
 * [2024-11-19, 09:16:45](https://lobste.rs/s/i29fpn/paged_out_5_hacker_zine_release) - [Paged Out! #5 - hacker zine release](https://pagedout.institute/download/PagedOut_005.pdf)
 * [2024-11-18, 16:44:53](https://lobste.rs/s/tw8f63/security_means_securing_people_where) - [Security means securing people where they are](https://blog.yossarian.net/2024/11/18/Security-means-securing-people-where-they-are)
-* [2024-11-18, 14:22:40](https://lobste.rs/s/ei4byk/gleam_v1_6_0_released) - [Gleam v1.6.0 released](https://gleam.run/news/context-aware-compilation/)
 
 ## [Archives](archives/index.md)
 
