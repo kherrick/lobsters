@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-20, 17:09:43",
+      "https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi"
+    ],
+    [
+      "Sequin: a tool for inspecting ANSI sequences",
+      "https://github.com/charmbracelet/sequin"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 16:23:37",
       "https://lobste.rs/s/w5vg8n/using_grpc_for_local_inter_process"
     ],
@@ -11,22 +21,22 @@
   ],
   [
     [
+      "2024-11-20, 16:00:44",
+      "https://lobste.rs/s/gqwgnf/for_first_time_ever_researchers_crack_rsa"
+    ],
+    [
+      "For the first time ever researchers crack RSA and AES data encryption",
+      "https://www.thebrighterside.news/post/for-the-first-time-ever-researchers-crack-rsa-and-aes-data-encryption/"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 15:53:37",
       "https://lobste.rs/s/ew5kc4/how_many_business_values_does_true_false"
     ],
     [
       "How Many Business Values Does a True/False Field Have?",
       "https://johndehope.mataroa.blog/blog/how-many-business-values-does-a-truefalse-field-have/"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 15:28:29",
-      "https://lobste.rs/s/qyoxpq/mimic_ebpf_udp_tcp_obfuscator"
-    ],
-    [
-      "mimic: eBPF UDP -> TCP obfuscator",
-      "https://github.com/hack3ric/mimic"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Lush: my favorite small programming language",
       "https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 20:38:06",
-      "https://lobste.rs/s/p5gpeq/original_chipwits_forth_code_open"
-    ],
-    [
-      "Original ChipWits FORTH Code Open Sourced",
-      "https://chipwits.com/2024/11/16/chipwits-40th-birthday-original-forth-code-open-sourced/"
     ]
   ],
   [
