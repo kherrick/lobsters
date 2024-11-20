@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-20](index.md)
 
+* [2024-11-20, 12:43:52](https://lobste.rs/s/vvosch/fireducks_pandas_100x_faster) - [FireDucks : Pandas but 100x faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
+* [2024-11-20, 12:34:06](https://lobste.rs/s/jenpvy/vim_history_very_very_old_history_vim_from) - [vim-history: Very very old history of Vim (from v1.14 to v6.4)](https://github.com/vim/vim-history)
 * [2024-11-20, 12:25:18](https://lobste.rs/s/pamogv/github_offering_security_tools_advice) - [GitHub offering security tools, advice to Open Source Projects](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/)
 * [2024-11-20, 12:09:36](https://lobste.rs/s/onhd7w/wavpack_s_roundtrip_advantage_over_flac) - [WavPack's roundtrip advantage over FLAC](https://dbohdan.com/wavpack)
 * [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
