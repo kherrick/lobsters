@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-20, 16:23:37](https://lobste.rs/s/w5vg8n/using_grpc_for_local_inter_process) - [Using gRPC for (local) inter-process communication](https://www.mpi-hd.mpg.de/personalhomes/fwerner/research/2021/09/grpc-for-ipc/)
 * [2024-11-20, 15:53:37](https://lobste.rs/s/ew5kc4/how_many_business_values_does_true_false) - [How Many Business Values Does a True/False Field Have?](https://johndehope.mataroa.blog/blog/how-many-business-values-does-a-truefalse-field-have/)
 * [2024-11-20, 15:28:29](https://lobste.rs/s/qyoxpq/mimic_ebpf_udp_tcp_obfuscator) - [mimic: eBPF UDP -> TCP obfuscator](https://github.com/hack3ric/mimic)
 * [2024-11-20, 15:23:59](https://lobste.rs/s/3a8qrd/organizing_recipes_with_ml_for_creative) - [Organizing Recipes with ML For Creative Cooking](https://aggressivelyparaphrasing.me/2024/11/19/organizing-recipes-with-ml-for-creative-cooking/)
@@ -9,7 +10,6 @@
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-20, 12:43:52](https://lobste.rs/s/vvosch/fireducks_pandas_100x_faster) - [FireDucks : Pandas but 100x faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 * [2024-11-20, 12:34:06](https://lobste.rs/s/jenpvy/vim_history_very_very_old_history_vim_from) - [vim-history: Very very old history of Vim (from v1.14 to v6.4)](https://github.com/vim/vim-history)
-* [2024-11-20, 12:25:18](https://lobste.rs/s/pamogv/github_offering_security_tools_advice) - [GitHub offering security tools, advice to Open Source Projects](https://github.blog/news-insights/company-news/announcing-github-secure-open-source-fund/)
 * [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
 * [2024-11-20, 11:01:35](https://lobste.rs/s/o2xl17/ghosts_departed_proofs_2018) - [Ghosts of Departed Proofs (2018)](https://iohk.io/en/research/library/papers/ghosts-of-departed-proofs-functional-pearls/)
 * [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
