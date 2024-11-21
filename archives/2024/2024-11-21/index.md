@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 14:37:41](https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement) - [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
+* [2024-11-21, 14:34:45](https://lobste.rs/s/gf9gqp/introducing_our_grid_aware_websites) - [Introducing our grid-aware websites project](https://www.thegreenwebfoundation.org/news/introducing-our-grid-aware-websites-project/)
 * [2024-11-21, 14:04:11](https://lobste.rs/s/kbfhkj/eigensolutions_composability_as) - [Eigensolutions: composability as the antidote to overfit](https://lea.verou.me/blog/2023/eigensolutions/)
 * [2024-11-21, 13:49:23](https://lobste.rs/s/isqmje/future_bcachefs_kernel_is_uncertain) - [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
 * [2024-11-21, 12:34:05](https://lobste.rs/s/gsv4k6/big_data_center_water_problem) - [The Big Data Center Water Problem](https://www.asianometry.com/p/the-big-data-center-water-problem)
