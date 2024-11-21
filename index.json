@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-21, 12:34:05",
+      "https://lobste.rs/s/gsv4k6/big_data_center_water_problem"
+    ],
+    [
+      "The Big Data Center Water Problem",
+      "https://www.asianometry.com/p/the-big-data-center-water-problem"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 12:29:59",
+      "https://lobste.rs/s/rouohp/freebsd_14_on_laptop"
+    ],
+    [
+      "FreeBSD 14 on a Laptop",
+      "https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 12:20:35",
       "https://lobste.rs/s/eydojp/stereographic_projection_stern_brocot"
     ],
@@ -41,6 +61,16 @@
   ],
   [
     [
+      "2024-11-21, 10:30:56",
+      "https://lobste.rs/s/bb0gax/united_states_america_vs_google_llc"
+    ],
+    [
+      "United States of America vs. Google LLC",
+      "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.1_1.pdf"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 10:02:55",
       "https://lobste.rs/s/l0x0xu/ghc_s_webassembly_backend_now_supports"
     ],
@@ -77,26 +107,6 @@
     [
       "TIL: Some surprising code execution sources in bash",
       "https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 04:13:36",
-      "https://lobste.rs/s/y1lgsi/building_large_geospatial_model_achieve"
-    ],
-    [
-      "Building a Large Geospatial Model to Achieve Spatial Intelligence",
-      "https://nianticlabs.com/news/largegeospatialmodel"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 00:38:32",
-      "https://lobste.rs/s/m38xkv/modern_hardware_for_future_databases"
-    ],
-    [
-      "Modern Hardware for Future Databases",
-      "https://transactional.blog/blog/2024-modern-database-hardware"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "They all use it",
       "https://registerspill.thorstenball.com/p/they-all-use-it"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 17:29:23",
-      "https://lobste.rs/s/ck4brr/sql_homomorphisms_constraint"
-    ],
-    [
-      "SQL, Homomorphisms and Constraint Satisfaction Problems",
-      "https://www.philipzucker.com/sql_graph_csp/"
     ]
   ],
   [
