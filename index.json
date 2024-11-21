@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-21, 10:02:55",
+      "https://lobste.rs/s/l0x0xu/ghc_s_webassembly_backend_now_supports"
+    ],
+    [
+      "GHC's WebAssembly backend now supports Template Haskell and GHCi",
+      "https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 08:44:40",
       "https://lobste.rs/s/c80rah/where_s_why_what_happened_when_one_world_s"
     ],
@@ -37,6 +47,16 @@
     [
       "Building a Large Geospatial Model to Achieve Spatial Intelligence",
       "https://nianticlabs.com/news/largegeospatialmodel"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 01:15:07",
+      "https://lobste.rs/s/otoe3q/local_privilege_escalation_via"
+    ],
+    [
+      "Local privilege escalation via needrestart",
+      "https://www.qualys.com/2024/11/19/needrestart/needrestart.txt"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-11-20, 14:15:57",
-      "https://lobste.rs/s/1ygjph/rust_foundation_s_2nd_bad_draft_trademark"
-    ],
-    [
-      "The Rust Foundation's 2nd bad draft trademark policy",
-      "https://diziet.dreamwidth.org/19151.html"
-    ]
-  ],
-  [
-    [
       "2024-11-20, 14:00:45",
       "https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd"
     ],
@@ -187,16 +197,6 @@
     [
       "FireDucks : Pandas but 100x faster",
       "https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 12:34:06",
-      "https://lobste.rs/s/jenpvy/vim_history_very_very_old_history_vim_from"
-    ],
-    [
-      "vim-history: Very very old history of Vim (from v1.14 to v6.4)",
-      "https://github.com/vim/vim-history"
     ]
   ],
   [
