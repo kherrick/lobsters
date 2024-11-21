@@ -1,22 +1,32 @@
 [
   [
     [
+      "2024-11-21, 00:38:32",
+      "https://lobste.rs/s/m38xkv/modern_hardware_for_future_databases"
+    ],
+    [
+      "Modern Hardware for Future Databases",
+      "https://transactional.blog/blog/2024-modern-database-hardware"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 00:31:58",
+      "https://lobste.rs/s/owbdxj/delta_chat_introduces_realtime_peer_peer"
+    ],
+    [
+      "Delta Chat introduces realtime Peer-to-Peer networking",
+      "https://delta.chat/en/2024-11-20-webxdc-realtime"
+    ]
+  ],
+  [
+    [
       "2024-11-20, 22:50:59",
       "https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates"
     ],
     [
       "Native compilation of Prolog predicates with Cranelift",
       "https://files.adrianistan.eu/talk2024.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 20:23:05",
-      "https://lobste.rs/s/xq4xxi/tiling_with_three_polygons_is"
-    ],
-    [
-      "Tiling with Three Polygons is Undecidable",
-      "https://arxiv.org/pdf/2409.11582"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Let’s Encrypt: Ten Years",
       "https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 09:18:20",
-      "https://lobste.rs/s/ekhclm/chatgpt_shell_goes_multi_model"
-    ],
-    [
-      "chatgpt-shell goes multi-model",
-      "https://lmno.lol/alvaro/chatgpt-shell-goes-multi-model"
     ]
   ],
   [
