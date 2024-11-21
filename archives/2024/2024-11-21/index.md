@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 22:21:36](https://lobste.rs/s/6nkjgt/david_heinemeier_hansson_joins_shopify_s) - [David Heinemeier Hansson joins Shopify’s board: 20 years in the making](https://www.shopify.com/news/david-heinemeier-hansson-board)
 * [2024-11-21, 17:06:29](https://lobste.rs/s/1ng8dw/handling_cookies_is_minefield) - [Handling Cookies is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 14:45:20](https://lobste.rs/s/wis1xj/entrust_distrust_will_be_more_disruptive) - [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
 * [2024-11-21, 14:37:41](https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement) - [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
