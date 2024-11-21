@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-11-21, 14:45:20](https://lobste.rs/s/wis1xj/entrust_distrust_will_be_more_disruptive) - [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
+* [2024-11-21, 14:37:41](https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement) - [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 14:02:26](https://lobste.rs/s/2phubi/n_spheres) - [N-Spheres](https://youtu.be/BDERfRP2GI0)
 * [2024-11-21, 13:49:23](https://lobste.rs/s/isqmje/future_bcachefs_kernel_is_uncertain) - [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
 * [2024-11-21, 12:34:05](https://lobste.rs/s/gsv4k6/big_data_center_water_problem) - [The Big Data Center Water Problem](https://www.asianometry.com/p/the-big-data-center-water-problem)
 * [2024-11-21, 12:29:59](https://lobste.rs/s/rouohp/freebsd_14_on_laptop) - [FreeBSD 14 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/)
 * [2024-11-21, 12:20:35](https://lobste.rs/s/eydojp/stereographic_projection_stern_brocot) - [The stereographic projection of the Stern–Brocot tree](https://richardt.io/stereo_stern/)
-* [2024-11-21, 11:44:37](https://lobste.rs/s/lfdvop/finding_bugs_chrome_with_codeql) - [Finding Bugs in Chrome with CodeQL](https://bughunters.google.com/blog/5085111480877056/finding-bugs-in-chrome-with-codeql)
 * [2024-11-21, 11:21:17](https://lobste.rs/s/qy588a/haskell_unfolder_episode_36_concurrency) - [The Haskell Unfolder Episode 36: concurrency and the FFI](https://www.youtube.com/watch?v=IMrBTx7aYjs&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7)
 * [2024-11-21, 11:19:56](https://lobste.rs/s/mn4651/compiling_haskell_webassembly_step_by) - [Compiling Haskell to WebAssembly: A Step-by-Step Guide](https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html)
 * [2024-11-21, 10:02:55](https://lobste.rs/s/l0x0xu/ghc_s_webassembly_backend_now_supports) - [GHC's WebAssembly backend now supports Template Haskell and GHCi](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/)
