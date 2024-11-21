@@ -1,22 +1,32 @@
 [
   [
     [
-      "2024-11-21, 01:18:49",
-      "https://lobste.rs/s/douvo4/investigating_spir_v_for_stride_shader"
-    ],
-    [
-      "Investigating SPIR-V for the Stride shader system (part 2)",
-      "https://www.stride3d.net/blog/investigating-spirv-for-the-shader-system-part-2/"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 00:38:32",
       "https://lobste.rs/s/m38xkv/modern_hardware_for_future_databases"
     ],
     [
       "Modern Hardware for Future Databases",
       "https://transactional.blog/blog/2024-modern-database-hardware"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 00:31:58",
+      "https://lobste.rs/s/owbdxj/delta_chat_introduces_realtime_peer_peer"
+    ],
+    [
+      "Delta Chat introduces realtime Peer-to-Peer networking",
+      "https://delta.chat/en/2024-11-20-webxdc-realtime"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 00:19:16",
+      "https://lobste.rs/s/cisvkk/rust_foundation_collaborates_with_aws"
+    ],
+    [
+      "Rust Foundation Collaborates With AWS Initiative to Verify Rust Standard Libraries",
+      "https://foundation.rust-lang.org/news/rust-foundation-collaborates-with-aws-initiative-to-verify-rust-standard-libraries/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "Async/Await Is Real And Can Hurt You",
       "https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 11:01:35",
-      "https://lobste.rs/s/o2xl17/ghosts_departed_proofs_2018"
-    ],
-    [
-      "Ghosts of Departed Proofs (2018)",
-      "https://iohk.io/en/research/library/papers/ghosts-of-departed-proofs-functional-pearls/"
     ]
   ],
   [
