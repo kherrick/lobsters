@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-21, 11:44:37](https://lobste.rs/s/lfdvop/finding_bugs_chrome_with_codeql) - [Finding Bugs in Chrome with CodeQL](https://bughunters.google.com/blog/5085111480877056/finding-bugs-in-chrome-with-codeql)
 * [2024-11-21, 11:21:17](https://lobste.rs/s/qy588a/haskell_unfolder_episode_36_concurrency) - [The Haskell Unfolder Episode 36: concurrency and the FFI](https://www.youtube.com/watch?v=IMrBTx7aYjs&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7)
 * [2024-11-21, 11:19:56](https://lobste.rs/s/mn4651/compiling_haskell_webassembly_step_by) - [Compiling Haskell to WebAssembly: A Step-by-Step Guide](https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html)
 * [2024-11-21, 10:30:56](https://lobste.rs/s/bb0gax/united_states_america_vs_google_llc) - [United States of America vs. Google LLC](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.1_1.pdf)
@@ -24,7 +25,6 @@
 * [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
 * [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
 * [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
-* [2024-11-20, 06:45:31](https://lobste.rs/s/tlaaae/lush_my_favorite_small_programming) - [Lush: my favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
 
 ## [Archives](archives/index.md)
 
