@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 23:13:43](https://lobste.rs/s/e2xlkr/memory_management_safety_bismuth_vm) - [Memory management and safety in Bismuth VM](https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/)
+* [2024-11-21, 23:10:25](https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey) - [OSC52: My Cut & Paste Journey](https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/)
 * [2024-11-21, 22:46:30](https://lobste.rs/s/oqwnm2/chatgpt_shell_goes_offline) - [chatgpt-shell goes offline](https://lmno.lol/alvaro/chatgpt-shell-goes-offline)
 * [2024-11-21, 22:21:36](https://lobste.rs/s/6nkjgt/david_heinemeier_hansson_joins_shopify_s) - [David Heinemeier Hansson joins Shopify’s board: 20 years in the making](https://www.shopify.com/news/david-heinemeier-hansson-board)
 * [2024-11-21, 17:06:29](https://lobste.rs/s/1ng8dw/handling_cookies_is_minefield) - [Handling Cookies is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
