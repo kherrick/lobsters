@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-21, 11:21:17](https://lobste.rs/s/qy588a/haskell_unfolder_episode_36_concurrency) - [The Haskell Unfolder Episode 36: concurrency and the FFI](https://www.youtube.com/watch?v=IMrBTx7aYjs&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7)
+* [2024-11-21, 11:19:56](https://lobste.rs/s/mn4651/compiling_haskell_webassembly_step_by) - [Compiling Haskell to WebAssembly: A Step-by-Step Guide](https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html)
 * [2024-11-21, 10:30:56](https://lobste.rs/s/bb0gax/united_states_america_vs_google_llc) - [United States of America vs. Google LLC](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.1_1.pdf)
-* [2024-11-21, 10:25:34](https://lobste.rs/s/6ztvcs/gnu_artanis_1_0_0_released) - [GNU Artanis 1.0.0 released](https://artanis.dev/blog/1.0.0-release.html)
 * [2024-11-21, 10:02:55](https://lobste.rs/s/l0x0xu/ghc_s_webassembly_backend_now_supports) - [GHC's WebAssembly backend now supports Template Haskell and GHCi](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/)
 * [2024-11-21, 08:44:40](https://lobste.rs/s/c80rah/where_s_why_what_happened_when_one_world_s) - [Where’s _why? What Happened When One of the World’s Most Beloved Programmers Vanished (2012)](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
 * [2024-11-21, 08:35:34](https://lobste.rs/s/mi5zek/beam_s_bright_future_with_gleam) - [BEAM's bright future with Gleam (and JavaScript?)](https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s)
@@ -15,7 +16,6 @@
 * [2024-11-20, 18:58:31](https://lobste.rs/s/rvts3f/map_keys_lifetimes) - [Map Keys and Lifetimes](https://blinsay.com/blog/compound-keys/)
 * [2024-11-20, 18:34:41](https://lobste.rs/s/tvgghj/does_internet_route_around_damage_baltic) - [Does the internet route around damage? - Baltic sea cable cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
-* [2024-11-20, 17:48:10](https://lobste.rs/s/dwvufi/freebee_at_t_unix_pc_emulator) - [FreeBee, an AT&T UNIX PC emulator](https://www.philpem.me.uk/code/3b1emu)
 * [2024-11-20, 17:29:23](https://lobste.rs/s/ck4brr/sql_homomorphisms_constraint) - [SQL, Homomorphisms and Constraint Satisfaction Problems](https://www.philipzucker.com/sql_graph_csp/)
 * [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
 * [2024-11-20, 15:08:54](https://lobste.rs/s/etolms/fargate_vs_ec2) - [Fargate vs EC2](https://www.pulumi.com/blog/fargate-vs-ec2/)

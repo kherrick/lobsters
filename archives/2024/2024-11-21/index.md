@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 11:21:17](https://lobste.rs/s/qy588a/haskell_unfolder_episode_36_concurrency) - [The Haskell Unfolder Episode 36: concurrency and the FFI](https://www.youtube.com/watch?v=IMrBTx7aYjs&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7)
+* [2024-11-21, 11:19:56](https://lobste.rs/s/mn4651/compiling_haskell_webassembly_step_by) - [Compiling Haskell to WebAssembly: A Step-by-Step Guide](https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html)
 * [2024-11-21, 10:30:56](https://lobste.rs/s/bb0gax/united_states_america_vs_google_llc) - [United States of America vs. Google LLC](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.1_1.pdf)
 * [2024-11-21, 10:25:34](https://lobste.rs/s/6ztvcs/gnu_artanis_1_0_0_released) - [GNU Artanis 1.0.0 released](https://artanis.dev/blog/1.0.0-release.html)
 * [2024-11-21, 10:02:55](https://lobste.rs/s/l0x0xu/ghc_s_webassembly_backend_now_supports) - [GHC's WebAssembly backend now supports Template Haskell and GHCi](https://www.tweag.io/blog/2024-11-21-ghc-wasm-th-ghci/)
