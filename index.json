@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-21, 08:35:34",
+      "https://lobste.rs/s/mi5zek/beam_s_bright_future_with_gleam"
+    ],
+    [
+      "BEAM's bright future with Gleam (and JavaScript?)",
+      "https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 05:44:51",
       "https://lobste.rs/s/mla0ns/til_some_surprising_code_execution"
     ],
@@ -21,12 +31,12 @@
   ],
   [
     [
-      "2024-11-21, 00:38:32",
-      "https://lobste.rs/s/m38xkv/modern_hardware_for_future_databases"
+      "2024-11-21, 01:15:07",
+      "https://lobste.rs/s/otoe3q/local_privilege_escalation_via"
     ],
     [
-      "Modern Hardware for Future Databases",
-      "https://transactional.blog/blog/2024-modern-database-hardware"
+      "Local privilege escalation via needrestart",
+      "https://www.qualys.com/2024/11/19/needrestart/needrestart.txt"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Lush: my favorite small programming language",
       "https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/"
-    ]
-  ],
-  [
-    [
-      "2024-11-19, 16:15:01",
-      "https://lobste.rs/s/i5xnsj/testing_with_go_postgresql_ephemeral_dbs"
-    ],
-    [
-      "Testing with Go and PostgreSQL: ephemeral DBs",
-      "https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/"
     ]
   ],
   [
