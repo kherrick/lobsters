@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-21, 17:06:29](https://lobste.rs/s/1ng8dw/handling_cookies_is_minefield) - [Handling Cookies is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 14:45:20](https://lobste.rs/s/wis1xj/entrust_distrust_will_be_more_disruptive) - [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
 * [2024-11-21, 14:37:41](https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement) - [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 13:49:23](https://lobste.rs/s/isqmje/future_bcachefs_kernel_is_uncertain) - [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
@@ -18,7 +19,6 @@
 * [2024-11-20, 22:50:59](https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates) - [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
 * [2024-11-20, 20:16:50](https://lobste.rs/s/5s4em5/dbsp_automatic_incremental_view) - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://muratbuffalo.blogspot.com/2024/11/dbsp-automatic-incremental-view.html)
 * [2024-11-20, 18:58:31](https://lobste.rs/s/rvts3f/map_keys_lifetimes) - [Map Keys and Lifetimes](https://blinsay.com/blog/compound-keys/)
-* [2024-11-20, 18:34:41](https://lobste.rs/s/tvgghj/does_internet_route_around_damage_baltic) - [Does the internet route around damage? - Baltic sea cable cuts](https://labs.ripe.net/author/emileaben/does-the-internet-route-around-damage-baltic-sea-cable-cuts/)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 * [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
