@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-21, 11:44:37",
+      "https://lobste.rs/s/lfdvop/finding_bugs_chrome_with_codeql"
+    ],
+    [
+      "Finding Bugs in Chrome with CodeQL",
+      "https://bughunters.google.com/blog/5085111480877056/finding-bugs-in-chrome-with-codeql"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 11:21:17",
       "https://lobste.rs/s/qy588a/haskell_unfolder_episode_36_concurrency"
     ],
@@ -237,16 +247,6 @@
     [
       "AAA - Analytical Anti-Aliasing",
       "https://blog.frost.kiwi/analytical-anti-aliasing/"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 06:45:31",
-      "https://lobste.rs/s/tlaaae/lush_my_favorite_small_programming"
-    ],
-    [
-      "Lush: my favorite small programming language",
-      "https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/"
     ]
   ]
 ]
