@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-11-21, 22:46:30",
-      "https://lobste.rs/s/oqwnm2/chatgpt_shell_goes_offline"
+      "2024-11-21, 23:13:43",
+      "https://lobste.rs/s/e2xlkr/memory_management_safety_bismuth_vm"
     ],
     [
-      "chatgpt-shell goes offline",
-      "https://lmno.lol/alvaro/chatgpt-shell-goes-offline"
+      "Memory management and safety in Bismuth VM",
+      "https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 23:10:25",
+      "https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey"
+    ],
+    [
+      "OSC52: My Cut & Paste Journey",
+      "https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Delta Chat introduces realtime Peer-to-Peer networking",
       "https://delta.chat/en/2024-11-20-webxdc-realtime"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 00:19:16",
-      "https://lobste.rs/s/cisvkk/rust_foundation_collaborates_with_aws"
-    ],
-    [
-      "Rust Foundation Collaborates With AWS Initiative to Verify Rust Standard Libraries",
-      "https://foundation.rust-lang.org/news/rust-foundation-collaborates-with-aws-initiative-to-verify-rust-standard-libraries/"
     ]
   ],
   [
