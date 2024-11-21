@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-21, 01:15:07](https://lobste.rs/s/otoe3q/local_privilege_escalation_via) - [Local privilege escalation via needrestart](https://www.qualys.com/2024/11/19/needrestart/needrestart.txt)
 * [2024-11-21, 00:38:32](https://lobste.rs/s/m38xkv/modern_hardware_for_future_databases) - [Modern Hardware for Future Databases](https://transactional.blog/blog/2024-modern-database-hardware)
 * [2024-11-21, 00:31:58](https://lobste.rs/s/owbdxj/delta_chat_introduces_realtime_peer_peer) - [Delta Chat introduces realtime Peer-to-Peer networking](https://delta.chat/en/2024-11-20-webxdc-realtime)
 * [2024-11-21, 00:19:16](https://lobste.rs/s/cisvkk/rust_foundation_collaborates_with_aws) - [Rust Foundation Collaborates With AWS Initiative to Verify Rust Standard Libraries](https://foundation.rust-lang.org/news/rust-foundation-collaborates-with-aws-initiative-to-verify-rust-standard-libraries/)
@@ -13,7 +14,6 @@
 * [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
 * [2024-11-20, 15:08:54](https://lobste.rs/s/etolms/fargate_vs_ec2) - [Fargate vs EC2](https://www.pulumi.com/blog/fargate-vs-ec2/)
 * [2024-11-20, 14:15:57](https://lobste.rs/s/1ygjph/rust_foundation_s_2nd_bad_draft_trademark) - [The Rust Foundation's 2nd bad draft trademark policy](https://diziet.dreamwidth.org/19151.html)
-* [2024-11-20, 14:15:33](https://lobste.rs/s/8xps75/state_kotlin_scripting_2024) - [State of Kotlin Scripting 2024](https://blog.jetbrains.com/kotlin/2024/11/state-of-kotlin-scripting-2024/)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-20, 12:43:52](https://lobste.rs/s/vvosch/fireducks_pandas_100x_faster) - [FireDucks : Pandas but 100x faster](https://hwisnu.bearblog.dev/fireducks-pandas-but-100x-faster/)
 * [2024-11-20, 12:34:06](https://lobste.rs/s/jenpvy/vim_history_very_very_old_history_vim_from) - [vim-history: Very very old history of Vim (from v1.14 to v6.4)](https://github.com/vim/vim-history)
