@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-21, 23:33:12",
+      "https://lobste.rs/s/vr1zwz/hyrum_s_law_go"
+    ],
+    [
+      "Hyrum's Law in Go",
+      "https://abenezerbelachew.com/blog/hyrum-law-in-golang"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 23:13:43",
       "https://lobste.rs/s/e2xlkr/memory_management_safety_bismuth_vm"
     ],
@@ -197,16 +207,6 @@
     [
       "They all use it",
       "https://registerspill.thorstenball.com/p/they-all-use-it"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 17:09:43",
-      "https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi"
-    ],
-    [
-      "Sequin: a tool for inspecting ANSI sequences",
-      "https://github.com/charmbracelet/sequin"
     ]
   ],
   [
