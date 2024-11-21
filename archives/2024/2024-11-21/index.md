@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 23:33:12](https://lobste.rs/s/vr1zwz/hyrum_s_law_go) - [Hyrum's Law in Go](https://abenezerbelachew.com/blog/hyrum-law-in-golang)
 * [2024-11-21, 23:13:43](https://lobste.rs/s/e2xlkr/memory_management_safety_bismuth_vm) - [Memory management and safety in Bismuth VM](https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/)
 * [2024-11-21, 23:10:25](https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey) - [OSC52: My Cut & Paste Journey](https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/)
 * [2024-11-21, 22:46:30](https://lobste.rs/s/oqwnm2/chatgpt_shell_goes_offline) - [chatgpt-shell goes offline](https://lmno.lol/alvaro/chatgpt-shell-goes-offline)

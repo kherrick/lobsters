@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-21, 23:33:12](https://lobste.rs/s/vr1zwz/hyrum_s_law_go) - [Hyrum's Law in Go](https://abenezerbelachew.com/blog/hyrum-law-in-golang)
 * [2024-11-21, 23:13:43](https://lobste.rs/s/e2xlkr/memory_management_safety_bismuth_vm) - [Memory management and safety in Bismuth VM](https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/)
 * [2024-11-21, 23:10:25](https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey) - [OSC52: My Cut & Paste Journey](https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/)
 * [2024-11-21, 17:06:29](https://lobste.rs/s/1ng8dw/handling_cookies_is_minefield) - [Handling Cookies is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
@@ -20,7 +21,6 @@
 * [2024-11-20, 22:50:59](https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates) - [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
 * [2024-11-20, 20:16:50](https://lobste.rs/s/5s4em5/dbsp_automatic_incremental_view) - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://muratbuffalo.blogspot.com/2024/11/dbsp-automatic-incremental-view.html)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
-* [2024-11-20, 17:09:43](https://lobste.rs/s/szmzh7/sequin_tool_for_inspecting_ansi) - [Sequin: a tool for inspecting ANSI sequences](https://github.com/charmbracelet/sequin)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
 * [2024-11-20, 09:54:50](https://lobste.rs/s/bfbmqs/let_s_encrypt_ten_years) - [Let’s Encrypt: Ten Years](https://letsencrypt.org/2014/11/18/announcing-lets-encrypt/)
