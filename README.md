@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-21, 01:18:49](https://lobste.rs/s/douvo4/investigating_spir_v_for_stride_shader) - [Investigating SPIR-V for the Stride shader system (part 2)](https://www.stride3d.net/blog/investigating-spirv-for-the-shader-system-part-2/)
 * [2024-11-21, 00:38:32](https://lobste.rs/s/m38xkv/modern_hardware_for_future_databases) - [Modern Hardware for Future Databases](https://transactional.blog/blog/2024-modern-database-hardware)
-* [2024-11-21, 00:31:58](https://lobste.rs/s/owbdxj/delta_chat_introduces_realtime_peer_peer) - [Delta Chat introduces realtime Peer-to-Peer networking](https://delta.chat/en/2024-11-20-webxdc-realtime)
 * [2024-11-20, 22:50:59](https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates) - [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
 * [2024-11-20, 20:16:50](https://lobste.rs/s/5s4em5/dbsp_automatic_incremental_view) - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://muratbuffalo.blogspot.com/2024/11/dbsp-automatic-incremental-view.html)
 * [2024-11-20, 18:58:31](https://lobste.rs/s/rvts3f/map_keys_lifetimes) - [Map Keys and Lifetimes](https://blinsay.com/blog/compound-keys/)
