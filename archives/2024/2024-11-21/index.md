@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
 * [2024-11-21, 05:44:51](https://lobste.rs/s/mla0ns/til_some_surprising_code_execution) - [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
+* [2024-11-21, 04:13:36](https://lobste.rs/s/y1lgsi/building_large_geospatial_model_achieve) - [Building a Large Geospatial Model to Achieve Spatial Intelligence](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-21, 01:18:49](https://lobste.rs/s/douvo4/investigating_spir_v_for_stride_shader) - [Investigating SPIR-V for the Stride shader system (part 2)](https://www.stride3d.net/blog/investigating-spirv-for-the-shader-system-part-2/)
 * [2024-11-21, 01:15:07](https://lobste.rs/s/otoe3q/local_privilege_escalation_via) - [Local privilege escalation via needrestart](https://www.qualys.com/2024/11/19/needrestart/needrestart.txt)
 * [2024-11-21, 00:38:32](https://lobste.rs/s/m38xkv/modern_hardware_for_future_databases) - [Modern Hardware for Future Databases](https://transactional.blog/blog/2024-modern-database-hardware)

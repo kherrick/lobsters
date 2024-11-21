@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-11-21, 05:44:51](https://lobste.rs/s/mla0ns/til_some_surprising_code_execution) - [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
+* [2024-11-21, 04:13:36](https://lobste.rs/s/y1lgsi/building_large_geospatial_model_achieve) - [Building a Large Geospatial Model to Achieve Spatial Intelligence](https://nianticlabs.com/news/largegeospatialmodel)
 * [2024-11-21, 00:38:32](https://lobste.rs/s/m38xkv/modern_hardware_for_future_databases) - [Modern Hardware for Future Databases](https://transactional.blog/blog/2024-modern-database-hardware)
 * [2024-11-21, 00:31:58](https://lobste.rs/s/owbdxj/delta_chat_introduces_realtime_peer_peer) - [Delta Chat introduces realtime Peer-to-Peer networking](https://delta.chat/en/2024-11-20-webxdc-realtime)
 * [2024-11-21, 00:19:16](https://lobste.rs/s/cisvkk/rust_foundation_collaborates_with_aws) - [Rust Foundation Collaborates With AWS Initiative to Verify Rust Standard Libraries](https://foundation.rust-lang.org/news/rust-foundation-collaborates-with-aws-initiative-to-verify-rust-standard-libraries/)
@@ -23,7 +24,6 @@
 * [2024-11-20, 07:12:59](https://lobste.rs/s/qhdfdg/webvm_virtual_machine_for_web) - [webvm: Virtual Machine for the Web](https://github.com/leaningtech/webvm)
 * [2024-11-20, 06:45:31](https://lobste.rs/s/tlaaae/lush_my_favorite_small_programming) - [Lush: my favorite small programming language](https://scottlocklin.wordpress.com/2024/11/19/lush-my-favorite-small-programming-language/)
 * [2024-11-19, 16:15:01](https://lobste.rs/s/i5xnsj/testing_with_go_postgresql_ephemeral_dbs) - [Testing with Go and PostgreSQL: ephemeral DBs](https://michael.stapelberg.ch/posts/2024-11-19-testing-with-go-and-postgresql-ephemeral-dbs/)
-* [2024-11-19, 14:59:12](https://lobste.rs/s/fxjcuf/what_expect_from_chicken_6) - [What to expect from CHICKEN 6](https://www.more-magic.net/posts/chicken-6.html)
 * [2024-11-19, 12:23:06](https://lobste.rs/s/vsbhpu/unreachable_hidden_xkcd_easter_egg) - [An Unreachable Hidden XKCD Easter Egg inside CPython](https://blog.codingconfessions.com/p/cpython-hidden-xkcd-easter-egg)
 
 ## [Archives](archives/index.md)
