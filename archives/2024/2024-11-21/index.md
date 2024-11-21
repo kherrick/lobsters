@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-21](index.md)
 
+* [2024-11-21, 12:20:35](https://lobste.rs/s/eydojp/stereographic_projection_stern_brocot) - [The stereographic projection of the Stern–Brocot tree](https://richardt.io/stereo_stern/)
 * [2024-11-21, 11:44:37](https://lobste.rs/s/lfdvop/finding_bugs_chrome_with_codeql) - [Finding Bugs in Chrome with CodeQL](https://bughunters.google.com/blog/5085111480877056/finding-bugs-in-chrome-with-codeql)
 * [2024-11-21, 11:21:17](https://lobste.rs/s/qy588a/haskell_unfolder_episode_36_concurrency) - [The Haskell Unfolder Episode 36: concurrency and the FFI](https://www.youtube.com/watch?v=IMrBTx7aYjs&list=PLD8gywOEY4HaG5VSrKVnHxCptlJv2GAn7)
 * [2024-11-21, 11:19:56](https://lobste.rs/s/mn4651/compiling_haskell_webassembly_step_by) - [Compiling Haskell to WebAssembly: A Step-by-Step Guide](https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html)
