@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 13:50:30](https://lobste.rs/s/1rgf5b/clojure_don_ts_concat) - [Clojure Don’ts: Concat](https://stuartsierra.com/2015/04/26/clojure-donts-concat)
+* [2024-11-22, 13:43:03](https://lobste.rs/s/fo6nra/built_functions_provided_by_gcc) - [Built-in Functions Provided by GCC](https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html)
 * [2024-11-22, 13:22:26](https://lobste.rs/s/fbsz5g/runtime_extensible_sql_parsers_using_peg) - [Runtime-Extensible SQL Parsers Using PEG](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
 * [2024-11-22, 13:18:52](https://lobste.rs/s/5opvwa/reliably_benchmarking_small_changes) - [Reliably benchmarking small changes](https://ankush.dev/p/reliable-benchmarking)
 * [2024-11-22, 11:24:27](https://lobste.rs/s/rmlpr5/convert_any_article_episode_your_private) - [Convert any article to an episode of your private podcast (text-to-speech)](https://github.com/freetonik/linkcast/tree/main)
