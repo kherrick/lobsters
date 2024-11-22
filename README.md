@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 16:16:25](https://lobste.rs/s/jzrf3y/explaining_effects_effect_handlers_with) - [Explaining Effects and Effect Handlers with EYG](https://www.youtube.com/watch?v=DiehtDWF8fU)
 * [2024-11-22, 15:45:47](https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views) - [How I Model SwiftUI Views](https://calebhearth.com/l/how-i-model-views)
 * [2024-11-22, 15:43:55](https://lobste.rs/s/qxxjf9/key_transparency_right_be_forgotten) - [Key Transparency and the Right to be Forgotten](https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/)
 * [2024-11-22, 14:44:38](https://lobste.rs/s/qr23zs/khronos_group_launches_slang_initiative) - [Khronos Group Launches Slang Initiative](https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia)
@@ -23,7 +24,6 @@
 * [2024-11-21, 13:49:23](https://lobste.rs/s/isqmje/future_bcachefs_kernel_is_uncertain) - [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
 * [2024-11-21, 12:29:59](https://lobste.rs/s/rouohp/freebsd_14_on_laptop) - [FreeBSD 14 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/)
 * [2024-11-21, 08:44:40](https://lobste.rs/s/c80rah/where_s_why_what_happened_when_one_world_s) - [Where’s _why? What Happened When One of the World’s Most Beloved Programmers Vanished (2012)](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
-* [2024-11-21, 08:35:34](https://lobste.rs/s/mi5zek/beam_s_bright_future_with_gleam) - [BEAM's bright future with Gleam (and JavaScript?)](https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s)
 * [2024-11-21, 05:44:51](https://lobste.rs/s/mla0ns/til_some_surprising_code_execution) - [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
 
 ## [Archives](archives/index.md)
