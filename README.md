@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 09:19:48](https://lobste.rs/s/sxl8cp/multi_emulator_gameboy_tracer) - [A multi-emulator Gameboy tracer](https://bernsteinbear.com/blog/gbtracer/)
 * [2024-11-22, 08:43:56](https://lobste.rs/s/kidzm8/truly_portable_c_applications) - [Truly portable C applications](https://lwn.net/Articles/997238/)
 * [2024-11-22, 08:33:17](https://lobste.rs/s/qhsdcf/futures_multiple_values_parallel_lisp) - [Futures and Multiple Values in Parallel Lisp (1991)](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
 * [2024-11-22, 08:12:58](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup) - [What's your go-to WFH setup?](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup)
@@ -22,7 +23,6 @@
 * [2024-11-21, 08:44:40](https://lobste.rs/s/c80rah/where_s_why_what_happened_when_one_world_s) - [Where’s _why? What Happened When One of the World’s Most Beloved Programmers Vanished (2012)](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
 * [2024-11-21, 08:35:34](https://lobste.rs/s/mi5zek/beam_s_bright_future_with_gleam) - [BEAM's bright future with Gleam (and JavaScript?)](https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s)
 * [2024-11-21, 05:44:51](https://lobste.rs/s/mla0ns/til_some_surprising_code_execution) - [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
-* [2024-11-20, 22:50:59](https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates) - [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 
