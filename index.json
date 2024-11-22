@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-11-22, 10:49:51",
-      "https://lobste.rs/s/xpdz3b/on_not_using_copilot"
-    ],
-    [
-      "On not using copilot",
-      "https://macwright.com/2024/11/20/not-using-copilot.html"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 10:43:02",
       "https://lobste.rs/s/ui1o1j/cloudflare_workflows_public_beta"
     ],
@@ -57,16 +47,6 @@
     [
       "A multi-emulator Gameboy tracer",
       "https://bernsteinbear.com/blog/gbtracer/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 08:43:56",
-      "https://lobste.rs/s/kidzm8/truly_portable_c_applications"
-    ],
-    [
-      "Truly portable C applications",
-      "https://lwn.net/Articles/997238/"
     ]
   ],
   [
@@ -201,12 +181,32 @@
   ],
   [
     [
+      "2024-11-21, 12:34:05",
+      "https://lobste.rs/s/gsv4k6/big_data_center_water_problem"
+    ],
+    [
+      "The Big Data Center Water Problem",
+      "https://www.asianometry.com/p/the-big-data-center-water-problem"
+    ]
+  ],
+  [
+    [
       "2024-11-21, 12:29:59",
       "https://lobste.rs/s/rouohp/freebsd_14_on_laptop"
     ],
     [
       "FreeBSD 14 on a Laptop",
       "https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/"
+    ]
+  ],
+  [
+    [
+      "2024-11-21, 11:19:56",
+      "https://lobste.rs/s/mn4651/compiling_haskell_webassembly_step_by"
+    ],
+    [
+      "Compiling Haskell to WebAssembly: A Step-by-Step Guide",
+      "https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html"
     ]
   ],
   [
