@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 13:22:26](https://lobste.rs/s/fbsz5g/runtime_extensible_sql_parsers_using_peg) - [Runtime-Extensible SQL Parsers Using PEG](https://duckdb.org/2024/11/22/runtime-extensible-parsers.html)
+* [2024-11-22, 13:18:52](https://lobste.rs/s/5opvwa/reliably_benchmarking_small_changes) - [Reliably benchmarking small changes](https://ankush.dev/p/reliable-benchmarking)
 * [2024-11-22, 11:24:27](https://lobste.rs/s/rmlpr5/convert_any_article_episode_your_private) - [Convert any article to an episode of your private podcast (text-to-speech)](https://github.com/freetonik/linkcast/tree/main)
 * [2024-11-22, 10:49:51](https://lobste.rs/s/xpdz3b/on_not_using_copilot) - [On not using copilot](https://macwright.com/2024/11/20/not-using-copilot.html)
 * [2024-11-22, 10:43:02](https://lobste.rs/s/ui1o1j/cloudflare_workflows_public_beta) - [Cloudflare Workflows (public Beta)](https://developers.cloudflare.com/workflows/)
@@ -18,9 +20,7 @@
 * [2024-11-21, 14:45:20](https://lobste.rs/s/wis1xj/entrust_distrust_will_be_more_disruptive) - [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
 * [2024-11-21, 14:37:41](https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement) - [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 13:49:23](https://lobste.rs/s/isqmje/future_bcachefs_kernel_is_uncertain) - [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
-* [2024-11-21, 12:34:05](https://lobste.rs/s/gsv4k6/big_data_center_water_problem) - [The Big Data Center Water Problem](https://www.asianometry.com/p/the-big-data-center-water-problem)
 * [2024-11-21, 12:29:59](https://lobste.rs/s/rouohp/freebsd_14_on_laptop) - [FreeBSD 14 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/)
-* [2024-11-21, 11:19:56](https://lobste.rs/s/mn4651/compiling_haskell_webassembly_step_by) - [Compiling Haskell to WebAssembly: A Step-by-Step Guide](https://www.tushar-adhatrao.in/blogs/haskell_to_wasm.html)
 * [2024-11-21, 10:30:56](https://lobste.rs/s/bb0gax/united_states_america_vs_google_llc) - [United States of America vs. Google LLC](https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.1_1.pdf)
 * [2024-11-21, 08:44:40](https://lobste.rs/s/c80rah/where_s_why_what_happened_when_one_world_s) - [Where’s _why? What Happened When One of the World’s Most Beloved Programmers Vanished (2012)](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
 * [2024-11-21, 08:35:34](https://lobste.rs/s/mi5zek/beam_s_bright_future_with_gleam) - [BEAM's bright future with Gleam (and JavaScript?)](https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s)
