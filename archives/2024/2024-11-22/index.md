@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 20:00:46](https://lobste.rs/s/70ldfi/new_jless_8_freebsd_jails_list_manage_tool) - [New jless(8) FreeBSD Jails List/Manage Tool](https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/)
+* [2024-11-22, 19:31:02](https://lobste.rs/s/pr8gha/naming_things) - [Naming things](https://wiki.dpk.land/Naming_things)
 * [2024-11-22, 19:15:54](https://lobste.rs/s/rdjqw0/why_am_i_writing_javascript_toolchain_zig) - [Why am I writing a JavaScript toolchain in Zig?](https://injuly.in/blog/announcing-jam/index.html)
 * [2024-11-22, 18:44:04](https://lobste.rs/s/0p9crm/translating_my_grandfather_s_biograpy) - [Translating my Grandfather’s biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 18:26:22](https://lobste.rs/s/t7tfws/bpftrace_scriptable_magnifying_glass) - [bpftrace: a scriptable magnifying glass with X-ray vision for Linux](https://flox.dev/blog/bpftrace--a-scriptable-magnifying-glass-with-x-ray-vision-for-linux/)

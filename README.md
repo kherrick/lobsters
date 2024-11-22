@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 20:00:46](https://lobste.rs/s/70ldfi/new_jless_8_freebsd_jails_list_manage_tool) - [New jless(8) FreeBSD Jails List/Manage Tool](https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/)
+* [2024-11-22, 19:31:02](https://lobste.rs/s/pr8gha/naming_things) - [Naming things](https://wiki.dpk.land/Naming_things)
 * [2024-11-22, 19:15:54](https://lobste.rs/s/rdjqw0/why_am_i_writing_javascript_toolchain_zig) - [Why am I writing a JavaScript toolchain in Zig?](https://injuly.in/blog/announcing-jam/index.html)
 * [2024-11-22, 18:26:22](https://lobste.rs/s/t7tfws/bpftrace_scriptable_magnifying_glass) - [bpftrace: a scriptable magnifying glass with X-ray vision for Linux](https://flox.dev/blog/bpftrace--a-scriptable-magnifying-glass-with-x-ray-vision-for-linux/)
-* [2024-11-22, 18:20:58](https://lobste.rs/s/0i8dhf/what_s_coming_go_1_24) - [What's coming in Go 1.24](https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit)
 * [2024-11-22, 16:54:02](https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really) - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/)
 * [2024-11-22, 16:45:21](https://lobste.rs/s/q8txir/breakver) - [BreakVer](https://www.taoensso.com/break-versioning)
 * [2024-11-22, 16:16:25](https://lobste.rs/s/jzrf3y/explaining_effects_effect_handlers_with) - [Explaining Effects and Effect Handlers with EYG](https://www.youtube.com/watch?v=DiehtDWF8fU)
@@ -19,7 +20,6 @@
 * [2024-11-22, 08:04:01](https://lobste.rs/s/bmk5hr/how_some_world_s_most_brilliant_computer) - [How some of the world's most brilliant computer scientists got password policies so wrong](https://stuartschechter.org/posts/password-history/)
 * [2024-11-22, 07:17:21](https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being) - [why is mathematica so bad at being a spreadsheet?](https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being)
 * [2024-11-22, 04:59:49](https://lobste.rs/s/xlxqgl/pidgin_3_0_0_experimental_1_announcement) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
-* [2024-11-22, 04:56:27](https://lobste.rs/s/zaljec/jainja_jvm_written_java) - [Jainja: a JVM written in Java](https://jainja.thenesis.org/home)
 * [2024-11-22, 01:57:04](https://lobste.rs/s/vzqap2/arcan_deeper_dive_into_shmif_ipc_system) - [Arcan: A deeper dive into the SHMIF IPC system](https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/)
 * [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
 * [2024-11-21, 13:49:23](https://lobste.rs/s/isqmje/future_bcachefs_kernel_is_uncertain) - [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
