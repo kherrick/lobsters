@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 01:57:04](https://lobste.rs/s/vzqap2/arcan_deeper_dive_into_shmif_ipc_system) - [Arcan: A deeper dive into the SHMIF IPC system](https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/)
 * [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
 * [2024-11-21, 23:13:43](https://lobste.rs/s/e2xlkr/memory_management_safety_bismuth_vm) - [Memory management and safety in Bismuth VM](https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/)
 * [2024-11-21, 23:10:25](https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey) - [OSC52: My Cut & Paste Journey](https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/)
@@ -24,7 +25,6 @@
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
-* [2024-11-20, 08:02:32](https://lobste.rs/s/6e8zc3/aaa_analytical_anti_aliasing) - [AAA - Analytical Anti-Aliasing](https://blog.frost.kiwi/analytical-anti-aliasing/)
 
 ## [Archives](archives/index.md)
 
