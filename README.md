@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 08:12:58](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup) - [What's your go-to WFH setup?](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup)
+* [2024-11-22, 08:04:01](https://lobste.rs/s/bmk5hr/how_some_world_s_most_brilliant_computer) - [How some of the world's most brilliant computer scientists got password policies so wrong](https://stuartschechter.org/posts/password-history/)
 * [2024-11-22, 07:17:21](https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being) - [why is mathematica so bad at being a spreadsheet?](https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being)
 * [2024-11-22, 04:59:49](https://lobste.rs/s/xlxqgl/pidgin_3_0_0_experimental_1_announcement) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 * [2024-11-22, 04:56:27](https://lobste.rs/s/zaljec/jainja_jvm_written_java) - [Jainja: a JVM written in Java](https://jainja.thenesis.org/home)
 * [2024-11-22, 01:57:04](https://lobste.rs/s/vzqap2/arcan_deeper_dive_into_shmif_ipc_system) - [Arcan: A deeper dive into the SHMIF IPC system](https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/)
 * [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
-* [2024-11-21, 23:13:43](https://lobste.rs/s/e2xlkr/memory_management_safety_bismuth_vm) - [Memory management and safety in Bismuth VM](https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/)
 * [2024-11-21, 23:10:25](https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey) - [OSC52: My Cut & Paste Journey](https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/)
 * [2024-11-21, 17:06:29](https://lobste.rs/s/1ng8dw/handling_cookies_is_minefield) - [Handling Cookies is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 14:45:20](https://lobste.rs/s/wis1xj/entrust_distrust_will_be_more_disruptive) - [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
@@ -24,7 +25,6 @@
 * [2024-11-20, 22:50:59](https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates) - [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
-* [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
 
 ## [Archives](archives/index.md)
 
