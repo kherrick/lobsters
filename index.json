@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-11-22, 15:19:15",
-      "https://lobste.rs/s/iu9tfw/gopkgview_go_dependency_visualization"
-    ],
-    [
-      "gopkgview - Go dependency visualization",
-      "https://github.com/grishy/gopkgview"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 14:44:38",
       "https://lobste.rs/s/qr23zs/khronos_group_launches_slang_initiative"
     ],
@@ -47,6 +37,16 @@
     [
       "Baby's second garbage collector",
       "https://jennyjams.net/blog/copygc/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 14:17:10",
+      "https://lobste.rs/s/xahrwb/case_for_high_level_kernel_bypass_i_o"
+    ],
+    [
+      "The Case for a High-level Kernel-Bypass I/O Abstraction",
+      "https://irenezhang.net/blog/2019/05/21/demikernel.html"
     ]
   ],
   [
