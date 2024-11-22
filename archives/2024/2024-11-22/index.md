@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 15:45:47](https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views) - [How I Model SwiftUI Views](https://calebhearth.com/l/how-i-model-views)
+* [2024-11-22, 15:43:55](https://lobste.rs/s/qxxjf9/key_transparency_right_be_forgotten) - [Key Transparency and the Right to be Forgotten](https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/)
 * [2024-11-22, 15:19:15](https://lobste.rs/s/iu9tfw/gopkgview_go_dependency_visualization) - [gopkgview - Go dependency visualization](https://github.com/grishy/gopkgview)
 * [2024-11-22, 14:44:38](https://lobste.rs/s/qr23zs/khronos_group_launches_slang_initiative) - [Khronos Group Launches Slang Initiative](https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia)
 * [2024-11-22, 14:34:23](https://lobste.rs/s/owrdwh/building_first_class_exchange) - [Building a first-class exchange architecture with CoralSequencer](https://www.coralblocks.com/index.php/building-a-first-class-exchange-architecture-with-coralsequencer/)
