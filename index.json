@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-22, 10:49:51",
+      "https://lobste.rs/s/xpdz3b/on_not_using_copilot"
+    ],
+    [
+      "On not using copilot",
+      "https://macwright.com/2024/11/20/not-using-copilot.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 10:43:02",
+      "https://lobste.rs/s/ui1o1j/cloudflare_workflows_public_beta"
+    ],
+    [
+      "Cloudflare Workflows (public Beta)",
+      "https://developers.cloudflare.com/workflows/"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 09:19:48",
       "https://lobste.rs/s/sxl8cp/multi_emulator_gameboy_tracer"
     ],
@@ -97,16 +117,6 @@
     [
       "What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?",
       "https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 23:10:25",
-      "https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey"
-    ],
-    [
-      "OSC52: My Cut & Paste Journey",
-      "https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "They all use it",
       "https://registerspill.thorstenball.com/p/they-all-use-it"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 14:00:45",
-      "https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd"
-    ],
-    [
-      "Why I stopped using OpenBSD",
-      "https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html"
     ]
   ]
 ]
