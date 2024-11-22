@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-22, 09:19:48",
+      "https://lobste.rs/s/sxl8cp/multi_emulator_gameboy_tracer"
+    ],
+    [
+      "A multi-emulator Gameboy tracer",
+      "https://bernsteinbear.com/blog/gbtracer/"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 08:43:56",
       "https://lobste.rs/s/kidzm8/truly_portable_c_applications"
     ],
@@ -217,16 +227,6 @@
     [
       "TIL: Some surprising code execution sources in bash",
       "https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash"
-    ]
-  ],
-  [
-    [
-      "2024-11-20, 22:50:59",
-      "https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates"
-    ],
-    [
-      "Native compilation of Prolog predicates with Cranelift",
-      "https://files.adrianistan.eu/talk2024.pdf"
     ]
   ],
   [
