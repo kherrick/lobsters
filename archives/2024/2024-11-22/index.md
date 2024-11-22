@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 11:24:27](https://lobste.rs/s/rmlpr5/convert_any_article_episode_your_private) - [Convert any article to an episode of your private podcast (text-to-speech)](https://github.com/freetonik/linkcast/tree/main)
 * [2024-11-22, 10:49:51](https://lobste.rs/s/xpdz3b/on_not_using_copilot) - [On not using copilot](https://macwright.com/2024/11/20/not-using-copilot.html)
 * [2024-11-22, 10:43:02](https://lobste.rs/s/ui1o1j/cloudflare_workflows_public_beta) - [Cloudflare Workflows (public Beta)](https://developers.cloudflare.com/workflows/)
 * [2024-11-22, 09:19:48](https://lobste.rs/s/sxl8cp/multi_emulator_gameboy_tracer) - [A multi-emulator Gameboy tracer](https://bernsteinbear.com/blog/gbtracer/)
