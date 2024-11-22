@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 16:54:02](https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really) - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/)
 * [2024-11-22, 16:16:25](https://lobste.rs/s/jzrf3y/explaining_effects_effect_handlers_with) - [Explaining Effects and Effect Handlers with EYG](https://www.youtube.com/watch?v=DiehtDWF8fU)
 * [2024-11-22, 15:45:47](https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views) - [How I Model SwiftUI Views](https://calebhearth.com/l/how-i-model-views)
 * [2024-11-22, 15:43:55](https://lobste.rs/s/qxxjf9/key_transparency_right_be_forgotten) - [Key Transparency and the Right to be Forgotten](https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/)
@@ -20,7 +21,6 @@
 * [2024-11-22, 04:56:27](https://lobste.rs/s/zaljec/jainja_jvm_written_java) - [Jainja: a JVM written in Java](https://jainja.thenesis.org/home)
 * [2024-11-22, 01:57:04](https://lobste.rs/s/vzqap2/arcan_deeper_dive_into_shmif_ipc_system) - [Arcan: A deeper dive into the SHMIF IPC system](https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/)
 * [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
-* [2024-11-21, 14:37:41](https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement) - [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 13:49:23](https://lobste.rs/s/isqmje/future_bcachefs_kernel_is_uncertain) - [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
 * [2024-11-21, 12:29:59](https://lobste.rs/s/rouohp/freebsd_14_on_laptop) - [FreeBSD 14 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/)
 * [2024-11-21, 08:44:40](https://lobste.rs/s/c80rah/where_s_why_what_happened_when_one_world_s) - [Where’s _why? What Happened When One of the World’s Most Beloved Programmers Vanished (2012)](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)

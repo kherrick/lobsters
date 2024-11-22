@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 16:54:02](https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really) - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/)
 * [2024-11-22, 16:16:25](https://lobste.rs/s/jzrf3y/explaining_effects_effect_handlers_with) - [Explaining Effects and Effect Handlers with EYG](https://www.youtube.com/watch?v=DiehtDWF8fU)
 * [2024-11-22, 15:45:47](https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views) - [How I Model SwiftUI Views](https://calebhearth.com/l/how-i-model-views)
 * [2024-11-22, 15:43:55](https://lobste.rs/s/qxxjf9/key_transparency_right_be_forgotten) - [Key Transparency and the Right to be Forgotten](https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/)
