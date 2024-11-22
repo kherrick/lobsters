@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 04:59:49](https://lobste.rs/s/xlxqgl/pidgin_3_0_0_experimental_1_announcement) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
+* [2024-11-22, 04:56:27](https://lobste.rs/s/zaljec/jainja_jvm_written_java) - [Jainja: a JVM written in Java](https://jainja.thenesis.org/home)
 * [2024-11-22, 01:57:04](https://lobste.rs/s/vzqap2/arcan_deeper_dive_into_shmif_ipc_system) - [Arcan: A deeper dive into the SHMIF IPC system](https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/)
 * [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
 * [2024-11-21, 23:13:43](https://lobste.rs/s/e2xlkr/memory_management_safety_bismuth_vm) - [Memory management and safety in Bismuth VM](https://enikofox.com/posts/memory-management-and-safety-in-bismuth-vm/)
@@ -8,7 +10,6 @@
 * [2024-11-21, 14:45:20](https://lobste.rs/s/wis1xj/entrust_distrust_will_be_more_disruptive) - [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
 * [2024-11-21, 14:37:41](https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement) - [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
 * [2024-11-21, 14:34:45](https://lobste.rs/s/gf9gqp/introducing_our_grid_aware_websites) - [Introducing our grid-aware websites project](https://www.thegreenwebfoundation.org/news/introducing-our-grid-aware-websites-project/)
-* [2024-11-21, 14:02:26](https://lobste.rs/s/2phubi/n_spheres) - [N-Spheres](https://youtu.be/BDERfRP2GI0)
 * [2024-11-21, 13:49:23](https://lobste.rs/s/isqmje/future_bcachefs_kernel_is_uncertain) - [The future of bcachefs in the kernel is uncertain](https://www.patreon.com/posts/trouble-in-116412665)
 * [2024-11-21, 12:34:05](https://lobste.rs/s/gsv4k6/big_data_center_water_problem) - [The Big Data Center Water Problem](https://www.asianometry.com/p/the-big-data-center-water-problem)
 * [2024-11-21, 12:29:59](https://lobste.rs/s/rouohp/freebsd_14_on_laptop) - [FreeBSD 14 on a Laptop](https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/)
@@ -21,7 +22,6 @@
 * [2024-11-21, 05:44:51](https://lobste.rs/s/mla0ns/til_some_surprising_code_execution) - [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
 * [2024-11-21, 00:31:58](https://lobste.rs/s/owbdxj/delta_chat_introduces_realtime_peer_peer) - [Delta Chat introduces realtime Peer-to-Peer networking](https://delta.chat/en/2024-11-20-webxdc-realtime)
 * [2024-11-20, 22:50:59](https://lobste.rs/s/ihhb3x/native_compilation_prolog_predicates) - [Native compilation of Prolog predicates with Cranelift](https://files.adrianistan.eu/talk2024.pdf)
-* [2024-11-20, 20:16:50](https://lobste.rs/s/5s4em5/dbsp_automatic_incremental_view) - [DBSP: Automatic Incremental View Maintenance for Rich Query Languages](https://muratbuffalo.blogspot.com/2024/11/dbsp-automatic-incremental-view.html)
 * [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 * [2024-11-20, 14:00:45](https://lobste.rs/s/pxpwwt/why_i_stopped_using_openbsd) - [Why I stopped using OpenBSD](https://dataswamp.org/~solene/2024-11-15-why-i-stopped-using-openbsd.html)
 * [2024-11-20, 11:54:37](https://lobste.rs/s/3zbdil/async_await_is_real_can_hurt_you) - [Async/Await Is Real And Can Hurt You](https://trouble.mataroa.blog/blog/asyncawait-is-real-and-can-hurt-you/)
