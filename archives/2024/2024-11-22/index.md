@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 14:44:38](https://lobste.rs/s/qr23zs/khronos_group_launches_slang_initiative) - [Khronos Group Launches Slang Initiative](https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia)
 * [2024-11-22, 14:34:23](https://lobste.rs/s/owrdwh/building_first_class_exchange) - [Building a first-class exchange architecture with CoralSequencer](https://www.coralblocks.com/index.php/building-a-first-class-exchange-architecture-with-coralsequencer/)
 * [2024-11-22, 14:21:09](https://lobste.rs/s/2zcrni/baby_s_second_garbage_collector) - [Baby's second garbage collector](https://jennyjams.net/blog/copygc/)
 * [2024-11-22, 14:17:10](https://lobste.rs/s/xahrwb/case_for_high_level_kernel_bypass_i_o) - [The Case for a High-level Kernel-Bypass I/O Abstraction](https://irenezhang.net/blog/2019/05/21/demikernel.html)
