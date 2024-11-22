@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-11-22, 14:21:09",
+      "https://lobste.rs/s/2zcrni/baby_s_second_garbage_collector"
+    ],
+    [
+      "Baby's second garbage collector",
+      "https://jennyjams.net/blog/copygc/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 14:17:10",
+      "https://lobste.rs/s/xahrwb/case_for_high_level_kernel_bypass_i_o"
+    ],
+    [
+      "The Case for a High-level Kernel-Bypass I/O Abstraction",
+      "https://irenezhang.net/blog/2019/05/21/demikernel.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 14:13:33",
+      "https://lobste.rs/s/28cr5o/nullable_reference_types_f_9"
+    ],
+    [
+      "Nullable Reference Types in F# 9",
+      "https://devblogs.microsoft.com/dotnet/nullable-reference-types-in-fsharp-9/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 14:00:26",
+      "https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch"
+    ],
+    [
+      "Self-Hosting Isn't a Solution; It's A Patch",
+      "https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 13:50:30",
       "https://lobste.rs/s/1rgf5b/clojure_don_ts_concat"
     ],
@@ -67,16 +107,6 @@
     [
       "A multi-emulator Gameboy tracer",
       "https://bernsteinbear.com/blog/gbtracer/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 08:33:17",
-      "https://lobste.rs/s/qhsdcf/futures_multiple_values_parallel_lisp"
-    ],
-    [
-      "Futures and Multiple Values in Parallel Lisp (1991)",
-      "https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf"
     ]
   ],
   [
@@ -151,32 +181,12 @@
   ],
   [
     [
-      "2024-11-21, 23:10:25",
-      "https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey"
-    ],
-    [
-      "OSC52: My Cut & Paste Journey",
-      "https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/"
-    ]
-  ],
-  [
-    [
       "2024-11-21, 17:06:29",
       "https://lobste.rs/s/1ng8dw/handling_cookies_is_minefield"
     ],
     [
       "Handling Cookies is a Minefield",
       "https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 14:45:20",
-      "https://lobste.rs/s/wis1xj/entrust_distrust_will_be_more_disruptive"
-    ],
-    [
-      "The Entrust Distrust Will Be More Disruptive Than Intended",
-      "https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "FreeBSD 14 on a Laptop",
       "https://www.sacredheartsc.com/blog/freebsd-14-on-the-desktop/"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 10:30:56",
-      "https://lobste.rs/s/bb0gax/united_states_america_vs_google_llc"
-    ],
-    [
-      "United States of America vs. Google LLC",
-      "https://storage.courtlistener.com/recap/gov.uscourts.dcd.223205/gov.uscourts.dcd.223205.1062.1_1.pdf"
     ]
   ],
   [
