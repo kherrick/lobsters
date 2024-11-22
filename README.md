@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 15:19:15](https://lobste.rs/s/iu9tfw/gopkgview_go_dependency_visualization) - [gopkgview - Go dependency visualization](https://github.com/grishy/gopkgview)
 * [2024-11-22, 14:44:38](https://lobste.rs/s/qr23zs/khronos_group_launches_slang_initiative) - [Khronos Group Launches Slang Initiative](https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia)
 * [2024-11-22, 14:34:23](https://lobste.rs/s/owrdwh/building_first_class_exchange) - [Building a first-class exchange architecture with CoralSequencer](https://www.coralblocks.com/index.php/building-a-first-class-exchange-architecture-with-coralsequencer/)
 * [2024-11-22, 14:21:09](https://lobste.rs/s/2zcrni/baby_s_second_garbage_collector) - [Baby's second garbage collector](https://jennyjams.net/blog/copygc/)
 * [2024-11-22, 14:17:10](https://lobste.rs/s/xahrwb/case_for_high_level_kernel_bypass_i_o) - [The Case for a High-level Kernel-Bypass I/O Abstraction](https://irenezhang.net/blog/2019/05/21/demikernel.html)
-* [2024-11-22, 14:13:33](https://lobste.rs/s/28cr5o/nullable_reference_types_f_9) - [Nullable Reference Types in F# 9](https://devblogs.microsoft.com/dotnet/nullable-reference-types-in-fsharp-9/)
 * [2024-11-22, 14:00:26](https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch) - [Self-Hosting Isn't a Solution; It's A Patch](https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/)
 * [2024-11-22, 13:43:03](https://lobste.rs/s/fo6nra/built_functions_provided_by_gcc) - [Built-in Functions Provided by GCC](https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html)
 * [2024-11-22, 13:18:52](https://lobste.rs/s/5opvwa/reliably_benchmarking_small_changes) - [Reliably benchmarking small changes](https://ankush.dev/p/reliable-benchmarking)
