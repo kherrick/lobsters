@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-22, 18:26:22](https://lobste.rs/s/t7tfws/bpftrace_scriptable_magnifying_glass) - [bpftrace: a scriptable magnifying glass with X-ray vision for Linux](https://flox.dev/blog/bpftrace--a-scriptable-magnifying-glass-with-x-ray-vision-for-linux/)
+* [2024-11-22, 18:20:58](https://lobste.rs/s/0i8dhf/what_s_coming_go_1_24) - [What's coming in Go 1.24](https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit)
 * [2024-11-22, 16:54:02](https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really) - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/)
 * [2024-11-22, 16:16:25](https://lobste.rs/s/jzrf3y/explaining_effects_effect_handlers_with) - [Explaining Effects and Effect Handlers with EYG](https://www.youtube.com/watch?v=DiehtDWF8fU)
 * [2024-11-22, 15:45:47](https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views) - [How I Model SwiftUI Views](https://calebhearth.com/l/how-i-model-views)
@@ -9,10 +11,8 @@
 * [2024-11-22, 14:17:10](https://lobste.rs/s/xahrwb/case_for_high_level_kernel_bypass_i_o) - [The Case for a High-level Kernel-Bypass I/O Abstraction](https://irenezhang.net/blog/2019/05/21/demikernel.html)
 * [2024-11-22, 14:00:26](https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch) - [Self-Hosting Isn't a Solution; It's A Patch](https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/)
 * [2024-11-22, 13:43:03](https://lobste.rs/s/fo6nra/built_functions_provided_by_gcc) - [Built-in Functions Provided by GCC](https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html)
-* [2024-11-22, 13:18:52](https://lobste.rs/s/5opvwa/reliably_benchmarking_small_changes) - [Reliably benchmarking small changes](https://ankush.dev/p/reliable-benchmarking)
 * [2024-11-22, 11:24:27](https://lobste.rs/s/rmlpr5/convert_any_article_episode_your_private) - [Convert any article to an episode of your private podcast (text-to-speech)](https://github.com/freetonik/linkcast/tree/main)
 * [2024-11-22, 10:43:02](https://lobste.rs/s/ui1o1j/cloudflare_workflows_public_beta) - [Cloudflare Workflows (public Beta)](https://developers.cloudflare.com/workflows/)
-* [2024-11-22, 09:19:48](https://lobste.rs/s/sxl8cp/multi_emulator_gameboy_tracer) - [A multi-emulator Gameboy tracer](https://bernsteinbear.com/blog/gbtracer/)
 * [2024-11-22, 08:43:56](https://lobste.rs/s/kidzm8/truly_portable_c_applications) - [Truly portable C applications](https://lwn.net/Articles/997238/)
 * [2024-11-22, 08:12:58](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup) - [What's your go-to WFH setup?](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup)
 * [2024-11-22, 08:04:01](https://lobste.rs/s/bmk5hr/how_some_world_s_most_brilliant_computer) - [How some of the world's most brilliant computer scientists got password policies so wrong](https://stuartschechter.org/posts/password-history/)
