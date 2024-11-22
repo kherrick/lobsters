@@ -13,6 +13,7 @@
 * [2024-11-22, 04:56:27](https://lobste.rs/s/zaljec/jainja_jvm_written_java) - [Jainja: a JVM written in Java](https://jainja.thenesis.org/home)
 * [2024-11-22, 01:57:04](https://lobste.rs/s/vzqap2/arcan_deeper_dive_into_shmif_ipc_system) - [Arcan: A deeper dive into the SHMIF IPC system](https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/)
 * [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
+* [2024-11-21, 23:10:25](https://lobste.rs/s/e8tg67/osc52_my_cut_paste_journey) - [OSC52: My Cut & Paste Journey](https://miek.nl/2024/january/31/osc52-my-cut-paste-journey/)
 * [2024-11-21, 17:06:29](https://lobste.rs/s/1ng8dw/handling_cookies_is_minefield) - [Handling Cookies is a Minefield](https://grayduck.mn/2024/11/21/handling-cookies-is-a-minefield/)
 * [2024-11-21, 14:45:20](https://lobste.rs/s/wis1xj/entrust_distrust_will_be_more_disruptive) - [The Entrust Distrust Will Be More Disruptive Than Intended](https://sslmate.com/blog/post/entrust_distrust_more_disruptive_than_intended)
 * [2024-11-21, 14:37:41](https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement) - [PHP 8.4.0 Release Announcement](https://www.php.net/releases/8.4/en.php)
@@ -24,7 +25,6 @@
 * [2024-11-21, 08:44:40](https://lobste.rs/s/c80rah/where_s_why_what_happened_when_one_world_s) - [Where’s _why? What Happened When One of the World’s Most Beloved Programmers Vanished (2012)](http://www.slate.com/articles/technology/technology/2012/03/ruby_ruby_on_rails_and__why_the_disappearance_of_one_of_the_world_s_most_beloved_computer_programmers_.html)
 * [2024-11-21, 08:35:34](https://lobste.rs/s/mi5zek/beam_s_bright_future_with_gleam) - [BEAM's bright future with Gleam (and JavaScript?)](https://www.youtube.com/watch?v=fhJBEuJjxFQ&t=389s)
 * [2024-11-21, 05:44:51](https://lobste.rs/s/mla0ns/til_some_surprising_code_execution) - [TIL: Some surprising code execution sources in bash](https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash)
-* [2024-11-20, 17:51:28](https://lobste.rs/s/v3zarc/they_all_use_it) - [They all use it](https://registerspill.thorstenball.com/p/they-all-use-it)
 
 ## [Archives](archives/index.md)
 
