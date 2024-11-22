@@ -2,9 +2,9 @@
 
 * [2024-11-22, 15:45:47](https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views) - [How I Model SwiftUI Views](https://calebhearth.com/l/how-i-model-views)
 * [2024-11-22, 15:43:55](https://lobste.rs/s/qxxjf9/key_transparency_right_be_forgotten) - [Key Transparency and the Right to be Forgotten](https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/)
-* [2024-11-22, 15:19:15](https://lobste.rs/s/iu9tfw/gopkgview_go_dependency_visualization) - [gopkgview - Go dependency visualization](https://github.com/grishy/gopkgview)
 * [2024-11-22, 14:44:38](https://lobste.rs/s/qr23zs/khronos_group_launches_slang_initiative) - [Khronos Group Launches Slang Initiative](https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia)
 * [2024-11-22, 14:21:09](https://lobste.rs/s/2zcrni/baby_s_second_garbage_collector) - [Baby's second garbage collector](https://jennyjams.net/blog/copygc/)
+* [2024-11-22, 14:17:10](https://lobste.rs/s/xahrwb/case_for_high_level_kernel_bypass_i_o) - [The Case for a High-level Kernel-Bypass I/O Abstraction](https://irenezhang.net/blog/2019/05/21/demikernel.html)
 * [2024-11-22, 14:00:26](https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch) - [Self-Hosting Isn't a Solution; It's A Patch](https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/)
 * [2024-11-22, 13:43:03](https://lobste.rs/s/fo6nra/built_functions_provided_by_gcc) - [Built-in Functions Provided by GCC](https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html)
 * [2024-11-22, 13:18:52](https://lobste.rs/s/5opvwa/reliably_benchmarking_small_changes) - [Reliably benchmarking small changes](https://ankush.dev/p/reliable-benchmarking)
