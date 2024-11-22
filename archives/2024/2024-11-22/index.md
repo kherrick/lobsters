@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 10:49:51](https://lobste.rs/s/xpdz3b/on_not_using_copilot) - [On not using copilot](https://macwright.com/2024/11/20/not-using-copilot.html)
+* [2024-11-22, 10:43:02](https://lobste.rs/s/ui1o1j/cloudflare_workflows_public_beta) - [Cloudflare Workflows (public Beta)](https://developers.cloudflare.com/workflows/)
 * [2024-11-22, 09:19:48](https://lobste.rs/s/sxl8cp/multi_emulator_gameboy_tracer) - [A multi-emulator Gameboy tracer](https://bernsteinbear.com/blog/gbtracer/)
 * [2024-11-22, 08:43:56](https://lobste.rs/s/kidzm8/truly_portable_c_applications) - [Truly portable C applications](https://lwn.net/Articles/997238/)
 * [2024-11-22, 08:33:17](https://lobste.rs/s/qhsdcf/futures_multiple_values_parallel_lisp) - [Futures and Multiple Values in Parallel Lisp (1991)](https://3e8.org/pub/scheme/doc/lisp-pointers/v8i2/p15-tomoyuki.pdf)
