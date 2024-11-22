@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-22, 16:54:02",
+      "https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really"
+    ],
+    [
+      "How decentralized is Bluesky really?",
+      "https://dustycloud.org/blog/how-decentralized-is-bluesky/"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 16:16:25",
       "https://lobste.rs/s/jzrf3y/explaining_effects_effect_handlers_with"
     ],
@@ -197,16 +207,6 @@
     [
       "What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?",
       "https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 14:37:41",
-      "https://lobste.rs/s/ozcsov/php_8_4_0_release_announcement"
-    ],
-    [
-      "PHP 8.4.0 Release Announcement",
-      "https://www.php.net/releases/8.4/en.php"
     ]
   ],
   [
