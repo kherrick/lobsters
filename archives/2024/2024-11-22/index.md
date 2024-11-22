@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 18:44:04](https://lobste.rs/s/0p9crm/translating_my_grandfather_s_biograpy) - [Translating my Grandfather’s biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 18:26:22](https://lobste.rs/s/t7tfws/bpftrace_scriptable_magnifying_glass) - [bpftrace: a scriptable magnifying glass with X-ray vision for Linux](https://flox.dev/blog/bpftrace--a-scriptable-magnifying-glass-with-x-ray-vision-for-linux/)
 * [2024-11-22, 18:20:58](https://lobste.rs/s/0i8dhf/what_s_coming_go_1_24) - [What's coming in Go 1.24](https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit)
 * [2024-11-22, 16:54:02](https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really) - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/)
