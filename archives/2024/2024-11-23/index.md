@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 16:09:53](https://lobste.rs/s/s3kemr/dec_k_month_2_decker_jam_december) - [Dec(k)-Month 2: A Decker Jam in December](https://itch.io/jam/deck-month-2)
 * [2024-11-23, 14:31:36](https://lobste.rs/s/r1mipq/sqlite_s_use_tcl) - [SQLite's use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 14:02:57](https://lobste.rs/s/qb7j5q/reverse_engineering_218_byte_wasm) - [Reverse Engineering a 218-Byte Wasm Compiler in JavaScript](https://www.youtube.com/watch?v=HAe6TvbwXJw)
 * [2024-11-23, 13:33:11](https://lobste.rs/s/6w5r0o/dissecting_m8trix) - [Dissecting m8trix](https://tilde.town/~dzwdz/blog/m8trix.html)

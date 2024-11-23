@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-23, 16:09:53](https://lobste.rs/s/s3kemr/dec_k_month_2_decker_jam_december) - [Dec(k)-Month 2: A Decker Jam in December](https://itch.io/jam/deck-month-2)
 * [2024-11-23, 14:31:36](https://lobste.rs/s/r1mipq/sqlite_s_use_tcl) - [SQLite's use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 14:02:57](https://lobste.rs/s/qb7j5q/reverse_engineering_218_byte_wasm) - [Reverse Engineering a 218-Byte Wasm Compiler in JavaScript](https://www.youtube.com/watch?v=HAe6TvbwXJw)
 * [2024-11-23, 13:33:11](https://lobste.rs/s/6w5r0o/dissecting_m8trix) - [Dissecting m8trix](https://tilde.town/~dzwdz/blog/m8trix.html)
@@ -22,7 +23,6 @@
 * [2024-11-22, 14:21:09](https://lobste.rs/s/2zcrni/baby_s_second_garbage_collector) - [Baby's second garbage collector](https://jennyjams.net/blog/copygc/)
 * [2024-11-22, 14:00:26](https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch) - [Self-Hosting Isn't a Solution; It's A Patch](https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/)
 * [2024-11-22, 08:12:58](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup) - [What's your go-to WFH setup?](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup)
-* [2024-11-22, 07:17:21](https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being) - [why is mathematica so bad at being a spreadsheet?](https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being)
 * [2024-11-22, 04:59:49](https://lobste.rs/s/xlxqgl/pidgin_3_0_0_experimental_1_announcement) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 * [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
 
