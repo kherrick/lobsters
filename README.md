@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
 * [2024-11-23, 22:25:39](https://lobste.rs/s/pdbofv/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2024-11-23, 17:58:31](https://lobste.rs/s/fsbkzg/improving_approachability_data_race) - [Improving the approachability of data-race safety](https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md)
 * [2024-11-23, 16:34:40](https://lobste.rs/s/fjbbvd/introduction_bismuth_vm) - [Introduction to Bismuth VM](https://enikofox.com/posts/introduction-to-bismuth-vm/)
@@ -16,7 +17,6 @@
 * [2024-11-22, 20:00:46](https://lobste.rs/s/70ldfi/new_jless_8_freebsd_jails_list_manage_tool) - [New jless(8) FreeBSD Jails List/Manage Tool](https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/)
 * [2024-11-22, 19:31:02](https://lobste.rs/s/pr8gha/naming_things) - [Naming things](https://wiki.dpk.land/Naming_things)
 * [2024-11-22, 19:15:54](https://lobste.rs/s/rdjqw0/why_am_i_writing_javascript_toolchain_zig) - [Why am I writing a JavaScript toolchain in Zig?](https://injuly.in/blog/announcing-jam/index.html)
-* [2024-11-22, 18:26:22](https://lobste.rs/s/t7tfws/bpftrace_scriptable_magnifying_glass) - [bpftrace: a scriptable magnifying glass with X-ray vision for Linux](https://flox.dev/blog/bpftrace--a-scriptable-magnifying-glass-with-x-ray-vision-for-linux/)
 * [2024-11-22, 18:20:58](https://lobste.rs/s/0i8dhf/what_s_coming_go_1_24) - [What's coming in Go 1.24](https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit)
 * [2024-11-22, 16:54:02](https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really) - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/)
 * [2024-11-22, 16:45:21](https://lobste.rs/s/q8txir/breakver) - [BreakVer](https://www.taoensso.com/break-versioning)
