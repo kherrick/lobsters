@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-23, 14:31:36",
+      "https://lobste.rs/s/r1mipq/sqlite_s_use_tcl"
+    ],
+    [
+      "SQLite's use of Tcl",
+      "https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 14:02:57",
       "https://lobste.rs/s/qb7j5q/reverse_engineering_218_byte_wasm"
     ],
@@ -227,16 +237,6 @@
     [
       "Pidgin 3.0.0 Experimental 1 Announcement",
       "https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 01:57:04",
-      "https://lobste.rs/s/vzqap2/arcan_deeper_dive_into_shmif_ipc_system"
-    ],
-    [
-      "Arcan: A deeper dive into the SHMIF IPC system",
-      "https://arcan-fe.com/2024/11/21/a-deeper-dive-into-the-shmif-ipc-system/"
     ]
   ],
   [
