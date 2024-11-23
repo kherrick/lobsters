@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-22](index.md)
 
+* [2024-11-22, 23:17:36](https://lobste.rs/s/h2drbh/nash_equilibria_ballmer_s_binary_search) - [Nash equilibria in Ballmer’s binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 * [2024-11-22, 23:15:17](https://lobste.rs/s/l3dp1e/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l3dp1e/what_are_you_doing_this_weekend)
 * [2024-11-22, 20:00:46](https://lobste.rs/s/70ldfi/new_jless_8_freebsd_jails_list_manage_tool) - [New jless(8) FreeBSD Jails List/Manage Tool](https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/)
 * [2024-11-22, 19:31:02](https://lobste.rs/s/pr8gha/naming_things) - [Naming things](https://wiki.dpk.land/Naming_things)
