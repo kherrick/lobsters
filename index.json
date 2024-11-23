@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-23, 07:42:26",
+      "https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging"
+    ],
+    [
+      "Don't Look Down on Print Debugging",
+      "https://blog.startifact.com/posts/print-debugging/"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 04:06:18",
       "https://lobste.rs/s/fbyu2n/how_designing_carbon_c_interop_taught_me"
     ],
@@ -177,16 +187,6 @@
     [
       "Built-in Functions Provided by GCC",
       "https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 08:43:56",
-      "https://lobste.rs/s/kidzm8/truly_portable_c_applications"
-    ],
-    [
-      "Truly portable C applications",
-      "https://lwn.net/Articles/997238/"
     ]
   ],
   [
