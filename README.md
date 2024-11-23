@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-23, 22:48:02](https://lobste.rs/s/2cbgwf/cumulative_culture_theory_for_developer) - [A Cumulative Culture Theory for Developer Problem-Solving](https://osf.io/preprints/psyarxiv/tfjyw)
 * [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
 * [2024-11-23, 22:25:39](https://lobste.rs/s/pdbofv/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2024-11-23, 17:58:31](https://lobste.rs/s/fsbkzg/improving_approachability_data_race) - [Improving the approachability of data-race safety](https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md)
@@ -22,7 +23,6 @@
 * [2024-11-22, 16:45:21](https://lobste.rs/s/q8txir/breakver) - [BreakVer](https://www.taoensso.com/break-versioning)
 * [2024-11-22, 15:45:47](https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views) - [How I Model SwiftUI Views](https://calebhearth.com/l/how-i-model-views)
 * [2024-11-22, 14:00:26](https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch) - [Self-Hosting Isn't a Solution; It's A Patch](https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/)
-* [2024-11-22, 08:12:58](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup) - [What's your go-to WFH setup?](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup)
 * [2024-11-22, 04:59:49](https://lobste.rs/s/xlxqgl/pidgin_3_0_0_experimental_1_announcement) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
 * [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
 
