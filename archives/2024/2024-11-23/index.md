@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 07:42:26](https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)
 * [2024-11-23, 04:06:18](https://lobste.rs/s/fbyu2n/how_designing_carbon_c_interop_taught_me) - [How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members](https://youtu.be/8SGMy9ENGz8)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-23, 07:42:26](https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)
 * [2024-11-23, 04:06:18](https://lobste.rs/s/fbyu2n/how_designing_carbon_c_interop_taught_me) - [How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members](https://youtu.be/8SGMy9ENGz8)
 * [2024-11-22, 23:17:36](https://lobste.rs/s/h2drbh/nash_equilibria_ballmer_s_binary_search) - [Nash equilibria in Ballmer’s binary-search interview game](https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/)
 * [2024-11-22, 23:15:17](https://lobste.rs/s/l3dp1e/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l3dp1e/what_are_you_doing_this_weekend)
@@ -18,7 +19,6 @@
 * [2024-11-22, 14:21:09](https://lobste.rs/s/2zcrni/baby_s_second_garbage_collector) - [Baby's second garbage collector](https://jennyjams.net/blog/copygc/)
 * [2024-11-22, 14:00:26](https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch) - [Self-Hosting Isn't a Solution; It's A Patch](https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/)
 * [2024-11-22, 13:43:03](https://lobste.rs/s/fo6nra/built_functions_provided_by_gcc) - [Built-in Functions Provided by GCC](https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html)
-* [2024-11-22, 08:43:56](https://lobste.rs/s/kidzm8/truly_portable_c_applications) - [Truly portable C applications](https://lwn.net/Articles/997238/)
 * [2024-11-22, 08:12:58](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup) - [What's your go-to WFH setup?](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup)
 * [2024-11-22, 08:04:01](https://lobste.rs/s/bmk5hr/how_some_world_s_most_brilliant_computer) - [How some of the world's most brilliant computer scientists got password policies so wrong](https://stuartschechter.org/posts/password-history/)
 * [2024-11-22, 07:17:21](https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being) - [why is mathematica so bad at being a spreadsheet?](https://lobste.rs/s/yn0ibw/why_is_mathematica_so_bad_at_being)
