@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-23, 14:02:57](https://lobste.rs/s/qb7j5q/reverse_engineering_218_byte_wasm) - [Reverse Engineering a 218-Byte Wasm Compiler in JavaScript](https://www.youtube.com/watch?v=HAe6TvbwXJw)
 * [2024-11-23, 13:33:11](https://lobste.rs/s/6w5r0o/dissecting_m8trix) - [Dissecting m8trix](https://tilde.town/~dzwdz/blog/m8trix.html)
 * [2024-11-23, 11:57:52](https://lobste.rs/s/l1w7eh/23_byte_hello_world_program_assembled) - [A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS](https://github.com/susam/hello)
 * [2024-11-23, 11:07:20](https://lobste.rs/s/gzqpbw/rendering_modern_winamp_skins_browser) - [Rendering “modern” Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
@@ -17,7 +18,6 @@
 * [2024-11-22, 16:45:21](https://lobste.rs/s/q8txir/breakver) - [BreakVer](https://www.taoensso.com/break-versioning)
 * [2024-11-22, 15:45:47](https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views) - [How I Model SwiftUI Views](https://calebhearth.com/l/how-i-model-views)
 * [2024-11-22, 15:43:55](https://lobste.rs/s/qxxjf9/key_transparency_right_be_forgotten) - [Key Transparency and the Right to be Forgotten](https://soatok.blog/2024/11/21/key-transparency-and-the-right-to-be-forgotten/)
-* [2024-11-22, 14:44:38](https://lobste.rs/s/qr23zs/khronos_group_launches_slang_initiative) - [Khronos Group Launches Slang Initiative](https://www.khronos.org/news/press/khronos-group-launches-slang-initiative-hosting-open-source-compiler-contributed-by-nvidia)
 * [2024-11-22, 14:21:09](https://lobste.rs/s/2zcrni/baby_s_second_garbage_collector) - [Baby's second garbage collector](https://jennyjams.net/blog/copygc/)
 * [2024-11-22, 14:00:26](https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch) - [Self-Hosting Isn't a Solution; It's A Patch](https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/)
 * [2024-11-22, 08:12:58](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup) - [What's your go-to WFH setup?](https://lobste.rs/s/nhzvzi/what_s_your_go_wfh_setup)

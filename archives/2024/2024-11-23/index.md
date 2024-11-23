@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 14:02:57](https://lobste.rs/s/qb7j5q/reverse_engineering_218_byte_wasm) - [Reverse Engineering a 218-Byte Wasm Compiler in JavaScript](https://www.youtube.com/watch?v=HAe6TvbwXJw)
 * [2024-11-23, 13:33:11](https://lobste.rs/s/6w5r0o/dissecting_m8trix) - [Dissecting m8trix](https://tilde.town/~dzwdz/blog/m8trix.html)
 * [2024-11-23, 11:57:52](https://lobste.rs/s/l1w7eh/23_byte_hello_world_program_assembled) - [A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS](https://github.com/susam/hello)
 * [2024-11-23, 11:07:20](https://lobste.rs/s/gzqpbw/rendering_modern_winamp_skins_browser) - [Rendering “modern” Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
