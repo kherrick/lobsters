@@ -151,22 +151,22 @@
   ],
   [
     [
-      "2024-11-22, 14:17:10",
-      "https://lobste.rs/s/xahrwb/case_for_high_level_kernel_bypass_i_o"
-    ],
-    [
-      "The Case for a High-level Kernel-Bypass I/O Abstraction",
-      "https://irenezhang.net/blog/2019/05/21/demikernel.html"
-    ]
-  ],
-  [
-    [
       "2024-11-22, 14:00:26",
       "https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch"
     ],
     [
       "Self-Hosting Isn't a Solution; It's A Patch",
       "https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/"
+    ]
+  ],
+  [
+    [
+      "2024-11-22, 13:43:03",
+      "https://lobste.rs/s/fo6nra/built_functions_provided_by_gcc"
+    ],
+    [
+      "Built-in Functions Provided by GCC",
+      "https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html"
     ]
   ],
   [
