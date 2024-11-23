@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-23, 11:57:52",
+      "https://lobste.rs/s/l1w7eh/23_byte_hello_world_program_assembled"
+    ],
+    [
+      "A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS",
+      "https://github.com/susam/hello"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 11:07:20",
       "https://lobste.rs/s/gzqpbw/rendering_modern_winamp_skins_browser"
     ],
@@ -187,16 +197,6 @@
     [
       "Self-Hosting Isn't a Solution; It's A Patch",
       "https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 13:43:03",
-      "https://lobste.rs/s/fo6nra/built_functions_provided_by_gcc"
-    ],
-    [
-      "Built-in Functions Provided by GCC",
-      "https://gcc.gnu.org/onlinedocs/gcc/Other-Builtins.html"
     ]
   ],
   [
