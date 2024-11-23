@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
 * [2024-11-23, 22:48:02](https://lobste.rs/s/2cbgwf/cumulative_culture_theory_for_developer) - [A Cumulative Culture Theory for Developer Problem-Solving](https://osf.io/preprints/psyarxiv/tfjyw)
 * [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
 * [2024-11-23, 22:25:39](https://lobste.rs/s/pdbofv/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
