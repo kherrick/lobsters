@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-23, 17:58:31",
+      "https://lobste.rs/s/fsbkzg/improving_approachability_data_race"
+    ],
+    [
+      "Improving the approachability of data-race safety",
+      "https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md"
+    ]
+  ],
+  [
+    [
       "2024-11-23, 16:34:40",
       "https://lobste.rs/s/fjbbvd/introduction_bismuth_vm"
     ],
@@ -97,16 +107,6 @@
     [
       "How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members",
       "https://youtu.be/8SGMy9ENGz8"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 23:17:36",
-      "https://lobste.rs/s/h2drbh/nash_equilibria_ballmer_s_binary_search"
-    ],
-    [
-      "Nash equilibria in Ballmer’s binary-search interview game",
-      "https://quuxplusone.github.io/blog/2024/09/04/the-game-is-flawed/"
     ]
   ],
   [
