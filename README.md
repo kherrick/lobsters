@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-23, 13:33:11](https://lobste.rs/s/6w5r0o/dissecting_m8trix) - [Dissecting m8trix](https://tilde.town/~dzwdz/blog/m8trix.html)
 * [2024-11-23, 11:57:52](https://lobste.rs/s/l1w7eh/23_byte_hello_world_program_assembled) - [A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS](https://github.com/susam/hello)
 * [2024-11-23, 11:07:20](https://lobste.rs/s/gzqpbw/rendering_modern_winamp_skins_browser) - [Rendering “modern” Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 * [2024-11-23, 07:59:20](https://lobste.rs/s/7fcg4t/thirsty_chatgpt_uses_four_times_more) - [‘Thirsty’ ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
@@ -10,7 +11,6 @@
 * [2024-11-22, 20:00:46](https://lobste.rs/s/70ldfi/new_jless_8_freebsd_jails_list_manage_tool) - [New jless(8) FreeBSD Jails List/Manage Tool](https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/)
 * [2024-11-22, 19:31:02](https://lobste.rs/s/pr8gha/naming_things) - [Naming things](https://wiki.dpk.land/Naming_things)
 * [2024-11-22, 19:15:54](https://lobste.rs/s/rdjqw0/why_am_i_writing_javascript_toolchain_zig) - [Why am I writing a JavaScript toolchain in Zig?](https://injuly.in/blog/announcing-jam/index.html)
-* [2024-11-22, 18:44:04](https://lobste.rs/s/0p9crm/translating_my_grandfather_s_biograpy) - [Translating my Grandfather’s biograpy](https://blog.korny.info/2024/11/17/translating-my-grandfathers-biography)
 * [2024-11-22, 18:26:22](https://lobste.rs/s/t7tfws/bpftrace_scriptable_magnifying_glass) - [bpftrace: a scriptable magnifying glass with X-ray vision for Linux](https://flox.dev/blog/bpftrace--a-scriptable-magnifying-glass-with-x-ray-vision-for-linux/)
 * [2024-11-22, 18:20:58](https://lobste.rs/s/0i8dhf/what_s_coming_go_1_24) - [What's coming in Go 1.24](https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit)
 * [2024-11-22, 16:54:02](https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really) - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/)

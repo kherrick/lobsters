@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-23](index.md)
 
+* [2024-11-23, 13:33:11](https://lobste.rs/s/6w5r0o/dissecting_m8trix) - [Dissecting m8trix](https://tilde.town/~dzwdz/blog/m8trix.html)
 * [2024-11-23, 11:57:52](https://lobste.rs/s/l1w7eh/23_byte_hello_world_program_assembled) - [A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS](https://github.com/susam/hello)
 * [2024-11-23, 11:07:20](https://lobste.rs/s/gzqpbw/rendering_modern_winamp_skins_browser) - [Rendering “modern” Winamp skins in the browser](https://jordaneldredge.com/notes/webamp-modern/)
 * [2024-11-23, 07:59:20](https://lobste.rs/s/7fcg4t/thirsty_chatgpt_uses_four_times_more) - [‘Thirsty’ ChatGPT uses four times more water than previously thought](https://www.thetimes.com/uk/technology-uk/article/thirsty-chatgpt-uses-four-times-more-water-than-previously-thought-bc0pqswdr)
