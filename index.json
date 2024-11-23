@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-11-22, 16:16:25",
+      "https://lobste.rs/s/jzrf3y/explaining_effects_effect_handlers_with"
+    ],
+    [
+      "Explaining Effects and Effect Handlers with EYG",
+      "https://www.youtube.com/watch?v=DiehtDWF8fU"
+    ]
+  ],
+  [
+    [
       "2024-11-22, 15:45:47",
       "https://lobste.rs/s/h9ipyu/how_i_model_swiftui_views"
     ],
@@ -237,16 +247,6 @@
     [
       "What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?",
       "https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for"
-    ]
-  ],
-  [
-    [
-      "2024-11-21, 05:44:51",
-      "https://lobste.rs/s/mla0ns/til_some_surprising_code_execution"
-    ],
-    [
-      "TIL: Some surprising code execution sources in bash",
-      "https://yossarian.net/til/post/some-surprising-code-execution-sources-in-bash"
     ]
   ]
 ]
