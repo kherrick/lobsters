@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 20:24:50](https://lobste.rs/s/ry1lsl/mark_scavenge_waiting_for_trash_take) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 * [2024-11-24, 19:37:34](https://lobste.rs/s/42noot/wireguard_beyond_most_basic) - [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 19:31:58](https://lobste.rs/s/ymydbt/nearest_neighbor_attack_how_russian_apt) - [The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-24, 19:29:42](https://lobste.rs/s/awn6vs/visual_sorting_aka_sound_sorting) - [Visual Sorting aka The Sound Of Sorting](https://mszula.github.io/visual-sorting/)
@@ -17,7 +18,6 @@
 * [2024-11-24, 09:24:02](https://lobste.rs/s/rpsyc8/are_golang_generics_simple_incomplete) - [Are Golang Generics Simple or Incomplete? A Design Study](https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/)
 * [2024-11-24, 07:22:57](https://lobste.rs/s/as2yuv/graphics_studies_compilation) - [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 * [2024-11-24, 05:01:41](https://lobste.rs/s/nib781/dear_friend_you_have_built_kubernetes) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
-* [2024-11-24, 02:17:03](https://lobste.rs/s/xxzgvn/achieving_warp_speed_with_rust_2017) - [Achieving warp speed with Rust (2017)](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
 * [2024-11-24, 02:14:13](https://lobste.rs/s/4vlywe/privilege_escalation_vulnerabilities) - [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
 * [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
 * [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
