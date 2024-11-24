@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 07:22:57](https://lobste.rs/s/as2yuv/graphics_studies_compilation) - [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 * [2024-11-24, 05:28:11](https://lobste.rs/s/k5evhf/semver_is_not_about_you) - [SemVer Is Not About You](https://matklad.github.io/2024/11/23/semver-is-not-about-you.html)
 * [2024-11-24, 05:01:41](https://lobste.rs/s/nib781/dear_friend_you_have_built_kubernetes) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 * [2024-11-24, 04:42:50](https://lobste.rs/s/iohg1z/icons_web_2013) - [Icons of the Web (2013)](https://nmap.org/favicon/)
