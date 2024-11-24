@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 09:46:24](https://lobste.rs/s/fqripa/on_self_hosting_being_patch) - [On self-hosting being a patch](https://blog.jutty.dev/posts/self-hosting-patch/)
 * [2024-11-24, 09:24:02](https://lobste.rs/s/rpsyc8/are_golang_generics_simple_incomplete) - [Are Golang Generics Simple or Incomplete? A Design Study](https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/)
 * [2024-11-24, 07:22:57](https://lobste.rs/s/as2yuv/graphics_studies_compilation) - [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 * [2024-11-24, 05:28:11](https://lobste.rs/s/k5evhf/semver_is_not_about_you) - [SemVer Is Not About You](https://matklad.github.io/2024/11/23/semver-is-not-about-you.html)
