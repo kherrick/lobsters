@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 19:20:49](https://lobste.rs/s/gqvbsb/configuring_vscode_with_nix_on_macos) - [Configuring VSCode with Nix on macOS](https://davi.sh/blog/2024/11/nix-vscode/)
 * [2024-11-24, 18:47:08](https://lobste.rs/s/qkgxx9/rga_ripgrep_also_search_pdfs_e_books) - [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
 * [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
 * [2024-11-24, 17:33:32](https://lobste.rs/s/0mvpsc/lecture_16_relational_algebra) - [Lecture 16: Relational Algebra](https://courses.cs.washington.edu/courses/cse444/10sp/lectures/lecture16.pdf)
@@ -13,7 +14,6 @@
 * [2024-11-24, 09:24:02](https://lobste.rs/s/rpsyc8/are_golang_generics_simple_incomplete) - [Are Golang Generics Simple or Incomplete? A Design Study](https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/)
 * [2024-11-24, 07:22:57](https://lobste.rs/s/as2yuv/graphics_studies_compilation) - [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 * [2024-11-24, 05:01:41](https://lobste.rs/s/nib781/dear_friend_you_have_built_kubernetes) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
-* [2024-11-24, 04:42:50](https://lobste.rs/s/iohg1z/icons_web_2013) - [Icons of the Web (2013)](https://nmap.org/favicon/)
 * [2024-11-24, 02:17:03](https://lobste.rs/s/xxzgvn/achieving_warp_speed_with_rust_2017) - [Achieving warp speed with Rust (2017)](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
 * [2024-11-24, 02:14:13](https://lobste.rs/s/4vlywe/privilege_escalation_vulnerabilities) - [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
 * [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
