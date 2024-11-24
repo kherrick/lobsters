@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-24, 18:47:08",
+      "https://lobste.rs/s/qkgxx9/rga_ripgrep_also_search_pdfs_e_books"
+    ],
+    [
+      "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)",
+      "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 18:35:26",
       "https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust"
     ],
@@ -207,16 +217,6 @@
     [
       "SQLite's use of Tcl",
       "https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 13:33:11",
-      "https://lobste.rs/s/6w5r0o/dissecting_m8trix"
-    ],
-    [
-      "Dissecting m8trix",
-      "https://tilde.town/~dzwdz/blog/m8trix.html"
     ]
   ],
   [
