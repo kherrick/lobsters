@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 15:46:03](https://lobste.rs/s/iijmae/my_red_hot_adhd_programming_affliction) - [My Red Hot ADHD Programming 'Affliction'](https://www.schneems.com/2024/11/21/my-red-hot-adhd-programming-affliction/)
 * [2024-11-24, 15:35:21](https://lobste.rs/s/g6s2uq/allocation_tests_unit_testing_for_memory) - [Allocation tests: unit testing for memory allocation in the JVM](https://lukeramsden.com/posts/allocation-tests-unit-testing-for-memory-allocation-in-the-jvm)
 * [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
@@ -18,7 +19,6 @@
 * [2024-11-23, 16:34:40](https://lobste.rs/s/fjbbvd/introduction_bismuth_vm) - [Introduction to Bismuth VM](https://enikofox.com/posts/introduction-to-bismuth-vm/)
 * [2024-11-23, 16:09:53](https://lobste.rs/s/s3kemr/dec_k_month_2_decker_jam_december) - [Dec(k)-Month 2: A Decker Jam in December](https://itch.io/jam/deck-month-2)
 * [2024-11-23, 14:31:36](https://lobste.rs/s/r1mipq/sqlite_s_use_tcl) - [SQLite's use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
-* [2024-11-23, 14:02:57](https://lobste.rs/s/qb7j5q/reverse_engineering_218_byte_wasm) - [Reverse Engineering a 218-Byte Wasm Compiler in JavaScript](https://www.youtube.com/watch?v=HAe6TvbwXJw)
 * [2024-11-23, 13:33:11](https://lobste.rs/s/6w5r0o/dissecting_m8trix) - [Dissecting m8trix](https://tilde.town/~dzwdz/blog/m8trix.html)
 * [2024-11-23, 11:57:52](https://lobste.rs/s/l1w7eh/23_byte_hello_world_program_assembled) - [A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS](https://github.com/susam/hello)
 * [2024-11-23, 07:42:26](https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)
