@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
 * [2024-11-24, 12:24:06](https://lobste.rs/s/2qvj3q/breaking_out_vrchat_using_unity_bug) - [Breaking out of VRChat using a Unity bug](https://khang06.github.io/vrcescape/)

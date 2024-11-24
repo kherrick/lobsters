@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
 * [2024-11-24, 12:24:06](https://lobste.rs/s/2qvj3q/breaking_out_vrchat_using_unity_bug) - [Breaking out of VRChat using a Unity bug](https://khang06.github.io/vrcescape/)
@@ -8,7 +9,6 @@
 * [2024-11-24, 07:22:57](https://lobste.rs/s/as2yuv/graphics_studies_compilation) - [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
 * [2024-11-24, 05:01:41](https://lobste.rs/s/nib781/dear_friend_you_have_built_kubernetes) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 * [2024-11-24, 04:42:50](https://lobste.rs/s/iohg1z/icons_web_2013) - [Icons of the Web (2013)](https://nmap.org/favicon/)
-* [2024-11-24, 02:31:30](https://lobste.rs/s/n9rovs/react_server_components_bad_idea) - [React Server Components: A Bad Idea?](https://ishankbg.dev/archive/react-server-components-a-bad-idea/)
 * [2024-11-24, 02:17:03](https://lobste.rs/s/xxzgvn/achieving_warp_speed_with_rust_2017) - [Achieving warp speed with Rust (2017)](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
 * [2024-11-24, 02:14:13](https://lobste.rs/s/4vlywe/privilege_escalation_vulnerabilities) - [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
 * [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
