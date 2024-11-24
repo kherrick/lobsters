@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
 * [2024-11-24, 12:24:06](https://lobste.rs/s/2qvj3q/breaking_out_vrchat_using_unity_bug) - [Breaking out of VRChat using a Unity bug](https://khang06.github.io/vrcescape/)
 * [2024-11-24, 09:58:24](https://lobste.rs/s/1fzwvp/rfc_clangir_based_safe_c) - [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245)
@@ -23,7 +24,6 @@
 * [2024-11-23, 07:42:26](https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)
 * [2024-11-23, 04:06:18](https://lobste.rs/s/fbyu2n/how_designing_carbon_c_interop_taught_me) - [How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members](https://youtu.be/8SGMy9ENGz8)
 * [2024-11-22, 19:15:54](https://lobste.rs/s/rdjqw0/why_am_i_writing_javascript_toolchain_zig) - [Why am I writing a JavaScript toolchain in Zig?](https://injuly.in/blog/announcing-jam/index.html)
-* [2024-11-22, 18:20:58](https://lobste.rs/s/0i8dhf/what_s_coming_go_1_24) - [What's coming in Go 1.24](https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit)
 * [2024-11-22, 16:54:02](https://lobste.rs/s/zmnr01/how_decentralized_is_bluesky_really) - [How decentralized is Bluesky really?](https://dustycloud.org/blog/how-decentralized-is-bluesky/)
 
 ## [Archives](archives/index.md)
