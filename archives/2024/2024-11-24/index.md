@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
 * [2024-11-24, 12:24:06](https://lobste.rs/s/2qvj3q/breaking_out_vrchat_using_unity_bug) - [Breaking out of VRChat using a Unity bug](https://khang06.github.io/vrcescape/)
 * [2024-11-24, 09:58:24](https://lobste.rs/s/1fzwvp/rfc_clangir_based_safe_c) - [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245)
 * [2024-11-24, 09:46:24](https://lobste.rs/s/fqripa/on_self_hosting_being_patch) - [On self-hosting being a patch](https://blog.jutty.dev/posts/self-hosting-patch/)
