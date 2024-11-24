@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 02:31:30](https://lobste.rs/s/n9rovs/react_server_components_bad_idea) - [React Server Components: A Bad Idea?](https://ishankbg.dev/archive/react-server-components-a-bad-idea/)
+* [2024-11-24, 02:17:03](https://lobste.rs/s/xxzgvn/achieving_warp_speed_with_rust_2017) - [Achieving warp speed with Rust (2017)](https://gist.github.com/jFransham/369a86eff00e5f280ed25121454acec1)
+* [2024-11-24, 02:14:13](https://lobste.rs/s/4vlywe/privilege_escalation_vulnerabilities) - [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
 * [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
-* [2024-11-23, 22:48:02](https://lobste.rs/s/2cbgwf/cumulative_culture_theory_for_developer) - [A Cumulative Culture Theory for Developer Problem-Solving](https://osf.io/preprints/psyarxiv/tfjyw)
 * [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
 * [2024-11-23, 22:25:39](https://lobste.rs/s/pdbofv/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2024-11-23, 17:58:31](https://lobste.rs/s/fsbkzg/improving_approachability_data_race) - [Improving the approachability of data-race safety](https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md)
@@ -16,7 +18,6 @@
 * [2024-11-23, 07:42:26](https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)
 * [2024-11-23, 04:06:18](https://lobste.rs/s/fbyu2n/how_designing_carbon_c_interop_taught_me) - [How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members](https://youtu.be/8SGMy9ENGz8)
 * [2024-11-22, 23:15:17](https://lobste.rs/s/l3dp1e/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l3dp1e/what_are_you_doing_this_weekend)
-* [2024-11-22, 20:00:46](https://lobste.rs/s/70ldfi/new_jless_8_freebsd_jails_list_manage_tool) - [New jless(8) FreeBSD Jails List/Manage Tool](https://vermaden.wordpress.com/2024/11/22/new-jless-freebsd-jails-list-manage-tool/)
 * [2024-11-22, 19:31:02](https://lobste.rs/s/pr8gha/naming_things) - [Naming things](https://wiki.dpk.land/Naming_things)
 * [2024-11-22, 19:15:54](https://lobste.rs/s/rdjqw0/why_am_i_writing_javascript_toolchain_zig) - [Why am I writing a JavaScript toolchain in Zig?](https://injuly.in/blog/announcing-jam/index.html)
 * [2024-11-22, 18:20:58](https://lobste.rs/s/0i8dhf/what_s_coming_go_1_24) - [What's coming in Go 1.24](https://docs.google.com/presentation/d/1jvc0RzrshOOjkeEnsyea2jwjs_zVOcyETG558pqPOK0/edit)
@@ -24,7 +25,6 @@
 * [2024-11-22, 16:45:21](https://lobste.rs/s/q8txir/breakver) - [BreakVer](https://www.taoensso.com/break-versioning)
 * [2024-11-22, 14:00:26](https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch) - [Self-Hosting Isn't a Solution; It's A Patch](https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/)
 * [2024-11-22, 04:59:49](https://lobste.rs/s/xlxqgl/pidgin_3_0_0_experimental_1_announcement) - [Pidgin 3.0.0 Experimental 1 Announcement](https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216)
-* [2024-11-22, 00:16:57](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for) - [What is the \"boring technology\" solution for running multiple containers on a single host in production in 2024?](https://lobste.rs/s/vajg5m/what_is_boring_technology_solution_for)
 
 ## [Archives](archives/index.md)
 
