@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 17:33:32](https://lobste.rs/s/0mvpsc/lecture_16_relational_algebra) - [Lecture 16: Relational Algebra](https://courses.cs.washington.edu/courses/cse444/10sp/lectures/lecture16.pdf)
 * [2024-11-24, 16:38:06](https://lobste.rs/s/z7hfjl/fleng_22_compiler_for_fhgc_strand_pcn_kl1) - [FLENG 22 - a compiler for FHGC, Strand, PCN and KL1](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-24, 16:31:55](https://lobste.rs/s/eiyicb/bluesky_enshittification) - [Bluesky and enshittification](https://pluralistic.net/2024/11/02/ulysses-pact/)
 * [2024-11-24, 15:46:03](https://lobste.rs/s/iijmae/my_red_hot_adhd_programming_affliction) - [My Red Hot ADHD Programming 'Affliction'](https://www.schneems.com/2024/11/21/my-red-hot-adhd-programming-affliction/)
