@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 19:37:34](https://lobste.rs/s/42noot/wireguard_beyond_most_basic) - [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
+* [2024-11-24, 19:31:58](https://lobste.rs/s/ymydbt/nearest_neighbor_attack_how_russian_apt) - [The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
 * [2024-11-24, 19:29:42](https://lobste.rs/s/awn6vs/visual_sorting_aka_sound_sorting) - [Visual Sorting aka The Sound Of Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-24, 19:20:49](https://lobste.rs/s/gqvbsb/configuring_vscode_with_nix_on_macos) - [Configuring VSCode with Nix on macOS](https://davi.sh/blog/2024/11/nix-vscode/)
 * [2024-11-24, 18:47:08](https://lobste.rs/s/qkgxx9/rga_ripgrep_also_search_pdfs_e_books) - [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
