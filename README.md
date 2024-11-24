@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 22:23:01](https://lobste.rs/s/afghca/open_interpreter_natural_language) - [open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
 * [2024-11-24, 21:50:32](https://lobste.rs/s/qrslnd/print_debugging_tool_among_other_tools) - [Print debugging: a tool among other tools](https://andydote.co.uk/2024/11/24/print-debugging-tracing/)
 * [2024-11-24, 20:24:50](https://lobste.rs/s/ry1lsl/mark_scavenge_waiting_for_trash_take) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 * [2024-11-24, 19:37:34](https://lobste.rs/s/42noot/wireguard_beyond_most_basic) - [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
@@ -22,7 +23,6 @@
 * [2024-11-24, 02:14:13](https://lobste.rs/s/4vlywe/privilege_escalation_vulnerabilities) - [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
 * [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
 * [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
-* [2024-11-23, 16:09:53](https://lobste.rs/s/s3kemr/dec_k_month_2_decker_jam_december) - [Dec(k)-Month 2: A Decker Jam in December](https://itch.io/jam/deck-month-2)
 * [2024-11-23, 14:31:36](https://lobste.rs/s/r1mipq/sqlite_s_use_tcl) - [SQLite's use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 07:42:26](https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)
 

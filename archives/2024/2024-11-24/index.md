@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 22:23:01](https://lobste.rs/s/afghca/open_interpreter_natural_language) - [open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
 * [2024-11-24, 21:50:32](https://lobste.rs/s/qrslnd/print_debugging_tool_among_other_tools) - [Print debugging: a tool among other tools](https://andydote.co.uk/2024/11/24/print-debugging-tracing/)
 * [2024-11-24, 20:24:50](https://lobste.rs/s/ry1lsl/mark_scavenge_waiting_for_trash_take) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 * [2024-11-24, 19:37:34](https://lobste.rs/s/42noot/wireguard_beyond_most_basic) - [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
