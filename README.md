@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 15:35:21](https://lobste.rs/s/g6s2uq/allocation_tests_unit_testing_for_memory) - [Allocation tests: unit testing for memory allocation in the JVM](https://lukeramsden.com/posts/allocation-tests-unit-testing-for-memory-allocation-in-the-jvm)
 * [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
@@ -14,7 +15,6 @@
 * [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
 * [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
 * [2024-11-23, 22:25:39](https://lobste.rs/s/pdbofv/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](http://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
-* [2024-11-23, 17:58:31](https://lobste.rs/s/fsbkzg/improving_approachability_data_race) - [Improving the approachability of data-race safety](https://github.com/hborla/swift-evolution/blob/approachable-concurrency-vision/visions/approachable-concurrency.md)
 * [2024-11-23, 16:34:40](https://lobste.rs/s/fjbbvd/introduction_bismuth_vm) - [Introduction to Bismuth VM](https://enikofox.com/posts/introduction-to-bismuth-vm/)
 * [2024-11-23, 16:09:53](https://lobste.rs/s/s3kemr/dec_k_month_2_decker_jam_december) - [Dec(k)-Month 2: A Decker Jam in December](https://itch.io/jam/deck-month-2)
 * [2024-11-23, 14:31:36](https://lobste.rs/s/r1mipq/sqlite_s_use_tcl) - [SQLite's use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
