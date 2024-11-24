@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 12:24:06](https://lobste.rs/s/2qvj3q/breaking_out_vrchat_using_unity_bug) - [Breaking out of VRChat using a Unity bug](https://khang06.github.io/vrcescape/)
 * [2024-11-24, 09:58:24](https://lobste.rs/s/1fzwvp/rfc_clangir_based_safe_c) - [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245)
 * [2024-11-24, 09:46:24](https://lobste.rs/s/fqripa/on_self_hosting_being_patch) - [On self-hosting being a patch](https://blog.jutty.dev/posts/self-hosting-patch/)
 * [2024-11-24, 09:24:02](https://lobste.rs/s/rpsyc8/are_golang_generics_simple_incomplete) - [Are Golang Generics Simple or Incomplete? A Design Study](https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/)
