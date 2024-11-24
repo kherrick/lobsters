@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-24, 09:46:24",
+      "https://lobste.rs/s/fqripa/on_self_hosting_being_patch"
+    ],
+    [
+      "On self-hosting being a patch",
+      "https://blog.jutty.dev/posts/self-hosting-patch/"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 09:24:02",
       "https://lobste.rs/s/rpsyc8/are_golang_generics_simple_incomplete"
     ],
@@ -237,16 +247,6 @@
     [
       "How decentralized is Bluesky really?",
       "https://dustycloud.org/blog/how-decentralized-is-bluesky/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 14:00:26",
-      "https://lobste.rs/s/eisgx0/self_hosting_isn_t_solution_it_s_patch"
-    ],
-    [
-      "Self-Hosting Isn't a Solution; It's A Patch",
-      "https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/"
     ]
   ]
 ]
