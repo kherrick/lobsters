@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-24, 09:24:02",
+      "https://lobste.rs/s/rpsyc8/are_golang_generics_simple_incomplete"
+    ],
+    [
+      "Are Golang Generics Simple or Incomplete? A Design Study",
+      "https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 07:22:57",
       "https://lobste.rs/s/as2yuv/graphics_studies_compilation"
     ],
@@ -237,16 +247,6 @@
     [
       "Self-Hosting Isn't a Solution; It's A Patch",
       "https://matduggan.com/self-hosting-isnt-a-solution-its-a-patch/"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 04:59:49",
-      "https://lobste.rs/s/xlxqgl/pidgin_3_0_0_experimental_1_announcement"
-    ],
-    [
-      "Pidgin 3.0.0 Experimental 1 Announcement",
-      "https://discourse.imfreedom.org/t/pidgin-3-0-0-experimental-1-announcement/216"
     ]
   ]
 ]
