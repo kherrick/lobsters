@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-24, 16:38:06",
+      "https://lobste.rs/s/z7hfjl/fleng_22_compiler_for_fhgc_strand_pcn_kl1"
+    ],
+    [
+      "FLENG 22 - a compiler for FHGC, Strand, PCN and KL1",
+      "http://www.call-with-current-continuation.org/fleng/fleng.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-24, 16:31:55",
+      "https://lobste.rs/s/eiyicb/bluesky_enshittification"
+    ],
+    [
+      "Bluesky and enshittification",
+      "https://pluralistic.net/2024/11/02/ulysses-pact/"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 15:46:03",
       "https://lobste.rs/s/iijmae/my_red_hot_adhd_programming_affliction"
     ],
@@ -217,26 +237,6 @@
     [
       "Don't Look Down on Print Debugging",
       "https://blog.startifact.com/posts/print-debugging/"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 04:06:18",
-      "https://lobste.rs/s/fbyu2n/how_designing_carbon_c_interop_taught_me"
-    ],
-    [
-      "How Designing Carbon C++ Interop Taught me About C++ Variadics & Bound Members",
-      "https://youtu.be/8SGMy9ENGz8"
-    ]
-  ],
-  [
-    [
-      "2024-11-22, 19:15:54",
-      "https://lobste.rs/s/rdjqw0/why_am_i_writing_javascript_toolchain_zig"
-    ],
-    [
-      "Why am I writing a JavaScript toolchain in Zig?",
-      "https://injuly.in/blog/announcing-jam/index.html"
     ]
   ],
   [
