@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
 * [2024-11-24, 17:33:32](https://lobste.rs/s/0mvpsc/lecture_16_relational_algebra) - [Lecture 16: Relational Algebra](https://courses.cs.washington.edu/courses/cse444/10sp/lectures/lecture16.pdf)
 * [2024-11-24, 16:38:06](https://lobste.rs/s/z7hfjl/fleng_22_compiler_for_fhgc_strand_pcn_kl1) - [FLENG 22 - a compiler for FHGC, Strand, PCN and KL1](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-24, 15:35:21](https://lobste.rs/s/g6s2uq/allocation_tests_unit_testing_for_memory) - [Allocation tests: unit testing for memory allocation in the JVM](https://lukeramsden.com/posts/allocation-tests-unit-testing-for-memory-allocation-in-the-jvm)
@@ -20,7 +21,6 @@
 * [2024-11-23, 16:34:40](https://lobste.rs/s/fjbbvd/introduction_bismuth_vm) - [Introduction to Bismuth VM](https://enikofox.com/posts/introduction-to-bismuth-vm/)
 * [2024-11-23, 16:09:53](https://lobste.rs/s/s3kemr/dec_k_month_2_decker_jam_december) - [Dec(k)-Month 2: A Decker Jam in December](https://itch.io/jam/deck-month-2)
 * [2024-11-23, 14:31:36](https://lobste.rs/s/r1mipq/sqlite_s_use_tcl) - [SQLite's use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
-* [2024-11-23, 14:02:57](https://lobste.rs/s/qb7j5q/reverse_engineering_218_byte_wasm) - [Reverse Engineering a 218-Byte Wasm Compiler in JavaScript](https://www.youtube.com/watch?v=HAe6TvbwXJw)
 * [2024-11-23, 13:33:11](https://lobste.rs/s/6w5r0o/dissecting_m8trix) - [Dissecting m8trix](https://tilde.town/~dzwdz/blog/m8trix.html)
 * [2024-11-23, 11:57:52](https://lobste.rs/s/l1w7eh/23_byte_hello_world_program_assembled) - [A 23-byte “hello, world” program assembled with DEBUG.EXE in MS-DOS](https://github.com/susam/hello)
 * [2024-11-23, 07:42:26](https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-24](index.md)
 
+* [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
 * [2024-11-24, 17:33:32](https://lobste.rs/s/0mvpsc/lecture_16_relational_algebra) - [Lecture 16: Relational Algebra](https://courses.cs.washington.edu/courses/cse444/10sp/lectures/lecture16.pdf)
 * [2024-11-24, 16:38:06](https://lobste.rs/s/z7hfjl/fleng_22_compiler_for_fhgc_strand_pcn_kl1) - [FLENG 22 - a compiler for FHGC, Strand, PCN and KL1](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-24, 16:31:55](https://lobste.rs/s/eiyicb/bluesky_enshittification) - [Bluesky and enshittification](https://pluralistic.net/2024/11/02/ulysses-pact/)
