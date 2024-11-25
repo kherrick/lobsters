@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 16:39:04](https://lobste.rs/s/vv00be/untls_reexposes_tcp_over_tls_port_as_local) - [untls: Reexposes a TCP over TLS port as a local TCP port](https://github.com/lucasew/untls)
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:19:29](https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin) - [So you want to write a KMail plugin?](http://datagirl.xyz/posts/kontact_plugin_writing.html)
 * [2024-11-25, 14:22:03](https://lobste.rs/s/ay7xh0/type_safe_code_reloading) - [type safe code reloading](https://vimeo.com/1033086983)
@@ -22,7 +23,6 @@
 * [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
 * [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
-* [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
 * [2024-11-24, 09:24:02](https://lobste.rs/s/rpsyc8/are_golang_generics_simple_incomplete) - [Are Golang Generics Simple or Incomplete? A Design Study](https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/)
 * [2024-11-24, 05:01:41](https://lobste.rs/s/nib781/dear_friend_you_have_built_kubernetes) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 
