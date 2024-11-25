@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 10:18:47](https://lobste.rs/s/cxrc28/automating_code_review_activities_by) - [Automating Code Review Activities by Large-Scale Pre-training](https://arxiv.org/abs/2203.09095)
+* [2024-11-25, 10:17:38](https://lobste.rs/s/kdq1ps/this_website_is_hosted_on_bluesky) - [This Website is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
+* [2024-11-25, 10:17:03](https://lobste.rs/s/jgagmq/nine_node_pillars) - [The Nine Node Pillars](https://www.platformatichq.com/node-principles)
 * [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
 * [2024-11-25, 07:56:22](https://lobste.rs/s/ggqd2g/how_i_configure_my_git_identities) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 * [2024-11-25, 07:53:10](https://lobste.rs/s/g39qdw/theory_building_why_employee_churn_is) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
