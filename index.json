@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-25, 01:19:54",
+      "https://lobste.rs/s/pflfl5/getting_go_journey_go_s_garbage_collector"
+    ],
+    [
+      "Getting to Go: The Journey of Go's Garbage Collector",
+      "https://go.dev/blog/ismmkeynote"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 00:27:29",
+      "https://lobste.rs/s/owmlgx/two_factions_c"
+    ],
+    [
+      "The two factions of C++",
+      "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
+    ]
+  ],
+  [
+    [
       "2024-11-24, 22:23:01",
       "https://lobste.rs/s/afghca/open_interpreter_natural_language"
     ],
@@ -47,16 +67,6 @@
     [
       "The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access",
       "https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 19:29:42",
-      "https://lobste.rs/s/awn6vs/visual_sorting_aka_sound_sorting"
-    ],
-    [
-      "Visual Sorting aka The Sound Of Sorting",
-      "https://mszula.github.io/visual-sorting/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "A Reintroduction to Programming",
       "https://www.0de5.net/explore"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 14:31:36",
-      "https://lobste.rs/s/r1mipq/sqlite_s_use_tcl"
-    ],
-    [
-      "SQLite's use of Tcl",
-      "https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html"
     ]
   ],
   [
