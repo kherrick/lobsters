@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 01:19:54](https://lobste.rs/s/pflfl5/getting_go_journey_go_s_garbage_collector) - [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
+* [2024-11-25, 00:27:29](https://lobste.rs/s/owmlgx/two_factions_c) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 22:23:01](https://lobste.rs/s/afghca/open_interpreter_natural_language) - [open-interpreter: A natural language interface for computers](https://github.com/OpenInterpreter/open-interpreter)
 * [2024-11-24, 21:50:32](https://lobste.rs/s/qrslnd/print_debugging_tool_among_other_tools) - [Print debugging: a tool among other tools](https://andydote.co.uk/2024/11/24/print-debugging-tracing/)
 * [2024-11-24, 20:24:50](https://lobste.rs/s/ry1lsl/mark_scavenge_waiting_for_trash_take) - [Mark–Scavenge: Waiting for Trash to Take Itself Out](https://inside.java/2024/11/22/mark-scavenge-gc/)
 * [2024-11-24, 19:37:34](https://lobste.rs/s/42noot/wireguard_beyond_most_basic) - [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 19:31:58](https://lobste.rs/s/ymydbt/nearest_neighbor_attack_how_russian_apt) - [The Nearest Neighbor Attack: How A Russian APT Weaponized Nearby Wi-Fi Networks for Covert Access](https://www.volexity.com/blog/2024/11/22/the-nearest-neighbor-attack-how-a-russian-apt-weaponized-nearby-wi-fi-networks-for-covert-access/)
-* [2024-11-24, 19:29:42](https://lobste.rs/s/awn6vs/visual_sorting_aka_sound_sorting) - [Visual Sorting aka The Sound Of Sorting](https://mszula.github.io/visual-sorting/)
 * [2024-11-24, 19:20:49](https://lobste.rs/s/gqvbsb/configuring_vscode_with_nix_on_macos) - [Configuring VSCode with Nix on macOS](https://davi.sh/blog/2024/11/nix-vscode/)
 * [2024-11-24, 18:47:08](https://lobste.rs/s/qkgxx9/rga_ripgrep_also_search_pdfs_e_books) - [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
 * [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
@@ -23,7 +24,6 @@
 * [2024-11-24, 02:14:13](https://lobste.rs/s/4vlywe/privilege_escalation_vulnerabilities) - [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
 * [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
 * [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
-* [2024-11-23, 14:31:36](https://lobste.rs/s/r1mipq/sqlite_s_use_tcl) - [SQLite's use of Tcl](https://www.tcl.tk/community/tcl2017/assets/talk93/Paper.html)
 * [2024-11-23, 07:42:26](https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging) - [Don't Look Down on Print Debugging](https://blog.startifact.com/posts/print-debugging/)
 
 ## [Archives](archives/index.md)
