@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
 * [2024-11-25, 20:18:32](https://lobste.rs/s/nhmmnq/breaking_down_cpu_speed_how_utilization) - [Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/)
 * [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
 * [2024-11-25, 19:01:02](https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
 * [2024-11-25, 16:39:04](https://lobste.rs/s/vv00be/untls_reexposes_tcp_over_tls_port_as_local) - [untls: Reexposes a TCP over TLS port as a local TCP port](https://github.com/lucasew/untls)
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:19:29](https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin) - [So you want to write a KMail plugin?](http://datagirl.xyz/posts/kontact_plugin_writing.html)
-* [2024-11-25, 14:22:03](https://lobste.rs/s/ay7xh0/type_safe_code_reloading) - [type safe code reloading](https://vimeo.com/1033086983)
 * [2024-11-25, 14:07:11](https://lobste.rs/s/2jfxna/how_flatpack_programs) - [How to Flatpack Programs](https://www.youtube.com/watch?v=rJcQ45jKuN4&list=PLOUKmSqExtAFpg3krEd6CXr3uIyUgP97b&index=39)
 * [2024-11-25, 13:14:08](https://lobste.rs/s/av72i6/unsafe_for_work) - [Unsafe for work](https://oida.dev/unsafe-for-work/)
 * [2024-11-25, 12:41:14](https://lobste.rs/s/xmil6u/rustlantis_randomized_differential) - [Rustlantis: Randomized Differential Testing of the Rust Compiler](https://www.ralfj.de/blog/2024/11/25/rustlantis.html)

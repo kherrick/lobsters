@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
 * [2024-11-25, 20:18:32](https://lobste.rs/s/nhmmnq/breaking_down_cpu_speed_how_utilization) - [Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/)
 * [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
 * [2024-11-25, 19:40:17](https://lobste.rs/s/othjee/summary_improvising_cellular) - [Summary of \"Improvising to cellular playgrounds in Realtalk\" (2023)](https://www.youtube.com/watch?v=Osn3JXaT3W8)
