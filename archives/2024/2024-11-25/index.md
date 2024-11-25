@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 21:41:48](https://lobste.rs/s/xnnlcs/leveldb_explained_how_analyze_time) - [LevelDB Explained - How to Analyze the Time Complexity of SkipLists?](https://selfboot.cn/en/2024/09/24/leveldb_source_skiplist_time_analysis/)
 * [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
 * [2024-11-25, 20:18:32](https://lobste.rs/s/nhmmnq/breaking_down_cpu_speed_how_utilization) - [Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/)
 * [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
