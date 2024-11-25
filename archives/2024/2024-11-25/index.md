@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 20:18:32](https://lobste.rs/s/nhmmnq/breaking_down_cpu_speed_how_utilization) - [Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/)
 * [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
 * [2024-11-25, 19:40:17](https://lobste.rs/s/othjee/summary_improvising_cellular) - [Summary of \"Improvising to cellular playgrounds in Realtalk\" (2023)](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 19:01:02](https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
