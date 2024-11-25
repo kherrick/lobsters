@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:19:29](https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin) - [So you want to write a KMail plugin?](http://datagirl.xyz/posts/kontact_plugin_writing.html)
 * [2024-11-25, 14:22:03](https://lobste.rs/s/ay7xh0/type_safe_code_reloading) - [type safe code reloading](https://vimeo.com/1033086983)
 * [2024-11-25, 14:07:11](https://lobste.rs/s/2jfxna/how_flatpack_programs) - [How to Flatpack Programs](https://www.youtube.com/watch?v=rJcQ45jKuN4&list=PLOUKmSqExtAFpg3krEd6CXr3uIyUgP97b&index=39)
