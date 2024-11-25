@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 18:53:42](https://lobste.rs/s/eme9yw/alt_text_not_always_needed) - [Alt Text: Not Always Needed](https://css-tricks.com/alt-text-not-always-needed/)
 * [2024-11-25, 16:39:04](https://lobste.rs/s/vv00be/untls_reexposes_tcp_over_tls_port_as_local) - [untls: Reexposes a TCP over TLS port as a local TCP port](https://github.com/lucasew/untls)
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:19:29](https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin) - [So you want to write a KMail plugin?](http://datagirl.xyz/posts/kontact_plugin_writing.html)
