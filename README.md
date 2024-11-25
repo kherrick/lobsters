@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 22:07:38](https://lobste.rs/s/otf5rs/slax_alternative_syntax_for_xslt_which_is) - [SLAX: an alternative syntax for XSLT which is tailored for readability and familiarity](https://github.com/Juniper/libslax/wiki)
 * [2024-11-25, 22:01:08](https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript) - [Deno v. Oracle: Canceling the JavaScript Trademark](https://deno.com/blog/deno-v-oracle)
 * [2024-11-25, 21:41:48](https://lobste.rs/s/xnnlcs/leveldb_explained_how_analyze_time) - [LevelDB Explained - How to Analyze the Time Complexity of SkipLists?](https://selfboot.cn/en/2024/09/24/leveldb_source_skiplist_time_analysis/)
 * [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
@@ -9,7 +10,6 @@
 * [2024-11-25, 16:39:04](https://lobste.rs/s/vv00be/untls_reexposes_tcp_over_tls_port_as_local) - [untls: Reexposes a TCP over TLS port as a local TCP port](https://github.com/lucasew/untls)
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:19:29](https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin) - [So you want to write a KMail plugin?](http://datagirl.xyz/posts/kontact_plugin_writing.html)
-* [2024-11-25, 14:07:11](https://lobste.rs/s/2jfxna/how_flatpack_programs) - [How to Flatpack Programs](https://www.youtube.com/watch?v=rJcQ45jKuN4&list=PLOUKmSqExtAFpg3krEd6CXr3uIyUgP97b&index=39)
 * [2024-11-25, 13:14:08](https://lobste.rs/s/av72i6/unsafe_for_work) - [Unsafe for work](https://oida.dev/unsafe-for-work/)
 * [2024-11-25, 12:41:14](https://lobste.rs/s/xmil6u/rustlantis_randomized_differential) - [Rustlantis: Randomized Differential Testing of the Rust Compiler](https://www.ralfj.de/blog/2024/11/25/rustlantis.html)
 * [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
