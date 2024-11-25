@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 06:27:31](https://lobste.rs/s/qazkoy/terrateam_gitops_ci_cd_platform_is_open) - [Terrateam, a GitOps CI/CD platform, is Open Source now](https://github.com/terrateamio/terrateam)
 * [2024-11-25, 04:26:01](https://lobste.rs/s/frtvrk/coalescence_making_llm_inference_5x) - [Coalescence: making LLM inference 5x faster](https://blog.dottxt.co/coalescence.html)
 * [2024-11-25, 03:18:01](https://lobste.rs/s/saleac/codin_dirty) - [Codin' Dirty](https://htmx.org/essays/codin-dirty/)
 * [2024-11-25, 01:19:54](https://lobste.rs/s/pflfl5/getting_go_journey_go_s_garbage_collector) - [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
@@ -24,7 +25,6 @@
 * [2024-11-24, 05:01:41](https://lobste.rs/s/nib781/dear_friend_you_have_built_kubernetes) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 * [2024-11-24, 02:14:13](https://lobste.rs/s/4vlywe/privilege_escalation_vulnerabilities) - [Privilege escalation vulnerabilities don't really matter](https://wheybags.com/blog/privesc.html)
 * [2024-11-23, 23:29:56](https://lobste.rs/s/iypqdo/how_tailscale_s_infrastructure_team) - [How Tailscale's infrastructure team stays small](https://tailscale.com/blog/infra-team-stays-small)
-* [2024-11-23, 22:36:28](https://lobste.rs/s/90n75e/reintroduction_programming) - [A Reintroduction to Programming](https://www.0de5.net/explore)
 
 ## [Archives](archives/index.md)
 
