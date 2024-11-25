@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-25, 03:18:01",
+      "https://lobste.rs/s/saleac/codin_dirty"
+    ],
+    [
+      "Codin' Dirty",
+      "https://htmx.org/essays/codin-dirty/"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 01:19:54",
       "https://lobste.rs/s/pflfl5/getting_go_journey_go_s_garbage_collector"
     ],
@@ -237,16 +247,6 @@
     [
       "A Reintroduction to Programming",
       "https://www.0de5.net/explore"
-    ]
-  ],
-  [
-    [
-      "2024-11-23, 07:42:26",
-      "https://lobste.rs/s/rag98w/don_t_look_down_on_print_debugging"
-    ],
-    [
-      "Don't Look Down on Print Debugging",
-      "https://blog.startifact.com/posts/print-debugging/"
     ]
   ]
 ]
