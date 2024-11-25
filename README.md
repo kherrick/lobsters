@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 04:26:01](https://lobste.rs/s/frtvrk/coalescence_making_llm_inference_5x) - [Coalescence: making LLM inference 5x faster](https://blog.dottxt.co/coalescence.html)
 * [2024-11-25, 03:18:01](https://lobste.rs/s/saleac/codin_dirty) - [Codin' Dirty](https://htmx.org/essays/codin-dirty/)
 * [2024-11-25, 01:19:54](https://lobste.rs/s/pflfl5/getting_go_journey_go_s_garbage_collector) - [Getting to Go: The Journey of Go's Garbage Collector](https://go.dev/blog/ismmkeynote)
 * [2024-11-25, 00:27:29](https://lobste.rs/s/owmlgx/two_factions_c) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
@@ -13,7 +14,6 @@
 * [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
 * [2024-11-24, 17:33:32](https://lobste.rs/s/0mvpsc/lecture_16_relational_algebra) - [Lecture 16: Relational Algebra](https://courses.cs.washington.edu/courses/cse444/10sp/lectures/lecture16.pdf)
 * [2024-11-24, 16:38:06](https://lobste.rs/s/z7hfjl/fleng_22_compiler_for_fhgc_strand_pcn_kl1) - [FLENG 22 - a compiler for FHGC, Strand, PCN and KL1](http://www.call-with-current-continuation.org/fleng/fleng.html)
-* [2024-11-24, 15:35:21](https://lobste.rs/s/g6s2uq/allocation_tests_unit_testing_for_memory) - [Allocation tests: unit testing for memory allocation in the JVM](https://lukeramsden.com/posts/allocation-tests-unit-testing-for-memory-allocation-in-the-jvm)
 * [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
