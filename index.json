@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-25, 14:22:03",
+      "https://lobste.rs/s/ay7xh0/type_safe_code_reloading"
+    ],
+    [
+      "type safe code reloading",
+      "https://vimeo.com/1033086983"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 14:07:11",
+      "https://lobste.rs/s/2jfxna/how_flatpack_programs"
+    ],
+    [
+      "How to Flatpack Programs",
+      "https://www.youtube.com/watch?v=rJcQ45jKuN4&list=PLOUKmSqExtAFpg3krEd6CXr3uIyUgP97b&index=39"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 13:14:08",
       "https://lobste.rs/s/av72i6/unsafe_for_work"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2024-11-25, 04:26:01",
-      "https://lobste.rs/s/frtvrk/coalescence_making_llm_inference_5x"
-    ],
-    [
-      "Coalescence: making LLM inference 5x faster",
-      "https://blog.dottxt.co/coalescence.html"
-    ]
-  ],
-  [
-    [
       "2024-11-25, 03:18:01",
       "https://lobste.rs/s/saleac/codin_dirty"
     ],
@@ -187,16 +197,6 @@
     [
       "Announcing Nio: An async runtime for Rust",
       "https://nurmohammed840.github.io/posts/announcing-nio/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 16:38:06",
-      "https://lobste.rs/s/z7hfjl/fleng_22_compiler_for_fhgc_strand_pcn_kl1"
-    ],
-    [
-      "FLENG 22 - a compiler for FHGC, Strand, PCN and KL1",
-      "http://www.call-with-current-continuation.org/fleng/fleng.html"
     ]
   ],
   [
