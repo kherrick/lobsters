@@ -111,6 +111,16 @@
   ],
   [
     [
+      "2024-11-25, 04:26:01",
+      "https://lobste.rs/s/frtvrk/coalescence_making_llm_inference_5x"
+    ],
+    [
+      "Coalescence: making LLM inference 5x faster",
+      "https://blog.dottxt.co/coalescence.html"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 03:18:01",
       "https://lobste.rs/s/saleac/codin_dirty"
     ],
@@ -137,16 +147,6 @@
     [
       "The two factions of C++",
       "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 20:24:50",
-      "https://lobste.rs/s/ry1lsl/mark_scavenge_waiting_for_trash_take"
-    ],
-    [
-      "Mark–Scavenge: Waiting for Trash to Take Itself Out",
-      "https://inside.java/2024/11/22/mark-scavenge-gc/"
     ]
   ],
   [
