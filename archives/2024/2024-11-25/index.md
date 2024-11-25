@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
 * [2024-11-25, 19:40:17](https://lobste.rs/s/othjee/summary_improvising_cellular) - [Summary of \"Improvising to cellular playgrounds in Realtalk\" (2023)](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 19:01:02](https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
 * [2024-11-25, 18:53:42](https://lobste.rs/s/eme9yw/alt_text_not_always_needed) - [Alt Text: Not Always Needed](https://css-tricks.com/alt-text-not-always-needed/)
