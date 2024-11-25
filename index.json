@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-25, 19:40:17",
+      "https://lobste.rs/s/othjee/summary_improvising_cellular"
+    ],
+    [
+      "Summary of \"Improvising to cellular playgrounds in Realtalk\" (2023)",
+      "https://www.youtube.com/watch?v=Osn3JXaT3W8"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 19:01:02",
       "https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading"
     ],
@@ -197,16 +207,6 @@
     [
       "Configuring VSCode with Nix on macOS",
       "https://davi.sh/blog/2024/11/nix-vscode/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 18:47:08",
-      "https://lobste.rs/s/qkgxx9/rga_ripgrep_also_search_pdfs_e_books"
-    ],
-    [
-      "rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)",
-      "https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/"
     ]
   ],
   [
