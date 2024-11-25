@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-25, 21:41:48",
+      "https://lobste.rs/s/xnnlcs/leveldb_explained_how_analyze_time"
+    ],
+    [
+      "LevelDB Explained - How to Analyze the Time Complexity of SkipLists?",
+      "https://selfboot.cn/en/2024/09/24/leveldb_source_skiplist_time_analysis/"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 20:53:17",
       "https://lobste.rs/s/ldzdn2/getting_pointer_constant_go"
     ],
@@ -197,16 +207,6 @@
     [
       "The two factions of C++",
       "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 19:20:49",
-      "https://lobste.rs/s/gqvbsb/configuring_vscode_with_nix_on_macos"
-    ],
-    [
-      "Configuring VSCode with Nix on macOS",
-      "https://davi.sh/blog/2024/11/nix-vscode/"
     ]
   ],
   [
