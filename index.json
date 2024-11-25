@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-11-25, 21:41:48",
-      "https://lobste.rs/s/xnnlcs/leveldb_explained_how_analyze_time"
+      "2024-11-25, 22:07:38",
+      "https://lobste.rs/s/otf5rs/slax_alternative_syntax_for_xslt_which_is"
     ],
     [
-      "LevelDB Explained - How to Analyze the Time Complexity of SkipLists?",
-      "https://selfboot.cn/en/2024/09/24/leveldb_source_skiplist_time_analysis/"
+      "SLAX: an alternative syntax for XSLT which is tailored for readability and familiarity",
+      "https://github.com/Juniper/libslax/wiki"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 22:01:08",
+      "https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript"
+    ],
+    [
+      "Deno v. Oracle: Canceling the JavaScript Trademark",
+      "https://deno.com/blog/deno-v-oracle"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Announcing Nio: An async runtime for Rust",
       "https://nurmohammed840.github.io/posts/announcing-nio/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 15:07:19",
-      "https://lobste.rs/s/bpd8fk/zero_disk_architecture"
-    ],
-    [
-      "Zero Disk Architecture",
-      "https://avi.im/blag/2024/zero-disk-architecture/"
     ]
   ],
   [
