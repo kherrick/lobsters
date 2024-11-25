@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-25, 20:53:17",
+      "https://lobste.rs/s/ldzdn2/getting_pointer_constant_go"
+    ],
+    [
+      "Getting a pointer to a constant in Go",
+      "https://xeiaso.net/notes/2024/go-pointer-constant/"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 20:18:32",
       "https://lobste.rs/s/nhmmnq/breaking_down_cpu_speed_how_utilization"
     ],
@@ -57,16 +67,6 @@
     [
       "So you want to write a KMail plugin?",
       "http://datagirl.xyz/posts/kontact_plugin_writing.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 14:22:03",
-      "https://lobste.rs/s/ay7xh0/type_safe_code_reloading"
-    ],
-    [
-      "type safe code reloading",
-      "https://vimeo.com/1033086983"
     ]
   ],
   [
