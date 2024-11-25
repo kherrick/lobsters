@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-25, 13:14:08",
+      "https://lobste.rs/s/av72i6/unsafe_for_work"
+    ],
+    [
+      "Unsafe for work",
+      "https://oida.dev/unsafe-for-work/"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 12:41:14",
       "https://lobste.rs/s/xmil6u/rustlantis_randomized_differential"
     ],
@@ -41,12 +51,12 @@
   ],
   [
     [
-      "2024-11-25, 12:04:16",
-      "https://lobste.rs/s/pb40pd/clickhouse_fast_deduplicated_reads"
+      "2024-11-25, 12:01:15",
+      "https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms"
     ],
     [
-      "ClickHouse — fast, deduplicated reads",
-      "https://medium.com/@jgrodman/clickhouse-fast-deduplicated-reads-de2026a4e0ad"
+      "Is there a good open-source combined CRM and CMS for political organising?",
+      "https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "The two factions of C++",
       "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 21:50:32",
-      "https://lobste.rs/s/qrslnd/print_debugging_tool_among_other_tools"
-    ],
-    [
-      "Print debugging: a tool among other tools",
-      "https://andydote.co.uk/2024/11/24/print-debugging-tracing/"
     ]
   ],
   [
