@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 14:22:03](https://lobste.rs/s/ay7xh0/type_safe_code_reloading) - [type safe code reloading](https://vimeo.com/1033086983)
+* [2024-11-25, 14:07:11](https://lobste.rs/s/2jfxna/how_flatpack_programs) - [How to Flatpack Programs](https://www.youtube.com/watch?v=rJcQ45jKuN4&list=PLOUKmSqExtAFpg3krEd6CXr3uIyUgP97b&index=39)
 * [2024-11-25, 13:14:08](https://lobste.rs/s/av72i6/unsafe_for_work) - [Unsafe for work](https://oida.dev/unsafe-for-work/)
 * [2024-11-25, 12:41:14](https://lobste.rs/s/xmil6u/rustlantis_randomized_differential) - [Rustlantis: Randomized Differential Testing of the Rust Compiler](https://www.ralfj.de/blog/2024/11/25/rustlantis.html)
 * [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
@@ -11,7 +13,6 @@
 * [2024-11-25, 07:56:22](https://lobste.rs/s/ggqd2g/how_i_configure_my_git_identities) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 * [2024-11-25, 07:53:10](https://lobste.rs/s/g39qdw/theory_building_why_employee_churn_is) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
 * [2024-11-25, 06:27:31](https://lobste.rs/s/qazkoy/terrateam_gitops_ci_cd_platform_is_open) - [Terrateam, a GitOps CI/CD platform, is Open Source now](https://github.com/terrateamio/terrateam)
-* [2024-11-25, 04:26:01](https://lobste.rs/s/frtvrk/coalescence_making_llm_inference_5x) - [Coalescence: making LLM inference 5x faster](https://blog.dottxt.co/coalescence.html)
 * [2024-11-25, 03:18:01](https://lobste.rs/s/saleac/codin_dirty) - [Codin' Dirty](https://htmx.org/essays/codin-dirty/)
 * [2024-11-25, 01:19:54](https://lobste.rs/s/pflfl5/getting_go_journey_go_s_garbage_collector) - [Getting to Go: The Journey of Go's Garbage Collector (2018)](https://go.dev/blog/ismmkeynote)
 * [2024-11-25, 00:27:29](https://lobste.rs/s/owmlgx/two_factions_c) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
@@ -19,7 +20,6 @@
 * [2024-11-24, 19:20:49](https://lobste.rs/s/gqvbsb/configuring_vscode_with_nix_on_macos) - [Configuring VSCode with Nix on macOS](https://davi.sh/blog/2024/11/nix-vscode/)
 * [2024-11-24, 18:47:08](https://lobste.rs/s/qkgxx9/rga_ripgrep_also_search_pdfs_e_books) - [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
 * [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
-* [2024-11-24, 16:38:06](https://lobste.rs/s/z7hfjl/fleng_22_compiler_for_fhgc_strand_pcn_kl1) - [FLENG 22 - a compiler for FHGC, Strand, PCN and KL1](http://www.call-with-current-continuation.org/fleng/fleng.html)
 * [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
