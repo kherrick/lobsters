@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 12:16:48](https://lobste.rs/s/xovyui/my_new_power_indigo_2) - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
+* [2024-11-25, 12:04:16](https://lobste.rs/s/pb40pd/clickhouse_fast_deduplicated_reads) - [ClickHouse — fast, deduplicated reads](https://medium.com/@jgrodman/clickhouse-fast-deduplicated-reads-de2026a4e0ad)
+* [2024-11-25, 12:01:15](https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms) - [Is there a good open-source combined CRM and CMS for political organising?](https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms)
 * [2024-11-25, 10:18:47](https://lobste.rs/s/cxrc28/automating_code_review_activities_by) - [Automating Code Review Activities by Large-Scale Pre-training](https://arxiv.org/abs/2203.09095)
 * [2024-11-25, 10:17:38](https://lobste.rs/s/kdq1ps/this_website_is_hosted_on_bluesky) - [This Website is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)
 * [2024-11-25, 10:17:03](https://lobste.rs/s/jgagmq/nine_node_pillars) - [The Nine Node Pillars](https://www.platformatichq.com/node-principles)
