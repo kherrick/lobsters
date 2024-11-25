@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-25, 16:13:24",
+      "https://lobste.rs/s/g3zfwn/introducing_model_context_protocol"
+    ],
+    [
+      "Introducing the Model Context Protocol",
+      "https://www.anthropic.com/news/model-context-protocol"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 15:19:29",
       "https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin"
     ],
@@ -137,16 +147,6 @@
     [
       "Codin' Dirty",
       "https://htmx.org/essays/codin-dirty/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 01:19:54",
-      "https://lobste.rs/s/pflfl5/getting_go_journey_go_s_garbage_collector"
-    ],
-    [
-      "Getting to Go: The Journey of Go's Garbage Collector (2018)",
-      "https://go.dev/blog/ismmkeynote"
     ]
   ],
   [
