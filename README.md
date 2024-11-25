@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
 * [2024-11-25, 07:56:22](https://lobste.rs/s/ggqd2g/how_i_configure_my_git_identities) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 * [2024-11-25, 07:53:10](https://lobste.rs/s/g39qdw/theory_building_why_employee_churn_is) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
 * [2024-11-25, 06:27:31](https://lobste.rs/s/qazkoy/terrateam_gitops_ci_cd_platform_is_open) - [Terrateam, a GitOps CI/CD platform, is Open Source now](https://github.com/terrateamio/terrateam)
@@ -19,7 +20,6 @@
 * [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 13:25:57](https://lobste.rs/s/xb9qst/re_affirm_design_principles_for_future_c) - [(Re)affirm design principles for future C++ evolution](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2024/p3466r0.pdf)
-* [2024-11-24, 12:24:06](https://lobste.rs/s/2qvj3q/breaking_out_vrchat_using_unity_bug) - [Breaking out of VRChat using a Unity bug](https://khang06.github.io/vrcescape/)
 * [2024-11-24, 09:58:24](https://lobste.rs/s/1fzwvp/rfc_clangir_based_safe_c) - [[RFC] A ClangIR based Safe C++](https://discourse.llvm.org/t/rfc-a-clangir-based-safe-c/83245)
 * [2024-11-24, 09:24:02](https://lobste.rs/s/rpsyc8/are_golang_generics_simple_incomplete) - [Are Golang Generics Simple or Incomplete? A Design Study](https://dolthub.com/blog/2024-11-22-are-golang-generics-simple-or-incomplete-1/)
 * [2024-11-24, 07:22:57](https://lobste.rs/s/as2yuv/graphics_studies_compilation) - [Graphics Studies Compilation](https://www.adriancourreges.com/blog/2020/12/29/graphics-studies-compilation/)
