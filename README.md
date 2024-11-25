@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 19:40:17](https://lobste.rs/s/othjee/summary_improvising_cellular) - [Summary of \"Improvising to cellular playgrounds in Realtalk\" (2023)](https://www.youtube.com/watch?v=Osn3JXaT3W8)
 * [2024-11-25, 19:01:02](https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
 * [2024-11-25, 16:39:04](https://lobste.rs/s/vv00be/untls_reexposes_tcp_over_tls_port_as_local) - [untls: Reexposes a TCP over TLS port as a local TCP port](https://github.com/lucasew/untls)
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
@@ -20,7 +21,6 @@
 * [2024-11-25, 00:27:29](https://lobste.rs/s/owmlgx/two_factions_c) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 19:37:34](https://lobste.rs/s/42noot/wireguard_beyond_most_basic) - [Wireguard: Beyond the most basic configuration](https://sloonz.github.io/posts/wireguard-beyond-basic-configuration/)
 * [2024-11-24, 19:20:49](https://lobste.rs/s/gqvbsb/configuring_vscode_with_nix_on_macos) - [Configuring VSCode with Nix on macOS](https://davi.sh/blog/2024/11/nix-vscode/)
-* [2024-11-24, 18:47:08](https://lobste.rs/s/qkgxx9/rga_ripgrep_also_search_pdfs_e_books) - [rga: ripgrep, but also search in PDFs, E-Books, Office documents, zip, tar.gz, etc. (2019)](https://phiresky.github.io/blog/2019/rga--ripgrep-for-zip-targz-docx-odt-epub-jpg/)
 * [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
 * [2024-11-24, 15:07:19](https://lobste.rs/s/bpd8fk/zero_disk_architecture) - [Zero Disk Architecture](https://avi.im/blag/2024/zero-disk-architecture/)
 * [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
