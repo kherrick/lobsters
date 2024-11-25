@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-25, 15:19:29](https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin) - [So you want to write a KMail plugin?](http://datagirl.xyz/posts/kontact_plugin_writing.html)
 * [2024-11-25, 14:22:03](https://lobste.rs/s/ay7xh0/type_safe_code_reloading) - [type safe code reloading](https://vimeo.com/1033086983)
 * [2024-11-25, 14:07:11](https://lobste.rs/s/2jfxna/how_flatpack_programs) - [How to Flatpack Programs](https://www.youtube.com/watch?v=rJcQ45jKuN4&list=PLOUKmSqExtAFpg3krEd6CXr3uIyUgP97b&index=39)
 * [2024-11-25, 13:14:08](https://lobste.rs/s/av72i6/unsafe_for_work) - [Unsafe for work](https://oida.dev/unsafe-for-work/)
@@ -12,7 +13,6 @@
 * [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
 * [2024-11-25, 07:56:22](https://lobste.rs/s/ggqd2g/how_i_configure_my_git_identities) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 * [2024-11-25, 07:53:10](https://lobste.rs/s/g39qdw/theory_building_why_employee_churn_is) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
-* [2024-11-25, 06:27:31](https://lobste.rs/s/qazkoy/terrateam_gitops_ci_cd_platform_is_open) - [Terrateam, a GitOps CI/CD platform, is Open Source now](https://github.com/terrateamio/terrateam)
 * [2024-11-25, 03:18:01](https://lobste.rs/s/saleac/codin_dirty) - [Codin' Dirty](https://htmx.org/essays/codin-dirty/)
 * [2024-11-25, 01:19:54](https://lobste.rs/s/pflfl5/getting_go_journey_go_s_garbage_collector) - [Getting to Go: The Journey of Go's Garbage Collector (2018)](https://go.dev/blog/ismmkeynote)
 * [2024-11-25, 00:27:29](https://lobste.rs/s/owmlgx/two_factions_c) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
