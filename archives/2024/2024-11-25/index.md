@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 13:14:08](https://lobste.rs/s/av72i6/unsafe_for_work) - [Unsafe for work](https://oida.dev/unsafe-for-work/)
 * [2024-11-25, 12:41:14](https://lobste.rs/s/xmil6u/rustlantis_randomized_differential) - [Rustlantis: Randomized Differential Testing of the Rust Compiler](https://www.ralfj.de/blog/2024/11/25/rustlantis.html)
 * [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
 * [2024-11-25, 12:33:08](https://lobste.rs/s/z4a8ne/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/z4a8ne/what_are_you_doing_this_week)
