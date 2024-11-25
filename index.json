@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-25, 15:19:29",
+      "https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin"
+    ],
+    [
+      "So you want to write a KMail plugin?",
+      "http://datagirl.xyz/posts/kontact_plugin_writing.html"
+    ]
+  ],
+  [
+    [
       "2024-11-25, 14:22:03",
       "https://lobste.rs/s/ay7xh0/type_safe_code_reloading"
     ],
@@ -117,16 +127,6 @@
     [
       "Theory-building and why employee churn is lethal to software companies",
       "https://www.baldurbjarnason.com/2022/theory-building/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 06:27:31",
-      "https://lobste.rs/s/qazkoy/terrateam_gitops_ci_cd_platform_is_open"
-    ],
-    [
-      "Terrateam, a GitOps CI/CD platform, is Open Source now",
-      "https://github.com/terrateamio/terrateam"
     ]
   ],
   [
