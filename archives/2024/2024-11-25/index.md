@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-25](index.md)
 
+* [2024-11-25, 12:41:14](https://lobste.rs/s/xmil6u/rustlantis_randomized_differential) - [Rustlantis: Randomized Differential Testing of the Rust Compiler](https://www.ralfj.de/blog/2024/11/25/rustlantis.html)
+* [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
+* [2024-11-25, 12:33:08](https://lobste.rs/s/z4a8ne/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/z4a8ne/what_are_you_doing_this_week)
 * [2024-11-25, 12:16:48](https://lobste.rs/s/xovyui/my_new_power_indigo_2) - [My new POWER Indigo 2](https://thejpster.org.uk/blog/blog-2024-11-22/)
 * [2024-11-25, 12:04:16](https://lobste.rs/s/pb40pd/clickhouse_fast_deduplicated_reads) - [ClickHouse — fast, deduplicated reads](https://medium.com/@jgrodman/clickhouse-fast-deduplicated-reads-de2026a4e0ad)
 * [2024-11-25, 12:01:15](https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms) - [Is there a good open-source combined CRM and CMS for political organising?](https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms)
