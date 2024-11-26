@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-26, 01:50:28](https://lobste.rs/s/0jyhz8/redis_rs_future_crate_maintenance_redis) - [redis-rs Future Crate Maintenance and Redis Inc. Relationship](https://github.com/redis-rs/redis-rs/issues/1419)
 * [2024-11-25, 22:07:38](https://lobste.rs/s/otf5rs/slax_alternative_syntax_for_xslt_which_is) - [SLAX: an alternative syntax for XSLT which is tailored for readability and familiarity](https://github.com/Juniper/libslax/wiki)
 * [2024-11-25, 22:01:08](https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript) - [Deno v. Oracle: Canceling the JavaScript Trademark](https://deno.com/blog/deno-v-oracle)
 * [2024-11-25, 21:41:48](https://lobste.rs/s/xnnlcs/leveldb_explained_how_analyze_time) - [LevelDB Explained - How to Analyze the Time Complexity of SkipLists?](https://selfboot.cn/en/2024/09/24/leveldb_source_skiplist_time_analysis/)
@@ -24,6 +23,7 @@
 * [2024-11-25, 03:18:01](https://lobste.rs/s/saleac/codin_dirty) - [Codin' Dirty](https://htmx.org/essays/codin-dirty/)
 * [2024-11-25, 00:27:29](https://lobste.rs/s/owmlgx/two_factions_c) - [The two factions of C++](https://herecomesthemoon.net/2024/11/two-factions-of-cpp/)
 * [2024-11-24, 18:35:26](https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust) - [Announcing Nio: An async runtime for Rust](https://nurmohammed840.github.io/posts/announcing-nio/)
+* [2024-11-24, 14:37:36](https://lobste.rs/s/r2m7s2/petnames_humane_approach_secure) - [Petnames: A humane approach to secure, decentralized naming](https://files.spritely.institute/papers/petnames.html)
 * [2024-11-24, 05:01:41](https://lobste.rs/s/nib781/dear_friend_you_have_built_kubernetes) - [Dear friend, you have built a Kubernetes](https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/)
 
 ## [Archives](archives/index.md)
