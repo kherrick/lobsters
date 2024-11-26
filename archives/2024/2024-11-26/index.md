@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 22:37:06](https://lobste.rs/s/lbk2b1/go_java_rethinking_type_safety_for) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:23:57](https://lobste.rs/s/tifcpy/float_self_tagging) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
 * [2024-11-26, 20:15:10](https://lobste.rs/s/78df86/arch_linux_finally_starts_licensing) - [Arch Linux finally starts licensing PKGBUILDs](https://lwn.net/SubscriberLink/998778/aa5fd76c0574a311/)
 * [2024-11-26, 19:12:37](https://lobste.rs/s/dc2jjr/gnu_make_jobserver_implementation) - [The GNU make jobserver implementation](https://make.mad-scientist.net/papers/jobserver-implementation/)
