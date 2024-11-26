@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 10:21:13](https://lobste.rs/s/rixghx/understanding_simd_infinite_complexity) - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-26, 06:56:05](https://lobste.rs/s/njkfbw/major_fly_io_outage) - [major fly.io outage](https://community.fly.io/t/fly-io-site-is-currently-inaccessible/22791)
 * [2024-11-26, 06:15:55](https://lobste.rs/s/coko2a/shipping_is_capturing_value) - [Shipping is Capturing Value](https://jmduke.com/posts/post/what-is-shipping/)
 * [2024-11-26, 05:18:15](https://lobste.rs/s/oiohsm/using_only_linux_terminal_for_my_personal) - [Using (only) a Linux terminal for my personal computing in 2024](https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/)

@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-26, 10:21:13](https://lobste.rs/s/rixghx/understanding_simd_infinite_complexity) - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-26, 06:56:05](https://lobste.rs/s/njkfbw/major_fly_io_outage) - [major fly.io outage](https://community.fly.io/t/fly-io-site-is-currently-inaccessible/22791)
 * [2024-11-26, 06:15:55](https://lobste.rs/s/coko2a/shipping_is_capturing_value) - [Shipping is Capturing Value](https://jmduke.com/posts/post/what-is-shipping/)
 * [2024-11-26, 05:18:15](https://lobste.rs/s/oiohsm/using_only_linux_terminal_for_my_personal) - [Using (only) a Linux terminal for my personal computing in 2024](https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/)
 * [2024-11-25, 22:07:38](https://lobste.rs/s/otf5rs/slax_alternative_syntax_for_xslt_which_is) - [SLAX: an alternative syntax for XSLT which is tailored for readability and familiarity](https://github.com/Juniper/libslax/wiki)
 * [2024-11-25, 22:01:08](https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript) - [Deno v. Oracle: Canceling the JavaScript Trademark](https://deno.com/blog/deno-v-oracle)
-* [2024-11-25, 21:41:48](https://lobste.rs/s/xnnlcs/leveldb_explained_how_analyze_time) - [LevelDB Explained - How to Analyze the Time Complexity of SkipLists?](https://selfboot.cn/en/2024/09/24/leveldb_source_skiplist_time_analysis/)
 * [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
 * [2024-11-25, 20:18:32](https://lobste.rs/s/nhmmnq/breaking_down_cpu_speed_how_utilization) - [Breaking down CPU speed: How utilization impacts performance](https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/)
 * [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
