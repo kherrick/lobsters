@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-11-26, 06:56:05",
-      "https://lobste.rs/s/njkfbw/major_fly_io_outage"
-    ],
-    [
-      "major fly.io outage",
-      "https://community.fly.io/t/fly-io-site-is-currently-inaccessible/22791"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 06:15:55",
       "https://lobste.rs/s/coko2a/shipping_is_capturing_value"
     ],
@@ -167,6 +157,16 @@
     [
       "Unsafe for work",
       "https://oida.dev/unsafe-for-work/"
+    ]
+  ],
+  [
+    [
+      "2024-11-25, 12:41:14",
+      "https://lobste.rs/s/xmil6u/rustlantis_randomized_differential"
+    ],
+    [
+      "Rustlantis: Randomized Differential Testing of the Rust Compiler",
+      "https://www.ralfj.de/blog/2024/11/25/rustlantis.html"
     ]
   ],
   [
