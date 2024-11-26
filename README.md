@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-26, 20:23:57](https://lobste.rs/s/tifcpy/float_self_tagging) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
+* [2024-11-26, 20:15:10](https://lobste.rs/s/78df86/arch_linux_finally_starts_licensing) - [Arch Linux finally starts licensing PKGBUILDs](https://lwn.net/SubscriberLink/998778/aa5fd76c0574a311/)
 * [2024-11-26, 19:12:37](https://lobste.rs/s/dc2jjr/gnu_make_jobserver_implementation) - [The GNU make jobserver implementation](https://make.mad-scientist.net/papers/jobserver-implementation/)
 * [2024-11-26, 18:28:27](https://lobste.rs/s/22wpiu/simple_applescript_reveal_system) - [A simple AppleScript to reveal System Settings’ anchors](https://robservatory.com/a-simple-applescript-to-reveal-system-settings-anchors/)
 * [2024-11-26, 17:47:19](https://lobste.rs/s/zednxn/introducing_glu_deployment) - [Introducing Glu: Deployment Coordination as Code](https://blog.flipt.io/introducing-glu)
@@ -17,9 +19,7 @@
 * [2024-11-25, 19:01:02](https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
 * [2024-11-25, 16:39:04](https://lobste.rs/s/vv00be/untls_reexposes_tcp_over_tls_port_as_local) - [untls: Reexposes a TCP over TLS port as a local TCP port](https://github.com/lucasew/untls)
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
-* [2024-11-25, 13:14:08](https://lobste.rs/s/av72i6/unsafe_for_work) - [Unsafe for work](https://oida.dev/unsafe-for-work/)
 * [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
-* [2024-11-25, 12:01:15](https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms) - [Is there a good open-source combined CRM and CMS for political organising?](https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms)
 * [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
 * [2024-11-25, 07:56:22](https://lobste.rs/s/ggqd2g/how_i_configure_my_git_identities) - [How I configure my Git identities](https://www.benji.dog/articles/git-config/)
 * [2024-11-25, 07:53:10](https://lobste.rs/s/g39qdw/theory_building_why_employee_churn_is) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)

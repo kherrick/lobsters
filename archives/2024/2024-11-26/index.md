@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 20:23:57](https://lobste.rs/s/tifcpy/float_self_tagging) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
+* [2024-11-26, 20:15:10](https://lobste.rs/s/78df86/arch_linux_finally_starts_licensing) - [Arch Linux finally starts licensing PKGBUILDs](https://lwn.net/SubscriberLink/998778/aa5fd76c0574a311/)
 * [2024-11-26, 19:12:37](https://lobste.rs/s/dc2jjr/gnu_make_jobserver_implementation) - [The GNU make jobserver implementation](https://make.mad-scientist.net/papers/jobserver-implementation/)
 * [2024-11-26, 18:28:27](https://lobste.rs/s/22wpiu/simple_applescript_reveal_system) - [A simple AppleScript to reveal System Settings’ anchors](https://robservatory.com/a-simple-applescript-to-reveal-system-settings-anchors/)
 * [2024-11-26, 17:47:19](https://lobste.rs/s/zednxn/introducing_glu_deployment) - [Introducing Glu: Deployment Coordination as Code](https://blog.flipt.io/introducing-glu)
