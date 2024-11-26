@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-26, 16:43:12",
+      "https://lobste.rs/s/ehxie4/guix_user_contributor_survey"
+    ],
+    [
+      "Guix User and Contributor Survey",
+      "https://guix.gnu.org/blog/2024/guix-user-contributor-survey-2024//"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 16:21:19",
       "https://lobste.rs/s/ckncpk/postgresql_hacking_workshop_december"
     ],
@@ -157,16 +167,6 @@
     [
       "Unsafe for work",
       "https://oida.dev/unsafe-for-work/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 12:41:14",
-      "https://lobste.rs/s/xmil6u/rustlantis_randomized_differential"
-    ],
-    [
-      "Rustlantis: Randomized Differential Testing of the Rust Compiler",
-      "https://www.ralfj.de/blog/2024/11/25/rustlantis.html"
     ]
   ],
   [
