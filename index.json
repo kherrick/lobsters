@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-26, 06:56:05",
+      "https://lobste.rs/s/njkfbw/major_fly_io_outage"
+    ],
+    [
+      "major fly.io outage",
+      "https://community.fly.io/t/fly-io-site-is-currently-inaccessible/22791"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 06:15:55",
       "https://lobste.rs/s/coko2a/shipping_is_capturing_value"
     ],
@@ -237,16 +247,6 @@
     [
       "The two factions of C++",
       "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 05:01:41",
-      "https://lobste.rs/s/nib781/dear_friend_you_have_built_kubernetes"
-    ],
-    [
-      "Dear friend, you have built a Kubernetes",
-      "https://www.macchaffee.com/blog/2024/you-have-built-a-kubernetes/"
     ]
   ]
 ]
