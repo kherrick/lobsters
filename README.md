@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-26, 17:47:19](https://lobste.rs/s/zednxn/introducing_glu_deployment) - [Introducing Glu: Deployment Coordination as Code](https://blog.flipt.io/introducing-glu)
 * [2024-11-26, 16:43:12](https://lobste.rs/s/ehxie4/guix_user_contributor_survey) - [Guix User and Contributor Survey](https://guix.gnu.org/blog/2024/guix-user-contributor-survey-2024//)
 * [2024-11-26, 16:21:19](https://lobste.rs/s/ckncpk/postgresql_hacking_workshop_december) - [PostgreSQL Hacking Workshop - December 2024](https://rhaas.blogspot.com/2024/11/postgresql-hacking-workshop-december.html)
 * [2024-11-26, 13:00:26](https://lobste.rs/s/ki78xn/llvm_powered_devirtualization) - [LLVM-powered devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
@@ -16,7 +17,6 @@
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 15:19:29](https://lobste.rs/s/avsamn/so_you_want_write_kmail_plugin) - [So you want to write a KMail plugin?](http://datagirl.xyz/posts/kontact_plugin_writing.html)
 * [2024-11-25, 13:14:08](https://lobste.rs/s/av72i6/unsafe_for_work) - [Unsafe for work](https://oida.dev/unsafe-for-work/)
-* [2024-11-25, 12:41:14](https://lobste.rs/s/xmil6u/rustlantis_randomized_differential) - [Rustlantis: Randomized Differential Testing of the Rust Compiler](https://www.ralfj.de/blog/2024/11/25/rustlantis.html)
 * [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
 * [2024-11-25, 12:01:15](https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms) - [Is there a good open-source combined CRM and CMS for political organising?](https://lobste.rs/s/zv4ekm/is_there_good_open_source_combined_crm_cms)
 * [2024-11-25, 10:17:38](https://lobste.rs/s/kdq1ps/this_website_is_hosted_on_bluesky) - [This Website is Hosted on Bluesky](https://danielmangum.com/posts/this-website-is-hosted-on-bluesky/)

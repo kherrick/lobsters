@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 17:47:19](https://lobste.rs/s/zednxn/introducing_glu_deployment) - [Introducing Glu: Deployment Coordination as Code](https://blog.flipt.io/introducing-glu)
 * [2024-11-26, 16:43:12](https://lobste.rs/s/ehxie4/guix_user_contributor_survey) - [Guix User and Contributor Survey](https://guix.gnu.org/blog/2024/guix-user-contributor-survey-2024//)
 * [2024-11-26, 16:21:19](https://lobste.rs/s/ckncpk/postgresql_hacking_workshop_december) - [PostgreSQL Hacking Workshop - December 2024](https://rhaas.blogspot.com/2024/11/postgresql-hacking-workshop-december.html)
 * [2024-11-26, 13:00:26](https://lobste.rs/s/ki78xn/llvm_powered_devirtualization) - [LLVM-powered devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
