@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-26, 13:00:26",
+      "https://lobste.rs/s/ki78xn/llvm_powered_devirtualization"
+    ],
+    [
+      "LLVM-powered devirtualization",
+      "https://blog.thalium.re/posts/llvm-powered-devirtualization/"
+    ]
+  ],
+  [
+    [
+      "2024-11-26, 12:50:08",
+      "https://lobste.rs/s/e1td62/terminology_isn_t_universal"
+    ],
+    [
+      "Terminology isn't universal",
+      "https://ntietz.com/blog/terminology-isnt-universal/"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 10:21:13",
       "https://lobste.rs/s/rixghx/understanding_simd_infinite_complexity"
     ],
@@ -67,16 +87,6 @@
     [
       "Getting a pointer to a constant in Go",
       "https://xeiaso.net/notes/2024/go-pointer-constant/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 20:18:32",
-      "https://lobste.rs/s/nhmmnq/breaking_down_cpu_speed_how_utilization"
-    ],
-    [
-      "Breaking down CPU speed: How utilization impacts performance",
-      "https://github.blog/engineering/architecture-optimization/breaking-down-cpu-speed-how-utilization-impacts-performance/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Functional programming self-affirmations",
       "https://norikitech.com/posts/functional-affirmations/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 12:33:08",
-      "https://lobste.rs/s/z4a8ne/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/z4a8ne/what_are_you_doing_this_week"
     ]
   ],
   [
