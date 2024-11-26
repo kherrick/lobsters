@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-26](index.md)
 
+* [2024-11-26, 16:21:19](https://lobste.rs/s/ckncpk/postgresql_hacking_workshop_december) - [PostgreSQL Hacking Workshop - December 2024](https://rhaas.blogspot.com/2024/11/postgresql-hacking-workshop-december.html)
 * [2024-11-26, 13:00:26](https://lobste.rs/s/ki78xn/llvm_powered_devirtualization) - [LLVM-powered devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:50:08](https://lobste.rs/s/e1td62/terminology_isn_t_universal) - [Terminology isn't universal](https://ntietz.com/blog/terminology-isnt-universal/)
 * [2024-11-26, 10:21:13](https://lobste.rs/s/rixghx/understanding_simd_infinite_complexity) - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
