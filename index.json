@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-26, 06:15:55",
+      "https://lobste.rs/s/coko2a/shipping_is_capturing_value"
+    ],
+    [
+      "Shipping is Capturing Value",
+      "https://jmduke.com/posts/post/what-is-shipping/"
+    ]
+  ],
+  [
+    [
       "2024-11-26, 05:18:15",
       "https://lobste.rs/s/oiohsm/using_only_linux_terminal_for_my_personal"
     ],
@@ -227,16 +237,6 @@
     [
       "The two factions of C++",
       "https://herecomesthemoon.net/2024/11/two-factions-of-cpp/"
-    ]
-  ],
-  [
-    [
-      "2024-11-24, 18:35:26",
-      "https://lobste.rs/s/geh4sf/announcing_nio_async_runtime_for_rust"
-    ],
-    [
-      "Announcing Nio: An async runtime for Rust",
-      "https://nurmohammed840.github.io/posts/announcing-nio/"
     ]
   ],
   [
