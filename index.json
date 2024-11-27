@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-27, 10:34:35",
+      "https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021"
+    ],
+    [
+      "Write Code That Delivers Value to Clients (2021)",
+      "https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 10:12:36",
+      "https://lobste.rs/s/advyhg/cursed_linear_types_rust"
+    ],
+    [
+      "Cursed linear types in Rust",
+      "https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 09:43:19",
       "https://lobste.rs/s/uf4v4u/i_got_ip_address"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-11-26, 16:21:19",
-      "https://lobste.rs/s/ckncpk/postgresql_hacking_workshop_december"
-    ],
-    [
-      "PostgreSQL Hacking Workshop - December 2024",
-      "https://rhaas.blogspot.com/2024/11/postgresql-hacking-workshop-december.html"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 13:00:26",
       "https://lobste.rs/s/ki78xn/llvm_powered_devirtualization"
     ],
@@ -227,16 +237,6 @@
     [
       "Getting a pointer to a constant in Go",
       "https://xeiaso.net/notes/2024/go-pointer-constant/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 19:52:29",
-      "https://lobste.rs/s/bpl3ak/neohaskell"
-    ],
-    [
-      "NeoHaskell",
-      "https://neohaskell.org/"
     ]
   ],
   [
