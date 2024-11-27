@@ -3,7 +3,7 @@
 * [2024-11-27, 15:09:49](https://lobste.rs/s/hr6otz/benchmarking_postgresql_batch_ingest) - [Benchmarking PostgreSQL Batch Ingest](https://www.timescale.com/blog/benchmarking-postgresql-batch-ingest/)
 * [2024-11-27, 15:05:33](https://lobste.rs/s/rhfxg6/3d_printed_programming_language_logo) - [3D Printed Programming Language Logo Tree Ornaments: Designed in Haskell](https://github.com/joe-warren/christmas-ornaments)
 * [2024-11-27, 14:58:45](https://lobste.rs/s/i3orn9/beyond_bcrypt) - [Beyond Bcrypt](https://soatok.blog/2024/11/27/beyond-bcrypt/)
-* [2024-11-27, 14:01:24](https://lobste.rs/s/a1h7nh/building_copilot_2_parsing_converting_on) - [Building a Copilot #2: Parsing & Converting On The Fly](https://parnassus.co/building-a-copilot-2-parsing-converting/)
+* [2024-11-27, 14:01:24](https://lobste.rs/s/a1h7nh/parsing_converting_on_fly) - [Parsing & Converting On The Fly](https://parnassus.co/building-a-copilot-2-parsing-converting/)
 * [2024-11-27, 13:05:07](https://lobste.rs/s/kplqai/i_didn_t_need_kubernetes_you_probably_don_t) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 12:58:12](https://lobste.rs/s/dqyhrd/python_dependency_management_is) - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 * [2024-11-27, 12:53:34](https://lobste.rs/s/cqsm0n/data_modeling_with_sums_products) - [Data Modeling with Sums and Products](https://funktionale-programmierung.de/2024/11/25/sums-products-english.html)
