@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-27, 13:25:33",
+      "https://lobste.rs/s/7xv5tz/swirl_ai_search_rag_without_moving_your"
+    ],
+    [
+      "SWIRL - AI Search & RAG Without Moving Your Data. Get answers from your company's knowledge",
+      "https://github.com/swirlai/swirl-search"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 13:05:07",
+      "https://lobste.rs/s/kplqai/i_didn_t_need_kubernetes_you_probably_don_t"
+    ],
+    [
+      "I Didn't Need Kubernetes, and You Probably Don't Either",
+      "https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 12:58:12",
       "https://lobste.rs/s/dqyhrd/python_dependency_management_is"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-11-26, 13:00:26",
-      "https://lobste.rs/s/ki78xn/llvm_powered_devirtualization"
-    ],
-    [
-      "LLVM-powered devirtualization",
-      "https://blog.thalium.re/posts/llvm-powered-devirtualization/"
-    ]
-  ],
-  [
-    [
       "2024-11-26, 12:50:08",
       "https://lobste.rs/s/e1td62/terminology_isn_t_universal"
     ],
@@ -237,16 +247,6 @@
     [
       "Deno v. Oracle: Canceling the JavaScript Trademark",
       "https://deno.com/blog/deno-v-oracle"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 20:53:17",
-      "https://lobste.rs/s/ldzdn2/getting_pointer_constant_go"
-    ],
-    [
-      "Getting a pointer to a constant in Go",
-      "https://xeiaso.net/notes/2024/go-pointer-constant/"
     ]
   ]
 ]
