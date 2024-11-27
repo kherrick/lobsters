@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-27, 20:59:47",
+      "https://lobste.rs/s/5lvjcn/jaq_2_0_released_with_lots_improvements"
+    ],
+    [
+      "Jaq 2.0 released with lots of improvements and jqjq support",
+      "https://github.com/01mf02/jaq/releases/tag/v2.0.0"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 20:45:57",
       "https://lobste.rs/s/ctlg56/trunkver"
     ],
@@ -97,16 +107,6 @@
     [
       "Python dependency management is a dumpster fire",
       "https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 12:53:34",
-      "https://lobste.rs/s/cqsm0n/data_modeling_with_sums_products"
-    ],
-    [
-      "Data Modeling with Sums and Products",
-      "https://funktionale-programmierung.de/2024/11/25/sums-products-english.html"
     ]
   ],
   [
