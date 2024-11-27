@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 13:25:33](https://lobste.rs/s/7xv5tz/swirl_ai_search_rag_without_moving_your) - [SWIRL - AI Search & RAG Without Moving Your Data. Get answers from your company's knowledge](https://github.com/swirlai/swirl-search)
+* [2024-11-27, 13:05:07](https://lobste.rs/s/kplqai/i_didn_t_need_kubernetes_you_probably_don_t) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 12:58:12](https://lobste.rs/s/dqyhrd/python_dependency_management_is) - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 * [2024-11-27, 12:53:34](https://lobste.rs/s/cqsm0n/data_modeling_with_sums_products) - [Data Modeling with Sums and Products](https://funktionale-programmierung.de/2024/11/25/sums-products-english.html)
 * [2024-11-27, 12:31:36](https://lobste.rs/s/ws0mt8/structured_editing_incremental_parsing) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
@@ -20,11 +22,9 @@
 * [2024-11-26, 19:12:37](https://lobste.rs/s/dc2jjr/gnu_make_jobserver_implementation) - [The GNU make jobserver implementation](https://make.mad-scientist.net/papers/jobserver-implementation/)
 * [2024-11-26, 18:28:27](https://lobste.rs/s/22wpiu/simple_applescript_reveal_system) - [A simple AppleScript to reveal System Settings’ anchors](https://robservatory.com/a-simple-applescript-to-reveal-system-settings-anchors/)
 * [2024-11-26, 16:43:12](https://lobste.rs/s/ehxie4/guix_user_contributor_survey) - [Guix User and Contributor Survey](https://guix.gnu.org/blog/2024/guix-user-contributor-survey-2024//)
-* [2024-11-26, 13:00:26](https://lobste.rs/s/ki78xn/llvm_powered_devirtualization) - [LLVM-powered devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:50:08](https://lobste.rs/s/e1td62/terminology_isn_t_universal) - [Terminology isn't universal](https://ntietz.com/blog/terminology-isnt-universal/)
 * [2024-11-26, 05:18:15](https://lobste.rs/s/oiohsm/using_only_linux_terminal_for_my_personal) - [Using (only) a Linux terminal for my personal computing in 2024](https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/)
 * [2024-11-25, 22:01:08](https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript) - [Deno v. Oracle: Canceling the JavaScript Trademark](https://deno.com/blog/deno-v-oracle)
-* [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
 
 ## [Archives](archives/index.md)
 
