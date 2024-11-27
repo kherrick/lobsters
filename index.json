@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2024-11-27, 18:18:07",
-      "https://lobste.rs/s/abontr/framework_for_evaluating_browser"
-    ],
-    [
-      "A Framework for Evaluating Browser Support",
-      "https://www.joshwcomeau.com/css/browser-support/"
-    ]
-  ],
-  [
-    [
       "2024-11-27, 17:12:11",
       "https://lobste.rs/s/via7hd/if_constexpr_requires_requires_requires"
     ],
@@ -97,6 +87,16 @@
     [
       "Structured Editing and Incremental Parsing",
       "https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 12:03:00",
+      "https://lobste.rs/s/hwgpmc/romcom_exploits_firefox_windows_zero"
+    ],
+    [
+      "RomCom exploits Firefox and Windows zero days in the wild (October 2024)",
+      "https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/"
     ]
   ],
   [
