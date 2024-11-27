@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 14:01:24](https://lobste.rs/s/a1h7nh/building_copilot_2_parsing_converting_on) - [Building a Copilot #2: Parsing & Converting On The Fly](https://parnassus.co/building-a-copilot-2-parsing-converting/)
 * [2024-11-27, 13:25:33](https://lobste.rs/s/7xv5tz/swirl_ai_search_rag_without_moving_your) - [SWIRL - AI Search & RAG Without Moving Your Data. Get answers from your company's knowledge](https://github.com/swirlai/swirl-search)
 * [2024-11-27, 13:05:07](https://lobste.rs/s/kplqai/i_didn_t_need_kubernetes_you_probably_don_t) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 12:58:12](https://lobste.rs/s/dqyhrd/python_dependency_management_is) - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
@@ -14,7 +15,6 @@
 * [2024-11-27, 07:27:41](https://lobste.rs/s/xarssv/rust_qemu_roadmap) - [Rust in QEMU roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-27, 06:35:59](https://lobste.rs/s/7traq5/janet_for_mortals) - [Janet for Mortals](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 06:08:18](https://lobste.rs/s/lvjc6k/haskell_great_procedural_language) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
-* [2024-11-27, 05:24:38](https://lobste.rs/s/e5yf7f/rust_library_for_building_no_boilerplate) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 * [2024-11-27, 04:29:20](https://lobste.rs/s/c0ezqd/reply_on_bluesky_decentralization) - [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)
 * [2024-11-27, 00:04:00](https://lobste.rs/s/hixljv/constraints_are_good_python_s_metadata) - [Constraints are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
 * [2024-11-26, 20:23:57](https://lobste.rs/s/tifcpy/float_self_tagging) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
