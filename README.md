@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 06:35:59](https://lobste.rs/s/7traq5/janet_for_mortals) - [Janet for Mortals](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 06:08:18](https://lobste.rs/s/lvjc6k/haskell_great_procedural_language) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2024-11-27, 05:24:38](https://lobste.rs/s/e5yf7f/rust_library_for_building_no_boilerplate) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 * [2024-11-27, 04:29:20](https://lobste.rs/s/c0ezqd/reply_on_bluesky_decentralization) - [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)
@@ -24,7 +25,6 @@
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
 * [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
-* [2024-11-25, 07:53:10](https://lobste.rs/s/g39qdw/theory_building_why_employee_churn_is) - [Theory-building and why employee churn is lethal to software companies](https://www.baldurbjarnason.com/2022/theory-building/)
 
 ## [Archives](archives/index.md)
 
