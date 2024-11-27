@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 12:03:00](https://lobste.rs/s/hwgpmc/romcom_exploits_firefox_windows_zero) - [RomCom exploits Firefox and Windows zero days in the wild (October 2024)](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
 * [2024-11-27, 10:34:35](https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021) - [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
 * [2024-11-27, 10:12:36](https://lobste.rs/s/advyhg/cursed_linear_types_rust) - [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
 * [2024-11-27, 09:43:19](https://lobste.rs/s/uf4v4u/i_got_ip_address) - [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
@@ -24,7 +25,6 @@
 * [2024-11-26, 05:18:15](https://lobste.rs/s/oiohsm/using_only_linux_terminal_for_my_personal) - [Using (only) a Linux terminal for my personal computing in 2024](https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/)
 * [2024-11-25, 22:01:08](https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript) - [Deno v. Oracle: Canceling the JavaScript Trademark](https://deno.com/blog/deno-v-oracle)
 * [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
-* [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
 
 ## [Archives](archives/index.md)
 
