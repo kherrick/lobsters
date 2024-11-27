@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 07:27:41](https://lobste.rs/s/xarssv/rust_qemu_roadmap) - [Rust in QEMU roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-27, 06:35:59](https://lobste.rs/s/7traq5/janet_for_mortals) - [Janet for Mortals](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 06:08:18](https://lobste.rs/s/lvjc6k/haskell_great_procedural_language) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2024-11-27, 05:24:38](https://lobste.rs/s/e5yf7f/rust_library_for_building_no_boilerplate) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
