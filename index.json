@@ -2,10 +2,10 @@
   [
     [
       "2024-11-27, 07:51:52",
-      "https://lobste.rs/s/n4d6bs/optimizing_go_performance_with"
+      "https://lobste.rs/s/n4d6bs/go_production_performance_gotcha"
     ],
     [
-      "Optimizing Go Performance with GOMAXPROCS",
+      "Go Production Performance Gotcha - GOMAXPROCS",
       "https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs"
     ]
   ],
