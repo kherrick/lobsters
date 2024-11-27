@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 15:09:49](https://lobste.rs/s/hr6otz/benchmarking_postgresql_batch_ingest) - [Benchmarking PostgreSQL Batch Ingest](https://www.timescale.com/blog/benchmarking-postgresql-batch-ingest/)
+* [2024-11-27, 15:05:33](https://lobste.rs/s/rhfxg6/3d_printed_programming_language_logo) - [3D Printed Programming Language Logo Tree Ornaments: Designed in Haskell](https://github.com/joe-warren/christmas-ornaments)
+* [2024-11-27, 14:58:45](https://lobste.rs/s/i3orn9/beyond_bcrypt) - [Beyond Bcrypt](https://soatok.blog/2024/11/27/beyond-bcrypt/)
 * [2024-11-27, 14:51:37](https://lobste.rs/s/khomv9/emacs_arbitrary_code_execution_how_avoid) - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 * [2024-11-27, 14:01:24](https://lobste.rs/s/a1h7nh/building_copilot_2_parsing_converting_on) - [Building a Copilot #2: Parsing & Converting On The Fly](https://parnassus.co/building-a-copilot-2-parsing-converting/)
 * [2024-11-27, 13:25:33](https://lobste.rs/s/7xv5tz/swirl_ai_search_rag_without_moving_your) - [SWIRL - AI Search & RAG Without Moving Your Data. Get answers from your company's knowledge](https://github.com/swirlai/swirl-search)
