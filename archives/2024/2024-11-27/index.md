@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 12:58:12](https://lobste.rs/s/dqyhrd/python_dependency_management_is) - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
+* [2024-11-27, 12:53:34](https://lobste.rs/s/cqsm0n/data_modeling_with_sums_products) - [Data Modeling with Sums and Products](https://funktionale-programmierung.de/2024/11/25/sums-products-english.html)
+* [2024-11-27, 12:31:36](https://lobste.rs/s/ws0mt8/structured_editing_incremental_parsing) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
 * [2024-11-27, 12:03:00](https://lobste.rs/s/hwgpmc/romcom_exploits_firefox_windows_zero) - [RomCom exploits Firefox and Windows zero days in the wild (October 2024)](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
 * [2024-11-27, 10:34:35](https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021) - [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
 * [2024-11-27, 10:12:36](https://lobste.rs/s/advyhg/cursed_linear_types_rust) - [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
