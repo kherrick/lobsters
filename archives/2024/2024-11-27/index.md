@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 09:43:19](https://lobste.rs/s/uf4v4u/i_got_ip_address) - [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
 * [2024-11-27, 07:51:52](https://lobste.rs/s/n4d6bs/optimizing_go_performance_with) - [Optimizing Go Performance with GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 * [2024-11-27, 07:51:52](https://lobste.rs/s/n4d6bs/go_production_performance_gotcha) - [Go Production Performance Gotcha - GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 * [2024-11-27, 07:50:38](https://lobste.rs/s/wrruyo/modern_solutions_against_cross_site) - [Modern solutions against cross-site attacks](https://frederikbraun.de/modern-solutions-xsleaks.html)
