@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-11-27, 15:09:49](https://lobste.rs/s/hr6otz/benchmarking_postgresql_batch_ingest) - [Benchmarking PostgreSQL Batch Ingest](https://www.timescale.com/blog/benchmarking-postgresql-batch-ingest/)
+* [2024-11-27, 17:12:11](https://lobste.rs/s/via7hd/if_constexpr_requires_requires_requires) - [if constexpr requires requires { requires }](https://www.think-cell.com/en/career/devblog/if-constexpr-requires-requires-requires)
 * [2024-11-27, 14:58:45](https://lobste.rs/s/i3orn9/beyond_bcrypt) - [Beyond Bcrypt](https://soatok.blog/2024/11/27/beyond-bcrypt/)
 * [2024-11-27, 14:51:37](https://lobste.rs/s/khomv9/emacs_arbitrary_code_execution_how_avoid) - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
 * [2024-11-27, 14:01:24](https://lobste.rs/s/a1h7nh/parsing_converting_on_fly) - [Parsing & Converting On The Fly](https://parnassus.co/building-a-copilot-2-parsing-converting/)
