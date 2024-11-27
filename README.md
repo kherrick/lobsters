@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 07:51:52](https://lobste.rs/s/n4d6bs/optimizing_go_performance_with) - [Optimizing Go Performance with GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
+* [2024-11-27, 07:50:38](https://lobste.rs/s/wrruyo/modern_solutions_against_cross_site) - [Modern solutions against cross-site attacks](https://frederikbraun.de/modern-solutions-xsleaks.html)
 * [2024-11-27, 07:27:41](https://lobste.rs/s/xarssv/rust_qemu_roadmap) - [Rust in QEMU roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-27, 06:35:59](https://lobste.rs/s/7traq5/janet_for_mortals) - [Janet for Mortals](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 06:08:18](https://lobste.rs/s/lvjc6k/haskell_great_procedural_language) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
@@ -21,8 +23,6 @@
 * [2024-11-25, 22:01:08](https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript) - [Deno v. Oracle: Canceling the JavaScript Trademark](https://deno.com/blog/deno-v-oracle)
 * [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
 * [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
-* [2024-11-25, 19:01:02](https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
-* [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
 * [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 07:51:52](https://lobste.rs/s/n4d6bs/optimizing_go_performance_with) - [Optimizing Go Performance with GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
+* [2024-11-27, 07:50:38](https://lobste.rs/s/wrruyo/modern_solutions_against_cross_site) - [Modern solutions against cross-site attacks](https://frederikbraun.de/modern-solutions-xsleaks.html)
 * [2024-11-27, 07:27:41](https://lobste.rs/s/xarssv/rust_qemu_roadmap) - [Rust in QEMU roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-27, 06:35:59](https://lobste.rs/s/7traq5/janet_for_mortals) - [Janet for Mortals](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 06:08:18](https://lobste.rs/s/lvjc6k/haskell_great_procedural_language) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
