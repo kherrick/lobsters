@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 04:29:20](https://lobste.rs/s/c0ezqd/reply_on_bluesky_decentralization) - [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)
 * [2024-11-27, 00:04:00](https://lobste.rs/s/hixljv/constraints_are_good_python_s_metadata) - [Constraints are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
 * [2024-11-26, 22:37:06](https://lobste.rs/s/lbk2b1/go_java_rethinking_type_safety_for) - [Go and Java: Rethinking Type Safety for the Pragmatic Age](https://rohan.ga/blog/java-go/)
 * [2024-11-26, 20:23:57](https://lobste.rs/s/tifcpy/float_self_tagging) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
@@ -19,7 +20,6 @@
 * [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
 * [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
 * [2024-11-25, 19:01:02](https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading) - [macOS Tips for Programmers: Threading](https://blog.xoria.org/macos-tips-threading/)
-* [2024-11-25, 16:39:04](https://lobste.rs/s/vv00be/untls_reexposes_tcp_over_tls_port_as_local) - [untls: Reexposes a TCP over TLS port as a local TCP port](https://github.com/lucasew/untls)
 * [2024-11-25, 16:13:24](https://lobste.rs/s/g3zfwn/introducing_model_context_protocol) - [Introducing the Model Context Protocol](https://www.anthropic.com/news/model-context-protocol)
 * [2024-11-25, 12:39:06](https://lobste.rs/s/7luzfk/functional_programming_self) - [Functional programming self-affirmations](https://norikitech.com/posts/functional-affirmations/)
 * [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
