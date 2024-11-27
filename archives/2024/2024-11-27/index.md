@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 18:18:07](https://lobste.rs/s/abontr/framework_for_evaluating_browser) - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
+* [2024-11-27, 18:16:10](https://lobste.rs/s/qamnum/redis_inc_seeks_control_over_future_rust) - [Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 * [2024-11-27, 17:12:11](https://lobste.rs/s/via7hd/if_constexpr_requires_requires_requires) - [if constexpr requires requires { requires }](https://www.think-cell.com/en/career/devblog/if-constexpr-requires-requires-requires)
 * [2024-11-27, 15:09:49](https://lobste.rs/s/hr6otz/benchmarking_postgresql_batch_ingest) - [Benchmarking PostgreSQL Batch Ingest](https://www.timescale.com/blog/benchmarking-postgresql-batch-ingest/)
 * [2024-11-27, 15:05:33](https://lobste.rs/s/rhfxg6/3d_printed_programming_language_logo) - [3D Printed Programming Language Logo Tree Ornaments: Designed in Haskell](https://github.com/joe-warren/christmas-ornaments)

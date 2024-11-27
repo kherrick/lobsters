@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 18:18:07](https://lobste.rs/s/abontr/framework_for_evaluating_browser) - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
+* [2024-11-27, 18:16:10](https://lobste.rs/s/qamnum/redis_inc_seeks_control_over_future_rust) - [Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 * [2024-11-27, 17:12:11](https://lobste.rs/s/via7hd/if_constexpr_requires_requires_requires) - [if constexpr requires requires { requires }](https://www.think-cell.com/en/career/devblog/if-constexpr-requires-requires-requires)
 * [2024-11-27, 14:58:45](https://lobste.rs/s/i3orn9/beyond_bcrypt) - [Beyond Bcrypt](https://soatok.blog/2024/11/27/beyond-bcrypt/)
 * [2024-11-27, 14:51:37](https://lobste.rs/s/khomv9/emacs_arbitrary_code_execution_how_avoid) - [Emacs Arbitrary Code Execution and How to Avoid It](https://eshelyaron.com/posts/2024-11-27-emacs-aritrary-code-execution-and-how-to-avoid-it.html)
@@ -8,7 +10,6 @@
 * [2024-11-27, 12:58:12](https://lobste.rs/s/dqyhrd/python_dependency_management_is) - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 * [2024-11-27, 12:53:34](https://lobste.rs/s/cqsm0n/data_modeling_with_sums_products) - [Data Modeling with Sums and Products](https://funktionale-programmierung.de/2024/11/25/sums-products-english.html)
 * [2024-11-27, 12:31:36](https://lobste.rs/s/ws0mt8/structured_editing_incremental_parsing) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
-* [2024-11-27, 12:03:00](https://lobste.rs/s/hwgpmc/romcom_exploits_firefox_windows_zero) - [RomCom exploits Firefox and Windows zero days in the wild (October 2024)](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
 * [2024-11-27, 10:34:35](https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021) - [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
 * [2024-11-27, 10:12:36](https://lobste.rs/s/advyhg/cursed_linear_types_rust) - [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
 * [2024-11-27, 09:43:19](https://lobste.rs/s/uf4v4u/i_got_ip_address) - [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
@@ -20,7 +21,6 @@
 * [2024-11-27, 00:04:00](https://lobste.rs/s/hixljv/constraints_are_good_python_s_metadata) - [Constraints are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
 * [2024-11-26, 20:23:57](https://lobste.rs/s/tifcpy/float_self_tagging) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
 * [2024-11-26, 20:15:10](https://lobste.rs/s/78df86/arch_linux_finally_starts_licensing) - [Arch Linux finally starts licensing PKGBUILDs](https://lwn.net/SubscriberLink/998778/aa5fd76c0574a311/)
-* [2024-11-26, 19:12:37](https://lobste.rs/s/dc2jjr/gnu_make_jobserver_implementation) - [The GNU make jobserver implementation](https://make.mad-scientist.net/papers/jobserver-implementation/)
 * [2024-11-26, 18:28:27](https://lobste.rs/s/22wpiu/simple_applescript_reveal_system) - [A simple AppleScript to reveal System Settings’ anchors](https://robservatory.com/a-simple-applescript-to-reveal-system-settings-anchors/)
 * [2024-11-26, 16:43:12](https://lobste.rs/s/ehxie4/guix_user_contributor_survey) - [Guix User and Contributor Survey](https://guix.gnu.org/blog/2024/guix-user-contributor-survey-2024//)
 * [2024-11-26, 05:18:15](https://lobste.rs/s/oiohsm/using_only_linux_terminal_for_my_personal) - [Using (only) a Linux terminal for my personal computing in 2024](https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/)
