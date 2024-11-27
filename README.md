@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 06:08:18](https://lobste.rs/s/lvjc6k/haskell_great_procedural_language) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 * [2024-11-27, 05:24:38](https://lobste.rs/s/e5yf7f/rust_library_for_building_no_boilerplate) - [Rust library for building no-boilerplate CLI apps](https://github.com/JeffrayZhang/terse-cli)
 * [2024-11-27, 04:29:20](https://lobste.rs/s/c0ezqd/reply_on_bluesky_decentralization) - [Reply on Bluesky and Decentralization](https://whtwnd.com/bnewbold.net/3lbvbtqrg5t2t)
 * [2024-11-27, 00:04:00](https://lobste.rs/s/hixljv/constraints_are_good_python_s_metadata) - [Constraints are Good: Python's Metadata Dilemma](https://lucumr.pocoo.org/2024/11/26/python-packaging-metadata/)
@@ -14,7 +15,6 @@
 * [2024-11-26, 13:00:26](https://lobste.rs/s/ki78xn/llvm_powered_devirtualization) - [LLVM-powered devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:50:08](https://lobste.rs/s/e1td62/terminology_isn_t_universal) - [Terminology isn't universal](https://ntietz.com/blog/terminology-isnt-universal/)
 * [2024-11-26, 10:21:13](https://lobste.rs/s/rixghx/understanding_simd_infinite_complexity) - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
-* [2024-11-26, 06:15:55](https://lobste.rs/s/coko2a/shipping_is_capturing_value) - [Shipping is Capturing Value](https://jmduke.com/posts/post/what-is-shipping/)
 * [2024-11-26, 05:18:15](https://lobste.rs/s/oiohsm/using_only_linux_terminal_for_my_personal) - [Using (only) a Linux terminal for my personal computing in 2024](https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/)
 * [2024-11-25, 22:07:38](https://lobste.rs/s/otf5rs/slax_alternative_syntax_for_xslt_which_is) - [SLAX: an alternative syntax for XSLT which is tailored for readability and familiarity](https://github.com/Juniper/libslax/wiki)
 * [2024-11-25, 22:01:08](https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript) - [Deno v. Oracle: Canceling the JavaScript Trademark](https://deno.com/blog/deno-v-oracle)
