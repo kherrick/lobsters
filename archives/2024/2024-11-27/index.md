@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 20:45:57](https://lobste.rs/s/ctlg56/trunkver) - [TrunkVer](https://trunkver.org/)
 * [2024-11-27, 20:10:57](https://lobste.rs/s/vxlgfl/perk_weighting_issue) - [The Perk Weighting Issue](https://www.bungie.net/7/en/News/Article/dev_insights_perk_rng_issue)
 * [2024-11-27, 18:34:13](https://lobste.rs/s/brsmxd/pushing_boundaries_streamlit) - [Pushing the boundaries of Streamlit](https://twitchard.github.io/posts/2024-11-27-streamlit.html)
 * [2024-11-27, 18:18:07](https://lobste.rs/s/abontr/framework_for_evaluating_browser) - [A Framework for Evaluating Browser Support](https://www.joshwcomeau.com/css/browser-support/)
