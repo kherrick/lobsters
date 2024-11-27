@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 10:34:35](https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021) - [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
+* [2024-11-27, 10:12:36](https://lobste.rs/s/advyhg/cursed_linear_types_rust) - [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
 * [2024-11-27, 09:43:19](https://lobste.rs/s/uf4v4u/i_got_ip_address) - [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
 * [2024-11-27, 07:51:52](https://lobste.rs/s/n4d6bs/go_production_performance_gotcha) - [Go Production Performance Gotcha - GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 * [2024-11-27, 07:50:38](https://lobste.rs/s/wrruyo/modern_solutions_against_cross_site) - [Modern solutions against cross-site attacks](https://frederikbraun.de/modern-solutions-xsleaks.html)
@@ -16,14 +18,12 @@
 * [2024-11-26, 18:28:27](https://lobste.rs/s/22wpiu/simple_applescript_reveal_system) - [A simple AppleScript to reveal System Settings’ anchors](https://robservatory.com/a-simple-applescript-to-reveal-system-settings-anchors/)
 * [2024-11-26, 17:47:19](https://lobste.rs/s/zednxn/introducing_glu_deployment) - [Introducing Glu: Deployment Coordination as Code](https://blog.flipt.io/introducing-glu)
 * [2024-11-26, 16:43:12](https://lobste.rs/s/ehxie4/guix_user_contributor_survey) - [Guix User and Contributor Survey](https://guix.gnu.org/blog/2024/guix-user-contributor-survey-2024//)
-* [2024-11-26, 16:21:19](https://lobste.rs/s/ckncpk/postgresql_hacking_workshop_december) - [PostgreSQL Hacking Workshop - December 2024](https://rhaas.blogspot.com/2024/11/postgresql-hacking-workshop-december.html)
 * [2024-11-26, 13:00:26](https://lobste.rs/s/ki78xn/llvm_powered_devirtualization) - [LLVM-powered devirtualization](https://blog.thalium.re/posts/llvm-powered-devirtualization/)
 * [2024-11-26, 12:50:08](https://lobste.rs/s/e1td62/terminology_isn_t_universal) - [Terminology isn't universal](https://ntietz.com/blog/terminology-isnt-universal/)
 * [2024-11-26, 10:21:13](https://lobste.rs/s/rixghx/understanding_simd_infinite_complexity) - [Understanding SIMD: Infinite Complexity of Trivial Problems](https://www.modular.com/blog/understanding-simd-infinite-complexity-of-trivial-problems)
 * [2024-11-26, 05:18:15](https://lobste.rs/s/oiohsm/using_only_linux_terminal_for_my_personal) - [Using (only) a Linux terminal for my personal computing in 2024](https://neilzone.co.uk/2024/11/using-only-a-linux-terminal-for-my-personal-computing-in-2024/)
 * [2024-11-25, 22:01:08](https://lobste.rs/s/suezlq/deno_v_oracle_canceling_javascript) - [Deno v. Oracle: Canceling the JavaScript Trademark](https://deno.com/blog/deno-v-oracle)
 * [2024-11-25, 20:53:17](https://lobste.rs/s/ldzdn2/getting_pointer_constant_go) - [Getting a pointer to a constant in Go](https://xeiaso.net/notes/2024/go-pointer-constant/)
-* [2024-11-25, 19:52:29](https://lobste.rs/s/bpl3ak/neohaskell) - [NeoHaskell](https://neohaskell.org/)
 * [2024-11-25, 09:38:33](https://lobste.rs/s/h1dnzu/charset_wtf_8) - [charset=“wtf-8”](https://wtf-8.xn--stpie-k0a81a.com/)
 
 ## [Archives](archives/index.md)

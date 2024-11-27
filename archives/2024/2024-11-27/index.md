@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 10:34:35](https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021) - [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
+* [2024-11-27, 10:12:36](https://lobste.rs/s/advyhg/cursed_linear_types_rust) - [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
 * [2024-11-27, 09:43:19](https://lobste.rs/s/uf4v4u/i_got_ip_address) - [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
 * [2024-11-27, 07:51:52](https://lobste.rs/s/n4d6bs/optimizing_go_performance_with) - [Optimizing Go Performance with GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
 * [2024-11-27, 07:51:52](https://lobste.rs/s/n4d6bs/go_production_performance_gotcha) - [Go Production Performance Gotcha - GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
