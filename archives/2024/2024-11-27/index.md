@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-27](index.md)
 
+* [2024-11-27, 20:59:47](https://lobste.rs/s/5lvjcn/jaq_2_0_released_with_lots_improvements) - [Jaq 2.0 released with lots of improvements and jqjq support](https://github.com/01mf02/jaq/releases/tag/v2.0.0)
 * [2024-11-27, 20:45:57](https://lobste.rs/s/ctlg56/trunkver) - [TrunkVer](https://trunkver.org/)
 * [2024-11-27, 20:10:57](https://lobste.rs/s/vxlgfl/perk_weighting_issue) - [The Perk Weighting Issue](https://www.bungie.net/7/en/News/Article/dev_insights_perk_rng_issue)
 * [2024-11-27, 18:34:13](https://lobste.rs/s/brsmxd/pushing_boundaries_streamlit) - [Pushing the boundaries of Streamlit](https://twitchard.github.io/posts/2024-11-27-streamlit.html)

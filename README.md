@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-27, 20:59:47](https://lobste.rs/s/5lvjcn/jaq_2_0_released_with_lots_improvements) - [Jaq 2.0 released with lots of improvements and jqjq support](https://github.com/01mf02/jaq/releases/tag/v2.0.0)
 * [2024-11-27, 20:45:57](https://lobste.rs/s/ctlg56/trunkver) - [TrunkVer](https://trunkver.org/)
 * [2024-11-27, 20:10:57](https://lobste.rs/s/vxlgfl/perk_weighting_issue) - [The Perk Weighting Issue](https://www.bungie.net/7/en/News/Article/dev_insights_perk_rng_issue)
 * [2024-11-27, 18:34:13](https://lobste.rs/s/brsmxd/pushing_boundaries_streamlit) - [Pushing the boundaries of Streamlit](https://twitchard.github.io/posts/2024-11-27-streamlit.html)
@@ -10,7 +11,6 @@
 * [2024-11-27, 14:01:24](https://lobste.rs/s/a1h7nh/parsing_converting_on_fly) - [Parsing & Converting On The Fly](https://parnassus.co/building-a-copilot-2-parsing-converting/)
 * [2024-11-27, 13:05:07](https://lobste.rs/s/kplqai/i_didn_t_need_kubernetes_you_probably_don_t) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 12:58:12](https://lobste.rs/s/dqyhrd/python_dependency_management_is) - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
-* [2024-11-27, 12:53:34](https://lobste.rs/s/cqsm0n/data_modeling_with_sums_products) - [Data Modeling with Sums and Products](https://funktionale-programmierung.de/2024/11/25/sums-products-english.html)
 * [2024-11-27, 12:31:36](https://lobste.rs/s/ws0mt8/structured_editing_incremental_parsing) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
 * [2024-11-27, 12:03:00](https://lobste.rs/s/hwgpmc/romcom_exploits_firefox_windows_zero) - [RomCom exploits Firefox and Windows zero days in the wild (October 2024)](https://www.welivesecurity.com/en/eset-research/romcom-exploits-firefox-and-windows-zero-days-in-the-wild/)
 * [2024-11-27, 10:34:35](https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021) - [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
