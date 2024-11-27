@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-11-27, 07:51:52",
+      "https://lobste.rs/s/n4d6bs/optimizing_go_performance_with"
+    ],
+    [
+      "Optimizing Go Performance with GOMAXPROCS",
+      "https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs"
+    ]
+  ],
+  [
+    [
+      "2024-11-27, 07:50:38",
+      "https://lobste.rs/s/wrruyo/modern_solutions_against_cross_site"
+    ],
+    [
+      "Modern solutions against cross-site attacks",
+      "https://frederikbraun.de/modern-solutions-xsleaks.html"
+    ]
+  ],
+  [
+    [
       "2024-11-27, 07:27:41",
       "https://lobste.rs/s/xarssv/rust_qemu_roadmap"
     ],
@@ -207,26 +227,6 @@
     [
       "NeoHaskell",
       "https://neohaskell.org/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 19:01:02",
-      "https://lobste.rs/s/vtfm0u/macos_tips_for_programmers_threading"
-    ],
-    [
-      "macOS Tips for Programmers: Threading",
-      "https://blog.xoria.org/macos-tips-threading/"
-    ]
-  ],
-  [
-    [
-      "2024-11-25, 16:13:24",
-      "https://lobste.rs/s/g3zfwn/introducing_model_context_protocol"
-    ],
-    [
-      "Introducing the Model Context Protocol",
-      "https://www.anthropic.com/news/model-context-protocol"
     ]
   ],
   [
