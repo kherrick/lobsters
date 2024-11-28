@@ -2,6 +2,7 @@
 
 * [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
 * [2024-11-28, 07:41:09](https://lobste.rs/s/sognxb/dependent_types_art_http_headers) - [Dependent Types and the Art of HTTP Headers](https://www.unwoundstack.com/blog/dependent-types-and-http-headers.html)
+* [2024-11-28, 06:30:23](https://lobste.rs/s/i2unch/sentimental_versioning) - [Sentimental Versioning](https://web.archive.org/web/20220118185823/http://sentimentalversioning.org/)
 * [2024-11-28, 05:40:26](https://lobste.rs/s/3i7pjw/performance_archaeology_oltp) - [Performance archaeology: OLTP](https://vondra.me/posts/postgres-performance-archaeology-oltp/)
 * [2024-11-27, 23:41:19](https://lobste.rs/s/zn9t96/senior_developer_agents) - [senior developer agents](https://explaining.software/archive/senior-developer-agents/)
 * [2024-11-27, 23:17:40](https://lobste.rs/s/l5rccf/i_m_developer_not_compiler) - [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
@@ -23,7 +24,6 @@
 * [2024-11-27, 07:27:41](https://lobste.rs/s/xarssv/rust_qemu_roadmap) - [Rust in QEMU roadmap](https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/)
 * [2024-11-27, 06:35:59](https://lobste.rs/s/7traq5/janet_for_mortals) - [Janet for Mortals](https://ianthehenry.com/posts/janet-for-mortals/)
 * [2024-11-27, 06:08:18](https://lobste.rs/s/lvjc6k/haskell_great_procedural_language) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
-* [2024-11-26, 20:23:57](https://lobste.rs/s/tifcpy/float_self_tagging) - [Float Self-Tagging](https://arxiv.org/abs/2411.16544)
 * [2024-11-26, 20:15:10](https://lobste.rs/s/78df86/arch_linux_finally_starts_licensing) - [Arch Linux finally starts licensing PKGBUILDs](https://lwn.net/SubscriberLink/998778/aa5fd76c0574a311/)
 
 ## [Archives](archives/index.md)
