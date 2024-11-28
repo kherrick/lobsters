@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
 * [2024-11-28, 07:41:09](https://lobste.rs/s/sognxb/dependent_types_art_http_headers) - [Dependent Types and the Art of HTTP Headers](https://www.unwoundstack.com/blog/dependent-types-and-http-headers.html)
 * [2024-11-28, 05:40:26](https://lobste.rs/s/3i7pjw/performance_archaeology_oltp) - [Performance archaeology: OLTP](https://vondra.me/posts/postgres-performance-archaeology-oltp/)
 * [2024-11-27, 23:41:19](https://lobste.rs/s/zn9t96/senior_developer_agents) - [senior developer agents](https://explaining.software/archive/senior-developer-agents/)
@@ -8,7 +9,6 @@
 * [2024-11-27, 20:59:47](https://lobste.rs/s/5lvjcn/jaq_2_0_released_with_lots_improvements) - [Jaq 2.0 released with lots of improvements and jqjq support](https://github.com/01mf02/jaq/releases/tag/v2.0.0)
 * [2024-11-27, 20:45:57](https://lobste.rs/s/ctlg56/trunkver) - [TrunkVer](https://trunkver.org/)
 * [2024-11-27, 20:10:57](https://lobste.rs/s/vxlgfl/perk_weighting_issue) - [The Perk Weighting Issue](https://www.bungie.net/7/en/News/Article/dev_insights_perk_rng_issue)
-* [2024-11-27, 18:34:13](https://lobste.rs/s/brsmxd/pushing_boundaries_streamlit) - [Pushing the boundaries of Streamlit](https://twitchard.github.io/posts/2024-11-27-streamlit.html)
 * [2024-11-27, 18:16:10](https://lobste.rs/s/qamnum/redis_inc_seeks_control_over_future_rust) - [Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 * [2024-11-27, 17:12:11](https://lobste.rs/s/via7hd/if_constexpr_requires_requires_requires) - [if constexpr requires requires { requires }](https://www.think-cell.com/en/career/devblog/if-constexpr-requires-requires-requires)
 * [2024-11-27, 14:58:45](https://lobste.rs/s/i3orn9/beyond_bcrypt) - [Beyond Bcrypt](https://soatok.blog/2024/11/27/beyond-bcrypt/)
