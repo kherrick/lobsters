@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-28, 14:14:48",
+      "https://lobste.rs/s/92nuev/shrinking_postgres_table"
+    ],
+    [
+      "Shrinking a Postgres Table",
+      "https://www.johnnunemaker.com/shrinking-a-postgres-table/"
+    ]
+  ],
+  [
+    [
       "2024-11-28, 12:44:09",
       "https://lobste.rs/s/ndlgfy/code_centric_journey_into_gleam_language"
     ],
@@ -207,16 +217,6 @@
     [
       "I got an IP address",
       "https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 07:50:38",
-      "https://lobste.rs/s/wrruyo/modern_solutions_against_cross_site"
-    ],
-    [
-      "Modern solutions against cross-site attacks",
-      "https://frederikbraun.de/modern-solutions-xsleaks.html"
     ]
   ],
   [
