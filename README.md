@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-11-28, 17:01:25](https://lobste.rs/s/ehvx6g/how_run_your_own_bluesky_pds_server_from) - [How to run your own Bluesky PDS server from home](https://youtu.be/7-VJvf39xVE)
-* [2024-11-28, 16:10:07](https://lobste.rs/s/o9tthd/elm_future_open_source_with_evan) - [Elm & The Future of Open Source (with Evan Czaplicki) - Developer Voices](https://www.youtube.com/watch?v=0SUM4869ODc)
+* [2024-11-28, 16:10:07](https://lobste.rs/s/o9tthd/elm_future_open_source_with_evan) - [Elm & The Future of Open Source (with Evan Czaplicki)](https://www.youtube.com/watch?v=0SUM4869ODc)
 * [2024-11-28, 15:47:06](https://lobste.rs/s/dhnut5/announcing_rust_1_83_0) - [Announcing Rust 1.83.0](https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html)
 * [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
 * [2024-11-28, 14:14:48](https://lobste.rs/s/92nuev/shrinking_postgres_table) - [Shrinking a Postgres Table](https://www.johnnunemaker.com/shrinking-a-postgres-table/)
