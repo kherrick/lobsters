@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
 * [2024-11-28, 14:14:48](https://lobste.rs/s/92nuev/shrinking_postgres_table) - [Shrinking a Postgres Table](https://www.johnnunemaker.com/shrinking-a-postgres-table/)
 * [2024-11-28, 12:44:09](https://lobste.rs/s/ndlgfy/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://www.youtube.com/watch?v=yHe_wzFg4W8)
 * [2024-11-28, 10:41:38](https://lobste.rs/s/foffxa/these_languages_are_accumulating) - [These Languages are Accumulating](https://jcarroll.com.au/2024/11/28/these-languages-are-accumulating/)
