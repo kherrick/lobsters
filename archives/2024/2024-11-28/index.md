@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-28](index.md)
 
+* [2024-11-28, 22:35:44](https://lobste.rs/s/enx86r/github_user_defined_achievements) - [GitHub User-Defined Achievements](https://github.com/my-badges/my-badges)
 * [2024-11-28, 22:18:22](https://lobste.rs/s/xn8mrm/why_can_t_we_make_simple_software) - [Why Can't We Make Simple Software?](https://youtu.be/czzAVuVz7u4)
 * [2024-11-28, 20:05:50](https://lobste.rs/s/39xsnc/tk9_0_go_gui_library) - [tk9.0 - Go GUI library](https://pkg.go.dev/modernc.org/tk9.0#section-readme)
 * [2024-11-28, 19:27:11](https://lobste.rs/s/jfbmze/gleam_s_lustre_is_frontend_development_s) - [Gleam's Lustre is Frontend Development's Endgame](https://blog.nestful.app/p/gleams-lustre-is-frontend-developments)
