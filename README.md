@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-28, 15:47:06](https://lobste.rs/s/dhnut5/announcing_rust_1_83_0) - [Announcing Rust 1.83.0](https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html)
 * [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
 * [2024-11-28, 14:14:48](https://lobste.rs/s/92nuev/shrinking_postgres_table) - [Shrinking a Postgres Table](https://www.johnnunemaker.com/shrinking-a-postgres-table/)
 * [2024-11-28, 12:44:09](https://lobste.rs/s/ndlgfy/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://www.youtube.com/watch?v=yHe_wzFg4W8)
@@ -7,7 +8,6 @@
 * [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
 * [2024-11-28, 07:41:09](https://lobste.rs/s/sognxb/dependent_types_art_http_headers) - [Dependent Types and the Art of HTTP Headers](https://www.unwoundstack.com/blog/dependent-types-and-http-headers.html)
 * [2024-11-28, 05:40:26](https://lobste.rs/s/3i7pjw/performance_archaeology_oltp) - [Performance archaeology: OLTP](https://vondra.me/posts/postgres-performance-archaeology-oltp/)
-* [2024-11-27, 23:41:19](https://lobste.rs/s/zn9t96/senior_developer_agents) - [senior developer agents](https://explaining.software/archive/senior-developer-agents/)
 * [2024-11-27, 23:17:40](https://lobste.rs/s/l5rccf/i_m_developer_not_compiler) - [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
 * [2024-11-27, 21:31:51](https://lobste.rs/s/kiqvkv/python_type_hints_may_not_be_not_for_me) - [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
 * [2024-11-27, 20:59:47](https://lobste.rs/s/5lvjcn/jaq_2_0_released_with_lots_improvements) - [Jaq 2.0 released with lots of improvements and jqjq support](https://github.com/01mf02/jaq/releases/tag/v2.0.0)
