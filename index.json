@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-28, 15:47:06",
+      "https://lobste.rs/s/dhnut5/announcing_rust_1_83_0"
+    ],
+    [
+      "Announcing Rust 1.83.0",
+      "https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html"
+    ]
+  ],
+  [
+    [
       "2024-11-28, 14:35:59",
       "https://lobste.rs/s/tyoccq/you_have_built_erlang"
     ],
@@ -67,16 +77,6 @@
     [
       "Performance archaeology: OLTP",
       "https://vondra.me/posts/postgres-performance-archaeology-oltp/"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 23:41:19",
-      "https://lobste.rs/s/zn9t96/senior_developer_agents"
-    ],
-    [
-      "senior developer agents",
-      "https://explaining.software/archive/senior-developer-agents/"
     ]
   ],
   [
