@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-28, 16:10:07",
+      "https://lobste.rs/s/o9tthd/elm_future_open_source_with_evan"
+    ],
+    [
+      "Elm & The Future of Open Source (with Evan Czaplicki) - Developer Voices",
+      "https://www.youtube.com/watch?v=0SUM4869ODc"
+    ]
+  ],
+  [
+    [
       "2024-11-28, 15:47:06",
       "https://lobste.rs/s/dhnut5/announcing_rust_1_83_0"
     ],
@@ -217,16 +227,6 @@
     [
       "I got an IP address",
       "https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 07:27:41",
-      "https://lobste.rs/s/xarssv/rust_qemu_roadmap"
-    ],
-    [
-      "Rust in QEMU roadmap",
-      "https://lore.kernel.org/all/cc40943e-dec1-4890-a1d9-579350ce296f@pbonzini.local/"
     ]
   ],
   [
