@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-28, 07:41:09](https://lobste.rs/s/sognxb/dependent_types_art_http_headers) - [Dependent Types and the Art of HTTP Headers](https://www.unwoundstack.com/blog/dependent-types-and-http-headers.html)
 * [2024-11-28, 05:40:26](https://lobste.rs/s/3i7pjw/performance_archaeology_oltp) - [Performance archaeology: OLTP](https://vondra.me/posts/postgres-performance-archaeology-oltp/)
 * [2024-11-27, 23:41:19](https://lobste.rs/s/zn9t96/senior_developer_agents) - [senior developer agents](https://explaining.software/archive/senior-developer-agents/)
 * [2024-11-27, 23:17:40](https://lobste.rs/s/l5rccf/i_m_developer_not_compiler) - [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
@@ -15,7 +16,6 @@
 * [2024-11-27, 13:05:07](https://lobste.rs/s/kplqai/i_didn_t_need_kubernetes_you_probably_don_t) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 12:58:12](https://lobste.rs/s/dqyhrd/python_dependency_management_is) - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 * [2024-11-27, 12:31:36](https://lobste.rs/s/ws0mt8/structured_editing_incremental_parsing) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
-* [2024-11-27, 10:34:35](https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021) - [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
 * [2024-11-27, 10:12:36](https://lobste.rs/s/advyhg/cursed_linear_types_rust) - [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
 * [2024-11-27, 09:43:19](https://lobste.rs/s/uf4v4u/i_got_ip_address) - [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
 * [2024-11-27, 07:51:52](https://lobste.rs/s/n4d6bs/go_production_performance_gotcha) - [Go Production Performance Gotcha - GOMAXPROCS](https://metoro.io/blog/go-production-performance-gotcha-gomaxprocs)
