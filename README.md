@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-28, 12:44:09](https://lobste.rs/s/ndlgfy/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://www.youtube.com/watch?v=yHe_wzFg4W8)
 * [2024-11-28, 10:41:38](https://lobste.rs/s/foffxa/these_languages_are_accumulating) - [These Languages are Accumulating](https://jcarroll.com.au/2024/11/28/these-languages-are-accumulating/)
 * [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
 * [2024-11-28, 07:41:09](https://lobste.rs/s/sognxb/dependent_types_art_http_headers) - [Dependent Types and the Art of HTTP Headers](https://www.unwoundstack.com/blog/dependent-types-and-http-headers.html)
@@ -18,7 +19,6 @@
 * [2024-11-27, 13:05:07](https://lobste.rs/s/kplqai/i_didn_t_need_kubernetes_you_probably_don_t) - [I Didn't Need Kubernetes, and You Probably Don't Either](https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run)
 * [2024-11-27, 12:58:12](https://lobste.rs/s/dqyhrd/python_dependency_management_is) - [Python dependency management is a dumpster fire](https://nielscautaerts.xyz/python-dependency-management-is-a-dumpster-fire.html)
 * [2024-11-27, 12:31:36](https://lobste.rs/s/ws0mt8/structured_editing_incremental_parsing) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
-* [2024-11-27, 10:34:35](https://lobste.rs/s/nleazb/write_code_delivers_value_clients_2021) - [Write Code That Delivers Value to Clients (2021)](https://buttondown.com/hillelwayne/archive/write-code-that-delivers-value-to-clients/)
 * [2024-11-27, 10:12:36](https://lobste.rs/s/advyhg/cursed_linear_types_rust) - [Cursed linear types in Rust](https://geo-ant.github.io/blog/2024/rust-linear-types-use-once/)
 * [2024-11-27, 09:43:19](https://lobste.rs/s/uf4v4u/i_got_ip_address) - [I got an IP address](https://github.com/francisrstokes/githublog/blob/main/2024/11/26/getting-an-ip-address.md)
 * [2024-11-27, 07:50:38](https://lobste.rs/s/wrruyo/modern_solutions_against_cross_site) - [Modern solutions against cross-site attacks](https://frederikbraun.de/modern-solutions-xsleaks.html)
