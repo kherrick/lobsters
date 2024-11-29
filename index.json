@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-29, 20:05:48",
+      "https://lobste.rs/s/qcdzy6/jank_is_now_running_on_llvm_ir"
+    ],
+    [
+      "jank is now running on LLVM IR",
+      "https://jank-lang.org/blog/2024-11-29-llvm-ir/"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 19:12:51",
       "https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering"
     ],
@@ -237,16 +247,6 @@
     [
       "Introduction to retrogame programming with Pyxel",
       "https://blog.garambrogne.net/pyxel-initiation-en.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 23:17:40",
-      "https://lobste.rs/s/l5rccf/i_m_developer_not_compiler"
-    ],
-    [
-      "I'm a developer not a compiler",
-      "https://news.radio-t.com/post/i-m-a-developer-not-a-compiler"
     ]
   ]
 ]
