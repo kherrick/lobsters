@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-29, 10:45:04](https://lobste.rs/s/6p04fo/ux_lego_interface_panels) - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)
 * [2024-11-29, 10:07:18](https://lobste.rs/s/dpl07n/why_greatness_cannot_be_planned) - [Why Greatness Cannot Be Planned](https://link.springer.com/book/10.1007/978-3-319-15524-1)
 * [2024-11-29, 09:53:20](https://lobste.rs/s/1gojax/sql_foundation_db_query_language) - [sql: Foundation DB Query Language](https://github.com/janderland/fql)
 * [2024-11-29, 09:42:20](https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022) - [There is no upside to VM colocation (2022)](https://www.clockwork.io/there-is-no-upside-to-vm-colocation/)
@@ -17,7 +18,6 @@
 * [2024-11-28, 15:47:06](https://lobste.rs/s/dhnut5/announcing_rust_1_83_0) - [Announcing Rust 1.83.0](https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html)
 * [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
 * [2024-11-28, 14:14:48](https://lobste.rs/s/92nuev/shrinking_postgres_table) - [Shrinking a Postgres Table](https://www.johnnunemaker.com/shrinking-a-postgres-table/)
-* [2024-11-28, 12:44:09](https://lobste.rs/s/ndlgfy/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://www.youtube.com/watch?v=yHe_wzFg4W8)
 * [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
 * [2024-11-27, 23:17:40](https://lobste.rs/s/l5rccf/i_m_developer_not_compiler) - [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
 * [2024-11-27, 20:45:57](https://lobste.rs/s/ctlg56/trunkver) - [TrunkVer](https://trunkver.org/)
