@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-29, 05:42:04",
+      "https://lobste.rs/s/vemahl/evaluating_human_factors_beyond_lines"
+    ],
+    [
+      "Evaluating Human Factors Beyond Lines of Code",
+      "https://blog.sigplan.org/2024/11/21/evaluating-human-factors-beyond-lines-of-code/"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 01:11:29",
       "https://lobste.rs/s/3fv3fr/how_much_memory_do_you_need_2024_run_1"
     ],
@@ -217,16 +227,6 @@
     [
       "Beyond Bcrypt",
       "https://soatok.blog/2024/11/27/beyond-bcrypt/"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 13:05:07",
-      "https://lobste.rs/s/kplqai/i_didn_t_need_kubernetes_you_probably_don_t"
-    ],
-    [
-      "I Didn't Need Kubernetes, and You Probably Don't Either",
-      "https://benhouston3d.com/blog/why-i-left-kubernetes-for-google-cloud-run"
     ]
   ],
   [
