@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-29, 23:22:35",
+      "https://lobste.rs/s/znbeq4/bevy_0_15_released"
+    ],
+    [
+      "Bevy 0.15 Released",
+      "https://bevyengine.org/news/bevy-0-15"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 22:20:08",
       "https://lobste.rs/s/jttalq/measuring_improving_rustls_s"
     ],
@@ -167,16 +177,6 @@
     [
       "How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks",
       "https://hez2010.github.io/async-runtimes-benchmarks-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 01:05:55",
-      "https://lobste.rs/s/gmb1vg/quick_takes_on_latest_cloudflare_public"
-    ],
-    [
-      "Quick takes on the latest Cloudflare public incident write-up",
-      "https://surfingcomplexity.blog/2024/11/28/quick-takes-on-the-latest-cloudflare-public-incident-write-up/"
     ]
   ],
   [
