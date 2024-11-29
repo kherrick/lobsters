@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-29, 15:23:26](https://lobste.rs/s/cjfktv/cuid2_secure_collision_resistant_ids) - [cuid2: Secure, collision-resistant ids optimized for horizontal scaling and performance](https://github.com/paralleldrive/cuid2?tab=readme-ov-file#cuid2)
 * [2024-11-29, 13:55:49](https://lobste.rs/s/rs9o8i/i_stan_clearing_maps_no_cap) - [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
 * [2024-11-29, 13:29:40](https://lobste.rs/s/shckuc/storing_times_for_human_events) - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
@@ -24,7 +25,6 @@
 * [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
 * [2024-11-27, 23:17:40](https://lobste.rs/s/l5rccf/i_m_developer_not_compiler) - [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
 * [2024-11-27, 18:16:10](https://lobste.rs/s/qamnum/redis_inc_seeks_control_over_future_rust) - [Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
-* [2024-11-27, 12:31:36](https://lobste.rs/s/ws0mt8/structured_editing_incremental_parsing) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
 
 ## [Archives](archives/index.md)
 
