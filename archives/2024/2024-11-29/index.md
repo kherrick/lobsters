@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 13:55:49](https://lobste.rs/s/rs9o8i/i_stan_clearing_maps_no_cap) - [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
 * [2024-11-29, 13:29:40](https://lobste.rs/s/shckuc/storing_times_for_human_events) - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 11:40:36](https://lobste.rs/s/ebh970/meilisearch_indexes_embeddings_7x) - [Meilisearch Indexes Embeddings 7x Faster with Binary Quantization](https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization)

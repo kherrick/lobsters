@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-29, 13:55:49](https://lobste.rs/s/rs9o8i/i_stan_clearing_maps_no_cap) - [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
 * [2024-11-29, 13:29:40](https://lobste.rs/s/shckuc/storing_times_for_human_events) - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 11:40:36](https://lobste.rs/s/ebh970/meilisearch_indexes_embeddings_7x) - [Meilisearch Indexes Embeddings 7x Faster with Binary Quantization](https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization)
 * [2024-11-29, 10:45:04](https://lobste.rs/s/6p04fo/ux_lego_interface_panels) - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)
-* [2024-11-29, 10:07:18](https://lobste.rs/s/dpl07n/why_greatness_cannot_be_planned) - [Why Greatness Cannot Be Planned](https://link.springer.com/book/10.1007/978-3-319-15524-1)
 * [2024-11-29, 09:53:20](https://lobste.rs/s/1gojax/sql_foundation_db_query_language) - [sql: Foundation DB Query Language](https://github.com/janderland/fql)
 * [2024-11-29, 09:42:20](https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022) - [There is no upside to VM colocation (2022)](https://www.clockwork.io/there-is-no-upside-to-vm-colocation/)
 * [2024-11-29, 09:08:06](https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend)
