@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 19:12:51](https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 * [2024-11-29, 15:23:26](https://lobste.rs/s/cjfktv/cuid2_secure_collision_resistant_ids) - [cuid2: Secure, collision-resistant ids optimized for horizontal scaling and performance](https://github.com/paralleldrive/cuid2?tab=readme-ov-file#cuid2)
 * [2024-11-29, 13:55:49](https://lobste.rs/s/rs9o8i/i_stan_clearing_maps_no_cap) - [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
 * [2024-11-29, 13:29:40](https://lobste.rs/s/shckuc/storing_times_for_human_events) - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
