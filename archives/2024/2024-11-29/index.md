@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 23:22:35](https://lobste.rs/s/znbeq4/bevy_0_15_released) - [Bevy 0.15 Released](https://bevyengine.org/news/bevy-0-15)
 * [2024-11-29, 22:20:08](https://lobste.rs/s/jttalq/measuring_improving_rustls_s) - [Measuring and Improving rustls's Multithreaded Performance](https://rustls.dev/perf/2024-11-28-threading/)
 * [2024-11-29, 22:15:04](https://lobste.rs/s/gozui2/hall_sc_vga_2_video_processor_atari_st) - [The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP](https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 21:38:39](https://lobste.rs/s/qpt3wp/breaking_4chan_captcha) - [Breaking the 4chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
