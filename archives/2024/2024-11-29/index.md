@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 22:20:08](https://lobste.rs/s/jttalq/measuring_improving_rustls_s) - [Measuring and Improving rustls's Multithreaded Performance](https://rustls.dev/perf/2024-11-28-threading/)
 * [2024-11-29, 22:15:04](https://lobste.rs/s/gozui2/hall_sc_vga_2_video_processor_atari_st) - [The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP](https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 21:38:39](https://lobste.rs/s/qpt3wp/breaking_4chan_captcha) - [Breaking the 4chan CAPTCHA](https://www.nullpt.rs/breaking-the-4chan-captcha)
 * [2024-11-29, 21:32:16](https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for) - [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
