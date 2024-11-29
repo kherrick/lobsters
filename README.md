@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-29, 21:32:16](https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for) - [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 * [2024-11-29, 20:05:48](https://lobste.rs/s/qcdzy6/jank_is_now_running_on_llvm_ir) - [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 * [2024-11-29, 19:12:51](https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 * [2024-11-29, 15:23:26](https://lobste.rs/s/cjfktv/cuid2_secure_collision_resistant_ids) - [cuid2: Secure, collision-resistant ids optimized for horizontal scaling and performance](https://github.com/paralleldrive/cuid2?tab=readme-ov-file#cuid2)
@@ -15,7 +16,6 @@
 * [2024-11-29, 05:42:04](https://lobste.rs/s/vemahl/evaluating_human_factors_beyond_lines) - [Evaluating Human Factors Beyond Lines of Code](https://blog.sigplan.org/2024/11/21/evaluating-human-factors-beyond-lines-of-code/)
 * [2024-11-29, 01:11:29](https://lobste.rs/s/3fv3fr/how_much_memory_do_you_need_2024_run_1) - [How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 * [2024-11-29, 01:05:55](https://lobste.rs/s/gmb1vg/quick_takes_on_latest_cloudflare_public) - [Quick takes on the latest Cloudflare public incident write-up](https://surfingcomplexity.blog/2024/11/28/quick-takes-on-the-latest-cloudflare-public-incident-write-up/)
-* [2024-11-28, 22:35:44](https://lobste.rs/s/enx86r/github_user_defined_achievements) - [GitHub User-Defined Achievements](https://github.com/my-badges/my-badges)
 * [2024-11-28, 22:18:22](https://lobste.rs/s/xn8mrm/why_can_t_we_make_simple_software) - [Why Can't We Make Simple Software?](https://youtu.be/czzAVuVz7u4)
 * [2024-11-28, 20:05:50](https://lobste.rs/s/39xsnc/tk9_0_go_gui_library) - [tk9.0 - Go GUI library](https://pkg.go.dev/modernc.org/tk9.0#section-readme)
 * [2024-11-28, 19:27:11](https://lobste.rs/s/jfbmze/gleam_s_lustre_is_frontend_development_s) - [Gleam's Lustre is Frontend Development's Endgame](https://blog.nestful.app/p/gleams-lustre-is-frontend-developments)

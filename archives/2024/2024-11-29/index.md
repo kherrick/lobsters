@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 21:32:16](https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for) - [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 * [2024-11-29, 20:05:48](https://lobste.rs/s/qcdzy6/jank_is_now_running_on_llvm_ir) - [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 * [2024-11-29, 19:12:51](https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 * [2024-11-29, 15:23:26](https://lobste.rs/s/cjfktv/cuid2_secure_collision_resistant_ids) - [cuid2: Secure, collision-resistant ids optimized for horizontal scaling and performance](https://github.com/paralleldrive/cuid2?tab=readme-ov-file#cuid2)
