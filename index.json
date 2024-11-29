@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-29, 09:42:20",
+      "https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022"
+    ],
+    [
+      "There is no upside to VM colocation (2022)",
+      "https://www.clockwork.io/there-is-no-upside-to-vm-colocation/"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 09:08:06",
       "https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend"
     ],
@@ -207,16 +217,6 @@
     [
       "Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns",
       "https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/"
-    ]
-  ],
-  [
-    [
-      "2024-11-27, 17:12:11",
-      "https://lobste.rs/s/via7hd/if_constexpr_requires_requires_requires"
-    ],
-    [
-      "if constexpr requires requires { requires }",
-      "https://www.think-cell.com/en/career/devblog/if-constexpr-requires-requires-requires"
     ]
   ],
   [
