@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-29](index.md)
 
+* [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
+* [2024-11-29, 11:40:36](https://lobste.rs/s/ebh970/meilisearch_indexes_embeddings_7x) - [Meilisearch Indexes Embeddings 7x Faster with Binary Quantization](https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization)
 * [2024-11-29, 10:45:04](https://lobste.rs/s/6p04fo/ux_lego_interface_panels) - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)
 * [2024-11-29, 10:07:18](https://lobste.rs/s/dpl07n/why_greatness_cannot_be_planned) - [Why Greatness Cannot Be Planned](https://link.springer.com/book/10.1007/978-3-319-15524-1)
 * [2024-11-29, 09:53:20](https://lobste.rs/s/1gojax/sql_foundation_db_query_language) - [sql: Foundation DB Query Language](https://github.com/janderland/fql)

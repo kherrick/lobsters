@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
+* [2024-11-29, 11:40:36](https://lobste.rs/s/ebh970/meilisearch_indexes_embeddings_7x) - [Meilisearch Indexes Embeddings 7x Faster with Binary Quantization](https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization)
 * [2024-11-29, 10:45:04](https://lobste.rs/s/6p04fo/ux_lego_interface_panels) - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)
 * [2024-11-29, 10:07:18](https://lobste.rs/s/dpl07n/why_greatness_cannot_be_planned) - [Why Greatness Cannot Be Planned](https://link.springer.com/book/10.1007/978-3-319-15524-1)
 * [2024-11-29, 09:53:20](https://lobste.rs/s/1gojax/sql_foundation_db_query_language) - [sql: Foundation DB Query Language](https://github.com/janderland/fql)
@@ -20,11 +22,9 @@
 * [2024-11-28, 14:14:48](https://lobste.rs/s/92nuev/shrinking_postgres_table) - [Shrinking a Postgres Table](https://www.johnnunemaker.com/shrinking-a-postgres-table/)
 * [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
 * [2024-11-27, 23:17:40](https://lobste.rs/s/l5rccf/i_m_developer_not_compiler) - [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
-* [2024-11-27, 20:45:57](https://lobste.rs/s/ctlg56/trunkver) - [TrunkVer](https://trunkver.org/)
 * [2024-11-27, 18:16:10](https://lobste.rs/s/qamnum/redis_inc_seeks_control_over_future_rust) - [Redis Inc seeks control over future of Rust redis-rs client library, amid talk of trademark concerns](https://devclass.com/2024/11/27/redis-inc-seeks-control-over-future-of-rust-redis-rs-client-library-amid-talk-of-trademark-threat/)
 * [2024-11-27, 14:58:45](https://lobste.rs/s/i3orn9/beyond_bcrypt) - [Beyond Bcrypt](https://soatok.blog/2024/11/27/beyond-bcrypt/)
 * [2024-11-27, 12:31:36](https://lobste.rs/s/ws0mt8/structured_editing_incremental_parsing) - [Structured Editing and Incremental Parsing](https://tratt.net/laurie/blog/2024/structured_editing_and_incremental_parsing.html)
-* [2024-11-27, 06:08:18](https://lobste.rs/s/lvjc6k/haskell_great_procedural_language) - [Haskell: A Great Procedural Language](https://entropicthoughts.com/haskell-procedural-programming)
 
 ## [Archives](archives/index.md)
 
