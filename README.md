@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-29, 08:55:58](https://lobste.rs/s/bzlf22/why_clisp_is_under_gpl_1992_email) - [Why CLISP is under GPL (1992; email exchanges)](https://sourceforge.net/p/clisp/clisp/ci/default/tree/doc/Why-CLISP-is-under-GPL)
 * [2024-11-29, 05:42:04](https://lobste.rs/s/vemahl/evaluating_human_factors_beyond_lines) - [Evaluating Human Factors Beyond Lines of Code](https://blog.sigplan.org/2024/11/21/evaluating-human-factors-beyond-lines-of-code/)
 * [2024-11-29, 01:11:29](https://lobste.rs/s/3fv3fr/how_much_memory_do_you_need_2024_run_1) - [How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 * [2024-11-29, 01:05:55](https://lobste.rs/s/gmb1vg/quick_takes_on_latest_cloudflare_public) - [Quick takes on the latest Cloudflare public incident write-up](https://surfingcomplexity.blog/2024/11/28/quick-takes-on-the-latest-cloudflare-public-incident-write-up/)
@@ -15,7 +16,6 @@
 * [2024-11-28, 12:44:09](https://lobste.rs/s/ndlgfy/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://www.youtube.com/watch?v=yHe_wzFg4W8)
 * [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
 * [2024-11-28, 07:41:09](https://lobste.rs/s/sognxb/dependent_types_art_http_headers) - [Dependent Types and the Art of HTTP Headers](https://www.unwoundstack.com/blog/dependent-types-and-http-headers.html)
-* [2024-11-28, 05:40:26](https://lobste.rs/s/3i7pjw/performance_archaeology_oltp) - [Performance archaeology: OLTP](https://vondra.me/posts/postgres-performance-archaeology-oltp/)
 * [2024-11-27, 23:17:40](https://lobste.rs/s/l5rccf/i_m_developer_not_compiler) - [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
 * [2024-11-27, 21:31:51](https://lobste.rs/s/kiqvkv/python_type_hints_may_not_be_not_for_me) - [Python type hints may not be not for me in practice](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsMaybeNotForMe)
 * [2024-11-27, 20:59:47](https://lobste.rs/s/5lvjcn/jaq_2_0_released_with_lots_improvements) - [Jaq 2.0 released with lots of improvements and jqjq support](https://github.com/01mf02/jaq/releases/tag/v2.0.0)
