@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-29, 20:05:48](https://lobste.rs/s/qcdzy6/jank_is_now_running_on_llvm_ir) - [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 * [2024-11-29, 19:12:51](https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 * [2024-11-29, 15:23:26](https://lobste.rs/s/cjfktv/cuid2_secure_collision_resistant_ids) - [cuid2: Secure, collision-resistant ids optimized for horizontal scaling and performance](https://github.com/paralleldrive/cuid2?tab=readme-ov-file#cuid2)
 * [2024-11-29, 13:55:49](https://lobste.rs/s/rs9o8i/i_stan_clearing_maps_no_cap) - [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
@@ -24,7 +25,6 @@
 * [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
 * [2024-11-28, 14:14:48](https://lobste.rs/s/92nuev/shrinking_postgres_table) - [Shrinking a Postgres Table](https://www.johnnunemaker.com/shrinking-a-postgres-table/)
 * [2024-11-28, 08:20:10](https://lobste.rs/s/mm1bss/introduction_retrogame_programming) - [Introduction to retrogame programming with Pyxel](https://blog.garambrogne.net/pyxel-initiation-en.html)
-* [2024-11-27, 23:17:40](https://lobste.rs/s/l5rccf/i_m_developer_not_compiler) - [I'm a developer not a compiler](https://news.radio-t.com/post/i-m-a-developer-not-a-compiler)
 
 ## [Archives](archives/index.md)
 
