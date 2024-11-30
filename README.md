@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 15:56:59](https://lobste.rs/s/jt7mbh/sheetsui_tui_spreadsheet_application) - [SheetsUI, a TUI spreadsheet application based on the IronCalc engine](https://github.com/zaphar/sheetsui)
 * [2024-11-30, 15:10:49](https://lobste.rs/s/k45qk7/announcing_rust_query) - [Announcing rust-query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 14:58:32](https://lobste.rs/s/0dffoj/python_type_hints_are_probably_worth_it) - [Python type hints are probably \"worth it\" for me](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe)
 * [2024-11-30, 12:39:03](https://lobste.rs/s/yssrjh/learnings_after_4_years_working_with_50) - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
@@ -24,7 +25,6 @@
 * [2024-11-29, 13:29:40](https://lobste.rs/s/shckuc/storing_times_for_human_events) - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 10:45:04](https://lobste.rs/s/6p04fo/ux_lego_interface_panels) - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)
-* [2024-11-29, 09:42:20](https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022) - [There is no upside to VM colocation (2022)](https://www.clockwork.io/there-is-no-upside-to-vm-colocation/)
 
 ## [Archives](archives/index.md)
 
