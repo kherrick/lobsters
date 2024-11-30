@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 15:10:49](https://lobste.rs/s/k45qk7/announcing_rust_query) - [Announcing rust-query](https://blog.lucasholten.com/rust-query-announcement/)
+* [2024-11-30, 14:58:32](https://lobste.rs/s/0dffoj/python_type_hints_are_probably_worth_it) - [Python type hints are probably \"worth it\" for me](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe)
 * [2024-11-30, 12:39:03](https://lobste.rs/s/yssrjh/learnings_after_4_years_working_with_50) - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
 * [2024-11-30, 11:45:54](https://lobste.rs/s/qrhirz/flu_conf_2025) - [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
 * [2024-11-30, 09:40:05](https://lobste.rs/s/1eawg0/minimize_javascript_your_codebase) - [Minimize Javascript in your codebase](https://ashishb.net/tech-thoughts/javascript/)
