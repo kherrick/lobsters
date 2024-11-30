@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 03:42:13](https://lobste.rs/s/elmbdj/exploring_parsing_apis_cost_recursion) - [Exploring parsing APIs: the cost of recursion](https://osa1.net/posts/2024-11-29-how-to-parse-3.html)
 * [2024-11-30, 01:44:17](https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling) - [New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management](https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators)
 * [2024-11-29, 23:59:26](https://lobste.rs/s/yzulf2/llama_cpp_guide_running_llms_locally_on) - [llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://steelph0enix.github.io/posts/llama-cpp-guide/)
 * [2024-11-29, 23:22:35](https://lobste.rs/s/znbeq4/bevy_0_15_released) - [Bevy 0.15 Released](https://bevyengine.org/news/bevy-0-15)
@@ -22,7 +23,6 @@
 * [2024-11-28, 22:18:22](https://lobste.rs/s/xn8mrm/why_can_t_we_make_simple_software) - [Why Can't We Make Simple Software?](https://youtu.be/czzAVuVz7u4)
 * [2024-11-28, 20:05:50](https://lobste.rs/s/39xsnc/tk9_0_go_gui_library) - [tk9.0 - Go GUI library](https://pkg.go.dev/modernc.org/tk9.0#section-readme)
 * [2024-11-28, 16:10:07](https://lobste.rs/s/o9tthd/elm_future_open_source_with_evan) - [Elm & The Future of Open Source (with Evan Czaplicki)](https://www.youtube.com/watch?v=0SUM4869ODc)
-* [2024-11-28, 15:47:06](https://lobste.rs/s/dhnut5/announcing_rust_1_83_0) - [Announcing Rust 1.83.0](https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html)
 * [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
 * [2024-11-28, 14:14:48](https://lobste.rs/s/92nuev/shrinking_postgres_table) - [Shrinking a Postgres Table](https://www.johnnunemaker.com/shrinking-a-postgres-table/)
 
