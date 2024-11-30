@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 03:50:12](https://lobste.rs/s/9izhbz/shadow_workspace_iterating_on_code) - [Shadow Workspace: Iterating on Code in the Background](https://www.cursor.com/blog/shadow-workspace)
 * [2024-11-30, 03:42:13](https://lobste.rs/s/elmbdj/exploring_parsing_apis_cost_recursion) - [Exploring parsing APIs: the cost of recursion](https://osa1.net/posts/2024-11-29-how-to-parse-3.html)
 * [2024-11-30, 01:44:17](https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling) - [New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management](https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators)
 * [2024-11-29, 23:59:26](https://lobste.rs/s/yzulf2/llama_cpp_guide_running_llms_locally_on) - [llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://steelph0enix.github.io/posts/llama-cpp-guide/)
@@ -15,7 +16,6 @@
 * [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 11:40:36](https://lobste.rs/s/ebh970/meilisearch_indexes_embeddings_7x) - [Meilisearch Indexes Embeddings 7x Faster with Binary Quantization](https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization)
 * [2024-11-29, 10:45:04](https://lobste.rs/s/6p04fo/ux_lego_interface_panels) - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)
-* [2024-11-29, 09:53:20](https://lobste.rs/s/1gojax/fql_foundation_db_query_language) - [fql: Foundation DB Query Language](https://github.com/janderland/fql)
 * [2024-11-29, 09:42:20](https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022) - [There is no upside to VM colocation (2022)](https://www.clockwork.io/there-is-no-upside-to-vm-colocation/)
 * [2024-11-29, 09:08:06](https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend)
 * [2024-11-29, 08:55:58](https://lobste.rs/s/bzlf22/why_clisp_is_under_gpl_1992_email) - [Why CLISP is under GPL (1992; email exchanges)](https://sourceforge.net/p/clisp/clisp/ci/default/tree/doc/Why-CLISP-is-under-GPL)
