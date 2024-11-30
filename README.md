@@ -4,7 +4,6 @@
 * [2024-11-30, 14:58:32](https://lobste.rs/s/0dffoj/python_type_hints_are_probably_worth_it) - [Python type hints are probably \"worth it\" for me](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe)
 * [2024-11-30, 12:39:03](https://lobste.rs/s/yssrjh/learnings_after_4_years_working_with_50) - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
 * [2024-11-30, 11:45:54](https://lobste.rs/s/qrhirz/flu_conf_2025) - [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
-* [2024-11-30, 09:40:05](https://lobste.rs/s/1eawg0/minimize_javascript_your_codebase) - [Minimize Javascript in your codebase](https://ashishb.net/tech-thoughts/javascript/)
 * [2024-11-30, 07:26:50](https://lobste.rs/s/pywgzo/property_based_testing_patterns_2016) - [Property-based Testing Patterns (2016)](https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html)
 * [2024-11-30, 06:10:02](https://lobste.rs/s/wf1pan/making_screenshots_test_equipment_old) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 05:41:58](https://lobste.rs/s/kr6sxr/complexities_enabling_opencl_support) - [The complexities of enabling OpenCL support](https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/)
@@ -25,6 +24,7 @@
 * [2024-11-29, 13:29:40](https://lobste.rs/s/shckuc/storing_times_for_human_events) - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 * [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 10:45:04](https://lobste.rs/s/6p04fo/ux_lego_interface_panels) - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)
+* [2024-11-29, 09:42:20](https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022) - [There is no upside to VM colocation (2022)](https://www.clockwork.io/there-is-no-upside-to-vm-colocation/)
 
 ## [Archives](archives/index.md)
 
