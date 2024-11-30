@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-30, 03:50:12",
+      "https://lobste.rs/s/9izhbz/shadow_workspace_iterating_on_code"
+    ],
+    [
+      "Shadow Workspace: Iterating on Code in the Background",
+      "https://www.cursor.com/blog/shadow-workspace"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 03:42:13",
       "https://lobste.rs/s/elmbdj/exploring_parsing_apis_cost_recursion"
     ],
@@ -147,16 +157,6 @@
     [
       "The UX of LEGO Interface Panels",
       "https://interactionmagic.com/UX-LEGO-Interfaces/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 09:53:20",
-      "https://lobste.rs/s/1gojax/fql_foundation_db_query_language"
-    ],
-    [
-      "fql: Foundation DB Query Language",
-      "https://github.com/janderland/fql"
     ]
   ],
   [
