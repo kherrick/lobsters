@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 21:04:56](https://lobste.rs/s/s8iyop/semantics_programming_video_lectures_go) - [Semantics of Programming (video lectures that go with the \"Concrete Semantics\" book)](https://live.rbg.tum.de/?year=2022&term=W&view=3&slug=Sem)
 * [2024-11-30, 20:46:50](https://lobste.rs/s/vaef6m/inline_assembly_dangers) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 * [2024-11-30, 20:33:29](https://lobste.rs/s/jjsvvr/safety_unsafe_world) - [Safety in an unsafe world](https://lwn.net/Articles/995814/)
 * [2024-11-30, 19:17:01](https://lobste.rs/s/3gyugp/advent_code_2024_starting_soon) - [Advent of Code 2024 starting soon](https://adventofcode.com/2024)
@@ -16,7 +17,6 @@
 * [2024-11-30, 04:07:57](https://lobste.rs/s/zgnci7/demystifying_git_submodules) - [Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
 * [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
 * [2024-11-30, 01:44:17](https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling) - [New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management](https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators)
-* [2024-11-29, 23:59:26](https://lobste.rs/s/yzulf2/llama_cpp_guide_running_llms_locally_on) - [llama.cpp guide - Running LLMs locally, on any hardware, from scratch](https://steelph0enix.github.io/posts/llama-cpp-guide/)
 * [2024-11-29, 23:22:35](https://lobste.rs/s/znbeq4/bevy_0_15_released) - [Bevy 0.15 Released](https://bevyengine.org/news/bevy-0-15)
 * [2024-11-29, 22:15:04](https://lobste.rs/s/gozui2/hall_sc_vga_2_video_processor_atari_st) - [The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP](https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 21:32:16](https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for) - [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
