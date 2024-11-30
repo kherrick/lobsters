@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 04:43:49](https://lobste.rs/s/h2lezy/if_not_react_then_what) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
 * [2024-11-30, 04:07:57](https://lobste.rs/s/zgnci7/demystifying_git_submodules) - [Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
 * [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
 * [2024-11-30, 03:50:12](https://lobste.rs/s/9izhbz/shadow_workspace_iterating_on_code) - [Shadow Workspace: Iterating on Code in the Background](https://www.cursor.com/blog/shadow-workspace)

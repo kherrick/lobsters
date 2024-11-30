@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 04:43:49](https://lobste.rs/s/h2lezy/if_not_react_then_what) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
 * [2024-11-30, 04:07:57](https://lobste.rs/s/zgnci7/demystifying_git_submodules) - [Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
 * [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
 * [2024-11-30, 03:50:12](https://lobste.rs/s/9izhbz/shadow_workspace_iterating_on_code) - [Shadow Workspace: Iterating on Code in the Background](https://www.cursor.com/blog/shadow-workspace)
@@ -21,7 +22,6 @@
 * [2024-11-29, 09:42:20](https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022) - [There is no upside to VM colocation (2022)](https://www.clockwork.io/there-is-no-upside-to-vm-colocation/)
 * [2024-11-29, 09:08:06](https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend)
 * [2024-11-29, 08:55:58](https://lobste.rs/s/bzlf22/why_clisp_is_under_gpl_1992_email) - [Why CLISP is under GPL (1992; email exchanges)](https://sourceforge.net/p/clisp/clisp/ci/default/tree/doc/Why-CLISP-is-under-GPL)
-* [2024-11-29, 01:11:29](https://lobste.rs/s/3fv3fr/how_much_memory_do_you_need_2024_run_1) - [How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 * [2024-11-28, 22:18:22](https://lobste.rs/s/xn8mrm/why_can_t_we_make_simple_software) - [Why Can't We Make Simple Software?](https://youtu.be/czzAVuVz7u4)
 * [2024-11-28, 20:05:50](https://lobste.rs/s/39xsnc/tk9_0_go_gui_library) - [tk9.0 - Go GUI library](https://pkg.go.dev/modernc.org/tk9.0#section-readme)
 * [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
