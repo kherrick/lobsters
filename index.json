@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-30, 03:42:13",
+      "https://lobste.rs/s/elmbdj/exploring_parsing_apis_cost_recursion"
+    ],
+    [
+      "Exploring parsing APIs: the cost of recursion",
+      "https://osa1.net/posts/2024-11-29-how-to-parse-3.html"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 01:44:17",
       "https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling"
     ],
@@ -217,16 +227,6 @@
     [
       "Elm & The Future of Open Source (with Evan Czaplicki)",
       "https://www.youtube.com/watch?v=0SUM4869ODc"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 15:47:06",
-      "https://lobste.rs/s/dhnut5/announcing_rust_1_83_0"
-    ],
-    [
-      "Announcing Rust 1.83.0",
-      "https://blog.rust-lang.org/2024/11/28/Rust-1.83.0.html"
     ]
   ],
   [
