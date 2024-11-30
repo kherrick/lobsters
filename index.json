@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-30, 20:33:29",
+      "https://lobste.rs/s/jjsvvr/safety_unsafe_world"
+    ],
+    [
+      "Safety in an unsafe world",
+      "https://lwn.net/Articles/995814/"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 19:17:01",
       "https://lobste.rs/s/3gyugp/advent_code_2024_starting_soon"
     ],
@@ -227,16 +237,6 @@
     [
       "Storing times for human events",
       "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 11:40:49",
-      "https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs"
-    ],
-    [
-      "Using Pandoc and Typst to Produce PDFs",
-      "https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/"
     ]
   ],
   [
