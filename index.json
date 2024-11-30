@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-29, 23:59:26",
+      "https://lobste.rs/s/yzulf2/llama_cpp_guide_running_llms_locally_on"
+    ],
+    [
+      "llama.cpp guide - Running LLMs locally, on any hardware, from scratch",
+      "https://steelph0enix.github.io/posts/llama-cpp-guide/"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 23:22:35",
       "https://lobste.rs/s/znbeq4/bevy_0_15_released"
     ],
@@ -197,16 +207,6 @@
     [
       "tk9.0 - Go GUI library",
       "https://pkg.go.dev/modernc.org/tk9.0#section-readme"
-    ]
-  ],
-  [
-    [
-      "2024-11-28, 19:27:11",
-      "https://lobste.rs/s/jfbmze/gleam_s_lustre_is_frontend_development_s"
-    ],
-    [
-      "Gleam's Lustre is Frontend Development's Endgame",
-      "https://blog.nestful.app/p/gleams-lustre-is-frontend-developments"
     ]
   ],
   [
