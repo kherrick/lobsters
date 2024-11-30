@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-30, 05:41:58",
+      "https://lobste.rs/s/kr6sxr/complexities_enabling_opencl_support"
+    ],
+    [
+      "The complexities of enabling OpenCL support",
+      "https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 04:43:49",
       "https://lobste.rs/s/h2lezy/if_not_react_then_what"
     ],
@@ -167,16 +177,6 @@
     [
       "Using Pandoc and Typst to Produce PDFs",
       "https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 11:40:36",
-      "https://lobste.rs/s/ebh970/meilisearch_indexes_embeddings_7x"
-    ],
-    [
-      "Meilisearch Indexes Embeddings 7x Faster with Binary Quantization",
-      "https://blog.kerollmops.com/meilisearch-indexes-embeddings-7x-faster-with-binary-quantization"
     ]
   ],
   [
