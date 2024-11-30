@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-30, 15:56:59",
+      "https://lobste.rs/s/jt7mbh/sheetsui_tui_spreadsheet_application"
+    ],
+    [
+      "SheetsUI, a TUI spreadsheet application based on the IronCalc engine",
+      "https://github.com/zaphar/sheetsui"
+    ]
+  ],
+  [
+    [
       "2024-11-30, 15:10:49",
       "https://lobste.rs/s/k45qk7/announcing_rust_query"
     ],
@@ -237,16 +247,6 @@
     [
       "The UX of LEGO Interface Panels",
       "https://interactionmagic.com/UX-LEGO-Interfaces/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 09:42:20",
-      "https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022"
-    ],
-    [
-      "There is no upside to VM colocation (2022)",
-      "https://www.clockwork.io/there-is-no-upside-to-vm-colocation/"
     ]
   ]
 ]
