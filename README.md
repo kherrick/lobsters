@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 04:07:57](https://lobste.rs/s/zgnci7/demystifying_git_submodules) - [Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
+* [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
 * [2024-11-30, 03:50:12](https://lobste.rs/s/9izhbz/shadow_workspace_iterating_on_code) - [Shadow Workspace: Iterating on Code in the Background](https://www.cursor.com/blog/shadow-workspace)
 * [2024-11-30, 03:42:13](https://lobste.rs/s/elmbdj/exploring_parsing_apis_cost_recursion) - [Exploring parsing APIs: the cost of recursion](https://osa1.net/posts/2024-11-29-how-to-parse-3.html)
 * [2024-11-30, 01:44:17](https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling) - [New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management](https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators)
@@ -22,9 +24,7 @@
 * [2024-11-29, 01:11:29](https://lobste.rs/s/3fv3fr/how_much_memory_do_you_need_2024_run_1) - [How Much Memory Do You Need in 2024 to Run 1 Million Concurrent Tasks](https://hez2010.github.io/async-runtimes-benchmarks-2024/)
 * [2024-11-28, 22:18:22](https://lobste.rs/s/xn8mrm/why_can_t_we_make_simple_software) - [Why Can't We Make Simple Software?](https://youtu.be/czzAVuVz7u4)
 * [2024-11-28, 20:05:50](https://lobste.rs/s/39xsnc/tk9_0_go_gui_library) - [tk9.0 - Go GUI library](https://pkg.go.dev/modernc.org/tk9.0#section-readme)
-* [2024-11-28, 16:10:07](https://lobste.rs/s/o9tthd/elm_future_open_source_with_evan) - [Elm & The Future of Open Source (with Evan Czaplicki)](https://www.youtube.com/watch?v=0SUM4869ODc)
 * [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
-* [2024-11-28, 14:14:48](https://lobste.rs/s/92nuev/shrinking_postgres_table) - [Shrinking a Postgres Table](https://www.johnnunemaker.com/shrinking-a-postgres-table/)
 
 ## [Archives](archives/index.md)
 
