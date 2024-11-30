@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 22:00:09](https://lobste.rs/s/wktazu/compilation_on_gpu_feasibility_study) - [Compilation on the GPU? A feasibility study](https://dl.acm.org/doi/abs/10.1145/3528416.3530249)
 * [2024-11-30, 21:04:56](https://lobste.rs/s/s8iyop/semantics_programming_video_lectures_go) - [Semantics of Programming (video lectures that go with the \"Concrete Semantics\" book)](https://live.rbg.tum.de/?year=2022&term=W&view=3&slug=Sem)
 * [2024-11-30, 20:46:50](https://lobste.rs/s/vaef6m/inline_assembly_dangers) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 * [2024-11-30, 20:33:29](https://lobste.rs/s/jjsvvr/safety_unsafe_world) - [Safety in an unsafe world](https://lwn.net/Articles/995814/)
@@ -14,7 +15,6 @@
 * [2024-11-30, 06:10:02](https://lobste.rs/s/wf1pan/making_screenshots_test_equipment_old) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 05:41:58](https://lobste.rs/s/kr6sxr/complexities_enabling_opencl_support) - [The complexities of enabling OpenCL support](https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/)
 * [2024-11-30, 04:43:49](https://lobste.rs/s/h2lezy/if_not_react_then_what) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
-* [2024-11-30, 04:07:57](https://lobste.rs/s/zgnci7/demystifying_git_submodules) - [Demystifying git submodules](https://www.cyberdemon.org/2024/03/20/submodules.html)
 * [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
 * [2024-11-30, 01:44:17](https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling) - [New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management](https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators)
 * [2024-11-29, 23:22:35](https://lobste.rs/s/znbeq4/bevy_0_15_released) - [Bevy 0.15 Released](https://bevyengine.org/news/bevy-0-15)

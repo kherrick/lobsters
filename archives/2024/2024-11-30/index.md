@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-11-30](index.md)
 
+* [2024-11-30, 22:00:09](https://lobste.rs/s/wktazu/compilation_on_gpu_feasibility_study) - [Compilation on the GPU? A feasibility study](https://dl.acm.org/doi/abs/10.1145/3528416.3530249)
 * [2024-11-30, 21:04:56](https://lobste.rs/s/s8iyop/semantics_programming_video_lectures_go) - [Semantics of Programming (video lectures that go with the \"Concrete Semantics\" book)](https://live.rbg.tum.de/?year=2022&term=W&view=3&slug=Sem)
 * [2024-11-30, 20:46:50](https://lobste.rs/s/vaef6m/inline_assembly_dangers) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 * [2024-11-30, 20:33:29](https://lobste.rs/s/jjsvvr/safety_unsafe_world) - [Safety in an unsafe world](https://lwn.net/Articles/995814/)
