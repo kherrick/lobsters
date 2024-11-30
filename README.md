@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 20:33:29](https://lobste.rs/s/jjsvvr/safety_unsafe_world) - [Safety in an unsafe world](https://lwn.net/Articles/995814/)
 * [2024-11-30, 19:17:01](https://lobste.rs/s/3gyugp/advent_code_2024_starting_soon) - [Advent of Code 2024 starting soon](https://adventofcode.com/2024)
 * [2024-11-30, 17:18:05](https://lobste.rs/s/tsz4c9/harmful_consequences_robustness) - [The Harmful Consequences of the Robustness Principle](https://datatracker.ietf.org/doc/html/draft-thomson-postel-was-wrong-03)
 * [2024-11-30, 15:56:59](https://lobste.rs/s/jt7mbh/sheetsui_tui_spreadsheet_application) - [SheetsUI, a TUI spreadsheet application based on the IronCalc engine](https://github.com/zaphar/sheetsui)
@@ -23,7 +24,6 @@
 * [2024-11-29, 19:12:51](https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 * [2024-11-29, 13:55:49](https://lobste.rs/s/rs9o8i/i_stan_clearing_maps_no_cap) - [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
 * [2024-11-29, 13:29:40](https://lobste.rs/s/shckuc/storing_times_for_human_events) - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
-* [2024-11-29, 11:40:49](https://lobste.rs/s/otgjvk/using_pandoc_typst_produce_pdfs) - [Using Pandoc and Typst to Produce PDFs](https://imaginarytext.ca/posts/2024/pandoc-typst-tutorial/)
 * [2024-11-29, 10:45:04](https://lobste.rs/s/6p04fo/ux_lego_interface_panels) - [The UX of LEGO Interface Panels](https://interactionmagic.com/UX-LEGO-Interfaces/)
 
 ## [Archives](archives/index.md)
