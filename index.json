@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-11-30, 01:44:17",
+      "https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling"
+    ],
+    [
+      "New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management",
+      "https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators"
+    ]
+  ],
+  [
+    [
       "2024-11-29, 23:59:26",
       "https://lobste.rs/s/yzulf2/llama_cpp_guide_running_llms_locally_on"
     ],
@@ -77,16 +87,6 @@
     [
       "Why pipes sometimes get \"stuck\": buffering",
       "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 15:23:26",
-      "https://lobste.rs/s/cjfktv/cuid2_secure_collision_resistant_ids"
-    ],
-    [
-      "cuid2: Secure, collision-resistant ids optimized for horizontal scaling and performance",
-      "https://github.com/paralleldrive/cuid2?tab=readme-ov-file#cuid2"
     ]
   ],
   [
