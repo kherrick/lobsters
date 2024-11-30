@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-11-30, 09:40:05](https://lobste.rs/s/1eawg0/minimize_javascript_your_codebase) - [Minimize Javascript in your codebase](https://ashishb.net/tech-thoughts/javascript/)
 * [2024-11-30, 07:26:50](https://lobste.rs/s/pywgzo/property_based_testing_patterns_2016) - [Property-based Testing Patterns (2016)](https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html)
 * [2024-11-30, 06:10:02](https://lobste.rs/s/wf1pan/making_screenshots_test_equipment_old) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 05:41:58](https://lobste.rs/s/kr6sxr/complexities_enabling_opencl_support) - [The complexities of enabling OpenCL support](https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/)
@@ -23,7 +24,6 @@
 * [2024-11-29, 09:42:20](https://lobste.rs/s/cionnc/there_is_no_upside_vm_colocation_2022) - [There is no upside to VM colocation (2022)](https://www.clockwork.io/there-is-no-upside-to-vm-colocation/)
 * [2024-11-29, 09:08:06](https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/pv4ejw/what_are_you_doing_this_weekend)
 * [2024-11-29, 08:55:58](https://lobste.rs/s/bzlf22/why_clisp_is_under_gpl_1992_email) - [Why CLISP is under GPL (1992; email exchanges)](https://sourceforge.net/p/clisp/clisp/ci/default/tree/doc/Why-CLISP-is-under-GPL)
-* [2024-11-28, 22:18:22](https://lobste.rs/s/xn8mrm/why_can_t_we_make_simple_software) - [Why Can't We Make Simple Software?](https://youtu.be/czzAVuVz7u4)
 * [2024-11-28, 14:35:59](https://lobste.rs/s/tyoccq/you_have_built_erlang) - [You Have Built an Erlang](https://vereis.com/posts/you_built_an_erlang)
 
 ## [Archives](archives/index.md)
