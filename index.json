@@ -211,16 +211,6 @@
   ],
   [
     [
-      "2024-11-29, 22:15:04",
-      "https://lobste.rs/s/gozui2/hall_sc_vga_2_video_processor_atari_st"
-    ],
-    [
-      "The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP",
-      "https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html"
-    ]
-  ],
-  [
-    [
       "2024-11-29, 21:32:16",
       "https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for"
     ],
@@ -247,6 +237,16 @@
     [
       "Why pipes sometimes get \"stuck\": buffering",
       "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"
+    ]
+  ],
+  [
+    [
+      "2024-11-29, 13:29:40",
+      "https://lobste.rs/s/shckuc/storing_times_for_human_events"
+    ],
+    [
+      "Storing times for human events",
+      "https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/"
     ]
   ]
 ]
