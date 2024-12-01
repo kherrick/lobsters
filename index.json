@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-01, 23:25:23",
+      "https://lobste.rs/s/wdrwc2/linear_types_exceptions"
+    ],
+    [
+      "Linear Types and Exceptions",
+      "https://borretti.me/article/linear-types-exceptions"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 22:18:02",
       "https://lobste.rs/s/cgrpmd/category_theory_programming"
     ],
@@ -227,16 +237,6 @@
     [
       "Announcing rust-query",
       "https://blog.lucasholten.com/rust-query-announcement/"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 11:45:54",
-      "https://lobste.rs/s/qrhirz/flu_conf_2025"
-    ],
-    [
-      "Flu Conf 2025",
-      "https://cryptography.dog/blog/flu-conf-2025/"
     ]
   ],
   [
