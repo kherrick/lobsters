@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-01, 22:18:02",
+      "https://lobste.rs/s/cgrpmd/category_theory_programming"
+    ],
+    [
+      "Category Theory in Programming",
+      "https://docs.racket-lang.org/ctp/index.html"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 21:21:01",
       "https://lobste.rs/s/ttgj4u/exploring_assembly_code_generated_by"
     ],
@@ -187,16 +197,6 @@
     [
       "Inline Assembly Dangers",
       "https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 20:33:29",
-      "https://lobste.rs/s/jjsvvr/safety_unsafe_world"
-    ],
-    [
-      "Safety in an unsafe world",
-      "https://lwn.net/Articles/995814/"
     ]
   ],
   [
