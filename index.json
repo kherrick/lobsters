@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-01, 03:08:17",
+      "https://lobste.rs/s/d2er0v/typst_as_language"
+    ],
+    [
+      "Typst as a Language",
+      "https://justinpombrio.net/2024/11/30/typst.html"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 01:41:31",
       "https://lobste.rs/s/ayeo9o/why_do_we_call_it_boilerplate_code_2022"
     ],
@@ -167,16 +177,6 @@
     [
       "Operator transposition",
       "https://moonbase.lgbt/blog/operator-transposition/"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 01:44:17",
-      "https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling"
-    ],
-    [
-      "New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management",
-      "https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators"
     ]
   ],
   [
