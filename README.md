@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-01, 11:40:44](https://lobste.rs/s/qeqjjb/disillusioning_magic_fork_system_call) - [Disillusioning the Magic of the fork System Call](https://blog.codingconfessions.com/p/the-magic-of-fork)
+* [2024-12-01, 11:38:37](https://lobste.rs/s/rbll9k/how_do_you_manage_personal_email_registar) - [How do you manage Personal Email, Registar and Host Accounts to Prevent Lock Out?](https://lobste.rs/s/rbll9k/how_do_you_manage_personal_email_registar)
 * [2024-12-01, 07:41:32](https://lobste.rs/s/0ve0gt/brazilian_ca_issues_google_com) - [Brazilian CA issues google.com certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)
 * [2024-12-01, 03:08:17](https://lobste.rs/s/d2er0v/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2024-12-01, 01:41:31](https://lobste.rs/s/ayeo9o/why_do_we_call_it_boilerplate_code_2022) - [Why do we call it \"boilerplate code?\" (2022)](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
@@ -11,7 +13,6 @@
 * [2024-11-30, 17:18:05](https://lobste.rs/s/tsz4c9/harmful_consequences_robustness) - [The Harmful Consequences of the Robustness Principle](https://datatracker.ietf.org/doc/html/draft-thomson-postel-was-wrong-03)
 * [2024-11-30, 15:56:59](https://lobste.rs/s/jt7mbh/sheetsui_tui_spreadsheet_application) - [SheetsUI, a TUI spreadsheet application based on the IronCalc engine](https://github.com/zaphar/sheetsui)
 * [2024-11-30, 15:10:49](https://lobste.rs/s/k45qk7/announcing_rust_query) - [Announcing rust-query](https://blog.lucasholten.com/rust-query-announcement/)
-* [2024-11-30, 14:58:32](https://lobste.rs/s/0dffoj/python_type_hints_are_probably_worth_it) - [Python type hints are probably \"worth it\" for me](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe)
 * [2024-11-30, 12:39:03](https://lobste.rs/s/yssrjh/learnings_after_4_years_working_with_50) - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
 * [2024-11-30, 11:45:54](https://lobste.rs/s/qrhirz/flu_conf_2025) - [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
 * [2024-11-30, 07:26:50](https://lobste.rs/s/pywgzo/property_based_testing_patterns_2016) - [Property-based Testing Patterns (2016)](https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html)
@@ -23,7 +24,6 @@
 * [2024-11-29, 21:32:16](https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for) - [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 * [2024-11-29, 20:05:48](https://lobste.rs/s/qcdzy6/jank_is_now_running_on_llvm_ir) - [jank is now running on LLVM IR](https://jank-lang.org/blog/2024-11-29-llvm-ir/)
 * [2024-11-29, 19:12:51](https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
-* [2024-11-29, 13:55:49](https://lobste.rs/s/rs9o8i/i_stan_clearing_maps_no_cap) - [I stan clearing maps, no cap](https://philpearl.github.io/post/map_clearing_and_size/)
 * [2024-11-29, 13:29:40](https://lobste.rs/s/shckuc/storing_times_for_human_events) - [Storing times for human events](https://simonwillison.net/2024/Nov/27/storing-times-for-human-events/)
 
 ## [Archives](archives/index.md)
