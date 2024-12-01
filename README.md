@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-01, 19:37:36](https://lobste.rs/s/qdwvwk/how_clamp_lightness_relative_color_css) - [How to clamp the lightness of a relative color in CSS](https://angelika.me/2024/12/01/how-to-clamp-relative-color-lightness/)
 * [2024-12-01, 18:52:33](https://lobste.rs/s/bsxyje/how_do_time_travel_debuggers_work) - [How do Time Travel Debuggers Work?](https://www.youtube.com/watch?v=NiGzdv84iDE)
 * [2024-12-01, 17:10:35](https://lobste.rs/s/bn8um4/big_endian_s_guide_sqlite_storage) - [Big Endian's Guide to SQLite Storage](https://blog.jabid.in/2024/11/24/sqlite.html)
 * [2024-12-01, 16:26:02](https://lobste.rs/s/jocp0w/scribble_rs_free_privacy_respecting) - [Scribble.rs – The free and privacy respecting pictionary game](https://github.com/scribble-rs/scribble.rs)
@@ -22,7 +23,6 @@
 * [2024-11-30, 12:39:03](https://lobste.rs/s/yssrjh/learnings_after_4_years_working_with_50) - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
 * [2024-11-30, 11:45:54](https://lobste.rs/s/qrhirz/flu_conf_2025) - [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
 * [2024-11-30, 04:43:49](https://lobste.rs/s/h2lezy/if_not_react_then_what) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
-* [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
 * [2024-11-29, 21:32:16](https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for) - [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 * [2024-11-29, 19:12:51](https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering) - [Why pipes sometimes get \"stuck\": buffering](https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/)
 
