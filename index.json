@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-01, 20:42:53",
+      "https://lobste.rs/s/58jah7/what_implementation_independent_test"
+    ],
+    [
+      "What implementation-independent test file formats exist for language tooling?",
+      "https://lobste.rs/s/58jah7/what_implementation_independent_test"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 20:23:42",
       "https://lobste.rs/s/recz1i/qt_qml_dependency_tracking_debian"
     ],
@@ -207,16 +217,6 @@
     [
       "Announcing rust-query",
       "https://blog.lucasholten.com/rust-query-announcement/"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 12:39:03",
-      "https://lobste.rs/s/yssrjh/learnings_after_4_years_working_with_50"
-    ],
-    [
-      "Learnings after 4 years working with +50 companies on data engineering projects",
-      "https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html"
     ]
   ],
   [
