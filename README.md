@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-01, 07:41:32](https://lobste.rs/s/0ve0gt/brazilian_ca_issues_google_com) - [Brazilian CA issues google.com certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)
 * [2024-12-01, 03:08:17](https://lobste.rs/s/d2er0v/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2024-12-01, 01:41:31](https://lobste.rs/s/ayeo9o/why_do_we_call_it_boilerplate_code_2022) - [Why do we call it \"boilerplate code?\" (2022)](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
 * [2024-11-30, 22:00:09](https://lobste.rs/s/wktazu/compilation_on_gpu_feasibility_study) - [Compilation on the GPU? A feasibility study](https://dl.acm.org/doi/abs/10.1145/3528416.3530249)
@@ -14,7 +15,6 @@
 * [2024-11-30, 12:39:03](https://lobste.rs/s/yssrjh/learnings_after_4_years_working_with_50) - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
 * [2024-11-30, 11:45:54](https://lobste.rs/s/qrhirz/flu_conf_2025) - [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
 * [2024-11-30, 07:26:50](https://lobste.rs/s/pywgzo/property_based_testing_patterns_2016) - [Property-based Testing Patterns (2016)](https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html)
-* [2024-11-30, 06:10:02](https://lobste.rs/s/wf1pan/making_screenshots_test_equipment_old) - [Making Screenshots of Test Equipment Old and New](https://tomverbeure.github.io/2024/11/29/Making-Screenshots-of-Test-Equipment.html)
 * [2024-11-30, 05:41:58](https://lobste.rs/s/kr6sxr/complexities_enabling_opencl_support) - [The complexities of enabling OpenCL support](https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/)
 * [2024-11-30, 04:43:49](https://lobste.rs/s/h2lezy/if_not_react_then_what) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
 * [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
