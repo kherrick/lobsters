@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 20:23:42](https://lobste.rs/s/recz1i/qt_qml_dependency_tracking_debian) - [Qt/QML Dependency tracking in Debian](https://blog.sandroknauss.de/QMLDependencyTrackingInDebian/)
 * [2024-12-01, 19:37:36](https://lobste.rs/s/qdwvwk/how_clamp_lightness_relative_color_css) - [How to clamp the lightness of a relative color in CSS](https://angelika.me/2024/12/01/how-to-clamp-relative-color-lightness/)
 * [2024-12-01, 18:52:33](https://lobste.rs/s/bsxyje/how_do_time_travel_debuggers_work) - [How do Time Travel Debuggers Work?](https://www.youtube.com/watch?v=NiGzdv84iDE)
 * [2024-12-01, 17:10:35](https://lobste.rs/s/bn8um4/big_endian_s_guide_sqlite_storage) - [Big Endian's Guide to SQLite Storage](https://blog.jabid.in/2024/11/24/sqlite.html)
