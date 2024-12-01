@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-01, 16:09:04](https://lobste.rs/s/axjhi5/building_distributed_log_using_s3_under) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:28:52](https://lobste.rs/s/vfxwdp/fascinating_security_model_dark_web) - [The fascinating security model of dark web marketplaces](https://boehs.org/node/dark-web-security)
 * [2024-12-01, 15:13:42](https://lobste.rs/s/pvzoa7/7_databases_7_weeks_for_2025) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-01, 13:22:25](https://lobste.rs/s/ykszkz/deletes_are_difficult) - [DELETEs are difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
@@ -18,7 +19,6 @@
 * [2024-11-30, 14:58:32](https://lobste.rs/s/0dffoj/python_type_hints_are_probably_worth_it) - [Python type hints are probably \"worth it\" for me](https://utcc.utoronto.ca/~cks/space/blog/python/TypeHintsProbablyWorthItForMe)
 * [2024-11-30, 12:39:03](https://lobste.rs/s/yssrjh/learnings_after_4_years_working_with_50) - [Learnings after 4 years working with +50 companies on data engineering projects](https://javisantana.com/2024/11/30/learnings-after-4-years-data-eng.html)
 * [2024-11-30, 11:45:54](https://lobste.rs/s/qrhirz/flu_conf_2025) - [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
-* [2024-11-30, 07:26:50](https://lobste.rs/s/pywgzo/property_based_testing_patterns_2016) - [Property-based Testing Patterns (2016)](https://blog.ssanj.net/posts/2016-06-26-property-based-testing-patterns.html)
 * [2024-11-30, 05:41:58](https://lobste.rs/s/kr6sxr/complexities_enabling_opencl_support) - [The complexities of enabling OpenCL support](https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/)
 * [2024-11-30, 04:43:49](https://lobste.rs/s/h2lezy/if_not_react_then_what) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
 * [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 16:09:04](https://lobste.rs/s/axjhi5/building_distributed_log_using_s3_under) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:28:52](https://lobste.rs/s/vfxwdp/fascinating_security_model_dark_web) - [The fascinating security model of dark web marketplaces](https://boehs.org/node/dark-web-security)
 * [2024-12-01, 15:13:42](https://lobste.rs/s/pvzoa7/7_databases_7_weeks_for_2025) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-01, 13:22:25](https://lobste.rs/s/ykszkz/deletes_are_difficult) - [DELETEs are difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
