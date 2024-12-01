@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-01, 03:08:17](https://lobste.rs/s/d2er0v/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2024-12-01, 01:41:31](https://lobste.rs/s/ayeo9o/why_do_we_call_it_boilerplate_code_2022) - [Why do we call it \"boilerplate code?\" (2022)](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
 * [2024-11-30, 22:00:09](https://lobste.rs/s/wktazu/compilation_on_gpu_feasibility_study) - [Compilation on the GPU? A feasibility study](https://dl.acm.org/doi/abs/10.1145/3528416.3530249)
 * [2024-11-30, 21:04:56](https://lobste.rs/s/s8iyop/semantics_programming_video_lectures_go) - [Semantics of Programming (video lectures that go with the \"Concrete Semantics\" book)](https://live.rbg.tum.de/?year=2022&term=W&view=3&slug=Sem)
@@ -17,7 +18,6 @@
 * [2024-11-30, 05:41:58](https://lobste.rs/s/kr6sxr/complexities_enabling_opencl_support) - [The complexities of enabling OpenCL support](https://catfox.life/2024/11/29/the-complexities-of-enabling-opencl-support/)
 * [2024-11-30, 04:43:49](https://lobste.rs/s/h2lezy/if_not_react_then_what) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
 * [2024-11-30, 04:03:32](https://lobste.rs/s/ixrg6u/operator_transposition) - [Operator transposition](https://moonbase.lgbt/blog/operator-transposition/)
-* [2024-11-30, 01:44:17](https://lobste.rs/s/gokzk8/new_proposal_go_error_function_handling) - [New Proposal: Go Error Function Handling Inspired by Iterators | Go 1.23 Error Management](https://www.mmtool.top/blog/new-proposal-go-error-handling-inspired-by-iterators)
 * [2024-11-29, 23:22:35](https://lobste.rs/s/znbeq4/bevy_0_15_released) - [Bevy 0.15 Released](https://bevyengine.org/news/bevy-0-15)
 * [2024-11-29, 22:15:04](https://lobste.rs/s/gozui2/hall_sc_vga_2_video_processor_atari_st) - [The Hall SC-VGA-2 video processor, the Atari ST and NeXTSTEP](https://oldvcr.blogspot.com/2024/11/the-hall-sc-vga-2-video-processor-atari.html)
 * [2024-11-29, 21:32:16](https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for) - [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
