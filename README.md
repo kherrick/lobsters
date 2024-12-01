@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-01, 21:07:36](https://lobste.rs/s/jjjt2r/tiger_style) - [Tiger Style](https://github.com/tigerbeetle/tigerbeetle/blob/a43f2205f5335cb8f56d6e8bfcc6b2d99a4fc4a4/docs/TIGER_STYLE.md)
+* [2024-12-01, 21:06:19](https://lobste.rs/s/sltgg4/building_ultimate_raspberry_pi) - [Building the Ultimate Raspberry Pi Kubernetes Cluster: A Journey into Cloud Scalability](https://medium.com/@reinoutwijnholds2002/building-the-ultimate-raspberry-pi-kubernetes-cluster-a-journey-into-cloud-scalability-from-zero-e5a75c107f0e)
 * [2024-12-01, 20:42:53](https://lobste.rs/s/58jah7/what_implementation_independent_test) - [What implementation-independent test file formats exist for language tooling?](https://lobste.rs/s/58jah7/what_implementation_independent_test)
 * [2024-12-01, 20:23:42](https://lobste.rs/s/recz1i/qt_qml_dependency_tracking_debian) - [Qt/QML Dependency tracking in Debian](https://blog.sandroknauss.de/QMLDependencyTrackingInDebian/)
 * [2024-12-01, 19:37:36](https://lobste.rs/s/qdwvwk/how_clamp_lightness_relative_color_css) - [How to clamp the lightness of a relative color in CSS](https://angelika.me/2024/12/01/how-to-clamp-relative-color-lightness/)
@@ -19,12 +21,10 @@
 * [2024-11-30, 20:46:50](https://lobste.rs/s/vaef6m/inline_assembly_dangers) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 * [2024-11-30, 20:33:29](https://lobste.rs/s/jjsvvr/safety_unsafe_world) - [Safety in an unsafe world](https://lwn.net/Articles/995814/)
 * [2024-11-30, 19:17:01](https://lobste.rs/s/3gyugp/advent_code_2024_starting_soon) - [Advent of Code 2024 starting soon](https://adventofcode.com/2024)
-* [2024-11-30, 17:18:05](https://lobste.rs/s/tsz4c9/harmful_consequences_robustness) - [The Harmful Consequences of the Robustness Principle](https://datatracker.ietf.org/doc/html/draft-thomson-postel-was-wrong-03)
 * [2024-11-30, 15:56:59](https://lobste.rs/s/jt7mbh/sheetsui_tui_spreadsheet_application) - [SheetsUI, a TUI spreadsheet application based on the IronCalc engine](https://github.com/zaphar/sheetsui)
 * [2024-11-30, 15:10:49](https://lobste.rs/s/k45qk7/announcing_rust_query) - [Announcing rust-query](https://blog.lucasholten.com/rust-query-announcement/)
 * [2024-11-30, 11:45:54](https://lobste.rs/s/qrhirz/flu_conf_2025) - [Flu Conf 2025](https://cryptography.dog/blog/flu-conf-2025/)
 * [2024-11-30, 04:43:49](https://lobste.rs/s/h2lezy/if_not_react_then_what) - [If Not React, Then What?](https://infrequently.org/2024/11/if-not-react-then-what/)
-* [2024-11-29, 21:32:16](https://lobste.rs/s/gxj1h4/first_router_designed_specifically_for) - [First Router Designed Specifically For OpenWrt Released](https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/)
 
 ## [Archives](archives/index.md)
 

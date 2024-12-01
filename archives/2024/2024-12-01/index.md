@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-01](index.md)
 
+* [2024-12-01, 21:07:36](https://lobste.rs/s/jjjt2r/tiger_style) - [Tiger Style](https://github.com/tigerbeetle/tigerbeetle/blob/a43f2205f5335cb8f56d6e8bfcc6b2d99a4fc4a4/docs/TIGER_STYLE.md)
+* [2024-12-01, 21:06:19](https://lobste.rs/s/sltgg4/building_ultimate_raspberry_pi) - [Building the Ultimate Raspberry Pi Kubernetes Cluster: A Journey into Cloud Scalability](https://medium.com/@reinoutwijnholds2002/building-the-ultimate-raspberry-pi-kubernetes-cluster-a-journey-into-cloud-scalability-from-zero-e5a75c107f0e)
 * [2024-12-01, 20:42:53](https://lobste.rs/s/58jah7/what_implementation_independent_test) - [What implementation-independent test file formats exist for language tooling?](https://lobste.rs/s/58jah7/what_implementation_independent_test)
 * [2024-12-01, 20:23:42](https://lobste.rs/s/recz1i/qt_qml_dependency_tracking_debian) - [Qt/QML Dependency tracking in Debian](https://blog.sandroknauss.de/QMLDependencyTrackingInDebian/)
 * [2024-12-01, 19:37:36](https://lobste.rs/s/qdwvwk/how_clamp_lightness_relative_color_css) - [How to clamp the lightness of a relative color in CSS](https://angelika.me/2024/12/01/how-to-clamp-relative-color-lightness/)
