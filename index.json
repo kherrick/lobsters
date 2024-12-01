@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-01, 20:23:42",
+      "https://lobste.rs/s/recz1i/qt_qml_dependency_tracking_debian"
+    ],
+    [
+      "Qt/QML Dependency tracking in Debian",
+      "https://blog.sandroknauss.de/QMLDependencyTrackingInDebian/"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 19:37:36",
       "https://lobste.rs/s/qdwvwk/how_clamp_lightness_relative_color_css"
     ],
@@ -237,16 +247,6 @@
     [
       "First Router Designed Specifically For OpenWrt Released",
       "https://sfconservancy.org/news/2024/nov/29/openwrt-one-wireless-router-now-ships-black-friday/"
-    ]
-  ],
-  [
-    [
-      "2024-11-29, 19:12:51",
-      "https://lobste.rs/s/uttnqb/why_pipes_sometimes_get_stuck_buffering"
-    ],
-    [
-      "Why pipes sometimes get \"stuck\": buffering",
-      "https://jvns.ca/blog/2024/11/29/why-pipes-get-stuck-buffering/"
     ]
   ]
 ]
