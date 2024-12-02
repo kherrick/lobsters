@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-02, 07:00:37](https://lobste.rs/s/ttvimn/you_have_one_voice) - [You Have One Voice](https://hazelweakly.me/blog/you-have-one-voice/)
 * [2024-12-02, 04:11:48](https://lobste.rs/s/ppztt3/new_way_get_more_info_when_using_google_app) - [New way to get more info when using the Google app on iOS](https://support.google.com/websearch/thread/308719098/page-annotation-in-google-app-browser-for-ios?hl=en)
 * [2024-12-02, 03:23:15](https://lobste.rs/s/ici6ek/bicameral_not_homoiconic) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 * [2024-12-02, 03:08:44](https://lobste.rs/s/hxerht/raii_rust_linux_drama) - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
@@ -22,7 +23,6 @@
 * [2024-12-01, 03:08:17](https://lobste.rs/s/d2er0v/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2024-12-01, 01:41:31](https://lobste.rs/s/ayeo9o/why_do_we_call_it_boilerplate_code_2022) - [Why do we call it \"boilerplate code?\" (2022)](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
 * [2024-11-30, 22:00:09](https://lobste.rs/s/wktazu/compilation_on_gpu_feasibility_study) - [Compilation on the GPU? A feasibility study](https://dl.acm.org/doi/abs/10.1145/3528416.3530249)
-* [2024-11-30, 20:46:50](https://lobste.rs/s/vaef6m/inline_assembly_dangers) - [Inline Assembly Dangers](https://fobes.dev/general/2024/02/29/inline-assembly-dangers.html)
 * [2024-11-30, 19:17:01](https://lobste.rs/s/3gyugp/advent_code_2024_starting_soon) - [Advent of Code 2024 starting soon](https://adventofcode.com/2024)
 * [2024-11-30, 15:10:49](https://lobste.rs/s/k45qk7/announcing_rust_query) - [Announcing rust-query](https://blog.lucasholten.com/rust-query-announcement/)
 
