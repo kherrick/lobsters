@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-02, 13:33:15",
+      "https://lobste.rs/s/vvkrl9/experimenting_with_rust_nix_k6_parca"
+    ],
+    [
+      "Experimenting with Rust, Nix, K6 and Parca",
+      "https://jnsgr.uk/2024/11/experiments-with-rust-nix-k6-parca/"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 13:23:37",
+      "https://lobste.rs/s/ddwc2p/keylogger_using_ebpf"
+    ],
+    [
+      "A KeyLogger using eBPF",
+      "https://github.com/pythops/tamanoir"
+    ]
+  ],
+  [
+    [
       "2024-12-02, 11:55:29",
       "https://lobste.rs/s/8qpaxz/atomics_for_humans"
     ],
@@ -67,26 +87,6 @@
     [
       "RAII and the Rust/Linux Drama",
       "https://kristoff.it/blog/raii-rust-linux/"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 02:37:05",
-      "https://lobste.rs/s/cvhq3z/your_view_s_lifetime_is_not_yours"
-    ],
-    [
-      "Your View's Lifetime Is Not Yours",
-      "https://shadowfacts.net/2024/swiftui-lifecycle/"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 23:25:23",
-      "https://lobste.rs/s/wdrwc2/linear_types_exceptions"
-    ],
-    [
-      "Linear Types and Exceptions",
-      "https://borretti.me/article/linear-types-exceptions"
     ]
   ],
   [
