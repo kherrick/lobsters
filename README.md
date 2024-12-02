@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-02, 13:33:15](https://lobste.rs/s/vvkrl9/experimenting_with_rust_nix_k6_parca) - [Experimenting with Rust, Nix, K6 and Parca](https://jnsgr.uk/2024/11/experiments-with-rust-nix-k6-parca/)
+* [2024-12-02, 14:09:05](https://lobste.rs/s/x5snit/sqlite_index_visualization_search) - [SQLite Index Visualization: Search](https://mrsuh.com/articles/2024/sqlite-index-visualization-search/)
+* [2024-12-02, 14:03:54](https://lobste.rs/s/r3dfxy/experimenting_with_rust_nix_k6_parca) - [Experimenting with Rust, Nix, K6 and Parca](https://jnsgr.uk/2024/12/experiments-with-rust-nix-k6-parca/)
 * [2024-12-02, 13:23:37](https://lobste.rs/s/ddwc2p/keylogger_using_ebpf) - [A KeyLogger using eBPF](https://github.com/pythops/tamanoir)
 * [2024-12-02, 11:55:29](https://lobste.rs/s/8qpaxz/atomics_for_humans) - [Atomics for Humans](https://gist.github.com/kprotty/bb26b963441baf2ab3486a07fbf4762e)
 * [2024-12-02, 11:04:54](https://lobste.rs/s/3ejy1k/linux_kernel_driver_interface) - [The Linux Kernel Driver Interface](https://www.kernel.org/doc/Documentation/process/stable-api-nonsense.rst)
@@ -20,7 +21,6 @@
 * [2024-12-01, 16:09:04](https://lobste.rs/s/axjhi5/building_distributed_log_using_s3_under) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:28:52](https://lobste.rs/s/vfxwdp/fascinating_security_model_dark_web) - [The fascinating security model of dark web marketplaces](https://boehs.org/node/dark-web-security)
 * [2024-12-01, 15:13:42](https://lobste.rs/s/pvzoa7/7_databases_7_weeks_for_2025) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
-* [2024-12-01, 13:22:25](https://lobste.rs/s/ykszkz/deletes_are_difficult) - [DELETEs are difficult](https://notso.boringsql.com/posts/deletes-are-difficult/)
 * [2024-12-01, 11:38:37](https://lobste.rs/s/rbll9k/how_do_you_manage_personal_email_registar) - [How do you manage Personal Email, Registar and Host Accounts to Prevent Lock Out?](https://lobste.rs/s/rbll9k/how_do_you_manage_personal_email_registar)
 * [2024-12-01, 07:41:32](https://lobste.rs/s/0ve0gt/brazilian_ca_issues_google_com) - [Brazilian CA issues google.com certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)
 * [2024-12-01, 03:08:17](https://lobste.rs/s/d2er0v/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
