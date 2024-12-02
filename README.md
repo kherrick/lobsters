@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-02, 10:29:53](https://lobste.rs/s/auqekq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/auqekq/what_are_you_doing_this_week)
 * [2024-12-02, 08:45:56](https://lobste.rs/s/wf2oqw/common_ca_database_by_linux_foundation) - [Common CA Database by the Linux Foundation](https://www.ccadb.org/)
 * [2024-12-02, 07:00:37](https://lobste.rs/s/ttvimn/you_have_one_voice) - [You Have One Voice](https://hazelweakly.me/blog/you-have-one-voice/)
 * [2024-12-02, 04:11:48](https://lobste.rs/s/ppztt3/new_way_get_more_info_when_using_google_app) - [New way to get more info when using the Google app on iOS](https://support.google.com/websearch/thread/308719098/page-annotation-in-google-app-browser-for-ios?hl=en)
@@ -24,7 +25,6 @@
 * [2024-12-01, 03:08:17](https://lobste.rs/s/d2er0v/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
 * [2024-12-01, 01:41:31](https://lobste.rs/s/ayeo9o/why_do_we_call_it_boilerplate_code_2022) - [Why do we call it \"boilerplate code?\" (2022)](https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code)
 * [2024-11-30, 19:17:01](https://lobste.rs/s/3gyugp/advent_code_2024_starting_soon) - [Advent of Code 2024 starting soon](https://adventofcode.com/2024)
-* [2024-11-30, 15:10:49](https://lobste.rs/s/k45qk7/announcing_rust_query) - [Announcing rust-query](https://blog.lucasholten.com/rust-query-announcement/)
 
 ## [Archives](archives/index.md)
 
