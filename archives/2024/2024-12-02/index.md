@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 13:33:15](https://lobste.rs/s/vvkrl9/experimenting_with_rust_nix_k6_parca) - [Experimenting with Rust, Nix, K6 and Parca](https://jnsgr.uk/2024/11/experiments-with-rust-nix-k6-parca/)
+* [2024-12-02, 13:23:37](https://lobste.rs/s/ddwc2p/keylogger_using_ebpf) - [A KeyLogger using eBPF](https://github.com/pythops/tamanoir)
 * [2024-12-02, 11:55:29](https://lobste.rs/s/8qpaxz/atomics_for_humans) - [Atomics for Humans](https://gist.github.com/kprotty/bb26b963441baf2ab3486a07fbf4762e)
 * [2024-12-02, 11:04:54](https://lobste.rs/s/3ejy1k/linux_kernel_driver_interface) - [The Linux Kernel Driver Interface](https://www.kernel.org/doc/Documentation/process/stable-api-nonsense.rst)
 * [2024-12-02, 10:29:53](https://lobste.rs/s/auqekq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/auqekq/what_are_you_doing_this_week)
