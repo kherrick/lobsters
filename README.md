@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
 * [2024-12-02, 16:58:03](https://lobste.rs/s/sa4e0n/qt_for_mcus_2_9_released_now_also_runs_on) - [Qt for MCUs 2.9 Released, now also runs on regular Linux](https://www.qt.io/blog/qt-for-mcus-2.9-released)
 * [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
 * [2024-12-02, 16:22:25](https://lobste.rs/s/bxreiq/macros_dart) - [Macros in Dart](https://github.com/dart-lang/language/blob/main/working/macros/feature-specification.md)
@@ -17,7 +18,6 @@
 * [2024-12-02, 03:08:44](https://lobste.rs/s/hxerht/raii_rust_linux_drama) - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
 * [2024-12-01, 22:18:02](https://lobste.rs/s/cgrpmd/category_theory_programming) - [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)
 * [2024-12-01, 20:42:53](https://lobste.rs/s/58jah7/what_implementation_independent_test) - [What implementation-independent test file formats exist for language tooling?](https://lobste.rs/s/58jah7/what_implementation_independent_test)
-* [2024-12-01, 18:52:33](https://lobste.rs/s/bsxyje/how_do_time_travel_debuggers_work) - [How do Time Travel Debuggers Work?](https://www.youtube.com/watch?v=NiGzdv84iDE)
 * [2024-12-01, 16:26:02](https://lobste.rs/s/jocp0w/scribble_rs_free_privacy_respecting) - [Scribble.rs – The free and privacy respecting pictionary game](https://github.com/scribble-rs/scribble.rs)
 * [2024-12-01, 16:09:04](https://lobste.rs/s/axjhi5/building_distributed_log_using_s3_under) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:28:52](https://lobste.rs/s/vfxwdp/fascinating_security_model_dark_web) - [The fascinating security model of dark web marketplaces](https://boehs.org/node/dark-web-security)
