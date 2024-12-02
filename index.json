@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2024-12-01, 23:25:23",
+      "https://lobste.rs/s/wdrwc2/linear_types_exceptions"
+    ],
+    [
+      "Linear Types and Exceptions",
+      "https://borretti.me/article/linear-types-exceptions"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 22:18:02",
       "https://lobste.rs/s/cgrpmd/category_theory_programming"
     ],
@@ -217,16 +227,6 @@
     [
       "Why do we call it \"boilerplate code?\" (2022)",
       "https://buttondown.com/hillelwayne/archive/why-do-we-call-it-boilerplate-code"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 22:00:09",
-      "https://lobste.rs/s/wktazu/compilation_on_gpu_feasibility_study"
-    ],
-    [
-      "Compilation on the GPU? A feasibility study",
-      "https://dl.acm.org/doi/abs/10.1145/3528416.3530249"
     ]
   ],
   [
