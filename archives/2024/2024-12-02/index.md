@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
 * [2024-12-02, 16:22:25](https://lobste.rs/s/bxreiq/macros_dart) - [Macros in Dart](https://github.com/dart-lang/language/blob/main/working/macros/feature-specification.md)
 * [2024-12-02, 14:46:15](https://lobste.rs/s/rxm2ov/qt_creator_15_released_with_windows_on) - [Qt Creator 15 released with Windows on ARM64 support](https://www.qt.io/blog/qt-creator-15-released)
 * [2024-12-02, 14:18:52](https://lobste.rs/s/xmeynf/containerscript_firefox_addon_for) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
