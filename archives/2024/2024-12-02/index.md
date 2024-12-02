@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 22:13:26](https://lobste.rs/s/8ve4to/hardest_part_exwm) - [The Hardest Part of EXWM](https://medium.com/@kkmvv/the-hardest-part-of-exwm-d952ef5ea5d6)
+* [2024-12-02, 22:06:02](https://lobste.rs/s/d9eebx/democratizing_software) - [Democratizing Software](https://wryl.tech/log/2024/democratizing-software.html)
 * [2024-12-02, 20:28:51](https://lobste.rs/s/72sauo/legacy_safety_wroclaw_c_meeting) - [Legacy Safety: The Wrocław C++ Meeting](https://cor3ntin.github.io/posts/profiles/)
 * [2024-12-02, 19:31:56](https://lobste.rs/s/zh0bqb/new_features_linux_6_10_contributed_by) - [New features in Linux 6.10 contributed by Pernosco](https://pernos.co/blog/linux-kernel-additions/)
 * [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
