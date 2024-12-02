@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 11:04:54](https://lobste.rs/s/3ejy1k/linux_kernel_driver_interface) - [The Linux Kernel Driver Interface](https://www.kernel.org/doc/Documentation/process/stable-api-nonsense.rst)
 * [2024-12-02, 10:29:53](https://lobste.rs/s/auqekq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/auqekq/what_are_you_doing_this_week)
 * [2024-12-02, 08:45:56](https://lobste.rs/s/wf2oqw/common_ca_database_by_linux_foundation) - [Common CA Database by the Linux Foundation](https://www.ccadb.org/)
 * [2024-12-02, 07:00:37](https://lobste.rs/s/ttvimn/you_have_one_voice) - [You Have One Voice](https://hazelweakly.me/blog/you-have-one-voice/)
