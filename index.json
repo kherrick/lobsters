@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-02, 03:08:44",
+      "https://lobste.rs/s/hxerht/raii_rust_linux_drama"
+    ],
+    [
+      "RAII and the Rust/Linux Drama",
+      "https://kristoff.it/blog/raii-rust-linux/"
+    ]
+  ],
+  [
+    [
+      "2024-12-02, 02:37:05",
+      "https://lobste.rs/s/cvhq3z/your_view_s_lifetime_is_not_yours"
+    ],
+    [
+      "Your View's Lifetime Is Not Yours",
+      "https://shadowfacts.net/2024/swiftui-lifecycle/"
+    ]
+  ],
+  [
+    [
       "2024-12-01, 23:25:23",
       "https://lobste.rs/s/wdrwc2/linear_types_exceptions"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-11-30, 15:56:59",
-      "https://lobste.rs/s/jt7mbh/sheetsui_tui_spreadsheet_application"
-    ],
-    [
-      "SheetsUI, a TUI spreadsheet application based on the IronCalc engine",
-      "https://github.com/zaphar/sheetsui"
-    ]
-  ],
-  [
-    [
       "2024-11-30, 15:10:49",
       "https://lobste.rs/s/k45qk7/announcing_rust_query"
     ],
     [
       "Announcing rust-query",
       "https://blog.lucasholten.com/rust-query-announcement/"
-    ]
-  ],
-  [
-    [
-      "2024-11-30, 04:43:49",
-      "https://lobste.rs/s/h2lezy/if_not_react_then_what"
-    ],
-    [
-      "If Not React, Then What?",
-      "https://infrequently.org/2024/11/if-not-react-then-what/"
     ]
   ]
 ]
