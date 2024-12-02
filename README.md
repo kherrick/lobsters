@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-02, 16:58:03](https://lobste.rs/s/sa4e0n/qt_for_mcus_2_9_released_now_also_runs_on) - [Qt for MCUs 2.9 Released, now also runs on regular Linux](https://www.qt.io/blog/qt-for-mcus-2.9-released)
 * [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
 * [2024-12-02, 16:22:25](https://lobste.rs/s/bxreiq/macros_dart) - [Macros in Dart](https://github.com/dart-lang/language/blob/main/working/macros/feature-specification.md)
 * [2024-12-02, 14:46:15](https://lobste.rs/s/rxm2ov/qt_creator_15_released_with_windows_on) - [Qt Creator 15 released with Windows on ARM64 support](https://www.qt.io/blog/qt-creator-15-released)
@@ -24,7 +25,6 @@
 * [2024-12-01, 11:38:37](https://lobste.rs/s/rbll9k/how_do_you_manage_personal_email_registar) - [How do you manage Personal Email, Registar and Host Accounts to Prevent Lock Out?](https://lobste.rs/s/rbll9k/how_do_you_manage_personal_email_registar)
 * [2024-12-01, 07:41:32](https://lobste.rs/s/0ve0gt/brazilian_ca_issues_google_com) - [Brazilian CA issues google.com certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)
 * [2024-12-01, 03:08:17](https://lobste.rs/s/d2er0v/typst_as_language) - [Typst as a Language](https://justinpombrio.net/2024/11/30/typst.html)
-* [2024-11-30, 19:17:01](https://lobste.rs/s/3gyugp/advent_code_2024_starting_soon) - [Advent of Code 2024 starting soon](https://adventofcode.com/2024)
 
 ## [Archives](archives/index.md)
 
