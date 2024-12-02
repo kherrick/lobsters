@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-02, 03:23:15](https://lobste.rs/s/ici6ek/bicameral_not_homoiconic) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 * [2024-12-02, 03:08:44](https://lobste.rs/s/hxerht/raii_rust_linux_drama) - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
 * [2024-12-02, 02:37:05](https://lobste.rs/s/cvhq3z/your_view_s_lifetime_is_not_yours) - [Your View's Lifetime Is Not Yours](https://shadowfacts.net/2024/swiftui-lifecycle/)
 * [2024-12-01, 23:25:23](https://lobste.rs/s/wdrwc2/linear_types_exceptions) - [Linear Types and Exceptions](https://borretti.me/article/linear-types-exceptions)
@@ -10,7 +11,6 @@
 * [2024-12-01, 20:23:42](https://lobste.rs/s/recz1i/qt_qml_dependency_tracking_debian) - [Qt/QML Dependency tracking in Debian](https://blog.sandroknauss.de/QMLDependencyTrackingInDebian/)
 * [2024-12-01, 19:37:36](https://lobste.rs/s/qdwvwk/how_clamp_lightness_relative_color_css) - [How to clamp the lightness of a relative color in CSS](https://angelika.me/2024/12/01/how-to-clamp-relative-color-lightness/)
 * [2024-12-01, 18:52:33](https://lobste.rs/s/bsxyje/how_do_time_travel_debuggers_work) - [How do Time Travel Debuggers Work?](https://www.youtube.com/watch?v=NiGzdv84iDE)
-* [2024-12-01, 17:10:35](https://lobste.rs/s/bn8um4/big_endian_s_guide_sqlite_storage) - [Big Endian's Guide to SQLite Storage](https://blog.jabid.in/2024/11/24/sqlite.html)
 * [2024-12-01, 16:26:02](https://lobste.rs/s/jocp0w/scribble_rs_free_privacy_respecting) - [Scribble.rs – The free and privacy respecting pictionary game](https://github.com/scribble-rs/scribble.rs)
 * [2024-12-01, 16:09:04](https://lobste.rs/s/axjhi5/building_distributed_log_using_s3_under) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:28:52](https://lobste.rs/s/vfxwdp/fascinating_security_model_dark_web) - [The fascinating security model of dark web marketplaces](https://boehs.org/node/dark-web-security)
