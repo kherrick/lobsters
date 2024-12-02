@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 19:31:56](https://lobste.rs/s/zh0bqb/new_features_linux_6_10_contributed_by) - [New features in Linux 6.10 contributed by Pernosco](https://pernos.co/blog/linux-kernel-additions/)
 * [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
 * [2024-12-02, 16:58:03](https://lobste.rs/s/sa4e0n/qt_for_mcus_2_9_released_now_also_runs_on) - [Qt for MCUs 2.9 Released, now also runs on regular Linux](https://www.qt.io/blog/qt-for-mcus-2.9-released)
 * [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
