@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-02](index.md)
 
+* [2024-12-02, 16:22:25](https://lobste.rs/s/bxreiq/macros_dart) - [Macros in Dart](https://github.com/dart-lang/language/blob/main/working/macros/feature-specification.md)
 * [2024-12-02, 14:46:15](https://lobste.rs/s/rxm2ov/qt_creator_15_released_with_windows_on) - [Qt Creator 15 released with Windows on ARM64 support](https://www.qt.io/blog/qt-creator-15-released)
 * [2024-12-02, 14:18:52](https://lobste.rs/s/xmeynf/containerscript_firefox_addon_for) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
 * [2024-12-02, 14:09:05](https://lobste.rs/s/x5snit/sqlite_index_visualization_search) - [SQLite Index Visualization: Search](https://mrsuh.com/articles/2024/sqlite-index-visualization-search/)
