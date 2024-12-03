@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-03, 00:19:41](https://lobste.rs/s/nmglmi/freebsd_14_2_release_announcement) - [FreeBSD 14.2-RELEASE Announcement](https://www.freebsd.org/releases/14.2R/announce/)
+* [2024-12-03, 00:06:10](https://lobste.rs/s/mxe3lh/net_support_on_heroku) - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
 * [2024-12-02, 22:13:26](https://lobste.rs/s/8ve4to/hardest_part_exwm) - [The Hardest Part of EXWM](https://medium.com/@kkmvv/the-hardest-part-of-exwm-d952ef5ea5d6)
 * [2024-12-02, 22:06:02](https://lobste.rs/s/d9eebx/democratizing_software) - [Democratizing Software](https://wryl.tech/log/2024/democratizing-software.html)
 * [2024-12-02, 20:28:51](https://lobste.rs/s/72sauo/legacy_safety_wroclaw_c_meeting) - [Legacy Safety: The Wrocław C++ Meeting](https://cor3ntin.github.io/posts/profiles/)
 * [2024-12-02, 19:31:56](https://lobste.rs/s/zh0bqb/new_features_linux_6_10_contributed_by) - [New features in Linux 6.10 contributed by Pernosco](https://pernos.co/blog/linux-kernel-additions/)
 * [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
-* [2024-12-02, 16:58:03](https://lobste.rs/s/sa4e0n/qt_for_mcus_2_9_released_now_also_runs_on) - [Qt for MCUs 2.9 Released, now also runs on regular Linux](https://www.qt.io/blog/qt-for-mcus-2.9-released)
 * [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
 * [2024-12-02, 16:22:25](https://lobste.rs/s/bxreiq/macros_dart) - [Macros in Dart](https://github.com/dart-lang/language/blob/main/working/macros/feature-specification.md)
 * [2024-12-02, 14:18:52](https://lobste.rs/s/xmeynf/containerscript_firefox_addon_for) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
@@ -23,7 +24,6 @@
 * [2024-12-01, 20:42:53](https://lobste.rs/s/58jah7/what_implementation_independent_test) - [What implementation-independent test file formats exist for language tooling?](https://lobste.rs/s/58jah7/what_implementation_independent_test)
 * [2024-12-01, 16:09:04](https://lobste.rs/s/axjhi5/building_distributed_log_using_s3_under) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:28:52](https://lobste.rs/s/vfxwdp/fascinating_security_model_dark_web) - [The fascinating security model of dark web marketplaces](https://boehs.org/node/dark-web-security)
-* [2024-12-01, 15:13:42](https://lobste.rs/s/pvzoa7/7_databases_7_weeks_for_2025) - [7 Databases in 7 Weeks for 2025](https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/)
 * [2024-12-01, 07:41:32](https://lobste.rs/s/0ve0gt/brazilian_ca_issues_google_com) - [Brazilian CA issues google.com certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)
 
 ## [Archives](archives/index.md)
