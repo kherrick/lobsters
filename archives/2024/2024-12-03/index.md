@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 13:48:09](https://lobste.rs/s/l1gurv/emacsconf_2024) - [EmacsConf 2024](https://emacsconf.org/2024/)
 * [2024-12-03, 13:34:17](https://lobste.rs/s/irtihv/performance_archaeology_olap) - [Performance archaeology: OLAP](https://vondra.me/posts/postgres-performance-archaeology-olap/)
 * [2024-12-03, 12:46:16](https://lobste.rs/s/wceoqb/implementing_async_apis_for) - [Implementing async APIs for microcontroller peripherals](https://beaurivage.io/atsamd-hal-async/)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
