@@ -2,7 +2,7 @@
 
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
-* [2024-12-03, 11:39:32](https://lobste.rs/s/yrszwh/evolving_my_ergonomic_setup_my_laptop) - [Evolving my ergonomic setup (or, my laptop with extra steps) | nicole@web](https://ntietz.com/blog/evolving-ergo-setup/)
+* [2024-12-03, 11:39:32](https://lobste.rs/s/yrszwh/evolving_my_ergonomic_setup_my_laptop) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 09:27:40](https://lobste.rs/s/l0rgsa/domains_listening_many_other_domains) - [Domains listening to many other domains in Event-Driven Architecture](https://www.reactivesystems.eu/2024/11/30/not-all-commands-are-equal.html)
 * [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
