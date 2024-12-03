@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 * [2024-12-03, 07:09:45](https://lobste.rs/s/hq38kv/sql_best_practices_don_t_compare_count) - [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
 * [2024-12-03, 03:11:16](https://lobste.rs/s/pklear/mangl_enhanced_man_page_viewer_for_linux) - [mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries](Https://github.com/zigalenarcic/mangl)
 * [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
@@ -14,7 +15,6 @@
 * [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
 * [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
 * [2024-12-02, 14:18:52](https://lobste.rs/s/xmeynf/containerscript_firefox_addon_for) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
-* [2024-12-02, 14:09:05](https://lobste.rs/s/x5snit/sqlite_index_visualization_search) - [SQLite Index Visualization: Search](https://mrsuh.com/articles/2024/sqlite-index-visualization-search/)
 * [2024-12-02, 14:03:54](https://lobste.rs/s/r3dfxy/experimenting_with_rust_nix_k6_parca) - [Experimenting with Rust, Nix, K6 and Parca](https://jnsgr.uk/2024/12/experiments-with-rust-nix-k6-parca/)
 * [2024-12-02, 13:23:37](https://lobste.rs/s/ddwc2p/keylogger_using_ebpf) - [A KeyLogger using eBPF](https://github.com/pythops/tamanoir)
 * [2024-12-02, 11:55:29](https://lobste.rs/s/8qpaxz/atomics_for_humans) - [Atomics for Humans](https://gist.github.com/kprotty/bb26b963441baf2ab3486a07fbf4762e)

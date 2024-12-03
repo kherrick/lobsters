@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 * [2024-12-03, 07:09:45](https://lobste.rs/s/hq38kv/sql_best_practices_don_t_compare_count) - [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
 * [2024-12-03, 03:11:16](https://lobste.rs/s/pklear/mangl_enhanced_man_page_viewer_for_linux) - [mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries](Https://github.com/zigalenarcic/mangl)
 * [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
