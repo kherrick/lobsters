@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-12-03, 20:00:39](https://lobste.rs/s/7jnfbr/when_postgres_is_not_enough_postgresql_vs) - [When Postgres is not enough: PostgreSQL vs YDB](https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31)
+* [2024-12-03, 19:47:01](https://lobste.rs/s/0rsd7r/amazon_s3_tables) - [Amazon S3 Tables](https://aws.amazon.com/about-aws/whats-new/2024/12/amazon-s3-tables-apache-iceberg-tables-analytics-workloads/)
 * [2024-12-03, 19:41:04](https://lobste.rs/s/cglycl/why_go_slices_still_surprise_me) - [Why Go slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
-* [2024-12-03, 18:24:05](https://lobste.rs/s/8sxcx5/database_llmops_genai_implementation) - [Database of LLMOps and GenAI implementation and architecture notes](https://www.zenml.io/llmops-database)
 * [2024-12-03, 16:39:00](https://lobste.rs/s/vbyewg/thoughts_on_duckdb_s_grammar_patching) - [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
 * [2024-12-03, 15:52:53](https://lobste.rs/s/h1mpdv/atari_floppy_disk_copy_protection) - [Atari Floppy Disk Copy Protection](http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf)
 * [2024-12-03, 14:44:50](https://lobste.rs/s/zkrhly/designing_wild_s_incremental_linking) - [Designing Wild's incremental linking](https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html)
