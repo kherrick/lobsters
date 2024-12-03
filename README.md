@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-03, 01:48:50](https://lobste.rs/s/wvpfzr/union_types_would_be_complicated_go) - [Union types would be complicated in Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities)
+* [2024-12-03, 01:11:46](https://lobste.rs/s/lsnkfy/run_simple_go_web_service_on_nixos) - [Run a Simple Go Web Service on NixOS](https://mtlynch.io/notes/simple-go-web-service-nixos/)
 * [2024-12-03, 00:19:41](https://lobste.rs/s/nmglmi/freebsd_14_2_release_announcement) - [FreeBSD 14.2-RELEASE Announcement](https://www.freebsd.org/releases/14.2R/announce/)
 * [2024-12-03, 00:06:10](https://lobste.rs/s/mxe3lh/net_support_on_heroku) - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
-* [2024-12-02, 22:13:26](https://lobste.rs/s/8ve4to/hardest_part_exwm) - [The Hardest Part of EXWM](https://medium.com/@kkmvv/the-hardest-part-of-exwm-d952ef5ea5d6)
 * [2024-12-02, 22:06:02](https://lobste.rs/s/d9eebx/democratizing_software) - [Democratizing Software](https://wryl.tech/log/2024/democratizing-software.html)
 * [2024-12-02, 20:28:51](https://lobste.rs/s/72sauo/legacy_safety_wroclaw_c_meeting) - [Legacy Safety: The Wrocław C++ Meeting](https://cor3ntin.github.io/posts/profiles/)
 * [2024-12-02, 19:31:56](https://lobste.rs/s/zh0bqb/new_features_linux_6_10_contributed_by) - [New features in Linux 6.10 contributed by Pernosco](https://pernos.co/blog/linux-kernel-additions/)
@@ -21,7 +22,6 @@
 * [2024-12-02, 03:23:15](https://lobste.rs/s/ici6ek/bicameral_not_homoiconic) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 * [2024-12-02, 03:08:44](https://lobste.rs/s/hxerht/raii_rust_linux_drama) - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
 * [2024-12-01, 22:18:02](https://lobste.rs/s/cgrpmd/category_theory_programming) - [Category Theory in Programming](https://docs.racket-lang.org/ctp/index.html)
-* [2024-12-01, 20:42:53](https://lobste.rs/s/58jah7/what_implementation_independent_test) - [What implementation-independent test file formats exist for language tooling?](https://lobste.rs/s/58jah7/what_implementation_independent_test)
 * [2024-12-01, 16:09:04](https://lobste.rs/s/axjhi5/building_distributed_log_using_s3_under) - [Building a distributed log using S3 (under 150 lines of Go)](https://avi.im/blag/2024/s3-log/)
 * [2024-12-01, 15:28:52](https://lobste.rs/s/vfxwdp/fascinating_security_model_dark_web) - [The fascinating security model of dark web marketplaces](https://boehs.org/node/dark-web-security)
 * [2024-12-01, 07:41:32](https://lobste.rs/s/0ve0gt/brazilian_ca_issues_google_com) - [Brazilian CA issues google.com certificate](https://bugzilla.mozilla.org/show_bug.cgi?id=1934361)
