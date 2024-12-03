@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 16:39:00](https://lobste.rs/s/vbyewg/thoughts_on_duckdb_s_grammar_patching) - [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
 * [2024-12-03, 15:52:53](https://lobste.rs/s/h1mpdv/atari_floppy_disk_copy_protection) - [Atari Floppy Disk Copy Protection](http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf)
 * [2024-12-03, 14:44:50](https://lobste.rs/s/zkrhly/designing_wild_s_incremental_linking) - [Designing Wild's incremental linking](https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html)
 * [2024-12-03, 14:08:55](https://lobste.rs/s/w0emln/faster_reads_same_guarantees) - [Faster Reads, Same Guarantees: Linearizable Consistency](https://philipotoole.com/faster-reads-same-guarantees-linearizable-consistency-in-rqlite-8-32/)
