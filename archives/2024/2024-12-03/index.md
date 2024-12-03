@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 15:52:53](https://lobste.rs/s/h1mpdv/atari_floppy_disk_copy_protection) - [Atari Floppy Disk Copy Protection](http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf)
+* [2024-12-03, 14:44:50](https://lobste.rs/s/zkrhly/designing_wild_s_incremental_linking) - [Designing Wild's incremental linking](https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html)
 * [2024-12-03, 14:08:55](https://lobste.rs/s/w0emln/faster_reads_same_guarantees) - [Faster Reads, Same Guarantees: Linearizable Consistency](https://philipotoole.com/faster-reads-same-guarantees-linearizable-consistency-in-rqlite-8-32/)
 * [2024-12-03, 14:08:00](https://lobste.rs/s/chhwrg/markwhen_markdown_for_timelines) - [Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-03, 14:06:35](https://lobste.rs/s/dnc5e0/debian_on_mellanox_sn2700_32x100g_2023) - [Debian on Mellanox SN2700 (32x100G) (2023)](https://ipng.ch/s/articles/2023/11/11/debian-on-mellanox-sn2700-32x100g/)
