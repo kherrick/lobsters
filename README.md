@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 09:27:40](https://lobste.rs/s/l0rgsa/domains_listening_many_other_domains) - [Domains listening to many other domains in Event-Driven Architecture](https://www.reactivesystems.eu/2024/11/30/not-all-commands-are-equal.html)
 * [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 * [2024-12-03, 07:09:45](https://lobste.rs/s/hq38kv/sql_best_practices_don_t_compare_count) - [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
@@ -12,7 +13,6 @@
 * [2024-12-03, 00:06:10](https://lobste.rs/s/mxe3lh/net_support_on_heroku) - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
 * [2024-12-02, 22:06:02](https://lobste.rs/s/d9eebx/democratizing_software) - [Democratizing Software](https://wryl.tech/log/2024/democratizing-software.html)
 * [2024-12-02, 20:28:51](https://lobste.rs/s/72sauo/legacy_safety_wroclaw_c_meeting) - [Legacy Safety: The Wrocław C++ Meeting](https://cor3ntin.github.io/posts/profiles/)
-* [2024-12-02, 19:31:56](https://lobste.rs/s/zh0bqb/new_features_linux_6_10_contributed_by) - [New features in Linux 6.10 contributed by Pernosco](https://pernos.co/blog/linux-kernel-additions/)
 * [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
 * [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
 * [2024-12-02, 14:18:52](https://lobste.rs/s/xmeynf/containerscript_firefox_addon_for) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
