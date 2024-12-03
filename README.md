@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-03, 13:48:09](https://lobste.rs/s/l1gurv/emacsconf_2024) - [EmacsConf 2024](https://emacsconf.org/2024/)
+* [2024-12-03, 14:08:55](https://lobste.rs/s/w0emln/faster_reads_same_guarantees) - [Faster Reads, Same Guarantees: Linearizable Consistency](https://philipotoole.com/faster-reads-same-guarantees-linearizable-consistency-in-rqlite-8-32/)
+* [2024-12-03, 14:08:00](https://lobste.rs/s/chhwrg/markwhen_markdown_for_timelines) - [Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-03, 12:46:16](https://lobste.rs/s/wceoqb/implementing_async_apis_for) - [Implementing async APIs for microcontroller peripherals](https://beaurivage.io/atsamd-hal-async/)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
@@ -12,7 +13,6 @@
 * [2024-12-03, 03:11:16](https://lobste.rs/s/pklear/mangl_enhanced_man_page_viewer_for_linux) - [mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries](Https://github.com/zigalenarcic/mangl)
 * [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
 * [2024-12-03, 02:49:29](https://lobste.rs/s/r5bme3/distributed_erlang) - [Distributed Erlang](https://vereis.com/posts/disterl_inbox)
-* [2024-12-03, 01:48:50](https://lobste.rs/s/wvpfzr/union_types_would_be_complicated_go) - [Union types would be complicated in Go](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesComplexities)
 * [2024-12-03, 01:11:46](https://lobste.rs/s/lsnkfy/run_simple_go_web_service_on_nixos) - [Run a Simple Go Web Service on NixOS](https://mtlynch.io/notes/simple-go-web-service-nixos/)
 * [2024-12-03, 00:19:41](https://lobste.rs/s/nmglmi/freebsd_14_2_release_announcement) - [FreeBSD 14.2-RELEASE Announcement](https://www.freebsd.org/releases/14.2R/announce/)
 * [2024-12-03, 00:06:10](https://lobste.rs/s/mxe3lh/net_support_on_heroku) - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)

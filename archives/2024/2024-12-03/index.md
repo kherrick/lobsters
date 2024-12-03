@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 14:08:55](https://lobste.rs/s/w0emln/faster_reads_same_guarantees) - [Faster Reads, Same Guarantees: Linearizable Consistency](https://philipotoole.com/faster-reads-same-guarantees-linearizable-consistency-in-rqlite-8-32/)
+* [2024-12-03, 14:08:00](https://lobste.rs/s/chhwrg/markwhen_markdown_for_timelines) - [Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-03, 13:48:09](https://lobste.rs/s/l1gurv/emacsconf_2024) - [EmacsConf 2024](https://emacsconf.org/2024/)
 * [2024-12-03, 13:34:17](https://lobste.rs/s/irtihv/performance_archaeology_olap) - [Performance archaeology: OLAP](https://vondra.me/posts/postgres-performance-archaeology-olap/)
 * [2024-12-03, 12:46:16](https://lobste.rs/s/wceoqb/implementing_async_apis_for) - [Implementing async APIs for microcontroller peripherals](https://beaurivage.io/atsamd-hal-async/)
