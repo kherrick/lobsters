@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-12-03, 14:08:55](https://lobste.rs/s/w0emln/faster_reads_same_guarantees) - [Faster Reads, Same Guarantees: Linearizable Consistency](https://philipotoole.com/faster-reads-same-guarantees-linearizable-consistency-in-rqlite-8-32/)
+* [2024-12-03, 14:08:00](https://lobste.rs/s/chhwrg/markwhen_markdown_for_timelines) - [Markwhen: Markdown for Timelines](https://markwhen.com)
 * [2024-12-03, 14:06:35](https://lobste.rs/s/dnc5e0/debian_on_mellanox_sn2700_32x100g_2023) - [Debian on Mellanox SN2700 (32x100G) (2023)](https://ipng.ch/s/articles/2023/11/11/debian-on-mellanox-sn2700-32x100g/)
-* [2024-12-03, 13:34:17](https://lobste.rs/s/irtihv/performance_archaeology_olap) - [Performance archaeology: OLAP](https://vondra.me/posts/postgres-performance-archaeology-olap/)
 * [2024-12-03, 13:13:24](https://lobste.rs/s/pyonpj/next_generation_heroku_platform) - [The Next Generation of the Heroku Platform](https://blog.heroku.com/next-generation-heroku-platform)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
