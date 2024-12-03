@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
+* [2024-12-03, 11:39:32](https://lobste.rs/s/yrszwh/evolving_my_ergonomic_setup_my_laptop) - [Evolving my ergonomic setup (or, my laptop with extra steps) | nicole@web](https://ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 09:27:40](https://lobste.rs/s/l0rgsa/domains_listening_many_other_domains) - [Domains listening to many other domains in Event-Driven Architecture](https://www.reactivesystems.eu/2024/11/30/not-all-commands-are-equal.html)
 * [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
@@ -20,11 +22,9 @@
 * [2024-12-02, 13:23:37](https://lobste.rs/s/ddwc2p/keylogger_using_ebpf) - [A KeyLogger using eBPF](https://github.com/pythops/tamanoir)
 * [2024-12-02, 11:55:29](https://lobste.rs/s/8qpaxz/atomics_for_humans) - [Atomics for Humans](https://gist.github.com/kprotty/bb26b963441baf2ab3486a07fbf4762e)
 * [2024-12-02, 11:04:54](https://lobste.rs/s/3ejy1k/linux_kernel_driver_interface) - [The Linux Kernel Driver Interface](https://www.kernel.org/doc/Documentation/process/stable-api-nonsense.rst)
-* [2024-12-02, 10:29:53](https://lobste.rs/s/auqekq/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/auqekq/what_are_you_doing_this_week)
 * [2024-12-02, 07:00:37](https://lobste.rs/s/ttvimn/you_have_one_voice) - [You Have One Voice](https://hazelweakly.me/blog/you-have-one-voice/)
 * [2024-12-02, 03:23:15](https://lobste.rs/s/ici6ek/bicameral_not_homoiconic) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 * [2024-12-02, 03:08:44](https://lobste.rs/s/hxerht/raii_rust_linux_drama) - [RAII and the Rust/Linux Drama](https://kristoff.it/blog/raii-rust-linux/)
-* [2024-12-01, 15:28:52](https://lobste.rs/s/vfxwdp/fascinating_security_model_dark_web) - [The fascinating security model of dark web marketplaces](https://boehs.org/node/dark-web-security)
 
 ## [Archives](archives/index.md)
 
