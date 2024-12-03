@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-12-03, 20:00:39](https://lobste.rs/s/7jnfbr/when_postgres_is_not_enough_postgresql_vs) - [When Postgres is not enough: PostgreSQL vs YDB](https://blog.ydb.tech/when-postgres-is-not-enough-performance-evaluation-of-postgresql-vs-distributed-dbmss-23bf39db2d31)
+* [2024-12-03, 19:41:04](https://lobste.rs/s/cglycl/why_go_slices_still_surprise_me) - [Why Go slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
 * [2024-12-03, 18:24:05](https://lobste.rs/s/8sxcx5/database_llmops_genai_implementation) - [Database of LLMOps and GenAI implementation and architecture notes](https://www.zenml.io/llmops-database)
 * [2024-12-03, 16:39:00](https://lobste.rs/s/vbyewg/thoughts_on_duckdb_s_grammar_patching) - [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
 * [2024-12-03, 15:52:53](https://lobste.rs/s/h1mpdv/atari_floppy_disk_copy_protection) - [Atari Floppy Disk Copy Protection](http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf)
@@ -12,7 +13,6 @@
 * [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
 * [2024-12-03, 11:39:32](https://lobste.rs/s/yrszwh/evolving_my_ergonomic_setup_my_laptop) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://ntietz.com/blog/evolving-ergo-setup/)
 * [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
-* [2024-12-03, 09:27:40](https://lobste.rs/s/l0rgsa/domains_listening_many_other_domains) - [Domains listening to many other domains in Event-Driven Architecture](https://www.reactivesystems.eu/2024/11/30/not-all-commands-are-equal.html)
 * [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 * [2024-12-03, 07:09:45](https://lobste.rs/s/hq38kv/sql_best_practices_don_t_compare_count) - [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
 * [2024-12-03, 03:11:16](https://lobste.rs/s/pklear/mangl_enhanced_man_page_viewer_for_linux) - [mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries](Https://github.com/zigalenarcic/mangl)
