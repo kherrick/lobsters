@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2024-12-02, 19:31:56",
+      "https://lobste.rs/s/zh0bqb/new_features_linux_6_10_contributed_by"
+    ],
+    [
+      "New features in Linux 6.10 contributed by Pernosco",
+      "https://pernos.co/blog/linux-kernel-additions/"
+    ]
+  ],
+  [
+    [
       "2024-12-02, 19:07:53",
       "https://lobste.rs/s/xhpmdo/breakout_decker_three_ways"
     ],
@@ -227,16 +237,6 @@
     [
       "RAII and the Rust/Linux Drama",
       "https://kristoff.it/blog/raii-rust-linux/"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 16:09:04",
-      "https://lobste.rs/s/axjhi5/building_distributed_log_using_s3_under"
-    ],
-    [
-      "Building a distributed log using S3 (under 150 lines of Go)",
-      "https://avi.im/blag/2024/s3-log/"
     ]
   ],
   [
