@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-03, 07:09:45](https://lobste.rs/s/hq38kv/sql_best_practices_don_t_compare_count) - [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
 * [2024-12-03, 03:11:16](https://lobste.rs/s/pklear/mangl_enhanced_man_page_viewer_for_linux) - [mangl: An enhanced man page viewer for linux and BSD systems based on OpenGL and mandoc libraries](Https://github.com/zigalenarcic/mangl)
 * [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
 * [2024-12-03, 02:49:29](https://lobste.rs/s/r5bme3/distributed_erlang) - [Distributed Erlang](https://vereis.com/posts/disterl_inbox)
@@ -12,7 +13,6 @@
 * [2024-12-02, 19:31:56](https://lobste.rs/s/zh0bqb/new_features_linux_6_10_contributed_by) - [New features in Linux 6.10 contributed by Pernosco](https://pernos.co/blog/linux-kernel-additions/)
 * [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
 * [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
-* [2024-12-02, 16:22:25](https://lobste.rs/s/bxreiq/macros_dart) - [Macros in Dart](https://github.com/dart-lang/language/blob/main/working/macros/feature-specification.md)
 * [2024-12-02, 14:18:52](https://lobste.rs/s/xmeynf/containerscript_firefox_addon_for) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
 * [2024-12-02, 14:09:05](https://lobste.rs/s/x5snit/sqlite_index_visualization_search) - [SQLite Index Visualization: Search](https://mrsuh.com/articles/2024/sqlite-index-visualization-search/)
 * [2024-12-02, 14:03:54](https://lobste.rs/s/r3dfxy/experimenting_with_rust_nix_k6_parca) - [Experimenting with Rust, Nix, K6 and Parca](https://jnsgr.uk/2024/12/experiments-with-rust-nix-k6-parca/)
