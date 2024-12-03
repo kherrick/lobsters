@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-03, 18:24:05](https://lobste.rs/s/8sxcx5/database_llmops_genai_implementation) - [Database of LLMOps and GenAI implementation and architecture notes](https://www.zenml.io/llmops-database)
 * [2024-12-03, 16:39:00](https://lobste.rs/s/vbyewg/thoughts_on_duckdb_s_grammar_patching) - [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
 * [2024-12-03, 15:52:53](https://lobste.rs/s/h1mpdv/atari_floppy_disk_copy_protection) - [Atari Floppy Disk Copy Protection](http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf)
 * [2024-12-03, 14:44:50](https://lobste.rs/s/zkrhly/designing_wild_s_incremental_linking) - [Designing Wild's incremental linking](https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html)
@@ -24,7 +25,6 @@
 * [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
 * [2024-12-02, 14:18:52](https://lobste.rs/s/xmeynf/containerscript_firefox_addon_for) - [ContainerScript: Firefox Addon for programmatically assigning URLs to containers](https://github.com/icholy/ContainerScript)
 * [2024-12-02, 14:03:54](https://lobste.rs/s/r3dfxy/experimenting_with_rust_nix_k6_parca) - [Experimenting with Rust, Nix, K6 and Parca](https://jnsgr.uk/2024/12/experiments-with-rust-nix-k6-parca/)
-* [2024-12-02, 13:23:37](https://lobste.rs/s/ddwc2p/keylogger_using_ebpf) - [A KeyLogger using eBPF](https://github.com/pythops/tamanoir)
 
 ## [Archives](archives/index.md)
 
