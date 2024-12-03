@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-03](index.md)
 
+* [2024-12-03, 13:34:17](https://lobste.rs/s/irtihv/performance_archaeology_olap) - [Performance archaeology: OLAP](https://vondra.me/posts/postgres-performance-archaeology-olap/)
+* [2024-12-03, 12:46:16](https://lobste.rs/s/wceoqb/implementing_async_apis_for) - [Implementing async APIs for microcontroller peripherals](https://beaurivage.io/atsamd-hal-async/)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
 * [2024-12-03, 11:39:32](https://lobste.rs/s/yrszwh/evolving_my_ergonomic_setup_my_laptop) - [Evolving my ergonomic setup (or, my laptop with extra steps) | nicole@web](https://ntietz.com/blog/evolving-ergo-setup/)

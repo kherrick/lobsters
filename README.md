@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-03, 13:34:17](https://lobste.rs/s/irtihv/performance_archaeology_olap) - [Performance archaeology: OLAP](https://vondra.me/posts/postgres-performance-archaeology-olap/)
+* [2024-12-03, 12:46:16](https://lobste.rs/s/wceoqb/implementing_async_apis_for) - [Implementing async APIs for microcontroller peripherals](https://beaurivage.io/atsamd-hal-async/)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
 * [2024-12-03, 11:39:32](https://lobste.rs/s/yrszwh/evolving_my_ergonomic_setup_my_laptop) - [Evolving my ergonomic setup (or, my laptop with extra steps)](https://ntietz.com/blog/evolving-ergo-setup/)
@@ -23,8 +25,6 @@
 * [2024-12-02, 13:23:37](https://lobste.rs/s/ddwc2p/keylogger_using_ebpf) - [A KeyLogger using eBPF](https://github.com/pythops/tamanoir)
 * [2024-12-02, 11:55:29](https://lobste.rs/s/8qpaxz/atomics_for_humans) - [Atomics for Humans](https://gist.github.com/kprotty/bb26b963441baf2ab3486a07fbf4762e)
 * [2024-12-02, 11:04:54](https://lobste.rs/s/3ejy1k/linux_kernel_driver_interface) - [The Linux Kernel Driver Interface](https://www.kernel.org/doc/Documentation/process/stable-api-nonsense.rst)
-* [2024-12-02, 07:00:37](https://lobste.rs/s/ttvimn/you_have_one_voice) - [You Have One Voice](https://hazelweakly.me/blog/you-have-one-voice/)
-* [2024-12-02, 03:23:15](https://lobste.rs/s/ici6ek/bicameral_not_homoiconic) - [Bicameral, Not Homoiconic](https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/)
 
 ## [Archives](archives/index.md)
 
