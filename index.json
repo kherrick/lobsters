@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-03, 00:19:41",
+      "https://lobste.rs/s/nmglmi/freebsd_14_2_release_announcement"
+    ],
+    [
+      "FreeBSD 14.2-RELEASE Announcement",
+      "https://www.freebsd.org/releases/14.2R/announce/"
+    ]
+  ],
+  [
+    [
+      "2024-12-03, 00:06:10",
+      "https://lobste.rs/s/mxe3lh/net_support_on_heroku"
+    ],
+    [
+      ".NET Support on Heroku",
+      "https://blog.heroku.com/dotnet-support-on-heroku"
+    ]
+  ],
+  [
+    [
       "2024-12-02, 22:13:26",
       "https://lobste.rs/s/8ve4to/hardest_part_exwm"
     ],
@@ -47,16 +67,6 @@
     [
       "Breakout in Decker, Three Ways",
       "http://beyondloom.com/blog/breakout.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 16:58:03",
-      "https://lobste.rs/s/sa4e0n/qt_for_mcus_2_9_released_now_also_runs_on"
-    ],
-    [
-      "Qt for MCUs 2.9 Released, now also runs on regular Linux",
-      "https://www.qt.io/blog/qt-for-mcus-2.9-released"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The fascinating security model of dark web marketplaces",
       "https://boehs.org/node/dark-web-security"
-    ]
-  ],
-  [
-    [
-      "2024-12-01, 15:13:42",
-      "https://lobste.rs/s/pvzoa7/7_databases_7_weeks_for_2025"
-    ],
-    [
-      "7 Databases in 7 Weeks for 2025",
-      "https://matt.blwt.io/post/7-databases-in-7-weeks-for-2025/"
     ]
   ],
   [
