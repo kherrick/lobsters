@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-03, 12:14:25",
+      "https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i"
+    ],
+    [
+      "Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ",
+      "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 11:41:37",
       "https://lobste.rs/s/inctsi/how_playstation_graphics_visual"
     ],
@@ -237,16 +247,6 @@
     [
       "Bicameral, Not Homoiconic",
       "https://parentheticallyspeaking.org/articles/bicameral-not-homoiconic/"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 03:08:44",
-      "https://lobste.rs/s/hxerht/raii_rust_linux_drama"
-    ],
-    [
-      "RAII and the Rust/Linux Drama",
-      "https://kristoff.it/blog/raii-rust-linux/"
     ]
   ]
 ]
