@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 17:13:14](https://lobste.rs/s/ul66rz/dsql_vignette_reads_compute) - [DSQL Vignette: Reads and Compute](https://brooker.co.za/blog/2024/12/04/inside-dsql.html)
 * [2024-12-04, 16:30:46](https://lobste.rs/s/8s6bvt/pymyflyspy_track_your_flight_using_its) - [PyMyFlySpy: track your flight using its headrest data](https://robertheaton.com/pymyflyspy/)
 * [2024-12-04, 16:04:30](https://lobste.rs/s/vmxaoy/why_i_hate_language_benchmarks) - [Why I Hate Language Benchmarks](https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/)
 * [2024-12-04, 13:49:10](https://lobste.rs/s/yqjtvy/cloud_container_iceberg) - [The Cloud Container Iceberg](https://www.pulumi.com/blog/cursed-container-iceberg/)

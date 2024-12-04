@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 17:13:14](https://lobste.rs/s/ul66rz/dsql_vignette_reads_compute) - [DSQL Vignette: Reads and Compute](https://brooker.co.za/blog/2024/12/04/inside-dsql.html)
 * [2024-12-04, 16:30:46](https://lobste.rs/s/8s6bvt/pymyflyspy_track_your_flight_using_its) - [PyMyFlySpy: track your flight using its headrest data](https://robertheaton.com/pymyflyspy/)
 * [2024-12-04, 16:04:30](https://lobste.rs/s/vmxaoy/why_i_hate_language_benchmarks) - [Why I Hate Language Benchmarks](https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/)
 * [2024-12-04, 13:49:10](https://lobste.rs/s/yqjtvy/cloud_container_iceberg) - [The Cloud Container Iceberg](https://www.pulumi.com/blog/cursed-container-iceberg/)
 * [2024-12-04, 13:42:18](https://lobste.rs/s/o5cgzd/computational_murk) - [Computational murk](https://alexey.radul.name/ideas/2019/computational-murk/)
 * [2024-12-04, 13:41:32](https://lobste.rs/s/yy9dim/art_propagator) - [The Art of the Propagator](https://dspace.mit.edu/handle/1721.1/44215)
 * [2024-12-04, 12:24:23](https://lobste.rs/s/lnnkmd/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
-* [2024-12-04, 12:04:40](https://lobste.rs/s/bqnpaj/21_algol_60_compilers_1962) - [21 Algol 60 compilers in 1962](https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/)
 * [2024-12-04, 11:42:33](https://lobste.rs/s/ofrewc/memorydb_speed_durability_composition) - [MemoryDB: Speed, Durability, and Composition](https://brooker.co.za/blog/2024/04/25/memorydb.html)
 * [2024-12-04, 11:25:18](https://lobste.rs/s/h667uz/tube_computer_wall_mounted_8_bit_homebrew) - [The Tube Computer: wall-mounted 8-bit homebrew computer from vintage thermionic valves](https://www.thetubecomputer.com/)
 * [2024-12-04, 10:12:20](https://lobste.rs/s/bnrm1s/linux_tcp_so_reuseport_usage) - [Linux TCP SO_REUSEPORT: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
