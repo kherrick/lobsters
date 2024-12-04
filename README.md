@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 03:38:51](https://lobste.rs/s/7hucug/certificate_authorities_fragility) - [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
 * [2024-12-04, 00:43:32](https://lobste.rs/s/hawsmb/brief_introduction_oci_containers_on) - [A Brief Introduction to OCI Containers on FreeBSD](https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers)
 * [2024-12-04, 00:34:37](https://lobste.rs/s/fcfhec/rust9x_update_rust_1_84_0_beta) - [Rust9x update: Rust 1.84.0-beta](https://seri.tools/blog/rust9x-1-84/)
 * [2024-12-03, 23:00:16](https://lobste.rs/s/dflimq/precomputation) - [Precomputation](https://jamesg.blog/2024/11/01/precomputation/)
@@ -24,7 +25,6 @@
 * [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
 * [2024-12-03, 00:06:10](https://lobste.rs/s/mxe3lh/net_support_on_heroku) - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
 * [2024-12-02, 20:28:51](https://lobste.rs/s/72sauo/legacy_safety_wroclaw_c_meeting) - [Legacy Safety: The Wrocław C++ Meeting](https://cor3ntin.github.io/posts/profiles/)
-* [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
 
 ## [Archives](archives/index.md)
 
