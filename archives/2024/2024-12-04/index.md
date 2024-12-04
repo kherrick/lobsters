@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 07:37:04](https://lobste.rs/s/kpxqsd/transferring_python_build_standalone) - [Transferring Python Build Standalone Stewardship to Astral](https://gregoryszorc.com/blog/2024/12/03/transferring-python-build-standalone-stewardship-to-astral/)
 * [2024-12-04, 07:08:49](https://lobste.rs/s/0ce52u/dsql_vignette_aurora_dsql_personal_story) - [DSQL Vignette: Aurora DSQL, and A Personal Story](https://brooker.co.za/blog/2024/12/03/aurora-dsql.html)
 * [2024-12-04, 03:42:04](https://lobste.rs/s/ofcewz/egoless_engineering) - [Egoless Engineering](https://egoless.engineering/)
 * [2024-12-04, 03:38:51](https://lobste.rs/s/7hucug/certificate_authorities_fragility) - [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)

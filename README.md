@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 07:37:04](https://lobste.rs/s/kpxqsd/transferring_python_build_standalone) - [Transferring Python Build Standalone Stewardship to Astral](https://gregoryszorc.com/blog/2024/12/03/transferring-python-build-standalone-stewardship-to-astral/)
 * [2024-12-04, 07:08:49](https://lobste.rs/s/0ce52u/dsql_vignette_aurora_dsql_personal_story) - [DSQL Vignette: Aurora DSQL, and A Personal Story](https://brooker.co.za/blog/2024/12/03/aurora-dsql.html)
 * [2024-12-04, 03:42:04](https://lobste.rs/s/ofcewz/egoless_engineering) - [Egoless Engineering](https://egoless.engineering/)
 * [2024-12-04, 03:38:51](https://lobste.rs/s/7hucug/certificate_authorities_fragility) - [Certificate Authorities and the Fragility of Internet Safety](https://azeemba.com/posts/certificate-authorities-and-the-fragility-of-internet-safety.html)
@@ -15,7 +16,6 @@
 * [2024-12-03, 16:39:00](https://lobste.rs/s/vbyewg/thoughts_on_duckdb_s_grammar_patching) - [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
 * [2024-12-03, 15:52:53](https://lobste.rs/s/h1mpdv/atari_floppy_disk_copy_protection) - [Atari Floppy Disk Copy Protection](http://info-coach.fr/atari/documents/_mydoc/Atari-Copy-Protection.pdf)
 * [2024-12-03, 14:44:50](https://lobste.rs/s/zkrhly/designing_wild_s_incremental_linking) - [Designing Wild's incremental linking](https://davidlattimore.github.io/posts/2024/11/19/designing-wilds-incremental-linking.html)
-* [2024-12-03, 14:06:35](https://lobste.rs/s/dnc5e0/debian_on_mellanox_sn2700_32x100g_2023) - [Debian on Mellanox SN2700 (32x100G) (2023)](https://ipng.ch/s/articles/2023/11/11/debian-on-mellanox-sn2700-32x100g/)
 * [2024-12-03, 13:13:24](https://lobste.rs/s/pyonpj/next_generation_heroku_platform) - [The Next Generation of the Heroku Platform](https://blog.heroku.com/next-generation-heroku-platform)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
