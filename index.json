@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-04, 00:43:32",
+      "https://lobste.rs/s/hawsmb/brief_introduction_oci_containers_on"
+    ],
+    [
+      "A Brief Introduction to OCI Containers on FreeBSD",
+      "https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 00:34:37",
+      "https://lobste.rs/s/fcfhec/rust9x_update_rust_1_84_0_beta"
+    ],
+    [
+      "Rust9x update: Rust 1.84.0-beta",
+      "https://seri.tools/blog/rust9x-1-84/"
+    ]
+  ],
+  [
+    [
       "2024-12-03, 23:00:16",
       "https://lobste.rs/s/dflimq/precomputation"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-12-03, 00:19:41",
-      "https://lobste.rs/s/nmglmi/freebsd_14_2_release_announcement"
-    ],
-    [
-      "FreeBSD 14.2-RELEASE Announcement",
-      "https://www.freebsd.org/releases/14.2R/announce/"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 00:06:10",
       "https://lobste.rs/s/mxe3lh/net_support_on_heroku"
     ],
@@ -237,16 +247,6 @@
     [
       "Breakout in Decker, Three Ways",
       "http://beyondloom.com/blog/breakout.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-02, 16:41:31",
-      "https://lobste.rs/s/yb4rvi/optimization_adventures_making"
-    ],
-    [
-      "Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)",
-      "https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html"
     ]
   ]
 ]
