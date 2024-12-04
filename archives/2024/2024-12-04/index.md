@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 20:17:02](https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres) - [Keyset Cursors, Not Offsets, for Postgres Pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
 * [2024-12-04, 19:55:29](https://lobste.rs/s/uteeck/full_stack_quantum_computing_from) - [Full-stack quantum computing, from hardware to compilers and algorithms](https://www.youtube.com/watch?v=xgmGK0_KyKc)
 * [2024-12-04, 18:05:23](https://lobste.rs/s/vlrfte/making_fun_flask_apps_for_no_reason) - [Making Fun Flask Apps for No Reason](https://matduggan.com/making-fun-flask-apps-for-no-reason/)
 * [2024-12-04, 18:04:38](https://lobste.rs/s/8fmrbw/first_impressions_new_amazon_nova_llms) - [First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/)

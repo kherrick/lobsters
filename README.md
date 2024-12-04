@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 20:17:02](https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres) - [Keyset Cursors, Not Offsets, for Postgres Pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
 * [2024-12-04, 19:55:29](https://lobste.rs/s/uteeck/full_stack_quantum_computing_from) - [Full-stack quantum computing, from hardware to compilers and algorithms](https://www.youtube.com/watch?v=xgmGK0_KyKc)
+* [2024-12-04, 18:05:23](https://lobste.rs/s/vlrfte/making_fun_flask_apps_for_no_reason) - [Making Fun Flask Apps for No Reason](https://matduggan.com/making-fun-flask-apps-for-no-reason/)
 * [2024-12-04, 18:04:38](https://lobste.rs/s/8fmrbw/first_impressions_new_amazon_nova_llms) - [First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/)
 * [2024-12-04, 16:30:46](https://lobste.rs/s/8s6bvt/pymyflyspy_track_your_flight_using_its) - [PyMyFlySpy: track your flight using its headrest data](https://robertheaton.com/pymyflyspy/)
 * [2024-12-04, 16:04:30](https://lobste.rs/s/vmxaoy/why_i_hate_language_benchmarks) - [Why I Hate Language Benchmarks](https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/)
@@ -13,7 +15,6 @@
 * [2024-12-04, 10:12:20](https://lobste.rs/s/bnrm1s/linux_tcp_so_reuseport_usage) - [Linux TCP SO_REUSEPORT: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
 * [2024-12-04, 09:30:50](https://lobste.rs/s/gecila/introducing_amazon_aurora_dsql) - [Introducing Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/introducing-amazon-aurora-dsql/)
 * [2024-12-04, 07:37:04](https://lobste.rs/s/kpxqsd/transferring_python_build_standalone) - [Transferring Python Build Standalone Stewardship to Astral](https://gregoryszorc.com/blog/2024/12/03/transferring-python-build-standalone-stewardship-to-astral/)
-* [2024-12-04, 07:08:49](https://lobste.rs/s/0ce52u/dsql_vignette_aurora_dsql_personal_story) - [DSQL Vignette: Aurora DSQL, and A Personal Story](https://brooker.co.za/blog/2024/12/03/aurora-dsql.html)
 * [2024-12-04, 03:42:04](https://lobste.rs/s/ofcewz/egoless_engineering) - [Egoless Engineering](https://egoless.engineering/)
 * [2024-12-04, 00:43:32](https://lobste.rs/s/hawsmb/brief_introduction_oci_containers_on) - [A Brief Introduction to OCI Containers on FreeBSD](https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers)
 * [2024-12-04, 00:34:37](https://lobste.rs/s/fcfhec/rust9x_update_rust_1_84_0_beta) - [Rust9x update: Rust 1.84.0-beta](https://seri.tools/blog/rust9x-1-84/)
@@ -24,7 +25,6 @@
 * [2024-12-03, 19:41:04](https://lobste.rs/s/cglycl/why_go_slices_still_surprise_me) - [Why Go slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
-* [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
 
 ## [Archives](archives/index.md)
 
