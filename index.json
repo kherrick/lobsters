@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-04, 16:04:30",
+      "https://lobste.rs/s/vmxaoy/why_i_hate_language_benchmarks"
+    ],
+    [
+      "Why I Hate Language Benchmarks",
+      "https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 13:49:10",
       "https://lobste.rs/s/yqjtvy/cloud_container_iceberg"
     ],
@@ -37,6 +47,16 @@
     [
       "Speeding up Ruby by rewriting C in Ruby",
       "https://jpcamara.com/2024/12/01/speeding-up-ruby.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 12:04:40",
+      "https://lobste.rs/s/bqnpaj/21_algol_60_compilers_1962"
+    ],
+    [
+      "21 Algol 60 compilers in 1962",
+      "https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/"
     ]
   ],
   [
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-12-03, 13:13:24",
-      "https://lobste.rs/s/pyonpj/next_generation_heroku_platform"
-    ],
-    [
-      "The Next Generation of the Heroku Platform",
-      "https://blog.heroku.com/next-generation-heroku-platform"
-    ]
-  ],
-  [
-    [
       "2024-12-03, 12:14:25",
       "https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i"
     ],
@@ -227,16 +237,6 @@
     [
       "No NAT November: My Month Without IPv4",
       "https://blog.infected.systems/posts/2024-12-01-no-nat-november/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 07:57:51",
-      "https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell"
-    ],
-    [
-      "8 months of OCaml after 8 years of Haskell in production",
-      "https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html"
     ]
   ],
   [
