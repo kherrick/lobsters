@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 20:27:57](https://lobste.rs/s/5vzujx/complex_bug_with_simple_fix) - [A complex bug with a ⸢simple⸣ fix](https://blog.plover.com/prog/bug/timing.html)
 * [2024-12-04, 20:17:02](https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres) - [Keyset Cursors, Not Offsets, for Postgres Pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
 * [2024-12-04, 19:55:29](https://lobste.rs/s/uteeck/full_stack_quantum_computing_from) - [Full-stack quantum computing, from hardware to compilers and algorithms](https://www.youtube.com/watch?v=xgmGK0_KyKc)
 * [2024-12-04, 18:05:23](https://lobste.rs/s/vlrfte/making_fun_flask_apps_for_no_reason) - [Making Fun Flask Apps for No Reason](https://matduggan.com/making-fun-flask-apps-for-no-reason/)
@@ -13,7 +14,6 @@
 * [2024-12-04, 11:42:33](https://lobste.rs/s/ofrewc/memorydb_speed_durability_composition) - [MemoryDB: Speed, Durability, and Composition](https://brooker.co.za/blog/2024/04/25/memorydb.html)
 * [2024-12-04, 11:25:18](https://lobste.rs/s/h667uz/tube_computer_wall_mounted_8_bit_homebrew) - [The Tube Computer: wall-mounted 8-bit homebrew computer from vintage thermionic valves](https://www.thetubecomputer.com/)
 * [2024-12-04, 10:12:20](https://lobste.rs/s/bnrm1s/linux_tcp_so_reuseport_usage) - [Linux TCP SO_REUSEPORT: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
-* [2024-12-04, 09:30:50](https://lobste.rs/s/gecila/introducing_amazon_aurora_dsql) - [Introducing Amazon Aurora DSQL](https://aws.amazon.com/blogs/database/introducing-amazon-aurora-dsql/)
 * [2024-12-04, 07:37:04](https://lobste.rs/s/kpxqsd/transferring_python_build_standalone) - [Transferring Python Build Standalone Stewardship to Astral](https://gregoryszorc.com/blog/2024/12/03/transferring-python-build-standalone-stewardship-to-astral/)
 * [2024-12-04, 03:42:04](https://lobste.rs/s/ofcewz/egoless_engineering) - [Egoless Engineering](https://egoless.engineering/)
 * [2024-12-04, 00:43:32](https://lobste.rs/s/hawsmb/brief_introduction_oci_containers_on) - [A Brief Introduction to OCI Containers on FreeBSD](https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers)
