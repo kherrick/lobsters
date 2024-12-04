@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-04, 17:13:14",
-      "https://lobste.rs/s/ul66rz/dsql_vignette_reads_compute"
+      "2024-12-04, 18:05:23",
+      "https://lobste.rs/s/vlrfte/making_fun_flask_apps_for_no_reason"
     ],
     [
-      "DSQL Vignette: Reads and Compute",
-      "https://brooker.co.za/blog/2024/12/04/inside-dsql.html"
+      "Making Fun Flask Apps for No Reason",
+      "https://matduggan.com/making-fun-flask-apps-for-no-reason/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 18:04:38",
+      "https://lobste.rs/s/8fmrbw/first_impressions_new_amazon_nova_llms"
+    ],
+    [
+      "First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)",
+      "https://simonwillison.net/2024/Dec/4/amazon-nova/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Why Go slices still surprise me",
       "https://build-your-own.org/blog/20241125_go_slice_surprise/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 16:39:00",
-      "https://lobste.rs/s/vbyewg/thoughts_on_duckdb_s_grammar_patching"
-    ],
-    [
-      "Thoughts on DuckDB's Grammar Patching Thing",
-      "https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/"
     ]
   ],
   [
