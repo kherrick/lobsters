@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 23:44:20](https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages) - [Praise to scdoc to generate man pages](https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/)
 * [2024-12-04, 21:30:17](https://lobste.rs/s/evcc50/hoare_cube) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 20:27:57](https://lobste.rs/s/5vzujx/complex_bug_with_simple_fix) - [A complex bug with a ⸢simple⸣ fix](https://blog.plover.com/prog/bug/timing.html)
 * [2024-12-04, 20:17:02](https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres) - [Keyset Cursors, Not Offsets, for Postgres Pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
@@ -24,7 +25,6 @@
 * [2024-12-03, 22:02:59](https://lobste.rs/s/7cp1y5/phoenix_liveview_1_0_0_is_here_phoenix_blog) - [Phoenix LiveView 1.0.0 is here! - Phoenix Blog](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-12-03, 19:41:04](https://lobste.rs/s/cglycl/why_go_slices_still_surprise_me) - [Why Go slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
-* [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 
 ## [Archives](archives/index.md)
 

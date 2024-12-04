@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 23:44:20](https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages) - [Praise to scdoc to generate man pages](https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/)
 * [2024-12-04, 21:30:17](https://lobste.rs/s/evcc50/hoare_cube) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 20:27:57](https://lobste.rs/s/5vzujx/complex_bug_with_simple_fix) - [A complex bug with a ⸢simple⸣ fix](https://blog.plover.com/prog/bug/timing.html)
 * [2024-12-04, 20:17:02](https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres) - [Keyset Cursors, Not Offsets, for Postgres Pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
