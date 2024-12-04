@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2024-12-04, 18:05:23",
-      "https://lobste.rs/s/vlrfte/making_fun_flask_apps_for_no_reason"
-    ],
-    [
-      "Making Fun Flask Apps for No Reason",
-      "https://matduggan.com/making-fun-flask-apps-for-no-reason/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 18:04:38",
       "https://lobste.rs/s/8fmrbw/first_impressions_new_amazon_nova_llms"
     ],
@@ -137,6 +127,16 @@
     [
       "Linux TCP SO_REUSEPORT: Usage and Implementation",
       "https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 09:30:50",
+      "https://lobste.rs/s/gecila/introducing_amazon_aurora_dsql"
+    ],
+    [
+      "Introducing Amazon Aurora DSQL",
+      "https://aws.amazon.com/blogs/database/introducing-amazon-aurora-dsql/"
     ]
   ],
   [
