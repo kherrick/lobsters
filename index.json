@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-04, 23:44:20",
+      "https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages"
+    ],
+    [
+      "Praise to scdoc to generate man pages",
+      "https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 21:30:17",
       "https://lobste.rs/s/evcc50/hoare_cube"
     ],
@@ -237,16 +247,6 @@
     [
       "Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ",
       "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 11:32:37",
-      "https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4"
-    ],
-    [
-      "No NAT November: My Month Without IPv4",
-      "https://blog.infected.systems/posts/2024-12-01-no-nat-november/"
     ]
   ]
 ]
