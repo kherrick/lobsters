@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 00:43:32](https://lobste.rs/s/hawsmb/brief_introduction_oci_containers_on) - [A Brief Introduction to OCI Containers on FreeBSD](https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers)
+* [2024-12-04, 00:34:37](https://lobste.rs/s/fcfhec/rust9x_update_rust_1_84_0_beta) - [Rust9x update: Rust 1.84.0-beta](https://seri.tools/blog/rust9x-1-84/)
 * [2024-12-03, 23:00:16](https://lobste.rs/s/dflimq/precomputation) - [Precomputation](https://jamesg.blog/2024/11/01/precomputation/)
 * [2024-12-03, 22:26:09](https://lobste.rs/s/zydyoo/new_era_slop_security_reports_for_open) - [New era of slop security reports for open source](https://sethmlarson.dev/slop-security-reports)
 * [2024-12-03, 22:13:15](https://lobste.rs/s/v7we0e/return_procedural_programming) - [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw)
@@ -20,11 +22,9 @@
 * [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 * [2024-12-03, 07:09:45](https://lobste.rs/s/hq38kv/sql_best_practices_don_t_compare_count) - [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
 * [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
-* [2024-12-03, 00:19:41](https://lobste.rs/s/nmglmi/freebsd_14_2_release_announcement) - [FreeBSD 14.2-RELEASE Announcement](https://www.freebsd.org/releases/14.2R/announce/)
 * [2024-12-03, 00:06:10](https://lobste.rs/s/mxe3lh/net_support_on_heroku) - [.NET Support on Heroku](https://blog.heroku.com/dotnet-support-on-heroku)
 * [2024-12-02, 20:28:51](https://lobste.rs/s/72sauo/legacy_safety_wroclaw_c_meeting) - [Legacy Safety: The Wrocław C++ Meeting](https://cor3ntin.github.io/posts/profiles/)
 * [2024-12-02, 19:07:53](https://lobste.rs/s/xhpmdo/breakout_decker_three_ways) - [Breakout in Decker, Three Ways](http://beyondloom.com/blog/breakout.html)
-* [2024-12-02, 16:41:31](https://lobste.rs/s/yb4rvi/optimization_adventures_making) - [Optimization adventures: making a parallel Rust workload even faster with data-oriented design (and other tricks)](https://gendignoux.com/blog/2024/12/02/rust-data-oriented-design.html)
 
 ## [Archives](archives/index.md)
 
