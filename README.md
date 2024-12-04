@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-04, 17:13:14](https://lobste.rs/s/ul66rz/dsql_vignette_reads_compute) - [DSQL Vignette: Reads and Compute](https://brooker.co.za/blog/2024/12/04/inside-dsql.html)
+* [2024-12-04, 18:05:23](https://lobste.rs/s/vlrfte/making_fun_flask_apps_for_no_reason) - [Making Fun Flask Apps for No Reason](https://matduggan.com/making-fun-flask-apps-for-no-reason/)
+* [2024-12-04, 18:04:38](https://lobste.rs/s/8fmrbw/first_impressions_new_amazon_nova_llms) - [First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/)
 * [2024-12-04, 16:30:46](https://lobste.rs/s/8s6bvt/pymyflyspy_track_your_flight_using_its) - [PyMyFlySpy: track your flight using its headrest data](https://robertheaton.com/pymyflyspy/)
 * [2024-12-04, 16:04:30](https://lobste.rs/s/vmxaoy/why_i_hate_language_benchmarks) - [Why I Hate Language Benchmarks](https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/)
 * [2024-12-04, 13:49:10](https://lobste.rs/s/yqjtvy/cloud_container_iceberg) - [The Cloud Container Iceberg](https://www.pulumi.com/blog/cursed-container-iceberg/)
@@ -21,7 +22,6 @@
 * [2024-12-03, 22:13:15](https://lobste.rs/s/v7we0e/return_procedural_programming) - [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw)
 * [2024-12-03, 22:02:59](https://lobste.rs/s/7cp1y5/phoenix_liveview_1_0_0_is_here_phoenix_blog) - [Phoenix LiveView 1.0.0 is here! - Phoenix Blog](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-12-03, 19:41:04](https://lobste.rs/s/cglycl/why_go_slices_still_surprise_me) - [Why Go slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
-* [2024-12-03, 16:39:00](https://lobste.rs/s/vbyewg/thoughts_on_duckdb_s_grammar_patching) - [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
