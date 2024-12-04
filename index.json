@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2024-12-04, 11:42:33",
+      "https://lobste.rs/s/ofrewc/memorydb_speed_durability_composition"
+    ],
+    [
+      "MemoryDB: Speed, Durability, and Composition",
+      "https://brooker.co.za/blog/2024/04/25/memorydb.html"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 11:25:18",
       "https://lobste.rs/s/h667uz/tube_computer_wall_mounted_8_bit_homebrew"
     ],
@@ -167,16 +177,6 @@
     [
       "A Brief Introduction to OCI Containers on FreeBSD",
       "https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 00:34:37",
-      "https://lobste.rs/s/fcfhec/rust9x_update_rust_1_84_0_beta"
-    ],
-    [
-      "Rust9x update: Rust 1.84.0-beta",
-      "https://seri.tools/blog/rust9x-1-84/"
     ]
   ],
   [
