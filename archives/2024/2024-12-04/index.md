@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 16:04:30](https://lobste.rs/s/vmxaoy/why_i_hate_language_benchmarks) - [Why I Hate Language Benchmarks](https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/)
 * [2024-12-04, 13:49:10](https://lobste.rs/s/yqjtvy/cloud_container_iceberg) - [The Cloud Container Iceberg](https://www.pulumi.com/blog/cursed-container-iceberg/)
 * [2024-12-04, 13:42:18](https://lobste.rs/s/o5cgzd/computational_murk) - [Computational murk](https://alexey.radul.name/ideas/2019/computational-murk/)
 * [2024-12-04, 13:41:32](https://lobste.rs/s/yy9dim/art_propagator) - [The Art of the Propagator](https://dspace.mit.edu/handle/1721.1/44215)
