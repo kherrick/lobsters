@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-04](index.md)
 
+* [2024-12-04, 13:49:10](https://lobste.rs/s/yqjtvy/cloud_container_iceberg) - [The Cloud Container Iceberg](https://www.pulumi.com/blog/cursed-container-iceberg/)
 * [2024-12-04, 13:42:18](https://lobste.rs/s/o5cgzd/computational_murk) - [Computational murk](https://alexey.radul.name/ideas/2019/computational-murk/)
 * [2024-12-04, 13:41:32](https://lobste.rs/s/yy9dim/art_propagator) - [The Art of the Propagator](https://dspace.mit.edu/handle/1721.1/44215)
 * [2024-12-04, 12:24:23](https://lobste.rs/s/lnnkmd/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)

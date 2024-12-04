@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 13:49:10](https://lobste.rs/s/yqjtvy/cloud_container_iceberg) - [The Cloud Container Iceberg](https://www.pulumi.com/blog/cursed-container-iceberg/)
 * [2024-12-04, 13:42:18](https://lobste.rs/s/o5cgzd/computational_murk) - [Computational murk](https://alexey.radul.name/ideas/2019/computational-murk/)
 * [2024-12-04, 13:41:32](https://lobste.rs/s/yy9dim/art_propagator) - [The Art of the Propagator](https://dspace.mit.edu/handle/1721.1/44215)
 * [2024-12-04, 12:24:23](https://lobste.rs/s/lnnkmd/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
@@ -23,7 +24,6 @@
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 * [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
-* [2024-12-03, 07:09:45](https://lobste.rs/s/hq38kv/sql_best_practices_don_t_compare_count) - [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
 * [2024-12-03, 02:52:29](https://lobste.rs/s/xhhicr/next_platform) - [The next platform](https://www.macchaffee.com/blog/2024/the-next-platform/)
 
 ## [Archives](archives/index.md)
