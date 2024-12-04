@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-04, 13:42:18](https://lobste.rs/s/o5cgzd/computational_murk) - [Computational murk](https://alexey.radul.name/ideas/2019/computational-murk/)
+* [2024-12-04, 13:41:32](https://lobste.rs/s/yy9dim/art_propagator) - [The Art of the Propagator](https://dspace.mit.edu/handle/1721.1/44215)
 * [2024-12-04, 12:24:23](https://lobste.rs/s/lnnkmd/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
-* [2024-12-04, 12:04:40](https://lobste.rs/s/bqnpaj/21_algol_60_compilers_1962) - [21 Algol 60 compilers in 1962](https://shape-of-code.com/2024/12/01/21-algol-60-compilers-in-1962/)
 * [2024-12-04, 11:42:33](https://lobste.rs/s/ofrewc/memorydb_speed_durability_composition) - [MemoryDB: Speed, Durability, and Composition](https://brooker.co.za/blog/2024/04/25/memorydb.html)
 * [2024-12-04, 11:25:18](https://lobste.rs/s/h667uz/tube_computer_wall_mounted_8_bit_homebrew) - [The Tube Computer: wall-mounted 8-bit homebrew computer from vintage thermionic valves](https://www.thetubecomputer.com/)
 * [2024-12-04, 10:12:20](https://lobste.rs/s/bnrm1s/linux_tcp_so_reuseport_usage) - [Linux TCP SO_REUSEPORT: Usage and Implementation](https://linuxjournal.rubdos.be/ljarchive/LJ/298/12538.html)
@@ -20,7 +21,6 @@
 * [2024-12-03, 16:39:00](https://lobste.rs/s/vbyewg/thoughts_on_duckdb_s_grammar_patching) - [Thoughts on DuckDB's Grammar Patching Thing](https://buttondown.com/jaffray/archive/thoughts-on-duckdbs-grammar-patching-thing/)
 * [2024-12-03, 13:13:24](https://lobste.rs/s/pyonpj/next_generation_heroku_platform) - [The Next Generation of the Heroku Platform](https://blog.heroku.com/next-generation-heroku-platform)
 * [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
-* [2024-12-03, 11:41:37](https://lobste.rs/s/inctsi/how_playstation_graphics_visual) - [How PlayStation graphics & visual artefacts work](https://pikuma.com/blog/how-to-make-ps1-graphics)
 * [2024-12-03, 11:32:37](https://lobste.rs/s/ftizih/no_nat_november_my_month_without_ipv4) - [No NAT November: My Month Without IPv4](https://blog.infected.systems/posts/2024-12-01-no-nat-november/)
 * [2024-12-03, 07:57:51](https://lobste.rs/s/rfquja/8_months_ocaml_after_8_years_haskell) - [8 months of OCaml after 8 years of Haskell in production](https://chshersh.com/blog/2023-12-16-8-months-of-ocaml-after-8-years-of-haskell.html)
 * [2024-12-03, 07:09:45](https://lobste.rs/s/hq38kv/sql_best_practices_don_t_compare_count) - [SQL best practices – don’t compare count(*) with 0](https://www.depesz.com/2024/12/01/sql-best-practices-dont-compare-count-with-0/)
