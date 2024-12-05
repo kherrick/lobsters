@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-05, 14:56:16](https://lobste.rs/s/hswerr/alpine_linux_3_21) - [Alpine Linux 3.21](https://alpinelinux.org/posts/Alpine-3.21.0-released.html)
 * [2024-12-05, 14:45:28](https://lobste.rs/s/klcng5/advent_code_2024_nix_day_01_03) - [Advent Of Code 2024 in Nix - Day 01-03](https://johns.codes/blog/aoc2024/nix/part01)
 * [2024-12-05, 14:44:50](https://lobste.rs/s/2uu0gc/breakage_cargo_toml_how_rust_package) - [Breakage! in the Cargo.toml — How Rust Package Features Work (And Break)](https://predr.ag/blog/breakage-in-the-cargo-toml-how-rust-package-features-work/)
 * [2024-12-05, 13:28:22](https://lobste.rs/s/wo9gal/voice_activity_detection_elixir) - [Voice Activity Detection in Elixir and Membrane](https://underjord.io/voice-activity-detection-elixir-membrane.html)
@@ -24,7 +25,6 @@
 * [2024-12-04, 03:42:04](https://lobste.rs/s/ofcewz/egoless_engineering) - [Egoless Engineering](https://egoless.engineering/)
 * [2024-12-04, 00:43:32](https://lobste.rs/s/hawsmb/brief_introduction_oci_containers_on) - [A Brief Introduction to OCI Containers on FreeBSD](https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers)
 * [2024-12-03, 23:00:16](https://lobste.rs/s/dflimq/precomputation) - [Precomputation](https://jamesg.blog/2024/11/01/precomputation/)
-* [2024-12-03, 22:13:15](https://lobste.rs/s/v7we0e/return_procedural_programming) - [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw)
 
 ## [Archives](archives/index.md)
 
