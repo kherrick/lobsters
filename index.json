@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-05, 15:44:36",
+      "https://lobste.rs/s/yi2lfy/compressed_random_access_trees_for"
+    ],
+    [
+      "Compressed Random-Access Trees for Spatially Coherent Data (2007)",
+      "https://hhoppe.com/ratrees.pdf"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 14:56:16",
       "https://lobste.rs/s/hswerr/alpine_linux_3_21"
     ],
@@ -237,16 +247,6 @@
     [
       "A Brief Introduction to OCI Containers on FreeBSD",
       "https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 23:00:16",
-      "https://lobste.rs/s/dflimq/precomputation"
-    ],
-    [
-      "Precomputation",
-      "https://jamesg.blog/2024/11/01/precomputation/"
     ]
   ]
 ]
