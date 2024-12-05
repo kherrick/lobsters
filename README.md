@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-05, 18:10:21](https://lobste.rs/s/j0heg7/reversing_anti_cheat_s_detection) - [Reversing Anti-Cheat's Detection-Generation Cycle With Configurable Hallucinations](https://www.activision.com/cdn/research/hallucinations)
+* [2024-12-05, 18:06:50](https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter) - [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-05, 16:28:15](https://lobste.rs/s/ieyzw7/flightle_web_based_2d_sidescrolling) - [Flightle – Web-based 2D sidescrolling flight simulator](https://xkqr.org/flightle/)
-* [2024-12-05, 15:52:57](https://lobste.rs/s/wgz5hp/this_is_just_prototype_how_ethics_are) - [“This is Just a Prototype”: How Ethics Are Ignored in Software Startup-Like Environments](https://jyx.jyu.fi/handle/123456789/69324)
 * [2024-12-05, 15:49:12](https://lobste.rs/s/8truph/how_pack_ternary_numbers_8_bit_bytes) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 * [2024-12-05, 15:44:36](https://lobste.rs/s/yi2lfy/compressed_random_access_trees_for) - [Compressed Random-Access Trees for Spatially Coherent Data (2007)](https://hhoppe.com/ratrees.pdf)
 * [2024-12-05, 14:56:16](https://lobste.rs/s/hswerr/alpine_linux_3_21) - [Alpine Linux 3.21](https://alpinelinux.org/posts/Alpine-3.21.0-released.html)
@@ -13,7 +14,6 @@
 * [2024-12-05, 12:08:35](https://lobste.rs/s/hezait/you_can_t_get_more_adversarial_than_pvp) - [You can’t get more adversarial than PvP MMORPGs](https://wirepair.org/2024/12/03/you-cant-get-more-adversarial-than-pvp-mmorpgs/)
 * [2024-12-05, 07:33:37](https://lobste.rs/s/u9ijx2/structured_binding_upgrades_c_26) - [Structured binding upgrades in C++26](https://biowpn.github.io/bioweapon/2024/12/03/structured-bindings-cpp26.html)
 * [2024-12-05, 02:28:47](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave) - [What's up with Lobste.rs blocking the Brave browser?](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
-* [2024-12-05, 02:09:49](https://lobste.rs/s/fcyqts/aes_gcm_breaking_it_on_nonce_reuse) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 * [2024-12-04, 23:44:20](https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages) - [Praise to scdoc to generate man pages](https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/)
 * [2024-12-04, 21:30:17](https://lobste.rs/s/evcc50/hoare_cube) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 20:27:57](https://lobste.rs/s/5vzujx/complex_bug_with_simple_fix) - [A complex bug with a ⸢simple⸣ fix](https://blog.plover.com/prog/bug/timing.html)

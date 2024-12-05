@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 18:10:21](https://lobste.rs/s/j0heg7/reversing_anti_cheat_s_detection) - [Reversing Anti-Cheat's Detection-Generation Cycle With Configurable Hallucinations](https://www.activision.com/cdn/research/hallucinations)
+* [2024-12-05, 18:06:50](https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter) - [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-05, 16:28:15](https://lobste.rs/s/ieyzw7/flightle_web_based_2d_sidescrolling) - [Flightle – Web-based 2D sidescrolling flight simulator](https://xkqr.org/flightle/)
 * [2024-12-05, 15:52:57](https://lobste.rs/s/wgz5hp/this_is_just_prototype_how_ethics_are) - [“This is Just a Prototype”: How Ethics Are Ignored in Software Startup-Like Environments](https://jyx.jyu.fi/handle/123456789/69324)
 * [2024-12-05, 15:49:12](https://lobste.rs/s/8truph/how_pack_ternary_numbers_8_bit_bytes) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
