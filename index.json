@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-05, 12:34:06",
+      "https://lobste.rs/s/ba8yoq/nasa_graphics_design_manual_1976"
+    ],
+    [
+      "NASA Graphics Design Manual (1976)",
+      "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 12:08:35",
+      "https://lobste.rs/s/hezait/you_can_t_get_more_adversarial_than_pvp"
+    ],
+    [
+      "You can’t get more adversarial than PvP MMORPGs",
+      "https://wirepair.org/2024/12/03/you-cant-get-more-adversarial-than-pvp-mmorpgs/"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 08:58:56",
       "https://lobste.rs/s/azcugz/eyg_language_with_peter_saxton"
     ],
@@ -87,16 +107,6 @@
     [
       "Full-stack quantum computing, from hardware to compilers and algorithms",
       "https://www.youtube.com/watch?v=xgmGK0_KyKc"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 18:05:23",
-      "https://lobste.rs/s/vlrfte/making_fun_flask_apps_for_no_reason"
-    ],
-    [
-      "Making Fun Flask Apps for No Reason",
-      "https://matduggan.com/making-fun-flask-apps-for-no-reason/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Phoenix LiveView 1.0.0 is here! - Phoenix Blog",
       "https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 12:14:25",
-      "https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i"
-    ],
-    [
-      "Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ",
-      "https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/"
     ]
   ]
 ]
