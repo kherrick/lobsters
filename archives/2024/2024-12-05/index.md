@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 14:09:30](https://lobste.rs/s/d9hs6z/team_organization_modular) - [Team Organization and Modular Decomposition](https://massimo-nazaria.github.io/team-organization.html)
 * [2024-12-05, 13:28:22](https://lobste.rs/s/wo9gal/voice_activity_detection_elixir) - [Voice Activity Detection in Elixir and Membrane](https://underjord.io/voice-activity-detection-elixir-membrane.html)
 * [2024-12-05, 13:18:23](https://lobste.rs/s/cmmwny/simple_38_step_journey_getting_rfc) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 * [2024-12-05, 12:34:06](https://lobste.rs/s/ba8yoq/nasa_graphics_design_manual_1976) - [NASA Graphics Design Manual (1976)](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
