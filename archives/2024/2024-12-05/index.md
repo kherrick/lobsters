@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 22:07:43](https://lobste.rs/s/6ovw8b/rust_ffi_vs_golang_ffi_cgo_2021) - [Rust FFI vs Golang FFI (cgo) (2021)](https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6)
+* [2024-12-05, 22:07:17](https://lobste.rs/s/ogq8lu/this_month_redox_november_2024) - [This Month in Redox - November 2024](https://www.redox-os.org/news/this-month-241130/)
 * [2024-12-05, 21:35:21](https://lobste.rs/s/wxbsou/acton_programming_language) - [The Acton Programming Language](https://github.com/actonlang/acton)
 * [2024-12-05, 21:31:55](https://lobste.rs/s/8murtg/frood_alpine_initramfs_nas) - [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
 * [2024-12-05, 19:36:03](https://lobste.rs/s/yctxj6/naval_gun_fire_control_system_software_is) - [NAVAL GUN Fire Control System software is written in C++, says job listing](https://careers.thalesgroup.com/global/en/job/R0263165/Software-Engineer-C)
