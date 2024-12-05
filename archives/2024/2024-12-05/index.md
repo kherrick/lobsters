@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 14:45:28](https://lobste.rs/s/klcng5/advent_code_2024_nix_day_01_03) - [Advent Of Code 2024 in Nix - Day 01-03](https://johns.codes/blog/aoc2024/nix/part01)
+* [2024-12-05, 14:44:50](https://lobste.rs/s/2uu0gc/breakage_cargo_toml_how_rust_package) - [Breakage! in the Cargo.toml — How Rust Package Features Work (And Break)](https://predr.ag/blog/breakage-in-the-cargo-toml-how-rust-package-features-work/)
 * [2024-12-05, 14:09:30](https://lobste.rs/s/d9hs6z/team_organization_modular) - [Team Organization and Modular Decomposition](https://massimo-nazaria.github.io/team-organization.html)
 * [2024-12-05, 13:28:22](https://lobste.rs/s/wo9gal/voice_activity_detection_elixir) - [Voice Activity Detection in Elixir and Membrane](https://underjord.io/voice-activity-detection-elixir-membrane.html)
 * [2024-12-05, 13:18:23](https://lobste.rs/s/cmmwny/simple_38_step_journey_getting_rfc) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
