@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-05, 07:33:37](https://lobste.rs/s/u9ijx2/structured_binding_upgrades_c_26) - [Structured binding upgrades in C++26](https://biowpn.github.io/bioweapon/2024/12/03/structured-bindings-cpp26.html)
 * [2024-12-05, 02:28:47](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave) - [What's up with Lobste.rs blocking the Brave browser?](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 * [2024-12-05, 02:09:49](https://lobste.rs/s/fcyqts/aes_gcm_breaking_it_on_nonce_reuse) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 * [2024-12-04, 23:44:20](https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages) - [Praise to scdoc to generate man pages](https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/)
@@ -12,7 +13,6 @@
 * [2024-12-04, 16:30:46](https://lobste.rs/s/8s6bvt/pymyflyspy_track_your_flight_using_its) - [PyMyFlySpy: track your flight using its headrest data](https://robertheaton.com/pymyflyspy/)
 * [2024-12-04, 16:04:30](https://lobste.rs/s/vmxaoy/why_i_hate_language_benchmarks) - [Why I Hate Language Benchmarks](https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/)
 * [2024-12-04, 13:49:10](https://lobste.rs/s/yqjtvy/cloud_container_iceberg) - [The Cloud Container Iceberg](https://www.pulumi.com/blog/cursed-container-iceberg/)
-* [2024-12-04, 13:42:18](https://lobste.rs/s/o5cgzd/computational_murk) - [Computational murk](https://alexey.radul.name/ideas/2019/computational-murk/)
 * [2024-12-04, 13:41:32](https://lobste.rs/s/yy9dim/art_propagator) - [The Art of the Propagator](https://dspace.mit.edu/handle/1721.1/44215)
 * [2024-12-04, 12:24:23](https://lobste.rs/s/lnnkmd/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
 * [2024-12-04, 11:25:18](https://lobste.rs/s/h667uz/tube_computer_wall_mounted_8_bit_homebrew) - [The Tube Computer: wall-mounted 8-bit homebrew computer from vintage thermionic valves](https://www.thetubecomputer.com/)
