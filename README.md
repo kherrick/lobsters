@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-05, 02:28:47](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave) - [What's up with Lobste.rs blocking the Brave browser?](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 * [2024-12-05, 02:09:49](https://lobste.rs/s/fcyqts/aes_gcm_breaking_it_on_nonce_reuse) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 * [2024-12-04, 23:44:20](https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages) - [Praise to scdoc to generate man pages](https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/)
 * [2024-12-04, 21:30:17](https://lobste.rs/s/evcc50/hoare_cube) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
@@ -20,7 +21,6 @@
 * [2024-12-04, 03:42:04](https://lobste.rs/s/ofcewz/egoless_engineering) - [Egoless Engineering](https://egoless.engineering/)
 * [2024-12-04, 00:43:32](https://lobste.rs/s/hawsmb/brief_introduction_oci_containers_on) - [A Brief Introduction to OCI Containers on FreeBSD](https://people.freebsd.org/~dch/posts/2024-12-04-freebsd-containers)
 * [2024-12-03, 23:00:16](https://lobste.rs/s/dflimq/precomputation) - [Precomputation](https://jamesg.blog/2024/11/01/precomputation/)
-* [2024-12-03, 22:26:09](https://lobste.rs/s/zydyoo/new_era_slop_security_reports_for_open) - [New era of slop security reports for open source](https://sethmlarson.dev/slop-security-reports)
 * [2024-12-03, 22:13:15](https://lobste.rs/s/v7we0e/return_procedural_programming) - [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw)
 * [2024-12-03, 22:02:59](https://lobste.rs/s/7cp1y5/phoenix_liveview_1_0_0_is_here_phoenix_blog) - [Phoenix LiveView 1.0.0 is here! - Phoenix Blog](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released)
 * [2024-12-03, 19:41:04](https://lobste.rs/s/cglycl/why_go_slices_still_surprise_me) - [Why Go slices still surprise me](https://build-your-own.org/blog/20241125_go_slice_surprise/)
