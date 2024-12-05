@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 21:35:21](https://lobste.rs/s/wxbsou/acton_programming_language) - [The Acton Programming Language](https://github.com/actonlang/acton)
+* [2024-12-05, 21:31:55](https://lobste.rs/s/8murtg/frood_alpine_initramfs_nas) - [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
 * [2024-12-05, 19:36:03](https://lobste.rs/s/yctxj6/naval_gun_fire_control_system_software_is) - [NAVAL GUN Fire Control System software is written in C++, says job listing](https://careers.thalesgroup.com/global/en/job/R0263165/Software-Engineer-C)
 * [2024-12-05, 18:10:21](https://lobste.rs/s/j0heg7/reversing_anti_cheat_s_detection) - [Reversing Anti-Cheat's Detection-Generation Cycle With Configurable Hallucinations](https://www.activision.com/cdn/research/hallucinations)
 * [2024-12-05, 18:06:50](https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter) - [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
