@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-05, 00:58:40](https://lobste.rs/s/8fy74n/p_systems_webpage) - [The P Systems Webpage](http://ppage.psystems.eu/)
+* [2024-12-05, 02:09:49](https://lobste.rs/s/fcyqts/aes_gcm_breaking_it_on_nonce_reuse) - [AES-GCM and breaking it on nonce reuse](https://frereit.de/aes_gcm/)
 * [2024-12-04, 23:44:20](https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages) - [Praise to scdoc to generate man pages](https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/)
 * [2024-12-04, 21:30:17](https://lobste.rs/s/evcc50/hoare_cube) - [The Hoare Cube](https://johnwickerson.wordpress.com/2024/12/04/the-hoare-cube/)
 * [2024-12-04, 20:27:57](https://lobste.rs/s/5vzujx/complex_bug_with_simple_fix) - [A complex bug with a ⸢simple⸣ fix](https://blog.plover.com/prog/bug/timing.html)
