@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-05, 22:07:43",
+      "https://lobste.rs/s/6ovw8b/rust_ffi_vs_golang_ffi_cgo_2021"
+    ],
+    [
+      "Rust FFI vs Golang FFI (cgo) (2021)",
+      "https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 22:07:17",
+      "https://lobste.rs/s/ogq8lu/this_month_redox_november_2024"
+    ],
+    [
+      "This Month in Redox - November 2024",
+      "https://www.redox-os.org/news/this-month-241130/"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 21:35:21",
       "https://lobste.rs/s/wxbsou/acton_programming_language"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2024-12-05, 02:09:49",
-      "https://lobste.rs/s/fcyqts/aes_gcm_breaking_it_on_nonce_reuse"
-    ],
-    [
-      "AES-GCM and breaking it on nonce reuse",
-      "https://frereit.de/aes_gcm/"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 23:44:20",
       "https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages"
     ],
@@ -217,16 +227,6 @@
     [
       "First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)",
       "https://simonwillison.net/2024/Dec/4/amazon-nova/"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 13:49:10",
-      "https://lobste.rs/s/yqjtvy/cloud_container_iceberg"
-    ],
-    [
-      "The Cloud Container Iceberg",
-      "https://www.pulumi.com/blog/cursed-container-iceberg/"
     ]
   ],
   [
