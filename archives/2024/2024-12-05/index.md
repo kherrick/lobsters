@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 19:36:03](https://lobste.rs/s/yctxj6/naval_gun_fire_control_system_software_is) - [NAVAL GUN Fire Control System software is written in C++, says job listing](https://careers.thalesgroup.com/global/en/job/R0263165/Software-Engineer-C)
 * [2024-12-05, 18:10:21](https://lobste.rs/s/j0heg7/reversing_anti_cheat_s_detection) - [Reversing Anti-Cheat's Detection-Generation Cycle With Configurable Hallucinations](https://www.activision.com/cdn/research/hallucinations)
 * [2024-12-05, 18:06:50](https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter) - [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-05, 16:28:15](https://lobste.rs/s/ieyzw7/flightle_web_based_2d_sidescrolling) - [Flightle – Web-based 2D sidescrolling flight simulator](https://xkqr.org/flightle/)
