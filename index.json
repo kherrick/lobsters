@@ -1,16 +1,6 @@
 [
   [
     [
-      "2024-12-05, 14:09:30",
-      "https://lobste.rs/s/d9hs6z/team_organization_modular"
-    ],
-    [
-      "Team Organization and Modular Decomposition",
-      "https://massimo-nazaria.github.io/team-organization.html"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 13:28:22",
       "https://lobste.rs/s/wo9gal/voice_activity_detection_elixir"
     ],
@@ -197,6 +187,16 @@
     [
       "The Tube Computer: wall-mounted 8-bit homebrew computer from vintage thermionic valves",
       "https://www.thetubecomputer.com/"
+    ]
+  ],
+  [
+    [
+      "2024-12-04, 09:30:50",
+      "https://lobste.rs/s/gecila/introducing_amazon_aurora_dsql"
+    ],
+    [
+      "Introducing Amazon Aurora DSQL",
+      "https://aws.amazon.com/blogs/database/introducing-amazon-aurora-dsql/"
     ]
   ],
   [
