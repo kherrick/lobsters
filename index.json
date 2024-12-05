@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2024-12-05, 02:09:49",
+      "https://lobste.rs/s/fcyqts/aes_gcm_breaking_it_on_nonce_reuse"
+    ],
+    [
+      "AES-GCM and breaking it on nonce reuse",
+      "https://frereit.de/aes_gcm/"
+    ]
+  ],
+  [
+    [
       "2024-12-04, 23:44:20",
       "https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages"
     ],
@@ -187,16 +197,6 @@
     [
       "First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)",
       "https://simonwillison.net/2024/Dec/4/amazon-nova/"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 16:30:46",
-      "https://lobste.rs/s/8s6bvt/pymyflyspy_track_your_flight_using_its"
-    ],
-    [
-      "PyMyFlySpy: track your flight using its headrest data",
-      "https://robertheaton.com/pymyflyspy/"
     ]
   ],
   [
