@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-05, 12:34:06](https://lobste.rs/s/ba8yoq/nasa_graphics_design_manual_1976) - [NASA Graphics Design Manual (1976)](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
+* [2024-12-05, 12:08:35](https://lobste.rs/s/hezait/you_can_t_get_more_adversarial_than_pvp) - [You can’t get more adversarial than PvP MMORPGs](https://wirepair.org/2024/12/03/you-cant-get-more-adversarial-than-pvp-mmorpgs/)
 * [2024-12-05, 08:58:56](https://lobste.rs/s/azcugz/eyg_language_with_peter_saxton) - [The EYG Language with Peter Saxton](https://www.youtube.com/watch?v=w7mHY7CW51o&t=96s)
 * [2024-12-05, 07:33:37](https://lobste.rs/s/u9ijx2/structured_binding_upgrades_c_26) - [Structured binding upgrades in C++26](https://biowpn.github.io/bioweapon/2024/12/03/structured-bindings-cpp26.html)
 * [2024-12-05, 02:28:47](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave) - [What's up with Lobste.rs blocking the Brave browser?](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
@@ -9,7 +11,6 @@
 * [2024-12-04, 20:27:57](https://lobste.rs/s/5vzujx/complex_bug_with_simple_fix) - [A complex bug with a ⸢simple⸣ fix](https://blog.plover.com/prog/bug/timing.html)
 * [2024-12-04, 20:17:02](https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres) - [Keyset Cursors, Not Offsets, for Postgres Pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
 * [2024-12-04, 19:55:29](https://lobste.rs/s/uteeck/full_stack_quantum_computing_from) - [Full-stack quantum computing, from hardware to compilers and algorithms](https://www.youtube.com/watch?v=xgmGK0_KyKc)
-* [2024-12-04, 18:05:23](https://lobste.rs/s/vlrfte/making_fun_flask_apps_for_no_reason) - [Making Fun Flask Apps for No Reason](https://matduggan.com/making-fun-flask-apps-for-no-reason/)
 * [2024-12-04, 18:04:38](https://lobste.rs/s/8fmrbw/first_impressions_new_amazon_nova_llms) - [First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/)
 * [2024-12-04, 16:30:46](https://lobste.rs/s/8s6bvt/pymyflyspy_track_your_flight_using_its) - [PyMyFlySpy: track your flight using its headrest data](https://robertheaton.com/pymyflyspy/)
 * [2024-12-04, 16:04:30](https://lobste.rs/s/vmxaoy/why_i_hate_language_benchmarks) - [Why I Hate Language Benchmarks](https://www.gingerbill.org/article/2024/01/22/comparing-language-benchmarks/)
@@ -24,7 +25,6 @@
 * [2024-12-03, 23:00:16](https://lobste.rs/s/dflimq/precomputation) - [Precomputation](https://jamesg.blog/2024/11/01/precomputation/)
 * [2024-12-03, 22:13:15](https://lobste.rs/s/v7we0e/return_procedural_programming) - [The Return of Procedural Programming](https://www.youtube.com/watch?v=vQPHtAxOZZw)
 * [2024-12-03, 22:02:59](https://lobste.rs/s/7cp1y5/phoenix_liveview_1_0_0_is_here_phoenix_blog) - [Phoenix LiveView 1.0.0 is here! - Phoenix Blog](https://www.phoenixframework.org/blog/phoenix-liveview-1.0-released)
-* [2024-12-03, 12:14:25](https://lobste.rs/s/xyvjbb/dependency_management_fatigue_why_i) - [Dependency management fatigue, or why I forever ditched React for Go+HTMX+Templ](https://blog.erodriguez.de/dependency-management-fatigue-or-why-i-forever-ditched-react-for-go-htmx-templ/)
 
 ## [Archives](archives/index.md)
 
