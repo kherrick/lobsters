@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 16:28:15](https://lobste.rs/s/ieyzw7/flightle_web_based_2d_sidescrolling) - [Flightle – Web-based 2D sidescrolling flight simulator](https://xkqr.org/flightle/)
 * [2024-12-05, 15:52:57](https://lobste.rs/s/wgz5hp/this_is_just_prototype_how_ethics_are) - [“This is Just a Prototype”: How Ethics Are Ignored in Software Startup-Like Environments](https://jyx.jyu.fi/handle/123456789/69324)
 * [2024-12-05, 15:49:12](https://lobste.rs/s/8truph/how_pack_ternary_numbers_8_bit_bytes) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
 * [2024-12-05, 15:44:36](https://lobste.rs/s/yi2lfy/compressed_random_access_trees_for) - [Compressed Random-Access Trees for Spatially Coherent Data (2007)](https://hhoppe.com/ratrees.pdf)
