@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 15:44:36](https://lobste.rs/s/yi2lfy/compressed_random_access_trees_for) - [Compressed Random-Access Trees for Spatially Coherent Data (2007)](https://hhoppe.com/ratrees.pdf)
 * [2024-12-05, 14:56:16](https://lobste.rs/s/hswerr/alpine_linux_3_21) - [Alpine Linux 3.21](https://alpinelinux.org/posts/Alpine-3.21.0-released.html)
 * [2024-12-05, 14:45:28](https://lobste.rs/s/klcng5/advent_code_2024_nix_day_01_03) - [Advent Of Code 2024 in Nix - Day 01-03](https://johns.codes/blog/aoc2024/nix/part01)
 * [2024-12-05, 14:44:50](https://lobste.rs/s/2uu0gc/breakage_cargo_toml_how_rust_package) - [Breakage! in the Cargo.toml — How Rust Package Features Work (And Break)](https://predr.ag/blog/breakage-in-the-cargo-toml-how-rust-package-features-work/)
