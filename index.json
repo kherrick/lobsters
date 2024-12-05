@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-05, 14:56:16",
+      "https://lobste.rs/s/hswerr/alpine_linux_3_21"
+    ],
+    [
+      "Alpine Linux 3.21",
+      "https://alpinelinux.org/posts/Alpine-3.21.0-released.html"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 14:45:28",
       "https://lobste.rs/s/klcng5/advent_code_2024_nix_day_01_03"
     ],
@@ -237,16 +247,6 @@
     [
       "Precomputation",
       "https://jamesg.blog/2024/11/01/precomputation/"
-    ]
-  ],
-  [
-    [
-      "2024-12-03, 22:13:15",
-      "https://lobste.rs/s/v7we0e/return_procedural_programming"
-    ],
-    [
-      "The Return of Procedural Programming",
-      "https://www.youtube.com/watch?v=vQPHtAxOZZw"
     ]
   ]
 ]
