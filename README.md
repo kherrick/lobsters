@@ -2,6 +2,7 @@
 
 * [2024-12-06, 17:02:36](https://lobste.rs/s/9dcyrf/turn_android_phone_batteryless_home) - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 * [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
+* [2024-12-06, 16:56:26](https://lobste.rs/s/a94goy/can_one_explain_schemes_biologists_2014) - [Can one explain schemes to biologists (2014)](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html)
 * [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
 * [2024-12-06, 16:01:58](https://lobste.rs/s/ob13bi/introducing_uniffi_for_react_native_rust) - [Introducing Uniffi for React Native: Rust-Powered Turbo Modules](https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/)
 * [2024-12-06, 16:00:26](https://lobste.rs/s/yasd90/ask_questions_sqlite_databases_csv_json) - [Ask questions of SQLite databases and CSV/JSON files in your terminal](https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/)
@@ -17,7 +18,6 @@
 * [2024-12-06, 05:58:27](https://lobste.rs/s/mgneu0/fedora_moves_towards_forgejo) - [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
 * [2024-12-06, 02:57:44](https://lobste.rs/s/wwwapb/how_pronounce_chinese_names_little) - [How to Pronounce Chinese Names a Little Better](https://jacko.io/chinese_names.html)
 * [2024-12-06, 00:13:54](https://lobste.rs/s/emsec2/communicating_chorrectly_with) - [“Communicating Chorrectly with a Choreography” is out](https://decomposition.al/blog/2024/12/05/communicating-chorrectly-with-a-choreography-is-out/)
-* [2024-12-05, 23:59:29](https://lobste.rs/s/efvbar/std_map_with_pointers_as_keys) - [std::map with pointers as keys](https://alexandra-zaharia.github.io/posts/std-map-with-pointers-as-keys/)
 * [2024-12-05, 21:35:21](https://lobste.rs/s/wxbsou/acton_programming_language) - [The Acton Programming Language](https://github.com/actonlang/acton)
 * [2024-12-05, 21:31:55](https://lobste.rs/s/8murtg/frood_alpine_initramfs_nas) - [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
 * [2024-12-05, 18:06:50](https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter) - [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
