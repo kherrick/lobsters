@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-06, 17:02:36",
+      "https://lobste.rs/s/9dcyrf/turn_android_phone_batteryless_home"
+    ],
+    [
+      "Turn Android Phone to Batteryless Home Server",
+      "https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 16:58:35",
+      "https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released"
+    ],
+    [
+      "Box64 v0.3.2 and Box86 v0.3.8 released",
+      "https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 16:56:26",
+      "https://lobste.rs/s/a94goy/can_one_explain_schemes_biologists_2014"
+    ],
+    [
+      "Can one explain schemes to biologists (2014)",
+      "https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 16:07:49",
       "https://lobste.rs/s/hjufp8/start_with_go_standard_library"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-12-05, 18:10:21",
-      "https://lobste.rs/s/j0heg7/reversing_anti_cheat_s_detection"
-    ],
-    [
-      "Reversing Anti-Cheat's Detection-Generation Cycle With Configurable Hallucinations",
-      "https://www.activision.com/cdn/research/hallucinations"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 18:06:50",
       "https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2024-12-05, 14:44:50",
-      "https://lobste.rs/s/2uu0gc/breakage_cargo_toml_how_rust_package"
-    ],
-    [
-      "Breakage! in the Cargo.toml — How Rust Package Features Work (And Break)",
-      "https://predr.ag/blog/breakage-in-the-cargo-toml-how-rust-package-features-work/"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 13:18:23",
       "https://lobste.rs/s/cmmwny/simple_38_step_journey_getting_rfc"
     ],
     [
       "The \"simple\" 38 step journey to getting an RFC",
       "https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 20:17:02",
-      "https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres"
-    ],
-    [
-      "Keyset Cursors, Not Offsets, for Postgres Pagination",
-      "https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/"
     ]
   ]
 ]
