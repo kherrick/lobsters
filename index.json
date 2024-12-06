@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-06, 19:57:17",
-      "https://lobste.rs/s/wks7cv/implementing_linear_non_destructible"
+      "2024-12-06, 20:24:50",
+      "https://lobste.rs/s/zbhtfx/optimality_gerver_s_sofa"
     ],
     [
-      "Implementing Linear / Non-destructible Types in Vale and Mojo",
-      "https://youtu.be/IpuvQUVB8Cg"
+      "Optimality of Gerver's Sofa",
+      "https://arxiv.org/abs/2411.19826"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 20:19:40",
+      "https://lobste.rs/s/elrsth/how_enforce_encapsulation_go"
+    ],
+    [
+      "How to enforce encapsulation in Go?",
+      "https://lobste.rs/s/elrsth/how_enforce_encapsulation_go"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Flightle – Web-based 2D sidescrolling flight simulator",
       "https://xkqr.org/flightle/"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 14:56:16",
-      "https://lobste.rs/s/hswerr/alpine_linux_3_21"
-    ],
-    [
-      "Alpine Linux 3.21",
-      "https://alpinelinux.org/posts/Alpine-3.21.0-released.html"
     ]
   ],
   [
