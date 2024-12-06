@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-06, 05:58:27](https://lobste.rs/s/mgneu0/fedora_moves_towards_forgejo) - [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
 * [2024-12-06, 03:41:38](https://lobste.rs/s/apqg8g/pessimistic_optimistic_concurrency) - [Pessimistic or Optimistic Concurrency Control? Lessons Learned from Real-World Customer Scenarios](https://medium.com/@siddontang/pessimistic-or-optimistic-concurrency-control-lessons-learned-from-real-world-customer-scenarios-a4f0b8dd6e49)
 * [2024-12-06, 02:57:44](https://lobste.rs/s/wwwapb/how_pronounce_chinese_names_little) - [How to Pronounce Chinese Names a Little Better](https://jacko.io/chinese_names.html)
 * [2024-12-06, 00:13:54](https://lobste.rs/s/emsec2/communicating_chorrectly_with) - [“Communicating Chorrectly with a Choreography” is out](https://decomposition.al/blog/2024/12/05/communicating-chorrectly-with-a-choreography-is-out/)
@@ -13,7 +14,6 @@
 * [2024-12-05, 16:28:15](https://lobste.rs/s/ieyzw7/flightle_web_based_2d_sidescrolling) - [Flightle – Web-based 2D sidescrolling flight simulator](https://xkqr.org/flightle/)
 * [2024-12-05, 15:52:57](https://lobste.rs/s/wgz5hp/this_is_just_prototype_how_ethics_are) - [“This is Just a Prototype”: How Ethics Are Ignored in Software Startup-Like Environments](https://jyx.jyu.fi/handle/123456789/69324)
 * [2024-12-05, 15:49:12](https://lobste.rs/s/8truph/how_pack_ternary_numbers_8_bit_bytes) - [How to pack ternary numbers in 8-bit bytes](https://compilade.net/blog/ternary-packing)
-* [2024-12-05, 15:44:36](https://lobste.rs/s/yi2lfy/compressed_random_access_trees_for) - [Compressed Random-Access Trees for Spatially Coherent Data (2007)](https://hhoppe.com/ratrees.pdf)
 * [2024-12-05, 14:56:16](https://lobste.rs/s/hswerr/alpine_linux_3_21) - [Alpine Linux 3.21](https://alpinelinux.org/posts/Alpine-3.21.0-released.html)
 * [2024-12-05, 14:45:28](https://lobste.rs/s/klcng5/advent_code_2024_nix_day_01_03) - [Advent Of Code 2024 in Nix - Day 01-03](https://johns.codes/blog/aoc2024/nix/part01)
 * [2024-12-05, 14:44:50](https://lobste.rs/s/2uu0gc/breakage_cargo_toml_how_rust_package) - [Breakage! in the Cargo.toml — How Rust Package Features Work (And Break)](https://predr.ag/blog/breakage-in-the-cargo-toml-how-rust-package-features-work/)
