@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-06, 00:13:54](https://lobste.rs/s/emsec2/communicating_chorrectly_with) - [“Communicating Chorrectly with a Choreography” is out](https://decomposition.al/blog/2024/12/05/communicating-chorrectly-with-a-choreography-is-out/)
+* [2024-12-05, 23:59:29](https://lobste.rs/s/efvbar/std_map_with_pointers_as_keys) - [std::map with pointers as keys](https://alexandra-zaharia.github.io/posts/std-map-with-pointers-as-keys/)
 * [2024-12-05, 22:07:43](https://lobste.rs/s/6ovw8b/rust_ffi_vs_golang_ffi_cgo_2021) - [Rust FFI vs Golang FFI (cgo) (2021)](https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6)
 * [2024-12-05, 22:07:17](https://lobste.rs/s/ogq8lu/this_month_redox_november_2024) - [This Month in Redox - November 2024](https://www.redox-os.org/news/this-month-241130/)
 * [2024-12-05, 21:35:21](https://lobste.rs/s/wxbsou/acton_programming_language) - [The Acton Programming Language](https://github.com/actonlang/acton)
@@ -20,11 +22,9 @@
 * [2024-12-05, 07:33:37](https://lobste.rs/s/u9ijx2/structured_binding_upgrades_c_26) - [Structured binding upgrades in C++26](https://biowpn.github.io/bioweapon/2024/12/03/structured-bindings-cpp26.html)
 * [2024-12-05, 02:28:47](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave) - [What's up with Lobste.rs blocking the Brave browser?](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 * [2024-12-04, 23:44:20](https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages) - [Praise to scdoc to generate man pages](https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/)
-* [2024-12-04, 20:27:57](https://lobste.rs/s/5vzujx/complex_bug_with_simple_fix) - [A complex bug with a ⸢simple⸣ fix](https://blog.plover.com/prog/bug/timing.html)
 * [2024-12-04, 20:17:02](https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres) - [Keyset Cursors, Not Offsets, for Postgres Pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
 * [2024-12-04, 18:04:38](https://lobste.rs/s/8fmrbw/first_impressions_new_amazon_nova_llms) - [First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/)
 * [2024-12-04, 12:24:23](https://lobste.rs/s/lnnkmd/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
-* [2024-12-04, 03:42:04](https://lobste.rs/s/ofcewz/egoless_engineering) - [Egoless Engineering](https://egoless.engineering/)
 
 ## [Archives](archives/index.md)
 

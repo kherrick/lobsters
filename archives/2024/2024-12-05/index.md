@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-05](index.md)
 
+* [2024-12-05, 23:59:29](https://lobste.rs/s/efvbar/std_map_with_pointers_as_keys) - [std::map with pointers as keys](https://alexandra-zaharia.github.io/posts/std-map-with-pointers-as-keys/)
 * [2024-12-05, 22:07:43](https://lobste.rs/s/6ovw8b/rust_ffi_vs_golang_ffi_cgo_2021) - [Rust FFI vs Golang FFI (cgo) (2021)](https://wutch.medium.com/rust-ffi-vs-golang-ffi-cgo-59e6ea3a83c6)
 * [2024-12-05, 22:07:17](https://lobste.rs/s/ogq8lu/this_month_redox_november_2024) - [This Month in Redox - November 2024](https://www.redox-os.org/news/this-month-241130/)
 * [2024-12-05, 21:35:21](https://lobste.rs/s/wxbsou/acton_programming_language) - [The Acton Programming Language](https://github.com/actonlang/acton)
