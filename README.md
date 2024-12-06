@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-06, 14:49:16](https://lobste.rs/s/ldaat0/react_19_is_now_stable) - [React 19 is now stable](https://react.dev/blog/2024/12/05/react-19)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
 * [2024-12-06, 12:23:09](https://lobste.rs/s/5dycj5/funding_json_open_manifest_for) - [funding.json - an open manifest for describing financial requirements for FOSS projects](https://floss.fund/funding-manifest/)
 * [2024-12-06, 11:19:51](https://lobste.rs/s/iibppa/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iibppa/what_are_you_doing_this_weekend)
@@ -13,7 +14,6 @@
 * [2024-12-05, 23:59:29](https://lobste.rs/s/efvbar/std_map_with_pointers_as_keys) - [std::map with pointers as keys](https://alexandra-zaharia.github.io/posts/std-map-with-pointers-as-keys/)
 * [2024-12-05, 21:35:21](https://lobste.rs/s/wxbsou/acton_programming_language) - [The Acton Programming Language](https://github.com/actonlang/acton)
 * [2024-12-05, 21:31:55](https://lobste.rs/s/8murtg/frood_alpine_initramfs_nas) - [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
-* [2024-12-05, 19:36:03](https://lobste.rs/s/yctxj6/naval_gun_fire_control_system_software_is) - [NAVAL GUN Fire Control System software is written in C++, says job listing](https://careers.thalesgroup.com/global/en/job/R0263165/Software-Engineer-C)
 * [2024-12-05, 18:10:21](https://lobste.rs/s/j0heg7/reversing_anti_cheat_s_detection) - [Reversing Anti-Cheat's Detection-Generation Cycle With Configurable Hallucinations](https://www.activision.com/cdn/research/hallucinations)
 * [2024-12-05, 18:06:50](https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter) - [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-05, 16:28:15](https://lobste.rs/s/ieyzw7/flightle_web_based_2d_sidescrolling) - [Flightle – Web-based 2D sidescrolling flight simulator](https://xkqr.org/flightle/)

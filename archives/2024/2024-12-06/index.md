@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 14:49:16](https://lobste.rs/s/ldaat0/react_19_is_now_stable) - [React 19 is now stable](https://react.dev/blog/2024/12/05/react-19)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
 * [2024-12-06, 12:23:09](https://lobste.rs/s/5dycj5/funding_json_open_manifest_for) - [funding.json - an open manifest for describing financial requirements for FOSS projects](https://floss.fund/funding-manifest/)
 * [2024-12-06, 11:19:51](https://lobste.rs/s/iibppa/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iibppa/what_are_you_doing_this_weekend)
