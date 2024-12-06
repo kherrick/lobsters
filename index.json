@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-06, 09:51:38",
+      "https://lobste.rs/s/mjua3w/kubernetes_on_hetzner"
+    ],
+    [
+      "Kubernetes on Hetzner",
+      "https://bilbof.com/posts/kubernetes-on-hetzner"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 09:31:19",
       "https://lobste.rs/s/nruayq/launching_2024_state_rust_survey"
     ],
@@ -47,16 +57,6 @@
     [
       "Fedora Moves Towards Forgejo",
       "https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 03:41:38",
-      "https://lobste.rs/s/apqg8g/pessimistic_optimistic_concurrency"
-    ],
-    [
-      "Pessimistic or Optimistic Concurrency Control? Lessons Learned from Real-World Customer Scenarios",
-      "https://medium.com/@siddontang/pessimistic-or-optimistic-concurrency-control-lessons-learned-from-real-world-customer-scenarios-a4f0b8dd6e49"
     ]
   ],
   [
