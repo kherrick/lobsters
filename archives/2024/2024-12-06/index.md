@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 09:51:38](https://lobste.rs/s/mjua3w/kubernetes_on_hetzner) - [Kubernetes on Hetzner](https://bilbof.com/posts/kubernetes-on-hetzner)
 * [2024-12-06, 09:31:19](https://lobste.rs/s/nruayq/launching_2024_state_rust_survey) - [Launching the 2024 State of Rust Survey](https://blog.rust-lang.org/2024/12/05/annual-survey-2024-launch.html)
 * [2024-12-06, 08:40:09](https://lobste.rs/s/mwldzo/historically_4nf_explanations_are) - [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
 * [2024-12-06, 08:14:23](https://lobste.rs/s/prfzqz/leadership_power_tools_sql_statistics) - [Leadership Power Tools: SQL and Statistics](https://matt.blwt.io/post/leadership-power-tools-sql-and-statistics/)
