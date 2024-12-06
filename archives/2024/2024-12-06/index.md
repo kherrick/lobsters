@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
+* [2024-12-06, 16:01:58](https://lobste.rs/s/ob13bi/introducing_uniffi_for_react_native_rust) - [Introducing Uniffi for React Native: Rust-Powered Turbo Modules](https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/)
+* [2024-12-06, 16:00:26](https://lobste.rs/s/yasd90/ask_questions_sqlite_databases_csv_json) - [Ask questions of SQLite databases and CSV/JSON files in your terminal](https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/)
 * [2024-12-06, 14:49:16](https://lobste.rs/s/ldaat0/react_19_is_now_stable) - [React 19 is now stable](https://react.dev/blog/2024/12/05/react-19)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
 * [2024-12-06, 12:23:09](https://lobste.rs/s/5dycj5/funding_json_open_manifest_for) - [funding.json - an open manifest for describing financial requirements for FOSS projects](https://floss.fund/funding-manifest/)
