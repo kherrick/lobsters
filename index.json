@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-06, 03:41:38",
+      "https://lobste.rs/s/apqg8g/pessimistic_optimistic_concurrency"
+    ],
+    [
+      "Pessimistic or Optimistic Concurrency Control? Lessons Learned from Real-World Customer Scenarios",
+      "https://medium.com/@siddontang/pessimistic-or-optimistic-concurrency-control-lessons-learned-from-real-world-customer-scenarios-a4f0b8dd6e49"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 02:57:44",
       "https://lobste.rs/s/wwwapb/how_pronounce_chinese_names_little"
     ],
@@ -197,16 +207,6 @@
     [
       "Structured binding upgrades in C++26",
       "https://biowpn.github.io/bioweapon/2024/12/03/structured-bindings-cpp26.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 02:28:47",
-      "https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave"
-    ],
-    [
-      "What's up with Lobste.rs blocking the Brave browser?",
-      "https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave"
     ]
   ],
   [
