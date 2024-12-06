@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-06, 19:57:17](https://lobste.rs/s/wks7cv/implementing_linear_non_destructible) - [Implementing Linear / Non-destructible Types in Vale and Mojo](https://youtu.be/IpuvQUVB8Cg)
+* [2024-12-06, 20:24:50](https://lobste.rs/s/zbhtfx/optimality_gerver_s_sofa) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
+* [2024-12-06, 20:19:40](https://lobste.rs/s/elrsth/how_enforce_encapsulation_go) - [How to enforce encapsulation in Go?](https://lobste.rs/s/elrsth/how_enforce_encapsulation_go)
 * [2024-12-06, 19:52:34](https://lobste.rs/s/tzi6ne/damagecard_attack_targets_memory) - [DaMAgeCard attack targets memory directly thru SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-06, 17:02:36](https://lobste.rs/s/9dcyrf/turn_android_phone_batteryless_home) - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 * [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
@@ -22,7 +23,6 @@
 * [2024-12-05, 21:31:55](https://lobste.rs/s/8murtg/frood_alpine_initramfs_nas) - [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
 * [2024-12-05, 18:06:50](https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter) - [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-05, 16:28:15](https://lobste.rs/s/ieyzw7/flightle_web_based_2d_sidescrolling) - [Flightle – Web-based 2D sidescrolling flight simulator](https://xkqr.org/flightle/)
-* [2024-12-05, 14:56:16](https://lobste.rs/s/hswerr/alpine_linux_3_21) - [Alpine Linux 3.21](https://alpinelinux.org/posts/Alpine-3.21.0-released.html)
 * [2024-12-05, 14:45:28](https://lobste.rs/s/klcng5/advent_code_2024_nix_day_01_03) - [Advent Of Code 2024 in Nix - Day 01-03](https://johns.codes/blog/aoc2024/nix/part01)
 * [2024-12-05, 13:18:23](https://lobste.rs/s/cmmwny/simple_38_step_journey_getting_rfc) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 
