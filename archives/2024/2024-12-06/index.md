@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 21:27:27](https://lobste.rs/s/ilirrn/buffered_io_unix_before_v7_introduced) - [Buffered IO in Unix before V7 introduced stdio](https://utcc.utoronto.ca/~cks/space/blog/unix/BufferedIOBeforeStdio)
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 20:44:46](https://lobste.rs/s/uuuwy5/optimizing_linux_ram_for_gaming) - [Optimizing Linux RAM for Gaming](https://hwisnu.bearblog.dev/optimizing-linux-ram-for-gaming/)
 * [2024-12-06, 20:24:50](https://lobste.rs/s/zbhtfx/optimality_gerver_s_sofa) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
