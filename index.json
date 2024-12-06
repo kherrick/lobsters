@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-06, 00:13:54",
+      "https://lobste.rs/s/emsec2/communicating_chorrectly_with"
+    ],
+    [
+      "“Communicating Chorrectly with a Choreography” is out",
+      "https://decomposition.al/blog/2024/12/05/communicating-chorrectly-with-a-choreography-is-out/"
+    ]
+  ],
+  [
+    [
+      "2024-12-05, 23:59:29",
+      "https://lobste.rs/s/efvbar/std_map_with_pointers_as_keys"
+    ],
+    [
+      "std::map with pointers as keys",
+      "https://alexandra-zaharia.github.io/posts/std-map-with-pointers-as-keys/"
+    ]
+  ],
+  [
+    [
       "2024-12-05, 22:07:43",
       "https://lobste.rs/s/6ovw8b/rust_ffi_vs_golang_ffi_cgo_2021"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-12-04, 20:27:57",
-      "https://lobste.rs/s/5vzujx/complex_bug_with_simple_fix"
-    ],
-    [
-      "A complex bug with a ⸢simple⸣ fix",
-      "https://blog.plover.com/prog/bug/timing.html"
-    ]
-  ],
-  [
-    [
       "2024-12-04, 20:17:02",
       "https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres"
     ],
@@ -237,16 +247,6 @@
     [
       "Speeding up Ruby by rewriting C in Ruby",
       "https://jpcamara.com/2024/12/01/speeding-up-ruby.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 03:42:04",
-      "https://lobste.rs/s/ofcewz/egoless_engineering"
-    ],
-    [
-      "Egoless Engineering",
-      "https://egoless.engineering/"
     ]
   ]
 ]
