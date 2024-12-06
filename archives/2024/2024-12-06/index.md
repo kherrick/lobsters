@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
+* [2024-12-06, 20:44:46](https://lobste.rs/s/uuuwy5/optimizing_linux_ram_for_gaming) - [Optimizing Linux RAM for Gaming](https://hwisnu.bearblog.dev/optimizing-linux-ram-for-gaming/)
 * [2024-12-06, 20:24:50](https://lobste.rs/s/zbhtfx/optimality_gerver_s_sofa) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
 * [2024-12-06, 20:19:40](https://lobste.rs/s/elrsth/how_enforce_encapsulation_go) - [How to enforce encapsulation in Go?](https://lobste.rs/s/elrsth/how_enforce_encapsulation_go)
 * [2024-12-06, 19:57:17](https://lobste.rs/s/wks7cv/implementing_linear_non_destructible) - [Implementing Linear / Non-destructible Types in Vale and Mojo](https://youtu.be/IpuvQUVB8Cg)
