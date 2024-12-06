@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-06, 03:41:38](https://lobste.rs/s/apqg8g/pessimistic_optimistic_concurrency) - [Pessimistic or Optimistic Concurrency Control? Lessons Learned from Real-World Customer Scenarios](https://medium.com/@siddontang/pessimistic-or-optimistic-concurrency-control-lessons-learned-from-real-world-customer-scenarios-a4f0b8dd6e49)
 * [2024-12-06, 02:57:44](https://lobste.rs/s/wwwapb/how_pronounce_chinese_names_little) - [How to Pronounce Chinese Names a Little Better](https://jacko.io/chinese_names.html)
 * [2024-12-06, 00:13:54](https://lobste.rs/s/emsec2/communicating_chorrectly_with) - [“Communicating Chorrectly with a Choreography” is out](https://decomposition.al/blog/2024/12/05/communicating-chorrectly-with-a-choreography-is-out/)
 * [2024-12-05, 23:59:29](https://lobste.rs/s/efvbar/std_map_with_pointers_as_keys) - [std::map with pointers as keys](https://alexandra-zaharia.github.io/posts/std-map-with-pointers-as-keys/)
@@ -20,7 +21,6 @@
 * [2024-12-05, 12:34:06](https://lobste.rs/s/ba8yoq/nasa_graphics_design_manual_1976) - [NASA Graphics Design Manual (1976)](https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf)
 * [2024-12-05, 12:08:35](https://lobste.rs/s/hezait/you_can_t_get_more_adversarial_than_pvp) - [You can’t get more adversarial than PvP MMORPGs](https://wirepair.org/2024/12/03/you-cant-get-more-adversarial-than-pvp-mmorpgs/)
 * [2024-12-05, 07:33:37](https://lobste.rs/s/u9ijx2/structured_binding_upgrades_c_26) - [Structured binding upgrades in C++26](https://biowpn.github.io/bioweapon/2024/12/03/structured-bindings-cpp26.html)
-* [2024-12-05, 02:28:47](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave) - [What's up with Lobste.rs blocking the Brave browser?](https://lobste.rs/s/iopw1d/what_s_up_with_lobste_rs_blocking_brave)
 * [2024-12-04, 23:44:20](https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages) - [Praise to scdoc to generate man pages](https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/)
 * [2024-12-04, 20:17:02](https://lobste.rs/s/nlaaa7/keyset_cursors_not_offsets_for_postgres) - [Keyset Cursors, Not Offsets, for Postgres Pagination](https://blog.sequinstream.com/keyset-cursors-not-offsets-for-postgres-pagination/)
 * [2024-12-04, 18:04:38](https://lobste.rs/s/8fmrbw/first_impressions_new_amazon_nova_llms) - [First impressions of the new Amazon Nova LLMs (via a new llm-bedrock plugin)](https://simonwillison.net/2024/Dec/4/amazon-nova/)
