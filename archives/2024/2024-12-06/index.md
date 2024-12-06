@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-06](index.md)
 
+* [2024-12-06, 19:52:34](https://lobste.rs/s/tzi6ne/damagecard_attack_targets_memory) - [DaMAgeCard attack targets memory directly thru SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-06, 18:47:45](https://lobste.rs/s/zjnoc2/postgrest_rest_api_for_any_postgres) - [postgrest: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
 * [2024-12-06, 17:02:36](https://lobste.rs/s/9dcyrf/turn_android_phone_batteryless_home) - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 * [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
