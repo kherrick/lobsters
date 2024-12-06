@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-06, 16:07:49",
+      "https://lobste.rs/s/hjufp8/start_with_go_standard_library"
+    ],
+    [
+      "Start With the Go Standard Library",
+      "https://matthewsanabria.dev/posts/start-with-the-go-standard-library/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 16:01:58",
+      "https://lobste.rs/s/ob13bi/introducing_uniffi_for_react_native_rust"
+    ],
+    [
+      "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
+      "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 16:00:26",
+      "https://lobste.rs/s/yasd90/ask_questions_sqlite_databases_csv_json"
+    ],
+    [
+      "Ask questions of SQLite databases and CSV/JSON files in your terminal",
+      "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 14:49:16",
       "https://lobste.rs/s/ldaat0/react_19_is_now_stable"
     ],
@@ -171,16 +201,6 @@
   ],
   [
     [
-      "2024-12-05, 15:49:12",
-      "https://lobste.rs/s/8truph/how_pack_ternary_numbers_8_bit_bytes"
-    ],
-    [
-      "How to pack ternary numbers in 8-bit bytes",
-      "https://compilade.net/blog/ternary-packing"
-    ]
-  ],
-  [
-    [
       "2024-12-05, 14:56:16",
       "https://lobste.rs/s/hswerr/alpine_linux_3_21"
     ],
@@ -217,26 +237,6 @@
     [
       "The \"simple\" 38 step journey to getting an RFC",
       "https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 12:34:06",
-      "https://lobste.rs/s/ba8yoq/nasa_graphics_design_manual_1976"
-    ],
-    [
-      "NASA Graphics Design Manual (1976)",
-      "https://www.nasa.gov/wp-content/uploads/2015/01/nasa_graphics_manual_nhb_1430-2_jan_1976.pdf"
-    ]
-  ],
-  [
-    [
-      "2024-12-04, 23:44:20",
-      "https://lobste.rs/s/ya7zsm/praise_scdoc_generate_man_pages"
-    ],
-    [
-      "Praise to scdoc to generate man pages",
-      "https://kokada.dev/blog/praise-to-scdoc-to-generate-man-pages/"
     ]
   ],
   [
