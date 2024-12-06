@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2024-12-06, 20:19:40",
+      "https://lobste.rs/s/elrsth/how_enforce_encapsulation_go"
+    ],
+    [
+      "How to enforce encapsulation in Go?",
+      "https://lobste.rs/s/elrsth/how_enforce_encapsulation_go"
+    ]
+  ],
+  [
+    [
       "2024-12-06, 19:52:34",
       "https://lobste.rs/s/tzi6ne/damagecard_attack_targets_memory"
     ],
@@ -77,16 +87,6 @@
     [
       "Start With the Go Standard Library",
       "https://matthewsanabria.dev/posts/start-with-the-go-standard-library/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 16:01:58",
-      "https://lobste.rs/s/ob13bi/introducing_uniffi_for_react_native_rust"
-    ],
-    [
-      "Introducing Uniffi for React Native: Rust-Powered Turbo Modules",
-      "https://hacks.mozilla.org/2024/12/introducing-uniffi-for-react-native-rust-powered-turbo-modules/"
     ]
   ],
   [
