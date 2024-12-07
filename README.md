@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-07, 06:02:00](https://lobste.rs/s/1eswpy/how_we_designed_page_previews_for) - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
+* [2024-12-07, 05:59:19](https://lobste.rs/s/qdhwir/why_it_took_long_time_build_tiny_link) - [Why it took a long time to build that tiny link preview on Wikipedia](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
 * [2024-12-07, 01:24:43](https://lobste.rs/s/mfzslk/pentium_fdiv_bug_reverse_engineered) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-07, 00:57:29](https://lobste.rs/s/ywttah/biggest_shell_programs_world_wiki) - [The Biggest Shell Programs in the World (wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 * [2024-12-06, 22:51:09](https://lobste.rs/s/7mbcn0/writing_down_searching_through_every) - [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
@@ -18,12 +20,10 @@
 * [2024-12-06, 12:23:09](https://lobste.rs/s/5dycj5/funding_json_open_manifest_for) - [funding.json - an open manifest for describing financial requirements for FOSS projects](https://floss.fund/funding-manifest/)
 * [2024-12-06, 12:03:51](https://lobste.rs/s/qoq6kd/debian_opens_can_username_worms) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/b900adbda6b8c2cb/)
 * [2024-12-06, 11:19:51](https://lobste.rs/s/iibppa/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/iibppa/what_are_you_doing_this_weekend)
-* [2024-12-06, 09:51:38](https://lobste.rs/s/mjua3w/kubernetes_on_hetzner) - [Kubernetes on Hetzner](https://bilbof.com/posts/kubernetes-on-hetzner)
 * [2024-12-06, 09:31:19](https://lobste.rs/s/nruayq/launching_2024_state_rust_survey) - [Launching the 2024 State of Rust Survey](https://blog.rust-lang.org/2024/12/05/annual-survey-2024-launch.html)
 * [2024-12-06, 08:40:09](https://lobste.rs/s/mwldzo/historically_4nf_explanations_are) - [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
 * [2024-12-06, 05:58:27](https://lobste.rs/s/mgneu0/fedora_moves_towards_forgejo) - [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
 * [2024-12-05, 21:31:55](https://lobste.rs/s/8murtg/frood_alpine_initramfs_nas) - [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
-* [2024-12-05, 18:06:50](https://lobste.rs/s/2dbvkx/simple_live_calculator_with_tree_sitter) - [A simple live calculator with tree-sitter + cranelift jit](https://github.com/jasonjmcghee/basic-treesitter-cranelift-jit)
 * [2024-12-05, 13:18:23](https://lobste.rs/s/cmmwny/simple_38_step_journey_getting_rfc) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 
 ## [Archives](archives/index.md)
