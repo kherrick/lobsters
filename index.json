@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-07, 10:12:21",
+      "https://lobste.rs/s/fwwkcm/firefox_is_superior_browser"
+    ],
+    [
+      "Firefox is the superior browser",
+      "https://asindu.xyz/posts/switching-to-firefox/"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 09:05:44",
       "https://lobste.rs/s/esxusd/intuition_software_development"
     ],
@@ -97,16 +107,6 @@
     [
       "DaMAgeCard attack targets memory directly thru SD card reader",
       "https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 18:47:45",
-      "https://lobste.rs/s/zjnoc2/postgrest_rest_api_for_any_postgres"
-    ],
-    [
-      "postgrest: REST API for any Postgres database",
-      "https://github.com/PostgREST/postgrest"
     ]
   ],
   [
