@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 09:05:44](https://lobste.rs/s/esxusd/intuition_software_development) - [Intuition in Software Development](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition)
 * [2024-12-07, 06:02:00](https://lobste.rs/s/1eswpy/how_we_designed_page_previews_for) - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
 * [2024-12-07, 05:59:19](https://lobste.rs/s/qdhwir/why_it_took_long_time_build_tiny_link) - [Why it took a long time to build that tiny link preview on Wikipedia](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
@@ -10,7 +11,6 @@
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 20:24:50](https://lobste.rs/s/zbhtfx/optimality_gerver_s_sofa) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
 * [2024-12-06, 19:52:34](https://lobste.rs/s/tzi6ne/damagecard_attack_targets_memory) - [DaMAgeCard attack targets memory directly thru SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
-* [2024-12-06, 18:47:45](https://lobste.rs/s/zjnoc2/postgrest_rest_api_for_any_postgres) - [postgrest: REST API for any Postgres database](https://github.com/PostgREST/postgrest)
 * [2024-12-06, 17:02:36](https://lobste.rs/s/9dcyrf/turn_android_phone_batteryless_home) - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 * [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:56:26](https://lobste.rs/s/a94goy/can_one_explain_schemes_biologists_2014) - [Can one explain schemes to biologists? (2014)](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html)

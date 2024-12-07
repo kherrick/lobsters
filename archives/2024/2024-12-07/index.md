@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 09:05:44](https://lobste.rs/s/esxusd/intuition_software_development) - [Intuition in Software Development](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition)
 * [2024-12-07, 06:02:00](https://lobste.rs/s/1eswpy/how_we_designed_page_previews_for) - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
 * [2024-12-07, 05:59:19](https://lobste.rs/s/qdhwir/why_it_took_long_time_build_tiny_link) - [Why it took a long time to build that tiny link preview on Wikipedia](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
