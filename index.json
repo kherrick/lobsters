@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2024-12-06, 21:27:27",
-      "https://lobste.rs/s/ilirrn/buffered_io_unix_before_v7_introduced"
-    ],
-    [
-      "Buffered IO in Unix before V7 introduced stdio",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/BufferedIOBeforeStdio"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 20:48:45",
       "https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative"
     ],
@@ -107,6 +97,16 @@
     [
       "DaMAgeCard attack targets memory directly thru SD card reader",
       "https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/"
+    ]
+  ],
+  [
+    [
+      "2024-12-06, 18:47:45",
+      "https://lobste.rs/s/zjnoc2/postgrest_rest_api_for_any_postgres"
+    ],
+    [
+      "postgrest: REST API for any Postgres database",
+      "https://github.com/PostgREST/postgrest"
     ]
   ],
   [
