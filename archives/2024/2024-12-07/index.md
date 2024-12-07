@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
 * [2024-12-07, 14:15:29](https://lobste.rs/s/ghzqso/how_solar_minecraft_server_is_changing) - [How a solar Minecraft server is changing the way we play video games](https://theconversation.com/how-a-solar-minecraft-server-is-changing-the-way-we-play-video-games-242473)
 * [2024-12-07, 14:10:43](https://lobste.rs/s/bd7p04/book_understanding_odin_programming) - [[Book] Understanding the Odin Programming Language - Karl Zylinski](https://odinbook.com/)
 * [2024-12-07, 14:04:52](https://lobste.rs/s/kbeecf/how_manage_services_freebsd_jails_with) - [How to manage services in FreeBSD jails with Ansible](https://tudorr.ro/blog/ansible-service-in-jail/)

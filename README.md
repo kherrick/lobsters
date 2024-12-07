@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
 * [2024-12-07, 14:15:29](https://lobste.rs/s/ghzqso/how_solar_minecraft_server_is_changing) - [How a solar Minecraft server is changing the way we play video games](https://theconversation.com/how-a-solar-minecraft-server-is-changing-the-way-we-play-video-games-242473)
 * [2024-12-07, 14:10:43](https://lobste.rs/s/bd7p04/book_understanding_odin_programming) - [[Book] Understanding the Odin Programming Language - Karl Zylinski](https://odinbook.com/)
 * [2024-12-07, 14:04:52](https://lobste.rs/s/kbeecf/how_manage_services_freebsd_jails_with) - [How to manage services in FreeBSD jails with Ansible](https://tudorr.ro/blog/ansible-service-in-jail/)
@@ -18,7 +19,6 @@
 * [2024-12-06, 19:52:34](https://lobste.rs/s/tzi6ne/damagecard_attack_targets_memory) - [DaMAgeCard attack targets memory directly thru SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-06, 17:02:36](https://lobste.rs/s/9dcyrf/turn_android_phone_batteryless_home) - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 * [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
-* [2024-12-06, 16:56:26](https://lobste.rs/s/a94goy/can_one_explain_schemes_biologists_2014) - [Can one explain schemes to biologists? (2014)](https://www.dam.brown.edu/people/mumford/blog/2014/Grothendieck.html)
 * [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
 * [2024-12-06, 12:03:51](https://lobste.rs/s/qoq6kd/debian_opens_can_username_worms) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/b900adbda6b8c2cb/)
