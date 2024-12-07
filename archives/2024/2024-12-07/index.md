@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-07](index.md)
 
+* [2024-12-07, 13:40:39](https://lobste.rs/s/unghsx/designing_const_array_from_fn_stable_rust) - [Designing a const `array::from_fn` in stable Rust](https://13ros27.github.io/blog/const-array-from-fn/)
 * [2024-12-07, 11:48:27](https://lobste.rs/s/wasfxn/how_prevent_panics_go) - [How to prevent panics in Go](https://jarosz.dev/article/how-to-prevent-panics/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 09:05:44](https://lobste.rs/s/esxusd/intuition_software_development) - [Intuition in Software Development](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition)
