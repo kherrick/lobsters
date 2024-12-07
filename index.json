@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-07, 09:05:44",
+      "https://lobste.rs/s/esxusd/intuition_software_development"
+    ],
+    [
+      "Intuition in Software Development",
+      "https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 06:02:00",
       "https://lobste.rs/s/1eswpy/how_we_designed_page_previews_for"
     ],
@@ -237,16 +247,6 @@
     [
       "frood, an Alpine initramfs NAS",
       "https://words.filippo.io/dispatches/frood/"
-    ]
-  ],
-  [
-    [
-      "2024-12-05, 13:18:23",
-      "https://lobste.rs/s/cmmwny/simple_38_step_journey_getting_rfc"
-    ],
-    [
-      "The \"simple\" 38 step journey to getting an RFC",
-      "https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps"
     ]
   ]
 ]
