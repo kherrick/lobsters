@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-07, 09:05:44](https://lobste.rs/s/esxusd/intuition_software_development) - [Intuition in Software Development](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition)
 * [2024-12-07, 06:02:00](https://lobste.rs/s/1eswpy/how_we_designed_page_previews_for) - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
 * [2024-12-07, 05:59:19](https://lobste.rs/s/qdhwir/why_it_took_long_time_build_tiny_link) - [Why it took a long time to build that tiny link preview on Wikipedia](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
 * [2024-12-07, 01:24:43](https://lobste.rs/s/mfzslk/pentium_fdiv_bug_reverse_engineered) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
@@ -24,7 +25,6 @@
 * [2024-12-06, 08:40:09](https://lobste.rs/s/mwldzo/historically_4nf_explanations_are) - [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
 * [2024-12-06, 05:58:27](https://lobste.rs/s/mgneu0/fedora_moves_towards_forgejo) - [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
 * [2024-12-05, 21:31:55](https://lobste.rs/s/8murtg/frood_alpine_initramfs_nas) - [frood, an Alpine initramfs NAS](https://words.filippo.io/dispatches/frood/)
-* [2024-12-05, 13:18:23](https://lobste.rs/s/cmmwny/simple_38_step_journey_getting_rfc) - [The \"simple\" 38 step journey to getting an RFC](https://blog.benjojo.co.uk/post/rfc-in-38-simple-steps)
 
 ## [Archives](archives/index.md)
 
