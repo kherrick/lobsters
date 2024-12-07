@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-07, 14:15:29",
+      "https://lobste.rs/s/ghzqso/how_solar_minecraft_server_is_changing"
+    ],
+    [
+      "How a solar Minecraft server is changing the way we play video games",
+      "https://theconversation.com/how-a-solar-minecraft-server-is-changing-the-way-we-play-video-games-242473"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 14:10:43",
+      "https://lobste.rs/s/bd7p04/book_understanding_odin_programming"
+    ],
+    [
+      "[Book] Understanding the Odin Programming Language - Karl Zylinski",
+      "https://odinbook.com/"
+    ]
+  ],
+  [
+    [
+      "2024-12-07, 14:04:52",
+      "https://lobste.rs/s/kbeecf/how_manage_services_freebsd_jails_with"
+    ],
+    [
+      "How to manage services in FreeBSD jails with Ansible",
+      "https://tudorr.ro/blog/ansible-service-in-jail/"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 13:40:39",
       "https://lobste.rs/s/unghsx/designing_const_array_from_fn_stable_rust"
     ],
@@ -171,42 +201,12 @@
   ],
   [
     [
-      "2024-12-06, 16:00:26",
-      "https://lobste.rs/s/yasd90/ask_questions_sqlite_databases_csv_json"
-    ],
-    [
-      "Ask questions of SQLite databases and CSV/JSON files in your terminal",
-      "https://simonwillison.net/2024/Nov/25/ask-questions-of-sqlite/"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 14:49:16",
-      "https://lobste.rs/s/ldaat0/react_19_is_now_stable"
-    ],
-    [
-      "React 19 is now stable",
-      "https://react.dev/blog/2024/12/05/react-19"
-    ]
-  ],
-  [
-    [
       "2024-12-06, 12:51:54",
       "https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name"
     ],
     [
       "Maliciously crafted GitHub branch name embeds crypto miner into a released package",
       "https://github.com/ultralytics/ultralytics/issues/18027"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 12:23:09",
-      "https://lobste.rs/s/5dycj5/funding_json_open_manifest_for"
-    ],
-    [
-      "funding.json - an open manifest for describing financial requirements for FOSS projects",
-      "https://floss.fund/funding-manifest/"
     ]
   ],
   [
