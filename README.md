@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-08, 02:12:34](https://lobste.rs/s/rtmz0y/when_is_inlining_useful) - [When is inlining useful?](https://osa1.net/posts/2024-12-07-inlining.html)
 * [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
 * [2024-12-07, 14:15:29](https://lobste.rs/s/ghzqso/how_solar_minecraft_server_is_changing) - [How a solar Minecraft server is changing the way we play video games](https://theconversation.com/how-a-solar-minecraft-server-is-changing-the-way-we-play-video-games-242473)
 * [2024-12-07, 14:10:43](https://lobste.rs/s/bd7p04/understanding_odin_programming) - [Understanding the Odin Programming Language](https://odinbook.com/)
@@ -16,7 +17,6 @@
 * [2024-12-06, 21:37:11](https://lobste.rs/s/ka1tw7/advent_criminally_bad_ruby_code) - [Advent of Criminally Bad Ruby Code](https://jardo.dev/advent-of-criminally-bad-ruby-code)
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 20:24:50](https://lobste.rs/s/zbhtfx/optimality_gerver_s_sofa) - [Optimality of Gerver's Sofa](https://arxiv.org/abs/2411.19826)
-* [2024-12-06, 19:52:34](https://lobste.rs/s/tzi6ne/damagecard_attack_targets_memory) - [DaMAgeCard attack targets memory directly thru SD card reader](https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/)
 * [2024-12-06, 17:02:36](https://lobste.rs/s/9dcyrf/turn_android_phone_batteryless_home) - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 * [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)

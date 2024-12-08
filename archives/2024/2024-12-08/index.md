@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-08](index.md)
+
+* [2024-12-08, 02:12:34](https://lobste.rs/s/rtmz0y/when_is_inlining_useful) - [When is inlining useful?](https://osa1.net/posts/2024-12-07-inlining.html)
