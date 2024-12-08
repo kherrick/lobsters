@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 20:25:36](https://lobste.rs/s/wfxcs2/defusing_agpl_3_with_batch_processing) - [Defusing AGPL-3 With Batch Processing](https://flameeyes.blog/2024/12/08/defusing-agpl-3-with-batch-processing/)
 * [2024-12-08, 20:13:01](https://lobste.rs/s/z1zwpu/should_std_expected_be_nodiscard) - [Should std::expected be [[nodiscard]]?](https://quuxplusone.github.io/blog/2024/12/08/should-expected-be-nodiscard/)
 * [2024-12-08, 19:58:23](https://lobste.rs/s/a1bcto/victorialogs_grafana_dashboard_for_aws) - [VictoriaLogs: a Grafana dashboard for AWS VPC Flow Logs – migrating from Grafana Loki](https://rtfm.co.ua/en/victorialogs-a-grafana-dashboard-for-aws-vpc-flow-logs-migrating-from-grafana-loki)
 * [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
