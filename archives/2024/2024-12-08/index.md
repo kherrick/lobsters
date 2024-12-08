@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 15:23:06](https://lobste.rs/s/enbyp7/how_do_i_pay_publisher_web_page) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
 * [2024-12-08, 14:22:31](https://lobste.rs/s/18dnzo/running_tpc_h_sf100_on_mobile_phones) - [Running TPC-H SF100 on Mobile Phones](https://duckdb.org/2024/12/06/duckdb-tpch-sf100-on-mobile.html)
 * [2024-12-08, 14:08:08](https://lobste.rs/s/i3sp2n/openwrt_affected_by_security_issue_could) - [OpenWrt Affected by Security Issue That Could Have Led to Compromised Build Artifacts](https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds)
 * [2024-12-08, 13:41:54](https://lobste.rs/s/52k6jo/ibm_s_edward_andrus_on_how_company_helped) - [IBM's Edward A. Andrus on how the company helped Bill Gates, because Gates's mother asked (3min video)](https://www.youtube.com/watch?v=MMPOJgqfNAk)
