@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-08, 20:13:01](https://lobste.rs/s/z1zwpu/should_std_expected_be_nodiscard) - [Should std::expected be [[nodiscard]]?](https://quuxplusone.github.io/blog/2024/12/08/should-expected-be-nodiscard/)
+* [2024-12-08, 19:58:23](https://lobste.rs/s/a1bcto/victorialogs_grafana_dashboard_for_aws) - [VictoriaLogs: a Grafana dashboard for AWS VPC Flow Logs – migrating from Grafana Loki](https://rtfm.co.ua/en/victorialogs-a-grafana-dashboard-for-aws-vpc-flow-logs-migrating-from-grafana-loki)
 * [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 15:23:06](https://lobste.rs/s/enbyp7/how_do_i_pay_publisher_web_page) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
 * [2024-12-08, 14:22:31](https://lobste.rs/s/18dnzo/running_tpc_h_sf100_on_mobile_phones) - [Running TPC-H SF100 on Mobile Phones](https://duckdb.org/2024/12/06/duckdb-tpch-sf100-on-mobile.html)
@@ -17,13 +19,11 @@
 * [2024-12-07, 14:04:52](https://lobste.rs/s/kbeecf/how_manage_services_freebsd_jails_with) - [How to manage services in FreeBSD jails with Ansible](https://tudorr.ro/blog/ansible-service-in-jail/)
 * [2024-12-07, 13:40:39](https://lobste.rs/s/unghsx/designing_const_array_from_fn_stable_rust) - [Designing a const `array::from_fn` in stable Rust](https://13ros27.github.io/blog/const-array-from-fn/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
-* [2024-12-07, 09:05:44](https://lobste.rs/s/esxusd/intuition_software_development) - [Intuition in Software Development](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition)
 * [2024-12-07, 05:59:19](https://lobste.rs/s/qdhwir/why_it_took_long_time_build_tiny_link) - [Why it took a long time to build that tiny link preview on Wikipedia [2018]](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
 * [2024-12-07, 00:57:29](https://lobste.rs/s/ywttah/biggest_shell_programs_world_wiki) - [The Biggest Shell Programs in the World (wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 * [2024-12-06, 22:51:09](https://lobste.rs/s/7mbcn0/writing_down_searching_through_every) - [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
 * [2024-12-06, 21:37:11](https://lobste.rs/s/ka1tw7/advent_criminally_bad_ruby_code) - [Advent of Criminally Bad Ruby Code](https://jardo.dev/advent-of-criminally-bad-ruby-code)
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
-* [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
 
 ## [Archives](archives/index.md)

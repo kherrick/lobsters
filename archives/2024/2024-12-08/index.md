@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 20:13:01](https://lobste.rs/s/z1zwpu/should_std_expected_be_nodiscard) - [Should std::expected be [[nodiscard]]?](https://quuxplusone.github.io/blog/2024/12/08/should-expected-be-nodiscard/)
+* [2024-12-08, 19:58:23](https://lobste.rs/s/a1bcto/victorialogs_grafana_dashboard_for_aws) - [VictoriaLogs: a Grafana dashboard for AWS VPC Flow Logs – migrating from Grafana Loki](https://rtfm.co.ua/en/victorialogs-a-grafana-dashboard-for-aws-vpc-flow-logs-migrating-from-grafana-loki)
 * [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 15:23:06](https://lobste.rs/s/enbyp7/how_do_i_pay_publisher_web_page) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
 * [2024-12-08, 14:22:31](https://lobste.rs/s/18dnzo/running_tpc_h_sf100_on_mobile_phones) - [Running TPC-H SF100 on Mobile Phones](https://duckdb.org/2024/12/06/duckdb-tpch-sf100-on-mobile.html)
