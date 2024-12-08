@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-08, 14:08:08](https://lobste.rs/s/i3sp2n/openwrt_affected_by_security_issue_could) - [OpenWrt Affected by Security Issue That Could Have Led to Compromised Build Artifacts](https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds)
 * [2024-12-08, 13:41:54](https://lobste.rs/s/52k6jo/ibm_s_edward_andrus_on_how_company_helped) - [IBM's Edward A. Andrus on how the company helped Bill Gates, because Gates's mother asked (3min video)](https://www.youtube.com/watch?v=MMPOJgqfNAk)
 * [2024-12-08, 12:16:01](https://lobste.rs/s/tkrczb/reclaim_internet_mozilla_s_rebrand_for) - [Reclaim the internet: Mozilla’s rebrand for the next era of tech](https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech/)
 * [2024-12-08, 12:08:47](https://lobste.rs/s/psxawq/protect_mode_support_original_windows_3_0) - [Protect mode support in the original Windows 3.0 was basically a 1-man skunkworks project](https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/)
@@ -24,7 +25,6 @@
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
-* [2024-12-06, 05:58:27](https://lobste.rs/s/mgneu0/fedora_moves_towards_forgejo) - [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
 
 ## [Archives](archives/index.md)
 
