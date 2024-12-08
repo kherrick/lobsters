@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-08, 13:41:54](https://lobste.rs/s/52k6jo/ibm_s_edward_andrus_on_how_company_helped) - [IBM's Edward A. Andrus on how the company helped Bill Gates, because Gates's mother asked (3min video)](https://www.youtube.com/watch?v=MMPOJgqfNAk)
 * [2024-12-08, 12:16:01](https://lobste.rs/s/tkrczb/reclaim_internet_mozilla_s_rebrand_for) - [Reclaim the internet: Mozilla’s rebrand for the next era of tech](https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech/)
 * [2024-12-08, 12:08:47](https://lobste.rs/s/psxawq/protect_mode_support_original_windows_3_0) - [Protect mode support in the original Windows 3.0 was basically a 1-man skunkworks project](https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/)
 * [2024-12-08, 09:27:01](https://lobste.rs/s/i3pqja/errors_tex) - [The errors of TeX](https://yurichev.com/mirrors/knuth1989.pdf)
@@ -15,7 +16,6 @@
 * [2024-12-07, 13:40:39](https://lobste.rs/s/unghsx/designing_const_array_from_fn_stable_rust) - [Designing a const `array::from_fn` in stable Rust](https://13ros27.github.io/blog/const-array-from-fn/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 09:05:44](https://lobste.rs/s/esxusd/intuition_software_development) - [Intuition in Software Development](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition)
-* [2024-12-07, 06:02:00](https://lobste.rs/s/1eswpy/how_we_designed_page_previews_for) - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
 * [2024-12-07, 05:59:19](https://lobste.rs/s/qdhwir/why_it_took_long_time_build_tiny_link) - [Why it took a long time to build that tiny link preview on Wikipedia [2018]](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
 * [2024-12-07, 01:24:43](https://lobste.rs/s/mfzslk/pentium_fdiv_bug_reverse_engineered) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-07, 00:57:29](https://lobste.rs/s/ywttah/biggest_shell_programs_world_wiki) - [The Biggest Shell Programs in the World (wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
