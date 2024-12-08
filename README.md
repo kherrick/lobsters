@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-08, 05:31:08](https://lobste.rs/s/7c5dlf/install_docker_natively_on_android_phone) - [Install Docker natively on Android Phone and use it as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
 * [2024-12-08, 03:19:08](https://lobste.rs/s/smdj5q/composite_hard_reset_mods_for) - [Composite and hard reset mods for the Tandyvision One](https://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:12:34](https://lobste.rs/s/rtmz0y/when_is_inlining_useful) - [When is inlining useful?](https://osa1.net/posts/2024-12-07-inlining.html)
 * [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
@@ -21,7 +22,6 @@
 * [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
-* [2024-12-06, 12:03:51](https://lobste.rs/s/qoq6kd/debian_opens_can_username_worms) - [Debian opens a can of username worms](https://lwn.net/SubscriberLink/1000485/b900adbda6b8c2cb/)
 * [2024-12-06, 09:31:19](https://lobste.rs/s/nruayq/launching_2024_state_rust_survey) - [Launching the 2024 State of Rust Survey](https://blog.rust-lang.org/2024/12/05/annual-survey-2024-launch.html)
 * [2024-12-06, 08:40:09](https://lobste.rs/s/mwldzo/historically_4nf_explanations_are) - [Historically, 4NF explanations are needlessly confusing](https://minimalmodeling.substack.com/p/historically-4nf-explanations-are)
 * [2024-12-06, 05:58:27](https://lobste.rs/s/mgneu0/fedora_moves_towards_forgejo) - [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
