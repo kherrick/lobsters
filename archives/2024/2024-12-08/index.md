@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 12:16:01](https://lobste.rs/s/tkrczb/reclaim_internet_mozilla_s_rebrand_for) - [Reclaim the internet: Mozilla’s rebrand for the next era of tech](https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech/)
+* [2024-12-08, 12:08:47](https://lobste.rs/s/psxawq/protect_mode_support_original_windows_3_0) - [Protect mode support in the original Windows 3.0 was basically a 1-man skunkworks project](https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/)
 * [2024-12-08, 09:27:01](https://lobste.rs/s/i3pqja/errors_tex) - [The errors of TeX](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-08, 09:06:29](https://lobste.rs/s/jcmq8o/creating_autonomous_system_for_fun) - [Creating an Autonomous System for Fun and Profit](http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2024-12-08, 08:15:46](https://lobste.rs/s/frfuch/jepsen_test_on_patroni_postgresql_high) - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-08, 12:16:01](https://lobste.rs/s/tkrczb/reclaim_internet_mozilla_s_rebrand_for) - [Reclaim the internet: Mozilla’s rebrand for the next era of tech](https://blog.mozilla.org/en/mozilla/mozilla-brand-next-era-of-tech/)
+* [2024-12-08, 12:08:47](https://lobste.rs/s/psxawq/protect_mode_support_original_windows_3_0) - [Protect mode support in the original Windows 3.0 was basically a 1-man skunkworks project](https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/)
 * [2024-12-08, 09:27:01](https://lobste.rs/s/i3pqja/errors_tex) - [The errors of TeX](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-08, 09:06:29](https://lobste.rs/s/jcmq8o/creating_autonomous_system_for_fun) - [Creating an Autonomous System for Fun and Profit](http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2024-12-08, 08:15:46](https://lobste.rs/s/frfuch/jepsen_test_on_patroni_postgresql_high) - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
@@ -11,7 +13,6 @@
 * [2024-12-07, 14:10:43](https://lobste.rs/s/bd7p04/understanding_odin_programming) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-07, 14:04:52](https://lobste.rs/s/kbeecf/how_manage_services_freebsd_jails_with) - [How to manage services in FreeBSD jails with Ansible](https://tudorr.ro/blog/ansible-service-in-jail/)
 * [2024-12-07, 13:40:39](https://lobste.rs/s/unghsx/designing_const_array_from_fn_stable_rust) - [Designing a const `array::from_fn` in stable Rust](https://13ros27.github.io/blog/const-array-from-fn/)
-* [2024-12-07, 11:48:27](https://lobste.rs/s/wasfxn/how_prevent_panics_go) - [How to prevent panics in Go](https://jarosz.dev/article/how-to-prevent-panics/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 09:05:44](https://lobste.rs/s/esxusd/intuition_software_development) - [Intuition in Software Development](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition)
 * [2024-12-07, 06:02:00](https://lobste.rs/s/1eswpy/how_we_designed_page_previews_for) - [How we designed page previews for Wikipedia — and what could be done with them in the future](https://medium.com/freely-sharing-the-sum-of-all-knowledge/how-we-designed-page-previews-for-wikipedia-and-what-could-be-done-with-them-in-the-future-7a5fa6b07b96)
@@ -21,7 +22,6 @@
 * [2024-12-06, 22:51:09](https://lobste.rs/s/7mbcn0/writing_down_searching_through_every) - [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
 * [2024-12-06, 21:37:11](https://lobste.rs/s/ka1tw7/advent_criminally_bad_ruby_code) - [Advent of Criminally Bad Ruby Code](https://jardo.dev/advent-of-criminally-bad-ruby-code)
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
-* [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
 * [2024-12-06, 05:58:27](https://lobste.rs/s/mgneu0/fedora_moves_towards_forgejo) - [Fedora Moves Towards Forgejo](https://fedoramagazine.org/fedora-moves-towards-forgejo-a-unified-decision/)
