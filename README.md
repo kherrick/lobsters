@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-08, 09:27:01](https://lobste.rs/s/i3pqja/errors_tex) - [The errors of TeX](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-08, 09:06:29](https://lobste.rs/s/jcmq8o/creating_autonomous_system_for_fun) - [Creating an Autonomous System for Fun and Profit](http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2024-12-08, 08:15:46](https://lobste.rs/s/frfuch/jepsen_test_on_patroni_postgresql_high) - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
 * [2024-12-08, 05:31:08](https://lobste.rs/s/7c5dlf/install_docker_natively_on_android_phone) - [Install Docker natively on Android Phone and use it as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
@@ -20,7 +21,6 @@
 * [2024-12-06, 22:51:09](https://lobste.rs/s/7mbcn0/writing_down_searching_through_every) - [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
 * [2024-12-06, 21:37:11](https://lobste.rs/s/ka1tw7/advent_criminally_bad_ruby_code) - [Advent of Criminally Bad Ruby Code](https://jardo.dev/advent-of-criminally-bad-ruby-code)
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
-* [2024-12-06, 17:02:36](https://lobste.rs/s/9dcyrf/turn_android_phone_batteryless_home) - [Turn Android Phone to Batteryless Home Server](https://crackoverflow.com/docs/system_administration/containerization/turn_android_phone_to_batteryless_home_server/)
 * [2024-12-06, 16:58:35](https://lobste.rs/s/rr0wsw/box64_v0_3_2_box86_v0_3_8_released) - [Box64 v0.3.2 and Box86 v0.3.8 released](https://box86.org/2024/12/new-version-of-box64-v0-3-2-and-box86-v0-3-8/)
 * [2024-12-06, 16:07:49](https://lobste.rs/s/hjufp8/start_with_go_standard_library) - [Start With the Go Standard Library](https://matthewsanabria.dev/posts/start-with-the-go-standard-library/)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
