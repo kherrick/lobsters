@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-08](index.md)
 
+* [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 15:23:06](https://lobste.rs/s/enbyp7/how_do_i_pay_publisher_web_page) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
 * [2024-12-08, 14:22:31](https://lobste.rs/s/18dnzo/running_tpc_h_sf100_on_mobile_phones) - [Running TPC-H SF100 on Mobile Phones](https://duckdb.org/2024/12/06/duckdb-tpch-sf100-on-mobile.html)
 * [2024-12-08, 14:08:08](https://lobste.rs/s/i3sp2n/openwrt_affected_by_security_issue_could) - [OpenWrt Affected by Security Issue That Could Have Led to Compromised Build Artifacts](https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds)

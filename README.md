@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 15:23:06](https://lobste.rs/s/enbyp7/how_do_i_pay_publisher_web_page) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
 * [2024-12-08, 14:22:31](https://lobste.rs/s/18dnzo/running_tpc_h_sf100_on_mobile_phones) - [Running TPC-H SF100 on Mobile Phones](https://duckdb.org/2024/12/06/duckdb-tpch-sf100-on-mobile.html)
 * [2024-12-08, 14:08:08](https://lobste.rs/s/i3sp2n/openwrt_affected_by_security_issue_could) - [OpenWrt Affected by Security Issue That Could Have Led to Compromised Build Artifacts](https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds)
@@ -18,7 +19,6 @@
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-07, 09:05:44](https://lobste.rs/s/esxusd/intuition_software_development) - [Intuition in Software Development](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-6-intuition)
 * [2024-12-07, 05:59:19](https://lobste.rs/s/qdhwir/why_it_took_long_time_build_tiny_link) - [Why it took a long time to build that tiny link preview on Wikipedia [2018]](https://medium.com/freely-sharing-the-sum-of-all-knowledge/why-it-took-a-long-time-to-build-that-tiny-link-preview-on-wikipedia-d5bd734df8fe)
-* [2024-12-07, 01:24:43](https://lobste.rs/s/mfzslk/pentium_fdiv_bug_reverse_engineered) - [The Pentium FDIV bug, reverse-engineered](https://oldbytes.space/@kenshirriff/113606898880486330)
 * [2024-12-07, 00:57:29](https://lobste.rs/s/ywttah/biggest_shell_programs_world_wiki) - [The Biggest Shell Programs in the World (wiki)](https://github.com/oils-for-unix/oils/wiki/The-Biggest-Shell-Programs-in-the-World)
 * [2024-12-06, 22:51:09](https://lobste.rs/s/7mbcn0/writing_down_searching_through_every) - [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
 * [2024-12-06, 21:37:11](https://lobste.rs/s/ka1tw7/advent_criminally_bad_ruby_code) - [Advent of Criminally Bad Ruby Code](https://jardo.dev/advent-of-criminally-bad-ruby-code)
