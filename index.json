@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-08, 02:12:34",
+      "https://lobste.rs/s/rtmz0y/when_is_inlining_useful"
+    ],
+    [
+      "When is inlining useful?",
+      "https://osa1.net/posts/2024-12-07-inlining.html"
+    ]
+  ],
+  [
+    [
       "2024-12-07, 14:54:22",
       "https://lobste.rs/s/d066ov/galloping_search"
     ],
@@ -157,16 +167,6 @@
     [
       "Optimality of Gerver's Sofa",
       "https://arxiv.org/abs/2411.19826"
-    ]
-  ],
-  [
-    [
-      "2024-12-06, 19:52:34",
-      "https://lobste.rs/s/tzi6ne/damagecard_attack_targets_memory"
-    ],
-    [
-      "DaMAgeCard attack targets memory directly thru SD card reader",
-      "https://swarm.ptsecurity.com/new-dog-old-tricks-damagecard-attack-targets-memory-directly-thru-sd-card-reader/"
     ]
   ],
   [
