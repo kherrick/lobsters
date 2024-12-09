@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 02:55:45](https://lobste.rs/s/9rmxag/full_text_search_milliseconds_with_rails) - [Full Text Search in Milliseconds with Rails and PostgreSQL (2020)](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
 * [2024-12-09, 01:12:13](https://lobste.rs/s/sdzakb/testing_synctest_experiment_for_time) - [testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)
 * [2024-12-08, 20:59:09](https://lobste.rs/s/jnlslh/douglas_crockford_is_not_your_dad) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
 * [2024-12-08, 20:25:36](https://lobste.rs/s/wfxcs2/defusing_agpl_3_with_batch_processing) - [Defusing AGPL-3 With Batch Processing](https://flameeyes.blog/2024/12/08/defusing-agpl-3-with-batch-processing/)
@@ -22,7 +23,6 @@
 * [2024-12-07, 14:04:52](https://lobste.rs/s/kbeecf/how_manage_services_freebsd_jails_with) - [How to manage services in FreeBSD jails with Ansible](https://tudorr.ro/blog/ansible-service-in-jail/)
 * [2024-12-07, 13:40:39](https://lobste.rs/s/unghsx/designing_const_array_from_fn_stable_rust) - [Designing a const `array::from_fn` in stable Rust](https://13ros27.github.io/blog/const-array-from-fn/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
-* [2024-12-06, 22:51:09](https://lobste.rs/s/7mbcn0/writing_down_searching_through_every) - [Writing down (and searching through) every UUID](https://eieio.games/blog/writing-down-every-uuid/)
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
 
