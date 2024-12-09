@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 06:41:47](https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers) - [Data structures as jigs for programmers (Go edition) – Daniel Lemire's blog](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
 * [2024-12-09, 05:31:51](https://lobste.rs/s/ltwlfp/compromising_openwrt_supply_chain_via) - [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [2024-12-09, 02:55:45](https://lobste.rs/s/9rmxag/full_text_search_milliseconds_with_rails) - [Full Text Search in Milliseconds with Rails and PostgreSQL (2020)](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
 * [2024-12-09, 01:12:13](https://lobste.rs/s/sdzakb/testing_synctest_experiment_for_time) - [testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)
@@ -21,7 +22,6 @@
 * [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
 * [2024-12-07, 14:15:29](https://lobste.rs/s/ghzqso/how_solar_minecraft_server_is_changing) - [How a solar Minecraft server is changing the way we play video games](https://theconversation.com/how-a-solar-minecraft-server-is-changing-the-way-we-play-video-games-242473)
 * [2024-12-07, 14:10:43](https://lobste.rs/s/bd7p04/understanding_odin_programming) - [Understanding the Odin Programming Language](https://odinbook.com/)
-* [2024-12-07, 13:40:39](https://lobste.rs/s/unghsx/designing_const_array_from_fn_stable_rust) - [Designing a const `array::from_fn` in stable Rust](https://13ros27.github.io/blog/const-array-from-fn/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 * [2024-12-06, 12:51:54](https://lobste.rs/s/btagmw/maliciously_crafted_github_branch_name) - [Maliciously crafted GitHub branch name embeds crypto miner into a released package](https://github.com/ultralytics/ultralytics/issues/18027)
