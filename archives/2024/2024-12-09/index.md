@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 12:20:53](https://lobste.rs/s/kce8jl/rule_least_client_side_complexity) - [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
 * [2024-12-09, 10:06:50](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week)
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
 * [2024-12-09, 06:41:47](https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers) - [Data structures as jigs for programmers (Go edition) – Daniel Lemire's blog](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)

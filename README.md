@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 12:20:53](https://lobste.rs/s/kce8jl/rule_least_client_side_complexity) - [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
 * [2024-12-09, 10:06:50](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week)
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
 * [2024-12-09, 06:41:47](https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers) - [Data structures as jigs for programmers (Go edition) – Daniel Lemire's blog](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
@@ -21,7 +22,6 @@
 * [2024-12-08, 03:19:08](https://lobste.rs/s/smdj5q/composite_hard_reset_mods_for) - [Composite and hard reset mods for the Tandyvision One](https://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:12:34](https://lobste.rs/s/rtmz0y/when_is_inlining_useful) - [When is inlining useful?](https://osa1.net/posts/2024-12-07-inlining.html)
 * [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
-* [2024-12-07, 14:15:29](https://lobste.rs/s/ghzqso/how_solar_minecraft_server_is_changing) - [How a solar Minecraft server is changing the way we play video games](https://theconversation.com/how-a-solar-minecraft-server-is-changing-the-way-we-play-video-games-242473)
 * [2024-12-07, 14:10:43](https://lobste.rs/s/bd7p04/understanding_odin_programming) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 * [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
