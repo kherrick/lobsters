@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 18:51:45](https://lobste.rs/s/oxeh7y/incremental_tt_munchers) - [Incremental TT Munchers](https://veykril.github.io/tlborm/decl-macros/patterns/tt-muncher.html)
 * [2024-12-09, 18:11:17](https://lobste.rs/s/thqgha/apple_s_use_swift_swiftui_ios_18) - [Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
 * [2024-12-09, 16:55:11](https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy) - [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
@@ -16,7 +17,6 @@
 * [2024-12-09, 02:55:45](https://lobste.rs/s/9rmxag/full_text_search_milliseconds_with_rails) - [Full Text Search in Milliseconds with Rails and PostgreSQL (2020)](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
 * [2024-12-09, 01:12:13](https://lobste.rs/s/sdzakb/testing_synctest_experiment_for_time) - [testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)
 * [2024-12-08, 20:59:09](https://lobste.rs/s/jnlslh/douglas_crockford_is_not_your_dad) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
-* [2024-12-08, 20:25:36](https://lobste.rs/s/wfxcs2/defusing_agpl_3_with_batch_processing) - [Defusing AGPL-3 With Batch Processing](https://flameeyes.blog/2024/12/08/defusing-agpl-3-with-batch-processing/)
 * [2024-12-08, 20:13:01](https://lobste.rs/s/z1zwpu/should_std_expected_be_nodiscard) - [Should std::expected be [[nodiscard]]?](https://quuxplusone.github.io/blog/2024/12/08/should-expected-be-nodiscard/)
 * [2024-12-08, 19:58:23](https://lobste.rs/s/a1bcto/victorialogs_grafana_dashboard_for_aws) - [VictoriaLogs: a Grafana dashboard for AWS VPC Flow Logs – migrating from Grafana Loki](https://rtfm.co.ua/en/victorialogs-a-grafana-dashboard-for-aws-vpc-flow-logs-migrating-from-grafana-loki)
 * [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
