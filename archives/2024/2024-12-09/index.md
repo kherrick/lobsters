@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 13:34:29](https://lobste.rs/s/8pmyoz/dual_ec_drbg_with_justin_schuh_matthew) - [Dual_EC_DRBG with Justin Schuh and Matthew Green](https://securitycryptographywhatever.com/2024/12/07/dual-ec-drbg/)
+* [2024-12-09, 13:19:05](https://lobste.rs/s/glodsj/parsing_midi_messages_rust) - [Parsing MIDI messages in Rust](https://www.ntietz.com/blog/parsing-midi-rust/)
 * [2024-12-09, 12:20:53](https://lobste.rs/s/kce8jl/rule_least_client_side_complexity) - [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
 * [2024-12-09, 10:06:50](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week)
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)

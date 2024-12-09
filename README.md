@@ -1,9 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 13:34:29](https://lobste.rs/s/8pmyoz/dual_ec_drbg_with_justin_schuh_matthew) - [Dual_EC_DRBG with Justin Schuh and Matthew Green](https://securitycryptographywhatever.com/2024/12/07/dual-ec-drbg/)
+* [2024-12-09, 13:19:05](https://lobste.rs/s/glodsj/parsing_midi_messages_rust) - [Parsing MIDI messages in Rust](https://www.ntietz.com/blog/parsing-midi-rust/)
 * [2024-12-09, 12:20:53](https://lobste.rs/s/kce8jl/rule_least_client_side_complexity) - [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
 * [2024-12-09, 10:06:50](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week)
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
-* [2024-12-09, 06:41:47](https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers) - [Data structures as jigs for programmers (Go edition) – Daniel Lemire's blog](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
+* [2024-12-09, 06:41:47](https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers) - [Data structures as jigs for programmers (Go edition)](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
 * [2024-12-09, 05:31:51](https://lobste.rs/s/ltwlfp/compromising_openwrt_supply_chain_via) - [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [2024-12-09, 02:55:45](https://lobste.rs/s/9rmxag/full_text_search_milliseconds_with_rails) - [Full Text Search in Milliseconds with Rails and PostgreSQL (2020)](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
 * [2024-12-09, 01:12:13](https://lobste.rs/s/sdzakb/testing_synctest_experiment_for_time) - [testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)
@@ -21,10 +23,8 @@
 * [2024-12-08, 08:15:46](https://lobste.rs/s/frfuch/jepsen_test_on_patroni_postgresql_high) - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
 * [2024-12-08, 03:19:08](https://lobste.rs/s/smdj5q/composite_hard_reset_mods_for) - [Composite and hard reset mods for the Tandyvision One](https://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
-* [2024-12-07, 14:15:29](https://lobste.rs/s/ghzqso/how_solar_minecraft_server_is_changing) - [How a solar Minecraft server is changing the way we play video games](https://theconversation.com/how-a-solar-minecraft-server-is-changing-the-way-we-play-video-games-242473)
 * [2024-12-07, 14:10:43](https://lobste.rs/s/bd7p04/understanding_odin_programming) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
-* [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 
 ## [Archives](archives/index.md)
 
