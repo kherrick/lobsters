@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-09, 17:13:58",
+      "https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster"
+    ],
+    [
+      "Reducing CO₂ emissions with faster software",
+      "https://pythonspeed.com/articles/co2-emissions-software/"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 16:55:11",
       "https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy"
     ],
@@ -227,16 +237,6 @@
     [
       "Creating an Autonomous System for Fun and Profit",
       "http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 08:15:46",
-      "https://lobste.rs/s/frfuch/jepsen_test_on_patroni_postgresql_high"
-    ],
-    [
-      "Jepsen Test on Patroni: A PostgreSQL High Availability Solution",
-      "https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html"
     ]
   ],
   [
