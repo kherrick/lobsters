@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 19:07:57](https://lobste.rs/s/zqz6mx/what_are_magical_clocks_for) - [What are the Magical Clocks for?](https://buttondown.com/jaffray/archive/what-are-the-magical-clocks-for/)
 * [2024-12-09, 18:55:27](https://lobste.rs/s/7imklf/shepherd_1_0_0_released_init_system) - [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
 * [2024-12-09, 18:51:45](https://lobste.rs/s/oxeh7y/incremental_tt_munchers) - [Incremental TT Munchers](https://veykril.github.io/tlborm/decl-macros/patterns/tt-muncher.html)
 * [2024-12-09, 18:11:17](https://lobste.rs/s/thqgha/apple_s_use_swift_swiftui_ios_18) - [Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)
@@ -15,7 +16,6 @@
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
 * [2024-12-09, 06:41:47](https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers) - [Data structures as jigs for programmers (Go edition)](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
 * [2024-12-09, 05:31:51](https://lobste.rs/s/ltwlfp/compromising_openwrt_supply_chain_via) - [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
-* [2024-12-09, 02:55:45](https://lobste.rs/s/9rmxag/full_text_search_milliseconds_with_rails) - [Full Text Search in Milliseconds with Rails and PostgreSQL (2020)](https://pganalyze.com/blog/full-text-search-ruby-rails-postgres)
 * [2024-12-09, 01:12:13](https://lobste.rs/s/sdzakb/testing_synctest_experiment_for_time) - [testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)
 * [2024-12-08, 20:59:09](https://lobste.rs/s/jnlslh/douglas_crockford_is_not_your_dad) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
 * [2024-12-08, 20:13:01](https://lobste.rs/s/z1zwpu/should_std_expected_be_nodiscard) - [Should std::expected be [[nodiscard]]?](https://quuxplusone.github.io/blog/2024/12/08/should-expected-be-nodiscard/)

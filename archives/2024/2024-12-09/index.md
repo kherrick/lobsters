@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 19:07:57](https://lobste.rs/s/zqz6mx/what_are_magical_clocks_for) - [What are the Magical Clocks for?](https://buttondown.com/jaffray/archive/what-are-the-magical-clocks-for/)
 * [2024-12-09, 18:55:27](https://lobste.rs/s/7imklf/shepherd_1_0_0_released_init_system) - [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
 * [2024-12-09, 18:51:45](https://lobste.rs/s/oxeh7y/incremental_tt_munchers) - [Incremental TT Munchers](https://veykril.github.io/tlborm/decl-macros/patterns/tt-muncher.html)
 * [2024-12-09, 18:11:17](https://lobste.rs/s/thqgha/apple_s_use_swift_swiftui_ios_18) - [Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)
