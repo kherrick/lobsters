@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 16:09:55](https://lobste.rs/s/o7zjvp/parsing_millions_urls_per_second) - [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 * [2024-12-09, 15:45:31](https://lobste.rs/s/id7tph/toml_for_configuration) - [TOML for configuration](https://blog.nonstopio.com/toml-for-configuration-d6472e730997)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 * [2024-12-09, 13:34:29](https://lobste.rs/s/8pmyoz/dual_ec_drbg_with_justin_schuh_matthew) - [Dual_EC_DRBG with Justin Schuh and Matthew Green](https://securitycryptographywhatever.com/2024/12/07/dual-ec-drbg/)
