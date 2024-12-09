@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 22:34:25](https://lobste.rs/s/xnkokd/experimental_e_shell_pager) - [An experimental (e)shell pager](https://lmno.lol/alvaro/an-experimental-e-shell-pager)
 * [2024-12-09, 21:44:43](https://lobste.rs/s/smxdz7/building_tiny_cdn_with_pyinfra_chimera) - [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
 * [2024-12-09, 21:06:51](https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0) - [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 20:46:19](https://lobste.rs/s/xfwufl/c_has_its_limits_if_you_know_where_look) - [C has its limits. If you know where to look](https://subethasoftware.com/2024/12/09/c-has-its-limits-if-you-know-where-to-look/)
