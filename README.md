@@ -16,7 +16,6 @@
 * [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 15:23:06](https://lobste.rs/s/enbyp7/how_do_i_pay_publisher_web_page) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
 * [2024-12-08, 14:22:31](https://lobste.rs/s/18dnzo/running_tpc_h_sf100_on_mobile_phones) - [Running TPC-H SF100 on Mobile Phones](https://duckdb.org/2024/12/06/duckdb-tpch-sf100-on-mobile.html)
-* [2024-12-08, 14:08:08](https://lobste.rs/s/i3sp2n/openwrt_affected_by_security_issue_could) - [OpenWrt Affected by Security Issue That Could Have Led to Compromised Build Artifacts](https://www.phoronix.com/news/OpenWrt-Compromised-ASU-Builds)
 * [2024-12-08, 12:08:47](https://lobste.rs/s/psxawq/protect_mode_support_original_windows_3_0) - [Protect mode support in the original Windows 3.0 was basically a 1-man skunkworks project](https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/)
 * [2024-12-08, 09:27:01](https://lobste.rs/s/i3pqja/errors_tex) - [The errors of TeX](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-08, 09:06:29](https://lobste.rs/s/jcmq8o/creating_autonomous_system_for_fun) - [Creating an Autonomous System for Fun and Profit](http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
@@ -25,6 +24,7 @@
 * [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
 * [2024-12-07, 14:10:43](https://lobste.rs/s/bd7p04/understanding_odin_programming) - [Understanding the Odin Programming Language](https://odinbook.com/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
+* [2024-12-06, 20:48:45](https://lobste.rs/s/l79tj0/lies_i_was_told_about_collaborative) - [Lies I was Told About Collaborative Editing, Part 1: Algorithms for offline editing](https://www.moment.dev/blog/lies-i-was-told-pt-1)
 
 ## [Archives](archives/index.md)
 
