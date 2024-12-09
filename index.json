@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-09, 22:34:25",
+      "https://lobste.rs/s/xnkokd/experimental_e_shell_pager"
+    ],
+    [
+      "An experimental (e)shell pager",
+      "https://lmno.lol/alvaro/an-experimental-e-shell-pager"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 21:44:43",
       "https://lobste.rs/s/smxdz7/building_tiny_cdn_with_pyinfra_chimera"
     ],
@@ -207,16 +217,6 @@
     [
       "Douglas Crockford Is Not Your Dad",
       "https://douglascrockfordisnotyourdad.technomancy.us/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 20:13:01",
-      "https://lobste.rs/s/z1zwpu/should_std_expected_be_nodiscard"
-    ],
-    [
-      "Should std::expected be [[nodiscard]]?",
-      "https://quuxplusone.github.io/blog/2024/12/08/should-expected-be-nodiscard/"
     ]
   ],
   [
