@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 18:55:27](https://lobste.rs/s/7imklf/shepherd_1_0_0_released_init_system) - [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
 * [2024-12-09, 18:51:45](https://lobste.rs/s/oxeh7y/incremental_tt_munchers) - [Incremental TT Munchers](https://veykril.github.io/tlborm/decl-macros/patterns/tt-muncher.html)
 * [2024-12-09, 18:11:17](https://lobste.rs/s/thqgha/apple_s_use_swift_swiftui_ios_18) - [Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
@@ -18,7 +19,6 @@
 * [2024-12-09, 01:12:13](https://lobste.rs/s/sdzakb/testing_synctest_experiment_for_time) - [testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)
 * [2024-12-08, 20:59:09](https://lobste.rs/s/jnlslh/douglas_crockford_is_not_your_dad) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
 * [2024-12-08, 20:13:01](https://lobste.rs/s/z1zwpu/should_std_expected_be_nodiscard) - [Should std::expected be [[nodiscard]]?](https://quuxplusone.github.io/blog/2024/12/08/should-expected-be-nodiscard/)
-* [2024-12-08, 19:58:23](https://lobste.rs/s/a1bcto/victorialogs_grafana_dashboard_for_aws) - [VictoriaLogs: a Grafana dashboard for AWS VPC Flow Logs – migrating from Grafana Loki](https://rtfm.co.ua/en/victorialogs-a-grafana-dashboard-for-aws-vpc-flow-logs-migrating-from-grafana-loki)
 * [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
 * [2024-12-08, 15:23:06](https://lobste.rs/s/enbyp7/how_do_i_pay_publisher_web_page) - [How do I pay the publisher of a web page?](https://sethmlarson.dev/how-to-i-pay-for-a-web-page)
 * [2024-12-08, 12:08:47](https://lobste.rs/s/psxawq/protected_mode_support_original_windows) - [Protected mode support in the original Windows 3.0 was basically a 1-man skunkworks project](https://news.microsoft.com/2000/09/10/i-found-a-cool-little-problem-that-i-just-couldnt-resist-solving/)
