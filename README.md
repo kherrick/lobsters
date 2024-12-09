@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 10:06:50](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/okuhp0/what_are_you_doing_this_week)
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
 * [2024-12-09, 06:41:47](https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers) - [Data structures as jigs for programmers (Go edition) – Daniel Lemire's blog](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
 * [2024-12-09, 05:31:51](https://lobste.rs/s/ltwlfp/compromising_openwrt_supply_chain_via) - [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
@@ -17,7 +18,6 @@
 * [2024-12-08, 09:27:01](https://lobste.rs/s/i3pqja/errors_tex) - [The errors of TeX](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-08, 09:06:29](https://lobste.rs/s/jcmq8o/creating_autonomous_system_for_fun) - [Creating an Autonomous System for Fun and Profit](http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2024-12-08, 08:15:46](https://lobste.rs/s/frfuch/jepsen_test_on_patroni_postgresql_high) - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
-* [2024-12-08, 05:31:08](https://lobste.rs/s/7c5dlf/install_docker_natively_on_android_phone) - [Install Docker natively on Android Phone and use it as a Home Server](https://crackoverflow.com/docs/system_administration/containerization/install-docker-natively-on-android-phone-and-use-it-as-a-home-server/)
 * [2024-12-08, 03:19:08](https://lobste.rs/s/smdj5q/composite_hard_reset_mods_for) - [Composite and hard reset mods for the Tandyvision One](https://oldvcr.blogspot.com/2024/12/composite-and-hard-reset-mods-for.html)
 * [2024-12-08, 02:12:34](https://lobste.rs/s/rtmz0y/when_is_inlining_useful) - [When is inlining useful?](https://osa1.net/posts/2024-12-07-inlining.html)
 * [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
