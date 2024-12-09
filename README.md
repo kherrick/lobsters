@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 21:44:43](https://lobste.rs/s/smxdz7/building_tiny_cdn_with_pyinfra_chimera) - [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
 * [2024-12-09, 21:06:51](https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0) - [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 20:46:19](https://lobste.rs/s/xfwufl/c_has_its_limits_if_you_know_where_look) - [C has its limits. If you know where to look](https://subethasoftware.com/2024/12/09/c-has-its-limits-if-you-know-where-to-look/)
 * [2024-12-09, 19:43:35](https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly) - [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
@@ -19,7 +20,6 @@
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
 * [2024-12-09, 06:41:47](https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers) - [Data structures as jigs for programmers (Go edition)](https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/)
 * [2024-12-09, 05:31:51](https://lobste.rs/s/ltwlfp/compromising_openwrt_supply_chain_via) - [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
-* [2024-12-09, 01:12:13](https://lobste.rs/s/sdzakb/testing_synctest_experiment_for_time) - [testing/synctest experiment for time and concurrency testing](https://danp.net/posts/synctest-experiment/)
 * [2024-12-08, 20:59:09](https://lobste.rs/s/jnlslh/douglas_crockford_is_not_your_dad) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
 * [2024-12-08, 20:13:01](https://lobste.rs/s/z1zwpu/should_std_expected_be_nodiscard) - [Should std::expected be [[nodiscard]]?](https://quuxplusone.github.io/blog/2024/12/08/should-expected-be-nodiscard/)
 * [2024-12-08, 16:50:27](https://lobste.rs/s/7pa7zk/qutebrowser_keyboard_driven_vim_like) - [qutebrowser: A keyboard-driven, vim-like browser based on Python and Qt](https://github.com/qutebrowser/qutebrowser)
