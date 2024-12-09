@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 16:55:11](https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy) - [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
 * [2024-12-09, 16:09:55](https://lobste.rs/s/o7zjvp/parsing_millions_urls_per_second) - [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 * [2024-12-09, 15:45:31](https://lobste.rs/s/id7tph/toml_for_configuration) - [TOML for configuration](https://blog.nonstopio.com/toml-for-configuration-d6472e730997)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)

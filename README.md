@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-09, 16:55:11](https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy) - [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
 * [2024-12-09, 16:09:55](https://lobste.rs/s/o7zjvp/parsing_millions_urls_per_second) - [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 * [2024-12-09, 15:45:31](https://lobste.rs/s/id7tph/toml_for_configuration) - [TOML for configuration](https://blog.nonstopio.com/toml-for-configuration-d6472e730997)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
@@ -23,7 +24,6 @@
 * [2024-12-08, 09:27:01](https://lobste.rs/s/i3pqja/errors_tex) - [The errors of TeX](https://yurichev.com/mirrors/knuth1989.pdf)
 * [2024-12-08, 09:06:29](https://lobste.rs/s/jcmq8o/creating_autonomous_system_for_fun) - [Creating an Autonomous System for Fun and Profit](http://blog.thelifeofkenneth.com/2017/11/creating-autonomous-system-for-fun-and.html)
 * [2024-12-08, 08:15:46](https://lobste.rs/s/frfuch/jepsen_test_on_patroni_postgresql_high) - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
-* [2024-12-07, 14:54:22](https://lobste.rs/s/d066ov/galloping_search) - [Galloping Search](https://avi.im/blag/2024/galloping-search/)
 * [2024-12-07, 10:12:21](https://lobste.rs/s/fwwkcm/firefox_is_superior_browser) - [Firefox is the superior browser](https://asindu.xyz/posts/switching-to-firefox/)
 
 ## [Archives](archives/index.md)
