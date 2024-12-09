@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-09, 18:51:45",
+      "https://lobste.rs/s/oxeh7y/incremental_tt_munchers"
+    ],
+    [
+      "Incremental TT Munchers",
+      "https://veykril.github.io/tlborm/decl-macros/patterns/tt-muncher.html"
+    ]
+  ],
+  [
+    [
       "2024-12-09, 18:11:17",
       "https://lobste.rs/s/thqgha/apple_s_use_swift_swiftui_ios_18"
     ],
@@ -157,16 +167,6 @@
     [
       "Douglas Crockford Is Not Your Dad",
       "https://douglascrockfordisnotyourdad.technomancy.us/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 20:25:36",
-      "https://lobste.rs/s/wfxcs2/defusing_agpl_3_with_batch_processing"
-    ],
-    [
-      "Defusing AGPL-3 With Batch Processing",
-      "https://flameeyes.blog/2024/12/08/defusing-agpl-3-with-batch-processing/"
     ]
   ],
   [
