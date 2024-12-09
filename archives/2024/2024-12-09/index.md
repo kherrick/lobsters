@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-09](index.md)
 
+* [2024-12-09, 15:45:31](https://lobste.rs/s/id7tph/toml_for_configuration) - [TOML for configuration](https://blog.nonstopio.com/toml-for-configuration-d6472e730997)
+* [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 * [2024-12-09, 13:34:29](https://lobste.rs/s/8pmyoz/dual_ec_drbg_with_justin_schuh_matthew) - [Dual_EC_DRBG with Justin Schuh and Matthew Green](https://securitycryptographywhatever.com/2024/12/07/dual-ec-drbg/)
 * [2024-12-09, 13:19:05](https://lobste.rs/s/glodsj/parsing_midi_messages_rust) - [Parsing MIDI messages in Rust](https://www.ntietz.com/blog/parsing-midi-rust/)
 * [2024-12-09, 12:20:53](https://lobste.rs/s/kce8jl/rule_least_client_side_complexity) - [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
