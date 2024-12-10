@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-10, 17:37:14](https://lobste.rs/s/u0mrjp/from_where_i_left_antirez) - [From where I left - <antirez>](https://antirez.com/news/144)
 * [2024-12-10, 17:31:51](https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track) - [Mozilla Firefox removes \"Do Not Track\"](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 17:17:09](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli) - [What are your favorite non-standard CLI utilities/applications](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli)
 * [2024-12-10, 17:17:00](https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
@@ -19,7 +20,6 @@
 * [2024-12-09, 18:11:17](https://lobste.rs/s/thqgha/apple_s_use_swift_swiftui_ios_18) - [Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
 * [2024-12-09, 16:55:11](https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy) - [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
-* [2024-12-09, 16:09:55](https://lobste.rs/s/o7zjvp/parsing_millions_urls_per_second) - [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 * [2024-12-09, 12:20:53](https://lobste.rs/s/kce8jl/rule_least_client_side_complexity) - [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
