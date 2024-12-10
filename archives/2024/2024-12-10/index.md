@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 15:26:49](https://lobste.rs/s/cwybnx/lobelia_url_state_codecs_for_encoding) - [Lobelia URL State Codecs: for encoding arbitrary state trees into URL parameters and back again](https://github.com/Lobelia-Earth/url-state-codecs)
 * [2024-12-10, 14:36:44](https://lobste.rs/s/4w1ors/binary_versioning_1_0_0) - [Binary Versioning 1.0.0](https://binver.org/)
 * [2024-12-10, 14:06:36](https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic) - [Filesystems can tell the kernel to panic](https://infosec.exchange/@wdormann/113625346544970814)
 * [2024-12-10, 10:42:35](https://lobste.rs/s/b6zix6/quantum_error_correction_below_surface) - [Quantum error correction below the surface code threshold](https://arxiv.org/html/2408.13687v1)
