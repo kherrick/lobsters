@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-10, 10:42:35](https://lobste.rs/s/b6zix6/quantum_error_correction_below_surface) - [Quantum error correction below the surface code threshold](https://arxiv.org/html/2408.13687v1)
 * [2024-12-10, 10:36:58](https://lobste.rs/s/ugodw6/ai_we_deserve) - [The AI we deserve](https://www.bostonreview.net/forum/the-ai-we-deserve/)
 * [2024-12-10, 09:39:43](https://lobste.rs/s/wucnou/common_misconceptions_about_compilers) - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 * [2024-12-10, 06:56:53](https://lobste.rs/s/x15krh/pypim_integrating_digital_processing) - [PyPIM: Integrating Digital Processing-in-Memory from Microarchitectural Design to Python Tensors](https://arxiv.org/html/2308.14007v2)
@@ -17,7 +18,6 @@
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
 * [2024-12-09, 16:55:11](https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy) - [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
 * [2024-12-09, 16:09:55](https://lobste.rs/s/o7zjvp/parsing_millions_urls_per_second) - [Parsing millions of URLs per second](https://onlinelibrary.wiley.com/doi/10.1002/spe.3296)
-* [2024-12-09, 15:45:31](https://lobste.rs/s/id7tph/toml_for_configuration) - [TOML for configuration](https://blog.nonstopio.com/toml-for-configuration-d6472e730997)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 * [2024-12-09, 13:19:05](https://lobste.rs/s/glodsj/parsing_midi_messages_rust) - [Parsing MIDI messages in Rust](https://www.ntietz.com/blog/parsing-midi-rust/)
 * [2024-12-09, 12:20:53](https://lobste.rs/s/kce8jl/rule_least_client_side_complexity) - [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)

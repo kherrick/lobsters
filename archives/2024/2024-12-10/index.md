@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 10:42:35](https://lobste.rs/s/b6zix6/quantum_error_correction_below_surface) - [Quantum error correction below the surface code threshold](https://arxiv.org/html/2408.13687v1)
 * [2024-12-10, 10:36:58](https://lobste.rs/s/ugodw6/ai_we_deserve) - [The AI we deserve](https://www.bostonreview.net/forum/the-ai-we-deserve/)
 * [2024-12-10, 09:39:43](https://lobste.rs/s/wucnou/common_misconceptions_about_compilers) - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 * [2024-12-10, 06:56:53](https://lobste.rs/s/x15krh/pypim_integrating_digital_processing) - [PyPIM: Integrating Digital Processing-in-Memory from Microarchitectural Design to Python Tensors](https://arxiv.org/html/2308.14007v2)
