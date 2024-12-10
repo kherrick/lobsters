@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-10, 17:31:51",
+      "https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track"
+    ],
+    [
+      "Mozilla Firefox removes \"Do Not Track\"",
+      "https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 17:17:09",
+      "https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli"
+    ],
+    [
+      "What are your favorite non-standard CLI utilities/applications",
+      "https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 17:17:00",
+      "https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust"
+    ],
+    [
+      "Limbo: A complete rewrite of SQLite in Rust",
+      "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 15:26:49",
       "https://lobste.rs/s/cwybnx/lobelia_url_state_codecs_for_encoding"
     ],
@@ -31,42 +61,12 @@
   ],
   [
     [
-      "2024-12-10, 10:42:35",
-      "https://lobste.rs/s/b6zix6/quantum_error_correction_below_surface"
-    ],
-    [
-      "Quantum error correction below the surface code threshold",
-      "https://arxiv.org/html/2408.13687v1"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 10:36:58",
-      "https://lobste.rs/s/ugodw6/ai_we_deserve"
-    ],
-    [
-      "The AI we deserve",
-      "https://www.bostonreview.net/forum/the-ai-we-deserve/"
-    ]
-  ],
-  [
-    [
       "2024-12-10, 09:39:43",
       "https://lobste.rs/s/wucnou/common_misconceptions_about_compilers"
     ],
     [
       "Common Misconceptions about Compilers",
       "https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 06:56:53",
-      "https://lobste.rs/s/x15krh/pypim_integrating_digital_processing"
-    ],
-    [
-      "PyPIM: Integrating Digital Processing-in-Memory from Microarchitectural Design to Python Tensors",
-      "https://arxiv.org/html/2308.14007v2"
     ]
   ],
   [
