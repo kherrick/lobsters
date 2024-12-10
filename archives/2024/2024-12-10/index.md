@@ -6,6 +6,7 @@
 
 * [2024-12-10, 17:47:31](https://lobste.rs/s/4uakwo/decentralised_open_indexes_for) - [Decentralised Open Indexes for Discovery (DOID)](https://nadh.in/blog/decentralised-open-indexes/)
 * [2024-12-10, 17:37:14](https://lobste.rs/s/u0mrjp/from_where_i_left_antirez) - [From where I left - <antirez>](https://antirez.com/news/144)
+* [2024-12-10, 17:37:14](https://lobste.rs/s/u0mrjp/from_where_i_left) - [From where I left](https://antirez.com/news/144)
 * [2024-12-10, 17:31:51](https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track) - [Mozilla Firefox removes \"Do Not Track\"](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 17:17:09](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli) - [What are your favorite non-standard CLI utilities/applications](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli)
 * [2024-12-10, 17:17:00](https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
