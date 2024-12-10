@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-10, 14:06:36",
+      "https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic"
+    ],
+    [
+      "Filesystems can tell the kernel to panic",
+      "https://infosec.exchange/@wdormann/113625346544970814"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 10:42:35",
       "https://lobste.rs/s/b6zix6/quantum_error_correction_below_surface"
     ],
@@ -167,16 +177,6 @@
     [
       "Parsing millions of URLs per second",
       "https://onlinelibrary.wiley.com/doi/10.1002/spe.3296"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 15:45:31",
-      "https://lobste.rs/s/id7tph/toml_for_configuration"
-    ],
-    [
-      "TOML for configuration",
-      "https://blog.nonstopio.com/toml-for-configuration-d6472e730997"
     ]
   ],
   [
