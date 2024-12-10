@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-10, 20:15:21",
+      "https://lobste.rs/s/fsf8pb/qr_coding_my_way_out_here_c2_browser"
+    ],
+    [
+      "(QR) Coding My Way Out of Here: C2 in Browser Isolation Environments",
+      "https://cloud.google.com/blog/topics/threat-intelligence/c2-browser-isolation-environments/"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 18:44:33",
       "https://lobste.rs/s/rqtojt/how_actually_migrate_complex_systems"
     ],
@@ -237,16 +247,6 @@
     [
       "Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection",
       "https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/"
-    ]
-  ],
-  [
-    [
-      "2024-12-08, 20:59:09",
-      "https://lobste.rs/s/jnlslh/douglas_crockford_is_not_your_dad"
-    ],
-    [
-      "Douglas Crockford Is Not Your Dad",
-      "https://douglascrockfordisnotyourdad.technomancy.us/"
     ]
   ]
 ]
