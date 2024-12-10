@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-10, 14:36:44",
+      "https://lobste.rs/s/4w1ors/binary_versioning_1_0_0"
+    ],
+    [
+      "Binary Versioning 1.0.0",
+      "https://binver.org/"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 14:06:36",
       "https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic"
     ],
@@ -117,16 +127,6 @@
     [
       "Memory-safe PNG decoders now vastly outperform C PNG libraries",
       "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 19:07:57",
-      "https://lobste.rs/s/zqz6mx/what_are_magical_clocks_for"
-    ],
-    [
-      "What are the Magical Clocks for?",
-      "https://buttondown.com/jaffray/archive/what-are-the-magical-clocks-for/"
     ]
   ],
   [
