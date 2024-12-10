@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-10, 17:37:14",
+      "https://lobste.rs/s/u0mrjp/from_where_i_left_antirez"
+    ],
+    [
+      "From where I left - <antirez>",
+      "https://antirez.com/news/144"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 17:31:51",
       "https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track"
     ],
@@ -187,16 +197,6 @@
     [
       "Rust Futures are not guaranteed to be lazy",
       "https://swatinem.de/blog/non-lazy-futures/"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 16:09:55",
-      "https://lobste.rs/s/o7zjvp/parsing_millions_urls_per_second"
-    ],
-    [
-      "Parsing millions of URLs per second",
-      "https://onlinelibrary.wiley.com/doi/10.1002/spe.3296"
     ]
   ],
   [
