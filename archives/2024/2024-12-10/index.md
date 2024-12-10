@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-10](index.md)
 
+* [2024-12-10, 17:31:51](https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track) - [Mozilla Firefox removes \"Do Not Track\"](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
+* [2024-12-10, 17:17:09](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli) - [What are your favorite non-standard CLI utilities/applications](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli)
+* [2024-12-10, 17:17:00](https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
 * [2024-12-10, 15:26:49](https://lobste.rs/s/cwybnx/lobelia_url_state_codecs_for_encoding) - [Lobelia URL State Codecs: for encoding arbitrary state trees into URL parameters and back again](https://github.com/Lobelia-Earth/url-state-codecs)
 * [2024-12-10, 14:36:44](https://lobste.rs/s/4w1ors/binary_versioning_1_0_0) - [Binary Versioning 1.0.0](https://binver.org/)
 * [2024-12-10, 14:06:36](https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic) - [Filesystems can tell the kernel to panic](https://infosec.exchange/@wdormann/113625346544970814)
