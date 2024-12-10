@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-10, 23:05:02",
+      "https://lobste.rs/s/k4rvpl/understanding_diskann"
+    ],
+    [
+      "Understanding DiskANN",
+      "https://www.timescale.com/blog/understanding-diskann/"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 22:50:26",
       "https://lobste.rs/s/r1wzqn/death_stubborn_developer"
     ],
@@ -177,16 +187,6 @@
     [
       "An experimental (e)shell pager",
       "https://lmno.lol/alvaro/an-experimental-e-shell-pager"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 21:44:43",
-      "https://lobste.rs/s/smxdz7/building_tiny_cdn_with_pyinfra_chimera"
-    ],
-    [
-      "Building a Tiny CDN With pyinfra and Chimera Linux",
-      "https://www.wezm.net/v2/posts/2024/tiny-cdn/"
     ]
   ],
   [
