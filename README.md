@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-10, 23:05:02](https://lobste.rs/s/k4rvpl/understanding_diskann) - [Understanding DiskANN](https://www.timescale.com/blog/understanding-diskann/)
 * [2024-12-10, 22:50:26](https://lobste.rs/s/r1wzqn/death_stubborn_developer) - [The Death of the Stubborn Developer](https://steve-yegge.medium.com/the-death-of-the-stubborn-developer-b5e8f78d326b)
 * [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
@@ -18,7 +19,6 @@
 * [2024-12-10, 05:54:48](https://lobste.rs/s/ezjev6/tree_calculus) - [Tree Calculus](https://treecalcul.us)
 * [2024-12-10, 03:15:17](https://lobste.rs/s/bjix2b/undefeated_pull_request_template) - [An Undefeated Pull Request Template](https://ashleemboyer.com/blog/pull-request-template/)
 * [2024-12-09, 22:34:25](https://lobste.rs/s/xnkokd/experimental_e_shell_pager) - [An experimental (e)shell pager](https://lmno.lol/alvaro/an-experimental-e-shell-pager)
-* [2024-12-09, 21:44:43](https://lobste.rs/s/smxdz7/building_tiny_cdn_with_pyinfra_chimera) - [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
 * [2024-12-09, 21:06:51](https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0) - [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 19:43:35](https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly) - [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
 * [2024-12-09, 18:55:27](https://lobste.rs/s/7imklf/shepherd_1_0_0_released_init_system) - [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
