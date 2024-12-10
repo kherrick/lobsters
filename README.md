@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-10, 14:36:44](https://lobste.rs/s/4w1ors/binary_versioning_1_0_0) - [Binary Versioning 1.0.0](https://binver.org/)
 * [2024-12-10, 14:06:36](https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic) - [Filesystems can tell the kernel to panic](https://infosec.exchange/@wdormann/113625346544970814)
 * [2024-12-10, 10:42:35](https://lobste.rs/s/b6zix6/quantum_error_correction_below_surface) - [Quantum error correction below the surface code threshold](https://arxiv.org/html/2408.13687v1)
 * [2024-12-10, 10:36:58](https://lobste.rs/s/ugodw6/ai_we_deserve) - [The AI we deserve](https://www.bostonreview.net/forum/the-ai-we-deserve/)
@@ -12,7 +13,6 @@
 * [2024-12-09, 21:06:51](https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0) - [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 20:46:19](https://lobste.rs/s/xfwufl/c_has_its_limits_if_you_know_where_look) - [C has its limits. If you know where to look](https://subethasoftware.com/2024/12/09/c-has-its-limits-if-you-know-where-to-look/)
 * [2024-12-09, 19:43:35](https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly) - [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
-* [2024-12-09, 19:07:57](https://lobste.rs/s/zqz6mx/what_are_magical_clocks_for) - [What are the Magical Clocks for?](https://buttondown.com/jaffray/archive/what-are-the-magical-clocks-for/)
 * [2024-12-09, 18:55:27](https://lobste.rs/s/7imklf/shepherd_1_0_0_released_init_system) - [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
 * [2024-12-09, 18:11:17](https://lobste.rs/s/thqgha/apple_s_use_swift_swiftui_ios_18) - [Apple’s use of Swift and SwiftUI in iOS 18](https://blog.timac.org/2024/1208-state-of-swift-and-swiftui-ios18/)
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
