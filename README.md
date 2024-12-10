@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-10, 20:57:25](https://lobste.rs/s/fhphoz/all_your_codebase) - [All Your Codebase](https://kristoff.it/blog/all-your-codebase/)
 * [2024-12-10, 20:15:21](https://lobste.rs/s/fsf8pb/qr_coding_my_way_out_here_c2_browser) - [(QR) Coding My Way Out of Here: C2 in Browser Isolation Environments](https://cloud.google.com/blog/topics/threat-intelligence/c2-browser-isolation-environments/)
 * [2024-12-10, 18:44:33](https://lobste.rs/s/rqtojt/how_actually_migrate_complex_systems) - [How to Actually Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [2024-12-10, 17:47:31](https://lobste.rs/s/4uakwo/decentralised_open_indexes_for) - [Decentralised Open Indexes for Discovery (DOID)](https://nadh.in/blog/decentralised-open-indexes/)
@@ -17,7 +18,6 @@
 * [2024-12-09, 22:34:25](https://lobste.rs/s/xnkokd/experimental_e_shell_pager) - [An experimental (e)shell pager](https://lmno.lol/alvaro/an-experimental-e-shell-pager)
 * [2024-12-09, 21:44:43](https://lobste.rs/s/smxdz7/building_tiny_cdn_with_pyinfra_chimera) - [Building a Tiny CDN With pyinfra and Chimera Linux](https://www.wezm.net/v2/posts/2024/tiny-cdn/)
 * [2024-12-09, 21:06:51](https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0) - [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
-* [2024-12-09, 20:46:19](https://lobste.rs/s/xfwufl/c_has_its_limits_if_you_know_where_look) - [C has its limits. If you know where to look](https://subethasoftware.com/2024/12/09/c-has-its-limits-if-you-know-where-to-look/)
 * [2024-12-09, 19:43:35](https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly) - [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
 * [2024-12-09, 18:55:27](https://lobste.rs/s/7imklf/shepherd_1_0_0_released_init_system) - [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
