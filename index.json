@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-10, 09:39:43",
+      "https://lobste.rs/s/wucnou/common_misconceptions_about_compilers"
+    ],
+    [
+      "Common Misconceptions about Compilers",
+      "https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 06:56:53",
       "https://lobste.rs/s/x15krh/pypim_integrating_digital_processing"
     ],
@@ -217,16 +227,6 @@
     [
       "How to Think About Time",
       "https://errorprone.info/docs/time"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 06:41:47",
-      "https://lobste.rs/s/fgsduh/data_structures_as_jigs_for_programmers"
-    ],
-    [
-      "Data structures as jigs for programmers (Go edition)",
-      "https://lemire.me/blog/2024/12/08/data-structures-as-jigs-for-programmers-go-edition/"
     ]
   ],
   [
