@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-10, 17:47:31](https://lobste.rs/s/4uakwo/decentralised_open_indexes_for) - [Decentralised Open Indexes for Discovery (DOID)](https://nadh.in/blog/decentralised-open-indexes/)
 * [2024-12-10, 17:37:14](https://lobste.rs/s/u0mrjp/from_where_i_left_antirez) - [From where I left - <antirez>](https://antirez.com/news/144)
 * [2024-12-10, 17:31:51](https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track) - [Mozilla Firefox removes \"Do Not Track\"](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 17:17:09](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli) - [What are your favorite non-standard CLI utilities/applications](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli)
@@ -21,7 +22,6 @@
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
 * [2024-12-09, 16:55:11](https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy) - [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
-* [2024-12-09, 12:20:53](https://lobste.rs/s/kce8jl/rule_least_client_side_complexity) - [The rule of least client-side complexity](https://rubenerd.com/the-rule-of-least-client-side-complexity/)
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
 * [2024-12-09, 05:31:51](https://lobste.rs/s/ltwlfp/compromising_openwrt_supply_chain_via) - [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 * [2024-12-08, 20:59:09](https://lobste.rs/s/jnlslh/douglas_crockford_is_not_your_dad) - [Douglas Crockford Is Not Your Dad](https://douglascrockfordisnotyourdad.technomancy.us/)
