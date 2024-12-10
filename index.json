@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-10, 22:50:26",
+      "https://lobste.rs/s/r1wzqn/death_stubborn_developer"
+    ],
+    [
+      "The Death of the Stubborn Developer",
+      "https://steve-yegge.medium.com/the-death-of-the-stubborn-developer-b5e8f78d326b"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 22:48:07",
+      "https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe"
+    ],
+    [
+      "Nobody Gets Fired for Picking JSON, but Maybe They Should?",
+      "https://mcyoung.xyz/2024/12/10/json-sucks/"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 22:00:02",
       "https://lobste.rs/s/9mu3cl/forced_upgrade"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2024-12-10, 00:45:41",
-      "https://lobste.rs/s/pt0tnj/tcc_macos_platform_sandbox_policy"
-    ],
-    [
-      "TCC and the macOS Platform Sandbox Policy",
-      "https://bdash.net.nz/posts/tcc-and-the-platform-sandbox-policy/"
-    ]
-  ],
-  [
-    [
       "2024-12-09, 22:34:25",
       "https://lobste.rs/s/xnkokd/experimental_e_shell_pager"
     ],
@@ -217,16 +227,6 @@
     [
       "Reducing CO₂ emissions with faster software",
       "https://pythonspeed.com/articles/co2-emissions-software/"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 16:55:11",
-      "https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy"
-    ],
-    [
-      "Rust Futures are not guaranteed to be lazy",
-      "https://swatinem.de/blog/non-lazy-futures/"
     ]
   ],
   [
