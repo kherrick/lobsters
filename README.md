@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-12-10, 20:57:25](https://lobste.rs/s/fhphoz/all_your_codebase) - [All Your Codebase](https://kristoff.it/blog/all-your-codebase/)
 * [2024-12-10, 20:15:21](https://lobste.rs/s/fsf8pb/qr_coding_my_way_out_here_c2_browser) - [(QR) Coding My Way Out of Here: C2 in Browser Isolation Environments](https://cloud.google.com/blog/topics/threat-intelligence/c2-browser-isolation-environments/)
 * [2024-12-10, 18:44:33](https://lobste.rs/s/rqtojt/how_actually_migrate_complex_systems) - [How to Actually Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
@@ -24,7 +25,6 @@
 * [2024-12-09, 16:55:11](https://lobste.rs/s/b2d5zw/rust_futures_are_not_guaranteed_be_lazy) - [Rust Futures are not guaranteed to be lazy](https://swatinem.de/blog/non-lazy-futures/)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 * [2024-12-09, 09:36:56](https://lobste.rs/s/acsyc8/how_think_about_time) - [How to Think About Time](https://errorprone.info/docs/time)
-* [2024-12-09, 05:31:51](https://lobste.rs/s/ltwlfp/compromising_openwrt_supply_chain_via) - [Compromising OpenWrt Supply Chain via Truncated SHA-256 Collision and Command Injection](https://flatt.tech/research/posts/compromising-openwrt-supply-chain-sha256-collision/)
 
 ## [Archives](archives/index.md)
 
