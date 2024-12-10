@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-10, 03:15:17",
+      "https://lobste.rs/s/bjix2b/undefeated_pull_request_template"
+    ],
+    [
+      "An Undefeated Pull Request Template",
+      "https://ashleemboyer.com/blog/pull-request-template/"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 00:45:41",
       "https://lobste.rs/s/pt0tnj/tcc_macos_platform_sandbox_policy"
     ],
@@ -77,16 +87,6 @@
     [
       "The Shepherd 1.0.0 released: the init system written in Scheme",
       "https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 18:51:45",
-      "https://lobste.rs/s/oxeh7y/incremental_tt_munchers"
-    ],
-    [
-      "Incremental TT Munchers",
-      "https://veykril.github.io/tlborm/decl-macros/patterns/tt-muncher.html"
     ]
   ],
   [
