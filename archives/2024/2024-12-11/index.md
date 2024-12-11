@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 08:39:36](https://lobste.rs/s/edzywh/render_readme_org_as_html_on_sourcehut) - [Render README.org as HTML on Sourcehut](https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html)
 * [2024-12-11, 07:52:42](https://lobste.rs/s/u2xpbv/new_vim_project_what_has_changed_after) - [The new Vim project - What has changed after Bram](https://www.youtube.com/watch?v=bopbmRyHQog)
 * [2024-12-11, 04:55:59](https://lobste.rs/s/zmr7q6/google_willow_thing) - [The Google Willow thing](https://scottaaronson.blog/?p=8525)
 * [2024-12-11, 04:54:32](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo) - [How are smaller teams handling multi-repo testing?](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo)
