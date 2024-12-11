@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-11, 18:53:54",
+      "https://lobste.rs/s/l7dopi/making_memcpy_null_null_0_well_defined"
+    ],
+    [
+      "Making memcpy(NULL, NULL, 0) well-defined",
+      "https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 18:49:03",
       "https://lobste.rs/s/c3auam/rails_is_better_low_code_than_low_code"
     ],
@@ -167,16 +177,6 @@
     [
       "All Your Codebase",
       "https://kristoff.it/blog/all-your-codebase/"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 18:44:33",
-      "https://lobste.rs/s/rqtojt/how_actually_migrate_complex_systems"
-    ],
-    [
-      "How to Actually Migrate Complex Systems in Infrastructure",
-      "https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/"
     ]
   ],
   [
