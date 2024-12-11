@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 23:44:00](https://lobste.rs/s/a67nyz/notes_app_lagging_after_ios_18_update) - [Notes App lagging after iOS 18 Update - Apple Community](https://discussions.apple.com/thread/255765334?sortBy=rank)
 * [2024-12-11, 21:59:13](https://lobste.rs/s/dcig2k/js_benchmark) - [JS Benchmark](https://jsbenchmark.com/)
 * [2024-12-11, 21:44:40](https://lobste.rs/s/bbn2wh/keepin_power_mac_g5_running_cool_what) - [Keepin’ the Power Mac G5 running cool: What worked for me](https://lowendmac.com/2024/keepin-the-03-dp-2-0-power-mac-g5-cool-what-worked-for-me/)
 * [2024-12-11, 21:42:04](https://lobste.rs/s/q4nqp7/webkit_features_safari_18_2) - [WebKit Features in Safari 18.2](https://webkit.org/blog/16301/webkit-features-in-safari-18-2/)
