@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-11, 14:42:35",
+      "https://lobste.rs/s/ktjvhd/select_dropdown_for_polymorphic"
+    ],
+    [
+      "Select dropdown for polymorphic associations",
+      "https://fractaledmind.github.io/2024/12/10/select-dropdown-for-polymorphic-associations/"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 12:09:59",
       "https://lobste.rs/s/k9xcrb/brief_history_mac_servers"
     ],
@@ -77,6 +87,16 @@
     [
       "How to build an exchange",
       "https://www.youtube.com/watch?v=b1e4t2k2KJY"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 22:50:26",
+      "https://lobste.rs/s/r1wzqn/death_stubborn_developer"
+    ],
+    [
+      "The Death of the Stubborn Developer",
+      "https://steve-yegge.medium.com/the-death-of-the-stubborn-developer-b5e8f78d326b"
     ]
   ],
   [
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-12-09, 21:06:51",
-      "https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0"
-    ],
-    [
-      "Himalaya, CLI to manage emails: v1.0.0",
-      "https://github.com/pimalaya/himalaya"
-    ]
-  ],
-  [
-    [
       "2024-12-09, 19:43:35",
       "https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly"
     ],
     [
       "Memory-safe PNG decoders now vastly outperform C PNG libraries",
       "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 17:13:58",
-      "https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster"
-    ],
-    [
-      "Reducing CO₂ emissions with faster software",
-      "https://pythonspeed.com/articles/co2-emissions-software/"
     ]
   ],
   [
