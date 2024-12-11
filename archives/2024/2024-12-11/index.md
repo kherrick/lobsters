@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-11](index.md)
+
+* [2024-12-11, 01:55:14](https://lobste.rs/s/ikugqe/turbo_morphing_woes) - [Turbo morphing woes](https://thoughtbot.com/blog/turbo-morphing-woes)
