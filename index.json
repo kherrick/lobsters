@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2024-12-10, 22:50:26",
+      "https://lobste.rs/s/r1wzqn/death_stubborn_developer"
+    ],
+    [
+      "The Death of the Stubborn Developer",
+      "https://steve-yegge.medium.com/the-death-of-the-stubborn-developer-b5e8f78d326b"
+    ]
+  ],
+  [
+    [
       "2024-12-10, 22:48:07",
       "https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe"
     ],
@@ -237,16 +247,6 @@
     [
       "Common Misconceptions about Compilers",
       "https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-09, 19:43:35",
-      "https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly"
-    ],
-    [
-      "Memory-safe PNG decoders now vastly outperform C PNG libraries",
-      "https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/"
     ]
   ]
 ]
