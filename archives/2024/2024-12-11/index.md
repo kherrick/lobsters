@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 15:54:29](https://lobste.rs/s/dvwlwv/return_glfighters_porting_23_year_old) - [the return of glfighters: porting a 23-year-old game to webassembly](https://devnonsense.com/posts/glfighters/)
 * [2024-12-11, 15:50:01](https://lobste.rs/s/5liral/pgroll_zero_downtime_reversible_schema) - [pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
 * [2024-12-11, 15:40:45](https://lobste.rs/s/jx7atw/supply_chain_attack_analysis) - [Supply-chain attack analysis: Ultralytics - The Python Package Index Blog](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 14:42:35](https://lobste.rs/s/ktjvhd/select_dropdown_for_polymorphic) - [Select dropdown for polymorphic associations](https://fractaledmind.github.io/2024/12/10/select-dropdown-for-polymorphic-associations/)
