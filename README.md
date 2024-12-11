@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 15:50:01](https://lobste.rs/s/5liral/pgroll_zero_downtime_reversible_schema) - [pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
 * [2024-12-11, 15:40:45](https://lobste.rs/s/jx7atw/supply_chain_attack_analysis) - [Supply-chain attack analysis: Ultralytics - The Python Package Index Blog](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 14:42:35](https://lobste.rs/s/ktjvhd/select_dropdown_for_polymorphic) - [Select dropdown for polymorphic associations](https://fractaledmind.github.io/2024/12/10/select-dropdown-for-polymorphic-associations/)
 * [2024-12-11, 12:09:59](https://lobste.rs/s/k9xcrb/brief_history_mac_servers) - [A brief history of Mac servers](https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/)
@@ -9,7 +10,6 @@
 * [2024-12-11, 07:52:42](https://lobste.rs/s/u2xpbv/new_vim_project_what_has_changed_after) - [The new Vim project - What has changed after Bram](https://www.youtube.com/watch?v=bopbmRyHQog)
 * [2024-12-11, 04:55:59](https://lobste.rs/s/zmr7q6/google_willow_thing) - [The Google Willow thing](https://scottaaronson.blog/?p=8525)
 * [2024-12-11, 04:54:32](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo) - [How are smaller teams handling multi-repo testing?](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo)
-* [2024-12-11, 03:09:02](https://lobste.rs/s/dvfefk/how_build_exchange) - [How to build an exchange](https://www.youtube.com/watch?v=b1e4t2k2KJY)
 * [2024-12-10, 22:50:26](https://lobste.rs/s/r1wzqn/death_stubborn_developer) - [The Death of the Stubborn Developer](https://steve-yegge.medium.com/the-death-of-the-stubborn-developer-b5e8f78d326b)
 * [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
