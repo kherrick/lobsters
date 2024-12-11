@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 10:40:45](https://lobste.rs/s/sfg1yd/fp_for_working_programmer_why_is_null_bad) - [FP For The Working Programmer: Why Is null Bad?](https://timkellogg.me/blog/2014/06/24/why-is-null-bad)
 * [2024-12-11, 09:51:43](https://lobste.rs/s/fj2lyp/counting_up_concurrency) - [Counting up concurrency](https://raku-advent.blog/2024/12/11/day-11-counting-up-concurrency/)
 * [2024-12-11, 08:39:36](https://lobste.rs/s/edzywh/render_readme_org_as_html_on_sourcehut) - [Render README.org as HTML on Sourcehut](https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html)
 * [2024-12-11, 07:52:42](https://lobste.rs/s/u2xpbv/new_vim_project_what_has_changed_after) - [The new Vim project - What has changed after Bram](https://www.youtube.com/watch?v=bopbmRyHQog)
@@ -22,7 +23,6 @@
 * [2024-12-10, 03:15:17](https://lobste.rs/s/bjix2b/undefeated_pull_request_template) - [An Undefeated Pull Request Template](https://ashleemboyer.com/blog/pull-request-template/)
 * [2024-12-09, 21:06:51](https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0) - [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 19:43:35](https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly) - [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
-* [2024-12-09, 18:55:27](https://lobste.rs/s/7imklf/shepherd_1_0_0_released_init_system) - [The Shepherd 1.0.0 released: the init system written in Scheme](https://www.gnu.org/software/shepherd/news/2024/12/the-shepherd-1.0.0-released/)
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 
