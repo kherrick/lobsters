@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 18:53:54](https://lobste.rs/s/l7dopi/making_memcpy_null_null_0_well_defined) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 18:49:03](https://lobste.rs/s/c3auam/rails_is_better_low_code_than_low_code) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 * [2024-12-11, 18:43:09](https://lobste.rs/s/yaegiv/shaping_better_future_for_bazel_c_c) - [Shaping a better future for Bazel C/C++ toolchains](https://pigweed.dev/docs/blog/06-better-cpp-toolchains.html)
 * [2024-12-11, 17:44:11](https://lobste.rs/s/o0jzbc/ucacher_speeding_up_github_actions_via) - [Ucacher: Speeding up GitHub Actions via syscall instrumentation](https://earthly.dev/blog/ucacher/)
@@ -17,7 +18,6 @@
 * [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-12-10, 20:57:25](https://lobste.rs/s/fhphoz/all_your_codebase) - [All Your Codebase](https://kristoff.it/blog/all-your-codebase/)
-* [2024-12-10, 18:44:33](https://lobste.rs/s/rqtojt/how_actually_migrate_complex_systems) - [How to Actually Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [2024-12-10, 17:37:14](https://lobste.rs/s/u0mrjp/from_where_i_left) - [From where I left](https://antirez.com/news/144)
 * [2024-12-10, 17:31:51](https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track) - [Mozilla Firefox removes \"Do Not Track\"](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 17:17:09](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli) - [What are your favorite non-standard CLI utilities/applications](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli)

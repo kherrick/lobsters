@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 18:53:54](https://lobste.rs/s/l7dopi/making_memcpy_null_null_0_well_defined) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 18:49:03](https://lobste.rs/s/c3auam/rails_is_better_low_code_than_low_code) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 * [2024-12-11, 18:43:09](https://lobste.rs/s/yaegiv/shaping_better_future_for_bazel_c_c) - [Shaping a better future for Bazel C/C++ toolchains](https://pigweed.dev/docs/blog/06-better-cpp-toolchains.html)
 * [2024-12-11, 17:44:11](https://lobste.rs/s/o0jzbc/ucacher_speeding_up_github_actions_via) - [Ucacher: Speeding up GitHub Actions via syscall instrumentation](https://earthly.dev/blog/ucacher/)
