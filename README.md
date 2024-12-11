@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 17:44:11](https://lobste.rs/s/o0jzbc/ucacher_speeding_up_github_actions_via) - [Ucacher: Speeding up GitHub Actions via syscall instrumentation](https://earthly.dev/blog/ucacher/)
 * [2024-12-11, 15:54:29](https://lobste.rs/s/dvwlwv/return_glfighters_porting_23_year_old) - [the return of glfighters: porting a 23-year-old game to webassembly](https://devnonsense.com/posts/glfighters/)
 * [2024-12-11, 15:50:01](https://lobste.rs/s/5liral/pgroll_zero_downtime_reversible_schema) - [pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
 * [2024-12-11, 15:40:45](https://lobste.rs/s/jx7atw/supply_chain_attack_analysis) - [Supply-chain attack analysis: Ultralytics - The Python Package Index Blog](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
@@ -22,7 +23,6 @@
 * [2024-12-10, 17:17:00](https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
 * [2024-12-10, 14:06:36](https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic) - [Filesystems can tell the kernel to panic](https://infosec.exchange/@wdormann/113625346544970814)
 * [2024-12-10, 09:39:43](https://lobste.rs/s/wucnou/common_misconceptions_about_compilers) - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
-* [2024-12-10, 05:54:48](https://lobste.rs/s/ezjev6/tree_calculus) - [Tree Calculus](https://treecalcul.us)
 * [2024-12-09, 19:43:35](https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly) - [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 
