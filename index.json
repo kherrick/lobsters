@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-11, 15:50:01",
+      "https://lobste.rs/s/5liral/pgroll_zero_downtime_reversible_schema"
+    ],
+    [
+      "pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
+      "https://pgroll.com/"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 15:40:45",
       "https://lobste.rs/s/jx7atw/supply_chain_attack_analysis"
     ],
@@ -87,16 +97,6 @@
     [
       "How are smaller teams handling multi-repo testing?",
       "https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 03:09:02",
-      "https://lobste.rs/s/dvfefk/how_build_exchange"
-    ],
-    [
-      "How to build an exchange",
-      "https://www.youtube.com/watch?v=b1e4t2k2KJY"
     ]
   ],
   [
