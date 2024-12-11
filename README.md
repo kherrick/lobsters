@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 21:59:13](https://lobste.rs/s/dcig2k/js_benchmark) - [JS Benchmark](https://jsbenchmark.com/)
 * [2024-12-11, 21:44:40](https://lobste.rs/s/bbn2wh/keepin_power_mac_g5_running_cool_what) - [Keepin’ the Power Mac G5 running cool: What worked for me](https://lowendmac.com/2024/keepin-the-03-dp-2-0-power-mac-g5-cool-what-worked-for-me/)
 * [2024-12-11, 21:42:04](https://lobste.rs/s/q4nqp7/webkit_features_safari_18_2) - [WebKit Features in Safari 18.2](https://webkit.org/blog/16301/webkit-features-in-safari-18-2/)
 * [2024-12-11, 20:49:51](https://lobste.rs/s/yy3wpd/debunking_myth_ssr_isn_t_expensive) - [Debunking the Myth: SSR Isn't Expensive](https://t3.gg/blog/post/ssr-is-not-expensive)
@@ -24,7 +25,6 @@
 * [2024-12-10, 17:31:51](https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track) - [Mozilla Firefox removes \"Do Not Track\"](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 17:17:09](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli) - [What are your favorite non-standard CLI utilities/applications](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli)
 * [2024-12-10, 17:17:00](https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
-* [2024-12-10, 14:06:36](https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic) - [Filesystems can tell the kernel to panic](https://infosec.exchange/@wdormann/113625346544970814)
 
 ## [Archives](archives/index.md)
 
