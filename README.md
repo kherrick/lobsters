@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 20:02:01](https://lobste.rs/s/jm0ypu/humble_for_loop_javascript) - [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)
 * [2024-12-11, 18:53:54](https://lobste.rs/s/l7dopi/making_memcpy_null_null_0_well_defined) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 18:49:03](https://lobste.rs/s/c3auam/rails_is_better_low_code_than_low_code) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 * [2024-12-11, 18:43:09](https://lobste.rs/s/yaegiv/shaping_better_future_for_bazel_c_c) - [Shaping a better future for Bazel C/C++ toolchains](https://pigweed.dev/docs/blog/06-better-cpp-toolchains.html)
@@ -15,7 +16,6 @@
 * [2024-12-11, 07:52:42](https://lobste.rs/s/u2xpbv/new_vim_project_what_has_changed_after) - [The new Vim project - What has changed after Bram](https://www.youtube.com/watch?v=bopbmRyHQog)
 * [2024-12-11, 04:55:59](https://lobste.rs/s/zmr7q6/google_willow_thing) - [The Google Willow thing](https://scottaaronson.blog/?p=8525)
 * [2024-12-11, 04:54:32](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo) - [How are smaller teams handling multi-repo testing?](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo)
-* [2024-12-10, 22:50:26](https://lobste.rs/s/r1wzqn/death_stubborn_developer) - [The Death of the Stubborn Developer](https://steve-yegge.medium.com/the-death-of-the-stubborn-developer-b5e8f78d326b)
 * [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-12-10, 20:57:25](https://lobste.rs/s/fhphoz/all_your_codebase) - [All Your Codebase](https://kristoff.it/blog/all-your-codebase/)
