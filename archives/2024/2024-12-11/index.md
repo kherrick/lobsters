@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 18:49:03](https://lobste.rs/s/c3auam/rails_is_better_low_code_than_low_code) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
+* [2024-12-11, 18:43:09](https://lobste.rs/s/yaegiv/shaping_better_future_for_bazel_c_c) - [Shaping a better future for Bazel C/C++ toolchains](https://pigweed.dev/docs/blog/06-better-cpp-toolchains.html)
 * [2024-12-11, 17:44:11](https://lobste.rs/s/o0jzbc/ucacher_speeding_up_github_actions_via) - [Ucacher: Speeding up GitHub Actions via syscall instrumentation](https://earthly.dev/blog/ucacher/)
 * [2024-12-11, 15:54:29](https://lobste.rs/s/dvwlwv/return_glfighters_porting_23_year_old) - [the return of glfighters: porting a 23-year-old game to webassembly](https://devnonsense.com/posts/glfighters/)
 * [2024-12-11, 15:50:01](https://lobste.rs/s/5liral/pgroll_zero_downtime_reversible_schema) - [pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
