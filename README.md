@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 14:42:35](https://lobste.rs/s/ktjvhd/select_dropdown_for_polymorphic) - [Select dropdown for polymorphic associations](https://fractaledmind.github.io/2024/12/10/select-dropdown-for-polymorphic-associations/)
 * [2024-12-11, 12:09:59](https://lobste.rs/s/k9xcrb/brief_history_mac_servers) - [A brief history of Mac servers](https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/)
 * [2024-12-11, 10:40:45](https://lobste.rs/s/sfg1yd/fp_for_working_programmer_why_is_null_bad) - [FP For The Working Programmer: Why Is null Bad?](https://timkellogg.me/blog/2014/06/24/why-is-null-bad)
 * [2024-12-11, 09:51:43](https://lobste.rs/s/fj2lyp/counting_up_concurrency) - [Counting up concurrency](https://raku-advent.blog/2024/12/11/day-11-counting-up-concurrency/)
@@ -8,6 +9,7 @@
 * [2024-12-11, 04:55:59](https://lobste.rs/s/zmr7q6/google_willow_thing) - [The Google Willow thing](https://scottaaronson.blog/?p=8525)
 * [2024-12-11, 04:54:32](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo) - [How are smaller teams handling multi-repo testing?](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo)
 * [2024-12-11, 03:09:02](https://lobste.rs/s/dvfefk/how_build_exchange) - [How to build an exchange](https://www.youtube.com/watch?v=b1e4t2k2KJY)
+* [2024-12-10, 22:50:26](https://lobste.rs/s/r1wzqn/death_stubborn_developer) - [The Death of the Stubborn Developer](https://steve-yegge.medium.com/the-death-of-the-stubborn-developer-b5e8f78d326b)
 * [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-12-10, 20:57:25](https://lobste.rs/s/fhphoz/all_your_codebase) - [All Your Codebase](https://kristoff.it/blog/all-your-codebase/)
@@ -21,9 +23,7 @@
 * [2024-12-10, 14:06:36](https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic) - [Filesystems can tell the kernel to panic](https://infosec.exchange/@wdormann/113625346544970814)
 * [2024-12-10, 09:39:43](https://lobste.rs/s/wucnou/common_misconceptions_about_compilers) - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 * [2024-12-10, 05:54:48](https://lobste.rs/s/ezjev6/tree_calculus) - [Tree Calculus](https://treecalcul.us)
-* [2024-12-09, 21:06:51](https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0) - [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 19:43:35](https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly) - [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
-* [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
 * [2024-12-09, 15:44:17](https://lobste.rs/s/kqphgw/i_can_now_run_gpt_4_class_model_on_my_laptop) - [I can now run a GPT-4 class model on my laptop](https://simonwillison.net/2024/Dec/9/llama-33-70b/)
 
 ## [Archives](archives/index.md)

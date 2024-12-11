@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 14:42:35](https://lobste.rs/s/ktjvhd/select_dropdown_for_polymorphic) - [Select dropdown for polymorphic associations](https://fractaledmind.github.io/2024/12/10/select-dropdown-for-polymorphic-associations/)
 * [2024-12-11, 12:09:59](https://lobste.rs/s/k9xcrb/brief_history_mac_servers) - [A brief history of Mac servers](https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/)
 * [2024-12-11, 10:40:45](https://lobste.rs/s/sfg1yd/fp_for_working_programmer_why_is_null_bad) - [FP For The Working Programmer: Why Is null Bad?](https://timkellogg.me/blog/2014/06/24/why-is-null-bad)
 * [2024-12-11, 09:51:43](https://lobste.rs/s/fj2lyp/counting_up_concurrency) - [Counting up concurrency](https://raku-advent.blog/2024/12/11/day-11-counting-up-concurrency/)
