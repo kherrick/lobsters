@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 12:09:59](https://lobste.rs/s/k9xcrb/brief_history_mac_servers) - [A brief history of Mac servers](https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/)
 * [2024-12-11, 10:40:45](https://lobste.rs/s/sfg1yd/fp_for_working_programmer_why_is_null_bad) - [FP For The Working Programmer: Why Is null Bad?](https://timkellogg.me/blog/2014/06/24/why-is-null-bad)
 * [2024-12-11, 09:51:43](https://lobste.rs/s/fj2lyp/counting_up_concurrency) - [Counting up concurrency](https://raku-advent.blog/2024/12/11/day-11-counting-up-concurrency/)
 * [2024-12-11, 08:39:36](https://lobste.rs/s/edzywh/render_readme_org_as_html_on_sourcehut) - [Render README.org as HTML on Sourcehut](https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html)

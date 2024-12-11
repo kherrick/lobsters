@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 12:09:59](https://lobste.rs/s/k9xcrb/brief_history_mac_servers) - [A brief history of Mac servers](https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/)
 * [2024-12-11, 10:40:45](https://lobste.rs/s/sfg1yd/fp_for_working_programmer_why_is_null_bad) - [FP For The Working Programmer: Why Is null Bad?](https://timkellogg.me/blog/2014/06/24/why-is-null-bad)
 * [2024-12-11, 09:51:43](https://lobste.rs/s/fj2lyp/counting_up_concurrency) - [Counting up concurrency](https://raku-advent.blog/2024/12/11/day-11-counting-up-concurrency/)
 * [2024-12-11, 08:39:36](https://lobste.rs/s/edzywh/render_readme_org_as_html_on_sourcehut) - [Render README.org as HTML on Sourcehut](https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html)
@@ -20,7 +21,6 @@
 * [2024-12-10, 14:06:36](https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic) - [Filesystems can tell the kernel to panic](https://infosec.exchange/@wdormann/113625346544970814)
 * [2024-12-10, 09:39:43](https://lobste.rs/s/wucnou/common_misconceptions_about_compilers) - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 * [2024-12-10, 05:54:48](https://lobste.rs/s/ezjev6/tree_calculus) - [Tree Calculus](https://treecalcul.us)
-* [2024-12-10, 03:15:17](https://lobste.rs/s/bjix2b/undefeated_pull_request_template) - [An Undefeated Pull Request Template](https://ashleemboyer.com/blog/pull-request-template/)
 * [2024-12-09, 21:06:51](https://lobste.rs/s/axtjha/himalaya_cli_manage_emails_v1_0_0) - [Himalaya, CLI to manage emails: v1.0.0](https://github.com/pimalaya/himalaya)
 * [2024-12-09, 19:43:35](https://lobste.rs/s/vdh2ii/memory_safe_png_decoders_now_vastly) - [Memory-safe PNG decoders now vastly outperform C PNG libraries](https://www.reddit.com/r/rust/comments/1ha7uyi/memorysafe_png_decoders_now_vastly_outperform_c/)
 * [2024-12-09, 17:13:58](https://lobste.rs/s/xig9z9/reducing_co_emissions_with_faster) - [Reducing CO₂ emissions with faster software](https://pythonspeed.com/articles/co2-emissions-software/)
