@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-11, 15:40:45",
+      "https://lobste.rs/s/jx7atw/supply_chain_attack_analysis"
+    ],
+    [
+      "Supply-chain attack analysis: Ultralytics - The Python Package Index Blog",
+      "https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/"
+    ]
+  ],
+  [
+    [
       "2024-12-11, 14:42:35",
       "https://lobste.rs/s/ktjvhd/select_dropdown_for_polymorphic"
     ],
@@ -187,16 +197,6 @@
     [
       "Limbo: A complete rewrite of SQLite in Rust",
       "https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 15:26:49",
-      "https://lobste.rs/s/cwybnx/lobelia_url_state_codecs_for_encoding"
-    ],
-    [
-      "Lobelia URL State Codecs: for encoding arbitrary state trees into URL parameters and back again",
-      "https://github.com/Lobelia-Earth/url-state-codecs"
     ]
   ],
   [
