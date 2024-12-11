@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 04:55:59](https://lobste.rs/s/zmr7q6/google_willow_thing) - [The Google Willow thing](https://scottaaronson.blog/?p=8525)
+* [2024-12-11, 04:54:32](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo) - [How are smaller teams handling multi-repo testing?](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo)
 * [2024-12-11, 03:09:02](https://lobste.rs/s/dvfefk/how_build_exchange) - [How to build an exchange](https://www.youtube.com/watch?v=b1e4t2k2KJY)
 * [2024-12-11, 01:55:14](https://lobste.rs/s/ikugqe/turbo_morphing_woes) - [Turbo morphing woes](https://thoughtbot.com/blog/turbo-morphing-woes)
 * [2024-12-10, 23:05:02](https://lobste.rs/s/k4rvpl/understanding_diskann) - [Understanding DiskANN](https://www.timescale.com/blog/understanding-diskann/)
@@ -7,7 +9,6 @@
 * [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-12-10, 20:57:25](https://lobste.rs/s/fhphoz/all_your_codebase) - [All Your Codebase](https://kristoff.it/blog/all-your-codebase/)
-* [2024-12-10, 20:15:21](https://lobste.rs/s/fsf8pb/qr_coding_my_way_out_here_c2_browser) - [(QR) Coding My Way Out of Here: C2 in Browser Isolation Environments](https://cloud.google.com/blog/topics/threat-intelligence/c2-browser-isolation-environments/)
 * [2024-12-10, 18:44:33](https://lobste.rs/s/rqtojt/how_actually_migrate_complex_systems) - [How to Actually Migrate Complex Systems in Infrastructure](https://kyle.cascade.family/posts/how-to-actually-migrate-complex-systems-in-infrastructure/)
 * [2024-12-10, 17:47:31](https://lobste.rs/s/4uakwo/decentralised_open_indexes_for) - [Decentralised Open Indexes for Discovery (DOID)](https://nadh.in/blog/decentralised-open-indexes/)
 * [2024-12-10, 17:37:14](https://lobste.rs/s/u0mrjp/from_where_i_left) - [From where I left](https://antirez.com/news/144)
@@ -15,7 +16,6 @@
 * [2024-12-10, 17:17:09](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli) - [What are your favorite non-standard CLI utilities/applications](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli)
 * [2024-12-10, 17:17:00](https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
 * [2024-12-10, 15:26:49](https://lobste.rs/s/cwybnx/lobelia_url_state_codecs_for_encoding) - [Lobelia URL State Codecs: for encoding arbitrary state trees into URL parameters and back again](https://github.com/Lobelia-Earth/url-state-codecs)
-* [2024-12-10, 14:36:44](https://lobste.rs/s/4w1ors/binary_versioning_1_0_0) - [Binary Versioning 1.0.0](https://binver.org/)
 * [2024-12-10, 14:06:36](https://lobste.rs/s/a6oqng/filesystems_can_tell_kernel_panic) - [Filesystems can tell the kernel to panic](https://infosec.exchange/@wdormann/113625346544970814)
 * [2024-12-10, 09:39:43](https://lobste.rs/s/wucnou/common_misconceptions_about_compilers) - [Common Misconceptions about Compilers](https://sbaziotis.com/compilers/common-misconceptions-about-compilers.html)
 * [2024-12-10, 05:54:48](https://lobste.rs/s/ezjev6/tree_calculus) - [Tree Calculus](https://treecalcul.us)
