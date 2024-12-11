@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-11](index.md)
 
+* [2024-12-11, 21:42:04](https://lobste.rs/s/q4nqp7/webkit_features_safari_18_2) - [WebKit Features in Safari 18.2](https://webkit.org/blog/16301/webkit-features-in-safari-18-2/)
 * [2024-12-11, 21:14:31](https://lobste.rs/s/91yxel/selecting_model_for_semantic_search_at) - [Selecting a model for semantic search at Dropbox scale](https://dropbox.tech/machine-learning/selecting-model-semantic-search-dropbox-ai)
 * [2024-12-11, 20:49:51](https://lobste.rs/s/yy3wpd/debunking_myth_ssr_isn_t_expensive) - [Debunking the Myth: SSR Isn't Expensive](https://t3.gg/blog/post/ssr-is-not-expensive)
 * [2024-12-11, 20:02:01](https://lobste.rs/s/jm0ypu/humble_for_loop_javascript) - [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)

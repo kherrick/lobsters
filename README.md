@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-11, 21:42:04](https://lobste.rs/s/q4nqp7/webkit_features_safari_18_2) - [WebKit Features in Safari 18.2](https://webkit.org/blog/16301/webkit-features-in-safari-18-2/)
 * [2024-12-11, 21:14:31](https://lobste.rs/s/91yxel/selecting_model_for_semantic_search_at) - [Selecting a model for semantic search at Dropbox scale](https://dropbox.tech/machine-learning/selecting-model-semantic-search-dropbox-ai)
 * [2024-12-11, 20:49:51](https://lobste.rs/s/yy3wpd/debunking_myth_ssr_isn_t_expensive) - [Debunking the Myth: SSR Isn't Expensive](https://t3.gg/blog/post/ssr-is-not-expensive)
 * [2024-12-11, 20:02:01](https://lobste.rs/s/jm0ypu/humble_for_loop_javascript) - [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)
@@ -16,7 +17,6 @@
 * [2024-12-11, 08:39:36](https://lobste.rs/s/edzywh/render_readme_org_as_html_on_sourcehut) - [Render README.org as HTML on Sourcehut](https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html)
 * [2024-12-11, 07:52:42](https://lobste.rs/s/u2xpbv/new_vim_project_what_has_changed_after) - [The new Vim project - What has changed after Bram](https://www.youtube.com/watch?v=bopbmRyHQog)
 * [2024-12-11, 04:55:59](https://lobste.rs/s/zmr7q6/google_willow_thing) - [The Google Willow thing](https://scottaaronson.blog/?p=8525)
-* [2024-12-11, 04:54:32](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo) - [How are smaller teams handling multi-repo testing?](https://lobste.rs/s/otiua4/how_are_smaller_teams_handling_multi_repo)
 * [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-12-10, 20:57:25](https://lobste.rs/s/fhphoz/all_your_codebase) - [All Your Codebase](https://kristoff.it/blog/all-your-codebase/)
