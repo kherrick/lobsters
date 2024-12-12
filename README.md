@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-12, 22:32:20](https://lobste.rs/s/unopy0/cursor_size_problems_wayland_explained) - [Cursor Size Problems In Wayland, Explained](https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/)
 * [2024-12-12, 21:22:22](https://lobste.rs/s/vnigrw/diving_into_flume_water_monitor) - [Diving Into the Flume Water Monitor](https://lithostech.com/2024/12/diving-into-flume-water-monitor/)
 * [2024-12-12, 20:52:42](https://lobste.rs/s/yynacv/things_you_never_wanted_know_about_go) - [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/)
 * [2024-12-12, 20:42:26](https://lobste.rs/s/fyshqt/api_design_x_twitter_home_timeline) - [API Design of X (Twitter) Home Timeline](https://trekhleb.dev/blog/2024/api-design-x-home-timeline/)
@@ -18,7 +19,6 @@
 * [2024-12-12, 12:43:48](https://lobste.rs/s/etdehg/hp_rt_real_time_vme_operating_system) - [HP-RT real-time VME operating system – OpenPA.net](https://www.openpa.net/hp-rt_realtime-vme.html)
 * [2024-12-12, 10:51:06](https://lobste.rs/s/inwyfk/nonstop_discussion_around_adding_rust) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 * [2024-12-12, 10:22:27](https://lobste.rs/s/63wst3/security_pitfalls_distributed_erlang) - [Security Pitfalls In Distributed Erlang And Elixir Systems](https://www.youtube.com/watch?v=xPBViXCqFxw)
-* [2024-12-12, 09:54:09](https://lobste.rs/s/utoyyr/drag_drop_images_into_bevy_0_15_on_web) - [Drag & Drop Images into Bevy 0.15 on the web](https://rustunit.com/blog/2024/12-10-rust-web-drag-drop-image/)
 * [2024-12-12, 07:46:40](https://lobste.rs/s/7imzgr/gtk3_classic_patches_bring_back) - [gtk3-classic: Patches to bring back a traditional experience for GTK+3](https://github.com/lah7/gtk3-classic/)
 * [2024-12-12, 06:58:07](https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2) - [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
 * [2024-12-12, 05:02:55](https://lobste.rs/s/xstsoq/chatgpt_clone_3000_bytes_c_backed_by_gpt_2) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
