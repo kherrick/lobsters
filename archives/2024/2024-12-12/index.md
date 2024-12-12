@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 06:58:07](https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2) - [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
 * [2024-12-12, 06:46:17](https://lobste.rs/s/vmirbz/solving_resourcet_related_space_leak) - [Solving a ResourceT-related space leak in production](https://exploring-better-ways.bellroy.com/solving-a-resourcet-related-space-leak-in-production.html)
 * [2024-12-12, 05:26:09](https://lobste.rs/s/kherp8/geometry_clipmaps_simple_terrain) - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
 * [2024-12-12, 05:18:15](https://lobste.rs/s/mk3e5a/how_russia_is_trying_block_tor) - [How Russia is trying to block Tor](https://www.youtube.com/watch?v=YlZZQYLIXe8)

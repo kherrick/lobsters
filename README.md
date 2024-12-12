@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-12, 06:58:07](https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2) - [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
 * [2024-12-12, 06:46:17](https://lobste.rs/s/vmirbz/solving_resourcet_related_space_leak) - [Solving a ResourceT-related space leak in production](https://exploring-better-ways.bellroy.com/solving-a-resourcet-related-space-leak-in-production.html)
 * [2024-12-12, 05:26:09](https://lobste.rs/s/kherp8/geometry_clipmaps_simple_terrain) - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
 * [2024-12-12, 05:18:15](https://lobste.rs/s/mk3e5a/how_russia_is_trying_block_tor) - [How Russia is trying to block Tor](https://www.youtube.com/watch?v=YlZZQYLIXe8)
@@ -15,7 +16,6 @@
 * [2024-12-11, 17:44:11](https://lobste.rs/s/o0jzbc/ucacher_speeding_up_github_actions_via) - [Ucacher: Speeding up GitHub Actions via syscall instrumentation](https://earthly.dev/blog/ucacher/)
 * [2024-12-11, 15:54:29](https://lobste.rs/s/dvwlwv/return_glfighters_porting_23_year_old) - [the return of glfighters: porting a 23-year-old game to webassembly](https://devnonsense.com/posts/glfighters/)
 * [2024-12-11, 15:50:01](https://lobste.rs/s/5liral/pgroll_zero_downtime_reversible_schema) - [pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
-* [2024-12-11, 15:40:45](https://lobste.rs/s/jx7atw/supply_chain_attack_analysis) - [Supply-chain attack analysis: Ultralytics - The Python Package Index Blog](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 12:09:59](https://lobste.rs/s/k9xcrb/brief_history_mac_servers) - [A brief history of Mac servers](https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/)
 * [2024-12-11, 08:39:36](https://lobste.rs/s/edzywh/render_readme_org_as_html_on_sourcehut) - [Render README.org as HTML on Sourcehut](https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html)
 * [2024-12-11, 07:52:42](https://lobste.rs/s/u2xpbv/new_vim_project_what_has_changed_after) - [The new Vim project - What has changed after Bram](https://www.youtube.com/watch?v=bopbmRyHQog)
