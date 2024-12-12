@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 09:11:23](https://lobste.rs/s/cs8dig/my_first_dsf_board_meeting) - [My first DSF board meeting](https://www.paulox.net/2024/12/11/my-first-dsf-board-meeting/)
 * [2024-12-12, 07:46:40](https://lobste.rs/s/7imzgr/gtk3_classic_patches_bring_back) - [gtk3-classic: Patches to bring back a traditional experience for GTK+3](https://github.com/lah7/gtk3-classic/)
 * [2024-12-12, 06:58:07](https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2) - [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
 * [2024-12-12, 06:46:17](https://lobste.rs/s/vmirbz/solving_resourcet_related_space_leak) - [Solving a ResourceT-related space leak in production](https://exploring-better-ways.bellroy.com/solving-a-resourcet-related-space-leak-in-production.html)
