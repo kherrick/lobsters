@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-12, 19:16:14",
+      "https://lobste.rs/s/zeys16/read_code_using_drop_for_safety_rust"
+    ],
+    [
+      "Read the Code: Using Drop for Safety in Rust",
+      "https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 18:33:23",
       "https://lobste.rs/s/lfuebk/trellis_structured_3d_latents_for"
     ],
@@ -197,16 +207,6 @@
     [
       "The Humble For Loop in JavaScript",
       "https://blog.startifact.com/posts/humble-for-loop-js/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 18:53:54",
-      "https://lobste.rs/s/l7dopi/making_memcpy_null_null_0_well_defined"
-    ],
-    [
-      "Making memcpy(NULL, NULL, 0) well-defined",
-      "https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined"
     ]
   ],
   [
