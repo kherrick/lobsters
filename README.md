@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-12, 18:33:23](https://lobste.rs/s/lfuebk/trellis_structured_3d_latents_for) - [TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation](https://trellis3d.github.io/)
 * [2024-12-12, 16:55:37](https://lobste.rs/s/tfclbj/outside_design) - [Outside In Design](https://andydote.co.uk/2024/12/12/system-design-outside-in/)
 * [2024-12-12, 16:44:26](https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing) - [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
 * [2024-12-12, 16:06:05](https://lobste.rs/s/cqxd26/introducing_chrome_extension_for) - [Introducing the Chrome Extension for the Firefox Profiler](https://blog.mozilla.org/performance/2024/12/12/introducing-the-chrome-extension-for-the-firefox-profiler/)
@@ -24,7 +25,6 @@
 * [2024-12-11, 17:44:11](https://lobste.rs/s/o0jzbc/ucacher_speeding_up_github_actions_via) - [Ucacher: Speeding up GitHub Actions via syscall instrumentation](https://earthly.dev/blog/ucacher/)
 * [2024-12-11, 12:09:59](https://lobste.rs/s/k9xcrb/brief_history_mac_servers) - [A brief history of Mac servers](https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/)
 * [2024-12-11, 08:39:36](https://lobste.rs/s/edzywh/render_readme_org_as_html_on_sourcehut) - [Render README.org as HTML on Sourcehut](https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html)
-* [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 
 ## [Archives](archives/index.md)
 

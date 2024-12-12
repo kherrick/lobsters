@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 18:33:23](https://lobste.rs/s/lfuebk/trellis_structured_3d_latents_for) - [TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation](https://trellis3d.github.io/)
 * [2024-12-12, 16:55:37](https://lobste.rs/s/tfclbj/outside_design) - [Outside In Design](https://andydote.co.uk/2024/12/12/system-design-outside-in/)
 * [2024-12-12, 16:44:26](https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing) - [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
 * [2024-12-12, 16:31:43](https://lobste.rs/s/mk7tdq/ai_engineering_lessons_from_building) - [AI Engineering Lessons from Building Pulumi Copilot](https://www.pulumi.com/blog/copilot-lessons/)
