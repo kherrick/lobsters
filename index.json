@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-12, 06:58:07",
+      "https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2"
+    ],
+    [
+      "Non-temporal store heuristics on the Apple M2",
+      "https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 06:46:17",
       "https://lobste.rs/s/vmirbz/solving_resourcet_related_space_leak"
     ],
@@ -147,16 +157,6 @@
     [
       "pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
       "https://pgroll.com/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 15:40:45",
-      "https://lobste.rs/s/jx7atw/supply_chain_attack_analysis"
-    ],
-    [
-      "Supply-chain attack analysis: Ultralytics - The Python Package Index Blog",
-      "https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/"
     ]
   ],
   [
