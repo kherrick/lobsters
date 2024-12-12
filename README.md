@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-11, 23:44:00](https://lobste.rs/s/a67nyz/notes_app_lagging_after_ios_18_update) - [Notes App lagging after iOS 18 Update - Apple Community](https://discussions.apple.com/thread/255765334?sortBy=rank)
 * [2024-12-11, 21:44:40](https://lobste.rs/s/bbn2wh/keepin_power_mac_g5_running_cool_what) - [Keepin’ the Power Mac G5 running cool: What worked for me](https://lowendmac.com/2024/keepin-the-03-dp-2-0-power-mac-g5-cool-what-worked-for-me/)
 * [2024-12-11, 20:49:51](https://lobste.rs/s/yy3wpd/debunking_myth_ssr_isn_t_expensive) - [Debunking the Myth: SSR Isn't Expensive](https://t3.gg/blog/post/ssr-is-not-expensive)
 * [2024-12-11, 20:02:01](https://lobste.rs/s/jm0ypu/humble_for_loop_javascript) - [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)
@@ -23,6 +22,7 @@
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
 * [2024-12-10, 20:57:25](https://lobste.rs/s/fhphoz/all_your_codebase) - [All Your Codebase](https://kristoff.it/blog/all-your-codebase/)
 * [2024-12-10, 17:37:14](https://lobste.rs/s/u0mrjp/from_where_i_left) - [From where I left](https://antirez.com/news/144)
+* [2024-12-10, 17:31:51](https://lobste.rs/s/rgbews/mozilla_firefox_removes_do_not_track) - [Mozilla Firefox removes \"Do Not Track\"](https://windowsreport.com/mozilla-firefox-removes-do-not-track-feature-support-heres-what-it-means-for-your-privacy/)
 * [2024-12-10, 17:17:09](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli) - [What are your favorite non-standard CLI utilities/applications](https://lobste.rs/s/xyvwux/what_are_your_favorite_non_standard_cli)
 * [2024-12-10, 17:17:00](https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
 
