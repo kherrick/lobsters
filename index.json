@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2024-12-12, 16:31:43",
-      "https://lobste.rs/s/mk7tdq/ai_engineering_lessons_from_building"
-    ],
-    [
-      "AI Engineering Lessons from Building Pulumi Copilot",
-      "https://www.pulumi.com/blog/copilot-lessons/"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 16:06:05",
       "https://lobste.rs/s/cqxd26/introducing_chrome_extension_for"
     ],
@@ -247,6 +237,16 @@
     [
       "Render README.org as HTML on Sourcehut",
       "https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-10, 22:48:07",
+      "https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe"
+    ],
+    [
+      "Nobody Gets Fired for Picking JSON, but Maybe They Should?",
+      "https://mcyoung.xyz/2024/12/10/json-sucks/"
     ]
   ]
 ]
