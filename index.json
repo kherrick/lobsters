@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-12, 16:55:37",
+      "https://lobste.rs/s/tfclbj/outside_design"
+    ],
+    [
+      "Outside In Design",
+      "https://andydote.co.uk/2024/12/12/system-design-outside-in/"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 16:44:26",
       "https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing"
     ],
@@ -237,16 +247,6 @@
     [
       "Render README.org as HTML on Sourcehut",
       "https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 22:48:07",
-      "https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe"
-    ],
-    [
-      "Nobody Gets Fired for Picking JSON, but Maybe They Should?",
-      "https://mcyoung.xyz/2024/12/10/json-sucks/"
     ]
   ]
 ]
