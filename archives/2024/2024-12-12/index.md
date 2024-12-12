@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 16:55:37](https://lobste.rs/s/tfclbj/outside_design) - [Outside In Design](https://andydote.co.uk/2024/12/12/system-design-outside-in/)
 * [2024-12-12, 16:44:26](https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing) - [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
 * [2024-12-12, 16:31:43](https://lobste.rs/s/mk7tdq/ai_engineering_lessons_from_building) - [AI Engineering Lessons from Building Pulumi Copilot](https://www.pulumi.com/blog/copilot-lessons/)
 * [2024-12-12, 16:06:05](https://lobste.rs/s/cqxd26/introducing_chrome_extension_for) - [Introducing the Chrome Extension for the Firefox Profiler](https://blog.mozilla.org/performance/2024/12/12/introducing-the-chrome-extension-for-the-firefox-profiler/)
