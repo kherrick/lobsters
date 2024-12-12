@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-12, 21:22:22](https://lobste.rs/s/vnigrw/diving_into_flume_water_monitor) - [Diving Into the Flume Water Monitor](https://lithostech.com/2024/12/diving-into-flume-water-monitor/)
 * [2024-12-12, 20:52:42](https://lobste.rs/s/yynacv/things_you_never_wanted_know_about_go) - [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/)
 * [2024-12-12, 20:42:26](https://lobste.rs/s/fyshqt/api_design_x_twitter_home_timeline) - [API Design of X (Twitter) Home Timeline](https://trekhleb.dev/blog/2024/api-design-x-home-timeline/)
 * [2024-12-12, 20:07:46](https://lobste.rs/s/iyqser/humble_for_loop_rust) - [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
@@ -22,7 +23,6 @@
 * [2024-12-12, 06:58:07](https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2) - [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
 * [2024-12-12, 05:02:55](https://lobste.rs/s/xstsoq/chatgpt_clone_3000_bytes_c_backed_by_gpt_2) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-12, 02:05:33](https://lobste.rs/s/szpjfm/fcc_opens_entire_6_ghz_band_low_power) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
-* [2024-12-11, 21:44:40](https://lobste.rs/s/bbn2wh/keepin_power_mac_g5_running_cool_what) - [Keepin’ the Power Mac G5 running cool: What worked for me](https://lowendmac.com/2024/keepin-the-03-dp-2-0-power-mac-g5-cool-what-worked-for-me/)
 * [2024-12-11, 20:02:01](https://lobste.rs/s/jm0ypu/humble_for_loop_javascript) - [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)
 * [2024-12-11, 18:49:03](https://lobste.rs/s/c3auam/rails_is_better_low_code_than_low_code) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 
