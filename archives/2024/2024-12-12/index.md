@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 12:43:48](https://lobste.rs/s/etdehg/hp_rt_real_time_vme_operating_system) - [HP-RT real-time VME operating system – OpenPA.net](https://www.openpa.net/hp-rt_realtime-vme.html)
 * [2024-12-12, 10:51:06](https://lobste.rs/s/inwyfk/nonstop_discussion_around_adding_rust) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 * [2024-12-12, 10:22:27](https://lobste.rs/s/63wst3/security_pitfalls_distributed_erlang) - [Security Pitfalls In Distributed Erlang And Elixir Systems](https://www.youtube.com/watch?v=xPBViXCqFxw)
 * [2024-12-12, 09:54:09](https://lobste.rs/s/utoyyr/drag_drop_images_into_bevy_0_15_on_web) - [Drag & Drop Images into Bevy 0.15 on the web](https://rustunit.com/blog/2024/12-10-rust-web-drag-drop-image/)
