@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-12, 06:46:17",
+      "https://lobste.rs/s/vmirbz/solving_resourcet_related_space_leak"
+    ],
+    [
+      "Solving a ResourceT-related space leak in production",
+      "https://exploring-better-ways.bellroy.com/solving-a-resourcet-related-space-leak-in-production.html"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 05:26:09",
       "https://lobste.rs/s/kherp8/geometry_clipmaps_simple_terrain"
     ],
@@ -207,16 +217,6 @@
     [
       "Forced to upgrade",
       "https://herman.bearblog.dev/forced-to-upgrade/"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 20:57:25",
-      "https://lobste.rs/s/fhphoz/all_your_codebase"
-    ],
-    [
-      "All Your Codebase",
-      "https://kristoff.it/blog/all-your-codebase/"
     ]
   ],
   [
