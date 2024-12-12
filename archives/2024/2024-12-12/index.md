@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 22:57:24](https://lobste.rs/s/2ixhro/jujutsu_version_control_system) - [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
 * [2024-12-12, 22:32:20](https://lobste.rs/s/unopy0/cursor_size_problems_wayland_explained) - [Cursor Size Problems In Wayland, Explained](https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/)
 * [2024-12-12, 21:22:22](https://lobste.rs/s/vnigrw/diving_into_flume_water_monitor) - [Diving Into the Flume Water Monitor](https://lithostech.com/2024/12/diving-into-flume-water-monitor/)
 * [2024-12-12, 20:52:42](https://lobste.rs/s/yynacv/things_you_never_wanted_know_about_go) - [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/)
