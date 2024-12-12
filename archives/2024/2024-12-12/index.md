@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 13:42:36](https://lobste.rs/s/7xasib/ad_hoc_effects_rust) - [Ad-Hoc Effects in Rust](https://capi.hannobraun.com/daily/2024-12-12)
+* [2024-12-12, 13:40:31](https://lobste.rs/s/anhb70/unix_review_magazine_interviews_larry) - [UNIX Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
+* [2024-12-12, 13:36:50](https://lobste.rs/s/zqgdhj/proposal_spec_finite_type_set_interface) - [proposal: spec: finite type set interface as union type · Issue #70752 · golang/go](https://github.com/golang/go/issues/70752)
 * [2024-12-12, 12:43:48](https://lobste.rs/s/etdehg/hp_rt_real_time_vme_operating_system) - [HP-RT real-time VME operating system – OpenPA.net](https://www.openpa.net/hp-rt_realtime-vme.html)
 * [2024-12-12, 10:51:06](https://lobste.rs/s/inwyfk/nonstop_discussion_around_adding_rust) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 * [2024-12-12, 10:22:27](https://lobste.rs/s/63wst3/security_pitfalls_distributed_erlang) - [Security Pitfalls In Distributed Erlang And Elixir Systems](https://www.youtube.com/watch?v=xPBViXCqFxw)
