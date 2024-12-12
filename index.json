@@ -191,22 +191,22 @@
   ],
   [
     [
-      "2024-12-11, 18:43:09",
-      "https://lobste.rs/s/yaegiv/shaping_better_future_for_bazel_c_c"
-    ],
-    [
-      "Shaping a better future for Bazel C/C++ toolchains",
-      "https://pigweed.dev/docs/blog/06-better-cpp-toolchains.html"
-    ]
-  ],
-  [
-    [
       "2024-12-11, 17:44:11",
       "https://lobste.rs/s/o0jzbc/ucacher_speeding_up_github_actions_via"
     ],
     [
       "Ucacher: Speeding up GitHub Actions via syscall instrumentation",
       "https://earthly.dev/blog/ucacher/"
+    ]
+  ],
+  [
+    [
+      "2024-12-11, 15:54:29",
+      "https://lobste.rs/s/dvwlwv/return_glfighters_porting_23_year_old"
+    ],
+    [
+      "the return of glfighters: porting a 23-year-old game to webassembly",
+      "https://devnonsense.com/posts/glfighters/"
     ]
   ],
   [
