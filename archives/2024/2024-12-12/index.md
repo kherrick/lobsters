@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 20:52:42](https://lobste.rs/s/yynacv/things_you_never_wanted_know_about_go) - [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/)
 * [2024-12-12, 20:42:26](https://lobste.rs/s/fyshqt/api_design_x_twitter_home_timeline) - [API Design of X (Twitter) Home Timeline](https://trekhleb.dev/blog/2024/api-design-x-home-timeline/)
 * [2024-12-12, 20:07:46](https://lobste.rs/s/iyqser/humble_for_loop_rust) - [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
 * [2024-12-12, 20:06:26](https://lobste.rs/s/2yt9g5/what_s_wrong_with_this_brazilian_bootleg) - [What's wrong with this Brazilian bootleg Battletoads?](https://www.youtube.com/watch?v=HvLdQLizEcs)
