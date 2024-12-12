@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-12, 05:26:09](https://lobste.rs/s/kherp8/geometry_clipmaps_simple_terrain) - [Geometry clipmaps: simple terrain rendering with level of detail (2017)](https://mikejsavage.co.uk/geometry-clipmaps/)
+* [2024-12-12, 05:18:15](https://lobste.rs/s/mk3e5a/how_russia_is_trying_block_tor) - [How Russia is trying to block Tor](https://www.youtube.com/watch?v=YlZZQYLIXe8)
 * [2024-12-12, 05:02:55](https://lobste.rs/s/xstsoq/chatgpt_clone_3000_bytes_c_backed_by_gpt_2) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-12, 04:58:25](https://lobste.rs/s/abptmx/aioc_ham_radio_all_one_cable) - [AIOC: Ham Radio All-in-one-Cable](https://github.com/skuep/AIOC)
 * [2024-12-12, 02:05:33](https://lobste.rs/s/szpjfm/fcc_opens_entire_6_ghz_band_low_power) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
@@ -14,8 +16,6 @@
 * [2024-12-11, 15:50:01](https://lobste.rs/s/5liral/pgroll_zero_downtime_reversible_schema) - [pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)](https://pgroll.com/)
 * [2024-12-11, 15:40:45](https://lobste.rs/s/jx7atw/supply_chain_attack_analysis) - [Supply-chain attack analysis: Ultralytics - The Python Package Index Blog](https://blog.pypi.org/posts/2024-12-11-ultralytics-attack-analysis/)
 * [2024-12-11, 12:09:59](https://lobste.rs/s/k9xcrb/brief_history_mac_servers) - [A brief history of Mac servers](https://eclecticlight.co/2024/12/07/a-brief-history-of-mac-servers/)
-* [2024-12-11, 10:40:45](https://lobste.rs/s/sfg1yd/fp_for_working_programmer_why_is_null_bad) - [FP For The Working Programmer: Why Is null Bad? (2014)](https://timkellogg.me/blog/2014/06/24/why-is-null-bad)
-* [2024-12-11, 09:51:43](https://lobste.rs/s/fj2lyp/counting_up_concurrency) - [Counting up concurrency](https://raku-advent.blog/2024/12/11/day-11-counting-up-concurrency/)
 * [2024-12-11, 08:39:36](https://lobste.rs/s/edzywh/render_readme_org_as_html_on_sourcehut) - [Render README.org as HTML on Sourcehut](https://breatheoutbreathe.in/blog/2024-12-10-sourcehut-org-mode-readme.html)
 * [2024-12-11, 07:52:42](https://lobste.rs/s/u2xpbv/new_vim_project_what_has_changed_after) - [The new Vim project - What has changed after Bram](https://www.youtube.com/watch?v=bopbmRyHQog)
 * [2024-12-11, 04:55:59](https://lobste.rs/s/zmr7q6/google_willow_thing) - [The Google Willow thing](https://scottaaronson.blog/?p=8525)
