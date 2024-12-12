@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 10:22:27](https://lobste.rs/s/63wst3/security_pitfalls_distributed_erlang) - [Security Pitfalls In Distributed Erlang And Elixir Systems](https://www.youtube.com/watch?v=xPBViXCqFxw)
 * [2024-12-12, 09:54:09](https://lobste.rs/s/utoyyr/drag_drop_images_into_bevy_0_15_on_web) - [Drag & Drop Images into Bevy 0.15 on the web](https://rustunit.com/blog/2024/12-10-rust-web-drag-drop-image/)
 * [2024-12-12, 09:11:23](https://lobste.rs/s/cs8dig/my_first_dsf_board_meeting) - [My first DSF board meeting](https://www.paulox.net/2024/12/11/my-first-dsf-board-meeting/)
 * [2024-12-12, 07:46:40](https://lobste.rs/s/7imzgr/gtk3_classic_patches_bring_back) - [gtk3-classic: Patches to bring back a traditional experience for GTK+3](https://github.com/lah7/gtk3-classic/)

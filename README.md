@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-12, 10:22:27](https://lobste.rs/s/63wst3/security_pitfalls_distributed_erlang) - [Security Pitfalls In Distributed Erlang And Elixir Systems](https://www.youtube.com/watch?v=xPBViXCqFxw)
 * [2024-12-12, 09:54:09](https://lobste.rs/s/utoyyr/drag_drop_images_into_bevy_0_15_on_web) - [Drag & Drop Images into Bevy 0.15 on the web](https://rustunit.com/blog/2024/12-10-rust-web-drag-drop-image/)
 * [2024-12-12, 09:11:23](https://lobste.rs/s/cs8dig/my_first_dsf_board_meeting) - [My first DSF board meeting](https://www.paulox.net/2024/12/11/my-first-dsf-board-meeting/)
 * [2024-12-12, 07:46:40](https://lobste.rs/s/7imzgr/gtk3_classic_patches_bring_back) - [gtk3-classic: Patches to bring back a traditional experience for GTK+3](https://github.com/lah7/gtk3-classic/)
@@ -23,7 +24,6 @@
 * [2024-12-11, 07:52:42](https://lobste.rs/s/u2xpbv/new_vim_project_what_has_changed_after) - [The new Vim project - What has changed after Bram](https://www.youtube.com/watch?v=bopbmRyHQog)
 * [2024-12-10, 22:48:07](https://lobste.rs/s/w5xhwo/nobody_gets_fired_for_picking_json_maybe) - [Nobody Gets Fired for Picking JSON, but Maybe They Should?](https://mcyoung.xyz/2024/12/10/json-sucks/)
 * [2024-12-10, 22:00:02](https://lobste.rs/s/9mu3cl/forced_upgrade) - [Forced to upgrade](https://herman.bearblog.dev/forced-to-upgrade/)
-* [2024-12-10, 17:37:14](https://lobste.rs/s/u0mrjp/from_where_i_left) - [From where I left](https://antirez.com/news/144)
 * [2024-12-10, 17:17:00](https://lobste.rs/s/hl73hl/limbo_complete_rewrite_sqlite_rust) - [Limbo: A complete rewrite of SQLite in Rust](https://turso.tech/blog/introducing-limbo-a-complete-rewrite-of-sqlite-in-rust)
 
 ## [Archives](archives/index.md)
