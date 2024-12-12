@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-12, 14:00:17",
+      "https://lobste.rs/s/m5mhko/beyond_gaming_x11_bridging_muvm"
+    ],
+    [
+      "Beyond Gaming: X11 bridging in muvm",
+      "https://asahilinux.org/2024/12/muvm-x11-bridging/"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 13:42:36",
       "https://lobste.rs/s/7xasib/ad_hoc_effects_rust"
     ],
@@ -101,12 +111,12 @@
   ],
   [
     [
-      "2024-12-12, 05:49:21",
-      "https://lobste.rs/s/kefpj0/how_i_got_my_laser_eye_injury"
+      "2024-12-12, 05:26:09",
+      "https://lobste.rs/s/kherp8/geometry_clipmaps_simple_terrain"
     ],
     [
-      "How I Got My Laser Eye Injury",
-      "https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/"
+      "Geometry clipmaps: simple terrain rendering with level of detail (2017)",
+      "https://mikejsavage.co.uk/geometry-clipmaps/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Ucacher: Speeding up GitHub Actions via syscall instrumentation",
       "https://earthly.dev/blog/ucacher/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 15:54:29",
-      "https://lobste.rs/s/dvwlwv/return_glfighters_porting_23_year_old"
-    ],
-    [
-      "the return of glfighters: porting a 23-year-old game to webassembly",
-      "https://devnonsense.com/posts/glfighters/"
     ]
   ],
   [
