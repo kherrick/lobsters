@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-12, 16:06:05](https://lobste.rs/s/cqxd26/introducing_chrome_extension_for) - [Introducing the Chrome Extension for the Firefox Profiler](https://blog.mozilla.org/performance/2024/12/12/introducing-the-chrome-extension-for-the-firefox-profiler/)
 * [2024-12-12, 14:00:17](https://lobste.rs/s/m5mhko/beyond_gaming_x11_bridging_muvm) - [Beyond Gaming: X11 bridging in muvm](https://asahilinux.org/2024/12/muvm-x11-bridging/)
 * [2024-12-12, 13:42:36](https://lobste.rs/s/7xasib/ad_hoc_effects_rust) - [Ad-Hoc Effects in Rust](https://capi.hannobraun.com/daily/2024-12-12)
 * [2024-12-12, 13:40:31](https://lobste.rs/s/anhb70/unix_review_magazine_interviews_larry) - [UNIX Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
@@ -15,7 +16,6 @@
 * [2024-12-12, 05:02:55](https://lobste.rs/s/xstsoq/chatgpt_clone_3000_bytes_c_backed_by_gpt_2) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-12, 02:05:33](https://lobste.rs/s/szpjfm/fcc_opens_entire_6_ghz_band_low_power) - [FCC opens entire 6 GHz band to low power device operations](https://docs.fcc.gov/public/attachments/DOC-408129A1.txt)
 * [2024-12-11, 21:44:40](https://lobste.rs/s/bbn2wh/keepin_power_mac_g5_running_cool_what) - [Keepin’ the Power Mac G5 running cool: What worked for me](https://lowendmac.com/2024/keepin-the-03-dp-2-0-power-mac-g5-cool-what-worked-for-me/)
-* [2024-12-11, 20:49:51](https://lobste.rs/s/yy3wpd/debunking_myth_ssr_isn_t_expensive) - [Debunking the Myth: SSR Isn't Expensive](https://t3.gg/blog/post/ssr-is-not-expensive)
 * [2024-12-11, 20:02:01](https://lobste.rs/s/jm0ypu/humble_for_loop_javascript) - [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)
 * [2024-12-11, 18:53:54](https://lobste.rs/s/l7dopi/making_memcpy_null_null_0_well_defined) - [Making memcpy(NULL, NULL, 0) well-defined](https://developers.redhat.com/articles/2024/12/11/making-memcpynull-null-0-well-defined)
 * [2024-12-11, 18:49:03](https://lobste.rs/s/c3auam/rails_is_better_low_code_than_low_code) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 16:06:05](https://lobste.rs/s/cqxd26/introducing_chrome_extension_for) - [Introducing the Chrome Extension for the Firefox Profiler](https://blog.mozilla.org/performance/2024/12/12/introducing-the-chrome-extension-for-the-firefox-profiler/)
 * [2024-12-12, 14:00:17](https://lobste.rs/s/m5mhko/beyond_gaming_x11_bridging_muvm) - [Beyond Gaming: X11 bridging in muvm](https://asahilinux.org/2024/12/muvm-x11-bridging/)
 * [2024-12-12, 13:42:36](https://lobste.rs/s/7xasib/ad_hoc_effects_rust) - [Ad-Hoc Effects in Rust](https://capi.hannobraun.com/daily/2024-12-12)
 * [2024-12-12, 13:40:31](https://lobste.rs/s/anhb70/unix_review_magazine_interviews_larry) - [UNIX Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
