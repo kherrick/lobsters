@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-12](index.md)
 
+* [2024-12-12, 19:16:14](https://lobste.rs/s/zeys16/read_code_using_drop_for_safety_rust) - [Read the Code: Using Drop for Safety in Rust](https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/)
 * [2024-12-12, 18:33:23](https://lobste.rs/s/lfuebk/trellis_structured_3d_latents_for) - [TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation](https://trellis3d.github.io/)
 * [2024-12-12, 16:55:37](https://lobste.rs/s/tfclbj/outside_design) - [Outside In Design](https://andydote.co.uk/2024/12/12/system-design-outside-in/)
 * [2024-12-12, 16:44:26](https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing) - [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
