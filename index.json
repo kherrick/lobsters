@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-12, 16:44:26",
+      "https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing"
+    ],
+    [
+      "Thoughts on Rust hashing",
+      "https://purplesyringa.moe/blog/thoughts-on-rust-hashing/"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 16:31:43",
       "https://lobste.rs/s/mk7tdq/ai_engineering_lessons_from_building"
     ],
@@ -207,16 +217,6 @@
     [
       "Ucacher: Speeding up GitHub Actions via syscall instrumentation",
       "https://earthly.dev/blog/ucacher/"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 15:54:29",
-      "https://lobste.rs/s/dvwlwv/return_glfighters_porting_23_year_old"
-    ],
-    [
-      "the return of glfighters: porting a 23-year-old game to webassembly",
-      "https://devnonsense.com/posts/glfighters/"
     ]
   ],
   [
