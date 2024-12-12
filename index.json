@@ -1,6 +1,36 @@
 [
   [
     [
+      "2024-12-12, 13:42:36",
+      "https://lobste.rs/s/7xasib/ad_hoc_effects_rust"
+    ],
+    [
+      "Ad-Hoc Effects in Rust",
+      "https://capi.hannobraun.com/daily/2024-12-12"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 13:40:31",
+      "https://lobste.rs/s/anhb70/unix_review_magazine_interviews_larry"
+    ],
+    [
+      "UNIX Review Magazine Interviews Larry Tesler",
+      "https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry"
+    ]
+  ],
+  [
+    [
+      "2024-12-12, 13:36:50",
+      "https://lobste.rs/s/zqgdhj/proposal_spec_finite_type_set_interface"
+    ],
+    [
+      "proposal: spec: finite type set interface as union type · Issue #70752 · golang/go",
+      "https://github.com/golang/go/issues/70752"
+    ]
+  ],
+  [
+    [
       "2024-12-12, 12:43:48",
       "https://lobste.rs/s/etdehg/hp_rt_real_time_vme_operating_system"
     ],
@@ -77,16 +107,6 @@
     [
       "How I Got My Laser Eye Injury",
       "https://www.funraniumlabs.com/2024/07/how-i-got-my-laser-eye-injury/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 05:26:09",
-      "https://lobste.rs/s/kherp8/geometry_clipmaps_simple_terrain"
-    ],
-    [
-      "Geometry clipmaps: simple terrain rendering with level of detail (2017)",
-      "https://mikejsavage.co.uk/geometry-clipmaps/"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-12-11, 15:50:01",
-      "https://lobste.rs/s/5liral/pgroll_zero_downtime_reversible_schema"
-    ],
-    [
-      "pgroll - Zero-downtime, reversible, schema changes for PostgreSQL (new website)",
-      "https://pgroll.com/"
-    ]
-  ],
-  [
-    [
       "2024-12-11, 12:09:59",
       "https://lobste.rs/s/k9xcrb/brief_history_mac_servers"
     ],
@@ -227,16 +237,6 @@
     [
       "Nobody Gets Fired for Picking JSON, but Maybe They Should?",
       "https://mcyoung.xyz/2024/12/10/json-sucks/"
-    ]
-  ],
-  [
-    [
-      "2024-12-10, 22:00:02",
-      "https://lobste.rs/s/9mu3cl/forced_upgrade"
-    ],
-    [
-      "Forced to upgrade",
-      "https://herman.bearblog.dev/forced-to-upgrade/"
     ]
   ],
   [
