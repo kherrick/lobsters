@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 16:43:38](https://lobste.rs/s/hnh2bj/new_video_captures_remarkable_1968_demo) - [A new video captures a remarkable 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
+* [2024-12-13, 16:34:40](https://lobste.rs/s/fwdbzf/oxidised_causal_inference_software) - [Oxidised causal inference in software design](https://snprajwal.com/tech/oxidised-causal-inference)
 * [2024-12-13, 16:11:59](https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package) - [Auth bypass in Go SSH package](https://platform.sh/blog/uncovered-and-patched-golang-vunerability/)
 * [2024-12-13, 14:34:39](https://lobste.rs/s/xhcdg3/majjit_lsp) - [Majjit LSP](https://matklad.github.io/2024/12/13/majjit-lsp.html)
 * [2024-12-13, 13:53:04](https://lobste.rs/s/mrnro3/less_talk_more_code) - [Less talk, more code](https://mihaiolteanu.me/interactive-dev)
