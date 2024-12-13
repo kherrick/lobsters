@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 14:34:39](https://lobste.rs/s/xhcdg3/majjit_lsp) - [Majjit LSP](https://matklad.github.io/2024/12/13/majjit-lsp.html)
 * [2024-12-13, 13:53:04](https://lobste.rs/s/mrnro3/less_talk_more_code) - [Less talk, more code](https://mihaiolteanu.me/interactive-dev)
 * [2024-12-13, 12:32:22](https://lobste.rs/s/pwimh8/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/pwimh8/what_are_you_doing_this_weekend)
 * [2024-12-13, 10:44:53](https://lobste.rs/s/tj3lej/c_exception_performance_three_years) - [C++ exception performance three years later](http://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
