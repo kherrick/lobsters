@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-13, 16:11:59](https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package) - [Auth bypass in Go SSH package](https://platform.sh/blog/uncovered-and-patched-golang-vunerability/)
 * [2024-12-13, 14:34:39](https://lobste.rs/s/xhcdg3/majjit_lsp) - [Majjit LSP](https://matklad.github.io/2024/12/13/majjit-lsp.html)
 * [2024-12-13, 13:53:04](https://lobste.rs/s/mrnro3/less_talk_more_code) - [Less talk, more code](https://mihaiolteanu.me/interactive-dev)
 * [2024-12-13, 12:32:22](https://lobste.rs/s/pwimh8/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/pwimh8/what_are_you_doing_this_weekend)
@@ -12,7 +13,6 @@
 * [2024-12-12, 23:05:02](https://lobste.rs/s/fu5cod/what_i_learned_covering_theoretical) - [What I Learned Covering (Theoretical) Computer Science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746)
 * [2024-12-12, 22:57:24](https://lobste.rs/s/2ixhro/jujutsu_version_control_system) - [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
 * [2024-12-12, 22:32:20](https://lobste.rs/s/unopy0/cursor_size_problems_wayland_explained) - [Cursor Size Problems In Wayland, Explained](https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/)
-* [2024-12-12, 21:22:22](https://lobste.rs/s/vnigrw/diving_into_flume_water_monitor) - [Diving Into the Flume Water Monitor](https://lithostech.com/2024/12/diving-into-flume-water-monitor/)
 * [2024-12-12, 20:52:42](https://lobste.rs/s/yynacv/things_you_never_wanted_know_about_go) - [Things You Never Wanted To Know About Go Interfaces](https://mcyoung.xyz/2024/12/12/go-abi/)
 * [2024-12-12, 20:42:26](https://lobste.rs/s/fyshqt/api_design_x_twitter_home_timeline) - [API Design of X (Twitter) Home Timeline](https://trekhleb.dev/blog/2024/api-design-x-home-timeline/)
 * [2024-12-12, 20:07:46](https://lobste.rs/s/iyqser/humble_for_loop_rust) - [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
