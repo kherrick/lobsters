@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-13, 16:43:38",
+      "https://lobste.rs/s/hnh2bj/new_video_captures_remarkable_1968_demo"
+    ],
+    [
+      "A new video captures a remarkable 1968 demo of IBM’s Executive Terminal",
+      "https://spectrum.ieee.org/ibm-demo"
+    ]
+  ],
+  [
+    [
+      "2024-12-13, 16:34:40",
+      "https://lobste.rs/s/fwdbzf/oxidised_causal_inference_software"
+    ],
+    [
+      "Oxidised causal inference in software design",
+      "https://snprajwal.com/tech/oxidised-causal-inference"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 16:11:59",
       "https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2024-12-12, 23:05:02",
-      "https://lobste.rs/s/fu5cod/what_i_learned_covering_theoretical"
-    ],
-    [
-      "What I Learned Covering (Theoretical) Computer Science in 2024",
-      "https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746"
-    ]
-  ],
-  [
-    [
       "2024-12-12, 22:57:24",
       "https://lobste.rs/s/2ixhro/jujutsu_version_control_system"
     ],
@@ -167,16 +177,6 @@
     [
       "\"Rules\" that terminal programs follow",
       "https://jvns.ca/blog/2024/11/26/terminal-rules/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 19:16:14",
-      "https://lobste.rs/s/zeys16/read_code_using_drop_for_safety_rust"
-    ],
-    [
-      "Read the Code: Using Drop for Safety in Rust",
-      "https://v5.chriskrycho.com/journal/read-the-code/using-drop-for-safety-in-rust/"
     ]
   ],
   [
