@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 04:08:10",
+      "https://lobste.rs/s/ltxyqr/rust_s_incremental_compiler"
+    ],
+    [
+      "Rust's incremental compiler architecture",
+      "https://lwn.net/Articles/997784/"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 03:10:04",
       "https://lobste.rs/s/o3o7ot/astro_5_0"
     ],
@@ -147,16 +157,6 @@
     [
       "Thoughts on Rust hashing",
       "https://purplesyringa.moe/blog/thoughts-on-rust-hashing/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 16:06:05",
-      "https://lobste.rs/s/cqxd26/introducing_chrome_extension_for"
-    ],
-    [
-      "Introducing the Chrome Extension for the Firefox Profiler",
-      "https://blog.mozilla.org/performance/2024/12/12/introducing-the-chrome-extension-for-the-firefox-profiler/"
     ]
   ],
   [
