@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 18:44:03](https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at) - [WebTransport (WebSockets 2.0) talk at RubyConf](https://youtu.be/WqYExpMWIUU?t=16)
 * [2024-12-13, 18:34:09](https://lobste.rs/s/wmjv63/when_your_webcam_doesn_t_work_solving) - [When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues](https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/)
 * [2024-12-13, 17:48:04](https://lobste.rs/s/la8auv/garbage_collected_smart_pointers_rust) - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
 * [2024-12-13, 17:33:29](https://lobste.rs/s/i1xzas/helix_why_how_i_use_it) - [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
