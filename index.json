@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 20:56:25",
+      "https://lobste.rs/s/rvui03/sccs_roach_motel"
+    ],
+    [
+      "SCCS roach motel",
+      "https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 20:38:49",
       "https://lobste.rs/s/eloe6d/algorithms_for_high_performance"
     ],
@@ -167,16 +177,6 @@
     [
       "Rust's incremental compiler architecture",
       "https://lwn.net/Articles/997784/"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 03:10:04",
-      "https://lobste.rs/s/o3o7ot/astro_5_0"
-    ],
-    [
-      "Astro 5.0",
-      "https://astro.build/blog/astro-5/"
     ]
   ],
   [
