@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 20:06:47](https://lobste.rs/s/g0xnxr/ki_multi_cursor_structural_editor) - [Ki, a multi-cursor structural editor](https://ki-editor.github.io/ki-editor/)
 * [2024-12-13, 18:55:53](https://lobste.rs/s/zl5vh3/dora_report_2024_look_at_throughput) - [DORA Report 2024 – A Look at Throughput and Stability](https://redmonk.com/rstephens/2024/11/26/dora2024/)
 * [2024-12-13, 18:44:03](https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at) - [WebTransport (WebSockets 2.0) talk at RubyConf](https://youtu.be/WqYExpMWIUU?t=16)
 * [2024-12-13, 18:34:09](https://lobste.rs/s/wmjv63/when_your_webcam_doesn_t_work_solving) - [When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues](https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/)

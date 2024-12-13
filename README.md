@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-13, 20:06:47](https://lobste.rs/s/g0xnxr/ki_multi_cursor_structural_editor) - [Ki, a multi-cursor structural editor](https://ki-editor.github.io/ki-editor/)
 * [2024-12-13, 18:55:53](https://lobste.rs/s/zl5vh3/dora_report_2024_look_at_throughput) - [DORA Report 2024 – A Look at Throughput and Stability](https://redmonk.com/rstephens/2024/11/26/dora2024/)
 * [2024-12-13, 18:44:03](https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at) - [WebTransport (WebSockets 2.0) talk at RubyConf](https://youtu.be/WqYExpMWIUU?t=16)
 * [2024-12-13, 18:34:09](https://lobste.rs/s/wmjv63/when_your_webcam_doesn_t_work_solving) - [When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues](https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/)
@@ -23,7 +24,6 @@
 * [2024-12-12, 20:42:26](https://lobste.rs/s/fyshqt/api_design_x_twitter_home_timeline) - [API Design of X (Twitter) Home Timeline](https://trekhleb.dev/blog/2024/api-design-x-home-timeline/)
 * [2024-12-12, 20:07:46](https://lobste.rs/s/iyqser/humble_for_loop_rust) - [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
 * [2024-12-12, 19:20:04](https://lobste.rs/s/wyk2wg/rules_terminal_programs_follow) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
-* [2024-12-12, 16:44:26](https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing) - [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
 * [2024-12-12, 10:51:06](https://lobste.rs/s/inwyfk/nonstop_discussion_around_adding_rust) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 
 ## [Archives](archives/index.md)
