@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-13, 13:53:04](https://lobste.rs/s/mrnro3/less_talk_more_code) - [Less talk, more code](https://mihaiolteanu.me/interactive-dev)
 * [2024-12-13, 12:32:22](https://lobste.rs/s/pwimh8/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/pwimh8/what_are_you_doing_this_weekend)
 * [2024-12-13, 10:44:53](https://lobste.rs/s/tj3lej/c_exception_performance_three_years) - [C++ exception performance three years later](http://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html)
 * [2024-12-13, 10:32:06](https://lobste.rs/s/rupea8/3_shell_scripts_improve_your_writing_my_ph) - [3 shell scripts to improve your writing, or \"My Ph.D. advisor rewrote himself in bash.\"](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
@@ -20,7 +21,6 @@
 * [2024-12-12, 16:55:37](https://lobste.rs/s/tfclbj/outside_design) - [Outside In Design](https://andydote.co.uk/2024/12/12/system-design-outside-in/)
 * [2024-12-12, 16:44:26](https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing) - [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
 * [2024-12-12, 13:42:36](https://lobste.rs/s/7xasib/ad_hoc_effects_rust) - [Ad-Hoc Effects in Rust](https://capi.hannobraun.com/daily/2024-12-12)
-* [2024-12-12, 13:40:31](https://lobste.rs/s/anhb70/unix_review_magazine_interviews_larry) - [UNIX Review Magazine Interviews Larry Tesler](https://computeradsfromthepast.substack.com/p/unix-review-magazine-interviews-larry)
 * [2024-12-12, 10:51:06](https://lobste.rs/s/inwyfk/nonstop_discussion_around_adding_rust) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 * [2024-12-12, 07:46:40](https://lobste.rs/s/7imzgr/gtk3_classic_patches_bring_back) - [gtk3-classic: Patches to bring back a traditional experience for GTK+3](https://github.com/lah7/gtk3-classic/)
 * [2024-12-12, 06:58:07](https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2) - [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
