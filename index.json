@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 14:34:39",
+      "https://lobste.rs/s/xhcdg3/majjit_lsp"
+    ],
+    [
+      "Majjit LSP",
+      "https://matklad.github.io/2024/12/13/majjit-lsp.html"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 13:53:04",
       "https://lobste.rs/s/mrnro3/less_talk_more_code"
     ],
@@ -237,16 +247,6 @@
     [
       "Non-temporal store heuristics on the Apple M2",
       "https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094"
-    ]
-  ],
-  [
-    [
-      "2024-12-11, 20:02:01",
-      "https://lobste.rs/s/jm0ypu/humble_for_loop_javascript"
-    ],
-    [
-      "The Humble For Loop in JavaScript",
-      "https://blog.startifact.com/posts/humble-for-loop-js/"
     ]
   ]
 ]
