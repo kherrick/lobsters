@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-13, 20:38:49](https://lobste.rs/s/eloe6d/algorithms_for_high_performance) - [Algorithms for high performance terminal apps](https://textual.textualize.io/blog/2024/12/12/algorithms-for-high-performance-terminal-apps/)
 * [2024-12-13, 20:06:47](https://lobste.rs/s/g0xnxr/ki_multi_cursor_structural_editor) - [Ki, a multi-cursor structural editor](https://ki-editor.github.io/ki-editor/)
 * [2024-12-13, 18:55:53](https://lobste.rs/s/zl5vh3/dora_report_2024_look_at_throughput) - [DORA Report 2024 – A Look at Throughput and Stability](https://redmonk.com/rstephens/2024/11/26/dora2024/)
 * [2024-12-13, 18:44:03](https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at) - [WebTransport (WebSockets 2.0) talk at RubyConf](https://youtu.be/WqYExpMWIUU?t=16)
 * [2024-12-13, 18:34:09](https://lobste.rs/s/wmjv63/when_your_webcam_doesn_t_work_solving) - [When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues](https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/)
 * [2024-12-13, 17:48:04](https://lobste.rs/s/la8auv/garbage_collected_smart_pointers_rust) - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
 * [2024-12-13, 17:33:29](https://lobste.rs/s/i1xzas/helix_why_how_i_use_it) - [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
-* [2024-12-13, 16:51:57](https://lobste.rs/s/k9jwag/us_telco_security_efforts_ramp_up_after) - [US Telco Security Efforts Ramp Up After Salt Typhoon](https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon)
 * [2024-12-13, 16:43:38](https://lobste.rs/s/hnh2bj/new_video_captures_remarkable_1968_demo) - [A new video captures a remarkable 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
 * [2024-12-13, 16:34:40](https://lobste.rs/s/fwdbzf/oxidised_causal_inference_software) - [Oxidised causal inference in software design](https://snprajwal.com/tech/oxidised-causal-inference)
 * [2024-12-13, 16:11:59](https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package) - [Auth bypass in Go SSH package](https://platform.sh/blog/uncovered-and-patched-golang-vunerability/)
