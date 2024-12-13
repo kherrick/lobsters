@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 18:44:03",
+      "https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at"
+    ],
+    [
+      "WebTransport (WebSockets 2.0) talk at RubyConf",
+      "https://youtu.be/WqYExpMWIUU?t=16"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 18:34:09",
       "https://lobste.rs/s/wmjv63/when_your_webcam_doesn_t_work_solving"
     ],
@@ -237,16 +247,6 @@
     [
       "NonStop discussion around adding Rust to Git",
       "https://lwn.net/Articles/998115/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 06:58:07",
-      "https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2"
-    ],
-    [
-      "Non-temporal store heuristics on the Apple M2",
-      "https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094"
     ]
   ]
 ]
