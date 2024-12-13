@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-13, 03:10:04](https://lobste.rs/s/o3o7ot/astro_5_0) - [Astro 5.0](https://astro.build/blog/astro-5/)
 * [2024-12-13, 02:03:05](https://lobste.rs/s/3rybyx/programmers_want_flow_when_programming) - [Programmers want flow. when programming, light turns RED](https://www.scannedinavian.com/programmers-want-flow-when-programming-light-turns-red.html)
 * [2024-12-12, 23:05:02](https://lobste.rs/s/fu5cod/what_i_learned_covering_theoretical) - [What I Learned Covering (Theoretical) Computer Science in 2024](https://mailchi.mp/quantamagazine.org/why-colliding-particles-reveal-reality-4865746)
 * [2024-12-12, 22:57:24](https://lobste.rs/s/2ixhro/jujutsu_version_control_system) - [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
@@ -24,7 +25,6 @@
 * [2024-12-12, 06:58:07](https://lobste.rs/s/i5luxs/non_temporal_store_heuristics_on_apple_m2) - [Non-temporal store heuristics on the Apple M2](https://github.com/ocaml/ocaml/issues/13262#issuecomment-2478765094)
 * [2024-12-12, 05:02:55](https://lobste.rs/s/xstsoq/chatgpt_clone_3000_bytes_c_backed_by_gpt_2) - [A ChatGPT clone, in 3000 bytes of C, backed by GPT-2](https://nicholas.carlini.com/writing/2023/chat-gpt-2-in-c.html)
 * [2024-12-11, 20:02:01](https://lobste.rs/s/jm0ypu/humble_for_loop_javascript) - [The Humble For Loop in JavaScript](https://blog.startifact.com/posts/humble-for-loop-js/)
-* [2024-12-11, 18:49:03](https://lobste.rs/s/c3auam/rails_is_better_low_code_than_low_code) - [Rails is better low code than low code](https://radanskoric.com/articles/rails-is-better-low-code-than-low-code)
 
 ## [Archives](archives/index.md)
 
