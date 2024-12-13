@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 10:44:53",
+      "https://lobste.rs/s/tj3lej/c_exception_performance_three_years"
+    ],
+    [
+      "C++ exception performance three years later",
+      "http://databasearchitects.blogspot.com/2024/12/c-exception-performance-three-years.html"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 10:32:06",
       "https://lobste.rs/s/rupea8/3_shell_scripts_improve_your_writing_my_ph"
     ],
@@ -167,16 +177,6 @@
     [
       "Thoughts on Rust hashing",
       "https://purplesyringa.moe/blog/thoughts-on-rust-hashing/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 14:00:17",
-      "https://lobste.rs/s/m5mhko/beyond_gaming_x11_bridging_muvm"
-    ],
-    [
-      "Beyond Gaming: X11 bridging in muvm",
-      "https://asahilinux.org/2024/12/muvm-x11-bridging/"
     ]
   ],
   [
