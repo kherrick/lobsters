@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-13, 09:53:49",
+      "https://lobste.rs/s/thj8tv/when_should_we_require_firmware_be_free"
+    ],
+    [
+      "When should we require that firmware be free?",
+      "https://mjg59.dreamwidth.org/70895.html"
+    ]
+  ],
+  [
+    [
       "2024-12-13, 04:08:10",
       "https://lobste.rs/s/ltxyqr/rust_s_incremental_compiler"
     ],
@@ -157,16 +167,6 @@
     [
       "Thoughts on Rust hashing",
       "https://purplesyringa.moe/blog/thoughts-on-rust-hashing/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 16:06:05",
-      "https://lobste.rs/s/cqxd26/introducing_chrome_extension_for"
-    ],
-    [
-      "Introducing the Chrome Extension for the Firefox Profiler",
-      "https://blog.mozilla.org/performance/2024/12/12/introducing-the-chrome-extension-for-the-firefox-profiler/"
     ]
   ],
   [
