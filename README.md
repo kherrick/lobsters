@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-13, 16:51:57](https://lobste.rs/s/k9jwag/us_telco_security_efforts_ramp_up_after) - [US Telco Security Efforts Ramp Up After Salt Typhoon](https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon)
 * [2024-12-13, 16:43:38](https://lobste.rs/s/hnh2bj/new_video_captures_remarkable_1968_demo) - [A new video captures a remarkable 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
 * [2024-12-13, 16:34:40](https://lobste.rs/s/fwdbzf/oxidised_causal_inference_software) - [Oxidised causal inference in software design](https://snprajwal.com/tech/oxidised-causal-inference)
 * [2024-12-13, 16:11:59](https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package) - [Auth bypass in Go SSH package](https://platform.sh/blog/uncovered-and-patched-golang-vunerability/)
@@ -19,7 +20,6 @@
 * [2024-12-12, 20:07:46](https://lobste.rs/s/iyqser/humble_for_loop_rust) - [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
 * [2024-12-12, 19:20:04](https://lobste.rs/s/wyk2wg/rules_terminal_programs_follow) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 * [2024-12-12, 18:33:23](https://lobste.rs/s/lfuebk/trellis_structured_3d_latents_for) - [TRELLIS: Structured 3D Latents for Scalable and Versatile 3D Generation](https://trellis3d.github.io/)
-* [2024-12-12, 16:55:37](https://lobste.rs/s/tfclbj/outside_design) - [Outside In Design](https://andydote.co.uk/2024/12/12/system-design-outside-in/)
 * [2024-12-12, 16:44:26](https://lobste.rs/s/fv0u91/thoughts_on_rust_hashing) - [Thoughts on Rust hashing](https://purplesyringa.moe/blog/thoughts-on-rust-hashing/)
 * [2024-12-12, 13:42:36](https://lobste.rs/s/7xasib/ad_hoc_effects_rust) - [Ad-Hoc Effects in Rust](https://capi.hannobraun.com/daily/2024-12-12)
 * [2024-12-12, 10:51:06](https://lobste.rs/s/inwyfk/nonstop_discussion_around_adding_rust) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)

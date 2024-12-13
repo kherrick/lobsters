@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-13](index.md)
 
+* [2024-12-13, 16:51:57](https://lobste.rs/s/k9jwag/us_telco_security_efforts_ramp_up_after) - [US Telco Security Efforts Ramp Up After Salt Typhoon](https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon)
 * [2024-12-13, 16:43:38](https://lobste.rs/s/hnh2bj/new_video_captures_remarkable_1968_demo) - [A new video captures a remarkable 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
 * [2024-12-13, 16:34:40](https://lobste.rs/s/fwdbzf/oxidised_causal_inference_software) - [Oxidised causal inference in software design](https://snprajwal.com/tech/oxidised-causal-inference)
 * [2024-12-13, 16:11:59](https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package) - [Auth bypass in Go SSH package](https://platform.sh/blog/uncovered-and-patched-golang-vunerability/)
