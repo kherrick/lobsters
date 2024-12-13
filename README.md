@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-13, 21:18:19](https://lobste.rs/s/roolli/showing_coverage_diffs_on_github_actions) - [Showing coverage diffs on GitHub Actions with cuvner (no 3rd-party SaaS required)](https://meejah.ca/blog/cuvner-pull-requests)
 * [2024-12-13, 20:56:25](https://lobste.rs/s/rvui03/sccs_roach_motel) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
 * [2024-12-13, 20:38:49](https://lobste.rs/s/eloe6d/algorithms_for_high_performance) - [Algorithms for high performance terminal apps](https://textual.textualize.io/blog/2024/12/12/algorithms-for-high-performance-terminal-apps/)
 * [2024-12-13, 20:06:47](https://lobste.rs/s/g0xnxr/ki_multi_cursor_structural_editor) - [Ki, a multi-cursor structural editor](https://ki-editor.github.io/ki-editor/)
-* [2024-12-13, 18:55:53](https://lobste.rs/s/zl5vh3/dora_report_2024_look_at_throughput) - [DORA Report 2024 – A Look at Throughput and Stability](https://redmonk.com/rstephens/2024/11/26/dora2024/)
 * [2024-12-13, 18:44:03](https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at) - [WebTransport (WebSockets 2.0) talk at RubyConf](https://youtu.be/WqYExpMWIUU?t=16)
 * [2024-12-13, 18:34:09](https://lobste.rs/s/wmjv63/when_your_webcam_doesn_t_work_solving) - [When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues](https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/)
 * [2024-12-13, 17:48:04](https://lobste.rs/s/la8auv/garbage_collected_smart_pointers_rust) - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
