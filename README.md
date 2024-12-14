@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-14, 09:51:19](https://lobste.rs/s/wc4yz5/luon_high_level_programming_language) - [Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-14, 07:07:58](https://lobste.rs/s/zeasdd/security_review_for_mullvad_vpn) - [Security Review for Mullvad VPN](https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf)
 * [2024-12-14, 01:49:38](https://lobste.rs/s/aq9ems/markitdown_python_tool_for_converting) - [markitdown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
 * [2024-12-13, 20:56:25](https://lobste.rs/s/rvui03/sccs_roach_motel) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
@@ -24,7 +25,6 @@
 * [2024-12-12, 22:32:20](https://lobste.rs/s/unopy0/cursor_size_problems_wayland_explained) - [Cursor Size Problems In Wayland, Explained](https://blogs.kde.org/2024/10/09/cursor-size-problems-in-wayland-explained/)
 * [2024-12-12, 20:07:46](https://lobste.rs/s/iyqser/humble_for_loop_rust) - [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
 * [2024-12-12, 19:20:04](https://lobste.rs/s/wyk2wg/rules_terminal_programs_follow) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
-* [2024-12-12, 10:51:06](https://lobste.rs/s/inwyfk/nonstop_discussion_around_adding_rust) - [NonStop discussion around adding Rust to Git](https://lwn.net/Articles/998115/)
 
 ## [Archives](archives/index.md)
 
