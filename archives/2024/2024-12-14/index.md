@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 17:55:18](https://lobste.rs/s/ecrx3v/swift_language_focus_areas_heading_into) - [Swift Language focus areas heading into 2025](https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611)
 * [2024-12-14, 16:42:33](https://lobste.rs/s/gn32gj/0x01_killing_windows_kernel_mitigations) - [0x01 - Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
 * [2024-12-14, 16:21:37](https://lobste.rs/s/bwovro/search_faster_sqlite) - [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
 * [2024-12-14, 13:26:15](https://lobste.rs/s/jsxeu2/deep_dive_into_modern_windows_structured) - [A deep dive into modern Windows Structured Exception Handler (SEH)](https://blog.elmo.sg/posts/structured-exception-handler-x64/)
