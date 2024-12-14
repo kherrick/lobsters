@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-14, 18:47:00",
+      "https://lobste.rs/s/yvtrdr/far_from_random_three_mistakes_from_dart"
+    ],
+    [
+      "Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG",
+      "https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 17:55:18",
       "https://lobste.rs/s/ecrx3v/swift_language_focus_areas_heading_into"
     ],
@@ -227,16 +237,6 @@
     [
       "The Jujutsu version control system",
       "https://neugierig.org/software/blog/2024/12/jujutsu.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 20:07:46",
-      "https://lobste.rs/s/iyqser/humble_for_loop_rust"
-    ],
-    [
-      "The Humble For Loop in Rust",
-      "https://blog.startifact.com/posts/humble-for-loop-rust/"
     ]
   ],
   [
