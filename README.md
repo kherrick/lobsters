@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-14, 18:47:00](https://lobste.rs/s/yvtrdr/far_from_random_three_mistakes_from_dart) - [Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-14, 17:55:18](https://lobste.rs/s/ecrx3v/swift_language_focus_areas_heading_into) - [Swift Language focus areas heading into 2025](https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611)
 * [2024-12-14, 16:42:33](https://lobste.rs/s/gn32gj/0x01_killing_windows_kernel_mitigations) - [0x01 - Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
 * [2024-12-14, 16:21:37](https://lobste.rs/s/bwovro/search_faster_sqlite) - [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
@@ -23,7 +24,6 @@
 * [2024-12-13, 10:32:06](https://lobste.rs/s/rupea8/3_shell_scripts_improve_your_writing_my_ph) - [3 shell scripts to improve your writing, or \"My Ph.D. advisor rewrote himself in bash.\"](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 * [2024-12-13, 09:53:49](https://lobste.rs/s/thj8tv/when_should_we_require_firmware_be_free) - [When should we require that firmware be free?](https://mjg59.dreamwidth.org/70895.html)
 * [2024-12-12, 22:57:24](https://lobste.rs/s/2ixhro/jujutsu_version_control_system) - [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
-* [2024-12-12, 20:07:46](https://lobste.rs/s/iyqser/humble_for_loop_rust) - [The Humble For Loop in Rust](https://blog.startifact.com/posts/humble-for-loop-rust/)
 * [2024-12-12, 19:20:04](https://lobste.rs/s/wyk2wg/rules_terminal_programs_follow) - [\"Rules\" that terminal programs follow](https://jvns.ca/blog/2024/11/26/terminal-rules/)
 
 ## [Archives](archives/index.md)
