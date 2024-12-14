@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 23:40:09](https://lobste.rs/s/zdbite/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-14, 23:36:47](https://lobste.rs/s/6jfyko/solving_advent_code_at_compile_time_with) - [Solving Advent of Code at Compile Time with Rust Macros](https://doublefree.bearblog.dev/solving-advent-of-code-at-compile-time-with-rust-macros/)
 * [2024-12-14, 23:34:50](https://lobste.rs/s/jo8ai0/energy_harvesting_electronic_holiday) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
 * [2024-12-14, 22:09:38](https://lobste.rs/s/e7m3nc/mutation_xss_explained_cve_challenge) - [Mutation XSS: Explained, CVE and Challenge](https://jorianwoltjer.com/blog/p/hacking/mutation-xss)
