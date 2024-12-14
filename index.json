@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-14, 09:51:19",
+      "https://lobste.rs/s/wc4yz5/luon_high_level_programming_language"
+    ],
+    [
+      "Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM",
+      "https://github.com/rochus-keller/Luon/blob/master/Readme.md"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 07:07:58",
       "https://lobste.rs/s/zeasdd/security_review_for_mullvad_vpn"
     ],
@@ -237,16 +247,6 @@
     [
       "\"Rules\" that terminal programs follow",
       "https://jvns.ca/blog/2024/11/26/terminal-rules/"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 10:51:06",
-      "https://lobste.rs/s/inwyfk/nonstop_discussion_around_adding_rust"
-    ],
-    [
-      "NonStop discussion around adding Rust to Git",
-      "https://lwn.net/Articles/998115/"
     ]
   ]
 ]
