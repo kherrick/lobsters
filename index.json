@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-14, 23:40:09",
+      "https://lobste.rs/s/zdbite/fully_documented_annotated_source_code"
+    ],
+    [
+      "Fully documented and annotated source code for Elite on the Commodore 64",
+      "https://github.com/markmoxon/elite-source-code-commodore-64"
+    ]
+  ],
+  [
+    [
       "2024-12-14, 23:36:47",
       "https://lobste.rs/s/6jfyko/solving_advent_code_at_compile_time_with"
     ],
@@ -237,16 +247,6 @@
     [
       "The Jujutsu version control system",
       "https://neugierig.org/software/blog/2024/12/jujutsu.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-12, 19:20:04",
-      "https://lobste.rs/s/wyk2wg/rules_terminal_programs_follow"
-    ],
-    [
-      "\"Rules\" that terminal programs follow",
-      "https://jvns.ca/blog/2024/11/26/terminal-rules/"
     ]
   ]
 ]
