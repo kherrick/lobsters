@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-14](index.md)
 
+* [2024-12-14, 22:09:38](https://lobste.rs/s/e7m3nc/mutation_xss_explained_cve_challenge) - [Mutation XSS: Explained, CVE and Challenge](https://jorianwoltjer.com/blog/p/hacking/mutation-xss)
 * [2024-12-14, 18:47:00](https://lobste.rs/s/yvtrdr/far_from_random_three_mistakes_from_dart) - [Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-14, 17:55:18](https://lobste.rs/s/ecrx3v/swift_language_focus_areas_heading_into) - [Swift Language focus areas heading into 2025](https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611)
 * [2024-12-14, 16:42:33](https://lobste.rs/s/gn32gj/0x01_killing_windows_kernel_mitigations) - [0x01 - Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
