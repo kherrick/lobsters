@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-14, 13:26:15](https://lobste.rs/s/jsxeu2/deep_dive_into_modern_windows_structured) - [A deep dive into modern Windows Structured Exception Handler (SEH)](https://blog.elmo.sg/posts/structured-exception-handler-x64/)
 * [2024-12-14, 09:51:19](https://lobste.rs/s/wc4yz5/luon_high_level_programming_language) - [Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-14, 07:07:58](https://lobste.rs/s/zeasdd/security_review_for_mullvad_vpn) - [Security Review for Mullvad VPN](https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf)
 * [2024-12-14, 01:49:38](https://lobste.rs/s/aq9ems/markitdown_python_tool_for_converting) - [markitdown: Python tool for converting files and office documents to Markdown](https://github.com/microsoft/markitdown)
@@ -10,7 +11,6 @@
 * [2024-12-13, 18:34:09](https://lobste.rs/s/wmjv63/when_your_webcam_doesn_t_work_solving) - [When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues](https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/)
 * [2024-12-13, 17:48:04](https://lobste.rs/s/la8auv/garbage_collected_smart_pointers_rust) - [Garbage Collected Smart Pointers in Rust via Concurrent Cycle Collection](https://maplant.com/2024-12-13-Scheme-to-the-Spec-Part-I:-Concurrent-Cycle-Collection.html)
 * [2024-12-13, 17:33:29](https://lobste.rs/s/i1xzas/helix_why_how_i_use_it) - [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
-* [2024-12-13, 16:51:57](https://lobste.rs/s/k9jwag/us_telco_security_efforts_ramp_up_after) - [US Telco Security Efforts Ramp Up After Salt Typhoon](https://www.darkreading.com/vulnerabilities-threats/efforts-secure-us-telcos-salt-typhoon)
 * [2024-12-13, 16:43:38](https://lobste.rs/s/hnh2bj/new_video_captures_remarkable_1968_demo) - [A new video captures a remarkable 1968 demo of IBM’s Executive Terminal](https://spectrum.ieee.org/ibm-demo)
 * [2024-12-13, 16:34:40](https://lobste.rs/s/fwdbzf/oxidised_causal_inference_software) - [Oxidised causal inference in software design](https://snprajwal.com/tech/oxidised-causal-inference)
 * [2024-12-13, 16:11:59](https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package) - [Auth bypass in Go SSH package](https://platform.sh/blog/uncovered-and-patched-golang-vunerability/)
