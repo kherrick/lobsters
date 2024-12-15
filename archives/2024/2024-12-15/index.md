@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 20:40:54](https://lobste.rs/s/h0pry6/i_tried_creating_native_app_typescript) - [I Tried Creating a Native App in TypeScript](https://vexcess.github.io/blog/creating-a-native-app-in-typescript)
 * [2024-12-15, 20:39:11](https://lobste.rs/s/jhsqsl/hacking_discord_app_for_5000_bounty) - [Hacking the Discord app for $5000 Bounty](https://www.youtube.com/watch?v=R3SE4VKj678)
 * [2024-12-15, 18:26:11](https://lobste.rs/s/7q6uug/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2024](https://www.haiku-os.org/blog/waddlesplash/2024-12-10-haiku_activity_contract_report_november_2024)
