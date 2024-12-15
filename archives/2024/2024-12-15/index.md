@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 14:29:31](https://lobste.rs/s/uegqpd/xfce_4_20_released) - [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
+* [2024-12-15, 14:28:02](https://lobste.rs/s/37c7tq/home_assistant_can_not_be_secured_for) - [Home Assistant can not be secured for internet access](https://frederikbraun.de/home-assistant-can-not-be-secured-for-internet-access.html)
 * [2024-12-15, 13:29:59](https://lobste.rs/s/zf7vxg/death_developer_relations) - [The Death of Developer Relations](https://leebriggs.co.uk/blog/2024/12/10/the-death-of-devrel)
 * [2024-12-15, 13:04:11](https://lobste.rs/s/xowhyk/caddy_ninja_setup_https_enabled_web) - [Caddy Ninja - Setup an HTTPS-enabled web server with Caddy on Alpine Linux](https://caddy.ninja/)
 * [2024-12-15, 11:26:50](https://lobste.rs/s/6wwdoa/performance_rust_s_match_vs_lookup_tables) - [Performance of Rust's match vs. lookup tables (2019)](https://kevinlynagh.com/notes/match-vs-lookup/)

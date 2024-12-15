@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-15, 14:29:31](https://lobste.rs/s/uegqpd/xfce_4_20_released) - [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
+* [2024-12-15, 14:28:02](https://lobste.rs/s/37c7tq/home_assistant_can_not_be_secured_for) - [Home Assistant can not be secured for internet access](https://frederikbraun.de/home-assistant-can-not-be-secured-for-internet-access.html)
 * [2024-12-15, 13:29:59](https://lobste.rs/s/zf7vxg/death_developer_relations) - [The Death of Developer Relations](https://leebriggs.co.uk/blog/2024/12/10/the-death-of-devrel)
 * [2024-12-15, 13:04:11](https://lobste.rs/s/xowhyk/caddy_ninja_setup_https_enabled_web) - [Caddy Ninja - Setup an HTTPS-enabled web server with Caddy on Alpine Linux](https://caddy.ninja/)
 * [2024-12-15, 11:26:50](https://lobste.rs/s/6wwdoa/performance_rust_s_match_vs_lookup_tables) - [Performance of Rust's match vs. lookup tables (2019)](https://kevinlynagh.com/notes/match-vs-lookup/)
@@ -19,10 +21,8 @@
 * [2024-12-14, 09:51:19](https://lobste.rs/s/wc4yz5/luon_high_level_programming_language) - [Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-14, 07:07:58](https://lobste.rs/s/zeasdd/security_review_for_mullvad_vpn) - [Security Review for Mullvad VPN](https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf)
 * [2024-12-13, 20:56:25](https://lobste.rs/s/rvui03/sccs_roach_motel) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
-* [2024-12-13, 20:06:47](https://lobste.rs/s/g0xnxr/ki_multi_cursor_structural_editor) - [Ki, a multi-cursor structural editor](https://ki-editor.github.io/ki-editor/)
 * [2024-12-13, 18:44:03](https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at) - [WebTransport (WebSockets 2.0) talk at RubyConf](https://youtu.be/WqYExpMWIUU?t=16)
 * [2024-12-13, 17:33:29](https://lobste.rs/s/i1xzas/helix_why_how_i_use_it) - [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
-* [2024-12-13, 16:11:59](https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package) - [Auth bypass in Go SSH package](https://platform.sh/blog/uncovered-and-patched-golang-vunerability/)
 * [2024-12-13, 14:34:39](https://lobste.rs/s/xhcdg3/majjit_lsp) - [Majjit LSP](https://matklad.github.io/2024/12/13/majjit-lsp.html)
 * [2024-12-13, 10:32:06](https://lobste.rs/s/rupea8/3_shell_scripts_improve_your_writing_my_ph) - [3 shell scripts to improve your writing, or \"My Ph.D. advisor rewrote himself in bash.\"](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 
