@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-15, 23:04:58",
+      "https://lobste.rs/s/zrgps1/25_years_dillo"
+    ],
+    [
+      "25 years of Dillo",
+      "https://dillo-browser.github.io/25-years/"
+    ]
+  ],
+  [
+    [
       "2024-12-15, 20:40:54",
       "https://lobste.rs/s/h0pry6/i_tried_creating_native_app_typescript"
     ],
@@ -207,16 +217,6 @@
     [
       "In search of a faster SQLite",
       "https://avi.im/blag/2024/faster-sqlite"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 13:26:15",
-      "https://lobste.rs/s/jsxeu2/deep_dive_into_modern_windows_structured"
-    ],
-    [
-      "A deep dive into modern Windows Structured Exception Handler (SEH)",
-      "https://blog.elmo.sg/posts/structured-exception-handler-x64/"
     ]
   ],
   [
