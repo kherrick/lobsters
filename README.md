@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-15, 05:50:29](https://lobste.rs/s/zbewy5/load_is_not_what_you_should_balance) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 * [2024-12-15, 01:31:01](https://lobste.rs/s/rkceaf/should_programming_languages_be_safe) - [Should Programming Languages be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
 * [2024-12-14, 23:40:09](https://lobste.rs/s/zdbite/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-14, 23:36:47](https://lobste.rs/s/6jfyko/solving_advent_code_at_compile_time_with) - [Solving Advent of Code at Compile Time with Rust Macros](https://doublefree.bearblog.dev/solving-advent-of-code-at-compile-time-with-rust-macros/)
@@ -23,7 +24,6 @@
 * [2024-12-13, 14:34:39](https://lobste.rs/s/xhcdg3/majjit_lsp) - [Majjit LSP](https://matklad.github.io/2024/12/13/majjit-lsp.html)
 * [2024-12-13, 13:53:04](https://lobste.rs/s/mrnro3/less_talk_more_code) - [Less talk, more code](https://mihaiolteanu.me/interactive-dev)
 * [2024-12-13, 10:32:06](https://lobste.rs/s/rupea8/3_shell_scripts_improve_your_writing_my_ph) - [3 shell scripts to improve your writing, or \"My Ph.D. advisor rewrote himself in bash.\"](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
-* [2024-12-13, 09:53:49](https://lobste.rs/s/thj8tv/when_should_we_require_firmware_be_free) - [When should we require that firmware be free?](https://mjg59.dreamwidth.org/70895.html)
 * [2024-12-12, 22:57:24](https://lobste.rs/s/2ixhro/jujutsu_version_control_system) - [The Jujutsu version control system](https://neugierig.org/software/blog/2024/12/jujutsu.html)
 
 ## [Archives](archives/index.md)
