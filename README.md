@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-15, 09:40:30](https://lobste.rs/s/qcrmlz/now_we_re_all_forked) - [Now we’re all Forked](https://appdecentral.com/2024/12/13/now-we-are-all-forked/)
 * [2024-12-15, 07:55:46](https://lobste.rs/s/3fdvac/ubuntu_24_10_review_oracular_not) - [Ubuntu 24.10 review - Oracular but not spectacular](https://www.dedoimedo.com/computers/ubuntu-24-10-review.html)
 * [2024-12-15, 05:50:29](https://lobste.rs/s/zbewy5/load_is_not_what_you_should_balance) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 * [2024-12-15, 01:31:01](https://lobste.rs/s/rkceaf/should_programming_languages_be_safe) - [Should Programming Languages be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
@@ -15,7 +16,6 @@
 * [2024-12-14, 09:51:19](https://lobste.rs/s/wc4yz5/luon_high_level_programming_language) - [Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-14, 07:07:58](https://lobste.rs/s/zeasdd/security_review_for_mullvad_vpn) - [Security Review for Mullvad VPN](https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf)
 * [2024-12-13, 20:56:25](https://lobste.rs/s/rvui03/sccs_roach_motel) - [SCCS roach motel](https://www.tuhs.org/pipermail/tuhs/2024-December/031188.html)
-* [2024-12-13, 20:38:49](https://lobste.rs/s/eloe6d/algorithms_for_high_performance) - [Algorithms for high performance terminal apps](https://textual.textualize.io/blog/2024/12/12/algorithms-for-high-performance-terminal-apps/)
 * [2024-12-13, 20:06:47](https://lobste.rs/s/g0xnxr/ki_multi_cursor_structural_editor) - [Ki, a multi-cursor structural editor](https://ki-editor.github.io/ki-editor/)
 * [2024-12-13, 18:44:03](https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at) - [WebTransport (WebSockets 2.0) talk at RubyConf](https://youtu.be/WqYExpMWIUU?t=16)
 * [2024-12-13, 18:34:09](https://lobste.rs/s/wmjv63/when_your_webcam_doesn_t_work_solving) - [When Your Webcam Doesn’t Work: Solving Firefox and PipeWire Issues](https://jgrulich.cz/2024/12/13/when-your-webcam-doesnt-work-solving-firefox-and-pipewire-issues/)
