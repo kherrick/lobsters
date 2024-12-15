@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-15, 14:29:31",
+      "https://lobste.rs/s/uegqpd/xfce_4_20_released"
+    ],
+    [
+      "Xfce 4.20 released",
+      "https://alexxcons.github.io/blogpost_14.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-15, 14:28:02",
+      "https://lobste.rs/s/37c7tq/home_assistant_can_not_be_secured_for"
+    ],
+    [
+      "Home Assistant can not be secured for internet access",
+      "https://frederikbraun.de/home-assistant-can-not-be-secured-for-internet-access.html"
+    ]
+  ],
+  [
+    [
       "2024-12-15, 13:29:59",
       "https://lobste.rs/s/zf7vxg/death_developer_relations"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-12-13, 20:06:47",
-      "https://lobste.rs/s/g0xnxr/ki_multi_cursor_structural_editor"
-    ],
-    [
-      "Ki, a multi-cursor structural editor",
-      "https://ki-editor.github.io/ki-editor/"
-    ]
-  ],
-  [
-    [
       "2024-12-13, 18:44:03",
       "https://lobste.rs/s/syzyqz/webtransport_websockets_2_0_talk_at"
     ],
@@ -217,16 +227,6 @@
     [
       "Helix: Why (And How) I Use It",
       "https://jonathan-frere.com/posts/helix/"
-    ]
-  ],
-  [
-    [
-      "2024-12-13, 16:11:59",
-      "https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package"
-    ],
-    [
-      "Auth bypass in Go SSH package",
-      "https://platform.sh/blog/uncovered-and-patched-golang-vunerability/"
     ]
   ],
   [
