@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-15, 11:26:50](https://lobste.rs/s/6wwdoa/performance_rust_s_match_vs_lookup_tables) - [Performance of Rust's match vs. lookup tables (2019)](https://kevinlynagh.com/notes/match-vs-lookup/)
 * [2024-12-15, 09:40:30](https://lobste.rs/s/qcrmlz/now_we_re_all_forked) - [Now we’re all Forked](https://appdecentral.com/2024/12/13/now-we-are-all-forked/)
 * [2024-12-15, 07:55:46](https://lobste.rs/s/3fdvac/ubuntu_24_10_review_oracular_not) - [Ubuntu 24.10 review - Oracular but not spectacular](https://www.dedoimedo.com/computers/ubuntu-24-10-review.html)
 * [2024-12-15, 05:50:29](https://lobste.rs/s/zbewy5/load_is_not_what_you_should_balance) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
@@ -23,7 +24,6 @@
 * [2024-12-13, 17:33:29](https://lobste.rs/s/i1xzas/helix_why_how_i_use_it) - [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
 * [2024-12-13, 16:11:59](https://lobste.rs/s/cfzk02/auth_bypass_go_ssh_package) - [Auth bypass in Go SSH package](https://platform.sh/blog/uncovered-and-patched-golang-vunerability/)
 * [2024-12-13, 14:34:39](https://lobste.rs/s/xhcdg3/majjit_lsp) - [Majjit LSP](https://matklad.github.io/2024/12/13/majjit-lsp.html)
-* [2024-12-13, 13:53:04](https://lobste.rs/s/mrnro3/less_talk_more_code) - [Less talk, more code](https://mihaiolteanu.me/interactive-dev)
 * [2024-12-13, 10:32:06](https://lobste.rs/s/rupea8/3_shell_scripts_improve_your_writing_my_ph) - [3 shell scripts to improve your writing, or \"My Ph.D. advisor rewrote himself in bash.\"](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 
 ## [Archives](archives/index.md)
