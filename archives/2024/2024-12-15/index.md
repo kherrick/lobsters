@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-15](index.md)
 
+* [2024-12-15, 18:26:11](https://lobste.rs/s/7q6uug/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2024](https://www.haiku-os.org/blog/waddlesplash/2024-12-10-haiku_activity_contract_report_november_2024)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 * [2024-12-15, 14:33:53](https://lobste.rs/s/g8mleu/reducing_wasm_binary_size_lessons_from) - [Reducing WASM binary size: lessons from building a web terminal](https://www.warp.dev/blog/reducing-wasm-binary-size)
 * [2024-12-15, 14:29:31](https://lobste.rs/s/uegqpd/xfce_4_20_released) - [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)

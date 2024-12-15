@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-15, 18:26:11](https://lobste.rs/s/7q6uug/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2024](https://www.haiku-os.org/blog/waddlesplash/2024-12-10-haiku_activity_contract_report_november_2024)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 * [2024-12-15, 14:33:53](https://lobste.rs/s/g8mleu/reducing_wasm_binary_size_lessons_from) - [Reducing WASM binary size: lessons from building a web terminal](https://www.warp.dev/blog/reducing-wasm-binary-size)
 * [2024-12-15, 14:29:31](https://lobste.rs/s/uegqpd/xfce_4_20_released) - [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
@@ -24,7 +25,6 @@
 * [2024-12-14, 07:07:58](https://lobste.rs/s/zeasdd/security_review_for_mullvad_vpn) - [Security Review for Mullvad VPN](https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf)
 * [2024-12-13, 17:33:29](https://lobste.rs/s/i1xzas/helix_why_how_i_use_it) - [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
 * [2024-12-13, 14:34:39](https://lobste.rs/s/xhcdg3/majjit_lsp) - [Majjit LSP](https://matklad.github.io/2024/12/13/majjit-lsp.html)
-* [2024-12-13, 10:32:06](https://lobste.rs/s/rupea8/3_shell_scripts_improve_your_writing_my_ph) - [3 shell scripts to improve your writing, or \"My Ph.D. advisor rewrote himself in bash.\"](https://matt.might.net/articles/shell-scripts-for-passive-voice-weasel-words-duplicates/)
 
 ## [Archives](archives/index.md)
 
