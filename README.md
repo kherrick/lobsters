@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-15, 20:40:54](https://lobste.rs/s/h0pry6/i_tried_creating_native_app_typescript) - [I Tried Creating a Native App in TypeScript](https://vexcess.github.io/blog/creating-a-native-app-in-typescript)
+* [2024-12-15, 20:39:11](https://lobste.rs/s/jhsqsl/hacking_discord_app_for_5000_bounty) - [Hacking the Discord app for $5000 Bounty](https://www.youtube.com/watch?v=R3SE4VKj678)
 * [2024-12-15, 18:26:11](https://lobste.rs/s/7q6uug/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2024](https://www.haiku-os.org/blog/waddlesplash/2024-12-10-haiku_activity_contract_report_november_2024)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 * [2024-12-15, 14:33:53](https://lobste.rs/s/g8mleu/reducing_wasm_binary_size_lessons_from) - [Reducing WASM binary size: lessons from building a web terminal](https://www.warp.dev/blog/reducing-wasm-binary-size)
@@ -18,13 +20,11 @@
 * [2024-12-14, 22:09:38](https://lobste.rs/s/e7m3nc/mutation_xss_explained_cve_challenge) - [Mutation XSS: Explained, CVE and Challenge](https://jorianwoltjer.com/blog/p/hacking/mutation-xss)
 * [2024-12-14, 18:47:00](https://lobste.rs/s/yvtrdr/far_from_random_three_mistakes_from_dart) - [Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-14, 17:55:18](https://lobste.rs/s/ecrx3v/swift_language_focus_areas_heading_into) - [Swift Language focus areas heading into 2025](https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611)
-* [2024-12-14, 16:42:33](https://lobste.rs/s/gn32gj/0x01_killing_windows_kernel_mitigations) - [0x01 - Killing Windows Kernel Mitigations](https://wetw0rk.github.io/posts/0x01-killing-windows-kernel-mitigations/)
 * [2024-12-14, 16:21:37](https://lobste.rs/s/bwovro/search_faster_sqlite) - [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
 * [2024-12-14, 13:26:15](https://lobste.rs/s/jsxeu2/deep_dive_into_modern_windows_structured) - [A deep dive into modern Windows Structured Exception Handler (SEH)](https://blog.elmo.sg/posts/structured-exception-handler-x64/)
 * [2024-12-14, 09:51:19](https://lobste.rs/s/wc4yz5/luon_high_level_programming_language) - [Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-14, 07:07:58](https://lobste.rs/s/zeasdd/security_review_for_mullvad_vpn) - [Security Review for Mullvad VPN](https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf)
 * [2024-12-13, 17:33:29](https://lobste.rs/s/i1xzas/helix_why_how_i_use_it) - [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
-* [2024-12-13, 14:34:39](https://lobste.rs/s/xhcdg3/majjit_lsp) - [Majjit LSP](https://matklad.github.io/2024/12/13/majjit-lsp.html)
 
 ## [Archives](archives/index.md)
 
