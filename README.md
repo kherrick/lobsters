@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 22:26:04](https://lobste.rs/s/pzmkmt/golang_1_24_is_looking_seriously_awesome) - [Golang 1.24 is looking seriously awesome](https://devcenter.upsun.com/posts/go-124/)
 * [2024-12-16, 21:01:32](https://lobste.rs/s/pi5inx/tools_for_go_modules) - [Tools for Go modules](https://cirw.in/blog/go-tools)
 * [2024-12-16, 20:49:41](https://lobste.rs/s/vnuk9u/20_years_linux_on_desktop_part_2) - [20 years of Linux on the Desktop (part 2)](https://ploum.net/2024-12-16-linux_desktop2.html)
 * [2024-12-16, 20:46:52](https://lobste.rs/s/tptvbx/contributing_mdoc_reader_pandoc) - [Contributing an mdoc reader to Pandoc](https://duckrabbit.tech/articles/mdoc.html)
@@ -24,7 +25,6 @@
 * [2024-12-16, 05:56:55](https://lobste.rs/s/ed0aul/why_gcc_1_42_on_tektronix_4404_with_c) - [Why GCC 1.42 on the Tektronix 4404 — with a C compiler from 1979](https://medium.com/@adambillyard/why-gcc-1-42-on-the-tektronix-4404-with-a-c-compiler-from-1979-661899013ad6)
 * [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
-* [2024-12-15, 14:29:31](https://lobste.rs/s/uegqpd/xfce_4_20_released) - [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
 
 ## [Archives](archives/index.md)
 
