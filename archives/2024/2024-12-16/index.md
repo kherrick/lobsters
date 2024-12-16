@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
+* [2024-12-16, 19:59:38](https://lobste.rs/s/o5axy7/announcing_decision_drill) - [Announcing Decision Drill](https://entropicthoughts.com/announcing-decision-drill)
 * [2024-12-16, 19:51:51](https://lobste.rs/s/9mspof/what_s_new_ruby_3_4) - [What's new in Ruby 3.4](https://www.honeybadger.io/blog/ruby-3-4/)
 * [2024-12-16, 19:51:04](https://lobste.rs/s/k0kfmq/makefile_scheme) - [Makefile in Scheme](https://www.gnu.org/software/make/manual/html_node/Guile-Example.html)
 * [2024-12-16, 19:07:36](https://lobste.rs/s/uvp1bq/rust_november_project_goals_update) - [Rust November project goals update](https://blog.rust-lang.org/2025/12/16/project-goals-nov-update.html)
