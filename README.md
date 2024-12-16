@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 19:51:04](https://lobste.rs/s/k0kfmq/makefile_scheme) - [Makefile in Scheme](https://www.gnu.org/software/make/manual/html_node/Guile-Example.html)
 * [2024-12-16, 19:07:36](https://lobste.rs/s/uvp1bq/rust_november_project_goals_update) - [Rust November project goals update](https://blog.rust-lang.org/2025/12/16/project-goals-nov-update.html)
 * [2024-12-16, 18:30:22](https://lobste.rs/s/1cfjrv/advent_code_on_nintendo_ds) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 18:06:58](https://lobste.rs/s/xgnuk7/everyone_gets_bidirectional_bfs_wrong) - [Everyone gets bidirectional BFS wrong](https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/)
@@ -19,7 +20,6 @@
 * [2024-12-16, 07:42:30](https://lobste.rs/s/r09e3f/crash_recovery_256_bytes) - [Crash recovery in 256 bytes](https://cliffle.com/blog/exhubris-super/)
 * [2024-12-16, 05:56:55](https://lobste.rs/s/ed0aul/why_gcc_1_42_on_tektronix_4404_with_c) - [Why GCC 1.42 on the Tektronix 4404 — with a C compiler from 1979](https://medium.com/@adambillyard/why-gcc-1-42-on-the-tektronix-4404-with-a-c-compiler-from-1979-661899013ad6)
 * [2024-12-16, 05:13:29](https://lobste.rs/s/1ljceh/adelie_linux_1_0_beta6_released) - [Adélie Linux 1.0-BETA6 Released](https://blog.adelielinux.org/2024/12/15/adelie-linux-1-0-beta6-released/)
-* [2024-12-16, 02:16:02](https://lobste.rs/s/hsstpq/principles_educational_programming) - [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
 * [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 20:40:54](https://lobste.rs/s/h0pry6/i_tried_creating_native_app_typescript) - [I Tried Creating a Native App in TypeScript](https://vexcess.github.io/blog/creating-a-native-app-in-typescript)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
