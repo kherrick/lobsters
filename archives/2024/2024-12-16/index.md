@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
 * [2024-12-16, 10:24:05](https://lobste.rs/s/pyjhml/glasgow_haskell_compiler_9_12_1_release) - [Glasgow Haskell Compiler 9.12.1 Release notes](https://downloads.haskell.org/ghc/9.12.1/docs/users_guide/9.12.1-notes.html)
 * [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
 * [2024-12-16, 10:10:41](https://lobste.rs/s/a9hjb2/some_things_make_languages_easy_not_embed) - [Some things that make languages easy (or not) to embed in Unix shell scripts (2022)](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellScriptLanguageEmbedding)

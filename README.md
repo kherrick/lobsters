@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
 * [2024-12-16, 10:24:05](https://lobste.rs/s/pyjhml/glasgow_haskell_compiler_9_12_1_release) - [Glasgow Haskell Compiler 9.12.1 Release notes](https://downloads.haskell.org/ghc/9.12.1/docs/users_guide/9.12.1-notes.html)
 * [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
 * [2024-12-16, 10:10:41](https://lobste.rs/s/a9hjb2/some_things_make_languages_easy_not_embed) - [Some things that make languages easy (or not) to embed in Unix shell scripts (2022)](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellScriptLanguageEmbedding)
@@ -23,7 +24,6 @@
 * [2024-12-15, 07:55:46](https://lobste.rs/s/3fdvac/ubuntu_24_10_review_oracular_not) - [Ubuntu 24.10 review - Oracular but not spectacular](https://www.dedoimedo.com/computers/ubuntu-24-10-review.html)
 * [2024-12-15, 05:50:29](https://lobste.rs/s/zbewy5/load_is_not_what_you_should_balance) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 * [2024-12-15, 01:31:01](https://lobste.rs/s/rkceaf/should_programming_languages_be_safe) - [Should Programming Languages be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
-* [2024-12-14, 23:36:47](https://lobste.rs/s/6jfyko/solving_advent_code_at_compile_time_with) - [Solving Advent of Code at Compile Time with Rust Macros](https://doublefree.bearblog.dev/solving-advent-of-code-at-compile-time-with-rust-macros/)
 * [2024-12-14, 16:21:37](https://lobste.rs/s/bwovro/search_faster_sqlite) - [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
 
 ## [Archives](archives/index.md)
