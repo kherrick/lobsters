@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 05:13:29](https://lobste.rs/s/1ljceh/adelie_linux_1_0_beta6_released) - [Adélie Linux 1.0-BETA6 Released](https://blog.adelielinux.org/2024/12/15/adelie-linux-1-0-beta6-released/)
 * [2024-12-16, 02:16:02](https://lobste.rs/s/hsstpq/principles_educational_programming) - [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
 * [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 20:40:54](https://lobste.rs/s/h0pry6/i_tried_creating_native_app_typescript) - [I Tried Creating a Native App in TypeScript](https://vexcess.github.io/blog/creating-a-native-app-in-typescript)
@@ -23,7 +24,6 @@
 * [2024-12-14, 18:47:00](https://lobste.rs/s/yvtrdr/far_from_random_three_mistakes_from_dart) - [Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-14, 17:55:18](https://lobste.rs/s/ecrx3v/swift_language_focus_areas_heading_into) - [Swift Language focus areas heading into 2025](https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611)
 * [2024-12-14, 16:21:37](https://lobste.rs/s/bwovro/search_faster_sqlite) - [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
-* [2024-12-14, 09:51:19](https://lobste.rs/s/wc4yz5/luon_high_level_programming_language) - [Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM](https://github.com/rochus-keller/Luon/blob/master/Readme.md)
 * [2024-12-13, 17:33:29](https://lobste.rs/s/i1xzas/helix_why_how_i_use_it) - [Helix: Why (And How) I Use It](https://jonathan-frere.com/posts/helix/)
 
 ## [Archives](archives/index.md)
