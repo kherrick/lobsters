@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 19:07:36](https://lobste.rs/s/uvp1bq/rust_november_project_goals_update) - [Rust November project goals update](https://blog.rust-lang.org/2025/12/16/project-goals-nov-update.html)
 * [2024-12-16, 18:30:22](https://lobste.rs/s/1cfjrv/advent_code_on_nintendo_ds) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 18:06:58](https://lobste.rs/s/xgnuk7/everyone_gets_bidirectional_bfs_wrong) - [Everyone gets bidirectional BFS wrong](https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/)
 * [2024-12-16, 15:35:09](https://lobste.rs/s/clyk9b/using_guile_for_emacs) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
