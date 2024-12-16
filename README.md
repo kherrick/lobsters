@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 18:06:58](https://lobste.rs/s/xgnuk7/everyone_gets_bidirectional_bfs_wrong) - [Everyone gets bidirectional BFS wrong](https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/)
 * [2024-12-16, 15:35:09](https://lobste.rs/s/clyk9b/using_guile_for_emacs) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 15:33:57](https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 * [2024-12-16, 14:06:36](https://lobste.rs/s/3mkbzf/faultreport_theoretical_alternative) - [FaultReport: an Theoretical Alternative to Result](https://paul.blasuc.ci/posts/fault-report.html)
@@ -22,7 +23,6 @@
 * [2024-12-15, 18:26:11](https://lobste.rs/s/7q6uug/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2024](https://www.haiku-os.org/blog/waddlesplash/2024-12-10-haiku_activity_contract_report_november_2024)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 * [2024-12-15, 14:29:31](https://lobste.rs/s/uegqpd/xfce_4_20_released) - [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
-* [2024-12-15, 13:29:59](https://lobste.rs/s/zf7vxg/death_developer_relations) - [The Death of Developer Relations](https://leebriggs.co.uk/blog/2024/12/10/the-death-of-devrel)
 * [2024-12-15, 13:04:11](https://lobste.rs/s/xowhyk/caddy_ninja_setup_https_enabled_web) - [Caddy Ninja - Setup an HTTPS-enabled web server with Caddy on Alpine Linux](https://caddy.ninja/)
 * [2024-12-15, 05:50:29](https://lobste.rs/s/zbewy5/load_is_not_what_you_should_balance) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 
