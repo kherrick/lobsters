@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 12:54:00](https://lobste.rs/s/7yusru/depth_ruby_concurrency_navigating_ruby) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-16, 12:17:30](https://lobste.rs/s/v74ghz/usb_floppy_disk_drive_raid_2003) - [USB Floppy Disk Drive RAID (2003)](https://web.archive.org/web/20030601111810/https://ohlssonvox.8k.com/fdd_raid.htm)
 * [2024-12-16, 11:59:08](https://lobste.rs/s/cnug98/qualcomm_dsp_driver_unexpectedly) - [The Qualcomm DSP Driver - Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
 * [2024-12-16, 11:45:26](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2024-12-15, 14:28:02](https://lobste.rs/s/37c7tq/home_assistant_can_not_be_secured_for) - [Home Assistant can not be secured for internet access](https://frederikbraun.de/home-assistant-can-not-be-secured-for-internet-access.html)
 * [2024-12-15, 13:29:59](https://lobste.rs/s/zf7vxg/death_developer_relations) - [The Death of Developer Relations](https://leebriggs.co.uk/blog/2024/12/10/the-death-of-devrel)
 * [2024-12-15, 13:04:11](https://lobste.rs/s/xowhyk/caddy_ninja_setup_https_enabled_web) - [Caddy Ninja - Setup an HTTPS-enabled web server with Caddy on Alpine Linux](https://caddy.ninja/)
-* [2024-12-15, 11:26:50](https://lobste.rs/s/6wwdoa/performance_rust_s_match_vs_lookup_tables) - [Performance of Rust's match vs. lookup tables (2019)](https://kevinlynagh.com/notes/match-vs-lookup/)
 * [2024-12-15, 05:50:29](https://lobste.rs/s/zbewy5/load_is_not_what_you_should_balance) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 * [2024-12-14, 16:21:37](https://lobste.rs/s/bwovro/search_faster_sqlite) - [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
 
