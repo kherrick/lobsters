@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 18:30:22](https://lobste.rs/s/1cfjrv/advent_code_on_nintendo_ds) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
 * [2024-12-16, 18:06:58](https://lobste.rs/s/xgnuk7/everyone_gets_bidirectional_bfs_wrong) - [Everyone gets bidirectional BFS wrong](https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/)
 * [2024-12-16, 15:35:09](https://lobste.rs/s/clyk9b/using_guile_for_emacs) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 15:33:57](https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
@@ -20,7 +21,6 @@
 * [2024-12-16, 02:16:02](https://lobste.rs/s/hsstpq/principles_educational_programming) - [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
 * [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 20:40:54](https://lobste.rs/s/h0pry6/i_tried_creating_native_app_typescript) - [I Tried Creating a Native App in TypeScript](https://vexcess.github.io/blog/creating-a-native-app-in-typescript)
-* [2024-12-15, 18:26:11](https://lobste.rs/s/7q6uug/haiku_activity_contract_report_november) - [Haiku Activity & Contract Report, November 2024](https://www.haiku-os.org/blog/waddlesplash/2024-12-10-haiku_activity_contract_report_november_2024)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 * [2024-12-15, 14:29:31](https://lobste.rs/s/uegqpd/xfce_4_20_released) - [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
 * [2024-12-15, 13:04:11](https://lobste.rs/s/xowhyk/caddy_ninja_setup_https_enabled_web) - [Caddy Ninja - Setup an HTTPS-enabled web server with Caddy on Alpine Linux](https://caddy.ninja/)
