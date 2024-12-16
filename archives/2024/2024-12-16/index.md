@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
 * [2024-12-16, 21:07:45](https://lobste.rs/s/axsi2a/sequoia_pgp_sapling_matures_meet_sq_1_0) - [Sequoia PGP: A Sapling Matures: Meet sq 1.0](https://sequoia-pgp.org/blog/2024/12/16/202412-sq-1.0/)
+* [2024-12-16, 21:01:32](https://lobste.rs/s/pi5inx/tools_for_go_modules) - [Tools for Go modules](https://cirw.in/blog/go-tools)
 * [2024-12-16, 20:49:41](https://lobste.rs/s/vnuk9u/20_years_linux_on_desktop_part_2) - [20 years of Linux on the Desktop (part 2)](https://ploum.net/2024-12-16-linux_desktop2.html)
 * [2024-12-16, 20:46:52](https://lobste.rs/s/tptvbx/contributing_mdoc_reader_pandoc) - [Contributing an mdoc reader to Pandoc](https://duckrabbit.tech/articles/mdoc.html)
 * [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
