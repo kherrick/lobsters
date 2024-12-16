@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 14:06:36](https://lobste.rs/s/3mkbzf/faultreport_theoretical_alternative) - [FaultReport: an Theoretical Alternative to Result](https://paul.blasuc.ci/posts/fault-report.html)
 * [2024-12-16, 12:54:00](https://lobste.rs/s/7yusru/depth_ruby_concurrency_navigating_ruby) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-16, 12:17:30](https://lobste.rs/s/v74ghz/usb_floppy_disk_drive_raid_2003) - [USB Floppy Disk Drive RAID (2003)](https://web.archive.org/web/20030601111810/https://ohlssonvox.8k.com/fdd_raid.htm)
 * [2024-12-16, 11:59:08](https://lobste.rs/s/cnug98/qualcomm_dsp_driver_unexpectedly) - [The Qualcomm DSP Driver - Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
