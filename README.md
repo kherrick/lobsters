@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 07:42:30](https://lobste.rs/s/r09e3f/crash_recovery_256_bytes) - [Crash recovery in 256 bytes](https://cliffle.com/blog/exhubris-super/)
 * [2024-12-16, 05:56:55](https://lobste.rs/s/ed0aul/why_gcc_1_42_on_tektronix_4404_with_c) - [Why GCC 1.42 on the Tektronix 4404 — with a C compiler from 1979](https://medium.com/@adambillyard/why-gcc-1-42-on-the-tektronix-4404-with-a-c-compiler-from-1979-661899013ad6)
 * [2024-12-16, 05:13:29](https://lobste.rs/s/1ljceh/adelie_linux_1_0_beta6_released) - [Adélie Linux 1.0-BETA6 Released](https://blog.adelielinux.org/2024/12/15/adelie-linux-1-0-beta6-released/)
 * [2024-12-16, 02:16:02](https://lobste.rs/s/hsstpq/principles_educational_programming) - [Principles of Educational Programming Language Design](https://infedu.vu.lt/journal/INFEDU/article/797/info)
@@ -21,7 +22,6 @@
 * [2024-12-14, 23:40:09](https://lobste.rs/s/zdbite/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-14, 23:36:47](https://lobste.rs/s/6jfyko/solving_advent_code_at_compile_time_with) - [Solving Advent of Code at Compile Time with Rust Macros](https://doublefree.bearblog.dev/solving-advent-of-code-at-compile-time-with-rust-macros/)
 * [2024-12-14, 23:34:50](https://lobste.rs/s/jo8ai0/energy_harvesting_electronic_holiday) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
-* [2024-12-14, 22:09:38](https://lobste.rs/s/e7m3nc/mutation_xss_explained_cve_challenge) - [Mutation XSS: Explained, CVE and Challenge](https://jorianwoltjer.com/blog/p/hacking/mutation-xss)
 * [2024-12-14, 18:47:00](https://lobste.rs/s/yvtrdr/far_from_random_three_mistakes_from_dart) - [Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-14, 17:55:18](https://lobste.rs/s/ecrx3v/swift_language_focus_areas_heading_into) - [Swift Language focus areas heading into 2025](https://forums.swift.org/t/swift-language-focus-areas-heading-into-2025/76611)
 * [2024-12-14, 16:21:37](https://lobste.rs/s/bwovro/search_faster_sqlite) - [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
