@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 20:46:52](https://lobste.rs/s/tptvbx/contributing_mdoc_reader_pandoc) - [Contributing an mdoc reader to Pandoc](https://duckrabbit.tech/articles/mdoc.html)
 * [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 19:59:38](https://lobste.rs/s/o5axy7/announcing_decision_drill) - [Announcing Decision Drill](https://entropicthoughts.com/announcing-decision-drill)
 * [2024-12-16, 19:51:51](https://lobste.rs/s/9mspof/what_s_new_ruby_3_4) - [What's new in Ruby 3.4](https://www.honeybadger.io/blog/ruby-3-4/)
@@ -22,7 +23,6 @@
 * [2024-12-16, 05:56:55](https://lobste.rs/s/ed0aul/why_gcc_1_42_on_tektronix_4404_with_c) - [Why GCC 1.42 on the Tektronix 4404 — with a C compiler from 1979](https://medium.com/@adambillyard/why-gcc-1-42-on-the-tektronix-4404-with-a-c-compiler-from-1979-661899013ad6)
 * [2024-12-16, 05:13:29](https://lobste.rs/s/1ljceh/adelie_linux_1_0_beta6_released) - [Adélie Linux 1.0-BETA6 Released](https://blog.adelielinux.org/2024/12/15/adelie-linux-1-0-beta6-released/)
 * [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
-* [2024-12-15, 20:40:54](https://lobste.rs/s/h0pry6/i_tried_creating_native_app_typescript) - [I Tried Creating a Native App in TypeScript](https://vexcess.github.io/blog/creating-a-native-app-in-typescript)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 * [2024-12-15, 14:29:31](https://lobste.rs/s/uegqpd/xfce_4_20_released) - [Xfce 4.20 released](https://alexxcons.github.io/blogpost_14.html)
 

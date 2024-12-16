@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 20:46:52](https://lobste.rs/s/tptvbx/contributing_mdoc_reader_pandoc) - [Contributing an mdoc reader to Pandoc](https://duckrabbit.tech/articles/mdoc.html)
 * [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 19:59:38](https://lobste.rs/s/o5axy7/announcing_decision_drill) - [Announcing Decision Drill](https://entropicthoughts.com/announcing-decision-drill)
 * [2024-12-16, 19:51:51](https://lobste.rs/s/9mspof/what_s_new_ruby_3_4) - [What's new in Ruby 3.4](https://www.honeybadger.io/blog/ruby-3-4/)
