@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 12:17:30](https://lobste.rs/s/v74ghz/usb_floppy_disk_drive_raid_2003) - [USB Floppy Disk Drive RAID (2003)](https://web.archive.org/web/20030601111810/https://ohlssonvox.8k.com/fdd_raid.htm)
+* [2024-12-16, 11:59:08](https://lobste.rs/s/cnug98/qualcomm_dsp_driver_unexpectedly) - [The Qualcomm DSP Driver - Unexpectedly Excavating an Exploit](https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html)
 * [2024-12-16, 11:45:26](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week)
 * [2024-12-16, 11:29:21](https://lobste.rs/s/zfby9t/making_unsafe_rust_little_safer_tools_for) - [Making Unsafe Rust a Little Safer: Tools for Verifying Unsafe Code, Including Libraries in C and C++](https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-tools-for-verifying-unsafe-code)
 * [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
