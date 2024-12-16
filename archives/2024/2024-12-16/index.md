@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 15:35:09](https://lobste.rs/s/clyk9b/using_guile_for_emacs) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
+* [2024-12-16, 15:33:57](https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 * [2024-12-16, 14:06:36](https://lobste.rs/s/3mkbzf/faultreport_theoretical_alternative) - [FaultReport: an Theoretical Alternative to Result](https://paul.blasuc.ci/posts/fault-report.html)
 * [2024-12-16, 12:54:00](https://lobste.rs/s/7yusru/depth_ruby_concurrency_navigating_ruby) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-16, 12:17:30](https://lobste.rs/s/v74ghz/usb_floppy_disk_drive_raid_2003) - [USB Floppy Disk Drive RAID (2003)](https://web.archive.org/web/20030601111810/https://ohlssonvox.8k.com/fdd_raid.htm)
