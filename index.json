@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-16, 21:07:45",
-      "https://lobste.rs/s/axsi2a/sequoia_pgp_sapling_matures_meet_sq_1_0"
+      "2024-12-16, 21:01:32",
+      "https://lobste.rs/s/pi5inx/tools_for_go_modules"
     ],
     [
-      "Sequoia PGP: A Sapling Matures: Meet sq 1.0",
-      "https://sequoia-pgp.org/blog/2024/12/16/202412-sq-1.0/"
+      "Tools for Go modules",
+      "https://cirw.in/blog/go-tools"
     ]
   ],
   [
@@ -131,22 +131,22 @@
   ],
   [
     [
-      "2024-12-16, 11:59:08",
-      "https://lobste.rs/s/cnug98/qualcomm_dsp_driver_unexpectedly"
-    ],
-    [
-      "The Qualcomm DSP Driver - Unexpectedly Excavating an Exploit",
-      "https://googleprojectzero.blogspot.com/2024/12/qualcomm-dsp-driver-unexpectedly-excavating-exploit.html"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 11:45:26",
       "https://lobste.rs/s/mjvefu/what_are_you_doing_this_week"
     ],
     [
       "What are you doing this week?",
       "https://lobste.rs/s/mjvefu/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
+      "2024-12-16, 11:29:21",
+      "https://lobste.rs/s/zfby9t/making_unsafe_rust_little_safer_tools_for"
+    ],
+    [
+      "Making Unsafe Rust a Little Safer: Tools for Verifying Unsafe Code, Including Libraries in C and C++",
+      "https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-tools-for-verifying-unsafe-code"
     ]
   ],
   [
