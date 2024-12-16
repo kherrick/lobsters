@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-16, 02:16:02",
+      "https://lobste.rs/s/hsstpq/principles_educational_programming"
+    ],
+    [
+      "Principles of Educational Programming Language Design",
+      "https://infedu.vu.lt/journal/INFEDU/article/797/info"
+    ]
+  ],
+  [
+    [
       "2024-12-15, 23:04:58",
       "https://lobste.rs/s/zrgps1/25_years_dillo"
     ],
@@ -227,16 +237,6 @@
     [
       "Luon high-level programming language similar to Oberon+, integrating concepts from Lua, and targeting the LuaJIT VM",
       "https://github.com/rochus-keller/Luon/blob/master/Readme.md"
-    ]
-  ],
-  [
-    [
-      "2024-12-14, 07:07:58",
-      "https://lobste.rs/s/zeasdd/security_review_for_mullvad_vpn"
-    ],
-    [
-      "Security Review for Mullvad VPN",
-      "https://x41-dsec.de/static/reports/X41-Mullvad-Audit-Public-Report-2024-12-10.pdf"
     ]
   ],
   [
