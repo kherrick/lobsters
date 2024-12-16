@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-16, 10:24:05](https://lobste.rs/s/pyjhml/glasgow_haskell_compiler_9_12_1_release) - [Glasgow Haskell Compiler 9.12.1 Release notes](https://downloads.haskell.org/ghc/9.12.1/docs/users_guide/9.12.1-notes.html)
+* [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
+* [2024-12-16, 10:10:41](https://lobste.rs/s/a9hjb2/some_things_make_languages_easy_not_embed) - [Some things that make languages easy (or not) to embed in Unix shell scripts (2022)](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellScriptLanguageEmbedding)
 * [2024-12-16, 09:56:33](https://lobste.rs/s/9isrcp/atmosphere_is_work_progress_customized) - [Atmosphère is a work-in-progress customized firmware for the Nintendo Switch](https://github.com/Atmosphere-NX/Atmosphere)
 * [2024-12-16, 07:42:30](https://lobste.rs/s/r09e3f/crash_recovery_256_bytes) - [Crash recovery in 256 bytes](https://cliffle.com/blog/exhubris-super/)
 * [2024-12-16, 05:56:55](https://lobste.rs/s/ed0aul/why_gcc_1_42_on_tektronix_4404_with_c) - [Why GCC 1.42 on the Tektronix 4404 — with a C compiler from 1979](https://medium.com/@adambillyard/why-gcc-1-42-on-the-tektronix-4404-with-a-c-compiler-from-1979-661899013ad6)
@@ -20,10 +23,7 @@
 * [2024-12-15, 07:55:46](https://lobste.rs/s/3fdvac/ubuntu_24_10_review_oracular_not) - [Ubuntu 24.10 review - Oracular but not spectacular](https://www.dedoimedo.com/computers/ubuntu-24-10-review.html)
 * [2024-12-15, 05:50:29](https://lobste.rs/s/zbewy5/load_is_not_what_you_should_balance) - [Load is not what you should balance: Introducing Prequal](https://www.usenix.org/conference/nsdi24/presentation/wydrowski)
 * [2024-12-15, 01:31:01](https://lobste.rs/s/rkceaf/should_programming_languages_be_safe) - [Should Programming Languages be Safe or Powerful?](https://lambdaland.org/posts/2024-11-21_powerful_or_safe_languages/)
-* [2024-12-14, 23:40:09](https://lobste.rs/s/zdbite/fully_documented_annotated_source_code) - [Fully documented and annotated source code for Elite on the Commodore 64](https://github.com/markmoxon/elite-source-code-commodore-64)
 * [2024-12-14, 23:36:47](https://lobste.rs/s/6jfyko/solving_advent_code_at_compile_time_with) - [Solving Advent of Code at Compile Time with Rust Macros](https://doublefree.bearblog.dev/solving-advent-of-code-at-compile-time-with-rust-macros/)
-* [2024-12-14, 23:34:50](https://lobste.rs/s/jo8ai0/energy_harvesting_electronic_holiday) - [Energy-Harvesting Electronic Holiday Card 2024](https://www.keacher.com/xmas24/)
-* [2024-12-14, 18:47:00](https://lobste.rs/s/yvtrdr/far_from_random_three_mistakes_from_dart) - [Far From Random: Three Mistakes From Dart/Flutter's Weak PRNG](https://www.zellic.io/blog/proton-dart-flutter-csprng-prng/)
 * [2024-12-14, 16:21:37](https://lobste.rs/s/bwovro/search_faster_sqlite) - [In search of a faster SQLite](https://avi.im/blag/2024/faster-sqlite)
 
 ## [Archives](archives/index.md)
