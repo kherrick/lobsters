@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-16](index.md)
 
+* [2024-12-16, 20:49:41](https://lobste.rs/s/vnuk9u/20_years_linux_on_desktop_part_2) - [20 years of Linux on the Desktop (part 2)](https://ploum.net/2024-12-16-linux_desktop2.html)
 * [2024-12-16, 20:46:52](https://lobste.rs/s/tptvbx/contributing_mdoc_reader_pandoc) - [Contributing an mdoc reader to Pandoc](https://duckrabbit.tech/articles/mdoc.html)
 * [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 19:59:38](https://lobste.rs/s/o5axy7/announcing_decision_drill) - [Announcing Decision Drill](https://entropicthoughts.com/announcing-decision-drill)
