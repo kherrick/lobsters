@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-17, 09:30:45",
+      "https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust"
+    ],
+    [
+      "Ablet: An EASY way to create TUIs in Rust",
+      "https://github.com/KnorrFG/Ablet"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 07:47:42",
       "https://lobste.rs/s/n3be1g/carbon_copy_newsletter_no_5"
     ],
@@ -237,16 +247,6 @@
     [
       "25 years of Dillo",
       "https://dillo-browser.github.io/25-years/"
-    ]
-  ],
-  [
-    [
-      "2024-12-15, 17:29:00",
-      "https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual"
-    ],
-    [
-      "Conway's Game of Life implemented by a manual page",
-      "https://codeberg.org/cve/mott"
     ]
   ]
 ]
