@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-17, 03:02:31](https://lobste.rs/s/yy1blg/testing_some_tidbits) - [Testing some tidbits](https://nedbatchelder.com/blog/202412/testing_some_tidbits.html)
 * [2024-12-16, 22:26:04](https://lobste.rs/s/pzmkmt/golang_1_24_is_looking_seriously_awesome) - [Golang 1.24 is looking seriously awesome](https://devcenter.upsun.com/posts/go-124/)
 * [2024-12-16, 21:01:32](https://lobste.rs/s/pi5inx/tools_for_go_modules) - [Tools for Go modules](https://cirw.in/blog/go-tools)
 * [2024-12-16, 20:49:41](https://lobste.rs/s/vnuk9u/20_years_linux_on_desktop_part_2) - [20 years of Linux on the Desktop (part 2)](https://ploum.net/2024-12-16-linux_desktop2.html)
@@ -15,7 +16,6 @@
 * [2024-12-16, 12:54:00](https://lobste.rs/s/7yusru/depth_ruby_concurrency_navigating_ruby) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
 * [2024-12-16, 12:17:30](https://lobste.rs/s/v74ghz/usb_floppy_disk_drive_raid_2003) - [USB Floppy Disk Drive RAID (2003)](https://web.archive.org/web/20030601111810/https://ohlssonvox.8k.com/fdd_raid.htm)
 * [2024-12-16, 11:45:26](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week)
-* [2024-12-16, 11:29:21](https://lobste.rs/s/zfby9t/making_unsafe_rust_little_safer_tools_for) - [Making Unsafe Rust a Little Safer: Tools for Verifying Unsafe Code, Including Libraries in C and C++](https://blog.colinbreck.com/making-unsafe-rust-a-little-safer-tools-for-verifying-unsafe-code)
 * [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
 * [2024-12-16, 10:24:05](https://lobste.rs/s/pyjhml/glasgow_haskell_compiler_9_12_1_release) - [Glasgow Haskell Compiler 9.12.1 Release notes](https://downloads.haskell.org/ghc/9.12.1/docs/users_guide/9.12.1-notes.html)
 * [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
