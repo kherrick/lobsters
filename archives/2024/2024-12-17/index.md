@@ -8,6 +8,7 @@
 * [2024-12-17, 15:18:33](https://lobste.rs/s/isx2ju/go_s_weird_little_iterators) - [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
 * [2024-12-17, 15:13:43](https://lobste.rs/s/cyc8qx/interactive_diagrams_for_complex) - [Interactive diagrams for complex systems](https://medium.com/@ivan.ishubin/interactive-diagrams-for-complex-systems-b24f739d34f5)
 * [2024-12-17, 13:31:58](https://lobste.rs/s/3s7yv3/pizarra) - [Pizarra](https://pizarra.categulario.xyz/en/)
+* [2024-12-17, 13:15:50](https://lobste.rs/s/csedoi/making_webassembly_wasmtime_more) - [Making WebAssembly and Wasmtime More Portable](https://bytecodealliance.org/articles/wasmtime-portability)
 * [2024-12-17, 13:13:27](https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed) - [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 * [2024-12-17, 12:02:39](https://lobste.rs/s/ig5txc/gpu_rendered_svelte_components) - [GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-17, 11:32:44](https://lobste.rs/s/vo5nh1/announcing_systemd_v257) - [Announcing systemd v257](https://0pointer.net/blog/announcing-systemd-v257.html)
