@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-17, 06:50:33",
+      "https://lobste.rs/s/nqcwhh/rust_crate_feature_debugging"
+    ],
+    [
+      "Rust crate feature debugging",
+      "https://rustunit.com/blog/2024/12-16-rust-feature-debugging/"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 06:45:47",
+      "https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects"
+    ],
+    [
+      "Why Should a Unix Shell Have Objects?",
+      "https://www.oilshell.org/blog/2024/12/objects.html"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 05:28:11",
       "https://lobste.rs/s/nnuufh/let_s_encrypt_will_begin_offering_6_day"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-12-16, 12:17:30",
-      "https://lobste.rs/s/v74ghz/usb_floppy_disk_drive_raid_2003"
-    ],
-    [
-      "USB Floppy Disk Drive RAID (2003)",
-      "https://web.archive.org/web/20030601111810/https://ohlssonvox.8k.com/fdd_raid.htm"
-    ]
-  ],
-  [
-    [
       "2024-12-16, 11:45:26",
       "https://lobste.rs/s/mjvefu/what_are_you_doing_this_week"
     ],
@@ -187,16 +197,6 @@
     [
       "Re: Re: Bluesky and Decentralization",
       "https://dustycloud.org/blog/re-re-bluesky-decentralization/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 10:24:05",
-      "https://lobste.rs/s/pyjhml/glasgow_haskell_compiler_9_12_1_release"
-    ],
-    [
-      "Glasgow Haskell Compiler 9.12.1 Release notes",
-      "https://downloads.haskell.org/ghc/9.12.1/docs/users_guide/9.12.1-notes.html"
     ]
   ],
   [
