@@ -1,6 +1,46 @@
 [
   [
     [
+      "2024-12-17, 15:24:51",
+      "https://lobste.rs/s/5d9ttm/effectful_build_fast_reliable_haskell"
+    ],
+    [
+      "Effectful - Build Fast & Reliable Haskell Applications",
+      "https://haskell-effectful.github.io/"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 15:18:33",
+      "https://lobste.rs/s/isx2ju/go_s_weird_little_iterators"
+    ],
+    [
+      "Go's Weird Little Iterators",
+      "https://mcyoung.xyz/2024/12/16/rangefuncs/"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 15:13:43",
+      "https://lobste.rs/s/cyc8qx/interactive_diagrams_for_complex"
+    ],
+    [
+      "Interactive diagrams for complex systems",
+      "https://medium.com/@ivan.ishubin/interactive-diagrams-for-complex-systems-b24f739d34f5"
+    ]
+  ],
+  [
+    [
+      "2024-12-17, 13:31:58",
+      "https://lobste.rs/s/3s7yv3/pizarra"
+    ],
+    [
+      "Pizarra",
+      "https://pizarra.categulario.xyz/en/"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 13:13:27",
       "https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed"
     ],
@@ -41,16 +81,6 @@
   ],
   [
     [
-      "2024-12-17, 10:35:16",
-      "https://lobste.rs/s/icuux3/how_scala_is_made_how_you_can_help_by"
-    ],
-    [
-      "How Scala is made and how you can help? By  Krzysztof Romanowski",
-      "https://watch.softinio.com/w/tnFvpbzrK1LfqqkLW1YRm4"
-    ]
-  ],
-  [
-    [
       "2024-12-17, 09:30:45",
       "https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust"
     ],
@@ -67,16 +97,6 @@
     [
       "Carbon Copy Newsletter No.5",
       "https://github.com/carbon-language/carbon-lang/discussions/4694"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 06:50:33",
-      "https://lobste.rs/s/nqcwhh/rust_crate_feature_debugging"
-    ],
-    [
-      "Rust crate feature debugging",
-      "https://rustunit.com/blog/2024/12-16-rust-feature-debugging/"
     ]
   ],
   [
@@ -107,16 +127,6 @@
     [
       "Reconstructing a music recommendation model",
       "https://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 03:02:31",
-      "https://lobste.rs/s/yy1blg/testing_some_tidbits"
-    ],
-    [
-      "Testing some tidbits",
-      "https://nedbatchelder.com/blog/202412/testing_some_tidbits.html"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "What's new in Ruby 3.4",
       "https://www.honeybadger.io/blog/ruby-3-4/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 19:07:36",
-      "https://lobste.rs/s/uvp1bq/rust_november_project_goals_update"
-    ],
-    [
-      "Rust November project goals update",
-      "https://blog.rust-lang.org/2025/12/16/project-goals-nov-update.html"
     ]
   ],
   [
