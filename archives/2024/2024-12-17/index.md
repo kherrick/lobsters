@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 11:10:23](https://lobste.rs/s/ffd4xt/lfgss_microcosm_shutting_down_16th_march) - [LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
+* [2024-12-17, 10:58:30](https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks) - [Utilizing highly synchronized clocks in distributed databases](https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html)
 * [2024-12-17, 10:52:17](https://lobste.rs/s/qnar1w/network_protocols_for_anyone_who_knows) - [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
 * [2024-12-17, 10:35:16](https://lobste.rs/s/icuux3/how_scala_is_made_how_you_can_help_by) - [How Scala is made and how you can help? By  Krzysztof Romanowski](https://watch.softinio.com/w/tnFvpbzrK1LfqqkLW1YRm4)
 * [2024-12-17, 09:30:45](https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust) - [Ablet: An EASY way to create TUIs in Rust](https://github.com/KnorrFG/Ablet)

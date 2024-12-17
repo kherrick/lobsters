@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-17, 10:52:17](https://lobste.rs/s/qnar1w/network_protocols_for_anyone_who_knows) - [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
+* [2024-12-17, 11:10:23](https://lobste.rs/s/ffd4xt/lfgss_microcosm_shutting_down_16th_march) - [LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
+* [2024-12-17, 10:58:30](https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks) - [Utilizing highly synchronized clocks in distributed databases](https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html)
 * [2024-12-17, 10:35:16](https://lobste.rs/s/icuux3/how_scala_is_made_how_you_can_help_by) - [How Scala is made and how you can help? By  Krzysztof Romanowski](https://watch.softinio.com/w/tnFvpbzrK1LfqqkLW1YRm4)
 * [2024-12-17, 09:30:45](https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust) - [Ablet: An EASY way to create TUIs in Rust](https://github.com/KnorrFG/Ablet)
 * [2024-12-17, 07:47:42](https://lobste.rs/s/n3be1g/carbon_copy_newsletter_no_5) - [Carbon Copy Newsletter No.5](https://github.com/carbon-language/carbon-lang/discussions/4694)
@@ -22,7 +23,6 @@
 * [2024-12-16, 18:06:58](https://lobste.rs/s/xgnuk7/everyone_gets_bidirectional_bfs_wrong) - [Everyone gets bidirectional BFS wrong](https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/)
 * [2024-12-16, 15:35:09](https://lobste.rs/s/clyk9b/using_guile_for_emacs) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 15:33:57](https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
-* [2024-12-16, 11:45:26](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week)
 * [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
 * [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
 
