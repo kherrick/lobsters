@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-17, 13:13:27",
+      "https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed"
+    ],
+    [
+      "CRUNCH - a compiler for statically typed Scheme with a minimal runtime",
+      "https://www.more-magic.net/posts/crunch.html"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 11:32:44",
       "https://lobste.rs/s/vo5nh1/announcing_systemd_v257"
     ],
@@ -157,16 +167,6 @@
     [
       "Go Protobuf: The new Opaque API - The Go Programming Language",
       "https://go.dev/blog/protobuf-opaque"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 19:59:38",
-      "https://lobste.rs/s/o5axy7/announcing_decision_drill"
-    ],
-    [
-      "Announcing Decision Drill",
-      "https://entropicthoughts.com/announcing-decision-drill"
     ]
   ],
   [
