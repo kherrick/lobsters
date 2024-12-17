@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-17, 15:54:44](https://lobste.rs/s/ql8nyw/django_security_hardenings_are_not) - [Django security hardenings that are not happening](https://blog.hartwork.org/posts/django-security-hardenings-that-are-not-happening/)
 * [2024-12-17, 15:24:51](https://lobste.rs/s/5d9ttm/effectful_build_fast_reliable_haskell) - [Effectful - Build Fast & Reliable Haskell Applications](https://haskell-effectful.github.io/)
 * [2024-12-17, 15:18:33](https://lobste.rs/s/isx2ju/go_s_weird_little_iterators) - [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
 * [2024-12-17, 15:13:43](https://lobste.rs/s/cyc8qx/interactive_diagrams_for_complex) - [Interactive diagrams for complex systems](https://medium.com/@ivan.ishubin/interactive-diagrams-for-complex-systems-b24f739d34f5)
@@ -24,7 +25,6 @@
 * [2024-12-16, 15:35:09](https://lobste.rs/s/clyk9b/using_guile_for_emacs) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 15:33:57](https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 * [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
-* [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
 
 ## [Archives](archives/index.md)
 
