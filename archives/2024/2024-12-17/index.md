@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 20:35:16](https://lobste.rs/s/hfplla/my_go_c_code_for_asynchronous_work) - [My go-to C++ code for asynchronous work processing on a separate thread](https://raymii.org/s/software/My_go-to_Cpp_code_for_asynchronous_work_processing_on_a_separate_thread.html)
 * [2024-12-17, 19:49:35](https://lobste.rs/s/iphk6x/murder_mystery_gcc_builds_failing_after) - [Murder Mystery: GCC Builds Failing After sbuild Refactoring in Debian](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-17, 19:16:55](https://lobste.rs/s/41d14o/tla_monthly_development_update_december) - [TLA+ Monthly Development Update - December 2024](https://foundation.tlapl.us/blog/2024-12-dev-update/index.html)
 * [2024-12-17, 18:48:27](https://lobste.rs/s/ikb6ta/moon) - [Moon](https://ciechanow.ski/moon/)
