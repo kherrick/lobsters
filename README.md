@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-17, 13:13:27](https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed) - [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 * [2024-12-17, 11:32:44](https://lobste.rs/s/vo5nh1/announcing_systemd_v257) - [Announcing systemd v257](https://0pointer.net/blog/announcing-systemd-v257.html)
 * [2024-12-17, 11:10:23](https://lobste.rs/s/ffd4xt/lfgss_microcosm_shutting_down_16th_march) - [LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-17, 10:58:30](https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks) - [Utilizing highly synchronized clocks in distributed databases](https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html)
@@ -16,7 +17,6 @@
 * [2024-12-16, 20:49:41](https://lobste.rs/s/vnuk9u/20_years_linux_on_desktop_part_2) - [20 years of Linux on the Desktop (part 2)](https://ploum.net/2024-12-16-linux_desktop2.html)
 * [2024-12-16, 20:46:52](https://lobste.rs/s/tptvbx/contributing_mdoc_reader_pandoc) - [Contributing an mdoc reader to Pandoc](https://duckrabbit.tech/articles/mdoc.html)
 * [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
-* [2024-12-16, 19:59:38](https://lobste.rs/s/o5axy7/announcing_decision_drill) - [Announcing Decision Drill](https://entropicthoughts.com/announcing-decision-drill)
 * [2024-12-16, 19:51:51](https://lobste.rs/s/9mspof/what_s_new_ruby_3_4) - [What's new in Ruby 3.4](https://www.honeybadger.io/blog/ruby-3-4/)
 * [2024-12-16, 19:07:36](https://lobste.rs/s/uvp1bq/rust_november_project_goals_update) - [Rust November project goals update](https://blog.rust-lang.org/2025/12/16/project-goals-nov-update.html)
 * [2024-12-16, 18:30:22](https://lobste.rs/s/1cfjrv/advent_code_on_nintendo_ds) - [Advent of Code on the Nintendo DS](https://sailor.li/aocnds.html)
