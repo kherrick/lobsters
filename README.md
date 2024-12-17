@@ -20,9 +20,9 @@
 * [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
 * [2024-12-16, 10:24:05](https://lobste.rs/s/pyjhml/glasgow_haskell_compiler_9_12_1_release) - [Glasgow Haskell Compiler 9.12.1 Release notes](https://downloads.haskell.org/ghc/9.12.1/docs/users_guide/9.12.1-notes.html)
 * [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
+* [2024-12-16, 10:10:41](https://lobste.rs/s/a9hjb2/some_things_make_languages_easy_not_embed) - [Some things that make languages easy (or not) to embed in Unix shell scripts (2022)](https://utcc.utoronto.ca/~cks/space/blog/unix/ShellScriptLanguageEmbedding)
 * [2024-12-16, 09:56:33](https://lobste.rs/s/9isrcp/atmosphere_is_work_progress_customized) - [Atmosphère is a work-in-progress customized firmware for the Nintendo Switch](https://github.com/Atmosphere-NX/Atmosphere)
 * [2024-12-16, 07:42:30](https://lobste.rs/s/r09e3f/crash_recovery_256_bytes) - [Crash recovery in 256 bytes](https://cliffle.com/blog/exhubris-super/)
-* [2024-12-16, 05:56:55](https://lobste.rs/s/ed0aul/why_gcc_1_42_on_tektronix_4404_with_c) - [Why GCC 1.42 on the Tektronix 4404 — with a C compiler from 1979](https://medium.com/@adambillyard/why-gcc-1-42-on-the-tektronix-4404-with-a-c-compiler-from-1979-661899013ad6)
 * [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
 * [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 
