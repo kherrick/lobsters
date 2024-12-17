@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-17, 06:50:33](https://lobste.rs/s/nqcwhh/rust_crate_feature_debugging) - [Rust crate feature debugging](https://rustunit.com/blog/2024/12-16-rust-feature-debugging/)
+* [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)
 * [2024-12-17, 05:28:11](https://lobste.rs/s/nnuufh/let_s_encrypt_will_begin_offering_6_day) - [Let's Encrypt will begin offering 6-day certificates](https://letsencrypt.org/2024/12/11/eoy-letter-2024/)
 * [2024-12-17, 05:01:07](https://lobste.rs/s/uazaax/reconstructing_music_recommendation) - [Reconstructing a music recommendation model](https://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html)
 * [2024-12-17, 01:48:16](https://lobste.rs/s/3omj2r/go_union_type_proposals_should_start_with) - [Go union type proposals should start with their objectives](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesStartWithGoals)
@@ -16,10 +18,8 @@
 * [2024-12-16, 15:35:09](https://lobste.rs/s/clyk9b/using_guile_for_emacs) - [Using Guile for Emacs](https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/)
 * [2024-12-16, 15:33:57](https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 * [2024-12-16, 12:54:00](https://lobste.rs/s/7yusru/depth_ruby_concurrency_navigating_ruby) - [In-Depth Ruby Concurrency: Navigating the Ruby Concurrency Landscape](https://jpcamara.com/2024/12/14/my-rubyconf-talk.html)
-* [2024-12-16, 12:17:30](https://lobste.rs/s/v74ghz/usb_floppy_disk_drive_raid_2003) - [USB Floppy Disk Drive RAID (2003)](https://web.archive.org/web/20030601111810/https://ohlssonvox.8k.com/fdd_raid.htm)
 * [2024-12-16, 11:45:26](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mjvefu/what_are_you_doing_this_week)
 * [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
-* [2024-12-16, 10:24:05](https://lobste.rs/s/pyjhml/glasgow_haskell_compiler_9_12_1_release) - [Glasgow Haskell Compiler 9.12.1 Release notes](https://downloads.haskell.org/ghc/9.12.1/docs/users_guide/9.12.1-notes.html)
 * [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
 * [2024-12-16, 09:56:33](https://lobste.rs/s/9isrcp/atmosphere_is_work_progress_customized) - [Atmosphère is a work-in-progress customized firmware for the Nintendo Switch](https://github.com/Atmosphere-NX/Atmosphere)
 * [2024-12-16, 07:42:30](https://lobste.rs/s/r09e3f/crash_recovery_256_bytes) - [Crash recovery in 256 bytes](https://cliffle.com/blog/exhubris-super/)
