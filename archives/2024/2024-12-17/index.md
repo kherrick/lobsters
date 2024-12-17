@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 09:30:45](https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust) - [Ablet: An EASY way to create TUIs in Rust](https://github.com/KnorrFG/Ablet)
 * [2024-12-17, 07:47:42](https://lobste.rs/s/n3be1g/carbon_copy_newsletter_no_5) - [Carbon Copy Newsletter No.5](https://github.com/carbon-language/carbon-lang/discussions/4694)
 * [2024-12-17, 06:50:33](https://lobste.rs/s/nqcwhh/rust_crate_feature_debugging) - [Rust crate feature debugging](https://rustunit.com/blog/2024/12-16-rust-feature-debugging/)
 * [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)

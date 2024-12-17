@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-17, 09:30:45](https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust) - [Ablet: An EASY way to create TUIs in Rust](https://github.com/KnorrFG/Ablet)
 * [2024-12-17, 07:47:42](https://lobste.rs/s/n3be1g/carbon_copy_newsletter_no_5) - [Carbon Copy Newsletter No.5](https://github.com/carbon-language/carbon-lang/discussions/4694)
 * [2024-12-17, 06:50:33](https://lobste.rs/s/nqcwhh/rust_crate_feature_debugging) - [Rust crate feature debugging](https://rustunit.com/blog/2024/12-16-rust-feature-debugging/)
 * [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)
@@ -24,7 +25,6 @@
 * [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
 * [2024-12-16, 09:56:33](https://lobste.rs/s/9isrcp/atmosphere_is_work_progress_customized) - [Atmosphère is a work-in-progress customized firmware for the Nintendo Switch](https://github.com/Atmosphere-NX/Atmosphere)
 * [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
-* [2024-12-15, 17:29:00](https://lobste.rs/s/aaqe4v/conway_s_game_life_implemented_by_manual) - [Conway's Game of Life implemented by a manual page](https://codeberg.org/cve/mott)
 
 ## [Archives](archives/index.md)
 
