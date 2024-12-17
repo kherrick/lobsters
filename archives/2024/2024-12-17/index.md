@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 19:49:35](https://lobste.rs/s/iphk6x/murder_mystery_gcc_builds_failing_after) - [Murder Mystery: GCC Builds Failing After sbuild Refactoring in Debian](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
 * [2024-12-17, 19:16:55](https://lobste.rs/s/41d14o/tla_monthly_development_update_december) - [TLA+ Monthly Development Update - December 2024](https://foundation.tlapl.us/blog/2024-12-dev-update/index.html)
 * [2024-12-17, 18:48:27](https://lobste.rs/s/ikb6ta/moon) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 15:54:44](https://lobste.rs/s/ql8nyw/django_security_hardenings_are_not) - [Django security hardenings that are not happening](https://blog.hartwork.org/posts/django-security-hardenings-that-are-not-happening/)
