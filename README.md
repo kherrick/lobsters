@@ -18,7 +18,7 @@
 * [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)
 * [2024-12-17, 05:28:11](https://lobste.rs/s/nnuufh/let_s_encrypt_will_begin_offering_6_day) - [Let's Encrypt will begin offering 6-day certificates](https://letsencrypt.org/2024/12/11/eoy-letter-2024/)
 * [2024-12-17, 05:01:07](https://lobste.rs/s/uazaax/reconstructing_music_recommendation) - [Reconstructing a music recommendation model](https://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html)
-* [2024-12-16, 20:46:52](https://lobste.rs/s/tptvbx/contributing_mdoc_reader_pandoc) - [Contributing an mdoc reader to Pandoc](https://duckrabbit.tech/articles/mdoc.html)
+* [2024-12-16, 20:49:41](https://lobste.rs/s/vnuk9u/20_years_linux_on_desktop_part_2) - [20 years of Linux on the Desktop (part 2)](https://ploum.net/2024-12-16-linux_desktop2.html)
 * [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 19:51:51](https://lobste.rs/s/9mspof/what_s_new_ruby_3_4) - [What's new in Ruby 3.4](https://www.honeybadger.io/blog/ruby-3-4/)
 * [2024-12-16, 18:06:58](https://lobste.rs/s/xgnuk7/everyone_gets_bidirectional_bfs_wrong) - [Everyone gets bidirectional BFS wrong](https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/)
