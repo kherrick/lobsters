@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-17, 10:35:16](https://lobste.rs/s/icuux3/how_scala_is_made_how_you_can_help_by) - [How Scala is made and how you can help? By  Krzysztof Romanowski](https://watch.softinio.com/w/tnFvpbzrK1LfqqkLW1YRm4)
 * [2024-12-17, 09:30:45](https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust) - [Ablet: An EASY way to create TUIs in Rust](https://github.com/KnorrFG/Ablet)
 * [2024-12-17, 07:47:42](https://lobste.rs/s/n3be1g/carbon_copy_newsletter_no_5) - [Carbon Copy Newsletter No.5](https://github.com/carbon-language/carbon-lang/discussions/4694)
 * [2024-12-17, 06:50:33](https://lobste.rs/s/nqcwhh/rust_crate_feature_debugging) - [Rust crate feature debugging](https://rustunit.com/blog/2024/12-16-rust-feature-debugging/)
@@ -24,7 +25,6 @@
 * [2024-12-16, 11:20:22](https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization) - [Re: Re: Bluesky and Decentralization](https://dustycloud.org/blog/re-re-bluesky-decentralization/)
 * [2024-12-16, 10:14:05](https://lobste.rs/s/ckbgw1/kubernetes_spec_explorer) - [Kubernetes Spec Explorer](https://kubespec.dev/)
 * [2024-12-16, 09:56:33](https://lobste.rs/s/9isrcp/atmosphere_is_work_progress_customized) - [Atmosphère is a work-in-progress customized firmware for the Nintendo Switch](https://github.com/Atmosphere-NX/Atmosphere)
-* [2024-12-15, 23:04:58](https://lobste.rs/s/zrgps1/25_years_dillo) - [25 years of Dillo](https://dillo-browser.github.io/25-years/)
 
 ## [Archives](archives/index.md)
 
