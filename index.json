@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2024-12-17, 02:57:09",
+      "https://lobste.rs/s/tarkio/axum_style_magic_handler_functions_go"
+    ],
+    [
+      "Axum-style Magic Handler Functions in Go",
+      "https://kubuzetto.github.io/posts/go-axum-handlers/"
+    ]
+  ],
+  [
+    [
       "2024-12-16, 22:26:04",
       "https://lobste.rs/s/pzmkmt/golang_1_24_is_looking_seriously_awesome"
     ],
@@ -187,16 +197,6 @@
     [
       "Kubernetes Spec Explorer",
       "https://kubespec.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 10:10:41",
-      "https://lobste.rs/s/a9hjb2/some_things_make_languages_easy_not_embed"
-    ],
-    [
-      "Some things that make languages easy (or not) to embed in Unix shell scripts (2022)",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/ShellScriptLanguageEmbedding"
     ]
   ],
   [
