@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 11:32:44](https://lobste.rs/s/vo5nh1/announcing_systemd_v257) - [Announcing systemd v257](https://0pointer.net/blog/announcing-systemd-v257.html)
 * [2024-12-17, 11:10:23](https://lobste.rs/s/ffd4xt/lfgss_microcosm_shutting_down_16th_march) - [LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-17, 10:58:30](https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks) - [Utilizing highly synchronized clocks in distributed databases](https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html)
 * [2024-12-17, 10:52:17](https://lobste.rs/s/qnar1w/network_protocols_for_anyone_who_knows) - [Network protocols for anyone who knows a programming language](https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147)
