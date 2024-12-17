@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-17, 10:52:17",
+      "https://lobste.rs/s/qnar1w/network_protocols_for_anyone_who_knows"
+    ],
+    [
+      "Network protocols for anyone who knows a programming language",
+      "https://www.destroyallsoftware.com/compendium/network-protocols?share_key=97d3ba4c24d21147"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 10:35:16",
       "https://lobste.rs/s/icuux3/how_scala_is_made_how_you_can_help_by"
     ],
@@ -237,16 +247,6 @@
     [
       "Kubernetes Spec Explorer",
       "https://kubespec.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 09:56:33",
-      "https://lobste.rs/s/9isrcp/atmosphere_is_work_progress_customized"
-    ],
-    [
-      "Atmosphère is a work-in-progress customized firmware for the Nintendo Switch",
-      "https://github.com/Atmosphere-NX/Atmosphere"
     ]
   ]
 ]
