@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-17, 12:02:39](https://lobste.rs/s/ig5txc/gpu_rendered_svelte_components) - [GPU-rendered Svelte components](https://github.com/sockmaster27/svader)
 * [2024-12-17, 11:32:44](https://lobste.rs/s/vo5nh1/announcing_systemd_v257) - [Announcing systemd v257](https://0pointer.net/blog/announcing-systemd-v257.html)
 * [2024-12-17, 11:10:23](https://lobste.rs/s/ffd4xt/lfgss_microcosm_shutting_down_16th_march) - [LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
+* [2024-12-17, 10:58:30](https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks) - [Utilizing highly synchronized clocks in distributed databases](https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html)
 * [2024-12-17, 10:35:16](https://lobste.rs/s/icuux3/how_scala_is_made_how_you_can_help_by) - [How Scala is made and how you can help? By  Krzysztof Romanowski](https://watch.softinio.com/w/tnFvpbzrK1LfqqkLW1YRm4)
 * [2024-12-17, 09:30:45](https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust) - [Ablet: An EASY way to create TUIs in Rust](https://github.com/KnorrFG/Ablet)
 * [2024-12-17, 07:47:42](https://lobste.rs/s/n3be1g/carbon_copy_newsletter_no_5) - [Carbon Copy Newsletter No.5](https://github.com/carbon-language/carbon-lang/discussions/4694)
@@ -10,7 +10,7 @@
 * [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)
 * [2024-12-17, 05:28:11](https://lobste.rs/s/nnuufh/let_s_encrypt_will_begin_offering_6_day) - [Let's Encrypt will begin offering 6-day certificates](https://letsencrypt.org/2024/12/11/eoy-letter-2024/)
 * [2024-12-17, 05:01:07](https://lobste.rs/s/uazaax/reconstructing_music_recommendation) - [Reconstructing a music recommendation model](https://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html)
-* [2024-12-17, 01:48:16](https://lobste.rs/s/3omj2r/go_union_type_proposals_should_start_with) - [Go union type proposals should start with their objectives](https://utcc.utoronto.ca/~cks/space/blog/programming/GoUnionTypesStartWithGoals)
+* [2024-12-17, 03:02:31](https://lobste.rs/s/yy1blg/testing_some_tidbits) - [Testing some tidbits](https://nedbatchelder.com/blog/202412/testing_some_tidbits.html)
 * [2024-12-16, 22:26:04](https://lobste.rs/s/pzmkmt/golang_1_24_is_looking_seriously_awesome) - [Golang 1.24 is looking seriously awesome](https://devcenter.upsun.com/posts/go-124/)
 * [2024-12-16, 21:01:32](https://lobste.rs/s/pi5inx/tools_for_go_modules) - [Tools for Go modules](https://cirw.in/blog/go-tools)
 * [2024-12-16, 20:49:41](https://lobste.rs/s/vnuk9u/20_years_linux_on_desktop_part_2) - [20 years of Linux on the Desktop (part 2)](https://ploum.net/2024-12-16-linux_desktop2.html)
