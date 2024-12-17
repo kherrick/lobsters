@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 19:16:55](https://lobste.rs/s/41d14o/tla_monthly_development_update_december) - [TLA+ Monthly Development Update - December 2024](https://foundation.tlapl.us/blog/2024-12-dev-update/index.html)
+* [2024-12-17, 18:48:27](https://lobste.rs/s/ikb6ta/moon) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 15:54:44](https://lobste.rs/s/ql8nyw/django_security_hardenings_are_not) - [Django security hardenings that are not happening](https://blog.hartwork.org/posts/django-security-hardenings-that-are-not-happening/)
 * [2024-12-17, 15:24:51](https://lobste.rs/s/5d9ttm/effectful_build_fast_reliable_haskell) - [Effectful - Build Fast & Reliable Haskell Applications](https://haskell-effectful.github.io/)
 * [2024-12-17, 15:18:33](https://lobste.rs/s/isx2ju/go_s_weird_little_iterators) - [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
