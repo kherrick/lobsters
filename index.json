@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-17, 21:55:28",
+      "https://lobste.rs/s/pb3ids/introduce_support_for_meson_build_system"
+    ],
+    [
+      "Introduce support for the Meson build system - git.git@904339e",
+      "https://git.kernel.org/pub/scm/git/git.git/commit/?id=904339edbd80ec5676616af6e072b41804c1c8eb"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 20:35:16",
       "https://lobste.rs/s/hfplla/my_go_c_code_for_asynchronous_work"
     ],
@@ -177,16 +187,6 @@
     [
       "Reconstructing a music recommendation model",
       "https://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 20:49:41",
-      "https://lobste.rs/s/vnuk9u/20_years_linux_on_desktop_part_2"
-    ],
-    [
-      "20 years of Linux on the Desktop (part 2)",
-      "https://ploum.net/2024-12-16-linux_desktop2.html"
     ]
   ],
   [
