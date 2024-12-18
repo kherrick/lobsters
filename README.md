@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 12:37:25](https://lobste.rs/s/la5zex/invitation_into_droste_s_lair) - [An invitation into Droste's Lair](https://vezwork.github.io/drostes-lair-post/)
 * [2024-12-18, 11:14:33](https://lobste.rs/s/dbmwiw/impressions_react_typescript_from) - [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
 * [2024-12-18, 11:09:36](https://lobste.rs/s/hq9hxv/tiny_c_binaries_2020) - [Tiny C Binaries (2020)](https://journal.lunar.sh/2020/tiny-linux-c-binaries.html)
 * [2024-12-18, 10:00:33](https://lobste.rs/s/rai7ug/remote_development_from_mac_linux_2011) - [Remote development from Mac to Linux (2011)](https://peter.bourgon.org/blog/2011/04/27/remote-development-from-mac-to-linux.html)
@@ -19,7 +20,6 @@
 * [2024-12-17, 15:18:33](https://lobste.rs/s/isx2ju/go_s_weird_little_iterators) - [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
 * [2024-12-17, 15:13:43](https://lobste.rs/s/cyc8qx/interactive_diagrams_for_complex) - [Interactive diagrams for complex systems](https://medium.com/@ivan.ishubin/interactive-diagrams-for-complex-systems-b24f739d34f5)
 * [2024-12-17, 13:13:27](https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed) - [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
-* [2024-12-17, 11:32:44](https://lobste.rs/s/vo5nh1/announcing_systemd_v257) - [Announcing systemd v257](https://0pointer.net/blog/announcing-systemd-v257.html)
 * [2024-12-17, 11:10:23](https://lobste.rs/s/ffd4xt/lfgss_microcosm_shutting_down_16th_march) - [LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-17, 10:58:30](https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks) - [Utilizing highly synchronized clocks in distributed databases](https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html)
 * [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)
