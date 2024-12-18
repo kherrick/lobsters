@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-18, 14:08:13",
+      "https://lobste.rs/s/hfvjcq/design_token_based_ui_architecture"
+    ],
+    [
+      "Design Token-Based UI Architecture",
+      "https://martinfowler.com/articles/design-token-based-ui-architecture.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 14:03:39",
+      "https://lobste.rs/s/r5khln/home_manager_dotfiles_management"
+    ],
+    [
+      "Home Manager: dotfiles management",
+      "https://gvolpe.com/blog/home-manager-dotfiles-management/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 12:37:25",
       "https://lobste.rs/s/la5zex/invitation_into_droste_s_lair"
     ],
@@ -27,16 +47,6 @@
     [
       "Tiny C Binaries (2020)",
       "https://journal.lunar.sh/2020/tiny-linux-c-binaries.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 10:00:33",
-      "https://lobste.rs/s/rai7ug/remote_development_from_mac_linux_2011"
-    ],
-    [
-      "Remote development from Mac to Linux (2011)",
-      "https://peter.bourgon.org/blog/2011/04/27/remote-development-from-mac-to-linux.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Let's Encrypt will begin offering 6-day certificates",
       "https://letsencrypt.org/2024/12/11/eoy-letter-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 15:33:57",
-      "https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z"
-    ],
-    [
-      "Running NetBSD on IBM ThinkPad 380Z",
-      "https://luke8086.dev/netbsd-on-thinkpad-380z.html"
     ]
   ]
 ]
