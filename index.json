@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 04:57:47",
+      "https://lobste.rs/s/c8e1xl/ergo_modern_irc_server_daemon_ircd"
+    ],
+    [
+      "ergo: A modern IRC server (daemon/ircd) written in Go",
+      "https://github.com/ergochat/ergo"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 01:27:38",
       "https://lobste.rs/s/c3dbkh/survey_system_languages_2024"
     ],
@@ -237,16 +247,6 @@
     [
       "Running NetBSD on IBM ThinkPad 380Z",
       "https://luke8086.dev/netbsd-on-thinkpad-380z.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 11:20:22",
-      "https://lobste.rs/s/kcelp8/re_re_bluesky_decentralization"
-    ],
-    [
-      "Re: Re: Bluesky and Decentralization",
-      "https://dustycloud.org/blog/re-re-bluesky-decentralization/"
     ]
   ]
 ]
