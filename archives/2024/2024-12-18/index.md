@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 14:08:13](https://lobste.rs/s/hfvjcq/design_token_based_ui_architecture) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
+* [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 12:37:25](https://lobste.rs/s/la5zex/invitation_into_droste_s_lair) - [An invitation into Droste's Lair](https://vezwork.github.io/drostes-lair-post/)
 * [2024-12-18, 11:14:33](https://lobste.rs/s/dbmwiw/impressions_react_typescript_from) - [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
 * [2024-12-18, 11:09:36](https://lobste.rs/s/hq9hxv/tiny_c_binaries_2020) - [Tiny C Binaries (2020)](https://journal.lunar.sh/2020/tiny-linux-c-binaries.html)
