@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 19:26:12",
+      "https://lobste.rs/s/a9gwqe/hotwire_spark_live_reloading_for_rails"
+    ],
+    [
+      "Hotwire Spark: live reloading for Rails applications",
+      "https://dev.37signals.com/announcing-hotwire-spark-live-reloading-for-rails/"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 19:10:24",
       "https://lobste.rs/s/jpdyog/eternal_terminal"
     ],
@@ -47,16 +57,6 @@
     [
       "An RSS aggregator that generates a simple embeddable static Markdown page",
       "https://github.com/abuseofnotation/static-feed-aggregator"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 14:08:13",
-      "https://lobste.rs/s/hfvjcq/design_token_based_ui_architecture"
-    ],
-    [
-      "Design Token-Based UI Architecture",
-      "https://martinfowler.com/articles/design-token-based-ui-architecture.html"
     ]
   ],
   [
