@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 21:08:19](https://lobste.rs/s/6ohuan/interactive_lustre_tutorial_on_gleam) - [Interactive Lustre tutorial on Gleam tours](https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/)
+* [2024-12-18, 21:00:41](https://lobste.rs/s/rirg56/maybe_it_shouldn_t_always_be_dns) - [Maybe It Shouldn’t Always Be DNS](https://www.junctionlabs.io/blog/maybe-it-shouldnt-always-be-dns)
 * [2024-12-18, 20:07:38](https://lobste.rs/s/kbfuaq/optimizing_ruby_s_json_part_2) - [Optimizing Ruby’s JSON, Part 2](https://byroot.github.io/ruby/json/2024/12/18/optimizing-ruby-json-part-2.html)
 * [2024-12-18, 19:26:12](https://lobste.rs/s/a9gwqe/hotwire_spark_live_reloading_for_rails) - [Hotwire Spark: live reloading for Rails applications](https://dev.37signals.com/announcing-hotwire-spark-live-reloading-for-rails/)
 * [2024-12-18, 19:10:24](https://lobste.rs/s/jpdyog/eternal_terminal) - [Eternal Terminal](https://eternalterminal.dev/)
@@ -20,8 +22,6 @@
 * [2024-12-17, 21:55:28](https://lobste.rs/s/pb3ids/introduce_support_for_meson_build_system) - [Introduce support for the Meson build system - git.git@904339e](https://git.kernel.org/pub/scm/git/git.git/commit/?id=904339edbd80ec5676616af6e072b41804c1c8eb)
 * [2024-12-17, 20:53:53](https://lobste.rs/s/ek1fzc/fixing_c_strings) - [Fixing C strings](https://thasso.xyz/2024/12/16/fixing-c-strings.html)
 * [2024-12-17, 20:35:16](https://lobste.rs/s/hfplla/my_go_c_code_for_asynchronous_work) - [My go-to C++ code for asynchronous work processing on a separate thread](https://raymii.org/s/software/My_go-to_Cpp_code_for_asynchronous_work_processing_on_a_separate_thread.html)
-* [2024-12-17, 19:49:35](https://lobste.rs/s/iphk6x/murder_mystery_gcc_builds_failing_after) - [Murder Mystery: GCC Builds Failing After sbuild Refactoring in Debian](https://www.linux.it/~ema/posts/murder-mystery-gcc-builds-failing-after-sbuild-refactoring/)
-* [2024-12-17, 19:16:55](https://lobste.rs/s/41d14o/tla_monthly_development_update_december) - [TLA+ Monthly Development Update - December 2024](https://foundation.tlapl.us/blog/2024-12-dev-update/index.html)
 * [2024-12-17, 18:48:27](https://lobste.rs/s/ikb6ta/moon) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 15:18:33](https://lobste.rs/s/isx2ju/go_s_weird_little_iterators) - [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
 * [2024-12-17, 13:13:27](https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed) - [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)

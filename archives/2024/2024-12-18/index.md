@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 21:08:19](https://lobste.rs/s/6ohuan/interactive_lustre_tutorial_on_gleam) - [Interactive Lustre tutorial on Gleam tours](https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/)
+* [2024-12-18, 21:00:41](https://lobste.rs/s/rirg56/maybe_it_shouldn_t_always_be_dns) - [Maybe It Shouldn’t Always Be DNS](https://www.junctionlabs.io/blog/maybe-it-shouldnt-always-be-dns)
 * [2024-12-18, 20:07:38](https://lobste.rs/s/kbfuaq/optimizing_ruby_s_json_part_2) - [Optimizing Ruby’s JSON, Part 2](https://byroot.github.io/ruby/json/2024/12/18/optimizing-ruby-json-part-2.html)
 * [2024-12-18, 19:26:12](https://lobste.rs/s/a9gwqe/hotwire_spark_live_reloading_for_rails) - [Hotwire Spark: live reloading for Rails applications](https://dev.37signals.com/announcing-hotwire-spark-live-reloading-for-rails/)
 * [2024-12-18, 19:10:24](https://lobste.rs/s/jpdyog/eternal_terminal) - [Eternal Terminal](https://eternalterminal.dev/)
