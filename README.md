@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 17:03:38](https://lobste.rs/s/yrysov/formally_modeling_dreidel_sequel) - [Formally modeling dreidel, the sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 15:18:49](https://lobste.rs/s/vun0ne/universal_tools_for_ai_with_wasm_model) - [Universal Tools For AI (with Wasm and the Model Context Protocol)](https://docs.mcp.run/blog/2024/12/18/universal-tools-for-ai/)
 * [2024-12-18, 14:58:08](https://lobste.rs/s/kekaui/history_microcomputer_industry_300) - [A history of the microcomputer industry in 300 adverts](https://nosher.net/archives/computers/)
 * [2024-12-18, 14:23:28](https://lobste.rs/s/oykynm/rss_aggregator_generates_simple) - [An RSS aggregator that generates a simple embeddable static Markdown page](https://github.com/abuseofnotation/static-feed-aggregator)
@@ -23,7 +24,6 @@
 * [2024-12-17, 15:24:51](https://lobste.rs/s/5d9ttm/effectful_build_fast_reliable_haskell) - [Effectful - Build Fast & Reliable Haskell Applications](https://haskell-effectful.github.io/)
 * [2024-12-17, 15:18:33](https://lobste.rs/s/isx2ju/go_s_weird_little_iterators) - [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
 * [2024-12-17, 13:13:27](https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed) - [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
-* [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)
 * [2024-12-17, 05:28:11](https://lobste.rs/s/nnuufh/let_s_encrypt_will_begin_offering_6_day) - [Let's Encrypt will begin offering 6-day certificates](https://letsencrypt.org/2024/12/11/eoy-letter-2024/)
 
 ## [Archives](archives/index.md)
