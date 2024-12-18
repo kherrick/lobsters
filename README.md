@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 08:47:52](https://lobste.rs/s/lzx09m/using_ejbca_connector_with_smartcard_hsm) - [Using the EJBCA Connector with the SmartCard HSM](https://www.smartcard-hsm.com/2024/12/17/ejbca-connector.html)
+* [2024-12-18, 08:44:04](https://lobste.rs/s/yd6tgy/acer_n30_battery_controller_emulation) - [Acer N30 battery controller emulation](https://bluesyncline.gitlab.io/n30-battery/index.html)
 * [2024-12-18, 08:37:20](https://lobste.rs/s/pclcll/prospective_vision_accessors) - [Prospective Vision: Accessors](https://forums.swift.org/t/prospective-vision-accessors/76707)
 * [2024-12-18, 06:38:04](https://lobste.rs/s/twmgxu/ai_internet_hygiene) - [AI and Internet Hygiene](https://www.late-review.com/p/ai-and-internet-hygiene)
 * [2024-12-18, 04:57:47](https://lobste.rs/s/c8e1xl/ergo_modern_irc_server_daemon_ircd) - [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)
@@ -19,11 +21,9 @@
 * [2024-12-17, 11:32:44](https://lobste.rs/s/vo5nh1/announcing_systemd_v257) - [Announcing systemd v257](https://0pointer.net/blog/announcing-systemd-v257.html)
 * [2024-12-17, 11:10:23](https://lobste.rs/s/ffd4xt/lfgss_microcosm_shutting_down_16th_march) - [LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
 * [2024-12-17, 10:58:30](https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks) - [Utilizing highly synchronized clocks in distributed databases](https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html)
-* [2024-12-17, 09:30:45](https://lobste.rs/s/uxbyee/ablet_easy_way_create_tuis_rust) - [Ablet: An EASY way to create TUIs in Rust](https://github.com/KnorrFG/Ablet)
 * [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)
 * [2024-12-17, 05:28:11](https://lobste.rs/s/nnuufh/let_s_encrypt_will_begin_offering_6_day) - [Let's Encrypt will begin offering 6-day certificates](https://letsencrypt.org/2024/12/11/eoy-letter-2024/)
 * [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
-* [2024-12-16, 18:06:58](https://lobste.rs/s/xgnuk7/everyone_gets_bidirectional_bfs_wrong) - [Everyone gets bidirectional BFS wrong](https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/)
 * [2024-12-16, 15:33:57](https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 
 ## [Archives](archives/index.md)
