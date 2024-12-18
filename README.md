@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 22:57:33](https://lobste.rs/s/cfsp1v/why_we_re_moving_source_available_license) - [Why We’re Moving to a Source Available License](https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/)
 * [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 22:06:56](https://lobste.rs/s/ecg7sy/announcing_chapel_2_3) - [Announcing Chapel 2.3](https://chapel-lang.org/blog/posts/announcing-chapel-2.3/)
 * [2024-12-18, 22:01:16](https://lobste.rs/s/ybn8wk/day_zero_build_good_web_apps_with_zero_sync) - [Day Zero: Build Good Web Apps with the Zero Sync Engine](https://bugs.rocicorp.dev/issue/0)
@@ -21,7 +22,6 @@
 * [2024-12-18, 04:57:47](https://lobste.rs/s/c8e1xl/ergo_modern_irc_server_daemon_ircd) - [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 * [2024-12-17, 21:55:28](https://lobste.rs/s/pb3ids/introduce_support_for_meson_build_system) - [Introduce support for the Meson build system - git.git@904339e](https://git.kernel.org/pub/scm/git/git.git/commit/?id=904339edbd80ec5676616af6e072b41804c1c8eb)
-* [2024-12-17, 20:53:53](https://lobste.rs/s/ek1fzc/fixing_c_strings) - [Fixing C strings](https://thasso.xyz/2024/12/16/fixing-c-strings.html)
 * [2024-12-17, 18:48:27](https://lobste.rs/s/ikb6ta/moon) - [Moon](https://ciechanow.ski/moon/)
 * [2024-12-17, 15:18:33](https://lobste.rs/s/isx2ju/go_s_weird_little_iterators) - [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
 * [2024-12-17, 13:13:27](https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed) - [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 22:57:33](https://lobste.rs/s/cfsp1v/why_we_re_moving_source_available_license) - [Why We’re Moving to a Source Available License](https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/)
 * [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 22:06:56](https://lobste.rs/s/ecg7sy/announcing_chapel_2_3) - [Announcing Chapel 2.3](https://chapel-lang.org/blog/posts/announcing-chapel-2.3/)
 * [2024-12-18, 22:01:16](https://lobste.rs/s/ybn8wk/day_zero_build_good_web_apps_with_zero_sync) - [Day Zero: Build Good Web Apps with the Zero Sync Engine](https://bugs.rocicorp.dev/issue/0)
