@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 19:26:12](https://lobste.rs/s/a9gwqe/hotwire_spark_live_reloading_for_rails) - [Hotwire Spark: live reloading for Rails applications](https://dev.37signals.com/announcing-hotwire-spark-live-reloading-for-rails/)
 * [2024-12-18, 19:10:24](https://lobste.rs/s/jpdyog/eternal_terminal) - [Eternal Terminal](https://eternalterminal.dev/)
 * [2024-12-18, 17:03:38](https://lobste.rs/s/yrysov/formally_modeling_dreidel_sequel) - [Formally modeling dreidel, the sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 15:18:49](https://lobste.rs/s/vun0ne/universal_tools_for_ai_with_wasm_model) - [Universal Tools For AI (with Wasm and the Model Context Protocol)](https://docs.mcp.run/blog/2024/12/18/universal-tools-for-ai/)

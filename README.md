@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 19:26:12](https://lobste.rs/s/a9gwqe/hotwire_spark_live_reloading_for_rails) - [Hotwire Spark: live reloading for Rails applications](https://dev.37signals.com/announcing-hotwire-spark-live-reloading-for-rails/)
 * [2024-12-18, 19:10:24](https://lobste.rs/s/jpdyog/eternal_terminal) - [Eternal Terminal](https://eternalterminal.dev/)
 * [2024-12-18, 17:03:38](https://lobste.rs/s/yrysov/formally_modeling_dreidel_sequel) - [Formally modeling dreidel, the sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 15:18:49](https://lobste.rs/s/vun0ne/universal_tools_for_ai_with_wasm_model) - [Universal Tools For AI (with Wasm and the Model Context Protocol)](https://docs.mcp.run/blog/2024/12/18/universal-tools-for-ai/)
 * [2024-12-18, 14:58:08](https://lobste.rs/s/kekaui/history_microcomputer_industry_300) - [A history of the microcomputer industry in 300 adverts](https://nosher.net/archives/computers/)
 * [2024-12-18, 14:23:28](https://lobste.rs/s/oykynm/rss_aggregator_generates_simple) - [An RSS aggregator that generates a simple embeddable static Markdown page](https://github.com/abuseofnotation/static-feed-aggregator)
-* [2024-12-18, 14:08:13](https://lobste.rs/s/hfvjcq/design_token_based_ui_architecture) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
 * [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 12:37:25](https://lobste.rs/s/la5zex/invitation_into_droste_s_lair) - [An invitation into Droste's Lair](https://vezwork.github.io/drostes-lair-post/)
 * [2024-12-18, 11:14:33](https://lobste.rs/s/dbmwiw/impressions_react_typescript_from) - [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
