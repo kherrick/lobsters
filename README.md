@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 15:18:49](https://lobste.rs/s/vun0ne/universal_tools_for_ai_with_wasm_model) - [Universal Tools For AI (with Wasm and the Model Context Protocol)](https://docs.mcp.run/blog/2024/12/18/universal-tools-for-ai/)
 * [2024-12-18, 14:58:08](https://lobste.rs/s/kekaui/history_microcomputer_industry_300) - [A history of the microcomputer industry in 300 adverts](https://nosher.net/archives/computers/)
 * [2024-12-18, 14:23:28](https://lobste.rs/s/oykynm/rss_aggregator_generates_simple) - [An RSS aggregator that generates a simple embeddable static Markdown page](https://github.com/abuseofnotation/static-feed-aggregator)
 * [2024-12-18, 14:08:13](https://lobste.rs/s/hfvjcq/design_token_based_ui_architecture) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
 * [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 12:37:25](https://lobste.rs/s/la5zex/invitation_into_droste_s_lair) - [An invitation into Droste's Lair](https://vezwork.github.io/drostes-lair-post/)
 * [2024-12-18, 11:14:33](https://lobste.rs/s/dbmwiw/impressions_react_typescript_from) - [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
-* [2024-12-18, 11:09:36](https://lobste.rs/s/hq9hxv/tiny_c_binaries_2020) - [Tiny C Binaries (2020)](https://journal.lunar.sh/2020/tiny-linux-c-binaries.html)
 * [2024-12-18, 10:00:33](https://lobste.rs/s/rai7ug/remote_development_from_mac_linux_2011) - [Remote development from Mac to Linux (2011)](https://peter.bourgon.org/blog/2011/04/27/remote-development-from-mac-to-linux.html)
 * [2024-12-18, 09:17:01](https://lobste.rs/s/gbgq6h/what_are_temporal_spatial_memory_safety) - [What are temporal and spatial memory safety?](https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/)
 * [2024-12-18, 06:38:04](https://lobste.rs/s/twmgxu/ai_internet_hygiene) - [AI and Internet Hygiene](https://www.late-review.com/p/ai-and-internet-hygiene)

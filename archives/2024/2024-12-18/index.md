@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 15:18:49](https://lobste.rs/s/vun0ne/universal_tools_for_ai_with_wasm_model) - [Universal Tools For AI (with Wasm and the Model Context Protocol)](https://docs.mcp.run/blog/2024/12/18/universal-tools-for-ai/)
 * [2024-12-18, 14:58:08](https://lobste.rs/s/kekaui/history_microcomputer_industry_300) - [A history of the microcomputer industry in 300 adverts](https://nosher.net/archives/computers/)
 * [2024-12-18, 14:23:28](https://lobste.rs/s/oykynm/rss_aggregator_generates_simple) - [An RSS aggregator that generates a simple embeddable static Markdown page](https://github.com/abuseofnotation/static-feed-aggregator)
 * [2024-12-18, 14:08:13](https://lobste.rs/s/hfvjcq/design_token_based_ui_architecture) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
