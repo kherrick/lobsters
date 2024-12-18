@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 09:17:01](https://lobste.rs/s/gbgq6h/what_are_temporal_spatial_memory_safety) - [What are temporal and spatial memory safety?](https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/)
 * [2024-12-18, 08:47:52](https://lobste.rs/s/lzx09m/using_ejbca_connector_with_smartcard_hsm) - [Using the EJBCA Connector with the SmartCard HSM](https://www.smartcard-hsm.com/2024/12/17/ejbca-connector.html)
 * [2024-12-18, 08:44:04](https://lobste.rs/s/yd6tgy/acer_n30_battery_controller_emulation) - [Acer N30 battery controller emulation](https://bluesyncline.gitlab.io/n30-battery/index.html)
 * [2024-12-18, 08:37:20](https://lobste.rs/s/pclcll/prospective_vision_accessors) - [Prospective Vision: Accessors](https://forums.swift.org/t/prospective-vision-accessors/76707)

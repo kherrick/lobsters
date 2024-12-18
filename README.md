@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 09:17:01](https://lobste.rs/s/gbgq6h/what_are_temporal_spatial_memory_safety) - [What are temporal and spatial memory safety?](https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/)
 * [2024-12-18, 08:47:52](https://lobste.rs/s/lzx09m/using_ejbca_connector_with_smartcard_hsm) - [Using the EJBCA Connector with the SmartCard HSM](https://www.smartcard-hsm.com/2024/12/17/ejbca-connector.html)
 * [2024-12-18, 08:44:04](https://lobste.rs/s/yd6tgy/acer_n30_battery_controller_emulation) - [Acer N30 battery controller emulation](https://bluesyncline.gitlab.io/n30-battery/index.html)
 * [2024-12-18, 08:37:20](https://lobste.rs/s/pclcll/prospective_vision_accessors) - [Prospective Vision: Accessors](https://forums.swift.org/t/prospective-vision-accessors/76707)
@@ -23,7 +24,6 @@
 * [2024-12-17, 10:58:30](https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks) - [Utilizing highly synchronized clocks in distributed databases](https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html)
 * [2024-12-17, 06:45:47](https://lobste.rs/s/lgxl0k/why_should_unix_shell_have_objects) - [Why Should a Unix Shell Have Objects?](https://www.oilshell.org/blog/2024/12/objects.html)
 * [2024-12-17, 05:28:11](https://lobste.rs/s/nnuufh/let_s_encrypt_will_begin_offering_6_day) - [Let's Encrypt will begin offering 6-day certificates](https://letsencrypt.org/2024/12/11/eoy-letter-2024/)
-* [2024-12-16, 20:18:59](https://lobste.rs/s/9yw5fj/go_protobuf_new_opaque_api_go_programming) - [Go Protobuf: The new Opaque API - The Go Programming Language](https://go.dev/blog/protobuf-opaque)
 * [2024-12-16, 15:33:57](https://lobste.rs/s/dmsnsr/running_netbsd_on_ibm_thinkpad_380z) - [Running NetBSD on IBM ThinkPad 380Z](https://luke8086.dev/netbsd-on-thinkpad-380z.html)
 
 ## [Archives](archives/index.md)
