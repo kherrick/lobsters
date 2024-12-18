@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-17](index.md)
 
+* [2024-12-17, 23:36:58](https://lobste.rs/s/c0u2uv/optimizing_ruby_s_json_part_1) - [Optimizing Ruby’s JSON, Part 1](https://byroot.github.io/ruby/json/2024/12/15/optimizing-ruby-json-part-1.html)
 * [2024-12-17, 21:55:28](https://lobste.rs/s/pb3ids/introduce_support_for_meson_build_system) - [Introduce support for the Meson build system - git.git@904339e](https://git.kernel.org/pub/scm/git/git.git/commit/?id=904339edbd80ec5676616af6e072b41804c1c8eb)
 * [2024-12-17, 20:53:53](https://lobste.rs/s/ek1fzc/fixing_c_strings) - [Fixing C strings](https://thasso.xyz/2024/12/16/fixing-c-strings.html)
 * [2024-12-17, 20:35:16](https://lobste.rs/s/hfplla/my_go_c_code_for_asynchronous_work) - [My go-to C++ code for asynchronous work processing on a separate thread](https://raymii.org/s/software/My_go-to_Cpp_code_for_asynchronous_work_processing_on_a_separate_thread.html)
