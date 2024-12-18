@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2024-12-17, 20:35:16",
+      "https://lobste.rs/s/hfplla/my_go_c_code_for_asynchronous_work"
+    ],
+    [
+      "My go-to C++ code for asynchronous work processing on a separate thread",
+      "https://raymii.org/s/software/My_go-to_Cpp_code_for_asynchronous_work_processing_on_a_separate_thread.html"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 19:49:35",
       "https://lobste.rs/s/iphk6x/murder_mystery_gcc_builds_failing_after"
     ],
@@ -197,16 +207,6 @@
     [
       "Let's Encrypt will begin offering 6-day certificates",
       "https://letsencrypt.org/2024/12/11/eoy-letter-2024/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 05:01:07",
-      "https://lobste.rs/s/uazaax/reconstructing_music_recommendation"
-    ],
-    [
-      "Reconstructing a music recommendation model",
-      "https://ocramz.github.io/posts/2024-12-16-deep-music-rec-pt1.html"
     ]
   ],
   [
