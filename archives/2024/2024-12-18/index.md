@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-18](index.md)
 
+* [2024-12-18, 14:23:28](https://lobste.rs/s/oykynm/rss_aggregator_generates_simple) - [An RSS aggregator that generates a simple embeddable static Markdown page](https://github.com/abuseofnotation/static-feed-aggregator)
 * [2024-12-18, 14:08:13](https://lobste.rs/s/hfvjcq/design_token_based_ui_architecture) - [Design Token-Based UI Architecture](https://martinfowler.com/articles/design-token-based-ui-architecture.html)
 * [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 12:37:25](https://lobste.rs/s/la5zex/invitation_into_droste_s_lair) - [An invitation into Droste's Lair](https://vezwork.github.io/drostes-lair-post/)
