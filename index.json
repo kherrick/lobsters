@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 11:09:36",
+      "https://lobste.rs/s/hq9hxv/tiny_c_binaries_2020"
+    ],
+    [
+      "Tiny C Binaries (2020)",
+      "https://journal.lunar.sh/2020/tiny-linux-c-binaries.html"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 10:00:33",
       "https://lobste.rs/s/rai7ug/remote_development_from_mac_linux_2011"
     ],
@@ -27,16 +37,6 @@
     [
       "Using the EJBCA Connector with the SmartCard HSM",
       "https://www.smartcard-hsm.com/2024/12/17/ejbca-connector.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 08:44:04",
-      "https://lobste.rs/s/yd6tgy/acer_n30_battery_controller_emulation"
-    ],
-    [
-      "Acer N30 battery controller emulation",
-      "https://bluesyncline.gitlab.io/n30-battery/index.html"
     ]
   ],
   [
