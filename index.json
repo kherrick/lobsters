@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 20:07:38",
+      "https://lobste.rs/s/kbfuaq/optimizing_ruby_s_json_part_2"
+    ],
+    [
+      "Optimizing Ruby’s JSON, Part 2",
+      "https://byroot.github.io/ruby/json/2024/12/18/optimizing-ruby-json-part-2.html"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 19:26:12",
       "https://lobste.rs/s/a9gwqe/hotwire_spark_live_reloading_for_rails"
     ],
@@ -217,16 +227,6 @@
     [
       "Moon",
       "https://ciechanow.ski/moon/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 15:24:51",
-      "https://lobste.rs/s/5d9ttm/effectful_build_fast_reliable_haskell"
-    ],
-    [
-      "Effectful - Build Fast & Reliable Haskell Applications",
-      "https://haskell-effectful.github.io/"
     ]
   ],
   [
