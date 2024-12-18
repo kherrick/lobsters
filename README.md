@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-18, 08:37:20](https://lobste.rs/s/pclcll/prospective_vision_accessors) - [Prospective Vision: Accessors](https://forums.swift.org/t/prospective-vision-accessors/76707)
 * [2024-12-18, 06:38:04](https://lobste.rs/s/twmgxu/ai_internet_hygiene) - [AI and Internet Hygiene](https://www.late-review.com/p/ai-and-internet-hygiene)
 * [2024-12-18, 04:57:47](https://lobste.rs/s/c8e1xl/ergo_modern_irc_server_daemon_ircd) - [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
@@ -14,7 +15,6 @@
 * [2024-12-17, 15:24:51](https://lobste.rs/s/5d9ttm/effectful_build_fast_reliable_haskell) - [Effectful - Build Fast & Reliable Haskell Applications](https://haskell-effectful.github.io/)
 * [2024-12-17, 15:18:33](https://lobste.rs/s/isx2ju/go_s_weird_little_iterators) - [Go's Weird Little Iterators](https://mcyoung.xyz/2024/12/16/rangefuncs/)
 * [2024-12-17, 15:13:43](https://lobste.rs/s/cyc8qx/interactive_diagrams_for_complex) - [Interactive diagrams for complex systems](https://medium.com/@ivan.ishubin/interactive-diagrams-for-complex-systems-b24f739d34f5)
-* [2024-12-17, 13:31:58](https://lobste.rs/s/3s7yv3/pizarra) - [Pizarra](https://pizarra.categulario.xyz/en/)
 * [2024-12-17, 13:13:27](https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed) - [CRUNCH - a compiler for statically typed Scheme with a minimal runtime](https://www.more-magic.net/posts/crunch.html)
 * [2024-12-17, 11:32:44](https://lobste.rs/s/vo5nh1/announcing_systemd_v257) - [Announcing systemd v257](https://0pointer.net/blog/announcing-systemd-v257.html)
 * [2024-12-17, 11:10:23](https://lobste.rs/s/ffd4xt/lfgss_microcosm_shutting_down_16th_march) - [LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)](https://www.lfgss.com/conversations/401475/)
