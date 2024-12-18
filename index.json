@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 14:23:28",
+      "https://lobste.rs/s/oykynm/rss_aggregator_generates_simple"
+    ],
+    [
+      "An RSS aggregator that generates a simple embeddable static Markdown page",
+      "https://github.com/abuseofnotation/static-feed-aggregator"
+    ]
+  ],
+  [
+    [
       "2024-12-18, 14:08:13",
       "https://lobste.rs/s/hfvjcq/design_token_based_ui_architecture"
     ],
@@ -57,6 +67,16 @@
     [
       "What are temporal and spatial memory safety?",
       "https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 08:37:20",
+      "https://lobste.rs/s/pclcll/prospective_vision_accessors"
+    ],
+    [
+      "Prospective Vision: Accessors",
+      "https://forums.swift.org/t/prospective-vision-accessors/76707"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-12-17, 15:13:43",
-      "https://lobste.rs/s/cyc8qx/interactive_diagrams_for_complex"
-    ],
-    [
-      "Interactive diagrams for complex systems",
-      "https://medium.com/@ivan.ishubin/interactive-diagrams-for-complex-systems-b24f739d34f5"
-    ]
-  ],
-  [
-    [
       "2024-12-17, 13:13:27",
       "https://lobste.rs/s/begosw/crunch_compiler_for_statically_typed"
     ],
@@ -217,16 +227,6 @@
     [
       "LFGSS and Microcosm shutting down 16th March 2025 (the day before the Online Safety Act is enforced)",
       "https://www.lfgss.com/conversations/401475/"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 10:58:30",
-      "https://lobste.rs/s/oq30ze/utilizing_highly_synchronized_clocks"
-    ],
-    [
-      "Utilizing highly synchronized clocks in distributed databases",
-      "https://muratbuffalo.blogspot.com/2024/12/utilizing-highly-synchronized-clocks-in.html"
     ]
   ],
   [
