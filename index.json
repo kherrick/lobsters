@@ -1,12 +1,32 @@
 [
   [
     [
-      "2024-12-18, 21:10:13",
-      "https://lobste.rs/s/xpomdg/slint_1_9_released_with_revamped"
+      "2024-12-18, 22:11:59",
+      "https://lobste.rs/s/v2makc/java_small"
     ],
     [
-      "Slint 1.9 Released with Revamped Documentation, New Live-Preview Element Inspector, and Translation Bundling",
-      "https://slint.dev/blog/slint-1.9-released"
+      "Java in the Small",
+      "https://horstmann.com/unblog/2024-12-11/index.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 22:06:56",
+      "https://lobste.rs/s/ecg7sy/announcing_chapel_2_3"
+    ],
+    [
+      "Announcing Chapel 2.3",
+      "https://chapel-lang.org/blog/posts/announcing-chapel-2.3/"
+    ]
+  ],
+  [
+    [
+      "2024-12-18, 22:01:16",
+      "https://lobste.rs/s/ybn8wk/day_zero_build_good_web_apps_with_zero_sync"
+    ],
+    [
+      "Day Zero: Build Good Web Apps with the Zero Sync Engine",
+      "https://bugs.rocicorp.dev/issue/0"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "Formally modeling dreidel, the sequel",
       "https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 15:18:49",
-      "https://lobste.rs/s/vun0ne/universal_tools_for_ai_with_wasm_model"
-    ],
-    [
-      "Universal Tools For AI (with Wasm and the Model Context Protocol)",
-      "https://docs.mcp.run/blog/2024/12/18/universal-tools-for-ai/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Fixing C strings",
       "https://thasso.xyz/2024/12/16/fixing-c-strings.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 20:35:16",
-      "https://lobste.rs/s/hfplla/my_go_c_code_for_asynchronous_work"
-    ],
-    [
-      "My go-to C++ code for asynchronous work processing on a separate thread",
-      "https://raymii.org/s/software/My_go-to_Cpp_code_for_asynchronous_work_processing_on_a_separate_thread.html"
     ]
   ],
   [
