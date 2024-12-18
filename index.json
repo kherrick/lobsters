@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-18, 01:27:38",
+      "https://lobste.rs/s/c3dbkh/survey_system_languages_2024"
+    ],
+    [
+      "A Survey Of System Languages (2024)",
+      "https://wiki.alopex.li/SurveyOfSystemLanguages2024"
+    ]
+  ],
+  [
+    [
       "2024-12-17, 23:36:58",
       "https://lobste.rs/s/c0u2uv/optimizing_ruby_s_json_part_1"
     ],
@@ -217,16 +227,6 @@
     [
       "Everyone gets bidirectional BFS wrong",
       "https://zdimension.fr/everyone-gets-bidirectional-bfs-wrong/"
-    ]
-  ],
-  [
-    [
-      "2024-12-16, 15:35:09",
-      "https://lobste.rs/s/clyk9b/using_guile_for_emacs"
-    ],
-    [
-      "Using Guile for Emacs",
-      "https://lwn.net/SubscriberLink/1001645/b1e4453a8c6c16d7/"
     ]
   ],
   [
