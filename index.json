@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-19, 06:28:37",
+      "https://lobste.rs/s/i0hfwl/streamlined_dataflow_analysis_code"
+    ],
+    [
+      "Streamlined dataflow analysis code in rustc",
+      "https://nnethercote.github.io/2024/12/19/streamlined-dataflow-analysis-code-in-rustc.html"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 05:42:06",
       "https://lobste.rs/s/ruekqx/rubyconf_keynote_red_fantasyland"
     ],
@@ -217,16 +227,6 @@
     [
       "A Survey Of System Languages (2024)",
       "https://wiki.alopex.li/SurveyOfSystemLanguages2024"
-    ]
-  ],
-  [
-    [
-      "2024-12-17, 21:55:28",
-      "https://lobste.rs/s/pb3ids/introduce_support_for_meson_build_system"
-    ],
-    [
-      "Introduce support for the Meson build system - git.git@904339e",
-      "https://git.kernel.org/pub/scm/git/git.git/commit/?id=904339edbd80ec5676616af6e072b41804c1c8eb"
     ]
   ],
   [
