@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 22:21:11](https://lobste.rs/s/mamynb/top_python_web_development_frameworks) - [Top Python Web Development Frameworks in 2025](https://reflex.dev/blog/2024-12-20-python-comparison/)
 * [2024-12-19, 19:45:32](https://lobste.rs/s/2nygrt/elixir_v1_18_released_type_checking) - [Elixir v1.18 released: type checking of function calls, Language Server listeners, built-in JSON, and ExUnit improvements](https://elixir-lang.org/blog/2024/12/19/elixir-v1-18-0-released/)
 * [2024-12-19, 18:46:22](https://lobste.rs/s/ztyd1z/intel_80376_legacy_free_i386_with_twist) - [The Intel 80376 – a Legacy-Free i386 (with a Twist!)](https://www.pagetable.com/?p=460)
 * [2024-12-19, 17:01:08](https://lobste.rs/s/glm3j9/understanding_basic_graal_graphs) - [Understanding Basic Graal Graphs](https://chrisseaton.com/truffleruby/basic-graal-graphs/)
