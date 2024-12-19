@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 10:17:18](https://lobste.rs/s/lpmwcz/embedding_lua_sqleibniz_with_rust) - [Embedding Lua in sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
+* [2024-12-19, 09:59:54](https://lobste.rs/s/jra8co/error_handling_for_large_rust_projects) - [Error Handling for Large Rust Projects](https://greptime.com/blogs/2024-05-07-error-rust)
 * [2024-12-19, 09:28:19](https://lobste.rs/s/blg0vs/ram_myth) - [The RAM myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
