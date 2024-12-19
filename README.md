@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-19, 15:42:55](https://lobste.rs/s/lty4cx/grype_vulnerability_scanner_for) - [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [2024-12-19, 13:28:33](https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 * [2024-12-19, 13:07:43](https://lobste.rs/s/0ulm0v/better_daemons_our_profession) - [The Better Daemons Of Our Profession](https://soatok.blog/2024/12/18/the-better-daemons-of-our-profession/)
 * [2024-12-19, 12:22:06](https://lobste.rs/s/1a876y/shared_nothing_design_seastar) - [Shared-nothing Design - Seastar](https://seastar.io/shared-nothing/)
@@ -20,7 +21,6 @@
 * [2024-12-18, 20:07:38](https://lobste.rs/s/kbfuaq/optimizing_ruby_s_json_part_2) - [Optimizing Ruby’s JSON, Part 2](https://byroot.github.io/ruby/json/2024/12/18/optimizing-ruby-json-part-2.html)
 * [2024-12-18, 19:10:24](https://lobste.rs/s/jpdyog/eternal_terminal) - [Eternal Terminal](https://eternalterminal.dev/)
 * [2024-12-18, 17:03:38](https://lobste.rs/s/yrysov/formally_modeling_dreidel_sequel) - [Formally modeling dreidel, the sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
-* [2024-12-18, 14:23:28](https://lobste.rs/s/oykynm/rss_aggregator_generates_simple) - [An RSS aggregator that generates a simple embeddable static Markdown page](https://github.com/abuseofnotation/static-feed-aggregator)
 * [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 11:14:33](https://lobste.rs/s/dbmwiw/impressions_react_typescript_from) - [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
 * [2024-12-18, 04:57:47](https://lobste.rs/s/c8e1xl/ergo_modern_irc_server_daemon_ircd) - [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)

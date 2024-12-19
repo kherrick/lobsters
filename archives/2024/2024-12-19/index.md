@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 15:42:55](https://lobste.rs/s/lty4cx/grype_vulnerability_scanner_for) - [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [2024-12-19, 13:28:33](https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 * [2024-12-19, 13:07:43](https://lobste.rs/s/0ulm0v/better_daemons_our_profession) - [The Better Daemons Of Our Profession](https://soatok.blog/2024/12/18/the-better-daemons-of-our-profession/)
 * [2024-12-19, 12:22:06](https://lobste.rs/s/1a876y/shared_nothing_design_seastar) - [Shared-nothing Design - Seastar](https://seastar.io/shared-nothing/)
