@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-19, 18:46:22](https://lobste.rs/s/ztyd1z/intel_80376_legacy_free_i386_with_twist) - [The Intel 80376 – a Legacy-Free i386 (with a Twist!)](https://www.pagetable.com/?p=460)
+* [2024-12-19, 18:46:22](https://lobste.rs/s/ztyd1z/intel_80376_legacy_free_i386_with_twist) - [The Intel 80376 – a Legacy-Free i386 (with a Twist!) (2010)](https://www.pagetable.com/?p=460)
 * [2024-12-19, 17:01:08](https://lobste.rs/s/glm3j9/understanding_basic_graal_graphs) - [Understanding Basic Graal Graphs](https://chrisseaton.com/truffleruby/basic-graal-graphs/)
 * [2024-12-19, 16:14:47](https://lobste.rs/s/oclya6/building_python_tools_with_one_shot) - [Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/)
 * [2024-12-19, 16:09:56](https://lobste.rs/s/0rjg7r/why_do_developers_love_clean_code_hate) - [Why do developers love clean code but hate writing documentation?](https://stackoverflow.blog/2024/12/19/developers-hate-documentation-ai-generated-toil-work/)
