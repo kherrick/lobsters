@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-19, 02:05:44](https://lobste.rs/s/f9a6vj/announcing_netbsd_10_1_dec_16_2024) - [Announcing NetBSD 10.1 (Dec 16, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html)
 * [2024-12-19, 00:24:29](https://lobste.rs/s/2ynbrx/piccolo_os_small_multitasking_os_for) - [Piccolo OS, a small multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 * [2024-12-18, 22:57:33](https://lobste.rs/s/cfsp1v/why_we_re_moving_source_available_license) - [Why We’re Moving to a Source Available License](https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/)
 * [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
@@ -16,7 +17,6 @@
 * [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 11:14:33](https://lobste.rs/s/dbmwiw/impressions_react_typescript_from) - [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
 * [2024-12-18, 11:09:36](https://lobste.rs/s/hq9hxv/tiny_c_binaries_2020) - [Tiny C Binaries (2020)](https://journal.lunar.sh/2020/tiny-linux-c-binaries.html)
-* [2024-12-18, 10:00:33](https://lobste.rs/s/rai7ug/remote_development_from_mac_linux_2011) - [Remote development from Mac to Linux (2011)](https://peter.bourgon.org/blog/2011/04/27/remote-development-from-mac-to-linux.html)
 * [2024-12-18, 09:17:01](https://lobste.rs/s/gbgq6h/what_are_temporal_spatial_memory_safety) - [What are temporal and spatial memory safety?](https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/)
 * [2024-12-18, 06:38:04](https://lobste.rs/s/twmgxu/ai_internet_hygiene) - [AI and Internet Hygiene](https://www.late-review.com/p/ai-and-internet-hygiene)
 * [2024-12-18, 04:57:47](https://lobste.rs/s/c8e1xl/ergo_modern_irc_server_daemon_ircd) - [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)
