@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-19, 13:28:33](https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 * [2024-12-19, 12:22:06](https://lobste.rs/s/1a876y/shared_nothing_design_seastar) - [Shared-nothing Design - Seastar](https://seastar.io/shared-nothing/)
 * [2024-12-19, 10:51:16](https://lobste.rs/s/5fggij/1981_interlisp_d_demonstration_by_beau) - [(1981) Interlisp-D Demonstration by Beau Sheil](https://youtu.be/cKjFJDZmWNM)
 * [2024-12-19, 10:38:51](https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns) - [Go advanced concurrency patterns: unlimited buffer channels](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/)
@@ -7,7 +8,6 @@
 * [2024-12-19, 09:28:19](https://lobste.rs/s/blg0vs/ram_myth) - [The RAM myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
-* [2024-12-19, 06:28:37](https://lobste.rs/s/i0hfwl/streamlined_dataflow_analysis_code) - [Streamlined dataflow analysis code in rustc](https://nnethercote.github.io/2024/12/19/streamlined-dataflow-analysis-code-in-rustc.html)
 * [2024-12-19, 05:42:06](https://lobste.rs/s/ruekqx/rubyconf_keynote_red_fantasyland) - [RubyConf Keynote - Red in Fantasyland](https://youtube.com/watch?v=BDepeodE0i4)
 * [2024-12-19, 02:05:44](https://lobste.rs/s/f9a6vj/announcing_netbsd_10_1_dec_16_2024) - [Announcing NetBSD 10.1 (Dec 16, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html)
 * [2024-12-19, 00:24:29](https://lobste.rs/s/2ynbrx/piccolo_os_small_multitasking_os_for) - [Piccolo OS, a small multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
