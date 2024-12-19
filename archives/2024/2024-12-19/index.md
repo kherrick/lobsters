@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 10:38:51](https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns) - [Go advanced concurrency patterns: unlimited buffer channels](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/)
+* [2024-12-19, 10:28:28](https://lobste.rs/s/k8qdkr/iptables_interactive_scheme) - [iptables interactive scheme](https://zersh01.github.io/iptables_interactive_scheme/)
 * [2024-12-19, 10:17:18](https://lobste.rs/s/lpmwcz/embedding_lua_sqleibniz_with_rust) - [Embedding Lua in sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
 * [2024-12-19, 09:59:54](https://lobste.rs/s/jra8co/error_handling_for_large_rust_projects) - [Error Handling for Large Rust Projects](https://greptime.com/blogs/2024-05-07-error-rust)
 * [2024-12-19, 09:28:19](https://lobste.rs/s/blg0vs/ram_myth) - [The RAM myth](https://purplesyringa.moe/blog/the-ram-myth/)

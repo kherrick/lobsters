@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-19, 10:38:51](https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns) - [Go advanced concurrency patterns: unlimited buffer channels](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/)
+* [2024-12-19, 10:28:28](https://lobste.rs/s/k8qdkr/iptables_interactive_scheme) - [iptables interactive scheme](https://zersh01.github.io/iptables_interactive_scheme/)
 * [2024-12-19, 10:17:18](https://lobste.rs/s/lpmwcz/embedding_lua_sqleibniz_with_rust) - [Embedding Lua in sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
 * [2024-12-19, 09:59:54](https://lobste.rs/s/jra8co/error_handling_for_large_rust_projects) - [Error Handling for Large Rust Projects](https://greptime.com/blogs/2024-05-07-error-rust)
-* [2024-12-19, 09:28:19](https://lobste.rs/s/blg0vs/ram_myth) - [The RAM myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
-* [2024-12-19, 08:14:53](https://lobste.rs/s/k6cxpn/intergalactic_tale_two_coders) - [An intergalactic tale of two coders](https://medium.com/leboncoin-tech-blog/an-intergalactic-tale-of-two-coders-8d7a348c256c)
 * [2024-12-19, 06:28:37](https://lobste.rs/s/i0hfwl/streamlined_dataflow_analysis_code) - [Streamlined dataflow analysis code in rustc](https://nnethercote.github.io/2024/12/19/streamlined-dataflow-analysis-code-in-rustc.html)
 * [2024-12-19, 05:42:06](https://lobste.rs/s/ruekqx/rubyconf_keynote_red_fantasyland) - [RubyConf Keynote - Red in Fantasyland](https://youtube.com/watch?v=BDepeodE0i4)
 * [2024-12-19, 02:05:44](https://lobste.rs/s/f9a6vj/announcing_netbsd_10_1_dec_16_2024) - [Announcing NetBSD 10.1 (Dec 16, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html)
