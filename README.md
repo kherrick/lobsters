@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-19, 19:45:32](https://lobste.rs/s/2nygrt/elixir_v1_18_released_type_checking) - [Elixir v1.18 released: type checking of function calls, Language Server listeners, built-in JSON, and ExUnit improvements](https://elixir-lang.org/blog/2024/12/19/elixir-v1-18-0-released/)
 * [2024-12-19, 18:46:22](https://lobste.rs/s/ztyd1z/intel_80376_legacy_free_i386_with_twist) - [The Intel 80376 – a Legacy-Free i386 (with a Twist!) (2010)](https://www.pagetable.com/?p=460)
 * [2024-12-19, 17:01:08](https://lobste.rs/s/glm3j9/understanding_basic_graal_graphs) - [Understanding Basic Graal Graphs](https://chrisseaton.com/truffleruby/basic-graal-graphs/)
 * [2024-12-19, 16:14:47](https://lobste.rs/s/oclya6/building_python_tools_with_one_shot) - [Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/)
@@ -23,7 +24,6 @@
 * [2024-12-18, 19:10:24](https://lobste.rs/s/jpdyog/eternal_terminal) - [Eternal Terminal](https://eternalterminal.dev/)
 * [2024-12-18, 17:03:38](https://lobste.rs/s/yrysov/formally_modeling_dreidel_sequel) - [Formally modeling dreidel, the sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
-* [2024-12-18, 11:14:33](https://lobste.rs/s/dbmwiw/impressions_react_typescript_from) - [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 
 ## [Archives](archives/index.md)
