@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
 * [2024-12-19, 13:28:33](https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
+* [2024-12-19, 13:07:43](https://lobste.rs/s/0ulm0v/better_daemons_our_profession) - [The Better Daemons Of Our Profession](https://soatok.blog/2024/12/18/the-better-daemons-of-our-profession/)
 * [2024-12-19, 12:22:06](https://lobste.rs/s/1a876y/shared_nothing_design_seastar) - [Shared-nothing Design - Seastar](https://seastar.io/shared-nothing/)
 * [2024-12-19, 10:51:16](https://lobste.rs/s/5fggij/1981_interlisp_d_demonstration_by_beau) - [(1981) Interlisp-D Demonstration by Beau Sheil](https://youtu.be/cKjFJDZmWNM)
 * [2024-12-19, 10:38:51](https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns) - [Go advanced concurrency patterns: unlimited buffer channels](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/)
