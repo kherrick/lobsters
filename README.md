@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
 * [2024-12-19, 08:14:53](https://lobste.rs/s/k6cxpn/intergalactic_tale_two_coders) - [An intergalactic tale of two coders](https://medium.com/leboncoin-tech-blog/an-intergalactic-tale-of-two-coders-8d7a348c256c)
 * [2024-12-19, 06:28:37](https://lobste.rs/s/i0hfwl/streamlined_dataflow_analysis_code) - [Streamlined dataflow analysis code in rustc](https://nnethercote.github.io/2024/12/19/streamlined-dataflow-analysis-code-in-rustc.html)
@@ -21,7 +22,6 @@
 * [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 11:14:33](https://lobste.rs/s/dbmwiw/impressions_react_typescript_from) - [Impressions of React and TypeScript from an Elixir/Elm developer](https://korban.net/posts/elm/2024-11-16-typescript-react-impressions/)
 * [2024-12-18, 09:17:01](https://lobste.rs/s/gbgq6h/what_are_temporal_spatial_memory_safety) - [What are temporal and spatial memory safety?](https://blog.yoshuawuyts.com/temporal-spatial-memory-safety/)
-* [2024-12-18, 06:38:04](https://lobste.rs/s/twmgxu/ai_internet_hygiene) - [AI and Internet Hygiene](https://www.late-review.com/p/ai-and-internet-hygiene)
 * [2024-12-18, 04:57:47](https://lobste.rs/s/c8e1xl/ergo_modern_irc_server_daemon_ircd) - [ergo: A modern IRC server (daemon/ircd) written in Go](https://github.com/ergochat/ergo)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 * [2024-12-17, 18:48:27](https://lobste.rs/s/ikb6ta/moon) - [Moon](https://ciechanow.ski/moon/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
 * [2024-12-19, 08:14:53](https://lobste.rs/s/k6cxpn/intergalactic_tale_two_coders) - [An intergalactic tale of two coders](https://medium.com/leboncoin-tech-blog/an-intergalactic-tale-of-two-coders-8d7a348c256c)
 * [2024-12-19, 06:28:37](https://lobste.rs/s/i0hfwl/streamlined_dataflow_analysis_code) - [Streamlined dataflow analysis code in rustc](https://nnethercote.github.io/2024/12/19/streamlined-dataflow-analysis-code-in-rustc.html)
