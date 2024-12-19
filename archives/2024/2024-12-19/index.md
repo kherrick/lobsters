@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 16:47:41](https://lobste.rs/s/g0b5ga/year_computer_science) - [The Year in Computer Science](https://www.quantamagazine.org/the-year-in-computer-science-20241219/)
 * [2024-12-19, 16:14:47](https://lobste.rs/s/oclya6/building_python_tools_with_one_shot) - [Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/)
 * [2024-12-19, 16:09:56](https://lobste.rs/s/0rjg7r/why_do_developers_love_clean_code_hate) - [Why do developers love clean code but hate writing documentation?](https://stackoverflow.blog/2024/12/19/developers-hate-documentation-ai-generated-toil-work/)
 * [2024-12-19, 15:42:55](https://lobste.rs/s/lty4cx/grype_vulnerability_scanner_for) - [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
