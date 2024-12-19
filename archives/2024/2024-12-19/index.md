@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-19](index.md)
 
+* [2024-12-19, 10:51:16](https://lobste.rs/s/5fggij/1981_interlisp_d_demonstration_by_beau) - [(1981) Interlisp-D Demonstration by Beau Sheil](https://youtu.be/cKjFJDZmWNM)
 * [2024-12-19, 10:38:51](https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns) - [Go advanced concurrency patterns: unlimited buffer channels](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/)
 * [2024-12-19, 10:28:28](https://lobste.rs/s/k8qdkr/iptables_interactive_scheme) - [iptables interactive scheme](https://zersh01.github.io/iptables_interactive_scheme/)
 * [2024-12-19, 10:17:18](https://lobste.rs/s/lpmwcz/embedding_lua_sqleibniz_with_rust) - [Embedding Lua in sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
