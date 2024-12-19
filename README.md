@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-19, 17:01:08](https://lobste.rs/s/glm3j9/understanding_basic_graal_graphs) - [Understanding Basic Graal Graphs](https://chrisseaton.com/truffleruby/basic-graal-graphs/)
 * [2024-12-19, 16:47:41](https://lobste.rs/s/g0b5ga/year_computer_science) - [The Year in Computer Science](https://www.quantamagazine.org/the-year-in-computer-science-20241219/)
 * [2024-12-19, 16:14:47](https://lobste.rs/s/oclya6/building_python_tools_with_one_shot) - [Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/)
 * [2024-12-19, 16:09:56](https://lobste.rs/s/0rjg7r/why_do_developers_love_clean_code_hate) - [Why do developers love clean code but hate writing documentation?](https://stackoverflow.blog/2024/12/19/developers-hate-documentation-ai-generated-toil-work/)
@@ -19,7 +20,6 @@
 * [2024-12-18, 22:06:56](https://lobste.rs/s/ecg7sy/announcing_chapel_2_3) - [Announcing Chapel 2.3](https://chapel-lang.org/blog/posts/announcing-chapel-2.3/)
 * [2024-12-18, 22:01:16](https://lobste.rs/s/ybn8wk/day_zero_build_good_web_apps_with_zero_sync) - [Day Zero: Build Good Web Apps with the Zero Sync Engine](https://bugs.rocicorp.dev/issue/0)
 * [2024-12-18, 21:08:19](https://lobste.rs/s/6ohuan/interactive_lustre_tutorial_on_gleam) - [Interactive Lustre tutorial on Gleam tours](https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/)
-* [2024-12-18, 20:07:38](https://lobste.rs/s/kbfuaq/optimizing_ruby_s_json_part_2) - [Optimizing Ruby’s JSON, Part 2](https://byroot.github.io/ruby/json/2024/12/18/optimizing-ruby-json-part-2.html)
 * [2024-12-18, 19:10:24](https://lobste.rs/s/jpdyog/eternal_terminal) - [Eternal Terminal](https://eternalterminal.dev/)
 * [2024-12-18, 17:03:38](https://lobste.rs/s/yrysov/formally_modeling_dreidel_sequel) - [Formally modeling dreidel, the sequel](https://buttondown.com/hillelwayne/archive/formally-modeling-dreidel-the-sequel/)
 * [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
