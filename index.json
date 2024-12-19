@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-19, 13:28:33",
+      "https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers"
+    ],
+    [
+      "How do you do, fellow web developers? A growing disconnect",
+      "https://rakhim.exotext.com/web-developers-a-growing-disconnect"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 12:22:06",
       "https://lobste.rs/s/1a876y/shared_nothing_design_seastar"
     ],
@@ -67,16 +77,6 @@
     [
       "Half My Life with Perl",
       "https://perladvent.org/2024/2024-12-19.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 06:28:37",
-      "https://lobste.rs/s/i0hfwl/streamlined_dataflow_analysis_code"
-    ],
-    [
-      "Streamlined dataflow analysis code in rustc",
-      "https://nnethercote.github.io/2024/12/19/streamlined-dataflow-analysis-code-in-rustc.html"
     ]
   ],
   [
