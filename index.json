@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-19, 17:01:08",
+      "https://lobste.rs/s/glm3j9/understanding_basic_graal_graphs"
+    ],
+    [
+      "Understanding Basic Graal Graphs",
+      "https://chrisseaton.com/truffleruby/basic-graal-graphs/"
+    ]
+  ],
+  [
+    [
       "2024-12-19, 16:47:41",
       "https://lobste.rs/s/g0b5ga/year_computer_science"
     ],
@@ -187,16 +197,6 @@
     [
       "Interactive Lustre tutorial on Gleam tours",
       "https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 20:07:38",
-      "https://lobste.rs/s/kbfuaq/optimizing_ruby_s_json_part_2"
-    ],
-    [
-      "Optimizing Ruby’s JSON, Part 2",
-      "https://byroot.github.io/ruby/json/2024/12/18/optimizing-ruby-json-part-2.html"
     ]
   ],
   [
