@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-19, 12:22:06](https://lobste.rs/s/1a876y/shared_nothing_design_seastar) - [Shared-nothing Design - Seastar](https://seastar.io/shared-nothing/)
 * [2024-12-19, 10:51:16](https://lobste.rs/s/5fggij/1981_interlisp_d_demonstration_by_beau) - [(1981) Interlisp-D Demonstration by Beau Sheil](https://youtu.be/cKjFJDZmWNM)
 * [2024-12-19, 10:38:51](https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns) - [Go advanced concurrency patterns: unlimited buffer channels](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/)
 * [2024-12-19, 10:28:28](https://lobste.rs/s/k8qdkr/iptables_interactive_scheme) - [iptables interactive scheme](https://zersh01.github.io/iptables_interactive_scheme/)
-* [2024-12-19, 10:17:18](https://lobste.rs/s/lpmwcz/embedding_lua_sqleibniz_with_rust) - [Embedding Lua in sqleibniz with Rust](https://xnacly.me/posts/2024/embed-lua-in-rust/)
 * [2024-12-19, 09:28:19](https://lobste.rs/s/blg0vs/ram_myth) - [The RAM myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
