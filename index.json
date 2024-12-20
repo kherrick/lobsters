@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-20, 19:53:40",
+      "https://lobste.rs/s/ysf899/phantom_menace_memory_leak_wasn_t_there"
+    ],
+    [
+      "Phantom Menace: memory leak that wasn't there",
+      "https://flakm.com/posts/phantom_leak/"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 19:20:41",
       "https://lobste.rs/s/ti2lli/candyfab_diy_3d_sugar_printer"
     ],
@@ -217,16 +227,6 @@
     [
       "The Intel 80376 – a Legacy-Free i386 (with a Twist!) (2010)",
       "https://www.pagetable.com/?p=460"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 16:14:47",
-      "https://lobste.rs/s/oclya6/building_python_tools_with_one_shot"
-    ],
-    [
-      "Building Python tools with a one-shot prompt using uv run and Claude Projects",
-      "https://simonwillison.net/2024/Dec/19/one-shot-python-tools/"
     ]
   ],
   [
