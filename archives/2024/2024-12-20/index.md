@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
 * [2024-12-20, 19:53:40](https://lobste.rs/s/ysf899/phantom_menace_memory_leak_wasn_t_there) - [Phantom Menace: memory leak that wasn't there](https://flakm.com/posts/phantom_leak/)
 * [2024-12-20, 19:20:41](https://lobste.rs/s/ti2lli/candyfab_diy_3d_sugar_printer) - [CandyFab: A DIY 3D Sugar Printer](https://candyfab.org/)
 * [2024-12-20, 18:16:15](https://lobste.rs/s/twzn9n/rivet_actors_cloudflare_durable_objects) - [Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates](https://github.com/rivet-gg/rivet)
