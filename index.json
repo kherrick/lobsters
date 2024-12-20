@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-20, 08:26:54",
+      "https://lobste.rs/s/8utgbj/lisp_expression_replacements_with_query"
+    ],
+    [
+      "Lisp expression replacements with query-regexp-replace",
+      "https://breatheoutbreathe.in/blog/2024-12-19-query-regexp-replace-lisp-replacement.html"
+    ]
+  ],
+  [
+    [
+      "2024-12-20, 08:25:39",
+      "https://lobste.rs/s/zzr4iu/how_mirror_worg_hyperdrive"
+    ],
+    [
+      "How to mirror worg to a hyperdrive",
+      "https://breatheoutbreathe.in/blog/2024-12-16-mirror-worg-to-a-hyperdrive.html"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 06:31:13",
       "https://lobste.rs/s/xynhcy/my_favourite_colour_is_chuck_norris_red"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2024-12-19, 00:24:29",
-      "https://lobste.rs/s/2ynbrx/piccolo_os_small_multitasking_os_for"
-    ],
-    [
-      "Piccolo OS, a small multitasking OS for the Raspberry Pi Pico",
-      "https://github.com/garyexplains/piccolo_os_v1"
-    ]
-  ],
-  [
-    [
       "2024-12-18, 22:57:33",
       "https://lobste.rs/s/cfsp1v/why_we_re_moving_source_available_license"
     ],
@@ -227,16 +237,6 @@
     [
       "Java in the Small",
       "https://horstmann.com/unblog/2024-12-11/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 21:08:19",
-      "https://lobste.rs/s/6ohuan/interactive_lustre_tutorial_on_gleam"
-    ],
-    [
-      "Interactive Lustre tutorial on Gleam tours",
-      "https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/"
     ]
   ],
   [
