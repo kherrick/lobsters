@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 10:31:21](https://lobste.rs/s/onyn3r/cargo_testdox_turns_your_rust_tests_into) - [cargo-testdox turns your Rust tests into docs](https://github.com/bitfield/cargo-testdox)
 * [2024-12-20, 10:05:32](https://lobste.rs/s/cv6v1o/era_open_voice_assistants_has_arrived) - [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-20, 09:50:53](https://lobste.rs/s/3om9b9/we_have_google_drive_at_home_musings_on) - [We Have Google Drive at Home: Musings on Merkle-Tree Based File Sharing](https://www.dolthub.com/blog/2024-12-19-merkle-trees-for-file-systems/)
 * [2024-12-20, 08:30:26](https://lobste.rs/s/sl3l10/pragmatic_category_theory_part_3) - [Pragmatic Category Theory | Part 3: Associativity](https://chshersh.com/blog/2024-12-20-pragmatic-category-theory-part-03.html)

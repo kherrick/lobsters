@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 10:31:21](https://lobste.rs/s/onyn3r/cargo_testdox_turns_your_rust_tests_into) - [cargo-testdox turns your Rust tests into docs](https://github.com/bitfield/cargo-testdox)
 * [2024-12-20, 10:05:32](https://lobste.rs/s/cv6v1o/era_open_voice_assistants_has_arrived) - [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-20, 09:50:53](https://lobste.rs/s/3om9b9/we_have_google_drive_at_home_musings_on) - [We Have Google Drive at Home: Musings on Merkle-Tree Based File Sharing](https://www.dolthub.com/blog/2024-12-19-merkle-trees-for-file-systems/)
 * [2024-12-20, 08:30:26](https://lobste.rs/s/sl3l10/pragmatic_category_theory_part_3) - [Pragmatic Category Theory | Part 3: Associativity](https://chshersh.com/blog/2024-12-20-pragmatic-category-theory-part-03.html)
@@ -13,7 +14,6 @@
 * [2024-12-19, 18:46:22](https://lobste.rs/s/ztyd1z/intel_80376_legacy_free_i386_with_twist) - [The Intel 80376 – a Legacy-Free i386 (with a Twist!) (2010)](https://www.pagetable.com/?p=460)
 * [2024-12-19, 17:01:08](https://lobste.rs/s/glm3j9/understanding_basic_graal_graphs) - [Understanding Basic Graal Graphs](https://chrisseaton.com/truffleruby/basic-graal-graphs/)
 * [2024-12-19, 16:14:47](https://lobste.rs/s/oclya6/building_python_tools_with_one_shot) - [Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/)
-* [2024-12-19, 16:09:56](https://lobste.rs/s/0rjg7r/why_do_developers_love_clean_code_hate) - [Why do developers love clean code but hate writing documentation?](https://stackoverflow.blog/2024/12/19/developers-hate-documentation-ai-generated-toil-work/)
 * [2024-12-19, 15:42:55](https://lobste.rs/s/lty4cx/grype_vulnerability_scanner_for) - [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [2024-12-19, 13:28:33](https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 * [2024-12-19, 12:22:06](https://lobste.rs/s/1a876y/shared_nothing_design_seastar) - [Shared-nothing Design - Seastar](https://seastar.io/shared-nothing/)
