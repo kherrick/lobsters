@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 23:39:32](https://lobste.rs/s/dcs7mk/dos_append_command) - [DOS APPEND command](https://www.os2museum.com/wp/dos-append/)
 * [2024-12-20, 23:26:47](https://lobste.rs/s/in3iic/raycaster_bash) - [a raycaster in bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:58:08](https://lobste.rs/s/bjunyg/hexagon_page_animations) - [Hexagon page animations](https://www.redblobgames.com/blog/2024-12-16-hexagon-page-animations/)
