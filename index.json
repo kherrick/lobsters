@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-20, 22:42:25",
+      "https://lobste.rs/s/klf87z/turing_machines"
+    ],
+    [
+      "Turing Machines",
+      "https://samwho.dev/turing-machines/"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 20:58:08",
       "https://lobste.rs/s/bjunyg/hexagon_page_animations"
     ],
@@ -217,16 +227,6 @@
     [
       "Elixir v1.18 released: type checking of function calls, Language Server listeners, built-in JSON, and ExUnit improvements",
       "https://elixir-lang.org/blog/2024/12/19/elixir-v1-18-0-released/"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 18:46:22",
-      "https://lobste.rs/s/ztyd1z/intel_80376_legacy_free_i386_with_twist"
-    ],
-    [
-      "The Intel 80376 – a Legacy-Free i386 (with a Twist!) (2010)",
-      "https://www.pagetable.com/?p=460"
     ]
   ],
   [
