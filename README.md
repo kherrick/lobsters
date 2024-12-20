@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 * [2024-12-20, 11:34:40](https://lobste.rs/s/fbb1lw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fbb1lw/what_are_you_doing_this_weekend)
 * [2024-12-20, 10:31:21](https://lobste.rs/s/onyn3r/cargo_testdox_turns_your_rust_tests_into) - [cargo-testdox turns your Rust tests into docs](https://github.com/bitfield/cargo-testdox)
 * [2024-12-20, 10:05:32](https://lobste.rs/s/cv6v1o/era_open_voice_assistants_has_arrived) - [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
@@ -22,7 +23,6 @@
 * [2024-12-19, 09:28:19](https://lobste.rs/s/blg0vs/ram_myth) - [The RAM myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
-* [2024-12-19, 02:05:44](https://lobste.rs/s/f9a6vj/announcing_netbsd_10_1_dec_16_2024) - [Announcing NetBSD 10.1 (Dec 16, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html)
 * [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 
