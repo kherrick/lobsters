@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-20, 18:16:15",
+      "https://lobste.rs/s/twzn9n/rivet_actors_cloudflare_durable_objects"
+    ],
+    [
+      "Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates",
+      "https://github.com/rivet-gg/rivet"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 17:23:03",
       "https://lobste.rs/s/l05xsl/long_winding_road_safe_browser_based"
     ],
@@ -217,16 +227,6 @@
     [
       "How do you do, fellow web developers? A growing disconnect",
       "https://rakhim.exotext.com/web-developers-a-growing-disconnect"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 10:38:51",
-      "https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns"
-    ],
-    [
-      "Go advanced concurrency patterns: unlimited buffer channels",
-      "https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/"
     ]
   ],
   [
