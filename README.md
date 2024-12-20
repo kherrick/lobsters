@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 08:26:54](https://lobste.rs/s/8utgbj/lisp_expression_replacements_with_query) - [Lisp expression replacements with query-regexp-replace](https://breatheoutbreathe.in/blog/2024-12-19-query-regexp-replace-lisp-replacement.html)
+* [2024-12-20, 08:25:39](https://lobste.rs/s/zzr4iu/how_mirror_worg_hyperdrive) - [How to mirror worg to a hyperdrive](https://breatheoutbreathe.in/blog/2024-12-16-mirror-worg-to-a-hyperdrive.html)
 * [2024-12-20, 06:31:13](https://lobste.rs/s/xynhcy/my_favourite_colour_is_chuck_norris_red) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 * [2024-12-20, 02:57:51](https://lobste.rs/s/pbbtv8/debugging_network_performance_issue) - [Debugging a network performance issue in an OCaml 5 program](https://roscidus.com/blog/blog/2024/07/22/performance/)
 * [2024-12-20, 00:00:46](https://lobste.rs/s/jdgjjt/visitor_pattern_considered_pointless) - [Visitor Pattern Considered Pointless - Use Pattern Switches Instead (2021)](https://nipafx.dev/java-visitor-pattern-pointless/)
@@ -20,10 +22,8 @@
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
 * [2024-12-19, 02:05:44](https://lobste.rs/s/f9a6vj/announcing_netbsd_10_1_dec_16_2024) - [Announcing NetBSD 10.1 (Dec 16, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html)
-* [2024-12-19, 00:24:29](https://lobste.rs/s/2ynbrx/piccolo_os_small_multitasking_os_for) - [Piccolo OS, a small multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 * [2024-12-18, 22:57:33](https://lobste.rs/s/cfsp1v/why_we_re_moving_source_available_license) - [Why We’re Moving to a Source Available License](https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/)
 * [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
-* [2024-12-18, 21:08:19](https://lobste.rs/s/6ohuan/interactive_lustre_tutorial_on_gleam) - [Interactive Lustre tutorial on Gleam tours](https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 
 ## [Archives](archives/index.md)
