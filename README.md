@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 02:57:51](https://lobste.rs/s/pbbtv8/debugging_network_performance_issue) - [Debugging a network performance issue in an OCaml 5 program](https://roscidus.com/blog/blog/2024/07/22/performance/)
 * [2024-12-20, 00:00:46](https://lobste.rs/s/jdgjjt/visitor_pattern_considered_pointless) - [Visitor Pattern Considered Pointless - Use Pattern Switches Instead (2021)](https://nipafx.dev/java-visitor-pattern-pointless/)
 * [2024-12-19, 22:21:11](https://lobste.rs/s/mamynb/top_python_web_development_frameworks) - [Top Python Web Development Frameworks in 2025](https://reflex.dev/blog/2024-12-20-python-comparison/)
 * [2024-12-19, 19:45:32](https://lobste.rs/s/2nygrt/elixir_v1_18_released_type_checking) - [Elixir v1.18 released: type checking of function calls, Language Server listeners, built-in JSON, and ExUnit improvements](https://elixir-lang.org/blog/2024/12/19/elixir-v1-18-0-released/)
@@ -23,7 +24,6 @@
 * [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 22:06:56](https://lobste.rs/s/ecg7sy/announcing_chapel_2_3) - [Announcing Chapel 2.3](https://chapel-lang.org/blog/posts/announcing-chapel-2.3/)
 * [2024-12-18, 21:08:19](https://lobste.rs/s/6ohuan/interactive_lustre_tutorial_on_gleam) - [Interactive Lustre tutorial on Gleam tours](https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/)
-* [2024-12-18, 14:03:39](https://lobste.rs/s/r5khln/home_manager_dotfiles_management) - [Home Manager: dotfiles management](https://gvolpe.com/blog/home-manager-dotfiles-management/)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 
 ## [Archives](archives/index.md)
