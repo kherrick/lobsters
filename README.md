@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 16:47:53](https://lobste.rs/s/hmgsin/cd_pipeline_manifesto) - [The CD Pipeline Manifesto](https://manifesto.getglu.dev/)
 * [2024-12-20, 15:22:30](https://lobste.rs/s/ouvo2l/poetry_core_ultimate_footgun) - [Poetry(-core), or the ultimate footgun](https://blogs.gentoo.org/mgorny/2024/12/20/poetry-core-or-the-ultimate-footgun/)
 * [2024-12-20, 15:14:52](https://lobste.rs/s/kbot2h/zephyr_based_camera_trap_for_seagrass) - [A Zephyr-based camera trap for seagrass monitoring](https://lwn.net/Articles/998893/)
 * [2024-12-20, 14:18:53](https://lobste.rs/s/n8atz0/from_net_rpc_grpc_go_applications) - [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/)
@@ -24,7 +25,6 @@
 * [2024-12-19, 10:38:51](https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns) - [Go advanced concurrency patterns: unlimited buffer channels](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/)
 * [2024-12-19, 09:28:19](https://lobste.rs/s/blg0vs/ram_myth) - [The RAM myth](https://purplesyringa.moe/blog/the-ram-myth/)
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
-* [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 
 ## [Archives](archives/index.md)
 
