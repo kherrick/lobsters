@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 08:30:26](https://lobste.rs/s/sl3l10/pragmatic_category_theory_part_3) - [Pragmatic Category Theory | Part 3: Associativity](https://chshersh.com/blog/2024-12-20-pragmatic-category-theory-part-03.html)
 * [2024-12-20, 08:26:54](https://lobste.rs/s/8utgbj/lisp_expression_replacements_with_query) - [Lisp expression replacements with query-regexp-replace](https://breatheoutbreathe.in/blog/2024-12-19-query-regexp-replace-lisp-replacement.html)
 * [2024-12-20, 08:25:39](https://lobste.rs/s/zzr4iu/how_mirror_worg_hyperdrive) - [How to mirror worg to a hyperdrive](https://breatheoutbreathe.in/blog/2024-12-16-mirror-worg-to-a-hyperdrive.html)
 * [2024-12-20, 06:31:13](https://lobste.rs/s/xynhcy/my_favourite_colour_is_chuck_norris_red) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
