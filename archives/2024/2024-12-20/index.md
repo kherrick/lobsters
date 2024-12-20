@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 15:22:30](https://lobste.rs/s/ouvo2l/poetry_core_ultimate_footgun) - [Poetry(-core), or the ultimate footgun](https://blogs.gentoo.org/mgorny/2024/12/20/poetry-core-or-the-ultimate-footgun/)
 * [2024-12-20, 15:14:52](https://lobste.rs/s/kbot2h/zephyr_based_camera_trap_for_seagrass) - [A Zephyr-based camera trap for seagrass monitoring](https://lwn.net/Articles/998893/)
 * [2024-12-20, 14:18:53](https://lobste.rs/s/n8atz0/from_net_rpc_grpc_go_applications) - [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/)
 * [2024-12-20, 14:14:00](https://lobste.rs/s/yygpjf/optimize_your_shell_experience) - [Optimize your shell experience](https://thoughtbot.com/blog/optimize-your-shell-experience)
