@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 12:54:12](https://lobste.rs/s/thcudm/writing_testing_paginated_api_iterator) - [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 * [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 * [2024-12-20, 11:34:40](https://lobste.rs/s/fbb1lw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fbb1lw/what_are_you_doing_this_weekend)
 * [2024-12-20, 10:31:21](https://lobste.rs/s/onyn3r/cargo_testdox_turns_your_rust_tests_into) - [cargo-testdox turns your Rust tests into docs](https://github.com/bitfield/cargo-testdox)
