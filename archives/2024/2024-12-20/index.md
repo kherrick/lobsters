@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-20](index.md)
 
+* [2024-12-20, 17:23:03](https://lobste.rs/s/l05xsl/long_winding_road_safe_browser_based) - [The long and winding road to safe browser-based cryptography](https://securedrop.org/news/browser-based-cryptography/)
 * [2024-12-20, 16:47:53](https://lobste.rs/s/hmgsin/cd_pipeline_manifesto) - [The CD Pipeline Manifesto](https://manifesto.getglu.dev/)
 * [2024-12-20, 15:22:30](https://lobste.rs/s/ouvo2l/poetry_core_ultimate_footgun) - [Poetry(-core), or the ultimate footgun](https://blogs.gentoo.org/mgorny/2024/12/20/poetry-core-or-the-ultimate-footgun/)
 * [2024-12-20, 15:14:52](https://lobste.rs/s/kbot2h/zephyr_based_camera_trap_for_seagrass) - [A Zephyr-based camera trap for seagrass monitoring](https://lwn.net/Articles/998893/)
