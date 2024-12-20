@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-20, 16:47:53",
+      "https://lobste.rs/s/hmgsin/cd_pipeline_manifesto"
+    ],
+    [
+      "The CD Pipeline Manifesto",
+      "https://manifesto.getglu.dev/"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 15:22:30",
       "https://lobste.rs/s/ouvo2l/poetry_core_ultimate_footgun"
     ],
@@ -237,16 +247,6 @@
     [
       "fish-shell 4.0b1, now in Rust",
       "https://fishshell.com/blog/fish-4b/"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 22:11:59",
-      "https://lobste.rs/s/v2makc/java_small"
-    ],
-    [
-      "Java in the Small",
-      "https://horstmann.com/unblog/2024-12-11/index.html"
     ]
   ]
 ]
