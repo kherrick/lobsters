@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 23:26:47](https://lobste.rs/s/in3iic/raycaster_bash) - [a raycaster in bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:58:08](https://lobste.rs/s/bjunyg/hexagon_page_animations) - [Hexagon page animations](https://www.redblobgames.com/blog/2024-12-16-hexagon-page-animations/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
@@ -9,7 +10,6 @@
 * [2024-12-20, 17:23:03](https://lobste.rs/s/l05xsl/long_winding_road_safe_browser_based) - [The long and winding road to safe browser-based cryptography](https://securedrop.org/news/browser-based-cryptography/)
 * [2024-12-20, 16:47:53](https://lobste.rs/s/hmgsin/cd_pipeline_manifesto) - [The CD Pipeline Manifesto](https://manifesto.getglu.dev/)
 * [2024-12-20, 15:22:30](https://lobste.rs/s/ouvo2l/poetry_core_ultimate_footgun) - [Poetry(-core), or the ultimate footgun](https://blogs.gentoo.org/mgorny/2024/12/20/poetry-core-or-the-ultimate-footgun/)
-* [2024-12-20, 14:18:53](https://lobste.rs/s/n8atz0/from_net_rpc_grpc_go_applications) - [From net/rpc to gRPC in Go Applications](https://victoriametrics.com/blog/go-net-rpc/)
 * [2024-12-20, 14:14:00](https://lobste.rs/s/yygpjf/optimize_your_shell_experience) - [Optimize your shell experience](https://thoughtbot.com/blog/optimize-your-shell-experience)
 * [2024-12-20, 12:54:12](https://lobste.rs/s/thcudm/writing_testing_paginated_api_iterator) - [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 * [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
