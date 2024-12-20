@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 04:56:29](https://lobste.rs/s/jr0saj/puppet_fork_is_coming_voting_for_project) - [A Puppet fork is coming; voting for a project name is active](https://github.com/OpenPuppetProject/planning/discussions/9)
 * [2024-12-20, 02:57:51](https://lobste.rs/s/pbbtv8/debugging_network_performance_issue) - [Debugging a network performance issue in an OCaml 5 program](https://roscidus.com/blog/blog/2024/07/22/performance/)
 * [2024-12-20, 00:00:46](https://lobste.rs/s/jdgjjt/visitor_pattern_considered_pointless) - [Visitor Pattern Considered Pointless - Use Pattern Switches Instead (2021)](https://nipafx.dev/java-visitor-pattern-pointless/)
 * [2024-12-19, 22:21:11](https://lobste.rs/s/mamynb/top_python_web_development_frameworks) - [Top Python Web Development Frameworks in 2025](https://reflex.dev/blog/2024-12-20-python-comparison/)
@@ -22,7 +23,6 @@
 * [2024-12-19, 00:24:29](https://lobste.rs/s/2ynbrx/piccolo_os_small_multitasking_os_for) - [Piccolo OS, a small multitasking OS for the Raspberry Pi Pico](https://github.com/garyexplains/piccolo_os_v1)
 * [2024-12-18, 22:57:33](https://lobste.rs/s/cfsp1v/why_we_re_moving_source_available_license) - [Why We’re Moving to a Source Available License](https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/)
 * [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
-* [2024-12-18, 22:06:56](https://lobste.rs/s/ecg7sy/announcing_chapel_2_3) - [Announcing Chapel 2.3](https://chapel-lang.org/blog/posts/announcing-chapel-2.3/)
 * [2024-12-18, 21:08:19](https://lobste.rs/s/6ohuan/interactive_lustre_tutorial_on_gleam) - [Interactive Lustre tutorial on Gleam tours](https://gleamtours.com/lustre-tutorial/introduction/welcome-to-lustre/)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 
