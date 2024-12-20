@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 09:50:53](https://lobste.rs/s/3om9b9/we_have_google_drive_at_home_musings_on) - [We Have Google Drive at Home: Musings on Merkle-Tree Based File Sharing](https://www.dolthub.com/blog/2024-12-19-merkle-trees-for-file-systems/)
 * [2024-12-20, 08:30:26](https://lobste.rs/s/sl3l10/pragmatic_category_theory_part_3) - [Pragmatic Category Theory | Part 3: Associativity](https://chshersh.com/blog/2024-12-20-pragmatic-category-theory-part-03.html)
 * [2024-12-20, 08:26:54](https://lobste.rs/s/8utgbj/lisp_expression_replacements_with_query) - [Lisp expression replacements with query-regexp-replace](https://breatheoutbreathe.in/blog/2024-12-19-query-regexp-replace-lisp-replacement.html)
 * [2024-12-20, 08:25:39](https://lobste.rs/s/zzr4iu/how_mirror_worg_hyperdrive) - [How to mirror worg to a hyperdrive](https://breatheoutbreathe.in/blog/2024-12-16-mirror-worg-to-a-hyperdrive.html)
@@ -22,7 +23,6 @@
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 * [2024-12-19, 08:36:49](https://lobste.rs/s/vjhls8/half_my_life_with_perl) - [Half My Life with Perl](https://perladvent.org/2024/2024-12-19.html)
 * [2024-12-19, 02:05:44](https://lobste.rs/s/f9a6vj/announcing_netbsd_10_1_dec_16_2024) - [Announcing NetBSD 10.1 (Dec 16, 2024)](https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html)
-* [2024-12-18, 22:57:33](https://lobste.rs/s/cfsp1v/why_we_re_moving_source_available_license) - [Why We’re Moving to a Source Available License](https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/)
 * [2024-12-18, 22:11:59](https://lobste.rs/s/v2makc/java_small) - [Java in the Small](https://horstmann.com/unblog/2024-12-11/index.html)
 * [2024-12-18, 01:27:38](https://lobste.rs/s/c3dbkh/survey_system_languages_2024) - [A Survey Of System Languages (2024)](https://wiki.alopex.li/SurveyOfSystemLanguages2024)
 
