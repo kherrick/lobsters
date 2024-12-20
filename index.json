@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-20, 09:50:53",
+      "https://lobste.rs/s/3om9b9/we_have_google_drive_at_home_musings_on"
+    ],
+    [
+      "We Have Google Drive at Home: Musings on Merkle-Tree Based File Sharing",
+      "https://www.dolthub.com/blog/2024-12-19-merkle-trees-for-file-systems/"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 08:30:26",
       "https://lobste.rs/s/sl3l10/pragmatic_category_theory_part_3"
     ],
@@ -217,16 +227,6 @@
     [
       "Announcing NetBSD 10.1 (Dec 16, 2024)",
       "https://www.netbsd.org/releases/formal-10/NetBSD-10.1.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 22:57:33",
-      "https://lobste.rs/s/cfsp1v/why_we_re_moving_source_available_license"
-    ],
-    [
-      "Why We’re Moving to a Source Available License",
-      "https://www.scylladb.com/2024/12/18/why-were-moving-to-a-source-available-license/"
     ]
   ],
   [
