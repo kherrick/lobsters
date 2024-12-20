@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-20, 12:54:12",
+      "https://lobste.rs/s/thcudm/writing_testing_paginated_api_iterator"
+    ],
+    [
+      "Writing & Testing a Paginated API Iterator in Go",
+      "https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 12:20:57",
       "https://lobste.rs/s/ptlefv/enum_arrays"
     ],
@@ -237,16 +247,6 @@
     [
       "Java in the Small",
       "https://horstmann.com/unblog/2024-12-11/index.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-18, 01:27:38",
-      "https://lobste.rs/s/c3dbkh/survey_system_languages_2024"
-    ],
-    [
-      "A Survey Of System Languages (2024)",
-      "https://wiki.alopex.li/SurveyOfSystemLanguages2024"
     ]
   ]
 ]
