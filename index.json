@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-20, 14:14:00",
+      "https://lobste.rs/s/yygpjf/optimize_your_shell_experience"
+    ],
+    [
+      "Optimize your shell experience",
+      "https://thoughtbot.com/blog/optimize-your-shell-experience"
+    ]
+  ],
+  [
+    [
       "2024-12-20, 12:54:12",
       "https://lobste.rs/s/thcudm/writing_testing_paginated_api_iterator"
     ],
@@ -227,16 +237,6 @@
     [
       "fish-shell 4.0b1, now in Rust",
       "https://fishshell.com/blog/fish-4b/"
-    ]
-  ],
-  [
-    [
-      "2024-12-19, 08:36:49",
-      "https://lobste.rs/s/vjhls8/half_my_life_with_perl"
-    ],
-    [
-      "Half My Life with Perl",
-      "https://perladvent.org/2024/2024-12-19.html"
     ]
   ],
   [
