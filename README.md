@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:58:08](https://lobste.rs/s/bjunyg/hexagon_page_animations) - [Hexagon page animations](https://www.redblobgames.com/blog/2024-12-16-hexagon-page-animations/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
 * [2024-12-20, 19:53:40](https://lobste.rs/s/ysf899/phantom_menace_memory_leak_wasn_t_there) - [Phantom Menace: memory leak that wasn't there](https://flakm.com/posts/phantom_leak/)
@@ -22,7 +23,6 @@
 * [2024-12-20, 02:57:51](https://lobste.rs/s/pbbtv8/debugging_network_performance_issue) - [Debugging a network performance issue in an OCaml 5 program](https://roscidus.com/blog/blog/2024/07/22/performance/)
 * [2024-12-20, 00:00:46](https://lobste.rs/s/jdgjjt/visitor_pattern_considered_pointless) - [Visitor Pattern Considered Pointless - Use Pattern Switches Instead (2021)](https://nipafx.dev/java-visitor-pattern-pointless/)
 * [2024-12-19, 19:45:32](https://lobste.rs/s/2nygrt/elixir_v1_18_released_type_checking) - [Elixir v1.18 released: type checking of function calls, Language Server listeners, built-in JSON, and ExUnit improvements](https://elixir-lang.org/blog/2024/12/19/elixir-v1-18-0-released/)
-* [2024-12-19, 18:46:22](https://lobste.rs/s/ztyd1z/intel_80376_legacy_free_i386_with_twist) - [The Intel 80376 – a Legacy-Free i386 (with a Twist!) (2010)](https://www.pagetable.com/?p=460)
 * [2024-12-19, 13:28:33](https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
 
