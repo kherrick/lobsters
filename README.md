@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-20, 11:34:40](https://lobste.rs/s/fbb1lw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fbb1lw/what_are_you_doing_this_weekend)
 * [2024-12-20, 10:31:21](https://lobste.rs/s/onyn3r/cargo_testdox_turns_your_rust_tests_into) - [cargo-testdox turns your Rust tests into docs](https://github.com/bitfield/cargo-testdox)
 * [2024-12-20, 10:05:32](https://lobste.rs/s/cv6v1o/era_open_voice_assistants_has_arrived) - [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-20, 09:50:53](https://lobste.rs/s/3om9b9/we_have_google_drive_at_home_musings_on) - [We Have Google Drive at Home: Musings on Merkle-Tree Based File Sharing](https://www.dolthub.com/blog/2024-12-19-merkle-trees-for-file-systems/)
@@ -16,7 +17,6 @@
 * [2024-12-19, 16:14:47](https://lobste.rs/s/oclya6/building_python_tools_with_one_shot) - [Building Python tools with a one-shot prompt using uv run and Claude Projects](https://simonwillison.net/2024/Dec/19/one-shot-python-tools/)
 * [2024-12-19, 15:42:55](https://lobste.rs/s/lty4cx/grype_vulnerability_scanner_for) - [grype: A vulnerability scanner for container images and filesystems](https://github.com/anchore/grype)
 * [2024-12-19, 13:28:33](https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
-* [2024-12-19, 12:22:06](https://lobste.rs/s/1a876y/shared_nothing_design_seastar) - [Shared-nothing Design - Seastar](https://seastar.io/shared-nothing/)
 * [2024-12-19, 10:51:16](https://lobste.rs/s/5fggij/1981_interlisp_d_demonstration_by_beau) - [(1981) Interlisp-D Demonstration by Beau Sheil](https://youtu.be/cKjFJDZmWNM)
 * [2024-12-19, 10:38:51](https://lobste.rs/s/ivqvm8/go_advanced_concurrency_patterns) - [Go advanced concurrency patterns: unlimited buffer channels](https://blogtitle.github.io/go-advanced-concurrency-patterns-part-4-unlimited-buffer-channels/)
 * [2024-12-19, 09:28:19](https://lobste.rs/s/blg0vs/ram_myth) - [The RAM myth](https://purplesyringa.moe/blog/the-ram-myth/)
