@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-21, 19:31:11",
+      "https://lobste.rs/s/ab2rnz/implementing_raft_part_5_exactly_once"
+    ],
+    [
+      "Implementing Raft: Part 5 - Exactly-once delivery",
+      "https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/"
+    ]
+  ],
+  [
+    [
       "2024-12-21, 18:58:53",
       "https://lobste.rs/s/lojpwf/state_javascript_2024"
     ],
@@ -167,16 +177,6 @@
     [
       "Phantom Menace: memory leak that wasn't there",
       "https://flakm.com/posts/phantom_leak/"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 19:20:41",
-      "https://lobste.rs/s/ti2lli/candyfab_diy_3d_sugar_printer"
-    ],
-    [
-      "CandyFab: A DIY 3D Sugar Printer",
-      "https://candyfab.org/"
     ]
   ],
   [
