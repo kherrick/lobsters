@@ -2,6 +2,7 @@
 
 * [2024-12-21, 01:18:48](https://lobste.rs/s/dol0n4/rules_avoid_common_extended_inline) - [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
 * [2024-12-21, 00:12:43](https://lobste.rs/s/1xised/compiling_c_safe_rust_formalized) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
+* [2024-12-20, 23:39:32](https://lobste.rs/s/dcs7mk/dos_append_command) - [DOS APPEND command](https://www.os2museum.com/wp/dos-append/)
 * [2024-12-20, 23:26:47](https://lobste.rs/s/in3iic/raycaster_bash) - [a raycaster in bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:58:08](https://lobste.rs/s/bjunyg/hexagon_page_animations) - [Hexagon page animations](https://www.redblobgames.com/blog/2024-12-16-hexagon-page-animations/)
@@ -21,7 +22,6 @@
 * [2024-12-20, 09:50:53](https://lobste.rs/s/3om9b9/we_have_google_drive_at_home_musings_on) - [We Have Google Drive at Home: Musings on Merkle-Tree Based File Sharing](https://www.dolthub.com/blog/2024-12-19-merkle-trees-for-file-systems/)
 * [2024-12-20, 08:30:26](https://lobste.rs/s/sl3l10/pragmatic_category_theory_part_3) - [Pragmatic Category Theory | Part 3: Associativity](https://chshersh.com/blog/2024-12-20-pragmatic-category-theory-part-03.html)
 * [2024-12-20, 06:31:13](https://lobste.rs/s/xynhcy/my_favourite_colour_is_chuck_norris_red) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
-* [2024-12-20, 00:00:46](https://lobste.rs/s/jdgjjt/visitor_pattern_considered_pointless) - [Visitor Pattern Considered Pointless - Use Pattern Switches Instead (2021)](https://nipafx.dev/java-visitor-pattern-pointless/)
 * [2024-12-19, 19:45:32](https://lobste.rs/s/2nygrt/elixir_v1_18_released_type_checking) - [Elixir v1.18 released: type checking of function calls, Language Server listeners, built-in JSON, and ExUnit improvements](https://elixir-lang.org/blog/2024/12/19/elixir-v1-18-0-released/)
 * [2024-12-19, 13:28:33](https://lobste.rs/s/7cbbsv/how_do_you_do_fellow_web_developers) - [How do you do, fellow web developers? A growing disconnect](https://rakhim.exotext.com/web-developers-a-growing-disconnect)
 * [2024-12-19, 08:59:24](https://lobste.rs/s/h40bir/fish_shell_4_0b1_now_rust) - [fish-shell 4.0b1, now in Rust](https://fishshell.com/blog/fish-4b/)
