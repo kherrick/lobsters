@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 17:21:41](https://lobste.rs/s/6tkpil/ascending_mount_fujinet) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-21, 16:26:39](https://lobste.rs/s/layveu/plan_9_is_bicycle) - [Plan 9 is a bicycle](https://liam-on-linux.dreamwidth.org/93196.html)
 * [2024-12-21, 16:26:04](https://lobste.rs/s/t5b9u8/understanding_objective_c) - [Understanding Objective-C bytranspiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
 * [2024-12-21, 16:23:31](https://lobste.rs/s/llc5t7/cramming_scrapscript_into_msgpack) - [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
