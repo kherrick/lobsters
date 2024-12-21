@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-21, 23:52:00](https://lobste.rs/s/ympdqn/making_website_is_hard) - [making a website is hard](https://blog.cathoderaydude.com/doku.php?id=blog:making_a_website_is_hard)
 * [2024-12-21, 21:06:42](https://lobste.rs/s/h6fmdw/sortcheck_tool_for_detecting_violations) - [sortcheck: Tool for detecting violations of ordering axioms in qsort/bsearch callbacks](https://github.com/yugr/sortcheck)
 * [2024-12-21, 20:25:15](https://lobste.rs/s/onzxyh/introducing_s2_log_made_serverless) - [Introducing S2: The Log – made serverless](https://s2.dev/blog/intro)
 * [2024-12-21, 19:35:18](https://lobste.rs/s/pt1p9w/nix_is_build_system) - [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
@@ -16,7 +17,6 @@
 * [2024-12-21, 09:53:24](https://lobste.rs/s/addwag/three_web_views_for_common_lisp_build) - [Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame](https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/)
 * [2024-12-21, 01:18:48](https://lobste.rs/s/dol0n4/rules_avoid_common_extended_inline) - [Rules to avoid common extended inline assembly mistakes](https://nullprogram.com/blog/2024/12/20/)
 * [2024-12-21, 00:12:43](https://lobste.rs/s/1xised/compiling_c_safe_rust_formalized) - [Compiling C to Safe Rust, Formalized](https://arxiv.org/abs/2412.15042)
-* [2024-12-20, 23:39:32](https://lobste.rs/s/dcs7mk/dos_append_command) - [DOS APPEND command](https://www.os2museum.com/wp/dos-append/)
 * [2024-12-20, 23:26:47](https://lobste.rs/s/in3iic/raycaster_bash) - [a raycaster in bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
