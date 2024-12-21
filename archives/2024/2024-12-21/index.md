@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 21:06:42](https://lobste.rs/s/h6fmdw/sortcheck_tool_for_detecting_violations) - [sortcheck: Tool for detecting violations of ordering axioms in qsort/bsearch callbacks](https://github.com/yugr/sortcheck)
 * [2024-12-21, 20:25:15](https://lobste.rs/s/onzxyh/introducing_s2_log_made_serverless) - [Introducing S2: The Log – made serverless](https://s2.dev/blog/intro)
 * [2024-12-21, 19:35:18](https://lobste.rs/s/pt1p9w/nix_is_build_system) - [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
 * [2024-12-21, 19:31:11](https://lobste.rs/s/ab2rnz/implementing_raft_part_5_exactly_once) - [Implementing Raft: Part 5 - Exactly-once delivery](https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/)
