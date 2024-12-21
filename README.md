@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-21, 18:58:53](https://lobste.rs/s/lojpwf/state_javascript_2024) - [State of JavaScript 2024](https://2024.stateofjs.com/)
+* [2024-12-21, 18:56:24](https://lobste.rs/s/aa5wdo/pride_versioning) - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
+* [2024-12-21, 18:53:59](https://lobste.rs/s/wrvciq/openai_o3_breakthrough_high_score_on_arc) - [OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-21, 17:21:41](https://lobste.rs/s/6tkpil/ascending_mount_fujinet) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-21, 16:26:39](https://lobste.rs/s/layveu/plan_9_is_bicycle) - [Plan 9 is a bicycle](https://liam-on-linux.dreamwidth.org/93196.html)
 * [2024-12-21, 16:26:04](https://lobste.rs/s/t5b9u8/understanding_objective_c) - [Understanding Objective-C bytranspiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
@@ -12,7 +15,6 @@
 * [2024-12-20, 23:39:32](https://lobste.rs/s/dcs7mk/dos_append_command) - [DOS APPEND command](https://www.os2museum.com/wp/dos-append/)
 * [2024-12-20, 23:26:47](https://lobste.rs/s/in3iic/raycaster_bash) - [a raycaster in bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
-* [2024-12-20, 20:58:08](https://lobste.rs/s/bjunyg/hexagon_page_animations) - [Hexagon page animations](https://www.redblobgames.com/blog/2024-12-16-hexagon-page-animations/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
 * [2024-12-20, 19:53:40](https://lobste.rs/s/ysf899/phantom_menace_memory_leak_wasn_t_there) - [Phantom Menace: memory leak that wasn't there](https://flakm.com/posts/phantom_leak/)
 * [2024-12-20, 19:20:41](https://lobste.rs/s/ti2lli/candyfab_diy_3d_sugar_printer) - [CandyFab: A DIY 3D Sugar Printer](https://candyfab.org/)
@@ -21,8 +23,6 @@
 * [2024-12-20, 14:14:00](https://lobste.rs/s/yygpjf/optimize_your_shell_experience) - [Optimize your shell experience](https://thoughtbot.com/blog/optimize-your-shell-experience)
 * [2024-12-20, 12:54:12](https://lobste.rs/s/thcudm/writing_testing_paginated_api_iterator) - [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 * [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
-* [2024-12-20, 11:34:40](https://lobste.rs/s/fbb1lw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/fbb1lw/what_are_you_doing_this_weekend)
-* [2024-12-20, 10:05:32](https://lobste.rs/s/cv6v1o/era_open_voice_assistants_has_arrived) - [The era of open voice assistants has arrived](https://www.home-assistant.io/blog/2024/12/19/voice-preview-edition-the-era-of-open-voice/)
 * [2024-12-20, 08:30:26](https://lobste.rs/s/sl3l10/pragmatic_category_theory_part_3) - [Pragmatic Category Theory | Part 3: Associativity](https://chshersh.com/blog/2024-12-20-pragmatic-category-theory-part-03.html)
 * [2024-12-20, 06:31:13](https://lobste.rs/s/xynhcy/my_favourite_colour_is_chuck_norris_red) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 
