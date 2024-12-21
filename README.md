@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-21, 19:35:18](https://lobste.rs/s/pt1p9w/nix_is_build_system) - [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
 * [2024-12-21, 19:31:11](https://lobste.rs/s/ab2rnz/implementing_raft_part_5_exactly_once) - [Implementing Raft: Part 5 - Exactly-once delivery](https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/)
 * [2024-12-21, 18:58:53](https://lobste.rs/s/lojpwf/state_javascript_2024) - [State of JavaScript 2024](https://2024.stateofjs.com/)
 * [2024-12-21, 18:56:24](https://lobste.rs/s/aa5wdo/pride_versioning) - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
@@ -17,13 +18,12 @@
 * [2024-12-20, 23:26:47](https://lobste.rs/s/in3iic/raycaster_bash) - [a raycaster in bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
-* [2024-12-20, 19:53:40](https://lobste.rs/s/ysf899/phantom_menace_memory_leak_wasn_t_there) - [Phantom Menace: memory leak that wasn't there](https://flakm.com/posts/phantom_leak/)
+* [2024-12-20, 19:20:41](https://lobste.rs/s/ti2lli/candyfab_diy_3d_sugar_printer) - [CandyFab: A DIY 3D Sugar Printer](https://candyfab.org/)
 * [2024-12-20, 18:16:15](https://lobste.rs/s/twzn9n/rivet_actors_cloudflare_durable_objects) - [Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates](https://github.com/rivet-gg/rivet)
 * [2024-12-20, 16:47:53](https://lobste.rs/s/hmgsin/cd_pipeline_manifesto) - [The CD Pipeline Manifesto](https://manifesto.getglu.dev/)
 * [2024-12-20, 14:14:00](https://lobste.rs/s/yygpjf/optimize_your_shell_experience) - [Optimize your shell experience](https://thoughtbot.com/blog/optimize-your-shell-experience)
 * [2024-12-20, 12:54:12](https://lobste.rs/s/thcudm/writing_testing_paginated_api_iterator) - [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)
 * [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
-* [2024-12-20, 08:30:26](https://lobste.rs/s/sl3l10/pragmatic_category_theory_part_3) - [Pragmatic Category Theory | Part 3: Associativity](https://chshersh.com/blog/2024-12-20-pragmatic-category-theory-part-03.html)
 * [2024-12-20, 06:31:13](https://lobste.rs/s/xynhcy/my_favourite_colour_is_chuck_norris_red) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 
 ## [Archives](archives/index.md)
