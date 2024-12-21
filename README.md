@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-21, 16:23:31](https://lobste.rs/s/llc5t7/cramming_scrapscript_into_msgpack) - [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
 * [2024-12-21, 13:21:43](https://lobste.rs/s/ayiyce/spreadsheets_1_3_rye_language) - [Spreadsheets 1/3 - Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 * [2024-12-21, 09:53:24](https://lobste.rs/s/addwag/three_web_views_for_common_lisp_build) - [Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame](https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/)
@@ -13,7 +14,6 @@
 * [2024-12-20, 19:53:40](https://lobste.rs/s/ysf899/phantom_menace_memory_leak_wasn_t_there) - [Phantom Menace: memory leak that wasn't there](https://flakm.com/posts/phantom_leak/)
 * [2024-12-20, 19:20:41](https://lobste.rs/s/ti2lli/candyfab_diy_3d_sugar_printer) - [CandyFab: A DIY 3D Sugar Printer](https://candyfab.org/)
 * [2024-12-20, 18:16:15](https://lobste.rs/s/twzn9n/rivet_actors_cloudflare_durable_objects) - [Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates](https://github.com/rivet-gg/rivet)
-* [2024-12-20, 17:23:03](https://lobste.rs/s/l05xsl/long_winding_road_safe_browser_based) - [The long and winding road to safe browser-based cryptography](https://securedrop.org/news/browser-based-cryptography/)
 * [2024-12-20, 16:47:53](https://lobste.rs/s/hmgsin/cd_pipeline_manifesto) - [The CD Pipeline Manifesto](https://manifesto.getglu.dev/)
 * [2024-12-20, 14:14:00](https://lobste.rs/s/yygpjf/optimize_your_shell_experience) - [Optimize your shell experience](https://thoughtbot.com/blog/optimize-your-shell-experience)
 * [2024-12-20, 12:54:12](https://lobste.rs/s/thcudm/writing_testing_paginated_api_iterator) - [Writing & Testing a Paginated API Iterator in Go](https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 16:23:31](https://lobste.rs/s/llc5t7/cramming_scrapscript_into_msgpack) - [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
 * [2024-12-21, 13:21:43](https://lobste.rs/s/ayiyce/spreadsheets_1_3_rye_language) - [Spreadsheets 1/3 - Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 * [2024-12-21, 09:53:24](https://lobste.rs/s/addwag/three_web_views_for_common_lisp_build) - [Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame](https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/)
