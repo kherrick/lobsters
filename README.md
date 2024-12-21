@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-21, 19:31:11](https://lobste.rs/s/ab2rnz/implementing_raft_part_5_exactly_once) - [Implementing Raft: Part 5 - Exactly-once delivery](https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/)
 * [2024-12-21, 18:58:53](https://lobste.rs/s/lojpwf/state_javascript_2024) - [State of JavaScript 2024](https://2024.stateofjs.com/)
 * [2024-12-21, 18:56:24](https://lobste.rs/s/aa5wdo/pride_versioning) - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
 * [2024-12-21, 18:53:59](https://lobste.rs/s/wrvciq/openai_o3_breakthrough_high_score_on_arc) - [OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
@@ -17,7 +18,6 @@
 * [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
 * [2024-12-20, 19:53:40](https://lobste.rs/s/ysf899/phantom_menace_memory_leak_wasn_t_there) - [Phantom Menace: memory leak that wasn't there](https://flakm.com/posts/phantom_leak/)
-* [2024-12-20, 19:20:41](https://lobste.rs/s/ti2lli/candyfab_diy_3d_sugar_printer) - [CandyFab: A DIY 3D Sugar Printer](https://candyfab.org/)
 * [2024-12-20, 18:16:15](https://lobste.rs/s/twzn9n/rivet_actors_cloudflare_durable_objects) - [Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates](https://github.com/rivet-gg/rivet)
 * [2024-12-20, 16:47:53](https://lobste.rs/s/hmgsin/cd_pipeline_manifesto) - [The CD Pipeline Manifesto](https://manifesto.getglu.dev/)
 * [2024-12-20, 14:14:00](https://lobste.rs/s/yygpjf/optimize_your_shell_experience) - [Optimize your shell experience](https://thoughtbot.com/blog/optimize-your-shell-experience)

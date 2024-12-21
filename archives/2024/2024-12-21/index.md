@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-21](index.md)
 
+* [2024-12-21, 19:31:11](https://lobste.rs/s/ab2rnz/implementing_raft_part_5_exactly_once) - [Implementing Raft: Part 5 - Exactly-once delivery](https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/)
 * [2024-12-21, 18:58:53](https://lobste.rs/s/lojpwf/state_javascript_2024) - [State of JavaScript 2024](https://2024.stateofjs.com/)
 * [2024-12-21, 18:56:24](https://lobste.rs/s/aa5wdo/pride_versioning) - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
 * [2024-12-21, 18:53:59](https://lobste.rs/s/wrvciq/openai_o3_breakthrough_high_score_on_arc) - [OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
