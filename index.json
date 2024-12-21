@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-21, 20:25:15",
+      "https://lobste.rs/s/onzxyh/introducing_s2_log_made_serverless"
+    ],
+    [
+      "Introducing S2: The Log – made serverless",
+      "https://s2.dev/blog/intro"
+    ]
+  ],
+  [
+    [
       "2024-12-21, 19:35:18",
       "https://lobste.rs/s/pt1p9w/nix_is_build_system"
     ],
@@ -177,16 +187,6 @@
     [
       "The jank programming language",
       "https://compiler-research.org/blogs/jank_intro/"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 19:20:41",
-      "https://lobste.rs/s/ti2lli/candyfab_diy_3d_sugar_printer"
-    ],
-    [
-      "CandyFab: A DIY 3D Sugar Printer",
-      "https://candyfab.org/"
     ]
   ],
   [
