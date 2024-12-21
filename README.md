@@ -8,7 +8,7 @@
 * [2024-12-21, 18:53:59](https://lobste.rs/s/wrvciq/openai_o3_breakthrough_high_score_on_arc) - [OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-21, 17:21:41](https://lobste.rs/s/6tkpil/ascending_mount_fujinet) - [Ascending Mount FujiNet](https://www.leadedsolder.com/2024/12/17/coco-fujinet.html)
 * [2024-12-21, 16:26:39](https://lobste.rs/s/layveu/plan_9_is_bicycle) - [Plan 9 is a bicycle](https://liam-on-linux.dreamwidth.org/93196.html)
-* [2024-12-21, 16:26:04](https://lobste.rs/s/t5b9u8/understanding_objective_c) - [Understanding Objective-C bytranspiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
+* [2024-12-21, 16:26:04](https://lobste.rs/s/t5b9u8/understanding_objective_c_by) - [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
 * [2024-12-21, 16:23:31](https://lobste.rs/s/llc5t7/cramming_scrapscript_into_msgpack) - [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
 * [2024-12-21, 13:21:43](https://lobste.rs/s/ayiyce/spreadsheets_1_3_rye_language) - [Spreadsheets 1/3 - Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
