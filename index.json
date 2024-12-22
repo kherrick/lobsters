@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2024-12-21, 21:06:42",
-      "https://lobste.rs/s/h6fmdw/sortcheck_tool_for_detecting_violations"
-    ],
-    [
-      "sortcheck: Tool for detecting violations of ordering axioms in qsort/bsearch callbacks",
-      "https://github.com/yugr/sortcheck"
-    ]
-  ],
-  [
-    [
       "2024-12-21, 20:25:15",
       "https://lobste.rs/s/onzxyh/introducing_s2_log_made_serverless"
     ],
@@ -187,6 +177,16 @@
     [
       "Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame",
       "https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/"
+    ]
+  ],
+  [
+    [
+      "2024-12-21, 01:18:48",
+      "https://lobste.rs/s/dol0n4/rules_avoid_common_extended_inline"
+    ],
+    [
+      "Rules to avoid common extended inline assembly mistakes",
+      "https://nullprogram.com/blog/2024/12/20/"
     ]
   ],
   [
