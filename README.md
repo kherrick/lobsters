@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-22, 10:34:48](https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source) - [Do Not Fix Bugs Reported in Your Open Source Projects](https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html)
+* [2024-12-22, 10:32:32](https://lobste.rs/s/4mjnvk/four_limitations_rust_s_borrow_checker) - [Four limitations of Rust’s borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
 * [2024-12-22, 09:21:36](https://lobste.rs/s/puva6i/sqlite_directory) - [sqlite.directory](https://sqlite.directory/)
 * [2024-12-22, 06:32:43](https://lobste.rs/s/blzppi/let_s_build_snake_with_rust_2020) - [Let's Build Snake with Rust (2020)](https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html)
 * [2024-12-22, 05:48:11](https://lobste.rs/s/uce19n/uis_should_be_versioned_just_like_we) - [UIs Should Be Versioned, Just Like We Version APIs](http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html)
-* [2024-12-22, 03:42:35](https://lobste.rs/s/4qyhmv/ideas_from_philosophy_software_design) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
 * [2024-12-22, 02:04:40](https://lobste.rs/s/dt1y67/synchronous_reading_with_friends) - [Synchronous Reading with Friends](https://www.rhotter.com/posts/synchronous-reading)
 * [2024-12-22, 01:02:04](https://lobste.rs/s/sa2swf/o1_technical_primer) - [o1: A Technical Primer](https://www.lesswrong.com/posts/byNYzsfFmb2TpYFPW/o1-a-technical-primer)
 * [2024-12-22, 00:06:04](https://lobste.rs/s/d3mfbr/darktable_5_0_0_released) - [darktable 5.0.0 released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
@@ -22,7 +23,6 @@
 * [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 * [2024-12-21, 09:53:24](https://lobste.rs/s/addwag/three_web_views_for_common_lisp_build) - [Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame](https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/)
 * [2024-12-20, 23:26:47](https://lobste.rs/s/in3iic/raycaster_bash) - [a raycaster in bash](https://github.com/izabera/pseudo3d)
-* [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
 * [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 
