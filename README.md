@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-22, 22:45:20](https://lobste.rs/s/jiqsxx/goodhart_s_law_isn_t_as_useful_as_you_might) - [Goodhart's Law Isn't as Useful as You Might Think](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-12-22, 19:48:44](https://lobste.rs/s/c41biq/hacking_life_into_my_little_counter) - [Hacking Life into My Little Counter](https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter)
 * [2024-12-22, 17:36:42](https://lobste.rs/s/zqerhk/deliver_bare_minimum) - [Deliver the Bare Minimum](https://btxx.org/posts/bare/)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
@@ -19,7 +20,6 @@
 * [2024-12-21, 19:35:18](https://lobste.rs/s/pt1p9w/nix_is_build_system) - [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
 * [2024-12-21, 18:58:53](https://lobste.rs/s/lojpwf/state_javascript_2024) - [State of JavaScript 2024](https://2024.stateofjs.com/)
 * [2024-12-21, 18:56:24](https://lobste.rs/s/aa5wdo/pride_versioning) - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
-* [2024-12-21, 18:53:59](https://lobste.rs/s/wrvciq/openai_o3_breakthrough_high_score_on_arc) - [OpenAI o3 Breakthrough High Score on ARC-AGI-Pub](https://arcprize.org/blog/oai-o3-pub-breakthrough)
 * [2024-12-21, 16:26:39](https://lobste.rs/s/layveu/plan_9_is_bicycle) - [Plan 9 is a bicycle](https://liam-on-linux.dreamwidth.org/93196.html)
 * [2024-12-21, 16:26:04](https://lobste.rs/s/t5b9u8/understanding_objective_c_by) - [Understanding Objective-C by transpiling it to C++](https://www.jviotti.com/2023/12/01/understanding-objective-c-by-transpiling-it-to-cpp.html)
 * [2024-12-21, 16:23:31](https://lobste.rs/s/llc5t7/cramming_scrapscript_into_msgpack) - [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)

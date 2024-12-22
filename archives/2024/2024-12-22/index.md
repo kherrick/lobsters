@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 22:45:20](https://lobste.rs/s/jiqsxx/goodhart_s_law_isn_t_as_useful_as_you_might) - [Goodhart's Law Isn't as Useful as You Might Think](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-12-22, 19:48:44](https://lobste.rs/s/c41biq/hacking_life_into_my_little_counter) - [Hacking Life into My Little Counter](https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter)
 * [2024-12-22, 17:36:42](https://lobste.rs/s/zqerhk/deliver_bare_minimum) - [Deliver the Bare Minimum](https://btxx.org/posts/bare/)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
