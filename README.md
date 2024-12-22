@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-22, 02:04:40](https://lobste.rs/s/dt1y67/synchronous_reading_with_friends) - [Synchronous Reading with Friends](https://www.rhotter.com/posts/synchronous-reading)
 * [2024-12-22, 01:02:04](https://lobste.rs/s/sa2swf/o1_technical_primer) - [o1: A Technical Primer](https://www.lesswrong.com/posts/byNYzsfFmb2TpYFPW/o1-a-technical-primer)
 * [2024-12-22, 00:06:04](https://lobste.rs/s/d3mfbr/darktable_5_0_0_released) - [darktable 5.0.0 released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-21, 21:06:42](https://lobste.rs/s/h6fmdw/sortcheck_tool_for_detecting_violations) - [sortcheck: Tool for detecting violations of ordering axioms in qsort/bsearch callbacks](https://github.com/yugr/sortcheck)
@@ -24,7 +25,6 @@
 * [2024-12-20, 18:16:15](https://lobste.rs/s/twzn9n/rivet_actors_cloudflare_durable_objects) - [Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates](https://github.com/rivet-gg/rivet)
 * [2024-12-20, 16:47:53](https://lobste.rs/s/hmgsin/cd_pipeline_manifesto) - [The CD Pipeline Manifesto](https://manifesto.getglu.dev/)
 * [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
-* [2024-12-20, 06:31:13](https://lobste.rs/s/xynhcy/my_favourite_colour_is_chuck_norris_red) - [My favourite colour is Chuck Norris red](https://htmhell.dev/adventcalendar/2024/20/)
 
 ## [Archives](archives/index.md)
 
