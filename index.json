@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-22, 14:44:39",
+      "https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster"
+    ],
+    [
+      "How bloom filters made SQLite 10x faster",
+      "https://avi.im/blag/2024/sqlite-past-present-future"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 13:08:11",
       "https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail"
     ],
@@ -217,16 +227,6 @@
     [
       "dropping hyper",
       "https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 09:53:24",
-      "https://lobste.rs/s/addwag/three_web_views_for_common_lisp_build"
-    ],
-    [
-      "Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame",
-      "https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/"
     ]
   ],
   [
