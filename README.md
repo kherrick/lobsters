@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-22, 09:21:36](https://lobste.rs/s/puva6i/sqlite_directory) - [sqlite.directory](https://sqlite.directory/)
 * [2024-12-22, 06:32:43](https://lobste.rs/s/blzppi/let_s_build_snake_with_rust_2020) - [Let's Build Snake with Rust (2020)](https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html)
 * [2024-12-22, 05:48:11](https://lobste.rs/s/uce19n/uis_should_be_versioned_just_like_we) - [UIs Should Be Versioned, Just Like We Version APIs](http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html)
 * [2024-12-22, 03:42:35](https://lobste.rs/s/4qyhmv/ideas_from_philosophy_software_design) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
@@ -23,7 +24,6 @@
 * [2024-12-20, 23:26:47](https://lobste.rs/s/in3iic/raycaster_bash) - [a raycaster in bash](https://github.com/izabera/pseudo3d)
 * [2024-12-20, 22:42:25](https://lobste.rs/s/klf87z/turing_machines) - [Turing Machines](https://samwho.dev/turing-machines/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
-* [2024-12-20, 18:16:15](https://lobste.rs/s/twzn9n/rivet_actors_cloudflare_durable_objects) - [Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates](https://github.com/rivet-gg/rivet)
 * [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 
 ## [Archives](archives/index.md)
