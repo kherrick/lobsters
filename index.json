@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-21, 23:52:00",
-      "https://lobste.rs/s/ympdqn/making_website_is_hard"
+      "2024-12-22, 01:02:04",
+      "https://lobste.rs/s/sa2swf/o1_technical_primer"
     ],
     [
-      "making a website is hard",
-      "https://blog.cathoderaydude.com/doku.php?id=blog:making_a_website_is_hard"
+      "o1: A Technical Primer",
+      "https://www.lesswrong.com/posts/byNYzsfFmb2TpYFPW/o1-a-technical-primer"
+    ]
+  ],
+  [
+    [
+      "2024-12-22, 00:06:04",
+      "https://lobste.rs/s/d3mfbr/darktable_5_0_0_released"
+    ],
+    [
+      "darktable 5.0.0 released",
+      "https://www.darktable.org/2024/12/darktable-5.0.0-released/"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "The CD Pipeline Manifesto",
       "https://manifesto.getglu.dev/"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 12:54:12",
-      "https://lobste.rs/s/thcudm/writing_testing_paginated_api_iterator"
-    ],
-    [
-      "Writing & Testing a Paginated API Iterator in Go",
-      "https://blog.thibaut-rousseau.com/blog/writing-testing-a-paginated-api-iterator/"
     ]
   ],
   [
