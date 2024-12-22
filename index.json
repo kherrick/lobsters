@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-22, 19:48:44",
+      "https://lobste.rs/s/c41biq/hacking_life_into_my_little_counter"
+    ],
+    [
+      "Hacking Life into My Little Counter",
+      "https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 17:36:42",
       "https://lobste.rs/s/zqerhk/deliver_bare_minimum"
     ],
@@ -237,16 +247,6 @@
     [
       "dropping hyper",
       "https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 20:21:14",
-      "https://lobste.rs/s/5gnorf/jank_programming_language"
-    ],
-    [
-      "The jank programming language",
-      "https://compiler-research.org/blogs/jank_intro/"
     ]
   ]
 ]
