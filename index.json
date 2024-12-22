@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-22, 15:08:28",
+      "https://lobste.rs/s/r2xvxu/unnecessary_optimization_rust_hamming"
+    ],
+    [
+      "Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization",
+      "https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 14:44:39",
       "https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster"
     ],
@@ -137,16 +147,6 @@
     [
       "Nix is a build system",
       "http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-21, 19:31:11",
-      "https://lobste.rs/s/ab2rnz/implementing_raft_part_5_exactly_once"
-    ],
-    [
-      "Implementing Raft: Part 5 - Exactly-once delivery",
-      "https://eli.thegreenplace.net/2024/implementing-raft-part-5-exactly-once-delivery/"
     ]
   ],
   [
