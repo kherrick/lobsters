@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-22, 09:21:36",
+      "https://lobste.rs/s/puva6i/sqlite_directory"
+    ],
+    [
+      "sqlite.directory",
+      "https://sqlite.directory/"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 06:32:43",
       "https://lobste.rs/s/blzppi/let_s_build_snake_with_rust_2020"
     ],
@@ -227,16 +237,6 @@
     [
       "The jank programming language",
       "https://compiler-research.org/blogs/jank_intro/"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 18:16:15",
-      "https://lobste.rs/s/twzn9n/rivet_actors_cloudflare_durable_objects"
-    ],
-    [
-      "Rivet Actors, Cloudflare Durable Objects-like infrastructure built with Rust, FoundationDB, V8 Isolates",
-      "https://github.com/rivet-gg/rivet"
     ]
   ],
   [
