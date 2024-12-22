@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-22, 19:48:44](https://lobste.rs/s/c41biq/hacking_life_into_my_little_counter) - [Hacking Life into My Little Counter](https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter)
 * [2024-12-22, 17:36:42](https://lobste.rs/s/zqerhk/deliver_bare_minimum) - [Deliver the Bare Minimum](https://btxx.org/posts/bare/)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 15:08:28](https://lobste.rs/s/r2xvxu/unnecessary_optimization_rust_hamming) - [Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization](https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/)
@@ -24,7 +25,6 @@
 * [2024-12-21, 16:23:31](https://lobste.rs/s/llc5t7/cramming_scrapscript_into_msgpack) - [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
 * [2024-12-21, 13:21:43](https://lobste.rs/s/ayiyce/spreadsheets_1_3_rye_language) - [Spreadsheets 1/3 - Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
-* [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
 
 ## [Archives](archives/index.md)
 
