@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 14:44:39](https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future)
 * [2024-12-22, 13:08:11](https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail) - [Why we use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 * [2024-12-22, 12:53:01](https://lobste.rs/s/uz8grj/minimilistic_log_moniitoring_system) - [Minimilistic Log Moniitoring System](https://github.com/singh47/huelogs)
 * [2024-12-22, 10:34:48](https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source) - [Do Not Fix Bugs Reported in Your Open Source Projects](https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html)

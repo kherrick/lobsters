@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-22, 14:44:39](https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future)
 * [2024-12-22, 13:08:11](https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail) - [Why we use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 * [2024-12-22, 12:53:01](https://lobste.rs/s/uz8grj/minimilistic_log_moniitoring_system) - [Minimilistic Log Moniitoring System](https://github.com/singh47/huelogs)
 * [2024-12-22, 10:34:48](https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source) - [Do Not Fix Bugs Reported in Your Open Source Projects](https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html)
@@ -22,7 +23,6 @@
 * [2024-12-21, 16:23:31](https://lobste.rs/s/llc5t7/cramming_scrapscript_into_msgpack) - [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
 * [2024-12-21, 13:21:43](https://lobste.rs/s/ayiyce/spreadsheets_1_3_rye_language) - [Spreadsheets 1/3 - Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
-* [2024-12-21, 09:53:24](https://lobste.rs/s/addwag/three_web_views_for_common_lisp_build) - [Three web views for Common Lisp: build cross platform GUIs with Electron, WebUI or CLOG Frame](https://lisp-journey.gitlab.io/blog/three-web-views-for-common-lisp--cross-platform-guis/)
 * [2024-12-20, 20:21:14](https://lobste.rs/s/5gnorf/jank_programming_language) - [The jank programming language](https://compiler-research.org/blogs/jank_intro/)
 * [2024-12-20, 12:20:57](https://lobste.rs/s/ptlefv/enum_arrays) - [Enum of Arrays](https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/)
 
