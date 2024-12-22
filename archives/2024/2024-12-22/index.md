@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-22](index.md)
 
+* [2024-12-22, 17:36:42](https://lobste.rs/s/zqerhk/deliver_bare_minimum) - [Deliver the Bare Minimum](https://btxx.org/posts/bare/)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 15:08:28](https://lobste.rs/s/r2xvxu/unnecessary_optimization_rust_hamming) - [Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization](https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/)
 * [2024-12-22, 14:44:39](https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-22, 17:36:42](https://lobste.rs/s/zqerhk/deliver_bare_minimum) - [Deliver the Bare Minimum](https://btxx.org/posts/bare/)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 15:08:28](https://lobste.rs/s/r2xvxu/unnecessary_optimization_rust_hamming) - [Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization](https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/)
 * [2024-12-22, 14:44:39](https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future)
@@ -11,7 +12,6 @@
 * [2024-12-22, 06:32:43](https://lobste.rs/s/blzppi/let_s_build_snake_with_rust_2020) - [Let's Build Snake with Rust (2020)](https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html)
 * [2024-12-22, 05:48:11](https://lobste.rs/s/uce19n/uis_should_be_versioned_just_like_we) - [UIs Should Be Versioned, Just Like We Version APIs](http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html)
 * [2024-12-22, 03:42:35](https://lobste.rs/s/4qyhmv/ideas_from_philosophy_software_design) - [Ideas from \"A Philosophy of Software Design\"](https://www.16elt.com/2024/09/25/first-book-of-byte-sized-tech/)
-* [2024-12-22, 02:04:40](https://lobste.rs/s/dt1y67/synchronous_reading_with_friends) - [Synchronous Reading with Friends](https://www.rhotter.com/posts/synchronous-reading)
 * [2024-12-22, 00:06:04](https://lobste.rs/s/d3mfbr/darktable_5_0_0_released) - [darktable 5.0.0 released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-21, 23:52:00](https://lobste.rs/s/ympdqn/making_website_is_hard) - [making a website is hard](https://blog.cathoderaydude.com/doku.php?id=blog:making_a_website_is_hard)
 * [2024-12-21, 20:25:15](https://lobste.rs/s/onzxyh/introducing_s2_log_made_serverless) - [Introducing S2: The Log – made serverless](https://s2.dev/blog/intro)
