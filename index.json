@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2024-12-22, 02:04:40",
+      "https://lobste.rs/s/dt1y67/synchronous_reading_with_friends"
+    ],
+    [
+      "Synchronous Reading with Friends",
+      "https://www.rhotter.com/posts/synchronous-reading"
+    ]
+  ],
+  [
+    [
       "2024-12-22, 01:02:04",
       "https://lobste.rs/s/sa2swf/o1_technical_primer"
     ],
@@ -237,16 +247,6 @@
     [
       "The jank programming language",
       "https://compiler-research.org/blogs/jank_intro/"
-    ]
-  ],
-  [
-    [
-      "2024-12-20, 12:20:57",
-      "https://lobste.rs/s/ptlefv/enum_arrays"
-    ],
-    [
-      "Enum of Arrays",
-      "https://tigerbeetle.com/blog/2024-12-19-enum-of-arrays/"
     ]
   ]
 ]
