@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 13:22:57](https://lobste.rs/s/iobyrs/debu_gs_try_inferno_without_installing_it) - [Debu.gs:  Try Inferno without Installing It](https://debu.gs/entries/try-inferno-without-installing-it)
 * [2024-12-23, 11:23:53](https://lobste.rs/s/mmaymi/how_collect_performance_statistics_with) - [How to collect performance statistics with Cabal](https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/)
 * [2024-12-23, 11:18:08](https://lobste.rs/s/rttzyo/formal_methods_just_good_engineering) - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
 * [2024-12-23, 10:02:24](https://lobste.rs/s/pga5c0/how_many_hours_can_you_code) - [How Many Hours Can You Code?](https://thecodist.com/how-many-hours-can-you-code/)
@@ -10,7 +11,6 @@
 * [2024-12-23, 00:17:09](https://lobste.rs/s/vld1by/fast_llm_inference_from_scratch) - [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-22, 22:45:20](https://lobste.rs/s/jiqsxx/goodhart_s_law_isn_t_as_useful_as_you_might) - [Goodhart's Law Isn't as Useful as You Might Think](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-12-22, 19:48:44](https://lobste.rs/s/c41biq/hacking_life_into_my_little_counter) - [Hacking Life into My Little Counter](https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter)
-* [2024-12-22, 17:36:42](https://lobste.rs/s/zqerhk/deliver_bare_minimum) - [Deliver the Bare Minimum](https://btxx.org/posts/bare/)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 15:08:28](https://lobste.rs/s/r2xvxu/unnecessary_optimization_rust_hamming) - [Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization](https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/)
 * [2024-12-22, 14:44:39](https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future)

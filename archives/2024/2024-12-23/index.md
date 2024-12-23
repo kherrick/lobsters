@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 13:22:57](https://lobste.rs/s/iobyrs/debu_gs_try_inferno_without_installing_it) - [Debu.gs:  Try Inferno without Installing It](https://debu.gs/entries/try-inferno-without-installing-it)
 * [2024-12-23, 11:23:53](https://lobste.rs/s/mmaymi/how_collect_performance_statistics_with) - [How to collect performance statistics with Cabal](https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/)
 * [2024-12-23, 11:18:08](https://lobste.rs/s/rttzyo/formal_methods_just_good_engineering) - [Formal Methods: Just Good Engineering Practice?](https://brooker.co.za/blog/2024/04/17/formal)
 * [2024-12-23, 10:02:24](https://lobste.rs/s/pga5c0/how_many_hours_can_you_code) - [How Many Hours Can You Code?](https://thecodist.com/how-many-hours-can-you-code/)
