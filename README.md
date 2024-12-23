@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 16:09:15](https://lobste.rs/s/3f9jfg/from_nix_eos) - [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
 * [2024-12-23, 15:38:07](https://lobste.rs/s/rnh9sy/worked_example_copy_patch_compilation) - [A worked example of copy-and-patch compilation](https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/)
 * [2024-12-23, 15:32:22](https://lobste.rs/s/6cfrnn/how_many_links_overlap_between_lobste_rs) - [How many links overlap between Lobste.rs and HN?](https://lobhn.skyshelf.app/)
 * [2024-12-23, 15:30:34](https://lobste.rs/s/lw1lae/my_colleague_julius) - [My colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
@@ -24,7 +25,6 @@
 * [2024-12-22, 10:34:48](https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source) - [Do Not Fix Bugs Reported in Your Open Source Projects](https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html)
 * [2024-12-22, 10:32:32](https://lobste.rs/s/4mjnvk/four_limitations_rust_s_borrow_checker) - [Four limitations of Rust’s borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
 * [2024-12-21, 19:35:18](https://lobste.rs/s/pt1p9w/nix_is_build_system) - [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
-* [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 
 ## [Archives](archives/index.md)
 

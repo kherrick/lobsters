@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 16:09:15](https://lobste.rs/s/3f9jfg/from_nix_eos) - [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
 * [2024-12-23, 15:38:07](https://lobste.rs/s/rnh9sy/worked_example_copy_patch_compilation) - [A worked example of copy-and-patch compilation](https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/)
 * [2024-12-23, 15:32:22](https://lobste.rs/s/6cfrnn/how_many_links_overlap_between_lobste_rs) - [How many links overlap between Lobste.rs and HN?](https://lobhn.skyshelf.app/)
 * [2024-12-23, 15:30:34](https://lobste.rs/s/lw1lae/my_colleague_julius) - [My colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
