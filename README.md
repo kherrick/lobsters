@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 21:35:24](https://lobste.rs/s/yat6wy/postmarketos_v24_12_one_with_androids) - [postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux](https://postmarketos.org/blog/2024/12/23/v24.12-release/)
 * [2024-12-23, 20:34:27](https://lobste.rs/s/c9iywi/efficient_portable_census_polymorphic) - [Efficient, Portable, Census-Polymorphic Choreographic Programming](https://arxiv.org/abs/2412.02107)
 * [2024-12-23, 18:43:01](https://lobste.rs/s/p1kt1s/how_program_chess_engine_lisp) - [How to Program a Chess Engine in Lisp](https://blog.lojic.com/2024/11/06/how-to-program-a-chess-engine-in-lisp.html)
 * [2024-12-23, 18:16:47](https://lobste.rs/s/5m6q1g/hello_emacs_tv) - [Hello emacs.tv](https://lmno.lol/alvaro/hello-emacstv)
@@ -20,7 +21,6 @@
 * [2024-12-23, 08:38:24](https://lobste.rs/s/ug1qqt/problem_driven_development) - [Problem Driven Development](https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html)
 * [2024-12-23, 05:02:45](https://lobste.rs/s/lxonor/practical_data_oriented_design) - [Practical Data Oriented Design](https://youtu.be/IroPQ150F6c?feature=shared)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
-* [2024-12-22, 15:08:28](https://lobste.rs/s/r2xvxu/unnecessary_optimization_rust_hamming) - [Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization](https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/)
 * [2024-12-22, 14:44:39](https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future)
 * [2024-12-22, 13:08:11](https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail) - [Why we use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 * [2024-12-22, 10:34:48](https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source) - [Do Not Fix Bugs Reported in Your Open Source Projects](https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html)
