@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 16:30:09](https://lobste.rs/s/icvubz/c_is_absolute_blast) - [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
+* [2024-12-23, 16:24:22](https://lobste.rs/s/qcdaoa/ssh_oauth_like_service_for_cli_apps) - [Ssh Oauth-like service for CLI apps](https://keypub.sh)
 * [2024-12-23, 16:09:15](https://lobste.rs/s/3f9jfg/from_nix_eos) - [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
 * [2024-12-23, 15:38:07](https://lobste.rs/s/rnh9sy/worked_example_copy_patch_compilation) - [A worked example of copy-and-patch compilation](https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/)
 * [2024-12-23, 15:32:22](https://lobste.rs/s/6cfrnn/how_many_links_overlap_between_lobste_rs) - [How many links overlap between Lobste.rs and HN?](https://lobhn.skyshelf.app/)
@@ -15,7 +17,6 @@
 * [2024-12-23, 08:38:24](https://lobste.rs/s/ug1qqt/problem_driven_development) - [Problem Driven Development](https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html)
 * [2024-12-23, 05:02:45](https://lobste.rs/s/lxonor/practical_data_oriented_design) - [Practical Data Oriented Design](https://youtu.be/IroPQ150F6c?feature=shared)
 * [2024-12-23, 03:56:22](https://lobste.rs/s/9nu4r9/what_would_it_take_add_refinement_types) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
-* [2024-12-23, 00:17:09](https://lobste.rs/s/vld1by/fast_llm_inference_from_scratch) - [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
 * [2024-12-22, 22:45:20](https://lobste.rs/s/jiqsxx/goodhart_s_law_isn_t_as_useful_as_you_might) - [Goodhart's Law Isn't as Useful as You Might Think](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-12-22, 19:48:44](https://lobste.rs/s/c41biq/hacking_life_into_my_little_counter) - [Hacking Life into My Little Counter](https://www.joshbeckman.org/blog/breathing-life-into-my-little-counter)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
@@ -24,7 +25,6 @@
 * [2024-12-22, 13:08:11](https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail) - [Why we use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 * [2024-12-22, 10:34:48](https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source) - [Do Not Fix Bugs Reported in Your Open Source Projects](https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html)
 * [2024-12-22, 10:32:32](https://lobste.rs/s/4mjnvk/four_limitations_rust_s_borrow_checker) - [Four limitations of Rust’s borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
-* [2024-12-21, 19:35:18](https://lobste.rs/s/pt1p9w/nix_is_build_system) - [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
 
 ## [Archives](archives/index.md)
 

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 16:30:09](https://lobste.rs/s/icvubz/c_is_absolute_blast) - [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
+* [2024-12-23, 16:24:22](https://lobste.rs/s/qcdaoa/ssh_oauth_like_service_for_cli_apps) - [Ssh Oauth-like service for CLI apps](https://keypub.sh)
 * [2024-12-23, 16:09:15](https://lobste.rs/s/3f9jfg/from_nix_eos) - [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
 * [2024-12-23, 15:38:07](https://lobste.rs/s/rnh9sy/worked_example_copy_patch_compilation) - [A worked example of copy-and-patch compilation](https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/)
 * [2024-12-23, 15:32:22](https://lobste.rs/s/6cfrnn/how_many_links_overlap_between_lobste_rs) - [How many links overlap between Lobste.rs and HN?](https://lobhn.skyshelf.app/)
