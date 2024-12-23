@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 18:43:01](https://lobste.rs/s/p1kt1s/how_program_chess_engine_lisp) - [How to Program a Chess Engine in Lisp](https://blog.lojic.com/2024/11/06/how-to-program-a-chess-engine-in-lisp.html)
 * [2024-12-23, 18:16:47](https://lobste.rs/s/5m6q1g/hello_emacs_tv) - [Hello emacs.tv](https://lmno.lol/alvaro/hello-emacstv)
-* [2024-12-23, 17:53:42](https://lobste.rs/s/epvgse/building_low_maintenance_community) - [Building Low-Maintenance Community Websites](https://anjackson.net/2024/12/06/building-low-maintenance-community-websites/)
 * [2024-12-23, 16:30:09](https://lobste.rs/s/icvubz/c_is_absolute_blast) - [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 16:24:22](https://lobste.rs/s/qcdaoa/ssh_oauth_like_service_for_cli_apps) - [Ssh Oauth-like service for CLI apps](https://keypub.sh)
 * [2024-12-23, 16:09:15](https://lobste.rs/s/3f9jfg/from_nix_eos) - [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
