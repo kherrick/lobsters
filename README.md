@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 08:38:24](https://lobste.rs/s/ug1qqt/problem_driven_development) - [Problem Driven Development](https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html)
 * [2024-12-23, 05:02:45](https://lobste.rs/s/lxonor/practical_data_oriented_design) - [Practical Data Oriented Design](https://youtu.be/IroPQ150F6c?feature=shared)
 * [2024-12-23, 03:56:22](https://lobste.rs/s/9nu4r9/what_would_it_take_add_refinement_types) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-23, 00:17:09](https://lobste.rs/s/vld1by/fast_llm_inference_from_scratch) - [Fast LLM Inference From Scratch](https://andrewkchan.dev/posts/yalm.html)
@@ -16,7 +17,6 @@
 * [2024-12-22, 06:32:43](https://lobste.rs/s/blzppi/let_s_build_snake_with_rust_2020) - [Let's Build Snake with Rust (2020)](https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html)
 * [2024-12-22, 05:48:11](https://lobste.rs/s/uce19n/uis_should_be_versioned_just_like_we) - [UIs Should Be Versioned, Just Like We Version APIs](http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html)
 * [2024-12-22, 00:06:04](https://lobste.rs/s/d3mfbr/darktable_5_0_0_released) - [darktable 5.0.0 released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
-* [2024-12-21, 23:52:00](https://lobste.rs/s/ympdqn/making_website_is_hard) - [making a website is hard](https://blog.cathoderaydude.com/doku.php?id=blog:making_a_website_is_hard)
 * [2024-12-21, 20:25:15](https://lobste.rs/s/onzxyh/introducing_s2_log_made_serverless) - [Introducing S2: The Log – made serverless](https://s2.dev/blog/intro)
 * [2024-12-21, 19:35:18](https://lobste.rs/s/pt1p9w/nix_is_build_system) - [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
 * [2024-12-21, 18:58:53](https://lobste.rs/s/lojpwf/state_javascript_2024) - [State of JavaScript 2024](https://2024.stateofjs.com/)
