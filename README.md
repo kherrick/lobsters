@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 15:19:52](https://lobste.rs/s/tanvcm/making_trello_clone_using_htmx) - [Making a Trello clone using htmx](https://www.erikheemskerk.nl/htmx-trello-clone/)
 * [2024-12-23, 14:27:39](https://lobste.rs/s/o4yb62/tour_webauthn) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-23, 13:22:57](https://lobste.rs/s/iobyrs/debu_gs_try_inferno_without_installing_it) - [Debu.gs:  Try Inferno without Installing It](https://debu.gs/entries/try-inferno-without-installing-it)
 * [2024-12-23, 11:23:53](https://lobste.rs/s/mmaymi/how_collect_performance_statistics_with) - [How to collect performance statistics with Cabal](https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/)
@@ -21,7 +22,6 @@
 * [2024-12-22, 09:21:36](https://lobste.rs/s/puva6i/sqlite_directory) - [sqlite.directory](https://sqlite.directory/)
 * [2024-12-22, 05:48:11](https://lobste.rs/s/uce19n/uis_should_be_versioned_just_like_we) - [UIs Should Be Versioned, Just Like We Version APIs](http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html)
 * [2024-12-22, 00:06:04](https://lobste.rs/s/d3mfbr/darktable_5_0_0_released) - [darktable 5.0.0 released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
-* [2024-12-21, 20:25:15](https://lobste.rs/s/onzxyh/introducing_s2_log_made_serverless) - [Introducing S2: The Log – made serverless](https://s2.dev/blog/intro)
 * [2024-12-21, 19:35:18](https://lobste.rs/s/pt1p9w/nix_is_build_system) - [Nix is a build system](http://www.chriswarbo.net/blog/2024-05-24-nix_build_system.html)
 * [2024-12-21, 18:56:24](https://lobste.rs/s/aa5wdo/pride_versioning) - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
 * [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)

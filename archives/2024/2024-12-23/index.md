@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 15:19:52](https://lobste.rs/s/tanvcm/making_trello_clone_using_htmx) - [Making a Trello clone using htmx](https://www.erikheemskerk.nl/htmx-trello-clone/)
 * [2024-12-23, 14:27:39](https://lobste.rs/s/o4yb62/tour_webauthn) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-23, 13:22:57](https://lobste.rs/s/iobyrs/debu_gs_try_inferno_without_installing_it) - [Debu.gs:  Try Inferno without Installing It](https://debu.gs/entries/try-inferno-without-installing-it)
 * [2024-12-23, 11:23:53](https://lobste.rs/s/mmaymi/how_collect_performance_statistics_with) - [How to collect performance statistics with Cabal](https://blog.haskell.org/how-to-collect-performance-statistics-with-cabal/)
