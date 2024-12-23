@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 10:02:24](https://lobste.rs/s/pga5c0/how_many_hours_can_you_code) - [How Many Hours Can You Code?](https://thecodist.com/how-many-hours-can-you-code/)
+* [2024-12-23, 10:01:05](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week)
 * [2024-12-23, 08:38:24](https://lobste.rs/s/ug1qqt/problem_driven_development) - [Problem Driven Development](https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html)
 * [2024-12-23, 05:02:45](https://lobste.rs/s/lxonor/practical_data_oriented_design) - [Practical Data Oriented Design](https://youtu.be/IroPQ150F6c?feature=shared)
 * [2024-12-23, 03:56:22](https://lobste.rs/s/9nu4r9/what_would_it_take_add_refinement_types) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
@@ -14,7 +16,6 @@
 * [2024-12-22, 10:34:48](https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source) - [Do Not Fix Bugs Reported in Your Open Source Projects](https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html)
 * [2024-12-22, 10:32:32](https://lobste.rs/s/4mjnvk/four_limitations_rust_s_borrow_checker) - [Four limitations of Rust’s borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
 * [2024-12-22, 09:21:36](https://lobste.rs/s/puva6i/sqlite_directory) - [sqlite.directory](https://sqlite.directory/)
-* [2024-12-22, 06:32:43](https://lobste.rs/s/blzppi/let_s_build_snake_with_rust_2020) - [Let's Build Snake with Rust (2020)](https://blog.scottlogic.com/2020/10/08/lets-build-snake-with-rust.html)
 * [2024-12-22, 05:48:11](https://lobste.rs/s/uce19n/uis_should_be_versioned_just_like_we) - [UIs Should Be Versioned, Just Like We Version APIs](http://okayfail.com/garden/uis-should-be-versioned-just-like-we-version-apis.html)
 * [2024-12-22, 00:06:04](https://lobste.rs/s/d3mfbr/darktable_5_0_0_released) - [darktable 5.0.0 released](https://www.darktable.org/2024/12/darktable-5.0.0-released/)
 * [2024-12-21, 20:25:15](https://lobste.rs/s/onzxyh/introducing_s2_log_made_serverless) - [Introducing S2: The Log – made serverless](https://s2.dev/blog/intro)
@@ -22,7 +23,6 @@
 * [2024-12-21, 18:58:53](https://lobste.rs/s/lojpwf/state_javascript_2024) - [State of JavaScript 2024](https://2024.stateofjs.com/)
 * [2024-12-21, 18:56:24](https://lobste.rs/s/aa5wdo/pride_versioning) - [Pride Versioning](https://mastodon.online/@nikitonsky/113691789641950263)
 * [2024-12-21, 16:26:39](https://lobste.rs/s/layveu/plan_9_is_bicycle) - [Plan 9 is a bicycle](https://liam-on-linux.dreamwidth.org/93196.html)
-* [2024-12-21, 16:23:31](https://lobste.rs/s/llc5t7/cramming_scrapscript_into_msgpack) - [Cramming scrapscript into msgpack](https://taylor.town/flat-scraps-000)
 * [2024-12-21, 13:21:43](https://lobste.rs/s/ayiyce/spreadsheets_1_3_rye_language) - [Spreadsheets 1/3 - Rye Language](https://ryelang.org/cookbook/working-with/spreadsheets/)
 * [2024-12-21, 11:02:04](https://lobste.rs/s/4czo0b/dropping_hyper) - [dropping hyper](https://daniel.haxx.se/blog/2024/12/21/dropping-hyper/)
 

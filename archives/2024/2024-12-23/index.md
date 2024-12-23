@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 10:02:24](https://lobste.rs/s/pga5c0/how_many_hours_can_you_code) - [How Many Hours Can You Code?](https://thecodist.com/how-many-hours-can-you-code/)
+* [2024-12-23, 10:01:05](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week)
 * [2024-12-23, 08:38:24](https://lobste.rs/s/ug1qqt/problem_driven_development) - [Problem Driven Development](https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html)
 * [2024-12-23, 05:02:45](https://lobste.rs/s/lxonor/practical_data_oriented_design) - [Practical Data Oriented Design](https://youtu.be/IroPQ150F6c?feature=shared)
 * [2024-12-23, 03:56:22](https://lobste.rs/s/9nu4r9/what_would_it_take_add_refinement_types) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
