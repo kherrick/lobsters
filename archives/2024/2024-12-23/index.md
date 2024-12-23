@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-23](index.md)
 
+* [2024-12-23, 22:46:50](https://lobste.rs/s/cezvjq/what_are_you_doing) - [What are you doing?](https://jarvispowered.com/what-are-you-doing/)
 * [2024-12-23, 21:35:24](https://lobste.rs/s/yat6wy/postmarketos_v24_12_one_with_androids) - [postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux](https://postmarketos.org/blog/2024/12/23/v24.12-release/)
 * [2024-12-23, 20:34:27](https://lobste.rs/s/c9iywi/efficient_portable_census_polymorphic) - [Efficient, Portable, Census-Polymorphic Choreographic Programming](https://arxiv.org/abs/2412.02107)
 * [2024-12-23, 18:43:01](https://lobste.rs/s/p1kt1s/how_program_chess_engine_lisp) - [How to Program a Chess Engine in Lisp](https://blog.lojic.com/2024/11/06/how-to-program-a-chess-engine-in-lisp.html)

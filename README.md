@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 22:46:50](https://lobste.rs/s/cezvjq/what_are_you_doing) - [What are you doing?](https://jarvispowered.com/what-are-you-doing/)
 * [2024-12-23, 21:35:24](https://lobste.rs/s/yat6wy/postmarketos_v24_12_one_with_androids) - [postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux](https://postmarketos.org/blog/2024/12/23/v24.12-release/)
 * [2024-12-23, 20:34:27](https://lobste.rs/s/c9iywi/efficient_portable_census_polymorphic) - [Efficient, Portable, Census-Polymorphic Choreographic Programming](https://arxiv.org/abs/2412.02107)
 * [2024-12-23, 18:43:01](https://lobste.rs/s/p1kt1s/how_program_chess_engine_lisp) - [How to Program a Chess Engine in Lisp](https://blog.lojic.com/2024/11/06/how-to-program-a-chess-engine-in-lisp.html)
@@ -24,7 +25,6 @@
 * [2024-12-22, 14:44:39](https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future)
 * [2024-12-22, 13:08:11](https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail) - [Why we use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 * [2024-12-22, 10:34:48](https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source) - [Do Not Fix Bugs Reported in Your Open Source Projects](https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html)
-* [2024-12-22, 10:32:32](https://lobste.rs/s/4mjnvk/four_limitations_rust_s_borrow_checker) - [Four limitations of Rust’s borrow checker](https://blog.polybdenum.com/2024/12/21/four-limitations-of-rust-s-borrow-checker.html)
 
 ## [Archives](archives/index.md)
 
