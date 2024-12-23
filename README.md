@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-23, 18:16:47](https://lobste.rs/s/5m6q1g/hello_emacs_tv) - [Hello emacs.tv](https://lmno.lol/alvaro/hello-emacstv)
 * [2024-12-23, 17:53:42](https://lobste.rs/s/epvgse/building_low_maintenance_community) - [Building Low-Maintenance Community Websites](https://anjackson.net/2024/12/06/building-low-maintenance-community-websites/)
 * [2024-12-23, 16:30:09](https://lobste.rs/s/icvubz/c_is_absolute_blast) - [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 16:24:22](https://lobste.rs/s/qcdaoa/ssh_oauth_like_service_for_cli_apps) - [Ssh Oauth-like service for CLI apps](https://keypub.sh)
@@ -17,7 +18,6 @@
 * [2024-12-23, 10:01:05](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week)
 * [2024-12-23, 08:38:24](https://lobste.rs/s/ug1qqt/problem_driven_development) - [Problem Driven Development](https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html)
 * [2024-12-23, 05:02:45](https://lobste.rs/s/lxonor/practical_data_oriented_design) - [Practical Data Oriented Design](https://youtu.be/IroPQ150F6c?feature=shared)
-* [2024-12-23, 03:56:22](https://lobste.rs/s/9nu4r9/what_would_it_take_add_refinement_types) - [What would it take to add refinement types to Rust?](https://yoric.github.io/post/rust-refinement-types/)
 * [2024-12-22, 22:45:20](https://lobste.rs/s/jiqsxx/goodhart_s_law_isn_t_as_useful_as_you_might) - [Goodhart's Law Isn't as Useful as You Might Think](https://commoncog.com/goodharts-law-not-useful/)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 15:08:28](https://lobste.rs/s/r2xvxu/unnecessary_optimization_rust_hamming) - [Unnecessary Optimization in Rust: Hamming Distances, SIMD, and Auto-Vectorization](https://emschwartz.me/unnecessary-optimization-in-rust-hamming-distances-simd-and-auto-vectorization/)
