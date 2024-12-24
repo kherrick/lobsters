@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 20:51:19](https://lobste.rs/s/ypx58r/symbolic_execution_by_overloading_bool) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 * [2024-12-24, 20:25:59](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my) - [Merry Everything and Happy Holidays my favorite crustaceans](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my)
 * [2024-12-24, 18:24:44](https://lobste.rs/s/tyujib/twice_chrome_extension_asking_you_think) - [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
 * [2024-12-24, 16:38:41](https://lobste.rs/s/hrkb76/debian_s_approach_rust_dependency) - [Debian’s approach to Rust - Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
