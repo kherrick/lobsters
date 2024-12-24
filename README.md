@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-24, 22:36:35](https://lobste.rs/s/qepnve/simdized_check_which_bytes_are_set) - [SIMDized check which bytes are in a set](http://0x80.pl/notesen/2018-10-18-simd-byte-lookup.html)
 * [2024-12-24, 22:29:30](https://lobste.rs/s/m88upk/tiny_challenges_for_learning) - [Tiny challenges for learning WebAssembly](https://github.com/danprince/webassembly-wizardry)
 * [2024-12-24, 21:25:20](https://lobste.rs/s/3uffew/serpent_os_enters_alpha) - [Serpent OS Enters Alpha](https://www.phoronix.com/news/Serpent-OS-Alpha-Christmas)
 * [2024-12-24, 20:51:19](https://lobste.rs/s/ypx58r/symbolic_execution_by_overloading_bool) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
@@ -8,6 +9,7 @@
 * [2024-12-24, 16:38:41](https://lobste.rs/s/hrkb76/debian_s_approach_rust_dependency) - [Debian’s approach to Rust - Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 * [2024-12-24, 11:11:37](https://lobste.rs/s/a5wfid/context_generic_programming) - [Context-Generic Programming](https://contextgeneric.dev/)
 * [2024-12-24, 04:28:45](https://lobste.rs/s/icjnvo/controlling_nondeterminism_model_based) - [Controlling Nondeterminism in Model-Based Tests with Prophecy Variables](https://concerningquality.com/prophecy-variables/)
+* [2024-12-24, 02:24:27](https://lobste.rs/s/nwyzvi/abc_learning_alphabet_with_java) - [ABC: Learning The Alphabet with Java Annotations](https://serce.me/posts/23-12-2024-abc-learning-the-alphabet-with-java-annotations)
 * [2024-12-24, 02:15:20](https://lobste.rs/s/0rkppl/why_is_gcc_better_than_clang) - [Why is GCC Better Than Clang?](https://www.youtube.com/watch?v=4P32EFClwuo)
 * [2024-12-24, 00:57:09](https://lobste.rs/s/chofar/lock_files_considered_harmful) - [Lock Files Considered Harmful](http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html)
 * [2024-12-23, 22:46:50](https://lobste.rs/s/cezvjq/what_are_you_doing) - [What are you doing?](https://jarvispowered.com/what-are-you-doing/)
@@ -23,8 +25,6 @@
 * [2024-12-23, 15:19:52](https://lobste.rs/s/tanvcm/making_trello_clone_using_htmx) - [Making a Trello clone using htmx](https://www.erikheemskerk.nl/htmx-trello-clone/)
 * [2024-12-23, 14:27:39](https://lobste.rs/s/o4yb62/tour_webauthn) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-23, 10:02:24](https://lobste.rs/s/pga5c0/how_many_hours_can_you_code) - [How Many Hours Can You Code?](https://thecodist.com/how-many-hours-can-you-code/)
-* [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
-* [2024-12-22, 13:08:11](https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail) - [Why we use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
 
 ## [Archives](archives/index.md)
 

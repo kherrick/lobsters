@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-24](index.md)
 
+* [2024-12-24, 22:36:35](https://lobste.rs/s/qepnve/simdized_check_which_bytes_are_set) - [SIMDized check which bytes are in a set](http://0x80.pl/notesen/2018-10-18-simd-byte-lookup.html)
 * [2024-12-24, 22:29:30](https://lobste.rs/s/m88upk/tiny_challenges_for_learning) - [Tiny challenges for learning WebAssembly](https://github.com/danprince/webassembly-wizardry)
 * [2024-12-24, 21:25:20](https://lobste.rs/s/3uffew/serpent_os_enters_alpha) - [Serpent OS Enters Alpha](https://www.phoronix.com/news/Serpent-OS-Alpha-Christmas)
 * [2024-12-24, 20:51:19](https://lobste.rs/s/ypx58r/symbolic_execution_by_overloading_bool) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
