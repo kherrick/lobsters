@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-24, 20:25:59](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my) - [Merry Everything and Happy Holidays my favorite crustaceans](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my)
 * [2024-12-24, 18:24:44](https://lobste.rs/s/tyujib/twice_chrome_extension_asking_you_think) - [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
 * [2024-12-24, 16:38:41](https://lobste.rs/s/hrkb76/debian_s_approach_rust_dependency) - [Debian’s approach to Rust - Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 * [2024-12-24, 11:11:37](https://lobste.rs/s/a5wfid/context_generic_programming) - [Context-Generic Programming](https://contextgeneric.dev/)
@@ -20,7 +21,6 @@
 * [2024-12-23, 15:24:43](https://lobste.rs/s/m9jgxf/application_blackbox) - [Application blackbox](https://dxuuu.xyz/blackbox.html)
 * [2024-12-23, 15:19:52](https://lobste.rs/s/tanvcm/making_trello_clone_using_htmx) - [Making a Trello clone using htmx](https://www.erikheemskerk.nl/htmx-trello-clone/)
 * [2024-12-23, 14:27:39](https://lobste.rs/s/o4yb62/tour_webauthn) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
-* [2024-12-23, 13:22:57](https://lobste.rs/s/iobyrs/debu_gs_try_inferno_without_installing_it) - [Debu.gs:  Try Inferno without Installing It](https://debu.gs/entries/try-inferno-without-installing-it)
 * [2024-12-23, 10:02:24](https://lobste.rs/s/pga5c0/how_many_hours_can_you_code) - [How Many Hours Can You Code?](https://thecodist.com/how-many-hours-can-you-code/)
 * [2024-12-23, 10:01:05](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
