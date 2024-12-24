@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-24, 04:28:45",
+      "https://lobste.rs/s/icjnvo/controlling_nondeterminism_model_based"
+    ],
+    [
+      "Controlling Nondeterminism in Model-Based Tests with Prophecy Variables",
+      "https://concerningquality.com/prophecy-variables/"
+    ]
+  ],
+  [
+    [
       "2024-12-24, 02:24:27",
       "https://lobste.rs/s/nwyzvi/abc_learning_alphabet_with_java"
     ],
@@ -237,16 +247,6 @@
     [
       "Why we use our own hardware at Fastmail",
       "https://www.fastmail.com/blog/why-we-use-our-own-hardware/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 10:34:48",
-      "https://lobste.rs/s/blzx51/do_not_fix_bugs_reported_your_open_source"
-    ],
-    [
-      "Do Not Fix Bugs Reported in Your Open Source Projects",
-      "https://code.dblock.org/2024/12/19/do-not-fix-bugs-reported-in-your-open-source-projects.html"
     ]
   ]
 ]
