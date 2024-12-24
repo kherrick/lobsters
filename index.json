@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-24, 22:36:35",
+      "https://lobste.rs/s/qepnve/simdized_check_which_bytes_are_set"
+    ],
+    [
+      "SIMDized check which bytes are in a set",
+      "http://0x80.pl/notesen/2018-10-18-simd-byte-lookup.html"
+    ]
+  ],
+  [
+    [
       "2024-12-24, 22:29:30",
       "https://lobste.rs/s/m88upk/tiny_challenges_for_learning"
     ],
@@ -77,6 +87,16 @@
     [
       "Controlling Nondeterminism in Model-Based Tests with Prophecy Variables",
       "https://concerningquality.com/prophecy-variables/"
+    ]
+  ],
+  [
+    [
+      "2024-12-24, 02:24:27",
+      "https://lobste.rs/s/nwyzvi/abc_learning_alphabet_with_java"
+    ],
+    [
+      "ABC: Learning The Alphabet with Java Annotations",
+      "https://serce.me/posts/23-12-2024-abc-learning-the-alphabet-with-java-annotations"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "How Many Hours Can You Code?",
       "https://thecodist.com/how-many-hours-can-you-code/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 17:13:25",
-      "https://lobste.rs/s/l8qwot/on_long_term_software_development"
-    ],
-    [
-      "On Long Term Software Development",
-      "https://berthub.eu/articles/posts/on-long-term-software-development/"
-    ]
-  ],
-  [
-    [
-      "2024-12-22, 13:08:11",
-      "https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail"
-    ],
-    [
-      "Why we use our own hardware at Fastmail",
-      "https://www.fastmail.com/blog/why-we-use-our-own-hardware/"
     ]
   ]
 ]
