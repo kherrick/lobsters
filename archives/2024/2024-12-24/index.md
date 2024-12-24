@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2024](../index.md)
+
+### [Archives](../../index.md) for [2024-12-24](index.md)
+
+* [2024-12-24, 00:57:09](https://lobste.rs/s/chofar/lock_files_considered_harmful) - [Lock Files Considered Harmful](http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html)

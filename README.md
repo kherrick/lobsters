@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-24, 00:57:09](https://lobste.rs/s/chofar/lock_files_considered_harmful) - [Lock Files Considered Harmful](http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html)
 * [2024-12-23, 22:46:50](https://lobste.rs/s/cezvjq/what_are_you_doing) - [What are you doing?](https://jarvispowered.com/what-are-you-doing/)
 * [2024-12-23, 21:35:24](https://lobste.rs/s/yat6wy/postmarketos_v24_12_one_with_androids) - [postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux](https://postmarketos.org/blog/2024/12/23/v24.12-release/)
 * [2024-12-23, 20:34:27](https://lobste.rs/s/c9iywi/efficient_portable_census_polymorphic) - [Efficient, Portable, Census-Polymorphic Choreographic Programming](https://arxiv.org/abs/2412.02107)
@@ -20,7 +21,6 @@
 * [2024-12-23, 10:02:24](https://lobste.rs/s/pga5c0/how_many_hours_can_you_code) - [How Many Hours Can You Code?](https://thecodist.com/how-many-hours-can-you-code/)
 * [2024-12-23, 10:01:05](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t8qymz/what_are_you_doing_this_week)
 * [2024-12-23, 08:38:24](https://lobste.rs/s/ug1qqt/problem_driven_development) - [Problem Driven Development](https://staysaasy.com/engineering/2024/12/17/problem-driven-development.html)
-* [2024-12-23, 05:02:45](https://lobste.rs/s/lxonor/practical_data_oriented_design) - [Practical Data Oriented Design](https://youtu.be/IroPQ150F6c?feature=shared)
 * [2024-12-22, 17:13:25](https://lobste.rs/s/l8qwot/on_long_term_software_development) - [On Long Term Software Development](https://berthub.eu/articles/posts/on-long-term-software-development/)
 * [2024-12-22, 14:44:39](https://lobste.rs/s/swgkyh/how_bloom_filters_made_sqlite_10x_faster) - [How bloom filters made SQLite 10x faster](https://avi.im/blag/2024/sqlite-past-present-future)
 * [2024-12-22, 13:08:11](https://lobste.rs/s/fnf6ho/why_we_use_our_own_hardware_at_fastmail) - [Why we use our own hardware at Fastmail](https://www.fastmail.com/blog/why-we-use-our-own-hardware/)
