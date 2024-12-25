@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-25, 00:40:08](https://lobste.rs/s/6tttxz/cashing_on_gif_by_charging_royalties) - [Cashing in on GIF by charging royalties](https://dfarq.homeip.net/cashing-in-on-gif-by-charging-royalties/)
 * [2024-12-24, 22:36:35](https://lobste.rs/s/qepnve/simdized_check_which_bytes_are_set) - [SIMDized check which bytes are in a set](http://0x80.pl/notesen/2018-10-18-simd-byte-lookup.html)
 * [2024-12-24, 22:29:30](https://lobste.rs/s/m88upk/tiny_challenges_for_learning) - [Tiny challenges for learning WebAssembly](https://github.com/danprince/webassembly-wizardry)
 * [2024-12-24, 21:25:20](https://lobste.rs/s/3uffew/serpent_os_enters_alpha) - [Serpent OS Enters Alpha](https://www.phoronix.com/news/Serpent-OS-Alpha-Christmas)
@@ -16,7 +17,6 @@
 * [2024-12-23, 21:35:24](https://lobste.rs/s/yat6wy/postmarketos_v24_12_one_with_androids) - [postmarketOS v24.12: The One With Androids & Cameras, But It's Mainline Linux](https://postmarketos.org/blog/2024/12/23/v24.12-release/)
 * [2024-12-23, 18:16:47](https://lobste.rs/s/5m6q1g/hello_emacs_tv) - [Hello emacs.tv](https://lmno.lol/alvaro/hello-emacstv)
 * [2024-12-23, 16:30:09](https://lobste.rs/s/icvubz/c_is_absolute_blast) - [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
-* [2024-12-23, 16:24:22](https://lobste.rs/s/qcdaoa/ssh_oauth_like_service_for_cli_apps) - [Ssh Oauth-like service for CLI apps](https://keypub.sh)
 * [2024-12-23, 16:09:15](https://lobste.rs/s/3f9jfg/from_nix_eos) - [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
 * [2024-12-23, 15:38:07](https://lobste.rs/s/rnh9sy/worked_example_copy_patch_compilation) - [A worked example of copy-and-patch compilation](https://scot.tg/2024/12/22/worked-example-of-copy-and-patch-compilation/)
 * [2024-12-23, 15:32:22](https://lobste.rs/s/6cfrnn/how_many_links_overlap_between_lobste_rs) - [How many links overlap between Lobste.rs and HN?](https://lobhn.skyshelf.app/)
