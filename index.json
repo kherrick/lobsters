@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-25, 04:32:04",
+      "https://lobste.rs/s/mmqtaq/2024_state_adelie_linux_distribution"
+    ],
+    [
+      "2024 State of the Adélie Linux Distribution",
+      "https://blog.adelielinux.org/2024/12/24/2024-state-of-the-adelie-linux-distribution/"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 03:29:20",
       "https://lobste.rs/s/90djfu/ai_generated_tools_can_make_programming"
     ],
@@ -237,16 +247,6 @@
     [
       "Application blackbox",
       "https://dxuuu.xyz/blackbox.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-23, 15:19:52",
-      "https://lobste.rs/s/tanvcm/making_trello_clone_using_htmx"
-    ],
-    [
-      "Making a Trello clone using htmx",
-      "https://www.erikheemskerk.nl/htmx-trello-clone/"
     ]
   ]
 ]
