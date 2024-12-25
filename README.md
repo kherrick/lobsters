@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-25, 20:43:34](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived) - [ncurses-rs has been archived](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived)
 * [2024-12-25, 20:35:47](https://lobste.rs/s/tgihfq/into_cps_never_return) - [Into CPS, never to return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 18:19:05](https://lobste.rs/s/3rwtf2/150_papers_for_software_engineers) - [150 papers for Software Engineers](https://github.com/facundoolano/software-papers)
 * [2024-12-25, 17:25:29](https://lobste.rs/s/1ifgkk/ibm_christmas_virus_1987) - [IBM Christmas Virus (1987)](http://catless.ncl.ac.uk/Risks/5.80.html#subj1.1)
@@ -20,7 +21,6 @@
 * [2024-12-25, 02:42:26](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using) - [What custom keyboard or layout are you using?](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using)
 * [2024-12-25, 00:40:08](https://lobste.rs/s/6tttxz/cashing_on_gif_by_charging_royalties) - [Cashing in on GIF by charging royalties](https://dfarq.homeip.net/cashing-in-on-gif-by-charging-royalties/)
 * [2024-12-24, 22:29:30](https://lobste.rs/s/m88upk/tiny_challenges_for_learning) - [Tiny challenges for learning WebAssembly](https://github.com/danprince/webassembly-wizardry)
-* [2024-12-24, 21:25:20](https://lobste.rs/s/3uffew/serpent_os_enters_alpha) - [Serpent OS Enters Alpha](https://www.phoronix.com/news/Serpent-OS-Alpha-Christmas)
 * [2024-12-24, 20:51:19](https://lobste.rs/s/ypx58r/symbolic_execution_by_overloading_bool) - [Symbolic Execution by Overloading __bool__](https://www.philipzucker.com/overload_bool/)
 * [2024-12-24, 20:25:59](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my) - [Merry Everything and Happy Holidays my favorite crustaceans](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my)
 * [2024-12-24, 18:24:44](https://lobste.rs/s/tyujib/twice_chrome_extension_asking_you_think) - [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
