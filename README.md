@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-25, 11:13:54](https://lobste.rs/s/ersr1j/expanding_what_https_means) - [Expanding what HTTPS means](https://lowentropy.net/posts/local-https/)
 * [2024-12-25, 10:42:45](https://lobste.rs/s/ejhzqk/interfaces_go_simplified_with_silly) - [Interfaces in Go: Simplified with a silly Analogy](https://ashwiniag.com/interfaces-in-go-simplified-with-a-silly-analogy/)
 * [2024-12-25, 08:53:53](https://lobste.rs/s/wi4srh/b800_text) - [B800 Text](https://moddingwiki.shikadi.net/wiki/B800_Text)
 * [2024-12-25, 07:18:59](https://lobste.rs/s/leizx1/ruby_3_4_0_released) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
@@ -20,7 +21,6 @@
 * [2024-12-24, 11:11:37](https://lobste.rs/s/a5wfid/context_generic_programming) - [Context-Generic Programming](https://contextgeneric.dev/)
 * [2024-12-24, 04:28:45](https://lobste.rs/s/icjnvo/controlling_nondeterminism_model_based) - [Controlling Nondeterminism in Model-Based Tests with Prophecy Variables](https://concerningquality.com/prophecy-variables/)
 * [2024-12-24, 00:57:09](https://lobste.rs/s/chofar/lock_files_considered_harmful) - [Lock Files Considered Harmful](http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html)
-* [2024-12-23, 22:46:50](https://lobste.rs/s/cezvjq/what_are_you_doing) - [What are you doing?](https://jarvispowered.com/what-are-you-doing/)
 * [2024-12-23, 18:16:47](https://lobste.rs/s/5m6q1g/hello_emacs_tv) - [Hello emacs.tv](https://lmno.lol/alvaro/hello-emacstv)
 * [2024-12-23, 16:30:09](https://lobste.rs/s/icvubz/c_is_absolute_blast) - [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 16:09:15](https://lobste.rs/s/3f9jfg/from_nix_eos) - [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)

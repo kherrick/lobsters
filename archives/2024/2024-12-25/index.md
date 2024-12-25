@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
+* [2024-12-25, 11:13:54](https://lobste.rs/s/ersr1j/expanding_what_https_means) - [Expanding what HTTPS means](https://lowentropy.net/posts/local-https/)
 * [2024-12-25, 10:42:45](https://lobste.rs/s/ejhzqk/interfaces_go_simplified_with_silly) - [Interfaces in Go: Simplified with a silly Analogy](https://ashwiniag.com/interfaces-in-go-simplified-with-a-silly-analogy/)
 * [2024-12-25, 08:53:53](https://lobste.rs/s/wi4srh/b800_text) - [B800 Text](https://moddingwiki.shikadi.net/wiki/B800_Text)
 * [2024-12-25, 07:18:59](https://lobste.rs/s/leizx1/ruby_3_4_0_released) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
