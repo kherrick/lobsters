@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-25, 14:01:51",
+      "https://lobste.rs/s/io6aru/parables_on_power_planning_ai"
+    ],
+    [
+      "Parables on the Power of Planning in AI",
+      "https://www.youtube.com/watch?v=eaAonE58sLU"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 13:55:19",
+      "https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged"
+    ],
+    [
+      "How I debugged a 2 year old \"fake debugged\" multithreading bug",
+      "https://ankush.dev/p/race-condition-strikes-back"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 13:13:26",
       "https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2024-12-24, 11:11:37",
-      "https://lobste.rs/s/a5wfid/context_generic_programming"
-    ],
-    [
-      "Context-Generic Programming",
-      "https://contextgeneric.dev/"
-    ]
-  ],
-  [
-    [
       "2024-12-24, 04:28:45",
       "https://lobste.rs/s/icjnvo/controlling_nondeterminism_model_based"
     ],
     [
       "Controlling Nondeterminism in Model-Based Tests with Prophecy Variables",
       "https://concerningquality.com/prophecy-variables/"
-    ]
-  ],
-  [
-    [
-      "2024-12-23, 16:30:09",
-      "https://lobste.rs/s/icvubz/c_is_absolute_blast"
-    ],
-    [
-      "C++ Is An Absolute Blast",
-      "https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/"
     ]
   ],
   [
