@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-25, 12:45:55",
+      "https://lobste.rs/s/mrcggd/dividing_unsigned_8_bit_numbers"
+    ],
+    [
+      "Dividing unsigned 8-bit numbers",
+      "http://0x80.pl/notesen/2024-12-21-uint8-division.html"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 11:55:22",
       "https://lobste.rs/s/kmsnxi/against_universal_definition_type"
     ],
@@ -207,16 +217,6 @@
     [
       "Controlling Nondeterminism in Model-Based Tests with Prophecy Variables",
       "https://concerningquality.com/prophecy-variables/"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 00:57:09",
-      "https://lobste.rs/s/chofar/lock_files_considered_harmful"
-    ],
-    [
-      "Lock Files Considered Harmful",
-      "http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html"
     ]
   ],
   [
