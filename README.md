@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-25, 08:53:53](https://lobste.rs/s/wi4srh/b800_text) - [B800 Text](https://moddingwiki.shikadi.net/wiki/B800_Text)
 * [2024-12-25, 07:18:59](https://lobste.rs/s/leizx1/ruby_3_4_0_released) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:55:45](https://lobste.rs/s/nypibb/minimal_version_selection_revisited) - [Minimal Version Selection Revisited](https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html)
 * [2024-12-25, 04:32:04](https://lobste.rs/s/mmqtaq/2024_state_adelie_linux_distribution) - [2024 State of the Adélie Linux Distribution](https://blog.adelielinux.org/2024/12/24/2024-state-of-the-adelie-linux-distribution/)
@@ -23,7 +24,6 @@
 * [2024-12-23, 18:16:47](https://lobste.rs/s/5m6q1g/hello_emacs_tv) - [Hello emacs.tv](https://lmno.lol/alvaro/hello-emacstv)
 * [2024-12-23, 16:30:09](https://lobste.rs/s/icvubz/c_is_absolute_blast) - [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 16:09:15](https://lobste.rs/s/3f9jfg/from_nix_eos) - [From Nix to Eos](https://nrd.sh/blog/nix-to-eos/)
-* [2024-12-23, 15:32:22](https://lobste.rs/s/6cfrnn/how_many_links_overlap_between_lobste_rs) - [How many links overlap between Lobste.rs and HN?](https://lobhn.skyshelf.app/)
 * [2024-12-23, 15:30:34](https://lobste.rs/s/lw1lae/my_colleague_julius) - [My colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 
 ## [Archives](archives/index.md)

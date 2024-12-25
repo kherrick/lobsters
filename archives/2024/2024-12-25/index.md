@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
+* [2024-12-25, 08:53:53](https://lobste.rs/s/wi4srh/b800_text) - [B800 Text](https://moddingwiki.shikadi.net/wiki/B800_Text)
 * [2024-12-25, 07:18:59](https://lobste.rs/s/leizx1/ruby_3_4_0_released) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:55:45](https://lobste.rs/s/nypibb/minimal_version_selection_revisited) - [Minimal Version Selection Revisited](https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html)
 * [2024-12-25, 04:32:04](https://lobste.rs/s/mmqtaq/2024_state_adelie_linux_distribution) - [2024 State of the Adélie Linux Distribution](https://blog.adelielinux.org/2024/12/24/2024-state-of-the-adelie-linux-distribution/)
