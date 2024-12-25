@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-25, 21:57:41](https://lobste.rs/s/kosn1q/i_thought_i_found_bug) - [I Thought I Found a Bug…](http://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 * [2024-12-25, 21:46:23](https://lobste.rs/s/ttgjcu/electronics_test_gear_on_cheap) - [Electronics Test Gear on the Cheap](https://bigdanzblog.wordpress.com/2024/12/25/electronics-test-gear-on-the-cheap/)
 * [2024-12-25, 21:03:45](https://lobste.rs/s/qxavoj/countering_petrostate_concerntrolls) - [Countering Petrostate Concerntrolls With TLS Power Draw Measurements](https://fratti.ch/articles/posts/countering-petrostate-concerntrolls-with-tls-power-draw-measurements/)
 * [2024-12-25, 20:57:06](https://lobste.rs/s/fifotb/rust_webassembly_2019) - [Rust and WebAssembly (2019)](https://rustwasm.github.io/docs/book/)
@@ -22,7 +23,6 @@
 * [2024-12-25, 02:54:50](https://lobste.rs/s/zgs3uo/jujutsu_megamerges_jj_absorb) - [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 * [2024-12-25, 02:42:26](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using) - [What custom keyboard or layout are you using?](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using)
 * [2024-12-25, 00:40:08](https://lobste.rs/s/6tttxz/cashing_on_gif_by_charging_royalties) - [Cashing in on GIF by charging royalties](https://dfarq.homeip.net/cashing-in-on-gif-by-charging-royalties/)
-* [2024-12-24, 22:29:30](https://lobste.rs/s/m88upk/tiny_challenges_for_learning) - [Tiny challenges for learning WebAssembly](https://github.com/danprince/webassembly-wizardry)
 * [2024-12-24, 20:25:59](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my) - [Merry Everything and Happy Holidays my favorite crustaceans](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my)
 * [2024-12-24, 18:24:44](https://lobste.rs/s/tyujib/twice_chrome_extension_asking_you_think) - [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
 
