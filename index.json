@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-25, 15:30:43",
+      "https://lobste.rs/s/acftlh/postgresql_meets_scylladb_s_lightning"
+    ],
+    [
+      "PostgreSQL Meets ScyllaDB's Lightning Speed and Monstrous Scalability",
+      "https://medium.com/@abdurohman/mind-blowing-postgresql-meets-scylladbs-lightning-speed-and-monstrous-scalability-7dcda1eb1cea"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 14:01:51",
       "https://lobste.rs/s/io6aru/parables_on_power_planning_ai"
     ],
@@ -227,16 +237,6 @@
     [
       "Debian’s approach to Rust - Dependency handling (2022)",
       "https://diziet.dreamwidth.org/10559.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 04:28:45",
-      "https://lobste.rs/s/icjnvo/controlling_nondeterminism_model_based"
-    ],
-    [
-      "Controlling Nondeterminism in Model-Based Tests with Prophecy Variables",
-      "https://concerningquality.com/prophecy-variables/"
     ]
   ],
   [
