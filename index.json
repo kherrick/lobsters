@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-25, 21:03:45",
+      "https://lobste.rs/s/qxavoj/countering_petrostate_concerntrolls"
+    ],
+    [
+      "Countering Petrostate Concerntrolls With TLS Power Draw Measurements",
+      "https://fratti.ch/articles/posts/countering-petrostate-concerntrolls-with-tls-power-draw-measurements/"
+    ]
+  ],
+  [
+    [
+      "2024-12-25, 20:57:06",
+      "https://lobste.rs/s/fifotb/rust_webassembly_2019"
+    ],
+    [
+      "Rust and WebAssembly (2019)",
+      "https://rustwasm.github.io/docs/book/"
+    ]
+  ],
+  [
+    [
       "2024-12-25, 20:43:34",
       "https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2024-12-25, 03:15:19",
-      "https://lobste.rs/s/kykdzg/clipboardmanager_for_macos_which_can"
-    ],
-    [
-      "ClipboardManager for macOS which can clip images, text and can sync to your Obsidian vault",
-      "https://github.com/workhunters/clipboard-core/tree/main"
-    ]
-  ],
-  [
-    [
       "2024-12-25, 02:54:50",
       "https://lobste.rs/s/zgs3uo/jujutsu_megamerges_jj_absorb"
     ],
@@ -207,16 +217,6 @@
     [
       "Tiny challenges for learning WebAssembly",
       "https://github.com/danprince/webassembly-wizardry"
-    ]
-  ],
-  [
-    [
-      "2024-12-24, 20:51:19",
-      "https://lobste.rs/s/ypx58r/symbolic_execution_by_overloading_bool"
-    ],
-    [
-      "Symbolic Execution by Overloading __bool__",
-      "https://www.philipzucker.com/overload_bool/"
     ]
   ],
   [
