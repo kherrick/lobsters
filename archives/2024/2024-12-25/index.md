@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
+* [2024-12-25, 18:19:05](https://lobste.rs/s/3rwtf2/150_papers_for_software_engineers) - [150 papers for Software Engineers](https://github.com/facundoolano/software-papers)
 * [2024-12-25, 17:25:29](https://lobste.rs/s/1ifgkk/ibm_christmas_virus_1987) - [IBM Christmas Virus (1987)](http://catless.ncl.ac.uk/Risks/5.80.html#subj1.1)
 * [2024-12-25, 15:30:43](https://lobste.rs/s/acftlh/postgresql_meets_scylladb_s_lightning) - [PostgreSQL Meets ScyllaDB's Lightning Speed and Monstrous Scalability](https://medium.com/@abdurohman/mind-blowing-postgresql-meets-scylladbs-lightning-speed-and-monstrous-scalability-7dcda1eb1cea)
 * [2024-12-25, 14:01:51](https://lobste.rs/s/io6aru/parables_on_power_planning_ai) - [Parables on the Power of Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)
