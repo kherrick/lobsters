@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-25, 14:01:51](https://lobste.rs/s/io6aru/parables_on_power_planning_ai) - [Parables on the Power of Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)
+* [2024-12-25, 13:55:19](https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged) - [How I debugged a 2 year old \"fake debugged\" multithreading bug](https://ankush.dev/p/race-condition-strikes-back)
 * [2024-12-25, 13:13:26](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup) - [38C3 lobste.rs meetup](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup)
 * [2024-12-25, 12:45:55](https://lobste.rs/s/mrcggd/dividing_unsigned_8_bit_numbers) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
 * [2024-12-25, 11:55:22](https://lobste.rs/s/kmsnxi/against_universal_definition_type) - [Against a universal definition of ‘type’](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-24-against-types)
@@ -21,9 +23,7 @@
 * [2024-12-24, 20:25:59](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my) - [Merry Everything and Happy Holidays my favorite crustaceans](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my)
 * [2024-12-24, 18:24:44](https://lobste.rs/s/tyujib/twice_chrome_extension_asking_you_think) - [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
 * [2024-12-24, 16:38:41](https://lobste.rs/s/hrkb76/debian_s_approach_rust_dependency) - [Debian’s approach to Rust - Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
-* [2024-12-24, 11:11:37](https://lobste.rs/s/a5wfid/context_generic_programming) - [Context-Generic Programming](https://contextgeneric.dev/)
 * [2024-12-24, 04:28:45](https://lobste.rs/s/icjnvo/controlling_nondeterminism_model_based) - [Controlling Nondeterminism in Model-Based Tests with Prophecy Variables](https://concerningquality.com/prophecy-variables/)
-* [2024-12-23, 16:30:09](https://lobste.rs/s/icvubz/c_is_absolute_blast) - [C++ Is An Absolute Blast](https://learncodethehardway.com/blog/31-c-plus-plus-is-an-absolute-blast/)
 * [2024-12-23, 15:30:34](https://lobste.rs/s/lw1lae/my_colleague_julius) - [My colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 
 ## [Archives](archives/index.md)
