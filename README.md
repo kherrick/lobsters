@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-25, 20:35:47](https://lobste.rs/s/tgihfq/into_cps_never_return) - [Into CPS, never to return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 18:19:05](https://lobste.rs/s/3rwtf2/150_papers_for_software_engineers) - [150 papers for Software Engineers](https://github.com/facundoolano/software-papers)
 * [2024-12-25, 17:25:29](https://lobste.rs/s/1ifgkk/ibm_christmas_virus_1987) - [IBM Christmas Virus (1987)](http://catless.ncl.ac.uk/Risks/5.80.html#subj1.1)
 * [2024-12-25, 15:30:43](https://lobste.rs/s/acftlh/postgresql_meets_scylladb_s_lightning) - [PostgreSQL Meets ScyllaDB's Lightning Speed and Monstrous Scalability](https://medium.com/@abdurohman/mind-blowing-postgresql-meets-scylladbs-lightning-speed-and-monstrous-scalability-7dcda1eb1cea)
@@ -24,7 +25,6 @@
 * [2024-12-24, 20:25:59](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my) - [Merry Everything and Happy Holidays my favorite crustaceans](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my)
 * [2024-12-24, 18:24:44](https://lobste.rs/s/tyujib/twice_chrome_extension_asking_you_think) - [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
 * [2024-12-24, 16:38:41](https://lobste.rs/s/hrkb76/debian_s_approach_rust_dependency) - [Debian’s approach to Rust - Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
-* [2024-12-23, 15:30:34](https://lobste.rs/s/lw1lae/my_colleague_julius) - [My colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 
 ## [Archives](archives/index.md)
 
