@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-25](index.md)
 
+* [2024-12-25, 15:30:43](https://lobste.rs/s/acftlh/postgresql_meets_scylladb_s_lightning) - [PostgreSQL Meets ScyllaDB's Lightning Speed and Monstrous Scalability](https://medium.com/@abdurohman/mind-blowing-postgresql-meets-scylladbs-lightning-speed-and-monstrous-scalability-7dcda1eb1cea)
 * [2024-12-25, 14:01:51](https://lobste.rs/s/io6aru/parables_on_power_planning_ai) - [Parables on the Power of Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)
 * [2024-12-25, 13:55:19](https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged) - [How I debugged a 2 year old \"fake debugged\" multithreading bug](https://ankush.dev/p/race-condition-strikes-back)
 * [2024-12-25, 13:13:26](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup) - [38C3 lobste.rs meetup](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup)
