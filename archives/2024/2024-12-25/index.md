@@ -6,6 +6,7 @@
 
 * [2024-12-25, 21:57:41](https://lobste.rs/s/kosn1q/i_thought_i_found_bug) - [I Thought I Found a Bug…](http://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 * [2024-12-25, 21:46:23](https://lobste.rs/s/ttgjcu/electronics_test_gear_on_cheap) - [Electronics Test Gear on the Cheap](https://bigdanzblog.wordpress.com/2024/12/25/electronics-test-gear-on-the-cheap/)
+* [2024-12-25, 21:03:45](https://lobste.rs/s/qxavoj/gathering_data_on_tls_power_draw) - [Gathering Data On TLS Power Draw Measurements](https://fratti.ch/articles/posts/countering-petrostate-concerntrolls-with-tls-power-draw-measurements/)
 * [2024-12-25, 21:03:45](https://lobste.rs/s/qxavoj/countering_petrostate_concerntrolls) - [Countering Petrostate Concerntrolls With TLS Power Draw Measurements](https://fratti.ch/articles/posts/countering-petrostate-concerntrolls-with-tls-power-draw-measurements/)
 * [2024-12-25, 20:57:06](https://lobste.rs/s/fifotb/rust_webassembly_2019) - [Rust and WebAssembly (2019)](https://rustwasm.github.io/docs/book/)
 * [2024-12-25, 20:43:34](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived) - [ncurses-rs has been archived](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived)
