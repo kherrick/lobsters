@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-25, 03:15:19](https://lobste.rs/s/kykdzg/clipboardmanager_for_macos_which_can) - [ClipboardManager for macOS which can clip images, text and can sync to your Obsidian vault](https://github.com/workhunters/clipboard-core/tree/main)
+* [2024-12-25, 02:54:50](https://lobste.rs/s/zgs3uo/jujutsu_megamerges_jj_absorb) - [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 * [2024-12-25, 02:42:26](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using) - [What custom keyboard or layout are you using?](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using)
 * [2024-12-25, 00:40:08](https://lobste.rs/s/6tttxz/cashing_on_gif_by_charging_royalties) - [Cashing in on GIF by charging royalties](https://dfarq.homeip.net/cashing-in-on-gif-by-charging-royalties/)
 * [2024-12-24, 22:36:35](https://lobste.rs/s/qepnve/simdized_check_which_bytes_are_set) - [SIMDized check which bytes are in a set](http://0x80.pl/notesen/2018-10-18-simd-byte-lookup.html)
@@ -11,7 +13,6 @@
 * [2024-12-24, 16:38:41](https://lobste.rs/s/hrkb76/debian_s_approach_rust_dependency) - [Debian’s approach to Rust - Dependency handling (2022)](https://diziet.dreamwidth.org/10559.html)
 * [2024-12-24, 11:11:37](https://lobste.rs/s/a5wfid/context_generic_programming) - [Context-Generic Programming](https://contextgeneric.dev/)
 * [2024-12-24, 04:28:45](https://lobste.rs/s/icjnvo/controlling_nondeterminism_model_based) - [Controlling Nondeterminism in Model-Based Tests with Prophecy Variables](https://concerningquality.com/prophecy-variables/)
-* [2024-12-24, 02:24:27](https://lobste.rs/s/nwyzvi/abc_learning_alphabet_with_java) - [ABC: Learning The Alphabet with Java Annotations](https://serce.me/posts/23-12-2024-abc-learning-the-alphabet-with-java-annotations)
 * [2024-12-24, 02:15:20](https://lobste.rs/s/0rkppl/why_is_gcc_better_than_clang) - [Why is GCC Better Than Clang?](https://www.youtube.com/watch?v=4P32EFClwuo)
 * [2024-12-24, 00:57:09](https://lobste.rs/s/chofar/lock_files_considered_harmful) - [Lock Files Considered Harmful](http://www.chriswarbo.net/blog/2024-05-17-lock_files_considered_harmful.html)
 * [2024-12-23, 22:46:50](https://lobste.rs/s/cezvjq/what_are_you_doing) - [What are you doing?](https://jarvispowered.com/what-are-you-doing/)
@@ -23,7 +24,6 @@
 * [2024-12-23, 15:30:34](https://lobste.rs/s/lw1lae/my_colleague_julius) - [My colleague Julius](https://ploum.net/2024-12-23-julius-en.html)
 * [2024-12-23, 15:24:43](https://lobste.rs/s/m9jgxf/application_blackbox) - [Application blackbox](https://dxuuu.xyz/blackbox.html)
 * [2024-12-23, 15:19:52](https://lobste.rs/s/tanvcm/making_trello_clone_using_htmx) - [Making a Trello clone using htmx](https://www.erikheemskerk.nl/htmx-trello-clone/)
-* [2024-12-23, 14:27:39](https://lobste.rs/s/o4yb62/tour_webauthn) - [A Tour of WebAuthn](https://www.imperialviolet.org/tourofwebauthn/tourofwebauthn.html)
 * [2024-12-23, 10:02:24](https://lobste.rs/s/pga5c0/how_many_hours_can_you_code) - [How Many Hours Can You Code?](https://thecodist.com/how-many-hours-can-you-code/)
 
 ## [Archives](archives/index.md)
