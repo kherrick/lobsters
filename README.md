@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-26, 13:26:18](https://lobste.rs/s/vxx66r/usb_c_head_head_comparison) - [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
 * [2024-12-26, 10:52:22](https://lobste.rs/s/quug5n/accurate_timekeeping_daw_2022) - [Accurate Timekeeping in a DAW (2022)](https://billydm.github.io/blog/time-keeping/)
 * [2024-12-26, 08:33:26](https://lobste.rs/s/ni3mqj/can_ai_do_maths_yet_thoughts_from) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-26, 06:43:30](https://lobste.rs/s/1wbfuj/one_day_with_zig_raylib_jj) - [One day with Zig, Raylib, and jj](https://slightknack.dev/blog/zig-raylib/)
@@ -18,7 +19,6 @@
 * [2024-12-25, 13:55:19](https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged) - [How I debugged a 2 year old \"fake debugged\" multithreading bug](https://ankush.dev/p/race-condition-strikes-back)
 * [2024-12-25, 13:13:26](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup) - [38C3 lobste.rs meetup](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup)
 * [2024-12-25, 11:13:54](https://lobste.rs/s/ersr1j/expanding_what_https_means) - [Expanding what HTTPS means](https://lowentropy.net/posts/local-https/)
-* [2024-12-25, 08:53:53](https://lobste.rs/s/wi4srh/b800_text) - [B800 Text](https://moddingwiki.shikadi.net/wiki/B800_Text)
 * [2024-12-25, 07:18:59](https://lobste.rs/s/leizx1/ruby_3_4_0_released) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:55:45](https://lobste.rs/s/nypibb/minimal_version_selection_revisited) - [Minimal Version Selection Revisited](https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html)
 * [2024-12-25, 03:29:20](https://lobste.rs/s/90djfu/ai_generated_tools_can_make_programming) - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger)
