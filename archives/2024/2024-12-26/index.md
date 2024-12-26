@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 14:32:25](https://lobste.rs/s/5hjq6v/unbearable_slowness_being_why_do_we_live) - [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/abs/2408.10234)
 * [2024-12-26, 13:26:18](https://lobste.rs/s/vxx66r/usb_c_head_head_comparison) - [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
 * [2024-12-26, 10:52:22](https://lobste.rs/s/quug5n/accurate_timekeeping_daw_2022) - [Accurate Timekeeping in a DAW (2022)](https://billydm.github.io/blog/time-keeping/)
 * [2024-12-26, 10:36:06](https://lobste.rs/s/ebtpz7/catching_up_with_async_rust) - [Catching up with async Rust](https://fasterthanli.me/articles/catching-up-with-async-rust)
