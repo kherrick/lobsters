@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-26, 22:43:58](https://lobste.rs/s/jr38vj/use_time_distributed_databases_part_2_use) - [Use of Time in Distributed Databases (part 2): Use of logical clocks in databases](https://muratbuffalo.blogspot.com/2024/12/use-of-time-in-distributed-databases_26.html)
 * [2024-12-26, 21:39:17](https://lobste.rs/s/n3qaxu/cobolcraft_minecraft_server_written) - [CobolCraft: A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
 * [2024-12-26, 21:08:46](https://lobste.rs/s/pgzifc/arcan_0_7_all_tomato) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
@@ -22,7 +23,6 @@
 * [2024-12-25, 18:19:05](https://lobste.rs/s/3rwtf2/150_papers_for_software_engineers) - [150 papers for Software Engineers](https://github.com/facundoolano/software-papers)
 * [2024-12-25, 13:55:19](https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged) - [How I debugged a 2 year old \"fake debugged\" multithreading bug](https://ankush.dev/p/race-condition-strikes-back)
 * [2024-12-25, 13:13:26](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup) - [38C3 lobste.rs meetup](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup)
-* [2024-12-25, 07:18:59](https://lobste.rs/s/leizx1/ruby_3_4_0_released) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:55:45](https://lobste.rs/s/nypibb/minimal_version_selection_revisited) - [Minimal Version Selection Revisited](https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html)
 * [2024-12-25, 02:54:50](https://lobste.rs/s/zgs3uo/jujutsu_megamerges_jj_absorb) - [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 

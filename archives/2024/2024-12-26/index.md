@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 22:43:58](https://lobste.rs/s/jr38vj/use_time_distributed_databases_part_2_use) - [Use of Time in Distributed Databases (part 2): Use of logical clocks in databases](https://muratbuffalo.blogspot.com/2024/12/use-of-time-in-distributed-databases_26.html)
 * [2024-12-26, 21:39:17](https://lobste.rs/s/n3qaxu/cobolcraft_minecraft_server_written) - [CobolCraft: A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
 * [2024-12-26, 21:08:46](https://lobste.rs/s/pgzifc/arcan_0_7_all_tomato) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
