@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-26, 03:06:00](https://lobste.rs/s/buc3ht/server_sent_events_sse_are_underrated) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated)
 * [2024-12-26, 01:26:15](https://lobste.rs/s/fkmxf9/racket_school_2019_how_design_languages) - [Racket School 2019: How to Design Languages](https://school.racket-lang.org/2019/plan/)
 * [2024-12-26, 01:14:37](https://lobste.rs/s/cgmjgw/faster_positional_population_counts_for) - [Faster Positional-Population Counts for AVX2, AVX-512, and ASIMD](https://arxiv.org/abs/2412.16370)
 * [2024-12-25, 21:57:41](https://lobste.rs/s/kosn1q/i_thought_i_found_bug) - [I Thought I Found a Bug…](http://www.os2museum.com/wp/i-thought-i-found-a-bug/)
@@ -13,7 +14,6 @@
 * [2024-12-25, 15:30:43](https://lobste.rs/s/acftlh/postgresql_meets_scylladb_s_lightning) - [PostgreSQL Meets ScyllaDB's Lightning Speed and Monstrous Scalability](https://medium.com/@abdurohman/mind-blowing-postgresql-meets-scylladbs-lightning-speed-and-monstrous-scalability-7dcda1eb1cea)
 * [2024-12-25, 13:55:19](https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged) - [How I debugged a 2 year old \"fake debugged\" multithreading bug](https://ankush.dev/p/race-condition-strikes-back)
 * [2024-12-25, 13:13:26](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup) - [38C3 lobste.rs meetup](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup)
-* [2024-12-25, 12:45:55](https://lobste.rs/s/mrcggd/dividing_unsigned_8_bit_numbers) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
 * [2024-12-25, 11:55:22](https://lobste.rs/s/kmsnxi/against_universal_definition_type) - [Against a universal definition of ‘type’](https://jimmyhmiller.github.io/advent-of-papers/2024/dec-24-against-types)
 * [2024-12-25, 11:13:54](https://lobste.rs/s/ersr1j/expanding_what_https_means) - [Expanding what HTTPS means](https://lowentropy.net/posts/local-https/)
 * [2024-12-25, 08:53:53](https://lobste.rs/s/wi4srh/b800_text) - [B800 Text](https://moddingwiki.shikadi.net/wiki/B800_Text)
