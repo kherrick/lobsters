@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 23:09:35](https://lobste.rs/s/tbh9fh/chatgpt_search_vs_google_deep_dive) - [ChatGPT search vs. Google: A deep dive analysis of 62 queries](https://searchengineland.com/chatgpt-search-vs-google-analysis-449676)
 * [2024-12-26, 22:43:58](https://lobste.rs/s/jr38vj/use_time_distributed_databases_part_2_use) - [Use of Time in Distributed Databases (part 2): Use of logical clocks in databases](https://muratbuffalo.blogspot.com/2024/12/use-of-time-in-distributed-databases_26.html)
 * [2024-12-26, 21:39:17](https://lobste.rs/s/n3qaxu/cobolcraft_minecraft_server_written) - [CobolCraft: A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
 * [2024-12-26, 21:08:46](https://lobste.rs/s/pgzifc/arcan_0_7_all_tomato) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)

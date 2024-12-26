@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-26, 23:09:35](https://lobste.rs/s/tbh9fh/chatgpt_search_vs_google_deep_dive) - [ChatGPT search vs. Google: A deep dive analysis of 62 queries](https://searchengineland.com/chatgpt-search-vs-google-analysis-449676)
 * [2024-12-26, 22:43:58](https://lobste.rs/s/jr38vj/use_time_distributed_databases_part_2_use) - [Use of Time in Distributed Databases (part 2): Use of logical clocks in databases](https://muratbuffalo.blogspot.com/2024/12/use-of-time-in-distributed-databases_26.html)
 * [2024-12-26, 21:39:17](https://lobste.rs/s/n3qaxu/cobolcraft_minecraft_server_written) - [CobolCraft: A Minecraft server written in COBOL](https://github.com/meyfa/CobolCraft)
 * [2024-12-26, 21:08:46](https://lobste.rs/s/pgzifc/arcan_0_7_all_tomato) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
@@ -15,7 +16,6 @@
 * [2024-12-26, 04:11:18](https://lobste.rs/s/qufuyf/reads_causing_writes_postgres) - [Reads causing writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 * [2024-12-26, 03:06:00](https://lobste.rs/s/buc3ht/server_sent_events_sse_are_underrated) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated)
 * [2024-12-26, 03:05:11](https://lobste.rs/s/j6w6t8/what_s_some_your_favorite_software) - [what's some of your favorite software?](https://lobste.rs/s/j6w6t8/what_s_some_your_favorite_software)
-* [2024-12-25, 21:57:41](https://lobste.rs/s/kosn1q/i_thought_i_found_bug) - [I Thought I Found a Bug…](http://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 * [2024-12-25, 21:46:23](https://lobste.rs/s/ttgjcu/electronics_test_gear_on_cheap) - [Electronics Test Gear on the Cheap](https://bigdanzblog.wordpress.com/2024/12/25/electronics-test-gear-on-the-cheap/)
 * [2024-12-25, 21:03:45](https://lobste.rs/s/qxavoj/gathering_data_on_tls_power_draw) - [Gathering Data On TLS Power Draw Measurements](https://fratti.ch/articles/posts/countering-petrostate-concerntrolls-with-tls-power-draw-measurements/)
 * [2024-12-25, 20:43:34](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived) - [ncurses-rs has been archived](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived)
