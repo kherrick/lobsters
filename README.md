@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-26, 06:43:30](https://lobste.rs/s/1wbfuj/one_day_with_zig_raylib_jj) - [One day with Zig, Raylib, and jj](https://slightknack.dev/blog/zig-raylib/)
 * [2024-12-26, 04:11:18](https://lobste.rs/s/qufuyf/reads_causing_writes_postgres) - [Reads causing writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 * [2024-12-26, 03:06:00](https://lobste.rs/s/buc3ht/server_sent_events_sse_are_underrated) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated)
 * [2024-12-26, 03:05:11](https://lobste.rs/s/j6w6t8/what_s_some_your_favorite_software) - [what's some of your favorite software?](https://lobste.rs/s/j6w6t8/what_s_some_your_favorite_software)
 * [2024-12-26, 01:26:15](https://lobste.rs/s/fkmxf9/racket_school_2019_how_design_languages) - [Racket School 2019: How to Design Languages](https://school.racket-lang.org/2019/plan/)
-* [2024-12-26, 01:14:37](https://lobste.rs/s/cgmjgw/faster_positional_population_counts_for) - [Faster Positional-Population Counts for AVX2, AVX-512, and ASIMD](https://arxiv.org/abs/2412.16370)
 * [2024-12-25, 21:57:41](https://lobste.rs/s/kosn1q/i_thought_i_found_bug) - [I Thought I Found a Bug…](http://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 * [2024-12-25, 21:46:23](https://lobste.rs/s/ttgjcu/electronics_test_gear_on_cheap) - [Electronics Test Gear on the Cheap](https://bigdanzblog.wordpress.com/2024/12/25/electronics-test-gear-on-the-cheap/)
 * [2024-12-25, 21:03:45](https://lobste.rs/s/qxavoj/gathering_data_on_tls_power_draw) - [Gathering Data On TLS Power Draw Measurements](https://fratti.ch/articles/posts/countering-petrostate-concerntrolls-with-tls-power-draw-measurements/)

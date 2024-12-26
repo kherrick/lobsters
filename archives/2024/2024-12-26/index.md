@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 06:43:30](https://lobste.rs/s/1wbfuj/one_day_with_zig_raylib_jj) - [One day with Zig, Raylib, and jj](https://slightknack.dev/blog/zig-raylib/)
 * [2024-12-26, 04:11:18](https://lobste.rs/s/qufuyf/reads_causing_writes_postgres) - [Reads causing writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
 * [2024-12-26, 03:06:00](https://lobste.rs/s/buc3ht/server_sent_events_sse_are_underrated) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated)
 * [2024-12-26, 03:05:11](https://lobste.rs/s/j6w6t8/what_s_some_your_favorite_software) - [what's some of your favorite software?](https://lobste.rs/s/j6w6t8/what_s_some_your_favorite_software)
