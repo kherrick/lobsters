@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-26, 14:44:51](https://lobste.rs/s/oswvfj/matrix_holiday_special_2024) - [The Matrix Holiday Special 2024](https://matrix.org/blog/2024/12/25/the-matrix-holiday-special-2024/)
+* [2024-12-26, 14:38:15](https://lobste.rs/s/tejwv6/seconds_since_epoch) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-26, 14:32:25](https://lobste.rs/s/5hjq6v/unbearable_slowness_being_why_do_we_live) - [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/abs/2408.10234)
 * [2024-12-26, 13:26:18](https://lobste.rs/s/vxx66r/usb_c_head_head_comparison) - [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
 * [2024-12-26, 10:52:22](https://lobste.rs/s/quug5n/accurate_timekeeping_daw_2022) - [Accurate Timekeeping in a DAW (2022)](https://billydm.github.io/blog/time-keeping/)
@@ -23,8 +25,6 @@
 * [2024-12-25, 06:55:45](https://lobste.rs/s/nypibb/minimal_version_selection_revisited) - [Minimal Version Selection Revisited](https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html)
 * [2024-12-25, 03:29:20](https://lobste.rs/s/90djfu/ai_generated_tools_can_make_programming) - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger)
 * [2024-12-25, 02:54:50](https://lobste.rs/s/zgs3uo/jujutsu_megamerges_jj_absorb) - [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
-* [2024-12-25, 02:42:26](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using) - [What custom keyboard or layout are you using?](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using)
-* [2024-12-24, 20:25:59](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my) - [Merry Everything and Happy Holidays my favorite crustaceans](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my)
 
 ## [Archives](archives/index.md)
 
