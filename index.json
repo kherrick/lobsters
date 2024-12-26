@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-26, 03:06:00",
+      "https://lobste.rs/s/buc3ht/server_sent_events_sse_are_underrated"
+    ],
+    [
+      "Server-Sent Events (SSE) Are Underrated",
+      "https://igorstechnoclub.com/server-sent-events-sse-are-underrated"
+    ]
+  ],
+  [
+    [
       "2024-12-26, 01:26:15",
       "https://lobste.rs/s/fkmxf9/racket_school_2019_how_design_languages"
     ],
@@ -127,16 +137,6 @@
     [
       "38C3 lobste.rs meetup",
       "https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 12:45:55",
-      "https://lobste.rs/s/mrcggd/dividing_unsigned_8_bit_numbers"
-    ],
-    [
-      "Dividing unsigned 8-bit numbers",
-      "http://0x80.pl/notesen/2024-12-21-uint8-division.html"
     ]
   ],
   [
