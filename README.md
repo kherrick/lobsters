@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-26, 01:26:15](https://lobste.rs/s/fkmxf9/racket_school_2019_how_design_languages) - [Racket School 2019: How to Design Languages](https://school.racket-lang.org/2019/plan/)
+* [2024-12-26, 01:14:37](https://lobste.rs/s/cgmjgw/faster_positional_population_counts_for) - [Faster Positional-Population Counts for AVX2, AVX-512, and ASIMD](https://arxiv.org/abs/2412.16370)
 * [2024-12-25, 21:57:41](https://lobste.rs/s/kosn1q/i_thought_i_found_bug) - [I Thought I Found a Bug…](http://www.os2museum.com/wp/i-thought-i-found-a-bug/)
 * [2024-12-25, 21:46:23](https://lobste.rs/s/ttgjcu/electronics_test_gear_on_cheap) - [Electronics Test Gear on the Cheap](https://bigdanzblog.wordpress.com/2024/12/25/electronics-test-gear-on-the-cheap/)
 * [2024-12-25, 21:03:45](https://lobste.rs/s/qxavoj/gathering_data_on_tls_power_draw) - [Gathering Data On TLS Power Draw Measurements](https://fratti.ch/articles/posts/countering-petrostate-concerntrolls-with-tls-power-draw-measurements/)
@@ -9,7 +11,6 @@
 * [2024-12-25, 18:19:05](https://lobste.rs/s/3rwtf2/150_papers_for_software_engineers) - [150 papers for Software Engineers](https://github.com/facundoolano/software-papers)
 * [2024-12-25, 17:25:29](https://lobste.rs/s/1ifgkk/ibm_christmas_virus_1987) - [IBM Christmas Virus (1987)](http://catless.ncl.ac.uk/Risks/5.80.html#subj1.1)
 * [2024-12-25, 15:30:43](https://lobste.rs/s/acftlh/postgresql_meets_scylladb_s_lightning) - [PostgreSQL Meets ScyllaDB's Lightning Speed and Monstrous Scalability](https://medium.com/@abdurohman/mind-blowing-postgresql-meets-scylladbs-lightning-speed-and-monstrous-scalability-7dcda1eb1cea)
-* [2024-12-25, 14:01:51](https://lobste.rs/s/io6aru/parables_on_power_planning_ai) - [Parables on the Power of Planning in AI](https://www.youtube.com/watch?v=eaAonE58sLU)
 * [2024-12-25, 13:55:19](https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged) - [How I debugged a 2 year old \"fake debugged\" multithreading bug](https://ankush.dev/p/race-condition-strikes-back)
 * [2024-12-25, 13:13:26](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup) - [38C3 lobste.rs meetup](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup)
 * [2024-12-25, 12:45:55](https://lobste.rs/s/mrcggd/dividing_unsigned_8_bit_numbers) - [Dividing unsigned 8-bit numbers](http://0x80.pl/notesen/2024-12-21-uint8-division.html)
@@ -22,7 +23,6 @@
 * [2024-12-25, 03:29:20](https://lobste.rs/s/90djfu/ai_generated_tools_can_make_programming) - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger)
 * [2024-12-25, 02:54:50](https://lobste.rs/s/zgs3uo/jujutsu_megamerges_jj_absorb) - [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 * [2024-12-25, 02:42:26](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using) - [What custom keyboard or layout are you using?](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using)
-* [2024-12-25, 00:40:08](https://lobste.rs/s/6tttxz/cashing_on_gif_by_charging_royalties) - [Cashing in on GIF by charging royalties](https://dfarq.homeip.net/cashing-in-on-gif-by-charging-royalties/)
 * [2024-12-24, 20:25:59](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my) - [Merry Everything and Happy Holidays my favorite crustaceans](https://lobste.rs/s/4xg0m4/merry_everything_happy_holidays_my)
 * [2024-12-24, 18:24:44](https://lobste.rs/s/tyujib/twice_chrome_extension_asking_you_think) - [twice: chrome extension asking you to think twice when visit social media sites](https://github.com/chaosprint/twice)
 
