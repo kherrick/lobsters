@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-26, 10:36:06](https://lobste.rs/s/ebtpz7/catching_up_with_async_rust) - [Catching up with async Rust](https://fasterthanli.me/articles/catching-up-with-async-rust)
 * [2024-12-26, 08:33:26](https://lobste.rs/s/ni3mqj/can_ai_do_maths_yet_thoughts_from) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-26, 06:43:30](https://lobste.rs/s/1wbfuj/one_day_with_zig_raylib_jj) - [One day with Zig, Raylib, and jj](https://slightknack.dev/blog/zig-raylib/)
 * [2024-12-26, 04:11:18](https://lobste.rs/s/qufuyf/reads_causing_writes_postgres) - [Reads causing writes in Postgres](https://jesipow.com/blog/postgres-reads-cause-writes/)
@@ -20,7 +21,6 @@
 * [2024-12-25, 08:53:53](https://lobste.rs/s/wi4srh/b800_text) - [B800 Text](https://moddingwiki.shikadi.net/wiki/B800_Text)
 * [2024-12-25, 07:18:59](https://lobste.rs/s/leizx1/ruby_3_4_0_released) - [Ruby 3.4.0 Released](https://www.ruby-lang.org/en/news/2024/12/25/ruby-3-4-0-released/)
 * [2024-12-25, 06:55:45](https://lobste.rs/s/nypibb/minimal_version_selection_revisited) - [Minimal Version Selection Revisited](https://matklad.github.io/2024/12/24/minimal-version-selection-revisited.html)
-* [2024-12-25, 04:32:04](https://lobste.rs/s/mmqtaq/2024_state_adelie_linux_distribution) - [2024 State of the Adélie Linux Distribution](https://blog.adelielinux.org/2024/12/24/2024-state-of-the-adelie-linux-distribution/)
 * [2024-12-25, 03:29:20](https://lobste.rs/s/90djfu/ai_generated_tools_can_make_programming) - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger)
 * [2024-12-25, 02:54:50](https://lobste.rs/s/zgs3uo/jujutsu_megamerges_jj_absorb) - [Jujutsu Megamerges and jj absorb](https://v5.chriskrycho.com/journal/jujutsu-megamerges-and-jj-absorb/)
 * [2024-12-25, 02:42:26](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using) - [What custom keyboard or layout are you using?](https://lobste.rs/s/jmxa6m/what_custom_keyboard_layout_are_you_using)
