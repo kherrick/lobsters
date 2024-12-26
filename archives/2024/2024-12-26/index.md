@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 10:52:22](https://lobste.rs/s/quug5n/accurate_timekeeping_daw_2022) - [Accurate Timekeeping in a DAW (2022)](https://billydm.github.io/blog/time-keeping/)
 * [2024-12-26, 10:36:06](https://lobste.rs/s/ebtpz7/catching_up_with_async_rust) - [Catching up with async Rust](https://fasterthanli.me/articles/catching-up-with-async-rust)
 * [2024-12-26, 08:33:26](https://lobste.rs/s/ni3mqj/can_ai_do_maths_yet_thoughts_from) - [Can AI do maths yet? Thoughts from a mathematician](https://xenaproject.wordpress.com/2024/12/22/can-ai-do-maths-yet-thoughts-from-a-mathematician/)
 * [2024-12-26, 06:43:30](https://lobste.rs/s/1wbfuj/one_day_with_zig_raylib_jj) - [One day with Zig, Raylib, and jj](https://slightknack.dev/blog/zig-raylib/)
