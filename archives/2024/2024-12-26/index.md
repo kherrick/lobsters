@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-26](index.md)
 
+* [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 19:20:39](https://lobste.rs/s/jf4in1/lua_is_so_underrated) - [Lua is so underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
 * [2024-12-26, 14:44:51](https://lobste.rs/s/oswvfj/matrix_holiday_special_2024) - [The Matrix Holiday Special 2024](https://matrix.org/blog/2024/12/25/the-matrix-holiday-special-2024/)
 * [2024-12-26, 14:38:15](https://lobste.rs/s/tejwv6/seconds_since_epoch) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
