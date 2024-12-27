@@ -8,6 +8,7 @@
 * [2024-12-27, 09:33:42](https://lobste.rs/s/tqxzl9/everything_you_ever_wanted_know_about) - [Everything you ever wanted to know about “hello, world” but were afraid to ask](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
 * [2024-12-27, 09:09:23](https://lobste.rs/s/oifo6a/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/trifectatechfoundation/sudo-rs)
 * [2024-12-27, 08:39:03](https://lobste.rs/s/nggojs/38c3_illegal_instructions_streaming) - [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
+* [2024-12-27, 07:53:25](https://lobste.rs/s/elp4eb/overview_virtual_machine_architectures) - [An Overview of Virtual Machine Architectures](https://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformaticanetworking/spd/virmach_overview_smith-04.pdf)
 * [2024-12-27, 05:51:32](https://lobste.rs/s/2dqrz1/efficient_programming_with_components) - [Efficient Programming with Components](https://www.jmeiners.com/efficient-programming-with-components/)
 * [2024-12-27, 05:44:38](https://lobste.rs/s/gi3vwz/write_your_own_virtual_machine) - [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-27, 04:16:26](https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop) - [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
@@ -24,7 +25,6 @@
 * [2024-12-26, 13:26:18](https://lobste.rs/s/vxx66r/usb_c_head_head_comparison) - [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
 * [2024-12-26, 06:43:30](https://lobste.rs/s/1wbfuj/one_day_with_zig_raylib_jj) - [One day with Zig, Raylib, and jj](https://slightknack.dev/blog/zig-raylib/)
 * [2024-12-26, 03:06:00](https://lobste.rs/s/buc3ht/server_sent_events_sse_are_underrated) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated)
-* [2024-12-25, 20:43:34](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived) - [ncurses-rs has been archived](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived)
 
 ## [Archives](archives/index.md)
 
