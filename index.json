@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-27, 04:16:26",
+      "https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop"
+    ],
+    [
+      "Running NetBSD 10.1 on a 1998 Toshiba laptop",
+      "https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 01:27:59",
       "https://lobste.rs/s/uuiijv/simple_elf"
     ],
@@ -237,16 +247,6 @@
     [
       "How I debugged a 2 year old \"fake debugged\" multithreading bug",
       "https://ankush.dev/p/race-condition-strikes-back"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 13:13:26",
-      "https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup"
-    ],
-    [
-      "38C3 lobste.rs meetup",
-      "https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup"
     ]
   ]
 ]
