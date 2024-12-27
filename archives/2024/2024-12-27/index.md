@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 08:39:03](https://lobste.rs/s/nggojs/38c3_illegal_instructions_streaming) - [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
 * [2024-12-27, 07:53:25](https://lobste.rs/s/elp4eb/overview_virtual_machine_architectures) - [An Overview of Virtual Machine Architectures](https://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformaticanetworking/spd/virmach_overview_smith-04.pdf)
 * [2024-12-27, 05:51:32](https://lobste.rs/s/2dqrz1/efficient_programming_with_components) - [Efficient Programming with Components](https://www.jmeiners.com/efficient-programming-with-components/)
 * [2024-12-27, 05:44:38](https://lobste.rs/s/gi3vwz/write_your_own_virtual_machine) - [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
