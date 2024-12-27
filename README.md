@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-27, 05:51:32](https://lobste.rs/s/2dqrz1/efficient_programming_with_components) - [Efficient Programming with Components](https://www.jmeiners.com/efficient-programming-with-components/)
 * [2024-12-27, 05:44:38](https://lobste.rs/s/gi3vwz/write_your_own_virtual_machine) - [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-27, 04:16:26](https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop) - [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
 * [2024-12-27, 01:27:59](https://lobste.rs/s/uuiijv/simple_elf) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
@@ -24,7 +25,6 @@
 * [2024-12-25, 20:43:34](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived) - [ncurses-rs has been archived](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived)
 * [2024-12-25, 20:35:47](https://lobste.rs/s/tgihfq/into_cps_never_return) - [Into CPS, never to return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 18:19:05](https://lobste.rs/s/3rwtf2/150_papers_for_software_engineers) - [150 papers for Software Engineers](https://github.com/facundoolano/software-papers)
-* [2024-12-25, 13:55:19](https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged) - [How I debugged a 2 year old \"fake debugged\" multithreading bug](https://ankush.dev/p/race-condition-strikes-back)
 
 ## [Archives](archives/index.md)
 
