@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 22:47:58](https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor) - [apparmor.d: Extensive set of AppArmor profiles](https://github.com/roddhjav/apparmor.d)
 * [2024-12-27, 21:31:11](https://lobste.rs/s/438al3/chimera_linux_entering_beta) - [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
 * [2024-12-27, 18:43:24](https://lobste.rs/s/ikhot1/run_mcp_servers_on_android_with_gemini) - [Run MCP Servers On Android with Gemini & Chicory](https://docs.mcp.run/blog/2024/12/27/running-tools-on-android/)
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
