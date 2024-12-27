@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-27, 04:16:26](https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop) - [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
 * [2024-12-27, 01:27:59](https://lobste.rs/s/uuiijv/simple_elf) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
 * [2024-12-27, 00:02:36](https://lobste.rs/s/iz45ie/ai_generated_tools_can_make_programming) - [AI-generated tools can make programming more fun](https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger.html)
 * [2024-12-27, 00:01:41](https://lobste.rs/s/d9hldh/perfect_desk) - [Perfect Desk](https://vermaden.wordpress.com/2024/12/27/perfect-desk/)
@@ -24,7 +25,6 @@
 * [2024-12-25, 20:35:47](https://lobste.rs/s/tgihfq/into_cps_never_return) - [Into CPS, never to return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 18:19:05](https://lobste.rs/s/3rwtf2/150_papers_for_software_engineers) - [150 papers for Software Engineers](https://github.com/facundoolano/software-papers)
 * [2024-12-25, 13:55:19](https://lobste.rs/s/rpl1vc/how_i_debugged_2_year_old_fake_debugged) - [How I debugged a 2 year old \"fake debugged\" multithreading bug](https://ankush.dev/p/race-condition-strikes-back)
-* [2024-12-25, 13:13:26](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup) - [38C3 lobste.rs meetup](https://lobste.rs/s/ppbc9q/38c3_lobste_rs_meetup)
 
 ## [Archives](archives/index.md)
 
