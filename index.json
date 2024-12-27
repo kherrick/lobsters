@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-27, 09:09:23",
+      "https://lobste.rs/s/oifo6a/sudo_rs_memory_safe_implementation_sudo"
+    ],
+    [
+      "sudo-rs: A memory safe implementation of sudo and su",
+      "https://github.com/trifectatechfoundation/sudo-rs"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 08:39:03",
       "https://lobste.rs/s/nggojs/38c3_illegal_instructions_streaming"
     ],
@@ -227,16 +237,6 @@
     [
       "ncurses-rs has been archived",
       "https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived"
-    ]
-  ],
-  [
-    [
-      "2024-12-25, 20:35:47",
-      "https://lobste.rs/s/tgihfq/into_cps_never_return"
-    ],
-    [
-      "Into CPS, never to return",
-      "https://bernsteinbear.com/blog/cps/"
     ]
   ],
   [
