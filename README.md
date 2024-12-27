@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-27, 07:53:25](https://lobste.rs/s/elp4eb/overview_virtual_machine_architectures) - [An Overview of Virtual Machine Architectures](https://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformaticanetworking/spd/virmach_overview_smith-04.pdf)
 * [2024-12-27, 05:51:32](https://lobste.rs/s/2dqrz1/efficient_programming_with_components) - [Efficient Programming with Components](https://www.jmeiners.com/efficient-programming-with-components/)
 * [2024-12-27, 05:44:38](https://lobste.rs/s/gi3vwz/write_your_own_virtual_machine) - [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-27, 04:16:26](https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop) - [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
@@ -21,7 +22,6 @@
 * [2024-12-26, 06:43:30](https://lobste.rs/s/1wbfuj/one_day_with_zig_raylib_jj) - [One day with Zig, Raylib, and jj](https://slightknack.dev/blog/zig-raylib/)
 * [2024-12-26, 03:06:00](https://lobste.rs/s/buc3ht/server_sent_events_sse_are_underrated) - [Server-Sent Events (SSE) Are Underrated](https://igorstechnoclub.com/server-sent-events-sse-are-underrated)
 * [2024-12-26, 03:05:11](https://lobste.rs/s/j6w6t8/what_s_some_your_favorite_software) - [what's some of your favorite software?](https://lobste.rs/s/j6w6t8/what_s_some_your_favorite_software)
-* [2024-12-25, 21:03:45](https://lobste.rs/s/qxavoj/gathering_data_on_tls_power_draw) - [Gathering Data On TLS Power Draw Measurements](https://fratti.ch/articles/posts/countering-petrostate-concerntrolls-with-tls-power-draw-measurements/)
 * [2024-12-25, 20:43:34](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived) - [ncurses-rs has been archived](https://lobste.rs/s/btyxra/ncurses_rs_has_been_archived)
 * [2024-12-25, 20:35:47](https://lobste.rs/s/tgihfq/into_cps_never_return) - [Into CPS, never to return](https://bernsteinbear.com/blog/cps/)
 * [2024-12-25, 18:19:05](https://lobste.rs/s/3rwtf2/150_papers_for_software_engineers) - [150 papers for Software Engineers](https://github.com/facundoolano/software-papers)
