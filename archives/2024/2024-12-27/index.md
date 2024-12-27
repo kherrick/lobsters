@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 18:43:24](https://lobste.rs/s/ikhot1/run_mcp_servers_on_android_with_gemini) - [Run MCP Servers On Android with Gemini & Chicory](https://docs.mcp.run/blog/2024/12/27/running-tools-on-android/)
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 * [2024-12-27, 12:19:46](https://lobste.rs/s/riwsis/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/riwsis/what_are_you_doing_this_weekend)
 * [2024-12-27, 10:00:25](https://lobste.rs/s/bxmpam/cap_theorem_clustering_why_every) - [The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
