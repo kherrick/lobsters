@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-27, 09:53:35](https://lobste.rs/s/usawel/debugging_memory_corruption_who_wrote_2) - [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-27, 09:33:42](https://lobste.rs/s/tqxzl9/everything_you_ever_wanted_know_about) - [Everything you ever wanted to know about “hello, world” but were afraid to ask](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
 * [2024-12-27, 09:09:23](https://lobste.rs/s/oifo6a/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/trifectatechfoundation/sudo-rs)
 * [2024-12-27, 08:39:03](https://lobste.rs/s/nggojs/38c3_illegal_instructions_streaming) - [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
@@ -7,7 +8,6 @@
 * [2024-12-27, 05:51:32](https://lobste.rs/s/2dqrz1/efficient_programming_with_components) - [Efficient Programming with Components](https://www.jmeiners.com/efficient-programming-with-components/)
 * [2024-12-27, 05:44:38](https://lobste.rs/s/gi3vwz/write_your_own_virtual_machine) - [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-27, 04:16:26](https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop) - [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
-* [2024-12-27, 01:27:59](https://lobste.rs/s/uuiijv/simple_elf) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
 * [2024-12-27, 00:01:41](https://lobste.rs/s/d9hldh/perfect_desk) - [Perfect Desk](https://vermaden.wordpress.com/2024/12/27/perfect-desk/)
 * [2024-12-26, 23:09:35](https://lobste.rs/s/tbh9fh/chatgpt_search_vs_google_deep_dive) - [ChatGPT search vs. Google: A deep dive analysis of 62 queries](https://searchengineland.com/chatgpt-search-vs-google-analysis-449676)
 * [2024-12-26, 22:43:58](https://lobste.rs/s/jr38vj/use_time_distributed_databases_part_2_use) - [Use of Time in Distributed Databases (part 2): Use of logical clocks in databases](https://muratbuffalo.blogspot.com/2024/12/use-of-time-in-distributed-databases_26.html)

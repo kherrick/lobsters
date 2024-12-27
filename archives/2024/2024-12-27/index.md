@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-27](index.md)
 
+* [2024-12-27, 09:53:35](https://lobste.rs/s/usawel/debugging_memory_corruption_who_wrote_2) - [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-27, 09:33:42](https://lobste.rs/s/tqxzl9/everything_you_ever_wanted_know_about) - [Everything you ever wanted to know about “hello, world” but were afraid to ask](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
 * [2024-12-27, 09:09:23](https://lobste.rs/s/oifo6a/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/trifectatechfoundation/sudo-rs)
 * [2024-12-27, 08:39:03](https://lobste.rs/s/nggojs/38c3_illegal_instructions_streaming) - [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
