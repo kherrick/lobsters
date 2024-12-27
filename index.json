@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-27, 09:33:42",
+      "https://lobste.rs/s/tqxzl9/everything_you_ever_wanted_know_about"
+    ],
+    [
+      "Everything you ever wanted to know about “hello, world” but were afraid to ask",
+      "https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf"
+    ]
+  ],
+  [
+    [
       "2024-12-27, 09:09:23",
       "https://lobste.rs/s/oifo6a/sudo_rs_memory_safe_implementation_sudo"
     ],
@@ -67,16 +77,6 @@
     [
       "A Simple ELF",
       "https://4zm.org/2024/12/25/a-simple-elf.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 00:02:36",
-      "https://lobste.rs/s/iz45ie/ai_generated_tools_can_make_programming"
-    ],
-    [
-      "AI-generated tools can make programming more fun",
-      "https://www.geoffreylitt.com/2024/12/22/making-programming-more-fun-with-an-ai-generated-debugger.html"
     ]
   ],
   [
