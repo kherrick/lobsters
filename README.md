@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 15:38:09](https://lobste.rs/s/yphawq/s_not_abstraction_s_just_layer) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 * [2024-12-28, 14:10:04](https://lobste.rs/s/drxhwk/how_add_metaprogramming_gleam) - [How to add metaprogramming to Gleam](https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/)
 * [2024-12-28, 14:01:37](https://lobste.rs/s/jumpcb/advent_code_2024_pure_sql) - [Advent of Code 2024 in pure SQL](https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2024-12-28, 12:06:05](https://lobste.rs/s/4thoju/revisiting_netbsd_build_system) - [Revisiting the NetBSD build system](https://blogsystem5.substack.com/p/netbsd-build-system)
@@ -24,7 +25,6 @@
 * [2024-12-26, 21:08:46](https://lobste.rs/s/pgzifc/arcan_0_7_all_tomato) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 19:20:39](https://lobste.rs/s/jf4in1/lua_is_so_underrated) - [Lua is so underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
-* [2024-12-26, 14:38:15](https://lobste.rs/s/tejwv6/seconds_since_epoch) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 
 ## [Archives](archives/index.md)
 

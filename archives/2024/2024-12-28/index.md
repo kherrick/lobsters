@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 15:38:09](https://lobste.rs/s/yphawq/s_not_abstraction_s_just_layer) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 * [2024-12-28, 14:10:04](https://lobste.rs/s/drxhwk/how_add_metaprogramming_gleam) - [How to add metaprogramming to Gleam](https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/)
 * [2024-12-28, 14:01:37](https://lobste.rs/s/jumpcb/advent_code_2024_pure_sql) - [Advent of Code 2024 in pure SQL](https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2024-12-28, 12:06:05](https://lobste.rs/s/4thoju/revisiting_netbsd_build_system) - [Revisiting the NetBSD build system](https://blogsystem5.substack.com/p/netbsd-build-system)
