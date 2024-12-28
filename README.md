@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 11:24:50](https://lobste.rs/s/aqsu0u/james_gosling_on_java_historical) - [James Gosling on Java - Historical Oddities & Persistent Itches](https://www.youtube.com/watch?v=zg8xM0xxFa8)
 * [2024-12-28, 09:27:41](https://lobste.rs/s/owuavw/keeping_secrets_secret_with_git_crypt) - [Keeping secrets secret with git-crypt](https://blog.ktz.me/keeping-secrets-secret-with-git-crypt/)
 * [2024-12-28, 06:35:41](https://lobste.rs/s/lehiwq/how_create_html_zip_png_polyglot_files) - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
 * [2024-12-28, 05:20:44](https://lobste.rs/s/jgrhbt/visualizing_all_isbns_10k_by_2025_01_31) - [Visualizing All ISBNs — $10k by 2025-01-31](https://annas-archive.org/blog/all-isbns.html)
@@ -14,7 +15,6 @@
 * [2024-12-27, 09:33:42](https://lobste.rs/s/tqxzl9/everything_you_ever_wanted_know_about) - [Everything you ever wanted to know about “hello, world” but were afraid to ask](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
 * [2024-12-27, 09:09:23](https://lobste.rs/s/oifo6a/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/trifectatechfoundation/sudo-rs)
 * [2024-12-27, 08:39:03](https://lobste.rs/s/nggojs/38c3_illegal_instructions_streaming) - [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
-* [2024-12-27, 07:53:25](https://lobste.rs/s/elp4eb/overview_virtual_machine_architectures) - [An Overview of Virtual Machine Architectures](https://didawiki.di.unipi.it/lib/exe/fetch.php/magistraleinformaticanetworking/spd/virmach_overview_smith-04.pdf)
 * [2024-12-27, 05:44:38](https://lobste.rs/s/gi3vwz/write_your_own_virtual_machine) - [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-27, 04:16:26](https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop) - [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
 * [2024-12-27, 01:27:59](https://lobste.rs/s/uuiijv/simple_elf) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
