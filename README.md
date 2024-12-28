@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
 * [2024-12-28, 21:15:33](https://lobste.rs/s/8ye1g2/axum_style_magic_handler_functions_go) - [Axum-style Magic Handler Functions in Go, Part 2](https://kubuzetto.github.io/posts/go-axum-handlers-pt2/)
 * [2024-12-28, 19:50:34](https://lobste.rs/s/gfjghd/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
@@ -15,7 +16,6 @@
 * [2024-12-28, 05:20:44](https://lobste.rs/s/jgrhbt/visualizing_all_isbns_10k_by_2025_01_31) - [Visualizing All ISBNs — $10k by 2025-01-31](https://annas-archive.org/blog/all-isbns.html)
 * [2024-12-28, 02:05:32](https://lobste.rs/s/6zkufi/on_ada_s_dependent_types_its_types_as_whole) - [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-27, 21:31:11](https://lobste.rs/s/438al3/chimera_linux_entering_beta) - [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
-* [2024-12-27, 18:43:24](https://lobste.rs/s/ikhot1/run_mcp_servers_on_android_with_gemini) - [Run MCP Servers On Android with Gemini & Chicory](https://docs.mcp.run/blog/2024/12/27/running-tools-on-android/)
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 * [2024-12-27, 12:19:46](https://lobste.rs/s/riwsis/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/riwsis/what_are_you_doing_this_weekend)
 * [2024-12-27, 10:00:25](https://lobste.rs/s/bxmpam/cap_theorem_clustering_why_every) - [The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)

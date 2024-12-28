@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
 * [2024-12-28, 21:15:33](https://lobste.rs/s/8ye1g2/axum_style_magic_handler_functions_go) - [Axum-style Magic Handler Functions in Go, Part 2](https://kubuzetto.github.io/posts/go-axum-handlers-pt2/)
 * [2024-12-28, 19:50:34](https://lobste.rs/s/gfjghd/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
