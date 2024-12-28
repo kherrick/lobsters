@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 14:10:04](https://lobste.rs/s/drxhwk/how_add_metaprogramming_gleam) - [How to add metaprogramming to Gleam](https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/)
 * [2024-12-28, 14:01:37](https://lobste.rs/s/jumpcb/advent_code_2024_pure_sql) - [Advent of Code 2024 in pure SQL](https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2024-12-28, 12:06:05](https://lobste.rs/s/4thoju/revisiting_netbsd_build_system) - [Revisiting the NetBSD build system](https://blogsystem5.substack.com/p/netbsd-build-system)
 * [2024-12-28, 11:24:50](https://lobste.rs/s/aqsu0u/james_gosling_on_java_historical) - [James Gosling on Java - Historical Oddities & Persistent Itches](https://www.youtube.com/watch?v=zg8xM0xxFa8)

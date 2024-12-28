@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 14:10:04](https://lobste.rs/s/drxhwk/how_add_metaprogramming_gleam) - [How to add metaprogramming to Gleam](https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/)
 * [2024-12-28, 14:01:37](https://lobste.rs/s/jumpcb/advent_code_2024_pure_sql) - [Advent of Code 2024 in pure SQL](https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2024-12-28, 12:06:05](https://lobste.rs/s/4thoju/revisiting_netbsd_build_system) - [Revisiting the NetBSD build system](https://blogsystem5.substack.com/p/netbsd-build-system)
 * [2024-12-28, 11:24:50](https://lobste.rs/s/aqsu0u/james_gosling_on_java_historical) - [James Gosling on Java - Historical Oddities & Persistent Itches](https://www.youtube.com/watch?v=zg8xM0xxFa8)
@@ -19,7 +20,6 @@
 * [2024-12-27, 08:39:03](https://lobste.rs/s/nggojs/38c3_illegal_instructions_streaming) - [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
 * [2024-12-27, 05:44:38](https://lobste.rs/s/gi3vwz/write_your_own_virtual_machine) - [Write your Own Virtual Machine](https://www.jmeiners.com/lc3-vm/)
 * [2024-12-27, 04:16:26](https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop) - [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
-* [2024-12-27, 01:27:59](https://lobste.rs/s/uuiijv/simple_elf) - [A Simple ELF](https://4zm.org/2024/12/25/a-simple-elf.html)
 * [2024-12-27, 00:01:41](https://lobste.rs/s/d9hldh/perfect_desk) - [Perfect Desk](https://vermaden.wordpress.com/2024/12/27/perfect-desk/)
 * [2024-12-26, 21:08:46](https://lobste.rs/s/pgzifc/arcan_0_7_all_tomato) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
