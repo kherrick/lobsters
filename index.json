@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-28, 15:38:09",
+      "https://lobste.rs/s/yphawq/s_not_abstraction_s_just_layer"
+    ],
+    [
+      "That's Not an Abstraction, That's Just a Layer of Indirection",
+      "https://fhur.me/posts/2024/thats-not-an-abstraction"
+    ]
+  ],
+  [
+    [
       "2024-12-28, 14:10:04",
       "https://lobste.rs/s/drxhwk/how_add_metaprogramming_gleam"
     ],
@@ -237,16 +247,6 @@
     [
       "Lua is so underrated",
       "https://nflatrea.bearblog.dev/lua-is-so-underrated/"
-    ]
-  ],
-  [
-    [
-      "2024-12-26, 14:38:15",
-      "https://lobste.rs/s/tejwv6/seconds_since_epoch"
-    ],
-    [
-      "Seconds Since the Epoch",
-      "https://aphyr.com/posts/378-seconds-since-the-epoch"
     ]
   ]
 ]
