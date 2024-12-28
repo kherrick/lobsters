@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 22:45:44](https://lobste.rs/s/6r4lse/allocator_aware_c_type_design) - [Allocator-Aware C++ Type Design](https://www.youtube.com/watch?v=hZyJtRY84P4)
 * [2024-12-28, 22:34:47](https://lobste.rs/s/psw5da/django_2024) - [Django in 2024](https://www.screamingatmyscreen.com/django-in-2024/)
 * [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
 * [2024-12-28, 21:15:33](https://lobste.rs/s/8ye1g2/axum_style_magic_handler_functions_go) - [Axum-style Magic Handler Functions in Go, Part 2](https://kubuzetto.github.io/posts/go-axum-handlers-pt2/)
@@ -18,7 +19,6 @@
 * [2024-12-28, 02:05:32](https://lobste.rs/s/6zkufi/on_ada_s_dependent_types_its_types_as_whole) - [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-27, 21:31:11](https://lobste.rs/s/438al3/chimera_linux_entering_beta) - [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
-* [2024-12-27, 12:19:46](https://lobste.rs/s/riwsis/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/riwsis/what_are_you_doing_this_weekend)
 * [2024-12-27, 10:00:25](https://lobste.rs/s/bxmpam/cap_theorem_clustering_why_every) - [The CAP Theorem of Clustering: Why Every Algorithm Must Sacrifice Something](https://blog.codingconfessions.com/p/the-cap-theorem-of-clustering)
 * [2024-12-27, 09:53:35](https://lobste.rs/s/usawel/debugging_memory_corruption_who_wrote_2) - [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-27, 09:09:23](https://lobste.rs/s/oifo6a/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/trifectatechfoundation/sudo-rs)
