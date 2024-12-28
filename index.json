@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-28, 22:34:47",
+      "https://lobste.rs/s/psw5da/django_2024"
+    ],
+    [
+      "Django in 2024",
+      "https://www.screamingatmyscreen.com/django-in-2024/"
+    ]
+  ],
+  [
+    [
       "2024-12-28, 21:46:25",
       "https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database"
     ],
@@ -197,16 +207,6 @@
     [
       "Debugging memory corruption: Who wrote ‘2’ into my stack?",
       "https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 09:33:42",
-      "https://lobste.rs/s/tqxzl9/everything_you_ever_wanted_know_about"
-    ],
-    [
-      "Everything you ever wanted to know about “hello, world” but were afraid to ask",
-      "https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf"
     ]
   ],
   [
