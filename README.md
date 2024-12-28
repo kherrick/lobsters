@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 19:50:34](https://lobste.rs/s/gfjghd/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
 * [2024-12-28, 19:20:49](https://lobste.rs/s/pjoydd/stuff_i_learnt_2024) - [Stuff I learnt in 2024](https://pixel-druid.com/articles/stuff-i-learnt-in-2024)
 * [2024-12-28, 16:05:26](https://lobste.rs/s/kijqmv/tech_worker_movements_grow_as_threats_rto) - [Tech worker movements grow as threats of RTO, AI loom](https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/)
@@ -21,7 +22,6 @@
 * [2024-12-27, 09:33:42](https://lobste.rs/s/tqxzl9/everything_you_ever_wanted_know_about) - [Everything you ever wanted to know about “hello, world” but were afraid to ask](https://people.freebsd.org/~brooks/talks/asiabsdcon2017-helloworld/helloworld.pdf)
 * [2024-12-27, 09:09:23](https://lobste.rs/s/oifo6a/sudo_rs_memory_safe_implementation_sudo) - [sudo-rs: A memory safe implementation of sudo and su](https://github.com/trifectatechfoundation/sudo-rs)
 * [2024-12-27, 08:39:03](https://lobste.rs/s/nggojs/38c3_illegal_instructions_streaming) - [38C3: Illegal Instructions Streaming](https://streaming.media.ccc.de/38c3/)
-* [2024-12-27, 04:16:26](https://lobste.rs/s/pqdjw1/running_netbsd_10_1_on_1998_toshiba_laptop) - [Running NetBSD 10.1 on a 1998 Toshiba laptop](https://www.idatum.net/running-netbsd-101-on-a-1998-toshiba-laptop.html)
 * [2024-12-27, 00:01:41](https://lobste.rs/s/d9hldh/perfect_desk) - [Perfect Desk](https://vermaden.wordpress.com/2024/12/27/perfect-desk/)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 19:20:39](https://lobste.rs/s/jf4in1/lua_is_so_underrated) - [Lua is so underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)

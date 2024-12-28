@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 19:50:34](https://lobste.rs/s/gfjghd/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
 * [2024-12-28, 19:20:49](https://lobste.rs/s/pjoydd/stuff_i_learnt_2024) - [Stuff I learnt in 2024](https://pixel-druid.com/articles/stuff-i-learnt-in-2024)
 * [2024-12-28, 16:05:26](https://lobste.rs/s/kijqmv/tech_worker_movements_grow_as_threats_rto) - [Tech worker movements grow as threats of RTO, AI loom](https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/)
