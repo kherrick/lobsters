@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 12:06:05](https://lobste.rs/s/4thoju/revisiting_netbsd_build_system) - [Revisiting the NetBSD build system](https://blogsystem5.substack.com/p/netbsd-build-system)
 * [2024-12-28, 11:24:50](https://lobste.rs/s/aqsu0u/james_gosling_on_java_historical) - [James Gosling on Java - Historical Oddities & Persistent Itches](https://www.youtube.com/watch?v=zg8xM0xxFa8)
 * [2024-12-28, 09:27:41](https://lobste.rs/s/owuavw/keeping_secrets_secret_with_git_crypt) - [Keeping secrets secret with git-crypt](https://blog.ktz.me/keeping-secrets-secret-with-git-crypt/)
 * [2024-12-28, 06:35:41](https://lobste.rs/s/lehiwq/how_create_html_zip_png_polyglot_files) - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
@@ -23,7 +24,6 @@
 * [2024-12-26, 21:08:46](https://lobste.rs/s/pgzifc/arcan_0_7_all_tomato) - [Arcan 0.7 – The All Tomato](https://arcan-fe.com/2024/12/25/arcan-0-7-the-all-tomato/)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
 * [2024-12-26, 19:20:39](https://lobste.rs/s/jf4in1/lua_is_so_underrated) - [Lua is so underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
-* [2024-12-26, 14:44:51](https://lobste.rs/s/oswvfj/matrix_holiday_special_2024) - [The Matrix Holiday Special 2024](https://matrix.org/blog/2024/12/25/the-matrix-holiday-special-2024/)
 * [2024-12-26, 14:38:15](https://lobste.rs/s/tejwv6/seconds_since_epoch) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 
 ## [Archives](archives/index.md)
