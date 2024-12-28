@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 06:35:41](https://lobste.rs/s/lehiwq/how_create_html_zip_png_polyglot_files) - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
 * [2024-12-28, 05:20:44](https://lobste.rs/s/jgrhbt/visualizing_all_isbns_10k_by_2025_01_31) - [Visualizing All ISBNs — $10k by 2025-01-31](https://annas-archive.org/blog/all-isbns.html)
 * [2024-12-28, 02:05:32](https://lobste.rs/s/6zkufi/on_ada_s_dependent_types_its_types_as_whole) - [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-27, 22:47:58](https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor) - [apparmor.d: Extensive set of AppArmor profiles](https://github.com/roddhjav/apparmor.d)
@@ -24,7 +25,6 @@
 * [2024-12-26, 14:44:51](https://lobste.rs/s/oswvfj/matrix_holiday_special_2024) - [The Matrix Holiday Special 2024](https://matrix.org/blog/2024/12/25/the-matrix-holiday-special-2024/)
 * [2024-12-26, 14:38:15](https://lobste.rs/s/tejwv6/seconds_since_epoch) - [Seconds Since the Epoch](https://aphyr.com/posts/378-seconds-since-the-epoch)
 * [2024-12-26, 14:32:25](https://lobste.rs/s/5hjq6v/unbearable_slowness_being_why_do_we_live) - [The Unbearable Slowness of Being: Why do we live at 10 bits/s?](https://arxiv.org/abs/2408.10234)
-* [2024-12-26, 13:26:18](https://lobste.rs/s/vxx66r/usb_c_head_head_comparison) - [USB-C head-to-head comparison](https://www.lumafield.com/article/usb-c-cable-charger-head-to-head-comparison-apple-thunderbolt-amazon-basics)
 
 ## [Archives](archives/index.md)
 
