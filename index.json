@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-28, 19:26:49",
+      "https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind"
+    ],
+    [
+      "Intel's $475 million error: the silicon behind the Pentium division bug",
+      "http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1"
+    ]
+  ],
+  [
+    [
       "2024-12-28, 19:20:49",
       "https://lobste.rs/s/pjoydd/stuff_i_learnt_2024"
     ],
@@ -107,16 +117,6 @@
     [
       "On Ada's Dependent Types, and its Types as a Whole",
       "https://nytpu.com/gemlog/2024-12-27"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 22:47:58",
-      "https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor"
-    ],
-    [
-      "apparmor.d: Extensive set of AppArmor profiles",
-      "https://github.com/roddhjav/apparmor.d"
     ]
   ],
   [
