@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
 * [2024-12-28, 19:20:49](https://lobste.rs/s/pjoydd/stuff_i_learnt_2024) - [Stuff I learnt in 2024](https://pixel-druid.com/articles/stuff-i-learnt-in-2024)
 * [2024-12-28, 16:05:26](https://lobste.rs/s/kijqmv/tech_worker_movements_grow_as_threats_rto) - [Tech worker movements grow as threats of RTO, AI loom](https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/)
 * [2024-12-28, 15:38:09](https://lobste.rs/s/yphawq/s_not_abstraction_s_just_layer) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
@@ -11,7 +12,6 @@
 * [2024-12-28, 06:35:41](https://lobste.rs/s/lehiwq/how_create_html_zip_png_polyglot_files) - [How to Create HTML/ZIP/PNG Polyglot Files](https://gildas-lormeau.github.io/Polyglot-HTML-ZIP-PNG/SUMMARY.html)
 * [2024-12-28, 05:20:44](https://lobste.rs/s/jgrhbt/visualizing_all_isbns_10k_by_2025_01_31) - [Visualizing All ISBNs — $10k by 2025-01-31](https://annas-archive.org/blog/all-isbns.html)
 * [2024-12-28, 02:05:32](https://lobste.rs/s/6zkufi/on_ada_s_dependent_types_its_types_as_whole) - [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
-* [2024-12-27, 22:47:58](https://lobste.rs/s/yqvtha/apparmor_d_extensive_set_apparmor) - [apparmor.d: Extensive set of AppArmor profiles](https://github.com/roddhjav/apparmor.d)
 * [2024-12-27, 21:31:11](https://lobste.rs/s/438al3/chimera_linux_entering_beta) - [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
 * [2024-12-27, 18:43:24](https://lobste.rs/s/ikhot1/run_mcp_servers_on_android_with_gemini) - [Run MCP Servers On Android with Gemini & Chicory](https://docs.mcp.run/blog/2024/12/27/running-tools-on-android/)
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
