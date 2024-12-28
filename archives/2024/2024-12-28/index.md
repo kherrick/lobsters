@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-28](index.md)
 
+* [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
 * [2024-12-28, 22:45:44](https://lobste.rs/s/6r4lse/allocator_aware_c_type_design) - [Allocator-Aware C++ Type Design](https://www.youtube.com/watch?v=hZyJtRY84P4)
 * [2024-12-28, 22:34:47](https://lobste.rs/s/psw5da/django_2024) - [Django in 2024](https://www.screamingatmyscreen.com/django-in-2024/)
 * [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
