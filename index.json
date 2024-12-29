@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2024-12-28, 19:50:34",
-      "https://lobste.rs/s/gfjghd/intel_s_475_million_error_silicon_behind"
-    ],
-    [
-      "Intel's $475 million error: the silicon behind the Pentium division bug",
-      "http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html"
-    ]
-  ],
-  [
-    [
       "2024-12-28, 19:26:49",
       "https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind"
     ],
@@ -237,6 +227,16 @@
     [
       "Does current AI represent a dead end?",
       "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/"
+    ]
+  ],
+  [
+    [
+      "2024-12-27, 09:53:35",
+      "https://lobste.rs/s/usawel/debugging_memory_corruption_who_wrote_2"
+    ],
+    [
+      "Debugging memory corruption: Who wrote ‘2’ into my stack?",
+      "https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell"
     ]
   ],
   [
