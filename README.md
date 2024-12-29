@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-29, 23:08:42](https://lobste.rs/s/5qtis7/200_000) - [200 000](https://vermaden.wordpress.com/2024/12/29/200-000/)
+* [2024-12-29, 23:03:00](https://lobste.rs/s/xypp5u/cody_computer_homebrew_6502_system) - [The Cody Computer homebrew 6502 system](https://www.codycomputer.org/)
 * [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
 * [2024-12-29, 21:49:09](https://lobste.rs/s/3swfc9/faq_fixbrowser_fixproxy) - [FAQ | FixBrowser # FixProxy](https://www.fixbrowser.org/faq#proxy)
 * [2024-12-29, 21:39:36](https://lobste.rs/s/agzhzy/blsforme_bls_compatible_distro_kernel) - [blsforme: BLS compatible distro kernel management](https://github.com/serpent-os/blsforme)
@@ -23,8 +25,6 @@
 * [2024-12-28, 14:10:04](https://lobste.rs/s/drxhwk/how_add_metaprogramming_gleam) - [How to add metaprogramming to Gleam](https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/)
 * [2024-12-28, 14:01:37](https://lobste.rs/s/jumpcb/advent_code_2024_pure_sql) - [Advent of Code 2024 in pure SQL](https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2024-12-28, 12:06:05](https://lobste.rs/s/4thoju/revisiting_netbsd_build_system) - [Revisiting the NetBSD build system](https://blogsystem5.substack.com/p/netbsd-build-system)
-* [2024-12-28, 09:27:41](https://lobste.rs/s/owuavw/keeping_secrets_secret_with_git_crypt) - [Keeping secrets secret with git-crypt](https://blog.ktz.me/keeping-secrets-secret-with-git-crypt/)
-* [2024-12-28, 05:20:44](https://lobste.rs/s/jgrhbt/visualizing_all_isbns_10k_by_2025_01_31) - [Visualizing All ISBNs — $10k by 2025-01-31](https://annas-archive.org/blog/all-isbns.html)
 
 ## [Archives](archives/index.md)
 
