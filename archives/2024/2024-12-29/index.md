@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 21:39:36](https://lobste.rs/s/agzhzy/blsforme_bls_compatible_distro_kernel) - [blsforme: BLS compatible distro kernel management](https://github.com/serpent-os/blsforme)
+* [2024-12-29, 21:35:39](https://lobste.rs/s/moajj8/booster_fast_secure_initramfs_generator) - [booster: Fast and secure initramfs generator](https://github.com/anatol/booster)
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 20:17:24](https://lobste.rs/s/middwy/technical_debt_is_entropy_software) - [Technical Debt is Entropy In Software](https://grohan.co/2024/12/27/entropy/)
 * [2024-12-29, 19:45:10](https://lobste.rs/s/jke0d3/visualizing_memory_layout_rust_s_data) - [Visualizing memory layout of Rust's data types](https://youtu.be/7_o-YRxf_cc)
