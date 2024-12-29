@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-29, 20:19:30",
+      "https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting"
+    ],
+    [
+      "How I’m trying to use BlueSky without getting burned again",
+      "https://chrisholdgraf.com/blog/2024/bluesky"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 20:17:24",
+      "https://lobste.rs/s/middwy/technical_debt_is_entropy_software"
+    ],
+    [
+      "Technical Debt is Entropy In Software",
+      "https://grohan.co/2024/12/27/entropy/"
+    ]
+  ],
+  [
+    [
       "2024-12-29, 19:45:10",
       "https://lobste.rs/s/jke0d3/visualizing_memory_layout_rust_s_data"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2024-12-28, 11:24:50",
-      "https://lobste.rs/s/aqsu0u/james_gosling_on_java_historical"
-    ],
-    [
-      "James Gosling on Java - Historical Oddities & Persistent Itches",
-      "https://www.youtube.com/watch?v=zg8xM0xxFa8"
-    ]
-  ],
-  [
-    [
       "2024-12-28, 09:27:41",
       "https://lobste.rs/s/owuavw/keeping_secrets_secret_with_git_crypt"
     ],
@@ -237,16 +247,6 @@
     [
       "Chimera Linux Entering beta",
       "https://chimera-linux.org/news/2024/12/entering-beta.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 12:33:18",
-      "https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end"
-    ],
-    [
-      "Does current AI represent a dead end?",
-      "https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/"
     ]
   ]
 ]
