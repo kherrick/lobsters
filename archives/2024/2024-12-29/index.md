@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
 * [2024-12-29, 21:49:09](https://lobste.rs/s/3swfc9/faq_fixbrowser_fixproxy) - [FAQ | FixBrowser # FixProxy](https://www.fixbrowser.org/faq#proxy)
 * [2024-12-29, 21:49:09](https://lobste.rs/s/3swfc9/faq_fixbrowser) - [FAQ | FixBrowser](https://www.fixbrowser.org/faq#proxy)
 * [2024-12-29, 21:39:36](https://lobste.rs/s/agzhzy/blsforme_bls_compatible_distro_kernel) - [blsforme: BLS compatible distro kernel management](https://github.com/serpent-os/blsforme)
