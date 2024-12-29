@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 19:45:10](https://lobste.rs/s/jke0d3/visualizing_memory_layout_rust_s_data) - [Visualizing memory layout of Rust's data types](https://youtu.be/7_o-YRxf_cc)
+* [2024-12-29, 19:41:48](https://lobste.rs/s/o3cdub/ioccc28_40th_anniversary_contest_is) - [IOCCC28, the 40th anniversary contest, is starting tonight](https://www.ioccc.org/news.html)
 * [2024-12-29, 18:39:09](https://lobste.rs/s/0yfg39/unintuitive_optimization_for) - [Unintuitive Optimization For Performing Paths Union](https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/)
 * [2024-12-29, 15:20:17](https://lobste.rs/s/bimemj/seninja_symbolic_execution_plugin_for) - [SEninja: symbolic execution plugin for Binary Ninja](https://github.com/borzacchiello/seninja)
 * [2024-12-29, 14:51:34](https://lobste.rs/s/f7llng/multi_platform_multi_format_annotation) - [Multi-platform, multi-format annotation woes](https://ryanwwest.com/pkm-annotation/)
