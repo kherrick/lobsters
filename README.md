@@ -9,7 +9,6 @@
 * [2024-12-28, 22:34:47](https://lobste.rs/s/psw5da/django_2024) - [Django in 2024](https://www.screamingatmyscreen.com/django-in-2024/)
 * [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
 * [2024-12-28, 21:15:33](https://lobste.rs/s/8ye1g2/axum_style_magic_handler_functions_go) - [Axum-style Magic Handler Functions in Go, Part 2](https://kubuzetto.github.io/posts/go-axum-handlers-pt2/)
-* [2024-12-28, 19:50:34](https://lobste.rs/s/gfjghd/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html)
 * [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
 * [2024-12-28, 19:20:49](https://lobste.rs/s/pjoydd/stuff_i_learnt_2024) - [Stuff I learnt in 2024](https://pixel-druid.com/articles/stuff-i-learnt-in-2024)
 * [2024-12-28, 16:05:26](https://lobste.rs/s/kijqmv/tech_worker_movements_grow_as_threats_rto) - [Tech worker movements grow as threats of RTO, AI loom](https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/)
@@ -24,6 +23,7 @@
 * [2024-12-28, 02:05:32](https://lobste.rs/s/6zkufi/on_ada_s_dependent_types_its_types_as_whole) - [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-27, 21:31:11](https://lobste.rs/s/438al3/chimera_linux_entering_beta) - [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
+* [2024-12-27, 09:53:35](https://lobste.rs/s/usawel/debugging_memory_corruption_who_wrote_2) - [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
 
 ## [Archives](archives/index.md)
