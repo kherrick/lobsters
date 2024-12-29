@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-29, 14:51:34](https://lobste.rs/s/f7llng/multi_platform_multi_format_annotation) - [Multi-platform, multi-format annotation woes](https://ryanwwest.com/pkm-annotation/)
 * [2024-12-29, 10:05:53](https://lobste.rs/s/nuie8m/tips_for_new_open_source_maintainers) - [Tips for New Open Source Maintainers](https://lord.io/oss-tips/)
 * [2024-12-29, 06:07:59](https://lobste.rs/s/rwvqco/hello_ebpf_writing_linux_scheduler_java) - [Hello eBPF: Writing a Linux scheduler in Java with eBPF](https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
@@ -24,7 +25,6 @@
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
 * [2024-12-27, 09:53:35](https://lobste.rs/s/usawel/debugging_memory_corruption_who_wrote_2) - [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
-* [2024-12-26, 19:20:39](https://lobste.rs/s/jf4in1/lua_is_so_underrated) - [Lua is so underrated](https://nflatrea.bearblog.dev/lua-is-so-underrated/)
 
 ## [Archives](archives/index.md)
 
