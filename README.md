@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-29, 15:20:17](https://lobste.rs/s/bimemj/seninja_symbolic_execution_plugin_for) - [SEninja: symbolic execution plugin for Binary Ninja](https://github.com/borzacchiello/seninja)
 * [2024-12-29, 14:51:34](https://lobste.rs/s/f7llng/multi_platform_multi_format_annotation) - [Multi-platform, multi-format annotation woes](https://ryanwwest.com/pkm-annotation/)
-* [2024-12-29, 10:05:53](https://lobste.rs/s/nuie8m/tips_for_new_open_source_maintainers) - [Tips for New Open Source Maintainers](https://lord.io/oss-tips/)
+* [2024-12-29, 10:05:53](https://lobste.rs/s/nuie8m/tips_for_new_open_source_maintainers_2014) - [Tips for New Open Source Maintainers (2014)](https://lord.io/oss-tips/)
 * [2024-12-29, 06:07:59](https://lobste.rs/s/rwvqco/hello_ebpf_writing_linux_scheduler_java) - [Hello eBPF: Writing a Linux scheduler in Java with eBPF](https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
 * [2024-12-28, 22:45:44](https://lobste.rs/s/6r4lse/allocator_aware_c_type_design) - [Allocator-Aware C++ Type Design](https://www.youtube.com/watch?v=hZyJtRY84P4)
@@ -23,7 +24,6 @@
 * [2024-12-28, 02:05:32](https://lobste.rs/s/6zkufi/on_ada_s_dependent_types_its_types_as_whole) - [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-27, 21:31:11](https://lobste.rs/s/438al3/chimera_linux_entering_beta) - [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
-* [2024-12-27, 09:53:35](https://lobste.rs/s/usawel/debugging_memory_corruption_who_wrote_2) - [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
 
 ## [Archives](archives/index.md)
