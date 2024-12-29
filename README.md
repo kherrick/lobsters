@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-29, 18:39:09](https://lobste.rs/s/0yfg39/unintuitive_optimization_for) - [Unintuitive Optimization For Performing Paths Union](https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/)
 * [2024-12-29, 15:20:17](https://lobste.rs/s/bimemj/seninja_symbolic_execution_plugin_for) - [SEninja: symbolic execution plugin for Binary Ninja](https://github.com/borzacchiello/seninja)
 * [2024-12-29, 14:51:34](https://lobste.rs/s/f7llng/multi_platform_multi_format_annotation) - [Multi-platform, multi-format annotation woes](https://ryanwwest.com/pkm-annotation/)
 * [2024-12-29, 10:05:53](https://lobste.rs/s/nuie8m/tips_for_new_open_source_maintainers_2014) - [Tips for New Open Source Maintainers (2014)](https://lord.io/oss-tips/)
@@ -23,7 +24,6 @@
 * [2024-12-28, 02:05:32](https://lobste.rs/s/6zkufi/on_ada_s_dependent_types_its_types_as_whole) - [On Ada's Dependent Types, and its Types as a Whole](https://nytpu.com/gemlog/2024-12-27)
 * [2024-12-27, 21:31:11](https://lobste.rs/s/438al3/chimera_linux_entering_beta) - [Chimera Linux Entering beta](https://chimera-linux.org/news/2024/12/entering-beta.html)
 * [2024-12-27, 12:33:18](https://lobste.rs/s/lgqwje/does_current_ai_represent_dead_end) - [Does current AI represent a dead end?](https://www.bcs.org/articles-opinion-and-research/does-current-ai-represent-a-dead-end/)
-* [2024-12-27, 09:53:35](https://lobste.rs/s/usawel/debugging_memory_corruption_who_wrote_2) - [Debugging memory corruption: Who wrote ‘2’ into my stack?](https://unity.com/blog/engine-platform/debugging-memory-debugging-memory-corruption-who-wrote-2-into-my-stack-who-the-hell)
 * [2024-12-26, 20:16:41](https://lobste.rs/s/3tsfb5/ghostty_1_0) - [Ghostty 1.0](https://ghostty.org/)
 
 ## [Archives](archives/index.md)
