@@ -1,6 +1,26 @@
 [
   [
     [
+      "2024-12-29, 21:39:36",
+      "https://lobste.rs/s/agzhzy/blsforme_bls_compatible_distro_kernel"
+    ],
+    [
+      "blsforme: BLS compatible distro kernel management",
+      "https://github.com/serpent-os/blsforme"
+    ]
+  ],
+  [
+    [
+      "2024-12-29, 21:35:39",
+      "https://lobste.rs/s/moajj8/booster_fast_secure_initramfs_generator"
+    ],
+    [
+      "booster: Fast and secure initramfs generator",
+      "https://github.com/anatol/booster"
+    ]
+  ],
+  [
+    [
       "2024-12-29, 20:19:30",
       "https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting"
     ],
@@ -97,16 +117,6 @@
     [
       "Fish 4.0: The Fish Of Theseus",
       "https://fishshell.com/blog/rustport/"
-    ]
-  ],
-  [
-    [
-      "2024-12-28, 22:45:44",
-      "https://lobste.rs/s/6r4lse/allocator_aware_c_type_design"
-    ],
-    [
-      "Allocator-Aware C++ Type Design",
-      "https://www.youtube.com/watch?v=hZyJtRY84P4"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "On Ada's Dependent Types, and its Types as a Whole",
       "https://nytpu.com/gemlog/2024-12-27"
-    ]
-  ],
-  [
-    [
-      "2024-12-27, 21:31:11",
-      "https://lobste.rs/s/438al3/chimera_linux_entering_beta"
-    ],
-    [
-      "Chimera Linux Entering beta",
-      "https://chimera-linux.org/news/2024/12/entering-beta.html"
     ]
   ]
 ]
