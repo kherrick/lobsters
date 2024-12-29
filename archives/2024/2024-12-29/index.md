@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 23:34:29](https://lobste.rs/s/631ful/how_use_ai_help_brainstorming_exploring) - [How to use AI to help brainstorming and exploring architecture before building](https://docs.chatuml.com/blog/build-your-own-startup-with-chatuml)
 * [2024-12-29, 23:08:42](https://lobste.rs/s/5qtis7/200_000) - [200 000](https://vermaden.wordpress.com/2024/12/29/200-000/)
 * [2024-12-29, 23:03:00](https://lobste.rs/s/xypp5u/cody_computer_homebrew_6502_system) - [The Cody Computer homebrew 6502 system](https://www.codycomputer.org/)
 * [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
