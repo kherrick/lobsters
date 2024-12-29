@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-29](index.md)
 
+* [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
+* [2024-12-29, 20:17:24](https://lobste.rs/s/middwy/technical_debt_is_entropy_software) - [Technical Debt is Entropy In Software](https://grohan.co/2024/12/27/entropy/)
 * [2024-12-29, 19:45:10](https://lobste.rs/s/jke0d3/visualizing_memory_layout_rust_s_data) - [Visualizing memory layout of Rust's data types](https://youtu.be/7_o-YRxf_cc)
 * [2024-12-29, 19:41:48](https://lobste.rs/s/o3cdub/ioccc28_40th_anniversary_contest_is) - [IOCCC28, the 40th anniversary contest, is starting tonight](https://www.ioccc.org/news.html)
 * [2024-12-29, 18:39:09](https://lobste.rs/s/0yfg39/unintuitive_optimization_for) - [Unintuitive Optimization For Performing Paths Union](https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/)
