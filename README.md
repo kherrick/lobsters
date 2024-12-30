@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 22:14:54](https://lobste.rs/s/jfwinv/what_is_dependency) - [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
 * [2024-12-30, 20:16:00](https://lobste.rs/s/tayebo/how_quit_mainstream_social_media_join) - [How to Quit Mainstream Social Media and Join Mastodon: A Healthier Way to Connect](https://unboundroutes.com/2024/11/29/quit-social-media-join-mastodon/)
 * [2024-12-30, 19:22:15](https://lobste.rs/s/ipl6q8/adding_fully_bootstrapped_mono_gnu_guix) - [Adding a fully-bootstrapped Mono to GNU Guix](https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/)
 * [2024-12-30, 17:52:27](https://lobste.rs/s/7h61dr/homa_network_protocol) - [The Homa network protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
@@ -19,7 +20,6 @@
 * [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
 * [2024-12-30, 02:00:48](https://lobste.rs/s/j4c0d0/how_webcams_with_focus_control_work_razer) - [How webcams with focus control work (Razer Kiyo Pro repair)](https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/)
 * [2024-12-30, 01:34:55](https://lobste.rs/s/aeatxh/i_still_believe_bicycle_for_your_mind_this) - [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
-* [2024-12-29, 23:03:00](https://lobste.rs/s/xypp5u/cody_computer_homebrew_6502_system) - [The Cody Computer homebrew 6502 system](https://www.codycomputer.org/)
 * [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
 * [2024-12-29, 21:49:09](https://lobste.rs/s/3swfc9/faq_fixbrowser_fixproxy) - [FAQ | FixBrowser # FixProxy](https://www.fixbrowser.org/faq#proxy)
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
