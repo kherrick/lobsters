@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 12:16:43](https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message) - [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
 * [2024-12-30, 11:25:41](https://lobste.rs/s/enfhri/exported_for_tests_only_precise_control) - [Exported for tests only: Precise control over API visibility with custom warnings](https://tech.scrive.com/exported-for-tests-only-precise-control-over-api-visibility-with-custom-warnings/)
 * [2024-12-30, 11:19:35](https://lobste.rs/s/h4udgl/installing_netbsd_on_nintendo_wii) - [Installing NetBSD on the Nintendo Wii](https://youtu.be/KO9bNwE3Vps)
 * [2024-12-30, 11:12:50](https://lobste.rs/s/68xmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/68xmon/what_are_you_doing_this_week)

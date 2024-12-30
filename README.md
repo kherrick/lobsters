@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 12:16:43](https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message) - [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
 * [2024-12-30, 11:25:41](https://lobste.rs/s/enfhri/exported_for_tests_only_precise_control) - [Exported for tests only: Precise control over API visibility with custom warnings](https://tech.scrive.com/exported-for-tests-only-precise-control-over-api-visibility-with-custom-warnings/)
 * [2024-12-30, 11:19:35](https://lobste.rs/s/h4udgl/installing_netbsd_on_nintendo_wii) - [Installing NetBSD on the Nintendo Wii](https://youtu.be/KO9bNwE3Vps)
 * [2024-12-30, 11:12:50](https://lobste.rs/s/68xmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/68xmon/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2024-12-29, 10:05:53](https://lobste.rs/s/nuie8m/tips_for_new_open_source_maintainers_2014) - [Tips for New Open Source Maintainers (2014)](https://lord.io/oss-tips/)
 * [2024-12-29, 06:07:59](https://lobste.rs/s/rwvqco/hello_ebpf_writing_linux_scheduler_java) - [Hello eBPF: Writing a Linux scheduler in Java with eBPF](https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
-* [2024-12-28, 22:34:47](https://lobste.rs/s/psw5da/django_2024) - [Django in 2024](https://www.screamingatmyscreen.com/django-in-2024/)
 * [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
 * [2024-12-28, 15:38:09](https://lobste.rs/s/yphawq/s_not_abstraction_s_just_layer) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 
