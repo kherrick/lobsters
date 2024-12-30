@@ -13,6 +13,7 @@
 * [2024-12-30, 12:16:43](https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message) - [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
 * [2024-12-30, 11:19:35](https://lobste.rs/s/h4udgl/installing_netbsd_on_nintendo_wii) - [Installing NetBSD on the Nintendo Wii](https://youtu.be/KO9bNwE3Vps)
 * [2024-12-30, 11:12:50](https://lobste.rs/s/68xmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/68xmon/what_are_you_doing_this_week)
+* [2024-12-30, 10:56:29](https://lobste.rs/s/vnogpe/legacy_train_control_system) - [Legacy Train Control System Stabilisation (2012)](https://www.equicon.de/images/Virtualisierung/LegacyTrainControlSystemStabilization.pdf)
 * [2024-12-30, 08:12:25](https://lobste.rs/s/ewqoyx/systems_ideas_sound_good_almost_never) - [Systems Ideas that Sound Good But Almost Never Work—\"Let's just…\"](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
 * [2024-12-30, 02:00:48](https://lobste.rs/s/j4c0d0/how_webcams_with_focus_control_work_razer) - [How webcams with focus control work (Razer Kiyo Pro repair)](https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/)
@@ -24,7 +25,6 @@
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 19:41:48](https://lobste.rs/s/o3cdub/ioccc28_40th_anniversary_contest_is) - [IOCCC28, the 40th anniversary contest, is starting tonight](https://www.ioccc.org/news.html)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
-* [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
 
 ## [Archives](archives/index.md)
 
