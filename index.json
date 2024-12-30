@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-30, 11:25:41",
+      "https://lobste.rs/s/enfhri/exported_for_tests_only_precise_control"
+    ],
+    [
+      "Exported for tests only: Precise control over API visibility with custom warnings",
+      "https://tech.scrive.com/exported-for-tests-only-precise-control-over-api-visibility-with-custom-warnings/"
+    ]
+  ],
+  [
+    [
       "2024-12-30, 11:19:35",
       "https://lobste.rs/s/h4udgl/installing_netbsd_on_nintendo_wii"
     ],
@@ -107,16 +117,6 @@
     [
       "FAQ | FixBrowser # FixProxy",
       "https://www.fixbrowser.org/faq#proxy"
-    ]
-  ],
-  [
-    [
-      "2024-12-29, 21:39:36",
-      "https://lobste.rs/s/agzhzy/blsforme_bls_compatible_distro_kernel"
-    ],
-    [
-      "blsforme: BLS compatible distro kernel management",
-      "https://github.com/serpent-os/blsforme"
     ]
   ],
   [
