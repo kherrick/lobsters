@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 11:19:35](https://lobste.rs/s/h4udgl/installing_netbsd_on_nintendo_wii) - [Installing NetBSD on the Nintendo Wii](https://youtu.be/KO9bNwE3Vps)
+* [2024-12-30, 11:12:50](https://lobste.rs/s/68xmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/68xmon/what_are_you_doing_this_week)
 * [2024-12-30, 10:56:29](https://lobste.rs/s/vnogpe/legacy_train_control_system) - [Legacy Train Control System Stabilisation (2012)](https://www.equicon.de/images/Virtualisierung/LegacyTrainControlSystemStabilization.pdf)
 * [2024-12-30, 08:12:25](https://lobste.rs/s/ewqoyx/systems_ideas_sound_good_almost_never) - [Systems Ideas that Sound Good But Almost Never Work—\"Let's just…\"](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
@@ -22,8 +24,6 @@
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
 * [2024-12-28, 22:34:47](https://lobste.rs/s/psw5da/django_2024) - [Django in 2024](https://www.screamingatmyscreen.com/django-in-2024/)
 * [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
-* [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
-* [2024-12-28, 19:20:49](https://lobste.rs/s/pjoydd/stuff_i_learnt_2024) - [Stuff I learnt in 2024](https://pixel-druid.com/articles/stuff-i-learnt-in-2024)
 * [2024-12-28, 15:38:09](https://lobste.rs/s/yphawq/s_not_abstraction_s_just_layer) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 
 ## [Archives](archives/index.md)
