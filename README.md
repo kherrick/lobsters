@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
 * [2024-12-30, 02:00:48](https://lobste.rs/s/j4c0d0/how_webcams_with_focus_control_work_razer) - [How webcams with focus control work (Razer Kiyo Pro repair)](https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/)
 * [2024-12-30, 01:34:55](https://lobste.rs/s/aeatxh/i_still_believe_bicycle_for_your_mind_this) - [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
 * [2024-12-29, 23:34:29](https://lobste.rs/s/631ful/how_use_ai_help_brainstorming_exploring) - [How to use AI to help brainstorming and exploring architecture before building](https://docs.chatuml.com/blog/build-your-own-startup-with-chatuml)
@@ -14,7 +15,6 @@
 * [2024-12-29, 19:41:48](https://lobste.rs/s/o3cdub/ioccc28_40th_anniversary_contest_is) - [IOCCC28, the 40th anniversary contest, is starting tonight](https://www.ioccc.org/news.html)
 * [2024-12-29, 18:39:09](https://lobste.rs/s/0yfg39/unintuitive_optimization_for) - [Unintuitive Optimization For Performing Paths Union](https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/)
 * [2024-12-29, 15:20:17](https://lobste.rs/s/bimemj/seninja_symbolic_execution_plugin_for) - [SEninja: symbolic execution plugin for Binary Ninja](https://github.com/borzacchiello/seninja)
-* [2024-12-29, 14:51:34](https://lobste.rs/s/f7llng/multi_platform_multi_format_annotation) - [Multi-platform, multi-format annotation woes](https://ryanwwest.com/pkm-annotation/)
 * [2024-12-29, 10:05:53](https://lobste.rs/s/nuie8m/tips_for_new_open_source_maintainers_2014) - [Tips for New Open Source Maintainers (2014)](https://lord.io/oss-tips/)
 * [2024-12-29, 06:07:59](https://lobste.rs/s/rwvqco/hello_ebpf_writing_linux_scheduler_java) - [Hello eBPF: Writing a Linux scheduler in Java with eBPF](https://mostlynerdless.de/blog/2024/09/10/hello-ebpf-writing-a-linux-scheduler-in-java-with-ebpf-15/)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
