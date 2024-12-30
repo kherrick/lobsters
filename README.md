@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 02:00:48](https://lobste.rs/s/j4c0d0/how_webcams_with_focus_control_work_razer) - [How webcams with focus control work (Razer Kiyo Pro repair)](https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/)
+* [2024-12-30, 01:34:55](https://lobste.rs/s/aeatxh/i_still_believe_bicycle_for_your_mind_this) - [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
 * [2024-12-29, 23:34:29](https://lobste.rs/s/631ful/how_use_ai_help_brainstorming_exploring) - [How to use AI to help brainstorming and exploring architecture before building](https://docs.chatuml.com/blog/build-your-own-startup-with-chatuml)
 * [2024-12-29, 23:03:00](https://lobste.rs/s/xypp5u/cody_computer_homebrew_6502_system) - [The Cody Computer homebrew 6502 system](https://www.codycomputer.org/)
 * [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
@@ -20,10 +22,8 @@
 * [2024-12-28, 21:46:25](https://lobste.rs/s/ubqzlh/i_almost_died_for_full_sentry_database) - [I Almost Died for a Full Sentry Database](https://it-notes.dragas.net/2024/12/28/i-almost-died-for-a-full-sentry-database/)
 * [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
 * [2024-12-28, 19:20:49](https://lobste.rs/s/pjoydd/stuff_i_learnt_2024) - [Stuff I learnt in 2024](https://pixel-druid.com/articles/stuff-i-learnt-in-2024)
-* [2024-12-28, 16:05:26](https://lobste.rs/s/kijqmv/tech_worker_movements_grow_as_threats_rto) - [Tech worker movements grow as threats of RTO, AI loom](https://arstechnica.com/tech-policy/2024/12/from-ai-to-rto-unpopular-policies-may-fuel-tech-worker-movements-in-2025/)
 * [2024-12-28, 15:38:09](https://lobste.rs/s/yphawq/s_not_abstraction_s_just_layer) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
 * [2024-12-28, 14:10:04](https://lobste.rs/s/drxhwk/how_add_metaprogramming_gleam) - [How to add metaprogramming to Gleam](https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/)
-* [2024-12-28, 14:01:37](https://lobste.rs/s/jumpcb/advent_code_2024_pure_sql) - [Advent of Code 2024 in pure SQL](https://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2024-12-28, 12:06:05](https://lobste.rs/s/4thoju/revisiting_netbsd_build_system) - [Revisiting the NetBSD build system](https://blogsystem5.substack.com/p/netbsd-build-system)
 
 ## [Archives](archives/index.md)
