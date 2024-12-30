@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 13:57:23](https://lobste.rs/s/y62lgp/flame_graphs_can_hide_small_overheads) - [Flame graphs can hide small overheads with big overall impact](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
 * [2024-12-30, 13:39:06](https://lobste.rs/s/3ycwuq/github_graphql_api_typescript) - [GitHub GraphQL API and TypeScript](https://medv.io/blog/github-graphql-api-and-typescript)
 * [2024-12-30, 12:16:43](https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message) - [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
 * [2024-12-30, 11:25:41](https://lobste.rs/s/enfhri/exported_for_tests_only_precise_control) - [Exported for tests only: Precise control over API visibility with custom warnings](https://tech.scrive.com/exported-for-tests-only-precise-control-over-api-visibility-with-custom-warnings/)
