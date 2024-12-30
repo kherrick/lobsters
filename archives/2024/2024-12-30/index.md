@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 20:16:00](https://lobste.rs/s/tayebo/how_quit_mainstream_social_media_join) - [How to Quit Mainstream Social Media and Join Mastodon: A Healthier Way to Connect](https://unboundroutes.com/2024/11/29/quit-social-media-join-mastodon/)
 * [2024-12-30, 19:22:15](https://lobste.rs/s/ipl6q8/adding_fully_bootstrapped_mono_gnu_guix) - [Adding a fully-bootstrapped Mono to GNU Guix](https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/)
 * [2024-12-30, 17:52:27](https://lobste.rs/s/7h61dr/homa_network_protocol) - [The Homa network protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 * [2024-12-30, 17:02:47](https://lobste.rs/s/2tk1en/lmno_lol_drag_drop_blogging_minus_yucky) - [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)

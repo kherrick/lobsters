@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 20:16:00](https://lobste.rs/s/tayebo/how_quit_mainstream_social_media_join) - [How to Quit Mainstream Social Media and Join Mastodon: A Healthier Way to Connect](https://unboundroutes.com/2024/11/29/quit-social-media-join-mastodon/)
 * [2024-12-30, 19:22:15](https://lobste.rs/s/ipl6q8/adding_fully_bootstrapped_mono_gnu_guix) - [Adding a fully-bootstrapped Mono to GNU Guix](https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/)
 * [2024-12-30, 17:52:27](https://lobste.rs/s/7h61dr/homa_network_protocol) - [The Homa network protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 * [2024-12-30, 17:02:47](https://lobste.rs/s/2tk1en/lmno_lol_drag_drop_blogging_minus_yucky) - [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
@@ -21,7 +22,6 @@
 * [2024-12-29, 23:03:00](https://lobste.rs/s/xypp5u/cody_computer_homebrew_6502_system) - [The Cody Computer homebrew 6502 system](https://www.codycomputer.org/)
 * [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
 * [2024-12-29, 21:49:09](https://lobste.rs/s/3swfc9/faq_fixbrowser_fixproxy) - [FAQ | FixBrowser # FixProxy](https://www.fixbrowser.org/faq#proxy)
-* [2024-12-29, 21:35:39](https://lobste.rs/s/moajj8/booster_fast_secure_initramfs_generator) - [booster: Fast and secure initramfs generator](https://github.com/anatol/booster)
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 19:41:48](https://lobste.rs/s/o3cdub/ioccc28_40th_anniversary_contest_is) - [IOCCC28, the 40th anniversary contest, is starting tonight](https://www.ioccc.org/news.html)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
