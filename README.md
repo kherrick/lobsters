@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 16:42:50](https://lobste.rs/s/csfbtr/jido_run_10k_agents_at_25kb_each) - [Jido – Run 10k agents at 25KB each](https://github.com/agentjido/jido)
 * [2024-12-30, 16:28:40](https://lobste.rs/s/v95gm5/my_thoughts_on_new_nvidia_jetson_orin_nano) - [My thoughts on the new NVIDIA Jetson Orin Nano](https://www.jeremymorgan.com/blog/tech/nvidia-jetson-orin-nano/)
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
 * [2024-12-30, 14:50:28](https://lobste.rs/s/pyfrdt/curious_case_quentell) - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
@@ -20,7 +21,6 @@
 * [2024-12-29, 21:49:09](https://lobste.rs/s/3swfc9/faq_fixbrowser_fixproxy) - [FAQ | FixBrowser # FixProxy](https://www.fixbrowser.org/faq#proxy)
 * [2024-12-29, 21:35:39](https://lobste.rs/s/moajj8/booster_fast_secure_initramfs_generator) - [booster: Fast and secure initramfs generator](https://github.com/anatol/booster)
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
-* [2024-12-29, 20:17:24](https://lobste.rs/s/middwy/technical_debt_is_entropy_software) - [Technical Debt is Entropy In Software](https://grohan.co/2024/12/27/entropy/)
 * [2024-12-29, 19:41:48](https://lobste.rs/s/o3cdub/ioccc28_40th_anniversary_contest_is) - [IOCCC28, the 40th anniversary contest, is starting tonight](https://www.ioccc.org/news.html)
 * [2024-12-29, 18:39:09](https://lobste.rs/s/0yfg39/unintuitive_optimization_for) - [Unintuitive Optimization For Performing Paths Union](https://minus-ze.ro/posts/unintuitive-optimization-for-performing-paths-union/)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
