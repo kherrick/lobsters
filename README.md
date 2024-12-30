@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 08:12:25](https://lobste.rs/s/ewqoyx/systems_ideas_sound_good_almost_never) - [Systems Ideas that Sound Good But Almost Never Work—\"Let's just…\"](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
 * [2024-12-30, 02:00:48](https://lobste.rs/s/j4c0d0/how_webcams_with_focus_control_work_razer) - [How webcams with focus control work (Razer Kiyo Pro repair)](https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/)
 * [2024-12-30, 01:34:55](https://lobste.rs/s/aeatxh/i_still_believe_bicycle_for_your_mind_this) - [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
@@ -23,7 +24,6 @@
 * [2024-12-28, 19:26:49](https://lobste.rs/s/cm8mcj/intel_s_475_million_error_silicon_behind) - [Intel's $475 million error: the silicon behind the Pentium division bug](http://www.righto.com/2024/12/this-die-photo-of-pentium-shows.html?m=1)
 * [2024-12-28, 19:20:49](https://lobste.rs/s/pjoydd/stuff_i_learnt_2024) - [Stuff I learnt in 2024](https://pixel-druid.com/articles/stuff-i-learnt-in-2024)
 * [2024-12-28, 15:38:09](https://lobste.rs/s/yphawq/s_not_abstraction_s_just_layer) - [That's Not an Abstraction, That's Just a Layer of Indirection](https://fhur.me/posts/2024/thats-not-an-abstraction)
-* [2024-12-28, 14:10:04](https://lobste.rs/s/drxhwk/how_add_metaprogramming_gleam) - [How to add metaprogramming to Gleam](https://lpil.uk/blog/how-to-add-metaprogramming-to-gleam/)
 * [2024-12-28, 12:06:05](https://lobste.rs/s/4thoju/revisiting_netbsd_build_system) - [Revisiting the NetBSD build system](https://blogsystem5.substack.com/p/netbsd-build-system)
 
 ## [Archives](archives/index.md)
