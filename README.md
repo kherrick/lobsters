@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 11:25:41](https://lobste.rs/s/enfhri/exported_for_tests_only_precise_control) - [Exported for tests only: Precise control over API visibility with custom warnings](https://tech.scrive.com/exported-for-tests-only-precise-control-over-api-visibility-with-custom-warnings/)
 * [2024-12-30, 11:19:35](https://lobste.rs/s/h4udgl/installing_netbsd_on_nintendo_wii) - [Installing NetBSD on the Nintendo Wii](https://youtu.be/KO9bNwE3Vps)
 * [2024-12-30, 11:12:50](https://lobste.rs/s/68xmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/68xmon/what_are_you_doing_this_week)
 * [2024-12-30, 10:56:29](https://lobste.rs/s/vnogpe/legacy_train_control_system) - [Legacy Train Control System Stabilisation (2012)](https://www.equicon.de/images/Virtualisierung/LegacyTrainControlSystemStabilization.pdf)
@@ -11,7 +12,6 @@
 * [2024-12-29, 23:03:00](https://lobste.rs/s/xypp5u/cody_computer_homebrew_6502_system) - [The Cody Computer homebrew 6502 system](https://www.codycomputer.org/)
 * [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
 * [2024-12-29, 21:49:09](https://lobste.rs/s/3swfc9/faq_fixbrowser_fixproxy) - [FAQ | FixBrowser # FixProxy](https://www.fixbrowser.org/faq#proxy)
-* [2024-12-29, 21:39:36](https://lobste.rs/s/agzhzy/blsforme_bls_compatible_distro_kernel) - [blsforme: BLS compatible distro kernel management](https://github.com/serpent-os/blsforme)
 * [2024-12-29, 21:35:39](https://lobste.rs/s/moajj8/booster_fast_secure_initramfs_generator) - [booster: Fast and secure initramfs generator](https://github.com/anatol/booster)
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 20:17:24](https://lobste.rs/s/middwy/technical_debt_is_entropy_software) - [Technical Debt is Entropy In Software](https://grohan.co/2024/12/27/entropy/)

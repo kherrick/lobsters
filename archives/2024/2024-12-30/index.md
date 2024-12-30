@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 11:25:41](https://lobste.rs/s/enfhri/exported_for_tests_only_precise_control) - [Exported for tests only: Precise control over API visibility with custom warnings](https://tech.scrive.com/exported-for-tests-only-precise-control-over-api-visibility-with-custom-warnings/)
 * [2024-12-30, 11:19:35](https://lobste.rs/s/h4udgl/installing_netbsd_on_nintendo_wii) - [Installing NetBSD on the Nintendo Wii](https://youtu.be/KO9bNwE3Vps)
 * [2024-12-30, 11:12:50](https://lobste.rs/s/68xmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/68xmon/what_are_you_doing_this_week)
 * [2024-12-30, 10:56:29](https://lobste.rs/s/vnogpe/legacy_train_control_system) - [Legacy Train Control System Stabilisation (2012)](https://www.equicon.de/images/Virtualisierung/LegacyTrainControlSystemStabilization.pdf)
