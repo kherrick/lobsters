@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 22:14:54](https://lobste.rs/s/jfwinv/what_is_dependency) - [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
 * [2024-12-30, 20:16:00](https://lobste.rs/s/tayebo/how_quit_mainstream_social_media_join) - [How to Quit Mainstream Social Media and Join Mastodon: A Healthier Way to Connect](https://unboundroutes.com/2024/11/29/quit-social-media-join-mastodon/)
 * [2024-12-30, 19:22:15](https://lobste.rs/s/ipl6q8/adding_fully_bootstrapped_mono_gnu_guix) - [Adding a fully-bootstrapped Mono to GNU Guix](https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/)
@@ -21,7 +22,6 @@
 * [2024-12-30, 02:00:48](https://lobste.rs/s/j4c0d0/how_webcams_with_focus_control_work_razer) - [How webcams with focus control work (Razer Kiyo Pro repair)](https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/)
 * [2024-12-30, 01:34:55](https://lobste.rs/s/aeatxh/i_still_believe_bicycle_for_your_mind_this) - [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
 * [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
-* [2024-12-29, 21:49:09](https://lobste.rs/s/3swfc9/faq_fixbrowser_fixproxy) - [FAQ | FixBrowser # FixProxy](https://www.fixbrowser.org/faq#proxy)
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
 * [2024-12-29, 19:41:48](https://lobste.rs/s/o3cdub/ioccc28_40th_anniversary_contest_is) - [IOCCC28, the 40th anniversary contest, is starting tonight](https://www.ioccc.org/news.html)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)

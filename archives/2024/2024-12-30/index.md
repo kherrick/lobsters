@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 22:14:54](https://lobste.rs/s/jfwinv/what_is_dependency) - [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
 * [2024-12-30, 20:16:00](https://lobste.rs/s/tayebo/how_quit_mainstream_social_media_join) - [How to Quit Mainstream Social Media and Join Mastodon: A Healthier Way to Connect](https://unboundroutes.com/2024/11/29/quit-social-media-join-mastodon/)
 * [2024-12-30, 19:22:15](https://lobste.rs/s/ipl6q8/adding_fully_bootstrapped_mono_gnu_guix) - [Adding a fully-bootstrapped Mono to GNU Guix](https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/)
