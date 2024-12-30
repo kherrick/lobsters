@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-30](index.md)
 
+* [2024-12-30, 17:52:27](https://lobste.rs/s/7h61dr/homa_network_protocol) - [The Homa network protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 * [2024-12-30, 17:02:47](https://lobste.rs/s/2tk1en/lmno_lol_drag_drop_blogging_minus_yucky) - [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
 * [2024-12-30, 16:59:58](https://lobste.rs/s/33rhfe/software_design_is_knowledge_building) - [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-30, 16:42:50](https://lobste.rs/s/csfbtr/jido_run_10k_agents_at_25kb_each) - [Jido – Run 10k agents at 25KB each](https://github.com/agentjido/jido)
