@@ -1,12 +1,12 @@
 [
   [
     [
-      "2024-12-31, 18:33:32",
-      "https://lobste.rs/s/rn5fat/rust_reflection_access_rules"
+      "2024-12-31, 18:29:44",
+      "https://lobste.rs/s/tiak1t/things_we_learned_out_about_llms_2024"
     ],
     [
-      "Rust, reflection and access rules",
-      "https://fractalfir.github.io/generated_html/refl_priv.html"
+      "Things we learned out about LLMs in 2024",
+      "https://simonwillison.net/2024/Dec/31/llms-in-2024/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "My 2024 in review",
       "https://www.paulox.net/2024/12/31/my-2024-in-review/"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 16:39:43",
+      "https://lobste.rs/s/sxubcu/deep_learning_gpu_selector"
+    ],
+    [
+      "Deep Learning GPU Selector",
+      "https://nanx.me/gpu/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Demoscene Basics from a Basic Demoscener",
       "https://demobasics.pixienop.net/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 00:14:17",
-      "https://lobste.rs/s/wof0rz/lineageos_22_released"
-    ],
-    [
-      "LineageOS 22 released",
-      "https://lineageos.org/Changelog-29/"
     ]
   ],
   [
