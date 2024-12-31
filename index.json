@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-31, 13:18:40",
+      "https://lobste.rs/s/ebbded/migrating_immich_from_docker_nixos"
+    ],
+    [
+      "Migrating Immich from Docker to NixOS",
+      "https://diogotc.com/blog/immich-docker-to-nixos/"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 10:06:01",
       "https://lobste.rs/s/jimev5/single_packet_attack_making_remote_race"
     ],
@@ -35,7 +45,7 @@
       "https://lobste.rs/s/9syvil/3_shifted_3_shapes_making_w3m_logo"
     ],
     [
-      "3 Shifted 3 Shapes: Making a w3m logo",
+      "3 Shifted 3 Shapes: Making a w3m Logo",
       "https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/"
     ]
   ],
@@ -47,16 +57,6 @@
     [
       "Performance of LLMs on Advent of code 2024",
       "https://www.jerpint.io/blog/advent-of-code-llms/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 05:10:25",
-      "https://lobste.rs/s/q5tuic/huffmunch_practical_generic_lossless"
-    ],
-    [
-      "huffmunch: A practical generic lossless compression library for the NES or other 6502 platforms",
-      "https://github.com/bbbradsmith/huffmunch"
     ]
   ],
   [
