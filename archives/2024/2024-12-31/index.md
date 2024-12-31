@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 10:06:01](https://lobste.rs/s/jimev5/single_packet_attack_making_remote_race) - [The single-packet attack: making remote race-conditions 'local' (2023)](https://portswigger.net/research/the-single-packet-attack-making-remote-race-conditions-local)
+* [2024-12-31, 10:04:31](https://lobste.rs/s/vw1l3p/plan_9_linux_2020) - [Plan 9 -> Linux (2020)](https://asyncial.github.io/plan-9-linux/)
+* [2024-12-31, 09:59:29](https://lobste.rs/s/pmz0qn/up2code_tool_for_checking_code_listings) - [up2code: A tool for checking code listings in Markdown source](https://github.com/bitfield/up2code)
 * [2024-12-31, 09:23:13](https://lobste.rs/s/9syvil/3_shifted_3_shapes_making_w3m_logo) - [3 Shifted 3 Shapes: Making a w3m logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
 * [2024-12-31, 09:20:04](https://lobste.rs/s/eadjsx/performance_llms_on_advent_code_2024) - [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
 * [2024-12-31, 05:10:25](https://lobste.rs/s/q5tuic/huffmunch_practical_generic_lossless) - [huffmunch: A practical generic lossless compression library for the NES or other 6502 platforms](https://github.com/bbbradsmith/huffmunch)
