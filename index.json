@@ -1,12 +1,22 @@
 [
   [
     [
-      "2024-12-31, 16:39:43",
-      "https://lobste.rs/s/sxubcu/deep_learning_gpu_selector"
+      "2024-12-31, 18:04:28",
+      "https://lobste.rs/s/gkco00/compiler_explorer_2024"
     ],
     [
-      "Deep Learning GPU Selector",
-      "https://nanx.me/gpu/"
+      "Compiler Explorer in 2024",
+      "https://www.patreon.com/posts/compiler-in-2024-119012319"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 18:01:21",
+      "https://lobste.rs/s/bwe6xu/my_2024_review"
+    ],
+    [
+      "My 2024 in review",
+      "https://www.paulox.net/2024/12/31/my-2024-in-review/"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "What is a dependency?",
       "https://matklad.github.io/2024/12/30/what-is-dependency.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 19:22:15",
-      "https://lobste.rs/s/ipl6q8/adding_fully_bootstrapped_mono_gnu_guix"
-    ],
-    [
-      "Adding a fully-bootstrapped Mono to GNU Guix",
-      "https://guix.gnu.org/en/blog/2024/adding-a-fully-bootstrapped-mono/"
     ]
   ],
   [
