@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-31, 15:43:18](https://lobste.rs/s/alepsu/tech_pace_layers) - [Tech pace layers](https://snarfed.org/2024-12-30_54435)
 * [2024-12-31, 14:38:55](https://lobste.rs/s/7vhnor/talk_recordings_38c3_illegal) - [Talk recordings of \"38C3: Illegal Instructions\"](https://media.ccc.de/c/38c3)
 * [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 * [2024-12-31, 13:48:04](https://lobste.rs/s/5cmjlo/static_search_trees) - [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
@@ -24,7 +25,6 @@
 * [2024-12-30, 13:57:23](https://lobste.rs/s/y62lgp/flame_graphs_can_hide_small_overheads) - [Flame graphs can hide small overheads with big overall impact](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
 * [2024-12-30, 12:16:43](https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message) - [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
 * [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
-* [2024-12-30, 01:34:55](https://lobste.rs/s/aeatxh/i_still_believe_bicycle_for_your_mind_this) - [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
 
 ## [Archives](archives/index.md)
 
