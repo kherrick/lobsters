@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
 * [2024-12-31, 15:43:18](https://lobste.rs/s/alepsu/tech_pace_layers) - [Tech pace layers](https://snarfed.org/2024-12-30_54435)
 * [2024-12-31, 14:38:55](https://lobste.rs/s/7vhnor/talk_recordings_38c3_illegal) - [Talk recordings of \"38C3: Illegal Instructions\"](https://media.ccc.de/c/38c3)
 * [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
@@ -20,7 +21,6 @@
 * [2024-12-30, 17:52:27](https://lobste.rs/s/7h61dr/homa_network_protocol) - [The Homa network protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
 * [2024-12-30, 17:02:47](https://lobste.rs/s/2tk1en/lmno_lol_drag_drop_blogging_minus_yucky) - [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
 * [2024-12-30, 16:59:58](https://lobste.rs/s/33rhfe/software_design_is_knowledge_building) - [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
-* [2024-12-30, 16:28:40](https://lobste.rs/s/v95gm5/my_thoughts_on_new_nvidia_jetson_orin_nano) - [My thoughts on the new NVIDIA Jetson Orin Nano](https://www.jeremymorgan.com/blog/tech/nvidia-jetson-orin-nano/)
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
 * [2024-12-30, 13:57:23](https://lobste.rs/s/y62lgp/flame_graphs_can_hide_small_overheads) - [Flame graphs can hide small overheads with big overall impact](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
 * [2024-12-30, 12:16:43](https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message) - [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)

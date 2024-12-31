@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
 * [2024-12-31, 15:43:18](https://lobste.rs/s/alepsu/tech_pace_layers) - [Tech pace layers](https://snarfed.org/2024-12-30_54435)
 * [2024-12-31, 14:38:55](https://lobste.rs/s/7vhnor/talk_recordings_38c3_illegal) - [Talk recordings of \"38C3: Illegal Instructions\"](https://media.ccc.de/c/38c3)
 * [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
