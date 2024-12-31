@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-31, 21:26:01](https://lobste.rs/s/gpg7kx/i_m_lovin_it_exploiting_mcdonald_s_apis) - [I’m Lovin’ It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny](https://eaton-works.com/2024/12/19/mcdelivery-india-hack/)
+* [2024-12-31, 22:17:18](https://lobste.rs/s/orbeug/windows_2_final_fantasy_operating) - [Windows 2: Final Fantasy of operating systems](https://www.ninakalinina.com/notes/win2/)
 * [2024-12-31, 18:29:44](https://lobste.rs/s/tiak1t/things_we_learned_out_about_llms_2024) - [Things we learned out about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 * [2024-12-31, 18:04:28](https://lobste.rs/s/gkco00/compiler_explorer_2024) - [Compiler Explorer in 2024](https://www.patreon.com/posts/compiler-in-2024-119012319)
 * [2024-12-31, 18:01:21](https://lobste.rs/s/bwe6xu/my_2024_review) - [My 2024 in review](https://www.paulox.net/2024/12/31/my-2024-in-review/)
