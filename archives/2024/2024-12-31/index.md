@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
 * [2024-12-31, 18:33:32](https://lobste.rs/s/rn5fat/rust_reflection_access_rules) - [Rust, reflection and access rules](https://fractalfir.github.io/generated_html/refl_priv.html)
+* [2024-12-31, 18:29:44](https://lobste.rs/s/tiak1t/things_we_learned_out_about_llms_2024) - [Things we learned out about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 * [2024-12-31, 18:04:28](https://lobste.rs/s/gkco00/compiler_explorer_2024) - [Compiler Explorer in 2024](https://www.patreon.com/posts/compiler-in-2024-119012319)
 * [2024-12-31, 18:01:21](https://lobste.rs/s/bwe6xu/my_2024_review) - [My 2024 in review](https://www.paulox.net/2024/12/31/my-2024-in-review/)
 * [2024-12-31, 16:39:43](https://lobste.rs/s/sxubcu/deep_learning_gpu_selector) - [Deep Learning GPU Selector](https://nanx.me/gpu/)
