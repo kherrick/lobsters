@@ -1,6 +1,16 @@
 [
   [
     [
+      "2024-12-31, 16:39:43",
+      "https://lobste.rs/s/sxubcu/deep_learning_gpu_selector"
+    ],
+    [
+      "Deep Learning GPU Selector",
+      "https://nanx.me/gpu/"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 16:19:31",
       "https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025"
     ],
@@ -237,16 +247,6 @@
     [
       "Fabrice Bellard's ts_sms: Short Message Compression using LLM",
       "https://bellard.org/ts_sms/"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 02:55:58",
-      "https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down"
-    ],
-    [
-      "The web is too big, or scaling down",
-      "https://scottrichmond.me/the-web-is-too-big/"
     ]
   ]
 ]
