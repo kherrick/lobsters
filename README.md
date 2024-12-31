@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-31, 02:03:55](https://lobste.rs/s/vrjdre/so_you_want_write_java_neovim) - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
+* [2024-12-31, 01:17:37](https://lobste.rs/s/f6nbe4/demoscene_basics_from_basic_demoscener) - [Demoscene Basics from a Basic Demoscener](https://demobasics.pixienop.net/)
 * [2024-12-31, 00:14:17](https://lobste.rs/s/wof0rz/lineageos_22_released) - [LineageOS 22 released](https://lineageos.org/Changelog-29/)
 * [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 22:14:54](https://lobste.rs/s/jfwinv/what_is_dependency) - [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
@@ -19,11 +21,9 @@
 * [2024-12-30, 11:12:50](https://lobste.rs/s/68xmon/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/68xmon/what_are_you_doing_this_week)
 * [2024-12-30, 08:12:25](https://lobste.rs/s/ewqoyx/systems_ideas_sound_good_almost_never) - [Systems Ideas that Sound Good But Almost Never Work—\"Let's just…\"](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
-* [2024-12-30, 02:00:48](https://lobste.rs/s/j4c0d0/how_webcams_with_focus_control_work_razer) - [How webcams with focus control work (Razer Kiyo Pro repair)](https://www.downtowndougbrown.com/2024/12/how-webcams-with-focus-control-work-razer-kiyo-pro-repair/)
 * [2024-12-30, 01:34:55](https://lobste.rs/s/aeatxh/i_still_believe_bicycle_for_your_mind_this) - [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
 * [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
-* [2024-12-29, 19:41:48](https://lobste.rs/s/o3cdub/ioccc28_40th_anniversary_contest_is) - [IOCCC28, the 40th anniversary contest, is starting tonight](https://www.ioccc.org/news.html)
 * [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
 
 ## [Archives](archives/index.md)
