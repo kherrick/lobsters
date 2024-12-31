@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2024-12-31, 02:48:11",
+      "https://lobste.rs/s/ruoprg/implementing_client_side_ipvs_based_load"
+    ],
+    [
+      "Implementing a client side IPVS-based load balancer",
+      "https://blog.davidv.dev/posts/ipvs-lb/"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 02:41:29",
       "https://lobste.rs/s/etzi9f/tiny_library_for_switches_sum_types_lua"
     ],
@@ -167,16 +177,6 @@
     [
       "Software Design is Knowledge Building",
       "https://olano.dev/blog/software-design-is-knowledge-building/"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 16:42:50",
-      "https://lobste.rs/s/csfbtr/jido_run_10k_agents_at_25kb_each"
-    ],
-    [
-      "Jido – Run 10k agents at 25KB each",
-      "https://github.com/agentjido/jido"
     ]
   ],
   [
