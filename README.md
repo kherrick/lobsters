@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2024-12-31, 18:29:44](https://lobste.rs/s/tiak1t/things_we_learned_out_about_llms_2024) - [Things we learned out about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
+* [2024-12-31, 18:04:28](https://lobste.rs/s/gkco00/compiler_explorer_2024) - [Compiler Explorer in 2024](https://www.patreon.com/posts/compiler-in-2024-119012319)
 * [2024-12-31, 18:01:21](https://lobste.rs/s/bwe6xu/my_2024_review) - [My 2024 in review](https://www.paulox.net/2024/12/31/my-2024-in-review/)
 * [2024-12-31, 16:39:43](https://lobste.rs/s/sxubcu/deep_learning_gpu_selector) - [Deep Learning GPU Selector](https://nanx.me/gpu/)
 * [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
@@ -16,7 +17,6 @@
 * [2024-12-31, 09:20:04](https://lobste.rs/s/eadjsx/performance_llms_on_advent_code_2024) - [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
 * [2024-12-31, 04:43:40](https://lobste.rs/s/telusg/solving_traveling_salesman_problem_from) - [Solving the Traveling Salesman Problem: From Heuristics to a Potential Polynomial-Time Breakthrough](https://prat8897.github.io/posts/Travelling-Salesman-Problem/travellingsalesman.html)
 * [2024-12-31, 02:41:29](https://lobste.rs/s/etzi9f/tiny_library_for_switches_sum_types_lua) - [A tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
-* [2024-12-31, 01:17:37](https://lobste.rs/s/f6nbe4/demoscene_basics_from_basic_demoscener) - [Demoscene Basics from a Basic Demoscener](https://demobasics.pixienop.net/)
 * [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 22:14:54](https://lobste.rs/s/jfwinv/what_is_dependency) - [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
 * [2024-12-30, 17:52:27](https://lobste.rs/s/7h61dr/homa_network_protocol) - [The Homa network protocol](https://lwn.net/SubscriberLink/1003059/41b1d2ea281b6779/)
