@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 13:48:04](https://lobste.rs/s/5cmjlo/static_search_trees) - [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
 * [2024-12-31, 13:18:40](https://lobste.rs/s/ebbded/migrating_immich_from_docker_nixos) - [Migrating Immich from Docker to NixOS](https://diogotc.com/blog/immich-docker-to-nixos/)
 * [2024-12-31, 10:06:01](https://lobste.rs/s/jimev5/single_packet_attack_making_remote_race) - [The single-packet attack: making remote race-conditions 'local' (2023)](https://portswigger.net/research/the-single-packet-attack-making-remote-race-conditions-local)
 * [2024-12-31, 10:04:31](https://lobste.rs/s/vw1l3p/plan_9_linux_2020) - [Plan 9 -> Linux (2020)](https://asyncial.github.io/plan-9-linux/)

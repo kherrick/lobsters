@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-31, 13:48:04](https://lobste.rs/s/5cmjlo/static_search_trees) - [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
 * [2024-12-31, 13:18:40](https://lobste.rs/s/ebbded/migrating_immich_from_docker_nixos) - [Migrating Immich from Docker to NixOS](https://diogotc.com/blog/immich-docker-to-nixos/)
 * [2024-12-31, 10:06:01](https://lobste.rs/s/jimev5/single_packet_attack_making_remote_race) - [The single-packet attack: making remote race-conditions 'local' (2023)](https://portswigger.net/research/the-single-packet-attack-making-remote-race-conditions-local)
 * [2024-12-31, 10:04:31](https://lobste.rs/s/vw1l3p/plan_9_linux_2020) - [Plan 9 -> Linux (2020)](https://asyncial.github.io/plan-9-linux/)
@@ -9,7 +10,6 @@
 * [2024-12-31, 04:43:40](https://lobste.rs/s/telusg/solving_traveling_salesman_problem_from) - [Solving the Traveling Salesman Problem: From Heuristics to a Potential Polynomial-Time Breakthrough](https://prat8897.github.io/posts/Travelling-Salesman-Problem/travellingsalesman.html)
 * [2024-12-31, 02:48:11](https://lobste.rs/s/ruoprg/implementing_client_side_ipvs_based_load) - [Implementing a client side IPVS-based load balancer](https://blog.davidv.dev/posts/ipvs-lb/)
 * [2024-12-31, 02:41:29](https://lobste.rs/s/etzi9f/tiny_library_for_switches_sum_types_lua) - [A tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
-* [2024-12-31, 02:03:55](https://lobste.rs/s/vrjdre/so_you_want_write_java_neovim) - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 * [2024-12-31, 01:17:37](https://lobste.rs/s/f6nbe4/demoscene_basics_from_basic_demoscener) - [Demoscene Basics from a Basic Demoscener](https://demobasics.pixienop.net/)
 * [2024-12-31, 00:14:17](https://lobste.rs/s/wof0rz/lineageos_22_released) - [LineageOS 22 released](https://lineageos.org/Changelog-29/)
 * [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
