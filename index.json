@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2024-12-31, 02:48:11",
+      "https://lobste.rs/s/ruoprg/implementing_client_side_ipvs_based_load"
+    ],
+    [
+      "Implementing a client side IPVS-based load balancer",
+      "https://blog.davidv.dev/posts/ipvs-lb/"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 02:41:29",
       "https://lobste.rs/s/etzi9f/tiny_library_for_switches_sum_types_lua"
     ],
@@ -77,16 +87,6 @@
     [
       "What is a dependency?",
       "https://matklad.github.io/2024/12/30/what-is-dependency.html"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 20:16:00",
-      "https://lobste.rs/s/tayebo/how_quit_mainstream_social_media_join"
-    ],
-    [
-      "How to Quit Mainstream Social Media and Join Mastodon: A Healthier Way to Connect",
-      "https://unboundroutes.com/2024/11/29/quit-social-media-join-mastodon/"
     ]
   ],
   [
