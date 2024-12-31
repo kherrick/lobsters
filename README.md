@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2024-12-31, 18:04:28](https://lobste.rs/s/gkco00/compiler_explorer_2024) - [Compiler Explorer in 2024](https://www.patreon.com/posts/compiler-in-2024-119012319)
+* [2024-12-31, 18:33:32](https://lobste.rs/s/rn5fat/rust_reflection_access_rules) - [Rust, reflection and access rules](https://fractalfir.github.io/generated_html/refl_priv.html)
 * [2024-12-31, 18:01:21](https://lobste.rs/s/bwe6xu/my_2024_review) - [My 2024 in review](https://www.paulox.net/2024/12/31/my-2024-in-review/)
 * [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
 * [2024-12-31, 15:43:18](https://lobste.rs/s/alepsu/tech_pace_layers) - [Tech pace layers](https://snarfed.org/2024-12-30_54435)
