@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-31, 02:48:11](https://lobste.rs/s/ruoprg/implementing_client_side_ipvs_based_load) - [Implementing a client side IPVS-based load balancer](https://blog.davidv.dev/posts/ipvs-lb/)
+* [2024-12-31, 02:41:29](https://lobste.rs/s/etzi9f/tiny_library_for_switches_sum_types_lua) - [A tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-31, 02:03:55](https://lobste.rs/s/vrjdre/so_you_want_write_java_neovim) - [So You Want to Write Java in Neovim](https://ptrtojoel.dev/posts/so-you-want-to-write-java-in-neovim/)
 * [2024-12-31, 01:17:37](https://lobste.rs/s/f6nbe4/demoscene_basics_from_basic_demoscener) - [Demoscene Basics from a Basic Demoscener](https://demobasics.pixienop.net/)
 * [2024-12-31, 00:14:17](https://lobste.rs/s/wof0rz/lineageos_22_released) - [LineageOS 22 released](https://lineageos.org/Changelog-29/)
@@ -22,9 +24,7 @@
 * [2024-12-30, 08:12:25](https://lobste.rs/s/ewqoyx/systems_ideas_sound_good_almost_never) - [Systems Ideas that Sound Good But Almost Never Work—\"Let's just…\"](https://hardcoresoftware.learningbyshipping.com/p/225-systems-ideas-that-sound-good)
 * [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
 * [2024-12-30, 01:34:55](https://lobste.rs/s/aeatxh/i_still_believe_bicycle_for_your_mind_this) - [I still believe in the bicycle for your mind, and this is my ride](https://exple.tive.org/blarg/2024/12/29/idiosyncra/)
-* [2024-12-29, 22:06:06](https://lobste.rs/s/yas6et/how_multi_user_dungeons_taught_me_code) - [How Multi-User Dungeons Taught Me To Code](https://tashian.com/articles/how-i-learned-to-program/)
 * [2024-12-29, 20:19:30](https://lobste.rs/s/p7teg4/how_i_m_trying_use_bluesky_without_getting) - [How I’m trying to use BlueSky without getting burned again](https://chrisholdgraf.com/blog/2024/bluesky)
-* [2024-12-28, 23:13:40](https://lobste.rs/s/jmy84s/fish_4_0_fish_theseus) - [Fish 4.0: The Fish Of Theseus](https://fishshell.com/blog/rustport/)
 
 ## [Archives](archives/index.md)
 
