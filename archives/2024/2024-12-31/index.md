@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2024-12-31](index.md)
 
+* [2024-12-31, 14:38:55](https://lobste.rs/s/7vhnor/talk_recordings_38c3_illegal) - [Talk recordings of \"38C3: Illegal Instructions\"](https://media.ccc.de/c/38c3)
+* [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 * [2024-12-31, 13:48:04](https://lobste.rs/s/5cmjlo/static_search_trees) - [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
 * [2024-12-31, 13:18:40](https://lobste.rs/s/ebbded/migrating_immich_from_docker_nixos) - [Migrating Immich from Docker to NixOS](https://diogotc.com/blog/immich-docker-to-nixos/)
 * [2024-12-31, 10:06:01](https://lobste.rs/s/jimev5/single_packet_attack_making_remote_race) - [The single-packet attack: making remote race-conditions 'local' (2023)](https://portswigger.net/research/the-single-packet-attack-making-remote-race-conditions-local)

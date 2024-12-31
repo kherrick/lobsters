@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-31, 14:38:55](https://lobste.rs/s/7vhnor/talk_recordings_38c3_illegal) - [Talk recordings of \"38C3: Illegal Instructions\"](https://media.ccc.de/c/38c3)
+* [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 * [2024-12-31, 13:48:04](https://lobste.rs/s/5cmjlo/static_search_trees) - [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
 * [2024-12-31, 13:18:40](https://lobste.rs/s/ebbded/migrating_immich_from_docker_nixos) - [Migrating Immich from Docker to NixOS](https://diogotc.com/blog/immich-docker-to-nixos/)
 * [2024-12-31, 10:06:01](https://lobste.rs/s/jimev5/single_packet_attack_making_remote_race) - [The single-packet attack: making remote race-conditions 'local' (2023)](https://portswigger.net/research/the-single-packet-attack-making-remote-race-conditions-local)
@@ -8,7 +10,6 @@
 * [2024-12-31, 09:23:13](https://lobste.rs/s/9syvil/3_shifted_3_shapes_making_w3m_logo) - [3 Shifted 3 Shapes: Making a w3m Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
 * [2024-12-31, 09:20:04](https://lobste.rs/s/eadjsx/performance_llms_on_advent_code_2024) - [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
 * [2024-12-31, 04:43:40](https://lobste.rs/s/telusg/solving_traveling_salesman_problem_from) - [Solving the Traveling Salesman Problem: From Heuristics to a Potential Polynomial-Time Breakthrough](https://prat8897.github.io/posts/Travelling-Salesman-Problem/travellingsalesman.html)
-* [2024-12-31, 02:48:11](https://lobste.rs/s/ruoprg/implementing_client_side_ipvs_based_load) - [Implementing a client side IPVS-based load balancer](https://blog.davidv.dev/posts/ipvs-lb/)
 * [2024-12-31, 02:41:29](https://lobste.rs/s/etzi9f/tiny_library_for_switches_sum_types_lua) - [A tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-31, 01:17:37](https://lobste.rs/s/f6nbe4/demoscene_basics_from_basic_demoscener) - [Demoscene Basics from a Basic Demoscener](https://demobasics.pixienop.net/)
 * [2024-12-31, 00:14:17](https://lobste.rs/s/wof0rz/lineageos_22_released) - [LineageOS 22 released](https://lineageos.org/Changelog-29/)
@@ -20,7 +21,6 @@
 * [2024-12-30, 16:59:58](https://lobste.rs/s/33rhfe/software_design_is_knowledge_building) - [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-30, 16:28:40](https://lobste.rs/s/v95gm5/my_thoughts_on_new_nvidia_jetson_orin_nano) - [My thoughts on the new NVIDIA Jetson Orin Nano](https://www.jeremymorgan.com/blog/tech/nvidia-jetson-orin-nano/)
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
-* [2024-12-30, 14:50:28](https://lobste.rs/s/pyfrdt/curious_case_quentell) - [The Curious Case of Quentell](https://blog.startifact.com/posts/the-curious-case-of-quentell/)
 * [2024-12-30, 13:57:23](https://lobste.rs/s/y62lgp/flame_graphs_can_hide_small_overheads) - [Flame graphs can hide small overheads with big overall impact](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
 * [2024-12-30, 12:16:43](https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message) - [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
 * [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
