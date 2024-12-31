@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2024-12-31, 16:39:43](https://lobste.rs/s/sxubcu/deep_learning_gpu_selector) - [Deep Learning GPU Selector](https://nanx.me/gpu/)
 * [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
 * [2024-12-31, 15:43:18](https://lobste.rs/s/alepsu/tech_pace_layers) - [Tech pace layers](https://snarfed.org/2024-12-30_54435)
 * [2024-12-31, 14:38:55](https://lobste.rs/s/7vhnor/talk_recordings_38c3_illegal) - [Talk recordings of \"38C3: Illegal Instructions\"](https://media.ccc.de/c/38c3)
@@ -24,7 +25,6 @@
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
 * [2024-12-30, 13:57:23](https://lobste.rs/s/y62lgp/flame_graphs_can_hide_small_overheads) - [Flame graphs can hide small overheads with big overall impact](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
 * [2024-12-30, 12:16:43](https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message) - [Fabrice Bellard's ts_sms: Short Message Compression using LLM](https://bellard.org/ts_sms/)
-* [2024-12-30, 02:55:58](https://lobste.rs/s/sfnhhe/web_is_too_big_scaling_down) - [The web is too big, or scaling down](https://scottrichmond.me/the-web-is-too-big/)
 
 ## [Archives](archives/index.md)
 
