@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-01, 01:04:10",
+      "https://lobste.rs/s/nqxpci/why_earth_could_be_less_than_6000_years_old"
+    ],
+    [
+      "Why the Earth could be less than 6000 years old in less than 60 seconds [video]",
+      "https://www.youtube.com/shorts/l3tUHngkL1k"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 22:17:18",
+      "https://lobste.rs/s/orbeug/windows_2_final_fantasy_operating"
+    ],
+    [
+      "Windows 2: Final Fantasy of operating systems",
+      "https://www.ninakalinina.com/notes/win2/"
+    ]
+  ],
+  [
+    [
       "2024-12-31, 21:26:01",
       "https://lobste.rs/s/gpg7kx/i_m_lovin_it_exploiting_mcdonald_s_apis"
     ],
@@ -57,16 +77,6 @@
     [
       "Tech pace layers",
       "https://snarfed.org/2024-12-30_54435"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 14:38:55",
-      "https://lobste.rs/s/7vhnor/talk_recordings_38c3_illegal"
-    ],
-    [
-      "Talk recordings of \"38C3: Illegal Instructions\"",
-      "https://media.ccc.de/c/38c3"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Flame graphs can hide small overheads with big overall impact",
       "https://ankush.dev/p/flamegraph-missing-forest-for-trees"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 12:16:43",
-      "https://lobste.rs/s/5srkwz/fabrice_bellard_s_ts_sms_short_message"
-    ],
-    [
-      "Fabrice Bellard's ts_sms: Short Message Compression using LLM",
-      "https://bellard.org/ts_sms/"
     ]
   ]
 ]
