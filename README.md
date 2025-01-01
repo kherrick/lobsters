@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-01, 16:33:32](https://lobste.rs/s/pkrlok/jj_for_developing_go) - [jj for developing Go](https://pratt.im/notes/jj-go-gerrit.html)
 * [2025-01-01, 14:27:53](https://lobste.rs/s/jlhwkm/databases_2024_year_review) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 13:31:29](https://lobste.rs/s/cq30ei/work_contracts_rethinking_task_based) - [Work Contracts - Rethinking Task Based Concurrency & Parallelism for Low Latency C++](https://www.youtube.com/watch?v=oj-_vpZNMVw)
 * [2025-01-01, 11:09:08](https://lobste.rs/s/vlczyt/rethinking_builders_with_lazy_generics) - [Rethinking Builders… with Lazy Generics (2024)](https://geo-ant.github.io/blog/2024/rust-rethinking-builders-lazy-generics/)
@@ -22,7 +23,6 @@
 * [2024-12-31, 13:48:04](https://lobste.rs/s/5cmjlo/static_search_trees) - [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
 * [2024-12-31, 09:23:13](https://lobste.rs/s/9syvil/3_shifted_3_shapes_making_w3m_logo) - [3 Shifted 3 Shapes: Making a w3m Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
 * [2024-12-31, 09:20:04](https://lobste.rs/s/eadjsx/performance_llms_on_advent_code_2024) - [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
-* [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 17:02:47](https://lobste.rs/s/2tk1en/lmno_lol_drag_drop_blogging_minus_yucky) - [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
 
