@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-01, 20:39:29](https://lobste.rs/s/jynact/ruby_3_4_highlights) - [Ruby 3.4 highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 * [2025-01-01, 20:18:30](https://lobste.rs/s/vid5v5/solving_advent_code_2024_under_1ms) - [Solving Advent of Code 2024 in Under 1ms](https://github.com/indiv0/aoc-fastest)
 * [2025-01-01, 20:05:42](https://lobste.rs/s/6yp6hn/history_focal_programming_language) - [History of the FOCAL programming language](https://www.softwarepreservation.org/projects/FOCAL)
 * [2025-01-01, 16:51:53](https://lobste.rs/s/rh1zkp/building_game_prototypes_with_love) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
@@ -23,7 +24,6 @@
 * [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
 * [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 * [2024-12-31, 09:23:13](https://lobste.rs/s/9syvil/3_shifted_3_shapes_making_w3m_logo) - [3 Shifted 3 Shapes: Making a w3m Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
-* [2024-12-31, 09:20:04](https://lobste.rs/s/eadjsx/performance_llms_on_advent_code_2024) - [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
 
 ## [Archives](archives/index.md)
