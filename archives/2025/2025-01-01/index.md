@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 11:09:08](https://lobste.rs/s/vlczyt/rethinking_builders_with_lazy_generics) - [Rethinking Builders… with Lazy Generics (2024)](https://geo-ant.github.io/blog/2024/rust-rethinking-builders-lazy-generics/)
 * [2025-01-01, 10:56:21](https://lobste.rs/s/uniefp/epicyon_activitypub_server_release) - [Epicyon ActivityPub server release version 1.6.0](https://libreserver.org/epicyon/v1_6_0.html)
 * [2025-01-01, 09:47:52](https://lobste.rs/s/yaib0x/how_i_helped_fix_sleep_wake_hangs_on_linux) - [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-01-01, 06:30:50](https://lobste.rs/s/n8pw5y/algol_68_gcc_front_end) - [Algol 68 GCC Front-End](https://inbox.sourceware.org/gcc-patches/20250101020952.18404-1-jose.marchesi@oracle.com/T/#m77fd0f35b77b78403a85bbf7f9fd981b8e0b7b10)
