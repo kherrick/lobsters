@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-01, 14:27:53",
+      "https://lobste.rs/s/jlhwkm/databases_2024_year_review"
+    ],
+    [
+      "Databases in 2024: A Year in Review",
+      "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 13:31:29",
       "https://lobste.rs/s/cq30ei/work_contracts_rethinking_task_based"
     ],
@@ -187,16 +197,6 @@
     [
       "Static search trees",
       "https://curiouscoding.nl/posts/static-search-tree/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 13:18:40",
-      "https://lobste.rs/s/ebbded/migrating_immich_from_docker_nixos"
-    ],
-    [
-      "Migrating Immich from Docker to NixOS",
-      "https://diogotc.com/blog/immich-docker-to-nixos/"
     ]
   ],
   [
