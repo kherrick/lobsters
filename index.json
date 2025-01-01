@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-01, 16:33:32",
+      "https://lobste.rs/s/pkrlok/jj_for_developing_go"
+    ],
+    [
+      "jj for developing Go",
+      "https://pratt.im/notes/jj-go-gerrit.html"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 14:27:53",
       "https://lobste.rs/s/jlhwkm/databases_2024_year_review"
     ],
@@ -217,16 +227,6 @@
     [
       "Performance of LLMs on Advent of code 2024",
       "https://www.jerpint.io/blog/advent-of-code-llms/"
-    ]
-  ],
-  [
-    [
-      "2024-12-30, 23:36:16",
-      "https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most"
-    ],
-    [
-      "Passkey technology is elegant, but it’s most definitely not usable security",
-      "https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/"
     ]
   ],
   [
