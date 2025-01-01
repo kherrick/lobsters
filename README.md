@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-01, 10:56:21](https://lobste.rs/s/uniefp/epicyon_activitypub_server_release) - [Epicyon ActivityPub server release version 1.6.0](https://libreserver.org/epicyon/v1_6_0.html)
 * [2025-01-01, 09:47:52](https://lobste.rs/s/yaib0x/how_i_helped_fix_sleep_wake_hangs_on_linux) - [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-01-01, 06:30:50](https://lobste.rs/s/n8pw5y/algol_68_gcc_front_end) - [Algol 68 GCC Front-End](https://inbox.sourceware.org/gcc-patches/20250101020952.18404-1-jose.marchesi@oracle.com/T/#m77fd0f35b77b78403a85bbf7f9fd981b8e0b7b10)
 * [2025-01-01, 06:11:29](https://lobste.rs/s/iufwp8/genuary_2025) - [GENUARY 2025](https://genuary.art/)
@@ -24,7 +25,6 @@
 * [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
 * [2024-12-30, 17:02:47](https://lobste.rs/s/2tk1en/lmno_lol_drag_drop_blogging_minus_yucky) - [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
-* [2024-12-30, 13:57:23](https://lobste.rs/s/y62lgp/flame_graphs_can_hide_small_overheads) - [Flame graphs can hide small overheads with big overall impact](https://ankush.dev/p/flamegraph-missing-forest-for-trees)
 
 ## [Archives](archives/index.md)
 
