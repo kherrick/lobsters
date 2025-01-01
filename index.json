@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-01, 11:09:08",
+      "https://lobste.rs/s/vlczyt/rethinking_builders_with_lazy_generics"
+    ],
+    [
+      "Rethinking Builders… with Lazy Generics (2024)",
+      "https://geo-ant.github.io/blog/2024/rust-rethinking-builders-lazy-generics/"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 10:56:21",
       "https://lobste.rs/s/uniefp/epicyon_activitypub_server_release"
     ],
@@ -177,16 +187,6 @@
     [
       "Migrating Immich from Docker to NixOS",
       "https://diogotc.com/blog/immich-docker-to-nixos/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 10:04:31",
-      "https://lobste.rs/s/vw1l3p/plan_9_linux_2020"
-    ],
-    [
-      "Plan 9 -> Linux (2020)",
-      "https://asyncial.github.io/plan-9-linux/"
     ]
   ],
   [
