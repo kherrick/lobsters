@@ -2,7 +2,6 @@
 
 * [2025-01-01, 01:50:41](https://lobste.rs/s/meiew1/goodbye_github_pages_hello_coolify) - [Goodbye Github Pages, Hello Coolify](https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/)
 * [2025-01-01, 01:43:53](https://lobste.rs/s/qwcov5/deja_vu_ghostly_cves_my_terminal_title) - [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
-* [2025-01-01, 01:04:10](https://lobste.rs/s/nqxpci/why_earth_could_be_less_than_6000_years_old) - [Why the Earth could be less than 6000 years old in less than 60 seconds [video]](https://www.youtube.com/shorts/l3tUHngkL1k)
 * [2024-12-31, 22:17:18](https://lobste.rs/s/orbeug/windows_2_final_fantasy_operating) - [Windows 2: Final Fantasy of operating systems](https://www.ninakalinina.com/notes/win2/)
 * [2024-12-31, 21:26:01](https://lobste.rs/s/gpg7kx/i_m_lovin_it_exploiting_mcdonald_s_apis) - [I’m Lovin’ It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny](https://eaton-works.com/2024/12/19/mcdelivery-india-hack/)
 * [2024-12-31, 18:29:44](https://lobste.rs/s/tiak1t/things_we_learned_about_llms_2024) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
@@ -17,6 +16,7 @@
 * [2024-12-31, 09:59:29](https://lobste.rs/s/pmz0qn/up2code_tool_for_checking_code_listings) - [up2code: A tool for checking code listings in Markdown source](https://github.com/bitfield/up2code)
 * [2024-12-31, 09:23:13](https://lobste.rs/s/9syvil/3_shifted_3_shapes_making_w3m_logo) - [3 Shifted 3 Shapes: Making a w3m Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
 * [2024-12-31, 09:20:04](https://lobste.rs/s/eadjsx/performance_llms_on_advent_code_2024) - [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
+* [2024-12-31, 04:43:40](https://lobste.rs/s/telusg/solving_traveling_salesman_problem_from) - [Solving the Traveling Salesman Problem: From Heuristics to a Potential Polynomial-Time Breakthrough](https://prat8897.github.io/posts/Travelling-Salesman-Problem/travellingsalesman.html)
 * [2024-12-31, 02:41:29](https://lobste.rs/s/etzi9f/tiny_library_for_switches_sum_types_lua) - [A tiny library for switches and sum types in Lua](https://github.com/alurm/lua-match)
 * [2024-12-31, 01:17:37](https://lobste.rs/s/f6nbe4/demoscene_basics_from_basic_demoscener) - [Demoscene Basics from a Basic Demoscener](https://demobasics.pixienop.net/)
 * [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
