@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-01, 05:30:41](https://lobste.rs/s/nnon5y/octoverse_2024) - [Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
 * [2025-01-01, 05:15:41](https://lobste.rs/s/9nqtua/layer_normalization_as_fast_as_possible) - [Layer Normalization as fast as possible](https://fleetwood.dev/posts/layernorm-as-fast-as-possible)
 * [2025-01-01, 04:40:45](https://lobste.rs/s/6l46sy/optimizing_advent_code_d9p2_with_high) - [Optimizing Advent of Code D9P2 with High-Performance Rust](https://cprimozic.net/blog/optimizing-advent-of-code-2024/)
 * [2025-01-01, 04:38:58](https://lobste.rs/s/4mbfrb/pidgin_3_0_experimental_1_has_been) - [Pidgin 3.0 Experimental 1 Has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227)
@@ -20,7 +21,6 @@
 * [2024-12-31, 09:23:13](https://lobste.rs/s/9syvil/3_shifted_3_shapes_making_w3m_logo) - [3 Shifted 3 Shapes: Making a w3m Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
 * [2024-12-31, 09:20:04](https://lobste.rs/s/eadjsx/performance_llms_on_advent_code_2024) - [Performance of LLMs on Advent of code 2024](https://www.jerpint.io/blog/advent-of-code-llms/)
 * [2024-12-30, 23:36:16](https://lobste.rs/s/ieig85/passkey_technology_is_elegant_it_s_most) - [Passkey technology is elegant, but it’s most definitely not usable security](https://arstechnica.com/security/2024/12/passkey-technology-is-elegant-but-its-most-definitely-not-usable-security/)
-* [2024-12-30, 22:14:54](https://lobste.rs/s/jfwinv/what_is_dependency) - [What is a dependency?](https://matklad.github.io/2024/12/30/what-is-dependency.html)
 * [2024-12-30, 17:02:47](https://lobste.rs/s/2tk1en/lmno_lol_drag_drop_blogging_minus_yucky) - [lmno.lol - Drag and drop blogging minus the yucky bits of the modern web](https://lmno.lol)
 * [2024-12-30, 16:59:58](https://lobste.rs/s/33rhfe/software_design_is_knowledge_building) - [Software Design is Knowledge Building](https://olano.dev/blog/software-design-is-knowledge-building/)
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
