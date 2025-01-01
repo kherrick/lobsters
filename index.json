@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-01, 03:58:34",
+      "https://lobste.rs/s/s4ghai/tools_worth_changing_2025"
+    ],
+    [
+      "Tools Worth Changing To in 2025",
+      "https://matthewsanabria.dev/posts/tools-worth-changing-to-in-2025/"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 01:50:41",
       "https://lobste.rs/s/meiew1/goodbye_github_pages_hello_coolify"
     ],
@@ -77,6 +87,16 @@
     [
       "Tech pace layers",
       "https://snarfed.org/2024-12-30_54435"
+    ]
+  ],
+  [
+    [
+      "2024-12-31, 14:38:55",
+      "https://lobste.rs/s/7vhnor/talk_recordings_38c3_illegal"
+    ],
+    [
+      "Talk recordings of \"38C3: Illegal Instructions\"",
+      "https://media.ccc.de/c/38c3"
     ]
   ],
   [
@@ -161,32 +181,12 @@
   ],
   [
     [
-      "2024-12-31, 04:43:40",
-      "https://lobste.rs/s/telusg/solving_traveling_salesman_problem_from"
-    ],
-    [
-      "Solving the Traveling Salesman Problem: From Heuristics to a Potential Polynomial-Time Breakthrough",
-      "https://prat8897.github.io/posts/Travelling-Salesman-Problem/travellingsalesman.html"
-    ]
-  ],
-  [
-    [
       "2024-12-31, 02:41:29",
       "https://lobste.rs/s/etzi9f/tiny_library_for_switches_sum_types_lua"
     ],
     [
       "A tiny library for switches and sum types in Lua",
       "https://github.com/alurm/lua-match"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 01:17:37",
-      "https://lobste.rs/s/f6nbe4/demoscene_basics_from_basic_demoscener"
-    ],
-    [
-      "Demoscene Basics from a Basic Demoscener",
-      "https://demobasics.pixienop.net/"
     ]
   ],
   [
