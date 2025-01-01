@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 20:18:30](https://lobste.rs/s/vid5v5/solving_advent_code_2024_under_1ms) - [Solving Advent of Code 2024 in Under 1ms](https://github.com/indiv0/aoc-fastest)
 * [2025-01-01, 20:08:18](https://lobste.rs/s/yxx5ou/solving_aoc_2024_under_1ms_for_real_this) - [Solving AoC 2024 in Under 1ms (For Real This Time)](https://reddit.com/r/adventofcode/comments/1hrb4j6/)
 * [2025-01-01, 20:05:42](https://lobste.rs/s/6yp6hn/history_focal_programming_language) - [History of the FOCAL programming language](https://www.softwarepreservation.org/projects/FOCAL)
 * [2025-01-01, 16:51:53](https://lobste.rs/s/rh1zkp/building_game_prototypes_with_love) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
