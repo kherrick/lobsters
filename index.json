@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-01, 13:31:29",
+      "https://lobste.rs/s/cq30ei/work_contracts_rethinking_task_based"
+    ],
+    [
+      "Work Contracts - Rethinking Task Based Concurrency & Parallelism for Low Latency C++",
+      "https://www.youtube.com/watch?v=oj-_vpZNMVw"
+    ]
+  ],
+  [
+    [
       "2025-01-01, 11:09:08",
       "https://lobste.rs/s/vlczyt/rethinking_builders_with_lazy_generics"
     ],
@@ -187,16 +197,6 @@
     [
       "Migrating Immich from Docker to NixOS",
       "https://diogotc.com/blog/immich-docker-to-nixos/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 09:59:29",
-      "https://lobste.rs/s/pmz0qn/up2code_tool_for_checking_code_listings"
-    ],
-    [
-      "up2code: A tool for checking code listings in Markdown source",
-      "https://github.com/bitfield/up2code"
     ]
   ],
   [
