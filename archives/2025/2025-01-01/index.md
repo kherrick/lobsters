@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 06:11:29](https://lobste.rs/s/iufwp8/genuary_2025) - [GENUARY 2025](https://genuary.art/)
 * [2025-01-01, 05:30:41](https://lobste.rs/s/nnon5y/octoverse_2024) - [Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
 * [2025-01-01, 05:15:41](https://lobste.rs/s/9nqtua/layer_normalization_as_fast_as_possible) - [Layer Normalization as fast as possible](https://fleetwood.dev/posts/layernorm-as-fast-as-possible)
 * [2025-01-01, 04:40:45](https://lobste.rs/s/6l46sy/optimizing_advent_code_d9p2_with_high) - [Optimizing Advent of Code D9P2 with High-Performance Rust](https://cprimozic.net/blog/optimizing-advent-of-code-2024/)

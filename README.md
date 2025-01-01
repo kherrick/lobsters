@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-01, 06:11:29](https://lobste.rs/s/iufwp8/genuary_2025) - [GENUARY 2025](https://genuary.art/)
 * [2025-01-01, 05:30:41](https://lobste.rs/s/nnon5y/octoverse_2024) - [Octoverse 2024](https://github.blog/news-insights/octoverse/octoverse-2024/)
 * [2025-01-01, 05:15:41](https://lobste.rs/s/9nqtua/layer_normalization_as_fast_as_possible) - [Layer Normalization as fast as possible](https://fleetwood.dev/posts/layernorm-as-fast-as-possible)
 * [2025-01-01, 04:40:45](https://lobste.rs/s/6l46sy/optimizing_advent_code_d9p2_with_high) - [Optimizing Advent of Code D9P2 with High-Performance Rust](https://cprimozic.net/blog/optimizing-advent-of-code-2024/)
@@ -11,7 +12,6 @@
 * [2024-12-31, 21:26:01](https://lobste.rs/s/gpg7kx/i_m_lovin_it_exploiting_mcdonald_s_apis) - [I’m Lovin’ It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny](https://eaton-works.com/2024/12/19/mcdelivery-india-hack/)
 * [2024-12-31, 18:29:44](https://lobste.rs/s/tiak1t/things_we_learned_about_llms_2024) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 * [2024-12-31, 18:04:28](https://lobste.rs/s/gkco00/compiler_explorer_2024) - [Compiler Explorer in 2024](https://www.patreon.com/posts/compiler-in-2024-119012319)
-* [2024-12-31, 18:01:21](https://lobste.rs/s/bwe6xu/my_2024_review) - [My 2024 in review](https://www.paulox.net/2024/12/31/my-2024-in-review/)
 * [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
 * [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 * [2024-12-31, 13:48:04](https://lobste.rs/s/5cmjlo/static_search_trees) - [Static search trees](https://curiouscoding.nl/posts/static-search-tree/)
