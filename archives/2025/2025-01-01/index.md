@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-01](index.md)
 
+* [2025-01-01, 16:51:53](https://lobste.rs/s/rh1zkp/building_game_prototypes_with_love) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 * [2025-01-01, 16:33:32](https://lobste.rs/s/pkrlok/jj_for_developing_go) - [jj for developing Go](https://pratt.im/notes/jj-go-gerrit.html)
 * [2025-01-01, 14:27:53](https://lobste.rs/s/jlhwkm/databases_2024_year_review) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 13:31:29](https://lobste.rs/s/cq30ei/work_contracts_rethinking_task_based) - [Work Contracts - Rethinking Task Based Concurrency & Parallelism for Low Latency C++](https://www.youtube.com/watch?v=oj-_vpZNMVw)
