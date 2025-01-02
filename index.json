@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-02, 16:58:59",
+      "https://lobste.rs/s/5vywgk/postgres_uuidv7_per_backend"
+    ],
+    [
+      "Postgres UUIDv7 + per-backend monotonicity",
+      "https://brandur.org/fragments/uuid-v7-monotonicity"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 16:50:32",
       "https://lobste.rs/s/9abyze/last_expression_as_return_value"
     ],
@@ -187,16 +197,6 @@
     [
       "Databases in 2024: A Year in Review",
       "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 10:56:21",
-      "https://lobste.rs/s/uniefp/epicyon_activitypub_server_release"
-    ],
-    [
-      "Epicyon ActivityPub server release version 1.6.0",
-      "https://libreserver.org/epicyon/v1_6_0.html"
     ]
   ],
   [
