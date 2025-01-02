@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 16:01:26](https://lobste.rs/s/nlfwc6/using_watermarks_coordinate_change_data) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-02, 15:51:21](https://lobste.rs/s/exgzeu/erlang_master_classes) - [Erlang master classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/)
 * [2025-01-02, 14:54:02](https://lobste.rs/s/ynxdfr/magic_links_have_rough_edges_passkeys_can) - [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
 * [2025-01-02, 14:26:45](https://lobste.rs/s/7t86dw/rules_for_writing_software_tutorials) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
