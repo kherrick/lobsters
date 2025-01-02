@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 23:18:10](https://lobste.rs/s/j0xkqk/origins_developments) - [Origins and developments](https://graydon2.dreamwidth.org/315410.html)
 * [2025-01-02, 22:53:41](https://lobste.rs/s/jyqlah/intuitive_explanation_rotary_postional) - [Intuitive explanation of rotary postional embedding, a state-of-the-art positional encoding](https://fleetwood.dev/posts/you-could-have-designed-SOTA-positional-encoding)
 * [2025-01-02, 22:46:51](https://lobste.rs/s/qjxyd2/iterm2_3_5_11_released_with_critical) - [iTerm2 3.5.11 released with a critical security fix](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 * [2025-01-02, 22:19:04](https://lobste.rs/s/1hbwkk/alder_lake_shlx_anomaly) - [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)
