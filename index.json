@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-02, 16:29:14",
+      "https://lobste.rs/s/roaygf/how_can_we_compare_expressive_power"
+    ],
+    [
+      "How can we compare expressive power between two Turing-complete languages?",
+      "https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 16:01:26",
       "https://lobste.rs/s/nlfwc6/using_watermarks_coordinate_change_data"
     ],
@@ -237,16 +247,6 @@
     [
       "Windows 2: Final Fantasy of operating systems",
       "https://www.ninakalinina.com/notes/win2/"
-    ]
-  ],
-  [
-    [
-      "2024-12-31, 21:26:01",
-      "https://lobste.rs/s/gpg7kx/i_m_lovin_it_exploiting_mcdonald_s_apis"
-    ],
-    [
-      "I’m Lovin’ It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny",
-      "https://eaton-works.com/2024/12/19/mcdelivery-india-hack/"
     ]
   ]
 ]
