@@ -81,16 +81,6 @@
   ],
   [
     [
-      "2025-01-02, 00:08:58",
-      "https://lobste.rs/s/fxtdsa/replicate_tables_from_postgresql"
-    ],
-    [
-      "Replicate tables from PostgreSQL to Snowflake",
-      "https://www.ockam.io/blog/snowflake-pull-postgres"
-    ]
-  ],
-  [
-    [
       "2025-01-01, 20:39:29",
       "https://lobste.rs/s/jynact/ruby_3_4_highlights"
     ],
@@ -137,6 +127,16 @@
     [
       "Databases in 2024: A Year in Review",
       "https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-01, 11:09:08",
+      "https://lobste.rs/s/vlczyt/rethinking_builders_with_lazy_generics"
+    ],
+    [
+      "Rethinking Builders… with Lazy Generics (2024)",
+      "https://geo-ant.github.io/blog/2024/rust-rethinking-builders-lazy-generics/"
     ]
   ],
   [
