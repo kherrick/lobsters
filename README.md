@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 01:47:58](https://lobste.rs/s/jb6ftd/gpu_not_tpm_is_root_hardware_drm) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
+* [2025-01-02, 01:06:30](https://lobste.rs/s/nfhwae/glue_work_considered_harmful) - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
 * [2025-01-02, 00:14:22](https://lobste.rs/s/kgqpqy/sixos_nix_os_without_systemd) - [sixos: a nix os without systemd](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd#t=2133)
 * [2025-01-02, 00:08:58](https://lobste.rs/s/fxtdsa/replicate_tables_from_postgresql) - [Replicate tables from PostgreSQL to Snowflake](https://www.ockam.io/blog/snowflake-pull-postgres)
 * [2025-01-01, 20:39:29](https://lobste.rs/s/jynact/ruby_3_4_highlights) - [Ruby 3.4 highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
@@ -12,7 +14,6 @@
 * [2025-01-01, 10:56:21](https://lobste.rs/s/uniefp/epicyon_activitypub_server_release) - [Epicyon ActivityPub server release version 1.6.0](https://libreserver.org/epicyon/v1_6_0.html)
 * [2025-01-01, 09:47:52](https://lobste.rs/s/yaib0x/how_i_helped_fix_sleep_wake_hangs_on_linux) - [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-01-01, 06:30:50](https://lobste.rs/s/n8pw5y/algol_68_gcc_front_end) - [Algol 68 GCC Front-End](https://inbox.sourceware.org/gcc-patches/20250101020952.18404-1-jose.marchesi@oracle.com/T/#m77fd0f35b77b78403a85bbf7f9fd981b8e0b7b10)
-* [2025-01-01, 06:11:29](https://lobste.rs/s/iufwp8/genuary_2025) - [GENUARY 2025](https://genuary.art/)
 * [2025-01-01, 04:40:45](https://lobste.rs/s/6l46sy/optimizing_advent_code_d9p2_with_high) - [Optimizing Advent of Code D9P2 with High-Performance Rust](https://cprimozic.net/blog/optimizing-advent-of-code-2024/)
 * [2025-01-01, 04:38:58](https://lobste.rs/s/4mbfrb/pidgin_3_0_experimental_1_has_been) - [Pidgin 3.0 Experimental 1 Has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227)
 * [2025-01-01, 03:58:34](https://lobste.rs/s/s4ghai/tools_worth_changing_2025) - [Tools Worth Changing To in 2025](https://matthewsanabria.dev/posts/tools-worth-changing-to-in-2025/)
@@ -23,7 +24,6 @@
 * [2024-12-31, 18:29:44](https://lobste.rs/s/tiak1t/things_we_learned_about_llms_2024) - [Things we learned about LLMs in 2024](https://simonwillison.net/2024/Dec/31/llms-in-2024/)
 * [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
 * [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
-* [2024-12-31, 09:23:13](https://lobste.rs/s/9syvil/3_shifted_3_shapes_making_w3m_logo) - [3 Shifted 3 Shapes: Making a w3m Logo](https://toast.al/posts/visuallayout/2024-12-30_w3m-logo/)
 * [2024-12-30, 14:56:26](https://lobste.rs/s/3ytoab/collection_insane_fun_facts_about_sqlite) - [Collection of insane and fun facts about SQLite](https://avi.im/blag/2024/sqlite-facts)
 
 ## [Archives](archives/index.md)
