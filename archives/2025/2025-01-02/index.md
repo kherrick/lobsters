@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 03:37:14](https://lobste.rs/s/eprq2p/bogus_software) - [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
 * [2025-01-02, 02:14:01](https://lobste.rs/s/yklx7y/mistakes_engineers_make_large) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 * [2025-01-02, 01:47:58](https://lobste.rs/s/jb6ftd/gpu_not_tpm_is_root_hardware_drm) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 * [2025-01-02, 01:06:30](https://lobste.rs/s/nfhwae/glue_work_considered_harmful) - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)

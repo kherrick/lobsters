@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 03:37:14](https://lobste.rs/s/eprq2p/bogus_software) - [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
 * [2025-01-02, 02:14:01](https://lobste.rs/s/yklx7y/mistakes_engineers_make_large) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
 * [2025-01-02, 01:47:58](https://lobste.rs/s/jb6ftd/gpu_not_tpm_is_root_hardware_drm) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 * [2025-01-02, 01:06:30](https://lobste.rs/s/nfhwae/glue_work_considered_harmful) - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
@@ -7,7 +8,6 @@
 * [2025-01-02, 00:08:58](https://lobste.rs/s/fxtdsa/replicate_tables_from_postgresql) - [Replicate tables from PostgreSQL to Snowflake](https://www.ockam.io/blog/snowflake-pull-postgres)
 * [2025-01-01, 20:39:29](https://lobste.rs/s/jynact/ruby_3_4_highlights) - [Ruby 3.4 highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 * [2025-01-01, 20:18:30](https://lobste.rs/s/vid5v5/solving_advent_code_2024_under_1ms) - [Solving Advent of Code 2024 in Under 1ms](https://github.com/indiv0/aoc-fastest)
-* [2025-01-01, 20:05:42](https://lobste.rs/s/6yp6hn/history_focal_programming_language) - [History of the FOCAL programming language](https://www.softwarepreservation.org/projects/FOCAL)
 * [2025-01-01, 16:51:53](https://lobste.rs/s/rh1zkp/building_game_prototypes_with_love) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 * [2025-01-01, 16:33:32](https://lobste.rs/s/pkrlok/jj_for_developing_go) - [jj for developing Go](https://pratt.im/notes/jj-go-gerrit.html)
 * [2025-01-01, 14:27:53](https://lobste.rs/s/jlhwkm/databases_2024_year_review) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
