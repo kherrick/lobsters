@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 18:48:24](https://lobste.rs/s/9ojzsc/linux_context_switching_internals_part_1) - [Linux Context Switching Internals: Part 1 - Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
 * [2025-01-02, 18:04:38](https://lobste.rs/s/tsz1zu/how_does_your_url_parser_handle_unicode) - [How does your URL parser handle Unicode?](https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/)
 * [2025-01-02, 17:50:30](https://lobste.rs/s/y3ljkd/can_we_use_this_index_please_why_not) - [Can we use this index, please? – Why not?](https://hdombrovskaya.wordpress.com/2024/12/29/can-we-use-this-index-please-why-not/)
