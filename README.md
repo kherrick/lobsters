@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 16:50:32](https://lobste.rs/s/9abyze/last_expression_as_return_value) - [Last expression as return value](https://forums.swift.org/t/pitch-last-expression-as-return-value/76958)
 * [2025-01-02, 16:29:14](https://lobste.rs/s/roaygf/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2025-01-02, 16:01:26](https://lobste.rs/s/nlfwc6/using_watermarks_coordinate_change_data) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-02, 15:51:21](https://lobste.rs/s/exgzeu/erlang_master_classes) - [Erlang master classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/)
@@ -22,7 +23,6 @@
 * [2025-01-01, 09:47:52](https://lobste.rs/s/yaib0x/how_i_helped_fix_sleep_wake_hangs_on_linux) - [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-01-01, 04:38:58](https://lobste.rs/s/4mbfrb/pidgin_3_0_experimental_1_has_been) - [Pidgin 3.0 Experimental 1 Has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227)
 * [2025-01-01, 03:58:34](https://lobste.rs/s/s4ghai/tools_worth_changing_2025) - [Tools Worth Changing To in 2025](https://matthewsanabria.dev/posts/tools-worth-changing-to-in-2025/)
-* [2025-01-01, 01:50:41](https://lobste.rs/s/meiew1/goodbye_github_pages_hello_coolify) - [Goodbye Github Pages, Hello Coolify](https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/)
 * [2025-01-01, 01:43:53](https://lobste.rs/s/qwcov5/deja_vu_ghostly_cves_my_terminal_title) - [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
 * [2024-12-31, 22:17:18](https://lobste.rs/s/orbeug/windows_2_final_fantasy_operating) - [Windows 2: Final Fantasy of operating systems](https://www.ninakalinina.com/notes/win2/)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 16:50:32](https://lobste.rs/s/9abyze/last_expression_as_return_value) - [Last expression as return value](https://forums.swift.org/t/pitch-last-expression-as-return-value/76958)
 * [2025-01-02, 16:29:14](https://lobste.rs/s/roaygf/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2025-01-02, 16:01:26](https://lobste.rs/s/nlfwc6/using_watermarks_coordinate_change_data) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-02, 15:51:21](https://lobste.rs/s/exgzeu/erlang_master_classes) - [Erlang master classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/)
