@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 14:26:45](https://lobste.rs/s/7t86dw/rules_for_writing_software_tutorials) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 * [2025-01-02, 09:56:54](https://lobste.rs/s/qy8cug/remote_reboots_with_encrypted_disks_2022) - [Remote reboots with encrypted disks (2022)](https://tavianator.com/2022/remote_reboots.html)
 * [2025-01-02, 09:52:44](https://lobste.rs/s/dmsjoc/post_quantum_public_key_encryption_what_s) - [Post-quantum public-key encryption: what’s it all about?](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/pq-kem/)
 * [2025-01-02, 09:45:14](https://lobste.rs/s/m35kgo/co_blub_paradox) - [The Co-Blub Paradox](https://reasonablypolymorphic.com/blog/coblub/)

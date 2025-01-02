@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 14:26:45](https://lobste.rs/s/7t86dw/rules_for_writing_software_tutorials) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 * [2025-01-02, 09:56:54](https://lobste.rs/s/qy8cug/remote_reboots_with_encrypted_disks_2022) - [Remote reboots with encrypted disks (2022)](https://tavianator.com/2022/remote_reboots.html)
 * [2025-01-02, 09:52:44](https://lobste.rs/s/dmsjoc/post_quantum_public_key_encryption_what_s) - [Post-quantum public-key encryption: what’s it all about?](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/pq-kem/)
 * [2025-01-02, 09:45:14](https://lobste.rs/s/m35kgo/co_blub_paradox) - [The Co-Blub Paradox](https://reasonablypolymorphic.com/blog/coblub/)
@@ -13,7 +14,6 @@
 * [2025-01-01, 16:51:53](https://lobste.rs/s/rh1zkp/building_game_prototypes_with_love) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 * [2025-01-01, 16:33:32](https://lobste.rs/s/pkrlok/jj_for_developing_go) - [jj for developing Go](https://pratt.im/notes/jj-go-gerrit.html)
 * [2025-01-01, 14:27:53](https://lobste.rs/s/jlhwkm/databases_2024_year_review) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
-* [2025-01-01, 11:09:08](https://lobste.rs/s/vlczyt/rethinking_builders_with_lazy_generics) - [Rethinking Builders… with Lazy Generics (2024)](https://geo-ant.github.io/blog/2024/rust-rethinking-builders-lazy-generics/)
 * [2025-01-01, 10:56:21](https://lobste.rs/s/uniefp/epicyon_activitypub_server_release) - [Epicyon ActivityPub server release version 1.6.0](https://libreserver.org/epicyon/v1_6_0.html)
 * [2025-01-01, 09:47:52](https://lobste.rs/s/yaib0x/how_i_helped_fix_sleep_wake_hangs_on_linux) - [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-01-01, 06:30:50](https://lobste.rs/s/n8pw5y/algol_68_gcc_front_end) - [Algol 68 GCC Front-End](https://inbox.sourceware.org/gcc-patches/20250101020952.18404-1-jose.marchesi@oracle.com/T/#m77fd0f35b77b78403a85bbf7f9fd981b8e0b7b10)
