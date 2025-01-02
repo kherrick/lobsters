@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 09:52:44](https://lobste.rs/s/dmsjoc/post_quantum_public_key_encryption_what_s) - [Post-quantum public-key encryption: what’s it all about?](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/pq-kem/)
 * [2025-01-02, 09:45:14](https://lobste.rs/s/m35kgo/co_blub_paradox) - [The Co-Blub Paradox](https://reasonablypolymorphic.com/blog/coblub/)
 * [2025-01-02, 03:37:14](https://lobste.rs/s/eprq2p/bogus_software) - [Bogus Software](https://minesweepergame.com/history/bogus-software.php)
 * [2025-01-02, 02:14:01](https://lobste.rs/s/yklx7y/mistakes_engineers_make_large) - [Mistakes engineers make in large established codebases](https://www.seangoedecke.com/large-established-codebases/)
@@ -24,7 +25,6 @@
 * [2024-12-31, 22:17:18](https://lobste.rs/s/orbeug/windows_2_final_fantasy_operating) - [Windows 2: Final Fantasy of operating systems](https://www.ninakalinina.com/notes/win2/)
 * [2024-12-31, 21:26:01](https://lobste.rs/s/gpg7kx/i_m_lovin_it_exploiting_mcdonald_s_apis) - [I’m Lovin’ It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny](https://eaton-works.com/2024/12/19/mcdelivery-india-hack/)
 * [2024-12-31, 16:19:31](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025) - [What are you planning to learn in 2025?](https://lobste.rs/s/mx3gau/what_are_you_planning_learn_2025)
-* [2024-12-31, 14:31:32](https://lobste.rs/s/2j3mdi/colliding_with_sha_prefix_linux_s_initial) - [Colliding with the SHA prefix of Linux's initial Git commit](https://people.kernel.org/kees/colliding-with-the-sha-prefix-of-linuxs-initial-git-commit)
 
 ## [Archives](archives/index.md)
 
