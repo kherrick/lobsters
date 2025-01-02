@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 16:58:59](https://lobste.rs/s/5vywgk/postgres_uuidv7_per_backend) - [Postgres UUIDv7 + per-backend monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 16:50:32](https://lobste.rs/s/9abyze/last_expression_as_return_value) - [Last expression as return value](https://forums.swift.org/t/pitch-last-expression-as-return-value/76958)
 * [2025-01-02, 16:29:14](https://lobste.rs/s/roaygf/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2025-01-02, 16:01:26](https://lobste.rs/s/nlfwc6/using_watermarks_coordinate_change_data) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
@@ -19,7 +20,6 @@
 * [2025-01-01, 16:51:53](https://lobste.rs/s/rh1zkp/building_game_prototypes_with_love) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 * [2025-01-01, 16:33:32](https://lobste.rs/s/pkrlok/jj_for_developing_go) - [jj for developing Go](https://pratt.im/notes/jj-go-gerrit.html)
 * [2025-01-01, 14:27:53](https://lobste.rs/s/jlhwkm/databases_2024_year_review) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
-* [2025-01-01, 10:56:21](https://lobste.rs/s/uniefp/epicyon_activitypub_server_release) - [Epicyon ActivityPub server release version 1.6.0](https://libreserver.org/epicyon/v1_6_0.html)
 * [2025-01-01, 09:47:52](https://lobste.rs/s/yaib0x/how_i_helped_fix_sleep_wake_hangs_on_linux) - [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-01-01, 04:38:58](https://lobste.rs/s/4mbfrb/pidgin_3_0_experimental_1_has_been) - [Pidgin 3.0 Experimental 1 Has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227)
 * [2025-01-01, 03:58:34](https://lobste.rs/s/s4ghai/tools_worth_changing_2025) - [Tools Worth Changing To in 2025](https://matthewsanabria.dev/posts/tools-worth-changing-to-in-2025/)
