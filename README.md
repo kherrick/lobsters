@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
 * [2025-01-02, 18:04:38](https://lobste.rs/s/tsz1zu/how_does_your_url_parser_handle_unicode) - [How does your URL parser handle Unicode?](https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/)
 * [2025-01-02, 17:50:30](https://lobste.rs/s/y3ljkd/can_we_use_this_index_please_why_not) - [Can we use this index, please? – Why not?](https://hdombrovskaya.wordpress.com/2024/12/29/can-we-use-this-index-please-why-not/)
 * [2025-01-02, 16:58:59](https://lobste.rs/s/5vywgk/postgres_uuidv7_per_backend) - [Postgres UUIDv7 + per-backend monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
@@ -23,7 +24,6 @@
 * [2025-01-01, 14:27:53](https://lobste.rs/s/jlhwkm/databases_2024_year_review) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
 * [2025-01-01, 09:47:52](https://lobste.rs/s/yaib0x/how_i_helped_fix_sleep_wake_hangs_on_linux) - [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-01-01, 04:38:58](https://lobste.rs/s/4mbfrb/pidgin_3_0_experimental_1_has_been) - [Pidgin 3.0 Experimental 1 Has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227)
-* [2025-01-01, 03:58:34](https://lobste.rs/s/s4ghai/tools_worth_changing_2025) - [Tools Worth Changing To in 2025](https://matthewsanabria.dev/posts/tools-worth-changing-to-in-2025/)
 * [2025-01-01, 01:43:53](https://lobste.rs/s/qwcov5/deja_vu_ghostly_cves_my_terminal_title) - [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
 
 ## [Archives](archives/index.md)

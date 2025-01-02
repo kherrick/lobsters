@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
 * [2025-01-02, 18:04:38](https://lobste.rs/s/tsz1zu/how_does_your_url_parser_handle_unicode) - [How does your URL parser handle Unicode?](https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/)
 * [2025-01-02, 17:50:30](https://lobste.rs/s/y3ljkd/can_we_use_this_index_please_why_not) - [Can we use this index, please? – Why not?](https://hdombrovskaya.wordpress.com/2024/12/29/can-we-use-this-index-please-why-not/)
 * [2025-01-02, 16:58:59](https://lobste.rs/s/5vywgk/postgres_uuidv7_per_backend) - [Postgres UUIDv7 + per-backend monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
