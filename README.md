@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 16:29:14](https://lobste.rs/s/roaygf/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
 * [2025-01-02, 16:01:26](https://lobste.rs/s/nlfwc6/using_watermarks_coordinate_change_data) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-02, 15:51:21](https://lobste.rs/s/exgzeu/erlang_master_classes) - [Erlang master classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/)
 * [2025-01-02, 14:54:02](https://lobste.rs/s/ynxdfr/magic_links_have_rough_edges_passkeys_can) - [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
@@ -24,7 +25,6 @@
 * [2025-01-01, 01:50:41](https://lobste.rs/s/meiew1/goodbye_github_pages_hello_coolify) - [Goodbye Github Pages, Hello Coolify](https://quakkels.com/posts/202412_01_goodbye_github_pages_hello_coolify/)
 * [2025-01-01, 01:43:53](https://lobste.rs/s/qwcov5/deja_vu_ghostly_cves_my_terminal_title) - [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
 * [2024-12-31, 22:17:18](https://lobste.rs/s/orbeug/windows_2_final_fantasy_operating) - [Windows 2: Final Fantasy of operating systems](https://www.ninakalinina.com/notes/win2/)
-* [2024-12-31, 21:26:01](https://lobste.rs/s/gpg7kx/i_m_lovin_it_exploiting_mcdonald_s_apis) - [I’m Lovin’ It: Exploiting McDonald’s APIs to hijack deliveries and order food for a penny](https://eaton-works.com/2024/12/19/mcdelivery-india-hack/)
 
 ## [Archives](archives/index.md)
 
