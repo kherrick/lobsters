@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-02, 18:57:46](https://lobste.rs/s/tmk3yp/doom_captcha) - [DOOM® CAPTCHA](https://doom-captcha.vercel.app)
 * [2025-01-02, 18:48:24](https://lobste.rs/s/9ojzsc/linux_context_switching_internals_part_1) - [Linux Context Switching Internals: Part 1 - Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
 * [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
 * [2025-01-02, 18:04:38](https://lobste.rs/s/tsz1zu/how_does_your_url_parser_handle_unicode) - [How does your URL parser handle Unicode?](https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/)
@@ -22,7 +23,6 @@
 * [2025-01-01, 20:18:30](https://lobste.rs/s/vid5v5/solving_advent_code_2024_under_1ms) - [Solving Advent of Code 2024 in Under 1ms](https://github.com/indiv0/aoc-fastest)
 * [2025-01-01, 16:51:53](https://lobste.rs/s/rh1zkp/building_game_prototypes_with_love) - [Building Game Prototypes with LÖVE](https://healeycodes.com/building-game-prototypes-with-love)
 * [2025-01-01, 14:27:53](https://lobste.rs/s/jlhwkm/databases_2024_year_review) - [Databases in 2024: A Year in Review](https://www.cs.cmu.edu/~pavlo/blog/2025/01/2024-databases-retrospective.html)
-* [2025-01-01, 09:47:52](https://lobste.rs/s/yaib0x/how_i_helped_fix_sleep_wake_hangs_on_linux) - [How I helped fix sleep-wake hangs on Linux with AMD GPUs](https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/)
 * [2025-01-01, 04:38:58](https://lobste.rs/s/4mbfrb/pidgin_3_0_experimental_1_has_been) - [Pidgin 3.0 Experimental 1 Has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-1-has-been-released/227)
 * [2025-01-01, 01:43:53](https://lobste.rs/s/qwcov5/deja_vu_ghostly_cves_my_terminal_title) - [Déjà vu: Ghostly CVEs in my terminal title](https://dgl.cx/2024/12/ghostty-terminal-title)
 
