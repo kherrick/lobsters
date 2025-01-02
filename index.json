@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-02, 15:51:21",
+      "https://lobste.rs/s/exgzeu/erlang_master_classes"
+    ],
+    [
+      "Erlang master classes",
+      "https://www.cs.kent.ac.uk/ErlangMasterClasses/"
+    ]
+  ],
+  [
+    [
       "2025-01-02, 14:54:02",
       "https://lobste.rs/s/ynxdfr/magic_links_have_rough_edges_passkeys_can"
     ],
@@ -167,16 +177,6 @@
     [
       "How I helped fix sleep-wake hangs on Linux with AMD GPUs",
       "https://nyanpasu64.gitlab.io/blog/amdgpu-sleep-wake-hang/"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 04:40:45",
-      "https://lobste.rs/s/6l46sy/optimizing_advent_code_d9p2_with_high"
-    ],
-    [
-      "Optimizing Advent of Code D9P2 with High-Performance Rust",
-      "https://cprimozic.net/blog/optimizing-advent-of-code-2024/"
     ]
   ],
   [
