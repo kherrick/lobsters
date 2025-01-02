@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-02](index.md)
 
+* [2025-01-02, 22:19:04](https://lobste.rs/s/1hbwkk/alder_lake_shlx_anomaly) - [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 20:12:52](https://lobste.rs/s/okvfx9/advent_code_2024_pure_sql) - [Advent of Code 2024 in pure SQL](http://databasearchitects.blogspot.com/2024/12/advent-of-code-2024-in-pure-sql.html)
 * [2025-01-02, 18:57:46](https://lobste.rs/s/tmk3yp/doom_captcha) - [DOOM® CAPTCHA](https://doom-captcha.vercel.app)
 * [2025-01-02, 18:48:24](https://lobste.rs/s/9ojzsc/linux_context_switching_internals_part_1) - [Linux Context Switching Internals: Part 1 - Process State and Memory](https://blog.codingconfessions.com/p/linux-context-switching-internals)
