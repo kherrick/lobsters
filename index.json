@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-01-03, 16:01:45",
+      "https://lobste.rs/s/hunrkg/building_netbsd_meta_mode"
+    ],
+    [
+      "Building NetBSD in meta mode",
+      "https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 15:51:36",
       "https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice"
     ],
@@ -207,16 +217,6 @@
     [
       "Postgres UUIDv7 + per-backend monotonicity",
       "https://brandur.org/fragments/uuid-v7-monotonicity"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 16:50:32",
-      "https://lobste.rs/s/9abyze/last_expression_as_return_value"
-    ],
-    [
-      "Last expression as return value",
-      "https://forums.swift.org/t/pitch-last-expression-as-return-value/76958"
     ]
   ],
   [
