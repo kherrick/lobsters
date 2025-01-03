@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-03, 17:12:09",
+      "https://lobste.rs/s/gqjejv/preventing_data_races_with_pony"
+    ],
+    [
+      "Preventing data races with Pony",
+      "https://lwn.net/SubscriberLink/1001224/25f4c02cdb2a432e/"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 17:08:39",
+      "https://lobste.rs/s/davoke/zizmor_v1_0_0"
+    ],
+    [
+      "zizmor v1.0.0",
+      "https://github.com/woodruffw/zizmor/releases/tag/v1.0.0"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 16:01:45",
       "https://lobste.rs/s/hunrkg/building_netbsd_meta_mode"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-01-02, 17:50:30",
-      "https://lobste.rs/s/y3ljkd/can_we_use_this_index_please_why_not"
-    ],
-    [
-      "Can we use this index, please? – Why not?",
-      "https://hdombrovskaya.wordpress.com/2024/12/29/can-we-use-this-index-please-why-not/"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 16:58:59",
       "https://lobste.rs/s/5vywgk/postgres_uuidv7_per_backend"
     ],
@@ -197,16 +207,6 @@
     [
       "Last expression as return value",
       "https://forums.swift.org/t/pitch-last-expression-as-return-value/76958"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 16:29:14",
-      "https://lobste.rs/s/roaygf/how_can_we_compare_expressive_power"
-    ],
-    [
-      "How can we compare expressive power between two Turing-complete languages?",
-      "https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages"
     ]
   ],
   [
