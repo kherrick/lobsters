@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-03, 16:01:45](https://lobste.rs/s/hunrkg/building_netbsd_meta_mode) - [Building NetBSD in meta mode](https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm)
 * [2025-01-03, 15:51:36](https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice) - [Mandelbrot deep zoom theory and practice](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
 * [2025-01-03, 14:56:37](https://lobste.rs/s/phjfee/reversing_animal_crossing_letter_system) - [Reversing the Animal Crossing letter system](https://jamchamb.net/projects/animal-crossing-letters)
 * [2025-01-03, 14:47:57](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice) - [Introducing Docker to CS Freshmen - Advice Needed](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice)
@@ -16,7 +17,6 @@
 * [2025-01-02, 22:19:04](https://lobste.rs/s/1hbwkk/alder_lake_shlx_anomaly) - [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 18:57:46](https://lobste.rs/s/tmk3yp/doom_captcha) - [DOOM® CAPTCHA](https://doom-captcha.vercel.app)
 * [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
-* [2025-01-02, 18:04:38](https://lobste.rs/s/tsz1zu/how_does_your_url_parser_handle_unicode) - [How does your URL parser handle Unicode?](https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/)
 * [2025-01-02, 17:50:30](https://lobste.rs/s/y3ljkd/can_we_use_this_index_please_why_not) - [Can we use this index, please? – Why not?](https://hdombrovskaya.wordpress.com/2024/12/29/can-we-use-this-index-please-why-not/)
 * [2025-01-02, 16:58:59](https://lobste.rs/s/5vywgk/postgres_uuidv7_per_backend) - [Postgres UUIDv7 + per-backend monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 16:50:32](https://lobste.rs/s/9abyze/last_expression_as_return_value) - [Last expression as return value](https://forums.swift.org/t/pitch-last-expression-as-return-value/76958)
