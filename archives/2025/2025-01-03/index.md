@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 14:56:37](https://lobste.rs/s/phjfee/reversing_animal_crossing_letter_system) - [Reversing the Animal Crossing letter system](https://jamchamb.net/projects/animal-crossing-letters)
 * [2025-01-03, 14:47:57](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice) - [Introducing Docker to CS Freshmen - Advice Needed](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice)
 * [2025-01-03, 14:07:14](https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
 * [2025-01-03, 13:53:30](https://lobste.rs/s/fge22b/jit_calculator_challenge) - [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
