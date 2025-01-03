@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 19:04:57](https://lobste.rs/s/9wfsqk/project_idea_pkg_config_support) - [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
 * [2025-01-03, 17:53:18](https://lobste.rs/s/hueupx/spline_distance_fields) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-03, 17:35:58](https://lobste.rs/s/hfx5xx/sqlite4_sqlite_on_lsm_tree_2014) - [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
