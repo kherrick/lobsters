@@ -4,6 +4,7 @@
 * [2025-01-03, 19:04:57](https://lobste.rs/s/9wfsqk/project_idea_pkg_config_support) - [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
 * [2025-01-03, 17:53:18](https://lobste.rs/s/hueupx/spline_distance_fields) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
+* [2025-01-03, 17:35:58](https://lobste.rs/s/hfx5xx/sqlite4_sqlite_on_lsm_tree_2014) - [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
 * [2025-01-03, 17:08:39](https://lobste.rs/s/davoke/zizmor_v1_0_0) - [zizmor v1.0.0](https://github.com/woodruffw/zizmor/releases/tag/v1.0.0)
 * [2025-01-03, 16:01:45](https://lobste.rs/s/hunrkg/building_netbsd_meta_mode) - [Building NetBSD in meta mode](https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm)
 * [2025-01-03, 15:51:36](https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice) - [Mandelbrot deep zoom theory and practice](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
@@ -23,7 +24,6 @@
 * [2025-01-02, 18:57:46](https://lobste.rs/s/tmk3yp/doom_captcha) - [DOOM® CAPTCHA](https://doom-captcha.vercel.app)
 * [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
 * [2025-01-02, 16:58:59](https://lobste.rs/s/5vywgk/postgres_uuidv7_per_backend) - [Postgres UUIDv7 + per-backend monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
-* [2025-01-02, 14:54:02](https://lobste.rs/s/ynxdfr/magic_links_have_rough_edges_passkeys_can) - [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
 * [2025-01-02, 14:26:45](https://lobste.rs/s/7t86dw/rules_for_writing_software_tutorials) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 
 ## [Archives](archives/index.md)
