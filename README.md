@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-03, 11:58:51](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend)
 * [2025-01-03, 10:27:57](https://lobste.rs/s/xese9d/usb_on_go_2024) - [usb on the go (2024)](https://computer.rip/2024-01-06-usb-on-the-go.html)
 * [2025-01-03, 10:03:08](https://lobste.rs/s/9u03gd/bevy_efficiency_on_mobile) - [Bevy Efficiency on Mobile](https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/)
 * [2025-01-03, 08:04:01](https://lobste.rs/s/gvzawc/explicit_specialization) - [Explicit Specialization](https://forums.swift.org/t/pitch-explicit-specialization/76967)
@@ -23,7 +24,6 @@
 * [2025-01-02, 01:47:58](https://lobste.rs/s/jb6ftd/gpu_not_tpm_is_root_hardware_drm) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 * [2025-01-02, 01:06:30](https://lobste.rs/s/nfhwae/glue_work_considered_harmful) - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
 * [2025-01-02, 00:14:22](https://lobste.rs/s/kgqpqy/sixos_nix_os_without_systemd) - [sixos: a nix os without systemd](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd#t=2133)
-* [2025-01-01, 20:39:29](https://lobste.rs/s/jynact/ruby_3_4_highlights) - [Ruby 3.4 highlights](https://blog.sinjakli.co.uk/2025/01/01/ruby-3-4-highlights/)
 * [2025-01-01, 20:18:30](https://lobste.rs/s/vid5v5/solving_advent_code_2024_under_1ms) - [Solving Advent of Code 2024 in Under 1ms](https://github.com/indiv0/aoc-fastest)
 
 ## [Archives](archives/index.md)
