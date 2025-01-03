@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-03, 14:07:14](https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
 * [2025-01-03, 13:53:30](https://lobste.rs/s/fge22b/jit_calculator_challenge) - [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
 * [2025-01-03, 12:31:57](https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads) - [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
 * [2025-01-03, 11:58:51](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend)
@@ -23,7 +24,6 @@
 * [2025-01-02, 09:56:54](https://lobste.rs/s/qy8cug/remote_reboots_with_encrypted_disks_2022) - [Remote reboots with encrypted disks (2022)](https://tavianator.com/2022/remote_reboots.html)
 * [2025-01-02, 01:47:58](https://lobste.rs/s/jb6ftd/gpu_not_tpm_is_root_hardware_drm) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 * [2025-01-02, 01:06:30](https://lobste.rs/s/nfhwae/glue_work_considered_harmful) - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
-* [2025-01-02, 00:14:22](https://lobste.rs/s/kgqpqy/sixos_nix_os_without_systemd) - [sixos: a nix os without systemd](https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd#t=2133)
 * [2025-01-01, 20:18:30](https://lobste.rs/s/vid5v5/solving_advent_code_2024_under_1ms) - [Solving Advent of Code 2024 in Under 1ms](https://github.com/indiv0/aoc-fastest)
 
 ## [Archives](archives/index.md)
