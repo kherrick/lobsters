@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-03, 10:03:08",
+      "https://lobste.rs/s/9u03gd/bevy_efficiency_on_mobile"
+    ],
+    [
+      "Bevy Efficiency on Mobile",
+      "https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 08:04:01",
       "https://lobste.rs/s/gvzawc/explicit_specialization"
     ],
@@ -147,16 +157,6 @@
     [
       "How can we compare expressive power between two Turing-complete languages?",
       "https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 16:01:26",
-      "https://lobste.rs/s/nlfwc6/using_watermarks_coordinate_change_data"
-    ],
-    [
-      "Using watermarks to coordinate change data capture in Postgres",
-      "https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/"
     ]
   ],
   [
