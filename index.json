@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-03, 13:53:30",
+      "https://lobste.rs/s/fge22b/jit_calculator_challenge"
+    ],
+    [
+      "The JIT calculator challenge",
+      "https://ochagavia.nl/blog/the-jit-calculator-challenge"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 12:31:57",
       "https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads"
     ],
@@ -37,16 +47,6 @@
     [
       "Bevy Efficiency on Mobile",
       "https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 08:04:01",
-      "https://lobste.rs/s/gvzawc/explicit_specialization"
-    ],
-    [
-      "Explicit Specialization",
-      "https://forums.swift.org/t/pitch-explicit-specialization/76967"
     ]
   ],
   [
