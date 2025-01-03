@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 15:51:36](https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice) - [Mandelbrot deep zoom theory and practice](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
 * [2025-01-03, 14:56:37](https://lobste.rs/s/phjfee/reversing_animal_crossing_letter_system) - [Reversing the Animal Crossing letter system](https://jamchamb.net/projects/animal-crossing-letters)
 * [2025-01-03, 14:47:57](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice) - [Introducing Docker to CS Freshmen - Advice Needed](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice)
 * [2025-01-03, 14:07:14](https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)

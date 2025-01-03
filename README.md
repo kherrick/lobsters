@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-03, 15:51:36](https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice) - [Mandelbrot deep zoom theory and practice](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
 * [2025-01-03, 14:56:37](https://lobste.rs/s/phjfee/reversing_animal_crossing_letter_system) - [Reversing the Animal Crossing letter system](https://jamchamb.net/projects/animal-crossing-letters)
 * [2025-01-03, 14:47:57](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice) - [Introducing Docker to CS Freshmen - Advice Needed](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice)
 * [2025-01-03, 14:07:14](https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
@@ -24,7 +25,6 @@
 * [2025-01-02, 14:26:45](https://lobste.rs/s/7t86dw/rules_for_writing_software_tutorials) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 * [2025-01-02, 01:47:58](https://lobste.rs/s/jb6ftd/gpu_not_tpm_is_root_hardware_drm) - [The GPU, not the TPM, is the root of hardware DRM](https://mjg59.dreamwidth.org/70954.html)
 * [2025-01-02, 01:06:30](https://lobste.rs/s/nfhwae/glue_work_considered_harmful) - [Glue work considered harmful](https://www.seangoedecke.com/glue-work-considered-harmful/)
-* [2025-01-01, 20:18:30](https://lobste.rs/s/vid5v5/solving_advent_code_2024_under_1ms) - [Solving Advent of Code 2024 in Under 1ms](https://github.com/indiv0/aoc-fastest)
 
 ## [Archives](archives/index.md)
 
