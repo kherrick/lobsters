@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 14:47:57](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice) - [Introducing Docker to CS Freshmen - Advice Needed](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice)
 * [2025-01-03, 14:07:14](https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
 * [2025-01-03, 13:53:30](https://lobste.rs/s/fge22b/jit_calculator_challenge) - [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
 * [2025-01-03, 12:31:57](https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads) - [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
