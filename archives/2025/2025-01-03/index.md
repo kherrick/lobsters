@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 21:33:44](https://lobste.rs/s/7hexht/intractable_challenges_technical) - [The intractable challenges of technical writing](https://technicalwriting.dev/strategy/challenges.html)
+* [2025-01-03, 21:32:35](https://lobste.rs/s/aclq5e/2024_ml_review_for_technical_writers) - [2024 ML Review (For Technical Writers)](https://technicalwriting.dev/ml/reviews/2024.html)
+* [2025-01-03, 21:29:16](https://lobste.rs/s/zc1dtm/helix_25_01_highlights) - [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
 * [2025-01-03, 19:24:20](https://lobste.rs/s/t4i7s8/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise)
 * [2025-01-03, 19:04:57](https://lobste.rs/s/9wfsqk/project_idea_pkg_config_support) - [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)

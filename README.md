@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-03, 21:33:44](https://lobste.rs/s/7hexht/intractable_challenges_technical) - [The intractable challenges of technical writing](https://technicalwriting.dev/strategy/challenges.html)
+* [2025-01-03, 21:32:35](https://lobste.rs/s/aclq5e/2024_ml_review_for_technical_writers) - [2024 ML Review (For Technical Writers)](https://technicalwriting.dev/ml/reviews/2024.html)
+* [2025-01-03, 21:29:16](https://lobste.rs/s/zc1dtm/helix_25_01_highlights) - [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
 * [2025-01-03, 19:24:20](https://lobste.rs/s/t4i7s8/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise)
 * [2025-01-03, 19:04:57](https://lobste.rs/s/9wfsqk/project_idea_pkg_config_support) - [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
@@ -18,12 +21,9 @@
 * [2025-01-03, 10:03:08](https://lobste.rs/s/9u03gd/bevy_efficiency_on_mobile) - [Bevy Efficiency on Mobile](https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/)
 * [2025-01-03, 03:19:48](https://lobste.rs/s/8vgmiv/evolution_sre_at_google) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 02:05:28](https://lobste.rs/s/n9jbmn/never_have_outdated_footer_dates_again) - [Never Have Outdated Footer Dates Again](https://getfullyear.com/)
-* [2025-01-02, 23:18:10](https://lobste.rs/s/j0xkqk/origins_developments) - [Origins and developments](https://graydon2.dreamwidth.org/315410.html)
-* [2025-01-02, 22:46:51](https://lobste.rs/s/qjxyd2/iterm2_3_5_11_released_with_critical) - [iTerm2 3.5.11 released with a critical security fix](https://iterm2.com/downloads/stable/iTerm2-3_5_11.changelog)
 * [2025-01-02, 22:19:04](https://lobste.rs/s/1hbwkk/alder_lake_shlx_anomaly) - [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 18:57:46](https://lobste.rs/s/tmk3yp/doom_captcha) - [DOOM® CAPTCHA](https://doom-captcha.vercel.app)
 * [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
-* [2025-01-02, 14:54:02](https://lobste.rs/s/ynxdfr/magic_links_have_rough_edges_passkeys_can) - [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
 * [2025-01-02, 14:26:45](https://lobste.rs/s/7t86dw/rules_for_writing_software_tutorials) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
 
 ## [Archives](archives/index.md)
