@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-03, 16:01:45",
+      "https://lobste.rs/s/hunrkg/building_netbsd_meta_mode"
+    ],
+    [
+      "Building NetBSD in meta mode",
+      "https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 15:51:36",
       "https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice"
     ],
@@ -157,16 +167,6 @@
     [
       "Who's Hiring? Q1 2025",
       "https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 18:04:38",
-      "https://lobste.rs/s/tsz1zu/how_does_your_url_parser_handle_unicode"
-    ],
-    [
-      "How does your URL parser handle Unicode?",
-      "https://lemire.me/blog/2025/01/02/how-does-your-url-parser-handle-unicode/"
     ]
   ],
   [
