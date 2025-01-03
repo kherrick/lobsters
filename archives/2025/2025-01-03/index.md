@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 13:53:30](https://lobste.rs/s/fge22b/jit_calculator_challenge) - [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
 * [2025-01-03, 12:31:57](https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads) - [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
 * [2025-01-03, 11:58:51](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend)
 * [2025-01-03, 10:27:57](https://lobste.rs/s/xese9d/usb_on_go_2024) - [usb on the go (2024)](https://computer.rip/2024-01-06-usb-on-the-go.html)
