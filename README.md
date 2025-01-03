@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
 * [2025-01-03, 17:53:18](https://lobste.rs/s/hueupx/spline_distance_fields) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-03, 17:35:58](https://lobste.rs/s/hfx5xx/sqlite4_sqlite_on_lsm_tree_2014) - [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
-* [2025-01-03, 17:12:09](https://lobste.rs/s/gqjejv/preventing_data_races_with_pony) - [Preventing data races with Pony](https://lwn.net/SubscriberLink/1001224/25f4c02cdb2a432e/)
 * [2025-01-03, 17:08:39](https://lobste.rs/s/davoke/zizmor_v1_0_0) - [zizmor v1.0.0](https://github.com/woodruffw/zizmor/releases/tag/v1.0.0)
 * [2025-01-03, 16:01:45](https://lobste.rs/s/hunrkg/building_netbsd_meta_mode) - [Building NetBSD in meta mode](https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm)
 * [2025-01-03, 15:51:36](https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice) - [Mandelbrot deep zoom theory and practice](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
