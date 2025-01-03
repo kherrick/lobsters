@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
-* [2025-01-03, 21:44:37](https://lobste.rs/s/ilg8hh/if_i_could_wave_magic_wand) - [If I Could Wave a Magic Wand](https://wilsoniumite.com/2024/12/30/if-i-could-wave-a-magic-wand/)
 * [2025-01-03, 21:33:44](https://lobste.rs/s/7hexht/intractable_challenges_technical) - [The intractable challenges of technical writing](https://technicalwriting.dev/strategy/challenges.html)
 * [2025-01-03, 21:32:35](https://lobste.rs/s/aclq5e/2024_ml_review_for_technical_writers) - [2024 ML Review (For Technical Writers)](https://technicalwriting.dev/ml/reviews/2024.html)
 * [2025-01-03, 21:29:16](https://lobste.rs/s/zc1dtm/helix_25_01_highlights) - [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
@@ -10,6 +9,7 @@
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
 * [2025-01-03, 17:53:18](https://lobste.rs/s/hueupx/spline_distance_fields) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-03, 17:35:58](https://lobste.rs/s/hfx5xx/sqlite4_sqlite_on_lsm_tree_2014) - [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
+* [2025-01-03, 17:12:09](https://lobste.rs/s/gqjejv/preventing_data_races_with_pony) - [Preventing data races with Pony](https://lwn.net/SubscriberLink/1001224/25f4c02cdb2a432e/)
 * [2025-01-03, 17:08:39](https://lobste.rs/s/davoke/zizmor_v1_0_0) - [zizmor v1.0.0](https://github.com/woodruffw/zizmor/releases/tag/v1.0.0)
 * [2025-01-03, 16:01:45](https://lobste.rs/s/hunrkg/building_netbsd_meta_mode) - [Building NetBSD in meta mode](https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm)
 * [2025-01-03, 15:51:36](https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice) - [Mandelbrot deep zoom theory and practice](https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html)
