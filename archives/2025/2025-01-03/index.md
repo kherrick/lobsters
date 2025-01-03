@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 17:53:18](https://lobste.rs/s/hueupx/spline_distance_fields) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-03, 17:35:58](https://lobste.rs/s/hfx5xx/sqlite4_sqlite_on_lsm_tree_2014) - [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
 * [2025-01-03, 17:12:09](https://lobste.rs/s/gqjejv/preventing_data_races_with_pony) - [Preventing data races with Pony](https://lwn.net/SubscriberLink/1001224/25f4c02cdb2a432e/)
 * [2025-01-03, 17:08:39](https://lobste.rs/s/davoke/zizmor_v1_0_0) - [zizmor v1.0.0](https://github.com/woodruffw/zizmor/releases/tag/v1.0.0)
