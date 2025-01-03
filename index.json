@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-01-03, 21:44:37",
-      "https://lobste.rs/s/ilg8hh/if_i_could_wave_magic_wand"
-    ],
-    [
-      "If I Could Wave a Magic Wand",
-      "https://wilsoniumite.com/2024/12/30/if-i-could-wave-a-magic-wand/"
-    ]
-  ],
-  [
-    [
       "2025-01-03, 21:33:44",
       "https://lobste.rs/s/7hexht/intractable_challenges_technical"
     ],
@@ -97,6 +87,16 @@
     [
       "SQLite4 – SQLite on LSM Tree (2014)",
       "https://sqlite.org/src4/doc/trunk/www/index.wiki"
+    ]
+  ],
+  [
+    [
+      "2025-01-03, 17:12:09",
+      "https://lobste.rs/s/gqjejv/preventing_data_races_with_pony"
+    ],
+    [
+      "Preventing data races with Pony",
+      "https://lwn.net/SubscriberLink/1001224/25f4c02cdb2a432e/"
     ]
   ],
   [
