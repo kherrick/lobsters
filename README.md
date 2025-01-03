@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-03, 10:03:08](https://lobste.rs/s/9u03gd/bevy_efficiency_on_mobile) - [Bevy Efficiency on Mobile](https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/)
 * [2025-01-03, 08:04:01](https://lobste.rs/s/gvzawc/explicit_specialization) - [Explicit Specialization](https://forums.swift.org/t/pitch-explicit-specialization/76967)
 * [2025-01-03, 03:19:48](https://lobste.rs/s/8vgmiv/evolution_sre_at_google) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 02:05:28](https://lobste.rs/s/n9jbmn/never_have_outdated_footer_dates_again) - [Never Have Outdated Footer Dates Again](https://getfullyear.com/)
@@ -15,7 +16,6 @@
 * [2025-01-02, 16:58:59](https://lobste.rs/s/5vywgk/postgres_uuidv7_per_backend) - [Postgres UUIDv7 + per-backend monotonicity](https://brandur.org/fragments/uuid-v7-monotonicity)
 * [2025-01-02, 16:50:32](https://lobste.rs/s/9abyze/last_expression_as_return_value) - [Last expression as return value](https://forums.swift.org/t/pitch-last-expression-as-return-value/76958)
 * [2025-01-02, 16:29:14](https://lobste.rs/s/roaygf/how_can_we_compare_expressive_power) - [How can we compare expressive power between two Turing-complete languages?](https://langdev.stackexchange.com/questions/2015/how-can-we-compare-expressive-power-between-two-turing-complete-languages)
-* [2025-01-02, 16:01:26](https://lobste.rs/s/nlfwc6/using_watermarks_coordinate_change_data) - [Using watermarks to coordinate change data capture in Postgres](https://blog.sequinstream.com/using-watermarks-to-coordinate-change-data-capture-in-postgres/)
 * [2025-01-02, 15:51:21](https://lobste.rs/s/exgzeu/erlang_master_classes) - [Erlang master classes](https://www.cs.kent.ac.uk/ErlangMasterClasses/)
 * [2025-01-02, 14:54:02](https://lobste.rs/s/ynxdfr/magic_links_have_rough_edges_passkeys_can) - [Magic Links Have Rough Edges, but Passkeys Can Smooth Them Over](https://rmondello.com/2025/01/02/magic-links-and-passkeys/)
 * [2025-01-02, 14:26:45](https://lobste.rs/s/7t86dw/rules_for_writing_software_tutorials) - [Rules for Writing Software Tutorials](https://refactoringenglish.com/chapters/rules-for-software-tutorials/)
