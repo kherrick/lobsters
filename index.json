@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-01-02, 15:51:21",
-      "https://lobste.rs/s/exgzeu/erlang_master_classes"
-    ],
-    [
-      "Erlang master classes",
-      "https://www.cs.kent.ac.uk/ErlangMasterClasses/"
-    ]
-  ],
-  [
-    [
       "2025-01-02, 14:54:02",
       "https://lobste.rs/s/ynxdfr/magic_links_have_rough_edges_passkeys_can"
     ],
@@ -237,6 +227,16 @@
     [
       "Glue work considered harmful",
       "https://www.seangoedecke.com/glue-work-considered-harmful/"
+    ]
+  ],
+  [
+    [
+      "2025-01-02, 00:14:22",
+      "https://lobste.rs/s/kgqpqy/sixos_nix_os_without_systemd"
+    ],
+    [
+      "sixos: a nix os without systemd",
+      "https://media.ccc.de/v/38c3-sixos-a-nix-os-without-systemd#t=2133"
     ]
   ],
   [
