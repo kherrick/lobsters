@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-03](index.md)
 
+* [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
 * [2025-01-03, 21:44:37](https://lobste.rs/s/ilg8hh/if_i_could_wave_magic_wand) - [If I Could Wave a Magic Wand](https://wilsoniumite.com/2024/12/30/if-i-could-wave-a-magic-wand/)
 * [2025-01-03, 21:33:44](https://lobste.rs/s/7hexht/intractable_challenges_technical) - [The intractable challenges of technical writing](https://technicalwriting.dev/strategy/challenges.html)
 * [2025-01-03, 21:32:35](https://lobste.rs/s/aclq5e/2024_ml_review_for_technical_writers) - [2024 ML Review (For Technical Writers)](https://technicalwriting.dev/ml/reviews/2024.html)
