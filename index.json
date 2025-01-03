@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-03, 15:51:36",
+      "https://lobste.rs/s/m0autc/mandelbrot_deep_zoom_theory_practice"
+    ],
+    [
+      "Mandelbrot deep zoom theory and practice",
+      "https://mathr.co.uk/blog/2021-05-14_deep_zoom_theory_and_practice.html"
+    ]
+  ],
+  [
+    [
       "2025-01-03, 14:56:37",
       "https://lobste.rs/s/phjfee/reversing_animal_crossing_letter_system"
     ],
@@ -237,16 +247,6 @@
     [
       "Glue work considered harmful",
       "https://www.seangoedecke.com/glue-work-considered-harmful/"
-    ]
-  ],
-  [
-    [
-      "2025-01-01, 20:18:30",
-      "https://lobste.rs/s/vid5v5/solving_advent_code_2024_under_1ms"
-    ],
-    [
-      "Solving Advent of Code 2024 in Under 1ms",
-      "https://github.com/indiv0/aoc-fastest"
     ]
   ]
 ]
