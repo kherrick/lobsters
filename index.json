@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-04, 18:10:16",
+      "https://lobste.rs/s/o0v7ii/ai_on_calculator_part_1_2023"
+    ],
+    [
+      "\"AI\" on a Calculator: Part 1 (2023)",
+      "https://z80.me/blog/calculator-ai-part-1/"
+    ]
+  ],
+  [
+    [
+      "2025-01-04, 18:08:25",
+      "https://lobste.rs/s/zb500m/technology_is_never_substitute_for"
+    ],
+    [
+      "Technology is never a substitute for consent",
+      "https://lapcatsoftware.com/articles/2025/1/1.html"
+    ]
+  ],
+  [
+    [
       "2025-01-04, 17:51:29",
       "https://lobste.rs/s/mcb4k4/unix_microservice_platforms"
     ],
@@ -101,12 +121,12 @@
   ],
   [
     [
-      "2025-01-04, 03:22:06",
-      "https://lobste.rs/s/0e51pi/deep_dive_crafting_detailed_dynamic"
+      "2025-01-04, 03:19:30",
+      "https://lobste.rs/s/pfwoip/sled_simulation_guide_jepsen_proof"
     ],
     [
-      "Deep Dive: Crafting detailed and dynamic water in Planet Coaster 2",
-      "https://www.gamedeveloper.com/programming/deep-dive-crafting-detailed-and-dynamic-water-in-planet-coaster-2"
+      "sled simulation guide (jepsen-proof engineering)",
+      "https://sled.rs/simulation.html"
     ]
   ],
   [
@@ -127,16 +147,6 @@
     [
       "Helix 25.01 Highlights",
       "https://helix-editor.com/news/release-25-01-highlights/"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 19:24:20",
-      "https://lobste.rs/s/t4i7s8/empirical_study_rust_for_linux_success"
-    ],
-    [
-      "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise",
-      "https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Reversing the Animal Crossing letter system (2018)",
       "https://jamchamb.net/projects/animal-crossing-letters"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 14:47:57",
-      "https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice"
-    ],
-    [
-      "Introducing Docker to CS Freshmen - Advice Needed",
-      "https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice"
     ]
   ],
   [
