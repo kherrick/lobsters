@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-04, 07:15:57](https://lobste.rs/s/rawd4q/apple_pay_95_million_settle_lawsuit) - [Apple to pay $95 million to settle lawsuit accusing Siri of eavesdropping](https://apnews.com/article/apple-siri-iphone-lawsuit-settlement-9b8ab3e079ae6962435f38eddb937b39)
 * [2025-01-04, 05:41:59](https://lobste.rs/s/dv2rou/preference_for_deterministic_tools_over) - [A preference for deterministic tools over probabilistic tools](https://boston.conman.org/2024/12/31.1)
 * [2025-01-04, 03:33:48](https://lobste.rs/s/it72vr/do_files_want_be_actors) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 * [2025-01-04, 03:22:06](https://lobste.rs/s/0e51pi/deep_dive_crafting_detailed_dynamic) - [Deep Dive: Crafting detailed and dynamic water in Planet Coaster 2](https://www.gamedeveloper.com/programming/deep-dive-crafting-detailed-and-dynamic-water-in-planet-coaster-2)
@@ -10,7 +11,6 @@
 * [2025-01-03, 19:24:20](https://lobste.rs/s/t4i7s8/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise)
 * [2025-01-03, 19:04:57](https://lobste.rs/s/9wfsqk/project_idea_pkg_config_support) - [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
-* [2025-01-03, 17:53:18](https://lobste.rs/s/hueupx/spline_distance_fields) - [Spline Distance Fields](https://zone.dog/braindump/spline_fields/)
 * [2025-01-03, 17:35:58](https://lobste.rs/s/hfx5xx/sqlite4_sqlite_on_lsm_tree_2014) - [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
 * [2025-01-03, 17:08:39](https://lobste.rs/s/davoke/zizmor_v1_0_0) - [zizmor v1.0.0](https://github.com/woodruffw/zizmor/releases/tag/v1.0.0)
 * [2025-01-03, 16:01:45](https://lobste.rs/s/hunrkg/building_netbsd_meta_mode) - [Building NetBSD in meta mode](https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm)
