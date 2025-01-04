@@ -2,6 +2,7 @@
 
 * [2025-01-04, 05:41:59](https://lobste.rs/s/dv2rou/preference_for_deterministic_tools_over) - [A preference for deterministic tools over probabilistic tools](https://boston.conman.org/2024/12/31.1)
 * [2025-01-04, 03:33:48](https://lobste.rs/s/it72vr/do_files_want_be_actors) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
+* [2025-01-04, 03:22:06](https://lobste.rs/s/0e51pi/deep_dive_crafting_detailed_dynamic) - [Deep Dive: Crafting detailed and dynamic water in Planet Coaster 2](https://www.gamedeveloper.com/programming/deep-dive-crafting-detailed-and-dynamic-water-in-planet-coaster-2)
 * [2025-01-04, 03:19:30](https://lobste.rs/s/pfwoip/sled_simulation_guide_jepsen_proof) - [sled simulation guide (jepsen-proof engineering)](https://sled.rs/simulation.html)
 * [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
 * [2025-01-03, 21:33:44](https://lobste.rs/s/7hexht/intractable_challenges_technical) - [The intractable challenges of technical writing](https://technicalwriting.dev/strategy/challenges.html)
@@ -21,7 +22,6 @@
 * [2025-01-03, 12:31:57](https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads) - [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
 * [2025-01-03, 11:58:51](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend)
 * [2025-01-03, 10:03:08](https://lobste.rs/s/9u03gd/bevy_efficiency_on_mobile) - [Bevy Efficiency on Mobile](https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/)
-* [2025-01-03, 03:19:48](https://lobste.rs/s/8vgmiv/evolution_sre_at_google) - [The Evolution of SRE at Google](https://www.usenix.org/publications/loginonline/evolution-sre-google)
 * [2025-01-03, 02:05:28](https://lobste.rs/s/n9jbmn/never_have_outdated_footer_dates_again) - [Never Have Outdated Footer Dates Again](https://getfullyear.com/)
 * [2025-01-02, 22:19:04](https://lobste.rs/s/1hbwkk/alder_lake_shlx_anomaly) - [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
