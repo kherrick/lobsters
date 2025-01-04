@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-04, 19:33:59](https://lobste.rs/s/x6aem8/capitalist_wet_dream) - [The capitalist wet dream](https://artagnon.com/art/wet-dream)
 * [2025-01-04, 19:05:17](https://lobste.rs/s/g1deaw/genius_n64_s_cache_instruction) - [The Genius of the N64's CACHE Instruction](https://www.youtube.com/watch?v=g5u3zW4SLow)
 * [2025-01-04, 18:10:16](https://lobste.rs/s/o0v7ii/ai_on_calculator_part_1_2023) - [\"AI\" on a Calculator: Part 1 (2023)](https://z80.me/blog/calculator-ai-part-1/)
 * [2025-01-04, 18:08:25](https://lobste.rs/s/zb500m/technology_is_never_substitute_for) - [Technology is never a substitute for consent](https://lapcatsoftware.com/articles/2025/1/1.html)
@@ -20,6 +19,7 @@
 * [2025-01-03, 19:04:57](https://lobste.rs/s/9wfsqk/project_idea_pkg_config_support) - [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
 * [2025-01-03, 17:35:58](https://lobste.rs/s/hfx5xx/sqlite4_sqlite_on_lsm_tree_2014) - [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
+* [2025-01-03, 14:56:37](https://lobste.rs/s/phjfee/reversing_animal_crossing_letter_system) - [Reversing the Animal Crossing letter system (2018)](https://jamchamb.net/projects/animal-crossing-letters)
 * [2025-01-03, 14:07:14](https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
 * [2025-01-03, 13:53:30](https://lobste.rs/s/fge22b/jit_calculator_challenge) - [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
 * [2025-01-03, 12:31:57](https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads) - [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
