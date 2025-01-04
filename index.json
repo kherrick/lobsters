@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-04, 19:05:17",
+      "https://lobste.rs/s/g1deaw/genius_n64_s_cache_instruction"
+    ],
+    [
+      "The Genius of the N64's CACHE Instruction",
+      "https://www.youtube.com/watch?v=g5u3zW4SLow"
+    ]
+  ],
+  [
+    [
       "2025-01-04, 18:10:16",
       "https://lobste.rs/s/o0v7ii/ai_on_calculator_part_1_2023"
     ],
@@ -227,16 +237,6 @@
     [
       "Bevy Efficiency on Mobile",
       "https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 22:19:04",
-      "https://lobste.rs/s/1hbwkk/alder_lake_shlx_anomaly"
-    ],
-    [
-      "The Alder Lake SHLX anomaly",
-      "https://tavianator.com/2025/shlx.html"
     ]
   ],
   [
