@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-04, 09:15:32](https://lobste.rs/s/wraaxu/i_live_my_life_quarter_century_at_time) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-04, 07:57:21](https://lobste.rs/s/u1wu3k/iterated_log_coding) - [Iterated log coding](https://adamscherlis.github.io/blog/iterlog-coding/index.html)
 * [2025-01-04, 07:15:57](https://lobste.rs/s/rawd4q/apple_pay_95_million_settle_lawsuit) - [Apple to pay $95 million to settle lawsuit accusing Siri of eavesdropping](https://apnews.com/article/apple-siri-iphone-lawsuit-settlement-9b8ab3e079ae6962435f38eddb937b39)
 * [2025-01-04, 05:41:59](https://lobste.rs/s/dv2rou/preference_for_deterministic_tools_over) - [A preference for deterministic tools over probabilistic tools](https://boston.conman.org/2024/12/31.1)
@@ -20,7 +21,6 @@
 * [2025-01-03, 14:07:14](https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
 * [2025-01-03, 13:53:30](https://lobste.rs/s/fge22b/jit_calculator_challenge) - [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
 * [2025-01-03, 12:31:57](https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads) - [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
-* [2025-01-03, 11:58:51](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/x72n1r/what_are_you_doing_this_weekend)
 * [2025-01-03, 10:03:08](https://lobste.rs/s/9u03gd/bevy_efficiency_on_mobile) - [Bevy Efficiency on Mobile](https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/)
 * [2025-01-03, 02:05:28](https://lobste.rs/s/n9jbmn/never_have_outdated_footer_dates_again) - [Never Have Outdated Footer Dates Again](https://getfullyear.com/)
 * [2025-01-02, 22:19:04](https://lobste.rs/s/1hbwkk/alder_lake_shlx_anomaly) - [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)

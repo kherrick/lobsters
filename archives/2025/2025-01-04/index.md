@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 09:15:32](https://lobste.rs/s/wraaxu/i_live_my_life_quarter_century_at_time) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-04, 07:57:21](https://lobste.rs/s/u1wu3k/iterated_log_coding) - [Iterated log coding](https://adamscherlis.github.io/blog/iterlog-coding/index.html)
 * [2025-01-04, 07:15:57](https://lobste.rs/s/rawd4q/apple_pay_95_million_settle_lawsuit) - [Apple to pay $95 million to settle lawsuit accusing Siri of eavesdropping](https://apnews.com/article/apple-siri-iphone-lawsuit-settlement-9b8ab3e079ae6962435f38eddb937b39)
 * [2025-01-04, 05:41:59](https://lobste.rs/s/dv2rou/preference_for_deterministic_tools_over) - [A preference for deterministic tools over probabilistic tools](https://boston.conman.org/2024/12/31.1)
