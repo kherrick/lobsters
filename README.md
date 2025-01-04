@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-04, 15:42:44](https://lobste.rs/s/t3vrj8/breaking_up_with_long_tasks_how_i_learned) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 * [2025-01-04, 14:44:15](https://lobste.rs/s/3hopmz/ask_engineers_how_they_like_what_they_ve) - [Ask engineers how they like what they've built](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-04, 11:09:02](https://lobste.rs/s/gxumxm/one_dog_v_windows_3_1_graphics_stack) - [One Dog v. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
 * [2025-01-04, 09:37:13](https://lobste.rs/s/spsw8z/testing_linker) - [Testing a linker](https://davidlattimore.github.io/posts/2024/07/17/testing-a-linker.html)
@@ -16,7 +17,6 @@
 * [2025-01-03, 19:04:57](https://lobste.rs/s/9wfsqk/project_idea_pkg_config_support) - [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
 * [2025-01-03, 17:35:58](https://lobste.rs/s/hfx5xx/sqlite4_sqlite_on_lsm_tree_2014) - [SQLite4 – SQLite on LSM Tree (2014)](https://sqlite.org/src4/doc/trunk/www/index.wiki)
-* [2025-01-03, 16:01:45](https://lobste.rs/s/hunrkg/building_netbsd_meta_mode) - [Building NetBSD in meta mode](https://www.crufty.net/sjg/docs/netbsd-meta-mode.htm)
 * [2025-01-03, 14:56:37](https://lobste.rs/s/phjfee/reversing_animal_crossing_letter_system) - [Reversing the Animal Crossing letter system (2018)](https://jamchamb.net/projects/animal-crossing-letters)
 * [2025-01-03, 14:47:57](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice) - [Introducing Docker to CS Freshmen - Advice Needed](https://lobste.rs/s/yva3pb/introducing_docker_cs_freshmen_advice)
 * [2025-01-03, 14:07:14](https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing) - [Multi-Path TCP: revolutionizing connectivity, one path at a time](https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/)
