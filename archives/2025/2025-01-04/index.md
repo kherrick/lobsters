@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 23:12:25](https://lobste.rs/s/txlrri/gleam_v1_7_0_released) - [Gleam v1.7.0 released](https://gleam.run/news/improved-performance-and-publishing/)
 * [2025-01-04, 19:33:59](https://lobste.rs/s/x6aem8/capitalist_wet_dream) - [The capitalist wet dream](https://artagnon.com/art/wet-dream)
 * [2025-01-04, 19:05:17](https://lobste.rs/s/g1deaw/genius_n64_s_cache_instruction) - [The Genius of the N64's CACHE Instruction](https://www.youtube.com/watch?v=g5u3zW4SLow)
 * [2025-01-04, 18:10:16](https://lobste.rs/s/o0v7ii/ai_on_calculator_part_1_2023) - [\"AI\" on a Calculator: Part 1 (2023)](https://z80.me/blog/calculator-ai-part-1/)
