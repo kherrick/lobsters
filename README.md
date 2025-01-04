@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-04, 09:37:13](https://lobste.rs/s/spsw8z/testing_linker) - [Testing a linker](https://davidlattimore.github.io/posts/2024/07/17/testing-a-linker.html)
 * [2025-01-04, 09:15:32](https://lobste.rs/s/wraaxu/i_live_my_life_quarter_century_at_time) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-04, 07:57:21](https://lobste.rs/s/u1wu3k/iterated_log_coding) - [Iterated log coding](https://adamscherlis.github.io/blog/iterlog-coding/index.html)
 * [2025-01-04, 07:15:57](https://lobste.rs/s/rawd4q/apple_pay_95_million_settle_lawsuit) - [Apple to pay $95 million to settle lawsuit accusing Siri of eavesdropping](https://apnews.com/article/apple-siri-iphone-lawsuit-settlement-9b8ab3e079ae6962435f38eddb937b39)
 * [2025-01-04, 05:41:59](https://lobste.rs/s/dv2rou/preference_for_deterministic_tools_over) - [A preference for deterministic tools over probabilistic tools](https://boston.conman.org/2024/12/31.1)
 * [2025-01-04, 03:33:48](https://lobste.rs/s/it72vr/do_files_want_be_actors) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
-* [2025-01-04, 03:22:06](https://lobste.rs/s/0e51pi/deep_dive_crafting_detailed_dynamic) - [Deep Dive: Crafting detailed and dynamic water in Planet Coaster 2](https://www.gamedeveloper.com/programming/deep-dive-crafting-detailed-and-dynamic-water-in-planet-coaster-2)
 * [2025-01-04, 03:19:30](https://lobste.rs/s/pfwoip/sled_simulation_guide_jepsen_proof) - [sled simulation guide (jepsen-proof engineering)](https://sled.rs/simulation.html)
 * [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
 * [2025-01-03, 21:29:16](https://lobste.rs/s/zc1dtm/helix_25_01_highlights) - [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
