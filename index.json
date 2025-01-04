@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-01-04, 03:49:05",
-      "https://lobste.rs/s/o79qii/test_root_device_root_file_system"
+      "2025-01-04, 05:41:59",
+      "https://lobste.rs/s/dv2rou/preference_for_deterministic_tools_over"
     ],
     [
-      "Test root device and root file system selection",
-      "https://blog.netbsd.org/tnf/entry/gsoc2024_diviyam"
+      "A preference for deterministic tools over probabilistic tools",
+      "https://boston.conman.org/2024/12/31.1"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Do Files want to be Actors?",
       "https://lewiscampbell.tech/blog/250104.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-04, 03:19:30",
+      "https://lobste.rs/s/pfwoip/sled_simulation_guide_jepsen_proof"
+    ],
+    [
+      "sled simulation guide (jepsen-proof engineering)",
+      "https://sled.rs/simulation.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Who's Hiring? Q1 2025",
       "https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025"
-    ]
-  ],
-  [
-    [
-      "2025-01-02, 14:26:45",
-      "https://lobste.rs/s/7t86dw/rules_for_writing_software_tutorials"
-    ],
-    [
-      "Rules for Writing Software Tutorials",
-      "https://refactoringenglish.com/chapters/rules-for-software-tutorials/"
     ]
   ]
 ]
