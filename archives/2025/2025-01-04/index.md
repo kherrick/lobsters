@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 11:09:02](https://lobste.rs/s/gxumxm/one_dog_v_windows_3_1_graphics_stack) - [One Dog v. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
 * [2025-01-04, 09:37:13](https://lobste.rs/s/spsw8z/testing_linker) - [Testing a linker](https://davidlattimore.github.io/posts/2024/07/17/testing-a-linker.html)
 * [2025-01-04, 09:15:32](https://lobste.rs/s/wraaxu/i_live_my_life_quarter_century_at_time) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-04, 07:57:21](https://lobste.rs/s/u1wu3k/iterated_log_coding) - [Iterated log coding](https://adamscherlis.github.io/blog/iterlog-coding/index.html)
