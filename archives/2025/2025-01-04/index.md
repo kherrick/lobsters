@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-04](index.md)
 
+* [2025-01-04, 19:05:17](https://lobste.rs/s/g1deaw/genius_n64_s_cache_instruction) - [The Genius of the N64's CACHE Instruction](https://www.youtube.com/watch?v=g5u3zW4SLow)
 * [2025-01-04, 18:10:16](https://lobste.rs/s/o0v7ii/ai_on_calculator_part_1_2023) - [\"AI\" on a Calculator: Part 1 (2023)](https://z80.me/blog/calculator-ai-part-1/)
 * [2025-01-04, 18:08:25](https://lobste.rs/s/zb500m/technology_is_never_substitute_for) - [Technology is never a substitute for consent](https://lapcatsoftware.com/articles/2025/1/1.html)
 * [2025-01-04, 17:51:29](https://lobste.rs/s/mcb4k4/unix_microservice_platforms) - [Unix and Microservice Platforms](https://www.brandonbloom.name/blog/2021/08/02/unix-and-microservice-platforms/)

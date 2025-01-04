@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-04, 19:05:17](https://lobste.rs/s/g1deaw/genius_n64_s_cache_instruction) - [The Genius of the N64's CACHE Instruction](https://www.youtube.com/watch?v=g5u3zW4SLow)
 * [2025-01-04, 18:10:16](https://lobste.rs/s/o0v7ii/ai_on_calculator_part_1_2023) - [\"AI\" on a Calculator: Part 1 (2023)](https://z80.me/blog/calculator-ai-part-1/)
 * [2025-01-04, 18:08:25](https://lobste.rs/s/zb500m/technology_is_never_substitute_for) - [Technology is never a substitute for consent](https://lapcatsoftware.com/articles/2025/1/1.html)
 * [2025-01-04, 17:51:29](https://lobste.rs/s/mcb4k4/unix_microservice_platforms) - [Unix and Microservice Platforms](https://www.brandonbloom.name/blog/2021/08/02/unix-and-microservice-platforms/)
@@ -23,7 +24,6 @@
 * [2025-01-03, 13:53:30](https://lobste.rs/s/fge22b/jit_calculator_challenge) - [The JIT calculator challenge](https://ochagavia.nl/blog/the-jit-calculator-challenge)
 * [2025-01-03, 12:31:57](https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads) - [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
 * [2025-01-03, 10:03:08](https://lobste.rs/s/9u03gd/bevy_efficiency_on_mobile) - [Bevy Efficiency on Mobile](https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/)
-* [2025-01-02, 22:19:04](https://lobste.rs/s/1hbwkk/alder_lake_shlx_anomaly) - [The Alder Lake SHLX anomaly](https://tavianator.com/2025/shlx.html)
 * [2025-01-02, 18:39:50](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025) - [Who's Hiring? Q1 2025](https://lobste.rs/s/evkrdq/who_s_hiring_q1_2025)
 
 ## [Archives](archives/index.md)
