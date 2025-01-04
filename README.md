@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-04, 03:49:05](https://lobste.rs/s/o79qii/test_root_device_root_file_system) - [Test root device and root file system selection](https://blog.netbsd.org/tnf/entry/gsoc2024_diviyam)
 * [2025-01-04, 03:33:48](https://lobste.rs/s/it72vr/do_files_want_be_actors) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
-* [2025-01-04, 03:22:06](https://lobste.rs/s/0e51pi/deep_dive_crafting_detailed_dynamic) - [Deep Dive: Crafting detailed and dynamic water in Planet Coaster 2](https://www.gamedeveloper.com/programming/deep-dive-crafting-detailed-and-dynamic-water-in-planet-coaster-2)
 * [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
 * [2025-01-03, 21:33:44](https://lobste.rs/s/7hexht/intractable_challenges_technical) - [The intractable challenges of technical writing](https://technicalwriting.dev/strategy/challenges.html)
 * [2025-01-03, 21:29:16](https://lobste.rs/s/zc1dtm/helix_25_01_highlights) - [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
