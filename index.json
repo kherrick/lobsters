@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-04, 11:09:02",
+      "https://lobste.rs/s/gxumxm/one_dog_v_windows_3_1_graphics_stack"
+    ],
+    [
+      "One Dog v. the Windows 3.1 Graphics Stack",
+      "https://wuffs.org/blog/windows-3x-graphics"
+    ]
+  ],
+  [
+    [
       "2025-01-04, 09:37:13",
       "https://lobste.rs/s/spsw8z/testing_linker"
     ],
@@ -217,16 +227,6 @@
     [
       "Bevy Efficiency on Mobile",
       "https://rustunit.com/blog/2025/01-02-bevy-mobile-framerate/"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 02:05:28",
-      "https://lobste.rs/s/n9jbmn/never_have_outdated_footer_dates_again"
-    ],
-    [
-      "Never Have Outdated Footer Dates Again",
-      "https://getfullyear.com/"
     ]
   ],
   [
