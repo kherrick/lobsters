@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-04, 17:51:29](https://lobste.rs/s/mcb4k4/unix_microservice_platforms) - [Unix and Microservice Platforms](https://www.brandonbloom.name/blog/2021/08/02/unix-and-microservice-platforms/)
 * [2025-01-04, 15:42:44](https://lobste.rs/s/t3vrj8/breaking_up_with_long_tasks_how_i_learned) - [Breaking Up with Long Tasks or: how I learned to group loops and wield the yield](https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/)
 * [2025-01-04, 14:44:15](https://lobste.rs/s/3hopmz/ask_engineers_how_they_like_what_they_ve) - [Ask engineers how they like what they've built](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-04, 11:09:02](https://lobste.rs/s/gxumxm/one_dog_v_windows_3_1_graphics_stack) - [One Dog v. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
@@ -10,7 +11,6 @@
 * [2025-01-04, 05:41:59](https://lobste.rs/s/dv2rou/preference_for_deterministic_tools_over) - [A preference for deterministic tools over probabilistic tools](https://boston.conman.org/2024/12/31.1)
 * [2025-01-04, 03:33:48](https://lobste.rs/s/it72vr/do_files_want_be_actors) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 * [2025-01-04, 03:22:06](https://lobste.rs/s/0e51pi/deep_dive_crafting_detailed_dynamic) - [Deep Dive: Crafting detailed and dynamic water in Planet Coaster 2](https://www.gamedeveloper.com/programming/deep-dive-crafting-detailed-and-dynamic-water-in-planet-coaster-2)
-* [2025-01-04, 03:19:30](https://lobste.rs/s/pfwoip/sled_simulation_guide_jepsen_proof) - [sled simulation guide (jepsen-proof engineering)](https://sled.rs/simulation.html)
 * [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
 * [2025-01-03, 21:29:16](https://lobste.rs/s/zc1dtm/helix_25_01_highlights) - [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
 * [2025-01-03, 19:24:20](https://lobste.rs/s/t4i7s8/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise](https://www.usenix.org/publications/loginonline/empirical-study-rust-linux-success-dissatisfaction-and-compromise)
