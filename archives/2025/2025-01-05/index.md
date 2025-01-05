@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 16:28:51](https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with) - [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/)
 * [2025-01-05, 15:55:36](https://lobste.rs/s/hhwad9/reliable_system_call_interception) - [Reliable system call interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
 * [2025-01-05, 13:31:05](https://lobste.rs/s/hyvqm6/world_s_first_midi_shellcode) - [World's First MIDI Shellcode](https://psi3.ru/blog/swl01u/)

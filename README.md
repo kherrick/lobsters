@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-05, 16:28:51](https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with) - [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/)
 * [2025-01-05, 15:55:36](https://lobste.rs/s/hhwad9/reliable_system_call_interception) - [Reliable system call interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
 * [2025-01-05, 13:31:05](https://lobste.rs/s/hyvqm6/world_s_first_midi_shellcode) - [World's First MIDI Shellcode](https://psi3.ru/blog/swl01u/)
@@ -24,7 +25,6 @@
 * [2025-01-04, 09:15:32](https://lobste.rs/s/wraaxu/i_live_my_life_quarter_century_at_time) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-04, 03:33:48](https://lobste.rs/s/it72vr/do_files_want_be_actors) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 * [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
-* [2025-01-03, 21:29:16](https://lobste.rs/s/zc1dtm/helix_25_01_highlights) - [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
 
 ## [Archives](archives/index.md)
 
