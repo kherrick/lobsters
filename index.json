@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-05, 15:55:36",
+      "https://lobste.rs/s/hhwad9/reliable_system_call_interception"
+    ],
+    [
+      "Reliable system call interception",
+      "https://blog.mggross.com/intercepting-syscalls/"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 14:40:56",
       "https://lobste.rs/s/qmdpl8/nesfab"
     ],
@@ -107,16 +117,6 @@
     [
       "Oils 0.24.0 - Closures, Objects, and Namespaces",
       "https://www.oilshell.org/blog/2025/01/release-0.24.0.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 02:23:50",
-      "https://lobste.rs/s/vvssqt/refurb_weekend_atari_stacy"
-    ],
-    [
-      "Refurb weekend: Atari Stacy",
-      "https://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html"
     ]
   ],
   [
