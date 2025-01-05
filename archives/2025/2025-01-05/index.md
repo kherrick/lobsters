@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 11:25:41](https://lobste.rs/s/kcjd1w/how_i_run_llms_locally) - [How I run LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 * [2025-01-05, 10:55:36](https://lobste.rs/s/xjwix5/c_is_not_low_level_language_2018) - [C Is Not a Low-level Language (2018)](https://dl.acm.org/doi/pdf/10.1145/3212477.3212479)
 * [2025-01-05, 10:34:54](https://lobste.rs/s/3dzs83/i_keep_turning_my_google_sheets_into_phone) - [I keep turning my Google Sheets into phone-friendly webapps, and I can’t stop](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2025-01-05, 07:47:59](https://lobste.rs/s/gpyj5x/game_dev_rust_year_later) - [Game dev in Rust, a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)

@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-05, 11:25:41](https://lobste.rs/s/kcjd1w/how_i_run_llms_locally) - [How I run LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally/)
 * [2025-01-05, 10:55:36](https://lobste.rs/s/xjwix5/c_is_not_low_level_language_2018) - [C Is Not a Low-level Language (2018)](https://dl.acm.org/doi/pdf/10.1145/3212477.3212479)
 * [2025-01-05, 10:34:54](https://lobste.rs/s/3dzs83/i_keep_turning_my_google_sheets_into_phone) - [I keep turning my Google Sheets into phone-friendly webapps, and I can’t stop](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2025-01-05, 07:47:59](https://lobste.rs/s/gpyj5x/game_dev_rust_year_later) - [Game dev in Rust, a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
 * [2025-01-05, 06:59:54](https://lobste.rs/s/evd0gt/don_t_clobber_frame_pointer) - [Don't Clobber the Frame Pointer](https://nsrip.com/posts/clobberfp.html)
 * [2025-01-05, 06:06:43](https://lobste.rs/s/nljec1/minimum_bipartite_matching_via_riemann) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 03:14:40](https://lobste.rs/s/bqahl6/john_earnest_decker) - [John Earnest and Decker](https://www.arraycast.com/episodes/episode96-decker)
-* [2025-01-05, 02:48:07](https://lobste.rs/s/2m3jmr/synthesizing_1_bit_audio_on_esoteric_cpu) - [Synthesizing 1-Bit Audio on an Esoteric CPU](https://www.youtube.com/watch?v=_6f8PURcPEE)
 * [2025-01-05, 02:43:15](https://lobste.rs/s/8uaigo/oils_0_24_0_closures_objects_namespaces) - [Oils 0.24.0 - Closures, Objects, and Namespaces](https://www.oilshell.org/blog/2025/01/release-0.24.0.html)
 * [2025-01-05, 02:23:50](https://lobste.rs/s/vvssqt/refurb_weekend_atari_stacy) - [Refurb weekend: Atari Stacy](https://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html)
 * [2025-01-05, 02:17:27](https://lobste.rs/s/joba3k/core_statement_on_version_control) - [Core statement on version control systems](https://mail-index.netbsd.org/tech-repository/2025/01/04/msg000805.html)
