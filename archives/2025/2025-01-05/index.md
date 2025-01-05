@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 21:52:53](https://lobste.rs/s/yzwq1l/learning_laravel_by_building_postal_code) - [Learning Laravel by building a postal code finder](https://usrme.xyz/posts/learning-laravel-by-building-a-postal-code-finder/)
 * [2025-01-05, 21:47:07](https://lobste.rs/s/nw5rci/any_standard_graph_representations) - [Any standard graph representations?](https://lobste.rs/s/nw5rci/any_standard_graph_representations)
 * [2025-01-05, 20:52:55](https://lobste.rs/s/aqesrh/rescuing_my_feeds_from_quiterss) - [Rescuing my feeds from QuiteRss](https://henderson.lol/posts/rescuing-data-from-quiterss.html)
 * [2025-01-05, 20:23:47](https://lobste.rs/s/g2adw4/from_go_rust_1_async_dispatch) - [From Go to Rust 1: async Dispatch](https://medium.com/@jberkenbilt/from-go-to-rust-1-async-dispatch-866e042cd98a)
