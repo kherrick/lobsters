@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 06:59:54](https://lobste.rs/s/evd0gt/don_t_clobber_frame_pointer) - [Don't Clobber the Frame Pointer](https://nsrip.com/posts/clobberfp.html)
 * [2025-01-05, 06:06:43](https://lobste.rs/s/nljec1/minimum_bipartite_matching_via_riemann) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 03:14:40](https://lobste.rs/s/bqahl6/john_earnest_decker) - [John Earnest and Decker](https://www.arraycast.com/episodes/episode96-decker)
 * [2025-01-05, 02:48:07](https://lobste.rs/s/2m3jmr/synthesizing_1_bit_audio_on_esoteric_cpu) - [Synthesizing 1-Bit Audio on an Esoteric CPU](https://www.youtube.com/watch?v=_6f8PURcPEE)
