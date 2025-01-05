@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-05, 20:23:47",
+      "https://lobste.rs/s/g2adw4/from_go_rust_1_async_dispatch"
+    ],
+    [
+      "From Go to Rust 1: async Dispatch",
+      "https://medium.com/@jberkenbilt/from-go-to-rust-1-async-dispatch-866e042cd98a"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 19:46:16",
       "https://lobste.rs/s/bmxtj4/pi_pentium_reverse_engineering"
     ],
@@ -217,16 +227,6 @@
     [
       "Ask engineers how they like what they've built",
       "https://morrisbrodersen.de/how-do-you-like-what-you-built/"
-    ]
-  ],
-  [
-    [
-      "2025-01-04, 11:09:02",
-      "https://lobste.rs/s/gxumxm/one_dog_v_windows_3_1_graphics_stack"
-    ],
-    [
-      "One Dog v. the Windows 3.1 Graphics Stack",
-      "https://wuffs.org/blog/windows-3x-graphics"
     ]
   ],
   [
