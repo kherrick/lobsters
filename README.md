@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-05, 06:06:43](https://lobste.rs/s/nljec1/minimum_bipartite_matching_via_riemann) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 03:14:40](https://lobste.rs/s/bqahl6/john_earnest_decker) - [John Earnest and Decker](https://www.arraycast.com/episodes/episode96-decker)
 * [2025-01-05, 02:48:07](https://lobste.rs/s/2m3jmr/synthesizing_1_bit_audio_on_esoteric_cpu) - [Synthesizing 1-Bit Audio on an Esoteric CPU](https://www.youtube.com/watch?v=_6f8PURcPEE)
 * [2025-01-05, 02:43:15](https://lobste.rs/s/8uaigo/oils_0_24_0_closures_objects_namespaces) - [Oils 0.24.0 - Closures, Objects, and Namespaces](https://www.oilshell.org/blog/2025/01/release-0.24.0.html)
@@ -22,7 +23,6 @@
 * [2025-01-04, 03:33:48](https://lobste.rs/s/it72vr/do_files_want_be_actors) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 * [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
 * [2025-01-03, 21:29:16](https://lobste.rs/s/zc1dtm/helix_25_01_highlights) - [Helix 25.01 Highlights](https://helix-editor.com/news/release-25-01-highlights/)
-* [2025-01-03, 19:04:57](https://lobste.rs/s/9wfsqk/project_idea_pkg_config_support) - [Project idea: pkg-config support in compilers](https://sporks.space/2025/01/03/project-idea-pkg-config-support-in-compilers/)
 * [2025-01-03, 18:34:06](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024) - [What was the best research paper you read in 2024?](https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024)
 * [2025-01-03, 12:31:57](https://lobste.rs/s/zkboyo/i_still_don_t_think_companies_serve_you_ads) - [I still don’t think companies serve you ads based on spying through your microphone](https://simonwillison.net/2025/Jan/2/they-spy-on-you-but-not-like-that/)
 

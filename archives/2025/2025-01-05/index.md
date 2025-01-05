@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 06:06:43](https://lobste.rs/s/nljec1/minimum_bipartite_matching_via_riemann) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 03:14:40](https://lobste.rs/s/bqahl6/john_earnest_decker) - [John Earnest and Decker](https://www.arraycast.com/episodes/episode96-decker)
 * [2025-01-05, 02:48:07](https://lobste.rs/s/2m3jmr/synthesizing_1_bit_audio_on_esoteric_cpu) - [Synthesizing 1-Bit Audio on an Esoteric CPU](https://www.youtube.com/watch?v=_6f8PURcPEE)
 * [2025-01-05, 02:43:15](https://lobste.rs/s/8uaigo/oils_0_24_0_closures_objects_namespaces) - [Oils 0.24.0 - Closures, Objects, and Namespaces](https://www.oilshell.org/blog/2025/01/release-0.24.0.html)
