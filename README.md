@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-05, 19:46:16](https://lobste.rs/s/bmxtj4/pi_pentium_reverse_engineering) - [Pi in the Pentium: reverse-engineering the constants in its floating-point unit](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 16:28:51](https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with) - [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/)
 * [2025-01-05, 15:55:36](https://lobste.rs/s/hhwad9/reliable_system_call_interception) - [Reliable system call interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
@@ -22,7 +23,6 @@
 * [2025-01-04, 18:08:25](https://lobste.rs/s/zb500m/technology_is_never_substitute_for) - [Technology is never a substitute for consent](https://lapcatsoftware.com/articles/2025/1/1.html)
 * [2025-01-04, 14:44:15](https://lobste.rs/s/3hopmz/ask_engineers_how_they_like_what_they_ve) - [Ask engineers how they like what they've built](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-04, 11:09:02](https://lobste.rs/s/gxumxm/one_dog_v_windows_3_1_graphics_stack) - [One Dog v. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
-* [2025-01-04, 09:15:32](https://lobste.rs/s/wraaxu/i_live_my_life_quarter_century_at_time) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-04, 03:33:48](https://lobste.rs/s/it72vr/do_files_want_be_actors) - [Do Files want to be Actors?](https://lewiscampbell.tech/blog/250104.html)
 * [2025-01-03, 22:08:09](https://lobste.rs/s/99rf3c/state_garnet_2025) - [The State Of Garnet in 2025](https://wiki.alopex.li/TheStateOfGarnet2025)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 19:46:16](https://lobste.rs/s/bmxtj4/pi_pentium_reverse_engineering) - [Pi in the Pentium: reverse-engineering the constants in its floating-point unit](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 16:28:51](https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with) - [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/)
 * [2025-01-05, 15:55:36](https://lobste.rs/s/hhwad9/reliable_system_call_interception) - [Reliable system call interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
