@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 07:47:59](https://lobste.rs/s/gpyj5x/game_dev_rust_year_later) - [Game dev in Rust, a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
 * [2025-01-05, 06:59:54](https://lobste.rs/s/evd0gt/don_t_clobber_frame_pointer) - [Don't Clobber the Frame Pointer](https://nsrip.com/posts/clobberfp.html)
 * [2025-01-05, 06:06:43](https://lobste.rs/s/nljec1/minimum_bipartite_matching_via_riemann) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 03:14:40](https://lobste.rs/s/bqahl6/john_earnest_decker) - [John Earnest and Decker](https://www.arraycast.com/episodes/episode96-decker)

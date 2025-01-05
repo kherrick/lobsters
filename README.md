@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-05, 07:47:59](https://lobste.rs/s/gpyj5x/game_dev_rust_year_later) - [Game dev in Rust, a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
 * [2025-01-05, 06:59:54](https://lobste.rs/s/evd0gt/don_t_clobber_frame_pointer) - [Don't Clobber the Frame Pointer](https://nsrip.com/posts/clobberfp.html)
 * [2025-01-05, 06:06:43](https://lobste.rs/s/nljec1/minimum_bipartite_matching_via_riemann) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 03:14:40](https://lobste.rs/s/bqahl6/john_earnest_decker) - [John Earnest and Decker](https://www.arraycast.com/episodes/episode96-decker)
@@ -16,7 +17,6 @@
 * [2025-01-04, 17:51:29](https://lobste.rs/s/mcb4k4/unix_microservice_platforms) - [Unix and Microservice Platforms](https://www.brandonbloom.name/blog/2021/08/02/unix-and-microservice-platforms/)
 * [2025-01-04, 14:44:15](https://lobste.rs/s/3hopmz/ask_engineers_how_they_like_what_they_ve) - [Ask engineers how they like what they've built](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-04, 11:09:02](https://lobste.rs/s/gxumxm/one_dog_v_windows_3_1_graphics_stack) - [One Dog v. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
-* [2025-01-04, 09:37:13](https://lobste.rs/s/spsw8z/testing_linker) - [Testing a linker](https://davidlattimore.github.io/posts/2024/07/17/testing-a-linker.html)
 * [2025-01-04, 09:15:32](https://lobste.rs/s/wraaxu/i_live_my_life_quarter_century_at_time) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
 * [2025-01-04, 07:15:57](https://lobste.rs/s/rawd4q/apple_pay_95_million_settle_lawsuit) - [Apple to pay $95 million to settle lawsuit accusing Siri of eavesdropping](https://apnews.com/article/apple-siri-iphone-lawsuit-settlement-9b8ab3e079ae6962435f38eddb937b39)
 * [2025-01-04, 05:41:59](https://lobste.rs/s/dv2rou/preference_for_deterministic_tools_over) - [A preference for deterministic tools over probabilistic tools](https://boston.conman.org/2024/12/31.1)
