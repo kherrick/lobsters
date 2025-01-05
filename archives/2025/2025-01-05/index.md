@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 20:23:47](https://lobste.rs/s/g2adw4/from_go_rust_1_async_dispatch) - [From Go to Rust 1: async Dispatch](https://medium.com/@jberkenbilt/from-go-to-rust-1-async-dispatch-866e042cd98a)
 * [2025-01-05, 19:46:16](https://lobste.rs/s/bmxtj4/pi_pentium_reverse_engineering) - [Pi in the Pentium: reverse-engineering the constants in its floating-point unit](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 16:28:51](https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with) - [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/)
 * [2025-01-05, 15:55:36](https://lobste.rs/s/hhwad9/reliable_system_call_interception) - [Reliable system call interception](https://blog.mggross.com/intercepting-syscalls/)
