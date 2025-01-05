@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
 * [2025-01-05, 13:31:05](https://lobste.rs/s/hyvqm6/world_s_first_midi_shellcode) - [World's First MIDI Shellcode](https://psi3.ru/blog/swl01u/)
 * [2025-01-05, 12:35:15](https://lobste.rs/s/uzyyf4/story_on_home_server_security) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
 * [2025-01-05, 11:25:41](https://lobste.rs/s/kcjd1w/how_i_run_llms_locally) - [How I run LLMs locally](https://abishekmuthian.com/how-i-run-llms-locally/)
@@ -17,7 +18,6 @@
 * [2025-01-05, 00:26:43](https://lobste.rs/s/rtlddh/weak_references_garbage_collectors) - [Weak references and garbage collectors](https://bernsteinbear.com/blog/weakrefs/)
 * [2025-01-04, 23:12:25](https://lobste.rs/s/txlrri/gleam_v1_7_0_released) - [Gleam v1.7.0 released](https://gleam.run/news/improved-performance-and-publishing/)
 * [2025-01-04, 18:08:25](https://lobste.rs/s/zb500m/technology_is_never_substitute_for) - [Technology is never a substitute for consent](https://lapcatsoftware.com/articles/2025/1/1.html)
-* [2025-01-04, 17:51:29](https://lobste.rs/s/mcb4k4/unix_microservice_platforms) - [Unix and Microservice Platforms](https://www.brandonbloom.name/blog/2021/08/02/unix-and-microservice-platforms/)
 * [2025-01-04, 14:44:15](https://lobste.rs/s/3hopmz/ask_engineers_how_they_like_what_they_ve) - [Ask engineers how they like what they've built](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 * [2025-01-04, 11:09:02](https://lobste.rs/s/gxumxm/one_dog_v_windows_3_1_graphics_stack) - [One Dog v. the Windows 3.1 Graphics Stack](https://wuffs.org/blog/windows-3x-graphics)
 * [2025-01-04, 09:15:32](https://lobste.rs/s/wraaxu/i_live_my_life_quarter_century_at_time) - [I Live My Life a Quarter Century at a Time](https://tla.systems/blog/2025/01/04/i-live-my-life-a-quarter-century-at-a-time/)
