@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 15:55:36](https://lobste.rs/s/hhwad9/reliable_system_call_interception) - [Reliable system call interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
 * [2025-01-05, 13:31:05](https://lobste.rs/s/hyvqm6/world_s_first_midi_shellcode) - [World's First MIDI Shellcode](https://psi3.ru/blog/swl01u/)
 * [2025-01-05, 12:35:15](https://lobste.rs/s/uzyyf4/story_on_home_server_security) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
