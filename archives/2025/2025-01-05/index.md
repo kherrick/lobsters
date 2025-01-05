@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-05](index.md)
 
+* [2025-01-05, 21:47:07](https://lobste.rs/s/nw5rci/any_standard_graph_representations) - [Any standard graph representations?](https://lobste.rs/s/nw5rci/any_standard_graph_representations)
 * [2025-01-05, 20:52:55](https://lobste.rs/s/aqesrh/rescuing_my_feeds_from_quiterss) - [Rescuing my feeds from QuiteRss](https://henderson.lol/posts/rescuing-data-from-quiterss.html)
 * [2025-01-05, 20:23:47](https://lobste.rs/s/g2adw4/from_go_rust_1_async_dispatch) - [From Go to Rust 1: async Dispatch](https://medium.com/@jberkenbilt/from-go-to-rust-1-async-dispatch-866e042cd98a)
 * [2025-01-05, 19:46:16](https://lobste.rs/s/bmxtj4/pi_pentium_reverse_engineering) - [Pi in the Pentium: reverse-engineering the constants in its floating-point unit](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
