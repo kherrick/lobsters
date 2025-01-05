@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-05, 02:48:07",
+      "https://lobste.rs/s/2m3jmr/synthesizing_1_bit_audio_on_esoteric_cpu"
+    ],
+    [
+      "Synthesizing 1-Bit Audio on an Esoteric CPU",
+      "https://www.youtube.com/watch?v=_6f8PURcPEE"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 02:43:15",
+      "https://lobste.rs/s/8uaigo/oils_0_24_0_closures_objects_namespaces"
+    ],
+    [
+      "Oils 0.24.0 - Closures, Objects, and Namespaces",
+      "https://www.oilshell.org/blog/2025/01/release-0.24.0.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-05, 02:23:50",
+      "https://lobste.rs/s/vvssqt/refurb_weekend_atari_stacy"
+    ],
+    [
+      "Refurb weekend: Atari Stacy",
+      "https://oldvcr.blogspot.com/2025/01/refurb-weekend-atari-stacy.html"
+    ]
+  ],
+  [
+    [
       "2025-01-05, 02:17:27",
       "https://lobste.rs/s/joba3k/core_statement_on_version_control"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-01-04, 19:05:17",
-      "https://lobste.rs/s/g1deaw/genius_n64_s_cache_instruction"
-    ],
-    [
-      "The Genius of the N64's CACHE Instruction",
-      "https://www.youtube.com/watch?v=g5u3zW4SLow"
-    ]
-  ],
-  [
-    [
       "2025-01-04, 18:10:16",
       "https://lobste.rs/s/o0v7ii/ai_on_calculator_part_1_2023"
     ],
@@ -97,16 +117,6 @@
     [
       "Unix and Microservice Platforms",
       "https://www.brandonbloom.name/blog/2021/08/02/unix-and-microservice-platforms/"
-    ]
-  ],
-  [
-    [
-      "2025-01-04, 15:42:44",
-      "https://lobste.rs/s/t3vrj8/breaking_up_with_long_tasks_how_i_learned"
-    ],
-    [
-      "Breaking Up with Long Tasks or: how I learned to group loops and wield the yield",
-      "https://calendar.perfplanet.com/2024/breaking-up-with-long-tasks-or-how-i-learned-to-group-loops-and-wield-the-yield/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "What was the best research paper you read in 2024?",
       "https://lobste.rs/s/9anym5/what_was_best_research_paper_you_read_2024"
-    ]
-  ],
-  [
-    [
-      "2025-01-03, 14:07:14",
-      "https://lobste.rs/s/l5tvsq/multi_path_tcp_revolutionizing"
-    ],
-    [
-      "Multi-Path TCP: revolutionizing connectivity, one path at a time",
-      "https://blog.cloudflare.com/multi-path-tcp-revolutionizing-connectivity-one-path-at-a-time/"
     ]
   ],
   [
