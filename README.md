@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 11:36:02](https://lobste.rs/s/ezfuj4/ocring_music_from_youtube_with_common) - [OCRing Music from YouTube with Common Lisp](https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp)
 * [2025-01-06, 11:10:43](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week)
 * [2025-01-06, 10:57:50](https://lobste.rs/s/hj0dex/ghc_9_12_cabal_3_14_releases) - [GHC 9.12 & Cabal 3.14 releases](https://blog.haskell.org/ghc-9-12-cabal-3-14/)
 * [2025-01-06, 10:46:08](https://lobste.rs/s/s732o2/understanding_physarum_simulation) - [Understanding the Physarum Simulation](https://denizbicer.com/202408-UnderstandingPhysarum.html)
@@ -15,7 +16,6 @@
 * [2025-01-06, 01:10:02](https://lobste.rs/s/b8noca/keeping_too_much_logic_sql_queries_does) - [Keeping Too Much Logic in SQL Queries Does Not Scale](https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/)
 * [2025-01-05, 21:47:07](https://lobste.rs/s/nw5rci/any_standard_graph_representations) - [Any standard graph representations?](https://lobste.rs/s/nw5rci/any_standard_graph_representations)
 * [2025-01-05, 16:28:51](https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with) - [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/)
-* [2025-01-05, 15:55:36](https://lobste.rs/s/hhwad9/reliable_system_call_interception) - [Reliable system call interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
 * [2025-01-05, 13:31:05](https://lobste.rs/s/hyvqm6/world_s_first_midi_shellcode) - [World's First MIDI Shellcode](https://psi3.ru/blog/swl01u/)
 * [2025-01-05, 12:35:15](https://lobste.rs/s/uzyyf4/story_on_home_server_security) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
