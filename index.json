@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-06, 06:12:20",
+      "https://lobste.rs/s/wd2ak0/textmode_art"
+    ],
+    [
+      "textmode.art",
+      "https://textmode.art"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 06:09:50",
+      "https://lobste.rs/s/bsbbmv/static_site_generator_for_audio"
+    ],
+    [
+      "A static site generator for audio producers",
+      "https://simonrepp.com/faircamp/"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 05:54:58",
       "https://lobste.rs/s/rjewit/doom_gallery_experience_by_bobatealee"
     ],
@@ -57,16 +77,6 @@
     [
       "Any standard graph representations?",
       "https://lobste.rs/s/nw5rci/any_standard_graph_representations"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 20:52:55",
-      "https://lobste.rs/s/aqesrh/rescuing_my_feeds_from_quiterss"
-    ],
-    [
-      "Rescuing my feeds from QuiteRss",
-      "https://henderson.lol/posts/rescuing-data-from-quiterss.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Gleam v1.7.0 released",
       "https://gleam.run/news/improved-performance-and-publishing/"
-    ]
-  ],
-  [
-    [
-      "2025-01-04, 18:08:25",
-      "https://lobste.rs/s/zb500m/technology_is_never_substitute_for"
-    ],
-    [
-      "Technology is never a substitute for consent",
-      "https://lapcatsoftware.com/articles/2025/1/1.html"
     ]
   ],
   [
