@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 12:52:50](https://lobste.rs/s/k267gm/parsing_awk_is_tricky) - [Parsing awk is tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
 * [2025-01-06, 11:36:02](https://lobste.rs/s/ezfuj4/ocring_music_from_youtube_with_common) - [OCRing Music from YouTube with Common Lisp](https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp)
 * [2025-01-06, 11:10:43](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week)
 * [2025-01-06, 10:57:50](https://lobste.rs/s/hj0dex/ghc_9_12_cabal_3_14_releases) - [GHC 9.12 & Cabal 3.14 releases](https://blog.haskell.org/ghc-9-12-cabal-3-14/)
