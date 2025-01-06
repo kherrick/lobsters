@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 10:46:08](https://lobste.rs/s/s732o2/understanding_physarum_simulation) - [Understanding the Physarum Simulation](https://denizbicer.com/202408-UnderstandingPhysarum.html)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 * [2025-01-06, 10:03:11](https://lobste.rs/s/hauct0/typestates_rust) - [Typestates in Rust](https://yoric.github.io/post/rust-typestate/)
 * [2025-01-06, 09:07:44](https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance) - [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)
@@ -12,7 +13,6 @@
 * [2025-01-06, 03:11:42](https://lobste.rs/s/5ctsf3/pairs_not_taken) - [pairs not taken](https://computer.rip/2025-01-05-pairs-not-taken.html)
 * [2025-01-06, 01:10:02](https://lobste.rs/s/b8noca/keeping_too_much_logic_sql_queries_does) - [Keeping Too Much Logic in SQL Queries Does Not Scale](https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/)
 * [2025-01-05, 21:47:07](https://lobste.rs/s/nw5rci/any_standard_graph_representations) - [Any standard graph representations?](https://lobste.rs/s/nw5rci/any_standard_graph_representations)
-* [2025-01-05, 20:23:47](https://lobste.rs/s/g2adw4/from_go_rust_1_async_dispatch) - [From Go to Rust 1: async Dispatch](https://medium.com/@jberkenbilt/from-go-to-rust-1-async-dispatch-866e042cd98a)
 * [2025-01-05, 16:28:51](https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with) - [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/)
 * [2025-01-05, 15:55:36](https://lobste.rs/s/hhwad9/reliable_system_call_interception) - [Reliable system call interception](https://blog.mggross.com/intercepting-syscalls/)
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)

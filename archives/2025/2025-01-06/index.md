@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 10:46:08](https://lobste.rs/s/s732o2/understanding_physarum_simulation) - [Understanding the Physarum Simulation](https://denizbicer.com/202408-UnderstandingPhysarum.html)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 * [2025-01-06, 10:03:11](https://lobste.rs/s/hauct0/typestates_rust) - [Typestates in Rust](https://yoric.github.io/post/rust-typestate/)
 * [2025-01-06, 09:07:44](https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance) - [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)
