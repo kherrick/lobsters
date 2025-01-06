@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 17:42:04](https://lobste.rs/s/yzjoas/opolua_ios_runtime_for_psion_epoc_apps) - [OpoLua - iOS runtime for PSION EPOC apps](https://opolua.org)
 * [2025-01-06, 17:41:36](https://lobste.rs/s/aftrmz/keymashed_mash_your_keyboard_make_your) - [keymashed: Mash your keyboard to make your internet better](https://github.com/kartva/keymashed)
 * [2025-01-06, 17:02:25](https://lobste.rs/s/4jlahe/recursive_expansions) - [recursive expansions](https://gist.github.com/izabera/8c541886c3992d328255944bc3de62c7)

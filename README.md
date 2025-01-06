@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-06, 17:42:04](https://lobste.rs/s/yzjoas/opolua_ios_runtime_for_psion_epoc_apps) - [OpoLua - iOS runtime for PSION EPOC apps](https://opolua.org)
+* [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 17:02:25](https://lobste.rs/s/4jlahe/recursive_expansions) - [recursive expansions](https://gist.github.com/izabera/8c541886c3992d328255944bc3de62c7)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
 * [2025-01-06, 16:25:23](https://lobste.rs/s/v9k1at/is_worse_really_better_2000) - [Is Worse Really Better? (2000)](https://www.dreamsongs.com/Files/IsWorseReallyBetter.pdf)
