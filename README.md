@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 01:10:02](https://lobste.rs/s/b8noca/keeping_too_much_logic_sql_queries_does) - [Keeping Too Much Logic in SQL Queries Does Not Scale](https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/)
 * [2025-01-05, 21:52:53](https://lobste.rs/s/yzwq1l/learning_laravel_by_building_postal_code) - [Learning Laravel by building a postal code finder](https://usrme.xyz/posts/learning-laravel-by-building-a-postal-code-finder/)
 * [2025-01-05, 21:47:07](https://lobste.rs/s/nw5rci/any_standard_graph_representations) - [Any standard graph representations?](https://lobste.rs/s/nw5rci/any_standard_graph_representations)
 * [2025-01-05, 20:52:55](https://lobste.rs/s/aqesrh/rescuing_my_feeds_from_quiterss) - [Rescuing my feeds from QuiteRss](https://henderson.lol/posts/rescuing-data-from-quiterss.html)
@@ -14,7 +15,6 @@
 * [2025-01-05, 10:55:36](https://lobste.rs/s/xjwix5/c_is_not_low_level_language_2018) - [C Is Not a Low-level Language (2018)](https://dl.acm.org/doi/pdf/10.1145/3212477.3212479)
 * [2025-01-05, 10:34:54](https://lobste.rs/s/3dzs83/i_keep_turning_my_google_sheets_into_phone) - [I keep turning my Google Sheets into phone-friendly webapps, and I can’t stop](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2025-01-05, 07:47:59](https://lobste.rs/s/gpyj5x/game_dev_rust_year_later) - [Game dev in Rust, a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
-* [2025-01-05, 06:06:43](https://lobste.rs/s/nljec1/minimum_bipartite_matching_via_riemann) - [Minimum bipartite matching via Riemann optimization](https://ocramz.github.io/posts/2023-12-21-assignment-riemann-opt.html)
 * [2025-01-05, 03:14:40](https://lobste.rs/s/bqahl6/john_earnest_decker) - [John Earnest and Decker](https://www.arraycast.com/episodes/episode96-decker)
 * [2025-01-05, 02:43:15](https://lobste.rs/s/8uaigo/oils_0_24_0_closures_objects_namespaces) - [Oils 0.24.0 - Closures, Objects, and Namespaces](https://www.oilshell.org/blog/2025/01/release-0.24.0.html)
 * [2025-01-05, 02:17:27](https://lobste.rs/s/joba3k/core_statement_on_version_control) - [Core statement on version control systems](https://mail-index.netbsd.org/tech-repository/2025/01/04/msg000805.html)
