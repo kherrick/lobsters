@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 06:12:20](https://lobste.rs/s/wd2ak0/textmode_art) - [textmode.art](https://textmode.art)
+* [2025-01-06, 06:09:50](https://lobste.rs/s/bsbbmv/static_site_generator_for_audio) - [A static site generator for audio producers](https://simonrepp.com/faircamp/)
 * [2025-01-06, 05:54:58](https://lobste.rs/s/rjewit/doom_gallery_experience_by_bobatealee) - [DOOM: The Gallery Experience by bobatealee](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 03:59:36](https://lobste.rs/s/jjsc5d/they_squandered_holy_grail) - [They squandered the holy grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
 * [2025-01-06, 03:11:42](https://lobste.rs/s/5ctsf3/pairs_not_taken) - [pairs not taken](https://computer.rip/2025-01-05-pairs-not-taken.html)
 * [2025-01-06, 01:10:02](https://lobste.rs/s/b8noca/keeping_too_much_logic_sql_queries_does) - [Keeping Too Much Logic in SQL Queries Does Not Scale](https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/)
 * [2025-01-05, 21:52:53](https://lobste.rs/s/yzwq1l/learning_laravel_by_building_postal_code) - [Learning Laravel by building a postal code finder](https://usrme.xyz/posts/learning-laravel-by-building-a-postal-code-finder/)
 * [2025-01-05, 21:47:07](https://lobste.rs/s/nw5rci/any_standard_graph_representations) - [Any standard graph representations?](https://lobste.rs/s/nw5rci/any_standard_graph_representations)
-* [2025-01-05, 20:52:55](https://lobste.rs/s/aqesrh/rescuing_my_feeds_from_quiterss) - [Rescuing my feeds from QuiteRss](https://henderson.lol/posts/rescuing-data-from-quiterss.html)
 * [2025-01-05, 20:23:47](https://lobste.rs/s/g2adw4/from_go_rust_1_async_dispatch) - [From Go to Rust 1: async Dispatch](https://medium.com/@jberkenbilt/from-go-to-rust-1-async-dispatch-866e042cd98a)
 * [2025-01-05, 19:46:16](https://lobste.rs/s/bmxtj4/pi_pentium_reverse_engineering) - [Pi in the Pentium: reverse-engineering the constants in its floating-point unit](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
 * [2025-01-05, 16:28:51](https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with) - [Solving Advent of Code “Seating System” with Comonads and Stencils](https://abhinavsarkar.net/posts/solving-aoc20-seating-system/)
@@ -23,7 +24,6 @@
 * [2025-01-05, 00:40:08](https://lobste.rs/s/z98fqy/linux_high_dpi_settings) - [Linux High DPI Settings](https://horstmann.com/unblog/2023-01-07/index.html)
 * [2025-01-05, 00:26:43](https://lobste.rs/s/rtlddh/weak_references_garbage_collectors) - [Weak references and garbage collectors](https://bernsteinbear.com/blog/weakrefs/)
 * [2025-01-04, 23:12:25](https://lobste.rs/s/txlrri/gleam_v1_7_0_released) - [Gleam v1.7.0 released](https://gleam.run/news/improved-performance-and-publishing/)
-* [2025-01-04, 18:08:25](https://lobste.rs/s/zb500m/technology_is_never_substitute_for) - [Technology is never a substitute for consent](https://lapcatsoftware.com/articles/2025/1/1.html)
 * [2025-01-04, 14:44:15](https://lobste.rs/s/3hopmz/ask_engineers_how_they_like_what_they_ve) - [Ask engineers how they like what they've built](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 
 ## [Archives](archives/index.md)
