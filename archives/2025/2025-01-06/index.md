@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
 * [2025-01-06, 18:47:51](https://lobste.rs/s/ivkkly/yolc_haskell_powered_safe_expressive_fun) - [Yolc – a Haskell-powered, safe, expressive, fun language for Ethereum](https://yolc.dev/blog/introduce-yolc/)
+* [2025-01-06, 18:47:33](https://lobste.rs/s/z7j1ip/property_based_testing_for_people) - [Property-Based Testing for the People](https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 17:42:04](https://lobste.rs/s/yzjoas/opolua_ios_runtime_for_psion_epoc_apps) - [OpoLua - iOS runtime for PSION EPOC apps](https://opolua.org)
 * [2025-01-06, 17:41:36](https://lobste.rs/s/aftrmz/keymashed_mash_your_keyboard_make_your) - [keymashed: Mash your keyboard to make your internet better](https://github.com/kartva/keymashed)
