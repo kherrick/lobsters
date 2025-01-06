@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 14:34:52](https://lobste.rs/s/h585rr/cray_1_supercomputer_performance) - [Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2025-01-06, 14:28:36](https://lobste.rs/s/luxqkj/randalloc_blazing_fast_memory_safe) - [randalloc: Blazing fast and memory safe malloc implementation using rand](https://github.com/portasynthinca3/randalloc/)
 * [2025-01-06, 14:18:09](https://lobste.rs/s/uuqp68/thoughts_on_platforms_core_teams_dora) - [Thoughts on Platforms, Core Teams, DORA Report and all that jazz](https://www.architecture-weekly.com/p/thoughts-on-platforms-core-teams)
 * [2025-01-06, 12:52:50](https://lobste.rs/s/k267gm/parsing_awk_is_tricky) - [Parsing awk is tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
