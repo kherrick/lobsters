@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 16:03:12](https://lobste.rs/s/qg9gno/zig_strike_ultimate_toolkit_for_payload) - [Zig Strike: The ultimate toolkit for payload creation and evasion](https://kpmg.com/nl/en/home/insights/2024/12/zig-strike-the-ultimate-toolkit-for-payload-creation-and-evasion.html)
 * [2025-01-06, 15:01:56](https://lobste.rs/s/6fblw3/review_orbit_by_mozilla) - [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
 * [2025-01-06, 14:34:52](https://lobste.rs/s/h585rr/cray_1_supercomputer_performance) - [Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2025-01-06, 14:18:09](https://lobste.rs/s/uuqp68/thoughts_on_platforms_core_teams_dora) - [Thoughts on Platforms, Core Teams, DORA Report and all that jazz](https://www.architecture-weekly.com/p/thoughts-on-platforms-core-teams)
@@ -21,7 +22,6 @@
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
 * [2025-01-05, 13:31:05](https://lobste.rs/s/hyvqm6/world_s_first_midi_shellcode) - [World's First MIDI Shellcode](https://psi3.ru/blog/swl01u/)
 * [2025-01-05, 12:35:15](https://lobste.rs/s/uzyyf4/story_on_home_server_security) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
-* [2025-01-05, 10:34:54](https://lobste.rs/s/3dzs83/i_keep_turning_my_google_sheets_into_phone) - [I keep turning my Google Sheets into phone-friendly webapps, and I can’t stop](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2025-01-05, 07:47:59](https://lobste.rs/s/gpyj5x/game_dev_rust_year_later) - [Game dev in Rust, a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
 * [2025-01-05, 01:52:29](https://lobste.rs/s/jfljqy/web_page_annoyances_i_don_t_inflict_on_you) - [Web page annoyances that I don't inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
 * [2025-01-04, 23:12:25](https://lobste.rs/s/txlrri/gleam_v1_7_0_released) - [Gleam v1.7.0 released](https://gleam.run/news/improved-performance-and-publishing/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 16:03:12](https://lobste.rs/s/qg9gno/zig_strike_ultimate_toolkit_for_payload) - [Zig Strike: The ultimate toolkit for payload creation and evasion](https://kpmg.com/nl/en/home/insights/2024/12/zig-strike-the-ultimate-toolkit-for-payload-creation-and-evasion.html)
 * [2025-01-06, 15:01:56](https://lobste.rs/s/6fblw3/review_orbit_by_mozilla) - [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
 * [2025-01-06, 14:34:52](https://lobste.rs/s/h585rr/cray_1_supercomputer_performance) - [Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2025-01-06, 14:28:36](https://lobste.rs/s/luxqkj/randalloc_blazing_fast_memory_safe) - [randalloc: Blazing fast and memory safe malloc implementation using rand](https://github.com/portasynthinca3/randalloc/)
