@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-06, 21:07:25",
+      "https://lobste.rs/s/wjmes7/write_your_own_tiny_programming_system_s"
+    ],
+    [
+      "Write your own tiny programming system(s) Course",
+      "https://d3s.mff.cuni.cz/teaching/nprg077/"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 20:47:52",
+      "https://lobste.rs/s/noghdr/queues_don_t_fix_overload_2014"
+    ],
+    [
+      "Queues Don't Fix Overload (2014)",
+      "https://ferd.ca/queues-don-t-fix-overload.html"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 19:04:08",
       "https://lobste.rs/s/wuspde/channel_sharding_go"
     ],
@@ -47,16 +67,6 @@
     [
       "OpoLua - iOS runtime for PSION EPOC apps",
       "https://opolua.org"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 17:41:36",
-      "https://lobste.rs/s/aftrmz/keymashed_mash_your_keyboard_make_your"
-    ],
-    [
-      "keymashed: Mash your keyboard to make your internet better",
-      "https://github.com/kartva/keymashed"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Keeping Too Much Logic in SQL Queries Does Not Scale",
       "https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 14:40:56",
-      "https://lobste.rs/s/qmdpl8/nesfab"
-    ],
-    [
-      "NESFab",
-      "https://pubby.games/nesfab.html"
     ]
   ],
   [
