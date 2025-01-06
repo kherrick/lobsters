@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 22:47:09](https://lobste.rs/s/wqhy7t/8th) - [8th](https://8th-dev.com/)
 * [2025-01-06, 21:07:25](https://lobste.rs/s/wjmes7/write_your_own_tiny_programming_system_s) - [Write your own tiny programming system(s) Course](https://d3s.mff.cuni.cz/teaching/nprg077/)
 * [2025-01-06, 21:06:26](https://lobste.rs/s/el7wls/try_snapshot_testing_for_compilers) - [Try Snapshot Testing for Compilers and Compiler-Like Things](https://www.cs.cornell.edu/%7Easampson/blog/turnt.html)
 * [2025-01-06, 20:47:52](https://lobste.rs/s/noghdr/queues_don_t_fix_overload_2014) - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
