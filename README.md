@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-06, 17:42:04](https://lobste.rs/s/yzjoas/opolua_ios_runtime_for_psion_epoc_apps) - [OpoLua - iOS runtime for PSION EPOC apps](https://opolua.org)
-* [2025-01-06, 17:41:36](https://lobste.rs/s/aftrmz/keymashed_mash_your_keyboard_make_your) - [keymashed: Mash your keyboard to make your internet better](https://github.com/kartva/keymashed)
 * [2025-01-06, 17:02:25](https://lobste.rs/s/4jlahe/recursive_expansions) - [recursive expansions](https://gist.github.com/izabera/8c541886c3992d328255944bc3de62c7)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
 * [2025-01-06, 16:25:23](https://lobste.rs/s/v9k1at/is_worse_really_better_2000) - [Is Worse Really Better? (2000)](https://www.dreamsongs.com/Files/IsWorseReallyBetter.pdf)
 * [2025-01-06, 16:03:12](https://lobste.rs/s/qg9gno/zig_strike_ultimate_toolkit_for_payload) - [Zig Strike: The ultimate toolkit for payload creation and evasion](https://kpmg.com/nl/en/home/insights/2024/12/zig-strike-the-ultimate-toolkit-for-payload-creation-and-evasion.html)
 * [2025-01-06, 15:01:56](https://lobste.rs/s/6fblw3/review_orbit_by_mozilla) - [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
+* [2025-01-06, 14:34:52](https://lobste.rs/s/h585rr/cray_1_supercomputer_performance) - [Cray 1 Supercomputer Performance Comparisons With Home Computers Phones and Tablets](http://www.roylongbottom.org.uk/Cray%201%20Supercomputer%20Performance%20Comparisons%20With%20Home%20Computers%20Phones%20and%20Tablets.htm)
 * [2025-01-06, 12:52:50](https://lobste.rs/s/k267gm/parsing_awk_is_tricky) - [Parsing awk is tricky](https://www.raygard.net/awkdoc/pages/awk_parsing_is_tricky.html)
 * [2025-01-06, 11:36:02](https://lobste.rs/s/ezfuj4/ocring_music_from_youtube_with_common) - [OCRing Music from YouTube with Common Lisp](https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp)
 * [2025-01-06, 11:10:43](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week)
