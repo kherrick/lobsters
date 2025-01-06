@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-06, 14:28:36",
+      "https://lobste.rs/s/luxqkj/randalloc_blazing_fast_memory_safe"
+    ],
+    [
+      "randalloc: Blazing fast and memory safe malloc implementation using rand",
+      "https://github.com/portasynthinca3/randalloc/"
+    ]
+  ],
+  [
+    [
+      "2025-01-06, 14:18:09",
+      "https://lobste.rs/s/uuqp68/thoughts_on_platforms_core_teams_dora"
+    ],
+    [
+      "Thoughts on Platforms, Core Teams, DORA Report and all that jazz",
+      "https://www.architecture-weekly.com/p/thoughts-on-platforms-core-teams"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 12:52:50",
       "https://lobste.rs/s/k267gm/parsing_awk_is_tricky"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-01-05, 16:28:51",
-      "https://lobste.rs/s/uwwgmn/solving_advent_code_seating_system_with"
-    ],
-    [
-      "Solving Advent of Code “Seating System” with Comonads and Stencils",
-      "https://abhinavsarkar.net/posts/solving-aoc20-seating-system/"
-    ]
-  ],
-  [
-    [
       "2025-01-05, 14:40:56",
       "https://lobste.rs/s/qmdpl8/nesfab"
     ],
@@ -217,16 +227,6 @@
     [
       "Game dev in Rust, a year later",
       "https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 02:43:15",
-      "https://lobste.rs/s/8uaigo/oils_0_24_0_closures_objects_namespaces"
-    ],
-    [
-      "Oils 0.24.0 - Closures, Objects, and Namespaces",
-      "https://www.oilshell.org/blog/2025/01/release-0.24.0.html"
     ]
   ],
   [
