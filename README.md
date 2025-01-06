@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 19:04:08](https://lobste.rs/s/wuspde/channel_sharding_go) - [Channel Sharding in Go](https://buttondown.com/jaffray/archive/channel-sharding-in-go/)
 * [2025-01-06, 18:47:51](https://lobste.rs/s/ivkkly/yolc_haskell_powered_safe_expressive_fun) - [Yolc – a Haskell-powered, safe, expressive, fun language for Ethereum](https://yolc.dev/blog/introduce-yolc/)
 * [2025-01-06, 18:47:33](https://lobste.rs/s/z7j1ip/property_based_testing_for_people) - [Property-Based Testing for the People](https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
@@ -13,7 +14,6 @@
 * [2025-01-06, 11:36:02](https://lobste.rs/s/ezfuj4/ocring_music_from_youtube_with_common) - [OCRing Music from YouTube with Common Lisp](https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp)
 * [2025-01-06, 11:10:43](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week)
 * [2025-01-06, 10:57:50](https://lobste.rs/s/hj0dex/ghc_9_12_cabal_3_14_releases) - [GHC 9.12 & Cabal 3.14 releases](https://blog.haskell.org/ghc-9-12-cabal-3-14/)
-* [2025-01-06, 10:46:08](https://lobste.rs/s/s732o2/understanding_physarum_simulation) - [Understanding the Physarum Simulation](https://denizbicer.com/202408-UnderstandingPhysarum.html)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 * [2025-01-06, 10:03:11](https://lobste.rs/s/hauct0/typestates_rust) - [Typestates in Rust](https://yoric.github.io/post/rust-typestate/)
 * [2025-01-06, 09:07:44](https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance) - [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)

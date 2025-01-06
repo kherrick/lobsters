@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 19:04:08](https://lobste.rs/s/wuspde/channel_sharding_go) - [Channel Sharding in Go](https://buttondown.com/jaffray/archive/channel-sharding-in-go/)
 * [2025-01-06, 18:47:51](https://lobste.rs/s/ivkkly/yolc_haskell_powered_safe_expressive_fun) - [Yolc – a Haskell-powered, safe, expressive, fun language for Ethereum](https://yolc.dev/blog/introduce-yolc/)
 * [2025-01-06, 18:47:33](https://lobste.rs/s/z7j1ip/property_based_testing_for_people) - [Property-Based Testing for the People](https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
