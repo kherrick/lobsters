@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 08:52:29](https://lobste.rs/s/lzgso4/gpon_ftth_networks_security_2016) - [GPON FTTH networks (in)security (2016)](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html)
 * [2025-01-06, 07:14:40](https://lobste.rs/s/dyjnnl/good_fast_cheap_pick_3_get_none) - [Good, Fast, Cheap: Pick 3 or Get None](https://loup-vaillant.fr/articles/good-fast-cheap)
 * [2025-01-06, 06:12:20](https://lobste.rs/s/wd2ak0/textmode_art) - [textmode.art](https://textmode.art)
 * [2025-01-06, 06:09:50](https://lobste.rs/s/bsbbmv/static_site_generator_for_audio) - [A static site generator for audio producers](https://simonrepp.com/faircamp/)
@@ -7,7 +8,6 @@
 * [2025-01-06, 03:59:36](https://lobste.rs/s/jjsc5d/they_squandered_holy_grail) - [They squandered the holy grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
 * [2025-01-06, 03:11:42](https://lobste.rs/s/5ctsf3/pairs_not_taken) - [pairs not taken](https://computer.rip/2025-01-05-pairs-not-taken.html)
 * [2025-01-06, 01:10:02](https://lobste.rs/s/b8noca/keeping_too_much_logic_sql_queries_does) - [Keeping Too Much Logic in SQL Queries Does Not Scale](https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/)
-* [2025-01-05, 21:52:53](https://lobste.rs/s/yzwq1l/learning_laravel_by_building_postal_code) - [Learning Laravel by building a postal code finder](https://usrme.xyz/posts/learning-laravel-by-building-a-postal-code-finder/)
 * [2025-01-05, 21:47:07](https://lobste.rs/s/nw5rci/any_standard_graph_representations) - [Any standard graph representations?](https://lobste.rs/s/nw5rci/any_standard_graph_representations)
 * [2025-01-05, 20:23:47](https://lobste.rs/s/g2adw4/from_go_rust_1_async_dispatch) - [From Go to Rust 1: async Dispatch](https://medium.com/@jberkenbilt/from-go-to-rust-1-async-dispatch-866e042cd98a)
 * [2025-01-05, 19:46:16](https://lobste.rs/s/bmxtj4/pi_pentium_reverse_engineering) - [Pi in the Pentium: reverse-engineering the constants in its floating-point unit](http://www.righto.com/2025/01/pentium-floating-point-ROM.html)
