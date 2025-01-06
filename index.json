@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-06, 11:36:02",
+      "https://lobste.rs/s/ezfuj4/ocring_music_from_youtube_with_common"
+    ],
+    [
+      "OCRing Music from YouTube with Common Lisp",
+      "https://nickfa.ro/wiki/OCRing_Music_from_YouTube_with_Common_Lisp"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 11:10:43",
       "https://lobste.rs/s/nhahhn/what_are_you_doing_this_week"
     ],
@@ -147,16 +157,6 @@
     [
       "Solving Advent of Code “Seating System” with Comonads and Stencils",
       "https://abhinavsarkar.net/posts/solving-aoc20-seating-system/"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 15:55:36",
-      "https://lobste.rs/s/hhwad9/reliable_system_call_interception"
-    ],
-    [
-      "Reliable system call interception",
-      "https://blog.mggross.com/intercepting-syscalls/"
     ]
   ],
   [
