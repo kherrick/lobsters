@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 11:10:43](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week)
+* [2025-01-06, 10:57:50](https://lobste.rs/s/hj0dex/ghc_9_12_cabal_3_14_releases) - [GHC 9.12 & Cabal 3.14 releases](https://blog.haskell.org/ghc-9-12-cabal-3-14/)
 * [2025-01-06, 10:46:08](https://lobste.rs/s/s732o2/understanding_physarum_simulation) - [Understanding the Physarum Simulation](https://denizbicer.com/202408-UnderstandingPhysarum.html)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 * [2025-01-06, 10:03:11](https://lobste.rs/s/hauct0/typestates_rust) - [Typestates in Rust](https://yoric.github.io/post/rust-typestate/)
 * [2025-01-06, 09:07:44](https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance) - [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)
 * [2025-01-06, 08:59:55](https://lobste.rs/s/wb28bb/evolution_structural_code_editor) - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
-* [2025-01-06, 08:52:29](https://lobste.rs/s/lzgso4/gpon_ftth_networks_security_2016) - [GPON FTTH networks (in)security (2016)](https://pierrekim.github.io/blog/2016-11-01-gpon-ftth-networks-insecurity.html)
 * [2025-01-06, 07:14:40](https://lobste.rs/s/dyjnnl/good_fast_cheap_pick_3_get_none) - [Good, Fast, Cheap: Pick 3 or Get None](https://loup-vaillant.fr/articles/good-fast-cheap)
 * [2025-01-06, 06:09:50](https://lobste.rs/s/bsbbmv/static_site_generator_for_audio) - [A static site generator for audio producers](https://simonrepp.com/faircamp/)
 * [2025-01-06, 05:54:58](https://lobste.rs/s/rjewit/doom_gallery_experience_by_bobatealee) - [DOOM: The Gallery Experience by bobatealee](https://bobatealee.itch.io/doom-the-gallery-experience)
@@ -24,7 +25,6 @@
 * [2025-01-05, 02:43:15](https://lobste.rs/s/8uaigo/oils_0_24_0_closures_objects_namespaces) - [Oils 0.24.0 - Closures, Objects, and Namespaces](https://www.oilshell.org/blog/2025/01/release-0.24.0.html)
 * [2025-01-05, 01:52:29](https://lobste.rs/s/jfljqy/web_page_annoyances_i_don_t_inflict_on_you) - [Web page annoyances that I don't inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
 * [2025-01-04, 23:12:25](https://lobste.rs/s/txlrri/gleam_v1_7_0_released) - [Gleam v1.7.0 released](https://gleam.run/news/improved-performance-and-publishing/)
-* [2025-01-04, 14:44:15](https://lobste.rs/s/3hopmz/ask_engineers_how_they_like_what_they_ve) - [Ask engineers how they like what they've built](https://morrisbrodersen.de/how-do-you-like-what-you-built/)
 
 ## [Archives](archives/index.md)
 

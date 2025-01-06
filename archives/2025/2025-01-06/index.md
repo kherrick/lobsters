@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 11:10:43](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhahhn/what_are_you_doing_this_week)
+* [2025-01-06, 10:57:50](https://lobste.rs/s/hj0dex/ghc_9_12_cabal_3_14_releases) - [GHC 9.12 & Cabal 3.14 releases](https://blog.haskell.org/ghc-9-12-cabal-3-14/)
 * [2025-01-06, 10:46:08](https://lobste.rs/s/s732o2/understanding_physarum_simulation) - [Understanding the Physarum Simulation](https://denizbicer.com/202408-UnderstandingPhysarum.html)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 * [2025-01-06, 10:03:11](https://lobste.rs/s/hauct0/typestates_rust) - [Typestates in Rust](https://yoric.github.io/post/rust-typestate/)
