@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-06, 21:07:25](https://lobste.rs/s/wjmes7/write_your_own_tiny_programming_system_s) - [Write your own tiny programming system(s) Course](https://d3s.mff.cuni.cz/teaching/nprg077/)
+* [2025-01-06, 21:06:26](https://lobste.rs/s/el7wls/try_snapshot_testing_for_compilers) - [Try Snapshot Testing for Compilers and Compiler-Like Things](https://www.cs.cornell.edu/%7Easampson/blog/turnt.html)
 * [2025-01-06, 20:47:52](https://lobste.rs/s/noghdr/queues_don_t_fix_overload_2014) - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2025-01-06, 19:04:08](https://lobste.rs/s/wuspde/channel_sharding_go) - [Channel Sharding in Go](https://buttondown.com/jaffray/archive/channel-sharding-in-go/)
 * [2025-01-06, 18:47:51](https://lobste.rs/s/ivkkly/yolc_haskell_powered_safe_expressive_fun) - [Yolc – a Haskell-powered, safe, expressive, fun language for Ethereum](https://yolc.dev/blog/introduce-yolc/)
@@ -23,7 +24,6 @@
 * [2025-01-06, 06:09:50](https://lobste.rs/s/bsbbmv/static_site_generator_for_audio) - [A static site generator for audio producers](https://simonrepp.com/faircamp/)
 * [2025-01-06, 05:54:58](https://lobste.rs/s/rjewit/doom_gallery_experience_by_bobatealee) - [DOOM: The Gallery Experience by bobatealee](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 03:59:36](https://lobste.rs/s/jjsc5d/they_squandered_holy_grail) - [They squandered the holy grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
-* [2025-01-06, 01:10:02](https://lobste.rs/s/b8noca/keeping_too_much_logic_sql_queries_does) - [Keeping Too Much Logic in SQL Queries Does Not Scale](https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/)
 * [2025-01-05, 01:52:29](https://lobste.rs/s/jfljqy/web_page_annoyances_i_don_t_inflict_on_you) - [Web page annoyances that I don't inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
 
 ## [Archives](archives/index.md)
