@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-06, 19:04:08",
+      "https://lobste.rs/s/wuspde/channel_sharding_go"
+    ],
+    [
+      "Channel Sharding in Go",
+      "https://buttondown.com/jaffray/archive/channel-sharding-in-go/"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 18:47:51",
       "https://lobste.rs/s/ivkkly/yolc_haskell_powered_safe_expressive_fun"
     ],
@@ -127,16 +137,6 @@
     [
       "GHC 9.12 & Cabal 3.14 releases",
       "https://blog.haskell.org/ghc-9-12-cabal-3-14/"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 10:46:08",
-      "https://lobste.rs/s/s732o2/understanding_physarum_simulation"
-    ],
-    [
-      "Understanding the Physarum Simulation",
-      "https://denizbicer.com/202408-UnderstandingPhysarum.html"
     ]
   ],
   [
