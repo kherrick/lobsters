@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 21:07:25](https://lobste.rs/s/wjmes7/write_your_own_tiny_programming_system_s) - [Write your own tiny programming system(s) Course](https://d3s.mff.cuni.cz/teaching/nprg077/)
+* [2025-01-06, 20:47:52](https://lobste.rs/s/noghdr/queues_don_t_fix_overload_2014) - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2025-01-06, 19:04:08](https://lobste.rs/s/wuspde/channel_sharding_go) - [Channel Sharding in Go](https://buttondown.com/jaffray/archive/channel-sharding-in-go/)
 * [2025-01-06, 18:47:51](https://lobste.rs/s/ivkkly/yolc_haskell_powered_safe_expressive_fun) - [Yolc – a Haskell-powered, safe, expressive, fun language for Ethereum](https://yolc.dev/blog/introduce-yolc/)
 * [2025-01-06, 18:47:33](https://lobste.rs/s/z7j1ip/property_based_testing_for_people) - [Property-Based Testing for the People](https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content)
