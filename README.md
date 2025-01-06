@@ -2,6 +2,7 @@
 
 * [2025-01-06, 18:47:51](https://lobste.rs/s/ivkkly/yolc_haskell_powered_safe_expressive_fun) - [Yolc – a Haskell-powered, safe, expressive, fun language for Ethereum](https://yolc.dev/blog/introduce-yolc/)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
+* [2025-01-06, 17:42:04](https://lobste.rs/s/yzjoas/opolua_ios_runtime_for_psion_epoc_apps) - [OpoLua - iOS runtime for PSION EPOC apps](https://opolua.org)
 * [2025-01-06, 17:02:25](https://lobste.rs/s/4jlahe/recursive_expansions) - [recursive expansions](https://gist.github.com/izabera/8c541886c3992d328255944bc3de62c7)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
 * [2025-01-06, 16:25:23](https://lobste.rs/s/v9k1at/is_worse_really_better_2000) - [Is Worse Really Better? (2000)](https://www.dreamsongs.com/Files/IsWorseReallyBetter.pdf)
@@ -22,7 +23,6 @@
 * [2025-01-06, 03:59:36](https://lobste.rs/s/jjsc5d/they_squandered_holy_grail) - [They squandered the holy grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
 * [2025-01-06, 01:10:02](https://lobste.rs/s/b8noca/keeping_too_much_logic_sql_queries_does) - [Keeping Too Much Logic in SQL Queries Does Not Scale](https://lu.sagebl.eu/notes/keeping-too-much-logic-in-sql-queries-does-not-scale/)
 * [2025-01-05, 14:40:56](https://lobste.rs/s/qmdpl8/nesfab) - [NESFab](https://pubby.games/nesfab.html)
-* [2025-01-05, 12:35:15](https://lobste.rs/s/uzyyf4/story_on_home_server_security) - [A story on home server security](https://raniseth.com/blog/2025-01-04-Home-Server-Security.html)
 * [2025-01-05, 07:47:59](https://lobste.rs/s/gpyj5x/game_dev_rust_year_later) - [Game dev in Rust, a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
 * [2025-01-05, 01:52:29](https://lobste.rs/s/jfljqy/web_page_annoyances_i_don_t_inflict_on_you) - [Web page annoyances that I don't inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
 
