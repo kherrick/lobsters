@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-06, 10:46:08",
+      "https://lobste.rs/s/s732o2/understanding_physarum_simulation"
+    ],
+    [
+      "Understanding the Physarum Simulation",
+      "https://denizbicer.com/202408-UnderstandingPhysarum.html"
+    ]
+  ],
+  [
+    [
       "2025-01-06, 10:17:25",
       "https://lobste.rs/s/sckewp/so_you_re_writing_programming_language"
     ],
@@ -117,16 +127,6 @@
     [
       "Any standard graph representations?",
       "https://lobste.rs/s/nw5rci/any_standard_graph_representations"
-    ]
-  ],
-  [
-    [
-      "2025-01-05, 20:23:47",
-      "https://lobste.rs/s/g2adw4/from_go_rust_1_async_dispatch"
-    ],
-    [
-      "From Go to Rust 1: async Dispatch",
-      "https://medium.com/@jberkenbilt/from-go-to-rust-1-async-dispatch-866e042cd98a"
     ]
   ],
   [
