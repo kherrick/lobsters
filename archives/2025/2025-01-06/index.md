@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-06](index.md)
 
+* [2025-01-06, 07:14:40](https://lobste.rs/s/dyjnnl/good_fast_cheap_pick_3_get_none) - [Good, Fast, Cheap: Pick 3 or Get None](https://loup-vaillant.fr/articles/good-fast-cheap)
 * [2025-01-06, 06:12:20](https://lobste.rs/s/wd2ak0/textmode_art) - [textmode.art](https://textmode.art)
 * [2025-01-06, 06:09:50](https://lobste.rs/s/bsbbmv/static_site_generator_for_audio) - [A static site generator for audio producers](https://simonrepp.com/faircamp/)
 * [2025-01-06, 05:54:58](https://lobste.rs/s/rjewit/doom_gallery_experience_by_bobatealee) - [DOOM: The Gallery Experience by bobatealee](https://bobatealee.itch.io/doom-the-gallery-experience)

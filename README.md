@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-06, 07:14:40](https://lobste.rs/s/dyjnnl/good_fast_cheap_pick_3_get_none) - [Good, Fast, Cheap: Pick 3 or Get None](https://loup-vaillant.fr/articles/good-fast-cheap)
 * [2025-01-06, 06:12:20](https://lobste.rs/s/wd2ak0/textmode_art) - [textmode.art](https://textmode.art)
 * [2025-01-06, 06:09:50](https://lobste.rs/s/bsbbmv/static_site_generator_for_audio) - [A static site generator for audio producers](https://simonrepp.com/faircamp/)
 * [2025-01-06, 05:54:58](https://lobste.rs/s/rjewit/doom_gallery_experience_by_bobatealee) - [DOOM: The Gallery Experience by bobatealee](https://bobatealee.itch.io/doom-the-gallery-experience)
@@ -18,7 +19,6 @@
 * [2025-01-05, 10:55:36](https://lobste.rs/s/xjwix5/c_is_not_low_level_language_2018) - [C Is Not a Low-level Language (2018)](https://dl.acm.org/doi/pdf/10.1145/3212477.3212479)
 * [2025-01-05, 10:34:54](https://lobste.rs/s/3dzs83/i_keep_turning_my_google_sheets_into_phone) - [I keep turning my Google Sheets into phone-friendly webapps, and I can’t stop](https://arstechnica.com/gadgets/2024/12/making-tiny-no-code-webapps-out-of-spreadsheets-is-a-weirdly-fulfilling-hobby/)
 * [2025-01-05, 07:47:59](https://lobste.rs/s/gpyj5x/game_dev_rust_year_later) - [Game dev in Rust, a year later](https://users.rust-lang.org/t/game-dev-in-rust-a-year-later/123522)
-* [2025-01-05, 03:14:40](https://lobste.rs/s/bqahl6/john_earnest_decker) - [John Earnest and Decker](https://www.arraycast.com/episodes/episode96-decker)
 * [2025-01-05, 02:43:15](https://lobste.rs/s/8uaigo/oils_0_24_0_closures_objects_namespaces) - [Oils 0.24.0 - Closures, Objects, and Namespaces](https://www.oilshell.org/blog/2025/01/release-0.24.0.html)
 * [2025-01-05, 01:52:29](https://lobste.rs/s/jfljqy/web_page_annoyances_i_don_t_inflict_on_you) - [Web page annoyances that I don't inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
 * [2025-01-05, 00:40:08](https://lobste.rs/s/z98fqy/linux_high_dpi_settings) - [Linux High DPI Settings](https://horstmann.com/unblog/2023-01-07/index.html)
