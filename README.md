@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-07, 11:50:11](https://lobste.rs/s/6w0ruh/end_end_peer_peer_vpn_tunnels_for_hackers) - [End-to-end and peer-to-peer VPN tunnels for hackers](https://reliquary.se)
 * [2025-01-07, 09:49:23](https://lobste.rs/s/fvxupg/introduction_corewar_2009) - [An Introduction to Corewar (2009)](https://techtinkering.com/2009/04/30/an-introduction-to-corewar/)
 * [2025-01-07, 09:01:22](https://lobste.rs/s/d9r6ax/servo_revival_2023_2024) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 * [2025-01-07, 08:53:15](https://lobste.rs/s/ks2ud3/regex_chess_minimax_chess_engine_84_688) - [Regex Chess: A minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
@@ -17,7 +18,6 @@
 * [2025-01-06, 18:47:33](https://lobste.rs/s/z7j1ip/property_based_testing_for_people) - [Property-Based Testing for the People](https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
-* [2025-01-06, 16:03:12](https://lobste.rs/s/qg9gno/zig_strike_ultimate_toolkit_for_payload) - [Zig Strike: The ultimate toolkit for payload creation and evasion](https://kpmg.com/nl/en/home/insights/2024/12/zig-strike-the-ultimate-toolkit-for-payload-creation-and-evasion.html)
 * [2025-01-06, 15:01:56](https://lobste.rs/s/6fblw3/review_orbit_by_mozilla) - [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
 * [2025-01-06, 10:57:50](https://lobste.rs/s/hj0dex/ghc_9_12_cabal_3_14_releases) - [GHC 9.12 & Cabal 3.14 releases](https://blog.haskell.org/ghc-9-12-cabal-3-14/)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
