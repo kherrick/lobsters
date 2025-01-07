@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-07, 19:54:36](https://lobste.rs/s/nocebl/complex_django_filters_with_subquery) - [Complex Django filters with Subquery](https://www.better-simple.com/django/2025/01/01/complex-django-filters-with-subquery/)
+* [2025-01-07, 19:54:09](https://lobste.rs/s/nmapuf/rpp_future_protocol_for_creating) - [RPP, a future protocol for creating and managing domain names?](https://www.afnic.fr/en/observatory-and-resources/expert-papers/rpp-a-future-protocol-for-creating-and-managing-domain-names/)
 * [2025-01-07, 15:56:51](https://lobste.rs/s/6snw6h/taskonaut_cli_tool_simplify_ecs) - [Taskonaut – a CLI tool to simplify ECS container management](https://schematichq.com/blog/simplifying-container-management-with-taskonaut-an-open-source-cli-tool-from)
 * [2025-01-07, 15:42:36](https://lobste.rs/s/nfwbf4/re_decentralizing_development) - [Re-Decentralizing Development](https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/)
 * [2025-01-07, 14:26:40](https://lobste.rs/s/q0e0ka/i_m_compiling_list_javascript) - [I'm compiling a list of JavaScript implementations of the Mandelbrot set. Contributions are welcome](https://github.com/no-gravity/WorldWideMandelbrot)
@@ -15,8 +17,6 @@
 * [2025-01-07, 05:39:19](https://lobste.rs/s/slygzz/now_i_have_two_problems) - [Now I have two problems](https://www.jwz.org/blog/2025/01/now-i-have-two-problems/)
 * [2025-01-07, 00:35:09](https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good) - [Zig's Comptime is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
 * [2025-01-06, 21:45:17](https://lobste.rs/s/gvdpxm/great_things_about_rust_aren_t_just) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
-* [2025-01-06, 21:07:25](https://lobste.rs/s/wjmes7/write_your_own_tiny_programming_system_s) - [Write your own tiny programming system(s) Course](https://d3s.mff.cuni.cz/teaching/nprg077/)
-* [2025-01-06, 21:06:26](https://lobste.rs/s/el7wls/try_snapshot_testing_for_compilers) - [Try Snapshot Testing for Compilers and Compiler-Like Things](https://www.cs.cornell.edu/%7Easampson/blog/turnt.html)
 * [2025-01-06, 20:47:52](https://lobste.rs/s/noghdr/queues_don_t_fix_overload_2014) - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
