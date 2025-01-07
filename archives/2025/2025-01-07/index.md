@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 12:42:22](https://lobste.rs/s/f1zco7/building_ultra_long_range_toslink) - [Building Ultra Long Range TOSLINK](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 11:50:11](https://lobste.rs/s/6w0ruh/end_end_peer_peer_vpn_tunnels_for_hackers) - [End-to-end and peer-to-peer VPN tunnels for hackers](https://reliquary.se)
 * [2025-01-07, 11:50:11](https://lobste.rs/s/6w0ruh/end_end_encrypted_peer_peer_vpn_tunnels) - [End-to-end encrypted, peer-to-peer VPN tunnels for hackers](https://reliquary.se)
 * [2025-01-07, 11:09:44](https://lobste.rs/s/jbk3oe/stimulation_clicker) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)

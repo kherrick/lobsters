@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-07, 12:42:22](https://lobste.rs/s/f1zco7/building_ultra_long_range_toslink) - [Building Ultra Long Range TOSLINK](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 11:50:11](https://lobste.rs/s/6w0ruh/end_end_encrypted_peer_peer_vpn_tunnels) - [End-to-end encrypted, peer-to-peer VPN tunnels for hackers](https://reliquary.se)
 * [2025-01-07, 11:09:44](https://lobste.rs/s/jbk3oe/stimulation_clicker) - [Stimulation Clicker](https://neal.fun/stimulation-clicker/)
 * [2025-01-07, 09:49:23](https://lobste.rs/s/fvxupg/introduction_corewar_2009) - [An Introduction to Corewar (2009)](https://techtinkering.com/2009/04/30/an-introduction-to-corewar/)
@@ -19,7 +20,6 @@
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
 * [2025-01-06, 15:01:56](https://lobste.rs/s/6fblw3/review_orbit_by_mozilla) - [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
-* [2025-01-06, 10:57:50](https://lobste.rs/s/hj0dex/ghc_9_12_cabal_3_14_releases) - [GHC 9.12 & Cabal 3.14 releases](https://blog.haskell.org/ghc-9-12-cabal-3-14/)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 * [2025-01-06, 09:07:44](https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance) - [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)
 * [2025-01-06, 08:59:55](https://lobste.rs/s/wb28bb/evolution_structural_code_editor) - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
