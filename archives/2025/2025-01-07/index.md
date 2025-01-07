@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 21:54:19](https://lobste.rs/s/shzpir/six_sins_platform_teams) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-07, 19:54:36](https://lobste.rs/s/nocebl/complex_django_filters_with_subquery) - [Complex Django filters with Subquery](https://www.better-simple.com/django/2025/01/01/complex-django-filters-with-subquery/)
 * [2025-01-07, 19:54:09](https://lobste.rs/s/nmapuf/rpp_future_protocol_for_creating) - [RPP, a future protocol for creating and managing domain names?](https://www.afnic.fr/en/observatory-and-resources/expert-papers/rpp-a-future-protocol-for-creating-and-managing-domain-names/)
