@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 23:19:05](https://lobste.rs/s/yokkba/solving_nist_password_complexities) - [Solving NIST Password Complexities: Guidance From a GRC Perspective](https://trustedsec.com/blog/solving-nist-password-complexities-guidance-from-a-grc-perspective)
 * [2025-01-07, 22:49:36](https://lobste.rs/s/atzo7l/steamos_expands_beyond_steam_deck) - [SteamOS expands beyond Steam Deck](https://store.steampowered.com/news/app/593110/view/529834914570306831)
 * [2025-01-07, 21:54:19](https://lobste.rs/s/shzpir/six_sins_platform_teams) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)

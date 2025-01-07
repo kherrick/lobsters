@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-07, 23:19:05](https://lobste.rs/s/yokkba/solving_nist_password_complexities) - [Solving NIST Password Complexities: Guidance From a GRC Perspective](https://trustedsec.com/blog/solving-nist-password-complexities-guidance-from-a-grc-perspective)
 * [2025-01-07, 22:49:36](https://lobste.rs/s/atzo7l/steamos_expands_beyond_steam_deck) - [SteamOS expands beyond Steam Deck](https://store.steampowered.com/news/app/593110/view/529834914570306831)
 * [2025-01-07, 21:54:19](https://lobste.rs/s/shzpir/six_sins_platform_teams) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
@@ -21,7 +22,6 @@
 * [2025-01-06, 20:47:52](https://lobste.rs/s/noghdr/queues_don_t_fix_overload_2014) - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
-* [2025-01-06, 15:01:56](https://lobste.rs/s/6fblw3/review_orbit_by_mozilla) - [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 * [2025-01-06, 09:07:44](https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance) - [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)
 * [2025-01-06, 07:14:40](https://lobste.rs/s/dyjnnl/good_fast_cheap_pick_3_get_none) - [Good, Fast, Cheap: Pick 3 or Get None](https://loup-vaillant.fr/articles/good-fast-cheap)
