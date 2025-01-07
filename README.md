@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-07, 15:56:51](https://lobste.rs/s/6snw6h/taskonaut_cli_tool_simplify_ecs) - [Taskonaut – a CLI tool to simplify ECS container management](https://schematichq.com/blog/simplifying-container-management-with-taskonaut-an-open-source-cli-tool-from)
+* [2025-01-07, 15:42:36](https://lobste.rs/s/nfwbf4/re_decentralizing_development) - [Re-Decentralizing Development](https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/)
 * [2025-01-07, 14:26:40](https://lobste.rs/s/q0e0ka/i_m_compiling_list_javascript) - [I'm compiling a list of JavaScript implementations of the Mandelbrot set. Contributions are welcome](https://github.com/no-gravity/WorldWideMandelbrot)
 * [2025-01-07, 13:02:03](https://lobste.rs/s/rrjrs0/short_outburst_activity_during_ruby) - [The short outburst of activity during Ruby Changelog preparation—2025 edition](https://zverok.space/blog/2025-01-06-changelog-2025.html)
 * [2025-01-07, 12:42:22](https://lobste.rs/s/f1zco7/building_ultra_long_range_toslink) - [Building Ultra Long Range TOSLINK](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
@@ -22,7 +23,6 @@
 * [2025-01-06, 15:01:56](https://lobste.rs/s/6fblw3/review_orbit_by_mozilla) - [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
 * [2025-01-06, 10:17:25](https://lobste.rs/s/sckewp/so_you_re_writing_programming_language) - [So you're writing a programming language](https://old.reddit.com/r/ProgrammingLanguages/comments/1huv4cf/so_youre_writing_a_programming_language/)
 * [2025-01-06, 09:07:44](https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance) - [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)
-* [2025-01-06, 08:59:55](https://lobste.rs/s/wb28bb/evolution_structural_code_editor) - [The evolution of a structural code editor](https://crowdhailer.me/2025-01-02/the-evolution-of-a-structural-code-editor/)
 * [2025-01-06, 07:14:40](https://lobste.rs/s/dyjnnl/good_fast_cheap_pick_3_get_none) - [Good, Fast, Cheap: Pick 3 or Get None](https://loup-vaillant.fr/articles/good-fast-cheap)
 * [2025-01-06, 03:59:36](https://lobste.rs/s/jjsc5d/they_squandered_holy_grail) - [They squandered the holy grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
 

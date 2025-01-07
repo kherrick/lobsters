@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
 * [2025-01-07, 15:56:51](https://lobste.rs/s/6snw6h/taskonaut_cli_tool_simplify_ecs) - [Taskonaut – a CLI tool to simplify ECS container management](https://schematichq.com/blog/simplifying-container-management-with-taskonaut-an-open-source-cli-tool-from)
+* [2025-01-07, 15:42:36](https://lobste.rs/s/nfwbf4/re_decentralizing_development) - [Re-Decentralizing Development](https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/)
 * [2025-01-07, 14:26:40](https://lobste.rs/s/q0e0ka/i_m_compiling_list_javascript) - [I'm compiling a list of JavaScript implementations of the Mandelbrot set. Contributions are welcome](https://github.com/no-gravity/WorldWideMandelbrot)
 * [2025-01-07, 13:02:03](https://lobste.rs/s/rrjrs0/short_outburst_activity_during_ruby) - [The short outburst of activity during Ruby Changelog preparation—2025 edition](https://zverok.space/blog/2025-01-06-changelog-2025.html)
 * [2025-01-07, 12:42:22](https://lobste.rs/s/f1zco7/building_ultra_long_range_toslink) - [Building Ultra Long Range TOSLINK](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
