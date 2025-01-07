@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 08:13:26](https://lobste.rs/s/bed56d/mecha_comet_modular_linux_handheld) - [Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software](https://mecha.so/comet)
 * [2025-01-07, 06:08:27](https://lobste.rs/s/ecarst/how_i_program_with_llms) - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms)
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 * [2025-01-07, 05:42:26](https://lobste.rs/s/vgdprx/easy_repair_defective_nzxt_signal_4k30) - [Easy repair of a defective NZXT Signal 4K30 capture card](https://www.downtowndougbrown.com/2025/01/easy-repair-of-a-defective-nzxt-signal-4k30-capture-card/)
