@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 09:49:23](https://lobste.rs/s/fvxupg/introduction_corewar_2009) - [An Introduction to Corewar (2009)](https://techtinkering.com/2009/04/30/an-introduction-to-corewar/)
 * [2025-01-07, 09:01:22](https://lobste.rs/s/d9r6ax/servo_revival_2023_2024) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 * [2025-01-07, 08:53:15](https://lobste.rs/s/ks2ud3/regex_chess_minimax_chess_engine_84_688) - [Regex Chess: A minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 08:13:26](https://lobste.rs/s/bed56d/mecha_comet_modular_linux_handheld) - [Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software](https://mecha.so/comet)
