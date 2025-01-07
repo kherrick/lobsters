@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-07](index.md)
 
+* [2025-01-07, 08:53:15](https://lobste.rs/s/ks2ud3/regex_chess_minimax_chess_engine_84_688) - [Regex Chess: A minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 08:13:26](https://lobste.rs/s/bed56d/mecha_comet_modular_linux_handheld) - [Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software](https://mecha.so/comet)
 * [2025-01-07, 06:08:27](https://lobste.rs/s/ecarst/how_i_program_with_llms) - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms)
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-07, 08:53:15](https://lobste.rs/s/ks2ud3/regex_chess_minimax_chess_engine_84_688) - [Regex Chess: A minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 08:13:26](https://lobste.rs/s/bed56d/mecha_comet_modular_linux_handheld) - [Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software](https://mecha.so/comet)
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 * [2025-01-07, 05:42:26](https://lobste.rs/s/vgdprx/easy_repair_defective_nzxt_signal_4k30) - [Easy repair of a defective NZXT Signal 4K30 capture card](https://www.downtowndougbrown.com/2025/01/easy-repair-of-a-defective-nzxt-signal-4k30-capture-card/)
@@ -13,7 +14,6 @@
 * [2025-01-06, 19:04:08](https://lobste.rs/s/wuspde/channel_sharding_go) - [Channel Sharding in Go](https://buttondown.com/jaffray/archive/channel-sharding-in-go/)
 * [2025-01-06, 18:47:33](https://lobste.rs/s/z7j1ip/property_based_testing_for_people) - [Property-Based Testing for the People](https://repository.upenn.edu/server/api/core/bitstreams/8abd65a8-7b3c-43c4-b004-fb756f3bc466/content)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
-* [2025-01-06, 17:02:25](https://lobste.rs/s/4jlahe/recursive_expansions) - [recursive expansions](https://gist.github.com/izabera/8c541886c3992d328255944bc3de62c7)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
 * [2025-01-06, 16:03:12](https://lobste.rs/s/qg9gno/zig_strike_ultimate_toolkit_for_payload) - [Zig Strike: The ultimate toolkit for payload creation and evasion](https://kpmg.com/nl/en/home/insights/2024/12/zig-strike-the-ultimate-toolkit-for-payload-creation-and-evasion.html)
 * [2025-01-06, 15:01:56](https://lobste.rs/s/6fblw3/review_orbit_by_mozilla) - [Review of Orbit by Mozilla](https://matduggan.com/review-of-orbit-by-mozilla/)
