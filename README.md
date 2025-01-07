@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-07, 00:35:09](https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good) - [Zig's Comptime is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
 * [2025-01-06, 22:47:09](https://lobste.rs/s/wqhy7t/8th) - [8th](https://8th-dev.com/)
 * [2025-01-06, 21:45:17](https://lobste.rs/s/gvdpxm/great_things_about_rust_aren_t_just) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
 * [2025-01-06, 21:07:25](https://lobste.rs/s/wjmes7/write_your_own_tiny_programming_system_s) - [Write your own tiny programming system(s) Course](https://d3s.mff.cuni.cz/teaching/nprg077/)
@@ -24,7 +25,6 @@
 * [2025-01-06, 06:09:50](https://lobste.rs/s/bsbbmv/static_site_generator_for_audio) - [A static site generator for audio producers](https://simonrepp.com/faircamp/)
 * [2025-01-06, 05:54:58](https://lobste.rs/s/rjewit/doom_gallery_experience_by_bobatealee) - [DOOM: The Gallery Experience by bobatealee](https://bobatealee.itch.io/doom-the-gallery-experience)
 * [2025-01-06, 03:59:36](https://lobste.rs/s/jjsc5d/they_squandered_holy_grail) - [They squandered the holy grail](https://xeiaso.net/blog/2025/squandered-holy-grail/)
-* [2025-01-05, 01:52:29](https://lobste.rs/s/jfljqy/web_page_annoyances_i_don_t_inflict_on_you) - [Web page annoyances that I don't inflict on you here](http://rachelbythebay.com/w/2025/01/04/cruft/)
 
 ## [Archives](archives/index.md)
 
