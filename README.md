@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-07, 22:49:36](https://lobste.rs/s/atzo7l/steamos_expands_beyond_steam_deck) - [SteamOS expands beyond Steam Deck](https://store.steampowered.com/news/app/593110/view/529834914570306831)
 * [2025-01-07, 21:54:19](https://lobste.rs/s/shzpir/six_sins_platform_teams) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-07, 19:54:09](https://lobste.rs/s/nmapuf/rpp_future_protocol_for_creating) - [RPP, a future protocol for creating and managing domain names?](https://www.afnic.fr/en/observatory-and-resources/expert-papers/rpp-a-future-protocol-for-creating-and-managing-domain-names/)
@@ -17,7 +18,6 @@
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 * [2025-01-07, 05:39:19](https://lobste.rs/s/slygzz/now_i_have_two_problems) - [Now I have two problems](https://www.jwz.org/blog/2025/01/now-i-have-two-problems/)
 * [2025-01-07, 00:35:09](https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good) - [Zig's Comptime is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
-* [2025-01-06, 21:45:17](https://lobste.rs/s/gvdpxm/great_things_about_rust_aren_t_just) - [Great things about Rust that aren't just performance](https://ntietz.com/blog/great-things-about-rust-beyond-perf/)
 * [2025-01-06, 20:47:52](https://lobste.rs/s/noghdr/queues_don_t_fix_overload_2014) - [Queues Don't Fix Overload (2014)](https://ferd.ca/queues-don-t-fix-overload.html)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
