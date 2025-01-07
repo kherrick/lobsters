@@ -8,6 +8,7 @@
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-07, 19:54:36](https://lobste.rs/s/nocebl/complex_django_filters_with_subquery) - [Complex Django filters with Subquery](https://www.better-simple.com/django/2025/01/01/complex-django-filters-with-subquery/)
 * [2025-01-07, 19:54:09](https://lobste.rs/s/nmapuf/rpp_future_protocol_for_creating) - [RPP, a future protocol for creating and managing domain names?](https://www.afnic.fr/en/observatory-and-resources/expert-papers/rpp-a-future-protocol-for-creating-and-managing-domain-names/)
+* [2025-01-07, 16:38:07](https://lobste.rs/s/nks3u4/nvidia_project_digits) - [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
 * [2025-01-07, 15:56:51](https://lobste.rs/s/6snw6h/taskonaut_cli_tool_simplify_ecs) - [Taskonaut – a CLI tool to simplify ECS container management](https://schematichq.com/blog/simplifying-container-management-with-taskonaut-an-open-source-cli-tool-from)
 * [2025-01-07, 15:42:36](https://lobste.rs/s/nfwbf4/re_decentralizing_development) - [Re-Decentralizing Development](https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/)
 * [2025-01-07, 14:26:40](https://lobste.rs/s/q0e0ka/i_m_compiling_list_javascript) - [I'm compiling a list of JavaScript implementations of the Mandelbrot set. Contributions are welcome](https://github.com/no-gravity/WorldWideMandelbrot)
