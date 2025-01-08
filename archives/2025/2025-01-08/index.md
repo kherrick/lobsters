@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 21:16:02](https://lobste.rs/s/dpmxhj/no_op_compiler_benchmarking) - [No-op compiler benchmarking](https://scot.tg/2025/01/07/no-op-compiler-benchmarking/)
 * [2025-01-08, 19:31:50](https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for) - [broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery](https://github.com/densumesh/broccoli)
 * [2025-01-08, 19:05:39](https://lobste.rs/s/f2nbgh/arch_linux_user_repository_requires) - [Arch Linux User Repository Requires Packages To Support x86_64: No ARM-Only Software](https://www.phoronix.com/news/Arch-Linux-AUR-Requires-x86_64)
 * [2025-01-08, 18:57:48](https://lobste.rs/s/zmm8eg/some_programming_language_ideas) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)

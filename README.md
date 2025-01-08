@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 21:16:02](https://lobste.rs/s/dpmxhj/no_op_compiler_benchmarking) - [No-op compiler benchmarking](https://scot.tg/2025/01/07/no-op-compiler-benchmarking/)
 * [2025-01-08, 19:31:50](https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for) - [broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery](https://github.com/densumesh/broccoli)
 * [2025-01-08, 19:05:39](https://lobste.rs/s/f2nbgh/arch_linux_user_repository_requires) - [Arch Linux User Repository Requires Packages To Support x86_64: No ARM-Only Software](https://www.phoronix.com/news/Arch-Linux-AUR-Requires-x86_64)
 * [2025-01-08, 18:57:48](https://lobste.rs/s/zmm8eg/some_programming_language_ideas) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
@@ -15,7 +16,6 @@
 * [2025-01-08, 14:20:26](https://lobste.rs/s/8boba7/mysql_8_4_3_9_1_0_major_performance_gains) - [MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed](https://www.percona.com/blog/mysql-8-4-3-and-9-1-0-major-performance-gains-revealed/)
 * [2025-01-08, 13:10:32](https://lobste.rs/s/4ndvxf/threads_with_webassembly) - [Threads with WebAssembly](https://tonbo.io/blog/threads-with-webassembly)
 * [2025-01-08, 13:05:21](https://lobste.rs/s/crtawu/how_we_cracked_512_bit_dkim_key_for_less) - [How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
-* [2025-01-08, 10:28:30](https://lobste.rs/s/nqb1e6/special_case_mobile_devops) - [The special case of mobile DevOps](https://www.tramline.app/blog/the-special-case-of-mobile-devops)
 * [2025-01-08, 10:08:01](https://lobste.rs/s/fv4p2u/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)](https://www.usenix.org/system/files/atc24-li-hongyu.pdf)
 * [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
