@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 16:56:37",
+      "https://lobste.rs/s/ln2ber/embedding_scheme_rust"
+    ],
+    [
+      "Embedding Scheme in Rust",
+      "https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 16:22:58",
       "https://lobste.rs/s/nud35g/sqlite_archive_files"
     ],
@@ -167,16 +177,6 @@
     [
       "Why nextest is process-per-test",
       "https://sunshowers.io/posts/nextest-process-per-test/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 13:02:03",
-      "https://lobste.rs/s/rrjrs0/short_outburst_activity_during_ruby"
-    ],
-    [
-      "The short outburst of activity during Ruby Changelog preparation—2025 edition",
-      "https://zverok.space/blog/2025-01-06-changelog-2025.html"
     ]
   ],
   [
