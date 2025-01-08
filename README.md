@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 03:35:04](https://lobste.rs/s/22nnsp/hyperview_native_mobile_apps_as_easy_as) - [Hyperview · Native mobile apps, as easy as creating a web site](https://hyperview.org/)
 * [2025-01-07, 23:19:05](https://lobste.rs/s/yokkba/solving_nist_password_complexities) - [Solving NIST Password Complexities: Guidance From a GRC Perspective](https://trustedsec.com/blog/solving-nist-password-complexities-guidance-from-a-grc-perspective)
 * [2025-01-07, 22:49:36](https://lobste.rs/s/atzo7l/steamos_expands_beyond_steam_deck) - [SteamOS expands beyond Steam Deck](https://store.steampowered.com/news/app/593110/view/529834914570306831)
 * [2025-01-07, 21:54:19](https://lobste.rs/s/shzpir/six_sins_platform_teams) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
-* [2025-01-07, 19:54:09](https://lobste.rs/s/nmapuf/rpp_future_protocol_for_creating) - [RPP, a future protocol for creating and managing domain names?](https://www.afnic.fr/en/observatory-and-resources/expert-papers/rpp-a-future-protocol-for-creating-and-managing-domain-names/)
 * [2025-01-07, 16:38:07](https://lobste.rs/s/nks3u4/nvidia_project_digits) - [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
 * [2025-01-07, 15:56:51](https://lobste.rs/s/6snw6h/taskonaut_cli_tool_simplify_ecs) - [Taskonaut – a CLI tool to simplify ECS container management](https://schematichq.com/blog/simplifying-container-management-with-taskonaut-an-open-source-cli-tool-from)
 * [2025-01-07, 15:42:36](https://lobste.rs/s/nfwbf4/re_decentralizing_development) - [Re-Decentralizing Development](https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/)
