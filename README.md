@@ -6,7 +6,6 @@
 * [2025-01-08, 16:56:37](https://lobste.rs/s/ln2ber/embedding_scheme_rust) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
 * [2025-01-08, 16:22:47](https://lobste.rs/s/5rdt54/exploiting_client_side_path_traversal) - [Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery - Introducing CSPT2CSRF](https://blog.doyensec.com/2024/07/02/cspt2csrf.html)
-* [2025-01-08, 15:22:16](https://lobste.rs/s/iajczx/hexagonal_architecture_alistair) - [Hexagonal Architecture (Alistair Cockburn, 2024)](https://www.youtube.com/watch?v=k0ykTxw7s0Y)
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 14:22:35](https://lobste.rs/s/7nem2f/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](https://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2025-01-08, 14:20:26](https://lobste.rs/s/8boba7/mysql_8_4_3_9_1_0_major_performance_gains) - [MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed](https://www.percona.com/blog/mysql-8-4-3-and-9-1-0-major-performance-gains-revealed/)
@@ -24,6 +23,7 @@
 * [2025-01-07, 11:50:11](https://lobste.rs/s/6w0ruh/end_end_encrypted_peer_peer_vpn_tunnels) - [End-to-end encrypted, peer-to-peer VPN tunnels for hackers](https://reliquary.se)
 * [2025-01-07, 09:01:22](https://lobste.rs/s/d9r6ax/servo_revival_2023_2024) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
+* [2025-01-07, 00:35:09](https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good) - [Zig's Comptime is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 
 ## [Archives](archives/index.md)
