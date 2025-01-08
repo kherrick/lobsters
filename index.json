@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 19:31:50",
+      "https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for"
+    ],
+    [
+      "broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery",
+      "https://github.com/densumesh/broccoli"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 18:57:48",
       "https://lobste.rs/s/zmm8eg/some_programming_language_ideas"
     ],
@@ -57,16 +67,6 @@
     [
       "Bringing SerenityOS to real hardware, one driver at a time",
       "https://sdomi.pl/weblog/23-serenityos-realhw/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 17:42:21",
-      "https://lobste.rs/s/jwvklf/c_26_placeholder_with_no_name"
-    ],
-    [
-      "C++26: a placeholder with no name",
-      "https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders"
     ]
   ],
   [
