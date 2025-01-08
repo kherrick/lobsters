@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 10:28:30",
+      "https://lobste.rs/s/nqb1e6/special_case_mobile_devops"
+    ],
+    [
+      "The special case of mobile DevOps",
+      "https://www.tramline.app/blog/the-special-case-of-mobile-devops"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 10:08:01",
       "https://lobste.rs/s/fv4p2u/empirical_study_rust_for_linux_success"
     ],
@@ -37,16 +47,6 @@
     [
       "Hyperview · Native mobile apps, as easy as creating a web site",
       "https://hyperview.org/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 23:19:05",
-      "https://lobste.rs/s/yokkba/solving_nist_password_complexities"
-    ],
-    [
-      "Solving NIST Password Complexities: Guidance From a GRC Perspective",
-      "https://trustedsec.com/blog/solving-nist-password-complexities-guidance-from-a-grc-perspective"
     ]
   ],
   [
