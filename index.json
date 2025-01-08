@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 14:20:26",
+      "https://lobste.rs/s/8boba7/mysql_8_4_3_9_1_0_major_performance_gains"
+    ],
+    [
+      "MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed",
+      "https://www.percona.com/blog/mysql-8-4-3-and-9-1-0-major-performance-gains-revealed/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 13:10:32",
       "https://lobste.rs/s/4ndvxf/threads_with_webassembly"
     ],
@@ -237,16 +247,6 @@
     [
       "Lobsters Battlestations and Screenshots (2025)",
       "https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots"
-    ]
-  ],
-  [
-    [
-      "2025-01-06, 09:07:44",
-      "https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance"
-    ],
-    [
-      "Rust's borrow checker: Not just a nuisance",
-      "https://mental-reverb.com/blog.php?id=46"
     ]
   ]
 ]
