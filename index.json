@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-08, 20:49:47",
+      "https://lobste.rs/s/4f69z4/why_go_should_sometimes_be_no_go"
+    ],
+    [
+      "Why Go Should Sometimes Be a No-Go",
+      "https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 19:31:50",
       "https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for"
     ],
@@ -157,16 +167,6 @@
     [
       "How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud",
       "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 10:08:01",
-      "https://lobste.rs/s/fv4p2u/empirical_study_rust_for_linux_success"
-    ],
-    [
-      "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)",
-      "https://www.usenix.org/system/files/atc24-li-hongyu.pdf"
     ]
   ],
   [
