@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-01-08, 15:22:16",
-      "https://lobste.rs/s/iajczx/hexagonal_architecture_alistair"
-    ],
-    [
-      "Hexagonal Architecture (Alistair Cockburn, 2024)",
-      "https://www.youtube.com/watch?v=k0ykTxw7s0Y"
-    ]
-  ],
-  [
-    [
       "2025-01-08, 14:29:33",
       "https://lobste.rs/s/8ztylp/fidget"
     ],
@@ -237,6 +227,16 @@
     [
       "UK Users: Lobsters needs your help with the Online Safety Act",
       "https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with"
+    ]
+  ],
+  [
+    [
+      "2025-01-07, 00:35:09",
+      "https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good"
+    ],
+    [
+      "Zig's Comptime is Bonkers Good",
+      "https://www.scottredig.com/blog/bonkers_comptime/"
     ]
   ],
   [
