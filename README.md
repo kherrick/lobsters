@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 14:33:37](https://lobste.rs/s/fbbzbu/preliminary_notes_on_nofl_field_logging) - [Preliminary notes on a nofl field-logging barrier](https://wingolog.org/archives/2024/10/03/preliminary-notes-on-a-nofl-field-logging-barrier)
+* [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
+* [2025-01-08, 14:22:35](https://lobste.rs/s/7nem2f/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](https://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2025-01-08, 14:20:26](https://lobste.rs/s/8boba7/mysql_8_4_3_9_1_0_major_performance_gains) - [MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed](https://www.percona.com/blog/mysql-8-4-3-and-9-1-0-major-performance-gains-revealed/)
 * [2025-01-08, 13:10:32](https://lobste.rs/s/4ndvxf/threads_with_webassembly) - [Threads with WebAssembly](https://tonbo.io/blog/threads-with-webassembly)
 * [2025-01-08, 13:05:21](https://lobste.rs/s/crtawu/how_we_cracked_512_bit_dkim_key_for_less) - [How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
@@ -12,7 +15,6 @@
 * [2025-01-07, 21:54:19](https://lobste.rs/s/shzpir/six_sins_platform_teams) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-07, 16:38:07](https://lobste.rs/s/nks3u4/nvidia_project_digits) - [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
-* [2025-01-07, 15:42:36](https://lobste.rs/s/nfwbf4/re_decentralizing_development) - [Re-Decentralizing Development](https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/)
 * [2025-01-07, 13:02:03](https://lobste.rs/s/rrjrs0/short_outburst_activity_during_ruby) - [The short outburst of activity during Ruby Changelog preparation—2025 edition](https://zverok.space/blog/2025-01-06-changelog-2025.html)
 * [2025-01-07, 12:42:22](https://lobste.rs/s/f1zco7/building_ultra_long_range_toslink) - [Building Ultra Long Range TOSLINK](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 11:50:11](https://lobste.rs/s/6w0ruh/end_end_encrypted_peer_peer_vpn_tunnels) - [End-to-end encrypted, peer-to-peer VPN tunnels for hackers](https://reliquary.se)
@@ -21,10 +23,8 @@
 * [2025-01-07, 08:53:15](https://lobste.rs/s/ks2ud3/regex_chess_minimax_chess_engine_84_688) - [Regex Chess: A minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 08:13:26](https://lobste.rs/s/bed56d/mecha_comet_modular_linux_handheld) - [Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software](https://mecha.so/comet)
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
-* [2025-01-07, 05:39:19](https://lobste.rs/s/slygzz/now_i_have_two_problems) - [Now I have two problems](https://www.jwz.org/blog/2025/01/now-i-have-two-problems/)
 * [2025-01-07, 00:35:09](https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good) - [Zig's Comptime is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
-* [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
 
 ## [Archives](archives/index.md)
 
