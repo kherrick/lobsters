@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 23:32:39](https://lobste.rs/s/wrgdm5/renderling_year_review_2024) - [Renderling - Year in Review - 2024](https://renderling.xyz/articles/year_in_review_2024.html)
 * [2025-01-08, 21:16:02](https://lobste.rs/s/dpmxhj/no_op_compiler_benchmarking) - [No-op compiler benchmarking](https://scot.tg/2025/01/07/no-op-compiler-benchmarking/)
 * [2025-01-08, 20:49:47](https://lobste.rs/s/4f69z4/why_go_should_sometimes_be_no_go) - [Why Go Should Sometimes Be a No-Go](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/)
+* [2025-01-08, 20:36:54](https://lobste.rs/s/eld5cs/go_is_well_designed_language_actually) - [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)
 * [2025-01-08, 19:31:50](https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for) - [broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery](https://github.com/densumesh/broccoli)
 * [2025-01-08, 19:05:39](https://lobste.rs/s/f2nbgh/arch_linux_user_repository_requires) - [Arch Linux User Repository Requires Packages To Support x86_64: No ARM-Only Software](https://www.phoronix.com/news/Arch-Linux-AUR-Requires-x86_64)
 * [2025-01-08, 18:57:48](https://lobste.rs/s/zmm8eg/some_programming_language_ideas) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
