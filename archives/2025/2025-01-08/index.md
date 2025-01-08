@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 15:22:16](https://lobste.rs/s/iajczx/hexagonal_architecture_alistair) - [Hexagonal Architecture (Alistair Cockburn, 2024)](https://www.youtube.com/watch?v=k0ykTxw7s0Y)
 * [2025-01-08, 14:33:37](https://lobste.rs/s/fbbzbu/preliminary_notes_on_nofl_field_logging) - [Preliminary notes on a nofl field-logging barrier](https://wingolog.org/archives/2024/10/03/preliminary-notes-on-a-nofl-field-logging-barrier)
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 14:22:35](https://lobste.rs/s/7nem2f/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](https://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
