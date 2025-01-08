@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 19:31:50](https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for) - [broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery](https://github.com/densumesh/broccoli)
 * [2025-01-08, 18:57:48](https://lobste.rs/s/zmm8eg/some_programming_language_ideas) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:53:51](https://lobste.rs/s/hkvgcb/de_smarting_marshall_uxbridge) - [De-smarting the Marshall Uxbridge](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 * [2025-01-08, 18:44:43](https://lobste.rs/s/c9ajtr/why_developers_dislike_linters) - [Why developers dislike linters?](https://www.coderabbit.ai/blog/why-developers-hate-linters)
