@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 17:43:44](https://lobste.rs/s/hos4tx/bringing_serenityos_real_hardware_one) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
+* [2025-01-08, 17:42:21](https://lobste.rs/s/jwvklf/c_26_placeholder_with_no_name) - [C++26: a placeholder with no name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
 * [2025-01-08, 16:56:37](https://lobste.rs/s/ln2ber/embedding_scheme_rust) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
 * [2025-01-08, 16:22:47](https://lobste.rs/s/5rdt54/exploiting_client_side_path_traversal) - [Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery - Introducing CSPT2CSRF](https://blog.doyensec.com/2024/07/02/cspt2csrf.html)
