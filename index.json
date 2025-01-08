@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 17:54:49",
+      "https://lobste.rs/s/cx00xc/learning_pyxel_moving_sprites_with_mouse"
+    ],
+    [
+      "Learning Pyxel: Moving Sprites with the Mouse",
+      "https://blog.garambrogne.net/pyxel-bat-en.html"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 17:43:44",
       "https://lobste.rs/s/hos4tx/bringing_serenityos_real_hardware_one"
     ],
@@ -227,16 +237,6 @@
     [
       "UK Users: Lobsters needs your help with the Online Safety Act",
       "https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 00:35:09",
-      "https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good"
-    ],
-    [
-      "Zig's Comptime is Bonkers Good",
-      "https://www.scottredig.com/blog/bonkers_comptime/"
     ]
   ],
   [
