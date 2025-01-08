@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 03:35:04](https://lobste.rs/s/22nnsp/hyperview_native_mobile_apps_as_easy_as) - [Hyperview · Native mobile apps, as easy as creating a web site](https://hyperview.org/)
 * [2025-01-07, 23:19:05](https://lobste.rs/s/yokkba/solving_nist_password_complexities) - [Solving NIST Password Complexities: Guidance From a GRC Perspective](https://trustedsec.com/blog/solving-nist-password-complexities-guidance-from-a-grc-perspective)
@@ -9,7 +10,6 @@
 * [2025-01-07, 16:38:07](https://lobste.rs/s/nks3u4/nvidia_project_digits) - [NVIDIA Project DIGITS](https://www.nvidia.com/en-us/project-digits/)
 * [2025-01-07, 15:56:51](https://lobste.rs/s/6snw6h/taskonaut_cli_tool_simplify_ecs) - [Taskonaut – a CLI tool to simplify ECS container management](https://schematichq.com/blog/simplifying-container-management-with-taskonaut-an-open-source-cli-tool-from)
 * [2025-01-07, 15:42:36](https://lobste.rs/s/nfwbf4/re_decentralizing_development) - [Re-Decentralizing Development](https://blogs.gnome.org/tbernard/2025/01/07/re-decentralizing/)
-* [2025-01-07, 14:26:40](https://lobste.rs/s/q0e0ka/i_m_compiling_list_javascript) - [I'm compiling a list of JavaScript implementations of the Mandelbrot set. Contributions are welcome](https://github.com/no-gravity/WorldWideMandelbrot)
 * [2025-01-07, 13:02:03](https://lobste.rs/s/rrjrs0/short_outburst_activity_during_ruby) - [The short outburst of activity during Ruby Changelog preparation—2025 edition](https://zverok.space/blog/2025-01-06-changelog-2025.html)
 * [2025-01-07, 12:42:22](https://lobste.rs/s/f1zco7/building_ultra_long_range_toslink) - [Building Ultra Long Range TOSLINK](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
 * [2025-01-07, 11:50:11](https://lobste.rs/s/6w0ruh/end_end_encrypted_peer_peer_vpn_tunnels) - [End-to-end encrypted, peer-to-peer VPN tunnels for hackers](https://reliquary.se)
