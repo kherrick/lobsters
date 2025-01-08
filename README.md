@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 14:20:26](https://lobste.rs/s/8boba7/mysql_8_4_3_9_1_0_major_performance_gains) - [MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed](https://www.percona.com/blog/mysql-8-4-3-and-9-1-0-major-performance-gains-revealed/)
 * [2025-01-08, 13:10:32](https://lobste.rs/s/4ndvxf/threads_with_webassembly) - [Threads with WebAssembly](https://tonbo.io/blog/threads-with-webassembly)
 * [2025-01-08, 13:05:21](https://lobste.rs/s/crtawu/how_we_cracked_512_bit_dkim_key_for_less) - [How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 10:28:30](https://lobste.rs/s/nqb1e6/special_case_mobile_devops) - [The special case of mobile DevOps](https://www.tramline.app/blog/the-special-case-of-mobile-devops)
@@ -24,7 +25,6 @@
 * [2025-01-07, 00:35:09](https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good) - [Zig's Comptime is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
 * [2025-01-06, 18:24:34](https://lobste.rs/s/zigphj/future_htmx) - [The future of htmx](https://htmx.org/essays/future/)
 * [2025-01-06, 16:47:43](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots) - [Lobsters Battlestations and Screenshots (2025)](https://lobste.rs/s/uwcvnl/lobsters_battlestations_screenshots)
-* [2025-01-06, 09:07:44](https://lobste.rs/s/k1caa2/rust_s_borrow_checker_not_just_nuisance) - [Rust's borrow checker: Not just a nuisance](https://mental-reverb.com/blog.php?id=46)
 
 ## [Archives](archives/index.md)
 
