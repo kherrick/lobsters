@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 17:54:49](https://lobste.rs/s/cx00xc/learning_pyxel_moving_sprites_with_mouse) - [Learning Pyxel: Moving Sprites with the Mouse](https://blog.garambrogne.net/pyxel-bat-en.html)
 * [2025-01-08, 17:43:44](https://lobste.rs/s/hos4tx/bringing_serenityos_real_hardware_one) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
 * [2025-01-08, 17:42:21](https://lobste.rs/s/jwvklf/c_26_placeholder_with_no_name) - [C++26: a placeholder with no name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
 * [2025-01-08, 16:56:37](https://lobste.rs/s/ln2ber/embedding_scheme_rust) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
