@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 21:16:02",
+      "https://lobste.rs/s/dpmxhj/no_op_compiler_benchmarking"
+    ],
+    [
+      "No-op compiler benchmarking",
+      "https://scot.tg/2025/01/07/no-op-compiler-benchmarking/"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 19:31:50",
       "https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for"
     ],
@@ -147,16 +157,6 @@
     [
       "How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud",
       "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 10:28:30",
-      "https://lobste.rs/s/nqb1e6/special_case_mobile_devops"
-    ],
-    [
-      "The special case of mobile DevOps",
-      "https://www.tramline.app/blog/the-special-case-of-mobile-devops"
     ]
   ],
   [
