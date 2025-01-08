@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 10:08:01](https://lobste.rs/s/fv4p2u/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)](https://www.usenix.org/system/files/atc24-li-hongyu.pdf)
 * [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 03:35:04](https://lobste.rs/s/22nnsp/hyperview_native_mobile_apps_as_easy_as) - [Hyperview · Native mobile apps, as easy as creating a web site](https://hyperview.org/)
@@ -17,7 +18,6 @@
 * [2025-01-07, 09:01:22](https://lobste.rs/s/d9r6ax/servo_revival_2023_2024) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 * [2025-01-07, 08:53:15](https://lobste.rs/s/ks2ud3/regex_chess_minimax_chess_engine_84_688) - [Regex Chess: A minimax chess engine in 84,688 regular expressions](https://nicholas.carlini.com/writing/2025/regex-chess.html)
 * [2025-01-07, 08:13:26](https://lobste.rs/s/bed56d/mecha_comet_modular_linux_handheld) - [Mecha Comet - Modular Linux Handheld Computer powered by Open-Source Software](https://mecha.so/comet)
-* [2025-01-07, 06:08:27](https://lobste.rs/s/ecarst/how_i_program_with_llms) - [How I program with LLMs](https://crawshaw.io/blog/programming-with-llms)
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 * [2025-01-07, 05:39:19](https://lobste.rs/s/slygzz/now_i_have_two_problems) - [Now I have two problems](https://www.jwz.org/blog/2025/01/now-i-have-two-problems/)
 * [2025-01-07, 00:35:09](https://lobste.rs/s/s0zjay/zig_s_comptime_is_bonkers_good) - [Zig's Comptime is Bonkers Good](https://www.scottredig.com/blog/bonkers_comptime/)
