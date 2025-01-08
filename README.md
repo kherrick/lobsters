@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 18:57:48](https://lobste.rs/s/zmm8eg/some_programming_language_ideas) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:53:51](https://lobste.rs/s/hkvgcb/de_smarting_marshall_uxbridge) - [De-smarting the Marshall Uxbridge](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 * [2025-01-08, 18:44:43](https://lobste.rs/s/c9ajtr/why_developers_dislike_linters) - [Why developers dislike linters?](https://www.coderabbit.ai/blog/why-developers-hate-linters)
 * [2025-01-08, 18:36:48](https://lobste.rs/s/zawpsc/if_got_want_simple_way_write_better_go) - [if got, want: A Simple Way to Write Better Go Tests](https://mtlynch.io/if-got-want-improve-go-tests/)
@@ -22,7 +23,6 @@
 * [2025-01-07, 21:54:19](https://lobste.rs/s/shzpir/six_sins_platform_teams) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-07, 12:42:22](https://lobste.rs/s/f1zco7/building_ultra_long_range_toslink) - [Building Ultra Long Range TOSLINK](https://blog.benjojo.co.uk/post/sfp-experiment-ultra-long-range-toslink)
-* [2025-01-07, 11:50:11](https://lobste.rs/s/6w0ruh/end_end_encrypted_peer_peer_vpn_tunnels) - [End-to-end encrypted, peer-to-peer VPN tunnels for hackers](https://reliquary.se)
 * [2025-01-07, 09:01:22](https://lobste.rs/s/d9r6ax/servo_revival_2023_2024) - [Servo Revival: 2023-2024](https://blogs.igalia.com/mrego/servo-revival-2023-2024/)
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 
