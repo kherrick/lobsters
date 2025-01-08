@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-08, 15:22:16",
+      "https://lobste.rs/s/iajczx/hexagonal_architecture_alistair"
+    ],
+    [
+      "Hexagonal Architecture (Alistair Cockburn, 2024)",
+      "https://www.youtube.com/watch?v=k0ykTxw7s0Y"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 14:33:37",
       "https://lobste.rs/s/fbbzbu/preliminary_notes_on_nofl_field_logging"
     ],
@@ -137,16 +147,6 @@
     [
       "Why nextest is process-per-test",
       "https://sunshowers.io/posts/nextest-process-per-test/"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 16:38:07",
-      "https://lobste.rs/s/nks3u4/nvidia_project_digits"
-    ],
-    [
-      "NVIDIA Project DIGITS",
-      "https://www.nvidia.com/en-us/project-digits/"
     ]
   ],
   [
