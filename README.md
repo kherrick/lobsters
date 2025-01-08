@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 18:44:43](https://lobste.rs/s/c9ajtr/why_developers_dislike_linters) - [Why developers dislike linters?](https://www.coderabbit.ai/blog/why-developers-hate-linters)
 * [2025-01-08, 18:36:48](https://lobste.rs/s/zawpsc/if_got_want_simple_way_write_better_go) - [if got, want: A Simple Way to Write Better Go Tests](https://mtlynch.io/if-got-want-improve-go-tests/)
 * [2025-01-08, 17:54:49](https://lobste.rs/s/cx00xc/learning_pyxel_moving_sprites_with_mouse) - [Learning Pyxel: Moving Sprites with the Mouse](https://blog.garambrogne.net/pyxel-bat-en.html)
 * [2025-01-08, 17:43:44](https://lobste.rs/s/hos4tx/bringing_serenityos_real_hardware_one) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
 * [2025-01-08, 17:42:21](https://lobste.rs/s/jwvklf/c_26_placeholder_with_no_name) - [C++26: a placeholder with no name](https://www.sandordargo.com/blog/2025/01/08/cpp26-unnamed-placeholders)
 * [2025-01-08, 16:56:37](https://lobste.rs/s/ln2ber/embedding_scheme_rust) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
-* [2025-01-08, 16:22:47](https://lobste.rs/s/5rdt54/exploiting_client_side_path_traversal) - [Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery - Introducing CSPT2CSRF](https://blog.doyensec.com/2024/07/02/cspt2csrf.html)
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 14:22:35](https://lobste.rs/s/7nem2f/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](https://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2025-01-08, 14:20:26](https://lobste.rs/s/8boba7/mysql_8_4_3_9_1_0_major_performance_gains) - [MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed](https://www.percona.com/blog/mysql-8-4-3-and-9-1-0-major-performance-gains-revealed/)
