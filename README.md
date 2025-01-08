@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-08, 10:28:30](https://lobste.rs/s/nqb1e6/special_case_mobile_devops) - [The special case of mobile DevOps](https://www.tramline.app/blog/the-special-case-of-mobile-devops)
 * [2025-01-08, 10:08:01](https://lobste.rs/s/fv4p2u/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)](https://www.usenix.org/system/files/atc24-li-hongyu.pdf)
 * [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-08, 03:35:04](https://lobste.rs/s/22nnsp/hyperview_native_mobile_apps_as_easy_as) - [Hyperview · Native mobile apps, as easy as creating a web site](https://hyperview.org/)
-* [2025-01-07, 23:19:05](https://lobste.rs/s/yokkba/solving_nist_password_complexities) - [Solving NIST Password Complexities: Guidance From a GRC Perspective](https://trustedsec.com/blog/solving-nist-password-complexities-guidance-from-a-grc-perspective)
 * [2025-01-07, 22:49:36](https://lobste.rs/s/atzo7l/steamos_expands_beyond_steam_deck) - [SteamOS expands beyond Steam Deck](https://store.steampowered.com/news/app/593110/view/529834914570306831)
 * [2025-01-07, 21:54:19](https://lobste.rs/s/shzpir/six_sins_platform_teams) - [Six Sins of Platform Teams](https://serce.me/posts/2025-01-07-six-sins-of-platform-teams)
 * [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)

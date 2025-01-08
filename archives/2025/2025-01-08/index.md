@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 10:28:30](https://lobste.rs/s/nqb1e6/special_case_mobile_devops) - [The special case of mobile DevOps](https://www.tramline.app/blog/the-special-case-of-mobile-devops)
 * [2025-01-08, 10:08:01](https://lobste.rs/s/fv4p2u/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)](https://www.usenix.org/system/files/atc24-li-hongyu.pdf)
 * [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
