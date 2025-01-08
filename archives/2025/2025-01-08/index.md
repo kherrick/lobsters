@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-08](index.md)
 
+* [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
+* [2025-01-08, 16:22:47](https://lobste.rs/s/5rdt54/exploiting_client_side_path_traversal) - [Exploiting Client-Side Path Traversal to Perform Cross-Site Request Forgery - Introducing CSPT2CSRF](https://blog.doyensec.com/2024/07/02/cspt2csrf.html)
 * [2025-01-08, 15:22:16](https://lobste.rs/s/iajczx/hexagonal_architecture_alistair) - [Hexagonal Architecture (Alistair Cockburn, 2024)](https://www.youtube.com/watch?v=k0ykTxw7s0Y)
 * [2025-01-08, 14:33:37](https://lobste.rs/s/fbbzbu/preliminary_notes_on_nofl_field_logging) - [Preliminary notes on a nofl field-logging barrier](https://wingolog.org/archives/2024/10/03/preliminary-notes-on-a-nofl-field-logging-barrier)
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
