@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 20:43:18](https://lobste.rs/s/ptdwul/sql_nulls_are_weird) - [SQL NULLs are Weird](https://jirevwe.github.io/sql-nulls-are-weird.html)
 * [2025-01-09, 20:09:27](https://lobste.rs/s/g4olnq/alloy_6_2_0_released) - [Alloy 6.2.0 released](https://alloytools.discourse.group/t/alloy-6-2-0-released/508)
 * [2025-01-09, 19:56:21](https://lobste.rs/s/rorvp9/worstfit_unveiling_hidden_transformers) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
-* [2025-01-09, 19:35:33](https://lobste.rs/s/zno7ib/tetris_game_inside_pdf) - [A tetris game inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-09, 19:21:59](https://lobste.rs/s/3hzo1u/we_spoke_great_expectations_about) - [We spoke to Great Expectations about the library's DX](https://www.youtube.com/watch?v=lryxqciingQ)
 * [2025-01-09, 17:53:12](https://lobste.rs/s/gpoygp/google_linux_foundation_launch) - [Google & Linux Foundation Launch \"Supporters of Chromium-Based Browsers\" Fund](https://www.phoronix.com/news/Supporting-Chromium-Browsers)
 * [2025-01-09, 16:07:17](https://lobste.rs/s/wlc67p/soundness_completeness_defined_with) - [Soundness and Completeness: Defined With Precision [2019]](https://cacm.acm.org/blogcacm/soundness-and-completeness-defined-with-precision/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 20:43:18](https://lobste.rs/s/ptdwul/sql_nulls_are_weird) - [SQL NULLs are Weird](https://jirevwe.github.io/sql-nulls-are-weird.html)
 * [2025-01-09, 20:09:27](https://lobste.rs/s/g4olnq/alloy_6_2_0_released) - [Alloy 6.2.0 released](https://alloytools.discourse.group/t/alloy-6-2-0-released/508)
 * [2025-01-09, 19:56:21](https://lobste.rs/s/rorvp9/worstfit_unveiling_hidden_transformers) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
 * [2025-01-09, 19:35:33](https://lobste.rs/s/zno7ib/tetris_game_inside_pdf) - [A tetris game inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
