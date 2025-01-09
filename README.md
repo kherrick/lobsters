@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 17:53:12](https://lobste.rs/s/gpoygp/google_linux_foundation_launch) - [Google & Linux Foundation Launch \"Supporters of Chromium-Based Browsers\" Fund](https://www.phoronix.com/news/Supporting-Chromium-Browsers)
 * [2025-01-09, 16:07:17](https://lobste.rs/s/wlc67p/soundness_completeness_defined_with) - [Soundness and Completeness: Defined With Precision [2019]](https://cacm.acm.org/blogcacm/soundness-and-completeness-defined-with-precision/)
 * [2025-01-09, 16:03:56](https://lobste.rs/s/mm16it/announcing_rust_1_84_0) - [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
 * [2025-01-09, 15:46:44](https://lobste.rs/s/els8k7/northeastern_s_redesign_khoury) - [Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
@@ -14,7 +15,6 @@
 * [2025-01-09, 09:16:21](https://lobste.rs/s/ebtaxi/case_study_using_javascript_component) - [Case Study — Using a JavaScript component inside a Haskell application](https://blog.haskell.org/case-study-foreign-integration-js-browser/)
 * [2025-01-09, 09:13:13](https://lobste.rs/s/20jb5i/16gb_raspberry_pi_5_available_now) - [16GB Raspberry Pi 5 available now](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 04:51:12](https://lobste.rs/s/vuotsv/things_do_for_new_oils_pub_domain) - [Things To Do For the New oils.pub Domain](https://oils.pub/blog/2025/01/first.html)
-* [2025-01-08, 20:49:47](https://lobste.rs/s/4f69z4/why_go_should_sometimes_be_no_go) - [Why Go Should Sometimes Be a No-Go](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/)
 * [2025-01-08, 20:36:54](https://lobste.rs/s/eld5cs/go_is_well_designed_language_actually) - [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)
 * [2025-01-08, 19:31:50](https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for) - [broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery](https://github.com/densumesh/broccoli)
 * [2025-01-08, 19:05:39](https://lobste.rs/s/f2nbgh/arch_linux_user_repository_requires) - [Arch Linux User Repository Requires Packages To Support x86_64: No ARM-Only Software](https://www.phoronix.com/news/Arch-Linux-AUR-Requires-x86_64)
