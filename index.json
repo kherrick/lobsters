@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-01-09, 14:57:35",
+      "https://lobste.rs/s/j7ufch/simple_trick_understand_ruby_s_lazy"
+    ],
+    [
+      "A simple trick to understand Ruby’s lazy enumerator",
+      "https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 13:11:57",
       "https://lobste.rs/s/vln7dd/process_creation_io_uring"
     ],
@@ -227,16 +237,6 @@
     [
       "SteamOS expands beyond Steam Deck",
       "https://store.steampowered.com/news/app/593110/view/529834914570306831"
-    ]
-  ],
-  [
-    [
-      "2025-01-07, 21:44:44",
-      "https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test"
-    ],
-    [
-      "Why nextest is process-per-test",
-      "https://sunshowers.io/posts/nextest-process-per-test/"
     ]
   ],
   [
