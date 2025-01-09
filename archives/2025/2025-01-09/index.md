@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
 * [2025-01-09, 11:42:08](https://lobste.rs/s/w0u0dr/real_time_chess) - [Real-time chess](https://www.youtube.com/watch?v=y7VtSK23_Jg)
 * [2025-01-09, 10:59:54](https://lobste.rs/s/xmmadn/writing_simple_pool_allocator_c) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)

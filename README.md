@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
 * [2025-01-09, 11:42:08](https://lobste.rs/s/w0u0dr/real_time_chess) - [Real-time chess](https://www.youtube.com/watch?v=y7VtSK23_Jg)
 * [2025-01-09, 10:35:45](https://lobste.rs/s/etalik/standing_on_shoulders_giants_colm_on) - [Standing on the shoulders of giants: Colm on constant work (2023)](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
@@ -14,7 +15,6 @@
 * [2025-01-08, 18:57:48](https://lobste.rs/s/zmm8eg/some_programming_language_ideas) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:53:51](https://lobste.rs/s/hkvgcb/de_smarting_marshall_uxbridge) - [De-smarting the Marshall Uxbridge](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
 * [2025-01-08, 18:36:48](https://lobste.rs/s/zawpsc/if_got_want_simple_way_write_better_go) - [if got, want: A Simple Way to Write Better Go Tests](https://mtlynch.io/if-got-want-improve-go-tests/)
-* [2025-01-08, 17:54:49](https://lobste.rs/s/cx00xc/learning_pyxel_moving_sprites_with_mouse) - [Learning Pyxel: Moving Sprites with the Mouse](https://blog.garambrogne.net/pyxel-bat-en.html)
 * [2025-01-08, 17:43:44](https://lobste.rs/s/hos4tx/bringing_serenityos_real_hardware_one) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
 * [2025-01-08, 16:56:37](https://lobste.rs/s/ln2ber/embedding_scheme_rust) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
