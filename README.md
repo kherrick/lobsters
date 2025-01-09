@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 09:16:21](https://lobste.rs/s/ebtaxi/case_study_using_javascript_component) - [Case Study — Using a JavaScript component inside a Haskell application](https://blog.haskell.org/case-study-foreign-integration-js-browser/)
 * [2025-01-09, 09:13:13](https://lobste.rs/s/20jb5i/16gb_raspberry_pi_5_on_sale_now_at_120) - [16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 04:51:12](https://lobste.rs/s/vuotsv/things_do_for_new_oils_pub_domain) - [Things To Do For the New oils.pub Domain](https://oils.pub/blog/2025/01/first.html)
 * [2025-01-09, 01:08:32](https://lobste.rs/s/oh59fx/ephemerality_user_interfaces) - [Ephemerality in User Interfaces](https://borretti.me/article/ephemerality-in-user-interfaces)
@@ -17,7 +18,6 @@
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 14:22:35](https://lobste.rs/s/7nem2f/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](https://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
-* [2025-01-08, 14:20:26](https://lobste.rs/s/8boba7/mysql_8_4_3_9_1_0_major_performance_gains) - [MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed](https://www.percona.com/blog/mysql-8-4-3-and-9-1-0-major-performance-gains-revealed/)
 * [2025-01-08, 13:10:32](https://lobste.rs/s/4ndvxf/threads_with_webassembly) - [Threads with WebAssembly](https://tonbo.io/blog/threads-with-webassembly)
 * [2025-01-08, 13:05:21](https://lobste.rs/s/crtawu/how_we_cracked_512_bit_dkim_key_for_less) - [How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
