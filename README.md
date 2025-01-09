@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 21:23:32](https://lobste.rs/s/xcqipp/dnsclay_dns_update_axfr_notify_many) - [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
 * [2025-01-09, 20:48:03](https://lobste.rs/s/p7cnbh/end_end_testing_emails) - [End-to-end testing emails](https://blog.wesleyac.com/posts/e2e-testing-email)
 * [2025-01-09, 20:47:52](https://lobste.rs/s/itcnty/ip_over_toslink) - [IP-over-Toslink](https://kittenlabs.de/ip-over-toslink/)
-* [2025-01-09, 20:43:18](https://lobste.rs/s/ptdwul/sql_nulls_are_weird) - [SQL NULLs are Weird](https://jirevwe.github.io/sql-nulls-are-weird.html)
 * [2025-01-09, 20:09:27](https://lobste.rs/s/g4olnq/alloy_6_2_0_released) - [Alloy 6.2.0 released](https://alloytools.discourse.group/t/alloy-6-2-0-released/508)
 * [2025-01-09, 19:56:21](https://lobste.rs/s/rorvp9/worstfit_unveiling_hidden_transformers) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
 * [2025-01-09, 19:21:59](https://lobste.rs/s/3hzo1u/we_spoke_great_expectations_about) - [We spoke to Great Expectations about the library's DX](https://www.youtube.com/watch?v=lryxqciingQ)

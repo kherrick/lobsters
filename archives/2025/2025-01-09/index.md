@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 21:23:32](https://lobste.rs/s/xcqipp/dnsclay_dns_update_axfr_notify_many) - [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
 * [2025-01-09, 20:48:03](https://lobste.rs/s/p7cnbh/end_end_testing_emails) - [End-to-end testing emails](https://blog.wesleyac.com/posts/e2e-testing-email)
 * [2025-01-09, 20:47:52](https://lobste.rs/s/itcnty/ip_over_toslink) - [IP-over-Toslink](https://kittenlabs.de/ip-over-toslink/)
 * [2025-01-09, 20:43:18](https://lobste.rs/s/ptdwul/sql_nulls_are_weird) - [SQL NULLs are Weird](https://jirevwe.github.io/sql-nulls-are-weird.html)
