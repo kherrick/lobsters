@@ -11,7 +11,7 @@
 * [2025-01-09, 10:35:45](https://lobste.rs/s/etalik/standing_on_shoulders_giants_colm_on) - [Standing on the shoulders of giants: Colm on constant work (2023)](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
 * [2025-01-09, 10:06:55](https://lobste.rs/s/llt9nt/name_collision_year_vector) - [Name Collision of the Year: Vector](https://www.crunchydata.com/blog/name-collision-of-the-year-vector)
 * [2025-01-09, 09:16:21](https://lobste.rs/s/ebtaxi/case_study_using_javascript_component) - [Case Study — Using a JavaScript component inside a Haskell application](https://blog.haskell.org/case-study-foreign-integration-js-browser/)
-* [2025-01-09, 09:13:13](https://lobste.rs/s/20jb5i/16gb_raspberry_pi_5_on_sale_now_at_120) - [16GB Raspberry Pi 5 on sale now at $120](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
+* [2025-01-09, 09:13:13](https://lobste.rs/s/20jb5i/16gb_raspberry_pi_5_available_now) - [16GB Raspberry Pi 5 available now](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-09, 04:51:12](https://lobste.rs/s/vuotsv/things_do_for_new_oils_pub_domain) - [Things To Do For the New oils.pub Domain](https://oils.pub/blog/2025/01/first.html)
 * [2025-01-08, 20:49:47](https://lobste.rs/s/4f69z4/why_go_should_sometimes_be_no_go) - [Why Go Should Sometimes Be a No-Go](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/)
 * [2025-01-08, 20:36:54](https://lobste.rs/s/eld5cs/go_is_well_designed_language_actually) - [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)
