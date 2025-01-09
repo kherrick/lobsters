@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-09, 20:48:03",
+      "https://lobste.rs/s/p7cnbh/end_end_testing_emails"
+    ],
+    [
+      "End-to-end testing emails",
+      "https://blog.wesleyac.com/posts/e2e-testing-email"
+    ]
+  ],
+  [
+    [
+      "2025-01-09, 20:47:52",
+      "https://lobste.rs/s/itcnty/ip_over_toslink"
+    ],
+    [
+      "IP-over-Toslink",
+      "https://kittenlabs.de/ip-over-toslink/"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 20:43:18",
       "https://lobste.rs/s/ptdwul/sql_nulls_are_weird"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-01-09, 10:59:54",
-      "https://lobste.rs/s/xmmadn/writing_simple_pool_allocator_c"
-    ],
-    [
-      "Writing a simple pool allocator in C",
-      "https://8dcc.github.io/programming/pool-allocator.html"
-    ]
-  ],
-  [
-    [
       "2025-01-09, 10:35:45",
       "https://lobste.rs/s/etalik/standing_on_shoulders_giants_colm_on"
     ],
@@ -157,16 +167,6 @@
     [
       "Name Collision of the Year: Vector",
       "https://www.crunchydata.com/blog/name-collision-of-the-year-vector"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 09:16:21",
-      "https://lobste.rs/s/ebtaxi/case_study_using_javascript_component"
-    ],
-    [
-      "Case Study — Using a JavaScript component inside a Haskell application",
-      "https://blog.haskell.org/case-study-foreign-integration-js-browser/"
     ]
   ],
   [
