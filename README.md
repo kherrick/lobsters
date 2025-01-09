@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 16:07:17](https://lobste.rs/s/wlc67p/soundness_completeness_defined_with) - [Soundness and Completeness: Defined With Precision [2019]](https://cacm.acm.org/blogcacm/soundness-and-completeness-defined-with-precision/)
+* [2025-01-09, 16:03:56](https://lobste.rs/s/mm16it/announcing_rust_1_84_0) - [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
 * [2025-01-09, 15:46:44](https://lobste.rs/s/els8k7/northeastern_s_redesign_khoury) - [Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
-* [2025-01-09, 14:57:35](https://lobste.rs/s/j7ufch/simple_trick_understand_ruby_s_lazy) - [A simple trick to understand Ruby’s lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-09, 13:11:57](https://lobste.rs/s/vln7dd/process_creation_io_uring) - [Process creation in io_uring](https://lwn.net/Articles/1002371/)
 * [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
@@ -17,7 +18,6 @@
 * [2025-01-08, 19:05:39](https://lobste.rs/s/f2nbgh/arch_linux_user_repository_requires) - [Arch Linux User Repository Requires Packages To Support x86_64: No ARM-Only Software](https://www.phoronix.com/news/Arch-Linux-AUR-Requires-x86_64)
 * [2025-01-08, 18:57:48](https://lobste.rs/s/zmm8eg/some_programming_language_ideas) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 18:53:51](https://lobste.rs/s/hkvgcb/de_smarting_marshall_uxbridge) - [De-smarting the Marshall Uxbridge](https://tomscii.sig7.se/2025/01/De-smarting-the-Marshall-Uxbridge)
-* [2025-01-08, 18:36:48](https://lobste.rs/s/zawpsc/if_got_want_simple_way_write_better_go) - [if got, want: A Simple Way to Write Better Go Tests](https://mtlynch.io/if-got-want-improve-go-tests/)
 * [2025-01-08, 17:43:44](https://lobste.rs/s/hos4tx/bringing_serenityos_real_hardware_one) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
