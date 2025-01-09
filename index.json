@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-09, 14:57:35",
+      "https://lobste.rs/s/j7ufch/simple_trick_understand_ruby_s_lazy"
+    ],
+    [
+      "A simple trick to understand Ruby’s lazy enumerator",
+      "https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 13:11:57",
       "https://lobste.rs/s/vln7dd/process_creation_io_uring"
     ],
@@ -187,16 +197,6 @@
     [
       "Fidget",
       "https://www.mattkeeter.com/projects/fidget/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 13:05:21",
-      "https://lobste.rs/s/crtawu/how_we_cracked_512_bit_dkim_key_for_less"
-    ],
-    [
-      "How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud",
-      "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"
     ]
   ],
   [
