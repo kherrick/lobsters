@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 19:21:59](https://lobste.rs/s/3hzo1u/we_spoke_great_expectations_about) - [We spoke to Great Expectations about the library's DX](https://www.youtube.com/watch?v=lryxqciingQ)
 * [2025-01-09, 17:53:12](https://lobste.rs/s/gpoygp/google_linux_foundation_launch) - [Google & Linux Foundation Launch \"Supporters of Chromium-Based Browsers\" Fund](https://www.phoronix.com/news/Supporting-Chromium-Browsers)
 * [2025-01-09, 16:07:17](https://lobste.rs/s/wlc67p/soundness_completeness_defined_with) - [Soundness and Completeness: Defined With Precision [2019]](https://cacm.acm.org/blogcacm/soundness-and-completeness-defined-with-precision/)
 * [2025-01-09, 16:03:56](https://lobste.rs/s/mm16it/announcing_rust_1_84_0) - [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
