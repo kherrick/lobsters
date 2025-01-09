@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
 * [2025-01-09, 11:42:08](https://lobste.rs/s/w0u0dr/real_time_chess) - [Real-time chess](https://www.youtube.com/watch?v=y7VtSK23_Jg)
 * [2025-01-09, 10:59:54](https://lobste.rs/s/xmmadn/writing_simple_pool_allocator_c) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-09, 10:35:45](https://lobste.rs/s/etalik/standing_on_shoulders_giants_colm_on) - [Standing on the shoulders of giants: Colm on constant work (2023)](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
