@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 23:09:52](https://lobste.rs/s/y4wqnw/google_launches_neutral_chromium) - [Google launches a ‘neutral’ Chromium development fund](https://www.theverge.com/2025/1/9/24340196/google-neutral-chromium-development-fund)
 * [2025-01-09, 22:42:30](https://lobste.rs/s/txkfm4/can_llms_write_better_code_if_you_keep) - [Can LLMs write better code if you keep asking them to “write better code”?](https://minimaxir.com/2025/01/write-better-code/)
 * [2025-01-09, 22:25:34](https://lobste.rs/s/50o86n/shaping_ligatures_monospace_fonts) - [Shaping Ligatures in Monospace Fonts](https://joshleeb.com/posts/monospace-ligatures.html)
 * [2025-01-09, 21:23:32](https://lobste.rs/s/xcqipp/dnsclay_dns_update_axfr_notify_many) - [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
