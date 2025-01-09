@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 14:57:35](https://lobste.rs/s/j7ufch/simple_trick_understand_ruby_s_lazy) - [A simple trick to understand Ruby’s lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-09, 13:11:57](https://lobste.rs/s/vln7dd/process_creation_io_uring) - [Process creation in io_uring](https://lwn.net/Articles/1002371/)
 * [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
@@ -19,7 +20,6 @@
 * [2025-01-08, 16:56:37](https://lobste.rs/s/ln2ber/embedding_scheme_rust) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
-* [2025-01-08, 13:05:21](https://lobste.rs/s/crtawu/how_we_cracked_512_bit_dkim_key_for_less) - [How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-07, 22:49:36](https://lobste.rs/s/atzo7l/steamos_expands_beyond_steam_deck) - [SteamOS expands beyond Steam Deck](https://store.steampowered.com/news/app/593110/view/529834914570306831)
