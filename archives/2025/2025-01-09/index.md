@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 22:25:34](https://lobste.rs/s/50o86n/shaping_ligatures_monospace_fonts) - [Shaping Ligatures in Monospace Fonts](https://joshleeb.com/posts/monospace-ligatures.html)
 * [2025-01-09, 21:23:32](https://lobste.rs/s/xcqipp/dnsclay_dns_update_axfr_notify_many) - [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
 * [2025-01-09, 20:48:03](https://lobste.rs/s/p7cnbh/end_end_testing_emails) - [End-to-end testing emails](https://blog.wesleyac.com/posts/e2e-testing-email)
 * [2025-01-09, 20:47:52](https://lobste.rs/s/itcnty/ip_over_toslink) - [IP-over-Toslink](https://kittenlabs.de/ip-over-toslink/)
