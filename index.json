@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-09, 20:09:27",
+      "https://lobste.rs/s/g4olnq/alloy_6_2_0_released"
+    ],
+    [
+      "Alloy 6.2.0 released",
+      "https://alloytools.discourse.group/t/alloy-6-2-0-released/508"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 19:56:21",
       "https://lobste.rs/s/rorvp9/worstfit_unveiling_hidden_transformers"
     ],
@@ -197,16 +207,6 @@
     [
       "broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery",
       "https://github.com/densumesh/broccoli"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 19:05:39",
-      "https://lobste.rs/s/f2nbgh/arch_linux_user_repository_requires"
-    ],
-    [
-      "Arch Linux User Repository Requires Packages To Support x86_64: No ARM-Only Software",
-      "https://www.phoronix.com/news/Arch-Linux-AUR-Requires-x86_64"
     ]
   ],
   [
