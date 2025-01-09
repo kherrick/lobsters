@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 20:09:27](https://lobste.rs/s/g4olnq/alloy_6_2_0_released) - [Alloy 6.2.0 released](https://alloytools.discourse.group/t/alloy-6-2-0-released/508)
 * [2025-01-09, 19:56:21](https://lobste.rs/s/rorvp9/worstfit_unveiling_hidden_transformers) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
 * [2025-01-09, 19:35:33](https://lobste.rs/s/zno7ib/tetris_game_inside_pdf) - [A tetris game inside a PDF](https://th0mas.nl/downloads/pdftris.pdf)
 * [2025-01-09, 19:21:59](https://lobste.rs/s/3hzo1u/we_spoke_great_expectations_about) - [We spoke to Great Expectations about the library's DX](https://www.youtube.com/watch?v=lryxqciingQ)
@@ -20,7 +21,6 @@
 * [2025-01-09, 04:51:12](https://lobste.rs/s/vuotsv/things_do_for_new_oils_pub_domain) - [Things To Do For the New oils.pub Domain](https://oils.pub/blog/2025/01/first.html)
 * [2025-01-08, 20:36:54](https://lobste.rs/s/eld5cs/go_is_well_designed_language_actually) - [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)
 * [2025-01-08, 19:31:50](https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for) - [broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery](https://github.com/densumesh/broccoli)
-* [2025-01-08, 19:05:39](https://lobste.rs/s/f2nbgh/arch_linux_user_repository_requires) - [Arch Linux User Repository Requires Packages To Support x86_64: No ARM-Only Software](https://www.phoronix.com/news/Arch-Linux-AUR-Requires-x86_64)
 * [2025-01-08, 18:57:48](https://lobste.rs/s/zmm8eg/some_programming_language_ideas) - [Some Programming Language Ideas](https://jerf.org/iri/post/2025/programming_language_ideas/)
 * [2025-01-08, 17:43:44](https://lobste.rs/s/hos4tx/bringing_serenityos_real_hardware_one) - [Bringing SerenityOS to real hardware, one driver at a time](https://sdomi.pl/weblog/23-serenityos-realhw/)
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
