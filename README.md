@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-08, 23:32:39](https://lobste.rs/s/wrgdm5/renderling_year_review_2024) - [Renderling - Year in Review - 2024](https://renderling.xyz/articles/year_in_review_2024.html)
+* [2025-01-09, 04:51:12](https://lobste.rs/s/vuotsv/things_do_for_new_oils_pub_domain) - [Things To Do For the New oils.pub Domain](https://oils.pub/blog/2025/01/first.html)
 * [2025-01-08, 21:16:02](https://lobste.rs/s/dpmxhj/no_op_compiler_benchmarking) - [No-op compiler benchmarking](https://scot.tg/2025/01/07/no-op-compiler-benchmarking/)
 * [2025-01-08, 20:49:47](https://lobste.rs/s/4f69z4/why_go_should_sometimes_be_no_go) - [Why Go Should Sometimes Be a No-Go](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/)
 * [2025-01-08, 20:36:54](https://lobste.rs/s/eld5cs/go_is_well_designed_language_actually) - [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)
