@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-09, 01:08:32",
+      "https://lobste.rs/s/oh59fx/ephemerality_user_interfaces"
+    ],
+    [
+      "Ephemerality in User Interfaces",
+      "https://borretti.me/article/ephemerality-in-user-interfaces"
+    ]
+  ],
+  [
+    [
       "2025-01-08, 21:16:02",
       "https://lobste.rs/s/dpmxhj/no_op_compiler_benchmarking"
     ],
@@ -177,16 +187,6 @@
     [
       "How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud",
       "https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 10:08:01",
-      "https://lobste.rs/s/fv4p2u/empirical_study_rust_for_linux_success"
-    ],
-    [
-      "An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)",
-      "https://www.usenix.org/system/files/atc24-li-hongyu.pdf"
     ]
   ],
   [
