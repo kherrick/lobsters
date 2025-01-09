@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 10:59:54](https://lobste.rs/s/xmmadn/writing_simple_pool_allocator_c) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-09, 10:35:45](https://lobste.rs/s/etalik/standing_on_shoulders_giants_colm_on) - [Standing on the shoulders of giants: Colm on constant work (2023)](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
 * [2025-01-09, 10:06:55](https://lobste.rs/s/llt9nt/name_collision_year_vector) - [Name Collision of the Year: Vector](https://www.crunchydata.com/blog/name-collision-of-the-year-vector)
 * [2025-01-09, 09:16:21](https://lobste.rs/s/ebtaxi/case_study_using_javascript_component) - [Case Study — Using a JavaScript component inside a Haskell application](https://blog.haskell.org/case-study-foreign-integration-js-browser/)
@@ -18,7 +19,6 @@
 * [2025-01-08, 16:56:37](https://lobste.rs/s/ln2ber/embedding_scheme_rust) - [Embedding Scheme in Rust](https://raviqqe.com/doc/posts/stak/embedding-scheme-in-rust/)
 * [2025-01-08, 16:22:58](https://lobste.rs/s/nud35g/sqlite_archive_files) - [SQLite Archive Files](https://www.sqlite.org/sqlar.html)
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
-* [2025-01-08, 14:22:35](https://lobste.rs/s/7nem2f/antenna_diodes_pentium_processor) - [Antenna diodes in the Pentium processor](https://www.righto.com/2024/11/antenna-diodes-in-pentium-processor.html)
 * [2025-01-08, 13:05:21](https://lobste.rs/s/crtawu/how_we_cracked_512_bit_dkim_key_for_less) - [How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
 * [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)

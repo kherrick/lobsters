@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 10:59:54](https://lobste.rs/s/xmmadn/writing_simple_pool_allocator_c) - [Writing a simple pool allocator in C](https://8dcc.github.io/programming/pool-allocator.html)
 * [2025-01-09, 10:35:45](https://lobste.rs/s/etalik/standing_on_shoulders_giants_colm_on) - [Standing on the shoulders of giants: Colm on constant work (2023)](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
 * [2025-01-09, 10:06:55](https://lobste.rs/s/llt9nt/name_collision_year_vector) - [Name Collision of the Year: Vector](https://www.crunchydata.com/blog/name-collision-of-the-year-vector)
 * [2025-01-09, 09:16:21](https://lobste.rs/s/ebtaxi/case_study_using_javascript_component) - [Case Study — Using a JavaScript component inside a Haskell application](https://blog.haskell.org/case-study-foreign-integration-js-browser/)
