@@ -3,6 +3,7 @@
 * [2025-01-09, 16:07:17](https://lobste.rs/s/wlc67p/soundness_completeness_defined_with) - [Soundness and Completeness: Defined With Precision [2019]](https://cacm.acm.org/blogcacm/soundness-and-completeness-defined-with-precision/)
 * [2025-01-09, 16:03:56](https://lobste.rs/s/mm16it/announcing_rust_1_84_0) - [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
 * [2025-01-09, 15:46:44](https://lobste.rs/s/els8k7/northeastern_s_redesign_khoury) - [Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
+* [2025-01-09, 14:57:35](https://lobste.rs/s/j7ufch/simple_trick_understand_ruby_s_lazy) - [A simple trick to understand Ruby’s lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-09, 13:11:57](https://lobste.rs/s/vln7dd/process_creation_io_uring) - [Process creation in io_uring](https://lwn.net/Articles/1002371/)
 * [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
@@ -23,7 +24,6 @@
 * [2025-01-08, 14:29:33](https://lobste.rs/s/8ztylp/fidget) - [Fidget](https://www.mattkeeter.com/projects/fidget/)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-07, 22:49:36](https://lobste.rs/s/atzo7l/steamos_expands_beyond_steam_deck) - [SteamOS expands beyond Steam Deck](https://store.steampowered.com/news/app/593110/view/529834914570306831)
-* [2025-01-07, 21:44:44](https://lobste.rs/s/bnjeid/why_nextest_is_process_per_test) - [Why nextest is process-per-test](https://sunshowers.io/posts/nextest-process-per-test/)
 * [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 
 ## [Archives](archives/index.md)
