@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-09, 04:51:12](https://lobste.rs/s/vuotsv/things_do_for_new_oils_pub_domain) - [Things To Do For the New oils.pub Domain](https://oils.pub/blog/2025/01/first.html)
+* [2025-01-09, 01:08:32](https://lobste.rs/s/oh59fx/ephemerality_user_interfaces) - [Ephemerality in User Interfaces](https://borretti.me/article/ephemerality-in-user-interfaces)
 * [2025-01-08, 21:16:02](https://lobste.rs/s/dpmxhj/no_op_compiler_benchmarking) - [No-op compiler benchmarking](https://scot.tg/2025/01/07/no-op-compiler-benchmarking/)
 * [2025-01-08, 20:49:47](https://lobste.rs/s/4f69z4/why_go_should_sometimes_be_no_go) - [Why Go Should Sometimes Be a No-Go](https://brainbaking.com/post/2024/12/why-go-should-sometimes-be-a-no-go/)
 * [2025-01-08, 20:36:54](https://lobste.rs/s/eld5cs/go_is_well_designed_language_actually) - [Go is a Well-Designed Language, Actually](https://mattjhall.co.uk/posts/go-is-well-designed-actually.html)
@@ -18,7 +19,6 @@
 * [2025-01-08, 14:20:26](https://lobste.rs/s/8boba7/mysql_8_4_3_9_1_0_major_performance_gains) - [MySQL 8.4.3 and 9.1.0: Major Performance Gains Revealed](https://www.percona.com/blog/mysql-8-4-3-and-9-1-0-major-performance-gains-revealed/)
 * [2025-01-08, 13:10:32](https://lobste.rs/s/4ndvxf/threads_with_webassembly) - [Threads with WebAssembly](https://tonbo.io/blog/threads-with-webassembly)
 * [2025-01-08, 13:05:21](https://lobste.rs/s/crtawu/how_we_cracked_512_bit_dkim_key_for_less) - [How We Cracked a 512-Bit DKIM Key for Less Than $8 in the Cloud](https://dmarcchecker.app/articles/crack-512-bit-dkim-rsa-key)
-* [2025-01-08, 10:08:01](https://lobste.rs/s/fv4p2u/empirical_study_rust_for_linux_success) - [An Empirical Study of Rust-for-Linux: The Success, Dissatisfaction, and Compromise (2024)](https://www.usenix.org/system/files/atc24-li-hongyu.pdf)
 * [2025-01-08, 09:39:53](https://lobste.rs/s/6jebmo/installing_nixos_with_latest_kernel) - [Installing NixOS with the latest kernel](https://silky.github.io/posts/nixos-latest-kernel.html)
 * [2025-01-08, 09:33:41](https://lobste.rs/s/c5co73/operating_system_1_000_lines) - [Operating System in 1,000 Lines](https://operating-system-in-1000-lines.vercel.app/en)
 * [2025-01-07, 22:49:36](https://lobste.rs/s/atzo7l/steamos_expands_beyond_steam_deck) - [SteamOS expands beyond Steam Deck](https://store.steampowered.com/news/app/593110/view/529834914570306831)
