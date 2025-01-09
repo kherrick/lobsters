@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-09, 13:11:57](https://lobste.rs/s/vln7dd/process_creation_io_uring) - [Process creation in io_uring](https://lwn.net/Articles/1002371/)
 * [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
-* [2025-01-09, 11:42:08](https://lobste.rs/s/w0u0dr/real_time_chess) - [Real-time chess](https://www.youtube.com/watch?v=y7VtSK23_Jg)
 * [2025-01-09, 10:35:45](https://lobste.rs/s/etalik/standing_on_shoulders_giants_colm_on) - [Standing on the shoulders of giants: Colm on constant work (2023)](https://www.allthingsdistributed.com/2023/11/standing-on-the-shoulders-of-giants-colm-on-constant-work.html)
 * [2025-01-09, 10:06:55](https://lobste.rs/s/llt9nt/name_collision_year_vector) - [Name Collision of the Year: Vector](https://www.crunchydata.com/blog/name-collision-of-the-year-vector)
 * [2025-01-09, 09:16:21](https://lobste.rs/s/ebtaxi/case_study_using_javascript_component) - [Case Study — Using a JavaScript component inside a Haskell application](https://blog.haskell.org/case-study-foreign-integration-js-browser/)
