@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-09](index.md)
 
+* [2025-01-09, 15:46:44](https://lobste.rs/s/els8k7/northeastern_s_redesign_khoury) - [Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
 * [2025-01-09, 14:57:35](https://lobste.rs/s/j7ufch/simple_trick_understand_ruby_s_lazy) - [A simple trick to understand Ruby’s lazy enumerator](https://joyofrails.com/articles/simple-trick-to-understand-ruby-lazy-enumerator)
 * [2025-01-09, 13:11:57](https://lobste.rs/s/vln7dd/process_creation_io_uring) - [Process creation in io_uring](https://lwn.net/Articles/1002371/)
 * [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
