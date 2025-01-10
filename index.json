@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-01-10, 04:13:22",
+      "https://lobste.rs/s/zgcnqe/tactility"
+    ],
+    [
+      "Tactility",
+      "https://tactility.one/"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 04:07:48",
       "https://lobste.rs/s/zrvrrm/how_honeybadger_migrated_from_sidekiq"
     ],
@@ -227,16 +237,6 @@
     [
       "broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery",
       "https://github.com/densumesh/broccoli"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 18:57:48",
-      "https://lobste.rs/s/zmm8eg/some_programming_language_ideas"
-    ],
-    [
-      "Some Programming Language Ideas",
-      "https://jerf.org/iri/post/2025/programming_language_ideas/"
     ]
   ],
   [
