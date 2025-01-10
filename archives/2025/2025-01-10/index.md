@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 10:31:43](https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 08:09:43](https://lobste.rs/s/apllwo/release_ucm_desktop_v1_0_0) - [Release UCM Desktop v1.0.0](https://github.com/unisonweb/ucm-desktop/releases/tag/app-v1.0.0)
 * [2025-01-10, 05:12:34](https://lobste.rs/s/b20vrz/comptime_as_configuration) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
 * [2025-01-10, 04:32:10](https://lobste.rs/s/o4y0vy/designing_code_for_forward_progress) - [Designing Code For Forward Progress](https://rtpg.co/2025/01/10/designing-for-forward-progress/)

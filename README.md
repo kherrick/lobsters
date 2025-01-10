@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-10, 10:31:43](https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 08:09:43](https://lobste.rs/s/apllwo/release_ucm_desktop_v1_0_0) - [Release UCM Desktop v1.0.0](https://github.com/unisonweb/ucm-desktop/releases/tag/app-v1.0.0)
 * [2025-01-10, 05:12:34](https://lobste.rs/s/b20vrz/comptime_as_configuration) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
 * [2025-01-10, 04:32:10](https://lobste.rs/s/o4y0vy/designing_code_for_forward_progress) - [Designing Code For Forward Progress](https://rtpg.co/2025/01/10/designing-for-forward-progress/)
@@ -18,7 +19,6 @@
 * [2025-01-09, 17:53:12](https://lobste.rs/s/gpoygp/google_linux_foundation_launch) - [Google & Linux Foundation Launch \"Supporters of Chromium-Based Browsers\" Fund](https://www.phoronix.com/news/Supporting-Chromium-Browsers)
 * [2025-01-09, 16:03:56](https://lobste.rs/s/mm16it/announcing_rust_1_84_0) - [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
 * [2025-01-09, 15:46:44](https://lobste.rs/s/els8k7/northeastern_s_redesign_khoury) - [Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
-* [2025-01-09, 13:11:57](https://lobste.rs/s/vln7dd/process_creation_io_uring) - [Process creation in io_uring](https://lwn.net/Articles/1002371/)
 * [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
 * [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
 * [2025-01-09, 10:06:55](https://lobste.rs/s/llt9nt/name_collision_year_vector) - [Name Collision of the Year: Vector](https://www.crunchydata.com/blog/name-collision-of-the-year-vector)
