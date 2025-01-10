@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-10, 18:58:02",
+      "https://lobste.rs/s/rnti2j/highlights_from_git_2_48"
+    ],
+    [
+      "Highlights from Git 2.48",
+      "https://github.blog/open-source/git/highlights-from-git-2-48/"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 18:26:36",
       "https://lobste.rs/s/gjo5a4/bad_apple_it_s_6_500_regexes_i_search_for_vim"
     ],
@@ -137,16 +147,6 @@
     [
       "Designing Code For Forward Progress",
       "https://rtpg.co/2025/01/10/designing-for-forward-progress/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 04:07:48",
-      "https://lobste.rs/s/zrvrrm/how_honeybadger_migrated_from_sidekiq"
-    ],
-    [
-      "How Honeybadger migrated from Sidekiq to Karafka",
-      "https://www.honeybadger.io/blog/sidekiq-to-karafka/"
     ]
   ],
   [
