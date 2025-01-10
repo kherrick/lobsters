@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-10, 08:09:43",
+      "https://lobste.rs/s/apllwo/release_ucm_desktop_v1_0_0"
+    ],
+    [
+      "Release UCM Desktop v1.0.0",
+      "https://github.com/unisonweb/ucm-desktop/releases/tag/app-v1.0.0"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 05:12:34",
       "https://lobste.rs/s/b20vrz/comptime_as_configuration"
     ],
@@ -207,16 +217,6 @@
     [
       "16GB Raspberry Pi 5 available now",
       "https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 20:36:54",
-      "https://lobste.rs/s/eld5cs/go_is_well_designed_language_actually"
-    ],
-    [
-      "Go is a Well-Designed Language, Actually",
-      "https://mattjhall.co.uk/posts/go-is-well-designed-actually.html"
     ]
   ],
   [
