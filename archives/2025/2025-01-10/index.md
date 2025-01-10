@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 05:12:34](https://lobste.rs/s/b20vrz/comptime_as_configuration) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
 * [2025-01-10, 04:32:10](https://lobste.rs/s/o4y0vy/designing_code_for_forward_progress) - [Designing Code For Forward Progress](https://rtpg.co/2025/01/10/designing-for-forward-progress/)
 * [2025-01-10, 04:13:22](https://lobste.rs/s/zgcnqe/tactility) - [Tactility](https://tactility.one/)
 * [2025-01-10, 04:07:48](https://lobste.rs/s/zrvrrm/how_honeybadger_migrated_from_sidekiq) - [How Honeybadger migrated from Sidekiq to Karafka](https://www.honeybadger.io/blog/sidekiq-to-karafka/)
