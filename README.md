@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-10, 22:51:37](https://lobste.rs/s/kwx0zv/building_bauble) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
+* [2025-01-10, 21:52:59](https://lobste.rs/s/oohlhb/how_miscompile_programs_with_benign_data) - [How to miscompile programs with “benign” data races](https://www.usenix.org/legacy/events/hotpar11/tech/final_files/Boehm.pdf)
 * [2025-01-10, 21:02:04](https://lobste.rs/s/tsqfmk/replicated_kv_store_rust_using_shared_log) - [Replicated KV store in Rust using a shared log service](https://s2.dev/blog/kv-store)
 * [2025-01-10, 20:57:43](https://lobste.rs/s/58azyy/why_is_hash_1_hash_2_python) - [Why is hash(-1) == hash(-2) in Python?](https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/)
 * [2025-01-10, 20:14:12](https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know) - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
@@ -15,10 +17,8 @@
 * [2025-01-10, 14:37:59](https://lobste.rs/s/3gf1rn/tech_jobs_radar) - [Tech Jobs Radar](https://jobs-radar.com/)
 * [2025-01-10, 12:29:24](https://lobste.rs/s/m6dhzl/this_month_servo_dark_mode_keyword_sizes) - [This month in Servo: dark mode, keyword sizes, XPath, and more](https://servo.org/blog/2025/01/10/this-month-in-servo/)
 * [2025-01-10, 11:13:35](https://lobste.rs/s/aw3kgq/portals_quake) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
-* [2025-01-10, 11:00:39](https://lobste.rs/s/ekt5sx/homa_network_protocol_2024) - [The Homa network protocol (2024)](https://lwn.net/SubscriberLink/1003059/88de7de452e3796f/)
 * [2025-01-10, 10:31:43](https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 08:09:43](https://lobste.rs/s/apllwo/release_ucm_desktop_v1_0_0) - [Release UCM Desktop v1.0.0](https://github.com/unisonweb/ucm-desktop/releases/tag/app-v1.0.0)
-* [2025-01-10, 05:12:34](https://lobste.rs/s/b20vrz/comptime_as_configuration) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
 * [2025-01-10, 04:32:10](https://lobste.rs/s/o4y0vy/designing_code_for_forward_progress) - [Designing Code For Forward Progress](https://rtpg.co/2025/01/10/designing-for-forward-progress/)
 * [2025-01-10, 03:10:09](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known) - [Why isn't `__attribute__((cleanup(...)))` more known?](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known)
 * [2025-01-10, 01:26:13](https://lobste.rs/s/rmoivx/pushing_whole_company_into_past_on) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)

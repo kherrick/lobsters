@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 22:51:37](https://lobste.rs/s/kwx0zv/building_bauble) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
+* [2025-01-10, 21:52:59](https://lobste.rs/s/oohlhb/how_miscompile_programs_with_benign_data) - [How to miscompile programs with “benign” data races](https://www.usenix.org/legacy/events/hotpar11/tech/final_files/Boehm.pdf)
 * [2025-01-10, 21:02:04](https://lobste.rs/s/tsqfmk/replicated_kv_store_rust_using_shared_log) - [Replicated KV store in Rust using a shared log service](https://s2.dev/blog/kv-store)
 * [2025-01-10, 20:57:43](https://lobste.rs/s/58azyy/why_is_hash_1_hash_2_python) - [Why is hash(-1) == hash(-2) in Python?](https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/)
 * [2025-01-10, 20:14:12](https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know) - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
