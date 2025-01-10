@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-10, 21:02:04",
+      "https://lobste.rs/s/tsqfmk/replicated_kv_store_rust_using_shared_log"
+    ],
+    [
+      "Replicated KV store in Rust using a shared log service",
+      "https://s2.dev/blog/kv-store"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 20:57:43",
       "https://lobste.rs/s/58azyy/why_is_hash_1_hash_2_python"
     ],
@@ -237,16 +247,6 @@
     [
       "Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science",
       "https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 12:15:38",
-      "https://lobste.rs/s/ywbevj/not_every_user_owns_iphone"
-    ],
-    [
-      "Not every user owns an iPhone",
-      "https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/"
     ]
   ]
 ]
