@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-10, 14:37:59](https://lobste.rs/s/3gf1rn/tech_jobs_radar) - [Tech Jobs Radar](https://jobs-radar.com/)
 * [2025-01-10, 12:29:24](https://lobste.rs/s/m6dhzl/this_month_servo_dark_mode_keyword_sizes) - [This month in Servo: dark mode, keyword sizes, XPath, and more](https://servo.org/blog/2025/01/10/this-month-in-servo/)
 * [2025-01-10, 11:13:35](https://lobste.rs/s/aw3kgq/portals_quake) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 * [2025-01-10, 11:00:39](https://lobste.rs/s/ekt5sx/homa_network_protocol_2024) - [The Homa network protocol (2024)](https://lwn.net/SubscriberLink/1003059/88de7de452e3796f/)
@@ -24,7 +25,6 @@
 * [2025-01-09, 12:15:38](https://lobste.rs/s/ywbevj/not_every_user_owns_iphone) - [Not every user owns an iPhone](https://calendar.perfplanet.com/2024/not-every-user-owns-an-iphone/)
 * [2025-01-09, 09:13:13](https://lobste.rs/s/20jb5i/16gb_raspberry_pi_5_available_now) - [16GB Raspberry Pi 5 available now](https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/)
 * [2025-01-08, 19:31:50](https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for) - [broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery](https://github.com/densumesh/broccoli)
-* [2025-01-07, 05:47:31](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with) - [UK Users: Lobsters needs your help with the Online Safety Act](https://lobste.rs/s/ukosa1/uk_users_lobsters_needs_your_help_with)
 
 ## [Archives](archives/index.md)
 

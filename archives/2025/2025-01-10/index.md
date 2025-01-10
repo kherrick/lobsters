@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 14:37:59](https://lobste.rs/s/3gf1rn/tech_jobs_radar) - [Tech Jobs Radar](https://jobs-radar.com/)
 * [2025-01-10, 12:29:24](https://lobste.rs/s/m6dhzl/this_month_servo_dark_mode_keyword_sizes) - [This month in Servo: dark mode, keyword sizes, XPath, and more](https://servo.org/blog/2025/01/10/this-month-in-servo/)
 * [2025-01-10, 11:13:35](https://lobste.rs/s/aw3kgq/portals_quake) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 * [2025-01-10, 11:00:39](https://lobste.rs/s/ekt5sx/homa_network_protocol_2024) - [The Homa network protocol (2024)](https://lwn.net/SubscriberLink/1003059/88de7de452e3796f/)
