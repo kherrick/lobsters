@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
+* [2025-01-10, 18:58:02](https://lobste.rs/s/rnti2j/highlights_from_git_2_48) - [Highlights from Git 2.48](https://github.blog/open-source/git/highlights-from-git-2-48/)
 * [2025-01-10, 18:26:36](https://lobste.rs/s/gjo5a4/bad_apple_it_s_6_500_regexes_i_search_for_vim) - [Bad Apple but it's 6,500 regexes that I search for in vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-10, 16:30:11](https://lobste.rs/s/ayt2ry/stop_trying_schedule_call_with_me) - [Stop Trying To Schedule A Call With Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
@@ -14,7 +15,6 @@
 * [2025-01-10, 08:09:43](https://lobste.rs/s/apllwo/release_ucm_desktop_v1_0_0) - [Release UCM Desktop v1.0.0](https://github.com/unisonweb/ucm-desktop/releases/tag/app-v1.0.0)
 * [2025-01-10, 05:12:34](https://lobste.rs/s/b20vrz/comptime_as_configuration) - [Comptime as Configuration](https://www.openmymind.net/Comptime-as-Configuration/)
 * [2025-01-10, 04:32:10](https://lobste.rs/s/o4y0vy/designing_code_for_forward_progress) - [Designing Code For Forward Progress](https://rtpg.co/2025/01/10/designing-for-forward-progress/)
-* [2025-01-10, 04:07:48](https://lobste.rs/s/zrvrrm/how_honeybadger_migrated_from_sidekiq) - [How Honeybadger migrated from Sidekiq to Karafka](https://www.honeybadger.io/blog/sidekiq-to-karafka/)
 * [2025-01-10, 03:10:09](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known) - [Why isn't `__attribute__((cleanup(...)))` more known?](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known)
 * [2025-01-10, 01:26:13](https://lobste.rs/s/rmoivx/pushing_whole_company_into_past_on) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 21:23:32](https://lobste.rs/s/xcqipp/dnsclay_dns_update_axfr_notify_many) - [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
