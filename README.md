@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
 * [2025-01-10, 18:26:36](https://lobste.rs/s/gjo5a4/bad_apple_it_s_6_500_regexes_i_search_for_vim) - [Bad Apple but it's 6,500 regexes that I search for in vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-10, 16:30:11](https://lobste.rs/s/ayt2ry/stop_trying_schedule_call_with_me) - [Stop Trying To Schedule A Call With Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
@@ -17,7 +18,6 @@
 * [2025-01-10, 03:10:09](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known) - [Why isn't `__attribute__((cleanup(...)))` more known?](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known)
 * [2025-01-10, 01:26:13](https://lobste.rs/s/rmoivx/pushing_whole_company_into_past_on) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 21:23:32](https://lobste.rs/s/xcqipp/dnsclay_dns_update_axfr_notify_many) - [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
-* [2025-01-09, 20:48:03](https://lobste.rs/s/p7cnbh/end_end_testing_emails) - [End-to-end testing emails](https://blog.wesleyac.com/posts/e2e-testing-email)
 * [2025-01-09, 20:47:52](https://lobste.rs/s/itcnty/ip_over_toslink) - [IP-over-Toslink](https://kittenlabs.de/ip-over-toslink/)
 * [2025-01-09, 20:09:27](https://lobste.rs/s/g4olnq/alloy_6_2_0_released) - [Alloy 6.2.0 released](https://alloytools.discourse.group/t/alloy-6-2-0-released/508)
 * [2025-01-09, 16:03:56](https://lobste.rs/s/mm16it/announcing_rust_1_84_0) - [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
