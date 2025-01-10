@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-10, 03:23:28",
+      "https://lobste.rs/s/xhry3l/trying_failing_interpret_sentence"
+    ],
+    [
+      "Trying and failing to interpret sentence embeddings",
+      "https://timbrell.dev/ai/2025/01/09/trying-and-failing-to-interpret-embeddings.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-10, 03:10:09",
+      "https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known"
+    ],
+    [
+      "Why isn't `__attribute__((cleanup(...)))` more known?",
+      "https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 01:26:13",
       "https://lobste.rs/s/rmoivx/pushing_whole_company_into_past_on"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-01-09, 04:51:12",
-      "https://lobste.rs/s/vuotsv/things_do_for_new_oils_pub_domain"
-    ],
-    [
-      "Things To Do For the New oils.pub Domain",
-      "https://oils.pub/blog/2025/01/first.html"
-    ]
-  ],
-  [
-    [
       "2025-01-08, 20:36:54",
       "https://lobste.rs/s/eld5cs/go_is_well_designed_language_actually"
     ],
@@ -227,16 +237,6 @@
     [
       "Bringing SerenityOS to real hardware, one driver at a time",
       "https://sdomi.pl/weblog/23-serenityos-realhw/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 16:22:58",
-      "https://lobste.rs/s/nud35g/sqlite_archive_files"
-    ],
-    [
-      "SQLite Archive Files",
-      "https://www.sqlite.org/sqlar.html"
     ]
   ],
   [
