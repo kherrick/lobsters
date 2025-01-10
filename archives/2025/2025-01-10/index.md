@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-10, 16:30:11](https://lobste.rs/s/ayt2ry/stop_trying_schedule_call_with_me) - [Stop Trying To Schedule A Call With Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-10, 15:55:25](https://lobste.rs/s/hgzpqw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hgzpqw/what_are_you_doing_this_weekend)
 * [2025-01-10, 15:21:04](https://lobste.rs/s/jhx7w8/forecast_is_clear_clouds_on_esp32_powered) - [The forecast is clear: clouds on ESP32 powered e-paper, powered by the cloud](https://blog.cloudflare.com/the-forecast-is-clear-clouds-on-e-paper-powered-by-the-cloud/)

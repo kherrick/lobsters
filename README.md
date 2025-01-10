@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-10, 16:30:11](https://lobste.rs/s/ayt2ry/stop_trying_schedule_call_with_me) - [Stop Trying To Schedule A Call With Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-10, 15:55:25](https://lobste.rs/s/hgzpqw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hgzpqw/what_are_you_doing_this_weekend)
 * [2025-01-10, 15:21:04](https://lobste.rs/s/jhx7w8/forecast_is_clear_clouds_on_esp32_powered) - [The forecast is clear: clouds on ESP32 powered e-paper, powered by the cloud](https://blog.cloudflare.com/the-forecast-is-clear-clouds-on-e-paper-powered-by-the-cloud/)
@@ -19,7 +20,6 @@
 * [2025-01-09, 20:47:52](https://lobste.rs/s/itcnty/ip_over_toslink) - [IP-over-Toslink](https://kittenlabs.de/ip-over-toslink/)
 * [2025-01-09, 20:09:27](https://lobste.rs/s/g4olnq/alloy_6_2_0_released) - [Alloy 6.2.0 released](https://alloytools.discourse.group/t/alloy-6-2-0-released/508)
 * [2025-01-09, 19:56:21](https://lobste.rs/s/rorvp9/worstfit_unveiling_hidden_transformers) - [WorstFit: Unveiling Hidden Transformers in Windows ANSI](https://blog.orange.tw/posts/2025-01-worstfit-unveiling-hidden-transformers-in-windows-ansi/)
-* [2025-01-09, 17:53:12](https://lobste.rs/s/gpoygp/google_linux_foundation_launch) - [Google & Linux Foundation Launch \"Supporters of Chromium-Based Browsers\" Fund](https://www.phoronix.com/news/Supporting-Chromium-Browsers)
 * [2025-01-09, 16:03:56](https://lobste.rs/s/mm16it/announcing_rust_1_84_0) - [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
 * [2025-01-09, 15:46:44](https://lobste.rs/s/els8k7/northeastern_s_redesign_khoury) - [Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
 * [2025-01-09, 12:45:25](https://lobste.rs/s/w7pg86/pixel_parable) - [A Pixel Parable](https://olano.dev/blog/a-pixel-parable/)
