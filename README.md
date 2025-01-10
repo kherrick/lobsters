@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-10, 16:30:11](https://lobste.rs/s/ayt2ry/stop_trying_schedule_call_with_me) - [Stop Trying To Schedule A Call With Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-10, 15:55:25](https://lobste.rs/s/hgzpqw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hgzpqw/what_are_you_doing_this_weekend)
 * [2025-01-10, 15:21:04](https://lobste.rs/s/jhx7w8/forecast_is_clear_clouds_on_esp32_powered) - [The forecast is clear: clouds on ESP32 powered e-paper, powered by the cloud](https://blog.cloudflare.com/the-forecast-is-clear-clouds-on-e-paper-powered-by-the-cloud/)
 * [2025-01-10, 14:37:59](https://lobste.rs/s/3gf1rn/tech_jobs_radar) - [Tech Jobs Radar](https://jobs-radar.com/)
@@ -13,7 +14,6 @@
 * [2025-01-10, 04:07:48](https://lobste.rs/s/zrvrrm/how_honeybadger_migrated_from_sidekiq) - [How Honeybadger migrated from Sidekiq to Karafka](https://www.honeybadger.io/blog/sidekiq-to-karafka/)
 * [2025-01-10, 03:10:09](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known) - [Why isn't `__attribute__((cleanup(...)))` more known?](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known)
 * [2025-01-10, 01:26:13](https://lobste.rs/s/rmoivx/pushing_whole_company_into_past_on) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
-* [2025-01-09, 22:25:34](https://lobste.rs/s/50o86n/shaping_ligatures_monospace_fonts) - [Shaping Ligatures in Monospace Fonts](https://joshleeb.com/posts/monospace-ligatures.html)
 * [2025-01-09, 21:23:32](https://lobste.rs/s/xcqipp/dnsclay_dns_update_axfr_notify_many) - [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
 * [2025-01-09, 20:48:03](https://lobste.rs/s/p7cnbh/end_end_testing_emails) - [End-to-end testing emails](https://blog.wesleyac.com/posts/e2e-testing-email)
 * [2025-01-09, 20:47:52](https://lobste.rs/s/itcnty/ip_over_toslink) - [IP-over-Toslink](https://kittenlabs.de/ip-over-toslink/)
