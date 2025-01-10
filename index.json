@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-01-09, 22:42:30",
+      "https://lobste.rs/s/txkfm4/can_llms_write_better_code_if_you_keep"
+    ],
+    [
+      "Can LLMs write better code if you keep asking them to “write better code”?",
+      "https://minimaxir.com/2025/01/write-better-code/"
+    ]
+  ],
+  [
+    [
       "2025-01-09, 22:25:34",
       "https://lobste.rs/s/50o86n/shaping_ligatures_monospace_fonts"
     ],
@@ -237,16 +247,6 @@
     [
       "16GB Raspberry Pi 5 available now",
       "https://www.raspberrypi.com/news/16gb-raspberry-pi-5-on-sale-now-at-120/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 19:31:50",
-      "https://lobste.rs/s/abayld/broccoli_robust_message_queue_system_for"
-    ],
-    [
-      "broccoli: A robust message queue system for Rust applications, designed as a Rust alternative to Celery",
-      "https://github.com/densumesh/broccoli"
     ]
   ]
 ]
