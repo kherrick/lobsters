@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-10, 04:07:48",
+      "https://lobste.rs/s/zrvrrm/how_honeybadger_migrated_from_sidekiq"
+    ],
+    [
+      "How Honeybadger migrated from Sidekiq to Karafka",
+      "https://www.honeybadger.io/blog/sidekiq-to-karafka/"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 03:23:28",
       "https://lobste.rs/s/xhry3l/trying_failing_interpret_sentence"
     ],
@@ -227,16 +237,6 @@
     [
       "Some Programming Language Ideas",
       "https://jerf.org/iri/post/2025/programming_language_ideas/"
-    ]
-  ],
-  [
-    [
-      "2025-01-08, 17:43:44",
-      "https://lobste.rs/s/hos4tx/bringing_serenityos_real_hardware_one"
-    ],
-    [
-      "Bringing SerenityOS to real hardware, one driver at a time",
-      "https://sdomi.pl/weblog/23-serenityos-realhw/"
     ]
   ],
   [
