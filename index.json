@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-10, 10:31:43",
+      "https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data"
+    ],
+    [
+      "Flattening ASTs (and Other Compiler Data Structures)",
+      "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
+    ]
+  ],
+  [
+    [
       "2025-01-10, 08:09:43",
       "https://lobste.rs/s/apllwo/release_ucm_desktop_v1_0_0"
     ],
@@ -177,16 +187,6 @@
     [
       "Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science",
       "https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 13:11:57",
-      "https://lobste.rs/s/vln7dd/process_creation_io_uring"
-    ],
-    [
-      "Process creation in io_uring",
-      "https://lwn.net/Articles/1002371/"
     ]
   ],
   [
