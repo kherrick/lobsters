@@ -3,6 +3,7 @@
 * [2025-01-10, 21:02:04](https://lobste.rs/s/tsqfmk/replicated_kv_store_rust_using_shared_log) - [Replicated KV store in Rust using a shared log service](https://s2.dev/blog/kv-store)
 * [2025-01-10, 20:57:43](https://lobste.rs/s/58azyy/why_is_hash_1_hash_2_python) - [Why is hash(-1) == hash(-2) in Python?](https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/)
 * [2025-01-10, 20:14:12](https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know) - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
+* [2025-01-10, 19:49:20](https://lobste.rs/s/bcgivm/my_thoughts_on_kotlin_perspectives_after) - [My Thoughts on Kotlin: Perspectives after 4 years](https://tylerrussell.dev/2025/01/10/my-thoughts-on-kotlin-perspectives-after-4-years/)
 * [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
 * [2025-01-10, 18:58:02](https://lobste.rs/s/rnti2j/highlights_from_git_2_48) - [Highlights from Git 2.48](https://github.blog/open-source/git/highlights-from-git-2-48/)
 * [2025-01-10, 18:35:40](https://lobste.rs/s/brjgve/homomorphic_encryption_ios_18) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
@@ -22,7 +23,6 @@
 * [2025-01-10, 03:10:09](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known) - [Why isn't `__attribute__((cleanup(...)))` more known?](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known)
 * [2025-01-10, 01:26:13](https://lobste.rs/s/rmoivx/pushing_whole_company_into_past_on) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 * [2025-01-09, 21:23:32](https://lobste.rs/s/xcqipp/dnsclay_dns_update_axfr_notify_many) - [dnsclay: DNS UPDATE/AXFR/NOTIFY to many custom DNS operator APIs gateway](https://www.ueber.net/who/mjl/blog/p/dnsclay-dns-update-axfr-notify-to-many-custom-dns-operator-APIs-gateway/)
-* [2025-01-09, 20:09:27](https://lobste.rs/s/g4olnq/alloy_6_2_0_released) - [Alloy 6.2.0 released](https://alloytools.discourse.group/t/alloy-6-2-0-released/508)
 * [2025-01-09, 16:03:56](https://lobste.rs/s/mm16it/announcing_rust_1_84_0) - [Announcing Rust 1.84.0](https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html)
 * [2025-01-09, 15:46:44](https://lobste.rs/s/els8k7/northeastern_s_redesign_khoury) - [Northeastern’s redesign of the Khoury curriculum abandons the fundamentals of computer science](https://huntnewsnu.com/82511/editorial/op-eds/op-ed-northeasterns-redesign-of-the-khoury-curriculum-abandons-the-fundamentals-of-computer-science/)
 
