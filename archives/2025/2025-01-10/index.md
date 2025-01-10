@@ -7,6 +7,7 @@
 * [2025-01-10, 20:14:12](https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know) - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
 * [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
 * [2025-01-10, 18:58:02](https://lobste.rs/s/rnti2j/highlights_from_git_2_48) - [Highlights from Git 2.48](https://github.blog/open-source/git/highlights-from-git-2-48/)
+* [2025-01-10, 18:35:40](https://lobste.rs/s/brjgve/homomorphic_encryption_ios_18) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 * [2025-01-10, 18:26:36](https://lobste.rs/s/gjo5a4/bad_apple_it_s_6_500_regexes_i_search_for_vim) - [Bad Apple but it's 6,500 regexes that I search for in vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-10, 16:30:11](https://lobste.rs/s/ayt2ry/stop_trying_schedule_call_with_me) - [Stop Trying To Schedule A Call With Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
