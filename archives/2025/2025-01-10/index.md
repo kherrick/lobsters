@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-10](index.md)
 
+* [2025-01-10, 18:26:36](https://lobste.rs/s/gjo5a4/bad_apple_it_s_6_500_regexes_i_search_for_vim) - [Bad Apple but it's 6,500 regexes that I search for in vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 * [2025-01-10, 16:30:11](https://lobste.rs/s/ayt2ry/stop_trying_schedule_call_with_me) - [Stop Trying To Schedule A Call With Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-10, 15:55:25](https://lobste.rs/s/hgzpqw/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/hgzpqw/what_are_you_doing_this_weekend)
