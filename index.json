@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-11, 15:41:16",
+      "https://lobste.rs/s/djmdus/speech_language_processing"
+    ],
+    [
+      "Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models",
+      "https://web.stanford.edu/~jurafsky/slp3/"
+    ]
+  ],
+  [
+    [
       "2025-01-11, 10:42:17",
       "https://lobste.rs/s/eutihv/rewrite_it_rust_computational_physics"
     ],
@@ -237,16 +247,6 @@
     [
       "Pushing the whole company into the past on purpose",
       "https://rachelbythebay.com/w/2025/01/09/lag/"
-    ]
-  ],
-  [
-    [
-      "2025-01-09, 16:03:56",
-      "https://lobste.rs/s/mm16it/announcing_rust_1_84_0"
-    ],
-    [
-      "Announcing Rust 1.84.0",
-      "https://blog.rust-lang.org/2025/01/09/Rust-1.84.0.html"
     ]
   ]
 ]
