@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-11, 02:28:02",
+      "https://lobste.rs/s/vp9rq5/n2_revisiting_ninja"
+    ],
+    [
+      "n2: revisiting Ninja",
+      "https://neugierig.org/software/blog/2022/03/n2.html"
+    ]
+  ],
+  [
+    [
       "2025-01-11, 01:47:39",
       "https://lobste.rs/s/3ti0ic/freebsd_suspend_resume"
     ],
@@ -177,16 +187,6 @@
     [
       "Flattening ASTs (and Other Compiler Data Structures)",
       "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 08:09:43",
-      "https://lobste.rs/s/apllwo/release_ucm_desktop_v1_0_0"
-    ],
-    [
-      "Release UCM Desktop v1.0.0",
-      "https://github.com/unisonweb/ucm-desktop/releases/tag/app-v1.0.0"
     ]
   ],
   [
