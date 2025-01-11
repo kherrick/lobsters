@@ -11,6 +11,7 @@
 * [2025-01-10, 20:14:12](https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know) - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
 * [2025-01-10, 19:49:20](https://lobste.rs/s/bcgivm/my_thoughts_on_kotlin_perspectives_after) - [My Thoughts on Kotlin: Perspectives after 4 years](https://tylerrussell.dev/2025/01/10/my-thoughts-on-kotlin-perspectives-after-4-years/)
 * [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
+* [2025-01-10, 19:02:16](https://lobste.rs/s/tsox2b/racket_beyond_languages) - [Racket Beyond Languages](https://nikhilism.com/post/2023/racket-beyond-languages/)
 * [2025-01-10, 18:58:02](https://lobste.rs/s/rnti2j/highlights_from_git_2_48) - [Highlights from Git 2.48](https://github.blog/open-source/git/highlights-from-git-2-48/)
 * [2025-01-10, 18:35:40](https://lobste.rs/s/brjgve/homomorphic_encryption_ios_18) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 * [2025-01-10, 18:26:36](https://lobste.rs/s/gjo5a4/bad_apple_it_s_6_500_regexes_i_search_for_vim) - [Bad Apple but it's 6,500 regexes that I search for in vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
