@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-11](index.md)
 
+* [2025-01-11, 18:12:08](https://lobste.rs/s/wnzewl/javascript_hashing_speed_comparison_md5) - [JavaScript hashing speed comparison: MD5 versus SHA-256](https://lemire.me/blog/2025/01/11/javascript-hashing-speed-comparison-md5-versus-sha-256/)
 * [2025-01-11, 17:22:01](https://lobste.rs/s/ks4m0r/what_s_involved_getting_modern_terminal) - [What's involved in getting a \"modern\" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 * [2025-01-11, 15:41:16](https://lobste.rs/s/djmdus/speech_language_processing) - [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/)
 * [2025-01-11, 10:42:17](https://lobste.rs/s/eutihv/rewrite_it_rust_computational_physics) - [Rewrite it in Rust: A Computational Physics Case Study](https://arxiv.org/pdf/2410.19146)

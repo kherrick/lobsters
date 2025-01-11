@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-11, 18:12:08](https://lobste.rs/s/wnzewl/javascript_hashing_speed_comparison_md5) - [JavaScript hashing speed comparison: MD5 versus SHA-256](https://lemire.me/blog/2025/01/11/javascript-hashing-speed-comparison-md5-versus-sha-256/)
 * [2025-01-11, 17:22:01](https://lobste.rs/s/ks4m0r/what_s_involved_getting_modern_terminal) - [What's involved in getting a \"modern\" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 * [2025-01-11, 15:41:16](https://lobste.rs/s/djmdus/speech_language_processing) - [Speech and Language Processing: An Introduction to Natural Language Processing, Computational Linguistics, and Speech Recognition with Language Models](https://web.stanford.edu/~jurafsky/slp3/)
 * [2025-01-11, 10:42:17](https://lobste.rs/s/eutihv/rewrite_it_rust_computational_physics) - [Rewrite it in Rust: A Computational Physics Case Study](https://arxiv.org/pdf/2410.19146)
@@ -14,7 +15,6 @@
 * [2025-01-10, 20:14:12](https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know) - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
 * [2025-01-10, 19:49:20](https://lobste.rs/s/bcgivm/my_thoughts_on_kotlin_perspectives_after) - [My Thoughts on Kotlin: Perspectives after 4 years](https://tylerrussell.dev/2025/01/10/my-thoughts-on-kotlin-perspectives-after-4-years/)
 * [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
-* [2025-01-10, 18:58:02](https://lobste.rs/s/rnti2j/highlights_from_git_2_48) - [Highlights from Git 2.48](https://github.blog/open-source/git/highlights-from-git-2-48/)
 * [2025-01-10, 18:35:40](https://lobste.rs/s/brjgve/homomorphic_encryption_ios_18) - [Homomorphic Encryption in iOS 18](https://boehs.org/node/homomorphic-encryption)
 * [2025-01-10, 18:26:36](https://lobste.rs/s/gjo5a4/bad_apple_it_s_6_500_regexes_i_search_for_vim) - [Bad Apple but it's 6,500 regexes that I search for in vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
