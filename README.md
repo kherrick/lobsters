@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-11, 21:41:53](https://lobste.rs/s/9m3l06/2025_predictions) - [2025 Predictions](https://macwright.com/2025/01/11/predictions.html)
 * [2025-01-11, 21:11:41](https://lobste.rs/s/yjljcp/boredom_another_boring_js_framework) - [boreDOM: another boring JS framework](https://hugodaniel.com/posts/boredom-another-js-framework/)
 * [2025-01-11, 20:01:02](https://lobste.rs/s/btzw5q/most_elegant_configuration_language) - [The Most Elegant Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
 * [2025-01-11, 18:12:08](https://lobste.rs/s/wnzewl/javascript_hashing_speed_comparison_md5) - [JavaScript hashing speed comparison: MD5 versus SHA-256](https://lemire.me/blog/2025/01/11/javascript-hashing-speed-comparison-md5-versus-sha-256/)
@@ -12,7 +13,6 @@
 * [2025-01-11, 02:28:02](https://lobste.rs/s/vp9rq5/n2_revisiting_ninja) - [n2: revisiting Ninja](https://neugierig.org/software/blog/2022/03/n2.html)
 * [2025-01-11, 01:47:39](https://lobste.rs/s/3ti0ic/freebsd_suspend_resume) - [FreeBSD Suspend/Resume](https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/)
 * [2025-01-10, 22:51:37](https://lobste.rs/s/kwx0zv/building_bauble) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
-* [2025-01-10, 21:02:04](https://lobste.rs/s/tsqfmk/replicated_kv_store_rust_using_shared_log) - [Replicated KV store in Rust using a shared log service](https://s2.dev/blog/kv-store)
 * [2025-01-10, 20:57:43](https://lobste.rs/s/58azyy/why_is_hash_1_hash_2_python) - [Why is hash(-1) == hash(-2) in Python?](https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/)
 * [2025-01-10, 20:14:12](https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know) - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
 * [2025-01-10, 19:49:20](https://lobste.rs/s/bcgivm/my_thoughts_on_kotlin_perspectives_after) - [My Thoughts on Kotlin: Perspectives after 4 years](https://tylerrussell.dev/2025/01/10/my-thoughts-on-kotlin-perspectives-after-4-years/)
