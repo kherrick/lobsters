@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-11, 02:28:02](https://lobste.rs/s/vp9rq5/n2_revisiting_ninja) - [n2: revisiting Ninja](https://neugierig.org/software/blog/2022/03/n2.html)
 * [2025-01-11, 01:47:39](https://lobste.rs/s/3ti0ic/freebsd_suspend_resume) - [FreeBSD Suspend/Resume](https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/)
 * [2025-01-10, 22:51:37](https://lobste.rs/s/kwx0zv/building_bauble) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 * [2025-01-10, 21:02:04](https://lobste.rs/s/tsqfmk/replicated_kv_store_rust_using_shared_log) - [Replicated KV store in Rust using a shared log service](https://s2.dev/blog/kv-store)
@@ -18,7 +19,6 @@
 * [2025-01-10, 12:29:24](https://lobste.rs/s/m6dhzl/this_month_servo_dark_mode_keyword_sizes) - [This month in Servo: dark mode, keyword sizes, XPath, and more](https://servo.org/blog/2025/01/10/this-month-in-servo/)
 * [2025-01-10, 11:13:35](https://lobste.rs/s/aw3kgq/portals_quake) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 * [2025-01-10, 10:31:43](https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
-* [2025-01-10, 08:09:43](https://lobste.rs/s/apllwo/release_ucm_desktop_v1_0_0) - [Release UCM Desktop v1.0.0](https://github.com/unisonweb/ucm-desktop/releases/tag/app-v1.0.0)
 * [2025-01-10, 04:32:10](https://lobste.rs/s/o4y0vy/designing_code_for_forward_progress) - [Designing Code For Forward Progress](https://rtpg.co/2025/01/10/designing-for-forward-progress/)
 * [2025-01-10, 03:10:09](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known) - [Why isn't `__attribute__((cleanup(...)))` more known?](https://lobste.rs/s/camaek/why_isn_t_attribute_cleanup_more_known)
 * [2025-01-10, 01:26:13](https://lobste.rs/s/rmoivx/pushing_whole_company_into_past_on) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
