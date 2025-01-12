@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-12, 19:32:24](https://lobste.rs/s/uioqud/niri_v25_01_released) - [niri v25.01 released](https://github.com/YaLTeR/niri/discussions/956)
 * [2025-01-12, 18:31:12](https://lobste.rs/s/yzcjwu/viewing_images) - [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
 * [2025-01-12, 18:25:30](https://lobste.rs/s/rmmnmx/trivially_relocatable_versus_trivially) - [“Trivially relocatable” versus “trivially destructible after move”](https://quuxplusone.github.io/blog/2025/01/10/trivially-destructible-after-move/)
 * [2025-01-12, 11:02:37](https://lobste.rs/s/dhsuw4/this_week_psc_perl_steering_council_175) - [This week in PSC (Perl Steering Council) (175) | 2025-01-09](https://blogs.perl.org/users/psc/2025/01/this-week-in-psc-175-2025-01-09.html)
@@ -17,7 +18,6 @@
 * [2025-01-11, 09:30:00](https://lobste.rs/s/otw3th/today_i_learned_bash_has_hashmaps) - [Today I learned that bash has hashmaps](https://xeiaso.net/notes/2024/bash-hashmap/)
 * [2025-01-11, 08:03:50](https://lobste.rs/s/czspj3/german_router_maker_is_latest_company) - [German router maker is latest company to inadvertently clarify the LGPL license](https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/)
 * [2025-01-11, 02:28:02](https://lobste.rs/s/vp9rq5/n2_revisiting_ninja_2022) - [n2: revisiting Ninja (2022)](https://neugierig.org/software/blog/2022/03/n2.html)
-* [2025-01-11, 01:47:39](https://lobste.rs/s/3ti0ic/freebsd_suspend_resume) - [FreeBSD Suspend/Resume](https://vermaden.wordpress.com/2025/01/11/freebsd-suspend-resume/)
 * [2025-01-10, 22:51:37](https://lobste.rs/s/kwx0zv/building_bauble) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 * [2025-01-10, 20:57:43](https://lobste.rs/s/58azyy/why_is_hash_1_hash_2_python) - [Why is hash(-1) == hash(-2) in Python?](https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/)
 * [2025-01-10, 20:14:12](https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know) - [Relatively New Things You Should Know about HTML Heading Into 2025](https://frontendmasters.com/blog/bone-up-html-2025/)
