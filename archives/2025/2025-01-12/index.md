@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-12](index.md)
 
+* [2025-01-12, 20:04:54](https://lobste.rs/s/0y7yho/from_ascii_asic_porting_donut_c_tiny_slice) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 19:32:24](https://lobste.rs/s/uioqud/niri_v25_01_released) - [niri v25.01 released](https://github.com/YaLTeR/niri/discussions/956)
 * [2025-01-12, 18:31:12](https://lobste.rs/s/yzcjwu/viewing_images) - [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
 * [2025-01-12, 18:25:30](https://lobste.rs/s/rmmnmx/trivially_relocatable_versus_trivially) - [“Trivially relocatable” versus “trivially destructible after move”](https://quuxplusone.github.io/blog/2025/01/10/trivially-destructible-after-move/)
