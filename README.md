@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-12, 09:01:55](https://lobste.rs/s/0llb78/all_your_codebase_c_c_projects_for_zig) - [All Your Codebase: C/C++ projects for the Zig build system](https://github.com/allyourcodebase)
 * [2025-01-12, 04:02:22](https://lobste.rs/s/szpcqf/why_i_chose_common_lisp) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 * [2025-01-11, 21:41:53](https://lobste.rs/s/9m3l06/2025_predictions) - [2025 Predictions](https://macwright.com/2025/01/11/predictions.html)
 * [2025-01-11, 21:11:41](https://lobste.rs/s/yjljcp/boredom_another_boring_js_framework) - [boreDOM: another boring JS framework](https://hugodaniel.com/posts/boredom-another-js-framework/)
@@ -23,7 +24,6 @@
 * [2025-01-10, 16:30:11](https://lobste.rs/s/ayt2ry/stop_trying_schedule_call_with_me) - [Stop Trying To Schedule A Call With Me](https://matduggan.com/stop-trying-to-schedule-a-call-with-me/)
 * [2025-01-10, 12:29:24](https://lobste.rs/s/m6dhzl/this_month_servo_dark_mode_keyword_sizes) - [This month in Servo: dark mode, keyword sizes, XPath, and more](https://servo.org/blog/2025/01/10/this-month-in-servo/)
 * [2025-01-10, 11:13:35](https://lobste.rs/s/aw3kgq/portals_quake) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
-* [2025-01-10, 10:31:43](https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data) - [Flattening ASTs (and Other Compiler Data Structures)](https://www.cs.cornell.edu/~asampson/blog/flattening.html)
 * [2025-01-10, 01:26:13](https://lobste.rs/s/rmoivx/pushing_whole_company_into_past_on) - [Pushing the whole company into the past on purpose](https://rachelbythebay.com/w/2025/01/09/lag/)
 
 ## [Archives](archives/index.md)
