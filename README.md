@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-12, 18:31:12](https://lobste.rs/s/yzcjwu/viewing_images) - [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
+* [2025-01-12, 18:25:30](https://lobste.rs/s/rmmnmx/trivially_relocatable_versus_trivially) - [“Trivially relocatable” versus “trivially destructible after move”](https://quuxplusone.github.io/blog/2025/01/10/trivially-destructible-after-move/)
 * [2025-01-12, 11:02:37](https://lobste.rs/s/dhsuw4/this_week_psc_perl_steering_council_175) - [This week in PSC (Perl Steering Council) (175) | 2025-01-09](https://blogs.perl.org/users/psc/2025/01/this-week-in-psc-175-2025-01-09.html)
 * [2025-01-12, 10:45:27](https://lobste.rs/s/zejtas/dxxx_20_great_cpan_modules_released_last) - [(dxxx) 20 great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
 * [2025-01-12, 09:01:55](https://lobste.rs/s/0llb78/all_your_codebase_c_c_projects_for_zig) - [All Your Codebase: C/C++ projects for the Zig build system](https://github.com/allyourcodebase)
@@ -23,8 +25,6 @@
 * [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
 * [2025-01-10, 18:26:36](https://lobste.rs/s/gjo5a4/bad_apple_it_s_6_500_regexes_i_search_for_vim) - [Bad Apple but it's 6,500 regexes that I search for in vim](https://eieio.games/blog/bad-apple-with-regex-in-vim/)
 * [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
-* [2025-01-10, 12:29:24](https://lobste.rs/s/m6dhzl/this_month_servo_dark_mode_keyword_sizes) - [This month in Servo: dark mode, keyword sizes, XPath, and more](https://servo.org/blog/2025/01/10/this-month-in-servo/)
-* [2025-01-10, 11:13:35](https://lobste.rs/s/aw3kgq/portals_quake) - [Portals and Quake](https://30fps.net/pages/pvs-portals-and-quake/)
 
 ## [Archives](archives/index.md)
 
