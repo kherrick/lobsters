@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-12, 09:01:55",
+      "https://lobste.rs/s/0llb78/all_your_codebase_c_c_projects_for_zig"
+    ],
+    [
+      "All Your Codebase: C/C++ projects for the Zig build system",
+      "https://github.com/allyourcodebase"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 04:02:22",
       "https://lobste.rs/s/szpcqf/why_i_chose_common_lisp"
     ],
@@ -227,16 +237,6 @@
     [
       "Portals and Quake",
       "https://30fps.net/pages/pvs-portals-and-quake/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 10:31:43",
-      "https://lobste.rs/s/zq8t1x/flattening_asts_other_compiler_data"
-    ],
-    [
-      "Flattening ASTs (and Other Compiler Data Structures)",
-      "https://www.cs.cornell.edu/~asampson/blog/flattening.html"
     ]
   ],
   [
