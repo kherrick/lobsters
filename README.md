@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-13, 10:49:46](https://lobste.rs/s/3mmmkm/code_reviews_success_story) - [Code reviews: A success story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 10:39:27](https://lobste.rs/s/usgssj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usgssj/what_are_you_doing_this_week)
 * [2025-01-13, 09:24:28](https://lobste.rs/s/ejyuho/adding_structured_data_with_perl) - [Adding structured data with Perl](https://perlhacks.com/2025/01/adding-structured-data-with-perl/)
 * [2025-01-13, 08:10:41](https://lobste.rs/s/mtqhcb/towards_more_coverage) - [Towards more coverage](https://dev.to/lizmat/towards-more-coverage-fne)
@@ -24,7 +25,6 @@
 * [2025-01-11, 20:01:02](https://lobste.rs/s/btzw5q/most_elegant_configuration_language) - [The Most Elegant Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
 * [2025-01-11, 17:22:01](https://lobste.rs/s/ks4m0r/what_s_involved_getting_modern_terminal) - [What's involved in getting a \"modern\" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 * [2025-01-11, 09:36:10](https://lobste.rs/s/ei5bp4/apple_is_killing_swift) - [Apple is Killing Swift](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
-* [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 
 ## [Archives](archives/index.md)
 
