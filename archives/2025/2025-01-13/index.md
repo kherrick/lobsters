@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 10:39:27](https://lobste.rs/s/usgssj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usgssj/what_are_you_doing_this_week)
 * [2025-01-13, 09:24:28](https://lobste.rs/s/ejyuho/adding_structured_data_with_perl) - [Adding structured data with Perl](https://perlhacks.com/2025/01/adding-structured-data-with-perl/)
 * [2025-01-13, 08:10:41](https://lobste.rs/s/mtqhcb/towards_more_coverage) - [Towards more coverage](https://dev.to/lizmat/towards-more-coverage-fne)
 * [2025-01-13, 07:57:43](https://lobste.rs/s/iutl92/it_s_time_abandon_cargo_cult_metaphor) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
