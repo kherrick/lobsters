@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-13, 00:46:05",
+      "https://lobste.rs/s/adqe0e/enlightenment_0_27_0_release"
+    ],
+    [
+      "Enlightenment 0.27.0 Release",
+      "https://www.enlightenment.org/news/2025-01-11-enlightenment-0.27.0"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 00:13:49",
+      "https://lobste.rs/s/z57gjy/git_reset_demystified"
+    ],
+    [
+      "Git - Reset Demystified",
+      "https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified"
+    ]
+  ],
+  [
+    [
       "2025-01-12, 21:15:24",
       "https://lobste.rs/s/0phzrc/quicknotes_notes_application_makes"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-01-11, 02:28:02",
-      "https://lobste.rs/s/vp9rq5/n2_revisiting_ninja_2022"
-    ],
-    [
-      "n2: revisiting Ninja (2022)",
-      "https://neugierig.org/software/blog/2022/03/n2.html"
-    ]
-  ],
-  [
-    [
       "2025-01-10, 22:51:37",
       "https://lobste.rs/s/kwx0zv/building_bauble"
     ],
@@ -217,16 +227,6 @@
     [
       "Why is hash(-1) == hash(-2) in Python?",
       "https://omairmajid.com/posts/2021-07-16-why-is-hash-in-python/"
-    ]
-  ],
-  [
-    [
-      "2025-01-10, 20:14:12",
-      "https://lobste.rs/s/im7xmk/relatively_new_things_you_should_know"
-    ],
-    [
-      "Relatively New Things You Should Know about HTML Heading Into 2025",
-      "https://frontendmasters.com/blog/bone-up-html-2025/"
     ]
   ],
   [
