@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-13, 02:51:49](https://lobste.rs/s/xgpi0u/canva_outage_another_tale_saturation) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 * [2025-01-13, 01:23:19](https://lobste.rs/s/x1qhzq/running_llms_on_nintendo_switch) - [Running LLMs on the Nintendo Switch](https://nocoffei.com/?p=352)
 * [2025-01-13, 00:46:05](https://lobste.rs/s/adqe0e/enlightenment_0_27_0_release) - [Enlightenment 0.27.0 Release](https://www.enlightenment.org/news/2025-01-11-enlightenment-0.27.0)
 * [2025-01-13, 00:13:49](https://lobste.rs/s/z57gjy/git_reset_demystified) - [Git - Reset Demystified](https://git-scm.com/book/en/v2/Git-Tools-Reset-Demystified)
@@ -15,7 +16,6 @@
 * [2025-01-11, 21:41:53](https://lobste.rs/s/9m3l06/2025_predictions) - [2025 Predictions](https://macwright.com/2025/01/11/predictions.html)
 * [2025-01-11, 21:11:41](https://lobste.rs/s/yjljcp/boredom_another_boring_js_framework) - [boreDOM: another boring JS framework](https://hugodaniel.com/posts/boredom-another-js-framework/)
 * [2025-01-11, 20:01:02](https://lobste.rs/s/btzw5q/most_elegant_configuration_language) - [The Most Elegant Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
-* [2025-01-11, 18:12:08](https://lobste.rs/s/wnzewl/javascript_hashing_speed_comparison_md5) - [JavaScript hashing speed comparison: MD5 versus SHA-256](https://lemire.me/blog/2025/01/11/javascript-hashing-speed-comparison-md5-versus-sha-256/)
 * [2025-01-11, 17:22:01](https://lobste.rs/s/ks4m0r/what_s_involved_getting_modern_terminal) - [What's involved in getting a \"modern\" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 * [2025-01-11, 10:42:17](https://lobste.rs/s/eutihv/rewrite_it_rust_computational_physics) - [Rewrite it in Rust: A Computational Physics Case Study](https://arxiv.org/pdf/2410.19146)
 * [2025-01-11, 09:36:10](https://lobste.rs/s/ei5bp4/apple_is_killing_swift) - [Apple is Killing Swift](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
