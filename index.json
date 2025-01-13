@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-13, 14:13:47",
+      "https://lobste.rs/s/lrmwtv/proposal_spec_reduce_error_handling"
+    ],
+    [
+      "proposal: spec: reduce error handling boilerplate using ?",
+      "https://github.com/golang/go/issues/71203"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 12:29:42",
       "https://lobste.rs/s/jarctp/highly_configurable_gnu_linux_with_built"
     ],
@@ -217,16 +227,6 @@
     [
       "Why I Chose Common Lisp",
       "https://blog.djhaskin.com/blog/why-i-chose-common-lisp/"
-    ]
-  ],
-  [
-    [
-      "2025-01-11, 21:11:41",
-      "https://lobste.rs/s/yjljcp/boredom_another_boring_js_framework"
-    ],
-    [
-      "boreDOM: another boring JS framework",
-      "https://hugodaniel.com/posts/boredom-another-js-framework/"
     ]
   ],
   [
