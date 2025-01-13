@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-13, 17:05:45",
+      "https://lobste.rs/s/zfs7n6/split_out_unrelated_changes"
+    ],
+    [
+      "Split Out Unrelated Changes",
+      "https://joshuakgoldberg.com/blog/split-out-unrelated-changes/"
+    ]
+  ],
+  [
+    [
+      "2025-01-13, 16:54:06",
+      "https://lobste.rs/s/qwqoad/subtitle_generator_using_whisper"
+    ],
+    [
+      "Subtitle Generator Using Whisper",
+      "https://kracekumar.com/post/subtitle-generator-using-whisper/"
+    ]
+  ],
+  [
+    [
       "2025-01-13, 16:11:54",
       "https://lobste.rs/s/ftt9qy/tokyo_museum_offers_visitors_flashback"
     ],
@@ -47,16 +67,6 @@
     [
       "proposal: spec: reduce error handling boilerplate using ?",
       "https://github.com/golang/go/issues/71203"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 12:29:42",
-      "https://lobste.rs/s/jarctp/highly_configurable_gnu_linux_with_built"
-    ],
-    [
-      "A highly configurable GNU/Linux with built-in AI",
-      "https://ditana.org"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Viewing images",
       "https://wolf.nereid.pl/posts/image-viewer/"
-    ]
-  ],
-  [
-    [
-      "2025-01-12, 04:02:22",
-      "https://lobste.rs/s/szpcqf/why_i_chose_common_lisp"
-    ],
-    [
-      "Why I Chose Common Lisp",
-      "https://blog.djhaskin.com/blog/why-i-chose-common-lisp/"
     ]
   ]
 ]
