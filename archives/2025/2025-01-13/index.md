@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-13, 04:38:47](https://lobste.rs/s/e9uesf/doug_lenat_s_source_code_for_am_eurisko) - [Doug Lenat's source code for AM and EURISKO](https://www.white-flame.com/am-eurisko.html)
 * [2025-01-13, 02:51:49](https://lobste.rs/s/xgpi0u/canva_outage_another_tale_saturation) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 * [2025-01-13, 01:23:19](https://lobste.rs/s/x1qhzq/running_llms_on_nintendo_switch) - [Running LLMs on the Nintendo Switch](https://nocoffei.com/?p=352)

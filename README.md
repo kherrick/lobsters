@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-13, 04:38:47](https://lobste.rs/s/e9uesf/doug_lenat_s_source_code_for_am_eurisko) - [Doug Lenat's source code for AM and EURISKO](https://www.white-flame.com/am-eurisko.html)
 * [2025-01-13, 02:51:49](https://lobste.rs/s/xgpi0u/canva_outage_another_tale_saturation) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 * [2025-01-13, 01:23:19](https://lobste.rs/s/x1qhzq/running_llms_on_nintendo_switch) - [Running LLMs on the Nintendo Switch](https://nocoffei.com/?p=352)
@@ -18,7 +19,6 @@
 * [2025-01-11, 21:11:41](https://lobste.rs/s/yjljcp/boredom_another_boring_js_framework) - [boreDOM: another boring JS framework](https://hugodaniel.com/posts/boredom-another-js-framework/)
 * [2025-01-11, 20:01:02](https://lobste.rs/s/btzw5q/most_elegant_configuration_language) - [The Most Elegant Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
 * [2025-01-11, 17:22:01](https://lobste.rs/s/ks4m0r/what_s_involved_getting_modern_terminal) - [What's involved in getting a \"modern\" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
-* [2025-01-11, 10:42:17](https://lobste.rs/s/eutihv/rewrite_it_rust_computational_physics) - [Rewrite it in Rust: A Computational Physics Case Study](https://arxiv.org/pdf/2410.19146)
 * [2025-01-11, 09:36:10](https://lobste.rs/s/ei5bp4/apple_is_killing_swift) - [Apple is Killing Swift](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 * [2025-01-11, 09:30:00](https://lobste.rs/s/otw3th/today_i_learned_bash_has_hashmaps) - [Today I learned that bash has hashmaps](https://xeiaso.net/notes/2024/bash-hashmap/)
 * [2025-01-11, 08:03:50](https://lobste.rs/s/czspj3/german_router_maker_is_latest_company) - [German router maker is latest company to inadvertently clarify the LGPL license](https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/)
