@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-13, 16:11:54](https://lobste.rs/s/ftt9qy/tokyo_museum_offers_visitors_flashback) - [Tokyo museum offers visitors 'flashback' to defunct technology](https://www.reuters.com/world/japan/tokyo-museum-offers-visitors-flashback-defunct-technology-2025-01-13/)
 * [2025-01-13, 15:36:51](https://lobste.rs/s/3dlozj/derivative_grammars_symbolic_approach) - [Derivative grammars: a symbolic approach to parsing with derivatives](https://dl.acm.org/doi/10.1145/3360553)
 * [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
 * [2025-01-13, 14:36:25](https://lobste.rs/s/kec1np/can_you_complete_oregon_trail_if_you_wait) - [Can you complete the Oregon Trail if you wait at a river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
@@ -23,7 +24,6 @@
 * [2025-01-12, 20:04:54](https://lobste.rs/s/0y7yho/from_ascii_asic_porting_donut_c_tiny_slice) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 19:32:24](https://lobste.rs/s/uioqud/niri_v25_01_released) - [niri v25.01 released](https://github.com/YaLTeR/niri/discussions/956)
 * [2025-01-12, 18:31:12](https://lobste.rs/s/yzcjwu/viewing_images) - [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
-* [2025-01-12, 09:01:55](https://lobste.rs/s/0llb78/all_your_codebase_c_c_projects_for_zig) - [All Your Codebase: C/C++ projects for the Zig build system](https://github.com/allyourcodebase)
 * [2025-01-12, 04:02:22](https://lobste.rs/s/szpcqf/why_i_chose_common_lisp) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 
 ## [Archives](archives/index.md)
