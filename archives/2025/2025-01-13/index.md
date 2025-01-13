@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 11:18:52](https://lobste.rs/s/izmenc/where_does_name_algebraic_data_type_come) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
+* [2025-01-13, 11:12:47](https://lobste.rs/s/u2i48m/cyantic_extensible_builder_pattern_for) - [Cyantic - an extensible builder pattern for Pydantic](https://github.com/flywhl/cyantic)
 * [2025-01-13, 10:49:46](https://lobste.rs/s/3mmmkm/code_reviews_success_story) - [Code reviews: A success story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 10:39:27](https://lobste.rs/s/usgssj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usgssj/what_are_you_doing_this_week)
 * [2025-01-13, 09:24:28](https://lobste.rs/s/ejyuho/adding_structured_data_with_perl) - [Adding structured data with Perl](https://perlhacks.com/2025/01/adding-structured-data-with-perl/)
