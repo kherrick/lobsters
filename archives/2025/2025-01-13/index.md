@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 17:05:45](https://lobste.rs/s/zfs7n6/split_out_unrelated_changes) - [Split Out Unrelated Changes](https://joshuakgoldberg.com/blog/split-out-unrelated-changes/)
+* [2025-01-13, 16:54:06](https://lobste.rs/s/qwqoad/subtitle_generator_using_whisper) - [Subtitle Generator Using Whisper](https://kracekumar.com/post/subtitle-generator-using-whisper/)
 * [2025-01-13, 16:11:54](https://lobste.rs/s/ftt9qy/tokyo_museum_offers_visitors_flashback) - [Tokyo museum offers visitors 'flashback' to defunct technology](https://www.reuters.com/world/japan/tokyo-museum-offers-visitors-flashback-defunct-technology-2025-01-13/)
 * [2025-01-13, 15:36:51](https://lobste.rs/s/3dlozj/derivative_grammars_symbolic_approach) - [Derivative grammars: a symbolic approach to parsing with derivatives](https://dl.acm.org/doi/10.1145/3360553)
 * [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
