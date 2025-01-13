@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-13, 08:10:41](https://lobste.rs/s/mtqhcb/towards_more_coverage) - [Towards more coverage](https://dev.to/lizmat/towards-more-coverage-fne)
+* [2025-01-13, 07:57:43](https://lobste.rs/s/iutl92/it_s_time_abandon_cargo_cult_metaphor) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
 * [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-13, 04:38:47](https://lobste.rs/s/e9uesf/doug_lenat_s_source_code_for_am_eurisko) - [Doug Lenat's source code for AM and EURISKO](https://www.white-flame.com/am-eurisko.html)
 * [2025-01-13, 02:51:49](https://lobste.rs/s/xgpi0u/canva_outage_another_tale_saturation) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
@@ -20,9 +22,7 @@
 * [2025-01-11, 20:01:02](https://lobste.rs/s/btzw5q/most_elegant_configuration_language) - [The Most Elegant Configuration Language](https://chshersh.com/blog/2025-01-06-the-most-elegant-configuration-language.html)
 * [2025-01-11, 17:22:01](https://lobste.rs/s/ks4m0r/what_s_involved_getting_modern_terminal) - [What's involved in getting a \"modern\" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 * [2025-01-11, 09:36:10](https://lobste.rs/s/ei5bp4/apple_is_killing_swift) - [Apple is Killing Swift](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
-* [2025-01-11, 09:30:00](https://lobste.rs/s/otw3th/today_i_learned_bash_has_hashmaps) - [Today I learned that bash has hashmaps](https://xeiaso.net/notes/2024/bash-hashmap/)
 * [2025-01-11, 08:03:50](https://lobste.rs/s/czspj3/german_router_maker_is_latest_company) - [German router maker is latest company to inadvertently clarify the LGPL license](https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/)
-* [2025-01-10, 22:51:37](https://lobste.rs/s/kwx0zv/building_bauble) - [Building Bauble](https://ianthehenry.com/posts/bauble/building-bauble/)
 * [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
 * [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 
