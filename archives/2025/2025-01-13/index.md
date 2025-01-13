@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 22:33:52](https://lobste.rs/s/hpekv4/fluid_simulation_pendant) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
 * [2025-01-13, 21:00:41](https://lobste.rs/s/j3j2kt/missing_tier_for_query_compilers) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-01-13, 17:05:45](https://lobste.rs/s/zfs7n6/split_out_unrelated_changes) - [Split Out Unrelated Changes](https://joshuakgoldberg.com/blog/split-out-unrelated-changes/)
 * [2025-01-13, 16:54:06](https://lobste.rs/s/qwqoad/subtitle_generator_using_whisper) - [Subtitle Generator Using Whisper](https://kracekumar.com/post/subtitle-generator-using-whisper/)
