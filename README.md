@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-13, 11:18:52](https://lobste.rs/s/izmenc/where_does_name_algebraic_data_type_come) - [Where does the name \"algebraic data type\" come from?](https://blog.poisson.chat/posts/2024-07-26-adt-history.html)
 * [2025-01-13, 11:12:47](https://lobste.rs/s/u2i48m/cyantic_extensible_builder_pattern_for) - [Cyantic - an extensible builder pattern for Pydantic](https://github.com/flywhl/cyantic)
 * [2025-01-13, 10:49:46](https://lobste.rs/s/3mmmkm/code_reviews_success_story) - [Code reviews: A success story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 10:39:27](https://lobste.rs/s/usgssj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usgssj/what_are_you_doing_this_week)
@@ -18,6 +17,7 @@
 * [2025-01-12, 19:32:24](https://lobste.rs/s/uioqud/niri_v25_01_released) - [niri v25.01 released](https://github.com/YaLTeR/niri/discussions/956)
 * [2025-01-12, 18:31:12](https://lobste.rs/s/yzcjwu/viewing_images) - [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
 * [2025-01-12, 18:25:30](https://lobste.rs/s/rmmnmx/trivially_relocatable_versus_trivially) - [“Trivially relocatable” versus “trivially destructible after move”](https://quuxplusone.github.io/blog/2025/01/10/trivially-destructible-after-move/)
+* [2025-01-12, 10:45:27](https://lobste.rs/s/zejtas/dxxx_20_great_cpan_modules_released_last) - [(dxxx) 20 great CPAN modules released last week](https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html)
 * [2025-01-12, 09:01:55](https://lobste.rs/s/0llb78/all_your_codebase_c_c_projects_for_zig) - [All Your Codebase: C/C++ projects for the Zig build system](https://github.com/allyourcodebase)
 * [2025-01-12, 04:02:22](https://lobste.rs/s/szpcqf/why_i_chose_common_lisp) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
 * [2025-01-11, 21:41:53](https://lobste.rs/s/9m3l06/2025_predictions) - [2025 Predictions](https://macwright.com/2025/01/11/predictions.html)
