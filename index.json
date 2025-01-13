@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-13, 11:18:52",
-      "https://lobste.rs/s/izmenc/where_does_name_algebraic_data_type_come"
-    ],
-    [
-      "Where does the name \"algebraic data type\" come from?",
-      "https://blog.poisson.chat/posts/2024-07-26-adt-history.html"
-    ]
-  ],
-  [
-    [
       "2025-01-13, 11:12:47",
       "https://lobste.rs/s/u2i48m/cyantic_extensible_builder_pattern_for"
     ],
@@ -177,6 +167,16 @@
     [
       "“Trivially relocatable” versus “trivially destructible after move”",
       "https://quuxplusone.github.io/blog/2025/01/10/trivially-destructible-after-move/"
+    ]
+  ],
+  [
+    [
+      "2025-01-12, 10:45:27",
+      "https://lobste.rs/s/zejtas/dxxx_20_great_cpan_modules_released_last"
+    ],
+    [
+      "(dxxx) 20 great CPAN modules released last week",
+      "https://niceperl.blogspot.com/2025/01/dxxx-20-great-cpan-modules-released.html"
     ]
   ],
   [
