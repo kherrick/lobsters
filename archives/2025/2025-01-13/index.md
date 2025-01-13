@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 14:13:47](https://lobste.rs/s/lrmwtv/proposal_spec_reduce_error_handling) - [proposal: spec: reduce error handling boilerplate using ?](https://github.com/golang/go/issues/71203)
 * [2025-01-13, 12:29:42](https://lobste.rs/s/jarctp/highly_configurable_gnu_linux_with_built) - [A highly configurable GNU/Linux with built-in AI](https://ditana.org)
 * [2025-01-13, 12:25:16](https://lobste.rs/s/7okrtn/history_use_etc_glob_early_unixes) - [The history and use of /etc/glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 12:08:23](https://lobste.rs/s/gcmwfo/accurate_benchmarking) - [Accurate Benchmarking](https://ates.dev/posts/2025-01-12-accurate-benchmarking/)
