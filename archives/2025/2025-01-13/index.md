@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-13](index.md)
 
+* [2025-01-13, 21:00:41](https://lobste.rs/s/j3j2kt/missing_tier_for_query_compilers) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-01-13, 17:05:45](https://lobste.rs/s/zfs7n6/split_out_unrelated_changes) - [Split Out Unrelated Changes](https://joshuakgoldberg.com/blog/split-out-unrelated-changes/)
 * [2025-01-13, 16:54:06](https://lobste.rs/s/qwqoad/subtitle_generator_using_whisper) - [Subtitle Generator Using Whisper](https://kracekumar.com/post/subtitle-generator-using-whisper/)
 * [2025-01-13, 16:11:54](https://lobste.rs/s/ftt9qy/tokyo_museum_offers_visitors_flashback) - [Tokyo museum offers visitors 'flashback' to defunct technology](https://www.reuters.com/world/japan/tokyo-museum-offers-visitors-flashback-defunct-technology-2025-01-13/)

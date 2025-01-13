@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-13, 21:00:41](https://lobste.rs/s/j3j2kt/missing_tier_for_query_compilers) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-01-13, 17:05:45](https://lobste.rs/s/zfs7n6/split_out_unrelated_changes) - [Split Out Unrelated Changes](https://joshuakgoldberg.com/blog/split-out-unrelated-changes/)
 * [2025-01-13, 16:54:06](https://lobste.rs/s/qwqoad/subtitle_generator_using_whisper) - [Subtitle Generator Using Whisper](https://kracekumar.com/post/subtitle-generator-using-whisper/)
 * [2025-01-13, 16:11:54](https://lobste.rs/s/ftt9qy/tokyo_museum_offers_visitors_flashback) - [Tokyo museum offers visitors 'flashback' to defunct technology](https://www.reuters.com/world/japan/tokyo-museum-offers-visitors-flashback-defunct-technology-2025-01-13/)
@@ -7,7 +8,6 @@
 * [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
 * [2025-01-13, 14:36:25](https://lobste.rs/s/kec1np/can_you_complete_oregon_trail_if_you_wait) - [Can you complete the Oregon Trail if you wait at a river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
 * [2025-01-13, 14:13:47](https://lobste.rs/s/lrmwtv/proposal_spec_reduce_error_handling) - [proposal: spec: reduce error handling boilerplate using ?](https://github.com/golang/go/issues/71203)
-* [2025-01-13, 12:29:42](https://lobste.rs/s/jarctp/highly_configurable_gnu_linux_with_built) - [A highly configurable GNU/Linux with built-in AI](https://ditana.org)
 * [2025-01-13, 12:25:16](https://lobste.rs/s/7okrtn/history_use_etc_glob_early_unixes) - [The history and use of /etc/glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 12:08:23](https://lobste.rs/s/gcmwfo/accurate_benchmarking) - [Accurate Benchmarking](https://ates.dev/posts/2025-01-12-accurate-benchmarking/)
 * [2025-01-13, 11:12:47](https://lobste.rs/s/u2i48m/cyantic_extensible_builder_pattern_for) - [Cyantic - an extensible builder pattern for Pydantic](https://github.com/flywhl/cyantic)
