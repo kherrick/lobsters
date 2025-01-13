@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
 * [2025-01-13, 14:36:25](https://lobste.rs/s/kec1np/can_you_complete_oregon_trail_if_you_wait) - [Can you complete the Oregon Trail if you wait at a river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
 * [2025-01-13, 14:13:47](https://lobste.rs/s/lrmwtv/proposal_spec_reduce_error_handling) - [proposal: spec: reduce error handling boilerplate using ?](https://github.com/golang/go/issues/71203)
 * [2025-01-13, 12:29:42](https://lobste.rs/s/jarctp/highly_configurable_gnu_linux_with_built) - [A highly configurable GNU/Linux with built-in AI](https://ditana.org)
@@ -24,7 +25,6 @@
 * [2025-01-12, 18:25:30](https://lobste.rs/s/rmmnmx/trivially_relocatable_versus_trivially) - [“Trivially relocatable” versus “trivially destructible after move”](https://quuxplusone.github.io/blog/2025/01/10/trivially-destructible-after-move/)
 * [2025-01-12, 09:01:55](https://lobste.rs/s/0llb78/all_your_codebase_c_c_projects_for_zig) - [All Your Codebase: C/C++ projects for the Zig build system](https://github.com/allyourcodebase)
 * [2025-01-12, 04:02:22](https://lobste.rs/s/szpcqf/why_i_chose_common_lisp) - [Why I Chose Common Lisp](https://blog.djhaskin.com/blog/why-i-chose-common-lisp/)
-* [2025-01-11, 17:22:01](https://lobste.rs/s/ks4m0r/what_s_involved_getting_modern_terminal) - [What's involved in getting a \"modern\" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 
 ## [Archives](archives/index.md)
 
