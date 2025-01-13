@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-13, 09:24:28](https://lobste.rs/s/ejyuho/adding_structured_data_with_perl) - [Adding structured data with Perl](https://perlhacks.com/2025/01/adding-structured-data-with-perl/)
 * [2025-01-13, 08:10:41](https://lobste.rs/s/mtqhcb/towards_more_coverage) - [Towards more coverage](https://dev.to/lizmat/towards-more-coverage-fne)
 * [2025-01-13, 07:57:43](https://lobste.rs/s/iutl92/it_s_time_abandon_cargo_cult_metaphor) - [It's time to abandon the cargo cult metaphor](https://www.righto.com/2025/01/its-time-to-abandon-cargo-cult-metaphor.html)
 * [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
@@ -23,7 +24,6 @@
 * [2025-01-11, 17:22:01](https://lobste.rs/s/ks4m0r/what_s_involved_getting_modern_terminal) - [What's involved in getting a \"modern\" terminal setup?](https://jvns.ca/blog/2025/01/11/getting-a-modern-terminal-setup/)
 * [2025-01-11, 09:36:10](https://lobste.rs/s/ei5bp4/apple_is_killing_swift) - [Apple is Killing Swift](https://blog.jacobstechtavern.com/p/apple-is-killing-swift)
 * [2025-01-11, 08:03:50](https://lobste.rs/s/czspj3/german_router_maker_is_latest_company) - [German router maker is latest company to inadvertently clarify the LGPL license](https://arstechnica.com/gadgets/2025/01/suing-wi-fi-router-makers-remains-a-necessary-part-of-open-source-license-law/)
-* [2025-01-10, 19:09:48](https://lobste.rs/s/uyypdw/i_quit_my_job_work_on_my_programming) - [I quit my job to work on my programming language](https://jank-lang.org/blog/2025-01-10-i-quit-my-job/)
 * [2025-01-10, 17:25:45](https://lobste.rs/s/k55ds9/be_aware_makefile_effect) - [Be aware of the Makefile effect](https://blog.yossarian.net/2025/01/10/Be-aware-of-the-Makefile-effect)
 
 ## [Archives](archives/index.md)
