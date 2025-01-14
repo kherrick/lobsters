@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 20:47:39](https://lobste.rs/s/9z8xst/nreversal_fortune_thermodynamics) - [NREVERSAL of Fortune: the thermodynamics of garbage collection](https://plover.com/~mjd/misc/hbaker-archive/ReverseGC.html)
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 19:33:45](https://lobste.rs/s/ldm8sa/why_ml_ai_demand_new_approach_threat) - [Why ML and AI demand a new approach to threat modeling](https://www.fullstory.com/blog/rethinking-security/)
 * [2025-01-14, 19:30:15](https://lobste.rs/s/prmbij/catching_memory_leaks_with_your_test) - [Catching memory leaks with your test suite](https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/)
@@ -17,7 +18,6 @@
 * [2025-01-14, 11:10:04](https://lobste.rs/s/3six5x/thunderbolt_ports_aren_t_all_same) - [Thunderbolt ports aren’t all the same](https://eclecticlight.co/2025/01/14/thunderbolt-ports-arent-all-the-same/)
 * [2025-01-14, 10:46:41](https://lobste.rs/s/fquwys/doompdf) - [DoomPDF](https://doompdf.pages.dev/)
 * [2025-01-14, 10:27:31](https://lobste.rs/s/58fh96/coding_adventure_rendering_text) - [Coding Adventure: Rendering Text](https://youtube.com/watch?v=SO83KQuuZvg)
-* [2025-01-14, 10:05:54](https://lobste.rs/s/mokk7h/verified_post_quantum_cryptography_on) - [Verified post-quantum cryptography on the web](https://pq.cryspen.com/)
 * [2025-01-14, 09:29:15](https://lobste.rs/s/ex9is0/power_open_source_postgresql) - [The power of open source in PostgreSQL](https://www.cybertec-postgresql.com/en/the-power-of-open-source-in-postgresql/)
 * [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_open_source) - [The Campsite codebase is now open source](https://github.com/campsite/campsite)
