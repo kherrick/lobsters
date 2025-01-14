@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-14, 18:13:29",
-      "https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities"
-    ],
-    [
-      "RSYNC: 6 vulnerabilities",
-      "https://www.openwall.com/lists/oss-security/2025/01/14/3"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 18:00:36",
       "https://lobste.rs/s/enx24i/gen_auto_trait_problem"
     ],
@@ -97,6 +87,16 @@
     [
       "Usable DOS-based live USB media, for distraction-free writing",
       "https://github.com/lproven/usb-dos"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 11:27:55",
+      "https://lobste.rs/s/g3vnqs/data_evolution_with_set_theoretic_types"
+    ],
+    [
+      "Data evolution with set-theoretic types",
+      "https://dashbit.co/blog/data-evolution-with-set-theoretic-types"
     ]
   ],
   [
