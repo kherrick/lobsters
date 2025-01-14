@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
 * [2025-01-14, 12:24:40](https://lobste.rs/s/6vrkky/taskfinder) - [Taskfinder](https://crates.io/crates/taskfinder)
 * [2025-01-14, 11:43:28](https://lobste.rs/s/g4vdop/usable_dos_based_live_usb_media_for) - [Usable DOS-based live USB media, for distraction-free writing](https://github.com/lproven/usb-dos)
 * [2025-01-14, 11:27:55](https://lobste.rs/s/g3vnqs/data_evolution_with_set_theoretic_types) - [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types)
