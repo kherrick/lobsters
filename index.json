@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-14, 18:13:29",
+      "https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities"
+    ],
+    [
+      "RSYNC: 6 vulnerabilities",
+      "https://www.openwall.com/lists/oss-security/2025/01/14/3"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 18:00:56",
+      "https://lobste.rs/s/kgalim/montreal_subway_foot_traffic_data_2024"
+    ],
+    [
+      "Montreal Subway Foot Traffic Data, 2024 edition",
+      "https://veronneau.org/montreal-subway-foot-traffic-data-2024-edition.html"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 18:00:36",
       "https://lobste.rs/s/enx24i/gen_auto_trait_problem"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-01-14, 08:33:48",
-      "https://lobste.rs/s/q5gxej/understanding_memory_management_part_1_c"
-    ],
-    [
-      "Understanding Memory Management, Part 1: C",
-      "https://educatedguesswork.org/posts/memory-management-1/"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 08:04:25",
       "https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for"
     ],
@@ -207,16 +217,6 @@
     [
       "The missing tier for query compilers",
       "https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 17:05:45",
-      "https://lobste.rs/s/zfs7n6/split_out_unrelated_changes"
-    ],
-    [
-      "Split Out Unrelated Changes",
-      "https://joshuakgoldberg.com/blog/split-out-unrelated-changes/"
     ]
   ],
   [
