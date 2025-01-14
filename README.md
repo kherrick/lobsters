@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 08:33:48](https://lobste.rs/s/q5gxej/understanding_memory_management_part_1_c) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-14, 07:40:19](https://lobste.rs/s/xzx7e0/odb_c_orm_version_2_5_0_released) - [ODB C++ ORM version 2.5.0 released](https://codesynthesis.com/pipermail/odb-announcements/2025/000045.html)
 * [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_open_source) - [The Campsite codebase is now open source](https://github.com/campsite/campsite)
@@ -14,7 +15,6 @@
 * [2025-01-13, 14:13:47](https://lobste.rs/s/lrmwtv/proposal_spec_reduce_error_handling) - [proposal: spec: reduce error handling boilerplate using ?](https://github.com/golang/go/issues/71203)
 * [2025-01-13, 12:25:16](https://lobste.rs/s/7okrtn/history_use_etc_glob_early_unixes) - [The history and use of /etc/glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 12:08:23](https://lobste.rs/s/gcmwfo/accurate_benchmarking) - [Accurate Benchmarking](https://ates.dev/posts/2025-01-12-accurate-benchmarking/)
-* [2025-01-13, 11:12:47](https://lobste.rs/s/u2i48m/cyantic_extensible_builder_pattern_for) - [Cyantic - an extensible builder pattern for Pydantic](https://github.com/flywhl/cyantic)
 * [2025-01-13, 10:49:46](https://lobste.rs/s/3mmmkm/code_reviews_success_story) - [Code reviews: A success story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 10:39:27](https://lobste.rs/s/usgssj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usgssj/what_are_you_doing_this_week)
 * [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
