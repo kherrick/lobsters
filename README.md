@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-14, 07:40:19](https://lobste.rs/s/xzx7e0/odb_c_orm_version_2_5_0_released) - [ODB C++ ORM version 2.5.0 released](https://codesynthesis.com/pipermail/odb-announcements/2025/000045.html)
 * [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_open_source) - [The Campsite codebase is now open source](https://github.com/campsite/campsite)
 * [2025-01-14, 01:33:02](https://lobste.rs/s/jcrpix/what_every_hacker_should_know_about_tlb) - [What Every Hacker Should Know About TLB Invalidation](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
@@ -18,7 +19,6 @@
 * [2025-01-13, 10:39:27](https://lobste.rs/s/usgssj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usgssj/what_are_you_doing_this_week)
 * [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-13, 04:38:47](https://lobste.rs/s/e9uesf/doug_lenat_s_source_code_for_am_eurisko) - [Doug Lenat's source code for AM and EURISKO](https://www.white-flame.com/am-eurisko.html)
-* [2025-01-13, 02:51:49](https://lobste.rs/s/xgpi0u/canva_outage_another_tale_saturation) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
 * [2025-01-13, 01:23:19](https://lobste.rs/s/x1qhzq/running_llms_on_nintendo_switch) - [Running LLMs on the Nintendo Switch](https://nocoffei.com/?p=352)
 * [2025-01-13, 00:46:05](https://lobste.rs/s/adqe0e/enlightenment_0_27_0_release) - [Enlightenment 0.27.0 Release](https://www.enlightenment.org/news/2025-01-11-enlightenment-0.27.0)
 * [2025-01-12, 21:15:24](https://lobste.rs/s/0phzrc/quicknotes_notes_application_makes) - [quicknotes: A notes application that makes taking notes... quick](https://github.com/ollien/quicknotes)
