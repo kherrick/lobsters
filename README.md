@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_open_source) - [The Campsite codebase is now open source](https://github.com/campsite/campsite)
 * [2025-01-14, 01:33:02](https://lobste.rs/s/jcrpix/what_every_hacker_should_know_about_tlb) - [What Every Hacker Should Know About TLB Invalidation](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
 * [2025-01-13, 22:33:52](https://lobste.rs/s/hpekv4/fluid_simulation_pendant) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
 * [2025-01-13, 21:00:41](https://lobste.rs/s/j3j2kt/missing_tier_for_query_compilers) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
@@ -15,7 +16,6 @@
 * [2025-01-13, 11:12:47](https://lobste.rs/s/u2i48m/cyantic_extensible_builder_pattern_for) - [Cyantic - an extensible builder pattern for Pydantic](https://github.com/flywhl/cyantic)
 * [2025-01-13, 10:49:46](https://lobste.rs/s/3mmmkm/code_reviews_success_story) - [Code reviews: A success story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 10:39:27](https://lobste.rs/s/usgssj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usgssj/what_are_you_doing_this_week)
-* [2025-01-13, 08:10:41](https://lobste.rs/s/mtqhcb/towards_more_coverage) - [Towards more coverage](https://dev.to/lizmat/towards-more-coverage-fne)
 * [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-13, 04:38:47](https://lobste.rs/s/e9uesf/doug_lenat_s_source_code_for_am_eurisko) - [Doug Lenat's source code for AM and EURISKO](https://www.white-flame.com/am-eurisko.html)
 * [2025-01-13, 02:51:49](https://lobste.rs/s/xgpi0u/canva_outage_another_tale_saturation) - [The Canva outage: another tale of saturation and resilience](https://surfingcomplexity.blog/2024/12/21/the-canva-outage-another-tale-of-saturation-and-resilience/)
