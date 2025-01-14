@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 10:27:31](https://lobste.rs/s/58fh96/coding_adventure_rendering_text) - [Coding Adventure: Rendering Text](https://youtube.com/watch?v=SO83KQuuZvg)
 * [2025-01-14, 10:05:54](https://lobste.rs/s/mokk7h/verified_post_quantum_cryptography_on) - [Verified post-quantum cryptography on the web](https://pq.cryspen.com/)
 * [2025-01-14, 09:29:15](https://lobste.rs/s/ex9is0/power_open_source_postgresql) - [The power of open source in PostgreSQL](https://www.cybertec-postgresql.com/en/the-power-of-open-source-in-postgresql/)
 * [2025-01-14, 08:33:48](https://lobste.rs/s/q5gxej/understanding_memory_management_part_1_c) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
@@ -24,7 +25,6 @@
 * [2025-01-13, 01:23:19](https://lobste.rs/s/x1qhzq/running_llms_on_nintendo_switch) - [Running LLMs on the Nintendo Switch](https://nocoffei.com/?p=352)
 * [2025-01-13, 00:46:05](https://lobste.rs/s/adqe0e/enlightenment_0_27_0_release) - [Enlightenment 0.27.0 Release](https://www.enlightenment.org/news/2025-01-11-enlightenment-0.27.0)
 * [2025-01-12, 19:32:24](https://lobste.rs/s/uioqud/niri_v25_01_released) - [niri v25.01 released](https://github.com/YaLTeR/niri/discussions/956)
-* [2025-01-12, 18:31:12](https://lobste.rs/s/yzcjwu/viewing_images) - [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
 
 ## [Archives](archives/index.md)
 

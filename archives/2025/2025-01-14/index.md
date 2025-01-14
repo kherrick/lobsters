@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 10:27:31](https://lobste.rs/s/58fh96/coding_adventure_rendering_text) - [Coding Adventure: Rendering Text](https://youtube.com/watch?v=SO83KQuuZvg)
 * [2025-01-14, 10:05:54](https://lobste.rs/s/mokk7h/verified_post_quantum_cryptography_on) - [Verified post-quantum cryptography on the web](https://pq.cryspen.com/)
 * [2025-01-14, 09:29:15](https://lobste.rs/s/ex9is0/power_open_source_postgresql) - [The power of open source in PostgreSQL](https://www.cybertec-postgresql.com/en/the-power-of-open-source-in-postgresql/)
 * [2025-01-14, 08:33:48](https://lobste.rs/s/q5gxej/understanding_memory_management_part_1_c) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
