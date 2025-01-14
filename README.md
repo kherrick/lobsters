@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-14, 18:13:29](https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities) - [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 * [2025-01-14, 18:00:36](https://lobste.rs/s/enx24i/gen_auto_trait_problem) - [The gen auto-trait problem](https://blog.yoshuawuyts.com/gen-auto-trait-problem/)
 * [2025-01-14, 17:15:10](https://lobste.rs/s/tw2thc/grist_modern_relational_spreadsheet) - [Grist - a modern relational spreadsheet](https://github.com/gristlabs/grist-core/)
 * [2025-01-14, 17:05:36](https://lobste.rs/s/ukf4qs/yjit_3_4_even_faster_more_memory_efficient) - [YJIT 3.4: Even Faster and More Memory-Efficient](https://railsatscale.com/2025-01-10-yjit-3-4-even-faster-and-more-memory-efficient/)
@@ -10,6 +9,7 @@
 * [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
 * [2025-01-14, 12:24:40](https://lobste.rs/s/6vrkky/taskfinder) - [Taskfinder](https://crates.io/crates/taskfinder)
 * [2025-01-14, 11:43:28](https://lobste.rs/s/g4vdop/usable_dos_based_live_usb_media_for) - [Usable DOS-based live USB media, for distraction-free writing](https://github.com/lproven/usb-dos)
+* [2025-01-14, 11:27:55](https://lobste.rs/s/g3vnqs/data_evolution_with_set_theoretic_types) - [Data evolution with set-theoretic types](https://dashbit.co/blog/data-evolution-with-set-theoretic-types)
 * [2025-01-14, 11:19:41](https://lobste.rs/s/8kdner/radical_cs) - [Radical CS](https://csrc.nist.gov/Presentations/2023/radical-cs)
 * [2025-01-14, 11:10:04](https://lobste.rs/s/3six5x/thunderbolt_ports_aren_t_all_same) - [Thunderbolt ports aren’t all the same](https://eclecticlight.co/2025/01/14/thunderbolt-ports-arent-all-the-same/)
 * [2025-01-14, 10:46:41](https://lobste.rs/s/fquwys/doompdf) - [DoomPDF](https://doompdf.pages.dev/)
