@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 16:39:40](https://lobste.rs/s/bwwdgk/ordinary_objects_prototype_high) - [Ordinary Objects | Prototype high fidelity augmented reality experiences](https://ordinary.space/)
 * [2025-01-14, 16:36:11](https://lobste.rs/s/i4xc6r/visible_zorker) - [The Visible Zorker](https://eblong.com/infocom/visi-zork1/)
 * [2025-01-14, 16:35:00](https://lobste.rs/s/p1ogyy/satisfiability_modulo_theory_cdcl) - [Satisfiability Modulo Theory - CDCL and Quantifiers](https://leni.sh/post/information-sign.02-smt/)
 * [2025-01-14, 16:33:48](https://lobste.rs/s/7lnmux/sympy_python_library_for_symbolic) - [SymPy, a Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
@@ -24,7 +25,6 @@
 * [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
 * [2025-01-13, 14:36:25](https://lobste.rs/s/kec1np/can_you_complete_oregon_trail_if_you_wait) - [Can you complete the Oregon Trail if you wait at a river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
 * [2025-01-13, 14:13:47](https://lobste.rs/s/lrmwtv/proposal_spec_reduce_error_handling) - [proposal: spec: reduce error handling boilerplate using ?](https://github.com/golang/go/issues/71203)
-* [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 
 ## [Archives](archives/index.md)
 

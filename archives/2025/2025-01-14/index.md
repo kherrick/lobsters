@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 16:39:40](https://lobste.rs/s/bwwdgk/ordinary_objects_prototype_high) - [Ordinary Objects | Prototype high fidelity augmented reality experiences](https://ordinary.space/)
 * [2025-01-14, 16:36:11](https://lobste.rs/s/i4xc6r/visible_zorker) - [The Visible Zorker](https://eblong.com/infocom/visi-zork1/)
 * [2025-01-14, 16:35:00](https://lobste.rs/s/p1ogyy/satisfiability_modulo_theory_cdcl) - [Satisfiability Modulo Theory - CDCL and Quantifiers](https://leni.sh/post/information-sign.02-smt/)
 * [2025-01-14, 16:33:48](https://lobste.rs/s/7lnmux/sympy_python_library_for_symbolic) - [SymPy, a Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
