@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 07:40:19](https://lobste.rs/s/xzx7e0/odb_c_orm_version_2_5_0_released) - [ODB C++ ORM version 2.5.0 released](https://codesynthesis.com/pipermail/odb-announcements/2025/000045.html)
 * [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_open_source) - [The Campsite codebase is now open source](https://github.com/campsite/campsite)
 * [2025-01-14, 01:33:02](https://lobste.rs/s/jcrpix/what_every_hacker_should_know_about_tlb) - [What Every Hacker Should Know About TLB Invalidation](https://grsecurity.net/h2hc_2024_what_every_hacker_should_know_TLB_invalidation.pdf)
 * [2025-01-13, 22:33:52](https://lobste.rs/s/hpekv4/fluid_simulation_pendant) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
 * [2025-01-13, 21:00:41](https://lobste.rs/s/j3j2kt/missing_tier_for_query_compilers) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-01-13, 17:05:45](https://lobste.rs/s/zfs7n6/split_out_unrelated_changes) - [Split Out Unrelated Changes](https://joshuakgoldberg.com/blog/split-out-unrelated-changes/)
 * [2025-01-13, 16:54:06](https://lobste.rs/s/qwqoad/subtitle_generator_using_whisper) - [Subtitle Generator Using Whisper](https://kracekumar.com/post/subtitle-generator-using-whisper/)
-* [2025-01-13, 16:11:54](https://lobste.rs/s/ftt9qy/tokyo_museum_offers_visitors_flashback) - [Tokyo museum offers visitors 'flashback' to defunct technology](https://www.reuters.com/world/japan/tokyo-museum-offers-visitors-flashback-defunct-technology-2025-01-13/)
 * [2025-01-13, 15:36:51](https://lobste.rs/s/3dlozj/derivative_grammars_symbolic_approach) - [Derivative grammars: a symbolic approach to parsing with derivatives](https://dl.acm.org/doi/10.1145/3360553)
 * [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
 * [2025-01-13, 14:36:25](https://lobste.rs/s/kec1np/can_you_complete_oregon_trail_if_you_wait) - [Can you complete the Oregon Trail if you wait at a river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
