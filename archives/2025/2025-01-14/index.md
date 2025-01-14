@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 17:05:36](https://lobste.rs/s/ukf4qs/yjit_3_4_even_faster_more_memory_efficient) - [YJIT 3.4: Even Faster and More Memory-Efficient](https://railsatscale.com/2025-01-10-yjit-3-4-even-faster-and-more-memory-efficient/)
+* [2025-01-14, 17:02:00](https://lobste.rs/s/l44aiu/implementing_fsrs_100_lines) - [Implementing FSRS in 100 Lines](https://borretti.me/article/implementing-fsrs-in-100-lines)
 * [2025-01-14, 16:39:40](https://lobste.rs/s/bwwdgk/ordinary_objects_prototype_high) - [Ordinary Objects | Prototype high fidelity augmented reality experiences](https://ordinary.space/)
 * [2025-01-14, 16:36:11](https://lobste.rs/s/i4xc6r/visible_zorker) - [The Visible Zorker](https://eblong.com/infocom/visi-zork1/)
 * [2025-01-14, 16:35:00](https://lobste.rs/s/p1ogyy/satisfiability_modulo_theory_cdcl) - [Satisfiability Modulo Theory - CDCL and Quantifiers](https://leni.sh/post/information-sign.02-smt/)
