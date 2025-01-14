@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 11:19:41](https://lobste.rs/s/8kdner/radical_cs) - [Radical CS](https://csrc.nist.gov/Presentations/2023/radical-cs)
 * [2025-01-14, 11:10:04](https://lobste.rs/s/3six5x/thunderbolt_ports_aren_t_all_same) - [Thunderbolt ports aren’t all the same](https://eclecticlight.co/2025/01/14/thunderbolt-ports-arent-all-the-same/)
 * [2025-01-14, 10:46:41](https://lobste.rs/s/fquwys/doompdf) - [DoomPDF](https://doompdf.pages.dev/)
 * [2025-01-14, 10:27:31](https://lobste.rs/s/58fh96/coding_adventure_rendering_text) - [Coding Adventure: Rendering Text](https://youtube.com/watch?v=SO83KQuuZvg)
