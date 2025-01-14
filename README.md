@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 16:17:06](https://lobste.rs/s/6zwfya/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2024 (ft. Iceweasel)](https://www.haiku-os.org/blog/waddlesplash/2025-01-13-haiku_activity_contract_report_december_2024/)
 * [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
 * [2025-01-14, 12:24:40](https://lobste.rs/s/6vrkky/taskfinder) - [Taskfinder](https://crates.io/crates/taskfinder)
 * [2025-01-14, 11:43:28](https://lobste.rs/s/g4vdop/usable_dos_based_live_usb_media_for) - [Usable DOS-based live USB media, for distraction-free writing](https://github.com/lproven/usb-dos)
@@ -18,7 +19,6 @@
 * [2025-01-13, 22:33:52](https://lobste.rs/s/hpekv4/fluid_simulation_pendant) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
 * [2025-01-13, 21:00:41](https://lobste.rs/s/j3j2kt/missing_tier_for_query_compilers) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-01-13, 17:05:45](https://lobste.rs/s/zfs7n6/split_out_unrelated_changes) - [Split Out Unrelated Changes](https://joshuakgoldberg.com/blog/split-out-unrelated-changes/)
-* [2025-01-13, 16:54:06](https://lobste.rs/s/qwqoad/subtitle_generator_using_whisper) - [Subtitle Generator Using Whisper](https://kracekumar.com/post/subtitle-generator-using-whisper/)
 * [2025-01-13, 15:36:51](https://lobste.rs/s/3dlozj/derivative_grammars_symbolic_approach) - [Derivative grammars: a symbolic approach to parsing with derivatives](https://dl.acm.org/doi/10.1145/3360553)
 * [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
 * [2025-01-13, 14:36:25](https://lobste.rs/s/kec1np/can_you_complete_oregon_trail_if_you_wait) - [Can you complete the Oregon Trail if you wait at a river for 14272 years: A study](https://moral.net.au/writing/2025/01/11/waiting_for_oregon/)
