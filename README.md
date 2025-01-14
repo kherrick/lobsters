@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 10:46:41](https://lobste.rs/s/fquwys/doompdf) - [DoomPDF](https://doompdf.pages.dev/)
 * [2025-01-14, 10:27:31](https://lobste.rs/s/58fh96/coding_adventure_rendering_text) - [Coding Adventure: Rendering Text](https://youtube.com/watch?v=SO83KQuuZvg)
 * [2025-01-14, 10:05:54](https://lobste.rs/s/mokk7h/verified_post_quantum_cryptography_on) - [Verified post-quantum cryptography on the web](https://pq.cryspen.com/)
 * [2025-01-14, 09:29:15](https://lobste.rs/s/ex9is0/power_open_source_postgresql) - [The power of open source in PostgreSQL](https://www.cybertec-postgresql.com/en/the-power-of-open-source-in-postgresql/)
@@ -18,7 +19,6 @@
 * [2025-01-13, 14:13:47](https://lobste.rs/s/lrmwtv/proposal_spec_reduce_error_handling) - [proposal: spec: reduce error handling boilerplate using ?](https://github.com/golang/go/issues/71203)
 * [2025-01-13, 12:25:16](https://lobste.rs/s/7okrtn/history_use_etc_glob_early_unixes) - [The history and use of /etc/glob in early Unixes](https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory)
 * [2025-01-13, 12:08:23](https://lobste.rs/s/gcmwfo/accurate_benchmarking) - [Accurate Benchmarking](https://ates.dev/posts/2025-01-12-accurate-benchmarking/)
-* [2025-01-13, 10:49:46](https://lobste.rs/s/3mmmkm/code_reviews_success_story) - [Code reviews: A success story](https://blogsystem5.substack.com/p/code-reviews-a-success-story)
 * [2025-01-13, 10:39:27](https://lobste.rs/s/usgssj/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/usgssj/what_are_you_doing_this_week)
 * [2025-01-13, 05:40:52](https://lobste.rs/s/rbstmd/backdooring_your_backdoors_another_20) - [Backdooring Your Backdoors - Another $20 Domain, More Governments](https://labs.watchtowr.com/more-governments-backdoors-in-your-backdoors/)
 * [2025-01-13, 04:38:47](https://lobste.rs/s/e9uesf/doug_lenat_s_source_code_for_am_eurisko) - [Doug Lenat's source code for AM and EURISKO](https://www.white-flame.com/am-eurisko.html)
