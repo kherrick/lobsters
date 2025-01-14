@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 16:36:11](https://lobste.rs/s/i4xc6r/visible_zorker) - [The Visible Zorker](https://eblong.com/infocom/visi-zork1/)
+* [2025-01-14, 16:35:00](https://lobste.rs/s/p1ogyy/satisfiability_modulo_theory_cdcl) - [Satisfiability Modulo Theory - CDCL and Quantifiers](https://leni.sh/post/information-sign.02-smt/)
+* [2025-01-14, 16:33:48](https://lobste.rs/s/7lnmux/sympy_python_library_for_symbolic) - [SymPy, a Python library for symbolic mathematics](https://www.sympy.org/en/index.html)
 * [2025-01-14, 16:17:06](https://lobste.rs/s/6zwfya/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2024 (ft. Iceweasel)](https://www.haiku-os.org/blog/waddlesplash/2025-01-13-haiku_activity_contract_report_december_2024/)
 * [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
 * [2025-01-14, 12:24:40](https://lobste.rs/s/6vrkky/taskfinder) - [Taskfinder](https://crates.io/crates/taskfinder)
