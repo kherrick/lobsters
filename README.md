@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-14, 09:29:15](https://lobste.rs/s/ex9is0/power_open_source_postgresql) - [The power of open source in PostgreSQL](https://www.cybertec-postgresql.com/en/the-power-of-open-source-in-postgresql/)
 * [2025-01-14, 08:33:48](https://lobste.rs/s/q5gxej/understanding_memory_management_part_1_c) - [Understanding Memory Management, Part 1: C](https://educatedguesswork.org/posts/memory-management-1/)
 * [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-14, 07:40:19](https://lobste.rs/s/xzx7e0/odb_c_orm_version_2_5_0_released) - [ODB C++ ORM version 2.5.0 released](https://codesynthesis.com/pipermail/odb-announcements/2025/000045.html)
@@ -22,7 +23,6 @@
 * [2025-01-13, 01:23:19](https://lobste.rs/s/x1qhzq/running_llms_on_nintendo_switch) - [Running LLMs on the Nintendo Switch](https://nocoffei.com/?p=352)
 * [2025-01-13, 00:46:05](https://lobste.rs/s/adqe0e/enlightenment_0_27_0_release) - [Enlightenment 0.27.0 Release](https://www.enlightenment.org/news/2025-01-11-enlightenment-0.27.0)
 * [2025-01-12, 21:15:24](https://lobste.rs/s/0phzrc/quicknotes_notes_application_makes) - [quicknotes: A notes application that makes taking notes... quick](https://github.com/ollien/quicknotes)
-* [2025-01-12, 20:04:54](https://lobste.rs/s/0y7yho/from_ascii_asic_porting_donut_c_tiny_slice) - [From ASCII to ASIC: Porting donut.c to a tiny slice of silicon](https://www.a1k0n.net/2025/01/10/tiny-tapeout-donut.html)
 * [2025-01-12, 19:32:24](https://lobste.rs/s/uioqud/niri_v25_01_released) - [niri v25.01 released](https://github.com/YaLTeR/niri/discussions/956)
 * [2025-01-12, 18:31:12](https://lobste.rs/s/yzcjwu/viewing_images) - [Viewing images](https://wolf.nereid.pl/posts/image-viewer/)
 
