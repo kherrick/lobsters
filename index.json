@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-14, 11:43:28",
+      "https://lobste.rs/s/g4vdop/usable_dos_based_live_usb_media_for"
+    ],
+    [
+      "Usable DOS-based live USB media, for distraction-free writing",
+      "https://github.com/lproven/usb-dos"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 11:27:55",
       "https://lobste.rs/s/g3vnqs/data_evolution_with_set_theoretic_types"
     ],
@@ -197,16 +207,6 @@
     [
       "proposal: spec: reduce error handling boilerplate using ?",
       "https://github.com/golang/go/issues/71203"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 12:25:16",
-      "https://lobste.rs/s/7okrtn/history_use_etc_glob_early_unixes"
-    ],
-    [
-      "The history and use of /etc/glob in early Unixes",
-      "https://utcc.utoronto.ca/~cks/space/blog/unix/EtcGlobHistory"
     ]
   ],
   [
