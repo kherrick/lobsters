@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-15, 16:56:13](https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome) - [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
 * [2025-01-15, 16:26:23](https://lobste.rs/s/rq5klc/rosetta_code) - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
 * [2025-01-15, 14:47:02](https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just) - [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
@@ -20,7 +21,6 @@
 * [2025-01-14, 18:00:36](https://lobste.rs/s/enx24i/gen_auto_trait_problem) - [The gen auto-trait problem](https://blog.yoshuawuyts.com/gen-auto-trait-problem/)
 * [2025-01-14, 17:15:10](https://lobste.rs/s/tw2thc/grist_modern_relational_spreadsheet) - [Grist - a modern relational spreadsheet](https://github.com/gristlabs/grist-core/)
 * [2025-01-14, 17:05:36](https://lobste.rs/s/ukf4qs/yjit_3_4_even_faster_more_memory_efficient) - [YJIT 3.4: Even Faster and More Memory-Efficient](https://railsatscale.com/2025-01-10-yjit-3-4-even-faster-and-more-memory-efficient/)
-* [2025-01-14, 16:17:06](https://lobste.rs/s/6zwfya/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2024 (ft. Iceweasel)](https://www.haiku-os.org/blog/waddlesplash/2025-01-13-haiku_activity_contract_report_december_2024/)
 * [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
 * [2025-01-14, 11:43:28](https://lobste.rs/s/g4vdop/usable_dos_based_live_usb_media_for) - [Usable DOS-based live USB media, for distraction-free writing](https://github.com/lproven/usb-dos)
 * [2025-01-14, 11:19:41](https://lobste.rs/s/8kdner/radical_cs) - [Radical CS](https://csrc.nist.gov/Presentations/2023/radical-cs)
