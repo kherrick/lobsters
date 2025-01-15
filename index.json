@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-15, 09:46:39",
+      "https://lobste.rs/s/jtbtts/gitui_release_0_27_adds_management"
+    ],
+    [
+      "gitui release 0.27 adds management of remotes",
+      "https://github.com/extrawurst/gitui/releases/tag/v0.27.0"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 08:35:04",
       "https://lobste.rs/s/2jwm1m/django_vs_fastapi_honest_comparison"
     ],
@@ -87,16 +97,6 @@
     [
       "Catching memory leaks with your test suite",
       "https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 19:10:04",
-      "https://lobste.rs/s/9tiys9/tracing_large_memory_allocations_rust"
-    ],
-    [
-      "Tracing Large Memory Allocations in Rust with BPFtrace",
-      "https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace"
     ]
   ],
   [
