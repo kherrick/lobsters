@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 10:25:22](https://lobste.rs/s/k7vtqi/why_some_dvla_digital_services_don_t_work) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
 * [2025-01-15, 09:46:39](https://lobste.rs/s/jtbtts/gitui_release_0_27_adds_management) - [gitui release 0.27 adds management of remotes](https://github.com/extrawurst/gitui/releases/tag/v0.27.0)
 * [2025-01-15, 08:35:04](https://lobste.rs/s/2jwm1m/django_vs_fastapi_honest_comparison) - [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django)
 * [2025-01-15, 06:34:27](https://lobste.rs/s/mxhdql/justified_text_better_than_expected) - [Justified Text: Better Than Expected?](https://cloudfour.com/thinks/justified-text-better-than-expected/)
