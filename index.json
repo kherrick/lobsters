@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-15, 10:25:22",
+      "https://lobste.rs/s/k7vtqi/why_some_dvla_digital_services_don_t_work"
+    ],
+    [
+      "Why some DVLA digital services don't work at night",
+      "https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 09:46:39",
       "https://lobste.rs/s/jtbtts/gitui_release_0_27_adds_management"
     ],
@@ -237,16 +247,6 @@
     [
       "The Campsite codebase is now source available",
       "https://github.com/campsite/campsite"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 22:33:52",
-      "https://lobste.rs/s/hpekv4/fluid_simulation_pendant"
-    ],
-    [
-      "Fluid Simulation Pendant",
-      "https://mitxela.com/projects/fluid-pendant"
     ]
   ]
 ]
