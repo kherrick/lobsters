@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-01-15, 12:30:35",
-      "https://lobste.rs/s/xgnrqc/using_google_forms_for_waitlists"
-    ],
-    [
-      "Using Google Forms for Waitlists and Launches",
-      "https://vpetersson.com/2025/01/14/using-google-forms-for-waitlists.html"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 11:11:42",
       "https://lobste.rs/s/svh2os/open_props_ui_modern_css_ui_library"
     ],
@@ -247,6 +237,16 @@
     [
       "Why is Git Autocorrect too fast for Formula One drivers?",
       "https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 06:51:53",
+      "https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_source"
+    ],
+    [
+      "The Campsite codebase is now source available",
+      "https://github.com/campsite/campsite"
     ]
   ]
 ]
