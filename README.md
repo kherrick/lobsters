@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-15, 14:47:02](https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just) - [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
 * [2025-01-15, 14:12:40](https://lobste.rs/s/12vnde/reverse_engineering_vanmoof_e_shifter) - [Reverse Engineering a VanMoof e-shifter – Part 2 – Decoding the Signals](https://mikecoats.com/vanmoof-eshifter-reverse-engineering-part-2/)
-* [2025-01-15, 13:38:58](https://lobste.rs/s/y56cym/investigating_strange_out_memory_error) - [Investigating a Strange Out-of-Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 * [2025-01-15, 13:09:55](https://lobste.rs/s/accviq/introducing_datetime_format) - [Introducing DateTime::Format::RelativeTime](https://www.perl.com/article/release-of-new-module-datetime-format-relativetime/)
 * [2025-01-15, 11:11:42](https://lobste.rs/s/svh2os/open_props_ui_modern_css_ui_library) - [Open Props UI | A modern CSS UI library](https://open-props-ui.netlify.app/)
 * [2025-01-15, 11:06:40](https://lobste.rs/s/3wphns/use_cases_for_form_method_dialog) - [Use cases for <form method=\"dialog\">](https://bhoot.dev/2025/form-method-dialog/)
