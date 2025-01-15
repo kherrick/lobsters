@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-15, 11:28:58](https://lobste.rs/s/nfwjav/running_llm_evals_right_next_your_code) - [Running LLM evals right next to your code](https://www.maragu.dev/blog/running-llm-evals-right-next-to-your-code)
 * [2025-01-15, 11:11:42](https://lobste.rs/s/svh2os/open_props_ui_modern_css_ui_library) - [Open Props UI | A modern CSS UI library](https://open-props-ui.netlify.app/)
 * [2025-01-15, 11:06:40](https://lobste.rs/s/3wphns/use_cases_for_form_method_dialog) - [Use cases for <form method=\"dialog\">](https://bhoot.dev/2025/form-method-dialog/)
 * [2025-01-15, 10:55:26](https://lobste.rs/s/7elg8d/basic_star_trek_games) - [BASIC Star Trek Games](https://newton.freehostia.com/treks/index.html)
@@ -22,7 +23,6 @@
 * [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
 * [2025-01-14, 11:43:28](https://lobste.rs/s/g4vdop/usable_dos_based_live_usb_media_for) - [Usable DOS-based live USB media, for distraction-free writing](https://github.com/lproven/usb-dos)
 * [2025-01-14, 11:19:41](https://lobste.rs/s/8kdner/radical_cs) - [Radical CS](https://csrc.nist.gov/Presentations/2023/radical-cs)
-* [2025-01-14, 11:10:04](https://lobste.rs/s/3six5x/thunderbolt_ports_aren_t_all_same) - [Thunderbolt ports aren’t all the same](https://eclecticlight.co/2025/01/14/thunderbolt-ports-arent-all-the-same/)
 * [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_source) - [The Campsite codebase is now source available](https://github.com/campsite/campsite)
 
