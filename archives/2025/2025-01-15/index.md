@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 20:54:38](https://lobste.rs/s/2dq62j/doompdf_port_doom_1993_runs_inside_pdf) - [doompdf: A port of Doom (1993) that runs inside a PDF file](https://github.com/ading2210/doompdf)
 * [2025-01-15, 19:02:26](https://lobste.rs/s/y7n6lo/best_laptop_ever) - [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
 * [2025-01-15, 18:51:43](https://lobste.rs/s/ifr3u0/unraveling_postgres_segfault_uncovered) - [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/)
 * [2025-01-15, 17:34:05](https://lobste.rs/s/coozd3/bbot_commands_for_recon) - [BBOT Commands for Recon](https://gcollazo.com/essential-bbot-commands-for-recon/)

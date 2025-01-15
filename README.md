@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-15, 20:54:38](https://lobste.rs/s/2dq62j/doompdf_port_doom_1993_runs_inside_pdf) - [doompdf: A port of Doom (1993) that runs inside a PDF file](https://github.com/ading2210/doompdf)
 * [2025-01-15, 19:02:26](https://lobste.rs/s/y7n6lo/best_laptop_ever) - [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
 * [2025-01-15, 18:51:43](https://lobste.rs/s/ifr3u0/unraveling_postgres_segfault_uncovered) - [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/)
 * [2025-01-15, 17:34:05](https://lobste.rs/s/coozd3/bbot_commands_for_recon) - [BBOT Commands for Recon](https://gcollazo.com/essential-bbot-commands-for-recon/)
@@ -22,7 +23,6 @@
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 18:13:29](https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities) - [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 * [2025-01-14, 17:15:10](https://lobste.rs/s/tw2thc/grist_modern_relational_spreadsheet) - [Grist - a modern relational spreadsheet](https://github.com/gristlabs/grist-core/)
-* [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
 * [2025-01-14, 11:43:28](https://lobste.rs/s/g4vdop/usable_dos_based_live_usb_media_for) - [Usable DOS-based live USB media, for distraction-free writing](https://github.com/lproven/usb-dos)
 * [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 
