@@ -9,6 +9,7 @@
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 19:33:45](https://lobste.rs/s/ldm8sa/why_ml_ai_demand_new_approach_threat) - [Why ML and AI demand a new approach to threat modeling](https://www.fullstory.com/blog/rethinking-security/)
 * [2025-01-14, 19:30:15](https://lobste.rs/s/prmbij/catching_memory_leaks_with_your_test) - [Catching memory leaks with your test suite](https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/)
+* [2025-01-14, 19:10:04](https://lobste.rs/s/9tiys9/tracing_large_memory_allocations_rust) - [Tracing Large Memory Allocations in Rust with BPFtrace](https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace)
 * [2025-01-14, 18:13:29](https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities) - [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 * [2025-01-14, 18:00:56](https://lobste.rs/s/kgalim/montreal_subway_foot_traffic_data_2024) - [Montreal Subway Foot Traffic Data, 2024 edition](https://veronneau.org/montreal-subway-foot-traffic-data-2024-edition.html)
 * [2025-01-14, 18:00:36](https://lobste.rs/s/enx24i/gen_auto_trait_problem) - [The gen auto-trait problem](https://blog.yoshuawuyts.com/gen-auto-trait-problem/)
