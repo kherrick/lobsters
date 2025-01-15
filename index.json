@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-01-14, 19:10:04",
-      "https://lobste.rs/s/9tiys9/tracing_large_memory_allocations_rust"
-    ],
-    [
-      "Tracing Large Memory Allocations in Rust with BPFtrace",
-      "https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 18:13:29",
       "https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities"
     ],
@@ -121,12 +111,12 @@
   ],
   [
     [
-      "2025-01-14, 16:36:11",
-      "https://lobste.rs/s/i4xc6r/visible_zorker"
+      "2025-01-14, 16:39:40",
+      "https://lobste.rs/s/bwwdgk/ordinary_objects_prototype_high"
     ],
     [
-      "The Visible Zorker",
-      "https://eblong.com/infocom/visi-zork1/"
+      "Ordinary Objects | Prototype high fidelity augmented reality experiences",
+      "https://ordinary.space/"
     ]
   ],
   [
@@ -147,6 +137,16 @@
     [
       "RP2350 Hacking Challenge results",
       "https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 12:24:40",
+      "https://lobste.rs/s/6vrkky/taskfinder"
+    ],
+    [
+      "Taskfinder",
+      "https://crates.io/crates/taskfinder"
     ]
   ],
   [
