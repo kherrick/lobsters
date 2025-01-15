@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-01-14, 19:10:04",
+      "https://lobste.rs/s/9tiys9/tracing_large_memory_allocations_rust"
+    ],
+    [
+      "Tracing Large Memory Allocations in Rust with BPFtrace",
+      "https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace"
+    ]
+  ],
+  [
+    [
       "2025-01-14, 18:13:29",
       "https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities"
     ],
@@ -237,16 +247,6 @@
     [
       "Fluid Simulation Pendant",
       "https://mitxela.com/projects/fluid-pendant"
-    ]
-  ],
-  [
-    [
-      "2025-01-13, 15:02:34",
-      "https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go"
-    ],
-    [
-      "Creator of Ghostty talks Zig over Go",
-      "https://www.youtube.com/watch?v=YQnz7L6x068"
     ]
   ]
 ]
