@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
 * [2025-01-15, 19:02:26](https://lobste.rs/s/y7n6lo/best_laptop_ever) - [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
+* [2025-01-15, 18:51:43](https://lobste.rs/s/ifr3u0/unraveling_postgres_segfault_uncovered) - [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/)
 * [2025-01-15, 17:34:05](https://lobste.rs/s/coozd3/bbot_commands_for_recon) - [BBOT Commands for Recon](https://gcollazo.com/essential-bbot-commands-for-recon/)
 * [2025-01-15, 17:28:38](https://lobste.rs/s/wlqiq1/landing_nostromo) - [Landing the Nostromo](https://archive.org/details/creativecomputing-1981-06)
 * [2025-01-15, 16:56:13](https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome) - [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
