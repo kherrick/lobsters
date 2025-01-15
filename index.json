@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-01-15, 14:47:02",
-      "https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just"
+      "2025-01-15, 15:33:21",
+      "https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork"
     ],
     [
-      "Async Rust is about concurrency, not (just) performance",
-      "https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html"
+      "Don't Use Session (Signal Fork)",
+      "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 13:38:58",
+      "https://lobste.rs/s/y56cym/investigating_strange_out_memory_error"
+    ],
+    [
+      "Investigating a Strange Out-of-Memory Error",
+      "https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/"
     ]
   ],
   [
@@ -147,16 +157,6 @@
     [
       "Go 1.24 interactive tour",
       "https://antonz.org/go-1-24/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 19:30:15",
-      "https://lobste.rs/s/prmbij/catching_memory_leaks_with_your_test"
-    ],
-    [
-      "Catching memory leaks with your test suite",
-      "https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/"
     ]
   ],
   [
