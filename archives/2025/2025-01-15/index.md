@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 13:09:55](https://lobste.rs/s/accviq/introducing_datetime_format) - [Introducing DateTime::Format::RelativeTime](https://www.perl.com/article/release-of-new-module-datetime-format-relativetime/)
 * [2025-01-15, 12:30:35](https://lobste.rs/s/xgnrqc/using_google_forms_for_waitlists) - [Using Google Forms for Waitlists and Launches](https://vpetersson.com/2025/01/14/using-google-forms-for-waitlists.html)
 * [2025-01-15, 11:28:58](https://lobste.rs/s/nfwjav/running_llm_evals_right_next_your_code) - [Running LLM evals right next to your code](https://www.maragu.dev/blog/running-llm-evals-right-next-to-your-code)
 * [2025-01-15, 11:11:42](https://lobste.rs/s/svh2os/open_props_ui_modern_css_ui_library) - [Open Props UI | A modern CSS UI library](https://open-props-ui.netlify.app/)
