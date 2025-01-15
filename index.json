@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-15, 13:09:55",
+      "https://lobste.rs/s/accviq/introducing_datetime_format"
+    ],
+    [
+      "Introducing DateTime::Format::RelativeTime",
+      "https://www.perl.com/article/release-of-new-module-datetime-format-relativetime/"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 12:30:35",
       "https://lobste.rs/s/xgnrqc/using_google_forms_for_waitlists"
     ],
@@ -237,16 +247,6 @@
     [
       "Why is Git Autocorrect too fast for Formula One drivers?",
       "https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 06:51:53",
-      "https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_source"
-    ],
-    [
-      "The Campsite codebase is now source available",
-      "https://github.com/campsite/campsite"
     ]
   ]
 ]
