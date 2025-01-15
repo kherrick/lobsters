@@ -2,7 +2,7 @@
 
 * [2025-01-15, 01:24:23](https://lobste.rs/s/zodexz/how_rqlite_is_tested_vallified) - [How rqlite is tested – Vallified](https://philipotoole.com/how-is-rqlite-tested/)
 * [2025-01-15, 00:52:30](https://lobste.rs/s/viyhqi/nix_death_by_thousand_cuts) - [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
-* [2025-01-14, 20:47:39](https://lobste.rs/s/9z8xst/nreversal_fortune_thermodynamics) - [NREVERSAL of Fortune: the thermodynamics of garbage collection](https://plover.com/~mjd/misc/hbaker-archive/ReverseGC.html)
+* [2025-01-14, 23:52:11](https://lobste.rs/s/d2uety/optimizing_ruby_s_json_part_7) - [Optimizing Ruby’s JSON, Part 7](https://byroot.github.io/ruby/json/2025/01/14/optimizing-ruby-json-part-7.html)
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 19:33:45](https://lobste.rs/s/ldm8sa/why_ml_ai_demand_new_approach_threat) - [Why ML and AI demand a new approach to threat modeling](https://www.fullstory.com/blog/rethinking-security/)
 * [2025-01-14, 19:30:15](https://lobste.rs/s/prmbij/catching_memory_leaks_with_your_test) - [Catching memory leaks with your test suite](https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/)

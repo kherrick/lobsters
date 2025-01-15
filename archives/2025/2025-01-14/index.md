@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-14](index.md)
 
+* [2025-01-14, 23:52:11](https://lobste.rs/s/d2uety/optimizing_ruby_s_json_part_7) - [Optimizing Ruby’s JSON, Part 7](https://byroot.github.io/ruby/json/2025/01/14/optimizing-ruby-json-part-7.html)
 * [2025-01-14, 20:47:39](https://lobste.rs/s/9z8xst/nreversal_fortune_thermodynamics) - [NREVERSAL of Fortune: the thermodynamics of garbage collection](https://plover.com/~mjd/misc/hbaker-archive/ReverseGC.html)
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 19:33:45](https://lobste.rs/s/ldm8sa/why_ml_ai_demand_new_approach_threat) - [Why ML and AI demand a new approach to threat modeling](https://www.fullstory.com/blog/rethinking-security/)
