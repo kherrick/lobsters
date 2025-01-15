@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-15, 01:24:23](https://lobste.rs/s/zodexz/how_rqlite_is_tested_vallified) - [How rqlite is tested – Vallified](https://philipotoole.com/how-is-rqlite-tested/)
+* [2025-01-15, 00:52:30](https://lobste.rs/s/viyhqi/nix_death_by_thousand_cuts) - [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-14, 20:47:39](https://lobste.rs/s/9z8xst/nreversal_fortune_thermodynamics) - [NREVERSAL of Fortune: the thermodynamics of garbage collection](https://plover.com/~mjd/misc/hbaker-archive/ReverseGC.html)
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 19:33:45](https://lobste.rs/s/ldm8sa/why_ml_ai_demand_new_approach_threat) - [Why ML and AI demand a new approach to threat modeling](https://www.fullstory.com/blog/rethinking-security/)
@@ -10,9 +12,9 @@
 * [2025-01-14, 17:15:10](https://lobste.rs/s/tw2thc/grist_modern_relational_spreadsheet) - [Grist - a modern relational spreadsheet](https://github.com/gristlabs/grist-core/)
 * [2025-01-14, 17:05:36](https://lobste.rs/s/ukf4qs/yjit_3_4_even_faster_more_memory_efficient) - [YJIT 3.4: Even Faster and More Memory-Efficient](https://railsatscale.com/2025-01-10-yjit-3-4-even-faster-and-more-memory-efficient/)
 * [2025-01-14, 17:02:00](https://lobste.rs/s/l44aiu/implementing_fsrs_100_lines) - [Implementing FSRS in 100 Lines](https://borretti.me/article/implementing-fsrs-in-100-lines)
+* [2025-01-14, 16:36:11](https://lobste.rs/s/i4xc6r/visible_zorker) - [The Visible Zorker](https://eblong.com/infocom/visi-zork1/)
 * [2025-01-14, 16:17:06](https://lobste.rs/s/6zwfya/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2024 (ft. Iceweasel)](https://www.haiku-os.org/blog/waddlesplash/2025-01-13-haiku_activity_contract_report_december_2024/)
 * [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
-* [2025-01-14, 12:24:40](https://lobste.rs/s/6vrkky/taskfinder) - [Taskfinder](https://crates.io/crates/taskfinder)
 * [2025-01-14, 11:43:28](https://lobste.rs/s/g4vdop/usable_dos_based_live_usb_media_for) - [Usable DOS-based live USB media, for distraction-free writing](https://github.com/lproven/usb-dos)
 * [2025-01-14, 11:19:41](https://lobste.rs/s/8kdner/radical_cs) - [Radical CS](https://csrc.nist.gov/Presentations/2023/radical-cs)
 * [2025-01-14, 11:10:04](https://lobste.rs/s/3six5x/thunderbolt_ports_aren_t_all_same) - [Thunderbolt ports aren’t all the same](https://eclecticlight.co/2025/01/14/thunderbolt-ports-arent-all-the-same/)
@@ -22,9 +24,7 @@
 * [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_source) - [The Campsite codebase is now source available](https://github.com/campsite/campsite)
 * [2025-01-13, 22:33:52](https://lobste.rs/s/hpekv4/fluid_simulation_pendant) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
-* [2025-01-13, 21:00:41](https://lobste.rs/s/j3j2kt/missing_tier_for_query_compilers) - [The missing tier for query compilers](https://www.scattered-thoughts.net/writing/the-missing-tier-for-query-compilers/)
 * [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
-* [2025-01-13, 14:13:47](https://lobste.rs/s/lrmwtv/proposal_spec_reduce_error_handling) - [proposal: spec: reduce error handling boilerplate using ?](https://github.com/golang/go/issues/71203)
 
 ## [Archives](archives/index.md)
 
