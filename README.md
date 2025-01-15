@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-15, 05:29:53](https://lobste.rs/s/txwxzd/ndjson) - [ndjson](https://kracekumar.com/post/ndjson/)
 * [2025-01-15, 01:24:23](https://lobste.rs/s/zodexz/how_rqlite_is_tested_vallified) - [How rqlite is tested – Vallified](https://philipotoole.com/how-is-rqlite-tested/)
 * [2025-01-15, 00:52:30](https://lobste.rs/s/viyhqi/nix_death_by_thousand_cuts) - [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-14, 23:52:11](https://lobste.rs/s/d2uety/optimizing_ruby_s_json_part_7) - [Optimizing Ruby’s JSON, Part 7](https://byroot.github.io/ruby/json/2025/01/14/optimizing-ruby-json-part-7.html)
@@ -11,7 +12,6 @@
 * [2025-01-14, 17:15:10](https://lobste.rs/s/tw2thc/grist_modern_relational_spreadsheet) - [Grist - a modern relational spreadsheet](https://github.com/gristlabs/grist-core/)
 * [2025-01-14, 17:05:36](https://lobste.rs/s/ukf4qs/yjit_3_4_even_faster_more_memory_efficient) - [YJIT 3.4: Even Faster and More Memory-Efficient](https://railsatscale.com/2025-01-10-yjit-3-4-even-faster-and-more-memory-efficient/)
 * [2025-01-14, 17:02:00](https://lobste.rs/s/l44aiu/implementing_fsrs_100_lines) - [Implementing FSRS in 100 Lines](https://borretti.me/article/implementing-fsrs-in-100-lines)
-* [2025-01-14, 16:39:40](https://lobste.rs/s/bwwdgk/ordinary_objects_prototype_high) - [Ordinary Objects | Prototype high fidelity augmented reality experiences](https://ordinary.space/)
 * [2025-01-14, 16:17:06](https://lobste.rs/s/6zwfya/haiku_activity_contract_report_december) - [Haiku Activity & Contract Report, December 2024 (ft. Iceweasel)](https://www.haiku-os.org/blog/waddlesplash/2025-01-13-haiku_activity_contract_report_december_2024/)
 * [2025-01-14, 15:12:44](https://lobste.rs/s/mnofes/rp2350_hacking_challenge_results) - [RP2350 Hacking Challenge results](https://www.raspberrypi.com/news/security-through-transparency-rp2350-hacking-challenge-results-are-in/)
 * [2025-01-14, 12:24:40](https://lobste.rs/s/6vrkky/taskfinder) - [Taskfinder](https://crates.io/crates/taskfinder)
