@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-15, 11:28:58](https://lobste.rs/s/nfwjav/running_llm_evals_right_next_your_code) - [Running LLM evals right next to your code](https://www.maragu.dev/blog/running-llm-evals-right-next-to-your-code)
+* [2025-01-15, 12:30:35](https://lobste.rs/s/xgnrqc/using_google_forms_for_waitlists) - [Using Google Forms for Waitlists and Launches](https://vpetersson.com/2025/01/14/using-google-forms-for-waitlists.html)
 * [2025-01-15, 11:11:42](https://lobste.rs/s/svh2os/open_props_ui_modern_css_ui_library) - [Open Props UI | A modern CSS UI library](https://open-props-ui.netlify.app/)
 * [2025-01-15, 11:06:40](https://lobste.rs/s/3wphns/use_cases_for_form_method_dialog) - [Use cases for <form method=\"dialog\">](https://bhoot.dev/2025/form-method-dialog/)
 * [2025-01-15, 10:55:26](https://lobste.rs/s/7elg8d/basic_star_trek_games) - [BASIC Star Trek Games](https://newton.freehostia.com/treks/index.html)
