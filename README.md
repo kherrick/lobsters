@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-15, 06:34:27](https://lobste.rs/s/mxhdql/justified_text_better_than_expected) - [Justified Text: Better Than Expected?](https://cloudfour.com/thinks/justified-text-better-than-expected/)
+* [2025-01-15, 06:04:05](https://lobste.rs/s/7aanyc/people_should_own_town_square) - [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
 * [2025-01-15, 05:29:53](https://lobste.rs/s/txwxzd/ndjson) - [ndjson](https://kracekumar.com/post/ndjson/)
 * [2025-01-15, 01:24:23](https://lobste.rs/s/zodexz/how_rqlite_is_tested_vallified) - [How rqlite is tested – Vallified](https://philipotoole.com/how-is-rqlite-tested/)
 * [2025-01-15, 00:52:30](https://lobste.rs/s/viyhqi/nix_death_by_thousand_cuts) - [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
@@ -21,7 +22,6 @@
 * [2025-01-14, 11:10:04](https://lobste.rs/s/3six5x/thunderbolt_ports_aren_t_all_same) - [Thunderbolt ports aren’t all the same](https://eclecticlight.co/2025/01/14/thunderbolt-ports-arent-all-the-same/)
 * [2025-01-14, 10:46:41](https://lobste.rs/s/fquwys/doompdf) - [DoomPDF](https://doompdf.pages.dev/)
 * [2025-01-14, 10:27:31](https://lobste.rs/s/58fh96/coding_adventure_rendering_text) - [Coding Adventure: Rendering Text](https://youtube.com/watch?v=SO83KQuuZvg)
-* [2025-01-14, 09:29:15](https://lobste.rs/s/ex9is0/power_open_source_postgresql) - [The power of open source in PostgreSQL](https://www.cybertec-postgresql.com/en/the-power-of-open-source-in-postgresql/)
 * [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_source) - [The Campsite codebase is now source available](https://github.com/campsite/campsite)
 * [2025-01-13, 22:33:52](https://lobste.rs/s/hpekv4/fluid_simulation_pendant) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
