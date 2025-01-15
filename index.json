@@ -11,22 +11,22 @@
   ],
   [
     [
-      "2025-01-15, 14:12:40",
-      "https://lobste.rs/s/12vnde/reverse_engineering_vanmoof_e_shifter"
-    ],
-    [
-      "Reverse Engineering a VanMoof e-shifter – Part 2 – Decoding the Signals",
-      "https://mikecoats.com/vanmoof-eshifter-reverse-engineering-part-2/"
-    ]
-  ],
-  [
-    [
       "2025-01-15, 13:09:55",
       "https://lobste.rs/s/accviq/introducing_datetime_format"
     ],
     [
       "Introducing DateTime::Format::RelativeTime",
       "https://www.perl.com/article/release-of-new-module-datetime-format-relativetime/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 11:28:58",
+      "https://lobste.rs/s/nfwjav/running_llm_evals_right_next_your_code"
+    ],
+    [
+      "Running LLM evals right next to your code",
+      "https://www.maragu.dev/blog/running-llm-evals-right-next-to-your-code"
     ]
   ],
   [
