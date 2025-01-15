@@ -7,6 +7,7 @@
 * [2025-01-14, 23:52:11](https://lobste.rs/s/d2uety/optimizing_ruby_s_json_part_7) - [Optimizing Ruby’s JSON, Part 7](https://byroot.github.io/ruby/json/2025/01/14/optimizing-ruby-json-part-7.html)
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 19:30:15](https://lobste.rs/s/prmbij/catching_memory_leaks_with_your_test) - [Catching memory leaks with your test suite](https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/)
+* [2025-01-14, 19:10:04](https://lobste.rs/s/9tiys9/tracing_large_memory_allocations_rust) - [Tracing Large Memory Allocations in Rust with BPFtrace](https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace)
 * [2025-01-14, 18:13:29](https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities) - [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 * [2025-01-14, 18:00:56](https://lobste.rs/s/kgalim/montreal_subway_foot_traffic_data_2024) - [Montreal Subway Foot Traffic Data, 2024 edition](https://veronneau.org/montreal-subway-foot-traffic-data-2024-edition.html)
 * [2025-01-14, 18:00:36](https://lobste.rs/s/enx24i/gen_auto_trait_problem) - [The gen auto-trait problem](https://blog.yoshuawuyts.com/gen-auto-trait-problem/)
@@ -24,7 +25,6 @@
 * [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 * [2025-01-14, 06:51:53](https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_source) - [The Campsite codebase is now source available](https://github.com/campsite/campsite)
 * [2025-01-13, 22:33:52](https://lobste.rs/s/hpekv4/fluid_simulation_pendant) - [Fluid Simulation Pendant](https://mitxela.com/projects/fluid-pendant)
-* [2025-01-13, 15:02:34](https://lobste.rs/s/v4a2hs/creator_ghostty_talks_zig_over_go) - [Creator of Ghostty talks Zig over Go](https://www.youtube.com/watch?v=YQnz7L6x068)
 
 ## [Archives](archives/index.md)
 
