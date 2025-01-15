@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-15, 17:34:05",
+      "https://lobste.rs/s/coozd3/bbot_commands_for_recon"
+    ],
+    [
+      "BBOT Commands for Recon",
+      "https://gcollazo.com/essential-bbot-commands-for-recon/"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 16:56:13",
       "https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome"
     ],
@@ -37,16 +47,6 @@
     [
       "Async Rust is about concurrency, not (just) performance",
       "https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 13:38:58",
-      "https://lobste.rs/s/y56cym/investigating_strange_out_memory_error"
-    ],
-    [
-      "Investigating a Strange Out-of-Memory Error",
-      "https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/"
     ]
   ],
   [
