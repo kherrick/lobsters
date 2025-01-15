@@ -41,22 +41,22 @@
   ],
   [
     [
-      "2025-01-14, 19:33:45",
-      "https://lobste.rs/s/ldm8sa/why_ml_ai_demand_new_approach_threat"
-    ],
-    [
-      "Why ML and AI demand a new approach to threat modeling",
-      "https://www.fullstory.com/blog/rethinking-security/"
-    ]
-  ],
-  [
-    [
       "2025-01-14, 19:30:15",
       "https://lobste.rs/s/prmbij/catching_memory_leaks_with_your_test"
     ],
     [
       "Catching memory leaks with your test suite",
       "https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/"
+    ]
+  ],
+  [
+    [
+      "2025-01-14, 19:10:04",
+      "https://lobste.rs/s/9tiys9/tracing_large_memory_allocations_rust"
+    ],
+    [
+      "Tracing Large Memory Allocations in Rust with BPFtrace",
+      "https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace"
     ]
   ],
   [
