@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 23:33:39](https://lobste.rs/s/pz6ubg/how_http_2_works_how_enable_it_go) - [How HTTP/2 works and how to enable it in Go](https://victoriametrics.com/blog/go-http2/)
 * [2025-01-15, 22:24:23](https://lobste.rs/s/ygflnu/right_nulled_generalised_lr_parsing) - [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)
 * [2025-01-15, 20:54:38](https://lobste.rs/s/2dq62j/doompdf_port_doom_1993_runs_inside_pdf) - [doompdf: A port of Doom (1993) that runs inside a PDF file](https://github.com/ading2210/doompdf)
 * [2025-01-15, 19:02:26](https://lobste.rs/s/y7n6lo/best_laptop_ever) - [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
