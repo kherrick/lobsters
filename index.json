@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-01-15, 16:26:23",
+      "https://lobste.rs/s/rq5klc/rosetta_code"
+    ],
+    [
+      "Rosetta Code",
+      "https://rosettacode.org/wiki/Rosetta_Code"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 15:33:21",
       "https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork"
     ],
     [
       "Don't Use Session (Signal Fork)",
       "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 14:47:02",
+      "https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just"
+    ],
+    [
+      "Async Rust is about concurrency, not (just) performance",
+      "https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Introducing DateTime::Format::RelativeTime",
       "https://www.perl.com/article/release-of-new-module-datetime-format-relativetime/"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 11:28:58",
-      "https://lobste.rs/s/nfwjav/running_llm_evals_right_next_your_code"
-    ],
-    [
-      "Running LLM evals right next to your code",
-      "https://www.maragu.dev/blog/running-llm-evals-right-next-to-your-code"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Nix - Death by a thousand cuts",
       "https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 23:52:11",
-      "https://lobste.rs/s/d2uety/optimizing_ruby_s_json_part_7"
-    ],
-    [
-      "Optimizing Ruby’s JSON, Part 7",
-      "https://byroot.github.io/ruby/json/2025/01/14/optimizing-ruby-json-part-7.html"
     ]
   ],
   [
