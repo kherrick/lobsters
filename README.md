@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-15, 09:46:39](https://lobste.rs/s/jtbtts/gitui_release_0_27_adds_management) - [gitui release 0.27 adds management of remotes](https://github.com/extrawurst/gitui/releases/tag/v0.27.0)
 * [2025-01-15, 08:35:04](https://lobste.rs/s/2jwm1m/django_vs_fastapi_honest_comparison) - [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django)
 * [2025-01-15, 06:34:27](https://lobste.rs/s/mxhdql/justified_text_better_than_expected) - [Justified Text: Better Than Expected?](https://cloudfour.com/thinks/justified-text-better-than-expected/)
 * [2025-01-15, 06:04:05](https://lobste.rs/s/7aanyc/people_should_own_town_square) - [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
@@ -9,7 +10,6 @@
 * [2025-01-14, 23:52:11](https://lobste.rs/s/d2uety/optimizing_ruby_s_json_part_7) - [Optimizing Ruby’s JSON, Part 7](https://byroot.github.io/ruby/json/2025/01/14/optimizing-ruby-json-part-7.html)
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 19:30:15](https://lobste.rs/s/prmbij/catching_memory_leaks_with_your_test) - [Catching memory leaks with your test suite](https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/)
-* [2025-01-14, 19:10:04](https://lobste.rs/s/9tiys9/tracing_large_memory_allocations_rust) - [Tracing Large Memory Allocations in Rust with BPFtrace](https://readyset.io/blog/tracing-large-memory-allocations-in-rust-with-bpftrace)
 * [2025-01-14, 18:13:29](https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities) - [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 * [2025-01-14, 18:00:56](https://lobste.rs/s/kgalim/montreal_subway_foot_traffic_data_2024) - [Montreal Subway Foot Traffic Data, 2024 edition](https://veronneau.org/montreal-subway-foot-traffic-data-2024-edition.html)
 * [2025-01-14, 18:00:36](https://lobste.rs/s/enx24i/gen_auto_trait_problem) - [The gen auto-trait problem](https://blog.yoshuawuyts.com/gen-auto-trait-problem/)

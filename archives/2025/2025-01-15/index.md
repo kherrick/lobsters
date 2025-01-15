@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
+* [2025-01-15, 09:46:39](https://lobste.rs/s/jtbtts/gitui_release_0_27_adds_management) - [gitui release 0.27 adds management of remotes](https://github.com/extrawurst/gitui/releases/tag/v0.27.0)
 * [2025-01-15, 08:35:04](https://lobste.rs/s/2jwm1m/django_vs_fastapi_honest_comparison) - [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django)
 * [2025-01-15, 06:34:27](https://lobste.rs/s/mxhdql/justified_text_better_than_expected) - [Justified Text: Better Than Expected?](https://cloudfour.com/thinks/justified-text-better-than-expected/)
 * [2025-01-15, 06:04:05](https://lobste.rs/s/7aanyc/people_should_own_town_square) - [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
