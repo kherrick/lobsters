@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-15, 14:47:02](https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just) - [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
+* [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
+* [2025-01-15, 13:38:58](https://lobste.rs/s/y56cym/investigating_strange_out_memory_error) - [Investigating a Strange Out-of-Memory Error](https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/)
 * [2025-01-15, 13:09:55](https://lobste.rs/s/accviq/introducing_datetime_format) - [Introducing DateTime::Format::RelativeTime](https://www.perl.com/article/release-of-new-module-datetime-format-relativetime/)
 * [2025-01-15, 11:28:58](https://lobste.rs/s/nfwjav/running_llm_evals_right_next_your_code) - [Running LLM evals right next to your code](https://www.maragu.dev/blog/running-llm-evals-right-next-to-your-code)
 * [2025-01-15, 11:11:42](https://lobste.rs/s/svh2os/open_props_ui_modern_css_ui_library) - [Open Props UI | A modern CSS UI library](https://open-props-ui.netlify.app/)
@@ -15,7 +16,6 @@
 * [2025-01-15, 00:52:30](https://lobste.rs/s/viyhqi/nix_death_by_thousand_cuts) - [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-14, 23:52:11](https://lobste.rs/s/d2uety/optimizing_ruby_s_json_part_7) - [Optimizing Ruby’s JSON, Part 7](https://byroot.github.io/ruby/json/2025/01/14/optimizing-ruby-json-part-7.html)
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
-* [2025-01-14, 19:30:15](https://lobste.rs/s/prmbij/catching_memory_leaks_with_your_test) - [Catching memory leaks with your test suite](https://pythonspeed.com/articles/identifying-resource-leaks-with-pytest/)
 * [2025-01-14, 18:13:29](https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities) - [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 * [2025-01-14, 18:00:36](https://lobste.rs/s/enx24i/gen_auto_trait_problem) - [The gen auto-trait problem](https://blog.yoshuawuyts.com/gen-auto-trait-problem/)
 * [2025-01-14, 17:15:10](https://lobste.rs/s/tw2thc/grist_modern_relational_spreadsheet) - [Grist - a modern relational spreadsheet](https://github.com/gristlabs/grist-core/)
