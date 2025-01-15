@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-15, 13:38:58",
+      "https://lobste.rs/s/y56cym/investigating_strange_out_memory_error"
+    ],
+    [
+      "Investigating a Strange Out-of-Memory Error",
+      "https://www.qovery.com/blog/rust-investigating-a-strange-out-of-memory-error/"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 13:09:55",
       "https://lobste.rs/s/accviq/introducing_datetime_format"
     ],
@@ -237,16 +247,6 @@
     [
       "Why is Git Autocorrect too fast for Formula One drivers?",
       "https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 06:51:53",
-      "https://lobste.rs/s/gzlwwe/campsite_codebase_is_now_source"
-    ],
-    [
-      "The Campsite codebase is now source available",
-      "https://github.com/campsite/campsite"
     ]
   ]
 ]
