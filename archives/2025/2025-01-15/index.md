@@ -5,7 +5,9 @@
 ### [Archives](../../index.md) for [2025-01-15](index.md)
 
 * [2025-01-15, 17:34:05](https://lobste.rs/s/coozd3/bbot_commands_for_recon) - [BBOT Commands for Recon](https://gcollazo.com/essential-bbot-commands-for-recon/)
+* [2025-01-15, 17:28:38](https://lobste.rs/s/wlqiq1/landing_nostromo) - [Landing the Nostromo](https://archive.org/details/creativecomputing-1981-06)
 * [2025-01-15, 16:56:13](https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome) - [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
+* [2025-01-15, 16:39:48](https://lobste.rs/s/c5bfwq/rapidly_rendering_fractals_on_stupidly) - [Rapidly rendering fractals on stupidly unsuitable machines](http://cowlark.com/2018-05-26-bogomandel/index.html)
 * [2025-01-15, 16:26:23](https://lobste.rs/s/rq5klc/rosetta_code) - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
 * [2025-01-15, 14:47:02](https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just) - [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
