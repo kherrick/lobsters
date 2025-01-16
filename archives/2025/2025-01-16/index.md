@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 01:42:41](https://lobste.rs/s/7ok4ss/mess_is_handling_structure_arguments) - [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
 * [2025-01-16, 00:34:33](https://lobste.rs/s/wry260/simplex_network_large_groups_privacy) - [SimpleX network: large groups and privacy-preserving content moderation](https://simplex.chat/blog/20250114-simplex-network-large-groups-privacy-preserving-content-moderation.html)

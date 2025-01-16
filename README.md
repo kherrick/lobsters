@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-16, 01:42:41](https://lobste.rs/s/7ok4ss/mess_is_handling_structure_arguments) - [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
 * [2025-01-16, 00:34:33](https://lobste.rs/s/wry260/simplex_network_large_groups_privacy) - [SimpleX network: large groups and privacy-preserving content moderation](https://simplex.chat/blog/20250114-simplex-network-large-groups-privacy-preserving-content-moderation.html)
 * [2025-01-15, 23:33:39](https://lobste.rs/s/pz6ubg/how_http_2_works_how_enable_it_go) - [How HTTP/2 works and how to enable it in Go](https://victoriametrics.com/blog/go-http2/)
 * [2025-01-15, 22:24:23](https://lobste.rs/s/ygflnu/right_nulled_generalised_lr_parsing) - [(Right-Nulled) Generalised LR Parsing](https://blog.jeffsmits.net/generalised-lr-parsing/)
@@ -24,7 +25,6 @@
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 18:13:29](https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities) - [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
 * [2025-01-14, 17:15:10](https://lobste.rs/s/tw2thc/grist_modern_relational_spreadsheet) - [Grist - a modern relational spreadsheet](https://github.com/gristlabs/grist-core/)
-* [2025-01-14, 08:04:25](https://lobste.rs/s/mleafi/why_is_git_autocorrect_too_fast_for) - [Why is Git Autocorrect too fast for Formula One drivers?](https://blog.gitbutler.com/why-is-git-autocorrect-too-fast-for-formula-one-drivers/)
 
 ## [Archives](archives/index.md)
 
