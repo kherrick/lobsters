@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-16, 12:18:09](https://lobste.rs/s/nidkrn/packaging_multipass_flutter_gui_for) - [Packaging the Multipass Flutter GUI for NixOS](https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/)
 * [2025-01-16, 11:23:41](https://lobste.rs/s/govvxb/understanding_keyboard_events_better) - [Understanding Keyboard Events Better (2023)](https://www.rugu.dev/en/blog/understanding-keyboard-events/)
 * [2025-01-16, 11:05:15](https://lobste.rs/s/0yadfp/how_do_i_internationalize_my_cms) - [How do I internationalize my CMS?](https://dz4k.com/2025/intl/)
 * [2025-01-16, 09:17:36](https://lobste.rs/s/fllbl0/laptop_archeology_how_install_nixos_24_11) - [Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop](https://blog.mynacol.xyz/en/nixos-on-fossils/)
@@ -16,7 +17,6 @@
 * [2025-01-15, 18:51:43](https://lobste.rs/s/ifr3u0/unraveling_postgres_segfault_uncovered) - [Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug](https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/)
 * [2025-01-15, 17:28:38](https://lobste.rs/s/wlqiq1/landing_nostromo) - [Landing the Nostromo](https://archive.org/details/creativecomputing-1981-06)
 * [2025-01-15, 16:56:13](https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome) - [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
-* [2025-01-15, 16:39:48](https://lobste.rs/s/c5bfwq/rapidly_rendering_fractals_on_stupidly) - [Rapidly rendering fractals on stupidly unsuitable machines](http://cowlark.com/2018-05-26-bogomandel/index.html)
 * [2025-01-15, 16:26:23](https://lobste.rs/s/rq5klc/rosetta_code) - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
 * [2025-01-15, 14:47:02](https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just) - [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)

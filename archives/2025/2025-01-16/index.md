@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 12:18:09](https://lobste.rs/s/nidkrn/packaging_multipass_flutter_gui_for) - [Packaging the Multipass Flutter GUI for NixOS](https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/)
 * [2025-01-16, 11:23:41](https://lobste.rs/s/govvxb/understanding_keyboard_events_better) - [Understanding Keyboard Events Better (2023)](https://www.rugu.dev/en/blog/understanding-keyboard-events/)
 * [2025-01-16, 11:05:15](https://lobste.rs/s/0yadfp/how_do_i_internationalize_my_cms) - [How do I internationalize my CMS?](https://dz4k.com/2025/intl/)
 * [2025-01-16, 09:17:36](https://lobste.rs/s/fllbl0/laptop_archeology_how_install_nixos_24_11) - [Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop](https://blog.mynacol.xyz/en/nixos-on-fossils/)
