@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-16, 19:46:36](https://lobste.rs/s/ightev/surprising_scam_email_evaded_gmail_s_spam) - [A surprising scam email that evaded Gmail's spam filter](https://jamesbvaughan.com/phishing/)
+* [2025-01-16, 18:49:46](https://lobste.rs/s/0s9haa/superglue_1_0_react_3_rails) - [Superglue 1.0: React <3 Rails](https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness)
 * [2025-01-16, 18:42:03](https://lobste.rs/s/gzf0ic/untouched_goldmine_f) - [The untouched goldmine of F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
 * [2025-01-16, 18:26:59](https://lobste.rs/s/d8wbdi/core_async_flow_rationale) - [core.async.flow Rationale](https://github.com/clojure/core.async/blob/master/doc/flow.md)
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
@@ -22,7 +23,6 @@
 * [2025-01-15, 16:56:13](https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome) - [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
 * [2025-01-15, 16:26:23](https://lobste.rs/s/rq5klc/rosetta_code) - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
-* [2025-01-15, 14:47:02](https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just) - [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
 * [2025-01-15, 11:06:40](https://lobste.rs/s/3wphns/use_cases_for_form_method_dialog) - [Use cases for <form method=\"dialog\">](https://bhoot.dev/2025/form-method-dialog/)
 * [2025-01-15, 10:25:22](https://lobste.rs/s/k7vtqi/why_some_dvla_digital_services_don_t_work) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
 
