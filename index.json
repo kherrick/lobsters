@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-16, 18:26:59",
+      "https://lobste.rs/s/d8wbdi/core_async_flow_rationale"
+    ],
+    [
+      "core.async.flow Rationale",
+      "https://github.com/clojure/core.async/blob/master/doc/flow.md"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 17:59:59",
       "https://lobste.rs/s/voxeq3/build_database_with_rust_open_source"
     ],
@@ -237,16 +247,6 @@
     [
       "Why some DVLA digital services don't work at night",
       "https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 00:52:30",
-      "https://lobste.rs/s/viyhqi/nix_death_by_thousand_cuts"
-    ],
-    [
-      "Nix - Death by a thousand cuts",
-      "https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/"
     ]
   ]
 ]
