@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-16, 18:49:46](https://lobste.rs/s/0s9haa/superglue_1_0_react_3_rails) - [Superglue 1.0: React <3 Rails](https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness)
 * [2025-01-16, 18:42:03](https://lobste.rs/s/gzf0ic/untouched_goldmine_f) - [The untouched goldmine of F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
 * [2025-01-16, 18:26:59](https://lobste.rs/s/d8wbdi/core_async_flow_rationale) - [core.async.flow Rationale](https://github.com/clojure/core.async/blob/master/doc/flow.md)
-* [2025-01-16, 17:59:59](https://lobste.rs/s/voxeq3/build_database_with_rust_open_source) - [Build a Database with the Rust Open-Source Community](https://tisonkun.io/posts/oss-twin)
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
 * [2025-01-16, 16:02:29](https://lobste.rs/s/zstpgk/improve_rust_compile_time_by_108x) - [Improve Rust Compile Time by 108X](https://burn.dev/blog/improve-rust-compile-time-by-108x/)
 * [2025-01-16, 15:27:42](https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 1)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/)
