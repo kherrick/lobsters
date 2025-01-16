@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 12:32:05](https://lobste.rs/s/m2daem/serenade_tool_for_coding_with_voice_first) - [Serenade, a tool for coding with voice: first community release after fork](https://github.com/sombrafam/serenade/releases/tag/2.0.2-community-1.0.beta)
 * [2025-01-16, 12:18:09](https://lobste.rs/s/nidkrn/packaging_multipass_flutter_gui_for) - [Packaging the Multipass Flutter GUI for NixOS](https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/)
 * [2025-01-16, 11:23:41](https://lobste.rs/s/govvxb/understanding_keyboard_events_better) - [Understanding Keyboard Events Better (2023)](https://www.rugu.dev/en/blog/understanding-keyboard-events/)
 * [2025-01-16, 11:05:15](https://lobste.rs/s/0yadfp/how_do_i_internationalize_my_cms) - [How do I internationalize my CMS?](https://dz4k.com/2025/intl/)
