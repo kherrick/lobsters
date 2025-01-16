@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-16, 03:40:34",
+      "https://lobste.rs/s/spih5i/how_this_basic_robot_solves_real_life"
+    ],
+    [
+      "How This \"Basic\" Robot Solves Real Life Problems (without AI)",
+      "https://www.youtube.com/watch?v=-iLcOLvNfz0"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 03:16:18",
       "https://lobste.rs/s/rhsupf/zadzmo_tarpit_intended_catch_web"
     ],
@@ -117,16 +127,6 @@
     [
       "Async Rust is about concurrency, not (just) performance",
       "https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 11:11:42",
-      "https://lobste.rs/s/svh2os/open_props_ui_modern_css_ui_library"
-    ],
-    [
-      "Open Props UI | A modern CSS UI library",
-      "https://open-props-ui.netlify.app/"
     ]
   ],
   [
