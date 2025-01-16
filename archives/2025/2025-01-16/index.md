@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 15:27:42](https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 1)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/)
 * [2025-01-16, 12:32:05](https://lobste.rs/s/m2daem/serenade_tool_for_coding_with_voice_first) - [Serenade, a tool for coding with voice: first community release after fork](https://github.com/sombrafam/serenade/releases/tag/2.0.2-community-1.0.beta)
 * [2025-01-16, 12:18:09](https://lobste.rs/s/nidkrn/packaging_multipass_flutter_gui_for) - [Packaging the Multipass Flutter GUI for NixOS](https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/)
 * [2025-01-16, 11:23:41](https://lobste.rs/s/govvxb/understanding_keyboard_events_better) - [Understanding Keyboard Events Better (2023)](https://www.rugu.dev/en/blog/understanding-keyboard-events/)
