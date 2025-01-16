@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-16, 16:02:29",
+      "https://lobste.rs/s/zstpgk/improve_rust_compile_time_by_108x"
+    ],
+    [
+      "Improve Rust Compile Time by 108X",
+      "https://burn.dev/blog/improve-rust-compile-time-by-108x/"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 15:27:42",
       "https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024"
     ],
@@ -137,16 +147,6 @@
     [
       "The best laptop ever",
       "https://mijndertstuij.nl/posts/the-best-laptop-ever/"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 18:51:43",
-      "https://lobste.rs/s/ifr3u0/unraveling_postgres_segfault_uncovered"
-    ],
-    [
-      "Unraveling a Postgres segfault that uncovered an Arm64 JIT compiler bug",
-      "https://www.datadoghq.com/blog/engineering/unraveling-a-postgres-segfault/"
     ]
   ],
   [
