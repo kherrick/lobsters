@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-16, 03:40:34](https://lobste.rs/s/spih5i/how_this_basic_robot_solves_real_life) - [How This \"Basic\" Robot Solves Real Life Problems (without AI)](https://www.youtube.com/watch?v=-iLcOLvNfz0)
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/zadzmo_tarpit_intended_catch_web) - [ZADZMO, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
 * [2025-01-16, 01:42:41](https://lobste.rs/s/7ok4ss/mess_is_handling_structure_arguments) - [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
@@ -12,7 +13,6 @@
 * [2025-01-15, 16:26:23](https://lobste.rs/s/rq5klc/rosetta_code) - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
 * [2025-01-15, 14:47:02](https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just) - [Async Rust is about concurrency, not (just) performance](https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html)
-* [2025-01-15, 11:11:42](https://lobste.rs/s/svh2os/open_props_ui_modern_css_ui_library) - [Open Props UI | A modern CSS UI library](https://open-props-ui.netlify.app/)
 * [2025-01-15, 11:06:40](https://lobste.rs/s/3wphns/use_cases_for_form_method_dialog) - [Use cases for <form method=\"dialog\">](https://bhoot.dev/2025/form-method-dialog/)
 * [2025-01-15, 10:55:26](https://lobste.rs/s/7elg8d/basic_star_trek_games) - [BASIC Star Trek Games](https://newton.freehostia.com/treks/index.html)
 * [2025-01-15, 10:25:22](https://lobste.rs/s/k7vtqi/why_some_dvla_digital_services_don_t_work) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
