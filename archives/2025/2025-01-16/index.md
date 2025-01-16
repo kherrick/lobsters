@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 07:49:46](https://lobste.rs/s/op3jbb/tiny_corp_nearing_completely_sovereign) - [Tiny Corp Nearing \"Completely Sovereign\" Compute Stack For AMD GPUs With Tinygrad](https://www.phoronix.com/news/Tiny-Sovereign-Stack-AMD-Close)
+* [2025-01-16, 07:49:18](https://lobste.rs/s/sh1khe/creating_midi_music_with_perl) - [Creating MIDI Music with Perl](https://www.perl.com/article/creating-midi-music-with-perl/)
 * [2025-01-16, 06:50:48](https://lobste.rs/s/hozzzs/using_pcbs_create_front_panels_for_your) - [Using PCBs to create front panels for your projects](https://arx.wtf/blog/1-front-panels-tips)
 * [2025-01-16, 05:24:14](https://lobste.rs/s/iedo7f/supply_chain_security_with_mise_asdf) - [Supply chain security with mise and asdf plugins](https://github.com/jdx/mise/discussions/4054)
 * [2025-01-16, 04:14:35](https://lobste.rs/s/jdq3ng/branchless_utf_8_encoding) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
