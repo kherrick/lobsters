@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 17:59:59](https://lobste.rs/s/voxeq3/build_database_with_rust_open_source) - [Build a Database with the Rust Open-Source Community](https://tisonkun.io/posts/oss-twin)
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
 * [2025-01-16, 16:02:29](https://lobste.rs/s/zstpgk/improve_rust_compile_time_by_108x) - [Improve Rust Compile Time by 108X](https://burn.dev/blog/improve-rust-compile-time-by-108x/)
 * [2025-01-16, 15:27:42](https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 1)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/)
