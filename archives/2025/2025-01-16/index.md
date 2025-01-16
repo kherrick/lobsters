@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 11:05:15](https://lobste.rs/s/0yadfp/how_do_i_internationalize_my_cms) - [How do I internationalize my CMS?](https://dz4k.com/2025/intl/)
 * [2025-01-16, 09:17:36](https://lobste.rs/s/fllbl0/laptop_archeology_how_install_nixos_24_11) - [Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop](https://blog.mynacol.xyz/en/nixos-on-fossils/)
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 * [2025-01-16, 08:43:36](https://lobste.rs/s/nzxgvf/exterminate_all_rational_ai_scrapers) - [Exterminate all rational AI scrapers](https://www.jwz.org/blog/2025/01/exterminate-all-rational-ai-scrapers/)
