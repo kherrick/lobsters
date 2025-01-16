@@ -24,7 +24,7 @@
 * [2025-01-15, 16:56:13](https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome) - [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
 * [2025-01-15, 16:26:23](https://lobste.rs/s/rq5klc/rosetta_code) - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
-* [2025-01-15, 10:25:22](https://lobste.rs/s/k7vtqi/why_some_dvla_digital_services_don_t_work) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
+* [2025-01-15, 11:06:40](https://lobste.rs/s/3wphns/use_cases_for_form_method_dialog) - [Use cases for <form method=\"dialog\">](https://bhoot.dev/2025/form-method-dialog/)
 
 ## [Archives](archives/index.md)
 
