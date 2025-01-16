@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-16, 05:24:14](https://lobste.rs/s/iedo7f/supply_chain_security_with_mise_asdf) - [Supply chain security with mise and asdf plugins](https://github.com/jdx/mise/discussions/4054)
 * [2025-01-16, 04:14:35](https://lobste.rs/s/jdq3ng/branchless_utf_8_encoding) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 * [2025-01-16, 03:40:34](https://lobste.rs/s/spih5i/how_this_basic_robot_solves_real_life) - [How This \"Basic\" Robot Solves Real Life Problems (without AI)](https://www.youtube.com/watch?v=-iLcOLvNfz0)
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/zadzmo_tarpit_intended_catch_web) - [ZADZMO, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
@@ -21,7 +22,6 @@
 * [2025-01-15, 08:35:04](https://lobste.rs/s/2jwm1m/django_vs_fastapi_honest_comparison) - [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django)
 * [2025-01-15, 06:34:27](https://lobste.rs/s/mxhdql/justified_text_better_than_expected) - [Justified Text: Better Than Expected?](https://cloudfour.com/thinks/justified-text-better-than-expected/)
 * [2025-01-15, 06:04:05](https://lobste.rs/s/7aanyc/people_should_own_town_square) - [The people should own the town square](https://blog.joinmastodon.org/2025/01/the-people-should-own-the-town-square/)
-* [2025-01-15, 05:29:53](https://lobste.rs/s/txwxzd/ndjson) - [ndjson](https://kracekumar.com/post/ndjson/)
 * [2025-01-15, 00:52:30](https://lobste.rs/s/viyhqi/nix_death_by_thousand_cuts) - [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 * [2025-01-14, 20:11:02](https://lobste.rs/s/rrb9yr/go_1_24_interactive_tour) - [Go 1.24 interactive tour](https://antonz.org/go-1-24/)
 * [2025-01-14, 18:13:29](https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities) - [RSYNC: 6 vulnerabilities](https://www.openwall.com/lists/oss-security/2025/01/14/3)
