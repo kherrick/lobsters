@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
+* [2025-01-16, 08:43:36](https://lobste.rs/s/nzxgvf/exterminate_all_rational_ai_scrapers) - [Exterminate all rational AI scrapers](https://www.jwz.org/blog/2025/01/exterminate-all-rational-ai-scrapers/)
 * [2025-01-16, 07:57:31](https://lobste.rs/s/c3khie/finding_coverables) - [Finding the coverables](https://dev.to/lizmat/finding-the-coverables-3l13)
 * [2025-01-16, 07:49:46](https://lobste.rs/s/op3jbb/tiny_corp_nearing_completely_sovereign) - [Tiny Corp Nearing \"Completely Sovereign\" Compute Stack For AMD GPUs With Tinygrad](https://www.phoronix.com/news/Tiny-Sovereign-Stack-AMD-Close)
 * [2025-01-16, 07:49:18](https://lobste.rs/s/sh1khe/creating_midi_music_with_perl) - [Creating MIDI Music with Perl](https://www.perl.com/article/creating-midi-music-with-perl/)
