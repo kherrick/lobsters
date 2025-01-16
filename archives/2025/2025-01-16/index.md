@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 04:14:35](https://lobste.rs/s/jdq3ng/branchless_utf_8_encoding) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
 * [2025-01-16, 03:40:34](https://lobste.rs/s/spih5i/how_this_basic_robot_solves_real_life) - [How This \"Basic\" Robot Solves Real Life Problems (without AI)](https://www.youtube.com/watch?v=-iLcOLvNfz0)
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/zadzmo_tarpit_intended_catch_web) - [ZADZMO, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
