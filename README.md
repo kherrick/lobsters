@@ -4,6 +4,7 @@
 * [2025-01-16, 11:05:15](https://lobste.rs/s/0yadfp/how_do_i_internationalize_my_cms) - [How do I internationalize my CMS?](https://dz4k.com/2025/intl/)
 * [2025-01-16, 09:17:36](https://lobste.rs/s/fllbl0/laptop_archeology_how_install_nixos_24_11) - [Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop](https://blog.mynacol.xyz/en/nixos-on-fossils/)
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
+* [2025-01-16, 08:43:36](https://lobste.rs/s/nzxgvf/exterminate_all_rational_ai_scrapers) - [Exterminate all rational AI scrapers](https://www.jwz.org/blog/2025/01/exterminate-all-rational-ai-scrapers/)
 * [2025-01-16, 07:49:18](https://lobste.rs/s/sh1khe/creating_midi_music_with_perl) - [Creating MIDI Music with Perl](https://www.perl.com/article/creating-midi-music-with-perl/)
 * [2025-01-16, 06:50:48](https://lobste.rs/s/hozzzs/using_pcbs_create_front_panels_for_your) - [Using PCBs to create front panels for your projects](https://arx.wtf/blog/1-front-panels-tips)
 * [2025-01-16, 05:24:14](https://lobste.rs/s/iedo7f/supply_chain_security_with_mise_asdf) - [Supply chain security with mise and asdf plugins](https://github.com/jdx/mise/discussions/4054)
@@ -22,7 +23,6 @@
 * [2025-01-15, 11:06:40](https://lobste.rs/s/3wphns/use_cases_for_form_method_dialog) - [Use cases for <form method=\"dialog\">](https://bhoot.dev/2025/form-method-dialog/)
 * [2025-01-15, 10:55:26](https://lobste.rs/s/7elg8d/basic_star_trek_games) - [BASIC Star Trek Games](https://newton.freehostia.com/treks/index.html)
 * [2025-01-15, 10:25:22](https://lobste.rs/s/k7vtqi/why_some_dvla_digital_services_don_t_work) - [Why some DVLA digital services don't work at night](https://dafyddvaughan.uk/blog/2025/why-some-dvla-digital-services-dont-work-at-night/)
-* [2025-01-15, 08:35:04](https://lobste.rs/s/2jwm1m/django_vs_fastapi_honest_comparison) - [Django vs. FastAPI, An Honest Comparison](https://www.david-dahan.com/blog/comparing-fastapi-and-django)
 * [2025-01-15, 06:34:27](https://lobste.rs/s/mxhdql/justified_text_better_than_expected) - [Justified Text: Better Than Expected?](https://cloudfour.com/thinks/justified-text-better-than-expected/)
 * [2025-01-15, 00:52:30](https://lobste.rs/s/viyhqi/nix_death_by_thousand_cuts) - [Nix - Death by a thousand cuts](https://www.dgt.is/blog/2025-01-10-nix-death-by-a-thousand-cuts/)
 
