@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-16, 18:42:03](https://lobste.rs/s/gzf0ic/untouched_goldmine_f) - [The untouched goldmine of F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
 * [2025-01-16, 18:26:59](https://lobste.rs/s/d8wbdi/core_async_flow_rationale) - [core.async.flow Rationale](https://github.com/clojure/core.async/blob/master/doc/flow.md)
 * [2025-01-16, 17:59:59](https://lobste.rs/s/voxeq3/build_database_with_rust_open_source) - [Build a Database with the Rust Open-Source Community](https://tisonkun.io/posts/oss-twin)
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
@@ -18,7 +19,6 @@
 * [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
 * [2025-01-16, 01:42:41](https://lobste.rs/s/7ok4ss/mess_is_handling_structure_arguments) - [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
 * [2025-01-15, 19:02:26](https://lobste.rs/s/y7n6lo/best_laptop_ever) - [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
-* [2025-01-15, 17:28:38](https://lobste.rs/s/wlqiq1/landing_nostromo) - [Landing the Nostromo](https://archive.org/details/creativecomputing-1981-06)
 * [2025-01-15, 16:56:13](https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome) - [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
 * [2025-01-15, 16:26:23](https://lobste.rs/s/rq5klc/rosetta_code) - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)

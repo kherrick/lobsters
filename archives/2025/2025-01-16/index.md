@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-16](index.md)
 
+* [2025-01-16, 18:42:03](https://lobste.rs/s/gzf0ic/untouched_goldmine_f) - [The untouched goldmine of F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
 * [2025-01-16, 18:26:59](https://lobste.rs/s/d8wbdi/core_async_flow_rationale) - [core.async.flow Rationale](https://github.com/clojure/core.async/blob/master/doc/flow.md)
 * [2025-01-16, 17:59:59](https://lobste.rs/s/voxeq3/build_database_with_rust_open_source) - [Build a Database with the Rust Open-Source Community](https://tisonkun.io/posts/oss-twin)
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
