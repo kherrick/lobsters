@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-16, 18:49:46",
+      "https://lobste.rs/s/0s9haa/superglue_1_0_react_3_rails"
+    ],
+    [
+      "Superglue 1.0: React <3 Rails",
+      "https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness"
+    ]
+  ],
+  [
+    [
       "2025-01-16, 18:42:03",
       "https://lobste.rs/s/gzf0ic/untouched_goldmine_f"
     ],
@@ -217,16 +227,6 @@
     [
       "Don't Use Session (Signal Fork)",
       "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 14:47:02",
-      "https://lobste.rs/s/lr7jor/async_rust_is_about_concurrency_not_just"
-    ],
-    [
-      "Async Rust is about concurrency, not (just) performance",
-      "https://kobzol.github.io/rust/2025/01/15/async-rust-is-about-concurrency.html"
     ]
   ],
   [
