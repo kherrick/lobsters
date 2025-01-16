@@ -71,6 +71,16 @@
   ],
   [
     [
+      "2025-01-15, 23:33:39",
+      "https://lobste.rs/s/pz6ubg/how_http_2_works_how_enable_it_go"
+    ],
+    [
+      "How HTTP/2 works and how to enable it in Go",
+      "https://victoriametrics.com/blog/go-http2/"
+    ]
+  ],
+  [
+    [
       "2025-01-15, 22:24:23",
       "https://lobste.rs/s/ygflnu/right_nulled_generalised_lr_parsing"
     ],
@@ -237,16 +247,6 @@
     [
       "Go 1.24 interactive tour",
       "https://antonz.org/go-1-24/"
-    ]
-  ],
-  [
-    [
-      "2025-01-14, 18:13:29",
-      "https://lobste.rs/s/q9ezva/rsync_6_vulnerabilities"
-    ],
-    [
-      "RSYNC: 6 vulnerabilities",
-      "https://www.openwall.com/lists/oss-security/2025/01/14/3"
     ]
   ]
 ]
