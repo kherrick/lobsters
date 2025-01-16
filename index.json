@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-01-16, 12:32:05",
-      "https://lobste.rs/s/m2daem/serenade_tool_for_coding_with_voice_first"
+      "2025-01-16, 15:27:42",
+      "https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024"
     ],
     [
-      "Serenade, a tool for coding with voice: first community release after fork",
-      "https://github.com/sombrafam/serenade/releases/tag/2.0.2-community-1.0.beta"
+      "Guix User and Contributor Survey 2024: The Results (part 1)",
+      "https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "Is Memory64 actually worth using?",
       "https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 08:43:36",
-      "https://lobste.rs/s/nzxgvf/exterminate_all_rational_ai_scrapers"
-    ],
-    [
-      "Exterminate all rational AI scrapers",
-      "https://www.jwz.org/blog/2025/01/exterminate-all-rational-ai-scrapers/"
     ]
   ],
   [
@@ -127,6 +117,16 @@
     [
       "The mess that is handling structure arguments and returns in LLVM",
       "https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/"
+    ]
+  ],
+  [
+    [
+      "2025-01-15, 23:33:39",
+      "https://lobste.rs/s/pz6ubg/how_http_2_works_how_enable_it_go"
+    ],
+    [
+      "How HTTP/2 works and how to enable it in Go",
+      "https://victoriametrics.com/blog/go-http2/"
     ]
   ],
   [
