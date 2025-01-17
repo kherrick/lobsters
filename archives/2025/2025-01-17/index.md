@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 12:51:45](https://lobste.rs/s/fcmqg2/mitsuba_3_retargetable_forward_inverse) - [Mitsuba 3: A Retargetable Forward and Inverse Renderer](https://github.com/mitsuba-renderer/mitsuba3)
+* [2025-01-17, 12:40:25](https://lobste.rs/s/lpsby0/kubernetes_comic) - [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
 * [2025-01-17, 11:52:40](https://lobste.rs/s/pyd2il/botnet_ares_incremental_hacking_game) - [Botnet of Ares, an incremental hacking game](https://tiniuc.com/botnet-of-ares/)
 * [2025-01-17, 11:48:28](https://lobste.rs/s/ptbofl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ptbofl/what_are_you_doing_this_weekend)
 * [2025-01-17, 10:35:08](https://lobste.rs/s/z3ilei/how_i_think_about_zig_rust) - [How I think about Zig and Rust](https://lewiscampbell.tech/blog/250117.html)

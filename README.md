@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 12:51:45](https://lobste.rs/s/fcmqg2/mitsuba_3_retargetable_forward_inverse) - [Mitsuba 3: A Retargetable Forward and Inverse Renderer](https://github.com/mitsuba-renderer/mitsuba3)
+* [2025-01-17, 12:40:25](https://lobste.rs/s/lpsby0/kubernetes_comic) - [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
 * [2025-01-17, 11:52:40](https://lobste.rs/s/pyd2il/botnet_ares_incremental_hacking_game) - [Botnet of Ares, an incremental hacking game](https://tiniuc.com/botnet-of-ares/)
 * [2025-01-17, 11:48:28](https://lobste.rs/s/ptbofl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ptbofl/what_are_you_doing_this_weekend)
 * [2025-01-17, 10:35:08](https://lobste.rs/s/z3ilei/how_i_think_about_zig_rust) - [How I think about Zig and Rust](https://lewiscampbell.tech/blog/250117.html)
@@ -16,9 +18,7 @@
 * [2025-01-16, 16:02:29](https://lobste.rs/s/zstpgk/improve_rust_compile_time_by_108x) - [Improve Rust Compile Time by 108X](https://burn.dev/blog/improve-rust-compile-time-by-108x/)
 * [2025-01-16, 15:27:42](https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 1)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/)
 * [2025-01-16, 11:05:15](https://lobste.rs/s/0yadfp/how_do_i_internationalize_my_cms) - [How do I internationalize my CMS?](https://dz4k.com/2025/intl/)
-* [2025-01-16, 09:17:36](https://lobste.rs/s/fllbl0/laptop_archeology_how_install_nixos_24_11) - [Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop](https://blog.mynacol.xyz/en/nixos-on-fossils/)
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
-* [2025-01-16, 08:43:36](https://lobste.rs/s/nzxgvf/exterminate_all_rational_ai_scrapers) - [Exterminate all rational AI scrapers](https://www.jwz.org/blog/2025/01/exterminate-all-rational-ai-scrapers/)
 * [2025-01-16, 06:50:48](https://lobste.rs/s/hozzzs/using_pcbs_create_front_panels_for_your) - [Using PCBs to create front panels for your projects](https://arx.wtf/blog/1-front-panels-tips)
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/nepenthes_tarpit_intended_catch_web) - [Nepenthes, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
