@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 18:05:42](https://lobste.rs/s/bwu0am/learn_yjs_interactively) - [Learn Yjs Interactively](https://learn.yjs.dev)
 * [2025-01-17, 17:13:27](https://lobste.rs/s/s2rr1t/brood_war_korean_translations) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)

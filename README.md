@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 18:05:42](https://lobste.rs/s/bwu0am/learn_yjs_interactively) - [Learn Yjs Interactively](https://learn.yjs.dev)
 * [2025-01-17, 17:13:27](https://lobste.rs/s/s2rr1t/brood_war_korean_translations) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
@@ -24,7 +25,6 @@
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/nepenthes_tarpit_intended_catch_web) - [Nepenthes, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
-* [2025-01-16, 01:42:41](https://lobste.rs/s/7ok4ss/mess_is_handling_structure_arguments) - [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
 
 ## [Archives](archives/index.md)
 
