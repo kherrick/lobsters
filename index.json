@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-01-17, 06:15:19",
+      "https://lobste.rs/s/8z7jyf/path_llms"
+    ],
+    [
+      "Path to LLMs",
+      "https://gorur.dev/posts/path-to-llms.html"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 01:28:42",
       "https://lobste.rs/s/mrdcto/google_no_longer_supports_javascript"
     ],
@@ -91,21 +101,11 @@
   ],
   [
     [
-      "2025-01-16, 18:49:46",
-      "https://lobste.rs/s/0s9haa/superglue_1_0_react_3_rails"
-    ],
-    [
-      "Superglue 1.0: React <3 Rails",
-      "https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness"
-    ]
-  ],
-  [
-    [
       "2025-01-16, 18:42:03",
-      "https://lobste.rs/s/gzf0ic/untouched_goldmine_f"
+      "https://lobste.rs/s/gzf0ic/typed_stack_traces_f"
     ],
     [
-      "The untouched goldmine of F#",
+      "Typed Stack Traces in F#",
       "https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/"
     ]
   ],
