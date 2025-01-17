@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 20:14:10](https://lobste.rs/s/9joz7i/tiobe_index_for_january_2025) - [TIOBE Index for January 2025](https://www.tiobe.com/tiobe-index/)
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 * [2025-01-17, 19:37:21](https://lobste.rs/s/zohohd/oracle_won_t_relinquish_javascript) - [Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle](https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html)
 * [2025-01-17, 19:26:54](https://lobste.rs/s/e9xhzs/advanced_python_development_workflow) - [Advanced Python Development Workflow in Emacs](https://blog.serghei.pl/posts/emacs-python-ide/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 20:14:10](https://lobste.rs/s/9joz7i/tiobe_index_for_january_2025) - [TIOBE Index for January 2025](https://www.tiobe.com/tiobe-index/)
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 * [2025-01-17, 19:37:21](https://lobste.rs/s/zohohd/oracle_won_t_relinquish_javascript) - [Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle](https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html)
 * [2025-01-17, 19:26:54](https://lobste.rs/s/e9xhzs/advanced_python_development_workflow) - [Advanced Python Development Workflow in Emacs](https://blog.serghei.pl/posts/emacs-python-ide/)
@@ -13,7 +14,6 @@
 * [2025-01-17, 15:34:12](https://lobste.rs/s/vgcqn8/statement_on_planned_protests_during) - [Statement on planned protests during the upcoming FOSDEM 2025](https://fosdem.org/2025/news/2025-01-16-protests/)
 * [2025-01-17, 14:32:15](https://lobste.rs/s/kllhgb/bypassing_disk_encryption_on_systems) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 14:32:15](https://lobste.rs/s/atglkw/prototyping_rust) - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
-* [2025-01-17, 14:24:33](https://lobste.rs/s/jqixbu/linux_kms_testing_improvements) - [Linux KMS testing improvements](https://www.mripard.dev/2025/01/17/kms-testing-improvements.html)
 * [2025-01-17, 14:24:27](https://lobste.rs/s/ksgetc/what_expect_from_release_month_0_14_0) - [What to Expect from Release Month (0.14.0)](https://ziglang.org/news/what-to-expect-from-release-month/)
 * [2025-01-17, 12:40:25](https://lobste.rs/s/lpsby0/kubernetes_comic) - [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
 * [2025-01-17, 11:48:28](https://lobste.rs/s/ptbofl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ptbofl/what_are_you_doing_this_weekend)
