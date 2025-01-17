@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-01-17, 19:26:54",
+      "https://lobste.rs/s/e9xhzs/advanced_python_development_workflow"
+    ],
+    [
+      "Advanced Python Development Workflow in Emacs",
+      "https://blog.serghei.pl/posts/emacs-python-ide/"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 19:15:33",
       "https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Announcing Six Day and IP Address Certificate Options in 2025",
       "https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 08:45:19",
-      "https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using"
-    ],
-    [
-      "Is Memory64 actually worth using?",
-      "https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html"
     ]
   ]
 ]
