@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 19:37:21](https://lobste.rs/s/zohohd/oracle_won_t_relinquish_javascript) - [Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle](https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html)
 * [2025-01-17, 19:26:54](https://lobste.rs/s/e9xhzs/advanced_python_development_workflow) - [Advanced Python Development Workflow in Emacs](https://blog.serghei.pl/posts/emacs-python-ide/)
 * [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
@@ -24,7 +25,6 @@
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/nepenthes_tarpit_intended_catch_web) - [Nepenthes, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
-* [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
 
 ## [Archives](archives/index.md)
 
