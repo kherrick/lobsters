@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-17, 20:10:51",
+      "https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor"
+    ],
+    [
+      "Cheatsheet for jj's builtin diff editor",
+      "https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 19:37:21",
       "https://lobste.rs/s/zohohd/oracle_won_t_relinquish_javascript"
     ],
@@ -237,16 +247,6 @@
     [
       "Is Memory64 actually worth using?",
       "https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 03:16:18",
-      "https://lobste.rs/s/rhsupf/nepenthes_tarpit_intended_catch_web"
-    ],
-    [
-      "Nepenthes, a tarpit intended to catch web crawlers",
-      "https://zadzmo.org/code/nepenthes/"
     ]
   ]
 ]
