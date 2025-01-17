@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-17, 10:35:08",
+      "https://lobste.rs/s/z3ilei/how_i_think_about_zig_rust"
+    ],
+    [
+      "How I think about Zig and Rust",
+      "https://lewiscampbell.tech/blog/250117.html"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 09:24:02",
       "https://lobste.rs/s/xo47lc/earthstar"
     ],
@@ -127,16 +137,6 @@
     [
       "Guix User and Contributor Survey 2024: The Results (part 1)",
       "https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/"
-    ]
-  ],
-  [
-    [
-      "2025-01-16, 12:18:09",
-      "https://lobste.rs/s/nidkrn/packaging_multipass_flutter_gui_for"
-    ],
-    [
-      "Packaging the Multipass Flutter GUI for NixOS",
-      "https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/"
     ]
   ],
   [
