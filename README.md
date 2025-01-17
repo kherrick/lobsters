@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 08:34:40](https://lobste.rs/s/xyhgmo/response_recent_claims_about_session_s) - [A Response to Recent Claims About Session's Security Architecture](https://getsession.org/blog/a-response-to-recent-claims-about-sessions-security-architecture)
 * [2025-01-17, 06:59:46](https://lobste.rs/s/curzac/issues_with_color_spaces_perceptual) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 * [2025-01-17, 06:15:19](https://lobste.rs/s/8z7jyf/path_llms) - [Path to LLMs](https://gorur.dev/posts/path-to-llms.html)
 * [2025-01-17, 01:28:42](https://lobste.rs/s/mrdcto/google_no_longer_supports_javascript) - [Google no longer supports javascript-free search requests](https://github.com/benbusby/whoogle-search/issues/1211)
@@ -16,7 +17,6 @@
 * [2025-01-16, 09:17:36](https://lobste.rs/s/fllbl0/laptop_archeology_how_install_nixos_24_11) - [Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop](https://blog.mynacol.xyz/en/nixos-on-fossils/)
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 * [2025-01-16, 08:43:36](https://lobste.rs/s/nzxgvf/exterminate_all_rational_ai_scrapers) - [Exterminate all rational AI scrapers](https://www.jwz.org/blog/2025/01/exterminate-all-rational-ai-scrapers/)
-* [2025-01-16, 07:49:18](https://lobste.rs/s/sh1khe/creating_midi_music_with_perl) - [Creating MIDI Music with Perl](https://www.perl.com/article/creating-midi-music-with-perl/)
 * [2025-01-16, 06:50:48](https://lobste.rs/s/hozzzs/using_pcbs_create_front_panels_for_your) - [Using PCBs to create front panels for your projects](https://arx.wtf/blog/1-front-panels-tips)
 * [2025-01-16, 05:24:14](https://lobste.rs/s/iedo7f/supply_chain_security_with_mise_asdf) - [Supply chain security with mise and asdf plugins](https://github.com/jdx/mise/discussions/4054)
 * [2025-01-16, 04:14:35](https://lobste.rs/s/jdq3ng/branchless_utf_8_encoding) - [Branchless UTF-8 Encoding](https://cceckman.com/writing/branchless-utf8-encoding/)
