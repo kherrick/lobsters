@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 14:32:15](https://lobste.rs/s/kllhgb/bypassing_disk_encryption_on_systems) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
+* [2025-01-17, 14:32:15](https://lobste.rs/s/atglkw/prototyping_rust) - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 * [2025-01-17, 14:24:33](https://lobste.rs/s/jqixbu/linux_kms_testing_improvements) - [Linux KMS testing improvements](https://www.mripard.dev/2025/01/17/kms-testing-improvements.html)
 * [2025-01-17, 14:24:27](https://lobste.rs/s/ksgetc/what_expect_from_release_month_0_14_0) - [What to Expect from Release Month (0.14.0)](https://ziglang.org/news/what-to-expect-from-release-month/)
 * [2025-01-17, 12:51:45](https://lobste.rs/s/fcmqg2/mitsuba_3_retargetable_forward_inverse) - [Mitsuba 3: A Retargetable Forward and Inverse Renderer](https://github.com/mitsuba-renderer/mitsuba3)
@@ -10,7 +12,6 @@
 * [2025-01-17, 09:24:02](https://lobste.rs/s/xo47lc/earthstar) - [Earthstar](https://earthstar-project.org/)
 * [2025-01-17, 08:34:40](https://lobste.rs/s/xyhgmo/response_recent_claims_about_session_s) - [A Response to Recent Claims About Session's Security Architecture](https://getsession.org/blog/a-response-to-recent-claims-about-sessions-security-architecture)
 * [2025-01-17, 06:59:46](https://lobste.rs/s/curzac/issues_with_color_spaces_perceptual) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
-* [2025-01-17, 06:15:19](https://lobste.rs/s/8z7jyf/path_llms) - [Path to LLMs](https://gorur.dev/posts/path-to-llms.html)
 * [2025-01-16, 21:57:16](https://lobste.rs/s/ssa4b9/solving_100_project_euler_problems_using) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 * [2025-01-16, 19:46:36](https://lobste.rs/s/ightev/surprising_scam_email_evaded_gmail_s_spam) - [A surprising scam email that evaded Gmail's spam filter](https://jamesbvaughan.com/phishing/)
 * [2025-01-16, 18:42:03](https://lobste.rs/s/gzf0ic/typed_stack_traces_f) - [Typed Stack Traces in F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
@@ -23,7 +24,6 @@
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/nepenthes_tarpit_intended_catch_web) - [Nepenthes, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
 * [2025-01-16, 01:42:41](https://lobste.rs/s/7ok4ss/mess_is_handling_structure_arguments) - [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
-* [2025-01-15, 19:02:26](https://lobste.rs/s/y7n6lo/best_laptop_ever) - [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
 
 ## [Archives](archives/index.md)
