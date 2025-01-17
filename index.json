@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-01-17, 15:34:12",
+      "https://lobste.rs/s/vgcqn8/statement_on_planned_protests_during"
+    ],
+    [
+      "Statement on planned protests during the upcoming FOSDEM 2025",
+      "https://fosdem.org/2025/news/2025-01-16-protests/"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 14:32:15",
       "https://lobste.rs/s/kllhgb/bypassing_disk_encryption_on_systems"
     ],
@@ -237,16 +247,6 @@
     [
       "The mess that is handling structure arguments and returns in LLVM",
       "https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 15:33:21",
-      "https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork"
-    ],
-    [
-      "Don't Use Session (Signal Fork)",
-      "https://soatok.blog/2025/01/14/dont-use-session-signal-fork/"
     ]
   ]
 ]
