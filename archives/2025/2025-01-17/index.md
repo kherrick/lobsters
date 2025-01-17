@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 15:38:20](https://lobste.rs/s/8o1bdo/logical_replication_postgres_basics) - [Logical replication in Postgres: Basics](https://www.enterprisedb.com/blog/logical-replication-postgres-basics)
 * [2025-01-17, 14:32:15](https://lobste.rs/s/kllhgb/bypassing_disk_encryption_on_systems) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 14:32:15](https://lobste.rs/s/atglkw/prototyping_rust) - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 * [2025-01-17, 14:24:33](https://lobste.rs/s/jqixbu/linux_kms_testing_improvements) - [Linux KMS testing improvements](https://www.mripard.dev/2025/01/17/kms-testing-improvements.html)

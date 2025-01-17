@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 15:38:20](https://lobste.rs/s/8o1bdo/logical_replication_postgres_basics) - [Logical replication in Postgres: Basics](https://www.enterprisedb.com/blog/logical-replication-postgres-basics)
 * [2025-01-17, 14:32:15](https://lobste.rs/s/kllhgb/bypassing_disk_encryption_on_systems) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 14:32:15](https://lobste.rs/s/atglkw/prototyping_rust) - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 * [2025-01-17, 14:24:33](https://lobste.rs/s/jqixbu/linux_kms_testing_improvements) - [Linux KMS testing improvements](https://www.mripard.dev/2025/01/17/kms-testing-improvements.html)
@@ -19,7 +20,6 @@
 * [2025-01-16, 18:26:59](https://lobste.rs/s/d8wbdi/core_async_flow_rationale) - [core.async.flow Rationale](https://github.com/clojure/core.async/blob/master/doc/flow.md)
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
 * [2025-01-16, 16:02:29](https://lobste.rs/s/zstpgk/improve_rust_compile_time_by_108x) - [Improve Rust Compile Time by 108X](https://burn.dev/blog/improve-rust-compile-time-by-108x/)
-* [2025-01-16, 15:27:42](https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 1)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/)
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/nepenthes_tarpit_intended_catch_web) - [Nepenthes, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
