@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 14:24:33](https://lobste.rs/s/jqixbu/linux_kms_testing_improvements) - [Linux KMS testing improvements](https://www.mripard.dev/2025/01/17/kms-testing-improvements.html)
+* [2025-01-17, 14:24:27](https://lobste.rs/s/ksgetc/what_expect_from_release_month_0_14_0) - [What to Expect from Release Month (0.14.0)](https://ziglang.org/news/what-to-expect-from-release-month/)
 * [2025-01-17, 12:51:45](https://lobste.rs/s/fcmqg2/mitsuba_3_retargetable_forward_inverse) - [Mitsuba 3: A Retargetable Forward and Inverse Renderer](https://github.com/mitsuba-renderer/mitsuba3)
 * [2025-01-17, 12:40:25](https://lobste.rs/s/lpsby0/kubernetes_comic) - [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
 * [2025-01-17, 11:52:40](https://lobste.rs/s/pyd2il/botnet_ares_incremental_hacking_game) - [Botnet of Ares, an incremental hacking game](https://tiniuc.com/botnet-of-ares/)

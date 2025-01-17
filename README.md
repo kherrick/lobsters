@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 14:24:33](https://lobste.rs/s/jqixbu/linux_kms_testing_improvements) - [Linux KMS testing improvements](https://www.mripard.dev/2025/01/17/kms-testing-improvements.html)
+* [2025-01-17, 14:24:27](https://lobste.rs/s/ksgetc/what_expect_from_release_month_0_14_0) - [What to Expect from Release Month (0.14.0)](https://ziglang.org/news/what-to-expect-from-release-month/)
 * [2025-01-17, 12:51:45](https://lobste.rs/s/fcmqg2/mitsuba_3_retargetable_forward_inverse) - [Mitsuba 3: A Retargetable Forward and Inverse Renderer](https://github.com/mitsuba-renderer/mitsuba3)
 * [2025-01-17, 12:40:25](https://lobste.rs/s/lpsby0/kubernetes_comic) - [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
 * [2025-01-17, 11:52:40](https://lobste.rs/s/pyd2il/botnet_ares_incremental_hacking_game) - [Botnet of Ares, an incremental hacking game](https://tiniuc.com/botnet-of-ares/)
@@ -9,7 +11,6 @@
 * [2025-01-17, 08:34:40](https://lobste.rs/s/xyhgmo/response_recent_claims_about_session_s) - [A Response to Recent Claims About Session's Security Architecture](https://getsession.org/blog/a-response-to-recent-claims-about-sessions-security-architecture)
 * [2025-01-17, 06:59:46](https://lobste.rs/s/curzac/issues_with_color_spaces_perceptual) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 * [2025-01-17, 06:15:19](https://lobste.rs/s/8z7jyf/path_llms) - [Path to LLMs](https://gorur.dev/posts/path-to-llms.html)
-* [2025-01-17, 01:28:42](https://lobste.rs/s/mrdcto/google_no_longer_supports_javascript) - [Google no longer supports javascript-free search requests](https://github.com/benbusby/whoogle-search/issues/1211)
 * [2025-01-16, 21:57:16](https://lobste.rs/s/ssa4b9/solving_100_project_euler_problems_using) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 * [2025-01-16, 19:46:36](https://lobste.rs/s/ightev/surprising_scam_email_evaded_gmail_s_spam) - [A surprising scam email that evaded Gmail's spam filter](https://jamesbvaughan.com/phishing/)
 * [2025-01-16, 18:42:03](https://lobste.rs/s/gzf0ic/typed_stack_traces_f) - [Typed Stack Traces in F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
@@ -19,7 +20,6 @@
 * [2025-01-16, 15:27:42](https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 1)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/)
 * [2025-01-16, 11:05:15](https://lobste.rs/s/0yadfp/how_do_i_internationalize_my_cms) - [How do I internationalize my CMS?](https://dz4k.com/2025/intl/)
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
-* [2025-01-16, 06:50:48](https://lobste.rs/s/hozzzs/using_pcbs_create_front_panels_for_your) - [Using PCBs to create front panels for your projects](https://arx.wtf/blog/1-front-panels-tips)
 * [2025-01-16, 03:16:18](https://lobste.rs/s/rhsupf/nepenthes_tarpit_intended_catch_web) - [Nepenthes, a tarpit intended to catch web crawlers](https://zadzmo.org/code/nepenthes/)
 * [2025-01-16, 03:06:56](https://lobste.rs/s/lnxbxa/diy_foss_cyborg) - [The DIY FOSS cyborg](https://dustycloud.org/blog/the-diy-foss-cyborg/)
 * [2025-01-16, 01:42:41](https://lobste.rs/s/7ok4ss/mess_is_handling_structure_arguments) - [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
