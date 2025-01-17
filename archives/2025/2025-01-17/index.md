@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 19:26:54](https://lobste.rs/s/e9xhzs/advanced_python_development_workflow) - [Advanced Python Development Workflow in Emacs](https://blog.serghei.pl/posts/emacs-python-ide/)
 * [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 18:05:42](https://lobste.rs/s/bwu0am/learn_yjs_interactively) - [Learn Yjs Interactively](https://learn.yjs.dev)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 19:26:54](https://lobste.rs/s/e9xhzs/advanced_python_development_workflow) - [Advanced Python Development Workflow in Emacs](https://blog.serghei.pl/posts/emacs-python-ide/)
 * [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 18:05:42](https://lobste.rs/s/bwu0am/learn_yjs_interactively) - [Learn Yjs Interactively](https://learn.yjs.dev)
@@ -12,7 +13,6 @@
 * [2025-01-17, 14:32:15](https://lobste.rs/s/atglkw/prototyping_rust) - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 * [2025-01-17, 14:24:33](https://lobste.rs/s/jqixbu/linux_kms_testing_improvements) - [Linux KMS testing improvements](https://www.mripard.dev/2025/01/17/kms-testing-improvements.html)
 * [2025-01-17, 14:24:27](https://lobste.rs/s/ksgetc/what_expect_from_release_month_0_14_0) - [What to Expect from Release Month (0.14.0)](https://ziglang.org/news/what-to-expect-from-release-month/)
-* [2025-01-17, 12:51:45](https://lobste.rs/s/fcmqg2/mitsuba_3_retargetable_forward_inverse) - [Mitsuba 3: A Retargetable Forward and Inverse Renderer](https://github.com/mitsuba-renderer/mitsuba3)
 * [2025-01-17, 12:40:25](https://lobste.rs/s/lpsby0/kubernetes_comic) - [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
 * [2025-01-17, 11:48:28](https://lobste.rs/s/ptbofl/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ptbofl/what_are_you_doing_this_weekend)
 * [2025-01-17, 10:35:08](https://lobste.rs/s/z3ilei/how_i_think_about_zig_rust) - [How I think about Zig and Rust](https://lewiscampbell.tech/blog/250117.html)
