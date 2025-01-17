@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-17, 01:28:42](https://lobste.rs/s/mrdcto/google_no_longer_supports_javascript) - [Google no longer supports javascript-free search requests · Issue #1211 · benbusby/whoogle-search](https://github.com/benbusby/whoogle-search/issues/1211)
+* [2025-01-17, 01:28:42](https://lobste.rs/s/mrdcto/google_no_longer_supports_javascript) - [Google no longer supports javascript-free search requests](https://github.com/benbusby/whoogle-search/issues/1211)
 * [2025-01-16, 21:57:16](https://lobste.rs/s/ssa4b9/solving_100_project_euler_problems_using) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 * [2025-01-16, 19:46:36](https://lobste.rs/s/ightev/surprising_scam_email_evaded_gmail_s_spam) - [A surprising scam email that evaded Gmail's spam filter](https://jamesbvaughan.com/phishing/)
 * [2025-01-16, 18:49:46](https://lobste.rs/s/0s9haa/superglue_1_0_react_3_rails) - [Superglue 1.0: React <3 Rails](https://thoughtbot.com/blog/superglue-1-0-react-rails-a-new-era-of-thoughtfulness)
