@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 22:29:22](https://lobste.rs/s/pokkwy/mind_convt) - [Mind The convT](https://dolthub.com/blog/2025-01-17-convt-perf/)
 * [2025-01-17, 20:56:52](https://lobste.rs/s/qwibcr/sshcont_ssh_daemon_starts_enters) - [sshcont: ssh daemon that starts and enters a throwaway docker container for testing](https://github.com/abbbi/sshcont)
 * [2025-01-17, 20:14:10](https://lobste.rs/s/9joz7i/tiobe_index_for_january_2025) - [TIOBE Index for January 2025](https://www.tiobe.com/tiobe-index/)
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
@@ -23,7 +24,6 @@
 * [2025-01-17, 06:59:46](https://lobste.rs/s/curzac/issues_with_color_spaces_perceptual) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
 * [2025-01-16, 19:46:36](https://lobste.rs/s/ightev/surprising_scam_email_evaded_gmail_s_spam) - [A surprising scam email that evaded Gmail's spam filter](https://jamesbvaughan.com/phishing/)
 * [2025-01-16, 18:42:03](https://lobste.rs/s/gzf0ic/typed_stack_traces_f) - [Typed Stack Traces in F#](https://rm4n0s.github.io/posts/7-the-untouched-goldmine-of-fsharp/)
-* [2025-01-16, 18:26:59](https://lobste.rs/s/d8wbdi/core_async_flow_rationale) - [core.async.flow Rationale](https://github.com/clojure/core.async/blob/master/doc/flow.md)
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
 
 ## [Archives](archives/index.md)
