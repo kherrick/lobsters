@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 06:15:19](https://lobste.rs/s/8z7jyf/path_llms) - [Path to LLMs](https://gorur.dev/posts/path-to-llms.html)
 * [2025-01-17, 01:28:42](https://lobste.rs/s/mrdcto/google_no_longer_supports_javascript) - [Google no longer supports javascript-free search requests](https://github.com/benbusby/whoogle-search/issues/1211)
 * [2025-01-16, 21:57:16](https://lobste.rs/s/ssa4b9/solving_100_project_euler_problems_using) - [Solving 100 Project Euler problems using 100 languages](https://github.com/jaredkrinke/100-languages)
 * [2025-01-16, 19:46:36](https://lobste.rs/s/ightev/surprising_scam_email_evaded_gmail_s_spam) - [A surprising scam email that evaded Gmail's spam filter](https://jamesbvaughan.com/phishing/)
@@ -23,7 +24,6 @@
 * [2025-01-16, 01:42:41](https://lobste.rs/s/7ok4ss/mess_is_handling_structure_arguments) - [The mess that is handling structure arguments and returns in LLVM](https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/)
 * [2025-01-15, 19:02:26](https://lobste.rs/s/y7n6lo/best_laptop_ever) - [The best laptop ever](https://mijndertstuij.nl/posts/the-best-laptop-ever/)
 * [2025-01-15, 16:56:13](https://lobste.rs/s/boa8jf/fenwick_trees_are_awesome) - [Fenwick Trees are Awesome](https://unnamed.website/posts/fenwick-trees-awesome/)
-* [2025-01-15, 16:26:23](https://lobste.rs/s/rq5klc/rosetta_code) - [Rosetta Code](https://rosettacode.org/wiki/Rosetta_Code)
 * [2025-01-15, 15:33:21](https://lobste.rs/s/kk5ogc/don_t_use_session_signal_fork) - [Don't Use Session (Signal Fork)](https://soatok.blog/2025/01/14/dont-use-session-signal-fork/)
 
 ## [Archives](archives/index.md)
