@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-17, 10:35:08](https://lobste.rs/s/z3ilei/how_i_think_about_zig_rust) - [How I think about Zig and Rust](https://lewiscampbell.tech/blog/250117.html)
 * [2025-01-17, 09:24:02](https://lobste.rs/s/xo47lc/earthstar) - [Earthstar](https://earthstar-project.org/)
 * [2025-01-17, 08:34:40](https://lobste.rs/s/xyhgmo/response_recent_claims_about_session_s) - [A Response to Recent Claims About Session's Security Architecture](https://getsession.org/blog/a-response-to-recent-claims-about-sessions-security-architecture)
 * [2025-01-17, 06:59:46](https://lobste.rs/s/curzac/issues_with_color_spaces_perceptual) - [Issues with Color Spaces and Perceptual Brightness](https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness)
@@ -13,7 +14,6 @@
 * [2025-01-16, 17:09:11](https://lobste.rs/s/7sjhpm/announcing_six_day_ip_address) - [Announcing Six Day and IP Address Certificate Options in 2025](https://letsencrypt.org/2025/01/16/6-day-and-ip-certs/)
 * [2025-01-16, 16:02:29](https://lobste.rs/s/zstpgk/improve_rust_compile_time_by_108x) - [Improve Rust Compile Time by 108X](https://burn.dev/blog/improve-rust-compile-time-by-108x/)
 * [2025-01-16, 15:27:42](https://lobste.rs/s/ydrrgk/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 1)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-1/)
-* [2025-01-16, 12:18:09](https://lobste.rs/s/nidkrn/packaging_multipass_flutter_gui_for) - [Packaging the Multipass Flutter GUI for NixOS](https://jnsgr.uk/2025/01/packaging-multipass-flutter-app-for-nix/)
 * [2025-01-16, 11:05:15](https://lobste.rs/s/0yadfp/how_do_i_internationalize_my_cms) - [How do I internationalize my CMS?](https://dz4k.com/2025/intl/)
 * [2025-01-16, 09:17:36](https://lobste.rs/s/fllbl0/laptop_archeology_how_install_nixos_24_11) - [Laptop archeology or how to install NixOS 24.11 on a 25 year old laptop](https://blog.mynacol.xyz/en/nixos-on-fossils/)
 * [2025-01-16, 08:45:19](https://lobste.rs/s/5ejzip/is_memory64_actually_worth_using) - [Is Memory64 actually worth using?](https://spidermonkey.dev/blog/2025/01/15/is-memory64-actually-worth-using.html)
