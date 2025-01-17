@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-17](index.md)
 
+* [2025-01-17, 17:13:27](https://lobste.rs/s/s2rr1t/brood_war_korean_translations) - [Brood War Korean Translations](https://blog.sourcedive.net/brood-war-korean-translations/)
 * [2025-01-17, 16:51:10](https://lobste.rs/s/dgur9s/project_mini_rack_homelab_revolution) - [Project MINI RACK - a Homelab Revolution](https://www.youtube.com/watch?v=y1GCIwLm3is)
 * [2025-01-17, 16:05:46](https://lobste.rs/s/augngt/private_keys_fortigate_leak) - [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)
 * [2025-01-17, 15:38:20](https://lobste.rs/s/8o1bdo/logical_replication_postgres_basics) - [Logical replication in Postgres: Basics](https://www.enterprisedb.com/blog/logical-replication-postgres-basics)
