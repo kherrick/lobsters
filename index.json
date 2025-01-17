@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-17, 14:32:15",
+      "https://lobste.rs/s/kllhgb/bypassing_disk_encryption_on_systems"
+    ],
+    [
+      "Bypassing disk encryption on systems with automatic TPM2 unlock",
+      "https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/"
+    ]
+  ],
+  [
+    [
+      "2025-01-17, 14:32:15",
+      "https://lobste.rs/s/atglkw/prototyping_rust"
+    ],
+    [
+      "Prototyping in Rust",
+      "https://corrode.dev/blog/prototyping/"
+    ]
+  ],
+  [
+    [
       "2025-01-17, 14:24:33",
       "https://lobste.rs/s/jqixbu/linux_kms_testing_improvements"
     ],
@@ -97,16 +117,6 @@
     [
       "Issues with Color Spaces and Perceptual Brightness",
       "https://johnaustin.io/articles/2025/issues-with-cielab-and-perceptual-brightness"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 06:15:19",
-      "https://lobste.rs/s/8z7jyf/path_llms"
-    ],
-    [
-      "Path to LLMs",
-      "https://gorur.dev/posts/path-to-llms.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The mess that is handling structure arguments and returns in LLVM",
       "https://yorickpeterse.com/articles/the-mess-that-is-handling-structure-arguments-and-returns-in-llvm/"
-    ]
-  ],
-  [
-    [
-      "2025-01-15, 19:02:26",
-      "https://lobste.rs/s/y7n6lo/best_laptop_ever"
-    ],
-    [
-      "The best laptop ever",
-      "https://mijndertstuij.nl/posts/the-best-laptop-ever/"
     ]
   ],
   [
