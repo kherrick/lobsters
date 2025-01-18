@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 10:28:37](https://lobste.rs/s/dm6tei/versioning_scheme_for_end_user_software) - [A versioning scheme for end-user software](https://deniz.aksimsek.tr/2025/version/)
 * [2025-01-18, 09:15:12](https://lobste.rs/s/skaerp/pre_sip_syntax_for_collection_literals) - [Pre-SIP: A Syntax for Collection Literals](https://contributors.scala-lang.org/t/pre-sip-a-syntax-for-collection-literals/6990)
 * [2025-01-18, 09:12:58](https://lobste.rs/s/toggy7/openflexure_microscope) - [OpenFlexure Microscope](https://openflexure.org/projects/microscope/)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
