@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2025-01-18, 14:47:48](https://lobste.rs/s/tim05p/gittuf_security_layer_for_git) - [gittuf: A security layer for Git repositories](https://github.com/gittuf/gittuf)
 * [2025-01-18, 13:32:38](https://lobste.rs/s/fkgs0p/thoughts_on_month_with_devin) - [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 * [2025-01-18, 12:48:32](https://lobste.rs/s/d8jfln/cursed_art_streaming_html) - [The Cursed Art of Streaming HTML](https://rinici.de/posts/streaming-html)
@@ -10,7 +11,6 @@
 * [2025-01-18, 05:51:26](https://lobste.rs/s/qqln6q/audiblez_generate_audiobooks_from_e) - [Audiblez: Generate audiobooks from e-books](https://github.com/santinic/audiblez)
 * [2025-01-18, 05:05:35](https://lobste.rs/s/gvo8fy/thoughts_on_having_ssh_allow_password) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-17, 22:22:08](https://lobste.rs/s/2avgnx/investigating_evil_rj45_dongle) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
-* [2025-01-17, 20:56:52](https://lobste.rs/s/qwibcr/sshcont_ssh_daemon_starts_enters) - [sshcont: ssh daemon that starts and enters a throwaway docker container for testing](https://github.com/abbbi/sshcont)
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 * [2025-01-17, 19:37:21](https://lobste.rs/s/zohohd/oracle_won_t_relinquish_javascript) - [Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle](https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html)
 * [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)

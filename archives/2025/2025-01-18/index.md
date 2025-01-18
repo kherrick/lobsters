@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2025-01-18, 14:47:48](https://lobste.rs/s/tim05p/gittuf_security_layer_for_git) - [gittuf: A security layer for Git repositories](https://github.com/gittuf/gittuf)
 * [2025-01-18, 13:32:38](https://lobste.rs/s/fkgs0p/thoughts_on_month_with_devin) - [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 * [2025-01-18, 12:48:32](https://lobste.rs/s/d8jfln/cursed_art_streaming_html) - [The Cursed Art of Streaming HTML](https://rinici.de/posts/streaming-html)
