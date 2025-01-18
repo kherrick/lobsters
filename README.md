@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 15:33:35](https://lobste.rs/s/bbrgdy/lessons_from_red_teaming_100_generative) - [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
 * [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2025-01-18, 14:47:48](https://lobste.rs/s/tim05p/gittuf_security_layer_for_git) - [gittuf: A security layer for Git repositories](https://github.com/gittuf/gittuf)
 * [2025-01-18, 13:32:38](https://lobste.rs/s/fkgs0p/thoughts_on_month_with_devin) - [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
@@ -15,7 +16,6 @@
 * [2025-01-17, 19:37:21](https://lobste.rs/s/zohohd/oracle_won_t_relinquish_javascript) - [Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle](https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html)
 * [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
-* [2025-01-17, 18:05:42](https://lobste.rs/s/bwu0am/learn_yjs_interactively) - [Learn Yjs Interactively](https://learn.yjs.dev)
 * [2025-01-17, 16:51:10](https://lobste.rs/s/dgur9s/project_mini_rack_homelab_revolution) - [Project MINI RACK - a Homelab Revolution](https://www.youtube.com/watch?v=y1GCIwLm3is)
 * [2025-01-17, 16:05:46](https://lobste.rs/s/augngt/private_keys_fortigate_leak) - [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)
 * [2025-01-17, 15:38:20](https://lobste.rs/s/8o1bdo/logical_replication_postgres_basics) - [Logical replication in Postgres: Basics](https://www.enterprisedb.com/blog/logical-replication-postgres-basics)

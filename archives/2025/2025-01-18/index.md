@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 15:33:35](https://lobste.rs/s/bbrgdy/lessons_from_red_teaming_100_generative) - [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
 * [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2025-01-18, 14:47:48](https://lobste.rs/s/tim05p/gittuf_security_layer_for_git) - [gittuf: A security layer for Git repositories](https://github.com/gittuf/gittuf)
 * [2025-01-18, 13:32:38](https://lobste.rs/s/fkgs0p/thoughts_on_month_with_devin) - [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
