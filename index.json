@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-18, 05:05:35",
+      "https://lobste.rs/s/gvo8fy/thoughts_on_having_ssh_allow_password"
+    ],
+    [
+      "Thoughts on having SSH allow password authentication from the Internet",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth"
+    ]
+  ],
+  [
+    [
       "2025-01-18, 00:00:14",
       "https://lobste.rs/s/orelmp/year_review_2024_highlights_peek_at_2025"
     ],
@@ -67,16 +77,6 @@
     [
       "Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle",
       "https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 19:26:54",
-      "https://lobste.rs/s/e9xhzs/advanced_python_development_workflow"
-    ],
-    [
-      "Advanced Python Development Workflow in Emacs",
-      "https://blog.serghei.pl/posts/emacs-python-ide/"
     ]
   ],
   [
