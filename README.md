@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 17:19:48](https://lobste.rs/s/7bda7t/rust_based_ml_model_analyzer) - [A Rust based ML model analyzer](https://fleetwood.dev/posts/steelix)
 * [2025-01-18, 16:12:27](https://lobste.rs/s/xojfte/wireguard_at_modal_static_ips_for) - [WireGuard at Modal: Static IPs for Serverless Containers](https://modal.com/blog/vprox)
 * [2025-01-18, 15:47:02](https://lobste.rs/s/ymmuxs/podcast_type_theory_forall) - [Podcast: Type Theory Forall](https://www.typetheoryforall.com/)
 * [2025-01-18, 15:33:35](https://lobste.rs/s/bbrgdy/lessons_from_red_teaming_100_generative) - [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
@@ -11,7 +12,6 @@
 * [2025-01-18, 09:15:12](https://lobste.rs/s/skaerp/pre_sip_syntax_for_collection_literals) - [Pre-SIP: A Syntax for Collection Literals](https://contributors.scala-lang.org/t/pre-sip-a-syntax-for-collection-literals/6990)
 * [2025-01-18, 09:12:58](https://lobste.rs/s/toggy7/openflexure_microscope) - [OpenFlexure Microscope](https://openflexure.org/projects/microscope/)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
-* [2025-01-18, 05:51:26](https://lobste.rs/s/qqln6q/audiblez_generate_audiobooks_from_e) - [Audiblez: Generate audiobooks from e-books](https://github.com/santinic/audiblez)
 * [2025-01-18, 05:05:35](https://lobste.rs/s/gvo8fy/thoughts_on_having_ssh_allow_password) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-17, 22:22:08](https://lobste.rs/s/2avgnx/investigating_evil_rj45_dongle) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)

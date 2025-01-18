@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 17:19:48](https://lobste.rs/s/7bda7t/rust_based_ml_model_analyzer) - [A Rust based ML model analyzer](https://fleetwood.dev/posts/steelix)
 * [2025-01-18, 16:12:27](https://lobste.rs/s/xojfte/wireguard_at_modal_static_ips_for) - [WireGuard at Modal: Static IPs for Serverless Containers](https://modal.com/blog/vprox)
 * [2025-01-18, 15:47:02](https://lobste.rs/s/ymmuxs/podcast_type_theory_forall) - [Podcast: Type Theory Forall](https://www.typetheoryforall.com/)
 * [2025-01-18, 15:33:35](https://lobste.rs/s/bbrgdy/lessons_from_red_teaming_100_generative) - [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
