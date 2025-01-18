@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
+* [2025-01-18, 19:42:07](https://lobste.rs/s/668kh1/reverse_engineering_carry_lookahead) - [Reverse-engineering a carry-lookahead adder in the Pentium](http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
+* [2025-01-18, 19:39:18](https://lobste.rs/s/jinn5t/2d_syntax) - [2D Syntax](https://docs.racket-lang.org/2d/index.html)
 * [2025-01-18, 19:34:24](https://lobste.rs/s/u574ja/wasm_gc_isn_t_ready_for_realtime_graphics) - [Wasm GC isn’t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 19:29:00](https://lobste.rs/s/1mavqk/isd_interactive_systemd_better_way_work) - [isd (interactive systemd) — a better way to work with systemd units](https://github.com/isd-project/isd)
 * [2025-01-18, 18:40:00](https://lobste.rs/s/d029dt/porting_pfp_from_haskell_ocaml) - [Porting PFP from Haskell to OCaml](https://github.com/lewis-carson/PFPCaml)
