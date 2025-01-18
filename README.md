@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 22:21:38](https://lobste.rs/s/ww8kcv/using_chatgpt_is_not_bad_for_environment) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 21:37:30](https://lobste.rs/s/6bwt0n/woodpecker_ci_v3_0_0_release) - [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
 * [2025-01-18, 20:43:59](https://lobste.rs/s/thcg4r/new_postgres_block_storage_layout_for) - [A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block_storage_part_one)
 * [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
@@ -16,7 +17,6 @@
 * [2025-01-18, 13:32:38](https://lobste.rs/s/fkgs0p/thoughts_on_month_with_devin) - [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 * [2025-01-18, 12:48:32](https://lobste.rs/s/d8jfln/cursed_art_streaming_html) - [The Cursed Art of Streaming HTML](https://rinici.de/posts/streaming-html)
 * [2025-01-18, 10:28:37](https://lobste.rs/s/dm6tei/versioning_scheme_for_end_user_software) - [A versioning scheme for end-user software](https://deniz.aksimsek.tr/2025/version/)
-* [2025-01-18, 09:12:58](https://lobste.rs/s/toggy7/openflexure_microscope) - [OpenFlexure Microscope](https://openflexure.org/projects/microscope/)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 * [2025-01-18, 05:05:35](https://lobste.rs/s/gvo8fy/thoughts_on_having_ssh_allow_password) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-17, 22:22:08](https://lobste.rs/s/2avgnx/investigating_evil_rj45_dongle) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)

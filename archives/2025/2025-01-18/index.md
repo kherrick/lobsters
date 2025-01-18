@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 22:21:38](https://lobste.rs/s/ww8kcv/using_chatgpt_is_not_bad_for_environment) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 21:37:30](https://lobste.rs/s/6bwt0n/woodpecker_ci_v3_0_0_release) - [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
 * [2025-01-18, 20:43:59](https://lobste.rs/s/thcg4r/new_postgres_block_storage_layout_for) - [A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block_storage_part_one)
 * [2025-01-18, 20:32:08](https://lobste.rs/s/65fbsh/preventing_data_races_with_pony) - [Preventing data races with Pony](https://lwn.net/Articles/1001224/)
