@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 09:15:12](https://lobste.rs/s/skaerp/pre_sip_syntax_for_collection_literals) - [Pre-SIP: A Syntax for Collection Literals](https://contributors.scala-lang.org/t/pre-sip-a-syntax-for-collection-literals/6990)
 * [2025-01-18, 09:12:58](https://lobste.rs/s/toggy7/openflexure_microscope) - [OpenFlexure Microscope](https://openflexure.org/projects/microscope/)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 * [2025-01-18, 05:51:26](https://lobste.rs/s/qqln6q/audiblez_generate_audiobooks_from_e) - [Audiblez: Generate audiobooks from e-books](https://github.com/santinic/audiblez)
@@ -7,7 +8,6 @@
 * [2025-01-18, 00:00:14](https://lobste.rs/s/orelmp/year_review_2024_highlights_peek_at_2025) - [Year in review: 2024 highlights and a peek at 2025](https://graphite.rs/blog/year-in-review-2024-highlights-and-a-peek-at-2025/)
 * [2025-01-17, 22:22:08](https://lobste.rs/s/2avgnx/investigating_evil_rj45_dongle) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 20:56:52](https://lobste.rs/s/qwibcr/sshcont_ssh_daemon_starts_enters) - [sshcont: ssh daemon that starts and enters a throwaway docker container for testing](https://github.com/abbbi/sshcont)
-* [2025-01-17, 20:14:10](https://lobste.rs/s/9joz7i/tiobe_index_for_january_2025) - [TIOBE Index for January 2025](https://www.tiobe.com/tiobe-index/)
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 * [2025-01-17, 19:37:21](https://lobste.rs/s/zohohd/oracle_won_t_relinquish_javascript) - [Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle](https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html)
 * [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)
