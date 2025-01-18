@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 12:48:32](https://lobste.rs/s/d8jfln/cursed_art_streaming_html) - [The Cursed Art of Streaming HTML](https://rinici.de/posts/streaming-html)
 * [2025-01-18, 10:28:37](https://lobste.rs/s/dm6tei/versioning_scheme_for_end_user_software) - [A versioning scheme for end-user software](https://deniz.aksimsek.tr/2025/version/)
 * [2025-01-18, 09:15:12](https://lobste.rs/s/skaerp/pre_sip_syntax_for_collection_literals) - [Pre-SIP: A Syntax for Collection Literals](https://contributors.scala-lang.org/t/pre-sip-a-syntax-for-collection-literals/6990)
 * [2025-01-18, 09:12:58](https://lobste.rs/s/toggy7/openflexure_microscope) - [OpenFlexure Microscope](https://openflexure.org/projects/microscope/)
