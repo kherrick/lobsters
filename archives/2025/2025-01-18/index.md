@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 15:47:02](https://lobste.rs/s/ymmuxs/podcast_type_theory_forall) - [Podcast: Type Theory Forall](https://www.typetheoryforall.com/)
 * [2025-01-18, 15:33:35](https://lobste.rs/s/bbrgdy/lessons_from_red_teaming_100_generative) - [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
 * [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2025-01-18, 14:47:48](https://lobste.rs/s/tim05p/gittuf_security_layer_for_git) - [gittuf: A security layer for Git repositories](https://github.com/gittuf/gittuf)
