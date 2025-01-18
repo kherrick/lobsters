@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 21:37:30](https://lobste.rs/s/6bwt0n/woodpecker_ci_v3_0_0_release) - [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
 * [2025-01-18, 20:43:59](https://lobste.rs/s/thcg4r/new_postgres_block_storage_layout_for) - [A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block_storage_part_one)
 * [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
 * [2025-01-18, 19:42:07](https://lobste.rs/s/668kh1/reverse_engineering_carry_lookahead) - [Reverse-engineering a carry-lookahead adder in the Pentium](http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
@@ -24,7 +25,6 @@
 * [2025-01-17, 16:05:46](https://lobste.rs/s/augngt/private_keys_fortigate_leak) - [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)
 * [2025-01-17, 14:32:15](https://lobste.rs/s/atglkw/prototyping_rust) - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 * [2025-01-17, 10:35:08](https://lobste.rs/s/z3ilei/how_i_think_about_zig_rust) - [How I think about Zig and Rust](https://lewiscampbell.tech/blog/250117.html)
-* [2025-01-17, 09:24:02](https://lobste.rs/s/xo47lc/earthstar) - [Earthstar](https://earthstar-project.org/)
 
 ## [Archives](archives/index.md)
 
