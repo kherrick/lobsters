@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 18:40:00](https://lobste.rs/s/d029dt/porting_pfp_from_haskell_ocaml) - [Porting PFP from Haskell to OCaml](https://github.com/lewis-carson/PFPCaml)
 * [2025-01-18, 18:26:25](https://lobste.rs/s/7zsp5k/milestoner) - [Milestoner](https://alchemists.io/projects/milestoner)
 * [2025-01-18, 17:19:48](https://lobste.rs/s/7bda7t/rust_based_ml_model_analyzer) - [A Rust based ML model analyzer](https://fleetwood.dev/posts/steelix)
 * [2025-01-18, 16:12:27](https://lobste.rs/s/xojfte/wireguard_at_modal_static_ips_for) - [WireGuard at Modal: Static IPs for Serverless Containers](https://modal.com/blog/vprox)

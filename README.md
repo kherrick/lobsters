@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 18:40:00](https://lobste.rs/s/d029dt/porting_pfp_from_haskell_ocaml) - [Porting PFP from Haskell to OCaml](https://github.com/lewis-carson/PFPCaml)
 * [2025-01-18, 18:26:25](https://lobste.rs/s/7zsp5k/milestoner) - [Milestoner](https://alchemists.io/projects/milestoner)
 * [2025-01-18, 17:19:48](https://lobste.rs/s/7bda7t/rust_based_ml_model_analyzer) - [A Rust based ML model analyzer](https://fleetwood.dev/posts/steelix)
 * [2025-01-18, 15:47:02](https://lobste.rs/s/ymmuxs/podcast_type_theory_forall) - [Podcast: Type Theory Forall](https://www.typetheoryforall.com/)
@@ -16,7 +17,6 @@
 * [2025-01-17, 22:22:08](https://lobste.rs/s/2avgnx/investigating_evil_rj45_dongle) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 * [2025-01-17, 19:37:21](https://lobste.rs/s/zohohd/oracle_won_t_relinquish_javascript) - [Oracle won't relinquish JavaScript trademark, so the JS community prepares for court battle](https://www.techspot.com/news/106351-oracle-wont-relinquish-javascript-trademark-js-community-prepares.html)
-* [2025-01-17, 19:15:33](https://lobste.rs/s/0yarkz/lazy_self_installing_python_scripts_with) - [Lazy self-installing Python scripts with uv](https://treyhunner.com/2024/12/lazy-self-installing-python-scripts-with-uv/)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 16:51:10](https://lobste.rs/s/dgur9s/project_mini_rack_homelab_revolution) - [Project MINI RACK - a Homelab Revolution](https://www.youtube.com/watch?v=y1GCIwLm3is)
 * [2025-01-17, 16:05:46](https://lobste.rs/s/augngt/private_keys_fortigate_leak) - [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)
