@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-18, 20:32:08](https://lobste.rs/s/65fbsh/preventing_data_races_with_pony) - [Preventing data races with Pony](https://lwn.net/Articles/1001224/)
+* [2025-01-18, 20:43:59](https://lobste.rs/s/thcg4r/new_postgres_block_storage_layout_for) - [A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block_storage_part_one)
 * [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
 * [2025-01-18, 19:42:07](https://lobste.rs/s/668kh1/reverse_engineering_carry_lookahead) - [Reverse-engineering a carry-lookahead adder in the Pentium](http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
 * [2025-01-18, 19:39:18](https://lobste.rs/s/jinn5t/2d_syntax) - [2D Syntax](https://docs.racket-lang.org/2d/index.html)
