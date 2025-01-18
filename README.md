@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 09:12:58](https://lobste.rs/s/toggy7/openflexure_microscope) - [OpenFlexure Microscope](https://openflexure.org/projects/microscope/)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 * [2025-01-18, 05:51:26](https://lobste.rs/s/qqln6q/audiblez_generate_audiobooks_from_e) - [Audiblez: Generate audiobooks from e-books](https://github.com/santinic/audiblez)
 * [2025-01-18, 05:05:35](https://lobste.rs/s/gvo8fy/thoughts_on_having_ssh_allow_password) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
@@ -17,7 +18,6 @@
 * [2025-01-17, 16:05:46](https://lobste.rs/s/augngt/private_keys_fortigate_leak) - [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)
 * [2025-01-17, 15:38:20](https://lobste.rs/s/8o1bdo/logical_replication_postgres_basics) - [Logical replication in Postgres: Basics](https://www.enterprisedb.com/blog/logical-replication-postgres-basics)
 * [2025-01-17, 15:34:12](https://lobste.rs/s/vgcqn8/statement_on_planned_protests_during) - [Statement on planned protests during the upcoming FOSDEM 2025](https://fosdem.org/2025/news/2025-01-16-protests/)
-* [2025-01-17, 14:32:15](https://lobste.rs/s/kllhgb/bypassing_disk_encryption_on_systems) - [Bypassing disk encryption on systems with automatic TPM2 unlock](https://oddlama.org/blog/bypassing-disk-encryption-with-tpm2-unlock/)
 * [2025-01-17, 14:32:15](https://lobste.rs/s/atglkw/prototyping_rust) - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 * [2025-01-17, 14:24:27](https://lobste.rs/s/ksgetc/what_expect_from_release_month_0_14_0) - [What to Expect from Release Month (0.14.0)](https://ziglang.org/news/what-to-expect-from-release-month/)
 * [2025-01-17, 12:40:25](https://lobste.rs/s/lpsby0/kubernetes_comic) - [Kubernetes Comic](https://cloud.google.com/kubernetes-engine/kubernetes-comic)
