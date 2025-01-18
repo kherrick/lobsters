@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 05:51:26](https://lobste.rs/s/qqln6q/audiblez_generate_audiobooks_from_e) - [Audiblez: Generate audiobooks from e-books](https://github.com/santinic/audiblez)
 * [2025-01-18, 05:05:35](https://lobste.rs/s/gvo8fy/thoughts_on_having_ssh_allow_password) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
 * [2025-01-18, 00:00:14](https://lobste.rs/s/orelmp/year_review_2024_highlights_peek_at_2025) - [Year in review: 2024 highlights and a peek at 2025](https://graphite.rs/blog/year-in-review-2024-highlights-and-a-peek-at-2025/)
-* [2025-01-17, 22:29:22](https://lobste.rs/s/pokkwy/mind_convt) - [Mind The convT](https://dolthub.com/blog/2025-01-17-convt-perf/)
 * [2025-01-17, 22:22:08](https://lobste.rs/s/2avgnx/investigating_evil_rj45_dongle) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 20:56:52](https://lobste.rs/s/qwibcr/sshcont_ssh_daemon_starts_enters) - [sshcont: ssh daemon that starts and enters a throwaway docker container for testing](https://github.com/abbbi/sshcont)
 * [2025-01-17, 20:14:10](https://lobste.rs/s/9joz7i/tiobe_index_for_january_2025) - [TIOBE Index for January 2025](https://www.tiobe.com/tiobe-index/)
