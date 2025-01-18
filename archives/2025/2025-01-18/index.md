@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 19:34:24](https://lobste.rs/s/u574ja/wasm_gc_isn_t_ready_for_realtime_graphics) - [Wasm GC isn’t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
+* [2025-01-18, 19:29:00](https://lobste.rs/s/1mavqk/isd_interactive_systemd_better_way_work) - [isd (interactive systemd) — a better way to work with systemd units](https://github.com/isd-project/isd)
 * [2025-01-18, 18:40:00](https://lobste.rs/s/d029dt/porting_pfp_from_haskell_ocaml) - [Porting PFP from Haskell to OCaml](https://github.com/lewis-carson/PFPCaml)
 * [2025-01-18, 18:26:25](https://lobste.rs/s/7zsp5k/milestoner) - [Milestoner](https://alchemists.io/projects/milestoner)
 * [2025-01-18, 17:19:48](https://lobste.rs/s/7bda7t/rust_based_ml_model_analyzer) - [A Rust based ML model analyzer](https://fleetwood.dev/posts/steelix)
