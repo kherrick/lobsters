@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 18:23:28](https://lobste.rs/s/eauwzh/my_first_pcb_relay_gate) - [My First PCB: Relay AND gate](https://raymii.org/s/blog/My_First_PCB_relay_AND_gate.html)
 * [2025-01-19, 18:04:50](https://lobste.rs/s/aljhv8/hasochism_pleasure_pain_dependently) - [Hasochism: The Pleasure and Pain of Dependently Typed Haskell Programming](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
 * [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
@@ -20,7 +21,6 @@
 * [2025-01-18, 19:39:18](https://lobste.rs/s/jinn5t/2d_syntax) - [2D Syntax](https://docs.racket-lang.org/2d/index.html)
 * [2025-01-18, 19:34:24](https://lobste.rs/s/u574ja/wasm_gc_isn_t_ready_for_realtime_graphics) - [Wasm GC isn’t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 19:29:00](https://lobste.rs/s/1mavqk/isd_interactive_systemd_better_way_work) - [isd (interactive systemd) — a better way to work with systemd units](https://github.com/isd-project/isd)
-* [2025-01-18, 15:47:02](https://lobste.rs/s/ymmuxs/podcast_type_theory_forall) - [Podcast: Type Theory Forall](https://www.typetheoryforall.com/)
 * [2025-01-18, 15:33:35](https://lobste.rs/s/bbrgdy/lessons_from_red_teaming_100_generative) - [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
 * [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 * [2025-01-18, 13:32:38](https://lobste.rs/s/fkgs0p/thoughts_on_month_with_devin) - [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
