@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-19, 07:43:31](https://lobste.rs/s/ma6vm4/microsoft_just_renamed_office_on) - [Microsoft just renamed Office on everyone's PCs, and the new name isn't great (CoPilot)](https://www.xda-developers.com/microsoft-renamed-office-everyones-pcs/)
 * [2025-01-19, 05:40:38](https://lobste.rs/s/bpg81c/35_cent_commodore_64_softmodem) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 03:13:46](https://lobste.rs/s/qyd4pk/announcing_lix_2_92_bombe_glacee) - [Announcing Lix 2.92 \"Bombe glacée\"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
 * [2025-01-18, 22:42:03](https://lobste.rs/s/8crnf1/finally_replacement_for_bert) - [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
@@ -24,7 +25,6 @@
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 16:05:46](https://lobste.rs/s/augngt/private_keys_fortigate_leak) - [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)
-* [2025-01-17, 14:32:15](https://lobste.rs/s/atglkw/prototyping_rust) - [Prototyping in Rust](https://corrode.dev/blog/prototyping/)
 
 ## [Archives](archives/index.md)
 
