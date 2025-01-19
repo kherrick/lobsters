@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-18, 23:08:00](https://lobste.rs/s/e09hww/yavalath_2007) - [Yavalath (2007)](https://cambolbro.com/games/yavalath/)
 * [2025-01-18, 22:42:03](https://lobste.rs/s/8crnf1/finally_replacement_for_bert) - [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
 * [2025-01-18, 22:21:38](https://lobste.rs/s/ww8kcv/using_chatgpt_is_not_bad_for_environment) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 21:37:30](https://lobste.rs/s/6bwt0n/woodpecker_ci_v3_0_0_release) - [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
@@ -20,7 +21,6 @@
 * [2025-01-18, 10:28:37](https://lobste.rs/s/dm6tei/versioning_scheme_for_end_user_software) - [A versioning scheme for end-user software](https://deniz.aksimsek.tr/2025/version/)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 * [2025-01-18, 05:05:35](https://lobste.rs/s/gvo8fy/thoughts_on_having_ssh_allow_password) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
-* [2025-01-17, 22:22:08](https://lobste.rs/s/2avgnx/investigating_evil_rj45_dongle) - [Investigating an \"evil\" RJ45 dongle](https://lcamtuf.substack.com/p/investigating-an-evil-rj45-dongle)
 * [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 * [2025-01-17, 16:05:46](https://lobste.rs/s/augngt/private_keys_fortigate_leak) - [Private Keys in the Fortigate Leak](https://blog.hboeck.de/archives/908-Private-Keys-in-the-Fortigate-Leak.html)

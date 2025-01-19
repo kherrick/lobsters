@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-18](index.md)
 
+* [2025-01-18, 23:08:00](https://lobste.rs/s/e09hww/yavalath_2007) - [Yavalath (2007)](https://cambolbro.com/games/yavalath/)
 * [2025-01-18, 22:42:03](https://lobste.rs/s/8crnf1/finally_replacement_for_bert) - [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
 * [2025-01-18, 22:21:38](https://lobste.rs/s/ww8kcv/using_chatgpt_is_not_bad_for_environment) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 21:37:30](https://lobste.rs/s/6bwt0n/woodpecker_ci_v3_0_0_release) - [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
