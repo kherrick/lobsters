@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-19, 05:40:38](https://lobste.rs/s/bpg81c/35_cent_commodore_64_softmodem) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 03:13:46](https://lobste.rs/s/qyd4pk/announcing_lix_2_92_bombe_glacee) - [Announcing Lix 2.92 \"Bombe glacée\"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
-* [2025-01-18, 23:08:00](https://lobste.rs/s/e09hww/yavalath_2007) - [Yavalath (2007)](https://cambolbro.com/games/yavalath/)
 * [2025-01-18, 22:42:03](https://lobste.rs/s/8crnf1/finally_replacement_for_bert) - [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
 * [2025-01-18, 22:21:38](https://lobste.rs/s/ww8kcv/using_chatgpt_is_not_bad_for_environment) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 21:37:30](https://lobste.rs/s/6bwt0n/woodpecker_ci_v3_0_0_release) - [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
