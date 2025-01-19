@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 22:00:57](https://lobste.rs/s/hzhbiu/better_python_developer_productivity) - [Better Python Developer Productivity with RDD](https://davidvujic.blogspot.com/2025/01/better-python-developer-productivity-with-rdd.html)
 * [2025-01-19, 21:21:32](https://lobste.rs/s/3keptu/swiss_cheese_model) - [The Swiss Cheese Model](https://jacobian.org/2025/jan/16/swiss-cheese-model/)
 * [2025-01-19, 21:12:23](https://lobste.rs/s/nvul1e/til_109_unpacking_kwargs_with_custom) - [TIL 109 – Unpacking kwargs with custom objects](https://mathspp.com/blog/til/unpacking-kwargs-with-custom-objects)
 * [2025-01-19, 21:09:28](https://lobste.rs/s/altrjc/new_python_packaging_proposal_aims_solve) - [New Python Packaging Proposal Aims to Solve Phantom Dependen](https://socket.dev/blog/new-python-packaging-proposal-aims-to-solve-phantom-dependency-problem-with-sboms)
