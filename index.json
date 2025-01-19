@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-19, 18:33:05",
+      "https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release"
+    ],
+    [
+      "Rust Coreutils 0.0.29 release",
+      "https://github.com/uutils/coreutils/releases/tag/0.0.29"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 18:23:28",
       "https://lobste.rs/s/eauwzh/my_first_pcb_relay_gate"
     ],
@@ -197,16 +207,6 @@
     [
       "isd (interactive systemd) — a better way to work with systemd units",
       "https://github.com/isd-project/isd"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 15:47:02",
-      "https://lobste.rs/s/ymmuxs/podcast_type_theory_forall"
-    ],
-    [
-      "Podcast: Type Theory Forall",
-      "https://www.typetheoryforall.com/"
     ]
   ],
   [
