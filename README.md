@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-19, 21:09:28](https://lobste.rs/s/altrjc/new_python_packaging_proposal_aims_solve) - [New Python Packaging Proposal Aims to Solve Phantom Dependen](https://socket.dev/blog/new-python-packaging-proposal-aims-to-solve-phantom-dependency-problem-with-sboms)
 * [2025-01-19, 19:11:12](https://lobste.rs/s/gn8gi6/dinit_service_monitoring_init_system) - [dinit: Service monitoring / \"init\" system](https://github.com/davmac314/dinit)
 * [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 18:23:28](https://lobste.rs/s/eauwzh/my_first_pcb_relay_gate) - [My First PCB: Relay AND gate](https://raymii.org/s/blog/My_First_PCB_relay_AND_gate.html)
@@ -23,7 +24,6 @@
 * [2025-01-18, 19:29:00](https://lobste.rs/s/1mavqk/isd_interactive_systemd_better_way_work) - [isd (interactive systemd) — a better way to work with systemd units](https://github.com/isd-project/isd)
 * [2025-01-18, 15:33:35](https://lobste.rs/s/bbrgdy/lessons_from_red_teaming_100_generative) - [Lessons From Red Teaming 100 Generative AI Products](https://arxiv.org/abs/2501.07238)
 * [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
-* [2025-01-18, 13:32:38](https://lobste.rs/s/fkgs0p/thoughts_on_month_with_devin) - [Thoughts On A Month With Devin](https://www.answer.ai/posts/2025-01-08-devin.html)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 
 ## [Archives](archives/index.md)

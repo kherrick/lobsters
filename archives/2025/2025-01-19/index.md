@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 21:09:28](https://lobste.rs/s/altrjc/new_python_packaging_proposal_aims_solve) - [New Python Packaging Proposal Aims to Solve Phantom Dependen](https://socket.dev/blog/new-python-packaging-proposal-aims-to-solve-phantom-dependency-problem-with-sboms)
 * [2025-01-19, 19:11:12](https://lobste.rs/s/gn8gi6/dinit_service_monitoring_init_system) - [dinit: Service monitoring / \"init\" system](https://github.com/davmac314/dinit)
 * [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 18:23:28](https://lobste.rs/s/eauwzh/my_first_pcb_relay_gate) - [My First PCB: Relay AND gate](https://raymii.org/s/blog/My_First_PCB_relay_AND_gate.html)
