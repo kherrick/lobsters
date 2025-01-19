@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-19, 12:31:23",
+      "https://lobste.rs/s/ve21g3/scaling_millions_users_requires_synapse"
+    ],
+    [
+      "Scaling to millions of users requires Synapse Pro",
+      "https://element.io/blog/scaling-to-millions-of-users-requires-synapse-pro/"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 11:21:52",
       "https://lobste.rs/s/fivp6t/transistor_cliff_2023"
     ],
@@ -227,16 +237,6 @@
     [
       "Thoughts on having SSH allow password authentication from the Internet",
       "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth"
-    ]
-  ],
-  [
-    [
-      "2025-01-17, 20:10:51",
-      "https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor"
-    ],
-    [
-      "Cheatsheet for jj's builtin diff editor",
-      "https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html"
     ]
   ],
   [
