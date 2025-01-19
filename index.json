@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-01-19, 07:43:31",
-      "https://lobste.rs/s/ma6vm4/microsoft_just_renamed_office_on"
-    ],
-    [
-      "Microsoft just renamed Office on everyone's PCs, and the new name isn't great (CoPilot)",
-      "https://www.xda-developers.com/microsoft-renamed-office-everyones-pcs/"
-    ]
-  ],
-  [
-    [
       "2025-01-19, 05:40:38",
       "https://lobste.rs/s/bpg81c/35_cent_commodore_64_softmodem"
     ],
@@ -117,6 +107,16 @@
     [
       "Git Trailers",
       "https://alchemists.io/articles/git_trailers"
+    ]
+  ],
+  [
+    [
+      "2025-01-18, 19:42:07",
+      "https://lobste.rs/s/668kh1/reverse_engineering_carry_lookahead"
+    ],
+    [
+      "Reverse-engineering a carry-lookahead adder in the Pentium",
+      "http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html"
     ]
   ],
   [
