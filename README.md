@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 * [2025-01-19, 12:31:23](https://lobste.rs/s/ve21g3/scaling_millions_users_requires_synapse) - [Scaling to millions of users requires Synapse Pro](https://element.io/blog/scaling-to-millions-of-users-requires-synapse-pro/)
 * [2025-01-19, 11:21:52](https://lobste.rs/s/fivp6t/transistor_cliff_2023) - [The Transistor Cliff (2023)](https://asteriskmag.com/issues/03/the-transistor-cliff)
 * [2025-01-19, 07:43:31](https://lobste.rs/s/ma6vm4/microsoft_just_renamed_office_on) - [Microsoft just renamed Office on everyone's PCs, and the new name isn't great (CoPilot)](https://www.xda-developers.com/microsoft-renamed-office-everyones-pcs/)
@@ -11,7 +12,6 @@
 * [2025-01-18, 20:43:59](https://lobste.rs/s/thcg4r/new_postgres_block_storage_layout_for) - [A New Postgres Block Storage Layout for Full Text Search](https://www.paradedb.com/blog/block_storage_part_one)
 * [2025-01-18, 20:32:08](https://lobste.rs/s/65fbsh/preventing_data_races_with_pony) - [Preventing data races with Pony](https://lwn.net/Articles/1001224/)
 * [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
-* [2025-01-18, 19:42:07](https://lobste.rs/s/668kh1/reverse_engineering_carry_lookahead) - [Reverse-engineering a carry-lookahead adder in the Pentium](http://www.righto.com/2025/01/pentium-carry-lookahead-reverse-engineered.html)
 * [2025-01-18, 19:39:18](https://lobste.rs/s/jinn5t/2d_syntax) - [2D Syntax](https://docs.racket-lang.org/2d/index.html)
 * [2025-01-18, 19:34:24](https://lobste.rs/s/u574ja/wasm_gc_isn_t_ready_for_realtime_graphics) - [Wasm GC isn’t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 19:29:00](https://lobste.rs/s/1mavqk/isd_interactive_systemd_better_way_work) - [isd (interactive systemd) — a better way to work with systemd units](https://github.com/isd-project/isd)
