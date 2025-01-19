@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-19, 18:04:50",
+      "https://lobste.rs/s/aljhv8/hasochism_pleasure_pain_dependently"
+    ],
+    [
+      "Hasochism: The Pleasure and Pain of Dependently Typed Haskell Programming",
+      "https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 17:39:36",
       "https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis"
     ],
@@ -137,16 +147,6 @@
     [
       "Woodpecker CI v3.0.0 release",
       "https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 20:32:08",
-      "https://lobste.rs/s/65fbsh/preventing_data_races_with_pony"
-    ],
-    [
-      "Preventing data races with Pony",
-      "https://lwn.net/Articles/1001224/"
     ]
   ],
   [
