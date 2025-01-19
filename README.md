@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-19, 12:31:23](https://lobste.rs/s/ve21g3/scaling_millions_users_requires_synapse) - [Scaling to millions of users requires Synapse Pro](https://element.io/blog/scaling-to-millions-of-users-requires-synapse-pro/)
 * [2025-01-19, 11:21:52](https://lobste.rs/s/fivp6t/transistor_cliff_2023) - [The Transistor Cliff (2023)](https://asteriskmag.com/issues/03/the-transistor-cliff)
 * [2025-01-19, 07:43:31](https://lobste.rs/s/ma6vm4/microsoft_just_renamed_office_on) - [Microsoft just renamed Office on everyone's PCs, and the new name isn't great (CoPilot)](https://www.xda-developers.com/microsoft-renamed-office-everyones-pcs/)
 * [2025-01-19, 05:40:38](https://lobste.rs/s/bpg81c/35_cent_commodore_64_softmodem) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
@@ -23,7 +24,6 @@
 * [2025-01-18, 10:28:37](https://lobste.rs/s/dm6tei/versioning_scheme_for_end_user_software) - [A versioning scheme for end-user software](https://deniz.aksimsek.tr/2025/version/)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
 * [2025-01-18, 05:05:35](https://lobste.rs/s/gvo8fy/thoughts_on_having_ssh_allow_password) - [Thoughts on having SSH allow password authentication from the Internet](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/SSHOnExposingPasswordAuth)
-* [2025-01-17, 20:10:51](https://lobste.rs/s/dkyjuc/cheatsheet_for_jj_s_builtin_diff_editor) - [Cheatsheet for jj's builtin diff editor](https://www.pauladamsmith.com/blog/2025/01/cheatsheet-for-jjs-builtin-diff-editor.html)
 * [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 
 ## [Archives](archives/index.md)
