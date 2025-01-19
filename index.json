@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-19, 17:39:36",
+      "https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis"
+    ],
+    [
+      "Block AI scrapers with Anubis",
+      "https://xeiaso.net/blog/2025/anubis/"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 17:03:47",
       "https://lobste.rs/s/ktmhzr/dillo_release_3_2_0"
     ],
@@ -177,16 +187,6 @@
     [
       "isd (interactive systemd) — a better way to work with systemd units",
       "https://github.com/isd-project/isd"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 18:40:00",
-      "https://lobste.rs/s/d029dt/porting_pfp_from_haskell_ocaml"
-    ],
-    [
-      "Porting PFP from Haskell to OCaml",
-      "https://github.com/lewis-carson/PFPCaml"
     ]
   ],
   [
