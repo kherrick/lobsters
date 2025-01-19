@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 14:20:31](https://lobste.rs/s/hntkd8/yet_another_perl_powered_company) - [Yet Another Perl-Powered Company: Geolytica](https://www.perl.com/geolytica-powered-by-perl/)
 * [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 * [2025-01-19, 12:31:23](https://lobste.rs/s/ve21g3/scaling_millions_users_requires_synapse) - [Scaling to millions of users requires Synapse Pro](https://element.io/blog/scaling-to-millions-of-users-requires-synapse-pro/)
 * [2025-01-19, 11:21:52](https://lobste.rs/s/fivp6t/transistor_cliff_2023) - [The Transistor Cliff (2023)](https://asteriskmag.com/issues/03/the-transistor-cliff)
