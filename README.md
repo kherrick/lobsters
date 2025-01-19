@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-19, 19:11:12](https://lobste.rs/s/gn8gi6/dinit_service_monitoring_init_system) - [dinit: Service monitoring / \"init\" system](https://github.com/davmac314/dinit)
 * [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 18:23:28](https://lobste.rs/s/eauwzh/my_first_pcb_relay_gate) - [My First PCB: Relay AND gate](https://raymii.org/s/blog/My_First_PCB_relay_AND_gate.html)
 * [2025-01-19, 18:04:50](https://lobste.rs/s/aljhv8/hasochism_pleasure_pain_dependently) - [Hasochism: The Pleasure and Pain of Dependently Typed Haskell Programming](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
@@ -15,7 +16,6 @@
 * [2025-01-19, 05:40:38](https://lobste.rs/s/bpg81c/35_cent_commodore_64_softmodem) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 03:13:46](https://lobste.rs/s/qyd4pk/announcing_lix_2_92_bombe_glacee) - [Announcing Lix 2.92 \"Bombe glacée\"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
 * [2025-01-18, 22:42:03](https://lobste.rs/s/8crnf1/finally_replacement_for_bert) - [Finally, a Replacement for BERT: Introducing ModernBERT](https://huggingface.co/blog/modernbert)
-* [2025-01-18, 22:21:38](https://lobste.rs/s/ww8kcv/using_chatgpt_is_not_bad_for_environment) - [Using ChatGPT is not bad for the environment](https://andymasley.substack.com/p/individual-ai-use-is-not-bad-for)
 * [2025-01-18, 21:37:30](https://lobste.rs/s/6bwt0n/woodpecker_ci_v3_0_0_release) - [Woodpecker CI v3.0.0 release](https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0)
 * [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
 * [2025-01-18, 19:39:18](https://lobste.rs/s/jinn5t/2d_syntax) - [2D Syntax](https://docs.racket-lang.org/2d/index.html)
