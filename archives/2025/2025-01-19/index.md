@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-19](index.md)
 
+* [2025-01-19, 16:22:44](https://lobste.rs/s/5ziqid/surprising_struggle_get_unix_epoch_time) - [The surprising struggle to get a UNIX Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
 * [2025-01-19, 14:44:58](https://lobste.rs/s/ovpozv/calculator_forensics_2002) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 14:20:31](https://lobste.rs/s/hntkd8/yet_another_perl_powered_company) - [Yet Another Perl-Powered Company: Geolytica](https://www.perl.com/geolytica-powered-by-perl/)
 * [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)

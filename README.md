@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-19, 16:22:44](https://lobste.rs/s/5ziqid/surprising_struggle_get_unix_epoch_time) - [The surprising struggle to get a UNIX Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
 * [2025-01-19, 14:44:58](https://lobste.rs/s/ovpozv/calculator_forensics_2002) - [Calculator Forensics (2002)](https://www.rskey.org/~mwsebastian/miscprj/forensics.htm)
 * [2025-01-19, 14:20:31](https://lobste.rs/s/hntkd8/yet_another_perl_powered_company) - [Yet Another Perl-Powered Company: Geolytica](https://www.perl.com/geolytica-powered-by-perl/)
 * [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
@@ -24,7 +25,6 @@
 * [2025-01-18, 12:48:32](https://lobste.rs/s/d8jfln/cursed_art_streaming_html) - [The Cursed Art of Streaming HTML](https://rinici.de/posts/streaming-html)
 * [2025-01-18, 10:28:37](https://lobste.rs/s/dm6tei/versioning_scheme_for_end_user_software) - [A versioning scheme for end-user software](https://deniz.aksimsek.tr/2025/version/)
 * [2025-01-18, 08:17:07](https://lobste.rs/s/qjqhuo/how_unix_spell_ran_64kb_ram) - [How Unix Spell Ran in 64kB RAM](https://blog.codingconfessions.com/p/how-unix-spell-ran-in-64kb-ram)
-* [2025-01-17, 18:27:53](https://lobste.rs/s/sna22t/hands_on_graphics_without_x11) - [Hands-on graphics without X11](https://blogsystem5.substack.com/p/netbsd-graphics-wo-x11)
 
 ## [Archives](archives/index.md)
 
