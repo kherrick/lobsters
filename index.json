@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-19, 17:03:47",
+      "https://lobste.rs/s/ktmhzr/dillo_release_3_2_0"
+    ],
+    [
+      "Dillo release 3.2.0",
+      "https://dillo-browser.github.io/release/3.2.0/"
+    ]
+  ],
+  [
+    [
       "2025-01-19, 16:41:10",
       "https://lobste.rs/s/hi2md7/interpreting_brainfuck_haskell"
     ],
@@ -117,16 +127,6 @@
     [
       "Woodpecker CI v3.0.0 release",
       "https://github.com/woodpecker-ci/woodpecker/releases/tag/v3.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 20:43:59",
-      "https://lobste.rs/s/thcg4r/new_postgres_block_storage_layout_for"
-    ],
-    [
-      "A New Postgres Block Storage Layout for Full Text Search",
-      "https://www.paradedb.com/blog/block_storage_part_one"
     ]
   ],
   [
