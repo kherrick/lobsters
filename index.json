@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-20, 10:36:09",
+      "https://lobste.rs/s/khwdfu/profiling_peak_dram_use_r_with_perl_part_2"
+    ],
+    [
+      "Profiling Peak DRAM Use in R With Perl - Part 2",
+      "https://chrisarg.github.io/Killing-It-with-PERL/2025/01/19/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-2.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-20, 10:35:40",
+      "https://lobste.rs/s/t0sfpq/profiling_peak_dram_use_r_with_perl_part_1"
+    ],
+    [
+      "Profiling Peak DRAM Use in R With Perl - Part 1",
+      "https://chrisarg.github.io/Killing-It-with-PERL/2025/01/18/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-1.html"
+    ]
+  ],
+  [
+    [
       "2025-01-20, 10:33:23",
       "https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game"
     ],
@@ -57,16 +77,6 @@
     [
       "Automatic Server Reloading in Rust on Change",
       "https://lucumr.pocoo.org/2025/1/19/what-is-systemfd"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 22:00:57",
-      "https://lobste.rs/s/hzhbiu/better_python_developer_productivity"
-    ],
-    [
-      "Better Python Developer Productivity with RDD",
-      "https://davidvujic.blogspot.com/2025/01/better-python-developer-productivity-with-rdd.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Git Trailers",
       "https://alchemists.io/articles/git_trailers"
-    ]
-  ],
-  [
-    [
-      "2025-01-18, 15:16:42",
-      "https://lobste.rs/s/uw0glu/comic_mono"
-    ],
-    [
-      "Comic Mono",
-      "https://dtinth.github.io/comic-mono-font/"
     ]
   ]
 ]
