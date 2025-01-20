@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-20, 12:31:57](https://lobste.rs/s/5dfvja/is_there_evidence_marked_shift_away_from) - [Is there evidence of a marked shift away from centralization in network programming?](https://lobste.rs/s/5dfvja/is_there_evidence_marked_shift_away_from)
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/block_ai_scrapers_with_versara) - [Block AI scrapers with Versara](https://versara.ai/about)
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:51:19](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week)
@@ -15,7 +16,6 @@
 * [2025-01-19, 19:11:12](https://lobste.rs/s/gn8gi6/dinit_service_monitoring_init_system) - [dinit: Service monitoring / \"init\" system](https://github.com/davmac314/dinit)
 * [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 18:23:28](https://lobste.rs/s/eauwzh/my_first_pcb_relay_gate) - [My First PCB: Relay AND gate](https://raymii.org/s/blog/My_First_PCB_relay_AND_gate.html)
-* [2025-01-19, 18:04:50](https://lobste.rs/s/aljhv8/hasochism_pleasure_pain_dependently) - [Hasochism: The Pleasure and Pain of Dependently Typed Haskell Programming](https://personal.cis.strath.ac.uk/conor.mcbride/pub/hasochism.pdf)
 * [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
 * [2025-01-19, 17:03:47](https://lobste.rs/s/ktmhzr/dillo_release_3_2_0) - [Dillo release 3.2.0](https://dillo-browser.github.io/release/3.2.0/)
 * [2025-01-19, 16:41:10](https://lobste.rs/s/hi2md7/interpreting_brainfuck_haskell) - [Interpreting Brainfuck in Haskell](https://abhinavsarkar.net/posts/brainfuck-interpreter/)
