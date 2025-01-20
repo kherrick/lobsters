@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 13:29:46](https://lobste.rs/s/cavt5a/mozilla_localization_2024) - [Mozilla Localization in 2024](https://blog.mozilla.org/l10n/2025/01/02/mozilla-localization-in-2024/)
 * [2025-01-20, 12:31:57](https://lobste.rs/s/5dfvja/is_there_evidence_marked_shift_away_from) - [Is there evidence of a marked shift away from centralization in network programming?](https://lobste.rs/s/5dfvja/is_there_evidence_marked_shift_away_from)
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/block_ai_scrapers_with_versara) - [Block AI scrapers with Versara](https://versara.ai/about)
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)

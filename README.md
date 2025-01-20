@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-20, 13:29:46](https://lobste.rs/s/cavt5a/mozilla_localization_2024) - [Mozilla Localization in 2024](https://blog.mozilla.org/l10n/2025/01/02/mozilla-localization-in-2024/)
 * [2025-01-20, 12:31:57](https://lobste.rs/s/5dfvja/is_there_evidence_marked_shift_away_from) - [Is there evidence of a marked shift away from centralization in network programming?](https://lobste.rs/s/5dfvja/is_there_evidence_marked_shift_away_from)
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/block_ai_scrapers_with_versara) - [Block AI scrapers with Versara](https://versara.ai/about)
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:51:19](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week)
 * [2025-01-20, 10:48:04](https://lobste.rs/s/2l81hh/premium_xs_integration_pt_1) - [Premium XS Integration, Pt 1](https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html)
-* [2025-01-20, 10:35:40](https://lobste.rs/s/t0sfpq/profiling_peak_dram_use_r_with_perl_part_1) - [Profiling Peak DRAM Use in R With Perl - Part 1](https://chrisarg.github.io/Killing-It-with-PERL/2025/01/18/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-1.html)
 * [2025-01-20, 10:33:23](https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game) - [WasmBots: A Wasm-powered programming game](https://shaneliesegang.com/projects/wasmbots/)
 * [2025-01-20, 10:21:46](https://lobste.rs/s/fx7llj/knowledge_triples) - [Knowledge Triples](https://discovery.graphsandnetworks.com/graphAI/KGExtractions.html)
 * [2025-01-20, 10:01:44](https://lobste.rs/s/a41asf/hacking_into_cpu_s_microcode_2017) - [Hacking Into A CPU’s Microcode (2017)](https://hackaday.com/2017/12/28/34c3-hacking-into-a-cpus-microcode/)
