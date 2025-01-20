@@ -7,7 +7,7 @@
 * [2025-01-20, 16:49:38](https://lobste.rs/s/37ekbw/altair_upset_evolution_upset_plots) - [altair-upset: The Evolution of UpSet plots in Altair](https://edmundmiller.dev/posts/altair-upset/)
 * [2025-01-20, 16:25:50](https://lobste.rs/s/ro2twr/project_8086_part_ii_real_mode) - [Project 8086 Part II: Real Mode Productivity; or, 8,086 Reasons to Get a Newer Computer](https://512pixels.net/2025/01/project-8086-real-mode-productivity/)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
-* [2025-01-20, 14:15:25](https://lobste.rs/s/pgojm3/uk_s_elite_hardware_talent_is_being_wasted) - [UK's elite hardware talent is being wasted](https://josef.cn/blog/uk-talent)
+* [2025-01-20, 14:12:29](https://lobste.rs/s/6qs18p/how_interruptions_impact_different) - [How interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
 * [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
 * [2025-01-20, 13:29:46](https://lobste.rs/s/cavt5a/mozilla_localization_2024) - [Mozilla Localization in 2024](https://blog.mozilla.org/l10n/2025/01/02/mozilla-localization-in-2024/)
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/poisoning_ai_scraper_responses_with) - [Poisoning AI scraper responses with Versara](https://versara.ai/about)
