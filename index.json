@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-01-20, 10:01:44",
+      "https://lobste.rs/s/a41asf/hacking_into_cpu_s_microcode_2017"
+    ],
+    [
+      "Hacking Into A CPU’s Microcode (2017)",
+      "https://hackaday.com/2017/12/28/34c3-hacking-into-a-cpus-microcode/"
+    ]
+  ],
+  [
+    [
       "2025-01-20, 09:28:53",
       "https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing"
     ],
@@ -197,16 +207,6 @@
     [
       "Automatic Server Reloading in Rust on Change",
       "https://lucumr.pocoo.org/2025/1/19/what-is-systemfd"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 19:11:12",
-      "https://lobste.rs/s/gn8gi6/dinit_service_monitoring_init_system"
-    ],
-    [
-      "dinit: Service monitoring / \"init\" system",
-      "https://github.com/davmac314/dinit"
     ]
   ],
   [
