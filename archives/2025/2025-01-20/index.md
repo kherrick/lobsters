@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/block_ai_scrapers_with_versara) - [Block AI scrapers with Versara](https://versara.ai/about)
+* [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:51:19](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week)
 * [2025-01-20, 10:48:04](https://lobste.rs/s/2l81hh/premium_xs_integration_pt_1_nerdvana) - [Premium XS Integration, Pt 1 | Nerdvana [blogs.perl.org]](https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html)
 * [2025-01-20, 10:48:04](https://lobste.rs/s/2l81hh/premium_xs_integration_pt_1) - [Premium XS Integration, Pt 1](https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html)
