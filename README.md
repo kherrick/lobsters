@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-20, 09:28:53](https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing) - [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-20, 08:52:02](https://lobste.rs/s/cneuhk/don_t_use_session_round_2) - [Don't use Session - Round 2](https://soatok.blog/2025/01/20/session-round-2/)
 * [2025-01-20, 03:07:23](https://lobste.rs/s/8yvoce/hash_design_goodhart_s_law) - [Hash Design and Goodhart's Law](https://blog.cessen.com/post/2024_07_10_hash_design_and_goodharts_law)
 * [2025-01-20, 00:06:44](https://lobste.rs/s/smiivo/automatic_server_reloading_rust_on) - [Automatic Server Reloading in Rust on Change](https://lucumr.pocoo.org/2025/1/19/what-is-systemfd)
@@ -22,7 +23,6 @@
 * [2025-01-19, 05:40:38](https://lobste.rs/s/bpg81c/35_cent_commodore_64_softmodem) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 03:13:46](https://lobste.rs/s/qyd4pk/announcing_lix_2_92_bombe_glacee) - [Announcing Lix 2.92 \"Bombe glacée\"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
 * [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
-* [2025-01-18, 19:39:18](https://lobste.rs/s/jinn5t/2d_syntax) - [2D Syntax](https://docs.racket-lang.org/2d/index.html)
 * [2025-01-18, 19:34:24](https://lobste.rs/s/u574ja/wasm_gc_isn_t_ready_for_realtime_graphics) - [Wasm GC isn’t ready for realtime graphics](https://dthompson.us/posts/wasm-gc-isnt-ready-for-realtime-graphics.html)
 * [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 
