@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 10:33:23](https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game) - [WasmBots: A Wasm-powered programming game](https://shaneliesegang.com/projects/wasmbots/)
+* [2025-01-20, 10:21:46](https://lobste.rs/s/fx7llj/knowledge_triples) - [Knowledge Triples](https://discovery.graphsandnetworks.com/graphAI/KGExtractions.html)
 * [2025-01-20, 10:01:44](https://lobste.rs/s/a41asf/hacking_into_cpu_s_microcode_2017) - [Hacking Into A CPU’s Microcode (2017)](https://hackaday.com/2017/12/28/34c3-hacking-into-a-cpus-microcode/)
 * [2025-01-20, 09:28:53](https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing) - [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-20, 08:52:02](https://lobste.rs/s/cneuhk/don_t_use_session_round_2) - [Don't use Session - Round 2](https://soatok.blog/2025/01/20/session-round-2/)
