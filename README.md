@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-20, 17:30:10](https://lobste.rs/s/e8r4s9/anatomy_table_level_locks_reducing) - [Anatomy of Table-Level Locks: Reducing Locking Impact](https://pgroll.com/blog/anatomy-of-table-level-locks-reducing-locking-impact)
 * [2025-01-20, 16:49:38](https://lobste.rs/s/37ekbw/altair_upset_evolution_upset_plots) - [altair-upset: The Evolution of UpSet plots in Altair](https://edmundmiller.dev/posts/altair-upset/)
 * [2025-01-20, 16:25:50](https://lobste.rs/s/ro2twr/project_8086_part_ii_real_mode) - [Project 8086 Part II: Real Mode Productivity; or, 8,086 Reasons to Get a Newer Computer](https://512pixels.net/2025/01/project-8086-real-mode-productivity/)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
@@ -24,7 +25,6 @@
 * [2025-01-19, 16:41:10](https://lobste.rs/s/hi2md7/interpreting_brainfuck_haskell) - [Interpreting Brainfuck in Haskell](https://abhinavsarkar.net/posts/brainfuck-interpreter/)
 * [2025-01-19, 16:22:44](https://lobste.rs/s/5ziqid/surprising_struggle_get_unix_epoch_time) - [The surprising struggle to get a UNIX Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
 * [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
-* [2025-01-19, 03:13:46](https://lobste.rs/s/qyd4pk/announcing_lix_2_92_bombe_glacee) - [Announcing Lix 2.92 \"Bombe glacée\"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
 
 ## [Archives](archives/index.md)
 
