@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-20, 15:22:01",
+      "https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes"
+    ],
+    [
+      "When the Simplest Concurrent Program Goes Against All Intuition",
+      "https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/"
+    ]
+  ],
+  [
+    [
       "2025-01-20, 14:15:25",
       "https://lobste.rs/s/pgojm3/uk_s_elite_hardware_talent_is_being_wasted"
     ],
@@ -137,16 +147,6 @@
     [
       "Automatic Server Reloading in Rust on Change",
       "https://lucumr.pocoo.org/2025/1/19/what-is-systemfd"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 21:12:23",
-      "https://lobste.rs/s/nvul1e/til_109_unpacking_kwargs_with_custom"
-    ],
-    [
-      "TIL 109 – Unpacking kwargs with custom objects",
-      "https://mathspp.com/blog/til/unpacking-kwargs-with-custom-objects"
     ]
   ],
   [
