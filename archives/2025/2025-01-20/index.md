@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
 * [2025-01-20, 13:29:46](https://lobste.rs/s/cavt5a/mozilla_localization_2024) - [Mozilla Localization in 2024](https://blog.mozilla.org/l10n/2025/01/02/mozilla-localization-in-2024/)
 * [2025-01-20, 12:31:57](https://lobste.rs/s/5dfvja/is_there_evidence_marked_shift_away_from) - [Is there evidence of a marked shift away from centralization in network programming?](https://lobste.rs/s/5dfvja/is_there_evidence_marked_shift_away_from)
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/block_ai_scrapers_with_versara) - [Block AI scrapers with Versara](https://versara.ai/about)
