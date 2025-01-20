@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 21:20:21](https://lobste.rs/s/mwlyzp/fnv_hash_map) - [FNV Hash Map](http://ducktape.blot.im/fnv-hash-map)
 * [2025-01-20, 19:34:24](https://lobste.rs/s/r00iiu/documentation_on_using_renovate_with) - [Documentation on using Renovate with haskell-actions](https://github.com/haskell-actions/setup/issues/111)
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
 * [2025-01-20, 18:33:58](https://lobste.rs/s/nowty1/note_on_combining_generators) - [A note on Combining Generators](https://github.com/peter-leonov/type-predicate-generator/issues/18)
