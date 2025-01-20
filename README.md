@@ -9,6 +9,7 @@
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/poisoning_ai_scraper_responses_with) - [Poisoning AI scraper responses with Versara](https://versara.ai/about)
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:51:19](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week)
+* [2025-01-20, 10:48:04](https://lobste.rs/s/2l81hh/premium_xs_integration_pt_1) - [Premium XS Integration, Pt 1](https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html)
 * [2025-01-20, 10:33:23](https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game) - [WasmBots: A Wasm-powered programming game](https://shaneliesegang.com/projects/wasmbots/)
 * [2025-01-20, 10:21:46](https://lobste.rs/s/fx7llj/knowledge_triples) - [Knowledge Triples](https://discovery.graphsandnetworks.com/graphAI/KGExtractions.html)
 * [2025-01-20, 10:01:44](https://lobste.rs/s/a41asf/hacking_into_cpu_s_microcode_2017) - [Hacking Into A CPU’s Microcode (2017)](https://hackaday.com/2017/12/28/34c3-hacking-into-a-cpus-microcode/)
@@ -24,7 +25,6 @@
 * [2025-01-19, 14:20:31](https://lobste.rs/s/hntkd8/yet_another_perl_powered_company) - [Yet Another Perl-Powered Company: Geolytica](https://www.perl.com/geolytica-powered-by-perl/)
 * [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 * [2025-01-19, 03:13:46](https://lobste.rs/s/qyd4pk/announcing_lix_2_92_bombe_glacee) - [Announcing Lix 2.92 \"Bombe glacée\"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
-* [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
 
 ## [Archives](archives/index.md)
 
