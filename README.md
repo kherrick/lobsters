@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-20, 16:49:38](https://lobste.rs/s/37ekbw/altair_upset_evolution_upset_plots) - [altair-upset: The Evolution of UpSet plots in Altair](https://edmundmiller.dev/posts/altair-upset/)
 * [2025-01-20, 16:25:50](https://lobste.rs/s/ro2twr/project_8086_part_ii_real_mode) - [Project 8086 Part II: Real Mode Productivity; or, 8,086 Reasons to Get a Newer Computer](https://512pixels.net/2025/01/project-8086-real-mode-productivity/)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-20, 14:15:25](https://lobste.rs/s/pgojm3/uk_s_elite_hardware_talent_is_being_wasted) - [UK's elite hardware talent is being wasted](https://josef.cn/blog/uk-talent)
@@ -10,7 +11,6 @@
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/poisoning_ai_scraper_responses_with) - [Poisoning AI scraper responses with Versara](https://versara.ai/about)
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:51:19](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week)
-* [2025-01-20, 10:48:04](https://lobste.rs/s/2l81hh/premium_xs_integration_pt_1) - [Premium XS Integration, Pt 1](https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html)
 * [2025-01-20, 10:33:23](https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game) - [WasmBots: A Wasm-powered programming game](https://shaneliesegang.com/projects/wasmbots/)
 * [2025-01-20, 10:21:46](https://lobste.rs/s/fx7llj/knowledge_triples) - [Knowledge Triples](https://discovery.graphsandnetworks.com/graphAI/KGExtractions.html)
 * [2025-01-20, 10:01:44](https://lobste.rs/s/a41asf/hacking_into_cpu_s_microcode_2017) - [Hacking Into A CPU’s Microcode (2017)](https://hackaday.com/2017/12/28/34c3-hacking-into-a-cpus-microcode/)

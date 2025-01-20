@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 16:49:38](https://lobste.rs/s/37ekbw/altair_upset_evolution_upset_plots) - [altair-upset: The Evolution of UpSet plots in Altair](https://edmundmiller.dev/posts/altair-upset/)
 * [2025-01-20, 16:25:50](https://lobste.rs/s/ro2twr/project_8086_part_ii_real_mode) - [Project 8086 Part II: Real Mode Productivity; or, 8,086 Reasons to Get a Newer Computer](https://512pixels.net/2025/01/project-8086-real-mode-productivity/)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-20, 14:15:25](https://lobste.rs/s/pgojm3/uk_s_elite_hardware_talent_is_being_wasted) - [UK's elite hardware talent is being wasted](https://josef.cn/blog/uk-talent)
