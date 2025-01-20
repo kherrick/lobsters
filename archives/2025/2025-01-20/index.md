@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 19:34:24](https://lobste.rs/s/r00iiu/documentation_on_using_renovate_with) - [Documentation on using Renovate with haskell-actions](https://github.com/haskell-actions/setup/issues/111)
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
 * [2025-01-20, 18:33:58](https://lobste.rs/s/nowty1/note_on_combining_generators) - [A note on Combining Generators](https://github.com/peter-leonov/type-predicate-generator/issues/18)
+* [2025-01-20, 18:33:58](https://lobste.rs/s/nowty1/generating_test_values_using_javascript) - [Generating Test Values using JavaScript Generators](https://github.com/peter-leonov/type-predicate-generator/issues/18)
 * [2025-01-20, 18:31:06](https://lobste.rs/s/dddo2d/reverse_engineering_bambu_connect) - [Reverse Engineering Bambu Connect](https://wiki.rossmanngroup.com/wiki/Reverse_Engineering_Bambu_Connect)
 * [2025-01-20, 18:30:54](https://lobste.rs/s/dplbpw/async_pipeline_pattern_eager_work) - [Async Pipeline Pattern - Eager to work](https://github.com/alexpusch/rust-magic-patterns/blob/master/async-pipeline-pattern/Readme.md)
 * [2025-01-20, 17:30:10](https://lobste.rs/s/e8r4s9/anatomy_table_level_locks_reducing) - [Anatomy of Table-Level Locks: Reducing Locking Impact](https://pgroll.com/blog/anatomy-of-table-level-locks-reducing-locking-impact)
