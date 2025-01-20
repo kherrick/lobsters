@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 10:36:09](https://lobste.rs/s/khwdfu/profiling_peak_dram_use_r_with_perl_part_2) - [Profiling Peak DRAM Use in R With Perl - Part 2](https://chrisarg.github.io/Killing-It-with-PERL/2025/01/19/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-2.html)
+* [2025-01-20, 10:35:40](https://lobste.rs/s/t0sfpq/profiling_peak_dram_use_r_with_perl_part_1) - [Profiling Peak DRAM Use in R With Perl - Part 1](https://chrisarg.github.io/Killing-It-with-PERL/2025/01/18/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-1.html)
 * [2025-01-20, 10:33:23](https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game) - [WasmBots: A Wasm-powered programming game](https://shaneliesegang.com/projects/wasmbots/)
 * [2025-01-20, 10:21:46](https://lobste.rs/s/fx7llj/knowledge_triples) - [Knowledge Triples](https://discovery.graphsandnetworks.com/graphAI/KGExtractions.html)
 * [2025-01-20, 10:01:44](https://lobste.rs/s/a41asf/hacking_into_cpu_s_microcode_2017) - [Hacking Into A CPU’s Microcode (2017)](https://hackaday.com/2017/12/28/34c3-hacking-into-a-cpus-microcode/)

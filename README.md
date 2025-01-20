@@ -1,12 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-20, 10:36:09](https://lobste.rs/s/khwdfu/profiling_peak_dram_use_r_with_perl_part_2) - [Profiling Peak DRAM Use in R With Perl - Part 2](https://chrisarg.github.io/Killing-It-with-PERL/2025/01/19/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-2.html)
+* [2025-01-20, 10:35:40](https://lobste.rs/s/t0sfpq/profiling_peak_dram_use_r_with_perl_part_1) - [Profiling Peak DRAM Use in R With Perl - Part 1](https://chrisarg.github.io/Killing-It-with-PERL/2025/01/18/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-1.html)
 * [2025-01-20, 10:33:23](https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game) - [WasmBots: A Wasm-powered programming game](https://shaneliesegang.com/projects/wasmbots/)
 * [2025-01-20, 10:21:46](https://lobste.rs/s/fx7llj/knowledge_triples) - [Knowledge Triples](https://discovery.graphsandnetworks.com/graphAI/KGExtractions.html)
 * [2025-01-20, 10:01:44](https://lobste.rs/s/a41asf/hacking_into_cpu_s_microcode_2017) - [Hacking Into A CPU’s Microcode (2017)](https://hackaday.com/2017/12/28/34c3-hacking-into-a-cpus-microcode/)
 * [2025-01-20, 09:28:53](https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing) - [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-20, 03:07:23](https://lobste.rs/s/8yvoce/hash_design_goodhart_s_law) - [Hash Design and Goodhart's Law](https://blog.cessen.com/post/2024_07_10_hash_design_and_goodharts_law)
 * [2025-01-20, 00:06:44](https://lobste.rs/s/smiivo/automatic_server_reloading_rust_on) - [Automatic Server Reloading in Rust on Change](https://lucumr.pocoo.org/2025/1/19/what-is-systemfd)
-* [2025-01-19, 22:00:57](https://lobste.rs/s/hzhbiu/better_python_developer_productivity) - [Better Python Developer Productivity with RDD](https://davidvujic.blogspot.com/2025/01/better-python-developer-productivity-with-rdd.html)
 * [2025-01-19, 21:21:32](https://lobste.rs/s/3keptu/swiss_cheese_model) - [The Swiss Cheese Model](https://jacobian.org/2025/jan/16/swiss-cheese-model/)
 * [2025-01-19, 21:12:23](https://lobste.rs/s/nvul1e/til_109_unpacking_kwargs_with_custom) - [TIL 109 – Unpacking kwargs with custom objects](https://mathspp.com/blog/til/unpacking-kwargs-with-custom-objects)
 * [2025-01-19, 21:09:28](https://lobste.rs/s/altrjc/new_python_packaging_proposal_aims_solve) - [New Python Packaging Proposal Aims to Solve Phantom Dependency Problem with SBOMs](https://socket.dev/blog/new-python-packaging-proposal-aims-to-solve-phantom-dependency-problem-with-sboms)
@@ -24,7 +25,6 @@
 * [2025-01-19, 05:40:38](https://lobste.rs/s/bpg81c/35_cent_commodore_64_softmodem) - [The \"35-cent\" Commodore 64 softmodem](http://oldvcr.blogspot.com/2025/01/the-35-cent-commodore-64-softmodem.html)
 * [2025-01-19, 03:13:46](https://lobste.rs/s/qyd4pk/announcing_lix_2_92_bombe_glacee) - [Announcing Lix 2.92 \"Bombe glacée\"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
 * [2025-01-18, 19:43:48](https://lobste.rs/s/oczh09/git_trailers) - [Git Trailers](https://alchemists.io/articles/git_trailers)
-* [2025-01-18, 15:16:42](https://lobste.rs/s/uw0glu/comic_mono) - [Comic Mono](https://dtinth.github.io/comic-mono-font/)
 
 ## [Archives](archives/index.md)
 
