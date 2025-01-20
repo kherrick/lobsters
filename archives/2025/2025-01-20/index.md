@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 22:49:29](https://lobste.rs/s/mioxtn/vs_code_extension_let_llms_interactively) - [VS Code Extension to let LLMs interactively debug your code](https://github.com/jasonjmcghee/claude-debugs-for-you)
 * [2025-01-20, 21:55:45](https://lobste.rs/s/kf7beb/inappbrowser_com_see_what_javascript) - [InAppBrowser.com: see what JavaScript commands get injected through an in-app browser (2022)](https://krausefx.com//blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser)
 * [2025-01-20, 21:27:04](https://lobste.rs/s/k6al6k/migrating_away_from_bcachefs) - [Migrating away from bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
 * [2025-01-20, 21:20:21](https://lobste.rs/s/mwlyzp/fnv_hash_map) - [FNV Hash Map](http://ducktape.blot.im/fnv-hash-map)
