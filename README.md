@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-20, 16:25:50](https://lobste.rs/s/ro2twr/project_8086_part_ii_real_mode) - [Project 8086 Part II: Real Mode Productivity; or, 8,086 Reasons to Get a Newer Computer](https://512pixels.net/2025/01/project-8086-real-mode-productivity/)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-20, 14:15:25](https://lobste.rs/s/pgojm3/uk_s_elite_hardware_talent_is_being_wasted) - [UK's elite hardware talent is being wasted](https://josef.cn/blog/uk-talent)
 * [2025-01-20, 14:12:29](https://lobste.rs/s/6qs18p/how_interruptions_impact_different) - [How interruptions impact different software engineering activities](https://rdel.substack.com/p/rdel-75-how-do-interruptions-impact)
@@ -22,7 +23,6 @@
 * [2025-01-19, 17:03:47](https://lobste.rs/s/ktmhzr/dillo_release_3_2_0) - [Dillo release 3.2.0](https://dillo-browser.github.io/release/3.2.0/)
 * [2025-01-19, 16:41:10](https://lobste.rs/s/hi2md7/interpreting_brainfuck_haskell) - [Interpreting Brainfuck in Haskell](https://abhinavsarkar.net/posts/brainfuck-interpreter/)
 * [2025-01-19, 16:22:44](https://lobste.rs/s/5ziqid/surprising_struggle_get_unix_epoch_time) - [The surprising struggle to get a UNIX Epoch time from a UTC string in C or C++](https://berthub.eu/articles/posts/how-to-get-a-unix-epoch-from-a-utc-date-time-string/)
-* [2025-01-19, 14:20:31](https://lobste.rs/s/hntkd8/yet_another_perl_powered_company) - [Yet Another Perl-Powered Company: Geolytica](https://www.perl.com/geolytica-powered-by-perl/)
 * [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 * [2025-01-19, 03:13:46](https://lobste.rs/s/qyd4pk/announcing_lix_2_92_bombe_glacee) - [Announcing Lix 2.92 \"Bombe glacée\"](https://lix.systems/blog/2025-01-18-lix-2.92-release/)
 
