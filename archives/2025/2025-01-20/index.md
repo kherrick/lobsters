@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-20](index.md)
 
+* [2025-01-20, 10:51:19](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week)
+* [2025-01-20, 10:48:04](https://lobste.rs/s/2l81hh/premium_xs_integration_pt_1_nerdvana) - [Premium XS Integration, Pt 1 | Nerdvana [blogs.perl.org]](https://blogs.perl.org/users/nerdvana/2025/01/premium-xs-integration-pt-1.html)
 * [2025-01-20, 10:36:09](https://lobste.rs/s/khwdfu/profiling_peak_dram_use_r_with_perl_part_2) - [Profiling Peak DRAM Use in R With Perl - Part 2](https://chrisarg.github.io/Killing-It-with-PERL/2025/01/19/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-2.html)
 * [2025-01-20, 10:35:40](https://lobste.rs/s/t0sfpq/profiling_peak_dram_use_r_with_perl_part_1) - [Profiling Peak DRAM Use in R With Perl - Part 1](https://chrisarg.github.io/Killing-It-with-PERL/2025/01/18/Timing-Peak-DRAM-Use-In-R-With-Perl-Part-1.html)
 * [2025-01-20, 10:33:23](https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game) - [WasmBots: A Wasm-powered programming game](https://shaneliesegang.com/projects/wasmbots/)
