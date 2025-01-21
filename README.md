@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 21:24:20](https://lobste.rs/s/bhwgko/trace_rainbow_writing_wireshark) - [Trace the Rainbow: writing a Wireshark dissector](https://blog.eenblam.net/posts/dissector/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 19:19:37](https://lobste.rs/s/2mfqyq/getting_started_cryo_em_2016) - [Getting Started in Cryo-EM (2016)](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
 * [2025-01-21, 19:14:25](https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation) - [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
@@ -24,7 +25,6 @@
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
-* [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/poisoning_ai_scraper_responses_with) - [Poisoning AI scraper responses with Versara](https://versara.ai/about)
 
 ## [Archives](archives/index.md)
 
