@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 17:40:40](https://lobste.rs/s/j40qvd/retrodotcards) - [RetroDotCards](https://www.retrodotcards.com/)
 * [2025-01-21, 17:02:27](https://lobste.rs/s/o6fn5n/storage_is_cheap_not_thinking_about) - [Storage is cheap, but not thinking about logging is expensive](https://www.counting-stuff.com/storage-is-cheap-storing-isnt-2/)
 * [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
@@ -13,7 +14,6 @@
 * [2025-01-21, 09:51:00](https://lobste.rs/s/vpytov/reminiscing_on_my_early_days_writing) - [Reminiscing on my early days writing software (2023)](https://rauljordan.com/my-most-embarrassing-story-as-a-beginner-software-engineer/)
 * [2025-01-21, 09:12:26](https://lobste.rs/s/kcg9hp/perl_weekly_issue_704_perl_podcast) - [Perl Weekly Issue #704 - Perl Podcast](https://perlweekly.com/archive/704.html)
 * [2025-01-21, 08:25:55](https://lobste.rs/s/whsfq8/refinement_types_for_input_validation) - [Refinement types for input validation](https://blog.snork.dev/posts/refinement-types-for-input-validation.html)
-* [2025-01-21, 07:34:43](https://lobste.rs/s/eu21x9/unsecured_tunneling_protocols_expose_4_2) - [Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers](https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html)
 * [2025-01-21, 01:54:36](https://lobste.rs/s/voff8b/twine_data) - [Twine Data](https://twine-data.dev/)
 * [2025-01-21, 01:09:47](https://lobste.rs/s/t5jvta/reverse_engineering_call_duty_anti_cheat) - [Reverse Engineering Call Of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 22:49:29](https://lobste.rs/s/mioxtn/vs_code_extension_let_llms_interactively) - [VS Code Extension to let LLMs interactively debug your code](https://github.com/jasonjmcghee/claude-debugs-for-you)
