@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 13:23:58](https://lobste.rs/s/7jpnyh/hunt_for_error_22) - [The hunt for error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 * [2025-01-21, 13:07:14](https://lobste.rs/s/j2pdzw/sql_transactions_go_good_way) - [SQL Transactions in Go: The Good Way](https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/)
 * [2025-01-21, 10:53:15](https://lobste.rs/s/55tzej/i_ll_think_twice_before_using_github) - [I'll think twice before using Github Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
 * [2025-01-21, 09:51:00](https://lobste.rs/s/vpytov/reminiscing_on_my_early_days_writing) - [Reminiscing on my early days writing software (2023)](https://rauljordan.com/my-most-embarrassing-story-as-a-beginner-software-engineer/)
@@ -23,7 +24,6 @@
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 10:51:19](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week)
 * [2025-01-20, 09:28:53](https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing) - [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
-* [2025-01-20, 03:07:23](https://lobste.rs/s/8yvoce/hash_design_goodhart_s_law) - [Hash Design and Goodhart's Law](https://blog.cessen.com/post/2024_07_10_hash_design_and_goodharts_law)
 * [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
 
 ## [Archives](archives/index.md)
