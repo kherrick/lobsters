@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 08:25:55](https://lobste.rs/s/whsfq8/refinement_types_for_input_validation) - [Refinement types for input validation](https://blog.snork.dev/posts/refinement-types-for-input-validation.html)
 * [2025-01-21, 07:34:43](https://lobste.rs/s/eu21x9/unsecured_tunneling_protocols_expose_4_2) - [Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers](https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html)
 * [2025-01-21, 02:04:11](https://lobste.rs/s/bjiwvv/re_animating_zombie_doom_with_time_travel) - [Re-animating a zombie in Doom (with time travel debugging)](https://youtu.be/tjJLZ1da6xs)
 * [2025-01-21, 01:54:36](https://lobste.rs/s/voff8b/twine_data) - [Twine Data](https://twine-data.dev/)
@@ -11,7 +12,6 @@
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
 * [2025-01-20, 18:33:58](https://lobste.rs/s/nowty1/generating_test_values_using_javascript) - [Generating Test Values using JavaScript Generators](https://github.com/peter-leonov/type-predicate-generator/issues/18)
 * [2025-01-20, 18:30:54](https://lobste.rs/s/dplbpw/async_pipeline_pattern_eager_work) - [Async Pipeline Pattern - Eager to work](https://github.com/alexpusch/rust-magic-patterns/blob/master/async-pipeline-pattern/Readme.md)
-* [2025-01-20, 16:49:38](https://lobste.rs/s/37ekbw/altair_upset_evolution_upset_plots) - [altair-upset: The Evolution of UpSet plots in Altair](https://edmundmiller.dev/posts/altair-upset/)
 * [2025-01-20, 16:25:50](https://lobste.rs/s/ro2twr/project_8086_part_ii_real_mode) - [Project 8086 Part II: Real Mode Productivity; or, 8,086 Reasons to Get a Newer Computer](https://512pixels.net/2025/01/project-8086-real-mode-productivity/)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
