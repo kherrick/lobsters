@@ -6,7 +6,6 @@
 * [2025-01-20, 22:49:29](https://lobste.rs/s/mioxtn/vs_code_extension_let_llms_interactively) - [VS Code Extension to let LLMs interactively debug your code](https://github.com/jasonjmcghee/claude-debugs-for-you)
 * [2025-01-20, 21:55:45](https://lobste.rs/s/kf7beb/inappbrowser_com_see_what_javascript) - [InAppBrowser.com: see what JavaScript commands get injected through an in-app browser (2022)](https://krausefx.com//blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser)
 * [2025-01-20, 21:27:04](https://lobste.rs/s/k6al6k/migrating_away_from_bcachefs) - [Migrating away from bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
-* [2025-01-20, 21:20:21](https://lobste.rs/s/mwlyzp/fnv_hash_map) - [FNV Hash Map](http://ducktape.blot.im/fnv-hash-map)
 * [2025-01-20, 19:34:24](https://lobste.rs/s/r00iiu/documentation_on_using_renovate_with) - [Documentation on using Renovate with haskell-actions](https://github.com/haskell-actions/setup/issues/111)
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
 * [2025-01-20, 18:33:58](https://lobste.rs/s/nowty1/generating_test_values_using_javascript) - [Generating Test Values using JavaScript Generators](https://github.com/peter-leonov/type-predicate-generator/issues/18)
@@ -25,6 +24,7 @@
 * [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
 * [2025-01-19, 17:03:47](https://lobste.rs/s/ktmhzr/dillo_release_3_2_0) - [Dillo release 3.2.0](https://dillo-browser.github.io/release/3.2.0/)
+* [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 
 ## [Archives](archives/index.md)
 
