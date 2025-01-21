@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 18:21:28](https://lobste.rs/s/z6fwdq/improved_light_attenuation) - [Improved light attenuation](https://imdoingitwrong.wordpress.com/2011/02/10/improved-light-attenuation/)
+* [2025-01-21, 18:14:56](https://lobste.rs/s/rvj92f/we_never_update_unless_forced_cargo) - [\"We never update unless forced to\" — cargo-semver-checks 2024 Year in Review](https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/)
+* [2025-01-21, 18:10:05](https://lobste.rs/s/kofy35/interesting_bicmos_circuits_pentium) - [Interesting BiCMOS circuits in the Pentium, reverse-engineered](http://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html)
 * [2025-01-21, 17:40:40](https://lobste.rs/s/j40qvd/retrodotcards) - [RetroDotCards](https://www.retrodotcards.com/)
 * [2025-01-21, 17:02:27](https://lobste.rs/s/o6fn5n/storage_is_cheap_not_thinking_about) - [Storage is cheap, but not thinking about logging is expensive](https://www.counting-stuff.com/storage-is-cheap-storing-isnt-2/)
 * [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
