@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-01-21, 21:25:41",
+      "https://lobste.rs/s/qzdhrt/prototyping_automatic_tattoo_gun"
+    ],
+    [
+      "Prototyping an Automatic Tattoo Gun",
+      "https://owentrueblood.com/blog/2025/01/20/prototyping-an-automatic-tattoo-gun/"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 20:27:49",
       "https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron"
     ],
@@ -227,16 +237,6 @@
     [
       "Encrypted NixOS home server with passwordless reboot",
       "https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 15:22:01",
-      "https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes"
-    ],
-    [
-      "When the Simplest Concurrent Program Goes Against All Intuition",
-      "https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/"
     ]
   ],
   [
