@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 09:51:00](https://lobste.rs/s/vpytov/reminiscing_on_my_early_days_writing) - [Reminiscing on my early days writing software (2023)](https://rauljordan.com/my-most-embarrassing-story-as-a-beginner-software-engineer/)
 * [2025-01-21, 09:12:26](https://lobste.rs/s/kcg9hp/perl_weekly_issue_704_perl_podcast) - [Perl Weekly Issue #704 - Perl Podcast](https://perlweekly.com/archive/704.html)
 * [2025-01-21, 08:25:55](https://lobste.rs/s/whsfq8/refinement_types_for_input_validation) - [Refinement types for input validation](https://blog.snork.dev/posts/refinement-types-for-input-validation.html)
 * [2025-01-21, 07:34:43](https://lobste.rs/s/eu21x9/unsecured_tunneling_protocols_expose_4_2) - [Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers](https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html)
@@ -24,7 +25,6 @@
 * [2025-01-20, 03:07:23](https://lobste.rs/s/8yvoce/hash_design_goodhart_s_law) - [Hash Design and Goodhart's Law](https://blog.cessen.com/post/2024_07_10_hash_design_and_goodharts_law)
 * [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
-* [2025-01-19, 17:03:47](https://lobste.rs/s/ktmhzr/dillo_release_3_2_0) - [Dillo release 3.2.0](https://dillo-browser.github.io/release/3.2.0/)
 
 ## [Archives](archives/index.md)
 
