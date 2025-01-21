@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 17:02:27](https://lobste.rs/s/o6fn5n/storage_is_cheap_not_thinking_about) - [Storage is cheap, but not thinking about logging is expensive](https://www.counting-stuff.com/storage-is-cheap-storing-isnt-2/)
 * [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 15:45:35](https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install) - [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 17:02:27](https://lobste.rs/s/o6fn5n/storage_is_cheap_not_thinking_about) - [Storage is cheap, but not thinking about logging is expensive](https://www.counting-stuff.com/storage-is-cheap-storing-isnt-2/)
 * [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 15:45:35](https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install) - [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
@@ -18,7 +19,6 @@
 * [2025-01-20, 22:49:29](https://lobste.rs/s/mioxtn/vs_code_extension_let_llms_interactively) - [VS Code Extension to let LLMs interactively debug your code](https://github.com/jasonjmcghee/claude-debugs-for-you)
 * [2025-01-20, 21:55:45](https://lobste.rs/s/kf7beb/inappbrowser_com_see_what_javascript) - [InAppBrowser.com: see what JavaScript commands get injected through an in-app browser (2022)](https://krausefx.com//blog/announcing-inappbrowsercom-see-what-javascript-commands-get-executed-in-an-in-app-browser)
 * [2025-01-20, 21:27:04](https://lobste.rs/s/k6al6k/migrating_away_from_bcachefs) - [Migrating away from bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
-* [2025-01-20, 19:34:24](https://lobste.rs/s/r00iiu/documentation_on_using_renovate_with) - [Documentation on using Renovate with haskell-actions](https://github.com/haskell-actions/setup/issues/111)
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
 * [2025-01-20, 18:30:54](https://lobste.rs/s/dplbpw/async_pipeline_pattern_eager_work) - [Async Pipeline Pattern - Eager to work](https://github.com/alexpusch/rust-magic-patterns/blob/master/async-pipeline-pattern/Readme.md)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
