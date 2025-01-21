@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 19:14:25](https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation) - [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
 * [2025-01-21, 18:37:58](https://lobste.rs/s/axggft/making_this_less_annoying) - [Making “this” less annoying](https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/)
 * [2025-01-21, 18:36:51](https://lobste.rs/s/ureock/programming_languages_after_llms) - [Programming languages after LLMs](https://thetechenabler.substack.com/p/the-future-of-programming-languages)
 * [2025-01-21, 18:21:28](https://lobste.rs/s/z6fwdq/improved_light_attenuation) - [Improved light attenuation](https://imdoingitwrong.wordpress.com/2011/02/10/improved-light-attenuation/)
 * [2025-01-21, 18:14:56](https://lobste.rs/s/rvj92f/we_never_update_unless_forced_cargo) - [\"We never update unless forced to\" — cargo-semver-checks 2024 Year in Review](https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/)
-* [2025-01-21, 18:10:05](https://lobste.rs/s/kofy35/interesting_bicmos_circuits_pentium) - [Interesting BiCMOS circuits in the Pentium, reverse-engineered](http://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html)
 * [2025-01-21, 17:40:40](https://lobste.rs/s/j40qvd/retrodotcards) - [RetroDotCards](https://www.retrodotcards.com/)
 * [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
