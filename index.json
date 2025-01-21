@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-21, 17:40:40",
+      "https://lobste.rs/s/j40qvd/retrodotcards"
+    ],
+    [
+      "RetroDotCards",
+      "https://www.retrodotcards.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 17:02:27",
       "https://lobste.rs/s/o6fn5n/storage_is_cheap_not_thinking_about"
     ],
@@ -127,16 +137,6 @@
     [
       "Refinement types for input validation",
       "https://blog.snork.dev/posts/refinement-types-for-input-validation.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 07:34:43",
-      "https://lobste.rs/s/eu21x9/unsecured_tunneling_protocols_expose_4_2"
-    ],
-    [
-      "Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers",
-      "https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html"
     ]
   ],
   [
