@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 13:37:42](https://lobste.rs/s/hbzctm/type_inference_rust_c) - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
 * [2025-01-21, 13:23:58](https://lobste.rs/s/7jpnyh/hunt_for_error_22) - [The hunt for error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 * [2025-01-21, 13:07:14](https://lobste.rs/s/j2pdzw/sql_transactions_go_good_way) - [SQL Transactions in Go: The Good Way](https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/)
 * [2025-01-21, 10:53:15](https://lobste.rs/s/55tzej/i_ll_think_twice_before_using_github) - [I'll think twice before using Github Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
@@ -17,7 +18,6 @@
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
 * [2025-01-20, 18:33:58](https://lobste.rs/s/nowty1/generating_test_values_using_javascript) - [Generating Test Values using JavaScript Generators](https://github.com/peter-leonov/type-predicate-generator/issues/18)
 * [2025-01-20, 18:30:54](https://lobste.rs/s/dplbpw/async_pipeline_pattern_eager_work) - [Async Pipeline Pattern - Eager to work](https://github.com/alexpusch/rust-magic-patterns/blob/master/async-pipeline-pattern/Readme.md)
-* [2025-01-20, 16:25:50](https://lobste.rs/s/ro2twr/project_8086_part_ii_real_mode) - [Project 8086 Part II: Real Mode Productivity; or, 8,086 Reasons to Get a Newer Computer](https://512pixels.net/2025/01/project-8086-real-mode-productivity/)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/poisoning_ai_scraper_responses_with) - [Poisoning AI scraper responses with Versara](https://versara.ai/about)
