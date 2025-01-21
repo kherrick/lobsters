@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-21, 18:21:28",
+      "https://lobste.rs/s/z6fwdq/improved_light_attenuation"
+    ],
+    [
+      "Improved light attenuation",
+      "https://imdoingitwrong.wordpress.com/2011/02/10/improved-light-attenuation/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 18:14:56",
+      "https://lobste.rs/s/rvj92f/we_never_update_unless_forced_cargo"
+    ],
+    [
+      "\"We never update unless forced to\" — cargo-semver-checks 2024 Year in Review",
+      "https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 18:10:05",
+      "https://lobste.rs/s/kofy35/interesting_bicmos_circuits_pentium"
+    ],
+    [
+      "Interesting BiCMOS circuits in the Pentium, reverse-engineered",
+      "http://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 17:40:40",
       "https://lobste.rs/s/j40qvd/retrodotcards"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-01-21, 09:12:26",
-      "https://lobste.rs/s/kcg9hp/perl_weekly_issue_704_perl_podcast"
-    ],
-    [
-      "Perl Weekly Issue #704 - Perl Podcast",
-      "https://perlweekly.com/archive/704.html"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 08:25:55",
       "https://lobste.rs/s/whsfq8/refinement_types_for_input_validation"
     ],
@@ -147,26 +167,6 @@
     [
       "Twine Data",
       "https://twine-data.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 01:09:47",
-      "https://lobste.rs/s/t5jvta/reverse_engineering_call_duty_anti_cheat"
-    ],
-    [
-      "Reverse Engineering Call Of Duty Anti-Cheat",
-      "https://ssno.cc/posts/reversing-tac-1-4-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 22:49:29",
-      "https://lobste.rs/s/mioxtn/vs_code_extension_let_llms_interactively"
-    ],
-    [
-      "VS Code Extension to let LLMs interactively debug your code",
-      "https://github.com/jasonjmcghee/claude-debugs-for-you"
     ]
   ],
   [
