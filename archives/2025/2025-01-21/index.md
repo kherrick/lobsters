@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 22:16:11](https://lobste.rs/s/7k6u7o/comparing_13_rust_crates_for_extracting) - [Comparing 13 Rust Crates for Extracting Text from HTML](https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/)
 * [2025-01-21, 22:00:26](https://lobste.rs/s/oi7nqv/hyperbole_haskell_interactive) - [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
 * [2025-01-21, 21:25:41](https://lobste.rs/s/qzdhrt/prototyping_automatic_tattoo_gun) - [Prototyping an Automatic Tattoo Gun](https://owentrueblood.com/blog/2025/01/20/prototyping-an-automatic-tattoo-gun/)
 * [2025-01-21, 21:24:20](https://lobste.rs/s/bhwgko/trace_rainbow_writing_wireshark) - [Trace the Rainbow: writing a Wireshark dissector](https://blog.eenblam.net/posts/dissector/)
