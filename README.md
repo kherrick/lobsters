@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 02:04:11](https://lobste.rs/s/bjiwvv/re_animating_zombie_doom_with_time_travel) - [Re-animating a zombie in Doom (with time travel debugging)](https://youtu.be/tjJLZ1da6xs)
 * [2025-01-21, 01:54:36](https://lobste.rs/s/voff8b/twine_data) - [Twine Data](https://twine-data.dev/)
 * [2025-01-21, 01:09:47](https://lobste.rs/s/t5jvta/reverse_engineering_call_duty_anti_cheat) - [Reverse Engineering Call Of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 22:49:29](https://lobste.rs/s/mioxtn/vs_code_extension_let_llms_interactively) - [VS Code Extension to let LLMs interactively debug your code](https://github.com/jasonjmcghee/claude-debugs-for-you)
@@ -24,7 +25,6 @@
 * [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
 * [2025-01-19, 17:03:47](https://lobste.rs/s/ktmhzr/dillo_release_3_2_0) - [Dillo release 3.2.0](https://dillo-browser.github.io/release/3.2.0/)
-* [2025-01-19, 13:06:15](https://lobste.rs/s/jsryu2/moving_on_from_react_year_later) - [Moving on from React, a Year Later](https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html)
 
 ## [Archives](archives/index.md)
 
