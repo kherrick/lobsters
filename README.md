@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 09:12:26](https://lobste.rs/s/kcg9hp/perl_weekly_issue_704_perl_podcast) - [Perl Weekly Issue #704 - Perl Podcast](https://perlweekly.com/archive/704.html)
 * [2025-01-21, 08:25:55](https://lobste.rs/s/whsfq8/refinement_types_for_input_validation) - [Refinement types for input validation](https://blog.snork.dev/posts/refinement-types-for-input-validation.html)
 * [2025-01-21, 07:34:43](https://lobste.rs/s/eu21x9/unsecured_tunneling_protocols_expose_4_2) - [Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers](https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html)
 * [2025-01-21, 02:04:11](https://lobste.rs/s/bjiwvv/re_animating_zombie_doom_with_time_travel) - [Re-animating a zombie in Doom (with time travel debugging)](https://youtu.be/tjJLZ1da6xs)
@@ -21,7 +22,6 @@
 * [2025-01-20, 10:33:23](https://lobste.rs/s/ll1lpw/wasmbots_wasm_powered_programming_game) - [WasmBots: A Wasm-powered programming game](https://shaneliesegang.com/projects/wasmbots/)
 * [2025-01-20, 09:28:53](https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing) - [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-20, 03:07:23](https://lobste.rs/s/8yvoce/hash_design_goodhart_s_law) - [Hash Design and Goodhart's Law](https://blog.cessen.com/post/2024_07_10_hash_design_and_goodharts_law)
-* [2025-01-20, 00:06:44](https://lobste.rs/s/smiivo/automatic_server_reloading_rust_on) - [Automatic Server Reloading in Rust on Change](https://lucumr.pocoo.org/2025/1/19/what-is-systemfd)
 * [2025-01-19, 18:33:05](https://lobste.rs/s/folgae/rust_coreutils_0_0_29_release) - [Rust Coreutils 0.0.29 release](https://github.com/uutils/coreutils/releases/tag/0.0.29)
 * [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
 * [2025-01-19, 17:03:47](https://lobste.rs/s/ktmhzr/dillo_release_3_2_0) - [Dillo release 3.2.0](https://dillo-browser.github.io/release/3.2.0/)
