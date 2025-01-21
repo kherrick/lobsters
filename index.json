@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-21, 19:26:27",
+      "https://lobste.rs/s/5vwr9g/vision_new_world_design_issues"
+    ],
+    [
+      "Vision of a new World - Design Issues",
+      "https://www.w3.org/DesignIssues/Vision.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 19:19:37",
+      "https://lobste.rs/s/2mfqyq/getting_started_cryo_em_2016"
+    ],
+    [
+      "Getting Started in Cryo-EM (2016)",
+      "https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 19:14:25",
       "https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation"
     ],
@@ -27,16 +47,6 @@
     [
       "Programming languages after LLMs",
       "https://thetechenabler.substack.com/p/the-future-of-programming-languages"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 18:21:28",
-      "https://lobste.rs/s/z6fwdq/improved_light_attenuation"
-    ],
-    [
-      "Improved light attenuation",
-      "https://imdoingitwrong.wordpress.com/2011/02/10/improved-light-attenuation/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Encrypted NixOS home server with passwordless reboot",
       "https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 18:30:54",
-      "https://lobste.rs/s/dplbpw/async_pipeline_pattern_eager_work"
-    ],
-    [
-      "Async Pipeline Pattern - Eager to work",
-      "https://github.com/alexpusch/rust-magic-patterns/blob/master/async-pipeline-pattern/Readme.md"
     ]
   ],
   [
