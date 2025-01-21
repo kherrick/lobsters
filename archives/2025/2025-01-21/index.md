@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 22:00:26](https://lobste.rs/s/oi7nqv/hyperbole_haskell_interactive) - [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
 * [2025-01-21, 21:25:41](https://lobste.rs/s/qzdhrt/prototyping_automatic_tattoo_gun) - [Prototyping an Automatic Tattoo Gun](https://owentrueblood.com/blog/2025/01/20/prototyping-an-automatic-tattoo-gun/)
 * [2025-01-21, 21:24:20](https://lobste.rs/s/bhwgko/trace_rainbow_writing_wireshark) - [Trace the Rainbow: writing a Wireshark dissector](https://blog.eenblam.net/posts/dissector/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
