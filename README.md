@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
 * [2025-01-21, 13:37:42](https://lobste.rs/s/hbzctm/type_inference_rust_c) - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
 * [2025-01-21, 13:23:58](https://lobste.rs/s/7jpnyh/hunt_for_error_22) - [The hunt for error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 * [2025-01-21, 13:07:14](https://lobste.rs/s/j2pdzw/sql_transactions_go_good_way) - [SQL Transactions in Go: The Good Way](https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/)
@@ -22,7 +23,6 @@
 * [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/poisoning_ai_scraper_responses_with) - [Poisoning AI scraper responses with Versara](https://versara.ai/about)
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
-* [2025-01-20, 10:51:19](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/d7sczv/what_are_you_doing_this_week)
 * [2025-01-20, 09:28:53](https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing) - [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 * [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
 

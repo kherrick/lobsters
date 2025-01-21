@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
 * [2025-01-21, 13:37:42](https://lobste.rs/s/hbzctm/type_inference_rust_c) - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
 * [2025-01-21, 13:23:58](https://lobste.rs/s/7jpnyh/hunt_for_error_22) - [The hunt for error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 * [2025-01-21, 13:07:14](https://lobste.rs/s/j2pdzw/sql_transactions_go_good_way) - [SQL Transactions in Go: The Good Way](https://blog.thibaut-rousseau.com/blog/sql-transactions-in-go-the-good-way/)
