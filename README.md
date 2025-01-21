@@ -3,6 +3,7 @@
 * [2025-01-21, 22:34:51](https://lobste.rs/s/ugnmyn/platform_moulds_your_needs) - [A platform that moulds to your needs](https://xenodium.com/a-platform-that-moulds-to-your-needs)
 * [2025-01-21, 22:16:11](https://lobste.rs/s/7k6u7o/comparing_13_rust_crates_for_extracting) - [Comparing 13 Rust Crates for Extracting Text from HTML](https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/)
 * [2025-01-21, 22:00:26](https://lobste.rs/s/oi7nqv/hyperbole_haskell_interactive) - [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
+* [2025-01-21, 21:25:41](https://lobste.rs/s/qzdhrt/prototyping_automatic_tattoo_gun) - [Prototyping an Automatic Tattoo Gun](https://owentrueblood.com/blog/2025/01/20/prototyping-an-automatic-tattoo-gun/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 19:14:25](https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation) - [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
 * [2025-01-21, 18:37:58](https://lobste.rs/s/axggft/making_this_less_annoying) - [Making “this” less annoying](https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/)
@@ -23,7 +24,6 @@
 * [2025-01-21, 01:54:36](https://lobste.rs/s/voff8b/twine_data) - [Twine Data](https://twine-data.dev/)
 * [2025-01-20, 21:27:04](https://lobste.rs/s/k6al6k/migrating_away_from_bcachefs) - [Migrating away from bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
-* [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
 
 ## [Archives](archives/index.md)
