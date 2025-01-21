@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-21, 09:51:00",
+      "https://lobste.rs/s/vpytov/reminiscing_on_my_early_days_writing"
+    ],
+    [
+      "Reminiscing on my early days writing software (2023)",
+      "https://rauljordan.com/my-most-embarrassing-story-as-a-beginner-software-engineer/"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 09:12:26",
       "https://lobste.rs/s/kcg9hp/perl_weekly_issue_704_perl_podcast"
     ],
@@ -237,16 +247,6 @@
     [
       "Block AI scrapers with Anubis",
       "https://xeiaso.net/blog/2025/anubis/"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 17:03:47",
-      "https://lobste.rs/s/ktmhzr/dillo_release_3_2_0"
-    ],
-    [
-      "Dillo release 3.2.0",
-      "https://dillo-browser.github.io/release/3.2.0/"
     ]
   ]
 ]
