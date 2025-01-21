@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 15:45:35](https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install) - [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:24:28](https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal) - [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
 * [2025-01-21, 13:37:42](https://lobste.rs/s/hbzctm/type_inference_rust_c) - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)

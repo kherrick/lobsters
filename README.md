@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 15:45:35](https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install) - [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:24:28](https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal) - [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
 * [2025-01-21, 13:37:42](https://lobste.rs/s/hbzctm/type_inference_rust_c) - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
@@ -24,7 +25,6 @@
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/poisoning_ai_scraper_responses_with) - [Poisoning AI scraper responses with Versara](https://versara.ai/about)
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
 * [2025-01-20, 09:28:53](https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing) - [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
-* [2025-01-19, 17:39:36](https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis) - [Block AI scrapers with Anubis](https://xeiaso.net/blog/2025/anubis/)
 
 ## [Archives](archives/index.md)
 
