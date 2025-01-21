@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-21, 15:45:35",
+      "https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install"
+    ],
+    [
+      "How many Alpine packages can you install at once?",
+      "https://www.naff.dev/blog/all-the-packages"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 15:24:28",
       "https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal"
     ],
@@ -237,16 +247,6 @@
     [
       "The PC is Dead: It’s Time to Make Computing Personal Again",
       "https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again"
-    ]
-  ],
-  [
-    [
-      "2025-01-19, 17:39:36",
-      "https://lobste.rs/s/s9yq5a/block_ai_scrapers_with_anubis"
-    ],
-    [
-      "Block AI scrapers with Anubis",
-      "https://xeiaso.net/blog/2025/anubis/"
     ]
   ]
 ]
