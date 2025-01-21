@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-21, 09:12:26",
+      "https://lobste.rs/s/kcg9hp/perl_weekly_issue_704_perl_podcast"
+    ],
+    [
+      "Perl Weekly Issue #704 - Perl Podcast",
+      "https://perlweekly.com/archive/704.html"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 08:25:55",
       "https://lobste.rs/s/whsfq8/refinement_types_for_input_validation"
     ],
@@ -207,16 +217,6 @@
     [
       "Hash Design and Goodhart's Law",
       "https://blog.cessen.com/post/2024_07_10_hash_design_and_goodharts_law"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 00:06:44",
-      "https://lobste.rs/s/smiivo/automatic_server_reloading_rust_on"
-    ],
-    [
-      "Automatic Server Reloading in Rust on Change",
-      "https://lucumr.pocoo.org/2025/1/19/what-is-systemfd"
     ]
   ],
   [
