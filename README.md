@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 15:24:28](https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal) - [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
 * [2025-01-21, 13:37:42](https://lobste.rs/s/hbzctm/type_inference_rust_c) - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
 * [2025-01-21, 13:23:58](https://lobste.rs/s/7jpnyh/hunt_for_error_22) - [The hunt for error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
@@ -9,7 +10,6 @@
 * [2025-01-21, 09:12:26](https://lobste.rs/s/kcg9hp/perl_weekly_issue_704_perl_podcast) - [Perl Weekly Issue #704 - Perl Podcast](https://perlweekly.com/archive/704.html)
 * [2025-01-21, 08:25:55](https://lobste.rs/s/whsfq8/refinement_types_for_input_validation) - [Refinement types for input validation](https://blog.snork.dev/posts/refinement-types-for-input-validation.html)
 * [2025-01-21, 07:34:43](https://lobste.rs/s/eu21x9/unsecured_tunneling_protocols_expose_4_2) - [Unsecured Tunneling Protocols Expose 4.2 Million Hosts, Including VPNs and Routers](https://thehackernews.com/2025/01/unsecured-tunneling-protocols-expose-42.html)
-* [2025-01-21, 02:04:11](https://lobste.rs/s/bjiwvv/re_animating_zombie_doom_with_time_travel) - [Re-animating a zombie in Doom (with time travel debugging)](https://youtu.be/tjJLZ1da6xs)
 * [2025-01-21, 01:54:36](https://lobste.rs/s/voff8b/twine_data) - [Twine Data](https://twine-data.dev/)
 * [2025-01-21, 01:09:47](https://lobste.rs/s/t5jvta/reverse_engineering_call_duty_anti_cheat) - [Reverse Engineering Call Of Duty Anti-Cheat](https://ssno.cc/posts/reversing-tac-1-4-2025/)
 * [2025-01-20, 22:49:29](https://lobste.rs/s/mioxtn/vs_code_extension_let_llms_interactively) - [VS Code Extension to let LLMs interactively debug your code](https://github.com/jasonjmcghee/claude-debugs-for-you)
