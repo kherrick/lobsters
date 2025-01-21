@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 18:37:58](https://lobste.rs/s/axggft/making_this_less_annoying) - [Making “this” less annoying](https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/)
+* [2025-01-21, 18:36:51](https://lobste.rs/s/ureock/programming_languages_after_llms) - [Programming languages after LLMs](https://thetechenabler.substack.com/p/the-future-of-programming-languages)
 * [2025-01-21, 18:21:28](https://lobste.rs/s/z6fwdq/improved_light_attenuation) - [Improved light attenuation](https://imdoingitwrong.wordpress.com/2011/02/10/improved-light-attenuation/)
 * [2025-01-21, 18:14:56](https://lobste.rs/s/rvj92f/we_never_update_unless_forced_cargo) - [\"We never update unless forced to\" — cargo-semver-checks 2024 Year in Review](https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/)
 * [2025-01-21, 18:10:05](https://lobste.rs/s/kofy35/interesting_bicmos_circuits_pentium) - [Interesting BiCMOS circuits in the Pentium, reverse-engineered](http://www.righto.com/2025/01/pentium-reverse-engineering-bicmos.html)
