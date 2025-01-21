@@ -61,16 +61,6 @@
   ],
   [
     [
-      "2025-01-20, 21:20:21",
-      "https://lobste.rs/s/mwlyzp/fnv_hash_map"
-    ],
-    [
-      "FNV Hash Map",
-      "http://ducktape.blot.im/fnv-hash-map"
-    ]
-  ],
-  [
-    [
       "2025-01-20, 19:34:24",
       "https://lobste.rs/s/r00iiu/documentation_on_using_renovate_with"
     ],
@@ -247,6 +237,16 @@
     [
       "Dillo release 3.2.0",
       "https://dillo-browser.github.io/release/3.2.0/"
+    ]
+  ],
+  [
+    [
+      "2025-01-19, 13:06:15",
+      "https://lobste.rs/s/jsryu2/moving_on_from_react_year_later"
+    ],
+    [
+      "Moving on from React, a Year Later",
+      "https://kellysutton.com/2025/01/18/moving-on-from-react-a-year-later.html"
     ]
   ]
 ]
