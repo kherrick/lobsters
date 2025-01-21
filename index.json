@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-21, 17:02:27",
+      "https://lobste.rs/s/o6fn5n/storage_is_cheap_not_thinking_about"
+    ],
+    [
+      "Storage is cheap, but not thinking about logging is expensive",
+      "https://www.counting-stuff.com/storage-is-cheap-storing-isnt-2/"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 16:23:12",
       "https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch"
     ],
@@ -177,16 +187,6 @@
     [
       "Migrating away from bcachefs",
       "https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 19:34:24",
-      "https://lobste.rs/s/r00iiu/documentation_on_using_renovate_with"
-    ],
-    [
-      "Documentation on using Renovate with haskell-actions",
-      "https://github.com/haskell-actions/setup/issues/111"
     ]
   ],
   [
