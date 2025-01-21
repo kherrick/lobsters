@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 22:34:51](https://lobste.rs/s/ugnmyn/platform_moulds_your_needs) - [A platform that moulds to your needs](https://xenodium.com/a-platform-that-moulds-to-your-needs)
 * [2025-01-21, 22:16:11](https://lobste.rs/s/7k6u7o/comparing_13_rust_crates_for_extracting) - [Comparing 13 Rust Crates for Extracting Text from HTML](https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/)
 * [2025-01-21, 22:00:26](https://lobste.rs/s/oi7nqv/hyperbole_haskell_interactive) - [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
-* [2025-01-21, 19:19:37](https://lobste.rs/s/2mfqyq/getting_started_cryo_em_2016) - [Getting Started in Cryo-EM (2016)](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
 * [2025-01-21, 19:14:25](https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation) - [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
 * [2025-01-21, 18:37:58](https://lobste.rs/s/axggft/making_this_less_annoying) - [Making “this” less annoying](https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/)
 * [2025-01-21, 18:36:51](https://lobste.rs/s/ureock/programming_languages_after_llms) - [Programming languages after LLMs](https://thetechenabler.substack.com/p/the-future-of-programming-languages)
