@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
+* [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 15:45:35](https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install) - [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:24:28](https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal) - [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
@@ -18,13 +20,11 @@
 * [2025-01-20, 21:27:04](https://lobste.rs/s/k6al6k/migrating_away_from_bcachefs) - [Migrating away from bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
 * [2025-01-20, 19:34:24](https://lobste.rs/s/r00iiu/documentation_on_using_renovate_with) - [Documentation on using Renovate with haskell-actions](https://github.com/haskell-actions/setup/issues/111)
 * [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
-* [2025-01-20, 18:33:58](https://lobste.rs/s/nowty1/generating_test_values_using_javascript) - [Generating Test Values using JavaScript Generators](https://github.com/peter-leonov/type-predicate-generator/issues/18)
 * [2025-01-20, 18:30:54](https://lobste.rs/s/dplbpw/async_pipeline_pattern_eager_work) - [Async Pipeline Pattern - Eager to work](https://github.com/alexpusch/rust-magic-patterns/blob/master/async-pipeline-pattern/Readme.md)
 * [2025-01-20, 15:22:01](https://lobste.rs/s/jgr3b4/when_simplest_concurrent_program_goes) - [When the Simplest Concurrent Program Goes Against All Intuition](https://wyounas.github.io/concurrency/2025/01/13/when-a-simple-concurrent-program-goes-against-all-intuition/)
 * [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
 * [2025-01-20, 11:37:32](https://lobste.rs/s/jzl5gn/poisoning_ai_scraper_responses_with) - [Poisoning AI scraper responses with Versara](https://versara.ai/about)
 * [2025-01-20, 11:30:32](https://lobste.rs/s/gxesu1/using_esims_with_devices_only_have) - [Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux](https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/)
-* [2025-01-20, 09:28:53](https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing) - [The PC is Dead: It’s Time to Make Computing Personal Again](https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again)
 
 ## [Archives](archives/index.md)
 

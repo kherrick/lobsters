@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
+* [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 15:45:35](https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install) - [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:24:28](https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal) - [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
