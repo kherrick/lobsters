@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-21, 16:23:12",
+      "https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch"
+    ],
+    [
+      "Building a tiny Linux from scratch",
+      "https://blinry.org/tiny-linux/"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 16:05:52",
+      "https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack"
+    ],
+    [
+      "Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms",
+      "https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 15:45:35",
       "https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-01-20, 18:33:58",
-      "https://lobste.rs/s/nowty1/generating_test_values_using_javascript"
-    ],
-    [
-      "Generating Test Values using JavaScript Generators",
-      "https://github.com/peter-leonov/type-predicate-generator/issues/18"
-    ]
-  ],
-  [
-    [
       "2025-01-20, 18:30:54",
       "https://lobste.rs/s/dplbpw/async_pipeline_pattern_eager_work"
     ],
@@ -237,16 +247,6 @@
     [
       "Using eSIMs with devices that only have a physical SIM slot via a 9eSIM SIM card with Android and Linux",
       "https://neilzone.co.uk/2025/01/using-esims-with-devices-that-only-have-a-physical-sim-slot-via-a-9esim-sim-card-with-android-and-linux/"
-    ]
-  ],
-  [
-    [
-      "2025-01-20, 09:28:53",
-      "https://lobste.rs/s/otzqpl/pc_is_dead_it_s_time_make_computing"
-    ],
-    [
-      "The PC is Dead: It’s Time to Make Computing Personal Again",
-      "https://www.vintagecomputing.com/index.php/archives/3292/the-pc-is-dead-its-time-to-make-computing-personal-again"
     ]
   ]
 ]
