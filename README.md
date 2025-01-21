@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-21, 21:25:41](https://lobste.rs/s/qzdhrt/prototyping_automatic_tattoo_gun) - [Prototyping an Automatic Tattoo Gun](https://owentrueblood.com/blog/2025/01/20/prototyping-an-automatic-tattoo-gun/)
 * [2025-01-21, 21:24:20](https://lobste.rs/s/bhwgko/trace_rainbow_writing_wireshark) - [Trace the Rainbow: writing a Wireshark dissector](https://blog.eenblam.net/posts/dissector/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 19:19:37](https://lobste.rs/s/2mfqyq/getting_started_cryo_em_2016) - [Getting Started in Cryo-EM (2016)](https://www.youtube.com/playlist?list=PL8_xPU5epJdctoHdQjpfHmd_z9WvGxK8-)
@@ -8,7 +9,6 @@
 * [2025-01-21, 18:36:51](https://lobste.rs/s/ureock/programming_languages_after_llms) - [Programming languages after LLMs](https://thetechenabler.substack.com/p/the-future-of-programming-languages)
 * [2025-01-21, 18:14:56](https://lobste.rs/s/rvj92f/we_never_update_unless_forced_cargo) - [\"We never update unless forced to\" — cargo-semver-checks 2024 Year in Review](https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/)
 * [2025-01-21, 17:40:40](https://lobste.rs/s/j40qvd/retrodotcards) - [RetroDotCards](https://www.retrodotcards.com/)
-* [2025-01-21, 17:02:27](https://lobste.rs/s/o6fn5n/storage_is_cheap_not_thinking_about) - [Storage is cheap, but not thinking about logging is expensive](https://www.counting-stuff.com/storage-is-cheap-storing-isnt-2/)
 * [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 15:45:35](https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install) - [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
