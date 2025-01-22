@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-22, 21:51:26",
+      "https://lobste.rs/s/hahfrg/modern_ios_theming_with"
+    ],
+    [
+      "Modern iOS Theming with UITraitCollection",
+      "https://dlo.me/archives/2025/01/20/theming-ios-apps-uitraitcollection/"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 20:36:52",
       "https://lobste.rs/s/rziph3/using_most_unhinged_avx_512_instruction"
     ],
@@ -177,16 +187,6 @@
     [
       "Things people get wrong about Electron",
       "https://felixrieseberg.com/things-people-get-wrong-about-electron/"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 19:14:25",
-      "https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation"
-    ],
-    [
-      "ACTORS: A Model of Concurrent Computation in Distributed Systems (1985)",
-      "https://dspace.mit.edu/handle/1721.1/6952"
     ]
   ],
   [
