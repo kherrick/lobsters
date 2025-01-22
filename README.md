@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-22, 20:36:52](https://lobste.rs/s/rziph3/using_most_unhinged_avx_512_instruction) - [Using the most unhinged AVX-512 instruction to make the fastest phrase search algorithm](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
 * [2025-01-22, 20:34:16](https://lobste.rs/s/2sbgxk/juggler_s_curse) - [The Juggler's Curse](https://buttondown.com/hillelwayne/archive/the-jugglers-curse/)
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
@@ -8,7 +9,6 @@
 * [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 * [2025-01-22, 16:28:24](https://lobste.rs/s/ojkd8z/stratoshark_wireshark_for_cloud) - [Stratoshark: Wireshark for the Cloud](https://stratoshark.org/)
 * [2025-01-22, 15:44:53](https://lobste.rs/s/eypswv/debugging_vision_transformer) - [Debugging a Vision Transformer Compilation Issue](https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/)
-* [2025-01-22, 14:21:06](https://lobste.rs/s/cvbqbh/embedding_python_rust_for_tests) - [Embedding Python in Rust (for tests)](https://www.enterprisedb.com/blog/embedding-python-rust-tests)
 * [2025-01-22, 11:14:18](https://lobste.rs/s/mnk2mq/nautilus_python) - [nautilus-python](https://gitlab.gnome.org/GNOME/nautilus-python)
 * [2025-01-22, 08:54:30](https://lobste.rs/s/mgjals/are_llms_making_stackoverflow) - [Are LLMs making StackOverflow irrelevant?](https://blog.pragmaticengineer.com/are-llms-making-stackoverflow-irrelevant/)
 * [2025-01-22, 06:52:13](https://lobste.rs/s/wfexzi/examples_quick_hash_tables_dynamic) - [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)
