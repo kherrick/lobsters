@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-22, 02:33:25](https://lobste.rs/s/64oozp/conduwuit_very_cool_featureful_fork) - [conduwuit: a very cool, featureful fork of conduit](https://github.com/girlbossceo/conduwuit)
+* [2025-01-22, 01:33:25](https://lobste.rs/s/lhondt/elementary_water_rendering) - [Elementary Water Rendering](https://jysandy.github.io/posts/gradient-water-rendering/)
 * [2025-01-22, 01:21:36](https://lobste.rs/s/zltcd9/essence_successful_abstractions) - [The Essence of Successful Abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 * [2025-01-22, 01:08:40](https://lobste.rs/s/3pfvri/i_gave_ai_agent_edit_access_my_website) - [I gave an AI agent edit access to my website](https://dri.es/i-gave-an-ai-agent-edit-access-to-my-website)
 * [2025-01-21, 23:39:36](https://lobste.rs/s/onv4tb/evo_version_control_works_way_you_think) - [evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
@@ -23,7 +24,6 @@
 * [2025-01-21, 10:53:15](https://lobste.rs/s/55tzej/i_ll_think_twice_before_using_github) - [I'll think twice before using Github Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
 * [2025-01-21, 01:54:36](https://lobste.rs/s/voff8b/twine_data) - [Twine Data](https://twine-data.dev/)
 * [2025-01-20, 21:27:04](https://lobste.rs/s/k6al6k/migrating_away_from_bcachefs) - [Migrating away from bcachefs](https://blog.sesse.net/blog/tech/2025-01-20-21-45_migrating_away_from_bcachefs.html)
-* [2025-01-20, 18:34:45](https://lobste.rs/s/hktw8t/encrypted_nixos_home_server_with) - [Encrypted NixOS home server with passwordless reboot](https://log.pfad.fr/2025/fde-nixos-colmena-passwordless-reboot/)
 * [2025-01-20, 13:58:56](https://lobste.rs/s/dv9tt0/openai_quietly_funded_independent_math) - [OpenAI quietly funded independent math benchmark before setting record with o3](https://the-decoder.com/openai-quietly-funded-independent-math-benchmark-before-setting-record-with-o3/)
 
 ## [Archives](archives/index.md)
