@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-22, 14:28:14](https://lobste.rs/s/2otcim/lean_app_monitoring_starter_pack) - [Lean app monitoring—The Starter Pack](https://ivelum.com/blog/lean-monitoring/)
+* [2025-01-22, 14:21:06](https://lobste.rs/s/cvbqbh/embedding_python_rust_for_tests) - [Embedding Python in Rust (for tests)](https://www.enterprisedb.com/blog/embedding-python-rust-tests)
 * [2025-01-22, 13:01:33](https://lobste.rs/s/x3cebe/component_variants_rails_with_class) - [Component variants in Rails with the class_variants gem](https://avohq.io/blog/component-variants-with-the-class-variants-gem)
-* [2025-01-22, 11:14:18](https://lobste.rs/s/mnk2mq/nautilus_python) - [nautilus-python](https://gitlab.gnome.org/GNOME/nautilus-python)
-* [2025-01-22, 10:54:11](https://lobste.rs/s/uy6e4k/bitcask_log_structured_hash_table_for) - [Bitcask: A Log-Structured Hash Table for Fast Key/Value Data (2010)](https://riak.com/assets/bitcask-intro.pdf)
 * [2025-01-22, 08:54:30](https://lobste.rs/s/mgjals/are_llms_making_stackoverflow) - [Are LLMs making StackOverflow irrelevant?](https://blog.pragmaticengineer.com/are-llms-making-stackoverflow-irrelevant/)
 * [2025-01-22, 06:52:13](https://lobste.rs/s/wfexzi/examples_quick_hash_tables_dynamic) - [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)
 * [2025-01-22, 02:33:25](https://lobste.rs/s/64oozp/conduwuit_very_cool_featureful_fork) - [conduwuit: a very cool, featureful fork of conduit](https://github.com/girlbossceo/conduwuit)
