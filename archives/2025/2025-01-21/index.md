@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-21](index.md)
 
+* [2025-01-21, 23:39:36](https://lobste.rs/s/onv4tb/evo_version_control_works_way_you_think) - [evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
 * [2025-01-21, 22:34:51](https://lobste.rs/s/ugnmyn/platform_moulds_your_needs) - [A platform that moulds to your needs](https://xenodium.com/a-platform-that-moulds-to-your-needs)
 * [2025-01-21, 22:16:11](https://lobste.rs/s/7k6u7o/comparing_13_rust_crates_for_extracting) - [Comparing 13 Rust Crates for Extracting Text from HTML](https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/)
 * [2025-01-21, 22:00:26](https://lobste.rs/s/oi7nqv/hyperbole_haskell_interactive) - [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
