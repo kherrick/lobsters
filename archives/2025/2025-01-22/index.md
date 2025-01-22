@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 15:44:53](https://lobste.rs/s/eypswv/debugging_vision_transformer) - [Debugging a Vision Transformer Compilation Issue](https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/)
 * [2025-01-22, 14:28:14](https://lobste.rs/s/2otcim/lean_app_monitoring_starter_pack) - [Lean app monitoring—The Starter Pack](https://ivelum.com/blog/lean-monitoring/)
 * [2025-01-22, 14:21:06](https://lobste.rs/s/cvbqbh/embedding_python_rust_for_tests) - [Embedding Python in Rust (for tests)](https://www.enterprisedb.com/blog/embedding-python-rust-tests)
 * [2025-01-22, 13:01:33](https://lobste.rs/s/x3cebe/component_variants_rails_with_class) - [Component variants in Rails with the class_variants gem](https://avohq.io/blog/component-variants-with-the-class-variants-gem)
