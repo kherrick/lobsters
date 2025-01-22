@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-22, 13:01:33](https://lobste.rs/s/x3cebe/component_variants_rails_with_class) - [Component variants in Rails with the class_variants gem](https://avohq.io/blog/component-variants-with-the-class-variants-gem)
 * [2025-01-22, 11:14:18](https://lobste.rs/s/mnk2mq/nautilus_python) - [nautilus-python](https://gitlab.gnome.org/GNOME/nautilus-python)
 * [2025-01-22, 10:54:11](https://lobste.rs/s/uy6e4k/bitcask_log_structured_hash_table_for) - [Bitcask: A Log-Structured Hash Table for Fast Key/Value Data (2010)](https://riak.com/assets/bitcask-intro.pdf)
 * [2025-01-22, 08:54:30](https://lobste.rs/s/mgjals/are_llms_making_stackoverflow) - [Are LLMs making StackOverflow irrelevant?](https://blog.pragmaticengineer.com/are-llms-making-stackoverflow-irrelevant/)
@@ -9,7 +10,6 @@
 * [2025-01-22, 01:21:36](https://lobste.rs/s/zltcd9/essence_successful_abstractions) - [The Essence of Successful Abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 * [2025-01-21, 23:39:36](https://lobste.rs/s/onv4tb/evo_version_control_works_way_you_think) - [evo: Version control that works the way you think](https://github.com/crazywolf132/evo)
 * [2025-01-21, 22:34:51](https://lobste.rs/s/ugnmyn/platform_moulds_your_needs) - [A platform that moulds to your needs](https://xenodium.com/a-platform-that-moulds-to-your-needs)
-* [2025-01-21, 22:16:11](https://lobste.rs/s/7k6u7o/comparing_13_rust_crates_for_extracting) - [Comparing 13 Rust Crates for Extracting Text from HTML](https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/)
 * [2025-01-21, 22:00:26](https://lobste.rs/s/oi7nqv/hyperbole_haskell_interactive) - [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 19:14:25](https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation) - [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
