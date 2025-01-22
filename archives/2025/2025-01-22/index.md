@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 11:14:18](https://lobste.rs/s/mnk2mq/nautilus_python) - [nautilus-python](https://gitlab.gnome.org/GNOME/nautilus-python)
 * [2025-01-22, 10:54:11](https://lobste.rs/s/uy6e4k/bitcask_log_structured_hash_table_for) - [Bitcask: A Log-Structured Hash Table for Fast Key/Value Data (2010)](https://riak.com/assets/bitcask-intro.pdf)
 * [2025-01-22, 08:54:30](https://lobste.rs/s/mgjals/are_llms_making_stackoverflow) - [Are LLMs making StackOverflow irrelevant?](https://blog.pragmaticengineer.com/are-llms-making-stackoverflow-irrelevant/)
 * [2025-01-22, 06:52:13](https://lobste.rs/s/wfexzi/examples_quick_hash_tables_dynamic) - [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)
