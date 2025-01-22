@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-22, 23:31:37](https://lobste.rs/s/lxljyj/why_don_t_constructors_have_override) - [Why don't constructors have override checking?](https://blog.jez.io/constructor-override-checking/)
 * [2025-01-22, 22:08:05](https://lobste.rs/s/j1zf5e/mastercard_dns_error_went_unnoticed_for) - [MasterCard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
-* [2025-01-22, 21:51:26](https://lobste.rs/s/hahfrg/modern_ios_theming_with) - [Modern iOS Theming with UITraitCollection](https://dlo.me/archives/2025/01/20/theming-ios-apps-uitraitcollection/)
 * [2025-01-22, 20:36:52](https://lobste.rs/s/rziph3/using_most_unhinged_avx_512_instruction) - [Using the most unhinged AVX-512 instruction to make the fastest phrase search algorithm](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
 * [2025-01-22, 20:34:16](https://lobste.rs/s/2sbgxk/juggler_s_curse) - [The Juggler's Curse](https://buttondown.com/hillelwayne/archive/the-jugglers-curse/)
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
