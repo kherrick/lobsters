@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:48:58](https://lobste.rs/s/mwodzb/guile_hoot_0_6_0_released) - [Guile Hoot 0.6.0 released](https://spritely.institute/news/guile-hoot-0-6-0-released.html)
 * [2025-01-22, 18:07:08](https://lobste.rs/s/x0kkj8/guided_by_beauty_our_test_suite) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
