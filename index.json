@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-01-22, 01:21:36",
+      "https://lobste.rs/s/zltcd9/essence_successful_abstractions"
+    ],
+    [
+      "The Essence of Successful Abstractions",
+      "https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 01:08:40",
+      "https://lobste.rs/s/3pfvri/i_gave_ai_agent_edit_access_my_website"
+    ],
+    [
+      "I gave an AI agent edit access to my website",
+      "https://dri.es/i-gave-an-ai-agent-edit-access-to-my-website"
+    ]
+  ],
+  [
+    [
+      "2025-01-21, 23:39:36",
+      "https://lobste.rs/s/onv4tb/evo_version_control_works_way_you_think"
+    ],
+    [
+      "evo: Version control that works the way you think",
+      "https://github.com/crazywolf132/evo"
+    ]
+  ],
+  [
+    [
       "2025-01-21, 22:34:51",
       "https://lobste.rs/s/ugnmyn/platform_moulds_your_needs"
     ],
@@ -11,32 +41,12 @@
   ],
   [
     [
-      "2025-01-21, 22:16:11",
-      "https://lobste.rs/s/7k6u7o/comparing_13_rust_crates_for_extracting"
-    ],
-    [
-      "Comparing 13 Rust Crates for Extracting Text from HTML",
-      "https://emschwartz.me/comparing-13-rust-crates-for-extracting-text-from-html/"
-    ]
-  ],
-  [
-    [
       "2025-01-21, 22:00:26",
       "https://lobste.rs/s/oi7nqv/hyperbole_haskell_interactive"
     ],
     [
       "Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView",
       "https://github.com/seanhess/hyperbole"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 21:25:41",
-      "https://lobste.rs/s/qzdhrt/prototyping_automatic_tattoo_gun"
-    ],
-    [
-      "Prototyping an Automatic Tattoo Gun",
-      "https://owentrueblood.com/blog/2025/01/20/prototyping-an-automatic-tattoo-gun/"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "I'll think twice before using Github Actions again",
       "https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 09:51:00",
-      "https://lobste.rs/s/vpytov/reminiscing_on_my_early_days_writing"
-    ],
-    [
-      "Reminiscing on my early days writing software (2023)",
-      "https://rauljordan.com/my-most-embarrassing-story-as-a-beginner-software-engineer/"
     ]
   ],
   [
