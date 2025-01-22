@@ -1,32 +1,32 @@
 [
   [
     [
+      "2025-01-22, 14:28:14",
+      "https://lobste.rs/s/2otcim/lean_app_monitoring_starter_pack"
+    ],
+    [
+      "Lean app monitoring—The Starter Pack",
+      "https://ivelum.com/blog/lean-monitoring/"
+    ]
+  ],
+  [
+    [
+      "2025-01-22, 14:21:06",
+      "https://lobste.rs/s/cvbqbh/embedding_python_rust_for_tests"
+    ],
+    [
+      "Embedding Python in Rust (for tests)",
+      "https://www.enterprisedb.com/blog/embedding-python-rust-tests"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 13:01:33",
       "https://lobste.rs/s/x3cebe/component_variants_rails_with_class"
     ],
     [
       "Component variants in Rails with the class_variants gem",
       "https://avohq.io/blog/component-variants-with-the-class-variants-gem"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 11:14:18",
-      "https://lobste.rs/s/mnk2mq/nautilus_python"
-    ],
-    [
-      "nautilus-python",
-      "https://gitlab.gnome.org/GNOME/nautilus-python"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 10:54:11",
-      "https://lobste.rs/s/uy6e4k/bitcask_log_structured_hash_table_for"
-    ],
-    [
-      "Bitcask: A Log-Structured Hash Table for Fast Key/Value Data (2010)",
-      "https://riak.com/assets/bitcask-intro.pdf"
     ]
   ],
   [
