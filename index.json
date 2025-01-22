@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-22, 10:54:11",
+      "https://lobste.rs/s/uy6e4k/bitcask_log_structured_hash_table_for"
+    ],
+    [
+      "Bitcask: A Log-Structured Hash Table for Fast Key/Value Data (2010)",
+      "https://riak.com/assets/bitcask-intro.pdf"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 08:54:30",
       "https://lobste.rs/s/mgjals/are_llms_making_stackoverflow"
     ],
@@ -227,16 +237,6 @@
     [
       "I'll think twice before using Github Actions again",
       "https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 01:54:36",
-      "https://lobste.rs/s/voff8b/twine_data"
-    ],
-    [
-      "Twine Data",
-      "https://twine-data.dev/"
     ]
   ],
   [
