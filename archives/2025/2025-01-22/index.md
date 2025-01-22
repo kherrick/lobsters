@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-22](index.md)
 
+* [2025-01-22, 20:34:16](https://lobste.rs/s/2sbgxk/juggler_s_curse) - [The Juggler's Curse](https://buttondown.com/hillelwayne/archive/the-jugglers-curse/)
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:48:58](https://lobste.rs/s/mwodzb/guile_hoot_0_6_0_released) - [Guile Hoot 0.6.0 released](https://spritely.institute/news/guile-hoot-0-6-0-released.html)

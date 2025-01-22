@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-22, 20:34:16](https://lobste.rs/s/2sbgxk/juggler_s_curse) - [The Juggler's Curse](https://buttondown.com/hillelwayne/archive/the-jugglers-curse/)
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:48:58](https://lobste.rs/s/mwodzb/guile_hoot_0_6_0_released) - [Guile Hoot 0.6.0 released](https://spritely.institute/news/guile-hoot-0-6-0-released.html)
@@ -19,7 +20,6 @@
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 19:14:25](https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation) - [ACTORS: A Model of Concurrent Computation in Distributed Systems (1985)](https://dspace.mit.edu/handle/1721.1/6952)
 * [2025-01-21, 18:37:58](https://lobste.rs/s/axggft/making_this_less_annoying) - [Making “this” less annoying](https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/)
-* [2025-01-21, 18:14:56](https://lobste.rs/s/rvj92f/we_never_update_unless_forced_cargo) - [\"We never update unless forced to\" — cargo-semver-checks 2024 Year in Review](https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/)
 * [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 15:24:28](https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal) - [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
