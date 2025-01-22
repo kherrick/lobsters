@@ -12,7 +12,7 @@
 * [2025-01-21, 22:34:51](https://lobste.rs/s/ugnmyn/platform_moulds_your_needs) - [A platform that moulds to your needs](https://xenodium.com/a-platform-that-moulds-to-your-needs)
 * [2025-01-21, 22:00:26](https://lobste.rs/s/oi7nqv/hyperbole_haskell_interactive) - [Hyperbole: Haskell interactive serverside web framework inspired by HTMX, Elm, and Phoenix LiveView](https://github.com/seanhess/hyperbole)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
-* [2025-01-21, 19:14:25](https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation) - [ACTORS: A Model of Concurrent Computation in Distributed Systems](https://dspace.mit.edu/handle/1721.1/6952)
+* [2025-01-21, 19:14:25](https://lobste.rs/s/zi7kdx/actors_model_concurrent_computation) - [ACTORS: A Model of Concurrent Computation in Distributed Systems (1985)](https://dspace.mit.edu/handle/1721.1/6952)
 * [2025-01-21, 18:37:58](https://lobste.rs/s/axggft/making_this_less_annoying) - [Making “this” less annoying](https://daverupert.com/2025/01/like-this-and-like-that-and-like-this-and-uh/)
 * [2025-01-21, 18:36:51](https://lobste.rs/s/ureock/programming_languages_after_llms) - [Programming languages after LLMs](https://thetechenabler.substack.com/p/the-future-of-programming-languages)
 * [2025-01-21, 18:14:56](https://lobste.rs/s/rvj92f/we_never_update_unless_forced_cargo) - [\"We never update unless forced to\" — cargo-semver-checks 2024 Year in Review](https://predr.ag/blog/cargo-semver-checks-2024-year-in-review/)
