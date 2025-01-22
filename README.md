@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-22, 18:48:58](https://lobste.rs/s/mwodzb/guile_hoot_0_6_0_released) - [Guile Hoot 0.6.0 released](https://spritely.institute/news/guile-hoot-0-6-0-released.html)
 * [2025-01-22, 18:07:08](https://lobste.rs/s/x0kkj8/guided_by_beauty_our_test_suite) - [Guided by the beauty of our test suite](https://www.mattkeeter.com/blog/2025-01-20-guided/)
 * [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 * [2025-01-22, 16:28:24](https://lobste.rs/s/ojkd8z/stratoshark_wireshark_for_cloud) - [Stratoshark: Wireshark for the Cloud](https://stratoshark.org/)
@@ -22,7 +23,6 @@
 * [2025-01-21, 15:45:35](https://lobste.rs/s/mymnx7/how_many_alpine_packages_can_you_install) - [How many Alpine packages can you install at once?](https://www.naff.dev/blog/all-the-packages)
 * [2025-01-21, 15:24:28](https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal) - [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
-* [2025-01-21, 13:37:42](https://lobste.rs/s/hbzctm/type_inference_rust_c) - [Type Inference in Rust and C++](https://herecomesthemoon.net/2025/01/type-inference-in-rust-and-cpp/)
 * [2025-01-21, 13:23:58](https://lobste.rs/s/7jpnyh/hunt_for_error_22) - [The hunt for error -22](https://tweedegolf.nl/en/blog/145/the-hunt-for-error--22)
 * [2025-01-21, 10:53:15](https://lobste.rs/s/55tzej/i_ll_think_twice_before_using_github) - [I'll think twice before using Github Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
 
