@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-23, 17:31:39](https://lobste.rs/s/slfuls/chicken_accessories_for_chickens) - [Chicken Accessories For Chickens](https://thoughtbot.com/blog/chicken-accessories-for-chickens)
+* [2025-01-23, 18:01:48](https://lobste.rs/s/m7zx9r/invalid_niger_nameservers_com_zone) - [Invalid Niger Nameservers in the com zone](https://0xda.de/blog/2025/01/invalid-niger-nameservers-in-the-com-zone/)
 * [2025-01-23, 16:40:05](https://lobste.rs/s/9w4w3x/stealing_httponly_cookies_with_cookie) - [Stealing HttpOnly cookies with the cookie sandwich technique](https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique)
 * [2025-01-23, 15:53:12](https://lobste.rs/s/ggbjbg/shifting_cyber_norms_microsoft_security) - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
 * [2025-01-23, 15:39:36](https://lobste.rs/s/rocjot/judging_code) - [Judging Code](https://registerspill.thorstenball.com/p/judging-code)
