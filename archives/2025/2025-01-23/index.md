@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
 * [2025-01-23, 19:12:48](https://lobste.rs/s/qu7nqd/mixlist_org_organize_your_spotify) - [mixlist.org - organize your spotify library](https://mixlist.org)
+* [2025-01-23, 19:08:41](https://lobste.rs/s/ifbnmh/dusa_programming_language) - [The Dusa Programming Language](https://dusa.rocks/docs/)
 * [2025-01-23, 18:46:27](https://lobste.rs/s/omry4j/comparing_rust_actor_libraries) - [Comparing Rust Actor Libraries](https://theari.dev/blog/comparing-rust-actor-libraries/)
 * [2025-01-23, 18:01:48](https://lobste.rs/s/m7zx9r/invalid_niger_nameservers_com_zone) - [Invalid Niger Nameservers in the com zone](https://0xda.de/blog/2025/01/invalid-niger-nameservers-in-the-com-zone/)
 * [2025-01-23, 17:31:39](https://lobste.rs/s/slfuls/chicken_accessories_for_chickens) - [Chicken Accessories For Chickens](https://thoughtbot.com/blog/chicken-accessories-for-chickens)
