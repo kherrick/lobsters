@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-23, 05:28:07",
+      "https://lobste.rs/s/hszahb/first_release_openvox_community_fork"
+    ],
+    [
+      "First release of OpenVox, the community fork of Puppet",
+      "https://voxpupuli.org/blog/2025/01/21/openvox-release/"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 03:24:04",
       "https://lobste.rs/s/im1wnu/tailwind_css_v4_0"
     ],
@@ -137,16 +147,6 @@
     [
       "Debugging a Vision Transformer Compilation Issue",
       "https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 11:14:18",
-      "https://lobste.rs/s/mnk2mq/nautilus_python"
-    ],
-    [
-      "nautilus-python",
-      "https://gitlab.gnome.org/GNOME/nautilus-python"
     ]
   ],
   [
