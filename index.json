@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-23, 13:13:28",
+      "https://lobste.rs/s/cyc4bj/british_micro_behemoth"
+    ],
+    [
+      "The British Micro Behemoth",
+      "https://www.abortretry.fail/p/the-british-micro-behemoth"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 12:49:43",
       "https://lobste.rs/s/az12zd/read_code_not_profile"
     ],
@@ -41,6 +51,16 @@
   ],
   [
     [
+      "2025-01-23, 09:24:03",
+      "https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source"
+    ],
+    [
+      "Creating a highly-integrated open-source laptop from scratch",
+      "https://byran.ee/posts/creation/"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 08:30:12",
       "https://lobste.rs/s/qqkzry/bbs_petscii_1986_1993"
     ],
@@ -67,16 +87,6 @@
     [
       "Contents - Rust for the Polyglot Programmer",
       "https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 07:38:47",
-      "https://lobste.rs/s/afrxkk/landlock_security_module_able_deal_with"
-    ],
-    [
-      "Landlock Security Module Able To Deal With \"Weird Files\" On Linux 6.14",
-      "https://www.phoronix.com/news/Linux-6.14-Landlock"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Guile Hoot 0.6.0 released",
       "https://spritely.institute/news/guile-hoot-0-6-0-released.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 18:07:08",
-      "https://lobste.rs/s/x0kkj8/guided_by_beauty_our_test_suite"
-    ],
-    [
-      "Guided by the beauty of our test suite",
-      "https://www.mattkeeter.com/blog/2025-01-20-guided/"
     ]
   ],
   [
