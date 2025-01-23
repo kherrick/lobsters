@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 15:53:12](https://lobste.rs/s/ggbjbg/shifting_cyber_norms_microsoft_security) - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
 * [2025-01-23, 15:47:18](https://lobste.rs/s/1ew75i/taking_look_at_compression_algorithms) - [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 * [2025-01-23, 15:39:36](https://lobste.rs/s/rocjot/judging_code) - [Judging Code](https://registerspill.thorstenball.com/p/judging-code)
 * [2025-01-23, 15:09:38](https://lobste.rs/s/dsh4fq/hacking_subaru_tracking_controlling) - [Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel](https://samcurry.net/hacking-subaru)
@@ -12,7 +13,6 @@
 * [2025-01-23, 09:24:03](https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source) - [Creating a highly-integrated open-source laptop from scratch](https://byran.ee/posts/creation/)
 * [2025-01-23, 08:30:12](https://lobste.rs/s/qqkzry/bbs_petscii_1986_1993) - [BBS PETSCII, 1986-1993](https://text-mode.org/?p=27470)
 * [2025-01-23, 08:16:50](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c) - [tell me of weird, obscure, or proprietary C compilers and environments past and present](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c)
-* [2025-01-23, 08:11:40](https://lobste.rs/s/aegqw9/contents_rust_for_polyglot_programmer) - [Contents - Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 * [2025-01-23, 07:24:56](https://lobste.rs/s/ljwe6l/let_s_talk_about_ai_end_end_encryption) - [Let’s talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-23, 06:37:40](https://lobste.rs/s/tfudi0/disks_rs_disk_handling_with_rust) - [disks-rs: Disk handling with Rust](https://github.com/serpent-os/disks-rs)
 * [2025-01-23, 06:36:38](https://lobste.rs/s/73qifn/verified_efficient_matching_regular) - [Verified and Efficient Matching of Regular Expressions with Lookaround](https://github.com/Agnishom/lregex)
