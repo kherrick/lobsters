@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 14:04:24](https://lobste.rs/s/uctvyh/look_back_at_2024_f_droid_s_progress_what_s) - [A Look Back at 2024: F-Droid's Progress and What’s Coming in 2025](https://f-droid.org/2025/01/21/a-look-back-at-2024-f-droids-progress-and-whats-coming-in-2025.html)
 * [2025-01-23, 13:37:40](https://lobste.rs/s/45n2xd/mythical_io_bound_rails_app) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 * [2025-01-23, 13:13:28](https://lobste.rs/s/cyc4bj/british_micro_behemoth) - [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
 * [2025-01-23, 12:49:43](https://lobste.rs/s/az12zd/read_code_not_profile) - [Read the Code, Not the Profile](https://reasonablypolymorphic.com/blog/read-the-code/)
