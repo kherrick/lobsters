@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 13:37:40](https://lobste.rs/s/45n2xd/mythical_io_bound_rails_app) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 * [2025-01-23, 13:13:28](https://lobste.rs/s/cyc4bj/british_micro_behemoth) - [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
 * [2025-01-23, 12:49:43](https://lobste.rs/s/az12zd/read_code_not_profile) - [Read the Code, Not the Profile](https://reasonablypolymorphic.com/blog/read-the-code/)
 * [2025-01-23, 11:38:49](https://lobste.rs/s/tvqmjb/cvss_is_dead_us) - [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/)
@@ -22,7 +23,6 @@
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:48:58](https://lobste.rs/s/mwodzb/guile_hoot_0_6_0_released) - [Guile Hoot 0.6.0 released](https://spritely.institute/news/guile-hoot-0-6-0-released.html)
 * [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
-* [2025-01-22, 16:28:24](https://lobste.rs/s/ojkd8z/stratoshark_wireshark_for_cloud) - [Stratoshark: Wireshark for the Cloud](https://stratoshark.org/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 

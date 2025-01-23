@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 13:37:40](https://lobste.rs/s/45n2xd/mythical_io_bound_rails_app) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 * [2025-01-23, 13:13:28](https://lobste.rs/s/cyc4bj/british_micro_behemoth) - [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
 * [2025-01-23, 12:49:43](https://lobste.rs/s/az12zd/read_code_not_profile) - [Read the Code, Not the Profile](https://reasonablypolymorphic.com/blog/read-the-code/)
 * [2025-01-23, 11:38:49](https://lobste.rs/s/tvqmjb/cvss_is_dead_us) - [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/)
