@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-01-23, 14:12:46",
-      "https://lobste.rs/s/s3ykwt/podscript_generate_podcast_transcripts"
+      "2025-01-23, 15:09:38",
+      "https://lobste.rs/s/dsh4fq/hacking_subaru_tracking_controlling"
     ],
     [
-      "podscript: Generate podcast transcripts using language and speech-to-text models",
-      "https://github.com/deepakjois/podscript"
+      "Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel",
+      "https://samcurry.net/hacking-subaru"
     ]
   ],
   [
@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-01-22, 20:36:52",
+      "https://lobste.rs/s/rziph3/using_most_unhinged_avx_512_instruction"
+    ],
+    [
+      "Using the most unhinged AVX-512 instruction to make the fastest phrase search algorithm",
+      "https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html"
+    ]
+  ],
+  [
+    [
       "2025-01-22, 20:34:16",
       "https://lobste.rs/s/2sbgxk/juggler_s_curse"
     ],
@@ -227,16 +237,6 @@
     [
       "Introducing RealtimeSanitizer for Rust",
       "https://steck.tech/posts/rtsan-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-01-21, 20:27:49",
-      "https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron"
-    ],
-    [
-      "Things people get wrong about Electron",
-      "https://felixrieseberg.com/things-people-get-wrong-about-electron/"
     ]
   ],
   [
