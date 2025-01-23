@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-23, 06:37:40",
+      "https://lobste.rs/s/tfudi0/disks_rs_disk_handling_with_rust"
+    ],
+    [
+      "disks-rs: Disk handling with Rust",
+      "https://github.com/serpent-os/disks-rs"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 06:36:38",
+      "https://lobste.rs/s/73qifn/verified_efficient_matching_regular"
+    ],
+    [
+      "Verified and Efficient Matching of Regular Expressions with Lookaround",
+      "https://github.com/Agnishom/lregex"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 05:28:07",
       "https://lobste.rs/s/hszahb/first_release_openvox_community_fork"
     ],
@@ -167,26 +187,6 @@
     [
       "Examples of quick hash tables and dynamic arrays in C",
       "https://nullprogram.com/blog/2025/01/19/"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 02:33:25",
-      "https://lobste.rs/s/64oozp/conduwuit_very_cool_featureful_fork"
-    ],
-    [
-      "conduwuit: a very cool, featureful fork of conduit",
-      "https://github.com/girlbossceo/conduwuit"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 01:33:25",
-      "https://lobste.rs/s/lhondt/elementary_water_rendering"
-    ],
-    [
-      "Elementary Water Rendering",
-      "https://jysandy.github.io/posts/gradient-water-rendering/"
     ]
   ],
   [
