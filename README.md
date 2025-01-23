@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 01:04:40](https://lobste.rs/s/gz5fra/fundamental_theory_ada_type_model_2007) - [Fundamental Theory of Ada: Type Model (2007)](https://web.archive.org/web/20170530221312/http://blog.kickin-the-darkness.com/2007/08/fundamental-theory-of-ada.html)
 * [2025-01-22, 23:31:37](https://lobste.rs/s/lxljyj/why_don_t_constructors_have_override) - [Why don't constructors have override checking?](https://blog.jez.io/constructor-override-checking/)
 * [2025-01-22, 22:08:05](https://lobste.rs/s/j1zf5e/mastercard_dns_error_went_unnoticed_for) - [MasterCard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 20:36:52](https://lobste.rs/s/rziph3/using_most_unhinged_avx_512_instruction) - [Using the most unhinged AVX-512 instruction to make the fastest phrase search algorithm](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
@@ -24,7 +25,6 @@
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 * [2025-01-21, 15:24:28](https://lobste.rs/s/vra0q4/using_linear_programming_find_optimal) - [Using Linear Programming to find optimal builds in League of Legends](https://versary.town/blog/using-linear-programming-to-find-optimal-builds-in-league-of-legends/)
 * [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
-* [2025-01-21, 10:53:15](https://lobste.rs/s/55tzej/i_ll_think_twice_before_using_github) - [I'll think twice before using Github Actions again](https://ninkovic.dev/blog/2025/think-twice-before-using-github-actions)
 
 ## [Archives](archives/index.md)
 
