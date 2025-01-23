@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 20:30:14](https://lobste.rs/s/db8wcx/eve_programming_language) - [Eve Programming Language](https://witheve.com/)
 * [2025-01-23, 19:12:48](https://lobste.rs/s/qu7nqd/mixlist_org_organize_your_spotify) - [mixlist.org - organize your spotify library](https://mixlist.org)
 * [2025-01-23, 19:08:41](https://lobste.rs/s/ifbnmh/dusa_programming_language) - [The Dusa Programming Language](https://dusa.rocks/docs/)
 * [2025-01-23, 18:46:27](https://lobste.rs/s/omry4j/comparing_rust_actor_libraries) - [Comparing Rust Actor Libraries](https://theari.dev/blog/comparing-rust-actor-libraries/)
