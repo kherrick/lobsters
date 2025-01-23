@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-23, 14:12:46](https://lobste.rs/s/s3ykwt/podscript_generate_podcast_transcripts) - [podscript: Generate podcast transcripts using language and speech-to-text models](https://github.com/deepakjois/podscript)
+* [2025-01-23, 15:09:38](https://lobste.rs/s/dsh4fq/hacking_subaru_tracking_controlling) - [Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel](https://samcurry.net/hacking-subaru)
 * [2025-01-23, 13:37:40](https://lobste.rs/s/45n2xd/mythical_io_bound_rails_app) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 * [2025-01-23, 13:13:28](https://lobste.rs/s/cyc4bj/british_micro_behemoth) - [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
 * [2025-01-23, 12:49:43](https://lobste.rs/s/az12zd/read_code_not_profile) - [Read the Code, Not the Profile](https://reasonablypolymorphic.com/blog/read-the-code/)
@@ -18,12 +18,12 @@
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
 * [2025-01-22, 23:31:37](https://lobste.rs/s/lxljyj/why_don_t_constructors_have_override) - [Why don't constructors have override checking?](https://blog.jez.io/constructor-override-checking/)
 * [2025-01-22, 22:08:05](https://lobste.rs/s/j1zf5e/mastercard_dns_error_went_unnoticed_for) - [MasterCard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
+* [2025-01-22, 20:36:52](https://lobste.rs/s/rziph3/using_most_unhinged_avx_512_instruction) - [Using the most unhinged AVX-512 instruction to make the fastest phrase search algorithm](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)
 * [2025-01-22, 20:34:16](https://lobste.rs/s/2sbgxk/juggler_s_curse) - [The Juggler's Curse](https://buttondown.com/hillelwayne/archive/the-jugglers-curse/)
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:48:58](https://lobste.rs/s/mwodzb/guile_hoot_0_6_0_released) - [Guile Hoot 0.6.0 released](https://spritely.institute/news/guile-hoot-0-6-0-released.html)
 * [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
-* [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
 ## [Archives](archives/index.md)
