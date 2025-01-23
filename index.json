@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-23, 09:54:24",
+      "https://lobste.rs/s/qobfje/bun_1_2"
+    ],
+    [
+      "Bun 1.2",
+      "https://bun.sh/blog/bun-v1.2"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 09:24:03",
       "https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source"
     ],
@@ -217,16 +227,6 @@
     [
       "Debugging a Vision Transformer Compilation Issue",
       "https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 06:52:13",
-      "https://lobste.rs/s/wfexzi/examples_quick_hash_tables_dynamic"
-    ],
-    [
-      "Examples of quick hash tables and dynamic arrays in C",
-      "https://nullprogram.com/blog/2025/01/19/"
     ]
   ],
   [
