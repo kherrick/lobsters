@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 06:37:40](https://lobste.rs/s/tfudi0/disks_rs_disk_handling_with_rust) - [disks-rs: Disk handling with Rust](https://github.com/serpent-os/disks-rs)
+* [2025-01-23, 06:36:38](https://lobste.rs/s/73qifn/verified_efficient_matching_regular) - [Verified and Efficient Matching of Regular Expressions with Lookaround](https://github.com/Agnishom/lregex)
 * [2025-01-23, 05:28:07](https://lobste.rs/s/hszahb/first_release_openvox_community_fork) - [First release of OpenVox, the community fork of Puppet](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
 * [2025-01-23, 02:27:53](https://lobste.rs/s/ytfgwv/grand_unified_theory_documentation) - [The Grand Unified Theory of Documentation](https://docs.divio.com/documentation-system/)
@@ -17,8 +19,6 @@
 * [2025-01-22, 15:44:53](https://lobste.rs/s/eypswv/debugging_vision_transformer) - [Debugging a Vision Transformer Compilation Issue](https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/)
 * [2025-01-22, 08:54:30](https://lobste.rs/s/mgjals/are_llms_making_stackoverflow) - [Are LLMs making StackOverflow irrelevant?](https://blog.pragmaticengineer.com/are-llms-making-stackoverflow-irrelevant/)
 * [2025-01-22, 06:52:13](https://lobste.rs/s/wfexzi/examples_quick_hash_tables_dynamic) - [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)
-* [2025-01-22, 02:33:25](https://lobste.rs/s/64oozp/conduwuit_very_cool_featureful_fork) - [conduwuit: a very cool, featureful fork of conduit](https://github.com/girlbossceo/conduwuit)
-* [2025-01-22, 01:33:25](https://lobste.rs/s/lhondt/elementary_water_rendering) - [Elementary Water Rendering](https://jysandy.github.io/posts/gradient-water-rendering/)
 * [2025-01-22, 01:21:36](https://lobste.rs/s/zltcd9/essence_successful_abstractions) - [The Essence of Successful Abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 16:23:12](https://lobste.rs/s/pyejlx/building_tiny_linux_from_scratch) - [Building a tiny Linux from scratch](https://blinry.org/tiny-linux/)
