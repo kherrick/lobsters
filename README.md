@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 17:31:39](https://lobste.rs/s/slfuls/chicken_accessories_for_chickens) - [Chicken Accessories For Chickens](https://thoughtbot.com/blog/chicken-accessories-for-chickens)
 * [2025-01-23, 16:40:05](https://lobste.rs/s/9w4w3x/stealing_httponly_cookies_with_cookie) - [Stealing HttpOnly cookies with the cookie sandwich technique](https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique)
 * [2025-01-23, 15:53:12](https://lobste.rs/s/ggbjbg/shifting_cyber_norms_microsoft_security) - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
 * [2025-01-23, 15:39:36](https://lobste.rs/s/rocjot/judging_code) - [Judging Code](https://registerspill.thorstenball.com/p/judging-code)
@@ -24,7 +25,6 @@
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:48:58](https://lobste.rs/s/mwodzb/guile_hoot_0_6_0_released) - [Guile Hoot 0.6.0 released](https://spritely.institute/news/guile-hoot-0-6-0-released.html)
-* [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 
 ## [Archives](archives/index.md)
 
