@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 09:54:24](https://lobste.rs/s/qobfje/bun_1_2) - [Bun 1.2](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 09:24:03](https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source) - [Creating a highly-integrated open-source laptop from scratch](https://byran.ee/posts/creation/)
 * [2025-01-23, 08:30:12](https://lobste.rs/s/qqkzry/bbs_petscii_1986_1993) - [BBS PETSCII, 1986-1993](https://text-mode.org/?p=27470)
 * [2025-01-23, 08:16:50](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c) - [tell me of weird, obscure, or proprietary C compilers and environments past and present](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c)
@@ -22,7 +23,6 @@
 * [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 * [2025-01-22, 16:28:24](https://lobste.rs/s/ojkd8z/stratoshark_wireshark_for_cloud) - [Stratoshark: Wireshark for the Cloud](https://stratoshark.org/)
 * [2025-01-22, 15:44:53](https://lobste.rs/s/eypswv/debugging_vision_transformer) - [Debugging a Vision Transformer Compilation Issue](https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/)
-* [2025-01-22, 06:52:13](https://lobste.rs/s/wfexzi/examples_quick_hash_tables_dynamic) - [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 

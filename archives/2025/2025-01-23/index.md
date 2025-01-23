@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 09:54:24](https://lobste.rs/s/qobfje/bun_1_2) - [Bun 1.2](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 09:24:03](https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source) - [Creating a highly-integrated open-source laptop from scratch](https://byran.ee/posts/creation/)
 * [2025-01-23, 08:30:12](https://lobste.rs/s/qqkzry/bbs_petscii_1986_1993) - [BBS PETSCII, 1986-1993](https://text-mode.org/?p=27470)
 * [2025-01-23, 08:16:50](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c) - [tell me of weird, obscure, or proprietary C compilers and environments past and present](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c)
