@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 08:11:40](https://lobste.rs/s/aegqw9/contents_rust_for_polyglot_programmer) - [Contents - Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 * [2025-01-23, 07:38:47](https://lobste.rs/s/afrxkk/landlock_security_module_able_deal_with) - [Landlock Security Module Able To Deal With \"Weird Files\" On Linux 6.14](https://www.phoronix.com/news/Linux-6.14-Landlock)
 * [2025-01-23, 07:24:56](https://lobste.rs/s/ljwe6l/let_s_talk_about_ai_end_end_encryption) - [Let’s talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-23, 07:08:46](https://lobste.rs/s/t8or8q/bencher_continuous_benchmarking) - [Bencher - Continuous Benchmarking](https://bencher.dev/)

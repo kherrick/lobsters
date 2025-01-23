@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 08:11:40](https://lobste.rs/s/aegqw9/contents_rust_for_polyglot_programmer) - [Contents - Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 * [2025-01-23, 07:38:47](https://lobste.rs/s/afrxkk/landlock_security_module_able_deal_with) - [Landlock Security Module Able To Deal With \"Weird Files\" On Linux 6.14](https://www.phoronix.com/news/Linux-6.14-Landlock)
 * [2025-01-23, 07:24:56](https://lobste.rs/s/ljwe6l/let_s_talk_about_ai_end_end_encryption) - [Let’s talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-23, 07:08:46](https://lobste.rs/s/t8or8q/bencher_continuous_benchmarking) - [Bencher - Continuous Benchmarking](https://bencher.dev/)
@@ -24,7 +25,6 @@
 * [2025-01-22, 01:21:36](https://lobste.rs/s/zltcd9/essence_successful_abstractions) - [The Essence of Successful Abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
-* [2025-01-21, 14:21:38](https://lobste.rs/s/ejcoud/dreaming_smel_shell) - [dreaming of smel shell](https://taylor.town/smel-000)
 
 ## [Archives](archives/index.md)
 
