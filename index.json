@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-01-23, 15:53:12",
+      "https://lobste.rs/s/ggbjbg/shifting_cyber_norms_microsoft_security"
+    ],
+    [
+      "Shifting Cyber Norms: Microsoft security POST-ing to you",
+      "https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 15:39:36",
       "https://lobste.rs/s/rocjot/judging_code"
     ],
@@ -157,16 +167,6 @@
     [
       "tell me of weird, obscure, or proprietary C compilers and environments past and present",
       "https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 06:37:40",
-      "https://lobste.rs/s/tfudi0/disks_rs_disk_handling_with_rust"
-    ],
-    [
-      "disks-rs: Disk handling with Rust",
-      "https://github.com/serpent-os/disks-rs"
     ]
   ],
   [
