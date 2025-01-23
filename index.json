@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-23, 12:49:43",
+      "https://lobste.rs/s/az12zd/read_code_not_profile"
+    ],
+    [
+      "Read the Code, Not the Profile",
+      "https://reasonablypolymorphic.com/blog/read-the-code/"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 11:38:49",
       "https://lobste.rs/s/tvqmjb/cvss_is_dead_us"
     ],
@@ -77,16 +87,6 @@
     [
       "Let’s talk about AI and end-to-end encryption",
       "https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 07:08:46",
-      "https://lobste.rs/s/t8or8q/bencher_continuous_benchmarking"
-    ],
-    [
-      "Bencher - Continuous Benchmarking",
-      "https://bencher.dev/"
     ]
   ],
   [
