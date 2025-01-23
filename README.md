@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 15:47:18](https://lobste.rs/s/1ew75i/taking_look_at_compression_algorithms) - [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 * [2025-01-23, 15:39:36](https://lobste.rs/s/rocjot/judging_code) - [Judging Code](https://registerspill.thorstenball.com/p/judging-code)
 * [2025-01-23, 15:09:38](https://lobste.rs/s/dsh4fq/hacking_subaru_tracking_controlling) - [Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel](https://samcurry.net/hacking-subaru)
 * [2025-01-23, 13:37:40](https://lobste.rs/s/45n2xd/mythical_io_bound_rails_app) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
@@ -24,7 +25,6 @@
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 * [2025-01-22, 18:48:58](https://lobste.rs/s/mwodzb/guile_hoot_0_6_0_released) - [Guile Hoot 0.6.0 released](https://spritely.institute/news/guile-hoot-0-6-0-released.html)
 * [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
-* [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
 ## [Archives](archives/index.md)
 

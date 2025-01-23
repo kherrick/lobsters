@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 15:47:18](https://lobste.rs/s/1ew75i/taking_look_at_compression_algorithms) - [Taking a Look at Compression Algorithms](https://cefboud.github.io/posts/compression/)
 * [2025-01-23, 15:39:36](https://lobste.rs/s/rocjot/judging_code) - [Judging Code](https://registerspill.thorstenball.com/p/judging-code)
 * [2025-01-23, 15:09:38](https://lobste.rs/s/dsh4fq/hacking_subaru_tracking_controlling) - [Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel](https://samcurry.net/hacking-subaru)
 * [2025-01-23, 14:12:46](https://lobste.rs/s/s3ykwt/podscript_generate_podcast_transcripts) - [podscript: Generate podcast transcripts using language and speech-to-text models](https://github.com/deepakjois/podscript)
