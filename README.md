@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 07:38:47](https://lobste.rs/s/afrxkk/landlock_security_module_able_deal_with) - [Landlock Security Module Able To Deal With \"Weird Files\" On Linux 6.14](https://www.phoronix.com/news/Linux-6.14-Landlock)
 * [2025-01-23, 07:24:56](https://lobste.rs/s/ljwe6l/let_s_talk_about_ai_end_end_encryption) - [Let’s talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
 * [2025-01-23, 07:08:46](https://lobste.rs/s/t8or8q/bencher_continuous_benchmarking) - [Bencher - Continuous Benchmarking](https://bencher.dev/)
 * [2025-01-23, 06:37:40](https://lobste.rs/s/tfudi0/disks_rs_disk_handling_with_rust) - [disks-rs: Disk handling with Rust](https://github.com/serpent-os/disks-rs)
@@ -19,7 +20,6 @@
 * [2025-01-22, 16:44:14](https://lobste.rs/s/9sfvp4/introducing_realtimesanitizer_for_rust) - [Introducing RealtimeSanitizer for Rust](https://steck.tech/posts/rtsan-in-rust/)
 * [2025-01-22, 16:28:24](https://lobste.rs/s/ojkd8z/stratoshark_wireshark_for_cloud) - [Stratoshark: Wireshark for the Cloud](https://stratoshark.org/)
 * [2025-01-22, 15:44:53](https://lobste.rs/s/eypswv/debugging_vision_transformer) - [Debugging a Vision Transformer Compilation Issue](https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/)
-* [2025-01-22, 08:54:30](https://lobste.rs/s/mgjals/are_llms_making_stackoverflow) - [Are LLMs making StackOverflow irrelevant?](https://blog.pragmaticengineer.com/are-llms-making-stackoverflow-irrelevant/)
 * [2025-01-22, 06:52:13](https://lobste.rs/s/wfexzi/examples_quick_hash_tables_dynamic) - [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)
 * [2025-01-22, 01:21:36](https://lobste.rs/s/zltcd9/essence_successful_abstractions) - [The Essence of Successful Abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
