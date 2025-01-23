@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 19:12:48](https://lobste.rs/s/qu7nqd/mixlist_org_organize_your_spotify) - [mixlist.org - organize your spotify library](https://mixlist.org)
 * [2025-01-23, 18:01:48](https://lobste.rs/s/m7zx9r/invalid_niger_nameservers_com_zone) - [Invalid Niger Nameservers in the com zone](https://0xda.de/blog/2025/01/invalid-niger-nameservers-in-the-com-zone/)
 * [2025-01-23, 16:40:05](https://lobste.rs/s/9w4w3x/stealing_httponly_cookies_with_cookie) - [Stealing HttpOnly cookies with the cookie sandwich technique](https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique)
 * [2025-01-23, 15:53:12](https://lobste.rs/s/ggbjbg/shifting_cyber_norms_microsoft_security) - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
@@ -19,7 +20,6 @@
 * [2025-01-23, 06:36:38](https://lobste.rs/s/73qifn/verified_efficient_matching_regular) - [Verified and Efficient Matching of Regular Expressions with Lookaround](https://github.com/Agnishom/lregex)
 * [2025-01-23, 05:28:07](https://lobste.rs/s/hszahb/first_release_openvox_community_fork) - [First release of OpenVox, the community fork of Puppet](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
-* [2025-01-22, 23:31:37](https://lobste.rs/s/lxljyj/why_don_t_constructors_have_override) - [Why don't constructors have override checking?](https://blog.jez.io/constructor-override-checking/)
 * [2025-01-22, 22:08:05](https://lobste.rs/s/j1zf5e/mastercard_dns_error_went_unnoticed_for) - [MasterCard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 20:34:16](https://lobste.rs/s/2sbgxk/juggler_s_curse) - [The Juggler's Curse](https://buttondown.com/hillelwayne/archive/the-jugglers-curse/)
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
