@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 08:30:12](https://lobste.rs/s/qqkzry/bbs_petscii_1986_1993) - [BBS PETSCII, 1986-1993](https://text-mode.org/?p=27470)
+* [2025-01-23, 08:16:50](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c) - [tell me of weird, obscure, or proprietary C compilers and environments past and present](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c)
 * [2025-01-23, 08:11:40](https://lobste.rs/s/aegqw9/contents_rust_for_polyglot_programmer) - [Contents - Rust for the Polyglot Programmer](https://www.chiark.greenend.org.uk/~ianmdlvl/rust-polyglot/index.html)
 * [2025-01-23, 07:38:47](https://lobste.rs/s/afrxkk/landlock_security_module_able_deal_with) - [Landlock Security Module Able To Deal With \"Weird Files\" On Linux 6.14](https://www.phoronix.com/news/Linux-6.14-Landlock)
 * [2025-01-23, 07:24:56](https://lobste.rs/s/ljwe6l/let_s_talk_about_ai_end_end_encryption) - [Let’s talk about AI and end-to-end encryption](https://blog.cryptographyengineering.com/2025/01/17/lets-talk-about-ai-and-end-to-end-encryption/)
@@ -8,7 +10,6 @@
 * [2025-01-23, 06:36:38](https://lobste.rs/s/73qifn/verified_efficient_matching_regular) - [Verified and Efficient Matching of Regular Expressions with Lookaround](https://github.com/Agnishom/lregex)
 * [2025-01-23, 05:28:07](https://lobste.rs/s/hszahb/first_release_openvox_community_fork) - [First release of OpenVox, the community fork of Puppet](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
-* [2025-01-23, 02:27:53](https://lobste.rs/s/ytfgwv/grand_unified_theory_documentation) - [The Grand Unified Theory of Documentation](https://docs.divio.com/documentation-system/)
 * [2025-01-23, 01:04:40](https://lobste.rs/s/gz5fra/fundamental_theory_ada_type_model_2007) - [Fundamental Theory of Ada: Type Model (2007)](https://web.archive.org/web/20170530221312/http://blog.kickin-the-darkness.com/2007/08/fundamental-theory-of-ada.html)
 * [2025-01-22, 23:31:37](https://lobste.rs/s/lxljyj/why_don_t_constructors_have_override) - [Why don't constructors have override checking?](https://blog.jez.io/constructor-override-checking/)
 * [2025-01-22, 22:08:05](https://lobste.rs/s/j1zf5e/mastercard_dns_error_went_unnoticed_for) - [MasterCard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
@@ -22,7 +23,6 @@
 * [2025-01-22, 16:28:24](https://lobste.rs/s/ojkd8z/stratoshark_wireshark_for_cloud) - [Stratoshark: Wireshark for the Cloud](https://stratoshark.org/)
 * [2025-01-22, 15:44:53](https://lobste.rs/s/eypswv/debugging_vision_transformer) - [Debugging a Vision Transformer Compilation Issue](https://ohadravid.github.io/posts/2025-01-debugging-vit-and-tensorrt/)
 * [2025-01-22, 06:52:13](https://lobste.rs/s/wfexzi/examples_quick_hash_tables_dynamic) - [Examples of quick hash tables and dynamic arrays in C](https://nullprogram.com/blog/2025/01/19/)
-* [2025-01-22, 01:21:36](https://lobste.rs/s/zltcd9/essence_successful_abstractions) - [The Essence of Successful Abstractions](https://v5.chriskrycho.com/journal/essence-of-successful-abstractions/)
 * [2025-01-21, 20:27:49](https://lobste.rs/s/ltnmo8/things_people_get_wrong_about_electron) - [Things people get wrong about Electron](https://felixrieseberg.com/things-people-get-wrong-about-electron/)
 * [2025-01-21, 16:05:52](https://lobste.rs/s/tsrast/unique_0_click_deanonymization_attack) - [Unique 0-click deanonymization attack targeting Signal, Discord and hundreds of platforms](https://gist.github.com/hackermondev/45a3cdfa52246f1d1201c1e8cdef6117)
 
