@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 23:18:39](https://lobste.rs/s/nfmxqw/gcal_sync_sync_events_across_different) - [gcal-sync: Sync events across different calendars](https://github.com/drmorr0/gcal-sync)
+* [2025-01-23, 22:51:54](https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus) - [SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel](https://jprx.io/cve-2024-54507/)
 * [2025-01-23, 20:53:11](https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible) - [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
 * [2025-01-23, 20:30:14](https://lobste.rs/s/db8wcx/eve_programming_language) - [Eve Programming Language](https://witheve.com/)
 * [2025-01-23, 19:12:48](https://lobste.rs/s/qu7nqd/mixlist_org_organize_your_spotify) - [mixlist.org - organize your spotify library](https://mixlist.org)

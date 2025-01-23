@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 23:18:39](https://lobste.rs/s/nfmxqw/gcal_sync_sync_events_across_different) - [gcal-sync: Sync events across different calendars](https://github.com/drmorr0/gcal-sync)
+* [2025-01-23, 22:51:54](https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus) - [SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel](https://jprx.io/cve-2024-54507/)
 * [2025-01-23, 20:53:11](https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible) - [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
 * [2025-01-23, 20:30:14](https://lobste.rs/s/db8wcx/eve_programming_language) - [Eve Programming Language](https://witheve.com/)
 * [2025-01-23, 19:08:41](https://lobste.rs/s/ifbnmh/dusa_programming_language) - [The Dusa Programming Language](https://dusa.rocks/docs/)
@@ -17,12 +19,10 @@
 * [2025-01-23, 09:54:24](https://lobste.rs/s/qobfje/bun_1_2) - [Bun 1.2](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 09:24:03](https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source) - [Creating a highly-integrated open-source laptop from scratch](https://byran.ee/posts/creation/)
 * [2025-01-23, 08:16:50](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c) - [tell me of weird, obscure, or proprietary C compilers and environments past and present](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c)
-* [2025-01-23, 06:37:40](https://lobste.rs/s/tfudi0/disks_rs_disk_handling_with_rust) - [disks-rs: Disk handling with Rust](https://github.com/serpent-os/disks-rs)
 * [2025-01-23, 06:36:38](https://lobste.rs/s/73qifn/verified_efficient_matching_regular) - [Verified and Efficient Matching of Regular Expressions with Lookaround](https://github.com/Agnishom/lregex)
 * [2025-01-23, 05:28:07](https://lobste.rs/s/hszahb/first_release_openvox_community_fork) - [First release of OpenVox, the community fork of Puppet](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
 * [2025-01-22, 22:08:05](https://lobste.rs/s/j1zf5e/mastercard_dns_error_went_unnoticed_for) - [MasterCard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
-* [2025-01-22, 20:34:16](https://lobste.rs/s/2sbgxk/juggler_s_curse) - [The Juggler's Curse](https://buttondown.com/hillelwayne/archive/the-jugglers-curse/)
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 
