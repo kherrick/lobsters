@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-23, 10:19:23](https://lobste.rs/s/4hv7sc/denuvo_analysis) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
 * [2025-01-23, 10:15:50](https://lobste.rs/s/p1fgqs/about_safety_security_yes_c_rust_2023) - [About Safety, Security and yes, C++ and Rust (2023)](https://yoric.github.io/post/safety-and-security/)
 * [2025-01-23, 09:54:24](https://lobste.rs/s/qobfje/bun_1_2) - [Bun 1.2](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 08:30:12](https://lobste.rs/s/qqkzry/bbs_petscii_1986_1993) - [BBS PETSCII, 1986-1993](https://text-mode.org/?p=27470)
@@ -12,7 +13,6 @@
 * [2025-01-23, 06:36:38](https://lobste.rs/s/73qifn/verified_efficient_matching_regular) - [Verified and Efficient Matching of Regular Expressions with Lookaround](https://github.com/Agnishom/lregex)
 * [2025-01-23, 05:28:07](https://lobste.rs/s/hszahb/first_release_openvox_community_fork) - [First release of OpenVox, the community fork of Puppet](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
-* [2025-01-23, 01:04:40](https://lobste.rs/s/gz5fra/fundamental_theory_ada_type_model_2007) - [Fundamental Theory of Ada: Type Model (2007)](https://web.archive.org/web/20170530221312/http://blog.kickin-the-darkness.com/2007/08/fundamental-theory-of-ada.html)
 * [2025-01-22, 23:31:37](https://lobste.rs/s/lxljyj/why_don_t_constructors_have_override) - [Why don't constructors have override checking?](https://blog.jez.io/constructor-override-checking/)
 * [2025-01-22, 22:08:05](https://lobste.rs/s/j1zf5e/mastercard_dns_error_went_unnoticed_for) - [MasterCard DNS Error Went Unnoticed for Years](https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/)
 * [2025-01-22, 20:36:52](https://lobste.rs/s/rziph3/using_most_unhinged_avx_512_instruction) - [Using the most unhinged AVX-512 instruction to make the fastest phrase search algorithm](https://gab-menezes.github.io/2025/01/13/using-the-most-unhinged-avx-512-instruction-to-make-the-fastest-phrase-search-algo.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 10:19:23](https://lobste.rs/s/4hv7sc/denuvo_analysis) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
 * [2025-01-23, 10:15:50](https://lobste.rs/s/p1fgqs/about_safety_security_yes_c_rust_2023) - [About Safety, Security and yes, C++ and Rust (2023)](https://yoric.github.io/post/safety-and-security/)
 * [2025-01-23, 09:54:24](https://lobste.rs/s/qobfje/bun_1_2) - [Bun 1.2](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 09:24:03](https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source) - [Creating a highly-integrated open-source laptop from scratch](https://byran.ee/posts/creation/)
