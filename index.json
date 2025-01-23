@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-23, 23:18:39",
+      "https://lobste.rs/s/nfmxqw/gcal_sync_sync_events_across_different"
+    ],
+    [
+      "gcal-sync: Sync events across different calendars",
+      "https://github.com/drmorr0/gcal-sync"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 22:51:54",
+      "https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus"
+    ],
+    [
+      "SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel",
+      "https://jprx.io/cve-2024-54507/"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 20:53:11",
       "https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-01-23, 06:37:40",
-      "https://lobste.rs/s/tfudi0/disks_rs_disk_handling_with_rust"
-    ],
-    [
-      "disks-rs: Disk handling with Rust",
-      "https://github.com/serpent-os/disks-rs"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 06:36:38",
       "https://lobste.rs/s/73qifn/verified_efficient_matching_regular"
     ],
@@ -217,16 +227,6 @@
     [
       "MasterCard DNS Error Went Unnoticed for Years",
       "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 20:34:16",
-      "https://lobste.rs/s/2sbgxk/juggler_s_curse"
-    ],
-    [
-      "The Juggler's Curse",
-      "https://buttondown.com/hillelwayne/archive/the-jugglers-curse/"
     ]
   ],
   [
