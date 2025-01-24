@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-24, 07:59:58",
+      "https://lobste.rs/s/i6rklj/plank_reloaded_still_stupidly_simple"
+    ],
+    [
+      "Plank Reloaded: Still Stupidly Simple",
+      "https://thoughts.greyh.at/posts/plank-reloaded/"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 04:50:14",
       "https://lobste.rs/s/01bsvv/december_project_goals_update_rust_blog"
     ],
@@ -107,16 +117,6 @@
     [
       "Stealing HttpOnly cookies with the cookie sandwich technique",
       "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 15:53:12",
-      "https://lobste.rs/s/ggbjbg/shifting_cyber_norms_microsoft_security"
-    ],
-    [
-      "Shifting Cyber Norms: Microsoft security POST-ing to you",
-      "https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/"
     ]
   ],
   [
