@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 11:03:33](https://lobste.rs/s/ryhav2/mankier_html_man_pages) - [ManKier - HTML man pages](https://www.mankier.com/)
+* [2025-01-24, 10:59:15](https://lobste.rs/s/mzcu6b/buzz_0_5_0_release) - [buzz 0.5.0 release](https://github.com/buzz-language/buzz/releases/tag/0.5.0)
 * [2025-01-24, 10:06:12](https://lobste.rs/s/1yfifv/capturing_screenshots_with_rust_opengl) - [Capturing screenshots with Rust + OpenGL (2018)](https://tonyfinn.com/blog/opengl-rust-screenshots/)
 * [2025-01-24, 09:44:08](https://lobste.rs/s/qy04po/google_s_official_url_shortcut_is) - [Google's official URL shortcut is compromised](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
 * [2025-01-24, 09:30:55](https://lobste.rs/s/5m8vpa/results_big_array_size_survey_for_c) - [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results)
