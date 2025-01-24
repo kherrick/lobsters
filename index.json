@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-24, 13:35:45",
+      "https://lobste.rs/s/vbv3od/docker_hub_seemingly_drops_sponsored"
+    ],
+    [
+      "Docker Hub seemingly drops sponsored open source program",
+      "https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 13:24:02",
       "https://lobste.rs/s/ia9quc/j_magic_show_magic_packets_where_find_them"
     ],
@@ -37,6 +47,16 @@
     [
       "Guix User and Contributor Survey 2024: The Results (part 2)",
       "https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-2/"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 11:03:33",
+      "https://lobste.rs/s/ryhav2/mankier_html_man_pages"
+    ],
+    [
+      "ManKier - HTML man pages",
+      "https://www.mankier.com/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-01-23, 22:01:26",
-      "https://lobste.rs/s/uagsic/who_is_bright_data_into_create_protection"
-    ],
-    [
-      "Who is Bright Data? Into the \"Create: Protection Pixel\" junkware",
-      "https://highlysuspect.agency/posts/who_is_bright_data/"
-    ]
-  ],
-  [
-    [
       "2025-01-23, 20:53:11",
       "https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible"
     ],
@@ -207,16 +217,6 @@
     [
       "CVSS is dead to us",
       "https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 10:19:23",
-      "https://lobste.rs/s/4hv7sc/denuvo_analysis"
-    ],
-    [
-      "Denuvo Analysis",
-      "https://connorjaydunn.github.io/blog/posts/denuvo-analysis/"
     ]
   ],
   [
