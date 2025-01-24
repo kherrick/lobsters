@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-01-24, 13:35:45",
-      "https://lobste.rs/s/vbv3od/docker_hub_seemingly_drops_sponsored"
+      "2025-01-24, 14:28:03",
+      "https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative"
     ],
     [
-      "Docker Hub seemingly drops sponsored open source program",
-      "https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub"
+      "Tilde, my LLVM alternative",
+      "https://yasserarg.com/tb"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 14:25:01",
+      "https://lobste.rs/s/eei735/state_vim"
+    ],
+    [
+      "The state of Vim",
+      "https://lwn.net/Articles/1002342/"
+    ]
+  ],
+  [
+    [
+      "2025-01-24, 14:13:41",
+      "https://lobste.rs/s/2pwkpr/cutecat_concolic_execution_for"
+    ],
+    [
+      "CUTECat: Concolic Execution for Computational Law",
+      "https://arxiv.org/pdf/2410.18212"
     ]
   ],
   [
@@ -137,26 +157,6 @@
     [
       "Extraction of Secrets from 40nm CMOS Gate Dielectric Breakdown Antifuses by FIB Passive Voltage Contrast",
       "https://arxiv.org/abs/2501.13276"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 23:23:28",
-      "https://lobste.rs/s/y8ho9d/my_impressions_gleam"
-    ],
-    [
-      "My impressions of Gleam",
-      "https://snarky.ca/my-impressions-of-gleam/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 22:51:54",
-      "https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus"
-    ],
-    [
-      "SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel",
-      "https://jprx.io/cve-2024-54507/"
     ]
   ],
   [
