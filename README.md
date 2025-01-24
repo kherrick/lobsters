@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-24, 07:59:58](https://lobste.rs/s/i6rklj/plank_reloaded_still_stupidly_simple) - [Plank Reloaded: Still Stupidly Simple](https://thoughts.greyh.at/posts/plank-reloaded/)
 * [2025-01-24, 04:50:14](https://lobste.rs/s/01bsvv/december_project_goals_update_rust_blog) - [December Project Goals Update | Rust Blog](https://blog.rust-lang.org/2025/01/23/Project-Goals-Dec-Update.html)
 * [2025-01-24, 01:25:13](https://lobste.rs/s/dlhvt2/extraction_secrets_from_40nm_cmos_gate) - [Extraction of Secrets from 40nm CMOS Gate Dielectric Breakdown Antifuses by FIB Passive Voltage Contrast](https://arxiv.org/abs/2501.13276)
 * [2025-01-23, 23:23:28](https://lobste.rs/s/y8ho9d/my_impressions_gleam) - [My impressions of Gleam](https://snarky.ca/my-impressions-of-gleam/)
@@ -11,7 +12,6 @@
 * [2025-01-23, 18:46:27](https://lobste.rs/s/omry4j/comparing_rust_actor_libraries) - [Comparing Rust Actor Libraries](https://theari.dev/blog/comparing-rust-actor-libraries/)
 * [2025-01-23, 18:01:48](https://lobste.rs/s/m7zx9r/invalid_niger_nameservers_com_zone) - [Invalid Niger Nameservers in the com zone](https://0xda.de/blog/2025/01/invalid-niger-nameservers-in-the-com-zone/)
 * [2025-01-23, 16:40:05](https://lobste.rs/s/9w4w3x/stealing_httponly_cookies_with_cookie) - [Stealing HttpOnly cookies with the cookie sandwich technique](https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique)
-* [2025-01-23, 15:53:12](https://lobste.rs/s/ggbjbg/shifting_cyber_norms_microsoft_security) - [Shifting Cyber Norms: Microsoft security POST-ing to you](https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/)
 * [2025-01-23, 15:09:38](https://lobste.rs/s/dsh4fq/hacking_subaru_tracking_controlling) - [Hacking Subaru: Tracking and Controlling Cars via the STARLINK Admin Panel](https://samcurry.net/hacking-subaru)
 * [2025-01-23, 13:37:40](https://lobste.rs/s/45n2xd/mythical_io_bound_rails_app) - [The Mythical IO-Bound Rails App](https://byroot.github.io/ruby/performance/2025/01/23/the-mythical-io-bound-rails-app.html)
 * [2025-01-23, 13:13:28](https://lobste.rs/s/cyc4bj/british_micro_behemoth) - [The British Micro Behemoth](https://www.abortretry.fail/p/the-british-micro-behemoth)
