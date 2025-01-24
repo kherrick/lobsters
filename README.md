@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-24, 19:01:10](https://lobste.rs/s/xrsg56/alibaba_datadog_quesma_join_forces_on_go) - [Alibaba, Datadog, and Quesma Join Forces on Go Compile-Time Instrumentation](https://opentelemetry.io/blog/2025/go-compile-time-instrumentation/)
 * [2025-01-24, 17:40:27](https://lobste.rs/s/7qjns1/ai_s_influence_on_engineering_analytics) - [AI's Influence on Engineering Analytics and DORA](https://www.coderabbit.ai/blog/downstream-impact-of-ai-on-engineering-analytics-and-dora)
 * [2025-01-24, 17:07:21](https://lobste.rs/s/ymci71/tabboo_add_random_jumpscares_sites_you_re) - [TabBoo: Add random jumpscares to sites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-24, 16:50:08](https://lobste.rs/s/aheves/webassembly_compiler_fits_tweet) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet)
@@ -8,7 +9,6 @@
 * [2025-01-24, 14:28:03](https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative) - [Tilde, my LLVM alternative](https://yasserarg.com/tb)
 * [2025-01-24, 14:25:01](https://lobste.rs/s/eei735/state_vim) - [The state of Vim](https://lwn.net/Articles/1002342/)
 * [2025-01-24, 14:13:41](https://lobste.rs/s/2pwkpr/cutecat_concolic_execution_for) - [CUTECat: Concolic Execution for Computational Law](https://arxiv.org/pdf/2410.18212)
-* [2025-01-24, 13:24:02](https://lobste.rs/s/ia9quc/j_magic_show_magic_packets_where_find_them) - [The J-Magic Show: Magic Packets and Where to find them](https://blog.lumen.com/the-j-magic-show-magic-packets-and-where-to-find-them/)
 * [2025-01-24, 13:19:35](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend)
 * [2025-01-24, 12:52:35](https://lobste.rs/s/a5vkze/build_it_yourself) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
 * [2025-01-24, 11:36:52](https://lobste.rs/s/cgvvhc/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 2)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-2/)
