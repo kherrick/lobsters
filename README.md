@@ -2,6 +2,7 @@
 
 * [2025-01-24, 04:50:14](https://lobste.rs/s/01bsvv/december_project_goals_update_rust_blog) - [December Project Goals Update | Rust Blog](https://blog.rust-lang.org/2025/01/23/Project-Goals-Dec-Update.html)
 * [2025-01-24, 01:25:13](https://lobste.rs/s/dlhvt2/extraction_secrets_from_40nm_cmos_gate) - [Extraction of Secrets from 40nm CMOS Gate Dielectric Breakdown Antifuses by FIB Passive Voltage Contrast](https://arxiv.org/abs/2501.13276)
+* [2025-01-23, 23:23:28](https://lobste.rs/s/y8ho9d/my_impressions_gleam) - [My impressions of Gleam](https://snarky.ca/my-impressions-of-gleam/)
 * [2025-01-23, 22:51:54](https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus) - [SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel](https://jprx.io/cve-2024-54507/)
 * [2025-01-23, 22:01:26](https://lobste.rs/s/uagsic/who_is_bright_data_into_create_protection) - [Who is Bright Data? Into the \"Create: Protection Pixel\" junkware](https://highlysuspect.agency/posts/who_is_bright_data/)
 * [2025-01-23, 20:53:11](https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible) - [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
@@ -20,7 +21,6 @@
 * [2025-01-23, 09:54:24](https://lobste.rs/s/qobfje/bun_1_2) - [Bun 1.2](https://bun.sh/blog/bun-v1.2)
 * [2025-01-23, 09:24:03](https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source) - [Creating a highly-integrated open-source laptop from scratch](https://byran.ee/posts/creation/)
 * [2025-01-23, 08:16:50](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c) - [tell me of weird, obscure, or proprietary C compilers and environments past and present](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c)
-* [2025-01-23, 06:36:38](https://lobste.rs/s/73qifn/verified_efficient_matching_regular) - [Verified and Efficient Matching of Regular Expressions with Lookaround](https://github.com/Agnishom/lregex)
 * [2025-01-23, 05:28:07](https://lobste.rs/s/hszahb/first_release_openvox_community_fork) - [First release of OpenVox, the community fork of Puppet](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
 * [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-23](index.md)
 
+* [2025-01-23, 23:23:28](https://lobste.rs/s/y8ho9d/my_impressions_gleam) - [My impressions of Gleam](https://snarky.ca/my-impressions-of-gleam/)
 * [2025-01-23, 23:18:39](https://lobste.rs/s/nfmxqw/gcal_sync_sync_events_across_different) - [gcal-sync: Sync events across different calendars](https://github.com/drmorr0/gcal-sync)
 * [2025-01-23, 22:51:54](https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus) - [SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel](https://jprx.io/cve-2024-54507/)
 * [2025-01-23, 22:01:26](https://lobste.rs/s/uagsic/who_is_bright_data_into_create_protection) - [Who is Bright Data? Into the \"Create: Protection Pixel\" junkware](https://highlysuspect.agency/posts/who_is_bright_data/)
