@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-24, 09:44:08",
+      "https://lobste.rs/s/qy04po/google_s_official_url_shortcut_is"
+    ],
+    [
+      "Google's official URL shortcut is compromised",
+      "https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 09:30:55",
       "https://lobste.rs/s/5m8vpa/results_big_array_size_survey_for_c"
     ],
@@ -127,16 +137,6 @@
     [
       "Invalid Niger Nameservers in the com zone",
       "https://0xda.de/blog/2025/01/invalid-niger-nameservers-in-the-com-zone/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 16:40:05",
-      "https://lobste.rs/s/9w4w3x/stealing_httponly_cookies_with_cookie"
-    ],
-    [
-      "Stealing HttpOnly cookies with the cookie sandwich technique",
-      "https://portswigger.net/research/stealing-httponly-cookies-with-the-cookie-sandwich-technique"
     ]
   ],
   [
