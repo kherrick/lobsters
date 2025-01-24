@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-24, 09:30:55](https://lobste.rs/s/5m8vpa/results_big_array_size_survey_for_c) - [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results)
 * [2025-01-24, 08:31:29](https://lobste.rs/s/whskpr/javascript_temporal_is_coming) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-24, 07:59:58](https://lobste.rs/s/i6rklj/plank_reloaded_still_stupidly_simple) - [Plank Reloaded: Still Stupidly Simple](https://thoughts.greyh.at/posts/plank-reloaded/)
 * [2025-01-24, 04:50:14](https://lobste.rs/s/01bsvv/december_project_goals_update_rust_blog) - [December Project Goals Update | Rust Blog](https://blog.rust-lang.org/2025/01/23/Project-Goals-Dec-Update.html)
@@ -23,7 +24,6 @@
 * [2025-01-23, 08:16:50](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c) - [tell me of weird, obscure, or proprietary C compilers and environments past and present](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c)
 * [2025-01-23, 05:28:07](https://lobste.rs/s/hszahb/first_release_openvox_community_fork) - [First release of OpenVox, the community fork of Puppet](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)
-* [2025-01-22, 19:33:25](https://lobste.rs/s/vzzxtm/oleg_s_programming_site) - [Oleg's Programming Site](https://okmij.org/ftp/)
 * [2025-01-22, 19:11:14](https://lobste.rs/s/8wiikn/c_stdlib_isn_t_threadsafe_even_safe_rust) - [C stdlib isn’t threadsafe and even safe Rust didn’t save us](https://www.edgedb.com/blog/c-stdlib-isn-t-threadsafe-and-even-safe-rust-didn-t-save-us)
 
 ## [Archives](archives/index.md)

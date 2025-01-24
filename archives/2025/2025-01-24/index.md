@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 09:30:55](https://lobste.rs/s/5m8vpa/results_big_array_size_survey_for_c) - [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results)
 * [2025-01-24, 08:31:29](https://lobste.rs/s/whskpr/javascript_temporal_is_coming) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-24, 07:59:58](https://lobste.rs/s/i6rklj/plank_reloaded_still_stupidly_simple) - [Plank Reloaded: Still Stupidly Simple](https://thoughts.greyh.at/posts/plank-reloaded/)
 * [2025-01-24, 04:50:14](https://lobste.rs/s/01bsvv/december_project_goals_update_rust_blog) - [December Project Goals Update | Rust Blog](https://blog.rust-lang.org/2025/01/23/Project-Goals-Dec-Update.html)
