@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-01-24, 19:01:10](https://lobste.rs/s/xrsg56/alibaba_datadog_quesma_join_forces_on_go) - [Alibaba, Datadog, and Quesma Join Forces on Go Compile-Time Instrumentation](https://opentelemetry.io/blog/2025/go-compile-time-instrumentation/)
+* [2025-01-24, 18:32:38](https://lobste.rs/s/xu2de3/what_i_ve_learned_about_writing_ai_apps_so) - [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
 * [2025-01-24, 17:40:27](https://lobste.rs/s/7qjns1/ai_s_influence_on_engineering_analytics) - [AI's Influence on Engineering Analytics and DORA](https://www.coderabbit.ai/blog/downstream-impact-of-ai-on-engineering-analytics-and-dora)
 * [2025-01-24, 17:07:21](https://lobste.rs/s/ymci71/tabboo_add_random_jumpscares_sites_you_re) - [TabBoo: Add random jumpscares to sites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-24, 16:50:08](https://lobste.rs/s/aheves/webassembly_compiler_fits_tweet) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet)
@@ -18,7 +19,6 @@
 * [2025-01-24, 09:30:55](https://lobste.rs/s/5m8vpa/results_big_array_size_survey_for_c) - [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results)
 * [2025-01-24, 08:31:29](https://lobste.rs/s/whskpr/javascript_temporal_is_coming) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-24, 07:59:58](https://lobste.rs/s/i6rklj/plank_reloaded_still_stupidly_simple) - [Plank Reloaded: Still Stupidly Simple](https://thoughts.greyh.at/posts/plank-reloaded/)
-* [2025-01-24, 04:50:14](https://lobste.rs/s/01bsvv/december_project_goals_update) - [December Project Goals Update](https://blog.rust-lang.org/2025/01/23/Project-Goals-Dec-Update.html)
 * [2025-01-23, 20:53:11](https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible) - [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
 * [2025-01-23, 20:30:14](https://lobste.rs/s/db8wcx/eve_programming_language) - [Eve Programming Language](https://witheve.com/)
 * [2025-01-23, 19:08:41](https://lobste.rs/s/ifbnmh/dusa_programming_language) - [The Dusa Programming Language](https://dusa.rocks/docs/)

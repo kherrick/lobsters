@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
 * [2025-01-24, 19:01:10](https://lobste.rs/s/xrsg56/alibaba_datadog_quesma_join_forces_on_go) - [Alibaba, Datadog, and Quesma Join Forces on Go Compile-Time Instrumentation](https://opentelemetry.io/blog/2025/go-compile-time-instrumentation/)
+* [2025-01-24, 18:32:38](https://lobste.rs/s/xu2de3/what_i_ve_learned_about_writing_ai_apps_so) - [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
 * [2025-01-24, 17:40:27](https://lobste.rs/s/7qjns1/ai_s_influence_on_engineering_analytics) - [AI's Influence on Engineering Analytics and DORA](https://www.coderabbit.ai/blog/downstream-impact-of-ai-on-engineering-analytics-and-dora)
 * [2025-01-24, 17:07:21](https://lobste.rs/s/ymci71/tabboo_add_random_jumpscares_sites_you_re) - [TabBoo: Add random jumpscares to sites you're trying to avoid](https://tabboo.xyz/)
 * [2025-01-24, 16:50:08](https://lobste.rs/s/aheves/webassembly_compiler_fits_tweet) - [A WebAssembly compiler that fits in a tweet](https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet)
