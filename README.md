@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-24, 04:50:14](https://lobste.rs/s/01bsvv/december_project_goals_update_rust_blog) - [December Project Goals Update | Rust Blog](https://blog.rust-lang.org/2025/01/23/Project-Goals-Dec-Update.html)
 * [2025-01-24, 01:25:13](https://lobste.rs/s/dlhvt2/extraction_secrets_from_40nm_cmos_gate) - [Extraction of Secrets from 40nm CMOS Gate Dielectric Breakdown Antifuses by FIB Passive Voltage Contrast](https://arxiv.org/abs/2501.13276)
-* [2025-01-23, 23:18:39](https://lobste.rs/s/nfmxqw/gcal_sync_sync_events_across_different) - [gcal-sync: Sync events across different calendars](https://github.com/drmorr0/gcal-sync)
 * [2025-01-23, 22:51:54](https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus) - [SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel](https://jprx.io/cve-2024-54507/)
 * [2025-01-23, 22:01:26](https://lobste.rs/s/uagsic/who_is_bright_data_into_create_protection) - [Who is Bright Data? Into the \"Create: Protection Pixel\" junkware](https://highlysuspect.agency/posts/who_is_bright_data/)
 * [2025-01-23, 20:53:11](https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible) - [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
