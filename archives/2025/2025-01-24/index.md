@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 14:28:03](https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative) - [Tilde, my LLVM alternative](https://yasserarg.com/tb)
+* [2025-01-24, 14:25:01](https://lobste.rs/s/eei735/state_vim) - [The state of Vim](https://lwn.net/Articles/1002342/)
+* [2025-01-24, 14:13:41](https://lobste.rs/s/2pwkpr/cutecat_concolic_execution_for) - [CUTECat: Concolic Execution for Computational Law](https://arxiv.org/pdf/2410.18212)
 * [2025-01-24, 13:35:45](https://lobste.rs/s/vbv3od/docker_hub_seemingly_drops_sponsored) - [Docker Hub seemingly drops sponsored open source program](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
 * [2025-01-24, 13:24:02](https://lobste.rs/s/ia9quc/j_magic_show_magic_packets_where_find_them) - [The J-Magic Show: Magic Packets and Where to find them](https://blog.lumen.com/the-j-magic-show-magic-packets-and-where-to-find-them/)
 * [2025-01-24, 13:19:35](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend)

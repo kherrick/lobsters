@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-24, 13:35:45](https://lobste.rs/s/vbv3od/docker_hub_seemingly_drops_sponsored) - [Docker Hub seemingly drops sponsored open source program](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
+* [2025-01-24, 14:28:03](https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative) - [Tilde, my LLVM alternative](https://yasserarg.com/tb)
+* [2025-01-24, 14:25:01](https://lobste.rs/s/eei735/state_vim) - [The state of Vim](https://lwn.net/Articles/1002342/)
+* [2025-01-24, 14:13:41](https://lobste.rs/s/2pwkpr/cutecat_concolic_execution_for) - [CUTECat: Concolic Execution for Computational Law](https://arxiv.org/pdf/2410.18212)
 * [2025-01-24, 13:24:02](https://lobste.rs/s/ia9quc/j_magic_show_magic_packets_where_find_them) - [The J-Magic Show: Magic Packets and Where to find them](https://blog.lumen.com/the-j-magic-show-magic-packets-and-where-to-find-them/)
 * [2025-01-24, 13:19:35](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend)
 * [2025-01-24, 12:52:35](https://lobste.rs/s/a5vkze/build_it_yourself) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
@@ -14,8 +16,6 @@
 * [2025-01-24, 07:59:58](https://lobste.rs/s/i6rklj/plank_reloaded_still_stupidly_simple) - [Plank Reloaded: Still Stupidly Simple](https://thoughts.greyh.at/posts/plank-reloaded/)
 * [2025-01-24, 04:50:14](https://lobste.rs/s/01bsvv/december_project_goals_update) - [December Project Goals Update](https://blog.rust-lang.org/2025/01/23/Project-Goals-Dec-Update.html)
 * [2025-01-24, 01:25:13](https://lobste.rs/s/dlhvt2/extraction_secrets_from_40nm_cmos_gate) - [Extraction of Secrets from 40nm CMOS Gate Dielectric Breakdown Antifuses by FIB Passive Voltage Contrast](https://arxiv.org/abs/2501.13276)
-* [2025-01-23, 23:23:28](https://lobste.rs/s/y8ho9d/my_impressions_gleam) - [My impressions of Gleam](https://snarky.ca/my-impressions-of-gleam/)
-* [2025-01-23, 22:51:54](https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus) - [SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel](https://jprx.io/cve-2024-54507/)
 * [2025-01-23, 20:53:11](https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible) - [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
 * [2025-01-23, 20:30:14](https://lobste.rs/s/db8wcx/eve_programming_language) - [Eve Programming Language](https://witheve.com/)
 * [2025-01-23, 19:08:41](https://lobste.rs/s/ifbnmh/dusa_programming_language) - [The Dusa Programming Language](https://dusa.rocks/docs/)
