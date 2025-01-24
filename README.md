@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-24, 11:36:52](https://lobste.rs/s/cgvvhc/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 2)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-2/)
 * [2025-01-24, 10:59:15](https://lobste.rs/s/mzcu6b/buzz_0_5_0_release) - [buzz 0.5.0 release](https://github.com/buzz-language/buzz/releases/tag/0.5.0)
 * [2025-01-24, 10:06:12](https://lobste.rs/s/1yfifv/capturing_screenshots_with_rust_opengl) - [Capturing screenshots with Rust + OpenGL (2018)](https://tonyfinn.com/blog/opengl-rust-screenshots/)
 * [2025-01-24, 09:44:08](https://lobste.rs/s/qy04po/google_s_official_url_shortcut_is) - [Google's official URL shortcut is compromised](https://gist.github.com/zachlatta/f86317493654b550c689dc6509973aa4)
@@ -20,7 +21,6 @@
 * [2025-01-23, 11:38:49](https://lobste.rs/s/tvqmjb/cvss_is_dead_us) - [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/)
 * [2025-01-23, 10:19:23](https://lobste.rs/s/4hv7sc/denuvo_analysis) - [Denuvo Analysis](https://connorjaydunn.github.io/blog/posts/denuvo-analysis/)
 * [2025-01-23, 09:54:24](https://lobste.rs/s/qobfje/bun_1_2) - [Bun 1.2](https://bun.sh/blog/bun-v1.2)
-* [2025-01-23, 09:24:03](https://lobste.rs/s/vnhvih/creating_highly_integrated_open_source) - [Creating a highly-integrated open-source laptop from scratch](https://byran.ee/posts/creation/)
 * [2025-01-23, 08:16:50](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c) - [tell me of weird, obscure, or proprietary C compilers and environments past and present](https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c)
 * [2025-01-23, 05:28:07](https://lobste.rs/s/hszahb/first_release_openvox_community_fork) - [First release of OpenVox, the community fork of Puppet](https://voxpupuli.org/blog/2025/01/21/openvox-release/)
 * [2025-01-23, 03:24:04](https://lobste.rs/s/im1wnu/tailwind_css_v4_0) - [Tailwind CSS v4.0](https://tailwindcss.com/blog/tailwindcss-v4)

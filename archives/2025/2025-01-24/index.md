@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 11:36:52](https://lobste.rs/s/cgvvhc/guix_user_contributor_survey_2024) - [Guix User and Contributor Survey 2024: The Results (part 2)](https://guix.gnu.org/en/blog/2025/guix-user-and-contributor-survey-2024-the-results-part-2/)
 * [2025-01-24, 11:03:33](https://lobste.rs/s/ryhav2/mankier_html_man_pages) - [ManKier - HTML man pages](https://www.mankier.com/)
 * [2025-01-24, 10:59:15](https://lobste.rs/s/mzcu6b/buzz_0_5_0_release) - [buzz 0.5.0 release](https://github.com/buzz-language/buzz/releases/tag/0.5.0)
 * [2025-01-24, 10:06:12](https://lobste.rs/s/1yfifv/capturing_screenshots_with_rust_opengl) - [Capturing screenshots with Rust + OpenGL (2018)](https://tonyfinn.com/blog/opengl-rust-screenshots/)
