@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-24](index.md)
 
+* [2025-01-24, 13:35:45](https://lobste.rs/s/vbv3od/docker_hub_seemingly_drops_sponsored) - [Docker Hub seemingly drops sponsored open source program](https://www.linuxserver.io/blog/we-need-to-talk-about-docker-hub)
 * [2025-01-24, 13:24:02](https://lobste.rs/s/ia9quc/j_magic_show_magic_packets_where_find_them) - [The J-Magic Show: Magic Packets and Where to find them](https://blog.lumen.com/the-j-magic-show-magic-packets-and-where-to-find-them/)
 * [2025-01-24, 13:19:35](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend)
 * [2025-01-24, 12:52:35](https://lobste.rs/s/a5vkze/build_it_yourself) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
