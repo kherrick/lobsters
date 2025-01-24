@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-01-23, 23:23:28",
+      "https://lobste.rs/s/y8ho9d/my_impressions_gleam"
+    ],
+    [
+      "My impressions of Gleam",
+      "https://snarky.ca/my-impressions-of-gleam/"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 22:51:54",
       "https://lobste.rs/s/nnby0x/susctl_cve_2024_54507_particularly_sus"
     ],
@@ -197,16 +207,6 @@
     [
       "tell me of weird, obscure, or proprietary C compilers and environments past and present",
       "https://lobste.rs/s/vhxvzd/tell_me_weird_obscure_proprietary_c"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 06:36:38",
-      "https://lobste.rs/s/73qifn/verified_efficient_matching_regular"
-    ],
-    [
-      "Verified and Efficient Matching of Regular Expressions with Lookaround",
-      "https://github.com/Agnishom/lregex"
     ]
   ],
   [
