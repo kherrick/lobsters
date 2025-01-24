@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-24, 01:25:13",
+      "https://lobste.rs/s/dlhvt2/extraction_secrets_from_40nm_cmos_gate"
+    ],
+    [
+      "Extraction of Secrets from 40nm CMOS Gate Dielectric Breakdown Antifuses by FIB Passive Voltage Contrast",
+      "https://arxiv.org/abs/2501.13276"
+    ]
+  ],
+  [
+    [
       "2025-01-23, 23:18:39",
       "https://lobste.rs/s/nfmxqw/gcal_sync_sync_events_across_different"
     ],
@@ -17,6 +27,16 @@
     [
       "SUSCTL (CVE-2024-54507) A particularly 'sus' sysctl in the XNU Kernel",
       "https://jprx.io/cve-2024-54507/"
+    ]
+  ],
+  [
+    [
+      "2025-01-23, 22:01:26",
+      "https://lobste.rs/s/uagsic/who_is_bright_data_into_create_protection"
+    ],
+    [
+      "Who is Bright Data? Into the \"Create: Protection Pixel\" junkware",
+      "https://highlysuspect.agency/posts/who_is_bright_data/"
     ]
   ],
   [
@@ -87,16 +107,6 @@
     [
       "Shifting Cyber Norms: Microsoft security POST-ing to you",
       "https://berthub.eu/articles/posts/shifting-cyber-norms-microsoft-post/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 15:39:36",
-      "https://lobste.rs/s/rocjot/judging_code"
-    ],
-    [
-      "Judging Code",
-      "https://registerspill.thorstenball.com/p/judging-code"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Tailwind CSS v4.0",
       "https://tailwindcss.com/blog/tailwindcss-v4"
-    ]
-  ],
-  [
-    [
-      "2025-01-22, 22:08:05",
-      "https://lobste.rs/s/j1zf5e/mastercard_dns_error_went_unnoticed_for"
-    ],
-    [
-      "MasterCard DNS Error Went Unnoticed for Years",
-      "https://krebsonsecurity.com/2025/01/mastercard-dns-error-went-unnoticed-for-years/"
     ]
   ],
   [
