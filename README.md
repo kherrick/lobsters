@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-25, 09:03:22](https://lobste.rs/s/4rfoaj/c_26_pack_indexing) - [C++26: pack indexing](https://www.sandordargo.com/blog/2025/01/22/cpp26-pack-indexing)
 * [2025-01-25, 08:23:32](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm) - [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/)
 * [2025-01-25, 07:00:15](https://lobste.rs/s/sr126x/tutorials_on_tinygrad) - [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/)
 * [2025-01-25, 06:42:24](https://lobste.rs/s/fibb44/regular_expressions_which_query_oracles) - [Regular Expressions which query Oracles](https://arxiv.org/abs/2410.13262)
@@ -15,7 +16,6 @@
 * [2025-01-24, 16:00:07](https://lobste.rs/s/zw14an/template_literal_types_typescript) - [Template literal types in TypeScript: parsing during type checking and more](https://2ality.com/2025/01/template-literal-types.html)
 * [2025-01-24, 14:28:03](https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative) - [Tilde, my LLVM alternative](https://yasserarg.com/tb)
 * [2025-01-24, 14:25:01](https://lobste.rs/s/eei735/state_vim) - [The state of Vim](https://lwn.net/Articles/1002342/)
-* [2025-01-24, 14:13:41](https://lobste.rs/s/2pwkpr/cutecat_concolic_execution_for) - [CUTECat: Concolic Execution for Computational Law](https://arxiv.org/pdf/2410.18212)
 * [2025-01-24, 13:19:35](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/mbdy2j/what_are_you_doing_this_weekend)
 * [2025-01-24, 12:52:35](https://lobste.rs/s/a5vkze/build_it_yourself) - [Build It Yourself](https://lucumr.pocoo.org/2025/1/24/build-it-yourself/)
 * [2025-01-24, 11:03:33](https://lobste.rs/s/ryhav2/mankier_html_man_pages) - [ManKier - HTML man pages](https://www.mankier.com/)
