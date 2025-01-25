@@ -151,6 +151,16 @@
   ],
   [
     [
+      "2025-01-24, 16:00:07",
+      "https://lobste.rs/s/zw14an/template_literal_types_typescript"
+    ],
+    [
+      "Template literal types in TypeScript: parsing during type checking and more",
+      "https://2ality.com/2025/01/template-literal-types.html"
+    ]
+  ],
+  [
+    [
       "2025-01-24, 14:28:03",
       "https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative"
     ],
@@ -237,16 +247,6 @@
     [
       "JavaScript Temporal is coming",
       "https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/"
-    ]
-  ],
-  [
-    [
-      "2025-01-23, 11:38:49",
-      "https://lobste.rs/s/tvqmjb/cvss_is_dead_us"
-    ],
-    [
-      "CVSS is dead to us",
-      "https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/"
     ]
   ]
 ]
