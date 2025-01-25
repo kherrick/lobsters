@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-25, 08:23:32](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm) - [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/)
 * [2025-01-25, 07:00:15](https://lobste.rs/s/sr126x/tutorials_on_tinygrad) - [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/)
 * [2025-01-25, 06:42:24](https://lobste.rs/s/fibb44/regular_expressions_which_query_oracles) - [Regular Expressions which query Oracles](https://arxiv.org/abs/2410.13262)
 * [2025-01-25, 03:35:19](https://lobste.rs/s/wzevin/trying_out_zed_after_more_than_decade_vim) - [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
@@ -23,7 +24,6 @@
 * [2025-01-24, 09:30:55](https://lobste.rs/s/5m8vpa/results_big_array_size_survey_for_c) - [Results! - The Big Array Size Survey for C](https://thephd.dev/the-big-array-size-survey-for-c-results)
 * [2025-01-24, 08:31:29](https://lobste.rs/s/whskpr/javascript_temporal_is_coming) - [JavaScript Temporal is coming](https://developer.mozilla.org/en-US/blog/javascript-temporal-is-coming/)
 * [2025-01-23, 20:53:11](https://lobste.rs/s/h8hv70/preview_fbounds_safety_is_now_accessible) - [The preview of -fbounds-safety is now accessible to the community](https://discourse.llvm.org/t/the-preview-of-fbounds-safety-is-now-accessible-to-the-community/84221)
-* [2025-01-23, 20:30:14](https://lobste.rs/s/db8wcx/eve_programming_language) - [Eve Programming Language](https://witheve.com/)
 * [2025-01-23, 11:38:49](https://lobste.rs/s/tvqmjb/cvss_is_dead_us) - [CVSS is dead to us](https://daniel.haxx.se/blog/2025/01/23/cvss-is-dead-to-us/)
 
 ## [Archives](archives/index.md)
