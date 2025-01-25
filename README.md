@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-25, 18:50:36](https://lobste.rs/s/jpdmbb/making_snes_game_way_nintendo_intended) - [Making an SNES Game the Way Nintendo Intended](https://www.youtube.com/watch?v=kYLJLJkVfLk)
 * [2025-01-25, 18:09:13](https://lobste.rs/s/1vgfey/sdl_3_2_0) - [SDL 3.2.0](https://github.com/libsdl-org/SDL/releases/tag/release-3.2.0)
 * [2025-01-25, 17:35:35](https://lobste.rs/s/vmyk7d/composable_sql) - [Composable SQL](https://borretti.me/article/composable-sql)
 * [2025-01-25, 16:34:50](https://lobste.rs/s/0kmpkv/updated_freebsd_bhyve_companion_tools) - [Updated FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/)
@@ -8,7 +9,6 @@
 * [2025-01-25, 14:31:45](https://lobste.rs/s/qsytzj/unix_print_driver_fun) - [Unix Print Driver Fun](https://jholloway.dev/posts/print-driver-fun/)
 * [2025-01-25, 08:23:32](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm) - [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/)
 * [2025-01-25, 07:00:15](https://lobste.rs/s/sr126x/tutorials_on_tinygrad) - [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/)
-* [2025-01-25, 06:42:24](https://lobste.rs/s/fibb44/regular_expressions_which_query_oracles) - [Regular Expressions which query Oracles](https://arxiv.org/abs/2410.13262)
 * [2025-01-25, 03:35:19](https://lobste.rs/s/wzevin/trying_out_zed_after_more_than_decade_vim) - [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
 * [2025-01-24, 22:45:34](https://lobste.rs/s/2r41of/drunken_plagiarists_working_with_co) - [The Drunken Plagiarists - Working with Co-pilots](https://queue.acm.org/detail.cfm?id=3711675&doi=10.1145%2F3711675)
 * [2025-01-24, 22:09:44](https://lobste.rs/s/line1v/vic_20_elite) - [VIC-20 Elite](https://vic20elite.wordpress.com/)
