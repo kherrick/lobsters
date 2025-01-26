@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-26](index.md)
 
+* [2025-01-26, 19:50:36](https://lobste.rs/s/w0cuh3/two_bites_data_science_k) - [Two Bites of Data Science in K](https://blog.zdsmith.com/posts/two-bites-of-data-science-in-k.html)
 * [2025-01-26, 19:29:16](https://lobste.rs/s/fqtxpv/openai_launches_operator_ai_agent_can_do) - [OpenAI launches Operator, an AI agent that can do tasks on the web](https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/)
 * [2025-01-26, 19:23:54](https://lobste.rs/s/sz09um/exploit_me_baby_one_more_time_command) - [Exploit Me, Baby, One More Time: Command Injection in Kubernetes Log Query](https://www.akamai.com/blog/security-research/2024-january-kubernetes-log-query-rce-windows)
 * [2025-01-26, 19:17:48](https://lobste.rs/s/pvnlp0/noria_fast_web_applications_through) - [noria: Fast web applications through dynamic, partially-stateful dataflow](https://github.com/mit-pdos/noria)
