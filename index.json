@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-26, 19:12:11",
+      "https://lobste.rs/s/dwulev/elementary_javascript_library_for"
+    ],
+    [
+      "elementary: a JavaScript library for digital audio signal processing",
+      "https://github.com/elemaudio/elementary"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 16:55:45",
       "https://lobste.rs/s/oxtwre/hard_numbers_wayland_vs_x11_input_latency"
     ],
@@ -207,16 +217,6 @@
     [
       "Trying out Zed after more than a decade of Vim/Neovim",
       "https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 16:50:08",
-      "https://lobste.rs/s/aheves/webassembly_compiler_fits_tweet"
-    ],
-    [
-      "A WebAssembly compiler that fits in a tweet",
-      "https://wasmgroundup.com/blog/wasm-compiler-in-a-tweet"
     ]
   ],
   [
