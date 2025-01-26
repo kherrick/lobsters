@@ -1,0 +1,8 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-01-26](index.md)
+
+* [2025-01-26, 00:48:45](https://lobste.rs/s/atihtk/snac2_simple_minimalistic_activitypub) - [snac2 - A simple, minimalistic ActivityPub instance written in portable C](https://codeberg.org/grunfink/snac2)
+* [2025-01-26, 00:32:00](https://lobste.rs/s/ciyxdv/engineers_don_t_make_public_squares) - [Engineers don't make public squares. People do](https://cpf.sh/blog/2025/01/25/engineers-dont-make-public-squares-people-do)

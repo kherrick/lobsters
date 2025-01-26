@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-26, 00:48:45](https://lobste.rs/s/atihtk/snac2_simple_minimalistic_activitypub) - [snac2 - A simple, minimalistic ActivityPub instance written in portable C](https://codeberg.org/grunfink/snac2)
+* [2025-01-26, 00:32:00](https://lobste.rs/s/ciyxdv/engineers_don_t_make_public_squares) - [Engineers don't make public squares. People do](https://cpf.sh/blog/2025/01/25/engineers-dont-make-public-squares-people-do)
 * [2025-01-25, 23:02:37](https://lobste.rs/s/0whmah/supreme_sexp_system_sss_lisp_machine) - [Supreme Sexp System - SSS - a Lisp machine adventure](https://codeberg.org/jjba23/sss)
 * [2025-01-25, 22:22:25](https://lobste.rs/s/o2hhjc/what_happened_text_colour) - [What happened to the text colour?](https://lobste.rs/s/o2hhjc/what_happened_text_colour)
 * [2025-01-25, 20:26:26](https://lobste.rs/s/j7chkt/invalid_68030_instruction_accidentally) - [The invalid 68030 instruction that accidentally allowed the Mac Classic II to successfully boot up](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/)
@@ -13,8 +15,6 @@
 * [2025-01-25, 08:23:32](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm) - [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/)
 * [2025-01-25, 07:00:15](https://lobste.rs/s/sr126x/tutorials_on_tinygrad) - [Tutorials on Tinygrad](https://mesozoic-egg.github.io/tinygrad-notes/)
 * [2025-01-25, 03:35:19](https://lobste.rs/s/wzevin/trying_out_zed_after_more_than_decade_vim) - [Trying out Zed after more than a decade of Vim/Neovim](https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/)
-* [2025-01-24, 22:09:44](https://lobste.rs/s/line1v/vic_20_elite) - [VIC-20 Elite](https://vic20elite.wordpress.com/)
-* [2025-01-24, 21:44:09](https://lobste.rs/s/r3hhuz/restoring_trust_online_communication) - [Restoring Trust in Online Communication in a Post-LLM Era](https://lobste.rs/s/r3hhuz/restoring_trust_online_communication)
 * [2025-01-24, 18:32:38](https://lobste.rs/s/xu2de3/what_i_ve_learned_about_writing_ai_apps_so) - [What I've learned about writing AI apps so far](https://seldo.com/posts/what-ive-learned-about-writing-ai-apps-so-far)
 * [2025-01-24, 17:59:13](https://lobste.rs/s/1juvjj/wild_very_fast_linker_for_linux) - [wild: A very fast linker for Linux](https://github.com/davidlattimore/wild)
 * [2025-01-24, 17:07:21](https://lobste.rs/s/ymci71/tabboo_add_random_jumpscares_sites_you_re) - [TabBoo: Add random jumpscares to sites you're trying to avoid](https://tabboo.xyz/)
