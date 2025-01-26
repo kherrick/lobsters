@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-26, 02:19:29",
+      "https://lobste.rs/s/bmwj0a/exploring_new_go_tool_support_go_1_24"
+    ],
+    [
+      "Exploring the new \"go tool\" support in Go 1.24",
+      "https://blog.howardjohn.info/posts/go-tools-command/"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 00:48:45",
       "https://lobste.rs/s/atihtk/snac2_simple_minimalistic_activitypub"
     ],
@@ -167,16 +177,6 @@
     [
       "wild: A very fast linker for Linux",
       "https://github.com/davidlattimore/wild"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 17:07:21",
-      "https://lobste.rs/s/ymci71/tabboo_add_random_jumpscares_sites_you_re"
-    ],
-    [
-      "TabBoo: Add random jumpscares to sites you're trying to avoid",
-      "https://tabboo.xyz/"
     ]
   ],
   [
