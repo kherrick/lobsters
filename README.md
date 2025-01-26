@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-26, 21:35:42](https://lobste.rs/s/zimti0/petrol_embedding_type_safe_sql_api_ocaml) - [Petrol: embedding a type-safe SQL API in OCaml using GADTs](https://kirancodes.me/posts/log-ways-of-sql-in-ocaml.html)
 * [2025-01-26, 19:50:36](https://lobste.rs/s/w0cuh3/two_bites_data_science_k) - [Two Bites of Data Science in K](https://blog.zdsmith.com/posts/two-bites-of-data-science-in-k.html)
 * [2025-01-26, 19:29:16](https://lobste.rs/s/fqtxpv/openai_launches_operator_ai_agent_can_do) - [OpenAI launches Operator, an AI agent that can do tasks on the web](https://arstechnica.com/ai/2025/01/openai-launches-operator-an-ai-agent-that-can-operate-your-computer/)
 * [2025-01-26, 19:23:54](https://lobste.rs/s/sz09um/exploit_me_baby_one_more_time_command) - [Exploit Me, Baby, One More Time: Command Injection in Kubernetes Log Query](https://www.akamai.com/blog/security-research/2024-january-kubernetes-log-query-rce-windows)
@@ -19,7 +20,6 @@
 * [2025-01-25, 20:26:26](https://lobste.rs/s/j7chkt/invalid_68030_instruction_accidentally) - [The invalid 68030 instruction that accidentally allowed the Mac Classic II to successfully boot up](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/)
 * [2025-01-25, 18:09:13](https://lobste.rs/s/1vgfey/sdl_3_2_0) - [SDL 3.2.0](https://github.com/libsdl-org/SDL/releases/tag/release-3.2.0)
 * [2025-01-25, 17:35:35](https://lobste.rs/s/vmyk7d/composable_sql) - [Composable SQL](https://borretti.me/article/composable-sql)
-* [2025-01-25, 16:34:50](https://lobste.rs/s/0kmpkv/updated_freebsd_bhyve_companion_tools) - [Updated FreeBSD Bhyve Companion Tools](https://vermaden.wordpress.com/2024/06/23/freebsd-bhyve-companion-tools/)
 * [2025-01-25, 16:33:28](https://lobste.rs/s/zol11z/use_monoids_for_construction) - [Use Monoids for Construction](https://reasonablypolymorphic.com/blog/use-monoids/index.html)
 * [2025-01-25, 14:38:21](https://lobste.rs/s/qjzguh/fizzbuzz_did_not_get_me_job) - [The fizzbuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7)
 * [2025-01-25, 08:23:32](https://lobste.rs/s/isrnzi/life_pro_tip_oracle_linux_is_best_local_vm) - [Life pro tip: Oracle Linux is the best local VM for MacBooks](https://xeiaso.net/notes/2025/k8s-dev-mac-oracle-linux/)
