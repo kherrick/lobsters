@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-27, 18:24:53](https://lobste.rs/s/cwkyc9/spritely_goblins_v0_15_0_goblins_browser) - [Spritely Goblins v0.15.0: Goblins in the browser! — Spritely Institute](https://www.spritely.institute/news/spritely-goblins-v0-15-0-goblins-in-the-browser.html)
 * [2025-01-27, 17:41:10](https://lobste.rs/s/sv3vhi/taylorator_all_your_frequencies_are) - [The Taylorator - All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 17:04:42](https://lobste.rs/s/xo6x6a/repeat_yourself_bit) - [Repeat Yourself, A Bit](https://blog.startifact.com/posts/repeat-yourself-a-bit/)
 * [2025-01-27, 15:53:50](https://lobste.rs/s/2wuzgd/rust_s_worst_feature) - [Rust’s worst feature](https://mina86.com/2025/rusts-worst-feature/)
@@ -23,7 +24,6 @@
 * [2025-01-26, 16:26:05](https://lobste.rs/s/tz23of/when_ai_promises_speed_delivers) - [When AI Promises Speed but Delivers Debugging Hell](https://nsavage.substack.com/p/when-ai-promises-speed-but-delivers)
 * [2025-01-26, 11:12:36](https://lobste.rs/s/en0mrm/cs16_css_css_library_based_on_counter) - [cs16.css: CSS library based on Counter Strike 1.6 UI](https://cs16.samke.me/)
 * [2025-01-26, 09:53:59](https://lobste.rs/s/x7lve1/foa_ferris_on_air_experimental_wi_fi_stack) - [FoA: Ferris-on-Air: An experimental Wi-Fi stack for rust on the ESP32](https://github.com/esp32-open-mac/FoA)
-* [2025-01-26, 00:48:45](https://lobste.rs/s/atihtk/snac2_simple_minimalistic_activitypub) - [snac2 - A simple, minimalistic ActivityPub instance written in portable C](https://codeberg.org/grunfink/snac2)
 * [2025-01-25, 14:38:21](https://lobste.rs/s/qjzguh/fizzbuzz_did_not_get_me_job) - [The fizzbuzz that did not get me the job](https://kranga.notion.site/The-fizzbuzz-that-did-not-get-me-the-job-180e7c22ef3b80c3a386f7f8de720ac7)
 
 ## [Archives](archives/index.md)
