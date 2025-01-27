@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 17:41:10",
+      "https://lobste.rs/s/sv3vhi/taylorator_all_your_frequencies_are"
+    ],
+    [
+      "The Taylorator - All Your Frequencies Are Belong to Us",
+      "https://www.scd31.com/posts/taylorator"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 17:04:42",
       "https://lobste.rs/s/xo6x6a/repeat_yourself_bit"
     ],
@@ -227,16 +237,6 @@
     [
       "FoA: Ferris-on-Air: An experimental Wi-Fi stack for rust on the ESP32",
       "https://github.com/esp32-open-mac/FoA"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 00:48:45",
-      "https://lobste.rs/s/atihtk/snac2_simple_minimalistic_activitypub"
-    ],
-    [
-      "snac2 - A simple, minimalistic ActivityPub instance written in portable C",
-      "https://codeberg.org/grunfink/snac2"
     ]
   ],
   [
