@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 22:07:22](https://lobste.rs/s/gey0py/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks (2024)](https://eieio.games/blog/scaling-one-million-checkboxes/)
 * [2025-01-27, 21:42:11](https://lobste.rs/s/qczsgz/building_personal_software_with_claude) - [Building personal software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/)
 * [2025-01-27, 21:18:08](https://lobste.rs/s/ke6k7y/pwru_packet_where_are_you_ebpf_based_linux) - [pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 * [2025-01-27, 20:33:34](https://lobste.rs/s/bjika7/google_open_sourced_pebble_os) - [Google open-sourced pebble OS](https://github.com/google/pebble)
