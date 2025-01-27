@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 06:58:37",
+      "https://lobste.rs/s/qvr98h/maps_are_faster_go_1_24"
+    ],
+    [
+      "Maps are faster in Go 1.24",
+      "https://www.bytesizego.com/blog/go-124-swiss-table-maps"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 03:14:45",
       "https://lobste.rs/s/pzr5nj/future_microprocessors"
     ],
@@ -167,16 +177,6 @@
     [
       "snac2 - A simple, minimalistic ActivityPub instance written in portable C",
       "https://codeberg.org/grunfink/snac2"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 00:32:00",
-      "https://lobste.rs/s/ciyxdv/engineers_don_t_make_public_squares"
-    ],
-    [
-      "Engineers don't make public squares. People do",
-      "https://cpf.sh/blog/2025/01/25/engineers-dont-make-public-squares-people-do"
     ]
   ],
   [
