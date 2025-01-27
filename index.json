@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 21:18:08",
+      "https://lobste.rs/s/ke6k7y/pwru_packet_where_are_you_ebpf_based_linux"
+    ],
+    [
+      "pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger",
+      "https://github.com/cilium/pwru"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 20:33:34",
       "https://lobste.rs/s/bjika7/google_open_sourced_pebble_os"
     ],
@@ -237,16 +247,6 @@
     [
       "Hard numbers in the Wayland vs X11 input latency discussion",
       "https://mort.coffee/home/wayland-input-latency/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 11:12:36",
-      "https://lobste.rs/s/en0mrm/cs16_css_css_library_based_on_counter"
-    ],
-    [
-      "cs16.css: CSS library based on Counter Strike 1.6 UI",
-      "https://cs16.samke.me/"
     ]
   ]
 ]
