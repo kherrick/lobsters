@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 19:28:58](https://lobste.rs/s/zhomzr/building_toast_component) - [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
 * [2025-01-27, 19:02:11](https://lobste.rs/s/quamiu/first_perfect_computer) - [The First Perfect Computer](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
 * [2025-01-27, 19:01:09](https://lobste.rs/s/djejmh/really_really_good_random_number) - [really really good random number generator (rrgrng)](https://swlody.dev/Posts/really-really-good-random-number-generator-(rrgrng))
 * [2025-01-27, 18:24:53](https://lobste.rs/s/cwkyc9/spritely_goblins_v0_15_0_goblins_browser) - [Spritely Goblins v0.15.0: Goblins in the browser! — Spritely Institute](https://www.spritely.institute/news/spritely-goblins-v0-15-0-goblins-in-the-browser.html)
