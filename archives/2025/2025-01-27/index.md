@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 17:41:10](https://lobste.rs/s/sv3vhi/taylorator_all_your_frequencies_are) - [The Taylorator - All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
 * [2025-01-27, 17:04:42](https://lobste.rs/s/xo6x6a/repeat_yourself_bit) - [Repeat Yourself, A Bit](https://blog.startifact.com/posts/repeat-yourself-a-bit/)
 * [2025-01-27, 15:53:50](https://lobste.rs/s/2wuzgd/rust_s_worst_feature) - [Rust’s worst feature](https://mina86.com/2025/rusts-worst-feature/)
 * [2025-01-27, 15:24:59](https://lobste.rs/s/lwf8lc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwf8lc/what_are_you_doing_this_week)
