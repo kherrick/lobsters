@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-01-27, 21:18:08",
-      "https://lobste.rs/s/ke6k7y/pwru_packet_where_are_you_ebpf_based_linux"
-    ],
-    [
-      "pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger",
-      "https://github.com/cilium/pwru"
-    ]
-  ],
-  [
-    [
       "2025-01-27, 20:33:34",
       "https://lobste.rs/s/bjika7/google_open_sourced_pebble_os"
     ],
@@ -67,6 +57,16 @@
     [
       "Trustfall",
       "https://github.com/obi1kenobi/trustfall"
+    ]
+  ],
+  [
+    [
+      "2025-01-27, 19:28:58",
+      "https://lobste.rs/s/zhomzr/building_toast_component"
+    ],
+    [
+      "Building a toast component",
+      "https://emilkowal.ski/ui/building-a-toast-component"
     ]
   ],
   [
