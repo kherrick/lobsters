@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 22:07:22",
+      "https://lobste.rs/s/gey0py/scaling_one_million_checkboxes_650_000"
+    ],
+    [
+      "Scaling One Million Checkboxes to 650,000,000 checks (2024)",
+      "https://eieio.games/blog/scaling-one-million-checkboxes/"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 21:42:11",
       "https://lobste.rs/s/qczsgz/building_personal_software_with_claude"
     ],
@@ -57,16 +67,6 @@
     [
       "Out-of-the-box Elixir telemetry with Phoenix",
       "https://www.honeybadger.io/blog/phoenix-telemetry/"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 19:28:58",
-      "https://lobste.rs/s/zhomzr/building_toast_component"
-    ],
-    [
-      "Building a toast component",
-      "https://emilkowal.ski/ui/building-a-toast-component"
     ]
   ],
   [
