@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 19:53:45](https://lobste.rs/s/wapcwu/trustfall) - [Trustfall](https://github.com/obi1kenobi/trustfall)
 * [2025-01-27, 19:37:44](https://lobste.rs/s/mnvybt/out_box_elixir_telemetry_with_phoenix) - [Out-of-the-box Elixir telemetry with Phoenix](https://www.honeybadger.io/blog/phoenix-telemetry/)
 * [2025-01-27, 19:28:58](https://lobste.rs/s/zhomzr/building_toast_component) - [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
 * [2025-01-27, 19:02:11](https://lobste.rs/s/quamiu/first_perfect_computer) - [The First Perfect Computer](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
