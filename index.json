@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 01:54:24",
+      "https://lobste.rs/s/3w9f40/on_dualities"
+    ],
+    [
+      "On Dualities",
+      "http://dicioccio.fr/on-dualities.html"
+    ]
+  ],
+  [
+    [
       "2025-01-26, 21:35:42",
       "https://lobste.rs/s/zimti0/petrol_embedding_type_safe_sql_api_ocaml"
     ],
@@ -237,16 +247,6 @@
     [
       "Trying out Zed after more than a decade of Vim/Neovim",
       "https://sgoel.dev/posts/trying-out-zed-after-more-than-a-decade-of-vim-neovim/"
-    ]
-  ],
-  [
-    [
-      "2025-01-24, 14:28:03",
-      "https://lobste.rs/s/jvruyj/tilde_my_llvm_alternative"
-    ],
-    [
-      "Tilde, my LLVM alternative",
-      "https://yasserarg.com/tb"
     ]
   ]
 ]
