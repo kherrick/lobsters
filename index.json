@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 15:14:08",
+      "https://lobste.rs/s/llkvam/eu_s_digital_identity_systems_reality"
+    ],
+    [
+      "EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy",
+      "https://www.youtube.com/watch?v=omljDJGxjx4"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 14:26:04",
       "https://lobste.rs/s/vy25lh/steam_brick_no_screen_no_controller"
     ],
@@ -147,16 +157,6 @@
     [
       "noria: Fast web applications through dynamic, partially-stateful dataflow",
       "https://github.com/mit-pdos/noria"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 19:12:11",
-      "https://lobste.rs/s/dwulev/elementary_javascript_library_for"
-    ],
-    [
-      "elementary: a JavaScript library for digital audio signal processing",
-      "https://github.com/elemaudio/elementary"
     ]
   ],
   [
