@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-27, 07:59:00](https://lobste.rs/s/9ihbuh/surface_stable_fractal_dithering) - [Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=HPqGaIMVuLs)
 * [2025-01-27, 06:58:37](https://lobste.rs/s/qvr98h/maps_are_faster_go_1_24) - [Maps are faster in Go 1.24](https://www.bytesizego.com/blog/go-124-swiss-table-maps)
 * [2025-01-27, 03:14:45](https://lobste.rs/s/pzr5nj/future_microprocessors) - [The Future of Microprocessors](https://www.youtube.com/watch?v=MkbgZMCTUyU)
 * [2025-01-27, 03:12:30](https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024) - [What're the Best Things you Read and Learned in 2024?](https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024)
@@ -18,7 +19,6 @@
 * [2025-01-26, 07:43:32](https://lobste.rs/s/rp5edn/much_faster_suspend_resume_for_some) - [Much Faster Suspend & Resume For Some Systems With Linux 6.14](https://www.phoronix.com/news/Linux-6.14-ACPI)
 * [2025-01-26, 02:19:29](https://lobste.rs/s/bmwj0a/exploring_new_go_tool_support_go_1_24) - [Exploring the new \"go tool\" support in Go 1.24](https://blog.howardjohn.info/posts/go-tools-command/)
 * [2025-01-26, 00:48:45](https://lobste.rs/s/atihtk/snac2_simple_minimalistic_activitypub) - [snac2 - A simple, minimalistic ActivityPub instance written in portable C](https://codeberg.org/grunfink/snac2)
-* [2025-01-25, 23:02:37](https://lobste.rs/s/0whmah/supreme_sexp_system_sss_lisp_machine) - [Supreme Sexp System - SSS - a Lisp machine adventure](https://codeberg.org/jjba23/sss)
 * [2025-01-25, 22:22:25](https://lobste.rs/s/o2hhjc/what_happened_text_colour) - [What happened to the text colour?](https://lobste.rs/s/o2hhjc/what_happened_text_colour)
 * [2025-01-25, 20:26:26](https://lobste.rs/s/j7chkt/invalid_68030_instruction_accidentally) - [The invalid 68030 instruction that accidentally allowed the Mac Classic II to successfully boot up](https://www.downtowndougbrown.com/2025/01/the-invalid-68030-instruction-that-accidentally-allowed-the-mac-classic-ii-to-successfully-boot-up/)
 * [2025-01-25, 18:09:13](https://lobste.rs/s/1vgfey/sdl_3_2_0) - [SDL 3.2.0](https://github.com/libsdl-org/SDL/releases/tag/release-3.2.0)
