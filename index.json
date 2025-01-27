@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 18:24:53",
+      "https://lobste.rs/s/cwkyc9/spritely_goblins_v0_15_0_goblins_browser"
+    ],
+    [
+      "Spritely Goblins v0.15.0: Goblins in the browser! — Spritely Institute",
+      "https://www.spritely.institute/news/spritely-goblins-v0-15-0-goblins-in-the-browser.html"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 17:41:10",
       "https://lobste.rs/s/sv3vhi/taylorator_all_your_frequencies_are"
     ],
@@ -227,16 +237,6 @@
     [
       "FoA: Ferris-on-Air: An experimental Wi-Fi stack for rust on the ESP32",
       "https://github.com/esp32-open-mac/FoA"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 00:48:45",
-      "https://lobste.rs/s/atihtk/snac2_simple_minimalistic_activitypub"
-    ],
-    [
-      "snac2 - A simple, minimalistic ActivityPub instance written in portable C",
-      "https://codeberg.org/grunfink/snac2"
     ]
   ],
   [
