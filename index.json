@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 17:04:42",
+      "https://lobste.rs/s/xo6x6a/repeat_yourself_bit"
+    ],
+    [
+      "Repeat Yourself, A Bit",
+      "https://blog.startifact.com/posts/repeat-yourself-a-bit/"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 15:53:50",
       "https://lobste.rs/s/2wuzgd/rust_s_worst_feature"
     ],
@@ -217,16 +227,6 @@
     [
       "FoA: Ferris-on-Air: An experimental Wi-Fi stack for rust on the ESP32",
       "https://github.com/esp32-open-mac/FoA"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 02:19:29",
-      "https://lobste.rs/s/bmwj0a/exploring_new_go_tool_support_go_1_24"
-    ],
-    [
-      "Exploring the new \"go tool\" support in Go 1.24",
-      "https://blog.howardjohn.info/posts/go-tools-command/"
     ]
   ],
   [
