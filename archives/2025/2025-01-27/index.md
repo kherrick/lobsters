@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-27](index.md)
 
+* [2025-01-27, 15:53:50](https://lobste.rs/s/2wuzgd/rust_s_worst_feature) - [Rust’s worst feature](https://mina86.com/2025/rusts-worst-feature/)
 * [2025-01-27, 15:24:59](https://lobste.rs/s/lwf8lc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwf8lc/what_are_you_doing_this_week)
 * [2025-01-27, 15:14:08](https://lobste.rs/s/llkvam/eu_s_digital_identity_systems_reality) - [EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy](https://www.youtube.com/watch?v=omljDJGxjx4)
 * [2025-01-27, 14:26:04](https://lobste.rs/s/vy25lh/steam_brick_no_screen_no_controller) - [Steam Brick: No screen, no controller, and absolutely no sense, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
