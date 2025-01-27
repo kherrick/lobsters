@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-27, 21:42:11",
+      "https://lobste.rs/s/qczsgz/building_personal_software_with_claude"
+    ],
+    [
+      "Building personal software with Claude",
+      "https://blog.nelhage.com/post/personal-software-with-claude/"
+    ]
+  ],
+  [
+    [
       "2025-01-27, 21:18:08",
       "https://lobste.rs/s/ke6k7y/pwru_packet_where_are_you_ebpf_based_linux"
     ],
@@ -207,16 +217,6 @@
     [
       "What're the Best Things you Read and Learned in 2024?",
       "https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 21:35:42",
-      "https://lobste.rs/s/zimti0/petrol_embedding_type_safe_sql_api_ocaml"
-    ],
-    [
-      "Petrol: embedding a type-safe SQL API in OCaml using GADTs",
-      "https://kirancodes.me/posts/log-ways-of-sql-in-ocaml.html"
     ]
   ],
   [
