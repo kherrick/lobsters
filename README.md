@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-27, 20:28:36](https://lobste.rs/s/yqx2sx/pebble_smartwatches_open_sourced) - [Pebble smartwatches open-sourced](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.htmll)
 * [2025-01-27, 19:53:45](https://lobste.rs/s/wapcwu/trustfall) - [Trustfall](https://github.com/obi1kenobi/trustfall)
 * [2025-01-27, 19:37:44](https://lobste.rs/s/mnvybt/out_box_elixir_telemetry_with_phoenix) - [Out-of-the-box Elixir telemetry with Phoenix](https://www.honeybadger.io/blog/phoenix-telemetry/)
 * [2025-01-27, 19:28:58](https://lobste.rs/s/zhomzr/building_toast_component) - [Building a toast component](https://emilkowal.ski/ui/building-a-toast-component)
@@ -10,7 +11,6 @@
 * [2025-01-27, 17:04:42](https://lobste.rs/s/xo6x6a/repeat_yourself_bit) - [Repeat Yourself, A Bit](https://blog.startifact.com/posts/repeat-yourself-a-bit/)
 * [2025-01-27, 15:53:50](https://lobste.rs/s/2wuzgd/rust_s_worst_feature) - [Rust’s worst feature](https://mina86.com/2025/rusts-worst-feature/)
 * [2025-01-27, 15:24:59](https://lobste.rs/s/lwf8lc/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lwf8lc/what_are_you_doing_this_week)
-* [2025-01-27, 15:14:08](https://lobste.rs/s/llkvam/eu_s_digital_identity_systems_reality) - [EU's Digital Identity Systems - Reality Check and Techniques for Better Privacy](https://www.youtube.com/watch?v=omljDJGxjx4)
 * [2025-01-27, 14:26:04](https://lobste.rs/s/vy25lh/steam_brick_no_screen_no_controller) - [Steam Brick: No screen, no controller, and absolutely no sense, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-27, 14:22:06](https://lobste.rs/s/j9iugq/is_nixos_truly_reproducible) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 * [2025-01-27, 12:42:10](https://lobste.rs/s/ldaaql/my_failed_attempt_shrink_all_npm_packages) - [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
