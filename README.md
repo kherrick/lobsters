@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-28, 19:53:09](https://lobste.rs/s/tl814s/deepseek_quiet_giant_leading_china_s_ai) - [Deepseek: The Quiet Giant Leading China’s AI Race](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
+* [2025-01-28, 20:25:14](https://lobste.rs/s/ma3agj/unternet_next_user_agent) - [Unternet - The next user agent](https://unternet.co/blog/2025/01/next-user-agent/)
 * [2025-01-28, 19:24:47](https://lobste.rs/s/x5jqq3/preserves_expressive_data_language) - [Preserves: Expressive Data Language](https://preserves.dev/)
 * [2025-01-28, 19:19:15](https://lobste.rs/s/4kvugz/sunsetting_cursed_terminal_emulation) - [Sunsetting Cursed Terminal Emulation](https://arcan-fe.com/2025/01/27/sunsetting-cursed-terminal-emulation/)
 * [2025-01-28, 18:57:19](https://lobste.rs/s/pzo2xo/speculation_attacks_on_apple_m3_slap_flop) - [Speculation Attacks on Apple M3: SLAP and FLOP](https://predictors.fail/)
