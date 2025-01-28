@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-28, 18:19:04",
+      "https://lobste.rs/s/bkpqln/marginalia_search_engine_prioritizing"
+    ],
+    [
+      "Marginalia - A search engine prioritizing non-commercial content",
+      "https://marginalia-search.com/"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 18:16:37",
       "https://lobste.rs/s/uw3ztu/why_social_media_has_captured_our"
     ],
@@ -237,16 +247,6 @@
     [
       "My failed attempt to shrink all npm packages by 5%",
       "https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 16:55:45",
-      "https://lobste.rs/s/oxtwre/hard_numbers_wayland_vs_x11_input_latency"
-    ],
-    [
-      "Hard numbers in the Wayland vs X11 input latency discussion",
-      "https://mort.coffee/home/wayland-input-latency/"
     ]
   ]
 ]
