@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 20:45:54](https://lobste.rs/s/mxihoz/deep_learning_for_nlp_best_practices) - [Deep Learning for NLP Best Practices](https://www.ruder.io/deep-learning-nlp-best-practices/)
 * [2025-01-28, 20:25:14](https://lobste.rs/s/ma3agj/unternet_next_user_agent) - [Unternet - The next user agent](https://unternet.co/blog/2025/01/next-user-agent/)
 * [2025-01-28, 19:53:09](https://lobste.rs/s/tl814s/deepseek_quiet_giant_leading_china_s_ai) - [Deepseek: The Quiet Giant Leading China’s AI Race](https://www.chinatalk.media/p/deepseek-ceo-interview-with-chinas)
 * [2025-01-28, 19:24:47](https://lobste.rs/s/x5jqq3/preserves_expressive_data_language) - [Preserves: Expressive Data Language](https://preserves.dev/)
