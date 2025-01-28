@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-28, 12:13:43",
+      "https://lobste.rs/s/noffmp/seven_things_i_know_after_25_years"
+    ],
+    [
+      "Seven things I know after 25 years of development",
+      "https://zverok.space/blog/2025-01-27-7things-euruko.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-28, 12:04:03",
+      "https://lobste.rs/s/6fbecb/testable_examples_go"
+    ],
+    [
+      "Testable Examples in Go",
+      "https://go.dev/blog/examples"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 11:37:41",
       "https://lobste.rs/s/utwbwv/can_we_retain_benefits_transitive"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-01-27, 22:19:12",
-      "https://lobste.rs/s/qwe1eq/2024_finances_review"
-    ],
-    [
-      "2024 Finances In Review",
-      "https://www.joshuakgoldberg.com/blog/2024-finances-in-review/"
-    ]
-  ],
-  [
-    [
       "2025-01-27, 21:42:11",
       "https://lobste.rs/s/qczsgz/building_personal_software_with_claude"
     ],
@@ -127,16 +137,6 @@
     [
       "Pebble smartwatches open-sourced",
       "https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 19:53:45",
-      "https://lobste.rs/s/wapcwu/trustfall"
-    ],
-    [
-      "Trustfall",
-      "https://github.com/obi1kenobi/trustfall"
     ]
   ],
   [
