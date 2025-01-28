@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-28, 18:16:37](https://lobste.rs/s/uw3ztu/why_social_media_has_captured_our) - [Why Social Media has Captured Our Attention](https://www.makeartwithpython.com/blog/social-media-is-the-final-film/)
+* [2025-01-28, 17:55:42](https://lobste.rs/s/al0dd9/best_practices_for_key_derivation) - [Best practices for key derivation](https://blog.trailofbits.com/2025/01/28/best-practices-for-key-derivation/)
 * [2025-01-28, 14:49:26](https://lobste.rs/s/djvgmv/what_is_lifetime_thinking_lifetimes_as) - [But what is 'a lifetime - thinking of lifetimes as regions of memory](https://youtu.be/gRAVZv7V91Q)
 * [2025-01-28, 12:43:43](https://lobste.rs/s/saxziq/pattern_for_obtaining_single_value_while) - [A pattern for obtaining a single value while holding a lock](https://devblogs.microsoft.com/oldnewthing/20250127-00/?p=110809)
 * [2025-01-28, 12:42:33](https://lobste.rs/s/qkov2d/daily_command_line_ablutions) - [Daily command-line ablutions](https://lobste.rs/s/qkov2d/daily_command_line_ablutions)
@@ -8,7 +10,6 @@
 * [2025-01-28, 11:37:41](https://lobste.rs/s/utwbwv/can_we_retain_benefits_transitive) - [Can We Retain the Benefits of Transitive Dependencies Without Undermining Security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
 * [2025-01-28, 11:29:24](https://lobste.rs/s/oeabdn/data_protection_day_only_1_3_cases_before) - [Data Protection Day: Only 1.3% of cases before EU DPAs result in a fine](https://noyb.eu/en/data-protection-day-only-13-cases-eu-dpas-result-fine)
 * [2025-01-28, 11:23:52](https://lobste.rs/s/wxc4jq/prototyping_power) - [Prototyping and Power](https://planb.nicecupoftea.org/2025/01/25/prototyping-and-power/)
-* [2025-01-28, 10:45:31](https://lobste.rs/s/qhr4uo/thinkerbell_postmortem_brain_dump_2018) - [Thinkerbell Postmortem/Brain dump (2018)](https://yoric.github.io/post/thinkerbell-postmortem/)
 * [2025-01-28, 07:35:08](https://lobste.rs/s/wb8pzw/deepseek_faq) - [DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/)
 * [2025-01-28, 07:23:25](https://lobste.rs/s/zwhml6/zig_what_s_writer) - [In Zig, What's a Writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
 * [2025-01-28, 06:46:45](https://lobste.rs/s/mvcalo/public_inbox_archives_first_approach) - [public-inbox - an \"archives first\" approach to mailing lists](https://public-inbox.org/README.html)
@@ -23,7 +24,6 @@
 * [2025-01-27, 14:26:04](https://lobste.rs/s/vy25lh/steam_brick_no_screen_no_controller) - [Steam Brick: No screen, no controller, and absolutely no sense, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-27, 14:22:06](https://lobste.rs/s/j9iugq/is_nixos_truly_reproducible) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 * [2025-01-27, 12:42:10](https://lobste.rs/s/ldaaql/my_failed_attempt_shrink_all_npm_packages) - [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
-* [2025-01-27, 03:12:30](https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024) - [What're the Best Things you Read and Learned in 2024?](https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024)
 * [2025-01-26, 16:55:45](https://lobste.rs/s/oxtwre/hard_numbers_wayland_vs_x11_input_latency) - [Hard numbers in the Wayland vs X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 
 ## [Archives](archives/index.md)

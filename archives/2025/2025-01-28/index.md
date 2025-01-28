@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 18:16:37](https://lobste.rs/s/uw3ztu/why_social_media_has_captured_our) - [Why Social Media has Captured Our Attention](https://www.makeartwithpython.com/blog/social-media-is-the-final-film/)
+* [2025-01-28, 17:55:42](https://lobste.rs/s/al0dd9/best_practices_for_key_derivation) - [Best practices for key derivation](https://blog.trailofbits.com/2025/01/28/best-practices-for-key-derivation/)
 * [2025-01-28, 14:49:26](https://lobste.rs/s/djvgmv/what_is_lifetime_thinking_lifetimes_as) - [But what is `a lifetime - thinking of lifetimes as regions of memory](https://youtu.be/gRAVZv7V91Q)
 * [2025-01-28, 12:43:43](https://lobste.rs/s/saxziq/pattern_for_obtaining_single_value_while) - [A pattern for obtaining a single value while holding a lock](https://devblogs.microsoft.com/oldnewthing/20250127-00/?p=110809)
 * [2025-01-28, 12:42:33](https://lobste.rs/s/qkov2d/daily_command_line_ablutions) - [Daily command-line ablutions](https://lobste.rs/s/qkov2d/daily_command_line_ablutions)
