@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 10:45:31](https://lobste.rs/s/qhr4uo/thinkerbell_postmortem_brain_dump_2018) - [Thinkerbell Postmortem/Brain dump (2018)](https://yoric.github.io/post/thinkerbell-postmortem/)
 * [2025-01-28, 10:17:21](https://lobste.rs/s/ksxo1z/illustrated_deepseek_r1) - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
 * [2025-01-28, 07:35:08](https://lobste.rs/s/wb8pzw/deepseek_faq) - [DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/)
 * [2025-01-28, 07:23:25](https://lobste.rs/s/zwhml6/zig_what_s_writer) - [In Zig, What's a Writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)

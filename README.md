@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-28, 10:45:31](https://lobste.rs/s/qhr4uo/thinkerbell_postmortem_brain_dump_2018) - [Thinkerbell Postmortem/Brain dump (2018)](https://yoric.github.io/post/thinkerbell-postmortem/)
 * [2025-01-28, 10:17:21](https://lobste.rs/s/ksxo1z/illustrated_deepseek_r1) - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
 * [2025-01-28, 07:35:08](https://lobste.rs/s/wb8pzw/deepseek_faq) - [DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/)
 * [2025-01-28, 07:23:25](https://lobste.rs/s/zwhml6/zig_what_s_writer) - [In Zig, What's a Writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
@@ -22,7 +23,6 @@
 * [2025-01-27, 12:42:10](https://lobste.rs/s/ldaaql/my_failed_attempt_shrink_all_npm_packages) - [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
 * [2025-01-27, 07:59:00](https://lobste.rs/s/9ihbuh/surface_stable_fractal_dithering) - [Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=HPqGaIMVuLs)
 * [2025-01-27, 06:58:37](https://lobste.rs/s/qvr98h/maps_are_faster_go_1_24) - [Maps are faster in Go 1.24](https://www.bytesizego.com/blog/go-124-swiss-table-maps)
-* [2025-01-27, 03:14:45](https://lobste.rs/s/pzr5nj/future_microprocessors) - [The Future of Microprocessors](https://www.youtube.com/watch?v=MkbgZMCTUyU)
 * [2025-01-27, 03:12:30](https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024) - [What're the Best Things you Read and Learned in 2024?](https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024)
 * [2025-01-26, 16:55:45](https://lobste.rs/s/oxtwre/hard_numbers_wayland_vs_x11_input_latency) - [Hard numbers in the Wayland vs X11 input latency discussion](https://mort.coffee/home/wayland-input-latency/)
 
