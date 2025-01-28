@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-28, 07:23:25](https://lobste.rs/s/zwhml6/zig_what_s_writer) - [In Zig, What's a Writer?](https://www.openmymind.net/In-Zig-Whats-a-Writer/)
 * [2025-01-28, 06:46:45](https://lobste.rs/s/mvcalo/public_inbox_archives_first_approach) - [public-inbox - an \"archives first\" approach to mailing lists](https://public-inbox.org/README.html)
 * [2025-01-28, 06:34:56](https://lobste.rs/s/y1eqnf/clone2leak_your_git_credentials_belong) - [Clone2Leak: Your Git Credentials Belong To Us](https://flatt.tech/research/posts/clone2leak-your-git-credentials-belong-to-us/)
 * [2025-01-28, 02:58:43](https://lobste.rs/s/vhv91q/poisoning_ai_with_ss_subtitles) - [Poisoning AI with \".аss\" subtitles](https://www.youtube.com/watch?v=NEDFUjqA1s8)
-* [2025-01-28, 00:18:18](https://lobste.rs/s/koxisr/image_replacement_canva_designs_using) - [Image replacement in Canva designs using reverse image search](https://www.canva.dev/blog/engineering/image-replacement-in-canva-designs-using-reverse-image-search/)
 * [2025-01-27, 22:19:12](https://lobste.rs/s/qwe1eq/2024_finances_review) - [2024 Finances In Review](https://www.joshuakgoldberg.com/blog/2024-finances-in-review/)
 * [2025-01-27, 22:07:22](https://lobste.rs/s/gey0py/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks (2024)](https://eieio.games/blog/scaling-one-million-checkboxes/)
 * [2025-01-27, 21:42:11](https://lobste.rs/s/qczsgz/building_personal_software_with_claude) - [Building personal software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/)
