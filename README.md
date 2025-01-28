@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-28, 11:23:52](https://lobste.rs/s/wxc4jq/prototyping_power) - [Prototyping and Power](https://planb.nicecupoftea.org/2025/01/25/prototyping-and-power/)
 * [2025-01-28, 10:45:31](https://lobste.rs/s/qhr4uo/thinkerbell_postmortem_brain_dump_2018) - [Thinkerbell Postmortem/Brain dump (2018)](https://yoric.github.io/post/thinkerbell-postmortem/)
 * [2025-01-28, 10:17:21](https://lobste.rs/s/ksxo1z/illustrated_deepseek_r1) - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
 * [2025-01-28, 07:35:08](https://lobste.rs/s/wb8pzw/deepseek_faq) - [DeepSeek FAQ](https://stratechery.com/2025/deepseek-faq/)
@@ -9,7 +10,6 @@
 * [2025-01-28, 02:58:43](https://lobste.rs/s/vhv91q/poisoning_ai_with_ss_subtitles) - [Poisoning AI with \".аss\" subtitles](https://www.youtube.com/watch?v=NEDFUjqA1s8)
 * [2025-01-27, 22:19:12](https://lobste.rs/s/qwe1eq/2024_finances_review) - [2024 Finances In Review](https://www.joshuakgoldberg.com/blog/2024-finances-in-review/)
 * [2025-01-27, 21:42:11](https://lobste.rs/s/qczsgz/building_personal_software_with_claude) - [Building personal software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/)
-* [2025-01-27, 21:18:08](https://lobste.rs/s/ke6k7y/pwru_packet_where_are_you_ebpf_based_linux) - [pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
 * [2025-01-27, 20:28:36](https://lobste.rs/s/yqx2sx/pebble_smartwatches_open_sourced) - [Pebble smartwatches open-sourced](https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html)
 * [2025-01-27, 19:53:45](https://lobste.rs/s/wapcwu/trustfall) - [Trustfall](https://github.com/obi1kenobi/trustfall)
 * [2025-01-27, 19:02:11](https://lobste.rs/s/quamiu/first_perfect_computer) - [The First Perfect Computer](https://celso.io/posts/2025/01/26/the-first-perfect-computer/)
