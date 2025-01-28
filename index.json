@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-28, 06:46:45",
+      "https://lobste.rs/s/mvcalo/public_inbox_archives_first_approach"
+    ],
+    [
+      "public-inbox - an \"archives first\" approach to mailing lists",
+      "https://public-inbox.org/README.html"
+    ]
+  ],
+  [
+    [
       "2025-01-28, 06:34:56",
       "https://lobste.rs/s/y1eqnf/clone2leak_your_git_credentials_belong"
     ],
@@ -227,16 +237,6 @@
     [
       "What're the Best Things you Read and Learned in 2024?",
       "https://lobste.rs/s/9w75v8/what_re_best_things_you_read_learned_2024"
-    ]
-  ],
-  [
-    [
-      "2025-01-26, 19:17:48",
-      "https://lobste.rs/s/pvnlp0/noria_fast_web_applications_through"
-    ],
-    [
-      "noria: Fast web applications through dynamic, partially-stateful dataflow",
-      "https://github.com/mit-pdos/noria"
     ]
   ],
   [
