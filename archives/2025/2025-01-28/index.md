@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 11:29:24](https://lobste.rs/s/oeabdn/data_protection_day_only_1_3_cases_before) - [Data Protection Day: Only 1.3% of cases before EU DPAs result in a fine](https://noyb.eu/en/data-protection-day-only-13-cases-eu-dpas-result-fine)
 * [2025-01-28, 11:23:52](https://lobste.rs/s/wxc4jq/prototyping_power) - [Prototyping and Power](https://planb.nicecupoftea.org/2025/01/25/prototyping-and-power/)
 * [2025-01-28, 10:45:31](https://lobste.rs/s/qhr4uo/thinkerbell_postmortem_brain_dump_2018) - [Thinkerbell Postmortem/Brain dump (2018)](https://yoric.github.io/post/thinkerbell-postmortem/)
 * [2025-01-28, 10:17:21](https://lobste.rs/s/ksxo1z/illustrated_deepseek_r1) - [The Illustrated DeepSeek-R1](https://newsletter.languagemodels.co/p/the-illustrated-deepseek-r1)
