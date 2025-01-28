@@ -2,6 +2,7 @@
 
 * [2025-01-28, 02:58:43](https://lobste.rs/s/vhv91q/poisoning_ai_with_ss_subtitles) - [Poisoning AI with \".аss\" subtitles](https://www.youtube.com/watch?v=NEDFUjqA1s8)
 * [2025-01-28, 00:18:18](https://lobste.rs/s/koxisr/image_replacement_canva_designs_using) - [Image replacement in Canva designs using reverse image search](https://www.canva.dev/blog/engineering/image-replacement-in-canva-designs-using-reverse-image-search/)
+* [2025-01-27, 22:19:12](https://lobste.rs/s/qwe1eq/2024_finances_review) - [2024 Finances In Review](https://www.joshuakgoldberg.com/blog/2024-finances-in-review/)
 * [2025-01-27, 22:07:22](https://lobste.rs/s/gey0py/scaling_one_million_checkboxes_650_000) - [Scaling One Million Checkboxes to 650,000,000 checks (2024)](https://eieio.games/blog/scaling-one-million-checkboxes/)
 * [2025-01-27, 21:42:11](https://lobste.rs/s/qczsgz/building_personal_software_with_claude) - [Building personal software with Claude](https://blog.nelhage.com/post/personal-software-with-claude/)
 * [2025-01-27, 21:18:08](https://lobste.rs/s/ke6k7y/pwru_packet_where_are_you_ebpf_based_linux) - [pwru: Packet, where are you? -- eBPF-based Linux kernel networking debugger](https://github.com/cilium/pwru)
@@ -18,7 +19,6 @@
 * [2025-01-27, 14:26:04](https://lobste.rs/s/vy25lh/steam_brick_no_screen_no_controller) - [Steam Brick: No screen, no controller, and absolutely no sense, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-27, 14:22:06](https://lobste.rs/s/j9iugq/is_nixos_truly_reproducible) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 * [2025-01-27, 12:42:10](https://lobste.rs/s/ldaaql/my_failed_attempt_shrink_all_npm_packages) - [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
-* [2025-01-27, 09:39:13](https://lobste.rs/s/qgell4/how_long_is_second_javascript) - [How long is a second in JavaScript?](https://docs.timetime.in/blog/how-long-is-a-second-in-js/)
 * [2025-01-27, 07:59:00](https://lobste.rs/s/9ihbuh/surface_stable_fractal_dithering) - [Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=HPqGaIMVuLs)
 * [2025-01-27, 06:58:37](https://lobste.rs/s/qvr98h/maps_are_faster_go_1_24) - [Maps are faster in Go 1.24](https://www.bytesizego.com/blog/go-124-swiss-table-maps)
 * [2025-01-27, 03:14:45](https://lobste.rs/s/pzr5nj/future_microprocessors) - [The Future of Microprocessors](https://www.youtube.com/watch?v=MkbgZMCTUyU)
