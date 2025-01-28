@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-28, 11:37:41](https://lobste.rs/s/utwbwv/can_we_retain_benefits_transitive) - [Can We Retain the Benefits of Transitive Dependencies Without Undermining Security?](https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html)
 * [2025-01-28, 11:29:24](https://lobste.rs/s/oeabdn/data_protection_day_only_1_3_cases_before) - [Data Protection Day: Only 1.3% of cases before EU DPAs result in a fine](https://noyb.eu/en/data-protection-day-only-13-cases-eu-dpas-result-fine)
 * [2025-01-28, 11:23:52](https://lobste.rs/s/wxc4jq/prototyping_power) - [Prototyping and Power](https://planb.nicecupoftea.org/2025/01/25/prototyping-and-power/)
 * [2025-01-28, 10:45:31](https://lobste.rs/s/qhr4uo/thinkerbell_postmortem_brain_dump_2018) - [Thinkerbell Postmortem/Brain dump (2018)](https://yoric.github.io/post/thinkerbell-postmortem/)
@@ -17,7 +18,6 @@
 * [2025-01-27, 19:01:09](https://lobste.rs/s/djejmh/really_really_good_random_number) - [really really good random number generator (rrgrng)](https://swlody.dev/Posts/really-really-good-random-number-generator-(rrgrng))
 * [2025-01-27, 18:24:53](https://lobste.rs/s/cwkyc9/spritely_goblins_v0_15_0_goblins_browser) - [Spritely Goblins v0.15.0: Goblins in the browser](https://www.spritely.institute/news/spritely-goblins-v0-15-0-goblins-in-the-browser.html)
 * [2025-01-27, 17:41:10](https://lobste.rs/s/sv3vhi/taylorator_all_your_frequencies_are) - [The Taylorator - All Your Frequencies Are Belong to Us](https://www.scd31.com/posts/taylorator)
-* [2025-01-27, 15:53:50](https://lobste.rs/s/2wuzgd/issues_with_borrowedbuf_rust) - [Issues with BorrowedBuf in Rust](https://mina86.com/2025/rusts-worst-feature/)
 * [2025-01-27, 14:26:04](https://lobste.rs/s/vy25lh/steam_brick_no_screen_no_controller) - [Steam Brick: No screen, no controller, and absolutely no sense, just a power button and a USB port](https://crastinator-pro.github.io/steam-brick/)
 * [2025-01-27, 14:22:06](https://lobste.rs/s/j9iugq/is_nixos_truly_reproducible) - [Is NixOS truly reproducible?](https://luj.fr/blog/is-nixos-truly-reproducible.html)
 * [2025-01-27, 12:42:10](https://lobste.rs/s/ldaaql/my_failed_attempt_shrink_all_npm_packages) - [My failed attempt to shrink all npm packages by 5%](https://evanhahn.com/my-failed-attempt-to-shrink-all-npm-packages-by-5-percent/)
