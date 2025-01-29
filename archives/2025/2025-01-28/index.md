@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-28](index.md)
 
+* [2025-01-28, 22:38:14](https://lobste.rs/s/fzjejf/handwiki) - [Handwiki](https://handwiki.org/)
 * [2025-01-28, 22:12:09](https://lobste.rs/s/evdmgc/introducing_codename_goose) - [Introducing codename goose](https://block.github.io/goose/blog/2025/01/28/introducing-codename-goose)
 * [2025-01-28, 20:45:54](https://lobste.rs/s/mxihoz/deep_learning_for_nlp_best_practices) - [Deep Learning for NLP Best Practices](https://www.ruder.io/deep-learning-nlp-best-practices/)
 * [2025-01-28, 20:25:14](https://lobste.rs/s/ma3agj/unternet_next_user_agent) - [Unternet - The next user agent](https://unternet.co/blog/2025/01/next-user-agent/)
