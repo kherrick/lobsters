@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-29, 16:22:10",
+      "https://lobste.rs/s/oxmxzl/using_v2ray_with_caddy_access_internet"
+    ],
+    [
+      "Using v2ray with Caddy to Access the Internet in China",
+      "https://sequentialread.com/v2ray-caddy-to-access-the-internet-in-china/"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 15:34:06",
       "https://lobste.rs/s/f6frhd/hell_haskell_shell"
     ],
@@ -77,16 +87,6 @@
     [
       "MLX — Distributed Computing for Apple Silicon",
       "https://ml-explore.github.io/mlx/build/html/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-29, 03:15:51",
-      "https://lobste.rs/s/pmgl2v/multicore_property_based_tests_for_ocaml"
-    ],
-    [
-      "Multicore Property-Based Tests for OCaml 5: Challenges and Lessons Learned",
-      "https://tarides.com/blog/2024-12-23-multicore-property-based-tests-for-ocaml-5-challenges-and-lessons-learned/"
     ]
   ],
   [
