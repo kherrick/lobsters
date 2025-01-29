@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-01-29, 16:37:05",
+      "https://lobste.rs/s/s89gxq/why_trees_without_branches_grow_faster"
+    ],
+    [
+      "Why Trees Without Branches Grow Faster: The Case for Reducing Branches in Code",
+      "https://cedardb.com/blog/reducing_branches/"
+    ]
+  ],
+  [
+    [
+      "2025-01-29, 16:30:37",
+      "https://lobste.rs/s/gexezf/picking_equatable_names"
+    ],
+    [
+      "Picking Equatable Names",
+      "https://thunderseethe.dev/posts/debruijn-indices/"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 16:22:10",
       "https://lobste.rs/s/oxmxzl/using_v2ray_with_caddy_access_internet"
     ],
@@ -102,10 +122,10 @@
   [
     [
       "2025-01-29, 02:03:11",
-      "https://lobste.rs/s/n9vtqo/my_history_with_forth_stack_machines"
+      "https://lobste.rs/s/n9vtqo/my_history_with_forth_stack_machines_2010"
     ],
     [
-      "My history with Forth & stack machines",
+      "My history with Forth & stack machines (2010)",
       "https://yosefk.com/blog/my-history-with-forth-stack-machines.html"
     ]
   ],
@@ -117,16 +137,6 @@
     [
       "Handwiki",
       "https://handwiki.org/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 19:24:47",
-      "https://lobste.rs/s/x5jqq3/preserves_expressive_data_language"
-    ],
-    [
-      "Preserves: Expressive Data Language",
-      "https://preserves.dev/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Clone2Leak: Your Git Credentials Belong To Us",
       "https://flatt.tech/research/posts/clone2leak-your-git-credentials-belong-to-us/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 02:58:43",
-      "https://lobste.rs/s/vhv91q/poisoning_ai_with_ss_subtitles"
-    ],
-    [
-      "Poisoning AI with \".аss\" subtitles",
-      "https://www.youtube.com/watch?v=NEDFUjqA1s8"
     ]
   ],
   [
