@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-29, 03:49:27](https://lobste.rs/s/esqs7z/mlx_distributed_computing_for_apple) - [MLX — Distributed Computing for Apple Silicon](https://ml-explore.github.io/mlx/build/html/index.html)
 * [2025-01-29, 03:15:51](https://lobste.rs/s/pmgl2v/multicore_property_based_tests_for_ocaml) - [Multicore Property-Based Tests for OCaml 5: Challenges and Lessons Learned](https://tarides.com/blog/2024-12-23-multicore-property-based-tests-for-ocaml-5-challenges-and-lessons-learned/)
 * [2025-01-29, 03:11:04](https://lobste.rs/s/tswf9y/modern_compiler_for_french_tax_code) - [A Modern Compiler for the French Tax Code](https://inria.hal.science/hal-03002266)
-* [2025-01-29, 03:10:06](https://lobste.rs/s/gbxviz/statistical_process_control) - [Statistical Process Control: Practitioner's Guide](https://entropicthoughts.com/statistical-process-control-a-practitioners-guide)
 * [2025-01-29, 02:03:11](https://lobste.rs/s/n9vtqo/my_history_with_forth_stack_machines) - [My history with Forth & stack machines](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2025-01-28, 22:38:14](https://lobste.rs/s/fzjejf/handwiki) - [Handwiki](https://handwiki.org/)
 * [2025-01-28, 22:12:09](https://lobste.rs/s/evdmgc/introducing_codename_goose) - [Introducing codename goose](https://block.github.io/goose/blog/2025/01/28/introducing-codename-goose)
