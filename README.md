@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-29, 21:41:55](https://lobste.rs/s/i6dcix/why_sorting_is_harder_than_it_seems) - [Why sorting is harder than it seems](https://mill.plainopen.com/why-sorting-is-harder-than-it-seems.html)
 * [2025-01-29, 20:55:43](https://lobste.rs/s/ugg12c/senders_receivers_introduction) - [Senders/Receivers: An Introduction](https://accu.org/journals/overload/32/184/teodorescu/)
 * [2025-01-29, 20:54:01](https://lobste.rs/s/gtuz66/keymapper_cross_platform_context_aware) - [keymapper: A cross-platform context-aware key remapper](https://github.com/houmain/keymapper)
 * [2025-01-29, 20:39:11](https://lobste.rs/s/siaf0m/building_semantic_movie_search_demo_with) - [Building a semantic movie search demo with pgvector and Next.js](https://blog.6nok.org/building-a-semantic-movie-search-demo-with-pgvector-and-next.js/)
@@ -18,7 +19,6 @@
 * [2025-01-29, 03:11:04](https://lobste.rs/s/tswf9y/modern_compiler_for_french_tax_code) - [A Modern Compiler for the French Tax Code](https://inria.hal.science/hal-03002266)
 * [2025-01-29, 02:03:11](https://lobste.rs/s/n9vtqo/my_history_with_forth_stack_machines_2010) - [My history with Forth & stack machines (2010)](https://yosefk.com/blog/my-history-with-forth-stack-machines.html)
 * [2025-01-28, 22:38:14](https://lobste.rs/s/fzjejf/handwiki) - [Handwiki](https://handwiki.org/)
-* [2025-01-28, 19:24:47](https://lobste.rs/s/x5jqq3/preserves_expressive_data_language) - [Preserves: Expressive Data Language](https://preserves.dev/)
 * [2025-01-28, 19:19:15](https://lobste.rs/s/4kvugz/sunsetting_cursed_terminal_emulation) - [Sunsetting Cursed Terminal Emulation](https://arcan-fe.com/2025/01/27/sunsetting-cursed-terminal-emulation/)
 * [2025-01-28, 18:57:19](https://lobste.rs/s/pzo2xo/speculation_attacks_on_apple_m3_slap_flop) - [Speculation Attacks on Apple M3: SLAP and FLOP](https://predictors.fail/)
 * [2025-01-28, 18:19:04](https://lobste.rs/s/bkpqln/marginalia_search_engine_prioritizing) - [Marginalia - A search engine prioritizing non-commercial content](https://marginalia-search.com/)
