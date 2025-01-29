@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-29](index.md)
 
+* [2025-01-29, 22:03:43](https://lobste.rs/s/nqy7uq/parametric_subtyping_for_structural) - [Parametric Subtyping for Structural Parametric Polymorphism](https://blog.sigplan.org/2025/01/29/parametric-subtyping-for-structural-parametric-polymorphism/)
 * [2025-01-29, 21:41:55](https://lobste.rs/s/i6dcix/why_sorting_is_harder_than_it_seems) - [Why sorting is harder than it seems](https://mill.plainopen.com/why-sorting-is-harder-than-it-seems.html)
 * [2025-01-29, 20:55:43](https://lobste.rs/s/ugg12c/senders_receivers_introduction) - [Senders/Receivers: An Introduction](https://accu.org/journals/overload/32/184/teodorescu/)
 * [2025-01-29, 20:54:01](https://lobste.rs/s/gtuz66/keymapper_cross_platform_context_aware) - [keymapper: A cross-platform context-aware key remapper](https://github.com/houmain/keymapper)
