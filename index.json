@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-29, 22:03:43",
+      "https://lobste.rs/s/nqy7uq/parametric_subtyping_for_structural"
+    ],
+    [
+      "Parametric Subtyping for Structural Parametric Polymorphism",
+      "https://blog.sigplan.org/2025/01/29/parametric-subtyping-for-structural-parametric-polymorphism/"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 21:41:55",
       "https://lobste.rs/s/i6dcix/why_sorting_is_harder_than_it_seems"
     ],
@@ -227,16 +237,6 @@
     [
       "Seven things I know after 25 years of development",
       "https://zverok.space/blog/2025-01-27-7things-euruko.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 11:37:41",
-      "https://lobste.rs/s/utwbwv/can_we_retain_benefits_transitive"
-    ],
-    [
-      "Can We Retain the Benefits of Transitive Dependencies Without Undermining Security?",
-      "https://tratt.net/laurie/blog/2024/can_we_retain_the_benefits_of_transitive_dependencies_without_undermining_security.html"
     ]
   ],
   [
