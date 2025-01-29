@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-29, 12:06:55",
+      "https://lobste.rs/s/ig8asl/things_you_might_not_need_your_tests"
+    ],
+    [
+      "Things you might not need in your tests",
+      "https://thoughtbot.com/blog/things-you-might-not-need-in-your-tests"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 09:39:04",
       "https://lobste.rs/s/o7vr0v/how_set_webgl_shader_colors_with_css"
     ],
@@ -71,6 +81,16 @@
   ],
   [
     [
+      "2025-01-29, 03:10:06",
+      "https://lobste.rs/s/gbxviz/statistical_process_control"
+    ],
+    [
+      "Statistical Process Control: Practitioner's Guide",
+      "https://entropicthoughts.com/statistical-process-control-a-practitioners-guide"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 02:03:11",
       "https://lobste.rs/s/n9vtqo/my_history_with_forth_stack_machines"
     ],
@@ -87,16 +107,6 @@
     [
       "Handwiki",
       "https://handwiki.org/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 19:24:47",
-      "https://lobste.rs/s/x5jqq3/preserves_expressive_data_language"
-    ],
-    [
-      "Preserves: Expressive Data Language",
-      "https://preserves.dev/"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "Marginalia - A search engine prioritizing non-commercial content",
       "https://marginalia-search.com/"
-    ]
-  ],
-  [
-    [
-      "2025-01-28, 14:49:26",
-      "https://lobste.rs/s/djvgmv/what_is_lifetime_thinking_lifetimes_as"
-    ],
-    [
-      "But what is 'a lifetime - thinking of lifetimes as regions of memory",
-      "https://youtu.be/gRAVZv7V91Q"
     ]
   ],
   [
