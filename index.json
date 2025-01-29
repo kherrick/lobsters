@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-29, 20:54:01",
+      "https://lobste.rs/s/gtuz66/keymapper_cross_platform_context_aware"
+    ],
+    [
+      "keymapper: A cross-platform context-aware key remapper",
+      "https://github.com/houmain/keymapper"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 20:39:11",
       "https://lobste.rs/s/siaf0m/building_semantic_movie_search_demo_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Building personal software with Claude",
       "https://blog.nelhage.com/post/personal-software-with-claude/"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 14:22:06",
-      "https://lobste.rs/s/j9iugq/is_nixos_truly_reproducible"
-    ],
-    [
-      "Is NixOS truly reproducible?",
-      "https://luj.fr/blog/is-nixos-truly-reproducible.html"
     ]
   ]
 ]
