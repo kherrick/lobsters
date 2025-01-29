@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-29, 02:49:41",
+      "https://lobste.rs/s/rm3026/sento_actor_framework_featuring_actors"
+    ],
+    [
+      "Sento - Actor framework featuring actors and agents",
+      "https://github.com/mdbergmann/cl-gserver/tree/master"
+    ]
+  ],
+  [
+    [
       "2025-01-29, 02:34:25",
       "https://lobste.rs/s/bo0mze/five_important_things_about_deepseek"
     ],
@@ -217,16 +227,6 @@
     [
       "Pebble smartwatches open-sourced",
       "https://opensource.googleblog.com/2025/01/see-code-that-powered-pebble-smartwatches.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-27, 14:26:04",
-      "https://lobste.rs/s/vy25lh/steam_brick_no_screen_no_controller"
-    ],
-    [
-      "Steam Brick: No screen, no controller, and absolutely no sense, just a power button and a USB port",
-      "https://crastinator-pro.github.io/steam-brick/"
     ]
   ],
   [
