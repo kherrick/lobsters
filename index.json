@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-01-30, 18:54:32",
-      "https://lobste.rs/s/y5n3mq/have_ai_resolve_your_merge_rebase"
-    ],
-    [
-      "Have AI resolve your merge/rebase conflicts",
-      "https://sketch.dev/blog/merde"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 18:45:32",
       "https://lobste.rs/s/kh4fqk/practical_pigment_mixing_for_digital"
     ],
@@ -47,6 +37,16 @@
     [
       "Adding garbage collection to our Rust-based interpreters with MMTk",
       "https://octavelarose.github.io/2025/01/30/mmtk.html"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 16:28:49",
+      "https://lobste.rs/s/wxoydf/scaling_our_rate_limits_prepare_for"
+    ],
+    [
+      "Scaling Our Rate Limits to Prepare for a Billion Active Certificates",
+      "https://letsencrypt.org/2025/01/30/scaling-rate-limits/"
     ]
   ],
   [
