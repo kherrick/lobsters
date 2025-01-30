@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 16:38:29](https://lobste.rs/s/lhn4sy/why_i_use_cline_for_ai_engineering) - [Why I use Cline for AI Engineering](https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering)
+* [2025-01-30, 16:31:34](https://lobste.rs/s/uggzag/adding_garbage_collection_our_rust_based) - [Adding garbage collection to our Rust-based interpreters with MMTk](https://octavelarose.github.io/2025/01/30/mmtk.html)
+* [2025-01-30, 16:28:49](https://lobste.rs/s/wxoydf/scaling_our_rate_limits_prepare_for) - [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/)
 * [2025-01-30, 16:15:25](https://lobste.rs/s/cglras/slow_death_ocsp) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
 * [2025-01-30, 15:57:22](https://lobste.rs/s/qbgec0/pypi_now_supports_project_archival) - [PyPI Now Supports Project Archival](https://blog.pypi.org/posts/2025-01-30-archival/)
 * [2025-01-30, 13:37:14](https://lobste.rs/s/lozl1i/equinix_sunset_future_gitlab) - [Equinix Sunset, future of gitlab.freedesktop.org](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/2011)
