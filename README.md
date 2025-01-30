@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-01-30, 09:33:20](https://lobste.rs/s/3pxctd/perforator_cluster_wide_continous) - [Perforator - cluster-wide continous profiling tool](https://github.com/yandex/perforator)
+* [2025-01-30, 09:33:20](https://lobste.rs/s/3pxctd/perforator_cluster_wide_continuous) - [Perforator - cluster-wide continuous profiling tool](https://github.com/yandex/perforator)
 * [2025-01-30, 09:32:30](https://lobste.rs/s/7kq1bf/decompiling_2024_year_resurgance) - [Decompiling 2024: A Year of Resurgance in Decompilation Research](https://mahaloz.re/dec-progress-2024)
 * [2025-01-30, 06:57:54](https://lobste.rs/s/8sttca/writing_brittle_code) - [Writing brittle code](https://blog.waleedkhan.name/writing-brittle-code/)
 * [2025-01-30, 04:34:25](https://lobste.rs/s/mwxbm4/reversing_pixel_4a_battery_update) - [Reversing the Pixel 4a battery update](https://social.treehouse.systems/@marcan/113914172433692339)
