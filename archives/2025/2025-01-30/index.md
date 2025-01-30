@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 18:45:32](https://lobste.rs/s/kh4fqk/practical_pigment_mixing_for_digital) - [Practical Pigment Mixing for Digital Painting (2021)](https://scrtwpns.com/mixbox.pdf)
+* [2025-01-30, 18:41:26](https://lobste.rs/s/3harxm/introducing_sealed_types) - [Introducing sealed types](https://cheriot.org/sealing/compiler/2025/01/30/introducing-sealed-types.html)
 * [2025-01-30, 17:47:33](https://lobste.rs/s/fbhuou/ranking_programming_languages_by_energy) - [Ranking Programming Languages by Energy Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
 * [2025-01-30, 16:38:29](https://lobste.rs/s/lhn4sy/why_i_use_cline_for_ai_engineering) - [Why I use Cline for AI Engineering](https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering)
 * [2025-01-30, 16:31:34](https://lobste.rs/s/uggzag/adding_garbage_collection_our_rust_based) - [Adding garbage collection to our Rust-based interpreters with MMTk](https://octavelarose.github.io/2025/01/30/mmtk.html)
