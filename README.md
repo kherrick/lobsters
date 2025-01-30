@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-30, 17:47:33](https://lobste.rs/s/fbhuou/ranking_programming_languages_by_energy) - [Ranking Programming Languages by Energy Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
 * [2025-01-30, 16:38:29](https://lobste.rs/s/lhn4sy/why_i_use_cline_for_ai_engineering) - [Why I use Cline for AI Engineering](https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering)
 * [2025-01-30, 16:31:34](https://lobste.rs/s/uggzag/adding_garbage_collection_our_rust_based) - [Adding garbage collection to our Rust-based interpreters with MMTk](https://octavelarose.github.io/2025/01/30/mmtk.html)
 * [2025-01-30, 16:28:49](https://lobste.rs/s/wxoydf/scaling_our_rate_limits_prepare_for) - [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/)
@@ -23,7 +24,6 @@
 * [2025-01-29, 22:03:43](https://lobste.rs/s/nqy7uq/parametric_subtyping_for_structural) - [Parametric Subtyping for Structural Parametric Polymorphism](https://blog.sigplan.org/2025/01/29/parametric-subtyping-for-structural-parametric-polymorphism/)
 * [2025-01-29, 20:39:11](https://lobste.rs/s/siaf0m/building_semantic_movie_search_demo_with) - [Building a semantic movie search demo with pgvector and Next.js](https://blog.6nok.org/building-a-semantic-movie-search-demo-with-pgvector-and-next.js/)
 * [2025-01-29, 20:27:45](https://lobste.rs/s/0t3yqw/building_t1d_smartwatch_from_scratch) - [Building a (T1D) smartwatch from scratch](https://andrewchilds.com/posts/building-a-t1d-smartwatch-from-scratch)
-* [2025-01-29, 16:22:10](https://lobste.rs/s/oxmxzl/using_v2ray_with_caddy_access_internet) - [Using v2ray with Caddy to Access the Internet in China](https://sequentialread.com/v2ray-caddy-to-access-the-internet-in-china/)
 * [2025-01-29, 04:21:18](https://lobste.rs/s/pihql3/you_re_thinking_about_passkeys_wrong) - [You're thinking about passkeys wrong](https://dev.to/yawaramin/youre-thinking-about-passkeys-wrong-171o)
 
 ## [Archives](archives/index.md)

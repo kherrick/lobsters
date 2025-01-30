@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 17:47:33](https://lobste.rs/s/fbhuou/ranking_programming_languages_by_energy) - [Ranking Programming Languages by Energy Efficiency](https://haslab.github.io/SAFER/scp21.pdf)
 * [2025-01-30, 16:38:29](https://lobste.rs/s/lhn4sy/why_i_use_cline_for_ai_engineering) - [Why I use Cline for AI Engineering](https://addyo.substack.com/p/why-i-use-cline-for-ai-engineering)
 * [2025-01-30, 16:31:34](https://lobste.rs/s/uggzag/adding_garbage_collection_our_rust_based) - [Adding garbage collection to our Rust-based interpreters with MMTk](https://octavelarose.github.io/2025/01/30/mmtk.html)
 * [2025-01-30, 16:28:49](https://lobste.rs/s/wxoydf/scaling_our_rate_limits_prepare_for) - [Scaling Our Rate Limits to Prepare for a Billion Active Certificates](https://letsencrypt.org/2025/01/30/scaling-rate-limits/)
