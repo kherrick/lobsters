@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-30](index.md)
 
+* [2025-01-30, 10:23:18](https://lobste.rs/s/bark5a/preview_crates) - [Preview crates](https://smallcultfollowing.com/babysteps/blog/2025/01/29/preview-crates/)
 * [2025-01-30, 10:14:32](https://lobste.rs/s/i2edlt/how_i_use_ai) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2025-01-30, 09:33:20](https://lobste.rs/s/3pxctd/perforator_cluster_wide_continuous) - [Perforator - cluster-wide continuous profiling tool](https://github.com/yandex/perforator)
 * [2025-01-30, 09:33:20](https://lobste.rs/s/3pxctd/perforator_cluster_wide_continous) - [Perforator - cluster-wide continous profiling tool](https://github.com/yandex/perforator)
