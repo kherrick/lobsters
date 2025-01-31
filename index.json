@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-31, 15:51:22",
+      "https://lobste.rs/s/tn0x0w/user_valid_pseudo_class"
+    ],
+    [
+      "The :user-valid pseudo-class",
+      "https://html-css-tip-of-the-week.netlify.app/tip/user-valid/"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 15:40:18",
       "https://lobste.rs/s/s5muiu/particles_progress_perseverance"
     ],
@@ -167,16 +177,6 @@
     [
       "The surprising way to save memory with BytesIO",
       "https://pythonspeed.com/articles/bytesio-reduce-memory-usage/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 16:15:25",
-      "https://lobste.rs/s/cglras/slow_death_ocsp"
-    ],
-    [
-      "The Slow Death of OCSP",
-      "https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp"
     ]
   ],
   [
