@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-31, 14:23:29",
+      "https://lobste.rs/s/tez0nf/potential_rust_inspired_simplification"
+    ],
+    [
+      "Potential RUST-inspired simplification for Go error handling",
+      "https://github.com/golang/go/discussions/71460"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 12:21:58",
       "https://lobste.rs/s/orddo5/byte_queue_limits_unauthorized"
     ],
@@ -137,16 +147,6 @@
     [
       "The surprising way to save memory with BytesIO",
       "https://pythonspeed.com/articles/bytesio-reduce-memory-usage/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 17:47:33",
-      "https://lobste.rs/s/fbhuou/ranking_programming_languages_by_energy"
-    ],
-    [
-      "Ranking Programming Languages by Energy Efficiency",
-      "https://haslab.github.io/SAFER/scp21.pdf"
     ]
   ],
   [
