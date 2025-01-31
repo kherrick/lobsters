@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 15:28:29](https://lobste.rs/s/qoyhut/accurate_predictions_on_small_data_with) - [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6)
 * [2025-01-31, 15:22:35](https://lobste.rs/s/aatk00/destroying_reprogramming_sprite_engine) - [Destroying and reprogramming the sprite engine of Ghosts ‘n Goblins](https://youtu.be/WmHpMRtgU3I)
 * [2025-01-31, 14:23:29](https://lobste.rs/s/tez0nf/potential_rust_inspired_simplification) - [Potential RUST-inspired simplification for Go error handling](https://github.com/golang/go/discussions/71460)
 * [2025-01-31, 12:21:58](https://lobste.rs/s/orddo5/byte_queue_limits_unauthorized) - [Byte Queue Limits: the unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
