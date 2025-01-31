@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-01-31, 10:46:39",
+      "https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 10:45:48",
+      "https://lobste.rs/s/xpwcbe/rust_s_rand_0_9_0_is_out"
+    ],
+    [
+      "Rust's rand 0.9.0 is out",
+      "https://github.com/rust-random/rand/releases/tag/0.9.0"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 10:43:48",
+      "https://lobste.rs/s/bpclm0/nom_parser_combinators_now_released"
+    ],
+    [
+      "nom parser combinators now released in version 8, with a new architecture",
+      "https://github.com/rust-bakery/nom/blob/main/CHANGELOG.md#800-2025-01-25"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 10:42:07",
+      "https://lobste.rs/s/rbjw6d/announcing_rust_1_84_1"
+    ],
+    [
+      "Announcing Rust 1.84.1",
+      "https://blog.rust-lang.org/2025/01/30/Rust-1.84.1.html"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 10:04:12",
       "https://lobste.rs/s/wafwbh/gamedev_city_game_development_centric"
     ],
@@ -37,16 +77,6 @@
     [
       "Standard Schema",
       "https://standardschema.dev"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 07:38:21",
-      "https://lobste.rs/s/ebslg3/are_second_systems_inevitable"
-    ],
-    [
-      "Are second systems inevitable",
-      "https://erikaker.com/posts/ba331206-1741-4b03-88b6-2d2baa33cf2d"
     ]
   ],
   [
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-01-30, 18:41:26",
-      "https://lobste.rs/s/3harxm/introducing_sealed_types"
-    ],
-    [
-      "Introducing sealed types",
-      "https://cheriot.org/sealing/compiler/2025/01/30/introducing-sealed-types.html"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 17:47:33",
       "https://lobste.rs/s/fbhuou/ranking_programming_languages_by_energy"
     ],
@@ -131,16 +151,6 @@
   ],
   [
     [
-      "2025-01-30, 15:57:22",
-      "https://lobste.rs/s/qbgec0/pypi_now_supports_project_archival"
-    ],
-    [
-      "PyPI Now Supports Project Archival",
-      "https://blog.pypi.org/posts/2025-01-30-archival/"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 13:37:14",
       "https://lobste.rs/s/lozl1i/equinix_sunset_future_gitlab"
     ],
@@ -157,16 +167,6 @@
     [
       "Pointers Are Complicated II, or: We need better language specs (2020)",
       "https://www.ralfj.de/blog/2020/12/14/provenance.html"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 13:17:19",
-      "https://lobste.rs/s/tn5w79/history_apl_ussr"
-    ],
-    [
-      "History of APL in the USSR",
-      "https://dl.acm.org/doi/10.1145/130647.130656"
     ]
   ],
   [
