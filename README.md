@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-31, 12:21:58](https://lobste.rs/s/orddo5/byte_queue_limits_unauthorized) - [Byte Queue Limits: the unauthorized biography](https://medium.com/@tom_84912/byte-queue-limits-the-unauthorized-biography-61adc5730b83)
 * [2025-01-31, 10:48:43](https://lobste.rs/s/aeut8o/blazing_fast_directory_tree_traversal) - [Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust](https://www.youtube.com/watch?v=voy1iT2E4bk)
 * [2025-01-31, 10:46:39](https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend)
 * [2025-01-31, 10:45:48](https://lobste.rs/s/xpwcbe/rust_s_rand_0_9_0_is_out) - [Rust's rand 0.9.0 is out](https://github.com/rust-random/rand/releases/tag/0.9.0)
@@ -8,7 +9,6 @@
 * [2025-01-31, 10:04:12](https://lobste.rs/s/wafwbh/gamedev_city_game_development_centric) - [Gamedev.city: Game development-centric link aggregator](https://gamedev.city/)
 * [2025-01-31, 09:59:51](https://lobste.rs/s/asyabf/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
 * [2025-01-31, 09:56:32](https://lobste.rs/s/9xtd4v/introducing_werk) - [Introducing Werk](https://simonask.github.io/introducing-werk/)
-* [2025-01-31, 09:36:23](https://lobste.rs/s/vevsem/standard_schema) - [Standard Schema](https://standardschema.dev)
 * [2025-01-31, 02:08:10](https://lobste.rs/s/umnpte/xerox_alto_source_code_2014) - [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
 * [2025-01-31, 01:54:09](https://lobste.rs/s/2an1ay/how_jane_street_accidentally_built) - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 * [2025-01-30, 21:16:53](https://lobste.rs/s/mwfd4n/contracts_for_c_explained_5_minutes) - [Contracts for C++ explained in 5 minutes](https://timur.audio/contracts_explained_in_5_mins)
