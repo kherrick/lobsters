@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-01-31, 10:48:43",
+      "https://lobste.rs/s/aeut8o/blazing_fast_directory_tree_traversal"
+    ],
+    [
+      "Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust",
+      "https://www.youtube.com/watch?v=voy1iT2E4bk"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 10:46:39",
       "https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend"
     ],
@@ -217,16 +227,6 @@
     [
       "Reversing the Pixel 4a battery update",
       "https://social.treehouse.systems/@marcan/113914172433692339"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 04:23:28",
-      "https://lobste.rs/s/dybrex/ending_support_for_expiration"
-    ],
-    [
-      "Ending Support for Expiration Notification Emails",
-      "https://letsencrypt.org/2025/01/22/ending-expiration-emails/"
     ]
   ],
   [
