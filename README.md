@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-31, 16:31:18](https://lobste.rs/s/yq8axa/vghf_library_opens_early_access) - [The VGHF Library opens in early access](https://gamehistory.org/vghf-library-launch/)
 * [2025-01-31, 15:51:22](https://lobste.rs/s/tn0x0w/user_valid_pseudo_class) - [The :user-valid pseudo-class](https://html-css-tip-of-the-week.netlify.app/tip/user-valid/)
 * [2025-01-31, 15:40:18](https://lobste.rs/s/s5muiu/particles_progress_perseverance) - [Particles, Progress, and Perseverance: A Journey into WebGPU Fluids](https://tympanus.net/codrops/2025/01/29/particles-progress-and-perseverance-a-journey-into-webgpu-fluids/)
 * [2025-01-31, 15:28:29](https://lobste.rs/s/qoyhut/accurate_predictions_on_small_data_with) - [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6)
@@ -18,7 +19,6 @@
 * [2025-01-30, 21:16:53](https://lobste.rs/s/mwfd4n/contracts_for_c_explained_5_minutes) - [Contracts for C++ explained in 5 minutes](https://timur.audio/contracts_explained_in_5_mins)
 * [2025-01-30, 20:39:47](https://lobste.rs/s/qyypzo/deepseek_database_leak) - [DeepSeek database leak](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 * [2025-01-30, 20:34:24](https://lobste.rs/s/gvhivz/surprising_way_save_memory_with_bytesio) - [The surprising way to save memory with BytesIO](https://pythonspeed.com/articles/bytesio-reduce-memory-usage/)
-* [2025-01-30, 16:15:25](https://lobste.rs/s/cglras/slow_death_ocsp) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
 * [2025-01-30, 13:37:14](https://lobste.rs/s/lozl1i/equinix_sunset_future_gitlab) - [Equinix Sunset, future of gitlab.freedesktop.org](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/2011)
 * [2025-01-30, 13:21:58](https://lobste.rs/s/yubalv/pointers_are_complicated_ii_we_need) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [2025-01-30, 13:12:37](https://lobste.rs/s/pvhpvi/execution_kingdom_nouns_2006) - [Execution in the Kingdom of Nouns (2006)](https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
