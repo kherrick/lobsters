@@ -91,16 +91,6 @@
   ],
   [
     [
-      "2025-01-30, 16:31:34",
-      "https://lobste.rs/s/uggzag/adding_garbage_collection_our_rust_based"
-    ],
-    [
-      "Adding garbage collection to our Rust-based interpreters with MMTk",
-      "https://octavelarose.github.io/2025/01/30/mmtk.html"
-    ]
-  ],
-  [
-    [
       "2025-01-30, 16:15:25",
       "https://lobste.rs/s/cglras/slow_death_ocsp"
     ],
@@ -167,6 +157,16 @@
     [
       "The Death of Email Forwarding",
       "https://www.mythic-beasts.com/blog/2025/01/29/the-death-of-email-forwarding/"
+    ]
+  ],
+  [
+    [
+      "2025-01-30, 11:03:27",
+      "https://lobste.rs/s/gquymr/ux_login_codes"
+    ],
+    [
+      "The UX of login codes",
+      "https://bradfrost.com/blog/post/the-ux-of-login-codes/"
     ]
   ],
   [
