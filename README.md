@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-01-31, 10:48:43](https://lobste.rs/s/aeut8o/blazing_fast_directory_tree_traversal) - [Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust](https://www.youtube.com/watch?v=voy1iT2E4bk)
 * [2025-01-31, 10:46:39](https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend)
 * [2025-01-31, 10:45:48](https://lobste.rs/s/xpwcbe/rust_s_rand_0_9_0_is_out) - [Rust's rand 0.9.0 is out](https://github.com/rust-random/rand/releases/tag/0.9.0)
 * [2025-01-31, 10:43:48](https://lobste.rs/s/bpclm0/nom_parser_combinators_now_released) - [nom parser combinators now released in version 8, with a new architecture](https://github.com/rust-bakery/nom/blob/main/CHANGELOG.md#800-2025-01-25)
@@ -22,7 +23,6 @@
 * [2025-01-30, 10:23:18](https://lobste.rs/s/bark5a/preview_crates) - [Preview crates](https://smallcultfollowing.com/babysteps/blog/2025/01/29/preview-crates/)
 * [2025-01-30, 10:14:32](https://lobste.rs/s/i2edlt/how_i_use_ai) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2025-01-30, 04:34:25](https://lobste.rs/s/mwxbm4/reversing_pixel_4a_battery_update) - [Reversing the Pixel 4a battery update](https://social.treehouse.systems/@marcan/113914172433692339)
-* [2025-01-30, 04:23:28](https://lobste.rs/s/dybrex/ending_support_for_expiration) - [Ending Support for Expiration Notification Emails](https://letsencrypt.org/2025/01/22/ending-expiration-emails/)
 * [2025-01-30, 01:41:10](https://lobste.rs/s/w17cjs/will_i_ever_use_this_real_world) - [\"Will I ever use this in the real world?\"](https://blog.waleedkhan.name/will-i-ever-use-this/)
 * [2025-01-29, 23:33:46](https://lobste.rs/s/sn8buz/tv_setup) - [TV Setup](https://push.cx/tv-setup)
 

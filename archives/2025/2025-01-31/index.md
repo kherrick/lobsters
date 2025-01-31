@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 10:48:43](https://lobste.rs/s/aeut8o/blazing_fast_directory_tree_traversal) - [Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust](https://www.youtube.com/watch?v=voy1iT2E4bk)
 * [2025-01-31, 10:46:39](https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/cayoei/what_are_you_doing_this_weekend)
 * [2025-01-31, 10:45:48](https://lobste.rs/s/xpwcbe/rust_s_rand_0_9_0_is_out) - [Rust's rand 0.9.0 is out](https://github.com/rust-random/rand/releases/tag/0.9.0)
 * [2025-01-31, 10:43:48](https://lobste.rs/s/bpclm0/nom_parser_combinators_now_released) - [nom parser combinators now released in version 8, with a new architecture](https://github.com/rust-bakery/nom/blob/main/CHANGELOG.md#800-2025-01-25)
