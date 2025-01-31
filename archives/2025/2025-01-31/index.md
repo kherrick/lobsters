@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 15:51:22](https://lobste.rs/s/tn0x0w/user_valid_pseudo_class) - [The :user-valid pseudo-class](https://html-css-tip-of-the-week.netlify.app/tip/user-valid/)
 * [2025-01-31, 15:40:18](https://lobste.rs/s/s5muiu/particles_progress_perseverance) - [Particles, Progress, and Perseverance: A Journey into WebGPU Fluids](https://tympanus.net/codrops/2025/01/29/particles-progress-and-perseverance-a-journey-into-webgpu-fluids/)
 * [2025-01-31, 15:28:29](https://lobste.rs/s/qoyhut/accurate_predictions_on_small_data_with) - [Accurate predictions on small data with a tabular foundation model](https://www.nature.com/articles/s41586-024-08328-6)
 * [2025-01-31, 15:22:35](https://lobste.rs/s/aatk00/destroying_reprogramming_sprite_engine) - [Destroying and reprogramming the sprite engine of Ghosts ‘n Goblins](https://youtu.be/WmHpMRtgU3I)
