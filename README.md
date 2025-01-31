@@ -18,13 +18,13 @@
 * [2025-01-30, 21:16:53](https://lobste.rs/s/mwfd4n/contracts_for_c_explained_5_minutes) - [Contracts for C++ explained in 5 minutes](https://timur.audio/contracts_explained_in_5_mins)
 * [2025-01-30, 20:39:47](https://lobste.rs/s/qyypzo/deepseek_database_leak) - [DeepSeek database leak](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 * [2025-01-30, 20:34:24](https://lobste.rs/s/gvhivz/surprising_way_save_memory_with_bytesio) - [The surprising way to save memory with BytesIO](https://pythonspeed.com/articles/bytesio-reduce-memory-usage/)
+* [2025-01-30, 16:15:25](https://lobste.rs/s/cglras/slow_death_ocsp) - [The Slow Death of OCSP](https://www.feistyduck.com/newsletter/issue_121_the_slow_death_of_ocsp)
 * [2025-01-30, 13:37:14](https://lobste.rs/s/lozl1i/equinix_sunset_future_gitlab) - [Equinix Sunset, future of gitlab.freedesktop.org](https://gitlab.freedesktop.org/freedesktop/freedesktop/-/issues/2011)
 * [2025-01-30, 13:21:58](https://lobste.rs/s/yubalv/pointers_are_complicated_ii_we_need) - [Pointers Are Complicated II, or: We need better language specs (2020)](https://www.ralfj.de/blog/2020/12/14/provenance.html)
 * [2025-01-30, 13:12:37](https://lobste.rs/s/pvhpvi/execution_kingdom_nouns_2006) - [Execution in the Kingdom of Nouns (2006)](https://steve-yegge.blogspot.com/2006/03/execution-in-kingdom-of-nouns.html)
 * [2025-01-30, 11:17:28](https://lobste.rs/s/u9dron/death_email_forwarding) - [The Death of Email Forwarding](https://www.mythic-beasts.com/blog/2025/01/29/the-death-of-email-forwarding/)
 * [2025-01-30, 10:14:32](https://lobste.rs/s/i2edlt/how_i_use_ai) - [How I Use \"AI\"](https://nicholas.carlini.com/writing/2024/how-i-use-ai.html)
 * [2025-01-30, 04:34:25](https://lobste.rs/s/mwxbm4/reversing_pixel_4a_battery_update) - [Reversing the Pixel 4a battery update](https://social.treehouse.systems/@marcan/113914172433692339)
-* [2025-01-29, 23:33:46](https://lobste.rs/s/sn8buz/tv_setup) - [TV Setup](https://push.cx/tv-setup)
 
 ## [Archives](archives/index.md)
 
