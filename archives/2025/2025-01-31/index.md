@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-01-31](index.md)
 
+* [2025-01-31, 21:43:33](https://lobste.rs/s/fhorfj/will_scaling_reasoning_models_like_o3_r1) - [Will Scaling Reasoning Models Like o3 and R1 Unlock Superhuman Reasoning?](https://scaling-reasoning.chrisbarber.co/)
 * [2025-01-31, 21:19:28](https://lobste.rs/s/x8ngn6/from_pfui_bevy_hui_make_bevy_ui_great) - [From 'pfui' to bevy_hui - make Bevy UI great](https://www.youtube.com/watch?v=1q6bN8CNlhA)
 * [2025-01-31, 20:23:00](https://lobste.rs/s/hzo4nb/guten_tiny_newspaper_printer) - [Guten: A tiny newspaper printer](https://amanvir.com/guten)
 * [2025-01-31, 19:52:33](https://lobste.rs/s/zf5dqr/navigating_global_regulations_open) - [Navigating Global Regulations and Open Source: US OFAC Sanctions](https://www.linuxfoundation.org/blog/navigating-global-regulations-and-open-source-us-ofac-sanctions)
