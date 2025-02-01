@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 22:24:54](https://lobste.rs/s/csiw6m/mtg_wiki_is_now_at_mtg_wiki) - [The MTG Wiki is now at mtg.wiki](https://scryfall.com/blog/the-mtg-wiki-is-now-at-mtg-wiki-hosted-by-scryfall-230)
 * [2025-02-01, 20:55:32](https://lobste.rs/s/utupyb/allow_necromancy_avoid_reposts_enable) - [Allow Necromancy: To Avoid Reposts, Enable Comments on Old Posts](https://lobste.rs/s/utupyb/allow_necromancy_avoid_reposts_enable)
 * [2025-02-01, 19:54:59](https://lobste.rs/s/u292ym/python_3_pygame_debian_bookworm_on_miyoo) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
 * [2025-02-01, 19:10:06](https://lobste.rs/s/nbmpqe/origin_unexpected_evolution_word) - [The origin and unexpected evolution of the word \"mainframe\"](https://www.righto.com/2025/02/origin-of-mainframe-term.html)
