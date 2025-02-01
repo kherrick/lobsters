@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-01, 22:24:54",
+      "https://lobste.rs/s/csiw6m/mtg_wiki_is_now_at_mtg_wiki"
+    ],
+    [
+      "The MTG Wiki is now at mtg.wiki",
+      "https://scryfall.com/blog/the-mtg-wiki-is-now-at-mtg-wiki-hosted-by-scryfall-230"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 20:55:32",
       "https://lobste.rs/s/utupyb/allow_necromancy_avoid_reposts_enable"
     ],
@@ -207,16 +217,6 @@
     [
       "Potential Rust-inspired simplification for Go error handling",
       "https://github.com/golang/go/discussions/71460"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 10:48:43",
-      "https://lobste.rs/s/aeut8o/blazing_fast_directory_tree_traversal"
-    ],
-    [
-      "Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust",
-      "https://www.youtube.com/watch?v=voy1iT2E4bk"
     ]
   ],
   [
