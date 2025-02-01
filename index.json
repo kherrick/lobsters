@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-01, 13:08:08",
+      "https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers"
+    ],
+    [
+      "Hell Is Overconfident Developers Writing Encryption Code",
+      "https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 12:32:42",
       "https://lobste.rs/s/w4dtvy/designing_keyboard_from_scratch"
     ],
@@ -177,16 +187,6 @@
     [
       "Rust's rand 0.9.0 is out",
       "https://github.com/rust-random/rand/releases/tag/0.9.0"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 10:43:48",
-      "https://lobste.rs/s/bpclm0/nom_parser_combinators_now_released"
-    ],
-    [
-      "nom parser combinators now released in version 8, with a new architecture",
-      "https://github.com/rust-bakery/nom/blob/main/CHANGELOG.md#800-2025-01-25"
     ]
   ],
   [
