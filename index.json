@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-01, 15:06:18",
+      "https://lobste.rs/s/si9lwe/using_serde_quote_syn_proc_macro2"
+    ],
+    [
+      "Using serde, quote, syn and proc_macro2 to implement the Kafka protocol sans-io in Rust",
+      "https://blog.tansu.io/articles/serde-kafka-protocol"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 14:40:39",
       "https://lobste.rs/s/crxqgn/chatbot_software_begins_face"
     ],
@@ -107,16 +117,6 @@
     [
       "Guten: A tiny newspaper printer",
       "https://amanvir.com/guten"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 19:52:33",
-      "https://lobste.rs/s/zf5dqr/navigating_global_regulations_open"
-    ],
-    [
-      "Navigating Global Regulations and Open Source: US OFAC Sanctions",
-      "https://www.linuxfoundation.org/blog/navigating-global-regulations-and-open-source-us-ofac-sanctions"
     ]
   ],
   [
