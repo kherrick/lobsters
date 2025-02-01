@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-01, 14:40:39",
+      "https://lobste.rs/s/crxqgn/chatbot_software_begins_face"
+    ],
+    [
+      "Chatbot Software Begins to Face Fundamental Limitations",
+      "https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 13:08:08",
       "https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers"
     ],
@@ -237,16 +247,6 @@
     [
       "How Jane Street accidentally built a better build system for OCaml",
       "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 20:34:24",
-      "https://lobste.rs/s/gvhivz/surprising_way_save_memory_with_bytesio"
-    ],
-    [
-      "The surprising way to save memory with BytesIO",
-      "https://pythonspeed.com/articles/bytesio-reduce-memory-usage/"
     ]
   ]
 ]
