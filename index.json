@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-01, 01:58:39",
+      "https://lobste.rs/s/xh2r0y/jailbreaking_deepseek_r1_prompt"
+    ],
+    [
+      "Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes",
+      "https://substack.com/home/post/p-156004330"
+    ]
+  ],
+  [
+    [
       "2025-01-31, 23:04:25",
       "https://lobste.rs/s/fpisao/uscope_new_debugger_introspection"
     ],
@@ -107,16 +117,6 @@
     [
       "The :user-valid pseudo-class",
       "https://html-css-tip-of-the-week.netlify.app/tip/user-valid/"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 15:28:29",
-      "https://lobste.rs/s/qoyhut/accurate_predictions_on_small_data_with"
-    ],
-    [
-      "Accurate predictions on small data with a tabular foundation model",
-      "https://www.nature.com/articles/s41586-024-08328-6"
     ]
   ],
   [
