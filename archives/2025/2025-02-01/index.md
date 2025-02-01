@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-01](index.md)
 
+* [2025-02-01, 16:45:42](https://lobste.rs/s/hpjto2/revisiting_random_number_generation) - [Revisiting random number generation](https://swlody.dev/Posts/Revisiting-random-number-generation)
 * [2025-02-01, 16:02:27](https://lobste.rs/s/mob1j1/extending_coreutils_project_rewriting) - [Extending the Coreutils project - Rewriting base tools in Rust](https://uutils.github.io/blog/2025-02-extending/)
 * [2025-02-01, 15:59:17](https://lobste.rs/s/eazsn7/next_chapter_swift_build_technologies) - [The Next Chapter in Swift Build Technologies](https://swift.org/blog/the-next-chapter-in-swift-build-technologies/)
 * [2025-02-01, 15:06:18](https://lobste.rs/s/si9lwe/using_serde_quote_syn_proc_macro2) - [Using serde, quote, syn and proc_macro2 to implement the Kafka protocol sans-io in Rust](https://blog.tansu.io/articles/serde-kafka-protocol)
