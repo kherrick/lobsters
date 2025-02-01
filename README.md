@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-01, 20:55:32](https://lobste.rs/s/utupyb/allow_necromancy_avoid_reposts_enable) - [Allow Necromancy: To Avoid Reposts, Enable Comments on Old Posts](https://lobste.rs/s/utupyb/allow_necromancy_avoid_reposts_enable)
 * [2025-02-01, 19:54:59](https://lobste.rs/s/u292ym/python_3_pygame_debian_bookworm_on_miyoo) - [Python 3, Pygame, and Debian Bookworm on the Miyoo A30](https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/)
 * [2025-02-01, 19:10:06](https://lobste.rs/s/nbmpqe/origin_unexpected_evolution_word) - [The origin and unexpected evolution of the word \"mainframe\"](https://www.righto.com/2025/02/origin-of-mainframe-term.html)
 * [2025-02-01, 17:17:17](https://lobste.rs/s/wcjraq/ruby_thread_contention_is_simply_gvl) - [Ruby \"Thread Contention\" is simply GVL Queuing | Island94.org](https://island94.org/2025/01/ruby-thread-contention-simply-gvl-queuing)
@@ -13,7 +14,6 @@
 * [2025-02-01, 06:36:16](https://lobste.rs/s/pxl2tu/another_monthly_release_c3_0_6_6_is_here) - [Another monthly release: C3 0.6.6 is here](https://c3.handmade.network/blog/p/8983-another_monthly_release__c3_0.6.6_is_here)
 * [2025-02-01, 05:04:04](https://lobste.rs/s/sdnfah/blazing_fast_iot_data_pipeline_for) - [Blazing-fast IoT data pipeline for infrared monitoring](https://s2.dev/blog/iot)
 * [2025-02-01, 05:00:27](https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries) - [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/)
-* [2025-02-01, 01:58:39](https://lobste.rs/s/xh2r0y/jailbreaking_deepseek_r1_prompt) - [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330)
 * [2025-01-31, 23:04:25](https://lobste.rs/s/fpisao/uscope_new_debugger_introspection) - [uscope: A New Debugger and Introspection Toolchain](https://www.calabro.io/uscope)
 * [2025-01-31, 23:02:13](https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file) - [linuxpdf: Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf)
 * [2025-01-31, 20:23:00](https://lobste.rs/s/hzo4nb/guten_tiny_newspaper_printer) - [Guten: A tiny newspaper printer](https://amanvir.com/guten)
