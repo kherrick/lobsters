@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-01, 10:59:56",
+      "https://lobste.rs/s/mcj6ic/visualizing_all_books_world_isbn_space"
+    ],
+    [
+      "Visualizing all books of the world in ISBN-Space",
+      "https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 06:36:16",
       "https://lobste.rs/s/pxl2tu/another_monthly_release_c3_0_6_6_is_here"
     ],
@@ -227,16 +237,6 @@
     [
       "How Jane Street accidentally built a better build system for OCaml",
       "https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/"
-    ]
-  ],
-  [
-    [
-      "2025-01-30, 20:39:47",
-      "https://lobste.rs/s/qyypzo/deepseek_database_leak"
-    ],
-    [
-      "DeepSeek database leak",
-      "https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak"
     ]
   ],
   [
