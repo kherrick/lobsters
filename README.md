@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-01, 05:04:04](https://lobste.rs/s/sdnfah/blazing_fast_iot_data_pipeline_for) - [Blazing-fast IoT data pipeline for infrared monitoring](https://s2.dev/blog/iot)
+* [2025-02-01, 05:00:27](https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries) - [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/)
 * [2025-02-01, 01:58:39](https://lobste.rs/s/xh2r0y/jailbreaking_deepseek_r1_prompt) - [Jailbreaking DeepSeek R1 - Prompt Injection Using Charcodes](https://substack.com/home/post/p-156004330)
 * [2025-01-31, 23:04:25](https://lobste.rs/s/fpisao/uscope_new_debugger_introspection) - [uscope: A New Debugger and Introspection Toolchain](https://www.calabro.io/uscope)
 * [2025-01-31, 23:02:13](https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file) - [linuxpdf: Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf)
@@ -10,7 +12,6 @@
 * [2025-01-31, 17:48:22](https://lobste.rs/s/kwp8o8/jujutsu_vcs_introduction_patterns) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
 * [2025-01-31, 17:43:03](https://lobste.rs/s/j0nr83/what_s_oauth2_anyway) - [What's OAuth2 Anyway?](https://www.romaglushko.com/blog/whats-aouth2/)
 * [2025-01-31, 17:01:45](https://lobste.rs/s/wfmynv/how_we_share_secrets_at_fully_remote) - [How we share secrets at a fully-remote startup](https://mill.plainopen.com/how-we-share-secrets-at-a-fully-remote-startup.html)
-* [2025-01-31, 16:31:18](https://lobste.rs/s/yq8axa/vghf_library_opens_early_access) - [The VGHF Library opens in early access](https://gamehistory.org/vghf-library-launch/)
 * [2025-01-31, 15:51:22](https://lobste.rs/s/tn0x0w/user_valid_pseudo_class) - [The :user-valid pseudo-class](https://html-css-tip-of-the-week.netlify.app/tip/user-valid/)
 * [2025-01-31, 14:23:29](https://lobste.rs/s/tez0nf/potential_rust_inspired_simplification) - [Potential Rust-inspired simplification for Go error handling](https://github.com/golang/go/discussions/71460)
 * [2025-01-31, 10:48:43](https://lobste.rs/s/aeut8o/blazing_fast_directory_tree_traversal) - [Blazing-Fast Directory Tree Traversal: Haskell Streamly Beats Rust](https://www.youtube.com/watch?v=voy1iT2E4bk)
@@ -21,7 +22,6 @@
 * [2025-01-31, 10:04:12](https://lobste.rs/s/wafwbh/gamedev_city_game_development_centric) - [Gamedev.city: Game development-centric link aggregator](https://gamedev.city/)
 * [2025-01-31, 09:59:51](https://lobste.rs/s/asyabf/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about null pointers](https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/)
 * [2025-01-31, 09:56:32](https://lobste.rs/s/9xtd4v/introducing_werk) - [Introducing Werk](https://simonask.github.io/introducing-werk/)
-* [2025-01-31, 02:08:10](https://lobste.rs/s/umnpte/xerox_alto_source_code_2014) - [Xerox Alto Source Code (2014)](https://computerhistory.org/blog/xerox-alto-source-code/)
 * [2025-01-31, 01:54:09](https://lobste.rs/s/2an1ay/how_jane_street_accidentally_built) - [How Jane Street accidentally built a better build system for OCaml](https://blog.janestreet.com/how-we-accidentally-built-a-better-build-system-for-ocaml-index/)
 * [2025-01-30, 20:39:47](https://lobste.rs/s/qyypzo/deepseek_database_leak) - [DeepSeek database leak](https://www.wiz.io/blog/wiz-research-uncovers-exposed-deepseek-database-leak)
 * [2025-01-30, 20:34:24](https://lobste.rs/s/gvhivz/surprising_way_save_memory_with_bytesio) - [The surprising way to save memory with BytesIO](https://pythonspeed.com/articles/bytesio-reduce-memory-usage/)
