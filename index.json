@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-02, 02:10:34",
+      "https://lobste.rs/s/mxouhv/3_tools_for_2025"
+    ],
+    [
+      "3 Tools for 2025",
+      "http://yosemitesam.ch/3-tools-for-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 02:08:16",
+      "https://lobste.rs/s/rfcmwu/waydroid_android_linux_container"
+    ],
+    [
+      "Waydroid - Android in a Linux container",
+      "https://waydro.id/"
+    ]
+  ],
+  [
+    [
       "2025-02-01, 22:24:54",
       "https://lobste.rs/s/csiw6m/mtg_wiki_is_now_at_mtg_wiki"
     ],
@@ -217,26 +237,6 @@
     [
       "Potential Rust-inspired simplification for Go error handling",
       "https://github.com/golang/go/discussions/71460"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 10:45:48",
-      "https://lobste.rs/s/xpwcbe/rust_s_rand_0_9_0_is_out"
-    ],
-    [
-      "Rust's rand 0.9.0 is out",
-      "https://github.com/rust-random/rand/releases/tag/0.9.0"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 09:59:51",
-      "https://lobste.rs/s/asyabf/falsehoods_programmers_believe_about"
-    ],
-    [
-      "Falsehoods programmers believe about null pointers",
-      "https://purplesyringa.moe/blog/falsehoods-programmers-believe-about-null-pointers/"
     ]
   ],
   [
