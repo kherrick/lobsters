@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-02, 13:39:59",
+      "https://lobste.rs/s/jhweis/for_sale_binaries_compiled_from_hand"
+    ],
+    [
+      "For Sale: Binaries Compiled From Hand-Crafted Artisanal Code",
+      "https://jasonbrownlee.me/blog/posts/hand-crafted-code/"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 12:15:50",
       "https://lobste.rs/s/yhixpo/how_train_ai_image_model_on_yourself"
     ],
@@ -237,16 +247,6 @@
     [
       "Using LLM to write SQLite queries",
       "https://amjith.com/blog/2025/llm-in-litecli-1/"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 09:56:32",
-      "https://lobste.rs/s/9xtd4v/introducing_werk"
-    ],
-    [
-      "Introducing Werk",
-      "https://simonask.github.io/introducing-werk/"
     ]
   ]
 ]
