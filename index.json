@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-02-01, 22:24:54",
-      "https://lobste.rs/s/csiw6m/mtg_wiki_is_now_at_mtg_wiki"
-    ],
-    [
-      "The MTG Wiki is now at mtg.wiki",
-      "https://scryfall.com/blog/the-mtg-wiki-is-now-at-mtg-wiki-hosted-by-scryfall-230"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 20:55:32",
       "https://lobste.rs/s/utupyb/allow_necromancy_avoid_reposts_enable"
     ],
@@ -207,6 +197,16 @@
     [
       "uscope: A New Debugger and Introspection Toolchain",
       "https://www.calabro.io/uscope"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 23:02:13",
+      "https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file"
+    ],
+    [
+      "linuxpdf: Linux running inside a PDF file via a RISC-V emulator",
+      "https://github.com/ading2210/linuxpdf"
     ]
   ],
   [
