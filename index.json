@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-02, 05:35:16",
+      "https://lobste.rs/s/burhgj/you_re_missing_your_near_misses"
+    ],
+    [
+      "You’re missing your near misses",
+      "https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 04:13:16",
       "https://lobste.rs/s/xflmye/llms_harmful_technical_innovation"
     ],
@@ -197,16 +207,6 @@
     [
       "uscope: A New Debugger and Introspection Toolchain",
       "https://www.calabro.io/uscope"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 23:02:13",
-      "https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file"
-    ],
-    [
-      "linuxpdf: Linux running inside a PDF file via a RISC-V emulator",
-      "https://github.com/ading2210/linuxpdf"
     ]
   ],
   [
