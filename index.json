@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-02-01, 05:04:04",
-      "https://lobste.rs/s/sdnfah/blazing_fast_iot_data_pipeline_for"
-    ],
-    [
-      "Blazing-fast IoT data pipeline for infrared monitoring",
-      "https://s2.dev/blog/iot"
-    ]
-  ],
-  [
-    [
       "2025-02-01, 05:00:27",
       "https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries"
     ],
@@ -207,6 +197,16 @@
     [
       "uscope: A New Debugger and Introspection Toolchain",
       "https://www.calabro.io/uscope"
+    ]
+  ],
+  [
+    [
+      "2025-01-31, 23:02:13",
+      "https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file"
+    ],
+    [
+      "linuxpdf: Linux running inside a PDF file via a RISC-V emulator",
+      "https://github.com/ading2210/linuxpdf"
     ]
   ],
   [
