@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-02, 10:08:43",
+      "https://lobste.rs/s/4verux/proposal_sync_v2"
+    ],
+    [
+      "proposal: sync/v2",
+      "https://github.com/golang/go/issues/71076"
+    ]
+  ],
+  [
+    [
+      "2025-02-02, 10:02:54",
+      "https://lobste.rs/s/cl8ldl/building_running_mariadb_on_mac"
+    ],
+    [
+      "Building and Running MariaDB on mac",
+      "https://hp77-creator.github.io/blogs/building-understanding-mariaDB"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 09:44:08",
       "https://lobste.rs/s/su4otl/safety_programming_languages_is_means"
     ],
@@ -211,32 +231,12 @@
   ],
   [
     [
-      "2025-01-31, 23:02:13",
-      "https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file"
-    ],
-    [
-      "linuxpdf: Linux running inside a PDF file via a RISC-V emulator",
-      "https://github.com/ading2210/linuxpdf"
-    ]
-  ],
-  [
-    [
       "2025-01-31, 17:48:22",
       "https://lobste.rs/s/kwp8o8/jujutsu_vcs_introduction_patterns"
     ],
     [
       "Jujutsu VCS Introduction and Patterns",
       "https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/"
-    ]
-  ],
-  [
-    [
-      "2025-01-31, 17:01:45",
-      "https://lobste.rs/s/wfmynv/how_we_share_secrets_at_fully_remote"
-    ],
-    [
-      "How we share secrets at a fully-remote startup",
-      "https://mill.plainopen.com/how-we-share-secrets-at-a-fully-remote-startup.html"
     ]
   ],
   [
