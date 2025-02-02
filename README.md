@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-02, 18:26:27](https://lobste.rs/s/rpf1rn/committees_paper) - [Committees Paper](https://www.melconway.com/Home/Committees_Paper.html)
 * [2025-02-02, 16:36:41](https://lobste.rs/s/nsnkts/5_python_details_their_consequences) - [5 Python Details and their Consequences](https://youtu.be/t863QfAOmlY)
 * [2025-02-02, 15:19:56](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not)
 * [2025-02-02, 13:39:59](https://lobste.rs/s/jhweis/for_sale_binaries_compiled_from_hand) - [For Sale: Binaries Compiled From Hand-Crafted Artisanal Code](https://jasonbrownlee.me/blog/posts/hand-crafted-code/)
@@ -24,7 +25,6 @@
 * [2025-02-01, 14:40:39](https://lobste.rs/s/crxqgn/chatbot_software_begins_face) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
 * [2025-02-01, 13:08:08](https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 * [2025-02-01, 10:59:56](https://lobste.rs/s/mcj6ic/visualizing_all_books_world_isbn_space) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
-* [2025-02-01, 05:00:27](https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries) - [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/)
 
 ## [Archives](archives/index.md)
 
