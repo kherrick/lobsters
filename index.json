@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-02, 18:26:27",
+      "https://lobste.rs/s/rpf1rn/committees_paper"
+    ],
+    [
+      "Committees Paper",
+      "https://www.melconway.com/Home/Committees_Paper.html"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 16:36:41",
       "https://lobste.rs/s/nsnkts/5_python_details_their_consequences"
     ],
@@ -237,16 +247,6 @@
     [
       "Visualizing all books of the world in ISBN-Space",
       "https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 05:00:27",
-      "https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries"
-    ],
-    [
-      "Using LLM to write SQLite queries",
-      "https://amjith.com/blog/2025/llm-in-litecli-1/"
     ]
   ]
 ]
