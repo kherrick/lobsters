@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-02, 20:29:11",
+      "https://lobste.rs/s/gisler/everyone_knows_your_location_tracking"
+    ],
+    [
+      "Everyone knows your location: tracking myself down through in-app ads",
+      "https://timsh.org/tracking-myself-down-through-in-app-ads/"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 18:39:35",
       "https://lobste.rs/s/u4mgvq/par_experimental_concurrent_language"
     ],
@@ -197,16 +207,6 @@
     [
       "Extending the Coreutils project - Rewriting base tools in Rust",
       "https://uutils.github.io/blog/2025-02-extending/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 15:59:17",
-      "https://lobste.rs/s/eazsn7/next_chapter_swift_build_technologies"
-    ],
-    [
-      "The Next Chapter in Swift Build Technologies",
-      "https://swift.org/blog/the-next-chapter-in-swift-build-technologies/"
     ]
   ],
   [
