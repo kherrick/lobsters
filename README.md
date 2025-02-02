@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-02, 23:13:34](https://lobste.rs/s/gtpau6/it_utilities) - [it - utilities](https://github.com/theHamdiz/it)
 * [2025-02-02, 20:29:11](https://lobste.rs/s/gisler/everyone_knows_your_location_tracking) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 18:39:35](https://lobste.rs/s/u4mgvq/par_experimental_concurrent_language) - [par: experimental concurrent language with an interactive playground](https://github.com/faiface/par-lang)
 * [2025-02-02, 18:26:27](https://lobste.rs/s/rpf1rn/committees_paper) - [Committees Paper](https://www.melconway.com/Home/Committees_Paper.html)
@@ -24,7 +25,6 @@
 * [2025-02-01, 15:06:18](https://lobste.rs/s/si9lwe/using_serde_quote_syn_proc_macro2) - [Using serde, quote, syn and proc_macro2 to implement the Kafka protocol sans-io in Rust](https://blog.tansu.io/articles/serde-kafka-protocol)
 * [2025-02-01, 14:40:39](https://lobste.rs/s/crxqgn/chatbot_software_begins_face) - [Chatbot Software Begins to Face Fundamental Limitations](https://www.quantamagazine.org/chatbot-software-begins-to-face-fundamental-limitations-20250131/)
 * [2025-02-01, 13:08:08](https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
-* [2025-02-01, 10:59:56](https://lobste.rs/s/mcj6ic/visualizing_all_books_world_isbn_space) - [Visualizing all books of the world in ISBN-Space](https://phiresky.github.io/blog/2025/visualizing-all-books-in-isbn-space/)
 
 ## [Archives](archives/index.md)
 

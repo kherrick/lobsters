@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 23:13:34](https://lobste.rs/s/gtpau6/it_utilities) - [it - utilities](https://github.com/theHamdiz/it)
 * [2025-02-02, 20:29:11](https://lobste.rs/s/gisler/everyone_knows_your_location_tracking) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 18:39:35](https://lobste.rs/s/u4mgvq/par_experimental_concurrent_language) - [par: experimental concurrent language with an interactive playground](https://github.com/faiface/par-lang)
 * [2025-02-02, 18:26:27](https://lobste.rs/s/rpf1rn/committees_paper) - [Committees Paper](https://www.melconway.com/Home/Committees_Paper.html)
