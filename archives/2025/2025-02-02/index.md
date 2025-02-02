@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 10:38:07](https://lobste.rs/s/ockgcp/unexpected_benefits_building_your_own) - [Unexpected Benefits of Building Your Own Tools](https://tiniuc.com/make-more-tools/)
 * [2025-02-02, 10:08:43](https://lobste.rs/s/4verux/proposal_sync_v2) - [proposal: sync/v2](https://github.com/golang/go/issues/71076)
 * [2025-02-02, 10:02:54](https://lobste.rs/s/cl8ldl/building_running_mariadb_on_mac) - [Building and Running MariaDB on mac](https://hp77-creator.github.io/blogs/building-understanding-mariaDB)
 * [2025-02-02, 09:44:08](https://lobste.rs/s/su4otl/safety_programming_languages_is_means) - [Safety in Programming Languages is a Means to an End](https://lewiscampbell.tech/blog/250202.html)
