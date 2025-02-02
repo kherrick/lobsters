@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-02, 10:08:43](https://lobste.rs/s/4verux/proposal_sync_v2) - [proposal: sync/v2](https://github.com/golang/go/issues/71076)
+* [2025-02-02, 10:02:54](https://lobste.rs/s/cl8ldl/building_running_mariadb_on_mac) - [Building and Running MariaDB on mac](https://hp77-creator.github.io/blogs/building-understanding-mariaDB)
 * [2025-02-02, 09:44:08](https://lobste.rs/s/su4otl/safety_programming_languages_is_means) - [Safety in Programming Languages is a Means to an End](https://lewiscampbell.tech/blog/250202.html)
 * [2025-02-02, 05:35:16](https://lobste.rs/s/burhgj/you_re_missing_your_near_misses) - [You’re missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-02, 04:13:16](https://lobste.rs/s/xflmye/llms_harmful_technical_innovation) - [LLMs: harmful to technical innovation?](https://evanhahn.com/llms-and-technical-innovation/)
@@ -21,9 +23,7 @@
 * [2025-02-01, 06:36:16](https://lobste.rs/s/pxl2tu/another_monthly_release_c3_0_6_6_is_here) - [Another monthly release: C3 0.6.6 is here](https://c3.handmade.network/blog/p/8983-another_monthly_release__c3_0.6.6_is_here)
 * [2025-02-01, 05:00:27](https://lobste.rs/s/fmp1vo/using_llm_write_sqlite_queries) - [Using LLM to write SQLite queries](https://amjith.com/blog/2025/llm-in-litecli-1/)
 * [2025-01-31, 23:04:25](https://lobste.rs/s/fpisao/uscope_new_debugger_introspection) - [uscope: A New Debugger and Introspection Toolchain](https://www.calabro.io/uscope)
-* [2025-01-31, 23:02:13](https://lobste.rs/s/lg6my5/linuxpdf_linux_running_inside_pdf_file) - [linuxpdf: Linux running inside a PDF file via a RISC-V emulator](https://github.com/ading2210/linuxpdf)
 * [2025-01-31, 17:48:22](https://lobste.rs/s/kwp8o8/jujutsu_vcs_introduction_patterns) - [Jujutsu VCS Introduction and Patterns](https://kubamartin.com/posts/introduction-to-the-jujutsu-vcs/)
-* [2025-01-31, 17:01:45](https://lobste.rs/s/wfmynv/how_we_share_secrets_at_fully_remote) - [How we share secrets at a fully-remote startup](https://mill.plainopen.com/how-we-share-secrets-at-a-fully-remote-startup.html)
 * [2025-01-31, 09:56:32](https://lobste.rs/s/9xtd4v/introducing_werk) - [Introducing Werk](https://simonask.github.io/introducing-werk/)
 
 ## [Archives](archives/index.md)

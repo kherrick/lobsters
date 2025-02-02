@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-02](index.md)
 
+* [2025-02-02, 10:08:43](https://lobste.rs/s/4verux/proposal_sync_v2) - [proposal: sync/v2](https://github.com/golang/go/issues/71076)
+* [2025-02-02, 10:02:54](https://lobste.rs/s/cl8ldl/building_running_mariadb_on_mac) - [Building and Running MariaDB on mac](https://hp77-creator.github.io/blogs/building-understanding-mariaDB)
 * [2025-02-02, 09:44:08](https://lobste.rs/s/su4otl/safety_programming_languages_is_means) - [Safety in Programming Languages is a Means to an End](https://lewiscampbell.tech/blog/250202.html)
 * [2025-02-02, 05:35:16](https://lobste.rs/s/burhgj/you_re_missing_your_near_misses) - [You’re missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-02, 04:13:16](https://lobste.rs/s/xflmye/llms_harmful_technical_innovation) - [LLMs: harmful to technical innovation?](https://evanhahn.com/llms-and-technical-innovation/)
