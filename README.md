@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-03, 21:55:39](https://lobste.rs/s/ejmyaj/got0_considered_harmful_considered) - [\"GOT0 Considered Harmful” Considered Harmful (1987)](http://web.archive.org/web/20090320002214/http://www.ecn.purdue.edu/ParaMount/papers/rubin87goto.pdf)
 * [2025-02-03, 21:43:44](https://lobste.rs/s/wfc7gs/build_your_own_sqlite_rust_part_4_reading) - [Build your own SQLite in Rust, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
 * [2025-02-03, 20:59:58](https://lobste.rs/s/sognld/gang_none_design_patterns_elixir) - [Gang of None? Design Patterns in Elixir](https://www.youtube.com/watch?v=agkXUp0hCW8)
 * [2025-02-03, 19:12:49](https://lobste.rs/s/ddhcet/operational_denotational_strategies) - [Operational and Denotational Strategies for Understanding Code](https://noelwelsh.com/posts/operational-denotational-understanding/)
@@ -24,7 +25,6 @@
 * [2025-02-02, 23:45:16](https://lobste.rs/s/0enkqp/hollywood_split_computer_console_into) - [Hollywood: split a computer console into multiple panes of genuine technical melodrama](https://a.hollywood.computer/)
 * [2025-02-02, 20:29:11](https://lobste.rs/s/gisler/everyone_knows_your_location_tracking) - [Everyone knows your location: tracking myself down through in-app ads](https://timsh.org/tracking-myself-down-through-in-app-ads/)
 * [2025-02-02, 15:19:56](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not)
-* [2025-02-02, 10:38:07](https://lobste.rs/s/ockgcp/unexpected_benefits_building_your_own) - [Unexpected Benefits of Building Your Own Tools](https://tiniuc.com/make-more-tools/)
 
 ## [Archives](archives/index.md)
 
