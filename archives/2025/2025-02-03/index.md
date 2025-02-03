@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 17:52:14](https://lobste.rs/s/dx533x/pangui_cross_platform_ui_library_with) - [PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power](https://pangui.io/)
+* [2025-02-03, 17:48:06](https://lobste.rs/s/drf83t/retaking_web_browser_one_small_step_at) - [Retaking The Web Browser, One Small Step At A Time](https://andregarzia.com/2025/02/retaking-the-web-browser-one-small-step-at-a-time.html)
 * [2025-02-03, 16:57:46](https://lobste.rs/s/itlgqb/developer_philosophy) - [Developer philosophy](https://qntm.org/devphilo)
 * [2025-02-03, 16:56:14](https://lobste.rs/s/kcotyr/disassembling_binary_linear_sweep) - [Disassembling a binary: linear sweep and recursive traversal](https://nicolo.dev/en/blog/disassembling-binary-linear-recursive/)
 * [2025-02-03, 15:32:01](https://lobste.rs/s/nfm3gu/what_s_next_for_flathub_build) - [What's next for Flathub build infrastructure](https://docs.flathub.org/blog/flathub-build-infrastructure-revamp)
