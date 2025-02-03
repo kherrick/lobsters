@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 16:57:46](https://lobste.rs/s/itlgqb/developer_philosophy) - [Developer philosophy](https://qntm.org/devphilo)
+* [2025-02-03, 16:56:14](https://lobste.rs/s/kcotyr/disassembling_binary_linear_sweep) - [Disassembling a binary: linear sweep and recursive traversal](https://nicolo.dev/en/blog/disassembling-binary-linear-recursive/)
 * [2025-02-03, 15:32:01](https://lobste.rs/s/nfm3gu/what_s_next_for_flathub_build) - [What's next for Flathub build infrastructure](https://docs.flathub.org/blog/flathub-build-infrastructure-revamp)
 * [2025-02-03, 15:08:59](https://lobste.rs/s/4vgdml/pinning_down_future_is_not_send_errors) - [Pinning Down \"Future Is Not Send\" Errors](https://emschwartz.me/pinning-down-future-is-not-send-errors/)
 * [2025-02-03, 13:55:38](https://lobste.rs/s/hflh6v/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/hflh6v/what_are_you_doing_this_week)
