@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-03, 10:24:05](https://lobste.rs/s/kc63sr/rustsec_2025_0004_openssl_ssl_select_next) - [RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free](https://rustsec.org/advisories/RUSTSEC-2025-0004)
+* [2025-02-03, 10:22:40](https://lobste.rs/s/e5tc2a/selfish_personal_argument_for_releasing) - [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/)
 * [2025-02-03, 09:48:09](https://lobste.rs/s/14jyfc/using_local_translation_models_on) - [Using local translation models on Android](https://blog.davidv.dev/posts/mobile-translator/)
 * [2025-02-03, 09:33:18](https://lobste.rs/s/fc8vhe/freedoms_for_who_revisited_briefly) - [freedoms-for-who, revisited briefly](https://lu.is/2025/02/freedoms-for-who-revisited-briefly/)
 * [2025-02-03, 08:54:53](https://lobste.rs/s/e7clsc/nix_string_interpolation_directories) - [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html)
@@ -21,8 +23,6 @@
 * [2025-02-02, 09:44:08](https://lobste.rs/s/su4otl/safety_programming_languages_is_means) - [Safety in Programming Languages is a Means to an End](https://lewiscampbell.tech/blog/250202.html)
 * [2025-02-02, 05:35:16](https://lobste.rs/s/burhgj/you_re_missing_your_near_misses) - [You’re missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-02, 04:13:16](https://lobste.rs/s/xflmye/llms_harmful_technical_innovation) - [LLMs: harmful to technical innovation?](https://evanhahn.com/llms-and-technical-innovation/)
-* [2025-02-02, 04:01:50](https://lobste.rs/s/xjxdr2/tai64_wild_is_sometimes_not_tai) - [TAI64 in the wild is (sometimes) not TAI](https://blog.dave.tf/post/tai64-is-not-tai/)
-* [2025-02-02, 03:11:56](https://lobste.rs/s/un0fut/freebsd_alongside_windows) - [FreeBSD Alongside Windows](https://vermaden.wordpress.com/2025/02/02/freebsd-alongside-windows/)
 * [2025-02-02, 02:10:34](https://lobste.rs/s/mxouhv/3_tools_for_2025) - [3 Tools for 2025](http://yosemitesam.ch/3-tools-for-2025/)
 * [2025-02-01, 13:08:08](https://lobste.rs/s/sv1ulo/hell_is_overconfident_developers) - [Hell Is Overconfident Developers Writing Encryption Code](https://soatok.blog/2025/01/31/hell-is-overconfident-developers-writing-encryption-code/)
 

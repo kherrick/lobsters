@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 10:24:05](https://lobste.rs/s/kc63sr/rustsec_2025_0004_openssl_ssl_select_next) - [RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free](https://rustsec.org/advisories/RUSTSEC-2025-0004)
+* [2025-02-03, 10:22:40](https://lobste.rs/s/e5tc2a/selfish_personal_argument_for_releasing) - [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/)
 * [2025-02-03, 09:48:09](https://lobste.rs/s/14jyfc/using_local_translation_models_on) - [Using local translation models on Android](https://blog.davidv.dev/posts/mobile-translator/)
 * [2025-02-03, 09:33:18](https://lobste.rs/s/fc8vhe/freedoms_for_who_revisited_briefly) - [freedoms-for-who, revisited briefly](https://lu.is/2025/02/freedoms-for-who-revisited-briefly/)
 * [2025-02-03, 08:54:53](https://lobste.rs/s/e7clsc/nix_string_interpolation_directories) - [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html)
