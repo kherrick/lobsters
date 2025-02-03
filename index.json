@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 20:59:58",
+      "https://lobste.rs/s/sognld/gang_none_design_patterns_elixir"
+    ],
+    [
+      "Gang of None? Design Patterns in Elixir",
+      "https://www.youtube.com/watch?v=agkXUp0hCW8"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 19:12:49",
       "https://lobste.rs/s/ddhcet/operational_denotational_strategies"
     ],
@@ -237,16 +247,6 @@
     [
       "Unexpected Benefits of Building Your Own Tools",
       "https://tiniuc.com/make-more-tools/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 04:13:16",
-      "https://lobste.rs/s/xflmye/llms_harmful_technical_innovation"
-    ],
-    [
-      "LLMs: harmful to technical innovation?",
-      "https://evanhahn.com/llms-and-technical-innovation/"
     ]
   ]
 ]
