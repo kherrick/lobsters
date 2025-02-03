@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-03, 07:00:25](https://lobste.rs/s/8pbipx/caveat_with_statically_linked_language) - [A caveat with statically linked language runtimes](https://thinkingeek.com/2025/01/31/caveat-with-statically-linked-language-runtimes/)
 * [2025-02-03, 06:22:27](https://lobste.rs/s/vploy1/incident_sev_scales_are_waste_time) - [Incident SEV scales are a waste of time](https://blog.danslimmon.com/2025/01/29/incident-sev-scales-are-a-waste-of-time/)
 * [2025-02-03, 04:16:57](https://lobste.rs/s/mvtj4c/python_free_threading_guide) - [Python free-threading guide](https://py-free-threading.github.io/)
 * [2025-02-03, 02:51:18](https://lobste.rs/s/eypjyq/learn_common_lisp_by_example_gtk_gui_with) - [Learn Common Lisp by Example: GTK GUI with SBCL](https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl)
@@ -13,7 +14,6 @@
 * [2025-02-02, 18:39:35](https://lobste.rs/s/u4mgvq/par_experimental_concurrent_language) - [par: experimental concurrent language with an interactive playground](https://github.com/faiface/par-lang)
 * [2025-02-02, 15:19:56](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not)
 * [2025-02-02, 13:39:59](https://lobste.rs/s/jhweis/for_sale_binaries_compiled_from_hand) - [For Sale: Binaries Compiled From Hand-Crafted Artisanal Code](https://jasonbrownlee.me/blog/posts/hand-crafted-code/)
-* [2025-02-02, 12:15:50](https://lobste.rs/s/yhixpo/how_train_ai_image_model_on_yourself) - [How to Train an AI Image Model on Yourself](https://www.coryzue.com/writing/make-ai-pictures-of-yourself/)
 * [2025-02-02, 10:47:11](https://lobste.rs/s/3nmvvr/eat_your_greens_philosophy_for_language) - [Eat your greens - A philosophy for language design](https://www.youtube.com/watch?v=bzUXK5VBbXc)
 * [2025-02-02, 10:38:07](https://lobste.rs/s/ockgcp/unexpected_benefits_building_your_own) - [Unexpected Benefits of Building Your Own Tools](https://tiniuc.com/make-more-tools/)
 * [2025-02-02, 10:08:43](https://lobste.rs/s/4verux/proposal_sync_v2) - [proposal: sync/v2](https://github.com/golang/go/issues/71076)
