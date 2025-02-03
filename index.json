@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-03, 19:12:49",
+      "https://lobste.rs/s/ddhcet/operational_denotational_strategies"
+    ],
+    [
+      "Operational and Denotational Strategies for Understanding Code",
+      "https://noelwelsh.com/posts/operational-denotational-understanding/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 19:08:06",
+      "https://lobste.rs/s/ggpzzz/so_you_want_remove_gvl"
+    ],
+    [
+      "So You Want To Remove The GVL?",
+      "https://byroot.github.io/ruby/performance/2025/01/29/so-you-want-to-remove-the-gvl.html"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 18:23:46",
       "https://lobste.rs/s/z2ch3o/follow_up_on_emails_with_mu4e_org_capture"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-02-03, 09:33:18",
-      "https://lobste.rs/s/fc8vhe/freedoms_for_who_revisited_briefly"
-    ],
-    [
-      "freedoms-for-who, revisited briefly",
-      "https://lu.is/2025/02/freedoms-for-who-revisited-briefly/"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 08:54:53",
       "https://lobste.rs/s/e7clsc/nix_string_interpolation_directories"
     ],
@@ -237,16 +247,6 @@
     [
       "LLMs: harmful to technical innovation?",
       "https://evanhahn.com/llms-and-technical-innovation/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 02:10:34",
-      "https://lobste.rs/s/mxouhv/3_tools_for_2025"
-    ],
-    [
-      "3 Tools for 2025",
-      "http://yosemitesam.ch/3-tools-for-2025/"
     ]
   ]
 ]
