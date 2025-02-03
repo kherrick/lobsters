@@ -4,7 +4,7 @@
 * [2025-02-03, 13:37:00](https://lobste.rs/s/u7sehz/optimizing_with_novel_calendrical) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 * [2025-02-03, 12:55:00](https://lobste.rs/s/jfsmzp/arithmetic_coding_for_data_compression) - [Arithmetic Coding for Data Compression](https://dl.acm.org/doi/pdf/10.1145/214762.214771)
 * [2025-02-03, 12:50:19](https://lobste.rs/s/tn67at/five_coding_hats) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
-* [2025-02-03, 12:39:06](https://lobste.rs/s/rtb671/porting_crystal_realms_android_with_bevy) - [Porting Crystal Realms to Android with Bevy](https://www.youtube.com/watch?v=4EE_bhHZZA4)
+* [2025-02-03, 12:24:42](https://lobste.rs/s/o8opng/patient_programmer) - [The Patient Programmer](https://dbushell.com/2025/01/31/the-patient-programmer/)
 * [2025-02-03, 11:32:50](https://lobste.rs/s/5snozq/perfect_is_enemy_good) - [Perfect is the enemy of good](https://medv.io/blog/perfect-is-the-enemy-of-good)
 * [2025-02-03, 10:24:05](https://lobste.rs/s/kc63sr/rustsec_2025_0004_openssl_ssl_select_next) - [RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free](https://rustsec.org/advisories/RUSTSEC-2025-0004)
 * [2025-02-03, 10:22:40](https://lobste.rs/s/e5tc2a/selfish_personal_argument_for_releasing) - [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/)
