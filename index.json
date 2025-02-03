@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-02-03, 18:17:01",
-      "https://lobste.rs/s/hgwiph/lisa_production_quality_expert_system"
-    ],
-    [
-      "Lisa: Production-quality expert-system shell",
-      "https://github.com/youngde811/Lisa"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 17:57:30",
       "https://lobste.rs/s/k4lome/generating_image_descriptions_alt_text"
     ],
@@ -51,6 +41,16 @@
   ],
   [
     [
+      "2025-02-03, 15:32:01",
+      "https://lobste.rs/s/nfm3gu/what_s_next_for_flathub_build"
+    ],
+    [
+      "What's next for Flathub build infrastructure",
+      "https://docs.flathub.org/blog/flathub-build-infrastructure-revamp"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 15:08:59",
       "https://lobste.rs/s/4vgdml/pinning_down_future_is_not_send_errors"
     ],
@@ -77,6 +77,16 @@
     [
       "Optimizing with Novel Calendrical Algorithms",
       "https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 12:55:00",
+      "https://lobste.rs/s/jfsmzp/arithmetic_coding_for_data_compression"
+    ],
+    [
+      "Arithmetic Coding for Data Compression",
+      "https://dl.acm.org/doi/pdf/10.1145/214762.214771"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Learn Common Lisp by Example: GTK GUI with SBCL",
       "https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 02:34:59",
-      "https://lobste.rs/s/kns9xb/android_binder"
-    ],
-    [
-      "Android Binder",
-      "https://elinux.org/Android_Binder"
     ]
   ],
   [
