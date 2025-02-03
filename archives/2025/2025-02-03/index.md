@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 09:48:09](https://lobste.rs/s/14jyfc/using_local_translation_models_on) - [Using local translation models on Android](https://blog.davidv.dev/posts/mobile-translator/)
 * [2025-02-03, 09:33:18](https://lobste.rs/s/fc8vhe/freedoms_for_who_revisited_briefly) - [freedoms-for-who, revisited briefly](https://lu.is/2025/02/freedoms-for-who-revisited-briefly/)
 * [2025-02-03, 08:54:53](https://lobste.rs/s/e7clsc/nix_string_interpolation_directories) - [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html)
 * [2025-02-03, 07:00:25](https://lobste.rs/s/8pbipx/caveat_with_statically_linked_language) - [A caveat with statically linked language runtimes](https://thinkingeek.com/2025/01/31/caveat-with-statically-linked-language-runtimes/)
