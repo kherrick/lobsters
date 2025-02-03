@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-03, 02:51:18](https://lobste.rs/s/eypjyq/learn_common_lisp_by_example_gtk_gui_with) - [Learn Common Lisp by Example: GTK GUI with SBCL](https://goober99.hashnode.dev/learn-common-lisp-by-example-gtk-gui-with-sbcl)
 * [2025-02-03, 02:34:59](https://lobste.rs/s/kns9xb/android_binder) - [Android Binder](https://elinux.org/Android_Binder)
 * [2025-02-03, 02:23:49](https://lobste.rs/s/w9njbq/tote_rewriting_playground) - [Tote:Rewriting Playground](https://100r.co/site/tote.html)
 * [2025-02-03, 02:19:02](https://lobste.rs/s/f03vpe/how_i_use_ai_early_2025) - [How I Use AI: Early 2025](https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/)
@@ -16,7 +17,6 @@
 * [2025-02-02, 10:47:11](https://lobste.rs/s/3nmvvr/eat_your_greens_philosophy_for_language) - [Eat your greens - A philosophy for language design](https://www.youtube.com/watch?v=bzUXK5VBbXc)
 * [2025-02-02, 10:38:07](https://lobste.rs/s/ockgcp/unexpected_benefits_building_your_own) - [Unexpected Benefits of Building Your Own Tools](https://tiniuc.com/make-more-tools/)
 * [2025-02-02, 10:08:43](https://lobste.rs/s/4verux/proposal_sync_v2) - [proposal: sync/v2](https://github.com/golang/go/issues/71076)
-* [2025-02-02, 10:02:54](https://lobste.rs/s/cl8ldl/building_running_mariadb_on_mac) - [Building and Running MariaDB on mac](https://hp77-creator.github.io/blogs/building-understanding-mariaDB)
 * [2025-02-02, 09:44:08](https://lobste.rs/s/su4otl/safety_programming_languages_is_means) - [Safety in Programming Languages is a Means to an End](https://lewiscampbell.tech/blog/250202.html)
 * [2025-02-02, 05:35:16](https://lobste.rs/s/burhgj/you_re_missing_your_near_misses) - [You’re missing your near misses](https://surfingcomplexity.blog/2025/02/01/youre-missing-your-near-misses/)
 * [2025-02-02, 04:13:16](https://lobste.rs/s/xflmye/llms_harmful_technical_innovation) - [LLMs: harmful to technical innovation?](https://evanhahn.com/llms-and-technical-innovation/)
