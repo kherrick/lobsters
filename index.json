@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-03, 10:24:05",
+      "https://lobste.rs/s/kc63sr/rustsec_2025_0004_openssl_ssl_select_next"
+    ],
+    [
+      "RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free",
+      "https://rustsec.org/advisories/RUSTSEC-2025-0004"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 10:22:40",
+      "https://lobste.rs/s/e5tc2a/selfish_personal_argument_for_releasing"
+    ],
+    [
+      "A selfish personal argument for releasing code as Open Source",
+      "https://simonwillison.net/2025/Jan/24/selfish-open-source/"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 09:48:09",
       "https://lobste.rs/s/14jyfc/using_local_translation_models_on"
     ],
@@ -207,26 +227,6 @@
     [
       "LLMs: harmful to technical innovation?",
       "https://evanhahn.com/llms-and-technical-innovation/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 04:01:50",
-      "https://lobste.rs/s/xjxdr2/tai64_wild_is_sometimes_not_tai"
-    ],
-    [
-      "TAI64 in the wild is (sometimes) not TAI",
-      "https://blog.dave.tf/post/tai64-is-not-tai/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 03:11:56",
-      "https://lobste.rs/s/un0fut/freebsd_alongside_windows"
-    ],
-    [
-      "FreeBSD Alongside Windows",
-      "https://vermaden.wordpress.com/2025/02/02/freebsd-alongside-windows/"
     ]
   ],
   [
