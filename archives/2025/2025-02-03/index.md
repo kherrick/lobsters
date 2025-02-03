@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-03](index.md)
 
+* [2025-02-03, 13:37:00](https://lobste.rs/s/u7sehz/optimizing_with_novel_calendrical) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 * [2025-02-03, 12:55:00](https://lobste.rs/s/jfsmzp/arithmetic_coding_for_data_compression) - [Arithmetic Coding for Data Compression](https://dl.acm.org/doi/pdf/10.1145/214762.214771)
 * [2025-02-03, 12:50:19](https://lobste.rs/s/tn67at/five_coding_hats) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-03, 12:39:06](https://lobste.rs/s/rtb671/porting_crystal_realms_android_with_bevy) - [Porting Crystal Realms to Android with Bevy](https://www.youtube.com/watch?v=4EE_bhHZZA4)
