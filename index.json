@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-02-03, 02:34:59",
+      "https://lobste.rs/s/kns9xb/android_binder"
+    ],
+    [
+      "Android Binder",
+      "https://elinux.org/Android_Binder"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 02:23:49",
+      "https://lobste.rs/s/w9njbq/tote_rewriting_playground"
+    ],
+    [
+      "Tote:Rewriting Playground",
+      "https://100r.co/site/tote.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 02:19:02",
+      "https://lobste.rs/s/f03vpe/how_i_use_ai_early_2025"
+    ],
+    [
+      "How I Use AI: Early 2025",
+      "https://benjamincongdon.me/blog/2025/02/02/How-I-Use-AI-Early-2025/"
+    ]
+  ],
+  [
+    [
+      "2025-02-03, 01:54:51",
+      "https://lobste.rs/s/oznbyx/designing_your_data_bread_butter_apl"
+    ],
+    [
+      "Designing your Data: The Bread & Butter of APL Performance by Aaron Hsu",
+      "https://www.youtube.com/watch?v=ozlxUmdYsHA"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 23:51:45",
       "https://lobste.rs/s/kynwot/scripts_help_setup_llms_tools_easily_from"
     ],
@@ -57,16 +97,6 @@
     [
       "Committees Paper",
       "https://www.melconway.com/Home/Committees_Paper.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 16:36:41",
-      "https://lobste.rs/s/nsnkts/5_python_details_their_consequences"
-    ],
-    [
-      "5 Python Details and their Consequences",
-      "https://youtu.be/t863QfAOmlY"
     ]
   ],
   [
@@ -207,36 +237,6 @@
     [
       "Waydroid - Android in a Linux container",
       "https://waydro.id/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 19:54:59",
-      "https://lobste.rs/s/u292ym/python_3_pygame_debian_bookworm_on_miyoo"
-    ],
-    [
-      "Python 3, Pygame, and Debian Bookworm on the Miyoo A30",
-      "https://www.jtolio.com/2025/02/py3-pygame-miyoo-a30/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 19:10:06",
-      "https://lobste.rs/s/nbmpqe/origin_unexpected_evolution_word"
-    ],
-    [
-      "The origin and unexpected evolution of the word \"mainframe\"",
-      "https://www.righto.com/2025/02/origin-of-mainframe-term.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 16:02:27",
-      "https://lobste.rs/s/mob1j1/extending_coreutils_project_rewriting"
-    ],
-    [
-      "Extending the Coreutils project - Rewriting base tools in Rust",
-      "https://uutils.github.io/blog/2025-02-extending/"
     ]
   ],
   [
