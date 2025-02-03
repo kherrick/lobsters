@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-02, 23:51:45",
+      "https://lobste.rs/s/kynwot/scripts_help_setup_llms_tools_easily_from"
+    ],
+    [
+      "Scripts to help setup llms tools easily from fosdem",
+      "https://github.com/obuzek/llm-second-brain"
+    ]
+  ],
+  [
+    [
       "2025-02-02, 23:45:16",
       "https://lobste.rs/s/0enkqp/hollywood_split_computer_console_into"
     ],
@@ -227,16 +237,6 @@
     [
       "Extending the Coreutils project - Rewriting base tools in Rust",
       "https://uutils.github.io/blog/2025-02-extending/"
-    ]
-  ],
-  [
-    [
-      "2025-02-01, 15:06:18",
-      "https://lobste.rs/s/si9lwe/using_serde_quote_syn_proc_macro2"
-    ],
-    [
-      "Using serde, quote, syn and proc_macro2 to implement the Kafka protocol sans-io in Rust",
-      "https://blog.tansu.io/articles/serde-kafka-protocol"
     ]
   ],
   [
