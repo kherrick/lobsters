@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-03, 21:43:44",
+      "https://lobste.rs/s/wfc7gs/build_your_own_sqlite_rust_part_4_reading"
+    ],
+    [
+      "Build your own SQLite in Rust, Part 4: reading tables metadata",
+      "https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata"
+    ]
+  ],
+  [
+    [
       "2025-02-03, 20:59:58",
       "https://lobste.rs/s/sognld/gang_none_design_patterns_elixir"
     ],
@@ -117,16 +127,6 @@
     [
       "Optimizing with Novel Calendrical Algorithms",
       "https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 12:55:00",
-      "https://lobste.rs/s/jfsmzp/arithmetic_coding_for_data_compression"
-    ],
-    [
-      "Arithmetic Coding for Data Compression",
-      "https://dl.acm.org/doi/pdf/10.1145/214762.214771"
     ]
   ],
   [
