@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 17:32:08](https://lobste.rs/s/av0ka1/fat_rand_how_many_lines_do_you_need) - [Fat Rand: How Many Lines Do You Need To Generate A Random Number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
+* [2025-02-04, 17:30:41](https://lobste.rs/s/sinfhk/supply_chain_security_danger_abandoned) - [Supply chain security and the danger of abandoned S3 buckets](https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/)
+* [2025-02-04, 17:18:45](https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 15:52:01](https://lobste.rs/s/ou6ky6/big_packages_many_dependencies) - [Big Packages or Many Dependencies ](https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/)
 * [2025-02-04, 14:27:26](https://lobste.rs/s/rgydie/decorator_jits_python_as_dsl) - [Decorator JITs - Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 * [2025-02-04, 13:42:50](https://lobste.rs/s/wucizv/no_panic_rust_nice_technique_for_systems) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)

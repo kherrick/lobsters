@@ -1,5 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-04, 17:32:08](https://lobste.rs/s/av0ka1/fat_rand_how_many_lines_do_you_need) - [Fat Rand: How Many Lines Do You Need To Generate A Random Number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
+* [2025-02-04, 17:30:41](https://lobste.rs/s/sinfhk/supply_chain_security_danger_abandoned) - [Supply chain security and the danger of abandoned S3 buckets](https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/)
+* [2025-02-04, 17:18:45](https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 15:52:01](https://lobste.rs/s/ou6ky6/big_packages_many_dependencies) - [Big Packages or Many Dependencies ](https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/)
 * [2025-02-04, 14:27:26](https://lobste.rs/s/rgydie/decorator_jits_python_as_dsl) - [Decorator JITs - Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 * [2025-02-04, 13:42:50](https://lobste.rs/s/wucizv/no_panic_rust_nice_technique_for_systems) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
@@ -12,7 +15,6 @@
 * [2025-02-03, 21:55:39](https://lobste.rs/s/ejmyaj/goto_considered_harmful_considered) - [\"GOTO Considered Harmful” Considered Harmful (1987)](http://web.archive.org/web/20090320002214/http://www.ecn.purdue.edu/ParaMount/papers/rubin87goto.pdf)
 * [2025-02-03, 21:43:44](https://lobste.rs/s/wfc7gs/build_your_own_sqlite_rust_part_4_reading) - [Build your own SQLite in Rust, Part 4: reading tables metadata](https://blog.sylver.dev/build-your-own-sqlite-part-4-reading-tables-metadata)
 * [2025-02-03, 21:43:39](https://lobste.rs/s/9sitsj/clr_checker_for_lifetimes_other) - [clr: Checker for Lifetimes and other Refinement types](https://github.com/ityonemo/clr)
-* [2025-02-03, 20:59:58](https://lobste.rs/s/sognld/gang_none_design_patterns_elixir) - [Gang of None? Design Patterns in Elixir](https://www.youtube.com/watch?v=agkXUp0hCW8)
 * [2025-02-03, 19:08:06](https://lobste.rs/s/ggpzzz/so_you_want_remove_gvl) - [So You Want To Remove The GVL?](https://byroot.github.io/ruby/performance/2025/01/29/so-you-want-to-remove-the-gvl.html)
 * [2025-02-03, 18:23:46](https://lobste.rs/s/z2ch3o/follow_up_on_emails_with_mu4e_org_capture) - [Follow up on emails with mu4e and org capture](https://breatheoutbreathe.in/2025-02-03-follow-up-emails-mu4e-org-capture.html)
 * [2025-02-03, 17:52:14](https://lobste.rs/s/dx533x/pangui_cross_platform_ui_library_with) - [PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power](https://pangui.io/)
@@ -22,9 +24,7 @@
 * [2025-02-03, 13:37:00](https://lobste.rs/s/u7sehz/optimizing_with_novel_calendrical) - [Optimizing with Novel Calendrical Algorithms](https://jhpratt.dev/blog/optimizing-with-novel-calendrical-algorithms/)
 * [2025-02-03, 12:50:19](https://lobste.rs/s/tn67at/five_coding_hats) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-03, 11:32:50](https://lobste.rs/s/5snozq/perfect_is_enemy_good) - [Perfect is the enemy of good](https://medv.io/blog/perfect-is-the-enemy-of-good)
-* [2025-02-03, 10:24:05](https://lobste.rs/s/kc63sr/rustsec_2025_0004_openssl_ssl_select_next) - [RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free](https://rustsec.org/advisories/RUSTSEC-2025-0004)
 * [2025-02-03, 04:16:57](https://lobste.rs/s/mvtj4c/python_free_threading_guide) - [Python free-threading guide](https://py-free-threading.github.io/)
-* [2025-02-02, 15:19:56](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not) - [What software do you dream about, but do not have time to code yourself?](https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not)
 
 ## [Archives](archives/index.md)
 
