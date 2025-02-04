@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-04, 21:46:35",
+      "https://lobste.rs/s/bghtmg/acl2"
+    ],
+    [
+      "ACL2",
+      "https://www.cs.utexas.edu/~moore/acl2/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 21:44:13",
+      "https://lobste.rs/s/i6c3zr/cooperative_multitasking_rust"
+    ],
+    [
+      "Cooperative multitasking in Rust",
+      "https://elric.pl/blog/cooperative-multitasking"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 21:12:40",
       "https://lobste.rs/s/quy6ev/developer_serenityos_is_challenging"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-02-03, 21:43:39",
-      "https://lobste.rs/s/9sitsj/clr_checker_for_lifetimes_other"
-    ],
-    [
-      "clr: Checker for Lifetimes and other Refinement types",
-      "https://github.com/ityonemo/clr"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 17:52:14",
       "https://lobste.rs/s/dx533x/pangui_cross_platform_ui_library_with"
     ],
@@ -237,16 +247,6 @@
     [
       "Five coding hats",
       "https://dubroy.com/blog/five-coding-hats/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 11:32:50",
-      "https://lobste.rs/s/5snozq/perfect_is_enemy_good"
-    ],
-    [
-      "Perfect is the enemy of good",
-      "https://medv.io/blog/perfect-is-the-enemy-of-good"
     ]
   ]
 ]
