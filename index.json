@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-04, 17:32:08",
+      "https://lobste.rs/s/av0ka1/fat_rand_how_many_lines_do_you_need"
+    ],
+    [
+      "Fat Rand: How Many Lines Do You Need To Generate A Random Number?",
+      "https://lucumr.pocoo.org/2025/2/4/fat-rand/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 17:30:41",
+      "https://lobste.rs/s/sinfhk/supply_chain_security_danger_abandoned"
+    ],
+    [
+      "Supply chain security and the danger of abandoned S3 buckets",
+      "https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/"
+    ]
+  ],
+  [
+    [
+      "2025-02-04, 17:18:45",
+      "https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig"
+    ],
+    [
+      "Roc rewrites the compiler in Zig",
+      "https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 15:52:01",
       "https://lobste.rs/s/ou6ky6/big_packages_many_dependencies"
     ],
@@ -121,16 +151,6 @@
   ],
   [
     [
-      "2025-02-03, 20:59:58",
-      "https://lobste.rs/s/sognld/gang_none_design_patterns_elixir"
-    ],
-    [
-      "Gang of None? Design Patterns in Elixir",
-      "https://www.youtube.com/watch?v=agkXUp0hCW8"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 19:08:06",
       "https://lobste.rs/s/ggpzzz/so_you_want_remove_gvl"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-02-03, 10:24:05",
-      "https://lobste.rs/s/kc63sr/rustsec_2025_0004_openssl_ssl_select_next"
-    ],
-    [
-      "RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free",
-      "https://rustsec.org/advisories/RUSTSEC-2025-0004"
-    ]
-  ],
-  [
-    [
       "2025-02-03, 04:16:57",
       "https://lobste.rs/s/mvtj4c/python_free_threading_guide"
     ],
     [
       "Python free-threading guide",
       "https://py-free-threading.github.io/"
-    ]
-  ],
-  [
-    [
-      "2025-02-02, 15:19:56",
-      "https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not"
-    ],
-    [
-      "What software do you dream about, but do not have time to code yourself?",
-      "https://lobste.rs/s/btjtkr/what_software_do_you_dream_about_do_not"
     ]
   ]
 ]
