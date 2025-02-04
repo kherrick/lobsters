@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 21:46:35](https://lobste.rs/s/bghtmg/acl2) - [ACL2](https://www.cs.utexas.edu/~moore/acl2/)
+* [2025-02-04, 21:44:13](https://lobste.rs/s/i6c3zr/cooperative_multitasking_rust) - [Cooperative multitasking in Rust](https://elric.pl/blog/cooperative-multitasking)
 * [2025-02-04, 21:12:40](https://lobste.rs/s/quy6ev/developer_serenityos_is_challenging) - [The developer of SerenityOS is challenging the browser duopoly](https://thenextweb.com/news/serenityos-creator-building-ladybird-browser)
 * [2025-02-04, 20:56:28](https://lobste.rs/s/fw6ktr/monkeypatching_django) - [Monkeypatching Django](https://radiac.net/blog/2025/01/monkeypatching-django/)
 * [2025-02-04, 20:14:13](https://lobste.rs/s/eocgyx/corca_collaborative_math_editor) - [Corca: Collaborative Math Editor](https://corca.io/)
