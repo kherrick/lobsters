@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 09:48:01",
+      "https://lobste.rs/s/ezimxi/notes_on_type_layouts_abis_rust_2018"
+    ],
+    [
+      "Notes on Type Layouts and ABIs in Rust (2018)",
+      "https://faultlore.com/blah/rust-layouts-and-abis/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 09:26:15",
       "https://lobste.rs/s/yyx0tt/webassembly_from_ground_up"
     ],
@@ -97,16 +107,6 @@
     [
       "Follow up on emails with mu4e and org capture",
       "https://breatheoutbreathe.in/2025-02-03-follow-up-emails-mu4e-org-capture.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 18:17:01",
-      "https://lobste.rs/s/hgwiph/lisa_production_quality_expert_system"
-    ],
-    [
-      "Lisa: Production-quality expert-system shell",
-      "https://github.com/youngde811/Lisa"
     ]
   ],
   [
