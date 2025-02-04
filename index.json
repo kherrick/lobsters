@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 09:26:15",
+      "https://lobste.rs/s/yyx0tt/webassembly_from_ground_up"
+    ],
+    [
+      "WebAssembly from the Ground Up",
+      "https://wasmgroundup.com"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 07:38:03",
       "https://lobste.rs/s/gjdafu/seeking_support_after_equinix_metal"
     ],
@@ -197,16 +207,6 @@
     [
       "RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free",
       "https://rustsec.org/advisories/RUSTSEC-2025-0004"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 10:22:40",
-      "https://lobste.rs/s/e5tc2a/selfish_personal_argument_for_releasing"
-    ],
-    [
-      "A selfish personal argument for releasing code as Open Source",
-      "https://simonwillison.net/2025/Jan/24/selfish-open-source/"
     ]
   ],
   [
