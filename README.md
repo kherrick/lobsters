@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-04, 09:26:15](https://lobste.rs/s/yyx0tt/webassembly_from_ground_up) - [WebAssembly from the Ground Up](https://wasmgroundup.com)
 * [2025-02-04, 07:38:03](https://lobste.rs/s/gjdafu/seeking_support_after_equinix_metal) - [Seeking Support After Equinix Metal Sunsets](https://alpinelinux.org/posts/Seeking-Support-After-Equinix-Metal-Sunsets.html)
 * [2025-02-04, 07:15:18](https://lobste.rs/s/vr0l4g/best_simple_system_for_now) - [Best Simple System for Now](https://dannorth.net/best-simple-system-for-now/)
 * [2025-02-03, 21:55:39](https://lobste.rs/s/ejmyaj/goto_considered_harmful_considered) - [\"GOTO Considered Harmful” Considered Harmful (1987)](http://web.archive.org/web/20090320002214/http://www.ecn.purdue.edu/ParaMount/papers/rubin87goto.pdf)
@@ -20,7 +21,6 @@
 * [2025-02-03, 12:50:19](https://lobste.rs/s/tn67at/five_coding_hats) - [Five coding hats](https://dubroy.com/blog/five-coding-hats/)
 * [2025-02-03, 11:32:50](https://lobste.rs/s/5snozq/perfect_is_enemy_good) - [Perfect is the enemy of good](https://medv.io/blog/perfect-is-the-enemy-of-good)
 * [2025-02-03, 10:24:05](https://lobste.rs/s/kc63sr/rustsec_2025_0004_openssl_ssl_select_next) - [RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free](https://rustsec.org/advisories/RUSTSEC-2025-0004)
-* [2025-02-03, 10:22:40](https://lobste.rs/s/e5tc2a/selfish_personal_argument_for_releasing) - [A selfish personal argument for releasing code as Open Source](https://simonwillison.net/2025/Jan/24/selfish-open-source/)
 * [2025-02-03, 08:54:53](https://lobste.rs/s/e7clsc/nix_string_interpolation_directories) - [Nix: string interpolation of directories gone awry](https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html)
 * [2025-02-03, 04:16:57](https://lobste.rs/s/mvtj4c/python_free_threading_guide) - [Python free-threading guide](https://py-free-threading.github.io/)
 * [2025-02-02, 23:45:16](https://lobste.rs/s/0enkqp/hollywood_split_computer_console_into) - [Hollywood: split a computer console into multiple panes of genuine technical melodrama](https://a.hollywood.computer/)
