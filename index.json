@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 13:42:50",
+      "https://lobste.rs/s/wucizv/no_panic_rust_nice_technique_for_systems"
+    ],
+    [
+      "No-Panic Rust: A Nice Technique for Systems Programming",
+      "https://blog.reverberate.org/2025/02/03/no-panic-rust.html"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 13:32:33",
       "https://lobste.rs/s/uivcxm/how_configure_multiple_tor_relays_on_same"
     ],
@@ -207,16 +217,6 @@
     [
       "RUSTSEC-2025-0004: openssl: ssl::select_next_proto use after free",
       "https://rustsec.org/advisories/RUSTSEC-2025-0004"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 08:54:53",
-      "https://lobste.rs/s/e7clsc/nix_string_interpolation_directories"
-    ],
-    [
-      "Nix: string interpolation of directories gone awry",
-      "https://fzakaria.com/2025/02/02/nix-string-interpolation-of-directories-gone-awry.html"
     ]
   ],
   [
