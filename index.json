@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-04, 18:09:00",
+      "https://lobste.rs/s/ne6efs/running_archiveteam_s_warrior"
+    ],
+    [
+      "Running ArchiveTeam's Warrior in Kubernetes",
+      "https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 17:32:08",
       "https://lobste.rs/s/av0ka1/fat_rand_how_many_lines_do_you_need"
     ],
@@ -237,16 +247,6 @@
     [
       "Perfect is the enemy of good",
       "https://medv.io/blog/perfect-is-the-enemy-of-good"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 04:16:57",
-      "https://lobste.rs/s/mvtj4c/python_free_threading_guide"
-    ],
-    [
-      "Python free-threading guide",
-      "https://py-free-threading.github.io/"
     ]
   ]
 ]
