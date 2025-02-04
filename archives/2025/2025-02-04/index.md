@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 18:41:02](https://lobste.rs/s/6cpyqq/migrating_pigweed_dev_bazel) - [Migrating pigweed.dev to Bazel](https://pigweed.dev/docs/blog/08-bazel-docgen.html)
 * [2025-02-04, 18:09:00](https://lobste.rs/s/ne6efs/running_archiveteam_s_warrior) - [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
 * [2025-02-04, 17:32:08](https://lobste.rs/s/av0ka1/fat_rand_how_many_lines_do_you_need) - [Fat Rand: How Many Lines Do You Need To Generate A Random Number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
 * [2025-02-04, 17:30:41](https://lobste.rs/s/sinfhk/supply_chain_security_danger_abandoned) - [Supply chain security and the danger of abandoned S3 buckets](https://labs.watchtowr.com/8-million-requests-later-we-made-the-solarwinds-supply-chain-attack-look-amateur/)
