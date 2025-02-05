@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-02-04, 09:48:01",
+      "https://lobste.rs/s/ezimxi/notes_on_type_layouts_abis_rust_2018"
+    ],
+    [
+      "Notes on Type Layouts and ABIs in Rust (2018)",
+      "https://faultlore.com/blah/rust-layouts-and-abis/"
+    ]
+  ],
+  [
+    [
       "2025-02-04, 09:26:15",
       "https://lobste.rs/s/yyx0tt/webassembly_from_ground_up"
     ],
@@ -237,16 +247,6 @@
     [
       "PanGui - A cross-platform UI library with a razor sharp focus on performance, simplicity and expressive power",
       "https://pangui.io/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 16:57:46",
-      "https://lobste.rs/s/itlgqb/developer_philosophy"
-    ],
-    [
-      "Developer philosophy",
-      "https://qntm.org/devphilo"
     ]
   ]
 ]
