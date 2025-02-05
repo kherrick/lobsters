@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 06:04:54](https://lobste.rs/s/nlm0dn/building_voice_ai_apps_elixir_with) - [Building voice AI apps in Elixir with Membrane and Google Gemini](https://blog.swmansion.com/building-a-membrane-pipeline-to-talk-to-google-gemini-ff637fc0fe40)
 * [2025-02-05, 05:48:06](https://lobste.rs/s/7b3udw/deploying_openvms_x86_on_amazon_ec2) - [Deploying OpenVMS x86 on Amazon EC2](https://aws.amazon.com/blogs/migration-and-modernization/deploying-openvms-x86-on-amazon-ec2/)
 * [2025-02-05, 03:00:28](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 * [2025-02-05, 01:55:55](https://lobste.rs/s/tazaep/painless_guide_crc_error_detection) - [A painless guide to CRC error detection algorithms (1993)](http://www.ross.net/crc/download/crc_v3.txt)

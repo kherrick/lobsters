@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-05, 06:04:54](https://lobste.rs/s/nlm0dn/building_voice_ai_apps_elixir_with) - [Building voice AI apps in Elixir with Membrane and Google Gemini](https://blog.swmansion.com/building-a-membrane-pipeline-to-talk-to-google-gemini-ff637fc0fe40)
 * [2025-02-05, 05:48:06](https://lobste.rs/s/7b3udw/deploying_openvms_x86_on_amazon_ec2) - [Deploying OpenVMS x86 on Amazon EC2](https://aws.amazon.com/blogs/migration-and-modernization/deploying-openvms-x86-on-amazon-ec2/)
 * [2025-02-05, 03:00:28](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 * [2025-02-05, 01:55:55](https://lobste.rs/s/tazaep/painless_guide_crc_error_detection) - [A painless guide to CRC error detection algorithms (1993)](http://www.ross.net/crc/download/crc_v3.txt)
@@ -19,7 +20,6 @@
 * [2025-02-04, 15:52:01](https://lobste.rs/s/ou6ky6/big_packages_many_dependencies) - [Big Packages or Many Dependencies ](https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/)
 * [2025-02-04, 14:27:26](https://lobste.rs/s/rgydie/decorator_jits_python_as_dsl) - [Decorator JITs - Python as a DSL](https://eli.thegreenplace.net/2025/decorator-jits-python-as-a-dsl/)
 * [2025-02-04, 13:42:50](https://lobste.rs/s/wucizv/no_panic_rust_nice_technique_for_systems) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
-* [2025-02-04, 13:32:33](https://lobste.rs/s/uivcxm/how_configure_multiple_tor_relays_on_same) - [How to configure multiple Tor relays on the same interface with different IPs](https://osservatorionessuno.org/blog/2025/02/how-to-configure-multiple-tor-relays-on-the-same-interface-with-different-ips/)
 * [2025-02-04, 10:02:46](https://lobste.rs/s/vefy9j/how_languages_influence_each_other) - [How languages influence each other and evolve](https://thetechenabler.substack.com/p/how-languages-influence-each-other)
 * [2025-02-04, 09:48:01](https://lobste.rs/s/ezimxi/notes_on_type_layouts_abis_rust_2018) - [Notes on Type Layouts and ABIs in Rust (2018)](https://faultlore.com/blah/rust-layouts-and-abis/)
 * [2025-02-04, 09:26:15](https://lobste.rs/s/yyx0tt/webassembly_from_ground_up) - [WebAssembly from the Ground Up](https://wasmgroundup.com)
