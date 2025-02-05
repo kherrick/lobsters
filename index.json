@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-02-05, 05:48:06",
+      "https://lobste.rs/s/7b3udw/deploying_openvms_x86_on_amazon_ec2"
+    ],
+    [
+      "Deploying OpenVMS x86 on Amazon EC2",
+      "https://aws.amazon.com/blogs/migration-and-modernization/deploying-openvms-x86-on-amazon-ec2/"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 03:00:28",
       "https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it"
     ],
@@ -217,16 +227,6 @@
     [
       "How languages influence each other and evolve",
       "https://thetechenabler.substack.com/p/how-languages-influence-each-other"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 09:26:15",
-      "https://lobste.rs/s/yyx0tt/webassembly_from_ground_up"
-    ],
-    [
-      "WebAssembly from the Ground Up",
-      "https://wasmgroundup.com"
     ]
   ],
   [
