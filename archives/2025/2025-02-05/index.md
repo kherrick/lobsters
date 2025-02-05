@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 15:38:09](https://lobste.rs/s/b6vlan/prediction_games) - [Prediction Games](https://www.argmin.net/p/prediction-games)
 * [2025-02-05, 12:18:25](https://lobste.rs/s/4p3ovs/java_jit_compiler_runtime_common_lisp) - [A Java JIT Compiler and Runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 11:09:19](https://lobste.rs/s/pmiplu/zig_elm_linters_2022) - [Zig, Elm, and linters (2022)](https://gotopia.tech/articles/233/zig-programming-language-and-linters)
 * [2025-02-05, 10:05:50](https://lobste.rs/s/vmn08v/puzzmo_place_for_thoughtful_puzzles) - [Puzzmo — The place for thoughtful puzzles](https://puzzmo.com/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-05, 15:38:09](https://lobste.rs/s/b6vlan/prediction_games) - [Prediction Games](https://www.argmin.net/p/prediction-games)
 * [2025-02-05, 12:18:25](https://lobste.rs/s/4p3ovs/java_jit_compiler_runtime_common_lisp) - [A Java JIT Compiler and Runtime in Common Lisp](https://github.com/atgreen/openldk)
 * [2025-02-05, 11:09:19](https://lobste.rs/s/pmiplu/zig_elm_linters_2022) - [Zig, Elm, and linters (2022)](https://gotopia.tech/articles/233/zig-programming-language-and-linters)
 * [2025-02-05, 07:53:36](https://lobste.rs/s/p3tcrh/how_scale_your_model) - [How To Scale Your Model](https://jax-ml.github.io/scaling-book/)
@@ -15,7 +16,6 @@
 * [2025-02-04, 21:12:40](https://lobste.rs/s/quy6ev/developer_serenityos_is_challenging) - [The developer of SerenityOS is challenging the browser duopoly](https://thenextweb.com/news/serenityos-creator-building-ladybird-browser)
 * [2025-02-04, 20:14:13](https://lobste.rs/s/eocgyx/corca_collaborative_math_editor) - [Corca: Collaborative Math Editor](https://corca.io/)
 * [2025-02-04, 19:30:51](https://lobste.rs/s/ycbpnz/animating_rick_morty_one_pixel_at_time) - [Animating Rick and Morty One Pixel at a Time](https://danielchasehooper.com/posts/code-animated-rick/)
-* [2025-02-04, 18:41:02](https://lobste.rs/s/6cpyqq/migrating_pigweed_dev_bazel) - [Migrating pigweed.dev to Bazel](https://pigweed.dev/docs/blog/08-bazel-docgen.html)
 * [2025-02-04, 18:09:00](https://lobste.rs/s/ne6efs/running_archiveteam_s_warrior) - [Running ArchiveTeam's Warrior in Kubernetes](https://gabrielsimmer.com/blog/archiveteam-warrior-kubernetes)
 * [2025-02-04, 17:32:08](https://lobste.rs/s/av0ka1/fat_rand_how_many_lines_do_you_need) - [Fat Rand: How Many Lines Do You Need To Generate A Random Number?](https://lucumr.pocoo.org/2025/2/4/fat-rand/)
 * [2025-02-04, 17:18:45](https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
