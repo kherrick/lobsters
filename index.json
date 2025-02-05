@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-02-05, 07:53:36",
+      "https://lobste.rs/s/p3tcrh/how_scale_your_model"
+    ],
+    [
+      "How To Scale Your Model",
+      "https://jax-ml.github.io/scaling-book/"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 07:01:30",
       "https://lobste.rs/s/l9pkbz/radiant_foam"
     ],
@@ -97,16 +107,6 @@
     [
       "A compiler IR for Scrapscript",
       "https://bernsteinbear.com/blog/scrapscript-ir/"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 21:46:35",
-      "https://lobste.rs/s/bghtmg/acl2"
-    ],
-    [
-      "ACL2",
-      "https://www.cs.utexas.edu/~moore/acl2/"
     ]
   ],
   [
