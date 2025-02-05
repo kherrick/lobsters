@@ -2,6 +2,7 @@
 
 * [2025-02-05, 11:09:19](https://lobste.rs/s/pmiplu/zig_elm_linters_2022) - [Zig, Elm, and linters (2022)](https://gotopia.tech/articles/233/zig-programming-language-and-linters)
 * [2025-02-05, 10:05:50](https://lobste.rs/s/vmn08v/puzzmo_place_for_thoughtful_puzzles) - [Puzzmo — The place for thoughtful puzzles](https://puzzmo.com/)
+* [2025-02-05, 07:53:36](https://lobste.rs/s/p3tcrh/how_scale_your_model) - [How To Scale Your Model](https://jax-ml.github.io/scaling-book/)
 * [2025-02-05, 07:01:30](https://lobste.rs/s/l9pkbz/radiant_foam) - [Radiant Foam](https://radfoam.github.io/)
 * [2025-02-05, 06:43:43](https://lobste.rs/s/sxxchv/rewriting_slipshow_ocaml_undo_able_monad) - [Rewriting Slipshow in OCaml: The undo-able monad](https://choum.net/panglesd/undo-monad/)
 * [2025-02-05, 06:04:54](https://lobste.rs/s/nlm0dn/building_voice_ai_apps_elixir_with) - [Building voice AI apps in Elixir with Membrane and Google Gemini](https://blog.swmansion.com/building-a-membrane-pipeline-to-talk-to-google-gemini-ff637fc0fe40)
@@ -10,7 +11,6 @@
 * [2025-02-05, 01:06:49](https://lobste.rs/s/rdgq0m/spritely_institute_decentralized) - [Spritely Institute - Decentralized Networking Technology](https://spritely.institute/)
 * [2025-02-04, 23:58:30](https://lobste.rs/s/jtd6tb/ambsheets_spreadsheets_for_exploring) - [Ambsheets: Spreadsheets for exploring scenarios](https://www.inkandswitch.com/ambsheets/)
 * [2025-02-04, 23:53:42](https://lobste.rs/s/cqyu02/compiler_ir_for_scrapscript) - [A compiler IR for Scrapscript](https://bernsteinbear.com/blog/scrapscript-ir/)
-* [2025-02-04, 21:46:35](https://lobste.rs/s/bghtmg/acl2) - [ACL2](https://www.cs.utexas.edu/~moore/acl2/)
 * [2025-02-04, 21:12:40](https://lobste.rs/s/quy6ev/developer_serenityos_is_challenging) - [The developer of SerenityOS is challenging the browser duopoly](https://thenextweb.com/news/serenityos-creator-building-ladybird-browser)
 * [2025-02-04, 20:14:13](https://lobste.rs/s/eocgyx/corca_collaborative_math_editor) - [Corca: Collaborative Math Editor](https://corca.io/)
 * [2025-02-04, 19:30:51](https://lobste.rs/s/ycbpnz/animating_rick_morty_one_pixel_at_time) - [Animating Rick and Morty One Pixel at a Time](https://danielchasehooper.com/posts/code-animated-rick/)
