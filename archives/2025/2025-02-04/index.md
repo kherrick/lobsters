@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-04](index.md)
 
+* [2025-02-04, 23:58:30](https://lobste.rs/s/jtd6tb/ambsheets_spreadsheets_for_exploring) - [Ambsheets: Spreadsheets for exploring scenarios](https://www.inkandswitch.com/ambsheets/)
+* [2025-02-04, 23:53:42](https://lobste.rs/s/cqyu02/compiler_ir_for_scrapscript) - [A compiler IR for Scrapscript](https://bernsteinbear.com/blog/scrapscript-ir/)
 * [2025-02-04, 21:46:35](https://lobste.rs/s/bghtmg/acl2) - [ACL2](https://www.cs.utexas.edu/~moore/acl2/)
 * [2025-02-04, 21:44:13](https://lobste.rs/s/i6c3zr/cooperative_multitasking_rust) - [Cooperative multitasking in Rust](https://elric.pl/blog/cooperative-multitasking)
 * [2025-02-04, 21:12:40](https://lobste.rs/s/quy6ev/developer_serenityos_is_challenging) - [The developer of SerenityOS is challenging the browser duopoly](https://thenextweb.com/news/serenityos-creator-building-ladybird-browser)
