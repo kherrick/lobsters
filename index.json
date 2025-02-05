@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-05, 19:21:34",
+      "https://lobste.rs/s/khlha3/sudoku_affair"
+    ],
+    [
+      "the sudoku affair",
+      "https://explaining.software/archive/the-sudoku-affair/"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 18:57:21",
       "https://lobste.rs/s/uzqcgh/deep_dive_into_llms_like_chatgpt"
     ],
@@ -167,16 +177,6 @@
     [
       "Ambsheets: Spreadsheets for exploring scenarios",
       "https://www.inkandswitch.com/ambsheets/"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 23:53:42",
-      "https://lobste.rs/s/cqyu02/compiler_ir_for_scrapscript"
-    ],
-    [
-      "A compiler IR for Scrapscript",
-      "https://bernsteinbear.com/blog/scrapscript-ir/"
     ]
   ],
   [
