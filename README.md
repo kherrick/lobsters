@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-05, 18:57:21](https://lobste.rs/s/uzqcgh/deep_dive_into_llms_like_chatgpt) - [Deep Dive into LLMs like ChatGPT](https://www.youtube.com/watch?v=7xTGNNLPyMI)
 * [2025-02-05, 18:37:49](https://lobste.rs/s/6cb3tb/implementation_ringbuffer_java_with) - [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu?tab=readme-ov-file#ring-buffer)
 * [2025-02-05, 18:08:15](https://lobste.rs/s/i2vzuc/collaborative_text_editing_with_eg) - [Collaborative Text Editing with Eg-Walker](https://www.youtube.com/watch?v=rjbEG7COj7o)
 * [2025-02-05, 18:02:47](https://lobste.rs/s/gn3nym/comic_web_markup_comic_web_is_markup) - [comic-web-markup: Comic-web is a markup language for describing comics, as well as a rendering engine for this language](https://github.com/abuseofnotation/comic-web-markup)
@@ -24,7 +25,6 @@
 * [2025-02-04, 17:18:45](https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 15:52:01](https://lobste.rs/s/ou6ky6/big_packages_many_dependencies) - [Big Packages or Many Dependencies ](https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/)
 * [2025-02-04, 13:42:50](https://lobste.rs/s/wucizv/no_panic_rust_nice_technique_for_systems) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
-* [2025-02-04, 10:02:46](https://lobste.rs/s/vefy9j/how_languages_influence_each_other) - [How languages influence each other and evolve](https://thetechenabler.substack.com/p/how-languages-influence-each-other)
 
 ## [Archives](archives/index.md)
 
