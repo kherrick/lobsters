@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-05, 05:48:06",
+      "https://lobste.rs/s/7b3udw/deploying_openvms_x86_on_amazon_ec2"
+    ],
+    [
+      "Deploying OpenVMS x86 on Amazon EC2",
+      "https://aws.amazon.com/blogs/migration-and-modernization/deploying-openvms-x86-on-amazon-ec2/"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 03:00:28",
       "https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it"
     ],
@@ -237,16 +247,6 @@
     [
       "Best Simple System for Now",
       "https://dannorth.net/best-simple-system-for-now/"
-    ]
-  ],
-  [
-    [
-      "2025-02-03, 16:57:46",
-      "https://lobste.rs/s/itlgqb/developer_philosophy"
-    ],
-    [
-      "Developer philosophy",
-      "https://qntm.org/devphilo"
     ]
   ]
 ]
