@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-05, 03:00:28",
+      "https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it"
+    ],
+    [
+      "Zig; what I think after months of using it",
+      "https://strongly-typed-thoughts.net/blog/zig-2025"
+    ]
+  ],
+  [
+    [
       "2025-02-05, 01:55:55",
       "https://lobste.rs/s/tazaep/painless_guide_crc_error_detection"
     ],
@@ -187,16 +197,6 @@
     [
       "How languages influence each other and evolve",
       "https://thetechenabler.substack.com/p/how-languages-influence-each-other"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 09:48:01",
-      "https://lobste.rs/s/ezimxi/notes_on_type_layouts_abis_rust_2018"
-    ],
-    [
-      "Notes on Type Layouts and ABIs in Rust (2018)",
-      "https://faultlore.com/blah/rust-layouts-and-abis/"
     ]
   ],
   [
