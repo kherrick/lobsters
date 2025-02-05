@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-05](index.md)
 
+* [2025-02-05, 18:08:15](https://lobste.rs/s/i2vzuc/collaborative_text_editing_with_eg) - [Collaborative Text Editing with Eg-Walker](https://www.youtube.com/watch?v=rjbEG7COj7o)
+* [2025-02-05, 18:02:47](https://lobste.rs/s/gn3nym/comic_web_markup_comic_web_is_markup) - [comic-web-markup: Comic-web is a markup language for describing comics, as well as a rendering engine for this language](https://github.com/abuseofnotation/comic-web-markup)
 * [2025-02-05, 17:34:01](https://lobste.rs/s/tz6ybl/zasper_fastest_most_efficient_ide_run) - [zasper: Fastest and Most Efficient IDE to run Jupyter Notebooks](https://github.com/zasper-io/zasper)
 * [2025-02-05, 17:31:53](https://lobste.rs/s/f9biav/gemini_2_0_is_now_available_everyone) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 15:53:40](https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package) - [Go Supply Chain Attack: Malicious Package Exploits Go Module](https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence)
