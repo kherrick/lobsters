@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-05, 05:48:06](https://lobste.rs/s/7b3udw/deploying_openvms_x86_on_amazon_ec2) - [Deploying OpenVMS x86 on Amazon EC2](https://aws.amazon.com/blogs/migration-and-modernization/deploying-openvms-x86-on-amazon-ec2/)
 * [2025-02-05, 03:00:28](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 * [2025-02-05, 01:55:55](https://lobste.rs/s/tazaep/painless_guide_crc_error_detection) - [A painless guide to CRC error detection algorithms (1993)](http://www.ross.net/crc/download/crc_v3.txt)
 * [2025-02-05, 01:48:08](https://lobste.rs/s/x7nhcq/framework_ships_risc_v_board_for_its_13) - [Framework ships RISC-V board for its 13\" laptops along with \"boardless\" laptop chassis](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/)
@@ -24,7 +25,6 @@
 * [2025-02-04, 09:26:15](https://lobste.rs/s/yyx0tt/webassembly_from_ground_up) - [WebAssembly from the Ground Up](https://wasmgroundup.com)
 * [2025-02-04, 07:38:03](https://lobste.rs/s/gjdafu/seeking_support_after_equinix_metal) - [Seeking Support After Equinix Metal Sunsets](https://alpinelinux.org/posts/Seeking-Support-After-Equinix-Metal-Sunsets.html)
 * [2025-02-04, 07:15:18](https://lobste.rs/s/vr0l4g/best_simple_system_for_now) - [Best Simple System for Now](https://dannorth.net/best-simple-system-for-now/)
-* [2025-02-03, 16:57:46](https://lobste.rs/s/itlgqb/developer_philosophy) - [Developer philosophy](https://qntm.org/devphilo)
 
 ## [Archives](archives/index.md)
 
