@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 14:53:39](https://lobste.rs/s/nghoy0/ais_robots_should_sound_robotic) - [AIs and Robots Should Sound Robotic](https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html)
+* [2025-02-06, 14:50:28](https://lobste.rs/s/89h9eb/html_whitespace_is_broken) - [HTML Whitespace is Broken](https://blog.dwac.dev/posts/html-whitespace)
 * [2025-02-06, 14:14:15](https://lobste.rs/s/ahndh2/three_basic_rules_safety_hygiene) - [The Three Basic Rules of Safety Hygiene](https://jack.wrenn.fyi/blog/safety-hygiene/)
 * [2025-02-06, 13:24:50](https://lobste.rs/s/ytdpaw/inevitability_borrow_checker) - [The inevitability of the borrow checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 13:16:25](https://lobste.rs/s/5jsqeq/profiling_production_with_function_call) - [Profiling in production with function call traces](https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html)

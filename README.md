@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-06, 14:53:39](https://lobste.rs/s/nghoy0/ais_robots_should_sound_robotic) - [AIs and Robots Should Sound Robotic](https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html)
+* [2025-02-06, 14:50:28](https://lobste.rs/s/89h9eb/html_whitespace_is_broken) - [HTML Whitespace is Broken](https://blog.dwac.dev/posts/html-whitespace)
 * [2025-02-06, 14:14:15](https://lobste.rs/s/ahndh2/three_basic_rules_safety_hygiene) - [The Three Basic Rules of Safety Hygiene](https://jack.wrenn.fyi/blog/safety-hygiene/)
 * [2025-02-06, 13:24:50](https://lobste.rs/s/ytdpaw/inevitability_borrow_checker) - [The inevitability of the borrow checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 13:16:25](https://lobste.rs/s/5jsqeq/profiling_production_with_function_call) - [Profiling in production with function call traces](https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html)
@@ -20,9 +22,7 @@
 * [2025-02-05, 17:31:53](https://lobste.rs/s/f9biav/gemini_2_0_is_now_available_everyone) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
 * [2025-02-05, 15:53:40](https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package) - [Go Supply Chain Attack: Malicious Package Exploits Go Module](https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence)
 * [2025-02-05, 12:18:25](https://lobste.rs/s/4p3ovs/java_jit_compiler_runtime_common_lisp) - [A Java JIT Compiler and Runtime in Common Lisp](https://github.com/atgreen/openldk)
-* [2025-02-05, 07:01:30](https://lobste.rs/s/l9pkbz/radiant_foam) - [Radiant Foam](https://radfoam.github.io/)
 * [2025-02-05, 03:00:28](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
-* [2025-02-05, 01:48:08](https://lobste.rs/s/x7nhcq/framework_ships_risc_v_board_for_its_13) - [Framework ships RISC-V board for its 13\" laptops along with \"boardless\" laptop chassis](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/)
 * [2025-02-05, 01:06:49](https://lobste.rs/s/rdgq0m/decentralized_networking_technology) - [Decentralized Networking Technology](https://spritely.institute/)
 * [2025-02-04, 17:18:45](https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 
