@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-06, 10:38:45](https://lobste.rs/s/wysspc/just_because_you_re_getting_index_scan) - [Just because you’re getting an index scan, doesn't mean you can’t do better](https://www.pgmustard.com/blog/index-scan-doesnt-mean-its-fast)
 * [2025-02-06, 10:07:14](https://lobste.rs/s/ljvz0s/freebsd_hi_fi_audio_setup_bit_perfect) - [FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time](https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/)
 * [2025-02-06, 09:36:36](https://lobste.rs/s/cbvnzl/string_vs_str) - [String vs &str](https://blog.sulami.xyz/posts/string-vs-str/)
 * [2025-02-06, 09:03:33](https://lobste.rs/s/2etd7f/sqlite_postgresql_it_s_complicated) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated)
@@ -22,7 +23,6 @@
 * [2025-02-05, 03:00:28](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
 * [2025-02-05, 01:48:08](https://lobste.rs/s/x7nhcq/framework_ships_risc_v_board_for_its_13) - [Framework ships RISC-V board for its 13\" laptops along with \"boardless\" laptop chassis](https://arstechnica.com/gadgets/2025/02/framework-laptop-expands-beyond-x86-with-its-first-ever-risc-v-based-motherboard/)
 * [2025-02-05, 01:06:49](https://lobste.rs/s/rdgq0m/decentralized_networking_technology) - [Decentralized Networking Technology](https://spritely.institute/)
-* [2025-02-04, 23:58:30](https://lobste.rs/s/jtd6tb/ambsheets_spreadsheets_for_exploring) - [Ambsheets: Spreadsheets for exploring scenarios](https://www.inkandswitch.com/ambsheets/)
 * [2025-02-04, 19:30:51](https://lobste.rs/s/ycbpnz/animating_rick_morty_one_pixel_at_time) - [Animating Rick and Morty One Pixel at a Time](https://danielchasehooper.com/posts/code-animated-rick/)
 * [2025-02-04, 17:18:45](https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 
