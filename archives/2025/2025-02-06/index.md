@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 14:14:15](https://lobste.rs/s/ahndh2/three_basic_rules_safety_hygiene) - [The Three Basic Rules of Safety Hygiene](https://jack.wrenn.fyi/blog/safety-hygiene/)
 * [2025-02-06, 13:24:50](https://lobste.rs/s/ytdpaw/inevitability_borrow_checker) - [The inevitability of the borrow checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 13:16:25](https://lobste.rs/s/5jsqeq/profiling_production_with_function_call) - [Profiling in production with function call traces](https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html)
 * [2025-02-06, 12:58:27](https://lobste.rs/s/e8tdsr/asdf_version_manager_has_been_re_written) - [Asdf Version Manager Has Been Re-Written in Golang](https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go)
