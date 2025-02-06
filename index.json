@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 10:38:45",
+      "https://lobste.rs/s/wysspc/just_because_you_re_getting_index_scan"
+    ],
+    [
+      "Just because you’re getting an index scan, doesn't mean you can’t do better",
+      "https://www.pgmustard.com/blog/index-scan-doesnt-mean-its-fast"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 10:07:14",
       "https://lobste.rs/s/ljvz0s/freebsd_hi_fi_audio_setup_bit_perfect"
     ],
@@ -217,16 +227,6 @@
     [
       "Decentralized Networking Technology",
       "https://spritely.institute/"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 23:58:30",
-      "https://lobste.rs/s/jtd6tb/ambsheets_spreadsheets_for_exploring"
-    ],
-    [
-      "Ambsheets: Spreadsheets for exploring scenarios",
-      "https://www.inkandswitch.com/ambsheets/"
     ]
   ],
   [
