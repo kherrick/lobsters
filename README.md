@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-06, 05:13:01](https://lobste.rs/s/rwgppq/evolving_landscape_llm_evaluation) - [The Evolving Landscape of LLM Evaluation](https://www.ruder.io/the-evolving-landscape-of-llm-evaluation/)
 * [2025-02-06, 01:11:55](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with) - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)
 * [2025-02-05, 21:54:34](https://lobste.rs/s/p1xtcw/counter_strike_analytics_with_bevy_react) - [Counter-Strike analytics with Bevy and React](https://youtu.be/6b3qTeIl2Ak)
 * [2025-02-05, 21:08:16](https://lobste.rs/s/ikydnz/versioning_versus_coordination) - [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
@@ -13,7 +14,6 @@
 * [2025-02-05, 15:53:40](https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package) - [Go Supply Chain Attack: Malicious Package Exploits Go Module](https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence)
 * [2025-02-05, 15:38:09](https://lobste.rs/s/b6vlan/prediction_games) - [Prediction Games](https://www.argmin.net/p/prediction-games)
 * [2025-02-05, 12:18:25](https://lobste.rs/s/4p3ovs/java_jit_compiler_runtime_common_lisp) - [A Java JIT Compiler and Runtime in Common Lisp](https://github.com/atgreen/openldk)
-* [2025-02-05, 11:09:19](https://lobste.rs/s/pmiplu/zig_elm_linters_2022) - [Zig, Elm, and linters (2022)](https://gotopia.tech/articles/233/zig-programming-language-and-linters)
 * [2025-02-05, 07:01:30](https://lobste.rs/s/l9pkbz/radiant_foam) - [Radiant Foam](https://radfoam.github.io/)
 * [2025-02-05, 06:43:43](https://lobste.rs/s/sxxchv/rewriting_slipshow_ocaml_undo_able_monad) - [Rewriting Slipshow in OCaml: The undo-able monad](https://choum.net/panglesd/undo-monad/)
 * [2025-02-05, 03:00:28](https://lobste.rs/s/pwqgmz/zig_what_i_think_after_months_using_it) - [Zig; what I think after months of using it](https://strongly-typed-thoughts.net/blog/zig-2025)
