@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 19:27:56](https://lobste.rs/s/zqpfyj/fabrication_begins_for_production) - [Fabrication begins for production OpenTitan silicon](https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html)
+* [2025-02-06, 19:26:26](https://lobste.rs/s/pszqzl/github_copilot_agent_awakens) - [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 * [2025-02-06, 17:50:10](https://lobste.rs/s/ficdn9/updating_large_codebase_rust_2024) - [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
 * [2025-02-06, 16:51:43](https://lobste.rs/s/xjio66/parameterized_tests_swift_reducing) - [Parameterized tests in Swift: Reducing boilerplate code](https://www.avanderlee.com/swift-testing/parameterized-tests-reducing-boilerplate-code/)
 * [2025-02-06, 16:39:36](https://lobste.rs/s/hfa6dy/frink_data_file_for_non_changing_units) - [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
