@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 09:36:36",
+      "https://lobste.rs/s/cbvnzl/string_vs_str"
+    ],
+    [
+      "String vs &str",
+      "https://blog.sulami.xyz/posts/string-vs-str/"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 09:03:33",
       "https://lobste.rs/s/2etd7f/sqlite_postgresql_it_s_complicated"
     ],
@@ -137,16 +147,6 @@
     [
       "Go Supply Chain Attack: Malicious Package Exploits Go Module",
       "https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 15:38:09",
-      "https://lobste.rs/s/b6vlan/prediction_games"
-    ],
-    [
-      "Prediction Games",
-      "https://www.argmin.net/p/prediction-games"
     ]
   ],
   [
