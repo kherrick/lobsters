@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-02-06, 22:00:01",
+      "https://lobste.rs/s/i5phus/decade_tils"
+    ],
+    [
+      "A Decade of TILs",
+      "https://www.visualmode.dev/a-decade-of-tils"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 21:14:16",
       "https://lobste.rs/s/2tt5ju/llama_s_paradox_exploiting_llama_cpp"
     ],
     [
       "Llama's Paradox - Exploiting Llama.cpp",
       "https://retr0.blog/blog/llama-rpc-rce"
+    ]
+  ],
+  [
+    [
+      "2025-02-06, 20:42:36",
+      "https://lobste.rs/s/2kubgg/all_new_le_chat_your_ai_assistant_for_life"
+    ],
+    [
+      "The all new le Chat: Your AI assistant for life and work | Mistral AI",
+      "https://mistral.ai/en/news/all-new-le-chat"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "Fabrication begins for production OpenTitan silicon",
       "https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 19:26:26",
-      "https://lobste.rs/s/pszqzl/github_copilot_agent_awakens"
-    ],
-    [
-      "GitHub Copilot: The agent awakens",
-      "https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "the sudoku affair",
       "https://explaining.software/archive/the-sudoku-affair/"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 15:53:40",
-      "https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package"
-    ],
-    [
-      "Go Supply Chain Attack: Malicious Package Exploits Go Module",
-      "https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence"
     ]
   ],
   [
