@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 23:38:51",
+      "https://lobste.rs/s/p8i4du/library_sandboxing_for_verona"
+    ],
+    [
+      "Library sandboxing for Verona",
+      "https://github.com/microsoft/verona-sandbox"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 23:09:39",
       "https://lobste.rs/s/f61avh/openwrt_wiki_openwrt_24_10_0_first_stable"
     ],
@@ -227,16 +237,6 @@
     [
       "the sudoku affair",
       "https://explaining.software/archive/the-sudoku-affair/"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 15:53:40",
-      "https://lobste.rs/s/tdnc9j/go_supply_chain_attack_malicious_package"
-    ],
-    [
-      "Go Supply Chain Attack: Malicious Package Exploits Go Module",
-      "https://socket.dev/blog/malicious-package-exploits-go-module-proxy-caching-for-persistence"
     ]
   ],
   [
