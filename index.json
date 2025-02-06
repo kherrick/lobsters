@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 06:54:45",
+      "https://lobste.rs/s/j9atea/how_influence_query_planning_postgresql"
+    ],
+    [
+      "How to Influence Query Planning in Postgresql",
+      "https://chriskiehl.com/article/query-plan-management"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 05:13:01",
       "https://lobste.rs/s/rwgppq/evolving_landscape_llm_evaluation"
     ],
@@ -17,16 +27,6 @@
     [
       "Tips for more effective fuzz testing with AFL++",
       "https://nullprogram.com/blog/2025/02/05/"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 21:54:34",
-      "https://lobste.rs/s/p1xtcw/counter_strike_analytics_with_bevy_react"
-    ],
-    [
-      "Counter-Strike analytics with Bevy and React",
-      "https://youtu.be/6b3qTeIl2Ak"
     ]
   ],
   [
