@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-06, 16:39:36](https://lobste.rs/s/hfa6dy/frink_data_file_for_non_changing_units) - [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
 * [2025-02-06, 16:16:21](https://lobste.rs/s/jpuqs4/which_rich_text_editor_framework_should) - [Which rich text editor framework should you choose in 2025?](https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025)
 * [2025-02-06, 15:08:49](https://lobste.rs/s/eeyjrw/cheaper_faster_way_deploy_binderhub) - [A cheaper and faster way to deploy Binderhub](https://2i2c.org/blog/2025/binder-singlenode/)
 * [2025-02-06, 14:53:39](https://lobste.rs/s/nghoy0/ais_robots_should_sound_robotic) - [AIs and Robots Should Sound Robotic](https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html)
@@ -18,7 +19,6 @@
 * [2025-02-05, 21:08:16](https://lobste.rs/s/ikydnz/versioning_versus_coordination) - [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
 * [2025-02-05, 19:28:56](https://lobste.rs/s/cyotj6/all_bear_blogs_can_use_hashtags_now_via) - [All Bear blogs can use hashtags now via Octothorpes](https://octothorpes.bearblog.dev/you-can-use-hashtags-on-your-bear-blog-now/)
 * [2025-02-05, 19:21:34](https://lobste.rs/s/khlha3/sudoku_affair) - [the sudoku affair](https://explaining.software/archive/the-sudoku-affair/)
-* [2025-02-05, 18:37:49](https://lobste.rs/s/6cb3tb/implementation_ringbuffer_java_with) - [Implementation of a RingBuffer in Java with optional FIFO like semantics](https://github.com/evolvedbinary/j8cu?tab=readme-ov-file#ring-buffer)
 * [2025-02-05, 18:02:47](https://lobste.rs/s/gn3nym/comic_web_markup_comic_web_is_markup) - [comic-web-markup: Comic-web is a markup language for describing comics, as well as a rendering engine for this language](https://github.com/abuseofnotation/comic-web-markup)
 * [2025-02-05, 17:34:01](https://lobste.rs/s/tz6ybl/zasper_fastest_most_efficient_ide_run) - [zasper: Fastest and Most Efficient IDE to run Jupyter Notebooks](https://github.com/zasper-io/zasper)
 * [2025-02-05, 17:31:53](https://lobste.rs/s/f9biav/gemini_2_0_is_now_available_everyone) - [Gemini 2.0 is now available to everyone](https://blog.google/technology/google-deepmind/gemini-model-updates-february-2025/)
