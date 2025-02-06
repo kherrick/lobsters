@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 17:50:10",
+      "https://lobste.rs/s/ficdn9/updating_large_codebase_rust_2024"
+    ],
+    [
+      "Updating a large codebase to Rust 2024",
+      "https://codeandbitters.com/rust-2024-upgrade/"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 16:51:43",
       "https://lobste.rs/s/xjio66/parameterized_tests_swift_reducing"
     ],
@@ -167,16 +177,6 @@
     [
       "Tips for more effective fuzz testing with AFL++",
       "https://nullprogram.com/blog/2025/02/05/"
-    ]
-  ],
-  [
-    [
-      "2025-02-05, 21:08:16",
-      "https://lobste.rs/s/ikydnz/versioning_versus_coordination"
-    ],
-    [
-      "Versioning versus Coordination",
-      "https://brooker.co.za/blog/2025/02/04/versioning.html"
     ]
   ],
   [
