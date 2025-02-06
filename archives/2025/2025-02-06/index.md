@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 16:51:43](https://lobste.rs/s/xjio66/parameterized_tests_swift_reducing) - [Parameterized tests in Swift: Reducing boilerplate code](https://www.avanderlee.com/swift-testing/parameterized-tests-reducing-boilerplate-code/)
 * [2025-02-06, 16:39:36](https://lobste.rs/s/hfa6dy/frink_data_file_for_non_changing_units) - [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
 * [2025-02-06, 16:16:21](https://lobste.rs/s/jpuqs4/which_rich_text_editor_framework_should) - [Which rich text editor framework should you choose in 2025?](https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025)
 * [2025-02-06, 15:08:49](https://lobste.rs/s/eeyjrw/cheaper_faster_way_deploy_binderhub) - [A cheaper and faster way to deploy Binderhub](https://2i2c.org/blog/2025/binder-singlenode/)
