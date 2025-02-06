@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 20:35:44](https://lobste.rs/s/cxpkpn/doom_running_on_apple_lightning_hdmi) - [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
 * [2025-02-06, 20:10:04](https://lobste.rs/s/x0yjt0/negotiability_severity_levels) - [The Negotiability of “Severity” Levels](https://www.adaptivecapacitylabs.com/2019/05/20/the-negotiability-of-severity-levels/)
 * [2025-02-06, 19:57:09](https://lobste.rs/s/2waxyd/closer_look_at_tanmatsu) - [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
 * [2025-02-06, 19:27:56](https://lobste.rs/s/zqpfyj/fabrication_begins_for_production) - [Fabrication begins for production OpenTitan silicon](https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html)
