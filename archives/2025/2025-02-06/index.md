@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 07:02:06](https://lobste.rs/s/3vhpzg/hotline_for_modern_apple_systems) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 * [2025-02-06, 06:54:45](https://lobste.rs/s/j9atea/how_influence_query_planning_postgresql) - [How to Influence Query Planning in Postgresql](https://chriskiehl.com/article/query-plan-management)
 * [2025-02-06, 05:13:01](https://lobste.rs/s/rwgppq/evolving_landscape_llm_evaluation) - [The Evolving Landscape of LLM Evaluation](https://www.ruder.io/the-evolving-landscape-of-llm-evaluation/)
 * [2025-02-06, 01:11:55](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with) - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-06, 07:02:06](https://lobste.rs/s/3vhpzg/hotline_for_modern_apple_systems) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 * [2025-02-06, 06:54:45](https://lobste.rs/s/j9atea/how_influence_query_planning_postgresql) - [How to Influence Query Planning in Postgresql](https://chriskiehl.com/article/query-plan-management)
 * [2025-02-06, 05:13:01](https://lobste.rs/s/rwgppq/evolving_landscape_llm_evaluation) - [The Evolving Landscape of LLM Evaluation](https://www.ruder.io/the-evolving-landscape-of-llm-evaluation/)
 * [2025-02-06, 01:11:55](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with) - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)
@@ -24,7 +25,6 @@
 * [2025-02-04, 19:30:51](https://lobste.rs/s/ycbpnz/animating_rick_morty_one_pixel_at_time) - [Animating Rick and Morty One Pixel at a Time](https://danielchasehooper.com/posts/code-animated-rick/)
 * [2025-02-04, 17:18:45](https://lobste.rs/s/0jknbl/roc_rewrites_compiler_zig) - [Roc rewrites the compiler in Zig](https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f)
 * [2025-02-04, 15:52:01](https://lobste.rs/s/ou6ky6/big_packages_many_dependencies) - [Big Packages or Many Dependencies ](https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/)
-* [2025-02-04, 13:42:50](https://lobste.rs/s/wucizv/no_panic_rust_nice_technique_for_systems) - [No-Panic Rust: A Nice Technique for Systems Programming](https://blog.reverberate.org/2025/02/03/no-panic-rust.html)
 
 ## [Archives](archives/index.md)
 
