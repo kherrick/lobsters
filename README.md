@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-06, 20:42:36](https://lobste.rs/s/2kubgg/all_new_le_chat_your_ai_assistant_for_life) - [The all new le Chat: Your AI assistant for life and work | Mistral AI](https://mistral.ai/en/news/all-new-le-chat)
+* [2025-02-06, 21:14:16](https://lobste.rs/s/2tt5ju/llama_s_paradox_exploiting_llama_cpp) - [Llama's Paradox - Exploiting Llama.cpp](https://retr0.blog/blog/llama-rpc-rce)
 * [2025-02-06, 20:35:44](https://lobste.rs/s/cxpkpn/doom_running_on_apple_lightning_hdmi) - [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
 * [2025-02-06, 20:10:04](https://lobste.rs/s/x0yjt0/negotiability_severity_levels) - [The Negotiability of “Severity” Levels](https://www.adaptivecapacitylabs.com/2019/05/20/the-negotiability-of-severity-levels/)
 * [2025-02-06, 19:57:09](https://lobste.rs/s/2waxyd/closer_look_at_tanmatsu) - [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
