@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 23:38:51](https://lobste.rs/s/p8i4du/library_sandboxing_for_verona) - [Library sandboxing for Verona](https://github.com/microsoft/verona-sandbox)
 * [2025-02-06, 23:09:39](https://lobste.rs/s/f61avh/openwrt_wiki_openwrt_24_10_0_first_stable) - [[OpenWrt Wiki] OpenWrt 24.10.0 - First Stable Release - 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
 * [2025-02-06, 22:30:16](https://lobste.rs/s/8yyrkr/ai_by_hand_exercises_excel) - [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 * [2025-02-06, 22:00:01](https://lobste.rs/s/i5phus/decade_tils) - [A Decade of TILs](https://www.visualmode.dev/a-decade-of-tils)
