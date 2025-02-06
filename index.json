@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-06, 10:07:14",
+      "https://lobste.rs/s/ljvz0s/freebsd_hi_fi_audio_setup_bit_perfect"
+    ],
+    [
+      "FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time",
+      "https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/"
+    ]
+  ],
+  [
+    [
       "2025-02-06, 09:36:36",
       "https://lobste.rs/s/cbvnzl/string_vs_str"
     ],
@@ -237,16 +247,6 @@
     [
       "Roc rewrites the compiler in Zig",
       "https://gist.github.com/rtfeldman/77fb430ee57b42f5f2ca973a3992532f"
-    ]
-  ],
-  [
-    [
-      "2025-02-04, 15:52:01",
-      "https://lobste.rs/s/ou6ky6/big_packages_many_dependencies"
-    ],
-    [
-      "Big Packages or Many Dependencies ",
-      "https://v5.chriskrycho.com/notes/big-packages-or-many-dependencies/"
     ]
   ]
 ]
