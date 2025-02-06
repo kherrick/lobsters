@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-06](index.md)
 
+* [2025-02-06, 17:50:10](https://lobste.rs/s/ficdn9/updating_large_codebase_rust_2024) - [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
 * [2025-02-06, 16:51:43](https://lobste.rs/s/xjio66/parameterized_tests_swift_reducing) - [Parameterized tests in Swift: Reducing boilerplate code](https://www.avanderlee.com/swift-testing/parameterized-tests-reducing-boilerplate-code/)
 * [2025-02-06, 16:39:36](https://lobste.rs/s/hfa6dy/frink_data_file_for_non_changing_units) - [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
 * [2025-02-06, 16:16:21](https://lobste.rs/s/jpuqs4/which_rich_text_editor_framework_should) - [Which rich text editor framework should you choose in 2025?](https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-06, 17:50:10](https://lobste.rs/s/ficdn9/updating_large_codebase_rust_2024) - [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
 * [2025-02-06, 16:51:43](https://lobste.rs/s/xjio66/parameterized_tests_swift_reducing) - [Parameterized tests in Swift: Reducing boilerplate code](https://www.avanderlee.com/swift-testing/parameterized-tests-reducing-boilerplate-code/)
 * [2025-02-06, 16:39:36](https://lobste.rs/s/hfa6dy/frink_data_file_for_non_changing_units) - [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
 * [2025-02-06, 16:16:21](https://lobste.rs/s/jpuqs4/which_rich_text_editor_framework_should) - [Which rich text editor framework should you choose in 2025?](https://liveblocks.io/blog/which-rich-text-editor-framework-should-you-choose-in-2025)
@@ -17,7 +18,6 @@
 * [2025-02-06, 08:53:46](https://lobste.rs/s/dp5e4g/it_is_time_standardize_principles) - [It Is Time to Standardize Principles and Practices for Software Memory Safety](https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/)
 * [2025-02-06, 07:02:06](https://lobste.rs/s/3vhpzg/hotline_for_modern_apple_systems) - [Hotline for modern Apple systems](https://github.com/mierau/hotline)
 * [2025-02-06, 01:11:55](https://lobste.rs/s/3as5ex/tips_for_more_effective_fuzz_testing_with) - [Tips for more effective fuzz testing with AFL++](https://nullprogram.com/blog/2025/02/05/)
-* [2025-02-05, 21:08:16](https://lobste.rs/s/ikydnz/versioning_versus_coordination) - [Versioning versus Coordination](https://brooker.co.za/blog/2025/02/04/versioning.html)
 * [2025-02-05, 19:28:56](https://lobste.rs/s/cyotj6/all_bear_blogs_can_use_hashtags_now_via) - [All Bear blogs can use hashtags now via Octothorpes](https://octothorpes.bearblog.dev/you-can-use-hashtags-on-your-bear-blog-now/)
 * [2025-02-05, 19:21:34](https://lobste.rs/s/khlha3/sudoku_affair) - [the sudoku affair](https://explaining.software/archive/the-sudoku-affair/)
 * [2025-02-05, 18:02:47](https://lobste.rs/s/gn3nym/comic_web_markup_comic_web_is_markup) - [comic-web-markup: Comic-web is a markup language for describing comics, as well as a rendering engine for this language](https://github.com/abuseofnotation/comic-web-markup)
