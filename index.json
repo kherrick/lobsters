@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-07, 09:44:23",
+      "https://lobste.rs/s/qegcm3/pypy_v7_3_18_release"
+    ],
+    [
+      "PyPy v7.3.18 release",
+      "https://www.pypy.org/posts/2025/02/pypy-v7318-release.html"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 09:15:29",
       "https://lobste.rs/s/pfjpu8/opentelemetry_prometheus_more_which_is"
     ],
@@ -197,16 +207,6 @@
     [
       "Asdf Version Manager Has Been Re-Written in Golang",
       "https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 10:07:14",
-      "https://lobste.rs/s/ljvz0s/freebsd_hi_fi_audio_setup_bit_perfect"
-    ],
-    [
-      "FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time",
-      "https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/"
     ]
   ],
   [
