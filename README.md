@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-07, 07:46:07](https://lobste.rs/s/vlzdgt/fosdem_2025_14_years_systemd) - [FOSDEM 2025 - 14 Years of systemd](https://fosdem.org/2025/schedule/event/fosdem-2025-6648-14-years-of-systemd/)
 * [2025-02-07, 07:02:39](https://lobste.rs/s/ilowht/litestack_6_gems_databases_into_one) - [Litestack: 6 gems and databases into one](https://github.com/oldmoe/litestack)
 * [2025-02-07, 04:52:11](https://lobste.rs/s/zzbfob/you_didn_t_notice_mp3_is_now_free) - [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
 * [2025-02-07, 04:11:59](https://lobste.rs/s/b9ezyc/three_projections_doctor_futamura) - [The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
@@ -10,7 +11,6 @@
 * [2025-02-06, 23:09:39](https://lobste.rs/s/f61avh/openwrt_24_10_0_first_stable_release) - [OpenWrt 24.10.0 - First Stable Release](https://openwrt.org/releases/24.10/notes-24.10.0)
 * [2025-02-06, 22:30:16](https://lobste.rs/s/8yyrkr/ai_by_hand_exercises_excel) - [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 * [2025-02-06, 22:00:01](https://lobste.rs/s/i5phus/decade_tils) - [A Decade of TILs](https://www.visualmode.dev/a-decade-of-tils)
-* [2025-02-06, 21:14:16](https://lobste.rs/s/2tt5ju/llama_s_paradox_exploiting_llama_cpp) - [Llama's Paradox - Exploiting Llama.cpp](https://retr0.blog/blog/llama-rpc-rce)
 * [2025-02-06, 20:35:44](https://lobste.rs/s/cxpkpn/doom_running_on_apple_lightning_hdmi) - [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
 * [2025-02-06, 19:57:09](https://lobste.rs/s/2waxyd/closer_look_at_tanmatsu) - [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
 * [2025-02-06, 17:50:10](https://lobste.rs/s/ficdn9/updating_large_codebase_rust_2024) - [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
