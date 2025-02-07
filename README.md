@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-07, 22:18:48](https://lobste.rs/s/etdzwd/ai_haters_build_tarpits_trap_trick_ai) - [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
 * [2025-02-07, 19:42:30](https://lobste.rs/s/gz2fgw/getaddrinfo_sucks_everything_else_is) - [getaddrinfo sucks. everything else is much worse](https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse)
-* [2025-02-07, 19:04:53](https://lobste.rs/s/sixztv/secure_cookie_library_go_from_scratch) - [Secure cookie library in Go from scratch](https://moroz.dev/blog/secure-cookie-library-in-go-from-scratch/)
 * [2025-02-07, 18:30:00](https://lobste.rs/s/5m5rb6/cloudflare_incident_on_february_6_2025) - [Cloudflare incident on February 6, 2025](https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/)
 * [2025-02-07, 17:49:36](https://lobste.rs/s/wflsxa/brief_history_code_signing_at_mozilla) - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 * [2025-02-07, 17:32:13](https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you) - [Fun Friday: what's the weirdest automation you've ever made?](https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you)
