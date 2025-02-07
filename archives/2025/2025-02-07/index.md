@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 16:04:23](https://lobste.rs/s/josk1v/code_beyond_fair) - [CODE beyond FAIR](https://inria.hal.science/hal-04930405v1/document#page=2)
 * [2025-02-07, 15:35:15](https://lobste.rs/s/bvqj9g/lkml_hector_martin_patch_maintainers) - [LKML: Hector Martin: [PATCH] MAINTAINERS: Remove myself](https://lkml.org/lkml/2025/2/7/9)
 * [2025-02-07, 14:25:28](https://lobste.rs/s/srf2u2/gleam_v1_8_0_released) - [Gleam v1.8.0 released](https://gleam.run/news/gleam-gets-rename-variable/)
 * [2025-02-07, 14:10:49](https://lobste.rs/s/ui5fzs/cpython_tail_call_interpreter_merged_for) - [CPython tail-call interpreter merged for Python 3.14](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
