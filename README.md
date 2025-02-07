@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-07, 03:38:31](https://lobste.rs/s/9zznlg/llm_curve_impact_on_software_engineers) - [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
 * [2025-02-07, 02:48:40](https://lobste.rs/s/1ggoe7/how_much_instrumentation_is_enough_when) - [How much instrumentation is enough / when am I done?](https://blog.toshokelectric.com/blog/how-much-is-enough/)
 * [2025-02-06, 23:38:51](https://lobste.rs/s/p8i4du/library_sandboxing_for_verona) - [Library sandboxing for Verona](https://github.com/microsoft/verona-sandbox)
 * [2025-02-06, 23:09:39](https://lobste.rs/s/f61avh/openwrt_wiki_openwrt_24_10_0_first_stable) - [[OpenWrt Wiki] OpenWrt 24.10.0 - First Stable Release - 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
@@ -18,7 +19,6 @@
 * [2025-02-06, 13:24:50](https://lobste.rs/s/ytdpaw/inevitability_borrow_checker) - [The inevitability of the borrow checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 13:16:25](https://lobste.rs/s/5jsqeq/profiling_production_with_function_call) - [Profiling in production with function call traces](https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html)
 * [2025-02-06, 12:58:27](https://lobste.rs/s/e8tdsr/asdf_version_manager_has_been_re_written) - [Asdf Version Manager Has Been Re-Written in Golang](https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go)
-* [2025-02-06, 10:38:45](https://lobste.rs/s/wysspc/just_because_you_re_getting_index_scan) - [Just because you’re getting an index scan, doesn't mean you can’t do better](https://www.pgmustard.com/blog/index-scan-doesnt-mean-its-fast)
 * [2025-02-06, 10:07:14](https://lobste.rs/s/ljvz0s/freebsd_hi_fi_audio_setup_bit_perfect) - [FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time](https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/)
 * [2025-02-06, 09:36:36](https://lobste.rs/s/cbvnzl/string_vs_str) - [String vs &str](https://blog.sulami.xyz/posts/string-vs-str/)
 * [2025-02-06, 09:03:33](https://lobste.rs/s/2etd7f/sqlite_postgresql_it_s_complicated) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated)
