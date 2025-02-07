@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-07, 05:02:14](https://lobste.rs/s/mpkdbo/subpixel_snake_web_s_smallest_game) - [Subpixel Snake: The Web's Smallest Game](https://www.youtube.com/watch?v=iDwganLjpW0)
+* [2025-02-07, 04:52:11](https://lobste.rs/s/zzbfob/you_didn_t_notice_mp3_is_now_free) - [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
 * [2025-02-07, 04:11:59](https://lobste.rs/s/b9ezyc/three_projections_doctor_futamura) - [The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
 * [2025-02-07, 03:52:24](https://lobste.rs/s/f5ziu7/comments_on_shared_unix_hosting_vs_cloud) - [Comments on Shared Unix Hosting vs. the Cloud](https://oils.pub/blog/2025/02/shared-hosting.html)
 * [2025-02-07, 03:38:31](https://lobste.rs/s/9zznlg/llm_curve_impact_on_software_engineers) - [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
@@ -7,7 +9,6 @@
 * [2025-02-06, 23:09:39](https://lobste.rs/s/f61avh/openwrt_wiki_openwrt_24_10_0_first_stable) - [[OpenWrt Wiki] OpenWrt 24.10.0 - First Stable Release - 6. February 2025](https://openwrt.org/releases/24.10/notes-24.10.0)
 * [2025-02-06, 22:30:16](https://lobste.rs/s/8yyrkr/ai_by_hand_exercises_excel) - [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 * [2025-02-06, 22:00:01](https://lobste.rs/s/i5phus/decade_tils) - [A Decade of TILs](https://www.visualmode.dev/a-decade-of-tils)
-* [2025-02-06, 21:14:16](https://lobste.rs/s/2tt5ju/llama_s_paradox_exploiting_llama_cpp) - [Llama's Paradox - Exploiting Llama.cpp](https://retr0.blog/blog/llama-rpc-rce)
 * [2025-02-06, 20:35:44](https://lobste.rs/s/cxpkpn/doom_running_on_apple_lightning_hdmi) - [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
 * [2025-02-06, 19:57:09](https://lobste.rs/s/2waxyd/closer_look_at_tanmatsu) - [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
 * [2025-02-06, 19:26:26](https://lobste.rs/s/pszqzl/github_copilot_agent_awakens) - [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
@@ -18,7 +19,6 @@
 * [2025-02-06, 13:24:50](https://lobste.rs/s/ytdpaw/inevitability_borrow_checker) - [The inevitability of the borrow checker](https://yorickpeterse.com/articles/the-inevitability-of-the-borrow-checker/)
 * [2025-02-06, 13:16:25](https://lobste.rs/s/5jsqeq/profiling_production_with_function_call) - [Profiling in production with function call traces](https://yosefk.com/blog/profiling-in-production-with-function-call-traces.html)
 * [2025-02-06, 12:58:27](https://lobste.rs/s/e8tdsr/asdf_version_manager_has_been_re_written) - [Asdf Version Manager Has Been Re-Written in Golang](https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go)
-* [2025-02-06, 10:38:45](https://lobste.rs/s/wysspc/just_because_you_re_getting_index_scan) - [Just because you’re getting an index scan, doesn't mean you can’t do better](https://www.pgmustard.com/blog/index-scan-doesnt-mean-its-fast)
 * [2025-02-06, 10:07:14](https://lobste.rs/s/ljvz0s/freebsd_hi_fi_audio_setup_bit_perfect) - [FreeBSD and hi-fi audio setup: bit-perfect, equalizer, real-time](https://m4c.pl/blog/freebsd-audio-setup-bitperfect-equalizer-realtime/)
 * [2025-02-06, 09:36:36](https://lobste.rs/s/cbvnzl/string_vs_str) - [String vs &str](https://blog.sulami.xyz/posts/string-vs-str/)
 * [2025-02-06, 09:03:33](https://lobste.rs/s/2etd7f/sqlite_postgresql_it_s_complicated) - [SQLite or PostgreSQL? It's Complicated](https://www.twilio.com/en-us/blog/sqlite-postgresql-complicated)
