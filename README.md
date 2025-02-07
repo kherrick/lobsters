@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-02-07, 14:25:28](https://lobste.rs/s/srf2u2/gleam_v1_8_0_released) - [Gleam v1.8.0 released](https://gleam.run/news/gleam-gets-rename-variable/)
+* [2025-02-07, 14:10:49](https://lobste.rs/s/ui5fzs/cpython_tail_call_interpreter_merged_for) - [CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
 * [2025-02-07, 13:43:28](https://lobste.rs/s/y0bakb/refined_simple_refinement_types_for_rust) - [Refined: simple refinement types for Rust](https://jordankaye.dev/posts/refined/)
 * [2025-02-07, 11:27:58](https://lobste.rs/s/xm3hxg/what_f_is_reflection) - [What the f*** is reflection?](https://www.youtube.com/watch?v=vxPKWb0dSqQ)
 * [2025-02-07, 11:11:40](https://lobste.rs/s/ro1i8v/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/ro1i8v/what_are_you_doing_this_weekend)
@@ -15,7 +16,6 @@
 * [2025-02-06, 22:30:16](https://lobste.rs/s/8yyrkr/ai_by_hand_exercises_excel) - [AI by Hand Exercises in Excel](https://github.com/ImagineAILab/ai-by-hand-excel)
 * [2025-02-06, 22:00:01](https://lobste.rs/s/i5phus/decade_tils) - [A Decade of TILs](https://www.visualmode.dev/a-decade-of-tils)
 * [2025-02-06, 20:35:44](https://lobste.rs/s/cxpkpn/doom_running_on_apple_lightning_hdmi) - [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
-* [2025-02-06, 19:57:09](https://lobste.rs/s/2waxyd/closer_look_at_tanmatsu) - [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
 * [2025-02-06, 17:50:10](https://lobste.rs/s/ficdn9/updating_large_codebase_rust_2024) - [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
 * [2025-02-06, 14:53:39](https://lobste.rs/s/nghoy0/ais_robots_should_sound_robotic) - [AIs and Robots Should Sound Robotic](https://www.schneier.com/blog/archives/2025/02/ais-and-robots-should-sound-robotic.html)
 * [2025-02-06, 14:50:28](https://lobste.rs/s/89h9eb/html_whitespace_is_broken) - [HTML Whitespace is Broken](https://blog.dwac.dev/posts/html-whitespace/)
