@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-07, 03:52:24](https://lobste.rs/s/f5ziu7/comments_on_shared_unix_hosting_vs_cloud) - [Comments on Shared Unix Hosting vs. the Cloud](https://oils.pub/blog/2025/02/shared-hosting.html)
 * [2025-02-07, 03:38:31](https://lobste.rs/s/9zznlg/llm_curve_impact_on_software_engineers) - [The LLM Curve of Impact on Software Engineers](https://serce.me/posts/2025-02-07-the-llm-curve-of-impact-on-software-engineers)
 * [2025-02-07, 02:48:40](https://lobste.rs/s/1ggoe7/how_much_instrumentation_is_enough_when) - [How much instrumentation is enough / when am I done?](https://blog.toshokelectric.com/blog/how-much-is-enough/)
 * [2025-02-06, 23:38:51](https://lobste.rs/s/p8i4du/library_sandboxing_for_verona) - [Library sandboxing for Verona](https://github.com/microsoft/verona-sandbox)
@@ -9,7 +10,6 @@
 * [2025-02-06, 21:14:16](https://lobste.rs/s/2tt5ju/llama_s_paradox_exploiting_llama_cpp) - [Llama's Paradox - Exploiting Llama.cpp](https://retr0.blog/blog/llama-rpc-rce)
 * [2025-02-06, 20:35:44](https://lobste.rs/s/cxpkpn/doom_running_on_apple_lightning_hdmi) - [DOOM running on Apple Lightning to HDMI dongle](https://youtu.be/4XCkeN0XuqA)
 * [2025-02-06, 19:57:09](https://lobste.rs/s/2waxyd/closer_look_at_tanmatsu) - [A Closer Look At The Tanmatsu](https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/)
-* [2025-02-06, 19:27:56](https://lobste.rs/s/zqpfyj/fabrication_begins_for_production) - [Fabrication begins for production OpenTitan silicon](https://opensource.googleblog.com/2025/02/fabrication-begins-for-production-opentitan-silicon.html)
 * [2025-02-06, 19:26:26](https://lobste.rs/s/pszqzl/github_copilot_agent_awakens) - [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)
 * [2025-02-06, 17:50:10](https://lobste.rs/s/ficdn9/updating_large_codebase_rust_2024) - [Updating a large codebase to Rust 2024](https://codeandbitters.com/rust-2024-upgrade/)
 * [2025-02-06, 16:39:36](https://lobste.rs/s/hfa6dy/frink_data_file_for_non_changing_units) - [Frink data file for non-changing units](https://frinklang.org/frinkdata/units.txt)
