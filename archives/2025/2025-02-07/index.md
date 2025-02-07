@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-07](index.md)
 
+* [2025-02-07, 07:02:39](https://lobste.rs/s/ilowht/litestack_6_gems_databases_into_one) - [Litestack: 6 gems and databases into one](https://github.com/oldmoe/litestack)
 * [2025-02-07, 05:02:14](https://lobste.rs/s/mpkdbo/subpixel_snake_web_s_smallest_game) - [Subpixel Snake: The Web's Smallest Game](https://www.youtube.com/watch?v=iDwganLjpW0)
 * [2025-02-07, 04:52:11](https://lobste.rs/s/zzbfob/you_didn_t_notice_mp3_is_now_free) - [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
 * [2025-02-07, 04:11:59](https://lobste.rs/s/b9ezyc/three_projections_doctor_futamura) - [The Three Projections of Doctor Futamura](http://blog.sigfpe.com/2009/05/three-projections-of-doctor-futamura.html)
