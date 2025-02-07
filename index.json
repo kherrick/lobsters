@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-07, 14:10:49",
+      "https://lobste.rs/s/ui5fzs/cpython_tail_call_interpreter_merged_for"
+    ],
+    [
+      "CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks",
+      "https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 13:43:28",
       "https://lobste.rs/s/y0bakb/refined_simple_refinement_types_for_rust"
     ],
@@ -147,16 +157,6 @@
     [
       "DOOM running on Apple Lightning to HDMI dongle",
       "https://youtu.be/4XCkeN0XuqA"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 19:57:09",
-      "https://lobste.rs/s/2waxyd/closer_look_at_tanmatsu"
-    ],
-    [
-      "A Closer Look At The Tanmatsu",
-      "https://hackaday.com/2025/02/04/a-closer-look-at-the-tanmatsu/"
     ]
   ],
   [
