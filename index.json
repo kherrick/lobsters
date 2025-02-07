@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-07, 07:46:07",
+      "https://lobste.rs/s/vlzdgt/fosdem_2025_14_years_systemd"
+    ],
+    [
+      "FOSDEM 2025 - 14 Years of systemd",
+      "https://fosdem.org/2025/schedule/event/fosdem-2025-6648-14-years-of-systemd/"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 07:02:39",
       "https://lobste.rs/s/ilowht/litestack_6_gems_databases_into_one"
     ],
@@ -97,16 +107,6 @@
     [
       "A Decade of TILs",
       "https://www.visualmode.dev/a-decade-of-tils"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 21:14:16",
-      "https://lobste.rs/s/2tt5ju/llama_s_paradox_exploiting_llama_cpp"
-    ],
-    [
-      "Llama's Paradox - Exploiting Llama.cpp",
-      "https://retr0.blog/blog/llama-rpc-rce"
     ]
   ],
   [
