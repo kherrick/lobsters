@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-07, 05:02:14",
+      "https://lobste.rs/s/mpkdbo/subpixel_snake_web_s_smallest_game"
+    ],
+    [
+      "Subpixel Snake: The Web's Smallest Game",
+      "https://www.youtube.com/watch?v=iDwganLjpW0"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 04:52:11",
+      "https://lobste.rs/s/zzbfob/you_didn_t_notice_mp3_is_now_free"
+    ],
+    [
+      "You Didn't Notice MP3 Is Now Free",
+      "https://idiallo.com/blog/listen-mp3-is-free"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 04:11:59",
       "https://lobste.rs/s/b9ezyc/three_projections_doctor_futamura"
     ],
@@ -67,16 +87,6 @@
     [
       "A Decade of TILs",
       "https://www.visualmode.dev/a-decade-of-tils"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 21:14:16",
-      "https://lobste.rs/s/2tt5ju/llama_s_paradox_exploiting_llama_cpp"
-    ],
-    [
-      "Llama's Paradox - Exploiting Llama.cpp",
-      "https://retr0.blog/blog/llama-rpc-rce"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Asdf Version Manager Has Been Re-Written in Golang",
       "https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 10:38:45",
-      "https://lobste.rs/s/wysspc/just_because_you_re_getting_index_scan"
-    ],
-    [
-      "Just because you’re getting an index scan, doesn't mean you can’t do better",
-      "https://www.pgmustard.com/blog/index-scan-doesnt-mean-its-fast"
     ]
   ],
   [
