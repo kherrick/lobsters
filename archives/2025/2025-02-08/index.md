@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 17:46:31](https://lobste.rs/s/ee41l4/erika_10) - [Erika 10](https://tegowerk.eu/posts/erika-10/)
 * [2025-02-08, 17:33:37](https://lobste.rs/s/xfjcze/we_are_destroying_software) - [We are destroying software](https://antirez.com/news/145)
 * [2025-02-08, 16:19:49](https://lobste.rs/s/ld6dwl/synctrain_rethought_ios_client_for) - [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing)
 * [2025-02-08, 15:50:10](https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)

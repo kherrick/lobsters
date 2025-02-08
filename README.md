@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-08, 17:46:31](https://lobste.rs/s/ee41l4/erika_10) - [Erika 10](https://tegowerk.eu/posts/erika-10/)
 * [2025-02-08, 17:33:37](https://lobste.rs/s/xfjcze/we_are_destroying_software) - [We are destroying software](https://antirez.com/news/145)
 * [2025-02-08, 16:19:49](https://lobste.rs/s/ld6dwl/synctrain_rethought_ios_client_for) - [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing)
 * [2025-02-08, 15:50:10](https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
@@ -16,7 +17,6 @@
 * [2025-02-07, 17:49:36](https://lobste.rs/s/wflsxa/brief_history_code_signing_at_mozilla) - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 * [2025-02-07, 17:32:13](https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you) - [Fun Friday: what's the weirdest automation you've ever made?](https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you)
 * [2025-02-07, 17:20:11](https://lobste.rs/s/pdcipx/polysubml_demo_simple_ml_like_language) - [polysubml-demo: A simple ML-like language with subtyping, polymorphism, higher rank types, and global type inference](https://github.com/Storyyeller/polysubml-demo)
-* [2025-02-07, 16:04:23](https://lobste.rs/s/josk1v/code_beyond_fair) - [CODE beyond FAIR](https://inria.hal.science/hal-04930405v1/document#page=2)
 * [2025-02-07, 14:25:28](https://lobste.rs/s/srf2u2/gleam_v1_8_0_released) - [Gleam v1.8.0 released](https://gleam.run/news/gleam-gets-rename-variable/)
 * [2025-02-07, 14:10:49](https://lobste.rs/s/ui5fzs/cpython_tail_call_interpreter_merged_for) - [CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
 * [2025-02-07, 13:43:28](https://lobste.rs/s/y0bakb/refined_simple_refinement_types_for_rust) - [Refined: simple refinement types for Rust](https://jordankaye.dev/posts/refined/)
