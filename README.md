@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-08, 21:53:55](https://lobste.rs/s/2muuuz/simple_serialization_system) - [A Simple Serialization System](https://rxi.github.io/a_simple_serialization_system.html)
 * [2025-02-08, 21:12:29](https://lobste.rs/s/rpejli/from_hours_360ms_over_engineering_puzzle) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
 * [2025-02-08, 20:44:09](https://lobste.rs/s/nwfknr/consuming_jetstream_atproto_firehose) - [Consuming the jetstream atproto firehose correctly](https://bsky.bad-example.com/consuming-the-firehose-correctly/)
 * [2025-02-08, 19:42:55](https://lobste.rs/s/01klhe/ai_exploits_gamebreaking_bug_trackmania) - [AI exploits a gamebreaking bug in Trackmania](https://www.youtube.com/watch?v=NUl6QikjR04)
@@ -22,7 +23,6 @@
 * [2025-02-07, 14:25:28](https://lobste.rs/s/srf2u2/gleam_v1_8_0_released) - [Gleam v1.8.0 released](https://gleam.run/news/gleam-gets-rename-variable/)
 * [2025-02-07, 14:10:49](https://lobste.rs/s/ui5fzs/cpython_tail_call_interpreter_merged_for) - [CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
 * [2025-02-07, 13:43:28](https://lobste.rs/s/y0bakb/refined_simple_refinement_types_for_rust) - [Refined: simple refinement types for Rust](https://jordankaye.dev/posts/refined/)
-* [2025-02-07, 08:00:33](https://lobste.rs/s/l4olys/numbat_statically_typed_programming) - [numbat: A statically typed programming language for scientific computations with first class support for physical dimensions and units](https://github.com/sharkdp/numbat)
 * [2025-02-07, 04:52:11](https://lobste.rs/s/zzbfob/you_didn_t_notice_mp3_is_now_free) - [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
 * [2025-02-07, 03:52:24](https://lobste.rs/s/f5ziu7/comments_on_shared_unix_hosting_vs_cloud) - [Comments on Shared Unix Hosting vs. the Cloud](https://oils.pub/blog/2025/02/shared-hosting.html)
 

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 21:53:55](https://lobste.rs/s/2muuuz/simple_serialization_system) - [A Simple Serialization System](https://rxi.github.io/a_simple_serialization_system.html)
 * [2025-02-08, 21:12:29](https://lobste.rs/s/rpejli/from_hours_360ms_over_engineering_puzzle) - [From hours to 360ms: over-engineering a puzzle solution](https://blog.danielh.cc/blog/puzzle)
 * [2025-02-08, 20:44:09](https://lobste.rs/s/nwfknr/consuming_jetstream_atproto_firehose) - [Consuming the jetstream atproto firehose correctly](https://bsky.bad-example.com/consuming-the-firehose-correctly/)
 * [2025-02-08, 19:42:55](https://lobste.rs/s/01klhe/ai_exploits_gamebreaking_bug_trackmania) - [AI exploits a gamebreaking bug in Trackmania](https://www.youtube.com/watch?v=NUl6QikjR04)
