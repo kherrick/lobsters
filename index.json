@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-08, 03:37:55",
+      "https://lobste.rs/s/fshgqa/docker_bake_is_now_generally_available"
+    ],
+    [
+      "Docker Bake is Now Generally Available",
+      "https://www.docker.com/blog/ga-launch-docker-bake/"
+    ]
+  ],
+  [
+    [
       "2025-02-07, 22:18:48",
       "https://lobste.rs/s/etdzwd/ai_haters_build_tarpits_trap_trick_ai"
     ],
@@ -227,16 +237,6 @@
     [
       "Asdf Version Manager Has Been Re-Written in Golang",
       "https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 09:36:36",
-      "https://lobste.rs/s/cbvnzl/string_vs_str"
-    ],
-    [
-      "String vs &str",
-      "https://blog.sulami.xyz/posts/string-vs-str/"
     ]
   ],
   [
