@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-08, 11:35:34",
+      "https://lobste.rs/s/di6rhf/tale_several_distros_joining_forces_for"
+    ],
+    [
+      "A tale of several distros joining forces for a common goal: reproducible builds",
+      "https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm"
+    ]
+  ],
+  [
+    [
       "2025-02-08, 08:49:47",
       "https://lobste.rs/s/vqzmj4/trivalent_hardened_chromium_for_desktop"
     ],
@@ -237,16 +247,6 @@
     [
       "Asdf Version Manager Has Been Re-Written in Golang",
       "https://stratus3d.com/blog/2025/02/03/asdf-has-been-rewritten-in-go"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 08:53:46",
-      "https://lobste.rs/s/dp5e4g/it_is_time_standardize_principles"
-    ],
-    [
-      "It Is Time to Standardize Principles and Practices for Software Memory Safety",
-      "https://cacm.acm.org/opinion/it-is-time-to-standardize-principles-and-practices-for-software-memory-safety/"
     ]
   ]
 ]
