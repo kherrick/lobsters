@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-02-08, 17:46:31",
-      "https://lobste.rs/s/ee41l4/erika_10"
-    ],
-    [
-      "Erika 10",
-      "https://tegowerk.eu/posts/erika-10/"
-    ]
-  ],
-  [
-    [
       "2025-02-08, 17:33:37",
       "https://lobste.rs/s/xfjcze/we_are_destroying_software"
     ],
@@ -227,6 +217,16 @@
     [
       "Refined: simple refinement types for Rust",
       "https://jordankaye.dev/posts/refined/"
+    ]
+  ],
+  [
+    [
+      "2025-02-07, 08:00:33",
+      "https://lobste.rs/s/l4olys/numbat_statically_typed_programming"
+    ],
+    [
+      "numbat: A statically typed programming language for scientific computations with first class support for physical dimensions and units",
+      "https://github.com/sharkdp/numbat"
     ]
   ],
   [
