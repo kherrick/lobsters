@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-08, 19:06:42](https://lobste.rs/s/yqqljw/be_skeptical_all_code_not_just_funny_stuff) - [Be Skeptical of All Code - Not Just the Funny Stuff](https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/)
 * [2025-02-08, 17:46:31](https://lobste.rs/s/ee41l4/erika_10) - [Erika 10](https://tegowerk.eu/posts/erika-10/)
 * [2025-02-08, 17:33:37](https://lobste.rs/s/xfjcze/we_are_destroying_software) - [We are destroying software](https://antirez.com/news/145)
 * [2025-02-08, 16:19:49](https://lobste.rs/s/ld6dwl/synctrain_rethought_ios_client_for) - [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing)
@@ -14,7 +15,6 @@
 * [2025-02-07, 22:18:48](https://lobste.rs/s/etdzwd/ai_haters_build_tarpits_trap_trick_ai) - [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
 * [2025-02-07, 19:42:30](https://lobste.rs/s/gz2fgw/getaddrinfo_sucks_everything_else_is) - [getaddrinfo sucks. everything else is much worse](https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse)
 * [2025-02-07, 18:30:00](https://lobste.rs/s/5m5rb6/cloudflare_incident_on_february_6_2025) - [Cloudflare incident on February 6, 2025](https://blog.cloudflare.com/cloudflare-incident-on-february-6-2025/)
-* [2025-02-07, 17:49:36](https://lobste.rs/s/wflsxa/brief_history_code_signing_at_mozilla) - [A Brief History of Code Signing at Mozilla](https://hearsum.ca/posts/history-of-code-signing-at-mozilla/)
 * [2025-02-07, 17:32:13](https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you) - [Fun Friday: what's the weirdest automation you've ever made?](https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you)
 * [2025-02-07, 17:20:11](https://lobste.rs/s/pdcipx/polysubml_demo_simple_ml_like_language) - [polysubml-demo: A simple ML-like language with subtyping, polymorphism, higher rank types, and global type inference](https://github.com/Storyyeller/polysubml-demo)
 * [2025-02-07, 14:25:28](https://lobste.rs/s/srf2u2/gleam_v1_8_0_released) - [Gleam v1.8.0 released](https://gleam.run/news/gleam-gets-rename-variable/)
