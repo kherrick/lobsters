@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-08, 06:33:22",
+      "https://lobste.rs/s/uoxout/no_libc_zig_now_outperforms_glibc_zig"
+    ],
+    [
+      "No-Libc Zig Now Outperforms Glibc Zig",
+      "https://ziglang.org/devlog/2025/#2025-02-07"
+    ]
+  ],
+  [
+    [
       "2025-02-08, 03:37:55",
       "https://lobste.rs/s/fshgqa/docker_bake_is_now_generally_available"
     ],
@@ -187,16 +197,6 @@
     [
       "OpenWrt 24.10.0 - First Stable Release",
       "https://openwrt.org/releases/24.10/notes-24.10.0"
-    ]
-  ],
-  [
-    [
-      "2025-02-06, 22:00:01",
-      "https://lobste.rs/s/i5phus/decade_tils"
-    ],
-    [
-      "A Decade of TILs",
-      "https://www.visualmode.dev/a-decade-of-tils"
     ]
   ],
   [
