@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 19:42:55](https://lobste.rs/s/01klhe/ai_exploits_gamebreaking_bug_trackmania) - [AI exploits a gamebreaking bug in Trackmania](https://www.youtube.com/watch?v=NUl6QikjR04)
 * [2025-02-08, 19:06:42](https://lobste.rs/s/yqqljw/be_skeptical_all_code_not_just_funny_stuff) - [Be Skeptical of All Code - Not Just the Funny Stuff](https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/)
 * [2025-02-08, 17:46:31](https://lobste.rs/s/ee41l4/erika_10) - [Erika 10](https://tegowerk.eu/posts/erika-10/)
 * [2025-02-08, 17:33:37](https://lobste.rs/s/xfjcze/we_are_destroying_software) - [We are destroying software](https://antirez.com/news/145)
