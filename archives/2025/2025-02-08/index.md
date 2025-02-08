@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-08](index.md)
 
+* [2025-02-08, 12:38:53](https://lobste.rs/s/ejwdhq/three_years_ephemeral_nixos_my) - [Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot](https://b.tuxes.uk/three-years-of-ephemeral-nixos.html)
 * [2025-02-08, 11:35:34](https://lobste.rs/s/di6rhf/tale_several_distros_joining_forces_for) - [A tale of several distros joining forces for a common goal: reproducible builds](https://video.fosdem.org/2025/h1302/fosdem-2025-6479-a-tale-of-several-distros-joining-forces-for-a-common-goal-reproducible-builds.av1.webm)
 * [2025-02-08, 08:49:47](https://lobste.rs/s/vqzmj4/trivalent_hardened_chromium_for_desktop) - [Trivalent: A hardened chromium for desktop Linux inspired by Vanadium](https://github.com/secureblue/Trivalent)
 * [2025-02-08, 08:24:09](https://lobste.rs/s/5xhtrj/case_for_sans_io) - [The case for sans-io](https://youtu.be/RYHYiXMJdZI)
