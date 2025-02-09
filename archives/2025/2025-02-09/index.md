@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 08:18:28](https://lobste.rs/s/3rqmav/fosdem_2025_how_we_are_defending_software) - [FOSDEM 2025 - How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
+* [2025-02-09, 08:15:07](https://lobste.rs/s/ou9v0b/qalculate_hacks) - [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
 * [2025-02-09, 07:57:13](https://lobste.rs/s/p11wif/lrgrep_selecting_error_messages_for_lr) - [LRGrep: Selecting Error Messages for LR parsers](https://def.lakaban.net/research/#lrgrep-selecting-error-messages-for-lr-parsers)
 * [2025-02-09, 07:04:55](https://lobste.rs/s/v2ffr2/vanspoof_prototype_1_hardware) - [VanSpoof - Prototype 1 - Hardware](https://mikecoats.com/van-spoof-prototype-1-part-1/)
 * [2025-02-09, 06:14:00](https://lobste.rs/s/0h55mx/c_sboms_how_pkgconf_can_solve_this_problem) - [C SBOMs, and how pkgconf can solve this problem](https://ariadne.space/2025/02/08/c-sboms-and-how-pkgconf.html)
