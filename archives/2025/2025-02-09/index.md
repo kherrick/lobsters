@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 09:42:12](https://lobste.rs/s/zbbfht/visible_zorker) - [The Visible Zorker](https://blog.zarfhome.com/2025/01/the-visible-zorker)
 * [2025-02-09, 08:18:28](https://lobste.rs/s/3rqmav/fosdem_2025_how_we_are_defending_software) - [FOSDEM 2025 - How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
 * [2025-02-09, 08:15:07](https://lobste.rs/s/ou9v0b/qalculate_hacks) - [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
 * [2025-02-09, 07:57:13](https://lobste.rs/s/p11wif/lrgrep_selecting_error_messages_for_lr) - [LRGrep: Selecting Error Messages for LR parsers](https://def.lakaban.net/research/#lrgrep-selecting-error-messages-for-lr-parsers)

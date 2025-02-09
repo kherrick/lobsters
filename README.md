@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-09, 09:42:12](https://lobste.rs/s/zbbfht/visible_zorker) - [The Visible Zorker](https://blog.zarfhome.com/2025/01/the-visible-zorker)
 * [2025-02-09, 08:18:28](https://lobste.rs/s/3rqmav/fosdem_2025_how_we_are_defending_software) - [FOSDEM 2025 - How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
 * [2025-02-09, 08:15:07](https://lobste.rs/s/ou9v0b/qalculate_hacks) - [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
 * [2025-02-09, 07:57:13](https://lobste.rs/s/p11wif/lrgrep_selecting_error_messages_for_lr) - [LRGrep: Selecting Error Messages for LR parsers](https://def.lakaban.net/research/#lrgrep-selecting-error-messages-for-lr-parsers)
@@ -20,7 +21,6 @@
 * [2025-02-08, 08:24:09](https://lobste.rs/s/5xhtrj/case_for_sans_io) - [The case for sans-io](https://youtu.be/RYHYiXMJdZI)
 * [2025-02-08, 07:24:52](https://lobste.rs/s/zpbelt/lume_mit_licensed_cli_virtualize_macos) - [Lume, an MIT-licensed CLI to virtualize macOS environments](https://github.com/trycua/lume)
 * [2025-02-08, 06:33:22](https://lobste.rs/s/uoxout/no_libc_zig_now_outperforms_glibc_zig) - [No-Libc Zig Now Outperforms Glibc Zig](https://ziglang.org/devlog/2025/#2025-02-07)
-* [2025-02-08, 03:37:55](https://lobste.rs/s/fshgqa/docker_bake_is_now_generally_available) - [Docker Bake is Now Generally Available](https://www.docker.com/blog/ga-launch-docker-bake/)
 * [2025-02-07, 22:18:48](https://lobste.rs/s/etdzwd/ai_haters_build_tarpits_trap_trick_ai) - [AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt](https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/)
 * [2025-02-07, 19:42:30](https://lobste.rs/s/gz2fgw/getaddrinfo_sucks_everything_else_is) - [getaddrinfo sucks. everything else is much worse](https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse)
 * [2025-02-07, 14:25:28](https://lobste.rs/s/srf2u2/gleam_v1_8_0_released) - [Gleam v1.8.0 released](https://gleam.run/news/gleam-gets-rename-variable/)
