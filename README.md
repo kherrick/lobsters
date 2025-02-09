@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-09, 07:04:55](https://lobste.rs/s/v2ffr2/vanspoof_prototype_1_hardware) - [VanSpoof - Prototype 1 - Hardware](https://mikecoats.com/van-spoof-prototype-1-part-1/)
 * [2025-02-09, 06:14:00](https://lobste.rs/s/0h55mx/c_sboms_how_pkgconf_can_solve_this_problem) - [C SBOMs, and how pkgconf can solve this problem](https://ariadne.space/2025/02/08/c-sboms-and-how-pkgconf.html)
 * [2025-02-09, 04:49:34](https://lobste.rs/s/yjvzga/less_than_estimation) - [Less-Than Estimation](https://chrisdone.com/posts/less-than-estimation/)
 * [2025-02-09, 03:06:42](https://lobste.rs/s/zinqjs/fully_dynamically_linked_rust_binary) - [Fully Dynamically Linked Rust Binary: An Experiment](https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/)
@@ -24,7 +25,6 @@
 * [2025-02-07, 17:32:13](https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you) - [Fun Friday: what's the weirdest automation you've ever made?](https://lobste.rs/s/np9f8i/fun_friday_what_s_weirdest_automation_you)
 * [2025-02-07, 14:25:28](https://lobste.rs/s/srf2u2/gleam_v1_8_0_released) - [Gleam v1.8.0 released](https://gleam.run/news/gleam-gets-rename-variable/)
 * [2025-02-07, 14:10:49](https://lobste.rs/s/ui5fzs/cpython_tail_call_interpreter_merged_for) - [CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
-* [2025-02-07, 13:43:28](https://lobste.rs/s/y0bakb/refined_simple_refinement_types_for_rust) - [Refined: simple refinement types for Rust](https://jordankaye.dev/posts/refined/)
 
 ## [Archives](archives/index.md)
 
