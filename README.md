@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-09, 23:17:54](https://lobste.rs/s/13xmna/birdie_snapshot_testing) - [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
 * [2025-02-09, 22:30:47](https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with) - [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html)
 * [2025-02-09, 22:21:49](https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted) - [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161)
 * [2025-02-09, 22:01:13](https://lobste.rs/s/renjzg/strace_can_slow_traced_processes_400x) - [strace can slow traced processes 400x worst case](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
 * [2025-02-09, 21:46:49](https://lobste.rs/s/6roekc/typescript_satisfies_operator) - [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html)
 * [2025-02-09, 19:42:35](https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet) - [blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
 * [2025-02-09, 19:25:39](https://lobste.rs/s/x3wny4/stock_portfolio_monitor_for_esp32_t) - [Stock Portfolio Monitor for ESP32 (T-Display S3)](https://github.com/piqoni/portfolio-monitoring)
-* [2025-02-09, 17:02:57](https://lobste.rs/s/9bqawk/writing_simple_driver_rust) - [Writing a Simple Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 * [2025-02-09, 15:26:34](https://lobste.rs/s/nphk5f/pragmatic_zio) - [Pragmatic ZIO](https://www.youtube.com/watch?v=Fbiu-0mMT0w)
 * [2025-02-09, 14:15:02](https://lobste.rs/s/01i5mu/baffled_by_generational_garbage) - [baffled by generational garbage collection](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 * [2025-02-09, 14:05:26](https://lobste.rs/s/ruwnqn/building_personal_private_ai_computer_on) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
