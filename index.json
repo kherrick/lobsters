@@ -56,7 +56,7 @@
     ],
     [
       "Don't \"optimize\" conditional moves in shaders with mix()+step()",
-      "https://iquilezles.org"
+      "https://iquilezles.org/articles/gpuconditionals/"
     ]
   ],
   [
