@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 19:25:39](https://lobste.rs/s/x3wny4/stock_portfolio_monitor_for_esp32_t) - [Stock Portfolio Monitor for ESP32 (T-Display S3)](https://github.com/piqoni/portfolio-monitoring)
 * [2025-02-09, 17:02:57](https://lobste.rs/s/9bqawk/writing_simple_driver_rust) - [Writing a Simple Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 * [2025-02-09, 15:26:34](https://lobste.rs/s/nphk5f/pragmatic_zio_lachezar_yankov_scala) - [Pragmatic ZIO - Lachezar Yankov, Scala Stockholm Winter Meetup](https://www.youtube.com/watch?v=Fbiu-0mMT0w)
 * [2025-02-09, 15:26:34](https://lobste.rs/s/nphk5f/pragmatic_zio) - [Pragmatic ZIO](https://www.youtube.com/watch?v=Fbiu-0mMT0w)
