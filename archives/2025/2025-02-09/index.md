@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 17:02:57](https://lobste.rs/s/9bqawk/writing_simple_driver_rust) - [Writing a Simple Driver in Rust](https://scorpiosoftware.net/2025/02/08/writing-a-simple-driver-in-rust/)
 * [2025-02-09, 15:26:34](https://lobste.rs/s/nphk5f/pragmatic_zio_lachezar_yankov_scala) - [Pragmatic ZIO - Lachezar Yankov, Scala Stockholm Winter Meetup](https://www.youtube.com/watch?v=Fbiu-0mMT0w)
 * [2025-02-09, 15:26:34](https://lobste.rs/s/nphk5f/pragmatic_zio) - [Pragmatic ZIO](https://www.youtube.com/watch?v=Fbiu-0mMT0w)
 * [2025-02-09, 14:15:02](https://lobste.rs/s/01i5mu/baffled_by_generational_garbage) - [baffled by generational garbage collection — wingolog](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
