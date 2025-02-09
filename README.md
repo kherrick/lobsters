@@ -5,7 +5,7 @@
 * [2025-02-09, 14:15:02](https://lobste.rs/s/01i5mu/baffled_by_generational_garbage) - [baffled by generational garbage collection](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 * [2025-02-09, 14:05:26](https://lobste.rs/s/ruwnqn/building_personal_private_ai_computer_on) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
 * [2025-02-09, 12:50:26](https://lobste.rs/s/bqucas/here_is_how_i_ve_configure_openbsd_freebsd) - [here is how I've configure OpenBSD and FreeBSD for an IPv6 Wifi](https://vincentdelft.be/post/post_20250208)
-* [2025-02-09, 12:44:49](https://lobste.rs/s/upadkq/don_t_optimize_conditional_moves_shaders) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org)
+* [2025-02-09, 12:44:49](https://lobste.rs/s/upadkq/don_t_optimize_conditional_moves_shaders) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 * [2025-02-09, 09:51:59](https://lobste.rs/s/g71nqk/why_does_integer_addition_approximate) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 09:48:23](https://lobste.rs/s/zd9d1c/retrofab_playable_3d_simulations) - [RetroFab: Playable 3D simulations of vintage electronic games](https://itizso.itch.io/retrofab)
 * [2025-02-09, 09:42:12](https://lobste.rs/s/zbbfht/visible_zorker) - [The Visible Zorker](https://blog.zarfhome.com/2025/01/the-visible-zorker)
