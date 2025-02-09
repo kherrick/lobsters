@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-09, 22:30:47](https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with) - [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html)
+* [2025-02-09, 22:21:49](https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted) - [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161)
 * [2025-02-09, 22:01:13](https://lobste.rs/s/renjzg/strace_can_slow_traced_processes_400x) - [strace can slow traced processes 400x worst case](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
 * [2025-02-09, 21:46:49](https://lobste.rs/s/6roekc/typescript_satisfies_operator) - [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html)
 * [2025-02-09, 19:42:35](https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet) - [blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
@@ -15,8 +17,6 @@
 * [2025-02-09, 09:42:12](https://lobste.rs/s/zbbfht/visible_zorker) - [The Visible Zorker](https://blog.zarfhome.com/2025/01/the-visible-zorker)
 * [2025-02-09, 08:18:28](https://lobste.rs/s/3rqmav/how_we_are_defending_software_freedom) - [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
 * [2025-02-09, 08:15:07](https://lobste.rs/s/ou9v0b/qalculate_hacks) - [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
-* [2025-02-09, 06:14:00](https://lobste.rs/s/0h55mx/c_sboms_how_pkgconf_can_solve_this_problem) - [C SBOMs, and how pkgconf can solve this problem](https://ariadne.space/2025/02/08/c-sboms-and-how-pkgconf.html)
-* [2025-02-09, 04:49:34](https://lobste.rs/s/yjvzga/less_than_estimation) - [Less-Than Estimation](https://chrisdone.com/posts/less-than-estimation/)
 * [2025-02-09, 03:06:42](https://lobste.rs/s/zinqjs/fully_dynamically_linked_rust_binary) - [Fully Dynamically Linked Rust Binary: An Experiment](https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/)
 * [2025-02-09, 02:48:15](https://lobste.rs/s/dmcjvx/technology_predictions_what_s_next) - [Technology Predictions, What's Next?](https://lobste.rs/s/dmcjvx/technology_predictions_what_s_next)
 * [2025-02-08, 21:53:55](https://lobste.rs/s/2muuuz/simple_serialization_system) - [A Simple Serialization System](https://rxi.github.io/a_simple_serialization_system.html)
