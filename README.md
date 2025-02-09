@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-09, 04:49:34](https://lobste.rs/s/yjvzga/less_than_estimation) - [Less-Than Estimation](https://chrisdone.com/posts/less-than-estimation/)
 * [2025-02-09, 03:06:42](https://lobste.rs/s/zinqjs/fully_dynamically_linked_rust_binary) - [Fully Dynamically Linked Rust Binary: An Experiment](https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/)
 * [2025-02-09, 02:48:15](https://lobste.rs/s/dmcjvx/technology_predictions_what_s_next) - [Technology Predictions, What's Next?](https://lobste.rs/s/dmcjvx/technology_predictions_what_s_next)
 * [2025-02-08, 21:53:55](https://lobste.rs/s/2muuuz/simple_serialization_system) - [A Simple Serialization System](https://rxi.github.io/a_simple_serialization_system.html)
@@ -24,7 +25,6 @@
 * [2025-02-07, 14:10:49](https://lobste.rs/s/ui5fzs/cpython_tail_call_interpreter_merged_for) - [CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks](https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call)
 * [2025-02-07, 13:43:28](https://lobste.rs/s/y0bakb/refined_simple_refinement_types_for_rust) - [Refined: simple refinement types for Rust](https://jordankaye.dev/posts/refined/)
 * [2025-02-07, 04:52:11](https://lobste.rs/s/zzbfob/you_didn_t_notice_mp3_is_now_free) - [You Didn't Notice MP3 Is Now Free](https://idiallo.com/blog/listen-mp3-is-free)
-* [2025-02-07, 03:52:24](https://lobste.rs/s/f5ziu7/comments_on_shared_unix_hosting_vs_cloud) - [Comments on Shared Unix Hosting vs. the Cloud](https://oils.pub/blog/2025/02/shared-hosting.html)
 
 ## [Archives](archives/index.md)
 
