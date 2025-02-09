@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-09, 09:51:59",
+      "https://lobste.rs/s/g71nqk/why_does_integer_addition_approximate"
+    ],
+    [
+      "Why Does Integer Addition Approximate Float Multiplication?",
+      "https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 09:48:23",
       "https://lobste.rs/s/zd9d1c/retrofab_playable_3d_simulations"
     ],
@@ -187,16 +197,6 @@
     [
       "Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot",
       "https://b.tuxes.uk/three-years-of-ephemeral-nixos.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-08, 07:24:52",
-      "https://lobste.rs/s/zpbelt/lume_mit_licensed_cli_virtualize_macos"
-    ],
-    [
-      "Lume, an MIT-licensed CLI to virtualize macOS environments",
-      "https://github.com/trycua/lume"
     ]
   ],
   [
