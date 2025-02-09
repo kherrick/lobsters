@@ -201,6 +201,16 @@
   ],
   [
     [
+      "2025-02-08, 17:33:37",
+      "https://lobste.rs/s/xfjcze/we_are_destroying_software"
+    ],
+    [
+      "We are destroying software",
+      "https://antirez.com/news/145"
+    ]
+  ],
+  [
+    [
       "2025-02-08, 16:19:49",
       "https://lobste.rs/s/ld6dwl/synctrain_rethought_ios_client_for"
     ],
@@ -237,16 +247,6 @@
     [
       "No-Libc Zig Now Outperforms Glibc Zig",
       "https://ziglang.org/devlog/2025/#2025-02-07"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 14:25:28",
-      "https://lobste.rs/s/srf2u2/gleam_v1_8_0_released"
-    ],
-    [
-      "Gleam v1.8.0 released",
-      "https://gleam.run/news/gleam-gets-rename-variable/"
     ]
   ]
 ]
