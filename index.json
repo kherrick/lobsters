@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-09, 19:42:35",
+      "https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet"
+    ],
+    [
+      "blip: A tool for seeing your Internet latency",
+      "https://github.com/apenwarr/blip"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 19:25:39",
       "https://lobste.rs/s/x3wny4/stock_portfolio_monitor_for_esp32_t"
     ],
@@ -117,16 +127,6 @@
     [
       "Qalculate hacks",
       "https://anarc.at/blog/2025-02-08-qalculate-hacks/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 07:57:13",
-      "https://lobste.rs/s/p11wif/lrgrep_selecting_error_messages_for_lr"
-    ],
-    [
-      "LRGrep: Selecting Error Messages for LR parsers",
-      "https://def.lakaban.net/research/#lrgrep-selecting-error-messages-for-lr-parsers"
     ]
   ],
   [
