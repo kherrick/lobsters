@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-09, 12:50:26",
+      "https://lobste.rs/s/bqucas/here_is_how_i_ve_configure_openbsd_freebsd"
+    ],
+    [
+      "here is how I've configure OpenBSD and FreeBSD for an IPv6 Wifi",
+      "https://vincentdelft.be/post/post_20250208"
+    ]
+  ],
+  [
+    [
+      "2025-02-09, 12:44:49",
+      "https://lobste.rs/s/upadkq/don_t_optimize_conditional_moves_shaders"
+    ],
+    [
+      "Don't \"optimize\" conditional moves in shaders with mix()+step()",
+      "https://iquilezles.org"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 09:51:59",
       "https://lobste.rs/s/g71nqk/why_does_integer_addition_approximate"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-02-07, 19:42:30",
-      "https://lobste.rs/s/gz2fgw/getaddrinfo_sucks_everything_else_is"
-    ],
-    [
-      "getaddrinfo sucks. everything else is much worse",
-      "https://valentin.gosu.se/blog/2025/02/getaddrinfo-sucks-everything-else-is-much-worse"
-    ]
-  ],
-  [
-    [
       "2025-02-07, 14:25:28",
       "https://lobste.rs/s/srf2u2/gleam_v1_8_0_released"
     ],
     [
       "Gleam v1.8.0 released",
       "https://gleam.run/news/gleam-gets-rename-variable/"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 14:10:49",
-      "https://lobste.rs/s/ui5fzs/cpython_tail_call_interpreter_merged_for"
-    ],
-    [
-      "CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks",
-      "https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call"
     ]
   ]
 ]
