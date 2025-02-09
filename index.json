@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-09, 07:04:55",
+      "https://lobste.rs/s/v2ffr2/vanspoof_prototype_1_hardware"
+    ],
+    [
+      "VanSpoof - Prototype 1 - Hardware",
+      "https://mikecoats.com/van-spoof-prototype-1-part-1/"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 06:14:00",
       "https://lobste.rs/s/0h55mx/c_sboms_how_pkgconf_can_solve_this_problem"
     ],
@@ -237,16 +247,6 @@
     [
       "CPython tail-call interpreter merged for Python 3.14, a 10% speedup in benchmarks",
       "https://docs.python.org/3.14/whatsnew/3.14.html#whatsnew314-tail-call"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 13:43:28",
-      "https://lobste.rs/s/y0bakb/refined_simple_refinement_types_for_rust"
-    ],
-    [
-      "Refined: simple refinement types for Rust",
-      "https://jordankaye.dev/posts/refined/"
     ]
   ]
 ]
