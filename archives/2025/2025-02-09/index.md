@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-09](index.md)
 
+* [2025-02-09, 22:01:13](https://lobste.rs/s/renjzg/strace_can_slow_traced_processes_400x) - [strace can slow traced processes 400x worst case](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
 * [2025-02-09, 21:46:49](https://lobste.rs/s/6roekc/typescript_satisfies_operator) - [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html)
 * [2025-02-09, 19:42:35](https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet) - [blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
 * [2025-02-09, 19:25:39](https://lobste.rs/s/x3wny4/stock_portfolio_monitor_for_esp32_t) - [Stock Portfolio Monitor for ESP32 (T-Display S3)](https://github.com/piqoni/portfolio-monitoring)
