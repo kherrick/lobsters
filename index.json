@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-09, 22:01:13",
+      "https://lobste.rs/s/renjzg/strace_can_slow_traced_processes_400x"
+    ],
+    [
+      "strace can slow traced processes 400x worst case",
+      "https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 21:46:49",
       "https://lobste.rs/s/6roekc/typescript_satisfies_operator"
     ],
@@ -137,16 +147,6 @@
     [
       "Qalculate hacks",
       "https://anarc.at/blog/2025-02-08-qalculate-hacks/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 07:57:13",
-      "https://lobste.rs/s/p11wif/lrgrep_selecting_error_messages_for_lr"
-    ],
-    [
-      "LRGrep: Selecting Error Messages for LR parsers",
-      "https://def.lakaban.net/research/#lrgrep-selecting-error-messages-for-lr-parsers"
     ]
   ],
   [
