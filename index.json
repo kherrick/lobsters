@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-09, 14:15:02",
+      "https://lobste.rs/s/01i5mu/baffled_by_generational_garbage"
+    ],
+    [
+      "baffled by generational garbage collection — wingolog",
+      "https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection"
+    ]
+  ],
+  [
+    [
+      "2025-02-09, 14:05:26",
+      "https://lobste.rs/s/ruwnqn/building_personal_private_ai_computer_on"
+    ],
+    [
+      "Building a personal, private AI computer on a budget",
+      "https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/"
+    ]
+  ],
+  [
+    [
       "2025-02-09, 12:50:26",
       "https://lobste.rs/s/bqucas/here_is_how_i_ve_configure_openbsd_freebsd"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-02-08, 19:42:55",
-      "https://lobste.rs/s/01klhe/ai_exploits_gamebreaking_bug_trackmania"
-    ],
-    [
-      "AI exploits a gamebreaking bug in Trackmania",
-      "https://www.youtube.com/watch?v=NUl6QikjR04"
-    ]
-  ],
-  [
-    [
       "2025-02-08, 19:06:42",
       "https://lobste.rs/s/yqqljw/be_skeptical_all_code_not_just_funny_stuff"
     ],
@@ -227,16 +237,6 @@
     [
       "No-Libc Zig Now Outperforms Glibc Zig",
       "https://ziglang.org/devlog/2025/#2025-02-07"
-    ]
-  ],
-  [
-    [
-      "2025-02-07, 22:18:48",
-      "https://lobste.rs/s/etdzwd/ai_haters_build_tarpits_trap_trick_ai"
-    ],
-    [
-      "AI haters build tarpits to trap and trick AI scrapers that ignore robots.txt",
-      "https://arstechnica.com/tech-policy/2025/01/ai-haters-build-tarpits-to-trap-and-trick-ai-scrapers-that-ignore-robots-txt/"
     ]
   ],
   [
