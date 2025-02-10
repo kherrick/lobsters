@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 14:18:45",
+      "https://lobste.rs/s/j3ggjx/yucan_ui_engine"
+    ],
+    [
+      "Yucan UI Engine",
+      "https://yucan-ui.com/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 14:07:16",
       "https://lobste.rs/s/fsc1ej/what_about_k"
     ],
@@ -127,16 +137,6 @@
     [
       "How Does Ada's Memory Safety Compare Against Rust?",
       "https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 04:32:43",
-      "https://lobste.rs/s/siwmcx/eg_public_alpha_announcement_developer"
-    ],
-    [
-      "EG Public Alpha Announcement: Developer experience focused ci/cd",
-      "https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html"
     ]
   ],
   [
