@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-10, 10:53:10",
+      "https://lobste.rs/s/wtgwdl/state_rust_trying_catch_up_with_ada"
+    ],
+    [
+      "The state of Rust trying to catch up with Ada",
+      "https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 10:52:38",
+      "https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard"
+    ],
+    [
+      "Naming sum types is often hard",
+      "https://chrisdone.com/posts/naming-is-hard/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 10:24:29",
       "https://lobste.rs/s/nlsgaq/residential_networking_over_telephone"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-02-09, 19:25:39",
-      "https://lobste.rs/s/x3wny4/stock_portfolio_monitor_for_esp32_t"
-    ],
-    [
-      "Stock Portfolio Monitor for ESP32 (T-Display S3)",
-      "https://github.com/piqoni/portfolio-monitoring"
-    ]
-  ],
-  [
-    [
       "2025-02-09, 15:26:34",
       "https://lobste.rs/s/nphk5f/pragmatic_zio"
     ],
@@ -207,16 +217,6 @@
     [
       "Why Does Integer Addition Approximate Float Multiplication?",
       "https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 09:42:12",
-      "https://lobste.rs/s/zbbfht/visible_zorker"
-    ],
-    [
-      "The Visible Zorker",
-      "https://blog.zarfhome.com/2025/01/the-visible-zorker"
     ]
   ],
   [
