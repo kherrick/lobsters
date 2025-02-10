@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 14:46:00",
+      "https://lobste.rs/s/omfzao/peerauth"
+    ],
+    [
+      "PeerAuth",
+      "https://ksze.github.io/PeerAuth/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 14:18:45",
       "https://lobste.rs/s/j3ggjx/yucan_ui_engine"
     ],
@@ -157,16 +167,6 @@
     [
       "Birdie - Snapshot Testing",
       "https://hexdocs.pm/birdie/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 22:30:47",
-      "https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with"
-    ],
-    [
-      "RxDB - The Firestore Alternative That Can Sync with Your Own Backend",
-      "https://rxdb.info/articles/firestore-alternative.html"
     ]
   ],
   [
