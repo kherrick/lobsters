@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 17:34:56",
+      "https://lobste.rs/s/jgd69p/3d_gaussian_splatting_webgl_viewer"
+    ],
+    [
+      "3D Gaussian Splatting WebGL viewer",
+      "https://gsplat.tech/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 16:26:49",
       "https://lobste.rs/s/j5ggtw/pkarr_public_key_addressable_resource"
     ],
@@ -17,16 +27,6 @@
     [
       "Sandboxing Perl with WebAssembly",
       "https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 15:18:10",
-      "https://lobste.rs/s/dwlsla/concerns_with_proposed_addition_fibers_c"
-    ],
-    [
-      "Concerns with the proposed addition of fibers to C++ 26",
-      "https://isocpp.org/files/papers/P3620R0.pdf"
     ]
   ],
   [
