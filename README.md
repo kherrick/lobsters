@@ -1,8 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-10, 13:22:39](https://lobste.rs/s/g1icvq/feature_demo_surface_stable_fractal) - [Feature Demo of Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=EzjWBmhO_1E)
+* [2025-02-10, 13:21:50](https://lobste.rs/s/blxbqn/computing_tricky_probabilities) - [Computing Tricky Probabilities](https://www.msoos.org/2025/02/computing-tricky-probabilities/)
+* [2025-02-10, 13:20:55](https://lobste.rs/s/ymszmx/i_blog_with_raw_txt) - [I blog with raw txt](https://misc.l3m.in/txt/raw_txt.txt)
+* [2025-02-10, 13:01:18](https://lobste.rs/s/lupmsm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lupmsm/what_are_you_doing_this_week)
 * [2025-02-10, 12:32:14](https://lobste.rs/s/er2p8q/harmonyos_deep_blue_insight_is_most) - [HarmonyOS: \"Deep Blue Insight\" is the most unique new security ecology in 2024](https://www.harmony-developers.com/p/deep-blue-insight-is-the-most-unique)
 * [2025-02-10, 12:31:18](https://lobste.rs/s/db48q9/connectx_5_firmware_tooling_initial) - [ConnectX-5 Firmware tooling and initial analysis](https://irisc-research-syndicate.github.io/2025/02/06/initial-firmware-analysis/)
-* [2025-02-10, 11:19:21](https://lobste.rs/s/wkgof6/sqlite_wasm_http) - [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http/blob/main/README.md)
 * [2025-02-10, 10:52:38](https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard) - [Naming sum types is often hard](https://chrisdone.com/posts/naming-is-hard/)
 * [2025-02-10, 10:24:29](https://lobste.rs/s/nlsgaq/residential_networking_over_telephone) - [residential networking over telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-10, 08:59:08](https://lobste.rs/s/aopsjo/obsidian_publish_directory_enumeration) - [Obsidian Publish Directory Enumeration](https://ezrizhu.com/blog/obsidian-dir-enum)
@@ -13,7 +16,7 @@
 * [2025-02-09, 23:33:27](https://lobste.rs/s/tznsyt/postmarketos_powered_kubernetes) - [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)
 * [2025-02-09, 23:17:54](https://lobste.rs/s/13xmna/birdie_snapshot_testing) - [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
 * [2025-02-09, 22:30:47](https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with) - [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html)
-* [2025-02-09, 22:21:49](https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted) - [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161)
+* [2025-02-09, 22:21:49](https://lobste.rs/s/07jh0c/uk_demands_apple_break_encryption_allow) - [UK demands Apple break encryption to allow gov’t spying worldwide, reports say](https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/)
 * [2025-02-09, 22:01:13](https://lobste.rs/s/renjzg/strace_can_slow_traced_processes_400x) - [strace can slow traced processes 400x worst case](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
 * [2025-02-09, 21:46:49](https://lobste.rs/s/6roekc/typescript_satisfies_operator) - [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html)
 * [2025-02-09, 19:42:35](https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet) - [blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
@@ -21,10 +24,7 @@
 * [2025-02-09, 14:15:02](https://lobste.rs/s/01i5mu/baffled_by_generational_garbage) - [baffled by generational garbage collection](https://wingolog.org/archives/2025/02/09/baffled-by-generational-garbage-collection)
 * [2025-02-09, 14:05:26](https://lobste.rs/s/ruwnqn/building_personal_private_ai_computer_on) - [Building a personal, private AI computer on a budget](https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/)
 * [2025-02-09, 12:44:49](https://lobste.rs/s/upadkq/don_t_optimize_conditional_moves_shaders) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
-* [2025-02-09, 09:51:59](https://lobste.rs/s/g71nqk/why_does_integer_addition_approximate) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 08:18:28](https://lobste.rs/s/3rqmav/how_we_are_defending_software_freedom) - [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
-* [2025-02-09, 08:15:07](https://lobste.rs/s/ou9v0b/qalculate_hacks) - [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
-* [2025-02-08, 15:50:10](https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 
 ## [Archives](archives/index.md)
 

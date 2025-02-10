@@ -8,6 +8,7 @@
 * [2025-02-09, 23:17:54](https://lobste.rs/s/13xmna/birdie_snapshot_testing) - [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
 * [2025-02-09, 22:30:47](https://lobste.rs/s/u9ypro/rxdb_firestore_alternative_can_sync_with) - [RxDB - The Firestore Alternative That Can Sync with Your Own Backend](https://rxdb.info/articles/firestore-alternative.html)
 * [2025-02-09, 22:21:49](https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted) - [UK orders Apple to give it access to encrypted cloud data](https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161)
+* [2025-02-09, 22:21:49](https://lobste.rs/s/07jh0c/uk_demands_apple_break_encryption_allow) - [UK demands Apple break encryption to allow gov’t spying worldwide, reports say](https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/)
 * [2025-02-09, 22:01:13](https://lobste.rs/s/renjzg/strace_can_slow_traced_processes_400x) - [strace can slow traced processes 400x worst case](https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html)
 * [2025-02-09, 21:46:49](https://lobste.rs/s/6roekc/typescript_satisfies_operator) - [TypeScript: the `satisfies` operator](https://2ality.com/2025/02/satisfies-operator.html)
 * [2025-02-09, 19:42:35](https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet) - [blip: A tool for seeing your Internet latency](https://github.com/apenwarr/blip)
