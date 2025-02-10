@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-02-10, 15:52:53",
-      "https://lobste.rs/s/kkctva/how_disaggregate_log_replication"
+      "2025-02-10, 16:26:49",
+      "https://lobste.rs/s/j5ggtw/pkarr_public_key_addressable_resource"
     ],
     [
-      "How to disaggregate a log replication protocol",
-      "https://jack-vanlightly.com/blog/2025/2/10/how-to-disaggregate-a-log-replication-protocol"
+      "pkarr: Public Key Addressable Resource Records (sovereign TLDs)",
+      "https://github.com/pubky/pkarr"
     ]
   ],
   [
@@ -87,6 +87,16 @@
     [
       "HarmonyOS: \"Deep Blue Insight\" is the most unique new security ecology in 2024",
       "https://www.harmony-developers.com/p/deep-blue-insight-is-the-most-unique"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 11:19:21",
+      "https://lobste.rs/s/wkgof6/sqlite_wasm_http"
+    ],
+    [
+      "sqlite-wasm-http",
+      "https://github.com/mmomtchev/sqlite-wasm-http/blob/main/README.md"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "UK demands Apple break encryption to allow gov’t spying worldwide, reports say",
       "https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 22:01:13",
-      "https://lobste.rs/s/renjzg/strace_can_slow_traced_processes_400x"
-    ],
-    [
-      "strace can slow traced processes 400x worst case",
-      "https://brendangregg.com/blog/2014-05-11/strace-wow-much-syscall.html"
     ]
   ],
   [
