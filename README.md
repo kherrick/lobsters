@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-10, 14:18:45](https://lobste.rs/s/j3ggjx/yucan_ui_engine) - [Yucan UI Engine](https://yucan-ui.com/)
 * [2025-02-10, 14:07:16](https://lobste.rs/s/fsc1ej/what_about_k) - [What about k?](https://xpqz.github.io/kbook/Introduction.html)
 * [2025-02-10, 13:45:08](https://lobste.rs/s/jfyspm/stand_alone_complex_ai_assistants_should) - [Stand Alone Complex: (AI) Assistants should be individuals, not puppets](https://blog.cortex.im/p/cortex-stand-alone-complex)
 * [2025-02-10, 13:22:39](https://lobste.rs/s/g1icvq/feature_demo_surface_stable_fractal) - [Feature Demo of Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=EzjWBmhO_1E)
@@ -13,7 +14,6 @@
 * [2025-02-10, 08:59:08](https://lobste.rs/s/aopsjo/obsidian_publish_directory_enumeration) - [Obsidian Publish Directory Enumeration](https://ezrizhu.com/blog/obsidian-dir-enum)
 * [2025-02-10, 08:21:55](https://lobste.rs/s/hvgsc0/linux_patches_adjust_ac_plug_unplug) - [Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows](https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle)
 * [2025-02-10, 05:58:36](https://lobste.rs/s/t8dfcw/how_does_ada_s_memory_safety_compare) - [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
-* [2025-02-10, 04:32:43](https://lobste.rs/s/siwmcx/eg_public_alpha_announcement_developer) - [EG Public Alpha Announcement: Developer experience focused ci/cd](https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html)
 * [2025-02-10, 01:46:15](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network) - [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra)
 * [2025-02-09, 23:33:27](https://lobste.rs/s/tznsyt/postmarketos_powered_kubernetes) - [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)
 * [2025-02-09, 23:17:54](https://lobste.rs/s/13xmna/birdie_snapshot_testing) - [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
