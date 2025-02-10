@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 10:53:10](https://lobste.rs/s/wtgwdl/state_rust_trying_catch_up_with_ada) - [The state of Rust trying to catch up with Ada](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)
+* [2025-02-10, 10:52:38](https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard) - [Naming sum types is often hard](https://chrisdone.com/posts/naming-is-hard/)
 * [2025-02-10, 10:24:29](https://lobste.rs/s/nlsgaq/residential_networking_over_telephone) - [residential networking over telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-10, 08:59:08](https://lobste.rs/s/aopsjo/obsidian_publish_directory_enumeration) - [Obsidian Publish Directory Enumeration](https://ezrizhu.com/blog/obsidian-dir-enum)
 * [2025-02-10, 08:21:55](https://lobste.rs/s/hvgsc0/linux_patches_adjust_ac_plug_unplug) - [Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows](https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle)
