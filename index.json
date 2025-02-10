@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 20:35:39",
+      "https://lobste.rs/s/hwia7q/published_series_node_js_secure_coding"
+    ],
+    [
+      "Published a series of Node.js Secure Coding books",
+      "https://www.nodejs-security.com/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 17:34:56",
       "https://lobste.rs/s/jgd69p/3d_gaussian_splatting_webgl_viewer"
     ],
@@ -117,16 +127,6 @@
     [
       "HarmonyOS: \"Deep Blue Insight\" is the most unique new security ecology in 2024",
       "https://www.harmony-developers.com/p/deep-blue-insight-is-the-most-unique"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 11:19:21",
-      "https://lobste.rs/s/wkgof6/sqlite_wasm_http"
-    ],
-    [
-      "sqlite-wasm-http",
-      "https://github.com/mmomtchev/sqlite-wasm-http/blob/main/README.md"
     ]
   ],
   [
