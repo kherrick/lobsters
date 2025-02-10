@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 14:07:16](https://lobste.rs/s/fsc1ej/what_about_k) - [What about k?](https://xpqz.github.io/kbook/Introduction.html)
 * [2025-02-10, 13:45:08](https://lobste.rs/s/jfyspm/stand_alone_complex_ai_assistants_should) - [Stand Alone Complex: (AI) Assistants should be individuals, not puppets](https://blog.cortex.im/p/cortex-stand-alone-complex)
 * [2025-02-10, 13:22:39](https://lobste.rs/s/g1icvq/feature_demo_surface_stable_fractal) - [Feature Demo of Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=EzjWBmhO_1E)
 * [2025-02-10, 13:21:50](https://lobste.rs/s/blxbqn/computing_tricky_probabilities) - [Computing Tricky Probabilities](https://www.msoos.org/2025/02/computing-tricky-probabilities/)
