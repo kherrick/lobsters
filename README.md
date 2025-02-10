@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-10, 14:46:00](https://lobste.rs/s/omfzao/peerauth) - [PeerAuth](https://ksze.github.io/PeerAuth/)
+* [2025-02-10, 15:18:10](https://lobste.rs/s/dwlsla/concerns_with_proposed_addition_fibers_c) - [Concerns with the proposed addition of fibers to C++ 26](https://isocpp.org/files/papers/P3620R0.pdf)
 * [2025-02-10, 14:18:45](https://lobste.rs/s/j3ggjx/yucan_ui_engine) - [Yucan UI Engine](https://yucan-ui.com/)
 * [2025-02-10, 14:07:16](https://lobste.rs/s/fsc1ej/what_about_k) - [What about k?](https://xpqz.github.io/kbook/Introduction.html)
 * [2025-02-10, 13:22:39](https://lobste.rs/s/g1icvq/feature_demo_surface_stable_fractal) - [Feature Demo of Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=EzjWBmhO_1E)
