@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 08:59:08",
+      "https://lobste.rs/s/aopsjo/obsidian_publish_directory_enumeration"
+    ],
+    [
+      "Obsidian Publish Directory Enumeration",
+      "https://ezrizhu.com/blog/obsidian-dir-enum"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 08:21:55",
       "https://lobste.rs/s/hvgsc0/linux_patches_adjust_ac_plug_unplug"
     ],
@@ -217,16 +227,6 @@
     [
       "Qalculate hacks",
       "https://anarc.at/blog/2025-02-08-qalculate-hacks/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 03:06:42",
-      "https://lobste.rs/s/zinqjs/fully_dynamically_linked_rust_binary"
-    ],
-    [
-      "Fully Dynamically Linked Rust Binary: An Experiment",
-      "https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/"
     ]
   ],
   [
