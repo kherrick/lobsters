@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-10, 12:32:14",
+      "https://lobste.rs/s/er2p8q/harmonyos_deep_blue_insight_is_most"
+    ],
+    [
+      "HarmonyOS: \"Deep Blue Insight\" is the most unique new security ecology in 2024",
+      "https://www.harmony-developers.com/p/deep-blue-insight-is-the-most-unique"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 12:31:18",
+      "https://lobste.rs/s/db48q9/connectx_5_firmware_tooling_initial"
+    ],
+    [
+      "ConnectX-5 Firmware tooling and initial analysis",
+      "https://irisc-research-syndicate.github.io/2025/02/06/initial-firmware-analysis/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 11:19:21",
       "https://lobste.rs/s/wkgof6/sqlite_wasm_http"
     ],
@@ -71,12 +91,12 @@
   ],
   [
     [
-      "2025-02-10, 05:39:57",
-      "https://lobste.rs/s/j7nyrz/wtf_are_popcorn_tasks"
+      "2025-02-10, 04:32:43",
+      "https://lobste.rs/s/siwmcx/eg_public_alpha_announcement_developer"
     ],
     [
-      "WTF are Popcorn Tasks?",
-      "https://madole.xyz/blog/wtf-are-popcorn-tasks"
+      "EG Public Alpha Announcement: Developer experience focused ci/cd",
+      "https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html"
     ]
   ],
   [
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-02-09, 12:50:26",
-      "https://lobste.rs/s/bqucas/here_is_how_i_ve_configure_openbsd_freebsd"
-    ],
-    [
-      "here is how I've configure OpenBSD and FreeBSD for an IPv6 Wifi",
-      "https://vincentdelft.be/post/post_20250208"
-    ]
-  ],
-  [
-    [
       "2025-02-09, 12:44:49",
       "https://lobste.rs/s/upadkq/don_t_optimize_conditional_moves_shaders"
     ],
@@ -227,16 +237,6 @@
     [
       "How we are defending Software Freedom against Apple at the EU's highest court",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 08:15:07",
-      "https://lobste.rs/s/ou9v0b/qalculate_hacks"
-    ],
-    [
-      "Qalculate hacks",
-      "https://anarc.at/blog/2025-02-08-qalculate-hacks/"
     ]
   ],
   [
