@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 15:52:53](https://lobste.rs/s/kkctva/how_disaggregate_log_replication) - [How to disaggregate a log replication protocol](https://jack-vanlightly.com/blog/2025/2/10/how-to-disaggregate-a-log-replication-protocol)
 * [2025-02-10, 15:43:08](https://lobste.rs/s/jpa59v/sandboxing_perl_with_webassembly) - [Sandboxing Perl with WebAssembly](https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly)
 * [2025-02-10, 15:18:10](https://lobste.rs/s/dwlsla/concerns_with_proposed_addition_fibers_c) - [Concerns with the proposed addition of fibers to C++ 26](https://isocpp.org/files/papers/P3620R0.pdf)
 * [2025-02-10, 14:46:00](https://lobste.rs/s/omfzao/peerauth) - [PeerAuth](https://ksze.github.io/PeerAuth/)
