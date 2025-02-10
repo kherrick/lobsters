@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 22:20:39",
+      "https://lobste.rs/s/ohi8z7/elementary_functions_not_following_ieee"
+    ],
+    [
+      "Elementary Functions and NOT Following the IEEE 754 Floating-Point Standard (2020)",
+      "https://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 20:57:55",
       "https://lobste.rs/s/ktw3bz/you_should_use_tmp_more"
     ],
@@ -207,16 +217,6 @@
     [
       "postmarketOS-powered Kubernetes cluster",
       "https://blog.denv.it/posts/pmos-k3s-cluster/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 23:17:54",
-      "https://lobste.rs/s/13xmna/birdie_snapshot_testing"
-    ],
-    [
-      "Birdie - Snapshot Testing",
-      "https://hexdocs.pm/birdie/"
     ]
   ],
   [
