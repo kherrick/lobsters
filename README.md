@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-10, 13:45:08](https://lobste.rs/s/jfyspm/stand_alone_complex_ai_assistants_should) - [Stand Alone Complex: (AI) Assistants should be individuals, not puppets](https://blog.cortex.im/p/cortex-stand-alone-complex)
 * [2025-02-10, 13:22:39](https://lobste.rs/s/g1icvq/feature_demo_surface_stable_fractal) - [Feature Demo of Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=EzjWBmhO_1E)
 * [2025-02-10, 13:21:50](https://lobste.rs/s/blxbqn/computing_tricky_probabilities) - [Computing Tricky Probabilities](https://www.msoos.org/2025/02/computing-tricky-probabilities/)
 * [2025-02-10, 13:20:55](https://lobste.rs/s/ymszmx/i_blog_with_raw_txt) - [I blog with raw txt](https://misc.l3m.in/txt/raw_txt.txt)
 * [2025-02-10, 13:01:18](https://lobste.rs/s/lupmsm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lupmsm/what_are_you_doing_this_week)
 * [2025-02-10, 12:32:14](https://lobste.rs/s/er2p8q/harmonyos_deep_blue_insight_is_most) - [HarmonyOS: \"Deep Blue Insight\" is the most unique new security ecology in 2024](https://www.harmony-developers.com/p/deep-blue-insight-is-the-most-unique)
-* [2025-02-10, 12:31:18](https://lobste.rs/s/db48q9/connectx_5_firmware_tooling_initial) - [ConnectX-5 Firmware tooling and initial analysis](https://irisc-research-syndicate.github.io/2025/02/06/initial-firmware-analysis/)
 * [2025-02-10, 10:52:38](https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard) - [Naming sum types is often hard](https://chrisdone.com/posts/naming-is-hard/)
 * [2025-02-10, 10:24:29](https://lobste.rs/s/nlsgaq/residential_networking_over_telephone) - [residential networking over telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-10, 08:59:08](https://lobste.rs/s/aopsjo/obsidian_publish_directory_enumeration) - [Obsidian Publish Directory Enumeration](https://ezrizhu.com/blog/obsidian-dir-enum)
