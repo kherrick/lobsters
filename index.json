@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 05:58:36",
+      "https://lobste.rs/s/t8dfcw/how_does_ada_s_memory_safety_compare"
+    ],
+    [
+      "How Does Ada's Memory Safety Compare Against Rust?",
+      "https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 05:39:57",
       "https://lobste.rs/s/j7nyrz/wtf_are_popcorn_tasks"
     ],
@@ -237,16 +247,6 @@
     [
       "Carbon is not a programming language (sort of)",
       "https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/"
-    ]
-  ],
-  [
-    [
-      "2025-02-08, 12:38:53",
-      "https://lobste.rs/s/ejwdhq/three_years_ephemeral_nixos_my"
-    ],
-    [
-      "Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot",
-      "https://b.tuxes.uk/three-years-of-ephemeral-nixos.html"
     ]
   ]
 ]
