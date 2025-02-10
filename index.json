@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-10, 20:57:55",
+      "https://lobste.rs/s/ktw3bz/you_should_use_tmp_more"
+    ],
+    [
+      "You Should Use /tmp/ More",
+      "https://atthis.link/blog/2025/58671.html"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 20:35:39",
       "https://lobste.rs/s/hwia7q/published_series_node_js_secure_coding"
     ],
@@ -217,16 +227,6 @@
     [
       "UK demands Apple break encryption to allow gov’t spying worldwide, reports say",
       "https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 19:42:35",
-      "https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet"
-    ],
-    [
-      "blip: A tool for seeing your Internet latency",
-      "https://github.com/apenwarr/blip"
     ]
   ],
   [
