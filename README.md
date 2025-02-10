@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-10, 04:32:43](https://lobste.rs/s/siwmcx/eg_public_alpha_announcement_developer) - [EG Public Alpha Announcement: Developer experience focused ci/cd](https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html)
 * [2025-02-10, 01:46:15](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network) - [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra)
 * [2025-02-09, 23:33:27](https://lobste.rs/s/tznsyt/postmarketos_powered_kubernetes) - [postmarketOS-powered Kubernetes cluster](https://blog.denv.it/posts/pmos-k3s-cluster/)
 * [2025-02-09, 23:17:54](https://lobste.rs/s/13xmna/birdie_snapshot_testing) - [Birdie - Snapshot Testing](https://hexdocs.pm/birdie/)
@@ -24,7 +25,6 @@
 * [2025-02-08, 16:19:49](https://lobste.rs/s/ld6dwl/synctrain_rethought_ios_client_for) - [Synctrain: a rethought iOS client for Syncthing](https://t-shaped.nl/posts/synctrain-a-rethought-ios-client-for-syncthing)
 * [2025-02-08, 15:50:10](https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 * [2025-02-08, 12:38:53](https://lobste.rs/s/ejwdhq/three_years_ephemeral_nixos_my) - [Three Years of Ephemeral NixOS: My Experience Resetting Root on Every Boot](https://b.tuxes.uk/three-years-of-ephemeral-nixos.html)
-* [2025-02-08, 06:33:22](https://lobste.rs/s/uoxout/no_libc_zig_now_outperforms_glibc_zig) - [No-Libc Zig Now Outperforms Glibc Zig](https://ziglang.org/devlog/2025/#2025-02-07)
 
 ## [Archives](archives/index.md)
 
