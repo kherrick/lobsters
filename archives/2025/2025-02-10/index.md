@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 20:35:39](https://lobste.rs/s/hwia7q/published_series_node_js_secure_coding) - [Published a series of Node.js Secure Coding books](https://www.nodejs-security.com/)
 * [2025-02-10, 17:34:56](https://lobste.rs/s/jgd69p/3d_gaussian_splatting_webgl_viewer) - [3D Gaussian Splatting WebGL viewer](https://gsplat.tech/)
 * [2025-02-10, 16:26:49](https://lobste.rs/s/j5ggtw/pkarr_public_key_addressable_resource) - [pkarr: Public Key Addressable Resource Records (sovereign TLDs)](https://github.com/pubky/pkarr)
 * [2025-02-10, 15:52:53](https://lobste.rs/s/kkctva/how_disaggregate_log_replication) - [How to disaggregate a log replication protocol](https://jack-vanlightly.com/blog/2025/2/10/how-to-disaggregate-a-log-replication-protocol)
