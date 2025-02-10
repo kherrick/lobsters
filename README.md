@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-10, 08:21:55](https://lobste.rs/s/hvgsc0/linux_patches_adjust_ac_plug_unplug) - [Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows](https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle)
 * [2025-02-10, 05:58:36](https://lobste.rs/s/t8dfcw/how_does_ada_s_memory_safety_compare) - [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
 * [2025-02-10, 05:39:57](https://lobste.rs/s/j7nyrz/wtf_are_popcorn_tasks) - [WTF are Popcorn Tasks?](https://madole.xyz/blog/wtf-are-popcorn-tasks)
 * [2025-02-10, 04:32:43](https://lobste.rs/s/siwmcx/eg_public_alpha_announcement_developer) - [EG Public Alpha Announcement: Developer experience focused ci/cd](https://www.egdaemon.com/posts/2025.01.30.introducing.egd/index.html)
@@ -22,7 +23,6 @@
 * [2025-02-09, 08:18:28](https://lobste.rs/s/3rqmav/how_we_are_defending_software_freedom) - [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
 * [2025-02-09, 08:15:07](https://lobste.rs/s/ou9v0b/qalculate_hacks) - [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
 * [2025-02-09, 03:06:42](https://lobste.rs/s/zinqjs/fully_dynamically_linked_rust_binary) - [Fully Dynamically Linked Rust Binary: An Experiment](https://www.kxxt.dev/blog/fully-dynamically-linked-rust-binary/)
-* [2025-02-09, 02:48:15](https://lobste.rs/s/dmcjvx/technology_predictions_what_s_next) - [Technology Predictions, What's Next?](https://lobste.rs/s/dmcjvx/technology_predictions_what_s_next)
 * [2025-02-08, 19:06:42](https://lobste.rs/s/yqqljw/be_skeptical_all_code_not_just_funny_stuff) - [Be Skeptical of All Code - Not Just the Funny Stuff](https://eieio.games/blog/be-skeptical-of-all-code-not-just-the-funny-stuff/)
 * [2025-02-08, 15:50:10](https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 
