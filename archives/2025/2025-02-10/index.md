@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 22:20:39](https://lobste.rs/s/ohi8z7/elementary_functions_not_following_ieee) - [Elementary Functions and NOT Following the IEEE 754 Floating-Point Standard (2020)](https://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 * [2025-02-10, 20:57:55](https://lobste.rs/s/ktw3bz/you_should_use_tmp_more) - [You Should Use /tmp/ More](https://atthis.link/blog/2025/58671.html)
 * [2025-02-10, 20:56:54](https://lobste.rs/s/kthinp/free_wiki_hosting_no_ads) - [Free Wiki Hosting, No Ads](https://miraheze.org)
 * [2025-02-10, 20:35:39](https://lobste.rs/s/hwia7q/published_series_node_js_secure_coding) - [Published a series of Node.js Secure Coding books](https://www.nodejs-security.com/)
