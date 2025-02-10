@@ -3,7 +3,6 @@
 * [2025-02-10, 12:32:14](https://lobste.rs/s/er2p8q/harmonyos_deep_blue_insight_is_most) - [HarmonyOS: \"Deep Blue Insight\" is the most unique new security ecology in 2024](https://www.harmony-developers.com/p/deep-blue-insight-is-the-most-unique)
 * [2025-02-10, 12:31:18](https://lobste.rs/s/db48q9/connectx_5_firmware_tooling_initial) - [ConnectX-5 Firmware tooling and initial analysis](https://irisc-research-syndicate.github.io/2025/02/06/initial-firmware-analysis/)
 * [2025-02-10, 11:19:21](https://lobste.rs/s/wkgof6/sqlite_wasm_http) - [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http/blob/main/README.md)
-* [2025-02-10, 10:53:10](https://lobste.rs/s/wtgwdl/state_rust_trying_catch_up_with_ada) - [The state of Rust trying to catch up with Ada](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)
 * [2025-02-10, 10:52:38](https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard) - [Naming sum types is often hard](https://chrisdone.com/posts/naming-is-hard/)
 * [2025-02-10, 10:24:29](https://lobste.rs/s/nlsgaq/residential_networking_over_telephone) - [residential networking over telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-10, 08:59:08](https://lobste.rs/s/aopsjo/obsidian_publish_directory_enumeration) - [Obsidian Publish Directory Enumeration](https://ezrizhu.com/blog/obsidian-dir-enum)
@@ -24,6 +23,7 @@
 * [2025-02-09, 12:44:49](https://lobste.rs/s/upadkq/don_t_optimize_conditional_moves_shaders) - [Don't \"optimize\" conditional moves in shaders with mix()+step()](https://iquilezles.org/articles/gpuconditionals/)
 * [2025-02-09, 09:51:59](https://lobste.rs/s/g71nqk/why_does_integer_addition_approximate) - [Why Does Integer Addition Approximate Float Multiplication?](https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/)
 * [2025-02-09, 08:18:28](https://lobste.rs/s/3rqmav/how_we_are_defending_software_freedom) - [How we are defending Software Freedom against Apple at the EU's highest court](https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/)
+* [2025-02-09, 08:15:07](https://lobste.rs/s/ou9v0b/qalculate_hacks) - [Qalculate hacks](https://anarc.at/blog/2025-02-08-qalculate-hacks/)
 * [2025-02-08, 15:50:10](https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort) - [Carbon is not a programming language (sort of)](https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/)
 
 ## [Archives](archives/index.md)
