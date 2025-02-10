@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
+* [2025-02-10, 11:19:21](https://lobste.rs/s/wkgof6/sqlite_wasm_http) - [sqlite-wasm-http](https://github.com/mmomtchev/sqlite-wasm-http/blob/main/README.md)
 * [2025-02-10, 10:53:10](https://lobste.rs/s/wtgwdl/state_rust_trying_catch_up_with_ada) - [The state of Rust trying to catch up with Ada](https://fosdem.org/2025/schedule/event/fosdem-2025-5356-the-state-of-rust-trying-to-catch-up-with-ada/)
 * [2025-02-10, 10:52:38](https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard) - [Naming sum types is often hard](https://chrisdone.com/posts/naming-is-hard/)
 * [2025-02-10, 10:24:29](https://lobste.rs/s/nlsgaq/residential_networking_over_telephone) - [residential networking over telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
