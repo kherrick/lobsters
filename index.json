@@ -1,6 +1,46 @@
 [
   [
     [
+      "2025-02-10, 13:22:39",
+      "https://lobste.rs/s/g1icvq/feature_demo_surface_stable_fractal"
+    ],
+    [
+      "Feature Demo of Surface-Stable Fractal Dithering",
+      "https://www.youtube.com/watch?v=EzjWBmhO_1E"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 13:21:50",
+      "https://lobste.rs/s/blxbqn/computing_tricky_probabilities"
+    ],
+    [
+      "Computing Tricky Probabilities",
+      "https://www.msoos.org/2025/02/computing-tricky-probabilities/"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 13:20:55",
+      "https://lobste.rs/s/ymszmx/i_blog_with_raw_txt"
+    ],
+    [
+      "I blog with raw txt",
+      "https://misc.l3m.in/txt/raw_txt.txt"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 13:01:18",
+      "https://lobste.rs/s/lupmsm/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/lupmsm/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 12:32:14",
       "https://lobste.rs/s/er2p8q/harmonyos_deep_blue_insight_is_most"
     ],
@@ -17,16 +57,6 @@
     [
       "ConnectX-5 Firmware tooling and initial analysis",
       "https://irisc-research-syndicate.github.io/2025/02/06/initial-firmware-analysis/"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 11:19:21",
-      "https://lobste.rs/s/wkgof6/sqlite_wasm_http"
-    ],
-    [
-      "sqlite-wasm-http",
-      "https://github.com/mmomtchev/sqlite-wasm-http/blob/main/README.md"
     ]
   ],
   [
@@ -132,11 +162,11 @@
   [
     [
       "2025-02-09, 22:21:49",
-      "https://lobste.rs/s/07jh0c/uk_orders_apple_give_it_access_encrypted"
+      "https://lobste.rs/s/07jh0c/uk_demands_apple_break_encryption_allow"
     ],
     [
-      "UK orders Apple to give it access to encrypted cloud data",
-      "https://www.ft.com/content/57b391a0-c531-4cde-a5e9-c5d60b21a161"
+      "UK demands Apple break encryption to allow gov’t spying worldwide, reports say",
+      "https://arstechnica.com/tech-policy/2025/02/uk-demands-apple-break-encryption-to-allow-govt-spying-worldwide-reports-say/"
     ]
   ],
   [
@@ -211,42 +241,12 @@
   ],
   [
     [
-      "2025-02-09, 09:51:59",
-      "https://lobste.rs/s/g71nqk/why_does_integer_addition_approximate"
-    ],
-    [
-      "Why Does Integer Addition Approximate Float Multiplication?",
-      "https://probablydance.com/2025/02/08/why-does-integer-addition-approximate-float-multiplication/"
-    ]
-  ],
-  [
-    [
       "2025-02-09, 08:18:28",
       "https://lobste.rs/s/3rqmav/how_we_are_defending_software_freedom"
     ],
     [
       "How we are defending Software Freedom against Apple at the EU's highest court",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-5084-how-we-are-defending-software-freedom-against-apple-at-the-eu-s-highest-court/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 08:15:07",
-      "https://lobste.rs/s/ou9v0b/qalculate_hacks"
-    ],
-    [
-      "Qalculate hacks",
-      "https://anarc.at/blog/2025-02-08-qalculate-hacks/"
-    ]
-  ],
-  [
-    [
-      "2025-02-08, 15:50:10",
-      "https://lobste.rs/s/tn7hqo/carbon_is_not_programming_language_sort"
-    ],
-    [
-      "Carbon is not a programming language (sort of)",
-      "https://herecomesthemoon.net/2025/02/carbon-is-not-a-language/"
     ]
   ]
 ]
