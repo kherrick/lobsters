@@ -21,6 +21,26 @@
   ],
   [
     [
+      "2025-02-10, 15:18:10",
+      "https://lobste.rs/s/dwlsla/concerns_with_proposed_addition_fibers_c"
+    ],
+    [
+      "Concerns with the proposed addition of fibers to C++ 26",
+      "https://isocpp.org/files/papers/P3620R0.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-02-10, 14:46:00",
+      "https://lobste.rs/s/omfzao/peerauth"
+    ],
+    [
+      "PeerAuth",
+      "https://ksze.github.io/PeerAuth/"
+    ]
+  ],
+  [
+    [
       "2025-02-10, 14:18:45",
       "https://lobste.rs/s/j3ggjx/yucan_ui_engine"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-02-09, 21:46:49",
-      "https://lobste.rs/s/6roekc/typescript_satisfies_operator"
-    ],
-    [
-      "TypeScript: the `satisfies` operator",
-      "https://2ality.com/2025/02/satisfies-operator.html"
-    ]
-  ],
-  [
-    [
       "2025-02-09, 19:42:35",
       "https://lobste.rs/s/qhhnvd/blip_tool_for_seeing_your_internet"
     ],
@@ -227,16 +237,6 @@
     [
       "Building a personal, private AI computer on a budget",
       "https://ewintr.nl/posts/2025/building-a-personal-private-ai-computer-on-a-budget/"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 12:44:49",
-      "https://lobste.rs/s/upadkq/don_t_optimize_conditional_moves_shaders"
-    ],
-    [
-      "Don't \"optimize\" conditional moves in shaders with mix()+step()",
-      "https://iquilezles.org/articles/gpuconditionals/"
     ]
   ],
   [
