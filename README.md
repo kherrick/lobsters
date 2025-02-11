@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-11, 07:06:58](https://lobste.rs/s/qtbidr/launching_auxcord_org_let_friends_queue) - [Launching auxcord.org - Let friends queue their music at your party](https://krausefx.com//blog/launching-auxcord-let-friends-queue-their-music-at-your-party)
 * [2025-02-11, 05:50:19](https://lobste.rs/s/oitgiq/nixos_actually_portable_executables) - [NixOS and Actually Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html)
 * [2025-02-11, 04:53:05](https://lobste.rs/s/s4ew3u/introduction_operating_system) - [Introduction to Operating System Abstractions using Plan 9](https://archive.org/details/plan9designintro)
 * [2025-02-11, 01:31:08](https://lobste.rs/s/icgiym/anansi_tags_now_nodejs) - [Anansi-tags (now in NodeJS!)](https://www.npmjs.com/package/anansi-tags)
@@ -20,7 +21,6 @@
 * [2025-02-10, 13:20:55](https://lobste.rs/s/ymszmx/i_blog_with_raw_txt) - [I blog with raw txt](https://misc.l3m.in/txt/raw_txt.txt)
 * [2025-02-10, 13:01:18](https://lobste.rs/s/lupmsm/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/lupmsm/what_are_you_doing_this_week)
 * [2025-02-10, 10:52:38](https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard) - [Naming sum types is often hard](https://chrisdone.com/posts/naming-is-hard/)
-* [2025-02-10, 10:24:29](https://lobste.rs/s/nlsgaq/residential_networking_over_telephone) - [residential networking over telephone](https://computer.rip/2025-02-02-residential-networking-over-telephone.html)
 * [2025-02-10, 08:21:55](https://lobste.rs/s/hvgsc0/linux_patches_adjust_ac_plug_unplug) - [Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows](https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle)
 * [2025-02-10, 05:58:36](https://lobste.rs/s/t8dfcw/how_does_ada_s_memory_safety_compare) - [How Does Ada's Memory Safety Compare Against Rust?](https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html)
 * [2025-02-10, 01:46:15](https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network) - [Rostra - a p2p (or rather f2f) social network](https://github.com/dpc/rostra)
