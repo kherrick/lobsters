@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-11, 08:00:55](https://lobste.rs/s/vqprux/persistent_packages_on_steam_deck_using) - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
 * [2025-02-11, 07:29:58](https://lobste.rs/s/hlwfj6/comparing_two_verilog_cpu) - [Comparing Two Verilog CPU Implementations using EBMC](https://www.philipzucker.com/td4_ebmc/)
-* [2025-02-11, 07:06:58](https://lobste.rs/s/qtbidr/launching_auxcord_org_let_friends_queue) - [Launching auxcord.org - Let friends queue their music at your party](https://krausefx.com//blog/launching-auxcord-let-friends-queue-their-music-at-your-party)
 * [2025-02-11, 06:13:41](https://lobste.rs/s/gr3ghv/we_replaced_our_react_frontend_with_go) - [We Replaced Our React Frontend with Go and WebAssembly - Dagger](https://dagger.io/blog/replaced-react-with-go)
 * [2025-02-11, 05:50:19](https://lobste.rs/s/oitgiq/nixos_actually_portable_executables) - [NixOS and Actually Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html)
 * [2025-02-11, 04:53:05](https://lobste.rs/s/s4ew3u/introduction_operating_system) - [Introduction to Operating System Abstractions using Plan 9](https://archive.org/details/plan9designintro)
