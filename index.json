@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-11, 07:29:58",
+      "https://lobste.rs/s/hlwfj6/comparing_two_verilog_cpu"
+    ],
+    [
+      "Comparing Two Verilog CPU Implementations using EBMC",
+      "https://www.philipzucker.com/td4_ebmc/"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 07:06:58",
       "https://lobste.rs/s/qtbidr/launching_auxcord_org_let_friends_queue"
     ],
@@ -147,16 +157,6 @@
     [
       "Concerns with the proposed addition of fibers to C++ 26",
       "https://isocpp.org/files/papers/P3620R0.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 14:18:45",
-      "https://lobste.rs/s/j3ggjx/yucan_ui_engine"
-    ],
-    [
-      "Yucan UI Engine",
-      "https://yucan-ui.com/"
     ]
   ],
   [
