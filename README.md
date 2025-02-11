@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-11, 20:32:21](https://lobste.rs/s/wotwie/oreo_protecting_aslr_against) - [Oreo: Protecting ASLR Against Microarchitectural Attacks (2024)](https://arxiv.org/pdf/2412.07135)
 * [2025-02-11, 20:17:24](https://lobste.rs/s/owydl7/open_source_software_corporate) - [Open Source Software and Corporate Influence](https://www.alilleybrinker.com/blog/open-source-software-and-corporate-influence/)
 * [2025-02-11, 18:07:56](https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically) - [llm-sort: Sort input lines semantically with LLMs](https://github.com/vagos/llm-sort)
 * [2025-02-11, 16:46:24](https://lobste.rs/s/hnn6hg/composiphrase_composable_editing) - [Composiphrase: Composable editing language like Vim, but moreso](https://www.willghatch.net/blog/text-editing/composiphrase_composable-editing-language-like-vim-but-moreso/)
 * [2025-02-11, 16:15:05](https://lobste.rs/s/f4ivxh/machine_learning_human_unlearning) - [Machine: Learning; Human: Unlearning](https://wickstrom.tech/2025-02-11-machine-learning-human-unlearning.html)
-* [2025-02-11, 16:14:50](https://lobste.rs/s/s4bdwn/fact_fiction_legend_qwerty_keyboard_2013) - [Fact of Fiction? The Legend of the QWERTY Keyboard (2013)](https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/)
 * [2025-02-11, 15:39:53](https://lobste.rs/s/ctbita/skill_future_is_focus_not_ai) - [The skill of the future is 'Focus', not 'AI'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
 * [2025-02-11, 15:37:43](https://lobste.rs/s/p5nshp/boring_tech_is_mature_not_old) - [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 * [2025-02-11, 15:11:31](https://lobste.rs/s/7pwhuu/work_at_mill_story_digital_equipment) - [Work at the Mill: The story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
