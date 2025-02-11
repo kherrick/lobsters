@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-11, 12:44:06",
+      "https://lobste.rs/s/lymowb/frontier_ai_systems_have_surpassed_self"
+    ],
+    [
+      "Frontier AI systems have surpassed the self-replicating red line",
+      "https://arxiv.org/abs/2412.12140"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 12:28:49",
       "https://lobste.rs/s/5feang/how_about_trailing_commas_sql"
     ],
@@ -127,16 +137,6 @@
     [
       "Elementary Functions and NOT Following the IEEE 754 Floating-Point Standard (2020)",
       "https://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 21:49:54",
-      "https://lobste.rs/s/duredh/ciao_prolog_system_prolog"
-    ],
-    [
-      "The Ciao Prolog System (Prolog implementation targeting WASM)",
-      "https://ciao-lang.org/"
     ]
   ],
   [
