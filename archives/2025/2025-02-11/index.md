@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 12:28:49](https://lobste.rs/s/5feang/how_about_trailing_commas_sql) - [How about trailing commas in SQL?](https://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
+* [2025-02-11, 12:24:38](https://lobste.rs/s/bywedu/solving_aba_problem_rust_with_tagged) - [Solving the ABA Problem in Rust with Tagged Pointers](https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers/)
 * [2025-02-11, 09:25:29](https://lobste.rs/s/5b4apf/feature_flags_vs_configuration_options) - [Feature Flags vs Configuration Options (2020)](https://www.cs.cmu.edu/~ckaestne/pdf/icseseip20.pdf)
 * [2025-02-11, 09:03:47](https://lobste.rs/s/4a2qzs/writing_git_extensions_perl) - [Writing git extensions in Perl](https://dev.to/jj/writing-git-extensions-in-perl-3ken)
 * [2025-02-11, 09:02:29](https://lobste.rs/s/lvjtgq/gamefontlibrary_video_game_fonts) - [GameFontLibrary | Video Game Fonts & Typography Database](https://www.gamefontlibrary.com)
