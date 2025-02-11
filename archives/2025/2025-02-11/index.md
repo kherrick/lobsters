@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 18:07:56](https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically) - [llm-sort: Sort input lines semantically with LLMs](https://github.com/vagos/llm-sort)
 * [2025-02-11, 16:46:24](https://lobste.rs/s/hnn6hg/composiphrase_composable_editing) - [Composiphrase: Composable editing language like Vim, but moreso](https://www.willghatch.net/blog/text-editing/composiphrase_composable-editing-language-like-vim-but-moreso/)
 * [2025-02-11, 16:15:05](https://lobste.rs/s/f4ivxh/machine_learning_human_unlearning) - [Machine: Learning; Human: Unlearning](https://wickstrom.tech/2025-02-11-machine-learning-human-unlearning.html)
 * [2025-02-11, 16:14:50](https://lobste.rs/s/s4bdwn/fact_fiction_legend_qwerty_keyboard_2013) - [Fact of Fiction? The Legend of the QWERTY Keyboard (2013)](https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/)

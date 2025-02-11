@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-11, 18:07:56](https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically) - [llm-sort: Sort input lines semantically with LLMs](https://github.com/vagos/llm-sort)
 * [2025-02-11, 16:46:24](https://lobste.rs/s/hnn6hg/composiphrase_composable_editing) - [Composiphrase: Composable editing language like Vim, but moreso](https://www.willghatch.net/blog/text-editing/composiphrase_composable-editing-language-like-vim-but-moreso/)
 * [2025-02-11, 16:15:05](https://lobste.rs/s/f4ivxh/machine_learning_human_unlearning) - [Machine: Learning; Human: Unlearning](https://wickstrom.tech/2025-02-11-machine-learning-human-unlearning.html)
 * [2025-02-11, 16:14:50](https://lobste.rs/s/s4bdwn/fact_fiction_legend_qwerty_keyboard_2013) - [Fact of Fiction? The Legend of the QWERTY Keyboard (2013)](https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/)
+* [2025-02-11, 15:46:09](https://lobste.rs/s/ojwhae/lzbench_compression_benchmark) - [lzbench Compression Benchmark](https://morotti.github.io/lzbench-web/)
 * [2025-02-11, 15:39:53](https://lobste.rs/s/ctbita/skill_future_is_focus_not_ai) - [The skill of the future is 'Focus', not 'AI'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
-* [2025-02-11, 15:11:31](https://lobste.rs/s/7pwhuu/work_at_mill_story_digital_equipment) - [Work at the Mill: The story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
 * [2025-02-11, 14:33:36](https://lobste.rs/s/8fnyam/your_ai_can_t_see_gorillas) - [Your AI can’t see gorillas](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-11, 14:10:36](https://lobste.rs/s/ohcl00/catalog_ways_generate_ssa) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
 * [2025-02-11, 12:44:06](https://lobste.rs/s/lymowb/frontier_ai_systems_have_surpassed_self) - [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/abs/2412.12140)
@@ -24,7 +25,6 @@
 * [2025-02-10, 15:18:10](https://lobste.rs/s/dwlsla/concerns_with_proposed_addition_fibers_c) - [Concerns with the proposed addition of fibers to C++ 26](https://isocpp.org/files/papers/P3620R0.pdf)
 * [2025-02-10, 14:07:16](https://lobste.rs/s/fsc1ej/what_about_k) - [What about k?](https://xpqz.github.io/kbook/Introduction.html)
 * [2025-02-10, 13:20:55](https://lobste.rs/s/ymszmx/i_blog_with_raw_txt) - [I blog with raw txt](https://misc.l3m.in/txt/raw_txt.txt)
-* [2025-02-10, 10:52:38](https://lobste.rs/s/n8uork/naming_sum_types_is_often_hard) - [Naming sum types is often hard](https://chrisdone.com/posts/naming-is-hard/)
 
 ## [Archives](archives/index.md)
 
