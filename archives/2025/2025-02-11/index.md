@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 20:42:46](https://lobste.rs/s/g8qbl7/writing_my_own_dithering_algorithm) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 * [2025-02-11, 20:32:21](https://lobste.rs/s/wotwie/oreo_protecting_aslr_against) - [Oreo: Protecting ASLR Against Microarchitectural Attacks (2024)](https://arxiv.org/pdf/2412.07135)
 * [2025-02-11, 20:17:24](https://lobste.rs/s/owydl7/open_source_software_corporate) - [Open Source Software and Corporate Influence](https://www.alilleybrinker.com/blog/open-source-software-and-corporate-influence/)
 * [2025-02-11, 18:07:56](https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically) - [llm-sort: Sort input lines semantically with LLMs](https://github.com/vagos/llm-sort)
