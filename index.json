@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-11, 21:44:50",
+      "https://lobste.rs/s/aumdwz/turning_down_upspin_infrastructure"
+    ],
+    [
+      "Turning down Upspin infrastructure",
+      "https://groups.google.com/g/upspin/c/Whma_O-iexM/m/lSConHZ5DwAJ"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 21:26:34",
       "https://lobste.rs/s/rxof59/reference_counting_harder_than_it_sounds"
     ],
@@ -167,16 +177,6 @@
     [
       "We Replaced Our React Frontend with Go and WebAssembly",
       "https://dagger.io/blog/replaced-react-with-go"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 04:53:05",
-      "https://lobste.rs/s/s4ew3u/introduction_operating_system"
-    ],
-    [
-      "Introduction to Operating System Abstractions using Plan 9",
-      "https://archive.org/details/plan9designintro"
     ]
   ],
   [
