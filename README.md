@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-11, 07:29:58](https://lobste.rs/s/hlwfj6/comparing_two_verilog_cpu) - [Comparing Two Verilog CPU Implementations using EBMC](https://www.philipzucker.com/td4_ebmc/)
 * [2025-02-11, 07:06:58](https://lobste.rs/s/qtbidr/launching_auxcord_org_let_friends_queue) - [Launching auxcord.org - Let friends queue their music at your party](https://krausefx.com//blog/launching-auxcord-let-friends-queue-their-music-at-your-party)
 * [2025-02-11, 05:50:19](https://lobste.rs/s/oitgiq/nixos_actually_portable_executables) - [NixOS and Actually Portable Executables](http://jackkelly.name/blog/archives/2025/01/15/nixos_and_actually_portable_executables/index.html)
 * [2025-02-11, 04:53:05](https://lobste.rs/s/s4ew3u/introduction_operating_system) - [Introduction to Operating System Abstractions using Plan 9](https://archive.org/details/plan9designintro)
@@ -15,7 +16,6 @@
 * [2025-02-10, 16:26:49](https://lobste.rs/s/j5ggtw/pkarr_public_key_addressable_resource) - [pkarr: Public Key Addressable Resource Records (sovereign TLDs)](https://github.com/pubky/pkarr)
 * [2025-02-10, 15:43:08](https://lobste.rs/s/jpa59v/sandboxing_perl_with_webassembly) - [Sandboxing Perl with WebAssembly](https://andrews.substack.com/p/zeroperl-sandboxed-perl-with-webassembly)
 * [2025-02-10, 15:18:10](https://lobste.rs/s/dwlsla/concerns_with_proposed_addition_fibers_c) - [Concerns with the proposed addition of fibers to C++ 26](https://isocpp.org/files/papers/P3620R0.pdf)
-* [2025-02-10, 14:18:45](https://lobste.rs/s/j3ggjx/yucan_ui_engine) - [Yucan UI Engine](https://yucan-ui.com/)
 * [2025-02-10, 14:07:16](https://lobste.rs/s/fsc1ej/what_about_k) - [What about k?](https://xpqz.github.io/kbook/Introduction.html)
 * [2025-02-10, 13:22:39](https://lobste.rs/s/g1icvq/feature_demo_surface_stable_fractal) - [Feature Demo of Surface-Stable Fractal Dithering](https://www.youtube.com/watch?v=EzjWBmhO_1E)
 * [2025-02-10, 13:20:55](https://lobste.rs/s/ymszmx/i_blog_with_raw_txt) - [I blog with raw txt](https://misc.l3m.in/txt/raw_txt.txt)
