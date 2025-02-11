@@ -10,6 +10,7 @@
 * [2025-02-11, 16:14:50](https://lobste.rs/s/s4bdwn/fact_fiction_legend_qwerty_keyboard_2013) - [Fact of Fiction? The Legend of the QWERTY Keyboard (2013)](https://www.smithsonianmag.com/arts-culture/fact-of-fiction-the-legend-of-the-qwerty-keyboard-49863249/)
 * [2025-02-11, 15:46:09](https://lobste.rs/s/ojwhae/lzbench_compression_benchmark) - [lzbench Compression Benchmark](https://morotti.github.io/lzbench-web/)
 * [2025-02-11, 15:39:53](https://lobste.rs/s/ctbita/skill_future_is_focus_not_ai) - [The skill of the future is 'Focus', not 'AI'](https://www.carette.xyz/posts/focus_will_be_the_skill_of_the_future/)
+* [2025-02-11, 15:37:43](https://lobste.rs/s/p5nshp/boring_tech_is_mature_not_old) - [Boring tech is mature, not old](https://rubenerd.com/boring-tech-is-mature-not-old/)
 * [2025-02-11, 15:11:31](https://lobste.rs/s/7pwhuu/work_at_mill_story_digital_equipment) - [Work at the Mill: The story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
 * [2025-02-11, 14:33:36](https://lobste.rs/s/8fnyam/your_ai_can_t_see_gorillas) - [Your AI can’t see gorillas](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-11, 14:26:42](https://lobste.rs/s/bjdtrs/microsoft_releases_documentdb_nosql) - [Microsoft releases DocumentDB (NoSQL atop Postgres) under MIT license](https://opensource.microsoft.com/blog/2025/01/23/documentdb-open-source-announcement/)
