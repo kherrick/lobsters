@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-02-11, 06:13:41",
+      "https://lobste.rs/s/gr3ghv/we_replaced_our_react_frontend_with_go"
+    ],
+    [
+      "We Replaced Our React Frontend with Go and WebAssembly - Dagger",
+      "https://dagger.io/blog/replaced-react-with-go"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 05:50:19",
       "https://lobste.rs/s/oitgiq/nixos_actually_portable_executables"
     ],
@@ -207,16 +217,6 @@
     [
       "Naming sum types is often hard",
       "https://chrisdone.com/posts/naming-is-hard/"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 08:21:55",
-      "https://lobste.rs/s/hvgsc0/linux_patches_adjust_ac_plug_unplug"
-    ],
-    [
-      "Linux Patches Adjust AC Plug/Unplug Behavior During s2idle To Match Windows",
-      "https://www.phoronix.com/news/Linux-Patches-AC-Plug-s2idle"
     ]
   ],
   [
