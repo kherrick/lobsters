@@ -9,6 +9,7 @@
 * [2025-02-11, 20:32:21](https://lobste.rs/s/wotwie/oreo_protecting_aslr_against) - [Oreo: Protecting ASLR Against Microarchitectural Attacks (2024)](https://arxiv.org/pdf/2412.07135)
 * [2025-02-11, 20:17:24](https://lobste.rs/s/owydl7/open_source_software_corporate) - [Open Source Software and Corporate Influence](https://www.alilleybrinker.com/blog/open-source-software-and-corporate-influence/)
 * [2025-02-11, 19:39:21](https://lobste.rs/s/bleaa6/windows_7_2025_perspective_rose_tinted) - [Windows 7: A 2025 perspective (rose-tinted or not)](https://www.dedoimedo.com/computers/windows-7-review-2025-perspective.html)
+* [2025-02-11, 19:31:03](https://lobste.rs/s/gjxaca/is_it_okay) - [Is it okay?](https://www.robinsloan.com/lab/is-it-okay/)
 * [2025-02-11, 19:27:08](https://lobste.rs/s/islphy/supercharge_your_installs_with_apt) - [Supercharge Your Installs with apt-eatmydata: Because Who Needs Crash Safety Anyway?](https://balintreczey.hu/blog/supercharge-your-installs-with-apt-eatmydata-because-who-needs-crash-safety-anyway/)
 * [2025-02-11, 18:29:15](https://lobste.rs/s/yqsaij/being_overlord_on_steam_deck_with_1_byte) - [Being Overlord on the Steam Deck with 1 Byte](https://blog.quarkslab.com/being-overlord-on-the-steam-deck-with-1-byte.html)
 * [2025-02-11, 18:07:56](https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically) - [llm-sort: Sort input lines semantically with LLMs](https://github.com/vagos/llm-sort)
