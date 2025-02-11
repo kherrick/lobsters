@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-11, 04:53:05",
+      "https://lobste.rs/s/s4ew3u/introduction_operating_system"
+    ],
+    [
+      "Introduction to Operating System Abstractions using Plan 9",
+      "https://archive.org/details/plan9designintro"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 01:31:08",
       "https://lobste.rs/s/icgiym/anansi_tags_now_nodejs"
     ],
@@ -217,16 +227,6 @@
     [
       "Rostra - a p2p (or rather f2f) social network",
       "https://github.com/dpc/rostra"
-    ]
-  ],
-  [
-    [
-      "2025-02-09, 23:33:27",
-      "https://lobste.rs/s/tznsyt/postmarketos_powered_kubernetes"
-    ],
-    [
-      "postmarketOS-powered Kubernetes cluster",
-      "https://blog.denv.it/posts/pmos-k3s-cluster/"
     ]
   ],
   [
