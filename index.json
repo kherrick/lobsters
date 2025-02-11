@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-11, 21:26:34",
+      "https://lobste.rs/s/rxof59/reference_counting_harder_than_it_sounds"
+    ],
+    [
+      "Reference Counting: Harder than it Sounds (2015)",
+      "https://www.playingwithpointers.com/blog/refcounting-harder-than-it-sounds.html"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 20:55:00",
       "https://lobste.rs/s/as8dio/roping_our_way_rce"
     ],
@@ -31,16 +41,6 @@
   ],
   [
     [
-      "2025-02-11, 19:39:21",
-      "https://lobste.rs/s/bleaa6/windows_7_2025_perspective_rose_tinted"
-    ],
-    [
-      "Windows 7: A 2025 perspective (rose-tinted or not)",
-      "https://www.dedoimedo.com/computers/windows-7-review-2025-perspective.html"
-    ]
-  ],
-  [
-    [
       "2025-02-11, 19:31:03",
       "https://lobste.rs/s/gjxaca/is_it_okay"
     ],
@@ -51,12 +51,12 @@
   ],
   [
     [
-      "2025-02-11, 19:27:08",
-      "https://lobste.rs/s/islphy/supercharge_your_installs_with_apt"
+      "2025-02-11, 18:43:19",
+      "https://lobste.rs/s/6rzmjy/stages_denial"
     ],
     [
-      "Supercharge Your Installs with apt-eatmydata: Because Who Needs Crash Safety Anyway?",
-      "https://balintreczey.hu/blog/supercharge-your-installs-with-apt-eatmydata-because-who-needs-crash-safety-anyway/"
+      "Stages of Denial",
+      "http://nsl.com/papers/denial.html"
     ]
   ],
   [
