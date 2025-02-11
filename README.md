@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-11, 15:11:31](https://lobste.rs/s/7pwhuu/work_at_mill_story_digital_equipment) - [Work at the Mill: The story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
 * [2025-02-11, 14:33:36](https://lobste.rs/s/8fnyam/your_ai_can_t_see_gorillas) - [Your AI can’t see gorillas](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-11, 14:26:42](https://lobste.rs/s/bjdtrs/microsoft_releases_documentdb_nosql) - [Microsoft releases DocumentDB (NoSQL atop Postgres) under MIT license](https://opensource.microsoft.com/blog/2025/01/23/documentdb-open-source-announcement/)
 * [2025-02-11, 14:10:36](https://lobste.rs/s/ohcl00/catalog_ways_generate_ssa) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
@@ -15,7 +16,6 @@
 * [2025-02-11, 01:20:21](https://lobste.rs/s/fwqjqm/how_copyover_mud_servers_worked) - [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
 * [2025-02-10, 23:14:02](https://lobste.rs/s/fkr3ha/some_terminal_frustrations) - [Some terminal frustrations](https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/)
 * [2025-02-10, 23:05:03](https://lobste.rs/s/uoiosa/undergraduate_invents_faster_hash_table) - [Undergraduate Invents Faster Hash Table](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
-* [2025-02-10, 22:20:39](https://lobste.rs/s/ohi8z7/elementary_functions_not_following_ieee) - [Elementary Functions and NOT Following the IEEE 754 Floating-Point Standard (2020)](https://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 * [2025-02-10, 20:57:55](https://lobste.rs/s/ktw3bz/you_should_use_tmp_more) - [You Should Use /tmp/ More](https://atthis.link/blog/2025/58671.html)
 * [2025-02-10, 20:56:54](https://lobste.rs/s/kthinp/free_wiki_hosting_no_ads) - [Free Wiki Hosting, No Ads](https://miraheze.org)
 * [2025-02-10, 16:26:49](https://lobste.rs/s/j5ggtw/pkarr_public_key_addressable_resource) - [pkarr: Public Key Addressable Resource Records (sovereign TLDs)](https://github.com/pubky/pkarr)

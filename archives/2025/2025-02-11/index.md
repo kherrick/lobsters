@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 15:11:31](https://lobste.rs/s/7pwhuu/work_at_mill_story_digital_equipment) - [Work at the Mill: The story of Digital Equipment Corporation](https://www.abortretry.fail/p/work-at-the-mill)
 * [2025-02-11, 14:33:36](https://lobste.rs/s/8fnyam/your_ai_can_t_see_gorillas) - [Your AI can’t see gorillas](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-11, 14:26:42](https://lobste.rs/s/bjdtrs/microsoft_releases_documentdb_nosql) - [Microsoft releases DocumentDB (NoSQL atop Postgres) under MIT license](https://opensource.microsoft.com/blog/2025/01/23/documentdb-open-source-announcement/)
 * [2025-02-11, 14:10:36](https://lobste.rs/s/ohcl00/catalog_ways_generate_ssa) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
