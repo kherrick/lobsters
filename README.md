@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-11, 14:26:42](https://lobste.rs/s/bjdtrs/microsoft_releases_documentdb_nosql) - [Microsoft releases DocumentDB (NoSQL atop Postgres) under MIT license](https://opensource.microsoft.com/blog/2025/01/23/documentdb-open-source-announcement/)
 * [2025-02-11, 14:10:36](https://lobste.rs/s/ohcl00/catalog_ways_generate_ssa) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
+* [2025-02-11, 12:44:06](https://lobste.rs/s/lymowb/frontier_ai_systems_have_surpassed_self) - [Frontier AI systems have surpassed the self-replicating red line](https://arxiv.org/abs/2412.12140)
 * [2025-02-11, 12:28:49](https://lobste.rs/s/5feang/how_about_trailing_commas_sql) - [How about trailing commas in SQL?](https://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql)
-* [2025-02-11, 09:25:29](https://lobste.rs/s/5b4apf/feature_flags_vs_configuration_options) - [Feature Flags vs Configuration Options (2020)](https://www.cs.cmu.edu/~ckaestne/pdf/icseseip20.pdf)
-* [2025-02-11, 09:03:47](https://lobste.rs/s/4a2qzs/writing_git_extensions_perl) - [Writing git extensions in Perl](https://dev.to/jj/writing-git-extensions-in-perl-3ken)
 * [2025-02-11, 09:02:29](https://lobste.rs/s/lvjtgq/gamefontlibrary_video_game_fonts) - [GameFontLibrary | Video Game Fonts & Typography Database](https://www.gamefontlibrary.com)
 * [2025-02-11, 08:00:55](https://lobste.rs/s/vqprux/persistent_packages_on_steam_deck_using) - [Persistent packages on Steam Deck using Nix](https://chrastecky.dev/gaming/persistent-packages-on-steam-deck-using-nix)
 * [2025-02-11, 06:13:41](https://lobste.rs/s/gr3ghv/we_replaced_our_react_frontend_with_go) - [We Replaced Our React Frontend with Go and WebAssembly - Dagger](https://dagger.io/blog/replaced-react-with-go)
