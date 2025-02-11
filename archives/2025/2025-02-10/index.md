@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-10](index.md)
 
 * [2025-02-10, 23:14:02](https://lobste.rs/s/fkr3ha/some_terminal_frustrations) - [Some terminal frustrations](https://jvns.ca/blog/2025/02/05/some-terminal-frustrations/)
+* [2025-02-10, 23:08:23](https://lobste.rs/s/budwab/how_i_learned_stop_worrying_love_llm) - [How I learned to stop worrying and love the LLM](https://smallcultfollowing.com/babysteps/blog/2025/02/10/love-the-llm/)
 * [2025-02-10, 23:05:03](https://lobste.rs/s/uoiosa/undergraduate_invents_faster_hash_table) - [Undergraduate Invents Faster Hash Table](https://www.quantamagazine.org/undergraduate-upends-a-40-year-old-data-science-conjecture-20250210/)
 * [2025-02-10, 22:20:39](https://lobste.rs/s/ohi8z7/elementary_functions_not_following_ieee) - [Elementary Functions and NOT Following the IEEE 754 Floating-Point Standard (2020)](https://www.hlsl.co.uk/blog/2020/1/29/ieee754-is-not-followed)
 * [2025-02-10, 21:54:38](https://lobste.rs/s/toumxi/bjarne_stroustrup_21st_century_c) - [Bjarne Stroustrup: 21st Century C++](https://cacm.acm.org/blogcacm/21st-century-c/)
