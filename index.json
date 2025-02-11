@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-11, 12:28:49",
+      "https://lobste.rs/s/5feang/how_about_trailing_commas_sql"
+    ],
+    [
+      "How about trailing commas in SQL?",
+      "https://peter.eisentraut.org/blog/2025/02/11/how-about-trailing-commas-in-sql"
+    ]
+  ],
+  [
+    [
+      "2025-02-11, 12:24:38",
+      "https://lobste.rs/s/bywedu/solving_aba_problem_rust_with_tagged"
+    ],
+    [
+      "Solving the ABA Problem in Rust with Tagged Pointers",
+      "https://minikin.me/blog/solving-the-aba-problem-in-rust-tagged-pointers/"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 09:25:29",
       "https://lobste.rs/s/5b4apf/feature_flags_vs_configuration_options"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-02-10, 17:52:23",
-      "https://lobste.rs/s/pmnqsl/unreasonable_effectiveness_x_macros"
-    ],
-    [
-      "The Unreasonable Effectiveness of X Macros",
-      "https://ph3at.github.io/posts/X-Macros/"
-    ]
-  ],
-  [
-    [
       "2025-02-10, 16:26:49",
       "https://lobste.rs/s/j5ggtw/pkarr_public_key_addressable_resource"
     ],
@@ -237,16 +247,6 @@
     [
       "How Does Ada's Memory Safety Compare Against Rust?",
       "https://ajxs.me/blog/How_Does_Adas_Memory_Safety_Compare_Against_Rust.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-10, 01:46:15",
-      "https://lobste.rs/s/7imsbb/rostra_p2p_rather_f2f_social_network"
-    ],
-    [
-      "Rostra - a p2p (or rather f2f) social network",
-      "https://github.com/dpc/rostra"
     ]
   ]
 ]
