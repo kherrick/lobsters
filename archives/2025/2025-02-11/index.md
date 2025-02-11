@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-11](index.md)
 
+* [2025-02-11, 21:26:34](https://lobste.rs/s/rxof59/reference_counting_harder_than_it_sounds) - [Reference Counting: Harder than it Sounds (2015)](https://www.playingwithpointers.com/blog/refcounting-harder-than-it-sounds.html)
 * [2025-02-11, 20:55:00](https://lobste.rs/s/as8dio/roping_our_way_rce) - [ROPing our way to RCE](https://modzero.com/en/blog/roping-our-way-to-rce/)
 * [2025-02-11, 20:42:46](https://lobste.rs/s/g8qbl7/writing_my_own_dithering_algorithm) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 * [2025-02-11, 20:32:21](https://lobste.rs/s/wotwie/oreo_protecting_aslr_against) - [Oreo: Protecting ASLR Against Microarchitectural Attacks (2024)](https://arxiv.org/pdf/2412.07135)
@@ -11,6 +12,7 @@
 * [2025-02-11, 19:39:21](https://lobste.rs/s/bleaa6/windows_7_2025_perspective_rose_tinted) - [Windows 7: A 2025 perspective (rose-tinted or not)](https://www.dedoimedo.com/computers/windows-7-review-2025-perspective.html)
 * [2025-02-11, 19:31:03](https://lobste.rs/s/gjxaca/is_it_okay) - [Is it okay?](https://www.robinsloan.com/lab/is-it-okay/)
 * [2025-02-11, 19:27:08](https://lobste.rs/s/islphy/supercharge_your_installs_with_apt) - [Supercharge Your Installs with apt-eatmydata: Because Who Needs Crash Safety Anyway?](https://balintreczey.hu/blog/supercharge-your-installs-with-apt-eatmydata-because-who-needs-crash-safety-anyway/)
+* [2025-02-11, 18:43:19](https://lobste.rs/s/6rzmjy/stages_denial) - [Stages of Denial](http://nsl.com/papers/denial.html)
 * [2025-02-11, 18:29:15](https://lobste.rs/s/yqsaij/being_overlord_on_steam_deck_with_1_byte) - [Being Overlord on the Steam Deck with 1 Byte](https://blog.quarkslab.com/being-overlord-on-the-steam-deck-with-1-byte.html)
 * [2025-02-11, 18:07:56](https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically) - [llm-sort: Sort input lines semantically with LLMs](https://github.com/vagos/llm-sort)
 * [2025-02-11, 16:46:24](https://lobste.rs/s/hnn6hg/composiphrase_composable_editing) - [Composiphrase: Composable editing language like Vim, but moreso](https://www.willghatch.net/blog/text-editing/composiphrase_composable-editing-language-like-vim-but-moreso/)
