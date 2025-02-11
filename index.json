@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-02-11, 15:11:31",
-      "https://lobste.rs/s/7pwhuu/work_at_mill_story_digital_equipment"
+      "2025-02-11, 15:46:09",
+      "https://lobste.rs/s/ojwhae/lzbench_compression_benchmark"
     ],
     [
-      "Work at the Mill: The story of Digital Equipment Corporation",
-      "https://www.abortretry.fail/p/work-at-the-mill"
+      "lzbench Compression Benchmark",
+      "https://morotti.github.io/lzbench-web/"
     ]
   ],
   [
@@ -95,7 +95,7 @@
       "https://lobste.rs/s/gr3ghv/we_replaced_our_react_frontend_with_go"
     ],
     [
-      "We Replaced Our React Frontend with Go and WebAssembly - Dagger",
+      "We Replaced Our React Frontend with Go and WebAssembly",
       "https://dagger.io/blog/replaced-react-with-go"
     ]
   ],
