@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-02-12, 09:45:28",
+      "https://lobste.rs/s/mkquvs/text_crdts_from_scratch_code"
+    ],
+    [
+      "Text CRDTs from scratch, in code",
+      "https://www.youtube.com/watch?v=_lQ2Q4Kzi1I"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 08:39:16",
       "https://lobste.rs/s/coao0j/rust_for_linux"
     ],
@@ -47,16 +57,6 @@
     [
       "Intensional Joy (a concatenative account of internal structure)",
       "https://pithlessly.github.io/intensionaljoy.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 06:16:12",
-      "https://lobste.rs/s/ltepas/eleet_efficient_learned_query_execution"
-    ],
-    [
-      "ELEET: Efficient Learned Query Execution over Text and Tables",
-      "https://www.vldb.org/pvldb/vol17/p4867-urban.pdf"
     ]
   ],
   [
