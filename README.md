@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-12, 11:11:22](https://lobste.rs/s/umevag/data_scraping_reverse_engineering) - [Data scraping and reverse engineering League of Legends replays](https://maknee.github.io/blog/2025/League-Data-Scraping/)
 * [2025-02-12, 10:33:54](https://lobste.rs/s/563zjp/how_does_linux_machine_connect_internet) - [How does a Linux machine connect to the internet, really?](https://pjg1.site/linux-internet-from-scratch)
-* [2025-02-12, 09:45:28](https://lobste.rs/s/mkquvs/text_crdts_from_scratch_code) - [Text CRDTs from scratch, in code](https://www.youtube.com/watch?v=_lQ2Q4Kzi1I)
 * [2025-02-12, 08:39:16](https://lobste.rs/s/coao0j/rust_for_linux) - [Rust for Linux](https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/)
 * [2025-02-12, 08:21:37](https://lobste.rs/s/ddqzya/simple_terminal_helper_save_keystrokes) - [A simple terminal helper to save keystrokes](https://github.com/antonmedv/howto)
 * [2025-02-12, 06:17:06](https://lobste.rs/s/2rkupg/intensional_joy_concatenative_account) - [Intensional Joy (a concatenative account of internal structure)](https://pithlessly.github.io/intensionaljoy.html)
