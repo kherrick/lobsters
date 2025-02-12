@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-12, 16:51:11",
+      "https://lobste.rs/s/gvss5p/syd_introduction_secure_application"
+    ],
+    [
+      "Syd: An Introduction to Secure Application Sandboxing for Linux",
+      "https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 14:58:34",
       "https://lobste.rs/s/cuakjw/survey_every_iterator_variant"
     ],
@@ -67,16 +77,6 @@
     [
       "Rust for Linux",
       "https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 08:21:37",
-      "https://lobste.rs/s/ddqzya/simple_terminal_helper_save_keystrokes"
-    ],
-    [
-      "A simple terminal helper to save keystrokes",
-      "https://github.com/antonmedv/howto"
     ]
   ],
   [
