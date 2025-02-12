@@ -1,13 +1,14 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-12, 18:21:52](https://lobste.rs/s/3th6vi/zodiac_simple_clojure_framework) - [Zodiac: simple Clojure framework](https://github.com/brettatoms/zodiac)
+* [2025-02-12, 18:04:05](https://lobste.rs/s/actm9b/your_network_your_rules_take_charge_with) - [Your Network, Your Rules: Take Charge With Own DNS](https://dzone.com/articles/private-dns-nameserver)
+* [2025-02-12, 18:01:50](https://lobste.rs/s/quhtak/do_you_use_debugger) - [Do you use a debugger?](https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger)
 * [2025-02-12, 17:15:03](https://lobste.rs/s/rqptfo/skip_reactive_framework_code) - [Skip: A reactive framework to code declaratively and compute continuously](https://skiplabs.io/)
 * [2025-02-12, 17:05:22](https://lobste.rs/s/j0hcla/rails_async_queries_by_example) - [Rails async queries by example](https://www.honeybadger.io/blog/rails-async-queries/)
 * [2025-02-12, 16:57:36](https://lobste.rs/s/ofqfci/bad_smart_watch_auth) - [Bad Smart Watch Auth](https://sprocketfox.io/xssfox/2025/02/09/ido/)
-* [2025-02-12, 16:51:11](https://lobste.rs/s/gvss5p/syd_introduction_secure_application) - [Syd: An Introduction to Secure Application Sandboxing for Linux](https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/)
 * [2025-02-12, 14:58:34](https://lobste.rs/s/cuakjw/survey_every_iterator_variant) - [A survey of every iterator variant](https://blog.yoshuawuyts.com/a-survey-of-every-iterator-variant)
 * [2025-02-12, 14:38:16](https://lobste.rs/s/9ubmfl/delivering_malware_through_abandoned) - [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html)
 * [2025-02-12, 14:04:38](https://lobste.rs/s/qtudg1/ouch_painless_compression) - [ouch: Painless compression and decompression in the terminal](https://github.com/ouch-org/ouch)
-* [2025-02-12, 11:11:22](https://lobste.rs/s/umevag/data_scraping_reverse_engineering) - [Data scraping and reverse engineering League of Legends replays](https://maknee.github.io/blog/2025/League-Data-Scraping/)
 * [2025-02-12, 10:33:54](https://lobste.rs/s/563zjp/how_does_linux_machine_connect_internet) - [How does a Linux machine connect to the internet, really?](https://pjg1.site/linux-internet-from-scratch)
 * [2025-02-12, 09:45:28](https://lobste.rs/s/mkquvs/text_crdts_from_scratch_code) - [Text CRDTs from scratch, in code](https://www.youtube.com/watch?v=_lQ2Q4Kzi1I)
 * [2025-02-12, 08:39:16](https://lobste.rs/s/coao0j/rust_for_linux) - [Rust for Linux](https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/)
@@ -24,7 +25,6 @@
 * [2025-02-11, 18:07:56](https://lobste.rs/s/yxlisx/llm_sort_sort_input_lines_semantically) - [llm-sort: Sort input lines semantically with LLMs](https://github.com/vagos/llm-sort)
 * [2025-02-11, 14:33:36](https://lobste.rs/s/8fnyam/your_ai_can_t_see_gorillas) - [Your AI can’t see gorillas](https://chiraaggohel.com/posts/llms-eda/)
 * [2025-02-11, 14:10:36](https://lobste.rs/s/ohcl00/catalog_ways_generate_ssa) - [A catalog of ways to generate SSA](https://bernsteinbear.com/blog/ssa/)
-* [2025-02-11, 01:20:21](https://lobste.rs/s/fwqjqm/how_copyover_mud_servers_worked) - [How Copyover MUD Servers Worked](http://jackkelly.name/blog/archives/2025/02/06/how_copyover_mud_servers_worked/)
 
 ## [Archives](archives/index.md)
 

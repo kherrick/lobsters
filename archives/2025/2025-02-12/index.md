@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 18:21:52](https://lobste.rs/s/3th6vi/zodiac_simple_clojure_framework) - [Zodiac: simple Clojure framework](https://github.com/brettatoms/zodiac)
+* [2025-02-12, 18:04:05](https://lobste.rs/s/actm9b/your_network_your_rules_take_charge_with) - [Your Network, Your Rules: Take Charge With Own DNS](https://dzone.com/articles/private-dns-nameserver)
+* [2025-02-12, 18:01:50](https://lobste.rs/s/quhtak/do_you_use_debugger) - [Do you use a debugger?](https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger)
 * [2025-02-12, 17:15:03](https://lobste.rs/s/rqptfo/skip_reactive_framework_code) - [Skip: A reactive framework to code declaratively and compute continuously](https://skiplabs.io/)
 * [2025-02-12, 17:05:22](https://lobste.rs/s/j0hcla/rails_async_queries_by_example) - [Rails async queries by example](https://www.honeybadger.io/blog/rails-async-queries/)
 * [2025-02-12, 16:57:36](https://lobste.rs/s/ofqfci/bad_smart_watch_auth) - [Bad Smart Watch Auth](https://sprocketfox.io/xssfox/2025/02/09/ido/)
