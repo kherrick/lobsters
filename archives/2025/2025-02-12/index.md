@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 09:45:28](https://lobste.rs/s/mkquvs/text_crdts_from_scratch_code) - [Text CRDTs from scratch, in code](https://www.youtube.com/watch?v=_lQ2Q4Kzi1I)
 * [2025-02-12, 09:36:39](https://lobste.rs/s/mdxg2p/security_devops_testing_go_with_jakub) - [Security, devops, and testing in Go with Jakub Jarosz](https://gopodcast.dev/episodes/050-security-devops-testing-in-go-with-jakub-jarosz)
 * [2025-02-12, 09:21:14](https://lobste.rs/s/pyjpo3/systems_correctness_practices_at_aws) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-formal Methods](https://dl.acm.org/doi/pdf/10.1145/3712057)
 * [2025-02-12, 09:09:45](https://lobste.rs/s/ionubt/clean_room_tests_with_javascript_s_using) - [Clean room tests with JavaScript's `using` keyword](https://blog.disintegrator.dev/posts/clean-room-testing-using/)
