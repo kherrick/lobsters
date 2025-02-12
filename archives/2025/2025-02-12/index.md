@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-02-12](index.md)
+
+* [2025-02-12, 02:15:27](https://lobste.rs/s/6dxvql/go_1_24_is_released) - [Go 1.24 is released](https://go.dev/blog/go1.24)
