@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 08:39:16](https://lobste.rs/s/coao0j/rust_for_linux) - [Rust for Linux](https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/)
 * [2025-02-12, 08:21:37](https://lobste.rs/s/ddqzya/simple_terminal_helper_save_keystrokes) - [A simple terminal helper to save keystrokes](https://github.com/antonmedv/howto)
 * [2025-02-12, 08:11:51](https://lobste.rs/s/qrd1bp/thomson_reuters_wins_early_court_battle) - [Thomson Reuters wins an early court battle over AI, copyright, and fair use](https://www.theverge.com/news/610721/thomson-reuters-ross-intelligence-ai-copyright-infringement)
 * [2025-02-12, 06:17:06](https://lobste.rs/s/2rkupg/intensional_joy_concatenative_account) - [Intensional Joy (a concatenative account of internal structure)](https://pithlessly.github.io/intensionaljoy.html)
