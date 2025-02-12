@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 22:33:08](https://lobste.rs/s/9lxx6l/schemesh_unix_shell_lisp_repl_fused) - [schemesh: A Unix shell and Lisp REPL, fused together](https://github.com/cosmos72/schemesh)
 * [2025-02-12, 22:31:10](https://lobste.rs/s/2jgv7x/how_i_automated_my_computer_life_with) - [How I Automated My Computer Life With macOS Folder Actions](https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/)
 * [2025-02-12, 21:21:47](https://lobste.rs/s/pr0ax5/u_k_asks_backdoor_icloud_backup) - [U.K. asks to backdoor iCloud Backup encryption](https://blog.cryptographyengineering.com/2025/02/12/u-k-asks-to-backdoor-icloud-backup-encryption/)
 * [2025-02-12, 21:02:12](https://lobste.rs/s/l5a9uh/you_don_t_link_all_libc) - [you don't link all of libc](https://flak.tedunangst.com/post/you-dont-link-all-of-libc)
