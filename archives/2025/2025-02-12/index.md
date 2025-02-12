@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 18:27:19](https://lobste.rs/s/nz0imd/iteration_one_language_then_all_others) - [Iteration in one language, then all the others (2016)](https://eev.ee/blog/2016/11/18/iteration-in-one-language-then-all-the-others/)
+* [2025-02-12, 18:25:55](https://lobste.rs/s/5akiq3/are_efficiency_horizontal_scalability) - [Are Efficiency and Horizontal Scalability at odds?](https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/)
 * [2025-02-12, 18:21:52](https://lobste.rs/s/3th6vi/zodiac_simple_clojure_framework) - [Zodiac: simple Clojure framework](https://github.com/brettatoms/zodiac)
 * [2025-02-12, 18:04:05](https://lobste.rs/s/actm9b/your_network_your_rules_take_charge_with) - [Your Network, Your Rules: Take Charge With Own DNS](https://dzone.com/articles/private-dns-nameserver)
 * [2025-02-12, 18:01:50](https://lobste.rs/s/quhtak/do_you_use_debugger) - [Do you use a debugger?](https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger)
