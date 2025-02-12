@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-12](index.md)
 
+* [2025-02-12, 17:05:22](https://lobste.rs/s/j0hcla/rails_async_queries_by_example) - [Rails async queries by example](https://www.honeybadger.io/blog/rails-async-queries/)
+* [2025-02-12, 16:57:36](https://lobste.rs/s/ofqfci/bad_smart_watch_auth) - [Bad Smart Watch Auth](https://sprocketfox.io/xssfox/2025/02/09/ido/)
 * [2025-02-12, 16:51:11](https://lobste.rs/s/gvss5p/syd_introduction_secure_application) - [Syd: An Introduction to Secure Application Sandboxing for Linux](https://fosdem.org/2025/schedule/event/fosdem-2025-4176-syd-an-introduction-to-secure-application-sandboxing-for-linux/)
 * [2025-02-12, 14:58:34](https://lobste.rs/s/cuakjw/survey_every_iterator_variant) - [A survey of every iterator variant](https://blog.yoshuawuyts.com/a-survey-of-every-iterator-variant)
 * [2025-02-12, 14:38:16](https://lobste.rs/s/9ubmfl/delivering_malware_through_abandoned) - [Delivering Malware Through Abandoned Amazon S3 Buckets](https://www.schneier.com/blog/archives/2025/02/delivering-malware-through-abandoned-amazon-s3-buckets.html)
