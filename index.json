@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-12, 08:39:16",
+      "https://lobste.rs/s/coao0j/rust_for_linux"
+    ],
+    [
+      "Rust for Linux",
+      "https://fosdem.org/2025/schedule/event/fosdem-2025-6507-rust-for-linux/"
+    ]
+  ],
+  [
+    [
       "2025-02-12, 08:21:37",
       "https://lobste.rs/s/ddqzya/simple_terminal_helper_save_keystrokes"
     ],
@@ -87,16 +97,6 @@
     [
       "Turning down Upspin infrastructure",
       "https://groups.google.com/g/upspin/c/Whma_O-iexM/m/lSConHZ5DwAJ"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 21:26:34",
-      "https://lobste.rs/s/rxof59/reference_counting_harder_than_it_sounds"
-    ],
-    [
-      "Reference Counting: Harder than it Sounds (2015)",
-      "https://www.playingwithpointers.com/blog/refcounting-harder-than-it-sounds.html"
     ]
   ],
   [
