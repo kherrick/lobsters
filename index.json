@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-02-11, 21:26:34",
+      "https://lobste.rs/s/rxof59/reference_counting_harder_than_it_sounds"
+    ],
+    [
+      "Reference Counting: Harder than it Sounds (2015)",
+      "https://www.playingwithpointers.com/blog/refcounting-harder-than-it-sounds.html"
+    ]
+  ],
+  [
+    [
       "2025-02-11, 20:55:00",
       "https://lobste.rs/s/as8dio/roping_our_way_rce"
     ],
@@ -167,16 +177,6 @@
     [
       "A catalog of ways to generate SSA",
       "https://bernsteinbear.com/blog/ssa/"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 12:44:06",
-      "https://lobste.rs/s/lymowb/frontier_ai_systems_have_surpassed_self"
-    ],
-    [
-      "Frontier AI systems have surpassed the self-replicating red line",
-      "https://arxiv.org/abs/2412.12140"
     ]
   ],
   [
