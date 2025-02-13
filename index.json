@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-13, 05:27:57",
+      "https://lobste.rs/s/mfpevw/old_c_dog_new_c_tricks_null_ptr"
+    ],
+    [
+      "Old C dog, new C tricks: NULL != ptr",
+      "https://subethasoftware.com/2025/02/12/old-c-dog-new-c-tricks-null-ptr/"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 03:04:42",
       "https://lobste.rs/s/qevhmh/ghostbsd_pkg_8_repository_on_freebsd"
     ],
@@ -237,16 +247,6 @@
     [
       "42links: A bookmarking server, written in Lisp",
       "https://code.rosaelefanten.org/42links"
-    ]
-  ],
-  [
-    [
-      "2025-02-11, 20:42:46",
-      "https://lobste.rs/s/g8qbl7/writing_my_own_dithering_algorithm"
-    ],
-    [
-      "Writing my own dithering algorithm in Racket",
-      "https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket"
     ]
   ]
 ]
