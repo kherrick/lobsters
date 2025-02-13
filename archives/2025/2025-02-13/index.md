@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 10:20:46](https://lobste.rs/s/ieicfy/homemade_polarimetric_synthetic) - [Homemade polarimetric synthetic aperture radar drone](https://hforsten.com/homemade-polarimetric-synthetic-aperture-radar-drone.html)
 * [2025-02-13, 09:33:34](https://lobste.rs/s/6vgomj/multi_files_fixes_elm_review) - [Multi-files fixes in elm-review](https://jfmengels.net)
 * [2025-02-13, 07:57:14](https://lobste.rs/s/fcokyj/llms_do_not_break_interviews) - [LLMs Do Not Break Interviews](https://blog.sulami.xyz/posts/llm-interviews/)
 * [2025-02-13, 06:59:47](https://lobste.rs/s/pnq8vs/flac_1_5_0_released) - [FLAC 1.5.0 released](https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html)
