@@ -6,6 +6,7 @@
 
 * [2025-02-13, 21:59:22](https://lobste.rs/s/z4q3un/prototyping_machine_deployment_tool) - [Prototyping a machine deployment tool with Spritely Goblins](https://www.terracrypt.net/posts/gobs-of-machines.html)
 * [2025-02-13, 20:51:42](https://lobste.rs/s/mq0dzt/challenges_developers_face_creating_api) - [Challenges Developers Face in Creating API and Code Documentation](https://www.coderabbit.ai/blog/challenges-developers-face-in-creating-api-and-code-documentation)
+* [2025-02-13, 20:36:25](https://lobste.rs/s/hjlg8x/using_branded_types_typescript) - [Using Branded Types in TypeScript](https://egghead.io/blog/using-branded-types-in-typescript)
 * [2025-02-13, 20:34:44](https://lobste.rs/s/ndcuhz/how_add_directory_your_path) - [How to add a directory to your PATH](https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/)
 * [2025-02-13, 20:23:35](https://lobste.rs/s/oafv9d/on_jujutsu_magit_experience_report) - [On Jujutsu and Magit: experience report](https://blog.alarsyo.net/posts/2025/02/on-jujutsu-and-magit/)
 * [2025-02-13, 19:30:54](https://lobste.rs/s/f9zeee/why_i_built_hyper_personalized_seach) - [why I built a hyper-personalized seach engine that isn't very good](https://search.technomancy.us/why)
