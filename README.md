@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-13, 05:27:57](https://lobste.rs/s/mfpevw/old_c_dog_new_c_tricks_null_ptr) - [Old C dog, new C tricks: NULL != ptr](https://subethasoftware.com/2025/02/12/old-c-dog-new-c-tricks-null-ptr/)
 * [2025-02-13, 03:04:42](https://lobste.rs/s/qevhmh/ghostbsd_pkg_8_repository_on_freebsd) - [GhostBSD pkg(8) Repository on FreeBSD](https://vermaden.wordpress.com/2025/02/13/ghostbsd-pkg-repository-on-freebsd/)
 * [2025-02-13, 01:58:05](https://lobste.rs/s/70htqn/ki_editor_now_supports_reveal) - [Ki Editor now supports Reveal](https://ki-editor.github.io/ki-editor/docs/normal-mode/space-menu#reveal)
 * [2025-02-13, 00:22:25](https://lobste.rs/s/y95hnw/tiny_jits_for_faster_ffi) - [Tiny JITs for a Faster FFI](https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/)
@@ -24,7 +25,6 @@
 * [2025-02-12, 04:27:47](https://lobste.rs/s/pk8rmi/hotdog_x11_window_manager_with_windows_3_1) - [HOTDOG: X11 Window Manager with Windows 3.1 Hot Dog Stand, Mac Classic and Aqua UI](https://github.com/arthurchoung/HOTDOG)
 * [2025-02-12, 03:34:19](https://lobste.rs/s/g95qvp/jj_cheat_sheet) - [JJ cheat sheet](https://justinpombrio.net/2025/02/11/jj-cheat-sheet.html)
 * [2025-02-11, 22:48:53](https://lobste.rs/s/ttfywn/42links_bookmarking_server_written_lisp) - [42links: A bookmarking server, written in Lisp](https://code.rosaelefanten.org/42links)
-* [2025-02-11, 20:42:46](https://lobste.rs/s/g8qbl7/writing_my_own_dithering_algorithm) - [Writing my own dithering algorithm in Racket](https://amanvir.com/blog/writing-my-own-dithering-algorithm-in-racket)
 
 ## [Archives](archives/index.md)
 
