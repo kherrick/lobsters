@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-02-13, 16:02:20",
+      "https://lobste.rs/s/onehu6/compiling_array_languages_for_simd"
+    ],
+    [
+      "Compiling Array Languages for SIMD",
+      "http://vmchale.com/static/serve/simd.pdf"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 15:57:01",
       "https://lobste.rs/s/zck7bo/resigning_as_asahi_linux_project_lead"
     ],
@@ -217,16 +227,6 @@
     [
       "Are Efficiency and Horizontal Scalability at odds?",
       "https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 17:15:03",
-      "https://lobste.rs/s/rqptfo/skip_reactive_framework_code"
-    ],
-    [
-      "Skip: A reactive framework to code declaratively and compute continuously",
-      "https://skiplabs.io/"
     ]
   ],
   [
