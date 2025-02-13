@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-02-13, 16:02:20",
-      "https://lobste.rs/s/onehu6/compiling_array_languages_for_simd"
+      "2025-02-13, 16:18:32",
+      "https://lobste.rs/s/ulr1pl/accelerating_adoption_post_quantum"
     ],
     [
-      "Compiling Array Languages for SIMD",
-      "http://vmchale.com/static/serve/simd.pdf"
+      "Accelerating The Adoption of Post-Quantum Cryptography with PHP",
+      "https://paragonie.com/blog/2025/02/accelerating-adoption-post-quantum-cryptography"
+    ]
+  ],
+  [
+    [
+      "2025-02-13, 15:57:01",
+      "https://lobste.rs/s/zck7bo/resigning_as_asahi_linux_project_lead"
+    ],
+    [
+      "Resigning as Asahi Linux project lead",
+      "https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/"
     ]
   ],
   [
@@ -87,16 +97,6 @@
     [
       "Why cryptography is not based on NP-complete problems",
       "https://blintzbase.com/posts/cryptography-is-not-based-on-np-hard-problems"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 09:33:34",
-      "https://lobste.rs/s/6vgomj/multi_files_fixes_elm_review"
-    ],
-    [
-      "Multi-files fixes in elm-review",
-      "https://jfmengels.net"
     ]
   ],
   [
