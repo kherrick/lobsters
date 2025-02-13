@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-13, 17:26:48",
+      "https://lobste.rs/s/1fc9yq/role_composition_computer_programming"
+    ],
+    [
+      "Role of Composition in Computer Programming (1995)",
+      "https://dl.acm.org/doi/epdf/10.1145/206944.206985"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 16:18:32",
       "https://lobste.rs/s/ulr1pl/accelerating_adoption_post_quantum"
     ],
@@ -237,16 +247,6 @@
     [
       "ouch: Painless compression and decompression in the terminal",
       "https://github.com/ouch-org/ouch"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 10:33:54",
-      "https://lobste.rs/s/563zjp/how_does_linux_machine_connect_internet"
-    ],
-    [
-      "How does a Linux machine connect to the internet, really?",
-      "https://pjg1.site/linux-internet-from-scratch"
     ]
   ]
 ]
