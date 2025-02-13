@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-13, 10:53:14",
+      "https://lobste.rs/s/bfvovo/devenv_1_4_generating_nix_developer"
+    ],
+    [
+      "devenv 1.4: Generating Nix Developer Environments Using AI",
+      "https://devenv.sh/blog/2025/02/13/devenv-14-generating-nix-developer-environments-using-ai/"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 10:20:46",
       "https://lobste.rs/s/ieicfy/homemade_polarimetric_synthetic"
     ],
@@ -167,16 +177,6 @@
     [
       "Your Network, Your Rules: Take Charge With Own DNS",
       "https://dzone.com/articles/private-dns-nameserver"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 18:01:50",
-      "https://lobste.rs/s/quhtak/do_you_use_debugger"
-    ],
-    [
-      "Do you use a debugger?",
-      "https://www.sandordargo.com/blog/2025/02/12/do-you-use-a-debugger"
     ]
   ],
   [
