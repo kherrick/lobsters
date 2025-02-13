@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
 * [2025-02-13, 07:57:14](https://lobste.rs/s/fcokyj/llms_do_not_break_interviews) - [LLMs Do Not Break Interviews](https://blog.sulami.xyz/posts/llm-interviews/)
+* [2025-02-13, 06:59:47](https://lobste.rs/s/pnq8vs/flac_1_5_0_released) - [FLAC 1.5.0 released](https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html)
 * [2025-02-13, 06:03:23](https://lobste.rs/s/zaubhd/engineers_who_won_t_commit_force_bad) - [Engineers who won’t commit force bad decisions](https://www.seangoedecke.com/taking-a-position/)
 * [2025-02-13, 05:27:57](https://lobste.rs/s/mfpevw/old_c_dog_new_c_tricks_null_ptr) - [Old C dog, new C tricks: NULL != ptr](https://subethasoftware.com/2025/02/12/old-c-dog-new-c-tricks-null-ptr/)
 * [2025-02-13, 03:04:42](https://lobste.rs/s/qevhmh/ghostbsd_pkg_8_repository_on_freebsd) - [GhostBSD pkg(8) Repository on FreeBSD](https://vermaden.wordpress.com/2025/02/13/ghostbsd-pkg-repository-on-freebsd/)
