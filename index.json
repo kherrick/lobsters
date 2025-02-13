@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-13, 13:25:09",
+      "https://lobste.rs/s/doxlbs/random_numbers_from_pcg32_at_200_gbit_s"
+    ],
+    [
+      "random numbers from pcg32 at 200 Gbit/s",
+      "https://dotat.at/@/2025-02-13-pcg32-simd.html"
+    ]
+  ],
+  [
+    [
       "2025-02-13, 12:55:45",
       "https://lobste.rs/s/iwiwye/reassessing_wayland"
     ],
@@ -107,16 +117,6 @@
     [
       "Engineers who won’t commit force bad decisions",
       "https://www.seangoedecke.com/taking-a-position/"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 05:27:57",
-      "https://lobste.rs/s/mfpevw/old_c_dog_new_c_tricks_null_ptr"
-    ],
-    [
-      "Old C dog, new C tricks: NULL != ptr",
-      "https://subethasoftware.com/2025/02/12/old-c-dog-new-c-tricks-null-ptr/"
     ]
   ],
   [
