@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-13](index.md)
 
+* [2025-02-13, 17:30:42](https://lobste.rs/s/vvky3g/2024_state_rust_survey_results) - [2024 State of Rust Survey Results](https://blog.rust-lang.org/2025/02/13/2024-State-Of-Rust-Survey-results.html)
 * [2025-02-13, 16:47:03](https://lobste.rs/s/mggy9m/marcan_resigns_as_asahi_linux_project) - [Marcan Resigns as Asahi Linux project lead](https://asahilinux.org/2025/02/passing-the-torch/)
 * [2025-02-13, 16:18:32](https://lobste.rs/s/ulr1pl/accelerating_adoption_post_quantum) - [Accelerating The Adoption of Post-Quantum Cryptography with PHP](https://paragonie.com/blog/2025/02/accelerating-adoption-post-quantum-cryptography)
 * [2025-02-13, 16:02:20](https://lobste.rs/s/onehu6/compiling_array_languages_for_simd) - [Compiling Array Languages for SIMD](http://vmchale.com/static/serve/simd.pdf)
