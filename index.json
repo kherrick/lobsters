@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-14, 13:30:54",
+      "https://lobste.rs/s/krgcvz/how_do_modern_compilers_choose_which"
+    ],
+    [
+      "How do modern compilers choose which variables to put in registers?",
+      "https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 12:52:39",
       "https://lobste.rs/s/g1lc5p/exposing_concurrency_bugs_with_custom"
     ],
@@ -17,16 +27,6 @@
     [
       "Hickory DNS is moving toward production readiness",
       "https://www.memorysafety.org/blog/hickory-update-2025/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 12:38:32",
-      "https://lobste.rs/s/gm5vhq/ocaml_gadts_for_authentication_tokens"
-    ],
-    [
-      "OCaml GADTs for Authentication Tokens",
-      "https://dev.to/maxim092001/ocaml-gadts-for-authentication-tokens-57be"
     ]
   ],
   [
