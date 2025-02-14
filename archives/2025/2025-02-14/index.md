@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 10:08:49](https://lobste.rs/s/avgg49/solving_discretised_shallow_water) - [Solving the discretised shallow water equations using neural networks](https://www.sciencedirect.com/science/article/pii/S030917082500017X)
 * [2025-02-14, 09:10:08](https://lobste.rs/s/mwhpgb/launching_interop_2025) - [Launching Interop 2025](https://hacks.mozilla.org/2025/02/interop-2025/)
 * [2025-02-14, 08:55:41](https://lobste.rs/s/p4bcxv/impact_generative_ai_on_critical) - [The Impact of Generative AI on Critical Thinking](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-02-14, 08:12:45](https://lobste.rs/s/ix5qtf/custom_asserts_llvm) - [Custom asserts in LLVM](https://www.neilhenning.dev/posts/custom-asserts-in-llvm/)
