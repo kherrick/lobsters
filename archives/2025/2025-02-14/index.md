@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 18:01:13](https://lobste.rs/s/1f3pfu/20_year_old_psp_can_now_connect_wpa2_wifi) - [The 20 year old PSP can now connect to WPA2 Wifi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
 * [2025-02-14, 17:20:51](https://lobste.rs/s/ixnc7d/first_analysis_apple_s_usb_restricted) - [First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)](https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html)
 * [2025-02-14, 16:49:22](https://lobste.rs/s/vi1w3j/why_your_client_types_should_derive_from) - [Why Your Client Types Should Derive from Queries and Fragments — Not the Schema](https://medium.com/graphql-guide/why-your-client-types-should-derive-from-queries-and-fragments-not-the-schema-065faf9667b4)
 * [2025-02-14, 16:36:43](https://lobste.rs/s/ptdwca/haiku_activity_contract_report_january) - [Haiku Activity & Contract Report, January 2025](https://www.haiku-os.org/blog/waddlesplash/2025-02-10-haiku_activity_contract_report_january_2025/)
