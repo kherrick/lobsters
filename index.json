@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-14, 10:46:14",
+      "https://lobste.rs/s/9scmw4/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/9scmw4/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 10:08:49",
       "https://lobste.rs/s/avgg49/solving_discretised_shallow_water"
     ],
@@ -137,16 +147,6 @@
     [
       "Explaining my fast 6502 code generator",
       "https://pubby.games/codegen.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 13:25:09",
-      "https://lobste.rs/s/doxlbs/random_numbers_from_pcg32_at_200_gbit_s"
-    ],
-    [
-      "random numbers from pcg32 at 200 Gbit/s",
-      "https://dotat.at/@/2025-02-13-pcg32-simd.html"
     ]
   ],
   [
