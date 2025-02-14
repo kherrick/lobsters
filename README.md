@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-14, 12:52:39](https://lobste.rs/s/g1lc5p/exposing_concurrency_bugs_with_custom) - [Exposing concurrency bugs with a custom scheduler [LWN.net]](https://lwn.net/Articles/1007689/)
+* [2025-02-14, 12:52:39](https://lobste.rs/s/g1lc5p/exposing_concurrency_bugs_with_custom) - [Exposing concurrency bugs with a custom scheduler](https://lwn.net/Articles/1007689/)
 * [2025-02-14, 12:41:46](https://lobste.rs/s/qk4qpt/hickory_dns_is_moving_toward_production) - [Hickory DNS is moving toward production readiness](https://www.memorysafety.org/blog/hickory-update-2025/)
 * [2025-02-14, 12:38:32](https://lobste.rs/s/gm5vhq/ocaml_gadts_for_authentication_tokens) - [OCaml GADTs for Authentication Tokens](https://dev.to/maxim092001/ocaml-gadts-for-authentication-tokens-57be)
 * [2025-02-14, 11:53:38](https://lobste.rs/s/ei9qpl/switching_on_strings_zig) - [Switching on Strings in Zig](https://www.openmymind.net/Switching-On-Strings-In-Zig/)
