@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-14, 15:48:40",
+      "https://lobste.rs/s/rrkfuj/hosting_multiple_websites_under_one"
+    ],
+    [
+      "Hosting Multiple Websites Under One NearlyFreeSpeech Site",
+      "https://btxx.org/posts/nfs-multiple-websites/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 15:41:50",
+      "https://lobste.rs/s/t1enph/siren_call_sqlite_on_server"
+    ],
+    [
+      "Siren Call of SQLite on the Server",
+      "https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 14:36:10",
       "https://lobste.rs/s/ooioeg/xor"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-02-13, 16:02:20",
-      "https://lobste.rs/s/onehu6/compiling_array_languages_for_simd"
-    ],
-    [
-      "Compiling Array Languages for SIMD",
-      "http://vmchale.com/static/serve/simd.pdf"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 15:57:01",
       "https://lobste.rs/s/zck7bo/resigning_as_asahi_linux_project_lead"
     ],
@@ -237,16 +247,6 @@
     [
       "A Descent Into the Vᴏ̈ʀᴛᴇx",
       "https://tigerbeetle.com/blog/2025-02-13-a-descent-into-the-vortex/"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 10:53:14",
-      "https://lobste.rs/s/bfvovo/devenv_1_4_generating_nix_developer"
-    ],
-    [
-      "devenv 1.4: Generating Nix Developer Environments Using AI",
-      "https://devenv.sh/blog/2025/02/13/devenv-14-generating-nix-developer-environments-using-ai/"
     ]
   ]
 ]
