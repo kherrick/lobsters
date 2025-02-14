@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-02-14, 17:20:51",
+      "https://lobste.rs/s/ixnc7d/first_analysis_apple_s_usb_restricted"
+    ],
+    [
+      "First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)",
+      "https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 16:49:22",
+      "https://lobste.rs/s/vi1w3j/why_your_client_types_should_derive_from"
+    ],
+    [
+      "Why Your Client Types Should Derive from Queries and Fragments — Not the Schema",
+      "https://medium.com/graphql-guide/why-your-client-types-should-derive-from-queries-and-fragments-not-the-schema-065faf9667b4"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 16:36:43",
+      "https://lobste.rs/s/ptdwca/haiku_activity_contract_report_january"
+    ],
+    [
+      "Haiku Activity & Contract Report, January 2025",
+      "https://www.haiku-os.org/blog/waddlesplash/2025-02-10-haiku_activity_contract_report_january_2025/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 16:17:02",
       "https://lobste.rs/s/iypstr/simple_declarative_schema_migration_for"
     ],
@@ -47,16 +77,6 @@
     [
       "Extensible Wasm Applications with Go",
       "https://go.dev/blog/wasmexport"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 13:59:21",
-      "https://lobste.rs/s/g50qvl/how_build_your_own_mcp_server"
-    ],
-    [
-      "How to build your own MCP server?",
-      "https://www.devshorts.in/p/how-to-build-your-own-mcp-server"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-02-13, 22:52:02",
-      "https://lobste.rs/s/3p049a/tsforge"
-    ],
-    [
-      "TSforge",
-      "https://massgrave.dev/blog/tsforge"
-    ]
-  ],
-  [
-    [
       "2025-02-13, 20:23:35",
       "https://lobste.rs/s/oafv9d/on_jujutsu_magit_experience_report"
     ],
@@ -227,16 +237,6 @@
     [
       "Reassessing Wayland",
       "https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 12:50:15",
-      "https://lobste.rs/s/fw48of/algebraic_effects_are_functional"
-    ],
-    [
-      "Algebraic effects are a functional approach to manage side effects",
-      "http://crowdhailer.me/2025-02-06/programs-dont-kill-people-computers-do/"
     ]
   ],
   [
