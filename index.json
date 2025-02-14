@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-02-14, 09:10:08",
+      "https://lobste.rs/s/mwhpgb/launching_interop_2025"
+    ],
+    [
+      "Launching Interop 2025",
+      "https://hacks.mozilla.org/2025/02/interop-2025/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 08:12:45",
       "https://lobste.rs/s/ix5qtf/custom_asserts_llvm"
     ],
@@ -237,16 +247,6 @@
     [
       "Tiny JITs for a Faster FFI",
       "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/"
-    ]
-  ],
-  [
-    [
-      "2025-02-12, 21:02:12",
-      "https://lobste.rs/s/l5a9uh/you_don_t_link_all_libc"
-    ],
-    [
-      "you don't link all of libc",
-      "https://flak.tedunangst.com/post/you-dont-link-all-of-libc"
     ]
   ]
 ]
