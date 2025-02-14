@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-14, 04:57:57](https://lobste.rs/s/bwzc42/terminader_merging_finder_terminal) - [Terminader: merging the Finder and Terminal](https://github.com/shuang886/Terminader)
+* [2025-02-14, 02:45:12](https://lobste.rs/s/jwbutw/on_bloat) - [On Bloat](https://commandcenter.blogspot.com/2025/02/on-bloat-these-are-slides-from-talk-i.html)
 * [2025-02-14, 00:10:43](https://lobste.rs/s/wpdszw/shot_scraper_1_6_with_support_for_http) - [shot-scraper 1.6 with support for HTTP Archives](https://simonwillison.net/2025/Feb/13/shot-scraper/)
 * [2025-02-13, 22:52:02](https://lobste.rs/s/3p049a/tsforge) - [TSforge](https://massgrave.dev/blog/tsforge)
 * [2025-02-13, 21:59:22](https://lobste.rs/s/z4q3un/prototyping_machine_deployment_tool) - [Prototyping a machine deployment tool with Spritely Goblins](https://www.terracrypt.net/posts/gobs-of-machines.html)
