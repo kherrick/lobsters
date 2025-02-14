@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 11:53:38](https://lobste.rs/s/ei9qpl/switching_on_strings_zig) - [Switching on Strings in Zig](https://www.openmymind.net/Switching-On-Strings-In-Zig/)
 * [2025-02-14, 11:43:09](https://lobste.rs/s/t2zu6j/tiny_book_great_joys) - [The Tiny Book  of Great Joys](https://muffinman.io/blog/the-tiny-book-of-great-joys/)
 * [2025-02-14, 11:18:26](https://lobste.rs/s/zbb947/zed_now_predicts_next_edit_with_new_open) - [Zed now predicts next edit with new open model](https://zed.dev/blog/edit-prediction)
 * [2025-02-14, 10:56:07](https://lobste.rs/s/qr5vww/unix_operating_system_is_ide_2021) - [The UNIX Operating System is an IDE (2021)](https://0x19.org/posts/2021-12-04.php)
