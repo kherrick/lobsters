@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 12:52:39](https://lobste.rs/s/g1lc5p/exposing_concurrency_bugs_with_custom) - [Exposing concurrency bugs with a custom scheduler [LWN.net]](https://lwn.net/Articles/1007689/)
+* [2025-02-14, 12:41:46](https://lobste.rs/s/qk4qpt/hickory_dns_is_moving_toward_production) - [Hickory DNS is moving toward production readiness](https://www.memorysafety.org/blog/hickory-update-2025/)
+* [2025-02-14, 12:38:32](https://lobste.rs/s/gm5vhq/ocaml_gadts_for_authentication_tokens) - [OCaml GADTs for Authentication Tokens](https://dev.to/maxim092001/ocaml-gadts-for-authentication-tokens-57be)
 * [2025-02-14, 11:53:38](https://lobste.rs/s/ei9qpl/switching_on_strings_zig) - [Switching on Strings in Zig](https://www.openmymind.net/Switching-On-Strings-In-Zig/)
 * [2025-02-14, 11:43:09](https://lobste.rs/s/t2zu6j/tiny_book_great_joys) - [The Tiny Book  of Great Joys](https://muffinman.io/blog/the-tiny-book-of-great-joys/)
 * [2025-02-14, 11:18:26](https://lobste.rs/s/zbb947/zed_now_predicts_next_edit_with_new_open) - [Zed now predicts next edit with new open model](https://zed.dev/blog/edit-prediction)
