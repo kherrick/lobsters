@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-02-14](index.md)
+
+* [2025-02-14, 00:10:43](https://lobste.rs/s/wpdszw/shot_scraper_1_6_with_support_for_http) - [shot-scraper 1.6 with support for HTTP Archives](https://simonwillison.net/2025/Feb/13/shot-scraper/)

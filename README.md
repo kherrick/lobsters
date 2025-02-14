@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-14, 00:10:43](https://lobste.rs/s/wpdszw/shot_scraper_1_6_with_support_for_http) - [shot-scraper 1.6 with support for HTTP Archives](https://simonwillison.net/2025/Feb/13/shot-scraper/)
 * [2025-02-13, 22:52:02](https://lobste.rs/s/3p049a/tsforge) - [TSforge](https://massgrave.dev/blog/tsforge)
 * [2025-02-13, 21:59:22](https://lobste.rs/s/z4q3un/prototyping_machine_deployment_tool) - [Prototyping a machine deployment tool with Spritely Goblins](https://www.terracrypt.net/posts/gobs-of-machines.html)
 * [2025-02-13, 20:51:42](https://lobste.rs/s/mq0dzt/challenges_developers_face_creating_api) - [Challenges Developers Face in Creating API and Code Documentation](https://www.coderabbit.ai/blog/challenges-developers-face-in-creating-api-and-code-documentation)
@@ -24,7 +25,6 @@
 * [2025-02-12, 22:31:10](https://lobste.rs/s/2jgv7x/how_i_automated_my_computer_life_with) - [How I Automated My Computer Life With macOS Folder Actions](https://interfacecraft.online/posts/blog/2025/how-i-automated-my-computer-life-with-macos-folder-actions/)
 * [2025-02-12, 21:02:12](https://lobste.rs/s/l5a9uh/you_don_t_link_all_libc) - [you don't link all of libc](https://flak.tedunangst.com/post/you-dont-link-all-of-libc)
 * [2025-02-12, 19:02:46](https://lobste.rs/s/1o4dtp/smuggling_arbitrary_data_through_emoji) - [Smuggling arbitrary data through an emoji](https://paulbutler.org/2025/smuggling-arbitrary-data-through-an-emoji/)
-* [2025-02-12, 18:25:55](https://lobste.rs/s/5akiq3/are_efficiency_horizontal_scalability) - [Are Efficiency and Horizontal Scalability at odds?](https://buttondown.com/hillelwayne/archive/are-efficiency-and-horizontal-scalability-at-odds/)
 
 ## [Archives](archives/index.md)
 
