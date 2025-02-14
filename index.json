@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-02-14, 14:06:57",
+      "https://lobste.rs/s/vgp9s7/extensible_wasm_applications_with_go"
+    ],
+    [
+      "Extensible Wasm Applications with Go",
+      "https://go.dev/blog/wasmexport"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 13:59:21",
       "https://lobste.rs/s/g50qvl/how_build_your_own_mcp_server"
     ],
@@ -167,16 +177,6 @@
     [
       "TSforge",
       "https://massgrave.dev/blog/tsforge"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 20:34:44",
-      "https://lobste.rs/s/ndcuhz/how_add_directory_your_path"
-    ],
-    [
-      "How to add a directory to your PATH",
-      "https://jvns.ca/blog/2025/02/13/how-to-add-a-directory-to-your-path/"
     ]
   ],
   [
