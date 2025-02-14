@@ -6,6 +6,7 @@
 * [2025-02-14, 10:56:07](https://lobste.rs/s/qr5vww/unix_operating_system_is_ide_2021) - [The UNIX Operating System is an IDE (2021)](https://0x19.org/posts/2021-12-04.php)
 * [2025-02-14, 10:46:14](https://lobste.rs/s/9scmw4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9scmw4/what_are_you_doing_this_weekend)
 * [2025-02-14, 09:10:08](https://lobste.rs/s/mwhpgb/launching_interop_2025) - [Launching Interop 2025](https://hacks.mozilla.org/2025/02/interop-2025/)
+* [2025-02-14, 08:55:41](https://lobste.rs/s/p4bcxv/impact_generative_ai_on_critical) - [The Impact of Generative AI on Critical Thinking](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-02-14, 08:12:45](https://lobste.rs/s/ix5qtf/custom_asserts_llvm) - [Custom asserts in LLVM](https://www.neilhenning.dev/posts/custom-asserts-in-llvm/)
 * [2025-02-14, 04:57:57](https://lobste.rs/s/bwzc42/terminader_merging_finder_terminal) - [Terminader: merging the Finder and Terminal](https://github.com/shuang886/Terminader)
 * [2025-02-14, 02:51:31](https://lobste.rs/s/rvhull/atkinson_hyperlegible_next_atkinson) - [Atkinson Hyperlegible Next and Atkinson Hyperlegible Mono](https://www.brailleinstitute.org/freefont/)
@@ -20,11 +21,10 @@
 * [2025-02-13, 16:02:20](https://lobste.rs/s/onehu6/compiling_array_languages_for_simd) - [Compiling Array Languages for SIMD](http://vmchale.com/static/serve/simd.pdf)
 * [2025-02-13, 15:57:01](https://lobste.rs/s/zck7bo/resigning_as_asahi_linux_project_lead) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
 * [2025-02-13, 12:55:45](https://lobste.rs/s/iwiwye/reassessing_wayland) - [Reassessing Wayland](https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html)
-* [2025-02-13, 12:50:15](https://lobste.rs/s/fw48of/programs_don_t_kill_people_computers_do) - [Programs don't kill people, computers do](http://crowdhailer.me/2025-02-06/programs-dont-kill-people-computers-do/)
+* [2025-02-13, 12:50:15](https://lobste.rs/s/fw48of/algebraic_effects_are_functional) - [Algebraic effects are a functional approach to manage side effects](http://crowdhailer.me/2025-02-06/programs-dont-kill-people-computers-do/)
 * [2025-02-13, 12:36:49](https://lobste.rs/s/z1xro4/descent_into_v_x) - [A Descent Into the Vᴏ̈ʀᴛᴇx](https://tigerbeetle.com/blog/2025-02-13-a-descent-into-the-vortex/)
 * [2025-02-13, 11:48:58](https://lobste.rs/s/jmjqin/build_your_own_github_codespaces) - [Build Your Own GitHub Codespaces Alternative in 222 Lines of Pulumi](https://devcontainer.community/20250213-pulumi/)
 * [2025-02-13, 10:53:14](https://lobste.rs/s/bfvovo/devenv_1_4_generating_nix_developer) - [devenv 1.4: Generating Nix Developer Environments Using AI](https://devenv.sh/blog/2025/02/13/devenv-14-generating-nix-developer-environments-using-ai/)
-* [2025-02-13, 06:59:47](https://lobste.rs/s/pnq8vs/flac_1_5_0_released) - [FLAC 1.5.0 released](https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html)
 
 ## [Archives](archives/index.md)
 
