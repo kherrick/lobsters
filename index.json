@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-14, 11:43:09",
+      "https://lobste.rs/s/t2zu6j/tiny_book_great_joys"
+    ],
+    [
+      "The Tiny Book  of Great Joys",
+      "https://muffinman.io/blog/the-tiny-book-of-great-joys/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 11:18:26",
       "https://lobste.rs/s/zbb947/zed_now_predicts_next_edit_with_new_open"
     ],
@@ -237,16 +247,6 @@
     [
       "FLAC 1.5.0 released",
       "https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 00:22:25",
-      "https://lobste.rs/s/y95hnw/tiny_jits_for_faster_ffi"
-    ],
-    [
-      "Tiny JITs for a Faster FFI",
-      "https://railsatscale.com/2025-02-12-tiny-jits-for-a-faster-ffi/"
     ]
   ]
 ]
