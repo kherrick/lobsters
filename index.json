@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-14, 08:12:45",
+      "https://lobste.rs/s/ix5qtf/custom_asserts_llvm"
+    ],
+    [
+      "Custom asserts in LLVM",
+      "https://www.neilhenning.dev/posts/custom-asserts-in-llvm/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 04:57:57",
       "https://lobste.rs/s/bwzc42/terminader_merging_finder_terminal"
     ],
@@ -97,16 +107,6 @@
     [
       "2024 State of Rust Survey Results",
       "https://blog.rust-lang.org/2025/02/13/2024-State-Of-Rust-Survey-results.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 16:18:32",
-      "https://lobste.rs/s/ulr1pl/accelerating_adoption_post_quantum"
-    ],
-    [
-      "Accelerating The Adoption of Post-Quantum Cryptography with PHP",
-      "https://paragonie.com/blog/2025/02/accelerating-adoption-post-quantum-cryptography"
     ]
   ],
   [
