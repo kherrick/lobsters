@@ -51,16 +51,6 @@
   ],
   [
     [
-      "2025-02-14, 12:52:39",
-      "https://lobste.rs/s/g1lc5p/exposing_concurrency_bugs_with_custom"
-    ],
-    [
-      "Exposing concurrency bugs with a custom scheduler",
-      "https://lwn.net/Articles/1007689/"
-    ]
-  ],
-  [
-    [
       "2025-02-14, 12:41:46",
       "https://lobste.rs/s/qk4qpt/hickory_dns_is_moving_toward_production"
     ],
@@ -77,6 +67,16 @@
     [
       "Switching on Strings in Zig",
       "https://www.openmymind.net/Switching-On-Strings-In-Zig/"
+    ]
+  ],
+  [
+    [
+      "2025-02-14, 11:43:09",
+      "https://lobste.rs/s/t2zu6j/tiny_book_great_joys"
+    ],
+    [
+      "The Tiny Book  of Great Joys",
+      "https://muffinman.io/blog/the-tiny-book-of-great-joys/"
     ]
   ],
   [
@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-02-14, 08:12:45",
+      "https://lobste.rs/s/ix5qtf/custom_asserts_llvm"
+    ],
+    [
+      "Custom asserts in LLVM",
+      "https://www.neilhenning.dev/posts/custom-asserts-in-llvm/"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 04:57:57",
       "https://lobste.rs/s/bwzc42/terminader_merging_finder_terminal"
     ],
@@ -157,16 +167,6 @@
     [
       "TSforge",
       "https://massgrave.dev/blog/tsforge"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 21:59:22",
-      "https://lobste.rs/s/z4q3un/prototyping_machine_deployment_tool"
-    ],
-    [
-      "Prototyping a machine deployment tool with Spritely Goblins",
-      "https://www.terracrypt.net/posts/gobs-of-machines.html"
     ]
   ],
   [
