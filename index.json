@@ -61,6 +61,16 @@
   ],
   [
     [
+      "2025-02-14, 08:55:41",
+      "https://lobste.rs/s/p4bcxv/impact_generative_ai_on_critical"
+    ],
+    [
+      "The Impact of Generative AI on Critical Thinking",
+      "https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf"
+    ]
+  ],
+  [
+    [
       "2025-02-14, 08:12:45",
       "https://lobste.rs/s/ix5qtf/custom_asserts_llvm"
     ],
@@ -202,10 +212,10 @@
   [
     [
       "2025-02-13, 12:50:15",
-      "https://lobste.rs/s/fw48of/programs_don_t_kill_people_computers_do"
+      "https://lobste.rs/s/fw48of/algebraic_effects_are_functional"
     ],
     [
-      "Programs don't kill people, computers do",
+      "Algebraic effects are a functional approach to manage side effects",
       "http://crowdhailer.me/2025-02-06/programs-dont-kill-people-computers-do/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "devenv 1.4: Generating Nix Developer Environments Using AI",
       "https://devenv.sh/blog/2025/02/13/devenv-14-generating-nix-developer-environments-using-ai/"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 06:59:47",
-      "https://lobste.rs/s/pnq8vs/flac_1_5_0_released"
-    ],
-    [
-      "FLAC 1.5.0 released",
-      "https://xiph.org/flac/2025/02/11/flac-1-5-0-released.html"
     ]
   ]
 ]
