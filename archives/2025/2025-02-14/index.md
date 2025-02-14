@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 04:57:57](https://lobste.rs/s/bwzc42/terminader_merging_finder_terminal) - [Terminader: merging the Finder and Terminal](https://github.com/shuang886/Terminader)
 * [2025-02-14, 00:10:43](https://lobste.rs/s/wpdszw/shot_scraper_1_6_with_support_for_http) - [shot-scraper 1.6 with support for HTTP Archives](https://simonwillison.net/2025/Feb/13/shot-scraper/)
