@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-14](index.md)
 
+* [2025-02-14, 14:06:57](https://lobste.rs/s/vgp9s7/extensible_wasm_applications_with_go_go) - [Extensible Wasm Applications with Go - The Go Programming Language](https://go.dev/blog/wasmexport)
 * [2025-02-14, 13:59:21](https://lobste.rs/s/g50qvl/how_build_your_own_mcp_server) - [How to build your own MCP server?](https://www.devshorts.in/p/how-to-build-your-own-mcp-server)
 * [2025-02-14, 13:30:54](https://lobste.rs/s/krgcvz/how_do_modern_compilers_choose_which) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
 * [2025-02-14, 12:52:39](https://lobste.rs/s/g1lc5p/exposing_concurrency_bugs_with_custom) - [Exposing concurrency bugs with a custom scheduler [LWN.net]](https://lwn.net/Articles/1007689/)

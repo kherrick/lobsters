@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-14, 14:06:57](https://lobste.rs/s/vgp9s7/extensible_wasm_applications_with_go_go) - [Extensible Wasm Applications with Go - The Go Programming Language](https://go.dev/blog/wasmexport)
 * [2025-02-14, 13:59:21](https://lobste.rs/s/g50qvl/how_build_your_own_mcp_server) - [How to build your own MCP server?](https://www.devshorts.in/p/how-to-build-your-own-mcp-server)
 * [2025-02-14, 13:30:54](https://lobste.rs/s/krgcvz/how_do_modern_compilers_choose_which) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
 * [2025-02-14, 12:52:39](https://lobste.rs/s/g1lc5p/exposing_concurrency_bugs_with_custom) - [Exposing concurrency bugs with a custom scheduler](https://lwn.net/Articles/1007689/)
@@ -8,7 +9,6 @@
 * [2025-02-14, 11:18:26](https://lobste.rs/s/zbb947/zed_now_predicts_next_edit_with_new_open) - [Zed now predicts next edit with new open model](https://zed.dev/blog/edit-prediction)
 * [2025-02-14, 10:56:07](https://lobste.rs/s/qr5vww/unix_operating_system_is_ide_2021) - [The UNIX Operating System is an IDE (2021)](https://0x19.org/posts/2021-12-04.php)
 * [2025-02-14, 10:46:14](https://lobste.rs/s/9scmw4/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/9scmw4/what_are_you_doing_this_weekend)
-* [2025-02-14, 09:10:08](https://lobste.rs/s/mwhpgb/launching_interop_2025) - [Launching Interop 2025](https://hacks.mozilla.org/2025/02/interop-2025/)
 * [2025-02-14, 08:55:41](https://lobste.rs/s/p4bcxv/impact_generative_ai_on_critical) - [The Impact of Generative AI on Critical Thinking](https://www.microsoft.com/en-us/research/uploads/prod/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-02-14, 04:57:57](https://lobste.rs/s/bwzc42/terminader_merging_finder_terminal) - [Terminader: merging the Finder and Terminal](https://github.com/shuang886/Terminader)
 * [2025-02-14, 02:51:31](https://lobste.rs/s/rvhull/atkinson_hyperlegible_next_atkinson) - [Atkinson Hyperlegible Next and Atkinson Hyperlegible Mono](https://www.brailleinstitute.org/freefont/)
