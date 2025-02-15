@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 17:09:48](https://lobste.rs/s/oqfmhj/roomy_deep_dive_atproto_automerge) - [Roomy Deep Dive: ATProto + Automerge](https://blog.muni.town/roomy-deep-dive/)
 * [2025-02-15, 16:36:50](https://lobste.rs/s/9kehva/transient_feed_aggregator_built_with) - [A transient feed aggregator built with Gleam](https://github.com/facundoolano/news.olano.dev)
 * [2025-02-15, 16:18:34](https://lobste.rs/s/pgwyrc/announcing_interop_2025) - [Announcing Interop 2025](https://webkit.org/blog/16458/announcing-interop-2025/)
 * [2025-02-15, 15:47:52](https://lobste.rs/s/gnjfai/how_diablo_hackers_uncovered_speedrun) - [How Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)

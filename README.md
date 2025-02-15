@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-15, 17:09:48](https://lobste.rs/s/oqfmhj/roomy_deep_dive_atproto_automerge) - [Roomy Deep Dive: ATProto + Automerge](https://blog.muni.town/roomy-deep-dive/)
 * [2025-02-15, 16:36:50](https://lobste.rs/s/9kehva/transient_feed_aggregator_built_with) - [A transient feed aggregator built with Gleam](https://github.com/facundoolano/news.olano.dev)
 * [2025-02-15, 16:18:34](https://lobste.rs/s/pgwyrc/announcing_interop_2025) - [Announcing Interop 2025](https://webkit.org/blog/16458/announcing-interop-2025/)
 * [2025-02-15, 15:47:52](https://lobste.rs/s/gnjfai/how_diablo_hackers_uncovered_speedrun) - [How Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
@@ -9,7 +10,6 @@
 * [2025-02-15, 10:59:54](https://lobste.rs/s/lw5dea/8088_mph_final_old_vs_new_cga_other_gory) - [8088 MPH Final: Old vs. New CGA (and Other Gory Details) (2015)](https://int10h.org/blog/2015/08/8088-mph-final-old-vs-new-cga-gory-details/)
 * [2025-02-15, 10:42:14](https://lobste.rs/s/wmtpwf/agit_flow_git_repo) - [Agit-Flow and git-repo](https://git-repo.info/en/2020/03/agit-flow-and-git-repo/)
 * [2025-02-15, 09:36:53](https://lobste.rs/s/tx5ro4/ai_is_stifling_tech_adoption) - [AI is Stifling Tech Adoption](https://vale.rocks/posts/ai-is-stifling-tech-adoption)
-* [2025-02-15, 09:34:12](https://lobste.rs/s/2ff7tv/building_fault_tolerant_reverse_proxy) - [Building a fault-tolerant reverse proxy with FreeBSD](https://www.subnetspider.com/2025/01/22/building-a-fault-tolerant-reverse-proxy-with-freebsd.html)
 * [2025-02-15, 05:48:50](https://lobste.rs/s/qj5sba/leaking_email_any_youtube_user_for_10_000) - [Leaking the email of any YouTube user for $10,000](https://brutecat.com/articles/leaking-youtube-emails)
 * [2025-02-15, 00:02:05](https://lobste.rs/s/abkeck/hardest_working_font_manhattan) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2025-02-14, 21:21:03](https://lobste.rs/s/rsuopk/tex_typst_layout_models) - [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
