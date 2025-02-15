@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-15, 16:36:50](https://lobste.rs/s/9kehva/transient_feed_aggregator_built_with) - [A transient feed aggregator built with Gleam](https://github.com/facundoolano/news.olano.dev)
 * [2025-02-15, 16:18:34](https://lobste.rs/s/pgwyrc/announcing_interop_2025) - [Announcing Interop 2025](https://webkit.org/blog/16458/announcing-interop-2025/)
 * [2025-02-15, 15:47:52](https://lobste.rs/s/gnjfai/how_diablo_hackers_uncovered_speedrun) - [How Diablo hackers uncovered a speedrun scandal](https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/)
 * [2025-02-15, 15:25:32](https://lobste.rs/s/2az6nf/parallel_random_numbers_as_easy_as_1_2_3) - [Parallel Random Numbers: As Easy as 1, 2, 3](https://www.thesalmons.org/john/random123/papers/random123sc11.pdf)
@@ -19,7 +20,6 @@
 * [2025-02-14, 15:41:50](https://lobste.rs/s/t1enph/siren_call_sqlite_on_server) - [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
 * [2025-02-14, 14:36:10](https://lobste.rs/s/ooioeg/xor) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
 * [2025-02-14, 13:30:54](https://lobste.rs/s/krgcvz/how_do_modern_compilers_choose_which) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
-* [2025-02-14, 12:41:46](https://lobste.rs/s/qk4qpt/hickory_dns_is_moving_toward_production) - [Hickory DNS is moving toward production readiness](https://www.memorysafety.org/blog/hickory-update-2025/)
 * [2025-02-14, 11:53:38](https://lobste.rs/s/ei9qpl/switching_on_strings_zig) - [Switching on Strings in Zig](https://www.openmymind.net/Switching-On-Strings-In-Zig/)
 * [2025-02-14, 11:18:26](https://lobste.rs/s/zbb947/zed_now_predicts_next_edit_with_new_open) - [Zed now predicts next edit with new open model](https://zed.dev/blog/edit-prediction)
 * [2025-02-14, 02:51:31](https://lobste.rs/s/rvhull/atkinson_hyperlegible_next_atkinson) - [Atkinson Hyperlegible Next and Atkinson Hyperlegible Mono](https://www.brailleinstitute.org/freefont/)
