@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-15, 16:18:34",
+      "https://lobste.rs/s/pgwyrc/announcing_interop_2025"
+    ],
+    [
+      "Announcing Interop 2025",
+      "https://webkit.org/blog/16458/announcing-interop-2025/"
+    ]
+  ],
+  [
+    [
       "2025-02-15, 15:47:52",
       "https://lobste.rs/s/gnjfai/how_diablo_hackers_uncovered_speedrun"
     ],
@@ -137,16 +147,6 @@
     [
       "First analysis of Apple's USB Restricted Mode bypass (CVE-2025-24200)",
       "https://blog.quarkslab.com/first-analysis-of-apples-usb-restricted-mode-bypass-cve-2025-24200.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 16:17:02",
-      "https://lobste.rs/s/iypstr/simple_declarative_schema_migration_for"
-    ],
-    [
-      "Simple declarative schema migration for SQLite",
-      "https://david.rothlis.net/declarative-schema-migration-for-sqlite/"
     ]
   ],
   [
