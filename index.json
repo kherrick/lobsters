@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-15, 19:19:12",
+      "https://lobste.rs/s/1reyhf/run_llms_on_macos_using_llm_mlx_apple_s_mlx"
+    ],
+    [
+      "Run LLMs on macOS using llm-mlx and Apple’s MLX framework",
+      "https://simonwillison.net/2025/Feb/15/llm-mlx/"
+    ]
+  ],
+  [
+    [
       "2025-02-15, 18:56:42",
       "https://lobste.rs/s/ki3k2r/post_mortem_network_outage_affecting"
     ],
@@ -227,16 +237,6 @@
     [
       "Switching on Strings in Zig",
       "https://www.openmymind.net/Switching-On-Strings-In-Zig/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 11:18:26",
-      "https://lobste.rs/s/zbb947/zed_now_predicts_next_edit_with_new_open"
-    ],
-    [
-      "Zed now predicts next edit with new open model",
-      "https://zed.dev/blog/edit-prediction"
     ]
   ],
   [
