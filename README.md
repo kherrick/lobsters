@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-15, 00:02:05](https://lobste.rs/s/abkeck/hardest_working_font_manhattan) - [The hardest working font in Manhattan](https://aresluna.org/the-hardest-working-font-in-manhattan/)
 * [2025-02-14, 21:21:03](https://lobste.rs/s/rsuopk/tex_typst_layout_models) - [TeX and Typst: Layout Models](https://laurmaedje.github.io/posts/layout-models/)
 * [2025-02-14, 20:09:48](https://lobste.rs/s/hl00vs/type_safe_variadic_printf_without_macros) - [Type safe variadic printf, without macros](https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html)
 * [2025-02-14, 18:01:13](https://lobste.rs/s/1f3pfu/20_year_old_psp_can_now_connect_wpa2_wifi) - [The 20 year old PSP can now connect to WPA2 Wifi Networks](https://wololo.net/2025/02/14/the-20-year-old-psp-can-now-connect-to-wpa2-wifi-networks/)
@@ -24,7 +25,6 @@
 * [2025-02-13, 19:30:54](https://lobste.rs/s/f9zeee/why_i_built_hyper_personalized_search) - [why I built a hyper-personalized search engine that isn't very good](https://search.technomancy.us/why)
 * [2025-02-13, 15:57:01](https://lobste.rs/s/zck7bo/resigning_as_asahi_linux_project_lead) - [Resigning as Asahi Linux project lead](https://marcan.st/2025/02/resigning-as-asahi-linux-project-lead/)
 * [2025-02-13, 12:55:45](https://lobste.rs/s/iwiwye/reassessing_wayland) - [Reassessing Wayland](https://dudemanguy.github.io/blog/posts/2025-02-03-wayland-xorg-2/wayland-xorg-2.html)
-* [2025-02-13, 12:36:49](https://lobste.rs/s/z1xro4/descent_into_v_x) - [A Descent Into the Vᴏ̈ʀᴛᴇx](https://tigerbeetle.com/blog/2025-02-13-a-descent-into-the-vortex/)
 
 ## [Archives](archives/index.md)
 
