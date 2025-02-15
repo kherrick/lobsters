@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-15](index.md)
 
+* [2025-02-15, 20:36:51](https://lobste.rs/s/oxtari/fixi_js_minimal_general_hypermedia) - [fixi.js - minimal general hypermedia controls](https://github.com/bigskysoftware/fixi)
 * [2025-02-15, 19:19:12](https://lobste.rs/s/1reyhf/run_llms_on_macos_using_llm_mlx_apple_s_mlx) - [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/)
 * [2025-02-15, 18:56:42](https://lobste.rs/s/ki3k2r/post_mortem_network_outage_affecting) - [Post-Mortem - Network Outage Affecting OpenStreetMap.org - 15 December 2024](https://operations.osmfoundation.org/2025/02/15/post-mortem.html)
 * [2025-02-15, 18:51:17](https://lobste.rs/s/mt3tso/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
