@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-15, 18:29:35](https://lobste.rs/s/2gatrq/jepsen_test_on_patroni_postgresql_high) - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution (2024)](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
 * [2025-02-15, 17:35:08](https://lobste.rs/s/cvxhqu/devenv_telemetry_warning) - [Devenv telemetry warning](https://chaos.social/@hexa/114009069746212598)
 * [2025-02-15, 17:09:48](https://lobste.rs/s/oqfmhj/roomy_deep_dive_atproto_automerge) - [Roomy Deep Dive: ATProto + Automerge](https://blog.muni.town/roomy-deep-dive/)
 * [2025-02-15, 16:36:50](https://lobste.rs/s/9kehva/transient_feed_aggregator_built_with) - [A transient feed aggregator built with Gleam](https://github.com/facundoolano/news.olano.dev)
@@ -19,7 +20,6 @@
 * [2025-02-14, 15:48:40](https://lobste.rs/s/rrkfuj/hosting_multiple_websites_under_one) - [Hosting Multiple Websites Under One NearlyFreeSpeech Site](https://btxx.org/posts/nfs-multiple-websites/)
 * [2025-02-14, 15:41:50](https://lobste.rs/s/t1enph/siren_call_sqlite_on_server) - [Siren Call of SQLite on the Server](https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/)
 * [2025-02-14, 14:36:10](https://lobste.rs/s/ooioeg/xor) - [XOR](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/xor/)
-* [2025-02-14, 13:30:54](https://lobste.rs/s/krgcvz/how_do_modern_compilers_choose_which) - [How do modern compilers choose which variables to put in registers?](https://langdev.stackexchange.com/questions/4325/how-do-modern-compilers-choose-which-variables-to-put-in-registers)
 * [2025-02-14, 11:53:38](https://lobste.rs/s/ei9qpl/switching_on_strings_zig) - [Switching on Strings in Zig](https://www.openmymind.net/Switching-On-Strings-In-Zig/)
 * [2025-02-14, 11:18:26](https://lobste.rs/s/zbb947/zed_now_predicts_next_edit_with_new_open) - [Zed now predicts next edit with new open model](https://zed.dev/blog/edit-prediction)
 * [2025-02-14, 02:51:31](https://lobste.rs/s/rvhull/atkinson_hyperlegible_next_atkinson) - [Atkinson Hyperlegible Next and Atkinson Hyperlegible Mono](https://www.brailleinstitute.org/freefont/)
