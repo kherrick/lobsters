@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-15, 21:37:58",
+      "https://lobste.rs/s/cxpiaj/taichi_high_performance_parallel"
+    ],
+    [
+      "Taichi: High-performance Parallel Programming in Python",
+      "https://www.taichi-lang.org/"
+    ]
+  ],
+  [
+    [
       "2025-02-15, 20:54:02",
       "https://lobste.rs/s/undbaa/nasa_has_list_10_rules_for_software"
     ],
@@ -237,16 +247,6 @@
     [
       "Switching on Strings in Zig",
       "https://www.openmymind.net/Switching-On-Strings-In-Zig/"
-    ]
-  ],
-  [
-    [
-      "2025-02-13, 19:30:54",
-      "https://lobste.rs/s/f9zeee/why_i_built_hyper_personalized_search"
-    ],
-    [
-      "why I built a hyper-personalized search engine that isn't very good",
-      "https://search.technomancy.us/why"
     ]
   ]
 ]
