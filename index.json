@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-16, 21:05:53",
+      "https://lobste.rs/s/yapvon/what_do_about_sqlite_busy_errors_despite"
+    ],
+    [
+      "What to do about SQLITE_BUSY errors despite setting a timeout",
+      "https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/"
+    ]
+  ],
+  [
+    [
+      "2025-02-16, 21:01:52",
+      "https://lobste.rs/s/jpdtyb/simple_github_report_generator"
+    ],
+    [
+      "A Simple Github Report Generator",
+      "https://github.com/siddharth1729/github_report_generator"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 19:44:48",
       "https://lobste.rs/s/hu8uwd/principles_reversible_programming"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-02-15, 21:37:58",
-      "https://lobste.rs/s/cxpiaj/taichi_high_performance_parallel"
-    ],
-    [
-      "Taichi: High-performance Parallel Programming in Python",
-      "https://www.taichi-lang.org/"
-    ]
-  ],
-  [
-    [
       "2025-02-15, 20:54:02",
       "https://lobste.rs/s/undbaa/nasa_has_list_10_rules_for_software"
     ],
@@ -177,16 +187,6 @@
     [
       "Run LLMs on macOS using llm-mlx and Apple’s MLX framework",
       "https://simonwillison.net/2025/Feb/15/llm-mlx/"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 18:51:17",
-      "https://lobste.rs/s/mt3tso/cracking_old_zip_file_help_open_source_anc"
-    ],
-    [
-      "Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code",
-      "https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html"
     ]
   ],
   [
