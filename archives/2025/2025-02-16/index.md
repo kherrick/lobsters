@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-16](index.md)
 
+* [2025-02-16, 19:02:58](https://lobste.rs/s/rc1hkq/dela_task_runner_delegates_work_other) - [Dela: a task runner that delegates the work to other tools](https://github.com/aleyan/dela)
 * [2025-02-16, 18:07:11](https://lobste.rs/s/g8sxsf/arithmetic_with_continued_fractions) - [Arithmetic with Continued Fractions](https://perl.plover.com/yak/cftalk/)
 * [2025-02-16, 17:29:01](https://lobste.rs/s/mk577n/civic_tech_s_third_wave) - [Civic Tech's Third Wave](https://www.jpt.sh/posts/third-wave-civic-tech/)
 * [2025-02-16, 17:14:25](https://lobste.rs/s/xjrlj2/how_android_s_calculator_works_with_real) - [How Android's calculator works with real numbers](https://chadnauseam.com/coding/random/calculator-app)
