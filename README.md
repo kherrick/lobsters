@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-16, 18:07:11](https://lobste.rs/s/g8sxsf/arithmetic_with_continued_fractions) - [Arithmetic with Continued Fractions](https://perl.plover.com/yak/cftalk/)
 * [2025-02-16, 17:29:01](https://lobste.rs/s/mk577n/civic_tech_s_third_wave) - [Civic Tech's Third Wave](https://www.jpt.sh/posts/third-wave-civic-tech/)
 * [2025-02-16, 17:14:25](https://lobste.rs/s/xjrlj2/how_android_s_calculator_works_with_real) - [How Android's calculator works with real numbers](https://chadnauseam.com/coding/random/calculator-app)
 * [2025-02-16, 17:03:52](https://lobste.rs/s/n6xa0s/unexpected_uses_gf2p8affineqb_bit) - [Unexpected uses of the GF2P8AFFINEQB bit matrix multiply instruction](https://gist.github.com/animetosho/d3ca95da2131b5813e16b5bb1b137ca0)
@@ -15,7 +16,6 @@
 * [2025-02-15, 20:54:02](https://lobste.rs/s/undbaa/nasa_has_list_10_rules_for_software) - [NASA has a list of 10 rules for software development](https://www.cs.otago.ac.nz/cosc345/resources/nasa-10-rules.htm)
 * [2025-02-15, 20:36:51](https://lobste.rs/s/oxtari/fixi_js_minimal_general_hypermedia) - [fixi.js - minimal general hypermedia controls](https://github.com/bigskysoftware/fixi)
 * [2025-02-15, 19:19:12](https://lobste.rs/s/1reyhf/run_llms_on_macos_using_llm_mlx_apple_s_mlx) - [Run LLMs on macOS using llm-mlx and Apple’s MLX framework](https://simonwillison.net/2025/Feb/15/llm-mlx/)
-* [2025-02-15, 18:56:42](https://lobste.rs/s/ki3k2r/post_mortem_network_outage_affecting) - [Post-Mortem - Network Outage Affecting OpenStreetMap.org - 15 December 2024](https://operations.osmfoundation.org/2025/02/15/post-mortem.html)
 * [2025-02-15, 18:51:17](https://lobste.rs/s/mt3tso/cracking_old_zip_file_help_open_source_anc) - [Cracking an old ZIP file to help open source the ANC's \"Operation Vula\" secret crypto code](https://blog.jgc.org/2024/09/cracking-old-zip-file-to-help-open.html)
 * [2025-02-15, 18:29:35](https://lobste.rs/s/2gatrq/jepsen_test_on_patroni_postgresql_high) - [Jepsen Test on Patroni: A PostgreSQL High Availability Solution (2024)](https://www.binwang.me/2024-12-02-PostgreSQL-High-Availability-Solutions-Part-1.html)
 * [2025-02-15, 17:35:08](https://lobste.rs/s/cvxhqu/devenv_telemetry_warning) - [Devenv telemetry warning](https://chaos.social/@hexa/114009069746212598)
