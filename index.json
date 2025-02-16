@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-16, 09:53:04",
+      "https://lobste.rs/s/vu3fsc/notes_ai_copilot_code_quality"
+    ],
+    [
+      "Notes: AI Copilot Code Quality",
+      "https://kracekumar.com/post/ai_copilot_code_quality_paper/"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 08:06:42",
       "https://lobste.rs/s/pibsom/dsls_for_safe_ios_watchos_communication"
     ],
@@ -237,16 +247,6 @@
     [
       "Type safe variadic printf, without macros",
       "https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 15:41:50",
-      "https://lobste.rs/s/t1enph/siren_call_sqlite_on_server"
-    ],
-    [
-      "Siren Call of SQLite on the Server",
-      "https://pid1.dev/posts/siren-call-of-sqlite-on-the-server/"
     ]
   ]
 ]
