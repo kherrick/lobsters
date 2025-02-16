@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-16, 15:13:50",
+      "https://lobste.rs/s/wxqmyd/logis_automatic_scientific_log_your_git"
+    ],
+    [
+      "logis - an automatic scientific log in your git commit history",
+      "https://github.com/flywhl/logis"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 11:36:46",
       "https://lobste.rs/s/ykpcqs/can_atproto_scale_down"
     ],
@@ -237,16 +247,6 @@
     [
       "The hardest working font in Manhattan",
       "https://aresluna.org/the-hardest-working-font-in-manhattan/"
-    ]
-  ],
-  [
-    [
-      "2025-02-14, 20:09:48",
-      "https://lobste.rs/s/hl00vs/type_safe_variadic_printf_without_macros"
-    ],
-    [
-      "Type safe variadic printf, without macros",
-      "https://www.stranger.systems/posts/by-slug/type-safe-variadic-printf.html"
     ]
   ]
 ]
