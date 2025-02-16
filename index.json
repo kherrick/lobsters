@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-16, 22:37:22",
-      "https://lobste.rs/s/2upkfk/arithmetic_with_continued_fractions"
-    ],
-    [
-      "Arithmetic with Continued Fractions (2005)",
-      "https://perl.plover.com/classes/cftalk/"
-    ]
-  ],
-  [
-    [
       "2025-02-16, 22:05:20",
       "https://lobste.rs/s/uinlbi/seven_pillars_wisdom"
     ],
@@ -217,6 +207,16 @@
     [
       "Devenv telemetry warning",
       "https://chaos.social/@hexa/114009069746212598"
+    ]
+  ],
+  [
+    [
+      "2025-02-15, 16:36:50",
+      "https://lobste.rs/s/9kehva/transient_feed_aggregator_built_with"
+    ],
+    [
+      "A transient feed aggregator built with Gleam",
+      "https://github.com/facundoolano/news.olano.dev"
     ]
   ],
   [
