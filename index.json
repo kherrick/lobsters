@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-17, 00:14:47",
+      "https://lobste.rs/s/yyju3z/when_is_oop_more_useful_modelling"
+    ],
+    [
+      "When is OOP a More Useful Modelling Approach than Other Paradigms?",
+      "https://lobste.rs/s/yyju3z/when_is_oop_more_useful_modelling"
+    ]
+  ],
+  [
+    [
+      "2025-02-17, 00:06:09",
+      "https://lobste.rs/s/tkgkfd/this_esp32_antenna_array_can_see_wifi"
+    ],
+    [
+      "This ESP32 antenna array can see WiFi",
+      "https://www.youtube.com/watch?v=sXwDrcd1t-E"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 22:05:20",
       "https://lobste.rs/s/uinlbi/seven_pillars_wisdom"
     ],
@@ -31,32 +51,12 @@
   ],
   [
     [
-      "2025-02-16, 19:44:48",
-      "https://lobste.rs/s/hu8uwd/principles_reversible_programming"
-    ],
-    [
-      "Principles of a reversible programming language",
-      "https://dl.acm.org/doi/pdf/10.1145/1366230.1366239"
-    ]
-  ],
-  [
-    [
       "2025-02-16, 19:02:58",
       "https://lobste.rs/s/rc1hkq/dela_task_runner_delegates_work_other"
     ],
     [
       "Dela: a task runner that delegates the work to other tools",
       "https://github.com/aleyan/dela"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 18:07:11",
-      "https://lobste.rs/s/g8sxsf/arithmetic_with_continued_fractions"
-    ],
-    [
-      "Arithmetic with Continued Fractions",
-      "https://perl.plover.com/yak/cftalk/"
     ]
   ],
   [
