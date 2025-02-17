@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 22:11:33](https://lobste.rs/s/ch64l3/new_junior_developers_can_t_actually_code) - [New Junior Developers Can’t Actually Code](https://nmn.gl/blog/ai-and-learning)
 * [2025-02-17, 21:57:07](https://lobste.rs/s/hv9gxk/what_s_ring_buffer_using_them_rust) - [What's in a ring buffer? And using them in Rust](https://ntietz.com/blog/whats-in-a-ring-buffer/#ring)
 * [2025-02-17, 21:22:38](https://lobste.rs/s/gsyz6c/swift_evolution_proposal_inlinearray) - [Swift Evolution Proposal:  InlineArray, a fixed-size array](https://github.com/swiftlang/swift-evolution/blob/main/proposals/0453-vector.md)
 * [2025-02-17, 20:43:08](https://lobste.rs/s/dfhwq1/nes86_x86_emulation_on_nes) - [nes86: x86 emulation on the NES](https://github.com/decrazyo/nes86)
