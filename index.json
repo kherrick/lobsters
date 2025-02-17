@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-17, 10:21:54",
+      "https://lobste.rs/s/mfmvmj/tutorial_introduction_lambda_calculus"
+    ],
+    [
+      "A Tutorial Introduction to the Lambda Calculus (2015)",
+      "https://arxiv.org/pdf/1503.09060"
+    ]
+  ],
+  [
+    [
       "2025-02-17, 08:00:25",
       "https://lobste.rs/s/qpjxpb/f8_8_bit_architecture_designed_for_c"
     ],
@@ -237,16 +247,6 @@
     [
       "Devenv telemetry warning",
       "https://chaos.social/@hexa/114009069746212598"
-    ]
-  ],
-  [
-    [
-      "2025-02-15, 15:47:52",
-      "https://lobste.rs/s/gnjfai/how_diablo_hackers_uncovered_speedrun"
-    ],
-    [
-      "How Diablo hackers uncovered a speedrun scandal",
-      "https://arstechnica.com/gaming/2025/02/the-diablo-hackers-that-debunked-a-record-speedrun/"
     ]
   ]
 ]
