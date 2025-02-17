@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-17, 20:29:53](https://lobste.rs/s/zm1g8r/why_i_m_writing_scheme_implementation) - [Why I'm Writing a Scheme Implementation in 2025 (The Answer is Async Rust)](https://maplant.com/2025-02-17-Why-I'm-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html)
 * [2025-02-17, 19:56:23](https://lobste.rs/s/ckjevs/choosing_browser) - [Choosing a browser](https://eligrey.com/blog/choosing-a-browser/)
 * [2025-02-17, 19:12:48](https://lobste.rs/s/1xykzf/debugging_undebuggable_app) - [Debugging An Undebuggable App](https://bryce.co/undebuggable/)
 * [2025-02-17, 18:03:01](https://lobste.rs/s/5damlp/how_browsers_really_load_web_pages) - [How browsers really load Web pages](https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/)
@@ -13,7 +14,6 @@
 * [2025-02-17, 11:58:04](https://lobste.rs/s/ynjqhp/sharinggrdb_swiftdata_alternative) - [SharingGRDB: A SwiftData Alternative](https://www.pointfree.co/blog/posts/168-sharinggrdb-a-swiftdata-alternative)
 * [2025-02-17, 11:29:06](https://lobste.rs/s/y2xa9n/ux_design_rework_1_reworking_my) - [UX Design Rework #1 - reworking my university hoarding](https://bhoot.dev/2025/ux-design-rework-1-i-love-vnsgu/)
 * [2025-02-17, 11:20:29](https://lobste.rs/s/ffceax/why_test_first_development_is_so_damn_hard) - [Why Test-First Development Is So Damn Hard](https://jarosz.dev/atomicessay/why-test-first-development-is-so-damn-hard/)
-* [2025-02-17, 10:46:45](https://lobste.rs/s/mlly3p/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mlly3p/what_are_you_doing_this_week)
 * [2025-02-17, 10:21:54](https://lobste.rs/s/mfmvmj/tutorial_introduction_lambda_calculus) - [A Tutorial Introduction to the Lambda Calculus (2015)](https://arxiv.org/pdf/1503.09060)
 * [2025-02-17, 08:00:25](https://lobste.rs/s/qpjxpb/f8_8_bit_architecture_designed_for_c) - [f8 - an 8 bit architecture designed for C and memory efficiency](https://fosdem.org/2025/schedule/event/fosdem-2025-4902-f8-an-8-bit-architecture-designed-for-c-and-memory-efficiency/)
 * [2025-02-17, 02:05:28](https://lobste.rs/s/sag0p3/making_web_more_readable_with_stylus) - [Making the Web More Readable With Stylus](https://www.wezm.net/v2/posts/2025/stylus/)
