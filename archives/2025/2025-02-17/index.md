@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-17](index.md)
 
+* [2025-02-17, 11:29:06](https://lobste.rs/s/y2xa9n/ux_design_rework_1_reworking_my) - [UX Design Rework #1 - reworking my university hoarding](https://bhoot.dev/2025/ux-design-rework-1-i-love-vnsgu/)
 * [2025-02-17, 11:20:29](https://lobste.rs/s/ffceax/why_test_first_development_is_so_damn_hard) - [Why Test-First Development Is So Damn Hard](https://jarosz.dev/atomicessay/why-test-first-development-is-so-damn-hard/)
 * [2025-02-17, 10:46:45](https://lobste.rs/s/mlly3p/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/mlly3p/what_are_you_doing_this_week)
 * [2025-02-17, 10:21:54](https://lobste.rs/s/mfmvmj/tutorial_introduction_lambda_calculus) - [A Tutorial Introduction to the Lambda Calculus (2015)](https://arxiv.org/pdf/1503.09060)
