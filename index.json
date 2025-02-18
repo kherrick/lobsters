@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-18, 12:33:50",
+      "https://lobste.rs/s/aexhi5/reviewing_cryptography_used_by_signal"
+    ],
+    [
+      "Reviewing the Cryptography Used by Signal",
+      "https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 11:31:25",
       "https://lobste.rs/s/hmf0ht/self_designing_software"
     ],
@@ -137,16 +147,6 @@
     [
       "Debugging An Undebuggable App",
       "https://bryce.co/undebuggable/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 18:03:01",
-      "https://lobste.rs/s/5damlp/how_browsers_really_load_web_pages"
-    ],
-    [
-      "How browsers really load Web pages",
-      "https://fosdem.org/2025/schedule/event/fosdem-2025-4852-how-browsers-really-load-web-pages/"
     ]
   ],
   [
