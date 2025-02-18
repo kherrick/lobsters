@@ -221,6 +221,16 @@
   ],
   [
     [
+      "2025-02-16, 21:05:53",
+      "https://lobste.rs/s/yapvon/what_do_about_sqlite_busy_errors_despite"
+    ],
+    [
+      "What to do about SQLITE_BUSY errors despite setting a timeout",
+      "https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/"
+    ]
+  ],
+  [
+    [
       "2025-02-16, 17:29:01",
       "https://lobste.rs/s/mk577n/civic_tech_s_third_wave"
     ],
@@ -237,16 +247,6 @@
     [
       "How Android's calculator works with real numbers",
       "https://chadnauseam.com/coding/random/calculator-app"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 11:36:46",
-      "https://lobste.rs/s/ykpcqs/can_atproto_scale_down"
-    ],
-    [
-      "Can atproto scale down?",
-      "https://bsky.bad-example.com/can-atproto-scale-down/"
     ]
   ]
 ]
