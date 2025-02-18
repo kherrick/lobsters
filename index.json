@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-18, 13:49:53",
+      "https://lobste.rs/s/nkhjec/japanese_engineers_talk_about"
+    ],
+    [
+      "Japanese engineers talk about difficulties they faced with the Nintendo Switch",
+      "https://automaton-media.com/en/game-development/the-nintendo-switch-limited-cpu-and-ram-but-it-also-made-optimization-a-fun-puzzle-to-figure-out-japanese-engineers-talk-about-difficulties-they-faced/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 12:33:50",
       "https://lobste.rs/s/aexhi5/reviewing_cryptography_used_by_signal"
     ],
@@ -37,16 +47,6 @@
     [
       "Code Style Sheets: CSS for Code",
       "https://arxiv.org/pdf/2502.09386"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 06:56:01",
-      "https://lobste.rs/s/cdbjll/learning_lean_part_1"
-    ],
-    [
-      "Learning Lean: Part 1",
-      "https://rkirov.github.io/posts/lean1/"
     ]
   ],
   [
