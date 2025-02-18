@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-18, 06:56:01",
+      "https://lobste.rs/s/cdbjll/learning_lean_part_1"
+    ],
+    [
+      "Learning Lean: Part 1",
+      "https://rkirov.github.io/posts/lean1/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 06:02:13",
       "https://lobste.rs/s/ds1odn/mtr_metrics"
     ],
@@ -187,16 +197,6 @@
     [
       "searchcode.com’s SQLite database is probably 6 terabytes bigger than yours",
       "https://boyter.org/posts/searchcode-bigger-sqlite-than-you/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 11:20:29",
-      "https://lobste.rs/s/ffceax/why_test_first_development_is_so_damn_hard"
-    ],
-    [
-      "Why Test-First Development Is So Damn Hard",
-      "https://jarosz.dev/atomicessay/why-test-first-development-is-so-damn-hard/"
     ]
   ],
   [
