@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 17:25:10](https://lobste.rs/s/3nnlv2/chris_biscardi_growing_little) - [Chris Biscardi: Growing little experiments (with Rust & Bevy)](https://www.youtube.com/watch?v=amugqciMkT4)
 * [2025-02-18, 17:08:22](https://lobste.rs/s/bfm4af/mitm_attack_against_openssh_s) - [MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client](https://marc.info/?l=oss-security&m=173986993304277&w=2)
 * [2025-02-18, 16:30:33](https://lobste.rs/s/fiagu7/build_rails_apps_with_components) - [Build Rails Apps with Components](https://terminalwire.com/articles/superview)
 * [2025-02-18, 16:13:43](https://lobste.rs/s/76ifpd/these_years_common_lisp_2023_2024_review) - [These years in Common Lisp: 2023-2024 in review](https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/)
