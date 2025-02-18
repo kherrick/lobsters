@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-18, 08:39:50",
+      "https://lobste.rs/s/vpiex3/code_style_sheets_css_for_code"
+    ],
+    [
+      "Code Style Sheets: CSS for Code",
+      "https://arxiv.org/pdf/2502.09386"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 06:56:01",
       "https://lobste.rs/s/cdbjll/learning_lean_part_1"
     ],
@@ -57,16 +67,6 @@
     [
       "New Junior Developers Can’t Actually Code",
       "https://nmn.gl/blog/ai-and-learning"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 21:57:07",
-      "https://lobste.rs/s/hv9gxk/what_s_ring_buffer_using_them_rust"
-    ],
-    [
-      "What's in a ring buffer? And using them in Rust",
-      "https://ntietz.com/blog/whats-in-a-ring-buffer/#ring"
     ]
   ],
   [
