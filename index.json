@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-18, 16:13:43",
+      "https://lobste.rs/s/76ifpd/these_years_common_lisp_2023_2024_review"
+    ],
+    [
+      "These years in Common Lisp: 2023-2024 in review",
+      "https://lisp-journey.gitlab.io/blog/these-years-in-common-lisp-2023-2024-in-review/"
+    ]
+  ],
+  [
+    [
+      "2025-02-18, 15:58:28",
+      "https://lobste.rs/s/uaz4x1/exo_software_distributed_llm_solution"
+    ],
+    [
+      "exo software - A distributed LLM solution running on a cluster of computers, smartphones, or SBCs",
+      "https://www.cnx-software.com/2025/02/18/exo-software-a-distributed-llm-solution-running-on-a-cluster-of-computers-smartphones-or-sbcs/"
+    ]
+  ],
+  [
+    [
       "2025-02-18, 15:02:12",
       "https://lobste.rs/s/mswgiv/swe_lancer_can_frontier_llms_earn_1"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-02-17, 19:12:48",
-      "https://lobste.rs/s/1xykzf/debugging_undebuggable_app"
-    ],
-    [
-      "Debugging An Undebuggable App",
-      "https://bryce.co/undebuggable/"
-    ]
-  ],
-  [
-    [
       "2025-02-17, 17:49:24",
       "https://lobste.rs/s/c6rk0l/14_years_systemd"
     ],
@@ -177,16 +187,6 @@
     [
       "The Mac Menubar and SwiftUI",
       "https://troz.net/post/2025/mac_menu_data/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 15:36:24",
-      "https://lobste.rs/s/y713xl/accessible_color_palette_tester"
-    ],
-    [
-      "Accessible color palette tester",
-      "https://palette-tester.9elements.com/"
     ]
   ],
   [
