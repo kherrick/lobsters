@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-18, 03:03:09",
+      "https://lobste.rs/s/a83yzz/access_bus_forgotten_usb_competitor"
+    ],
+    [
+      "ACCESS.bus: The Forgotten USB Competitor",
+      "https://tedium.co/2025/02/17/access-bus-i2c-usb-competitor-history/"
+    ]
+  ],
+  [
+    [
       "2025-02-17, 22:11:33",
       "https://lobste.rs/s/ch64l3/new_junior_developers_can_t_actually_code"
     ],
@@ -217,16 +227,6 @@
     [
       "This ESP32 antenna array can see WiFi",
       "https://www.youtube.com/watch?v=sXwDrcd1t-E"
-    ]
-  ],
-  [
-    [
-      "2025-02-16, 21:05:53",
-      "https://lobste.rs/s/yapvon/what_do_about_sqlite_busy_errors_despite"
-    ],
-    [
-      "What to do about SQLITE_BUSY errors despite setting a timeout",
-      "https://berthub.eu/articles/posts/a-brief-post-on-sqlite3-database-locked-despite-timeout/"
     ]
   ],
   [
