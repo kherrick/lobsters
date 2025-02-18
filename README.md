@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-18, 21:18:51](https://lobste.rs/s/mja9nc/user_research_is_storytelling) - [User Research is Storytelling](https://alistapart.com/article/user-research-is-storytelling/)
 * [2025-02-18, 20:46:38](https://lobste.rs/s/7clfly/bellroy_technology_team_2024_review) - [Bellroy Technology Team: 2024 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2024-in-review.html)
 * [2025-02-18, 19:03:55](https://lobste.rs/s/r0ybx2/representing_graphs_postgresql_with_sql) - [Representing graphs in Postgresql with SQL/PGQ](https://www.enterprisedb.com/blog/representing-graphs-postgresql-sqlpgq)
 * [2025-02-18, 17:25:10](https://lobste.rs/s/3nnlv2/chris_biscardi_growing_little) - [Chris Biscardi: Growing little experiments (with Rust & Bevy)](https://www.youtube.com/watch?v=amugqciMkT4)
@@ -22,7 +23,6 @@
 * [2025-02-17, 19:56:23](https://lobste.rs/s/ckjevs/choosing_browser) - [Choosing a browser](https://eligrey.com/blog/choosing-a-browser/)
 * [2025-02-17, 17:49:24](https://lobste.rs/s/c6rk0l/14_years_systemd) - [14 years of systemd](https://lwn.net/SubscriberLink/1008721/7c31808d76480012/)
 * [2025-02-17, 15:29:07](https://lobste.rs/s/yipk5r/can_i_ethically_use_llms) - [Can I ethically use LLMs?](https://ntietz.com/blog/can-i-ethically-use-llms/)
-* [2025-02-17, 13:27:34](https://lobste.rs/s/evay67/design_build_some_elegant_fully) - [Design/build of some elegant, fully parametric speaker cabinets](https://calbryant.uk/blog/speakers/)
 * [2025-02-17, 12:42:07](https://lobste.rs/s/5hmdqi/searchcode_com_s_sqlite_database_is) - [searchcode.com’s SQLite database is probably 6 terabytes bigger than yours](https://boyter.org/posts/searchcode-bigger-sqlite-than-you/)
 * [2025-02-17, 02:05:28](https://lobste.rs/s/sag0p3/making_web_more_readable_with_stylus) - [Making the Web More Readable With Stylus](https://www.wezm.net/v2/posts/2025/stylus/)
 
