@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-18](index.md)
 
+* [2025-02-18, 20:46:38](https://lobste.rs/s/7clfly/bellroy_technology_team_2024_review) - [Bellroy Technology Team: 2024 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2024-in-review.html)
 * [2025-02-18, 19:03:55](https://lobste.rs/s/r0ybx2/representing_graphs_postgresql_with_sql) - [Representing graphs in Postgresql with SQL/PGQ](https://www.enterprisedb.com/blog/representing-graphs-postgresql-sqlpgq)
 * [2025-02-18, 17:25:10](https://lobste.rs/s/3nnlv2/chris_biscardi_growing_little) - [Chris Biscardi: Growing little experiments (with Rust & Bevy)](https://www.youtube.com/watch?v=amugqciMkT4)
 * [2025-02-18, 17:08:22](https://lobste.rs/s/bfm4af/mitm_attack_against_openssh_s) - [MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client](https://marc.info/?l=oss-security&m=173986993304277&w=2)

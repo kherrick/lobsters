@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-18, 20:46:38](https://lobste.rs/s/7clfly/bellroy_technology_team_2024_review) - [Bellroy Technology Team: 2024 in Review](https://exploring-better-ways.bellroy.com/bellroy-technology-team-2024-in-review.html)
 * [2025-02-18, 19:03:55](https://lobste.rs/s/r0ybx2/representing_graphs_postgresql_with_sql) - [Representing graphs in Postgresql with SQL/PGQ](https://www.enterprisedb.com/blog/representing-graphs-postgresql-sqlpgq)
 * [2025-02-18, 17:25:10](https://lobste.rs/s/3nnlv2/chris_biscardi_growing_little) - [Chris Biscardi: Growing little experiments (with Rust & Bevy)](https://www.youtube.com/watch?v=amugqciMkT4)
 * [2025-02-18, 17:08:22](https://lobste.rs/s/bfm4af/mitm_attack_against_openssh_s) - [MitM attack against OpenSSH's VerifyHostKeyDNS-enabled client](https://marc.info/?l=oss-security&m=173986993304277&w=2)
@@ -9,7 +10,6 @@
 * [2025-02-18, 15:02:12](https://lobste.rs/s/mswgiv/swe_lancer_can_frontier_llms_earn_1) - [SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?](https://arxiv.org/abs/2502.12115)
 * [2025-02-18, 13:49:53](https://lobste.rs/s/nkhjec/japanese_engineers_talk_about) - [Japanese engineers talk about difficulties they faced with the Nintendo Switch](https://automaton-media.com/en/game-development/the-nintendo-switch-limited-cpu-and-ram-but-it-also-made-optimization-a-fun-puzzle-to-figure-out-japanese-engineers-talk-about-difficulties-they-faced/)
 * [2025-02-18, 12:33:50](https://lobste.rs/s/aexhi5/reviewing_cryptography_used_by_signal) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
-* [2025-02-18, 11:31:25](https://lobste.rs/s/hmf0ht/self_designing_software) - [Self-Designing Software](https://cacm.acm.org/research/self-designing-software/)
 * [2025-02-18, 09:19:26](https://lobste.rs/s/9ectnm/go_attention_full_attention_mechanism) - [go-attention: A full attention mechanism and transformer in pure Go](https://github.com/takara-ai/go-attention)
 * [2025-02-18, 08:39:50](https://lobste.rs/s/vpiex3/code_style_sheets_css_for_code) - [Code Style Sheets: CSS for Code](https://arxiv.org/pdf/2502.09386)
 * [2025-02-18, 06:02:13](https://lobste.rs/s/ds1odn/mtr_metrics) - [mtr metrics](http://mk16.de/blog/mtr-metrics/)
