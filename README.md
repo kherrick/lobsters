@@ -6,6 +6,7 @@
 * [2025-02-19, 17:47:56](https://lobste.rs/s/bgpdjz/so_you_want_better_debug_info) - [So you want better debug info?](https://walnut356.github.io/posts/so-you-want-better-debug-info/)
 * [2025-02-19, 17:33:46](https://lobste.rs/s/et8xra/collection_code_examples_from_prominent) - [A collection of code examples from prominent open-source projects (2021)](https://codecatalog.org/)
 * [2025-02-19, 17:31:11](https://lobste.rs/s/tlkkq4/multiple_vulnerabilities_u_boot) - [Multiple Vulnerabilities in U-Boot](https://www.openwall.com/lists/oss-security/2025/02/17/2)
+* [2025-02-19, 16:56:52](https://lobste.rs/s/ihigvo/open_source_fpga_toolchain_for_large) - [An open source FPGA toolchain for a large European space-grade FPGA](http://blog.yosyshq.com/p/an-open-source-fpga-toolchain-for-a-large-european-space-grade-fpga/)
 * [2025-02-19, 16:56:11](https://lobste.rs/s/gydrm1/secret_maze_debian_images) - [The secret maze of Debian images](https://blog.fai-project.org/posts/cdimages-maze/)
 * [2025-02-19, 16:50:44](https://lobste.rs/s/ban2oh/testing_concurrent_code_with_testing) - [Testing concurrent code with testing/synctest - The Go Programming Language](https://go.dev/blog/synctest)
 * [2025-02-19, 16:06:10](https://lobste.rs/s/cpswqi/relaxed_radix_balanced_trees) - [Relaxed Radix Balanced Trees](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
@@ -23,7 +24,6 @@
 * [2025-02-19, 04:13:31](https://lobste.rs/s/vxyx7a/serving_local_llms_with_mlx) - [Serving local LLMs with MLX](https://kconner.com/2025/02/17/running-local-llms-with-mlx.html)
 * [2025-02-19, 02:21:15](https://lobste.rs/s/8mexgt/tcl_misunderstood_2006) - [Tcl the Misunderstood (2006)](https://antirez.com/articoli/tclmisunderstood.html)
 * [2025-02-18, 23:18:27](https://lobste.rs/s/l6bhjh/introducing_pi_hole_v6) - [Introducing Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
-* [2025-02-18, 21:39:01](https://lobste.rs/s/8yz0ap/general_wine_proton_developer_open) - [General Wine/Proton Developer (Open-Source Programmer)](https://www.codeweavers.com/about/jobs#job-dev)
 * [2025-02-18, 12:33:50](https://lobste.rs/s/aexhi5/reviewing_cryptography_used_by_signal) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)
 
 ## [Archives](archives/index.md)
