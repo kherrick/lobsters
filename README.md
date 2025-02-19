@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-19, 01:08:45](https://lobste.rs/s/ml4irc/continued_fraction_arithmetic_1978) - [Continued Fraction Arithmetic (1978)](https://perl.plover.com/classes/cftalk/INFO/gosper.txt)
 * [2025-02-18, 23:18:27](https://lobste.rs/s/l6bhjh/introducing_pi_hole_v6) - [Introducing Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 * [2025-02-18, 21:39:01](https://lobste.rs/s/8yz0ap/general_wine_proton_developer_open) - [General Wine/Proton Developer (Open-Source Programmer)](https://www.codeweavers.com/about/jobs#job-dev)
 * [2025-02-18, 21:18:51](https://lobste.rs/s/mja9nc/user_research_is_storytelling) - [User Research is Storytelling](https://alistapart.com/article/user-research-is-storytelling/)
@@ -24,7 +25,6 @@
 * [2025-02-17, 19:56:23](https://lobste.rs/s/ckjevs/choosing_browser) - [Choosing a browser](https://eligrey.com/blog/choosing-a-browser/)
 * [2025-02-17, 17:49:24](https://lobste.rs/s/c6rk0l/14_years_systemd) - [14 years of systemd](https://lwn.net/SubscriberLink/1008721/7c31808d76480012/)
 * [2025-02-17, 15:29:07](https://lobste.rs/s/yipk5r/can_i_ethically_use_llms) - [Can I ethically use LLMs?](https://ntietz.com/blog/can-i-ethically-use-llms/)
-* [2025-02-17, 02:05:28](https://lobste.rs/s/sag0p3/making_web_more_readable_with_stylus) - [Making the Web More Readable With Stylus](https://www.wezm.net/v2/posts/2025/stylus/)
 
 ## [Archives](archives/index.md)
 
