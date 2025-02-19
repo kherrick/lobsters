@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-19, 04:13:31",
+      "https://lobste.rs/s/vxyx7a/serving_local_llms_with_mlx"
+    ],
+    [
+      "Serving local LLMs with MLX",
+      "https://kconner.com/2025/02/17/running-local-llms-with-mlx.html"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 03:41:14",
       "https://lobste.rs/s/d9lnbi/towards_simple_expressive_query"
     ],
@@ -107,16 +117,6 @@
     [
       "exo software - A distributed LLM solution running on a cluster of computers, smartphones, or SBCs",
       "https://www.cnx-software.com/2025/02/18/exo-software-a-distributed-llm-solution-running-on-a-cluster-of-computers-smartphones-or-sbcs/"
-    ]
-  ],
-  [
-    [
-      "2025-02-18, 15:02:12",
-      "https://lobste.rs/s/mswgiv/swe_lancer_can_frontier_llms_earn_1"
-    ],
-    [
-      "SWE-Lancer: Can Frontier LLMs Earn $1 Million from Real-World Freelance Software Engineering?",
-      "https://arxiv.org/abs/2502.12115"
     ]
   ],
   [
