@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-19, 23:10:57](https://lobste.rs/s/patajy/what_i_saw_at_evolution_plan_9) - [What I Saw at the Evolution of Plan 9](https://adi.onl/oral.pdf)
 * [2025-02-19, 22:29:46](https://lobste.rs/s/ex0nul/build_your_own_sqlite_rust_part_5) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 22:14:38](https://lobste.rs/s/g38ges/knight_tv_resurrection) - [Knight TV resurrection](http://pdp-6.net/knight-tv/knight-tv.html)
 * [2025-02-19, 20:36:29](https://lobste.rs/s/2oykhm/practical_alloy_hands_on_guide_formal) - [Practical Alloy: A hands-on guide to formal software design](https://practicalalloy.github.io/)
@@ -21,7 +22,6 @@
 * [2025-02-19, 10:28:21](https://lobste.rs/s/syjb5i/learning_hardest_problem_computer) - [Learning: the hardest problem in computer science](https://www.herostrat.us/posts/learning-the-hardest-problem-in-computer-science/)
 * [2025-02-19, 09:24:50](https://lobste.rs/s/oizlxo/add_wayland_color_management_protocol) - [Add Wayland color-management protocol](https://gitlab.freedesktop.org/wayland/wayland-protocols/-/commit/452e943b4991)
 * [2025-02-19, 05:08:01](https://lobste.rs/s/wwgtxt/append_only_programming) - [Append-only programming](https://iafisher.com/blog/2024/08/append-only-programming)
-* [2025-02-19, 04:13:31](https://lobste.rs/s/vxyx7a/serving_local_llms_with_mlx) - [Serving local LLMs with MLX](https://kconner.com/2025/02/17/running-local-llms-with-mlx.html)
 * [2025-02-19, 02:21:15](https://lobste.rs/s/8mexgt/tcl_misunderstood_2006) - [Tcl the Misunderstood (2006)](https://antirez.com/articoli/tclmisunderstood.html)
 * [2025-02-18, 23:18:27](https://lobste.rs/s/l6bhjh/introducing_pi_hole_v6) - [Introducing Pi-hole v6](https://pi-hole.net/blog/2025/02/18/introducing-pi-hole-v6/)
 * [2025-02-18, 12:33:50](https://lobste.rs/s/aexhi5/reviewing_cryptography_used_by_signal) - [Reviewing the Cryptography Used by Signal](https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/)

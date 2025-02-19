@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 23:10:57](https://lobste.rs/s/patajy/what_i_saw_at_evolution_plan_9) - [What I Saw at the Evolution of Plan 9](https://adi.onl/oral.pdf)
 * [2025-02-19, 22:29:46](https://lobste.rs/s/ex0nul/build_your_own_sqlite_rust_part_5) - [Build your own SQLite in Rust, Part 5: Evaluating queries](https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries)
 * [2025-02-19, 22:14:38](https://lobste.rs/s/g38ges/knight_tv_resurrection) - [Knight TV resurrection](http://pdp-6.net/knight-tv/knight-tv.html)
 * [2025-02-19, 20:36:29](https://lobste.rs/s/2oykhm/practical_alloy_hands_on_guide_formal) - [Practical Alloy: A hands-on guide to formal software design](https://practicalalloy.github.io/)
