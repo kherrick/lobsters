@@ -101,16 +101,6 @@
   ],
   [
     [
-      "2025-02-19, 16:50:44",
-      "https://lobste.rs/s/ban2oh/testing_concurrent_code_with_testing"
-    ],
-    [
-      "Testing concurrent code with testing/synctest - The Go Programming Language",
-      "https://go.dev/blog/synctest"
-    ]
-  ],
-  [
-    [
       "2025-02-19, 16:06:10",
       "https://lobste.rs/s/cpswqi/relaxed_radix_balanced_trees"
     ],
@@ -217,6 +207,16 @@
     [
       "Append-only programming",
       "https://iafisher.com/blog/2024/08/append-only-programming"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 04:13:31",
+      "https://lobste.rs/s/vxyx7a/serving_local_llms_with_mlx"
+    ],
+    [
+      "Serving local LLMs with MLX",
+      "https://kconner.com/2025/02/17/running-local-llms-with-mlx.html"
     ]
   ],
   [
