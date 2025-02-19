@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-19, 17:33:46",
+      "https://lobste.rs/s/et8xra/collection_code_examples_from_prominent"
+    ],
+    [
+      "A collection of code examples from prominent open-source projects (2021)",
+      "https://codecatalog.org/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 17:31:11",
+      "https://lobste.rs/s/tlkkq4/multiple_vulnerabilities_u_boot"
+    ],
+    [
+      "Multiple Vulnerabilities in U-Boot",
+      "https://www.openwall.com/lists/oss-security/2025/02/17/2"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 16:56:52",
       "https://lobste.rs/s/ihigvo/open_source_fpga_toolchain_for_large"
     ],
@@ -27,16 +47,6 @@
     [
       "Testing concurrent code with testing/synctest - The Go Programming Language",
       "https://go.dev/blog/synctest"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 16:06:10",
-      "https://lobste.rs/s/cpswqi/relaxed_radix_balanced_trees_peter_horne"
-    ],
-    [
-      "Relaxed Radix Balanced Trees | Peter Horne-Khan",
-      "https://peter.horne-khan.com/relaxed-radix-balanced-trees/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Reviewing the Cryptography Used by Signal",
       "https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 20:29:53",
-      "https://lobste.rs/s/zm1g8r/why_i_m_writing_scheme_implementation"
-    ],
-    [
-      "Why I'm Writing a Scheme Implementation in 2025 (The Answer is Async Rust)",
-      "https://maplant.com/2025-02-17-Why-I'm-Writing-a-Scheme-Implementation-in-2025-(The-Answer-is-Async-Rust).html"
     ]
   ]
 ]
