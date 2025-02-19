@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-02-19, 17:47:56",
-      "https://lobste.rs/s/bgpdjz/so_you_want_better_debug_info"
+      "2025-02-19, 18:21:51",
+      "https://lobste.rs/s/9fjfm6/modview_effortlessly_visualize_mod"
     ],
     [
-      "So you want better debug info?",
-      "https://walnut356.github.io/posts/so-you-want-better-debug-info/"
+      "modview: Effortlessly visualize mod graph with all external dependencies for your Go projects",
+      "https://github.com/bayraktugrul/modview"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 18:14:16",
+      "https://lobste.rs/s/a1thyf/when_imperfect_systems_are_good_actually"
+    ],
+    [
+      "When Imperfect Systems are Good, Actually: Bluesky’s Lossy Timelines",
+      "https://jazco.dev/2025/02/19/imperfection/"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 18:00:32",
+      "https://lobste.rs/s/ph44ps/gymtok_breaking_tls_using_alt_svc_header"
+    ],
+    [
+      "GymTok: Breaking TLS Using the Alt-Svc Header",
+      "https://blog.pspaul.de/posts/gymtok-breaking-tls-with-alt-svc/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Multiple Vulnerabilities in U-Boot",
       "https://www.openwall.com/lists/oss-security/2025/02/17/2"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 16:56:52",
-      "https://lobste.rs/s/ihigvo/open_source_fpga_toolchain_for_large"
-    ],
-    [
-      "An open source FPGA toolchain for a large European space-grade FPGA",
-      "http://blog.yosyshq.com/p/an-open-source-fpga-toolchain-for-a-large-european-space-grade-fpga/"
     ]
   ],
   [
@@ -62,10 +72,10 @@
   [
     [
       "2025-02-19, 16:06:10",
-      "https://lobste.rs/s/cpswqi/relaxed_radix_balanced_trees_peter_horne"
+      "https://lobste.rs/s/cpswqi/relaxed_radix_balanced_trees"
     ],
     [
-      "Relaxed Radix Balanced Trees | Peter Horne-Khan",
+      "Relaxed Radix Balanced Trees",
       "https://peter.horne-khan.com/relaxed-radix-balanced-trees/"
     ]
   ],
@@ -111,6 +121,16 @@
   ],
   [
     [
+      "2025-02-19, 12:39:13",
+      "https://lobste.rs/s/qepnbe/where_are_all_rewrite_rules"
+    ],
+    [
+      "Where are all the Rewrite Rules?",
+      "https://www.philipzucker.com/rewrite_rules/"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 12:09:50",
       "https://lobste.rs/s/208z0p/russian_phishing_campaigns_exploit"
     ],
@@ -127,16 +147,6 @@
     [
       "Changing every line three times",
       "https://daniel.haxx.se/blog/2025/02/18/changing-every-line-three-times/"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 11:17:22",
-      "https://lobste.rs/s/flhcsy/proposal_starting_tasks_synchronously"
-    ],
-    [
-      "Proposal: Starting tasks synchronously from caller context",
-      "https://github.com/ktoso/swift-evolution/blob/wip-task-synchronously-start/proposals/NNNN-task-start-synchronously-on-caller-context.md"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "Serving local LLMs with MLX",
       "https://kconner.com/2025/02/17/running-local-llms-with-mlx.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 03:41:14",
-      "https://lobste.rs/s/d9lnbi/towards_simple_expressive_query"
-    ],
-    [
-      "Towards A Simple and Expressive Query Language",
-      "https://www.youtube.com/watch?v=TBAf5l1RmcA"
     ]
   ],
   [
