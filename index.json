@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-19, 15:48:18",
+      "https://lobste.rs/s/hdj2q4/greg_kroah_hartman_makes_compelling_case"
+    ],
+    [
+      "Greg Kroah-Hartman Makes A Compelling Case For New Linux Kernel Drivers To Be Written In Rust",
+      "https://www.phoronix.com/news/Greg-KH-On-New-Rust-Code"
+    ]
+  ],
+  [
+    [
+      "2025-02-19, 15:45:32",
+      "https://lobste.rs/s/gi6ed9/http3_2_1"
+    ],
+    [
+      "HTTP3, 2, 1",
+      "https://maxmcd.com/posts/http321/"
+    ]
+  ],
+  [
+    [
       "2025-02-19, 13:17:55",
       "https://lobste.rs/s/utonjg/being_happy_nixer_on_mac"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-02-18, 16:30:33",
-      "https://lobste.rs/s/fiagu7/build_rails_apps_with_components"
-    ],
-    [
-      "Build Rails Apps with Components",
-      "https://terminalwire.com/articles/superview"
-    ]
-  ],
-  [
-    [
       "2025-02-18, 16:13:43",
       "https://lobste.rs/s/76ifpd/these_years_common_lisp_2023_2024_review"
     ],
@@ -227,16 +237,6 @@
     [
       "Reviewing the Cryptography Used by Signal",
       "https://soatok.blog/2025/02/18/reviewing-the-cryptography-used-by-signal/"
-    ]
-  ],
-  [
-    [
-      "2025-02-17, 22:11:33",
-      "https://lobste.rs/s/ch64l3/new_junior_developers_can_t_actually_code"
-    ],
-    [
-      "New Junior Developers Can’t Actually Code",
-      "https://nmn.gl/blog/ai-and-learning"
     ]
   ],
   [
