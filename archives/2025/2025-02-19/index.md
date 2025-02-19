@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 16:56:11](https://lobste.rs/s/gydrm1/secret_maze_debian_images) - [The secret maze of Debian images](https://blog.fai-project.org/posts/cdimages-maze/)
+* [2025-02-19, 16:50:44](https://lobste.rs/s/ban2oh/testing_concurrent_code_with_testing) - [Testing concurrent code with testing/synctest - The Go Programming Language](https://go.dev/blog/synctest)
 * [2025-02-19, 16:06:10](https://lobste.rs/s/cpswqi/relaxed_radix_balanced_trees_peter_horne) - [Relaxed Radix Balanced Trees | Peter Horne-Khan](https://peter.horne-khan.com/relaxed-radix-balanced-trees/)
 * [2025-02-19, 15:48:18](https://lobste.rs/s/hdj2q4/greg_kroah_hartman_makes_compelling_case) - [Greg Kroah-Hartman Makes A Compelling Case For New Linux Kernel Drivers To Be Written In Rust](https://www.phoronix.com/news/Greg-KH-On-New-Rust-Code)
 * [2025-02-19, 15:45:32](https://lobste.rs/s/gi6ed9/http3_2_1) - [HTTP3, 2, 1](https://maxmcd.com/posts/http321/)
