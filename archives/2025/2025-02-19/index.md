@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-19](index.md)
 
+* [2025-02-19, 17:33:46](https://lobste.rs/s/et8xra/collection_code_examples_from_prominent) - [A collection of code examples from prominent open-source projects (2021)](https://codecatalog.org/)
+* [2025-02-19, 17:31:11](https://lobste.rs/s/tlkkq4/multiple_vulnerabilities_u_boot) - [Multiple Vulnerabilities in U-Boot](https://www.openwall.com/lists/oss-security/2025/02/17/2)
 * [2025-02-19, 16:56:52](https://lobste.rs/s/ihigvo/open_source_fpga_toolchain_for_large) - [An open source FPGA toolchain for a large European space-grade FPGA](http://blog.yosyshq.com/p/an-open-source-fpga-toolchain-for-a-large-european-space-grade-fpga/)
 * [2025-02-19, 16:56:11](https://lobste.rs/s/gydrm1/secret_maze_debian_images) - [The secret maze of Debian images](https://blog.fai-project.org/posts/cdimages-maze/)
 * [2025-02-19, 16:50:44](https://lobste.rs/s/ban2oh/testing_concurrent_code_with_testing) - [Testing concurrent code with testing/synctest - The Go Programming Language](https://go.dev/blog/synctest)
