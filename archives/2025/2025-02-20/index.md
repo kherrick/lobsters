@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
 * [2025-02-20, 20:46:26](https://lobste.rs/s/ny3xu9/subcutanean_source_code_release) - [Subcutanean: Source Code Release](https://subcutanean.textories.com/source-release.html)
+* [2025-02-20, 20:42:06](https://lobste.rs/s/rcddil/running_pong_240_browser_tabs) - [Running Pong in 240 Browser Tabs ·](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
 * [2025-02-20, 20:41:33](https://lobste.rs/s/qiagr8/bash_bash_with_classes) - [Bash++: Bash with Classes](https://bpp.sh/)
 * [2025-02-20, 20:40:01](https://lobste.rs/s/adk7dp/what_is_wrong_with_architecture_internet) - [What is wrong with the architecture of the Internet?](https://ouroboros.rocks/blog/2022/02/12/what-is-wrong-with-the-architecture-of-the-internet/)
 * [2025-02-20, 19:22:09](https://lobste.rs/s/tycyw0/tail_calling_interpreter_for_python) - [A Tail Calling Interpreter For Python (And Other Updates)](https://blog.reverberate.org/2025/02/10/tail-call-updates.html)
