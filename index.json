@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-20, 19:22:09",
+      "https://lobste.rs/s/tycyw0/tail_calling_interpreter_for_python"
+    ],
+    [
+      "A Tail Calling Interpreter For Python (And Other Updates)",
+      "https://blog.reverberate.org/2025/02/10/tail-call-updates.html"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 17:37:12",
       "https://lobste.rs/s/zsngat/announcing_rust_1_85_0_rust_2024"
     ],
@@ -37,16 +47,6 @@
     [
       "Implementing a Game Boy emulator in Ruby",
       "https://sacckey.dev/posts/implementing-a-game-boy-emulator-in-ruby/"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 15:10:38",
-      "https://lobste.rs/s/pemfzb/cmu_17_712_fantastic_bugs_how_find_them"
-    ],
-    [
-      "CMU 17-712: Fantastic Bugs and How to Find Them",
-      "https://cmu-fantastic-bugs.github.io/"
     ]
   ],
   [
