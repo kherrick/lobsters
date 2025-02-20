@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-20, 14:25:44",
+      "https://lobste.rs/s/wd9ine/retrospective_interview_w_leonard"
+    ],
+    [
+      "A Retrospective Interview w/Leonard Richardson (of RMM fame)",
+      "https://htmx.org/essays/interviews/leonard-richardson/"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 14:21:48",
       "https://lobste.rs/s/jqyzio/five_kinds_nondeterminism"
     ],
@@ -227,16 +237,6 @@
     [
       "Add Wayland color-management protocol",
       "https://gitlab.freedesktop.org/wayland/wayland-protocols/-/commit/452e943b4991"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 05:08:01",
-      "https://lobste.rs/s/wwgtxt/append_only_programming"
-    ],
-    [
-      "Append-only programming",
-      "https://iafisher.com/blog/2024/08/append-only-programming"
     ]
   ],
   [
