@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 21:13:58](https://lobste.rs/s/sucvnw/hello_policy_gradient) - [Hello, Policy Gradient](http://www.kirkroerig.com/article/policy_gradient)
 * [2025-02-20, 20:46:26](https://lobste.rs/s/ny3xu9/subcutanean_source_code_release) - [Subcutanean: Source Code Release](https://subcutanean.textories.com/source-release.html)
 * [2025-02-20, 20:42:06](https://lobste.rs/s/rcddil/running_pong_240_browser_tabs) - [Running Pong in 240 Browser Tabs ·](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
 * [2025-02-20, 20:41:33](https://lobste.rs/s/qiagr8/bash_bash_with_classes) - [Bash++: Bash with Classes](https://bpp.sh/)
