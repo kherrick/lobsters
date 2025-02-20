@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-20, 13:31:27",
+      "https://lobste.rs/s/s75rfx/sapf_forth_like_language_for_audio"
+    ],
+    [
+      "sapf: - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping",
+      "https://github.com/lfnoise/sapf"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 13:27:56",
+      "https://lobste.rs/s/7cbgyr/ai_vs_extra_minute_shower"
+    ],
+    [
+      "AI vs. an extra minute in the shower",
+      "https://kmaasrud.com/blog/ai-vs-shower.html"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 12:13:00",
       "https://lobste.rs/s/ud4pbl/pgbouncer_is_useful_important_fraught"
     ],
@@ -77,16 +97,6 @@
     [
       "We trust you have received the usual lecture from the local System Administrator",
       "https://lobste.rs/s/2t027q/we_trust_you_have_received_usual_lecture"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 22:14:38",
-      "https://lobste.rs/s/g38ges/knight_tv_resurrection"
-    ],
-    [
-      "Knight TV resurrection",
-      "http://pdp-6.net/knight-tv/knight-tv.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Being a happy Nixer on a Mac",
       "https://paretosecurity.com/blog/being-a-happy-nixer-on-a-mac"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 12:55:47",
-      "https://lobste.rs/s/gxibvy/pain_linear_types_rust_2017"
-    ],
-    [
-      "The Pain Of Linear Types In Rust (2017)",
-      "https://faultlore.com/blah/linear-rust/"
     ]
   ],
   [
