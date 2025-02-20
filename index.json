@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-20, 17:37:12",
+      "https://lobste.rs/s/zsngat/announcing_rust_1_85_0_rust_2024"
+    ],
+    [
+      "Announcing Rust 1.85.0 and Rust 2024",
+      "https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 16:15:55",
       "https://lobste.rs/s/im5ysx/ugly_code_dumb_things"
     ],
@@ -177,16 +187,6 @@
     [
       "We trust you have received the usual lecture from the local System Administrator",
       "https://lobste.rs/s/2t027q/we_trust_you_have_received_usual_lecture"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 20:36:29",
-      "https://lobste.rs/s/2oykhm/practical_alloy_hands_on_guide_formal"
-    ],
-    [
-      "Practical Alloy: A hands-on guide to formal software design",
-      "https://practicalalloy.github.io/"
     ]
   ],
   [
