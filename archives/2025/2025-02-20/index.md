@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 20:46:26](https://lobste.rs/s/ny3xu9/subcutanean_source_code_release) - [Subcutanean: Source Code Release](https://subcutanean.textories.com/source-release.html)
+* [2025-02-20, 20:40:01](https://lobste.rs/s/adk7dp/what_is_wrong_with_architecture_internet) - [What is wrong with the architecture of the Internet?](https://ouroboros.rocks/blog/2022/02/12/what-is-wrong-with-the-architecture-of-the-internet/)
 * [2025-02-20, 19:22:09](https://lobste.rs/s/tycyw0/tail_calling_interpreter_for_python) - [A Tail Calling Interpreter For Python (And Other Updates)](https://blog.reverberate.org/2025/02/10/tail-call-updates.html)
 * [2025-02-20, 17:37:12](https://lobste.rs/s/zsngat/announcing_rust_1_85_0_rust_2024) - [Announcing Rust 1.85.0 and Rust 2024](https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html)
 * [2025-02-20, 16:15:55](https://lobste.rs/s/im5ysx/ugly_code_dumb_things) - [Ugly Code and Dumb Things](https://lucumr.pocoo.org/2025/2/20/ugly-code/)
