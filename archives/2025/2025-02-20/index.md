@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 14:25:44](https://lobste.rs/s/wd9ine/retrospective_interview_w_leonard) - [A Retrospective Interview w/Leonard Richardson (of RMM fame)](https://htmx.org/essays/interviews/leonard-richardson/)
 * [2025-02-20, 14:21:48](https://lobste.rs/s/jqyzio/five_kinds_nondeterminism) - [Five Kinds of Nondeterminism](https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/)
 * [2025-02-20, 14:20:07](https://lobste.rs/s/tlload/faq_on_microsoft_s_topological_qubit) - [FAQ on Microsoft’s topological qubit thing](https://scottaaronson.blog/?p=8669)
 * [2025-02-20, 13:40:05](https://lobste.rs/s/5ii6ie/travertine_cve_2025_24118_race_condition) - [TRAVERTINE (CVE-2025-24118): Race condition in XNU](https://jprx.io/cve-2025-24118/)
