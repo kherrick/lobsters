@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 14:21:48](https://lobste.rs/s/jqyzio/five_kinds_nondeterminism) - [Five Kinds of Nondeterminism](https://buttondown.com/hillelwayne/archive/five-kinds-of-nondeterminism/)
+* [2025-02-20, 14:20:07](https://lobste.rs/s/tlload/faq_on_microsoft_s_topological_qubit) - [FAQ on Microsoft’s topological qubit thing](https://scottaaronson.blog/?p=8669)
 * [2025-02-20, 13:40:05](https://lobste.rs/s/5ii6ie/travertine_cve_2025_24118_race_condition) - [TRAVERTINE (CVE-2025-24118): Race condition in XNU](https://jprx.io/cve-2025-24118/)
 * [2025-02-20, 13:31:27](https://lobste.rs/s/s75rfx/sapf_forth_like_language_for_audio) - [sapf: - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping](https://github.com/lfnoise/sapf)
 * [2025-02-20, 13:27:56](https://lobste.rs/s/7cbgyr/ai_vs_extra_minute_shower) - [AI vs. an extra minute in the shower](https://kmaasrud.com/blog/ai-vs-shower.html)
