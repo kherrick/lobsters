@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-21, 00:32:19",
+      "https://lobste.rs/s/ymrfir/crustacean_for_lobste_rs"
+    ],
+    [
+      "Crustacean for Lobste.rs",
+      "https://crustacean.optionalstudio.work"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 21:13:58",
       "https://lobste.rs/s/sucvnw/hello_policy_gradient"
     ],
@@ -91,6 +101,16 @@
   ],
   [
     [
+      "2025-02-20, 14:25:44",
+      "https://lobste.rs/s/wd9ine/retrospective_interview_w_leonard"
+    ],
+    [
+      "A Retrospective Interview w/Leonard Richardson (of RMM fame)",
+      "https://htmx.org/essays/interviews/leonard-richardson/"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 14:21:48",
       "https://lobste.rs/s/jqyzio/five_kinds_nondeterminism"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-02-20, 03:09:24",
-      "https://lobste.rs/s/w3ajso/raspberry_pi_rp2040_gets_surprise_speed"
-    ],
-    [
-      "The Raspberry Pi RP2040 Gets a Surprise Speed Boost, Unlocks an Official 200MHz Mode",
-      "https://www.hackster.io/news/the-raspberry-pi-rp2040-gets-a-surprise-speed-boost-unlocks-an-official-200mhz-mode-d6c9d267de5a"
-    ]
-  ],
-  [
-    [
       "2025-02-20, 00:21:16",
       "https://lobste.rs/s/isl4u6/demystifying_monads_rust_through"
     ],
@@ -197,16 +207,6 @@
     [
       "What I Saw at the Evolution of Plan 9",
       "https://adi.onl/oral.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 22:29:46",
-      "https://lobste.rs/s/ex0nul/build_your_own_sqlite_rust_part_5"
-    ],
-    [
-      "Build your own SQLite in Rust, Part 5: Evaluating queries",
-      "https://blog.sylver.dev/build-your-own-sqlite-part-5-evaluating-queries"
     ]
   ],
   [
