@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 18:46:58](https://lobste.rs/s/w668mg/gdscript_notes) - [GDScript Notes](https://wiki.alopex.li/GDScriptNotes)
 * [2025-02-21, 17:44:13](https://lobste.rs/s/mazfvy/neut_programming_language) - [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
 * [2025-02-21, 16:24:17](https://lobste.rs/s/t5bzi6/quint_deserves_rust) - [Quint Deserves Rust](https://informal.systems/blog/quint-deserves-rust)
 * [2025-02-21, 16:22:22](https://lobste.rs/s/uzzevr/linus_torvalds_clearly_lays_out_linux) - [Linus Torvalds Clearly Lays Out Linux Maintainer Roles - Or Not - Around Rust Code](https://www.phoronix.com/news/Torvalds-On-Rust-Maintainers)
