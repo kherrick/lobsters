@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-20](index.md)
 
+* [2025-02-20, 23:59:05](https://lobste.rs/s/nsq3tq/your_company_needs_junior_devs) - [Your company needs Junior devs](https://softwaredoug.com/blog/2024/09/07/your-team-needs-juniors)
 * [2025-02-20, 21:13:58](https://lobste.rs/s/sucvnw/hello_policy_gradient) - [Hello, Policy Gradient](http://www.kirkroerig.com/article/policy_gradient)
 * [2025-02-20, 20:46:26](https://lobste.rs/s/ny3xu9/subcutanean_source_code_release) - [Subcutanean: Source Code Release](https://subcutanean.textories.com/source-release.html)
 * [2025-02-20, 20:42:06](https://lobste.rs/s/rcddil/running_pong_240_browser_tabs) - [Running Pong in 240 Browser Tabs ·](https://eieio.games/blog/running-pong-in-240-browser-tabs/)
