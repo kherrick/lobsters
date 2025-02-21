@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 15:36:27](https://lobste.rs/s/jnchj9/we_issued_our_first_six_day_cert) - [We Issued Our First Six Day Cert](https://letsencrypt.org/2025/02/20/first-short-lived-cert-issued/)
 * [2025-02-21, 13:58:05](https://lobste.rs/s/fvzeep/stack_auth_updates_4_vanilla_js_library) - [Stack Auth Updates #4: Vanilla JS library & more](https://stack-auth.beehiiv.com/p/stack-auth-updates-4-vanilla-js-library-more)
 * [2025-02-21, 13:02:49](https://lobste.rs/s/2p6tfp/smallest_go_binary_5kb) - [The Smallest Go Binary (5KB)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb)
 * [2025-02-21, 12:41:22](https://lobste.rs/s/nodkpe/chatting_with_designer_monolisa) - [Chatting with the Designer of MonoLisa](https://joshleeb.com/posts/monolisa-chat.html)
