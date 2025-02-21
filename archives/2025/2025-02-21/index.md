@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 12:41:22](https://lobste.rs/s/nodkpe/chatting_with_designer_monolisa) - [Chatting with the Designer of MonoLisa](https://joshleeb.com/posts/monolisa-chat.html)
+* [2025-02-21, 12:31:10](https://lobste.rs/s/zcsxzn/first_wasm_ocaml_release_is_out) - [The First Wasm_of_ocaml Release is Out](https://tarides.com/blog/2025-02-19-the-first-wasm-of-ocaml-release-is-out/)
 * [2025-02-21, 10:58:16](https://lobste.rs/s/tctf1c/autosetup) - [autosetup](https://msteveb.github.io/autosetup/)
 * [2025-02-21, 10:53:06](https://lobste.rs/s/ovjvva/all_people_could_do_was_hope_nerds_would) - [All people could do was hope the nerds would fix it](https://www.theguardian.com/technology/2024/dec/28/all-people-could-do-was-hope-the-nerds-would-fix-it-the-global-panic-over-the-millennium-bug-25-years-on)
 * [2025-02-21, 10:46:09](https://lobste.rs/s/wntsxu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wntsxu/what_are_you_doing_this_weekend)
