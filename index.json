@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-21, 06:44:18",
+      "https://lobste.rs/s/yf2l9g/unauthenticated_rce_grandstream"
+    ],
+    [
+      "Unauthenticated RCE in Grandstream HT802V2 and probably others",
+      "https://www.die-welt.net/2025/02/unauthenticated-rce-in-grandstream-ht802v2-and-probably-others-using-gs_test_server-dhcp-vendor-option/"
+    ]
+  ],
+  [
+    [
       "2025-02-21, 06:04:09",
       "https://lobste.rs/s/qromax/chromium_ozone_wayland_last_mile_stretch"
     ],
@@ -197,16 +207,6 @@
     [
       "The IPv6 transition",
       "https://blog.apnic.net/2024/10/22/the-ipv6-transition/"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 08:39:48",
-      "https://lobste.rs/s/yk5qhb/meshtastic_decentralized"
-    ],
-    [
-      "Meshtastic: decentralized communication with low-power devices",
-      "https://lwn.net/SubscriberLink/1009782/1d1e1918a55396b6/"
     ]
   ],
   [
