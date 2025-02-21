@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 10:58:16](https://lobste.rs/s/tctf1c/autosetup) - [autosetup](https://msteveb.github.io/autosetup/)
+* [2025-02-21, 10:53:06](https://lobste.rs/s/ovjvva/all_people_could_do_was_hope_nerds_would) - [All people could do was hope the nerds would fix it](https://www.theguardian.com/technology/2024/dec/28/all-people-could-do-was-hope-the-nerds-would-fix-it-the-global-panic-over-the-millennium-bug-25-years-on)
 * [2025-02-21, 10:46:09](https://lobste.rs/s/wntsxu/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/wntsxu/what_are_you_doing_this_weekend)
 * [2025-02-21, 10:09:41](https://lobste.rs/s/4qt8cm/ys_x_nordics_pc_optimization_journey) - [The Ys X: Nordics PC Optimization Journey](https://store.steampowered.com/news/app/2731870/view/4666382742870026335)
 * [2025-02-21, 09:55:24](https://lobste.rs/s/rhydqn/unix_v2_beta_resurrected) - [UNIX V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
