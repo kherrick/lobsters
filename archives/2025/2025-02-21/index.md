@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 10:09:41](https://lobste.rs/s/4qt8cm/ys_x_nordics_pc_optimization_journey) - [The Ys X: Nordics PC Optimization Journey](https://store.steampowered.com/news/app/2731870/view/4666382742870026335)
+* [2025-02-21, 09:55:24](https://lobste.rs/s/rhydqn/unix_v2_beta_resurrected) - [UNIX V2 \"Beta\" Resurrected](https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html)
 * [2025-02-21, 08:56:32](https://lobste.rs/s/u4eidn/running_ml_models_elixir_using_pythonx) - [Running ML models in Elixir using Pythonx](https://samrat.me/running-ml-models-in-elixir-using-pythonx/)
 * [2025-02-21, 08:52:57](https://lobste.rs/s/wooe50/databases_are_endgame_for_data_oriented) - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 * [2025-02-21, 07:44:23](https://lobste.rs/s/qznnxe/podcast_clojure_product_would_you_do_it) - [Podcast \"Clojure in product. Would you do it again?\"](http://www.youtube.com/playlist?list=PL7gRrGzp1qFTF8g0cURADt9i8X0W-cOxf)
