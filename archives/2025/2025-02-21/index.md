@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-21](index.md)
 
+* [2025-02-21, 08:56:32](https://lobste.rs/s/u4eidn/running_ml_models_elixir_using_pythonx) - [Running ML models in Elixir using Pythonx](https://samrat.me/running-ml-models-in-elixir-using-pythonx/)
+* [2025-02-21, 08:52:57](https://lobste.rs/s/wooe50/databases_are_endgame_for_data_oriented) - [Databases are the endgame for data-oriented design](https://spacetimedb.com/blog/databases-and-data-oriented-design)
 * [2025-02-21, 07:44:23](https://lobste.rs/s/qznnxe/podcast_clojure_product_would_you_do_it) - [Podcast \"Clojure in product. Would you do it again?\"](http://www.youtube.com/playlist?list=PL7gRrGzp1qFTF8g0cURADt9i8X0W-cOxf)
 * [2025-02-21, 07:40:41](https://lobste.rs/s/s3re6r/docker_limits_unauthenticated_pulls_10) - [Docker limits unauthenticated pulls to 10/hr/ip from Docker Hub, from March 1](https://docs.docker.com/docker-hub/usage/)
 * [2025-02-21, 06:44:18](https://lobste.rs/s/yf2l9g/unauthenticated_rce_grandstream) - [Unauthenticated RCE in Grandstream HT802V2 and probably others](https://www.die-welt.net/2025/02/unauthenticated-rce-in-grandstream-ht802v2-and-probably-others-using-gs_test_server-dhcp-vendor-option/)
