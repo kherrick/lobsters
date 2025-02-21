@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-21, 00:01:33",
+      "https://lobste.rs/s/gjxxqk/my_llm_codegen_workflow_atm"
+    ],
+    [
+      "My LLM codegen workflow atm",
+      "https://harper.blog/2025/02/16/my-llm-codegen-workflow-atm/"
+    ]
+  ],
+  [
+    [
       "2025-02-20, 23:59:05",
       "https://lobste.rs/s/nsq3tq/your_company_needs_junior_devs"
     ],
@@ -27,6 +37,16 @@
     [
       "Hello, Policy Gradient",
       "http://www.kirkroerig.com/article/policy_gradient"
+    ]
+  ],
+  [
+    [
+      "2025-02-20, 20:46:26",
+      "https://lobste.rs/s/ny3xu9/subcutanean_source_code_release"
+    ],
+    [
+      "Subcutanean: Source Code Release",
+      "https://subcutanean.textories.com/source-release.html"
     ]
   ],
   [
@@ -57,16 +77,6 @@
     [
       "What is wrong with the architecture of the Internet?",
       "https://ouroboros.rocks/blog/2022/02/12/what-is-wrong-with-the-architecture-of-the-internet/"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 19:22:09",
-      "https://lobste.rs/s/tycyw0/tail_calling_interpreter_for_python"
-    ],
-    [
-      "A Tail Calling Interpreter For Python (And Other Updates)",
-      "https://blog.reverberate.org/2025/02/10/tail-call-updates.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Greg Kroah-Hartman Makes A Compelling Case For New Linux Kernel Drivers To Be Written In Rust",
       "https://www.phoronix.com/news/Greg-KH-On-New-Rust-Code"
-    ]
-  ],
-  [
-    [
-      "2025-02-19, 13:17:55",
-      "https://lobste.rs/s/utonjg/being_happy_nixer_on_mac"
-    ],
-    [
-      "Being a happy Nixer on a Mac",
-      "https://paretosecurity.com/blog/being-a-happy-nixer-on-a-mac"
     ]
   ]
 ]
