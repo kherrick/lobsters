@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-21, 16:22:22](https://lobste.rs/s/uzzevr/linus_torvalds_clearly_lays_out_linux) - [Linus Torvalds Clearly Lays Out Linux Maintainer Roles - Or Not - Around Rust Code](https://www.phoronix.com/news/Torvalds-On-Rust-Maintainers)
+* [2025-02-21, 16:19:52](https://lobste.rs/s/ux76xy/apple_pulls_encryption_feature_from_uk) - [Apple pulls encryption feature from UK over government spying demands](https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor)
 * [2025-02-21, 15:36:27](https://lobste.rs/s/jnchj9/we_issued_our_first_six_day_cert) - [We Issued Our First Six Day Cert](https://letsencrypt.org/2025/02/20/first-short-lived-cert-issued/)
 * [2025-02-21, 13:58:05](https://lobste.rs/s/fvzeep/stack_auth_updates_4_vanilla_js_library) - [Stack Auth Updates #4: Vanilla JS library & more](https://stack-auth.beehiiv.com/p/stack-auth-updates-4-vanilla-js-library-more)
 * [2025-02-21, 13:02:49](https://lobste.rs/s/2p6tfp/smallest_go_binary_5kb) - [The Smallest Go Binary (5KB)](https://totallygamerjet.hashnode.dev/the-smallest-go-binary-5kb)
@@ -19,8 +21,6 @@
 * [2025-02-20, 20:40:01](https://lobste.rs/s/adk7dp/what_is_wrong_with_architecture_internet) - [What is wrong with the architecture of the Internet?](https://ouroboros.rocks/blog/2022/02/12/what-is-wrong-with-the-architecture-of-the-internet/)
 * [2025-02-20, 17:37:12](https://lobste.rs/s/zsngat/announcing_rust_1_85_0_rust_2024) - [Announcing Rust 1.85.0 and Rust 2024](https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html)
 * [2025-02-20, 16:15:55](https://lobste.rs/s/im5ysx/ugly_code_dumb_things) - [Ugly Code and Dumb Things](https://lucumr.pocoo.org/2025/2/20/ugly-code/)
-* [2025-02-20, 16:03:31](https://lobste.rs/s/ziemvn/new_interpreter_python_3_14_delivers_free) - [A new interpreter in Python 3.14 delivers a free speed boost](https://www.infoworld.com/article/3820890/a-new-interpreter-in-python-3-14-delivers-a-free-speed-boost.html)
-* [2025-02-20, 13:31:27](https://lobste.rs/s/s75rfx/sapf_forth_like_language_for_audio) - [sapf: - a Forth-like language for audio synthesis using lazy lists and APL-like auto-mapping](https://github.com/lfnoise/sapf)
 * [2025-02-20, 13:27:56](https://lobste.rs/s/7cbgyr/ai_vs_extra_minute_shower) - [AI vs. an extra minute in the shower](https://kmaasrud.com/blog/ai-vs-shower.html)
 * [2025-02-20, 12:13:00](https://lobste.rs/s/ud4pbl/pgbouncer_is_useful_important_fraught) - [PgBouncer is useful, important, and fraught with peril](https://jpcamara.com/2023/04/12/pgbouncer-is-useful.html)
 * [2025-02-20, 11:18:36](https://lobste.rs/s/sm7pk7/ipv6_transition) - [The IPv6 transition](https://blog.apnic.net/2024/10/22/the-ipv6-transition/)
