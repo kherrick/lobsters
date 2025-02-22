@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-22, 17:13:17",
+      "https://lobste.rs/s/bjngsz/llm_commit_plugin_for_llm_generates"
+    ],
+    [
+      "llm-commit: A plugin for llm that generates commit messages",
+      "https://github.com/GNtousakis/llm-commit"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 17:03:42",
       "https://lobste.rs/s/n9fhi8/1_5b_bybit_hack_era_operational_security"
     ],
@@ -237,16 +247,6 @@
     [
       "Crustacean for Lobste.rs",
       "https://crustacean.optionalstudio.work"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 17:37:12",
-      "https://lobste.rs/s/zsngat/announcing_rust_1_85_0_rust_2024"
-    ],
-    [
-      "Announcing Rust 1.85.0 and Rust 2024",
-      "https://blog.rust-lang.org/2025/02/20/Rust-1.85.0.html"
     ]
   ]
 ]
