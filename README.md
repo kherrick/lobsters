@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-22, 22:41:39](https://lobste.rs/s/ctpdvb/vine_programming_language_based_on) - [Vine: A programming language based on Interaction Nets](https://vine.dev/)
 * [2025-02-22, 19:19:57](https://lobste.rs/s/niqvid/building_3d_modelling_app_with_bevy) - [Building a 3D modelling app with Bevy](https://www.youtube.com/watch?v=-m4GXG67sG4)
 * [2025-02-22, 18:40:40](https://lobste.rs/s/vtufn0/scrap_your_orm_replace_your_orm_with) - [Scrap Your ORM—Replace Your ORM With Relational Algebra](https://youtu.be/SKXEppEZp9M)
 * [2025-02-22, 18:00:16](https://lobste.rs/s/tgyqp7/sparse_voxels_rasterization_real_time) - [Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering](https://svraster.github.io/)
@@ -9,7 +10,6 @@
 * [2025-02-22, 16:12:03](https://lobste.rs/s/zaurni/concurrency_bugs_lucene_how_fix) - [Concurrency bugs in Lucene: How to fix optimistic concurrency failures](https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging)
 * [2025-02-22, 16:06:49](https://lobste.rs/s/qu6kay/solving_jit_calculator_challenge) - [Solving the JIT calculator challenge](https://ochagavia.nl/blog/solving-the-jit-calculator-challenge/)
 * [2025-02-22, 15:28:22](https://lobste.rs/s/nigu0x/systemv_filesystem_being_removed_from) - [SystemV filesystem being removed from the Linux kernel](https://www.phoronix.com/news/Removing-SystemV-Filesystem)
-* [2025-02-22, 11:15:04](https://lobste.rs/s/angvuk/making_datalog_engine_clojure) - [Making a datalog engine in clojure](https://shagunagrawal.me/posts/making-a-simple-datalog-engine-in-clojure/)
 * [2025-02-22, 10:35:39](https://lobste.rs/s/yclvqy/ring_is_unmaintained) - [Ring is unmaintained](https://rustsec.org/advisories/RUSTSEC-2025-0007.html)
 * [2025-02-22, 08:59:13](https://lobste.rs/s/nsawha/notes_from_code_walking_kubelet) - [Notes from code walking kubelet initialization](https://samof76.space/kubelet-initialization.html)
 * [2025-02-22, 08:04:03](https://lobste.rs/s/bcy6zi/invoker_commands_explainer) - [Invoker Commands (Explainer)](https://open-ui.org/components/invokers.explainer/)
