@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-22, 15:28:22",
+      "https://lobste.rs/s/nigu0x/systemv_filesystem_being_removed_from"
+    ],
+    [
+      "SystemV filesystem being removed from the Linux kernel",
+      "https://www.phoronix.com/news/Removing-SystemV-Filesystem"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 11:15:04",
       "https://lobste.rs/s/angvuk/making_datalog_engine_clojure"
     ],
@@ -197,16 +207,6 @@
     [
       "UNIX V2 \"Beta\" Resurrected",
       "https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 08:56:32",
-      "https://lobste.rs/s/u4eidn/running_ml_models_elixir_using_pythonx"
-    ],
-    [
-      "Running ML models in Elixir using Pythonx",
-      "https://samrat.me/running-ml-models-in-elixir-using-pythonx/"
     ]
   ],
   [
