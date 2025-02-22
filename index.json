@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-22, 23:30:34",
+      "https://lobste.rs/s/nlv92i/ffmpeg_school_assembly_language"
+    ],
+    [
+      "The FFmpeg School of Assembly Language",
+      "https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 22:41:39",
       "https://lobste.rs/s/ctpdvb/vine_programming_language_based_on"
     ],
@@ -207,16 +217,6 @@
     [
       "Apple pulls encryption feature from UK over government spying demands",
       "https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 15:36:27",
-      "https://lobste.rs/s/jnchj9/we_issued_our_first_six_day_cert"
-    ],
-    [
-      "We Issued Our First Six Day Cert",
-      "https://letsencrypt.org/2025/02/20/first-short-lived-cert-issued/"
     ]
   ],
   [
