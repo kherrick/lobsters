@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-22, 16:12:03",
+      "https://lobste.rs/s/zaurni/concurrency_bugs_lucene_how_fix"
+    ],
+    [
+      "Concurrency bugs in Lucene: How to fix optimistic concurrency failures",
+      "https://www.elastic.co/search-labs/blog/optimistic-concurrency-lucene-debugging"
+    ]
+  ],
+  [
+    [
+      "2025-02-22, 16:06:49",
+      "https://lobste.rs/s/qu6kay/solving_jit_calculator_challenge"
+    ],
+    [
+      "Solving the JIT calculator challenge",
+      "https://ochagavia.nl/blog/solving-the-jit-calculator-challenge/"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 15:28:22",
       "https://lobste.rs/s/nigu0x/systemv_filesystem_being_removed_from"
     ],
@@ -197,26 +217,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/wntsxu/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 09:55:24",
-      "https://lobste.rs/s/rhydqn/unix_v2_beta_resurrected"
-    ],
-    [
-      "UNIX V2 \"Beta\" Resurrected",
-      "https://www.tuhs.org/pipermail/tuhs/2025-February/031420.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 08:52:57",
-      "https://lobste.rs/s/wooe50/databases_are_endgame_for_data_oriented"
-    ],
-    [
-      "Databases are the endgame for data-oriented design",
-      "https://spacetimedb.com/blog/databases-and-data-oriented-design"
     ]
   ],
   [
