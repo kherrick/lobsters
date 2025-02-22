@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-22](index.md)
 
+* [2025-02-22, 18:40:40](https://lobste.rs/s/vtufn0/scrap_your_orm_replace_your_orm_with) - [Scrap Your ORM—Replace Your ORM With Relational Algebra](https://youtu.be/SKXEppEZp9M)
 * [2025-02-22, 18:00:16](https://lobste.rs/s/tgyqp7/sparse_voxels_rasterization_real_time) - [Sparse Voxels Rasterization: Real-time High-fidelity Radiance Field Rendering](https://svraster.github.io/)
 * [2025-02-22, 17:13:17](https://lobste.rs/s/bjngsz/llm_commit_plugin_for_llm_generates) - [llm-commit: A plugin for llm that generates commit messages](https://github.com/GNtousakis/llm-commit)
 * [2025-02-22, 17:03:42](https://lobste.rs/s/n9fhi8/1_5b_bybit_hack_era_operational_security) - [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
