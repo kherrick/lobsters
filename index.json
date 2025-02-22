@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-22, 10:35:39",
+      "https://lobste.rs/s/yclvqy/ring_is_unmaintained"
+    ],
+    [
+      "Ring is unmaintained",
+      "https://rustsec.org/advisories/RUSTSEC-2025-0007.html"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 08:59:13",
       "https://lobste.rs/s/nsawha/notes_from_code_walking_kubelet"
     ],
@@ -227,16 +237,6 @@
     [
       "Crustacean for Lobste.rs",
       "https://crustacean.optionalstudio.work"
-    ]
-  ],
-  [
-    [
-      "2025-02-20, 20:41:33",
-      "https://lobste.rs/s/qiagr8/bash_bash_with_classes"
-    ],
-    [
-      "Bash++: Bash with Classes",
-      "https://bpp.sh/"
     ]
   ],
   [
