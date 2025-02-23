@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-23, 16:08:51](https://lobste.rs/s/ny2s9f/openbsd_innovations) - [OpenBSD: Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-23, 14:45:33](https://lobste.rs/s/369gwi/calling_private_methods_without_losing) - [Calling private methods without losing sleep at night](https://justin.searls.co/posts/calling-private-methods-without-losing-sleep-at-night/)
 * [2025-02-23, 13:24:35](https://lobste.rs/s/d51owo/vcmi_open_source_engine_for_heroes_might) - [vcmi: Open-source engine for Heroes of Might and Magic III](https://github.com/vcmi/vcmi)
 * [2025-02-23, 13:22:21](https://lobste.rs/s/xv210z/why_are_qr_codes_with_capital_letters) - [Why are QR Codes with capital letters smaller than QR codes with lower-case letters?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
@@ -20,7 +21,6 @@
 * [2025-02-22, 10:35:39](https://lobste.rs/s/yclvqy/ring_is_unmaintained) - [Ring is unmaintained](https://rustsec.org/advisories/RUSTSEC-2025-0007.html)
 * [2025-02-22, 08:59:13](https://lobste.rs/s/nsawha/notes_from_code_walking_kubelet) - [Notes from code walking kubelet initialization](https://samof76.space/kubelet-initialization.html)
 * [2025-02-22, 02:04:53](https://lobste.rs/s/ncy6sm/how_swift_s_server_support_powers_things) - [How Swift's server support powers Things Cloud](https://swift.org/blog/how-swifts-server-support-powers-things-cloud/)
-* [2025-02-22, 01:27:08](https://lobste.rs/s/02778a/nyx_space_rust_power_firefly_s_blue_ghost) - [Nyx Space and Rust Power Firefly's Blue Ghost Lunar Landing](https://nyxspace.com/blog/2025/02/21/nyx-space-and-rust-power-fireflys-blue-ghost-lunar-landing/)
 * [2025-02-21, 22:49:37](https://lobste.rs/s/9a3noh/nixos_power_vm_tests) - [NixOS: the power of VM tests](https://bmcgee.ie/posts/2025/02/nixos-the-power-of-vm-tests/)
 * [2025-02-21, 18:46:58](https://lobste.rs/s/w668mg/gdscript_notes) - [GDScript Notes](https://wiki.alopex.li/GDScriptNotes)
 * [2025-02-21, 17:44:13](https://lobste.rs/s/mazfvy/neut_programming_language) - [Neut Programming Language](https://vekatze.github.io/neut/overview.html)
