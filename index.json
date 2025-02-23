@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-23, 02:10:12",
+      "https://lobste.rs/s/ocxaqf/new_math_library_for_ada_neosimd"
+    ],
+    [
+      "A new math library for Ada - NeoSIMD",
+      "https://blog.adacore.com/a-new-math-library-for-ada-neo-simd"
+    ]
+  ],
+  [
+    [
       "2025-02-22, 23:30:34",
       "https://lobste.rs/s/nlv92i/ffmpeg_school_assembly_language"
     ],
@@ -217,16 +227,6 @@
     [
       "Apple pulls encryption feature from UK over government spying demands",
       "https://www.theverge.com/news/617273/apple-removes-encryption-advanced-data-protection-adp-uk-spying-backdoor"
-    ]
-  ],
-  [
-    [
-      "2025-02-21, 12:31:10",
-      "https://lobste.rs/s/zcsxzn/first_wasm_ocaml_release_is_out"
-    ],
-    [
-      "The First Wasm_of_ocaml Release is Out",
-      "https://tarides.com/blog/2025-02-19-the-first-wasm-of-ocaml-release-is-out/"
     ]
   ],
   [
