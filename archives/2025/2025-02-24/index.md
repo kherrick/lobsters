@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 15:50:41](https://lobste.rs/s/hu8ekd/cves_for_end_life) - [CVEs for End of Life?](https://opensourcesecurity.io/2025/01-cve-for-end-of-life/)
 * [2025-02-24, 14:37:35](https://lobste.rs/s/g1mjti/comparing_strings_as_integers_with) - [Comparing Strings as Integers with @bitCast](https://www.openmymind.net/Comparing-Strings-as-Integers-with-bitCast/)
 * [2025-02-24, 14:04:58](https://lobste.rs/s/pjtizh/dropshot_expose_rest_apis_from_rust) - [dropshot: expose REST APIs from a Rust program](https://github.com/oxidecomputer/dropshot)
 * [2025-02-24, 12:51:28](https://lobste.rs/s/uz8tlz/nil_channels_go) - [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
