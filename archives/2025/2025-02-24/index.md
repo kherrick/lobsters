@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 07:00:11](https://lobste.rs/s/q3sqaz/evolution_agile_imposters_why_we_can_t) - [The Evolution of Agile Imposters: Why We Can't Estimate Our Own Software](https://junglecoder.com/~saulrh/articles/evolution-of-agile-imposters.html)
 * [2025-02-24, 05:22:49](https://lobste.rs/s/p6xyrt/meticulous_guide_advances_deep_learning) - [A Meticulous Guide to Advances in Deep Learning Efficiency over the Years](https://alexzhang13.github.io/blog/2024/efficient-dl/)
 * [2025-02-24, 04:31:04](https://lobste.rs/s/8sarnt/warsmash_rewrite_warcraft3_java) - [Warsmash: A rewrite of Warcraft3 in Java](https://github.com/Retera/WarsmashModEngine)
 * [2025-02-24, 04:04:07](https://lobste.rs/s/jx882u/icanproveitcansort) - [ICanProveItCanSort](https://unnamed.website/posts/i-can-prove-it-can-sort/)
