@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-24, 15:50:41",
+      "https://lobste.rs/s/hu8ekd/cves_for_end_life"
+    ],
+    [
+      "CVEs for End of Life?",
+      "https://opensourcesecurity.io/2025/01-cve-for-end-of-life/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 14:04:58",
       "https://lobste.rs/s/pjtizh/dropshot_expose_rest_apis_from_rust"
     ],
@@ -147,16 +157,6 @@
     [
       "MacOS for KDE Users",
       "https://matklad.github.io/2025/02/23/macos-for-kde-users.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 23:59:54",
-      "https://lobste.rs/s/gxwaf0/dos_3_3_sys_com_bug_hunt"
-    ],
-    [
-      "The DOS 3.3 SYS.COM Bug Hunt",
-      "https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html"
     ]
   ],
   [
