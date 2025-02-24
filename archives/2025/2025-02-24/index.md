@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 17:22:01](https://lobste.rs/s/ocmai4/introducing_fullstack_bench) - [Introducing Fullstack-Bench](https://stack.convex.dev/introducing-fullstack-bench)
+* [2025-02-24, 17:15:25](https://lobste.rs/s/jzf4w9/transparency_hardware_software) - [Transparency in Hardware/Software Interfaces](https://rfd.shared.oxide.computer/rfd/0552)
 * [2025-02-24, 16:42:31](https://lobste.rs/s/xcqfp7/philosophy_software_design_vs_clean_code) - [\"A Philosophy of Software Design\" vs \"Clean Code\"](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 16:10:30](https://lobste.rs/s/mnj6yg/tech_hype_cycles) - [Tech hype cycles](https://wiki.alopex.li/HypeCycles)
 * [2025-02-24, 15:50:41](https://lobste.rs/s/hu8ekd/cves_for_end_life) - [CVEs for End of Life?](https://opensourcesecurity.io/2025/01-cve-for-end-of-life/)
