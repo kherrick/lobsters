@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-24, 09:56:25",
+      "https://lobste.rs/s/y9eyjq/why_clojure"
+    ],
+    [
+      "Why Clojure?",
+      "https://gaiwan.co/blog/why-clojure/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 09:31:03",
       "https://lobste.rs/s/oa1kcd/why_do_frame_pointers_matter_for_ocaml"
     ],
@@ -227,16 +237,6 @@
     [
       "Why are QR Codes with capital letters smaller than QR codes with lower-case letters?",
       "https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 10:10:56",
-      "https://lobste.rs/s/mx9uqy/microsoft_makes_more_their_directx"
-    ],
-    [
-      "Microsoft makes more of their DirectX compiler code open-source",
-      "https://www.phoronix.com/news/DirectXShaderCompiler-2025"
     ]
   ],
   [
