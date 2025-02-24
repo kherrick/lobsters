@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-24, 10:35:05",
+      "https://lobste.rs/s/tvpfsy/how_mindbody_improved_query_latency"
+    ],
+    [
+      "How Mindbody improved query latency and optimized costs using Amazon Aurora PostgreSQL Optimized Reads",
+      "https://aws.amazon.com/blogs/database/how-mindbody-improved-query-latency-and-optimized-costs-using-amazon-aurora-postgresql-optimized-reads/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 09:56:25",
       "https://lobste.rs/s/y9eyjq/why_clojure"
     ],
@@ -17,16 +27,6 @@
     [
       "Why do frame pointers matter for OCaml?",
       "https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 08:46:19",
-      "https://lobste.rs/s/xzrfy0/can_1b_llm_surpass_405b_llm_rethinking"
-    ],
-    [
-      "Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling",
-      "https://arxiv.org/abs/2502.06703"
     ]
   ],
   [
