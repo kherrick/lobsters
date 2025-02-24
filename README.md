@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-24, 15:50:41](https://lobste.rs/s/hu8ekd/cves_for_end_life) - [CVEs for End of Life?](https://opensourcesecurity.io/2025/01-cve-for-end-of-life/)
+* [2025-02-24, 16:10:30](https://lobste.rs/s/mnj6yg/tech_hype_cycles) - [Tech hype cycles](https://wiki.alopex.li/HypeCycles)
 * [2025-02-24, 14:04:58](https://lobste.rs/s/pjtizh/dropshot_expose_rest_apis_from_rust) - [dropshot: expose REST APIs from a Rust program](https://github.com/oxidecomputer/dropshot)
 * [2025-02-24, 12:51:28](https://lobste.rs/s/uz8tlz/nil_channels_go) - [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
 * [2025-02-24, 11:48:31](https://lobste.rs/s/d3shnw/mathb_is_shutting_down) - [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
