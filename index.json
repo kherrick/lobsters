@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-24, 18:57:26",
+      "https://lobste.rs/s/ohdqzz/least_secure_totp_code_possible"
+    ],
+    [
+      "The least secure TOTP code possible",
+      "https://shkspr.mobi/blog/2025/02/the-least-secure-totp-code-possible/"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 17:22:01",
       "https://lobste.rs/s/ocmai4/introducing_fullstack_bench"
     ],
@@ -177,16 +187,6 @@
     [
       "MacOS for KDE Users",
       "https://matklad.github.io/2025/02/23/macos-for-kde-users.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 23:21:54",
-      "https://lobste.rs/s/ymmy0t/defragging_my_old_dell_s_uefi_nvram"
-    ],
-    [
-      "Defragging my old Dell’s UEFI NVRAM",
-      "https://artemis.sh/2025/02/22/uefi-nvram-defrag.html"
     ]
   ],
   [
