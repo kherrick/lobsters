@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-24, 16:42:31",
+      "https://lobste.rs/s/xcqfp7/philosophy_software_design_vs_clean_code"
+    ],
+    [
+      "\"A Philosophy of Software Design\" vs \"Clean Code\"",
+      "https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 16:10:30",
       "https://lobste.rs/s/mnj6yg/tech_hype_cycles"
     ],
@@ -227,16 +237,6 @@
     [
       "OpenBSD: Innovations",
       "https://www.openbsd.org/innovations.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 13:24:35",
-      "https://lobste.rs/s/d51owo/vcmi_open_source_engine_for_heroes_might"
-    ],
-    [
-      "vcmi: Open-source engine for Heroes of Might and Magic III",
-      "https://github.com/vcmi/vcmi"
     ]
   ],
   [
