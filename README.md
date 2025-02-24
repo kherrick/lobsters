@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-24, 04:04:07](https://lobste.rs/s/jx882u/icanproveitcansort) - [ICanProveItCanSort](https://unnamed.website/posts/i-can-prove-it-can-sort/)
 * [2025-02-24, 03:23:00](https://lobste.rs/s/4aa2rr/epoch_semantic_versioning) - [Epoch Semantic Versioning](https://antfu.me/posts/epoch-semver)
 * [2025-02-24, 02:08:32](https://lobste.rs/s/zvhl39/tokio_prctl_nasty_bug) - [Tokio + prctl = nasty bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
 * [2025-02-24, 02:01:53](https://lobste.rs/s/9b7odp/macos_for_kde_users) - [MacOS for KDE Users](https://matklad.github.io/2025/02/23/macos-for-kde-users.html)
 * [2025-02-23, 23:59:54](https://lobste.rs/s/gxwaf0/dos_3_3_sys_com_bug_hunt) - [The DOS 3.3 SYS.COM Bug Hunt](https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html)
 * [2025-02-23, 23:21:54](https://lobste.rs/s/ymmy0t/defragging_my_old_dell_s_uefi_nvram) - [Defragging my old Dell’s UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
-* [2025-02-23, 22:26:01](https://lobste.rs/s/6hp9k7/memory_hell) - [Memory hell](https://trynova.dev/blog/memory-hell)
 * [2025-02-23, 20:36:10](https://lobste.rs/s/35gepf/building_roottrees_are_dead) - [Building The Roottrees are Dead](https://eviltrout.com/2025/01/27/building-the-roottrees.html)
 * [2025-02-23, 18:08:46](https://lobste.rs/s/on1dfb/emacs_30_1_released) - [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 * [2025-02-23, 17:16:14](https://lobste.rs/s/w2jpto/removing_jeff_bezos_from_my_bed) - [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
