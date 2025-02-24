@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 11:01:14](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week)
 * [2025-02-24, 10:35:05](https://lobste.rs/s/tvpfsy/how_mindbody_improved_query_latency) - [How Mindbody improved query latency and optimized costs using Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/blogs/database/how-mindbody-improved-query-latency-and-optimized-costs-using-amazon-aurora-postgresql-optimized-reads/)
 * [2025-02-24, 09:56:25](https://lobste.rs/s/y9eyjq/why_clojure) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-24, 09:31:03](https://lobste.rs/s/oa1kcd/why_do_frame_pointers_matter_for_ocaml) - [Why do frame pointers matter for OCaml?](https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html)

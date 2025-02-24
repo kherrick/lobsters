@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-24, 11:01:14](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week)
 * [2025-02-24, 10:35:05](https://lobste.rs/s/tvpfsy/how_mindbody_improved_query_latency) - [How Mindbody improved query latency and optimized costs using Amazon Aurora PostgreSQL Optimized Reads](https://aws.amazon.com/blogs/database/how-mindbody-improved-query-latency-and-optimized-costs-using-amazon-aurora-postgresql-optimized-reads/)
 * [2025-02-24, 09:56:25](https://lobste.rs/s/y9eyjq/why_clojure) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
 * [2025-02-24, 09:31:03](https://lobste.rs/s/oa1kcd/why_do_frame_pointers_matter_for_ocaml) - [Why do frame pointers matter for OCaml?](https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html)
 * [2025-02-24, 08:07:39](https://lobste.rs/s/ta33pc/calendar_txt_2021) - [Calendar.txt (2021)](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 07:41:10](https://lobste.rs/s/gedr6u/bitwarden_authenticator) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 * [2025-02-24, 07:00:11](https://lobste.rs/s/q3sqaz/evolution_agile_imposters_why_we_can_t) - [The Evolution of Agile Imposters: Why We Can't Estimate Our Own Software](https://junglecoder.com/~saulrh/articles/evolution-of-agile-imposters.html)
-* [2025-02-24, 05:22:49](https://lobste.rs/s/p6xyrt/meticulous_guide_advances_deep_learning) - [A Meticulous Guide to Advances in Deep Learning Efficiency over the Years](https://alexzhang13.github.io/blog/2024/efficient-dl/)
 * [2025-02-24, 04:31:04](https://lobste.rs/s/8sarnt/warsmash_rewrite_warcraft3_java) - [Warsmash: A rewrite of Warcraft3 in Java](https://github.com/Retera/WarsmashModEngine)
 * [2025-02-24, 04:04:07](https://lobste.rs/s/jx882u/icanproveitcansort) - [ICanProveItCanSort](https://unnamed.website/posts/i-can-prove-it-can-sort/)
 * [2025-02-24, 03:23:00](https://lobste.rs/s/4aa2rr/epoch_semantic_versioning) - [Epoch Semantic Versioning](https://antfu.me/posts/epoch-semver)
