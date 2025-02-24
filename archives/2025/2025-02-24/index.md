@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 12:51:28](https://lobste.rs/s/uz8tlz/nil_channels_go) - [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
 * [2025-02-24, 11:48:31](https://lobste.rs/s/d3shnw/mathb_is_shutting_down) - [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
 * [2025-02-24, 11:45:15](https://lobste.rs/s/iem7jw/soar_distro_agnostic_package_manager) - [Soar – Distro Agnostic Package Manager, HomeBrew (LinuxBrew) Done Right](https://github.com/pkgforge/soar)
 * [2025-02-24, 11:01:14](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week)

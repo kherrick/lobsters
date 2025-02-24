@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-24, 12:51:28](https://lobste.rs/s/uz8tlz/nil_channels_go) - [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
 * [2025-02-24, 11:48:31](https://lobste.rs/s/d3shnw/mathb_is_shutting_down) - [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
 * [2025-02-24, 11:45:15](https://lobste.rs/s/iem7jw/soar_distro_agnostic_package_manager) - [Soar – Distro Agnostic Package Manager, HomeBrew (LinuxBrew) Done Right](https://github.com/pkgforge/soar)
 * [2025-02-24, 11:01:14](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week)
@@ -20,7 +21,6 @@
 * [2025-02-23, 18:08:46](https://lobste.rs/s/on1dfb/emacs_30_1_released) - [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 * [2025-02-23, 17:16:14](https://lobste.rs/s/w2jpto/removing_jeff_bezos_from_my_bed) - [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
 * [2025-02-23, 17:07:32](https://lobste.rs/s/zzpim9/war_rooms_vs_deep_investigations) - [War rooms vs. deep investigations](https://rachelbythebay.com/w/2025/02/22/war/)
-* [2025-02-23, 17:05:22](https://lobste.rs/s/9wmvvp/three_questions_about_apple_encryption_u) - [Three questions about Apple, encryption, and the U.K](https://blog.cryptographyengineering.com/2025/02/23/three-questions-about-apple-encryption-and-the-u-k/)
 * [2025-02-23, 16:08:51](https://lobste.rs/s/ny2s9f/openbsd_innovations) - [OpenBSD: Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-23, 14:45:33](https://lobste.rs/s/369gwi/calling_private_methods_without_losing) - [Calling private methods without losing sleep at night](https://justin.searls.co/posts/calling-private-methods-without-losing-sleep-at-night/)
 * [2025-02-23, 13:24:35](https://lobste.rs/s/d51owo/vcmi_open_source_engine_for_heroes_might) - [vcmi: Open-source engine for Heroes of Might and Magic III](https://github.com/vcmi/vcmi)
