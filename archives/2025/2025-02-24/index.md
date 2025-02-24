@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-24](index.md)
 
+* [2025-02-24, 08:46:19](https://lobste.rs/s/xzrfy0/can_1b_llm_surpass_405b_llm_rethinking) - [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/abs/2502.06703)
 * [2025-02-24, 08:07:39](https://lobste.rs/s/ta33pc/calendar_txt_2021) - [Calendar.txt (2021)](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 07:41:10](https://lobste.rs/s/gedr6u/bitwarden_authenticator) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 * [2025-02-24, 07:00:11](https://lobste.rs/s/q3sqaz/evolution_agile_imposters_why_we_can_t) - [The Evolution of Agile Imposters: Why We Can't Estimate Our Own Software](https://junglecoder.com/~saulrh/articles/evolution-of-agile-imposters.html)
