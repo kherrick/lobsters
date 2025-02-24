@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-24, 09:31:03](https://lobste.rs/s/oa1kcd/why_do_frame_pointers_matter_for_ocaml) - [Why do frame pointers matter for OCaml?](https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html)
 * [2025-02-24, 08:46:19](https://lobste.rs/s/xzrfy0/can_1b_llm_surpass_405b_llm_rethinking) - [Can 1B LLM Surpass 405B LLM? Rethinking Compute-Optimal Test-Time Scaling](https://arxiv.org/abs/2502.06703)
 * [2025-02-24, 08:07:39](https://lobste.rs/s/ta33pc/calendar_txt_2021) - [Calendar.txt (2021)](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 07:41:10](https://lobste.rs/s/gedr6u/bitwarden_authenticator) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
@@ -22,7 +23,6 @@
 * [2025-02-23, 14:45:33](https://lobste.rs/s/369gwi/calling_private_methods_without_losing) - [Calling private methods without losing sleep at night](https://justin.searls.co/posts/calling-private-methods-without-losing-sleep-at-night/)
 * [2025-02-23, 13:24:35](https://lobste.rs/s/d51owo/vcmi_open_source_engine_for_heroes_might) - [vcmi: Open-source engine for Heroes of Might and Magic III](https://github.com/vcmi/vcmi)
 * [2025-02-23, 13:22:21](https://lobste.rs/s/xv210z/why_are_qr_codes_with_capital_letters) - [Why are QR Codes with capital letters smaller than QR codes with lower-case letters?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
-* [2025-02-23, 12:10:33](https://lobste.rs/s/2asryi/possibly_one_step_towards_named) - [Possibly one step towards named arguments in Rust (2020)](https://yoric.github.io/post/rust-named-arguments/)
 * [2025-02-23, 10:10:56](https://lobste.rs/s/mx9uqy/microsoft_makes_more_their_directx) - [Microsoft makes more of their DirectX compiler code open-source](https://www.phoronix.com/news/DirectXShaderCompiler-2025)
 * [2025-02-22, 22:41:39](https://lobste.rs/s/ctpdvb/vine_programming_language_based_on) - [Vine: A programming language based on Interaction Nets](https://vine.dev/)
 
