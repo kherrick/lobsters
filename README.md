@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-24, 20:17:41](https://lobste.rs/s/wzpqit/web_on_mobile) - [The web on mobile](https://adactio.com/journal/21728)
 * [2025-02-24, 19:53:11](https://lobste.rs/s/gbx4tl/how_core_git_developers_configure_git) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-24, 19:33:17](https://lobste.rs/s/ydmenq/interprocedural_sparse_conditional) - [Interprocedural sparse conditional type propagation](https://railsatscale.com/2025-02-24-interprocedural-sparse-conditional-type-propagation/)
 * [2025-02-24, 18:57:26](https://lobste.rs/s/ohdqzz/least_secure_totp_code_possible) - [The least secure TOTP code possible](https://shkspr.mobi/blog/2025/02/the-least-secure-totp-code-possible/)
@@ -23,7 +24,6 @@
 * [2025-02-23, 18:08:46](https://lobste.rs/s/on1dfb/emacs_30_1_released) - [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 * [2025-02-23, 17:16:14](https://lobste.rs/s/w2jpto/removing_jeff_bezos_from_my_bed) - [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
 * [2025-02-23, 17:07:32](https://lobste.rs/s/zzpim9/war_rooms_vs_deep_investigations) - [War rooms vs. deep investigations](https://rachelbythebay.com/w/2025/02/22/war/)
-* [2025-02-23, 16:08:51](https://lobste.rs/s/ny2s9f/openbsd_innovations) - [OpenBSD: Innovations](https://www.openbsd.org/innovations.html)
 * [2025-02-23, 13:22:21](https://lobste.rs/s/xv210z/why_are_qr_codes_with_capital_letters) - [Why are QR Codes with capital letters smaller than QR codes with lower-case letters?](https://shkspr.mobi/blog/2025/02/why-are-qr-codes-with-capital-letters-smaller-than-qr-codes-with-lower-case-letters/)
 
 ## [Archives](archives/index.md)
