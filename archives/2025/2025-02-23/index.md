@@ -8,6 +8,7 @@
 * [2025-02-23, 23:41:47](https://lobste.rs/s/qatzlq/explaining_apparent_17_1_female_male) - [Explaining an apparent 17:1 female to male population question during the Neolithic](https://www.sciencealert.com/neolithic-y-chromosome-bottleneck-warring-patrilineal-clans)
 * [2025-02-23, 23:21:54](https://lobste.rs/s/ymmy0t/defragging_my_old_dell_s_uefi_nvram) - [Defragging my old Dell’s UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
 * [2025-02-23, 22:26:01](https://lobste.rs/s/6hp9k7/memory_hell_nova) - [Memory hell · Nova](https://trynova.dev/blog/memory-hell)
+* [2025-02-23, 22:26:01](https://lobste.rs/s/6hp9k7/memory_hell) - [Memory hell](https://trynova.dev/blog/memory-hell)
 * [2025-02-23, 20:36:10](https://lobste.rs/s/35gepf/building_roottrees_are_dead) - [Building The Roottrees are Dead](https://eviltrout.com/2025/01/27/building-the-roottrees.html)
 * [2025-02-23, 18:08:46](https://lobste.rs/s/on1dfb/emacs_30_1_released) - [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 * [2025-02-23, 17:16:14](https://lobste.rs/s/w2jpto/removing_jeff_bezos_from_my_bed) - [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)

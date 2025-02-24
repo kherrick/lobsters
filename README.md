@@ -1,9 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-24, 02:08:32](https://lobste.rs/s/zvhl39/tokio_prctl_nasty_bug) - [Tokio + prctl = nasty bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
+* [2025-02-24, 02:01:53](https://lobste.rs/s/9b7odp/macos_for_kde_users) - [MacOS for KDE Users](https://matklad.github.io/2025/02/23/macos-for-kde-users.html)
 * [2025-02-23, 23:59:54](https://lobste.rs/s/gxwaf0/dos_3_3_sys_com_bug_hunt) - [The DOS 3.3 SYS.COM Bug Hunt](https://www.brutman.com/Adventures_In_Code/DOS_33_SYS_Bug_Hunt/DOS_33_SYS_Bug_Hunt.html)
-* [2025-02-23, 23:41:47](https://lobste.rs/s/qatzlq/explaining_apparent_17_1_female_male) - [Explaining an apparent 17:1 female to male population question during the Neolithic](https://www.sciencealert.com/neolithic-y-chromosome-bottleneck-warring-patrilineal-clans)
 * [2025-02-23, 23:21:54](https://lobste.rs/s/ymmy0t/defragging_my_old_dell_s_uefi_nvram) - [Defragging my old Dell’s UEFI NVRAM](https://artemis.sh/2025/02/22/uefi-nvram-defrag.html)
-* [2025-02-23, 22:26:01](https://lobste.rs/s/6hp9k7/memory_hell_nova) - [Memory hell · Nova](https://trynova.dev/blog/memory-hell)
+* [2025-02-23, 22:26:01](https://lobste.rs/s/6hp9k7/memory_hell) - [Memory hell](https://trynova.dev/blog/memory-hell)
 * [2025-02-23, 20:36:10](https://lobste.rs/s/35gepf/building_roottrees_are_dead) - [Building The Roottrees are Dead](https://eviltrout.com/2025/01/27/building-the-roottrees.html)
 * [2025-02-23, 18:08:46](https://lobste.rs/s/on1dfb/emacs_30_1_released) - [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 * [2025-02-23, 17:16:14](https://lobste.rs/s/w2jpto/removing_jeff_bezos_from_my_bed) - [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
@@ -24,7 +25,6 @@
 * [2025-02-22, 17:03:42](https://lobste.rs/s/n9fhi8/1_5b_bybit_hack_era_operational_security) - [The $1.5B Bybit Hack: The Era of Operational Security Failures Has Arrived](https://blog.trailofbits.com/2025/02/21/the-1.5b-bybit-hack-the-era-of-operational-security-failures-has-arrived/)
 * [2025-02-22, 16:40:38](https://lobste.rs/s/fgzitm/bookmarklets_custom_url_schemes_are) - [Bookmarklets (and Custom URL Schemes) Are Criminally Underrated](https://silly.business/blog/bookmarklets-and-custom-url-schemes-are-criminally-underrated/)
 * [2025-02-22, 16:06:49](https://lobste.rs/s/qu6kay/solving_jit_calculator_challenge) - [Solving the JIT calculator challenge](https://ochagavia.nl/blog/solving-the-jit-calculator-challenge/)
-* [2025-02-22, 10:35:39](https://lobste.rs/s/yclvqy/ring_is_unmaintained) - [Ring is unmaintained](https://rustsec.org/advisories/RUSTSEC-2025-0007.html)
 
 ## [Archives](archives/index.md)
 
