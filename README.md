@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-24, 20:21:56](https://lobste.rs/s/elf44b/breaking_into_dozens_apartment) - [Breaking into dozens of apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
+* [2025-02-24, 20:24:31](https://lobste.rs/s/kgzd0w/xcode_constantly_phones_home) - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html)
 * [2025-02-24, 20:17:41](https://lobste.rs/s/wzpqit/web_on_mobile) - [The web on mobile](https://adactio.com/journal/21728)
 * [2025-02-24, 19:53:11](https://lobste.rs/s/gbx4tl/how_core_git_developers_configure_git) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-24, 18:57:26](https://lobste.rs/s/ohdqzz/least_secure_totp_code_possible) - [The least secure TOTP code possible](https://shkspr.mobi/blog/2025/02/the-least-secure-totp-code-possible/)
