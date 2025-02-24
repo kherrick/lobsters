@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-24, 17:22:01",
+      "https://lobste.rs/s/ocmai4/introducing_fullstack_bench"
+    ],
+    [
+      "Introducing Fullstack-Bench",
+      "https://stack.convex.dev/introducing-fullstack-bench"
+    ]
+  ],
+  [
+    [
+      "2025-02-24, 17:15:25",
+      "https://lobste.rs/s/jzf4w9/transparency_hardware_software"
+    ],
+    [
+      "Transparency in Hardware/Software Interfaces",
+      "https://rfd.shared.oxide.computer/rfd/0552"
+    ]
+  ],
+  [
+    [
       "2025-02-24, 16:42:31",
       "https://lobste.rs/s/xcqfp7/philosophy_software_design_vs_clean_code"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-02-24, 03:23:00",
-      "https://lobste.rs/s/4aa2rr/epoch_semantic_versioning"
-    ],
-    [
-      "Epoch Semantic Versioning",
-      "https://antfu.me/posts/epoch-semver"
-    ]
-  ],
-  [
-    [
       "2025-02-24, 02:08:32",
       "https://lobste.rs/s/zvhl39/tokio_prctl_nasty_bug"
     ],
@@ -177,16 +187,6 @@
     [
       "Defragging my old Dell’s UEFI NVRAM",
       "https://artemis.sh/2025/02/22/uefi-nvram-defrag.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-23, 22:26:01",
-      "https://lobste.rs/s/6hp9k7/memory_hell"
-    ],
-    [
-      "Memory hell",
-      "https://trynova.dev/blog/memory-hell"
     ]
   ],
   [
