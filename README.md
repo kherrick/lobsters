@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-24, 07:41:10](https://lobste.rs/s/gedr6u/bitwarden_authenticator) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
 * [2025-02-24, 07:00:11](https://lobste.rs/s/q3sqaz/evolution_agile_imposters_why_we_can_t) - [The Evolution of Agile Imposters: Why We Can't Estimate Our Own Software](https://junglecoder.com/~saulrh/articles/evolution-of-agile-imposters.html)
 * [2025-02-24, 05:22:49](https://lobste.rs/s/p6xyrt/meticulous_guide_advances_deep_learning) - [A Meticulous Guide to Advances in Deep Learning Efficiency over the Years](https://alexzhang13.github.io/blog/2024/efficient-dl/)
 * [2025-02-24, 04:31:04](https://lobste.rs/s/8sarnt/warsmash_rewrite_warcraft3_java) - [Warsmash: A rewrite of Warcraft3 in Java](https://github.com/Retera/WarsmashModEngine)
@@ -22,7 +23,6 @@
 * [2025-02-23, 12:10:33](https://lobste.rs/s/2asryi/possibly_one_step_towards_named) - [Possibly one step towards named arguments in Rust (2020)](https://yoric.github.io/post/rust-named-arguments/)
 * [2025-02-23, 10:10:56](https://lobste.rs/s/mx9uqy/microsoft_makes_more_their_directx) - [Microsoft makes more of their DirectX compiler code open-source](https://www.phoronix.com/news/DirectXShaderCompiler-2025)
 * [2025-02-23, 02:10:12](https://lobste.rs/s/ocxaqf/new_math_library_for_ada_neosimd) - [A new math library for Ada - NeoSIMD](https://blog.adacore.com/a-new-math-library-for-ada-neo-simd)
-* [2025-02-22, 23:30:34](https://lobste.rs/s/nlv92i/ffmpeg_school_assembly_language) - [The FFmpeg School of Assembly Language](https://github.com/FFmpeg/asm-lessons/blob/main/lesson_01/index.md)
 * [2025-02-22, 22:41:39](https://lobste.rs/s/ctpdvb/vine_programming_language_based_on) - [Vine: A programming language based on Interaction Nets](https://vine.dev/)
 * [2025-02-22, 17:13:17](https://lobste.rs/s/bjngsz/llm_commit_plugin_for_llm_generates) - [llm-commit: A plugin for llm that generates commit messages](https://github.com/GNtousakis/llm-commit)
 
