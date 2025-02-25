@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-25, 20:08:08",
+      "https://lobste.rs/s/oblb9x/framework_2nd_gen_event"
+    ],
+    [
+      "Framework (2nd Gen) Event",
+      "https://www.youtube.com/watch?v=-8k7jTF_JCg"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 18:38:29",
       "https://lobste.rs/s/iwlozm/bug_led_simkube_2_0"
     ],
@@ -217,16 +227,6 @@
     [
       "The least secure TOTP code possible",
       "https://shkspr.mobi/blog/2025/02/the-least-secure-totp-code-possible/"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 17:15:25",
-      "https://lobste.rs/s/jzf4w9/transparency_hardware_software"
-    ],
-    [
-      "Transparency in Hardware/Software Interfaces",
-      "https://rfd.shared.oxide.computer/rfd/0552"
     ]
   ],
   [
