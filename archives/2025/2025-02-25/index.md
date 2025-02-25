@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
 * [2025-02-25, 20:08:08](https://lobste.rs/s/oblb9x/framework_2nd_gen_event) - [Framework (2nd Gen) Event](https://www.youtube.com/watch?v=-8k7jTF_JCg)
+* [2025-02-25, 18:53:09](https://lobste.rs/s/wozt6m/learn_something_old_every_day_part_xiv) - [Learn Something Old Every Day, Part XIV: read() Return Value May Surprise](http://www.os2museum.com/wp/learn-something-old-every-day-part-xiv-read-return-value-may-surprise/)
 * [2025-02-25, 18:38:29](https://lobste.rs/s/iwlozm/bug_led_simkube_2_0) - [The bug that led to SimKube 2.0](https://blog.appliedcomputing.io/p/the-bug-that-led-to-simkube-20)
 * [2025-02-25, 17:07:25](https://lobste.rs/s/ziqnjk/ai_killed_tech_interview_now_what) - [AI Killed The Tech Interview. Now What?](https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/)
 * [2025-02-25, 15:17:29](https://lobste.rs/s/o1golw/turbocharging_v8_with_mutable_heap) - [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number)
