@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-25, 13:55:35",
+      "https://lobste.rs/s/q2kme9/zone_maps_queries_go_brrr"
+    ],
+    [
+      "Zone maps, or “queries go brrr”",
+      "https://blog.spiraldb.com/zone-maps-or-queries-go-brrr/"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 13:19:12",
       "https://lobste.rs/s/f4oemt/reviving_old_kindle_paperwhite_7th_gen"
     ],
@@ -197,16 +207,6 @@
     [
       "dropshot: expose REST APIs from a Rust program",
       "https://github.com/oxidecomputer/dropshot"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 12:51:28",
-      "https://lobste.rs/s/uz8tlz/nil_channels_go"
-    ],
-    [
-      "Nil channels in Go",
-      "https://vishnubharathi.codes/blog/nil-channels-in-go/"
     ]
   ],
   [
