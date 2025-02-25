@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-25, 15:17:29](https://lobste.rs/s/o1golw/turbocharging_v8_with_mutable_heap) - [Turbocharging V8 with mutable heap numbers · V8](https://v8.dev/blog/mutable-heap-number)
 * [2025-02-25, 15:15:18](https://lobste.rs/s/swtkwg/why_how_i_version_my_blog) - [Why and How I Version My Blog](https://rishikeshs.com/blog-version/)
 * [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
 * [2025-02-25, 13:55:35](https://lobste.rs/s/q2kme9/zone_maps_queries_go_brrr) - [Zone maps, or “queries go brrr”](https://blog.spiraldb.com/zone-maps-or-queries-go-brrr/)
@@ -7,7 +8,7 @@
 * [2025-02-25, 13:19:12](https://lobste.rs/s/f4oemt/reviving_old_kindle_paperwhite_7th_gen) - [Reviving an Old Kindle Paperwhite 7th Gen](https://terminalbytes.com/reviving-kindle-paperwhite-7th-gen/)
 * [2025-02-25, 12:24:08](https://lobste.rs/s/76ajns/rescript_better_typed_javascript) - [ReScript: A Better Typed JavaScript?](https://www.youtube.com/watch?v=yKl2fSdnw7w)
 * [2025-02-25, 12:04:12](https://lobste.rs/s/2ekqcs/why_common_lisp) - [Why Common Lisp](https://kingcons.io/notes/common-lisp.html)
-* [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c_trifecta_tech) - [zlib-rs is faster than C - Trifecta Tech Foundation](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
+* [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c) - [zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
 * [2025-02-25, 11:15:49](https://lobste.rs/s/hyhkxi/mixing_up_public_private_keys_openid) - [Mixing up Public and Private Keys in OpenID Connect deployments](https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html)
 * [2025-02-25, 10:04:29](https://lobste.rs/s/noeevm/closer_train_station_worse_kebab) - [\"The closer to the train station, the worse the kebab\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-25, 09:57:02](https://lobste.rs/s/wrpt6v/what_would_happen_if_we_didn_t_use_tcp_udp) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
@@ -24,7 +25,6 @@
 * [2025-02-24, 16:42:31](https://lobste.rs/s/xcqfp7/philosophy_software_design_vs_clean_code) - [\"A Philosophy of Software Design\" vs \"Clean Code\"](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 14:04:58](https://lobste.rs/s/pjtizh/dropshot_expose_rest_apis_from_rust) - [dropshot: expose REST APIs from a Rust program](https://github.com/oxidecomputer/dropshot)
 * [2025-02-24, 11:48:31](https://lobste.rs/s/d3shnw/mathb_is_shutting_down) - [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
-* [2025-02-24, 11:45:15](https://lobste.rs/s/iem7jw/soar_distro_agnostic_package_manager) - [Soar – Distro Agnostic Package Manager, HomeBrew (LinuxBrew) Done Right](https://github.com/pkgforge/soar)
 
 ## [Archives](archives/index.md)
 
