@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-25, 05:30:02](https://lobste.rs/s/39gbln/future_fast_code_giving_hardware_what_it) - [The future of fast code: giving hardware what it wants](https://www.youtube.com/watch?v=vU3ryvZYlkk)
 * [2025-02-25, 05:09:40](https://lobste.rs/s/r8lrfk/other_kinds_talks) - [Other kinds of talks](https://www.scattered-thoughts.net/writing/other-kinds-of-talks/)
 * [2025-02-25, 04:47:19](https://lobste.rs/s/e8cnqe/smart_pointers_can_t_solve_use_after_free) - [Smart Pointers Can't Solve Use-After-Free](http://jacko.io/smart_pointers.html)
 * [2025-02-25, 01:21:49](https://lobste.rs/s/mmn0eh/canadian_vps_review) - [Canadian VPS Review](https://lukecyca.com/2025/canadian-vps-review.html)
@@ -13,7 +14,6 @@
 * [2025-02-24, 17:22:01](https://lobste.rs/s/ocmai4/introducing_fullstack_bench) - [Introducing Fullstack-Bench](https://stack.convex.dev/introducing-fullstack-bench)
 * [2025-02-24, 17:15:25](https://lobste.rs/s/jzf4w9/transparency_hardware_software) - [Transparency in Hardware/Software Interfaces](https://rfd.shared.oxide.computer/rfd/0552)
 * [2025-02-24, 16:42:31](https://lobste.rs/s/xcqfp7/philosophy_software_design_vs_clean_code) - [\"A Philosophy of Software Design\" vs \"Clean Code\"](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
-* [2025-02-24, 16:10:30](https://lobste.rs/s/mnj6yg/tech_hype_cycles) - [Tech hype cycles](https://wiki.alopex.li/HypeCycles)
 * [2025-02-24, 14:04:58](https://lobste.rs/s/pjtizh/dropshot_expose_rest_apis_from_rust) - [dropshot: expose REST APIs from a Rust program](https://github.com/oxidecomputer/dropshot)
 * [2025-02-24, 12:51:28](https://lobste.rs/s/uz8tlz/nil_channels_go) - [Nil channels in Go](https://vishnubharathi.codes/blog/nil-channels-in-go/)
 * [2025-02-24, 11:48:31](https://lobste.rs/s/d3shnw/mathb_is_shutting_down) - [MathB.in Is Shutting Down](https://susam.net/mathbin-is-shutting-down.html)
