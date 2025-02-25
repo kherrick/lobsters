@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-25, 18:38:29",
+      "https://lobste.rs/s/iwlozm/bug_led_simkube_2_0"
+    ],
+    [
+      "The bug that led to SimKube 2.0",
+      "https://blog.appliedcomputing.io/p/the-bug-that-led-to-simkube-20"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 15:17:29",
       "https://lobste.rs/s/o1golw/turbocharging_v8_with_mutable_heap"
     ],
@@ -237,16 +247,6 @@
     [
       "dropshot: expose REST APIs from a Rust program",
       "https://github.com/oxidecomputer/dropshot"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 11:48:31",
-      "https://lobste.rs/s/d3shnw/mathb_is_shutting_down"
-    ],
-    [
-      "MathB.in Is Shutting Down",
-      "https://susam.net/mathbin-is-shutting-down.html"
     ]
   ]
 ]
