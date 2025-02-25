@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-02-25, 18:53:09",
+      "https://lobste.rs/s/wozt6m/learn_something_old_every_day_part_xiv"
+    ],
+    [
+      "Learn Something Old Every Day, Part XIV: read() Return Value May Surprise",
+      "http://www.os2museum.com/wp/learn-something-old-every-day-part-xiv-read-return-value-may-surprise/"
+    ]
+  ],
+  [
+    [
       "2025-02-25, 18:38:29",
       "https://lobste.rs/s/iwlozm/bug_led_simkube_2_0"
     ],
@@ -237,16 +247,6 @@
     [
       "\"A Philosophy of Software Design\" vs \"Clean Code\"",
       "https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2025-02-24, 14:04:58",
-      "https://lobste.rs/s/pjtizh/dropshot_expose_rest_apis_from_rust"
-    ],
-    [
-      "dropshot: expose REST APIs from a Rust program",
-      "https://github.com/oxidecomputer/dropshot"
     ]
   ]
 ]
