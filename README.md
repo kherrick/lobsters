@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-25, 05:30:02](https://lobste.rs/s/39gbln/future_fast_code_giving_hardware_what_it) - [The future of fast code: giving hardware what it wants](https://www.youtube.com/watch?v=vU3ryvZYlkk)
 * [2025-02-25, 05:09:40](https://lobste.rs/s/r8lrfk/other_kinds_talks) - [Other kinds of talks](https://www.scattered-thoughts.net/writing/other-kinds-of-talks/)
 * [2025-02-25, 04:47:19](https://lobste.rs/s/e8cnqe/smart_pointers_can_t_solve_use_after_free) - [Smart Pointers Can't Solve Use-After-Free](http://jacko.io/smart_pointers.html)
 * [2025-02-25, 01:21:49](https://lobste.rs/s/mmn0eh/canadian_vps_review) - [Canadian VPS Review](https://lukecyca.com/2025/canadian-vps-review.html)
+* [2025-02-25, 01:09:43](https://lobste.rs/s/hfrpwt/new_zealand_company_s_impossible_hack) - [New Zealand Company’s ‘Impossible-to-Hack’ Security Turns Out to Be No Security at All](https://jltee.substack.com/p/new-zealand-companys-impossible-to-hack-security)
 * [2025-02-24, 20:24:31](https://lobste.rs/s/kgzd0w/xcode_constantly_phones_home) - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html)
 * [2025-02-24, 20:21:56](https://lobste.rs/s/elf44b/breaking_into_dozens_apartment) - [Breaking into dozens of apartment buildings in five minutes on my phone](https://www.ericdaigle.ca/posts/breaking-into-dozens-of-apartments-in-five-minutes/)
 * [2025-02-24, 20:17:41](https://lobste.rs/s/wzpqit/web_on_mobile) - [The web on mobile](https://adactio.com/journal/21728)
