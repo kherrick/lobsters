@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-25, 17:07:25",
-      "https://lobste.rs/s/ziqnjk/ai_killed_tech_interview_now_what"
-    ],
-    [
-      "AI Killed The Tech Interview. Now What?",
-      "https://kanenarraway.com/posts/ai-killed-the-tech-interview-now-what/"
-    ]
-  ],
-  [
-    [
       "2025-02-25, 15:17:29",
       "https://lobste.rs/s/o1golw/turbocharging_v8_with_mutable_heap"
     ],
@@ -37,6 +27,16 @@
     [
       "Gleam, coming from Erlang",
       "https://olano.dev/blog/gleam-coming-from-erlang"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 13:56:49",
+      "https://lobste.rs/s/8nx9v3/embedding_python_elixir_it_s_fine"
+    ],
+    [
+      "Embedding Python in Elixir, it's Fine",
+      "https://dashbit.co/blog/running-python-in-elixir-its-fine"
     ]
   ],
   [
