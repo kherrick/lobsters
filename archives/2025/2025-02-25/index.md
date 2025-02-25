@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 10:04:29](https://lobste.rs/s/noeevm/closer_train_station_worse_kebab) - [\"The closer to the train station, the worse the kebab\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
+* [2025-02-25, 10:00:06](https://lobste.rs/s/qxohuy/hp_35) - [The HP-35](http://codex99.com/design/the-hp35.html)
 * [2025-02-25, 09:57:02](https://lobste.rs/s/wrpt6v/what_would_happen_if_we_didn_t_use_tcp_udp) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 09:10:11](https://lobste.rs/s/ige5d6/tcl_tk_application_binaries_through_go) - [Tcl/Tk application binaries through Go](https://wiki.tcl-lang.org/page/Tcl%2FTk+application+binaries+through+Go)
 * [2025-02-25, 05:30:02](https://lobste.rs/s/39gbln/future_fast_code_giving_hardware_what_it) - [The future of fast code: giving hardware what it wants](https://www.youtube.com/watch?v=vU3ryvZYlkk)
