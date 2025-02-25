@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 10:38:17](https://lobste.rs/s/1w3r1q/testing_types_typescript) - [Testing types in TypeScript](https://2ality.com/2025/02/testing-types-typescript.html)
 * [2025-02-25, 10:37:08](https://lobste.rs/s/vvk41t/gem_shop_vulnerable_rails_8_app_for) - [Gem Shop: A Vulnerable Rails 8 App for Security Education](https://paraxial.io/blog/gem-shop)
 * [2025-02-25, 10:04:29](https://lobste.rs/s/noeevm/closer_train_station_worse_kebab) - [\"The closer to the train station, the worse the kebab\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-25, 10:00:06](https://lobste.rs/s/qxohuy/hp_35) - [The HP-35](http://codex99.com/design/the-hp35.html)
