@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
 * [2025-02-25, 13:55:35](https://lobste.rs/s/q2kme9/zone_maps_queries_go_brrr) - [Zone maps, or “queries go brrr”](https://blog.spiraldb.com/zone-maps-or-queries-go-brrr/)
 * [2025-02-25, 13:19:12](https://lobste.rs/s/f4oemt/reviving_old_kindle_paperwhite_7th_gen) - [Reviving an Old Kindle Paperwhite 7th Gen](https://terminalbytes.com/reviving-kindle-paperwhite-7th-gen/)
 * [2025-02-25, 12:24:08](https://lobste.rs/s/76ajns/rescript_better_typed_javascript) - [ReScript: A Better Typed JavaScript?](https://www.youtube.com/watch?v=yKl2fSdnw7w)
 * [2025-02-25, 12:04:12](https://lobste.rs/s/2ekqcs/why_common_lisp) - [Why Common Lisp](https://kingcons.io/notes/common-lisp.html)
 * [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c_trifecta_tech) - [zlib-rs is faster than C - Trifecta Tech Foundation](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
 * [2025-02-25, 11:15:49](https://lobste.rs/s/hyhkxi/mixing_up_public_private_keys_openid) - [Mixing up Public and Private Keys in OpenID Connect deployments](https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html)
-* [2025-02-25, 10:38:17](https://lobste.rs/s/1w3r1q/testing_types_typescript) - [Testing types in TypeScript](https://2ality.com/2025/02/testing-types-typescript.html)
 * [2025-02-25, 10:04:29](https://lobste.rs/s/noeevm/closer_train_station_worse_kebab) - [\"The closer to the train station, the worse the kebab\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-25, 09:57:02](https://lobste.rs/s/wrpt6v/what_would_happen_if_we_didn_t_use_tcp_udp) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 09:10:11](https://lobste.rs/s/ige5d6/tcl_tk_application_binaries_through_go) - [Tcl/Tk application binaries through Go](https://wiki.tcl-lang.org/page/Tcl%2FTk+application+binaries+through+Go)
