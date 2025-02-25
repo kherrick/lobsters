@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 12:24:08](https://lobste.rs/s/76ajns/rescript_better_typed_javascript) - [ReScript: A Better Typed JavaScript?](https://www.youtube.com/watch?v=yKl2fSdnw7w)
 * [2025-02-25, 12:04:12](https://lobste.rs/s/2ekqcs/why_common_lisp) - [Why Common Lisp](https://kingcons.io/notes/common-lisp.html)
 * [2025-02-25, 11:35:04](https://lobste.rs/s/d1kb0u/comfortable_uncertainty_with_barry_o) - [Comfortable in uncertainty, with Barry O'Reilly](https://kodsnack.se/631/)
 * [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c_trifecta_tech) - [zlib-rs is faster than C - Trifecta Tech Foundation](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
