@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c_trifecta_tech) - [zlib-rs is faster than C - Trifecta Tech Foundation](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
+* [2025-02-25, 11:15:49](https://lobste.rs/s/hyhkxi/mixing_up_public_private_keys_openid) - [Mixing up Public and Private Keys in OpenID Connect deployments](https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html)
 * [2025-02-25, 10:38:17](https://lobste.rs/s/1w3r1q/testing_types_typescript) - [Testing types in TypeScript](https://2ality.com/2025/02/testing-types-typescript.html)
-* [2025-02-25, 10:37:08](https://lobste.rs/s/vvk41t/gem_shop_vulnerable_rails_8_app_for) - [Gem Shop: A Vulnerable Rails 8 App for Security Education](https://paraxial.io/blog/gem-shop)
 * [2025-02-25, 10:04:29](https://lobste.rs/s/noeevm/closer_train_station_worse_kebab) - [\"The closer to the train station, the worse the kebab\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-25, 09:57:02](https://lobste.rs/s/wrpt6v/what_would_happen_if_we_didn_t_use_tcp_udp) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 * [2025-02-25, 09:10:11](https://lobste.rs/s/ige5d6/tcl_tk_application_binaries_through_go) - [Tcl/Tk application binaries through Go](https://wiki.tcl-lang.org/page/Tcl%2FTk+application+binaries+through+Go)
@@ -14,7 +15,6 @@
 * [2025-02-24, 19:53:11](https://lobste.rs/s/gbx4tl/how_core_git_developers_configure_git) - [How Core Git Developers Configure Git](https://blog.gitbutler.com/how-git-core-devs-configure-git/)
 * [2025-02-24, 18:57:26](https://lobste.rs/s/ohdqzz/least_secure_totp_code_possible) - [The least secure TOTP code possible](https://shkspr.mobi/blog/2025/02/the-least-secure-totp-code-possible/)
 * [2025-02-24, 17:51:51](https://lobste.rs/s/qefnfl/strong_opinions_on_url_design) - [Strong Opinions on URL Design](https://vale.rocks/posts/strong-opinions-on-url-design)
-* [2025-02-24, 17:22:01](https://lobste.rs/s/ocmai4/introducing_fullstack_bench) - [Introducing Fullstack-Bench](https://stack.convex.dev/introducing-fullstack-bench)
 * [2025-02-24, 17:15:25](https://lobste.rs/s/jzf4w9/transparency_hardware_software) - [Transparency in Hardware/Software Interfaces](https://rfd.shared.oxide.computer/rfd/0552)
 * [2025-02-24, 16:42:31](https://lobste.rs/s/xcqfp7/philosophy_software_design_vs_clean_code) - [\"A Philosophy of Software Design\" vs \"Clean Code\"](https://github.com/johnousterhout/aposd-vs-clean-code/blob/main/README.md)
 * [2025-02-24, 14:04:58](https://lobste.rs/s/pjtizh/dropshot_expose_rest_apis_from_rust) - [dropshot: expose REST APIs from a Rust program](https://github.com/oxidecomputer/dropshot)

@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-25](index.md)
 
+* [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c_trifecta_tech) - [zlib-rs is faster than C - Trifecta Tech Foundation](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
+* [2025-02-25, 11:15:49](https://lobste.rs/s/hyhkxi/mixing_up_public_private_keys_openid) - [Mixing up Public and Private Keys in OpenID Connect deployments](https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html)
 * [2025-02-25, 10:38:17](https://lobste.rs/s/1w3r1q/testing_types_typescript) - [Testing types in TypeScript](https://2ality.com/2025/02/testing-types-typescript.html)
 * [2025-02-25, 10:37:08](https://lobste.rs/s/vvk41t/gem_shop_vulnerable_rails_8_app_for) - [Gem Shop: A Vulnerable Rails 8 App for Security Education](https://paraxial.io/blog/gem-shop)
 * [2025-02-25, 10:04:29](https://lobste.rs/s/noeevm/closer_train_station_worse_kebab) - [\"The closer to the train station, the worse the kebab\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
