@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-25, 05:10:33](https://lobste.rs/s/ogpirh/debunking_myth_join_ordering_toward) - [Debunking the Myth of Join Ordering: Toward Robust SQL Analytics](https://arxiv.org/pdf/2502.15181)
+* [2025-02-25, 05:09:40](https://lobste.rs/s/r8lrfk/other_kinds_talks) - [Other kinds of talks](https://www.scattered-thoughts.net/writing/other-kinds-of-talks/)
 * [2025-02-25, 04:47:19](https://lobste.rs/s/e8cnqe/smart_pointers_can_t_solve_use_after_free) - [Smart Pointers Can't Solve Use-After-Free](http://jacko.io/smart_pointers.html)
 * [2025-02-25, 01:21:49](https://lobste.rs/s/mmn0eh/canadian_vps_review) - [Canadian VPS Review](https://lukecyca.com/2025/canadian-vps-review.html)
 * [2025-02-24, 20:24:31](https://lobste.rs/s/kgzd0w/xcode_constantly_phones_home) - [Xcode constantly phones home](https://lapcatsoftware.com/articles/2025/2/5.html)
@@ -18,10 +20,8 @@
 * [2025-02-24, 11:45:15](https://lobste.rs/s/iem7jw/soar_distro_agnostic_package_manager) - [Soar – Distro Agnostic Package Manager, HomeBrew (LinuxBrew) Done Right](https://github.com/pkgforge/soar)
 * [2025-02-24, 11:01:14](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/iazbpl/what_are_you_doing_this_week)
 * [2025-02-24, 09:56:25](https://lobste.rs/s/y9eyjq/why_clojure) - [Why Clojure?](https://gaiwan.co/blog/why-clojure/)
-* [2025-02-24, 09:31:03](https://lobste.rs/s/oa1kcd/why_do_frame_pointers_matter_for_ocaml) - [Why do frame pointers matter for OCaml?](https://lambdafoo.com/posts/2025-02-24-ocaml-frame-pointers.html)
 * [2025-02-24, 08:07:39](https://lobste.rs/s/ta33pc/calendar_txt_2021) - [Calendar.txt (2021)](https://terokarvinen.com/2021/calendar-txt/)
 * [2025-02-24, 07:41:10](https://lobste.rs/s/gedr6u/bitwarden_authenticator) - [Bitwarden Authenticator](https://bitwarden.com/products/authenticator/)
-* [2025-02-24, 02:08:32](https://lobste.rs/s/zvhl39/tokio_prctl_nasty_bug) - [Tokio + prctl = nasty bug](https://kobzol.github.io/rust/2025/02/23/tokio-plus-prctl-equals-nasty-bug.html)
 * [2025-02-24, 02:01:53](https://lobste.rs/s/9b7odp/macos_for_kde_users) - [MacOS for KDE Users](https://matklad.github.io/2025/02/23/macos-for-kde-users.html)
 * [2025-02-23, 18:08:46](https://lobste.rs/s/on1dfb/emacs_30_1_released) - [Emacs 30.1 released](https://lists.gnu.org/archive/html/emacs-devel/2025-02/msg00997.html)
 * [2025-02-23, 17:16:14](https://lobste.rs/s/w2jpto/removing_jeff_bezos_from_my_bed) - [Removing Jeff Bezos From My Bed](https://trufflesecurity.com/blog/removing-jeff-bezos-from-my-bed)
