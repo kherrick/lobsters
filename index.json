@@ -31,16 +31,6 @@
   ],
   [
     [
-      "2025-02-26, 13:23:00",
-      "https://lobste.rs/s/lblewp/change_maintenance_for_kernel_s_dma"
-    ],
-    [
-      "A change in maintenance for the kernel's DMA-mapping layer",
-      "https://lwn.net/Articles/1011819/"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 12:34:00",
       "https://lobste.rs/s/cvclkp/peek_into_possible_future_python_browser"
     ],
@@ -107,6 +97,16 @@
     [
       "Why Ruby on Rails still matters",
       "https://www.contraption.co/rails-versus-nextjs/"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 22:34:40",
+      "https://lobste.rs/s/6qm5bc/emergent_misalignment"
+    ],
+    [
+      "Emergent Misalignment",
+      "https://www.emergent-misalignment.com"
     ]
   ],
   [
