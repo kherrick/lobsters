@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-02-26](index.md)
+
+* [2025-02-26, 05:25:52](https://lobste.rs/s/fwglvt/why_ruby_on_rails_still_matters) - [Why Ruby on Rails still matters](https://www.contraption.co/rails-versus-nextjs/)
