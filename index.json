@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-26, 20:30:16",
+      "https://lobste.rs/s/t7qele/generate_markdown_document_your"
+    ],
+    [
+      "Generate a markdown document of your codebase for AI",
+      "https://github.com/tesserato/CodeWeaver"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 19:02:30",
       "https://lobste.rs/s/vzbqtc/snippets_everywhere_on_windows_with"
     ],
@@ -47,16 +57,6 @@
     [
       "Meshtastic 2.6 Preview: MUI and Next-Hop Routing are here",
       "https://meshtastic.org/blog/meshtastic-2-6-preview/"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 17:36:33",
-      "https://lobste.rs/s/q1d8kv/on_how_we_moved_kubernetes"
-    ],
-    [
-      "On How We Moved to Kubernetes",
-      "https://radekmie.dev/blog/on-how-we-moved-to-kubernetes/"
     ]
   ],
   [
