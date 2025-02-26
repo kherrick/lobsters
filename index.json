@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-26, 14:44:54",
+      "https://lobste.rs/s/cmnxjz/miserable_state_cellular_modems_mobile"
+    ],
+    [
+      "The Miserable State of Cellular Modems and Mobile Network Operators",
+      "https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 14:32:30",
       "https://lobste.rs/s/xlec3d/intent_experiment_for_longer"
     ],
@@ -107,16 +117,6 @@
     [
       "Framework (2nd Gen) Event",
       "https://www.youtube.com/watch?v=-8k7jTF_JCg"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 15:17:29",
-      "https://lobste.rs/s/o1golw/turbocharging_v8_with_mutable_heap"
-    ],
-    [
-      "Turbocharging V8 with mutable heap numbers",
-      "https://v8.dev/blog/mutable-heap-number"
     ]
   ],
   [
