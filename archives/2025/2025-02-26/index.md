@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 17:36:33](https://lobste.rs/s/q1d8kv/on_how_we_moved_kubernetes) - [On How We Moved to Kubernetes](https://radekmie.dev/blog/on-how-we-moved-to-kubernetes/)
 * [2025-02-26, 17:19:59](https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom) - [TypeScript types can run DOOM](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 16:47:10](https://lobste.rs/s/yemc16/cp_copying_all_files_directory_including) - [cp -  copying all files of a directory, including hidden ones](https://bhoot.dev/2025/cp-dot-copies-everything/)
 * [2025-02-26, 16:14:02](https://lobste.rs/s/phphnb/tiktok_alternative_rednote_xiaohongshu) - [TikTok alternative RedNote (Xiaohongshu) fails basic security measures](https://petal.blog/articles/exploiting-rednote.html)

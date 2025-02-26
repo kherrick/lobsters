@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-26, 17:36:33](https://lobste.rs/s/q1d8kv/on_how_we_moved_kubernetes) - [On How We Moved to Kubernetes](https://radekmie.dev/blog/on-how-we-moved-to-kubernetes/)
 * [2025-02-26, 17:19:59](https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom) - [TypeScript types can run DOOM](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 16:47:10](https://lobste.rs/s/yemc16/cp_copying_all_files_directory_including) - [cp -  copying all files of a directory, including hidden ones](https://bhoot.dev/2025/cp-dot-copies-everything/)
 * [2025-02-26, 16:14:02](https://lobste.rs/s/phphnb/tiktok_alternative_rednote_xiaohongshu) - [TikTok alternative RedNote (Xiaohongshu) fails basic security measures](https://petal.blog/articles/exploiting-rednote.html)
@@ -16,7 +17,6 @@
 * [2025-02-25, 20:08:08](https://lobste.rs/s/oblb9x/framework_2nd_gen_event) - [Framework (2nd Gen) Event](https://www.youtube.com/watch?v=-8k7jTF_JCg)
 * [2025-02-25, 15:15:18](https://lobste.rs/s/swtkwg/why_how_i_version_my_blog) - [Why and How I Version My Blog](https://rishikeshs.com/blog-version/)
 * [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
-* [2025-02-25, 13:19:12](https://lobste.rs/s/f4oemt/reviving_old_kindle_paperwhite_7th_gen) - [Reviving an Old Kindle Paperwhite 7th Gen](https://terminalbytes.com/reviving-kindle-paperwhite-7th-gen/)
 * [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c) - [zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
 * [2025-02-25, 11:15:49](https://lobste.rs/s/hyhkxi/mixing_up_public_private_keys_openid) - [Mixing up Public and Private Keys in OpenID Connect deployments](https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html)
 * [2025-02-25, 10:04:29](https://lobste.rs/s/noeevm/closer_train_station_worse_kebab) - [\"The closer to the train station, the worse the kebab\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
