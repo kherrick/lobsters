@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-26, 13:23:00",
+      "https://lobste.rs/s/lblewp/change_maintenance_for_kernel_s_dma"
+    ],
+    [
+      "A change in maintenance for the kernel's DMA-mapping layer [LWN.net]",
+      "https://lwn.net/Articles/1011819/"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 12:34:00",
       "https://lobste.rs/s/cvclkp/peek_into_possible_future_python_browser"
     ],
@@ -117,16 +127,6 @@
     [
       "Gleam, coming from Erlang",
       "https://olano.dev/blog/gleam-coming-from-erlang"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 13:55:35",
-      "https://lobste.rs/s/q2kme9/zone_maps_queries_go_brrr"
-    ],
-    [
-      "Zone maps, or “queries go brrr”",
-      "https://blog.spiraldb.com/zone-maps-or-queries-go-brrr/"
     ]
   ],
   [
