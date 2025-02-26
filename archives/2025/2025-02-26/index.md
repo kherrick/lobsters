@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 17:53:45](https://lobste.rs/s/mh2wvy/hedy_creating_programming_language_for) - [Hedy: Creating a Programming Language for Everyone](https://www.youtube.com/watch?v=rHxAdIFXplI)
 * [2025-02-26, 17:42:12](https://lobste.rs/s/qzv9qc/meshtastic_2_6_preview_mui_next_hop) - [Meshtastic 2.6 Preview: MUI and Next-Hop Routing are here](https://meshtastic.org/blog/meshtastic-2-6-preview/)
 * [2025-02-26, 17:36:33](https://lobste.rs/s/q1d8kv/on_how_we_moved_kubernetes) - [On How We Moved to Kubernetes](https://radekmie.dev/blog/on-how-we-moved-to-kubernetes/)
 * [2025-02-26, 17:19:59](https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom) - [TypeScript types can run DOOM](https://www.youtube.com/watch?v=0mCsluv5FXA)
