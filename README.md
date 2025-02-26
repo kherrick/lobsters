@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-26, 20:37:23](https://lobste.rs/s/nqwywo/what_is_founder_mode) - [What is \"founder mode\"?](https://tomblomfield.com/post/763715798246227968/what-is-founder-mode)
 * [2025-02-26, 20:30:16](https://lobste.rs/s/t7qele/generate_markdown_document_your) - [Generate a markdown document of your codebase for AI](https://github.com/tesserato/CodeWeaver)
 * [2025-02-26, 19:02:30](https://lobste.rs/s/vzbqtc/snippets_everywhere_on_windows_with) - [Snippets everywhere on Windows with autohotkey](https://www.elliotclyde.nz/blog/snippets-everywhere-on-windows-with-autohotkey/)
 * [2025-02-26, 19:00:18](https://lobste.rs/s/8iwvft/introducing_framework_desktop) - [Introducing the Framework Desktop](https://frame.work/hr/en/blog/introducing-the-framework-desktop)
@@ -23,7 +24,6 @@
 * [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
 * [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c) - [zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
 * [2025-02-25, 11:15:49](https://lobste.rs/s/hyhkxi/mixing_up_public_private_keys_openid) - [Mixing up Public and Private Keys in OpenID Connect deployments](https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html)
-* [2025-02-25, 10:04:29](https://lobste.rs/s/noeevm/closer_train_station_worse_kebab) - [\"The closer to the train station, the worse the kebab\"](https://www.jmspae.se/write-ups/kebabs-train-stations/)
 * [2025-02-25, 09:57:02](https://lobste.rs/s/wrpt6v/what_would_happen_if_we_didn_t_use_tcp_udp) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 
 ## [Archives](archives/index.md)
