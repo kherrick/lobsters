@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-26, 22:33:07](https://lobste.rs/s/vf9dmw/gpu_mode_kernel_leaderboard) - [GPU MODE Kernel Leaderboard](https://gpu-mode.github.io/discord-cluster-manager/docs/intro)
+* [2025-02-26, 22:50:56](https://lobste.rs/s/idtjjj/over_clouds_cpython_pyodide_spy) - [Over the clouds: CPython, Pyodide and SPy](http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/)
 * [2025-02-26, 21:03:13](https://lobste.rs/s/ng16gl/socrates_is_state_machine) - [Socrates is a state machine](https://www.sminez.dev/socrates-is-a-state-machine/)
 * [2025-02-26, 20:52:01](https://lobste.rs/s/mzgi1d/there_s_no_such_thing_as_isomorphic_layout) - [There’s no such thing as an isomorphic layout effect](https://smoores.dev/post/no_such_thing_isomorphic_layout_effect/)
 * [2025-02-26, 19:00:18](https://lobste.rs/s/8iwvft/introducing_framework_desktop) - [Introducing the Framework Desktop](https://frame.work/hr/en/blog/introducing-the-framework-desktop)
