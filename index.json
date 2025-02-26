@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-26, 22:50:56",
+      "https://lobste.rs/s/idtjjj/over_clouds_cpython_pyodide_spy"
+    ],
+    [
+      "Over the clouds: CPython, Pyodide and SPy",
+      "http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 22:33:07",
       "https://lobste.rs/s/vf9dmw/gpu_mode_kernel_leaderboard"
     ],
@@ -227,16 +237,6 @@
     [
       "zlib-rs is faster than C",
       "https://trifectatech.org/blog/zlib-rs-is-faster-than-c/"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 11:15:49",
-      "https://lobste.rs/s/hyhkxi/mixing_up_public_private_keys_openid"
-    ],
-    [
-      "Mixing up Public and Private Keys in OpenID Connect deployments",
-      "https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html"
     ]
   ],
   [
