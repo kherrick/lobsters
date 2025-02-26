@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 20:30:16](https://lobste.rs/s/t7qele/generate_markdown_document_your) - [Generate a markdown document of your codebase for AI](https://github.com/tesserato/CodeWeaver)
 * [2025-02-26, 19:02:30](https://lobste.rs/s/vzbqtc/snippets_everywhere_on_windows_with) - [Snippets everywhere on Windows with autohotkey](https://www.elliotclyde.nz/blog/snippets-everywhere-on-windows-with-autohotkey/)
 * [2025-02-26, 19:00:18](https://lobste.rs/s/8iwvft/introducing_framework_desktop) - [Introducing the Framework Desktop](https://frame.work/hr/en/blog/introducing-the-framework-desktop)
 * [2025-02-26, 18:34:47](https://lobste.rs/s/mok6ks/securing_tomorrow_s_software_need_for) - [Securing tomorrow's software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
