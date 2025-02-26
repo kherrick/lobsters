@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-26, 13:23:00](https://lobste.rs/s/lblewp/change_maintenance_for_kernel_s_dma) - [A change in maintenance for the kernel's DMA-mapping layer [LWN.net]](https://lwn.net/Articles/1011819/)
 * [2025-02-26, 12:34:00](https://lobste.rs/s/cvclkp/peek_into_possible_future_python_browser) - [A peek into a possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
 * [2025-02-26, 12:19:35](https://lobste.rs/s/0fzg6o/programming_really_is_simple) - [Programming Really Is Simple Mathematics](https://bertrandmeyer.com/2025/02/25/new-preprint-programming-really-is-simple-mathematics/)
 * [2025-02-26, 08:56:22](https://lobste.rs/s/vicy6o/i_went_sql_injection_court) - [I Went To SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
@@ -12,7 +13,6 @@
 * [2025-02-25, 15:17:29](https://lobste.rs/s/o1golw/turbocharging_v8_with_mutable_heap) - [Turbocharging V8 with mutable heap numbers](https://v8.dev/blog/mutable-heap-number)
 * [2025-02-25, 15:15:18](https://lobste.rs/s/swtkwg/why_how_i_version_my_blog) - [Why and How I Version My Blog](https://rishikeshs.com/blog-version/)
 * [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
-* [2025-02-25, 13:55:35](https://lobste.rs/s/q2kme9/zone_maps_queries_go_brrr) - [Zone maps, or “queries go brrr”](https://blog.spiraldb.com/zone-maps-or-queries-go-brrr/)
 * [2025-02-25, 13:32:26](https://lobste.rs/s/7u7hxw/rust_edition_2024_annotated) - [Rust edition 2024 annotated](https://bertptrs.nl/2025/02/23/rust-edition-2024-annotated.html)
 * [2025-02-25, 13:19:12](https://lobste.rs/s/f4oemt/reviving_old_kindle_paperwhite_7th_gen) - [Reviving an Old Kindle Paperwhite 7th Gen](https://terminalbytes.com/reviving-kindle-paperwhite-7th-gen/)
 * [2025-02-25, 12:04:12](https://lobste.rs/s/2ekqcs/why_common_lisp) - [Why Common Lisp](https://kingcons.io/notes/common-lisp.html)
