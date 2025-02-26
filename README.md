@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-26, 22:50:56](https://lobste.rs/s/idtjjj/over_clouds_cpython_pyodide_spy) - [Over the clouds: CPython, Pyodide and SPy](http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/)
 * [2025-02-26, 22:33:07](https://lobste.rs/s/vf9dmw/gpu_mode_kernel_leaderboard) - [GPU MODE Kernel Leaderboard](https://gpu-mode.github.io/discord-cluster-manager/docs/intro)
 * [2025-02-26, 21:03:13](https://lobste.rs/s/ng16gl/socrates_is_state_machine) - [Socrates is a state machine](https://www.sminez.dev/socrates-is-a-state-machine/)
 * [2025-02-26, 20:52:01](https://lobste.rs/s/mzgi1d/there_s_no_such_thing_as_isomorphic_layout) - [There’s no such thing as an isomorphic layout effect](https://smoores.dev/post/no_such_thing_isomorphic_layout_effect/)
@@ -23,7 +24,6 @@
 * [2025-02-25, 20:08:08](https://lobste.rs/s/oblb9x/framework_2nd_gen_event) - [Framework (2nd Gen) Event](https://www.youtube.com/watch?v=-8k7jTF_JCg)
 * [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
 * [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c) - [zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
-* [2025-02-25, 11:15:49](https://lobste.rs/s/hyhkxi/mixing_up_public_private_keys_openid) - [Mixing up Public and Private Keys in OpenID Connect deployments](https://blog.hboeck.de/archives/909-Mixing-up-Public-and-Private-Keys-in-OpenID-Connect-deployments.html)
 * [2025-02-25, 09:57:02](https://lobste.rs/s/wrpt6v/what_would_happen_if_we_didn_t_use_tcp_udp) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 
 ## [Archives](archives/index.md)
