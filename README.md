@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-26, 21:03:13](https://lobste.rs/s/ng16gl/socrates_is_state_machine) - [Socrates is a state machine](https://www.sminez.dev/socrates-is-a-state-machine/)
 * [2025-02-26, 20:52:01](https://lobste.rs/s/mzgi1d/there_s_no_such_thing_as_isomorphic_layout) - [There’s no such thing as an isomorphic layout effect](https://smoores.dev/post/no_such_thing_isomorphic_layout_effect/)
 * [2025-02-26, 20:37:23](https://lobste.rs/s/nqwywo/what_is_founder_mode) - [What is \"founder mode\"?](https://tomblomfield.com/post/763715798246227968/what-is-founder-mode)
-* [2025-02-26, 20:30:16](https://lobste.rs/s/t7qele/generate_markdown_document_your) - [Generate a markdown document of your codebase for AI](https://github.com/tesserato/CodeWeaver)
 * [2025-02-26, 19:00:18](https://lobste.rs/s/8iwvft/introducing_framework_desktop) - [Introducing the Framework Desktop](https://frame.work/hr/en/blog/introducing-the-framework-desktop)
 * [2025-02-26, 18:34:47](https://lobste.rs/s/mok6ks/securing_tomorrow_s_software_need_for) - [Securing tomorrow's software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 * [2025-02-26, 17:53:45](https://lobste.rs/s/mh2wvy/hedy_creating_programming_language_for) - [Hedy: Creating a Programming Language for Everyone](https://www.youtube.com/watch?v=rHxAdIFXplI)

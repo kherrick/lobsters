@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 21:03:13](https://lobste.rs/s/ng16gl/socrates_is_state_machine) - [Socrates is a state machine](https://www.sminez.dev/socrates-is-a-state-machine/)
 * [2025-02-26, 20:52:01](https://lobste.rs/s/mzgi1d/there_s_no_such_thing_as_isomorphic_layout) - [There’s no such thing as an isomorphic layout effect](https://smoores.dev/post/no_such_thing_isomorphic_layout_effect/)
 * [2025-02-26, 20:37:23](https://lobste.rs/s/nqwywo/what_is_founder_mode) - [What is \"founder mode\"?](https://tomblomfield.com/post/763715798246227968/what-is-founder-mode)
 * [2025-02-26, 20:30:16](https://lobste.rs/s/t7qele/generate_markdown_document_your) - [Generate a markdown document of your codebase for AI](https://github.com/tesserato/CodeWeaver)
