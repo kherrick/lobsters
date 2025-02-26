@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 16:47:10](https://lobste.rs/s/yemc16/cp_copying_all_files_directory_including) - [cp -  copying all files of a directory, including hidden ones](https://bhoot.dev/2025/cp-dot-copies-everything/)
 * [2025-02-26, 16:14:02](https://lobste.rs/s/phphnb/tiktok_alternative_rednote_xiaohongshu) - [TikTok alternative RedNote (Xiaohongshu) fails basic security measures](https://petal.blog/articles/exploiting-rednote.html)
 * [2025-02-26, 15:10:49](https://lobste.rs/s/p5li0t/hmpl_js_server_oriented_customizable) - [HMPL.js - Server-oriented customizable templating for JavaScript](https://github.com/hmpl-language/hmpl)
 * [2025-02-26, 14:44:54](https://lobste.rs/s/cmnxjz/miserable_state_cellular_modems_mobile) - [The Miserable State of Cellular Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
