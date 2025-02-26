@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-26, 14:44:54](https://lobste.rs/s/cmnxjz/miserable_state_cellular_modems_mobile) - [The Miserable State of Cellular Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
 * [2025-02-26, 14:32:30](https://lobste.rs/s/xlec3d/intent_experiment_for_longer) - [Intent to Experiment for Longer](https://blog.kizu.dev/intent-to-experiment-for-longer/)
 * [2025-02-26, 13:23:00](https://lobste.rs/s/lblewp/change_maintenance_for_kernel_s_dma) - [A change in maintenance for the kernel's DMA-mapping layer](https://lwn.net/Articles/1011819/)
 * [2025-02-26, 12:34:00](https://lobste.rs/s/cvclkp/peek_into_possible_future_python_browser) - [A peek into a possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
@@ -11,7 +12,6 @@
 * [2025-02-26, 05:25:52](https://lobste.rs/s/fwglvt/why_ruby_on_rails_still_matters) - [Why Ruby on Rails still matters](https://www.contraption.co/rails-versus-nextjs/)
 * [2025-02-25, 22:34:40](https://lobste.rs/s/6qm5bc/emergent_misalignment) - [Emergent Misalignment](https://www.emergent-misalignment.com)
 * [2025-02-25, 20:08:08](https://lobste.rs/s/oblb9x/framework_2nd_gen_event) - [Framework (2nd Gen) Event](https://www.youtube.com/watch?v=-8k7jTF_JCg)
-* [2025-02-25, 15:17:29](https://lobste.rs/s/o1golw/turbocharging_v8_with_mutable_heap) - [Turbocharging V8 with mutable heap numbers](https://v8.dev/blog/mutable-heap-number)
 * [2025-02-25, 15:15:18](https://lobste.rs/s/swtkwg/why_how_i_version_my_blog) - [Why and How I Version My Blog](https://rishikeshs.com/blog-version/)
 * [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
 * [2025-02-25, 13:32:26](https://lobste.rs/s/7u7hxw/rust_edition_2024_annotated) - [Rust edition 2024 annotated](https://bertptrs.nl/2025/02/23/rust-edition-2024-annotated.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-26](index.md)
 
+* [2025-02-26, 14:44:54](https://lobste.rs/s/cmnxjz/miserable_state_cellular_modems_mobile) - [The Miserable State of Cellular Modems and Mobile Network Operators](https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/)
 * [2025-02-26, 14:32:30](https://lobste.rs/s/xlec3d/intent_experiment_for_longer) - [Intent to Experiment for Longer](https://blog.kizu.dev/intent-to-experiment-for-longer/)
 * [2025-02-26, 13:23:00](https://lobste.rs/s/lblewp/change_maintenance_for_kernel_s_dma) - [A change in maintenance for the kernel's DMA-mapping layer [LWN.net]](https://lwn.net/Articles/1011819/)
 * [2025-02-26, 12:34:00](https://lobste.rs/s/cvclkp/peek_into_possible_future_python_browser) - [A peek into a possible future of Python in the browser](https://lukasz.langa.pl/f37aa97a-9ea3-4aeb-b6a0-9daeea5a7505/)
