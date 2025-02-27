@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-02-26, 20:52:01",
+      "https://lobste.rs/s/mzgi1d/there_s_no_such_thing_as_isomorphic_layout"
+    ],
+    [
+      "There’s no such thing as an isomorphic layout effect",
+      "https://smoores.dev/post/no_such_thing_isomorphic_layout_effect/"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 19:00:18",
       "https://lobste.rs/s/8iwvft/introducing_framework_desktop"
     ],
@@ -237,16 +247,6 @@
     [
       "APL since 1978",
       "https://dl.acm.org/doi/10.1145/3386319"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 14:29:58",
-      "https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang"
-    ],
-    [
-      "Gleam, coming from Erlang",
-      "https://olano.dev/blog/gleam-coming-from-erlang"
     ]
   ]
 ]
