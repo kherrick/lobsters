@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-27, 22:51:31",
+      "https://lobste.rs/s/ko2mv2/streaming_algorithms_for_embedding"
+    ],
+    [
+      "Streaming algorithms for embedding and computing edit distance in the low distance regime",
+      "https://iuuk.mff.cuni.cz/~koucky/papers/editDistance.pdf"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 21:11:38",
       "https://lobste.rs/s/5i3syb/visual_programming_is_stuck_on_form"
     ],
@@ -97,16 +107,6 @@
     [
       "Winners of the ISBN visualization bounty",
       "https://annas-archive.org/blog/all-isbns-winners.html"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 13:55:16",
-      "https://lobste.rs/s/c7ywce/how_i_automated_my_podcast_transcript"
-    ],
-    [
-      "How I Automated My Podcast Transcript Production With Local AI",
-      "https://den.dev/blog/how-i-automated-podcast-transcription-with-local-ai/"
     ]
   ],
   [
