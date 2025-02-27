@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 06:02:12](https://lobste.rs/s/ackfl2/semaphore_ci_cd_platform_went_open_source) - [Semaphore CI/CD platform went Open Source](https://github.com/semaphoreio/semaphore)
 * [2025-02-27, 05:14:16](https://lobste.rs/s/hytfga/calling_rust_from_cursed_go) - [Calling Rust from cursed Go](https://pthorpe92.dev/cursed-go/)
 * [2025-02-27, 05:04:21](https://lobste.rs/s/fnnzsm/compact_normal_forms_linear_types) - [Compact normal forms + linear types  = efficient network communication (2017)](https://tweag.io/blog/2017-08-24-linear-types-packed-data/)
 * [2025-02-27, 01:58:25](https://lobste.rs/s/de2ab1/firefox_adds_terms_use) - [Firefox adds terms of use](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/)
