@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 10:02:35](https://lobste.rs/s/e2aq84/compile_ruby_apps_with_tebako) - [Compile Ruby apps with Tebako](https://terminalwire.com/articles/tebako)
 * [2025-02-27, 08:59:14](https://lobste.rs/s/bbl3sl/applying_purity_imperative_world) - [Applying Purity To The Imperative World](https://jerf.org/iri/post/2025/fp_lessons_purity/)
 * [2025-02-27, 07:45:13](https://lobste.rs/s/6rl9ah/launching_rdap_sunsetting_whois) - [Launching RDAP; Sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 * [2025-02-27, 06:24:04](https://lobste.rs/s/tv45be/assorted_macos_tips_tricks) - [Assorted macOS Tips & Tricks](https://saurabhs.org/macos-tips)
