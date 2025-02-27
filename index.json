@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-02-26, 17:36:33",
+      "https://lobste.rs/s/q1d8kv/on_how_we_moved_kubernetes"
+    ],
+    [
+      "On How We Moved to Kubernetes",
+      "https://radekmie.dev/blog/on-how-we-moved-to-kubernetes/"
+    ]
+  ],
+  [
+    [
       "2025-02-26, 17:19:59",
       "https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom"
     ],
@@ -237,16 +247,6 @@
     [
       "Gleam, coming from Erlang",
       "https://olano.dev/blog/gleam-coming-from-erlang"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 09:57:02",
-      "https://lobste.rs/s/wrpt6v/what_would_happen_if_we_didn_t_use_tcp_udp"
-    ],
-    [
-      "What would happen if we didn't use TCP or UDP?",
-      "https://github.com/Hawzen/hdp"
     ]
   ]
 ]
