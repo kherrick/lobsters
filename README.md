@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-27, 08:59:14](https://lobste.rs/s/bbl3sl/applying_purity_imperative_world) - [Applying Purity To The Imperative World](https://jerf.org/iri/post/2025/fp_lessons_purity/)
 * [2025-02-27, 07:45:13](https://lobste.rs/s/6rl9ah/launching_rdap_sunsetting_whois) - [Launching RDAP; Sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 * [2025-02-27, 06:24:04](https://lobste.rs/s/tv45be/assorted_macos_tips_tricks) - [Assorted macOS Tips & Tricks](https://saurabhs.org/macos-tips)
 * [2025-02-27, 06:02:12](https://lobste.rs/s/ackfl2/semaphore_ci_cd_platform_went_open_source) - [Semaphore CI/CD platform went Open Source](https://github.com/semaphoreio/semaphore)
@@ -22,7 +23,6 @@
 * [2025-02-26, 14:32:30](https://lobste.rs/s/xlec3d/intent_experiment_for_longer) - [Intent to Experiment for Longer](https://blog.kizu.dev/intent-to-experiment-for-longer/)
 * [2025-02-26, 12:19:35](https://lobste.rs/s/0fzg6o/programming_really_is_simple) - [Programming Really Is Simple Mathematics](https://bertrandmeyer.com/2025/02/25/new-preprint-programming-really-is-simple-mathematics/)
 * [2025-02-26, 08:56:22](https://lobste.rs/s/vicy6o/i_went_sql_injection_court) - [I Went To SQL Injection Court](https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/)
-* [2025-02-26, 07:55:10](https://lobste.rs/s/5xo0w2/standard_proposal_for_memory_safety_c) - [Standard proposal for memory-Safety in C (2024)](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3211.pdf)
 * [2025-02-26, 06:43:50](https://lobste.rs/s/fi97rp/useless_use_cat_award_2000) - [Useless Use of Cat Award (2000)](https://porkmail.org/era/unix/award)
 * [2025-02-26, 05:42:02](https://lobste.rs/s/ersq0z/apl_since_1978) - [APL since 1978](https://dl.acm.org/doi/10.1145/3386319)
 
