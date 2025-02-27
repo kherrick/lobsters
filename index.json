@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-27, 23:00:31",
+      "https://lobste.rs/s/abs9fe/building_query_compilers"
+    ],
+    [
+      "Building Query Compilers",
+      "https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 22:51:31",
       "https://lobste.rs/s/ko2mv2/streaming_algorithms_for_embedding"
     ],
@@ -217,16 +227,6 @@
     [
       "Faster Go maps with Swiss Tables",
       "https://go.dev/blog/swisstable"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 21:03:13",
-      "https://lobste.rs/s/ng16gl/socrates_is_state_machine"
-    ],
-    [
-      "Socrates is a state machine",
-      "https://www.sminez.dev/socrates-is-a-state-machine/"
     ]
   ],
   [
