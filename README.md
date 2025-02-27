@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-27, 23:00:31](https://lobste.rs/s/abs9fe/building_query_compilers) - [Building Query Compilers](https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf)
 * [2025-02-27, 22:51:31](https://lobste.rs/s/ko2mv2/streaming_algorithms_for_embedding) - [Streaming algorithms for embedding and computing edit distance in the low distance regime](https://iuuk.mff.cuni.cz/~koucky/papers/editDistance.pdf)
 * [2025-02-27, 21:11:38](https://lobste.rs/s/5i3syb/visual_programming_is_stuck_on_form) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-02-27, 20:09:36](https://lobste.rs/s/h5zfdf/branded_types) - [Branded Types](https://www.learningtypescript.com/articles/branded-types)
@@ -22,7 +23,6 @@
 * [2025-02-27, 01:58:25](https://lobste.rs/s/de2ab1/firefox_adds_terms_use) - [Firefox adds terms of use](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/)
 * [2025-02-27, 00:31:53](https://lobste.rs/s/lragbd/imac_g4_k) - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
 * [2025-02-26, 23:48:41](https://lobste.rs/s/olofvt/faster_go_maps_with_swiss_tables) - [Faster Go maps with Swiss Tables](https://go.dev/blog/swisstable)
-* [2025-02-26, 21:03:13](https://lobste.rs/s/ng16gl/socrates_is_state_machine) - [Socrates is a state machine](https://www.sminez.dev/socrates-is-a-state-machine/)
 * [2025-02-26, 17:19:59](https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom) - [TypeScript types can run DOOM](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 16:47:10](https://lobste.rs/s/yemc16/cp_copying_all_files_directory_including) - [cp -  copying all files of a directory, including hidden ones](https://bhoot.dev/2025/cp-dot-copies-everything/)
 
