@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 14:16:38](https://lobste.rs/s/ww96mh/why_are_jujutsu_s_id_prefixes_so_short) - [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
 * [2025-02-27, 14:05:57](https://lobste.rs/s/4fxbkn/git_for_fansubbing_probably_mistake) - [Git for Fansubbing: Probably a Mistake](https://redvice.org/2025/git-subbing-was-a-mistake/)
 * [2025-02-27, 13:59:02](https://lobste.rs/s/ox1tvx/winners_isbn_visualization_bounty) - [Winners of the ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
 * [2025-02-27, 13:55:16](https://lobste.rs/s/c7ywce/how_i_automated_my_podcast_transcript) - [How I Automated My Podcast Transcript Production With Local AI](https://den.dev/blog/how-i-automated-podcast-transcription-with-local-ai/)
