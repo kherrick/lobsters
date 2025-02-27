@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-02-27](index.md)
 
+* [2025-02-27, 17:24:20](https://lobste.rs/s/1naw96/goodbye_k_9_mail) - [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
+* [2025-02-27, 17:14:30](https://lobste.rs/s/pgl0kb/what_s_new_fish_4_0) - [What's new in fish 4.0](https://fishshell.com/blog/new-in-40/)
 * [2025-02-27, 15:15:28](https://lobste.rs/s/0hxggz/servo_security_report_findings) - [Servo Security Report: findings and solutions](https://servo.org/blog/2025/02/26/servo-security-report/)
 * [2025-02-27, 15:02:52](https://lobste.rs/s/nmwu6p/why_i_like_designing_browser) - [Why I Like Designing in the Browser](https://cloudfour.com/thinks/why-i-like-designing-in-the-browser/)
 * [2025-02-27, 14:39:20](https://lobste.rs/s/jbg9zf/arco_smartest_way_access_big_geospatial) - [ARCO: The Smartest Way to Access Big Geospatial Data](https://blog.lobelia.earth/arco-the-smartest-way-to-access-big-geospatial-data-eaf689eff3c9)
