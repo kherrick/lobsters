@@ -9,6 +9,7 @@
 * [2025-02-26, 23:16:12](https://lobste.rs/s/zymtrz/freebsd_2024_q4_status_report) - [FreeBSD 2024 Q4 Status Report](https://freebsd.org/status/report-2024-10-2024-12/)
 * [2025-02-26, 22:50:56](https://lobste.rs/s/idtjjj/over_clouds_cpython_pyodide_spy) - [Over the clouds: CPython, Pyodide and SPy](http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/)
 * [2025-02-26, 21:03:13](https://lobste.rs/s/ng16gl/socrates_is_state_machine) - [Socrates is a state machine](https://www.sminez.dev/socrates-is-a-state-machine/)
+* [2025-02-26, 20:52:01](https://lobste.rs/s/mzgi1d/there_s_no_such_thing_as_isomorphic_layout) - [There’s no such thing as an isomorphic layout effect](https://smoores.dev/post/no_such_thing_isomorphic_layout_effect/)
 * [2025-02-26, 19:00:18](https://lobste.rs/s/8iwvft/introducing_framework_desktop) - [Introducing the Framework Desktop](https://frame.work/hr/en/blog/introducing-the-framework-desktop)
 * [2025-02-26, 18:34:47](https://lobste.rs/s/mok6ks/securing_tomorrow_s_software_need_for) - [Securing tomorrow's software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 * [2025-02-26, 17:53:45](https://lobste.rs/s/mh2wvy/hedy_creating_programming_language_for) - [Hedy: Creating a Programming Language for Everyone](https://www.youtube.com/watch?v=rHxAdIFXplI)
@@ -24,7 +25,6 @@
 * [2025-02-26, 07:55:10](https://lobste.rs/s/5xo0w2/standard_proposal_for_memory_safety_c) - [Standard proposal for memory-Safety in C (2024)](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3211.pdf)
 * [2025-02-26, 06:43:50](https://lobste.rs/s/fi97rp/useless_use_cat_award_2000) - [Useless Use of Cat Award (2000)](https://porkmail.org/era/unix/award)
 * [2025-02-26, 05:42:02](https://lobste.rs/s/ersq0z/apl_since_1978) - [APL since 1978](https://dl.acm.org/doi/10.1145/3386319)
-* [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
 
 ## [Archives](archives/index.md)
 
