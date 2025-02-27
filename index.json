@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-02-27, 05:14:16",
+      "https://lobste.rs/s/hytfga/calling_rust_from_cursed_go"
+    ],
+    [
+      "Calling Rust from cursed Go",
+      "https://pthorpe92.dev/cursed-go/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 05:04:21",
       "https://lobste.rs/s/fnnzsm/compact_normal_forms_linear_types"
     ],
@@ -237,16 +247,6 @@
     [
       "APL since 1978",
       "https://dl.acm.org/doi/10.1145/3386319"
-    ]
-  ],
-  [
-    [
-      "2025-02-25, 14:29:58",
-      "https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang"
-    ],
-    [
-      "Gleam, coming from Erlang",
-      "https://olano.dev/blog/gleam-coming-from-erlang"
     ]
   ]
 ]
