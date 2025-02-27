@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-27, 05:14:16",
+      "https://lobste.rs/s/hytfga/calling_rust_from_cursed_go"
+    ],
+    [
+      "Calling Rust from cursed Go",
+      "https://pthorpe92.dev/cursed-go/"
+    ]
+  ],
+  [
+    [
+      "2025-02-27, 05:04:21",
+      "https://lobste.rs/s/fnnzsm/compact_normal_forms_linear_types"
+    ],
+    [
+      "Compact normal forms + linear types  = efficient network communication (2017)",
+      "https://tweag.io/blog/2017-08-24-linear-types-packed-data/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 01:58:25",
       "https://lobste.rs/s/de2ab1/firefox_adds_terms_use"
     ],
@@ -47,16 +67,6 @@
     [
       "Over the clouds: CPython, Pyodide and SPy",
       "http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 22:33:07",
-      "https://lobste.rs/s/vf9dmw/gpu_mode_kernel_leaderboard"
-    ],
-    [
-      "GPU MODE Kernel Leaderboard",
-      "https://gpu-mode.github.io/discord-cluster-manager/docs/intro"
     ]
   ],
   [
@@ -117,16 +127,6 @@
     [
       "Meshtastic 2.6 Preview: MUI and Next-Hop Routing are here",
       "https://meshtastic.org/blog/meshtastic-2-6-preview/"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 17:36:33",
-      "https://lobste.rs/s/q1d8kv/on_how_we_moved_kubernetes"
-    ],
-    [
-      "On How We Moved to Kubernetes",
-      "https://radekmie.dev/blog/on-how-we-moved-to-kubernetes/"
     ]
   ],
   [
