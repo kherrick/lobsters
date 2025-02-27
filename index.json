@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-27, 12:41:00",
+      "https://lobste.rs/s/bvzlzb/testing_numbs_us_our_loss_intellectual"
+    ],
+    [
+      "Testing Numbs Us to Our Loss of Intellectual Control (2020)",
+      "https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 12:10:10",
       "https://lobste.rs/s/jivgtn/why_we_designed_tigerbeetle_s_docs_from"
     ],
@@ -17,16 +27,6 @@
     [
       "The Pipe Operator In Generics Is Not A Sum Type",
       "https://jerf.org/iri/post/2024/go_faq_pipe_in_generics/"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 10:02:35",
-      "https://lobste.rs/s/e2aq84/compile_ruby_apps_with_tebako"
-    ],
-    [
-      "Compile Ruby apps with Tebako",
-      "https://terminalwire.com/articles/tebako"
     ]
   ],
   [
@@ -102,10 +102,10 @@
   [
     [
       "2025-02-26, 23:48:41",
-      "https://lobste.rs/s/olofvt/faster_go_maps_with_swiss_tables_go"
+      "https://lobste.rs/s/olofvt/faster_go_maps_with_swiss_tables"
     ],
     [
-      "Faster Go maps with Swiss Tables - The Go Programming Language",
+      "Faster Go maps with Swiss Tables",
       "https://go.dev/blog/swisstable"
     ]
   ],
