@@ -131,16 +131,6 @@
   ],
   [
     [
-      "2025-02-26, 17:42:12",
-      "https://lobste.rs/s/qzv9qc/meshtastic_2_6_preview_mui_next_hop"
-    ],
-    [
-      "Meshtastic 2.6 Preview: MUI and Next-Hop Routing are here",
-      "https://meshtastic.org/blog/meshtastic-2-6-preview/"
-    ]
-  ],
-  [
-    [
       "2025-02-26, 17:19:59",
       "https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom"
     ],
@@ -247,6 +237,16 @@
     [
       "APL since 1978",
       "https://dl.acm.org/doi/10.1145/3386319"
+    ]
+  ],
+  [
+    [
+      "2025-02-25, 14:29:58",
+      "https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang"
+    ],
+    [
+      "Gleam, coming from Erlang",
+      "https://olano.dev/blog/gleam-coming-from-erlang"
     ]
   ]
 ]
