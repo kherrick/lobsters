@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-27, 20:09:36",
+      "https://lobste.rs/s/h5zfdf/branded_types"
+    ],
+    [
+      "Branded Types",
+      "https://www.learningtypescript.com/articles/branded-types"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 19:11:13",
       "https://lobste.rs/s/sdm7pb/tips_debug_hanging_go_programs"
     ],
@@ -227,16 +237,6 @@
     [
       "cp -  copying all files of a directory, including hidden ones",
       "https://bhoot.dev/2025/cp-dot-copies-everything/"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 14:44:54",
-      "https://lobste.rs/s/cmnxjz/miserable_state_cellular_modems_mobile"
-    ],
-    [
-      "The Miserable State of Cellular Modems and Mobile Network Operators",
-      "https://blog.golioth.io/the-miserable-state-of-modems-and-mobile-network-operators/"
     ]
   ],
   [
