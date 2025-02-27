@@ -13,7 +13,6 @@
 * [2025-02-26, 19:00:18](https://lobste.rs/s/8iwvft/introducing_framework_desktop) - [Introducing the Framework Desktop](https://frame.work/hr/en/blog/introducing-the-framework-desktop)
 * [2025-02-26, 18:34:47](https://lobste.rs/s/mok6ks/securing_tomorrow_s_software_need_for) - [Securing tomorrow's software: the need for memory safety standards](https://security.googleblog.com/2025/02/securing-tomorrows-software-need-for.html)
 * [2025-02-26, 17:53:45](https://lobste.rs/s/mh2wvy/hedy_creating_programming_language_for) - [Hedy: Creating a Programming Language for Everyone](https://www.youtube.com/watch?v=rHxAdIFXplI)
-* [2025-02-26, 17:42:12](https://lobste.rs/s/qzv9qc/meshtastic_2_6_preview_mui_next_hop) - [Meshtastic 2.6 Preview: MUI and Next-Hop Routing are here](https://meshtastic.org/blog/meshtastic-2-6-preview/)
 * [2025-02-26, 17:19:59](https://lobste.rs/s/ebpdwe/typescript_types_can_run_doom) - [TypeScript types can run DOOM](https://www.youtube.com/watch?v=0mCsluv5FXA)
 * [2025-02-26, 16:47:10](https://lobste.rs/s/yemc16/cp_copying_all_files_directory_including) - [cp -  copying all files of a directory, including hidden ones](https://bhoot.dev/2025/cp-dot-copies-everything/)
 * [2025-02-26, 16:14:02](https://lobste.rs/s/phphnb/tiktok_alternative_rednote_xiaohongshu) - [TikTok alternative RedNote (Xiaohongshu) fails basic security measures](https://petal.blog/articles/exploiting-rednote.html)
@@ -25,6 +24,7 @@
 * [2025-02-26, 07:55:10](https://lobste.rs/s/5xo0w2/standard_proposal_for_memory_safety_c) - [Standard proposal for memory-Safety in C (2024)](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3211.pdf)
 * [2025-02-26, 06:43:50](https://lobste.rs/s/fi97rp/useless_use_cat_award_2000) - [Useless Use of Cat Award (2000)](https://porkmail.org/era/unix/award)
 * [2025-02-26, 05:42:02](https://lobste.rs/s/ersq0z/apl_since_1978) - [APL since 1978](https://dl.acm.org/doi/10.1145/3386319)
+* [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
 
 ## [Archives](archives/index.md)
 
