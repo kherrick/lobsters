@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-27, 01:58:25](https://lobste.rs/s/de2ab1/firefox_adds_terms_use) - [Firefox adds terms of use](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/)
 * [2025-02-27, 00:31:53](https://lobste.rs/s/lragbd/imac_g4_k) - [iMac G4(K)](https://jcs.org/2025/02/26/imacg4k)
 * [2025-02-26, 23:48:41](https://lobste.rs/s/olofvt/faster_go_maps_with_swiss_tables_go) - [Faster Go maps with Swiss Tables - The Go Programming Language](https://go.dev/blog/swisstable)
+* [2025-02-26, 23:16:12](https://lobste.rs/s/zymtrz/freebsd_2024_q4_status_report) - [FreeBSD 2024 Q4 Status Report](https://freebsd.org/status/report-2024-10-2024-12/)
 * [2025-02-26, 22:50:56](https://lobste.rs/s/idtjjj/over_clouds_cpython_pyodide_spy) - [Over the clouds: CPython, Pyodide and SPy](http://antocuni.eu/2025/02/26/over-the-clouds-cpython-pyodide-and-spy/)
 * [2025-02-26, 22:33:07](https://lobste.rs/s/vf9dmw/gpu_mode_kernel_leaderboard) - [GPU MODE Kernel Leaderboard](https://gpu-mode.github.io/discord-cluster-manager/docs/intro)
 * [2025-02-26, 21:03:13](https://lobste.rs/s/ng16gl/socrates_is_state_machine) - [Socrates is a state machine](https://www.sminez.dev/socrates-is-a-state-machine/)
@@ -23,8 +25,6 @@
 * [2025-02-26, 06:43:50](https://lobste.rs/s/fi97rp/useless_use_cat_award_2000) - [Useless Use of Cat Award (2000)](https://porkmail.org/era/unix/award)
 * [2025-02-26, 05:42:02](https://lobste.rs/s/ersq0z/apl_since_1978) - [APL since 1978](https://dl.acm.org/doi/10.1145/3386319)
 * [2025-02-25, 14:29:58](https://lobste.rs/s/vpfqm2/gleam_coming_from_erlang) - [Gleam, coming from Erlang](https://olano.dev/blog/gleam-coming-from-erlang)
-* [2025-02-25, 11:23:16](https://lobste.rs/s/xslm1t/zlib_rs_is_faster_than_c) - [zlib-rs is faster than C](https://trifectatech.org/blog/zlib-rs-is-faster-than-c/)
-* [2025-02-25, 09:57:02](https://lobste.rs/s/wrpt6v/what_would_happen_if_we_didn_t_use_tcp_udp) - [What would happen if we didn't use TCP or UDP?](https://github.com/Hawzen/hdp)
 
 ## [Archives](archives/index.md)
 
