@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-02-27, 13:55:16",
+      "https://lobste.rs/s/c7ywce/how_i_automated_my_podcast_transcript"
+    ],
+    [
+      "How I Automated My Podcast Transcript Production With Local AI",
+      "https://den.dev/blog/how-i-automated-podcast-transcription-with-local-ai/"
+    ]
+  ],
+  [
+    [
       "2025-02-27, 13:32:38",
       "https://lobste.rs/s/ym7xhm/release_fish_shell_4_0_0_now_ported_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "cp -  copying all files of a directory, including hidden ones",
       "https://bhoot.dev/2025/cp-dot-copies-everything/"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 08:56:22",
-      "https://lobste.rs/s/vicy6o/i_went_sql_injection_court"
-    ],
-    [
-      "I Went To SQL Injection Court",
-      "https://sockpuppet.org/blog/2025/02/09/fixing-illinois-foia/"
     ]
   ]
 ]
