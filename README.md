@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-27, 21:11:38](https://lobste.rs/s/5i3syb/visual_programming_is_stuck_on_form) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-02-27, 20:09:36](https://lobste.rs/s/h5zfdf/branded_types) - [Branded Types](https://www.learningtypescript.com/articles/branded-types)
 * [2025-02-27, 19:11:13](https://lobste.rs/s/sdm7pb/tips_debug_hanging_go_programs) - [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/)
 * [2025-02-27, 18:54:19](https://lobste.rs/s/d8ydvt/command_conquer_red_alert_source_code) - [Command and Conquer: Red Alert source code](https://github.com/electronicarts/CnC_Red_Alert)
@@ -9,7 +10,6 @@
 * [2025-02-27, 14:16:38](https://lobste.rs/s/ww96mh/why_are_jujutsu_s_id_prefixes_so_short) - [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
 * [2025-02-27, 14:05:57](https://lobste.rs/s/4fxbkn/git_for_fansubbing_probably_mistake) - [Git for Fansubbing: Probably a Mistake](https://redvice.org/2025/git-subbing-was-a-mistake/)
 * [2025-02-27, 13:59:02](https://lobste.rs/s/ox1tvx/winners_isbn_visualization_bounty) - [Winners of the ISBN visualization bounty](https://annas-archive.org/blog/all-isbns-winners.html)
-* [2025-02-27, 13:55:16](https://lobste.rs/s/c7ywce/how_i_automated_my_podcast_transcript) - [How I Automated My Podcast Transcript Production With Local AI](https://den.dev/blog/how-i-automated-podcast-transcription-with-local-ai/)
 * [2025-02-27, 13:32:38](https://lobste.rs/s/ym7xhm/release_fish_shell_4_0_0_now_ported_rust) - [Release fish shell 4.0.0, now ported to Rust](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
 * [2025-02-27, 13:23:53](https://lobste.rs/s/0csx3b/safetycore_new_android_feature_is) - [SafetyCore: new Android feature is scanning your photos for 'sensitive content'](https://www.zdnet.com/article/a-new-android-feature-is-scanning-your-photos-for-sensitive-content-how-to-stop-it/)
 * [2025-02-27, 12:41:00](https://lobste.rs/s/bvzlzb/testing_numbs_us_our_loss_intellectual) - [Testing Numbs Us to Our Loss of Intellectual Control (2020)](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
