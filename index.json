@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-28, 15:08:41",
+      "https://lobste.rs/s/eah1pb/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/eah1pb/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 14:40:31",
       "https://lobste.rs/s/ywwqvr/netboot_windows_11_with_iscsi_ipxe"
     ],
@@ -67,16 +77,6 @@
     [
       "Simon Peyton Jones on Notes in source code (2021)",
       "https://www.youtube.com/watch?v=4RuLzL_q0zs&t=2640s"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 07:42:58",
-      "https://lobste.rs/s/dwfkkf/3fs_high_performance_distributed_file"
-    ],
-    [
-      "3FS: A high-performance distributed file system designed to address the challenges of AI training and inference workloads",
-      "https://github.com/deepseek-ai/3FS"
     ]
   ],
   [
