@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-02-28, 03:17:19",
+      "https://lobste.rs/s/d9ivn2/make_cross_views"
+    ],
+    [
+      "Make Cross Views",
+      "https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 02:20:11",
+      "https://lobste.rs/s/ioztzf/there_isn_t_much_point_http_2_past_load"
+    ],
+    [
+      "There Isn’t Much Point to HTTP/2 Past The Load Balancer",
+      "https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 00:02:57",
       "https://lobste.rs/s/0ldvvk/nvidia_emulation_journey_part_1_riva_128"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-02-27, 13:59:02",
-      "https://lobste.rs/s/ox1tvx/winners_isbn_visualization_bounty"
-    ],
-    [
-      "Winners of the ISBN visualization bounty",
-      "https://annas-archive.org/blog/all-isbns-winners.html"
-    ]
-  ],
-  [
-    [
       "2025-02-27, 13:32:38",
       "https://lobste.rs/s/ym7xhm/release_fish_shell_4_0_0_now_ported_rust"
     ],
@@ -187,16 +197,6 @@
     [
       "Assorted macOS Tips & Tricks",
       "https://saurabhs.org/macos-tips"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 06:02:12",
-      "https://lobste.rs/s/ackfl2/semaphore_ci_cd_platform_went_open_source"
-    ],
-    [
-      "Semaphore CI/CD platform went Open Source",
-      "https://github.com/semaphoreio/semaphore"
     ]
   ],
   [
