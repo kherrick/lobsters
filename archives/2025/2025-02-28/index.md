@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 19:19:20](https://lobste.rs/s/uzx2be/windows_nt_for_gamecube_wii) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
 * [2025-02-28, 17:53:11](https://lobste.rs/s/xhssly/thoughts_about_rustdoc) - [Thoughts about rustdoc](https://lobste.rs/s/xhssly/thoughts_about_rustdoc)
 * [2025-02-28, 17:40:06](https://lobste.rs/s/h38zur/structured_data_extraction_from) - [Structured data extraction from unstructured content using LLM schemas](https://simonwillison.net/2025/Feb/28/llm-schemas/)
 * [2025-02-28, 15:08:41](https://lobste.rs/s/eah1pb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/eah1pb/what_are_you_doing_this_weekend)
