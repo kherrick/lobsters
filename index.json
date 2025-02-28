@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-02-28, 13:46:55",
+      "https://lobste.rs/s/2sxwzh/how_couchdb_prevents_data_corruption"
+    ],
+    [
+      "How CouchDB Prevents Data Corruption: fsync",
+      "https://neighbourhood.ie/blog/2025/02/26/how-couchdb-prevents-data-corruption-fsync"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 13:37:45",
       "https://lobste.rs/s/983aqv/leader_election_with_s3_if_match"
     ],
@@ -227,16 +237,6 @@
     [
       "Why We Designed TigerBeetle's Docs from Scratch",
       "https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 06:24:04",
-      "https://lobste.rs/s/tv45be/assorted_macos_tips_tricks"
-    ],
-    [
-      "Assorted macOS Tips & Tricks",
-      "https://saurabhs.org/macos-tips"
     ]
   ],
   [
