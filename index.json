@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-28, 05:50:12",
+      "https://lobste.rs/s/cvqffe/perceptron"
+    ],
+    [
+      "The Perceptron",
+      "https://youtu.be/l-9ALe3U-Fg"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 04:57:17",
       "https://lobste.rs/s/xjnx95/distributed_systems_programming_has"
     ],
@@ -217,16 +227,6 @@
     [
       "Firefox adds terms of use",
       "https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 23:48:41",
-      "https://lobste.rs/s/olofvt/faster_go_maps_with_swiss_tables"
-    ],
-    [
-      "Faster Go maps with Swiss Tables",
-      "https://go.dev/blog/swisstable"
     ]
   ],
   [
