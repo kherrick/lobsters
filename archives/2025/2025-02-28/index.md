@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 13:46:55](https://lobste.rs/s/2sxwzh/how_couchdb_prevents_data_corruption) - [How CouchDB Prevents Data Corruption: fsync](https://neighbourhood.ie/blog/2025/02/26/how-couchdb-prevents-data-corruption-fsync)
 * [2025-02-28, 13:37:45](https://lobste.rs/s/983aqv/leader_election_with_s3_if_match) - [Leader election with S3 and If-Match](https://quanttype.net/posts/2025-02-25-leader-election-with-s3-and-if-match.html)
 * [2025-02-28, 12:58:26](https://lobste.rs/s/ptr2k3/garnix_modules) - [garnix modules](https://garnix.io/blog/garnix-modules)
 * [2025-02-28, 12:34:58](https://lobste.rs/s/xwaqpt/ea_open_sourced_command_conquer_red_alert) - [EA open sourced Command & Conquer, Red Alert, Renegade and Generals](https://store.steampowered.com/news/app/2229890/view/502818210084553731)
