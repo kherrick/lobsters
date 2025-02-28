@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-28, 22:46:37](https://lobste.rs/s/zodgre/response_teammate_app_s_notification) - [Response to Teammate App's Notification and Disclosure](https://jltee.substack.com/p/response-to-teammate-apps-notification-and-disclosure)
 * [2025-02-28, 21:32:35](https://lobste.rs/s/zian90/how_gain_code_execution_on_millions) - [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:04:35](https://lobste.rs/s/2ah6bi/programming_without_pointers) - [Programming without pointers](https://www.hytradboi.com/2025/05c72e39-c07e-41bc-ac40-85e8308f2917-programming-without-pointers)
 * [2025-02-28, 19:33:48](https://lobste.rs/s/pntik4/interop_2025_another_year_web_platform) - [Interop 2025: another year of web platform improvements](https://web.dev/blog/interop-2025)
@@ -9,7 +10,6 @@
 * [2025-02-28, 15:08:41](https://lobste.rs/s/eah1pb/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/eah1pb/what_are_you_doing_this_weekend)
 * [2025-02-28, 14:40:31](https://lobste.rs/s/ywwqvr/netboot_windows_11_with_iscsi_ipxe) - [Netboot Windows 11 with iSCSI and iPXE](https://terinstock.com/post/2025/02/Netboot-Windows-11-with-iSCSI-and-iPXE/)
 * [2025-02-28, 14:35:12](https://lobste.rs/s/ccazb3/let_s_hold_hands) - [Let's Hold Hands](https://untested.sonnet.io/notes/lets-hold-hands/)
-* [2025-02-28, 13:46:55](https://lobste.rs/s/2sxwzh/how_couchdb_prevents_data_corruption) - [How CouchDB Prevents Data Corruption: fsync](https://neighbourhood.ie/blog/2025/02/26/how-couchdb-prevents-data-corruption-fsync)
 * [2025-02-28, 13:37:45](https://lobste.rs/s/983aqv/leader_election_with_s3_if_match) - [Leader election with S3 and If-Match](https://quanttype.net/posts/2025-02-25-leader-election-with-s3-and-if-match.html)
 * [2025-02-28, 12:58:26](https://lobste.rs/s/ptr2k3/garnix_modules) - [garnix modules](https://garnix.io/blog/garnix-modules)
 * [2025-02-28, 12:34:58](https://lobste.rs/s/xwaqpt/ea_open_sourced_command_conquer_red_alert) - [EA open sourced Command & Conquer, Red Alert, Renegade and Generals](https://store.steampowered.com/news/app/2229890/view/502818210084553731)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 22:46:37](https://lobste.rs/s/zodgre/response_teammate_app_s_notification) - [Response to Teammate App's Notification and Disclosure](https://jltee.substack.com/p/response-to-teammate-apps-notification-and-disclosure)
 * [2025-02-28, 21:32:35](https://lobste.rs/s/zian90/how_gain_code_execution_on_millions) - [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:04:35](https://lobste.rs/s/2ah6bi/programming_without_pointers) - [Programming without pointers](https://www.hytradboi.com/2025/05c72e39-c07e-41bc-ac40-85e8308f2917-programming-without-pointers)
 * [2025-02-28, 19:33:48](https://lobste.rs/s/pntik4/interop_2025_another_year_web_platform) - [Interop 2025: another year of web platform improvements](https://web.dev/blog/interop-2025)
