@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-02-28, 17:53:11",
-      "https://lobste.rs/s/xhssly/thoughts_about_rustdoc"
-    ],
-    [
-      "Thoughts about rustdoc",
-      "https://lobste.rs/s/xhssly/thoughts_about_rustdoc"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 17:40:06",
       "https://lobste.rs/s/h38zur/structured_data_extraction_from"
     ],
@@ -47,6 +37,16 @@
     [
       "Let's Hold Hands",
       "https://untested.sonnet.io/notes/lets-hold-hands/"
+    ]
+  ],
+  [
+    [
+      "2025-02-28, 13:46:55",
+      "https://lobste.rs/s/2sxwzh/how_couchdb_prevents_data_corruption"
+    ],
+    [
+      "How CouchDB Prevents Data Corruption: fsync",
+      "https://neighbourhood.ie/blog/2025/02/26/how-couchdb-prevents-data-corruption-fsync"
     ]
   ],
   [
