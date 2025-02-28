@@ -10,7 +10,6 @@
 * [2025-02-28, 04:57:17](https://lobste.rs/s/xjnx95/distributed_systems_programming_has) - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
 * [2025-02-28, 03:17:19](https://lobste.rs/s/d9ivn2/make_cross_views) - [Make Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
 * [2025-02-28, 02:20:11](https://lobste.rs/s/ioztzf/there_isn_t_much_point_http_2_past_load) - [There Isn’t Much Point to HTTP/2 Past The Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
-* [2025-02-28, 00:02:57](https://lobste.rs/s/0ldvvk/nvidia_emulation_journey_part_1_riva_128) - [NVIDIA emulation journey, part 1: RIVA 128 / NV3 architecture history and basic overview](https://86box.net/2025/02/25/riva128-part-1.html)
 * [2025-02-27, 23:00:31](https://lobste.rs/s/abs9fe/building_query_compilers) - [Building Query Compilers](https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf)
 * [2025-02-27, 21:11:38](https://lobste.rs/s/5i3syb/visual_programming_is_stuck_on_form) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-02-27, 20:09:36](https://lobste.rs/s/h5zfdf/branded_types) - [Branded Types](https://www.learningtypescript.com/articles/branded-types)
@@ -23,6 +22,7 @@
 * [2025-02-27, 13:32:38](https://lobste.rs/s/ym7xhm/release_fish_shell_4_0_0_now_ported_rust) - [Release fish shell 4.0.0, now ported to Rust](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
 * [2025-02-27, 12:41:00](https://lobste.rs/s/bvzlzb/testing_numbs_us_our_loss_intellectual) - [Testing Numbs Us to Our Loss of Intellectual Control (2020)](https://www.computer.org/csdl/magazine/so/2020/03/09068304/1j30VMzNxLO)
 * [2025-02-27, 12:10:10](https://lobste.rs/s/jivgtn/why_we_designed_tigerbeetle_s_docs_from) - [Why We Designed TigerBeetle's Docs from Scratch](https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/)
+* [2025-02-27, 07:45:13](https://lobste.rs/s/6rl9ah/launching_rdap_sunsetting_whois) - [Launching RDAP; Sunsetting WHOIS](https://www.icann.org/en/announcements/details/icann-update-launching-rdap-sunsetting-whois-27-01-2025-en)
 * [2025-02-27, 06:24:04](https://lobste.rs/s/tv45be/assorted_macos_tips_tricks) - [Assorted macOS Tips & Tricks](https://saurabhs.org/macos-tips)
 * [2025-02-27, 01:58:25](https://lobste.rs/s/de2ab1/firefox_adds_terms_use) - [Firefox adds terms of use](https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/)
 
