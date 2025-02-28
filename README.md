@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-02-27, 23:57:12](https://lobste.rs/s/ppiddf/what_complexity_theory_can_teach) - [What Complexity Theory Can Teach Mathematicians](https://seniormars.com/posts/multiple-proofs/)
+* [2025-02-28, 00:02:57](https://lobste.rs/s/0ldvvk/nvidia_emulation_journey_part_1_riva_128) - [NVIDIA emulation journey, part 1: RIVA 128 / NV3 architecture history and basic overview](https://86box.net/2025/02/25/riva128-part-1.html)
 * [2025-02-27, 23:00:31](https://lobste.rs/s/abs9fe/building_query_compilers) - [Building Query Compilers](https://pi3.informatik.uni-mannheim.de/~moer/querycompiler.pdf)
 * [2025-02-27, 21:11:38](https://lobste.rs/s/5i3syb/visual_programming_is_stuck_on_form) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-02-27, 20:09:36](https://lobste.rs/s/h5zfdf/branded_types) - [Branded Types](https://www.learningtypescript.com/articles/branded-types)
