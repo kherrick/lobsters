@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-02-28, 10:29:31",
+      "https://lobste.rs/s/nzz7an/mouseless_tale_trying_for_keyboard"
+    ],
+    [
+      "A mouseless tale: trying for a keyboard-driven desktop",
+      "https://lwn.net/Articles/1005332/"
+    ]
+  ],
+  [
+    [
       "2025-02-28, 09:29:41",
       "https://lobste.rs/s/xb3ou0/simon_peyton_jones_on_notes_source_code"
     ],
@@ -237,16 +247,6 @@
     [
       "Firefox adds terms of use",
       "https://blog.mozilla.org/en/products/firefox/firefox-news/firefox-terms-of-use/"
-    ]
-  ],
-  [
-    [
-      "2025-02-26, 16:47:10",
-      "https://lobste.rs/s/yemc16/cp_copying_all_files_directory_including"
-    ],
-    [
-      "cp -  copying all files of a directory, including hidden ones",
-      "https://bhoot.dev/2025/cp-dot-copies-everything/"
     ]
   ]
 ]
