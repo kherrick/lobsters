@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-02-28](index.md)
 
+* [2025-02-28, 07:32:26](https://lobste.rs/s/4jw0rr/wasm_wayland_web_www) - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
 * [2025-02-28, 05:50:12](https://lobste.rs/s/cvqffe/perceptron) - [The Perceptron](https://youtu.be/l-9ALe3U-Fg)
 * [2025-02-28, 04:57:17](https://lobste.rs/s/xjnx95/distributed_systems_programming_has) - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
 * [2025-02-28, 03:17:19](https://lobste.rs/s/d9ivn2/make_cross_views) - [Make Cross Views](https://moultano.wordpress.com/2025/02/24/you-should-make-cross-views/)
