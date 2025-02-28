@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-02-28, 12:34:58](https://lobste.rs/s/xwaqpt/ea_open_sourced_command_conquer_red_alert) - [EA open sourced Command & Conquer, Red Alert, Renegade and Generals](https://store.steampowered.com/news/app/2229890/view/502818210084553731)
 * [2025-02-28, 10:29:31](https://lobste.rs/s/nzz7an/mouseless_tale_trying_for_keyboard) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
 * [2025-02-28, 09:29:41](https://lobste.rs/s/xb3ou0/simon_peyton_jones_on_notes_source_code) - [Simon Peyton Jones on Notes in source code (2021)](https://www.youtube.com/watch?v=4RuLzL_q0zs&t=2640s)
 * [2025-02-28, 07:42:58](https://lobste.rs/s/dwfkkf/3fs_high_performance_distributed_file) - [3FS: A high-performance distributed file system designed to address the challenges of AI training and inference workloads](https://github.com/deepseek-ai/3FS)
@@ -16,7 +17,6 @@
 * [2025-02-27, 18:54:19](https://lobste.rs/s/d8ydvt/command_conquer_red_alert_source_code) - [Command and Conquer: Red Alert source code](https://github.com/electronicarts/CnC_Red_Alert)
 * [2025-02-27, 18:42:01](https://lobste.rs/s/fpidir/accessing_region_locked_ios_features) - [Accessing region-locked iOS features, such as EU app stores](https://downrightnifty.me/blog/2025/02/27/eu-features-outside.html)
 * [2025-02-27, 17:24:20](https://lobste.rs/s/1naw96/goodbye_k_9_mail) - [Goodbye K-9 Mail](https://cketti.de/2025/02/26/goodbye-k9mail/)
-* [2025-02-27, 15:15:28](https://lobste.rs/s/0hxggz/servo_security_report_findings) - [Servo Security Report: findings and solutions](https://servo.org/blog/2025/02/26/servo-security-report/)
 * [2025-02-27, 14:16:38](https://lobste.rs/s/ww96mh/why_are_jujutsu_s_id_prefixes_so_short) - [Why are Jujutsu's ID Prefixes So Short?](https://jonathan-frere.com/posts/jujutsu-shortest-ids/)
 * [2025-02-27, 14:05:57](https://lobste.rs/s/4fxbkn/git_for_fansubbing_probably_mistake) - [Git for Fansubbing: Probably a Mistake](https://redvice.org/2025/git-subbing-was-a-mistake/)
 * [2025-02-27, 13:32:38](https://lobste.rs/s/ym7xhm/release_fish_shell_4_0_0_now_ported_rust) - [Release fish shell 4.0.0, now ported to Rust](https://github.com/fish-shell/fish-shell/releases/tag/4.0.0)
