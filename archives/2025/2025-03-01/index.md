@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 14:57:02](https://lobste.rs/s/r19zke/history_future_2025_2027) - [A History of the Future, 2025-2027](https://nosetgauge.substack.com/p/a-history-of-the-future-2025-2027)
+* [2025-03-01, 14:56:03](https://lobste.rs/s/xmlv0z/your_next_two_zeroes) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
 * [2025-03-01, 10:18:31](https://lobste.rs/s/d8amk0/is_rust_good_fit_for_business_apps) - [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/)
 * [2025-03-01, 09:21:21](https://lobste.rs/s/vgbpbc/4_mains_nothing_at_all) - [4 mains or nothing at all](https://andrews.substack.com/p/4-mains-or-nothing-at-all)
 * [2025-03-01, 08:48:53](https://lobste.rs/s/sybcvs/update_on_our_terms_use_mozilla_blog) - [An update on our Terms of Use | The Mozilla Blog](https://blog.mozilla.org/en/products/firefox/update-on-terms-of-use/)
