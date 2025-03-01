@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-01, 19:07:21",
+      "https://lobste.rs/s/pul56b/nginx_explorer_upload"
+    ],
+    [
+      "Nginx Explorer - Upload",
+      "https://blog.izissise.net/posts/ngxp-upload/"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 18:20:43",
       "https://lobste.rs/s/g9uepw/lisp_your_language"
     ],
@@ -237,16 +247,6 @@
     [
       "Visual programming is stuck on the form",
       "https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 13:32:38",
-      "https://lobste.rs/s/ym7xhm/release_fish_shell_4_0_0_now_ported_rust"
-    ],
-    [
-      "Release fish shell 4.0.0, now ported to Rust",
-      "https://github.com/fish-shell/fish-shell/releases/tag/4.0.0"
     ]
   ]
 ]
