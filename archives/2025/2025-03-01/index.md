@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-01](index.md)
 
+* [2025-03-01, 15:11:56](https://lobste.rs/s/uai6m2/ai_assisted_creativity_race_claim_future) - [AI-assisted creativity and the race to claim the future](https://kyefox.com/ai-assisted-creativity/)
 * [2025-03-01, 14:57:02](https://lobste.rs/s/r19zke/history_future_2025_2027) - [A History of the Future, 2025-2027](https://nosetgauge.substack.com/p/a-history-of-the-future-2025-2027)
 * [2025-03-01, 14:56:03](https://lobste.rs/s/xmlv0z/your_next_two_zeroes) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
 * [2025-03-01, 10:18:31](https://lobste.rs/s/d8amk0/is_rust_good_fit_for_business_apps) - [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/)
