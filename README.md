@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-02-28, 23:33:50](https://lobste.rs/s/mpkdpt/it_is_no_longer_safe_move_our_governments) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
+* [2025-02-28, 21:57:03](https://lobste.rs/s/edcrrx/enough_with_all_raft) - [Enough with all the Raft](https://www.hytradboi.com/2025/2016d6c4-b08d-40b3-af2f-67926ca8521f-enough-with-all-the-raft)
 * [2025-02-28, 21:32:35](https://lobste.rs/s/zian90/how_gain_code_execution_on_millions) - [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:04:35](https://lobste.rs/s/2ah6bi/programming_without_pointers) - [Programming without pointers](https://www.hytradboi.com/2025/05c72e39-c07e-41bc-ac40-85e8308f2917-programming-without-pointers)
 * [2025-02-28, 19:33:48](https://lobste.rs/s/pntik4/interop_2025_another_year_web_platform) - [Interop 2025: another year of web platform improvements](https://web.dev/blog/interop-2025)
@@ -16,7 +17,6 @@
 * [2025-02-28, 10:29:31](https://lobste.rs/s/nzz7an/mouseless_tale_trying_for_keyboard) - [A mouseless tale: trying for a keyboard-driven desktop](https://lwn.net/Articles/1005332/)
 * [2025-02-28, 09:29:41](https://lobste.rs/s/xb3ou0/simon_peyton_jones_on_notes_source_code) - [Simon Peyton Jones on Notes in source code (2021)](https://www.youtube.com/watch?v=4RuLzL_q0zs&t=2640s)
 * [2025-02-28, 07:32:26](https://lobste.rs/s/4jw0rr/wasm_wayland_web_www) - [WASM Wayland Web (WWW)](https://joeyh.name/blog/entry/WASM_Wayland_Web_WWW/)
-* [2025-02-28, 04:57:17](https://lobste.rs/s/xjnx95/distributed_systems_programming_has) - [Distributed Systems Programming Has Stalled](https://www.shadaj.me/writing/distributed-programming-stalled)
 * [2025-02-28, 02:20:11](https://lobste.rs/s/ioztzf/there_isn_t_much_point_http_2_past_load) - [There Isn’t Much Point to HTTP/2 Past The Load Balancer](https://byroot.github.io/ruby/performance/2025/02/24/http2-past-the-load-balancer.html)
 * [2025-02-27, 21:11:38](https://lobste.rs/s/5i3syb/visual_programming_is_stuck_on_form) - [Visual programming is stuck on the form](https://interjectedfuture.com/visual-programming-is-stuck-on-the-form/)
 * [2025-02-27, 19:11:13](https://lobste.rs/s/sdm7pb/tips_debug_hanging_go_programs) - [Tips to debug hanging Go programs](https://michael.stapelberg.ch/posts/2025-02-27-debug-hanging-go-programs/)
