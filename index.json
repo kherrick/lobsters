@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-01, 14:57:02",
+      "https://lobste.rs/s/r19zke/history_future_2025_2027"
+    ],
+    [
+      "A History of the Future, 2025-2027",
+      "https://nosetgauge.substack.com/p/a-history-of-the-future-2025-2027"
+    ]
+  ],
+  [
+    [
+      "2025-03-01, 14:56:03",
+      "https://lobste.rs/s/xmlv0z/your_next_two_zeroes"
+    ],
+    [
+      "Your Next Two Zeroes",
+      "https://taylor.town/next-two-zeroes"
+    ]
+  ],
+  [
+    [
       "2025-03-01, 10:18:31",
       "https://lobste.rs/s/d8amk0/is_rust_good_fit_for_business_apps"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-02-28, 12:58:26",
-      "https://lobste.rs/s/ptr2k3/garnix_modules"
-    ],
-    [
-      "garnix modules",
-      "https://garnix.io/blog/garnix-modules"
-    ]
-  ],
-  [
-    [
       "2025-02-28, 12:34:58",
       "https://lobste.rs/s/xwaqpt/ea_open_sourced_command_conquer_red_alert"
     ],
@@ -237,16 +247,6 @@
     [
       "Release fish shell 4.0.0, now ported to Rust",
       "https://github.com/fish-shell/fish-shell/releases/tag/4.0.0"
-    ]
-  ],
-  [
-    [
-      "2025-02-27, 12:10:10",
-      "https://lobste.rs/s/jivgtn/why_we_designed_tigerbeetle_s_docs_from"
-    ],
-    [
-      "Why We Designed TigerBeetle's Docs from Scratch",
-      "https://tigerbeetle.com/blog/2025-02-27-why-we-designed-tigerbeetles-docs-from-scratch/"
     ]
   ]
 ]
