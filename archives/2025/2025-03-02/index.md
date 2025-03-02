@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-02](index.md)
 
+* [2025-03-02, 21:24:31](https://lobste.rs/s/x86fd2/when_nanoseconds_matter_ultrafast) - [When Nanoseconds Matter: Ultrafast Trading Systems in C++](https://www.youtube.com/watch?v=sX2nF1fW7kI)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
 * [2025-03-02, 19:22:28](https://lobste.rs/s/6myyvl/principles_for_package_repository) - [Principles for Package Repository Security](https://repos.openssf.org/principles-for-package-repository-security.html)
 * [2025-03-02, 19:21:50](https://lobste.rs/s/5bfpkq/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
