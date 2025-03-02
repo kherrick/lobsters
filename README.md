@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-02, 14:36:52](https://lobste.rs/s/t0uh3q/yoke_is_really_cool) - [Yoke is really cool](https://xeiaso.net/blog/2025/yoke-k8s/)
+* [2025-03-02, 14:28:07](https://lobste.rs/s/uzr5jt/rackmounting_which_should_not_be) - [Rackmounting that which should not be rackmounted](https://calbryant.uk/blog/rackmounting-that-which-should-not-be-rackmounted/)
 * [2025-03-02, 14:20:44](https://lobste.rs/s/h7jrfg/i_struggled_with_git_so_i_m_making_game) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
 * [2025-03-02, 14:18:34](https://lobste.rs/s/lvqhzn/how_clay_s_ui_layout_algorithm_works) - [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc)
 * [2025-03-02, 14:03:11](https://lobste.rs/s/woeyij/begrudgingly_choosing_cbor_over) - [Begrudgingly choosing CBOR over MessagePack](https://taylor.town/flat-scraps-001)
@@ -12,7 +14,6 @@
 * [2025-03-01, 19:55:43](https://lobste.rs/s/nzjtop/user_defined_order_sql_2018) - [User-defined Order in SQL (2018)](https://begriffs.com/posts/2018-03-20-user-defined-order.html)
 * [2025-03-01, 19:07:21](https://lobste.rs/s/pul56b/nginx_explorer_upload) - [Nginx Explorer - Upload](https://blog.izissise.net/posts/ngxp-upload/)
 * [2025-03-01, 18:20:43](https://lobste.rs/s/g9uepw/lisp_your_language) - [Lisp in Your Language](https://danthedev.com/lisp-in-your-language)
-* [2025-03-01, 18:09:00](https://lobste.rs/s/jhj07m/get_loser_we_re_rewinding_stack) - [Get in loser. We're rewinding the stack. (Sandboxing Perl with WASM.)](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack)
 * [2025-03-01, 16:49:44](https://lobste.rs/s/ifczmp/pinning_nixos_with_npins_how_kill) - [Pinning NixOS with npins, or how to kill channels forever without flakes](https://jade.fyi/blog/pinning-nixos-with-npins/)
 * [2025-03-01, 16:02:58](https://lobste.rs/s/m0mwil/hardware_discovery_acpi_device_tree) - [Hardware discovery: ACPI & Device Tree](https://blogsystem5.substack.com/p/hardware-autoconfiguration)
 * [2025-03-01, 14:56:03](https://lobste.rs/s/xmlv0z/your_next_two_zeroes) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
@@ -20,7 +21,6 @@
 * [2025-03-01, 09:21:21](https://lobste.rs/s/vgbpbc/4_mains_nothing_at_all) - [4 mains or nothing at all](https://andrews.substack.com/p/4-mains-or-nothing-at-all)
 * [2025-03-01, 08:17:02](https://lobste.rs/s/8wmhlu/cost_go_s_panic_recover) - [The cost of Go's panic and recover](https://jub0bs.com/posts/2025-02-28-cost-of-panic-recover/)
 * [2025-03-01, 04:12:12](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way) - [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/)
-* [2025-03-01, 01:26:34](https://lobste.rs/s/kmsjd8/nine_c64_sprite_demo_explained) - [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php)
 * [2025-02-28, 23:33:50](https://lobste.rs/s/mpkdpt/it_is_no_longer_safe_move_our_governments) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-28, 21:32:35](https://lobste.rs/s/zian90/how_gain_code_execution_on_millions) - [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 19:19:20](https://lobste.rs/s/uzx2be/windows_nt_for_gamecube_wii) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
