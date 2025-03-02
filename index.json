@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-02, 14:03:11",
+      "https://lobste.rs/s/woeyij/begrudgingly_choosing_cbor_over"
+    ],
+    [
+      "Begrudgingly choosing CBOR over MessagePack",
+      "https://taylor.town/flat-scraps-001"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 09:50:45",
       "https://lobste.rs/s/vjy7m1/abusing_c_implement_json_parsing_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Windows NT for GameCube/Wii",
       "https://github.com/Wack0/entii-for-workcubes"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 17:53:11",
-      "https://lobste.rs/s/xhssly/thoughts_about_rustdoc"
-    ],
-    [
-      "Thoughts about rustdoc",
-      "https://lobste.rs/s/xhssly/thoughts_about_rustdoc"
     ]
   ],
   [
