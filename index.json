@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-02, 18:57:19",
+      "https://lobste.rs/s/d2ubnt/cleaner_codebase_happier_mind"
+    ],
+    [
+      "Cleaner codebase, happier mind",
+      "https://blog.danieljanus.pl/2025/03/02/cleaner-codebase/"
+    ]
+  ],
+  [
+    [
       "2025-03-02, 18:06:56",
       "https://lobste.rs/s/iqkbym/towards_test_suite_for_totp_codes"
     ],
@@ -237,16 +247,6 @@
     [
       "It is no longer safe to move our governments and societies to US clouds",
       "https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/"
-    ]
-  ],
-  [
-    [
-      "2025-02-28, 21:32:35",
-      "https://lobste.rs/s/zian90/how_gain_code_execution_on_millions"
-    ],
-    [
-      "how to gain code execution on millions of people and hundreds of popular apps",
-      "https://kibty.town/blog/todesktop/"
     ]
   ]
 ]
