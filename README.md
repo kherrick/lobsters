@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-02, 09:50:45](https://lobste.rs/s/vjy7m1/abusing_c_implement_json_parsing_with) - [Abusing C to implement JSON Parsing with Struct Methods](https://xnacly.me/posts/2025/json-parser-in-c-with-methods/)
 * [2025-03-02, 08:59:57](https://lobste.rs/s/jfypxx/gguser_simple_cli_manage_multiple_git) - [gguser – A Simple CLI to Manage Multiple Git Profiles](https://www.npmjs.com/package/gguser)
 * [2025-03-02, 03:09:31](https://lobste.rs/s/zjj9p1/nebu_spreadsheet_editor_for_varvara) - [Nebu: a spreadsheet editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 * [2025-03-01, 23:09:57](https://lobste.rs/s/osinlb/infrastructural_problems) - [Infrastructural problems and instabilities caused by cloud services](https://mental-reverb.com/blog.php?id=15)
@@ -18,7 +19,6 @@
 * [2025-03-01, 04:12:12](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way) - [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/)
 * [2025-03-01, 01:26:34](https://lobste.rs/s/kmsjd8/nine_c64_sprite_demo_explained) - [Nine C64 sprite demo explained](https://www.linusakesson.net/scene/nine/explanation.php)
 * [2025-02-28, 23:33:50](https://lobste.rs/s/mpkdpt/it_is_no_longer_safe_move_our_governments) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
-* [2025-02-28, 21:57:03](https://lobste.rs/s/edcrrx/enough_with_all_raft) - [Enough with all the Raft](https://www.hytradboi.com/2025/2016d6c4-b08d-40b3-af2f-67926ca8521f-enough-with-all-the-raft)
 * [2025-02-28, 21:32:35](https://lobste.rs/s/zian90/how_gain_code_execution_on_millions) - [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/)
 * [2025-02-28, 20:04:35](https://lobste.rs/s/2ah6bi/programming_without_pointers) - [Programming without pointers](https://www.hytradboi.com/2025/05c72e39-c07e-41bc-ac40-85e8308f2917-programming-without-pointers)
 * [2025-02-28, 19:19:20](https://lobste.rs/s/uzx2be/windows_nt_for_gamecube_wii) - [Windows NT for GameCube/Wii](https://github.com/Wack0/entii-for-workcubes)
