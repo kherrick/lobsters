@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-02, 08:59:57](https://lobste.rs/s/jfypxx/gguser_simple_cli_manage_multiple_git) - [gguser – A Simple CLI to Manage Multiple Git Profiles](https://www.npmjs.com/package/gguser)
 * [2025-03-02, 03:09:31](https://lobste.rs/s/zjj9p1/nebu_spreadsheet_editor_for_varvara) - [Nebu: a spreadsheet editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 * [2025-03-01, 23:09:57](https://lobste.rs/s/osinlb/infrastructural_problems) - [Infrastructural problems and instabilities caused by cloud services](https://mental-reverb.com/blog.php?id=15)
 * [2025-03-01, 22:58:35](https://lobste.rs/s/eajqg1/python_is_not_java_c_python_as_second) - [Python is not Java or C++: Python as a second language empathy (2018)](https://ballingt.com/python-second-language-empathy/)
@@ -10,7 +11,6 @@
 * [2025-03-01, 18:09:00](https://lobste.rs/s/jhj07m/get_loser_we_re_rewinding_stack) - [Get in loser. We're rewinding the stack. (Sandboxing Perl with WASM.)](https://andrews.substack.com/p/get-in-loser-were-rewinding-the-stack)
 * [2025-03-01, 16:49:44](https://lobste.rs/s/ifczmp/pinning_nixos_with_npins_how_kill) - [Pinning NixOS with npins, or how to kill channels forever without flakes](https://jade.fyi/blog/pinning-nixos-with-npins/)
 * [2025-03-01, 16:02:58](https://lobste.rs/s/m0mwil/hardware_discovery_acpi_device_tree) - [Hardware discovery: ACPI & Device Tree](https://blogsystem5.substack.com/p/hardware-autoconfiguration)
-* [2025-03-01, 15:11:56](https://lobste.rs/s/uai6m2/ai_assisted_creativity_race_claim_future) - [AI-assisted creativity and the race to claim the future](https://kyefox.com/ai-assisted-creativity/)
 * [2025-03-01, 14:56:03](https://lobste.rs/s/xmlv0z/your_next_two_zeroes) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
 * [2025-03-01, 10:18:31](https://lobste.rs/s/d8amk0/is_rust_good_fit_for_business_apps) - [Is Rust a good fit for business apps?](https://www.bartoszsypytkowski.com/is-rust-a-good-fit-for-business-apps/)
 * [2025-03-01, 09:21:21](https://lobste.rs/s/vgbpbc/4_mains_nothing_at_all) - [4 mains or nothing at all](https://andrews.substack.com/p/4-mains-or-nothing-at-all)
