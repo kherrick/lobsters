@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-02, 16:35:11](https://lobste.rs/s/iiifbu/london_micro_grants) - [london micro grants](https://londonmicrogrants.org/)
 * [2025-03-02, 15:09:07](https://lobste.rs/s/hrfun0/nix_pragmatism_nix_ld_envfs) - [Nix pragmatism: nix-ld and envfs](https://fzakaria.com/2025/02/27/nix-pragmatism-nix-ld-and-envfs)
 * [2025-03-02, 14:53:20](https://lobste.rs/s/hrpsm4/emacs_tree_sitter_custom_highlighting) - [Emacs Tree-sitter custom highlighting, part 1](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-03-02, 14:36:52](https://lobste.rs/s/t0uh3q/yoke_is_really_cool) - [Yoke is really cool](https://xeiaso.net/blog/2025/yoke-k8s/)
@@ -24,7 +25,6 @@
 * [2025-03-01, 04:12:12](https://lobste.rs/s/suy0fp/deno_shows_us_there_s_better_way) - [Deno shows us there's a better way](https://www.macchaffee.com/blog/2025/deno/)
 * [2025-02-28, 23:33:50](https://lobste.rs/s/mpkdpt/it_is_no_longer_safe_move_our_governments) - [It is no longer safe to move our governments and societies to US clouds](https://berthub.eu/articles/posts/you-can-no-longer-base-your-government-and-society-on-us-clouds/)
 * [2025-02-28, 21:32:35](https://lobste.rs/s/zian90/how_gain_code_execution_on_millions) - [how to gain code execution on millions of people and hundreds of popular apps](https://kibty.town/blog/todesktop/)
-* [2025-02-28, 14:35:12](https://lobste.rs/s/ccazb3/let_s_hold_hands) - [Let's Hold Hands](https://untested.sonnet.io/notes/lets-hold-hands/)
 
 ## [Archives](archives/index.md)
 
