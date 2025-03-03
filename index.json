@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-03, 11:16:50",
+      "https://lobste.rs/s/etrycq/on_ax_dx_ux"
+    ],
+    [
+      "On AX, DX, and UX",
+      "https://blog.jim-nielsen.com/2025/thoughts-on-ax/"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 11:02:32",
       "https://lobste.rs/s/x2rssd/empty_promise_ai_generated_creativity"
     ],
@@ -107,16 +117,6 @@
     [
       "A Mechanically Verified Garbage Collector for OCaml",
       "https://kcsrk.info/papers/verifiedgc_feb_25.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 21:24:31",
-      "https://lobste.rs/s/x86fd2/when_nanoseconds_matter_ultrafast"
-    ],
-    [
-      "When Nanoseconds Matter: Ultrafast Trading Systems in C++",
-      "https://www.youtube.com/watch?v=sX2nF1fW7kI"
     ]
   ],
   [
