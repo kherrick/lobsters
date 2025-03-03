@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 22:56:01](https://lobste.rs/s/gvv27u/globstar_open_source_static_analysis) - [globstar — open-source static analysis toolkit for writing code checkers in YAML and GO](https://github.com/DeepSourceCorp/globstar)
 * [2025-03-03, 22:19:48](https://lobste.rs/s/2wifpj/fibrovisor_turning_dollar_store_fibre) - [The Fibrovisor: Turning a dollar store fibre optic wand into a low resolution display](https://www.youtube.com/watch?v=zz59e1wWyVc)
 * [2025-03-03, 22:14:12](https://lobste.rs/s/np4prk/use_firefox_2025) - [Use Firefox in 2025](https://alexn.org/blog/2025/03/03/use-firefox/)
 * [2025-03-03, 20:05:32](https://lobste.rs/s/oychrz/vt220_font_emulation_browser) - [VT220 font emulation in browser](https://martin.janiczek.cz/vt220-font-emulation/)
@@ -19,7 +20,6 @@
 * [2025-03-03, 09:36:17](https://lobste.rs/s/kqohku/basic_awareness_addition_deep) - [Basic Awareness in Addition to Deep Understanding](https://www.openmymind.net/Basic-Awareness-In-Addition-To-Deep-Understanding/)
 * [2025-03-03, 08:17:19](https://lobste.rs/s/tggkmv/illuminant_activitypub_server_with_nntp) - [illuminant - ActivityPub server with NNTP interface](https://koldfront.dk/git/illuminant/tree/README.md)
 * [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
-* [2025-03-03, 05:59:27](https://lobste.rs/s/zw4owt/distributed_snowflake_like_id_generator) - [A Distributed Snowflake-like ID Generator](https://siddharthsabron.in/blog/id-generator/)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
 * [2025-03-02, 19:21:50](https://lobste.rs/s/5bfpkq/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
 * [2025-03-02, 18:57:19](https://lobste.rs/s/d2ubnt/cleaner_codebase_happier_mind) - [Cleaner codebase, happier mind](https://blog.danieljanus.pl/2025/03/02/cleaner-codebase/)

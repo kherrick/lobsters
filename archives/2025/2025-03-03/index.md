@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 22:56:01](https://lobste.rs/s/gvv27u/globstar_open_source_static_analysis) - [globstar — open-source static analysis toolkit for writing code checkers in YAML and GO](https://github.com/DeepSourceCorp/globstar)
 * [2025-03-03, 22:19:48](https://lobste.rs/s/2wifpj/fibrovisor_turning_dollar_store_fibre) - [The Fibrovisor: Turning a dollar store fibre optic wand into a low resolution display](https://www.youtube.com/watch?v=zz59e1wWyVc)
 * [2025-03-03, 22:14:12](https://lobste.rs/s/np4prk/use_firefox_2025) - [Use Firefox in 2025](https://alexn.org/blog/2025/03/03/use-firefox/)
 * [2025-03-03, 20:05:32](https://lobste.rs/s/oychrz/vt220_font_emulation_browser) - [VT220 font emulation in browser](https://martin.janiczek.cz/vt220-font-emulation/)
