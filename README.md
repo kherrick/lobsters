@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 10:45:57](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week)
 * [2025-03-03, 10:25:59](https://lobste.rs/s/paedv4/see_yourself_at_runtime) - [See yourself, at runtime](https://ryelang.org/blog/posts/see-yourself-at-runtime/)
 * [2025-03-03, 09:36:17](https://lobste.rs/s/kqohku/basic_awareness_addition_deep) - [Basic Awareness in Addition to Deep Understanding](https://www.openmymind.net/Basic-Awareness-In-Addition-To-Deep-Understanding/)
 * [2025-03-03, 08:17:19](https://lobste.rs/s/tggkmv/illuminant_activitypub_server_with_nntp) - [illuminant - ActivityPub server with NNTP interface](https://koldfront.dk/git/illuminant/tree/README.md)
@@ -10,7 +11,6 @@
 * [2025-03-03, 05:40:12](https://lobste.rs/s/lr529j/evidence_generate_reports_using_sql) - [Evidence: Generate reports using SQL and markdown](https://evidence.dev/)
 * [2025-03-03, 03:24:07](https://lobste.rs/s/t0lfdl/this_linux_laptop_maker_called_me_zombie) - [This Linux laptop maker called me a Zombie](https://thelibre.news/this-linux-laptop-maker-called-me-a-zombie/)
 * [2025-03-03, 02:36:36](https://lobste.rs/s/olaala/mechanically_verified_garbage) - [A Mechanically Verified Garbage Collector for OCaml](https://kcsrk.info/papers/verifiedgc_feb_25.pdf)
-* [2025-03-02, 21:24:31](https://lobste.rs/s/x86fd2/when_nanoseconds_matter_ultrafast) - [When Nanoseconds Matter: Ultrafast Trading Systems in C++](https://www.youtube.com/watch?v=sX2nF1fW7kI)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
 * [2025-03-02, 19:21:50](https://lobste.rs/s/5bfpkq/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
 * [2025-03-02, 19:13:35](https://lobste.rs/s/mmxaex/pentium_contains_complicated_circuit) - [The Pentium contains a complicated circuit to multiply by three](http://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html)
