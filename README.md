@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 02:36:36](https://lobste.rs/s/olaala/mechanically_verified_garbage) - [A Mechanically Verified Garbage Collector for OCaml](https://kcsrk.info/papers/verifiedgc_feb_25.pdf)
 * [2025-03-02, 21:24:31](https://lobste.rs/s/x86fd2/when_nanoseconds_matter_ultrafast) - [When Nanoseconds Matter: Ultrafast Trading Systems in C++](https://www.youtube.com/watch?v=sX2nF1fW7kI)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
 * [2025-03-02, 19:22:28](https://lobste.rs/s/6myyvl/principles_for_package_repository) - [Principles for Package Repository Security](https://repos.openssf.org/principles-for-package-repository-security.html)
@@ -19,7 +20,6 @@
 * [2025-03-02, 08:59:57](https://lobste.rs/s/jfypxx/gguser_simple_cli_manage_multiple_git) - [gguser – A Simple CLI to Manage Multiple Git Profiles](https://www.npmjs.com/package/gguser)
 * [2025-03-02, 03:09:31](https://lobste.rs/s/zjj9p1/nebu_spreadsheet_editor_for_varvara) - [Nebu: a spreadsheet editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 * [2025-03-01, 20:58:18](https://lobste.rs/s/nvoykv/making_o1_o3_sonnet_3_7_hallucinate_for) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
-* [2025-03-01, 19:07:21](https://lobste.rs/s/pul56b/nginx_explorer_upload) - [Nginx Explorer - Upload](https://blog.izissise.net/posts/ngxp-upload/)
 * [2025-03-01, 18:20:43](https://lobste.rs/s/g9uepw/lisp_your_language) - [Lisp in Your Language](https://danthedev.com/lisp-in-your-language)
 * [2025-03-01, 16:02:58](https://lobste.rs/s/m0mwil/hardware_discovery_acpi_device_tree) - [Hardware discovery: ACPI & Device Tree](https://blogsystem5.substack.com/p/hardware-autoconfiguration)
 * [2025-03-01, 14:56:03](https://lobste.rs/s/xmlv0z/your_next_two_zeroes) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
