@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 14:12:55](https://lobste.rs/s/fd189a/trouble_with_leader_elections) - [The Trouble with Leader Elections in distributed systems](https://blog.joemag.dev/2025/03/the-trouble-with-leader-elections-in.html)
 * [2025-03-03, 12:23:21](https://lobste.rs/s/qegvak/sqlite_vec_vector_search_for_sqlite) - [sqlite-vec: A vector search for SQLite](https://github.com/asg017/sqlite-vec)
 * [2025-03-03, 11:44:14](https://lobste.rs/s/ibtxk2/hateris_obsession_friendship_world) - [Hateris - Obsession, Friendship, and World Records](https://corecursive.com/hateris-with-david-and-felipe/)
 * [2025-03-03, 11:31:38](https://lobste.rs/s/nydzso/float_walks_into_gradual_type_system) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
@@ -24,7 +25,6 @@
 * [2025-03-02, 14:20:44](https://lobste.rs/s/h7jrfg/i_struggled_with_git_so_i_m_making_game) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
 * [2025-03-02, 14:18:34](https://lobste.rs/s/lvqhzn/how_clay_s_ui_layout_algorithm_works) - [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc)
 * [2025-03-02, 14:03:11](https://lobste.rs/s/woeyij/begrudgingly_choosing_cbor_over) - [Begrudgingly choosing CBOR over MessagePack](https://taylor.town/flat-scraps-001)
-* [2025-03-02, 09:50:45](https://lobste.rs/s/vjy7m1/abusing_c_implement_json_parsing_with) - [Abusing C to implement JSON Parsing with Struct Methods](https://xnacly.me/posts/2025/json-parser-in-c-with-methods/)
 
 ## [Archives](archives/index.md)
 
