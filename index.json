@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-03, 17:11:37",
+      "https://lobste.rs/s/dw09hf/ai_where_loop_should_humans_go"
+    ],
+    [
+      "AI: Where in the Loop Should Humans Go?",
+      "https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go"
+    ]
+  ],
+  [
+    [
+      "2025-03-03, 17:01:47",
+      "https://lobste.rs/s/mlseaq/power_interning_making_time_series"
+    ],
+    [
+      "The power of interning: making a time series database 2000x smaller in Rust",
+      "https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 15:58:56",
       "https://lobste.rs/s/xexk4h/some_things_make_rust_lifetimes_hard"
     ],
@@ -201,16 +221,6 @@
   ],
   [
     [
-      "2025-03-02, 15:09:07",
-      "https://lobste.rs/s/hrfun0/nix_pragmatism_nix_ld_envfs"
-    ],
-    [
-      "Nix pragmatism: nix-ld and envfs",
-      "https://fzakaria.com/2025/02/27/nix-pragmatism-nix-ld-and-envfs"
-    ]
-  ],
-  [
-    [
       "2025-03-02, 14:36:52",
       "https://lobste.rs/s/t0uh3q/yoke_is_really_cool"
     ],
@@ -227,16 +237,6 @@
     [
       "Rackmounting that which should not be rackmounted",
       "https://calbryant.uk/blog/rackmounting-that-which-should-not-be-rackmounted/"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 14:18:34",
-      "https://lobste.rs/s/lvqhzn/how_clay_s_ui_layout_algorithm_works"
-    ],
-    [
-      "How Clay's UI Layout Algorithm Works",
-      "https://www.youtube.com/watch?v=by9lQvpvMIc"
     ]
   ],
   [
