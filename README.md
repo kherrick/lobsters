@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 05:40:12](https://lobste.rs/s/lr529j/evidence_generate_reports_using_sql) - [Evidence: Generate reports using SQL and markdown](https://evidence.dev/)
 * [2025-03-03, 03:24:07](https://lobste.rs/s/t0lfdl/this_linux_laptop_maker_called_me_zombie) - [This Linux laptop maker called me a Zombie](https://thelibre.news/this-linux-laptop-maker-called-me-a-zombie/)
 * [2025-03-03, 02:36:36](https://lobste.rs/s/olaala/mechanically_verified_garbage) - [A Mechanically Verified Garbage Collector for OCaml](https://kcsrk.info/papers/verifiedgc_feb_25.pdf)
 * [2025-03-02, 21:24:31](https://lobste.rs/s/x86fd2/when_nanoseconds_matter_ultrafast) - [When Nanoseconds Matter: Ultrafast Trading Systems in C++](https://www.youtube.com/watch?v=sX2nF1fW7kI)
@@ -9,7 +10,6 @@
 * [2025-03-02, 19:13:35](https://lobste.rs/s/mmxaex/pentium_contains_complicated_circuit) - [The Pentium contains a complicated circuit to multiply by three](http://www.righto.com/2025/03/pentium-multiplier-adder-reverse-engineered.html)
 * [2025-03-02, 18:57:19](https://lobste.rs/s/d2ubnt/cleaner_codebase_happier_mind) - [Cleaner codebase, happier mind](https://blog.danieljanus.pl/2025/03/02/cleaner-codebase/)
 * [2025-03-02, 18:06:56](https://lobste.rs/s/iqkbym/towards_test_suite_for_totp_codes) - [Towards a test-suite for TOTP codes](https://shkspr.mobi/blog/2025/03/towards-a-test-suite-for-totp-codes/)
-* [2025-03-02, 16:35:11](https://lobste.rs/s/iiifbu/london_micro_grants) - [london micro grants](https://londonmicrogrants.org/)
 * [2025-03-02, 15:09:07](https://lobste.rs/s/hrfun0/nix_pragmatism_nix_ld_envfs) - [Nix pragmatism: nix-ld and envfs](https://fzakaria.com/2025/02/27/nix-pragmatism-nix-ld-and-envfs)
 * [2025-03-02, 14:53:20](https://lobste.rs/s/hrpsm4/emacs_tree_sitter_custom_highlighting) - [Emacs Tree-sitter custom highlighting, part 1](https://amitp.blogspot.com/2025/02/emacs-tree-sitter-custom-highlighting.html)
 * [2025-03-02, 14:36:52](https://lobste.rs/s/t0uh3q/yoke_is_really_cool) - [Yoke is really cool](https://xeiaso.net/blog/2025/yoke-k8s/)
