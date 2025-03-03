@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 15:58:56](https://lobste.rs/s/xexk4h/some_things_make_rust_lifetimes_hard) - [Some things that make Rust lifetimes hard to learn](https://ntietz.com/blog/rust-lifetimes-learning/)
 * [2025-03-03, 14:47:02](https://lobste.rs/s/5ltsh1/why_can_t_we_screenshot_frames_from_drm) - [Why Can’t We Screenshot Frames From DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
-* [2025-03-03, 14:31:51](https://lobste.rs/s/hrdjlc/crossing_uncanny_valley_conversational) - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 * [2025-03-03, 14:16:09](https://lobste.rs/s/1npd1l/how_fast_can_you_open_1000_files) - [How fast can you open 1000 files?](https://lemire.me/blog/2025/03/01/how-fast-can-you-open-1000-files/)
 * [2025-03-03, 14:12:55](https://lobste.rs/s/fd189a/trouble_with_leader_elections) - [The Trouble with Leader Elections in distributed systems](https://blog.joemag.dev/2025/03/the-trouble-with-leader-elections-in.html)
 * [2025-03-03, 12:23:21](https://lobste.rs/s/qegvak/sqlite_vec_vector_search_for_sqlite) - [sqlite-vec: A vector search for SQLite](https://github.com/asg017/sqlite-vec)
