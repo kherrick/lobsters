@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 * [2025-03-03, 07:43:52](https://lobste.rs/s/jinbla/what_know_about_mistral_ai_company_behind) - [What to know about Mistral AI: The company behind the latest GPT-4 rival](https://www.zdnet.com/article/what-to-know-about-mistral-ai-the-company-behind-the-latest-gpt-4-rival/)
 * [2025-03-03, 05:59:27](https://lobste.rs/s/zw4owt/distributed_snowflake_like_id_generator) - [A Distributed Snowflake-like ID Generator](https://siddharthsabron.in/blog/id-generator/)
 * [2025-03-03, 05:58:04](https://lobste.rs/s/jp5bfy/alibaba_launches_c930_risc_v_chip_amid) - [Alibaba Launches C930 RISC-V Chip Amid Shift from Western Tech](https://www.hpcwire.com/2025/02/28/alibaba-launches-c930-risc-v-chip-amid-shift-from-western-tech/)
@@ -23,7 +24,6 @@
 * [2025-03-02, 03:09:31](https://lobste.rs/s/zjj9p1/nebu_spreadsheet_editor_for_varvara) - [Nebu: a spreadsheet editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 * [2025-03-01, 20:58:18](https://lobste.rs/s/nvoykv/making_o1_o3_sonnet_3_7_hallucinate_for) - [Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone](https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone)
 * [2025-03-01, 18:20:43](https://lobste.rs/s/g9uepw/lisp_your_language) - [Lisp in Your Language](https://danthedev.com/lisp-in-your-language)
-* [2025-03-01, 16:02:58](https://lobste.rs/s/m0mwil/hardware_discovery_acpi_device_tree) - [Hardware discovery: ACPI & Device Tree](https://blogsystem5.substack.com/p/hardware-autoconfiguration)
 * [2025-03-01, 14:56:03](https://lobste.rs/s/xmlv0z/your_next_two_zeroes) - [Your Next Two Zeroes](https://taylor.town/next-two-zeroes)
 
 ## [Archives](archives/index.md)
