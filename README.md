@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 14:31:51](https://lobste.rs/s/hrdjlc/crossing_uncanny_valley_conversational) - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 * [2025-03-03, 14:16:09](https://lobste.rs/s/1npd1l/how_fast_can_you_open_1000_files) - [How fast can you open 1000 files?](https://lemire.me/blog/2025/03/01/how-fast-can-you-open-1000-files/)
 * [2025-03-03, 14:12:55](https://lobste.rs/s/fd189a/trouble_with_leader_elections) - [The Trouble with Leader Elections in distributed systems](https://blog.joemag.dev/2025/03/the-trouble-with-leader-elections-in.html)
 * [2025-03-03, 12:23:21](https://lobste.rs/s/qegvak/sqlite_vec_vector_search_for_sqlite) - [sqlite-vec: A vector search for SQLite](https://github.com/asg017/sqlite-vec)
@@ -22,7 +23,6 @@
 * [2025-03-02, 15:09:07](https://lobste.rs/s/hrfun0/nix_pragmatism_nix_ld_envfs) - [Nix pragmatism: nix-ld and envfs](https://fzakaria.com/2025/02/27/nix-pragmatism-nix-ld-and-envfs)
 * [2025-03-02, 14:36:52](https://lobste.rs/s/t0uh3q/yoke_is_really_cool) - [Yoke is really cool](https://xeiaso.net/blog/2025/yoke-k8s/)
 * [2025-03-02, 14:28:07](https://lobste.rs/s/uzr5jt/rackmounting_which_should_not_be) - [Rackmounting that which should not be rackmounted](https://calbryant.uk/blog/rackmounting-that-which-should-not-be-rackmounted/)
-* [2025-03-02, 14:20:44](https://lobste.rs/s/h7jrfg/i_struggled_with_git_so_i_m_making_game) - [I struggled with Git, so I'm making a game to spare others the pain](https://initialcommit.com/blog/im-making-a-git-game)
 * [2025-03-02, 14:18:34](https://lobste.rs/s/lvqhzn/how_clay_s_ui_layout_algorithm_works) - [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc)
 * [2025-03-02, 14:03:11](https://lobste.rs/s/woeyij/begrudgingly_choosing_cbor_over) - [Begrudgingly choosing CBOR over MessagePack](https://taylor.town/flat-scraps-001)
 
