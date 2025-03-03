@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 22:19:48](https://lobste.rs/s/2wifpj/fibrovisor_turning_dollar_store_fibre) - [The Fibrovisor: Turning a dollar store fibre optic wand into a low resolution display](https://www.youtube.com/watch?v=zz59e1wWyVc)
+* [2025-03-03, 22:14:12](https://lobste.rs/s/np4prk/use_firefox_2025) - [Use Firefox in 2025](https://alexn.org/blog/2025/03/03/use-firefox/)
 * [2025-03-03, 20:05:32](https://lobste.rs/s/oychrz/vt220_font_emulation_browser) - [VT220 font emulation in browser](https://martin.janiczek.cz/vt220-font-emulation/)
 * [2025-03-03, 19:44:23](https://lobste.rs/s/hwrcyg/why_i_don_t_do_domain_driven_design) - [Why I don't do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
 * [2025-03-03, 19:21:58](https://lobste.rs/s/g7zvqk/haskell_haskell_2_lexing_cronokirby) - [(Haskell in Haskell) 2. Lexing - Cronokirby](https://cronokirby.com/posts/2020/12/haskell-in-haskell-2/)
