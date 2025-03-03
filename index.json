@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-03, 10:25:59",
+      "https://lobste.rs/s/paedv4/see_yourself_at_runtime"
+    ],
+    [
+      "See yourself, at runtime",
+      "https://ryelang.org/blog/posts/see-yourself-at-runtime/"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 09:36:17",
       "https://lobste.rs/s/kqohku/basic_awareness_addition_deep"
     ],
@@ -237,16 +247,6 @@
     [
       "Nebu: a spreadsheet editor for Varvara",
       "https://wiki.xxiivv.com/site/nebu"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 20:58:18",
-      "https://lobste.rs/s/nvoykv/making_o1_o3_sonnet_3_7_hallucinate_for"
-    ],
-    [
-      "Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone",
-      "https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone"
     ]
   ]
 ]
