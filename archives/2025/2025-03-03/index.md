@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 11:44:14](https://lobste.rs/s/ibtxk2/hateris_obsession_friendship_world) - [Hateris - Obsession, Friendship, and World Records](https://corecursive.com/hateris-with-david-and-felipe/)
 * [2025-03-03, 11:31:38](https://lobste.rs/s/nydzso/float_walks_into_gradual_type_system) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
 * [2025-03-03, 11:16:50](https://lobste.rs/s/etrycq/on_ax_dx_ux) - [On AX, DX, and UX](https://blog.jim-nielsen.com/2025/thoughts-on-ax/)
 * [2025-03-03, 11:02:32](https://lobste.rs/s/x2rssd/empty_promise_ai_generated_creativity) - [The Empty Promise of AI-Generated Creativity](https://hey.paris/posts/genai/)
