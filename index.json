@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-03, 08:17:19",
+      "https://lobste.rs/s/tggkmv/illuminant_activitypub_server_with_nntp"
+    ],
+    [
+      "illuminant - ActivityPub server with NNTP interface",
+      "https://koldfront.dk/git/illuminant/tree/README.md"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 08:10:07",
       "https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when"
     ],
@@ -227,16 +237,6 @@
     [
       "Making o1, o3, and Sonnet 3.7 Hallucinate for Everyone",
       "https://bengarcia.dev/making-o1-o3-and-sonnet-3-7-hallucinate-for-everyone"
-    ]
-  ],
-  [
-    [
-      "2025-03-01, 18:20:43",
-      "https://lobste.rs/s/g9uepw/lisp_your_language"
-    ],
-    [
-      "Lisp in Your Language",
-      "https://danthedev.com/lisp-in-your-language"
     ]
   ],
   [
