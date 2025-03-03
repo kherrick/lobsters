@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 14:16:09](https://lobste.rs/s/1npd1l/how_fast_can_you_open_1000_files) - [How fast can you open 1000 files?](https://lemire.me/blog/2025/03/01/how-fast-can-you-open-1000-files/)
 * [2025-03-03, 14:12:55](https://lobste.rs/s/fd189a/trouble_with_leader_elections) - [The Trouble with Leader Elections in distributed systems](https://blog.joemag.dev/2025/03/the-trouble-with-leader-elections-in.html)
 * [2025-03-03, 12:23:21](https://lobste.rs/s/qegvak/sqlite_vec_vector_search_for_sqlite) - [sqlite-vec: A vector search for SQLite](https://github.com/asg017/sqlite-vec)
-* [2025-03-03, 11:44:14](https://lobste.rs/s/ibtxk2/hateris_obsession_friendship_world) - [Hateris - Obsession, Friendship, and World Records](https://corecursive.com/hateris-with-david-and-felipe/)
+* [2025-03-03, 11:44:14](https://lobste.rs/s/ibtxk2/hatetris_obsession_friendship_world) - [HATETRIS - Obsession, Friendship, and World Records](https://corecursive.com/hateris-with-david-and-felipe/)
 * [2025-03-03, 11:31:38](https://lobste.rs/s/nydzso/float_walks_into_gradual_type_system) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
-* [2025-03-03, 11:16:50](https://lobste.rs/s/etrycq/on_ax_dx_ux) - [On AX, DX, and UX](https://blog.jim-nielsen.com/2025/thoughts-on-ax/)
 * [2025-03-03, 11:02:32](https://lobste.rs/s/x2rssd/empty_promise_ai_generated_creativity) - [The Empty Promise of AI-Generated Creativity](https://hey.paris/posts/genai/)
 * [2025-03-03, 10:45:57](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week)
 * [2025-03-03, 10:25:59](https://lobste.rs/s/paedv4/see_yourself_at_runtime) - [See yourself, at runtime](https://ryelang.org/blog/posts/see-yourself-at-runtime/)
