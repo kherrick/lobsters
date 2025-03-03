@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 10:25:59](https://lobste.rs/s/paedv4/see_yourself_at_runtime) - [See yourself, at runtime](https://ryelang.org/blog/posts/see-yourself-at-runtime/)
 * [2025-03-03, 09:36:17](https://lobste.rs/s/kqohku/basic_awareness_addition_deep) - [Basic Awareness in Addition to Deep Understanding](https://www.openmymind.net/Basic-Awareness-In-Addition-To-Deep-Understanding/)
 * [2025-03-03, 08:17:19](https://lobste.rs/s/tggkmv/illuminant_activitypub_server_with_nntp) - [illuminant - ActivityPub server with NNTP interface](https://koldfront.dk/git/illuminant/tree/README.md)
 * [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
