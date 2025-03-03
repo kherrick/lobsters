@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 14:47:02](https://lobste.rs/s/5ltsh1/why_can_t_we_screenshot_frames_from_drm) - [Why Can’t We Screenshot Frames From DRM-Protected Video on Apple Devices?](https://daringfireball.net/2025/03/why_cant_we_screenshot_frames_from_drm-protected_video)
 * [2025-03-03, 14:31:51](https://lobste.rs/s/hrdjlc/crossing_uncanny_valley_conversational) - [Crossing the uncanny valley of conversational voice](https://www.sesame.com/research/crossing_the_uncanny_valley_of_voice)
 * [2025-03-03, 14:16:09](https://lobste.rs/s/1npd1l/how_fast_can_you_open_1000_files) - [How fast can you open 1000 files?](https://lemire.me/blog/2025/03/01/how-fast-can-you-open-1000-files/)
 * [2025-03-03, 14:12:55](https://lobste.rs/s/fd189a/trouble_with_leader_elections) - [The Trouble with Leader Elections in distributed systems](https://blog.joemag.dev/2025/03/the-trouble-with-leader-elections-in.html)
@@ -14,7 +15,6 @@
 * [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 * [2025-03-03, 05:59:27](https://lobste.rs/s/zw4owt/distributed_snowflake_like_id_generator) - [A Distributed Snowflake-like ID Generator](https://siddharthsabron.in/blog/id-generator/)
 * [2025-03-03, 05:58:04](https://lobste.rs/s/jp5bfy/alibaba_launches_c930_risc_v_chip_amid) - [Alibaba Launches C930 RISC-V Chip Amid Shift from Western Tech](https://www.hpcwire.com/2025/02/28/alibaba-launches-c930-risc-v-chip-amid-shift-from-western-tech/)
-* [2025-03-03, 03:24:07](https://lobste.rs/s/t0lfdl/this_linux_laptop_maker_called_me_zombie) - [This Linux laptop maker called me a Zombie](https://thelibre.news/this-linux-laptop-maker-called-me-a-zombie/)
 * [2025-03-03, 02:36:36](https://lobste.rs/s/olaala/mechanically_verified_garbage) - [A Mechanically Verified Garbage Collector for OCaml](https://kcsrk.info/papers/verifiedgc_feb_25.pdf)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
 * [2025-03-02, 19:21:50](https://lobste.rs/s/5bfpkq/effective_rust) - [Effective Rust](https://www.lurklurk.org/effective-rust/title-page.html)
