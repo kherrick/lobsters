@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 19:44:23](https://lobste.rs/s/hwrcyg/why_i_don_t_do_domain_driven_design) - [Why I don't do Domain Driven Design](https://www.tonymarston.net/php-mysql/dont-do-domain-driven-design.html)
 * [2025-03-03, 19:21:58](https://lobste.rs/s/g7zvqk/haskell_haskell_2_lexing_cronokirby) - [(Haskell in Haskell) 2. Lexing - Cronokirby](https://cronokirby.com/posts/2020/12/haskell-in-haskell-2/)
 * [2025-03-03, 19:03:26](https://lobste.rs/s/onwvsa/robust_wavefront_obj_model_parsing_c) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
 * [2025-03-03, 19:01:04](https://lobste.rs/s/n7alkh/polars_rgonomic_patterns) - [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars)
