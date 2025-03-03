@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 19:03:26](https://lobste.rs/s/onwvsa/robust_wavefront_obj_model_parsing_c) - [Robust Wavefront OBJ model parsing in C](https://nullprogram.com/blog/2025/03/02/)
+* [2025-03-03, 19:01:04](https://lobste.rs/s/n7alkh/polars_rgonomic_patterns) - [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars)
 * [2025-03-03, 18:07:34](https://lobste.rs/s/6wj9mi/hacking_xbox_360_hypervisor_part_2_bad) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 17:45:25](https://lobste.rs/s/zonvms/when_declarative_systems_break) - [When declarative systems break](https://interjectedfuture.com/when-declarative-systems-break/)
 * [2025-03-03, 17:11:37](https://lobste.rs/s/dw09hf/ai_where_loop_should_humans_go) - [AI: Where in the Loop Should Humans Go?](https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go)
