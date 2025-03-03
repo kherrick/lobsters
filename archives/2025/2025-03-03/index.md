@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-03](index.md)
 
+* [2025-03-03, 17:45:25](https://lobste.rs/s/zonvms/when_declarative_systems_break) - [When declarative systems break](https://interjectedfuture.com/when-declarative-systems-break/)
 * [2025-03-03, 17:11:37](https://lobste.rs/s/dw09hf/ai_where_loop_should_humans_go) - [AI: Where in the Loop Should Humans Go?](https://www.honeycomb.io/blog/ai-where-in-the-loop-should-humans-go)
 * [2025-03-03, 17:01:47](https://lobste.rs/s/mlseaq/power_interning_making_time_series) - [The power of interning: making a time series database 2000x smaller in Rust](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
 * [2025-03-03, 15:58:56](https://lobste.rs/s/xexk4h/some_things_make_rust_lifetimes_hard) - [Some things that make Rust lifetimes hard to learn](https://ntietz.com/blog/rust-lifetimes-learning/)
