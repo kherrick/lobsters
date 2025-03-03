@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-03, 11:31:38](https://lobste.rs/s/nydzso/float_walks_into_gradual_type_system) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
 * [2025-03-03, 11:16:50](https://lobste.rs/s/etrycq/on_ax_dx_ux) - [On AX, DX, and UX](https://blog.jim-nielsen.com/2025/thoughts-on-ax/)
 * [2025-03-03, 11:02:32](https://lobste.rs/s/x2rssd/empty_promise_ai_generated_creativity) - [The Empty Promise of AI-Generated Creativity](https://hey.paris/posts/genai/)
 * [2025-03-03, 10:45:57](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2025-03-02, 14:18:34](https://lobste.rs/s/lvqhzn/how_clay_s_ui_layout_algorithm_works) - [How Clay's UI Layout Algorithm Works](https://www.youtube.com/watch?v=by9lQvpvMIc)
 * [2025-03-02, 14:03:11](https://lobste.rs/s/woeyij/begrudgingly_choosing_cbor_over) - [Begrudgingly choosing CBOR over MessagePack](https://taylor.town/flat-scraps-001)
 * [2025-03-02, 09:50:45](https://lobste.rs/s/vjy7m1/abusing_c_implement_json_parsing_with) - [Abusing C to implement JSON Parsing with Struct Methods](https://xnacly.me/posts/2025/json-parser-in-c-with-methods/)
-* [2025-03-02, 03:09:31](https://lobste.rs/s/zjj9p1/nebu_spreadsheet_editor_for_varvara) - [Nebu: a spreadsheet editor for Varvara](https://wiki.xxiivv.com/site/nebu)
 
 ## [Archives](archives/index.md)
 
