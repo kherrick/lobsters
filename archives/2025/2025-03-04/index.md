@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 17:56:19](https://lobste.rs/s/d29jkm/solving_sicp) - [Solving SICP](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/)
 * [2025-03-04, 17:10:50](https://lobste.rs/s/ywbnyq/performance_optimization_how_do_it_wrong) - [Performance optimization, and how to do it wrong](https://genna.win/blog/convolution-simd/)
 * [2025-03-04, 17:08:22](https://lobste.rs/s/1xdrzu/hierarchy_hazard_controls) - [The Hierarchy of Hazard Controls](https://www.hillelwayne.com/post/hoc/)
 * [2025-03-04, 16:56:44](https://lobste.rs/s/7pc24z/triangle_separation) - [Triangle of Separation](https://thoughtbot.com/blog/triangle-of-separation)
