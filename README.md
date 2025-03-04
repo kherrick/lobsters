@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-03-04, 08:05:32](https://lobste.rs/s/4dbx6f/smallpond_lightweight_data_processing) - [smallpond: A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
+* [2025-03-04, 08:03:09](https://lobste.rs/s/hjqzmw/case_for_feminism_programming_language) - [A case for feminism in programming language design](https://www.hytradboi.com/2025/419859c5-6a8f-4a49-b324-0f225e083114-a-case-for-feminism-in-programming-language-design)
 * [2025-03-04, 05:59:06](https://lobste.rs/s/qs8c0x/exploiting_python_pickles) - [Exploiting Python pickles](https://davidhamann.de/2020/04/05/exploiting-python-pickle/)
 * [2025-03-04, 04:48:17](https://lobste.rs/s/aslonc/making_flow_interview_with_director) - [Making Flow – Interview with director Gints Zilbalodis —](https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/)
 * [2025-03-04, 01:19:39](https://lobste.rs/s/eluli7/botfly_test_characterizing_parasitic) - [The Botfly Test: Characterizing parasitic automated behavior in online communities](https://hannahilea.com/blog/botfly-test/)
@@ -24,7 +25,6 @@
 * [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
 * [2025-03-02, 14:36:52](https://lobste.rs/s/t0uh3q/yoke_is_really_cool) - [Yoke is really cool](https://xeiaso.net/blog/2025/yoke-k8s/)
-* [2025-03-02, 14:03:11](https://lobste.rs/s/woeyij/begrudgingly_choosing_cbor_over) - [Begrudgingly choosing CBOR over MessagePack](https://taylor.town/flat-scraps-001)
 
 ## [Archives](archives/index.md)
 
