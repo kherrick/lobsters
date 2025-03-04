@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-04, 00:31:01",
+      "https://lobste.rs/s/4bxwnl/do_not_run_any_cargo_commands_on_untrusted"
+    ],
+    [
+      "Do not run any Cargo commands on untrusted projects",
+      "https://shnatsel.medium.com/do-not-run-any-cargo-commands-on-untrusted-projects-4c31c89a78d6"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 22:56:01",
       "https://lobste.rs/s/gvv27u/globstar_open_source_static_analysis"
     ],
@@ -61,6 +71,16 @@
   ],
   [
     [
+      "2025-03-03, 18:07:34",
+      "https://lobste.rs/s/6wj9mi/hacking_xbox_360_hypervisor_part_2_bad"
+    ],
+    [
+      "Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit",
+      "https://icode4.coffee/?p=1081"
+    ]
+  ],
+  [
+    [
       "2025-03-03, 17:45:25",
       "https://lobste.rs/s/zonvms/when_declarative_systems_break"
     ],
@@ -107,16 +127,6 @@
     [
       "How fast can you open 1000 files?",
       "https://lemire.me/blog/2025/03/01/how-fast-can-you-open-1000-files/"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 12:23:21",
-      "https://lobste.rs/s/qegvak/sqlite_vec_vector_search_for_sqlite"
-    ],
-    [
-      "sqlite-vec: A vector search for SQLite",
-      "https://github.com/asg017/sqlite-vec"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Tangled — a git collaboration platform built on atproto",
       "https://blog.tangled.sh/intro"
-    ]
-  ],
-  [
-    [
-      "2025-03-02, 19:21:50",
-      "https://lobste.rs/s/5bfpkq/effective_rust"
-    ],
-    [
-      "Effective Rust",
-      "https://www.lurklurk.org/effective-rust/title-page.html"
     ]
   ],
   [
