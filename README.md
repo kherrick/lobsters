@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-04, 14:24:54](https://lobste.rs/s/cpro2r/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about languages](https://www.lexiconista.com/falsehoods-about-languages/)
 * [2025-03-04, 11:59:43](https://lobste.rs/s/b5buoi/tigerbeetle_architecture) - [TigerBeetle Architecture](https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/internals/ARCHITECTURE.md)
 * [2025-03-04, 11:48:07](https://lobste.rs/s/ifpjdh/avoid_nightmare_bicycle) - [Avoid the nightmare bicycle](https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html)
 * [2025-03-04, 09:13:53](https://lobste.rs/s/3ybmrr/duckdb_goes_distributed_deepseek_s) - [DuckDB goes distributed? DeepSeek’s smallpond takes on Big Data](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
@@ -21,7 +22,6 @@
 * [2025-03-03, 14:16:09](https://lobste.rs/s/1npd1l/how_fast_can_you_open_1000_files) - [How fast can you open 1000 files?](https://lemire.me/blog/2025/03/01/how-fast-can-you-open-1000-files/)
 * [2025-03-03, 11:44:14](https://lobste.rs/s/ibtxk2/hatetris_obsession_friendship_world) - [HATETRIS - Obsession, Friendship, and World Records](https://corecursive.com/hateris-with-david-and-felipe/)
 * [2025-03-03, 11:31:38](https://lobste.rs/s/nydzso/float_walks_into_gradual_type_system) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
-* [2025-03-03, 11:02:32](https://lobste.rs/s/x2rssd/empty_promise_ai_generated_creativity) - [The Empty Promise of AI-Generated Creativity](https://hey.paris/posts/genai/)
 * [2025-03-03, 08:17:19](https://lobste.rs/s/tggkmv/illuminant_activitypub_server_with_nntp) - [illuminant - ActivityPub server with NNTP interface](https://koldfront.dk/git/illuminant/tree/README.md)
 * [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 * [2025-03-02, 20:26:42](https://lobste.rs/s/zxthnz/tangled_git_collaboration_platform) - [Tangled — a git collaboration platform built on atproto](https://blog.tangled.sh/intro)
