@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 08:37:57](https://lobste.rs/s/4y6yxt/mozilla_updates_firefox_s_terms_again) - [Mozilla updates Firefox's Terms again after backlash](https://thehackernews.com/2025/03/mozilla-updates-firefox-terms-again.html)
 * [2025-03-04, 08:05:32](https://lobste.rs/s/4dbx6f/smallpond_lightweight_data_processing) - [smallpond: A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
 * [2025-03-04, 08:03:09](https://lobste.rs/s/hjqzmw/case_for_feminism_programming_language) - [A case for feminism in programming language design](https://www.hytradboi.com/2025/419859c5-6a8f-4a49-b324-0f225e083114-a-case-for-feminism-in-programming-language-design)
 * [2025-03-04, 05:59:06](https://lobste.rs/s/qs8c0x/exploiting_python_pickles) - [Exploiting Python pickles](https://davidhamann.de/2020/04/05/exploiting-python-pickle/)
