@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 04:48:17](https://lobste.rs/s/aslonc/making_flow_interview_with_director) - [Making Flow – Interview with director Gints Zilbalodis —](https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/)
 * [2025-03-04, 02:58:04](https://lobste.rs/s/dperqz/hacking_xbox_360_hypervisor_part_1_system) - [Hacking the Xbox 360 Hypervisor Part 1: System Overview](https://icode4.coffee/?p=1047)
 * [2025-03-04, 01:19:39](https://lobste.rs/s/eluli7/botfly_test_characterizing_parasitic) - [The Botfly Test: Characterizing parasitic automated behavior in online communities](https://hannahilea.com/blog/botfly-test/)
 * [2025-03-04, 00:44:04](https://lobste.rs/s/4sfqtn/you_need_much_less_memory_than_time) - [You Need Much Less Memory than Time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
