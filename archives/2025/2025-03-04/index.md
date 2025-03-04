@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 17:10:50](https://lobste.rs/s/ywbnyq/performance_optimization_how_do_it_wrong) - [Performance optimization, and how to do it wrong](https://genna.win/blog/convolution-simd/)
+* [2025-03-04, 17:08:22](https://lobste.rs/s/1xdrzu/hierarchy_hazard_controls) - [The Hierarchy of Hazard Controls](https://www.hillelwayne.com/post/hoc/)
+* [2025-03-04, 16:56:44](https://lobste.rs/s/7pc24z/triangle_separation) - [Triangle of Separation](https://thoughtbot.com/blog/triangle-of-separation)
 * [2025-03-04, 16:00:14](https://lobste.rs/s/dqozfh/performance_debugging_with_llvm_mca) - [Performance Debugging with llvm-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
 * [2025-03-04, 15:51:36](https://lobste.rs/s/6f8cww/web_should_be_conversation) - [The Web Should Be A Conversation](https://andregarzia.com/2025/03/the-web-should-be-a-conversation.html)
 * [2025-03-04, 15:42:38](https://lobste.rs/s/hkei82/hue_tools_open_source_toolbox_for_colors) - [hue.tools: An open source toolbox for colors](https://hue.tools/)
