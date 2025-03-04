@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-04, 05:59:06](https://lobste.rs/s/qs8c0x/exploiting_python_pickles) - [Exploiting Python pickles](https://davidhamann.de/2020/04/05/exploiting-python-pickle/)
 * [2025-03-04, 04:48:17](https://lobste.rs/s/aslonc/making_flow_interview_with_director) - [Making Flow – Interview with director Gints Zilbalodis —](https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/)
 * [2025-03-04, 01:19:39](https://lobste.rs/s/eluli7/botfly_test_characterizing_parasitic) - [The Botfly Test: Characterizing parasitic automated behavior in online communities](https://hannahilea.com/blog/botfly-test/)
 * [2025-03-04, 00:44:04](https://lobste.rs/s/4sfqtn/you_need_much_less_memory_than_time) - [You Need Much Less Memory than Time](https://blog.computationalcomplexity.org/2025/02/you-need-much-less-memory-than-time.html)
@@ -18,7 +19,6 @@
 * [2025-03-03, 11:44:14](https://lobste.rs/s/ibtxk2/hatetris_obsession_friendship_world) - [HATETRIS - Obsession, Friendship, and World Records](https://corecursive.com/hateris-with-david-and-felipe/)
 * [2025-03-03, 11:31:38](https://lobste.rs/s/nydzso/float_walks_into_gradual_type_system) - [A float walks into a gradual type system](https://ruudvanasseldonk.com/2025/a-float-walks-into-a-gradual-type-system)
 * [2025-03-03, 11:02:32](https://lobste.rs/s/x2rssd/empty_promise_ai_generated_creativity) - [The Empty Promise of AI-Generated Creativity](https://hey.paris/posts/genai/)
-* [2025-03-03, 10:45:57](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/zf3o04/what_are_you_doing_this_week)
 * [2025-03-03, 10:25:59](https://lobste.rs/s/paedv4/see_yourself_at_runtime) - [See yourself, at runtime](https://ryelang.org/blog/posts/see-yourself-at-runtime/)
 * [2025-03-03, 08:17:19](https://lobste.rs/s/tggkmv/illuminant_activitypub_server_with_nntp) - [illuminant - ActivityPub server with NNTP interface](https://koldfront.dk/git/illuminant/tree/README.md)
 * [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
