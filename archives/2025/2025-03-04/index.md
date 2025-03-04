@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 08:05:32](https://lobste.rs/s/4dbx6f/smallpond_lightweight_data_processing) - [smallpond: A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
 * [2025-03-04, 05:59:06](https://lobste.rs/s/qs8c0x/exploiting_python_pickles) - [Exploiting Python pickles](https://davidhamann.de/2020/04/05/exploiting-python-pickle/)
 * [2025-03-04, 04:48:17](https://lobste.rs/s/aslonc/making_flow_interview_with_director) - [Making Flow – Interview with director Gints Zilbalodis —](https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/)
 * [2025-03-04, 02:58:04](https://lobste.rs/s/dperqz/hacking_xbox_360_hypervisor_part_1_system) - [Hacking the Xbox 360 Hypervisor Part 1: System Overview](https://icode4.coffee/?p=1047)

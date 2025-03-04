@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-04, 08:05:32](https://lobste.rs/s/4dbx6f/smallpond_lightweight_data_processing) - [smallpond: A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
 * [2025-03-04, 05:59:06](https://lobste.rs/s/qs8c0x/exploiting_python_pickles) - [Exploiting Python pickles](https://davidhamann.de/2020/04/05/exploiting-python-pickle/)
 * [2025-03-04, 04:48:17](https://lobste.rs/s/aslonc/making_flow_interview_with_director) - [Making Flow – Interview with director Gints Zilbalodis —](https://www.blender.org/user-stories/making-flow-an-interview-with-director-gints-zilbalodis/)
 * [2025-03-04, 01:19:39](https://lobste.rs/s/eluli7/botfly_test_characterizing_parasitic) - [The Botfly Test: Characterizing parasitic automated behavior in online communities](https://hannahilea.com/blog/botfly-test/)
@@ -10,7 +11,6 @@
 * [2025-03-03, 22:14:12](https://lobste.rs/s/np4prk/use_firefox_2025) - [Use Firefox in 2025](https://alexn.org/blog/2025/03/03/use-firefox/)
 * [2025-03-03, 20:05:32](https://lobste.rs/s/oychrz/vt220_font_emulation_browser) - [VT220 font emulation in browser](https://martin.janiczek.cz/vt220-font-emulation/)
 * [2025-03-03, 19:01:04](https://lobste.rs/s/n7alkh/polars_rgonomic_patterns) - [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars)
-* [2025-03-03, 18:07:34](https://lobste.rs/s/6wj9mi/hacking_xbox_360_hypervisor_part_2_bad) - [Hacking the Xbox 360 Hypervisor Part 2: The Bad Update Exploit](https://icode4.coffee/?p=1081)
 * [2025-03-03, 17:45:25](https://lobste.rs/s/zonvms/when_declarative_systems_break) - [When declarative systems break](https://interjectedfuture.com/when-declarative-systems-break/)
 * [2025-03-03, 17:01:47](https://lobste.rs/s/mlseaq/power_interning_making_time_series) - [The power of interning: making a time series database 2000x smaller in Rust](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
 * [2025-03-03, 15:58:56](https://lobste.rs/s/xexk4h/some_things_make_rust_lifetimes_hard) - [Some things that make Rust lifetimes hard to learn](https://ntietz.com/blog/rust-lifetimes-learning/)
