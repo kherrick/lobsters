@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 11:48:07](https://lobste.rs/s/ifpjdh/avoid_nightmare_bicycle) - [Avoid the nightmare bicycle](https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html)
 * [2025-03-04, 10:03:44](https://lobste.rs/s/42ed6l/building_hand_drawn_digit_recognizer) - [Building a Hand-Drawn Digit Recognizer with PyTorch and MNIST](https://zackproser.com/blog/mnist-pytorch-hand-drawn-digit-recognizer)
 * [2025-03-04, 09:13:53](https://lobste.rs/s/3ybmrr/duckdb_goes_distributed_deepseek_s) - [DuckDB goes distributed? DeepSeek’s smallpond takes on Big Data](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
 * [2025-03-04, 08:37:57](https://lobste.rs/s/4y6yxt/mozilla_updates_firefox_s_terms_again) - [Mozilla updates Firefox's Terms again after backlash](https://thehackernews.com/2025/03/mozilla-updates-firefox-terms-again.html)
