@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-04, 22:01:33",
+      "https://lobste.rs/s/cvs4te/miners_on_ci_cd_pipelines_for_drone_gitlab"
+    ],
+    [
+      "Miners on CI/CD pipelines for Drone/Gitlab servers with open registrations",
+      "https://manganiello.social/@fabio/posts/Arivp4ZjiD2KUwpwJs"
+    ]
+  ],
+  [
+    [
       "2025-03-04, 21:41:48",
       "https://lobste.rs/s/igqzdo/tailscale_is_pretty_useful"
     ],
@@ -197,16 +207,6 @@
     [
       "VT220 font emulation in browser",
       "https://martin.janiczek.cz/vt220-font-emulation/"
-    ]
-  ],
-  [
-    [
-      "2025-03-03, 17:01:47",
-      "https://lobste.rs/s/mlseaq/power_interning_making_time_series"
-    ],
-    [
-      "The power of interning: making a time series database 2000x smaller in Rust",
-      "https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html"
     ]
   ],
   [
