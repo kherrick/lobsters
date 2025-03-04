@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-03-04](index.md)
+
+* [2025-03-04, 00:31:01](https://lobste.rs/s/4bxwnl/do_not_run_any_cargo_commands_on_untrusted) - [Do not run any Cargo commands on untrusted projects](https://shnatsel.medium.com/do-not-run-any-cargo-commands-on-untrusted-projects-4c31c89a78d6)
