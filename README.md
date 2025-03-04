@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-04, 10:03:44](https://lobste.rs/s/42ed6l/building_hand_drawn_digit_recognizer) - [Building a Hand-Drawn Digit Recognizer with PyTorch and MNIST](https://zackproser.com/blog/mnist-pytorch-hand-drawn-digit-recognizer)
 * [2025-03-04, 09:13:53](https://lobste.rs/s/3ybmrr/duckdb_goes_distributed_deepseek_s) - [DuckDB goes distributed? DeepSeek’s smallpond takes on Big Data](https://mehdio.substack.com/p/duckdb-goes-distributed-deepseeks)
 * [2025-03-04, 08:37:57](https://lobste.rs/s/4y6yxt/mozilla_updates_firefox_s_terms_again) - [Mozilla updates Firefox's Terms again after backlash](https://thehackernews.com/2025/03/mozilla-updates-firefox-terms-again.html)
 * [2025-03-04, 08:05:32](https://lobste.rs/s/4dbx6f/smallpond_lightweight_data_processing) - [smallpond: A lightweight data processing framework built on DuckDB and 3FS](https://github.com/deepseek-ai/smallpond)
@@ -12,7 +13,6 @@
 * [2025-03-03, 22:19:48](https://lobste.rs/s/2wifpj/fibrovisor_turning_dollar_store_fibre) - [The Fibrovisor: Turning a dollar store fibre optic wand into a low resolution display](https://www.youtube.com/watch?v=zz59e1wWyVc)
 * [2025-03-03, 22:14:12](https://lobste.rs/s/np4prk/use_firefox_2025) - [Use Firefox in 2025](https://alexn.org/blog/2025/03/03/use-firefox/)
 * [2025-03-03, 20:05:32](https://lobste.rs/s/oychrz/vt220_font_emulation_browser) - [VT220 font emulation in browser](https://martin.janiczek.cz/vt220-font-emulation/)
-* [2025-03-03, 19:01:04](https://lobste.rs/s/n7alkh/polars_rgonomic_patterns) - [polars’ Rgonomic Patterns](https://www.emilyriederer.com/post/py-rgo-polars)
 * [2025-03-03, 17:45:25](https://lobste.rs/s/zonvms/when_declarative_systems_break) - [When declarative systems break](https://interjectedfuture.com/when-declarative-systems-break/)
 * [2025-03-03, 17:01:47](https://lobste.rs/s/mlseaq/power_interning_making_time_series) - [The power of interning: making a time series database 2000x smaller in Rust](https://gendignoux.com/blog/2025/03/03/rust-interning-2000x.html)
 * [2025-03-03, 15:58:56](https://lobste.rs/s/xexk4h/some_things_make_rust_lifetimes_hard) - [Some things that make Rust lifetimes hard to learn](https://ntietz.com/blog/rust-lifetimes-learning/)
