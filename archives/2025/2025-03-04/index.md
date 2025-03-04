@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-04](index.md)
 
+* [2025-03-04, 16:00:14](https://lobste.rs/s/dqozfh/performance_debugging_with_llvm_mca) - [Performance Debugging with llvm-mca: Simulating the CPU](https://johnnysswlab.com/performance-debugging-with-llvm-mca-simulating-the-cpu/)
 * [2025-03-04, 15:51:36](https://lobste.rs/s/6f8cww/web_should_be_conversation) - [The Web Should Be A Conversation](https://andregarzia.com/2025/03/the-web-should-be-a-conversation.html)
 * [2025-03-04, 15:42:38](https://lobste.rs/s/hkei82/hue_tools_open_source_toolbox_for_colors) - [hue.tools: An open source toolbox for colors](https://hue.tools/)
 * [2025-03-04, 15:40:14](https://lobste.rs/s/piseax/how_test_measure_content_ux) - [How To Test And Measure Content In UX](https://www.smashingmagazine.com/2025/02/how-to-test-and-measure-content-in-ux/)
