@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 18:25:35](https://lobste.rs/s/c5pgnx/what_if_we_just_didn_t_decompress_it) - [What if we just didn’t decompress it?](https://blog.spiraldb.com/what-if-we-just-didnt-decompress-it/)
+* [2025-03-05, 17:42:09](https://lobste.rs/s/qnfuus/zen_art_microcode_hacking) - [Zen and the Art of Microcode Hacking](https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking)
 * [2025-03-05, 16:48:12](https://lobste.rs/s/ecmmix/defense_text_labels) - [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels)
 * [2025-03-05, 15:51:57](https://lobste.rs/s/gkawzq/happy_day_for_rust) - [A Happy Day for Rust](https://steveklabnik.com/writing/a-happy-day-for-rust/)
 * [2025-03-05, 15:26:03](https://lobste.rs/s/wjtlv8/basecamp_release_github_extension_for) - [Basecamp release Github extension for offline CI signoff](https://github.com/basecamp/gh-signoff)
