@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 20:19:48](https://lobste.rs/s/oegolv/git_without_forge) - [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
 * [2025-03-05, 19:38:29](https://lobste.rs/s/9dzgsp/take_break_rust_match_has_fallthrough) - [Take a break: Rust match has fallthrough](https://huonw.github.io/blog/2025/03/rust-fallthrough/)
 * [2025-03-05, 19:05:15](https://lobste.rs/s/j4x4bi/constantly_divisionless_random_numbers) - [constantly divisionless random numbers](https://dotat.at/@/2025-03-05-lemire-inline.html)
 * [2025-03-05, 18:25:35](https://lobste.rs/s/c5pgnx/what_if_we_just_didn_t_decompress_it) - [What if we just didn’t decompress it?](https://blog.spiraldb.com/what-if-we-just-didnt-decompress-it/)
