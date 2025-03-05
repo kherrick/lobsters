@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 14:40:17](https://lobste.rs/s/myndiy/lynx_unlock_native_for_more) - [Lynx: Unlock Native for More](https://lynxjs.org/blog/lynx-unlock-native-for-more.html)
 * [2025-03-05, 14:15:50](https://lobste.rs/s/udui2s/bbc_micro_emulation_directly_browser) - [BBC Micro emulation directly in the browser](https://www.bbcmicrobot.com/)
 * [2025-03-05, 13:36:21](https://lobste.rs/s/fp1drj/cross_platform_floating_point) - [Cross-platform floating-point determinism out of the box](https://www.youtube.com/watch?v=7MatbTHGG6Q)
 * [2025-03-05, 13:32:52](https://lobste.rs/s/0g0ulj/why_alias_is_my_last_resort_for_aliases) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)

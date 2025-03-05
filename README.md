@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-05, 14:40:17](https://lobste.rs/s/myndiy/lynx_unlock_native_for_more) - [Lynx: Unlock Native for More](https://lynxjs.org/blog/lynx-unlock-native-for-more.html)
 * [2025-03-05, 14:15:50](https://lobste.rs/s/udui2s/bbc_micro_emulation_directly_browser) - [BBC Micro emulation directly in the browser](https://www.bbcmicrobot.com/)
 * [2025-03-05, 13:36:21](https://lobste.rs/s/fp1drj/cross_platform_floating_point) - [Cross-platform floating-point determinism out of the box](https://www.youtube.com/watch?v=7MatbTHGG6Q)
 * [2025-03-05, 13:32:52](https://lobste.rs/s/0g0ulj/why_alias_is_my_last_resort_for_aliases) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
@@ -18,7 +19,6 @@
 * [2025-03-04, 21:41:48](https://lobste.rs/s/igqzdo/tailscale_is_pretty_useful) - [Tailscale is pretty useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
 * [2025-03-04, 21:05:42](https://lobste.rs/s/gp3ch3/why_fastdoom_is_fast) - [Why fastDOOM is fast](https://fabiensanglard.net/fastdoom/index.html)
 * [2025-03-04, 20:36:10](https://lobste.rs/s/icz96h/hytradboi_2025_postmortem) - [HYTRADBOI 2025 postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/)
-* [2025-03-04, 17:56:19](https://lobste.rs/s/d29jkm/solving_sicp) - [Solving SICP](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/)
 * [2025-03-04, 17:08:22](https://lobste.rs/s/1xdrzu/hierarchy_hazard_controls) - [The Hierarchy of Hazard Controls](https://www.hillelwayne.com/post/hoc/)
 * [2025-03-04, 15:51:36](https://lobste.rs/s/6f8cww/web_should_be_conversation) - [The Web Should Be A Conversation](https://andregarzia.com/2025/03/the-web-should-be-a-conversation.html)
 * [2025-03-04, 14:24:54](https://lobste.rs/s/cpro2r/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about languages](https://www.lexiconista.com/falsehoods-about-languages/)
