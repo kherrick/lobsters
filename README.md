@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-05, 08:03:31](https://lobste.rs/s/odepe5/plea_for_more_mikado_software) - [A Plea for more Mikado - Software Engineering and Stuff](https://dmathieu.com/en/opinions/mikado/)
 * [2025-03-05, 06:44:46](https://lobste.rs/s/f7c9bm/map_python) - [A Map of Python](https://fi-le.net/pypi/)
 * [2025-03-05, 04:19:16](https://lobste.rs/s/m7gwia/as_code) - [\"As Code\"](https://mitchellh.com/writing/as-code)
 * [2025-03-05, 03:12:50](https://lobste.rs/s/6645g0/netbsd_on_javastation) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
@@ -24,7 +25,6 @@
 * [2025-03-04, 00:31:01](https://lobste.rs/s/4bxwnl/do_not_run_any_cargo_commands_on_untrusted) - [Do not run any Cargo commands on untrusted projects](https://shnatsel.medium.com/do-not-run-any-cargo-commands-on-untrusted-projects-4c31c89a78d6)
 * [2025-03-03, 22:14:12](https://lobste.rs/s/np4prk/use_firefox_2025) - [Use Firefox in 2025](https://alexn.org/blog/2025/03/03/use-firefox/)
 * [2025-03-03, 20:05:32](https://lobste.rs/s/oychrz/vt220_font_emulation_browser) - [VT220 font emulation in browser](https://martin.janiczek.cz/vt220-font-emulation/)
-* [2025-03-03, 08:10:07](https://lobste.rs/s/epok9v/apple_s_software_quality_crisis_when) - [Apple's Software Quality Crisis: When Premium Hardware Meets Subpar Software](https://www.eliseomartelli.it/blog/2025-03-02-apple-quality)
 
 ## [Archives](archives/index.md)
 
