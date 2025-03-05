@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-03-05, 10:55:08",
-      "https://lobste.rs/s/sj7kwy/andrew_barto_richard_sutton_receive_2024"
+      "2025-03-05, 13:36:21",
+      "https://lobste.rs/s/fp1drj/cross_platform_floating_point"
     ],
     [
-      "Andrew Barto and Richard Sutton receive 2024 Turing Award for developing foundations of reinforcement learning",
-      "https://awards.acm.org/about/2024-turing"
+      "Cross-platform floating-point determinism out of the box",
+      "https://www.youtube.com/watch?v=7MatbTHGG6Q"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 13:32:52",
+      "https://lobste.rs/s/0g0ulj/why_alias_is_my_last_resort_for_aliases"
+    ],
+    [
+      "Why \"alias\" is my last resort for aliases",
+      "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/"
+    ]
+  ],
+  [
+    [
+      "2025-03-05, 13:30:35",
+      "https://lobste.rs/s/dwvrsk/floating_points_boxes"
+    ],
+    [
+      "Floating Points & Boxes",
+      "https://blog.toast.cafe/floating-points-boxes"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "The Pitchfork Story",
       "https://byroot.github.io/ruby/performance/2025/03/04/the-pitchfork-story.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 09:47:07",
-      "https://lobste.rs/s/it1b5w/trigon_developing_deterministic_kernel"
-    ],
-    [
-      "Trigon: developing a deterministic kernel exploit for iOS",
-      "https://alfiecg.uk/2025/03/01/Trigon.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "The Web Should Be A Conversation",
       "https://andregarzia.com/2025/03/the-web-should-be-a-conversation.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 15:42:38",
-      "https://lobste.rs/s/hkei82/hue_tools_open_source_toolbox_for_colors"
-    ],
-    [
-      "hue.tools: An open source toolbox for colors",
-      "https://hue.tools/"
     ]
   ],
   [
