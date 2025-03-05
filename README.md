@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-05, 04:19:16](https://lobste.rs/s/m7gwia/as_code) - [\"As Code\"](https://mitchellh.com/writing/as-code)
 * [2025-03-05, 03:12:50](https://lobste.rs/s/6645g0/netbsd_on_javastation) - [NetBSD on a JavaStation](https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/)
-* [2025-03-05, 01:59:54](https://lobste.rs/s/gz90fx/answer_set_programming_01_just_facts) - [Answer Set Programming 01 | Just the Facts](https://team.charmiq.ai/@surfacetension/building-blocks/asp-01-just-the-facts)
 * [2025-03-05, 01:46:46](https://lobste.rs/s/upzqpv/cobalt_networks_cobaltos_proxmox_port) - [Cobalt Networks CobaltOS: Proxmox Port](https://archive.org/details/CobaltOS-Proxmox)
 * [2025-03-05, 00:38:25](https://lobste.rs/s/i0c3bz/bayleaf_building_low_profile_wireless) - [Bayleaf: Building a low-profile wireless split keyboard](https://www.graz.io/articles/bayleaf-wireless-keyboard)
 * [2025-03-04, 23:48:16](https://lobste.rs/s/cbytov/lean_4_release_v4_17_0) - [Lean 4, release v4.17.0](https://github.com/leanprover/lean4/releases/tag/v4.17.0)
