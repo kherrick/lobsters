@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 10:55:08](https://lobste.rs/s/sj7kwy/andrew_barto_richard_sutton_receive_2024) - [Andrew Barto and Richard Sutton receive 2024 Turing Award for developing foundations of reinforcement learning](https://awards.acm.org/about/2024-turing)
+* [2025-03-05, 10:53:09](https://lobste.rs/s/hsotyq/why_techdirt_is_now_democracy_blog) - [Why Techdirt Is Now A Democracy Blog (Whether We Like It Or Not)](https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/)
 * [2025-03-05, 10:46:08](https://lobste.rs/s/nurzov/pitchfork_story) - [The Pitchfork Story](https://byroot.github.io/ruby/performance/2025/03/04/the-pitchfork-story.html)
 * [2025-03-05, 09:47:07](https://lobste.rs/s/it1b5w/trigon_developing_deterministic_kernel) - [Trigon: developing a deterministic kernel exploit for iOS](https://alfiecg.uk/2025/03/01/Trigon.html)
 * [2025-03-05, 09:13:29](https://lobste.rs/s/qjsefo/bad_apple_it_s_ssh_keys) - [bad apple but it's ssh keys](https://www.5snb.club/posts/2025/bad-apple-but-its-ssh-keys/)
