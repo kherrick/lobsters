@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-05, 08:48:19](https://lobste.rs/s/7iu9ze/zig_0_14_0_release_notes) - [Zig 0.14.0 Release Notes](https://ziglang.org/download/0.14.0/release-notes.html)
 * [2025-03-05, 08:03:31](https://lobste.rs/s/odepe5/plea_for_more_mikado_software) - [A Plea for more Mikado - Software Engineering and Stuff](https://dmathieu.com/en/opinions/mikado/)
 * [2025-03-05, 06:44:46](https://lobste.rs/s/f7c9bm/map_python) - [A Map of Python](https://fi-le.net/pypi/)
 * [2025-03-05, 04:19:16](https://lobste.rs/s/m7gwia/as_code) - [\"As Code\"](https://mitchellh.com/writing/as-code)
@@ -15,7 +16,6 @@
 * [2025-03-04, 20:36:10](https://lobste.rs/s/icz96h/hytradboi_2025_postmortem) - [HYTRADBOI 2025 postmortem](https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/)
 * [2025-03-04, 17:56:19](https://lobste.rs/s/d29jkm/solving_sicp) - [Solving SICP](https://lockywolf.wordpress.com/2021/02/08/solving-sicp/)
 * [2025-03-04, 17:08:22](https://lobste.rs/s/1xdrzu/hierarchy_hazard_controls) - [The Hierarchy of Hazard Controls](https://www.hillelwayne.com/post/hoc/)
-* [2025-03-04, 16:56:44](https://lobste.rs/s/7pc24z/triangle_separation) - [Triangle of Separation](https://thoughtbot.com/blog/triangle-of-separation)
 * [2025-03-04, 15:51:36](https://lobste.rs/s/6f8cww/web_should_be_conversation) - [The Web Should Be A Conversation](https://andregarzia.com/2025/03/the-web-should-be-a-conversation.html)
 * [2025-03-04, 15:42:38](https://lobste.rs/s/hkei82/hue_tools_open_source_toolbox_for_colors) - [hue.tools: An open source toolbox for colors](https://hue.tools/)
 * [2025-03-04, 14:24:54](https://lobste.rs/s/cpro2r/falsehoods_programmers_believe_about) - [Falsehoods programmers believe about languages](https://www.lexiconista.com/falsehoods-about-languages/)

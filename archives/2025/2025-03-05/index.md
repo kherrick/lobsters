@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 08:48:19](https://lobste.rs/s/7iu9ze/zig_0_14_0_release_notes) - [Zig 0.14.0 Release Notes](https://ziglang.org/download/0.14.0/release-notes.html)
 * [2025-03-05, 08:03:31](https://lobste.rs/s/odepe5/plea_for_more_mikado_software) - [A Plea for more Mikado - Software Engineering and Stuff](https://dmathieu.com/en/opinions/mikado/)
 * [2025-03-05, 06:44:46](https://lobste.rs/s/f7c9bm/map_python) - [A Map of Python](https://fi-le.net/pypi/)
 * [2025-03-05, 04:19:16](https://lobste.rs/s/m7gwia/as_code) - [\"As Code\"](https://mitchellh.com/writing/as-code)
