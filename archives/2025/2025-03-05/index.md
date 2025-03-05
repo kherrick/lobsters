@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-05](index.md)
 
+* [2025-03-05, 13:36:21](https://lobste.rs/s/fp1drj/cross_platform_floating_point) - [Cross-platform floating-point determinism out of the box](https://www.youtube.com/watch?v=7MatbTHGG6Q)
+* [2025-03-05, 13:32:52](https://lobste.rs/s/0g0ulj/why_alias_is_my_last_resort_for_aliases) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
+* [2025-03-05, 13:30:35](https://lobste.rs/s/dwvrsk/floating_points_boxes) - [Floating Points & Boxes](https://blog.toast.cafe/floating-points-boxes)
 * [2025-03-05, 10:55:08](https://lobste.rs/s/sj7kwy/andrew_barto_richard_sutton_receive_2024) - [Andrew Barto and Richard Sutton receive 2024 Turing Award for developing foundations of reinforcement learning](https://awards.acm.org/about/2024-turing)
 * [2025-03-05, 10:53:09](https://lobste.rs/s/hsotyq/why_techdirt_is_now_democracy_blog) - [Why Techdirt Is Now A Democracy Blog (Whether We Like It Or Not)](https://www.techdirt.com/2025/03/04/why-techdirt-is-now-a-democracy-blog-whether-we-like-it-or-not/)
 * [2025-03-05, 10:46:08](https://lobste.rs/s/nurzov/pitchfork_story) - [The Pitchfork Story](https://byroot.github.io/ruby/performance/2025/03/04/the-pitchfork-story.html)
