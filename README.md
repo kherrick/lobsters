@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-06, 18:06:43](https://lobste.rs/s/id5i6e/b_not_b_b_trees_with_optimistic_lock) - [To B or not to B: B-Trees with Optimistic Lock Coupling](https://cedardb.com/blog/optimistic_btrees/)
 * [2025-03-06, 17:22:01](https://lobste.rs/s/aln3cp/strobelight_profiling_service_built_on) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-06, 17:12:08](https://lobste.rs/s/wccows/distributed_systems_without_raft_part_1) - [Distributed Systems without Raft (part 1)](https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee)
 * [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
@@ -9,7 +10,6 @@
 * [2025-03-06, 14:29:18](https://lobste.rs/s/23uu1f/writing_oled_display_driver_microzig) - [Writing an OLED display driver in MicroZig (2024)](https://andrewconl.in/blog/2024/microzig-display-driver/)
 * [2025-03-06, 13:35:43](https://lobste.rs/s/z5moxa/testing_causality_scientific_modelling) - [Testing Causality in Scientific Modelling Software](https://export.arxiv.org/pdf/2209.00357v2.pdf)
 * [2025-03-06, 11:05:57](https://lobste.rs/s/yykwi5/50_years_filesystems_1984) - [50 years in filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
-* [2025-03-06, 10:06:29](https://lobste.rs/s/fdga44/let_s_take_look_at_kip_932_queues_for_kafka) - [Let's Take a Look at... KIP-932: Queues for Kafka](https://www.morling.dev/blog/kip-932-queues-for-kafka/)
 * [2025-03-06, 09:57:03](https://lobste.rs/s/uc6sag/case_vanishing_cpu_linux_kernel) - [The case of the vanishing CPU: A Linux kernel debugging story](https://clickhouse.com/blog/a-case-of-the-vanishing-cpu-a-linux-kernel-debugging-story)
 * [2025-03-06, 08:08:08](https://lobste.rs/s/uaiivt/xdg_ninja_shell_script_which_checks_your) - [xdg-ninja: A shell script which checks your $HOME for unwanted files and directories](https://github.com/b3nj5m1n/xdg-ninja)
 * [2025-03-06, 01:32:56](https://lobste.rs/s/tondqc/is_it_true_what_they_say_lobsters_love) - [Is it true what they say: \"Lobsters love Guinness\"?](https://postimg.cc/phdVNwPz)
