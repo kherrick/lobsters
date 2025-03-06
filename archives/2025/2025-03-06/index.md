@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 17:22:01](https://lobste.rs/s/aln3cp/strobelight_profiling_service_built_on) - [Strobelight: A profiling service built on open source technology](https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/)
 * [2025-03-06, 17:12:08](https://lobste.rs/s/wccows/distributed_systems_without_raft_part_1) - [Distributed Systems without Raft (part 1)](https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee)
 * [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
 * [2025-03-06, 16:00:08](https://lobste.rs/s/dsx2hg/zant_project) - [The ZAnt Project](https://zigtinybook.github.io/Website/)
