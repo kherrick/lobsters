@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
 * [2025-03-06, 16:00:08](https://lobste.rs/s/dsx2hg/zant_project) - [The ZAnt Project](https://zigtinybook.github.io/Website/)
 * [2025-03-06, 15:54:26](https://lobste.rs/s/gj6ghr/we_re_fixing_edge_computing_introducing) - [We’re fixing Edge Computing: Introducing Magic Containers](https://bunny.net/blog/introducing-magic-containers-what-edge-computing-was-meant-to-be/)
 * [2025-03-06, 15:36:46](https://lobste.rs/s/vd2fxp/chat_bots_revisited) - [Chat Bots Revisited](https://blog.cofree.coffee/2025-03-05-chat-bots-revisited/)

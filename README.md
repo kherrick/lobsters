@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
 * [2025-03-06, 16:00:08](https://lobste.rs/s/dsx2hg/zant_project) - [The ZAnt Project](https://zigtinybook.github.io/Website/)
 * [2025-03-06, 15:54:26](https://lobste.rs/s/gj6ghr/we_re_fixing_edge_computing_introducing) - [We’re fixing Edge Computing: Introducing Magic Containers](https://bunny.net/blog/introducing-magic-containers-what-edge-computing-was-meant-to-be/)
 * [2025-03-06, 15:36:46](https://lobste.rs/s/vd2fxp/chat_bots_revisited) - [Chat Bots Revisited](https://blog.cofree.coffee/2025-03-05-chat-bots-revisited/)
@@ -20,7 +21,6 @@
 * [2025-03-05, 16:48:12](https://lobste.rs/s/ecmmix/defense_text_labels) - [In Defense of Text Labels](https://www.chrbutler.com/in-defense-of-text-labels)
 * [2025-03-05, 15:51:57](https://lobste.rs/s/gkawzq/happy_day_for_rust) - [A Happy Day for Rust](https://steveklabnik.com/writing/a-happy-day-for-rust/)
 * [2025-03-05, 15:26:03](https://lobste.rs/s/wjtlv8/basecamp_release_github_extension_for) - [Basecamp release Github extension for offline CI signoff](https://github.com/basecamp/gh-signoff)
-* [2025-03-05, 15:13:08](https://lobste.rs/s/gwcalu/dude_where_are_your_syscalls) - [dude, where are your syscalls?](https://flak.tedunangst.com/post/dude-where-are-your-syscalls)
 * [2025-03-05, 13:32:52](https://lobste.rs/s/0g0ulj/why_alias_is_my_last_resort_for_aliases) - [Why \"alias\" is my last resort for aliases](https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/)
 * [2025-03-05, 08:48:19](https://lobste.rs/s/7iu9ze/zig_0_14_0_release_notes) - [Zig 0.14.0 Release Notes](https://ziglang.org/download/0.14.0/release-notes.html)
 * [2025-03-04, 21:41:48](https://lobste.rs/s/igqzdo/tailscale_is_pretty_useful) - [Tailscale is pretty useful](https://blog.6nok.org/tailscale-is-pretty-useful/)
