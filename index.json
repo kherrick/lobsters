@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-06, 17:12:08",
+      "https://lobste.rs/s/wccows/distributed_systems_without_raft_part_1"
+    ],
+    [
+      "Distributed Systems without Raft (part 1)",
+      "https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 16:42:28",
       "https://lobste.rs/s/mltpfg/xit_is_coming"
     ],
@@ -237,16 +247,6 @@
     [
       "Tailscale is pretty useful",
       "https://blog.6nok.org/tailscale-is-pretty-useful/"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 20:36:10",
-      "https://lobste.rs/s/icz96h/hytradboi_2025_postmortem"
-    ],
-    [
-      "HYTRADBOI 2025 postmortem",
-      "https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/"
     ]
   ]
 ]
