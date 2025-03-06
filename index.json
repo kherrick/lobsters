@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-06, 19:03:06",
+      "https://lobste.rs/s/yaf7lp/from_unique_cleanups_weak_new_low_level"
+    ],
+    [
+      "From unique to cleanups and weak: new low-level tools for efficiency",
+      "https://go.dev/blog/cleanups-and-weak"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 18:48:17",
       "https://lobste.rs/s/ehiven/succinct_data_structures"
     ],
@@ -177,16 +187,6 @@
     [
       "What if we just didn’t decompress it?",
       "https://blog.spiraldb.com/what-if-we-just-didnt-decompress-it/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 17:42:09",
-      "https://lobste.rs/s/qnfuus/zen_art_microcode_hacking"
-    ],
-    [
-      "Zen and the Art of Microcode Hacking",
-      "https://bughunters.google.com/blog/5424842357473280/zen-and-the-art-of-microcode-hacking"
     ]
   ],
   [
