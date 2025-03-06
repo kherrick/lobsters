@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-06, 09:57:03",
+      "https://lobste.rs/s/uc6sag/case_vanishing_cpu_linux_kernel"
+    ],
+    [
+      "The case of the vanishing CPU: A Linux kernel debugging story",
+      "https://clickhouse.com/blog/a-case-of-the-vanishing-cpu-a-linux-kernel-debugging-story"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 08:08:08",
       "https://lobste.rs/s/uaiivt/xdg_ninja_shell_script_which_checks_your"
     ],
@@ -237,16 +247,6 @@
     [
       "HYTRADBOI 2025 postmortem",
       "https://www.scattered-thoughts.net/writing/hytradboi-2025-postmortem/"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 11:59:43",
-      "https://lobste.rs/s/b5buoi/tigerbeetle_architecture"
-    ],
-    [
-      "TigerBeetle Architecture",
-      "https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/internals/ARCHITECTURE.md"
     ]
   ]
 ]
