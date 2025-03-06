@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-06, 10:06:29",
+      "https://lobste.rs/s/fdga44/let_s_take_look_at_kip_932_queues_for_kafka"
+    ],
+    [
+      "Let's Take a Look at... KIP-932: Queues for Kafka",
+      "https://www.morling.dev/blog/kip-932-queues-for-kafka/"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 09:57:03",
       "https://lobste.rs/s/uc6sag/case_vanishing_cpu_linux_kernel"
     ],
@@ -217,16 +227,6 @@
     [
       "\"As Code\"",
       "https://mitchellh.com/writing/as-code"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 00:38:25",
-      "https://lobste.rs/s/i0c3bz/bayleaf_building_low_profile_wireless"
-    ],
-    [
-      "Bayleaf: Building a low-profile wireless split keyboard",
-      "https://www.graz.io/articles/bayleaf-wireless-keyboard"
     ]
   ],
   [
