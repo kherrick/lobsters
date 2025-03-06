@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-06, 20:47:12",
+      "https://lobste.rs/s/4u5ohs/2009_composing_j_my_mind"
+    ],
+    [
+      "(2009) Composing J in my mind",
+      "https://web.archive.org/web/20130921083348/http://kaleidic.com/2009/composing-j-in-my-mind/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 20:02:54",
+      "https://lobste.rs/s/pjbdph/systems_correctness_practices_at_aws"
+    ],
+    [
+      "Systems Correctness Practices at AWS: Leveraging Formal and Semi-formal Methods",
+      "https://dl.acm.org/doi/10.1145/3712057"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 19:03:06",
       "https://lobste.rs/s/yaf7lp/from_unique_cleanups_weak_new_low_level"
     ],
@@ -181,16 +201,6 @@
   ],
   [
     [
-      "2025-03-05, 18:25:35",
-      "https://lobste.rs/s/c5pgnx/what_if_we_just_didn_t_decompress_it"
-    ],
-    [
-      "What if we just didn’t decompress it?",
-      "https://blog.spiraldb.com/what-if-we-just-didnt-decompress-it/"
-    ]
-  ],
-  [
-    [
       "2025-03-05, 16:48:12",
       "https://lobste.rs/s/ecmmix/defense_text_labels"
     ],
@@ -237,16 +247,6 @@
     [
       "Zig 0.14.0 Release Notes",
       "https://ziglang.org/download/0.14.0/release-notes.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 21:41:48",
-      "https://lobste.rs/s/igqzdo/tailscale_is_pretty_useful"
-    ],
-    [
-      "Tailscale is pretty useful",
-      "https://blog.6nok.org/tailscale-is-pretty-useful/"
     ]
   ]
 ]
