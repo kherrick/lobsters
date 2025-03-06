@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-06, 01:32:56",
+      "https://lobste.rs/s/tondqc/is_it_true_what_they_say_lobsters_love"
+    ],
+    [
+      "Is it true what they say: \"Lobsters love Guinness\"?",
+      "https://postimg.cc/phdVNwPz"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 00:27:43",
+      "https://lobste.rs/s/vuba06/manage_ups_on_freebsd"
+    ],
+    [
+      "Manage UPS on FreeBSD",
+      "https://vermaden.wordpress.com/2025/03/06/ups-on-freebsd/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 00:13:40",
+      "https://lobste.rs/s/fsc8ki/determinate_nix_3_0"
+    ],
+    [
+      "Determinate Nix 3.0",
+      "https://determinate.systems/posts/determinate-nix-30/"
+    ]
+  ],
+  [
+    [
       "2025-03-05, 21:46:35",
       "https://lobste.rs/s/itcqle/good_memory_allocator_200_lines_code"
     ],
@@ -181,16 +211,6 @@
   ],
   [
     [
-      "2025-03-05, 03:12:50",
-      "https://lobste.rs/s/6645g0/netbsd_on_javastation"
-    ],
-    [
-      "NetBSD on a JavaStation",
-      "https://fatsquirrel.org/oldfartsalmanac/netbsd-on-a-javastation/"
-    ]
-  ],
-  [
-    [
       "2025-03-05, 00:38:25",
       "https://lobste.rs/s/i0c3bz/bayleaf_building_low_profile_wireless"
     ],
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-03-04, 21:05:42",
-      "https://lobste.rs/s/gp3ch3/why_fastdoom_is_fast"
-    ],
-    [
-      "Why fastDOOM is fast",
-      "https://fabiensanglard.net/fastdoom/index.html"
-    ]
-  ],
-  [
-    [
       "2025-03-04, 20:36:10",
       "https://lobste.rs/s/icz96h/hytradboi_2025_postmortem"
     ],
@@ -237,16 +247,6 @@
     [
       "TigerBeetle Architecture",
       "https://github.com/tigerbeetle/tigerbeetle/blob/main/docs/internals/ARCHITECTURE.md"
-    ]
-  ],
-  [
-    [
-      "2025-03-04, 11:48:07",
-      "https://lobste.rs/s/ifpjdh/avoid_nightmare_bicycle"
-    ],
-    [
-      "Avoid the nightmare bicycle",
-      "https://www.geoffreylitt.com/2025/03/03/the-nightmare-bicycle.html"
     ]
   ]
 ]
