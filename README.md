@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-06, 15:10:36](https://lobste.rs/s/30etvu/my_changes_default_phoenix_boilerplate) - [My changes to the default Phoenix boilerplate](https://mediremi.com/writing/phoenix-boilerplate/)
 * [2025-03-06, 14:29:18](https://lobste.rs/s/23uu1f/writing_oled_display_driver_microzig) - [Writing an OLED display driver in MicroZig (2024)](https://andrewconl.in/blog/2024/microzig-display-driver/)
 * [2025-03-06, 13:35:43](https://lobste.rs/s/z5moxa/testing_causality_scientific_modelling) - [Testing Causality in Scientific Modelling Software](https://export.arxiv.org/pdf/2209.00357v2.pdf)
 * [2025-03-06, 11:05:57](https://lobste.rs/s/yykwi5/50_years_filesystems_1984) - [50 years in filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
@@ -9,7 +10,6 @@
 * [2025-03-06, 01:32:56](https://lobste.rs/s/tondqc/is_it_true_what_they_say_lobsters_love) - [Is it true what they say: \"Lobsters love Guinness\"?](https://postimg.cc/phdVNwPz)
 * [2025-03-06, 00:13:40](https://lobste.rs/s/fsc8ki/determinate_nix_3_0) - [Determinate Nix 3.0](https://determinate.systems/posts/determinate-nix-30/)
 * [2025-03-05, 21:46:35](https://lobste.rs/s/itcqle/good_memory_allocator_200_lines_code) - [A good memory allocator in 200 lines of code](https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig)
-* [2025-03-05, 20:33:03](https://lobste.rs/s/fyxiao/pokemon_red_reinforcement_learning) - [Pokemon Red (Reinforcement Learning Edition)](https://drubinstein.github.io/pokerl/)
 * [2025-03-05, 20:19:48](https://lobste.rs/s/oegolv/git_without_forge) - [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
 * [2025-03-05, 19:38:29](https://lobste.rs/s/9dzgsp/take_break_rust_match_has_fallthrough) - [Take a break: Rust match has fallthrough](https://huonw.github.io/blog/2025/03/rust-fallthrough/)
 * [2025-03-05, 19:05:15](https://lobste.rs/s/j4x4bi/constantly_divisionless_random_numbers) - [constantly divisionless random numbers](https://dotat.at/@/2025-03-05-lemire-inline.html)
