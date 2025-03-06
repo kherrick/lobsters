@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-06, 14:29:18](https://lobste.rs/s/23uu1f/writing_oled_display_driver_microzig) - [Writing an OLED display driver in MicroZig](https://andrewconl.in/blog/2024/microzig-display-driver/)
+* [2025-03-06, 14:29:18](https://lobste.rs/s/23uu1f/writing_oled_display_driver_microzig) - [Writing an OLED display driver in MicroZig (2024)](https://andrewconl.in/blog/2024/microzig-display-driver/)
 * [2025-03-06, 13:35:43](https://lobste.rs/s/z5moxa/testing_causality_scientific_modelling) - [Testing Causality in Scientific Modelling Software](https://export.arxiv.org/pdf/2209.00357v2.pdf)
 * [2025-03-06, 11:05:57](https://lobste.rs/s/yykwi5/50_years_filesystems_1984) - [50 years in filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2025-03-06, 10:06:29](https://lobste.rs/s/fdga44/let_s_take_look_at_kip_932_queues_for_kafka) - [Let's Take a Look at... KIP-932: Queues for Kafka](https://www.morling.dev/blog/kip-932-queues-for-kafka/)
