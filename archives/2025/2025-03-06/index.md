@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 13:35:43](https://lobste.rs/s/z5moxa/testing_causality_scientific_modelling) - [Testing Causality in Scientific Modelling Software](https://export.arxiv.org/pdf/2209.00357v2.pdf)
 * [2025-03-06, 11:05:57](https://lobste.rs/s/yykwi5/50_years_filesystems_1984) - [50 years in filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2025-03-06, 10:06:29](https://lobste.rs/s/fdga44/let_s_take_look_at_kip_932_queues_for_kafka) - [Let's Take a Look at... KIP-932: Queues for Kafka](https://www.morling.dev/blog/kip-932-queues-for-kafka/)
 * [2025-03-06, 09:57:03](https://lobste.rs/s/uc6sag/case_vanishing_cpu_linux_kernel) - [The case of the vanishing CPU: A Linux kernel debugging story](https://clickhouse.com/blog/a-case-of-the-vanishing-cpu-a-linux-kernel-debugging-story)
