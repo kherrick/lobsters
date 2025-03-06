@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-06, 18:06:43",
+      "https://lobste.rs/s/id5i6e/b_not_b_b_trees_with_optimistic_lock"
+    ],
+    [
+      "To B or not to B: B-Trees with Optimistic Lock Coupling",
+      "https://cedardb.com/blog/optimistic_btrees/"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 17:22:01",
       "https://lobste.rs/s/aln3cp/strobelight_profiling_service_built_on"
     ],
@@ -87,16 +97,6 @@
     [
       "50 years in filesystems: 1984",
       "https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 10:06:29",
-      "https://lobste.rs/s/fdga44/let_s_take_look_at_kip_932_queues_for_kafka"
-    ],
-    [
-      "Let's Take a Look at... KIP-932: Queues for Kafka",
-      "https://www.morling.dev/blog/kip-932-queues-for-kafka/"
     ]
   ],
   [
