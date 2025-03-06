@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-06, 18:06:43",
-      "https://lobste.rs/s/id5i6e/b_not_b_b_trees_with_optimistic_lock"
+      "2025-03-06, 18:48:17",
+      "https://lobste.rs/s/ehiven/succinct_data_structures"
     ],
     [
-      "To B or not to B: B-Trees with Optimistic Lock Coupling",
-      "https://cedardb.com/blog/optimistic_btrees/"
+      "Succinct data structures",
+      "https://blog.startifact.com/posts/succinct/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 18:44:08",
+      "https://lobste.rs/s/9oetiu/types_as_design_tool"
+    ],
+    [
+      "Types as a design tool",
+      "https://interjectedfuture.com/types-as-a-design-tool/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Git without a forge",
       "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 19:38:29",
-      "https://lobste.rs/s/9dzgsp/take_break_rust_match_has_fallthrough"
-    ],
-    [
-      "Take a break: Rust match has fallthrough",
-      "https://huonw.github.io/blog/2025/03/rust-fallthrough/"
     ]
   ],
   [
