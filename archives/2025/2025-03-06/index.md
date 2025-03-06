@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-06](index.md)
 
+* [2025-03-06, 19:03:06](https://lobste.rs/s/yaf7lp/from_unique_cleanups_weak_new_low_level) - [From unique to cleanups and weak: new low-level tools for efficiency](https://go.dev/blog/cleanups-and-weak)
 * [2025-03-06, 18:48:17](https://lobste.rs/s/ehiven/succinct_data_structures) - [Succinct data structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 18:44:08](https://lobste.rs/s/9oetiu/types_as_design_tool) - [Types as a design tool](https://interjectedfuture.com/types-as-a-design-tool/)
 * [2025-03-06, 18:06:43](https://lobste.rs/s/id5i6e/b_not_b_b_trees_with_optimistic_lock) - [To B or not to B: B-Trees with Optimistic Lock Coupling](https://cedardb.com/blog/optimistic_btrees/)
