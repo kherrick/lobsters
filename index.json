@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-06, 14:29:18",
+      "https://lobste.rs/s/23uu1f/writing_oled_display_driver_microzig"
+    ],
+    [
+      "Writing an OLED display driver in MicroZig",
+      "https://andrewconl.in/blog/2024/microzig-display-driver/"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 13:35:43",
       "https://lobste.rs/s/z5moxa/testing_causality_scientific_modelling"
     ],
@@ -197,16 +207,6 @@
     [
       "Why \"alias\" is my last resort for aliases",
       "https://evanhahn.com/why-alias-is-my-last-resort-for-aliases/"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 09:13:29",
-      "https://lobste.rs/s/qjsefo/bad_apple_it_s_ssh_keys"
-    ],
-    [
-      "bad apple but it's ssh keys",
-      "https://www.5snb.club/posts/2025/bad-apple-but-its-ssh-keys/"
     ]
   ],
   [
