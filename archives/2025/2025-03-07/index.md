@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 18:07:30](https://lobste.rs/s/pq2o3i/how_distrust_ca_without_any_certificate) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
 * [2025-03-07, 17:41:30](https://lobste.rs/s/52o5hc/astronvim_aesthetically_pleasing) - [AstroNvim, an aesthetically pleasing and feature-rich Neovim config](https://docs.astronvim.com/)
 * [2025-03-07, 14:45:54](https://lobste.rs/s/q6zn75/creating_static_map_images_with) - [Creating static map images with OpenStreetMap, Web Mercator, and Pillow](https://alexwlchan.net/2025/static-maps/)
 * [2025-03-07, 14:38:26](https://lobste.rs/s/su44v6/balatro_timeline) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
