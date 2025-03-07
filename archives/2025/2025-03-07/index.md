@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 12:30:24](https://lobste.rs/s/ln3dxv/else_considered_smelly) - [Else Considered Smelly](https://wiki.c2.com/?ElseConsideredSmelly)
+* [2025-03-07, 12:28:12](https://lobste.rs/s/npsr34/pick_wrong_tool_for_job) - [Pick the wrong tool for the job](https://terminalwire.com/articles/wrong-tool)
 * [2025-03-07, 11:52:35](https://lobste.rs/s/99mmi2/oss_maintainers_what_s_most_audacious) - [OSS maintainers: what’s the most audacious work a company has ever asked you to do for free?](https://hachyderm.io/@hazelweakly/114112956589304873)
 * [2025-03-07, 11:45:52](https://lobste.rs/s/igy5os/great_software_design_looks) - [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/)
 * [2025-03-07, 11:44:13](https://lobste.rs/s/kacsw3/landscape_lisp) - [The Landscape of Lisp](https://churchofturing.github.io/landscapeoflisp.html)
