@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-07, 11:32:53](https://lobste.rs/s/zlistw/css_form_control_styling_level_1) - [CSS Form Control Styling Level 1](https://drafts.csswg.org/css-forms-1)
 * [2025-03-07, 11:22:43](https://lobste.rs/s/8pk7n3/zig_s_dot_star_syntax_value) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-07, 10:44:04](https://lobste.rs/s/n8qa9j/noir_programming_language) - [Noir programming language](https://noir-lang.org/)
 * [2025-03-07, 10:38:29](https://lobste.rs/s/fieewa/ultimate_thinkpad_x230) - [The \"ultimate\" Thinkpad X230](https://calbryant.uk/blog/the-ultimate-thinkpad-x230/#working-boot-splash-image-done)
@@ -19,7 +20,6 @@
 * [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
 * [2025-03-06, 15:10:36](https://lobste.rs/s/30etvu/my_changes_default_phoenix_boilerplate) - [My changes to the default Phoenix boilerplate](https://mediremi.com/writing/phoenix-boilerplate/)
 * [2025-03-06, 14:29:18](https://lobste.rs/s/23uu1f/writing_oled_display_driver_microzig) - [Writing an OLED display driver in MicroZig (2024)](https://andrewconl.in/blog/2024/microzig-display-driver/)
-* [2025-03-06, 11:05:57](https://lobste.rs/s/yykwi5/50_years_filesystems_1984) - [50 years in filesystems: 1984](https://blog.koehntopp.info/2023/05/06/50-years-in-filesystems-1984.html)
 * [2025-03-06, 08:08:08](https://lobste.rs/s/uaiivt/xdg_ninja_shell_script_which_checks_your) - [xdg-ninja: A shell script which checks your $HOME for unwanted files and directories](https://github.com/b3nj5m1n/xdg-ninja)
 * [2025-03-06, 01:32:56](https://lobste.rs/s/tondqc/is_it_true_what_they_say_lobsters_love) - [Is it true what they say: \"Lobsters love Guinness\"?](https://postimg.cc/phdVNwPz)
 * [2025-03-05, 21:46:35](https://lobste.rs/s/itcqle/good_memory_allocator_200_lines_code) - [A good memory allocator in 200 lines of code](https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig)
