@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-07, 14:45:54](https://lobste.rs/s/q6zn75/creating_static_map_images_with) - [Creating static map images with OpenStreetMap, Web Mercator, and Pillow](https://alexwlchan.net/2025/static-maps/)
 * [2025-03-07, 14:38:26](https://lobste.rs/s/su44v6/balatro_timeline) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
 * [2025-03-07, 14:22:42](https://lobste.rs/s/rtmte0/balancing_costs_count_ux) - [Balancing the costs of count(*) and UX](https://frappe.io/blog/engineering/balancing-the-costs-of-count-and-ux)
 * [2025-03-07, 13:36:59](https://lobste.rs/s/xrw9nn/why_is_redoxos_adding_support_for_dynamic) - [Why is RedoxOS adding support for dynamic linking? Didn't Ritchie and Thompson decide it was a mistake and omit it from Plan 9?](https://www.redox-os.org/news/this-month-250228/)
@@ -17,7 +18,6 @@
 * [2025-03-07, 03:14:43](https://lobste.rs/s/nx7trg/ten_machine_requirements_satisfy) - [Ten Machine Requirements To Satisfy Essentials Of Joint Activity](https://human-machine.team/)
 * [2025-03-07, 01:20:56](https://lobste.rs/s/b7gvbq/algebraic_effects_are_functional) - [Algebraic effects are a functional approach to manage side effects](https://crowdhailer.me/2025-02-14/algebraic-effects-are-a-functional-approach-to-manage-side-effects/)
 * [2025-03-06, 23:36:51](https://lobste.rs/s/4winzr/five_years_home_cooked_apps) - [Five years of home-cooked apps](https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/)
-* [2025-03-06, 22:00:42](https://lobste.rs/s/epcfq7/prolly_trees) - [Prolly Trees](https://docs.dolthub.com/architecture/storage-engine/prolly-tree)
 * [2025-03-06, 20:47:12](https://lobste.rs/s/4u5ohs/2009_composing_j_my_mind) - [(2009) Composing J in my mind](https://web.archive.org/web/20130921083348/http://kaleidic.com/2009/composing-j-in-my-mind/)
 * [2025-03-06, 18:48:17](https://lobste.rs/s/ehiven/succinct_data_structures) - [Succinct data structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
