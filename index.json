@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-03-07, 14:45:54",
-      "https://lobste.rs/s/q6zn75/creating_static_map_images_with"
-    ],
-    [
-      "Creating static map images with OpenStreetMap, Web Mercator, and Pillow",
-      "https://alexwlchan.net/2025/static-maps/"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 14:38:26",
       "https://lobste.rs/s/su44v6/balatro_timeline"
     ],
@@ -177,6 +167,16 @@
     [
       "Five years of home-cooked apps",
       "https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/"
+    ]
+  ],
+  [
+    [
+      "2025-03-06, 22:00:42",
+      "https://lobste.rs/s/epcfq7/prolly_trees"
+    ],
+    [
+      "Prolly Trees",
+      "https://docs.dolthub.com/architecture/storage-engine/prolly-tree"
     ]
   ],
   [
