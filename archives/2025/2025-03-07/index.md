@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
 * [2025-03-07, 06:20:52](https://lobste.rs/s/slnjg7/gsm8k_platinum_revealing_performance) - [GSM8K-Platinum: Revealing Performance Gaps in Frontier LLMs](https://gradientscience.org/gsm8k-platinum/)
+* [2025-03-07, 05:33:38](https://lobste.rs/s/5pceqb/delta_chat_messenger_which_is_cross) - [Delta Chat: A Messenger which is cross compatible with email and PGP](https://delta.chat/en/help)
 * [2025-03-07, 05:33:38](https://lobste.rs/s/5pceqb/delta_chat_messenger_which_is_cross) - [Delta Chat: A Messenger which is cross compatible with email and PGP](https://delta.chat/en/help#how-can-i-use-audiovideo-calls-with-delta-chat)
 * [2025-03-07, 04:58:09](https://lobste.rs/s/mfysmn/opsgenie_is_reaching_its_end_life_soon) - [Opsgenie is reaching its end of life soon](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
 * [2025-03-07, 03:14:43](https://lobste.rs/s/nx7trg/ten_machine_requirements_satisfy) - [Ten Machine Requirements To Satisfy Essentials Of Joint Activity](https://human-machine.team/)
