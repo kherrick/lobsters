@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 11:22:43](https://lobste.rs/s/8pk7n3/zig_s_dot_star_syntax_value) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-07, 10:44:04](https://lobste.rs/s/n8qa9j/noir_programming_language) - [Noir programming language](https://noir-lang.org/)
 * [2025-03-07, 10:38:29](https://lobste.rs/s/fieewa/ultimate_thinkpad_x230) - [The \"ultimate\" Thinkpad X230](https://calbryant.uk/blog/the-ultimate-thinkpad-x230/#working-boot-splash-image-done)
 * [2025-03-07, 10:16:25](https://lobste.rs/s/jxy1fj/einstein_ai_model_why_ai_won_t_bring) - [The Einstein AI model (why AI won't bring a \"compressed 21st century\")](https://thomwolf.io/blog/scientific-ai.html)

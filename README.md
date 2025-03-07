@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-07, 11:22:43](https://lobste.rs/s/8pk7n3/zig_s_dot_star_syntax_value) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-07, 10:44:04](https://lobste.rs/s/n8qa9j/noir_programming_language) - [Noir programming language](https://noir-lang.org/)
 * [2025-03-07, 10:38:29](https://lobste.rs/s/fieewa/ultimate_thinkpad_x230) - [The \"ultimate\" Thinkpad X230](https://calbryant.uk/blog/the-ultimate-thinkpad-x230/#working-boot-splash-image-done)
 * [2025-03-07, 10:16:25](https://lobste.rs/s/jxy1fj/einstein_ai_model_why_ai_won_t_bring) - [The Einstein AI model (why AI won't bring a \"compressed 21st century\")](https://thomwolf.io/blog/scientific-ai.html)
@@ -12,7 +13,6 @@
 * [2025-03-06, 23:36:51](https://lobste.rs/s/4winzr/five_years_home_cooked_apps) - [Five years of home-cooked apps](https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/)
 * [2025-03-06, 22:00:42](https://lobste.rs/s/epcfq7/prolly_trees) - [Prolly Trees](https://docs.dolthub.com/architecture/storage-engine/prolly-tree)
 * [2025-03-06, 20:47:12](https://lobste.rs/s/4u5ohs/2009_composing_j_my_mind) - [(2009) Composing J in my mind](https://web.archive.org/web/20130921083348/http://kaleidic.com/2009/composing-j-in-my-mind/)
-* [2025-03-06, 20:02:54](https://lobste.rs/s/pjbdph/systems_correctness_practices_at_aws) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-formal Methods](https://dl.acm.org/doi/10.1145/3712057)
 * [2025-03-06, 18:48:17](https://lobste.rs/s/ehiven/succinct_data_structures) - [Succinct data structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 18:44:08](https://lobste.rs/s/9oetiu/types_as_design_tool) - [Types as a design tool](https://interjectedfuture.com/types-as-a-design-tool/)
 * [2025-03-06, 17:12:08](https://lobste.rs/s/wccows/distributed_systems_without_raft_part_1) - [Distributed Systems without Raft (part 1)](https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee)
