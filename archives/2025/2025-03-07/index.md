@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 13:28:59](https://lobste.rs/s/q7ujau/qt_6_for_c_zig) - [Qt 6 for C & Zig](https://gist.github.com/rcalixte/339ede66703a988760829ecde2dc2c88)
+* [2025-03-07, 13:10:39](https://lobste.rs/s/yhavca/why_local_first_software_is_future_its) - [Why Local-First Software Is the Future and its Limitations](https://rxdb.info/articles/local-first-future.html)
 * [2025-03-07, 12:30:24](https://lobste.rs/s/ln3dxv/else_considered_smelly) - [Else Considered Smelly](https://wiki.c2.com/?ElseConsideredSmelly)
 * [2025-03-07, 12:28:12](https://lobste.rs/s/npsr34/pick_wrong_tool_for_job) - [Pick the wrong tool for the job](https://terminalwire.com/articles/wrong-tool)
 * [2025-03-07, 11:52:35](https://lobste.rs/s/99mmi2/oss_maintainers_what_s_most_audacious) - [OSS maintainers: what’s the most audacious work a company has ever asked you to do for free?](https://hachyderm.io/@hazelweakly/114112956589304873)

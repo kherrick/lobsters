@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-07, 13:28:59](https://lobste.rs/s/q7ujau/qt_6_for_c_zig) - [Qt 6 for C & Zig](https://gist.github.com/rcalixte/339ede66703a988760829ecde2dc2c88)
+* [2025-03-07, 13:10:39](https://lobste.rs/s/yhavca/why_local_first_software_is_future_its) - [Why Local-First Software Is the Future and its Limitations](https://rxdb.info/articles/local-first-future.html)
 * [2025-03-07, 12:30:24](https://lobste.rs/s/ln3dxv/else_considered_smelly) - [Else Considered Smelly](https://wiki.c2.com/?ElseConsideredSmelly)
-* [2025-03-07, 12:28:12](https://lobste.rs/s/npsr34/pick_wrong_tool_for_job) - [Pick the wrong tool for the job](https://terminalwire.com/articles/wrong-tool)
 * [2025-03-07, 11:52:35](https://lobste.rs/s/99mmi2/oss_maintainers_what_s_most_audacious) - [OSS maintainers: what’s the most audacious work a company has ever asked you to do for free?](https://hachyderm.io/@hazelweakly/114112956589304873)
 * [2025-03-07, 11:44:13](https://lobste.rs/s/kacsw3/landscape_lisp) - [The Landscape of Lisp](https://churchofturing.github.io/landscapeoflisp.html)
 * [2025-03-07, 11:22:43](https://lobste.rs/s/8pk7n3/zig_s_dot_star_syntax_value) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
@@ -16,7 +17,6 @@
 * [2025-03-06, 22:00:42](https://lobste.rs/s/epcfq7/prolly_trees) - [Prolly Trees](https://docs.dolthub.com/architecture/storage-engine/prolly-tree)
 * [2025-03-06, 20:47:12](https://lobste.rs/s/4u5ohs/2009_composing_j_my_mind) - [(2009) Composing J in my mind](https://web.archive.org/web/20130921083348/http://kaleidic.com/2009/composing-j-in-my-mind/)
 * [2025-03-06, 18:48:17](https://lobste.rs/s/ehiven/succinct_data_structures) - [Succinct data structures](https://blog.startifact.com/posts/succinct/)
-* [2025-03-06, 18:44:08](https://lobste.rs/s/9oetiu/types_as_design_tool) - [Types as a design tool](https://interjectedfuture.com/types-as-a-design-tool/)
 * [2025-03-06, 17:12:08](https://lobste.rs/s/wccows/distributed_systems_without_raft_part_1) - [Distributed Systems without Raft (part 1)](https://david-delassus.medium.com/distributed-systems-without-raft-part-1-a6b0b43db7ee)
 * [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
 * [2025-03-06, 15:10:36](https://lobste.rs/s/30etvu/my_changes_default_phoenix_boilerplate) - [My changes to the default Phoenix boilerplate](https://mediremi.com/writing/phoenix-boilerplate/)
