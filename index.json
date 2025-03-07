@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-07, 11:22:43",
+      "https://lobste.rs/s/8pk7n3/zig_s_dot_star_syntax_value"
+    ],
+    [
+      "Zig's dot star syntax (value.*)",
+      "https://www.openmymind.net/Zig-Dot-Star-Syntax/"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 10:44:04",
       "https://lobste.rs/s/n8qa9j/noir_programming_language"
     ],
@@ -117,16 +127,6 @@
     [
       "(2009) Composing J in my mind",
       "https://web.archive.org/web/20130921083348/http://kaleidic.com/2009/composing-j-in-my-mind/"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 20:02:54",
-      "https://lobste.rs/s/pjbdph/systems_correctness_practices_at_aws"
-    ],
-    [
-      "Systems Correctness Practices at AWS: Leveraging Formal and Semi-formal Methods",
-      "https://dl.acm.org/doi/10.1145/3712057"
     ]
   ],
   [
