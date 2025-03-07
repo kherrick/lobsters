@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-07, 04:58:09",
+      "https://lobste.rs/s/mfysmn/opsgenie_is_reaching_its_end_life_soon"
+    ],
+    [
+      "Opsgenie is reaching its end of life soon",
+      "https://www.atlassian.com/blog/announcements/evolution-of-it-operations"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 03:14:43",
       "https://lobste.rs/s/nx7trg/ten_machine_requirements_satisfy"
     ],
@@ -57,16 +67,6 @@
     [
       "Systems Correctness Practices at AWS: Leveraging Formal and Semi-formal Methods",
       "https://dl.acm.org/doi/10.1145/3712057"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 19:03:06",
-      "https://lobste.rs/s/yaf7lp/from_unique_cleanups_weak_new_low_level"
-    ],
-    [
-      "From unique to cleanups and weak: new low-level tools for efficiency",
-      "https://go.dev/blog/cleanups-and-weak"
     ]
   ],
   [
