@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-07, 20:11:20](https://lobste.rs/s/ambxwc/how_get_common_lisp_job_2055) - [How To Get A Common Lisp Job In 2055](https://sebastiancarlos.medium.com/common-lisp-in-2055-f3debf4df01c)
 * [2025-03-07, 19:00:32](https://lobste.rs/s/tff49a/javascript_best_practice_use_return) - [JavaScript best practice: use return await](https://advancedweb.hu/shorts/javascript-best-practice-use-return-await/)
 * [2025-03-07, 18:27:31](https://lobste.rs/s/ssvr4r/apple_has_90_days_allow_app_sideloading) - [Apple has 90 days to allow app sideloading in Brazil](https://www.theverge.com/news/625753/apple-ios-alternative-app-stores-sideloading-brazil)
 * [2025-03-07, 18:07:30](https://lobste.rs/s/pq2o3i/how_distrust_ca_without_any_certificate) - [How to distrust a CA without any certificate errors](https://dadrian.io/blog/posts/sct-not-after/)
@@ -18,7 +19,6 @@
 * [2025-03-07, 10:16:25](https://lobste.rs/s/jxy1fj/einstein_ai_model_why_ai_won_t_bring) - [The Einstein AI model (why AI won't bring a \"compressed 21st century\")](https://thomwolf.io/blog/scientific-ai.html)
 * [2025-03-07, 05:33:38](https://lobste.rs/s/5pceqb/delta_chat_messenger_which_is_cross) - [Delta Chat: A Messenger which is cross compatible with email and PGP](https://delta.chat/en/help)
 * [2025-03-07, 03:14:43](https://lobste.rs/s/nx7trg/ten_machine_requirements_satisfy) - [Ten Machine Requirements To Satisfy Essentials Of Joint Activity](https://human-machine.team/)
-* [2025-03-07, 01:20:56](https://lobste.rs/s/b7gvbq/algebraic_effects_are_functional) - [Algebraic effects are a functional approach to manage side effects](https://crowdhailer.me/2025-02-14/algebraic-effects-are-a-functional-approach-to-manage-side-effects/)
 * [2025-03-06, 23:36:51](https://lobste.rs/s/4winzr/five_years_home_cooked_apps) - [Five years of home-cooked apps](https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/)
 * [2025-03-06, 18:48:17](https://lobste.rs/s/ehiven/succinct_data_structures) - [Succinct data structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
