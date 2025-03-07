@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 14:38:26](https://lobste.rs/s/su44v6/balatro_timeline) - [The Balatro Timeline](https://localthunk.com/blog/balatro-timeline-3aarh)
 * [2025-03-07, 14:22:42](https://lobste.rs/s/rtmte0/balancing_costs_count_ux) - [Balancing the costs of count(*) and UX](https://frappe.io/blog/engineering/balancing-the-costs-of-count-and-ux)
 * [2025-03-07, 13:36:59](https://lobste.rs/s/xrw9nn/why_is_redoxos_adding_support_for_dynamic) - [Why is RedoxOS adding support for dynamic linking? Didn't Ritchie and Thompson decide it was a mistake and omit it from Plan 9?](https://www.redox-os.org/news/this-month-250228/)
 * [2025-03-07, 13:35:09](https://lobste.rs/s/usdefp/how_write_useful_commit_messages) - [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/)
