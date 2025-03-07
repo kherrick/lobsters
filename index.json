@@ -81,6 +81,16 @@
   ],
   [
     [
+      "2025-03-07, 01:20:56",
+      "https://lobste.rs/s/b7gvbq/algebraic_effects_are_functional"
+    ],
+    [
+      "Algebraic effects are a functional approach to manage side effects",
+      "https://crowdhailer.me/2025-02-14/algebraic-effects-are-a-functional-approach-to-manage-side-effects/"
+    ]
+  ],
+  [
+    [
       "2025-03-06, 23:36:51",
       "https://lobste.rs/s/4winzr/five_years_home_cooked_apps"
     ],
@@ -137,16 +147,6 @@
     [
       "Types as a design tool",
       "https://interjectedfuture.com/types-as-a-design-tool/"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 17:22:01",
-      "https://lobste.rs/s/aln3cp/strobelight_profiling_service_built_on"
-    ],
-    [
-      "Strobelight: A profiling service built on open source technology",
-      "https://engineering.fb.com/2025/01/21/production-engineering/strobelight-a-profiling-service-built-on-open-source-technology/"
     ]
   ],
   [
