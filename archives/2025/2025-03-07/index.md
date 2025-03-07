@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 11:45:52](https://lobste.rs/s/igy5os/great_software_design_looks) - [Great software design looks underwhelming](https://www.seangoedecke.com/great-software-design/)
+* [2025-03-07, 11:44:13](https://lobste.rs/s/kacsw3/landscape_lisp) - [The Landscape of Lisp](https://churchofturing.github.io/landscapeoflisp.html)
 * [2025-03-07, 11:32:53](https://lobste.rs/s/zlistw/css_form_control_styling_level_1) - [CSS Form Control Styling Level 1](https://drafts.csswg.org/css-forms-1)
 * [2025-03-07, 11:22:43](https://lobste.rs/s/8pk7n3/zig_s_dot_star_syntax_value) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-07, 10:44:04](https://lobste.rs/s/n8qa9j/noir_programming_language) - [Noir programming language](https://noir-lang.org/)
