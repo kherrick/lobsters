@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-07, 10:09:21](https://lobste.rs/s/jpgdon/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/jpgdon/what_are_you_doing_this_weekend)
 * [2025-03-07, 06:20:52](https://lobste.rs/s/slnjg7/gsm8k_platinum_revealing_performance) - [GSM8K-Platinum: Revealing Performance Gaps in Frontier LLMs](https://gradientscience.org/gsm8k-platinum/)
 * [2025-03-07, 05:33:38](https://lobste.rs/s/5pceqb/delta_chat_messenger_which_is_cross) - [Delta Chat: A Messenger which is cross compatible with email and PGP](https://delta.chat/en/help)
 * [2025-03-07, 04:58:09](https://lobste.rs/s/mfysmn/opsgenie_is_reaching_its_end_life_soon) - [Opsgenie is reaching its end of life soon](https://www.atlassian.com/blog/announcements/evolution-of-it-operations)
@@ -24,7 +25,6 @@
 * [2025-03-05, 21:46:35](https://lobste.rs/s/itcqle/good_memory_allocator_200_lines_code) - [A good memory allocator in 200 lines of code](https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig)
 * [2025-03-05, 20:19:48](https://lobste.rs/s/oegolv/git_without_forge) - [Git without a forge](https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/)
 * [2025-03-05, 15:51:57](https://lobste.rs/s/gkawzq/happy_day_for_rust) - [A Happy Day for Rust](https://steveklabnik.com/writing/a-happy-day-for-rust/)
-* [2025-03-05, 08:48:19](https://lobste.rs/s/7iu9ze/zig_0_14_0_release_notes) - [Zig 0.14.0 Release Notes](https://ziglang.org/download/0.14.0/release-notes.html)
 
 ## [Archives](archives/index.md)
 
