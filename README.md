@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-07, 23:18:50](https://lobste.rs/s/nzfyoa/why_do_i_find_rust_inadequate_for_text) - [Why do I find Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
+* [2025-03-07, 23:08:01](https://lobste.rs/s/mpvjj8/standards_for_ansi_escape_codes) - [Standards for ANSI escape codes](https://jvns.ca/blog/2025/03/07/escape-code-standards/)
 * [2025-03-07, 22:12:12](https://lobste.rs/s/yd8qin/improving_your_development_cycle_with) - [Improving Your Development Cycle with REPLs](https://dick.codes/2025/03/07/improving-your-development-cycle-with-repls.html)
 * [2025-03-07, 20:37:14](https://lobste.rs/s/wfxu5j/vtm_text_based_desktop_environment) - [vtm: Text-based desktop environment](https://github.com/directvt/vtm)
 * [2025-03-07, 20:11:20](https://lobste.rs/s/ambxwc/how_get_common_lisp_job_2055) - [How To Get A Common Lisp Job In 2055](https://sebastiancarlos.medium.com/common-lisp-in-2055-f3debf4df01c)
@@ -23,8 +25,6 @@
 * [2025-03-06, 23:36:51](https://lobste.rs/s/4winzr/five_years_home_cooked_apps) - [Five years of home-cooked apps](https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/)
 * [2025-03-06, 18:48:17](https://lobste.rs/s/ehiven/succinct_data_structures) - [Succinct data structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
-* [2025-03-06, 01:32:56](https://lobste.rs/s/tondqc/is_it_true_what_they_say_lobsters_love) - [Is it true what they say: \"Lobsters love Guinness\"?](https://postimg.cc/phdVNwPz)
-* [2025-03-05, 21:46:35](https://lobste.rs/s/itcqle/good_memory_allocator_200_lines_code) - [A good memory allocator in 200 lines of code](https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig)
 
 ## [Archives](archives/index.md)
 
