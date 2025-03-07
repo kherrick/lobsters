@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-07, 23:18:50",
+      "https://lobste.rs/s/nzfyoa/why_do_i_find_rust_inadequate_for_text"
+    ],
+    [
+      "Why do I find Rust inadequate for text compression codecs?",
+      "https://palaiologos.rocks/posts/rust-codecs/"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 23:08:01",
+      "https://lobste.rs/s/mpvjj8/standards_for_ansi_escape_codes"
+    ],
+    [
+      "Standards for ANSI escape codes",
+      "https://jvns.ca/blog/2025/03/07/escape-code-standards/"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 22:12:12",
       "https://lobste.rs/s/yd8qin/improving_your_development_cycle_with"
     ],
@@ -227,26 +247,6 @@
     [
       "xit is coming",
       "https://radarroark.github.io/xit/xit-is-coming.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 01:32:56",
-      "https://lobste.rs/s/tondqc/is_it_true_what_they_say_lobsters_love"
-    ],
-    [
-      "Is it true what they say: \"Lobsters love Guinness\"?",
-      "https://postimg.cc/phdVNwPz"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 21:46:35",
-      "https://lobste.rs/s/itcqle/good_memory_allocator_200_lines_code"
-    ],
-    [
-      "A good memory allocator in 200 lines of code",
-      "https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig"
     ]
   ]
 ]
