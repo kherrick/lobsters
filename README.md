@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-03-07, 01:20:56](https://lobste.rs/s/b7gvbq/algebraic_effects_are_functional) - [Algebraic effects are a functional approach to manage side effects](https://crowdhailer.me/2025-02-14/algebraic-effects-are-a-functional-approach-to-manage-side-effects/)
-* [2025-03-07, 01:17:09](https://lobste.rs/s/3o7kfp/awesome_embedded_rust_curated_list) - [awesome-embedded-rust: Curated list of resources for Embedded and Low-level development in the Rust programming language](https://github.com/rust-embedded/awesome-embedded-rust)
 * [2025-03-06, 23:36:51](https://lobste.rs/s/4winzr/five_years_home_cooked_apps) - [Five years of home-cooked apps](https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/)
+* [2025-03-06, 22:00:42](https://lobste.rs/s/epcfq7/prolly_trees) - [Prolly Trees](https://docs.dolthub.com/architecture/storage-engine/prolly-tree)
 * [2025-03-06, 20:47:12](https://lobste.rs/s/4u5ohs/2009_composing_j_my_mind) - [(2009) Composing J in my mind](https://web.archive.org/web/20130921083348/http://kaleidic.com/2009/composing-j-in-my-mind/)
 * [2025-03-06, 20:02:54](https://lobste.rs/s/pjbdph/systems_correctness_practices_at_aws) - [Systems Correctness Practices at AWS: Leveraging Formal and Semi-formal Methods](https://dl.acm.org/doi/10.1145/3712057)
 * [2025-03-06, 19:03:06](https://lobste.rs/s/yaf7lp/from_unique_cleanups_weak_new_low_level) - [From unique to cleanups and weak: new low-level tools for efficiency](https://go.dev/blog/cleanups-and-weak)
