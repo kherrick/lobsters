@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-03-07, 12:30:24",
+      "https://lobste.rs/s/ln3dxv/else_considered_smelly"
+    ],
+    [
+      "Else Considered Smelly",
+      "https://wiki.c2.com/?ElseConsideredSmelly"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 11:52:35",
       "https://lobste.rs/s/99mmi2/oss_maintainers_what_s_most_audacious"
     ],
@@ -237,16 +247,6 @@
     [
       "A good memory allocator in 200 lines of code",
       "https://github.com/ziglang/zig/blob/0.14.0/lib/std/heap/SmpAllocator.zig"
-    ]
-  ],
-  [
-    [
-      "2025-03-05, 20:19:48",
-      "https://lobste.rs/s/oegolv/git_without_forge"
-    ],
-    [
-      "Git without a forge",
-      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/git-no-forge/"
     ]
   ]
 ]
