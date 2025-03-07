@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-07, 20:37:14](https://lobste.rs/s/wfxu5j/vtm_text_based_desktop_environment) - [vtm: Text-based desktop environment](https://github.com/directvt/vtm)
 * [2025-03-07, 20:11:20](https://lobste.rs/s/ambxwc/how_get_common_lisp_job_2055) - [How To Get A Common Lisp Job In 2055](https://sebastiancarlos.medium.com/common-lisp-in-2055-f3debf4df01c)
 * [2025-03-07, 19:00:32](https://lobste.rs/s/tff49a/javascript_best_practice_use_return) - [JavaScript best practice: use return await](https://advancedweb.hu/shorts/javascript-best-practice-use-return-await/)
 * [2025-03-07, 18:27:31](https://lobste.rs/s/ssvr4r/apple_has_90_days_allow_app_sideloading) - [Apple has 90 days to allow app sideloading in Brazil](https://www.theverge.com/news/625753/apple-ios-alternative-app-stores-sideloading-brazil)
@@ -9,7 +10,6 @@
 * [2025-03-07, 14:22:42](https://lobste.rs/s/rtmte0/balancing_costs_count_ux) - [Balancing the costs of count(*) and UX](https://frappe.io/blog/engineering/balancing-the-costs-of-count-and-ux)
 * [2025-03-07, 13:36:59](https://lobste.rs/s/xrw9nn/why_is_redoxos_adding_support_for_dynamic) - [Why is RedoxOS adding support for dynamic linking? Didn't Ritchie and Thompson decide it was a mistake and omit it from Plan 9?](https://www.redox-os.org/news/this-month-250228/)
 * [2025-03-07, 13:35:09](https://lobste.rs/s/usdefp/how_write_useful_commit_messages) - [How to Write Useful Commit Messages](https://refactoringenglish.com/chapters/commit-messages/)
-* [2025-03-07, 13:32:43](https://lobste.rs/s/f2nfhb/pre_java_1_0_oak_language_specifications) - [Pre Java 1.0: The Oak Language Specifications](https://javaalmanac.io/jdk/pre1.0/)
 * [2025-03-07, 13:28:59](https://lobste.rs/s/q7ujau/qt_6_for_c_zig) - [Qt 6 for C & Zig](https://gist.github.com/rcalixte/339ede66703a988760829ecde2dc2c88)
 * [2025-03-07, 13:10:39](https://lobste.rs/s/yhavca/why_local_first_software_is_future_its) - [Why Local-First Software Is the Future and its Limitations](https://rxdb.info/articles/local-first-future.html)
 * [2025-03-07, 11:52:35](https://lobste.rs/s/99mmi2/oss_maintainers_what_s_most_audacious) - [OSS maintainers: what’s the most audacious work a company has ever asked you to do for free?](https://hachyderm.io/@hazelweakly/114112956589304873)
