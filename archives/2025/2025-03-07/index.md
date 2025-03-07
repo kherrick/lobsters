@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-07](index.md)
 
+* [2025-03-07, 22:12:12](https://lobste.rs/s/yd8qin/improving_your_development_cycle_with) - [Improving Your Development Cycle with REPLs](https://dick.codes/2025/03/07/improving-your-development-cycle-with-repls.html)
 * [2025-03-07, 20:37:14](https://lobste.rs/s/wfxu5j/vtm_text_based_desktop_environment) - [vtm: Text-based desktop environment](https://github.com/directvt/vtm)
 * [2025-03-07, 20:11:20](https://lobste.rs/s/ambxwc/how_get_common_lisp_job_2055) - [How To Get A Common Lisp Job In 2055](https://sebastiancarlos.medium.com/common-lisp-in-2055-f3debf4df01c)
 * [2025-03-07, 19:00:32](https://lobste.rs/s/tff49a/javascript_best_practice_use_return) - [JavaScript best practice: use return await](https://advancedweb.hu/shorts/javascript-best-practice-use-return-await/)
