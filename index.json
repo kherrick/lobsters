@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-07, 11:52:35",
+      "https://lobste.rs/s/99mmi2/oss_maintainers_what_s_most_audacious"
+    ],
+    [
+      "OSS maintainers: what’s the most audacious work a company has ever asked you to do for free?",
+      "https://hachyderm.io/@hazelweakly/114112956589304873"
+    ]
+  ],
+  [
+    [
       "2025-03-07, 11:45:52",
       "https://lobste.rs/s/igy5os/great_software_design_looks"
     ],
@@ -41,22 +51,22 @@
   ],
   [
     [
-      "2025-03-07, 10:44:04",
-      "https://lobste.rs/s/n8qa9j/noir_programming_language"
-    ],
-    [
-      "Noir programming language",
-      "https://noir-lang.org/"
-    ]
-  ],
-  [
-    [
       "2025-03-07, 10:38:29",
       "https://lobste.rs/s/fieewa/ultimate_thinkpad_x230"
     ],
     [
       "The \"ultimate\" Thinkpad X230",
       "https://calbryant.uk/blog/the-ultimate-thinkpad-x230/#working-boot-splash-image-done"
+    ]
+  ],
+  [
+    [
+      "2025-03-07, 10:16:25",
+      "https://lobste.rs/s/jxy1fj/einstein_ai_model_why_ai_won_t_bring"
+    ],
+    [
+      "The Einstein AI model (why AI won't bring a \"compressed 21st century\")",
+      "https://thomwolf.io/blog/scientific-ai.html"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Writing an OLED display driver in MicroZig (2024)",
       "https://andrewconl.in/blog/2024/microzig-display-driver/"
-    ]
-  ],
-  [
-    [
-      "2025-03-06, 08:08:08",
-      "https://lobste.rs/s/uaiivt/xdg_ninja_shell_script_which_checks_your"
-    ],
-    [
-      "xdg-ninja: A shell script which checks your $HOME for unwanted files and directories",
-      "https://github.com/b3nj5m1n/xdg-ninja"
     ]
   ],
   [
