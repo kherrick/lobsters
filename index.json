@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-08, 20:12:03",
+      "https://lobste.rs/s/tgeknf/hot_height_optimized_trie_index_for_main"
+    ],
+    [
+      "HOT: A Height Optimized Trie Index for Main-Memory Database Systems",
+      "https://15721.courses.cs.cmu.edu/spring2019/papers/08-oltpindexes2/p521-binna.pdf"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 19:17:33",
       "https://lobste.rs/s/jcsfbx/program_is_database_is_interface"
     ],
@@ -197,16 +207,6 @@
     [
       "The Balatro Timeline",
       "https://localthunk.com/blog/balatro-timeline-3aarh"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 13:35:09",
-      "https://lobste.rs/s/usdefp/how_write_useful_commit_messages"
-    ],
-    [
-      "How to Write Useful Commit Messages",
-      "https://refactoringenglish.com/chapters/commit-messages/"
     ]
   ],
   [
