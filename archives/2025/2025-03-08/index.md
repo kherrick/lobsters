@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 18:21:52](https://lobste.rs/s/ndkdxd/new_build_tool_java) - [New build tool in Java](https://mccue.dev/pages/3-2-25-new-build-tool-in-java)
+* [2025-03-08, 18:13:35](https://lobste.rs/s/0twsmb/undocumented_backdoor_found_bluetooth) - [Undocumented \"backdoor\" found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [2025-03-08, 17:50:55](https://lobste.rs/s/snzosb/mad_computer_program) - [The MAD Computer Program](https://meatfighter.com/mad/)
 * [2025-03-08, 14:22:51](https://lobste.rs/s/o71upr/four_choices_for_packaging_ruby_binary) - [Four choices for packaging Ruby binary distributions: How Tebako was selected](https://terminalwire.com/articles/self-contained-ruby-binaries)
 * [2025-03-08, 14:22:16](https://lobste.rs/s/lrc6cm/wlroots_add_hdr10_support) - [wlroots: Add HDR10 support](https://gitlab.freedesktop.org/wlroots/wlroots/-/merge_requests/5002)
