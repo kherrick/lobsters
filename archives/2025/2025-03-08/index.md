@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 21:21:05](https://lobste.rs/s/uaw2fo/using_zig_from_common_lisp) - [Using Zig from Common Lisp](https://jagg.github.io/posts/lisp_zig/)
 * [2025-03-08, 20:12:03](https://lobste.rs/s/tgeknf/hot_height_optimized_trie_index_for_main) - [HOT: A Height Optimized Trie Index for Main-Memory Database Systems](https://15721.courses.cs.cmu.edu/spring2019/papers/08-oltpindexes2/p521-binna.pdf)
 * [2025-03-08, 19:17:33](https://lobste.rs/s/jcsfbx/program_is_database_is_interface) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
 * [2025-03-08, 18:21:52](https://lobste.rs/s/ndkdxd/new_build_tool_java) - [New build tool in Java](https://mccue.dev/pages/3-2-25-new-build-tool-in-java)
