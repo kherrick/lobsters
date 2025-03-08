@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 14:06:21](https://lobste.rs/s/bxujih/scunthorpe_problem) - [Scunthorpe problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 * [2025-03-08, 13:49:31](https://lobste.rs/s/1ugd0w/there_is_no_automatic_reset_for) - [There is No Automatic Reset for Engineering](http://agileotter.blogspot.com/2025/03/there-is-no-automatic-reset-in.html)
 * [2025-03-08, 13:38:17](https://lobste.rs/s/mamyha/refinement_rust_optimization) - [Refinement in Rust: optimization, arithmetic, and stateful predicates](https://jordankaye.dev/posts/refined_0_0_4/)
 * [2025-03-08, 13:27:37](https://lobste.rs/s/7wwmui/introducing_command_commandfor_html) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
