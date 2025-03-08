@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-08, 22:30:34",
+      "https://lobste.rs/s/4cktbm/socially_self_hosting_source_code_with"
+    ],
+    [
+      "Socially self-hosting source code with Tangled on Bluesky",
+      "https://anil.recoil.org/notes/disentangling-git-with-bluesky"
+    ]
+  ],
+  [
+    [
       "2025-03-08, 21:21:05",
       "https://lobste.rs/s/uaw2fo/using_zig_from_common_lisp"
     ],
@@ -237,16 +247,6 @@
     [
       "OSS maintainers: what’s the most audacious work a company has ever asked you to do for free?",
       "https://hachyderm.io/@hazelweakly/114112956589304873"
-    ]
-  ],
-  [
-    [
-      "2025-03-07, 11:44:13",
-      "https://lobste.rs/s/kacsw3/landscape_lisp"
-    ],
-    [
-      "The Landscape of Lisp",
-      "https://churchofturing.github.io/landscapeoflisp.html"
     ]
   ]
 ]
