@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-08, 22:30:34](https://lobste.rs/s/4cktbm/socially_self_hosting_source_code_with) - [Socially self-hosting source code with Tangled on Bluesky](https://anil.recoil.org/notes/disentangling-git-with-bluesky)
 * [2025-03-08, 21:21:05](https://lobste.rs/s/uaw2fo/using_zig_from_common_lisp) - [Using Zig from Common Lisp](https://jagg.github.io/posts/lisp_zig/)
 * [2025-03-08, 20:12:03](https://lobste.rs/s/tgeknf/hot_height_optimized_trie_index_for_main) - [HOT: A Height Optimized Trie Index for Main-Memory Database Systems](https://15721.courses.cs.cmu.edu/spring2019/papers/08-oltpindexes2/p521-binna.pdf)
 * [2025-03-08, 19:17:33](https://lobste.rs/s/jcsfbx/program_is_database_is_interface) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
@@ -24,7 +25,6 @@
 * [2025-03-07, 13:28:59](https://lobste.rs/s/q7ujau/qt_6_for_c_zig) - [Qt 6 for C & Zig](https://gist.github.com/rcalixte/339ede66703a988760829ecde2dc2c88)
 * [2025-03-07, 13:10:39](https://lobste.rs/s/yhavca/why_local_first_software_is_future_its) - [Why Local-First Software Is the Future and its Limitations](https://rxdb.info/articles/local-first-future.html)
 * [2025-03-07, 11:52:35](https://lobste.rs/s/99mmi2/oss_maintainers_what_s_most_audacious) - [OSS maintainers: what’s the most audacious work a company has ever asked you to do for free?](https://hachyderm.io/@hazelweakly/114112956589304873)
-* [2025-03-07, 11:44:13](https://lobste.rs/s/kacsw3/landscape_lisp) - [The Landscape of Lisp](https://churchofturing.github.io/landscapeoflisp.html)
 
 ## [Archives](archives/index.md)
 
