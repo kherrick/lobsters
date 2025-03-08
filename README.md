@@ -9,6 +9,7 @@
 * [2025-03-07, 23:18:50](https://lobste.rs/s/nzfyoa/why_do_i_find_rust_inadequate_for_text) - [Why do I find Rust inadequate for text compression codecs?](https://palaiologos.rocks/posts/rust-codecs/)
 * [2025-03-07, 23:08:01](https://lobste.rs/s/mpvjj8/standards_for_ansi_escape_codes) - [Standards for ANSI escape codes](https://jvns.ca/blog/2025/03/07/escape-code-standards/)
 * [2025-03-07, 23:07:19](https://lobste.rs/s/ffjijn/git_zed_natively) - [Git in Zed, natively](https://zed.dev/git)
+* [2025-03-07, 22:12:12](https://lobste.rs/s/yd8qin/improving_your_development_cycle_with) - [Improving Your Development Cycle with REPLs](https://dick.codes/2025/03/07/improving-your-development-cycle-with-repls.html)
 * [2025-03-07, 20:37:14](https://lobste.rs/s/wfxu5j/vtm_text_based_desktop_environment) - [vtm: Text-based desktop environment](https://github.com/directvt/vtm)
 * [2025-03-07, 20:11:20](https://lobste.rs/s/ambxwc/how_get_common_lisp_job_2055) - [How To Get A Common Lisp Job In 2055](https://sebastiancarlos.medium.com/common-lisp-in-2055-f3debf4df01c)
 * [2025-03-07, 19:00:32](https://lobste.rs/s/tff49a/javascript_best_practice_use_return) - [JavaScript best practice: use return await](https://advancedweb.hu/shorts/javascript-best-practice-use-return-await/)
@@ -24,7 +25,6 @@
 * [2025-03-07, 11:22:43](https://lobste.rs/s/8pk7n3/zig_s_dot_star_syntax_value) - [Zig's dot star syntax (value.*)](https://www.openmymind.net/Zig-Dot-Star-Syntax/)
 * [2025-03-07, 10:38:29](https://lobste.rs/s/fieewa/ultimate_thinkpad_x230) - [The \"ultimate\" Thinkpad X230](https://calbryant.uk/blog/the-ultimate-thinkpad-x230/#working-boot-splash-image-done)
 * [2025-03-07, 05:33:38](https://lobste.rs/s/5pceqb/delta_chat_messenger_which_is_cross) - [Delta Chat: A Messenger which is cross compatible with email and PGP](https://delta.chat/en/help)
-* [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
 
 ## [Archives](archives/index.md)
 
