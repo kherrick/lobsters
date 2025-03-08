@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-08, 14:22:51](https://lobste.rs/s/o71upr/four_choices_for_packaging_ruby_binary) - [Four choices for packaging Ruby binary distributions: How Tebako was selected](https://terminalwire.com/articles/self-contained-ruby-binaries)
 * [2025-03-08, 14:22:16](https://lobste.rs/s/lrc6cm/wlroots_add_hdr10_support) - [wlroots: Add HDR10 support](https://gitlab.freedesktop.org/wlroots/wlroots/-/merge_requests/5002)
+* [2025-03-08, 14:06:21](https://lobste.rs/s/bxujih/scunthorpe_problem) - [Scunthorpe problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 * [2025-03-08, 13:38:17](https://lobste.rs/s/mamyha/refinement_rust_optimization) - [Refinement in Rust: optimization, arithmetic, and stateful predicates](https://jordankaye.dev/posts/refined_0_0_4/)
 * [2025-03-08, 13:27:37](https://lobste.rs/s/7wwmui/introducing_command_commandfor_html) - [Introducing command And commandfor In HTML](https://developer.chrome.com/blog/command-and-commandfor)
 * [2025-03-08, 11:57:42](https://lobste.rs/s/v8izex/list_brave_browser_controversies) - [List of Brave browser controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies)
