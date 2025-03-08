@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-08](index.md)
 
+* [2025-03-08, 14:22:51](https://lobste.rs/s/o71upr/four_choices_for_packaging_ruby_binary) - [Four choices for packaging Ruby binary distributions: How Tebako was selected](https://terminalwire.com/articles/self-contained-ruby-binaries)
 * [2025-03-08, 14:22:16](https://lobste.rs/s/lrc6cm/wlroots_add_hdr10_support) - [wlroots: Add HDR10 support](https://gitlab.freedesktop.org/wlroots/wlroots/-/merge_requests/5002)
 * [2025-03-08, 14:06:21](https://lobste.rs/s/bxujih/scunthorpe_problem) - [Scunthorpe problem](https://en.wikipedia.org/wiki/Scunthorpe_problem)
 * [2025-03-08, 13:49:31](https://lobste.rs/s/1ugd0w/there_is_no_automatic_reset_for) - [There is No Automatic Reset for Engineering](http://agileotter.blogspot.com/2025/03/there-is-no-automatic-reset-in.html)
