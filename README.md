@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-08, 07:35:00](https://lobste.rs/s/mued7d/meta_compilation_baseline_jit_compilers) - [Meta-compilation of Baseline JIT Compilers with Druid](https://programming-journal.org/2025/10/9/)
+* [2025-03-08, 07:32:19](https://lobste.rs/s/az2qlz/epic_treatise_on_error_models_for_systems) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 * [2025-03-08, 01:52:01](https://lobste.rs/s/jmcge1/why_i_still_use_ruby_on_rails) - [Why I Still Use Ruby on Rails](https://medium.com/@shaffanm/why-i-still-use-ruby-on-rails-7581464b86be)
 * [2025-03-08, 00:16:26](https://lobste.rs/s/9sscit/why_i_choose_lua_for_this_blog) - [Why I choose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
 * [2025-03-08, 00:08:01](https://lobste.rs/s/2xixj1/staff_performance_cliff) - [The Staff+ Performance Cliff](https://sylormiller.com/posts/2025/staff-plus-cliff/)
@@ -22,8 +24,6 @@
 * [2025-03-07, 10:38:29](https://lobste.rs/s/fieewa/ultimate_thinkpad_x230) - [The \"ultimate\" Thinkpad X230](https://calbryant.uk/blog/the-ultimate-thinkpad-x230/#working-boot-splash-image-done)
 * [2025-03-07, 10:16:25](https://lobste.rs/s/jxy1fj/einstein_ai_model_why_ai_won_t_bring) - [The Einstein AI model (why AI won't bring a \"compressed 21st century\")](https://thomwolf.io/blog/scientific-ai.html)
 * [2025-03-07, 05:33:38](https://lobste.rs/s/5pceqb/delta_chat_messenger_which_is_cross) - [Delta Chat: A Messenger which is cross compatible with email and PGP](https://delta.chat/en/help)
-* [2025-03-06, 23:36:51](https://lobste.rs/s/4winzr/five_years_home_cooked_apps) - [Five years of home-cooked apps](https://www.robinsloan.com/lab/five-years-of-home-cooked-apps/)
-* [2025-03-06, 18:48:17](https://lobste.rs/s/ehiven/succinct_data_structures) - [Succinct data structures](https://blog.startifact.com/posts/succinct/)
 * [2025-03-06, 16:42:28](https://lobste.rs/s/mltpfg/xit_is_coming) - [xit is coming](https://radarroark.github.io/xit/xit-is-coming.html)
 
 ## [Archives](archives/index.md)
