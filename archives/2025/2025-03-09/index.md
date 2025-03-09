@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-09, 22:35:50](https://lobste.rs/s/qhjdtx/on_apple_exclaves) - [On Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 20:55:34](https://lobste.rs/s/ribonb/text_sizing_protocol) - [The text sizing protocol](https://sw.kovidgoyal.net/kitty/text-sizing-protocol/)

@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-09, 22:35:50](https://lobste.rs/s/qhjdtx/on_apple_exclaves) - [On Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 20:55:34](https://lobste.rs/s/ribonb/text_sizing_protocol) - [The text sizing protocol](https://sw.kovidgoyal.net/kitty/text-sizing-protocol/)
-* [2025-03-09, 20:50:18](https://lobste.rs/s/xjinyh/explaining_computers_freebsd_really) - [Explaining Computers - FreeBSD - Really Alternative Desktop OS](https://www.youtube.com/watch?v=9Xm52v1D8qo)
 * [2025-03-09, 20:31:31](https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias) - [Sorted integers compression with Elias-Fano encoding](https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html)
 * [2025-03-09, 19:10:58](https://lobste.rs/s/dz8mdk/automated_architecture_diagrams) - [Automated architecture diagrams](https://medium.com/thefork/automated-architecture-diagrams-53f538f615b7)
 * [2025-03-09, 18:10:03](https://lobste.rs/s/e6u2ef/post_processing_shaders_as_creative) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
