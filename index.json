@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-09, 15:48:52",
+      "https://lobste.rs/s/2cacfc/open_source_hosting_service_for_pijul"
+    ],
+    [
+      "Open source hosting service for Pijul",
+      "https://nest.pijul.com/pmeunier/nest"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 15:42:13",
       "https://lobste.rs/s/hkhauq/huh_valuable_role_interjections"
     ],
@@ -177,16 +187,6 @@
     [
       "Socially self-hosting source code with Tangled on Bluesky",
       "https://anil.recoil.org/notes/disentangling-git-with-bluesky"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 21:21:05",
-      "https://lobste.rs/s/uaw2fo/using_zig_from_common_lisp"
-    ],
-    [
-      "Using Zig from Common Lisp",
-      "https://jagg.github.io/posts/lisp_zig/"
     ]
   ],
   [
