@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 16:23:27](https://lobste.rs/s/caldlu/ai_uncertain_future_work) - [AI and the Uncertain Future of Work](https://matthewbilyeu.com/blog/2025-03-08/ai)
 * [2025-03-09, 15:48:52](https://lobste.rs/s/2cacfc/open_source_hosting_service_for_pijul) - [Open source hosting service for Pijul](https://nest.pijul.com/pmeunier/nest)
 * [2025-03-09, 15:42:13](https://lobste.rs/s/hkhauq/huh_valuable_role_interjections) - [Huh? The valuable role of interjections](https://knowablemagazine.org/content/article/mind/2025/interjections-important-for-conversation-flow)
 * [2025-03-09, 15:24:31](https://lobste.rs/s/rwvvai/advancing_musicality_symbolic_music) - [Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms](https://electricalexis.github.io/notagen-demo/)
