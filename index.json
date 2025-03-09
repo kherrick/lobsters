@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-09, 20:31:31",
+      "https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias"
+    ],
+    [
+      "Sorted integers compression with Elias-Fano encoding",
+      "https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 19:10:58",
       "https://lobste.rs/s/dz8mdk/automated_architecture_diagrams"
     ],
@@ -237,16 +247,6 @@
     [
       "List of Brave browser controversies",
       "https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 00:16:26",
-      "https://lobste.rs/s/9sscit/why_i_choose_lua_for_this_blog"
-    ],
-    [
-      "Why I choose Lua for this blog",
-      "https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html"
     ]
   ]
 ]
