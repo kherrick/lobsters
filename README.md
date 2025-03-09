@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-09, 15:42:13](https://lobste.rs/s/hkhauq/huh_valuable_role_interjections) - [Huh? The valuable role of interjections](https://knowablemagazine.org/content/article/mind/2025/interjections-important-for-conversation-flow)
 * [2025-03-09, 15:24:31](https://lobste.rs/s/rwvvai/advancing_musicality_symbolic_music) - [Advancing Musicality in Symbolic Music Generation with Large Language Model Training Paradigms](https://electricalexis.github.io/notagen-demo/)
 * [2025-03-09, 15:20:53](https://lobste.rs/s/5x51jl/dithering_colour) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
 * [2025-03-09, 12:15:58](https://lobste.rs/s/yffppm/why_alleged_esp32_backdoor_couldn_t) - [Why the alleged ESP32 backdoor couldn’t happen on CHERIoT](https://cheriot.org/auditing/backdoor/2025/03/09/no-esp32-style-backdoor.html)
@@ -23,7 +24,6 @@
 * [2025-03-08, 14:22:16](https://lobste.rs/s/lrc6cm/wlroots_add_hdr10_support) - [wlroots: Add HDR10 support](https://gitlab.freedesktop.org/wlroots/wlroots/-/merge_requests/5002)
 * [2025-03-08, 13:38:17](https://lobste.rs/s/mamyha/refinement_rust_optimization) - [Refinement in Rust: optimization, arithmetic, and stateful predicates](https://jordankaye.dev/posts/refined_0_0_4/)
 * [2025-03-08, 11:57:42](https://lobste.rs/s/v8izex/list_brave_browser_controversies) - [List of Brave browser controversies](https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies)
-* [2025-03-08, 07:32:19](https://lobste.rs/s/az2qlz/epic_treatise_on_error_models_for_systems) - [An epic treatise on error models for systems programming languages](https://typesanitizer.com/blog/errors.html)
 * [2025-03-08, 00:16:26](https://lobste.rs/s/9sscit/why_i_choose_lua_for_this_blog) - [Why I choose Lua for this blog](https://andregarzia.com/2025/03/why-i-choose-lua-for-this-blog.html)
 
 ## [Archives](archives/index.md)
