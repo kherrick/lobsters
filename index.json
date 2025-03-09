@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-09, 20:55:34",
+      "https://lobste.rs/s/ribonb/text_sizing_protocol"
+    ],
+    [
+      "The text sizing protocol",
+      "https://sw.kovidgoyal.net/kitty/text-sizing-protocol/"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 20:50:18",
+      "https://lobste.rs/s/xjinyh/explaining_computers_freebsd_really"
+    ],
+    [
+      "Explaining Computers - FreeBSD - Really Alternative Desktop OS",
+      "https://www.youtube.com/watch?v=9Xm52v1D8qo"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 20:31:31",
       "https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias"
     ],
@@ -37,16 +57,6 @@
     [
       "Functional vs Data-Driven development: a Case-Study in Clojure & OCaml",
       "https://kirancodes.me/posts/log-data-oriented-programming.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 17:45:27",
-      "https://lobste.rs/s/m6bcmf/i_built_my_first_mechanical_keyboard"
-    ],
-    [
-      "I built my first mechanical keyboard",
-      "https://marcin.juszkiewicz.com.pl/2025/03/09/i-built-my-first-mechanical-keyboard/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Undocumented \"backdoor\" found in Bluetooth chip used by a billion devices",
       "https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 14:22:16",
-      "https://lobste.rs/s/lrc6cm/wlroots_add_hdr10_support"
-    ],
-    [
-      "wlroots: Add HDR10 support",
-      "https://gitlab.freedesktop.org/wlroots/wlroots/-/merge_requests/5002"
     ]
   ],
   [
