@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 20:55:34](https://lobste.rs/s/ribonb/text_sizing_protocol) - [The text sizing protocol](https://sw.kovidgoyal.net/kitty/text-sizing-protocol/)
+* [2025-03-09, 20:50:18](https://lobste.rs/s/xjinyh/explaining_computers_freebsd_really) - [Explaining Computers - FreeBSD - Really Alternative Desktop OS](https://www.youtube.com/watch?v=9Xm52v1D8qo)
 * [2025-03-09, 20:31:31](https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias) - [Sorted integers compression with Elias-Fano encoding](https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html)
 * [2025-03-09, 19:10:58](https://lobste.rs/s/dz8mdk/automated_architecture_diagrams) - [Automated architecture diagrams](https://medium.com/thefork/automated-architecture-diagrams-53f538f615b7)
 * [2025-03-09, 18:10:03](https://lobste.rs/s/e6u2ef/post_processing_shaders_as_creative) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
