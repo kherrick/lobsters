@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-09, 11:29:36](https://lobste.rs/s/eetdq8/kubernetes_home_what_do_you_do_if_your_isp) - [Kubernetes@Home – what do you do if your ISP changes your IP addresses?](https://vegard.blog.engen.priv.no/?p=423)
 * [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 09:07:12](https://lobste.rs/s/tohpnt/lfortran_can_now_compile_prima) - [LFortran can now compile PRIMA](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 * [2025-03-09, 09:05:34](https://lobste.rs/s/nm2feq/spacetimedb) - [SpacetimeDB](https://spacetimedb.com/)
@@ -14,7 +15,6 @@
 * [2025-03-08, 23:04:16](https://lobste.rs/s/og8hrs/lynx_unlock_native_for_more) - [Lynx: unlock native for more](https://lynxjs.org/)
 * [2025-03-08, 22:30:34](https://lobste.rs/s/4cktbm/socially_self_hosting_source_code_with) - [Socially self-hosting source code with Tangled on Bluesky](https://anil.recoil.org/notes/disentangling-git-with-bluesky)
 * [2025-03-08, 21:21:05](https://lobste.rs/s/uaw2fo/using_zig_from_common_lisp) - [Using Zig from Common Lisp](https://jagg.github.io/posts/lisp_zig/)
-* [2025-03-08, 20:12:03](https://lobste.rs/s/tgeknf/hot_height_optimized_trie_index_for_main) - [HOT: A Height Optimized Trie Index for Main-Memory Database Systems](https://15721.courses.cs.cmu.edu/spring2019/papers/08-oltpindexes2/p521-binna.pdf)
 * [2025-03-08, 19:17:33](https://lobste.rs/s/jcsfbx/program_is_database_is_interface) - [The program is the database is the interface](https://www.scattered-thoughts.net/writing/the-program-is-the-database-is-the-interface/)
 * [2025-03-08, 18:13:35](https://lobste.rs/s/0twsmb/undocumented_backdoor_found_bluetooth) - [Undocumented \"backdoor\" found in Bluetooth chip used by a billion devices](https://www.bleepingcomputer.com/news/security/undocumented-backdoor-found-in-bluetooth-chip-used-by-a-billion-devices/)
 * [2025-03-08, 17:50:55](https://lobste.rs/s/snzosb/mad_computer_program) - [The MAD Computer Program](https://meatfighter.com/mad/)

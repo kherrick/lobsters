@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-09](index.md)
 
+* [2025-03-09, 11:29:36](https://lobste.rs/s/eetdq8/kubernetes_home_what_do_you_do_if_your_isp) - [Kubernetes@Home – what do you do if your ISP changes your IP addresses?](https://vegard.blog.engen.priv.no/?p=423)
 * [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 09:07:12](https://lobste.rs/s/tohpnt/lfortran_can_now_compile_prima) - [LFortran can now compile PRIMA](https://lfortran.org/blog/2025/03/lfortran-compiles-prima/)
 * [2025-03-09, 09:05:34](https://lobste.rs/s/nm2feq/spacetimedb) - [SpacetimeDB](https://spacetimedb.com/)
