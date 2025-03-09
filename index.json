@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-09, 11:29:36",
+      "https://lobste.rs/s/eetdq8/kubernetes_home_what_do_you_do_if_your_isp"
+    ],
+    [
+      "Kubernetes@Home – what do you do if your ISP changes your IP addresses?",
+      "https://vegard.blog.engen.priv.no/?p=423"
+    ]
+  ],
+  [
+    [
       "2025-03-09, 11:05:33",
       "https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released"
     ],
@@ -137,16 +147,6 @@
     [
       "Using Zig from Common Lisp",
       "https://jagg.github.io/posts/lisp_zig/"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 20:12:03",
-      "https://lobste.rs/s/tgeknf/hot_height_optimized_trie_index_for_main"
-    ],
-    [
-      "HOT: A Height Optimized Trie Index for Main-Memory Database Systems",
-      "https://15721.courses.cs.cmu.edu/spring2019/papers/08-oltpindexes2/p521-binna.pdf"
     ]
   ],
   [
