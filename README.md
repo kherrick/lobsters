@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-09, 19:10:58](https://lobste.rs/s/dz8mdk/automated_architecture_diagrams) - [Automated architecture diagrams](https://medium.com/thefork/automated-architecture-diagrams-53f538f615b7)
 * [2025-03-09, 18:10:03](https://lobste.rs/s/e6u2ef/post_processing_shaders_as_creative) - [Post-Processing Shaders as a Creative Medium](https://blog.maximeheckel.com/posts/post-processing-as-a-creative-medium/)
 * [2025-03-09, 17:56:35](https://lobste.rs/s/fbndgj/functional_vs_data_driven_development) - [Functional vs Data-Driven development: a Case-Study in Clojure & OCaml](https://kirancodes.me/posts/log-data-oriented-programming.html)
 * [2025-03-09, 17:45:27](https://lobste.rs/s/m6bcmf/i_built_my_first_mechanical_keyboard) - [I built my first mechanical keyboard](https://marcin.juszkiewicz.com.pl/2025/03/09/i-built-my-first-mechanical-keyboard/)
@@ -16,7 +17,6 @@
 * [2025-03-09, 05:14:26](https://lobste.rs/s/csr4mw/building_websites_with_lots_little_html) - [Building Websites With Lots of Little HTML Pages](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/)
 * [2025-03-09, 03:27:53](https://lobste.rs/s/zv7gj9/openssl_does_quic_api) - [OpenSSL does a QUIC API](https://daniel.haxx.se/blog/2025/02/16/openssl-does-a-quic-api/)
 * [2025-03-09, 03:06:41](https://lobste.rs/s/d96z4t/zinc_systems_programming_language) - [The zinc systems programming language](https://sr.ht/~oconnor0/zinc/)
-* [2025-03-09, 01:33:23](https://lobste.rs/s/epyn4f/how_i_write_generics) - [How I Write Generics](https://aartaka.me/my-generics.html)
 * [2025-03-08, 23:36:07](https://lobste.rs/s/p0wauf/cutting_edge_web_scraping_techniques) - [Cutting-edge web scraping techniques](https://github.com/simonw/nicar-2025-scraping/blob/main/README.md)
 * [2025-03-08, 23:21:32](https://lobste.rs/s/43kaeh/freebsd_13_5_release_iso_images_available) - [FreeBSD 13.5-RELEASE ISO Images Available](https://download.freebsd.org/releases/ISO-IMAGES/13.5/)
 * [2025-03-08, 22:30:34](https://lobste.rs/s/4cktbm/socially_self_hosting_source_code_with) - [Socially self-hosting source code with Tangled on Bluesky](https://anil.recoil.org/notes/disentangling-git-with-bluesky)
