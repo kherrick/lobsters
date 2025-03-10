@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 17:24:24",
+      "https://lobste.rs/s/rftm88/scroll_buddy"
+    ],
+    [
+      "Scroll buddy",
+      "https://scrollbuddy.com/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 16:54:45",
       "https://lobste.rs/s/vd6all/why_go_s_error_handling_is_awesome"
     ],
@@ -177,16 +187,6 @@
     [
       "Idiomatic Go",
       "https://dmitri.shuralyov.com/idiomatic-go"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 20:55:34",
-      "https://lobste.rs/s/ribonb/text_sizing_protocol"
-    ],
-    [
-      "The text sizing protocol",
-      "https://sw.kovidgoyal.net/kitty/text-sizing-protocol/"
     ]
   ],
   [
