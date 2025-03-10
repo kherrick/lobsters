@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-03-10, 07:09:39",
+      "https://lobste.rs/s/ifzqcy/wallbleed_memory_disclosure"
+    ],
+    [
+      "Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China",
+      "https://gfw.report/publications/ndss25/en/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 05:15:46",
       "https://lobste.rs/s/tnynqn/oral_history_bank_python_2021"
     ],
@@ -127,16 +137,6 @@
     [
       "The text sizing protocol",
       "https://sw.kovidgoyal.net/kitty/text-sizing-protocol/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 20:50:18",
-      "https://lobste.rs/s/xjinyh/explaining_computers_freebsd_really"
-    ],
-    [
-      "Explaining Computers - FreeBSD - Really Alternative Desktop OS",
-      "https://www.youtube.com/watch?v=9Xm52v1D8qo"
     ]
   ],
   [
