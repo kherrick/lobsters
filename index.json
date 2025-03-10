@@ -1,22 +1,22 @@
 [
   [
     [
-      "2025-03-10, 14:53:28",
-      "https://lobste.rs/s/a46njy/rust_2025_targeting_foundational"
+      "2025-03-10, 15:17:18",
+      "https://lobste.rs/s/jgknrl/prompt_engineering_for_web_development"
     ],
     [
-      "Rust in 2025: Targeting foundational software",
-      "https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/"
+      "Prompt Engineering for Web Development",
+      "https://www.sitepoint.com/prompt-engineering-for-web-development/"
     ]
   ],
   [
     [
-      "2025-03-10, 14:53:27",
-      "https://lobste.rs/s/ilczwh/learning_formal_verification_by_writing"
+      "2025-03-10, 14:14:34",
+      "https://lobste.rs/s/u6kptl/mls_is_coming_wire_app"
     ],
     [
-      "Learning formal verification by writing a spec for verifying a zero-downtime database migration in PlusCal",
-      "https://biradarganesh25.github.io/pluscal/db_migration.html"
+      "MLS is Coming to Wire App",
+      "https://wire.com/en/blog/mls-is-coming-to-wire-app-learn-more"
     ]
   ],
   [
@@ -47,16 +47,6 @@
     [
       "From Spring Boot to Ruby on Rails",
       "https://smustafa.blog/2025/03/10/from-spring-boot-to-ruby-on-rails/"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 11:14:42",
-      "https://lobste.rs/s/cwugkd/pantograph_fluid_typed_structural"
-    ],
-    [
-      "Pantograph a fluid and typed structural editor",
-      "https://www.youtube.com/live/Jff0pIbj8PM?t=6081"
     ]
   ],
   [
@@ -97,6 +87,16 @@
     [
       "What it takes to add a new backend to Futhark",
       "https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 07:09:39",
+      "https://lobste.rs/s/ifzqcy/wallbleed_memory_disclosure"
+    ],
+    [
+      "Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China",
+      "https://gfw.report/publications/ndss25/en/"
     ]
   ],
   [
