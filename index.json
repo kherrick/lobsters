@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 04:56:03",
+      "https://lobste.rs/s/lipjwc/bringing_webkit_back_android"
+    ],
+    [
+      "Bringing WebKit back to Android",
+      "https://blogs.igalia.com/jani/bringing-webkit-back-to-android/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 03:15:57",
       "https://lobste.rs/s/mlzjyc/good_code_design_from_linux_kernel"
     ],
@@ -167,16 +177,6 @@
     [
       "LFortran can now compile PRIMA",
       "https://lfortran.org/blog/2025/03/lfortran-compiles-prima/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 09:05:34",
-      "https://lobste.rs/s/nm2feq/spacetimedb"
-    ],
-    [
-      "SpacetimeDB",
-      "https://spacetimedb.com/"
     ]
   ],
   [
