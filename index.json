@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 17:51:10",
+      "https://lobste.rs/s/p4smxx/cp1_programming_language"
+    ],
+    [
+      "The Cp1 Programming Language",
+      "https://cp1-lang.org/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 17:24:24",
       "https://lobste.rs/s/rftm88/scroll_buddy"
     ],
@@ -217,16 +227,6 @@
     [
       "Open source hosting service for Pijul",
       "https://nest.pijul.com/pmeunier/nest"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 12:15:58",
-      "https://lobste.rs/s/yffppm/why_alleged_esp32_backdoor_couldn_t"
-    ],
-    [
-      "Why the alleged ESP32 backdoor couldn’t happen on CHERIoT",
-      "https://cheriot.org/auditing/backdoor/2025/03/09/no-esp32-style-backdoor.html"
     ]
   ],
   [
