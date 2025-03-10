@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-10, 18:04:58",
+      "https://lobste.rs/s/5odzeq/porting_curl_command_line_tool_library"
+    ],
+    [
+      "Porting the curl command-line tool and library with Goa",
+      "https://genodians.org/jschlatow/2025-03-07-porting-curl"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 17:59:02",
+      "https://lobste.rs/s/esn5gf/quick_journey_into_linux_kernel"
+    ],
+    [
+      "A Quick Journey Into the Linux Kernel",
+      "https://www.lucavall.in/blog/a-quick-journey-into-the-linux-kernel"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 17:51:10",
       "https://lobste.rs/s/p4smxx/cp1_programming_language"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-03-10, 11:14:42",
-      "https://lobste.rs/s/cwugkd/pantograph_fluid_typed_structural"
-    ],
-    [
-      "Pantograph a fluid and typed structural editor",
-      "https://www.youtube.com/live/Jff0pIbj8PM?t=6081"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 10:47:21",
       "https://lobste.rs/s/nhaenp/what_are_you_doing_this_week"
     ],
@@ -151,16 +161,6 @@
   ],
   [
     [
-      "2025-03-10, 03:15:57",
-      "https://lobste.rs/s/mlzjyc/good_code_design_from_linux_kernel"
-    ],
-    [
-      "Good Code Design From Linux/Kernel",
-      "https://leandromoreira.com/2019/08/02/linux-ffmpeg-source-internals-a-good-software-design/"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 02:13:38",
       "https://lobste.rs/s/u0ctt0/developing_pkgsrc_with_git"
     ],
@@ -181,22 +181,22 @@
   ],
   [
     [
-      "2025-03-09, 22:35:50",
-      "https://lobste.rs/s/qhjdtx/on_apple_exclaves"
-    ],
-    [
-      "On Apple Exclaves",
-      "https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194"
-    ]
-  ],
-  [
-    [
       "2025-03-09, 22:18:08",
       "https://lobste.rs/s/8fx2je/idiomatic_go"
     ],
     [
       "Idiomatic Go",
       "https://dmitri.shuralyov.com/idiomatic-go"
+    ]
+  ],
+  [
+    [
+      "2025-03-09, 20:55:34",
+      "https://lobste.rs/s/ribonb/text_sizing_protocol"
+    ],
+    [
+      "The text sizing protocol",
+      "https://sw.kovidgoyal.net/kitty/text-sizing-protocol/"
     ]
   ],
   [
