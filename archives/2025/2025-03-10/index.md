@@ -7,6 +7,7 @@
 * [2025-03-10, 22:21:17](https://lobste.rs/s/tcxwgv/stewardship_over_ownership) - [Stewardship over ownership](https://ntietz.com/blog/stewardship-over-ownership/)
 * [2025-03-10, 20:13:44](https://lobste.rs/s/qhetdw/android_s_linux_terminal_app_is_now_widely) - [Android's Linux Terminal app is now widely available on Pixels](https://www.androidauthority.com/android-linux-terminal-app-available-3532999/)
 * [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
+* [2025-03-10, 19:47:30](https://lobste.rs/s/tyws8h/mathml_core) - [MathML Core](https://developer.mozilla.org/en-US/docs/Web/MathML)
 * [2025-03-10, 18:50:29](https://lobste.rs/s/fhbzdf/debts_tech_otherwise) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
 * [2025-03-10, 18:49:54](https://lobste.rs/s/tmlysd/eightyeightthirtyone_map_websites) - [eightyeightthirtyone: A Map of Websites Linked with 88x31 Buttons](https://eightyeightthirty.one/)
 * [2025-03-10, 18:04:58](https://lobste.rs/s/5odzeq/porting_curl_command_line_tool_library) - [Porting the curl command-line tool and library with Goa](https://genodians.org/jschlatow/2025-03-07-porting-curl)
