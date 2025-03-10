@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
 * [2025-03-10, 18:50:29](https://lobste.rs/s/fhbzdf/debts_tech_otherwise) - [Debts, Tech and Otherwise](https://blogs.newardassociates.com/blog/2025/debts-tech-and-otherwise.html)
 * [2025-03-10, 18:49:54](https://lobste.rs/s/tmlysd/eightyeightthirtyone_map_websites) - [eightyeightthirtyone: A Map of Websites Linked with 88x31 Buttons](https://eightyeightthirty.one/)
 * [2025-03-10, 18:04:58](https://lobste.rs/s/5odzeq/porting_curl_command_line_tool_library) - [Porting the curl command-line tool and library with Goa](https://genodians.org/jschlatow/2025-03-07-porting-curl)

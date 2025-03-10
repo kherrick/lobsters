@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
 * [2025-03-10, 17:59:02](https://lobste.rs/s/esn5gf/quick_journey_into_linux_kernel) - [A Quick Journey Into the Linux Kernel](https://www.lucavall.in/blog/a-quick-journey-into-the-linux-kernel)
 * [2025-03-10, 17:51:10](https://lobste.rs/s/p4smxx/cp1_programming_language) - [The Cp1 Programming Language](https://cp1-lang.org/)
 * [2025-03-10, 17:28:25](https://lobste.rs/s/iaqfqn/css_relative_colors) - [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
@@ -17,7 +18,6 @@
 * [2025-03-10, 08:25:17](https://lobste.rs/s/cjffvm/what_it_takes_add_new_backend_futhark) - [What it takes to add a new backend to Futhark](https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html)
 * [2025-03-10, 05:15:46](https://lobste.rs/s/tnynqn/oral_history_bank_python_2021) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
 * [2025-03-10, 04:56:03](https://lobste.rs/s/lipjwc/bringing_webkit_back_android) - [Bringing WebKit back to Android](https://blogs.igalia.com/jani/bringing-webkit-back-to-android/)
-* [2025-03-10, 02:13:38](https://lobste.rs/s/u0ctt0/developing_pkgsrc_with_git) - [Developing pkgsrc with git](https://bentsukun.ch/posts/pkgsrc-with-git/)
 * [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 17:56:35](https://lobste.rs/s/fbndgj/functional_vs_data_driven_development) - [Functional vs Data-Driven development: a Case-Study in Clojure & OCaml](https://kirancodes.me/posts/log-data-oriented-programming.html)
