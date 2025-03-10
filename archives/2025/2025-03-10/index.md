@@ -9,6 +9,7 @@
 * [2025-03-10, 18:04:58](https://lobste.rs/s/5odzeq/porting_curl_command_line_tool_library) - [Porting the curl command-line tool and library with Goa](https://genodians.org/jschlatow/2025-03-07-porting-curl)
 * [2025-03-10, 17:59:02](https://lobste.rs/s/esn5gf/quick_journey_into_linux_kernel) - [A Quick Journey Into the Linux Kernel](https://www.lucavall.in/blog/a-quick-journey-into-the-linux-kernel)
 * [2025-03-10, 17:51:10](https://lobste.rs/s/p4smxx/cp1_programming_language) - [The Cp1 Programming Language](https://cp1-lang.org/)
+* [2025-03-10, 17:28:25](https://lobste.rs/s/iaqfqn/css_relative_colors) - [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
 * [2025-03-10, 17:24:24](https://lobste.rs/s/rftm88/scroll_buddy) - [Scroll buddy](https://scrollbuddy.com/)
 * [2025-03-10, 16:54:45](https://lobste.rs/s/vd6all/why_go_s_error_handling_is_awesome) - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 * [2025-03-10, 16:18:56](https://lobste.rs/s/9inp8r/domain_specific_architectures_for_ai) - [Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures)
