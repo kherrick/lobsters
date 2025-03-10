@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 14:53:28](https://lobste.rs/s/a46njy/rust_2025_targeting_foundational) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
+* [2025-03-10, 14:53:27](https://lobste.rs/s/ilczwh/learning_formal_verification_by_writing) - [Learning formal verification by writing a spec for verifying a zero-downtime database migration in PlusCal](https://biradarganesh25.github.io/pluscal/db_migration.html)
 * [2025-03-10, 14:14:34](https://lobste.rs/s/u6kptl/mls_is_coming_wire_app) - [MLS is Coming to Wire App](https://wire.com/en/blog/mls-is-coming-to-wire-app-learn-more)
 * [2025-03-10, 13:42:21](https://lobste.rs/s/zcvtod/wallbleed_memory_disclosure) - [Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China](https://gfw.report/publications/ndss25/data/paper/wallbleed.pdf)
 * [2025-03-10, 13:21:41](https://lobste.rs/s/ar6guo/building_cross_platform_sdks_from_ffi) - [Building Cross-Platform SDKs: From FFI to WebAssembly | Flipt Blog](https://blog.flipt.io/from-ffi-to-wasm)
