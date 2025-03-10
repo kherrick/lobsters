@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-10, 13:42:21](https://lobste.rs/s/zcvtod/wallbleed_memory_disclosure) - [Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China](https://gfw.report/publications/ndss25/data/paper/wallbleed.pdf)
 * [2025-03-10, 13:21:41](https://lobste.rs/s/ar6guo/building_cross_platform_sdks_from_ffi) - [Building Cross-Platform SDKs: From FFI to WebAssembly | Flipt Blog](https://blog.flipt.io/from-ffi-to-wasm)
 * [2025-03-10, 13:19:16](https://lobste.rs/s/wooaru/grove_bidirectionally_typed) - [Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus](https://dl.acm.org/doi/pdf/10.1145/3704909)
 * [2025-03-10, 12:22:55](https://lobste.rs/s/brbp3g/from_spring_boot_ruby_on_rails) - [From Spring Boot to Ruby on Rails](https://smustafa.blog/2025/03/10/from-spring-boot-to-ruby-on-rails/)
@@ -16,7 +17,6 @@
 * [2025-03-09, 22:35:50](https://lobste.rs/s/qhjdtx/on_apple_exclaves) - [On Apple Exclaves](https://randomaugustine.medium.com/on-apple-exclaves-d683a2c37194)
 * [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 20:55:34](https://lobste.rs/s/ribonb/text_sizing_protocol) - [The text sizing protocol](https://sw.kovidgoyal.net/kitty/text-sizing-protocol/)
-* [2025-03-09, 20:31:31](https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias) - [Sorted integers compression with Elias-Fano encoding](https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html)
 * [2025-03-09, 17:56:35](https://lobste.rs/s/fbndgj/functional_vs_data_driven_development) - [Functional vs Data-Driven development: a Case-Study in Clojure & OCaml](https://kirancodes.me/posts/log-data-oriented-programming.html)
 * [2025-03-09, 17:45:27](https://lobste.rs/s/m6bcmf/i_built_my_first_mechanical_keyboard) - [I built my first mechanical keyboard](https://marcin.juszkiewicz.com.pl/2025/03/09/i-built-my-first-mechanical-keyboard/)
 * [2025-03-09, 16:23:27](https://lobste.rs/s/caldlu/ai_uncertain_future_work) - [AI and the Uncertain Future of Work](https://matthewbilyeu.com/blog/2025-03-08/ai)
