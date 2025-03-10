@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 17:24:24](https://lobste.rs/s/rftm88/scroll_buddy) - [Scroll buddy](https://scrollbuddy.com/)
 * [2025-03-10, 16:54:45](https://lobste.rs/s/vd6all/why_go_s_error_handling_is_awesome) - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 * [2025-03-10, 16:18:56](https://lobste.rs/s/9inp8r/domain_specific_architectures_for_ai) - [Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures)
 * [2025-03-10, 15:17:18](https://lobste.rs/s/jgknrl/prompt_engineering_for_web_development) - [Prompt Engineering for Web Development](https://www.sitepoint.com/prompt-engineering-for-web-development/)
