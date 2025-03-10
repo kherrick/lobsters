@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-10, 16:18:56](https://lobste.rs/s/9inp8r/domain_specific_architectures_for_ai) - [Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures)
+* [2025-03-10, 16:54:45](https://lobste.rs/s/vd6all/why_go_s_error_handling_is_awesome) - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 * [2025-03-10, 14:53:28](https://lobste.rs/s/a46njy/rust_2025_targeting_foundational) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
 * [2025-03-10, 14:14:34](https://lobste.rs/s/u6kptl/mls_is_coming_wire_app) - [MLS is Coming to Wire App](https://wire.com/en/blog/mls-is-coming-to-wire-app-learn-more)
 * [2025-03-10, 13:21:41](https://lobste.rs/s/ar6guo/building_cross_platform_sdks_from_ffi) - [Building Cross-Platform SDKs: From FFI to WebAssembly | Flipt Blog](https://blog.flipt.io/from-ffi-to-wasm)
 * [2025-03-10, 13:19:16](https://lobste.rs/s/wooaru/grove_bidirectionally_typed) - [Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus](https://dl.acm.org/doi/pdf/10.1145/3704909)
 * [2025-03-10, 12:22:55](https://lobste.rs/s/brbp3g/from_spring_boot_ruby_on_rails) - [From Spring Boot to Ruby on Rails](https://smustafa.blog/2025/03/10/from-spring-boot-to-ruby-on-rails/)
+* [2025-03-10, 11:14:42](https://lobste.rs/s/cwugkd/pantograph_fluid_typed_structural) - [Pantograph a fluid and typed structural editor](https://www.youtube.com/live/Jff0pIbj8PM?t=6081)
 * [2025-03-10, 10:47:21](https://lobste.rs/s/nhaenp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhaenp/what_are_you_doing_this_week)
 * [2025-03-10, 10:07:33](https://lobste.rs/s/okqjn5/20_years_linux_on_desktop_part_3) - [20 years of Linux on the Desktop (part 3)](https://ploum.net/2025-03-08-linux_desktop3.html)
 * [2025-03-10, 08:50:56](https://lobste.rs/s/mxy0si/chromecast_2_s_device_authentication) - [The Chromecast 2's device authentication certificate has expired](https://old.reddit.com/r/Chromecast/comments/1j7lhrs/the_chromecast_2s_device_authentication/)
@@ -24,7 +25,6 @@
 * [2025-03-09, 12:15:58](https://lobste.rs/s/yffppm/why_alleged_esp32_backdoor_couldn_t) - [Why the alleged ESP32 backdoor couldn’t happen on CHERIoT](https://cheriot.org/auditing/backdoor/2025/03/09/no-esp32-style-backdoor.html)
 * [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 06:29:34](https://lobste.rs/s/dslris/what_s_cooking_on_sourcehut_q1_2025) - [What's cooking on SourceHut? Q1 2025](https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/)
-* [2025-03-09, 05:14:26](https://lobste.rs/s/csr4mw/building_websites_with_lots_little_html) - [Building Websites With Lots of Little HTML Pages](https://blog.jim-nielsen.com/2025/lots-of-little-html-pages/)
 
 ## [Archives](archives/index.md)
 
