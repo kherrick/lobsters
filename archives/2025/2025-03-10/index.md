@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 16:18:56](https://lobste.rs/s/9inp8r/domain_specific_architectures_for_ai) - [Domain specific architectures for AI inference](https://fleetwood.dev/posts/domain-specific-architectures)
 * [2025-03-10, 15:17:18](https://lobste.rs/s/jgknrl/prompt_engineering_for_web_development) - [Prompt Engineering for Web Development](https://www.sitepoint.com/prompt-engineering-for-web-development/)
 * [2025-03-10, 14:53:28](https://lobste.rs/s/a46njy/rust_2025_targeting_foundational) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
 * [2025-03-10, 14:53:27](https://lobste.rs/s/ilczwh/learning_formal_verification_by_writing) - [Learning formal verification by writing a spec for verifying a zero-downtime database migration in PlusCal](https://biradarganesh25.github.io/pluscal/db_migration.html)
