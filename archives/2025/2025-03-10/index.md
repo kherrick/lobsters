@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 11:14:42](https://lobste.rs/s/cwugkd/pantograph_fluid_typed_structural) - [Pantograph a fluid and typed structural editor](https://www.youtube.com/live/Jff0pIbj8PM?t=6081)
 * [2025-03-10, 10:47:21](https://lobste.rs/s/nhaenp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhaenp/what_are_you_doing_this_week)
 * [2025-03-10, 10:07:33](https://lobste.rs/s/okqjn5/20_years_linux_on_desktop_part_3) - [20 years of Linux on the Desktop (part 3)](https://ploum.net/2025-03-08-linux_desktop3.html)
 * [2025-03-10, 08:50:56](https://lobste.rs/s/mxy0si/chromecast_2_s_device_authentication) - [The Chromecast 2's device authentication certificate has expired](https://old.reddit.com/r/Chromecast/comments/1j7lhrs/the_chromecast_2s_device_authentication/)
