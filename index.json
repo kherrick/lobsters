@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 13:42:21",
+      "https://lobste.rs/s/zcvtod/wallbleed_memory_disclosure"
+    ],
+    [
+      "Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China",
+      "https://gfw.report/publications/ndss25/data/paper/wallbleed.pdf"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 13:21:41",
       "https://lobste.rs/s/ar6guo/building_cross_platform_sdks_from_ffi"
     ],
@@ -157,16 +167,6 @@
     [
       "The text sizing protocol",
       "https://sw.kovidgoyal.net/kitty/text-sizing-protocol/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 20:31:31",
-      "https://lobste.rs/s/ez8vfj/sorted_integers_compression_with_elias"
-    ],
-    [
-      "Sorted integers compression with Elias-Fano encoding",
-      "https://www.antoniomallia.it/sorted-integers-compression-with-elias-fano-encoding.html"
     ]
   ],
   [
