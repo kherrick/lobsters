@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 11:14:42",
+      "https://lobste.rs/s/cwugkd/pantograph_fluid_typed_structural"
+    ],
+    [
+      "Pantograph a fluid and typed structural editor",
+      "https://www.youtube.com/live/Jff0pIbj8PM?t=6081"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 10:47:21",
       "https://lobste.rs/s/nhaenp/what_are_you_doing_this_week"
     ],
@@ -37,16 +47,6 @@
     [
       "What it takes to add a new backend to Futhark",
       "https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 07:09:39",
-      "https://lobste.rs/s/ifzqcy/wallbleed_memory_disclosure"
-    ],
-    [
-      "Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China",
-      "https://gfw.report/publications/ndss25/en/"
     ]
   ],
   [
