@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 10:07:33",
+      "https://lobste.rs/s/okqjn5/20_years_linux_on_desktop_part_3"
+    ],
+    [
+      "20 years of Linux on the Desktop (part 3)",
+      "https://ploum.net/2025-03-08-linux_desktop3.html"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 08:50:56",
       "https://lobste.rs/s/mxy0si/chromecast_2_s_device_authentication"
     ],
@@ -237,16 +247,6 @@
     [
       "Cutting-edge web scraping techniques",
       "https://github.com/simonw/nicar-2025-scraping/blob/main/README.md"
-    ]
-  ],
-  [
-    [
-      "2025-03-08, 11:57:42",
-      "https://lobste.rs/s/v8izex/list_brave_browser_controversies"
-    ],
-    [
-      "List of Brave browser controversies",
-      "https://old.reddit.com/r/browsers/comments/1j1pq7b/list_of_brave_browser_controversies"
     ]
   ]
 ]
