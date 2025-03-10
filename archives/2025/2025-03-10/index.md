@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
+* [2025-03-10, 08:25:17](https://lobste.rs/s/cjffvm/what_it_takes_add_new_backend_futhark) - [What it takes to add a new backend to Futhark](https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html)
 * [2025-03-10, 07:09:39](https://lobste.rs/s/ifzqcy/wallbleed_memory_disclosure) - [Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China](https://gfw.report/publications/ndss25/en/)
 * [2025-03-10, 05:15:46](https://lobste.rs/s/tnynqn/oral_history_bank_python_2021) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
 * [2025-03-10, 04:56:03](https://lobste.rs/s/lipjwc/bringing_webkit_back_android) - [Bringing WebKit back to Android](https://blogs.igalia.com/jani/bringing-webkit-back-to-android/)

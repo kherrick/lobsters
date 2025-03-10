@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-10, 08:25:17](https://lobste.rs/s/cjffvm/what_it_takes_add_new_backend_futhark) - [What it takes to add a new backend to Futhark](https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html)
 * [2025-03-10, 07:09:39](https://lobste.rs/s/ifzqcy/wallbleed_memory_disclosure) - [Wallbleed: A Memory Disclosure Vulnerability in the Great Firewall of China](https://gfw.report/publications/ndss25/en/)
 * [2025-03-10, 05:15:46](https://lobste.rs/s/tnynqn/oral_history_bank_python_2021) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
 * [2025-03-10, 04:56:03](https://lobste.rs/s/lipjwc/bringing_webkit_back_android) - [Bringing WebKit back to Android](https://blogs.igalia.com/jani/bringing-webkit-back-to-android/)
@@ -17,7 +18,6 @@
 * [2025-03-09, 17:45:27](https://lobste.rs/s/m6bcmf/i_built_my_first_mechanical_keyboard) - [I built my first mechanical keyboard](https://marcin.juszkiewicz.com.pl/2025/03/09/i-built-my-first-mechanical-keyboard/)
 * [2025-03-09, 16:23:27](https://lobste.rs/s/caldlu/ai_uncertain_future_work) - [AI and the Uncertain Future of Work](https://matthewbilyeu.com/blog/2025-03-08/ai)
 * [2025-03-09, 15:48:52](https://lobste.rs/s/2cacfc/open_source_hosting_service_for_pijul) - [Open source hosting service for Pijul](https://nest.pijul.com/pmeunier/nest)
-* [2025-03-09, 15:20:53](https://lobste.rs/s/5x51jl/dithering_colour) - [Dithering in Colour](https://obrhubr.org/dithering-in-colour)
 * [2025-03-09, 12:15:58](https://lobste.rs/s/yffppm/why_alleged_esp32_backdoor_couldn_t) - [Why the alleged ESP32 backdoor couldn’t happen on CHERIoT](https://cheriot.org/auditing/backdoor/2025/03/09/no-esp32-style-backdoor.html)
 * [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 * [2025-03-09, 06:29:34](https://lobste.rs/s/dslris/what_s_cooking_on_sourcehut_q1_2025) - [What's cooking on SourceHut? Q1 2025](https://sourcehut.org/blog/2025-03-07-whats-cooking-q1-25/)
