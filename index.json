@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-10, 08:50:56",
+      "https://lobste.rs/s/mxy0si/chromecast_2_s_device_authentication"
+    ],
+    [
+      "The Chromecast 2's device authentication certificate has expired",
+      "https://old.reddit.com/r/Chromecast/comments/1j7lhrs/the_chromecast_2s_device_authentication/"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 08:25:17",
       "https://lobste.rs/s/cjffvm/what_it_takes_add_new_backend_futhark"
     ],
@@ -57,16 +67,6 @@
     [
       "Developing pkgsrc with git",
       "https://bentsukun.ch/posts/pkgsrc-with-git/"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 00:02:26",
-      "https://lobste.rs/s/sereus/investigating_mitigating_argument"
-    ],
-    [
-      "Investigating and mitigating an argument-dependent lookup bug in WinRT",
-      "https://devblogs.microsoft.com/oldnewthing/20250214-00/?p=110868"
     ]
   ],
   [
