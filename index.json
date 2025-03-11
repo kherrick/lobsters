@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-03-11, 00:09:56",
+      "https://lobste.rs/s/0t5vg7/common_lisp_error_exception_handling"
+    ],
+    [
+      "Common Lisp Error and Exception Handling",
+      "https://lispcookbook.github.io/cl-cookbook/error_handling.html"
+    ]
+  ],
+  [
+    [
       "2025-03-10, 22:21:17",
       "https://lobste.rs/s/tcxwgv/stewardship_over_ownership"
     ],
     [
       "Stewardship over ownership",
       "https://ntietz.com/blog/stewardship-over-ownership/"
+    ]
+  ],
+  [
+    [
+      "2025-03-10, 20:14:35",
+      "https://lobste.rs/s/arffcj/will_future_software_development_run_on"
+    ],
+    [
+      "Will the future of software development run on vibes?",
+      "https://simonwillison.net/2025/Mar/6/vibe-coding/"
     ]
   ],
   [
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-03-10, 13:21:41",
-      "https://lobste.rs/s/ar6guo/building_cross_platform_sdks_from_ffi"
-    ],
-    [
-      "Building Cross-Platform SDKs: From FFI to WebAssembly | Flipt Blog",
-      "https://blog.flipt.io/from-ffi-to-wasm"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 13:19:16",
       "https://lobste.rs/s/wooaru/grove_bidirectionally_typed"
     ],
@@ -217,16 +227,6 @@
     [
       "Idiomatic Go",
       "https://dmitri.shuralyov.com/idiomatic-go"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 17:56:35",
-      "https://lobste.rs/s/fbndgj/functional_vs_data_driven_development"
-    ],
-    [
-      "Functional vs Data-Driven development: a Case-Study in Clojure & OCaml",
-      "https://kirancodes.me/posts/log-data-oriented-programming.html"
     ]
   ],
   [
