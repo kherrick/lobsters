@@ -7,6 +7,7 @@
 * [2025-03-11, 04:14:09](https://lobste.rs/s/ccg097/when_hyperspectral_image_is_cube) - [When a Hyperspectral Image is a Cube](https://mirawelner.com/posts/cube.html)
 * [2025-03-11, 04:09:03](https://lobste.rs/s/qnmkqa/ocaml_game_engine_ecs) - [OCaml Game Engine: ECS](https://edwardwibowo.com/blog/ocaml-game-engine-ecs/)
 * [2025-03-11, 04:03:51](https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi) - [How I built this website on a Raspberry Pi](https://mirawelner.com/posts/website_howto.html)
+* [2025-03-11, 01:19:38](https://lobste.rs/s/y5sdjz/freebsd_13_5_release_now_available) - [FreeBSD 13.5-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2025-March/000181.html)
 * [2025-03-11, 00:09:56](https://lobste.rs/s/0t5vg7/common_lisp_error_exception_handling) - [Common Lisp Error and Exception Handling](https://lispcookbook.github.io/cl-cookbook/error_handling.html)
 * [2025-03-10, 22:21:17](https://lobste.rs/s/tcxwgv/stewardship_over_ownership) - [Stewardship over ownership](https://ntietz.com/blog/stewardship-over-ownership/)
 * [2025-03-10, 20:14:35](https://lobste.rs/s/arffcj/will_future_software_development_run_on) - [Will the future of software development run on vibes?](https://simonwillison.net/2025/Mar/6/vibe-coding/)
@@ -24,7 +25,6 @@
 * [2025-03-10, 10:07:33](https://lobste.rs/s/okqjn5/20_years_linux_on_desktop_part_3) - [20 years of Linux on the Desktop (part 3)](https://ploum.net/2025-03-08-linux_desktop3.html)
 * [2025-03-10, 08:50:56](https://lobste.rs/s/mxy0si/chromecast_2_s_device_authentication) - [The Chromecast 2's device authentication certificate has expired](https://old.reddit.com/r/Chromecast/comments/1j7lhrs/the_chromecast_2s_device_authentication/)
 * [2025-03-10, 05:15:46](https://lobste.rs/s/tnynqn/oral_history_bank_python_2021) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
-* [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 
 ## [Archives](archives/index.md)
 
