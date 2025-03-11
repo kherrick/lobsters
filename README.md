@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-11, 07:51:34](https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations) - [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations)
 * [2025-03-11, 04:14:09](https://lobste.rs/s/ccg097/when_hyperspectral_image_is_cube) - [When a Hyperspectral Image is a Cube](https://mirawelner.com/posts/cube.html)
 * [2025-03-11, 04:09:03](https://lobste.rs/s/qnmkqa/ocaml_game_engine_ecs) - [OCaml Game Engine: ECS](https://edwardwibowo.com/blog/ocaml-game-engine-ecs/)
 * [2025-03-11, 04:03:51](https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi) - [How I built this website on a Raspberry Pi](https://mirawelner.com/posts/website_howto.html)
@@ -23,7 +24,6 @@
 * [2025-03-10, 08:50:56](https://lobste.rs/s/mxy0si/chromecast_2_s_device_authentication) - [The Chromecast 2's device authentication certificate has expired](https://old.reddit.com/r/Chromecast/comments/1j7lhrs/the_chromecast_2s_device_authentication/)
 * [2025-03-10, 05:15:46](https://lobste.rs/s/tnynqn/oral_history_bank_python_2021) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
 * [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
-* [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
 * [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 
 ## [Archives](archives/index.md)
