@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-11, 13:15:40](https://lobste.rs/s/paim15/beyond_bad_output) - [Beyond Bad Output](https://hey.paris/posts/beyond-bad-output/)
 * [2025-03-11, 11:49:22](https://lobste.rs/s/clt1it/small_template_engine_for_c) - [A small template engine for C](https://www.omarpolo.com/post/template.html)
 * [2025-03-11, 11:44:27](https://lobste.rs/s/j6bb5k/implementation_j_roger_hui) - [An Implementation of J - Roger Hui](https://www.jsoftware.com/books/pdf/aioj.pdf)
 * [2025-03-11, 11:00:39](https://lobste.rs/s/33847t/facil_io_web_application_c_framework) - [facil.io: Web application C framework](https://github.com/boazsegev/facil.io)
@@ -7,7 +8,6 @@
 * [2025-03-11, 04:14:09](https://lobste.rs/s/ccg097/when_hyperspectral_image_is_cube) - [When a Hyperspectral Image is a Cube](https://mirawelner.com/posts/cube.html)
 * [2025-03-11, 04:09:03](https://lobste.rs/s/qnmkqa/ocaml_game_engine_ecs) - [OCaml Game Engine: ECS](https://edwardwibowo.com/blog/ocaml-game-engine-ecs/)
 * [2025-03-11, 04:03:51](https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi) - [How I built this website on a Raspberry Pi](https://mirawelner.com/posts/website_howto.html)
-* [2025-03-11, 01:19:38](https://lobste.rs/s/y5sdjz/freebsd_13_5_release_now_available) - [FreeBSD 13.5-RELEASE Now Available](https://lists.freebsd.org/archives/freebsd-announce/2025-March/000181.html)
 * [2025-03-11, 00:09:56](https://lobste.rs/s/0t5vg7/common_lisp_error_exception_handling) - [Common Lisp Error and Exception Handling](https://lispcookbook.github.io/cl-cookbook/error_handling.html)
 * [2025-03-10, 22:21:17](https://lobste.rs/s/tcxwgv/stewardship_over_ownership) - [Stewardship over ownership](https://ntietz.com/blog/stewardship-over-ownership/)
 * [2025-03-10, 20:14:35](https://lobste.rs/s/arffcj/will_future_software_development_run_on) - [Will the future of software development run on vibes?](https://simonwillison.net/2025/Mar/6/vibe-coding/)
