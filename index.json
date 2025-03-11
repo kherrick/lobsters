@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-11, 22:07:03",
+      "https://lobste.rs/s/veuycb/factorio_learning_environment"
+    ],
+    [
+      "Factorio Learning Environment",
+      "https://jackhopkins.github.io/factorio-learning-environment/"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 21:22:01",
       "https://lobste.rs/s/pbqsop/unix_needs_true_integrated_environment"
     ],
@@ -147,16 +157,6 @@
     [
       "Here’s how I use LLMs to help me write code",
       "https://simonwillison.net/2025/Mar/11/using-llms-for-code/"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 14:15:21",
-      "https://lobste.rs/s/nmoyud/pytest_netbox_docker_pytest_plugin"
-    ],
-    [
-      "pytest-netbox-docker: Pytest plugin that provides fixtures to start a complete Netbox infrastructure using Docker",
-      "https://github.com/link-society/pytest-netbox-docker"
     ]
   ],
   [
