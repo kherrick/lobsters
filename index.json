@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-11, 07:51:34",
+      "https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations"
+    ],
+    [
+      "An early look at Nix Dynamic Derivations",
+      "https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 04:14:09",
       "https://lobste.rs/s/ccg097/when_hyperspectral_image_is_cube"
     ],
@@ -227,16 +237,6 @@
     [
       "Performance of the Python 3.14 tail-call interpreter",
       "https://blog.nelhage.com/post/cpython-tail-call/"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 22:18:08",
-      "https://lobste.rs/s/8fx2je/idiomatic_go"
-    ],
-    [
-      "Idiomatic Go",
-      "https://dmitri.shuralyov.com/idiomatic-go"
     ]
   ],
   [
