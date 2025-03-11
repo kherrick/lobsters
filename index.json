@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-11, 04:14:09",
+      "https://lobste.rs/s/ccg097/when_hyperspectral_image_is_cube"
+    ],
+    [
+      "When a Hyperspectral Image is a Cube",
+      "https://mirawelner.com/posts/cube.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 04:09:03",
+      "https://lobste.rs/s/qnmkqa/ocaml_game_engine_ecs"
+    ],
+    [
+      "OCaml Game Engine: ECS",
+      "https://edwardwibowo.com/blog/ocaml-game-engine-ecs/"
+    ]
+  ],
+  [
+    [
+      "2025-03-11, 04:03:51",
+      "https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi"
+    ],
+    [
+      "How I built this website on a Raspberry Pi",
+      "https://mirawelner.com/posts/website_howto.html"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 00:09:56",
       "https://lobste.rs/s/0t5vg7/common_lisp_error_exception_handling"
     ],
@@ -151,16 +181,6 @@
   ],
   [
     [
-      "2025-03-10, 12:22:55",
-      "https://lobste.rs/s/brbp3g/from_spring_boot_ruby_on_rails"
-    ],
-    [
-      "From Spring Boot to Ruby on Rails",
-      "https://smustafa.blog/2025/03/10/from-spring-boot-to-ruby-on-rails/"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 10:47:21",
       "https://lobste.rs/s/nhaenp/what_are_you_doing_this_week"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-03-10, 08:25:17",
-      "https://lobste.rs/s/cjffvm/what_it_takes_add_new_backend_futhark"
-    ],
-    [
-      "What it takes to add a new backend to Futhark",
-      "https://futhark-lang.org/blog/2025-03-04-adding-a-new-backend.html"
-    ]
-  ],
-  [
-    [
       "2025-03-10, 05:15:46",
       "https://lobste.rs/s/tnynqn/oral_history_bank_python_2021"
     ],
@@ -227,16 +237,6 @@
     [
       "Idiomatic Go",
       "https://dmitri.shuralyov.com/idiomatic-go"
-    ]
-  ],
-  [
-    [
-      "2025-03-09, 15:48:52",
-      "https://lobste.rs/s/2cacfc/open_source_hosting_service_for_pijul"
-    ],
-    [
-      "Open source hosting service for Pijul",
-      "https://nest.pijul.com/pmeunier/nest"
     ]
   ],
   [
