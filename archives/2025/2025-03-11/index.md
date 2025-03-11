@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 11:49:22](https://lobste.rs/s/clt1it/small_template_engine_for_c) - [A small template engine for C](https://www.omarpolo.com/post/template.html)
+* [2025-03-11, 11:44:27](https://lobste.rs/s/j6bb5k/implementation_j_roger_hui) - [An Implementation of J - Roger Hui](https://www.jsoftware.com/books/pdf/aioj.pdf)
 * [2025-03-11, 11:00:39](https://lobste.rs/s/33847t/facil_io_web_application_c_framework) - [facil.io: Web application C framework](https://github.com/boazsegev/facil.io)
 * [2025-03-11, 07:51:34](https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations) - [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations)
 * [2025-03-11, 04:14:09](https://lobste.rs/s/ccg097/when_hyperspectral_image_is_cube) - [When a Hyperspectral Image is a Cube](https://mirawelner.com/posts/cube.html)
