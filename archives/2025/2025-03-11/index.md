@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 20:59:46](https://lobste.rs/s/qsmfvf/owi_cross_language_bugfinder) - [owi: Cross-language Bugfinder](https://github.com/OCamlPro/owi)
 * [2025-03-11, 20:57:41](https://lobste.rs/s/kgdcna/r7rs_large_stygian_blue_reddish_green) - [R7RS Large Stygian Blue/Reddish Green ballot](https://surveys.nonceword.org/?r=survey/index&sid=242775&lang=en)
 * [2025-03-11, 20:46:07](https://lobste.rs/s/hoirtg/making_multiplayer_action_game_haskell) - [Making a multiplayer action game in Haskell](https://gitlab.com/-/snippets/4817016)
 * [2025-03-11, 20:37:56](https://lobste.rs/s/rf4qpg/goatdb_lightweight_nodb_for_deno_react) - [goatdb: Lightweight NoDB for Deno & React](https://github.com/goatplatform/goatdb)
