@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-11, 14:15:21](https://lobste.rs/s/nmoyud/pytest_netbox_docker_pytest_plugin) - [pytest-netbox-docker: Pytest plugin that provides fixtures to start a complete Netbox infrastructure using Docker](https://github.com/link-society/pytest-netbox-docker)
 * [2025-03-11, 13:15:40](https://lobste.rs/s/paim15/beyond_bad_output) - [Beyond Bad Output](https://hey.paris/posts/beyond-bad-output/)
 * [2025-03-11, 11:49:22](https://lobste.rs/s/clt1it/small_template_engine_for_c) - [A small template engine for C](https://www.omarpolo.com/post/template.html)
 * [2025-03-11, 11:44:27](https://lobste.rs/s/j6bb5k/implementation_j_roger_hui) - [An Implementation of J - Roger Hui](https://www.jsoftware.com/books/pdf/aioj.pdf)
@@ -15,7 +16,6 @@
 * [2025-03-10, 20:13:44](https://lobste.rs/s/qhetdw/android_s_linux_terminal_app_is_now_widely) - [Android's Linux Terminal app is now widely available on Pixels](https://www.androidauthority.com/android-linux-terminal-app-available-3532999/)
 * [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
 * [2025-03-10, 19:47:30](https://lobste.rs/s/tyws8h/mathml_core) - [MathML Core](https://developer.mozilla.org/en-US/docs/Web/MathML)
-* [2025-03-10, 17:51:10](https://lobste.rs/s/p4smxx/cp1_programming_language) - [The Cp1 Programming Language](https://cp1-lang.org/)
 * [2025-03-10, 17:28:25](https://lobste.rs/s/iaqfqn/css_relative_colors) - [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
 * [2025-03-10, 17:24:24](https://lobste.rs/s/rftm88/scroll_buddy) - [Scroll buddy](https://scrollbuddy.com/)
 * [2025-03-10, 17:17:10](https://lobste.rs/s/zellpc/software_falsehoods_you_can_build_it) - [Software Falsehoods: you can build it cheap, fast, and good - pick two](https://aaronstannard.com/software-price-speed-quality/)
