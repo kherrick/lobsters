@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-11, 19:25:09",
-      "https://lobste.rs/s/mwoxoe/every_line_code_is_always_documented_2014"
+      "2025-03-11, 19:57:53",
+      "https://lobste.rs/s/jgpcfa/rsync_over_grpc_demo_program_rsync_file"
     ],
     [
-      "Every line of code is always documented (2014)",
-      "https://mislav.net/2014/02/hidden-documentation/"
+      "rsync-over-grpc: demo program: rsync file transfer (with the gokrazy/rsync module) over gRPC transport",
+      "https://github.com/stapelberg/rsync-over-grpc"
     ]
   ],
   [
