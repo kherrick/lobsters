@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-11, 19:25:09](https://lobste.rs/s/mwoxoe/every_line_code_is_always_documented_2014) - [Every line of code is always documented (2014)](https://mislav.net/2014/02/hidden-documentation/)
+* [2025-03-11, 19:57:53](https://lobste.rs/s/jgpcfa/rsync_over_grpc_demo_program_rsync_file) - [rsync-over-grpc: demo program: rsync file transfer (with the gokrazy/rsync module) over gRPC transport](https://github.com/stapelberg/rsync-over-grpc)
 * [2025-03-11, 17:49:11](https://lobste.rs/s/mewqa9/thoughts_about_naming_things) - [Thoughts About Naming Things](http://11spades.net/posts/on-naming-things/)
 * [2025-03-11, 16:44:39](https://lobste.rs/s/y1dvmd/representing_type_lattices_compactly) - [Representing type lattices compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 * [2025-03-11, 14:54:33](https://lobste.rs/s/gdmnho/javascript_fatigue_strikes_back) - [JavaScript Fatigue Strikes Back](https://allenpike.com/2025/javascript-fatigue-ssr)
