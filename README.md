@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-11, 00:09:56](https://lobste.rs/s/0t5vg7/common_lisp_error_exception_handling) - [Common Lisp Error and Exception Handling](https://lispcookbook.github.io/cl-cookbook/error_handling.html)
 * [2025-03-10, 22:21:17](https://lobste.rs/s/tcxwgv/stewardship_over_ownership) - [Stewardship over ownership](https://ntietz.com/blog/stewardship-over-ownership/)
+* [2025-03-10, 20:14:35](https://lobste.rs/s/arffcj/will_future_software_development_run_on) - [Will the future of software development run on vibes?](https://simonwillison.net/2025/Mar/6/vibe-coding/)
 * [2025-03-10, 20:13:44](https://lobste.rs/s/qhetdw/android_s_linux_terminal_app_is_now_widely) - [Android's Linux Terminal app is now widely available on Pixels](https://www.androidauthority.com/android-linux-terminal-app-available-3532999/)
 * [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
 * [2025-03-10, 19:47:30](https://lobste.rs/s/tyws8h/mathml_core) - [MathML Core](https://developer.mozilla.org/en-US/docs/Web/MathML)
@@ -12,7 +14,6 @@
 * [2025-03-10, 16:54:45](https://lobste.rs/s/vd6all/why_go_s_error_handling_is_awesome) - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 * [2025-03-10, 14:53:28](https://lobste.rs/s/a46njy/rust_2025_targeting_foundational) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
 * [2025-03-10, 14:14:34](https://lobste.rs/s/u6kptl/mls_is_coming_wire_app) - [MLS is Coming to Wire App](https://wire.com/en/blog/mls-is-coming-to-wire-app-learn-more)
-* [2025-03-10, 13:21:41](https://lobste.rs/s/ar6guo/building_cross_platform_sdks_from_ffi) - [Building Cross-Platform SDKs: From FFI to WebAssembly | Flipt Blog](https://blog.flipt.io/from-ffi-to-wasm)
 * [2025-03-10, 13:19:16](https://lobste.rs/s/wooaru/grove_bidirectionally_typed) - [Grove: A Bidirectionally Typed Collaborative Structure Editor Calculus](https://dl.acm.org/doi/pdf/10.1145/3704909)
 * [2025-03-10, 12:22:55](https://lobste.rs/s/brbp3g/from_spring_boot_ruby_on_rails) - [From Spring Boot to Ruby on Rails](https://smustafa.blog/2025/03/10/from-spring-boot-to-ruby-on-rails/)
 * [2025-03-10, 10:47:21](https://lobste.rs/s/nhaenp/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/nhaenp/what_are_you_doing_this_week)
@@ -22,7 +23,6 @@
 * [2025-03-10, 05:15:46](https://lobste.rs/s/tnynqn/oral_history_bank_python_2021) - [An oral history of Bank Python (2021)](https://calpaterson.com/bank-python.html)
 * [2025-03-09, 22:49:59](https://lobste.rs/s/9paxz2/performance_python_3_14_tail_call) - [Performance of the Python 3.14 tail-call interpreter](https://blog.nelhage.com/post/cpython-tail-call/)
 * [2025-03-09, 22:18:08](https://lobste.rs/s/8fx2je/idiomatic_go) - [Idiomatic Go](https://dmitri.shuralyov.com/idiomatic-go)
-* [2025-03-09, 17:56:35](https://lobste.rs/s/fbndgj/functional_vs_data_driven_development) - [Functional vs Data-Driven development: a Case-Study in Clojure & OCaml](https://kirancodes.me/posts/log-data-oriented-programming.html)
 * [2025-03-09, 15:48:52](https://lobste.rs/s/2cacfc/open_source_hosting_service_for_pijul) - [Open source hosting service for Pijul](https://nest.pijul.com/pmeunier/nest)
 * [2025-03-09, 11:05:33](https://lobste.rs/s/lvsiz8/gleam_v1_9_0_released) - [Gleam v1.9.0 released](https://gleam.run/news/hello-echo-hello-git/)
 

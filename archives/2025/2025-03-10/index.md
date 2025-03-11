@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-10](index.md)
 
 * [2025-03-10, 22:21:17](https://lobste.rs/s/tcxwgv/stewardship_over_ownership) - [Stewardship over ownership](https://ntietz.com/blog/stewardship-over-ownership/)
+* [2025-03-10, 20:14:35](https://lobste.rs/s/arffcj/will_future_software_development_run_on) - [Will the future of software development run on vibes?](https://simonwillison.net/2025/Mar/6/vibe-coding/)
 * [2025-03-10, 20:13:44](https://lobste.rs/s/qhetdw/android_s_linux_terminal_app_is_now_widely) - [Android's Linux Terminal app is now widely available on Pixels](https://www.androidauthority.com/android-linux-terminal-app-available-3532999/)
 * [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
 * [2025-03-10, 19:47:30](https://lobste.rs/s/tyws8h/mathml_core) - [MathML Core](https://developer.mozilla.org/en-US/docs/Web/MathML)
