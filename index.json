@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-11, 20:37:56",
+      "https://lobste.rs/s/rf4qpg/goatdb_lightweight_nodb_for_deno_react"
+    ],
+    [
+      "goatdb: Lightweight NoDB for Deno & React",
+      "https://github.com/goatplatform/goatdb"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 19:57:53",
       "https://lobste.rs/s/jgpcfa/rsync_over_grpc_demo_program_rsync_file"
     ],
@@ -237,16 +247,6 @@
     [
       "20 years of Linux on the Desktop (part 3)",
       "https://ploum.net/2025-03-08-linux_desktop3.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-10, 08:50:56",
-      "https://lobste.rs/s/mxy0si/chromecast_2_s_device_authentication"
-    ],
-    [
-      "The Chromecast 2's device authentication certificate has expired",
-      "https://old.reddit.com/r/Chromecast/comments/1j7lhrs/the_chromecast_2s_device_authentication/"
     ]
   ]
 ]
