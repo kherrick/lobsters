@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-11, 14:16:54](https://lobste.rs/s/gvkxlf/here_s_how_i_use_llms_help_me_write_code) - [Here’s how I use LLMs to help me write code](https://simonwillison.net/2025/Mar/11/using-llms-for-code/)
 * [2025-03-11, 14:15:21](https://lobste.rs/s/nmoyud/pytest_netbox_docker_pytest_plugin) - [pytest-netbox-docker: Pytest plugin that provides fixtures to start a complete Netbox infrastructure using Docker](https://github.com/link-society/pytest-netbox-docker)
 * [2025-03-11, 13:15:40](https://lobste.rs/s/paim15/beyond_bad_output) - [Beyond Bad Output](https://hey.paris/posts/beyond-bad-output/)
 * [2025-03-11, 11:49:22](https://lobste.rs/s/clt1it/small_template_engine_for_c) - [A small template engine for C](https://www.omarpolo.com/post/template.html)
@@ -18,7 +19,6 @@
 * [2025-03-10, 19:47:30](https://lobste.rs/s/tyws8h/mathml_core) - [MathML Core](https://developer.mozilla.org/en-US/docs/Web/MathML)
 * [2025-03-10, 17:28:25](https://lobste.rs/s/iaqfqn/css_relative_colors) - [CSS Relative Colors](https://ishadeed.com/article/css-relative-colors/)
 * [2025-03-10, 17:24:24](https://lobste.rs/s/rftm88/scroll_buddy) - [Scroll buddy](https://scrollbuddy.com/)
-* [2025-03-10, 17:17:10](https://lobste.rs/s/zellpc/software_falsehoods_you_can_build_it) - [Software Falsehoods: you can build it cheap, fast, and good - pick two](https://aaronstannard.com/software-price-speed-quality/)
 * [2025-03-10, 16:54:45](https://lobste.rs/s/vd6all/why_go_s_error_handling_is_awesome) - [Why Go's Error Handling is Awesome](https://rauljordan.com/why-go-error-handling-is-awesome/)
 * [2025-03-10, 14:53:28](https://lobste.rs/s/a46njy/rust_2025_targeting_foundational) - [Rust in 2025: Targeting foundational software](https://smallcultfollowing.com/babysteps/blog/2025/03/10/rust-2025-intro/)
 * [2025-03-10, 14:14:34](https://lobste.rs/s/u6kptl/mls_is_coming_wire_app) - [MLS is Coming to Wire App](https://wire.com/en/blog/mls-is-coming-to-wire-app-learn-more)
