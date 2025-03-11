@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 16:53:51](https://lobste.rs/s/kccopz/code_patterns) - [Code patterns](https://garden.bradwoods.io/notes/game-dev-journal/02-code-patterns)
 * [2025-03-11, 16:48:06](https://lobste.rs/s/3zjscq/former_facebook_execs_are_running) - [Former Facebook execs are running Firefox adtech](https://goblin.band/notes/a55nxem9jukg6cw8)
 * [2025-03-11, 16:44:39](https://lobste.rs/s/y1dvmd/representing_type_lattices_compactly) - [Representing type lattices compactly](https://bernsteinbear.com/blog/lattice-bitset/)
 * [2025-03-11, 14:54:33](https://lobste.rs/s/gdmnho/javascript_fatigue_strikes_back) - [JavaScript Fatigue Strikes Back](https://allenpike.com/2025/javascript-fatigue-ssr)
