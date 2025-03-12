@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-12, 04:48:38](https://lobste.rs/s/z66ftn/art_formatting_code) - [The Art of Formatting Code](https://mcyoung.xyz/2025/03/11/formatters/)
 * [2025-03-12, 02:17:09](https://lobste.rs/s/ejs3uh/future_is_niri) - [The Future is Niri](https://ersei.net/en/blog/niri)
 * [2025-03-12, 01:56:30](https://lobste.rs/s/1cqlzd/perspectives_from_technical_university) - [Perspectives from the Technical University of Munich](https://mirawelner.com/posts/TUM_thoughts.html)
 * [2025-03-12, 01:17:25](https://lobste.rs/s/u09ig5/translating_bzip2_with_c2rust) - [Translating bzip2 with c2rust](https://tweedegolf.nl/en/blog/151/translating-bzip2-with-c2rust)
 * [2025-03-11, 23:05:11](https://lobste.rs/s/34dsf7/re_writing_interpreter_rust) - [(Re)writing an interpreter in Rust](https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/)
 * [2025-03-11, 22:09:40](https://lobste.rs/s/4eobii/how_afterhour_built_ultra_scalable_chat) - [How AfterHour built an ultra-scalable chat service in one month with Rama](https://blog.redplanetlabs.com/2025/03/11/how-afterhour-built-an-ultra-scalable-chat-service-in-one-month-with-rama/)
-* [2025-03-11, 22:07:03](https://lobste.rs/s/veuycb/factorio_learning_environment) - [Factorio Learning Environment](https://jackhopkins.github.io/factorio-learning-environment/)
 * [2025-03-11, 21:22:01](https://lobste.rs/s/pbqsop/unix_needs_true_integrated_environment) - [UNIX Needs A True Integrated Environment: CASE Closed (1989)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
 * [2025-03-11, 20:59:46](https://lobste.rs/s/qsmfvf/owi_cross_language_bugfinder) - [owi: Cross-language Bugfinder](https://github.com/OCamlPro/owi)
 * [2025-03-11, 20:57:41](https://lobste.rs/s/kgdcna/r7rs_large_stygian_blue_reddish_green) - [R7RS Large Stygian Blue/Reddish Green ballot](https://surveys.nonceword.org/?r=survey/index&sid=242775&lang=en)
