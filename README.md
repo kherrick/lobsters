@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-12, 11:47:00](https://lobste.rs/s/35dgcs/rmk_rust_keyboard_firmware_library_with) - [rmk: Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support](https://github.com/HaoboGu/rmk)
 * [2025-03-12, 06:59:39](https://lobste.rs/s/b6vdmd/on_insecurity_telecom_stacks_wake_salt) - [On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
 * [2025-03-12, 04:48:38](https://lobste.rs/s/z66ftn/art_formatting_code) - [The Art of Formatting Code](https://mcyoung.xyz/2025/03/11/formatters/)
 * [2025-03-12, 02:17:09](https://lobste.rs/s/ejs3uh/future_is_niri) - [The Future is Niri](https://ersei.net/en/blog/niri)
@@ -11,7 +12,6 @@
 * [2025-03-11, 20:59:46](https://lobste.rs/s/qsmfvf/owi_cross_language_bugfinder) - [owi: Cross-language Bugfinder](https://github.com/OCamlPro/owi)
 * [2025-03-11, 20:57:41](https://lobste.rs/s/kgdcna/r7rs_large_stygian_blue_reddish_green) - [R7RS Large Stygian Blue/Reddish Green ballot](https://surveys.nonceword.org/?r=survey/index&sid=242775&lang=en)
 * [2025-03-11, 20:46:07](https://lobste.rs/s/hoirtg/making_multiplayer_action_game_haskell) - [Making a multiplayer action game in Haskell](https://gitlab.com/-/snippets/4817016)
-* [2025-03-11, 20:37:56](https://lobste.rs/s/rf4qpg/goatdb_lightweight_nodb_for_deno_react) - [goatdb: Lightweight NoDB for Deno & React](https://github.com/goatplatform/goatdb)
 * [2025-03-11, 20:08:58](https://lobste.rs/s/oi1vqm/rust_trait_object_layout) - [Rust trait object layout](https://neugierig.org/software/blog/2025/03/trait-object-layout.html)
 * [2025-03-11, 19:57:53](https://lobste.rs/s/jgpcfa/rsync_over_grpc_demo_program_rsync_file) - [rsync-over-grpc: demo program: rsync file transfer (with the gokrazy/rsync module) over gRPC transport](https://github.com/stapelberg/rsync-over-grpc)
 * [2025-03-11, 19:25:09](https://lobste.rs/s/mwoxoe/every_line_code_is_always_documented_2014) - [Every line of code is always documented (2014)](https://mislav.net/2014/02/hidden-documentation/)
