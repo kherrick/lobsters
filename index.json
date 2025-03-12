@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-12, 18:12:22",
+      "https://lobste.rs/s/epkigb/gemini_embedding_generalizable"
+    ],
+    [
+      "Gemini Embedding: Generalizable Embeddings from Gemini",
+      "https://deepmind.google/research/publications/157741/"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 18:05:05",
+      "https://lobste.rs/s/9bgx8t/why_i_stopped_everything_started_writing"
+    ],
+    [
+      "Why I stopped everything and started writing C again",
+      "https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 17:37:32",
       "https://lobste.rs/s/vh3n7k/codebase_national_lab_i_worked_at"
     ],
@@ -27,16 +47,6 @@
     [
       "Constant-Time Code: The Pessimist Case",
       "https://eprint.iacr.org/2025/435"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 16:21:24",
-      "https://lobste.rs/s/8tz0cn/high_performance_png_decoding"
-    ],
-    [
-      "High-performance PNG decoding",
-      "https://blend2d.com/blog/png-image-codec.html"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "rsync-over-grpc: demo program: rsync file transfer (with the gokrazy/rsync module) over gRPC transport",
       "https://github.com/stapelberg/rsync-over-grpc"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 17:49:11",
-      "https://lobste.rs/s/mewqa9/thoughts_about_naming_things"
-    ],
-    [
-      "Thoughts About Naming Things",
-      "http://11spades.net/posts/on-naming-things/"
     ]
   ],
   [
