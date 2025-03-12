@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-03-12, 19:33:32",
+      "https://lobste.rs/s/wpcgq1/iconography_putty_tools"
+    ],
+    [
+      "Iconography of the PuTTY tools",
+      "https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/putty-icons/"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 19:24:56",
       "https://lobste.rs/s/romh86/guile_hoot_with_fibers"
     ],
@@ -237,16 +247,6 @@
     [
       "Here’s how I use LLMs to help me write code",
       "https://simonwillison.net/2025/Mar/11/using-llms-for-code/"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 04:03:51",
-      "https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi"
-    ],
-    [
-      "How I built this website on a Raspberry Pi",
-      "https://mirawelner.com/posts/website_howto.html"
     ]
   ]
 ]
