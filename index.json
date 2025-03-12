@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-12, 16:21:24",
+      "https://lobste.rs/s/8tz0cn/high_performance_png_decoding"
+    ],
+    [
+      "High-performance PNG decoding",
+      "https://blend2d.com/blog/png-image-codec.html"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 15:04:50",
       "https://lobste.rs/s/21k85t/poking_around_claude_code"
     ],
@@ -167,16 +177,6 @@
     [
       "rsync-over-grpc: demo program: rsync file transfer (with the gokrazy/rsync module) over gRPC transport",
       "https://github.com/stapelberg/rsync-over-grpc"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 19:25:09",
-      "https://lobste.rs/s/mwoxoe/every_line_code_is_always_documented_2014"
-    ],
-    [
-      "Every line of code is always documented (2014)",
-      "https://mislav.net/2014/02/hidden-documentation/"
     ]
   ],
   [
