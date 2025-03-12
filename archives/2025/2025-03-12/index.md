@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 16:21:24](https://lobste.rs/s/8tz0cn/high_performance_png_decoding) - [High-performance PNG decoding](https://blend2d.com/blog/png-image-codec.html)
 * [2025-03-12, 15:04:50](https://lobste.rs/s/21k85t/poking_around_claude_code) - [Poking Around Claude Code](https://leehanchung.github.io/blogs/2025/03/07/claude-code/)
 * [2025-03-12, 14:44:54](https://lobste.rs/s/icbgrq/perplexing_javascript_parsing_puzzle) - [A Perplexing Javascript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
 * [2025-03-12, 14:42:24](https://lobste.rs/s/iw9stc/initializing_lte_modem_using_raw_usb) - [Initializing an LTE modem using raw USB communication](https://dawidwrobel.com/journal/initializing-lte-modem-using-raw-usb-communication/)
