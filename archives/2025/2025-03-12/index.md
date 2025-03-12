@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 20:02:38](https://lobste.rs/s/exrq7d/semgrep_upgrading_semgrep_from_ocaml_4) - [Semgrep | Upgrading Semgrep from OCaml 4 to OCaml 5](https://semgrep.dev/blog/2025/upgrading-semgrep-from-ocaml-4-to-ocaml-5/)
 * [2025-03-12, 19:49:27](https://lobste.rs/s/pua4kr/traversal_resistant_file_apis) - [Traversal-resistant file APIs](https://go.dev/blog/osroot)
 * [2025-03-12, 19:39:29](https://lobste.rs/s/bherlz/typescript_7_10x_speedup_go_language) - [TypeScript 7: 10x Speedup and the Go Language](https://dev.to/anthonymax/typescript-7-10x-speedup-and-the-go-language-1mkf)
 * [2025-03-12, 19:24:56](https://lobste.rs/s/romh86/guile_hoot_with_fibers) - [Guile Hoot with Fibers](https://afmoreno.srht.site/blog/guile-hoot-fibers.html)
