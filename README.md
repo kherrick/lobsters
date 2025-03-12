@@ -8,6 +8,7 @@
 * [2025-03-11, 22:07:03](https://lobste.rs/s/veuycb/factorio_learning_environment) - [Factorio Learning Environment](https://jackhopkins.github.io/factorio-learning-environment/)
 * [2025-03-11, 21:22:01](https://lobste.rs/s/pbqsop/unix_needs_true_integrated_environment) - [UNIX Needs A True Integrated Environment: CASE Closed (1989)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
 * [2025-03-11, 20:59:46](https://lobste.rs/s/qsmfvf/owi_cross_language_bugfinder) - [owi: Cross-language Bugfinder](https://github.com/OCamlPro/owi)
+* [2025-03-11, 20:57:41](https://lobste.rs/s/kgdcna/r7rs_large_stygian_blue_reddish_green) - [R7RS Large Stygian Blue/Reddish Green ballot](https://surveys.nonceword.org/?r=survey/index&sid=242775&lang=en)
 * [2025-03-11, 20:46:07](https://lobste.rs/s/hoirtg/making_multiplayer_action_game_haskell) - [Making a multiplayer action game in Haskell](https://gitlab.com/-/snippets/4817016)
 * [2025-03-11, 20:37:56](https://lobste.rs/s/rf4qpg/goatdb_lightweight_nodb_for_deno_react) - [goatdb: Lightweight NoDB for Deno & React](https://github.com/goatplatform/goatdb)
 * [2025-03-11, 20:08:58](https://lobste.rs/s/oi1vqm/rust_trait_object_layout) - [Rust trait object layout](https://neugierig.org/software/blog/2025/03/trait-object-layout.html)
@@ -22,7 +23,6 @@
 * [2025-03-11, 11:49:22](https://lobste.rs/s/clt1it/small_template_engine_for_c) - [A small template engine for C](https://www.omarpolo.com/post/template.html)
 * [2025-03-11, 11:44:27](https://lobste.rs/s/j6bb5k/implementation_j_roger_hui) - [An Implementation of J - Roger Hui](https://www.jsoftware.com/books/pdf/aioj.pdf)
 * [2025-03-11, 07:51:34](https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations) - [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations)
-* [2025-03-11, 04:09:03](https://lobste.rs/s/qnmkqa/ocaml_game_engine_ecs) - [OCaml Game Engine: ECS](https://edwardwibowo.com/blog/ocaml-game-engine-ecs/)
 * [2025-03-11, 04:03:51](https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi) - [How I built this website on a Raspberry Pi](https://mirawelner.com/posts/website_howto.html)
 * [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
 
