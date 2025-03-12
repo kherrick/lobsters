@@ -1,11 +1,21 @@
 [
   [
     [
-      "2025-03-12, 20:02:38",
-      "https://lobste.rs/s/exrq7d/semgrep_upgrading_semgrep_from_ocaml_4"
+      "2025-03-12, 23:16:07",
+      "https://lobste.rs/s/dzgudd/complexity_as_entropy"
     ],
     [
-      "Semgrep | Upgrading Semgrep from OCaml 4 to OCaml 5",
+      "complexity as entropy",
+      "https://explaining.software/archive/complexity-as-entropy/"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 20:02:38",
+      "https://lobste.rs/s/exrq7d/upgrading_semgrep_from_ocaml_4_ocaml_5"
+    ],
+    [
+      "Upgrading Semgrep from OCaml 4 to OCaml 5",
       "https://semgrep.dev/blog/2025/upgrading-semgrep-from-ocaml-4-to-ocaml-5/"
     ]
   ],
@@ -217,16 +227,6 @@
     [
       "(Re)writing an interpreter in Rust",
       "https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 19:57:53",
-      "https://lobste.rs/s/jgpcfa/rsync_over_grpc_demo_program_rsync_file"
-    ],
-    [
-      "rsync-over-grpc: demo program: rsync file transfer (with the gokrazy/rsync module) over gRPC transport",
-      "https://github.com/stapelberg/rsync-over-grpc"
     ]
   ],
   [
