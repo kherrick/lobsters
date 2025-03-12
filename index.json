@@ -181,6 +181,16 @@
   ],
   [
     [
+      "2025-03-11, 19:25:09",
+      "https://lobste.rs/s/mwoxoe/every_line_code_is_always_documented_2014"
+    ],
+    [
+      "Every line of code is always documented (2014)",
+      "https://mislav.net/2014/02/hidden-documentation/"
+    ]
+  ],
+  [
+    [
       "2025-03-11, 17:49:11",
       "https://lobste.rs/s/mewqa9/thoughts_about_naming_things"
     ],
@@ -227,16 +237,6 @@
     [
       "An Implementation of J - Roger Hui",
       "https://www.jsoftware.com/books/pdf/aioj.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 07:51:34",
-      "https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations"
-    ],
-    [
-      "An early look at Nix Dynamic Derivations",
-      "https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations"
     ]
   ],
   [
