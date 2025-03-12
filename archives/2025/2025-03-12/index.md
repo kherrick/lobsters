@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 17:14:16](https://lobste.rs/s/nno4i5/carefully_purposefully_oxidising) - [Carefully But Purposefully Oxidising Ubuntu](https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/)
 * [2025-03-12, 17:03:35](https://lobste.rs/s/1jwqtt/constant_time_code_pessimist_case) - [Constant-Time Code: The Pessimist Case](https://eprint.iacr.org/2025/435)
 * [2025-03-12, 16:21:24](https://lobste.rs/s/8tz0cn/high_performance_png_decoding) - [High-performance PNG decoding](https://blend2d.com/blog/png-image-codec.html)
 * [2025-03-12, 15:04:50](https://lobste.rs/s/21k85t/poking_around_claude_code) - [Poking Around Claude Code](https://leehanchung.github.io/blogs/2025/03/07/claude-code/)

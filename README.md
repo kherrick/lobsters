@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-12, 17:14:16](https://lobste.rs/s/nno4i5/carefully_purposefully_oxidising) - [Carefully But Purposefully Oxidising Ubuntu](https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/)
 * [2025-03-12, 17:03:35](https://lobste.rs/s/1jwqtt/constant_time_code_pessimist_case) - [Constant-Time Code: The Pessimist Case](https://eprint.iacr.org/2025/435)
 * [2025-03-12, 16:21:24](https://lobste.rs/s/8tz0cn/high_performance_png_decoding) - [High-performance PNG decoding](https://blend2d.com/blog/png-image-codec.html)
-* [2025-03-12, 15:04:50](https://lobste.rs/s/21k85t/poking_around_claude_code) - [Poking Around Claude Code](https://leehanchung.github.io/blogs/2025/03/07/claude-code/)
 * [2025-03-12, 14:44:54](https://lobste.rs/s/icbgrq/perplexing_javascript_parsing_puzzle) - [A Perplexing Javascript Parsing Puzzle](https://www.hillelwayne.com/post/javascript-puzzle/)
 * [2025-03-12, 14:42:24](https://lobste.rs/s/iw9stc/initializing_lte_modem_using_raw_usb) - [Initializing an LTE modem using raw USB communication](https://dawidwrobel.com/journal/initializing-lte-modem-using-raw-usb-communication/)
 * [2025-03-12, 14:30:22](https://lobste.rs/s/0dqswp/hacking_gpo_746_rotary_phone) - [Hacking a GPO 746 rotary phone](https://blog.yaymukund.com/posts/hacking-a-gpo-746-rotary-phone/)
