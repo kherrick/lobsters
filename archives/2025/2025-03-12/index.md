@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-12](index.md)
 
+* [2025-03-12, 18:44:55](https://lobste.rs/s/ec1z6z/inline_evaluation_adventure) - [Inline Evaluation Adventure](https://rigsomelight.com/2025/03/12/inline-eval-adventure.html)
+* [2025-03-12, 18:35:32](https://lobste.rs/s/v8vnjo/dropping_risc_v_support) - [Dropping RISC-V support](https://chimera-linux.org/news/2025/03/dropping-riscv.html)
 * [2025-03-12, 18:12:22](https://lobste.rs/s/epkigb/gemini_embedding_generalizable) - [Gemini Embedding: Generalizable Embeddings from Gemini](https://deepmind.google/research/publications/157741/)
 * [2025-03-12, 18:05:05](https://lobste.rs/s/9bgx8t/why_i_stopped_everything_started_writing) - [Why I stopped everything and started writing C again](https://www.kmx.io/blog/why-stopped-everything-and-started-writing-C-again)
 * [2025-03-12, 17:37:32](https://lobste.rs/s/vh3n7k/codebase_national_lab_i_worked_at) - [The Codebase of a National Lab I Worked At](https://mirawelner.com/posts/fed_code.html)
