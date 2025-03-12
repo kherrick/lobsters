@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-12, 14:10:08](https://lobste.rs/s/v7qfbz/duckdb_local_ui) - [The DuckDB Local UI](https://duckdb.org/2025/03/12/duckdb-ui.html)
+* [2025-03-12, 13:55:43](https://lobste.rs/s/iqtaie/haiku_activity_contract_report_february) - [Haiku Activity & Contract Report, February 2025](https://www.haiku-os.org/blog/waddlesplash/2025-03-11-haiku_activity_contract_report_february_2025/)
 * [2025-03-12, 11:47:00](https://lobste.rs/s/35dgcs/rmk_rust_keyboard_firmware_library_with) - [rmk: Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support](https://github.com/HaoboGu/rmk)
 * [2025-03-12, 06:59:39](https://lobste.rs/s/b6vdmd/on_insecurity_telecom_stacks_wake_salt) - [On The Insecurity of Telecom Stacks in the Wake of Salt Typhoon](https://soatok.blog/2025/03/12/on-the-insecurity-of-telecom-stacks-in-the-wake-of-salt-typhoon/)
 * [2025-03-12, 04:48:38](https://lobste.rs/s/z66ftn/art_formatting_code) - [The Art of Formatting Code](https://mcyoung.xyz/2025/03/11/formatters/)
@@ -10,7 +12,6 @@
 * [2025-03-11, 22:09:40](https://lobste.rs/s/4eobii/how_afterhour_built_ultra_scalable_chat) - [How AfterHour built an ultra-scalable chat service in one month with Rama](https://blog.redplanetlabs.com/2025/03/11/how-afterhour-built-an-ultra-scalable-chat-service-in-one-month-with-rama/)
 * [2025-03-11, 21:22:01](https://lobste.rs/s/pbqsop/unix_needs_true_integrated_environment) - [UNIX Needs A True Integrated Environment: CASE Closed (1989)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
 * [2025-03-11, 20:59:46](https://lobste.rs/s/qsmfvf/owi_cross_language_bugfinder) - [owi: Cross-language Bugfinder](https://github.com/OCamlPro/owi)
-* [2025-03-11, 20:57:41](https://lobste.rs/s/kgdcna/r7rs_large_stygian_blue_reddish_green) - [R7RS Large Stygian Blue/Reddish Green ballot](https://surveys.nonceword.org/?r=survey/index&sid=242775&lang=en)
 * [2025-03-11, 20:46:07](https://lobste.rs/s/hoirtg/making_multiplayer_action_game_haskell) - [Making a multiplayer action game in Haskell](https://gitlab.com/-/snippets/4817016)
 * [2025-03-11, 20:08:58](https://lobste.rs/s/oi1vqm/rust_trait_object_layout) - [Rust trait object layout](https://neugierig.org/software/blog/2025/03/trait-object-layout.html)
 * [2025-03-11, 19:57:53](https://lobste.rs/s/jgpcfa/rsync_over_grpc_demo_program_rsync_file) - [rsync-over-grpc: demo program: rsync file transfer (with the gokrazy/rsync module) over gRPC transport](https://github.com/stapelberg/rsync-over-grpc)
@@ -24,7 +25,6 @@
 * [2025-03-11, 11:44:27](https://lobste.rs/s/j6bb5k/implementation_j_roger_hui) - [An Implementation of J - Roger Hui](https://www.jsoftware.com/books/pdf/aioj.pdf)
 * [2025-03-11, 07:51:34](https://lobste.rs/s/fwcnkf/early_look_at_nix_dynamic_derivations) - [An early look at Nix Dynamic Derivations](https://fzakaria.com/2025/03/10/an-early-look-at-nix-dynamic-derivations)
 * [2025-03-11, 04:03:51](https://lobste.rs/s/jalbsf/how_i_built_this_website_on_raspberry_pi) - [How I built this website on a Raspberry Pi](https://mirawelner.com/posts/website_howto.html)
-* [2025-03-10, 20:01:55](https://lobste.rs/s/ekuzbe/introducing_sidekiq_8_0) - [Introducing Sidekiq 8.0](https://www.mikeperham.com/2025/03/05/introducing-sidekiq-8.0/)
 
 ## [Archives](archives/index.md)
 
