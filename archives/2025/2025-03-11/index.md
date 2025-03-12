@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-11](index.md)
 
+* [2025-03-11, 23:05:11](https://lobste.rs/s/34dsf7/re_writing_interpreter_rust) - [(Re)writing an interpreter in Rust](https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/)
 * [2025-03-11, 22:09:40](https://lobste.rs/s/4eobii/how_afterhour_built_ultra_scalable_chat) - [How AfterHour built an ultra-scalable chat service in one month with Rama](https://blog.redplanetlabs.com/2025/03/11/how-afterhour-built-an-ultra-scalable-chat-service-in-one-month-with-rama/)
 * [2025-03-11, 22:07:03](https://lobste.rs/s/veuycb/factorio_learning_environment) - [Factorio Learning Environment](https://jackhopkins.github.io/factorio-learning-environment/)
 * [2025-03-11, 21:22:01](https://lobste.rs/s/pbqsop/unix_needs_true_integrated_environment) - [UNIX Needs A True Integrated Environment: CASE Closed (1989)](http://www.bitsavers.org/pdf/xerox/parc/techReports/CSL-89-4_UNIX_Needs_A_True_Integrated_Environment.pdf)
