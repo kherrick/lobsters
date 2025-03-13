@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-03-13, 11:05:48",
+      "https://lobste.rs/s/sd8mtf/xit_devlog_optional_patches_force_push"
+    ],
+    [
+      "Xit devlog - optional patches, force push, symlinks",
+      "https://radarroark.github.io/xit/devlog-optional-patches.html"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 10:39:44",
       "https://lobste.rs/s/chiije/my_teen_years_porting_small_c_transputer"
     ],
@@ -217,16 +227,6 @@
     [
       "The DuckDB Local UI",
       "https://duckdb.org/2025/03/12/duckdb-ui.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 11:47:00",
-      "https://lobste.rs/s/35dgcs/rmk_rust_keyboard_firmware_library_with"
-    ],
-    [
-      "rmk: Rust keyboard firmware library with layers, macros, real-time keymap editing, wireless(BLE) and split support",
-      "https://github.com/HaoboGu/rmk"
     ]
   ],
   [
