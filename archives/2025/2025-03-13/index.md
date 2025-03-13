@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 13:40:48](https://lobste.rs/s/vvcazf/webassembly_from_ground_up_learn_wasm_by) - [WebAssembly from the Ground Up – learn WASM by building a compiler](https://lobste.rs/s/vvcazf/webassembly_from_ground_up_learn_wasm_by)
+* [2025-03-13, 13:37:10](https://lobste.rs/s/vanuj2/smoke_test_your_django_admin_site) - [Smoke test your Django admin site](https://jmduke.com/posts/post/django-admin-changelist-test/)
 * [2025-03-13, 11:42:56](https://lobste.rs/s/ow3d4j/almquist_shell_ash_variants) - [Almquist shell (ash) variants](https://www.in-ulm.de/~mascheck/various/ash/)
 * [2025-03-13, 11:05:48](https://lobste.rs/s/sd8mtf/xit_devlog_optional_patches_force_push) - [Xit devlog - optional patches, force push, symlinks](https://radarroark.github.io/xit/devlog-optional-patches.html)
 * [2025-03-13, 10:39:44](https://lobste.rs/s/chiije/my_teen_years_porting_small_c_transputer) - [My teen years: Porting Small-C to transputer and developing my operating system](https://nanochess.org/bootstrapping_c_os_transputer.html)
