@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-13, 18:31:07",
+      "https://lobste.rs/s/mzbcpk/xata_agent_ai_agent_expert_postgresql"
+    ],
+    [
+      "Xata Agent: AI agent expert in PostgreSQL",
+      "https://github.com/xataio/agent"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 17:14:48",
       "https://lobste.rs/s/gvgmth/choosing_languages"
     ],
@@ -77,16 +87,6 @@
     [
       "Almquist shell (ash) variants",
       "https://www.in-ulm.de/~mascheck/various/ash/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 11:05:48",
-      "https://lobste.rs/s/sd8mtf/xit_devlog_optional_patches_force_push"
-    ],
-    [
-      "Xit devlog - optional patches, force push, symlinks",
-      "https://radarroark.github.io/xit/devlog-optional-patches.html"
     ]
   ],
   [
