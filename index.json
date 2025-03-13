@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-13, 20:06:14",
+      "https://lobste.rs/s/p4xdsv/io_devices_latency"
+    ],
+    [
+      "IO devices and latency",
+      "https://planetscale.com/blog/io-devices-and-latency"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 18:31:07",
       "https://lobste.rs/s/mzbcpk/xata_agent_ai_agent_expert_postgresql"
     ],
@@ -147,16 +157,6 @@
     [
       "Upgrading Semgrep from OCaml 4 to OCaml 5",
       "https://semgrep.dev/blog/2025/upgrading-semgrep-from-ocaml-4-to-ocaml-5/"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 19:49:27",
-      "https://lobste.rs/s/pua4kr/traversal_resistant_file_apis"
-    ],
-    [
-      "Traversal-resistant file APIs",
-      "https://go.dev/blog/osroot"
     ]
   ],
   [
