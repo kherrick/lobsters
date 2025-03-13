@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-13, 22:58:42",
+      "https://lobste.rs/s/ozgd5s/can_we_communally_deprecate_git_checkout"
+    ],
+    [
+      "Can we communally deprecate git checkout?",
+      "https://mirawelner.com/posts/checkout.html"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 22:36:40",
       "https://lobste.rs/s/lni15k/what_programming_concepts_do_you"
     ],
@@ -127,16 +137,6 @@
     [
       "Almquist shell (ash) variants",
       "https://www.in-ulm.de/~mascheck/various/ash/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 11:05:48",
-      "https://lobste.rs/s/sd8mtf/xit_devlog_optional_patches_force_push"
-    ],
-    [
-      "Xit devlog - optional patches, force push, symlinks",
-      "https://radarroark.github.io/xit/devlog-optional-patches.html"
     ]
   ],
   [
