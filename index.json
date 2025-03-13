@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-13, 10:39:44",
+      "https://lobste.rs/s/chiije/my_teen_years_porting_small_c_transputer"
+    ],
+    [
+      "My teen years: Porting Small-C to transputer and developing my operating system",
+      "https://nanochess.org/bootstrapping_c_os_transputer.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-13, 10:23:16",
+      "https://lobste.rs/s/whrdfm/cursor_told_me_i_should_learn_coding"
+    ],
+    [
+      "Cursor told me I should learn coding instead of asking it to generate code",
+      "https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 08:07:44",
       "https://lobste.rs/s/56ys0f/we_should_improve_libzfs_somewhat"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-03-12, 13:55:43",
-      "https://lobste.rs/s/iqtaie/haiku_activity_contract_report_february"
-    ],
-    [
-      "Haiku Activity & Contract Report, February 2025",
-      "https://www.haiku-os.org/blog/waddlesplash/2025-03-11-haiku_activity_contract_report_february_2025/"
-    ]
-  ],
-  [
-    [
       "2025-03-12, 11:47:00",
       "https://lobste.rs/s/35dgcs/rmk_rust_keyboard_firmware_library_with"
     ],
@@ -217,16 +227,6 @@
     [
       "Perspectives from the Technical University of Munich",
       "https://mirawelner.com/posts/TUM_thoughts.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-11, 23:05:11",
-      "https://lobste.rs/s/34dsf7/re_writing_interpreter_rust"
-    ],
-    [
-      "(Re)writing an interpreter in Rust",
-      "https://www.dannyvankooten.com/blog/2022/rewriting-interpreter-rust/"
     ]
   ],
   [
