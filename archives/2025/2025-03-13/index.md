@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-13](index.md)
 
+* [2025-03-13, 15:11:31](https://lobste.rs/s/atvfzs/stumbling_our_way_into_solving_world_s) - [Stumbling our way into Solving the World's Oldest Board Game](https://royalur.net/blog/solved)
 * [2025-03-13, 14:33:36](https://lobste.rs/s/fpoyhd/how_write_quine) - [How to write a quine](https://czterycztery.pl/slowo/quine-EN.html)
 * [2025-03-13, 13:40:48](https://lobste.rs/s/vvcazf/webassembly_from_ground_up_learn_wasm_by) - [WebAssembly from the Ground Up – learn WASM by building a compiler](https://lobste.rs/s/vvcazf/webassembly_from_ground_up_learn_wasm_by)
 * [2025-03-13, 13:37:10](https://lobste.rs/s/vanuj2/smoke_test_your_django_admin_site) - [Smoke test your Django admin site](https://jmduke.com/posts/post/django-admin-changelist-test/)
