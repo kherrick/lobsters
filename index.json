@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-13, 00:44:45",
+      "https://lobste.rs/s/azpmu3/something_is_rotten_state_cupertino"
+    ],
+    [
+      "Something Is Rotten in the State of Cupertino",
+      "https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino"
+    ]
+  ],
+  [
+    [
+      "2025-03-12, 23:16:07",
+      "https://lobste.rs/s/dzgudd/complexity_as_entropy"
+    ],
+    [
+      "complexity as entropy",
+      "https://explaining.software/archive/complexity-as-entropy/"
+    ]
+  ],
+  [
+    [
       "2025-03-12, 20:02:38",
       "https://lobste.rs/s/exrq7d/upgrading_semgrep_from_ocaml_4_ocaml_5"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-03-12, 16:21:24",
-      "https://lobste.rs/s/8tz0cn/high_performance_png_decoding"
-    ],
-    [
-      "High-performance PNG decoding",
-      "https://blend2d.com/blog/png-image-codec.html"
-    ]
-  ],
-  [
-    [
       "2025-03-12, 14:44:54",
       "https://lobste.rs/s/icbgrq/perplexing_javascript_parsing_puzzle"
     ],
@@ -207,16 +217,6 @@
     [
       "Perspectives from the Technical University of Munich",
       "https://mirawelner.com/posts/TUM_thoughts.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 01:17:25",
-      "https://lobste.rs/s/u09ig5/translating_bzip2_with_c2rust"
-    ],
-    [
-      "Translating bzip2 with c2rust",
-      "https://tweedegolf.nl/en/blog/151/translating-bzip2-with-c2rust"
     ]
   ],
   [
