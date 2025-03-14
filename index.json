@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-14, 05:25:45",
+      "https://lobste.rs/s/m1ngf0/memory_corruption_delphi"
+    ],
+    [
+      "Memory Corruption in Delphi",
+      "https://blog.includesecurity.com/2025/03/memory-corruption-in-delphi/"
+    ]
+  ],
+  [
+    [
       "2025-03-13, 23:30:12",
       "https://lobste.rs/s/lkdgd4/typestate_programming"
     ],
@@ -147,16 +157,6 @@
     [
       "Almquist shell (ash) variants",
       "https://www.in-ulm.de/~mascheck/various/ash/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 10:39:44",
-      "https://lobste.rs/s/chiije/my_teen_years_porting_small_c_transputer"
-    ],
-    [
-      "My teen years: Porting Small-C to transputer and developing my operating system",
-      "https://nanochess.org/bootstrapping_c_os_transputer.html"
     ]
   ],
   [
