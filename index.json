@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-14, 07:09:00",
+      "https://lobste.rs/s/ve6gyy/recursion_kills_story_behind_cve_2024"
+    ],
+    [
+      "Recursion kills: The story behind CVE-2024-8176 / Expat 2.7.0 released, includes security fixes",
+      "https://blog.hartwork.org/posts/expat-2-7-0-released/"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 05:25:45",
       "https://lobste.rs/s/m1ngf0/memory_corruption_delphi"
     ],
@@ -197,16 +207,6 @@
     [
       "Something Is Rotten in the State of Cupertino",
       "https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 20:02:38",
-      "https://lobste.rs/s/exrq7d/upgrading_semgrep_from_ocaml_4_ocaml_5"
-    ],
-    [
-      "Upgrading Semgrep from OCaml 4 to OCaml 5",
-      "https://semgrep.dev/blog/2025/upgrading-semgrep-from-ocaml-4-to-ocaml-5/"
     ]
   ],
   [
