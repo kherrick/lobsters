@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-14, 18:24:41](https://lobste.rs/s/mhlu10/pi_search_page) - [The Pi-Search Page](http://angio.net/pi)
 * [2025-03-14, 17:51:44](https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c) - [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
 * [2025-03-14, 17:21:58](https://lobste.rs/s/ne5f9a/decoding_json_sum_types_go_without) - [Decoding JSON sum types in Go without panicking](https://nicolashery.com/decoding-json-sum-types-in-go/)
 * [2025-03-14, 15:52:18](https://lobste.rs/s/gl8tms/is_your_rails_application_special) - [Is your Rails application special?](https://blog.arkency.com/is-your-rails-application-special/)
@@ -10,7 +11,6 @@
 * [2025-03-14, 12:20:26](https://lobste.rs/s/zu67of/pam_unixsock) - [PAM unixsock](https://miek.nl/2025/march/14/pam-unixsock/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
 * [2025-03-14, 11:45:15](https://lobste.rs/s/ybqek7/tinykvm_fastest_sandbox) - [TinyKVM: The Fastest Sandbox](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
-* [2025-03-14, 10:55:25](https://lobste.rs/s/m8cbkw/it_s_not_as_simple_as_use_memory_safe) - [It’s Not As Simple As “Use A Memory Safe Language\" - YouTube](https://www.youtube.com/watch?v=iQ-eTaW6-cM)
 * [2025-03-14, 10:27:58](https://lobste.rs/s/l4tc7w/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l4tc7w/what_are_you_doing_this_weekend)
 * [2025-03-14, 10:22:09](https://lobste.rs/s/emajqr/enhancing_ca_practices_key_updates) - [Enhancing CA Practices: Key Updates in Mozilla Root Store Policy, v3.0](https://blog.mozilla.org/security/2025/03/12/enhancing-ca-practices-key-updates-in-mozilla-root-store-policy-v3-0/)
 * [2025-03-14, 08:33:52](https://lobste.rs/s/ix1yqo/i_cant_believe_its_not_webusb_hacking) - [i-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)

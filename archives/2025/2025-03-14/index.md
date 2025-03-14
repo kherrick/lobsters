@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 18:24:41](https://lobste.rs/s/mhlu10/pi_search_page) - [The Pi-Search Page](http://angio.net/pi)
 * [2025-03-14, 17:51:44](https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c) - [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
 * [2025-03-14, 17:21:58](https://lobste.rs/s/ne5f9a/decoding_json_sum_types_go_without) - [Decoding JSON sum types in Go without panicking](https://nicolashery.com/decoding-json-sum-types-in-go/)
 * [2025-03-14, 15:52:18](https://lobste.rs/s/gl8tms/is_your_rails_application_special) - [Is your Rails application special?](https://blog.arkency.com/is-your-rails-application-special/)
