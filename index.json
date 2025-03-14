@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-14, 18:37:37",
+      "https://lobste.rs/s/eo4avr/how_beat_nes_mario_0_000005_seconds"
+    ],
+    [
+      "How to beat NES mario in 0.000005 seconds",
+      "https://www.youtube.com/watch?v=pK7hU-ovUso"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 18:24:41",
       "https://lobste.rs/s/mhlu10/pi_search_page"
     ],
@@ -157,16 +167,6 @@
     [
       "Recursion kills: The story behind CVE-2024-8176 / Expat 2.7.0 released, includes security fixes",
       "https://blog.hartwork.org/posts/expat-2-7-0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 23:30:12",
-      "https://lobste.rs/s/lkdgd4/typestate_programming"
-    ],
-    [
-      "Typestate Programming",
-      "https://docs.rust-embedded.org/book/static-guarantees/typestate-programming.html"
     ]
   ],
   [
