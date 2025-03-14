@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-14, 17:21:58",
+      "https://lobste.rs/s/ne5f9a/decoding_json_sum_types_go_without"
+    ],
+    [
+      "Decoding JSON sum types in Go without panicking",
+      "https://nicolashery.com/decoding-json-sum-types-in-go/"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 15:52:18",
       "https://lobste.rs/s/gl8tms/is_your_rails_application_special"
     ],
@@ -237,16 +247,6 @@
     [
       "Cursor told me I should learn coding instead of asking it to generate code",
       "https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 00:44:45",
-      "https://lobste.rs/s/azpmu3/something_is_rotten_state_cupertino"
-    ],
-    [
-      "Something Is Rotten in the State of Cupertino",
-      "https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino"
     ]
   ]
 ]
