@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-14, 08:33:52",
+      "https://lobste.rs/s/ix1yqo/i_cant_believe_its_not_webusb_hacking"
+    ],
+    [
+      "i-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox",
+      "https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 08:32:49",
+      "https://lobste.rs/s/lomwgf/coq_rust_formal_verification_tool_for"
+    ],
+    [
+      "coq-of-rust: Formal verification tool for Rust",
+      "https://github.com/formal-land/coq-of-rust"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 07:09:00",
       "https://lobste.rs/s/ve6gyy/recursion_kills_story_behind_cve_2024"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-03-13, 15:11:31",
-      "https://lobste.rs/s/atvfzs/stumbling_our_way_into_solving_world_s"
-    ],
-    [
-      "Stumbling our way into Solving the World's Oldest Board Game",
-      "https://royalur.net/blog/solved"
-    ]
-  ],
-  [
-    [
       "2025-03-13, 14:33:36",
       "https://lobste.rs/s/fpoyhd/how_write_quine"
     ],
@@ -227,16 +237,6 @@
     [
       "Carefully But Purposefully Oxidising Ubuntu",
       "https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 14:44:54",
-      "https://lobste.rs/s/icbgrq/perplexing_javascript_parsing_puzzle"
-    ],
-    [
-      "A Perplexing Javascript Parsing Puzzle",
-      "https://www.hillelwayne.com/post/javascript-puzzle/"
     ]
   ],
   [
