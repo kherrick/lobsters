@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-14, 10:27:58",
+      "https://lobste.rs/s/l4tc7w/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/l4tc7w/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 10:22:09",
+      "https://lobste.rs/s/emajqr/enhancing_ca_practices_key_updates"
+    ],
+    [
+      "Enhancing CA Practices: Key Updates in Mozilla Root Store Policy, v3.0",
+      "https://blog.mozilla.org/security/2025/03/12/enhancing-ca-practices-key-updates-in-mozilla-root-store-policy-v3-0/"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 08:33:52",
       "https://lobste.rs/s/ix1yqo/i_cant_believe_its_not_webusb_hacking"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-03-13, 13:37:10",
-      "https://lobste.rs/s/vanuj2/smoke_test_your_django_admin_site"
-    ],
-    [
-      "Smoke test your Django admin site",
-      "https://jmduke.com/posts/post/django-admin-changelist-test/"
-    ]
-  ],
-  [
-    [
       "2025-03-13, 11:42:56",
       "https://lobste.rs/s/ow3d4j/almquist_shell_ash_variants"
     ],
@@ -217,16 +227,6 @@
     [
       "Something Is Rotten in the State of Cupertino",
       "https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 18:35:32",
-      "https://lobste.rs/s/v8vnjo/dropping_risc_v_support"
-    ],
-    [
-      "Dropping RISC-V support",
-      "https://chimera-linux.org/news/2025/03/dropping-riscv.html"
     ]
   ],
   [
