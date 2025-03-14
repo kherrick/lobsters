@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-14, 20:47:43](https://lobste.rs/s/fsltxl/broken_mindset_modern_graphics) - [The Broken Mindset Of Modern Graphics & Optimization](https://www.youtube.com/watch?v=KEtb0punTHk)
+* [2025-03-14, 20:46:34](https://lobste.rs/s/tp9nd9/ruby_debugging_tips_recommendations) - [Ruby Debugging Tips and Recommendations in 2025](https://railsatscale.com/2025-03-14-ruby-debugging-tips-and-recommendations-2025/)
 * [2025-03-14, 20:26:26](https://lobste.rs/s/dckdk4/shellcode_encoded_uuids) - [Shellcode Encoded in UUIDs](https://isc.sans.edu/diary/31752)
 * [2025-03-14, 18:37:37](https://lobste.rs/s/eo4avr/how_beat_nes_mario_0_000005_seconds) - [How to beat NES mario in 0.000005 seconds](https://www.youtube.com/watch?v=pK7hU-ovUso)
 * [2025-03-14, 18:24:41](https://lobste.rs/s/mhlu10/pi_search_page) - [The Pi-Search Page](http://angio.net/pi)
@@ -8,7 +10,6 @@
 * [2025-03-14, 15:52:18](https://lobste.rs/s/gl8tms/is_your_rails_application_special) - [Is your Rails application special?](https://blog.arkency.com/is-your-rails-application-special/)
 * [2025-03-14, 15:10:25](https://lobste.rs/s/hxbjug/did_u_ever_read_so_hard_u_accidentally) - [did u ever read so hard u accidentally wrote?](https://blog.danslimmon.com/2025/03/14/did-u-ever-read-so-hard-u-accidentally-wrote/)
 * [2025-03-14, 13:34:33](https://lobste.rs/s/fwr4xh/my_scammer_girlfriend_baiting_romance) - [My Scammer Girlfriend: Baiting A Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
-* [2025-03-14, 13:16:04](https://lobste.rs/s/pecrwr/hashchain_very_fast_online_factor_based) - [HashChain: A very fast online factor-based sublinear exact-matching string search algorithm](https://github.com/nishihatapalmer/HashChain)
 * [2025-03-14, 13:01:17](https://lobste.rs/s/c7t7kz/look_at_firefox_forks) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 12:20:26](https://lobste.rs/s/zu67of/pam_unixsock) - [PAM unixsock](https://miek.nl/2025/march/14/pam-unixsock/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
@@ -22,7 +23,6 @@
 * [2025-03-13, 22:36:40](https://lobste.rs/s/lni15k/what_programming_concepts_do_you) - [What Programming Concepts do you Struggle to Grok or Use in Production?](https://lobste.rs/s/lni15k/what_programming_concepts_do_you)
 * [2025-03-13, 21:49:42](https://lobste.rs/s/t2bmsy/fsync_after_open_is_elaborate_no_op) - [fsync() after open() is an elaborate no-op](https://despairlabs.com/blog/posts/2025-03-13-fsync-after-open-is-an-elaborate-no-op/)
 * [2025-03-13, 17:14:48](https://lobste.rs/s/gvgmth/choosing_languages) - [Choosing Languages](https://steveklabnik.com/writing/choosing-languages/)
-* [2025-03-13, 16:54:12](https://lobste.rs/s/odzx0k/curry_truly_integrated_functional_logic) - [Curry: A Truly Integrated Functional Logic Programming Language](https://curry-lang.org)
 * [2025-03-13, 13:40:48](https://lobste.rs/s/vvcazf/webassembly_from_ground_up_learn_wasm_by) - [WebAssembly from the Ground Up – learn WASM by building a compiler](https://lobste.rs/s/vvcazf/webassembly_from_ground_up_learn_wasm_by)
 * [2025-03-13, 10:23:16](https://lobste.rs/s/whrdfm/cursor_told_me_i_should_learn_coding) - [Cursor told me I should learn coding instead of asking it to generate code](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
 

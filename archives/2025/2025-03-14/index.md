@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 20:47:43](https://lobste.rs/s/fsltxl/broken_mindset_modern_graphics) - [The Broken Mindset Of Modern Graphics & Optimization](https://www.youtube.com/watch?v=KEtb0punTHk)
+* [2025-03-14, 20:46:34](https://lobste.rs/s/tp9nd9/ruby_debugging_tips_recommendations) - [Ruby Debugging Tips and Recommendations in 2025](https://railsatscale.com/2025-03-14-ruby-debugging-tips-and-recommendations-2025/)
 * [2025-03-14, 20:26:26](https://lobste.rs/s/dckdk4/shellcode_encoded_uuids) - [Shellcode Encoded in UUIDs](https://isc.sans.edu/diary/31752)
 * [2025-03-14, 19:44:11](https://lobste.rs/s/fvm1xn/kerning_hard_way) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
 * [2025-03-14, 18:37:37](https://lobste.rs/s/eo4avr/how_beat_nes_mario_0_000005_seconds) - [How to beat NES mario in 0.000005 seconds](https://www.youtube.com/watch?v=pK7hU-ovUso)
