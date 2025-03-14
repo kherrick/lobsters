@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-14, 19:44:11](https://lobste.rs/s/fvm1xn/kerning_hard_way) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
 * [2025-03-14, 18:37:37](https://lobste.rs/s/eo4avr/how_beat_nes_mario_0_000005_seconds) - [How to beat NES mario in 0.000005 seconds](https://www.youtube.com/watch?v=pK7hU-ovUso)
 * [2025-03-14, 18:24:41](https://lobste.rs/s/mhlu10/pi_search_page) - [The Pi-Search Page](http://angio.net/pi)
 * [2025-03-14, 17:51:44](https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c) - [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
@@ -17,7 +18,6 @@
 * [2025-03-14, 08:33:52](https://lobste.rs/s/ix1yqo/i_cant_believe_its_not_webusb_hacking) - [i-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
 * [2025-03-14, 08:32:49](https://lobste.rs/s/lomwgf/coq_rust_formal_verification_tool_for) - [coq-of-rust: Formal verification tool for Rust](https://github.com/formal-land/coq-of-rust)
 * [2025-03-14, 07:09:00](https://lobste.rs/s/ve6gyy/recursion_kills_story_behind_cve_2024) - [Recursion kills: The story behind CVE-2024-8176 / Expat 2.7.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-7-0-released/)
-* [2025-03-13, 23:30:12](https://lobste.rs/s/lkdgd4/typestate_programming) - [Typestate Programming](https://docs.rust-embedded.org/book/static-guarantees/typestate-programming.html)
 * [2025-03-13, 22:58:42](https://lobste.rs/s/ozgd5s/can_we_communally_deprecate_git_checkout) - [Can we communally deprecate git checkout?](https://mirawelner.com/posts/checkout.html)
 * [2025-03-13, 22:36:40](https://lobste.rs/s/lni15k/what_programming_concepts_do_you) - [What Programming Concepts do you Struggle to Grok or Use in Production?](https://lobste.rs/s/lni15k/what_programming_concepts_do_you)
 * [2025-03-13, 21:49:42](https://lobste.rs/s/t2bmsy/fsync_after_open_is_elaborate_no_op) - [fsync() after open() is an elaborate no-op](https://despairlabs.com/blog/posts/2025-03-13-fsync-after-open-is-an-elaborate-no-op/)
