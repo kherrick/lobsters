@@ -2,7 +2,6 @@
 
 * [2025-03-14, 13:34:33](https://lobste.rs/s/fwr4xh/my_scammer_girlfriend_baiting_romance) - [My Scammer Girlfriend: Baiting A Romance Fraudster](https://www.bentasker.co.uk/posts/blog/security/seducing-a-romance-scammer.html)
 * [2025-03-14, 13:16:04](https://lobste.rs/s/pecrwr/hashchain_very_fast_online_factor_based) - [HashChain: A very fast online factor-based sublinear exact-matching string search algorithm](https://github.com/nishihatapalmer/HashChain)
-* [2025-03-14, 13:12:58](https://lobste.rs/s/cy8a6l/yahoo_changes_their_tos_let_them_train_ai) - [Yahoo Changes their ToS to let them train AI on your Inbox](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html)
 * [2025-03-14, 13:01:17](https://lobste.rs/s/c7t7kz/look_at_firefox_forks) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 12:20:26](https://lobste.rs/s/zu67of/pam_unixsock) - [PAM unixsock](https://miek.nl/2025/march/14/pam-unixsock/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
@@ -12,6 +11,7 @@
 * [2025-03-14, 08:33:52](https://lobste.rs/s/ix1yqo/i_cant_believe_its_not_webusb_hacking) - [i-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
 * [2025-03-14, 08:32:49](https://lobste.rs/s/lomwgf/coq_rust_formal_verification_tool_for) - [coq-of-rust: Formal verification tool for Rust](https://github.com/formal-land/coq-of-rust)
 * [2025-03-14, 07:09:00](https://lobste.rs/s/ve6gyy/recursion_kills_story_behind_cve_2024) - [Recursion kills: The story behind CVE-2024-8176 / Expat 2.7.0 released, includes security fixes](https://blog.hartwork.org/posts/expat-2-7-0-released/)
+* [2025-03-13, 23:30:12](https://lobste.rs/s/lkdgd4/typestate_programming) - [Typestate Programming](https://docs.rust-embedded.org/book/static-guarantees/typestate-programming.html)
 * [2025-03-13, 22:58:42](https://lobste.rs/s/ozgd5s/can_we_communally_deprecate_git_checkout) - [Can we communally deprecate git checkout?](https://mirawelner.com/posts/checkout.html)
 * [2025-03-13, 22:36:40](https://lobste.rs/s/lni15k/what_programming_concepts_do_you) - [What Programming Concepts do you Struggle to Grok or Use in Production?](https://lobste.rs/s/lni15k/what_programming_concepts_do_you)
 * [2025-03-13, 21:54:54](https://lobste.rs/s/ubwuzz/high_performance_computing_with_much) - [High-performance computing, with much less code](https://news.mit.edu/2025/high-performance-computing-with-much-less-code-0313)
