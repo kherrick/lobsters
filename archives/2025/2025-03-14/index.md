@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 13:16:04](https://lobste.rs/s/pecrwr/hashchain_very_fast_online_factor_based) - [HashChain: A very fast online factor-based sublinear exact-matching string search algorithm](https://github.com/nishihatapalmer/HashChain)
+* [2025-03-14, 13:12:58](https://lobste.rs/s/cy8a6l/yahoo_changes_their_tos_let_them_train_ai) - [Yahoo Changes their ToS to let them train AI on your Inbox](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html)
 * [2025-03-14, 13:01:17](https://lobste.rs/s/c7t7kz/look_at_firefox_forks) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 12:20:26](https://lobste.rs/s/zu67of/pam_unixsock) - [PAM unixsock](https://miek.nl/2025/march/14/pam-unixsock/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)

@@ -1,10 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-14, 13:16:04](https://lobste.rs/s/pecrwr/hashchain_very_fast_online_factor_based) - [HashChain: A very fast online factor-based sublinear exact-matching string search algorithm](https://github.com/nishihatapalmer/HashChain)
+* [2025-03-14, 13:12:58](https://lobste.rs/s/cy8a6l/yahoo_changes_their_tos_let_them_train_ai) - [Yahoo Changes their ToS to let them train AI on your Inbox](https://legal.yahoo.com/us/en/yahoo/terms/otos/index.html)
 * [2025-03-14, 13:01:17](https://lobste.rs/s/c7t7kz/look_at_firefox_forks) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 12:20:26](https://lobste.rs/s/zu67of/pam_unixsock) - [PAM unixsock](https://miek.nl/2025/march/14/pam-unixsock/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
 * [2025-03-14, 11:45:15](https://lobste.rs/s/ybqek7/tinykvm_fastest_sandbox) - [TinyKVM: The Fastest Sandbox](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
-* [2025-03-14, 10:55:25](https://lobste.rs/s/m8cbkw/it_s_not_as_simple_as_use_memory_safe) - [It’s Not As Simple As “Use A Memory Safe Language\" - YouTube](https://www.youtube.com/watch?v=iQ-eTaW6-cM)
 * [2025-03-14, 10:27:58](https://lobste.rs/s/l4tc7w/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/l4tc7w/what_are_you_doing_this_weekend)
 * [2025-03-14, 10:22:09](https://lobste.rs/s/emajqr/enhancing_ca_practices_key_updates) - [Enhancing CA Practices: Key Updates in Mozilla Root Store Policy, v3.0](https://blog.mozilla.org/security/2025/03/12/enhancing-ca-practices-key-updates-in-mozilla-root-store-policy-v3-0/)
 * [2025-03-14, 08:33:52](https://lobste.rs/s/ix1yqo/i_cant_believe_its_not_webusb_hacking) - [i-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
@@ -23,7 +24,6 @@
 * [2025-03-13, 14:33:36](https://lobste.rs/s/fpoyhd/how_write_quine) - [How to write a quine](https://czterycztery.pl/slowo/quine-EN.html)
 * [2025-03-13, 13:40:48](https://lobste.rs/s/vvcazf/webassembly_from_ground_up_learn_wasm_by) - [WebAssembly from the Ground Up – learn WASM by building a compiler](https://lobste.rs/s/vvcazf/webassembly_from_ground_up_learn_wasm_by)
 * [2025-03-13, 10:23:16](https://lobste.rs/s/whrdfm/cursor_told_me_i_should_learn_coding) - [Cursor told me I should learn coding instead of asking it to generate code](https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132)
-* [2025-03-13, 06:35:32](https://lobste.rs/s/akxfbm/c_plus_prolog) - [C plus Prolog](https://github.com/needleful/c_plus_prolog)
 * [2025-03-13, 00:44:45](https://lobste.rs/s/azpmu3/something_is_rotten_state_cupertino) - [Something Is Rotten in the State of Cupertino](https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino)
 
 ## [Archives](archives/index.md)
