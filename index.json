@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-14, 19:44:11",
+      "https://lobste.rs/s/fvm1xn/kerning_hard_way"
+    ],
+    [
+      "Kerning, the Hard Way",
+      "https://home.octetfont.com/blog/kerning-hard.html"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 18:37:37",
       "https://lobste.rs/s/eo4avr/how_beat_nes_mario_0_000005_seconds"
     ],
@@ -167,16 +177,6 @@
     [
       "Recursion kills: The story behind CVE-2024-8176 / Expat 2.7.0 released, includes security fixes",
       "https://blog.hartwork.org/posts/expat-2-7-0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 23:30:12",
-      "https://lobste.rs/s/lkdgd4/typestate_programming"
-    ],
-    [
-      "Typestate Programming",
-      "https://docs.rust-embedded.org/book/static-guarantees/typestate-programming.html"
     ]
   ],
   [
