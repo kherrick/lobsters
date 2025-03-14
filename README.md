@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-14, 19:44:11](https://lobste.rs/s/fvm1xn/kerning_hard_way) - [Kerning, the Hard Way](https://home.octetfont.com/blog/kerning-hard.html)
+* [2025-03-14, 20:26:26](https://lobste.rs/s/dckdk4/shellcode_encoded_uuids) - [Shellcode Encoded in UUIDs](https://isc.sans.edu/diary/31752)
 * [2025-03-14, 18:37:37](https://lobste.rs/s/eo4avr/how_beat_nes_mario_0_000005_seconds) - [How to beat NES mario in 0.000005 seconds](https://www.youtube.com/watch?v=pK7hU-ovUso)
 * [2025-03-14, 18:24:41](https://lobste.rs/s/mhlu10/pi_search_page) - [The Pi-Search Page](http://angio.net/pi)
 * [2025-03-14, 17:51:44](https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c) - [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
