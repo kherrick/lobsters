@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-14, 11:49:39",
+      "https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git"
+    ],
+    [
+      "An introduction to Magit, an Emacs mode for Git",
+      "https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git"
+    ]
+  ],
+  [
+    [
+      "2025-03-14, 11:45:15",
+      "https://lobste.rs/s/ybqek7/tinykvm_fastest_sandbox"
+    ],
+    [
+      "TinyKVM: The Fastest Sandbox",
+      "https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 10:55:25",
       "https://lobste.rs/s/m8cbkw/it_s_not_as_simple_as_use_memory_safe"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-03-13, 11:42:56",
-      "https://lobste.rs/s/ow3d4j/almquist_shell_ash_variants"
-    ],
-    [
-      "Almquist shell (ash) variants",
-      "https://www.in-ulm.de/~mascheck/various/ash/"
-    ]
-  ],
-  [
-    [
       "2025-03-13, 10:23:16",
       "https://lobste.rs/s/whrdfm/cursor_told_me_i_should_learn_coding"
     ],
@@ -237,16 +247,6 @@
     [
       "Something Is Rotten in the State of Cupertino",
       "https://daringfireball.net/2025/03/something_is_rotten_in_the_state_of_cupertino"
-    ]
-  ],
-  [
-    [
-      "2025-03-12, 17:14:16",
-      "https://lobste.rs/s/nno4i5/carefully_purposefully_oxidising"
-    ],
-    [
-      "Carefully But Purposefully Oxidising Ubuntu",
-      "https://jnsgr.uk/2025/03/carefully-but-purposefully-oxidising-ubuntu/"
     ]
   ]
 ]
