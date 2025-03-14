@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-14, 17:51:44",
+      "https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c"
+    ],
+    [
+      "That time I recreated Photoshop in C++",
+      "https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 17:21:58",
       "https://lobste.rs/s/ne5f9a/decoding_json_sum_types_go_without"
     ],
@@ -197,16 +207,6 @@
     [
       "IO devices and latency",
       "https://planetscale.com/blog/io-devices-and-latency"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 18:31:07",
-      "https://lobste.rs/s/mzbcpk/xata_agent_ai_agent_expert_postgresql"
-    ],
-    [
-      "Xata Agent: AI agent expert in PostgreSQL",
-      "https://github.com/xataio/agent"
     ]
   ],
   [
