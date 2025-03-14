@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-14](index.md)
 
+* [2025-03-14, 23:09:40](https://lobste.rs/s/3dvymp/sicl_fresh_implementation_common_lisp) - [SICL: Fresh Implementation of Common Lisp](https://github.com/robert-strandh/SICL)
 * [2025-03-14, 21:25:24](https://lobste.rs/s/l6ignk/matching_regexps_200_times_faster) - [Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
 * [2025-03-14, 20:47:43](https://lobste.rs/s/fsltxl/broken_mindset_modern_graphics) - [The Broken Mindset Of Modern Graphics & Optimization](https://www.youtube.com/watch?v=KEtb0punTHk)
 * [2025-03-14, 20:46:34](https://lobste.rs/s/tp9nd9/ruby_debugging_tips_recommendations) - [Ruby Debugging Tips and Recommendations in 2025](https://railsatscale.com/2025-03-14-ruby-debugging-tips-and-recommendations-2025/)
