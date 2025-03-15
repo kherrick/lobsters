@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-15, 03:25:06",
+      "https://lobste.rs/s/4cw1ua/ruby_llm_delightful_ruby_way_work_with_ai"
+    ],
+    [
+      "ruby_llm, a delightful Ruby way to work with AI",
+      "https://github.com/crmne/ruby_llm"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 03:21:02",
       "https://lobste.rs/s/4ko499/popular_github_action_tj_actions_changed"
     ],
@@ -237,16 +247,6 @@
     [
       "What Programming Concepts do you Struggle to Grok or Use in Production?",
       "https://lobste.rs/s/lni15k/what_programming_concepts_do_you"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 10:23:16",
-      "https://lobste.rs/s/whrdfm/cursor_told_me_i_should_learn_coding"
-    ],
-    [
-      "Cursor told me I should learn coding instead of asking it to generate code",
-      "https://forum.cursor.com/t/cursor-told-me-i-should-learn-coding-instead-of-asking-it-to-generate-it-limit-of-800-locs/61132"
     ]
   ]
 ]
