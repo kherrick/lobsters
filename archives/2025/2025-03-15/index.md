@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 15:08:40](https://lobste.rs/s/cclrkn/were_multiple_return_values_go_s_biggest) - [Were multiple return values Go's biggest mistake?](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/)
 * [2025-03-15, 13:53:35](https://lobste.rs/s/mt1vop/ncsa_mosaic_1_0_released) - [NCSA Mosaic 1.0 Released](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html)
 * [2025-03-15, 12:42:09](https://lobste.rs/s/7ioavp/mapping_landscape_gen_ai_product_user) - [Mapping the landscape of gen-AI product user experience](https://interconnected.org/home/2024/07/19/ai-landscape)
 * [2025-03-15, 03:25:06](https://lobste.rs/s/4cw1ua/ruby_llm_delightful_ruby_way_work_with_ai) - [ruby_llm, a delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
