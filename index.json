@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-15, 15:08:40",
+      "https://lobste.rs/s/cclrkn/were_multiple_return_values_go_s_biggest"
+    ],
+    [
+      "Were multiple return values Go's biggest mistake?",
+      "https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 13:53:35",
       "https://lobste.rs/s/mt1vop/ncsa_mosaic_1_0_released"
     ],
@@ -57,16 +67,6 @@
     [
       "Why I Don't Like Hackathons",
       "https://mirawelner.com/posts/hackathons.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 00:16:46",
-      "https://lobste.rs/s/kv0hnd/comparison_common_lisp_testing"
-    ],
-    [
-      "Comparison of Common Lisp Testing Frameworks",
-      "https://sabracrolleton.github.io/testing-framework"
     ]
   ],
   [
