@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-15, 15:33:16](https://lobste.rs/s/9au3js/brat_virtual_machine) - [The Brat virtual machine](https://gitlab.com/worst-lang/brat)
 * [2025-03-15, 15:08:40](https://lobste.rs/s/cclrkn/were_multiple_return_values_go_s_biggest) - [Were multiple return values Go's biggest mistake?](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/)
 * [2025-03-15, 13:53:35](https://lobste.rs/s/mt1vop/ncsa_mosaic_1_0_released) - [NCSA Mosaic 1.0 Released](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html)
 * [2025-03-15, 12:42:09](https://lobste.rs/s/7ioavp/mapping_landscape_gen_ai_product_user) - [Mapping the landscape of gen-AI product user experience](https://interconnected.org/home/2024/07/19/ai-landscape)
@@ -23,7 +24,6 @@
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
 * [2025-03-14, 11:45:15](https://lobste.rs/s/ybqek7/tinykvm_fastest_sandbox) - [TinyKVM: The Fastest Sandbox](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
 * [2025-03-14, 08:33:52](https://lobste.rs/s/ix1yqo/i_cant_believe_its_not_webusb_hacking) - [i-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox](https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb)
-* [2025-03-14, 08:32:49](https://lobste.rs/s/lomwgf/coq_rust_formal_verification_tool_for) - [coq-of-rust: Formal verification tool for Rust](https://github.com/formal-land/coq-of-rust)
 * [2025-03-13, 22:58:42](https://lobste.rs/s/ozgd5s/can_we_communally_deprecate_git_checkout) - [Can we communally deprecate git checkout?](https://mirawelner.com/posts/checkout.html)
 
 ## [Archives](archives/index.md)
