@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-15, 18:37:25",
+      "https://lobste.rs/s/clmxv5/speeding_up_c_code_with_template_lambdas"
+    ],
+    [
+      "Speeding up C++ code with template lambdas",
+      "https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 18:26:57",
       "https://lobste.rs/s/w1lhln/comparing_video_encoders"
     ],
@@ -137,16 +147,6 @@
     [
       "Matching Regexps 200 Times Faster",
       "https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 20:46:34",
-      "https://lobste.rs/s/tp9nd9/ruby_debugging_tips_recommendations"
-    ],
-    [
-      "Ruby Debugging Tips and Recommendations in 2025",
-      "https://railsatscale.com/2025-03-14-ruby-debugging-tips-and-recommendations-2025/"
     ]
   ],
   [
