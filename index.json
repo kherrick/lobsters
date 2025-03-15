@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-03-14, 15:52:18",
+      "https://lobste.rs/s/gl8tms/is_your_rails_application_special"
+    ],
+    [
+      "Is your Rails application special?",
+      "https://blog.arkency.com/is-your-rails-application-special/"
+    ]
+  ],
+  [
+    [
       "2025-03-14, 15:10:25",
       "https://lobste.rs/s/hxbjug/did_u_ever_read_so_hard_u_accidentally"
     ],
@@ -237,16 +247,6 @@
     [
       "Can we communally deprecate git checkout?",
       "https://mirawelner.com/posts/checkout.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-13, 22:36:40",
-      "https://lobste.rs/s/lni15k/what_programming_concepts_do_you"
-    ],
-    [
-      "What Programming Concepts do you Struggle to Grok or Use in Production?",
-      "https://lobste.rs/s/lni15k/what_programming_concepts_do_you"
     ]
   ]
 ]
