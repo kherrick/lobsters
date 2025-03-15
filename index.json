@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-15, 18:26:57",
+      "https://lobste.rs/s/w1lhln/comparing_video_encoders"
+    ],
+    [
+      "Comparing Video Encoders",
+      "https://giannirosato.com/blog/post/comparing-encoders/"
+    ]
+  ],
+  [
+    [
       "2025-03-15, 17:22:41",
       "https://lobste.rs/s/t9wxfd/implicit_surfaces_independent_research"
     ],
@@ -227,16 +237,6 @@
     [
       "TinyKVM: The Fastest Sandbox",
       "https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 08:33:52",
-      "https://lobste.rs/s/ix1yqo/i_cant_believe_its_not_webusb_hacking"
-    ],
-    [
-      "i-cant-believe-its-not-webusb: Hacking around lack of WebUSB support in Firefox",
-      "https://github.com/ArcaneNibble/i-cant-believe-its-not-webusb"
     ]
   ],
   [
