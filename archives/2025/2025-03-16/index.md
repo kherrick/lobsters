@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 20:13:12](https://lobste.rs/s/byx7ej/evolution_interface_2000) - [The Evolution of the Interface (2000)](https://www.asktog.com/columns/038MacUITrends.html)
 * [2025-03-16, 19:31:45](https://lobste.rs/s/ra9g44/big_llms_weights_are_piece_history) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
 * [2025-03-16, 18:45:13](https://lobste.rs/s/x8lt3u/git_v2_49_0) - [Git v2.49.0](https://lore.kernel.org/lkml/xmqqfrjfilc8.fsf@gitster.g/)
 * [2025-03-16, 18:19:10](https://lobste.rs/s/ufoeyy/frontside_effection_structured) - [Frontside, Effection, and Structured Concurrency](https://www.youtube.com/watch?v=vpedn6HkP7E)

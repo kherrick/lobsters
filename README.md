@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-16, 20:13:12](https://lobste.rs/s/byx7ej/evolution_interface_2000) - [The Evolution of the Interface (2000)](https://www.asktog.com/columns/038MacUITrends.html)
 * [2025-03-16, 19:31:45](https://lobste.rs/s/ra9g44/big_llms_weights_are_piece_history) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
 * [2025-03-16, 18:45:13](https://lobste.rs/s/x8lt3u/git_v2_49_0) - [Git v2.49.0](https://lore.kernel.org/lkml/xmqqfrjfilc8.fsf@gitster.g/)
 * [2025-03-16, 18:19:10](https://lobste.rs/s/ufoeyy/frontside_effection_structured) - [Frontside, Effection, and Structured Concurrency](https://www.youtube.com/watch?v=vpedn6HkP7E)
@@ -16,7 +17,6 @@
 * [2025-03-16, 11:05:42](https://lobste.rs/s/cpphd3/git_2_49_released_with_faster_packing_rust) - [Git 2.49 released with faster packing, Rust foreign language interface](https://www.phoronix.com/news/Git-2.49-Released)
 * [2025-03-16, 10:29:01](https://lobste.rs/s/zbydaa/attacker_copied_github_project_added) - [Attacker Copied GitHub Project, Added Fake Stars and Malicious Code](https://www.reddit.com/r/golang/comments/1jbzuot/someone_copied_our_github_project_made_it_look/)
 * [2025-03-16, 06:31:07](https://lobste.rs/s/miyoai/review_helix_after_1_5_years) - [A Review of Helix after 1.5 Years](https://felix-knorr.net/posts/2025-03-16-helix-review.html)
-* [2025-03-16, 04:54:01](https://lobste.rs/s/bo3w9v/adding_edit_button_my_static_site_on) - [Adding an edit button to my static site on mobile](https://jamesg.blog/2025/03/15/adding-an-edit-button-to-my-static-site-on-mobile)
 * [2025-03-16, 04:42:52](https://lobste.rs/s/1ula6k/defer_technical_specification_it_is_time) - [The Defer Technical Specification: It Is Time](https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go)
 * [2025-03-16, 02:31:38](https://lobste.rs/s/rzgqt3/more_pro_for_dec_professional_380) - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](https://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 * [2025-03-15, 23:53:52](https://lobste.rs/s/9lj3ri/year_picotron_desktop) - [The Year of the Picotron Desktop](https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop)
