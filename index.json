@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-16, 11:09:25",
+      "https://lobste.rs/s/fahcnf/dynamically_scoped_functions_as_essence"
+    ],
+    [
+      "Dynamically Scoped Functions as the Essence of AOP",
+      "https://citeseerx.ist.psu.edu/document?doi=8914f753f0965810c0a75df2d34a637a176ea20b"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 11:05:42",
       "https://lobste.rs/s/cpphd3/git_2_49_released_with_faster_packing_rust"
     ],
@@ -207,16 +217,6 @@
     [
       "Why I Don't Like Hackathons",
       "https://mirawelner.com/posts/hackathons.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 21:25:24",
-      "https://lobste.rs/s/l6ignk/matching_regexps_200_times_faster"
-    ],
-    [
-      "Matching Regexps 200 Times Faster",
-      "https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html"
     ]
   ],
   [
