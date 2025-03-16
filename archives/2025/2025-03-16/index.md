@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 23:56:37](https://lobste.rs/s/2a8x3n/why_we_ditched_next_js_never_looked_back) - [Why we ditched Next.js and never looked back](https://northflank.com/blog/why-we-ditched-next-js-and-never-looked-back)
 * [2025-03-16, 23:12:53](https://lobste.rs/s/spypei/many_ends_programming) - [The many ends of programming](https://www.youtube.com/watch?v=-aGyDDoaHww)
 * [2025-03-16, 23:05:15](https://lobste.rs/s/jagp47/going_down_rabbit_hole_git_s_new_bundle_uri) - [Going down the rabbit hole of Git's new bundle-uri](https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/)
 * [2025-03-16, 22:24:56](https://lobste.rs/s/sn2gjh/inventing_on_principle_2012) - [Inventing On Principle (2012)](https://youtu.be/PUv66718DII)

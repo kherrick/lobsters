@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-16, 23:56:37](https://lobste.rs/s/2a8x3n/why_we_ditched_next_js_never_looked_back) - [Why we ditched Next.js and never looked back](https://northflank.com/blog/why-we-ditched-next-js-and-never-looked-back)
 * [2025-03-16, 23:12:53](https://lobste.rs/s/spypei/many_ends_programming) - [The many ends of programming](https://www.youtube.com/watch?v=-aGyDDoaHww)
 * [2025-03-16, 23:05:15](https://lobste.rs/s/jagp47/going_down_rabbit_hole_git_s_new_bundle_uri) - [Going down the rabbit hole of Git's new bundle-uri](https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/)
 * [2025-03-16, 22:24:56](https://lobste.rs/s/sn2gjh/inventing_on_principle_2012) - [Inventing On Principle (2012)](https://youtu.be/PUv66718DII)
 * [2025-03-16, 21:34:17](https://lobste.rs/s/hi8hjp/6502_emulator_written_busybox_ash) - [A 6502 emulator written in busybox ash](https://social.treehouse.systems/@cas/114171610700263367)
 * [2025-03-16, 20:13:12](https://lobste.rs/s/byx7ej/evolution_interface_2000) - [The Evolution of the Interface (2000)](https://www.asktog.com/columns/038MacUITrends.html)
-* [2025-03-16, 19:31:45](https://lobste.rs/s/ra9g44/big_llms_weights_are_piece_history) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
 * [2025-03-16, 18:19:10](https://lobste.rs/s/ufoeyy/frontside_effection_structured) - [Frontside, Effection, and Structured Concurrency](https://www.youtube.com/watch?v=vpedn6HkP7E)
 * [2025-03-16, 17:52:28](https://lobste.rs/s/9tprnf/hidden_superpowers_linear_types_2024) - [The hidden superpowers of linear types (2024)](https://www.youtube.com/watch?v=Ab8WQ1wwhV8)
 * [2025-03-16, 17:28:08](https://lobste.rs/s/wsw3ue/what_s_best_git_tutorial) - [What’s the best git tutorial?](https://lobste.rs/s/wsw3ue/what_s_best_git_tutorial)
