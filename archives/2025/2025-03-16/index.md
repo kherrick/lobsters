@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 19:31:45](https://lobste.rs/s/ra9g44/big_llms_weights_are_piece_history) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
 * [2025-03-16, 18:45:13](https://lobste.rs/s/x8lt3u/git_v2_49_0) - [Git v2.49.0](https://lore.kernel.org/lkml/xmqqfrjfilc8.fsf@gitster.g/)
 * [2025-03-16, 18:19:10](https://lobste.rs/s/ufoeyy/frontside_effection_structured) - [Frontside, Effection, and Structured Concurrency](https://www.youtube.com/watch?v=vpedn6HkP7E)
 * [2025-03-16, 17:52:28](https://lobste.rs/s/9tprnf/hidden_superpowers_linear_types_2024) - [The hidden superpowers of linear types (2024)](https://www.youtube.com/watch?v=Ab8WQ1wwhV8)
