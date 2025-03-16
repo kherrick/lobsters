@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-16, 15:26:26",
+      "https://lobste.rs/s/corpgn/exploration_sbcl_internals"
+    ],
+    [
+      "Exploration of SBCL Internals",
+      "https://simonsafar.com/2020/sbcl/"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 15:15:57",
       "https://lobste.rs/s/kaffqk/grove_bidirectionally_typed"
     ],
@@ -217,16 +227,6 @@
     [
       "Were multiple return values Go's biggest mistake?",
       "https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 13:53:35",
-      "https://lobste.rs/s/mt1vop/ncsa_mosaic_1_0_released"
-    ],
-    [
-      "NCSA Mosaic 1.0 Released",
-      "http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html"
     ]
   ],
   [
