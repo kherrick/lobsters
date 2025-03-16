@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-16](index.md)
 
+* [2025-03-16, 22:24:56](https://lobste.rs/s/sn2gjh/inventing_on_principle) - [Inventing On Principle](https://youtu.be/PUv66718DII)
 * [2025-03-16, 21:34:17](https://lobste.rs/s/hi8hjp/6502_emulator_written_busybox_ash) - [A 6502 emulator written in busybox ash](https://social.treehouse.systems/@cas/114171610700263367)
 * [2025-03-16, 20:13:12](https://lobste.rs/s/byx7ej/evolution_interface_2000) - [The Evolution of the Interface (2000)](https://www.asktog.com/columns/038MacUITrends.html)
 * [2025-03-16, 19:31:45](https://lobste.rs/s/ra9g44/big_llms_weights_are_piece_history) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)

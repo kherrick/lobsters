@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-16, 22:24:56](https://lobste.rs/s/sn2gjh/inventing_on_principle) - [Inventing On Principle](https://youtu.be/PUv66718DII)
 * [2025-03-16, 21:34:17](https://lobste.rs/s/hi8hjp/6502_emulator_written_busybox_ash) - [A 6502 emulator written in busybox ash](https://social.treehouse.systems/@cas/114171610700263367)
 * [2025-03-16, 20:13:12](https://lobste.rs/s/byx7ej/evolution_interface_2000) - [The Evolution of the Interface (2000)](https://www.asktog.com/columns/038MacUITrends.html)
 * [2025-03-16, 19:31:45](https://lobste.rs/s/ra9g44/big_llms_weights_are_piece_history) - [Big LLMs weights are a piece of history](https://antirez.com/news/147)
@@ -11,7 +12,6 @@
 * [2025-03-16, 15:26:26](https://lobste.rs/s/corpgn/exploration_sbcl_internals) - [Exploration of SBCL Internals](https://simonsafar.com/2020/sbcl/)
 * [2025-03-16, 15:15:57](https://lobste.rs/s/kaffqk/grove_bidirectionally_typed) - [Grove: A Bidirectionally typed collaborative structure editor calculus](https://www.youtube.com/live/Jff0pIbj8PM?t=7267)
 * [2025-03-16, 15:03:12](https://lobste.rs/s/kj6fts/our_interfaces_have_lost_their_senses) - [Our interfaces have lost their senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses)
-* [2025-03-16, 13:05:02](https://lobste.rs/s/z3ifdc/long_evening_with_ios_macos_sandbox_2018) - [A long evening with iOS and macOS Sandbox (2018)](https://web.archive.org/web/20220313072719/https://geosn0w.github.io/A-Long-Evening-With-macOS's-Sandbox/)
 * [2025-03-16, 11:40:27](https://lobste.rs/s/zhaa9h/context_switching_performance_what) - [Context Switching and Performance: What Every Developer Should Know](https://blog.codingconfessions.com/p/context-switching-and-performance)
 * [2025-03-16, 11:09:25](https://lobste.rs/s/fahcnf/dynamically_scoped_functions_as_essence) - [Dynamically Scoped Functions as the Essence of AOP (2003)](https://citeseerx.ist.psu.edu/document?doi=8914f753f0965810c0a75df2d34a637a176ea20b)
 * [2025-03-16, 11:05:42](https://lobste.rs/s/cpphd3/git_2_49_released_with_faster_packing_rust) - [Git 2.49 released with faster packing, Rust foreign language interface](https://www.phoronix.com/news/Git-2.49-Released)
