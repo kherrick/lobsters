@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-16, 17:52:28](https://lobste.rs/s/9tprnf/hidden_superpowers_linear_types_2024) - [The hidden superpowers of linear types (2024)](https://www.youtube.com/watch?v=Ab8WQ1wwhV8)
 * [2025-03-16, 17:28:08](https://lobste.rs/s/wsw3ue/what_s_best_git_tutorial) - [What’s the best git tutorial?](https://lobste.rs/s/wsw3ue/what_s_best_git_tutorial)
 * [2025-03-16, 16:18:21](https://lobste.rs/s/m1iuiq/docs_open_source_collaborative_notes) - [Docs: Open-source collaborative notes, wiki, and documentation platform by the French government](https://docs.numerique.gouv.fr/)
 * [2025-03-16, 15:39:42](https://lobste.rs/s/ypn2zo/open_ui_maintain_open_standard_for_ui) - [open-ui: Maintain an open standard for UI and promote its adherence and adoption](https://github.com/openui/open-ui)
@@ -22,7 +23,6 @@
 * [2025-03-15, 19:34:50](https://lobste.rs/s/v80mya/my_favorite_firefox_extensions) - [My Favorite Firefox Extensions](https://alexn.org/blog/2025/03/15/firefox-extensions/)
 * [2025-03-15, 18:26:57](https://lobste.rs/s/w1lhln/comparing_video_encoders) - [Comparing Video Encoders](https://giannirosato.com/blog/post/comparing-encoders/)
 * [2025-03-15, 15:52:56](https://lobste.rs/s/pgrwyp/code_centric_journey_into_gleam_language) - [A Code Centric Journey Into the Gleam Language](https://youtu.be/PfPIiHCId0s)
-* [2025-03-15, 15:33:16](https://lobste.rs/s/9au3js/brat_virtual_machine) - [The Brat virtual machine](https://gitlab.com/worst-lang/brat)
 * [2025-03-15, 15:08:40](https://lobste.rs/s/cclrkn/were_multiple_return_values_go_s_biggest) - [Were multiple return values Go's biggest mistake?](https://herecomesthemoon.net/2025/03/multiple-return-values-in-go/)
 * [2025-03-15, 03:21:02](https://lobste.rs/s/4ko499/popular_github_action_tj_actions_changed) - [Popular GitHub Action tj-actions/changed-files is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 
