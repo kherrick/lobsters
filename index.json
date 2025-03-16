@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-16, 15:15:57",
+      "https://lobste.rs/s/kaffqk/grove_bidirectionally_typed"
+    ],
+    [
+      "Grove: A Bidirectionally typed collaborative structure editor calculus",
+      "https://www.youtube.com/live/Jff0pIbj8PM?t=7267"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 15:03:12",
       "https://lobste.rs/s/kj6fts/our_interfaces_have_lost_their_senses"
     ],
@@ -147,16 +157,6 @@
     [
       "My Favorite Firefox Extensions",
       "https://alexn.org/blog/2025/03/15/firefox-extensions/"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 18:37:25",
-      "https://lobste.rs/s/clmxv5/speeding_up_c_code_with_template_lambdas"
-    ],
-    [
-      "Speeding up C++ code with template lambdas",
-      "https://lemire.me/blog/2025/03/15/speeding-up-c-code-with-template-lambdas/"
     ]
   ],
   [
