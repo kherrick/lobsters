@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-16, 04:01:44](https://lobste.rs/s/pxeoiw/adafruit_fruitjam_is_mac_384k) - [AdaFruit FruitJam is a Mac 384K](https://youtu.be/FAl7iO2R6W4)
 * [2025-03-16, 02:31:38](https://lobste.rs/s/rzgqt3/more_pro_for_dec_professional_380) - [More pro for the DEC Professional 380 (featuring PRO/VENIX)](https://oldvcr.blogspot.com/2025/03/more-pro-for-dec-professional-380.html)
 * [2025-03-16, 01:14:51](https://lobste.rs/s/7z4gp2/mojo_may_be_biggest_programming_language) - [Mojo may be the biggest programming language advance in decades (2023)](https://www.fast.ai/posts/2023-05-03-mojo-launch.html)
 * [2025-03-15, 23:53:52](https://lobste.rs/s/9lj3ri/year_picotron_desktop) - [The Year of the Picotron Desktop](https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop)
@@ -18,7 +19,6 @@
 * [2025-03-15, 03:25:06](https://lobste.rs/s/4cw1ua/ruby_llm_delightful_ruby_way_work_with_ai) - [ruby_llm, a delightful Ruby way to work with AI](https://github.com/crmne/ruby_llm)
 * [2025-03-15, 03:21:02](https://lobste.rs/s/4ko499/popular_github_action_tj_actions_changed) - [Popular GitHub Action tj-actions/changed-files is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [2025-03-15, 03:05:09](https://lobste.rs/s/5mlumx/why_i_don_t_like_hackathons) - [Why I Don't Like Hackathons](https://mirawelner.com/posts/hackathons.html)
-* [2025-03-14, 23:09:40](https://lobste.rs/s/3dvymp/sicl_fresh_implementation_common_lisp) - [SICL: Fresh Implementation of Common Lisp](https://github.com/robert-strandh/SICL)
 * [2025-03-14, 21:25:24](https://lobste.rs/s/l6ignk/matching_regexps_200_times_faster) - [Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
 * [2025-03-14, 17:51:44](https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c) - [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
 * [2025-03-14, 15:10:25](https://lobste.rs/s/hxbjug/did_u_ever_read_so_hard_u_accidentally) - [did u ever read so hard u accidentally wrote?](https://blog.danslimmon.com/2025/03/14/did-u-ever-read-so-hard-u-accidentally-wrote/)
