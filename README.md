@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-15, 23:53:52](https://lobste.rs/s/9lj3ri/year_picotron_desktop) - [The Year of the Picotron Desktop](https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop)
 * [2025-03-15, 21:42:31](https://lobste.rs/s/nvsmjg/is_cap_n_proto_event_loop_friendly) - [Is Cap'n Proto Event Loop Friendly?](https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/)
 * [2025-03-15, 20:03:07](https://lobste.rs/s/nou3qj/reviving_modprobe_path_technique) - [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04)
 * [2025-03-15, 19:45:04](https://lobste.rs/s/q7u3vr/web_apps_common_lisp) - [Web Apps in Common Lisp](https://web-apps-in-lisp.github.io/)
@@ -24,7 +25,6 @@
 * [2025-03-14, 13:01:17](https://lobste.rs/s/c7t7kz/look_at_firefox_forks) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
 * [2025-03-14, 11:45:15](https://lobste.rs/s/ybqek7/tinykvm_fastest_sandbox) - [TinyKVM: The Fastest Sandbox](https://info.varnish-software.com/blog/tinykvm-the-fastest-sandbox)
-* [2025-03-13, 22:58:42](https://lobste.rs/s/ozgd5s/can_we_communally_deprecate_git_checkout) - [Can we communally deprecate git checkout?](https://mirawelner.com/posts/checkout.html)
 
 ## [Archives](archives/index.md)
 

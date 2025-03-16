@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-15](index.md)
 
+* [2025-03-15, 23:53:52](https://lobste.rs/s/9lj3ri/year_picotron_desktop) - [The Year of the Picotron Desktop](https://arnaught.neocities.org/blog/2025/03/14/year-of-the-picotron-desktop)
 * [2025-03-15, 21:42:31](https://lobste.rs/s/nvsmjg/is_cap_n_proto_event_loop_friendly) - [Is Cap'n Proto Event Loop Friendly?](https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/)
 * [2025-03-15, 20:03:07](https://lobste.rs/s/nou3qj/reviving_modprobe_path_technique) - [Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch](https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04)
 * [2025-03-15, 19:45:04](https://lobste.rs/s/q7u3vr/web_apps_common_lisp) - [Web Apps in Common Lisp](https://web-apps-in-lisp.github.io/)
