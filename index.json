@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-16, 11:05:42",
+      "https://lobste.rs/s/cpphd3/git_2_49_released_with_faster_packing_rust"
+    ],
+    [
+      "Git 2.49 released with faster packing, Rust foreign language interface",
+      "https://www.phoronix.com/news/Git-2.49-Released"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 10:29:01",
       "https://lobste.rs/s/zbydaa/attacker_copied_github_project_added"
     ],
@@ -77,16 +87,6 @@
     [
       "Is Cap'n Proto Event Loop Friendly?",
       "https://hire.jonasgalvez.com.br/2025/mar/15/capnproto/"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 20:03:07",
-      "https://lobste.rs/s/nou3qj/reviving_modprobe_path_technique"
-    ],
-    [
-      "Reviving the modprobe_path Technique: Overcoming search_binary_handler() Patch",
-      "https://blog.theori.io/reviving-the-modprobe-path-technique-overcoming-search-binary-handler-patch-2dcb8f0fae04"
     ]
   ],
   [
