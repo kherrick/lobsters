@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-16, 11:09:25](https://lobste.rs/s/fahcnf/dynamically_scoped_functions_as_essence) - [Dynamically Scoped Functions as the Essence of AOP](https://citeseerx.ist.psu.edu/document?doi=8914f753f0965810c0a75df2d34a637a176ea20b)
 * [2025-03-16, 11:05:42](https://lobste.rs/s/cpphd3/git_2_49_released_with_faster_packing_rust) - [Git 2.49 released with faster packing, Rust foreign language interface](https://www.phoronix.com/news/Git-2.49-Released)
 * [2025-03-16, 10:29:01](https://lobste.rs/s/zbydaa/attacker_copied_github_project_added) - [Attacker Copied GitHub Project, Added Fake Stars and Malicious Code](https://www.reddit.com/r/golang/comments/1jbzuot/someone_copied_our_github_project_made_it_look/)
 * [2025-03-16, 06:31:07](https://lobste.rs/s/miyoai/review_helix_after_1_5_years) - [A Review of Helix after 1.5 Years](https://felix-knorr.net/posts/2025-03-16-helix-review.html)
@@ -21,7 +22,6 @@
 * [2025-03-15, 13:53:35](https://lobste.rs/s/mt1vop/ncsa_mosaic_1_0_released) - [NCSA Mosaic 1.0 Released](http://1997.webhistory.org/www.lists/www-talk.1993q2/0128.html)
 * [2025-03-15, 03:21:02](https://lobste.rs/s/4ko499/popular_github_action_tj_actions_changed) - [Popular GitHub Action tj-actions/changed-files is compromised](https://www.stepsecurity.io/blog/harden-runner-detection-tj-actions-changed-files-action-is-compromised)
 * [2025-03-15, 03:05:09](https://lobste.rs/s/5mlumx/why_i_don_t_like_hackathons) - [Why I Don't Like Hackathons](https://mirawelner.com/posts/hackathons.html)
-* [2025-03-14, 21:25:24](https://lobste.rs/s/l6ignk/matching_regexps_200_times_faster) - [Matching Regexps 200 Times Faster](https://eregon.me/blog/2025/03/14/matching-regexps-200-times-faster.html)
 * [2025-03-14, 17:51:44](https://lobste.rs/s/9jyyx3/time_i_recreated_photoshop_c) - [That time I recreated Photoshop in C++](https://f055.net/technology/that-time-i/that-time-i-recreated-photoshop-in-c/)
 * [2025-03-14, 13:01:17](https://lobste.rs/s/c7t7kz/look_at_firefox_forks) - [A look at Firefox forks](https://lwn.net/Articles/1012453/)
 * [2025-03-14, 11:49:39](https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git) - [An introduction to Magit, an Emacs mode for Git](https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git)
