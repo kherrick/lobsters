@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-16, 15:03:12",
+      "https://lobste.rs/s/kj6fts/our_interfaces_have_lost_their_senses"
+    ],
+    [
+      "Our interfaces have lost their senses",
+      "https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 13:05:02",
       "https://lobste.rs/s/z3ifdc/long_evening_with_ios_macos_sandbox_2018"
     ],
@@ -237,16 +247,6 @@
     [
       "Why I Don't Like Hackathons",
       "https://mirawelner.com/posts/hackathons.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-14, 11:49:39",
-      "https://lobste.rs/s/qkqyf4/introduction_magit_emacs_mode_for_git"
-    ],
-    [
-      "An introduction to Magit, an Emacs mode for Git",
-      "https://www.masteringemacs.org/article/introduction-magit-emacs-mode-git"
     ]
   ]
 ]
