@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-16, 18:45:13",
+      "https://lobste.rs/s/x8lt3u/git_v2_49_0"
+    ],
+    [
+      "Git v2.49.0",
+      "https://lore.kernel.org/lkml/xmqqfrjfilc8.fsf@gitster.g/"
+    ]
+  ],
+  [
+    [
       "2025-03-16, 18:19:10",
       "https://lobste.rs/s/ufoeyy/frontside_effection_structured"
     ],
@@ -217,16 +227,6 @@
     [
       "Comparing Video Encoders",
       "https://giannirosato.com/blog/post/comparing-encoders/"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 15:52:56",
-      "https://lobste.rs/s/pgrwyp/code_centric_journey_into_gleam_language"
-    ],
-    [
-      "A Code Centric Journey Into the Gleam Language",
-      "https://youtu.be/PfPIiHCId0s"
     ]
   ],
   [
