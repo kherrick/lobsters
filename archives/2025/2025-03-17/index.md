@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 05:18:36](https://lobste.rs/s/uz9tln/v6_shell_history) - [V6 Shell History](https://v6sh.org/)
 * [2025-03-17, 05:05:22](https://lobste.rs/s/8k6sws/writing_siggraph_paper_for_fun_2020) - [Writing a SIGGRAPH paper (for fun) (2020)](https://www.mattkeeter.com/projects/siggraph/)
 * [2025-03-17, 03:19:52](https://lobste.rs/s/2wd2wt/learn_git_branching) - [Learn Git Branching](https://learngitbranching.js.org/)
 * [2025-03-17, 03:15:40](https://lobste.rs/s/1kxvjz/from_languages_language_sets) - [From Languages to Language Sets](https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4)
