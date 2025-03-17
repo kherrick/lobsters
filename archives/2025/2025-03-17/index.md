@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 10:24:32](https://lobste.rs/s/bcqgu7/how_will_llms_take_our_jobs) - [How will LLMs take our jobs?](https://www.clintonboys.com/posts/how-will-llms-take-our-jobs/)
 * [2025-03-17, 05:18:36](https://lobste.rs/s/uz9tln/v6_shell_history) - [V6 Shell History](https://v6sh.org/)
 * [2025-03-17, 05:18:36](https://lobste.rs/s/uz9tln/v6_shell) - [V6 Shell](https://v6sh.org/)
 * [2025-03-17, 05:05:22](https://lobste.rs/s/8k6sws/writing_siggraph_paper_for_fun_2020) - [Writing a SIGGRAPH paper (for fun) (2020)](https://www.mattkeeter.com/projects/siggraph/)
