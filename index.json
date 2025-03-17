@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-17, 15:25:49",
+      "https://lobste.rs/s/zmreeg/introducing_intel_advanced_performance"
+    ],
+    [
+      "Introducing Intel® Advanced Performance Extensions (Intel® APX)",
+      "https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-17, 15:10:25",
+      "https://lobste.rs/s/r8mdl9/http_3_is_everywhere_nowhere"
+    ],
+    [
+      "HTTP/3 is everywhere but nowhere",
+      "https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 15:02:04",
       "https://lobste.rs/s/d69ogy/installing_sassc_ruby_gem_on_mac"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-03-16, 15:39:42",
-      "https://lobste.rs/s/ypn2zo/open_ui_maintain_open_standard_for_ui"
-    ],
-    [
-      "open-ui: Maintain an open standard for UI and promote its adherence and adoption",
-      "https://github.com/openui/open-ui"
-    ]
-  ],
-  [
-    [
       "2025-03-16, 15:26:26",
       "https://lobste.rs/s/corpgn/exploration_sbcl_internals"
     ],
@@ -237,16 +247,6 @@
     [
       "The Defer Technical Specification: It Is Time",
       "https://thephd.dev/c2y-the-defer-technical-specification-its-time-go-go-go"
-    ]
-  ],
-  [
-    [
-      "2025-03-15, 19:34:50",
-      "https://lobste.rs/s/v80mya/my_favorite_firefox_extensions"
-    ],
-    [
-      "My Favorite Firefox Extensions",
-      "https://alexn.org/blog/2025/03/15/firefox-extensions/"
     ]
   ]
 ]
