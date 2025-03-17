@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-17, 18:24:49",
+      "https://lobste.rs/s/tzjxrc/password_reuse_is_rampant_nearly_half"
+    ],
+    [
+      "Password reuse is rampant: nearly half of observed user logins are compromised",
+      "https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 17:38:06",
       "https://lobste.rs/s/yhxoqu/tiny_pointers"
     ],
@@ -17,16 +27,6 @@
     [
       "Announcing Snix",
       "https://snix.dev/blog/announcing-snix/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 17:07:43",
-      "https://lobste.rs/s/7iel5b/rhombus_programming_language"
-    ],
-    [
-      "The Rhombus Programming Language",
-      "https://rhombus-lang.org"
     ]
   ],
   [
