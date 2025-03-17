@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-17, 16:35:44",
+      "https://lobste.rs/s/3mjwud/bypassing_authentication_like_it_s_90s"
+    ],
+    [
+      "Bypassing Authentication Like It’s The ‘90s - Pre-Auth RCE Chain(s) in Kentico Xperience CMS",
+      "https://labs.watchtowr.com/bypassing-authentication-like-its-the-90s-pre-auth-rce-chain-s-in-kentico-xperience-cms/"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 15:25:49",
       "https://lobste.rs/s/zmreeg/introducing_intel_advanced_performance"
     ],
@@ -217,16 +227,6 @@
     [
       "Git 2.49 released with faster packing, Rust foreign language interface",
       "https://www.phoronix.com/news/Git-2.49-Released"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 10:29:01",
-      "https://lobste.rs/s/zbydaa/attacker_copied_github_project_added"
-    ],
-    [
-      "Attacker Copied GitHub Project, Added Fake Stars and Malicious Code",
-      "https://www.reddit.com/r/golang/comments/1jbzuot/someone_copied_our_github_project_made_it_look/"
     ]
   ],
   [
