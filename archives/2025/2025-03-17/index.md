@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-17](index.md)
 
+* [2025-03-17, 13:21:24](https://lobste.rs/s/w05k9f/i_built_myself_watch) - [I built myself a watch](https://www.thewkblog.com/2025/03/16/i-built-myself-a-watch/)
 * [2025-03-17, 11:10:11](https://lobste.rs/s/dmuad3/llm_crawlers_continue_ddos_sourcehut) - [LLM crawlers continue to DDoS SourceHut](https://status.sr.ht/issues/2025-03-17-git.sr.ht-llms/)
 * [2025-03-17, 10:59:43](https://lobste.rs/s/0zz0ek/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/0zz0ek/what_are_you_doing_this_week)
 * [2025-03-17, 10:24:32](https://lobste.rs/s/bcqgu7/how_will_llms_take_our_jobs) - [How will LLMs take our jobs?](https://www.clintonboys.com/posts/how-will-llms-take-our-jobs/)
