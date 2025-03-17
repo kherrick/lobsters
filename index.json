@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-17, 19:23:08",
+      "https://lobste.rs/s/hqxvb6/atrocious_state_binary_compatibility_on"
+    ],
+    [
+      "The Atrocious State Of Binary Compatibility on Linux and How To Address It",
+      "https://jangafx.com/insights/linux-binary-compatibility"
+    ]
+  ],
+  [
+    [
       "2025-03-17, 19:11:13",
       "https://lobste.rs/s/speged/verifiability_is_limit"
     ],
@@ -197,16 +207,6 @@
     [
       "Going down the rabbit hole of Git's new bundle-uri",
       "https://blog.gitbutler.com/going-down-the-rabbit-hole-of-gits-new-bundle-uri/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 17:28:08",
-      "https://lobste.rs/s/wsw3ue/what_s_best_git_tutorial"
-    ],
-    [
-      "What’s the best git tutorial?",
-      "https://lobste.rs/s/wsw3ue/what_s_best_git_tutorial"
     ]
   ],
   [
