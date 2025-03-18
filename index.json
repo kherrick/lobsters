@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-18, 13:00:26",
-      "https://lobste.rs/s/lpine6/future_serialization_deserialization"
+      "2025-03-18, 13:22:42",
+      "https://lobste.rs/s/qvnjtz/hexagons_beyond_flexible_responsive"
     ],
     [
-      "The future of serialization & deserialization APIs",
-      "https://forums.swift.org/t/the-future-of-serialization-deserialization-apis/78585"
+      "Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (2021)",
+      "https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 11:18:33",
+      "https://lobste.rs/s/ogaalf/i_don_t_think_error_handling_is_solved"
+    ],
+    [
+      "I don't think error handling is a solved problem in language design",
+      "https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorHandlingNotSolvedProblem"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Mitigating SourceHut's partial outage caused by aggressive crawlers",
       "https://status.sr.ht/issues/2025-03-17-git.sr.ht-llms/"
-    ]
-  ],
-  [
-    [
-      "2025-03-16, 16:18:21",
-      "https://lobste.rs/s/m1iuiq/docs_open_source_collaborative_notes"
-    ],
-    [
-      "Docs: Open-source collaborative notes, wiki, and documentation platform by the French government",
-      "https://docs.numerique.gouv.fr/"
     ]
   ]
 ]
