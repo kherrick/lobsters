@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-18, 15:43:41",
+      "https://lobste.rs/s/fnx5fv/recyling_oneplus_6t_into_kubernetes_node"
+    ],
+    [
+      "Recyling a OnePlus 6T into a Kubernetes Node",
+      "https://gabrielsimmer.com/blog/kubernetes-plus-oneplus"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 13:22:42",
       "https://lobste.rs/s/qvnjtz/hexagons_beyond_flexible_responsive"
     ],
@@ -227,16 +237,6 @@
     [
       "HTTP/3 is everywhere but nowhere",
       "https://httptoolkit.com/blog/http3-quic-open-source-support-nowhere/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 15:02:04",
-      "https://lobste.rs/s/d69ogy/installing_sassc_ruby_gem_on_mac"
-    ],
-    [
-      "Installing the sassc Ruby gem on a Mac. A debugging story",
-      "https://www.schneems.com/2025/03/17/installing-the-sassc-ruby-gem-on-a-mac-a-debugging-story/"
     ]
   ],
   [
