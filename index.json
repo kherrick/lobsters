@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-18, 13:00:26",
+      "https://lobste.rs/s/lpine6/future_serialization_deserialization"
+    ],
+    [
+      "The future of serialization & deserialization APIs",
+      "https://forums.swift.org/t/the-future-of-serialization-deserialization-apis/78585"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 10:26:48",
       "https://lobste.rs/s/otthd0/society_lost_focus"
     ],
@@ -217,16 +227,6 @@
     [
       "Installing the sassc Ruby gem on a Mac. A debugging story",
       "https://www.schneems.com/2025/03/17/installing-the-sassc-ruby-gem-on-a-mac-a-debugging-story/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 13:21:24",
-      "https://lobste.rs/s/w05k9f/i_built_myself_watch"
-    ],
-    [
-      "I built myself a watch",
-      "https://www.thewkblog.com/2025/03/16/i-built-myself-a-watch/"
     ]
   ],
   [
