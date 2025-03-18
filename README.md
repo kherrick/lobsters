@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-03-18, 13:22:42](https://lobste.rs/s/qvnjtz/hexagons_beyond_flexible_responsive) - [Hexagons and Beyond: Flexible, Responsive Grid Patterns, Sans Media Queries (2021)](https://css-tricks.com/hexagons-and-beyond-flexible-responsive-grid-patterns-sans-media-queries/)
+* [2025-03-18, 13:00:26](https://lobste.rs/s/lpine6/future_serialization_deserialization) - [The future of serialization & deserialization APIs](https://forums.swift.org/t/the-future-of-serialization-deserialization-apis/78585)
 * [2025-03-18, 11:18:33](https://lobste.rs/s/ogaalf/i_don_t_think_error_handling_is_solved) - [I don't think error handling is a solved problem in language design](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorHandlingNotSolvedProblem)
 * [2025-03-18, 10:26:48](https://lobste.rs/s/otthd0/society_lost_focus) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
 * [2025-03-18, 10:20:41](https://lobste.rs/s/jrpdre/pi_5_trillion_digits_2010) - [Pi - 5 Trillion Digits (2010)](http://numberworld.org/misc_runs/pi-5t/details.html)
@@ -18,7 +19,6 @@
 * [2025-03-17, 20:10:57](https://lobste.rs/s/4guing/after_47_years_openvms_gets_package) - [After 47 years, OpenVMS gets a package manager (VSP)](https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html)
 * [2025-03-17, 19:23:08](https://lobste.rs/s/hqxvb6/atrocious_state_binary_compatibility_on) - [The Atrocious State Of Binary Compatibility on Linux and How To Address It](https://jangafx.com/insights/linux-binary-compatibility)
 * [2025-03-17, 18:24:49](https://lobste.rs/s/tzjxrc/password_reuse_is_rampant_nearly_half) - [Password reuse is rampant: nearly half of observed user logins are compromised](https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/)
-* [2025-03-17, 17:38:06](https://lobste.rs/s/yhxoqu/tiny_pointers) - [Tiny Pointers](https://arxiv.org/abs/2111.12800)
 * [2025-03-17, 17:36:20](https://lobste.rs/s/s5p1ng/announcing_snix) - [Announcing Snix](https://snix.dev/blog/announcing-snix/)
 * [2025-03-17, 17:07:43](https://lobste.rs/s/7iel5b/rhombus_programming_language) - [The Rhombus Programming Language](https://rhombus-lang.org)
 * [2025-03-17, 15:25:49](https://lobste.rs/s/zmreeg/introducing_intel_advanced_performance) - [Introducing Intel® Advanced Performance Extensions (Intel® APX)](https://www.intel.com/content/www/us/en/developer/articles/technical/advanced-performance-extensions-apx.html)
