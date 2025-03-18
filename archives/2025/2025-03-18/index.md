@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
+* [2025-03-18, 10:26:48](https://lobste.rs/s/otthd0/society_lost_focus) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
 * [2025-03-18, 09:22:39](https://lobste.rs/s/kat2r2/gpt_3_5_latest_models) - [GPT-3.5 and the latest models](https://omarabid.com/gpt3-now)
 * [2025-03-18, 08:58:13](https://lobste.rs/s/e1pz6v/component_simplicity) - [Component Simplicity](https://jerf.org/iri/post/2025/fp_lessons_simplicity/)
 * [2025-03-18, 07:55:58](https://lobste.rs/s/1o6zda/slack_art_being_busy_without_getting) - [Slack: The Art of Being Busy Without Getting Anything Done](https://matduggan.com/slack-the-art-of-being-busy-without-getting-anything-done/)
