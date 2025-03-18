@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-18, 05:27:45](https://lobste.rs/s/geiygp/building_search_engine_from_scratch) - [Building a search engine from scratch](https://jdrouet.github.io/posts/202503161800-search-engine-intro/)
 * [2025-03-18, 02:42:16](https://lobste.rs/s/gqyrxk/can_we_consider_self_promo_discussion_off) - [Can we consider self-promo discussion off-topic?](https://lobste.rs/s/gqyrxk/can_we_consider_self_promo_discussion_off)
 * [2025-03-18, 02:05:41](https://lobste.rs/s/uti1z4/parser_combinators_under_hood) - [Parser combinators under the hood](https://youtu.be/hFO9G0Va__0)
 * [2025-03-18, 01:20:39](https://lobste.rs/s/vdvkfd/past_present_futures_user_interface) - [Past and Present Futures of User Interface Design](https://www.datagubbe.se/futui/)
@@ -23,7 +24,6 @@
 * [2025-03-17, 03:15:40](https://lobste.rs/s/1kxvjz/from_languages_language_sets) - [From Languages to Language Sets](https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4)
 * [2025-03-16, 23:56:37](https://lobste.rs/s/2a8x3n/why_we_ditched_next_js_never_looked_back) - [Why we ditched Next.js and never looked back](https://northflank.com/blog/why-we-ditched-next-js-and-never-looked-back)
 * [2025-03-16, 16:18:21](https://lobste.rs/s/m1iuiq/docs_open_source_collaborative_notes) - [Docs: Open-source collaborative notes, wiki, and documentation platform by the French government](https://docs.numerique.gouv.fr/)
-* [2025-03-16, 15:03:12](https://lobste.rs/s/kj6fts/our_interfaces_have_lost_their_senses) - [Our interfaces have lost their senses](https://wattenberger.com/thoughts/our-interfaces-have-lost-their-senses)
 * [2025-03-16, 06:31:07](https://lobste.rs/s/miyoai/review_helix_after_1_5_years) - [A Review of Helix after 1.5 Years](https://felix-knorr.net/posts/2025-03-16-helix-review.html)
 
 ## [Archives](archives/index.md)
