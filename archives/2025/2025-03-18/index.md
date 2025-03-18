@@ -5,6 +5,8 @@
 ### [Archives](../../index.md) for [2025-03-18](index.md)
 
 * [2025-03-18, 10:26:48](https://lobste.rs/s/otthd0/society_lost_focus) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
+* [2025-03-18, 10:20:41](https://lobste.rs/s/jrpdre/pi_5_trillion_digits_2010) - [Pi - 5 Trillion Digits (2010)](http://numberworld.org/misc_runs/pi-5t/details.html)
+* [2025-03-18, 10:07:21](https://lobste.rs/s/0sf074/why_i_m_no_longer_talking_architects_about) - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
 * [2025-03-18, 09:22:39](https://lobste.rs/s/kat2r2/gpt_3_5_latest_models) - [GPT-3.5 and the latest models](https://omarabid.com/gpt3-now)
 * [2025-03-18, 08:58:13](https://lobste.rs/s/e1pz6v/component_simplicity) - [Component Simplicity](https://jerf.org/iri/post/2025/fp_lessons_simplicity/)
 * [2025-03-18, 07:55:58](https://lobste.rs/s/1o6zda/slack_art_being_busy_without_getting) - [Slack: The Art of Being Busy Without Getting Anything Done](https://matduggan.com/slack-the-art-of-being-busy-without-getting-anything-done/)
