@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-18, 13:00:26",
+      "https://lobste.rs/s/lpine6/future_serialization_deserialization"
+    ],
+    [
+      "The future of serialization & deserialization APIs",
+      "https://forums.swift.org/t/the-future-of-serialization-deserialization-apis/78585"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 11:18:33",
       "https://lobste.rs/s/ogaalf/i_don_t_think_error_handling_is_solved"
     ],
@@ -177,16 +187,6 @@
     [
       "Password reuse is rampant: nearly half of observed user logins are compromised",
       "https://blog.cloudflare.com/password-reuse-rampant-half-user-logins-compromised/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 17:38:06",
-      "https://lobste.rs/s/yhxoqu/tiny_pointers"
-    ],
-    [
-      "Tiny Pointers",
-      "https://arxiv.org/abs/2111.12800"
     ]
   ],
   [
