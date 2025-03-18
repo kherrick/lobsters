@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-18, 02:05:41",
+      "https://lobste.rs/s/uti1z4/parser_combinators_under_hood"
+    ],
+    [
+      "Parser combinators under the hood",
+      "https://youtu.be/hFO9G0Va__0"
+    ]
+  ],
+  [
+    [
+      "2025-03-18, 01:20:39",
+      "https://lobste.rs/s/vdvkfd/past_present_futures_user_interface"
+    ],
+    [
+      "Past and Present Futures of User Interface Design",
+      "https://www.datagubbe.se/futui/"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 00:10:46",
       "https://lobste.rs/s/rm7jdg/offline_pki_using_3_yubikeys_arm_single"
     ],
@@ -17,16 +37,6 @@
     [
       "GIMP 3.0 Released",
       "https://www.gimp.org/news/2025/03/16/gimp-3-0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 23:15:59",
-      "https://lobste.rs/s/kra0fw/integer_linear_programming_ilp_2020"
-    ],
-    [
-      "Integer Linear Programming (ILP) (2020)",
-      "https://rtime.ciirc.cvut.cz/~hanzalek/KO/ILP_e.pdf"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "From Languages to Language Sets",
       "https://gist.github.com/xixixao/8e363dbd3663b6729cd5b6d74dbbf9d4"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 00:45:12",
-      "https://lobste.rs/s/grpayi/zest_programming_language_for_malleable"
-    ],
-    [
-      "Zest: a programming language for malleable and legible systems",
-      "https://github.com/jamii/zest"
     ]
   ],
   [
