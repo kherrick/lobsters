@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 06:24:54](https://lobste.rs/s/l3yinr/state_personal_online_security) - [The State of Personal Online Security and Confidentiality](https://www.youtube.com/watch?v=AyH7zoP-JOg)
 * [2025-03-19, 05:01:36](https://lobste.rs/s/ki7hmf/comptime_zig_orm) - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 * [2025-03-19, 02:22:05](https://lobste.rs/s/jlm5ug/copyright_demoscene) - [Copyright and the demoscene](https://www.datagubbe.se/scenecop/)
 * [2025-03-19, 02:06:09](https://lobste.rs/s/7tldrt/on_aesthetics_syntax_declarations_2018) - [On the Aesthetics of the Syntax of Declarations (2018)](https://www.gingerbill.org/article/2018/03/12/on-the-aesthetics-of-the-syntax-of-declarations/)
