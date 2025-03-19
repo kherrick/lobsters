@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-19, 20:39:58](https://lobste.rs/s/0h4nyk/ai_blindspots) - [AI Blindspots](https://ezyang.github.io/ai-blindspots/)
 * [2025-03-19, 19:11:32](https://lobste.rs/s/gm6ggq/note_c_standards_committee_members_on) - [Note to the C++ standards committee members on profiles and safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3651r0.pdf)
 * [2025-03-19, 18:32:21](https://lobste.rs/s/1pyypm/gnome_48_released) - [GNOME 48 released](https://release.gnome.org/48/)
 * [2025-03-19, 18:27:26](https://lobste.rs/s/tohxky/future_fauna) - [The Future of Fauna](https://fauna.com/blog/the-future-of-fauna)
@@ -24,7 +25,6 @@
 * [2025-03-18, 11:18:33](https://lobste.rs/s/ogaalf/i_don_t_think_error_handling_is_solved) - [I don't think error handling is a solved problem in language design](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorHandlingNotSolvedProblem)
 * [2025-03-18, 10:26:48](https://lobste.rs/s/otthd0/society_lost_focus) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
 * [2025-03-18, 10:07:21](https://lobste.rs/s/0sf074/why_i_m_no_longer_talking_architects_about) - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
-* [2025-03-18, 07:13:34](https://lobste.rs/s/sgyyww/stop_using_recommending_react) - [Stop Using and Recommending React](https://blog.lusito.info/stop-using-and-recommending-react.html)
 
 ## [Archives](archives/index.md)
 

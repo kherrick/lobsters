@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 20:39:58](https://lobste.rs/s/0h4nyk/ai_blindspots) - [AI Blindspots](https://ezyang.github.io/ai-blindspots/)
 * [2025-03-19, 19:11:32](https://lobste.rs/s/gm6ggq/note_c_standards_committee_members_on) - [Note to the C++ standards committee members on profiles and safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3651r0.pdf)
 * [2025-03-19, 18:32:21](https://lobste.rs/s/1pyypm/gnome_48_released) - [GNOME 48 released](https://release.gnome.org/48/)
 * [2025-03-19, 18:27:26](https://lobste.rs/s/tohxky/future_fauna) - [The Future of Fauna](https://fauna.com/blog/the-future-of-fauna)
