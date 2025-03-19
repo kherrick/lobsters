@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-19, 00:12:13",
+      "https://lobste.rs/s/ud9f7q/greptimedb_leads_cold_run_performance_on"
+    ],
+    [
+      "GreptimeDB Leads in Cold Run Performance on ClickHouse’s billion JSON doc benchmark",
+      "https://greptime.com/blogs/2025-03-18-jsonbench-greptimedb-performance"
+    ]
+  ],
+  [
+    [
       "2025-03-18, 22:05:26",
       "https://lobste.rs/s/vuvvku/announcing_fedora_linux_42_beta"
     ],
@@ -177,16 +187,6 @@
     [
       "GIMP 3.0 Released",
       "https://www.gimp.org/news/2025/03/16/gimp-3-0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 20:10:57",
-      "https://lobste.rs/s/4guing/after_47_years_openvms_gets_package"
-    ],
-    [
-      "After 47 years, OpenVMS gets a package manager (VSP)",
-      "https://raymii.org/s/blog/After_47_years_OpenVMS_gets_a_package_manager_VSP.html"
     ]
   ],
   [
