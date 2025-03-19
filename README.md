@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-19, 15:02:36](https://lobste.rs/s/fcepiv/macos_blog_post_ft_hackintosh) - [The macOS Blog Post (ft. Hackintosh)](https://lilysthings.org/blog/the-macos-blog-post/)
 * [2025-03-19, 14:10:40](https://lobste.rs/s/1hexlm/no_longer_my_favorite_git_commit) - [No Longer My Favorite Git Commit](https://mtlynch.io/no-longer-my-favorite-git-commit/)
 * [2025-03-19, 14:10:33](https://lobste.rs/s/ql2ohv/weird_sometimes_useful_charts) - [Weird but (sometimes) useful charts](https://xeno.graphics/)
 * [2025-03-19, 13:05:30](https://lobste.rs/s/ghkg71/quickbench_zero_dependency_linux) - [QuickBench: A Zero-Dependency Linux Benchmark for CPU, Memory, and Storage](https://github.com/bearstech/quickbench)
@@ -18,7 +19,6 @@
 * [2025-03-18, 21:31:09](https://lobste.rs/s/h22rcm/why_snes_hardware_is_running_faster_than) - [Why SNES hardware is running faster than expected—and why it’s a problem](https://arstechnica.com/gaming/2025/03/this-small-snes-timing-issue-is-causing-big-speedrun-problems/)
 * [2025-03-18, 20:08:05](https://lobste.rs/s/dhfjyu/introducing_two_new_pebbleos_watches) - [Introducing two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches)
 * [2025-03-18, 19:03:22](https://lobste.rs/s/ueg9lr/patterns_for_modeling_data_with) - [Patterns for modeling data with absolutely no NULLs?](https://lobste.rs/s/ueg9lr/patterns_for_modeling_data_with)
-* [2025-03-18, 15:43:41](https://lobste.rs/s/fnx5fv/recyling_oneplus_6t_into_kubernetes_node) - [Recyling a OnePlus 6T into a Kubernetes Node](https://gabrielsimmer.com/blog/kubernetes-plus-oneplus)
 * [2025-03-18, 11:18:33](https://lobste.rs/s/ogaalf/i_don_t_think_error_handling_is_solved) - [I don't think error handling is a solved problem in language design](https://utcc.utoronto.ca/~cks/space/blog/programming/ErrorHandlingNotSolvedProblem)
 * [2025-03-18, 10:26:48](https://lobste.rs/s/otthd0/society_lost_focus) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
 * [2025-03-18, 10:07:21](https://lobste.rs/s/0sf074/why_i_m_no_longer_talking_architects_about) - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)

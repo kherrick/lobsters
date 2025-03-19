@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 15:02:36](https://lobste.rs/s/fcepiv/macos_blog_post_ft_hackintosh) - [The macOS Blog Post (ft. Hackintosh)](https://lilysthings.org/blog/the-macos-blog-post/)
 * [2025-03-19, 14:10:40](https://lobste.rs/s/1hexlm/no_longer_my_favorite_git_commit) - [No Longer My Favorite Git Commit](https://mtlynch.io/no-longer-my-favorite-git-commit/)
 * [2025-03-19, 14:10:33](https://lobste.rs/s/ql2ohv/weird_sometimes_useful_charts) - [Weird but (sometimes) useful charts](https://xeno.graphics/)
 * [2025-03-19, 13:05:30](https://lobste.rs/s/ghkg71/quickbench_zero_dependency_linux) - [QuickBench: A Zero-Dependency Linux Benchmark for CPU, Memory, and Storage](https://github.com/bearstech/quickbench)
