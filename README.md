@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-19, 23:20:38](https://lobste.rs/s/lpa1fr/introducing_orpheus_speech) - [Introducing Orpheus Speech](https://canopylabs.ai/model-releases)
 * [2025-03-19, 21:18:07](https://lobste.rs/s/pxgyte/conflict_free_database_over_virtual_file) - [Conflict-free Database over Virtual File System](https://www.bartoszsypytkowski.com/conflict-free-database-over-virtual-file-system/)
 * [2025-03-19, 20:39:58](https://lobste.rs/s/0h4nyk/ai_blindspots) - [AI Blindspots](https://ezyang.github.io/ai-blindspots/)
 * [2025-03-19, 19:11:32](https://lobste.rs/s/gm6ggq/note_c_standards_committee_members_on) - [Note to the C++ standards committee members on profiles and safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3651r0.pdf)
@@ -16,7 +17,6 @@
 * [2025-03-19, 12:24:55](https://lobste.rs/s/j61hod/search_next_great_programming_language) - [In Search of the Next Great Programming Language](https://git.sr.ht/~robheghan/glogg/tree/main/item/docs/motivation.md)
 * [2025-03-19, 10:02:57](https://lobste.rs/s/5scnsn/bell_labs_unsung_heros_history_computing) - [Bell Labs' Unsung Heros in the History of Computing (2012)](https://dobbse.net/thinair/2012/04/unsung-heros-sigsaly.html)
 * [2025-03-19, 09:35:03](https://lobste.rs/s/xttfur/language_interop_extensible_compiler) - [Language interop and the extensible compiler](https://smallcultfollowing.com/babysteps/blog/2025/03/18/lang-interop-extensibility/)
-* [2025-03-19, 08:17:57](https://lobste.rs/s/ziolhm/brief_incomplete_mostly_wrong_history) - [A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)](http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html)
 * [2025-03-19, 07:20:06](https://lobste.rs/s/dnsezi/asahi_lina_pausing_work_on_apple_gpu_linux) - [Asahi Lina Pausing Work On Apple GPU Linux Driver Development](https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU)
 * [2025-03-19, 07:14:12](https://lobste.rs/s/ugwn0j/failing_upwards_twitter_encrypted_dm) - [Failing upwards: the Twitter encrypted DM failure](https://mjg59.dreamwidth.org/71188.html)
 * [2025-03-19, 05:01:36](https://lobste.rs/s/ki7hmf/comptime_zig_orm) - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)

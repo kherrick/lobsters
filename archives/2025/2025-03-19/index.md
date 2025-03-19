@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 23:20:38](https://lobste.rs/s/lpa1fr/introducing_orpheus_speech) - [Introducing Orpheus Speech](https://canopylabs.ai/model-releases)
 * [2025-03-19, 21:18:07](https://lobste.rs/s/pxgyte/conflict_free_database_over_virtual_file) - [Conflict-free Database over Virtual File System](https://www.bartoszsypytkowski.com/conflict-free-database-over-virtual-file-system/)
 * [2025-03-19, 20:39:58](https://lobste.rs/s/0h4nyk/ai_blindspots) - [AI Blindspots](https://ezyang.github.io/ai-blindspots/)
 * [2025-03-19, 19:11:32](https://lobste.rs/s/gm6ggq/note_c_standards_committee_members_on) - [Note to the C++ standards committee members on profiles and safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3651r0.pdf)
