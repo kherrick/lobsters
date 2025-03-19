@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 18:27:26](https://lobste.rs/s/tohxky/future_fauna) - [The Future of Fauna](https://fauna.com/blog/the-future-of-fauna)
 * [2025-03-19, 17:20:03](https://lobste.rs/s/ezweb7/intel_9_285k_on_asus_z890_not_stable) - [Intel 9 285K on ASUS Z890: not stable](https://michael.stapelberg.ch/posts/2025-03-19-intel-core-ultra-9-285k-on-asus-z890-not-stable/)
 * [2025-03-19, 16:26:55](https://lobste.rs/s/d1eytn/red_v0_6_6_memory_management_improvements) - [Red v0.6.6: Memory Management Improvements](https://www.red-lang.org/2025/03/066-memory-management-improvements.html)
 * [2025-03-19, 16:10:23](https://lobste.rs/s/re1anu/memory_safety_for_web_fonts) - [Memory safety for web fonts](https://developer.chrome.com/blog/memory-safety-fonts)
