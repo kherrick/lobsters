@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-19, 13:05:30",
+      "https://lobste.rs/s/ghkg71/quickbench_zero_dependency_linux"
+    ],
+    [
+      "QuickBench: A Zero-Dependency Linux Benchmark for CPU, Memory, and Storage",
+      "https://github.com/bearstech/quickbench"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 12:56:46",
+      "https://lobste.rs/s/ptsvae/how_speed_up_rust_compiler_march_2025"
+    ],
+    [
+      "How to speed up the Rust compiler in March 2025",
+      "https://nnethercote.github.io/2025/03/19/how-to-speed-up-the-rust-compiler-in-march-2025.html"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 12:24:55",
       "https://lobste.rs/s/j61hod/search_next_great_programming_language"
     ],
@@ -77,16 +97,6 @@
     [
       "Failing upwards: the Twitter encrypted DM failure",
       "https://mjg59.dreamwidth.org/71188.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 06:24:54",
-      "https://lobste.rs/s/l3yinr/state_personal_online_security"
-    ],
-    [
-      "The State of Personal Online Security and Confidentiality",
-      "https://www.youtube.com/watch?v=AyH7zoP-JOg"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "GIMP 3.0 Released",
       "https://www.gimp.org/news/2025/03/16/gimp-3-0-released/"
-    ]
-  ],
-  [
-    [
-      "2025-03-17, 11:10:11",
-      "https://lobste.rs/s/dmuad3/mitigating_sourcehut_s_partial_outage"
-    ],
-    [
-      "Mitigating SourceHut's partial outage caused by aggressive crawlers",
-      "https://status.sr.ht/issues/2025-03-17-git.sr.ht-llms/"
     ]
   ]
 ]
