@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-19](index.md)
 
+* [2025-03-19, 08:11:58](https://lobste.rs/s/g98pec/apache_kafka_4_0_0_release_announcement) - [Apache Kafka 4.0.0 Release Announcement](https://kafka.apache.org/blog#apache_kafka_400_release_announcement)
 * [2025-03-19, 07:20:06](https://lobste.rs/s/dnsezi/asahi_lina_pausing_work_on_apple_gpu_linux) - [Asahi Lina Pausing Work On Apple GPU Linux Driver Development](https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU)
 * [2025-03-19, 07:14:12](https://lobste.rs/s/ugwn0j/failing_upwards_twitter_encrypted_dm) - [Failing upwards: the Twitter encrypted DM failure](https://mjg59.dreamwidth.org/71188.html)
 * [2025-03-19, 06:24:54](https://lobste.rs/s/l3yinr/state_personal_online_security) - [The State of Personal Online Security and Confidentiality](https://www.youtube.com/watch?v=AyH7zoP-JOg)
