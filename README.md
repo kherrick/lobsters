@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-20, 14:29:45](https://lobste.rs/s/qykkq8/introducing_grease_open_source_tool_for) - [Introducing GREASE: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
 * [2025-03-20, 14:02:16](https://lobste.rs/s/84qcvn/how_nixos_reproducible_builds_could_have) - [How NixOS and reproducible builds could have detected the xz backdoorfor the benefit of all](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
 * [2025-03-20, 11:52:56](https://lobste.rs/s/hsmn5t/building_second_worst_zx_spectrum) - [Building the Second-Worst ZX Spectrum Emulator in the World with Perl](https://fuzzix.org/building-the-secondworst-zx-spectrum-emulator-in-the-world-with-perl)
 * [2025-03-20, 11:15:39](https://lobste.rs/s/2rojlh/another_round_rust_compiler) - [Another round of Rust compiler improvements merged for GCC 15.1](https://www.phoronix.com/news/More-Rust-Merged-GCC-15.1)
@@ -10,7 +11,6 @@
 * [2025-03-20, 08:34:24](https://lobste.rs/s/z9dtvj/non_obvious_haskell_idiom_guard_sequence) - [Non-Obvious Haskell Idiom: Guard-Sequence](https://entropicthoughts.com/non-obvious-haskell-idiom-guard-sequence)
 * [2025-03-20, 06:41:33](https://lobste.rs/s/6t3rlo/u_boot_memory_permissions) - [U-Boot and memory permissions](https://apalos.github.io/U-Boot%20and%20memory%20permissions.html)
 * [2025-03-20, 02:48:35](https://lobste.rs/s/mcohum/sources_accidental_complexity_2014) - [Sources of Accidental Complexity (2014)](https://aidancully.blogspot.com/2014/07/sources-of-accidental-complexity.html)
-* [2025-03-20, 02:46:28](https://lobste.rs/s/pnkjrm/introducing_webcat_web_based_code) - [Introducing WEBCAT: Web-based Code Assurance and Transparency](https://securedrop.org/news/introducing-webcat-web-based-code-assurance-and-transparency/)
 * [2025-03-20, 01:19:29](https://lobste.rs/s/nzrzcw/pipx_install_topgrade) - [pipx install topgrade](https://maxkapur.com/2025/03/19/pipx-install-topgrade.html)
 * [2025-03-19, 23:51:23](https://lobste.rs/s/xg2chc/passive_voice_considered_harmful) - [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful/)
 * [2025-03-19, 19:11:32](https://lobste.rs/s/gm6ggq/note_c_standards_committee_members_on) - [Note to the C++ standards committee members on profiles and safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3651r0.pdf)
