@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
 * [2025-03-20, 16:38:30](https://lobste.rs/s/iguimj/dead_simple_snapshot_testing_zig) - [Dead Simple Snapshot Testing In Zig](https://kristoff.it/blog/dead-simple-snapshot-testing/)
+* [2025-03-20, 15:31:29](https://lobste.rs/s/xhxvr9/life_altering_postgresql_patterns) - [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 * [2025-03-20, 15:03:37](https://lobste.rs/s/ejzabh/future_ai_is_ruby_on_rails) - [The future of AI is Ruby on Rails](https://www.seangoedecke.com/ai-and-ruby/)
 * [2025-03-20, 14:58:12](https://lobste.rs/s/bzjmio/c_implementation_defer_using_goto) - [A C implementation of defer using `goto`](https://gist.github.com/viega/f063010765a47ca9aa000a75ec55f8e2)
 * [2025-03-20, 14:56:03](https://lobste.rs/s/5zkao3/rustdoc_merged_doctests_solved_issue_on) - [Rustdoc merged doctests (solved) issue on stable](https://blog.guillaume-gomez.fr/articles/2025-03-20+Rustdoc+merged+doctests+%28solved%29+issue+on+stable)
