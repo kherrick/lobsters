@@ -10,6 +10,7 @@
 * [2025-03-20, 19:08:44](https://lobste.rs/s/csdwrg/deliberate_practice_for_developers) - [Deliberate Practice for Developers](https://alexalejandre.com/programming/deliberate-practice-for-developers/)
 * [2025-03-20, 18:27:33](https://lobste.rs/s/imht55/tiling_window_managers_on_macos) - [Tiling Window Managers on macOS](https://lilysthings.org/blog/tiling-macos/)
 * [2025-03-20, 17:25:21](https://lobste.rs/s/48hqpz/faster_interpreters_go_catching_up_with_c) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
+* [2025-03-20, 16:58:41](https://lobste.rs/s/tyftpr/ruby_ractors_lock_free_data_structures) - [Ruby, Ractors, and Lock-Free Data Structures](https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/)
 * [2025-03-20, 16:55:57](https://lobste.rs/s/yknllw/leaking_passwords_more_on_macos) - [Leaking passwords (and more!) on macOS](https://wts.dev/posts/password-leak/)
 * [2025-03-20, 16:38:30](https://lobste.rs/s/iguimj/dead_simple_snapshot_testing_zig) - [Dead Simple Snapshot Testing In Zig](https://kristoff.it/blog/dead-simple-snapshot-testing/)
 * [2025-03-20, 15:31:29](https://lobste.rs/s/xhxvr9/life_altering_postgresql_patterns) - [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
