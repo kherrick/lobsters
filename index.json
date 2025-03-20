@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-20, 11:15:39",
+      "https://lobste.rs/s/2rojlh/another_round_rust_compiler"
+    ],
+    [
+      "Another round of Rust compiler improvements merged for GCC 15.1",
+      "https://www.phoronix.com/news/More-Rust-Merged-GCC-15.1"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 10:18:45",
       "https://lobste.rs/s/wrsr3j/healthyig_instagram_without_all_toxic"
     ],
@@ -61,12 +71,12 @@
   ],
   [
     [
-      "2025-03-20, 06:41:33",
-      "https://lobste.rs/s/6t3rlo/u_boot_memory_permissions"
+      "2025-03-20, 05:04:10",
+      "https://lobste.rs/s/brpmoi/out_your_face_ai"
     ],
     [
-      "U-Boot and memory permissions",
-      "https://apalos.github.io/U-Boot%20and%20memory%20permissions.html"
+      "Out-of-your-face AI",
+      "https://zed.dev/blog/out-of-your-face-ai"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Asahi Lina Pausing Work On Apple GPU Linux Driver Development",
       "https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 05:01:36",
-      "https://lobste.rs/s/ki7hmf/comptime_zig_orm"
-    ],
-    [
-      "Comptime Zig ORM",
-      "https://matklad.github.io/2025/03/19/comptime-zig-orm.html"
     ]
   ],
   [
