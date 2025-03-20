@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-20, 10:18:45",
+      "https://lobste.rs/s/wrsr3j/healthyig_instagram_without_all_toxic"
+    ],
+    [
+      "HealthyIG: Instagram without all the toxic features like reels, home page, explore page",
+      "https://github.com/AlessandroBonomo28/HealthyIG"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 10:13:40",
+      "https://lobste.rs/s/z4halj/half_constructed_objects_are"
+    ],
+    [
+      "Half Constructed Objects Are Unnecessary",
+      "https://jerf.org/iri/post/2025/fp_lessons_half_constructed_objects/"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 09:40:50",
       "https://lobste.rs/s/nukfa9/cve_2024_9956_passkey_account_takeover"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-03-19, 16:10:23",
-      "https://lobste.rs/s/re1anu/memory_safety_for_web_fonts"
-    ],
-    [
-      "Memory safety for web fonts",
-      "https://developer.chrome.com/blog/memory-safety-fonts"
-    ]
-  ],
-  [
-    [
       "2025-03-19, 15:59:12",
       "https://lobste.rs/s/mg1khc/does_unsafe_undermine_rust_s_guarantees"
     ],
@@ -217,16 +227,6 @@
     [
       "Asahi Lina Pausing Work On Apple GPU Linux Driver Development",
       "https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 07:14:12",
-      "https://lobste.rs/s/ugwn0j/failing_upwards_twitter_encrypted_dm"
-    ],
-    [
-      "Failing upwards: the Twitter encrypted DM failure",
-      "https://mjg59.dreamwidth.org/71188.html"
     ]
   ],
   [
