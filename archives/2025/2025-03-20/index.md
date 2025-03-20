@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 14:53:32](https://lobste.rs/s/f6ciaz/national_security_case_for_email_plus) - [The National Security Case for Email Plus Addressing](https://sagi.io//the-national-security-case-for-email-plus-addressing/)
 * [2025-03-20, 14:29:45](https://lobste.rs/s/qykkq8/introducing_grease_open_source_tool_for) - [Introducing GREASE: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code](https://www.galois.com/articles/introducing-grease)
 * [2025-03-20, 14:02:16](https://lobste.rs/s/84qcvn/how_nixos_reproducible_builds_could_have) - [How NixOS and reproducible builds could have detected the xz backdoorfor the benefit of all](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
 * [2025-03-20, 11:52:56](https://lobste.rs/s/hsmn5t/building_second_worst_zx_spectrum) - [Building the Second-Worst ZX Spectrum Emulator in the World with Perl](https://fuzzix.org/building-the-secondworst-zx-spectrum-emulator-in-the-world-with-perl)
