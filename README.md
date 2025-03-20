@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-20, 06:41:33](https://lobste.rs/s/6t3rlo/u_boot_memory_permissions) - [U-Boot and memory permissions](https://apalos.github.io/U-Boot%20and%20memory%20permissions.html)
 * [2025-03-20, 05:04:10](https://lobste.rs/s/brpmoi/out_your_face_ai) - [Out-of-your-face AI](https://zed.dev/blog/out-of-your-face-ai)
 * [2025-03-20, 02:48:35](https://lobste.rs/s/mcohum/sources_accidental_complexity_2014) - [Sources of Accidental Complexity (2014)](https://aidancully.blogspot.com/2014/07/sources-of-accidental-complexity.html)
 * [2025-03-20, 02:46:28](https://lobste.rs/s/pnkjrm/introducing_webcat_web_based_code) - [Introducing WEBCAT: Web-based Code Assurance and Transparency](https://securedrop.org/news/introducing-webcat-web-based-code-assurance-and-transparency/)
@@ -23,7 +24,6 @@
 * [2025-03-19, 07:20:06](https://lobste.rs/s/dnsezi/asahi_lina_pausing_work_on_apple_gpu_linux) - [Asahi Lina Pausing Work On Apple GPU Linux Driver Development](https://www.phoronix.com/news/Asahi-Lina-Steps-Down-Linux-GPU)
 * [2025-03-19, 07:14:12](https://lobste.rs/s/ugwn0j/failing_upwards_twitter_encrypted_dm) - [Failing upwards: the Twitter encrypted DM failure](https://mjg59.dreamwidth.org/71188.html)
 * [2025-03-19, 05:01:36](https://lobste.rs/s/ki7hmf/comptime_zig_orm) - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
-* [2025-03-18, 20:08:05](https://lobste.rs/s/dhfjyu/introducing_two_new_pebbleos_watches) - [Introducing two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches)
 * [2025-03-18, 10:26:48](https://lobste.rs/s/otthd0/society_lost_focus) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
 
 ## [Archives](archives/index.md)
