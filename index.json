@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-20, 08:42:04",
+      "https://lobste.rs/s/oqe93s/one_billion_row_challenge_racket"
+    ],
+    [
+      "One Billion Row Challenge in Racket",
+      "https://defn.io/2024/01/10/one-billion-row-challenge-in-racket"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 08:34:24",
       "https://lobste.rs/s/z9dtvj/non_obvious_haskell_idiom_guard_sequence"
     ],
@@ -197,16 +207,6 @@
     [
       "In Search of the Next Great Programming Language",
       "https://git.sr.ht/~robheghan/glogg/tree/main/item/docs/motivation.md"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 09:35:03",
-      "https://lobste.rs/s/xttfur/language_interop_extensible_compiler"
-    ],
-    [
-      "Language interop and the extensible compiler",
-      "https://smallcultfollowing.com/babysteps/blog/2025/03/18/lang-interop-extensibility/"
     ]
   ],
   [
