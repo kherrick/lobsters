@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-20, 02:48:35",
+      "https://lobste.rs/s/mcohum/sources_accidental_complexity_2014"
+    ],
+    [
+      "Sources of Accidental Complexity (2014)",
+      "https://aidancully.blogspot.com/2014/07/sources-of-accidental-complexity.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 02:46:28",
+      "https://lobste.rs/s/pnkjrm/introducing_webcat_web_based_code"
+    ],
+    [
+      "Introducing WEBCAT: Web-based Code Assurance and Transparency",
+      "https://securedrop.org/news/introducing-webcat-web-based-code-assurance-and-transparency/"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 01:19:29",
       "https://lobste.rs/s/nzrzcw/pipx_install_topgrade"
     ],
@@ -37,16 +57,6 @@
     [
       "Why didn't Windows 95 setup use a miniature version of Windows 95 as its fallback GUI?",
       "https://devblogs.microsoft.com/oldnewthing/20250318-00/?p=110975"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 21:18:07",
-      "https://lobste.rs/s/pxgyte/conflict_free_database_over_virtual_file"
-    ],
-    [
-      "Conflict-free Database over Virtual File System",
-      "https://www.bartoszsypytkowski.com/conflict-free-database-over-virtual-file-system/"
     ]
   ],
   [
@@ -167,16 +177,6 @@
     [
       "In Search of the Next Great Programming Language",
       "https://git.sr.ht/~robheghan/glogg/tree/main/item/docs/motivation.md"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 10:02:57",
-      "https://lobste.rs/s/5scnsn/bell_labs_unsung_heros_history_computing"
-    ],
-    [
-      "Bell Labs' Unsung Heros in the History of Computing (2012)",
-      "https://dobbse.net/thinair/2012/04/unsung-heros-sigsaly.html"
     ]
   ],
   [
