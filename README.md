@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-20, 14:02:16](https://lobste.rs/s/84qcvn/how_nixos_reproducible_builds_could_have) - [How NixOS and reproducible builds could have detected the xz backdoorfor the benefit of all](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
 * [2025-03-20, 11:52:56](https://lobste.rs/s/hsmn5t/building_second_worst_zx_spectrum) - [Building the Second-Worst ZX Spectrum Emulator in the World with Perl](https://fuzzix.org/building-the-secondworst-zx-spectrum-emulator-in-the-world-with-perl)
 * [2025-03-20, 11:15:39](https://lobste.rs/s/2rojlh/another_round_rust_compiler) - [Another round of Rust compiler improvements merged for GCC 15.1](https://www.phoronix.com/news/More-Rust-Merged-GCC-15.1)
 * [2025-03-20, 10:18:45](https://lobste.rs/s/wrsr3j/healthyig_instagram_without_all_toxic) - [HealthyIG: Instagram without all the toxic features like reels, home page, explore page](https://github.com/AlessandroBonomo28/HealthyIG)
@@ -12,7 +13,6 @@
 * [2025-03-20, 02:46:28](https://lobste.rs/s/pnkjrm/introducing_webcat_web_based_code) - [Introducing WEBCAT: Web-based Code Assurance and Transparency](https://securedrop.org/news/introducing-webcat-web-based-code-assurance-and-transparency/)
 * [2025-03-20, 01:19:29](https://lobste.rs/s/nzrzcw/pipx_install_topgrade) - [pipx install topgrade](https://maxkapur.com/2025/03/19/pipx-install-topgrade.html)
 * [2025-03-19, 23:51:23](https://lobste.rs/s/xg2chc/passive_voice_considered_harmful) - [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful/)
-* [2025-03-19, 23:20:38](https://lobste.rs/s/lpa1fr/introducing_orpheus_speech) - [Introducing Orpheus Speech](https://canopylabs.ai/model-releases)
 * [2025-03-19, 19:11:32](https://lobste.rs/s/gm6ggq/note_c_standards_committee_members_on) - [Note to the C++ standards committee members on profiles and safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3651r0.pdf)
 * [2025-03-19, 18:32:21](https://lobste.rs/s/1pyypm/gnome_48_released) - [GNOME 48 released](https://release.gnome.org/48/)
 * [2025-03-19, 18:27:26](https://lobste.rs/s/tohxky/future_fauna) - [The Future of Fauna](https://fauna.com/blog/the-future-of-fauna)
