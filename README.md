@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-20, 05:04:10](https://lobste.rs/s/brpmoi/out_your_face_ai) - [Out-of-your-face AI](https://zed.dev/blog/out-of-your-face-ai)
 * [2025-03-20, 02:48:35](https://lobste.rs/s/mcohum/sources_accidental_complexity_2014) - [Sources of Accidental Complexity (2014)](https://aidancully.blogspot.com/2014/07/sources-of-accidental-complexity.html)
 * [2025-03-20, 02:46:28](https://lobste.rs/s/pnkjrm/introducing_webcat_web_based_code) - [Introducing WEBCAT: Web-based Code Assurance and Transparency](https://securedrop.org/news/introducing-webcat-web-based-code-assurance-and-transparency/)
 * [2025-03-20, 01:19:29](https://lobste.rs/s/nzrzcw/pipx_install_topgrade) - [pipx install topgrade](https://maxkapur.com/2025/03/19/pipx-install-topgrade.html)
@@ -24,7 +25,6 @@
 * [2025-03-19, 05:01:36](https://lobste.rs/s/ki7hmf/comptime_zig_orm) - [Comptime Zig ORM](https://matklad.github.io/2025/03/19/comptime-zig-orm.html)
 * [2025-03-18, 20:08:05](https://lobste.rs/s/dhfjyu/introducing_two_new_pebbleos_watches) - [Introducing two new PebbleOS watches](https://ericmigi.com/blog/introducing-two-new-pebbleos-watches)
 * [2025-03-18, 10:26:48](https://lobste.rs/s/otthd0/society_lost_focus) - [A Society That Lost Focus](https://ploum.net/2024-03-18-lost-focus.html)
-* [2025-03-18, 10:07:21](https://lobste.rs/s/0sf074/why_i_m_no_longer_talking_architects_about) - [Why I'm No Longer Talking to Architects About Microservices](https://blog.container-solutions.com/why-im-no-longer-talking-to-architects-about-microservices)
 
 ## [Archives](archives/index.md)
 
