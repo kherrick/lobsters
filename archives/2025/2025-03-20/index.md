@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 08:42:04](https://lobste.rs/s/oqe93s/one_billion_row_challenge_racket) - [One Billion Row Challenge in Racket](https://defn.io/2024/01/10/one-billion-row-challenge-in-racket)
 * [2025-03-20, 08:34:24](https://lobste.rs/s/z9dtvj/non_obvious_haskell_idiom_guard_sequence) - [Non-Obvious Haskell Idiom: Guard-Sequence](https://entropicthoughts.com/non-obvious-haskell-idiom-guard-sequence)
 * [2025-03-20, 06:41:33](https://lobste.rs/s/6t3rlo/u_boot_memory_permissions) - [U-Boot and memory permissions](https://apalos.github.io/U-Boot%20and%20memory%20permissions.html)
 * [2025-03-20, 05:04:10](https://lobste.rs/s/brpmoi/out_your_face_ai) - [Out-of-your-face AI](https://zed.dev/blog/out-of-your-face-ai)
