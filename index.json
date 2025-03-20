@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-20, 19:08:44",
+      "https://lobste.rs/s/csdwrg/deliberate_practice_for_developers"
+    ],
+    [
+      "Deliberate Practice for Developers",
+      "https://alexalejandre.com/programming/deliberate-practice-for-developers/"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 18:27:33",
       "https://lobste.rs/s/imht55/tiling_window_managers_on_macos"
     ],
@@ -47,6 +57,16 @@
     [
       "Life Altering Postgresql Patterns",
       "https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 15:03:37",
+      "https://lobste.rs/s/ejzabh/future_ai_is_ruby_on_rails"
+    ],
+    [
+      "The future of AI is Ruby on Rails",
+      "https://www.seangoedecke.com/ai-and-ruby/"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-03-20, 08:42:04",
-      "https://lobste.rs/s/oqe93s/one_billion_row_challenge_racket"
-    ],
-    [
-      "One Billion Row Challenge in Racket",
-      "https://defn.io/2024/01/10/one-billion-row-challenge-in-racket"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 08:34:24",
       "https://lobste.rs/s/z9dtvj/non_obvious_haskell_idiom_guard_sequence"
     ],
@@ -227,16 +237,6 @@
     [
       "No Longer My Favorite Git Commit",
       "https://mtlynch.io/no-longer-my-favorite-git-commit/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 12:56:46",
-      "https://lobste.rs/s/ptsvae/how_speed_up_rust_compiler_march_2025"
-    ],
-    [
-      "How to speed up the Rust compiler in March 2025",
-      "https://nnethercote.github.io/2025/03/19/how-to-speed-up-the-rust-compiler-in-march-2025.html"
     ]
   ],
   [
