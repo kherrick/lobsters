@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-20, 01:19:29",
+      "https://lobste.rs/s/nzrzcw/pipx_install_topgrade"
+    ],
+    [
+      "pipx install topgrade",
+      "https://maxkapur.com/2025/03/19/pipx-install-topgrade.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-19, 23:51:23",
+      "https://lobste.rs/s/xg2chc/passive_voice_considered_harmful"
+    ],
+    [
+      "Passive Voice Considered Harmful",
+      "https://refactoringenglish.com/chapters/passive-voice-considered-harmful/"
+    ]
+  ],
+  [
+    [
       "2025-03-19, 23:20:38",
       "https://lobste.rs/s/lpa1fr/introducing_orpheus_speech"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-03-19, 08:17:57",
-      "https://lobste.rs/s/ziolhm/brief_incomplete_mostly_wrong_history"
-    ],
-    [
-      "A Brief, Incomplete, and Mostly Wrong History of Programming Languages (2009)",
-      "http://james-iry.blogspot.com/2009/05/brief-incomplete-and-mostly-wrong.html"
-    ]
-  ],
-  [
-    [
       "2025-03-19, 07:20:06",
       "https://lobste.rs/s/dnsezi/asahi_lina_pausing_work_on_apple_gpu_linux"
     ],
@@ -207,16 +217,6 @@
     [
       "Comptime Zig ORM",
       "https://matklad.github.io/2025/03/19/comptime-zig-orm.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-18, 22:05:26",
-      "https://lobste.rs/s/vuvvku/announcing_fedora_linux_42_beta"
-    ],
-    [
-      "Announcing Fedora Linux 42 Beta",
-      "https://fedoramagazine.org/announcing-fedora-linux-42-beta/"
     ]
   ],
   [
