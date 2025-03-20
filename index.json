@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-20, 14:02:16",
+      "https://lobste.rs/s/84qcvn/how_nixos_reproducible_builds_could_have"
+    ],
+    [
+      "How NixOS and reproducible builds could have detected the xz backdoorfor the benefit of all",
+      "https://luj.fr/blog/how-nixos-could-have-detected-xz.html"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 11:52:56",
       "https://lobste.rs/s/hsmn5t/building_second_worst_zx_spectrum"
     ],
@@ -117,16 +127,6 @@
     [
       "Passive Voice Considered Harmful",
       "https://refactoringenglish.com/chapters/passive-voice-considered-harmful/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 23:20:38",
-      "https://lobste.rs/s/lpa1fr/introducing_orpheus_speech"
-    ],
-    [
-      "Introducing Orpheus Speech",
-      "https://canopylabs.ai/model-releases"
     ]
   ],
   [
