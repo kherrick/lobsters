@@ -9,7 +9,7 @@
 * [2025-03-20, 01:19:29](https://lobste.rs/s/nzrzcw/pipx_install_topgrade) - [pipx install topgrade](https://maxkapur.com/2025/03/19/pipx-install-topgrade.html)
 * [2025-03-19, 23:51:23](https://lobste.rs/s/xg2chc/passive_voice_considered_harmful) - [Passive Voice Considered Harmful](https://refactoringenglish.com/chapters/passive-voice-considered-harmful/)
 * [2025-03-19, 23:20:38](https://lobste.rs/s/lpa1fr/introducing_orpheus_speech) - [Introducing Orpheus Speech](https://canopylabs.ai/model-releases)
-* [2025-03-19, 20:39:58](https://lobste.rs/s/0h4nyk/ai_blindspots) - [AI Blindspots](https://ezyang.github.io/ai-blindspots/)
+* [2025-03-19, 21:45:54](https://lobste.rs/s/55ce6u/why_didn_t_windows_95_setup_use_miniature) - [Why didn't Windows 95 setup use a miniature version of Windows 95 as its fallback GUI?](https://devblogs.microsoft.com/oldnewthing/20250318-00/?p=110975)
 * [2025-03-19, 19:11:32](https://lobste.rs/s/gm6ggq/note_c_standards_committee_members_on) - [Note to the C++ standards committee members on profiles and safety](https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2025/p3651r0.pdf)
 * [2025-03-19, 18:32:21](https://lobste.rs/s/1pyypm/gnome_48_released) - [GNOME 48 released](https://release.gnome.org/48/)
 * [2025-03-19, 18:27:26](https://lobste.rs/s/tohxky/future_fauna) - [The Future of Fauna](https://fauna.com/blog/the-future-of-fauna)
