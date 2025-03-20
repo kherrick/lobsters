@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-20, 19:29:57",
+      "https://lobste.rs/s/znta7f/oscura_vim_vim_port_for_oscura_theme_for"
+    ],
+    [
+      "oscura-vim: Vim port for Oscura theme for Vscode",
+      "https://github.com/vinitkumar/oscura-vim"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 19:08:44",
       "https://lobste.rs/s/csdwrg/deliberate_practice_for_developers"
     ],
@@ -217,16 +227,6 @@
     [
       "Does unsafe undermine Rust's guarantees?",
       "https://steveklabnik.com/writing/does-unsafe-undermine-rusts-guarantees/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 15:02:36",
-      "https://lobste.rs/s/fcepiv/macos_blog_post_ft_hackintosh"
-    ],
-    [
-      "The macOS Blog Post (ft. Hackintosh)",
-      "https://lilysthings.org/blog/the-macos-blog-post/"
     ]
   ],
   [
