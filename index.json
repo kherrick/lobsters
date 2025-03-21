@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-21, 03:04:37",
+      "https://lobste.rs/s/ahk6h5/vibe_coding_vs_reality"
+    ],
+    [
+      "\"Vibe Coding\" vs Reality",
+      "https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 00:01:42",
       "https://lobste.rs/s/sdi7d9/dear_apple_google_still_no_app_rollbacks"
     ],
@@ -237,16 +247,6 @@
     [
       "No Longer My Favorite Git Commit",
       "https://mtlynch.io/no-longer-my-favorite-git-commit/"
-    ]
-  ],
-  [
-    [
-      "2025-03-19, 12:24:55",
-      "https://lobste.rs/s/j61hod/search_next_great_programming_language"
-    ],
-    [
-      "In Search of the Next Great Programming Language",
-      "https://git.sr.ht/~robheghan/glogg/tree/main/item/docs/motivation.md"
     ]
   ]
 ]
