@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-21, 16:26:34",
+      "https://lobste.rs/s/patoqt/what_comes_after_github_actions"
+    ],
+    [
+      "What Comes After GitHub Actions?",
+      "https://garnix.io/blog/what-comes-after-gha"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 15:12:54",
       "https://lobste.rs/s/ybyno6/trapping_misbehaving_bots_ai_labyrinth"
     ],
@@ -237,16 +247,6 @@
     [
       "Half Constructed Objects Are Unnecessary",
       "https://jerf.org/iri/post/2025/fp_lessons_half_constructed_objects/"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 08:34:24",
-      "https://lobste.rs/s/z9dtvj/non_obvious_haskell_idiom_guard_sequence"
-    ],
-    [
-      "Non-Obvious Haskell Idiom: Guard-Sequence",
-      "https://entropicthoughts.com/non-obvious-haskell-idiom-guard-sequence"
     ]
   ]
 ]
