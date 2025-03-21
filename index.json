@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-03-21, 11:41:16",
+      "https://lobste.rs/s/1091vg/right_way_do_data_fixtures_go"
+    ],
+    [
+      "The right way to do data fixtures in Go",
+      "https://brandur.org/fragments/go-data-fixtures"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 11:18:33",
       "https://lobste.rs/s/exoxg9/what_are_you_doing_this_weekend"
     ],
@@ -87,16 +97,6 @@
     [
       "Hyper-MCP - MCP server in Rust with plugin system powered by WebAssembly and OCI registry",
       "https://github.com/tuananh/hyper-mcp"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 04:22:38",
-      "https://lobste.rs/s/qnndyo/peanoscript_typescript_it_s_theorem"
-    ],
-    [
-      "PeanoScript: TypeScript but it's a theorem prover",
-      "https://peanoscript.mjgrzymek.com/tutorial"
     ]
   ],
   [
