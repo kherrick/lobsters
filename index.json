@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-03-21, 02:39:09",
+      "https://lobste.rs/s/2xjpig/asahi_linux_progress_report_linux_kernel"
+    ],
+    [
+      "Asahi Linux progress report: Linux kernel 6.14",
+      "https://asahilinux.org/2025/03/progress-report-6-14/"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 00:01:42",
       "https://lobste.rs/s/sdi7d9/dear_apple_google_still_no_app_rollbacks"
     ],
@@ -147,16 +157,6 @@
     [
       "Life Altering Postgresql Patterns",
       "https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 14:58:12",
-      "https://lobste.rs/s/bzjmio/c_implementation_defer_using_goto"
-    ],
-    [
-      "A C implementation of defer using `goto`",
-      "https://gist.github.com/viega/f063010765a47ca9aa000a75ec55f8e2"
     ]
   ],
   [
