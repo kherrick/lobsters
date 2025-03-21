@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-21, 04:22:38](https://lobste.rs/s/qnndyo/peanoscript_typescript_it_s_theorem) - [PeanoScript: TypeScript but it's a theorem prover](https://peanoscript.mjgrzymek.com/tutorial)
 * [2025-03-21, 03:04:37](https://lobste.rs/s/ahk6h5/vibe_coding_vs_reality) - [\"Vibe Coding\" vs Reality](https://cendyne.dev/posts/2025-03-19-vibe-coding-vs-reality.html)
 * [2025-03-21, 00:01:42](https://lobste.rs/s/sdi7d9/dear_apple_google_still_no_app_rollbacks) - [Dear Apple and Google: still no app rollbacks?](https://www.tramline.app/blog/dear-apple-and-google-still-no-app-rollbacks)
 * [2025-03-20, 22:50:42](https://lobste.rs/s/xuc9ro/clarifying_what_s_happening_at_mozilla) - [Clarifying what's happening at Mozilla: an Interview with Ryan Sipes from Thunderbird](https://www.youtube.com/watch?v=ctg5QzSt5tg)
@@ -16,7 +17,6 @@
 * [2025-03-20, 14:58:12](https://lobste.rs/s/bzjmio/c_implementation_defer_using_goto) - [A C implementation of defer using `goto`](https://gist.github.com/viega/f063010765a47ca9aa000a75ec55f8e2)
 * [2025-03-20, 14:53:32](https://lobste.rs/s/f6ciaz/national_security_case_for_email_plus) - [The National Security Case for Email Plus Addressing](https://sagi.io//the-national-security-case-for-email-plus-addressing/)
 * [2025-03-20, 14:02:16](https://lobste.rs/s/84qcvn/how_nixos_reproducible_builds_could_have) - [How NixOS and reproducible builds could have detected the xz backdoorfor the benefit of all](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
-* [2025-03-20, 11:52:56](https://lobste.rs/s/hsmn5t/building_second_worst_zx_spectrum) - [Building the Second-Worst ZX Spectrum Emulator in the World with Perl](https://fuzzix.org/building-the-secondworst-zx-spectrum-emulator-in-the-world-with-perl)
 * [2025-03-20, 10:18:45](https://lobste.rs/s/wrsr3j/healthyig_instagram_without_all_toxic) - [HealthyIG: Instagram without all the toxic features like reels, home page, explore page](https://github.com/AlessandroBonomo28/HealthyIG)
 * [2025-03-20, 10:13:40](https://lobste.rs/s/z4halj/half_constructed_objects_are) - [Half Constructed Objects Are Unnecessary](https://jerf.org/iri/post/2025/fp_lessons_half_constructed_objects/)
 * [2025-03-20, 09:40:50](https://lobste.rs/s/nukfa9/cve_2024_9956_passkey_account_takeover) - [CVE-2024-9956 - PassKey Account Takeover in All Mobile Browsers](https://mastersplinter.work/research/passkey/)
