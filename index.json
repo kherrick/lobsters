@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-21, 22:53:17",
+      "https://lobste.rs/s/h0yytn/c_rust_interoperability_problem"
+    ],
+    [
+      "C++/Rust Interoperability Problem Statement",
+      "https://github.com/rustfoundation/interop-initiative"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 20:06:52",
       "https://lobste.rs/s/htsyvf/i_want_good_parallel_computer"
     ],
@@ -67,16 +77,6 @@
     [
       "Trapping misbehaving bots in an AI Labyrinth",
       "https://blog.cloudflare.com/ai-labyrinth/"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 14:40:28",
-      "https://lobste.rs/s/qtbsnz/torch_lens_maker_library_for"
-    ],
-    [
-      "Torch Lens Maker - library for differentiable geometric optics based on PyTorch",
-      "https://victorpoughon.github.io/torchlensmaker/"
     ]
   ],
   [
