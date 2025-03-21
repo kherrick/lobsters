@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 16:26:34](https://lobste.rs/s/patoqt/what_comes_after_github_actions) - [What Comes After GitHub Actions?](https://garnix.io/blog/what-comes-after-gha)
 * [2025-03-21, 15:12:54](https://lobste.rs/s/ybyno6/trapping_misbehaving_bots_ai_labyrinth) - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
 * [2025-03-21, 14:40:28](https://lobste.rs/s/qtbsnz/torch_lens_maker_library_for) - [Torch Lens Maker - library for differentiable geometric optics based on PyTorch](https://victorpoughon.github.io/torchlensmaker/)
 * [2025-03-21, 13:42:25](https://lobste.rs/s/qpa6h5/engineering_flexible_permissions_for) - [Engineering flexible permissions for Zulip open-source team chat](https://blog.zulip.com/2025/03/20/engineering-flexible-permissions/)
