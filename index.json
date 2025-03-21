@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-21, 04:22:38",
+      "https://lobste.rs/s/qnndyo/peanoscript_typescript_it_s_theorem"
+    ],
+    [
+      "PeanoScript: TypeScript but it's a theorem prover",
+      "https://peanoscript.mjgrzymek.com/tutorial"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 03:04:37",
       "https://lobste.rs/s/ahk6h5/vibe_coding_vs_reality"
     ],
@@ -157,16 +167,6 @@
     [
       "How NixOS and reproducible builds could have detected the xz backdoorfor the benefit of all",
       "https://luj.fr/blog/how-nixos-could-have-detected-xz.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 11:52:56",
-      "https://lobste.rs/s/hsmn5t/building_second_worst_zx_spectrum"
-    ],
-    [
-      "Building the Second-Worst ZX Spectrum Emulator in the World with Perl",
-      "https://fuzzix.org/building-the-secondworst-zx-spectrum-emulator-in-the-world-with-perl"
     ]
   ],
   [
