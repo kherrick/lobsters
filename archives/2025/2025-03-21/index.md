@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 20:06:52](https://lobste.rs/s/htsyvf/i_want_good_parallel_computer) - [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
 * [2025-03-21, 18:09:12](https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors) - [How to share mouse, keyboard, and monitors between windows, macos, and Linux?](https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors)
 * [2025-03-21, 17:24:41](https://lobste.rs/s/1ridxo/tmp_0ut_volume_4) - [tmp.0ut Volume 4](HTTP://Tmpout.sh/4)
 * [2025-03-21, 16:56:07](https://lobste.rs/s/xowxoq/retroboy_game_boy_emulator_written_rust) - [retroboy: A Game Boy emulator written in Rust that runs on the web](https://github.com/smparsons/retroboy)
