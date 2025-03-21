@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-03-21, 00:01:42",
+      "https://lobste.rs/s/sdi7d9/dear_apple_google_still_no_app_rollbacks"
+    ],
+    [
+      "Dear Apple and Google: still no app rollbacks?",
+      "https://www.tramline.app/blog/dear-apple-and-google-still-no-app-rollbacks"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 22:50:42",
+      "https://lobste.rs/s/xuc9ro/clarifying_what_s_happening_at_mozilla"
+    ],
+    [
+      "Clarifying what's happening at Mozilla: an Interview with Ryan Sipes from Thunderbird",
+      "https://www.youtube.com/watch?v=ctg5QzSt5tg"
+    ]
+  ],
+  [
+    [
+      "2025-03-20, 22:20:09",
+      "https://lobste.rs/s/ow0koa/cmake_4_0_release_notes"
+    ],
+    [
+      "CMake 4.0 Release Notes",
+      "https://cmake.org/cmake/help/latest/release/4.0.html"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 21:37:10",
       "https://lobste.rs/s/sknzdg/anubis_self_hostable_scraper_defense"
     ],
@@ -61,16 +91,6 @@
   ],
   [
     [
-      "2025-03-20, 16:58:41",
-      "https://lobste.rs/s/tyftpr/ruby_ractors_lock_free_data_structures"
-    ],
-    [
-      "Ruby, Ractors, and Lock-Free Data Structures",
-      "https://iliabylich.github.io/ruby-ractors-and-lock-free-data-structures/"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 16:55:57",
       "https://lobste.rs/s/yknllw/leaking_passwords_more_on_macos"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-03-20, 14:29:45",
-      "https://lobste.rs/s/qykkq8/introducing_grease_open_source_tool_for"
-    ],
-    [
-      "Introducing GREASE: An Open-Source Tool for Uncovering Hidden Vulnerabilities in Binary Code",
-      "https://www.galois.com/articles/introducing-grease"
-    ]
-  ],
-  [
-    [
       "2025-03-20, 14:02:16",
       "https://lobste.rs/s/84qcvn/how_nixos_reproducible_builds_could_have"
     ],
@@ -147,16 +157,6 @@
     [
       "Building the Second-Worst ZX Spectrum Emulator in the World with Perl",
       "https://fuzzix.org/building-the-secondworst-zx-spectrum-emulator-in-the-world-with-perl"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 11:15:39",
-      "https://lobste.rs/s/2rojlh/another_round_rust_compiler"
-    ],
-    [
-      "Another round of Rust compiler improvements merged for GCC 15.1",
-      "https://www.phoronix.com/news/More-Rust-Merged-GCC-15.1"
     ]
   ],
   [
