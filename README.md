@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-21, 11:18:33](https://lobste.rs/s/exoxg9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/exoxg9/what_are_you_doing_this_weekend)
 * [2025-03-21, 05:52:42](https://lobste.rs/s/6vbtjd/chimera_linux_not_dropping_risc_v_support) - [Chimera Linux NOT dropping RISC-V support after all](https://chimera-linux.org/news/2025/03/new-riscv-server.html)
 * [2025-03-21, 05:37:04](https://lobste.rs/s/iopiee/hyper_mcp_mcp_server_rust_with_plugin) - [Hyper-MCP - MCP server in Rust with plugin system powered by WebAssembly and OCI registry](https://github.com/tuananh/hyper-mcp)
 * [2025-03-21, 04:22:38](https://lobste.rs/s/qnndyo/peanoscript_typescript_it_s_theorem) - [PeanoScript: TypeScript but it's a theorem prover](https://peanoscript.mjgrzymek.com/tutorial)
@@ -15,7 +16,6 @@
 * [2025-03-20, 19:08:44](https://lobste.rs/s/csdwrg/deliberate_practice_for_developers) - [Deliberate Practice for Developers](https://alexalejandre.com/programming/deliberate-practice-for-developers/)
 * [2025-03-20, 18:27:33](https://lobste.rs/s/imht55/tiling_window_managers_on_macos) - [Tiling Window Managers on macOS](https://lilysthings.org/blog/tiling-macos/)
 * [2025-03-20, 17:25:21](https://lobste.rs/s/48hqpz/faster_interpreters_go_catching_up_with_c) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
-* [2025-03-20, 16:55:57](https://lobste.rs/s/yknllw/leaking_passwords_more_on_macos) - [Leaking passwords (and more!) on macOS](https://wts.dev/posts/password-leak/)
 * [2025-03-20, 16:38:30](https://lobste.rs/s/iguimj/dead_simple_snapshot_testing_zig) - [Dead Simple Snapshot Testing In Zig](https://kristoff.it/blog/dead-simple-snapshot-testing/)
 * [2025-03-20, 15:31:29](https://lobste.rs/s/xhxvr9/life_altering_postgresql_patterns) - [Life Altering Postgresql Patterns](https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns)
 * [2025-03-20, 14:53:32](https://lobste.rs/s/f6ciaz/national_security_case_for_email_plus) - [The National Security Case for Email Plus Addressing](https://sagi.io//the-national-security-case-for-email-plus-addressing/)
