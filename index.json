@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-21, 14:40:28",
+      "https://lobste.rs/s/qtbsnz/torch_lens_maker_library_for"
+    ],
+    [
+      "Torch Lens Maker - library for differentiable geometric optics based on PyTorch",
+      "https://victorpoughon.github.io/torchlensmaker/"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 13:42:25",
       "https://lobste.rs/s/qpa6h5/engineering_flexible_permissions_for"
     ],
@@ -137,16 +147,6 @@
     [
       "Dear Apple and Google: still no app rollbacks?",
       "https://www.tramline.app/blog/dear-apple-and-google-still-no-app-rollbacks"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 22:20:09",
-      "https://lobste.rs/s/ow0koa/cmake_4_0_release_notes"
-    ],
-    [
-      "CMake 4.0 Release Notes",
-      "https://cmake.org/cmake/help/latest/release/4.0.html"
     ]
   ],
   [
