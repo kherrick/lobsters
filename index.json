@@ -161,6 +161,16 @@
   ],
   [
     [
+      "2025-03-20, 14:58:12",
+      "https://lobste.rs/s/bzjmio/c_implementation_defer_using_goto"
+    ],
+    [
+      "A C implementation of defer using `goto`",
+      "https://gist.github.com/viega/f063010765a47ca9aa000a75ec55f8e2"
+    ]
+  ],
+  [
+    [
       "2025-03-20, 14:53:32",
       "https://lobste.rs/s/f6ciaz/national_security_case_for_email_plus"
     ],
@@ -177,16 +187,6 @@
     [
       "How NixOS and reproducible builds could have detected the xz backdoorfor the benefit of all",
       "https://luj.fr/blog/how-nixos-could-have-detected-xz.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 10:18:45",
-      "https://lobste.rs/s/wrsr3j/healthyig_instagram_without_all_toxic"
-    ],
-    [
-      "HealthyIG: Instagram without all the toxic features like reels, home page, explore page",
-      "https://github.com/AlessandroBonomo28/HealthyIG"
     ]
   ],
   [
