@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 12:13:48](https://lobste.rs/s/42vwo7/apache_tomcat_cve_2025_24813_what_you_need) - [Apache Tomcat CVE-2025-24813: What You Need to Know](http://www.rapid7.com/blog/post/2025/03/19/etr-apache-tomcat-cve-2025-24813-what-you-need-to-know/)
+* [2025-03-21, 11:57:57](https://lobste.rs/s/yl2jwa/mistakes_missed_opportunities_design) - [The mistakes and missed opportunities in the design of IPv6 (episode 1)](https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/)
 * [2025-03-21, 11:41:16](https://lobste.rs/s/1091vg/right_way_do_data_fixtures_go) - [The right way to do data fixtures in Go](https://brandur.org/fragments/go-data-fixtures)
 * [2025-03-21, 11:18:33](https://lobste.rs/s/exoxg9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/exoxg9/what_are_you_doing_this_weekend)
 * [2025-03-21, 09:05:39](https://lobste.rs/s/cuecmu/mocktail_http_grpc_server_mocking_for) - [mocktail: HTTP & gRPC server mocking for Rust](https://danclark.io/blog/announcing-mocktail/)

@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-21, 12:13:48](https://lobste.rs/s/42vwo7/apache_tomcat_cve_2025_24813_what_you_need) - [Apache Tomcat CVE-2025-24813: What You Need to Know](http://www.rapid7.com/blog/post/2025/03/19/etr-apache-tomcat-cve-2025-24813-what-you-need-to-know/)
+* [2025-03-21, 11:57:57](https://lobste.rs/s/yl2jwa/mistakes_missed_opportunities_design) - [The mistakes and missed opportunities in the design of IPv6 (episode 1)](https://ipv6.hanazo.no/posts/ipv6-missed-opportunities-1/)
 * [2025-03-21, 11:41:16](https://lobste.rs/s/1091vg/right_way_do_data_fixtures_go) - [The right way to do data fixtures in Go](https://brandur.org/fragments/go-data-fixtures)
 * [2025-03-21, 11:18:33](https://lobste.rs/s/exoxg9/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/exoxg9/what_are_you_doing_this_weekend)
 * [2025-03-21, 08:37:46](https://lobste.rs/s/bnikjo/indieweb_doesn_t_need_take_off) - [The IndieWeb Doesn't Need to \"Take Off\"](https://susam.net/indieweb-does-not-need-to-take-off.html)
@@ -13,7 +15,6 @@
 * [2025-03-20, 22:20:09](https://lobste.rs/s/ow0koa/cmake_4_0_release_notes) - [CMake 4.0 Release Notes](https://cmake.org/cmake/help/latest/release/4.0.html)
 * [2025-03-20, 21:37:10](https://lobste.rs/s/sknzdg/anubis_self_hostable_scraper_defense) - [Anubis: self hostable scraper defense software](https://anubis.techaro.lol/)
 * [2025-03-20, 20:20:52](https://lobste.rs/s/zojlfy/turning_my_esp32_into_dns_sinkhole_fight) - [Turning my ESP32 into a DNS sinkhole to fight doomscrolling](https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole)
-* [2025-03-20, 19:29:57](https://lobste.rs/s/znta7f/oscura_vim_vim_port_for_oscura_theme_for) - [oscura-vim: Vim port for Oscura theme for Vscode](https://github.com/vinitkumar/oscura-vim)
 * [2025-03-20, 19:08:44](https://lobste.rs/s/csdwrg/deliberate_practice_for_developers) - [Deliberate Practice for Developers](https://alexalejandre.com/programming/deliberate-practice-for-developers/)
 * [2025-03-20, 18:27:33](https://lobste.rs/s/imht55/tiling_window_managers_on_macos) - [Tiling Window Managers on macOS](https://lilysthings.org/blog/tiling-macos/)
 * [2025-03-20, 17:25:21](https://lobste.rs/s/48hqpz/faster_interpreters_go_catching_up_with_c) - [Faster interpreters in Go: Catching up with C++](https://planetscale.com/blog/faster-interpreters-in-go-catching-up-with-cpp)
@@ -23,7 +24,6 @@
 * [2025-03-20, 14:02:16](https://lobste.rs/s/84qcvn/how_nixos_reproducible_builds_could_have) - [How NixOS and reproducible builds could have detected the xz backdoorfor the benefit of all](https://luj.fr/blog/how-nixos-could-have-detected-xz.html)
 * [2025-03-20, 10:13:40](https://lobste.rs/s/z4halj/half_constructed_objects_are) - [Half Constructed Objects Are Unnecessary](https://jerf.org/iri/post/2025/fp_lessons_half_constructed_objects/)
 * [2025-03-20, 08:34:24](https://lobste.rs/s/z9dtvj/non_obvious_haskell_idiom_guard_sequence) - [Non-Obvious Haskell Idiom: Guard-Sequence](https://entropicthoughts.com/non-obvious-haskell-idiom-guard-sequence)
-* [2025-03-19, 15:59:12](https://lobste.rs/s/mg1khc/does_unsafe_undermine_rust_s_guarantees) - [Does unsafe undermine Rust's guarantees?](https://steveklabnik.com/writing/does-unsafe-undermine-rusts-guarantees/)
 * [2025-03-19, 14:10:40](https://lobste.rs/s/1hexlm/no_longer_my_favorite_git_commit) - [No Longer My Favorite Git Commit](https://mtlynch.io/no-longer-my-favorite-git-commit/)
 
 ## [Archives](archives/index.md)
