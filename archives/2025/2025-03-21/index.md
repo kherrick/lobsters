@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 13:20:43](https://lobste.rs/s/bcbzvb/plan_9_desktop_guide_2019) - [Plan 9 Desktop Guide (2019)](https://pspodcasting.net/dan/blog/2019/plan9_desktop.html)
 * [2025-03-21, 12:51:05](https://lobste.rs/s/xzfc84/recommendations_for_os_install_on_old_mac) - [Recommendations for an OS to install on an old Mac laptop?](https://lobste.rs/s/xzfc84/recommendations_for_os_install_on_old_mac)
 * [2025-03-21, 12:42:44](https://lobste.rs/s/tjhvij/understanding_various_syntaxes) - [Understanding various syntaxes to annotate a function's type in TypeScript](https://bhoot.dev/2025/typescript-function-type-syntaxes/)
 * [2025-03-21, 12:13:48](https://lobste.rs/s/42vwo7/apache_tomcat_cve_2025_24813_what_you_need) - [Apache Tomcat CVE-2025-24813: What You Need to Know](http://www.rapid7.com/blog/post/2025/03/19/etr-apache-tomcat-cve-2025-24813-what-you-need-to-know/)
