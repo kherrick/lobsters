@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-21](index.md)
 
+* [2025-03-21, 16:56:07](https://lobste.rs/s/xowxoq/retroboy_game_boy_emulator_written_rust) - [retroboy: A Game Boy emulator written in Rust that runs on the web](https://github.com/smparsons/retroboy)
+* [2025-03-21, 16:53:50](https://lobste.rs/s/fvvcmv/pow_bot_deterrent_proof_work_based_bot) - [pow-bot-deterrent: A proof-of-work based bot deterrent](https://github.com/sequentialread/pow-bot-deterrent)
 * [2025-03-21, 16:26:34](https://lobste.rs/s/patoqt/what_comes_after_github_actions) - [What Comes After GitHub Actions?](https://garnix.io/blog/what-comes-after-gha)
 * [2025-03-21, 15:12:54](https://lobste.rs/s/ybyno6/trapping_misbehaving_bots_ai_labyrinth) - [Trapping misbehaving bots in an AI Labyrinth](https://blog.cloudflare.com/ai-labyrinth/)
 * [2025-03-21, 14:40:28](https://lobste.rs/s/qtbsnz/torch_lens_maker_library_for) - [Torch Lens Maker - library for differentiable geometric optics based on PyTorch](https://victorpoughon.github.io/torchlensmaker/)
