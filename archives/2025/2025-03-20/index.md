@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-20](index.md)
 
+* [2025-03-20, 22:50:42](https://lobste.rs/s/xuc9ro/clarifying_what_s_happening_at_mozilla) - [Clarifying what's happening at Mozilla: an Interview with Ryan Sipes from Thunderbird](https://www.youtube.com/watch?v=ctg5QzSt5tg)
+* [2025-03-20, 22:20:09](https://lobste.rs/s/ow0koa/cmake_4_0_release_notes) - [CMake 4.0 Release Notes](https://cmake.org/cmake/help/latest/release/4.0.html)
 * [2025-03-20, 21:37:10](https://lobste.rs/s/sknzdg/anubis_self_hostable_scraper_defense) - [Anubis: self hostable scraper defense software](https://anubis.techaro.lol/)
 * [2025-03-20, 20:20:52](https://lobste.rs/s/zojlfy/turning_my_esp32_into_dns_sinkhole_fight) - [Turning my ESP32 into a DNS sinkhole to fight doomscrolling](https://amanvir.com/blog/turning-my-esp32-into-a-dns-sinkhole)
 * [2025-03-20, 19:29:57](https://lobste.rs/s/znta7f/oscura_vim_vim_port_for_oscura_theme_for) - [oscura-vim: Vim port for Oscura theme for Vscode](https://github.com/vinitkumar/oscura-vim)
