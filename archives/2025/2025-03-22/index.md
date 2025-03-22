@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-22](index.md)
 
+* [2025-03-22, 15:50:31](https://lobste.rs/s/dpvuon/block_based_ui_libraries_for_data_flow) - [Block-based UI Libraries for Data Flow?](https://lobste.rs/s/dpvuon/block_based_ui_libraries_for_data_flow)
 * [2025-03-22, 15:41:53](https://lobste.rs/s/f03atu/chunking_attacks_on_file_backup_services) - [Chunking Attacks on File Backup Services using Content-Deﬁned Chunking](https://www.daemonology.net/blog/chunking-attacks.pdf)
 * [2025-03-22, 13:55:43](https://lobste.rs/s/hvmp7k/authorization_bypass_next_js_middleware) - [Authorization Bypass in Next.js Middleware](https://github.com/advisories/GHSA-f82v-jwr5-mffw)
 * [2025-03-22, 13:23:55](https://lobste.rs/s/r1hu2x/crabtime_zig_s_comptime_rust) - [Crabtime: Zig's Comptime in Rust](https://docs.rs/crabtime/latest/crabtime/)
