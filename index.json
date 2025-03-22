@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-22, 07:22:41",
+      "https://lobste.rs/s/zmgtvx/when_you_deleted_lib_on_linux_while_still"
+    ],
+    [
+      "When you deleted /lib on Linux while still connected via ssh",
+      "https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 06:46:57",
       "https://lobste.rs/s/uyortk/hardware_aware_coding_cpu_architecture"
     ],
@@ -87,16 +97,6 @@
     [
       "tmp.0ut Volume 4",
       "HTTP://Tmpout.sh/4"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 16:53:50",
-      "https://lobste.rs/s/fvvcmv/pow_bot_deterrent_proof_work_based_bot"
-    ],
-    [
-      "pow-bot-deterrent: A proof-of-work based bot deterrent",
-      "https://github.com/sequentialread/pow-bot-deterrent"
     ]
   ],
   [
