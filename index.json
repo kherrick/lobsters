@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-22, 13:55:43",
+      "https://lobste.rs/s/hvmp7k/authorization_bypass_next_js_middleware"
+    ],
+    [
+      "Authorization Bypass in Next.js Middleware",
+      "https://github.com/advisories/GHSA-f82v-jwr5-mffw"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 13:23:55",
       "https://lobste.rs/s/r1hu2x/crabtime_zig_s_comptime_rust"
     ],
@@ -237,16 +247,6 @@
     [
       "Anubis: self hostable scraper defense software",
       "https://anubis.techaro.lol/"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 18:27:33",
-      "https://lobste.rs/s/imht55/tiling_window_managers_on_macos"
-    ],
-    [
-      "Tiling Window Managers on macOS",
-      "https://lilysthings.org/blog/tiling-macos/"
     ]
   ]
 ]
