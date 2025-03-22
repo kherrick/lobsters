@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-22, 15:41:53",
+      "https://lobste.rs/s/f03atu/chunking_attacks_on_file_backup_services"
+    ],
+    [
+      "Chunking Attacks on File Backup Services using Content-Deﬁned Chunking",
+      "https://www.daemonology.net/blog/chunking-attacks.pdf"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 13:55:43",
       "https://lobste.rs/s/hvmp7k/authorization_bypass_next_js_middleware"
     ],
@@ -137,16 +147,6 @@
     [
       "I want a good parallel computer",
       "https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 18:09:12",
-      "https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors"
-    ],
-    [
-      "How to share mouse, keyboard, and monitors between windows, macos, and Linux?",
-      "https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors"
     ]
   ],
   [
