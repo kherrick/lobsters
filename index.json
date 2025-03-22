@@ -181,16 +181,6 @@
   ],
   [
     [
-      "2025-03-21, 05:37:04",
-      "https://lobste.rs/s/iopiee/hyper_mcp_mcp_server_rust_with_plugin"
-    ],
-    [
-      "Hyper-MCP - MCP server in Rust with plugin system powered by WebAssembly and OCI registry",
-      "https://github.com/tuananh/hyper-mcp"
-    ]
-  ],
-  [
-    [
       "2025-03-21, 03:04:37",
       "https://lobste.rs/s/ahk6h5/vibe_coding_vs_reality"
     ],
@@ -207,6 +197,16 @@
     [
       "Asahi Linux progress report: Linux kernel 6.14",
       "https://asahilinux.org/2025/03/progress-report-6-14/"
+    ]
+  ],
+  [
+    [
+      "2025-03-21, 00:01:42",
+      "https://lobste.rs/s/sdi7d9/dear_apple_google_still_no_app_rollbacks"
+    ],
+    [
+      "Dear Apple and Google: still no app rollbacks?",
+      "https://www.tramline.app/blog/dear-apple-and-google-still-no-app-rollbacks"
     ]
   ],
   [
