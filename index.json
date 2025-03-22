@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-21, 23:03:10",
+      "https://lobste.rs/s/swedbj/shaarli_personal_minimalist_super_fast"
+    ],
+    [
+      "Shaarli: personal, minimalist, super-fast, database free, bookmarking service",
+      "https://github.com/shaarli/Shaarli"
+    ]
+  ],
+  [
+    [
       "2025-03-21, 22:53:17",
       "https://lobste.rs/s/h0yytn/c_rust_interoperability_problem"
     ],
@@ -37,16 +47,6 @@
     [
       "tmp.0ut Volume 4",
       "HTTP://Tmpout.sh/4"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 16:56:07",
-      "https://lobste.rs/s/xowxoq/retroboy_game_boy_emulator_written_rust"
-    ],
-    [
-      "retroboy: A Game Boy emulator written in Rust that runs on the web",
-      "https://github.com/smparsons/retroboy"
     ]
   ],
   [
