@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-22, 15:41:53](https://lobste.rs/s/f03atu/chunking_attacks_on_file_backup_services) - [Chunking Attacks on File Backup Services using Content-Deﬁned Chunking](https://www.daemonology.net/blog/chunking-attacks.pdf)
 * [2025-03-22, 13:55:43](https://lobste.rs/s/hvmp7k/authorization_bypass_next_js_middleware) - [Authorization Bypass in Next.js Middleware](https://github.com/advisories/GHSA-f82v-jwr5-mffw)
 * [2025-03-22, 13:23:55](https://lobste.rs/s/r1hu2x/crabtime_zig_s_comptime_rust) - [Crabtime: Zig's Comptime in Rust](https://docs.rs/crabtime/latest/crabtime/)
 * [2025-03-22, 12:46:46](https://lobste.rs/s/qmmfje/don_t_be_afraid_types) - [Don't Be Afraid Of Types](https://lmika.org/2025/03/18/dont-be-afraid-of-types.html)
@@ -14,7 +15,6 @@
 * [2025-03-21, 23:03:10](https://lobste.rs/s/swedbj/shaarli_personal_minimalist_super_fast) - [Shaarli: personal, minimalist, super-fast, database free, bookmarking service](https://github.com/shaarli/Shaarli)
 * [2025-03-21, 22:53:17](https://lobste.rs/s/h0yytn/c_rust_interoperability_problem) - [C++/Rust Interoperability Problem Statement](https://github.com/rustfoundation/interop-initiative)
 * [2025-03-21, 20:06:52](https://lobste.rs/s/htsyvf/i_want_good_parallel_computer) - [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
-* [2025-03-21, 18:09:12](https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors) - [How to share mouse, keyboard, and monitors between windows, macos, and Linux?](https://lobste.rs/s/hrounk/how_share_mouse_keyboard_monitors)
 * [2025-03-21, 17:24:41](https://lobste.rs/s/1ridxo/tmp_0ut_volume_4) - [tmp.0ut Volume 4](HTTP://Tmpout.sh/4)
 * [2025-03-21, 16:53:50](https://lobste.rs/s/fvvcmv/pow_bot_deterrent_proof_work_based_bot) - [pow-bot-deterrent: A proof-of-work based bot deterrent](https://github.com/sequentialread/pow-bot-deterrent)
 * [2025-03-21, 16:26:34](https://lobste.rs/s/patoqt/what_comes_after_github_actions) - [What Comes After GitHub Actions?](https://garnix.io/blog/what-comes-after-gha)
