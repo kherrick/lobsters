@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-22, 12:46:46",
+      "https://lobste.rs/s/qmmfje/don_t_be_afraid_types"
+    ],
+    [
+      "Don't Be Afraid Of Types",
+      "https://lmika.org/2025/03/18/dont-be-afraid-of-types.html"
+    ]
+  ],
+  [
+    [
       "2025-03-22, 09:30:07",
       "https://lobste.rs/s/ad3dgx/haiku_loves_nvidia_porting_nvidia_gpu"
     ],
@@ -237,16 +247,6 @@
     [
       "Tiling Window Managers on macOS",
       "https://lilysthings.org/blog/tiling-macos/"
-    ]
-  ],
-  [
-    [
-      "2025-03-20, 15:31:29",
-      "https://lobste.rs/s/xhxvr9/life_altering_postgresql_patterns"
-    ],
-    [
-      "Life Altering Postgresql Patterns",
-      "https://mccue.dev/pages/3-11-25-life-altering-postgresql-patterns"
     ]
   ]
 ]
