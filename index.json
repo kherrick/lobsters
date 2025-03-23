@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 14:23:45",
+      "https://lobste.rs/s/m7uwhw/deep_vs_shallow_go_interfaces"
+    ],
+    [
+      "Deep vs Shallow Go interfaces",
+      "https://tpaschalis.me/shallow-vs-deep-interfaces/"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 13:11:51",
       "https://lobste.rs/s/kxv2um/technicalities_homeworld_2_backgrounds"
     ],
@@ -167,16 +177,6 @@
     [
       "C3: Reading and writing files",
       "https://ebn.codeberg.page/programming/c3/c3-file-io/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 13:55:43",
-      "https://lobste.rs/s/hvmp7k/authorization_bypass_next_js_middleware"
-    ],
-    [
-      "Authorization Bypass in Next.js Middleware",
-      "https://github.com/advisories/GHSA-f82v-jwr5-mffw"
     ]
   ],
   [
