@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-23, 13:11:51](https://lobste.rs/s/kxv2um/technicalities_homeworld_2_backgrounds) - [Technicalities of Homeworld 2 backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 * [2025-03-23, 12:05:45](https://lobste.rs/s/gww2jq/mikrotik_ubiquiti) - [Mikrotik to Ubiquiti](https://blog.poggs.com/2025/03/23/mikrotik-to-ubiquiti/)
 * [2025-03-23, 09:20:43](https://lobste.rs/s/lv1foz/ai_is_useless_it_is_our_best_bet_for_future) - [AI is useless, but it is our best bet for the future](https://antirez.com/news/148)
 * [2025-03-23, 09:01:36](https://lobste.rs/s/h1fyct/decision_maker_s_guide_typed_functional) - [A decision maker's guide to Typed Functional Languages by Evan Czaplicki](https://youtu.be/sl1UQXgtepE)
@@ -23,7 +24,6 @@
 * [2025-03-22, 08:01:43](https://lobste.rs/s/tdjkhi/microsoft_proposes_hornet_security) - [Microsoft Proposes \"Hornet\" Security Module For The Linux Kernel](https://www.phoronix.com/news/Microsoft-Hornet-Linux-LSM)
 * [2025-03-22, 07:22:41](https://lobste.rs/s/zmgtvx/when_you_deleted_lib_on_linux_while_still) - [When you deleted /lib on Linux while still connected via ssh](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-22, 01:34:13](https://lobste.rs/s/ykvjrj/how_glitch_online_survey_replaced_word) - [How a glitch in an online survey replaced the word ‘yes’ with ‘forks’](https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/)
-* [2025-03-22, 01:25:09](https://lobste.rs/s/9c875g/chunking_attacks_on_tarsnap_others) - [Chunking attacks on Tarsnap (and others)](https://www.daemonology.net/blog/2025-03-21-Chunking-attacks-on-Tarsnap.html)
 * [2025-03-21, 20:06:52](https://lobste.rs/s/htsyvf/i_want_good_parallel_computer) - [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
 
 ## [Archives](archives/index.md)
