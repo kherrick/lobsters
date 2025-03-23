@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 14:36:06",
+      "https://lobste.rs/s/rtnt5g/brief_introduction_esoteric"
+    ],
+    [
+      "A Brief Introduction to Esoteric Programming Languages [Video]",
+      "https://www.youtube.com/watch?v=cQ7bcCrJMHc"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 14:23:45",
       "https://lobste.rs/s/m7uwhw/deep_vs_shallow_go_interfaces"
     ],
@@ -97,16 +107,6 @@
     [
       "Powxy: anti-scraper reverse proxy",
       "https://git.sr.ht/~runxiyu/powxy"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 01:14:39",
-      "https://lobste.rs/s/rsfp1p/enabling_seamless_interop_between_rust"
-    ],
-    [
-      "Enabling seamless interop between Rust and other languages",
-      "https://hackmd.io/@rust-lang-team/rJvv36hq1e"
     ]
   ],
   [
