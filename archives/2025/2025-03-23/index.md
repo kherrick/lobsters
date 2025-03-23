@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
+* [2025-03-23, 12:05:45](https://lobste.rs/s/gww2jq/mikrotik_ubiquiti) - [Mikrotik to Ubiquiti](https://blog.poggs.com/2025/03/23/mikrotik-to-ubiquiti/)
 * [2025-03-23, 09:20:43](https://lobste.rs/s/lv1foz/ai_is_useless_it_is_our_best_bet_for_future) - [AI is useless, but it is our best bet for the future](https://antirez.com/news/148)
 * [2025-03-23, 09:01:36](https://lobste.rs/s/h1fyct/decision_maker_s_guide_typed_functional) - [A decision maker's guide to Typed Functional Languages by Evan Czaplicki](https://youtu.be/sl1UQXgtepE)
 * [2025-03-23, 06:46:24](https://lobste.rs/s/hungq9/how_find_next_js_on_your_network) - [How to find Next.js on your network](https://www.runzero.com/blog/next-js/)
