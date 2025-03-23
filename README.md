@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-23, 23:49:18](https://lobste.rs/s/uhf7pm/notes_on_coreutils_rust) - [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
 * [2025-03-23, 23:28:51](https://lobste.rs/s/tk3f15/revenge_junior_developer_sourcegraph) - [Revenge of the junior developer | Sourcegraph Blog](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
 * [2025-03-23, 23:09:51](https://lobste.rs/s/nxcxcs/you_are_naming_your_tests_wrong) - [You are naming your tests wrong](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
-* [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
+* [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python (2020)](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
 * [2025-03-23, 21:54:14](https://lobste.rs/s/p5sgkk/bridging_efficiency_gap_between_fromstr) - [Bridging the Efficiency Gap Between FromStr and String](https://lucumr.pocoo.org/2025/3/23/from-string/)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
 * [2025-03-23, 21:16:26](https://lobste.rs/s/aaw1nc/back_basics_lifetime_management_cpp) - [Back to Basics: Lifetime Management in Cpp](https://www.youtube.com/watch?v=aMvIv6blzBs)
@@ -11,7 +12,6 @@
 * [2025-03-23, 17:33:22](https://lobste.rs/s/iayvkj/why_choose_use_bsds_2025) - [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
 * [2025-03-23, 16:40:08](https://lobste.rs/s/c9nucq/attention_is_logarithmic_actually) - [attention is logarithmic, actually](https://supaiku.com/attention-is-logarithmic)
 * [2025-03-23, 15:57:21](https://lobste.rs/s/nbbjna/usb_interface_mother_all_demos_keyset) - [A USB interface to the \"Mother of All Demos\" keyset](http://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
-* [2025-03-23, 14:36:06](https://lobste.rs/s/rtnt5g/brief_introduction_esoteric) - [A Brief Introduction to Esoteric Programming Languages [Video]](https://www.youtube.com/watch?v=cQ7bcCrJMHc)
 * [2025-03-23, 14:23:45](https://lobste.rs/s/m7uwhw/deep_vs_shallow_go_interfaces) - [Deep vs Shallow Go interfaces](https://tpaschalis.me/shallow-vs-deep-interfaces/)
 * [2025-03-23, 13:11:51](https://lobste.rs/s/kxv2um/technicalities_homeworld_2_backgrounds) - [Technicalities of Homeworld 2 backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 * [2025-03-23, 12:05:45](https://lobste.rs/s/gww2jq/mikrotik_ubiquiti) - [Mikrotik to Ubiquiti](https://blog.poggs.com/2025/03/23/mikrotik-to-ubiquiti/)
