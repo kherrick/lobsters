@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 09:01:36",
+      "https://lobste.rs/s/h1fyct/decision_maker_s_guide_typed_functional"
+    ],
+    [
+      "A decision maker's guide to Typed Functional Languages by Evan Czaplicki",
+      "https://youtu.be/sl1UQXgtepE"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 06:46:24",
       "https://lobste.rs/s/hungq9/how_find_next_js_on_your_network"
     ],
@@ -237,16 +247,6 @@
     [
       "I want a good parallel computer",
       "https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 16:26:34",
-      "https://lobste.rs/s/patoqt/what_comes_after_github_actions"
-    ],
-    [
-      "What Comes After GitHub Actions?",
-      "https://garnix.io/blog/what-comes-after-gha"
     ]
   ]
 ]
