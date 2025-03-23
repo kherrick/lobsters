@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 21:33:34",
+      "https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc"
+    ],
+    [
+      "Playing with HP PA-RISC",
+      "https://thejpster.org.uk/blog/blog-2025-03-22/"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 21:16:26",
       "https://lobste.rs/s/aaw1nc/back_basics_lifetime_management_cpp"
     ],
@@ -157,16 +167,6 @@
     [
       "Powxy: anti-scraper reverse proxy",
       "https://git.sr.ht/~runxiyu/powxy"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 01:14:39",
-      "https://lobste.rs/s/rsfp1p/enabling_seamless_interop_between_rust"
-    ],
-    [
-      "Enabling seamless interop between Rust and other languages",
-      "https://hackmd.io/@rust-lang-team/rJvv36hq1e"
     ]
   ],
   [
