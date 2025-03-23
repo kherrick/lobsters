@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-23, 09:20:43](https://lobste.rs/s/lv1foz/ai_is_useless_it_is_our_best_bet_for_future) - [AI is useless, but it is our best bet for the future](https://antirez.com/news/148)
 * [2025-03-23, 09:01:36](https://lobste.rs/s/h1fyct/decision_maker_s_guide_typed_functional) - [A decision maker's guide to Typed Functional Languages by Evan Czaplicki](https://youtu.be/sl1UQXgtepE)
 * [2025-03-23, 06:46:24](https://lobste.rs/s/hungq9/how_find_next_js_on_your_network) - [How to find Next.js on your network](https://www.runzero.com/blog/next-js/)
 * [2025-03-23, 05:28:04](https://lobste.rs/s/ib6oyf/why_did_you_need_change_8_files_add_one) - [Why did you need to change 8 files to add one checkbox?](https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html)
@@ -14,7 +15,6 @@
 * [2025-03-22, 20:52:23](https://lobste.rs/s/fptkgx/kurlnavbar_me) - [KURLNavBar and me](https://akselmo.dev/posts/visual-woes/)
 * [2025-03-22, 20:40:41](https://lobste.rs/s/t5dx8z/quitting_intel_x86_hypervisor) - [Quitting an Intel x86 hypervisor](https://halobates.de/blog/p/446)
 * [2025-03-22, 16:48:11](https://lobste.rs/s/awzx8f/c3_reading_writing_files) - [C3: Reading and writing files](https://ebn.codeberg.page/programming/c3/c3-file-io/)
-* [2025-03-22, 15:50:31](https://lobste.rs/s/dpvuon/block_based_ui_libraries_for_data_flow) - [Block-based UI Libraries for Data Flow?](https://lobste.rs/s/dpvuon/block_based_ui_libraries_for_data_flow)
 * [2025-03-22, 13:55:43](https://lobste.rs/s/hvmp7k/authorization_bypass_next_js_middleware) - [Authorization Bypass in Next.js Middleware](https://github.com/advisories/GHSA-f82v-jwr5-mffw)
 * [2025-03-22, 13:23:55](https://lobste.rs/s/r1hu2x/crabtime_zig_s_comptime_rust) - [Crabtime: Zig's Comptime in Rust](https://docs.rs/crabtime/latest/crabtime/)
 * [2025-03-22, 12:46:46](https://lobste.rs/s/qmmfje/don_t_be_afraid_types) - [Don't Be Afraid Of Types](https://lmika.org/2025/03/18/dont-be-afraid-of-types.html)
