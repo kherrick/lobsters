@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-23, 23:09:51](https://lobste.rs/s/nxcxcs/you_are_naming_your_tests_wrong) - [You are naming your tests wrong](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
 * [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
 * [2025-03-23, 21:54:14](https://lobste.rs/s/p5sgkk/bridging_efficiency_gap_between_fromstr) - [Bridging the Efficiency Gap Between FromStr and String](https://lucumr.pocoo.org/2025/3/23/from-string/)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
@@ -21,7 +22,6 @@
 * [2025-03-23, 02:15:54](https://lobste.rs/s/bgxytg/powxy_anti_scraper_reverse_proxy) - [Powxy: anti-scraper reverse proxy](https://git.sr.ht/~runxiyu/powxy)
 * [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
 * [2025-03-22, 23:38:46](https://lobste.rs/s/tzwdfz/why_do_people_default_react_javascript) - [Why do people default to React and JavaScript for frontend and UIs?](https://lobste.rs/s/tzwdfz/why_do_people_default_react_javascript)
-* [2025-03-22, 22:09:31](https://lobste.rs/s/mickni/pussh_simple_ssh_based_deployment_tool) - [pussh: A simple SSH-based deployment tool written in Bash](https://github.com/bearstech/pussh)
 * [2025-03-22, 20:52:23](https://lobste.rs/s/fptkgx/kurlnavbar_me) - [KURLNavBar and me](https://akselmo.dev/posts/visual-woes/)
 * [2025-03-22, 13:23:55](https://lobste.rs/s/r1hu2x/crabtime_zig_s_comptime_rust) - [Crabtime: Zig's Comptime in Rust](https://docs.rs/crabtime/latest/crabtime/)
 * [2025-03-22, 12:46:46](https://lobste.rs/s/qmmfje/don_t_be_afraid_types) - [Don't Be Afraid Of Types](https://lmika.org/2025/03/18/dont-be-afraid-of-types.html)
