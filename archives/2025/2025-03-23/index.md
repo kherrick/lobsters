@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
+* [2025-03-23, 02:48:42](https://lobste.rs/s/kcnb6n/custom_vc_focused_emacs_functions) - [Custom VC-Focused Emacs Functions to Enhance My Git Workflow](https://www.rahuljuliato.com/posts/vc-git-functions)
 * [2025-03-23, 02:15:54](https://lobste.rs/s/bgxytg/powxy_anti_scraper_reverse_proxy) - [Powxy: anti-scraper reverse proxy](https://git.sr.ht/~runxiyu/powxy)
 * [2025-03-23, 01:14:39](https://lobste.rs/s/rsfp1p/enabling_seamless_interop_between_rust) - [Enabling seamless interop between Rust and other languages](https://hackmd.io/@rust-lang-team/rJvv36hq1e)
 * [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
