@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-23, 16:40:08](https://lobste.rs/s/c9nucq/attention_is_logarithmic_actually) - [attention is logarithmic, actually](https://supaiku.com/attention-is-logarithmic)
 * [2025-03-23, 15:57:21](https://lobste.rs/s/nbbjna/usb_interface_mother_all_demos_keyset) - [A USB interface to the \"Mother of All Demos\" keyset](http://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
 * [2025-03-23, 14:36:06](https://lobste.rs/s/rtnt5g/brief_introduction_esoteric) - [A Brief Introduction to Esoteric Programming Languages [Video]](https://www.youtube.com/watch?v=cQ7bcCrJMHc)
 * [2025-03-23, 14:23:45](https://lobste.rs/s/m7uwhw/deep_vs_shallow_go_interfaces) - [Deep vs Shallow Go interfaces](https://tpaschalis.me/shallow-vs-deep-interfaces/)
@@ -24,7 +25,6 @@
 * [2025-03-22, 09:30:07](https://lobste.rs/s/ad3dgx/haiku_loves_nvidia_porting_nvidia_gpu) - [Haiku loves Nvidia (porting Nvidia GPU driver)](https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-gpu-driver/16520)
 * [2025-03-22, 07:22:41](https://lobste.rs/s/zmgtvx/when_you_deleted_lib_on_linux_while_still) - [When you deleted /lib on Linux while still connected via ssh](https://tinyhack.com/2022/09/16/when-you-deleted-lib-on-linux-while-still-connected-via-ssh/)
 * [2025-03-22, 01:34:13](https://lobste.rs/s/ykvjrj/how_glitch_online_survey_replaced_word) - [How a glitch in an online survey replaced the word ‘yes’ with ‘forks’](https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/)
-* [2025-03-21, 20:06:52](https://lobste.rs/s/htsyvf/i_want_good_parallel_computer) - [I want a good parallel computer](https://raphlinus.github.io/gpu/2025/03/21/good-parallel-computer.html)
 
 ## [Archives](archives/index.md)
 
