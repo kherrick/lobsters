@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 05:28:04",
+      "https://lobste.rs/s/ib6oyf/why_did_you_need_change_8_files_add_one"
+    ],
+    [
+      "Why did you need to change 8 files to add one checkbox?",
+      "https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 03:28:44",
       "https://lobste.rs/s/is92qm/optimizing_by_170_000_by_not_being_silly"
     ],
@@ -217,16 +227,6 @@
     [
       "Chunking attacks on Tarsnap (and others)",
       "https://www.daemonology.net/blog/2025-03-21-Chunking-attacks-on-Tarsnap.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-21, 22:53:17",
-      "https://lobste.rs/s/h0yytn/c_rust_interoperability_problem"
-    ],
-    [
-      "C++/Rust Interoperability Problem Statement",
-      "https://github.com/rustfoundation/interop-initiative"
     ]
   ],
   [
