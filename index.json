@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 20:51:13",
+      "https://lobste.rs/s/qfo9ex/scraping_websites_with_racket"
+    ],
+    [
+      "Scraping Websites with Racket",
+      "https://blog.wilcoxd.com/2024/08/25/Scraping-Websites-with-Racket/"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 20:40:44",
       "https://lobste.rs/s/xjvqy0/clickhaskell_0_2_2_years_anniversary_pre"
     ],
@@ -121,16 +131,6 @@
   ],
   [
     [
-      "2025-03-23, 03:24:27",
-      "https://lobste.rs/s/g6jiui/what_influences_developers_trust"
-    ],
-    [
-      "What influences developers' trust in adopting AI-assisted coding tools?",
-      "https://rdel.substack.com/p/rdel-84-what-influences-developers"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 02:48:42",
       "https://lobste.rs/s/kcnb6n/custom_vc_focused_emacs_functions"
     ],
@@ -147,6 +147,16 @@
     [
       "Powxy: anti-scraper reverse proxy",
       "https://git.sr.ht/~runxiyu/powxy"
+    ]
+  ],
+  [
+    [
+      "2025-03-23, 01:14:39",
+      "https://lobste.rs/s/rsfp1p/enabling_seamless_interop_between_rust"
+    ],
+    [
+      "Enabling seamless interop between Rust and other languages",
+      "https://hackmd.io/@rust-lang-team/rJvv36hq1e"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "KURLNavBar and me",
       "https://akselmo.dev/posts/visual-woes/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 20:40:41",
-      "https://lobste.rs/s/t5dx8z/quitting_intel_x86_hypervisor"
-    ],
-    [
-      "Quitting an Intel x86 hypervisor",
-      "https://halobates.de/blog/p/446"
     ]
   ],
   [
