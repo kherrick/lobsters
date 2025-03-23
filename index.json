@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 23:28:51",
+      "https://lobste.rs/s/tk3f15/revenge_junior_developer_sourcegraph"
+    ],
+    [
+      "Revenge of the junior developer | Sourcegraph Blog",
+      "https://sourcegraph.com/blog/revenge-of-the-junior-developer"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 23:09:51",
       "https://lobste.rs/s/nxcxcs/you_are_naming_your_tests_wrong"
     ],
@@ -237,16 +247,6 @@
     [
       "Crabtime: Zig's Comptime in Rust",
       "https://docs.rs/crabtime/latest/crabtime/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 12:46:46",
-      "https://lobste.rs/s/qmmfje/don_t_be_afraid_types"
-    ],
-    [
-      "Don't Be Afraid Of Types",
-      "https://lmika.org/2025/03/18/dont-be-afraid-of-types.html"
     ]
   ]
 ]
