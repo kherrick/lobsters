@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
+* [2025-03-23, 14:36:06](https://lobste.rs/s/rtnt5g/brief_introduction_esoteric) - [A Brief Introduction to Esoteric Programming Languages [Video]](https://www.youtube.com/watch?v=cQ7bcCrJMHc)
 * [2025-03-23, 14:23:45](https://lobste.rs/s/m7uwhw/deep_vs_shallow_go_interfaces) - [Deep vs Shallow Go interfaces](https://tpaschalis.me/shallow-vs-deep-interfaces/)
 * [2025-03-23, 13:11:51](https://lobste.rs/s/kxv2um/technicalities_homeworld_2_backgrounds) - [Technicalities of Homeworld 2 backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 * [2025-03-23, 12:05:45](https://lobste.rs/s/gww2jq/mikrotik_ubiquiti) - [Mikrotik to Ubiquiti](https://blog.poggs.com/2025/03/23/mikrotik-to-ubiquiti/)
