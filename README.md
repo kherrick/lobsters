@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
 * [2025-03-23, 21:16:26](https://lobste.rs/s/aaw1nc/back_basics_lifetime_management_cpp) - [Back to Basics: Lifetime Management in Cpp](https://www.youtube.com/watch?v=aMvIv6blzBs)
 * [2025-03-23, 20:51:13](https://lobste.rs/s/qfo9ex/scraping_websites_with_racket) - [Scraping Websites with Racket](https://blog.wilcoxd.com/2024/08/25/Scraping-Websites-with-Racket/)
 * [2025-03-23, 20:40:44](https://lobste.rs/s/xjvqy0/clickhaskell_0_2_2_years_anniversary_pre) - [ClickHaskell-0.2: 2 Years Anniversary pre-stable releas](https://discourse.haskell.org/t/clickhaskell-0-2-2-years-anniversary-pre-stable-release/11692)
@@ -16,7 +17,6 @@
 * [2025-03-23, 03:28:44](https://lobste.rs/s/is92qm/optimizing_by_170_000_by_not_being_silly) - [Optimizing by 170,000% by not being silly](https://ayende.com/blog/202147-A/optimizing-by-170-000-by-not-being-silly)
 * [2025-03-23, 02:48:42](https://lobste.rs/s/kcnb6n/custom_vc_focused_emacs_functions) - [Custom VC-Focused Emacs Functions to Enhance My Git Workflow](https://www.rahuljuliato.com/posts/vc-git-functions)
 * [2025-03-23, 02:15:54](https://lobste.rs/s/bgxytg/powxy_anti_scraper_reverse_proxy) - [Powxy: anti-scraper reverse proxy](https://git.sr.ht/~runxiyu/powxy)
-* [2025-03-23, 01:14:39](https://lobste.rs/s/rsfp1p/enabling_seamless_interop_between_rust) - [Enabling seamless interop between Rust and other languages](https://hackmd.io/@rust-lang-team/rJvv36hq1e)
 * [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
 * [2025-03-22, 23:38:46](https://lobste.rs/s/tzwdfz/why_do_people_default_react_javascript) - [Why do people default to React and JavaScript for frontend and UIs?](https://lobste.rs/s/tzwdfz/why_do_people_default_react_javascript)
 * [2025-03-22, 22:09:31](https://lobste.rs/s/mickni/pussh_simple_ssh_based_deployment_tool) - [pussh: A simple SSH-based deployment tool written in Bash](https://github.com/bearstech/pussh)

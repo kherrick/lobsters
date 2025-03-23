@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-23](index.md)
 
+* [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
 * [2025-03-23, 21:16:26](https://lobste.rs/s/aaw1nc/back_basics_lifetime_management_cpp) - [Back to Basics: Lifetime Management in Cpp](https://www.youtube.com/watch?v=aMvIv6blzBs)
 * [2025-03-23, 20:51:13](https://lobste.rs/s/qfo9ex/scraping_websites_with_racket) - [Scraping Websites with Racket](https://blog.wilcoxd.com/2024/08/25/Scraping-Websites-with-Racket/)
 * [2025-03-23, 20:40:44](https://lobste.rs/s/xjvqy0/clickhaskell_0_2_2_years_anniversary_pre) - [ClickHaskell-0.2: 2 Years Anniversary pre-stable releas](https://discourse.haskell.org/t/clickhaskell-0-2-2-years-anniversary-pre-stable-release/11692)
