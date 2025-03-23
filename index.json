@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-23, 21:54:14",
+      "https://lobste.rs/s/p5sgkk/bridging_efficiency_gap_between_fromstr"
+    ],
+    [
+      "Bridging the Efficiency Gap Between FromStr and String",
+      "https://lucumr.pocoo.org/2025/3/23/from-string/"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 21:33:34",
       "https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc"
     ],
@@ -237,16 +247,6 @@
     [
       "Haiku loves Nvidia (porting Nvidia GPU driver)",
       "https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-gpu-driver/16520"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 01:34:13",
-      "https://lobste.rs/s/ykvjrj/how_glitch_online_survey_replaced_word"
-    ],
-    [
-      "How a glitch in an online survey replaced the word ‘yes’ with ‘forks’",
-      "https://www.pewresearch.org/decoded/2025/03/21/how-a-glitch-in-an-online-survey-replaced-the-word-yes-with-forks/"
     ]
   ]
 ]
