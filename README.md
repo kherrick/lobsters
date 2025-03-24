@@ -1,11 +1,13 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-24, 13:52:18](https://lobste.rs/s/mpopy0/non_obvious_haskell_idiom_conditional) - [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
 * [2025-03-24, 13:43:23](https://lobste.rs/s/ujc13n/bringing_record_replay_everywhere) - [Bringing Record and Replay everywhere](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
 * [2025-03-24, 12:15:21](https://lobste.rs/s/qcl6ke/argp_gnu_command_line_argument_parser) - [argp: GNU command line argument parser](https://github.com/tdewolff/argp)
 * [2025-03-24, 12:07:56](https://lobste.rs/s/sff5iz/nix_derivations_by_hand) - [Nix derivations by hand](https://fzakaria.com/2025/03/23/nix-derivations-by-hand)
 * [2025-03-24, 11:34:00](https://lobste.rs/s/bwadph/gpstracker_self_hosted_foss_alternative) - [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
 * [2025-03-24, 10:28:10](https://lobste.rs/s/blqryf/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/blqryf/what_are_you_doing_this_week)
 * [2025-03-24, 10:22:43](https://lobste.rs/s/0cxuk5/rdna_4_s_out_order_memory_accesses) - [RDNA 4's \"Out-of-Order\" Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
+* [2025-03-24, 09:48:29](https://lobste.rs/s/pwekeo/llms_only_because_your_tech_sucks) - [LLMs, But Only Because Your Tech SUCKS](https://aartaka.me/llms-suck.html)
 * [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
 * [2025-03-24, 08:56:50](https://lobste.rs/s/ufykgh/golang_on_playstation_2) - [Golang on the PlayStation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 * [2025-03-24, 06:08:53](https://lobste.rs/s/lqafxn/basedpyright_pyright_fork_with_various) - [Basedpyright: pyright fork with various type checking improvements](https://docs.basedpyright.com/latest/)
@@ -22,8 +24,6 @@
 * [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python (2020)](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
 * [2025-03-23, 17:33:22](https://lobste.rs/s/iayvkj/why_choose_use_bsds_2025) - [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
-* [2025-03-23, 13:11:51](https://lobste.rs/s/kxv2um/technicalities_homeworld_2_backgrounds) - [Technicalities of Homeworld 2 backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
-* [2025-03-23, 05:28:04](https://lobste.rs/s/ib6oyf/why_did_you_need_change_8_files_add_one) - [Why did you need to change 8 files to add one checkbox?](https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html)
 * [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
 
 ## [Archives](archives/index.md)
