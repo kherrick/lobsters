@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
 * [2025-03-24, 08:56:50](https://lobste.rs/s/ufykgh/golang_on_playstation_2) - [Golang on the PlayStation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 * [2025-03-24, 08:06:45](https://lobste.rs/s/69uxun/fastrace_modern_approach_distributed) - [Fastrace: A Modern Approach to Distributed Tracing in Rust | FastLabs / Blog](https://fast.github.io/blog/fastrace-a-modern-approach-to-distributed-tracing-in-rust/)
 * [2025-03-24, 06:08:53](https://lobste.rs/s/lqafxn/basedpyright_pyright_fork_with_various) - [Basedpyright: pyright fork with various type checking improvements](https://docs.basedpyright.com/latest/)
