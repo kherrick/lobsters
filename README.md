@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-24, 02:42:31](https://lobste.rs/s/cb0wfg/css_animation_with_offset_path) - [CSS Animation with offset-path](https://yuanchuan.dev/css-animation-with-offset-path)
+* [2025-03-24, 02:42:14](https://lobste.rs/s/i0pm1g/ultima_iii_for_vic_20) - [Ultima III for the VIC-20](https://vic20ultima3.wordpress.com/)
 * [2025-03-24, 01:38:01](https://lobste.rs/s/5p7ega/landrun_run_any_linux_process_secure) - [landrun: Run any Linux process in a secure, unprivileged sandbox using Landlock](https://github.com/Zouuup/landrun)
 * [2025-03-24, 01:10:50](https://lobste.rs/s/fautbt/avoid_building_security_treadmill) - [Avoid building a security treadmill](https://www.macchaffee.com/blog/2025/security-treadmill/)
 * [2025-03-23, 23:52:25](https://lobste.rs/s/mw6kqw/cassette_audio_control_for_web) - [A Cassette Audio Control for the Web](https://sheep.horse/2025/3/a_cassette_audio_control_for_the_web.html)
@@ -9,7 +11,6 @@
 * [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python (2020)](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
 * [2025-03-23, 21:54:14](https://lobste.rs/s/p5sgkk/bridging_efficiency_gap_between_fromstr) - [Bridging the Efficiency Gap Between FromStr and String](https://lucumr.pocoo.org/2025/3/23/from-string/)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
-* [2025-03-23, 21:16:26](https://lobste.rs/s/aaw1nc/back_basics_lifetime_management_cpp) - [Back to Basics: Lifetime Management in Cpp](https://www.youtube.com/watch?v=aMvIv6blzBs)
 * [2025-03-23, 20:51:13](https://lobste.rs/s/qfo9ex/scraping_websites_with_racket) - [Scraping Websites with Racket](https://blog.wilcoxd.com/2024/08/25/Scraping-Websites-with-Racket/)
 * [2025-03-23, 17:33:22](https://lobste.rs/s/iayvkj/why_choose_use_bsds_2025) - [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
 * [2025-03-23, 16:40:08](https://lobste.rs/s/c9nucq/attention_is_logarithmic_actually) - [attention is logarithmic, actually](https://supaiku.com/attention-is-logarithmic)
@@ -18,7 +19,6 @@
 * [2025-03-23, 13:11:51](https://lobste.rs/s/kxv2um/technicalities_homeworld_2_backgrounds) - [Technicalities of Homeworld 2 backgrounds](https://simonschreibt.de/gat/homeworld-2-backgrounds/)
 * [2025-03-23, 12:05:45](https://lobste.rs/s/gww2jq/mikrotik_ubiquiti) - [Mikrotik to Ubiquiti](https://blog.poggs.com/2025/03/23/mikrotik-to-ubiquiti/)
 * [2025-03-23, 09:20:43](https://lobste.rs/s/lv1foz/ai_is_useless_it_is_our_best_bet_for_future) - [AI is useless, but it is our best bet for the future](https://antirez.com/news/148)
-* [2025-03-23, 09:01:36](https://lobste.rs/s/h1fyct/decision_maker_s_guide_typed_functional) - [A decision maker's guide to Typed Functional Languages by Evan Czaplicki](https://youtu.be/sl1UQXgtepE)
 * [2025-03-23, 05:28:04](https://lobste.rs/s/ib6oyf/why_did_you_need_change_8_files_add_one) - [Why did you need to change 8 files to add one checkbox?](https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html)
 * [2025-03-23, 02:15:54](https://lobste.rs/s/bgxytg/powxy_anti_scraper_reverse_proxy) - [Powxy: anti-scraper reverse proxy](https://git.sr.ht/~runxiyu/powxy)
 * [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
