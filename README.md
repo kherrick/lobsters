@@ -1,6 +1,5 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-24, 08:06:45](https://lobste.rs/s/69uxun/fastrace_modern_approach_distributed) - [Fastrace: A Modern Approach to Distributed Tracing in Rust | FastLabs / Blog](https://fast.github.io/blog/fastrace-a-modern-approach-to-distributed-tracing-in-rust/)
 * [2025-03-24, 06:08:53](https://lobste.rs/s/lqafxn/basedpyright_pyright_fork_with_various) - [Basedpyright: pyright fork with various type checking improvements](https://docs.basedpyright.com/latest/)
 * [2025-03-24, 05:33:05](https://lobste.rs/s/nshbnc/figma_s_not_design_tool_it_s_rube_goldberg) - [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
 * [2025-03-24, 05:06:23](https://lobste.rs/s/xq4dyn/my_ruby_debugging_tips_2025) - [My Ruby Debugging Tips in 2025](https://st0012.dev/my-ruby-debugging-tips-in-2025)
@@ -12,6 +11,7 @@
 * [2025-03-23, 23:52:25](https://lobste.rs/s/mw6kqw/cassette_audio_control_for_web) - [A Cassette Audio Control for the Web](https://sheep.horse/2025/3/a_cassette_audio_control_for_the_web.html)
 * [2025-03-23, 23:49:18](https://lobste.rs/s/uhf7pm/notes_on_coreutils_rust) - [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
 * [2025-03-23, 23:28:51](https://lobste.rs/s/tk3f15/revenge_junior_developer) - [Revenge of the junior developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
+* [2025-03-23, 23:09:51](https://lobste.rs/s/nxcxcs/you_are_naming_your_tests_wrong) - [You are naming your tests wrong](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
 * [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python (2020)](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
 * [2025-03-23, 17:33:22](https://lobste.rs/s/iayvkj/why_choose_use_bsds_2025) - [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
