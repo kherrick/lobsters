@@ -10,6 +10,7 @@
 * [2025-03-24, 05:05:55](https://lobste.rs/s/vccjki/gitbutler_s_new_patch_based_code_review) - [GitButler's new patch based Code Review (Beta)](https://blog.gitbutler.com/gitbutlers-new-patch-based-code-review/)
 * [2025-03-24, 04:18:26](https://lobste.rs/s/mebiow/exploring_ruby_ractors_i_paid_for_for_10) - [Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)
 * [2025-03-24, 04:02:12](https://lobste.rs/s/fnfaui/c_ward_implementation_libc_written_rust) - [c-ward: An implementation of libc written in Rust](https://github.com/sunfishcode/c-ward)
+* [2025-03-24, 02:42:31](https://lobste.rs/s/cb0wfg/css_animation_with_offset_path) - [CSS Animation with offset-path](https://yuanchuan.dev/css-animation-with-offset-path)
 * [2025-03-24, 02:42:14](https://lobste.rs/s/i0pm1g/ultima_iii_for_vic_20) - [Ultima III for the VIC-20](https://vic20ultima3.wordpress.com/)
 * [2025-03-24, 01:10:50](https://lobste.rs/s/fautbt/avoid_building_security_treadmill) - [Avoid building a security treadmill](https://www.macchaffee.com/blog/2025/security-treadmill/)
 * [2025-03-23, 23:52:25](https://lobste.rs/s/mw6kqw/cassette_audio_control_for_web) - [A Cassette Audio Control for the Web](https://sheep.horse/2025/3/a_cassette_audio_control_for_the_web.html)
@@ -23,7 +24,6 @@
 * [2025-03-23, 12:05:45](https://lobste.rs/s/gww2jq/mikrotik_ubiquiti) - [Mikrotik to Ubiquiti](https://blog.poggs.com/2025/03/23/mikrotik-to-ubiquiti/)
 * [2025-03-23, 09:20:43](https://lobste.rs/s/lv1foz/ai_is_useless_it_is_our_best_bet_for_future) - [AI is useless, but it is our best bet for the future](https://antirez.com/news/148)
 * [2025-03-23, 05:28:04](https://lobste.rs/s/ib6oyf/why_did_you_need_change_8_files_add_one) - [Why did you need to change 8 files to add one checkbox?](https://www.mrlacey.com/2025/03/why-did-you-need-to-change-8-files-to.html)
-* [2025-03-23, 02:15:54](https://lobste.rs/s/bgxytg/powxy_anti_scraper_reverse_proxy) - [Powxy: anti-scraper reverse proxy](https://git.sr.ht/~runxiyu/powxy)
 * [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
 
 ## [Archives](archives/index.md)
