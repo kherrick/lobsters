@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 08:56:50](https://lobste.rs/s/ufykgh/golang_on_playstation_2) - [Golang on the PlayStation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 * [2025-03-24, 08:06:45](https://lobste.rs/s/69uxun/fastrace_modern_approach_distributed) - [Fastrace: A Modern Approach to Distributed Tracing in Rust | FastLabs / Blog](https://fast.github.io/blog/fastrace-a-modern-approach-to-distributed-tracing-in-rust/)
 * [2025-03-24, 06:08:53](https://lobste.rs/s/lqafxn/basedpyright_pyright_fork_with_various) - [Basedpyright: pyright fork with various type checking improvements](https://docs.basedpyright.com/latest/)
 * [2025-03-24, 05:33:05](https://lobste.rs/s/nshbnc/figma_s_not_design_tool_it_s_rube_goldberg) - [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
