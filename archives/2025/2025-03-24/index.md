@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 04:18:26](https://lobste.rs/s/mebiow/exploring_ruby_ractors_i_paid_for_for_10) - [Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)
 * [2025-03-24, 04:02:12](https://lobste.rs/s/fnfaui/c_ward_implementation_libc_written_rust) - [c-ward: An implementation of libc written in Rust](https://github.com/sunfishcode/c-ward)
 * [2025-03-24, 03:13:41](https://lobste.rs/s/pd898q/heisenberg_uncertainty_principle_for) - [The Heisenberg uncertainty principle for management's opinion](https://ayende.com/blog/202053-A/the-heisenberg-uncertainty-principle-for-managements-opinion)
 * [2025-03-24, 02:42:31](https://lobste.rs/s/cb0wfg/css_animation_with_offset_path) - [CSS Animation with offset-path](https://yuanchuan.dev/css-animation-with-offset-path)
