@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-24, 05:06:23](https://lobste.rs/s/xq4dyn/my_ruby_debugging_tips_2025) - [My Ruby Debugging Tips in 2025](https://st0012.dev/my-ruby-debugging-tips-in-2025)
+* [2025-03-24, 05:05:55](https://lobste.rs/s/vccjki/gitbutler_s_new_patch_based_code_review) - [GitButler's new patch based Code Review (Beta)](https://blog.gitbutler.com/gitbutlers-new-patch-based-code-review/)
 * [2025-03-24, 04:18:26](https://lobste.rs/s/mebiow/exploring_ruby_ractors_i_paid_for_for_10) - [Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)
-* [2025-03-24, 04:02:12](https://lobste.rs/s/fnfaui/c_ward_implementation_libc_written_rust) - [c-ward: An implementation of libc written in Rust](https://github.com/sunfishcode/c-ward)
 * [2025-03-24, 03:13:41](https://lobste.rs/s/pd898q/heisenberg_uncertainty_principle_for) - [The Heisenberg uncertainty principle for management's opinion](https://ayende.com/blog/202053-A/the-heisenberg-uncertainty-principle-for-managements-opinion)
 * [2025-03-24, 02:42:14](https://lobste.rs/s/i0pm1g/ultima_iii_for_vic_20) - [Ultima III for the VIC-20](https://vic20ultima3.wordpress.com/)
 * [2025-03-24, 01:38:01](https://lobste.rs/s/5p7ega/landrun_run_any_linux_process_secure) - [landrun: Run any Linux process in a secure, unprivileged sandbox using Landlock](https://github.com/Zouuup/landrun)
@@ -12,7 +13,6 @@
 * [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python (2020)](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
 * [2025-03-23, 21:54:14](https://lobste.rs/s/p5sgkk/bridging_efficiency_gap_between_fromstr) - [Bridging the Efficiency Gap Between FromStr and String](https://lucumr.pocoo.org/2025/3/23/from-string/)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
-* [2025-03-23, 20:51:13](https://lobste.rs/s/qfo9ex/scraping_websites_with_racket) - [Scraping Websites with Racket](https://blog.wilcoxd.com/2024/08/25/Scraping-Websites-with-Racket/)
 * [2025-03-23, 17:33:22](https://lobste.rs/s/iayvkj/why_choose_use_bsds_2025) - [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
 * [2025-03-23, 16:40:08](https://lobste.rs/s/c9nucq/attention_is_logarithmic_actually) - [attention is logarithmic, actually](https://supaiku.com/attention-is-logarithmic)
 * [2025-03-23, 15:57:21](https://lobste.rs/s/nbbjna/usb_interface_mother_all_demos_keyset) - [A USB interface to the \"Mother of All Demos\" keyset](http://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html)
