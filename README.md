@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-24, 15:29:06](https://lobste.rs/s/fcxnbt/holograms_light_leaks_how_build_css_only) - [Holograms, light-leaks and how to build CSS-only shaders](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
 * [2025-03-24, 14:52:30](https://lobste.rs/s/qjzd9y/everyone_quotes_command_line_arguments) - [Everyone quotes command line arguments the wrong way (on Windows)](https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way)
 * [2025-03-24, 13:52:18](https://lobste.rs/s/mpopy0/non_obvious_haskell_idiom_conditional) - [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
 * [2025-03-24, 13:43:23](https://lobste.rs/s/ujc13n/bringing_record_replay_everywhere) - [Bringing Record and Replay everywhere](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
@@ -8,7 +9,6 @@
 * [2025-03-24, 11:34:00](https://lobste.rs/s/bwadph/gpstracker_self_hosted_foss_alternative) - [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
 * [2025-03-24, 10:28:10](https://lobste.rs/s/blqryf/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/blqryf/what_are_you_doing_this_week)
 * [2025-03-24, 10:22:43](https://lobste.rs/s/0cxuk5/rdna_4_s_out_order_memory_accesses) - [RDNA 4's \"Out-of-Order\" Memory Accesses](https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses)
-* [2025-03-24, 09:48:29](https://lobste.rs/s/pwekeo/llms_only_because_your_tech_sucks) - [LLMs, But Only Because Your Tech SUCKS](https://aartaka.me/llms-suck.html)
 * [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
 * [2025-03-24, 08:56:50](https://lobste.rs/s/ufykgh/golang_on_playstation_2) - [Golang on the PlayStation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 * [2025-03-24, 06:08:53](https://lobste.rs/s/lqafxn/basedpyright_pyright_fork_with_various) - [Basedpyright: pyright fork with various type checking improvements](https://docs.basedpyright.com/latest/)
