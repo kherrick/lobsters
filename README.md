@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-24, 15:29:06](https://lobste.rs/s/fcxnbt/holograms_light_leaks_how_build_css_only) - [Holograms, light-leaks and how to build CSS-only shaders](https://robbowen.digital/wrote-about/css-blend-mode-shaders/)
+* [2025-03-24, 15:33:11](https://lobste.rs/s/otdvl2/css_based_nojs_anti_bot_web_application) - [A CSS-based NoJS Anti-BOT Web Application Firewall (Proof of Concept)](https://github.com/yzqzss/csswaf)
 * [2025-03-24, 14:52:30](https://lobste.rs/s/qjzd9y/everyone_quotes_command_line_arguments) - [Everyone quotes command line arguments the wrong way (on Windows)](https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way)
 * [2025-03-24, 13:52:18](https://lobste.rs/s/mpopy0/non_obvious_haskell_idiom_conditional) - [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
 * [2025-03-24, 13:43:23](https://lobste.rs/s/ujc13n/bringing_record_replay_everywhere) - [Bringing Record and Replay everywhere](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
