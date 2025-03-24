@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-03-24, 03:13:41",
+      "https://lobste.rs/s/pd898q/heisenberg_uncertainty_principle_for"
+    ],
+    [
+      "The Heisenberg uncertainty principle for management's opinion",
+      "https://ayende.com/blog/202053-A/the-heisenberg-uncertainty-principle-for-managements-opinion"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 02:42:14",
       "https://lobste.rs/s/i0pm1g/ultima_iii_for_vic_20"
     ],
@@ -237,16 +247,6 @@
     [
       "KURLNavBar and me",
       "https://akselmo.dev/posts/visual-woes/"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 13:23:55",
-      "https://lobste.rs/s/r1hu2x/crabtime_zig_s_comptime_rust"
-    ],
-    [
-      "Crabtime: Zig's Comptime in Rust",
-      "https://docs.rs/crabtime/latest/crabtime/"
     ]
   ]
 ]
