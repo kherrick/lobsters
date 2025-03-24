@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-24, 16:41:27](https://lobste.rs/s/7mmbwk/triforce_microphone_array_beamformer) - [Triforce: a microphone array beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 * [2025-03-24, 16:35:31](https://lobste.rs/s/mczpji/networking_bevy_with_ecs_replication) - [Networking in Bevy with ECS Replication (using Rust)](https://www.youtube.com/watch?v=aDsVFmXD2cc)
 * [2025-03-24, 14:52:30](https://lobste.rs/s/qjzd9y/everyone_quotes_command_line_arguments) - [Everyone quotes command line arguments the wrong way (on Windows)](https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way)
 * [2025-03-24, 13:52:18](https://lobste.rs/s/mpopy0/non_obvious_haskell_idiom_conditional) - [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
@@ -24,7 +25,6 @@
 * [2025-03-23, 23:09:51](https://lobste.rs/s/nxcxcs/you_are_naming_your_tests_wrong) - [You are naming your tests wrong](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
 * [2025-03-23, 17:33:22](https://lobste.rs/s/iayvkj/why_choose_use_bsds_2025) - [Why Choose to Use the BSDs in 2025](https://it-notes.dragas.net/2025/03/23/osday-2025-why-choose-bsd-in-2025/)
-* [2025-03-23, 00:43:56](https://lobste.rs/s/9hyjs0/use_long_options_scripts) - [Use Long Options in Scripts](https://matklad.github.io/2025/03/21/use-long-options-in-scripts.html)
 
 ## [Archives](archives/index.md)
 
