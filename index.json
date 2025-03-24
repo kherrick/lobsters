@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-24, 09:42:24",
+      "https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea"
+    ],
+    [
+      "Notes on building an app that looks like an IKEA manual",
+      "https://nmattia.com/posts/2025-03-24-skapa-intro/"
+    ]
+  ],
+  [
+    [
       "2025-03-24, 08:56:50",
       "https://lobste.rs/s/ufykgh/golang_on_playstation_2"
     ],
@@ -237,16 +247,6 @@
     [
       "Why do people default to React and JavaScript for frontend and UIs?",
       "https://lobste.rs/s/tzwdfz/why_do_people_default_react_javascript"
-    ]
-  ],
-  [
-    [
-      "2025-03-22, 20:52:23",
-      "https://lobste.rs/s/fptkgx/kurlnavbar_me"
-    ],
-    [
-      "KURLNavBar and me",
-      "https://akselmo.dev/posts/visual-woes/"
     ]
   ]
 ]
