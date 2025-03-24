@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-24, 04:02:12](https://lobste.rs/s/fnfaui/c_ward_implementation_libc_written_rust) - [c-ward: An implementation of libc written in Rust](https://github.com/sunfishcode/c-ward)
 * [2025-03-24, 03:13:41](https://lobste.rs/s/pd898q/heisenberg_uncertainty_principle_for) - [The Heisenberg uncertainty principle for management's opinion](https://ayende.com/blog/202053-A/the-heisenberg-uncertainty-principle-for-managements-opinion)
 * [2025-03-24, 02:42:14](https://lobste.rs/s/i0pm1g/ultima_iii_for_vic_20) - [Ultima III for the VIC-20](https://vic20ultima3.wordpress.com/)
 * [2025-03-24, 01:38:01](https://lobste.rs/s/5p7ega/landrun_run_any_linux_process_secure) - [landrun: Run any Linux process in a secure, unprivileged sandbox using Landlock](https://github.com/Zouuup/landrun)
@@ -7,7 +8,6 @@
 * [2025-03-23, 23:52:25](https://lobste.rs/s/mw6kqw/cassette_audio_control_for_web) - [A Cassette Audio Control for the Web](https://sheep.horse/2025/3/a_cassette_audio_control_for_the_web.html)
 * [2025-03-23, 23:49:18](https://lobste.rs/s/uhf7pm/notes_on_coreutils_rust) - [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
 * [2025-03-23, 23:28:51](https://lobste.rs/s/tk3f15/revenge_junior_developer) - [Revenge of the junior developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
-* [2025-03-23, 23:09:51](https://lobste.rs/s/nxcxcs/you_are_naming_your_tests_wrong) - [You are naming your tests wrong](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
 * [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python (2020)](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
 * [2025-03-23, 21:54:14](https://lobste.rs/s/p5sgkk/bridging_efficiency_gap_between_fromstr) - [Bridging the Efficiency Gap Between FromStr and String](https://lucumr.pocoo.org/2025/3/23/from-string/)
 * [2025-03-23, 21:33:34](https://lobste.rs/s/ognzc6/playing_with_hp_pa_risc) - [Playing with HP PA-RISC](https://thejpster.org.uk/blog/blog-2025-03-22/)
