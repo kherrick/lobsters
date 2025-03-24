@@ -7,6 +7,7 @@
 * [2025-03-23, 23:52:25](https://lobste.rs/s/mw6kqw/cassette_audio_control_for_web) - [A Cassette Audio Control for the Web](https://sheep.horse/2025/3/a_cassette_audio_control_for_the_web.html)
 * [2025-03-23, 23:49:18](https://lobste.rs/s/uhf7pm/notes_on_coreutils_rust) - [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
 * [2025-03-23, 23:28:51](https://lobste.rs/s/tk3f15/revenge_junior_developer_sourcegraph) - [Revenge of the junior developer | Sourcegraph Blog](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
+* [2025-03-23, 23:28:51](https://lobste.rs/s/tk3f15/revenge_junior_developer) - [Revenge of the junior developer](https://sourcegraph.com/blog/revenge-of-the-junior-developer)
 * [2025-03-23, 23:09:51](https://lobste.rs/s/nxcxcs/you_are_naming_your_tests_wrong) - [You are naming your tests wrong](https://enterprisecraftsmanship.com/posts/you-naming-tests-wrong/)
 * [2025-03-23, 21:59:58](https://lobste.rs/s/7loj1p/friends_don_t_let_friends_write) - [Friends don't let friends write production software in Python](https://dustri.org/b/friends-dont-let-friends-write-production-software-in-python.html)
 * [2025-03-23, 21:54:14](https://lobste.rs/s/p5sgkk/bridging_efficiency_gap_between_fromstr) - [Bridging the Efficiency Gap Between FromStr and String](https://lucumr.pocoo.org/2025/3/23/from-string/)
