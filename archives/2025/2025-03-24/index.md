@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
+* [2025-03-24, 17:45:49](https://lobste.rs/s/9sxdp3/ledger_implementation_postgresql) - [Ledger Implementation in PostgreSQL](https://www.pgrs.net/2025/03/24/pgledger-ledger-implementation-in-postgresql/)
+* [2025-03-24, 17:36:29](https://lobste.rs/s/pfqqi9/llms_on_powerpc_mac) - [LLMs on a PowerPC Mac](http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html)
 * [2025-03-24, 16:41:27](https://lobste.rs/s/7mmbwk/triforce_microphone_array_beamformer) - [Triforce: a microphone array beamformer for Apple Silicon laptops](https://crates.io/crates/triforce-lv2)
 * [2025-03-24, 16:35:31](https://lobste.rs/s/mczpji/networking_bevy_with_ecs_replication) - [Networking in Bevy with ECS Replication (using Rust)](https://www.youtube.com/watch?v=aDsVFmXD2cc)
 * [2025-03-24, 15:33:11](https://lobste.rs/s/otdvl2/css_based_nojs_anti_bot_web_application) - [A CSS-based NoJS Anti-BOT Web Application Firewall (Proof of Concept)](https://github.com/yzqzss/csswaf)
