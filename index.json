@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-03-24, 10:22:43",
-      "https://lobste.rs/s/0cxuk5/rdna_4_s_out_order_memory_accesses"
-    ],
-    [
-      "RDNA 4's \"Out-of-Order\" Memory Accesses",
-      "https://chipsandcheese.com/p/rdna-4s-out-of-order-memory-accesses"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 09:42:24",
       "https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea"
     ],
@@ -37,6 +27,16 @@
     [
       "Golang on the PlayStation 2",
       "https://rgsilva.com/blog/ps2-go-part-1/"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 08:06:45",
+      "https://lobste.rs/s/69uxun/fastrace_modern_approach_distributed"
+    ],
+    [
+      "Fastrace: A Modern Approach to Distributed Tracing in Rust | FastLabs / Blog",
+      "https://fast.github.io/blog/fastrace-a-modern-approach-to-distributed-tracing-in-rust/"
     ]
   ],
   [
