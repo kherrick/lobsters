@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-24, 01:38:01",
+      "https://lobste.rs/s/5p7ega/landrun_run_any_linux_process_secure"
+    ],
+    [
+      "landrun: Run any Linux process in a secure, unprivileged sandbox using Landlock",
+      "https://github.com/Zouuup/landrun"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 01:10:50",
+      "https://lobste.rs/s/fautbt/avoid_building_security_treadmill"
+    ],
+    [
+      "Avoid building a security treadmill",
+      "https://www.macchaffee.com/blog/2025/security-treadmill/"
+    ]
+  ],
+  [
+    [
       "2025-03-23, 23:52:25",
       "https://lobste.rs/s/mw6kqw/cassette_audio_control_for_web"
     ],
@@ -22,10 +42,10 @@
   [
     [
       "2025-03-23, 23:28:51",
-      "https://lobste.rs/s/tk3f15/revenge_junior_developer_sourcegraph"
+      "https://lobste.rs/s/tk3f15/revenge_junior_developer"
     ],
     [
-      "Revenge of the junior developer | Sourcegraph Blog",
+      "Revenge of the junior developer",
       "https://sourcegraph.com/blog/revenge-of-the-junior-developer"
     ]
   ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-03-23, 20:40:44",
-      "https://lobste.rs/s/xjvqy0/clickhaskell_0_2_2_years_anniversary_pre"
-    ],
-    [
-      "ClickHaskell-0.2: 2 Years Anniversary pre-stable releas",
-      "https://discourse.haskell.org/t/clickhaskell-0-2-2-years-anniversary-pre-stable-release/11692"
-    ]
-  ],
-  [
-    [
       "2025-03-23, 17:33:22",
       "https://lobste.rs/s/iayvkj/why_choose_use_bsds_2025"
     ],
@@ -127,16 +137,6 @@
     [
       "A USB interface to the \"Mother of All Demos\" keyset",
       "http://www.righto.com/2025/03/mother-of-all-demos-usb-keyset-interface.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 14:36:06",
-      "https://lobste.rs/s/rtnt5g/brief_introduction_esoteric"
-    ],
-    [
-      "A Brief Introduction to Esoteric Programming Languages [Video]",
-      "https://www.youtube.com/watch?v=cQ7bcCrJMHc"
     ]
   ],
   [
