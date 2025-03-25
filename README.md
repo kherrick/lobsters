@@ -2,9 +2,9 @@
 
 * [2025-03-25, 13:57:27](https://lobste.rs/s/wfdn6y/spade_work_progress_hdl_doesn_t_make_you) - [spade - A work in progress HDL that doesn't make you want to pull your hair out](https://gitlab.com/spade-lang/spade)
 * [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234)
-* [2025-03-25, 13:46:13](https://lobste.rs/s/kcfuju/notes_on_mcp) - [Notes on MCP](https://taoofmac.com/space/notes/2025/03/22/1900)
 * [2025-03-25, 13:43:08](https://lobste.rs/s/zwcgil/practical_limitations_end_end) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
 * [2025-03-25, 12:33:07](https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
+* [2025-03-25, 12:24:42](https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub) - [TrapC: Memory Safe C Programming with No UB](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3423.pdf)
 * [2025-03-25, 12:20:00](https://lobste.rs/s/aagvzy/entropy_attacks) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
 * [2025-03-25, 12:01:58](https://lobste.rs/s/kjbpoh/better_shell_history_search) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 10:43:31](https://lobste.rs/s/7nkvua/beyond_traditional_pattern_matching) - [Beyond Traditional Pattern Matching in Lisp](https://github.com/naver/lispe/wiki/6.1-Pattern-Matching-in-LispE)
