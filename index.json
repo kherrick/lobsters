@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-25, 05:41:23",
+      "https://lobste.rs/s/wo7eda/ffmpeg_s_assembly_language_lessons"
+    ],
+    [
+      "FFMPEG's Assembly Language Lessons",
+      "https://github.com/FFmpeg/asm-lessons"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 02:33:34",
       "https://lobste.rs/s/avwtt3/post_apocalyptic_computing"
     ],
@@ -27,6 +37,16 @@
     [
       "autology: hot take on metaprogramming",
       "https://github.com/Kimbsy/autology"
+    ]
+  ],
+  [
+    [
+      "2025-03-24, 20:55:38",
+      "https://lobste.rs/s/bgo9wi/parser_combinators_under_hood_advanced"
+    ],
+    [
+      "Parser combinators under the hood: advanced example",
+      "https://www.youtube.com/watch?v=3Sx-lKMi8aY"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-03-24, 10:28:10",
-      "https://lobste.rs/s/blqryf/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/blqryf/what_are_you_doing_this_week"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 09:42:24",
       "https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea"
     ],
@@ -197,16 +207,6 @@
     [
       "Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores",
       "https://jpterry.com/posts/2025/03/exploring-ruby-ractors/"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 04:02:12",
-      "https://lobste.rs/s/fnfaui/c_ward_implementation_libc_written_rust"
-    ],
-    [
-      "c-ward: An implementation of libc written in Rust",
-      "https://github.com/sunfishcode/c-ward"
     ]
   ],
   [
