@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-25, 07:39:59](https://lobste.rs/s/zy9tch/btrfs_adding_fast_realtime_zstd) - [Btrfs Adding Fast/Realtime Zstd Compression & Other Performance Optimizations](https://www.phoronix.com/news/Linux-6.15-Btrfs)
 * [2025-03-25, 05:41:23](https://lobste.rs/s/wo7eda/ffmpeg_s_assembly_language_lessons) - [FFMPEG's Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-03-25, 02:33:34](https://lobste.rs/s/avwtt3/post_apocalyptic_computing) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
 * [2025-03-25, 00:52:39](https://lobste.rs/s/wwclbe/rce_vulnerabilities_k8s_ingress_nginx_9_8) - [RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
-* [2025-03-24, 21:15:22](https://lobste.rs/s/p2txwl/autology_hot_take_on_metaprogramming) - [autology: hot take on metaprogramming](https://github.com/Kimbsy/autology)
 * [2025-03-24, 20:55:38](https://lobste.rs/s/bgo9wi/parser_combinators_under_hood_advanced) - [Parser combinators under the hood: advanced example](https://www.youtube.com/watch?v=3Sx-lKMi8aY)
 * [2025-03-24, 19:32:21](https://lobste.rs/s/1o8pik/prospero_challenge) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 19:18:40](https://lobste.rs/s/bsmefl/next_generation_bazel_builds) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
