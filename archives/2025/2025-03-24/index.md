@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-24](index.md)
 
 * [2025-03-24, 23:22:40](https://lobste.rs/s/emayml/latest_setuptools_broke_bunch_packages) - [Latest Setuptools broke a bunch of packages](https://www.reddit.com/r/Python/comments/1jiy2sm/setuptools_7801_breaks_the_internet/)
+* [2025-03-24, 21:15:22](https://lobste.rs/s/p2txwl/autology_hot_take_on_metaprogramming) - [autology: hot take on metaprogramming](https://github.com/Kimbsy/autology)
 * [2025-03-24, 20:55:38](https://lobste.rs/s/bgo9wi/parser_combinators_under_hood_advanced) - [Parser combinators under the hood: advanced example](https://www.youtube.com/watch?v=3Sx-lKMi8aY)
 * [2025-03-24, 19:32:21](https://lobste.rs/s/1o8pik/prospero_challenge) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 19:18:40](https://lobste.rs/s/bsmefl/next_generation_bazel_builds) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
