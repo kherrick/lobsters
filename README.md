@@ -4,6 +4,7 @@
 * [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234)
 * [2025-03-25, 13:43:08](https://lobste.rs/s/zwcgil/practical_limitations_end_end) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
 * [2025-03-25, 12:33:07](https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
+* [2025-03-25, 12:29:30](https://lobste.rs/s/au3938/database_protocols_are_underwhelming) - [Database Protocols Are Underwhelming](https://byroot.github.io/performance/2025/03/21/database-protocols.html)
 * [2025-03-25, 12:24:42](https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub) - [TrapC: Memory Safe C Programming with No UB](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3423.pdf)
 * [2025-03-25, 12:20:00](https://lobste.rs/s/aagvzy/entropy_attacks) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
 * [2025-03-25, 12:01:58](https://lobste.rs/s/kjbpoh/better_shell_history_search) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
@@ -24,7 +25,6 @@
 * [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
 * [2025-03-24, 05:33:05](https://lobste.rs/s/nshbnc/figma_s_not_design_tool_it_s_rube_goldberg) - [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
 * [2025-03-24, 01:10:50](https://lobste.rs/s/fautbt/avoid_building_security_treadmill) - [Avoid building a security treadmill](https://www.macchaffee.com/blog/2025/security-treadmill/)
-* [2025-03-23, 23:49:18](https://lobste.rs/s/uhf7pm/notes_on_coreutils_rust) - [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
 
 ## [Archives](archives/index.md)
 
