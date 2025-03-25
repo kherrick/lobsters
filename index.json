@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-03-25, 13:46:13",
+      "https://lobste.rs/s/kcfuju/notes_on_mcp"
+    ],
+    [
+      "Notes on MCP",
+      "https://taoofmac.com/space/notes/2025/03/22/1900"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 13:43:08",
       "https://lobste.rs/s/zwcgil/practical_limitations_end_end"
     ],
@@ -62,10 +72,10 @@
   [
     [
       "2025-03-25, 12:20:00",
-      "https://lobste.rs/s/aagvzy/entropy_attacks"
+      "https://lobste.rs/s/aagvzy/entropy_attacks_2014"
     ],
     [
-      "Entropy Attacks",
+      "Entropy Attacks (2014)",
       "https://blog.cr.yp.to/20140205-entropy.html"
     ]
   ],
@@ -187,16 +197,6 @@
     [
       "Triforce: a microphone array beamformer for Apple Silicon laptops",
       "https://crates.io/crates/triforce-lv2"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 14:52:30",
-      "https://lobste.rs/s/qjzd9y/everyone_quotes_command_line_arguments"
-    ],
-    [
-      "Everyone quotes command line arguments the wrong way (on Windows)",
-      "https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way"
     ]
   ],
   [
