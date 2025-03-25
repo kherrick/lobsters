@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-03-25, 13:46:13",
-      "https://lobste.rs/s/kcfuju/notes_on_mcp"
-    ],
-    [
-      "Notes on MCP",
-      "https://taoofmac.com/space/notes/2025/03/22/1900"
-    ]
-  ],
-  [
-    [
       "2025-03-25, 13:43:08",
       "https://lobste.rs/s/zwcgil/practical_limitations_end_end"
     ],
@@ -47,6 +37,16 @@
     [
       "A Debugger is a REPL is a Debugger",
       "https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 12:24:42",
+      "https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub"
+    ],
+    [
+      "TrapC: Memory Safe C Programming with No UB",
+      "https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3423.pdf"
     ]
   ],
   [
