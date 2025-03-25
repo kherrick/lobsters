@@ -7,6 +7,7 @@
 * [2025-03-25, 18:28:34](https://lobste.rs/s/bjpaay/are_ai_agents_future_observability) - [Are AI agents the future of observability?](https://xata.io/blog/are-ai-agents-the-future-of-observability)
 * [2025-03-25, 17:19:04](https://lobste.rs/s/gkb30l/prospero_challenge_now_with_more_garbage) - [Prospero challenge, now with more garbage collection](https://bernsteinbear.com/blog/prospero/)
 * [2025-03-25, 16:07:45](https://lobste.rs/s/5gmulq/rest_peace_django_s_framework_problem) - [REST in Peace? Django's Framework Problem](https://danlamanna.com/posts/rest-in-peace-djangos-framework-problem/)
+* [2025-03-25, 15:58:35](https://lobste.rs/s/5tyyej/on_ignorability_attributes) - [On the Ignorability of Attributes](https://brevzin.github.io/c++/2025/03/25/attributes/)
 * [2025-03-25, 15:19:48](https://lobste.rs/s/lnjv1q/evolving_scala) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
 * [2025-03-25, 15:18:53](https://lobste.rs/s/yaaihc/considering_w3c_standard_for_stateful) - [Considering A W3C Standard For Stateful Serverless](https://rivet.gg/blog/2025-03-23-what-would-a-w3c-standard-look-like-for-stateful-serverless-)
 * [2025-03-25, 15:07:48](https://lobste.rs/s/yt4eqa/land_ahoy_leaving_sea_nodes) - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
