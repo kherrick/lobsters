@@ -1,6 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-25, 15:19:48](https://lobste.rs/s/lnjv1q/evolving_scala) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
 * [2025-03-25, 15:18:53](https://lobste.rs/s/yaaihc/considering_w3c_standard_for_stateful) - [Considering A W3C Standard For Stateful Serverless](https://rivet.gg/blog/2025-03-23-what-would-a-w3c-standard-look-like-for-stateful-serverless-)
+* [2025-03-25, 14:59:49](https://lobste.rs/s/u9usfa/reactos_0_4_15_released) - [ReactOS 0.4.15 released](https://reactos.org/project-news/reactos-0415-released/)
 * [2025-03-25, 13:57:27](https://lobste.rs/s/wfdn6y/spade_work_progress_hdl_doesn_t_make_you) - [spade - A work in progress HDL that doesn't make you want to pull your hair out](https://gitlab.com/spade-lang/spade)
 * [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234)
 * [2025-03-25, 13:46:13](https://lobste.rs/s/kcfuju/notes_on_mcp) - [Notes on MCP](https://taoofmac.com/space/notes/2025/03/22/1900)
@@ -16,14 +18,12 @@
 * [2025-03-25, 09:07:51](https://lobste.rs/s/l5c7gj/next_js_cve_2025_29927) - [Next.js CVE-2025-29927](https://nextjs.org/blog/cve-2025-29927)
 * [2025-03-25, 02:33:34](https://lobste.rs/s/avwtt3/post_apocalyptic_computing) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
 * [2025-03-25, 00:52:39](https://lobste.rs/s/wwclbe/rce_vulnerabilities_k8s_ingress_nginx_9_8) - [RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
-* [2025-03-24, 19:32:21](https://lobste.rs/s/1o8pik/prospero_challenge) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 19:18:40](https://lobste.rs/s/bsmefl/next_generation_bazel_builds) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
 * [2025-03-24, 17:45:49](https://lobste.rs/s/9sxdp3/ledger_implementation_postgresql) - [Ledger Implementation in PostgreSQL](https://www.pgrs.net/2025/03/24/pgledger-ledger-implementation-in-postgresql/)
 * [2025-03-24, 17:36:29](https://lobste.rs/s/pfqqi9/llms_on_powerpc_mac) - [LLMs on a PowerPC Mac](http://www.theresistornetwork.com/2025/03/thinking-different-thinking-slowly-llms.html)
 * [2025-03-24, 13:52:18](https://lobste.rs/s/mpopy0/non_obvious_haskell_idiom_conditional) - [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
 * [2025-03-24, 11:34:00](https://lobste.rs/s/bwadph/gpstracker_self_hosted_foss_alternative) - [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
 * [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
-* [2025-03-24, 05:33:05](https://lobste.rs/s/nshbnc/figma_s_not_design_tool_it_s_rube_goldberg) - [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
 * [2025-03-24, 01:10:50](https://lobste.rs/s/fautbt/avoid_building_security_treadmill) - [Avoid building a security treadmill](https://www.macchaffee.com/blog/2025/security-treadmill/)
 
 ## [Archives](archives/index.md)
