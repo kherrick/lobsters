@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 09:58:23](https://lobste.rs/s/pi7xjh/closing_chapter_on_openh264) - [Closing the chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
 * [2025-03-25, 09:07:51](https://lobste.rs/s/l5c7gj/next_js_cve_2025_29927) - [Next.js CVE-2025-29927](https://nextjs.org/blog/cve-2025-29927)
 * [2025-03-25, 08:46:07](https://lobste.rs/s/udvqlv/cdc_attack_mitigation_plakar) - [CDC attack mitigation in Plakar](https://plakar.io/articles/2025-03-19/plakar-1.0.1-beta.13-out/#cdc-attacks-publication)
 * [2025-03-25, 07:39:59](https://lobste.rs/s/zy9tch/btrfs_adding_fast_realtime_zstd) - [Btrfs Adding Fast/Realtime Zstd Compression & Other Performance Optimizations](https://www.phoronix.com/news/Linux-6.15-Btrfs)
