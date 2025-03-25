@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 13:43:08](https://lobste.rs/s/zwcgil/practical_limitations_end_end) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
 * [2025-03-25, 12:33:07](https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
 * [2025-03-25, 12:29:30](https://lobste.rs/s/au3938/database_protocols_are_underwhelming) - [Database Protocols Are Underwhelming](https://byroot.github.io/performance/2025/03/21/database-protocols.html)
 * [2025-03-25, 12:24:42](https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub) - [TrapC: Memory Safe C Programming with No UB](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3423.pdf)
