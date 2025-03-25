@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
+* [2025-03-25, 13:57:27](https://lobste.rs/s/wfdn6y/spade_work_progress_hdl_doesn_t_make_you) - [spade - A work in progress HDL that doesn't make you want to pull your hair out](https://gitlab.com/spade-lang/spade)
+* [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234)
 * [2025-03-25, 13:46:13](https://lobste.rs/s/kcfuju/notes_on_mcp) - [Notes on MCP](https://taoofmac.com/space/notes/2025/03/22/1900)
 * [2025-03-25, 13:43:08](https://lobste.rs/s/zwcgil/practical_limitations_end_end) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
 * [2025-03-25, 12:33:07](https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
@@ -22,7 +23,6 @@
 * [2025-03-24, 11:34:00](https://lobste.rs/s/bwadph/gpstracker_self_hosted_foss_alternative) - [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
 * [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
 * [2025-03-24, 05:33:05](https://lobste.rs/s/nshbnc/figma_s_not_design_tool_it_s_rube_goldberg) - [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
-* [2025-03-24, 04:18:26](https://lobste.rs/s/mebiow/exploring_ruby_ractors_i_paid_for_for_10) - [Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)
 * [2025-03-24, 01:10:50](https://lobste.rs/s/fautbt/avoid_building_security_treadmill) - [Avoid building a security treadmill](https://www.macchaffee.com/blog/2025/security-treadmill/)
 * [2025-03-23, 23:49:18](https://lobste.rs/s/uhf7pm/notes_on_coreutils_rust) - [Notes on coreutils in Rust](https://alexgaynor.net/2025/mar/22/coreutils-in-rust/)
 

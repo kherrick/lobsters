@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 13:57:27](https://lobste.rs/s/wfdn6y/spade_work_progress_hdl_doesn_t_make_you) - [spade - A work in progress HDL that doesn't make you want to pull your hair out](https://gitlab.com/spade-lang/spade)
+* [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234)
 * [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/)
 * [2025-03-25, 13:46:13](https://lobste.rs/s/kcfuju/notes_on_mcp) - [Notes on MCP](https://taoofmac.com/space/notes/2025/03/22/1900)
 * [2025-03-25, 13:43:08](https://lobste.rs/s/zwcgil/practical_limitations_end_end) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
