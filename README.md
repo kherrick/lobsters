@@ -2,7 +2,7 @@
 
 * [2025-03-25, 09:07:51](https://lobste.rs/s/l5c7gj/next_js_cve_2025_29927) - [Next.js CVE-2025-29927](https://nextjs.org/blog/cve-2025-29927)
 * [2025-03-25, 08:46:07](https://lobste.rs/s/udvqlv/cdc_attack_mitigation_plakar) - [CDC attack mitigation in Plakar](https://plakar.io/articles/2025-03-19/plakar-1.0.1-beta.13-out/#cdc-attacks-publication)
-* [2025-03-25, 05:41:23](https://lobste.rs/s/wo7eda/ffmpeg_s_assembly_language_lessons) - [FFMPEG's Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
+* [2025-03-25, 07:39:59](https://lobste.rs/s/zy9tch/btrfs_adding_fast_realtime_zstd) - [Btrfs Adding Fast/Realtime Zstd Compression & Other Performance Optimizations](https://www.phoronix.com/news/Linux-6.15-Btrfs)
 * [2025-03-25, 02:33:34](https://lobste.rs/s/avwtt3/post_apocalyptic_computing) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
 * [2025-03-25, 00:52:39](https://lobste.rs/s/wwclbe/rce_vulnerabilities_k8s_ingress_nginx_9_8) - [RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [2025-03-24, 19:32:21](https://lobste.rs/s/1o8pik/prospero_challenge) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
