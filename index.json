@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-25, 13:51:49",
+      "https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh"
+    ],
+    [
+      "Open-sourcing OpenPubkey SSH",
+      "https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 13:46:13",
+      "https://lobste.rs/s/kcfuju/notes_on_mcp"
+    ],
+    [
+      "Notes on MCP",
+      "https://taoofmac.com/space/notes/2025/03/22/1900"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 13:43:08",
       "https://lobste.rs/s/zwcgil/practical_limitations_end_end"
     ],
@@ -17,26 +37,6 @@
     [
       "A Debugger is a REPL is a Debugger",
       "https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 12:29:30",
-      "https://lobste.rs/s/au3938/database_protocols_are_underwhelming"
-    ],
-    [
-      "Database Protocols Are Underwhelming",
-      "https://byroot.github.io/performance/2025/03/21/database-protocols.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 12:24:42",
-      "https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub"
-    ],
-    [
-      "TrapC: Memory Safe C Programming with No UB",
-      "https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3423.pdf"
     ]
   ],
   [
@@ -72,10 +72,10 @@
   [
     [
       "2025-03-25, 10:32:38",
-      "https://lobste.rs/s/zz69lm/closing_keynote_with_leslie_lamport_at"
+      "https://lobste.rs/s/zz69lm/coding_isn_t_programming"
     ],
     [
-      "Closing Keynote with Leslie Lamport at SCALE 22x: Coding isn't programming",
+      "Coding isn't programming",
       "https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport"
     ]
   ],
