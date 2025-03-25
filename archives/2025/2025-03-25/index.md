@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 19:43:02](https://lobste.rs/s/z1uvb4/whose_code_am_i_running_github_actions) - [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 * [2025-03-25, 18:28:34](https://lobste.rs/s/bjpaay/are_ai_agents_future_observability) - [Are AI agents the future of observability?](https://xata.io/blog/are-ai-agents-the-future-of-observability)
 * [2025-03-25, 17:41:57](https://lobste.rs/s/k3wlns/role_developer_skills_agentic_coding) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
 * [2025-03-25, 17:19:04](https://lobste.rs/s/gkb30l/prospero_challenge_now_with_more_garbage) - [Prospero challenge, now with more garbage collection](https://bernsteinbear.com/blog/prospero/)
