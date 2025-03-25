@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-25, 08:46:07",
+      "https://lobste.rs/s/udvqlv/cdc_attack_mitigation_plakar"
+    ],
+    [
+      "CDC attack mitigation in Plakar",
+      "https://plakar.io/articles/2025-03-19/plakar-1.0.1-beta.13-out/#cdc-attacks-publication"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 07:39:59",
       "https://lobste.rs/s/zy9tch/btrfs_adding_fast_realtime_zstd"
     ],
@@ -37,16 +47,6 @@
     [
       "RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)",
       "https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 20:55:38",
-      "https://lobste.rs/s/bgo9wi/parser_combinators_under_hood_advanced"
-    ],
-    [
-      "Parser combinators under the hood: advanced example",
-      "https://www.youtube.com/watch?v=3Sx-lKMi8aY"
     ]
   ],
   [
