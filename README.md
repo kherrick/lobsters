@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-25, 22:02:53](https://lobste.rs/s/gxuxuo/mobile_cyberattacks_conducted_by_us) - [Mobile Cyberattacks Conducted by US Intelligence Agencies](http://www.news.cn/world/20250325/02ba448744ac4b75a81df613a88b4d26/2025032522b55fd15b244a5fac54e424c62be9b7_1616350dfed1c44ba786a82d574c86c30f.pdf)
 * [2025-03-25, 19:43:02](https://lobste.rs/s/z1uvb4/whose_code_am_i_running_github_actions) - [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 * [2025-03-25, 18:28:34](https://lobste.rs/s/bjpaay/are_ai_agents_future_observability) - [Are AI agents the future of observability?](https://xata.io/blog/are-ai-agents-the-future-of-observability)
 * [2025-03-25, 17:41:57](https://lobste.rs/s/k3wlns/role_developer_skills_agentic_coding) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
@@ -11,7 +12,6 @@
 * [2025-03-25, 15:07:48](https://lobste.rs/s/yt4eqa/land_ahoy_leaving_sea_nodes) - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
 * [2025-03-25, 14:59:49](https://lobste.rs/s/u9usfa/reactos_0_4_15_released) - [ReactOS 0.4.15 released](https://reactos.org/project-news/reactos-0415-released/)
 * [2025-03-25, 14:56:50](https://lobste.rs/s/7ruvmo/surreal_joy_having_overprovisioned) - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
-* [2025-03-25, 14:43:11](https://lobste.rs/s/eq8le0/on_troubleshooting) - [On Troubleshooting](https://www.autodidacts.io/troubleshooting/)
 * [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234)
 * [2025-03-25, 13:43:08](https://lobste.rs/s/zwcgil/practical_limitations_end_end) - [The Practical Limitations of End-to-End Encryption](https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/)
 * [2025-03-25, 12:33:07](https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
