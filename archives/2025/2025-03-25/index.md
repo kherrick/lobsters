@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 08:46:07](https://lobste.rs/s/udvqlv/cdc_attack_mitigation_plakar) - [CDC attack mitigation in Plakar](https://plakar.io/articles/2025-03-19/plakar-1.0.1-beta.13-out/#cdc-attacks-publication)
 * [2025-03-25, 07:39:59](https://lobste.rs/s/zy9tch/btrfs_adding_fast_realtime_zstd) - [Btrfs Adding Fast/Realtime Zstd Compression & Other Performance Optimizations](https://www.phoronix.com/news/Linux-6.15-Btrfs)
 * [2025-03-25, 05:41:23](https://lobste.rs/s/wo7eda/ffmpeg_s_assembly_language_lessons) - [FFMPEG's Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-03-25, 02:33:34](https://lobste.rs/s/avwtt3/post_apocalyptic_computing) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
