@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-25](index.md)
 
+* [2025-03-25, 18:28:34](https://lobste.rs/s/bjpaay/are_ai_agents_future_observability) - [Are AI agents the future of observability?](https://xata.io/blog/are-ai-agents-the-future-of-observability)
 * [2025-03-25, 17:19:04](https://lobste.rs/s/gkb30l/prospero_challenge_now_with_more_garbage) - [Prospero challenge, now with more garbage collection](https://bernsteinbear.com/blog/prospero/)
 * [2025-03-25, 16:07:45](https://lobste.rs/s/5gmulq/rest_peace_django_s_framework_problem) - [REST in Peace? Django's Framework Problem](https://danlamanna.com/posts/rest-in-peace-djangos-framework-problem/)
 * [2025-03-25, 15:19:48](https://lobste.rs/s/lnjv1q/evolving_scala) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
