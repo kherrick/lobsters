@@ -1,12 +1,62 @@
 [
   [
     [
-      "2025-03-25, 11:18:01",
-      "https://lobste.rs/s/hlq74s/occlusion_with_bells_on"
+      "2025-03-25, 12:33:07",
+      "https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger"
     ],
     [
-      "Occlusion with Bells On",
-      "https://acko.net/blog/occlusion-with-bells-on/"
+      "A Debugger is a REPL is a Debugger",
+      "https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 12:29:30",
+      "https://lobste.rs/s/au3938/database_protocols_are_underwhelming"
+    ],
+    [
+      "Database Protocols Are Underwhelming",
+      "https://byroot.github.io/performance/2025/03/21/database-protocols.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 12:24:42",
+      "https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub"
+    ],
+    [
+      "TrapC: Memory Safe C Programming with No UB",
+      "https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3423.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 12:20:00",
+      "https://lobste.rs/s/aagvzy/entropy_attacks"
+    ],
+    [
+      "Entropy Attacks",
+      "https://blog.cr.yp.to/20140205-entropy.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 12:10:04",
+      "https://lobste.rs/s/guprex/implementers_solvers_finders"
+    ],
+    [
+      "Implementers, Solvers, and Finders",
+      "https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 12:01:58",
+      "https://lobste.rs/s/kjbpoh/better_shell_history_search"
+    ],
+    [
+      "Better Shell History Search",
+      "https://tratt.net/laurie/blog/2025/better_shell_history_search.html"
     ]
   ],
   [
@@ -17,16 +67,6 @@
     [
       "Beyond Traditional Pattern Matching in Lisp",
       "https://github.com/naver/lispe/wiki/6.1-Pattern-Matching-in-LispE"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 10:32:38",
-      "https://lobste.rs/s/zz69lm/closing_keynote_with_leslie_lamport_at"
-    ],
-    [
-      "Closing Keynote with Leslie Lamport at SCALE 22x: Coding isn't programming",
-      "https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport"
     ]
   ],
   [
@@ -67,16 +107,6 @@
     [
       "RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)",
       "https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 21:15:22",
-      "https://lobste.rs/s/p2txwl/autology_hot_take_on_metaprogramming"
-    ],
-    [
-      "autology: hot take on metaprogramming",
-      "https://github.com/Kimbsy/autology"
     ]
   ],
   [
@@ -131,16 +161,6 @@
   ],
   [
     [
-      "2025-03-24, 15:29:06",
-      "https://lobste.rs/s/fcxnbt/holograms_light_leaks_how_build_css_only"
-    ],
-    [
-      "Holograms, light-leaks and how to build CSS-only shaders",
-      "https://robbowen.digital/wrote-about/css-blend-mode-shaders/"
-    ]
-  ],
-  [
-    [
       "2025-03-24, 14:52:30",
       "https://lobste.rs/s/qjzd9y/everyone_quotes_command_line_arguments"
     ],
@@ -157,26 +177,6 @@
     [
       "Non-Obvious Haskell Idiom: Conditional For",
       "https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 13:43:23",
-      "https://lobste.rs/s/ujc13n/bringing_record_replay_everywhere"
-    ],
-    [
-      "Bringing Record and Replay everywhere",
-      "https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 12:07:56",
-      "https://lobste.rs/s/sff5iz/nix_derivations_by_hand"
-    ],
-    [
-      "Nix derivations by hand",
-      "https://fzakaria.com/2025/03/23/nix-derivations-by-hand"
     ]
   ],
   [
