@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-03-25, 12:29:30",
+      "https://lobste.rs/s/au3938/database_protocols_are_underwhelming"
+    ],
+    [
+      "Database Protocols Are Underwhelming",
+      "https://byroot.github.io/performance/2025/03/21/database-protocols.html"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 12:24:42",
       "https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub"
     ],
@@ -237,16 +247,6 @@
     [
       "Avoid building a security treadmill",
       "https://www.macchaffee.com/blog/2025/security-treadmill/"
-    ]
-  ],
-  [
-    [
-      "2025-03-23, 23:49:18",
-      "https://lobste.rs/s/uhf7pm/notes_on_coreutils_rust"
-    ],
-    [
-      "Notes on coreutils in Rust",
-      "https://alexgaynor.net/2025/mar/22/coreutils-in-rust/"
     ]
   ]
 ]
