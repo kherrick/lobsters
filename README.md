@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-25, 11:18:01](https://lobste.rs/s/hlq74s/occlusion_with_bells_on) - [Occlusion with Bells On](https://acko.net/blog/occlusion-with-bells-on/)
 * [2025-03-25, 10:43:31](https://lobste.rs/s/7nkvua/beyond_traditional_pattern_matching) - [Beyond Traditional Pattern Matching in Lisp](https://github.com/naver/lispe/wiki/6.1-Pattern-Matching-in-LispE)
 * [2025-03-25, 10:32:38](https://lobste.rs/s/zz69lm/closing_keynote_with_leslie_lamport_at) - [Closing Keynote with Leslie Lamport at SCALE 22x: Coding isn't programming](https://www.socallinuxexpo.org/scale/22x/presentations/closing-keynote-leslie-lamport)
 * [2025-03-25, 09:58:23](https://lobste.rs/s/pi7xjh/closing_chapter_on_openh264) - [Closing the chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
@@ -19,7 +20,6 @@
 * [2025-03-24, 12:07:56](https://lobste.rs/s/sff5iz/nix_derivations_by_hand) - [Nix derivations by hand](https://fzakaria.com/2025/03/23/nix-derivations-by-hand)
 * [2025-03-24, 11:34:00](https://lobste.rs/s/bwadph/gpstracker_self_hosted_foss_alternative) - [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
 * [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
-* [2025-03-24, 08:56:50](https://lobste.rs/s/ufykgh/golang_on_playstation_2) - [Golang on the PlayStation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 * [2025-03-24, 05:33:05](https://lobste.rs/s/nshbnc/figma_s_not_design_tool_it_s_rube_goldberg) - [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
 * [2025-03-24, 05:05:55](https://lobste.rs/s/vccjki/gitbutler_s_new_patch_based_code_review) - [GitButler's new patch based Code Review (Beta)](https://blog.gitbutler.com/gitbutlers-new-patch-based-code-review/)
 * [2025-03-24, 04:18:26](https://lobste.rs/s/mebiow/exploring_ruby_ractors_i_paid_for_for_10) - [Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)
