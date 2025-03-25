@@ -1,12 +1,22 @@
 [
   [
     [
+      "2025-03-25, 13:57:27",
+      "https://lobste.rs/s/wfdn6y/spade_work_progress_hdl_doesn_t_make_you"
+    ],
+    [
+      "spade - A work in progress HDL that doesn't make you want to pull your hair out",
+      "https://gitlab.com/spade-lang/spade"
+    ]
+  ],
+  [
+    [
       "2025-03-25, 13:51:49",
       "https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh"
     ],
     [
       "Open-sourcing OpenPubkey SSH",
-      "https://blog.cloudflare.com/open-sourcing-openpubkey-ssh-opkssh-integrating-single-sign-on-with-ssh/"
+      "https://github.com/openpubkey/openpubkey/pull/234"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code",
       "https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d"
-    ]
-  ],
-  [
-    [
-      "2025-03-24, 04:18:26",
-      "https://lobste.rs/s/mebiow/exploring_ruby_ractors_i_paid_for_for_10"
-    ],
-    [
-      "Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores",
-      "https://jpterry.com/posts/2025/03/exploring-ruby-ractors/"
     ]
   ],
   [
