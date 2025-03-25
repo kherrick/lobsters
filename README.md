@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-24, 23:22:40](https://lobste.rs/s/emayml/latest_setuptools_broke_bunch_packages) - [Latest Setuptools broke a bunch of packages](https://www.reddit.com/r/Python/comments/1jiy2sm/setuptools_7801_breaks_the_internet/)
+* [2025-03-25, 02:33:34](https://lobste.rs/s/avwtt3/post_apocalyptic_computing) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
+* [2025-03-25, 00:52:39](https://lobste.rs/s/wwclbe/rce_vulnerabilities_k8s_ingress_nginx_9_8) - [RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [2025-03-24, 19:32:21](https://lobste.rs/s/1o8pik/prospero_challenge) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
 * [2025-03-24, 19:18:40](https://lobste.rs/s/bsmefl/next_generation_bazel_builds) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
 * [2025-03-24, 17:45:49](https://lobste.rs/s/9sxdp3/ledger_implementation_postgresql) - [Ledger Implementation in PostgreSQL](https://www.pgrs.net/2025/03/24/pgledger-ledger-implementation-in-postgresql/)
@@ -17,7 +18,6 @@
 * [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
 * [2025-03-24, 08:56:50](https://lobste.rs/s/ufykgh/golang_on_playstation_2) - [Golang on the PlayStation 2](https://rgsilva.com/blog/ps2-go-part-1/)
 * [2025-03-24, 05:33:05](https://lobste.rs/s/nshbnc/figma_s_not_design_tool_it_s_rube_goldberg) - [Figma’s not a design tool — it’s a Rube Goldberg machine for avoiding code](https://uxdesign.cc/figmas-not-a-design-tool-it-s-a-rube-goldberg-machine-for-avoiding-code-2a24f11add5d)
-* [2025-03-24, 05:06:23](https://lobste.rs/s/xq4dyn/my_ruby_debugging_tips_2025) - [My Ruby Debugging Tips in 2025](https://st0012.dev/my-ruby-debugging-tips-in-2025)
 * [2025-03-24, 05:05:55](https://lobste.rs/s/vccjki/gitbutler_s_new_patch_based_code_review) - [GitButler's new patch based Code Review (Beta)](https://blog.gitbutler.com/gitbutlers-new-patch-based-code-review/)
 * [2025-03-24, 04:18:26](https://lobste.rs/s/mebiow/exploring_ruby_ractors_i_paid_for_for_10) - [Exploring Ruby Ractors -- I paid for for 10 cores I'm gonna use 10 cores](https://jpterry.com/posts/2025/03/exploring-ruby-ractors/)
 * [2025-03-24, 04:02:12](https://lobste.rs/s/fnfaui/c_ward_implementation_libc_written_rust) - [c-ward: An implementation of libc written in Rust](https://github.com/sunfishcode/c-ward)
