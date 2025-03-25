@@ -12,6 +12,7 @@
 * [2025-03-25, 12:33:07](https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
 * [2025-03-25, 12:29:30](https://lobste.rs/s/au3938/database_protocols_are_underwhelming) - [Database Protocols Are Underwhelming](https://byroot.github.io/performance/2025/03/21/database-protocols.html)
 * [2025-03-25, 12:24:42](https://lobste.rs/s/fftt89/trapc_memory_safe_c_programming_with_no_ub) - [TrapC: Memory Safe C Programming with No UB](https://www.open-std.org/jtc1/sc22/wg14/www/docs/n3423.pdf)
+* [2025-03-25, 12:20:00](https://lobste.rs/s/aagvzy/entropy_attacks_2014) - [Entropy Attacks (2014)](https://blog.cr.yp.to/20140205-entropy.html)
 * [2025-03-25, 12:20:00](https://lobste.rs/s/aagvzy/entropy_attacks) - [Entropy Attacks](https://blog.cr.yp.to/20140205-entropy.html)
 * [2025-03-25, 12:10:04](https://lobste.rs/s/guprex/implementers_solvers_finders) - [Implementers, Solvers, and Finders](https://rkoutnik.com/2016/04/21/implementers-solvers-and-finders.html)
 * [2025-03-25, 12:01:58](https://lobste.rs/s/kjbpoh/better_shell_history_search) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
