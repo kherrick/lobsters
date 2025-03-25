@@ -7,6 +7,7 @@
 * [2025-03-25, 15:18:53](https://lobste.rs/s/yaaihc/considering_w3c_standard_for_stateful) - [Considering A W3C Standard For Stateful Serverless](https://rivet.gg/blog/2025-03-23-what-would-a-w3c-standard-look-like-for-stateful-serverless-)
 * [2025-03-25, 15:07:48](https://lobste.rs/s/yt4eqa/land_ahoy_leaving_sea_nodes) - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
 * [2025-03-25, 14:59:49](https://lobste.rs/s/u9usfa/reactos_0_4_15_released) - [ReactOS 0.4.15 released](https://reactos.org/project-news/reactos-0415-released/)
+* [2025-03-25, 14:56:50](https://lobste.rs/s/7ruvmo/surreal_joy_having_overprovisioned) - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
 * [2025-03-25, 13:57:27](https://lobste.rs/s/wfdn6y/spade_work_progress_hdl_doesn_t_make_you) - [spade - A work in progress HDL that doesn't make you want to pull your hair out](https://gitlab.com/spade-lang/spade)
 * [2025-03-25, 13:51:49](https://lobste.rs/s/esb3it/open_sourcing_openpubkey_ssh) - [Open-sourcing OpenPubkey SSH](https://github.com/openpubkey/openpubkey/pull/234)
 * [2025-03-25, 13:46:13](https://lobste.rs/s/kcfuju/notes_on_mcp) - [Notes on MCP](https://taoofmac.com/space/notes/2025/03/22/1900)
@@ -22,7 +23,6 @@
 * [2025-03-24, 19:18:40](https://lobste.rs/s/bsmefl/next_generation_bazel_builds) - [The next generation of Bazel builds](https://blogsystem5.substack.com/p/bazel-next-generation)
 * [2025-03-24, 17:45:49](https://lobste.rs/s/9sxdp3/ledger_implementation_postgresql) - [Ledger Implementation in PostgreSQL](https://www.pgrs.net/2025/03/24/pgledger-ledger-implementation-in-postgresql/)
 * [2025-03-24, 13:52:18](https://lobste.rs/s/mpopy0/non_obvious_haskell_idiom_conditional) - [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
-* [2025-03-24, 11:34:00](https://lobste.rs/s/bwadph/gpstracker_self_hosted_foss_alternative) - [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
 * [2025-03-24, 09:42:24](https://lobste.rs/s/srwduz/notes_on_building_app_looks_like_ikea) - [Notes on building an app that looks like an IKEA manual](https://nmattia.com/posts/2025-03-24-skapa-intro/)
 * [2025-03-24, 01:10:50](https://lobste.rs/s/fautbt/avoid_building_security_treadmill) - [Avoid building a security treadmill](https://www.macchaffee.com/blog/2025/security-treadmill/)
 
