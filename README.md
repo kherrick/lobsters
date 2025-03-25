@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-25, 05:41:23](https://lobste.rs/s/wo7eda/ffmpeg_s_assembly_language_lessons) - [FFMPEG's Assembly Language Lessons](https://github.com/FFmpeg/asm-lessons)
 * [2025-03-25, 02:33:34](https://lobste.rs/s/avwtt3/post_apocalyptic_computing) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
 * [2025-03-25, 00:52:39](https://lobste.rs/s/wwclbe/rce_vulnerabilities_k8s_ingress_nginx_9_8) - [RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)](https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities)
 * [2025-03-24, 19:32:21](https://lobste.rs/s/1o8pik/prospero_challenge) - [The Prospero Challenge](https://www.mattkeeter.com/projects/prospero/)
@@ -11,7 +12,6 @@
 * [2025-03-24, 14:52:30](https://lobste.rs/s/qjzd9y/everyone_quotes_command_line_arguments) - [Everyone quotes command line arguments the wrong way (on Windows)](https://learn.microsoft.com/en-us/archive/blogs/twistylittlepassagesallalike/everyone-quotes-command-line-arguments-the-wrong-way)
 * [2025-03-24, 13:52:18](https://lobste.rs/s/mpopy0/non_obvious_haskell_idiom_conditional) - [Non-Obvious Haskell Idiom: Conditional For](https://entropicthoughts.com/non-obvious-haskell-idiom-conditional-for)
 * [2025-03-24, 13:43:23](https://lobste.rs/s/ujc13n/bringing_record_replay_everywhere) - [Bringing Record and Replay everywhere](https://github.com/sidkshatriya/me/blob/master/008-rr-everywhere.md)
-* [2025-03-24, 12:15:21](https://lobste.rs/s/qcl6ke/argp_gnu_command_line_argument_parser) - [argp: GNU command line argument parser](https://github.com/tdewolff/argp)
 * [2025-03-24, 12:07:56](https://lobste.rs/s/sff5iz/nix_derivations_by_hand) - [Nix derivations by hand](https://fzakaria.com/2025/03/23/nix-derivations-by-hand)
 * [2025-03-24, 11:34:00](https://lobste.rs/s/bwadph/gpstracker_self_hosted_foss_alternative) - [GPSTracker: A self-hosted FOSS alternative to Google Maps Timeline](https://blog.fabiomanganiello.com/article/gpstracker-a-self-hosted-alternative-to-google-maps-timeline)
 * [2025-03-24, 10:28:10](https://lobste.rs/s/blqryf/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/blqryf/what_are_you_doing_this_week)
