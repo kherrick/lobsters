@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-03-25, 17:19:04",
-      "https://lobste.rs/s/gkb30l/prospero_challenge_now_with_more_garbage"
+      "2025-03-25, 18:28:34",
+      "https://lobste.rs/s/bjpaay/are_ai_agents_future_observability"
     ],
     [
-      "Prospero challenge, now with more garbage collection",
-      "https://bernsteinbear.com/blog/prospero/"
+      "Are AI agents the future of observability?",
+      "https://xata.io/blog/are-ai-agents-the-future-of-observability"
     ]
   ],
   [
@@ -27,6 +27,16 @@
     [
       "Evolving Scala",
       "https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-25, 15:18:53",
+      "https://lobste.rs/s/yaaihc/considering_w3c_standard_for_stateful"
+    ],
+    [
+      "Considering A W3C Standard For Stateful Serverless",
+      "https://rivet.gg/blog/2025-03-23-what-would-a-w3c-standard-look-like-for-stateful-serverless-"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "Post Apocalyptic Computing",
       "https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 00:52:39",
-      "https://lobste.rs/s/wwclbe/rce_vulnerabilities_k8s_ingress_nginx_9_8"
-    ],
-    [
-      "RCE Vulnerabilities in k8s Ingress NGINX  (9.8 CVE for ingress-nginx)",
-      "https://www.wiz.io/blog/ingress-nginx-kubernetes-vulnerabilities"
     ]
   ],
   [
