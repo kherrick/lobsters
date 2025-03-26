@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 16:29:49](https://lobste.rs/s/pyvuuk/good_bye_core_types_hello_go_as_we_know_love) - [Good-bye core types; Hello Go as we know and love it](https://go.dev/blog/coretypes)
+* [2025-03-26, 16:24:18](https://lobste.rs/s/vr8mt9/doccmd_run_commands_linters_formatters) - [doccmd: Run commands (linters, formatters, etc.) against code blocks in documentation files](https://adamtheturtle.github.io/doccmd/)
 * [2025-03-26, 15:49:34](https://lobste.rs/s/mmujyu/up_running_with_jax_jit_compilation) - [Up and Running with JAX - JIT Compilation, Vectorizing Transformations and autodiff](https://www.jtrive.com/posts/intro-to-jax-part-1/intro-to-jax-part-1.html)
 * [2025-03-26, 15:30:04](https://lobste.rs/s/5shsda/pushing_opam_repository_into) - [Pushing the opam-repository into a sustainable repository](https://blog.robur.coop/articles/2025-03-26-opam-repository-archive.html)
 * [2025-03-26, 15:01:41](https://lobste.rs/s/lba9iq/ai_will_change_world_not_way_you_think) - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
