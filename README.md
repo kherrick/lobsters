@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-26, 01:36:17](https://lobste.rs/s/zz4xfn/opensmtpd_maildrop_working_concert) - [OpenSMTPD & Maildrop working in concert](http://blog.whenhen.com/posts/opensmtpd-and-maildrop-working-in-concert.html)
 * [2025-03-26, 00:32:28](https://lobste.rs/s/jaxxly/you_might_want_stop_running_atop) - [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
 * [2025-03-25, 23:31:55](https://lobste.rs/s/gcz5e2/postel_s_law_three_ring_circus) - [Postel's Law and the Three Ring Circus](https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/)
 * [2025-03-25, 22:02:53](https://lobste.rs/s/gxuxuo/mobile_cyberattacks_conducted_by_us) - [Mobile Cyberattacks Conducted by US Intelligence Agencies](http://www.news.cn/world/20250325/02ba448744ac4b75a81df613a88b4d26/2025032522b55fd15b244a5fac54e424c62be9b7_1616350dfed1c44ba786a82d574c86c30f.pdf)
 * [2025-03-25, 19:43:02](https://lobste.rs/s/z1uvb4/whose_code_am_i_running_github_actions) - [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 * [2025-03-25, 18:28:34](https://lobste.rs/s/bjpaay/are_ai_agents_future_observability) - [Are AI agents the future of observability?](https://xata.io/blog/are-ai-agents-the-future-of-observability)
 * [2025-03-25, 17:41:57](https://lobste.rs/s/k3wlns/role_developer_skills_agentic_coding) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
-* [2025-03-25, 17:19:04](https://lobste.rs/s/gkb30l/prospero_challenge_now_with_more_garbage) - [Prospero challenge, now with more garbage collection](https://bernsteinbear.com/blog/prospero/)
 * [2025-03-25, 16:07:45](https://lobste.rs/s/5gmulq/rest_peace_django_s_framework_problem) - [REST in Peace? Django's Framework Problem](https://danlamanna.com/posts/rest-in-peace-djangos-framework-problem/)
 * [2025-03-25, 15:58:35](https://lobste.rs/s/5tyyej/on_ignorability_attributes) - [On the Ignorability of Attributes](https://brevzin.github.io/c++/2025/03/25/attributes/)
 * [2025-03-25, 15:19:48](https://lobste.rs/s/lnjv1q/evolving_scala) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
