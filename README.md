@@ -2,10 +2,10 @@
 
 * [2025-03-26, 04:58:48](https://lobste.rs/s/seqpx7/what_is_plus_times_plus) - [What is plus times plus?](https://youtu.be/RcVA8Nj6HEo)
 * [2025-03-26, 04:34:11](https://lobste.rs/s/qpqrzb/shrink_your_go_binaries_with_this_one) - [Shrink your Go binaries with this one weird trick (2016)](https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
+* [2025-03-26, 02:52:47](https://lobste.rs/s/ec6ro8/don_t_bring_slop_slop_fight) - [Don't bring slop to a slop fight](https://sethmlarson.dev/dont-bring-slop-to-a-slop-fight)
 * [2025-03-26, 01:36:17](https://lobste.rs/s/zz4xfn/opensmtpd_maildrop_working_concert) - [OpenSMTPD & Maildrop working in concert](http://blog.whenhen.com/posts/opensmtpd-and-maildrop-working-in-concert.html)
 * [2025-03-26, 00:32:28](https://lobste.rs/s/jaxxly/you_might_want_stop_running_atop) - [You might want to stop running atop](https://rachelbythebay.com/w/2025/03/25/atop/)
 * [2025-03-25, 23:31:55](https://lobste.rs/s/gcz5e2/postel_s_law_three_ring_circus) - [Postel's Law and the Three Ring Circus](https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/)
-* [2025-03-25, 22:02:53](https://lobste.rs/s/gxuxuo/mobile_cyberattacks_conducted_by_us) - [Mobile Cyberattacks Conducted by US Intelligence Agencies](http://www.news.cn/world/20250325/02ba448744ac4b75a81df613a88b4d26/2025032522b55fd15b244a5fac54e424c62be9b7_1616350dfed1c44ba786a82d574c86c30f.pdf)
 * [2025-03-25, 19:43:02](https://lobste.rs/s/z1uvb4/whose_code_am_i_running_github_actions) - [Whose code am I running in GitHub Actions?](https://alexwlchan.net/2025/github-actions-audit/)
 * [2025-03-25, 18:28:34](https://lobste.rs/s/bjpaay/are_ai_agents_future_observability) - [Are AI agents the future of observability?](https://xata.io/blog/are-ai-agents-the-future-of-observability)
 * [2025-03-25, 17:41:57](https://lobste.rs/s/k3wlns/role_developer_skills_agentic_coding) - [The role of developer skills in agentic coding](https://martinfowler.com/articles/exploring-gen-ai.html#memo-13)
