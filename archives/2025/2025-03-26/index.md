@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
 * [2025-03-26, 19:21:03](https://lobste.rs/s/b06j2a/problems_with_heap) - [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
+* [2025-03-26, 19:17:31](https://lobste.rs/s/mvlkdq/servo_vs_ladybird) - [Servo vs Ladybird](https://thelibre.news/servo-vs-ladybird/)
 * [2025-03-26, 18:54:30](https://lobste.rs/s/idrtqb/security_on_path_agi) - [Security on the path to AGI](https://openai.com/index/security-on-the-path-to-agi/)
 * [2025-03-26, 17:23:17](https://lobste.rs/s/rckxbp/you_just_can_t_be_googling_select) - [You just can’t be Googling ‘Select’](https://sophiabits.com/blog/you-just-cant-be-googling-select)
 * [2025-03-26, 16:50:47](https://lobste.rs/s/tzqlyn/ferrous_systems_donates_ferrocene) - [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/)
