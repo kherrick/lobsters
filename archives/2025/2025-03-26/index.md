@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 23:47:47](https://lobste.rs/s/j2ec2q/betteridge_s_law_software_engineering) - [Betteridge's Law of Software Engineering Specialness](https://buttondown.com/hillelwayne/archive/betteridges-law-of-software-engineering/)
 * [2025-03-26, 22:44:00](https://lobste.rs/s/b2yv9c/google_will_now_develop_android_os) - [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
 * [2025-03-26, 22:11:44](https://lobste.rs/s/9xkrhc/hyperlight_wasm_fast_secure_os_free) - [Hyperlight Wasm: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
 * [2025-03-26, 21:55:42](https://lobste.rs/s/avdvvx/very_early_play_with_astral_s_red_knot) - [A Very (!) Early Play With Astral's Red Knot Static Type Checker](https://jurasofish.github.io/a-very-early-play-with-astrals-red-knot-static-type-checker.html)

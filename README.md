@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-26, 23:47:47](https://lobste.rs/s/j2ec2q/betteridge_s_law_software_engineering) - [Betteridge's Law of Software Engineering Specialness](https://buttondown.com/hillelwayne/archive/betteridges-law-of-software-engineering/)
 * [2025-03-26, 22:44:00](https://lobste.rs/s/b2yv9c/google_will_now_develop_android_os) - [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
 * [2025-03-26, 22:11:44](https://lobste.rs/s/9xkrhc/hyperlight_wasm_fast_secure_os_free) - [Hyperlight Wasm: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
-* [2025-03-26, 21:55:42](https://lobste.rs/s/avdvvx/very_early_play_with_astral_s_red_knot) - [A Very (!) Early Play With Astral's Red Knot Static Type Checker](https://jurasofish.github.io/a-very-early-play-with-astrals-red-knot-static-type-checker.html)
 * [2025-03-26, 21:13:47](https://lobste.rs/s/hhi7vb/commandments_reproducible_builds) - [Commandments of reproducible builds](https://reproducible-builds.org/docs/commandments/)
 * [2025-03-26, 19:45:07](https://lobste.rs/s/dygvyk/revisiting_css_border_image) - [Revisiting CSS border-image](https://css-tricks.com/revisiting-css-border-image/)
 * [2025-03-26, 19:22:16](https://lobste.rs/s/llixz2/blasting_past_webp) - [Blasting Past Webp](https://googleprojectzero.blogspot.com/2025/03/blasting-past-webp.html)
