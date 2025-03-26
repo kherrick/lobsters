@@ -1,12 +1,42 @@
 [
   [
     [
+      "2025-03-26, 14:01:50",
+      "https://lobste.rs/s/qmfk8h/peg_parsing_series"
+    ],
+    [
+      "PEG parsing series",
+      "https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 13:57:11",
+      "https://lobste.rs/s/ntn1jv/antirez_wants_make_redis_open_source"
+    ],
+    [
+      "antirez wants to make Redis open source, again",
+      "https://youtu.be/Q3PgpCzEnks"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 12:40:32",
       "https://lobste.rs/s/1huwaa/introduction_monoio_high_performance"
     ],
     [
       "Introduction to Monoio: A High-Performance Rust Runtime",
       "https://chesedo.me/blog/monoio-introduction/"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 10:35:55",
+      "https://lobste.rs/s/s9icdc/simplicity_global_mutable_values"
+    ],
+    [
+      "Simplicity and Global Mutable Values",
+      "https://jerf.org/iri/post/2025/fp_lessons_globals_bad/"
     ]
   ],
   [
@@ -81,26 +111,6 @@
   ],
   [
     [
-      "2025-03-25, 19:43:02",
-      "https://lobste.rs/s/z1uvb4/whose_code_am_i_running_github_actions"
-    ],
-    [
-      "Whose code am I running in GitHub Actions?",
-      "https://alexwlchan.net/2025/github-actions-audit/"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 18:28:34",
-      "https://lobste.rs/s/bjpaay/are_ai_agents_future_observability"
-    ],
-    [
-      "Are AI agents the future of observability?",
-      "https://xata.io/blog/are-ai-agents-the-future-of-observability"
-    ]
-  ],
-  [
-    [
       "2025-03-25, 17:41:57",
       "https://lobste.rs/s/k3wlns/role_developer_skills_agentic_coding"
     ],
@@ -167,16 +177,6 @@
     [
       "Open-sourcing OpenPubkey SSH",
       "https://github.com/openpubkey/openpubkey/pull/234"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 13:43:08",
-      "https://lobste.rs/s/zwcgil/practical_limitations_end_end"
-    ],
-    [
-      "The Practical Limitations of End-to-End Encryption",
-      "https://soatok.blog/2025/03/25/the-practical-limitations-of-end-to-end-encryption/"
     ]
   ],
   [
