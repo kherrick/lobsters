@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-26, 15:01:41](https://lobste.rs/s/lba9iq/ai_will_change_world_not_way_you_think) - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
+* [2025-03-26, 15:30:04](https://lobste.rs/s/5shsda/pushing_opam_repository_into) - [Pushing the opam-repository into a sustainable repository](https://blog.robur.coop/articles/2025-03-26-opam-repository-archive.html)
 * [2025-03-26, 14:28:43](https://lobste.rs/s/riiqce/what_s_new_neovim_0_11) - [What's New in Neovim 0.11](https://gpanders.com/blog/whats-new-in-neovim-0-11/)
 * [2025-03-26, 14:18:19](https://lobste.rs/s/zekdwq/pi_pico_rx_crystal_radio_for_digital_age) - [Pi Pico Rx - A crystal radio for the digital age?](https://101-things.readthedocs.io/en/latest/radio_receiver.html)
 * [2025-03-26, 14:01:50](https://lobste.rs/s/qmfk8h/peg_parsing_series) - [PEG parsing series](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
