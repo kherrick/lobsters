@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-26, 21:13:47",
+      "https://lobste.rs/s/hhi7vb/reproducible_builds"
+    ],
+    [
+      "Reproducible builds",
+      "https://reproducible-builds.org/docs/"
+    ]
+  ],
+  [
+    [
       "2025-03-26, 19:45:07",
       "https://lobste.rs/s/dygvyk/revisiting_css_border_image"
     ],
@@ -197,16 +207,6 @@
     [
       "Postel's Law and the Three Ring Circus",
       "https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 15:19:48",
-      "https://lobste.rs/s/lnjv1q/evolving_scala"
-    ],
-    [
-      "Evolving Scala",
-      "https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html"
     ]
   ],
   [
