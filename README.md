@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-26, 15:01:41](https://lobste.rs/s/lba9iq/ai_will_change_world_not_way_you_think) - [AI will change the world but not in the way you think](https://thomashunter.name/posts/2025-03-19-ai-llms-will-change-the-world)
 * [2025-03-26, 14:28:43](https://lobste.rs/s/riiqce/what_s_new_neovim_0_11) - [What's New in Neovim 0.11](https://gpanders.com/blog/whats-new-in-neovim-0-11/)
-* [2025-03-26, 14:26:47](https://lobste.rs/s/ash8uo/getting_started_with_tdd_practical_guide) - [Getting Started with TDD: A Practical Guide to Beginning a Lasting Practice](https://8thlight.com/insights/getting-started-tdd-practical-guide)
-* [2025-03-26, 14:20:57](https://lobste.rs/s/xgci6l/you_should_know_this_before_choosing_next) - [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
 * [2025-03-26, 14:18:19](https://lobste.rs/s/zekdwq/pi_pico_rx_crystal_radio_for_digital_age) - [Pi Pico Rx - A crystal radio for the digital age?](https://101-things.readthedocs.io/en/latest/radio_receiver.html)
+* [2025-03-26, 14:01:50](https://lobste.rs/s/qmfk8h/peg_parsing_series) - [PEG parsing series](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
 * [2025-03-26, 13:57:11](https://lobste.rs/s/ntn1jv/antirez_wants_make_redis_open_source) - [antirez wants to make Redis open source, again](https://youtu.be/Q3PgpCzEnks)
 * [2025-03-26, 12:40:32](https://lobste.rs/s/1huwaa/introduction_monoio_high_performance) - [Introduction to Monoio: A High-Performance Rust Runtime](https://chesedo.me/blog/monoio-introduction/)
 * [2025-03-26, 10:35:55](https://lobste.rs/s/s9icdc/simplicity_global_mutable_values) - [Simplicity and Global Mutable Values](https://jerf.org/iri/post/2025/fp_lessons_globals_bad/)
