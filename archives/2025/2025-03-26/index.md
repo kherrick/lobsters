@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 19:45:07](https://lobste.rs/s/dygvyk/revisiting_css_border_image) - [Revisiting CSS border-image](https://css-tricks.com/revisiting-css-border-image/)
 * [2025-03-26, 19:21:03](https://lobste.rs/s/b06j2a/problems_with_heap) - [Problems with the heap](https://rachelbythebay.com/w/2025/03/26/atop/)
 * [2025-03-26, 19:17:31](https://lobste.rs/s/mvlkdq/servo_vs_ladybird) - [Servo vs Ladybird](https://thelibre.news/servo-vs-ladybird/)
 * [2025-03-26, 18:54:30](https://lobste.rs/s/idrtqb/security_on_path_agi) - [Security on the path to AGI](https://openai.com/index/security-on-the-path-to-agi/)
