@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 12:40:32](https://lobste.rs/s/1huwaa/introduction_monoio_high_performance) - [Introduction to Monoio: A High-Performance Rust Runtime](https://chesedo.me/blog/monoio-introduction/)
 * [2025-03-26, 10:35:55](https://lobste.rs/s/s9icdc/simplicity_global_mutable_values) - [Simplicity and Global Mutable Values](https://jerf.org/iri/post/2025/fp_lessons_globals_bad/)
 * [2025-03-26, 05:26:54](https://lobste.rs/s/dkc0eq/kill_math_2011) - [Kill Math (2011)](https://worrydream.com/KillMath/)
 * [2025-03-26, 04:58:48](https://lobste.rs/s/seqpx7/what_is_plus_times_plus) - [What is plus times plus?](https://youtu.be/RcVA8Nj6HEo)
