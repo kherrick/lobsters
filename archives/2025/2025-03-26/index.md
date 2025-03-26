@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-26](index.md)
 
+* [2025-03-26, 05:26:54](https://lobste.rs/s/dkc0eq/kill_math_2011) - [Kill Math (2011)](https://worrydream.com/KillMath/)
 * [2025-03-26, 04:58:48](https://lobste.rs/s/seqpx7/what_is_plus_times_plus) - [What is plus times plus?](https://youtu.be/RcVA8Nj6HEo)
 * [2025-03-26, 04:34:11](https://lobste.rs/s/qpqrzb/shrink_your_go_binaries_with_this_one) - [Shrink your Go binaries with this one weird trick (2016)](https://words.filippo.io/shrink-your-go-binaries-with-this-one-weird-trick/)
 * [2025-03-26, 02:52:47](https://lobste.rs/s/ec6ro8/don_t_bring_slop_slop_fight) - [Don't bring slop to a slop fight](https://sethmlarson.dev/dont-bring-slop-to-a-slop-fight)
