@@ -1,7 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-26, 15:49:34](https://lobste.rs/s/mmujyu/up_running_with_jax_jit_compilation) - [Up and Running with JAX - JIT Compilation, Vectorizing Transformations and autodiff](https://www.jtrive.com/posts/intro-to-jax-part-1/intro-to-jax-part-1.html)
 * [2025-03-26, 15:30:04](https://lobste.rs/s/5shsda/pushing_opam_repository_into) - [Pushing the opam-repository into a sustainable repository](https://blog.robur.coop/articles/2025-03-26-opam-repository-archive.html)
 * [2025-03-26, 14:28:43](https://lobste.rs/s/riiqce/what_s_new_neovim_0_11) - [What's New in Neovim 0.11](https://gpanders.com/blog/whats-new-in-neovim-0-11/)
+* [2025-03-26, 14:20:57](https://lobste.rs/s/xgci6l/you_should_know_this_before_choosing_next) - [You should know this before choosing Next.js](https://eduardoboucas.com/posts/2025-03-25-you-should-know-this-before-choosing-nextjs/)
 * [2025-03-26, 14:18:19](https://lobste.rs/s/zekdwq/pi_pico_rx_crystal_radio_for_digital_age) - [Pi Pico Rx - A crystal radio for the digital age?](https://101-things.readthedocs.io/en/latest/radio_receiver.html)
 * [2025-03-26, 14:01:50](https://lobste.rs/s/qmfk8h/peg_parsing_series) - [PEG parsing series](https://medium.com/@gvanrossum_83706/peg-parsing-series-de5d41b2ed60)
 * [2025-03-26, 13:57:11](https://lobste.rs/s/ntn1jv/antirez_wants_make_redis_open_source) - [antirez wants to make Redis open source, again](https://youtu.be/Q3PgpCzEnks)
@@ -18,12 +20,10 @@
 * [2025-03-25, 15:19:48](https://lobste.rs/s/lnjv1q/evolving_scala) - [Evolving Scala](https://www.scala-lang.org/blog/2025/03/24/evolving-scala.html)
 * [2025-03-25, 15:07:48](https://lobste.rs/s/yt4eqa/land_ahoy_leaving_sea_nodes) - [Land ahoy: leaving the Sea of Nodes](https://v8.dev/blog/leaving-the-sea-of-nodes)
 * [2025-03-25, 14:59:49](https://lobste.rs/s/u9usfa/reactos_0_4_15_released) - [ReactOS 0.4.15 released](https://reactos.org/project-news/reactos-0415-released/)
-* [2025-03-25, 14:56:50](https://lobste.rs/s/7ruvmo/surreal_joy_having_overprovisioned) - [The surreal joy of having an overprovisioned homelab](https://xeiaso.net/talks/2025/surreal-joy-homelab/)
 * [2025-03-25, 12:33:07](https://lobste.rs/s/7hqdxx/debugger_is_repl_is_debugger) - [A Debugger is a REPL is a Debugger](https://matklad.github.io/2025/03/25/debugger-is-repl-is-debugger.html)
 * [2025-03-25, 12:29:30](https://lobste.rs/s/au3938/database_protocols_are_underwhelming) - [Database Protocols Are Underwhelming](https://byroot.github.io/performance/2025/03/21/database-protocols.html)
 * [2025-03-25, 12:01:58](https://lobste.rs/s/kjbpoh/better_shell_history_search) - [Better Shell History Search](https://tratt.net/laurie/blog/2025/better_shell_history_search.html)
 * [2025-03-25, 10:43:31](https://lobste.rs/s/7nkvua/beyond_traditional_pattern_matching) - [Beyond Traditional Pattern Matching in Lisp](https://github.com/naver/lispe/wiki/6.1-Pattern-Matching-in-LispE)
-* [2025-03-25, 09:58:23](https://lobste.rs/s/pi7xjh/closing_chapter_on_openh264) - [Closing the chapter on OpenH264](https://bbhtt.space/posts/closing-the-chapter-on-openh264/)
 * [2025-03-25, 02:33:34](https://lobste.rs/s/avwtt3/post_apocalyptic_computing) - [Post Apocalyptic Computing](https://thomashunter.name/posts/2025-03-23-post-apocalyptic-computing)
 
 ## [Archives](archives/index.md)
