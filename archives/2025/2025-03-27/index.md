@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 09:05:35](https://lobste.rs/s/pntonn/war_story_hardest_bug_i_ever_debugged) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
 * [2025-03-27, 07:27:03](https://lobste.rs/s/l9ohid/realtimekit_cpu_scheduling) - [RealtimeKit and CPU Scheduling](https://venam.net/blog/unix/2025/03/24/rtkit.html)
 * [2025-03-27, 07:10:58](https://lobste.rs/s/wnkazo/decent_auth_backend_auth_library_works) - [Decent-Auth:  backend auth library that works in several different languages via WASM](https://github.com/lastlogin-net/decent-auth)
 * [2025-03-27, 06:58:40](https://lobste.rs/s/knhzsd/oracle_customers_confirm_data_stolen) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
