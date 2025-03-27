@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-27, 20:13:54",
+      "https://lobste.rs/s/atew8r/shell_for_container_age_introducing"
+    ],
+    [
+      "A Shell for the Container Age: Introducing Dagger Shell - Dagger",
+      "https://dagger.io/blog/dagger-shell"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 19:36:39",
       "https://lobste.rs/s/oqbluo/roadmap_for_modern_plasma_login_manager"
     ],
@@ -227,16 +237,6 @@
     [
       "What's New in Neovim 0.11",
       "https://gpanders.com/blog/whats-new-in-neovim-0-11/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 13:57:11",
-      "https://lobste.rs/s/ntn1jv/antirez_wants_make_redis_open_source"
-    ],
-    [
-      "antirez wants to make Redis open source, again",
-      "https://youtu.be/Q3PgpCzEnks"
     ]
   ],
   [
