@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-27, 11:57:33",
+      "https://lobste.rs/s/vzpfuh/building_standardized_ai_tools_with"
+    ],
+    [
+      "Building Standardized AI Tools with the Model Context Protocol (MCP)",
+      "https://www.innoq.com/en/articles/2025/03/model-context-protocol/"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 11:45:47",
       "https://lobste.rs/s/gwczh4/elastic_bbq_better_binary_quantization"
     ],
@@ -97,16 +107,6 @@
     [
       "Hyperlight Wasm: Fast, secure, and OS-free",
       "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 21:55:42",
-      "https://lobste.rs/s/avdvvx/very_early_play_with_astral_s_red_knot"
-    ],
-    [
-      "A Very (!) Early Play With Astral's Red Knot Static Type Checker",
-      "https://jurasofish.github.io/a-very-early-play-with-astrals-red-knot-static-type-checker.html"
     ]
   ],
   [
