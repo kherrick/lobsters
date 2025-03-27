@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-27, 18:14:18](https://lobste.rs/s/aygeaq/atom_vs_rss) - [Atom vs. RSS](https://nullprogram.com/blog/2013/09/23/)
+* [2025-03-27, 18:14:18](https://lobste.rs/s/aygeaq/atom_vs_rss_2013) - [Atom vs. RSS (2013)](https://nullprogram.com/blog/2013/09/23/)
 * [2025-03-27, 17:37:44](https://lobste.rs/s/g8pxhy/things_go_wrong_with_disk_io) - [Things that go wrong with disk IO](https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html)
 * [2025-03-27, 16:24:49](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming) - [Tag Proposal: logicprogramming](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming)
 * [2025-03-27, 16:10:00](https://lobste.rs/s/2tfh34/spade_hardware_description_language) - [Spade, a hardware description language inspired by modern software languages](https://spade-lang.org/)
