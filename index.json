@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-27, 07:10:58",
+      "https://lobste.rs/s/wnkazo/decent_auth_backend_auth_library_works"
+    ],
+    [
+      "Decent-Auth:  backend auth library that works in several different languages via WASM",
+      "https://github.com/lastlogin-net/decent-auth"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 06:58:40",
       "https://lobste.rs/s/knhzsd/oracle_breached"
     ],
@@ -227,16 +237,6 @@
     [
       "You might want to stop running atop",
       "https://rachelbythebay.com/w/2025/03/25/atop/"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 15:07:48",
-      "https://lobste.rs/s/yt4eqa/land_ahoy_leaving_sea_nodes"
-    ],
-    [
-      "Land ahoy: leaving the Sea of Nodes",
-      "https://v8.dev/blog/leaving-the-sea-of-nodes"
     ]
   ],
   [
