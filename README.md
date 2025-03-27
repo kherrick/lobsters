@@ -9,7 +9,7 @@
 * [2025-03-27, 07:27:03](https://lobste.rs/s/l9ohid/realtimekit_cpu_scheduling) - [RealtimeKit and CPU Scheduling](https://venam.net/blog/unix/2025/03/24/rtkit.html)
 * [2025-03-27, 06:58:40](https://lobste.rs/s/knhzsd/oracle_customers_confirm_data_stolen) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [2025-03-27, 03:53:11](https://lobste.rs/s/knemhd/tunneling_corporate_firewalls_for) - [Tunneling corporate firewalls for developers](https://blog.frost.kiwi/tunneling-corporate-firewalls/)
-* [2025-03-27, 00:45:45](https://lobste.rs/s/rurjmx/european_union_creates_fedora_based) - [European Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
+* [2025-03-27, 00:45:45](https://lobste.rs/s/rurjmx/fedora_based_linux_distribution_marking) - [Fedora-based Linux distribution marking to EU public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
 * [2025-03-26, 22:44:00](https://lobste.rs/s/b2yv9c/google_will_now_develop_android_os) - [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
 * [2025-03-26, 22:11:44](https://lobste.rs/s/9xkrhc/hyperlight_wasm_fast_secure_os_free) - [Hyperlight Wasm: Fast, secure, and OS-free](https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/)
 * [2025-03-26, 19:45:07](https://lobste.rs/s/dygvyk/revisiting_css_border_image) - [Revisiting CSS border-image](https://css-tricks.com/revisiting-css-border-image/)
