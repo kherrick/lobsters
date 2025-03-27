@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-27, 07:27:03",
+      "https://lobste.rs/s/l9ohid/realtimekit_cpu_scheduling"
+    ],
+    [
+      "RealtimeKit and CPU Scheduling",
+      "https://venam.net/blog/unix/2025/03/24/rtkit.html"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 07:10:58",
       "https://lobste.rs/s/wnkazo/decent_auth_backend_auth_library_works"
     ],
@@ -12,10 +22,10 @@
   [
     [
       "2025-03-27, 06:58:40",
-      "https://lobste.rs/s/knhzsd/oracle_breached"
+      "https://lobste.rs/s/knhzsd/oracle_customers_confirm_data_stolen"
     ],
     [
-      "Oracle Breached",
+      "Oracle customers confirm data stolen in alleged cloud breach is valid",
       "https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "You might want to stop running atop",
       "https://rachelbythebay.com/w/2025/03/25/atop/"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 12:01:58",
-      "https://lobste.rs/s/kjbpoh/better_shell_history_search"
-    ],
-    [
-      "Better Shell History Search",
-      "https://tratt.net/laurie/blog/2025/better_shell_history_search.html"
     ]
   ]
 ]
