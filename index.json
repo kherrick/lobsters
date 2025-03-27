@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-03-27, 17:31:27",
+      "https://lobste.rs/s/9tmwpa/securix_nixos_based_secure_operating"
+    ],
+    [
+      "Sécurix, a NixOS-based secure operating system tailored for small to medium-sized teams",
+      "https://github.com/cloud-gouv/securix"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 17:06:35",
       "https://lobste.rs/s/vmf72f/ruby_central_s_oss_changelog_march_2025"
     ],
@@ -207,16 +217,6 @@
     [
       "Ferrous Systems Donates Ferrocene Language Specification to Rust Project",
       "https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 16:29:49",
-      "https://lobste.rs/s/pyvuuk/good_bye_core_types_hello_go_as_we_know_love"
-    ],
-    [
-      "Good-bye core types; Hello Go as we know and love it",
-      "https://go.dev/blog/coretypes"
     ]
   ],
   [
