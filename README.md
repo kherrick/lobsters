@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-27, 06:58:40](https://lobste.rs/s/knhzsd/oracle_breached) - [Oracle Breached](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [2025-03-27, 05:44:30](https://lobste.rs/s/6v626z/reasoning_by_analogy) - [Reasoning by Analogy](https://thoughtbot.com/blog/reasoning-by-analogy)
 * [2025-03-27, 03:53:11](https://lobste.rs/s/knemhd/tunneling_corporate_firewalls_for) - [Tunneling corporate firewalls for developers](https://blog.frost.kiwi/tunneling-corporate-firewalls/)
-* [2025-03-27, 02:47:26](https://lobste.rs/s/ikzacv/bevy_meetup_intermediate) - [Bevy Meetup - Intermediate Representations for Reactive Structures](https://www.youtube.com/watch?v=JeXOajFv8Dk)
 * [2025-03-27, 00:45:45](https://lobste.rs/s/rurjmx/european_union_creates_fedora_based) - [European Union creates Fedora-based Linux distribution for the public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
 * [2025-03-27, 00:20:27](https://lobste.rs/s/lyifc7/matrix_profiles) - [Matrix Profiles](https://aneksteind.github.io/posts/2025-03-26.html)
 * [2025-03-26, 22:44:00](https://lobste.rs/s/b2yv9c/google_will_now_develop_android_os) - [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)

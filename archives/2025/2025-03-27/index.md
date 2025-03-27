@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 06:58:40](https://lobste.rs/s/knhzsd/oracle_breached) - [Oracle Breached](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [2025-03-27, 05:44:30](https://lobste.rs/s/6v626z/reasoning_by_analogy) - [Reasoning by Analogy](https://thoughtbot.com/blog/reasoning-by-analogy)
 * [2025-03-27, 03:53:11](https://lobste.rs/s/knemhd/tunneling_corporate_firewalls_for) - [Tunneling corporate firewalls for developers](https://blog.frost.kiwi/tunneling-corporate-firewalls/)
 * [2025-03-27, 02:47:26](https://lobste.rs/s/ikzacv/bevy_meetup_intermediate) - [Bevy Meetup - Intermediate Representations for Reactive Structures](https://www.youtube.com/watch?v=JeXOajFv8Dk)
