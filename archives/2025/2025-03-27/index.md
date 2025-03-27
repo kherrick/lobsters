@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 16:42:57](https://lobste.rs/s/6ngygp/pile_eternal_rejections_cost_garbage) - [Pile of Eternal Rejections: The Cost of Garbage Collection for State Machine Replication – Aleksey Charapko](https://charap.co/pile-of-eternal-rejections-the-cost-of-garbage-collection-for-state-machine-replication/)
 * [2025-03-27, 16:10:00](https://lobste.rs/s/2tfh34/spade_hardware_description_language) - [Spade, a hardware description language inspired by modern software languages](https://spade-lang.org/)
 * [2025-03-27, 15:26:13](https://lobste.rs/s/czhpip/normal_engineers_are_key_great_teams) - [“Normal” engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)
 * [2025-03-27, 15:17:40](https://lobste.rs/s/ztrpkk/piranesi_s_perspective_trick) - [Piranesi’s Perspective Trick](https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9)
