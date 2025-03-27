@@ -4,7 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 07:27:03](https://lobste.rs/s/l9ohid/realtimekit_cpu_scheduling) - [RealtimeKit and CPU Scheduling](https://venam.net/blog/unix/2025/03/24/rtkit.html)
 * [2025-03-27, 07:10:58](https://lobste.rs/s/wnkazo/decent_auth_backend_auth_library_works) - [Decent-Auth:  backend auth library that works in several different languages via WASM](https://github.com/lastlogin-net/decent-auth)
+* [2025-03-27, 06:58:40](https://lobste.rs/s/knhzsd/oracle_customers_confirm_data_stolen) - [Oracle customers confirm data stolen in alleged cloud breach is valid](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [2025-03-27, 06:58:40](https://lobste.rs/s/knhzsd/oracle_breached) - [Oracle Breached](https://www.bleepingcomputer.com/news/security/oracle-customers-confirm-data-stolen-in-alleged-cloud-breach-is-valid/)
 * [2025-03-27, 05:44:30](https://lobste.rs/s/6v626z/reasoning_by_analogy) - [Reasoning by Analogy](https://thoughtbot.com/blog/reasoning-by-analogy)
 * [2025-03-27, 03:53:11](https://lobste.rs/s/knemhd/tunneling_corporate_firewalls_for) - [Tunneling corporate firewalls for developers](https://blog.frost.kiwi/tunneling-corporate-firewalls/)
