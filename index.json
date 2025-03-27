@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-03-26, 23:47:47",
-      "https://lobste.rs/s/j2ec2q/betteridge_s_law_software_engineering"
+      "2025-03-27, 00:45:45",
+      "https://lobste.rs/s/rurjmx/europen_union_creates_fedora_based_linux"
     ],
     [
-      "Betteridge's Law of Software Engineering Specialness",
-      "https://buttondown.com/hillelwayne/archive/betteridges-law-of-software-engineering/"
+      "Europen Union creates Fedora-based Linux distribution for the public sector",
+      "https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 00:20:27",
+      "https://lobste.rs/s/lyifc7/matrix_profiles"
+    ],
+    [
+      "Matrix Profiles",
+      "https://aneksteind.github.io/posts/2025-03-26.html"
     ]
   ],
   [
@@ -27,6 +37,16 @@
     [
       "Hyperlight Wasm: Fast, secure, and OS-free",
       "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/"
+    ]
+  ],
+  [
+    [
+      "2025-03-26, 21:55:42",
+      "https://lobste.rs/s/avdvvx/very_early_play_with_astral_s_red_knot"
+    ],
+    [
+      "A Very (!) Early Play With Astral's Red Knot Static Type Checker",
+      "https://jurasofish.github.io/a-very-early-play-with-astrals-red-knot-static-type-checker.html"
     ]
   ],
   [
@@ -201,32 +221,12 @@
   ],
   [
     [
-      "2025-03-26, 01:36:17",
-      "https://lobste.rs/s/zz4xfn/opensmtpd_maildrop_working_concert"
-    ],
-    [
-      "OpenSMTPD & Maildrop working in concert",
-      "http://blog.whenhen.com/posts/opensmtpd-and-maildrop-working-in-concert.html"
-    ]
-  ],
-  [
-    [
       "2025-03-26, 00:32:28",
       "https://lobste.rs/s/jaxxly/you_might_want_stop_running_atop"
     ],
     [
       "You might want to stop running atop",
       "https://rachelbythebay.com/w/2025/03/25/atop/"
-    ]
-  ],
-  [
-    [
-      "2025-03-25, 23:31:55",
-      "https://lobste.rs/s/gcz5e2/postel_s_law_three_ring_circus"
-    ],
-    [
-      "Postel's Law and the Three Ring Circus",
-      "https://alexgaynor.net/2025/mar/25/postels-law-and-the-three-ring-circus/"
     ]
   ],
   [
