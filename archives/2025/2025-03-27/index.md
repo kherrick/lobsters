@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 17:31:27](https://lobste.rs/s/9tmwpa/securix_nixos_based_secure_operating) - [Sécurix, a NixOS-based secure operating system tailored for small to medium-sized teams](https://github.com/cloud-gouv/securix)
 * [2025-03-27, 17:20:31](https://lobste.rs/s/wsyz6c/oscura_vim_colorscheme_new_variant) - [Oscura Vim Colorscheme – New Variant & Improvements](https://lobste.rs/s/wsyz6c/oscura_vim_colorscheme_new_variant)
 * [2025-03-27, 17:06:35](https://lobste.rs/s/vmf72f/ruby_central_s_oss_changelog_march_2025) - [Ruby Central's OSS Changelog: March 2025](https://rubycentral.org/news/ruby-centrals-oss-changelog-march-2025/)
 * [2025-03-27, 16:42:57](https://lobste.rs/s/6ngygp/pile_eternal_rejections_cost_garbage) - [Pile of Eternal Rejections: The Cost of Garbage Collection for State Machine Replication – Aleksey Charapko](https://charap.co/pile-of-eternal-rejections-the-cost-of-garbage-collection-for-state-machine-replication/)
