@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 11:57:33](https://lobste.rs/s/vzpfuh/building_standardized_ai_tools_with) - [Building Standardized AI Tools with the Model Context Protocol (MCP)](https://www.innoq.com/en/articles/2025/03/model-context-protocol/)
 * [2025-03-27, 11:45:47](https://lobste.rs/s/gwczh4/elastic_bbq_better_binary_quantization) - [Elastic BBQ: Better Binary Quantization in Lucene & Elasticsearch](https://www.elastic.co/search-labs/blog/better-binary-quantization-lucene-elasticsearch)
 * [2025-03-27, 10:37:50](https://lobste.rs/s/7bjnli/writing_useful_documentation) - [Writing Useful Documentation](https://www.blog.philodev.one/posts/2024-07-writing-documentation/)
 * [2025-03-27, 09:50:25](https://lobste.rs/s/ye8vcd/prepare_ing_for_execution_new_api_for) - [prepare()-ing for execution: a new API for process creation](https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee)
