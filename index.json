@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-27, 13:26:01",
+      "https://lobste.rs/s/youq7y/how_write_blog_posts_developers_read"
+    ],
+    [
+      "How to Write Blog Posts that Developers Read",
+      "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
+    ]
+  ],
+  [
+    [
       "2025-03-27, 11:57:33",
       "https://lobste.rs/s/vzpfuh/building_standardized_ai_tools_with"
     ],
@@ -107,16 +117,6 @@
     [
       "Hyperlight Wasm: Fast, secure, and OS-free",
       "https://opensource.microsoft.com/blog/2025/03/26/hyperlight-wasm-fast-secure-and-os-free/"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 21:13:47",
-      "https://lobste.rs/s/hhi7vb/commandments_reproducible_builds"
-    ],
-    [
-      "Commandments of reproducible builds",
-      "https://reproducible-builds.org/docs/commandments/"
     ]
   ],
   [
