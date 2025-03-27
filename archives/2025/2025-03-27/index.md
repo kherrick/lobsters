@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 14:36:56](https://lobste.rs/s/097jkb/why_anthropic_s_claude_still_hasn_t_beaten) - [Why Anthropic’s Claude still hasn’t beaten Pokémon](https://arstechnica.com/ai/2025/03/why-anthropics-claude-still-hasnt-beaten-pokemon/)
 * [2025-03-27, 13:26:01](https://lobste.rs/s/youq7y/how_write_blog_posts_developers_read) - [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
 * [2025-03-27, 11:57:33](https://lobste.rs/s/vzpfuh/building_standardized_ai_tools_with) - [Building Standardized AI Tools with the Model Context Protocol (MCP)](https://www.innoq.com/en/articles/2025/03/model-context-protocol/)
 * [2025-03-27, 11:45:47](https://lobste.rs/s/gwczh4/elastic_bbq_better_binary_quantization) - [Elastic BBQ: Better Binary Quantization in Lucene & Elasticsearch](https://www.elastic.co/search-labs/blog/better-binary-quantization-lucene-elasticsearch)
