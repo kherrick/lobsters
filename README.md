@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-27, 17:06:35](https://lobste.rs/s/vmf72f/ruby_central_s_oss_changelog_march_2025) - [Ruby Central's OSS Changelog: March 2025](https://rubycentral.org/news/ruby-centrals-oss-changelog-march-2025/)
+* [2025-03-27, 17:20:31](https://lobste.rs/s/wsyz6c/oscura_vim_colorscheme_new_variant) - [Oscura Vim Colorscheme – New Variant & Improvements](https://lobste.rs/s/wsyz6c/oscura_vim_colorscheme_new_variant)
 * [2025-03-27, 16:24:49](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming) - [Tag Proposal: logicprogramming](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming)
 * [2025-03-27, 16:10:00](https://lobste.rs/s/2tfh34/spade_hardware_description_language) - [Spade, a hardware description language inspired by modern software languages](https://spade-lang.org/)
 * [2025-03-27, 15:26:13](https://lobste.rs/s/czhpip/normal_engineers_are_key_great_teams) - [“Normal” engineers are the key to great teams](https://spectrum.ieee.org/10x-engineer)

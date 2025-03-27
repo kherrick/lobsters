@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-27](index.md)
 
+* [2025-03-27, 17:20:31](https://lobste.rs/s/wsyz6c/oscura_vim_colorscheme_new_variant) - [Oscura Vim Colorscheme – New Variant & Improvements](https://lobste.rs/s/wsyz6c/oscura_vim_colorscheme_new_variant)
 * [2025-03-27, 17:06:35](https://lobste.rs/s/vmf72f/ruby_central_s_oss_changelog_march_2025) - [Ruby Central's OSS Changelog: March 2025](https://rubycentral.org/news/ruby-centrals-oss-changelog-march-2025/)
 * [2025-03-27, 16:42:57](https://lobste.rs/s/6ngygp/pile_eternal_rejections_cost_garbage) - [Pile of Eternal Rejections: The Cost of Garbage Collection for State Machine Replication – Aleksey Charapko](https://charap.co/pile-of-eternal-rejections-the-cost-of-garbage-collection-for-state-machine-replication/)
 * [2025-03-27, 16:24:49](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming) - [Tag Proposal: logicprogramming](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming)
