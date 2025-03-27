@@ -6,7 +6,6 @@
 * [2025-03-27, 19:04:36](https://lobste.rs/s/m9x2ka/oss_sec_three_bypasses_ubuntu_s) - [oss-sec: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253)
 * [2025-03-27, 18:14:18](https://lobste.rs/s/aygeaq/atom_vs_rss_2013) - [Atom vs. RSS (2013)](https://nullprogram.com/blog/2013/09/23/)
 * [2025-03-27, 17:37:44](https://lobste.rs/s/g8pxhy/things_go_wrong_with_disk_io) - [Things that go wrong with disk IO](https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html)
-* [2025-03-27, 17:31:27](https://lobste.rs/s/9tmwpa/securix_nixos_based_secure_operating) - [Sécurix, a NixOS-based secure operating system tailored for small to medium-sized teams](https://github.com/cloud-gouv/securix)
 * [2025-03-27, 16:42:57](https://lobste.rs/s/6ngygp/pile_eternal_rejections_cost_garbage) - [Pile of Eternal Rejections: The Cost of Garbage Collection for State Machine Replication – Aleksey Charapko](https://charap.co/pile-of-eternal-rejections-the-cost-of-garbage-collection-for-state-machine-replication/)
 * [2025-03-27, 16:24:49](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming) - [Tag Proposal: logicprogramming](https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming)
 * [2025-03-27, 16:10:00](https://lobste.rs/s/2tfh34/spade_hardware_description_language) - [Spade, a hardware description language inspired by modern software languages](https://spade-lang.org/)
@@ -24,6 +23,7 @@
 * [2025-03-26, 19:17:31](https://lobste.rs/s/mvlkdq/servo_vs_ladybird) - [Servo vs Ladybird](https://thelibre.news/servo-vs-ladybird/)
 * [2025-03-26, 16:50:47](https://lobste.rs/s/tzqlyn/ferrous_systems_donates_ferrocene) - [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/)
 * [2025-03-26, 14:28:43](https://lobste.rs/s/riiqce/what_s_new_neovim_0_11) - [What's New in Neovim 0.11](https://gpanders.com/blog/whats-new-in-neovim-0-11/)
+* [2025-03-26, 13:57:11](https://lobste.rs/s/ntn1jv/antirez_wants_make_redis_open_source) - [antirez wants to make Redis open source, again](https://youtu.be/Q3PgpCzEnks)
 * [2025-03-26, 12:40:32](https://lobste.rs/s/1huwaa/introduction_monoio_high_performance) - [Introduction to Monoio: A High-Performance Rust Runtime](https://chesedo.me/blog/monoio-introduction/)
 
 ## [Archives](archives/index.md)
