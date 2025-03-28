@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-03-28, 14:29:32",
+      "https://lobste.rs/s/zjrctq/problem_with_ool_is_not_oo_2009"
+    ],
+    [
+      "The problem with OOL is not the OO (2009)",
+      "https://www.rebol.com/article/0425.html"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 14:09:51",
       "https://lobste.rs/s/va0h3b/building_statically_linked_go"
     ],
@@ -67,16 +77,6 @@
     [
       "Benchmarking a distribution (and some -O3 results)",
       "https://discourse.ubuntu.com/t/benchmarking-a-distribution-and-some-o3-results/58027"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 11:50:51",
-      "https://lobste.rs/s/7gswhq/calculate_throughput_with_llvm_s"
-    ],
-    [
-      "Calculate Throughput with LLVM's Scheduling Model",
-      "https://myhsu.xyz/llvm-sched-interval-throughput/"
     ]
   ],
   [
