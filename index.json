@@ -71,16 +71,6 @@
   ],
   [
     [
-      "2025-03-28, 00:08:28",
-      "https://lobste.rs/s/imobus/operationalizing_macaroons"
-    ],
-    [
-      "Operationalizing Macaroons",
-      "https://fly.io/blog/operationalizing-macaroons/"
-    ]
-  ],
-  [
-    [
       "2025-03-28, 00:00:16",
       "https://lobste.rs/s/xfojey/sjs_static_aot_compiler_for_subset"
     ],
@@ -97,6 +87,16 @@
     [
       "Take this on-call rotation and shove it",
       "https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/"
+    ]
+  ],
+  [
+    [
+      "2025-03-27, 20:13:54",
+      "https://lobste.rs/s/atew8r/shell_for_container_age_introducing"
+    ],
+    [
+      "A Shell for the Container Age: Introducing Dagger Shell - Dagger",
+      "https://dagger.io/blog/dagger-shell"
     ]
   ],
   [
