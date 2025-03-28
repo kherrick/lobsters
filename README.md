@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-28, 20:49:31](https://lobste.rs/s/ejszpl/caelum_hyper_functional_programming) - [Caelum, the hyper-functional programming language](https://www.youtube.com/watch?v=nvVbY6JSlHY)
 * [2025-03-28, 20:22:47](https://lobste.rs/s/zpnypl/colonel_s_bequest_case_cracked) - [The Colonel’s Bequest – Case Cracked](https://www.benshoof.org/blog/case-cracked)
 * [2025-03-28, 20:03:13](https://lobste.rs/s/mmxm3v/github_has_gone_long_live_forgejo) - [GitHub has gone - long live Forgejo](https://mastodon.social/@organicmaps/114233788700982882)
 * [2025-03-28, 19:41:55](https://lobste.rs/s/gldsdm/ode_game_boy_advance) - [An Ode To The Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
 * [2025-03-28, 17:23:33](https://lobste.rs/s/uov26c/can_jank_beat_clojure_s_error_reporting) - [Can jank beat Clojure's error reporting?](https://jank-lang.org/blog/2025-03-28-error-reporting/)
 * [2025-03-28, 15:06:22](https://lobste.rs/s/u07ssx/terrible_horrible_no_good_very_bad_python) - [Terrible Horrible No Good Very Bad Python](https://jyn.dev/terrible-horrible-no-good-very-bad-python/)
-* [2025-03-28, 14:49:31](https://lobste.rs/s/ccgj9j/intro_alpine_js_javascript_framework_for) - [Intro to Alpine.js: A JavaScript framework for minimalists](https://www.infoworld.com/article/2337630/intro-to-alpinejs-a-javascript-framework-for-minimalists.html)
 * [2025-03-28, 14:45:23](https://lobste.rs/s/jyqgmq/handling_form_errors_htmx) - [Handling form errors in htmx](https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg)
 * [2025-03-28, 14:29:32](https://lobste.rs/s/zjrctq/problem_with_ool_is_not_oo_2009) - [The problem with OOL is not the OO (2009)](https://www.rebol.com/article/0425.html)
 * [2025-03-28, 14:09:51](https://lobste.rs/s/va0h3b/building_statically_linked_go) - [Building Statically Linked Go Executables with CGO and Zig](https://calabro.io/zig-cgo)
