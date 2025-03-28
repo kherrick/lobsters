@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-28, 13:49:02",
+      "https://lobste.rs/s/816nbi/compress_better_compute_bigger"
+    ],
+    [
+      "Compress Better, Compute Bigger",
+      "https://ironarray.io/blog/compute-bigger"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 13:35:16",
       "https://lobste.rs/s/dfjcom/data_demand_some_damn_respect"
     ],
@@ -237,16 +247,6 @@
     [
       "War story: the hardest bug I ever debugged",
       "https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever"
-    ]
-  ],
-  [
-    [
-      "2025-03-26, 16:50:47",
-      "https://lobste.rs/s/tzqlyn/ferrous_systems_donates_ferrocene"
-    ],
-    [
-      "Ferrous Systems Donates Ferrocene Language Specification to Rust Project",
-      "https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/"
     ]
   ]
 ]
