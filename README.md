@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-03-28, 20:49:31](https://lobste.rs/s/ejszpl/caelum_hyper_functional_programming) - [Caelum, the hyper-functional programming language](https://www.youtube.com/watch?v=nvVbY6JSlHY)
+* [2025-03-28, 20:27:15](https://lobste.rs/s/yyitxy/introducing_swiftly_1_0) - [Introducing swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
 * [2025-03-28, 20:22:47](https://lobste.rs/s/zpnypl/colonel_s_bequest_case_cracked) - [The Colonel’s Bequest – Case Cracked](https://www.benshoof.org/blog/case-cracked)
 * [2025-03-28, 20:03:13](https://lobste.rs/s/mmxm3v/github_has_gone_long_live_forgejo) - [GitHub has gone - long live Forgejo](https://mastodon.social/@organicmaps/114233788700982882)
 * [2025-03-28, 19:41:55](https://lobste.rs/s/gldsdm/ode_game_boy_advance) - [An Ode To The Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
@@ -12,7 +13,6 @@
 * [2025-03-28, 13:49:02](https://lobste.rs/s/816nbi/compress_better_compute_bigger) - [Compress Better, Compute Bigger](https://ironarray.io/blog/compute-bigger)
 * [2025-03-28, 13:35:16](https://lobste.rs/s/dfjcom/data_demand_some_damn_respect) - [Data demand some damn respect](https://taylor.town/flat-scraps-002)
 * [2025-03-28, 12:42:41](https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend)
-* [2025-03-28, 11:24:10](https://lobste.rs/s/gvz2wn/let_s_take_look_at_jep_483_ahead_time_class) - [Let's Take a Look at... JEP 483: Ahead-of-Time Class Loading & Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
 * [2025-03-28, 11:17:35](https://lobste.rs/s/ej4ps3/safeishly_use_non_reentrant_libraries) - [Safeishly use non-reentrant libraries with POSIX threads](https://git.sr.ht/~runxiyu/dlcage)
 * [2025-03-28, 10:26:26](https://lobste.rs/s/i3ya4n/apple_needs_snow_sequoia) - [Apple Needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 * [2025-03-28, 06:54:03](https://lobste.rs/s/ment9k/xee_modern_xpath_xslt_engine_rust) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
