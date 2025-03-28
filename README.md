@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-28, 13:35:16](https://lobste.rs/s/dfjcom/data_demand_some_damn_respect) - [Data demand some damn respect](https://taylor.town/flat-scraps-002)
 * [2025-03-28, 12:42:41](https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend)
 * [2025-03-28, 12:19:32](https://lobste.rs/s/flbzsd/benchmarking_distribution_some_o3) - [Benchmarking a distribution (and some -O3 results)](https://discourse.ubuntu.com/t/benchmarking-a-distribution-and-some-o3-results/58027)
 * [2025-03-28, 11:50:51](https://lobste.rs/s/7gswhq/calculate_throughput_with_llvm_s) - [Calculate Throughput with LLVM's Scheduling Model](https://myhsu.xyz/llvm-sched-interval-throughput/)
@@ -23,7 +24,6 @@
 * [2025-03-27, 13:26:01](https://lobste.rs/s/youq7y/how_write_blog_posts_developers_read) - [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
 * [2025-03-27, 09:50:25](https://lobste.rs/s/ye8vcd/prepare_ing_for_execution_new_api_for) - [prepare()-ing for execution: a new API for process creation](https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee)
 * [2025-03-27, 09:05:35](https://lobste.rs/s/pntonn/war_story_hardest_bug_i_ever_debugged) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
-* [2025-03-26, 22:44:00](https://lobste.rs/s/b2yv9c/google_will_now_develop_android_os) - [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
 * [2025-03-26, 16:50:47](https://lobste.rs/s/tzqlyn/ferrous_systems_donates_ferrocene) - [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/)
 
 ## [Archives](archives/index.md)
