@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-28, 22:34:46",
+      "https://lobste.rs/s/dq7p95/rust_is_indeed_woke"
+    ],
+    [
+      "Rust is indeed woke",
+      "https://diziet.dreamwidth.org/19480.html"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 20:49:31",
       "https://lobste.rs/s/ejszpl/caelum_hyper_functional_programming"
     ],
@@ -32,10 +42,10 @@
   [
     [
       "2025-03-28, 20:03:13",
-      "https://lobste.rs/s/mmxm3v/github_has_gone_long_live_forgejo"
+      "https://lobste.rs/s/mmxm3v/organic_maps_github_has_gone_long_live"
     ],
     [
-      "GitHub has gone - long live Forgejo",
+      "Organic Maps: GitHub has gone - long live Forgejo",
       "https://mastodon.social/@organicmaps/114233788700982882"
     ]
   ],
@@ -237,16 +247,6 @@
     [
       "How to Write Blog Posts that Developers Read",
       "https://refactoringenglish.com/chapters/write-blog-posts-developers-read/"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 09:50:25",
-      "https://lobste.rs/s/ye8vcd/prepare_ing_for_execution_new_api_for"
-    ],
-    [
-      "prepare()-ing for execution: a new API for process creation",
-      "https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee"
     ]
   ]
 ]
