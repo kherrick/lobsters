@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-28, 20:27:15",
+      "https://lobste.rs/s/yyitxy/introducing_swiftly_1_0"
+    ],
+    [
+      "Introducing swiftly 1.0",
+      "https://swift.org/blog/introducing-swiftly_10/"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 20:03:13",
       "https://lobste.rs/s/mmxm3v/github_has_gone_long_live_forgejo"
     ],
@@ -37,6 +47,16 @@
     [
       "Terrible Horrible No Good Very Bad Python",
       "https://jyn.dev/terrible-horrible-no-good-very-bad-python/"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 14:49:31",
+      "https://lobste.rs/s/ccgj9j/intro_alpine_js_javascript_framework_for"
+    ],
+    [
+      "Intro to Alpine.js: A JavaScript framework for minimalists",
+      "https://www.infoworld.com/article/2337630/intro-to-alpinejs-a-javascript-framework-for-minimalists.html"
     ]
   ],
   [
@@ -211,16 +231,6 @@
   ],
   [
     [
-      "2025-03-27, 15:17:40",
-      "https://lobste.rs/s/ztrpkk/piranesi_s_perspective_trick"
-    ],
-    [
-      "Piranesi’s Perspective Trick",
-      "https://medium.com/@brunopostle/piranesis-perspective-trick-6bcd7a754da9"
-    ]
-  ],
-  [
-    [
       "2025-03-27, 13:26:01",
       "https://lobste.rs/s/youq7y/how_write_blog_posts_developers_read"
     ],
@@ -237,16 +247,6 @@
     [
       "prepare()-ing for execution: a new API for process creation",
       "https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 09:05:35",
-      "https://lobste.rs/s/pntonn/war_story_hardest_bug_i_ever_debugged"
-    ],
-    [
-      "War story: the hardest bug I ever debugged",
-      "https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever"
     ]
   ]
 ]
