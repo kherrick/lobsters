@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 20:03:13](https://lobste.rs/s/mmxm3v/github_has_gone_long_live_forgejo) - [GitHub has gone - long live Forgejo](https://mastodon.social/@organicmaps/114233788700982882)
 * [2025-03-28, 19:41:55](https://lobste.rs/s/gldsdm/ode_game_boy_advance) - [An Ode To The Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
 * [2025-03-28, 18:12:00](https://lobste.rs/s/nxvm2v/right_kind_stubborn) - [The Right Kind of Stubborn](https://www.paulgraham.com/persistence.html)
 * [2025-03-28, 17:46:12](https://lobste.rs/s/tgbfli/2024_s_hottest_topics_databases) - [2024's hottest topics in databases (a bibliometric approach)](https://rmarcus.info/blog/2025/03/28/hottest-db-topics.html)
