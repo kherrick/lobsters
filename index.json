@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-28, 14:29:32",
+      "https://lobste.rs/s/zjrctq/problem_with_ool_is_not_oo_2009"
+    ],
+    [
+      "The problem with OOL is not the OO (2009)",
+      "https://www.rebol.com/article/0425.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 14:09:51",
+      "https://lobste.rs/s/va0h3b/building_statically_linked_go"
+    ],
+    [
+      "Building Statically Linked Go Executables with CGO and Zig",
+      "https://calabro.io/zig-cgo"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 13:49:02",
       "https://lobste.rs/s/816nbi/compress_better_compute_bigger"
     ],
@@ -121,16 +141,6 @@
   ],
   [
     [
-      "2025-03-28, 00:00:16",
-      "https://lobste.rs/s/xfojey/sjs_static_aot_compiler_for_subset"
-    ],
-    [
-      "SJS: a static AOT compiler for a subset of JavaScript (2016)",
-      "https://github.com/Samsung/SJS"
-    ]
-  ],
-  [
-    [
       "2025-03-27, 23:58:05",
       "https://lobste.rs/s/ki4dkb/take_this_on_call_rotation_shove_it"
     ],
@@ -177,16 +187,6 @@
     [
       "Things that go wrong with disk IO",
       "https://notes.eatonphil.com/2025-03-27-things-that-go-wrong-with-disk-io.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 16:24:49",
-      "https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming"
-    ],
-    [
-      "Tag Proposal: logicprogramming",
-      "https://lobste.rs/s/69ct0v/tag_proposal_logicprogramming"
     ]
   ],
   [
