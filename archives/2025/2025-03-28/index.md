@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 23:55:49](https://lobste.rs/s/2qafif/learn_css_layout_pedantic_way) - [Learn CSS Layout The Pedantic Way](https://book.mixu.net/css/)
 * [2025-03-28, 22:34:46](https://lobste.rs/s/dq7p95/rust_is_indeed_woke) - [Rust is indeed woke](https://diziet.dreamwidth.org/19480.html)
 * [2025-03-28, 20:49:31](https://lobste.rs/s/ejszpl/caelum_hyper_functional_programming) - [Caelum, the hyper-functional programming language](https://www.youtube.com/watch?v=nvVbY6JSlHY)
 * [2025-03-28, 20:27:15](https://lobste.rs/s/yyitxy/introducing_swiftly_1_0) - [Introducing swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
