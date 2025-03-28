@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-28, 11:24:10](https://lobste.rs/s/gvz2wn/let_s_take_look_at_jep_483_ahead_time_class) - [Let's Take a Look at... JEP 483: Ahead-of-Time Class Loading & Linking](https://www.morling.dev/blog/jep-483-aot-class-loading-linking/)
+* [2025-03-28, 11:17:35](https://lobste.rs/s/ej4ps3/safeishly_use_non_reentrant_libraries) - [Safeishly use non-reentrant libraries with POSIX threads](https://git.sr.ht/~runxiyu/dlcage)
 * [2025-03-28, 10:26:26](https://lobste.rs/s/i3ya4n/apple_needs_snow_sequoia) - [Apple Needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 * [2025-03-28, 06:54:03](https://lobste.rs/s/ment9k/xee_modern_xpath_xslt_engine_rust) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-28, 03:20:28](https://lobste.rs/s/qqvrip/way_we_re_thinking_about_breaking_changes) - [The way we're thinking about breaking changes is really silly](https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/)
@@ -8,7 +10,6 @@
 * [2025-03-28, 00:08:28](https://lobste.rs/s/imobus/operationalizing_macaroons) - [Operationalizing Macaroons](https://fly.io/blog/operationalizing-macaroons/)
 * [2025-03-28, 00:00:16](https://lobste.rs/s/xfojey/sjs_static_aot_compiler_for_subset) - [SJS: a static AOT compiler for a subset of JavaScript (2016)](https://github.com/Samsung/SJS)
 * [2025-03-27, 23:58:05](https://lobste.rs/s/ki4dkb/take_this_on_call_rotation_shove_it) - [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
-* [2025-03-27, 20:13:54](https://lobste.rs/s/atew8r/shell_for_container_age_introducing) - [A Shell for the Container Age: Introducing Dagger Shell - Dagger](https://dagger.io/blog/dagger-shell)
 * [2025-03-27, 19:36:39](https://lobste.rs/s/oqbluo/roadmap_for_modern_plasma_login_manager) - [A Roadmap for a modern Plasma Login Manager](https://blog.davidedmundson.co.uk/blog/a-roadmap-for-a-modern-plasma-login-manager/)
 * [2025-03-27, 19:06:54](https://lobste.rs/s/c0ezfx/open_letter_meta_support_true_messaging) - [Open Letter to Meta: Support True Messaging Interoperability with XMPP](https://xmpp.org/announcements/open-letter-meta-dma/)
 * [2025-03-27, 19:04:36](https://lobste.rs/s/m9x2ka/oss_sec_three_bypasses_ubuntu_s) - [oss-sec: Three bypasses of Ubuntu's unprivileged user namespace restrictions](https://seclists.org/oss-sec/2025/q1/253)
@@ -21,7 +22,6 @@
 * [2025-03-27, 13:26:01](https://lobste.rs/s/youq7y/how_write_blog_posts_developers_read) - [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
 * [2025-03-27, 09:50:25](https://lobste.rs/s/ye8vcd/prepare_ing_for_execution_new_api_for) - [prepare()-ing for execution: a new API for process creation](https://gist.github.com/clausecker/721cda7172b82c179032859f3216a8ee)
 * [2025-03-27, 09:05:35](https://lobste.rs/s/pntonn/war_story_hardest_bug_i_ever_debugged) - [War story: the hardest bug I ever debugged](https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever)
-* [2025-03-27, 00:45:45](https://lobste.rs/s/rurjmx/fedora_based_linux_distribution_marking) - [Fedora-based Linux distribution marking to EU public sector](https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe)
 * [2025-03-26, 22:44:00](https://lobste.rs/s/b2yv9c/google_will_now_develop_android_os) - [Google will now develop the Android OS in private](https://www.androidauthority.com/google-android-development-aosp-3538503/)
 * [2025-03-26, 19:17:31](https://lobste.rs/s/mvlkdq/servo_vs_ladybird) - [Servo vs Ladybird](https://thelibre.news/servo-vs-ladybird/)
 * [2025-03-26, 16:50:47](https://lobste.rs/s/tzqlyn/ferrous_systems_donates_ferrocene) - [Ferrous Systems Donates Ferrocene Language Specification to Rust Project](https://rustfoundation.org/media/ferrous-systems-donates-ferrocene-language-specification-to-rust-project/)
