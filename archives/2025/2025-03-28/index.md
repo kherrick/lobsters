@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 13:49:02](https://lobste.rs/s/816nbi/compress_better_compute_bigger) - [Compress Better, Compute Bigger](https://ironarray.io/blog/compute-bigger)
 * [2025-03-28, 13:35:16](https://lobste.rs/s/dfjcom/data_demand_some_damn_respect) - [Data demand some damn respect](https://taylor.town/flat-scraps-002)
 * [2025-03-28, 12:42:41](https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/05vftn/what_are_you_doing_this_weekend)
 * [2025-03-28, 12:19:32](https://lobste.rs/s/flbzsd/benchmarking_distribution_some_o3) - [Benchmarking a distribution (and some -O3 results)](https://discourse.ubuntu.com/t/benchmarking-a-distribution-and-some-o3-results/58027)
