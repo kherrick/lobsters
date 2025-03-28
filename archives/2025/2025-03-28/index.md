@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 14:49:31](https://lobste.rs/s/ccgj9j/intro_alpine_js_javascript_framework_for) - [Intro to Alpine.js: A JavaScript framework for minimalists](https://www.infoworld.com/article/2337630/intro-to-alpinejs-a-javascript-framework-for-minimalists.html)
+* [2025-03-28, 14:45:23](https://lobste.rs/s/jyqgmq/handling_form_errors_htmx) - [Handling form errors in htmx](https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg)
 * [2025-03-28, 14:29:32](https://lobste.rs/s/zjrctq/problem_with_ool_is_not_oo_2009) - [The problem with OOL is not the OO (2009)](https://www.rebol.com/article/0425.html)
 * [2025-03-28, 14:09:51](https://lobste.rs/s/va0h3b/building_statically_linked_go) - [Building Statically Linked Go Executables with CGO and Zig](https://calabro.io/zig-cgo)
 * [2025-03-28, 13:49:02](https://lobste.rs/s/816nbi/compress_better_compute_bigger) - [Compress Better, Compute Bigger](https://ironarray.io/blog/compute-bigger)
