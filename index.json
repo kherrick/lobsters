@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-28, 11:24:10",
+      "https://lobste.rs/s/gvz2wn/let_s_take_look_at_jep_483_ahead_time_class"
+    ],
+    [
+      "Let's Take a Look at... JEP 483: Ahead-of-Time Class Loading & Linking",
+      "https://www.morling.dev/blog/jep-483-aot-class-loading-linking/"
+    ]
+  ],
+  [
+    [
+      "2025-03-28, 11:17:35",
+      "https://lobste.rs/s/ej4ps3/safeishly_use_non_reentrant_libraries"
+    ],
+    [
+      "Safeishly use non-reentrant libraries with POSIX threads",
+      "https://git.sr.ht/~runxiyu/dlcage"
+    ]
+  ],
+  [
+    [
       "2025-03-28, 10:26:26",
       "https://lobste.rs/s/i3ya4n/apple_needs_snow_sequoia"
     ],
@@ -77,16 +97,6 @@
     [
       "Take this on-call rotation and shove it",
       "https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 20:13:54",
-      "https://lobste.rs/s/atew8r/shell_for_container_age_introducing"
-    ],
-    [
-      "A Shell for the Container Age: Introducing Dagger Shell - Dagger",
-      "https://dagger.io/blog/dagger-shell"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "War story: the hardest bug I ever debugged",
       "https://www.clientserver.dev/p/war-story-the-hardest-bug-i-ever"
-    ]
-  ],
-  [
-    [
-      "2025-03-27, 00:45:45",
-      "https://lobste.rs/s/rurjmx/fedora_based_linux_distribution_marking"
-    ],
-    [
-      "Fedora-based Linux distribution marking to EU public sector",
-      "https://www.linuxjournal.com/content/eu-os-bold-step-toward-digital-sovereignty-europe"
     ]
   ],
   [
