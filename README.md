@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-28, 18:12:00](https://lobste.rs/s/nxvm2v/right_kind_stubborn) - [The Right Kind of Stubborn](https://www.paulgraham.com/persistence.html)
+* [2025-03-28, 19:41:55](https://lobste.rs/s/gldsdm/ode_game_boy_advance) - [An Ode To The Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
 * [2025-03-28, 17:23:33](https://lobste.rs/s/uov26c/can_jank_beat_clojure_s_error_reporting) - [Can jank beat Clojure's error reporting?](https://jank-lang.org/blog/2025-03-28-error-reporting/)
 * [2025-03-28, 15:06:22](https://lobste.rs/s/u07ssx/terrible_horrible_no_good_very_bad_python) - [Terrible Horrible No Good Very Bad Python](https://jyn.dev/terrible-horrible-no-good-very-bad-python/)
 * [2025-03-28, 14:49:31](https://lobste.rs/s/ccgj9j/intro_alpine_js_javascript_framework_for) - [Intro to Alpine.js: A JavaScript framework for minimalists](https://www.infoworld.com/article/2337630/intro-to-alpinejs-a-javascript-framework-for-minimalists.html)
