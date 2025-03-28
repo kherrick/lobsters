@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-28](index.md)
 
+* [2025-03-28, 18:12:00](https://lobste.rs/s/nxvm2v/right_kind_stubborn) - [The Right Kind of Stubborn](https://www.paulgraham.com/persistence.html)
 * [2025-03-28, 17:46:12](https://lobste.rs/s/tgbfli/2024_s_hottest_topics_databases) - [2024's hottest topics in databases (a bibliometric approach)](https://rmarcus.info/blog/2025/03/28/hottest-db-topics.html)
 * [2025-03-28, 17:23:33](https://lobste.rs/s/uov26c/can_jank_beat_clojure_s_error_reporting) - [Can jank beat Clojure's error reporting?](https://jank-lang.org/blog/2025-03-28-error-reporting/)
 * [2025-03-28, 15:06:22](https://lobste.rs/s/u07ssx/terrible_horrible_no_good_very_bad_python) - [Terrible Horrible No Good Very Bad Python](https://jyn.dev/terrible-horrible-no-good-very-bad-python/)
