@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-29, 11:46:05",
+      "https://lobste.rs/s/owlocr/on_biology_large_language_model"
+    ],
+    [
+      "On the Biology of a Large Language Model",
+      "https://transformer-circuits.pub/2025/attribution-graphs/biology.html"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 10:58:44",
       "https://lobste.rs/s/ypuwrw/building_search_engine_from_scratch_rust"
     ],
@@ -217,16 +227,6 @@
     [
       "Xee: A Modern XPath and XSLT Engine in Rust",
       "https://blog.startifact.com/posts/xee/"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 03:20:28",
-      "https://lobste.rs/s/qqvrip/way_we_re_thinking_about_breaking_changes"
-    ],
-    [
-      "The way we're thinking about breaking changes is really silly",
-      "https://welltypedwitch.bearblog.dev/the-way-were-thinking-about-breaking-changes-is-really-silly/"
     ]
   ],
   [
