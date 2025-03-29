@@ -6,6 +6,7 @@
 
 * [2025-03-28, 23:55:49](https://lobste.rs/s/2qafif/learn_css_layout_pedantic_way) - [Learn CSS Layout The Pedantic Way](https://book.mixu.net/css/)
 * [2025-03-28, 22:34:46](https://lobste.rs/s/dq7p95/rust_is_indeed_woke) - [Rust is indeed woke](https://diziet.dreamwidth.org/19480.html)
+* [2025-03-28, 21:59:46](https://lobste.rs/s/x3hgqy/could_javascript_have_synchronous_await) - [Could JavaScript have synchronous await?](https://2ality.com/2025/03/sync-await.html)
 * [2025-03-28, 20:49:31](https://lobste.rs/s/ejszpl/caelum_hyper_functional_programming) - [Caelum, the hyper-functional programming language](https://www.youtube.com/watch?v=nvVbY6JSlHY)
 * [2025-03-28, 20:27:15](https://lobste.rs/s/yyitxy/introducing_swiftly_1_0) - [Introducing swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
 * [2025-03-28, 20:22:47](https://lobste.rs/s/zpnypl/colonel_s_bequest_case_cracked) - [The Colonel’s Bequest – Case Cracked](https://www.benshoof.org/blog/case-cracked)
