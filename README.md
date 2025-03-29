@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-29, 11:57:10](https://lobste.rs/s/qdhcqx/moonshots_initiative_secure_future_risc) - [\"Moonshots\" Initiative to Secure the Future of RISC OS](https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os)
 * [2025-03-29, 11:46:05](https://lobste.rs/s/owlocr/on_biology_large_language_model) - [On the Biology of a Large Language Model](https://transformer-circuits.pub/2025/attribution-graphs/biology.html)
 * [2025-03-29, 10:58:44](https://lobste.rs/s/ypuwrw/building_search_engine_from_scratch_rust) - [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
 * [2025-03-29, 10:39:01](https://lobste.rs/s/7yz8sf/total_functions_beyond) - [Total functions and beyond](https://ericnormand.substack.com/p/total-functions-and-beyond)
@@ -24,7 +25,6 @@
 * [2025-03-28, 10:26:26](https://lobste.rs/s/i3ya4n/apple_needs_snow_sequoia) - [Apple Needs a Snow Sequoia](https://reviews.ofb.biz/safari/article/1300.html)
 * [2025-03-28, 06:54:03](https://lobste.rs/s/ment9k/xee_modern_xpath_xslt_engine_rust) - [Xee: A Modern XPath and XSLT Engine in Rust](https://blog.startifact.com/posts/xee/)
 * [2025-03-27, 23:58:05](https://lobste.rs/s/ki4dkb/take_this_on_call_rotation_shove_it) - [Take this on-call rotation and shove it](https://www.scottsmitelli.com/articles/take-oncall-and-shove-it/)
-* [2025-03-27, 13:26:01](https://lobste.rs/s/youq7y/how_write_blog_posts_developers_read) - [How to Write Blog Posts that Developers Read](https://refactoringenglish.com/chapters/write-blog-posts-developers-read/)
 
 ## [Archives](archives/index.md)
 
