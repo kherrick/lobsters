@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-29, 03:15:03](https://lobste.rs/s/y7jhdy/condition_system_for_fennel_language_lua) - [Condition system for Fennel language and Lua runtime](https://andreyor.st/posts/2021-08-08-condition-system-for-fennel-language-and-lua-runtime/)
 * [2025-03-28, 23:55:49](https://lobste.rs/s/2qafif/learn_css_layout_pedantic_way) - [Learn CSS Layout The Pedantic Way](https://book.mixu.net/css/)
 * [2025-03-28, 21:59:46](https://lobste.rs/s/x3hgqy/could_javascript_have_synchronous_await) - [Could JavaScript have synchronous await?](https://2ality.com/2025/03/sync-await.html)
-* [2025-03-28, 20:49:31](https://lobste.rs/s/ejszpl/caelum_hyper_functional_programming) - [Caelum, the hyper-functional programming language](https://www.youtube.com/watch?v=nvVbY6JSlHY)
 * [2025-03-28, 20:22:47](https://lobste.rs/s/zpnypl/colonel_s_bequest_case_cracked) - [The Colonel’s Bequest – Case Cracked](https://www.benshoof.org/blog/case-cracked)
 * [2025-03-28, 20:03:13](https://lobste.rs/s/mmxm3v/organic_maps_github_has_gone_long_live) - [Organic Maps: GitHub has gone - long live Forgejo](https://mastodon.social/@organicmaps/114233788700982882)
 * [2025-03-28, 19:41:55](https://lobste.rs/s/gldsdm/ode_game_boy_advance) - [An Ode To The Game Boy Advance](https://brainbaking.com/post/2025/03/an-ode-to-the-game-boy-advance/)
