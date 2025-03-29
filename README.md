@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-29, 10:58:44](https://lobste.rs/s/ypuwrw/building_search_engine_from_scratch_rust) - [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
 * [2025-03-29, 10:39:01](https://lobste.rs/s/7yz8sf/total_functions_beyond) - [Total functions and beyond](https://ericnormand.substack.com/p/total-functions-and-beyond)
 * [2025-03-29, 10:37:23](https://lobste.rs/s/od7zlr/expressing_japanese_grammar_through) - [Expressing Japanese Grammar Through TypeScript Type System](https://github.com/typedgrammar/typed-japanese/blob/main/blog.md)
 * [2025-03-29, 10:23:45](https://lobste.rs/s/fstz1l/language_server_for_postgres) - [A Language Server for Postgres](https://github.com/supabase-community/postgres-language-server)
@@ -7,7 +8,6 @@
 * [2025-03-29, 03:15:03](https://lobste.rs/s/y7jhdy/condition_system_for_fennel_language_lua) - [Condition system for Fennel language and Lua runtime](https://andreyor.st/posts/2021-08-08-condition-system-for-fennel-language-and-lua-runtime/)
 * [2025-03-29, 00:11:00](https://lobste.rs/s/jxmcph/introducing_git_revise_2019) - [Introducing git-revise (2019)](https://mystor.github.io/git-revise.html)
 * [2025-03-28, 23:55:49](https://lobste.rs/s/2qafif/learn_css_layout_pedantic_way) - [Learn CSS Layout The Pedantic Way](https://book.mixu.net/css/)
-* [2025-03-28, 21:59:46](https://lobste.rs/s/x3hgqy/could_javascript_have_synchronous_await) - [Could JavaScript have synchronous await?](https://2ality.com/2025/03/sync-await.html)
 * [2025-03-28, 20:27:15](https://lobste.rs/s/yyitxy/introducing_swiftly_1_0) - [Introducing swiftly 1.0](https://swift.org/blog/introducing-swiftly_10/)
 * [2025-03-28, 20:22:47](https://lobste.rs/s/zpnypl/colonel_s_bequest_case_cracked) - [The Colonel’s Bequest – Case Cracked](https://www.benshoof.org/blog/case-cracked)
 * [2025-03-28, 20:03:13](https://lobste.rs/s/mmxm3v/organic_maps_github_has_gone_long_live) - [Organic Maps: GitHub has gone - long live Forgejo](https://mastodon.social/@organicmaps/114233788700982882)

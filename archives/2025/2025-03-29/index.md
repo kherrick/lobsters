@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-29](index.md)
 
+* [2025-03-29, 10:58:44](https://lobste.rs/s/ypuwrw/building_search_engine_from_scratch_rust) - [Building a search engine from scratch, in Rust: part 1](https://jdrouet.github.io/posts/202503170800-search-engine-part-1/)
 * [2025-03-29, 10:39:01](https://lobste.rs/s/7yz8sf/total_functions_beyond) - [Total functions and beyond](https://ericnormand.substack.com/p/total-functions-and-beyond)
 * [2025-03-29, 10:37:23](https://lobste.rs/s/od7zlr/expressing_japanese_grammar_through) - [Expressing Japanese Grammar Through TypeScript Type System](https://github.com/typedgrammar/typed-japanese/blob/main/blog.md)
 * [2025-03-29, 10:23:45](https://lobste.rs/s/fstz1l/language_server_for_postgres) - [A Language Server for Postgres](https://github.com/supabase-community/postgres-language-server)
