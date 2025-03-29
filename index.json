@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-29, 17:06:30",
+      "https://lobste.rs/s/lmf0ot/horseless_intelligence"
+    ],
+    [
+      "Horseless intelligence",
+      "https://nedbatchelder.com/blog/202503/horseless_intelligence.html"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 14:50:05",
       "https://lobste.rs/s/dducfq/i_made_little_puzzle_game_about_rogue"
     ],
@@ -217,16 +227,6 @@
     [
       "Building Statically Linked Go Executables with CGO and Zig",
       "https://calabro.io/zig-cgo"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 11:17:35",
-      "https://lobste.rs/s/ej4ps3/safeishly_use_non_reentrant_libraries"
-    ],
-    [
-      "Safeishly use non-reentrant libraries with POSIX threads",
-      "https://git.sr.ht/~runxiyu/dlcage"
     ]
   ],
   [
