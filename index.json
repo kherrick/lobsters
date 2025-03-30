@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-03-29, 20:30:25",
+      "https://lobste.rs/s/2bbkse/thoughts_on_ecs"
+    ],
+    [
+      "Thoughts on ECS",
+      "https://blog.voxagon.se/2025/03/28/thoughts-on-ecs.html"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 18:45:22",
       "https://lobste.rs/s/a8t2pp/ente_photos_v1"
     ],
@@ -217,16 +227,6 @@
     [
       "Handling form errors in htmx",
       "https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 14:09:51",
-      "https://lobste.rs/s/va0h3b/building_statically_linked_go"
-    ],
-    [
-      "Building Statically Linked Go Executables with CGO and Zig",
-      "https://calabro.io/zig-cgo"
     ]
   ],
   [
