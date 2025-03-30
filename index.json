@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-30, 06:27:06",
+      "https://lobste.rs/s/q2rxjn/arpa_rdns_few_magical_icmp_hacks"
+    ],
+    [
+      ".arpa, rDNS and a few magical ICMP hacks",
+      "https://sdomi.pl/weblog/24-arpa-hacks/"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 01:55:08",
       "https://lobste.rs/s/mk6n0l/syntax_highlighting_with_tree_sitter"
     ],
@@ -217,16 +227,6 @@
     [
       "Terrible Horrible No Good Very Bad Python",
       "https://jyn.dev/terrible-horrible-no-good-very-bad-python/"
-    ]
-  ],
-  [
-    [
-      "2025-03-28, 14:45:23",
-      "https://lobste.rs/s/jyqgmq/handling_form_errors_htmx"
-    ],
-    [
-      "Handling form errors in htmx",
-      "https://dev.to/yawaramin/handling-form-errors-in-htmx-3ncg"
     ]
   ],
   [
