@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-30](index.md)
 
+* [2025-03-30, 11:23:50](https://lobste.rs/s/tobrqw/convert_linux_windows) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
 * [2025-03-30, 11:15:19](https://lobste.rs/s/mvcoat/rust_any_part_3_finally_we_have_upcasts) - [Rust Any part 3: Finally we have upcasts](https://lucumr.pocoo.org/2025/3/27/any-upcast/)
 * [2025-03-30, 06:27:06](https://lobste.rs/s/q2rxjn/arpa_rdns_few_magical_icmp_hacks) - [.arpa, rDNS and a few magical ICMP hacks](https://sdomi.pl/weblog/24-arpa-hacks/)
 * [2025-03-30, 01:55:08](https://lobste.rs/s/mk6n0l/syntax_highlighting_with_tree_sitter) - [syntax highlighting with tree-sitter](https://dotat.at/@/2025-03-30-hilite.html)
