@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-30, 17:47:50",
+      "https://lobste.rs/s/emvaw4/why_is_this_site_built_with_c"
+    ],
+    [
+      "Why Is This Site Built With C",
+      "https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html"
+    ]
+  ],
+  [
+    [
       "2025-03-30, 14:43:59",
       "https://lobste.rs/s/cytxh8/brief_history_compression_on_macs"
     ],
@@ -197,16 +207,6 @@
     [
       "Pixelfed leaks private posts from other Fediverse instances",
       "https://fokus.cool/2025/03/25/pixelfed-vulnerability.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 10:58:44",
-      "https://lobste.rs/s/ypuwrw/building_search_engine_from_scratch_rust"
-    ],
-    [
-      "Building a search engine from scratch, in Rust: part 1",
-      "https://jdrouet.github.io/posts/202503170800-search-engine-part-1/"
     ]
   ],
   [
