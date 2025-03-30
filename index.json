@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-30, 01:55:08",
+      "https://lobste.rs/s/mk6n0l/syntax_highlighting_with_tree_sitter"
+    ],
+    [
+      "syntax highlighting with tree-sitter",
+      "https://dotat.at/@/2025-03-30-hilite.html"
+    ]
+  ],
+  [
+    [
+      "2025-03-30, 01:42:04",
+      "https://lobste.rs/s/mekrcq/programmer_s_reading_list_100_articles_i"
+    ],
+    [
+      "A Programmer's Reading List: 100 Articles I Enjoyed (1-50)",
+      "https://www.piglei.com/articles/en-programmer-reading-list-part-one/"
+    ]
+  ],
+  [
+    [
       "2025-03-29, 23:20:36",
       "https://lobste.rs/s/4jwyfk/self_contained_python_scripts_with_uv"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-03-29, 11:57:10",
-      "https://lobste.rs/s/qdhcqx/moonshots_initiative_secure_future_risc"
-    ],
-    [
-      "\"Moonshots\" Initiative to Secure the Future of RISC OS",
-      "https://www.riscosopen.org/news/articles/2025/03/28/moonshots-initiative-to-secure-the-future-of-the-os"
-    ]
-  ],
-  [
-    [
       "2025-03-29, 10:58:44",
       "https://lobste.rs/s/ypuwrw/building_search_engine_from_scratch_rust"
     ],
@@ -167,16 +177,6 @@
     [
       "OpenWrt Two Approval",
       "https://openwrt.org/voting/2025-02-12-openwrt-two"
-    ]
-  ],
-  [
-    [
-      "2025-03-29, 03:15:03",
-      "https://lobste.rs/s/y7jhdy/condition_system_for_fennel_language_lua"
-    ],
-    [
-      "Condition system for Fennel language and Lua runtime",
-      "https://andreyor.st/posts/2021-08-08-condition-system-for-fennel-language-and-lua-runtime/"
     ]
   ],
   [
