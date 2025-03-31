@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 09:35:32](https://lobste.rs/s/uw8gde/french_antitrust_watchdog_fines_apple) - [French antitrust watchdog fines Apple €150M for App Tracking Transparency implementation](https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple)
 * [2025-03-31, 09:30:21](https://lobste.rs/s/ahkxyr/rust_on_ferris_sweep) - [Rust on the Ferris Sweep](https://gabevenberg.com/posts/rmk-ferris-sweep/)
 * [2025-03-31, 08:34:56](https://lobste.rs/s/76md2p/impromptu_disaster_recovery) - [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery)
 * [2025-03-31, 08:26:08](https://lobste.rs/s/r6l5s4/how_borrow_memory_2021) - [How to borrow memory (2021)](https://www.falsifian.org/blog/2021/06/04/catalytic/)
