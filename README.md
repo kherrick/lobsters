@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-31, 00:50:08](https://lobste.rs/s/ehyytc/guidelines_for_evaluating_differential) - [Guidelines for Evaluating Differential Privacy Guarantees](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-226.pdf)
 * [2025-03-30, 22:14:29](https://lobste.rs/s/pmismq/baseline_implementations_should_be) - [Baseline implementations should be predictable](https://www.pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
 * [2025-03-30, 21:21:37](https://lobste.rs/s/acgr92/file_systems_unfit_as_distributed) - [File Systems Unfit as Distributed Storage Backend (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
 * [2025-03-30, 20:41:18](https://lobste.rs/s/jmnpce/actually_drawing_some_ovals_are_not) - [Actually drawing some ovals (that are not ellipses)](https://medium.com/@brunopostle/actually-drawing-some-ovals-that-are-not-ellipses-444ba9fd9cf8)
@@ -24,7 +25,6 @@
 * [2025-03-29, 17:06:30](https://lobste.rs/s/lmf0ot/horseless_intelligence) - [Horseless intelligence](https://nedbatchelder.com/blog/202503/horseless_intelligence.html)
 * [2025-03-29, 14:50:05](https://lobste.rs/s/dducfq/i_made_little_puzzle_game_about_rogue) - [I made a little puzzle game about a rogue chess knight](https://rakhim.exotext.com/knight-ride-a-game-about-rogue-chess-knight)
 * [2025-03-29, 14:40:49](https://lobste.rs/s/6ue8gr/how_become_hacker_step_by_step_guide) - [How To Become A Hacker: A Step-By-Step Guide](https://sebastiancarlos.medium.com/how-to-become-a-hacker-a-step-by-step-guide-94902dc425b0)
-* [2025-03-29, 12:32:20](https://lobste.rs/s/govrnx/paged_out_issue_06) - [Paged out issue 06](https://pagedout.institute/download/PagedOut_006.pdf)
 
 ## [Archives](archives/index.md)
 
