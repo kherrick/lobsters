@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-03-31, 17:08:24",
+      "https://lobste.rs/s/bocapp/select_element_can_now_be_customized_with"
+    ],
+    [
+      "The <select> element can now be customized with CSS",
+      "https://developer.chrome.com/blog/a-customizable-select"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 16:49:43",
       "https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox"
     ],
@@ -227,16 +237,6 @@
     [
       "SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future",
       "https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 22:14:29",
-      "https://lobste.rs/s/pmismq/baseline_implementations_should_be"
-    ],
-    [
-      "Baseline implementations should be predictable",
-      "https://www.pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/"
     ]
   ],
   [
