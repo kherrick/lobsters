@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-31, 03:39:58](https://lobste.rs/s/ctjxbo/codeqleaked_public_secrets_exposure) - [CodeQLEAKED - Public Secrets Exposure Leads toSupply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [2025-03-31, 00:50:08](https://lobste.rs/s/ehyytc/guidelines_for_evaluating_differential) - [Guidelines for Evaluating Differential Privacy Guarantees](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-226.pdf)
 * [2025-03-30, 22:14:29](https://lobste.rs/s/pmismq/baseline_implementations_should_be) - [Baseline implementations should be predictable](https://www.pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
 * [2025-03-30, 21:21:37](https://lobste.rs/s/acgr92/file_systems_unfit_as_distributed) - [File Systems Unfit as Distributed Storage Backend (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
@@ -21,7 +22,6 @@
 * [2025-03-29, 23:20:36](https://lobste.rs/s/4jwyfk/self_contained_python_scripts_with_uv) - [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
 * [2025-03-29, 20:30:25](https://lobste.rs/s/2bbkse/thoughts_on_ecs) - [Thoughts on ECS](https://blog.voxagon.se/2025/03/28/thoughts-on-ecs.html)
 * [2025-03-29, 18:45:22](https://lobste.rs/s/a8t2pp/ente_photos_v1) - [Ente Photos v1](https://ente.io/blog/v1)
-* [2025-03-29, 17:37:57](https://lobste.rs/s/ryacpm/vramfs_vram_based_file_system_for_linux) - [vramfs: VRAM based file system for Linux](https://github.com/Overv/vramfs)
 * [2025-03-29, 17:06:30](https://lobste.rs/s/lmf0ot/horseless_intelligence) - [Horseless intelligence](https://nedbatchelder.com/blog/202503/horseless_intelligence.html)
 * [2025-03-29, 14:50:05](https://lobste.rs/s/dducfq/i_made_little_puzzle_game_about_rogue) - [I made a little puzzle game about a rogue chess knight](https://rakhim.exotext.com/knight-ride-a-game-about-rogue-chess-knight)
 * [2025-03-29, 14:40:49](https://lobste.rs/s/6ue8gr/how_become_hacker_step_by_step_guide) - [How To Become A Hacker: A Step-By-Step Guide](https://sebastiancarlos.medium.com/how-to-become-a-hacker-a-step-by-step-guide-94902dc425b0)
