@@ -4,6 +4,7 @@
 * [2025-03-31, 18:07:43](https://lobste.rs/s/ivahql/foundation_models_unix) - [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
 * [2025-03-31, 17:26:53](https://lobste.rs/s/7dbawc/gnu_octave_scientific_programming) - [GNU Octave: Scientific Programming Language](https://octave.org/index)
+* [2025-03-31, 17:08:24](https://lobste.rs/s/bocapp/select_element_can_now_be_customized_with) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 * [2025-03-31, 16:33:02](https://lobste.rs/s/espq0p/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
 * [2025-03-31, 16:22:53](https://lobste.rs/s/zhmafr/empowering_webassembly_with_thin_kernel) - [Empowering WebAssembly with Thin Kernel Interfaces](https://dl.acm.org/doi/10.1145/3689031.3717470)
@@ -23,7 +24,6 @@
 * [2025-03-31, 07:52:49](https://lobste.rs/s/tn6x34/alphastation_s_srom) - [An AlphaStation's SROM](https://www.thejpster.org.uk/blog/blog-2025-03-30/)
 * [2025-03-31, 07:44:07](https://lobste.rs/s/ssubpj/fjall_2_8) - [Fjall 2.8](https://fjall-rs.github.io/post/fjall-2-8/)
 * [2025-03-31, 05:07:52](https://lobste.rs/s/6dqoey/saas_is_broken_why_bring_your_own_cloud) - [SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future](https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/)
-* [2025-03-30, 22:14:29](https://lobste.rs/s/pmismq/baseline_implementations_should_be) - [Baseline implementations should be predictable](https://www.pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
 * [2025-03-30, 17:47:50](https://lobste.rs/s/emvaw4/why_is_this_site_built_with_c) - [Why Is This Site Built With C](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html)
 
 ## [Archives](archives/index.md)

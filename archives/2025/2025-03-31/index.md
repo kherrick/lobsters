@@ -8,6 +8,7 @@
 * [2025-03-31, 18:07:43](https://lobste.rs/s/ivahql/foundation_models_unix) - [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
 * [2025-03-31, 17:26:53](https://lobste.rs/s/7dbawc/gnu_octave_scientific_programming) - [GNU Octave: Scientific Programming Language](https://octave.org/index)
+* [2025-03-31, 17:08:24](https://lobste.rs/s/bocapp/select_element_can_now_be_customized_with) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 * [2025-03-31, 16:33:02](https://lobste.rs/s/espq0p/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
 * [2025-03-31, 16:22:53](https://lobste.rs/s/zhmafr/empowering_webassembly_with_thin_kernel) - [Empowering WebAssembly with Thin Kernel Interfaces](https://dl.acm.org/doi/10.1145/3689031.3717470)
