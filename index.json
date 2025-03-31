@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-31, 09:35:32",
+      "https://lobste.rs/s/uw8gde/french_antitrust_watchdog_fines_apple"
+    ],
+    [
+      "French antitrust watchdog fines Apple €150M for App Tracking Transparency implementation",
+      "https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 09:30:21",
       "https://lobste.rs/s/ahkxyr/rust_on_ferris_sweep"
     ],
@@ -197,16 +207,6 @@
     [
       "Convert Linux to Windows",
       "https://philipbohun.com/blog/0007.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 11:15:19",
-      "https://lobste.rs/s/mvcoat/rust_any_part_3_finally_we_have_upcasts"
-    ],
-    [
-      "Rust Any part 3: Finally we have upcasts",
-      "https://lucumr.pocoo.org/2025/3/27/any-upcast/"
     ]
   ],
   [
