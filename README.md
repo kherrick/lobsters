@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-31, 22:00:53](https://lobste.rs/s/hw3kpz/what_s_nix_store_path) - [What’s in a Nix store path](https://fzakaria.com/2025/03/28/what-s-in-a-nix-store-path)
 * [2025-03-31, 19:41:07](https://lobste.rs/s/jrsz2s/ai_math_puzzle) - [AI/Math Puzzle](https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/)
 * [2025-03-31, 18:07:43](https://lobste.rs/s/ivahql/foundation_models_unix) - [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
@@ -20,7 +21,6 @@
 * [2025-03-31, 09:35:32](https://lobste.rs/s/uw8gde/french_antitrust_watchdog_fines_apple) - [French antitrust watchdog fines Apple €150M for App Tracking Transparency implementation](https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple)
 * [2025-03-31, 08:34:56](https://lobste.rs/s/76md2p/impromptu_disaster_recovery) - [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery)
 * [2025-03-31, 08:26:08](https://lobste.rs/s/r6l5s4/how_borrow_memory_2021) - [How to borrow memory (2021)](https://www.falsifian.org/blog/2021/06/04/catalytic/)
-* [2025-03-31, 07:53:00](https://lobste.rs/s/wycqyg/crate_training_tiamat_un_calling_cthulhu) - [Crate-training Tiamat, un-calling Cthulhu: Taming the UB monsters in C++](https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/)
 * [2025-03-31, 07:52:49](https://lobste.rs/s/tn6x34/alphastation_s_srom) - [An AlphaStation's SROM](https://www.thejpster.org.uk/blog/blog-2025-03-30/)
 * [2025-03-31, 07:44:07](https://lobste.rs/s/ssubpj/fjall_2_8) - [Fjall 2.8](https://fjall-rs.github.io/post/fjall-2-8/)
 * [2025-03-31, 05:07:52](https://lobste.rs/s/6dqoey/saas_is_broken_why_bring_your_own_cloud) - [SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future](https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/)
