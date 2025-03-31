@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-03-31, 15:45:40",
+      "https://lobste.rs/s/rpoxub/shadowing_python_gave_me"
+    ],
+    [
+      "Shadowing in Python gave me an UnboundLocalError",
+      "https://ntietz.com/blog/pythons-shadowing-behavior-always-surprises-me/"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 15:38:11",
+      "https://lobste.rs/s/gpvjlw/interaction_nets"
+    ],
+    [
+      "Interaction nets",
+      "https://wiki.xxiivv.com/site/interaction_nets.html"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 13:53:33",
       "https://lobste.rs/s/ndnbme/building_native_packages_is_complicated"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-03-30, 19:18:26",
-      "https://lobste.rs/s/pxt8lj/nix_vanity_store_paths"
-    ],
-    [
-      "Nix vanity store paths",
-      "https://fzakaria.com/2025/03/27/nix-vanity-store-paths"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 18:54:57",
       "https://lobste.rs/s/rvlxyl/tcrf_has_been_getting_ddosed"
     ],
@@ -227,16 +237,6 @@
     [
       "Why Is This Site Built With C",
       "https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 12:02:05",
-      "https://lobste.rs/s/dqezic/koto_programming_language"
-    ],
-    [
-      "Koto Programming Language",
-      "https://koto.dev/"
     ]
   ],
   [
