@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
+* [2025-03-31, 16:33:02](https://lobste.rs/s/espq0p/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
 * [2025-03-31, 15:45:40](https://lobste.rs/s/rpoxub/shadowing_python_gave_me) - [Shadowing in Python gave me an UnboundLocalError](https://ntietz.com/blog/pythons-shadowing-behavior-always-surprises-me/)
 * [2025-03-31, 15:38:11](https://lobste.rs/s/gpvjlw/interaction_nets) - [Interaction nets](https://wiki.xxiivv.com/site/interaction_nets.html)
 * [2025-03-31, 13:53:33](https://lobste.rs/s/ndnbme/building_native_packages_is_complicated) - [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/)

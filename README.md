@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-03-31, 15:45:40](https://lobste.rs/s/rpoxub/shadowing_python_gave_me) - [Shadowing in Python gave me an UnboundLocalError](https://ntietz.com/blog/pythons-shadowing-behavior-always-surprises-me/)
+* [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
+* [2025-03-31, 16:33:02](https://lobste.rs/s/espq0p/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
 * [2025-03-31, 15:38:11](https://lobste.rs/s/gpvjlw/interaction_nets) - [Interaction nets](https://wiki.xxiivv.com/site/interaction_nets.html)
 * [2025-03-31, 13:53:33](https://lobste.rs/s/ndnbme/building_native_packages_is_complicated) - [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
 * [2025-03-31, 12:26:45](https://lobste.rs/s/fa2bgf/why_do_i_run_freebsd_for_my_home_servers) - [Why Do I Run FreeBSD for My Home Servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
-* [2025-03-31, 12:26:18](https://lobste.rs/s/uk8h8h/create_freebsd_docker_containers_from) - [Create FreeBSD Docker Containers from Scratch](https://youtube.com/watch?v=pqLKZiJRHn0)
 * [2025-03-31, 12:26:02](https://lobste.rs/s/lls3ha/framework_13_amd_setup_with_freebsd) - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
 * [2025-03-31, 12:25:19](https://lobste.rs/s/t4ez0z/hoster_built_using_freebsd_bhyve_zfs_pf_go) - [Hoster - Built Using FreeBSD/Bhyve/ZFS/PF/Go Makes VM/Jails Deployments Fast and Easy](https://docs.hoster-core.gateway-it.com/)
 * [2025-03-31, 11:01:40](https://lobste.rs/s/via6xm/there_is_no_vibe_engineering) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
