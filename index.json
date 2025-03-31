@@ -1,12 +1,32 @@
 [
   [
     [
-      "2025-03-31, 11:02:50",
-      "https://lobste.rs/s/p8itsz/zephyr_rtos_4_1_now_available_performance"
+      "2025-03-31, 12:26:45",
+      "https://lobste.rs/s/fa2bgf/why_do_i_run_freebsd_for_my_home_servers"
     ],
     [
-      "Zephyr RTOS 4.1 Now Available: Performance Improvements, Support for IAR Toolchain, Rust, and More",
-      "https://zephyrproject.org/zephyr-rtos-4-1-is-available/"
+      "Why Do I Run FreeBSD for My Home Servers",
+      "https://aumont.fr/posts/FreeBSD-Home-Server/"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 12:26:18",
+      "https://lobste.rs/s/uk8h8h/create_freebsd_docker_containers_from"
+    ],
+    [
+      "Create FreeBSD Docker Containers from Scratch",
+      "https://youtube.com/watch?v=pqLKZiJRHn0"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 12:26:02",
+      "https://lobste.rs/s/lls3ha/framework_13_amd_setup_with_freebsd"
+    ],
+    [
+      "Framework 13 AMD Setup with FreeBSD",
+      "https://euroquis.nl/freebsd/2025/03/16/framework.html"
     ]
   ],
   [
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-03-30, 20:17:58",
-      "https://lobste.rs/s/p47bbr/surprise_multiple_dependency_graphs"
-    ],
-    [
-      "The Surprise of Multiple Dependency Graphs",
-      "https://queue.acm.org/detail.cfm?ref=rss&id=3723000"
-    ]
-  ],
-  [
-    [
       "2025-03-30, 19:18:26",
       "https://lobste.rs/s/pxt8lj/nix_vanity_store_paths"
     ],
@@ -207,16 +217,6 @@
     [
       "Koto Programming Language",
       "https://koto.dev/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 12:02:01",
-      "https://lobste.rs/s/g1z2pu/towards_fearless_simd_7_years_later"
-    ],
-    [
-      "Towards fearless SIMD, 7 years later",
-      "https://linebender.org/blog/towards-fearless-simd/"
     ]
   ],
   [
