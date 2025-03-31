@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
 * [2025-03-31, 12:26:45](https://lobste.rs/s/fa2bgf/why_do_i_run_freebsd_for_my_home_servers) - [Why Do I Run FreeBSD for My Home Servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
 * [2025-03-31, 12:26:18](https://lobste.rs/s/uk8h8h/create_freebsd_docker_containers_from) - [Create FreeBSD Docker Containers from Scratch](https://youtube.com/watch?v=pqLKZiJRHn0)
 * [2025-03-31, 12:26:02](https://lobste.rs/s/lls3ha/framework_13_amd_setup_with_freebsd) - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
