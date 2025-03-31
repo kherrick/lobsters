@@ -2,6 +2,7 @@
 
 * [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 * [2025-03-31, 16:33:02](https://lobste.rs/s/espq0p/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
+* [2025-03-31, 16:22:53](https://lobste.rs/s/zhmafr/empowering_webassembly_with_thin_kernel) - [Empowering WebAssembly with Thin Kernel Interfaces](https://dl.acm.org/doi/10.1145/3689031.3717470)
 * [2025-03-31, 15:38:11](https://lobste.rs/s/gpvjlw/interaction_nets) - [Interaction nets](https://wiki.xxiivv.com/site/interaction_nets.html)
 * [2025-03-31, 13:53:33](https://lobste.rs/s/ndnbme/building_native_packages_is_complicated) - [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
@@ -24,7 +25,6 @@
 * [2025-03-30, 18:54:57](https://lobste.rs/s/rvlxyl/tcrf_has_been_getting_ddosed) - [TCRF has been getting DDoSed](https://blog.xkeeper.net/uncategorized/tcrf-has-been-getting-ddosed/)
 * [2025-03-30, 18:20:50](https://lobste.rs/s/bymbzf/missile_vs_laser_game_terminal_maneuvers) - [Missile vs. Laser: The Game of Terminal Maneuvers](https://www.ethanheilman.com/x/31/index.html)
 * [2025-03-30, 17:47:50](https://lobste.rs/s/emvaw4/why_is_this_site_built_with_c) - [Why Is This Site Built With C](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html)
-* [2025-03-30, 11:23:50](https://lobste.rs/s/tobrqw/convert_linux_windows) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
 
 ## [Archives](archives/index.md)
 
