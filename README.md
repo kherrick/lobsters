@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-31, 11:02:50](https://lobste.rs/s/p8itsz/zephyr_rtos_4_1_now_available_performance) - [Zephyr RTOS 4.1 Now Available: Performance Improvements, Support for IAR Toolchain, Rust, and More](https://zephyrproject.org/zephyr-rtos-4-1-is-available/)
+* [2025-03-31, 11:01:40](https://lobste.rs/s/via6xm/there_is_no_vibe_engineering) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
 * [2025-03-31, 10:11:39](https://lobste.rs/s/tvx2b5/dipping_my_toes_openbsd_amsterdam) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 * [2025-03-31, 10:04:38](https://lobste.rs/s/ku22d5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ku22d5/what_are_you_doing_this_week)
-* [2025-03-31, 09:35:32](https://lobste.rs/s/uw8gde/french_antitrust_watchdog_fines_apple) - [French antitrust watchdog fines Apple €150M for App Tracking Transparency implementation](https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple)
 * [2025-03-31, 09:30:21](https://lobste.rs/s/ahkxyr/rust_on_ferris_sweep) - [Rust on the Ferris Sweep](https://gabevenberg.com/posts/rmk-ferris-sweep/)
 * [2025-03-31, 08:34:56](https://lobste.rs/s/76md2p/impromptu_disaster_recovery) - [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery)
 * [2025-03-31, 08:26:08](https://lobste.rs/s/r6l5s4/how_borrow_memory_2021) - [How to borrow memory (2021)](https://www.falsifian.org/blog/2021/06/04/catalytic/)
@@ -12,7 +13,6 @@
 * [2025-03-31, 05:07:52](https://lobste.rs/s/6dqoey/saas_is_broken_why_bring_your_own_cloud) - [SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future](https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/)
 * [2025-03-31, 04:42:12](https://lobste.rs/s/eqtzcz/cross_compiling_swift) - [Cross Compiling Swift](https://khanwinter.com/2025-03-29-Cross-Compiling-Swift/)
 * [2025-03-30, 22:14:29](https://lobste.rs/s/pmismq/baseline_implementations_should_be) - [Baseline implementations should be predictable](https://www.pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
-* [2025-03-30, 21:21:37](https://lobste.rs/s/acgr92/file_systems_unfit_as_distributed) - [File Systems Unfit as Distributed Storage Backend (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
 * [2025-03-30, 20:17:58](https://lobste.rs/s/p47bbr/surprise_multiple_dependency_graphs) - [The Surprise of Multiple Dependency Graphs](https://queue.acm.org/detail.cfm?ref=rss&id=3723000)
 * [2025-03-30, 19:18:26](https://lobste.rs/s/pxt8lj/nix_vanity_store_paths) - [Nix vanity store paths](https://fzakaria.com/2025/03/27/nix-vanity-store-paths)
 * [2025-03-30, 18:54:57](https://lobste.rs/s/rvlxyl/tcrf_has_been_getting_ddosed) - [TCRF has been getting DDoSed](https://blog.xkeeper.net/uncategorized/tcrf-has-been-getting-ddosed/)
