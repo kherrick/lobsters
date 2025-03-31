@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-31, 05:07:52](https://lobste.rs/s/6dqoey/saas_is_broken_why_bring_your_own_cloud) - [SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future](https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/)
 * [2025-03-31, 04:42:12](https://lobste.rs/s/eqtzcz/cross_compiling_swift) - [Cross Compiling Swift](https://khanwinter.com/2025-03-29-Cross-Compiling-Swift/)
 * [2025-03-31, 03:39:58](https://lobste.rs/s/ctjxbo/codeqleaked_public_secrets_exposure) - [CodeQLEAKED - Public Secrets Exposure Leads toSupply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
 * [2025-03-31, 00:50:08](https://lobste.rs/s/ehyytc/guidelines_for_evaluating_differential) - [Guidelines for Evaluating Differential Privacy Guarantees](https://nvlpubs.nist.gov/nistpubs/SpecialPublications/NIST.SP.800-226.pdf)
 * [2025-03-30, 22:14:29](https://lobste.rs/s/pmismq/baseline_implementations_should_be) - [Baseline implementations should be predictable](https://www.pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
 * [2025-03-30, 21:21:37](https://lobste.rs/s/acgr92/file_systems_unfit_as_distributed) - [File Systems Unfit as Distributed Storage Backend (2019)](https://dl.acm.org/doi/pdf/10.1145/3341301.3359656)
-* [2025-03-30, 20:41:18](https://lobste.rs/s/jmnpce/actually_drawing_some_ovals_are_not) - [Actually drawing some ovals (that are not ellipses)](https://medium.com/@brunopostle/actually-drawing-some-ovals-that-are-not-ellipses-444ba9fd9cf8)
 * [2025-03-30, 20:17:58](https://lobste.rs/s/p47bbr/surprise_multiple_dependency_graphs) - [The Surprise of Multiple Dependency Graphs](https://queue.acm.org/detail.cfm?ref=rss&id=3723000)
 * [2025-03-30, 19:18:26](https://lobste.rs/s/pxt8lj/nix_vanity_store_paths) - [Nix vanity store paths](https://fzakaria.com/2025/03/27/nix-vanity-store-paths)
 * [2025-03-30, 18:54:57](https://lobste.rs/s/rvlxyl/tcrf_has_been_getting_ddosed) - [TCRF has been getting DDoSed](https://blog.xkeeper.net/uncategorized/tcrf-has-been-getting-ddosed/)
