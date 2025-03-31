@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-03-31, 15:45:40",
+      "https://lobste.rs/s/rpoxub/shadowing_python_gave_me"
+    ],
+    [
+      "Shadowing in Python gave me an UnboundLocalError",
+      "https://ntietz.com/blog/pythons-shadowing-behavior-always-surprises-me/"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 15:38:11",
       "https://lobste.rs/s/gpvjlw/interaction_nets"
     ],
@@ -197,16 +207,6 @@
     [
       "SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future",
       "https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 04:42:12",
-      "https://lobste.rs/s/eqtzcz/cross_compiling_swift"
-    ],
-    [
-      "Cross Compiling Swift",
-      "https://khanwinter.com/2025-03-29-Cross-Compiling-Swift/"
     ]
   ],
   [
