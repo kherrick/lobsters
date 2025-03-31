@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-31, 13:53:33](https://lobste.rs/s/ndnbme/building_native_packages_is_complicated) - [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
 * [2025-03-31, 12:26:45](https://lobste.rs/s/fa2bgf/why_do_i_run_freebsd_for_my_home_servers) - [Why Do I Run FreeBSD for My Home Servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
 * [2025-03-31, 12:26:18](https://lobste.rs/s/uk8h8h/create_freebsd_docker_containers_from) - [Create FreeBSD Docker Containers from Scratch](https://youtube.com/watch?v=pqLKZiJRHn0)
@@ -22,7 +23,6 @@
 * [2025-03-30, 18:54:57](https://lobste.rs/s/rvlxyl/tcrf_has_been_getting_ddosed) - [TCRF has been getting DDoSed](https://blog.xkeeper.net/uncategorized/tcrf-has-been-getting-ddosed/)
 * [2025-03-30, 18:20:50](https://lobste.rs/s/bymbzf/missile_vs_laser_game_terminal_maneuvers) - [Missile vs. Laser: The Game of Terminal Maneuvers](https://www.ethanheilman.com/x/31/index.html)
 * [2025-03-30, 17:47:50](https://lobste.rs/s/emvaw4/why_is_this_site_built_with_c) - [Why Is This Site Built With C](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html)
-* [2025-03-30, 14:43:59](https://lobste.rs/s/cytxh8/brief_history_compression_on_macs) - [A brief history of compression on Macs](https://eclecticlight.co/2025/03/29/a-brief-history-of-compression-on-macs/)
 * [2025-03-30, 12:02:05](https://lobste.rs/s/dqezic/koto_programming_language) - [Koto Programming Language](https://koto.dev/)
 * [2025-03-30, 11:23:50](https://lobste.rs/s/tobrqw/convert_linux_windows) - [Convert Linux to Windows](https://philipbohun.com/blog/0007.html)
 
