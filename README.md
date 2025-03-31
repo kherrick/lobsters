@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-31, 07:44:07](https://lobste.rs/s/ssubpj/fjall_2_8) - [Fjall 2.8](https://fjall-rs.github.io/post/fjall-2-8/)
 * [2025-03-31, 05:07:52](https://lobste.rs/s/6dqoey/saas_is_broken_why_bring_your_own_cloud) - [SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future](https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/)
 * [2025-03-31, 04:42:12](https://lobste.rs/s/eqtzcz/cross_compiling_swift) - [Cross Compiling Swift](https://khanwinter.com/2025-03-29-Cross-Compiling-Swift/)
 * [2025-03-31, 03:39:58](https://lobste.rs/s/ctjxbo/codeqleaked_public_secrets_exposure) - [CodeQLEAKED - Public Secrets Exposure Leads toSupply Chain Attack on GitHub CodeQL](https://www.praetorian.com/blog/codeqleaked-public-secrets-exposure-leads-to-supply-chain-attack-on-github-codeql/)
@@ -22,7 +23,6 @@
 * [2025-03-30, 01:42:04](https://lobste.rs/s/mekrcq/programmer_s_reading_list_100_articles_i) - [A Programmer's Reading List: 100 Articles I Enjoyed (1-50)](https://www.piglei.com/articles/en-programmer-reading-list-part-one/)
 * [2025-03-29, 23:20:36](https://lobste.rs/s/4jwyfk/self_contained_python_scripts_with_uv) - [Self-contained Python scripts with uv](http://blog.dusktreader.dev/2025/03/29/self-contained-python-scripts-with-uv/)
 * [2025-03-29, 18:45:22](https://lobste.rs/s/a8t2pp/ente_photos_v1) - [Ente Photos v1](https://ente.io/blog/v1)
-* [2025-03-29, 17:06:30](https://lobste.rs/s/lmf0ot/horseless_intelligence) - [Horseless intelligence](https://nedbatchelder.com/blog/202503/horseless_intelligence.html)
 * [2025-03-29, 14:50:05](https://lobste.rs/s/dducfq/i_made_little_puzzle_game_about_rogue) - [I made a little puzzle game about a rogue chess knight](https://rakhim.exotext.com/knight-ride-a-game-about-rogue-chess-knight)
 * [2025-03-29, 14:40:49](https://lobste.rs/s/6ue8gr/how_become_hacker_step_by_step_guide) - [How To Become A Hacker: A Step-By-Step Guide](https://sebastiancarlos.medium.com/how-to-become-a-hacker-a-step-by-step-guide-94902dc425b0)
 
