@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 19:41:07](https://lobste.rs/s/jrsz2s/ai_math_puzzle) - [AI/Math Puzzle](https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/)
 * [2025-03-31, 18:07:43](https://lobste.rs/s/ivahql/foundation_models_unix) - [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
 * [2025-03-31, 17:26:53](https://lobste.rs/s/7dbawc/gnu_octave_scientific_programming) - [GNU Octave: Scientific Programming Language](https://octave.org/index)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-03-31, 19:41:07](https://lobste.rs/s/jrsz2s/ai_math_puzzle) - [AI/Math Puzzle](https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/)
 * [2025-03-31, 18:07:43](https://lobste.rs/s/ivahql/foundation_models_unix) - [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
 * [2025-03-31, 17:26:53](https://lobste.rs/s/7dbawc/gnu_octave_scientific_programming) - [GNU Octave: Scientific Programming Language](https://octave.org/index)
@@ -23,7 +24,6 @@
 * [2025-03-31, 07:44:07](https://lobste.rs/s/ssubpj/fjall_2_8) - [Fjall 2.8](https://fjall-rs.github.io/post/fjall-2-8/)
 * [2025-03-31, 05:07:52](https://lobste.rs/s/6dqoey/saas_is_broken_why_bring_your_own_cloud) - [SaaS Is Broken: Why Bring Your Own Cloud (BYOC) Is the Future](https://thenewstack.io/saas-is-broken-why-bring-your-own-cloud-byoc-is-the-future/)
 * [2025-03-30, 22:14:29](https://lobste.rs/s/pmismq/baseline_implementations_should_be) - [Baseline implementations should be predictable](https://www.pvk.ca/Blog/2021/05/14/baseline-implementations-should-be-predictable/)
-* [2025-03-30, 18:20:50](https://lobste.rs/s/bymbzf/missile_vs_laser_game_terminal_maneuvers) - [Missile vs. Laser: The Game of Terminal Maneuvers](https://www.ethanheilman.com/x/31/index.html)
 * [2025-03-30, 17:47:50](https://lobste.rs/s/emvaw4/why_is_this_site_built_with_c) - [Why Is This Site Built With C](https://marcelofern.com/posts/c/why-is-this-site-built-with-c/index.html)
 
 ## [Archives](archives/index.md)
