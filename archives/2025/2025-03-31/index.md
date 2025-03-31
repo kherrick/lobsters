@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-03-31](index.md)
 
+* [2025-03-31, 09:30:21](https://lobste.rs/s/ahkxyr/rust_on_ferris_sweep) - [Rust on the Ferris Sweep](https://gabevenberg.com/posts/rmk-ferris-sweep/)
 * [2025-03-31, 08:34:56](https://lobste.rs/s/76md2p/impromptu_disaster_recovery) - [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery)
 * [2025-03-31, 08:26:08](https://lobste.rs/s/r6l5s4/how_borrow_memory_2021) - [How to borrow memory (2021)](https://www.falsifian.org/blog/2021/06/04/catalytic/)
 * [2025-03-31, 07:53:00](https://lobste.rs/s/wycqyg/crate_training_tiamat_un_calling_cthulhu) - [Crate-training Tiamat, un-calling Cthulhu: Taming the UB monsters in C++](https://herbsutter.com/2025/03/30/crate-training-tiamat-un-calling-cthulhutaming-the-ub-monsters-in-c/)
