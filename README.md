@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-03-31, 18:07:43](https://lobste.rs/s/ivahql/foundation_models_unix) - [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
+* [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
 * [2025-03-31, 17:26:53](https://lobste.rs/s/7dbawc/gnu_octave_scientific_programming) - [GNU Octave: Scientific Programming Language](https://octave.org/index)
 * [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 * [2025-03-31, 16:33:02](https://lobste.rs/s/espq0p/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
@@ -14,7 +15,6 @@
 * [2025-03-31, 12:25:19](https://lobste.rs/s/t4ez0z/hoster_built_using_freebsd_bhyve_zfs_pf_go) - [Hoster - Built Using FreeBSD/Bhyve/ZFS/PF/Go Makes VM/Jails Deployments Fast and Easy](https://docs.hoster-core.gateway-it.com/)
 * [2025-03-31, 11:01:40](https://lobste.rs/s/via6xm/there_is_no_vibe_engineering) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
 * [2025-03-31, 10:11:39](https://lobste.rs/s/tvx2b5/dipping_my_toes_openbsd_amsterdam) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
-* [2025-03-31, 10:04:38](https://lobste.rs/s/ku22d5/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/ku22d5/what_are_you_doing_this_week)
 * [2025-03-31, 09:35:32](https://lobste.rs/s/uw8gde/french_antitrust_watchdog_fines_apple) - [French antitrust watchdog fines Apple €150M for App Tracking Transparency implementation](https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple)
 * [2025-03-31, 08:34:56](https://lobste.rs/s/76md2p/impromptu_disaster_recovery) - [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery)
 * [2025-03-31, 08:26:08](https://lobste.rs/s/r6l5s4/how_borrow_memory_2021) - [How to borrow memory (2021)](https://www.falsifian.org/blog/2021/06/04/catalytic/)
