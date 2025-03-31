@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-03-31, 13:08:47",
+      "https://lobste.rs/s/ybbhxp/giving_up_dylib_dream"
+    ],
+    [
+      "Giving up the dylib dream",
+      "https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 12:26:45",
       "https://lobste.rs/s/fa2bgf/why_do_i_run_freebsd_for_my_home_servers"
     ],
@@ -17,6 +27,16 @@
     [
       "Create FreeBSD Docker Containers from Scratch",
       "https://youtube.com/watch?v=pqLKZiJRHn0"
+    ]
+  ],
+  [
+    [
+      "2025-03-31, 12:26:02",
+      "https://lobste.rs/s/lls3ha/framework_13_amd_setup_with_freebsd"
+    ],
+    [
+      "Framework 13 AMD Setup with FreeBSD",
+      "https://euroquis.nl/freebsd/2025/03/16/framework.html"
     ]
   ],
   [
@@ -227,26 +247,6 @@
     [
       "Convert Linux to Windows",
       "https://philipbohun.com/blog/0007.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 06:27:06",
-      "https://lobste.rs/s/q2rxjn/arpa_rdns_few_magical_icmp_hacks"
-    ],
-    [
-      ".arpa, rDNS and a few magical ICMP hacks",
-      "https://sdomi.pl/weblog/24-arpa-hacks/"
-    ]
-  ],
-  [
-    [
-      "2025-03-30, 01:55:08",
-      "https://lobste.rs/s/mk6n0l/syntax_highlighting_with_tree_sitter"
-    ],
-    [
-      "syntax highlighting with tree-sitter",
-      "https://dotat.at/@/2025-03-30-hilite.html"
     ]
   ]
 ]
