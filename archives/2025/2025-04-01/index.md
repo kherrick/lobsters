@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 23:37:17](https://lobste.rs/s/abunxs/roguetype_first_ever_roguelike_written) - [Roguetype: The first ever roguelike written in the OCaml type system](https://github.com/Octachron/roguetype)
 * [2025-04-01, 22:27:42](https://lobste.rs/s/utxfxu/jj_fzf_text_ui_for_jujutsu_based_on_fzf) - [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf)
 * [2025-04-01, 19:37:20](https://lobste.rs/s/vwjlyl/most_amusing_security_flaws_i_ve) - [The Most Amusing Security Flaws I've Discovered](https://predr.ag/blog/xorry-not-sorry-most-amusing-security-flaws-ive-discovered/)
 * [2025-04-01, 18:09:26](https://lobste.rs/s/jd18fo/numbers_go_brrrr) - [Numbers Go Brrrr](https://absorensen.github.io/numbers_go_brrrr/)

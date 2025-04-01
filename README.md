@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-01, 23:37:17](https://lobste.rs/s/abunxs/roguetype_first_ever_roguelike_written) - [Roguetype: The first ever roguelike written in the OCaml type system](https://github.com/Octachron/roguetype)
 * [2025-04-01, 22:27:42](https://lobste.rs/s/utxfxu/jj_fzf_text_ui_for_jujutsu_based_on_fzf) - [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf)
 * [2025-04-01, 19:37:20](https://lobste.rs/s/vwjlyl/most_amusing_security_flaws_i_ve) - [The Most Amusing Security Flaws I've Discovered](https://predr.ag/blog/xorry-not-sorry-most-amusing-security-flaws-ive-discovered/)
-* [2025-04-01, 18:09:26](https://lobste.rs/s/jd18fo/numbers_go_brrrr) - [Numbers Go Brrrr](https://absorensen.github.io/numbers_go_brrrr/)
 * [2025-04-01, 16:59:01](https://lobste.rs/s/8dtj3n/new_state_art_turing_test_drawing_rubik_s) - [new state of the art turing test: drawing a rubik's cube](https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2)
 * [2025-04-01, 16:15:46](https://lobste.rs/s/qrb3ve/streaming_changes_from_postgres) - [Streaming changes from Postgres: the architecture behind Sequin](https://blog.sequinstream.com/streaming-changes-from-postgres-the-architecture-behind-sequin/)
 * [2025-04-01, 14:37:12](https://lobste.rs/s/t51nab/anubis_weighs_soul_incoming_http) - [anubis: Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers](https://github.com/TecharoHQ/anubis)
