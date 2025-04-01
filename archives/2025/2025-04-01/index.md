@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 14:22:25](https://lobste.rs/s/fu9osm/goodbye_offpunk_welcome_xkcdpunk) - [Goodbye Offpunk, Welcome XKCDpunk](https://ploum.net/2025-04-01-xkcdpunk.html)
 * [2025-04-01, 14:01:58](https://lobste.rs/s/xtrx71/intuiting_tls) - [Intuiting TLS](https://kprotty.me/2025/04/01/intuiting-tls.html)
 * [2025-04-01, 12:50:59](https://lobste.rs/s/hvjeov/css_system_colors) - [CSS System colors](https://anto.pt/articles/css-system-colors)
 * [2025-04-01, 12:33:08](https://lobste.rs/s/kubso9/why_f) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
