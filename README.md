@@ -12,6 +12,7 @@
 * [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
 * [2025-04-01, 09:25:21](https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 08:58:30](https://lobste.rs/s/ffsuxb/my_new_emacs_ruby_based_static_site) - [My new Emacs (and Ruby) based Static Site Generator](https://michal.sapka.pl/2025/msite/)
+* [2025-04-01, 07:29:08](https://lobste.rs/s/tjh0qt/stop_syncing_everything) - [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/)
 * [2025-04-01, 07:24:19](https://lobste.rs/s/a2wi1j/love_letter_csv_format) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
 * [2025-04-01, 06:51:22](https://lobste.rs/s/954llr/who_s_hiring_q2_2025) - [Who's Hiring? Q2 2025](https://lobste.rs/s/954llr/who_s_hiring_q2_2025)
 * [2025-04-01, 06:34:27](https://lobste.rs/s/8gycxf/fskit) - [FSKit](https://developer.apple.com/documentation/fskit)
@@ -23,7 +24,6 @@
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
 * [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
-* [2025-03-31, 11:01:40](https://lobste.rs/s/via6xm/there_is_no_vibe_engineering) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
 * [2025-03-31, 10:11:39](https://lobste.rs/s/tvx2b5/dipping_my_toes_openbsd_amsterdam) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 
 ## [Archives](archives/index.md)
