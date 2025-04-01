@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-04-01, 11:03:13",
+      "https://lobste.rs/s/o3o1qb/algol_for_linux_is_reimagining_memory"
+    ],
+    [
+      "ALGOL-FOR-LINUX is Reimagining Memory Safety for Linux",
+      "https://algol-for-linux.com/"
+    ]
+  ],
+  [
+    [
       "2025-04-01, 09:25:21",
       "https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired"
     ],
@@ -217,16 +227,6 @@
     [
       "Giving up the dylib dream",
       "https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 12:25:19",
-      "https://lobste.rs/s/t4ez0z/hoster_built_using_freebsd_bhyve_zfs_pf_go"
-    ],
-    [
-      "Hoster - Built Using FreeBSD/Bhyve/ZFS/PF/Go Makes VM/Jails Deployments Fast and Easy",
-      "https://docs.hoster-core.gateway-it.com/"
     ]
   ],
   [
