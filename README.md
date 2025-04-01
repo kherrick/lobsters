@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-01, 09:25:21](https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 08:58:30](https://lobste.rs/s/ffsuxb/my_new_emacs_ruby_based_static_site) - [My new Emacs (and Ruby) based Static Site Generator](https://michal.sapka.pl/2025/msite/)
 * [2025-04-01, 07:24:19](https://lobste.rs/s/a2wi1j/love_letter_csv_format) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
 * [2025-04-01, 06:51:22](https://lobste.rs/s/954llr/who_s_hiring_q2_2025) - [Who's Hiring? Q2 2025](https://lobste.rs/s/954llr/who_s_hiring_q2_2025)
@@ -18,7 +19,6 @@
 * [2025-03-31, 17:08:24](https://lobste.rs/s/bocapp/select_element_can_now_be_customized_with) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 * [2025-03-31, 16:33:02](https://lobste.rs/s/espq0p/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
-* [2025-03-31, 15:45:40](https://lobste.rs/s/rpoxub/shadowing_python_gave_me) - [Shadowing in Python gave me an UnboundLocalError](https://ntietz.com/blog/pythons-shadowing-behavior-always-surprises-me/)
 * [2025-03-31, 15:38:11](https://lobste.rs/s/gpvjlw/interaction_nets) - [Interaction nets](https://wiki.xxiivv.com/site/interaction_nets.html)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
 * [2025-03-31, 12:26:02](https://lobste.rs/s/lls3ha/framework_13_amd_setup_with_freebsd) - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
