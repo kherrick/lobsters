@@ -2,6 +2,7 @@
 
 * [2025-04-01, 16:59:01](https://lobste.rs/s/8dtj3n/new_state_art_turing_test_drawing_rubik_s) - [new state of the art turing test: drawing a rubik's cube](https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2)
 * [2025-04-01, 16:15:46](https://lobste.rs/s/qrb3ve/streaming_changes_from_postgres) - [Streaming changes from Postgres: the architecture behind Sequin](https://blog.sequinstream.com/streaming-changes-from-postgres-the-architecture-behind-sequin/)
+* [2025-04-01, 14:37:12](https://lobste.rs/s/t51nab/anubis_weighs_soul_incoming_http) - [anubis: Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers](https://github.com/TecharoHQ/anubis)
 * [2025-04-01, 14:22:25](https://lobste.rs/s/fu9osm/goodbye_offpunk_welcome_xkcdpunk) - [Goodbye Offpunk, Welcome XKCDpunk](https://ploum.net/2025-04-01-xkcdpunk.html)
 * [2025-04-01, 14:01:58](https://lobste.rs/s/xtrx71/intuiting_tls) - [Intuiting TLS](https://kprotty.me/2025/04/01/intuiting-tls.html)
 * [2025-04-01, 12:50:59](https://lobste.rs/s/hvjeov/css_system_colors) - [CSS System colors](https://anto.pt/articles/css-system-colors)
@@ -11,7 +12,6 @@
 * [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
 * [2025-04-01, 09:25:21](https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 08:58:30](https://lobste.rs/s/ffsuxb/my_new_emacs_ruby_based_static_site) - [My new Emacs (and Ruby) based Static Site Generator](https://michal.sapka.pl/2025/msite/)
-* [2025-04-01, 07:29:08](https://lobste.rs/s/tjh0qt/stop_syncing_everything) - [Stop syncing everything](https://sqlsync.dev/posts/stop-syncing-everything/)
 * [2025-04-01, 07:24:19](https://lobste.rs/s/a2wi1j/love_letter_csv_format) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
 * [2025-04-01, 06:51:22](https://lobste.rs/s/954llr/who_s_hiring_q2_2025) - [Who's Hiring? Q2 2025](https://lobste.rs/s/954llr/who_s_hiring_q2_2025)
 * [2025-04-01, 06:34:27](https://lobste.rs/s/8gycxf/fskit) - [FSKit](https://developer.apple.com/documentation/fskit)
