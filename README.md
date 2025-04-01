@@ -2,6 +2,7 @@
 
 * [2025-03-31, 22:00:53](https://lobste.rs/s/hw3kpz/what_s_nix_store_path) - [What’s in a Nix store path](https://fzakaria.com/2025/03/28/what-s-in-a-nix-store-path)
 * [2025-03-31, 21:32:01](https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey) - [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
+* [2025-03-31, 20:37:31](https://lobste.rs/s/abny91/fast_mqtt_logger_syslog) - [Fast MQTT logger (to syslog)](https://raymii.org/s/software/Fast_MQTT_Logger.html)
 * [2025-03-31, 19:41:07](https://lobste.rs/s/jrsz2s/ai_math_puzzle) - [AI/Math Puzzle](https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/)
 * [2025-03-31, 18:07:43](https://lobste.rs/s/ivahql/foundation_models_unix) - [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
@@ -14,7 +15,6 @@
 * [2025-03-31, 15:38:11](https://lobste.rs/s/gpvjlw/interaction_nets) - [Interaction nets](https://wiki.xxiivv.com/site/interaction_nets.html)
 * [2025-03-31, 13:53:33](https://lobste.rs/s/ndnbme/building_native_packages_is_complicated) - [Building native packages is complicated](https://xeiaso.net/blog/2025/anubis-packaging/)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
-* [2025-03-31, 12:26:45](https://lobste.rs/s/fa2bgf/why_do_i_run_freebsd_for_my_home_servers) - [Why Do I Run FreeBSD for My Home Servers](https://aumont.fr/posts/FreeBSD-Home-Server/)
 * [2025-03-31, 12:26:02](https://lobste.rs/s/lls3ha/framework_13_amd_setup_with_freebsd) - [Framework 13 AMD Setup with FreeBSD](https://euroquis.nl/freebsd/2025/03/16/framework.html)
 * [2025-03-31, 12:25:19](https://lobste.rs/s/t4ez0z/hoster_built_using_freebsd_bhyve_zfs_pf_go) - [Hoster - Built Using FreeBSD/Bhyve/ZFS/PF/Go Makes VM/Jails Deployments Fast and Easy](https://docs.hoster-core.gateway-it.com/)
 * [2025-03-31, 11:01:40](https://lobste.rs/s/via6xm/there_is_no_vibe_engineering) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)

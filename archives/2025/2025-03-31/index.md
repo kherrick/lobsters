@@ -6,6 +6,7 @@
 
 * [2025-03-31, 22:00:53](https://lobste.rs/s/hw3kpz/what_s_nix_store_path) - [What’s in a Nix store path](https://fzakaria.com/2025/03/28/what-s-in-a-nix-store-path)
 * [2025-03-31, 21:32:01](https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey) - [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
+* [2025-03-31, 20:37:31](https://lobste.rs/s/abny91/fast_mqtt_logger_syslog) - [Fast MQTT logger (to syslog)](https://raymii.org/s/software/Fast_MQTT_Logger.html)
 * [2025-03-31, 19:41:07](https://lobste.rs/s/jrsz2s/ai_math_puzzle) - [AI/Math Puzzle](https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/)
 * [2025-03-31, 18:07:43](https://lobste.rs/s/ivahql/foundation_models_unix) - [Foundation Models and Unix](https://vagos.github.io/blog/foundation-models-unix.html)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
