@@ -2,6 +2,7 @@
 
 * [2025-04-01, 11:12:19](https://lobste.rs/s/uw8d9a/python_polars_definitive_guide) - [Python Polars: The Definitive Guide](https://polarsguide.com)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
+* [2025-04-01, 11:03:13](https://lobste.rs/s/o3o1qb/algol_for_linux_is_reimagining_memory) - [ALGOL-FOR-LINUX is Reimagining Memory Safety for Linux](https://algol-for-linux.com/)
 * [2025-04-01, 09:25:21](https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 08:58:30](https://lobste.rs/s/ffsuxb/my_new_emacs_ruby_based_static_site) - [My new Emacs (and Ruby) based Static Site Generator](https://michal.sapka.pl/2025/msite/)
 * [2025-04-01, 07:24:19](https://lobste.rs/s/a2wi1j/love_letter_csv_format) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
@@ -22,7 +23,6 @@
 * [2025-03-31, 16:33:02](https://lobste.rs/s/espq0p/warren_s_abstract_machine_tutorial) - [Warren's Abstract Machine: A Tutorial Reconstruction (1999)](https://web.archive.org/web/20110403055600/http://wambook.sourceforge.net/)
 * [2025-03-31, 15:38:11](https://lobste.rs/s/gpvjlw/interaction_nets) - [Interaction nets](https://wiki.xxiivv.com/site/interaction_nets.html)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
-* [2025-03-31, 12:25:19](https://lobste.rs/s/t4ez0z/hoster_built_using_freebsd_bhyve_zfs_pf_go) - [Hoster - Built Using FreeBSD/Bhyve/ZFS/PF/Go Makes VM/Jails Deployments Fast and Easy](https://docs.hoster-core.gateway-it.com/)
 * [2025-03-31, 11:01:40](https://lobste.rs/s/via6xm/there_is_no_vibe_engineering) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
 * [2025-03-31, 10:11:39](https://lobste.rs/s/tvx2b5/dipping_my_toes_openbsd_amsterdam) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 
