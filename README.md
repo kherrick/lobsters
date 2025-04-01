@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-01, 00:45:49](https://lobste.rs/s/e7eve4/windows_on_arm_on_smart_watch) - [Windows on ARM on a Smart Watch](https://gus33000.me/fish/)
 * [2025-03-31, 22:00:53](https://lobste.rs/s/hw3kpz/what_s_nix_store_path) - [What’s in a Nix store path](https://fzakaria.com/2025/03/28/what-s-in-a-nix-store-path)
 * [2025-03-31, 21:32:01](https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey) - [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
 * [2025-03-31, 20:37:31](https://lobste.rs/s/abny91/fast_mqtt_logger_syslog) - [Fast MQTT logger (to syslog)](https://raymii.org/s/software/Fast_MQTT_Logger.html)
@@ -19,7 +20,6 @@
 * [2025-03-31, 12:25:19](https://lobste.rs/s/t4ez0z/hoster_built_using_freebsd_bhyve_zfs_pf_go) - [Hoster - Built Using FreeBSD/Bhyve/ZFS/PF/Go Makes VM/Jails Deployments Fast and Easy](https://docs.hoster-core.gateway-it.com/)
 * [2025-03-31, 11:01:40](https://lobste.rs/s/via6xm/there_is_no_vibe_engineering) - [There is no Vibe Engineering](https://serce.me/posts/2025-31-03-there-is-no-vibe-engineering)
 * [2025-03-31, 10:11:39](https://lobste.rs/s/tvx2b5/dipping_my_toes_openbsd_amsterdam) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
-* [2025-03-31, 09:35:32](https://lobste.rs/s/uw8gde/french_antitrust_watchdog_fines_apple) - [French antitrust watchdog fines Apple €150M for App Tracking Transparency implementation](https://www.autoritedelaconcurrence.fr/en/press-release/targeted-advertising-autorite-de-la-concurrence-imposes-fine-eu150000000-apple)
 * [2025-03-31, 08:34:56](https://lobste.rs/s/76md2p/impromptu_disaster_recovery) - [Impromptu disaster recovery](https://fasterthanli.me/articles/impromptu-disaster-recovery)
 * [2025-03-31, 08:26:08](https://lobste.rs/s/r6l5s4/how_borrow_memory_2021) - [How to borrow memory (2021)](https://www.falsifian.org/blog/2021/06/04/catalytic/)
 * [2025-03-31, 07:52:49](https://lobste.rs/s/tn6x34/alphastation_s_srom) - [An AlphaStation's SROM](https://www.thejpster.org.uk/blog/blog-2025-03-30/)
