@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-03-31, 20:37:31",
+      "https://lobste.rs/s/abny91/fast_mqtt_logger_syslog"
+    ],
+    [
+      "Fast MQTT logger (to syslog)",
+      "https://raymii.org/s/software/Fast_MQTT_Logger.html"
+    ]
+  ],
+  [
+    [
       "2025-03-31, 19:41:07",
       "https://lobste.rs/s/jrsz2s/ai_math_puzzle"
     ],
@@ -137,16 +147,6 @@
     [
       "Giving up the dylib dream",
       "https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 12:26:45",
-      "https://lobste.rs/s/fa2bgf/why_do_i_run_freebsd_for_my_home_servers"
-    ],
-    [
-      "Why Do I Run FreeBSD for My Home Servers",
-      "https://aumont.fr/posts/FreeBSD-Home-Server/"
     ]
   ],
   [
