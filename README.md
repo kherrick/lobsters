@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-01, 16:15:46](https://lobste.rs/s/qrb3ve/streaming_changes_from_postgres) - [Streaming changes from Postgres: the architecture behind Sequin](https://blog.sequinstream.com/streaming-changes-from-postgres-the-architecture-behind-sequin/)
 * [2025-04-01, 14:37:12](https://lobste.rs/s/t51nab/anubis_weighs_soul_incoming_http) - [anubis: Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers](https://github.com/TecharoHQ/anubis)
 * [2025-04-01, 14:22:25](https://lobste.rs/s/fu9osm/goodbye_offpunk_welcome_xkcdpunk) - [Goodbye Offpunk, Welcome XKCDpunk](https://ploum.net/2025-04-01-xkcdpunk.html)
 * [2025-04-01, 14:01:58](https://lobste.rs/s/xtrx71/intuiting_tls) - [Intuiting TLS](https://kprotty.me/2025/04/01/intuiting-tls.html)
@@ -19,7 +20,6 @@
 * [2025-04-01, 02:15:47](https://lobste.rs/s/sjnbsz/3110_coq_tactics_cheatsheet) - [3110 Coq Tactics Cheatsheet](https://www.cs.cornell.edu/courses/cs3110/2018sp/a5/coq-tactics-cheatsheet.html)
 * [2025-03-31, 21:32:01](https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey) - [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
-* [2025-03-31, 17:26:53](https://lobste.rs/s/7dbawc/gnu_octave_scientific_programming) - [GNU Octave: Scientific Programming Language](https://octave.org/index)
 * [2025-03-31, 17:08:24](https://lobste.rs/s/bocapp/select_element_can_now_be_customized_with) - [The <select> element can now be customized with CSS](https://developer.chrome.com/blog/a-customizable-select)
 * [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
