@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 12:33:08](https://lobste.rs/s/kubso9/why_f) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/uw8d9a/python_polars_definitive_guide) - [Python Polars: The Definitive Guide](https://polarsguide.com)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
 * [2025-04-01, 11:03:13](https://lobste.rs/s/o3o1qb/algol_for_linux_is_reimagining_memory) - [ALGOL-FOR-LINUX is Reimagining Memory Safety for Linux](https://algol-for-linux.com/)
