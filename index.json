@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-01, 14:37:12",
+      "https://lobste.rs/s/t51nab/anubis_weighs_soul_incoming_http"
+    ],
+    [
+      "anubis: Weighs the soul of incoming HTTP requests using proof-of-work to stop AI crawlers",
+      "https://github.com/TecharoHQ/anubis"
+    ]
+  ],
+  [
+    [
       "2025-04-01, 14:22:25",
       "https://lobste.rs/s/fu9osm/goodbye_offpunk_welcome_xkcdpunk"
     ],
@@ -27,6 +37,16 @@
     [
       "CSS System colors",
       "https://anto.pt/articles/css-system-colors"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 12:46:03",
+      "https://lobste.rs/s/8lxlev/rockbox_4_0_released"
+    ],
+    [
+      "Rockbox 4.0 released",
+      "https://www.rockbox.org/mail/archive//rockbox-archive-2025-04/0000.shtml"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-04-01, 00:45:49",
-      "https://lobste.rs/s/e7eve4/windows_on_arm_on_smart_watch"
-    ],
-    [
-      "Windows on ARM on a Smart Watch",
-      "https://gus33000.me/fish/"
-    ]
-  ],
-  [
-    [
       "2025-03-31, 21:32:01",
       "https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey"
     ],
@@ -207,16 +217,6 @@
     [
       "The Evolution of HTTPS Adoption in Firefox",
       "https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 15:38:11",
-      "https://lobste.rs/s/gpvjlw/interaction_nets"
-    ],
-    [
-      "Interaction nets",
-      "https://wiki.xxiivv.com/site/interaction_nets.html"
     ]
   ],
   [
