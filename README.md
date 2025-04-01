@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-01, 14:01:58](https://lobste.rs/s/xtrx71/intuiting_tls) - [Intuiting TLS](https://kprotty.me/2025/04/01/intuiting-tls.html)
 * [2025-04-01, 12:50:59](https://lobste.rs/s/hvjeov/css_system_colors) - [CSS System colors](https://anto.pt/articles/css-system-colors)
 * [2025-04-01, 12:33:08](https://lobste.rs/s/kubso9/why_f) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/uw8d9a/python_polars_definitive_guide) - [Python Polars: The Definitive Guide](https://polarsguide.com)
@@ -10,7 +11,6 @@
 * [2025-04-01, 06:51:22](https://lobste.rs/s/954llr/who_s_hiring_q2_2025) - [Who's Hiring? Q2 2025](https://lobste.rs/s/954llr/who_s_hiring_q2_2025)
 * [2025-04-01, 06:49:50](https://lobste.rs/s/0su2r6/linux_6_15_perf_tooling_introduces_new) - [Linux 6.15 Perf Tooling Introduces New Support For Latency Profiling](https://www.phoronix.com/news/Linux-6.15-Perf-Tools-Latency)
 * [2025-04-01, 06:34:27](https://lobste.rs/s/8gycxf/fskit) - [FSKit](https://developer.apple.com/documentation/fskit)
-* [2025-04-01, 05:42:49](https://lobste.rs/s/kxblik/programming_with_ai_copilot_my) - [Programming with an AI copilot: My perspective as a senior dev](https://mlagerberg.com/blog-ai-copilot/)
 * [2025-04-01, 04:50:27](https://lobste.rs/s/ktngc0/9front_front_end_tomorrow_released) - [9front “THE FRONT END OF TOMORROW” released](https://9front.org/releases/2025/04/01/0/)
 * [2025-04-01, 04:24:24](https://lobste.rs/s/7h1c2a/pidgin_3_0_experimental_2_2_91_0_has_been) - [Pidgin 3.0 Experimental 2 (2.91.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-2-2-91-0-has-been-released/262)
 * [2025-04-01, 02:15:47](https://lobste.rs/s/sjnbsz/3110_coq_tactics_cheatsheet) - [3110 Coq Tactics Cheatsheet](https://www.cs.cornell.edu/courses/cs3110/2018sp/a5/coq-tactics-cheatsheet.html)
