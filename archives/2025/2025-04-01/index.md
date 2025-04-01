@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-01](index.md)
 
+* [2025-04-01, 11:12:19](https://lobste.rs/s/uw8d9a/python_polars_definitive_guide) - [Python Polars: The Definitive Guide](https://polarsguide.com)
+* [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
 * [2025-04-01, 09:25:21](https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
 * [2025-04-01, 08:58:30](https://lobste.rs/s/ffsuxb/my_new_emacs_ruby_based_static_site) - [My new Emacs (and Ruby) based Static Site Generator](https://michal.sapka.pl/2025/msite/)
 * [2025-04-01, 07:24:19](https://lobste.rs/s/a2wi1j/love_letter_csv_format) - [A love letter to the CSV format](https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md)
