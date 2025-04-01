@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-01, 12:33:08",
+      "https://lobste.rs/s/kubso9/why_f"
+    ],
+    [
+      "Why F#?",
+      "https://batsov.com/articles/2025/03/30/why-fsharp/"
+    ]
+  ],
+  [
+    [
       "2025-04-01, 11:12:19",
       "https://lobste.rs/s/uw8d9a/python_polars_definitive_guide"
     ],
@@ -111,16 +121,6 @@
   ],
   [
     [
-      "2025-04-01, 03:50:18",
-      "https://lobste.rs/s/cfnk2q/building_real_time_video_transcription"
-    ],
-    [
-      "Building Real-Time Video Transcription & Sentiment Analysis for Peer Support",
-      "https://www.kuky.com/"
-    ]
-  ],
-  [
-    [
       "2025-04-01, 02:15:47",
       "https://lobste.rs/s/sjnbsz/3110_coq_tactics_cheatsheet"
     ],
@@ -151,12 +151,12 @@
   ],
   [
     [
-      "2025-03-31, 19:41:07",
-      "https://lobste.rs/s/jrsz2s/ai_math_puzzle"
+      "2025-03-31, 18:07:43",
+      "https://lobste.rs/s/ivahql/foundation_models_unix"
     ],
     [
-      "AI/Math Puzzle",
-      "https://aggressivelyparaphrasing.me/2025/03/31/can-you-solve-this-ai-math-puzzle-and-get-a-prize-i-couldnt/"
+      "Foundation Models and Unix",
+      "https://vagos.github.io/blog/foundation-models-unix.html"
     ]
   ],
   [
