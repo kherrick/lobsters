@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-01, 22:27:42](https://lobste.rs/s/utxfxu/jj_fzf_text_ui_for_jujutsu_based_on_fzf) - [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf)
 * [2025-04-01, 19:37:20](https://lobste.rs/s/vwjlyl/most_amusing_security_flaws_i_ve) - [The Most Amusing Security Flaws I've Discovered](https://predr.ag/blog/xorry-not-sorry-most-amusing-security-flaws-ive-discovered/)
 * [2025-04-01, 18:09:26](https://lobste.rs/s/jd18fo/numbers_go_brrrr) - [Numbers Go Brrrr](https://absorensen.github.io/numbers_go_brrrr/)
 * [2025-04-01, 16:59:01](https://lobste.rs/s/8dtj3n/new_state_art_turing_test_drawing_rubik_s) - [new state of the art turing test: drawing a rubik's cube](https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2)
@@ -22,7 +23,6 @@
 * [2025-04-01, 02:15:47](https://lobste.rs/s/sjnbsz/3110_coq_tactics_cheatsheet) - [3110 Coq Tactics Cheatsheet](https://www.cs.cornell.edu/courses/cs3110/2018sp/a5/coq-tactics-cheatsheet.html)
 * [2025-03-31, 21:32:01](https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey) - [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
 * [2025-03-31, 18:00:16](https://lobste.rs/s/bks2qz/ekapkgs_poly_repo_fork_nixpkgs) - [Ekapkgs, a poly-repo fork of Nixpkgs](https://nixcademy.com/posts/ekala-project/)
-* [2025-03-31, 16:49:43](https://lobste.rs/s/dcbnlm/evolution_https_adoption_firefox) - [The Evolution of HTTPS Adoption in Firefox](https://attackanddefense.dev/2024/03/31/https-first-in-firefox-136.html)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
 * [2025-03-31, 10:11:39](https://lobste.rs/s/tvx2b5/dipping_my_toes_openbsd_amsterdam) - [Dipping my toes in OpenBSD, in Amsterdam](https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/)
 
