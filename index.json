@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-02, 16:14:05",
+      "https://lobste.rs/s/lnz2pu/how_dependabot_applies_advisory"
+    ],
+    [
+      "How Dependabot Applies Advisory Databases To Python",
+      "https://youtu.be/vOQmvEUt_AU"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 15:57:55",
+      "https://lobste.rs/s/8emy5x/chawan_tui_web_browser"
+    ],
+    [
+      "chawan: TUI Web Browser",
+      "https://sr.ht/%7Ebptato/chawan/"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 14:10:57",
       "https://lobste.rs/s/oliu4b/django_5_2_released"
     ],
@@ -27,16 +47,6 @@
     [
       "How crawlers impact the operations of the Wikimedia projects",
       "https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 12:19:50",
-      "https://lobste.rs/s/wqdlu7/train_weather_tracker_with_raspberry_pi_e"
-    ],
-    [
-      "Train & Weather Tracker with Raspberry Pi & E-Ink",
-      "https://sambroner.com/posts/raspberry-pi-train"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "Streaming changes from Postgres: the architecture behind Sequin",
       "https://blog.sequinstream.com/streaming-changes-from-postgres-the-architecture-behind-sequin/"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 14:22:25",
-      "https://lobste.rs/s/fu9osm/goodbye_offpunk_welcome_xkcdpunk"
-    ],
-    [
-      "Goodbye Offpunk, Welcome XKCDpunk",
-      "https://ploum.net/2025-04-01-xkcdpunk.html"
     ]
   ],
   [
