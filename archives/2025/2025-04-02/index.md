@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
+* [2025-04-02, 18:19:00](https://lobste.rs/s/mblorq/more_predictable_benchmarking_with) - [More predictable benchmarking with testing.B.Loop](https://go.dev/blog/testing-b-loop)
+* [2025-04-02, 18:15:58](https://lobste.rs/s/n2ec5g/prospero_with_cranelift_jit_simd) - [Prospero with Cranelift JIT and SIMD](https://whtwnd.com/aviva.gay/3ll5dbskg3v26)
+* [2025-04-02, 18:00:11](https://lobste.rs/s/twylzo/test_sizes_2010) - [Test Sizes (2010)](https://testing.googleblog.com/2010/12/test-sizes.html)
 * [2025-04-02, 17:36:51](https://lobste.rs/s/kkmvkd/pytorch_python_free_threading_unlocking) - [PyTorch and Python Free-Threading: Unlocking multi-threaded parallel inference on PyTorch models](https://trent.me/articles/pytorch-and-python-free-threading/)
 * [2025-04-02, 17:24:39](https://lobste.rs/s/s6nlac/cell_phone_opsec_for_border_crossings) - [Cell Phone OPSEC for Border Crossings](https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html)
 * [2025-04-02, 16:54:34](https://lobste.rs/s/kvganp/fast_compilation_fast_execution_just) - [Fast Compilation or Fast Execution: Just Have Both](https://cedardb.com/blog/compilation/)
