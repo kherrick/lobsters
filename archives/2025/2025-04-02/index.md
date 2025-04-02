@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 19:12:12](https://lobste.rs/s/xpmufx/memory_safety_continuum) - [The Memory Safety Continuum](https://memorysafety.openssf.org/memory-safety-continuum/)
+* [2025-04-02, 18:59:19](https://lobste.rs/s/ikc5av/asynchronous_vscode_like_http_plugin_for) - [An asynchronous VsCode-like HTTP plugin for Neovim](https://github.com/blacklight/nvim-http)
 * [2025-04-02, 18:47:59](https://lobste.rs/s/lvofny/valkey_new_hash_table) - [Valkey - A new hash table](https://valkey.io/blog/new-hash-table/)
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
 * [2025-04-02, 18:19:00](https://lobste.rs/s/mblorq/more_predictable_benchmarking_with) - [More predictable benchmarking with testing.B.Loop](https://go.dev/blog/testing-b-loop)
