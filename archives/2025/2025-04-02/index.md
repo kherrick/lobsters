@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 13:31:52](https://lobste.rs/s/fwybvc/tailscale_enterprise_plan_9_support) - [Tailscale Enterprise Plan 9 Support](https://tailscale.com/blog/tailscale-enterprise-plan-9-support)
 * [2025-04-02, 13:11:55](https://lobste.rs/s/autpsf/how_crawlers_impact_operations) - [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
 * [2025-04-02, 12:19:50](https://lobste.rs/s/wqdlu7/train_weather_tracker_with_raspberry_pi_e) - [Train & Weather Tracker with Raspberry Pi & E-Ink](https://sambroner.com/posts/raspberry-pi-train)
 * [2025-04-02, 11:29:24](https://lobste.rs/s/rhkjsk/grepping_logs_remains_terrible) - [Grepping logs remains terrible](https://chronicles.mad-scientist.club/tales/grepping-logs-remains-terrible/)
