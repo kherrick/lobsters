@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 17:36:51](https://lobste.rs/s/kkmvkd/pytorch_python_free_threading_unlocking) - [PyTorch and Python Free-Threading: Unlocking multi-threaded parallel inference on PyTorch models](https://trent.me/articles/pytorch-and-python-free-threading/)
 * [2025-04-02, 17:24:39](https://lobste.rs/s/s6nlac/cell_phone_opsec_for_border_crossings) - [Cell Phone OPSEC for Border Crossings](https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html)
 * [2025-04-02, 16:54:34](https://lobste.rs/s/kvganp/fast_compilation_fast_execution_just) - [Fast Compilation or Fast Execution: Just Have Both](https://cedardb.com/blog/compilation/)
 * [2025-04-02, 16:14:05](https://lobste.rs/s/lnz2pu/how_dependabot_applies_advisory) - [How Dependabot Applies Advisory Databases To Python](https://youtu.be/vOQmvEUt_AU)
