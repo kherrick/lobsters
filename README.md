@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-02, 07:20:00](https://lobste.rs/s/bxqwlt/defence_typescript_enums) - [In Defence of Typescript Enums](https://yazanalaboudi.dev/in-defence-of-typescript-enums)
 * [2025-04-02, 06:28:17](https://lobste.rs/s/ctzngb/cosy) - [CoSy](https://cosy.com/)
 * [2025-04-02, 02:24:18](https://lobste.rs/s/jghuoa/advent_code_coq_2021) - [Advent of Code in Coq (2021)](https://github.com/Lysxia/advent-of-coq-2021)
 * [2025-04-02, 00:08:29](https://lobste.rs/s/yyb8je/good_bad_ugly_managing_sphinx_projects) - [The good, the bad, and the ugly of managing Sphinx projects with Bazel](https://technicalwriting.dev/sphinx/bazel/context.html)
@@ -23,7 +24,6 @@
 * [2025-04-01, 06:34:27](https://lobste.rs/s/8gycxf/fskit) - [FSKit](https://developer.apple.com/documentation/fskit)
 * [2025-04-01, 04:50:27](https://lobste.rs/s/ktngc0/9front_front_end_tomorrow_released) - [9front “THE FRONT END OF TOMORROW” released](https://9front.org/releases/2025/04/01/0/)
 * [2025-04-01, 04:24:24](https://lobste.rs/s/7h1c2a/pidgin_3_0_experimental_2_2_91_0_has_been) - [Pidgin 3.0 Experimental 2 (2.91.0) has been released](https://discourse.imfreedom.org/t/pidgin-3-0-experimental-2-2-91-0-has-been-released/262)
-* [2025-03-31, 21:32:01](https://lobste.rs/s/qttqfq/how_i_spent_saturday_recovering_passkey) - [How I Spent Saturday Recovering A Passkey Or Why Open-Source Software Matters](https://taggr.link/post/1425921)
 * [2025-03-31, 13:08:47](https://lobste.rs/s/ybbhxp/giving_up_dylib_dream) - [Giving up the dylib dream](https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html)
 
 ## [Archives](archives/index.md)
