@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 18:47:59](https://lobste.rs/s/lvofny/valkey_new_hash_table) - [Valkey - A new hash table](https://valkey.io/blog/new-hash-table/)
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
 * [2025-04-02, 18:19:00](https://lobste.rs/s/mblorq/more_predictable_benchmarking_with) - [More predictable benchmarking with testing.B.Loop](https://go.dev/blog/testing-b-loop)
 * [2025-04-02, 18:15:58](https://lobste.rs/s/n2ec5g/prospero_with_cranelift_jit_simd) - [Prospero with Cranelift JIT and SIMD](https://whtwnd.com/aviva.gay/3ll5dbskg3v26)

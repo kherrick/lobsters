@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-02, 18:47:59](https://lobste.rs/s/lvofny/valkey_new_hash_table) - [Valkey - A new hash table](https://valkey.io/blog/new-hash-table/)
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
 * [2025-04-02, 18:19:00](https://lobste.rs/s/mblorq/more_predictable_benchmarking_with) - [More predictable benchmarking with testing.B.Loop](https://go.dev/blog/testing-b-loop)
 * [2025-04-02, 18:15:58](https://lobste.rs/s/n2ec5g/prospero_with_cranelift_jit_simd) - [Prospero with Cranelift JIT and SIMD](https://whtwnd.com/aviva.gay/3ll5dbskg3v26)
@@ -19,7 +20,6 @@
 * [2025-04-01, 23:37:17](https://lobste.rs/s/abunxs/roguetype_first_ever_roguelike_written) - [Roguetype: The first ever roguelike written in the OCaml type system](https://github.com/Octachron/roguetype)
 * [2025-04-01, 22:27:42](https://lobste.rs/s/utxfxu/jj_fzf_text_ui_for_jujutsu_based_on_fzf) - [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf)
 * [2025-04-01, 16:59:01](https://lobste.rs/s/8dtj3n/new_state_art_turing_test_drawing_rubik_s) - [new state of the art turing test: drawing a rubik's cube](https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2)
-* [2025-04-01, 16:15:46](https://lobste.rs/s/qrb3ve/streaming_changes_from_postgres) - [Streaming changes from Postgres: the architecture behind Sequin](https://blog.sequinstream.com/streaming-changes-from-postgres-the-architecture-behind-sequin/)
 * [2025-04-01, 12:46:03](https://lobste.rs/s/8lxlev/rockbox_4_0_released) - [Rockbox 4.0 released](https://www.rockbox.org/mail/archive//rockbox-archive-2025-04/0000.shtml)
 * [2025-04-01, 12:33:08](https://lobste.rs/s/kubso9/why_f) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
