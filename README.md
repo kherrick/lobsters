@@ -1,8 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-02, 19:12:12](https://lobste.rs/s/xpmufx/memory_safety_continuum) - [The Memory Safety Continuum](https://memorysafety.openssf.org/memory-safety-continuum/)
 * [2025-04-02, 18:59:19](https://lobste.rs/s/ikc5av/asynchronous_vscode_like_http_plugin_for) - [An asynchronous VsCode-like HTTP plugin for Neovim](https://github.com/blacklight/nvim-http)
+* [2025-04-02, 18:47:59](https://lobste.rs/s/lvofny/valkey_new_hash_table) - [Valkey - A new hash table](https://valkey.io/blog/new-hash-table/)
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
+* [2025-04-02, 18:19:00](https://lobste.rs/s/mblorq/more_predictable_benchmarking_with) - [More predictable benchmarking with testing.B.Loop](https://go.dev/blog/testing-b-loop)
 * [2025-04-02, 18:00:11](https://lobste.rs/s/twylzo/test_sizes_2010) - [Test Sizes (2010)](https://testing.googleblog.com/2010/12/test-sizes.html)
 * [2025-04-02, 17:36:51](https://lobste.rs/s/kkmvkd/pytorch_python_free_threading_unlocking) - [PyTorch and Python Free-Threading: Unlocking multi-threaded parallel inference on PyTorch models](https://trent.me/articles/pytorch-and-python-free-threading/)
 * [2025-04-02, 16:54:34](https://lobste.rs/s/kvganp/fast_compilation_fast_execution_just) - [Fast Compilation or Fast Execution: Just Have Both](https://cedardb.com/blog/compilation/)
@@ -16,7 +17,6 @@
 * [2025-04-02, 08:58:25](https://lobste.rs/s/9r0tbx/xan_csv_magician) - [xan: The CSV magician](https://github.com/medialab/xan)
 * [2025-04-02, 07:20:00](https://lobste.rs/s/bxqwlt/defence_typescript_enums) - [In Defence of Typescript Enums](https://yazanalaboudi.dev/in-defence-of-typescript-enums)
 * [2025-04-02, 06:28:17](https://lobste.rs/s/ctzngb/cosy) - [CoSy](https://cosy.com/)
-* [2025-04-02, 02:24:18](https://lobste.rs/s/jghuoa/advent_code_coq_2021) - [Advent of Code in Coq (2021)](https://github.com/Lysxia/advent-of-coq-2021)
 * [2025-04-01, 23:37:17](https://lobste.rs/s/abunxs/roguetype_first_ever_roguelike_written) - [Roguetype: The first ever roguelike written in the OCaml type system](https://github.com/Octachron/roguetype)
 * [2025-04-01, 22:27:42](https://lobste.rs/s/utxfxu/jj_fzf_text_ui_for_jujutsu_based_on_fzf) - [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf)
 * [2025-04-01, 16:59:01](https://lobste.rs/s/8dtj3n/new_state_art_turing_test_drawing_rubik_s) - [new state of the art turing test: drawing a rubik's cube](https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2)
