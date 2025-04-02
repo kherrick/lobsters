@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-02, 10:28:37",
+      "https://lobste.rs/s/1xj2y2/fifth_kind_optimisation"
+    ],
+    [
+      "The Fifth Kind of Optimisation",
+      "https://tratt.net/laurie/blog/2025/the_fifth_kind_of_optimisation.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 10:27:32",
+      "https://lobste.rs/s/ieu1gj/interrupt_handling_stack_switching_x86"
+    ],
+    [
+      "Interrupt Handling and Stack Switching in x86-64 Architecture",
+      "https://theokwebb.github.io/posts/interrupt-handling-and-stack-switching/"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 08:58:25",
       "https://lobste.rs/s/9r0tbx/xan_csv_magician"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-04-01, 14:01:58",
-      "https://lobste.rs/s/xtrx71/intuiting_tls"
-    ],
-    [
-      "Intuiting TLS",
-      "https://kprotty.me/2025/04/01/intuiting-tls.html"
-    ]
-  ],
-  [
-    [
       "2025-04-01, 12:50:59",
       "https://lobste.rs/s/hvjeov/css_system_colors"
     ],
@@ -187,16 +197,6 @@
     [
       "My new Emacs (and Ruby) based Static Site Generator",
       "https://michal.sapka.pl/2025/msite/"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 07:29:08",
-      "https://lobste.rs/s/tjh0qt/stop_syncing_everything"
-    ],
-    [
-      "Stop syncing everything",
-      "https://sqlsync.dev/posts/stop-syncing-everything/"
     ]
   ],
   [
