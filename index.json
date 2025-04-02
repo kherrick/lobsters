@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-02, 02:24:18",
+      "https://lobste.rs/s/jghuoa/advent_code_coq_2021"
+    ],
+    [
+      "Advent of Code in Coq (2021)",
+      "https://github.com/Lysxia/advent-of-coq-2021"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 00:08:29",
       "https://lobste.rs/s/yyb8je/good_bad_ugly_managing_sphinx_projects"
     ],
@@ -237,16 +247,6 @@
     [
       "Giving up the dylib dream",
       "https://octet-stream.net/b/scb/2025-03-31-giving-up-the-dylib-dream.html"
-    ]
-  ],
-  [
-    [
-      "2025-03-31, 10:11:39",
-      "https://lobste.rs/s/tvx2b5/dipping_my_toes_openbsd_amsterdam"
-    ],
-    [
-      "Dipping my toes in OpenBSD, in Amsterdam",
-      "https://ewintr.nl/posts/2025/dipping-my-toes-in-openbsd-in-amsterdam/"
     ]
   ]
 ]
