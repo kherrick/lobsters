@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-02, 06:28:17](https://lobste.rs/s/ctzngb/cosy) - [CoSy](https://cosy.com/)
 * [2025-04-02, 02:24:18](https://lobste.rs/s/jghuoa/advent_code_coq_2021) - [Advent of Code in Coq (2021)](https://github.com/Lysxia/advent-of-coq-2021)
 * [2025-04-02, 00:08:29](https://lobste.rs/s/yyb8je/good_bad_ugly_managing_sphinx_projects) - [The good, the bad, and the ugly of managing Sphinx projects with Bazel](https://technicalwriting.dev/sphinx/bazel/context.html)
-* [2025-04-01, 23:47:45](https://lobste.rs/s/iklxa9/sidekiq_8_0_improvements_web_ui) - [Sidekiq 8.0: Improvements to the Web UI](https://www.mikeperham.com/2025/04/01/sidekiq-8.0-improvements-to-the-web-ui/)
 * [2025-04-01, 23:37:17](https://lobste.rs/s/abunxs/roguetype_first_ever_roguelike_written) - [Roguetype: The first ever roguelike written in the OCaml type system](https://github.com/Octachron/roguetype)
 * [2025-04-01, 22:27:42](https://lobste.rs/s/utxfxu/jj_fzf_text_ui_for_jujutsu_based_on_fzf) - [jj-fzf: Text UI for Jujutsu based on fzf](https://github.com/tim-janik/jj-fzf)
 * [2025-04-01, 19:37:20](https://lobste.rs/s/vwjlyl/most_amusing_security_flaws_i_ve) - [The Most Amusing Security Flaws I've Discovered](https://predr.ag/blog/xorry-not-sorry-most-amusing-security-flaws-ive-discovered/)
