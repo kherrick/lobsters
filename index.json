@@ -1,16 +1,6 @@
 [
   [
     [
-      "2025-04-02, 02:24:18",
-      "https://lobste.rs/s/jghuoa/advent_code_coq_2021"
-    ],
-    [
-      "Advent of Code in Coq (2021)",
-      "https://github.com/Lysxia/advent-of-coq-2021"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 00:08:29",
       "https://lobste.rs/s/yyb8je/good_bad_ugly_managing_sphinx_projects"
     ],
@@ -177,6 +167,16 @@
     [
       "My new Emacs (and Ruby) based Static Site Generator",
       "https://michal.sapka.pl/2025/msite/"
+    ]
+  ],
+  [
+    [
+      "2025-04-01, 07:29:08",
+      "https://lobste.rs/s/tjh0qt/stop_syncing_everything"
+    ],
+    [
+      "Stop syncing everything",
+      "https://sqlsync.dev/posts/stop-syncing-everything/"
     ]
   ],
   [
