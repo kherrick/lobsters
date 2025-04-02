@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-02](index.md)
 
+* [2025-04-02, 19:59:17](https://lobste.rs/s/aupah1/gerrit_gitbutler_jujutsu_projects) - [Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer](https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u)
 * [2025-04-02, 19:12:12](https://lobste.rs/s/xpmufx/memory_safety_continuum) - [The Memory Safety Continuum](https://memorysafety.openssf.org/memory-safety-continuum/)
 * [2025-04-02, 18:59:19](https://lobste.rs/s/ikc5av/asynchronous_vscode_like_http_plugin_for) - [An asynchronous VsCode-like HTTP plugin for Neovim](https://github.com/blacklight/nvim-http)
 * [2025-04-02, 18:47:59](https://lobste.rs/s/lvofny/valkey_new_hash_table) - [Valkey - A new hash table](https://valkey.io/blog/new-hash-table/)

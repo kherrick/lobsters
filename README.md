@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-02, 19:59:17](https://lobste.rs/s/aupah1/gerrit_gitbutler_jujutsu_projects) - [Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer](https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u)
 * [2025-04-02, 18:59:19](https://lobste.rs/s/ikc5av/asynchronous_vscode_like_http_plugin_for) - [An asynchronous VsCode-like HTTP plugin for Neovim](https://github.com/blacklight/nvim-http)
 * [2025-04-02, 18:47:59](https://lobste.rs/s/lvofny/valkey_new_hash_table) - [Valkey - A new hash table](https://valkey.io/blog/new-hash-table/)
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
@@ -24,7 +25,6 @@
 * [2025-04-01, 12:33:08](https://lobste.rs/s/kubso9/why_f) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
 * [2025-04-01, 09:25:21](https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired) - [The April Fools joke that might have got me fired](http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html)
-* [2025-04-01, 06:51:22](https://lobste.rs/s/954llr/who_s_hiring_q2_2025) - [Who's Hiring? Q2 2025](https://lobste.rs/s/954llr/who_s_hiring_q2_2025)
 
 ## [Archives](archives/index.md)
 
