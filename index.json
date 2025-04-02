@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-02, 17:36:51",
+      "https://lobste.rs/s/kkmvkd/pytorch_python_free_threading_unlocking"
+    ],
+    [
+      "PyTorch and Python Free-Threading: Unlocking multi-threaded parallel inference on PyTorch models",
+      "https://trent.me/articles/pytorch-and-python-free-threading/"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 17:24:39",
       "https://lobste.rs/s/s6nlac/cell_phone_opsec_for_border_crossings"
     ],
@@ -227,16 +237,6 @@
     [
       "The April Fools joke that might have got me fired",
       "http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 07:24:19",
-      "https://lobste.rs/s/a2wi1j/love_letter_csv_format"
-    ],
-    [
-      "A love letter to the CSV format",
-      "https://github.com/medialab/xan/blob/master/docs/LOVE_LETTER.md"
     ]
   ],
   [
