@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-01, 23:47:45",
-      "https://lobste.rs/s/iklxa9/sidekiq_8_0_improvements_web_ui"
+      "2025-04-02, 00:08:29",
+      "https://lobste.rs/s/yyb8je/good_bad_ugly_managing_sphinx_projects"
     ],
     [
-      "Sidekiq 8.0: Improvements to the Web UI",
-      "https://www.mikeperham.com/2025/04/01/sidekiq-8.0-improvements-to-the-web-ui/"
+      "The good, the bad, and the ugly of managing Sphinx projects with Bazel",
+      "https://technicalwriting.dev/sphinx/bazel/context.html"
     ]
   ],
   [
