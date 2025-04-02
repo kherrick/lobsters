@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-04-02, 18:47:59",
-      "https://lobste.rs/s/lvofny/valkey_new_hash_table"
-    ],
-    [
-      "Valkey - A new hash table",
-      "https://valkey.io/blog/new-hash-table/"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 18:20:39",
       "https://lobste.rs/s/l7any5/ai_ambivalence"
     ],
@@ -47,6 +37,16 @@
     [
       "Test Sizes (2010)",
       "https://testing.googleblog.com/2010/12/test-sizes.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-02, 17:36:51",
+      "https://lobste.rs/s/kkmvkd/pytorch_python_free_threading_unlocking"
+    ],
+    [
+      "PyTorch and Python Free-Threading: Unlocking multi-threaded parallel inference on PyTorch models",
+      "https://trent.me/articles/pytorch-and-python-free-threading/"
     ]
   ],
   [
