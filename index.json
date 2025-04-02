@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-02, 18:47:59",
+      "https://lobste.rs/s/lvofny/valkey_new_hash_table"
+    ],
+    [
+      "Valkey - A new hash table",
+      "https://valkey.io/blog/new-hash-table/"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 18:20:39",
       "https://lobste.rs/s/l7any5/ai_ambivalence"
     ],
@@ -187,16 +197,6 @@
     [
       "new state of the art turing test: drawing a rubik's cube",
       "https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 16:15:46",
-      "https://lobste.rs/s/qrb3ve/streaming_changes_from_postgres"
-    ],
-    [
-      "Streaming changes from Postgres: the architecture behind Sequin",
-      "https://blog.sequinstream.com/streaming-changes-from-postgres-the-architecture-behind-sequin/"
     ]
   ],
   [
