@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-03, 17:09:00",
+      "https://lobste.rs/s/hnvs3o/overengineered_anchor_links"
+    ],
+    [
+      "Overengineered anchor links",
+      "https://thirty-five.com/overengineered-anchoring"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 17:07:45",
+      "https://lobste.rs/s/x9ll4e/why_we_are_still_using_88x31_buttons"
+    ],
+    [
+      "Why we are still using 88x31 buttons",
+      "https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 16:48:35",
       "https://lobste.rs/s/zxpqz0/regname_mass_renamer_tui_written_rust"
     ],
@@ -127,26 +147,6 @@
     [
       "Minimal CSS-only blurry image placeholders",
       "https://leanrada.com/notes/css-only-lqip/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 04:04:40",
-      "https://lobste.rs/s/btggvs/openssh_10_call_for_testing_dsa"
-    ],
-    [
-      "OpenSSH 10 call for testing, DSA deprecated",
-      "https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 03:39:36",
-      "https://lobste.rs/s/vsdeih/c_26_variadic_friends"
-    ],
-    [
-      "C++26: variadic friends",
-      "https://www.sandordargo.com/blog/2025/04/02/cpp26-variadic-friends"
     ]
   ],
   [
