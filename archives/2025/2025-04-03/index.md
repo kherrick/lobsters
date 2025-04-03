@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 19:18:31](https://lobste.rs/s/jitqoz/how_servo_motors_work) - [How servo motors work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
 * [2025-04-03, 17:46:27](https://lobste.rs/s/xm7fdy/how_does_async_rust_work_2023) - [How does async Rust work (2023)](https://bertptrs.nl/2023/04/27/how-does-async-rust-work.html)
 * [2025-04-03, 17:44:50](https://lobste.rs/s/9p2yca/deadlock_free_mutexes_directed_acyclic) - [Deadlock-free Mutexes and Directed Acyclic Graphs (2022)](https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html)
 * [2025-04-03, 17:43:32](https://lobste.rs/s/iahfeu/fast_er_binary_search_rust) - [Fast(er) binary search in Rust](https://www.bazhenov.me/posts/faster-binary-search-in-rust/)
