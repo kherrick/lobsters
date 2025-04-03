@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-03, 03:39:36",
+      "https://lobste.rs/s/vsdeih/c_26_variadic_friends"
+    ],
+    [
+      "C++26: variadic friends",
+      "https://www.sandordargo.com/blog/2025/04/02/cpp26-variadic-friends"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 03:20:51",
+      "https://lobste.rs/s/08nct4/fear_tech_2024"
+    ],
+    [
+      "Fear in Tech (2024)",
+      "https://youtu.be/_dLLIjKz9MY"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 03:20:16",
       "https://lobste.rs/s/apmwct/freedos_history_legacy_valuable"
     ],
@@ -191,32 +211,12 @@
   ],
   [
     [
-      "2025-04-02, 07:20:00",
-      "https://lobste.rs/s/bxqwlt/defence_typescript_enums"
-    ],
-    [
-      "In Defence of Typescript Enums",
-      "https://yazanalaboudi.dev/in-defence-of-typescript-enums"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 06:28:17",
       "https://lobste.rs/s/ctzngb/cosy"
     ],
     [
       "CoSy",
       "https://cosy.com/"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 23:37:17",
-      "https://lobste.rs/s/abunxs/roguetype_first_ever_roguelike_written"
-    ],
-    [
-      "Roguetype: The first ever roguelike written in the OCaml type system",
-      "https://github.com/Octachron/roguetype"
     ]
   ],
   [
