@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-03, 11:11:40",
+      "https://lobste.rs/s/trlke6/steam_deck_is_software_freedom_friendly"
+    ],
+    [
+      "The Steam Deck is Software-Freedom friendly",
+      "https://agnishom.github.io/blog/2024/steam-deck/"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 11:10:32",
+      "https://lobste.rs/s/0jxkj4/introducing_nix_ninja_open_source_ninja"
+    ],
+    [
+      "Introducing Nix Ninja – open-source Ninja-compatible build system for Nix",
+      "https://github.com/pdtpartners/nix-ninja"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 10:31:23",
       "https://lobste.rs/s/t90zb0/announcing_rust_1_86_0"
     ],
@@ -87,16 +107,6 @@
     [
       "DST for async Rust",
       "https://s2.dev/blog/dst"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 21:10:37",
-      "https://lobste.rs/s/oodu8j/automated_deployments_how_we_made"
-    ],
-    [
-      "Automated deployments: how we made deploying often easy",
-      "https://www.channable.com/tech/automated-deployments"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "xan: The CSV magician",
       "https://github.com/medialab/xan"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 16:59:01",
-      "https://lobste.rs/s/8dtj3n/new_state_art_turing_test_drawing_rubik_s"
-    ],
-    [
-      "new state of the art turing test: drawing a rubik's cube",
-      "https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2"
     ]
   ]
 ]
