@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-03, 06:45:35",
+      "https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation"
+    ],
+    [
+      "arena: Arena Allocator implementation in pure C as an stb-style single-file library",
+      "https://github.com/tsoding/arena"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 04:41:53",
       "https://lobste.rs/s/cpewo2/minimal_css_only_blurry_image"
     ],
@@ -37,16 +47,6 @@
     [
       "Fear in Tech (2024)",
       "https://youtu.be/_dLLIjKz9MY"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 03:20:16",
-      "https://lobste.rs/s/apmwct/freedos_history_legacy_valuable"
-    ],
-    [
-      "FreeDOS: History, Legacy, and a Valuable Resource for Old Machines",
-      "https://machaddr.substack.com/p/freedos-history-legacy-and-a-valuable"
     ]
   ],
   [
