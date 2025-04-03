@@ -32,10 +32,10 @@
   [
     [
       "2025-04-03, 15:51:19",
-      "https://lobste.rs/s/utis5o/initware_systemd_like_clone_for_bsds"
+      "https://lobste.rs/s/utis5o/initware_systemd_like_fork_for_bsds"
     ],
     [
-      "InitWare: systemd-like clone for BSDs",
+      "InitWare: systemd-like fork for BSDs",
       "https://github.com/InitWare/InitWare"
     ]
   ],
