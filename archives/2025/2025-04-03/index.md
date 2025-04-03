@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 08:02:22](https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally) - [Nelm, a Helm 3 alternative, is generally available now](https://github.com/werf/nelm)
 * [2025-04-03, 06:45:35](https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation) - [arena: Arena Allocator implementation in pure C as an stb-style single-file library](https://github.com/tsoding/arena)
 * [2025-04-03, 04:41:53](https://lobste.rs/s/cpewo2/minimal_css_only_blurry_image) - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
 * [2025-04-03, 04:04:40](https://lobste.rs/s/btggvs/openssh_10_call_for_testing_dsa) - [OpenSSH 10 call for testing, DSA deprecated](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html)
