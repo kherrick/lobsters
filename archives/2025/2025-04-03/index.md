@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 16:01:22](https://lobste.rs/s/jopsqd/nix_looks_like_bazel) - [Nix that looks like Bazel](https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel)
+* [2025-04-03, 15:51:19](https://lobste.rs/s/utis5o/initware_systemd_like_clone_for_bsds) - [InitWare: systemd-like clone for BSDs](https://github.com/InitWare/InitWare)
 * [2025-04-03, 15:30:35](https://lobste.rs/s/g3tvug/ray_on_kubernetes_at_uber) - [Ray on Kubernetes at Uber](https://www.uber.com/en-GB/blog/ubers-journey-to-ray-on-kubernetes-ray-setup/)
 * [2025-04-03, 12:08:57](https://lobste.rs/s/h7btkw/celebrate_50_years_microsoft_with) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code?WT.mc_id=20250331100000_Microsoft-50th_MED-MED)
 * [2025-04-03, 11:11:40](https://lobste.rs/s/trlke6/steam_deck_is_software_freedom_friendly) - [The Steam Deck is Software-Freedom friendly](https://agnishom.github.io/blog/2024/steam-deck/)
