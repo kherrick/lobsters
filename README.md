@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-03, 20:03:44](https://lobste.rs/s/m00hji/rewriting_my_site_vanilla_web) - [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
 * [2025-04-03, 19:41:24](https://lobste.rs/s/y2jisq/celebrate_50_years_microsoft_with) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code)
-* [2025-04-03, 19:18:31](https://lobste.rs/s/jitqoz/how_servo_motors_work) - [How servo motors work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
 * [2025-04-03, 17:43:32](https://lobste.rs/s/iahfeu/fast_er_binary_search_rust) - [Fast(er) binary search in Rust](https://www.bazhenov.me/posts/faster-binary-search-in-rust/)
 * [2025-04-03, 17:09:00](https://lobste.rs/s/hnvs3o/overengineered_anchor_links) - [Overengineered anchor links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 17:07:45](https://lobste.rs/s/x9ll4e/why_we_are_still_using_88x31_buttons) - [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
