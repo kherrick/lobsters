@@ -4,4 +4,5 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 03:20:16](https://lobste.rs/s/apmwct/freedos_history_legacy_valuable) - [FreeDOS: History, Legacy, and a Valuable Resource for Old Machines](https://machaddr.substack.com/p/freedos-history-legacy-and-a-valuable)
 * [2025-04-03, 02:17:07](https://lobste.rs/s/qftydp/dst_for_async_rust) - [DST for async Rust](https://s2.dev/blog/dst)
