@@ -11,12 +11,32 @@
   ],
   [
     [
+      "2025-04-03, 20:03:44",
+      "https://lobste.rs/s/m00hji/rewriting_my_site_vanilla_web"
+    ],
+    [
+      "Rewriting my site in vanilla web",
+      "https://leanrada.com/notes/vanilla-web-rewrite/"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 19:41:24",
       "https://lobste.rs/s/y2jisq/celebrate_50_years_microsoft_with"
     ],
     [
       "Celebrate 50 years of Microsoft with the company's original source code",
       "https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 17:44:50",
+      "https://lobste.rs/s/9p2yca/deadlock_free_mutexes_directed_acyclic"
+    ],
+    [
+      "Deadlock-free Mutexes and Directed Acyclic Graphs (2022)",
+      "https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html"
     ]
   ],
   [
@@ -181,32 +201,12 @@
   ],
   [
     [
-      "2025-04-03, 02:17:07",
-      "https://lobste.rs/s/qftydp/dst_for_async_rust"
-    ],
-    [
-      "DST for async Rust",
-      "https://s2.dev/blog/dst"
-    ]
-  ],
-  [
-    [
       "2025-04-02, 19:59:17",
       "https://lobste.rs/s/aupah1/gerrit_gitbutler_jujutsu_projects"
     ],
     [
       "Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer",
       "https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 18:47:59",
-      "https://lobste.rs/s/lvofny/valkey_new_hash_table"
-    ],
-    [
-      "Valkey - A new hash table",
-      "https://valkey.io/blog/new-hash-table/"
     ]
   ],
   [
