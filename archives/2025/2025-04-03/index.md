@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 15:30:35](https://lobste.rs/s/g3tvug/ray_on_kubernetes_at_uber) - [Ray on Kubernetes at Uber](https://www.uber.com/en-GB/blog/ubers-journey-to-ray-on-kubernetes-ray-setup/)
 * [2025-04-03, 12:08:57](https://lobste.rs/s/h7btkw/celebrate_50_years_microsoft_with) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code?WT.mc_id=20250331100000_Microsoft-50th_MED-MED)
 * [2025-04-03, 11:11:40](https://lobste.rs/s/trlke6/steam_deck_is_software_freedom_friendly) - [The Steam Deck is Software-Freedom friendly](https://agnishom.github.io/blog/2024/steam-deck/)
 * [2025-04-03, 11:10:32](https://lobste.rs/s/0jxkj4/introducing_nix_ninja_open_source_ninja) - [Introducing Nix Ninja – open-source Ninja-compatible build system for Nix](https://github.com/pdtpartners/nix-ninja)
