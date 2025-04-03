@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-03, 19:41:24](https://lobste.rs/s/y2jisq/celebrate_50_years_microsoft_with) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code)
 * [2025-04-03, 19:18:31](https://lobste.rs/s/jitqoz/how_servo_motors_work) - [How servo motors work](https://www.jameco.com/Jameco/workshop/Howitworks/how-servo-motors-work.html)
 * [2025-04-03, 17:43:32](https://lobste.rs/s/iahfeu/fast_er_binary_search_rust) - [Fast(er) binary search in Rust](https://www.bazhenov.me/posts/faster-binary-search-in-rust/)
 * [2025-04-03, 17:09:00](https://lobste.rs/s/hnvs3o/overengineered_anchor_links) - [Overengineered anchor links](https://thirty-five.com/overengineered-anchoring)
@@ -22,7 +23,6 @@
 * [2025-04-02, 18:47:59](https://lobste.rs/s/lvofny/valkey_new_hash_table) - [Valkey - A new hash table](https://valkey.io/blog/new-hash-table/)
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
 * [2025-04-02, 15:57:55](https://lobste.rs/s/8emy5x/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/%7Ebptato/chawan/)
-* [2025-04-02, 14:10:57](https://lobste.rs/s/oliu4b/django_5_2_released) - [Django 5.2 released](https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/)
 * [2025-04-02, 13:11:55](https://lobste.rs/s/autpsf/how_crawlers_impact_operations) - [How crawlers impact the operations of the Wikimedia projects](https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/)
 * [2025-04-02, 11:29:24](https://lobste.rs/s/rhkjsk/grepping_logs_remains_terrible) - [Grepping logs remains terrible](https://chronicles.mad-scientist.club/tales/grepping-logs-remains-terrible/)
 
