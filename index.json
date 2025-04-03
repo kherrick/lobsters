@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-04-03, 06:45:35",
+      "https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation"
+    ],
+    [
+      "arena: Arena Allocator implementation in pure C as an stb-style single-file library",
+      "https://github.com/tsoding/arena"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 04:41:53",
       "https://lobste.rs/s/cpewo2/minimal_css_only_blurry_image"
     ],
@@ -197,16 +207,6 @@
     [
       "How crawlers impact the operations of the Wikimedia projects",
       "https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 12:19:50",
-      "https://lobste.rs/s/wqdlu7/train_weather_tracker_with_raspberry_pi_e"
-    ],
-    [
-      "Train & Weather Tracker with Raspberry Pi & E-Ink",
-      "https://sambroner.com/posts/raspberry-pi-train"
     ]
   ],
   [
