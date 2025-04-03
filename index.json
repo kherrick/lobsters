@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-03, 04:04:40",
+      "https://lobste.rs/s/btggvs/openssh_10_call_for_testing_dsa"
+    ],
+    [
+      "OpenSSH 10 call for testing, DSA deprecated",
+      "https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 03:39:36",
       "https://lobste.rs/s/vsdeih/c_26_variadic_friends"
     ],
@@ -227,16 +237,6 @@
     [
       "new state of the art turing test: drawing a rubik's cube",
       "https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 12:33:08",
-      "https://lobste.rs/s/kubso9/why_f"
-    ],
-    [
-      "Why F#?",
-      "https://batsov.com/articles/2025/03/30/why-fsharp/"
     ]
   ],
   [
