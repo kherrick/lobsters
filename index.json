@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-03, 02:17:07",
+      "https://lobste.rs/s/qftydp/dst_for_async_rust"
+    ],
+    [
+      "DST for async Rust",
+      "https://s2.dev/blog/dst"
+    ]
+  ],
+  [
+    [
       "2025-04-02, 21:10:37",
       "https://lobste.rs/s/oodu8j/automated_deployments_how_we_made"
     ],
@@ -71,12 +81,12 @@
   ],
   [
     [
-      "2025-04-02, 17:36:51",
-      "https://lobste.rs/s/kkmvkd/pytorch_python_free_threading_unlocking"
+      "2025-04-02, 17:24:39",
+      "https://lobste.rs/s/s6nlac/cell_phone_opsec_for_border_crossings"
     ],
     [
-      "PyTorch and Python Free-Threading: Unlocking multi-threaded parallel inference on PyTorch models",
-      "https://trent.me/articles/pytorch-and-python-free-threading/"
+      "Cell Phone OPSEC for Border Crossings",
+      "https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Think I implemented a unique feature in my feed reader",
       "https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 09:25:21",
-      "https://lobste.rs/s/euye4l/april_fools_joke_might_have_got_me_fired"
-    ],
-    [
-      "The April Fools joke that might have got me fired",
-      "http://oldvcr.blogspot.com/2025/04/the-april-fools-joke-that-might-have.html"
     ]
   ]
 ]
