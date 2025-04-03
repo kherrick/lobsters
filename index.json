@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-03, 16:48:35",
+      "https://lobste.rs/s/zxpqz0/regname_mass_renamer_tui_written_rust"
+    ],
+    [
+      "regname: Mass renamer TUI written in Rust",
+      "https://github.com/linkdd/regname"
+    ]
+  ],
+  [
+    [
+      "2025-04-03, 16:43:46",
+      "https://lobste.rs/s/sirtt6/how_we_got_generics_we_have_how_i_learned"
+    ],
+    [
+      "How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)",
+      "https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 16:01:22",
       "https://lobste.rs/s/jopsqd/nix_looks_like_bazel"
     ],
@@ -17,16 +37,6 @@
     [
       "InitWare: systemd-like clone for BSDs",
       "https://github.com/InitWare/InitWare"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 15:30:35",
-      "https://lobste.rs/s/g3tvug/ray_on_kubernetes_at_uber"
-    ],
-    [
-      "Ray on Kubernetes at Uber",
-      "https://www.uber.com/en-GB/blog/ubers-journey-to-ray-on-kubernetes-ray-setup/"
     ]
   ],
   [
@@ -86,7 +96,7 @@
     ],
     [
       "Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)",
-      "https://indico.cern.ch/event/1477299/contributions/6366311/attachments/3044120/5378338/20250403-HEPiX-cern-els7.pdf"
+      "https://indico.cern.ch/event/1477299/contributions/6363918/attachments/3044399/5378883/20250403-HEPiX-cern-els7.pdf"
     ]
   ],
   [
@@ -187,16 +197,6 @@
     [
       "AI ambivalence",
       "https://nolanlawson.com/2025/04/02/ai-ambivalence/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 17:24:39",
-      "https://lobste.rs/s/s6nlac/cell_phone_opsec_for_border_crossings"
-    ],
-    [
-      "Cell Phone OPSEC for Border Crossings",
-      "https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html"
     ]
   ],
   [
