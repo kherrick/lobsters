@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-03, 04:04:40](https://lobste.rs/s/btggvs/openssh_10_call_for_testing_dsa) - [OpenSSH 10 call for testing, DSA deprecated](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html)
 * [2025-04-03, 03:39:36](https://lobste.rs/s/vsdeih/c_26_variadic_friends) - [C++26: variadic friends](https://www.sandordargo.com/blog/2025/04/02/cpp26-variadic-friends)
 * [2025-04-03, 03:20:51](https://lobste.rs/s/08nct4/fear_tech_2024) - [Fear in Tech (2024)](https://youtu.be/_dLLIjKz9MY)
 * [2025-04-03, 03:20:16](https://lobste.rs/s/apmwct/freedos_history_legacy_valuable) - [FreeDOS: History, Legacy, and a Valuable Resource for Old Machines](https://machaddr.substack.com/p/freedos-history-legacy-and-a-valuable)
@@ -23,7 +24,6 @@
 * [2025-04-02, 08:58:25](https://lobste.rs/s/9r0tbx/xan_csv_magician) - [xan: The CSV magician](https://github.com/medialab/xan)
 * [2025-04-02, 06:28:17](https://lobste.rs/s/ctzngb/cosy) - [CoSy](https://cosy.com/)
 * [2025-04-01, 16:59:01](https://lobste.rs/s/8dtj3n/new_state_art_turing_test_drawing_rubik_s) - [new state of the art turing test: drawing a rubik's cube](https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2)
-* [2025-04-01, 12:33:08](https://lobste.rs/s/kubso9/why_f) - [Why F#?](https://batsov.com/articles/2025/03/30/why-fsharp/)
 * [2025-04-01, 11:12:19](https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my) - [Think I implemented a unique feature in my feed reader](https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html)
 
 ## [Archives](archives/index.md)
