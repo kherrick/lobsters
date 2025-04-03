@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-03, 08:02:22",
+      "https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally"
+    ],
+    [
+      "Nelm, a Helm 3 alternative, is generally available now",
+      "https://github.com/werf/nelm"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 06:45:35",
       "https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation"
     ],
@@ -217,16 +227,6 @@
     [
       "xan: The CSV magician",
       "https://github.com/medialab/xan"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 07:20:00",
-      "https://lobste.rs/s/bxqwlt/defence_typescript_enums"
-    ],
-    [
-      "In Defence of Typescript Enums",
-      "https://yazanalaboudi.dev/in-defence-of-typescript-enums"
     ]
   ],
   [
