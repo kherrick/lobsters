@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-03, 20:03:44](https://lobste.rs/s/m00hji/rewriting_my_site_vanilla_web) - [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
+* [2025-04-03, 20:18:54](https://lobste.rs/s/lc9vxp/why_we_decided_go_for_big_rewrite_2019) - [Why we decided to go for the Big Rewrite (2019)](https://www.channable.com/tech/why-we-decided-to-go-for-the-big-rewrite)
 * [2025-04-03, 19:41:24](https://lobste.rs/s/y2jisq/celebrate_50_years_microsoft_with) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code)
 * [2025-04-03, 17:43:32](https://lobste.rs/s/iahfeu/fast_er_binary_search_rust) - [Fast(er) binary search in Rust](https://www.bazhenov.me/posts/faster-binary-search-in-rust/)
 * [2025-04-03, 17:09:00](https://lobste.rs/s/hnvs3o/overengineered_anchor_links) - [Overengineered anchor links](https://thirty-five.com/overengineered-anchoring)
