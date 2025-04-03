@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-03, 08:44:46",
+      "https://lobste.rs/s/9ghf2s/keeping_lhc_colliding_providing"
+    ],
+    [
+      "Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)",
+      "https://indico.cern.ch/event/1477299/contributions/6366311/attachments/3044120/5378338/20250403-HEPiX-cern-els7.pdf"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 08:02:22",
       "https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally"
     ],
@@ -237,16 +247,6 @@
     [
       "new state of the art turing test: drawing a rubik's cube",
       "https://gist.github.com/izabera/3fb2f510f9e29811b57d3702002fc2a2"
-    ]
-  ],
-  [
-    [
-      "2025-04-01, 11:12:19",
-      "https://lobste.rs/s/m8zt7j/think_i_implemented_unique_feature_my"
-    ],
-    [
-      "Think I implemented a unique feature in my feed reader",
-      "https://andregarzia.com/2025/04/think-i-implemented-a-unique-feature-in-my-feed-reader.html"
     ]
   ]
 ]
