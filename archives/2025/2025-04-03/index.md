@@ -7,6 +7,7 @@
 * [2025-04-03, 16:48:35](https://lobste.rs/s/zxpqz0/regname_mass_renamer_tui_written_rust) - [regname: Mass renamer TUI written in Rust](https://github.com/linkdd/regname)
 * [2025-04-03, 16:43:46](https://lobste.rs/s/sirtt6/how_we_got_generics_we_have_how_i_learned) - [How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)](https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure)
 * [2025-04-03, 16:01:22](https://lobste.rs/s/jopsqd/nix_looks_like_bazel) - [Nix that looks like Bazel](https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel)
+* [2025-04-03, 15:51:19](https://lobste.rs/s/utis5o/initware_systemd_like_fork_for_bsds) - [InitWare: systemd-like fork for BSDs](https://github.com/InitWare/InitWare)
 * [2025-04-03, 15:51:19](https://lobste.rs/s/utis5o/initware_systemd_like_clone_for_bsds) - [InitWare: systemd-like clone for BSDs](https://github.com/InitWare/InitWare)
 * [2025-04-03, 15:30:35](https://lobste.rs/s/g3tvug/ray_on_kubernetes_at_uber) - [Ray on Kubernetes at Uber](https://www.uber.com/en-GB/blog/ubers-journey-to-ray-on-kubernetes-ray-setup/)
 * [2025-04-03, 12:08:57](https://lobste.rs/s/h7btkw/celebrate_50_years_microsoft_with) - [Celebrate 50 years of Microsoft with the company's original source code](https://www.gatesnotes.com/meet-bill/source-code/reader/microsoft-original-source-code?WT.mc_id=20250331100000_Microsoft-50th_MED-MED)
