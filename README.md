@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-03, 09:31:40](https://lobste.rs/s/6iylqh/graphite_rusty_foss_procedural_2d_design) - [Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4](https://graphite.rs/blog/graphite-progress-report-q4-2024/)
 * [2025-04-03, 08:44:46](https://lobste.rs/s/9ghf2s/keeping_lhc_colliding_providing) - [Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)](https://indico.cern.ch/event/1477299/contributions/6366311/attachments/3044120/5378338/20250403-HEPiX-cern-els7.pdf)
 * [2025-04-03, 08:02:22](https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally) - [Nelm, a Helm 3 alternative, is generally available now](https://github.com/werf/nelm)
 * [2025-04-03, 06:45:35](https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation) - [arena: Arena Allocator implementation in pure C as an stb-style single-file library](https://github.com/tsoding/arena)
@@ -15,7 +16,6 @@
 * [2025-04-02, 18:20:39](https://lobste.rs/s/l7any5/ai_ambivalence) - [AI ambivalence](https://nolanlawson.com/2025/04/02/ai-ambivalence/)
 * [2025-04-02, 18:00:11](https://lobste.rs/s/twylzo/test_sizes_2010) - [Test Sizes (2010)](https://testing.googleblog.com/2010/12/test-sizes.html)
 * [2025-04-02, 17:24:39](https://lobste.rs/s/s6nlac/cell_phone_opsec_for_border_crossings) - [Cell Phone OPSEC for Border Crossings](https://www.schneier.com/blog/archives/2025/04/cell-phone-opsec-for-border-crossings.html)
-* [2025-04-02, 16:54:34](https://lobste.rs/s/kvganp/fast_compilation_fast_execution_just) - [Fast Compilation or Fast Execution: Just Have Both](https://cedardb.com/blog/compilation/)
 * [2025-04-02, 15:57:55](https://lobste.rs/s/8emy5x/chawan_tui_web_browser) - [chawan: TUI Web Browser](https://sr.ht/%7Ebptato/chawan/)
 * [2025-04-02, 14:10:57](https://lobste.rs/s/oliu4b/django_5_2_released) - [Django 5.2 released](https://www.djangoproject.com/weblog/2025/apr/02/django-52-released/)
 * [2025-04-02, 13:31:52](https://lobste.rs/s/fwybvc/tailscale_enterprise_plan_9_support) - [Tailscale Enterprise Plan 9 Support](https://tailscale.com/blog/tailscale-enterprise-plan-9-support)

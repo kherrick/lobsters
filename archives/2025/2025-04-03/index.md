@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-03](index.md)
 
+* [2025-04-03, 09:31:40](https://lobste.rs/s/6iylqh/graphite_rusty_foss_procedural_2d_design) - [Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4](https://graphite.rs/blog/graphite-progress-report-q4-2024/)
 * [2025-04-03, 08:44:46](https://lobste.rs/s/9ghf2s/keeping_lhc_colliding_providing) - [Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)](https://indico.cern.ch/event/1477299/contributions/6366311/attachments/3044120/5378338/20250403-HEPiX-cern-els7.pdf)
 * [2025-04-03, 08:02:22](https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally) - [Nelm, a Helm 3 alternative, is generally available now](https://github.com/werf/nelm)
 * [2025-04-03, 06:45:35](https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation) - [arena: Arena Allocator implementation in pure C as an stb-style single-file library](https://github.com/tsoding/arena)
