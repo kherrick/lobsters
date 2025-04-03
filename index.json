@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-03, 22:46:18",
+      "https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors"
+    ],
+    [
+      "Why I stopped using AI code editors",
+      "https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 20:18:54",
       "https://lobste.rs/s/lc9vxp/why_we_decided_go_for_big_rewrite_2019"
     ],
@@ -177,16 +187,6 @@
     [
       "Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)",
       "https://indico.cern.ch/event/1477299/contributions/6363918/attachments/3044399/5378883/20250403-HEPiX-cern-els7.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 08:02:22",
-      "https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally"
-    ],
-    [
-      "Nelm, a Helm 3 alternative, is generally available now",
-      "https://github.com/werf/nelm"
     ]
   ],
   [
