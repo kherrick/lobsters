@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-03, 17:09:00](https://lobste.rs/s/hnvs3o/overengineered_anchor_links) - [Overengineered anchor links](https://thirty-five.com/overengineered-anchoring)
+* [2025-04-03, 17:07:45](https://lobste.rs/s/x9ll4e/why_we_are_still_using_88x31_buttons) - [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 * [2025-04-03, 16:48:35](https://lobste.rs/s/zxpqz0/regname_mass_renamer_tui_written_rust) - [regname: Mass renamer TUI written in Rust](https://github.com/linkdd/regname)
 * [2025-04-03, 16:43:46](https://lobste.rs/s/sirtt6/how_we_got_generics_we_have_how_i_learned) - [How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)](https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure)
 * [2025-04-03, 16:01:22](https://lobste.rs/s/jopsqd/nix_looks_like_bazel) - [Nix that looks like Bazel](https://fzakaria.com/2025/04/02/nix-that-looks-like-bazel)
@@ -13,8 +15,6 @@
 * [2025-04-03, 08:02:22](https://lobste.rs/s/mdtf4k/nelm_helm_3_alternative_is_generally) - [Nelm, a Helm 3 alternative, is generally available now](https://github.com/werf/nelm)
 * [2025-04-03, 06:45:35](https://lobste.rs/s/vslqmv/arena_arena_allocator_implementation) - [arena: Arena Allocator implementation in pure C as an stb-style single-file library](https://github.com/tsoding/arena)
 * [2025-04-03, 04:41:53](https://lobste.rs/s/cpewo2/minimal_css_only_blurry_image) - [Minimal CSS-only blurry image placeholders](https://leanrada.com/notes/css-only-lqip/)
-* [2025-04-03, 04:04:40](https://lobste.rs/s/btggvs/openssh_10_call_for_testing_dsa) - [OpenSSH 10 call for testing, DSA deprecated](https://lists.mindrot.org/pipermail/openssh-unix-dev/2025-April/041855.html)
-* [2025-04-03, 03:39:36](https://lobste.rs/s/vsdeih/c_26_variadic_friends) - [C++26: variadic friends](https://www.sandordargo.com/blog/2025/04/02/cpp26-variadic-friends)
 * [2025-04-03, 02:17:07](https://lobste.rs/s/qftydp/dst_for_async_rust) - [DST for async Rust](https://s2.dev/blog/dst)
 * [2025-04-02, 19:59:17](https://lobste.rs/s/aupah1/gerrit_gitbutler_jujutsu_projects) - [Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer](https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u)
 * [2025-04-02, 19:54:40](https://lobste.rs/s/d6x0lo/year_rust_clickhouse) - [A Year of Rust in ClickHouse](https://clickhouse.com/blog/rust)
