@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-04, 02:00:48](https://lobste.rs/s/ujvpdn/making_ocaml_safe_for_performance) - [Making OCaml Safe for Performance Engineering](https://youtube.com/watch?v=g3qd4zpm1LA)
+* [2025-04-04, 02:59:05](https://lobste.rs/s/9ipkyl/manners_machines) - [Of manners and machines](https://commaok.xyz/post/manners/)
 * [2025-04-03, 22:48:30](https://lobste.rs/s/yq4tc7/introducing_bare_small_modular) - [Introducing Bare, a small and modular JavaScript runtime](https://github.com/holepunchto/bare)
 * [2025-04-03, 22:46:18](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors) - [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
 * [2025-04-03, 20:18:54](https://lobste.rs/s/lc9vxp/why_we_decided_go_for_big_rewrite_2019) - [Why we decided to go for the Big Rewrite (2019)](https://www.channable.com/tech/why-we-decided-to-go-for-the-big-rewrite)
