@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 18:08:42](https://lobste.rs/s/lwkpnr/doing_evil_things_with_generative_ai) - [Doing Evil Things with Generative AI and Recipes](https://www.raymondcamden.com/2025/02/06/doing-evil-things-with-generative-ai-and-recipes)
+* [2025-04-04, 17:59:04](https://lobste.rs/s/1yucfb/opinionated_html_serializer_for_php_8_4) - [An opinionated HTML Serializer for PHP 8.4](https://shkspr.mobi/blog/2025/04/an-opinionated-html-serializer-for-php-8-4/)
 * [2025-04-04, 17:24:34](https://lobste.rs/s/6rnhbq/syntactic_musings_on_view_types) - [Syntactic Musings on View Types](https://blog.yoshuawuyts.com/syntactic-musings-on-view-types)
 * [2025-04-04, 16:13:42](https://lobste.rs/s/o0xmgd/clawtype_custom_wearable_chorded) - [Clawtype - a custom wearable chorded keyboard & mouse](https://github.com/akavel/clawtype)
 * [2025-04-04, 15:59:47](https://lobste.rs/s/w9l7q5/best_refactoring_you_ve_never_heard) - [The Best Refactoring You've Never Heard Of](https://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
