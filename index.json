@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-04, 05:37:49",
+      "https://lobste.rs/s/afmbja/security_dsa_5892_1_atop_security_update"
+    ],
+    [
+      "[SECURITY] [DSA 5892-1] atop security update",
+      "https://lists.debian.org/debian-security-announce/2025/msg00054.html"
+    ]
+  ],
+  [
+    [
       "2025-04-04, 04:49:10",
       "https://lobste.rs/s/ayya2i/tdd_guided_by_zombies_2016"
     ],
@@ -237,16 +247,6 @@
     [
       "AI ambivalence",
       "https://nolanlawson.com/2025/04/02/ai-ambivalence/"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 13:11:55",
-      "https://lobste.rs/s/autpsf/how_crawlers_impact_operations"
-    ],
-    [
-      "How crawlers impact the operations of the Wikimedia projects",
-      "https://diff.wikimedia.org/2025/04/01/how-crawlers-impact-the-operations-of-the-wikimedia-projects/"
     ]
   ]
 ]
