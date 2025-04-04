@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-04, 22:07:45",
+      "https://lobste.rs/s/1njeoa/structure_interpretation_computer"
+    ],
+    [
+      "Structure and Interpretation of Computer Programs",
+      "https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 22:05:25",
+      "https://lobste.rs/s/wn2ley/rough_survey_compilation_recompilation"
+    ],
+    [
+      "A rough survey of compilation, recompilation, and compile-time evaluation",
+      "https://www.scattered-thoughts.net/writing/a-rough-survey-of-compilation-recompilation-and-compile-time-evaluation/"
+    ]
+  ],
+  [
+    [
       "2025-04-04, 20:36:21",
       "https://lobste.rs/s/yrj8ch/fundamentals_tensors_vs_tables"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-04-03, 22:48:30",
-      "https://lobste.rs/s/yq4tc7/introducing_bare_small_modular"
-    ],
-    [
-      "Introducing Bare, a small and modular JavaScript runtime",
-      "https://github.com/holepunchto/bare"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 22:46:18",
       "https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors"
     ],
@@ -177,16 +187,6 @@
     [
       "Rewriting my site in vanilla web",
       "https://leanrada.com/notes/vanilla-web-rewrite/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 17:43:32",
-      "https://lobste.rs/s/iahfeu/fast_er_binary_search_rust"
-    ],
-    [
-      "Fast(er) binary search in Rust",
-      "https://www.bazhenov.me/posts/faster-binary-search-in-rust/"
     ]
   ],
   [
