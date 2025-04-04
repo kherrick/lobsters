@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
 * [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
+* [2025-04-04, 08:10:15](https://lobste.rs/s/nq7bzj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nq7bzj/what_are_you_doing_this_weekend)
 * [2025-04-04, 07:18:51](https://lobste.rs/s/isqxhw/fastify_vite_8_0_0) - [@fastify/vite@8.0.0](https://github.com/fastify/fastify-vite/releases/tag/v8.0.0)
 * [2025-04-04, 06:28:53](https://lobste.rs/s/ngijxb/curious_case_binfmt_for_x86_emulation_for) - [The curious case of binfmt for x86 emulation for ARM Docker](https://gergely.imreh.net/blog/2025/04/the-curious-case-of-binfmt-for-x86-emulation-for-arm-docker/)
 * [2025-04-04, 06:20:08](https://lobste.rs/s/dkypfk/lessons_learned_from_my_first_dive_into) - [Lessons learned from my first dive into WebAssembly](https://nullprogram.com/blog/2025/04/04/)
