@@ -2,9 +2,9 @@
 
 * [2025-04-04, 07:18:51](https://lobste.rs/s/isqxhw/fastify_vite_8_0_0) - [@fastify/vite@8.0.0](https://github.com/fastify/fastify-vite/releases/tag/v8.0.0)
 * [2025-04-04, 06:28:53](https://lobste.rs/s/ngijxb/curious_case_binfmt_for_x86_emulation_for) - [The curious case of binfmt for x86 emulation for ARM Docker](https://gergely.imreh.net/blog/2025/04/the-curious-case-of-binfmt-for-x86-emulation-for-arm-docker/)
+* [2025-04-04, 06:15:15](https://lobste.rs/s/9kixmk/csscape_room) - [CSScape Room](https://csscape-room.iamdanielmarino.com/)
 * [2025-04-04, 05:37:49](https://lobste.rs/s/afmbja/security_dsa_5892_1_atop_security_update) - [[SECURITY] [DSA 5892-1] atop security update](https://lists.debian.org/debian-security-announce/2025/msg00054.html)
 * [2025-04-04, 02:59:05](https://lobste.rs/s/9ipkyl/manners_machines) - [Of manners and machines](https://commaok.xyz/post/manners/)
-* [2025-04-04, 02:00:48](https://lobste.rs/s/ujvpdn/making_ocaml_safe_for_performance) - [Making OCaml Safe for Performance Engineering](https://youtube.com/watch?v=g3qd4zpm1LA)
 * [2025-04-03, 22:48:30](https://lobste.rs/s/yq4tc7/introducing_bare_small_modular) - [Introducing Bare, a small and modular JavaScript runtime](https://github.com/holepunchto/bare)
 * [2025-04-03, 22:46:18](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors) - [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
 * [2025-04-03, 20:18:54](https://lobste.rs/s/lc9vxp/why_we_decided_go_for_big_rewrite_2019) - [Why we decided to go for the Big Rewrite (2019)](https://www.channable.com/tech/why-we-decided-to-go-for-the-big-rewrite)
