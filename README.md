@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-04, 19:47:40](https://lobste.rs/s/yrjuwa/blueprint_for_fermat_s_last_theorem) - [A Blueprint for Fermat’s Last Theorem](https://imperialcollegelondon.github.io/FLT/blueprint/index.html)
 * [2025-04-04, 19:10:19](https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-04, 18:08:42](https://lobste.rs/s/lwkpnr/doing_evil_things_with_generative_ai) - [Doing Evil Things with Generative AI and Recipes](https://www.raymondcamden.com/2025/02/06/doing-evil-things-with-generative-ai-and-recipes)
 * [2025-04-04, 17:59:04](https://lobste.rs/s/1yucfb/opinionated_html_serializer_for_php_8_4) - [An opinionated HTML Serializer for PHP 8.4](https://shkspr.mobi/blog/2025/04/an-opinionated-html-serializer-for-php-8-4/)
@@ -23,7 +24,6 @@
 * [2025-04-03, 11:11:40](https://lobste.rs/s/trlke6/steam_deck_is_software_freedom_friendly) - [The Steam Deck is Software-Freedom friendly](https://agnishom.github.io/blog/2024/steam-deck/)
 * [2025-04-03, 11:10:32](https://lobste.rs/s/0jxkj4/introducing_nix_ninja_open_source_ninja) - [Introducing Nix Ninja – open-source Ninja-compatible build system for Nix](https://github.com/pdtpartners/nix-ninja)
 * [2025-04-03, 10:31:23](https://lobste.rs/s/t90zb0/announcing_rust_1_86_0) - [Announcing Rust 1.86.0](https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html)
-* [2025-04-03, 09:31:40](https://lobste.rs/s/6iylqh/graphite_rusty_foss_procedural_2d_design) - [Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4](https://graphite.rs/blog/graphite-progress-report-q4-2024/)
 * [2025-04-02, 19:59:17](https://lobste.rs/s/aupah1/gerrit_gitbutler_jujutsu_projects) - [Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer](https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u)
 
 ## [Archives](archives/index.md)
