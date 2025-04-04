@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-04](index.md)
 
+* [2025-04-04, 19:10:19](https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-04, 18:40:27](https://lobste.rs/s/cl8j5s/philosophy_software_design) - [A Philosophy of Software Design](https://milkov.tech/assets/psd.pdf)
 * [2025-04-04, 18:26:16](https://lobste.rs/s/axwigd/10_standout_github_profile_readmes) - [10 Standout GitHub Profile READMEs](https://dev.to/github/10-standout-github-profile-readmes-h2o)
 * [2025-04-04, 18:08:42](https://lobste.rs/s/lwkpnr/doing_evil_things_with_generative_ai) - [Doing Evil Things with Generative AI and Recipes](https://www.raymondcamden.com/2025/02/06/doing-evil-things-with-generative-ai-and-recipes)
