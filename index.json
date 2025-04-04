@@ -51,6 +51,16 @@
   ],
   [
     [
+      "2025-04-04, 02:00:48",
+      "https://lobste.rs/s/ujvpdn/making_ocaml_safe_for_performance"
+    ],
+    [
+      "Making OCaml Safe for Performance Engineering",
+      "https://youtube.com/watch?v=g3qd4zpm1LA"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 22:48:30",
       "https://lobste.rs/s/yq4tc7/introducing_bare_small_modular"
     ],
@@ -207,16 +217,6 @@
     [
       "Graphite (Rusty FOSS procedural 2D design app) new feature demos from Q4",
       "https://graphite.rs/blog/graphite-progress-report-q4-2024/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 08:44:46",
-      "https://lobste.rs/s/9ghf2s/keeping_lhc_colliding_providing"
-    ],
-    [
-      "Keeping the LHC colliding: Providing Extended Lifecycle support for EL7 (by moving to Debian)",
-      "https://indico.cern.ch/event/1477299/contributions/6363918/attachments/3044399/5378883/20250403-HEPiX-cern-els7.pdf"
     ]
   ],
   [
