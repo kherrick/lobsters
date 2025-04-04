@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-04, 20:14:25](https://lobste.rs/s/hrrymr/atproto_ethos) - [Atproto Ethos](https://atproto.com/articles/atproto-ethos)
 * [2025-04-04, 19:47:40](https://lobste.rs/s/yrjuwa/blueprint_for_fermat_s_last_theorem) - [A Blueprint for Fermat’s Last Theorem](https://imperialcollegelondon.github.io/FLT/blueprint/index.html)
 * [2025-04-04, 19:10:19](https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-04, 18:08:42](https://lobste.rs/s/lwkpnr/doing_evil_things_with_generative_ai) - [Doing Evil Things with Generative AI and Recipes](https://www.raymondcamden.com/2025/02/06/doing-evil-things-with-generative-ai-and-recipes)
@@ -20,7 +21,6 @@
 * [2025-04-03, 17:43:32](https://lobste.rs/s/iahfeu/fast_er_binary_search_rust) - [Fast(er) binary search in Rust](https://www.bazhenov.me/posts/faster-binary-search-in-rust/)
 * [2025-04-03, 17:07:45](https://lobste.rs/s/x9ll4e/why_we_are_still_using_88x31_buttons) - [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 * [2025-04-03, 16:48:35](https://lobste.rs/s/zxpqz0/regname_mass_renamer_tui_written_rust) - [regname: Mass renamer TUI written in Rust](https://github.com/linkdd/regname)
-* [2025-04-03, 16:43:46](https://lobste.rs/s/sirtt6/how_we_got_generics_we_have_how_i_learned) - [How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)](https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure)
 * [2025-04-03, 11:11:40](https://lobste.rs/s/trlke6/steam_deck_is_software_freedom_friendly) - [The Steam Deck is Software-Freedom friendly](https://agnishom.github.io/blog/2024/steam-deck/)
 * [2025-04-03, 11:10:32](https://lobste.rs/s/0jxkj4/introducing_nix_ninja_open_source_ninja) - [Introducing Nix Ninja – open-source Ninja-compatible build system for Nix](https://github.com/pdtpartners/nix-ninja)
 * [2025-04-03, 10:31:23](https://lobste.rs/s/t90zb0/announcing_rust_1_86_0) - [Announcing Rust 1.86.0](https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html)
