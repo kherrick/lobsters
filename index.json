@@ -41,6 +41,16 @@
   ],
   [
     [
+      "2025-04-04, 02:00:48",
+      "https://lobste.rs/s/ujvpdn/making_ocaml_safe_for_performance"
+    ],
+    [
+      "Making OCaml Safe for Performance Engineering",
+      "https://youtube.com/watch?v=g3qd4zpm1LA"
+    ]
+  ],
+  [
+    [
       "2025-04-03, 22:48:30",
       "https://lobste.rs/s/yq4tc7/introducing_bare_small_modular"
     ],
@@ -77,16 +87,6 @@
     [
       "Rewriting my site in vanilla web",
       "https://leanrada.com/notes/vanilla-web-rewrite/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 17:44:50",
-      "https://lobste.rs/s/9p2yca/deadlock_free_mutexes_directed_acyclic"
-    ],
-    [
-      "Deadlock-free Mutexes and Directed Acyclic Graphs (2022)",
-      "https://bertptrs.nl/2022/06/23/deadlock-free-mutexes-and-directed-acyclic-graphs.html"
     ]
   ],
   [
