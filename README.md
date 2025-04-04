@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-04, 20:36:21](https://lobste.rs/s/yrj8ch/fundamentals_tensors_vs_tables) - [Fundamentals: Tensors vs. Tables](https://earthmover.io/blog/tensors-vs-tables/)
 * [2025-04-04, 20:14:25](https://lobste.rs/s/hrrymr/atproto_ethos) - [Atproto Ethos](https://atproto.com/articles/atproto-ethos)
 * [2025-04-04, 19:47:40](https://lobste.rs/s/yrjuwa/blueprint_for_fermat_s_last_theorem) - [A Blueprint for Fermat’s Last Theorem](https://imperialcollegelondon.github.io/FLT/blueprint/index.html)
 * [2025-04-04, 19:10:19](https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
-* [2025-04-04, 18:08:42](https://lobste.rs/s/lwkpnr/doing_evil_things_with_generative_ai) - [Doing Evil Things with Generative AI and Recipes](https://www.raymondcamden.com/2025/02/06/doing-evil-things-with-generative-ai-and-recipes)
 * [2025-04-04, 17:59:04](https://lobste.rs/s/1yucfb/opinionated_html_serializer_for_php_8_4) - [An opinionated HTML Serializer for PHP 8.4](https://shkspr.mobi/blog/2025/04/an-opinionated-html-serializer-for-php-8-4/)
 * [2025-04-04, 17:24:34](https://lobste.rs/s/6rnhbq/syntactic_musings_on_view_types) - [Syntactic Musings on View Types](https://blog.yoshuawuyts.com/syntactic-musings-on-view-types)
 * [2025-04-04, 16:13:42](https://lobste.rs/s/o0xmgd/clawtype_custom_wearable_chorded) - [Clawtype - a custom wearable chorded keyboard & mouse](https://github.com/akavel/clawtype)
