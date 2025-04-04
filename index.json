@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-04, 15:31:55",
+      "https://lobste.rs/s/ndlwoh/wizard_his_shell"
+    ],
+    [
+      "The Wizard and His Shell",
+      "https://terminal.click/posts/2025/04/the-wizard-and-his-shell/"
+    ]
+  ],
+  [
+    [
       "2025-04-04, 09:13:38",
       "https://lobste.rs/s/reznwf/pitfalls_safe_rust"
     ],
@@ -107,16 +117,6 @@
     [
       "Fast(er) binary search in Rust",
       "https://www.bazhenov.me/posts/faster-binary-search-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 17:09:00",
-      "https://lobste.rs/s/hnvs3o/overengineered_anchor_links"
-    ],
-    [
-      "Overengineered anchor links",
-      "https://thirty-five.com/overengineered-anchoring"
     ]
   ],
   [
