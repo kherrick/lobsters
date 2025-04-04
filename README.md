@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-04, 15:31:55](https://lobste.rs/s/ndlwoh/wizard_his_shell) - [The Wizard and His Shell](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/)
 * [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 08:10:15](https://lobste.rs/s/nq7bzj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nq7bzj/what_are_you_doing_this_weekend)
 * [2025-04-04, 06:28:53](https://lobste.rs/s/ngijxb/curious_case_binfmt_for_x86_emulation_for) - [The curious case of binfmt for x86 emulation for ARM Docker](https://gergely.imreh.net/blog/2025/04/the-curious-case-of-binfmt-for-x86-emulation-for-arm-docker/)
@@ -11,7 +12,6 @@
 * [2025-04-03, 20:18:54](https://lobste.rs/s/lc9vxp/why_we_decided_go_for_big_rewrite_2019) - [Why we decided to go for the Big Rewrite (2019)](https://www.channable.com/tech/why-we-decided-to-go-for-the-big-rewrite)
 * [2025-04-03, 20:03:44](https://lobste.rs/s/m00hji/rewriting_my_site_vanilla_web) - [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
 * [2025-04-03, 17:43:32](https://lobste.rs/s/iahfeu/fast_er_binary_search_rust) - [Fast(er) binary search in Rust](https://www.bazhenov.me/posts/faster-binary-search-in-rust/)
-* [2025-04-03, 17:09:00](https://lobste.rs/s/hnvs3o/overengineered_anchor_links) - [Overengineered anchor links](https://thirty-five.com/overengineered-anchoring)
 * [2025-04-03, 17:07:45](https://lobste.rs/s/x9ll4e/why_we_are_still_using_88x31_buttons) - [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
 * [2025-04-03, 16:48:35](https://lobste.rs/s/zxpqz0/regname_mass_renamer_tui_written_rust) - [regname: Mass renamer TUI written in Rust](https://github.com/linkdd/regname)
 * [2025-04-03, 16:43:46](https://lobste.rs/s/sirtt6/how_we_got_generics_we_have_how_i_learned) - [How We Got the Generics We Have: (Or, how I learned to stop worrying and love erasure)](https://openjdk.org/projects/valhalla/design-notes/in-defense-of-erasure)
