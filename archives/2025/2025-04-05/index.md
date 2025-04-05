@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 15:45:33](https://lobste.rs/s/wl4fre/atproto_statusphere_app_implemented) - [ATProto Statusphere App Implemented in Rust](https://github.com/fatfingers23/rusty_statusphere_example_app)
 * [2025-04-05, 15:28:58](https://lobste.rs/s/ri3gqs/jit_calculators_finale) - [JIT calculators finale](https://ochagavia.nl/blog/jit-calculators-finale/)
 * [2025-04-05, 13:33:24](https://lobste.rs/s/dhg93f/why_does_claude_speak_byzantine_music) - [Why does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
 * [2025-04-05, 12:52:32](https://lobste.rs/s/sbuuzu/compilers_incrementally_extensibly) - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
