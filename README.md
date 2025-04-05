@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-05, 20:17:04](https://lobste.rs/s/bl9vjr/8_pin_linux) - [8-pin Linux](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
 * [2025-04-05, 18:06:53](https://lobste.rs/s/5qf3bi/ashos_immutable_mutable_meta) - [ashos: The immutable/mutable meta-distribution (universal bootstrapper)](https://github.com/ashos/ashos)
 * [2025-04-05, 17:29:01](https://lobste.rs/s/3trizw/impact_generative_ai_on_critical) - [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort & Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
 * [2025-04-05, 15:45:33](https://lobste.rs/s/wl4fre/atproto_statusphere_app_implemented) - [ATProto Statusphere App Implemented in Rust](https://github.com/fatfingers23/rusty_statusphere_example_app)
@@ -18,7 +19,6 @@
 * [2025-04-04, 22:05:25](https://lobste.rs/s/wn2ley/rough_survey_compilation_recompilation) - [A rough survey of compilation, recompilation, and compile-time evaluation](https://www.scattered-thoughts.net/writing/a-rough-survey-of-compilation-recompilation-and-compile-time-evaluation/)
 * [2025-04-04, 20:14:25](https://lobste.rs/s/hrrymr/atproto_ethos) - [Atproto Ethos](https://atproto.com/articles/atproto-ethos)
 * [2025-04-04, 19:10:19](https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
-* [2025-04-04, 17:24:34](https://lobste.rs/s/6rnhbq/syntactic_musings_on_view_types) - [Syntactic Musings on View Types](https://blog.yoshuawuyts.com/syntactic-musings-on-view-types)
 * [2025-04-04, 16:13:42](https://lobste.rs/s/o0xmgd/clawtype_custom_wearable_chorded) - [Clawtype - a custom wearable chorded keyboard & mouse](https://github.com/akavel/clawtype)
 * [2025-04-04, 15:59:47](https://lobste.rs/s/w9l7q5/best_refactoring_you_ve_never_heard) - [The Best Refactoring You've Never Heard Of](https://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
 * [2025-04-04, 15:55:37](https://lobste.rs/s/dlrmfi/on_javascript_s_weirdness) - [On JavaScript's Weirdness](https://stack-auth.com/blog/on-javascripts-weirdness)
