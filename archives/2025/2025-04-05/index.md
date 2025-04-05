@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 15:28:58](https://lobste.rs/s/ri3gqs/jit_calculators_finale) - [JIT calculators finale](https://ochagavia.nl/blog/jit-calculators-finale/)
 * [2025-04-05, 13:33:24](https://lobste.rs/s/dhg93f/why_does_claude_speak_byzantine_music) - [Why does Claude Speak Byzantine Music Notation?](https://fi-le.net/byzantine/)
 * [2025-04-05, 12:52:32](https://lobste.rs/s/sbuuzu/compilers_incrementally_extensibly) - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 * [2025-04-05, 12:36:49](https://lobste.rs/s/51oyuz/thundermail_thunderbird_pro_services) - [Thundermail and Thunderbird Pro Services](https://blog.thunderbird.net/2025/04/thundermail-and-thunderbird-pro-services/)
