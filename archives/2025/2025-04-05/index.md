@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 05:04:30](https://lobste.rs/s/ofklws/simple_reply) - [A Simple Reply](https://github.com/SeaOfNodes/Simple/blob/main/ASimpleReply.md)
 * [2025-04-05, 04:08:02](https://lobste.rs/s/qq7fci/defense_ruthless_managers) - [In defense of ruthless managers](https://www.seangoedecke.com/ruthless-managers/)
 * [2025-04-05, 03:51:48](https://lobste.rs/s/6flxuz/no_elephants_breakthroughs_image) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 * [2025-04-05, 03:00:10](https://lobste.rs/s/tjyf9r/first_look_at_modern_attr_css) - [First Look at The Modern attr() in CSS](https://ishadeed.com/article/modern-attr/)

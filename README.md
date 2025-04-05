@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-05, 05:04:30](https://lobste.rs/s/ofklws/simple_reply) - [A Simple Reply](https://github.com/SeaOfNodes/Simple/blob/main/ASimpleReply.md)
 * [2025-04-05, 04:08:02](https://lobste.rs/s/qq7fci/defense_ruthless_managers) - [In defense of ruthless managers](https://www.seangoedecke.com/ruthless-managers/)
 * [2025-04-05, 03:51:48](https://lobste.rs/s/6flxuz/no_elephants_breakthroughs_image) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 * [2025-04-05, 03:00:10](https://lobste.rs/s/tjyf9r/first_look_at_modern_attr_css) - [First Look at The Modern attr() in CSS](https://ishadeed.com/article/modern-attr/)
@@ -24,7 +25,6 @@
 * [2025-04-04, 05:37:49](https://lobste.rs/s/afmbja/security_dsa_5892_1_atop_security_update) - [[SECURITY] [DSA 5892-1] atop security update](https://lists.debian.org/debian-security-announce/2025/msg00054.html)
 * [2025-04-03, 22:46:18](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors) - [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
 * [2025-04-03, 11:11:40](https://lobste.rs/s/trlke6/steam_deck_is_software_freedom_friendly) - [The Steam Deck is Software-Freedom friendly](https://agnishom.github.io/blog/2024/steam-deck/)
-* [2025-04-03, 10:31:23](https://lobste.rs/s/t90zb0/announcing_rust_1_86_0) - [Announcing Rust 1.86.0](https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html)
 
 ## [Archives](archives/index.md)
 
