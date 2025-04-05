@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-05, 15:45:33",
+      "https://lobste.rs/s/wl4fre/atproto_statusphere_app_implemented"
+    ],
+    [
+      "ATProto Statusphere App Implemented in Rust",
+      "https://github.com/fatfingers23/rusty_statusphere_example_app"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 15:28:58",
       "https://lobste.rs/s/ri3gqs/jit_calculators_finale"
     ],
@@ -217,16 +227,6 @@
     [
       "Pitfalls of Safe Rust",
       "https://corrode.dev/blog/pitfalls-of-safe-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-04-04, 05:37:49",
-      "https://lobste.rs/s/afmbja/security_dsa_5892_1_atop_security_update"
-    ],
-    [
-      "[SECURITY] [DSA 5892-1] atop security update",
-      "https://lists.debian.org/debian-security-announce/2025/msg00054.html"
     ]
   ],
   [
