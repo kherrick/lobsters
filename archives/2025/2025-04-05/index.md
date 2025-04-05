@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 12:36:49](https://lobste.rs/s/51oyuz/thundermail_thunderbird_pro_services) - [Thundermail and Thunderbird Pro Services](https://blog.thunderbird.net/2025/04/thundermail-and-thunderbird-pro-services/)
 * [2025-04-05, 08:15:20](https://lobste.rs/s/9m8ala/bpf_from_scratch_rust) - [BPF From Scratch In Rust](https://yeet.cx/blog/bpf-from-scratch-in-rust/)
 * [2025-04-05, 06:26:36](https://lobste.rs/s/420rtz/fat12_file_truncation_bug) - [The FAT12 File Truncation Bug](https://www.brutman.com/Adventures_In_Code/FAT12_File_Truncation_Bug/FAT12_File_Truncation_Bug.html)
 * [2025-04-05, 05:04:30](https://lobste.rs/s/ofklws/simple_reply) - [A Simple Reply](https://github.com/SeaOfNodes/Simple/blob/main/ASimpleReply.md)
