@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 04:08:02](https://lobste.rs/s/qq7fci/defense_ruthless_managers) - [In defense of ruthless managers](https://www.seangoedecke.com/ruthless-managers/)
 * [2025-04-05, 03:51:48](https://lobste.rs/s/6flxuz/no_elephants_breakthroughs_image) - [No elephants: Breakthroughs in image generation](https://www.oneusefulthing.org/p/no-elephants-breakthroughs-in-image)
 * [2025-04-05, 03:00:10](https://lobste.rs/s/tjyf9r/first_look_at_modern_attr_css) - [First Look at The Modern attr() in CSS](https://ishadeed.com/article/modern-attr/)
 * [2025-04-05, 02:29:58](https://lobste.rs/s/t24ppw/html_nix_2021) - [html.nix (2021)](https://code.tvl.fyi/tree/users/sterni/nix/html/README.md)
