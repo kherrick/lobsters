@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-05, 02:10:27](https://lobste.rs/s/e4q0ub/minecraft_server_freebsd_jails) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
 * [2025-04-05, 00:41:10](https://lobste.rs/s/unnozu/how_we_hacked_software_supply_chain_for) - [How We Hacked a Software Supply Chain for $50K](https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/)
 * [2025-04-05, 00:10:26](https://lobste.rs/s/m2fjzg/annotated_unix_magic_poster) - [Annotated Unix Magic Poster](https://unixmagic.net)
 * [2025-04-04, 22:07:45](https://lobste.rs/s/1njeoa/structure_interpretation_computer) - [Structure and Interpretation of Computer Programs](https://mitp-content-server.mit.edu/books/content/sectbyfn/books_pres_0/6515/sicp.zip/full-text/book/book.html)
@@ -18,7 +19,6 @@
 * [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 * [2025-04-04, 08:10:15](https://lobste.rs/s/nq7bzj/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/nq7bzj/what_are_you_doing_this_weekend)
 * [2025-04-04, 05:37:49](https://lobste.rs/s/afmbja/security_dsa_5892_1_atop_security_update) - [[SECURITY] [DSA 5892-1] atop security update](https://lists.debian.org/debian-security-announce/2025/msg00054.html)
-* [2025-04-04, 02:59:05](https://lobste.rs/s/9ipkyl/manners_machines) - [Of manners and machines](https://commaok.xyz/post/manners/)
 * [2025-04-03, 22:46:18](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors) - [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
 * [2025-04-03, 20:03:44](https://lobste.rs/s/m00hji/rewriting_my_site_vanilla_web) - [Rewriting my site in vanilla web](https://leanrada.com/notes/vanilla-web-rewrite/)
 * [2025-04-03, 17:07:45](https://lobste.rs/s/x9ll4e/why_we_are_still_using_88x31_buttons) - [Why we are still using 88x31 buttons](https://ultrasciencelabs.com/lab-notes/why-we-are-still-using-88x31-buttons)
