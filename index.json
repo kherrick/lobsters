@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-05, 00:41:10",
+      "https://lobste.rs/s/unnozu/how_we_hacked_software_supply_chain_for"
+    ],
+    [
+      "How We Hacked a Software Supply Chain for $50K",
+      "https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/"
+    ]
+  ],
+  [
+    [
+      "2025-04-05, 00:10:26",
+      "https://lobste.rs/s/m2fjzg/annotated_unix_magic_poster"
+    ],
+    [
+      "Annotated Unix Magic Poster",
+      "https://unixmagic.net"
+    ]
+  ],
+  [
+    [
       "2025-04-04, 22:07:45",
       "https://lobste.rs/s/1njeoa/structure_interpretation_computer"
     ],
@@ -57,6 +77,16 @@
     [
       "Investigating MacPaint's Source Code",
       "https://ztoz.blog/posts/macpaint-source-code/"
+    ]
+  ],
+  [
+    [
+      "2025-04-04, 18:26:16",
+      "https://lobste.rs/s/axwigd/10_standout_github_profile_readmes"
+    ],
+    [
+      "10 Standout GitHub Profile READMEs",
+      "https://dev.to/github/10-standout-github-profile-readmes-h2o"
     ]
   ],
   [
@@ -141,16 +171,6 @@
   ],
   [
     [
-      "2025-04-04, 06:15:15",
-      "https://lobste.rs/s/9kixmk/csscape_room"
-    ],
-    [
-      "CSScape Room",
-      "https://csscape-room.iamdanielmarino.com/"
-    ]
-  ],
-  [
-    [
       "2025-04-04, 05:37:49",
       "https://lobste.rs/s/afmbja/security_dsa_5892_1_atop_security_update"
     ],
@@ -221,32 +241,12 @@
   ],
   [
     [
-      "2025-04-03, 11:10:32",
-      "https://lobste.rs/s/0jxkj4/introducing_nix_ninja_open_source_ninja"
-    ],
-    [
-      "Introducing Nix Ninja – open-source Ninja-compatible build system for Nix",
-      "https://github.com/pdtpartners/nix-ninja"
-    ]
-  ],
-  [
-    [
       "2025-04-03, 10:31:23",
       "https://lobste.rs/s/t90zb0/announcing_rust_1_86_0"
     ],
     [
       "Announcing Rust 1.86.0",
       "https://blog.rust-lang.org/2025/04/03/Rust-1.86.0.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-02, 19:59:17",
-      "https://lobste.rs/s/aupah1/gerrit_gitbutler_jujutsu_projects"
-    ],
-    [
-      "Gerrit, GitButler, and Jujutsu projects collaborating on change-id commit footer",
-      "https://lore.kernel.org/git/CAESOdVAspxUJKGAA58i0tvks4ZOfoGf1Aa5gPr0FXzdcywqUUw@mail.gmail.com/T/#u"
     ]
   ]
 ]
