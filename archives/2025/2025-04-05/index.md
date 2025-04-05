@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-05](index.md)
 
+* [2025-04-05, 22:05:45](https://lobste.rs/s/i4h5o3/llama_4_herd) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 20:17:04](https://lobste.rs/s/bl9vjr/8_pin_linux) - [8-pin Linux](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
 * [2025-04-05, 18:06:53](https://lobste.rs/s/5qf3bi/ashos_immutable_mutable_meta) - [ashos: The immutable/mutable meta-distribution (universal bootstrapper)](https://github.com/ashos/ashos)
 * [2025-04-05, 17:29:01](https://lobste.rs/s/3trizw/impact_generative_ai_on_critical) - [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort & Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)
