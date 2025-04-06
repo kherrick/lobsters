@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-06, 01:47:23](https://lobste.rs/s/o2tsdx/when_should_compiler_expand_garbage) - [When should a compiler expand garbage collection barriers?](https://robcasloz.github.io/blog/2024/02/14/when-should-a-compiler-expand-garbage-collection-barriers.html)
 * [2025-04-05, 22:28:02](https://lobste.rs/s/6sgicg/on_brightness_calibrating_your_displays) - [On brightness, and calibrating your displays](https://zamundaaa.github.io/colormanagement/2025/03/31/about-brightness.html)
 * [2025-04-05, 22:19:18](https://lobste.rs/s/gzuzyp/email_over_nncp_via_exim) - [Email over NNCP (via exim)](https://salsa.debian.org/jgoerzen/docker-nncpnet-mailnode/-/wikis/home)
 * [2025-04-05, 22:05:45](https://lobste.rs/s/i4h5o3/llama_4_herd) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
@@ -20,7 +21,6 @@
 * [2025-04-04, 22:05:25](https://lobste.rs/s/wn2ley/rough_survey_compilation_recompilation) - [A rough survey of compilation, recompilation, and compile-time evaluation](https://www.scattered-thoughts.net/writing/a-rough-survey-of-compilation-recompilation-and-compile-time-evaluation/)
 * [2025-04-04, 19:10:19](https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code) - [Investigating MacPaint's Source Code](https://ztoz.blog/posts/macpaint-source-code/)
 * [2025-04-04, 16:13:42](https://lobste.rs/s/o0xmgd/clawtype_custom_wearable_chorded) - [Clawtype - a custom wearable chorded keyboard & mouse](https://github.com/akavel/clawtype)
-* [2025-04-04, 15:59:47](https://lobste.rs/s/w9l7q5/best_refactoring_you_ve_never_heard) - [The Best Refactoring You've Never Heard Of](https://www.pathsensitive.com/2019/07/the-best-refactoring-youve-never-heard.html)
 * [2025-04-04, 15:55:37](https://lobste.rs/s/dlrmfi/on_javascript_s_weirdness) - [On JavaScript's Weirdness](https://stack-auth.com/blog/on-javascripts-weirdness)
 * [2025-04-04, 15:31:55](https://lobste.rs/s/ndlwoh/wizard_his_shell) - [The Wizard and His Shell](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/)
 * [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)

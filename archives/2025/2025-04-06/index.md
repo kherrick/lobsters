@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-06](index.md)
+
+* [2025-04-06, 01:47:23](https://lobste.rs/s/o2tsdx/when_should_compiler_expand_garbage) - [When should a compiler expand garbage collection barriers?](https://robcasloz.github.io/blog/2024/02/14/when-should-a-compiler-expand-garbage-collection-barriers.html)
