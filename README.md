@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-06, 23:32:48](https://lobste.rs/s/crlkew/model_error) - [Model error](https://surfingcomplexity.blog/2025/04/06/model-error/)
 * [2025-04-06, 23:15:55](https://lobste.rs/s/i2b6rz/try_test_anti_framework_via_cl_condition) - [Try: test anti-framework via CL Condition System](https://github.com/melisgl/try)
 * [2025-04-06, 23:05:12](https://lobste.rs/s/wabdkx/baby_steps_into_genetic_programming) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
 * [2025-04-06, 22:18:46](https://lobste.rs/s/9ojhbf/vernacular_web_indigenous_barbarians) - [Vernacular Web: Indigenous and Barbarians](https://art.teleportacia.org/observation/vernacular/)
@@ -24,7 +25,6 @@
 * [2025-04-05, 15:28:58](https://lobste.rs/s/ri3gqs/jit_calculators_finale) - [JIT calculators finale](https://ochagavia.nl/blog/jit-calculators-finale/)
 * [2025-04-05, 12:52:32](https://lobste.rs/s/sbuuzu/compilers_incrementally_extensibly) - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 * [2025-04-05, 08:15:20](https://lobste.rs/s/9m8ala/bpf_from_scratch_rust) - [BPF From Scratch In Rust](https://yeet.cx/blog/bpf-from-scratch-in-rust/)
-* [2025-04-04, 15:31:55](https://lobste.rs/s/ndlwoh/wizard_his_shell) - [The Wizard and His Shell](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/)
 
 ## [Archives](archives/index.md)
 
