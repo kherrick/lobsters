@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-06, 03:35:27](https://lobste.rs/s/51w8do/nodo_call_node_js_from_ruby) - [nodo: Call Node.js from Ruby](https://github.com/mtgrosser/nodo)
 * [2025-04-06, 03:24:23](https://lobste.rs/s/ncokd5/machines_are_rising_developers_still) - [The machines are rising — but developers still hold the keys](https://www.thoughtworks.com/insights/blog/generative-ai/machines-rising-developers-hold-keys)
 * [2025-04-06, 01:47:23](https://lobste.rs/s/o2tsdx/when_should_compiler_expand_garbage) - [When should a compiler expand garbage collection barriers?](https://robcasloz.github.io/blog/2024/02/14/when-should-a-compiler-expand-garbage-collection-barriers.html)
 * [2025-04-05, 22:28:02](https://lobste.rs/s/6sgicg/on_brightness_calibrating_your_displays) - [On brightness, and calibrating your displays](https://zamundaaa.github.io/colormanagement/2025/03/31/about-brightness.html)
@@ -24,7 +25,6 @@
 * [2025-04-04, 15:55:37](https://lobste.rs/s/dlrmfi/on_javascript_s_weirdness) - [On JavaScript's Weirdness](https://stack-auth.com/blog/on-javascripts-weirdness)
 * [2025-04-04, 15:31:55](https://lobste.rs/s/ndlwoh/wizard_his_shell) - [The Wizard and His Shell](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/)
 * [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
-* [2025-04-03, 22:46:18](https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors) - [Why I stopped using AI code editors](https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/)
 
 ## [Archives](archives/index.md)
 
