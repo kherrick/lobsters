@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-06, 14:52:01](https://lobste.rs/s/hhb6ud/microsoft_turns_50_look_back_at) - [Microsoft turns 50: A look back at everything from the Altair to the Zune](https://www.npr.org/2025/04/04/nx-s1-5328683/microsoft-50-year-anniversary-computing-revolution)
 * [2025-04-06, 14:10:33](https://lobste.rs/s/4ixrx6/tag_proposal_atproto) - [Tag proposal: ATProto](https://lobste.rs/s/4ixrx6/tag_proposal_atproto)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 * [2025-04-06, 13:18:06](https://lobste.rs/s/1ldtix/nix_derivations_by_hand_without_guessing) - [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
@@ -23,7 +24,6 @@
 * [2025-04-05, 02:10:27](https://lobste.rs/s/e4q0ub/minecraft_server_freebsd_jails) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
 * [2025-04-05, 00:10:26](https://lobste.rs/s/m2fjzg/annotated_unix_magic_poster) - [Annotated Unix Magic Poster](https://unixmagic.net)
 * [2025-04-04, 22:05:25](https://lobste.rs/s/wn2ley/rough_survey_compilation_recompilation) - [A rough survey of compilation, recompilation, and compile-time evaluation](https://www.scattered-thoughts.net/writing/a-rough-survey-of-compilation-recompilation-and-compile-time-evaluation/)
-* [2025-04-04, 16:13:42](https://lobste.rs/s/o0xmgd/clawtype_custom_wearable_chorded) - [Clawtype - a custom wearable chorded keyboard & mouse](https://github.com/akavel/clawtype)
 * [2025-04-04, 15:31:55](https://lobste.rs/s/ndlwoh/wizard_his_shell) - [The Wizard and His Shell](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/)
 
 ## [Archives](archives/index.md)

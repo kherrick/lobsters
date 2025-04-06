@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
+* [2025-04-06, 14:52:01](https://lobste.rs/s/hhb6ud/microsoft_turns_50_look_back_at) - [Microsoft turns 50: A look back at everything from the Altair to the Zune](https://www.npr.org/2025/04/04/nx-s1-5328683/microsoft-50-year-anniversary-computing-revolution)
 * [2025-04-06, 14:10:33](https://lobste.rs/s/4ixrx6/tag_proposal_atproto) - [Tag proposal: ATProto](https://lobste.rs/s/4ixrx6/tag_proposal_atproto)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 * [2025-04-06, 13:18:06](https://lobste.rs/s/1ldtix/nix_derivations_by_hand_without_guessing) - [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
