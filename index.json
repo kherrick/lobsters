@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-06, 09:11:20",
+      "https://lobste.rs/s/litpqn/order_files_etc_ssh_sshd_config_d_matters"
+    ],
+    [
+      "The order of files in /etc/ssh/sshd_config.d/ matters (and may surprise you)",
+      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters"
+    ]
+  ],
+  [
+    [
       "2025-04-06, 08:37:16",
       "https://lobste.rs/s/p814ia/rauthy_openid_connect_single_sign_on"
     ],
@@ -157,16 +167,6 @@
     [
       "A Simple Reply",
       "https://github.com/SeaOfNodes/Simple/blob/main/ASimpleReply.md"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 02:29:58",
-      "https://lobste.rs/s/t24ppw/html_nix_2021"
-    ],
-    [
-      "html.nix (2021)",
-      "https://code.tvl.fyi/tree/users/sterni/nix/html/README.md"
     ]
   ],
   [
