@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-06](index.md)
 
+* [2025-04-06, 13:18:06](https://lobste.rs/s/1ldtix/nix_derivations_by_hand_without_guessing) - [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 * [2025-04-06, 09:11:20](https://lobste.rs/s/litpqn/order_files_etc_ssh_sshd_config_d_matters) - [The order of files in /etc/ssh/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 * [2025-04-06, 08:37:16](https://lobste.rs/s/p814ia/rauthy_openid_connect_single_sign_on) - [rauthy: OpenID Connect Single Sign-On Identity & Access Management](https://github.com/sebadob/rauthy)
 * [2025-04-06, 07:07:44](https://lobste.rs/s/wyjtwq/done_with_github_actions_supply_chain) - [Done with GitHub Actions Supply Chain Attacks](https://huijzer.xyz/posts/jas/)
