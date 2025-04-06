@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-06, 08:37:16",
+      "https://lobste.rs/s/p814ia/rauthy_openid_connect_single_sign_on"
+    ],
+    [
+      "rauthy: OpenID Connect Single Sign-On Identity & Access Management",
+      "https://github.com/sebadob/rauthy"
+    ]
+  ],
+  [
+    [
       "2025-04-06, 07:07:44",
       "https://lobste.rs/s/wyjtwq/done_with_github_actions_supply_chain"
     ],
@@ -197,16 +207,6 @@
     [
       "A rough survey of compilation, recompilation, and compile-time evaluation",
       "https://www.scattered-thoughts.net/writing/a-rough-survey-of-compilation-recompilation-and-compile-time-evaluation/"
-    ]
-  ],
-  [
-    [
-      "2025-04-04, 19:10:19",
-      "https://lobste.rs/s/wc2xfl/investigating_macpaint_s_source_code"
-    ],
-    [
-      "Investigating MacPaint's Source Code",
-      "https://ztoz.blog/posts/macpaint-source-code/"
     ]
   ],
   [
