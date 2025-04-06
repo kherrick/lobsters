@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-06, 03:35:27",
+      "https://lobste.rs/s/51w8do/nodo_call_node_js_from_ruby"
+    ],
+    [
+      "nodo: Call Node.js from Ruby",
+      "https://github.com/mtgrosser/nodo"
+    ]
+  ],
+  [
+    [
       "2025-04-06, 03:24:23",
       "https://lobste.rs/s/ncokd5/machines_are_rising_developers_still"
     ],
@@ -237,16 +247,6 @@
     [
       "Pitfalls of Safe Rust",
       "https://corrode.dev/blog/pitfalls-of-safe-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-04-03, 22:46:18",
-      "https://lobste.rs/s/lak6et/why_i_stopped_using_ai_code_editors"
-    ],
-    [
-      "Why I stopped using AI code editors",
-      "https://lucianonooijen.com/blog/why-i-stopped-using-ai-code-editors/"
     ]
   ]
 ]
