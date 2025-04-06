@@ -171,6 +171,16 @@
   ],
   [
     [
+      "2025-04-05, 02:29:58",
+      "https://lobste.rs/s/t24ppw/html_nix_2021"
+    ],
+    [
+      "html.nix (2021)",
+      "https://code.tvl.fyi/tree/users/sterni/nix/html/README.md"
+    ]
+  ],
+  [
+    [
       "2025-04-05, 02:10:27",
       "https://lobste.rs/s/e4q0ub/minecraft_server_freebsd_jails"
     ],
@@ -237,16 +247,6 @@
     [
       "The Wizard and His Shell",
       "https://terminal.click/posts/2025/04/the-wizard-and-his-shell/"
-    ]
-  ],
-  [
-    [
-      "2025-04-04, 09:13:38",
-      "https://lobste.rs/s/reznwf/pitfalls_safe_rust"
-    ],
-    [
-      "Pitfalls of Safe Rust",
-      "https://corrode.dev/blog/pitfalls-of-safe-rust/"
     ]
   ]
 ]
