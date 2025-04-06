@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-06, 09:11:20](https://lobste.rs/s/litpqn/order_files_etc_ssh_sshd_config_d_matters) - [The order of files in /etc/ssh/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 * [2025-04-06, 08:37:16](https://lobste.rs/s/p814ia/rauthy_openid_connect_single_sign_on) - [rauthy: OpenID Connect Single Sign-On Identity & Access Management](https://github.com/sebadob/rauthy)
 * [2025-04-06, 07:07:44](https://lobste.rs/s/wyjtwq/done_with_github_actions_supply_chain) - [Done with GitHub Actions Supply Chain Attacks](https://huijzer.xyz/posts/jas/)
 * [2025-04-06, 04:55:30](https://lobste.rs/s/vwrai2/maclynx_beta_6_back_power_mac) - [MacLynx beta 6: back to the Power Mac](http://oldvcr.blogspot.com/2025/04/maclynx-beta-6-back-to-power-mac.html)
@@ -16,7 +17,6 @@
 * [2025-04-05, 12:52:32](https://lobste.rs/s/sbuuzu/compilers_incrementally_extensibly) - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 * [2025-04-05, 08:15:20](https://lobste.rs/s/9m8ala/bpf_from_scratch_rust) - [BPF From Scratch In Rust](https://yeet.cx/blog/bpf-from-scratch-in-rust/)
 * [2025-04-05, 05:04:30](https://lobste.rs/s/ofklws/simple_reply) - [A Simple Reply](https://github.com/SeaOfNodes/Simple/blob/main/ASimpleReply.md)
-* [2025-04-05, 02:29:58](https://lobste.rs/s/t24ppw/html_nix_2021) - [html.nix (2021)](https://code.tvl.fyi/tree/users/sterni/nix/html/README.md)
 * [2025-04-05, 02:10:27](https://lobste.rs/s/e4q0ub/minecraft_server_freebsd_jails) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
 * [2025-04-05, 00:41:10](https://lobste.rs/s/unnozu/how_we_hacked_software_supply_chain_for) - [How We Hacked a Software Supply Chain for $50K](https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/)
 * [2025-04-05, 00:10:26](https://lobste.rs/s/m2fjzg/annotated_unix_magic_poster) - [Annotated Unix Magic Poster](https://unixmagic.net)
