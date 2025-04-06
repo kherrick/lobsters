@@ -17,6 +17,7 @@
 * [2025-04-05, 12:52:32](https://lobste.rs/s/sbuuzu/compilers_incrementally_extensibly) - [Compilers: Incrementally and Extensibly](https://okmij.org/ftp/tagless-final/Compiler/index.html)
 * [2025-04-05, 08:15:20](https://lobste.rs/s/9m8ala/bpf_from_scratch_rust) - [BPF From Scratch In Rust](https://yeet.cx/blog/bpf-from-scratch-in-rust/)
 * [2025-04-05, 05:04:30](https://lobste.rs/s/ofklws/simple_reply) - [A Simple Reply](https://github.com/SeaOfNodes/Simple/blob/main/ASimpleReply.md)
+* [2025-04-05, 02:29:58](https://lobste.rs/s/t24ppw/html_nix_2021) - [html.nix (2021)](https://code.tvl.fyi/tree/users/sterni/nix/html/README.md)
 * [2025-04-05, 02:10:27](https://lobste.rs/s/e4q0ub/minecraft_server_freebsd_jails) - [Minecraft Server in FreeBSD Jails Container](https://vermaden.wordpress.com/2025/04/05/minecraft-server-freebsd-jails-container/)
 * [2025-04-05, 00:41:10](https://lobste.rs/s/unnozu/how_we_hacked_software_supply_chain_for) - [How We Hacked a Software Supply Chain for $50K](https://www.landh.tech/blog/20250211-hack-supply-chain-for-50k/)
 * [2025-04-05, 00:10:26](https://lobste.rs/s/m2fjzg/annotated_unix_magic_poster) - [Annotated Unix Magic Poster](https://unixmagic.net)
@@ -24,7 +25,6 @@
 * [2025-04-04, 16:13:42](https://lobste.rs/s/o0xmgd/clawtype_custom_wearable_chorded) - [Clawtype - a custom wearable chorded keyboard & mouse](https://github.com/akavel/clawtype)
 * [2025-04-04, 15:55:37](https://lobste.rs/s/dlrmfi/on_javascript_s_weirdness) - [On JavaScript's Weirdness](https://stack-auth.com/blog/on-javascripts-weirdness)
 * [2025-04-04, 15:31:55](https://lobste.rs/s/ndlwoh/wizard_his_shell) - [The Wizard and His Shell](https://terminal.click/posts/2025/04/the-wizard-and-his-shell/)
-* [2025-04-04, 09:13:38](https://lobste.rs/s/reznwf/pitfalls_safe_rust) - [Pitfalls of Safe Rust](https://corrode.dev/blog/pitfalls-of-safe-rust/)
 
 ## [Archives](archives/index.md)
 
