@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 07:07:54](https://lobste.rs/s/1zyk3d/launching_bssg_my_journey_from_dynamic) - [Launching BSSG - My Journey from Dynamic CMS to Bash Static Site Generator](https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/)
 * [2025-04-07, 06:37:54](https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus) - [Resize Observer API with Stimulus](https://avohq.io/blog/resize-observer-stimulus)
 * [2025-04-07, 04:33:21](https://lobste.rs/s/vrbtjw/making_brainf_jit_compiler_rust) - [Making a Brainf*** JIT Compiler in Rust](https://www.youtube.com/watch?v=3aRdIijtGrM)
@@ -21,7 +22,6 @@
 * [2025-04-06, 08:37:16](https://lobste.rs/s/p814ia/rauthy_openid_connect_single_sign_on) - [rauthy: OpenID Connect Single Sign-On Identity & Access Management](https://github.com/sebadob/rauthy)
 * [2025-04-06, 07:07:44](https://lobste.rs/s/wyjtwq/done_with_github_actions_supply_chain) - [Done with GitHub Actions Supply Chain Attacks](https://huijzer.xyz/posts/jas/)
 * [2025-04-06, 04:55:30](https://lobste.rs/s/vwrai2/maclynx_beta_6_back_power_mac) - [MacLynx beta 6: back to the Power Mac](http://oldvcr.blogspot.com/2025/04/maclynx-beta-6-back-to-power-mac.html)
-* [2025-04-05, 22:19:18](https://lobste.rs/s/gzuzyp/email_over_nncp_via_exim) - [Email over NNCP (via exim)](https://salsa.debian.org/jgoerzen/docker-nncpnet-mailnode/-/wikis/home)
 * [2025-04-05, 22:05:45](https://lobste.rs/s/i4h5o3/llama_4_herd) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 20:17:04](https://lobste.rs/s/bl9vjr/8_pin_linux) - [8-pin Linux](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
 * [2025-04-05, 17:29:01](https://lobste.rs/s/3trizw/impact_generative_ai_on_critical) - [The Impact of Generative AI on Critical Thinking: Self-Reported Reductions in Cognitive Effort & Confidence Effects From a Survey of Knowledge Workers](https://www.microsoft.com/en-us/research/wp-content/uploads/2025/01/lee_2025_ai_critical_thinking_survey.pdf)

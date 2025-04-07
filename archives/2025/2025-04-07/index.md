@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 07:07:54](https://lobste.rs/s/1zyk3d/launching_bssg_my_journey_from_dynamic) - [Launching BSSG - My Journey from Dynamic CMS to Bash Static Site Generator](https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/)
 * [2025-04-07, 06:37:54](https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus) - [Resize Observer API with Stimulus](https://avohq.io/blog/resize-observer-stimulus)
 * [2025-04-07, 04:33:21](https://lobste.rs/s/vrbtjw/making_brainf_jit_compiler_rust) - [Making a Brainf*** JIT Compiler in Rust](https://www.youtube.com/watch?v=3aRdIijtGrM)
