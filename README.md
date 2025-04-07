@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 13:02:14](https://lobste.rs/s/jooshq/writing_c_for_curl) - [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 * [2025-04-07, 12:14:16](https://lobste.rs/s/s3ize0/best_programmers_i_know) - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
 * [2025-04-07, 11:53:03](https://lobste.rs/s/vgbf9y/testing_frameworks_mini_languages) - [Testing Frameworks and Mini-Languages](https://matttproud.com/blog/posts/testing-frameworks-and-mini-languages.html)
 * [2025-04-07, 11:52:06](https://lobste.rs/s/lpd2wj/gobolinux_017_01_most_experimental_linux) - [GoboLinux 017.01: the most experimental Linux's first new release in about 5Y](https://gobolinux.org/release_notes_017.01.html)
@@ -11,7 +12,6 @@
 * [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 07:07:54](https://lobste.rs/s/1zyk3d/launching_bssg_my_journey_from_dynamic) - [Launching BSSG - My Journey from Dynamic CMS to Bash Static Site Generator](https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/)
 * [2025-04-07, 06:37:54](https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus) - [Resize Observer API with Stimulus](https://avohq.io/blog/resize-observer-stimulus)
-* [2025-04-07, 04:33:21](https://lobste.rs/s/vrbtjw/making_brainf_jit_compiler_rust) - [Making a Brainf*** JIT Compiler in Rust](https://www.youtube.com/watch?v=3aRdIijtGrM)
 * [2025-04-07, 03:48:23](https://lobste.rs/s/ln0ri7/certicoq_verified_compiler_for_gallina) - [certicoq: A Verified Compiler for Gallina, Written in Gallina](https://github.com/CertiCoq/certicoq)
 * [2025-04-07, 03:11:15](https://lobste.rs/s/hwynua/vector_sets_are_part_redis) - [Vector Sets are part of Redis](https://antirez.com/news/149)
 * [2025-04-07, 03:08:28](https://lobste.rs/s/crhvi0/one_does_not_simply_update_one_s) - [One does not simply update one's dependencies](https://rosswintle.uk/2025/04/one-does-not-simply-update-ones-dependencies/)
