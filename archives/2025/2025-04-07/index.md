@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
 * [2025-04-07, 21:08:04](https://lobste.rs/s/rkkpkg/writing_good_comments_why_not_how_2020) - [Writing good comments: the why, not the how (2020)](https://www.jackfranklin.co.uk/blog/code-comments-why-not-how/)
+* [2025-04-07, 20:39:34](https://lobste.rs/s/8nekra/go_zero_values) - [Go Zero Values](https://yoric.github.io/post/go-nil-values/)
 * [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
 * [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 19:22:24](https://lobste.rs/s/06map0/notes_on_literate_programming) - [Notes on Literate Programming](http://www.literateprogramming.com/index.html)

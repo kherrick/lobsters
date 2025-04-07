@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-07, 21:08:04](https://lobste.rs/s/rkkpkg/writing_good_comments_why_not_how_2020) - [Writing good comments: the why, not the how (2020)](https://www.jackfranklin.co.uk/blog/code-comments-why-not-how/)
+* [2025-04-07, 20:39:34](https://lobste.rs/s/8nekra/go_zero_values) - [Go Zero Values](https://yoric.github.io/post/go-nil-values/)
 * [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
 * [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 19:22:24](https://lobste.rs/s/06map0/notes_on_literate_programming) - [Notes on Literate Programming](http://www.literateprogramming.com/index.html)
@@ -9,7 +10,6 @@
 * [2025-04-07, 18:28:33](https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial) - [hg-git: git backend for mercurial](https://foss.heptapod.net/mercurial/hg-git)
 * [2025-04-07, 18:01:51](https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using) - [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/)
 * [2025-04-07, 18:01:39](https://lobste.rs/s/msvm18/beware_when_moving_std_optional_2023) - [Beware when moving a std::optional (2023)](https://blog.tal.bi/posts/std-optional-move-pitfall/)
-* [2025-04-07, 17:51:10](https://lobste.rs/s/d8chzz/troll_hole_adventure_1980) - [The Troll Hole Adventure (1980)](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
 * [2025-04-07, 17:30:31](https://lobste.rs/s/sqqegd/emulating_iphone_qemu) - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 * [2025-04-07, 16:35:29](https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful) - [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 13:02:14](https://lobste.rs/s/jooshq/writing_c_for_curl) - [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
