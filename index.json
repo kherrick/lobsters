@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 18:52:54",
+      "https://lobste.rs/s/yskd14/gumroad_becomes_open_source"
+    ],
+    [
+      "Gumroad becomes open source",
+      "https://github.com/antiwork/gumroad"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 18:32:16",
       "https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos"
     ],
@@ -67,6 +77,16 @@
     [
       "20 years of Git. Still weird, still wonderful",
       "https://blog.gitbutler.com/20-years-of-git/"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 14:40:01",
+      "https://lobste.rs/s/oyidg2/git_links_org"
+    ],
+    [
+      "Git Links in Org",
+      "https://nothingissimple.ablatedsprocket.com/posts/git-links-in-org.html"
     ]
   ],
   [
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-04-07, 06:37:54",
-      "https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus"
-    ],
-    [
-      "Resize Observer API with Stimulus",
-      "https://avohq.io/blog/resize-observer-stimulus"
-    ]
-  ],
-  [
-    [
       "2025-04-07, 03:11:15",
       "https://lobste.rs/s/hwynua/vector_sets_are_part_redis"
     ],
@@ -237,16 +247,6 @@
     [
       "Nix derivations by hand, without guessing",
       "https://bernsteinbear.com/blog/nix-by-hand/"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 07:07:44",
-      "https://lobste.rs/s/wyjtwq/done_with_github_actions_supply_chain"
-    ],
-    [
-      "Done with GitHub Actions Supply Chain Attacks",
-      "https://huijzer.xyz/posts/jas/"
     ]
   ]
 ]
