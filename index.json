@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 21:08:04",
+      "https://lobste.rs/s/rkkpkg/writing_good_comments_why_not_how_2020"
+    ],
+    [
+      "Writing good comments: the why, not the how (2020)",
+      "https://www.jackfranklin.co.uk/blog/code-comments-why-not-how/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 20:16:55",
       "https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter"
     ],
@@ -77,16 +87,6 @@
     [
       "Beware when moving a std::optional (2023)",
       "https://blog.tal.bi/posts/std-optional-move-pitfall/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 17:51:10",
-      "https://lobste.rs/s/d8chzz/troll_hole_adventure_1980"
-    ],
-    [
-      "The Troll Hole Adventure (1980)",
-      "https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/"
     ]
   ],
   [
