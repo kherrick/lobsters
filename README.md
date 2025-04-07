@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 14:40:01](https://lobste.rs/s/oyidg2/git_links_org) - [Git Links in Org](https://nothingissimple.ablatedsprocket.com/posts/git-links-in-org.html)
 * [2025-04-07, 13:02:14](https://lobste.rs/s/jooshq/writing_c_for_curl) - [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 * [2025-04-07, 12:14:16](https://lobste.rs/s/s3ize0/best_programmers_i_know) - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
 * [2025-04-07, 11:53:03](https://lobste.rs/s/vgbf9y/testing_frameworks_mini_languages) - [Testing Frameworks and Mini-Languages](https://matttproud.com/blog/posts/testing-frameworks-and-mini-languages.html)
@@ -19,7 +20,6 @@
 * [2025-04-06, 21:14:14](https://lobste.rs/s/tz89ak/insanity_being_software_engineer) - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 * [2025-04-06, 16:28:03](https://lobste.rs/s/szggka/hiding_elements_require_javascript) - [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
 * [2025-04-06, 15:10:44](https://lobste.rs/s/pkjyww/short_story_my_programming_language) - [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
-* [2025-04-06, 14:10:33](https://lobste.rs/s/4ixrx6/tag_proposal_atproto) - [Tag proposal: ATProto](https://lobste.rs/s/4ixrx6/tag_proposal_atproto)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 * [2025-04-06, 13:18:06](https://lobste.rs/s/1ldtix/nix_derivations_by_hand_without_guessing) - [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
 * [2025-04-06, 09:11:20](https://lobste.rs/s/litpqn/order_files_etc_ssh_sshd_config_d_matters) - [The order of files in /etc/ssh/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
