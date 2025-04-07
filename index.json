@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 20:16:55",
+      "https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter"
+    ],
+    [
+      "Emacs Startup Time Doesn’t Matter",
+      "https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 19:32:25",
       "https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua"
     ],
@@ -77,16 +87,6 @@
     [
       "The Troll Hole Adventure (1980)",
       "https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 17:30:31",
-      "https://lobste.rs/s/sqqegd/emulating_iphone_qemu"
-    ],
-    [
-      "Emulating an iPhone in QEMU",
-      "https://eshard.com/posts/emulating-ios-14-with-qemu"
     ]
   ],
   [
