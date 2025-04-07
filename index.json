@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 13:02:14",
+      "https://lobste.rs/s/jooshq/writing_c_for_curl"
+    ],
+    [
+      "Writing C for curl",
+      "https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 12:14:16",
       "https://lobste.rs/s/s3ize0/best_programmers_i_know"
     ],
@@ -107,16 +117,6 @@
     [
       "Resize Observer API with Stimulus",
       "https://avohq.io/blog/resize-observer-stimulus"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 04:33:21",
-      "https://lobste.rs/s/vrbtjw/making_brainf_jit_compiler_rust"
-    ],
-    [
-      "Making a Brainf*** JIT Compiler in Rust",
-      "https://www.youtube.com/watch?v=3aRdIijtGrM"
     ]
   ],
   [
