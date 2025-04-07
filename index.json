@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 17:30:31",
+      "https://lobste.rs/s/sqqegd/emulating_iphone_qemu"
+    ],
+    [
+      "Emulating an iPhone in QEMU",
+      "https://eshard.com/posts/emulating-ios-14-with-qemu"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 16:35:29",
       "https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful"
     ],
@@ -127,16 +137,6 @@
     [
       "Launching BSSG - My Journey from Dynamic CMS to Bash Static Site Generator",
       "https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 06:37:54",
-      "https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus"
-    ],
-    [
-      "Resize Observer API with Stimulus",
-      "https://avohq.io/blog/resize-observer-stimulus"
     ]
   ],
   [
