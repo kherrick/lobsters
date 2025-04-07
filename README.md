@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 09:46:48](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week)
 * [2025-04-07, 08:57:14](https://lobste.rs/s/vgdbfm/airfone) - [Airfone](https://computer.rip/2025-04-06-Airfone.html)
 * [2025-04-07, 08:19:24](https://lobste.rs/s/dmim6o/mock_interview_ai) - [Mock-Interview.AI](https://news.ycombinator.com/item?id=43609093)
 * [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
@@ -12,7 +13,6 @@
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
 * [2025-04-06, 23:32:48](https://lobste.rs/s/crlkew/model_error) - [Model error](https://surfingcomplexity.blog/2025/04/06/model-error/)
 * [2025-04-06, 23:05:12](https://lobste.rs/s/wabdkx/baby_steps_into_genetic_programming) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
-* [2025-04-06, 22:18:46](https://lobste.rs/s/9ojhbf/vernacular_web_indigenous_barbarians) - [Vernacular Web: Indigenous and Barbarians](https://art.teleportacia.org/observation/vernacular/)
 * [2025-04-06, 21:14:14](https://lobste.rs/s/tz89ak/insanity_being_software_engineer) - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 * [2025-04-06, 16:28:03](https://lobste.rs/s/szggka/hiding_elements_require_javascript) - [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
 * [2025-04-06, 15:10:44](https://lobste.rs/s/pkjyww/short_story_my_programming_language) - [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
