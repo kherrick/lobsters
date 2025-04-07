@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 18:32:16](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos) - [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
+* [2025-04-07, 18:28:33](https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial) - [hg-git: git backend for mercurial](https://foss.heptapod.net/mercurial/hg-git)
 * [2025-04-07, 18:01:51](https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using) - [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/)
 * [2025-04-07, 18:01:39](https://lobste.rs/s/msvm18/beware_when_moving_std_optional_2023) - [Beware when moving a std::optional (2023)](https://blog.tal.bi/posts/std-optional-move-pitfall/)
 * [2025-04-07, 17:51:10](https://lobste.rs/s/d8chzz/troll_hole_adventure_1980) - [The Troll Hole Adventure (1980)](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
@@ -16,10 +18,8 @@
 * [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 07:07:54](https://lobste.rs/s/1zyk3d/launching_bssg_my_journey_from_dynamic) - [Launching BSSG - My Journey from Dynamic CMS to Bash Static Site Generator](https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/)
 * [2025-04-07, 06:37:54](https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus) - [Resize Observer API with Stimulus](https://avohq.io/blog/resize-observer-stimulus)
-* [2025-04-07, 03:48:23](https://lobste.rs/s/ln0ri7/certicoq_verified_compiler_for_gallina) - [certicoq: A Verified Compiler for Gallina, Written in Gallina](https://github.com/CertiCoq/certicoq)
 * [2025-04-07, 03:11:15](https://lobste.rs/s/hwynua/vector_sets_are_part_redis) - [Vector Sets are part of Redis](https://antirez.com/news/149)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
-* [2025-04-06, 21:14:14](https://lobste.rs/s/tz89ak/insanity_being_software_engineer) - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 * [2025-04-06, 16:28:03](https://lobste.rs/s/szggka/hiding_elements_require_javascript) - [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
 * [2025-04-06, 15:10:44](https://lobste.rs/s/pkjyww/short_story_my_programming_language) - [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)

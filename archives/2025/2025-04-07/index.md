@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 18:32:16](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos) - [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
+* [2025-04-07, 18:28:33](https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial) - [hg-git: git backend for mercurial](https://foss.heptapod.net/mercurial/hg-git)
 * [2025-04-07, 18:01:51](https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using) - [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/)
 * [2025-04-07, 18:01:39](https://lobste.rs/s/msvm18/beware_when_moving_std_optional_2023) - [Beware when moving a std::optional (2023)](https://blog.tal.bi/posts/std-optional-move-pitfall/)
 * [2025-04-07, 17:51:10](https://lobste.rs/s/d8chzz/troll_hole_adventure_1980) - [The Troll Hole Adventure (1980)](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
