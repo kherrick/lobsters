@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-07, 17:51:10",
+      "https://lobste.rs/s/d8chzz/troll_hole_adventure_1980"
+    ],
+    [
+      "The Troll Hole Adventure (1980)",
+      "https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 17:30:31",
       "https://lobste.rs/s/sqqegd/emulating_iphone_qemu"
     ],
@@ -17,16 +27,6 @@
     [
       "20 years of Git. Still weird, still wonderful",
       "https://blog.gitbutler.com/20-years-of-git/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 14:40:01",
-      "https://lobste.rs/s/oyidg2/git_links_org"
-    ],
-    [
-      "Git Links in Org",
-      "https://nothingissimple.ablatedsprocket.com/posts/git-links-in-org.html"
     ]
   ],
   [
@@ -141,6 +141,16 @@
   ],
   [
     [
+      "2025-04-07, 06:37:54",
+      "https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus"
+    ],
+    [
+      "Resize Observer API with Stimulus",
+      "https://avohq.io/blog/resize-observer-stimulus"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 03:48:23",
       "https://lobste.rs/s/ln0ri7/certicoq_verified_compiler_for_gallina"
     ],
@@ -227,16 +237,6 @@
     [
       "Nix derivations by hand, without guessing",
       "https://bernsteinbear.com/blog/nix-by-hand/"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 09:11:20",
-      "https://lobste.rs/s/litpqn/order_files_etc_ssh_sshd_config_d_matters"
-    ],
-    [
-      "The order of files in /etc/ssh/sshd_config.d/ matters (and may surprise you)",
-      "https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters"
     ]
   ],
   [
