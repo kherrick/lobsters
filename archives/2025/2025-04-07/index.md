@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 11:22:05](https://lobste.rs/s/pccrtt/apple_s_darwin_os_xnu_kernel_deep_dive) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-07, 10:43:11](https://lobste.rs/s/w7r0yp/small_haskell_task) - [A small Haskell task](https://abuseofnotation.github.io/haskell-task/)
 * [2025-04-07, 09:46:48](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week)
 * [2025-04-07, 08:57:14](https://lobste.rs/s/vgdbfm/airfone) - [Airfone](https://computer.rip/2025-04-06-Airfone.html)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 11:22:05](https://lobste.rs/s/pccrtt/apple_s_darwin_os_xnu_kernel_deep_dive) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-07, 10:43:11](https://lobste.rs/s/w7r0yp/small_haskell_task) - [A small Haskell task](https://abuseofnotation.github.io/haskell-task/)
 * [2025-04-07, 09:46:48](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week)
 * [2025-04-07, 08:57:14](https://lobste.rs/s/vgdbfm/airfone) - [Airfone](https://computer.rip/2025-04-06-Airfone.html)
@@ -12,7 +13,6 @@
 * [2025-04-07, 03:08:28](https://lobste.rs/s/crhvi0/one_does_not_simply_update_one_s) - [One does not simply update one's dependencies](https://rosswintle.uk/2025/04/one-does-not-simply-update-ones-dependencies/)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
 * [2025-04-06, 23:32:48](https://lobste.rs/s/crlkew/model_error) - [Model error](https://surfingcomplexity.blog/2025/04/06/model-error/)
-* [2025-04-06, 23:05:12](https://lobste.rs/s/wabdkx/baby_steps_into_genetic_programming) - [Baby Steps into Genetic Programming](https://aerique.blogspot.com/2011/01/baby-steps-into-genetic-programming.html)
 * [2025-04-06, 21:14:14](https://lobste.rs/s/tz89ak/insanity_being_software_engineer) - [The Insanity of Being a Software Engineer](https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/)
 * [2025-04-06, 16:28:03](https://lobste.rs/s/szggka/hiding_elements_require_javascript) - [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
 * [2025-04-06, 15:10:44](https://lobste.rs/s/pkjyww/short_story_my_programming_language) - [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
