@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 19:08:26](https://lobste.rs/s/3dv6ix/thinking_like_compiler_places_values) - [Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/)
 * [2025-04-07, 18:32:16](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos) - [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-07, 18:28:33](https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial) - [hg-git: git backend for mercurial](https://foss.heptapod.net/mercurial/hg-git)
@@ -21,7 +22,6 @@
 * [2025-04-07, 07:07:54](https://lobste.rs/s/1zyk3d/launching_bssg_my_journey_from_dynamic) - [Launching BSSG - My Journey from Dynamic CMS to Bash Static Site Generator](https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/)
 * [2025-04-07, 03:11:15](https://lobste.rs/s/hwynua/vector_sets_are_part_redis) - [Vector Sets are part of Redis](https://antirez.com/news/149)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
-* [2025-04-06, 16:28:03](https://lobste.rs/s/szggka/hiding_elements_require_javascript) - [Hiding elements that require JavaScript without JavaScript](https://0xda.de/blog/2025/04/hiding-elements-that-require-javascript-without-javascript/)
 * [2025-04-06, 15:10:44](https://lobste.rs/s/pkjyww/short_story_my_programming_language) - [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 * [2025-04-06, 13:18:06](https://lobste.rs/s/1ldtix/nix_derivations_by_hand_without_guessing) - [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
