@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-07, 03:11:15",
+      "https://lobste.rs/s/hwynua/vector_sets_are_part_redis"
+    ],
+    [
+      "Vector Sets are part of Redis",
+      "https://antirez.com/news/149"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 03:08:28",
+      "https://lobste.rs/s/crhvi0/one_does_not_simply_update_one_s"
+    ],
+    [
+      "One does not simply update one's dependencies",
+      "https://rosswintle.uk/2025/04/one-does-not-simply-update-ones-dependencies/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 01:07:45",
       "https://lobste.rs/s/qorexc/more_contrast_please"
     ],
@@ -171,16 +191,6 @@
   ],
   [
     [
-      "2025-04-06, 01:47:23",
-      "https://lobste.rs/s/o2tsdx/when_should_compiler_expand_garbage"
-    ],
-    [
-      "When should a compiler expand garbage collection barriers?",
-      "https://robcasloz.github.io/blog/2024/02/14/when-should-a-compiler-expand-garbage-collection-barriers.html"
-    ]
-  ],
-  [
-    [
       "2025-04-05, 22:28:02",
       "https://lobste.rs/s/6sgicg/on_brightness_calibrating_your_displays"
     ],
@@ -237,16 +247,6 @@
     [
       "JIT calculators finale",
       "https://ochagavia.nl/blog/jit-calculators-finale/"
-    ]
-  ],
-  [
-    [
-      "2025-04-05, 12:52:32",
-      "https://lobste.rs/s/sbuuzu/compilers_incrementally_extensibly"
-    ],
-    [
-      "Compilers: Incrementally and Extensibly",
-      "https://okmij.org/ftp/tagless-final/Compiler/index.html"
     ]
   ]
 ]
