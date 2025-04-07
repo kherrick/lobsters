@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 17:51:10](https://lobste.rs/s/d8chzz/troll_hole_adventure_1980) - [The Troll Hole Adventure (1980)](https://bluerenga.blog/2025/04/03/the-troll-hole-adventure-1980/)
 * [2025-04-07, 17:30:31](https://lobste.rs/s/sqqegd/emulating_iphone_qemu) - [Emulating an iPhone in QEMU](https://eshard.com/posts/emulating-ios-14-with-qemu)
 * [2025-04-07, 16:35:29](https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful) - [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/)
-* [2025-04-07, 14:40:01](https://lobste.rs/s/oyidg2/git_links_org) - [Git Links in Org](https://nothingissimple.ablatedsprocket.com/posts/git-links-in-org.html)
 * [2025-04-07, 13:02:14](https://lobste.rs/s/jooshq/writing_c_for_curl) - [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 * [2025-04-07, 12:14:16](https://lobste.rs/s/s3ize0/best_programmers_i_know) - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
 * [2025-04-07, 11:53:03](https://lobste.rs/s/vgbf9y/testing_frameworks_mini_languages) - [Testing Frameworks and Mini-Languages](https://matttproud.com/blog/posts/testing-frameworks-and-mini-languages.html)
@@ -14,6 +14,7 @@
 * [2025-04-07, 08:57:14](https://lobste.rs/s/vgdbfm/airfone) - [Airfone](https://computer.rip/2025-04-06-Airfone.html)
 * [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 07:07:54](https://lobste.rs/s/1zyk3d/launching_bssg_my_journey_from_dynamic) - [Launching BSSG - My Journey from Dynamic CMS to Bash Static Site Generator](https://it-notes.dragas.net/2025/04/07/launching-bssg-my-journey-from-dynamic-cms-to-bash-static-site-generator/)
+* [2025-04-07, 06:37:54](https://lobste.rs/s/tnozei/resize_observer_api_with_stimulus) - [Resize Observer API with Stimulus](https://avohq.io/blog/resize-observer-stimulus)
 * [2025-04-07, 03:48:23](https://lobste.rs/s/ln0ri7/certicoq_verified_compiler_for_gallina) - [certicoq: A Verified Compiler for Gallina, Written in Gallina](https://github.com/CertiCoq/certicoq)
 * [2025-04-07, 03:11:15](https://lobste.rs/s/hwynua/vector_sets_are_part_redis) - [Vector Sets are part of Redis](https://antirez.com/news/149)
 * [2025-04-07, 03:08:28](https://lobste.rs/s/crhvi0/one_does_not_simply_update_one_s) - [One does not simply update one's dependencies](https://rosswintle.uk/2025/04/one-does-not-simply-update-ones-dependencies/)
@@ -23,7 +24,6 @@
 * [2025-04-06, 15:10:44](https://lobste.rs/s/pkjyww/short_story_my_programming_language) - [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 * [2025-04-06, 13:18:06](https://lobste.rs/s/1ldtix/nix_derivations_by_hand_without_guessing) - [Nix derivations by hand, without guessing](https://bernsteinbear.com/blog/nix-by-hand/)
-* [2025-04-06, 09:11:20](https://lobste.rs/s/litpqn/order_files_etc_ssh_sshd_config_d_matters) - [The order of files in /etc/ssh/sshd_config.d/ matters (and may surprise you)](https://utcc.utoronto.ca/~cks/space/blog/sysadmin/OpenSSHConfigOrderMatters)
 * [2025-04-06, 07:07:44](https://lobste.rs/s/wyjtwq/done_with_github_actions_supply_chain) - [Done with GitHub Actions Supply Chain Attacks](https://huijzer.xyz/posts/jas/)
 
 ## [Archives](archives/index.md)
