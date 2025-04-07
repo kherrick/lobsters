@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
+* [2025-04-07, 04:33:21](https://lobste.rs/s/vrbtjw/making_brainf_jit_compiler_rust) - [Making a Brainf*** JIT Compiler in Rust](https://www.youtube.com/watch?v=3aRdIijtGrM)
 * [2025-04-07, 03:48:23](https://lobste.rs/s/ln0ri7/certicoq_verified_compiler_for_gallina) - [certicoq: A Verified Compiler for Gallina, Written in Gallina](https://github.com/CertiCoq/certicoq)
 * [2025-04-07, 03:11:15](https://lobste.rs/s/hwynua/vector_sets_are_part_redis) - [Vector Sets are part of Redis](https://antirez.com/news/149)
 * [2025-04-07, 03:08:28](https://lobste.rs/s/crhvi0/one_does_not_simply_update_one_s) - [One does not simply update one's dependencies](https://rosswintle.uk/2025/04/one-does-not-simply-update-ones-dependencies/)

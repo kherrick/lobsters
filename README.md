@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-07, 04:33:21](https://lobste.rs/s/vrbtjw/making_brainf_jit_compiler_rust) - [Making a Brainf*** JIT Compiler in Rust](https://www.youtube.com/watch?v=3aRdIijtGrM)
 * [2025-04-07, 03:48:23](https://lobste.rs/s/ln0ri7/certicoq_verified_compiler_for_gallina) - [certicoq: A Verified Compiler for Gallina, Written in Gallina](https://github.com/CertiCoq/certicoq)
 * [2025-04-07, 03:11:15](https://lobste.rs/s/hwynua/vector_sets_are_part_redis) - [Vector Sets are part of Redis](https://antirez.com/news/149)
 * [2025-04-07, 03:08:28](https://lobste.rs/s/crhvi0/one_does_not_simply_update_one_s) - [One does not simply update one's dependencies](https://rosswintle.uk/2025/04/one-does-not-simply-update-ones-dependencies/)
@@ -20,7 +21,6 @@
 * [2025-04-06, 07:07:44](https://lobste.rs/s/wyjtwq/done_with_github_actions_supply_chain) - [Done with GitHub Actions Supply Chain Attacks](https://huijzer.xyz/posts/jas/)
 * [2025-04-06, 04:55:30](https://lobste.rs/s/vwrai2/maclynx_beta_6_back_power_mac) - [MacLynx beta 6: back to the Power Mac](http://oldvcr.blogspot.com/2025/04/maclynx-beta-6-back-to-power-mac.html)
 * [2025-04-06, 03:35:27](https://lobste.rs/s/51w8do/nodo_call_node_js_from_ruby) - [nodo: Call Node.js from Ruby](https://github.com/mtgrosser/nodo)
-* [2025-04-05, 22:28:02](https://lobste.rs/s/6sgicg/on_brightness_calibrating_your_displays) - [On brightness, and calibrating your displays](https://zamundaaa.github.io/colormanagement/2025/03/31/about-brightness.html)
 * [2025-04-05, 22:19:18](https://lobste.rs/s/gzuzyp/email_over_nncp_via_exim) - [Email over NNCP (via exim)](https://salsa.debian.org/jgoerzen/docker-nncpnet-mailnode/-/wikis/home)
 * [2025-04-05, 22:05:45](https://lobste.rs/s/i4h5o3/llama_4_herd) - [The Llama 4 herd](https://ai.meta.com/blog/llama-4-multimodal-intelligence/)
 * [2025-04-05, 20:17:04](https://lobste.rs/s/bl9vjr/8_pin_linux) - [8-pin Linux](https://dmitry.gr/?r=05.Projects&proj=36.%208pinLinux)
