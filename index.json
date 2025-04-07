@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-07, 18:32:16",
+      "https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos"
+    ],
+    [
+      "rsync replaced with openrsync on macOS Sequoia",
+      "https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/"
+    ]
+  ],
+  [
+    [
+      "2025-04-07, 18:28:33",
+      "https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial"
+    ],
+    [
+      "hg-git: git backend for mercurial",
+      "https://foss.heptapod.net/mercurial/hg-git"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 18:01:51",
       "https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-04-07, 03:48:23",
-      "https://lobste.rs/s/ln0ri7/certicoq_verified_compiler_for_gallina"
-    ],
-    [
-      "certicoq: A Verified Compiler for Gallina, Written in Gallina",
-      "https://github.com/CertiCoq/certicoq"
-    ]
-  ],
-  [
-    [
       "2025-04-07, 03:11:15",
       "https://lobste.rs/s/hwynua/vector_sets_are_part_redis"
     ],
@@ -187,16 +197,6 @@
     [
       "More Contrast, Please",
       "https://susam.net/more-contrast-please.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-06, 21:14:14",
-      "https://lobste.rs/s/tz89ak/insanity_being_software_engineer"
-    ],
-    [
-      "The Insanity of Being a Software Engineer",
-      "https://0x1.pt/2025/04/06/the-insanity-of-being-a-software-engineer/"
     ]
   ],
   [
