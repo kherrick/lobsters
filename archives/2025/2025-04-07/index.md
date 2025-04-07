@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-07](index.md)
 
 * [2025-04-07, 23:36:12](https://lobste.rs/s/gmrmdj/remembering_john_conway_s_fractran) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
+* [2025-04-07, 22:34:22](https://lobste.rs/s/teutud/beautiful_ci_for_bazel) - [Beautiful CI for Bazel](https://narang99.github.io/2025-03-22-monorepo-bazel-jenkins/)
 * [2025-04-07, 21:08:04](https://lobste.rs/s/rkkpkg/writing_good_comments_why_not_how_2020) - [Writing good comments: the why, not the how (2020)](https://www.jackfranklin.co.uk/blog/code-comments-why-not-how/)
 * [2025-04-07, 20:39:34](https://lobste.rs/s/8nekra/go_zero_values) - [Go Zero Values](https://yoric.github.io/post/go-nil-values/)
 * [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)

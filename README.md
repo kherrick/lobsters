@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-07, 23:36:12](https://lobste.rs/s/gmrmdj/remembering_john_conway_s_fractran) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
+* [2025-04-07, 22:34:22](https://lobste.rs/s/teutud/beautiful_ci_for_bazel) - [Beautiful CI for Bazel](https://narang99.github.io/2025-03-22-monorepo-bazel-jenkins/)
 * [2025-04-07, 21:08:04](https://lobste.rs/s/rkkpkg/writing_good_comments_why_not_how_2020) - [Writing good comments: the why, not the how (2020)](https://www.jackfranklin.co.uk/blog/code-comments-why-not-how/)
 * [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
 * [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
@@ -23,7 +24,6 @@
 * [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 03:11:15](https://lobste.rs/s/hwynua/vector_sets_are_part_redis) - [Vector Sets are part of Redis](https://antirez.com/news/149)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
-* [2025-04-06, 15:10:44](https://lobste.rs/s/pkjyww/short_story_my_programming_language) - [A short story of my programming language Easylang](https://easylang.online/apps/story.html)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 
 ## [Archives](archives/index.md)
