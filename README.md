@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-08, 11:23:01](https://lobste.rs/s/fwg7us/freedos_1_4_released) - [FreeDOS 1.4 released](https://freedos.org/download/announce.html)
 * [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-08, 08:56:08](https://lobste.rs/s/lhz3z8/what_it_s_like_interview_software) - [What it's like to interview a software engineer preparing with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 * [2025-04-08, 05:52:11](https://lobste.rs/s/zodmlk/zen_art_semiconductor_manufacturing) - [Zen and The Art of Semiconductor Manufacturing](https://futuring.substack.com/p/zen-and-the-art-of-semiconductor)
@@ -23,7 +24,6 @@
 * [2025-04-07, 11:52:06](https://lobste.rs/s/lpd2wj/gobolinux_017_01_most_experimental_linux) - [GoboLinux 017.01: the most experimental Linux's first new release in about 5Y](https://gobolinux.org/release_notes_017.01.html)
 * [2025-04-07, 11:46:37](https://lobste.rs/s/lq8w47/my_journey_freebsd_building_just_focus) - [My Journey to FreeBSD: Building a 'Just Focus' Laptop](https://stevengharms.com/longform/my-first-freebsd)
 * [2025-04-07, 11:22:05](https://lobste.rs/s/pccrtt/apple_s_darwin_os_xnu_kernel_deep_dive) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
-* [2025-04-07, 10:43:11](https://lobste.rs/s/w7r0yp/small_haskell_task) - [A small Haskell task](https://abuseofnotation.github.io/haskell-task/)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
 
 ## [Archives](archives/index.md)
