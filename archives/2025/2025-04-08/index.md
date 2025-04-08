@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-08, 08:56:08](https://lobste.rs/s/lhz3z8/what_it_s_like_interview_software) - [What it's like to interview a software engineer preparing with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 * [2025-04-08, 05:52:11](https://lobste.rs/s/zodmlk/zen_art_semiconductor_manufacturing) - [Zen and The Art of Semiconductor Manufacturing](https://futuring.substack.com/p/zen-and-the-art-of-semiconductor)
 * [2025-04-08, 05:05:26](https://lobste.rs/s/qxssg8/this_month_redox_march_2025) - [This Month in Redox - March 2025](https://www.redox-os.org/news/this-month-250331/)
