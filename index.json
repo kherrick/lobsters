@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-08, 13:29:03",
+      "https://lobste.rs/s/b9kbg3/verified_compilation_python_with"
+    ],
+    [
+      "\"Verified\" \"Compilation\" of \"Python\" with Knuckledragger, GCC, and Ghidra",
+      "https://www.philipzucker.com/knuckle_C_pcode/"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 11:38:34",
       "https://lobste.rs/s/y3og5m/every_programming_language_needs_its"
     ],
@@ -207,16 +217,6 @@
     [
       "The Best Programmers I Know",
       "https://endler.dev/2025/best-programmers/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 11:52:06",
-      "https://lobste.rs/s/lpd2wj/gobolinux_017_01_most_experimental_linux"
-    ],
-    [
-      "GoboLinux 017.01: the most experimental Linux's first new release in about 5Y",
-      "https://gobolinux.org/release_notes_017.01.html"
     ]
   ],
   [
