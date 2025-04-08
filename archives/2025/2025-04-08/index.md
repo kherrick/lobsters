@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 16:01:19](https://lobste.rs/s/cwr6fe/how_get_feel_for_data) - [How to \"get a feel for the data\"](https://briefer.cloud/blog/posts/look-the-data/)
 * [2025-04-08, 15:18:32](https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality) - [dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms](https://github.com/drecklypkg/dreckly)
 * [2025-04-08, 15:08:28](https://lobste.rs/s/xap6ps/better_typography_with_text_wrap_pretty) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 * [2025-04-08, 13:29:03](https://lobste.rs/s/b9kbg3/verified_compilation_python_with) - [\"Verified\" \"Compilation\" of \"Python\" with Knuckledragger, GCC, and Ghidra](https://www.philipzucker.com/knuckle_C_pcode/)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-08, 16:01:19](https://lobste.rs/s/cwr6fe/how_get_feel_for_data) - [How to \"get a feel for the data\"](https://briefer.cloud/blog/posts/look-the-data/)
 * [2025-04-08, 15:18:32](https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality) - [dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms](https://github.com/drecklypkg/dreckly)
 * [2025-04-08, 15:08:28](https://lobste.rs/s/xap6ps/better_typography_with_text_wrap_pretty) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 * [2025-04-08, 13:29:03](https://lobste.rs/s/b9kbg3/verified_compilation_python_with) - [\"Verified\" \"Compilation\" of \"Python\" with Knuckledragger, GCC, and Ghidra](https://www.philipzucker.com/knuckle_C_pcode/)
@@ -23,7 +24,6 @@
 * [2025-04-07, 13:02:14](https://lobste.rs/s/jooshq/writing_c_for_curl) - [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 * [2025-04-07, 12:14:16](https://lobste.rs/s/s3ize0/best_programmers_i_know) - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
 * [2025-04-07, 11:46:37](https://lobste.rs/s/lq8w47/my_journey_freebsd_building_just_focus) - [My Journey to FreeBSD: Building a 'Just Focus' Laptop](https://stevengharms.com/longform/my-first-freebsd)
-* [2025-04-07, 11:22:05](https://lobste.rs/s/pccrtt/apple_s_darwin_os_xnu_kernel_deep_dive) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
 
 ## [Archives](archives/index.md)
