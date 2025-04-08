@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-08, 15:18:32",
+      "https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality"
+    ],
+    [
+      "dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms",
+      "https://github.com/drecklypkg/dreckly"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 15:08:28",
+      "https://lobste.rs/s/xap6ps/better_typography_with_text_wrap_pretty"
+    ],
+    [
+      "Better typography with text-wrap pretty",
+      "https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 13:29:03",
       "https://lobste.rs/s/b9kbg3/verified_compilation_python_with"
     ],
@@ -81,16 +101,6 @@
   ],
   [
     [
-      "2025-04-08, 02:31:42",
-      "https://lobste.rs/s/ulclax/most_linked_domains"
-    ],
-    [
-      "The most linked-to domains",
-      "https://ooh.directory/blog/2025/most-linked-domains/"
-    ]
-  ],
-  [
-    [
       "2025-04-08, 01:31:54",
       "https://lobste.rs/s/f6wcbv/are_freebsd_jails_containers"
     ],
@@ -137,16 +147,6 @@
     [
       "Lux - a new package manager for Lua",
       "https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 19:22:24",
-      "https://lobste.rs/s/06map0/notes_on_literate_programming"
-    ],
-    [
-      "Notes on Literate Programming",
-      "http://www.literateprogramming.com/index.html"
     ]
   ],
   [
