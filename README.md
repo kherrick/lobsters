@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-08, 19:30:51](https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998) - [The SRE regular-expression notation (1998)](https://www.khoury.northeastern.edu/~shivers/papers/sre.txt)
 * [2025-04-08, 19:22:33](https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into) - [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
 * [2025-04-08, 19:13:03](https://lobste.rs/s/ab6qap/obituary_for_cyc) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 18:51:22](https://lobste.rs/s/wgfhhv/bare_fast_lightweight_runtime_for) - [Bare: Fast, Lightweight Runtime for Modular JavaScript App](https://bare.pears.com/)
-* [2025-04-08, 18:46:14](https://lobste.rs/s/xl1m2i/pyreason_explainable_inference_for) - [PyReason: Explainable inference for annotated, real valued, graph based and temporal logic](https://github.com/lab-v2/pyreason)
 * [2025-04-08, 16:01:19](https://lobste.rs/s/cwr6fe/how_get_feel_for_data) - [How to \"get a feel for the data\"](https://briefer.cloud/blog/posts/look-the-data/)
 * [2025-04-08, 15:18:32](https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality) - [dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms](https://github.com/drecklypkg/dreckly)
 * [2025-04-08, 15:08:28](https://lobste.rs/s/xap6ps/better_typography_with_text_wrap_pretty) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)

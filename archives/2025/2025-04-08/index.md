@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 19:30:51](https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998) - [The SRE regular-expression notation (1998)](https://www.khoury.northeastern.edu/~shivers/papers/sre.txt)
 * [2025-04-08, 19:22:33](https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into) - [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
 * [2025-04-08, 19:13:03](https://lobste.rs/s/ab6qap/obituary_for_cyc) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 18:51:22](https://lobste.rs/s/wgfhhv/bare_fast_lightweight_runtime_for) - [Bare: Fast, Lightweight Runtime for Modular JavaScript App](https://bare.pears.com/)
