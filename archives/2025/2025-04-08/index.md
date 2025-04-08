@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
 * [2025-04-08, 20:07:28](https://lobste.rs/s/3lf0w3/mistakes_cool_things_do_with_arena) - [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas/)
 * [2025-04-08, 19:30:51](https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998) - [The SRE regular-expression notation (1998)](https://www.khoury.northeastern.edu/~shivers/papers/sre.txt)
 * [2025-04-08, 19:22:33](https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into) - [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)

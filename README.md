@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
 * [2025-04-08, 20:07:28](https://lobste.rs/s/3lf0w3/mistakes_cool_things_do_with_arena) - [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas/)
 * [2025-04-08, 19:30:51](https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998) - [The SRE regular-expression notation (1998)](https://www.khoury.northeastern.edu/~shivers/papers/sre.txt)
 * [2025-04-08, 19:22:33](https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into) - [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
@@ -15,7 +16,6 @@
 * [2025-04-08, 05:52:11](https://lobste.rs/s/zodmlk/zen_art_semiconductor_manufacturing) - [Zen and The Art of Semiconductor Manufacturing](https://futuring.substack.com/p/zen-and-the-art-of-semiconductor)
 * [2025-04-08, 05:05:26](https://lobste.rs/s/qxssg8/this_month_redox_march_2025) - [This Month in Redox - March 2025](https://www.redox-os.org/news/this-month-250331/)
 * [2025-04-08, 01:31:54](https://lobste.rs/s/f6wcbv/are_freebsd_jails_containers) - [Are FreeBSD Jails a Containers?](https://vermaden.wordpress.com/2025/04/08/are-freebsd-jails-containers/)
-* [2025-04-07, 23:36:12](https://lobste.rs/s/gmrmdj/remembering_john_conway_s_fractran) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
 * [2025-04-07, 20:39:34](https://lobste.rs/s/8nekra/go_zero_values) - [Go Zero Values](https://yoric.github.io/post/go-nil-values/)
 * [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
 * [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
