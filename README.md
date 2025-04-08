@@ -6,6 +6,7 @@
 * [2025-04-08, 00:18:20](https://lobste.rs/s/nzx2oz/gamma_knife_model_incidents_2019) - [The Gamma Knife model of incidents (2019)](https://surfingcomplexity.blog/2019/08/25/the-gamma-knife-model-of-incidents/)
 * [2025-04-07, 23:36:12](https://lobste.rs/s/gmrmdj/remembering_john_conway_s_fractran) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
 * [2025-04-07, 21:08:04](https://lobste.rs/s/rkkpkg/writing_good_comments_why_not_how_2020) - [Writing good comments: the why, not the how (2020)](https://www.jackfranklin.co.uk/blog/code-comments-why-not-how/)
+* [2025-04-07, 20:39:34](https://lobste.rs/s/8nekra/go_zero_values) - [Go Zero Values](https://yoric.github.io/post/go-nil-values/)
 * [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
 * [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 19:22:24](https://lobste.rs/s/06map0/notes_on_literate_programming) - [Notes on Literate Programming](http://www.literateprogramming.com/index.html)
@@ -22,7 +23,6 @@
 * [2025-04-07, 11:22:05](https://lobste.rs/s/pccrtt/apple_s_darwin_os_xnu_kernel_deep_dive) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-07, 10:43:11](https://lobste.rs/s/w7r0yp/small_haskell_task) - [A small Haskell task](https://abuseofnotation.github.io/haskell-task/)
 * [2025-04-07, 09:46:48](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wtavh6/what_are_you_doing_this_week)
-* [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
 * [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 
