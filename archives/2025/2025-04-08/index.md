@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 19:22:33](https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into) - [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
 * [2025-04-08, 19:13:03](https://lobste.rs/s/ab6qap/obituary_for_cyc) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 18:51:22](https://lobste.rs/s/wgfhhv/bare_fast_lightweight_runtime_for) - [Bare: Fast, Lightweight Runtime for Modular JavaScript App](https://bare.pears.com/)
 * [2025-04-08, 18:46:14](https://lobste.rs/s/xl1m2i/pyreason_explainable_inference_for) - [PyReason: Explainable inference for annotated, real valued, graph based and temporal logic](https://github.com/lab-v2/pyreason)
