@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-08, 18:51:22](https://lobste.rs/s/wgfhhv/bare_fast_lightweight_runtime_for) - [Bare: Fast, Lightweight Runtime for Modular JavaScript App](https://bare.pears.com/)
 * [2025-04-08, 18:46:14](https://lobste.rs/s/xl1m2i/pyreason_explainable_inference_for) - [PyReason: Explainable inference for annotated, real valued, graph based and temporal logic](https://github.com/lab-v2/pyreason)
 * [2025-04-08, 16:01:19](https://lobste.rs/s/cwr6fe/how_get_feel_for_data) - [How to \"get a feel for the data\"](https://briefer.cloud/blog/posts/look-the-data/)
 * [2025-04-08, 15:18:32](https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality) - [dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms](https://github.com/drecklypkg/dreckly)
@@ -11,7 +12,6 @@
 * [2025-04-08, 08:56:08](https://lobste.rs/s/lhz3z8/what_it_s_like_interview_software) - [What it's like to interview a software engineer preparing with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
 * [2025-04-08, 05:52:11](https://lobste.rs/s/zodmlk/zen_art_semiconductor_manufacturing) - [Zen and The Art of Semiconductor Manufacturing](https://futuring.substack.com/p/zen-and-the-art-of-semiconductor)
 * [2025-04-08, 05:05:26](https://lobste.rs/s/qxssg8/this_month_redox_march_2025) - [This Month in Redox - March 2025](https://www.redox-os.org/news/this-month-250331/)
-* [2025-04-08, 03:44:00](https://lobste.rs/s/5awmrl/more_devops_than_i_bargained_for) - [More devops than I bargained for](https://fasterthanli.me/articles/more-devops-than-i-bargained-for)
 * [2025-04-08, 01:31:54](https://lobste.rs/s/f6wcbv/are_freebsd_jails_containers) - [Are FreeBSD Jails a Containers?](https://vermaden.wordpress.com/2025/04/08/are-freebsd-jails-containers/)
 * [2025-04-07, 23:36:12](https://lobste.rs/s/gmrmdj/remembering_john_conway_s_fractran) - [Remembering John Conway's FRACTRAN, a ridiculous, yet surprisingly deep language](https://raganwald.com/2020/05/03/fractran.html)
 * [2025-04-07, 20:39:34](https://lobste.rs/s/8nekra/go_zero_values) - [Go Zero Values](https://yoric.github.io/post/go-nil-values/)

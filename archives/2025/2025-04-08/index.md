@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 18:51:22](https://lobste.rs/s/wgfhhv/bare_fast_lightweight_runtime_for) - [Bare: Fast, Lightweight Runtime for Modular JavaScript App](https://bare.pears.com/)
 * [2025-04-08, 18:46:14](https://lobste.rs/s/xl1m2i/pyreason_explainable_inference_for) - [PyReason: Explainable inference for annotated, real valued, graph based and temporal logic](https://github.com/lab-v2/pyreason)
 * [2025-04-08, 16:01:19](https://lobste.rs/s/cwr6fe/how_get_feel_for_data) - [How to \"get a feel for the data\"](https://briefer.cloud/blog/posts/look-the-data/)
 * [2025-04-08, 15:18:32](https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality) - [dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms](https://github.com/drecklypkg/dreckly)
