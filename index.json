@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-08, 16:01:19",
+      "https://lobste.rs/s/cwr6fe/how_get_feel_for_data"
+    ],
+    [
+      "How to \"get a feel for the data\"",
+      "https://briefer.cloud/blog/posts/look-the-data/"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 15:18:32",
       "https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality"
     ],
@@ -227,16 +237,6 @@
     [
       "My Journey to FreeBSD: Building a 'Just Focus' Laptop",
       "https://stevengharms.com/longform/my-first-freebsd"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 11:22:05",
-      "https://lobste.rs/s/pccrtt/apple_s_darwin_os_xnu_kernel_deep_dive"
-    ],
-    [
-      "Apple’s Darwin OS and XNU Kernel Deep Dive",
-      "https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/"
     ]
   ],
   [
