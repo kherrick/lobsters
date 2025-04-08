@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-08, 19:13:03",
+      "https://lobste.rs/s/ab6qap/obituary_for_cyc"
+    ],
+    [
+      "Obituary for Cyc",
+      "https://yuxi-liu-wired.github.io/essays/posts/cyc/"
+    ]
+  ],
+  [
+    [
       "2025-04-08, 18:51:22",
       "https://lobste.rs/s/wgfhhv/bare_fast_lightweight_runtime_for"
     ],
@@ -187,16 +197,6 @@
     [
       "rsync replaced with openrsync on macOS Sequoia",
       "https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 18:28:33",
-      "https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial"
-    ],
-    [
-      "hg-git: git backend for mercurial",
-      "https://foss.heptapod.net/mercurial/hg-git"
     ]
   ],
   [
