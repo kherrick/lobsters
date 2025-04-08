@@ -23,8 +23,8 @@
 * [2025-04-07, 11:46:37](https://lobste.rs/s/lq8w47/my_journey_freebsd_building_just_focus) - [My Journey to FreeBSD: Building a 'Just Focus' Laptop](https://stevengharms.com/longform/my-first-freebsd)
 * [2025-04-07, 11:22:05](https://lobste.rs/s/pccrtt/apple_s_darwin_os_xnu_kernel_deep_dive) - [Apple’s Darwin OS and XNU Kernel Deep Dive](https://tansanrao.com/blog/2025/04/xnu-kernel-and-darwin-evolution-and-architecture/)
 * [2025-04-07, 10:43:11](https://lobste.rs/s/w7r0yp/small_haskell_task) - [A small Haskell task](https://abuseofnotation.github.io/haskell-task/)
+* [2025-04-07, 07:20:09](https://lobste.rs/s/rlfgn4/monkeyspaw_prompt_driven_web_framework) - [MonkeysPaw - a prompt-driven web framework in Ruby](https://worksonmymachine.substack.com/p/introducing-monkeyspaw-a-prompt-driven)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
-* [2025-04-06, 13:37:49](https://lobste.rs/s/pawabv/ran_out_infrastructure_titles) - [Ran out of infrastructure titles](https://arch.dog/bark/2025-03-30-infrastructure)
 
 ## [Archives](archives/index.md)
 
