@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 11:38:34](https://lobste.rs/s/y3og5m/every_programming_language_needs_its) - [Every programming language needs its killer app to succeed](https://www.grilly.com/posts/programming-languages-reason-to-exist/)
 * [2025-04-08, 11:23:01](https://lobste.rs/s/fwg7us/freedos_1_4_released) - [FreeDOS 1.4 released](https://freedos.org/download/announce.html)
 * [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-08, 08:56:08](https://lobste.rs/s/lhz3z8/what_it_s_like_interview_software) - [What it's like to interview a software engineer preparing with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)

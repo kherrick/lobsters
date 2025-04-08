@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-08, 11:38:34](https://lobste.rs/s/y3og5m/every_programming_language_needs_its) - [Every programming language needs its killer app to succeed](https://www.grilly.com/posts/programming-languages-reason-to-exist/)
 * [2025-04-08, 11:23:01](https://lobste.rs/s/fwg7us/freedos_1_4_released) - [FreeDOS 1.4 released](https://freedos.org/download/announce.html)
 * [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-08, 08:56:08](https://lobste.rs/s/lhz3z8/what_it_s_like_interview_software) - [What it's like to interview a software engineer preparing with AI](https://www.kapwing.com/blog/what-its-like-to-interview-a-software-engineer-preparing-with-ai/)
@@ -16,7 +17,6 @@
 * [2025-04-07, 19:08:26](https://lobste.rs/s/3dv6ix/thinking_like_compiler_places_values) - [Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/)
 * [2025-04-07, 18:32:16](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos) - [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-07, 18:28:33](https://lobste.rs/s/chu3ww/hg_git_git_backend_for_mercurial) - [hg-git: git backend for mercurial](https://foss.heptapod.net/mercurial/hg-git)
-* [2025-04-07, 18:01:51](https://lobste.rs/s/07rviq/long_context_support_llm_0_24_using) - [Long context support in LLM 0.24 using fragments and template plugins](https://simonwillison.net/2025/Apr/7/long-context-llm/)
 * [2025-04-07, 18:01:39](https://lobste.rs/s/msvm18/beware_when_moving_std_optional_2023) - [Beware when moving a std::optional (2023)](https://blog.tal.bi/posts/std-optional-move-pitfall/)
 * [2025-04-07, 16:35:29](https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful) - [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 13:02:14](https://lobste.rs/s/jooshq/writing_c_for_curl) - [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
