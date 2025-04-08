@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-08, 00:18:20",
+      "https://lobste.rs/s/nzx2oz/gamma_knife_model_incidents_2019"
+    ],
+    [
+      "The Gamma Knife model of incidents (2019)",
+      "https://surfingcomplexity.blog/2019/08/25/the-gamma-knife-model-of-incidents/"
+    ]
+  ],
+  [
+    [
       "2025-04-07, 23:36:12",
       "https://lobste.rs/s/gmrmdj/remembering_john_conway_s_fractran"
     ],
@@ -107,16 +117,6 @@
     [
       "Beware when moving a std::optional (2023)",
       "https://blog.tal.bi/posts/std-optional-move-pitfall/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 17:30:31",
-      "https://lobste.rs/s/sqqegd/emulating_iphone_qemu"
-    ],
-    [
-      "Emulating an iPhone in QEMU",
-      "https://eshard.com/posts/emulating-ios-14-with-qemu"
     ]
   ],
   [
