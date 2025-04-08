@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 13:29:03](https://lobste.rs/s/b9kbg3/verified_compilation_python_with) - [\"Verified\" \"Compilation\" of \"Python\" with Knuckledragger, GCC, and Ghidra](https://www.philipzucker.com/knuckle_C_pcode/)
 * [2025-04-08, 11:38:34](https://lobste.rs/s/y3og5m/every_programming_language_needs_its) - [Every programming language needs its killer app to succeed](https://www.grilly.com/posts/programming-languages-reason-to-exist/)
 * [2025-04-08, 11:23:01](https://lobste.rs/s/fwg7us/freedos_1_4_released) - [FreeDOS 1.4 released](https://freedos.org/download/announce.html)
 * [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
