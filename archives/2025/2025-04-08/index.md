@@ -5,6 +5,7 @@
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
 * [2025-04-08, 05:52:11](https://lobste.rs/s/zodmlk/zen_art_semiconductor_manufacturing) - [Zen and The Art of Semiconductor Manufacturing](https://futuring.substack.com/p/zen-and-the-art-of-semiconductor)
+* [2025-04-08, 05:05:26](https://lobste.rs/s/qxssg8/this_month_redox_march_2025) - [This Month in Redox - March 2025](https://www.redox-os.org/news/this-month-250331/)
 * [2025-04-08, 03:44:00](https://lobste.rs/s/5awmrl/more_devops_than_i_bargained_for) - [More devops than I bargained for](https://fasterthanli.me/articles/more-devops-than-i-bargained-for)
 * [2025-04-08, 02:31:42](https://lobste.rs/s/ulclax/most_linked_domains) - [The most linked-to domains](https://ooh.directory/blog/2025/most-linked-domains/)
 * [2025-04-08, 01:43:16](https://lobste.rs/s/klvuhi/freebsd_vnet_jails_networking) - [FreeBSD VNET Jails Networking](https://blog.uxtly.com/freebsd-jails-network-setup)
