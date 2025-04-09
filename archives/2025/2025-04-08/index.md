@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-08](index.md)
 
+* [2025-04-08, 20:56:07](https://lobste.rs/s/etlc6s/story_behind_100_go_mistakes_how_avoid) - [The Story Behind 100 Go Mistakes and How to Avoid Them](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
 * [2025-04-08, 20:07:28](https://lobste.rs/s/3lf0w3/mistakes_cool_things_do_with_arena) - [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas/)
 * [2025-04-08, 19:30:51](https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998) - [The SRE regular-expression notation (1998)](https://www.khoury.northeastern.edu/~shivers/papers/sre.txt)
