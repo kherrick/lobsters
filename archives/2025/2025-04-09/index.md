@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 09:16:48](https://lobste.rs/s/tppp5b/openssh_10_0_released) - [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
 * [2025-04-09, 07:50:53](https://lobste.rs/s/8w5blq/order_files_your_ext4_filesystem_does_not) - [the order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
 * [2025-04-09, 07:50:28](https://lobste.rs/s/3jhrkf/decomposing_factorial_300k_as_product) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
