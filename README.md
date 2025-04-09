@@ -14,6 +14,7 @@
 * [2025-04-09, 09:16:48](https://lobste.rs/s/tppp5b/openssh_10_0_released) - [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
 * [2025-04-09, 07:50:28](https://lobste.rs/s/3jhrkf/decomposing_factorial_300k_as_product) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
+* [2025-04-09, 07:15:00](https://lobste.rs/s/fe9byf/how_does_c_code_become_assembly) - [How Does C Code Become Assembly](https://www.xta0.me/2021/07/13/MIT-6172-5.html)
 * [2025-04-09, 02:42:33](https://lobste.rs/s/6uabab/hardened_file_backup_routine) - [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/)
 * [2025-04-09, 00:41:51](https://lobste.rs/s/nbajcl/barium_experiment) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 * [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
@@ -23,7 +24,6 @@
 * [2025-04-08, 15:08:28](https://lobste.rs/s/xap6ps/better_typography_with_text_wrap_pretty) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
 * [2025-04-08, 13:29:03](https://lobste.rs/s/b9kbg3/verified_compilation_python_with) - [\"Verified\" \"Compilation\" of \"Python\" with Knuckledragger, GCC, and Ghidra](https://www.philipzucker.com/knuckle_C_pcode/)
 * [2025-04-08, 11:38:34](https://lobste.rs/s/y3og5m/every_programming_language_needs_its) - [Every programming language needs its killer app to succeed](https://www.grilly.com/posts/programming-languages-reason-to-exist/)
-* [2025-04-08, 11:23:01](https://lobste.rs/s/fwg7us/freedos_1_4_released) - [FreeDOS 1.4 released](https://freedos.org/download/announce.html)
 * [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 
 ## [Archives](archives/index.md)
