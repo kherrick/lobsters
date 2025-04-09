@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 15:49:26](https://lobste.rs/s/5nedly/doing_prospero_challenge_rpython) - [Doing the Prospero-Challenge in RPython](https://www.pypy.org/posts/2025/04/prospero-in-rpython.html)
 * [2025-04-09, 15:20:17](https://lobste.rs/s/rsea1s/koreo_platform_engineering_toolkit_for) - [Koreo: The platform engineering toolkit for Kubernetes](https://koreo.dev)
 * [2025-04-09, 14:35:13](https://lobste.rs/s/6qzxzg/compiler_for_micron_programming) - [A compiler for the Micron programming language - the Oberon with the power of C](https://github.com/rochus-keller/micron/)
 * [2025-04-09, 14:34:46](https://lobste.rs/s/qpdvuh/barrelfish) - [barrelfish](https://github.com/BarrelfishOS/barrelfish)

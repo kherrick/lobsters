@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-09, 15:49:26](https://lobste.rs/s/5nedly/doing_prospero_challenge_rpython) - [Doing the Prospero-Challenge in RPython](https://www.pypy.org/posts/2025/04/prospero-in-rpython.html)
 * [2025-04-09, 15:20:17](https://lobste.rs/s/rsea1s/koreo_platform_engineering_toolkit_for) - [Koreo: The platform engineering toolkit for Kubernetes](https://koreo.dev)
 * [2025-04-09, 14:35:13](https://lobste.rs/s/6qzxzg/compiler_for_micron_programming) - [A compiler for the Micron programming language - the Oberon with the power of C](https://github.com/rochus-keller/micron/)
 * [2025-04-09, 14:34:46](https://lobste.rs/s/qpdvuh/barrelfish) - [barrelfish](https://github.com/BarrelfishOS/barrelfish)
@@ -11,7 +12,6 @@
 * [2025-04-09, 09:32:58](https://lobste.rs/s/hw8zvr/hardening_firefox_frontend_with_content) - [Hardening the Firefox Frontend with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 * [2025-04-09, 09:26:47](https://lobste.rs/s/p7xsfx/is_not_writing_tests_unprofessional_2019) - [Is not writing tests unprofessional? (2019)](https://matthiasnoback.nl/2019/09/is-not-writing-tests-unprofessional/)
 * [2025-04-09, 09:16:48](https://lobste.rs/s/tppp5b/openssh_10_0_released) - [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
-* [2025-04-09, 07:50:53](https://lobste.rs/s/8w5blq/order_files_your_ext4_filesystem_does_not) - [the order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
 * [2025-04-09, 07:50:28](https://lobste.rs/s/3jhrkf/decomposing_factorial_300k_as_product) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-09, 02:42:33](https://lobste.rs/s/6uabab/hardened_file_backup_routine) - [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/)
