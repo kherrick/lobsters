@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-09, 17:59:10](https://lobste.rs/s/nbcmxy/what_if_poison_were_rust) - [what if the poison were rust?](https://flak.tedunangst.com/post/what-if-the-poison-were-rust)
 * [2025-04-09, 15:49:26](https://lobste.rs/s/5nedly/doing_prospero_challenge_rpython) - [Doing the Prospero-Challenge in RPython](https://www.pypy.org/posts/2025/04/prospero-in-rpython.html)
 * [2025-04-09, 15:20:17](https://lobste.rs/s/rsea1s/koreo_platform_engineering_toolkit_for) - [Koreo: The platform engineering toolkit for Kubernetes](https://koreo.dev)
 * [2025-04-09, 14:35:13](https://lobste.rs/s/6qzxzg/compiler_for_micron_programming) - [A compiler for the Micron programming language - the Oberon with the power of C](https://github.com/rochus-keller/micron/)
@@ -22,7 +23,6 @@
 * [2025-04-08, 19:13:03](https://lobste.rs/s/ab6qap/obituary_for_cyc) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 15:18:32](https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality) - [dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms](https://github.com/drecklypkg/dreckly)
 * [2025-04-08, 15:08:28](https://lobste.rs/s/xap6ps/better_typography_with_text_wrap_pretty) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
-* [2025-04-08, 13:29:03](https://lobste.rs/s/b9kbg3/verified_compilation_python_with) - [\"Verified\" \"Compilation\" of \"Python\" with Knuckledragger, GCC, and Ghidra](https://www.philipzucker.com/knuckle_C_pcode/)
 * [2025-04-08, 11:38:34](https://lobste.rs/s/y3og5m/every_programming_language_needs_its) - [Every programming language needs its killer app to succeed](https://www.grilly.com/posts/programming-languages-reason-to-exist/)
 * [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 
