@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-09, 14:35:13](https://lobste.rs/s/6qzxzg/compiler_for_micron_programming) - [A compiler for the Micron programming language - the Oberon with the power of C](https://github.com/rochus-keller/micron/)
 * [2025-04-09, 14:02:05](https://lobste.rs/s/oa5hbz/llm_query_understanding_service) - [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
 * [2025-04-09, 13:47:22](https://lobste.rs/s/fwohal/man_pages_are_great_man_readers_are) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 * [2025-04-09, 12:06:41](https://lobste.rs/s/bcdwwa/how_sync_anything) - [How to Sync Anything](https://neighbourhood.ie/blog/2025/04/06/how-to-sync-anything)
@@ -15,7 +16,6 @@
 * [2025-04-09, 06:29:42](https://lobste.rs/s/kfgi6e/linux_6_15_features_deliver_lot_for_intel) - [Linux 6.15 Features Deliver A Lot For Intel & AMD, Many Other Changes](https://www.phoronix.com/review/linux-615-features)
 * [2025-04-09, 02:42:33](https://lobste.rs/s/6uabab/hardened_file_backup_routine) - [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/)
 * [2025-04-09, 00:41:51](https://lobste.rs/s/nbajcl/barium_experiment) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
-* [2025-04-08, 20:56:07](https://lobste.rs/s/etlc6s/story_behind_100_go_mistakes_how_avoid) - [The Story Behind 100 Go Mistakes and How to Avoid Them](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
 * [2025-04-08, 19:22:33](https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into) - [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
 * [2025-04-08, 19:13:03](https://lobste.rs/s/ab6qap/obituary_for_cyc) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
