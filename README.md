@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-09, 22:21:06](https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral) - [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
 * [2025-04-09, 21:37:32](https://lobste.rs/s/aoy99y/it_s_not_bad_they_told_me_coreboot) - [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
 * [2025-04-09, 21:36:46](https://lobste.rs/s/2ar8hu/visualizing_million_time_series_with) - [Visualizing a Million Time Series with the Density Line Chart](https://arxiv.org/pdf/1808.06019)
 * [2025-04-09, 21:07:05](https://lobste.rs/s/2ixxem/react_for_two_computers) - [React for Two Computers](https://overreacted.io/react-for-two-computers/)
@@ -17,7 +18,6 @@
 * [2025-04-09, 09:32:58](https://lobste.rs/s/hw8zvr/hardening_firefox_frontend_with_content) - [Hardening the Firefox Frontend with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
 * [2025-04-09, 09:26:47](https://lobste.rs/s/p7xsfx/is_not_writing_tests_unprofessional_2019) - [Is not writing tests unprofessional? (2019)](https://matthiasnoback.nl/2019/09/is-not-writing-tests-unprofessional/)
 * [2025-04-09, 09:16:48](https://lobste.rs/s/tppp5b/openssh_10_0_released) - [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
-* [2025-04-09, 07:50:28](https://lobste.rs/s/3jhrkf/decomposing_factorial_300k_as_product) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-09, 00:41:51](https://lobste.rs/s/nbajcl/barium_experiment) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 * [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
