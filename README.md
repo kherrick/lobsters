@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-09, 00:41:51](https://lobste.rs/s/nbajcl/barium_experiment) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 * [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
 * [2025-04-08, 20:07:28](https://lobste.rs/s/3lf0w3/mistakes_cool_things_do_with_arena) - [Mistakes and cool things to do with arena allocators](https://zylinski.se/posts/dynamic-arrays-and-arenas/)
 * [2025-04-08, 19:30:51](https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998) - [The SRE regular-expression notation (1998)](https://www.khoury.northeastern.edu/~shivers/papers/sre.txt)
@@ -22,7 +23,6 @@
 * [2025-04-07, 19:08:26](https://lobste.rs/s/3dv6ix/thinking_like_compiler_places_values) - [Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/)
 * [2025-04-07, 18:32:16](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos) - [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
 * [2025-04-07, 16:35:29](https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful) - [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/)
-* [2025-04-07, 13:02:14](https://lobste.rs/s/jooshq/writing_c_for_curl) - [Writing C for curl](https://daniel.haxx.se/blog/2025/04/07/writing-c-for-curl/)
 * [2025-04-07, 12:14:16](https://lobste.rs/s/s3ize0/best_programmers_i_know) - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
 * [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
 
