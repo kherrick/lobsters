@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-09, 13:47:22](https://lobste.rs/s/fwohal/man_pages_are_great_man_readers_are) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
-* [2025-04-09, 12:52:19](https://lobste.rs/s/jho3qh/maintenance_notice_whisky) - [Maintenance Notice - Whisky Documentation](https://docs.getwhisky.app/maintenance-notice)
 * [2025-04-09, 11:53:55](https://lobste.rs/s/hnnrdn/facet_rust_reflection_serialization) - [facet: Rust reflection, serialization, deserialization — know the shape of your types](https://github.com/facet-rs/facet)
 * [2025-04-09, 09:50:24](https://lobste.rs/s/xsfexz/how_netflix_accurately_attributes_ebpf) - [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
 * [2025-04-09, 09:32:58](https://lobste.rs/s/hw8zvr/hardening_firefox_frontend_with_content) - [Hardening the Firefox Frontend with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
@@ -17,6 +16,7 @@
 * [2025-04-09, 00:41:51](https://lobste.rs/s/nbajcl/barium_experiment) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
 * [2025-04-08, 20:56:07](https://lobste.rs/s/etlc6s/story_behind_100_go_mistakes_how_avoid) - [The Story Behind 100 Go Mistakes and How to Avoid Them](https://www.thecoder.cafe/p/100-go-mistakes)
 * [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
+* [2025-04-08, 19:30:51](https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998) - [The SRE regular-expression notation (1998)](https://www.khoury.northeastern.edu/~shivers/papers/sre.txt)
 * [2025-04-08, 19:22:33](https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into) - [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
 * [2025-04-08, 19:13:03](https://lobste.rs/s/ab6qap/obituary_for_cyc) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 15:18:32](https://lobste.rs/s/spjeuv/dreckly_pkgsrc_fork_focused_on_quality) - [dreckly: pkgsrc fork focused on quality and portability to all UNIX-like platforms](https://github.com/drecklypkg/dreckly)
