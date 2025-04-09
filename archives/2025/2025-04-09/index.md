@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 12:06:41](https://lobste.rs/s/bcdwwa/how_sync_anything) - [How to Sync Anything](https://neighbourhood.ie/blog/2025/04/06/how-to-sync-anything)
+* [2025-04-09, 11:53:55](https://lobste.rs/s/hnnrdn/facet_rust_reflection_serialization) - [facet: Rust reflection, serialization, deserialization — know the shape of your types](https://github.com/facet-rs/facet)
 * [2025-04-09, 11:49:58](https://lobste.rs/s/yphejx/gsoc_2024_1001_thresholds_llvm) - [GSoC 2024: The 1001 thresholds in LLVM](https://blog.llvm.org/posts/2024-08-31-the-1001-thresholds-in-llvm/)
 * [2025-04-09, 09:50:24](https://lobste.rs/s/xsfexz/how_netflix_accurately_attributes_ebpf) - [How Netflix Accurately Attributes eBPF Flow Logs](https://netflixtechblog.com/how-netflix-accurately-attributes-ebpf-flow-logs-afe6d644a3bc)
 * [2025-04-09, 09:32:58](https://lobste.rs/s/hw8zvr/hardening_firefox_frontend_with_content) - [Hardening the Firefox Frontend with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
