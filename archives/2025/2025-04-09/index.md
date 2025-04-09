@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 09:32:58](https://lobste.rs/s/hw8zvr/hardening_firefox_frontend_with_content) - [Hardening the Firefox Frontend with Content Security Policies](https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html)
+* [2025-04-09, 09:32:29](https://lobste.rs/s/gttids/eurisko_computer_with_mind_its_own_george) - [Eurisko, the Computer with a Mind of its Own - George Johnson](https://aliciapatterson.org/george-johnson/eurisko-the-computer-with-a-mind-of-its-own/)
+* [2025-04-09, 09:26:47](https://lobste.rs/s/p7xsfx/is_not_writing_tests_unprofessional_2019) - [Is not writing tests unprofessional? (2019)](https://matthiasnoback.nl/2019/09/is-not-writing-tests-unprofessional/)
 * [2025-04-09, 09:16:48](https://lobste.rs/s/tppp5b/openssh_10_0_released) - [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
 * [2025-04-09, 07:50:53](https://lobste.rs/s/8w5blq/order_files_your_ext4_filesystem_does_not) - [the order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
 * [2025-04-09, 07:50:28](https://lobste.rs/s/3jhrkf/decomposing_factorial_300k_as_product) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
