@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-04-09, 12:52:19",
-      "https://lobste.rs/s/jho3qh/maintenance_notice_whisky"
-    ],
-    [
-      "Maintenance Notice - Whisky Documentation",
-      "https://docs.getwhisky.app/maintenance-notice"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 11:53:55",
       "https://lobste.rs/s/hnnrdn/facet_rust_reflection_serialization"
     ],
@@ -167,6 +157,16 @@
     [
       "shorty: a C++ library for concise lambdas",
       "https://github.com/hanickadot/shorty"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 19:30:51",
+      "https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998"
+    ],
+    [
+      "The SRE regular-expression notation (1998)",
+      "https://www.khoury.northeastern.edu/~shivers/papers/sre.txt"
     ]
   ],
   [
