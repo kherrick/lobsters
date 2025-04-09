@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 20:46:24](https://lobste.rs/s/0zrxau/how_prime_video_cut_ui_latency_7_6x_by) - [How Prime Video Cut UI Latency 7.6x by Switching to Rust](https://analyticsindiamag.com/global-tech/how-prime-video-cut-ui-latency-7-6x-by-switching-to-rust/)
 * [2025-04-09, 17:59:10](https://lobste.rs/s/nbcmxy/what_if_poison_were_rust) - [what if the poison were rust?](https://flak.tedunangst.com/post/what-if-the-poison-were-rust)
 * [2025-04-09, 16:27:54](https://lobste.rs/s/sz8hhb/what_are_promotional_websites_not_doc) - [What are \"promotional\" websites (not doc sites) that as a developer/SW eng you find useful/descriptive of a technology you use or consider using?](https://lobste.rs/s/sz8hhb/what_are_promotional_websites_not_doc)
 * [2025-04-09, 15:49:26](https://lobste.rs/s/5nedly/doing_prospero_challenge_rpython) - [Doing the Prospero-Challenge in RPython](https://www.pypy.org/posts/2025/04/prospero-in-rpython.html)
