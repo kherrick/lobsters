@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-09, 13:47:22",
+      "https://lobste.rs/s/fwohal/man_pages_are_great_man_readers_are"
+    ],
+    [
+      "Man pages are great, man readers are the problem",
+      "https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 12:52:19",
       "https://lobste.rs/s/jho3qh/maintenance_notice_whisky"
     ],
@@ -157,16 +167,6 @@
     [
       "shorty: a C++ library for concise lambdas",
       "https://github.com/hanickadot/shorty"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 19:30:51",
-      "https://lobste.rs/s/bn0m18/sre_regular_expression_notation_1998"
-    ],
-    [
-      "The SRE regular-expression notation (1998)",
-      "https://www.khoury.northeastern.edu/~shivers/papers/sre.txt"
     ]
   ],
   [
