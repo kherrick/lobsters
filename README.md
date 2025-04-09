@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-09, 07:50:53](https://lobste.rs/s/8w5blq/order_files_your_ext4_filesystem_does_not) - [the order of files in your ext4 filesystem does not matter](https://thewisenerd.com/blog/ext4-readdir/)
+* [2025-04-09, 07:50:28](https://lobste.rs/s/3jhrkf/decomposing_factorial_300k_as_product) - [Decomposing factorial of 300K as the product of 300K factors larger than 100K](http://gus-massa.blogspot.com/2025/04/decomposing-factorial-of-300k-as.html)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-09, 07:15:00](https://lobste.rs/s/fe9byf/how_does_c_code_become_assembly) - [How Does C Code Become Assembly](https://www.xta0.me/2021/07/13/MIT-6172-5.html)
 * [2025-04-09, 06:29:42](https://lobste.rs/s/kfgi6e/linux_6_15_features_deliver_lot_for_intel) - [Linux 6.15 Features Deliver A Lot For Intel & AMD, Many Other Changes](https://www.phoronix.com/review/linux-615-features)
@@ -22,9 +24,7 @@
 * [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-08, 01:31:54](https://lobste.rs/s/f6wcbv/are_freebsd_jails_containers) - [Are FreeBSD Jails a Containers?](https://vermaden.wordpress.com/2025/04/08/are-freebsd-jails-containers/)
 * [2025-04-07, 19:08:26](https://lobste.rs/s/3dv6ix/thinking_like_compiler_places_values) - [Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/)
-* [2025-04-07, 16:35:29](https://lobste.rs/s/gvjneu/20_years_git_still_weird_still_wonderful) - [20 years of Git. Still weird, still wonderful](https://blog.gitbutler.com/20-years-of-git/)
 * [2025-04-07, 12:14:16](https://lobste.rs/s/s3ize0/best_programmers_i_know) - [The Best Programmers I Know](https://endler.dev/2025/best-programmers/)
-* [2025-04-07, 01:07:45](https://lobste.rs/s/qorexc/more_contrast_please) - [More Contrast, Please](https://susam.net/more-contrast-please.html)
 
 ## [Archives](archives/index.md)
 
