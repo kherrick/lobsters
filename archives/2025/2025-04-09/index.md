@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 06:29:42](https://lobste.rs/s/kfgi6e/linux_6_15_features_deliver_lot_for_intel) - [Linux 6.15 Features Deliver A Lot For Intel & AMD, Many Other Changes](https://www.phoronix.com/review/linux-615-features)
 * [2025-04-09, 04:04:12](https://lobste.rs/s/awta6y/coqoban_sokoban_coq) - [coqoban: Sokoban (in Coq)](https://github.com/rocq-community/coqoban)
 * [2025-04-09, 02:42:33](https://lobste.rs/s/6uabab/hardened_file_backup_routine) - [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/)
 * [2025-04-09, 01:16:22](https://lobste.rs/s/w65rcu/global_value_numbering_using_random) - [Global Value Numbering Using Random Interpretation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/6359.html)
