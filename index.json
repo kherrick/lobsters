@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-09, 01:16:22",
+      "https://lobste.rs/s/w65rcu/global_value_numbering_using_random"
+    ],
+    [
+      "Global Value Numbering Using Random Interpretation",
+      "https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/6359.html"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 00:41:51",
       "https://lobste.rs/s/nbajcl/barium_experiment"
     ],
     [
       "The Barium Experiment",
       "https://tomscii.sig7.se/2025/04/The-Barium-Experiment"
+    ]
+  ],
+  [
+    [
+      "2025-04-08, 20:56:07",
+      "https://lobste.rs/s/etlc6s/story_behind_100_go_mistakes_how_avoid"
+    ],
+    [
+      "The Story Behind 100 Go Mistakes and How to Avoid Them",
+      "https://www.thecoder.cafe/p/100-go-mistakes"
     ]
   ],
   [
@@ -137,26 +157,6 @@
     [
       "Parser Combinators Beat Regexes",
       "https://entropicthoughts.com/parser-combinators-beat-regexes"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 05:52:11",
-      "https://lobste.rs/s/zodmlk/zen_art_semiconductor_manufacturing"
-    ],
-    [
-      "Zen and The Art of Semiconductor Manufacturing",
-      "https://futuring.substack.com/p/zen-and-the-art-of-semiconductor"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 05:05:26",
-      "https://lobste.rs/s/qxssg8/this_month_redox_march_2025"
-    ],
-    [
-      "This Month in Redox - March 2025",
-      "https://www.redox-os.org/news/this-month-250331/"
     ]
   ],
   [
