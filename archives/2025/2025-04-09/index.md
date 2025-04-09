@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-09](index.md)
 
+* [2025-04-09, 14:02:05](https://lobste.rs/s/oa5hbz/llm_query_understanding_service) - [An LLM Query Understanding Service](https://softwaredoug.com/blog/2025/04/08/llm-query-understand)
 * [2025-04-09, 13:47:22](https://lobste.rs/s/fwohal/man_pages_are_great_man_readers_are) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 * [2025-04-09, 12:52:19](https://lobste.rs/s/jho3qh/maintenance_notice_whisky) - [Maintenance Notice - Whisky Documentation](https://docs.getwhisky.app/maintenance-notice)
 * [2025-04-09, 12:06:41](https://lobste.rs/s/bcdwwa/how_sync_anything) - [How to Sync Anything](https://neighbourhood.ie/blog/2025/04/06/how-to-sync-anything)
