@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-09, 23:25:30](https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway) - [Async from scratch 1: What's in a Future, anyway?](https://natkr.com/2025-04-10-async-from-scratch-1/)
 * [2025-04-09, 22:29:28](https://lobste.rs/s/9s6mep/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2025-04-09, 22:21:06](https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral) - [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
 * [2025-04-09, 21:37:32](https://lobste.rs/s/aoy99y/it_s_not_bad_they_told_me_coreboot) - [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
@@ -20,7 +21,6 @@
 * [2025-04-09, 09:16:48](https://lobste.rs/s/tppp5b/openssh_10_0_released) - [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 * [2025-04-09, 00:41:51](https://lobste.rs/s/nbajcl/barium_experiment) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
-* [2025-04-08, 20:17:56](https://lobste.rs/s/xqlrsl/shorty_c_library_for_concise_lambdas) - [shorty: a C++ library for concise lambdas](https://github.com/hanickadot/shorty)
 * [2025-04-08, 19:22:33](https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into) - [Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls](https://github.com/netbirdio/netbird)
 * [2025-04-08, 19:13:03](https://lobste.rs/s/ab6qap/obituary_for_cyc) - [Obituary for Cyc](https://yuxi-liu-wired.github.io/essays/posts/cyc/)
 * [2025-04-08, 15:08:28](https://lobste.rs/s/xap6ps/better_typography_with_text_wrap_pretty) - [Better typography with text-wrap pretty](https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/)
