@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-09, 04:04:12](https://lobste.rs/s/awta6y/coqoban_sokoban_coq) - [coqoban: Sokoban (in Coq)](https://github.com/rocq-community/coqoban)
 * [2025-04-09, 02:42:33](https://lobste.rs/s/6uabab/hardened_file_backup_routine) - [Hardened File Backup Routine](https://wrongthink.link/posts/hardened-backup-routine/)
 * [2025-04-09, 01:16:22](https://lobste.rs/s/w65rcu/global_value_numbering_using_random) - [Global Value Numbering Using Random Interpretation](https://www2.eecs.berkeley.edu/Pubs/TechRpts/2003/6359.html)
 * [2025-04-09, 00:41:51](https://lobste.rs/s/nbajcl/barium_experiment) - [The Barium Experiment](https://tomscii.sig7.se/2025/04/The-Barium-Experiment)
@@ -18,7 +19,6 @@
 * [2025-04-08, 11:23:01](https://lobste.rs/s/fwg7us/freedos_1_4_released) - [FreeDOS 1.4 released](https://freedos.org/download/announce.html)
 * [2025-04-08, 10:39:46](https://lobste.rs/s/8rb7wk/parser_combinators_beat_regexes) - [Parser Combinators Beat Regexes](https://entropicthoughts.com/parser-combinators-beat-regexes)
 * [2025-04-08, 01:31:54](https://lobste.rs/s/f6wcbv/are_freebsd_jails_containers) - [Are FreeBSD Jails a Containers?](https://vermaden.wordpress.com/2025/04/08/are-freebsd-jails-containers/)
-* [2025-04-07, 20:16:55](https://lobste.rs/s/gn8zx8/emacs_startup_time_doesn_t_matter) - [Emacs Startup Time Doesn’t Matter](https://batsov.com/articles/2025/04/07/emacs-startup-time-does-not-matter/)
 * [2025-04-07, 19:32:25](https://lobste.rs/s/ftth8q/lux_new_package_manager_for_lua) - [Lux - a new package manager for Lua](https://mrcjkb.dev/posts/2025-04-07-lux-announcement.html)
 * [2025-04-07, 19:08:26](https://lobste.rs/s/3dv6ix/thinking_like_compiler_places_values) - [Thinking like a compiler: places and values in Rust](https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/)
 * [2025-04-07, 18:32:16](https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos) - [rsync replaced with openrsync on macOS Sequoia](https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/)
