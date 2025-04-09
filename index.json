@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-09, 11:49:58",
-      "https://lobste.rs/s/yphejx/gsoc_2024_1001_thresholds_llvm"
+      "2025-04-09, 12:06:41",
+      "https://lobste.rs/s/bcdwwa/how_sync_anything"
     ],
     [
-      "GSoC 2024: The 1001 thresholds in LLVM",
-      "https://blog.llvm.org/posts/2024-08-31-the-1001-thresholds-in-llvm/"
+      "How to Sync Anything",
+      "https://neighbourhood.ie/blog/2025/04/06/how-to-sync-anything"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 11:53:55",
+      "https://lobste.rs/s/hnnrdn/facet_rust_reflection_serialization"
+    ],
+    [
+      "facet: Rust reflection, serialization, deserialization — know the shape of your types",
+      "https://github.com/facet-rs/facet"
     ]
   ],
   [
@@ -127,16 +137,6 @@
     [
       "The Barium Experiment",
       "https://tomscii.sig7.se/2025/04/The-Barium-Experiment"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 20:56:07",
-      "https://lobste.rs/s/etlc6s/story_behind_100_go_mistakes_how_avoid"
-    ],
-    [
-      "The Story Behind 100 Go Mistakes and How to Avoid Them",
-      "https://www.thecoder.cafe/p/100-go-mistakes"
     ]
   ],
   [
