@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-09, 06:29:42",
+      "https://lobste.rs/s/kfgi6e/linux_6_15_features_deliver_lot_for_intel"
+    ],
+    [
+      "Linux 6.15 Features Deliver A Lot For Intel & AMD, Many Other Changes",
+      "https://www.phoronix.com/review/linux-615-features"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 04:04:12",
       "https://lobste.rs/s/awta6y/coqoban_sokoban_coq"
     ],
@@ -207,16 +217,6 @@
     [
       "Thinking like a compiler: places and values in Rust",
       "https://steveklabnik.com/writing/thinking-like-a-compiler-places-and-values-in-rust/"
-    ]
-  ],
-  [
-    [
-      "2025-04-07, 18:32:16",
-      "https://lobste.rs/s/ibvpka/rsync_replaced_with_openrsync_on_macos"
-    ],
-    [
-      "rsync replaced with openrsync on macOS Sequoia",
-      "https://derflounder.wordpress.com/2025/04/06/rsync-replaced-with-openrsync-on-macos-sequoia/"
     ]
   ],
   [
