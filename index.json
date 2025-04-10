@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 10:47:37",
+      "https://lobste.rs/s/itljbj/lisp_programs_don_t_have_parentheses"
+    ],
+    [
+      "Lisp Programs Don't Have Parentheses",
+      "https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 08:30:30",
       "https://lobste.rs/s/qot3es/having_fun_with_scamming_crypto_job"
     ],
@@ -57,16 +67,6 @@
     [
       "Elliptical Python Programming",
       "https://susam.net/elliptical-python-programming.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 02:02:29",
-      "https://lobste.rs/s/dcobbf/adaptive_lossless_floating_point"
-    ],
-    [
-      "Adaptive Lossless Floating Point compression in Rust is faster than C++",
-      "https://spiral-one.vercel.app/post/alp-rust-is-faster-than-c"
     ]
   ],
   [
