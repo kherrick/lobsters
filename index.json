@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 05:43:05",
+      "https://lobste.rs/s/wmyspq/django_what_s_new_5_2"
+    ],
+    [
+      "Django: what’s new in 5.2",
+      "https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 02:50:46",
       "https://lobste.rs/s/xkhyef/rfc_3446_introduce_store_api_for_great"
     ],
@@ -21,22 +31,22 @@
   ],
   [
     [
+      "2025-04-09, 23:56:50",
+      "https://lobste.rs/s/ufkytf/purely_functional_sliding_window"
+    ],
+    [
+      "Purely Functional Sliding Window Aggregation Algorithm",
+      "https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 23:25:30",
       "https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway"
     ],
     [
       "Async from scratch 1: What's in a Future, anyway?",
       "https://natkr.com/2025-04-10-async-from-scratch-1/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 22:29:28",
-      "https://lobste.rs/s/9s6mep/why_is_snapshot_isolation_not_enough"
-    ],
-    [
-      "Why is Snapshot Isolation not enough?",
-      "http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html"
     ]
   ],
   [
@@ -217,16 +227,6 @@
     [
       "A surprising enum size optimization in the Rust compiler",
       "https://jpfennell.com/posts/enum-type-size/"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 19:13:03",
-      "https://lobste.rs/s/ab6qap/obituary_for_cyc"
-    ],
-    [
-      "Obituary for Cyc",
-      "https://yuxi-liu-wired.github.io/essays/posts/cyc/"
     ]
   ],
   [
