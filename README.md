@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-10, 21:48:50](https://lobste.rs/s/bblc5z/chiark_s_skip_skip_cross_up_grade_2022) - [chiark’s skip-skip-cross-up-grade (2022)](https://diziet.dreamwidth.org/11840.html)
 * [2025-04-10, 21:39:59](https://lobste.rs/s/r0m3fx/controlling_language_diffusion_models) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 * [2025-04-10, 21:32:28](https://lobste.rs/s/pemuc6/time_maps_visualizing_discrete_events) - [Time Maps: Visualizing Discrete Events for Data Analysis](https://districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales/)
 * [2025-04-10, 21:06:15](https://lobste.rs/s/nilais/my_own_private_binary_idiosyncratic) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
@@ -21,7 +22,6 @@
 * [2025-04-09, 23:25:30](https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway) - [Async from scratch 1: What's in a Future, anyway?](https://natkr.com/2025-04-10-async-from-scratch-1/)
 * [2025-04-09, 22:21:06](https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral) - [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
 * [2025-04-09, 21:37:32](https://lobste.rs/s/aoy99y/it_s_not_bad_they_told_me_coreboot) - [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
-* [2025-04-09, 20:46:24](https://lobste.rs/s/0zrxau/how_prime_video_cut_ui_latency_7_6x_by) - [How Prime Video Cut UI Latency 7.6x by Switching to Rust](https://analyticsindiamag.com/global-tech/how-prime-video-cut-ui-latency-7-6x-by-switching-to-rust/)
 * [2025-04-09, 13:47:22](https://lobste.rs/s/fwohal/man_pages_are_great_man_readers_are) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 * [2025-04-09, 11:53:55](https://lobste.rs/s/hnnrdn/facet_rust_reflection_serialization) - [facet: Rust reflection, serialization, deserialization — know the shape of your types](https://github.com/facet-rs/facet)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
