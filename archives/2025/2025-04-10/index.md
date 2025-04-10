@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 19:42:50](https://lobste.rs/s/2xa4gw/rfc_1855_netiquette_guidelines_1995) - [RFC 1855: Netiquette Guidelines (1995)](https://datatracker.ietf.org/doc/rfc1855/)
 * [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
 * [2025-04-10, 17:03:21](https://lobste.rs/s/m7g60v/introducing_dbix_class_resultset) - [Introducing DBIx::Class::ResultSet::PrettyPrint](https://peateasea.de/introducing-dbix-class-resultset-prettyprint/)
 * [2025-04-10, 16:42:39](https://lobste.rs/s/dewghl/downstreams) - [Downstreams](https://freebsdfoundation.org/our-work/journal/browser-based-edition/downstreams/)
