@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 21:39:59](https://lobste.rs/s/r0m3fx/controlling_language_diffusion_models) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 * [2025-04-10, 21:32:28](https://lobste.rs/s/pemuc6/time_maps_visualizing_discrete_events) - [Time Maps: Visualizing Discrete Events for Data Analysis](https://districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales/)
 * [2025-04-10, 21:06:15](https://lobste.rs/s/nilais/my_own_private_binary_idiosyncratic) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 20:07:52](https://lobste.rs/s/krav7o/cargo_mutants_zombie_inject_bugs_see_if) - [cargo-mutants: :zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)

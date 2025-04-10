@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-10, 21:39:59](https://lobste.rs/s/r0m3fx/controlling_language_diffusion_models) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 * [2025-04-10, 21:32:28](https://lobste.rs/s/pemuc6/time_maps_visualizing_discrete_events) - [Time Maps: Visualizing Discrete Events for Data Analysis](https://districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales/)
 * [2025-04-10, 21:06:15](https://lobste.rs/s/nilais/my_own_private_binary_idiosyncratic) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 20:07:52](https://lobste.rs/s/krav7o/cargo_mutants_zombie_inject_bugs_see_if) - [cargo-mutants: :zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
@@ -23,7 +24,6 @@
 * [2025-04-09, 20:46:24](https://lobste.rs/s/0zrxau/how_prime_video_cut_ui_latency_7_6x_by) - [How Prime Video Cut UI Latency 7.6x by Switching to Rust](https://analyticsindiamag.com/global-tech/how-prime-video-cut-ui-latency-7-6x-by-switching-to-rust/)
 * [2025-04-09, 13:47:22](https://lobste.rs/s/fwohal/man_pages_are_great_man_readers_are) - [Man pages are great, man readers are the problem](https://whynothugo.nl/journal/2025/04/09/man-pages-are-great-man-readers-are-the-problem/)
 * [2025-04-09, 11:53:55](https://lobste.rs/s/hnnrdn/facet_rust_reflection_serialization) - [facet: Rust reflection, serialization, deserialization — know the shape of your types](https://github.com/facet-rs/facet)
-* [2025-04-09, 09:16:48](https://lobste.rs/s/tppp5b/openssh_10_0_released) - [OpenSSH 10.0 released](https://www.openwall.com/lists/oss-security/2025/04/09/1)
 * [2025-04-09, 07:23:04](https://lobste.rs/s/w3jjb2/surprising_enum_size_optimization_rust) - [A surprising enum size optimization in the Rust compiler](https://jpfennell.com/posts/enum-type-size/)
 
 ## [Archives](archives/index.md)
