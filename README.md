@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
-* [2025-04-10, 16:18:45](https://lobste.rs/s/g5a0xz/two_decades_git_conversation_with) - [Two decades of Git: A conversation with creator Linus Torvalds](https://www.youtube.com/watch?v=sCr_gb8rdEI)
 * [2025-04-10, 15:51:35](https://lobste.rs/s/bnntrp/6_usability_improvements_gcc_15) - [6 usability improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
 * [2025-04-10, 14:56:44](https://lobste.rs/s/wvefir/s_mcp_stands_for_security) - [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-10, 14:16:36](https://lobste.rs/s/j10cbv/localhost_domains) - [.localhost domains](https://inclouds.space/localhost-domains)
@@ -16,6 +15,7 @@
 * [2025-04-10, 02:50:40](https://lobste.rs/s/8ckxrj/elliptical_python_programming) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-09, 23:56:50](https://lobste.rs/s/ufkytf/purely_functional_sliding_window) - [Purely Functional Sliding Window Aggregation Algorithm](https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html)
 * [2025-04-09, 23:25:30](https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway) - [Async from scratch 1: What's in a Future, anyway?](https://natkr.com/2025-04-10-async-from-scratch-1/)
+* [2025-04-09, 22:29:28](https://lobste.rs/s/9s6mep/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2025-04-09, 22:21:06](https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral) - [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
 * [2025-04-09, 21:37:32](https://lobste.rs/s/aoy99y/it_s_not_bad_they_told_me_coreboot) - [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
 * [2025-04-09, 21:36:46](https://lobste.rs/s/2ar8hu/visualizing_million_time_series_with) - [Visualizing a Million Time Series with the Density Line Chart](https://arxiv.org/pdf/1808.06019)
