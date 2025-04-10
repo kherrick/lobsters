@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-10, 02:02:29](https://lobste.rs/s/dcobbf/adaptive_lossless_floating_point) - [Adaptive Lossless Floating Point compression in Rust is faster than C++](https://spiral-one.vercel.app/post/alp-rust-is-faster-than-c)
+* [2025-04-10, 02:50:46](https://lobste.rs/s/xkhyef/rfc_3446_introduce_store_api_for_great) - [RFC 3446 - Introduce the Store API for great good](https://github.com/matthieu-m/rfcs/blob/store/text/3446-store.md)
+* [2025-04-10, 02:50:40](https://lobste.rs/s/8ckxrj/elliptical_python_programming) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-09, 23:25:30](https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway) - [Async from scratch 1: What's in a Future, anyway?](https://natkr.com/2025-04-10-async-from-scratch-1/)
-* [2025-04-09, 22:29:28](https://lobste.rs/s/9s6mep/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
 * [2025-04-09, 22:21:06](https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral) - [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
 * [2025-04-09, 21:37:32](https://lobste.rs/s/aoy99y/it_s_not_bad_they_told_me_coreboot) - [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
 * [2025-04-09, 21:36:46](https://lobste.rs/s/2ar8hu/visualizing_million_time_series_with) - [Visualizing a Million Time Series with the Density Line Chart](https://arxiv.org/pdf/1808.06019)
