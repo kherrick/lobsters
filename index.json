@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 21:39:59",
+      "https://lobste.rs/s/r0m3fx/controlling_language_diffusion_models"
+    ],
+    [
+      "Controlling Language and Diffusion Models by Transporting Activations",
+      "https://machinelearning.apple.com/research/transporting-activations"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 21:32:28",
       "https://lobste.rs/s/pemuc6/time_maps_visualizing_discrete_events"
     ],
@@ -227,16 +237,6 @@
     [
       "facet: Rust reflection, serialization, deserialization — know the shape of your types",
       "https://github.com/facet-rs/facet"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 09:16:48",
-      "https://lobste.rs/s/tppp5b/openssh_10_0_released"
-    ],
-    [
-      "OpenSSH 10.0 released",
-      "https://www.openwall.com/lists/oss-security/2025/04/09/1"
     ]
   ],
   [
