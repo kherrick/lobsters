@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-10](index.md)
+
+* [2025-04-10, 02:02:29](https://lobste.rs/s/dcobbf/adaptive_lossless_floating_point) - [Adaptive Lossless Floating Point compression in Rust is faster than C++](https://spiral-one.vercel.app/post/alp-rust-is-faster-than-c)
