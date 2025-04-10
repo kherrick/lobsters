@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 23:17:34](https://lobste.rs/s/dcu9yq/using_python_1_0_2022) - [Using Python 1.0 in 2022](https://youtube.com/watch?v=vhhAWd_NKBI)
 * [2025-04-10, 21:48:50](https://lobste.rs/s/bblc5z/chiark_s_skip_skip_cross_up_grade_2022) - [chiark’s skip-skip-cross-up-grade (2022)](https://diziet.dreamwidth.org/11840.html)
 * [2025-04-10, 21:39:59](https://lobste.rs/s/r0m3fx/controlling_language_diffusion_models) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
 * [2025-04-10, 21:32:28](https://lobste.rs/s/pemuc6/time_maps_visualizing_discrete_events) - [Time Maps: Visualizing Discrete Events for Data Analysis](https://districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales/)
