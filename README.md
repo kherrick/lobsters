@@ -1,12 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-10, 10:47:37](https://lobste.rs/s/itljbj/lisp_programs_don_t_have_parentheses) - [Lisp Programs Don't Have Parentheses](https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html)
 * [2025-04-10, 08:30:30](https://lobste.rs/s/qot3es/having_fun_with_scamming_crypto_job) - [Having Fun With a Scamming Crypto Job](https://nguyenhuythanh.com/posts/having-fun-with-a-scamming-crypto-job/)
 * [2025-04-10, 08:07:47](https://lobste.rs/s/33ksrz/happy_18th_birthday_cuda) - [Happy 18th Birthday CUDA](https://thechipletter.substack.com/p/happy-18th-birthday-cuda)
 * [2025-04-10, 06:23:27](https://lobste.rs/s/mc7ta1/y_combinator_explained_python) - [The Y Combinator Explained in Python](https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html)
 * [2025-04-10, 05:43:05](https://lobste.rs/s/wmyspq/django_what_s_new_5_2) - [Django: what’s new in 5.2](https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/)
 * [2025-04-10, 02:50:46](https://lobste.rs/s/xkhyef/rust_rfc_3446_introduce_store_api_for) - [Rust RFC 3446 - Introduce the Store API for great good](https://github.com/matthieu-m/rfcs/blob/store/text/3446-store.md)
 * [2025-04-10, 02:50:40](https://lobste.rs/s/8ckxrj/elliptical_python_programming) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
-* [2025-04-10, 02:02:29](https://lobste.rs/s/dcobbf/adaptive_lossless_floating_point) - [Adaptive Lossless Floating Point compression in Rust is faster than C++](https://spiral-one.vercel.app/post/alp-rust-is-faster-than-c)
 * [2025-04-09, 23:56:50](https://lobste.rs/s/ufkytf/purely_functional_sliding_window) - [Purely Functional Sliding Window Aggregation Algorithm](https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html)
 * [2025-04-09, 23:25:30](https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway) - [Async from scratch 1: What's in a Future, anyway?](https://natkr.com/2025-04-10-async-from-scratch-1/)
 * [2025-04-09, 22:29:28](https://lobste.rs/s/9s6mep/why_is_snapshot_isolation_not_enough) - [Why is Snapshot Isolation not enough?](http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html)
