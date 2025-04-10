@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 08:07:47](https://lobste.rs/s/33ksrz/happy_18th_birthday_cuda) - [Happy 18th Birthday CUDA](https://thechipletter.substack.com/p/happy-18th-birthday-cuda)
 * [2025-04-10, 06:23:46](https://lobste.rs/s/ifihs5/myst_graph_new_perspective_on_myst) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
 * [2025-04-10, 06:23:27](https://lobste.rs/s/mc7ta1/y_combinator_explained_python) - [The Y Combinator Explained in Python](https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html)
 * [2025-04-10, 05:43:05](https://lobste.rs/s/wmyspq/django_what_s_new_5_2) - [Django: what’s new in 5.2](https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/)

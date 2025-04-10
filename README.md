@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-10, 08:07:47](https://lobste.rs/s/33ksrz/happy_18th_birthday_cuda) - [Happy 18th Birthday CUDA](https://thechipletter.substack.com/p/happy-18th-birthday-cuda)
 * [2025-04-10, 06:23:46](https://lobste.rs/s/ifihs5/myst_graph_new_perspective_on_myst) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
-* [2025-04-10, 06:23:27](https://lobste.rs/s/mc7ta1/y_combinator_explained_python) - [The Y Combinator Explained in Python](https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html)
 * [2025-04-10, 02:50:46](https://lobste.rs/s/xkhyef/rust_rfc_3446_introduce_store_api_for) - [Rust RFC 3446 - Introduce the Store API for great good](https://github.com/matthieu-m/rfcs/blob/store/text/3446-store.md)
 * [2025-04-10, 02:50:40](https://lobste.rs/s/8ckxrj/elliptical_python_programming) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-09, 23:56:50](https://lobste.rs/s/ufkytf/purely_functional_sliding_window) - [Purely Functional Sliding Window Aggregation Algorithm](https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html)
