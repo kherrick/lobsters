@@ -41,16 +41,6 @@
   ],
   [
     [
-      "2025-04-10, 02:02:29",
-      "https://lobste.rs/s/dcobbf/adaptive_lossless_floating_point"
-    ],
-    [
-      "Adaptive Lossless Floating Point compression in Rust is faster than C++",
-      "https://spiral-one.vercel.app/post/alp-rust-is-faster-than-c"
-    ]
-  ],
-  [
-    [
       "2025-04-09, 23:56:50",
       "https://lobste.rs/s/ufkytf/purely_functional_sliding_window"
     ],
@@ -217,6 +207,16 @@
     [
       "Hardening the Firefox Frontend with Content Security Policies",
       "https://attackanddefense.dev/2025/04/09/hardening-the-firefox-frontend-with-content-security-policies.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 09:26:47",
+      "https://lobste.rs/s/p7xsfx/is_not_writing_tests_unprofessional_2019"
+    ],
+    [
+      "Is not writing tests unprofessional? (2019)",
+      "https://matthiasnoback.nl/2019/09/is-not-writing-tests-unprofessional/"
     ]
   ],
   [
