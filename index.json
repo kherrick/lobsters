@@ -11,16 +11,6 @@
   ],
   [
     [
-      "2025-04-10, 16:18:45",
-      "https://lobste.rs/s/g5a0xz/two_decades_git_conversation_with"
-    ],
-    [
-      "Two decades of Git: A conversation with creator Linus Torvalds",
-      "https://www.youtube.com/watch?v=sCr_gb8rdEI"
-    ]
-  ],
-  [
-    [
       "2025-04-10, 15:51:35",
       "https://lobste.rs/s/bnntrp/6_usability_improvements_gcc_15"
     ],
@@ -157,6 +147,16 @@
     [
       "Async from scratch 1: What's in a Future, anyway?",
       "https://natkr.com/2025-04-10-async-from-scratch-1/"
+    ]
+  ],
+  [
+    [
+      "2025-04-09, 22:29:28",
+      "https://lobste.rs/s/9s6mep/why_is_snapshot_isolation_not_enough"
+    ],
+    [
+      "Why is Snapshot Isolation not enough?",
+      "http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html"
     ]
   ],
   [
