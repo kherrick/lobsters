@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 12:11:25",
+      "https://lobste.rs/s/cmrgzh/btrees_inverted_indices_model_for_full"
+    ],
+    [
+      "BTrees, Inverted Indices, and a Model for Full Text Search",
+      "https://ohadravid.github.io/posts/2025-04-08-btrees-and-mental-models/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 10:47:37",
       "https://lobste.rs/s/itljbj/lisp_programs_don_t_have_parentheses"
     ],
@@ -31,12 +41,12 @@
   ],
   [
     [
-      "2025-04-10, 06:23:27",
-      "https://lobste.rs/s/mc7ta1/y_combinator_explained_python"
+      "2025-04-10, 06:23:46",
+      "https://lobste.rs/s/ifihs5/myst_graph_new_perspective_on_myst"
     ],
     [
-      "The Y Combinator Explained in Python",
-      "https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html"
+      "The Myst Graph: A New Perspective on Myst",
+      "https://glthr.com/myst-graph-1"
     ]
   ],
   [
@@ -77,16 +87,6 @@
     [
       "Purely Functional Sliding Window Aggregation Algorithm",
       "https://byorgey.github.io/blog/posts/2024/11/27/stacks-queues.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 23:25:30",
-      "https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway"
-    ],
-    [
-      "Async from scratch 1: What's in a Future, anyway?",
-      "https://natkr.com/2025-04-10-async-from-scratch-1/"
     ]
   ],
   [
