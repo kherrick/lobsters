@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-04-10, 05:43:05",
+      "https://lobste.rs/s/wmyspq/django_what_s_new_5_2"
+    ],
+    [
+      "Django: what’s new in 5.2",
+      "https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 02:50:46",
       "https://lobste.rs/s/xkhyef/rust_rfc_3446_introduce_store_api_for"
     ],
@@ -237,16 +247,6 @@
     [
       "A surprising enum size optimization in the Rust compiler",
       "https://jpfennell.com/posts/enum-type-size/"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 15:08:28",
-      "https://lobste.rs/s/xap6ps/better_typography_with_text_wrap_pretty"
-    ],
-    [
-      "Better typography with text-wrap pretty",
-      "https://webkit.org/blog/16547/better-typography-with-text-wrap-pretty/"
     ]
   ]
 ]
