@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-04-09, 22:29:28",
+      "https://lobste.rs/s/9s6mep/why_is_snapshot_isolation_not_enough"
+    ],
+    [
+      "Why is Snapshot Isolation not enough?",
+      "http://concurrencyfreaks.blogspot.com/2023/12/why-is-snapshot-isolation-not-enough.html"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 22:21:06",
       "https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral"
     ],
@@ -207,16 +217,6 @@
     [
       "A surprising enum size optimization in the Rust compiler",
       "https://jpfennell.com/posts/enum-type-size/"
-    ]
-  ],
-  [
-    [
-      "2025-04-08, 19:22:33",
-      "https://lobste.rs/s/tfeskt/netbird_connect_your_devices_into"
-    ],
-    [
-      "Netbird: connect your devices into a WireGuard overlay network with SSO, MFA and granular access controls",
-      "https://github.com/netbirdio/netbird"
     ]
   ],
   [
