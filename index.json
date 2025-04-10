@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 02:02:29",
+      "https://lobste.rs/s/dcobbf/adaptive_lossless_floating_point"
+    ],
+    [
+      "Adaptive Lossless Floating Point compression in Rust is faster than C++",
+      "https://spiral-one.vercel.app/post/alp-rust-is-faster-than-c"
+    ]
+  ],
+  [
+    [
       "2025-04-09, 23:25:30",
       "https://lobste.rs/s/zqqvms/async_from_scratch_1_what_s_future_anyway"
     ],
@@ -197,16 +207,6 @@
     [
       "A surprising enum size optimization in the Rust compiler",
       "https://jpfennell.com/posts/enum-type-size/"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 00:41:51",
-      "https://lobste.rs/s/nbajcl/barium_experiment"
-    ],
-    [
-      "The Barium Experiment",
-      "https://tomscii.sig7.se/2025/04/The-Barium-Experiment"
     ]
   ],
   [
