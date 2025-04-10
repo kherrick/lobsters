@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 20:07:52](https://lobste.rs/s/krav7o/cargo_mutants_zombie_inject_bugs_see_if) - [cargo-mutants: :zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 19:42:50](https://lobste.rs/s/2xa4gw/rfc_1855_netiquette_guidelines_1995) - [RFC 1855: Netiquette Guidelines (1995)](https://datatracker.ietf.org/doc/rfc1855/)
 * [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
 * [2025-04-10, 17:03:21](https://lobste.rs/s/m7g60v/introducing_dbix_class_resultset) - [Introducing DBIx::Class::ResultSet::PrettyPrint](https://peateasea.de/introducing-dbix-class-resultset-prettyprint/)
