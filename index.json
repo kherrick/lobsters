@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-10, 15:51:35",
+      "https://lobste.rs/s/bnntrp/6_usability_improvements_gcc_15"
+    ],
+    [
+      "6 usability improvements in GCC 15",
+      "https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 14:56:44",
       "https://lobste.rs/s/wvefir/s_mcp_stands_for_security"
     ],
@@ -187,16 +197,6 @@
     [
       "what if the poison were rust?",
       "https://flak.tedunangst.com/post/what-if-the-poison-were-rust"
-    ]
-  ],
-  [
-    [
-      "2025-04-09, 15:20:17",
-      "https://lobste.rs/s/rsea1s/koreo_platform_engineering_toolkit_for"
-    ],
-    [
-      "Koreo: The platform engineering toolkit for Kubernetes",
-      "https://koreo.dev"
     ]
   ],
   [
