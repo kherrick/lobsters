@@ -4,8 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-10](index.md)
 
+* [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
 * [2025-04-10, 17:03:21](https://lobste.rs/s/m7g60v/introducing_dbix_class_resultset) - [Introducing DBIx::Class::ResultSet::PrettyPrint](https://peateasea.de/introducing-dbix-class-resultset-prettyprint/)
 * [2025-04-10, 16:42:39](https://lobste.rs/s/dewghl/downstreams) - [Downstreams](https://freebsdfoundation.org/our-work/journal/browser-based-edition/downstreams/)
+* [2025-04-10, 16:18:45](https://lobste.rs/s/g5a0xz/two_decades_git_conversation_with) - [Two decades of Git: A conversation with creator Linus Torvalds](https://www.youtube.com/watch?v=sCr_gb8rdEI)
 * [2025-04-10, 15:51:35](https://lobste.rs/s/bnntrp/6_usability_improvements_gcc_15) - [6 usability improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
 * [2025-04-10, 14:56:44](https://lobste.rs/s/wvefir/s_mcp_stands_for_security) - [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-10, 14:16:36](https://lobste.rs/s/j10cbv/localhost_domains) - [.localhost domains](https://inclouds.space/localhost-domains)
