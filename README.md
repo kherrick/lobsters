@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-11, 05:15:12](https://lobste.rs/s/ncli2u/low_cost_high_speed_data_acquisition_over) - [Low cost, high speed data acquisition over HDMI](https://media.ccc.de/v/osmodevcon2024-200-low-cost-high-speed-data-acquisition-over-hdmi#t=1915)
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 00:09:13](https://lobste.rs/s/hphsgm/freebsd_jails_security_versus_podman) - [FreeBSD Jails Security (versus Podman)](https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/)
 * [2025-04-10, 23:17:34](https://lobste.rs/s/dcu9yq/using_python_1_0_2022) - [Using Python 1.0 in 2022](https://youtube.com/watch?v=vhhAWd_NKBI)
@@ -7,7 +8,6 @@
 * [2025-04-10, 21:32:28](https://lobste.rs/s/pemuc6/time_maps_visualizing_discrete_events) - [Time Maps: Visualizing Discrete Events for Data Analysis](https://districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales/)
 * [2025-04-10, 21:06:15](https://lobste.rs/s/nilais/my_own_private_binary_idiosyncratic) - [My Own Private Binary: An Idiosyncratic Introduction to Linux Kernel Modules](https://www.muppetlabs.com/~breadbox/txt/mopb.html)
 * [2025-04-10, 20:07:52](https://lobste.rs/s/krav7o/cargo_mutants_zombie_inject_bugs_see_if) - [cargo-mutants: :zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
-* [2025-04-10, 19:42:50](https://lobste.rs/s/2xa4gw/rfc_1855_netiquette_guidelines_1995) - [RFC 1855: Netiquette Guidelines (1995)](https://datatracker.ietf.org/doc/rfc1855/)
 * [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
 * [2025-04-10, 15:51:35](https://lobste.rs/s/bnntrp/6_usability_improvements_gcc_15) - [6 usability improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
 * [2025-04-10, 14:56:44](https://lobste.rs/s/wvefir/s_mcp_stands_for_security) - [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
