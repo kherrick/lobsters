@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
 * [2025-04-11, 09:28:22](https://lobste.rs/s/seuxei/12_factor_agents_principles_build_llm) - [12-factor-agents: Principles to build LLM-powered software good enough to put in the hands of production customers?](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-11, 07:47:18](https://lobste.rs/s/ciiwfy/with_carrots_sticks_can_browser_handle) - [With Carrots & Sticks - Can the browser handle web security?](https://frederikbraun.de/madweb-keynote-2025.html)
 * [2025-04-11, 06:48:29](https://lobste.rs/s/5zk21i/usb_c_its_overengineered_history) - [Usb-C and its overengineered history](https://www.youtube.com/watch?v=yqL-MEQ9HQ8)
