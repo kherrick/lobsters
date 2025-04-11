@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-11, 21:15:54",
+      "https://lobste.rs/s/ciomx5/bilinear_interpolation_on"
+    ],
+    [
+      "Bilinear interpolation on a quadrilateral using Barycentric coordinates",
+      "https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/"
+    ]
+  ],
+  [
+    [
+      "2025-04-11, 21:12:58",
+      "https://lobste.rs/s/j4ljoz/how_git_cherry_pick_revert_use_3_way_merge"
+    ],
+    [
+      "How git cherry-pick and revert use 3-way merge",
+      "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/"
+    ]
+  ],
+  [
+    [
       "2025-04-11, 20:02:49",
       "https://lobste.rs/s/fzfi8d/golang_sync_pool_is_not_silver_bullet"
     ],
@@ -47,16 +67,6 @@
     [
       "Erlang’s not about lightweight processes and message passing…",
       "https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 15:45:25",
-      "https://lobste.rs/s/eae7p2/quadrable_authenticated_multi_version"
-    ],
-    [
-      "quadrable: Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs",
-      "https://github.com/hoytech/quadrable"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "The YAML Exponent Problem causing chaos in your config files",
       "https://www.brautaset.org/posts/yaml-exponent-problem.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 14:56:44",
-      "https://lobste.rs/s/wvefir/s_mcp_stands_for_security"
-    ],
-    [
-      "The “S” in MCP Stands for Security",
-      "https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b"
     ]
   ],
   [
