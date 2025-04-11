@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-11, 09:28:22",
+      "https://lobste.rs/s/seuxei/12_factor_agents_principles_build_llm"
+    ],
+    [
+      "12-factor-agents: Principles to build LLM-powered software good enough to put in the hands of production customers?",
+      "https://github.com/humanlayer/12-factor-agents"
+    ]
+  ],
+  [
+    [
       "2025-04-11, 07:47:18",
       "https://lobste.rs/s/ciiwfy/with_carrots_sticks_can_browser_handle"
     ],
@@ -177,16 +187,6 @@
     [
       "The Myst Graph: A New Perspective on Myst",
       "https://glthr.com/myst-graph-1"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 06:23:27",
-      "https://lobste.rs/s/mc7ta1/y_combinator_explained_python"
-    ],
-    [
-      "The Y Combinator Explained in Python",
-      "https://lptk.github.io/programming/2019/10/15/simple-essence-y-combinator.html"
     ]
   ],
   [
