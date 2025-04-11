@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 23:19:40](https://lobste.rs/s/ngj3qn/past_present_future_programming) - [The Past, Present & Future of Programming Languages](https://www.youtube.com/watch?v=0y7IFUYUTgg)
 * [2025-04-11, 22:15:53](https://lobste.rs/s/fa15vx/camel_offers_promising_new_direction_for) - [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/)
 * [2025-04-11, 21:15:54](https://lobste.rs/s/ciomx5/bilinear_interpolation_on) - [Bilinear interpolation on a quadrilateral using Barycentric coordinates](https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/)
 * [2025-04-11, 21:12:58](https://lobste.rs/s/j4ljoz/how_git_cherry_pick_revert_use_3_way_merge) - [How git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
