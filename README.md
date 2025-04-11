@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-11, 15:41:28](https://lobste.rs/s/dkdm7m/fedora_change_aims_for_99_package) - [Fedora change aims for 99% package reproducibility [LWN.net]](https://lwn.net/Articles/1014979/)
 * [2025-04-11, 15:31:15](https://lobste.rs/s/c92tqx/simulating_some_queues) - [Simulating Some Queues](https://concerningquality.com/queue-simulations/)
 * [2025-04-11, 15:30:10](https://lobste.rs/s/l5bstc/sql_pie_chart_2009) - [SQL pie chart (2009)](https://code.openark.org/blog/mysql/sql-pie-chart)
 * [2025-04-11, 15:20:34](https://lobste.rs/s/5r1jwc/real_time_visualisation_london) - [Real-time visualisation of London Underground Trains](https://www.londonunderground.live/)
@@ -14,7 +15,6 @@
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 00:09:13](https://lobste.rs/s/hphsgm/freebsd_jails_security_versus_podman) - [FreeBSD Jails Security (versus Podman)](https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/)
 * [2025-04-10, 21:48:50](https://lobste.rs/s/bblc5z/chiark_s_skip_skip_cross_up_grade_2022) - [chiark’s skip-skip-cross-up-grade (2022)](https://diziet.dreamwidth.org/11840.html)
-* [2025-04-10, 21:32:28](https://lobste.rs/s/pemuc6/time_maps_visualizing_discrete_events) - [Time Maps: Visualizing Discrete Events for Data Analysis](https://districtdatalabs.com/time-maps-visualizing-discrete-events-across-many-timescales/)
 * [2025-04-10, 20:07:52](https://lobste.rs/s/krav7o/cargo_mutants_zombie_inject_bugs_see_if) - [cargo-mutants: :zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
 * [2025-04-10, 15:51:35](https://lobste.rs/s/bnntrp/6_usability_improvements_gcc_15) - [6 usability improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)

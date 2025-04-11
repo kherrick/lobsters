@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 15:41:28](https://lobste.rs/s/dkdm7m/fedora_change_aims_for_99_package) - [Fedora change aims for 99% package reproducibility [LWN.net]](https://lwn.net/Articles/1014979/)
 * [2025-04-11, 15:31:15](https://lobste.rs/s/c92tqx/simulating_some_queues) - [Simulating Some Queues](https://concerningquality.com/queue-simulations/)
 * [2025-04-11, 15:30:10](https://lobste.rs/s/l5bstc/sql_pie_chart_2009) - [SQL pie chart (2009)](https://code.openark.org/blog/mysql/sql-pie-chart)
 * [2025-04-11, 15:20:34](https://lobste.rs/s/5r1jwc/real_time_visualisation_london) - [Real-time visualisation of London Underground Trains](https://www.londonunderground.live/)
