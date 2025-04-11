@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-11, 00:09:13",
+      "https://lobste.rs/s/hphsgm/freebsd_jails_security_versus_podman"
+    ],
+    [
+      "FreeBSD Jails Security (versus Podman)",
+      "https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/"
+    ]
+  ],
+  [
+    [
       "2025-04-10, 23:17:34",
       "https://lobste.rs/s/dcu9yq/using_python_1_0_2022"
     ],
@@ -77,16 +87,6 @@
     [
       "The YAML Exponent Problem causing chaos in your config files",
       "https://www.brautaset.org/posts/yaml-exponent-problem.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-10, 17:03:21",
-      "https://lobste.rs/s/m7g60v/introducing_dbix_class_resultset"
-    ],
-    [
-      "Introducing DBIx::Class::ResultSet::PrettyPrint",
-      "https://peateasea.de/introducing-dbix-class-resultset-prettyprint/"
     ]
   ],
   [
