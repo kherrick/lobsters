@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 15:31:15](https://lobste.rs/s/c92tqx/simulating_some_queues) - [Simulating Some Queues](https://concerningquality.com/queue-simulations/)
+* [2025-04-11, 15:30:10](https://lobste.rs/s/l5bstc/sql_pie_chart_2009) - [SQL pie chart (2009)](https://code.openark.org/blog/mysql/sql-pie-chart)
+* [2025-04-11, 15:20:34](https://lobste.rs/s/5r1jwc/real_time_visualisation_london) - [Real-time visualisation of London Underground Trains](https://www.londonunderground.live/)
 * [2025-04-11, 14:21:12](https://lobste.rs/s/nvlicb/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2025](https://www.haiku-os.org/blog/waddlesplash/2025-04-10-haiku_activity_contract_report_march_2025/)
 * [2025-04-11, 14:16:51](https://lobste.rs/s/rvdd0j/why_do_ai_company_logos_look_like) - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
