@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-11, 15:49:31](https://lobste.rs/s/4fee7y/erlang_s_not_about_lightweight_processes) - [Erlang’s not about lightweight processes and message passing…](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
+* [2025-04-11, 15:45:25](https://lobste.rs/s/eae7p2/quadrable_authenticated_multi_version) - [quadrable: Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs](https://github.com/hoytech/quadrable)
 * [2025-04-11, 15:41:28](https://lobste.rs/s/dkdm7m/fedora_change_aims_for_99_package) - [Fedora change aims for 99% package reproducibility [LWN.net]](https://lwn.net/Articles/1014979/)
 * [2025-04-11, 15:31:15](https://lobste.rs/s/c92tqx/simulating_some_queues) - [Simulating Some Queues](https://concerningquality.com/queue-simulations/)
 * [2025-04-11, 15:30:10](https://lobste.rs/s/l5bstc/sql_pie_chart_2009) - [SQL pie chart (2009)](https://code.openark.org/blog/mysql/sql-pie-chart)
@@ -23,8 +25,6 @@
 * [2025-04-10, 12:11:25](https://lobste.rs/s/cmrgzh/btrees_inverted_indices_model_for_full) - [BTrees, Inverted Indices, and a Model for Full Text Search](https://ohadravid.github.io/posts/2025-04-08-btrees-and-mental-models/)
 * [2025-04-10, 10:47:37](https://lobste.rs/s/itljbj/lisp_programs_don_t_have_parentheses) - [Lisp Programs Don't Have Parentheses](https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html)
 * [2025-04-10, 08:30:30](https://lobste.rs/s/qot3es/having_fun_with_scamming_crypto_job) - [Having Fun With a Scamming Crypto Job](https://nguyenhuythanh.com/posts/having-fun-with-a-scamming-crypto-job/)
-* [2025-04-10, 02:50:40](https://lobste.rs/s/8ckxrj/elliptical_python_programming) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
-* [2025-04-09, 21:37:32](https://lobste.rs/s/aoy99y/it_s_not_bad_they_told_me_coreboot) - [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
 
 ## [Archives](archives/index.md)
 
