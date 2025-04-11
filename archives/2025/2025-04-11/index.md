@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 20:02:49](https://lobste.rs/s/fzfi8d/golang_sync_pool_is_not_silver_bullet) - [Golang sync.Pool is not a silver bullet](https://wundergraph.com/blog/golang-sync-pool)
 * [2025-04-11, 19:47:08](https://lobste.rs/s/g1xfen/generative_ai_servo) - [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
 * [2025-04-11, 17:44:01](https://lobste.rs/s/md6dlh/maps_with_django_geodjango_pillow_gps) - [Maps with Django⁽³⁾: GeoDjango, Pillow & GPS](https://www.paulox.net/2025/04/11/maps-with-django-part-3-geodjango-pillow-and-gps/)
 * [2025-04-11, 15:54:03](https://lobste.rs/s/3knudd/wgpu_v25_0_0_released) - [wgpu v25.0.0 released](https://github.com/gfx-rs/wgpu/releases/tag/v25.0.0)
