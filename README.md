@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-11, 17:44:01](https://lobste.rs/s/md6dlh/maps_with_django_geodjango_pillow_gps) - [Maps with Django⁽³⁾: GeoDjango, Pillow & GPS](https://www.paulox.net/2025/04/11/maps-with-django-part-3-geodjango-pillow-and-gps/)
 * [2025-04-11, 15:54:03](https://lobste.rs/s/3knudd/wgpu_v25_0_0_released) - [wgpu v25.0.0 released](https://github.com/gfx-rs/wgpu/releases/tag/v25.0.0)
 * [2025-04-11, 15:49:31](https://lobste.rs/s/4fee7y/erlang_s_not_about_lightweight_processes) - [Erlang’s not about lightweight processes and message passing…](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:45:25](https://lobste.rs/s/eae7p2/quadrable_authenticated_multi_version) - [quadrable: Authenticated multi-version database: sparse binary merkle tree with compact partial-tree proofs](https://github.com/hoytech/quadrable)
@@ -22,7 +23,6 @@
 * [2025-04-10, 15:51:35](https://lobste.rs/s/bnntrp/6_usability_improvements_gcc_15) - [6 usability improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
 * [2025-04-10, 14:56:44](https://lobste.rs/s/wvefir/s_mcp_stands_for_security) - [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-10, 14:16:36](https://lobste.rs/s/j10cbv/localhost_domains) - [.localhost domains](https://inclouds.space/localhost-domains)
-* [2025-04-10, 12:11:25](https://lobste.rs/s/cmrgzh/btrees_inverted_indices_model_for_full) - [BTrees, Inverted Indices, and a Model for Full Text Search](https://ohadravid.github.io/posts/2025-04-08-btrees-and-mental-models/)
 * [2025-04-10, 10:47:37](https://lobste.rs/s/itljbj/lisp_programs_don_t_have_parentheses) - [Lisp Programs Don't Have Parentheses](https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html)
 * [2025-04-10, 08:30:30](https://lobste.rs/s/qot3es/having_fun_with_scamming_crypto_job) - [Having Fun With a Scamming Crypto Job](https://nguyenhuythanh.com/posts/having-fun-with-a-scamming-crypto-job/)
 
