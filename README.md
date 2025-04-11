@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-11, 00:09:13](https://lobste.rs/s/hphsgm/freebsd_jails_security_versus_podman) - [FreeBSD Jails Security (versus Podman)](https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/)
 * [2025-04-10, 23:17:34](https://lobste.rs/s/dcu9yq/using_python_1_0_2022) - [Using Python 1.0 in 2022](https://youtube.com/watch?v=vhhAWd_NKBI)
 * [2025-04-10, 21:48:50](https://lobste.rs/s/bblc5z/chiark_s_skip_skip_cross_up_grade_2022) - [chiark’s skip-skip-cross-up-grade (2022)](https://diziet.dreamwidth.org/11840.html)
 * [2025-04-10, 21:39:59](https://lobste.rs/s/r0m3fx/controlling_language_diffusion_models) - [Controlling Language and Diffusion Models by Transporting Activations](https://machinelearning.apple.com/research/transporting-activations)
@@ -8,7 +9,6 @@
 * [2025-04-10, 20:07:52](https://lobste.rs/s/krav7o/cargo_mutants_zombie_inject_bugs_see_if) - [cargo-mutants: :zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 19:42:50](https://lobste.rs/s/2xa4gw/rfc_1855_netiquette_guidelines_1995) - [RFC 1855: Netiquette Guidelines (1995)](https://datatracker.ietf.org/doc/rfc1855/)
 * [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
-* [2025-04-10, 17:03:21](https://lobste.rs/s/m7g60v/introducing_dbix_class_resultset) - [Introducing DBIx::Class::ResultSet::PrettyPrint](https://peateasea.de/introducing-dbix-class-resultset-prettyprint/)
 * [2025-04-10, 15:51:35](https://lobste.rs/s/bnntrp/6_usability_improvements_gcc_15) - [6 usability improvements in GCC 15](https://developers.redhat.com/articles/2025/04/10/6-usability-improvements-gcc-15)
 * [2025-04-10, 14:56:44](https://lobste.rs/s/wvefir/s_mcp_stands_for_security) - [The “S” in MCP Stands for Security](https://elenacross7.medium.com/%EF%B8%8F-the-s-in-mcp-stands-for-security-91407b33ed6b)
 * [2025-04-10, 14:16:36](https://lobste.rs/s/j10cbv/localhost_domains) - [.localhost domains](https://inclouds.space/localhost-domains)
