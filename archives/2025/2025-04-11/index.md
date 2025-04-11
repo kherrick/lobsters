@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-11](index.md)
 
+* [2025-04-11, 14:21:12](https://lobste.rs/s/nvlicb/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2025](https://www.haiku-os.org/blog/waddlesplash/2025-04-10-haiku_activity_contract_report_march_2025/)
+* [2025-04-11, 14:16:51](https://lobste.rs/s/rvdd0j/why_do_ai_company_logos_look_like) - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
 * [2025-04-11, 09:28:22](https://lobste.rs/s/seuxei/12_factor_agents_principles_build_llm) - [12-factor-agents: Principles to build LLM-powered software good enough to put in the hands of production customers?](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-11, 07:47:18](https://lobste.rs/s/ciiwfy/with_carrots_sticks_can_browser_handle) - [With Carrots & Sticks - Can the browser handle web security?](https://frederikbraun.de/madweb-keynote-2025.html)

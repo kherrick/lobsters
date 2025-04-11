@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-11, 14:21:12](https://lobste.rs/s/nvlicb/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2025](https://www.haiku-os.org/blog/waddlesplash/2025-04-10-haiku_activity_contract_report_march_2025/)
+* [2025-04-11, 14:16:51](https://lobste.rs/s/rvdd0j/why_do_ai_company_logos_look_like) - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
 * [2025-04-11, 09:28:22](https://lobste.rs/s/seuxei/12_factor_agents_principles_build_llm) - [12-factor-agents: Principles to build LLM-powered software good enough to put in the hands of production customers](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-11, 07:47:18](https://lobste.rs/s/ciiwfy/with_carrots_sticks_can_browser_handle) - [With Carrots & Sticks - Can the browser handle web security?](https://frederikbraun.de/madweb-keynote-2025.html)
@@ -19,8 +21,6 @@
 * [2025-04-10, 12:11:25](https://lobste.rs/s/cmrgzh/btrees_inverted_indices_model_for_full) - [BTrees, Inverted Indices, and a Model for Full Text Search](https://ohadravid.github.io/posts/2025-04-08-btrees-and-mental-models/)
 * [2025-04-10, 10:47:37](https://lobste.rs/s/itljbj/lisp_programs_don_t_have_parentheses) - [Lisp Programs Don't Have Parentheses](https://funcall.blogspot.com/2025/04/lisp-programs-dont-have-parentheses.html)
 * [2025-04-10, 08:30:30](https://lobste.rs/s/qot3es/having_fun_with_scamming_crypto_job) - [Having Fun With a Scamming Crypto Job](https://nguyenhuythanh.com/posts/having-fun-with-a-scamming-crypto-job/)
-* [2025-04-10, 06:23:46](https://lobste.rs/s/ifihs5/myst_graph_new_perspective_on_myst) - [The Myst Graph: A New Perspective on Myst](https://glthr.com/myst-graph-1)
-* [2025-04-10, 05:43:05](https://lobste.rs/s/wmyspq/django_what_s_new_5_2) - [Django: what’s new in 5.2](https://adamj.eu/tech/2025/04/07/django-whats-new-5.2/)
 * [2025-04-10, 02:50:40](https://lobste.rs/s/8ckxrj/elliptical_python_programming) - [Elliptical Python Programming](https://susam.net/elliptical-python-programming.html)
 * [2025-04-09, 22:21:06](https://lobste.rs/s/0trtbx/git_withme_peer_peer_encrypted_ephemeral) - [git-withme - Peer-to-peer, encrypted, ephemeral Git collaboration (git daemon with encryption)](https://git.sr.ht/~meejah/git-withme)
 * [2025-04-09, 21:37:32](https://lobste.rs/s/aoy99y/it_s_not_bad_they_told_me_coreboot) - [“It’s not that bad” they told me - Coreboot](https://lilysthings.org/blog/coreboot/)
