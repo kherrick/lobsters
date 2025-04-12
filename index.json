@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-12, 16:29:21",
+      "https://lobste.rs/s/mdmuib/performance_analysis_tuning_on_modern"
+    ],
+    [
+      "Performance Analysis and Tuning on Modern CPUs",
+      "https://github.com/dendibakh/perf-book"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 16:29:03",
+      "https://lobste.rs/s/xgbs35/holographic_masks"
+    ],
+    [
+      "Holographic Masks",
+      "https://codepen.io/HejChristian/full/YPzLbYX"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 15:52:04",
       "https://lobste.rs/s/p4k5m6/core_math_high_performance_open_source"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-04-11, 21:15:54",
-      "https://lobste.rs/s/ciomx5/bilinear_interpolation_on"
-    ],
-    [
-      "Bilinear interpolation on a quadrilateral using Barycentric coordinates",
-      "https://gpuopen.com/learn/bilinear-interpolation-quadrilateral-barycentric-coordinates/"
-    ]
-  ],
-  [
-    [
       "2025-04-11, 21:12:58",
       "https://lobste.rs/s/j4ljoz/how_git_cherry_pick_revert_use_3_way_merge"
     ],
@@ -227,16 +237,6 @@
     [
       "Fedora change aims for 99% package reproducibility",
       "https://lwn.net/Articles/1014979/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 09:55:14",
-      "https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend"
-    ],
-    [
-      "What are you doing this weekend?",
-      "https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend"
     ]
   ],
   [
