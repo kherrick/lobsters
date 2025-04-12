@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-12, 22:11:15](https://lobste.rs/s/tvgcda/natural_language_is_now_only_no_code_tool) - [Natural Language Is Now the Only No-Code Tool That Matters](https://www.xfaang.com/blog/Natural-Language-Is-Now-the-Only-No-Code-Tool-That-Matters/slvrJ005SjSnDqnIIfeVX)
 * [2025-04-12, 20:31:27](https://lobste.rs/s/apb8w3/cl_yasboi_yet_another_starter) - [cl-yasboi: Yet Another Starter Boilerplate for Common Lisp](https://github.com/sebastiancarlos/cl-yasboi)
 * [2025-04-12, 19:23:14](https://lobste.rs/s/ozmiau/creating_256_bytes_ram_simulation) - [Creating 256 Bytes of RAM (in a simulation)](https://www.youtube.com/watch?v=HGkuRp5HfH8)
 * [2025-04-12, 19:00:58](https://lobste.rs/s/pylbkw/zcs_entity_component_system_zig) - [ZCS — An Entity Component System in Zig](https://gamesbymason.com/blog/2025/zcs/)
@@ -19,7 +20,6 @@
 * [2025-04-12, 01:04:40](https://lobste.rs/s/ce1x4w/datastar_hypermedia_framework) - [Datastar - The hypermedia framework](https://data-star.dev/)
 * [2025-04-11, 22:15:53](https://lobste.rs/s/fa15vx/camel_offers_promising_new_direction_for) - [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/)
 * [2025-04-11, 21:12:58](https://lobste.rs/s/j4ljoz/how_git_cherry_pick_revert_use_3_way_merge) - [How git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
-* [2025-04-11, 20:02:49](https://lobste.rs/s/fzfi8d/golang_sync_pool_is_not_silver_bullet) - [Golang sync.Pool is not a silver bullet](https://wundergraph.com/blog/golang-sync-pool)
 * [2025-04-11, 19:47:08](https://lobste.rs/s/g1xfen/generative_ai_servo) - [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
 * [2025-04-11, 15:54:03](https://lobste.rs/s/3knudd/wgpu_v25_0_0_released) - [wgpu v25.0.0 released](https://github.com/gfx-rs/wgpu/releases/tag/v25.0.0)
 * [2025-04-11, 15:49:31](https://lobste.rs/s/4fee7y/erlang_s_not_about_lightweight_processes) - [Erlang’s not about lightweight processes and message passing…](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
