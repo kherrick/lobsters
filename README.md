@@ -14,6 +14,7 @@
 * [2025-04-11, 21:12:58](https://lobste.rs/s/j4ljoz/how_git_cherry_pick_revert_use_3_way_merge) - [How git cherry-pick and revert use 3-way merge](https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/)
 * [2025-04-11, 20:02:49](https://lobste.rs/s/fzfi8d/golang_sync_pool_is_not_silver_bullet) - [Golang sync.Pool is not a silver bullet](https://wundergraph.com/blog/golang-sync-pool)
 * [2025-04-11, 19:47:08](https://lobste.rs/s/g1xfen/generative_ai_servo) - [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
+* [2025-04-11, 17:44:01](https://lobste.rs/s/md6dlh/maps_with_django_geodjango_pillow_gps) - [Maps with Django⁽³⁾: GeoDjango, Pillow & GPS](https://www.paulox.net/2025/04/11/maps-with-django-part-3-geodjango-pillow-and-gps/)
 * [2025-04-11, 15:54:03](https://lobste.rs/s/3knudd/wgpu_v25_0_0_released) - [wgpu v25.0.0 released](https://github.com/gfx-rs/wgpu/releases/tag/v25.0.0)
 * [2025-04-11, 15:49:31](https://lobste.rs/s/4fee7y/erlang_s_not_about_lightweight_processes) - [Erlang’s not about lightweight processes and message passing…](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:41:28](https://lobste.rs/s/dkdm7m/fedora_change_aims_for_99_package) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
@@ -23,7 +24,6 @@
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
 * [2025-04-11, 06:48:29](https://lobste.rs/s/5zk21i/usb_c_its_overengineered_history) - [Usb-C and its overengineered history](https://www.youtube.com/watch?v=yqL-MEQ9HQ8)
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
-* [2025-04-11, 00:09:13](https://lobste.rs/s/hphsgm/freebsd_jails_security_versus_podman) - [FreeBSD Jails Security (versus Podman)](https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/)
 * [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
 
 ## [Archives](archives/index.md)
