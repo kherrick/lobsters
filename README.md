@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-12, 19:23:14](https://lobste.rs/s/ozmiau/creating_256_bytes_ram_simulation) - [Creating 256 Bytes of RAM (in a simulation)](https://www.youtube.com/watch?v=HGkuRp5HfH8)
 * [2025-04-12, 19:00:58](https://lobste.rs/s/pylbkw/zcs_entity_component_system_zig) - [ZCS — An Entity Component System in Zig](https://gamesbymason.com/blog/2025/zcs/)
 * [2025-04-12, 16:29:21](https://lobste.rs/s/mdmuib/performance_analysis_tuning_on_modern) - [Performance Analysis and Tuning on Modern CPUs](https://github.com/dendibakh/perf-book)
 * [2025-04-12, 16:29:03](https://lobste.rs/s/xgbs35/holographic_masks) - [Holographic Masks](https://codepen.io/HejChristian/full/YPzLbYX)
@@ -14,7 +15,6 @@
 * [2025-04-12, 10:17:34](https://lobste.rs/s/45xlaz/python_performance_why_if_not_list_is_2x) - [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
 * [2025-04-12, 09:48:26](https://lobste.rs/s/erkm24/5_levels_configuration_languages) - [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html)
 * [2025-04-12, 08:58:40](https://lobste.rs/s/ele5ij/shadertoys_ported_rust_gpu) - [Shadertoys ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys)
-* [2025-04-12, 06:09:48](https://lobste.rs/s/mexl5z/ascii_lookup_utility_ada) - [ASCII lookup utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
 * [2025-04-12, 04:18:04](https://lobste.rs/s/0ox9js/rust_c_compiler_95_9_test_pass_rate_odd) - [Rust to C compiler - 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 * [2025-04-12, 01:04:40](https://lobste.rs/s/ce1x4w/datastar_hypermedia_framework) - [Datastar - The hypermedia framework](https://data-star.dev/)
 * [2025-04-11, 22:15:53](https://lobste.rs/s/fa15vx/camel_offers_promising_new_direction_for) - [CaMeL offers a promising new direction for mitigating prompt injection attacks](https://simonwillison.net/2025/Apr/11/camel/)
