@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-12, 07:47:57",
+      "https://lobste.rs/s/wqqpnh/convert_protobuf_avro_json_kafka"
+    ],
+    [
+      "Convert Protobuf/Avro/JSON Kafka Messages to Apache Parquet with Tansu: A Step-by-Step Guide",
+      "https://blog.tansu.io/articles/parquet"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 06:09:48",
       "https://lobste.rs/s/mexl5z/ascii_lookup_utility_ada"
     ],
@@ -197,16 +207,6 @@
     [
       "Usb-C and its overengineered history",
       "https://www.youtube.com/watch?v=yqL-MEQ9HQ8"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 05:15:12",
-      "https://lobste.rs/s/ncli2u/low_cost_high_speed_data_acquisition_over"
-    ],
-    [
-      "Low cost, high speed data acquisition over HDMI",
-      "https://media.ccc.de/v/osmodevcon2024-200-low-cost-high-speed-data-acquisition-over-hdmi#t=1915"
     ]
   ],
   [
