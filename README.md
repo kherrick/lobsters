@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-12, 04:34:23](https://lobste.rs/s/dxvasx/tpchgen_rs_tpc_h_benchmark_data) - [tpchgen-rs: TPC-H benchmark data generation in pure Rust](https://github.com/clflushopt/tpchgen-rs)
 * [2025-04-12, 04:18:04](https://lobste.rs/s/0ox9js/rust_c_compiler_95_9_test_pass_rate_odd) - [Rust to C compiler - 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 * [2025-04-12, 01:04:40](https://lobste.rs/s/ce1x4w/datastar_hypermedia_framework) - [Datastar - The hypermedia framework](https://data-star.dev/)
 * [2025-04-11, 23:19:40](https://lobste.rs/s/ngj3qn/past_present_future_programming) - [The Past, Present & Future of Programming Languages](https://www.youtube.com/watch?v=0y7IFUYUTgg)
@@ -22,7 +23,6 @@
 * [2025-04-11, 05:15:12](https://lobste.rs/s/ncli2u/low_cost_high_speed_data_acquisition_over) - [Low cost, high speed data acquisition over HDMI](https://media.ccc.de/v/osmodevcon2024-200-low-cost-high-speed-data-acquisition-over-hdmi#t=1915)
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 00:09:13](https://lobste.rs/s/hphsgm/freebsd_jails_security_versus_podman) - [FreeBSD Jails Security (versus Podman)](https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/)
-* [2025-04-10, 20:07:52](https://lobste.rs/s/krav7o/cargo_mutants_zombie_inject_bugs_see_if) - [cargo-mutants: :zombie: Inject bugs and see if your tests catch them](https://github.com/sourcefrog/cargo-mutants)
 * [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
 * [2025-04-10, 14:16:36](https://lobste.rs/s/j10cbv/localhost_domains) - [.localhost domains](https://inclouds.space/localhost-domains)
 
