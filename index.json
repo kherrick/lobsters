@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-12, 22:11:15",
+      "https://lobste.rs/s/tvgcda/natural_language_is_now_only_no_code_tool"
+    ],
+    [
+      "Natural Language Is Now the Only No-Code Tool That Matters",
+      "https://www.xfaang.com/blog/Natural-Language-Is-Now-the-Only-No-Code-Tool-That-Matters/slvrJ005SjSnDqnIIfeVX"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 20:31:27",
       "https://lobste.rs/s/apb8w3/cl_yasboi_yet_another_starter"
     ],
@@ -187,16 +197,6 @@
     [
       "How git cherry-pick and revert use 3-way merge",
       "https://jvns.ca/blog/2023/11/10/how-cherry-pick-and-revert-work/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 20:02:49",
-      "https://lobste.rs/s/fzfi8d/golang_sync_pool_is_not_silver_bullet"
-    ],
-    [
-      "Golang sync.Pool is not a silver bullet",
-      "https://wundergraph.com/blog/golang-sync-pool"
     ]
   ],
   [
