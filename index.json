@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-12, 12:05:07",
+      "https://lobste.rs/s/xep8ix/some_features_every_javascript"
+    ],
+    [
+      "Some features that every JavaScript developer should know in 2025",
+      "https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 11:40:54",
       "https://lobste.rs/s/dni61w/bug_outlook_pst_password_protection_2006"
     ],
@@ -177,16 +187,6 @@
     [
       "Fedora change aims for 99% package reproducibility",
       "https://lwn.net/Articles/1014979/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 15:31:15",
-      "https://lobste.rs/s/c92tqx/simulating_some_queues"
-    ],
-    [
-      "Simulating Some Queues",
-      "https://concerningquality.com/queue-simulations/"
     ]
   ],
   [
