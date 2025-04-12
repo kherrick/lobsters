@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-12, 15:52:04](https://lobste.rs/s/p4k5m6/core_math_high_performance_open_source) - [CORE-MATH: high performance open-source mathematical functions with correct rounding](https://core-math.gitlabpages.inria.fr/)
 * [2025-04-12, 15:27:58](https://lobste.rs/s/3s214q/bps_is_gps_alternative_nobody_s_heard) - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
 * [2025-04-12, 15:06:03](https://lobste.rs/s/qveq0g/bootstrapping_understanding) - [Bootstrapping Understanding: An Introduction to Reverse Engineering](https://www.muppetlabs.com/~breadbox/txt/bure.html)
 * [2025-04-12, 13:57:54](https://lobste.rs/s/uetrpm/my_cloudflare_r2_has_been_blocked_from) - [My Cloudflare R2 has been blocked from LaLiga (Spain football league), is it even legal?](https://lobste.rs/s/uetrpm/my_cloudflare_r2_has_been_blocked_from)
@@ -24,7 +25,6 @@
 * [2025-04-11, 15:41:28](https://lobste.rs/s/dkdm7m/fedora_change_aims_for_99_package) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
-* [2025-04-10, 17:39:49](https://lobste.rs/s/m2oe0k/yaml_exponent_problem_causing_chaos_your) - [The YAML Exponent Problem causing chaos in your config files](https://www.brautaset.org/posts/yaml-exponent-problem.html)
 
 ## [Archives](archives/index.md)
 
