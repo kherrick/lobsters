@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-12, 09:48:26](https://lobste.rs/s/erkm24/5_levels_configuration_languages) - [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html)
 * [2025-04-12, 08:58:40](https://lobste.rs/s/ele5ij/shadertoys_ported_rust_gpu) - [Shadertoys ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys)
 * [2025-04-12, 07:47:57](https://lobste.rs/s/wqqpnh/convert_protobuf_avro_json_kafka) - [Convert Protobuf/Avro/JSON Kafka Messages to Apache Parquet with Tansu: A Step-by-Step Guide](https://blog.tansu.io/articles/parquet)
 * [2025-04-12, 06:09:48](https://lobste.rs/s/mexl5z/ascii_lookup_utility_ada) - [ASCII lookup utility in Ada](https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/)
@@ -19,7 +20,6 @@
 * [2025-04-11, 14:21:12](https://lobste.rs/s/nvlicb/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2025](https://www.haiku-os.org/blog/waddlesplash/2025-04-10-haiku_activity_contract_report_march_2025/)
 * [2025-04-11, 14:16:51](https://lobste.rs/s/rvdd0j/why_do_ai_company_logos_look_like) - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
-* [2025-04-11, 09:28:22](https://lobste.rs/s/seuxei/12_factor_agents_principles_build_llm) - [12-factor-agents: Principles to build LLM-powered software good enough to put in the hands of production customers](https://github.com/humanlayer/12-factor-agents)
 * [2025-04-11, 06:48:29](https://lobste.rs/s/5zk21i/usb_c_its_overengineered_history) - [Usb-C and its overengineered history](https://www.youtube.com/watch?v=yqL-MEQ9HQ8)
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
 * [2025-04-11, 00:09:13](https://lobste.rs/s/hphsgm/freebsd_jails_security_versus_podman) - [FreeBSD Jails Security (versus Podman)](https://vermaden.wordpress.com/2025/04/11/freebsd-jails-security/)
