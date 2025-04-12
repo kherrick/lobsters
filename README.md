@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-12, 15:06:03](https://lobste.rs/s/qveq0g/bootstrapping_understanding) - [Bootstrapping Understanding: An Introduction to Reverse Engineering](https://www.muppetlabs.com/~breadbox/txt/bure.html)
 * [2025-04-12, 13:57:54](https://lobste.rs/s/uetrpm/my_cloudflare_r2_has_been_blocked_from) - [My Cloudflare R2 has been blocked from LaLiga (Spain football league), is it even legal?](https://lobste.rs/s/uetrpm/my_cloudflare_r2_has_been_blocked_from)
 * [2025-04-12, 13:46:42](https://lobste.rs/s/xvydc9/awe_compiler_for_algol_w_programming) - [awe: A compiler for the Algol W programming language](https://github.com/glynawe/awe)
 * [2025-04-12, 12:53:49](https://lobste.rs/s/gfrmx1/slopsquatting_planting_malicious) - [Slopsquatting: Planting Malicious Packages Under Names AIs Will Hallucinate](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
@@ -20,7 +21,6 @@
 * [2025-04-11, 15:54:03](https://lobste.rs/s/3knudd/wgpu_v25_0_0_released) - [wgpu v25.0.0 released](https://github.com/gfx-rs/wgpu/releases/tag/v25.0.0)
 * [2025-04-11, 15:49:31](https://lobste.rs/s/4fee7y/erlang_s_not_about_lightweight_processes) - [Erlang’s not about lightweight processes and message passing…](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:41:28](https://lobste.rs/s/dkdm7m/fedora_change_aims_for_99_package) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
-* [2025-04-11, 14:21:12](https://lobste.rs/s/nvlicb/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2025](https://www.haiku-os.org/blog/waddlesplash/2025-04-10-haiku_activity_contract_report_march_2025/)
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
 * [2025-04-11, 06:48:29](https://lobste.rs/s/5zk21i/usb_c_its_overengineered_history) - [Usb-C and its overengineered history](https://www.youtube.com/watch?v=yqL-MEQ9HQ8)
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
