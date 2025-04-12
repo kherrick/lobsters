@@ -20,7 +20,7 @@
 * [2025-04-11, 15:54:03](https://lobste.rs/s/3knudd/wgpu_v25_0_0_released) - [wgpu v25.0.0 released](https://github.com/gfx-rs/wgpu/releases/tag/v25.0.0)
 * [2025-04-11, 15:49:31](https://lobste.rs/s/4fee7y/erlang_s_not_about_lightweight_processes) - [Erlang’s not about lightweight processes and message passing…](https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html)
 * [2025-04-11, 15:41:28](https://lobste.rs/s/dkdm7m/fedora_change_aims_for_99_package) - [Fedora change aims for 99% package reproducibility](https://lwn.net/Articles/1014979/)
-* [2025-04-11, 14:16:51](https://lobste.rs/s/rvdd0j/why_do_ai_company_logos_look_like) - [Why do AI company logos look like buttholes?](https://velvetshark.com/ai-company-logos-that-look-like-buttholes)
+* [2025-04-11, 14:21:12](https://lobste.rs/s/nvlicb/haiku_activity_contract_report_march) - [Haiku Activity & Contract Report, March 2025](https://www.haiku-os.org/blog/waddlesplash/2025-04-10-haiku_activity_contract_report_march_2025/)
 * [2025-04-11, 09:55:14](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend)
 * [2025-04-11, 06:48:29](https://lobste.rs/s/5zk21i/usb_c_its_overengineered_history) - [Usb-C and its overengineered history](https://www.youtube.com/watch?v=yqL-MEQ9HQ8)
 * [2025-04-11, 04:19:56](https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are) - [Default styles for h1 elements are changing](https://developer.mozilla.org/en-US/blog/h1-element-styles/)
