@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-12, 09:48:26",
+      "https://lobste.rs/s/erkm24/5_levels_configuration_languages"
+    ],
+    [
+      "The 5 Levels of Configuration Languages",
+      "https://beza1e1.tuxen.de/config_levels.html"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 08:58:40",
       "https://lobste.rs/s/ele5ij/shadertoys_ported_rust_gpu"
     ],
@@ -187,16 +197,6 @@
     [
       "What are you doing this weekend?",
       "https://lobste.rs/s/viyt8x/what_are_you_doing_this_weekend"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 09:28:22",
-      "https://lobste.rs/s/seuxei/12_factor_agents_principles_build_llm"
-    ],
-    [
-      "12-factor-agents: Principles to build LLM-powered software good enough to put in the hands of production customers",
-      "https://github.com/humanlayer/12-factor-agents"
     ]
   ],
   [
