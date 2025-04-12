@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-12, 19:23:14",
+      "https://lobste.rs/s/ozmiau/creating_256_bytes_ram_simulation"
+    ],
+    [
+      "Creating 256 Bytes of RAM (in a simulation)",
+      "https://www.youtube.com/watch?v=HGkuRp5HfH8"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 19:00:58",
       "https://lobste.rs/s/pylbkw/zcs_entity_component_system_zig"
     ],
@@ -137,16 +147,6 @@
     [
       "Shadertoys ported to Rust GPU",
       "https://rust-gpu.github.io/blog/2025/04/10/shadertoys"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 06:09:48",
-      "https://lobste.rs/s/mexl5z/ascii_lookup_utility_ada"
-    ],
-    [
-      "ASCII lookup utility in Ada",
-      "https://coniferproductions.com/ada/ohyes/ascii-lookup-utility/"
     ]
   ],
   [
