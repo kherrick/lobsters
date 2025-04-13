@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-13, 17:10:31",
+      "https://lobste.rs/s/foc7gw/apps_for_gnome"
+    ],
+    [
+      "Apps for GNOME",
+      "https://apps.gnome.org/"
+    ]
+  ],
+  [
+    [
+      "2025-04-13, 17:00:45",
+      "https://lobste.rs/s/oxsyxa/five_critical_roles_your_team"
+    ],
+    [
+      "The Five Critical Roles of Your Team",
+      "https://withinboredom.info/2025/04/12/the-five-critical-roles-of-your-team/"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 16:13:45",
       "https://lobste.rs/s/xgzydz/tricky_commodore_pet_repair_tracking"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-04-12, 16:29:03",
-      "https://lobste.rs/s/xgbs35/holographic_masks"
-    ],
-    [
-      "Holographic Masks",
-      "https://codepen.io/HejChristian/full/YPzLbYX"
-    ]
-  ],
-  [
-    [
       "2025-04-12, 15:52:04",
       "https://lobste.rs/s/p4k5m6/core_math_high_performance_open_source"
     ],
@@ -217,16 +227,6 @@
     [
       "The 5 Levels of Configuration Languages",
       "https://beza1e1.tuxen.de/config_levels.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 08:58:40",
-      "https://lobste.rs/s/ele5ij/shadertoys_ported_rust_gpu"
-    ],
-    [
-      "Shadertoys ported to Rust GPU",
-      "https://rust-gpu.github.io/blog/2025/04/10/shadertoys"
     ]
   ],
   [
