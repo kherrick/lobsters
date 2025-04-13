@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-13, 18:39:11](https://lobste.rs/s/dgp9xf/solving_one_million_sudoku_puzzles_per) - [Solving One Million Sudoku Puzzles per hour](https://www.miakoring.de/blog/sudoku)
+* [2025-04-13, 18:34:59](https://lobste.rs/s/aa6nas/torvalds_celebrates_git_s_20th) - [Torvalds Celebrates Git's 20th Anniversay. Is It More Famous Than Linux?](https://m.slashdot.org/story/440853)
 * [2025-04-13, 17:51:19](https://lobste.rs/s/dgrsuw/e_ink_pda_device_using_esp32_s3) - [An E-Ink PDA device using the ESP32 S3](https://github.com/ashtf8/EinkPDA)
-* [2025-04-13, 17:10:31](https://lobste.rs/s/foc7gw/apps_for_gnome) - [Apps for GNOME](https://apps.gnome.org/)
 * [2025-04-13, 17:00:45](https://lobste.rs/s/oxsyxa/five_critical_roles_your_team) - [The Five Critical Roles of Your Team](https://withinboredom.info/2025/04/12/the-five-critical-roles-of-your-team/)
 * [2025-04-13, 16:13:45](https://lobste.rs/s/xgzydz/tricky_commodore_pet_repair_tracking) - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
 * [2025-04-13, 15:14:31](https://lobste.rs/s/yrigjs/speeding_up_terraform_caching_with) - [Speeding up Terraform caching with OverlayFS](https://www.bejarano.io/terraform-overlayfs/)
@@ -24,7 +25,6 @@
 * [2025-04-12, 10:17:34](https://lobste.rs/s/45xlaz/python_performance_why_if_not_list_is_2x) - [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
 * [2025-04-12, 09:48:26](https://lobste.rs/s/erkm24/5_levels_configuration_languages) - [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html)
 * [2025-04-12, 04:18:04](https://lobste.rs/s/0ox9js/rust_c_compiler_95_9_test_pass_rate_odd) - [Rust to C compiler - 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
-* [2025-04-11, 19:47:08](https://lobste.rs/s/g1xfen/generative_ai_servo) - [Generative AI in Servo](https://www.azabani.com/2025/04/11/generative-ai-in-servo.html)
 
 ## [Archives](archives/index.md)
 

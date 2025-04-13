@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 18:39:11](https://lobste.rs/s/dgp9xf/solving_one_million_sudoku_puzzles_per) - [Solving One Million Sudoku Puzzles per hour](https://www.miakoring.de/blog/sudoku)
+* [2025-04-13, 18:34:59](https://lobste.rs/s/aa6nas/torvalds_celebrates_git_s_20th) - [Torvalds Celebrates Git's 20th Anniversay. Is It More Famous Than Linux?](https://m.slashdot.org/story/440853)
 * [2025-04-13, 17:51:19](https://lobste.rs/s/dgrsuw/e_ink_pda_device_using_esp32_s3) - [An E-Ink PDA device using the ESP32 S3](https://github.com/ashtf8/EinkPDA)
 * [2025-04-13, 17:10:31](https://lobste.rs/s/foc7gw/apps_for_gnome) - [Apps for GNOME](https://apps.gnome.org/)
 * [2025-04-13, 17:00:45](https://lobste.rs/s/oxsyxa/five_critical_roles_your_team) - [The Five Critical Roles of Your Team](https://withinboredom.info/2025/04/12/the-five-critical-roles-of-your-team/)
