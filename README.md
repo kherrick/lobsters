@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-13, 09:40:50](https://lobste.rs/s/qsodus/dslogic_u3pro16_review_teardown) - [DSLogic U3Pro16 Review and Teardown](https://tomverbeure.github.io/2025/04/12/DSLogic-U3Pro16-Teardown.html)
 * [2025-04-13, 08:19:19](https://lobste.rs/s/vzl997/torn_write_detection_protection) - [Torn Write Detection and Protection](https://transactional.blog/blog/2025-torn-writes)
 * [2025-04-13, 07:09:38](https://lobste.rs/s/nj7fv8/glicko_rating_systems) - [Glicko Rating Systems](https://www.glicko.net/glicko.html)
 * [2025-04-13, 07:08:31](https://lobste.rs/s/zvzjj6/trueskill_2_improved_bayesian_skill) - [TrueSkill 2: An improved Bayesian skill rating system](https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/)
@@ -10,7 +11,6 @@
 * [2025-04-12, 23:41:47](https://lobste.rs/s/r4f38q/anubis_works) - [Anubis works](https://xeiaso.net/notes/2025/anubis-works/)
 * [2025-04-12, 22:11:15](https://lobste.rs/s/tvgcda/natural_language_is_now_only_no_code_tool) - [Natural Language Is Now the Only No-Code Tool That Matters](https://www.xfaang.com/blog/Natural-Language-Is-Now-the-Only-No-Code-Tool-That-Matters/slvrJ005SjSnDqnIIfeVX)
 * [2025-04-12, 20:31:27](https://lobste.rs/s/apb8w3/cl_yasboi_yet_another_starter) - [cl-yasboi: Yet Another Starter Boilerplate for Common Lisp](https://github.com/sebastiancarlos/cl-yasboi)
-* [2025-04-12, 19:23:14](https://lobste.rs/s/ozmiau/creating_256_bytes_ram_simulation) - [Creating 256 Bytes of RAM (in a simulation)](https://www.youtube.com/watch?v=HGkuRp5HfH8)
 * [2025-04-12, 19:00:58](https://lobste.rs/s/pylbkw/zcs_entity_component_system_zig) - [ZCS — An Entity Component System in Zig](https://gamesbymason.com/blog/2025/zcs/)
 * [2025-04-12, 16:29:21](https://lobste.rs/s/mdmuib/performance_analysis_tuning_on_modern) - [Performance Analysis and Tuning on Modern CPUs](https://github.com/dendibakh/perf-book)
 * [2025-04-12, 16:29:03](https://lobste.rs/s/xgbs35/holographic_masks) - [Holographic Masks](https://codepen.io/HejChristian/full/YPzLbYX)
