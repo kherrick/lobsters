@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-13, 00:27:38",
+      "https://lobste.rs/s/sugnms/rng_cosine_nix"
+    ],
+    [
+      "RNG and Cosine in Nix",
+      "https://unnamed.website/posts/rng-cosine-nix/"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 23:41:47",
+      "https://lobste.rs/s/r4f38q/anubis_works"
+    ],
+    [
+      "Anubis works",
+      "https://xeiaso.net/notes/2025/anubis-works/"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 22:11:15",
       "https://lobste.rs/s/tvgcda/natural_language_is_now_only_no_code_tool"
     ],
@@ -227,26 +247,6 @@
     [
       "Erlang’s not about lightweight processes and message passing…",
       "https://stevana.github.io/erlangs_not_about_lightweight_processes_and_message_passing.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 15:41:28",
-      "https://lobste.rs/s/dkdm7m/fedora_change_aims_for_99_package"
-    ],
-    [
-      "Fedora change aims for 99% package reproducibility",
-      "https://lwn.net/Articles/1014979/"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 04:19:56",
-      "https://lobste.rs/s/q4xzh6/default_styles_for_h1_elements_are"
-    ],
-    [
-      "Default styles for h1 elements are changing",
-      "https://developer.mozilla.org/en-US/blog/h1-element-styles/"
     ]
   ]
 ]
