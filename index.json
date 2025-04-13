@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-13, 17:51:19",
+      "https://lobste.rs/s/dgrsuw/e_ink_pda_device_using_esp32_s3"
+    ],
+    [
+      "An E-Ink PDA device using the ESP32 S3",
+      "https://github.com/ashtf8/EinkPDA"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 17:10:31",
       "https://lobste.rs/s/foc7gw/apps_for_gnome"
     ],
@@ -167,16 +177,6 @@
     [
       "ZCS — An Entity Component System in Zig",
       "https://gamesbymason.com/blog/2025/zcs/"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 15:52:04",
-      "https://lobste.rs/s/p4k5m6/core_math_high_performance_open_source"
-    ],
-    [
-      "CORE-MATH: high performance open-source mathematical functions with correct rounding",
-      "https://core-math.gitlabpages.inria.fr/"
     ]
   ],
   [
