@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-13, 07:09:38",
+      "https://lobste.rs/s/nj7fv8/glicko_rating_systems"
+    ],
+    [
+      "Glicko Rating Systems",
+      "https://www.glicko.net/glicko.html"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 07:08:31",
       "https://lobste.rs/s/zvzjj6/trueskill_2_improved_bayesian_skill"
     ],
@@ -217,16 +227,6 @@
     [
       "Rust to C compiler - 95.9% test pass rate, odd platforms",
       "https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-11, 22:15:53",
-      "https://lobste.rs/s/fa15vx/camel_offers_promising_new_direction_for"
-    ],
-    [
-      "CaMeL offers a promising new direction for mitigating prompt injection attacks",
-      "https://simonwillison.net/2025/Apr/11/camel/"
     ]
   ],
   [
