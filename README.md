@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-13, 07:08:31](https://lobste.rs/s/zvzjj6/trueskill_2_improved_bayesian_skill) - [TrueSkill 2: An improved Bayesian skill rating system](https://www.microsoft.com/en-us/research/publication/trueskill-2-improved-bayesian-skill-rating-system/)
 * [2025-04-13, 05:15:48](https://lobste.rs/s/ozcijs/why_is_there_small_house_ibm_s_code_page_437) - [Why is there a \"small house\" in IBM's Code page 437?](https://blog.glyphdrawing.club/why-is-there-a-small-house-in-ibm-s-code-page-437/)
 * [2025-04-13, 02:59:24](https://lobste.rs/s/hb0ufy/why_pascal_is_not_my_favourite_language) - [Why Pascal is Not My Favourite Language (1981)](https://doc.cat-v.org/bell_labs/why_pascal/why_pascal_is_not_my_favorite_language.pdf)
 * [2025-04-13, 02:21:22](https://lobste.rs/s/maun4k/nix_trigonometric_math_library_from) - [Nix Trigonometric Math Library from Ground Zero](https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/)
@@ -17,7 +18,6 @@
 * [2025-04-12, 13:46:42](https://lobste.rs/s/xvydc9/awe_compiler_for_algol_w_programming) - [awe: A compiler for the Algol W programming language](https://github.com/glynawe/awe)
 * [2025-04-12, 12:53:49](https://lobste.rs/s/gfrmx1/slopsquatting_planting_malicious) - [Slopsquatting: Planting Malicious Packages Under Names AIs Will Hallucinate](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
 * [2025-04-12, 12:05:07](https://lobste.rs/s/xep8ix/some_features_every_javascript) - [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
-* [2025-04-12, 11:40:54](https://lobste.rs/s/dni61w/bug_outlook_pst_password_protection_2006) - [Bug in Outlook PST Password Protection (2006)](https://www.nirsoft.net/articles/pst_password_bug.html)
 * [2025-04-12, 10:17:34](https://lobste.rs/s/45xlaz/python_performance_why_if_not_list_is_2x) - [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
 * [2025-04-12, 09:48:26](https://lobste.rs/s/erkm24/5_levels_configuration_languages) - [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html)
 * [2025-04-12, 08:58:40](https://lobste.rs/s/ele5ij/shadertoys_ported_rust_gpu) - [Shadertoys ported to Rust GPU](https://rust-gpu.github.io/blog/2025/04/10/shadertoys)
