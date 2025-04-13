@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-13, 09:53:33",
+      "https://lobste.rs/s/q3wild/emacs_lisp_elements"
+    ],
+    [
+      "Emacs Lisp Elements",
+      "https://protesilaos.com/emacs/emacs-lisp-elements"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 09:40:50",
       "https://lobste.rs/s/qsodus/dslogic_u3pro16_review_teardown"
     ],
@@ -117,16 +127,6 @@
     [
       "ZCS — An Entity Component System in Zig",
       "https://gamesbymason.com/blog/2025/zcs/"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 16:29:21",
-      "https://lobste.rs/s/mdmuib/performance_analysis_tuning_on_modern"
-    ],
-    [
-      "Performance Analysis and Tuning on Modern CPUs",
-      "https://github.com/dendibakh/perf-book"
     ]
   ],
   [
