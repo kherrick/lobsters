@@ -131,6 +131,16 @@
   ],
   [
     [
+      "2025-04-12, 16:29:21",
+      "https://lobste.rs/s/mdmuib/performance_analysis_tuning_on_modern"
+    ],
+    [
+      "Performance Analysis and Tuning on Modern CPUs",
+      "https://github.com/dendibakh/perf-book"
+    ]
+  ],
+  [
+    [
       "2025-04-12, 16:29:03",
       "https://lobste.rs/s/xgbs35/holographic_masks"
     ],
@@ -167,16 +177,6 @@
     [
       "My Cloudflare R2 has been blocked from LaLiga (Spain football league), is it even legal?",
       "https://lobste.rs/s/uetrpm/my_cloudflare_r2_has_been_blocked_from"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 13:46:42",
-      "https://lobste.rs/s/xvydc9/awe_compiler_for_algol_w_programming"
-    ],
-    [
-      "awe: A compiler for the Algol W programming language",
-      "https://github.com/glynawe/awe"
     ]
   ],
   [
