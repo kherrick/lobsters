@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-13, 19:06:57](https://lobste.rs/s/ao24tu/visual_journey_through_async_rust) - [A Visual Journey Through Async Rust](https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md)
 * [2025-04-13, 18:39:11](https://lobste.rs/s/dgp9xf/solving_one_million_sudoku_puzzles_per) - [Solving One Million Sudoku Puzzles per hour](https://www.miakoring.de/blog/sudoku)
 * [2025-04-13, 18:34:59](https://lobste.rs/s/aa6nas/torvalds_celebrates_git_s_20th) - [Torvalds Celebrates Git's 20th Anniversay. Is It More Famous Than Linux?](https://m.slashdot.org/story/440853)
 * [2025-04-13, 17:51:19](https://lobste.rs/s/dgrsuw/e_ink_pda_device_using_esp32_s3) - [An E-Ink PDA device using the ESP32 S3](https://github.com/ashtf8/EinkPDA)
@@ -24,7 +25,6 @@
 * [2025-04-12, 12:05:07](https://lobste.rs/s/xep8ix/some_features_every_javascript) - [Some features that every JavaScript developer should know in 2025](https://waspdev.com/articles/2025-04-06/features-that-every-js-developer-must-know-in-2025)
 * [2025-04-12, 10:17:34](https://lobste.rs/s/45xlaz/python_performance_why_if_not_list_is_2x) - [Python Performance: Why 'if not list' is 2x Faster Than Using len()](https://blog.codingconfessions.com/p/python-performance-why-if-not-list)
 * [2025-04-12, 09:48:26](https://lobste.rs/s/erkm24/5_levels_configuration_languages) - [The 5 Levels of Configuration Languages](https://beza1e1.tuxen.de/config_levels.html)
-* [2025-04-12, 04:18:04](https://lobste.rs/s/0ox9js/rust_c_compiler_95_9_test_pass_rate_odd) - [Rust to C compiler - 95.9% test pass rate, odd platforms](https://fractalfir.github.io/generated_html/cg_clr_odd_platforms.html)
 
 ## [Archives](archives/index.md)
 

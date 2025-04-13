@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 19:06:57](https://lobste.rs/s/ao24tu/visual_journey_through_async_rust) - [A Visual Journey Through Async Rust](https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md)
 * [2025-04-13, 18:39:11](https://lobste.rs/s/dgp9xf/solving_one_million_sudoku_puzzles_per) - [Solving One Million Sudoku Puzzles per hour](https://www.miakoring.de/blog/sudoku)
 * [2025-04-13, 18:34:59](https://lobste.rs/s/aa6nas/torvalds_celebrates_git_s_20th) - [Torvalds Celebrates Git's 20th Anniversay. Is It More Famous Than Linux?](https://m.slashdot.org/story/440853)
 * [2025-04-13, 17:51:19](https://lobste.rs/s/dgrsuw/e_ink_pda_device_using_esp32_s3) - [An E-Ink PDA device using the ESP32 S3](https://github.com/ashtf8/EinkPDA)
