@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-13](index.md)
 
+* [2025-04-13, 17:51:19](https://lobste.rs/s/dgrsuw/e_ink_pda_device_using_esp32_s3) - [An E-Ink PDA device using the ESP32 S3](https://github.com/ashtf8/EinkPDA)
 * [2025-04-13, 17:10:31](https://lobste.rs/s/foc7gw/apps_for_gnome) - [Apps for GNOME](https://apps.gnome.org/)
 * [2025-04-13, 17:00:45](https://lobste.rs/s/oxsyxa/five_critical_roles_your_team) - [The Five Critical Roles of Your Team](https://withinboredom.info/2025/04/12/the-five-critical-roles-of-your-team/)
 * [2025-04-13, 16:13:45](https://lobste.rs/s/xgzydz/tricky_commodore_pet_repair_tracking) - [A tricky Commodore PET repair: tracking down 6 1/2 bad chips](http://www.righto.com/2025/04/commodore-pet-repair.html)
