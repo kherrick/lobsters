@@ -111,16 +111,6 @@
   ],
   [
     [
-      "2025-04-13, 09:40:50",
-      "https://lobste.rs/s/qsodus/dslogic_u3pro16_review_teardown"
-    ],
-    [
-      "DSLogic U3Pro16 Review and Teardown",
-      "https://tomverbeure.github.io/2025/04/12/DSLogic-U3Pro16-Teardown.html"
-    ]
-  ],
-  [
-    [
       "2025-04-13, 08:19:19",
       "https://lobste.rs/s/vzl997/torn_write_detection_protection"
     ],
@@ -197,6 +187,16 @@
     [
       "Anubis works",
       "https://xeiaso.net/notes/2025/anubis-works/"
+    ]
+  ],
+  [
+    [
+      "2025-04-12, 20:31:27",
+      "https://lobste.rs/s/apb8w3/cl_yasboi_yet_another_starter"
+    ],
+    [
+      "cl-yasboi: Yet Another Starter Boilerplate for Common Lisp",
+      "https://github.com/sebastiancarlos/cl-yasboi"
     ]
   ],
   [
