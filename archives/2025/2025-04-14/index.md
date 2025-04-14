@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 15:26:13](https://lobste.rs/s/jc1igy/c_20_idioms_for_parameter_packs) - [C++20 idioms for parameter packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)
 * [2025-04-14, 14:58:32](https://lobste.rs/s/m5hycn/python_is_interpreted_language_with) - [Python is an interpreted language with a compiler](https://ntietz.com/blog/python-is-an-interpreted-language-with-a-compiler/)
 * [2025-04-14, 14:49:49](https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization) - [We don’t need no virtualization](https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html)
 * [2025-04-14, 14:32:27](https://lobste.rs/s/oipya2/i_ve_been_writing_software_for_last_25) - [I've been writing software for the last 25 years. Here are a few more things I've learned so far (part 2)](https://blog.rpanachi.com/after-25-years-writing-software-here-are-a-few-more-things-ive-learned-so-far-part2)
