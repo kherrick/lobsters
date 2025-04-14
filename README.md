@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-14, 13:37:45](https://lobste.rs/s/lrftwb/fun_with_fsanitize_undefined_picolibc) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
 * [2025-04-14, 12:16:21](https://lobste.rs/s/wttli2/ars_technica_history_internet_part_1) - [An Ars Technica history of the Internet, part 1](https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/)
 * [2025-04-14, 10:05:40](https://lobste.rs/s/ft0sbk/zig_s_new_linkedlist_api_it_s_time_learn) - [Zig's new LinkedList API (it's time to learn @fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 09:41:26](https://lobste.rs/s/t788y0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t788y0/what_are_you_doing_this_week)
@@ -24,7 +25,6 @@
 * [2025-04-13, 02:21:22](https://lobste.rs/s/maun4k/nix_trigonometric_math_library_from) - [Nix Trigonometric Math Library from Ground Zero](https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/)
 * [2025-04-12, 23:41:47](https://lobste.rs/s/r4f38q/anubis_works) - [Anubis works](https://xeiaso.net/notes/2025/anubis-works/)
 * [2025-04-12, 19:00:58](https://lobste.rs/s/pylbkw/zcs_entity_component_system_zig) - [ZCS — An Entity Component System in Zig](https://gamesbymason.com/blog/2025/zcs/)
-* [2025-04-12, 12:53:49](https://lobste.rs/s/gfrmx1/slopsquatting_planting_malicious) - [Slopsquatting: Planting Malicious Packages Under Names AIs Will Hallucinate](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
 
 ## [Archives](archives/index.md)
 
