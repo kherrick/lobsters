@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 19:29:36](https://lobste.rs/s/niz7ed/macpad_how_i_created_hybrid_mac_ipad) - [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won’t Make (2024)](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
 * [2025-04-14, 17:31:14](https://lobste.rs/s/retxvy/ssh_adventure_why_l10n_support_is) - [An ssh adventure; or, why l10n support is important](https://gitlab.com/-/snippets/2149340)
 * [2025-04-14, 17:05:39](https://lobste.rs/s/vih1t5/ssd1306_display_drivers_font_rendering) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
 * [2025-04-14, 17:01:08](https://lobste.rs/s/nzjqvz/building_llvm_plugins_with_bazel) - [Building LLVM plugins with Bazel](https://lowlevelbits.org/building-llvm-plugins-with-bazel/)
