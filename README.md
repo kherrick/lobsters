@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-14, 01:09:41](https://lobste.rs/s/epsuly/i_bought_mac) - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
 * [2025-04-13, 21:34:46](https://lobste.rs/s/kmz1a5/visualizing_chess_bitboards) - [Visualizing Chess Bitboards](https://healeycodes.com/visualizing-chess-bitboards)
 * [2025-04-13, 21:16:43](https://lobste.rs/s/ns3ugs/ship_software_does_nothing) - [Ship Software That Does Nothing](https://kerrick.blog/articles/2025/ship-software-that-does-nothing/)
 * [2025-04-13, 19:57:30](https://lobste.rs/s/998p76/mandatory_short_duration_tls) - [Mandatory short duration TLS certificates are probably coming soon](https://utcc.utoronto.ca/~cks/space/blog/web/ShortTLSCertificatesComing)
@@ -19,7 +20,6 @@
 * [2025-04-13, 02:21:22](https://lobste.rs/s/maun4k/nix_trigonometric_math_library_from) - [Nix Trigonometric Math Library from Ground Zero](https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/)
 * [2025-04-13, 00:27:38](https://lobste.rs/s/sugnms/rng_cosine_nix) - [RNG and Cosine in Nix](https://unnamed.website/posts/rng-cosine-nix/)
 * [2025-04-12, 23:41:47](https://lobste.rs/s/r4f38q/anubis_works) - [Anubis works](https://xeiaso.net/notes/2025/anubis-works/)
-* [2025-04-12, 20:31:27](https://lobste.rs/s/apb8w3/cl_yasboi_yet_another_starter) - [cl-yasboi: Yet Another Starter Boilerplate for Common Lisp](https://github.com/sebastiancarlos/cl-yasboi)
 * [2025-04-12, 19:00:58](https://lobste.rs/s/pylbkw/zcs_entity_component_system_zig) - [ZCS — An Entity Component System in Zig](https://gamesbymason.com/blog/2025/zcs/)
 * [2025-04-12, 15:27:58](https://lobste.rs/s/3s214q/bps_is_gps_alternative_nobody_s_heard) - [BPS is a GPS alternative that nobody's heard of](https://www.jeffgeerling.com/blog/2025/bps-gps-alternative-nobodys-heard)
 * [2025-04-12, 12:53:49](https://lobste.rs/s/gfrmx1/slopsquatting_planting_malicious) - [Slopsquatting: Planting Malicious Packages Under Names AIs Will Hallucinate](https://socket.dev/blog/slopsquatting-how-ai-hallucinations-are-fueling-a-new-class-of-supply-chain-attacks)
