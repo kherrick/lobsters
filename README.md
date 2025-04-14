@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-14, 17:05:39](https://lobste.rs/s/vih1t5/ssd1306_display_drivers_font_rendering) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
+* [2025-04-14, 17:01:08](https://lobste.rs/s/nzjqvz/building_llvm_plugins_with_bazel) - [Building LLVM plugins with Bazel](https://lowlevelbits.org/building-llvm-plugins-with-bazel/)
 * [2025-04-14, 16:15:25](https://lobste.rs/s/182ftx/stasm_gcc_clang_inline_assembly_wrapper_c) - [Stasm: GCC/Clang inline assembly wrapper, C macro pre-processor based. ASM for human beings](https://github.com/stasinek/stasm)
-* [2025-04-14, 16:10:36](https://lobste.rs/s/2zttjs/panvk_is_officially_vulkan_1_1_conformant) - [PanVK is officially Vulkan 1.1 conformant on the Arm Mali-G610 GPU](https://www.khronos.org/conformance/adopters/conformant-products#submission_906)
 * [2025-04-14, 16:10:32](https://lobste.rs/s/koauiz/algebraic_semantics_for_machine) - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
 * [2025-04-14, 15:59:15](https://lobste.rs/s/tanhwa/flat_origami_is_turing_complete) - [Flat origami is Turing complete](https://arxiv.org/abs/2309.07932)
 * [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
@@ -21,7 +22,6 @@
 * [2025-04-14, 01:09:41](https://lobste.rs/s/epsuly/i_bought_mac) - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
 * [2025-04-13, 21:16:43](https://lobste.rs/s/ns3ugs/ship_software_does_nothing) - [Ship Software That Does Nothing](https://kerrick.blog/articles/2025/ship-software-that-does-nothing/)
 * [2025-04-13, 19:57:30](https://lobste.rs/s/998p76/mandatory_short_duration_tls) - [Mandatory short duration TLS certificates are probably coming soon](https://utcc.utoronto.ca/~cks/space/blog/web/ShortTLSCertificatesComing)
-* [2025-04-13, 19:06:57](https://lobste.rs/s/ao24tu/visual_journey_through_async_rust) - [A Visual Journey Through Async Rust](https://github.com/alexpusch/rust-magic-patterns/blob/master/visual-journey-through-async-rust/Readme.md)
 * [2025-04-13, 17:51:19](https://lobste.rs/s/dgrsuw/e_ink_pda_device_using_esp32_s3) - [An E-Ink PDA device using the ESP32 S3](https://github.com/ashtf8/EinkPDA)
 * [2025-04-13, 14:17:03](https://lobste.rs/s/zb5wzp/no_panic_attribute_macro_require) - [no-panic: Attribute macro to require that the compiler prove a function can't ever panic](https://github.com/dtolnay/no-panic)
 * [2025-04-12, 23:41:47](https://lobste.rs/s/r4f38q/anubis_works) - [Anubis works](https://xeiaso.net/notes/2025/anubis-works/)

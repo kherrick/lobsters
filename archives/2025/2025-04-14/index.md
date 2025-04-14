@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 17:05:39](https://lobste.rs/s/vih1t5/ssd1306_display_drivers_font_rendering) - [SSD1306 display drivers and font rendering](https://subalpinecircuits.com/ssd1306-and-font-rendering/)
+* [2025-04-14, 17:01:08](https://lobste.rs/s/nzjqvz/building_llvm_plugins_with_bazel) - [Building LLVM plugins with Bazel](https://lowlevelbits.org/building-llvm-plugins-with-bazel/)
 * [2025-04-14, 16:15:25](https://lobste.rs/s/182ftx/stasm_gcc_clang_inline_assembly_wrapper_c) - [Stasm: GCC/Clang inline assembly wrapper, C macro pre-processor based. ASM for human beings](https://github.com/stasinek/stasm)
 * [2025-04-14, 16:10:36](https://lobste.rs/s/2zttjs/panvk_is_officially_vulkan_1_1_conformant) - [PanVK is officially Vulkan 1.1 conformant on the Arm Mali-G610 GPU](https://www.khronos.org/conformance/adopters/conformant-products#submission_906)
 * [2025-04-14, 16:10:32](https://lobste.rs/s/koauiz/algebraic_semantics_for_machine) - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
