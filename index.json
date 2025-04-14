@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-04-13, 21:34:46",
+      "https://lobste.rs/s/kmz1a5/visualizing_chess_bitboards"
+    ],
+    [
+      "Visualizing Chess Bitboards",
+      "https://healeycodes.com/visualizing-chess-bitboards"
+    ]
+  ],
+  [
+    [
       "2025-04-13, 21:16:43",
       "https://lobste.rs/s/ns3ugs/ship_software_does_nothing"
     ],
@@ -237,16 +247,6 @@
     [
       "Python Performance: Why 'if not list' is 2x Faster Than Using len()",
       "https://blog.codingconfessions.com/p/python-performance-why-if-not-list"
-    ]
-  ],
-  [
-    [
-      "2025-04-12, 09:48:26",
-      "https://lobste.rs/s/erkm24/5_levels_configuration_languages"
-    ],
-    [
-      "The 5 Levels of Configuration Languages",
-      "https://beza1e1.tuxen.de/config_levels.html"
     ]
   ]
 ]
