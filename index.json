@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-14, 19:29:36",
+      "https://lobste.rs/s/niz7ed/macpad_how_i_created_hybrid_mac_ipad"
+    ],
+    [
+      "MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won’t Make (2024)",
+      "https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 17:31:14",
       "https://lobste.rs/s/retxvy/ssh_adventure_why_l10n_support_is"
     ],
@@ -227,16 +237,6 @@
     [
       "An E-Ink PDA device using the ESP32 S3",
       "https://github.com/ashtf8/EinkPDA"
-    ]
-  ],
-  [
-    [
-      "2025-04-13, 14:17:03",
-      "https://lobste.rs/s/zb5wzp/no_panic_attribute_macro_require"
-    ],
-    [
-      "no-panic: Attribute macro to require that the compiler prove a function can't ever panic",
-      "https://github.com/dtolnay/no-panic"
     ]
   ],
   [
