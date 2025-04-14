@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-14, 21:22:48](https://lobste.rs/s/s05ols/deploying_typescript_recent_advances) - [Deploying TypeScript: recent advances and possible future directions](https://2ality.com/2025/04/deploying-typescript-present-future.html)
 * [2025-04-14, 20:39:16](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries) - [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
 * [2025-04-14, 19:29:36](https://lobste.rs/s/niz7ed/macpad_how_i_created_hybrid_mac_ipad) - [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won’t Make (2024)](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)
 * [2025-04-14, 17:31:14](https://lobste.rs/s/retxvy/ssh_adventure_why_l10n_support_is) - [An ssh adventure; or, why l10n support is important](https://gitlab.com/-/snippets/2149340)
@@ -16,7 +17,6 @@
 * [2025-04-14, 14:29:21](https://lobste.rs/s/m8ukva/htmx_documentation_caching) - [htmx Documentation - Caching](https://htmx.org/docs/#caching)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
 * [2025-04-14, 13:37:45](https://lobste.rs/s/lrftwb/fun_with_fsanitize_undefined_picolibc) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
-* [2025-04-14, 12:16:21](https://lobste.rs/s/wttli2/ars_technica_history_internet_part_1) - [An Ars Technica history of the Internet, part 1](https://arstechnica.com/gadgets/2025/04/a-history-of-the-internet-part-1-an-arpa-dream-takes-form/)
 * [2025-04-14, 10:05:40](https://lobste.rs/s/ft0sbk/zig_s_new_linkedlist_api_it_s_time_learn) - [Zig's new LinkedList API (it's time to learn @fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 09:41:26](https://lobste.rs/s/t788y0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t788y0/what_are_you_doing_this_week)
 * [2025-04-14, 02:58:45](https://lobste.rs/s/ebab2d/ditch_diy_drama_why_use_fedify_instead) - [Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?](https://hackers.pub/@hongminhee/2025/why-use-fedify)
