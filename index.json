@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-14, 09:41:26",
+      "https://lobste.rs/s/t788y0/what_are_you_doing_this_week"
+    ],
+    [
+      "What are you doing this week?",
+      "https://lobste.rs/s/t788y0/what_are_you_doing_this_week"
+    ]
+  ],
+  [
+    [
       "2025-04-14, 02:58:45",
       "https://lobste.rs/s/ebab2d/ditch_diy_drama_why_use_fedify_instead"
     ],
@@ -187,16 +197,6 @@
     [
       "Nix Trigonometric Math Library from Ground Zero",
       "https://lantian.pub/en/article/modify-computer/nix-trigonometric-math-library-from-zero.lantian/"
-    ]
-  ],
-  [
-    [
-      "2025-04-13, 00:27:38",
-      "https://lobste.rs/s/sugnms/rng_cosine_nix"
-    ],
-    [
-      "RNG and Cosine in Nix",
-      "https://unnamed.website/posts/rng-cosine-nix/"
     ]
   ],
   [
