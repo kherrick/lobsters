@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-14, 23:14:21](https://lobste.rs/s/mhqqdq/cautionary_tale_about_continuity) - [A cautionary tale about continuity](https://www.mattkeeter.com/blog/2025-04-12-continuity/)
 * [2025-04-14, 23:05:01](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using) - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html)
-* [2025-04-14, 22:58:37](https://lobste.rs/s/ti3l0n/tidbyt_without_company) - [Tidbyt without the company](https://macwright.com/2025/04/12/tidbyt-second-life)
 * [2025-04-14, 21:22:48](https://lobste.rs/s/s05ols/deploying_typescript_recent_advances) - [Deploying TypeScript: recent advances and possible future directions](https://2ality.com/2025/04/deploying-typescript-present-future.html)
 * [2025-04-14, 20:39:16](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries) - [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
 * [2025-04-14, 19:29:36](https://lobste.rs/s/niz7ed/macpad_how_i_created_hybrid_mac_ipad) - [MacPad: How I Created the Hybrid Mac-iPad Laptop and Tablet That Apple Won’t Make (2024)](https://www.macstories.net/stories/macpad-how-i-created-the-hybrid-mac-ipad-laptop-and-tablet-that-apple-wont-make/)

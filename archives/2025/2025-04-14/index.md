@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 23:14:21](https://lobste.rs/s/mhqqdq/cautionary_tale_about_continuity) - [A cautionary tale about continuity](https://www.mattkeeter.com/blog/2025-04-12-continuity/)
 * [2025-04-14, 23:05:01](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using) - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html)
 * [2025-04-14, 22:58:37](https://lobste.rs/s/ti3l0n/tidbyt_without_company) - [Tidbyt without the company](https://macwright.com/2025/04/12/tidbyt-second-life)
 * [2025-04-14, 22:22:46](https://lobste.rs/s/ftox7t/frontier_ai_models_still_fail_at_basic) - [Frontier AI Models Still Fail at Basic Physical Tasks: A Manufacturing Case Study](https://adamkarvonen.github.io/machine_learning/2025/04/13/llm-manufacturing-eval.html)
