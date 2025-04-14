@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 14:49:49](https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization) - [We don’t need no virtualization](https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html)
 * [2025-04-14, 14:32:27](https://lobste.rs/s/oipya2/i_ve_been_writing_software_for_last_25) - [I've been writing software for the last 25 years. Here are a few more things I've learned so far (part 2)](https://blog.rpanachi.com/after-25-years-writing-software-here-are-a-few-more-things-ive-learned-so-far-part2)
 * [2025-04-14, 14:29:21](https://lobste.rs/s/m8ukva/htmx_documentation_caching) - [htmx Documentation - Caching](https://htmx.org/docs/#caching)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
