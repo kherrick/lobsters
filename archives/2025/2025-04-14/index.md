@@ -4,6 +4,9 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
+* [2025-04-14, 15:39:09](https://lobste.rs/s/xuhi8k/pretty_state_machine_patterns_rust) - [Pretty State Machine Patterns in Rust](https://hoverbear.org/blog/rust-state-machine-pattern/)
+* [2025-04-14, 15:37:32](https://lobste.rs/s/wesv0k/git_remote_http_is_linked_against) - [git-remote-http is linked against incompatibly licensed OpenSSL](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969)
 * [2025-04-14, 15:26:13](https://lobste.rs/s/jc1igy/c_20_idioms_for_parameter_packs) - [C++20 idioms for parameter packs](https://www.scs.stanford.edu/~dm/blog/param-pack.html)
 * [2025-04-14, 14:58:32](https://lobste.rs/s/m5hycn/python_is_interpreted_language_with) - [Python is an interpreted language with a compiler](https://ntietz.com/blog/python-is-an-interpreted-language-with-a-compiler/)
 * [2025-04-14, 14:49:49](https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization) - [We don’t need no virtualization](https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html)
