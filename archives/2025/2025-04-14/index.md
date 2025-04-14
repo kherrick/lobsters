@@ -4,6 +4,10 @@
 
 ### [Archives](../../index.md) for [2025-04-14](index.md)
 
+* [2025-04-14, 16:15:25](https://lobste.rs/s/182ftx/stasm_gcc_clang_inline_assembly_wrapper_c) - [Stasm: GCC/Clang inline assembly wrapper, C macro pre-processor based. ASM for human beings](https://github.com/stasinek/stasm)
+* [2025-04-14, 16:10:36](https://lobste.rs/s/2zttjs/panvk_is_officially_vulkan_1_1_conformant) - [PanVK is officially Vulkan 1.1 conformant on the Arm Mali-G610 GPU](https://www.khronos.org/conformance/adopters/conformant-products#submission_906)
+* [2025-04-14, 16:10:32](https://lobste.rs/s/koauiz/algebraic_semantics_for_machine) - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
+* [2025-04-14, 15:59:15](https://lobste.rs/s/tanhwa/flat_origami_is_turing_complete) - [Flat origami is Turing complete](https://arxiv.org/abs/2309.07932)
 * [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 * [2025-04-14, 15:39:09](https://lobste.rs/s/xuhi8k/pretty_state_machine_patterns_rust) - [Pretty State Machine Patterns in Rust](https://hoverbear.org/blog/rust-state-machine-pattern/)
 * [2025-04-14, 15:37:32](https://lobste.rs/s/wesv0k/git_remote_http_is_linked_against) - [git-remote-http is linked against incompatibly licensed OpenSSL](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969)
