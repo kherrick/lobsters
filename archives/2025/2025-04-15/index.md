@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 22:01:15](https://lobste.rs/s/kuyvda/flowing_webgl_gradient_deconstructed) - [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
+* [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
 * [2025-04-15, 21:43:45](https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one) - [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
 * [2025-04-15, 20:41:50](https://lobste.rs/s/sblfzs/gnome_shell_frippery) - [GNOME Shell Frippery](https://frippery.org/extensions/)
 * [2025-04-15, 19:51:49](https://lobste.rs/s/ntxtm8/introduction_modern_cmake) - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
