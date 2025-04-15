@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-15, 13:59:21",
+      "https://lobste.rs/s/uqrxvc/getting_started_with_w65c832"
+    ],
+    [
+      "Getting Started with W65C832",
+      "https://joedavisson.com/software/w65c832/w65c832.html"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 13:41:12",
       "https://lobste.rs/s/ta5a6w/flambda2_ep_4_how_write_purely_functional"
     ],
@@ -217,16 +227,6 @@
     [
       "Zig's new LinkedList API (it's time to learn @fieldParentPtr)",
       "https://www.openmymind.net/Zigs-New-LinkedList-API/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 09:41:26",
-      "https://lobste.rs/s/t788y0/what_are_you_doing_this_week"
-    ],
-    [
-      "What are you doing this week?",
-      "https://lobste.rs/s/t788y0/what_are_you_doing_this_week"
     ]
   ],
   [
