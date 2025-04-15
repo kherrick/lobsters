@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-15, 21:43:45",
+      "https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one"
+    ],
+    [
+      "Cutting Down Rust Compile Times With One Thousand Crates",
+      "https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 20:41:50",
       "https://lobste.rs/s/sblfzs/gnome_shell_frippery"
     ],
@@ -227,16 +237,6 @@
     [
       "git-remote-http is linked against incompatibly licensed OpenSSL",
       "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 14:49:49",
-      "https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization"
-    ],
-    [
-      "We don’t need no virtualization",
-      "https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html"
     ]
   ],
   [
