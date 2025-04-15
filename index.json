@@ -91,6 +91,16 @@
   ],
   [
     [
+      "2025-04-15, 04:16:25",
+      "https://lobste.rs/s/gutrvb/procedural_foliage_rendering_with_l"
+    ],
+    [
+      "Procedural Foliage Rendering with L-systems and Geometry Instancing",
+      "https://jysandy.github.io/posts/procedural-trees/"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 04:03:23",
       "https://lobste.rs/s/ofacpc/what_hell_is_target_triple"
     ],
@@ -197,16 +207,6 @@
     [
       "git-remote-http is linked against incompatibly licensed OpenSSL",
       "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 15:26:13",
-      "https://lobste.rs/s/jc1igy/c_20_idioms_for_parameter_packs"
-    ],
-    [
-      "C++20 idioms for parameter packs",
-      "https://www.scs.stanford.edu/~dm/blog/param-pack.html"
     ]
   ],
   [
