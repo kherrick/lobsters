@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-15, 03:43:19",
+      "https://lobste.rs/s/p72ax4/hardening_browser"
+    ],
+    [
+      "Hardening the browser",
+      "https://www.gleech.org/browser"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 01:16:28",
       "https://lobste.rs/s/vn6j5k/async_from_scratch_2_wake_me_maybe"
     ],
@@ -117,16 +127,6 @@
     [
       "The Post-Developer Era",
       "https://www.joshwcomeau.com/blog/the-post-developer-era/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 15:39:09",
-      "https://lobste.rs/s/xuhi8k/pretty_state_machine_patterns_rust"
-    ],
-    [
-      "Pretty State Machine Patterns in Rust",
-      "https://hoverbear.org/blog/rust-state-machine-pattern/"
     ]
   ],
   [
