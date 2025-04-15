@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-15, 03:43:19",
-      "https://lobste.rs/s/p72ax4/hardening_browser"
+      "2025-04-15, 04:16:25",
+      "https://lobste.rs/s/gutrvb/procedural_foliage_rendering_with_l"
     ],
     [
-      "Hardening the browser",
-      "https://www.gleech.org/browser"
+      "Procedural Foliage Rendering with L-systems and Geometry Instancing",
+      "https://jysandy.github.io/posts/procedural-trees/"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 04:03:23",
+      "https://lobste.rs/s/ofacpc/what_hell_is_target_triple"
+    ],
+    [
+      "What the Hell Is a Target Triple?",
+      "https://mcyoung.xyz/2025/04/14/target-triples/"
     ]
   ],
   [
@@ -237,16 +247,6 @@
     [
       "Ship Software That Does Nothing",
       "https://kerrick.blog/articles/2025/ship-software-that-does-nothing/"
-    ]
-  ],
-  [
-    [
-      "2025-04-13, 19:57:30",
-      "https://lobste.rs/s/998p76/mandatory_short_duration_tls"
-    ],
-    [
-      "Mandatory short duration TLS certificates are probably coming soon",
-      "https://utcc.utoronto.ca/~cks/space/blog/web/ShortTLSCertificatesComing"
     ]
   ]
 ]
