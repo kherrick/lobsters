@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-15, 14:33:28",
+      "https://lobste.rs/s/llywoj/aerynos"
+    ],
+    [
+      "AerynOS",
+      "https://aerynos.com/"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 14:27:17",
+      "https://lobste.rs/s/axopcj/you_cannot_have_our_user_s_data"
+    ],
+    [
+      "You cannot have our user's data",
+      "https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 13:59:21",
       "https://lobste.rs/s/uqrxvc/getting_started_with_w65c832"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-04-14, 15:26:13",
-      "https://lobste.rs/s/jc1igy/c_20_idioms_for_parameter_packs"
-    ],
-    [
-      "C++20 idioms for parameter packs",
-      "https://www.scs.stanford.edu/~dm/blog/param-pack.html"
-    ]
-  ],
-  [
-    [
       "2025-04-14, 14:49:49",
       "https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization"
     ],
@@ -227,16 +237,6 @@
     [
       "Zig's new LinkedList API (it's time to learn @fieldParentPtr)",
       "https://www.openmymind.net/Zigs-New-LinkedList-API/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 02:58:45",
-      "https://lobste.rs/s/ebab2d/ditch_diy_drama_why_use_fedify_instead"
-    ],
-    [
-      "Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?",
-      "https://hackers.pub/@hongminhee/2025/why-use-fedify"
     ]
   ],
   [
