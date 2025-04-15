@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-15, 03:43:19](https://lobste.rs/s/p72ax4/hardening_browser) - [Hardening the browser](https://www.gleech.org/browser)
+* [2025-04-15, 04:16:25](https://lobste.rs/s/gutrvb/procedural_foliage_rendering_with_l) - [Procedural Foliage Rendering with L-systems and Geometry Instancing](https://jysandy.github.io/posts/procedural-trees/)
+* [2025-04-15, 04:03:23](https://lobste.rs/s/ofacpc/what_hell_is_target_triple) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 * [2025-04-15, 01:16:28](https://lobste.rs/s/vn6j5k/async_from_scratch_2_wake_me_maybe) - [Async from scratch 2: Wake me maybe](https://natkr.com/2025-04-15-async-from-scratch-2/)
 * [2025-04-15, 00:10:29](https://lobste.rs/s/8ghfuu/bug_bash_2025_conference_experience) - [Bug Bash 2025 Conference Experience](https://concerningquality.com/bug-bash-2025/)
 * [2025-04-14, 23:05:01](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using) - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html)
@@ -24,7 +25,6 @@
 * [2025-04-14, 02:58:45](https://lobste.rs/s/ebab2d/ditch_diy_drama_why_use_fedify_instead) - [Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?](https://hackers.pub/@hongminhee/2025/why-use-fedify)
 * [2025-04-14, 01:09:41](https://lobste.rs/s/epsuly/i_bought_mac) - [I bought a Mac](https://loganius.org/2025/04/i-bought-a-mac/)
 * [2025-04-13, 21:16:43](https://lobste.rs/s/ns3ugs/ship_software_does_nothing) - [Ship Software That Does Nothing](https://kerrick.blog/articles/2025/ship-software-that-does-nothing/)
-* [2025-04-13, 19:57:30](https://lobste.rs/s/998p76/mandatory_short_duration_tls) - [Mandatory short duration TLS certificates are probably coming soon](https://utcc.utoronto.ca/~cks/space/blog/web/ShortTLSCertificatesComing)
 
 ## [Archives](archives/index.md)
 
