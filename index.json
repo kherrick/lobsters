@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-15, 13:38:56",
+      "https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience"
+    ],
+    [
+      "What Makes a Great Developer Experience?",
+      "https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 13:29:21",
+      "https://lobste.rs/s/def3a8/ahoy_european_social_web_day_2025"
+    ],
+    [
+      "AHOY! European Social Web Day 2025",
+      "https://ahoy.eu"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 12:35:59",
       "https://lobste.rs/s/v7lsrv/two_years_rust"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-04-14, 21:22:48",
-      "https://lobste.rs/s/s05ols/deploying_typescript_recent_advances"
-    ],
-    [
-      "Deploying TypeScript: recent advances and possible future directions",
-      "https://2ality.com/2025/04/deploying-typescript-present-future.html"
-    ]
-  ],
-  [
-    [
       "2025-04-14, 20:39:16",
       "https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries"
     ],
@@ -197,16 +207,6 @@
     [
       "Gleam v1.10.0 released",
       "https://gleam.run/news/global-rename-and-find-references/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 13:37:45",
-      "https://lobste.rs/s/lrftwb/fun_with_fsanitize_undefined_picolibc"
-    ],
-    [
-      "Fun with -fsanitize=undefined and Picolibc",
-      "https://keithp.com/blogs/sanitizer-fun/"
     ]
   ],
   [
