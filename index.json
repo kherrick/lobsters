@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-15, 13:41:12",
+      "https://lobste.rs/s/ta5a6w/flambda2_ep_4_how_write_purely_functional"
+    ],
+    [
+      "Flambda2 Ep. 4: How to write a purely functional compiler",
+      "https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 13:38:56",
       "https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience"
     ],
@@ -177,16 +187,6 @@
     [
       "C++20 idioms for parameter packs",
       "https://www.scs.stanford.edu/~dm/blog/param-pack.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 14:58:32",
-      "https://lobste.rs/s/m5hycn/python_is_interpreted_language_with"
-    ],
-    [
-      "Python is an interpreted language with a compiler",
-      "https://ntietz.com/blog/python-is-an-interpreted-language-with-a-compiler/"
     ]
   ],
   [
