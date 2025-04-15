@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 17:02:06](https://lobste.rs/s/txoqvc/clolog) - [clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
 * [2025-04-15, 15:47:06](https://lobste.rs/s/axmvfz/when_life_gives_you_java) - [When Life Gives You Java](https://oblac.rs/2025-04-15-when-life-gives-you-java/)
 * [2025-04-15, 14:33:28](https://lobste.rs/s/llywoj/aerynos) - [AerynOS](https://aerynos.com/)

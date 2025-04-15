@@ -1,16 +1,17 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-15, 17:02:06](https://lobste.rs/s/txoqvc/clolog) - [clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
 * [2025-04-15, 15:47:06](https://lobste.rs/s/axmvfz/when_life_gives_you_java) - [When Life Gives You Java](https://oblac.rs/2025-04-15-when-life-gives-you-java/)
 * [2025-04-15, 14:33:28](https://lobste.rs/s/llywoj/aerynos) - [AerynOS](https://aerynos.com/)
 * [2025-04-15, 14:27:17](https://lobste.rs/s/axopcj/you_cannot_have_our_user_s_data) - [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
 * [2025-04-15, 13:59:21](https://lobste.rs/s/uqrxvc/getting_started_with_w65c832) - [Getting Started with W65C832](https://joedavisson.com/software/w65c832/w65c832.html)
+* [2025-04-15, 13:41:12](https://lobste.rs/s/ta5a6w/flambda2_ep_4_how_write_purely_functional) - [Flambda2 Ep. 4: How to write a purely functional compiler](https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/)
 * [2025-04-15, 13:38:56](https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience) - [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
 * [2025-04-15, 13:29:21](https://lobste.rs/s/def3a8/ahoy_european_social_web_day_2025) - [AHOY! European Social Web Day 2025](https://ahoy.eu)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 08:56:20](https://lobste.rs/s/rcq7xl/relational_model_data_1969) - [A Relational Model of Data (1969)](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
 * [2025-04-15, 04:29:44](https://lobste.rs/s/lsmlvf/behind_6_digit_code_building_hotp_totp) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
-* [2025-04-15, 04:16:25](https://lobste.rs/s/gutrvb/procedural_foliage_rendering_with_l) - [Procedural Foliage Rendering with L-systems and Geometry Instancing](https://jysandy.github.io/posts/procedural-trees/)
 * [2025-04-15, 04:03:23](https://lobste.rs/s/ofacpc/what_hell_is_target_triple) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 * [2025-04-15, 01:16:28](https://lobste.rs/s/vn6j5k/async_from_scratch_2_wake_me_maybe) - [Async from scratch 2: Wake me maybe](https://natkr.com/2025-04-15-async-from-scratch-2/)
 * [2025-04-15, 00:27:31](https://lobste.rs/s/snvzsl/problem_with_vibe_coding) - [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
@@ -24,7 +25,6 @@
 * [2025-04-14, 14:49:49](https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization) - [We don’t need no virtualization](https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
 * [2025-04-14, 10:05:40](https://lobste.rs/s/ft0sbk/zig_s_new_linkedlist_api_it_s_time_learn) - [Zig's new LinkedList API (it's time to learn @fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
-* [2025-04-13, 21:16:43](https://lobste.rs/s/ns3ugs/ship_software_does_nothing) - [Ship Software That Does Nothing](https://kerrick.blog/articles/2025/ship-software-that-does-nothing/)
 
 ## [Archives](archives/index.md)
 
