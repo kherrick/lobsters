@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-04-15, 19:19:09",
+      "https://lobste.rs/s/exz5ne/understanding_how_claude_thinks"
+    ],
+    [
+      "Understanding How Claude Thinks",
+      "https://www.narrativeengine.co.uk/hosted/claude.html"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 19:03:31",
       "https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork"
     ],
@@ -137,16 +147,6 @@
     [
       "A Relational Model of Data (1969)",
       "https://dl.acm.org/doi/pdf/10.1145/362384.362685"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 04:29:44",
-      "https://lobste.rs/s/lsmlvf/behind_6_digit_code_building_hotp_totp"
-    ],
-    [
-      "Behind the 6-digit code: Building HOTP and TOTP from scratch",
-      "https://blog.dogac.dev/how-do-one-time-passwords-work/"
     ]
   ],
   [
