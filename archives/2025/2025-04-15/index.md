@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 19:19:21](https://lobste.rs/s/izbyyg/answer_is_42_fedora_linux_42_is) - [The answer is 42! Fedora Linux 42, that is](https://fedoramagazine.org/announcing-fedora-linux-42/)
+* [2025-04-15, 19:19:09](https://lobste.rs/s/exz5ne/understanding_how_claude_thinks) - [Understanding How Claude Thinks](https://www.narrativeengine.co.uk/hosted/claude.html)
 * [2025-04-15, 19:03:31](https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork) - [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html)
 * [2025-04-15, 17:02:06](https://lobste.rs/s/txoqvc/clolog) - [clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)

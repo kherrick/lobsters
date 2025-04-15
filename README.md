@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-15, 19:19:21](https://lobste.rs/s/izbyyg/answer_is_42_fedora_linux_42_is) - [The answer is 42! Fedora Linux 42, that is](https://fedoramagazine.org/announcing-fedora-linux-42/)
+* [2025-04-15, 19:19:09](https://lobste.rs/s/exz5ne/understanding_how_claude_thinks) - [Understanding How Claude Thinks](https://www.narrativeengine.co.uk/hosted/claude.html)
 * [2025-04-15, 19:03:31](https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork) - [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html)
 * [2025-04-15, 17:02:06](https://lobste.rs/s/txoqvc/clolog) - [clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
@@ -19,12 +21,10 @@
 * [2025-04-14, 23:05:01](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using) - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html)
 * [2025-04-14, 22:58:37](https://lobste.rs/s/ti3l0n/tidbyt_without_company) - [Tidbyt without the company](https://macwright.com/2025/04/12/tidbyt-second-life)
 * [2025-04-14, 20:39:16](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries) - [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
-* [2025-04-14, 15:59:15](https://lobste.rs/s/tanhwa/flat_origami_is_turing_complete) - [Flat origami is Turing complete](https://arxiv.org/abs/2309.07932)
 * [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 * [2025-04-14, 15:37:32](https://lobste.rs/s/wesv0k/git_remote_http_is_linked_against) - [git-remote-http is linked against incompatibly licensed OpenSSL](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969)
 * [2025-04-14, 14:49:49](https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization) - [We don’t need no virtualization](https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
-* [2025-04-14, 10:05:40](https://lobste.rs/s/ft0sbk/zig_s_new_linkedlist_api_it_s_time_learn) - [Zig's new LinkedList API (it's time to learn @fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 
 ## [Archives](archives/index.md)
 
