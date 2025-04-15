@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 22:39:18](https://lobste.rs/s/vcomeh/company_s_surveillance_tech_makes) - [Company's Surveillance Tech Makes Immigrants 'Easy Pickings'](https://web.archive.org/web/20250415024529/https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html)
 * [2025-04-15, 22:01:15](https://lobste.rs/s/kuyvda/flowing_webgl_gradient_deconstructed) - [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
 * [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
 * [2025-04-15, 21:43:45](https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one) - [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
