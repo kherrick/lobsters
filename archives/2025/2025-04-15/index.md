@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-15](index.md)
 
+* [2025-04-15, 13:38:56](https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience) - [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
+* [2025-04-15, 13:29:21](https://lobste.rs/s/def3a8/ahoy_european_social_web_day_2025) - [AHOY! European Social Web Day 2025](https://ahoy.eu)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 08:56:20](https://lobste.rs/s/rcq7xl/relational_model_data_1969) - [A Relational Model of Data (1969)](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
 * [2025-04-15, 04:29:44](https://lobste.rs/s/lsmlvf/behind_6_digit_code_building_hotp_totp) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)

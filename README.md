@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-15, 13:38:56](https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience) - [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
+* [2025-04-15, 13:29:21](https://lobste.rs/s/def3a8/ahoy_european_social_web_day_2025) - [AHOY! European Social Web Day 2025](https://ahoy.eu)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 08:56:20](https://lobste.rs/s/rcq7xl/relational_model_data_1969) - [A Relational Model of Data (1969)](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
 * [2025-04-15, 04:29:44](https://lobste.rs/s/lsmlvf/behind_6_digit_code_building_hotp_totp) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
@@ -10,7 +12,6 @@
 * [2025-04-15, 00:10:29](https://lobste.rs/s/8ghfuu/bug_bash_2025_conference_experience) - [Bug Bash 2025 Conference Experience](https://concerningquality.com/bug-bash-2025/)
 * [2025-04-14, 23:05:01](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using) - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html)
 * [2025-04-14, 22:58:37](https://lobste.rs/s/ti3l0n/tidbyt_without_company) - [Tidbyt without the company](https://macwright.com/2025/04/12/tidbyt-second-life)
-* [2025-04-14, 21:22:48](https://lobste.rs/s/s05ols/deploying_typescript_recent_advances) - [Deploying TypeScript: recent advances and possible future directions](https://2ality.com/2025/04/deploying-typescript-present-future.html)
 * [2025-04-14, 20:39:16](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries) - [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
 * [2025-04-14, 16:10:32](https://lobste.rs/s/koauiz/algebraic_semantics_for_machine) - [Algebraic Semantics for Machine Knitting](https://uwplse.org/2025/03/31/Algebraic-Knitting.html)
 * [2025-04-14, 15:59:15](https://lobste.rs/s/tanhwa/flat_origami_is_turing_complete) - [Flat origami is Turing complete](https://arxiv.org/abs/2309.07932)
@@ -20,7 +21,6 @@
 * [2025-04-14, 14:58:32](https://lobste.rs/s/m5hycn/python_is_interpreted_language_with) - [Python is an interpreted language with a compiler](https://ntietz.com/blog/python-is-an-interpreted-language-with-a-compiler/)
 * [2025-04-14, 14:49:49](https://lobste.rs/s/tefwoi/we_don_t_need_no_virtualization) - [We don’t need no virtualization](https://blog.snork.dev/posts/we-don-t-need-no-virtualization.html)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
-* [2025-04-14, 13:37:45](https://lobste.rs/s/lrftwb/fun_with_fsanitize_undefined_picolibc) - [Fun with -fsanitize=undefined and Picolibc](https://keithp.com/blogs/sanitizer-fun/)
 * [2025-04-14, 10:05:40](https://lobste.rs/s/ft0sbk/zig_s_new_linkedlist_api_it_s_time_learn) - [Zig's new LinkedList API (it's time to learn @fieldParentPtr)](https://www.openmymind.net/Zigs-New-LinkedList-API/)
 * [2025-04-14, 09:41:26](https://lobste.rs/s/t788y0/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/t788y0/what_are_you_doing_this_week)
 * [2025-04-14, 02:58:45](https://lobste.rs/s/ebab2d/ditch_diy_drama_why_use_fedify_instead) - [Ditch the DIY Drama: Why Use Fedify Instead of Building ActivityPub from Scratch?](https://hackers.pub/@hongminhee/2025/why-use-fedify)
