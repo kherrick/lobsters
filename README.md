@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-15, 19:03:31](https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork) - [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html)
 * [2025-04-15, 17:02:06](https://lobste.rs/s/txoqvc/clolog) - [clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
 * [2025-04-15, 15:47:06](https://lobste.rs/s/axmvfz/when_life_gives_you_java) - [When Life Gives You Java](https://oblac.rs/2025-04-15-when-life-gives-you-java/)
@@ -8,7 +9,6 @@
 * [2025-04-15, 13:59:21](https://lobste.rs/s/uqrxvc/getting_started_with_w65c832) - [Getting Started with W65C832](https://joedavisson.com/software/w65c832/w65c832.html)
 * [2025-04-15, 13:41:12](https://lobste.rs/s/ta5a6w/flambda2_ep_4_how_write_purely_functional) - [Flambda2 Ep. 4: How to write a purely functional compiler](https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/)
 * [2025-04-15, 13:38:56](https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience) - [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
-* [2025-04-15, 13:29:21](https://lobste.rs/s/def3a8/ahoy_european_social_web_day_2025) - [AHOY! European Social Web Day 2025](https://ahoy.eu)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 08:56:20](https://lobste.rs/s/rcq7xl/relational_model_data_1969) - [A Relational Model of Data (1969)](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
 * [2025-04-15, 04:29:44](https://lobste.rs/s/lsmlvf/behind_6_digit_code_building_hotp_totp) - [Behind the 6-digit code: Building HOTP and TOTP from scratch](https://blog.dogac.dev/how-do-one-time-passwords-work/)
