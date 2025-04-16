@@ -1,12 +1,12 @@
 [
   [
     [
-      "2025-04-16, 18:50:20",
-      "https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your"
+      "2025-04-16, 19:05:48",
+      "https://lobste.rs/s/k81ayk/northguard_scalable_log_storage_at"
     ],
     [
-      "codex: Lightweight coding agent that runs in your terminal",
-      "https://github.com/openai/codex"
+      "Northguard: Scalable Log Storage at Linkedin",
+      "https://blog.typeobject.com/posts/2025-northguard-announcement/"
     ]
   ],
   [
@@ -17,6 +17,16 @@
     [
       "Resonate",
       "https://alexandrefrancois.org/Resonate/"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 17:09:31",
+      "https://lobste.rs/s/ysnxuq/torque_lightweight_meta_assembler_for"
+    ],
+    [
+      "Torque – A lightweight meta-assembler for any processor",
+      "https://benbridle.com/projects/torque.html"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)",
       "https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 02:00:32",
-      "https://lobste.rs/s/hscqec/atomicless_concurrency_2023"
-    ],
-    [
-      "Atomicless Concurrency (2023)",
-      "https://mcyoung.xyz/2023/03/29/rseq-checkout/"
     ]
   ],
   [
