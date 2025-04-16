@@ -2,11 +2,11 @@
 
 * [2025-04-16, 16:41:54](https://lobste.rs/s/1cfddf/intro_deepseek_s_distributed_file_system) - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-16, 16:39:35](https://lobste.rs/s/f87ptp/mastodon_exit_interview) - [Mastodon Exit Interview](https://v.cx/2025/04/mastodon-exit-interview)
+* [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 15:55:40](https://lobste.rs/s/vsznsx/getting_better_performance_out_object) - [Getting better performance out of object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
 * [2025-04-16, 15:35:18](https://lobste.rs/s/45ob1t/reproducing_hacker_news_writing_style) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
 * [2025-04-16, 15:16:47](https://lobste.rs/s/dbkvz5/what_every_programmer_should_know_about) - [What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-04-16, 14:53:35](https://lobste.rs/s/20ftu1/swank_decorators_python_inspired) - [swank-decorators: Python-inspired decorators for Ruby](https://github.com/samanthaoldenburg/swank-decorators)
-* [2025-04-16, 13:40:35](https://lobste.rs/s/mate8e/3_year_journey_actually_good_monitoring) - [The 3-Year Journey to an Actually Good Monitoring Stack](https://phare.io/blog/the-3-year-journey-to-an-actually-good-monitoring-stack/)
 * [2025-04-16, 12:50:55](https://lobste.rs/s/8m9nmf/introducing_herb_new_html_aware_erb) - [Introducing Herb: A new HTML-Aware ERB Parser for smarting developer tooling](https://marcoroth.dev/posts/introducing-herb)
 * [2025-04-16, 09:21:25](https://lobste.rs/s/logmct/update_on_spain_laliga_blocks_internet) - [Update on Spain and LaLiga blocks of the internet](https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet)
 * [2025-04-16, 07:55:15](https://lobste.rs/s/cuqoyf/how_build_agent) - [How To Build An Agent](https://ampcode.com/how-to-build-an-agent)

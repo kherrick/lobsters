@@ -6,6 +6,7 @@
 
 * [2025-04-16, 16:41:54](https://lobste.rs/s/1cfddf/intro_deepseek_s_distributed_file_system) - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-16, 16:39:35](https://lobste.rs/s/f87ptp/mastodon_exit_interview) - [Mastodon Exit Interview](https://v.cx/2025/04/mastodon-exit-interview)
+* [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 15:55:40](https://lobste.rs/s/vsznsx/getting_better_performance_out_object) - [Getting better performance out of object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
 * [2025-04-16, 15:35:18](https://lobste.rs/s/45ob1t/reproducing_hacker_news_writing_style) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
 * [2025-04-16, 15:16:47](https://lobste.rs/s/dbkvz5/what_every_programmer_should_know_about) - [What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024](https://www.youtube.com/watch?v=-HNpim5x-IE)
