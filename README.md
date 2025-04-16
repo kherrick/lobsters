@@ -16,7 +16,6 @@
 * [2025-04-15, 15:47:06](https://lobste.rs/s/axmvfz/when_life_gives_you_java) - [When Life Gives You Java](https://oblac.rs/2025-04-15-when-life-gives-you-java/)
 * [2025-04-15, 14:33:28](https://lobste.rs/s/llywoj/aerynos) - [AerynOS](https://aerynos.com/)
 * [2025-04-15, 14:27:17](https://lobste.rs/s/axopcj/you_cannot_have_our_user_s_data) - [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
-* [2025-04-15, 13:41:12](https://lobste.rs/s/ta5a6w/flambda2_ep_4_how_write_purely_functional) - [Flambda2 Ep. 4: How to write a purely functional compiler](https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/)
 * [2025-04-15, 13:38:56](https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience) - [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 08:56:20](https://lobste.rs/s/rcq7xl/relational_model_data_1969) - [A Relational Model of Data (1969)](https://dl.acm.org/doi/pdf/10.1145/362384.362685)
@@ -24,6 +23,7 @@
 * [2025-04-15, 00:27:31](https://lobste.rs/s/snvzsl/problem_with_vibe_coding) - [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
 * [2025-04-15, 00:10:29](https://lobste.rs/s/8ghfuu/bug_bash_2025_conference_experience) - [Bug Bash 2025 Conference Experience](https://concerningquality.com/bug-bash-2025/)
 * [2025-04-14, 20:39:16](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries) - [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
+* [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
 
 ## [Archives](archives/index.md)
