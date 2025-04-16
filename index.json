@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-16, 00:47:38",
+      "https://lobste.rs/s/kwq4ih/story_behind_k2_mode_how_it_works_intellij"
+    ],
+    [
+      "The Story Behind K2 Mode and How It Works | The IntelliJ IDEA Blog",
+      "https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/"
+    ]
+  ],
+  [
+    [
       "2025-04-15, 22:39:18",
       "https://lobste.rs/s/vcomeh/company_s_surveillance_tech_makes"
     ],
     [
       "Company's Surveillance Tech Makes Immigrants 'Easy Pickings'",
       "https://web.archive.org/web/20250415024529/https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-15, 22:01:15",
+      "https://lobste.rs/s/kuyvda/flowing_webgl_gradient_deconstructed"
+    ],
+    [
+      "A flowing WebGL gradient, deconstructed",
+      "https://alexharri.com/blog/webgl-gradients"
     ]
   ],
   [
@@ -47,16 +67,6 @@
     [
       "The answer is 42! Fedora Linux 42, that is",
       "https://fedoramagazine.org/announcing-fedora-linux-42/"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 19:19:09",
-      "https://lobste.rs/s/exz5ne/understanding_how_claude_thinks"
-    ],
-    [
-      "Understanding How Claude Thinks",
-      "https://www.narrativeengine.co.uk/hosted/claude.html"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "The Post-Developer Era",
       "https://www.joshwcomeau.com/blog/the-post-developer-era/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 15:37:32",
-      "https://lobste.rs/s/wesv0k/git_remote_http_is_linked_against"
-    ],
-    [
-      "git-remote-http is linked against incompatibly licensed OpenSSL",
-      "https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969"
     ]
   ],
   [
