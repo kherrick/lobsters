@@ -1,11 +1,12 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-16, 00:47:38](https://lobste.rs/s/kwq4ih/story_behind_k2_mode_how_it_works_intellij) - [The Story Behind K2 Mode and How It Works | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/)
 * [2025-04-15, 22:39:18](https://lobste.rs/s/vcomeh/company_s_surveillance_tech_makes) - [Company's Surveillance Tech Makes Immigrants 'Easy Pickings'](https://web.archive.org/web/20250415024529/https://www.nytimes.com/2025/04/14/technology/trump-immigration-tech-geo-group.html)
+* [2025-04-15, 22:01:15](https://lobste.rs/s/kuyvda/flowing_webgl_gradient_deconstructed) - [A flowing WebGL gradient, deconstructed](https://alexharri.com/blog/webgl-gradients)
 * [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
 * [2025-04-15, 21:43:45](https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one) - [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
 * [2025-04-15, 19:51:49](https://lobste.rs/s/ntxtm8/introduction_modern_cmake) - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
 * [2025-04-15, 19:19:21](https://lobste.rs/s/izbyyg/answer_is_42_fedora_linux_42_is) - [The answer is 42! Fedora Linux 42, that is](https://fedoramagazine.org/announcing-fedora-linux-42/)
-* [2025-04-15, 19:19:09](https://lobste.rs/s/exz5ne/understanding_how_claude_thinks) - [Understanding How Claude Thinks](https://www.narrativeengine.co.uk/hosted/claude.html)
 * [2025-04-15, 19:03:31](https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork) - [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html)
 * [2025-04-15, 17:02:06](https://lobste.rs/s/txoqvc/clolog) - [clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
@@ -23,7 +24,6 @@
 * [2025-04-14, 23:05:01](https://lobste.rs/s/pj7iwf/stevens_hackable_ai_assistant_using) - [Stevens: a hackable AI assistant using a single SQLite table and a handful of cron jobs](https://www.geoffreylitt.com/2025/04/12/how-i-made-a-useful-ai-assistant-with-one-sqlite-table-and-a-handful-of-cron-jobs.html)
 * [2025-04-14, 20:39:16](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries) - [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
 * [2025-04-14, 15:46:37](https://lobste.rs/s/9djblo/post_developer_era) - [The Post-Developer Era](https://www.joshwcomeau.com/blog/the-post-developer-era/)
-* [2025-04-14, 15:37:32](https://lobste.rs/s/wesv0k/git_remote_http_is_linked_against) - [git-remote-http is linked against incompatibly licensed OpenSSL](https://bugs.debian.org/cgi-bin/bugreport.cgi?bug=1094969)
 * [2025-04-14, 13:49:11](https://lobste.rs/s/2roosx/gleam_v1_10_0_released) - [Gleam v1.10.0 released](https://gleam.run/news/global-rename-and-find-references/)
 
 ## [Archives](archives/index.md)

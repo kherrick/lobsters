@@ -1,0 +1,7 @@
+# [Lobsters](../../../README.md)
+
+## [Archives](../../index.md) for [2025](../index.md)
+
+### [Archives](../../index.md) for [2025-04-16](index.md)
+
+* [2025-04-16, 00:47:38](https://lobste.rs/s/kwq4ih/story_behind_k2_mode_how_it_works_intellij) - [The Story Behind K2 Mode and How It Works | The IntelliJ IDEA Blog](https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/)
