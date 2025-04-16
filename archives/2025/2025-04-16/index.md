@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 15:16:47](https://lobste.rs/s/dbkvz5/what_every_programmer_should_know_about) - [What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-04-16, 14:53:35](https://lobste.rs/s/20ftu1/swank_decorators_python_inspired) - [swank-decorators: Python-inspired decorators for Ruby](https://github.com/samanthaoldenburg/swank-decorators)
 * [2025-04-16, 14:21:33](https://lobste.rs/s/a6t2gj/cisa_extends_funding_ensure_no_lapse) - [CISA extends funding to ensure 'no lapse in critical CVE services'](https://www.bleepingcomputer.com/news/security/cisa-extends-funding-to-ensure-no-lapse-in-critical-cve-services/)
 * [2025-04-16, 13:56:22](https://lobste.rs/s/7kfh2b/crimes_felonies_hp_quicklook_daystarter) - [Crimes... And Felonies. [HP QuickLook and Daystarter]](https://www.youtube.com/watch?v=ssob-7sGVWs)

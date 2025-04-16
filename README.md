@@ -1,9 +1,9 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-16, 15:16:47](https://lobste.rs/s/dbkvz5/what_every_programmer_should_know_about) - [What Every Programmer Should Know about How CPUs Work • Matt Godbolt • GOTO 2024](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-04-16, 14:53:35](https://lobste.rs/s/20ftu1/swank_decorators_python_inspired) - [swank-decorators: Python-inspired decorators for Ruby](https://github.com/samanthaoldenburg/swank-decorators)
 * [2025-04-16, 13:56:22](https://lobste.rs/s/7kfh2b/crimes_felonies_hp_quicklook_daystarter) - [Crimes... And Felonies. [HP QuickLook and Daystarter]](https://www.youtube.com/watch?v=ssob-7sGVWs)
 * [2025-04-16, 13:40:35](https://lobste.rs/s/mate8e/3_year_journey_actually_good_monitoring) - [The 3-Year Journey to an Actually Good Monitoring Stack](https://phare.io/blog/the-3-year-journey-to-an-actually-good-monitoring-stack/)
-* [2025-04-16, 12:51:38](https://lobste.rs/s/zpbek0/herb_powerful_seamless_html_aware_erb) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
 * [2025-04-16, 12:50:55](https://lobste.rs/s/8m9nmf/introducing_herb_new_html_aware_erb) - [Introducing Herb: A new HTML-Aware ERB Parser for smarting developer tooling](https://marcoroth.dev/posts/introducing-herb)
 * [2025-04-16, 09:21:25](https://lobste.rs/s/logmct/update_on_spain_laliga_blocks_internet) - [Update on Spain and LaLiga blocks of the internet](https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet)
 * [2025-04-16, 07:55:15](https://lobste.rs/s/cuqoyf/how_build_agent) - [How To Build An Agent](https://ampcode.com/how-to-build-an-agent)
