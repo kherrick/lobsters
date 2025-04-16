@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-16, 03:20:06",
+      "https://lobste.rs/s/kxi58j/jsx_over_wire"
+    ],
+    [
+      "JSX Over The Wire",
+      "https://overreacted.io/jsx-over-the-wire/"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 03:08:22",
+      "https://lobste.rs/s/lvocko/dangerous_arbitrary_file_read"
+    ],
+    [
+      "Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)",
+      "https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 02:00:32",
       "https://lobste.rs/s/hscqec/atomicless_concurrency_2023"
     ],
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-04-15, 13:29:21",
-      "https://lobste.rs/s/def3a8/ahoy_european_social_web_day_2025"
-    ],
-    [
-      "AHOY! European Social Web Day 2025",
-      "https://ahoy.eu"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 12:35:59",
       "https://lobste.rs/s/v7lsrv/two_years_rust"
     ],
@@ -227,16 +237,6 @@
     [
       "A 2025 Survey of Rust GUI Libraries",
       "https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 15:46:37",
-      "https://lobste.rs/s/9djblo/post_developer_era"
-    ],
-    [
-      "The Post-Developer Era",
-      "https://www.joshwcomeau.com/blog/the-post-developer-era/"
     ]
   ],
   [
