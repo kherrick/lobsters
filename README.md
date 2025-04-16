@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-16, 14:53:35](https://lobste.rs/s/20ftu1/swank_decorators_python_inspired) - [swank-decorators: Python-inspired decorators for Ruby](https://github.com/samanthaoldenburg/swank-decorators)
 * [2025-04-16, 13:56:22](https://lobste.rs/s/7kfh2b/crimes_felonies_hp_quicklook_daystarter) - [Crimes... And Felonies. [HP QuickLook and Daystarter]](https://www.youtube.com/watch?v=ssob-7sGVWs)
 * [2025-04-16, 13:40:35](https://lobste.rs/s/mate8e/3_year_journey_actually_good_monitoring) - [The 3-Year Journey to an Actually Good Monitoring Stack](https://phare.io/blog/the-3-year-journey-to-an-actually-good-monitoring-stack/)
 * [2025-04-16, 12:51:38](https://lobste.rs/s/zpbek0/herb_powerful_seamless_html_aware_erb) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
@@ -23,7 +24,6 @@
 * [2025-04-15, 14:27:17](https://lobste.rs/s/axopcj/you_cannot_have_our_user_s_data) - [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 04:03:23](https://lobste.rs/s/ofacpc/what_hell_is_target_triple) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
-* [2025-04-15, 00:27:31](https://lobste.rs/s/snvzsl/problem_with_vibe_coding) - [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
 * [2025-04-14, 20:39:16](https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries) - [A 2025 Survey of Rust GUI Libraries](https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html)
 
 ## [Archives](archives/index.md)
