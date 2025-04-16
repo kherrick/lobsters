@@ -1,22 +1,32 @@
 [
   [
     [
+      "2025-04-16, 12:51:38",
+      "https://lobste.rs/s/zpbek0/herb_powerful_seamless_html_aware_erb"
+    ],
+    [
+      "Herb: Powerful and seamless HTML-aware ERB parsing and tooling",
+      "https://herb-tools.dev/"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 12:50:55",
+      "https://lobste.rs/s/8m9nmf/introducing_herb_new_html_aware_erb"
+    ],
+    [
+      "Introducing Herb: A new HTML-Aware ERB Parser for smarting developer tooling",
+      "https://marcoroth.dev/posts/introducing-herb"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 09:21:25",
       "https://lobste.rs/s/logmct/update_on_spain_laliga_blocks_internet"
     ],
     [
       "Update on Spain and LaLiga blocks of the internet",
       "https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 08:03:33",
-      "https://lobste.rs/s/sm0w7w/supercharge_your_tests_with_snapshot"
-    ],
-    [
-      "Supercharge your Tests with Snapshot Testing",
-      "https://www.youtube.com/watch?v=DpakV96jeRk"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "The answer is 42! Fedora Linux 42, that is",
       "https://fedoramagazine.org/announcing-fedora-linux-42/"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 19:03:31",
-      "https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork"
-    ],
-    [
-      "Ursa - ClickHouse Research Fork",
-      "https://maksimkita.com/blog/ursa-clickhouse-research-fork.html"
     ]
   ],
   [
