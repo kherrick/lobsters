@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-16, 15:35:18",
+      "https://lobste.rs/s/45ob1t/reproducing_hacker_news_writing_style"
+    ],
+    [
+      "Reproducing Hacker News writing style fingerprinting - <antirez>",
+      "https://antirez.com/news/150"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 15:16:47",
       "https://lobste.rs/s/dbkvz5/what_every_programmer_should_know_about"
     ],
@@ -237,16 +247,6 @@
     [
       "What the Hell Is a Target Triple?",
       "https://mcyoung.xyz/2025/04/14/target-triples/"
-    ]
-  ],
-  [
-    [
-      "2025-04-14, 20:39:16",
-      "https://lobste.rs/s/ae3r4j/2025_survey_rust_gui_libraries"
-    ],
-    [
-      "A 2025 Survey of Rust GUI Libraries",
-      "https://www.boringcactus.com/2025/04/13/2025-survey-of-rust-gui-libraries.html"
     ]
   ]
 ]
