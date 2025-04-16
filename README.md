@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-16, 07:55:15](https://lobste.rs/s/cuqoyf/how_build_agent) - [How To Build An Agent](https://ampcode.com/how-to-build-an-agent)
 * [2025-04-16, 06:10:40](https://lobste.rs/s/iuydj6/go_away_another_http_proxy_for_llm_scraper) - [go-away (another http proxy for LLM scraper defence)](https://git.gammaspectra.live/git/go-away#why)
 * [2025-04-16, 05:54:55](https://lobste.rs/s/jrdlkp/raw_loops_for_performance) - [Raw loops for performance?](https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance)
 * [2025-04-16, 03:20:06](https://lobste.rs/s/kxi58j/jsx_over_wire) - [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
@@ -18,7 +19,6 @@
 * [2025-04-15, 14:33:28](https://lobste.rs/s/llywoj/aerynos) - [AerynOS](https://aerynos.com/)
 * [2025-04-15, 14:27:17](https://lobste.rs/s/axopcj/you_cannot_have_our_user_s_data) - [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
 * [2025-04-15, 13:41:12](https://lobste.rs/s/ta5a6w/flambda2_ep_4_how_write_purely_functional) - [Flambda2 Ep. 4: How to write a purely functional compiler](https://ocamlpro.com/blog/2025_02_19_the_flambda2_snippets_4/)
-* [2025-04-15, 13:38:56](https://lobste.rs/s/z2jhoc/what_makes_great_developer_experience) - [What Makes a Great Developer Experience?](https://www.codesimplicity.com/post/what-makes-a-great-developer-experience/)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 * [2025-04-15, 04:03:23](https://lobste.rs/s/ofacpc/what_hell_is_target_triple) - [What the Hell Is a Target Triple?](https://mcyoung.xyz/2025/04/14/target-triples/)
 * [2025-04-15, 00:27:31](https://lobste.rs/s/snvzsl/problem_with_vibe_coding) - [The Problem with “Vibe Coding”](https://dylanbeattie.net/2025/04/11/the-problem-with-vibe-coding.html)
