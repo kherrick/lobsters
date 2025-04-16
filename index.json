@@ -31,6 +31,16 @@
   ],
   [
     [
+      "2025-04-16, 18:50:20",
+      "https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your"
+    ],
+    [
+      "codex: Lightweight coding agent that runs in your terminal",
+      "https://github.com/openai/codex"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 18:42:03",
       "https://lobste.rs/s/z10qpb/resonate"
     ],
@@ -237,16 +247,6 @@
     [
       "Two Years of Rust",
       "https://borretti.me/article/two-years-of-rust"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 04:03:23",
-      "https://lobste.rs/s/ofacpc/what_hell_is_target_triple"
-    ],
-    [
-      "What the Hell Is a Target Triple?",
-      "https://mcyoung.xyz/2025/04/14/target-triples/"
     ]
   ]
 ]
