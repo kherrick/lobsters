@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-16, 12:51:38](https://lobste.rs/s/zpbek0/herb_powerful_seamless_html_aware_erb) - [Herb: Powerful and seamless HTML-aware ERB parsing and tooling](https://herb-tools.dev/)
+* [2025-04-16, 12:50:55](https://lobste.rs/s/8m9nmf/introducing_herb_new_html_aware_erb) - [Introducing Herb: A new HTML-Aware ERB Parser for smarting developer tooling](https://marcoroth.dev/posts/introducing-herb)
 * [2025-04-16, 09:21:25](https://lobste.rs/s/logmct/update_on_spain_laliga_blocks_internet) - [Update on Spain and LaLiga blocks of the internet](https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet)
-* [2025-04-16, 08:03:33](https://lobste.rs/s/sm0w7w/supercharge_your_tests_with_snapshot) - [Supercharge your Tests with Snapshot Testing](https://www.youtube.com/watch?v=DpakV96jeRk)
 * [2025-04-16, 07:55:15](https://lobste.rs/s/cuqoyf/how_build_agent) - [How To Build An Agent](https://ampcode.com/how-to-build-an-agent)
 * [2025-04-16, 06:10:40](https://lobste.rs/s/iuydj6/go_away_another_http_proxy_for_llm_scraper) - [go-away (another http proxy for LLM scraper defence)](https://git.gammaspectra.live/git/go-away#why)
 * [2025-04-16, 05:54:55](https://lobste.rs/s/jrdlkp/raw_loops_for_performance) - [Raw loops for performance?](https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance)
@@ -14,7 +15,6 @@
 * [2025-04-15, 21:43:45](https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one) - [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
 * [2025-04-15, 19:51:49](https://lobste.rs/s/ntxtm8/introduction_modern_cmake) - [An Introduction to Modern CMake](https://cliutils.gitlab.io/modern-cmake/README.html)
 * [2025-04-15, 19:19:21](https://lobste.rs/s/izbyyg/answer_is_42_fedora_linux_42_is) - [The answer is 42! Fedora Linux 42, that is](https://fedoramagazine.org/announcing-fedora-linux-42/)
-* [2025-04-15, 19:03:31](https://lobste.rs/s/ozyaeh/ursa_clickhouse_research_fork) - [Ursa - ClickHouse Research Fork](https://maksimkita.com/blog/ursa-clickhouse-research-fork.html)
 * [2025-04-15, 17:02:06](https://lobste.rs/s/txoqvc/clolog) - [clolog](https://github.com/bobschrag/clolog)
 * [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
 * [2025-04-15, 15:47:06](https://lobste.rs/s/axmvfz/when_life_gives_you_java) - [When Life Gives You Java](https://oblac.rs/2025-04-15-when-life-gives-you-java/)
