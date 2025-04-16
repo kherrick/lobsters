@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-16, 16:41:54",
+      "https://lobste.rs/s/1cfddf/intro_deepseek_s_distributed_file_system"
+    ],
+    [
+      "An Intro to DeepSeek's Distributed File System",
+      "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/"
+    ]
+  ],
+  [
+    [
+      "2025-04-16, 16:39:35",
+      "https://lobste.rs/s/f87ptp/mastodon_exit_interview"
+    ],
+    [
+      "Mastodon Exit Interview",
+      "https://v.cx/2025/04/mastodon-exit-interview"
+    ]
+  ],
+  [
+    [
       "2025-04-16, 15:55:40",
       "https://lobste.rs/s/vsznsx/getting_better_performance_out_object"
     ],
@@ -141,16 +161,6 @@
   ],
   [
     [
-      "2025-04-15, 22:01:15",
-      "https://lobste.rs/s/kuyvda/flowing_webgl_gradient_deconstructed"
-    ],
-    [
-      "A flowing WebGL gradient, deconstructed",
-      "https://alexharri.com/blog/webgl-gradients"
-    ]
-  ],
-  [
-    [
       "2025-04-15, 21:51:33",
       "https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves"
     ],
@@ -177,16 +187,6 @@
     [
       "An Introduction to Modern CMake",
       "https://cliutils.gitlab.io/modern-cmake/README.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 19:19:21",
-      "https://lobste.rs/s/izbyyg/answer_is_42_fedora_linux_42_is"
-    ],
-    [
-      "The answer is 42! Fedora Linux 42, that is",
-      "https://fedoramagazine.org/announcing-fedora-linux-42/"
     ]
   ],
   [
