@@ -4,9 +4,11 @@
 
 ### [Archives](../../index.md) for [2025-04-16](index.md)
 
+* [2025-04-16, 19:05:48](https://lobste.rs/s/k81ayk/northguard_scalable_log_storage_at) - [Northguard: Scalable Log Storage at Linkedin](https://blog.typeobject.com/posts/2025-northguard-announcement/)
 * [2025-04-16, 18:50:20](https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your) - [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 * [2025-04-16, 18:42:03](https://lobste.rs/s/z10qpb/resonate) - [Resonate](https://alexandrefrancois.org/Resonate/)
 * [2025-04-16, 18:34:40](https://lobste.rs/s/figswp/tls_certificate_lifetimes_will) - [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
+* [2025-04-16, 17:09:31](https://lobste.rs/s/ysnxuq/torque_lightweight_meta_assembler_for) - [Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
 * [2025-04-16, 16:41:54](https://lobste.rs/s/1cfddf/intro_deepseek_s_distributed_file_system) - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-16, 16:39:35](https://lobste.rs/s/f87ptp/mastodon_exit_interview) - [Mastodon Exit Interview](https://v.cx/2025/04/mastodon-exit-interview)
 * [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)

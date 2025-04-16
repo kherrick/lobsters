@@ -1,7 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-16, 18:50:20](https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your) - [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
+* [2025-04-16, 19:05:48](https://lobste.rs/s/k81ayk/northguard_scalable_log_storage_at) - [Northguard: Scalable Log Storage at Linkedin](https://blog.typeobject.com/posts/2025-northguard-announcement/)
 * [2025-04-16, 18:42:03](https://lobste.rs/s/z10qpb/resonate) - [Resonate](https://alexandrefrancois.org/Resonate/)
+* [2025-04-16, 17:09:31](https://lobste.rs/s/ysnxuq/torque_lightweight_meta_assembler_for) - [Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
 * [2025-04-16, 16:41:54](https://lobste.rs/s/1cfddf/intro_deepseek_s_distributed_file_system) - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
 * [2025-04-16, 16:39:35](https://lobste.rs/s/f87ptp/mastodon_exit_interview) - [Mastodon Exit Interview](https://v.cx/2025/04/mastodon-exit-interview)
 * [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
@@ -14,7 +15,6 @@
 * [2025-04-16, 05:54:55](https://lobste.rs/s/jrdlkp/raw_loops_for_performance) - [Raw loops for performance?](https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance)
 * [2025-04-16, 03:20:06](https://lobste.rs/s/kxi58j/jsx_over_wire) - [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
 * [2025-04-16, 03:08:22](https://lobste.rs/s/lvocko/dangerous_arbitrary_file_read) - [Dangerous Arbitrary File Read Vulnerability in Yelp (CVE-2025-3155)](https://blogs.gnome.org/mcatanzaro/2025/04/15/dangerous-arbitrary-file-read-vulnerability-in-yelp-cve-2025-3155/)
-* [2025-04-16, 02:00:32](https://lobste.rs/s/hscqec/atomicless_concurrency_2023) - [Atomicless Concurrency (2023)](https://mcyoung.xyz/2023/03/29/rseq-checkout/)
 * [2025-04-16, 00:47:38](https://lobste.rs/s/kwq4ih/story_behind_k2_mode_how_it_works) - [The Story Behind K2 Mode and How It Works](https://blog.jetbrains.com/idea/2025/04/the-story-behind-k2-mode-and-how-it-works/)
 * [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
 * [2025-04-15, 21:43:45](https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one) - [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
