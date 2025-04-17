@@ -101,6 +101,16 @@
   ],
   [
     [
+      "2025-04-17, 04:10:59",
+      "https://lobste.rs/s/fah9zj/isolated_execution_environment_for_ebpf"
+    ],
+    [
+      "Isolated Execution Environment for eBPF",
+      "https://ebpf.foundation/research-update-isolated-execution-environment-for-ebpf/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 03:53:19",
       "https://lobste.rs/s/idtroe/unsure_calculator"
     ],
@@ -147,16 +157,6 @@
     [
       "tariff: The GREATEST, most TREMENDOUS Python package that makes importing great again",
       "https://github.com/hxu296/tariff"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 19:43:11",
-      "https://lobste.rs/s/xkldrv/learning_fennel_from_scratch_develop"
-    ],
-    [
-      "Learning Fennel from Scratch to Develop Neovim Plugins",
-      "https://lambdaisland.com/blog/2025-04-16-fennel"
     ]
   ],
   [
