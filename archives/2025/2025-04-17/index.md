@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 17:31:17](https://lobste.rs/s/xbqz55/anticrawl_another_ai_crawler_defence) - [anticrawl - another AI crawler defence](https://humungus.tedunangst.com/r/anticrawl)
 * [2025-04-17, 16:59:35](https://lobste.rs/s/hp0kk4/matrix_calculus_for_machine_learning) - [Matrix Calculus for Machine Learning and Beyond](https://github.com/mitmath/matrixcalc)
 * [2025-04-17, 16:39:29](https://lobste.rs/s/xycbbj/how_create_use_program_libraries_on_linux) - [How to create and use program libraries on Linux (2003)](https://tldp.org/HOWTO/pdf/Program-Library-HOWTO.pdf)
 * [2025-04-17, 16:33:15](https://lobste.rs/s/quf2zn/hdr_infused_emoji) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
