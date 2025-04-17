@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-17, 03:53:19](https://lobste.rs/s/idtroe/unsure_calculator) - [Unsure Calculator](https://filiph.github.io/unsure/)
 * [2025-04-17, 02:51:04](https://lobste.rs/s/kckhbq/sqlc_generate_type_safe_code_from_sql) - [sqlc: Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
 * [2025-04-17, 01:45:08](https://lobste.rs/s/eiannc/practical_hacker_s_guide_c_programming) - [A practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 * [2025-04-16, 22:24:57](https://lobste.rs/s/bezwfp/all_databases_are_just_files_postgres_too) - [(All) Databases Are Just Files. Postgres Too](http://tselai.com/all-databases-are-just-files)
@@ -7,7 +8,6 @@
 * [2025-04-16, 20:52:51](https://lobste.rs/s/n3h8pr/tariff_greatest_most_tremendous_python) - [tariff: The GREATEST, most TREMENDOUS Python package that makes importing great again](https://github.com/hxu296/tariff)
 * [2025-04-16, 19:43:11](https://lobste.rs/s/xkldrv/learning_fennel_from_scratch_develop) - [Learning Fennel from Scratch to Develop Neovim Plugins](https://lambdaisland.com/blog/2025-04-16-fennel)
 * [2025-04-16, 19:37:12](https://lobste.rs/s/9tiirp/lifecycle_pull_request) - [the lifecycle of a pull request](https://blog.tangled.sh/pulls)
-* [2025-04-16, 18:50:20](https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your) - [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
 * [2025-04-16, 18:42:03](https://lobste.rs/s/z10qpb/resonate) - [Resonate](https://alexandrefrancois.org/Resonate/)
 * [2025-04-16, 18:34:40](https://lobste.rs/s/figswp/tls_certificate_lifetimes_will) - [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-16, 17:09:31](https://lobste.rs/s/ysnxuq/torque_lightweight_meta_assembler_for) - [Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
