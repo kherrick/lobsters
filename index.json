@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-17, 10:26:00",
+      "https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm"
+    ],
+    [
+      "Development On Apple Silicon with UTM",
+      "https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 09:23:08",
       "https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers"
     ],
@@ -107,16 +117,6 @@
     [
       "the lifecycle of a pull request",
       "https://blog.tangled.sh/pulls"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 18:50:20",
-      "https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your"
-    ],
-    [
-      "codex: Lightweight coding agent that runs in your terminal",
-      "https://github.com/openai/codex"
     ]
   ],
   [
