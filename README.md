@@ -1,11 +1,11 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-17, 13:53:16](https://lobste.rs/s/fl7ly9/traceboot_precise_lightweight_tracing) - [traceboot: precise and lightweight tracing for boot and shell scripts](https://codeberg.org/SpecialSnowflake/traceboot)
 * [2025-04-17, 13:42:15](https://lobste.rs/s/hbevmo/concurrency_haskell_fast_simple_correct) - [Concurrency in Haskell: Fast, Simple, Correct](https://bitbashing.io/haskell-concurrency.html)
 * [2025-04-17, 13:41:49](https://lobste.rs/s/gfwhrz/everyone_knows_your_location_part_2_try_it) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 13:31:24](https://lobste.rs/s/k0bswx/arch_linux_valkey_replace_redis_extra) - [Arch Linux: Valkey to replace Redis in the [extra] Repository](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/)
 * [2025-04-17, 13:17:20](https://lobste.rs/s/x4xlid/integrating_effectful_persistent) - [Integrating Effectful and Persistent](https://exploring-better-ways.bellroy.com/integrating-effectful-and-persistent.html)
 * [2025-04-17, 12:28:49](https://lobste.rs/s/bucpth/graham_synchronizing_clocks_by) - [Graham: Synchronizing Clocks by Leveraging Local Clock Properties](https://www.usenix.org/conference/nsdi22/presentation/najafi)
-* [2025-04-17, 11:30:34](https://lobste.rs/s/p0bcjw/passing_planes_other_whoosh_sounds) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
 * [2025-04-17, 10:26:00](https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm) - [Development On Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 * [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 * [2025-04-17, 09:21:34](https://lobste.rs/s/ysq9w3/regular_expression_derivatives_python) - [Regular Expression Derivatives in Python](https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf)
