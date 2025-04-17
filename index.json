@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-17, 13:58:14",
+      "https://lobste.rs/s/c4u4zv/ios_18_4_dlsym_considered_harmful"
+    ],
+    [
+      "iOS 18.4 - dlsym considered harmful",
+      "https://www.synacktiv.com/en/publications/ios-184-dlsym-considered-harmful"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 13:53:16",
       "https://lobste.rs/s/fl7ly9/traceboot_precise_lightweight_tracing"
     ],
@@ -51,16 +61,6 @@
   ],
   [
     [
-      "2025-04-17, 12:28:49",
-      "https://lobste.rs/s/bucpth/graham_synchronizing_clocks_by"
-    ],
-    [
-      "Graham: Synchronizing Clocks by Leveraging Local Clock Properties",
-      "https://www.usenix.org/conference/nsdi22/presentation/najafi"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 10:26:00",
       "https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm"
     ],
@@ -87,6 +87,16 @@
     [
       "Regular Expression Derivatives in Python",
       "https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 04:10:59",
+      "https://lobste.rs/s/fah9zj/isolated_execution_environment_for_ebpf"
+    ],
+    [
+      "Isolated Execution Environment for eBPF",
+      "https://ebpf.foundation/research-update-isolated-execution-environment-for-ebpf/"
     ]
   ],
   [
@@ -227,16 +237,6 @@
     [
       "Update on Spain and LaLiga blocks of the internet",
       "https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 06:10:40",
-      "https://lobste.rs/s/iuydj6/go_away_another_http_proxy_for_llm_scraper"
-    ],
-    [
-      "go-away (another http proxy for LLM scraper defence)",
-      "https://git.gammaspectra.live/git/go-away#why"
     ]
   ],
   [
