@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-17, 13:31:24",
+      "https://lobste.rs/s/k0bswx/arch_linux_valkey_replace_redis_extra"
+    ],
+    [
+      "Arch Linux: Valkey to replace Redis in the [extra] Repository",
+      "https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 13:17:20",
+      "https://lobste.rs/s/x4xlid/integrating_effectful_persistent"
+    ],
+    [
+      "Integrating Effectful and Persistent",
+      "https://exploring-better-ways.bellroy.com/integrating-effectful-and-persistent.html"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 12:28:49",
       "https://lobste.rs/s/bucpth/graham_synchronizing_clocks_by"
     ],
@@ -91,16 +111,6 @@
   ],
   [
     [
-      "2025-04-17, 01:45:08",
-      "https://lobste.rs/s/eiannc/practical_hacker_s_guide_c_programming"
-    ],
-    [
-      "A practical hacker's guide to the C programming language",
-      "https://github.com/codr7/hacktical-c"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 22:24:57",
       "https://lobste.rs/s/bezwfp/all_databases_are_just_files_postgres_too"
     ],
@@ -157,16 +167,6 @@
     [
       "TLS Certificate Lifetimes Will Officially Reduce to 47 Days",
       "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 17:09:31",
-      "https://lobste.rs/s/ysnxuq/torque_lightweight_meta_assembler_for"
-    ],
-    [
-      "Torque – A lightweight meta-assembler for any processor",
-      "https://benbridle.com/projects/torque.html"
     ]
   ],
   [
