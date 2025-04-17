@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-04-17, 02:51:04",
+      "https://lobste.rs/s/kckhbq/sqlc_generate_type_safe_code_from_sql"
+    ],
+    [
+      "sqlc: Generate type-safe code from SQL",
+      "https://github.com/sqlc-dev/sqlc"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 01:45:08",
       "https://lobste.rs/s/eiannc/practical_hacker_s_guide_c_programming"
     ],
@@ -227,16 +237,6 @@
     [
       "MITRE will stop issuing new CVEs",
       "https://infosec.exchange/@briankrebs/114343835430587973"
-    ]
-  ],
-  [
-    [
-      "2025-04-15, 21:43:45",
-      "https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one"
-    ],
-    [
-      "Cutting Down Rust Compile Times With One Thousand Crates",
-      "https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates"
     ]
   ],
   [
