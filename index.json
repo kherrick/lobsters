@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-17, 13:53:16",
+      "https://lobste.rs/s/fl7ly9/traceboot_precise_lightweight_tracing"
+    ],
+    [
+      "traceboot: precise and lightweight tracing for boot and shell scripts",
+      "https://codeberg.org/SpecialSnowflake/traceboot"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 13:42:15",
       "https://lobste.rs/s/hbevmo/concurrency_haskell_fast_simple_correct"
     ],
@@ -47,16 +57,6 @@
     [
       "Graham: Synchronizing Clocks by Leveraging Local Clock Properties",
       "https://www.usenix.org/conference/nsdi22/presentation/najafi"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 11:30:34",
-      "https://lobste.rs/s/p0bcjw/passing_planes_other_whoosh_sounds"
-    ],
-    [
-      "Passing planes and other whoosh sounds",
-      "https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html"
     ]
   ],
   [
