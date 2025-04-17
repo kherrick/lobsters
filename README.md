@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-17, 12:28:49](https://lobste.rs/s/bucpth/graham_synchronizing_clocks_by) - [Graham: Synchronizing Clocks by Leveraging Local Clock Properties](https://www.usenix.org/conference/nsdi22/presentation/najafi)
 * [2025-04-17, 11:30:34](https://lobste.rs/s/p0bcjw/passing_planes_other_whoosh_sounds) - [Passing planes and other whoosh sounds](https://www.windytan.com/2025/04/passing-planes-and-other-whoosh-sounds.html)
 * [2025-04-17, 11:19:01](https://lobste.rs/s/rnz0zs/investigating_truthfulness_pre_release) - [Investigating truthfulness in a pre-release o3 model](https://transluce.org/investigating-o3-truthfulness)
 * [2025-04-17, 10:26:00](https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm) - [Development On Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
@@ -21,7 +22,6 @@
 * [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 15:55:40](https://lobste.rs/s/vsznsx/getting_better_performance_out_object) - [Getting better performance out of object storage](https://spiraldb.com/post/so-you-want-to-use-object-storage)
 * [2025-04-16, 15:35:18](https://lobste.rs/s/45ob1t/reproducing_hacker_news_writing_style) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
-* [2025-04-16, 15:16:47](https://lobste.rs/s/dbkvz5/what_every_programmer_should_know_about) - [What Every Programmer Should Know about How CPUs Work](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-04-16, 09:21:25](https://lobste.rs/s/logmct/update_on_spain_laliga_blocks_internet) - [Update on Spain and LaLiga blocks of the internet](https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet)
 * [2025-04-16, 06:10:40](https://lobste.rs/s/iuydj6/go_away_another_http_proxy_for_llm_scraper) - [go-away (another http proxy for LLM scraper defence)](https://git.gammaspectra.live/git/go-away#why)
 * [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
