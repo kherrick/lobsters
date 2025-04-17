@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
+* [2025-04-17, 09:21:34](https://lobste.rs/s/ysq9w3/regular_expression_derivatives_python) - [Regular Expression Derivatives in Python](https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf)
 * [2025-04-17, 04:10:59](https://lobste.rs/s/fah9zj/isolated_execution_environment_for_ebpf) - [Isolated Execution Environment for eBPF](https://ebpf.foundation/research-update-isolated-execution-environment-for-ebpf/)
 * [2025-04-17, 03:53:19](https://lobste.rs/s/idtroe/unsure_calculator) - [Unsure Calculator](https://filiph.github.io/unsure/)
 * [2025-04-17, 02:51:04](https://lobste.rs/s/kckhbq/sqlc_generate_type_safe_code_from_sql) - [sqlc: Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
@@ -10,7 +12,6 @@
 * [2025-04-16, 19:43:11](https://lobste.rs/s/xkldrv/learning_fennel_from_scratch_develop) - [Learning Fennel from Scratch to Develop Neovim Plugins](https://lambdaisland.com/blog/2025-04-16-fennel)
 * [2025-04-16, 19:37:12](https://lobste.rs/s/9tiirp/lifecycle_pull_request) - [the lifecycle of a pull request](https://blog.tangled.sh/pulls)
 * [2025-04-16, 18:50:20](https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your) - [codex: Lightweight coding agent that runs in your terminal](https://github.com/openai/codex)
-* [2025-04-16, 18:42:03](https://lobste.rs/s/z10qpb/resonate) - [Resonate](https://alexandrefrancois.org/Resonate/)
 * [2025-04-16, 18:34:40](https://lobste.rs/s/figswp/tls_certificate_lifetimes_will) - [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-16, 17:09:31](https://lobste.rs/s/ysnxuq/torque_lightweight_meta_assembler_for) - [Torque – A lightweight meta-assembler for any processor](https://benbridle.com/projects/torque.html)
 * [2025-04-16, 16:41:54](https://lobste.rs/s/1cfddf/intro_deepseek_s_distributed_file_system) - [An Intro to DeepSeek's Distributed File System](https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/)
@@ -21,7 +22,6 @@
 * [2025-04-16, 15:16:47](https://lobste.rs/s/dbkvz5/what_every_programmer_should_know_about) - [What Every Programmer Should Know about How CPUs Work](https://www.youtube.com/watch?v=-HNpim5x-IE)
 * [2025-04-16, 09:21:25](https://lobste.rs/s/logmct/update_on_spain_laliga_blocks_internet) - [Update on Spain and LaLiga blocks of the internet](https://vercel.com/blog/update-on-spain-and-laliga-blocks-of-the-internet)
 * [2025-04-16, 06:10:40](https://lobste.rs/s/iuydj6/go_away_another_http_proxy_for_llm_scraper) - [go-away (another http proxy for LLM scraper defence)](https://git.gammaspectra.live/git/go-away#why)
-* [2025-04-16, 05:54:55](https://lobste.rs/s/jrdlkp/raw_loops_for_performance) - [Raw loops for performance?](https://www.sandordargo.com/blog/2025/04/16/raw-loops-for-performance)
 * [2025-04-16, 03:20:06](https://lobste.rs/s/kxi58j/jsx_over_wire) - [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
 * [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
