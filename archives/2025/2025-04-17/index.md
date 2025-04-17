@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 17:52:42](https://lobste.rs/s/lkrinq/just_throw_it_into_postgres) - [Just Throw It Into Postgres](https://simonsafar.com/2025/throw_it_into_postgres/)
 * [2025-04-17, 17:31:17](https://lobste.rs/s/xbqz55/anticrawl_another_ai_crawler_defence) - [anticrawl - another AI crawler defence](https://humungus.tedunangst.com/r/anticrawl)
 * [2025-04-17, 16:59:35](https://lobste.rs/s/hp0kk4/matrix_calculus_for_machine_learning) - [Matrix Calculus for Machine Learning and Beyond](https://github.com/mitmath/matrixcalc)
 * [2025-04-17, 16:39:29](https://lobste.rs/s/xycbbj/how_create_use_program_libraries_on_linux) - [How to create and use program libraries on Linux (2003)](https://tldp.org/HOWTO/pdf/Program-Library-HOWTO.pdf)
