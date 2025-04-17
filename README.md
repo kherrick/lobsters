@@ -1,6 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-17, 16:39:29](https://lobste.rs/s/xycbbj/how_create_use_program_libraries_on_linux) - [How to create and use program libraries on Linux (2003)](https://tldp.org/HOWTO/pdf/Program-Library-HOWTO.pdf)
+* [2025-04-17, 16:59:35](https://lobste.rs/s/hp0kk4/matrix_calculus_for_machine_learning) - [Matrix Calculus for Machine Learning and Beyond](https://github.com/mitmath/matrixcalc)
 * [2025-04-17, 16:33:15](https://lobste.rs/s/quf2zn/hdr_infused_emoji) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
 * [2025-04-17, 16:16:19](https://lobste.rs/s/laksbh/is_no_paas_really_good_idea_for_rails) - [Is No PaaS really a good idea for Rails?](https://www.honeybadger.io/blog/rails-no-paas/)
 * [2025-04-17, 13:58:14](https://lobste.rs/s/c4u4zv/ios_18_4_dlsym_considered_harmful) - [iOS 18.4 - dlsym considered harmful](https://www.synacktiv.com/en/publications/ios-184-dlsym-considered-harmful)
