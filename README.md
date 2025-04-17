@@ -1,7 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-17, 16:39:29](https://lobste.rs/s/xycbbj/how_create_use_program_libraries_on_linux) - [How to create and use program libraries on Linux (2003)](https://tldp.org/HOWTO/pdf/Program-Library-HOWTO.pdf)
 * [2025-04-17, 16:33:15](https://lobste.rs/s/quf2zn/hdr_infused_emoji) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
-* [2025-04-17, 16:18:48](https://lobste.rs/s/ax3dqd/serbian_student_activist_s_phone_hacked) - [Serbian student activist’s phone hacked using Cellebrite zero-day exploit](https://securityaffairs.com/174822/breaking-news/serbian-student-activists-phone-hacked-using-cellebrite-zero-day-exploit.html)
 * [2025-04-17, 16:16:19](https://lobste.rs/s/laksbh/is_no_paas_really_good_idea_for_rails) - [Is No PaaS really a good idea for Rails?](https://www.honeybadger.io/blog/rails-no-paas/)
 * [2025-04-17, 13:58:14](https://lobste.rs/s/c4u4zv/ios_18_4_dlsym_considered_harmful) - [iOS 18.4 - dlsym considered harmful](https://www.synacktiv.com/en/publications/ios-184-dlsym-considered-harmful)
 * [2025-04-17, 13:53:16](https://lobste.rs/s/fl7ly9/traceboot_precise_lightweight_tracing) - [traceboot: precise and lightweight tracing for boot and shell scripts](https://codeberg.org/SpecialSnowflake/traceboot)
