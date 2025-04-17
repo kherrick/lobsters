@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-17, 16:33:15",
+      "https://lobste.rs/s/quf2zn/hdr_infused_emoji"
+    ],
+    [
+      "HDR‑Infused Emoji",
+      "https://sharpletters.net/2025/04/16/hdr-emoji/"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 16:18:48",
+      "https://lobste.rs/s/ax3dqd/serbian_student_activist_s_phone_hacked"
+    ],
+    [
+      "Serbian student activist’s phone hacked using Cellebrite zero-day exploit",
+      "https://securityaffairs.com/174822/breaking-news/serbian-student-activists-phone-hacked-using-cellebrite-zero-day-exploit.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 16:16:19",
+      "https://lobste.rs/s/laksbh/is_no_paas_really_good_idea_for_rails"
+    ],
+    [
+      "Is No PaaS really a good idea for Rails?",
+      "https://www.honeybadger.io/blog/rails-no-paas/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 13:58:14",
       "https://lobste.rs/s/c4u4zv/ios_18_4_dlsym_considered_harmful"
     ],
@@ -101,16 +131,6 @@
   ],
   [
     [
-      "2025-04-17, 04:10:59",
-      "https://lobste.rs/s/fah9zj/isolated_execution_environment_for_ebpf"
-    ],
-    [
-      "Isolated Execution Environment for eBPF",
-      "https://ebpf.foundation/research-update-isolated-execution-environment-for-ebpf/"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 03:53:19",
       "https://lobste.rs/s/idtroe/unsure_calculator"
     ],
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-04-16, 20:52:51",
-      "https://lobste.rs/s/n3h8pr/tariff_greatest_most_tremendous_python"
-    ],
-    [
-      "tariff: The GREATEST, most TREMENDOUS Python package that makes importing great again",
-      "https://github.com/hxu296/tariff"
-    ]
-  ],
-  [
-    [
       "2025-04-16, 19:37:12",
       "https://lobste.rs/s/9tiirp/lifecycle_pull_request"
     ],
@@ -177,16 +187,6 @@
     [
       "TLS Certificate Lifetimes Will Officially Reduce to 47 Days",
       "https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 16:41:54",
-      "https://lobste.rs/s/1cfddf/intro_deepseek_s_distributed_file_system"
-    ],
-    [
-      "An Intro to DeepSeek's Distributed File System",
-      "https://maknee.github.io/blog/2025/3FS-Performance-Journal-1/"
     ]
   ],
   [
