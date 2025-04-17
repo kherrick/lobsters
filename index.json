@@ -1,12 +1,22 @@
 [
   [
     [
-      "2025-04-17, 17:52:42",
-      "https://lobste.rs/s/lkrinq/just_throw_it_into_postgres"
+      "2025-04-17, 18:27:46",
+      "https://lobste.rs/s/bkvrqv/zig_gpus"
     ],
     [
-      "Just Throw It Into Postgres",
-      "https://simonsafar.com/2025/throw_it_into_postgres/"
+      "Zig and GPUs",
+      "https://alichraghi.github.io/blog/zig-gpu/"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 18:05:15",
+      "https://lobste.rs/s/ycsmcz/introducing_policy_servers_for_matrix"
+    ],
+    [
+      "Introducing Policy Servers for Matrix",
+      "https://matrix.org/blog/2025/04/introducing-policy-servers/"
     ]
   ],
   [
@@ -207,16 +217,6 @@
     [
       "Introducing Kermit: A typeface for kids",
       "https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 15:55:40",
-      "https://lobste.rs/s/vsznsx/getting_better_performance_out_object"
-    ],
-    [
-      "Getting better performance out of object storage",
-      "https://spiraldb.com/post/so-you-want-to-use-object-storage"
     ]
   ],
   [
