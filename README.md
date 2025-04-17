@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-17, 02:51:04](https://lobste.rs/s/kckhbq/sqlc_generate_type_safe_code_from_sql) - [sqlc: Generate type-safe code from SQL](https://github.com/sqlc-dev/sqlc)
+* [2025-04-17, 01:45:08](https://lobste.rs/s/eiannc/practical_hacker_s_guide_c_programming) - [A practical hacker's guide to the C programming language](https://github.com/codr7/hacktical-c)
 * [2025-04-16, 22:24:57](https://lobste.rs/s/bezwfp/all_databases_are_just_files_postgres_too) - [(All) Databases Are Just Files. Postgres Too](http://tselai.com/all-databases-are-just-files)
 * [2025-04-16, 21:12:17](https://lobste.rs/s/jav8ey/deb_books_books_hidden_debian_source) - [deb-books: books hidden in Debian source packages](https://codeberg.org/jwilk/deb-books)
 * [2025-04-16, 19:43:11](https://lobste.rs/s/xkldrv/learning_fennel_from_scratch_develop) - [Learning Fennel from Scratch to Develop Neovim Plugins](https://lambdaisland.com/blog/2025-04-16-fennel)
@@ -22,8 +24,6 @@
 * [2025-04-16, 03:20:06](https://lobste.rs/s/kxi58j/jsx_over_wire) - [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
 * [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
 * [2025-04-15, 21:43:45](https://lobste.rs/s/b5ocbq/cutting_down_rust_compile_times_with_one) - [Cutting Down Rust Compile Times With One Thousand Crates](https://www.feldera.com/blog/cutting-down-rust-compile-times-from-30-to-2-minutes-with-one-thousand-crates)
-* [2025-04-15, 16:19:55](https://lobste.rs/s/8sdael/arch_linux_now_has_official_wsl_image) - [Arch Linux now has an official WSL image](https://antiz.fr/blog/archlinux-official-wsl-image/)
-* [2025-04-15, 14:27:17](https://lobste.rs/s/axopcj/you_cannot_have_our_user_s_data) - [You cannot have our user's data](https://sourcehut.org/blog/2025-04-15-you-cannot-have-our-users-data/)
 * [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 
 ## [Archives](archives/index.md)
