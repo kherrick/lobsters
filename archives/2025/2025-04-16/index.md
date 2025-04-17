@@ -6,6 +6,7 @@
 
 * [2025-04-16, 22:24:57](https://lobste.rs/s/bezwfp/all_databases_are_just_files_postgres_too) - [(All) Databases Are Just Files. Postgres Too](http://tselai.com/all-databases-are-just-files)
 * [2025-04-16, 21:12:17](https://lobste.rs/s/jav8ey/deb_books_books_hidden_debian_source) - [deb-books: books hidden in Debian source packages](https://codeberg.org/jwilk/deb-books)
+* [2025-04-16, 20:52:51](https://lobste.rs/s/n3h8pr/tariff_greatest_most_tremendous_python) - [tariff: The GREATEST, most TREMENDOUS Python package that makes importing great again](https://github.com/hxu296/tariff)
 * [2025-04-16, 19:43:11](https://lobste.rs/s/xkldrv/learning_fennel_from_scratch_develop) - [Learning Fennel from Scratch to Develop Neovim Plugins](https://lambdaisland.com/blog/2025-04-16-fennel)
 * [2025-04-16, 19:37:12](https://lobste.rs/s/9tiirp/lifecycle_pull_request) - [the lifecycle of a pull request](https://blog.tangled.sh/pulls)
 * [2025-04-16, 19:05:48](https://lobste.rs/s/k81ayk/northguard_scalable_log_storage_at) - [Northguard: Scalable Log Storage at Linkedin](https://blog.typeobject.com/posts/2025-northguard-announcement/)
