@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-17, 11:19:01](https://lobste.rs/s/rnz0zs/investigating_truthfulness_pre_release) - [Investigating truthfulness in a pre-release o3 model](https://transluce.org/investigating-o3-truthfulness)
 * [2025-04-17, 10:26:00](https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm) - [Development On Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 * [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 * [2025-04-17, 09:21:34](https://lobste.rs/s/ysq9w3/regular_expression_derivatives_python) - [Regular Expression Derivatives in Python](https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf)
@@ -24,7 +25,6 @@
 * [2025-04-16, 06:10:40](https://lobste.rs/s/iuydj6/go_away_another_http_proxy_for_llm_scraper) - [go-away (another http proxy for LLM scraper defence)](https://git.gammaspectra.live/git/go-away#why)
 * [2025-04-16, 03:20:06](https://lobste.rs/s/kxi58j/jsx_over_wire) - [JSX Over The Wire](https://overreacted.io/jsx-over-the-wire/)
 * [2025-04-15, 21:51:33](https://lobste.rs/s/b0edh1/mitre_will_stop_issuing_new_cves) - [MITRE will stop issuing new CVEs](https://infosec.exchange/@briankrebs/114343835430587973)
-* [2025-04-15, 12:35:59](https://lobste.rs/s/v7lsrv/two_years_rust) - [Two Years of Rust](https://borretti.me/article/two-years-of-rust)
 
 ## [Archives](archives/index.md)
 
