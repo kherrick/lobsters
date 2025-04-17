@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-17](index.md)
 
+* [2025-04-17, 18:27:46](https://lobste.rs/s/bkvrqv/zig_gpus) - [Zig and GPUs](https://alichraghi.github.io/blog/zig-gpu/)
+* [2025-04-17, 18:05:15](https://lobste.rs/s/ycsmcz/introducing_policy_servers_for_matrix) - [Introducing Policy Servers for Matrix](https://matrix.org/blog/2025/04/introducing-policy-servers/)
 * [2025-04-17, 17:52:42](https://lobste.rs/s/lkrinq/just_throw_it_into_postgres) - [Just Throw It Into Postgres](https://simonsafar.com/2025/throw_it_into_postgres/)
 * [2025-04-17, 17:31:17](https://lobste.rs/s/xbqz55/anticrawl_another_ai_crawler_defence) - [anticrawl - another AI crawler defence](https://humungus.tedunangst.com/r/anticrawl)
 * [2025-04-17, 16:59:35](https://lobste.rs/s/hp0kk4/matrix_calculus_for_machine_learning) - [Matrix Calculus for Machine Learning and Beyond](https://github.com/mitmath/matrixcalc)
