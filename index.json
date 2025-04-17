@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-17, 13:42:15",
+      "https://lobste.rs/s/hbevmo/concurrency_haskell_fast_simple_correct"
+    ],
+    [
+      "Concurrency in Haskell: Fast, Simple, Correct",
+      "https://bitbashing.io/haskell-concurrency.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-17, 13:41:49",
+      "https://lobste.rs/s/gfwhrz/everyone_knows_your_location_part_2_try_it"
+    ],
+    [
+      "Everyone knows your location, Part 2: try it yourself and share the results",
+      "https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 13:31:24",
       "https://lobste.rs/s/k0bswx/arch_linux_valkey_replace_redis_extra"
     ],
@@ -41,16 +61,6 @@
   ],
   [
     [
-      "2025-04-17, 11:19:01",
-      "https://lobste.rs/s/rnz0zs/investigating_truthfulness_pre_release"
-    ],
-    [
-      "Investigating truthfulness in a pre-release o3 model",
-      "https://transluce.org/investigating-o3-truthfulness"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 10:26:00",
       "https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm"
     ],
@@ -77,16 +87,6 @@
     [
       "Regular Expression Derivatives in Python",
       "https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 04:10:59",
-      "https://lobste.rs/s/fah9zj/isolated_execution_environment_for_ebpf"
-    ],
-    [
-      "Isolated Execution Environment for eBPF",
-      "https://ebpf.foundation/research-update-isolated-execution-environment-for-ebpf/"
     ]
   ],
   [
