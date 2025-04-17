@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-17, 23:17:25](https://lobste.rs/s/1ykhfa/reflections_on_unikernels) - [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
+* [2025-04-17, 22:18:52](https://lobste.rs/s/wgiqko/decomposing_transactional_systems) - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
 * [2025-04-17, 18:27:46](https://lobste.rs/s/bkvrqv/zig_gpus) - [Zig and GPUs](https://alichraghi.github.io/blog/zig-gpu/)
 * [2025-04-17, 18:05:15](https://lobste.rs/s/ycsmcz/introducing_policy_servers_for_matrix) - [Introducing Policy Servers for Matrix](https://matrix.org/blog/2025/04/introducing-policy-servers/)
 * [2025-04-17, 17:52:42](https://lobste.rs/s/lkrinq/just_throw_it_into_postgres) - [Just Throw It Into Postgres](https://simonsafar.com/2025/throw_it_into_postgres/)
-* [2025-04-17, 16:39:29](https://lobste.rs/s/xycbbj/how_create_use_program_libraries_on_linux) - [How to create and use program libraries on Linux (2003)](https://tldp.org/HOWTO/pdf/Program-Library-HOWTO.pdf)
 * [2025-04-17, 16:33:15](https://lobste.rs/s/quf2zn/hdr_infused_emoji) - [HDR‑Infused Emoji](https://sharpletters.net/2025/04/16/hdr-emoji/)
 * [2025-04-17, 16:16:19](https://lobste.rs/s/laksbh/is_no_paas_really_good_idea_for_rails) - [Is No PaaS really a good idea for Rails?](https://www.honeybadger.io/blog/rails-no-paas/)
 * [2025-04-17, 13:58:14](https://lobste.rs/s/c4u4zv/ios_18_4_dlsym_considered_harmful) - [iOS 18.4 - dlsym considered harmful](https://www.synacktiv.com/en/publications/ios-184-dlsym-considered-harmful)
