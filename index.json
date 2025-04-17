@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-17, 03:53:19",
+      "https://lobste.rs/s/idtroe/unsure_calculator"
+    ],
+    [
+      "Unsure Calculator",
+      "https://filiph.github.io/unsure/"
+    ]
+  ],
+  [
+    [
       "2025-04-17, 02:51:04",
       "https://lobste.rs/s/kckhbq/sqlc_generate_type_safe_code_from_sql"
     ],
@@ -67,16 +77,6 @@
     [
       "the lifecycle of a pull request",
       "https://blog.tangled.sh/pulls"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 18:50:20",
-      "https://lobste.rs/s/bmcjrb/codex_lightweight_coding_agent_runs_your"
-    ],
-    [
-      "codex: Lightweight coding agent that runs in your terminal",
-      "https://github.com/openai/codex"
     ]
   ],
   [
