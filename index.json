@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-18, 04:17:57",
+      "https://lobste.rs/s/l3vboo/software_development_has_too_much"
+    ],
+    [
+      "Software Development Has Too Much Software In It",
+      "https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 04:17:21",
+      "https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what"
+    ],
+    [
+      "Using ~/.ssh/authorized keys to decide what the incoming connection can do",
+      "https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 02:17:56",
       "https://lobste.rs/s/6jd4qy/honest_elitist_thoughts_on_why_computers"
     ],
@@ -207,26 +227,6 @@
     [
       "Unsure Calculator",
       "https://filiph.github.io/unsure/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 02:51:04",
-      "https://lobste.rs/s/kckhbq/sqlc_generate_type_safe_code_from_sql"
-    ],
-    [
-      "sqlc: Generate type-safe code from SQL",
-      "https://github.com/sqlc-dev/sqlc"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 21:12:17",
-      "https://lobste.rs/s/jav8ey/deb_books_books_hidden_debian_source"
-    ],
-    [
-      "deb-books: books hidden in Debian source packages",
-      "https://codeberg.org/jwilk/deb-books"
     ]
   ],
   [
