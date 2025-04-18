@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-18, 05:52:51](https://lobste.rs/s/f58eqt/nob_h_header_only_library_for_writing) - [nob.h: Header only library for writing build recipes in C](https://github.com/tsoding/nob.h)
 * [2025-04-18, 05:13:52](https://lobste.rs/s/gnm0yj/lockless_programming_considerations) - [Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming)
 * [2025-04-18, 04:17:57](https://lobste.rs/s/l3vboo/software_development_has_too_much) - [Software Development Has Too Much Software In It](https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/)
 * [2025-04-18, 04:17:21](https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what) - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
@@ -15,7 +16,6 @@
 * [2025-04-17, 16:16:19](https://lobste.rs/s/laksbh/is_no_paas_really_good_idea_for_rails) - [Is No PaaS really a good idea for Rails?](https://www.honeybadger.io/blog/rails-no-paas/)
 * [2025-04-17, 13:58:14](https://lobste.rs/s/c4u4zv/ios_18_4_dlsym_considered_harmful) - [iOS 18.4 - dlsym considered harmful](https://www.synacktiv.com/en/publications/ios-184-dlsym-considered-harmful)
 * [2025-04-17, 13:53:16](https://lobste.rs/s/fl7ly9/traceboot_precise_lightweight_tracing) - [traceboot: precise and lightweight tracing for boot and shell scripts](https://codeberg.org/SpecialSnowflake/traceboot)
-* [2025-04-17, 13:42:15](https://lobste.rs/s/hbevmo/concurrency_haskell_fast_simple_correct) - [Concurrency in Haskell: Fast, Simple, Correct](https://bitbashing.io/haskell-concurrency.html)
 * [2025-04-17, 13:41:49](https://lobste.rs/s/gfwhrz/everyone_knows_your_location_part_2_try_it) - [Everyone knows your location, Part 2: try it yourself and share the results](https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/)
 * [2025-04-17, 13:31:24](https://lobste.rs/s/k0bswx/arch_linux_valkey_replace_redis_extra) - [Arch Linux: Valkey to replace Redis in the [extra] Repository](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/)
 * [2025-04-17, 13:17:20](https://lobste.rs/s/x4xlid/integrating_effectful_persistent) - [Integrating Effectful and Persistent](https://exploring-better-ways.bellroy.com/integrating-effectful-and-persistent.html)
