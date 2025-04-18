@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-18, 05:52:51",
+      "https://lobste.rs/s/f58eqt/nob_h_header_only_library_for_writing"
+    ],
+    [
+      "nob.h: Header only library for writing build recipes in C",
+      "https://github.com/tsoding/nob.h"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 05:13:52",
       "https://lobste.rs/s/gnm0yj/lockless_programming_considerations"
     ],
@@ -147,16 +157,6 @@
     [
       "traceboot: precise and lightweight tracing for boot and shell scripts",
       "https://codeberg.org/SpecialSnowflake/traceboot"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 13:42:15",
-      "https://lobste.rs/s/hbevmo/concurrency_haskell_fast_simple_correct"
-    ],
-    [
-      "Concurrency in Haskell: Fast, Simple, Correct",
-      "https://bitbashing.io/haskell-concurrency.html"
     ]
   ],
   [
