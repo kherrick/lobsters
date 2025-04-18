@@ -11,6 +11,7 @@
 * [2025-04-18, 08:29:43](https://lobste.rs/s/1gaxj8/exacerbating_cross_site_scripting) - [Exacerbating Cross-Site Scripting: The Iframe Sandwich](https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/)
 * [2025-04-18, 06:03:34](https://lobste.rs/s/1f1xfj/why_i_cannot_be_technical) - [Why I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
 * [2025-04-18, 05:57:25](https://lobste.rs/s/g0ozyq/olive_c_simple_2d_graphics_library_for_c) - [olive.c: Simple 2D Graphics Library for C](https://github.com/tsoding/olive.c)
+* [2025-04-18, 05:56:30](https://lobste.rs/s/em5xgp/musializer_music_visualizer) - [musializer: Music Visualizer](https://github.com/tsoding/musializer)
 * [2025-04-18, 05:52:51](https://lobste.rs/s/f58eqt/nob_h_header_only_library_for_writing) - [nob.h: Header only library for writing build recipes in C](https://github.com/tsoding/nob.h)
 * [2025-04-18, 05:13:52](https://lobste.rs/s/gnm0yj/lockless_programming_considerations) - [Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming)
 * [2025-04-18, 04:17:57](https://lobste.rs/s/l3vboo/software_development_has_too_much) - [Software Development Has Too Much Software In It](https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/)
