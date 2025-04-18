@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 10:30:01](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend)
+* [2025-04-18, 10:26:28](https://lobste.rs/s/wywnlc/awesome_consensus_survey_recent) - [Awesome Consensus: A survey of recent byzantine fault tolerance algorithms](https://github.com/hellas-ai/awesome-consensus)
 * [2025-04-18, 10:00:10](https://lobste.rs/s/sk1xqi/vibing_code_quality) - [Vibing code quality](https://jml.io/posts/vibing-code-quality/)
 * [2025-04-18, 08:49:23](https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet) - [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 * [2025-04-18, 08:29:43](https://lobste.rs/s/1gaxj8/exacerbating_cross_site_scripting) - [Exacerbating Cross-Site Scripting: The Iframe Sandwich](https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/)

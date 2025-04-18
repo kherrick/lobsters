@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-18, 10:30:01](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend)
+* [2025-04-18, 10:26:28](https://lobste.rs/s/wywnlc/awesome_consensus_survey_recent) - [Awesome Consensus: A survey of recent byzantine fault tolerance algorithms](https://github.com/hellas-ai/awesome-consensus)
 * [2025-04-18, 10:00:10](https://lobste.rs/s/sk1xqi/vibing_code_quality) - [Vibing code quality](https://jml.io/posts/vibing-code-quality/)
 * [2025-04-18, 08:49:23](https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet) - [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 * [2025-04-18, 06:03:34](https://lobste.rs/s/1f1xfj/why_i_cannot_be_technical) - [Why I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
@@ -19,12 +21,10 @@
 * [2025-04-17, 13:53:16](https://lobste.rs/s/fl7ly9/traceboot_precise_lightweight_tracing) - [traceboot: precise and lightweight tracing for boot and shell scripts](https://codeberg.org/SpecialSnowflake/traceboot)
 * [2025-04-17, 13:31:24](https://lobste.rs/s/k0bswx/arch_linux_valkey_replace_redis_extra) - [Arch Linux: Valkey to replace Redis in the [extra] Repository](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/)
 * [2025-04-17, 13:17:20](https://lobste.rs/s/x4xlid/integrating_effectful_persistent) - [Integrating Effectful and Persistent](https://exploring-better-ways.bellroy.com/integrating-effectful-and-persistent.html)
-* [2025-04-17, 12:28:49](https://lobste.rs/s/bucpth/graham_synchronizing_clocks_by) - [Graham: Synchronizing Clocks by Leveraging Local Clock Properties](https://www.usenix.org/conference/nsdi22/presentation/najafi)
 * [2025-04-17, 10:26:00](https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm) - [Development On Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 * [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 * [2025-04-17, 03:53:19](https://lobste.rs/s/idtroe/unsure_calculator) - [Unsure Calculator](https://filiph.github.io/unsure/)
 * [2025-04-16, 19:37:12](https://lobste.rs/s/9tiirp/lifecycle_pull_request) - [the lifecycle of a pull request](https://blog.tangled.sh/pulls)
-* [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 
 ## [Archives](archives/index.md)
 
