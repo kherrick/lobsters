@@ -1,6 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-17, 23:17:25](https://lobste.rs/s/1ykhfa/reflections_on_unikernels) - [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
+* [2025-04-18, 00:57:54](https://lobste.rs/s/vuvkks/size_packets) - [The Size of Packets](https://www.potaroo.net/ispcol/2024-10/packet-sizes.html)
+* [2025-04-18, 00:17:30](https://lobste.rs/s/lfdslx/stop_writing_init_methods) - [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html)
 * [2025-04-17, 22:18:52](https://lobste.rs/s/wgiqko/decomposing_transactional_systems) - [Decomposing Transactional Systems](https://transactional.blog/blog/2025-decomposing-transactional-systems)
 * [2025-04-17, 18:27:46](https://lobste.rs/s/bkvrqv/zig_gpus) - [Zig and GPUs](https://alichraghi.github.io/blog/zig-gpu/)
 * [2025-04-17, 18:05:15](https://lobste.rs/s/ycsmcz/introducing_policy_servers_for_matrix) - [Introducing Policy Servers for Matrix](https://matrix.org/blog/2025/04/introducing-policy-servers/)
@@ -22,7 +23,6 @@
 * [2025-04-16, 22:24:57](https://lobste.rs/s/bezwfp/all_databases_are_just_files_postgres_too) - [(All) Databases Are Just Files. Postgres Too](http://tselai.com/all-databases-are-just-files)
 * [2025-04-16, 21:12:17](https://lobste.rs/s/jav8ey/deb_books_books_hidden_debian_source) - [deb-books: books hidden in Debian source packages](https://codeberg.org/jwilk/deb-books)
 * [2025-04-16, 19:37:12](https://lobste.rs/s/9tiirp/lifecycle_pull_request) - [the lifecycle of a pull request](https://blog.tangled.sh/pulls)
-* [2025-04-16, 18:34:40](https://lobste.rs/s/figswp/tls_certificate_lifetimes_will) - [TLS Certificate Lifetimes Will Officially Reduce to 47 Days](https://www.digicert.com/blog/tls-certificate-lifetimes-will-officially-reduce-to-47-days)
 * [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
 * [2025-04-16, 15:35:18](https://lobste.rs/s/45ob1t/reproducing_hacker_news_writing_style) - [Reproducing Hacker News writing style fingerprinting](https://antirez.com/news/150)
 
