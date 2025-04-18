@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-04-18, 05:13:52",
+      "https://lobste.rs/s/gnm0yj/lockless_programming_considerations"
+    ],
+    [
+      "Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)",
+      "https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 04:17:57",
       "https://lobste.rs/s/l3vboo/software_development_has_too_much"
     ],
@@ -177,16 +187,6 @@
     [
       "Zig and GPUs",
       "https://alichraghi.github.io/blog/zig-gpu/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 17:52:42",
-      "https://lobste.rs/s/lkrinq/just_throw_it_into_postgres"
-    ],
-    [
-      "Just Throw It Into Postgres",
-      "https://simonsafar.com/2025/throw_it_into_postgres/"
     ]
   ],
   [
