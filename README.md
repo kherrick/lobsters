@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-18, 16:18:45](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using) - [Neovim users: what AI tools are you using?](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using)
 * [2025-04-18, 15:39:38](https://lobste.rs/s/qof7at/antithesis_driven_testing) - [Antithesis driven testing](https://sqlsync.dev/posts/antithesis-driven-testing/)
 * [2025-04-18, 15:04:06](https://lobste.rs/s/xez5ic/sneak_peek_new_asn_1_api_for_python) - [Sneak peek: A new ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
 * [2025-04-18, 13:59:06](https://lobste.rs/s/20nle9/common_shell_script_mistakes) - [Common shell script mistakes](https://www.pixelbeat.org/programming/shell_script_mistakes.html)
@@ -20,7 +21,6 @@
 * [2025-04-17, 23:17:25](https://lobste.rs/s/1ykhfa/reflections_on_unikernels) - [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
 * [2025-04-17, 18:27:46](https://lobste.rs/s/bkvrqv/zig_gpus) - [Zig and GPUs](https://alichraghi.github.io/blog/zig-gpu/)
 * [2025-04-17, 16:16:19](https://lobste.rs/s/laksbh/is_no_paas_really_good_idea_for_rails) - [Is No PaaS really a good idea for Rails?](https://www.honeybadger.io/blog/rails-no-paas/)
-* [2025-04-17, 13:53:16](https://lobste.rs/s/fl7ly9/traceboot_precise_lightweight_tracing) - [traceboot: precise and lightweight tracing for boot and shell scripts](https://codeberg.org/SpecialSnowflake/traceboot)
 * [2025-04-17, 13:31:24](https://lobste.rs/s/k0bswx/arch_linux_valkey_replace_redis_extra) - [Arch Linux: Valkey to replace Redis in the [extra] Repository](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/)
 * [2025-04-17, 10:26:00](https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm) - [Development On Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 * [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
