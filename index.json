@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-18, 10:30:01",
+      "https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend"
+    ],
+    [
+      "What are you doing this weekend?",
+      "https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 10:26:28",
+      "https://lobste.rs/s/wywnlc/awesome_consensus_survey_recent"
+    ],
+    [
+      "Awesome Consensus: A survey of recent byzantine fault tolerance algorithms",
+      "https://github.com/hellas-ai/awesome-consensus"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 10:00:10",
       "https://lobste.rs/s/sk1xqi/vibing_code_quality"
     ],
@@ -191,16 +211,6 @@
   ],
   [
     [
-      "2025-04-17, 12:28:49",
-      "https://lobste.rs/s/bucpth/graham_synchronizing_clocks_by"
-    ],
-    [
-      "Graham: Synchronizing Clocks by Leveraging Local Clock Properties",
-      "https://www.usenix.org/conference/nsdi22/presentation/najafi"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 10:26:00",
       "https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm"
     ],
@@ -237,16 +247,6 @@
     [
       "the lifecycle of a pull request",
       "https://blog.tangled.sh/pulls"
-    ]
-  ],
-  [
-    [
-      "2025-04-16, 16:30:40",
-      "https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids"
-    ],
-    [
-      "Introducing Kermit: A typeface for kids",
-      "https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/"
     ]
   ]
 ]
