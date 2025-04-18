@@ -21,6 +21,16 @@
   ],
   [
     [
+      "2025-04-18, 16:46:29",
+      "https://lobste.rs/s/bcbcpw/marching_events_what_does_icalendar_have"
+    ],
+    [
+      "Marching Events: What does iCalendar have to do with ray marching?",
+      "https://pwy.io/posts/marching-events/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 16:18:45",
       "https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using"
     ],
@@ -147,16 +157,6 @@
     [
       "olive.c: Simple 2D Graphics Library for C",
       "https://github.com/tsoding/olive.c"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 05:13:52",
-      "https://lobste.rs/s/gnm0yj/lockless_programming_considerations"
-    ],
-    [
-      "Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)",
-      "https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming"
     ]
   ],
   [
