@@ -1,12 +1,32 @@
 [
   [
     [
+      "2025-04-18, 08:49:23",
+      "https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet"
+    ],
+    [
+      "Ratatui - Are We Embedded Yet?",
+      "https://jslazak.com/are-we-embedded-yet-0/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 08:29:43",
       "https://lobste.rs/s/1gaxj8/exacerbating_cross_site_scripting"
     ],
     [
       "Exacerbating Cross-Site Scripting: The Iframe Sandwich",
       "https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 06:03:34",
+      "https://lobste.rs/s/1f1xfj/why_i_cannot_be_technical"
+    ],
+    [
+      "Why I Cannot Be Technical",
+      "https://www.fightforthehuman.com/why-i-cannot-be-technical/"
     ]
   ],
   [
@@ -27,16 +47,6 @@
     [
       "Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)",
       "https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 04:17:57",
-      "https://lobste.rs/s/l3vboo/software_development_has_too_much"
-    ],
-    [
-      "Software Development Has Too Much Software In It",
-      "https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/"
     ]
   ],
   [
@@ -137,16 +147,6 @@
     [
       "Is No PaaS really a good idea for Rails?",
       "https://www.honeybadger.io/blog/rails-no-paas/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 13:58:14",
-      "https://lobste.rs/s/c4u4zv/ios_18_4_dlsym_considered_harmful"
-    ],
-    [
-      "iOS 18.4 - dlsym considered harmful",
-      "https://www.synacktiv.com/en/publications/ios-184-dlsym-considered-harmful"
     ]
   ],
   [
