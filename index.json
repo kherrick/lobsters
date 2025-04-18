@@ -11,6 +11,16 @@
   ],
   [
     [
+      "2025-04-18, 18:40:05",
+      "https://lobste.rs/s/tvczyq/how_make_people_feel_stupid_2008"
+    ],
+    [
+      "How to make people feel stupid (2008)",
+      "https://nedbatchelder.com/blog/200801/how_to_make_people_feel_stupid.html"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 17:57:27",
       "https://lobste.rs/s/ltwmnw/revisiting_early_critique_formal"
     ],
@@ -47,6 +57,16 @@
     [
       "Antithesis driven testing",
       "https://sqlsync.dev/posts/antithesis-driven-testing/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 15:04:06",
+      "https://lobste.rs/s/xez5ic/sneak_peek_new_asn_1_api_for_python"
+    ],
+    [
+      "Sneak peek: A new ASN.1 API for Python",
+      "https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/"
     ]
   ],
   [
@@ -151,16 +171,6 @@
   ],
   [
     [
-      "2025-04-18, 05:57:25",
-      "https://lobste.rs/s/g0ozyq/olive_c_simple_2d_graphics_library_for_c"
-    ],
-    [
-      "olive.c: Simple 2D Graphics Library for C",
-      "https://github.com/tsoding/olive.c"
-    ]
-  ],
-  [
-    [
       "2025-04-18, 04:17:57",
       "https://lobste.rs/s/l3vboo/software_development_has_too_much"
     ],
@@ -227,16 +237,6 @@
     [
       "Arch Linux: Valkey to replace Redis in the [extra] Repository",
       "https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 10:26:00",
-      "https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm"
-    ],
-    [
-      "Development On Apple Silicon with UTM",
-      "https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/"
     ]
   ],
   [
