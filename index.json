@@ -1,22 +1,22 @@
 [
   [
     [
+      "2025-04-18, 10:00:10",
+      "https://lobste.rs/s/sk1xqi/vibing_code_quality"
+    ],
+    [
+      "Vibing code quality",
+      "https://jml.io/posts/vibing-code-quality/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 08:49:23",
       "https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet"
     ],
     [
       "Ratatui - Are We Embedded Yet?",
       "https://jslazak.com/are-we-embedded-yet-0/"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 08:29:43",
-      "https://lobste.rs/s/1gaxj8/exacerbating_cross_site_scripting"
-    ],
-    [
-      "Exacerbating Cross-Site Scripting: The Iframe Sandwich",
-      "https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/"
     ]
   ],
   [
@@ -47,6 +47,16 @@
     [
       "Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)",
       "https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 04:17:57",
+      "https://lobste.rs/s/l3vboo/software_development_has_too_much"
+    ],
+    [
+      "Software Development Has Too Much Software In It",
+      "https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/"
     ]
   ],
   [
@@ -157,16 +167,6 @@
     [
       "traceboot: precise and lightweight tracing for boot and shell scripts",
       "https://codeberg.org/SpecialSnowflake/traceboot"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 13:41:49",
-      "https://lobste.rs/s/gfwhrz/everyone_knows_your_location_part_2_try_it"
-    ],
-    [
-      "Everyone knows your location, Part 2: try it yourself and share the results",
-      "https://timsh.org/everyone-knows-your-location-part-2-try-it-yourself/"
     ]
   ],
   [
