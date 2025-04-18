@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-18, 12:12:56",
+      "https://lobste.rs/s/xgw2d9/microsecond_transforms_building_fast"
+    ],
+    [
+      "Microsecond transforms: Building a fast sandbox for user code",
+      "https://blog.sequinstream.com/microsecond-transforms-building-a-lightning-fast-sandbox-for-user-code/"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 12:06:38",
+      "https://lobste.rs/s/ipvyhu/four_years_jai"
+    ],
+    [
+      "Four Years of Jai",
+      "https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 10:30:01",
       "https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend"
     ],
@@ -131,32 +151,12 @@
   ],
   [
     [
-      "2025-04-17, 22:18:52",
-      "https://lobste.rs/s/wgiqko/decomposing_transactional_systems"
-    ],
-    [
-      "Decomposing Transactional Systems",
-      "https://transactional.blog/blog/2025-decomposing-transactional-systems"
-    ]
-  ],
-  [
-    [
       "2025-04-17, 18:27:46",
       "https://lobste.rs/s/bkvrqv/zig_gpus"
     ],
     [
       "Zig and GPUs",
       "https://alichraghi.github.io/blog/zig-gpu/"
-    ]
-  ],
-  [
-    [
-      "2025-04-17, 18:05:15",
-      "https://lobste.rs/s/ycsmcz/introducing_policy_servers_for_matrix"
-    ],
-    [
-      "Introducing Policy Servers for Matrix",
-      "https://matrix.org/blog/2025/04/introducing-policy-servers/"
     ]
   ],
   [
