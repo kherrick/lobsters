@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-18, 05:13:52](https://lobste.rs/s/gnm0yj/lockless_programming_considerations) - [Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming)
 * [2025-04-18, 04:17:57](https://lobste.rs/s/l3vboo/software_development_has_too_much) - [Software Development Has Too Much Software In It](https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/)
 * [2025-04-18, 04:17:21](https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what) - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
 * [2025-04-18, 02:17:56](https://lobste.rs/s/6jd4qy/honest_elitist_thoughts_on_why_computers) - [Honest and Elitist Thoughts on Why Computers Were More Fun Before](https://www.datagubbe.se/aficion/)
@@ -21,7 +22,6 @@
 * [2025-04-17, 12:28:49](https://lobste.rs/s/bucpth/graham_synchronizing_clocks_by) - [Graham: Synchronizing Clocks by Leveraging Local Clock Properties](https://www.usenix.org/conference/nsdi22/presentation/najafi)
 * [2025-04-17, 10:26:00](https://lobste.rs/s/idmemq/development_on_apple_silicon_with_utm) - [Development On Apple Silicon with UTM](https://rkiselenko.dev/blog/development-on-mac-with-utm/development-on-mac-with-lima/)
 * [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
-* [2025-04-17, 09:21:34](https://lobste.rs/s/ysq9w3/regular_expression_derivatives_python) - [Regular Expression Derivatives in Python](https://archive.fosdem.org/2018/schedule/event/python_regex_derivatives/attachments/slides/2363/export/events/attachments/python_regex_derivatives/slides/2363/fosdem2018.pdf)
 * [2025-04-17, 03:53:19](https://lobste.rs/s/idtroe/unsure_calculator) - [Unsure Calculator](https://filiph.github.io/unsure/)
 * [2025-04-16, 19:37:12](https://lobste.rs/s/9tiirp/lifecycle_pull_request) - [the lifecycle of a pull request](https://blog.tangled.sh/pulls)
 * [2025-04-16, 16:30:40](https://lobste.rs/s/g8jeqb/introducing_kermit_typeface_for_kids) - [Introducing Kermit: A typeface for kids](https://microsoft.design/articles/introducing-kermit-a-typeface-for-kids/)
