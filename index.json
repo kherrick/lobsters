@@ -21,16 +21,6 @@
   ],
   [
     [
-      "2025-04-18, 10:00:10",
-      "https://lobste.rs/s/sk1xqi/vibing_code_quality"
-    ],
-    [
-      "Vibing code quality",
-      "https://jml.io/posts/vibing-code-quality/"
-    ]
-  ],
-  [
-    [
       "2025-04-18, 08:49:23",
       "https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet"
     ],
@@ -67,6 +57,16 @@
     [
       "olive.c: Simple 2D Graphics Library for C",
       "https://github.com/tsoding/olive.c"
+    ]
+  ],
+  [
+    [
+      "2025-04-18, 05:56:30",
+      "https://lobste.rs/s/em5xgp/musializer_music_visualizer"
+    ],
+    [
+      "musializer: Music Visualizer",
+      "https://github.com/tsoding/musializer"
     ]
   ],
   [
