@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-18, 13:55:45",
+      "https://lobste.rs/s/s4nfxt/easter_hack_terraform_provider_openwrt"
+    ],
+    [
+      "Easter hack: terraform-provider-openwrt",
+      "https://linderud.dev/blog/easter-hack-terraform-provider-openwrt/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 13:49:55",
       "https://lobste.rs/s/kigaip/image_segmentation_using_gemini_2_5"
     ],
@@ -47,16 +57,6 @@
     [
       "Awesome Consensus: A survey of recent byzantine fault tolerance algorithms",
       "https://github.com/hellas-ai/awesome-consensus"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 10:00:10",
-      "https://lobste.rs/s/sk1xqi/vibing_code_quality"
-    ],
-    [
-      "Vibing code quality",
-      "https://jml.io/posts/vibing-code-quality/"
     ]
   ],
   [
