@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-18, 17:57:27](https://lobste.rs/s/ltwmnw/revisiting_early_critique_formal) - [Revisiting an early critique of formal verification](https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html)
 * [2025-04-18, 16:18:45](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using) - [Neovim users: what AI tools are you using?](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using)
 * [2025-04-18, 15:39:38](https://lobste.rs/s/qof7at/antithesis_driven_testing) - [Antithesis driven testing](https://sqlsync.dev/posts/antithesis-driven-testing/)
 * [2025-04-18, 15:04:06](https://lobste.rs/s/xez5ic/sneak_peek_new_asn_1_api_for_python) - [Sneak peek: A new ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
@@ -10,7 +11,6 @@
 * [2025-04-18, 12:06:38](https://lobste.rs/s/ipvyhu/four_years_jai) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-18, 10:30:01](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend)
 * [2025-04-18, 10:26:28](https://lobste.rs/s/wywnlc/awesome_consensus_survey_recent) - [Awesome Consensus: A survey of recent byzantine fault tolerance algorithms](https://github.com/hellas-ai/awesome-consensus)
-* [2025-04-18, 10:00:10](https://lobste.rs/s/sk1xqi/vibing_code_quality) - [Vibing code quality](https://jml.io/posts/vibing-code-quality/)
 * [2025-04-18, 08:49:23](https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet) - [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 * [2025-04-18, 06:03:34](https://lobste.rs/s/1f1xfj/why_i_cannot_be_technical) - [Why I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
 * [2025-04-18, 05:57:25](https://lobste.rs/s/g0ozyq/olive_c_simple_2d_graphics_library_for_c) - [olive.c: Simple 2D Graphics Library for C](https://github.com/tsoding/olive.c)

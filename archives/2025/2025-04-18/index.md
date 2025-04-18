@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 17:57:27](https://lobste.rs/s/ltwmnw/revisiting_early_critique_formal) - [Revisiting an early critique of formal verification](https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html)
 * [2025-04-18, 16:18:45](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using) - [Neovim users: what AI tools are you using?](https://lobste.rs/s/6san1l/neovim_users_what_ai_tools_are_you_using)
 * [2025-04-18, 15:39:38](https://lobste.rs/s/qof7at/antithesis_driven_testing) - [Antithesis driven testing](https://sqlsync.dev/posts/antithesis-driven-testing/)
 * [2025-04-18, 15:04:06](https://lobste.rs/s/xez5ic/sneak_peek_new_asn_1_api_for_python) - [Sneak peek: A new ASN.1 API for Python](https://blog.trailofbits.com/2025/04/18/sneak-peek-a-new-asn.1-api-for-python/)
