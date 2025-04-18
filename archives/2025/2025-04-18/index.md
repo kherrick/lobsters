@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 13:55:45](https://lobste.rs/s/s4nfxt/easter_hack_terraform_provider_openwrt) - [Easter hack: terraform-provider-openwrt](https://linderud.dev/blog/easter-hack-terraform-provider-openwrt/)
 * [2025-04-18, 13:49:55](https://lobste.rs/s/kigaip/image_segmentation_using_gemini_2_5) - [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/)
 * [2025-04-18, 12:12:56](https://lobste.rs/s/xgw2d9/microsecond_transforms_building_fast) - [Microsecond transforms: Building a fast sandbox for user code](https://blog.sequinstream.com/microsecond-transforms-building-a-lightning-fast-sandbox-for-user-code/)
 * [2025-04-18, 12:06:38](https://lobste.rs/s/ipvyhu/four_years_jai) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
