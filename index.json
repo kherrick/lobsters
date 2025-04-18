@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-18, 13:49:55",
+      "https://lobste.rs/s/kigaip/image_segmentation_using_gemini_2_5"
+    ],
+    [
+      "Image segmentation using Gemini 2.5",
+      "https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 12:12:56",
       "https://lobste.rs/s/xgw2d9/microsecond_transforms_building_fast"
     ],
@@ -77,16 +87,6 @@
     [
       "olive.c: Simple 2D Graphics Library for C",
       "https://github.com/tsoding/olive.c"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 05:56:30",
-      "https://lobste.rs/s/em5xgp/musializer_music_visualizer"
-    ],
-    [
-      "musializer: Music Visualizer",
-      "https://github.com/tsoding/musializer"
     ]
   ],
   [
