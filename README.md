@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-18, 13:49:55](https://lobste.rs/s/kigaip/image_segmentation_using_gemini_2_5) - [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/)
 * [2025-04-18, 12:12:56](https://lobste.rs/s/xgw2d9/microsecond_transforms_building_fast) - [Microsecond transforms: Building a fast sandbox for user code](https://blog.sequinstream.com/microsecond-transforms-building-a-lightning-fast-sandbox-for-user-code/)
 * [2025-04-18, 12:06:38](https://lobste.rs/s/ipvyhu/four_years_jai) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
 * [2025-04-18, 10:30:01](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend)
@@ -8,7 +9,6 @@
 * [2025-04-18, 08:49:23](https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet) - [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 * [2025-04-18, 06:03:34](https://lobste.rs/s/1f1xfj/why_i_cannot_be_technical) - [Why I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
 * [2025-04-18, 05:57:25](https://lobste.rs/s/g0ozyq/olive_c_simple_2d_graphics_library_for_c) - [olive.c: Simple 2D Graphics Library for C](https://github.com/tsoding/olive.c)
-* [2025-04-18, 05:56:30](https://lobste.rs/s/em5xgp/musializer_music_visualizer) - [musializer: Music Visualizer](https://github.com/tsoding/musializer)
 * [2025-04-18, 05:13:52](https://lobste.rs/s/gnm0yj/lockless_programming_considerations) - [Lockless Programming Considerations for Xbox 360 and Microsoft Windows (2012)](https://learn.microsoft.com/en-us/windows/win32/dxtecharts/lockless-programming)
 * [2025-04-18, 04:17:57](https://lobste.rs/s/l3vboo/software_development_has_too_much) - [Software Development Has Too Much Software In It](https://smustafa.blog/2025/03/19/software-development-has-too-much-software-in-it/)
 * [2025-04-18, 04:17:21](https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what) - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
