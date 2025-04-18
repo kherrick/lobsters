@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-18](index.md)
 
+* [2025-04-18, 10:00:10](https://lobste.rs/s/sk1xqi/vibing_code_quality) - [Vibing code quality](https://jml.io/posts/vibing-code-quality/)
 * [2025-04-18, 08:49:23](https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet) - [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 * [2025-04-18, 08:29:43](https://lobste.rs/s/1gaxj8/exacerbating_cross_site_scripting) - [Exacerbating Cross-Site Scripting: The Iframe Sandwich](https://coopergyoung.com/exacerbating-cross-site-scripting-the-iframe-sandwich/)
 * [2025-04-18, 06:03:34](https://lobste.rs/s/1f1xfj/why_i_cannot_be_technical) - [Why I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
