@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-19, 05:45:22](https://lobste.rs/s/xsojm5/efficient_e_matching_for_super) - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 * [2025-04-19, 04:32:09](https://lobste.rs/s/dzpaij/buried_toggles_begging_be_brought_light) - [Buried Toggles Begging to be Brought to Light](https://venam.net/blog/unix/2025/04/18/mechanism_policy.html)
 * [2025-04-19, 03:38:18](https://lobste.rs/s/2yj0un/open_core_net_foundation_time_for_some) - [Open Core and .NET Foundation: Time for Some Introspection?](https://lobste.rs/s/2yj0un/open_core_net_foundation_time_for_some)
 * [2025-04-19, 01:33:05](https://lobste.rs/s/clfomn/system_design_cellular_apl_computer) - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
@@ -23,7 +24,6 @@
 * [2025-04-18, 04:17:21](https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what) - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
 * [2025-04-18, 00:17:30](https://lobste.rs/s/lfdslx/stop_writing_init_methods) - [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html)
 * [2025-04-17, 23:17:25](https://lobste.rs/s/1ykhfa/reflections_on_unikernels) - [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
-* [2025-04-17, 13:31:24](https://lobste.rs/s/k0bswx/arch_linux_valkey_replace_redis_extra) - [Arch Linux: Valkey to replace Redis in the [extra] Repository](https://archlinux.org/news/valkey-to-replace-redis-in-the-extra-repository/)
 * [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 
 ## [Archives](archives/index.md)
