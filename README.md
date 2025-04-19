@@ -9,6 +9,7 @@
 * [2025-04-19, 03:38:18](https://lobste.rs/s/2yj0un/open_core_net_foundation_time_for_some) - [Open Core and .NET Foundation: Time for Some Introspection?](https://lobste.rs/s/2yj0un/open_core_net_foundation_time_for_some)
 * [2025-04-19, 01:33:05](https://lobste.rs/s/clfomn/system_design_cellular_apl_computer) - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
 * [2025-04-19, 01:02:03](https://lobste.rs/s/cdxosy/pahole_analysing_memory_layout_complex) - [pahole: Analysing Memory Layout of Complex Data Structures With Ease](https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/)
+* [2025-04-19, 00:14:53](https://lobste.rs/s/kfgduz/are_your_channels_visible_enough) - [Are your channels visible enough?](https://libera.chat/news/visibility)
 * [2025-04-18, 19:27:18](https://lobste.rs/s/8an4my/15_000_lines_verified_cryptography_now) - [15,000 lines of verified cryptography now in Python](http://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 17:57:27](https://lobste.rs/s/ltwmnw/revisiting_early_critique_formal) - [Revisiting an early critique of formal verification](https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html)
 * [2025-04-18, 16:46:29](https://lobste.rs/s/bcbcpw/marching_events_what_does_icalendar_have) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
@@ -24,7 +25,6 @@
 * [2025-04-18, 04:17:21](https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what) - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
 * [2025-04-18, 00:17:30](https://lobste.rs/s/lfdslx/stop_writing_init_methods) - [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html)
 * [2025-04-17, 23:17:25](https://lobste.rs/s/1ykhfa/reflections_on_unikernels) - [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
-* [2025-04-17, 09:23:08](https://lobste.rs/s/mwvwsp/bring_back_rss_feeds_browsers) - [Bring Back RSS Feeds to Browsers](https://jetgirl.art/bring-back-rss-feeds-to-browsers/)
 
 ## [Archives](archives/index.md)
 
