@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-19, 18:14:38",
+      "https://lobste.rs/s/q6hwcd/goenums_type_safe_enum_generator_for_go"
+    ],
+    [
+      "goenums: Type Safe Enum generator for Go",
+      "https://github.com/zarldev/goenums"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 16:57:16",
       "https://lobste.rs/s/nijc2a/backdooms_self_contained_game_fits"
     ],
@@ -117,16 +127,6 @@
     [
       "System Design of a Cellular APL Computer",
       "https://ieeexplore.ieee.org/document/1671509"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 01:02:03",
-      "https://lobste.rs/s/cdxosy/pahole_analysing_memory_layout_complex"
-    ],
-    [
-      "pahole: Analysing Memory Layout of Complex Data Structures With Ease",
-      "https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/"
     ]
   ],
   [
