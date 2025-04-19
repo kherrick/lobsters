@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-19, 13:08:23",
+      "https://lobste.rs/s/ywiqey/falsify_hypothesis_inspired_shrinking"
+    ],
+    [
+      "falsify: Hypothesis-inspired shrinking for Haskell",
+      "https://www.well-typed.com/blog/2023/04/falsify/"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 11:30:43",
       "https://lobste.rs/s/bejeov/frankenstein_s_init"
     ],
@@ -77,16 +87,6 @@
     [
       "pahole: Analysing Memory Layout of Complex Data Structures With Ease",
       "https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 00:14:53",
-      "https://lobste.rs/s/kfgduz/are_your_channels_visible_enough"
-    ],
-    [
-      "Are your channels visible enough?",
-      "https://libera.chat/news/visibility"
     ]
   ],
   [
