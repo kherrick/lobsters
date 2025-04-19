@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-19, 18:14:38](https://lobste.rs/s/q6hwcd/goenums_type_safe_enum_generator_for_go) - [goenums: Type Safe Enum generator for Go](https://github.com/zarldev/goenums)
 * [2025-04-19, 16:57:16](https://lobste.rs/s/nijc2a/backdooms_self_contained_game_fits) - [backdooms: A self-contained game that fits inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-19, 16:44:23](https://lobste.rs/s/tu7isr/lustre_v5_0_0_released) - [Lustre v5.0.0 released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
 * [2025-04-19, 15:16:03](https://lobste.rs/s/q9bqa1/framepack_packing_input_frame_context) - [FramePack: Packing input frame context in next-frame prediction models for video generation](https://lllyasviel.github.io/frame_pack_gitpage/)
@@ -12,7 +13,6 @@
 * [2025-04-19, 04:32:09](https://lobste.rs/s/dzpaij/buried_toggles_begging_be_brought_light) - [Buried Toggles Begging to be Brought to Light](https://venam.net/blog/unix/2025/04/18/mechanism_policy.html)
 * [2025-04-19, 03:38:18](https://lobste.rs/s/2yj0un/open_core_net_foundation_time_for_some) - [Open Core and .NET Foundation: Time for Some Introspection?](https://lobste.rs/s/2yj0un/open_core_net_foundation_time_for_some)
 * [2025-04-19, 01:33:05](https://lobste.rs/s/clfomn/system_design_cellular_apl_computer) - [System Design of a Cellular APL Computer](https://ieeexplore.ieee.org/document/1671509)
-* [2025-04-19, 01:02:03](https://lobste.rs/s/cdxosy/pahole_analysing_memory_layout_complex) - [pahole: Analysing Memory Layout of Complex Data Structures With Ease](https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/)
 * [2025-04-18, 19:27:18](https://lobste.rs/s/8an4my/15_000_lines_verified_cryptography_now) - [15,000 lines of verified cryptography now in Python](http://jonathan.protzenko.fr/2025/04/18/python.html)
 * [2025-04-18, 17:57:27](https://lobste.rs/s/ltwmnw/revisiting_early_critique_formal) - [Revisiting an early critique of formal verification](https://lawrencecpaulson.github.io/2025/03/14/revisiting_demillo.html)
 * [2025-04-18, 16:46:29](https://lobste.rs/s/bcbcpw/marching_events_what_does_icalendar_have) - [Marching Events: What does iCalendar have to do with ray marching?](https://pwy.io/posts/marching-events/)
