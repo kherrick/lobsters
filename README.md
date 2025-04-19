@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-19, 16:57:16](https://lobste.rs/s/nijc2a/backdooms_self_contained_game_fits) - [backdooms: A self-contained game that fits inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-19, 16:44:23](https://lobste.rs/s/tu7isr/lustre_v5_0_0_released) - [Lustre v5.0.0 released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
 * [2025-04-19, 15:16:03](https://lobste.rs/s/q9bqa1/framepack_packing_input_frame_context) - [FramePack: Packing input frame context in next-frame prediction models for video generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 * [2025-04-19, 14:12:12](https://lobste.rs/s/xcqdye/vendoring) - [Vendoring](https://htmx.org/essays/vendoring/)
@@ -24,7 +25,6 @@
 * [2025-04-18, 08:49:23](https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet) - [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 * [2025-04-18, 04:17:21](https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what) - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
 * [2025-04-18, 00:17:30](https://lobste.rs/s/lfdslx/stop_writing_init_methods) - [Stop Writing `__init__` Methods](https://blog.glyph.im/2025/04/stop-writing-init-methods.html)
-* [2025-04-17, 23:17:25](https://lobste.rs/s/1ykhfa/reflections_on_unikernels) - [Reflections on Unikernels](https://dave.recoil.org/unikernels/)
 
 ## [Archives](archives/index.md)
 

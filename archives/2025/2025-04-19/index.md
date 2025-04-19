@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-19](index.md)
 
+* [2025-04-19, 16:57:16](https://lobste.rs/s/nijc2a/backdooms_self_contained_game_fits) - [backdooms: A self-contained game that fits inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-19, 16:44:23](https://lobste.rs/s/tu7isr/lustre_v5_0_0_released) - [Lustre v5.0.0 released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
 * [2025-04-19, 15:16:03](https://lobste.rs/s/q9bqa1/framepack_packing_input_frame_context) - [FramePack: Packing input frame context in next-frame prediction models for video generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 * [2025-04-19, 14:12:12](https://lobste.rs/s/xcqdye/vendoring) - [Vendoring](https://htmx.org/essays/vendoring/)
