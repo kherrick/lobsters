@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-19, 15:16:03](https://lobste.rs/s/q9bqa1/framepack_packing_input_frame_context) - [FramePack: Packing input frame context in next-frame prediction models for video generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 * [2025-04-19, 14:12:12](https://lobste.rs/s/xcqdye/vendoring) - [Vendoring](https://htmx.org/essays/vendoring/)
 * [2025-04-19, 13:08:23](https://lobste.rs/s/ywiqey/falsify_hypothesis_inspired_shrinking) - [falsify: Hypothesis-inspired shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
 * [2025-04-19, 11:30:43](https://lobste.rs/s/bejeov/frankenstein_s_init) - [Frankenstein’s `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
@@ -19,7 +20,6 @@
 * [2025-04-18, 13:55:45](https://lobste.rs/s/s4nfxt/easter_hack_terraform_provider_openwrt) - [Easter hack: terraform-provider-openwrt](https://linderud.dev/blog/easter-hack-terraform-provider-openwrt/)
 * [2025-04-18, 13:49:55](https://lobste.rs/s/kigaip/image_segmentation_using_gemini_2_5) - [Image segmentation using Gemini 2.5](https://simonwillison.net/2025/Apr/18/gemini-image-segmentation/)
 * [2025-04-18, 12:06:38](https://lobste.rs/s/ipvyhu/four_years_jai) - [Four Years of Jai](https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/)
-* [2025-04-18, 10:30:01](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend) - [What are you doing this weekend?](https://lobste.rs/s/zsadu0/what_are_you_doing_this_weekend)
 * [2025-04-18, 08:49:23](https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet) - [Ratatui - Are We Embedded Yet?](https://jslazak.com/are-we-embedded-yet-0/)
 * [2025-04-18, 06:03:34](https://lobste.rs/s/1f1xfj/why_i_cannot_be_technical) - [Why I Cannot Be Technical](https://www.fightforthehuman.com/why-i-cannot-be-technical/)
 * [2025-04-18, 04:17:21](https://lobste.rs/s/jua1yc/using_ssh_authorized_keys_decide_what) - [Using ~/.ssh/authorized keys to decide what the incoming connection can do](https://dan.langille.org/2025/04/17/using-ssh-authorized-keys-to-decide-what-the-incoming-connection-can-do/)
