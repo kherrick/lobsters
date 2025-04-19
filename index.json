@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-19, 01:33:05",
+      "https://lobste.rs/s/clfomn/system_design_cellular_apl_computer"
+    ],
+    [
+      "System Design of a Cellular APL Computer",
+      "https://ieeexplore.ieee.org/document/1671509"
+    ]
+  ],
+  [
+    [
+      "2025-04-19, 01:02:03",
+      "https://lobste.rs/s/cdxosy/pahole_analysing_memory_layout_complex"
+    ],
+    [
+      "pahole: Analysing Memory Layout of Complex Data Structures With Ease",
+      "https://pramodkumbhar.com/2023/11/pahole-to-analyz-data-structure-memory-layouts-with-ease/"
+    ]
+  ],
+  [
+    [
       "2025-04-18, 19:27:18",
       "https://lobste.rs/s/8an4my/15_000_lines_verified_cryptography_now"
     ],
@@ -101,16 +121,6 @@
   ],
   [
     [
-      "2025-04-18, 12:12:56",
-      "https://lobste.rs/s/xgw2d9/microsecond_transforms_building_fast"
-    ],
-    [
-      "Microsecond transforms: Building a fast sandbox for user code",
-      "https://blog.sequinstream.com/microsecond-transforms-building-a-lightning-fast-sandbox-for-user-code/"
-    ]
-  ],
-  [
-    [
       "2025-04-18, 12:06:38",
       "https://lobste.rs/s/ipvyhu/four_years_jai"
     ],
@@ -157,16 +167,6 @@
     [
       "Why I Cannot Be Technical",
       "https://www.fightforthehuman.com/why-i-cannot-be-technical/"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 05:57:25",
-      "https://lobste.rs/s/g0ozyq/olive_c_simple_2d_graphics_library_for_c"
-    ],
-    [
-      "olive.c: Simple 2D Graphics Library for C",
-      "https://github.com/tsoding/olive.c"
     ]
   ],
   [
