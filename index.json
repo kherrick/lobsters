@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-19, 18:30:26",
+      "https://lobste.rs/s/ewinm7/rob_pike_on_bloat"
+    ],
+    [
+      "Rob Pike: On Bloat",
+      "https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub"
+    ]
+  ],
+  [
+    [
       "2025-04-19, 18:14:38",
       "https://lobste.rs/s/q6hwcd/goenums_type_safe_enum_generator_for_go"
     ],
@@ -217,16 +227,6 @@
     [
       "Four Years of Jai",
       "https://smarimccarthy.is/posts/2024-12-02-four-years-of-jai/"
-    ]
-  ],
-  [
-    [
-      "2025-04-18, 08:49:23",
-      "https://lobste.rs/s/lwkzan/ratatui_are_we_embedded_yet"
-    ],
-    [
-      "Ratatui - Are We Embedded Yet?",
-      "https://jslazak.com/are-we-embedded-yet-0/"
     ]
   ],
   [
