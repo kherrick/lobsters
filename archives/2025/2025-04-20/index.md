@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 13:26:21](https://lobste.rs/s/v8ucpo/gh_gfm_preview_standalone_github_cli) - [gh-gfm-preview: A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline](https://github.com/thiagokokada/gh-gfm-preview)
 * [2025-04-20, 13:07:13](https://lobste.rs/s/mgixaf/layered_design_go) - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
 * [2025-04-20, 11:59:39](https://lobste.rs/s/zgep8f/llm_pdf_run_llms_inside_pdf_file) - [llm.pdf: Run LLMs inside a PDF file](https://github.com/EvanZhouDev/llm.pdf)
 * [2025-04-20, 10:50:55](https://lobste.rs/s/rql1su/embedding_tikz_diagrams_html_documents) - [Embedding TikZ diagrams in HTML Documents](https://tikzjax.com/)
