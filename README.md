@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-20, 10:50:55](https://lobste.rs/s/rql1su/embedding_tikz_diagrams_html_documents) - [Embedding TikZ diagrams in HTML Documents](https://tikzjax.com/)
 * [2025-04-20, 09:52:58](https://lobste.rs/s/x1izrz/on_cruelty_really_teaching_computing) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2025-04-20, 07:17:37](https://lobste.rs/s/uxnxin/beej_s_guide_git) - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
 * [2025-04-20, 07:03:55](https://lobste.rs/s/chkque/go_assembler_generator) - [Go assembler generator](https://git.gammaspectra.live/WeebDataHoarder/go-assembler-gen)
@@ -14,7 +15,6 @@
 * [2025-04-19, 18:14:38](https://lobste.rs/s/q6hwcd/goenums_type_safe_enum_generator_for_go) - [goenums: Type Safe Enum generator for Go](https://github.com/zarldev/goenums)
 * [2025-04-19, 16:57:16](https://lobste.rs/s/nijc2a/backdooms_self_contained_game_fits) - [backdooms: A self-contained game that fits inside a QR code](https://github.com/Kuberwastaken/backdooms)
 * [2025-04-19, 16:44:23](https://lobste.rs/s/tu7isr/lustre_v5_0_0_released) - [Lustre v5.0.0 released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
-* [2025-04-19, 15:16:03](https://lobste.rs/s/q9bqa1/framepack_packing_input_frame_context) - [FramePack: Packing input frame context in next-frame prediction models for video generation](https://lllyasviel.github.io/frame_pack_gitpage/)
 * [2025-04-19, 14:12:12](https://lobste.rs/s/xcqdye/vendoring) - [Vendoring](https://htmx.org/essays/vendoring/)
 * [2025-04-19, 13:08:23](https://lobste.rs/s/ywiqey/falsify_hypothesis_inspired_shrinking) - [falsify: Hypothesis-inspired shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
 * [2025-04-19, 11:30:43](https://lobste.rs/s/bejeov/frankenstein_s_init) - [Frankenstein’s `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
