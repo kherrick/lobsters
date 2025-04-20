@@ -20,7 +20,7 @@
 * [2025-04-19, 16:44:23](https://lobste.rs/s/tu7isr/lustre_v5_0_0_released) - [Lustre v5.0.0 released](https://hexdocs.pm/lustre/announcements/2025-04-19.html)
 * [2025-04-19, 14:12:12](https://lobste.rs/s/xcqdye/vendoring) - [Vendoring](https://htmx.org/essays/vendoring/)
 * [2025-04-19, 13:08:23](https://lobste.rs/s/ywiqey/falsify_hypothesis_inspired_shrinking) - [falsify: Hypothesis-inspired shrinking for Haskell](https://www.well-typed.com/blog/2023/04/falsify/)
-* [2025-04-19, 11:30:43](https://lobste.rs/s/bejeov/frankenstein_s_init) - [Frankenstein’s `__init__`](https://ohadravid.github.io/posts/2025-04-19-frank/)
+* [2025-04-19, 08:13:54](https://lobste.rs/s/hgltzs/easters_adventofcode_like_challenge_for) - [Easters - an adventofcode-like challenge for easter](https://easters.dev/)
 * [2025-04-19, 06:11:07](https://lobste.rs/s/2ydd6d/deus_lex_machina_releasing_new) - [Deus Lex Machina: releasing a new compacting Zig tokenizer](https://validark.dev/posts/deus-lex-machina/)
 * [2025-04-19, 05:45:22](https://lobste.rs/s/xsojm5/efficient_e_matching_for_super) - [Efficient E-Matching for Super Optimizers](https://blog.vortan.dev/ematching/)
 * [2025-04-19, 04:32:09](https://lobste.rs/s/dzpaij/buried_toggles_begging_be_brought_light) - [Buried Toggles Begging to be Brought to Light](https://venam.net/blog/unix/2025/04/18/mechanism_policy.html)
