@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 23:45:25](https://lobste.rs/s/pncgon/what_i_d_do_as_college_freshman_2025) - [What I'd do as a College Freshman in 2025](http://muratbuffalo.blogspot.com/2025/04/what-id-do-as-college-freshman.html)
 * [2025-04-20, 20:53:06](https://lobste.rs/s/ucrv1t/better_error_handling) - [Better error handling](https://meowbark.dev/Better-error-handling)
 * [2025-04-20, 20:47:42](https://lobste.rs/s/7od3uk/how_i_use_kate_editor) - [How I use Kate Editor](https://akselmo.dev/posts/how-i-use-kate-editor/)
 * [2025-04-20, 19:25:13](https://lobste.rs/s/ju8lsh/configuration_complexity_clock_2012) - [The Configuration Complexity Clock (2012)](http://mikehadlow.blogspot.com/2012/05/configuration-complexity-clock.html)
