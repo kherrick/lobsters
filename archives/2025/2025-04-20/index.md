@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-20](index.md)
 
+* [2025-04-20, 09:52:58](https://lobste.rs/s/x1izrz/on_cruelty_really_teaching_computing) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2025-04-20, 07:17:37](https://lobste.rs/s/uxnxin/beej_s_guide_git) - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
 * [2025-04-20, 07:03:55](https://lobste.rs/s/chkque/go_assembler_generator) - [Go assembler generator](https://git.gammaspectra.live/WeebDataHoarder/go-assembler-gen)
 * [2025-04-20, 06:51:58](https://lobste.rs/s/9wcjqa/common_expression_language) - [Common Expression Language](https://github.com/google/cel-spec)
