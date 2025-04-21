@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-21](index.md)
 
+* [2025-04-21, 22:15:40](https://lobste.rs/s/z2jpjn/building_website_fit_for_1999) - [Building a Website Fit for 1999](https://www.wezm.net/v2/posts/2025/website-fit-for-1999/)
 * [2025-04-21, 21:33:03](https://lobste.rs/s/1cbbeq/thoughts_on_bluesky_verification) - [Thoughts on Bluesky Verification](https://steveklabnik.com/writing/thoughts-on-bluesky-verification/)
 * [2025-04-21, 21:28:46](https://lobste.rs/s/9zmd46/values_wild_discovering_analyzing) - [Values in the wild: Discovering and analyzing values in real-world language model interactions](https://www.anthropic.com/research/values-wild)
 * [2025-04-21, 21:13:47](https://lobste.rs/s/ld1kzl/separating_work_personal_config) - [Separating work and personal config](https://www.emoses.org/posts/keeping-work-separate/)
