@@ -1,5 +1,7 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-21, 03:46:59](https://lobste.rs/s/ghq0lb/why_are_big_tech_companies_so_slow) - [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/)
+* [2025-04-21, 03:38:42](https://lobste.rs/s/2b1xg9/turing_drawings) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-21, 02:16:15](https://lobste.rs/s/p5g7rn/python_s_new_t_strings) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 * [2025-04-20, 23:45:25](https://lobste.rs/s/pncgon/what_i_d_do_as_college_freshman_2025) - [What I'd do as a College Freshman in 2025](http://muratbuffalo.blogspot.com/2025/04/what-id-do-as-college-freshman.html)
 * [2025-04-20, 20:53:06](https://lobste.rs/s/ucrv1t/better_error_handling) - [Better error handling](https://meowbark.dev/Better-error-handling)
@@ -11,7 +13,6 @@
 * [2025-04-20, 14:50:50](https://lobste.rs/s/ymn744/transactions_are_protocol) - [Transactions are a protocol](https://notes.eatonphil.com/2025-04-20-transactions-are-a-protocol.html)
 * [2025-04-20, 13:26:21](https://lobste.rs/s/v8ucpo/gh_gfm_preview_standalone_github_cli) - [gh-gfm-preview: A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline](https://github.com/thiagokokada/gh-gfm-preview)
 * [2025-04-20, 13:07:13](https://lobste.rs/s/mgixaf/layered_design_go) - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
-* [2025-04-20, 11:59:39](https://lobste.rs/s/zgep8f/llm_pdf_run_llms_inside_pdf_file) - [llm.pdf: Run LLMs inside a PDF file](https://github.com/EvanZhouDev/llm.pdf)
 * [2025-04-20, 10:50:55](https://lobste.rs/s/rql1su/embedding_tikz_diagrams_html_documents) - [Embedding TikZ diagrams in HTML Documents](https://tikzjax.com/)
 * [2025-04-20, 09:52:58](https://lobste.rs/s/x1izrz/on_cruelty_really_teaching_computing) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
 * [2025-04-20, 07:17:37](https://lobste.rs/s/uxnxin/beej_s_guide_git) - [Beej's Guide to Git](https://beej.us/guide/bggit/html/split/)
@@ -23,7 +24,6 @@
 * [2025-04-20, 03:18:16](https://lobste.rs/s/kbxwtv/notes_on_b_k_implementation) - [Notes on B (K) Implementation](https://docs.google.com/document/d/1W83ME5JecI2hd5hAUqQ1BVF32wtCel8zxb7WPq-D4f8/edit?tab=t.0#heading=h.moseg6gryxz1)
 * [2025-04-19, 18:57:29](https://lobste.rs/s/hey790/web_is_broken_botnet_part_2) - [The Web is Broken — Botnet Part 2](https://jan.wildeboer.net/2025/04/Web-is-Broken-Botnet-Part-2/)
 * [2025-04-19, 18:30:26](https://lobste.rs/s/ewinm7/on_bloat) - [On Bloat](https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub)
-* [2025-04-19, 18:14:38](https://lobste.rs/s/q6hwcd/goenums_type_safe_enum_generator_for_go) - [goenums: Type Safe Enum generator for Go](https://github.com/zarldev/goenums)
 * [2025-04-19, 14:12:12](https://lobste.rs/s/xcqdye/vendoring) - [Vendoring](https://htmx.org/essays/vendoring/)
 
 ## [Archives](archives/index.md)
