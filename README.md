@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-21, 04:17:24](https://lobste.rs/s/p1a2mz/regex_affordances) - [Regex affordances](https://nedbatchelder.com/blog/202504/regex_affordances.html)
 * [2025-04-21, 03:46:59](https://lobste.rs/s/ghq0lb/why_are_big_tech_companies_so_slow) - [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/)
 * [2025-04-21, 03:38:42](https://lobste.rs/s/2b1xg9/turing_drawings) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-21, 02:16:15](https://lobste.rs/s/p5g7rn/python_s_new_t_strings) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
@@ -11,7 +12,6 @@
 * [2025-04-20, 15:36:47](https://lobste.rs/s/rrxaxu/be_free_have_multiple_clocks) - [Be Free to Have Multiple Clocks](https://blog.broulik.de/2025/04/be-free-to-have-multiple-clocks/)
 * [2025-04-20, 15:32:50](https://lobste.rs/s/ljttuz/firefly_iii_free_open_source_personal) - [Firefly III - A free and open source personal finance manager](https://firefly-iii.org/)
 * [2025-04-20, 14:50:50](https://lobste.rs/s/ymn744/transactions_are_protocol) - [Transactions are a protocol](https://notes.eatonphil.com/2025-04-20-transactions-are-a-protocol.html)
-* [2025-04-20, 13:26:21](https://lobste.rs/s/v8ucpo/gh_gfm_preview_standalone_github_cli) - [gh-gfm-preview: A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline](https://github.com/thiagokokada/gh-gfm-preview)
 * [2025-04-20, 13:07:13](https://lobste.rs/s/mgixaf/layered_design_go) - [Layered Design in Go](https://jerf.org/iri/post/2025/go_layered_design/)
 * [2025-04-20, 10:50:55](https://lobste.rs/s/rql1su/embedding_tikz_diagrams_html_documents) - [Embedding TikZ diagrams in HTML Documents](https://tikzjax.com/)
 * [2025-04-20, 09:52:58](https://lobste.rs/s/x1izrz/on_cruelty_really_teaching_computing) - [On the cruelty of really teaching computing science (1988)](https://www.cs.utexas.edu/~EWD/transcriptions/EWD10xx/EWD1036.html)
