@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-21, 05:02:52",
+      "https://lobste.rs/s/szhvas/state_reinforcement_learning_for_llm"
+    ],
+    [
+      "The State of Reinforcement Learning for LLM Reasoning",
+      "https://sebastianraschka.com/blog/2025/the-state-of-reinforcement-learning-for-llm-reasoning.html"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 04:17:24",
       "https://lobste.rs/s/p1a2mz/regex_affordances"
     ],
@@ -157,16 +167,6 @@
     [
       "Beej's Guide to Git",
       "https://beej.us/guide/bggit/html/split/"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 07:03:55",
-      "https://lobste.rs/s/chkque/go_assembler_generator"
-    ],
-    [
-      "Go assembler generator",
-      "https://git.gammaspectra.live/WeebDataHoarder/go-assembler-gen"
     ]
   ],
   [
