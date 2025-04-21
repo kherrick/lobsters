@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-21, 02:16:15",
+      "https://lobste.rs/s/p5g7rn/python_s_new_t_strings"
+    ],
+    [
+      "Python's new t-strings",
+      "https://davepeck.org/2025/04/11/pythons-new-t-strings/"
+    ]
+  ],
+  [
+    [
       "2025-04-20, 23:45:25",
       "https://lobste.rs/s/pncgon/what_i_d_do_as_college_freshman_2025"
     ],
@@ -237,16 +247,6 @@
     [
       "Vendoring",
       "https://htmx.org/essays/vendoring/"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 13:08:23",
-      "https://lobste.rs/s/ywiqey/falsify_hypothesis_inspired_shrinking"
-    ],
-    [
-      "falsify: Hypothesis-inspired shrinking for Haskell",
-      "https://www.well-typed.com/blog/2023/04/falsify/"
     ]
   ]
 ]
