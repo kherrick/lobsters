@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-21, 03:46:59",
+      "https://lobste.rs/s/ghq0lb/why_are_big_tech_companies_so_slow"
+    ],
+    [
+      "Why are big tech companies so slow?",
+      "https://www.seangoedecke.com/difficulty-in-big-tech/"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 03:38:42",
+      "https://lobste.rs/s/2b1xg9/turing_drawings"
+    ],
+    [
+      "Turing-Drawings",
+      "https://github.com/maximecb/Turing-Drawings"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 02:16:15",
       "https://lobste.rs/s/p5g7rn/python_s_new_t_strings"
     ],
@@ -111,16 +131,6 @@
   ],
   [
     [
-      "2025-04-20, 11:59:39",
-      "https://lobste.rs/s/zgep8f/llm_pdf_run_llms_inside_pdf_file"
-    ],
-    [
-      "llm.pdf: Run LLMs inside a PDF file",
-      "https://github.com/EvanZhouDev/llm.pdf"
-    ]
-  ],
-  [
-    [
       "2025-04-20, 10:50:55",
       "https://lobste.rs/s/rql1su/embedding_tikz_diagrams_html_documents"
     ],
@@ -227,16 +237,6 @@
     [
       "On Bloat",
       "https://docs.google.com/presentation/d/e/2PACX-1vSmIbSwh1_DXKEMU5YKgYpt5_b4yfOfpfEOKS5_cvtLdiHsX6zt-gNeisamRuCtDtCb2SbTafTI8V47/pub"
-    ]
-  ],
-  [
-    [
-      "2025-04-19, 18:14:38",
-      "https://lobste.rs/s/q6hwcd/goenums_type_safe_enum_generator_for_go"
-    ],
-    [
-      "goenums: Type Safe Enum generator for Go",
-      "https://github.com/zarldev/goenums"
     ]
   ],
   [
