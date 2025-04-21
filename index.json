@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-21, 12:52:27",
+      "https://lobste.rs/s/3s9y3i/nerdlog_fast_multi_host_tui_log_viewer"
+    ],
+    [
+      "Nerdlog: Fast, multi-host TUI log viewer with timeline histogram",
+      "https://dmitryfrank.com/projects/nerdlog/article"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 12:43:01",
+      "https://lobste.rs/s/jvjcpo/artificial_intelligence_by_2027"
+    ],
+    [
+      "Artificial Intelligence by 2027",
+      "https://ai-2027.com"
+    ]
+  ],
+  [
+    [
+      "2025-04-21, 12:37:19",
+      "https://lobste.rs/s/mdshkf/getting_forked_by_microsoft"
+    ],
+    [
+      "Getting Forked by Microsoft",
+      "https://philiplaine.com/posts/getting-forked-by-microsoft/"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 11:18:31",
       "https://lobste.rs/s/vioyel/projects_for_old_os_x"
     ],
@@ -71,16 +101,6 @@
   ],
   [
     [
-      "2025-04-21, 03:38:42",
-      "https://lobste.rs/s/2b1xg9/turing_drawings"
-    ],
-    [
-      "Turing-Drawings",
-      "https://github.com/maximecb/Turing-Drawings"
-    ]
-  ],
-  [
-    [
       "2025-04-21, 02:16:15",
       "https://lobste.rs/s/p5g7rn/python_s_new_t_strings"
     ],
@@ -127,16 +147,6 @@
     [
       "LLMs Reduce Development Friction. Is That a Good Thing?",
       "https://blog.ollien.com/posts/llm-friction/"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 15:36:47",
-      "https://lobste.rs/s/rrxaxu/be_free_have_multiple_clocks"
-    ],
-    [
-      "Be Free to Have Multiple Clocks",
-      "https://blog.broulik.de/2025/04/be-free-to-have-multiple-clocks/"
     ]
   ],
   [
@@ -197,16 +207,6 @@
     [
       "Beej's Guide to Git",
       "https://beej.us/guide/bggit/html/split/"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 06:51:58",
-      "https://lobste.rs/s/9wcjqa/common_expression_language"
-    ],
-    [
-      "Common Expression Language",
-      "https://github.com/google/cel-spec"
     ]
   ],
   [
