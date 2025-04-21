@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-21, 19:31:00",
+      "https://lobste.rs/s/eqqops/this_blog_is_hosted_on_nintendo_wii"
+    ],
+    [
+      "This blog is hosted on a Nintendo Wii",
+      "https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 18:33:02",
       "https://lobste.rs/s/awsduo/new_form_verification_on_bluesky"
     ],
@@ -197,16 +207,6 @@
     [
       "Transactions are a protocol",
       "https://notes.eatonphil.com/2025-04-20-transactions-are-a-protocol.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 10:50:55",
-      "https://lobste.rs/s/rql1su/embedding_tikz_diagrams_html_documents"
-    ],
-    [
-      "Embedding TikZ diagrams in HTML Documents",
-      "https://tikzjax.com/"
     ]
   ],
   [
