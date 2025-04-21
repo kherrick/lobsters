@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-21, 04:17:24",
+      "https://lobste.rs/s/p1a2mz/regex_affordances"
+    ],
+    [
+      "Regex affordances",
+      "https://nedbatchelder.com/blog/202504/regex_affordances.html"
+    ]
+  ],
+  [
+    [
       "2025-04-21, 03:46:59",
       "https://lobste.rs/s/ghq0lb/why_are_big_tech_companies_so_slow"
     ],
@@ -107,16 +117,6 @@
     [
       "Transactions are a protocol",
       "https://notes.eatonphil.com/2025-04-20-transactions-are-a-protocol.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-20, 13:26:21",
-      "https://lobste.rs/s/v8ucpo/gh_gfm_preview_standalone_github_cli"
-    ],
-    [
-      "gh-gfm-preview: A standalone/GitHub CLI extension to preview GitHub Flavored Markdown, even offline",
-      "https://github.com/thiagokokada/gh-gfm-preview"
     ]
   ],
   [
