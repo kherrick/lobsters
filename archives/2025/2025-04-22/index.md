@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 17:52:47](https://lobste.rs/s/abrezi/parcom_cl_parser_combinators) - [parcom: CL Parser Combinators](https://github.com/fosskers/parcom)
 * [2025-04-22, 15:11:15](https://lobste.rs/s/84ysx5/start_with_clean_slate_integration) - [Start with a clean slate: Integration testing with PostgreSQL](https://blog.dogac.dev/pg-test-table-track/)
 * [2025-04-22, 13:53:05](https://lobste.rs/s/k4y6j2/partially_dynamic_web_2024) - [The Partially Dynamic Web (2024)](https://digitalflapjack.com/blog/the-partially-dynamic-web/)
 * [2025-04-22, 13:36:13](https://lobste.rs/s/aafqoa/detecting_if_expression_is_constant_c) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
