@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-22, 09:12:57](https://lobste.rs/s/c8irws/adding_shortcodes_marksmith_editor) - [Adding shortcodes to the Marksmith editor](https://avohq.io/blog/marksmith-shortcodes)
 * [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
 * [2025-04-22, 06:31:29](https://lobste.rs/s/ydxus1/pipelining_might_be_my_favorite) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)

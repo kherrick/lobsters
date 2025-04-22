@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-22, 09:12:57](https://lobste.rs/s/c8irws/adding_shortcodes_marksmith_editor) - [Adding shortcodes to the Marksmith editor](https://avohq.io/blog/marksmith-shortcodes)
 * [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
 * [2025-04-22, 06:31:29](https://lobste.rs/s/ydxus1/pipelining_might_be_my_favorite) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
@@ -20,7 +21,6 @@
 * [2025-04-21, 11:18:31](https://lobste.rs/s/vioyel/projects_for_old_os_x) - [Projects For Old OS X](https://jonathanalland.com/old-osx-projects.html)
 * [2025-04-21, 10:03:03](https://lobste.rs/s/66gzvi/reverse_engineering_obfuscated_tiktok) - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 * [2025-04-21, 09:46:38](https://lobste.rs/s/wup76i/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wup76i/what_are_you_doing_this_week)
-* [2025-04-21, 03:46:59](https://lobste.rs/s/ghq0lb/why_are_big_tech_companies_so_slow) - [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/)
 * [2025-04-21, 03:38:42](https://lobste.rs/s/2b1xg9/turing_drawings) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
 * [2025-04-21, 02:16:15](https://lobste.rs/s/p5g7rn/python_s_new_t_strings) - [Python's new t-strings](https://davepeck.org/2025/04/11/pythons-new-t-strings/)
 * [2025-04-20, 23:45:25](https://lobste.rs/s/pncgon/what_i_d_do_as_college_freshman_2025) - [What I'd do as a College Freshman in 2025](http://muratbuffalo.blogspot.com/2025/04/what-id-do-as-college-freshman.html)
