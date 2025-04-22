@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-22, 04:27:02](https://lobste.rs/s/18ycoz/attacking_my_landlord_s_boiler) - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
 * [2025-04-22, 04:01:59](https://lobste.rs/s/naazom/cheating_reaper_go) - [Cheating the Reaper in Go](https://mcyoung.xyz/2025/04/21/go-arenas/)
 * [2025-04-22, 01:19:50](https://lobste.rs/s/klqcce/decentralizing_schemes) - [Decentralizing Schemes](https://www.tbray.org/ongoing/When/202x/2025/04/16/Decentralized-Schemes)
 * [2025-04-22, 00:23:26](https://lobste.rs/s/llxpp7/first_impressions_pocket_flow_s_tutorial) - [First impressions of Pocket Flow’s tutorial generator](https://technicalwriting.dev/ml/pocketflow/index.html)
@@ -16,7 +17,6 @@
 * [2025-04-21, 11:18:31](https://lobste.rs/s/vioyel/projects_for_old_os_x) - [Projects For Old OS X](https://jonathanalland.com/old-osx-projects.html)
 * [2025-04-21, 10:03:03](https://lobste.rs/s/66gzvi/reverse_engineering_obfuscated_tiktok) - [Reverse engineering the obfuscated TikTok VM](https://github.com/LukasOgunfeitimi/TikTok-ReverseEngineering)
 * [2025-04-21, 09:46:38](https://lobste.rs/s/wup76i/what_are_you_doing_this_week) - [What are you doing this week?](https://lobste.rs/s/wup76i/what_are_you_doing_this_week)
-* [2025-04-21, 06:59:45](https://lobste.rs/s/ehky9x/option_hide_karma) - [Option to hide karma?](https://lobste.rs/s/ehky9x/option_hide_karma)
 * [2025-04-21, 04:17:24](https://lobste.rs/s/p1a2mz/regex_affordances) - [Regex affordances](https://nedbatchelder.com/blog/202504/regex_affordances.html)
 * [2025-04-21, 03:46:59](https://lobste.rs/s/ghq0lb/why_are_big_tech_companies_so_slow) - [Why are big tech companies so slow?](https://www.seangoedecke.com/difficulty-in-big-tech/)
 * [2025-04-21, 03:38:42](https://lobste.rs/s/2b1xg9/turing_drawings) - [Turing-Drawings](https://github.com/maximecb/Turing-Drawings)
