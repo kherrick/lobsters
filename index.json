@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-22, 21:16:41",
+      "https://lobste.rs/s/aassef/clickhouse_gets_lazier_faster"
+    ],
+    [
+      "ClickHouse gets lazier (and faster): Introducing lazy materialization",
+      "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 20:48:51",
       "https://lobste.rs/s/iqiglx/where_flakes_fall_off_eval_cache_tale"
     ],
@@ -87,16 +97,6 @@
     [
       "Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life",
       "https://github.com/ericjenott/Evertop"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 09:12:57",
-      "https://lobste.rs/s/c8irws/adding_shortcodes_marksmith_editor"
-    ],
-    [
-      "Adding shortcodes to the Marksmith editor",
-      "https://avohq.io/blog/marksmith-shortcodes"
     ]
   ],
   [
