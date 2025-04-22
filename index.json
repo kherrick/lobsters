@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-22, 13:53:05",
+      "https://lobste.rs/s/k4y6j2/partially_dynamic_web_2024"
+    ],
+    [
+      "The Partially Dynamic Web (2024)",
+      "https://digitalflapjack.com/blog/the-partially-dynamic-web/"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 13:36:13",
       "https://lobste.rs/s/aafqoa/detecting_if_expression_is_constant_c"
     ],
@@ -167,16 +177,6 @@
     [
       "A New Form of Verification on Bluesky",
       "https://bsky.social/about/blog/04-21-2025-verification"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 16:37:51",
-      "https://lobste.rs/s/ymcuvb/retracing_google_s_steps_recreating"
-    ],
-    [
-      "Retracing Google’s steps: recreating the Webtable in Rust",
-      "https://fjall-rs.github.io/post/recreating-webtable/"
     ]
   ],
   [
