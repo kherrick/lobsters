@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 13:53:05](https://lobste.rs/s/k4y6j2/partially_dynamic_web_2024) - [The Partially Dynamic Web (2024)](https://digitalflapjack.com/blog/the-partially-dynamic-web/)
 * [2025-04-22, 13:36:13](https://lobste.rs/s/aafqoa/detecting_if_expression_is_constant_c) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
 * [2025-04-22, 13:08:27](https://lobste.rs/s/zebuzx/espp_this_economy) - [ESPP? In This Economy?](https://www.dollar42.com/posts/espp-in-this-economy/)
 * [2025-04-22, 12:53:45](https://lobste.rs/s/yjypaz/event_hidden_architectures) - [Event-Hidden Architectures](https://skiplabs.io/blog/event-hidden-arch)
