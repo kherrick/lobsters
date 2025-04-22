@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 13:36:13](https://lobste.rs/s/aafqoa/detecting_if_expression_is_constant_c) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
 * [2025-04-22, 13:08:27](https://lobste.rs/s/zebuzx/espp_this_economy) - [ESPP? In This Economy?](https://www.dollar42.com/posts/espp-in-this-economy/)
 * [2025-04-22, 12:53:45](https://lobste.rs/s/yjypaz/event_hidden_architectures) - [Event-Hidden Architectures](https://skiplabs.io/blog/event-hidden-arch)
 * [2025-04-22, 12:38:19](https://lobste.rs/s/n6su5j/ssh_keys_aren_t_real) - [SSH Keys Aren't Real](https://ssh-keys.arent-real.com)
