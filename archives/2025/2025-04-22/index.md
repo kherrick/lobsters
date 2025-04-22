@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-22](index.md)
 
+* [2025-04-22, 13:08:27](https://lobste.rs/s/zebuzx/espp_this_economy) - [ESPP? In This Economy?](https://www.dollar42.com/posts/espp-in-this-economy/)
 * [2025-04-22, 12:53:45](https://lobste.rs/s/yjypaz/event_hidden_architectures) - [Event-Hidden Architectures](https://skiplabs.io/blog/event-hidden-arch)
 * [2025-04-22, 12:38:19](https://lobste.rs/s/n6su5j/ssh_keys_aren_t_real) - [SSH Keys Aren't Real](https://ssh-keys.arent-real.com)
 * [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
