@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-22, 20:34:06",
+      "https://lobste.rs/s/id6bpe/no_really_you_can_t_branch_datomic_from"
+    ],
+    [
+      "No, really, you can’t branch Datomic from the past",
+      "https://blog.danieljanus.pl/2025/04/22/datomic-forking-the-past/"
+    ]
+  ],
+  [
+    [
       "2025-04-22, 19:20:13",
       "https://lobste.rs/s/p7rb36/a5_pentagonal_spatial_index"
     ],
@@ -117,16 +127,6 @@
     [
       "Decentralizing Schemes",
       "https://www.tbray.org/ongoing/When/202x/2025/04/16/Decentralized-Schemes"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 00:23:26",
-      "https://lobste.rs/s/llxpp7/first_impressions_pocket_flow_s_tutorial"
-    ],
-    [
-      "First impressions of Pocket Flow’s tutorial generator",
-      "https://technicalwriting.dev/ml/pocketflow/index.html"
     ]
   ],
   [
