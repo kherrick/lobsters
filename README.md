@@ -1,7 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
 * [2025-04-22, 15:11:15](https://lobste.rs/s/84ysx5/start_with_clean_slate_integration) - [Start with a clean slate: Integration testing with PostgreSQL](https://blog.dogac.dev/pg-test-table-track/)
-* [2025-04-22, 13:53:05](https://lobste.rs/s/k4y6j2/partially_dynamic_web_2024) - [The Partially Dynamic Web (2024)](https://digitalflapjack.com/blog/the-partially-dynamic-web/)
 * [2025-04-22, 13:36:13](https://lobste.rs/s/aafqoa/detecting_if_expression_is_constant_c) - [Detecting if an expression is constant in C](https://nrk.neocities.org/articles/c-constexpr-macro)
 * [2025-04-22, 12:53:45](https://lobste.rs/s/yjypaz/event_hidden_architectures) - [Event-Hidden Architectures](https://skiplabs.io/blog/event-hidden-arch)
 * [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
@@ -15,6 +14,7 @@
 * [2025-04-22, 00:23:26](https://lobste.rs/s/llxpp7/first_impressions_pocket_flow_s_tutorial) - [First impressions of Pocket Flow’s tutorial generator](https://technicalwriting.dev/ml/pocketflow/index.html)
 * [2025-04-21, 23:06:49](https://lobste.rs/s/gt4wye/record_tuple_ecmascript_proposal_has) - [The Record/Tuple ECMAScript Proposal has been withdrawn](https://github.com/tc39/proposal-record-tuple)
 * [2025-04-21, 22:15:40](https://lobste.rs/s/z2jpjn/building_website_fit_for_1999) - [Building a Website Fit for 1999](https://www.wezm.net/v2/posts/2025/website-fit-for-1999/)
+* [2025-04-21, 21:13:47](https://lobste.rs/s/ld1kzl/separating_work_personal_config) - [Separating work and personal config](https://www.emoses.org/posts/keeping-work-separate/)
 * [2025-04-21, 19:31:00](https://lobste.rs/s/eqqops/this_blog_is_hosted_on_nintendo_wii) - [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 * [2025-04-21, 18:33:02](https://lobste.rs/s/awsduo/new_form_verification_on_bluesky) - [A New Form of Verification on Bluesky](https://bsky.social/about/blog/04-21-2025-verification)
 * [2025-04-21, 16:37:51](https://lobste.rs/s/ymcuvb/retracing_google_s_steps_recreating) - [Retracing Google’s steps: recreating the Webtable in Rust](https://fjall-rs.github.io/post/recreating-webtable/)
