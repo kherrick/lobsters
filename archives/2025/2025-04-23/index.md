@@ -4,6 +4,8 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 19:55:55](https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for) - [MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows](https://minc.commandlinerevolution.nl/english/home.html)
+* [2025-04-23, 19:54:44](https://lobste.rs/s/le4pvw/searchable_linux_syscall_table_for_x86_64) - [Searchable Linux Syscall Table for x86_64](https://filippo.io/linux-syscall-table/)
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 19:12:52](https://lobste.rs/s/t1lbrg/c_26_more_constexpr_core_language) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 17:53:30](https://lobste.rs/s/f2pe0w/paean_programming) - [A paean to programming](https://bertrandmeyer.com/2025/04/23/a-paean-to-programming/)
