@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-23, 19:12:52](https://lobste.rs/s/t1lbrg/c_26_more_constexpr_core_language) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 17:53:30](https://lobste.rs/s/f2pe0w/paean_programming) - [A paean to programming](https://bertrandmeyer.com/2025/04/23/a-paean-to-programming/)
 * [2025-04-23, 16:54:54](https://lobste.rs/s/divxvt/danglepoise) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 15:13:13](https://lobste.rs/s/ycnsi3/what_is_cosh_list_bool_beyond_algebra) - [What is cosh(List(Bool))? Or beyond algebra: analysis of data types](https://nikitadanilov.github.io/aodt.html)
@@ -24,7 +25,6 @@
 * [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
 * [2025-04-22, 06:31:29](https://lobste.rs/s/ydxus1/pipelining_might_be_my_favorite) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
-* [2025-04-21, 19:31:00](https://lobste.rs/s/eqqops/this_blog_is_hosted_on_nintendo_wii) - [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 
 ## [Archives](archives/index.md)
 
