@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-23, 23:47:06",
+      "https://lobste.rs/s/qzu1yx/qemu_version_10_0_0_released"
+    ],
+    [
+      "QEMU version 10.0.0 released",
+      "https://www.qemu.org/2025/04/23/qemu-10-0-0/"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 23:37:17",
       "https://lobste.rs/s/kggjfh/graphics_livecoding_common_lisp"
     ],
@@ -237,16 +247,6 @@
     [
       "Start with a clean slate: Integration testing with PostgreSQL",
       "https://blog.dogac.dev/pg-test-table-track/"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 08:56:10",
-      "https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with"
-    ],
-    [
-      "Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog",
-      "https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/"
     ]
   ]
 ]
