@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 22:12:23](https://lobste.rs/s/8yyawr/linux_syscall_tables) - [Linux syscall tables](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 * [2025-04-23, 19:55:55](https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for) - [MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows](https://minc.commandlinerevolution.nl/english/home.html)
 * [2025-04-23, 19:54:44](https://lobste.rs/s/le4pvw/searchable_linux_syscall_table_for_x86_64) - [Searchable Linux Syscall Table for x86_64](https://filippo.io/linux-syscall-table/)
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)

@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-23, 22:12:23](https://lobste.rs/s/8yyawr/linux_syscall_tables) - [Linux syscall tables](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 * [2025-04-23, 19:55:55](https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for) - [MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows](https://minc.commandlinerevolution.nl/english/home.html)
 * [2025-04-23, 19:54:44](https://lobste.rs/s/le4pvw/searchable_linux_syscall_table_for_x86_64) - [Searchable Linux Syscall Table for x86_64](https://filippo.io/linux-syscall-table/)
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
@@ -21,7 +22,6 @@
 * [2025-04-23, 06:50:23](https://lobste.rs/s/fdfhkp/hyperscaling_have_i_been_pwned_with) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
 * [2025-04-23, 02:47:58](https://lobste.rs/s/fywpfw/exploiting_undefined_behavior_c_c) - [Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
 * [2025-04-22, 20:47:37](https://lobste.rs/s/q5vfvv/nine_reasons_use_osh) - [Nine Reasons to Use OSH](https://oils.pub/osh.html)
-* [2025-04-22, 19:20:13](https://lobste.rs/s/p7rb36/a5_pentagonal_spatial_index) - [A5 - Pentagonal Spatial Index](https://a5geo.org/)
 * [2025-04-22, 15:11:15](https://lobste.rs/s/84ysx5/start_with_clean_slate_integration) - [Start with a clean slate: Integration testing with PostgreSQL](https://blog.dogac.dev/pg-test-table-track/)
 * [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
