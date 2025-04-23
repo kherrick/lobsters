@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-23, 08:50:09",
+      "https://lobste.rs/s/jqkwak/commodore_64_assembly_part_4_how_does"
+    ],
+    [
+      "Commodore 64 Assembly, part 4: how does the machine execute machine code?",
+      "https://michal.sapka.pl/2025/commodore-64-assembly-part-4-how-does-the-machine-execute-machine-code/"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 08:25:59",
       "https://lobste.rs/s/ffq9te/coding_as_craft_going_back_old_gym"
     ],
@@ -217,16 +227,6 @@
     [
       "This blog is hosted on a Nintendo Wii",
       "https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/"
-    ]
-  ],
-  [
-    [
-      "2025-04-21, 15:25:47",
-      "https://lobste.rs/s/qnvvne/pgdog_horizontal_scaling_for_postgresql"
-    ],
-    [
-      "pgdog: Horizontal scaling for PostgreSQL with automatic sharding",
-      "https://github.com/pgdogdev/pgdog"
     ]
   ],
   [
