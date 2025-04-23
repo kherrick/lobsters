@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-23, 23:37:17](https://lobste.rs/s/kggjfh/graphics_livecoding_common_lisp) - [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
 * [2025-04-23, 23:10:19](https://lobste.rs/s/lwrpus/echoplayer_echo_open_hardware_music) - [echoplayer: Echo - Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 * [2025-04-23, 23:03:13](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish) - [How to make an Android tablet respect my wish to stay on a WiFi with no internet access?](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish)
 * [2025-04-23, 22:12:23](https://lobste.rs/s/8yyawr/linux_syscall_tables) - [Linux syscall tables](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
@@ -19,7 +20,6 @@
 * [2025-04-23, 09:05:20](https://lobste.rs/s/ygwmhh/reference_huffman_coding) - [Reference Huffman coding](https://www.nayuki.io/page/reference-huffman-coding)
 * [2025-04-23, 08:50:09](https://lobste.rs/s/jqkwak/commodore_64_assembly_part_4_how_does) - [Commodore 64 Assembly, part 4: how does the machine execute machine code?](https://michal.sapka.pl/2025/commodore-64-assembly-part-4-how-does-the-machine-execute-machine-code/)
 * [2025-04-23, 08:25:59](https://lobste.rs/s/ffq9te/coding_as_craft_going_back_old_gym) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
-* [2025-04-23, 07:36:34](https://lobste.rs/s/qr4qdv/how_quickly_charge_your_smartphone_fast) - [How to quickly charge your smartphone: fast charging technologies in detail](https://eb43.github.io/articles/fast-charging-technologies-in-detail.html)
 * [2025-04-23, 06:50:23](https://lobste.rs/s/fdfhkp/hyperscaling_have_i_been_pwned_with) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
 * [2025-04-23, 02:47:58](https://lobste.rs/s/fywpfw/exploiting_undefined_behavior_c_c) - [Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact](https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf)
 * [2025-04-22, 20:47:37](https://lobste.rs/s/q5vfvv/nine_reasons_use_osh) - [Nine Reasons to Use OSH](https://oils.pub/osh.html)

@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 23:37:17](https://lobste.rs/s/kggjfh/graphics_livecoding_common_lisp) - [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
 * [2025-04-23, 23:10:19](https://lobste.rs/s/lwrpus/echoplayer_echo_open_hardware_music) - [echoplayer: Echo - Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 * [2025-04-23, 23:03:13](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish) - [How to make an Android tablet respect my wish to stay on a WiFi with no internet access?](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish)
 * [2025-04-23, 22:12:23](https://lobste.rs/s/8yyawr/linux_syscall_tables) - [Linux syscall tables](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
