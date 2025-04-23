@@ -121,6 +121,16 @@
   ],
   [
     [
+      "2025-04-23, 12:07:52",
+      "https://lobste.rs/s/xq5jrs/gpu_compilation_with_mlir"
+    ],
+    [
+      "GPU Compilation with MLIR",
+      "https://vectorfold.studio/blog/gpu-compilation"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 11:36:07",
       "https://lobste.rs/s/jvvlpb/14_advanced_python_features"
     ],
@@ -187,16 +197,6 @@
     [
       "Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact",
       "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 21:16:41",
-      "https://lobste.rs/s/aassef/clickhouse_gets_lazier_faster"
-    ],
-    [
-      "ClickHouse gets lazier (and faster): Introducing lazy materialization",
-      "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
     ]
   ],
   [
