@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-23, 14:47:45](https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 12:39:42](https://lobste.rs/s/1ypcby/kworkflow_tool_talk_from_fosdem_2025) - [kworkflow tool talk from FOSDEM 2025](https://melissawen.github.io/blog/2025/04/22/fosdem-2025-kernel-devroom-kworkflow-talk)
 * [2025-04-23, 12:26:18](https://lobste.rs/s/gamz2d/give_it_time) - [Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/)
 * [2025-04-23, 12:16:04](https://lobste.rs/s/zjnc6g/does_using_rust_really_make_your_software) - [Does using Rust really make your software safer?](https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer)
@@ -23,7 +24,6 @@
 * [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
 * [2025-04-22, 06:31:29](https://lobste.rs/s/ydxus1/pipelining_might_be_my_favorite) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 * [2025-04-22, 04:27:02](https://lobste.rs/s/18ycoz/attacking_my_landlord_s_boiler) - [Attacking My Landlord's Boiler](https://blog.videah.net/attacking-my-landlords-boiler/)
-* [2025-04-21, 22:15:40](https://lobste.rs/s/z2jpjn/building_website_fit_for_1999) - [Building a Website Fit for 1999](https://www.wezm.net/v2/posts/2025/website-fit-for-1999/)
 * [2025-04-21, 19:31:00](https://lobste.rs/s/eqqops/this_blog_is_hosted_on_nintendo_wii) - [This blog is hosted on a Nintendo Wii](https://blog.infected.systems/posts/2025-04-21-this-blog-is-hosted-on-a-nintendo-wii/)
 
 ## [Archives](archives/index.md)
