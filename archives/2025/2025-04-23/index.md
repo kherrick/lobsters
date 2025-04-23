@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-23](index.md)
 
+* [2025-04-23, 11:36:07](https://lobste.rs/s/jvvlpb/14_advanced_python_features) - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 * [2025-04-23, 09:05:20](https://lobste.rs/s/ygwmhh/reference_huffman_coding) - [Reference Huffman coding](https://www.nayuki.io/page/reference-huffman-coding)
 * [2025-04-23, 08:50:09](https://lobste.rs/s/jqkwak/commodore_64_assembly_part_4_how_does) - [Commodore 64 Assembly, part 4: how does the machine execute machine code?](https://michal.sapka.pl/2025/commodore-64-assembly-part-4-how-does-the-machine-execute-machine-code/)
 * [2025-04-23, 08:25:59](https://lobste.rs/s/ffq9te/coding_as_craft_going_back_old_gym) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
