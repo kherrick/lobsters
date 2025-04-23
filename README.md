@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 19:12:52](https://lobste.rs/s/t1lbrg/c_26_more_constexpr_core_language) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 17:53:30](https://lobste.rs/s/f2pe0w/paean_programming) - [A paean to programming](https://bertrandmeyer.com/2025/04/23/a-paean-to-programming/)
 * [2025-04-23, 16:54:54](https://lobste.rs/s/divxvt/danglepoise) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
@@ -9,7 +10,6 @@
 * [2025-04-23, 12:39:42](https://lobste.rs/s/1ypcby/kworkflow_tool_talk_from_fosdem_2025) - [kworkflow tool talk from FOSDEM 2025](https://melissawen.github.io/blog/2025/04/22/fosdem-2025-kernel-devroom-kworkflow-talk)
 * [2025-04-23, 12:26:18](https://lobste.rs/s/gamz2d/give_it_time) - [Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/)
 * [2025-04-23, 12:16:04](https://lobste.rs/s/zjnc6g/does_using_rust_really_make_your_software) - [Does using Rust really make your software safer?](https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer)
-* [2025-04-23, 12:07:52](https://lobste.rs/s/xq5jrs/gpu_compilation_with_mlir) - [GPU Compilation with MLIR](https://vectorfold.studio/blog/gpu-compilation)
 * [2025-04-23, 11:36:07](https://lobste.rs/s/jvvlpb/14_advanced_python_features) - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
 * [2025-04-23, 09:05:20](https://lobste.rs/s/ygwmhh/reference_huffman_coding) - [Reference Huffman coding](https://www.nayuki.io/page/reference-huffman-coding)
 * [2025-04-23, 08:50:09](https://lobste.rs/s/jqkwak/commodore_64_assembly_part_4_how_does) - [Commodore 64 Assembly, part 4: how does the machine execute machine code?](https://michal.sapka.pl/2025/commodore-64-assembly-part-4-how-does-the-machine-execute-machine-code/)
