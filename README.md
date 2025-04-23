@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-23, 17:53:30](https://lobste.rs/s/f2pe0w/paean_programming) - [A paean to programming](https://bertrandmeyer.com/2025/04/23/a-paean-to-programming/)
 * [2025-04-23, 16:54:54](https://lobste.rs/s/divxvt/danglepoise) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 15:13:13](https://lobste.rs/s/ycnsi3/what_is_cosh_list_bool_beyond_algebra) - [What is cosh(List(Bool))? Or beyond algebra: analysis of data types](https://nikitadanilov.github.io/aodt.html)
 * [2025-04-23, 15:02:31](https://lobste.rs/s/bhlpgi/cheerpj_4_0_webassembly_jvm_for_browser) - [CheerpJ 4.0: WebAssembly JVM for the browser, now with Java 11 and JNI support](https://labs.leaningtech.com/blog/cheerpj-4.0)
@@ -18,7 +19,6 @@
 * [2025-04-22, 21:16:41](https://lobste.rs/s/aassef/clickhouse_gets_lazier_faster) - [ClickHouse gets lazier (and faster): Introducing lazy materialization](https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization)
 * [2025-04-22, 20:48:51](https://lobste.rs/s/iqiglx/where_flakes_fall_off_eval_cache_tale) - [Where Flakes Fall Off: an Eval Cache Tale](https://santi.net.br/blog/where-flakes-fall-off-an-eval-cache-tale/)
 * [2025-04-22, 20:47:37](https://lobste.rs/s/q5vfvv/nine_reasons_use_osh) - [Nine Reasons to Use OSH](https://oils.pub/osh.html)
-* [2025-04-22, 20:34:06](https://lobste.rs/s/id6bpe/no_really_you_can_t_branch_datomic_from) - [No, really, you can’t branch Datomic from the past](https://blog.danieljanus.pl/2025/04/22/datomic-forking-the-past/)
 * [2025-04-22, 19:20:13](https://lobste.rs/s/p7rb36/a5_pentagonal_spatial_index) - [A5 - Pentagonal Spatial Index](https://a5geo.org/)
 * [2025-04-22, 15:11:15](https://lobste.rs/s/84ysx5/start_with_clean_slate_integration) - [Start with a clean slate: Integration testing with PostgreSQL](https://blog.dogac.dev/pg-test-table-track/)
 * [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
