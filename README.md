@@ -5,6 +5,7 @@
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 19:12:52](https://lobste.rs/s/t1lbrg/c_26_more_constexpr_core_language) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 17:53:30](https://lobste.rs/s/f2pe0w/paean_programming) - [A paean to programming](https://bertrandmeyer.com/2025/04/23/a-paean-to-programming/)
+* [2025-04-23, 16:54:54](https://lobste.rs/s/divxvt/danglepoise) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 15:13:13](https://lobste.rs/s/ycnsi3/what_is_cosh_list_bool_beyond_algebra) - [What is cosh(List(Bool))? Or beyond algebra: analysis of data types](https://nikitadanilov.github.io/aodt.html)
 * [2025-04-23, 15:02:31](https://lobste.rs/s/bhlpgi/cheerpj_4_0_webassembly_jvm_for_browser) - [CheerpJ 4.0: WebAssembly JVM for the browser, now with Java 11 and JNI support](https://labs.leaningtech.com/blog/cheerpj-4.0)
 * [2025-04-23, 14:47:45](https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
@@ -24,7 +25,6 @@
 * [2025-04-22, 15:11:15](https://lobste.rs/s/84ysx5/start_with_clean_slate_integration) - [Start with a clean slate: Integration testing with PostgreSQL](https://blog.dogac.dev/pg-test-table-track/)
 * [2025-04-22, 10:00:45](https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power) - [Evertop: E-ink IBM XT clone with solar power, ultra low power consumption, and ultra long battery life](https://github.com/ericjenott/Evertop)
 * [2025-04-22, 08:56:10](https://lobste.rs/s/tlbyzv/make_your_own_internet_presence_with) - [Make Your Own Internet Presence with NetBSD and a 1 euro VPS – Part 1: Your Blog](https://it-notes.dragas.net/2025/04/22/make-your-own-internet-presence-with-netbsd-and-a-1-euro-vps-part-1-your-blog/)
-* [2025-04-22, 06:31:29](https://lobste.rs/s/ydxus1/pipelining_might_be_my_favorite) - [Pipelining might be my favorite programming language feature](https://herecomesthemoon.net/2025/04/pipelining/)
 
 ## [Archives](archives/index.md)
 
