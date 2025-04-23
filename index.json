@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-23, 15:13:13",
+      "https://lobste.rs/s/ycnsi3/what_is_cosh_list_bool_beyond_algebra"
+    ],
+    [
+      "What is cosh(List(Bool))? Or beyond algebra: analysis of data types",
+      "https://nikitadanilov.github.io/aodt.html"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 15:02:31",
       "https://lobste.rs/s/bhlpgi/cheerpj_4_0_webassembly_jvm_for_browser"
     ],
@@ -187,16 +197,6 @@
     [
       "Start with a clean slate: Integration testing with PostgreSQL",
       "https://blog.dogac.dev/pg-test-table-track/"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 13:36:13",
-      "https://lobste.rs/s/aafqoa/detecting_if_expression_is_constant_c"
-    ],
-    [
-      "Detecting if an expression is constant in C",
-      "https://nrk.neocities.org/articles/c-constexpr-macro"
     ]
   ],
   [
