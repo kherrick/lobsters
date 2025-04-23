@@ -1,6 +1,26 @@
 [
   [
     [
+      "2025-04-23, 19:55:55",
+      "https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for"
+    ],
+    [
+      "MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows",
+      "https://minc.commandlinerevolution.nl/english/home.html"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 19:54:44",
+      "https://lobste.rs/s/le4pvw/searchable_linux_syscall_table_for_x86_64"
+    ],
+    [
+      "Searchable Linux Syscall Table for x86_64",
+      "https://filippo.io/linux-syscall-table/"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 19:40:43",
       "https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font"
     ],
@@ -27,16 +47,6 @@
     [
       "A paean to programming",
       "https://bertrandmeyer.com/2025/04/23/a-paean-to-programming/"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 16:54:54",
-      "https://lobste.rs/s/divxvt/danglepoise"
-    ],
-    [
-      "The Danglepoise",
-      "https://www.sallery.co.uk/danglepoise"
     ]
   ],
   [
@@ -177,16 +187,6 @@
     [
       "ClickHouse gets lazier (and faster): Introducing lazy materialization",
       "https://clickhouse.com/blog/clickhouse-gets-lazier-and-faster-introducing-lazy-materialization"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 20:48:51",
-      "https://lobste.rs/s/iqiglx/where_flakes_fall_off_eval_cache_tale"
-    ],
-    [
-      "Where Flakes Fall Off: an Eval Cache Tale",
-      "https://santi.net.br/blog/where-flakes-fall-off-an-eval-cache-tale/"
     ]
   ],
   [
