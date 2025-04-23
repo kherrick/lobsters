@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-23, 15:02:31",
+      "https://lobste.rs/s/bhlpgi/cheerpj_4_0_webassembly_jvm_for_browser"
+    ],
+    [
+      "CheerpJ 4.0: WebAssembly JVM for the browser, now with Java 11 and JNI support",
+      "https://labs.leaningtech.com/blog/cheerpj-4.0"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 14:47:45",
       "https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas"
     ],
@@ -167,16 +177,6 @@
     [
       "A5 - Pentagonal Spatial Index",
       "https://a5geo.org/"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 17:52:47",
-      "https://lobste.rs/s/abrezi/parcom_cl_parser_combinators"
-    ],
-    [
-      "parcom: CL Parser Combinators",
-      "https://github.com/fosskers/parcom"
     ]
   ],
   [
