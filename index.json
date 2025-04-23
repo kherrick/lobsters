@@ -1,6 +1,36 @@
 [
   [
     [
+      "2025-04-23, 12:26:18",
+      "https://lobste.rs/s/gamz2d/give_it_time"
+    ],
+    [
+      "Give it time",
+      "https://ismaelcelis.com/posts/2025-04-give-it-time/"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 12:16:04",
+      "https://lobste.rs/s/zjnc6g/does_using_rust_really_make_your_software"
+    ],
+    [
+      "Does using Rust really make your software safer?",
+      "https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer"
+    ]
+  ],
+  [
+    [
+      "2025-04-23, 12:07:52",
+      "https://lobste.rs/s/xq5jrs/gpu_compilation_with_mlir"
+    ],
+    [
+      "GPU Compilation with MLIR",
+      "https://vectorfold.studio/blog/gpu-compilation"
+    ]
+  ],
+  [
+    [
       "2025-04-23, 11:36:07",
       "https://lobste.rs/s/jvvlpb/14_advanced_python_features"
     ],
@@ -67,16 +97,6 @@
     [
       "Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact",
       "https://web.ist.utl.pt/nuno.lopes/pubs/ub-pldi25.pdf"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 01:35:02",
-      "https://lobste.rs/s/qnozex/swiftui_preferences"
-    ],
-    [
-      "SwiftUI Preferences",
-      "https://shadowfacts.net/2025/swiftui-preferences/"
     ]
   ],
   [
@@ -161,16 +181,6 @@
   ],
   [
     [
-      "2025-04-22, 12:53:45",
-      "https://lobste.rs/s/yjypaz/event_hidden_architectures"
-    ],
-    [
-      "Event-Hidden Architectures",
-      "https://skiplabs.io/blog/event-hidden-arch"
-    ]
-  ],
-  [
-    [
       "2025-04-22, 10:00:45",
       "https://lobste.rs/s/wnuoeu/evertop_e_ink_ibm_xt_clone_with_solar_power"
     ],
@@ -217,16 +227,6 @@
     [
       "Cheating the Reaper in Go",
       "https://mcyoung.xyz/2025/04/21/go-arenas/"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 01:19:50",
-      "https://lobste.rs/s/klqcce/decentralizing_schemes"
-    ],
-    [
-      "Decentralizing Schemes",
-      "https://www.tbray.org/ongoing/When/202x/2025/04/16/Decentralized-Schemes"
     ]
   ],
   [
