@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-24, 03:58:29](https://lobste.rs/s/fkw9va/tools_i_love_are_made_by_awful_people) - [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
 * [2025-04-24, 02:52:51](https://lobste.rs/s/keveyr/exploiting_undefined_behavior_c_c) - [Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact](https://web.ist.utl.pt/nuno.lopes/pubs.php?id=ub-pldi25)
 * [2025-04-23, 23:47:06](https://lobste.rs/s/qzu1yx/qemu_version_10_0_0_released) - [QEMU version 10.0.0 released](https://www.qemu.org/2025/04/23/qemu-10-0-0/)
 * [2025-04-23, 23:37:17](https://lobste.rs/s/kggjfh/graphics_livecoding_common_lisp) - [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
@@ -18,7 +19,6 @@
 * [2025-04-23, 12:26:18](https://lobste.rs/s/gamz2d/give_it_time) - [Give it time](https://ismaelcelis.com/posts/2025-04-give-it-time/)
 * [2025-04-23, 12:16:04](https://lobste.rs/s/zjnc6g/does_using_rust_really_make_your_software) - [Does using Rust really make your software safer?](https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer)
 * [2025-04-23, 11:36:07](https://lobste.rs/s/jvvlpb/14_advanced_python_features) - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
-* [2025-04-23, 09:05:20](https://lobste.rs/s/ygwmhh/reference_huffman_coding) - [Reference Huffman coding](https://www.nayuki.io/page/reference-huffman-coding)
 * [2025-04-23, 08:50:09](https://lobste.rs/s/jqkwak/commodore_64_assembly_part_4_how_does) - [Commodore 64 Assembly, part 4: how does the machine execute machine code?](https://michal.sapka.pl/2025/commodore-64-assembly-part-4-how-does-the-machine-execute-machine-code/)
 * [2025-04-23, 08:25:59](https://lobste.rs/s/ffq9te/coding_as_craft_going_back_old_gym) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
 * [2025-04-23, 06:50:23](https://lobste.rs/s/fdfhkp/hyperscaling_have_i_been_pwned_with) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
