@@ -7,6 +7,7 @@
 * [2025-04-23, 23:47:06](https://lobste.rs/s/qzu1yx/qemu_version_10_0_0_released) - [QEMU version 10.0.0 released](https://www.qemu.org/2025/04/23/qemu-10-0-0/)
 * [2025-04-23, 23:37:17](https://lobste.rs/s/kggjfh/graphics_livecoding_common_lisp) - [Graphics Livecoding in Common Lisp](https://kevingal.com/blog/cl-livecoding.html)
 * [2025-04-23, 23:10:19](https://lobste.rs/s/lwrpus/echoplayer_echo_open_hardware_music) - [echoplayer: Echo - Open Hardware Music Player](https://github.com/amachronic/echoplayer)
+* [2025-04-23, 23:10:19](https://lobste.rs/s/lwrpus/echo_open_hardware_music_player) - [Echo - Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 * [2025-04-23, 23:03:13](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish) - [How to make an Android tablet respect my wish to stay on a WiFi with no internet access?](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish)
 * [2025-04-23, 22:12:23](https://lobste.rs/s/8yyawr/linux_syscall_tables) - [Linux syscall tables](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 * [2025-04-23, 19:55:55](https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for) - [MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows](https://minc.commandlinerevolution.nl/english/home.html)
