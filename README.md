@@ -1,10 +1,10 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
-* [2025-04-24, 18:00:44](https://lobste.rs/s/j1dpuv/ai_horseless_carriages) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
+* [2025-04-24, 19:12:20](https://lobste.rs/s/edtvb3/how_discord_indexes_trillions_messages) - [How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
+* [2025-04-24, 19:04:23](https://lobste.rs/s/ewizat/how_i_got_hacked_warning_about_malicious) - [How I Got Hacked: A Warning about Malicious PoCs](https://chocapikk.com/posts/2025/s1nk/)
 * [2025-04-24, 17:41:12](https://lobste.rs/s/szib3l/trickonometry_math_olympiad) - [The ‘trickonometry’ of math olympiad inequalities](https://www.andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequalities)
 * [2025-04-24, 17:39:18](https://lobste.rs/s/ifowil/i_wrote_address_gplv2_license_notice) - [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 17:35:38](https://lobste.rs/s/do4dwa/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C… in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
-* [2025-04-24, 17:01:33](https://lobste.rs/s/7mtrqz/stonean_spaces_projective_objects_riesz) - [Stonean spaces, projective objects, the Riesz representation theorem, and (possibly) condensed mathematics](https://terrytao.wordpress.com/2025/04/23/stonean-spaces-projective-objects-the-riesz-representation-theorem-and-possibly-condensed-mathematics/)
 * [2025-04-24, 16:53:16](https://lobste.rs/s/pxdkmy/how_commodore_invented_mass_market) - [How Commodore Invented the Mass Market Computer](https://every.to/the-crazy-ones/the-first-king-of-home-computing)
 * [2025-04-24, 14:52:46](https://lobste.rs/s/8s6cxz/what_if_we_could_rebuild_kafka_from) - [What If We Could Rebuild Kafka From Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
 * [2025-04-24, 13:44:48](https://lobste.rs/s/t4oq5z/oniguruma_popular_regex_library_is) - [Oniguruma, a popular regex library, is archived, the project \"ended\"](https://github.com/kkos/oniguruma)
