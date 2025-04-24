@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-24, 09:11:35",
+      "https://lobste.rs/s/s0jqjx/bluefish"
+    ],
+    [
+      "Bluefish",
+      "https://bluefishjs.org/"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 08:40:06",
       "https://lobste.rs/s/perz9q/tacos_unix_like_os_from_scratch_runs_doom"
     ],
@@ -237,16 +247,6 @@
     [
       "Nine Reasons to Use OSH",
       "https://oils.pub/osh.html"
-    ]
-  ],
-  [
-    [
-      "2025-04-22, 15:11:15",
-      "https://lobste.rs/s/84ysx5/start_with_clean_slate_integration"
-    ],
-    [
-      "Start with a clean slate: Integration testing with PostgreSQL",
-      "https://blog.dogac.dev/pg-test-table-track/"
     ]
   ]
 ]
