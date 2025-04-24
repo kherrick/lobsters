@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-24, 12:35:04",
+      "https://lobste.rs/s/dtaae5/avoid_continue"
+    ],
+    [
+      "Avoid continue",
+      "https://www.teamten.com/lawrence/programming/avoid-continue.html"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 11:54:44",
       "https://lobste.rs/s/avp6rw/towards_vortex_1_0"
     ],
@@ -37,16 +47,6 @@
     [
       "Bluefish",
       "https://bluefishjs.org/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 08:40:06",
-      "https://lobste.rs/s/perz9q/tacos_unix_like_os_from_scratch_runs_doom"
-    ],
-    [
-      "TacOS: UNIX-like OS from scratch that runs DOOM",
-      "https://github.com/UnmappedStack/TacOS"
     ]
   ],
   [
