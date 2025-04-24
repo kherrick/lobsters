@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-24, 21:06:40",
+      "https://lobste.rs/s/hopte0/bevy_0_16"
+    ],
+    [
+      "Bevy 0.16",
+      "https://bevyengine.org/news/bevy-0-16/"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 20:30:05",
       "https://lobste.rs/s/j5ardf/pytorch_2_7_release"
     ],
@@ -187,16 +197,6 @@
     [
       "Echo - Open Hardware Music Player",
       "https://github.com/amachronic/echoplayer"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 19:54:44",
-      "https://lobste.rs/s/le4pvw/searchable_linux_syscall_table_for_x86_64"
-    ],
-    [
-      "Searchable Linux Syscall Table for x86_64",
-      "https://filippo.io/linux-syscall-table/"
     ]
   ],
   [
