@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-24, 11:54:44](https://lobste.rs/s/avp6rw/towards_vortex_1_0) - [Towards Vortex 1.0](https://spiraldb.com/post/towards-vortex-10)
 * [2025-04-24, 10:18:50](https://lobste.rs/s/trthse/first_successful_lightning_triggering) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 * [2025-04-24, 09:32:25](https://lobste.rs/s/5zokun/abusing_duckdb_wasm_by_making_sql_draw_3d) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
 * [2025-04-24, 09:11:35](https://lobste.rs/s/s0jqjx/bluefish) - [Bluefish](https://bluefishjs.org/)
@@ -16,7 +17,6 @@
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)
 * [2025-04-23, 19:12:52](https://lobste.rs/s/t1lbrg/c_26_more_constexpr_core_language) - [C++26: more constexpr in the core language](https://www.sandordargo.com/blog/2025/04/23/cpp26-constexpr-language-changes)
 * [2025-04-23, 17:53:30](https://lobste.rs/s/f2pe0w/paean_programming) - [A paean to programming](https://bertrandmeyer.com/2025/04/23/a-paean-to-programming/)
-* [2025-04-23, 16:54:54](https://lobste.rs/s/divxvt/danglepoise) - [The Danglepoise](https://www.sallery.co.uk/danglepoise)
 * [2025-04-23, 15:13:13](https://lobste.rs/s/ycnsi3/what_is_cosh_list_bool_beyond_algebra) - [What is cosh(List(Bool))? Or beyond algebra: analysis of data types](https://nikitadanilov.github.io/aodt.html)
 * [2025-04-23, 15:02:31](https://lobste.rs/s/bhlpgi/cheerpj_4_0_webassembly_jvm_for_browser) - [CheerpJ 4.0: WebAssembly JVM for the browser, now with Java 11 and JNI support](https://labs.leaningtech.com/blog/cheerpj-4.0)
 * [2025-04-23, 14:47:45](https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
