@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 14:24:14](https://lobste.rs/s/b6jco2/fifty_years_open_source_software_supply) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
 * [2025-04-24, 13:44:48](https://lobste.rs/s/t4oq5z/oniguruma_popular_regex_library_is) - [Oniguruma, a popular regex library, is archived, the project \"ended\"](https://github.com/kkos/oniguruma)
 * [2025-04-24, 13:35:57](https://lobste.rs/s/uhyijm/github_potential_leaking_private_emails) - [GitHub potential leaking of private emails and Hacker One](https://omarabid.com/hacker-one)
 * [2025-04-24, 13:27:33](https://lobste.rs/s/zgj0jz/requirements_change_until_they_don_t) - [Requirements change until they don't](https://buttondown.com/hillelwayne/archive/requirements-change-until-they-dont/)
