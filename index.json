@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-24, 14:24:14",
+      "https://lobste.rs/s/b6jco2/fifty_years_open_source_software_supply"
+    ],
+    [
+      "Fifty Years of Open Source Software Supply Chain Security",
+      "https://queue.acm.org/detail.cfm?id=3722542"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 13:44:48",
       "https://lobste.rs/s/t4oq5z/oniguruma_popular_regex_library_is"
     ],
@@ -67,16 +77,6 @@
     [
       "Bluefish",
       "https://bluefishjs.org/"
-    ]
-  ],
-  [
-    [
-      "2025-04-24, 08:40:06",
-      "https://lobste.rs/s/perz9q/tacos_unix_like_os_from_scratch_runs_doom"
-    ],
-    [
-      "TacOS: UNIX-like OS from scratch that runs DOOM",
-      "https://github.com/UnmappedStack/TacOS"
     ]
   ],
   [
