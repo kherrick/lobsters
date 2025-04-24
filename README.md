@@ -1,8 +1,8 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-24, 22:22:29](https://lobste.rs/s/dpeywc/nats_ownership_reclaimed_by_original) - [NATS ownership reclaimed by original donor from CNCF](https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
 * [2025-04-24, 21:06:40](https://lobste.rs/s/hopte0/bevy_0_16) - [Bevy 0.16](https://bevyengine.org/news/bevy-0-16/)
 * [2025-04-24, 20:30:05](https://lobste.rs/s/j5ardf/pytorch_2_7_release) - [PyTorch 2.7 Release](https://pytorch.org/blog/pytorch-2-7/)
-* [2025-04-24, 20:19:13](https://lobste.rs/s/xmhtzq/mcp_security_tool_poisoning_attacks) - [MCP Security: Tool Poisoning Attacks](https://invariantlabs.ai/blog/mcp-security-notification-tool-poisoning-attacks)
 * [2025-04-24, 19:12:20](https://lobste.rs/s/edtvb3/how_discord_indexes_trillions_messages) - [How Discord Indexes Trillions of Messages](https://discord.com/blog/how-discord-indexes-trillions-of-messages)
 * [2025-04-24, 19:04:23](https://lobste.rs/s/ewizat/how_i_got_hacked_warning_about_malicious) - [How I Got Hacked: A Warning about Malicious PoCs](https://chocapikk.com/posts/2025/s1nk/)
 * [2025-04-24, 17:41:12](https://lobste.rs/s/szib3l/trickonometry_math_olympiad) - [The ‘trickonometry’ of math olympiad inequalities](https://www.andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequalities)
