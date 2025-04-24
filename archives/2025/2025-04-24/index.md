@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 10:18:50](https://lobste.rs/s/trthse/first_successful_lightning_triggering) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
 * [2025-04-24, 09:32:25](https://lobste.rs/s/5zokun/abusing_duckdb_wasm_by_making_sql_draw_3d) - [Abusing DuckDB-WASM by making SQL draw 3D graphics (Sort Of)](https://www.hey.earth/posts/duckdb-doom)
 * [2025-04-24, 09:11:35](https://lobste.rs/s/s0jqjx/bluefish) - [Bluefish](https://bluefishjs.org/)
 * [2025-04-24, 08:40:06](https://lobste.rs/s/perz9q/tacos_unix_like_os_from_scratch_runs_doom) - [TacOS: UNIX-like OS from scratch that runs DOOM](https://github.com/UnmappedStack/TacOS)
