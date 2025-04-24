@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-24, 09:11:35](https://lobste.rs/s/s0jqjx/bluefish) - [Bluefish](https://bluefishjs.org/)
 * [2025-04-24, 08:40:06](https://lobste.rs/s/perz9q/tacos_unix_like_os_from_scratch_runs_doom) - [TacOS: UNIX-like OS from scratch that runs DOOM](https://github.com/UnmappedStack/TacOS)
 * [2025-04-24, 03:58:29](https://lobste.rs/s/fkw9va/tools_i_love_are_made_by_awful_people) - [The tools I love are made by awful people](https://ankursethi.com/blog/the-tools-i-love-are-made-by-awful-people/)
 * [2025-04-24, 02:52:51](https://lobste.rs/s/keveyr/exploiting_undefined_behavior_c_c) - [Exploiting Undefined Behavior in C/C++ Programs for Optimization: A Study on the Performance Impact](https://web.ist.utl.pt/nuno.lopes/pubs.php?id=ub-pldi25)
@@ -24,7 +25,6 @@
 * [2025-04-23, 08:25:59](https://lobste.rs/s/ffq9te/coding_as_craft_going_back_old_gym) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
 * [2025-04-23, 06:50:23](https://lobste.rs/s/fdfhkp/hyperscaling_have_i_been_pwned_with) - [Hyperscaling Have I Been Pwned with Cloudflare Workers and Caching](https://www.troyhunt.com/closer-to-the-edge-hyperscaling-have-i-been-pwned-with-cloudflare-workers-and-caching/)
 * [2025-04-22, 20:47:37](https://lobste.rs/s/q5vfvv/nine_reasons_use_osh) - [Nine Reasons to Use OSH](https://oils.pub/osh.html)
-* [2025-04-22, 15:11:15](https://lobste.rs/s/84ysx5/start_with_clean_slate_integration) - [Start with a clean slate: Integration testing with PostgreSQL](https://blog.dogac.dev/pg-test-table-track/)
 
 ## [Archives](archives/index.md)
 
