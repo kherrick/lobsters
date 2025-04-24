@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-24, 16:53:16](https://lobste.rs/s/pxdkmy/how_commodore_invented_mass_market) - [How Commodore Invented the Mass Market Computer](https://every.to/the-crazy-ones/the-first-king-of-home-computing)
 * [2025-04-24, 16:01:28](https://lobste.rs/s/mjhxgd/floating_point_round_trip_radix) - [Floating point round trip radix conversion](https://www.johndcook.com/blog/2020/03/16/round-trip-radix-conversion/)
 * [2025-04-24, 14:52:46](https://lobste.rs/s/8s6cxz/what_if_we_could_rebuild_kafka_from) - [What If We Could Rebuild Kafka From Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
 * [2025-04-24, 13:44:48](https://lobste.rs/s/t4oq5z/oniguruma_popular_regex_library_is) - [Oniguruma, a popular regex library, is archived, the project \"ended\"](https://github.com/kkos/oniguruma)
@@ -23,7 +24,6 @@
 * [2025-04-23, 14:47:45](https://lobste.rs/s/vsjb87/how_20_year_old_bug_gta_san_andreas) - [How a 20 year old bug in GTA San Andreas surfaced in Windows 11 24H2](https://cookieplmonster.github.io/2025/04/23/gta-san-andreas-win11-24h2-bug/)
 * [2025-04-23, 12:16:04](https://lobste.rs/s/zjnc6g/does_using_rust_really_make_your_software) - [Does using Rust really make your software safer?](https://tweedegolf.nl/en/blog/152/does-using-rust-really-make-your-software-safer)
 * [2025-04-23, 11:36:07](https://lobste.rs/s/jvvlpb/14_advanced_python_features) - [14 Advanced Python Features](https://blog.edward-li.com/tech/advanced-python-features/)
-* [2025-04-23, 08:25:59](https://lobste.rs/s/ffq9te/coding_as_craft_going_back_old_gym) - [Coding as Craft: Going Back to the Old Gym](https://cekrem.github.io/posts/coding-as-craft-going-back-to-the-old-gym/)
 * [2025-04-22, 20:47:37](https://lobste.rs/s/q5vfvv/nine_reasons_use_osh) - [Nine Reasons to Use OSH](https://oils.pub/osh.html)
 
 ## [Archives](archives/index.md)

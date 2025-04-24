@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 16:53:16](https://lobste.rs/s/pxdkmy/how_commodore_invented_mass_market) - [How Commodore Invented the Mass Market Computer](https://every.to/the-crazy-ones/the-first-king-of-home-computing)
 * [2025-04-24, 16:01:28](https://lobste.rs/s/mjhxgd/floating_point_round_trip_radix) - [Floating point round trip radix conversion](https://www.johndcook.com/blog/2020/03/16/round-trip-radix-conversion/)
 * [2025-04-24, 14:52:46](https://lobste.rs/s/8s6cxz/what_if_we_could_rebuild_kafka_from) - [What If We Could Rebuild Kafka From Scratch?](https://www.morling.dev/blog/what-if-we-could-rebuild-kafka-from-scratch/)
 * [2025-04-24, 14:24:14](https://lobste.rs/s/b6jco2/fifty_years_open_source_software_supply) - [Fifty Years of Open Source Software Supply Chain Security](https://queue.acm.org/detail.cfm?id=3722542)
