@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 23:41:57](https://lobste.rs/s/yo3kj5/path_should_be_system_call) - [PATH should be a system call](https://simonsafar.com/2025/path_as_system_call/)
 * [2025-04-24, 22:22:29](https://lobste.rs/s/dpeywc/nats_ownership_reclaimed_by_original) - [NATS ownership reclaimed by original donor from CNCF](https://www.cncf.io/blog/2025/04/24/protecting-nats-and-the-integrity-of-open-source-cncfs-commitment-to-the-community/)
 * [2025-04-24, 21:06:40](https://lobste.rs/s/hopte0/bevy_0_16) - [Bevy 0.16](https://bevyengine.org/news/bevy-0-16/)
 * [2025-04-24, 20:30:05](https://lobste.rs/s/j5ardf/pytorch_2_7_release) - [PyTorch 2.7 Release](https://pytorch.org/blog/pytorch-2-7/)
