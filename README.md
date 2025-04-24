@@ -1,5 +1,6 @@
 # [Lobsters](https://kherrick.github.io/lobsters/)
 
+* [2025-04-24, 18:00:44](https://lobste.rs/s/j1dpuv/ai_horseless_carriages) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-24, 17:41:12](https://lobste.rs/s/szib3l/trickonometry_math_olympiad) - [The ‘trickonometry’ of math olympiad inequalities](https://www.andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequalities)
 * [2025-04-24, 17:39:18](https://lobste.rs/s/ifowil/i_wrote_address_gplv2_license_notice) - [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 17:35:38](https://lobste.rs/s/do4dwa/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C… in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
@@ -17,7 +18,6 @@
 * [2025-04-23, 23:47:06](https://lobste.rs/s/qzu1yx/qemu_version_10_0_0_released) - [QEMU version 10.0.0 released](https://www.qemu.org/2025/04/23/qemu-10-0-0/)
 * [2025-04-23, 23:10:19](https://lobste.rs/s/lwrpus/echo_open_hardware_music_player) - [Echo - Open Hardware Music Player](https://github.com/amachronic/echoplayer)
 * [2025-04-23, 23:03:13](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish) - [How to make an Android tablet respect my wish to stay on a WiFi with no internet access?](https://lobste.rs/s/okm5za/how_make_android_tablet_respect_my_wish)
-* [2025-04-23, 22:12:23](https://lobste.rs/s/8yyawr/linux_syscall_tables) - [Linux syscall tables](https://syscalls.mebeim.net/?table=x86/64/x64/latest)
 * [2025-04-23, 19:55:55](https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for) - [MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows](https://minc.commandlinerevolution.nl/english/home.html)
 * [2025-04-23, 19:54:44](https://lobste.rs/s/le4pvw/searchable_linux_syscall_table_for_x86_64) - [Searchable Linux Syscall Table for x86_64](https://filippo.io/linux-syscall-table/)
 * [2025-04-23, 19:40:43](https://lobste.rs/s/5wvnry/you_wouldn_t_steal_font) - [You wouldn't steal a font](https://fedi.rib.gay/notes/a6xqityngfubsz0f)

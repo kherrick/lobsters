@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 18:00:44](https://lobste.rs/s/j1dpuv/ai_horseless_carriages) - [AI Horseless Carriages](https://koomen.dev/essays/horseless-carriages/)
 * [2025-04-24, 17:41:12](https://lobste.rs/s/szib3l/trickonometry_math_olympiad) - [The ‘trickonometry’ of math olympiad inequalities](https://www.andreinc.net/2025/03/17/the-trickonometry-of-math-olympiad-inequalities)
 * [2025-04-24, 17:39:18](https://lobste.rs/s/ifowil/i_wrote_address_gplv2_license_notice) - [I wrote to the address in the GPLv2 license notice and received the GPLv3 license](https://code.mendhak.com/gpl-v2-address-letter/)
 * [2025-04-24, 17:35:38](https://lobste.rs/s/do4dwa/speeding_up_ruby_by_rewriting_c_ruby) - [Speeding up Ruby by rewriting C… in Ruby](https://jpcamara.com/2024/12/01/speeding-up-ruby.html)
