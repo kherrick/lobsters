@@ -1,6 +1,16 @@
 [
   [
     [
+      "2025-04-24, 20:30:05",
+      "https://lobste.rs/s/j5ardf/pytorch_2_7_release"
+    ],
+    [
+      "PyTorch 2.7 Release",
+      "https://pytorch.org/blog/pytorch-2-7/"
+    ]
+  ],
+  [
+    [
       "2025-04-24, 20:19:13",
       "https://lobste.rs/s/xmhtzq/mcp_security_tool_poisoning_attacks"
     ],
@@ -177,16 +187,6 @@
     [
       "Echo - Open Hardware Music Player",
       "https://github.com/amachronic/echoplayer"
-    ]
-  ],
-  [
-    [
-      "2025-04-23, 19:55:55",
-      "https://lobste.rs/s/bny5ko/minc_openbsd_flavored_cygwin_alike_for"
-    ],
-    [
-      "MinC - OpenBSD-flavored cygwin-alike for running UNIX-y things on Windows",
-      "https://minc.commandlinerevolution.nl/english/home.html"
     ]
   ],
   [
