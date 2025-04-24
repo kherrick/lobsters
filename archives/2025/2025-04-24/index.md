@@ -4,6 +4,7 @@
 
 ### [Archives](../../index.md) for [2025-04-24](index.md)
 
+* [2025-04-24, 12:35:04](https://lobste.rs/s/dtaae5/avoid_continue) - [Avoid continue](https://www.teamten.com/lawrence/programming/avoid-continue.html)
 * [2025-04-24, 11:54:44](https://lobste.rs/s/avp6rw/towards_vortex_1_0) - [Towards Vortex 1.0](https://spiraldb.com/post/towards-vortex-10)
 * [2025-04-24, 10:39:33](https://lobste.rs/s/o9lkko/america_underestimates_difficulty) - [America Underestimates the Difficulty of Bringing Manufacturing Back](https://www.molsonhart.com/blog/america-underestimates-the-difficulty-of-bringing-manufacturing-back)
 * [2025-04-24, 10:18:50](https://lobste.rs/s/trthse/first_successful_lightning_triggering) - [First Successful Lightning Triggering and Guiding Using a Drone](https://group.ntt/en/newsrelease/2025/04/18/250418a.html)
